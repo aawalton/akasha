@@ -5,7 +5,7 @@ export const cinnamonBun0420ChapterFourHundredAndSevenOffTheBooks = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0420-chapter-four-hundred-and-seven-off-the-books",
   title: "Chapter Four Hundred and Seven - Off the Books",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 420,
   ownLength: 1949,
   unitSlug: "words",

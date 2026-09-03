@@ -5,7 +5,7 @@ export const cinnamonBun0258ChapterTwoHundredAndFiftyChainOfCommand = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0258-chapter-two-hundred-and-fifty-chain-of-command",
   title: "Chapter Two Hundred and Fifty - Chain of Command",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 258,
   ownLength: 1960,
   unitSlug: "words",

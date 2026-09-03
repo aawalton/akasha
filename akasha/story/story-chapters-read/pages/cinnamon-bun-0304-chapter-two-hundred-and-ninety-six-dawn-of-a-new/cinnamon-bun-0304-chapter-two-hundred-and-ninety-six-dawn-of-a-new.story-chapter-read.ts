@@ -5,7 +5,7 @@ export const cinnamonBun0304ChapterTwoHundredAndNinetySixDawnOfANew = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0304-chapter-two-hundred-and-ninety-six-dawn-of-a-new",
   title: "Chapter Two Hundred and Ninety-Six - Dawn of a New Day",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 304,
   ownLength: 1980,
   unitSlug: "words",

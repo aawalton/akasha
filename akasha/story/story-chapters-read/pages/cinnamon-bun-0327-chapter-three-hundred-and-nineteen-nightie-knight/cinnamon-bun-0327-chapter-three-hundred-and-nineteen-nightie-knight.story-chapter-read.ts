@@ -5,7 +5,7 @@ export const cinnamonBun0327ChapterThreeHundredAndNineteenNightieKnight = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0327-chapter-three-hundred-and-nineteen-nightie-knight",
   title: "Chapter Three Hundred and Nineteen - Nightie Knight",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 327,
   ownLength: 2029,
   unitSlug: "words",

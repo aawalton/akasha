@@ -5,7 +5,7 @@ export const cinnamonBun0390ChapterThreeHundredAndSeventyEightPayForIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0390-chapter-three-hundred-and-seventy-eight-pay-for-it",
   title: "Chapter Three Hundred and Seventy-Eight - Pay for It",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 390,
   ownLength: 2088,
   unitSlug: "words",

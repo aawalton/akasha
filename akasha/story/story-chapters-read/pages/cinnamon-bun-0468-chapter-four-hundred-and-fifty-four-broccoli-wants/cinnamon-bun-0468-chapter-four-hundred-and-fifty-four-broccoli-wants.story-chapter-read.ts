@@ -5,7 +5,7 @@ export const cinnamonBun0468ChapterFourHundredAndFiftyFourBroccoliWants = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0468-chapter-four-hundred-and-fifty-four-broccoli-wants",
   title: "Chapter Four Hundred and Fifty-Four - Broccoli Wants You!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 468,
   ownLength: 1574,
   unitSlug: "words",

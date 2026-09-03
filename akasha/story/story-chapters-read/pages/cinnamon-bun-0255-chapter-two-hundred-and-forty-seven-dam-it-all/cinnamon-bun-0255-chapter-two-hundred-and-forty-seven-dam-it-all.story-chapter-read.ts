@@ -5,7 +5,7 @@ export const cinnamonBun0255ChapterTwoHundredAndFortySevenDamItAll = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0255-chapter-two-hundred-and-forty-seven-dam-it-all",
   title: "Chapter Two Hundred and Forty-Seven - Dam It All",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 255,
   ownLength: 1937,
   unitSlug: "words",

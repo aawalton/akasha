@@ -5,7 +5,7 @@ export const cinnamonBun0357ChapterThreeHundredAndFortyNineFoodFor = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0357-chapter-three-hundred-and-forty-nine-food-for",
   title: "Chapter Three Hundred and Forty-Nine - Food for Thought",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 357,
   ownLength: 1998,
   unitSlug: "words",

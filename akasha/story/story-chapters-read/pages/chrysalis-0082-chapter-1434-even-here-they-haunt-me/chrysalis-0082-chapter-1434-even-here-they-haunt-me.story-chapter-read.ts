@@ -5,7 +5,7 @@ export const chrysalis0082Chapter1434EvenHereTheyHauntMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0082-chapter-1434-even-here-they-haunt-me",
   title: "Chapter 1434 - Even Here, They Haunt Me",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 82,
   ownLength: 1011,
   ownProgress: 1011,

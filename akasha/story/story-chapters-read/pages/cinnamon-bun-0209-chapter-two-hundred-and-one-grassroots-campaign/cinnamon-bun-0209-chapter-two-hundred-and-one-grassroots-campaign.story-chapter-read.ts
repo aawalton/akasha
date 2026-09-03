@@ -5,7 +5,7 @@ export const cinnamonBun0209ChapterTwoHundredAndOneGrassrootsCampaign = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0209-chapter-two-hundred-and-one-grassroots-campaign",
   title: "Chapter Two Hundred and One - Grassroots Campaign",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 209,
   ownLength: 1977,
   unitSlug: "words",

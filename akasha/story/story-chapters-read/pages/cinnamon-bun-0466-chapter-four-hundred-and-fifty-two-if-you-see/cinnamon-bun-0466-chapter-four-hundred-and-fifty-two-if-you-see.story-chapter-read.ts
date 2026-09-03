@@ -5,7 +5,7 @@ export const cinnamonBun0466ChapterFourHundredAndFiftyTwoIfYouSee = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0466-chapter-four-hundred-and-fifty-two-if-you-see",
   title: "Chapter Four Hundred and Fifty-Two - If You See Something, Say Something",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 466,
   ownLength: 1555,
   unitSlug: "words",

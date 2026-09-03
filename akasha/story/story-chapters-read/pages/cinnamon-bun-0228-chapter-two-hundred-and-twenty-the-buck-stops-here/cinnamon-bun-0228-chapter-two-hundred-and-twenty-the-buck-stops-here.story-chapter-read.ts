@@ -5,7 +5,7 @@ export const cinnamonBun0228ChapterTwoHundredAndTwentyTheBuckStopsHere = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0228-chapter-two-hundred-and-twenty-the-buck-stops-here",
   title: "Chapter Two Hundred and Twenty - The Buck Stops Here",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 228,
   ownLength: 1921,
   unitSlug: "words",

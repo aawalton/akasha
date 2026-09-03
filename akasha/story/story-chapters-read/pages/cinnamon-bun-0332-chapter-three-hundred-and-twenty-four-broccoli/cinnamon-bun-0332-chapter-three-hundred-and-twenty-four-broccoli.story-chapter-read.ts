@@ -5,7 +5,7 @@ export const cinnamonBun0332ChapterThreeHundredAndTwentyFourBroccoli = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0332-chapter-three-hundred-and-twenty-four-broccoli",
   title: "Chapter Three Hundred and Twenty-Four - Broccoli & Friends Mercenary Company",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 332,
   ownLength: 2073,
   unitSlug: "words",

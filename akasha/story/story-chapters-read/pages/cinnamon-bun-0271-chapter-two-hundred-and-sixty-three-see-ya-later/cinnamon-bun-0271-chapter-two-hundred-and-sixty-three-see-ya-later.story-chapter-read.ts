@@ -5,7 +5,7 @@ export const cinnamonBun0271ChapterTwoHundredAndSixtyThreeSeeYaLater = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0271-chapter-two-hundred-and-sixty-three-see-ya-later",
   title: "Chapter Two Hundred and Sixty-Three - See Ya Later!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 271,
   ownLength: 1980,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0088Chapter1440TurtleSoup = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0088-chapter-1440-turtle-soup",
   title: "Chapter 1440 - Turtle Soup",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 88,
   ownLength: 1151,
   ownProgress: 1151,

@@ -5,7 +5,7 @@ export const cinnamonBun0436ChapterFourHundredAndTwentyTwoSunriseOver = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0436-chapter-four-hundred-and-twenty-two-sunrise-over",
   title: "Chapter Four Hundred and Twenty-Two - Sunrise Over Smoulderglen",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 436,
   ownLength: 1978,
   unitSlug: "words",

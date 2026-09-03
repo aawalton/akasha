@@ -5,7 +5,7 @@ export const chrysalis0061Chapter1413IKnowThatSong = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0061-chapter-1413-i-know-that-song",
   title: "Chapter 1413 - I Know That Song",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 61,
   ownLength: 1042,
   ownProgress: 1042,

@@ -5,7 +5,7 @@ export const chrysalis0025Chapter1378TravellingInTheFourth = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0025-chapter-1378-travelling-in-the-fourth",
   title: "Chapter 1378 - Travelling in the Fourth",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 25,
   ownLength: 1022,
   ownProgress: 1022,

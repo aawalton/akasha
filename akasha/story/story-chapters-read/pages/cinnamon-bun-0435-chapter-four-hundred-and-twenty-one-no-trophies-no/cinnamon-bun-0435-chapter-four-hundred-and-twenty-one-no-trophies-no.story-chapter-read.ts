@@ -6,7 +6,7 @@ export const cinnamonBun0435ChapterFourHundredAndTwentyOneNoTrophiesNo = {
   slug: "cinnamon-bun-0435-chapter-four-hundred-and-twenty-one-no-trophies-no",
   title:
     "Chapter Four Hundred and Twenty-One - No Trophies, No Flowers, No Flashbulbs, but at Least there's W",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 435,
   ownLength: 1970,
   unitSlug: "words",

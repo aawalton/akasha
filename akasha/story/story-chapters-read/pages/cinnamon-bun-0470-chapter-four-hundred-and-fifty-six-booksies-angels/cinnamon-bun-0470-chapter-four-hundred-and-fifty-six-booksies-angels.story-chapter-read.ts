@@ -5,7 +5,7 @@ export const cinnamonBun0470ChapterFourHundredAndFiftySixBooksiesAngels = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0470-chapter-four-hundred-and-fifty-six-booksies-angels",
   title: "Chapter Four Hundred and Fifty-Six - Booksie's Angels",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 470,
   ownLength: 1488,
   unitSlug: "words",

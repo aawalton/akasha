@@ -5,7 +5,7 @@ export const cinnamonBun0212ChapterTwoHundredAndFourImmuneSystem = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0212-chapter-two-hundred-and-four-immune-system",
   title: "Chapter Two Hundred and Four - Immune System",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 212,
   ownLength: 1956,
   unitSlug: "words",

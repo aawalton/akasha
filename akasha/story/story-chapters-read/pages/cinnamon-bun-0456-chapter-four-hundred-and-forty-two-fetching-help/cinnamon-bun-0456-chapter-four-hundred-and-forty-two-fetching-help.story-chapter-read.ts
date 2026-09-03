@@ -5,7 +5,7 @@ export const cinnamonBun0456ChapterFourHundredAndFortyTwoFetchingHelp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0456-chapter-four-hundred-and-forty-two-fetching-help",
   title: "Chapter Four Hundred and Forty-Two - Fetching Help III: The Helpening",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 456,
   ownLength: 1463,
   unitSlug: "words",

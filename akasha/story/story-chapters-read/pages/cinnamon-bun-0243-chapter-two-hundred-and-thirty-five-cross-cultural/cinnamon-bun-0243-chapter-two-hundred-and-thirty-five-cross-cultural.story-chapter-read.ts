@@ -5,7 +5,7 @@ export const cinnamonBun0243ChapterTwoHundredAndThirtyFiveCrossCultural = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0243-chapter-two-hundred-and-thirty-five-cross-cultural",
   title: "Chapter Two Hundred and Thirty-Five - Cross-cultural Xenopsychology 101",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 243,
   ownLength: 2041,
   unitSlug: "words",

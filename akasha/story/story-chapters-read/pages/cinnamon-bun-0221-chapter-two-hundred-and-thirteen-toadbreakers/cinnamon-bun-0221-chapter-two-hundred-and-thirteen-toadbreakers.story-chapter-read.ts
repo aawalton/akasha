@@ -5,7 +5,7 @@ export const cinnamonBun0221ChapterTwoHundredAndThirteenToadbreakers = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0221-chapter-two-hundred-and-thirteen-toadbreakers",
   title: "Chapter Two Hundred and Thirteen - Toadbreakers",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 221,
   ownLength: 1938,
   unitSlug: "words",

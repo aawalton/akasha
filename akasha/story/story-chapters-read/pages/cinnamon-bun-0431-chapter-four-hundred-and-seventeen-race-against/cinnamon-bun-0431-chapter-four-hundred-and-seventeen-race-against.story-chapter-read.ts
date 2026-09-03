@@ -5,7 +5,7 @@ export const cinnamonBun0431ChapterFourHundredAndSeventeenRaceAgainst = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0431-chapter-four-hundred-and-seventeen-race-against",
   title: "Chapter Four Hundred and Seventeen - Race Against Time",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 431,
   ownLength: 2063,
   unitSlug: "words",

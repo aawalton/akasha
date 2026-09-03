@@ -5,7 +5,7 @@ export const cinnamonBun0335ChapterThreeHundredAndTwentySevenFlightOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0335-chapter-three-hundred-and-twenty-seven-flight-of",
   title: "Chapter Three Hundred and Twenty-Seven - Flight of the Wyverns",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 335,
   ownLength: 1970,
   unitSlug: "words",

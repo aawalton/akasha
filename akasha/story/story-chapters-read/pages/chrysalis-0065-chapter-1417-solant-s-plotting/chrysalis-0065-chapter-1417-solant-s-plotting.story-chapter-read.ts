@@ -5,7 +5,7 @@ export const chrysalis0065Chapter1417SolantSPlotting = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0065-chapter-1417-solant-s-plotting",
   title: "Chapter 1417 - Solant’s Plotting",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 65,
   ownLength: 1093,
   ownProgress: 1093,

@@ -5,7 +5,7 @@ export const cinnamonBun0488ChapterFourHundredAndSeventyFourJudgement = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0488-chapter-four-hundred-and-seventy-four-judgement",
   title: "Chapter Four Hundred and Seventy-Four - Judgement Day",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 488,
   ownLength: 1511,
   unitSlug: "words",

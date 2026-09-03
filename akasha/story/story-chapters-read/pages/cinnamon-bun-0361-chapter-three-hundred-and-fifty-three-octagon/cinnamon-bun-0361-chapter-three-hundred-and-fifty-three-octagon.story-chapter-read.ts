@@ -5,7 +5,7 @@ export const cinnamonBun0361ChapterThreeHundredAndFiftyThreeOctagon = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0361-chapter-three-hundred-and-fifty-three-octagon",
   title: "Chapter Three Hundred and Fifty-Three - Octagon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 361,
   ownLength: 1965,
   unitSlug: "words",

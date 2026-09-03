@@ -5,7 +5,7 @@ export const cinnamonBun0296ChapterTwoHundredAndEightyEightYouveGotta = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0296-chapter-two-hundred-and-eighty-eight-youve-gotta",
   title: "Chapter Two Hundred and Eighty-Eight - You've Gotta Right to Your Fights",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 296,
   ownLength: 1823,
   unitSlug: "words",

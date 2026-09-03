@@ -5,7 +5,7 @@ export const cinnamonBun0349ChapterThreeHundredAndFortyOneALittleBird = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0349-chapter-three-hundred-and-forty-one-a-little-bird",
   title: "Chapter Three Hundred and Forty-One - A Little Bird Told Me",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 349,
   ownLength: 2083,
   unitSlug: "words",

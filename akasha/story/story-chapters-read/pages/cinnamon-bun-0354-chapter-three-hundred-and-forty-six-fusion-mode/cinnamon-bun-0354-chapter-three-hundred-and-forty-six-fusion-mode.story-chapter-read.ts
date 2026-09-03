@@ -5,7 +5,7 @@ export const cinnamonBun0354ChapterThreeHundredAndFortySixFusionMode = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0354-chapter-three-hundred-and-forty-six-fusion-mode",
   title: "Chapter Three Hundred and Forty-Six - Fusion Mode",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 354,
   ownLength: 1854,
   unitSlug: "words",

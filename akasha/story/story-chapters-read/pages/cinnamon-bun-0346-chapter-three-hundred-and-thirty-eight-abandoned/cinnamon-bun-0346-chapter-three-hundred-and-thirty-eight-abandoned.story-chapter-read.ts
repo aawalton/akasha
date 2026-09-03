@@ -5,7 +5,7 @@ export const cinnamonBun0346ChapterThreeHundredAndThirtyEightAbandoned = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0346-chapter-three-hundred-and-thirty-eight-abandoned",
   title: "Chapter Three Hundred and Thirty-Eight - Abandoned Ship",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 346,
   ownLength: 2162,
   unitSlug: "words",

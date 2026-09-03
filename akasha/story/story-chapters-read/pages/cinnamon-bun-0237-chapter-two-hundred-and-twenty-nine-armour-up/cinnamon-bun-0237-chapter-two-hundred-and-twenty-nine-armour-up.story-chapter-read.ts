@@ -5,7 +5,7 @@ export const cinnamonBun0237ChapterTwoHundredAndTwentyNineArmourUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0237-chapter-two-hundred-and-twenty-nine-armour-up",
   title: "Chapter Two Hundred and Twenty-Nine - Armour Up",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 237,
   ownLength: 1919,
   unitSlug: "words",

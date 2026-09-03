@@ -5,7 +5,7 @@ export const cinnamonBun0322ChapterThreeHundredAndFourteenUnbearableArms = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0322-chapter-three-hundred-and-fourteen-unbearable-arms",
   title: "Chapter Three Hundred and Fourteen - Unbearable Arms",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 322,
   ownLength: 2025,
   unitSlug: "words",

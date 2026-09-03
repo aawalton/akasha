@@ -5,7 +5,7 @@ export const chrysalis0052Chapter1405TheFifthRevealsItself = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0052-chapter-1405-the-fifth-reveals-itself",
   title: "Chapter 1405 - The Fifth Reveals Itself",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 52,
   ownLength: 1042,
   ownProgress: 1042,

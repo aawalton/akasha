@@ -5,7 +5,7 @@ export const cinnamonBun0434ChapterFourHundredAndTwentySpeedThroughThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0434-chapter-four-hundred-and-twenty-speed-through-the",
   title: "Chapter Four Hundred and Twenty - Speed Through the Finish",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 434,
   ownLength: 2033,
   unitSlug: "words",

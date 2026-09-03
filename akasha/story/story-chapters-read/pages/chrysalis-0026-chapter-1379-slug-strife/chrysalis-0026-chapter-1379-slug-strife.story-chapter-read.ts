@@ -5,7 +5,7 @@ export const chrysalis0026Chapter1379SlugStrife = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0026-chapter-1379-slug-strife",
   title: "Chapter 1379 - Slug Strife",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 26,
   ownLength: 900,
   ownProgress: 900,

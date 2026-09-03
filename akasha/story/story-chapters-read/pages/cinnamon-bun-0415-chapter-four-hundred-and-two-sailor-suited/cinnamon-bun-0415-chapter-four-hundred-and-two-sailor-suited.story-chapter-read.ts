@@ -5,7 +5,7 @@ export const cinnamonBun0415ChapterFourHundredAndTwoSailorSuited = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0415-chapter-four-hundred-and-two-sailor-suited",
   title: "Chapter Four Hundred and Two - Sailor-Suited Soldiers of Love and Justice!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 415,
   ownLength: 1946,
   unitSlug: "words",

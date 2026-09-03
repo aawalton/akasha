@@ -5,7 +5,7 @@ export const cinnamonBun0386ChapterThreeHundredAndSeventyFourLateToBed = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0386-chapter-three-hundred-and-seventy-four-late-to-bed",
   title: "Chapter Three Hundred and Seventy-Four - Late to Bed and Late to Rise",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 386,
   ownLength: 1944,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0236ChapterTwoHundredAndTwentyEightTheGreat = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0236-chapter-two-hundred-and-twenty-eight-the-great",
   title: "Chapter Two Hundred and Twenty-Eight - The Great Grey Wall",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 236,
   ownLength: 1929,
   unitSlug: "words",

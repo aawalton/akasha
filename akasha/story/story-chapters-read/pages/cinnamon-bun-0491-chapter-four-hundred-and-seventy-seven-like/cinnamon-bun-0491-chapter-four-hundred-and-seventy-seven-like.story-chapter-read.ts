@@ -5,7 +5,7 @@ export const cinnamonBun0491ChapterFourHundredAndSeventySevenLike = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0491-chapter-four-hundred-and-seventy-seven-like",
   title: "Chapter Four Hundred and Seventy-Seven - Like Shooting Fish with a Dragon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 491,
   ownLength: 1578,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0058Chapter1410NewLeadership = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0058-chapter-1410-new-leadership",
   title: "Chapter 1410 - New Leadership",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 58,
   ownLength: 1228,
   ownProgress: 1228,

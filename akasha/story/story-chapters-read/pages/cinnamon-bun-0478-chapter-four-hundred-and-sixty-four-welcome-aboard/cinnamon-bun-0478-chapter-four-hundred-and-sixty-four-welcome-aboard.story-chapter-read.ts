@@ -5,7 +5,7 @@ export const cinnamonBun0478ChapterFourHundredAndSixtyFourWelcomeAboard = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0478-chapter-four-hundred-and-sixty-four-welcome-aboard",
   title: "Chapter Four Hundred and Sixty-Four - Welcome Aboard",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 478,
   ownLength: 1484,
   unitSlug: "words",

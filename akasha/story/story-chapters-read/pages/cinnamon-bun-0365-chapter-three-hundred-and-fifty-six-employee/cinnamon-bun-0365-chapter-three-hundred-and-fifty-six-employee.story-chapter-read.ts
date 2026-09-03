@@ -5,7 +5,7 @@ export const cinnamonBun0365ChapterThreeHundredAndFiftySixEmployee = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0365-chapter-three-hundred-and-fifty-six-employee",
   title: "Chapter Three Hundred and Fifty-Six - Employee Retention",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 365,
   ownLength: 2124,
   unitSlug: "words",

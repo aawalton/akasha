@@ -5,7 +5,7 @@ export const cinnamonBun0451ChapterFourHundredAndThirtySevenDaytrip = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0451-chapter-four-hundred-and-thirty-seven-daytrip",
   title: "Chapter Four Hundred and Thirty-Seven - Daytrip",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 451,
   ownLength: 1973,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0310ChapterThreeHundredAndTwoSomeoneSetUpUs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0310-chapter-three-hundred-and-two-someone-set-up-us",
   title: "Chapter Three Hundred and Two - Someone Set Up Us the Bomb",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 310,
   ownLength: 1935,
   unitSlug: "words",

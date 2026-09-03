@@ -5,7 +5,7 @@ export const cinnamonBun0467ChapterFourHundredAndFiftyThreeSocialFu = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0467-chapter-four-hundred-and-fifty-three-social-fu",
   title: "Chapter Four Hundred and Fifty-Three - Social Fu",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 467,
   ownLength: 1600,
   unitSlug: "words",

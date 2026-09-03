@@ -5,7 +5,7 @@ export const chrysalis0092Chapter1444AnUnlikelyAlliance = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0092-chapter-1444-an-unlikely-alliance",
   title: "Chapter 1444 - An Unlikely Alliance",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 92,
   ownLength: 936,
   ownProgress: 936,

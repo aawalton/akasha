@@ -5,7 +5,7 @@ export const cinnamonBun0326ChapterThreeHundredAndEighteenSheepish = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0326-chapter-three-hundred-and-eighteen-sheepish",
   title: "Chapter Three Hundred and Eighteen - Sheepish",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 326,
   ownLength: 2056,
   unitSlug: "words",

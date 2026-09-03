@@ -5,7 +5,7 @@ export const chrysalis0072Chapter1424GatherTheTribes = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0072-chapter-1424-gather-the-tribes",
   title: "Chapter 1424 - Gather the Tribes",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 72,
   ownLength: 1051,
   ownProgress: 1051,

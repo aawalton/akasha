@@ -5,7 +5,7 @@ export const chrysalis0094Chapter1446StrategyOfTheSlugs = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0094-chapter-1446-strategy-of-the-slugs",
   title: "Chapter 1446 - Strategy of the Slugs",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 94,
   ownLength: 1057,
   ownProgress: 1057,

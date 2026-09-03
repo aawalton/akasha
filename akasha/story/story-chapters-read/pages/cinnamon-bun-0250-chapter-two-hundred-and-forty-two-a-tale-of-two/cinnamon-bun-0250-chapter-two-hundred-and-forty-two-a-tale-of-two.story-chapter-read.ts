@@ -5,7 +5,7 @@ export const cinnamonBun0250ChapterTwoHundredAndFortyTwoATaleOfTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0250-chapter-two-hundred-and-forty-two-a-tale-of-two",
   title: "Chapter Two Hundred and Forty-Two - A Tale of Two Prison Colonies",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 250,
   ownLength: 1971,
   unitSlug: "words",

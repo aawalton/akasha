@@ -5,7 +5,7 @@ export const chrysalis0110Chapter1462TreacheryOfSlime = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0110-chapter-1462-treachery-of-slime",
   title: "Chapter 1462 - Treachery of Slime",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 110,
   ownLength: 1043,
   ownProgress: 1043,

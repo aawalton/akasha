@@ -5,7 +5,7 @@ export const cinnamonBun0388ChapterThreeHundredAndSeventySixDoorbuster = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0388-chapter-three-hundred-and-seventy-six-doorbuster",
   title: "Chapter Three Hundred and Seventy-Six - Doorbuster",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 388,
   ownLength: 2056,
   unitSlug: "words",

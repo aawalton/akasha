@@ -5,7 +5,7 @@ export const cinnamonBun0487ChapterFourHundredAndSeventyThreeRecipeFor = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0487-chapter-four-hundred-and-seventy-three-recipe-for",
   title: "Chapter Four Hundred and Seventy-Three - Recipe for Success",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 487,
   ownLength: 1480,
   unitSlug: "words",

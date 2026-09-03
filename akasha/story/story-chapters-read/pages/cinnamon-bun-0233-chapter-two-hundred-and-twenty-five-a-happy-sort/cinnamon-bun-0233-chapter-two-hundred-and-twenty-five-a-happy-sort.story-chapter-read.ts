@@ -5,7 +5,7 @@ export const cinnamonBun0233ChapterTwoHundredAndTwentyFiveAHappySort = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0233-chapter-two-hundred-and-twenty-five-a-happy-sort",
   title: "Chapter Two Hundred and Twenty-Five - A Happy Sort of Busy",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 233,
   ownLength: 1962,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0464ChapterFourHundredAndFiftyFishingFor = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0464-chapter-four-hundred-and-fifty-fishing-for",
   title: "Chapter Four Hundred and Fifty - Fishing for Information",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 464,
   ownLength: 1557,
   unitSlug: "words",

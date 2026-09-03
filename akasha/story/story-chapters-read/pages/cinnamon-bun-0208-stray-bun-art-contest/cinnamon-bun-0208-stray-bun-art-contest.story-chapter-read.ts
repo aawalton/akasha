@@ -5,7 +5,7 @@ export const cinnamonBun0208StrayBunArtContest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0208-stray-bun-art-contest",
   title: "Stray Bun Art Contest!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 208,
   ownLength: 154,
   unitSlug: "words",

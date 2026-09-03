@@ -5,7 +5,7 @@ export const cinnamonBun0315ChapterThreeHundredAndSevenHiringA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0315-chapter-three-hundred-and-seven-hiring-a",
   title: "Chapter Three Hundred and Seven - Hiring a Professional Cleaner",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 315,
   ownLength: 1952,
   unitSlug: "words",

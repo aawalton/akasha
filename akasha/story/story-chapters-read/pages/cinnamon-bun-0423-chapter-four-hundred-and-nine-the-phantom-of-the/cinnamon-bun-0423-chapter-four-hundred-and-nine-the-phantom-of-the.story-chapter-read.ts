@@ -5,7 +5,7 @@ export const cinnamonBun0423ChapterFourHundredAndNineThePhantomOfThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0423-chapter-four-hundred-and-nine-the-phantom-of-the",
   title: "Chapter Four Hundred and Nine - The Phantom of the Bookshop",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 423,
   ownLength: 1996,
   unitSlug: "words",

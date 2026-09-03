@@ -5,7 +5,7 @@ export const cinnamonBun0252ChapterTwoHundredAndFortyFourIntercepted = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0252-chapter-two-hundred-and-forty-four-intercepted",
   title: "Chapter Two Hundred and Forty-Four - Intercepted",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 252,
   ownLength: 1971,
   unitSlug: "words",

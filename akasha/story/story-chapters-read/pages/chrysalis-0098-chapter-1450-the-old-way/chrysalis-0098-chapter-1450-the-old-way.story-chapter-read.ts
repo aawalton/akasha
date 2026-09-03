@@ -5,7 +5,7 @@ export const chrysalis0098Chapter1450TheOldWay = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0098-chapter-1450-the-old-way",
   title: "Chapter 1450 - The Old Way",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 98,
   ownLength: 1000,
   ownProgress: 1000,

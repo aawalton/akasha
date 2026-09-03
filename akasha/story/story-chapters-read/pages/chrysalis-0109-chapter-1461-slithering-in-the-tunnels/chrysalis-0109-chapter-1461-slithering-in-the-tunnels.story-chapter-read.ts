@@ -5,7 +5,7 @@ export const chrysalis0109Chapter1461SlitheringInTheTunnels = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0109-chapter-1461-slithering-in-the-tunnels",
   title: "Chapter 1461 - Slithering In The Tunnels",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 109,
   ownLength: 1056,
   ownProgress: 1056,

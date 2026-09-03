@@ -5,7 +5,7 @@ export const cinnamonBun0472ChapterFourHundredAndFiftyEightTailsFromA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0472-chapter-four-hundred-and-fifty-eight-tails-from-a",
   title: "Chapter Four Hundred and Fifty-Eight - Tails from a Faraway Land",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 472,
   ownLength: 1489,
   unitSlug: "words",

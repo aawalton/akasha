@@ -5,7 +5,7 @@ export const chrysalis0087Chapter1439TheFirstShowdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0087-chapter-1439-the-first-showdown",
   title: "Chapter 1439 - The First Showdown",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 87,
   ownLength: 1045,
   ownProgress: 1045,

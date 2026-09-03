@@ -5,7 +5,7 @@ export const chrysalis0022Chapter1375OnceMoreIntoTheBreach = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0022-chapter-1375-once-more-into-the-breach",
   title: "Chapter 1375 - Once More Into The Breach",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 22,
   ownLength: 1182,
   ownProgress: 1182,

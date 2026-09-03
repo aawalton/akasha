@@ -5,7 +5,7 @@ export const cinnamonBun0277ChapterTwoHundredAndSixtyNineRoyaltea = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0277-chapter-two-hundred-and-sixty-nine-royaltea",
   title: "Chapter Two Hundred and Sixty-Nine - Royaltea",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 277,
   ownLength: 2012,
   unitSlug: "words",

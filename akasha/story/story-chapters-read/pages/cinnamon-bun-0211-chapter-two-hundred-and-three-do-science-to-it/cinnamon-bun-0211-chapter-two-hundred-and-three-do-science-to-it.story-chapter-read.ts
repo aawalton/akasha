@@ -5,7 +5,7 @@ export const cinnamonBun0211ChapterTwoHundredAndThreeDoScienceToIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0211-chapter-two-hundred-and-three-do-science-to-it",
   title: "Chapter Two Hundred and Three - Do Science To It",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 211,
   ownLength: 2059,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0318ChapterThreeHundredAndTenTheKnightsOfThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0318-chapter-three-hundred-and-ten-the-knights-of-the",
   title: "Chapter Three Hundred and Ten - The Knights of the Long Rest",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 318,
   ownLength: 1978,
   unitSlug: "words",

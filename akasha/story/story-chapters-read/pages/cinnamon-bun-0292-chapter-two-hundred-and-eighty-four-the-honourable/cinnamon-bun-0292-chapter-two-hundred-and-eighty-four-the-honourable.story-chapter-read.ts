@@ -5,7 +5,7 @@ export const cinnamonBun0292ChapterTwoHundredAndEightyFourTheHonourable = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0292-chapter-two-hundred-and-eighty-four-the-honourable",
   title: "Chapter Two Hundred and Eighty-Four - The Honourable Judge Bunch, Presiding",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 292,
   ownLength: 1944,
   unitSlug: "words",

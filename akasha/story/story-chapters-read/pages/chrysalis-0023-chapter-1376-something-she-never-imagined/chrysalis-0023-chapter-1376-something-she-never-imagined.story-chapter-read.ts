@@ -5,7 +5,7 @@ export const chrysalis0023Chapter1376SomethingSheNeverImagined = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0023-chapter-1376-something-she-never-imagined",
   title: "Chapter 1376 - Something She Never Imagined",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 23,
   ownLength: 1037,
   ownProgress: 1037,

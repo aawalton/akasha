@@ -5,7 +5,7 @@ export const chrysalis0112Chapter1464PressureBuildsInTheTunnels = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0112-chapter-1464-pressure-builds-in-the-tunnels",
   title: "Chapter 1464 - Pressure Builds in the Tunnels",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 112,
   ownLength: 1023,
   ownProgress: 1023,

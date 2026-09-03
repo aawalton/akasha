@@ -5,7 +5,7 @@ export const cinnamonBun0458ChapterFourHundredAndFortyFourRecall = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0458-chapter-four-hundred-and-forty-four-recall",
   title: "Chapter Four Hundred and Forty-Four - Recall",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 458,
   ownLength: 1592,
   unitSlug: "words",

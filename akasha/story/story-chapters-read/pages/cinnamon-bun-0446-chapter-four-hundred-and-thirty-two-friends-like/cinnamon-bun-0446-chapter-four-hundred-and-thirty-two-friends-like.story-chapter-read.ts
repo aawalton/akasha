@@ -5,7 +5,7 @@ export const cinnamonBun0446ChapterFourHundredAndThirtyTwoFriendsLike = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0446-chapter-four-hundred-and-thirty-two-friends-like",
   title: "Chapter Four Hundred and Thirty-Two - Friends Like These",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 446,
   ownLength: 1975,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0469ChapterFourHundredAndFiftyFiveChargeOfThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0469-chapter-four-hundred-and-fifty-five-charge-of-the",
   title: "Chapter Four Hundred and Fifty-Five - Charge of the Bun's Brigade",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 469,
   ownLength: 1457,
   unitSlug: "words",

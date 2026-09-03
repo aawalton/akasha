@@ -5,7 +5,7 @@ export const cinnamonBun0316ChapterThreeHundredAndEightAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0316-chapter-three-hundred-and-eight-away",
   title: "Chapter Three Hundred and Eight - Away",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 316,
   ownLength: 2043,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0262ChapterTwoHundredAndFiftyFourJointStrike = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0262-chapter-two-hundred-and-fifty-four-joint-strike",
   title: "Chapter Two Hundred and Fifty-Four - Joint Strike Fighters",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 262,
   ownLength: 1899,
   unitSlug: "words",

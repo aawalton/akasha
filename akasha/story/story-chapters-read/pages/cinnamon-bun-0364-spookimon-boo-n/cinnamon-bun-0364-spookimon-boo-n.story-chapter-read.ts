@@ -5,7 +5,7 @@ export const cinnamonBun0364SpookimonBooN = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0364-spookimon-boo-n",
   title: "Spookimon Boo-n!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 364,
   ownLength: 1739,
   unitSlug: "words",

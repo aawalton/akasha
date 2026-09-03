@@ -5,7 +5,7 @@ export const cinnamonBun0264ChapterTwoHundredAndFiftySixSaintBastion = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0264-chapter-two-hundred-and-fifty-six-saint-bastion",
   title: "Chapter Two Hundred and Fifty-Six -  Saint Bastion and the Dragon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 264,
   ownLength: 1914,
   unitSlug: "words",

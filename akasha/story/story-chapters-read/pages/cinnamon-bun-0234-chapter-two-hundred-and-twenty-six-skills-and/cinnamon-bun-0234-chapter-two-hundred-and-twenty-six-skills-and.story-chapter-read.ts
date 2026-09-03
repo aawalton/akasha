@@ -5,7 +5,7 @@ export const cinnamonBun0234ChapterTwoHundredAndTwentySixSkillsAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0234-chapter-two-hundred-and-twenty-six-skills-and",
   title: "Chapter Two Hundred and Twenty-Six - Skills and Levels and Stats, Oh My!​",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 234,
   ownLength: 1944,
   unitSlug: "words",

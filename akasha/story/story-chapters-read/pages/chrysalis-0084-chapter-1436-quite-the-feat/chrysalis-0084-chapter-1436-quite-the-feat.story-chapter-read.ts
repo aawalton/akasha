@@ -5,7 +5,7 @@ export const chrysalis0084Chapter1436QuiteTheFeat = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0084-chapter-1436-quite-the-feat",
   title: "Chapter 1436 - Quite the Feat",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 84,
   ownLength: 957,
   ownProgress: 957,

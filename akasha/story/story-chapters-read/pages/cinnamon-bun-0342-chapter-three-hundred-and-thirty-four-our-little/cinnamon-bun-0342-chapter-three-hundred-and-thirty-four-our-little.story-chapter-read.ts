@@ -5,7 +5,7 @@ export const cinnamonBun0342ChapterThreeHundredAndThirtyFourOurLittle = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0342-chapter-three-hundred-and-thirty-four-our-little",
   title: "Chapter Three Hundred and Thirty-Four - Our Little Ponies",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 342,
   ownLength: 1979,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0111Chapter1463TheRoyalWeInWuffer = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0111-chapter-1463-the-royal-we-in-wuffer",
   title: "Chapter 1463 - The Royal We in Wuffer",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 111,
   ownLength: 1056,
   ownProgress: 1056,

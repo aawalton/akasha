@@ -5,7 +5,7 @@ export const cinnamonBun0331ChapterThreeHundredAndTwentyThreeAdventurers = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0331-chapter-three-hundred-and-twenty-three-adventurers",
   title: "Chapter Three hundred and Twenty-Three - Adventurers For Hire",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 331,
   ownLength: 1990,
   unitSlug: "words",

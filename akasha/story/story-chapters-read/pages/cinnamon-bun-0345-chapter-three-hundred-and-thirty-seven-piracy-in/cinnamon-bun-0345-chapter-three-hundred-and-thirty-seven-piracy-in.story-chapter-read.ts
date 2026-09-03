@@ -5,7 +5,7 @@ export const cinnamonBun0345ChapterThreeHundredAndThirtySevenPiracyIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0345-chapter-three-hundred-and-thirty-seven-piracy-in",
   title: "Chapter Three Hundred and Thirty-Seven - Piracy in the High Skies",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 345,
   ownLength: 1974,
   unitSlug: "words",

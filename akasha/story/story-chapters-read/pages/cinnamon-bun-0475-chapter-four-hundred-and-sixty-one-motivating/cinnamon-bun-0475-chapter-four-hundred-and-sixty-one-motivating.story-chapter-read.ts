@@ -5,7 +5,7 @@ export const cinnamonBun0475ChapterFourHundredAndSixtyOneMotivating = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0475-chapter-four-hundred-and-sixty-one-motivating",
   title: "Chapter Four Hundred and Sixty-One - Motivating Factors",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 475,
   ownLength: 1459,
   unitSlug: "words",

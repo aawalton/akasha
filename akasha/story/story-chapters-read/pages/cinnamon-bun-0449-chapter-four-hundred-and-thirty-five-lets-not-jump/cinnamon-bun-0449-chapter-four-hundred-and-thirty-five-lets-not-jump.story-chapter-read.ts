@@ -5,7 +5,7 @@ export const cinnamonBun0449ChapterFourHundredAndThirtyFiveLetsNotJump = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0449-chapter-four-hundred-and-thirty-five-lets-not-jump",
   title: "Chapter Four Hundred and Thirty-Five - Let's Not Jump to Conclusions",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 449,
   ownLength: 2015,
   unitSlug: "words",

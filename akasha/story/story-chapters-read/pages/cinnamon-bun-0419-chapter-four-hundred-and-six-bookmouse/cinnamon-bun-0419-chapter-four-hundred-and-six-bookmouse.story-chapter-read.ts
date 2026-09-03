@@ -5,7 +5,7 @@ export const cinnamonBun0419ChapterFourHundredAndSixBookmouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0419-chapter-four-hundred-and-six-bookmouse",
   title: "Chapter Four Hundred and Six - Bookmouse",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 419,
   ownLength: 1949,
   unitSlug: "words",

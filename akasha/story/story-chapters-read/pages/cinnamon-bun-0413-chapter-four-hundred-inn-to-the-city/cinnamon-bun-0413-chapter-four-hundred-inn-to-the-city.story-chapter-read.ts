@@ -5,7 +5,7 @@ export const cinnamonBun0413ChapterFourHundredInnToTheCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0413-chapter-four-hundred-inn-to-the-city",
   title: "Chapter Four Hundred - Inn to the City",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 413,
   ownLength: 1962,
   unitSlug: "words",

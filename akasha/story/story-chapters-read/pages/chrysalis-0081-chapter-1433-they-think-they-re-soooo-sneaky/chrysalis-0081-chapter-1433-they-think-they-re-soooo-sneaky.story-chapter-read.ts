@@ -5,7 +5,7 @@ export const chrysalis0081Chapter1433TheyThinkTheyReSooooSneaky = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0081-chapter-1433-they-think-they-re-soooo-sneaky",
   title: "Chapter 1433 - They Think They’re Soooo Sneaky",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 81,
   ownLength: 1036,
   ownProgress: 1036,

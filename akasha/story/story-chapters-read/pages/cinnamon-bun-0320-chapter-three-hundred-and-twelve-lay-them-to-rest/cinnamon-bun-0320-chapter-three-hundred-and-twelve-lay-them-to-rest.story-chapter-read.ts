@@ -5,7 +5,7 @@ export const cinnamonBun0320ChapterThreeHundredAndTwelveLayThemToRest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0320-chapter-three-hundred-and-twelve-lay-them-to-rest",
   title: "Chapter Three Hundred and Twelve - Lay Them to Rest",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 320,
   ownLength: 1957,
   unitSlug: "words",

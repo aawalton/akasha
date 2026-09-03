@@ -5,7 +5,7 @@ export const cinnamonBun0397ChapterThreeHundredAndEightyFiveTheGoFish = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0397-chapter-three-hundred-and-eighty-five-the-go-fish",
   title: "Chapter Three Hundred and Eighty-Five - The Go Fish Inn",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 397,
   ownLength: 1960,
   unitSlug: "words",

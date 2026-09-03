@@ -5,7 +5,7 @@ export const cinnamonBun0210ChapterTwoHundredAndTwoHeartOfDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0210-chapter-two-hundred-and-two-heart-of-darkness",
   title: "Chapter Two Hundred and Two - Heart of Darkness",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 210,
   ownLength: 1980,
   unitSlug: "words",

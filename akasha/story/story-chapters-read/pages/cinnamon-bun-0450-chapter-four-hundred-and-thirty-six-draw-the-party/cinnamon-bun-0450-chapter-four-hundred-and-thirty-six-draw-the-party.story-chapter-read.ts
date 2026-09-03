@@ -5,7 +5,7 @@ export const cinnamonBun0450ChapterFourHundredAndThirtySixDrawTheParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0450-chapter-four-hundred-and-thirty-six-draw-the-party",
   title: "Chapter Four Hundred and Thirty-Six - Draw the Party Line",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 450,
   ownLength: 2037,
   unitSlug: "words",

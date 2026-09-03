@@ -5,7 +5,7 @@ export const chrysalis0027Chapter1380HiddenSlugsCrouchingSnails = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0027-chapter-1380-hidden-slugs-crouching-snails",
   title: "Chapter 1380 - Hidden Slugs, Crouching Snails",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 27,
   ownLength: 1022,
   ownProgress: 1022,

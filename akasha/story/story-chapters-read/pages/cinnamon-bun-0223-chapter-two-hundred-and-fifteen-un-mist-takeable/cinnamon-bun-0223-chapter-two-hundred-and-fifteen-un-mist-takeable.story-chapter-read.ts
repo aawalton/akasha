@@ -5,7 +5,7 @@ export const cinnamonBun0223ChapterTwoHundredAndFifteenUnMistTakeable = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0223-chapter-two-hundred-and-fifteen-un-mist-takeable",
   title: "Chapter Two Hundred and Fifteen - Un Mist Takeable",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 223,
   ownLength: 1998,
   unitSlug: "words",

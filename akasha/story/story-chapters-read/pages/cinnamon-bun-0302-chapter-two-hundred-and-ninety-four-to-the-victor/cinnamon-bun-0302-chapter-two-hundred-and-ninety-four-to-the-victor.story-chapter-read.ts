@@ -5,7 +5,7 @@ export const cinnamonBun0302ChapterTwoHundredAndNinetyFourToTheVictor = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0302-chapter-two-hundred-and-ninety-four-to-the-victor",
   title: "Chapter Two Hundred and Ninety-Four - To the Victor, the Spoils",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 302,
   ownLength: 1983,
   unitSlug: "words",

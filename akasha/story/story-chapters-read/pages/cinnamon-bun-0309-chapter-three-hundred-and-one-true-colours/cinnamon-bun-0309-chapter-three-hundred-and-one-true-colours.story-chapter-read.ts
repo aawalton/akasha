@@ -5,7 +5,7 @@ export const cinnamonBun0309ChapterThreeHundredAndOneTrueColours = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0309-chapter-three-hundred-and-one-true-colours",
   title: "Chapter Three Hundred and One - True Colours",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 309,
   ownLength: 2034,
   unitSlug: "words",

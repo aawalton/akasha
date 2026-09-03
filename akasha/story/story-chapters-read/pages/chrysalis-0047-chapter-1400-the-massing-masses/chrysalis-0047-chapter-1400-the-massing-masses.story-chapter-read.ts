@@ -5,7 +5,7 @@ export const chrysalis0047Chapter1400TheMassingMasses = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0047-chapter-1400-the-massing-masses",
   title: "Chapter 1400 - The Massing Masses",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 47,
   ownLength: 1232,
   ownProgress: 1232,

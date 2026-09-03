@@ -5,7 +5,7 @@ export const cinnamonBun0395ChapterThreeHundredAndEightyThreeSiVis = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0395-chapter-three-hundred-and-eighty-three-si-vis",
   title: "Chapter Three Hundred and Eighty-Three - Si Vis Pacem, Para Bellum",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 395,
   ownLength: 1810,
   unitSlug: "words",

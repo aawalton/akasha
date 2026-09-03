@@ -5,7 +5,7 @@ export const cinnamonBun0280ChapterTwoHundredAndSeventyTwoChivalryIsnt = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0280-chapter-two-hundred-and-seventy-two-chivalry-isnt",
   title: "Chapter Two Hundred and Seventy-Two - Chivalry Isn't Dead",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 280,
   ownLength: 1993,
   unitSlug: "words",

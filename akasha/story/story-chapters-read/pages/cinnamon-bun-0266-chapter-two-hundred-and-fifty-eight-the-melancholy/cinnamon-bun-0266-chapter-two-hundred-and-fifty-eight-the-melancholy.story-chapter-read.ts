@@ -5,7 +5,7 @@ export const cinnamonBun0266ChapterTwoHundredAndFiftyEightTheMelancholy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0266-chapter-two-hundred-and-fifty-eight-the-melancholy",
   title: "Chapter Two Hundred and Fifty-Eight - The Melancholy of Broccoli Bunch",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 266,
   ownLength: 1984,
   unitSlug: "words",

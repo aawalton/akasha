@@ -5,7 +5,7 @@ export const chrysalis0077Chapter1429BreathOfTheBeast = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0077-chapter-1429-breath-of-the-beast",
   title: "Chapter 1429 - Breath of the Beast",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 77,
   ownLength: 975,
   ownProgress: 975,

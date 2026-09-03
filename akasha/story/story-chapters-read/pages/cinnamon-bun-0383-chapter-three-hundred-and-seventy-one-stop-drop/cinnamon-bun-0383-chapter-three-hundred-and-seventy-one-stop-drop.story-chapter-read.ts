@@ -5,7 +5,7 @@ export const cinnamonBun0383ChapterThreeHundredAndSeventyOneStopDrop = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0383-chapter-three-hundred-and-seventy-one-stop-drop",
   title: "Chapter Three Hundred and Seventy-One - Stop, Drop, and Shop",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 383,
   ownLength: 2065,
   unitSlug: "words",

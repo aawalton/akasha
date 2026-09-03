@@ -5,7 +5,7 @@ export const cinnamonBun0308ChapterThreeHundredTheWorldIsDiseasedAndI = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0308-chapter-three-hundred-the-world-is-diseased-and-i",
   title: "Chapter Three Hundred - The World is Diseased, And I Alone Can Cure It",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 308,
   ownLength: 1951,
   unitSlug: "words",

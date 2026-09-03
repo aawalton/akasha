@@ -5,7 +5,7 @@ export const cinnamonBun0379CinnamonBunBonusStoryInWhichBroccoliScares = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0379-cinnamon-bun-bonus-story-in-which-broccoli-scares",
   title: "Cinnamon Bun - Bonus Story: In Which Broccoli Scares Some Children",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 379,
   ownLength: 2157,
   unitSlug: "words",

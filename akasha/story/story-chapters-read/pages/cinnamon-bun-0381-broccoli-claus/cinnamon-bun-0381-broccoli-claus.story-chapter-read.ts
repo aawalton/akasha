@@ -5,7 +5,7 @@ export const cinnamonBun0381BroccoliClaus = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0381-broccoli-claus",
   title: "Broccoli Claus",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 381,
   ownLength: 461,
   unitSlug: "words",

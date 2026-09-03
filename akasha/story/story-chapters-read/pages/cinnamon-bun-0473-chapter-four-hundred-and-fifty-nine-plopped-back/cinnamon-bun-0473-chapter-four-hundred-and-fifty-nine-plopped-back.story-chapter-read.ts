@@ -5,7 +5,7 @@ export const cinnamonBun0473ChapterFourHundredAndFiftyNinePloppedBack = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0473-chapter-four-hundred-and-fifty-nine-plopped-back",
   title: "Chapter Four Hundred and Fifty-Nine - Plopped Back",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 473,
   ownLength: 1527,
   unitSlug: "words",

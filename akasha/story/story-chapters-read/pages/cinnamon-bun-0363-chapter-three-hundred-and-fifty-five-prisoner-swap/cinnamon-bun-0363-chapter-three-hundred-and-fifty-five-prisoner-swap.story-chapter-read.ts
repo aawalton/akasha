@@ -5,7 +5,7 @@ export const cinnamonBun0363ChapterThreeHundredAndFiftyFivePrisonerSwap = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0363-chapter-three-hundred-and-fifty-five-prisoner-swap",
   title: "Chapter Three Hundred and Fifty-Five - Prisoner Swap",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 363,
   ownLength: 2013,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0089Chapter1441MaybeIShouldGetAShell = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0089-chapter-1441-maybe-i-should-get-a-shell",
   title: "Chapter 1441 - Maybe I Should Get a Shell",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 89,
   ownLength: 1187,
   ownProgress: 1187,

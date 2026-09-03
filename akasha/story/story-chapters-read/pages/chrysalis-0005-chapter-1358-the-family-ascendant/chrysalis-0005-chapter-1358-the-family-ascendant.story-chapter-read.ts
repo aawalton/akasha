@@ -5,7 +5,7 @@ export const chrysalis0005Chapter1358TheFamilyAscendant = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0005-chapter-1358-the-family-ascendant",
   title: "Chapter 1358 - The Family Ascendant",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 5,
   ownLength: 1080,
   ownProgress: 1080,

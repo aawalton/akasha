@@ -5,7 +5,7 @@ export const chrysalis0062Chapter1414SneakySpirit = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0062-chapter-1414-sneaky-spirit",
   title: "Chapter 1414 - Sneaky Spirit",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 62,
   ownLength: 1030,
   ownProgress: 1030,

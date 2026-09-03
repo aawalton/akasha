@@ -5,7 +5,7 @@ export const cinnamonBun0350ChapterThreeHundredAndFortyTwoMessage = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0350-chapter-three-hundred-and-forty-two-message",
   title: "Chapter Three Hundred and Forty-Two - Message Delivered",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 350,
   ownLength: 2019,
   unitSlug: "words",

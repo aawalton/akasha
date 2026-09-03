@@ -5,7 +5,7 @@ export const cinnamonBun0493ChapterFourHundredAndSeventyNineListYour = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0493-chapter-four-hundred-and-seventy-nine-list-your",
   title: "Chapter Four Hundred and Seventy-Nine - List Your Strengths",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 493,
   ownLength: 1465,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0347ChapterThreeHundredAndThirtyNineFinders = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0347-chapter-three-hundred-and-thirty-nine-finders",
   title: "Chapter Three Hundred and Thirty-Nine - Finders Keepers",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 347,
   ownLength: 2014,
   unitSlug: "words",

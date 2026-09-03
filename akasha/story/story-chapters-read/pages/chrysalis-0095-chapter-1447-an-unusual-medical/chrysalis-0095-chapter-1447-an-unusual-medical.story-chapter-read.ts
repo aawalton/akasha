@@ -5,7 +5,7 @@ export const chrysalis0095Chapter1447AnUnusualMedical = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0095-chapter-1447-an-unusual-medical",
   title: "Chapter 1447 - An Unusual Medical",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 95,
   ownLength: 1065,
   ownProgress: 1065,

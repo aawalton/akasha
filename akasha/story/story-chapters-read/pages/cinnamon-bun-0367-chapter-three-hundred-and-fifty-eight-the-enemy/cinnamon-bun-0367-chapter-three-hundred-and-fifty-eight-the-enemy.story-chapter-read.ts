@@ -5,7 +5,7 @@ export const cinnamonBun0367ChapterThreeHundredAndFiftyEightTheEnemy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0367-chapter-three-hundred-and-fifty-eight-the-enemy",
   title: "Chapter Three Hundred and Fifty-Eight - The Enemy Always Gets a Vote",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 367,
   ownLength: 1960,
   unitSlug: "words",

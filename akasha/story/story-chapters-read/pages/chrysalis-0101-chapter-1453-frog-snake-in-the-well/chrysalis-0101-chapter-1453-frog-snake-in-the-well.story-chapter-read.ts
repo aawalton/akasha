@@ -5,7 +5,7 @@ export const chrysalis0101Chapter1453FrogSnakeInTheWell = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0101-chapter-1453-frog-snake-in-the-well",
   title: "Chapter 1453 - Frog (snake) in the Well",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 101,
   ownLength: 1104,
   ownProgress: 1104,

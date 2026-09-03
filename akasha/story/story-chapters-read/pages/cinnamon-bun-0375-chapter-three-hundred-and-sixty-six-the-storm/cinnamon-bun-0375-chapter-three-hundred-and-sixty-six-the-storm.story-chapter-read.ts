@@ -5,7 +5,7 @@ export const cinnamonBun0375ChapterThreeHundredAndSixtySixTheStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0375-chapter-three-hundred-and-sixty-six-the-storm",
   title: "Chapter Three Hundred and Sixty-Six - The Storm Tower",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 375,
   ownLength: 2187,
   unitSlug: "words",

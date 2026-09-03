@@ -5,7 +5,7 @@ export const cinnamonBun0427ChapterFourHundredAndThirteenCaptainsDuty = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0427-chapter-four-hundred-and-thirteen-captains-duty",
   title: "Chapter Four Hundred and Thirteen - Captain's Duty",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 427,
   ownLength: 2152,
   unitSlug: "words",

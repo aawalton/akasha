@@ -5,7 +5,7 @@ export const chrysalis0104Chapter1456MorreliaAndTheLegion = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0104-chapter-1456-morrelia-and-the-legion",
   title: "Chapter 1456 - Morrelia and the Legion",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 104,
   ownLength: 1115,
   ownProgress: 1115,

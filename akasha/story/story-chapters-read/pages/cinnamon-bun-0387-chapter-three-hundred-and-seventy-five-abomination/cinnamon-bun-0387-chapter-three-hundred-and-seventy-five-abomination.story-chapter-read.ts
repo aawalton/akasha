@@ -5,7 +5,7 @@ export const cinnamonBun0387ChapterThreeHundredAndSeventyFiveAbomination = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0387-chapter-three-hundred-and-seventy-five-abomination",
   title: "Chapter Three Hundred and Seventy-Five - Abomination Against Engineering and Good Sense",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 387,
   ownLength: 1947,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0406ChapterThreeHundredAndNinetyFourBroccoliVs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0406-chapter-three-hundred-and-ninety-four-broccoli-vs",
   title: "Chapter Three Hundred and Ninety-Four - Broccoli vs Mothra",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 406,
   ownLength: 2052,
   unitSlug: "words",

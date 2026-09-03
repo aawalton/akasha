@@ -5,7 +5,7 @@ export const cinnamonBun0414ChapterFourHundredAndOneAbsenceMakesThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0414-chapter-four-hundred-and-one-absence-makes-the",
   title: "Chapter Four Hundred and One - Absence Makes the Heart Grow Fonder",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 414,
   ownLength: 2014,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0007Chapter1360GetOurActTogether = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0007-chapter-1360-get-our-act-together",
   title: "Chapter 1360 - Get Our Act Together",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 7,
   ownLength: 1055,
   ownProgress: 1055,

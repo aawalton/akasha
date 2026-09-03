@@ -5,7 +5,7 @@ export const cinnamonBun0246ChapterTwoHundredAndThirtyEightTowerhidden = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0246-chapter-two-hundred-and-thirty-eight-towerhidden",
   title: "Chapter Two Hundred and Thirty-Eight - Towerhidden",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 246,
   ownLength: 1939,
   unitSlug: "words",

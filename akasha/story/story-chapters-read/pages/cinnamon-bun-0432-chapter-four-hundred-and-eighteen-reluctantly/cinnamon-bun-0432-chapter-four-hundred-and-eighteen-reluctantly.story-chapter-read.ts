@@ -5,7 +5,7 @@ export const cinnamonBun0432ChapterFourHundredAndEighteenReluctantly = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0432-chapter-four-hundred-and-eighteen-reluctantly",
   title: "Chapter Four Hundred and Eighteen - Reluctantly Crouched at the Starting Line",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 432,
   ownLength: 2020,
   unitSlug: "words",

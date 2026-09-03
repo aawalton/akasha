@@ -5,7 +5,7 @@ export const cinnamonBun0263ChapterTwoHundredAndFiftyFiveSnakesAreA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0263-chapter-two-hundred-and-fifty-five-snakes-are-a",
   title: "Chapter Two Hundred and Fifty-Five - Snakes Are a Pain",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 263,
   ownLength: 1905,
   unitSlug: "words",

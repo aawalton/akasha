@@ -5,7 +5,7 @@ export const cinnamonBun0371ChapterThreeHundredAndSixtyTwoIfTheEnemy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0371-chapter-three-hundred-and-sixty-two-if-the-enemy",
   title: "Chapter Three Hundred and Sixty-Two - If the Enemy is in Superior Strength, Evade Them",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 371,
   ownLength: 1838,
   unitSlug: "words",

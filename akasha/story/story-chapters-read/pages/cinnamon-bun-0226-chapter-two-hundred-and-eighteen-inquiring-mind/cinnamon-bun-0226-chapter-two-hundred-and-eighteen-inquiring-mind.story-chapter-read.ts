@@ -5,7 +5,7 @@ export const cinnamonBun0226ChapterTwoHundredAndEighteenInquiringMind = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0226-chapter-two-hundred-and-eighteen-inquiring-mind",
   title: "Chapter Two Hundred and Eighteen - Inquiring Mind Wants to Know",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 226,
   ownLength: 1867,
   unitSlug: "words",

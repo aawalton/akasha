@@ -5,7 +5,7 @@ export const cinnamonBun0370ChapterThreeHundredAndSixtyOneBiteTheGust = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0370-chapter-three-hundred-and-sixty-one-bite-the-gust",
   title: "Chapter Three Hundred and Sixty-One - Bite the Gust",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 370,
   ownLength: 2102,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0024Chapter1377TollyGoesHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0024-chapter-1377-tolly-goes-home",
   title: "Chapter 1377 - Tolly Goes Home",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 24,
   ownLength: 1002,
   ownProgress: 1002,

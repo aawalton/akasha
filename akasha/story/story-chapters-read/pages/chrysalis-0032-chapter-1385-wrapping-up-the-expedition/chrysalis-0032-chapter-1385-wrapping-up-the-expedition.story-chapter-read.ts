@@ -5,7 +5,7 @@ export const chrysalis0032Chapter1385WrappingUpTheExpedition = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0032-chapter-1385-wrapping-up-the-expedition",
   title: "Chapter 1385 - Wrapping Up the Expedition",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 32,
   ownLength: 916,
   ownProgress: 916,

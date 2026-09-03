@@ -5,7 +5,7 @@ export const cinnamonBun0385ChapterThreeHundredAndSeventyThreeDressUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0385-chapter-three-hundred-and-seventy-three-dress-up",
   title: "Chapter Three Hundred and Seventy-Three - Dress-Up Games",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 385,
   ownLength: 1956,
   unitSlug: "words",

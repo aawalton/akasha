@@ -5,7 +5,7 @@ export const chrysalis0071Chapter1423SafeHaven = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0071-chapter-1423-safe-haven",
   title: "Chapter 1423 - Safe Haven",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 71,
   ownLength: 882,
   ownProgress: 882,

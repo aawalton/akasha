@@ -5,7 +5,7 @@ export const chrysalis0039Chapter1392WithinTheSanctumPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0039-chapter-1392-within-the-sanctum-part-2",
   title: "Chapter 1392 - Within the Sanctum part 2",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 39,
   ownLength: 1208,
   ownProgress: 1208,

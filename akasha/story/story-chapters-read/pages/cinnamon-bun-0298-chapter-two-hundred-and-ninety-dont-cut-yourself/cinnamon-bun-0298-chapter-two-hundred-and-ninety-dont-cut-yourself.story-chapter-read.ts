@@ -5,7 +5,7 @@ export const cinnamonBun0298ChapterTwoHundredAndNinetyDontCutYourself = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0298-chapter-two-hundred-and-ninety-dont-cut-yourself",
   title: "Chapter Two Hundred and Ninety - Don't Cut Yourself On All These Edges",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 298,
   ownLength: 2273,
   unitSlug: "words",

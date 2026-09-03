@@ -5,7 +5,7 @@ export const cinnamonBun0329ChapterThreeHundredAndTwentyOneUprooted = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0329-chapter-three-hundred-and-twenty-one-uprooted",
   title: "Chapter Three Hundred and Twenty-One - Uprooted",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 329,
   ownLength: 1982,
   unitSlug: "words",

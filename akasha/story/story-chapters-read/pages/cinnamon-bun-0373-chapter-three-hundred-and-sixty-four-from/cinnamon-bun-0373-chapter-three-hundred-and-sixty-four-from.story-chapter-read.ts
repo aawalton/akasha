@@ -5,7 +5,7 @@ export const cinnamonBun0373ChapterThreeHundredAndSixtyFourFrom = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0373-chapter-three-hundred-and-sixty-four-from",
   title: "Chapter Three Hundred and Sixty-Four - From Sylphfree With Love",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 373,
   ownLength: 1910,
   unitSlug: "words",

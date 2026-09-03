@@ -5,7 +5,7 @@ export const cinnamonBun0444ChapterFourHundredAndThirtyBalancingThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0444-chapter-four-hundred-and-thirty-balancing-the",
   title: "Chapter Four Hundred and Thirty - Balancing the Budget",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 444,
   ownLength: 1950,
   unitSlug: "words",

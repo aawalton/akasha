@@ -5,7 +5,7 @@ export const cinnamonBun0307ChapterTwoHundredAndNinetyNineMyBunnySense = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0307-chapter-two-hundred-and-ninety-nine-my-bunny-sense",
   title: "Chapter Two Hundred and Ninety-Nine - My Bunny Sense Is Tingling",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 307,
   ownLength: 2057,
   unitSlug: "words",

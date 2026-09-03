@@ -5,7 +5,7 @@ export const cinnamonBun0216ChapterTwoHundredAndEightDineHard = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0216-chapter-two-hundred-and-eight-dine-hard",
   title: "Chapter Two Hundred and Eight - Dine Hard",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 216,
   ownLength: 1893,
   unitSlug: "words",

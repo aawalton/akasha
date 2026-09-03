@@ -5,7 +5,7 @@ export const cinnamonBun0400ChapterThreeHundredAndEightyEightMothErOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0400-chapter-three-hundred-and-eighty-eight-moth-er-of",
   title: "Chapter Three Hundred and Eighty-Eight - Moth-er of All Adventures",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 400,
   ownLength: 2045,
   unitSlug: "words",

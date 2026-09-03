@@ -5,7 +5,7 @@ export const chrysalis0003Chapter1356MotherIsnTImpressed = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0003-chapter-1356-mother-isn-t-impressed",
   title: "Chapter 1356 - Mother Isn’t Impressed",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 3,
   ownLength: 1035,
   ownProgress: 1035,

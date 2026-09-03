@@ -5,7 +5,7 @@ export const cinnamonBun0279ChapterTwoHundredAndSeventyOneFortressOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0279-chapter-two-hundred-and-seventy-one-fortress-of",
   title: "Chapter Two Hundred and Seventy-One - Fortress of Knowledge",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 279,
   ownLength: 1967,
   unitSlug: "words",

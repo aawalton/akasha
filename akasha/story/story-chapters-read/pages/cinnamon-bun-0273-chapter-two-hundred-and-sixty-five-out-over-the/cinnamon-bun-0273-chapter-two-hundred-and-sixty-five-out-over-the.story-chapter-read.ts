@@ -5,7 +5,7 @@ export const cinnamonBun0273ChapterTwoHundredAndSixtyFiveOutOverThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0273-chapter-two-hundred-and-sixty-five-out-over-the",
   title: "Chapter Two Hundred and Sixty-Five - Out Over the Town",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 273,
   ownLength: 1975,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0014Chapter1367CleanUpInIsleFive = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0014-chapter-1367-clean-up-in-isle-five",
   title: "Chapter 1367 - Clean Up In Isle Five",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 14,
   ownLength: 1110,
   ownProgress: 1110,

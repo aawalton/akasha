@@ -5,7 +5,7 @@ export const cinnamonBun0340ChapterThreeHundredAndThirtyTwoMeatNew = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0340-chapter-three-hundred-and-thirty-two-meat-new",
   title: "Chapter Three Hundred and Thirty-Two - Meat New People",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 340,
   ownLength: 1923,
   unitSlug: "words",

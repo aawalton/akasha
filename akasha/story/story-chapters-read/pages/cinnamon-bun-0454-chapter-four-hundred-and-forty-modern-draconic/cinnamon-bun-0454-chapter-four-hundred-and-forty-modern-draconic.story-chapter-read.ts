@@ -5,7 +5,7 @@ export const cinnamonBun0454ChapterFourHundredAndFortyModernDraconic = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0454-chapter-four-hundred-and-forty-modern-draconic",
   title: "Chapter Four Hundred and Forty - Modern Draconic Monetary Theory",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 454,
   ownLength: 1940,
   unitSlug: "words",

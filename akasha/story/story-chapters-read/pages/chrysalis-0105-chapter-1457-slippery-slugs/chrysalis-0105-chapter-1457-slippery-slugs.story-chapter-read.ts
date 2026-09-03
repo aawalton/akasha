@@ -5,7 +5,7 @@ export const chrysalis0105Chapter1457SlipperySlugs = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0105-chapter-1457-slippery-slugs",
   title: "Chapter 1457 - Slippery Slugs",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 105,
   ownLength: 990,
   ownProgress: 990,

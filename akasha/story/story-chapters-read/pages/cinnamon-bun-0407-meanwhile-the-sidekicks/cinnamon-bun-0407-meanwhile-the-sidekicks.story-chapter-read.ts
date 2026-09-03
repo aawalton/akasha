@@ -5,7 +5,7 @@ export const cinnamonBun0407MeanwhileTheSidekicks = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0407-meanwhile-the-sidekicks",
   title: "Meanwhile, the sidekicks",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 407,
   ownLength: 1266,
   unitSlug: "words",

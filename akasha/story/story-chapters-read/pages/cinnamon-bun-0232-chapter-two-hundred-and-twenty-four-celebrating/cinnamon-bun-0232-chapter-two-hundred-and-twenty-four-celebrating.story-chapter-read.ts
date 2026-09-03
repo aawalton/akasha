@@ -5,7 +5,7 @@ export const cinnamonBun0232ChapterTwoHundredAndTwentyFourCelebrating = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0232-chapter-two-hundred-and-twenty-four-celebrating",
   title: "Chapter Two Hundred and Twenty-Four - Celebrating the Good Things",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 232,
   ownLength: 1983,
   unitSlug: "words",

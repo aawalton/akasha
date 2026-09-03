@@ -5,7 +5,7 @@ export const chrysalis0091Chapter1443AnUnusualMeetAndGreet = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0091-chapter-1443-an-unusual-meet-and-greet",
   title: "Chapter 1443 - An Unusual Meet and Greet",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 91,
   ownLength: 1063,
   ownProgress: 1063,

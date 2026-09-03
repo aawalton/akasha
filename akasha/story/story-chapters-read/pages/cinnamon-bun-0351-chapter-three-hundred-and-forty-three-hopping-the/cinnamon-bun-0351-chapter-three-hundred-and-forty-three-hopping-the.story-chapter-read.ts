@@ -5,7 +5,7 @@ export const cinnamonBun0351ChapterThreeHundredAndFortyThreeHoppingThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0351-chapter-three-hundred-and-forty-three-hopping-the",
   title: "Chapter Three Hundred and Forty-Three - Hopping the Border",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 351,
   ownLength: 1994,
   unitSlug: "words",

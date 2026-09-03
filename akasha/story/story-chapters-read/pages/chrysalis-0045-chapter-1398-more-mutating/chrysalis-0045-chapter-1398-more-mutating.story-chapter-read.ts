@@ -5,7 +5,7 @@ export const chrysalis0045Chapter1398MoreMutating = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0045-chapter-1398-more-mutating",
   title: "Chapter 1398 - More Mutating",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 45,
   ownLength: 1101,
   ownProgress: 1101,

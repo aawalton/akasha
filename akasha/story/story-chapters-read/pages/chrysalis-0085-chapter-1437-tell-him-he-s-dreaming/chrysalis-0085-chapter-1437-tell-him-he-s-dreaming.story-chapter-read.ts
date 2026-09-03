@@ -5,7 +5,7 @@ export const chrysalis0085Chapter1437TellHimHeSDreaming = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0085-chapter-1437-tell-him-he-s-dreaming",
   title: "Chapter 1437 - Tell Him He’s Dreaming",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 85,
   ownLength: 1090,
   ownProgress: 1090,

@@ -5,7 +5,7 @@ export const cinnamonBun0460ChapterFourHundredAndFortySixPsychoanalysis = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0460-chapter-four-hundred-and-forty-six-psychoanalysis",
   title: "Chapter Four Hundred and Forty-Six - Psychoanalysis",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 460,
   ownLength: 1654,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0268ChapterTwoHundredAndSixtyCaptainsLogs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0268-chapter-two-hundred-and-sixty-captains-logs",
   title: "Chapter Two Hundred and Sixty - Captain's Logs",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 268,
   ownLength: 1927,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0220ChapterTwoHundredAndTwelveMistOpportunities = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0220-chapter-two-hundred-and-twelve-mist-opportunities",
   title: "Chapter Two Hundred and Twelve - Mist Opportunities",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 220,
   ownLength: 1960,
   unitSlug: "words",

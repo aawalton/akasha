@@ -5,7 +5,7 @@ export const cinnamonBun0284ChapterTwoHundredAndSeventySixHaveYouTried = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0284-chapter-two-hundred-and-seventy-six-have-you-tried",
   title: "Chapter Two Hundred and Seventy-Six - Have You Tried Asking?",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 284,
   ownLength: 1999,
   unitSlug: "words",

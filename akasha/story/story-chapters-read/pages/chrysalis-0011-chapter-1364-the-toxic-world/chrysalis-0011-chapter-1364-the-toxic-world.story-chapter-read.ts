@@ -5,7 +5,7 @@ export const chrysalis0011Chapter1364TheToxicWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0011-chapter-1364-the-toxic-world",
   title: "Chapter 1364 - The Toxic World",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 11,
   ownLength: 1078,
   ownProgress: 1078,

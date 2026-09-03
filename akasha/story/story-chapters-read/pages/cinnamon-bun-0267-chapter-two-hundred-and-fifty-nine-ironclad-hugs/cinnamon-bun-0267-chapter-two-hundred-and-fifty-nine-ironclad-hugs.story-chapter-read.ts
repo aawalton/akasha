@@ -5,7 +5,7 @@ export const cinnamonBun0267ChapterTwoHundredAndFiftyNineIroncladHugs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0267-chapter-two-hundred-and-fifty-nine-ironclad-hugs",
   title: "Chapter Two Hundred and Fifty-Nine - Ironclad Hugs",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 267,
   ownLength: 1932,
   unitSlug: "words",

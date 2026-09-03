@@ -5,7 +5,7 @@ export const cinnamonBun0382ChapterThreeHundredAndSeventyBoltbound = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0382-chapter-three-hundred-and-seventy-boltbound",
   title: "Chapter Three Hundred and Seventy - Boltbound",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 382,
   ownLength: 1957,
   unitSlug: "words",

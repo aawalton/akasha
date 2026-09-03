@@ -5,7 +5,7 @@ export const cinnamonBun0447ChapterFourHundredAndThirtyThreeUncertainty = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0447-chapter-four-hundred-and-thirty-three-uncertainty",
   title: "Chapter Four Hundred and Thirty-Three - Uncertainty Principle",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 447,
   ownLength: 2021,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0325ChapterThreeHundredAndSeventeenCountingSheep = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0325-chapter-three-hundred-and-seventeen-counting-sheep",
   title: "Chapter Three Hundred and Seventeen - Counting Sheep",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 325,
   ownLength: 2012,
   unitSlug: "words",

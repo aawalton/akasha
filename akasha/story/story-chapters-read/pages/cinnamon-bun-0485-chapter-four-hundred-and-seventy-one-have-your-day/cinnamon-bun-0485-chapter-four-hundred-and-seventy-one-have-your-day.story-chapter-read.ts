@@ -5,7 +5,7 @@ export const cinnamonBun0485ChapterFourHundredAndSeventyOneHaveYourDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0485-chapter-four-hundred-and-seventy-one-have-your-day",
   title: "Chapter Four Hundred and Seventy-One - Have Your Day in Court",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 485,
   ownLength: 1536,
   unitSlug: "words",

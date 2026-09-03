@@ -5,7 +5,7 @@ export const chrysalis0069Chapter1421TheWallsAreClosingIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0069-chapter-1421-the-walls-are-closing-in",
   title: "Chapter 1421 - The Walls are Closing In",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 69,
   ownLength: 1011,
   ownProgress: 1011,

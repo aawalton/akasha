@@ -5,7 +5,7 @@ export const chrysalis0021Chapter1374ItSALittleWeird = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0021-chapter-1374-it-s-a-little-weird",
   title: "Chapter 1374 - It’s a Little Weird",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 21,
   ownLength: 1004,
   ownProgress: 1004,

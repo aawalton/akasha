@@ -5,7 +5,7 @@ export const chrysalis0053Chapter1406KrathAssault = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0053-chapter-1406-krath-assault",
   title: "Chapter 1406 - Krath Assault!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 53,
   ownLength: 908,
   ownProgress: 908,

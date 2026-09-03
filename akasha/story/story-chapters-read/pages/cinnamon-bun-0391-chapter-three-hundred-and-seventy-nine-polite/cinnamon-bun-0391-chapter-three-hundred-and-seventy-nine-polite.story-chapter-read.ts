@@ -5,7 +5,7 @@ export const cinnamonBun0391ChapterThreeHundredAndSeventyNinePolite = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0391-chapter-three-hundred-and-seventy-nine-polite",
   title: "Chapter Three Hundred and Seventy-Nine - Polite Friction",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 391,
   ownLength: 1967,
   unitSlug: "words",

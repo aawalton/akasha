@@ -5,7 +5,7 @@ export const cinnamonBun0254ChapterTwoHundredAndFortySixPaladinBusiness = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0254-chapter-two-hundred-and-forty-six-paladin-business",
   title: "Chapter Two Hundred and Forty-Six - Paladin Business",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 254,
   ownLength: 1948,
   unitSlug: "words",

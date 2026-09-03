@@ -5,7 +5,7 @@ export const cinnamonBun0440ChapterFourHundredAndTwentySixThereIsOnly = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0440-chapter-four-hundred-and-twenty-six-there-is-only",
   title: "Chapter Four Hundred and Twenty-Six - There is Only Open Fire and Reload",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 440,
   ownLength: 2040,
   unitSlug: "words",

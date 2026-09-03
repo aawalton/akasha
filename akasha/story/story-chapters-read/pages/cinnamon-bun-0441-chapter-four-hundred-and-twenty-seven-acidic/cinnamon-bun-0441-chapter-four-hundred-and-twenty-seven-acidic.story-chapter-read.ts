@@ -5,7 +5,7 @@ export const cinnamonBun0441ChapterFourHundredAndTwentySevenAcidic = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0441-chapter-four-hundred-and-twenty-seven-acidic",
   title: "Chapter Four Hundred and Twenty-Seven - Acidic Reaction",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 441,
   ownLength: 1989,
   unitSlug: "words",

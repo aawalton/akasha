@@ -5,7 +5,7 @@ export const cinnamonBun0455ChapterFourHundredAndFortyOneTheCrackOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0455-chapter-four-hundred-and-forty-one-the-crack-of",
   title: "Chapter Four Hundred and Forty-One - The Crack of Dawn",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 455,
   ownLength: 1982,
   unitSlug: "words",

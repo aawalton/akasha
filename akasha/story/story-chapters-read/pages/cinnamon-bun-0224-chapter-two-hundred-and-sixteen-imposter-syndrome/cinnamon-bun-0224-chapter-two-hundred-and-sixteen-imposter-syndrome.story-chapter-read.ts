@@ -5,7 +5,7 @@ export const cinnamonBun0224ChapterTwoHundredAndSixteenImposterSyndrome = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0224-chapter-two-hundred-and-sixteen-imposter-syndrome",
   title: "Chapter Two Hundred and Sixteen - Imposter Syndrome",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 224,
   ownLength: 2020,
   unitSlug: "words",

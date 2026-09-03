@@ -5,7 +5,7 @@ export const cinnamonBun0337ChapterThreeHundredAndTwentyNineCampground = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0337-chapter-three-hundred-and-twenty-nine-campground",
   title: "Chapter Three Hundred and Twenty-Nine - Campground Ladies",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 337,
   ownLength: 1994,
   unitSlug: "words",

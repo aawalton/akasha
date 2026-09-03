@@ -5,7 +5,7 @@ export const cinnamonBun0311ChapterThreeHundredAndThreeOutOfTheDark = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0311-chapter-three-hundred-and-three-out-of-the-dark",
   title: "Chapter Three Hundred and Three - Out of the Dark",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 311,
   ownLength: 2012,
   unitSlug: "words",

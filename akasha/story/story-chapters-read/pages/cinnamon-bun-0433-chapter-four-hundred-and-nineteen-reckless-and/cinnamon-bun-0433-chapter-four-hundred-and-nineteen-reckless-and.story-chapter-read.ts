@@ -5,7 +5,7 @@ export const cinnamonBun0433ChapterFourHundredAndNineteenRecklessAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0433-chapter-four-hundred-and-nineteen-reckless-and",
   title: "Chapter Four Hundred and Nineteen - Reckless and Wild, they Pour Through the Turns",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 433,
   ownLength: 2029,
   unitSlug: "words",

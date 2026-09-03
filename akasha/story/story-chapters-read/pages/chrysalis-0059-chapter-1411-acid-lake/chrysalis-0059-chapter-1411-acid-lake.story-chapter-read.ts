@@ -5,7 +5,7 @@ export const chrysalis0059Chapter1411AcidLake = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0059-chapter-1411-acid-lake",
   title: "Chapter 1411 - Acid Lake",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 59,
   ownLength: 1211,
   ownProgress: 1211,

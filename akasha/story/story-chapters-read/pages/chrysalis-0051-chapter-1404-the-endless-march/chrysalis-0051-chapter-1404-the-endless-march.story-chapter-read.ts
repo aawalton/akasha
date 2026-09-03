@@ -5,7 +5,7 @@ export const chrysalis0051Chapter1404TheEndlessMarch = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0051-chapter-1404-the-endless-march",
   title: "Chapter 1404 - The Endless March",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 51,
   ownLength: 1089,
   ownProgress: 1089,

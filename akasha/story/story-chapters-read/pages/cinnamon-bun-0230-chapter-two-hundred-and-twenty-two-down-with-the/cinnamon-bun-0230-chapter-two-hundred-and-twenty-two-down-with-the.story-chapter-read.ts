@@ -5,7 +5,7 @@ export const cinnamonBun0230ChapterTwoHundredAndTwentyTwoDownWithThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0230-chapter-two-hundred-and-twenty-two-down-with-the",
   title: "Chapter Two Hundred and Twenty-Two - Down With the Boss",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 230,
   ownLength: 1953,
   unitSlug: "words",

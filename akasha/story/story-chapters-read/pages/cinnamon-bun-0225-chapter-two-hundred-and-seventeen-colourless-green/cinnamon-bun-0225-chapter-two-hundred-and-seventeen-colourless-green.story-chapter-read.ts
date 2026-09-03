@@ -5,7 +5,7 @@ export const cinnamonBun0225ChapterTwoHundredAndSeventeenColourlessGreen = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0225-chapter-two-hundred-and-seventeen-colourless-green",
   title: "Chapter Two Hundred and Seventeen - Colourless Green Ideas Slither Furiously",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 225,
   ownLength: 1952,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0412ChapterThreeHundredAndNinetyNineTheLittle = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0412-chapter-three-hundred-and-ninety-nine-the-little",
   title: "Chapter Three Hundred and Ninety-Nine - The Little Cheese of Airship Inspections",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 412,
   ownLength: 1982,
   unitSlug: "words",

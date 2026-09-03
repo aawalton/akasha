@@ -5,7 +5,7 @@ export const cinnamonBun0251ChapterTwoHundredAndFortyThreeSanityCheck = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0251-chapter-two-hundred-and-forty-three-sanity-check",
   title: "Chapter Two Hundred and Forty-Three - Sanity Check",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 251,
   ownLength: 1987,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0096Chapter1448RisingOnceAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0096-chapter-1448-rising-once-again",
   title: "Chapter 1448 - Rising Once Again\t",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 96,
   ownLength: 919,
   ownProgress: 919,

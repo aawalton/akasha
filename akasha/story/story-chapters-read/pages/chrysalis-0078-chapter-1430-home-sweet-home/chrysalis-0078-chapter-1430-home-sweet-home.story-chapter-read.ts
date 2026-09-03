@@ -5,7 +5,7 @@ export const chrysalis0078Chapter1430HomeSweetHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0078-chapter-1430-home-sweet-home",
   title: "Chapter 1430 - Home Sweet Home",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 78,
   ownLength: 979,
   ownProgress: 979,

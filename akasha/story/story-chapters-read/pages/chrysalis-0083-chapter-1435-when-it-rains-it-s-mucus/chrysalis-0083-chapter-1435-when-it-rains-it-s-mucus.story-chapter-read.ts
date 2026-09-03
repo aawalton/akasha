@@ -5,7 +5,7 @@ export const chrysalis0083Chapter1435WhenItRainsItSMucus = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0083-chapter-1435-when-it-rains-it-s-mucus",
   title: "Chapter 1435 - When it Rains, It’s Mucus",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 83,
   ownLength: 1182,
   ownProgress: 1182,

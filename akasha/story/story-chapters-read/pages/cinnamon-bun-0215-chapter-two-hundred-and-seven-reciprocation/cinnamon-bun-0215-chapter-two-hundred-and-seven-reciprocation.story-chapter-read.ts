@@ -5,7 +5,7 @@ export const cinnamonBun0215ChapterTwoHundredAndSevenReciprocation = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0215-chapter-two-hundred-and-seven-reciprocation",
   title: "Chapter Two Hundred and Seven - Reciprocation",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 215,
   ownLength: 2099,
   unitSlug: "words",

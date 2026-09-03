@@ -5,7 +5,7 @@ export const chrysalis0063Chapter1415WarInTheShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0063-chapter-1415-war-in-the-shadows",
   title: "Chapter 1415 - War in the Shadows",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 63,
   ownLength: 927,
   ownProgress: 927,

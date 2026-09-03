@@ -5,7 +5,7 @@ export const chrysalis0002Chapter1355SetbackWhatSetback = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0002-chapter-1355-setback-what-setback",
   title: "Chapter 1355 - Setback? What Setback?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 2,
   ownLength: 1131,
   ownProgress: 1131,

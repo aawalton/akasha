@@ -5,7 +5,7 @@ export const cinnamonBun0269ChapterTwoHundredAndSixtyOneAirtimeNaptime = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0269-chapter-two-hundred-and-sixty-one-airtime-naptime",
   title: "Chapter Two Hundred and Sixty-One - Airtime Naptime",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 269,
   ownLength: 2083,
   unitSlug: "words",

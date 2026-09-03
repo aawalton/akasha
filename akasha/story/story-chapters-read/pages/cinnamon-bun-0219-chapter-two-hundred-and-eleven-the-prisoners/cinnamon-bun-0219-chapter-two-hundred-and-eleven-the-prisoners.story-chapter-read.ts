@@ -5,7 +5,7 @@ export const cinnamonBun0219ChapterTwoHundredAndElevenThePrisoners = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0219-chapter-two-hundred-and-eleven-the-prisoners",
   title: "Chapter Two Hundred and Eleven - The Prisoner's Dilemma",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 219,
   ownLength: 1980,
   unitSlug: "words",

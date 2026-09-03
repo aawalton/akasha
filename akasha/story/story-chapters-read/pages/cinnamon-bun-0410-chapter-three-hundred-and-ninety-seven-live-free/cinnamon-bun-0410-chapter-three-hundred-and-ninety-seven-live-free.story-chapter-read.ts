@@ -5,7 +5,7 @@ export const cinnamonBun0410ChapterThreeHundredAndNinetySevenLiveFree = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0410-chapter-three-hundred-and-ninety-seven-live-free",
   title: "Chapter Three Hundred and Ninety-Seven - Live Free and Dine Hard",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 410,
   ownLength: 1952,
   unitSlug: "words",

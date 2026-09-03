@@ -5,7 +5,7 @@ export const cinnamonBun0285ChapterTwoHundredAndSeventySevenHaystack = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0285-chapter-two-hundred-and-seventy-seven-haystack",
   title: "Chapter Two Hundred and Seventy-Seven - Haystack",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 285,
   ownLength: 1926,
   unitSlug: "words",

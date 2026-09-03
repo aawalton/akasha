@@ -5,7 +5,7 @@ export const cinnamonBun0490ChapterFourHundredAndSeventySixBegone = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0490-chapter-four-hundred-and-seventy-six-begone",
   title: "Chapter Four Hundred and Seventy-Six - Begone, Troublemakers",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 490,
   ownLength: 1504,
   unitSlug: "words",

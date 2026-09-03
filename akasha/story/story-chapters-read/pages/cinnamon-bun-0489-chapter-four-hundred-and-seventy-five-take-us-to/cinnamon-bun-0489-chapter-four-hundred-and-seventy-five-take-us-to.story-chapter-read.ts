@@ -5,7 +5,7 @@ export const cinnamonBun0489ChapterFourHundredAndSeventyFiveTakeUsTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0489-chapter-four-hundred-and-seventy-five-take-us-to",
   title: "Chapter Four Hundred and Seventy-Five - Take Us to the Next Level",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 489,
   ownLength: 1509,
   unitSlug: "words",

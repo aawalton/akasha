@@ -5,7 +5,7 @@ export const cinnamonBun0334ChapterThreeHundredAndTwentySixIntroductions = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0334-chapter-three-hundred-and-twenty-six-introductions",
   title: "Chapter Three Hundred and Twenty-Six - Introductions are in Order",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 334,
   ownLength: 1974,
   unitSlug: "words",

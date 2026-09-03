@@ -5,7 +5,7 @@ export const cinnamonBun0341ChapterThreeHundredAndThirtyThreeCatchingUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0341-chapter-three-hundred-and-thirty-three-catching-up",
   title: "Chapter Three Hundred and Thirty-Three - Catching Up",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 341,
   ownLength: 1900,
   unitSlug: "words",

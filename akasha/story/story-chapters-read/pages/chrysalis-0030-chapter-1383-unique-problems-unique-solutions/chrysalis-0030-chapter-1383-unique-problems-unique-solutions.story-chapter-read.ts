@@ -5,7 +5,7 @@ export const chrysalis0030Chapter1383UniqueProblemsUniqueSolutions = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0030-chapter-1383-unique-problems-unique-solutions",
   title: "Chapter 1383 - Unique Problems? Unique Solutions",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 30,
   ownLength: 1090,
   ownProgress: 1090,

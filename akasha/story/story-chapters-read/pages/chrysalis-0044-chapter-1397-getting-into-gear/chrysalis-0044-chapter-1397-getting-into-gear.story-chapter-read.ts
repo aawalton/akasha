@@ -5,7 +5,7 @@ export const chrysalis0044Chapter1397GettingIntoGear = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0044-chapter-1397-getting-into-gear",
   title: "Chapter 1397 - Getting Into Gear",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 44,
   ownLength: 1042,
   ownProgress: 1042,

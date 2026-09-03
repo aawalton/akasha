@@ -5,7 +5,7 @@ export const cinnamonBun0359ChapterThreeHundredAndFiftyOneMutually = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0359-chapter-three-hundred-and-fifty-one-mutually",
   title: "Chapter Three Hundred and Fifty-One - Mutually Assured Hugging",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 359,
   ownLength: 1973,
   unitSlug: "words",

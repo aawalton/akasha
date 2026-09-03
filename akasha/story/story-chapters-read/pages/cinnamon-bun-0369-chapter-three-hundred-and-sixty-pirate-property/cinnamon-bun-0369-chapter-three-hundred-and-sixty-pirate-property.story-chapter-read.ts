@@ -5,7 +5,7 @@ export const cinnamonBun0369ChapterThreeHundredAndSixtyPirateProperty = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0369-chapter-three-hundred-and-sixty-pirate-property",
   title: "Chapter Three Hundred and Sixty - Pirate Property",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 369,
   ownLength: 2084,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0046Chapter1399SlimeSage = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0046-chapter-1399-slime-sage",
   title: "Chapter 1399 - Slime Sage",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 46,
   ownLength: 1004,
   ownProgress: 1004,

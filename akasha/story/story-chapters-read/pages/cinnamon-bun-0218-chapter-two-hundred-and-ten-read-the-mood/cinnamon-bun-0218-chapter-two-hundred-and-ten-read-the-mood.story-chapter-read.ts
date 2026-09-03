@@ -5,7 +5,7 @@ export const cinnamonBun0218ChapterTwoHundredAndTenReadTheMood = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0218-chapter-two-hundred-and-ten-read-the-mood",
   title: "Chapter Two Hundred and Ten - Read The Mood",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 218,
   ownLength: 1988,
   unitSlug: "words",

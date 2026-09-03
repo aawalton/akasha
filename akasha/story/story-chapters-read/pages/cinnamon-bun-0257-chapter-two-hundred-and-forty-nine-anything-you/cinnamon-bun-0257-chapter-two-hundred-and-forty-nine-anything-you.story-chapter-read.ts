@@ -6,7 +6,7 @@ export const cinnamonBun0257ChapterTwoHundredAndFortyNineAnythingYou = {
   slug: "cinnamon-bun-0257-chapter-two-hundred-and-forty-nine-anything-you",
   title:
     "Chapter Two Hundred and Forty-Nine - Anything You Can Do, I Can Do Better (Except for Hugs)",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 257,
   ownLength: 1940,
   unitSlug: "words",

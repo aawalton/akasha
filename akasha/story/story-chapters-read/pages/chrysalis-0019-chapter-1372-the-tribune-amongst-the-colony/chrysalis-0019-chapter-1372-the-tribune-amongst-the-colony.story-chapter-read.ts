@@ -5,7 +5,7 @@ export const chrysalis0019Chapter1372TheTribuneAmongstTheColony = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0019-chapter-1372-the-tribune-amongst-the-colony",
   title: "Chapter 1372 - The Tribune Amongst the Colony",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 19,
   ownLength: 1017,
   ownProgress: 1017,

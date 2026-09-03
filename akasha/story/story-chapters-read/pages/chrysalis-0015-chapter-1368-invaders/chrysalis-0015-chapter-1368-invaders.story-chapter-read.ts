@@ -5,7 +5,7 @@ export const chrysalis0015Chapter1368Invaders = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0015-chapter-1368-invaders",
   title: "Chapter 1368 - Invaders",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 15,
   ownLength: 1093,
   ownProgress: 1093,

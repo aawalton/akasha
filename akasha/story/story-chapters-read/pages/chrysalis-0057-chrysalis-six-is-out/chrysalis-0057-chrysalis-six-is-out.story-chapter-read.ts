@@ -5,7 +5,7 @@ export const chrysalis0057ChrysalisSixIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0057-chrysalis-six-is-out",
   title: "Chrysalis SIX is out!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 57,
   ownLength: 92,
   ownProgress: 92,

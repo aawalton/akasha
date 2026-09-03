@@ -5,7 +5,7 @@ export const cinnamonBun0303ChapterTwoHundredAndNinetyFiveInThisSolemn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0303-chapter-two-hundred-and-ninety-five-in-this-solemn",
   title: "Chapter Two Hundred and Ninety-Five - In This Solemn Hour",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 303,
   ownLength: 2092,
   unitSlug: "words",

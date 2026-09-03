@@ -5,7 +5,7 @@ export const chrysalis0029Chapter1382AThoughtForLeeroy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0029-chapter-1382-a-thought-for-leeroy",
   title: "Chapter 1382 - A Thought For Leeroy?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 29,
   ownLength: 1037,
   ownProgress: 1037,

@@ -5,7 +5,7 @@ export const cinnamonBun0401ChapterThreeHundredAndEightyNineAntipathy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0401-chapter-three-hundred-and-eighty-nine-antipathy",
   title: "Chapter Three Hundred and Eighty-Nine - Antipathy",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 401,
   ownLength: 2051,
   unitSlug: "words",

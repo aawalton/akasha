@@ -5,7 +5,7 @@ export const cinnamonBun0244ChapterTwoHundredAndThirtySixListenUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0244-chapter-two-hundred-and-thirty-six-listen-up",
   title: "Chapter Two Hundred and Thirty-Six - LISTEN UP, MAGGOTS!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 244,
   ownLength: 2023,
   unitSlug: "words",

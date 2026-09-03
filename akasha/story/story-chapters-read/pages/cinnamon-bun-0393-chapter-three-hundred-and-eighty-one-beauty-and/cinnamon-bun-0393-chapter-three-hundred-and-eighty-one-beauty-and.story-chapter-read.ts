@@ -5,7 +5,7 @@ export const cinnamonBun0393ChapterThreeHundredAndEightyOneBeautyAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0393-chapter-three-hundred-and-eighty-one-beauty-and",
   title: "Chapter Three Hundred and Eighty-One - Beauty and the Dragon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 393,
   ownLength: 1966,
   unitSlug: "words",

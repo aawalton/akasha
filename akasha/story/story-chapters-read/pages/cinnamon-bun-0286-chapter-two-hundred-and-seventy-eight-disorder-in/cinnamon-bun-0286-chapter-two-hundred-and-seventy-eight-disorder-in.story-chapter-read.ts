@@ -5,7 +5,7 @@ export const cinnamonBun0286ChapterTwoHundredAndSeventyEightDisorderIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0286-chapter-two-hundred-and-seventy-eight-disorder-in",
   title: "Chapter Two Hundred and Seventy-Eight - Disorder in the Port",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 286,
   ownLength: 1852,
   unitSlug: "words",

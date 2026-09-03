@@ -5,7 +5,7 @@ export const cinnamonBun0424ChapterFourHundredAndTenBookingItAfter = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0424-chapter-four-hundred-and-ten-booking-it-after",
   title: "Chapter Four Hundred and Ten - Booking it After Negotiating",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 424,
   ownLength: 2045,
   unitSlug: "words",

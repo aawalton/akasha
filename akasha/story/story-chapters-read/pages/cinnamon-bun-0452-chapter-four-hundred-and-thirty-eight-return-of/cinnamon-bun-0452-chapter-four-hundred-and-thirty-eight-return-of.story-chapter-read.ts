@@ -5,7 +5,7 @@ export const cinnamonBun0452ChapterFourHundredAndThirtyEightReturnOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0452-chapter-four-hundred-and-thirty-eight-return-of",
   title: "Chapter Four Hundred and Thirty-Eight - Return of the Bun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 452,
   ownLength: 2500,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0389ChapterThreeHundredAndSeventySevenMoral = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0389-chapter-three-hundred-and-seventy-seven-moral",
   title: "Chapter Three Hundred and Seventy-Seven - Moral Fiber",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 389,
   ownLength: 1895,
   unitSlug: "words",

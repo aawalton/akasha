@@ -5,7 +5,7 @@ export const chrysalis0049Chapter1402TheKrathLathSPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0049-chapter-1402-the-krath-lath-s-plans",
   title: "Chapter 1402 - The Krath’lath’s Plans!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 49,
   ownLength: 1088,
   ownProgress: 1088,

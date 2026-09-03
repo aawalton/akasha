@@ -5,7 +5,7 @@ export const cinnamonBun0428ChapterFourHundredAndFourteenCanYouSay = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0428-chapter-four-hundred-and-fourteen-can-you-say",
   title: "Chapter Four Hundred and Fourteen - Can You Say Uncle",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 428,
   ownLength: 1992,
   unitSlug: "words",

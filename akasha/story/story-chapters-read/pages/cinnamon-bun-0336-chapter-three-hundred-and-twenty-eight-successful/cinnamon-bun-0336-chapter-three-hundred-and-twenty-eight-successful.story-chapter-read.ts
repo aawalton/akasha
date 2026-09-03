@@ -5,7 +5,7 @@ export const cinnamonBun0336ChapterThreeHundredAndTwentyEightSuccessful = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0336-chapter-three-hundred-and-twenty-eight-successful",
   title: "Chapter Three Hundred and Twenty-Eight - Successful Insertion",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 336,
   ownLength: 1926,
   unitSlug: "words",

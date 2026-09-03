@@ -5,7 +5,7 @@ export const chrysalis0042Chapter1395TickleTimeIsOver = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0042-chapter-1395-tickle-time-is-over",
   title: "Chapter 1395 - Tickle Time is Over",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 42,
   ownLength: 1114,
   ownProgress: 1114,

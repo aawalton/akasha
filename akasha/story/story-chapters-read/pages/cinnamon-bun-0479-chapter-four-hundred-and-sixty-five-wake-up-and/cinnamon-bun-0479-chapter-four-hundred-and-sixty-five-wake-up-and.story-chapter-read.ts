@@ -5,7 +5,7 @@ export const cinnamonBun0479ChapterFourHundredAndSixtyFiveWakeUpAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0479-chapter-four-hundred-and-sixty-five-wake-up-and",
   title: "Chapter Four Hundred and Sixty-Five - Wake Up and Smell the Eggs",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 479,
   ownLength: 1513,
   unitSlug: "words",

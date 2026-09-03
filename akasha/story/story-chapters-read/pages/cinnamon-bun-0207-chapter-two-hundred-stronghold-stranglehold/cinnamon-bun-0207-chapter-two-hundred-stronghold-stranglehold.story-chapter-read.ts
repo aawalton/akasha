@@ -5,7 +5,7 @@ export const cinnamonBun0207ChapterTwoHundredStrongholdStranglehold = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0207-chapter-two-hundred-stronghold-stranglehold",
   title: "Chapter Two Hundred - Stronghold Stranglehold",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 207,
   ownLength: 1980,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0102Chapter1454ASlipperyFoe = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0102-chapter-1454-a-slippery-foe",
   title: "Chapter 1454 - A Slippery Foe",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 102,
   ownLength: 1048,
   ownProgress: 1048,

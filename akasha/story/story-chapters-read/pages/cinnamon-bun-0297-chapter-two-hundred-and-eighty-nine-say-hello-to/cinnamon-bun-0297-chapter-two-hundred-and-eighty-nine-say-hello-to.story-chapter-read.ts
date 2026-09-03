@@ -5,7 +5,7 @@ export const cinnamonBun0297ChapterTwoHundredAndEightyNineSayHelloTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0297-chapter-two-hundred-and-eighty-nine-say-hello-to",
   title: "Chapter Two Hundred and Eighty-Nine - Say Hello to My Little Friends",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 297,
   ownLength: 2067,
   unitSlug: "words",

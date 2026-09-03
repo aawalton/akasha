@@ -5,7 +5,7 @@ export const cinnamonBun0317ChapterThreeHundredAndNineWeedbaneThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0317-chapter-three-hundred-and-nine-weedbane-the",
   title: "Chapter Three Hundred and Nine - Weedbane the Dandelion Slayer",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 317,
   ownLength: 1982,
   unitSlug: "words",

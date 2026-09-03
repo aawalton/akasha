@@ -5,7 +5,7 @@ export const cinnamonBun0256ChapterTwoHundredAndFortyEightDiggyDiggy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0256-chapter-two-hundred-and-forty-eight-diggy-diggy",
   title: "Chapter Two Hundred and Forty-Eight - Diggy Diggy Hole",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 256,
   ownLength: 1878,
   unitSlug: "words",

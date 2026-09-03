@@ -5,7 +5,7 @@ export const cinnamonBun0394ChapterThreeHundredAndEightyTwoSouthbound = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0394-chapter-three-hundred-and-eighty-two-southbound",
   title: "Chapter Three Hundred and Eighty-Two - Southbound",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 394,
   ownLength: 1989,
   unitSlug: "words",

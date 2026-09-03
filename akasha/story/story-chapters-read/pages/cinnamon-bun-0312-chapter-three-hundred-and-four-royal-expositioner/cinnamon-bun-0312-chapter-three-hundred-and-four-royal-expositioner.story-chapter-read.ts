@@ -5,7 +5,7 @@ export const cinnamonBun0312ChapterThreeHundredAndFourRoyalExpositioner = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0312-chapter-three-hundred-and-four-royal-expositioner",
   title: "Chapter Three Hundred and Four - Royal Expositioner",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 312,
   ownLength: 1998,
   unitSlug: "words",

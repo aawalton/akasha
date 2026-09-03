@@ -5,7 +5,7 @@ export const cinnamonBun0270ChapterTwoHundredAndSixtyTwoFinal = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0270-chapter-two-hundred-and-sixty-two-final",
   title: "Chapter Two Hundred and Sixty-Two - Final Destination",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 270,
   ownLength: 2039,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0282ChapterTwoHundredAndSeventyFourHotSprings = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0282-chapter-two-hundred-and-seventy-four-hot-springs",
   title: "Chapter Two Hundred and Seventy-Four - Hot Springs Episode",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 282,
   ownLength: 2012,
   unitSlug: "words",

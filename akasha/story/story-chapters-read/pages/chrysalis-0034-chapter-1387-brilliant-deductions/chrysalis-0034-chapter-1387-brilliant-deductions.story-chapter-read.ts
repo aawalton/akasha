@@ -5,7 +5,7 @@ export const chrysalis0034Chapter1387BrilliantDeductions = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0034-chapter-1387-brilliant-deductions",
   title: "Chapter 1387 - Brilliant Deductions",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 34,
   ownLength: 1131,
   ownProgress: 1131,

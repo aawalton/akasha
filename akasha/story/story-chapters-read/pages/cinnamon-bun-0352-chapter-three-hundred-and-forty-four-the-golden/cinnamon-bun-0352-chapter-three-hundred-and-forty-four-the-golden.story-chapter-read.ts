@@ -5,7 +5,7 @@ export const cinnamonBun0352ChapterThreeHundredAndFortyFourTheGolden = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0352-chapter-three-hundred-and-forty-four-the-golden",
   title: "Chapter Three Hundred and Forty-Four - The Golden Gold Inn of Goldpass",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 352,
   ownLength: 1963,
   unitSlug: "words",

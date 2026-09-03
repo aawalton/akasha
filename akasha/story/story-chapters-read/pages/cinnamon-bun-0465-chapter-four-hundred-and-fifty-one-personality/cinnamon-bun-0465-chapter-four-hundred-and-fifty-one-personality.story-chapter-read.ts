@@ -5,7 +5,7 @@ export const cinnamonBun0465ChapterFourHundredAndFiftyOnePersonality = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0465-chapter-four-hundred-and-fifty-one-personality",
   title: "Chapter Four Hundred and Fifty-One - Personality Quiz",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 465,
   ownLength: 1547,
   unitSlug: "words",

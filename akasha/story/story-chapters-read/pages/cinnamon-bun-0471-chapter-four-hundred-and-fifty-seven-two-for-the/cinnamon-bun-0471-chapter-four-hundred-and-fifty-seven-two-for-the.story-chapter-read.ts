@@ -5,7 +5,7 @@ export const cinnamonBun0471ChapterFourHundredAndFiftySevenTwoForThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0471-chapter-four-hundred-and-fifty-seven-two-for-the",
   title: "Chapter Four Hundred and Fifty-Seven - Two for the Price of One",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 471,
   ownLength: 1504,
   unitSlug: "words",

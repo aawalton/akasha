@@ -5,7 +5,7 @@ export const cinnamonBun0376ChapterThreeHundredAndSixtySevenHustle = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0376-chapter-three-hundred-and-sixty-seven-hustle",
   title: "Chapter Three Hundred and Sixty-Seven - Hustle, Bustle, Toil, & Trouble",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 376,
   ownLength: 1962,
   unitSlug: "words",

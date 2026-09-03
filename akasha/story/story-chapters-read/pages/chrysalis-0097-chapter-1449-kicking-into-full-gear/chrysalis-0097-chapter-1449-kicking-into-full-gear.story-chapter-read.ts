@@ -5,7 +5,7 @@ export const chrysalis0097Chapter1449KickingIntoFullGear = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0097-chapter-1449-kicking-into-full-gear",
   title: "Chapter 1449 - Kicking into Full Gear",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 97,
   ownLength: 936,
   ownProgress: 936,

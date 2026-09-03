@@ -5,7 +5,7 @@ export const chrysalis0001Chapter1354GotAProblemAGeneralCouldFix = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0001-chapter-1354-got-a-problem-a-general-could-fix",
   title: "Chapter 1354 - Got a Problem a General Could Fix",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 1,
   ownLength: 1055,
   ownProgress: 1055,

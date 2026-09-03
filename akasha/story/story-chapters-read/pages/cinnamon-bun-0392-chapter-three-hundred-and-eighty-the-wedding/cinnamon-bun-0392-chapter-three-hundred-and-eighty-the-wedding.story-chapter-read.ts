@@ -5,7 +5,7 @@ export const cinnamonBun0392ChapterThreeHundredAndEightyTheWedding = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0392-chapter-three-hundred-and-eighty-the-wedding",
   title: "Chapter Three Hundred and Eighty - The Wedding Trackers",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 392,
   ownLength: 1761,
   unitSlug: "words",

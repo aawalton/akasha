@@ -5,7 +5,7 @@ export const cinnamonBun0301ChapterTwoHundredAndNinetyThreeBlitzkrieg = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0301-chapter-two-hundred-and-ninety-three-blitzkrieg",
   title: "Chapter Two Hundred and Ninety-Three - Blitzkrieg",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 301,
   ownLength: 1975,
   unitSlug: "words",

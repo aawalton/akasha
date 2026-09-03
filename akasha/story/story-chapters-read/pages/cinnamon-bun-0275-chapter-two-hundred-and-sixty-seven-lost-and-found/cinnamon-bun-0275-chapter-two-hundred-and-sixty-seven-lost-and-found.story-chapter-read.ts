@@ -5,7 +5,7 @@ export const cinnamonBun0275ChapterTwoHundredAndSixtySevenLostAndFound = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0275-chapter-two-hundred-and-sixty-seven-lost-and-found",
   title: "Chapter Two Hundred and Sixty-Seven - Lost and Found in Translation",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 275,
   ownLength: 1954,
   unitSlug: "words",

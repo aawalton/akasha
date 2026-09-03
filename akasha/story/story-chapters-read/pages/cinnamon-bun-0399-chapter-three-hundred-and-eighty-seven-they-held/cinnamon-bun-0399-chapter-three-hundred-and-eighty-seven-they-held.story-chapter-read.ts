@@ -5,7 +5,7 @@ export const cinnamonBun0399ChapterThreeHundredAndEightySevenTheyHeld = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0399-chapter-three-hundred-and-eighty-seven-they-held",
   title: "Chapter Three Hundred and Eighty-Seven - They Held the Line",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 399,
   ownLength: 2081,
   unitSlug: "words",

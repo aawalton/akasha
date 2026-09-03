@@ -5,7 +5,7 @@ export const cinnamonBun0374ChapterThreeHundredAndSixtyFiveCultural = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0374-chapter-three-hundred-and-sixty-five-cultural",
   title: "Chapter Three Hundred and Sixty-Five - Cultural Considerations",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 374,
   ownLength: 1961,
   unitSlug: "words",

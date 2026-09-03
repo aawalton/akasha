@@ -5,7 +5,7 @@ export const cinnamonBun0248ChapterTwoHundredAndFortyCryHavocAndLet = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0248-chapter-two-hundred-and-forty-cry-havoc-and-let",
   title: "Chapter Two Hundred and Forty - Cry Havoc, And Let Slip the Lasers of War",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 248,
   ownLength: 1961,
   unitSlug: "words",

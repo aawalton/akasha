@@ -5,7 +5,7 @@ export const chrysalis0068Chapter1420HealerTroubles = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0068-chapter-1420-healer-troubles",
   title: "Chapter 1420 - Healer Troubles",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 68,
   ownLength: 1082,
   ownProgress: 1082,

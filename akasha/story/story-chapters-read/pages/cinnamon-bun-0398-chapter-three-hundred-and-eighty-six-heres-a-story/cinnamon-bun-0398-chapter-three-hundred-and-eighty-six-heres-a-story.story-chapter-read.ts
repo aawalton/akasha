@@ -6,7 +6,7 @@ export const cinnamonBun0398ChapterThreeHundredAndEightySixHeresAStory = {
   slug: "cinnamon-bun-0398-chapter-three-hundred-and-eighty-six-heres-a-story",
   title:
     "Chapter Three Hundred and Eighty-Six - Here's a Story About a Little Town That Lives in a Blue World",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 398,
   ownLength: 2001,
   unitSlug: "words",

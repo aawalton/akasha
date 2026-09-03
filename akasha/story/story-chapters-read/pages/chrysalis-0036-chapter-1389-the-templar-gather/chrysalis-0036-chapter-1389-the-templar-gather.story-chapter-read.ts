@@ -5,7 +5,7 @@ export const chrysalis0036Chapter1389TheTemplarGather = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0036-chapter-1389-the-templar-gather",
   title: "Chapter 1389 - The Templar Gather",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 36,
   ownLength: 1058,
   ownProgress: 1058,

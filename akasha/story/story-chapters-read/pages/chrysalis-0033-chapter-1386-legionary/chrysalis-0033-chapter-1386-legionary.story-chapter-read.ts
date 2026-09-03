@@ -5,7 +5,7 @@ export const chrysalis0033Chapter1386Legionary = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0033-chapter-1386-legionary",
   title: "Chapter 1386 - Legionary",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 33,
   ownLength: 1221,
   ownProgress: 1221,

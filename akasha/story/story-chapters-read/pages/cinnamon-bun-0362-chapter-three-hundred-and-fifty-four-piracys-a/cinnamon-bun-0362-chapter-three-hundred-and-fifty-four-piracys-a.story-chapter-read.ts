@@ -5,7 +5,7 @@ export const cinnamonBun0362ChapterThreeHundredAndFiftyFourPiracysA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0362-chapter-three-hundred-and-fifty-four-piracys-a",
   title: "Chapter Three Hundred and Fifty-Four - Piracy's a Crime and Crime Doesn't Pay",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 362,
   ownLength: 2121,
   unitSlug: "words",

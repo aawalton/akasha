@@ -5,7 +5,7 @@ export const cinnamonBun0355ChapterThreeHundredAndFortySevenProvisioning = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0355-chapter-three-hundred-and-forty-seven-provisioning",
   title: "Chapter Three Hundred and Forty-Seven - Provisioning",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 355,
   ownLength: 1879,
   unitSlug: "words",

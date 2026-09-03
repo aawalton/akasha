@@ -5,7 +5,7 @@ export const cinnamonBun0300ChapterTwoHundredAndNinetyTwoSandblasting = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0300-chapter-two-hundred-and-ninety-two-sandblasting",
   title: "Chapter Two Hundred and Ninety-Two - Sandblasting",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 300,
   ownLength: 1985,
   unitSlug: "words",

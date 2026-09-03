@@ -5,7 +5,7 @@ export const cinnamonBun0377ChapterThreeHundredAndSixtyEightLiving = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0377-chapter-three-hundred-and-sixty-eight-living",
   title: "Chapter Three Hundred and Sixty-Eight - Living History",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 377,
   ownLength: 1972,
   unitSlug: "words",

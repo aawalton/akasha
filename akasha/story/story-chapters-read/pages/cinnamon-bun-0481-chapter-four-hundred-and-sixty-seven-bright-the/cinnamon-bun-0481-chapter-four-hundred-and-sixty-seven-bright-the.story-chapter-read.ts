@@ -5,7 +5,7 @@ export const cinnamonBun0481ChapterFourHundredAndSixtySevenBrightThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0481-chapter-four-hundred-and-sixty-seven-bright-the",
   title: "Chapter Four Hundred and Sixty-Seven - Bright the Next Morning, With Noisy Commotion",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 481,
   ownLength: 1468,
   unitSlug: "words",

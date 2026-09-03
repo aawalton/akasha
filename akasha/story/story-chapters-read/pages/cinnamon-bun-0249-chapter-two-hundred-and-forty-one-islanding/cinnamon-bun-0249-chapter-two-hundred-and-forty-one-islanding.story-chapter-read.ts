@@ -5,7 +5,7 @@ export const cinnamonBun0249ChapterTwoHundredAndFortyOneIslanding = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0249-chapter-two-hundred-and-forty-one-islanding",
   title: "Chapter Two Hundred and Forty-One - Islanding",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 249,
   ownLength: 1965,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0380ChapterThreeHundredAndSixtyNinePassingThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0380-chapter-three-hundred-and-sixty-nine-passing-the",
   title: "Chapter Three Hundred and Sixty-Nine - Passing the Torch",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 380,
   ownLength: 2059,
   unitSlug: "words",

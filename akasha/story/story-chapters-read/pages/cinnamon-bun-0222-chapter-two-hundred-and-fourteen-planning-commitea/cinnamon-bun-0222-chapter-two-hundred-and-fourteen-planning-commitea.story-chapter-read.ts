@@ -5,7 +5,7 @@ export const cinnamonBun0222ChapterTwoHundredAndFourteenPlanningCommitea = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0222-chapter-two-hundred-and-fourteen-planning-commitea",
   title: "Chapter Two Hundred and Fourteen - Planning Commitea",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 222,
   ownLength: 1921,
   unitSlug: "words",

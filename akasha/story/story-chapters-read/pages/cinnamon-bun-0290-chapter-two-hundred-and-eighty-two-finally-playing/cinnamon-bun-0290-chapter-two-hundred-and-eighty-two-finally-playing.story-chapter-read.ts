@@ -5,7 +5,7 @@ export const cinnamonBun0290ChapterTwoHundredAndEightyTwoFinallyPlaying = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0290-chapter-two-hundred-and-eighty-two-finally-playing",
   title: "Chapter Two Hundred and Eighty-Two - Finally Playing Tourist",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 290,
   ownLength: 1551,
   unitSlug: "words",

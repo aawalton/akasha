@@ -5,7 +5,7 @@ export const chrysalis0064Chapter1416AFriendYouCanRelyOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0064-chapter-1416-a-friend-you-can-rely-on",
   title: "Chapter 1416 - A Friend You Can Rely On",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 64,
   ownLength: 897,
   ownProgress: 897,

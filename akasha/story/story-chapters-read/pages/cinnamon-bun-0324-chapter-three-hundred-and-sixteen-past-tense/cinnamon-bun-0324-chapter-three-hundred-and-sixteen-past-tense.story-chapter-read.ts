@@ -5,7 +5,7 @@ export const cinnamonBun0324ChapterThreeHundredAndSixteenPastTense = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0324-chapter-three-hundred-and-sixteen-past-tense",
   title: "Chapter Three Hundred and Sixteen - Past Tense",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 324,
   ownLength: 2047,
   unitSlug: "words",

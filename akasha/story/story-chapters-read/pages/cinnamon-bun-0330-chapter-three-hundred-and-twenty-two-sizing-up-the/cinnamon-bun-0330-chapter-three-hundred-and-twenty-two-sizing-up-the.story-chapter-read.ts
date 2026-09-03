@@ -5,7 +5,7 @@ export const cinnamonBun0330ChapterThreeHundredAndTwentyTwoSizingUpThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0330-chapter-three-hundred-and-twenty-two-sizing-up-the",
   title: "Chapter Three Hundred and Twenty-Two - Sizing Up the Future",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 330,
   ownLength: 1755,
   unitSlug: "words",

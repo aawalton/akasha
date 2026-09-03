@@ -5,7 +5,7 @@ export const cinnamonBun0461ChapterFourHundredAndFortySevenId = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0461-chapter-four-hundred-and-forty-seven-id",
   title: "Chapter Four Hundred and Forty-Seven - Id",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 461,
   ownLength: 1441,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0018Chapter1371GuessWho = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0018-chapter-1371-guess-who",
   title: "Chapter 1371 - Guess Who?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 18,
   ownLength: 1191,
   ownProgress: 1191,

@@ -5,7 +5,7 @@ export const cinnamonBun0408ChapterThreeHundredAndNinetyFiveCuttingEdge = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0408-chapter-three-hundred-and-ninety-five-cutting-edge",
   title: "Chapter Three Hundred and Ninety-Five - Cutting Edge Cleaning",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 408,
   ownLength: 1996,
   unitSlug: "words",

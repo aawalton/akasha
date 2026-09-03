@@ -5,7 +5,7 @@ export const cinnamonBun0438ChapterFourHundredAndTwentyFourAPirates = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0438-chapter-four-hundred-and-twenty-four-a-pirates",
   title: "Chapter Four Hundred and Twenty-Four - A Pirate's Life for Thee, But Not for Me",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 438,
   ownLength: 2018,
   unitSlug: "words",

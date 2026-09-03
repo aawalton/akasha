@@ -5,7 +5,7 @@ export const cinnamonBun0416ChapterFourHundredAndThreeArtfulDebate = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0416-chapter-four-hundred-and-three-artful-debate",
   title: "Chapter Four Hundred and Three - Artful Debate",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 416,
   ownLength: 1971,
   unitSlug: "words",

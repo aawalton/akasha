@@ -5,7 +5,7 @@ export const chrysalis0010Chapter1363OnTheVerge = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0010-chapter-1363-on-the-verge",
   title: "Chapter 1363 - On the Verge",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 10,
   ownLength: 1080,
   ownProgress: 1080,

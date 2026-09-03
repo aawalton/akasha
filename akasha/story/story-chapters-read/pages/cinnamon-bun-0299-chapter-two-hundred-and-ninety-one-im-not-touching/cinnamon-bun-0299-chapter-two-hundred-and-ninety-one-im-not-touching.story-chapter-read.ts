@@ -5,7 +5,7 @@ export const cinnamonBun0299ChapterTwoHundredAndNinetyOneImNotTouching = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0299-chapter-two-hundred-and-ninety-one-im-not-touching",
   title: "Chapter Two Hundred and Ninety-One - I'm Not Touching You!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 299,
   ownLength: 2301,
   unitSlug: "words",

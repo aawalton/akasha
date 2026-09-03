@@ -5,7 +5,7 @@ export const chrysalis0076Chapter1427TheFinestCreation = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0076-chapter-1427-the-finest-creation",
   title: "Chapter 1427 - The Finest Creation",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 76,
   ownLength: 998,
   ownProgress: 998,

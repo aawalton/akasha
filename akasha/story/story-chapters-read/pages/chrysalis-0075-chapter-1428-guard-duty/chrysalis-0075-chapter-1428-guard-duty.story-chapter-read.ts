@@ -5,7 +5,7 @@ export const chrysalis0075Chapter1428GuardDuty = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0075-chapter-1428-guard-duty",
   title: "Chapter 1428 - Guard Duty",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 75,
   ownLength: 986,
   ownProgress: 986,

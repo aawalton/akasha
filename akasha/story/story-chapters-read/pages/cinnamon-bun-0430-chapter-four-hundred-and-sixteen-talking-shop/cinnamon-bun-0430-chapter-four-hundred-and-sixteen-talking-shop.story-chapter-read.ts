@@ -5,7 +5,7 @@ export const cinnamonBun0430ChapterFourHundredAndSixteenTalkingShop = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0430-chapter-four-hundred-and-sixteen-talking-shop",
   title: "Chapter Four Hundred and Sixteen - Talking Shop",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 430,
   ownLength: 2172,
   unitSlug: "words",

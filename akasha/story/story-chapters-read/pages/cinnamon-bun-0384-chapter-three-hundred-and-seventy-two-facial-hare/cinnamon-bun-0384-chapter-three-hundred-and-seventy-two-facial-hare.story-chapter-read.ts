@@ -5,7 +5,7 @@ export const cinnamonBun0384ChapterThreeHundredAndSeventyTwoFacialHare = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0384-chapter-three-hundred-and-seventy-two-facial-hare",
   title: "Chapter Three Hundred and Seventy-Two - Facial Hare",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 384,
   ownLength: 1972,
   unitSlug: "words",

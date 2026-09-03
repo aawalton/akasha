@@ -5,7 +5,7 @@ export const cinnamonBun0294ChapterTwoHundredAndEightySixWarhawk = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0294-chapter-two-hundred-and-eighty-six-warhawk",
   title: "Chapter Two Hundred and Eighty-Six - Warhawk",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 294,
   ownLength: 2126,
   unitSlug: "words",

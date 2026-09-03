@@ -5,7 +5,7 @@ export const cinnamonBun0247ChapterTwoHundredAndThirtyNineTheyreGoing = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0247-chapter-two-hundred-and-thirty-nine-theyre-going",
   title: "Chapter Two Hundred and Thirty-Nine - They're Going the Distance!",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 247,
   ownLength: 2045,
   unitSlug: "words",

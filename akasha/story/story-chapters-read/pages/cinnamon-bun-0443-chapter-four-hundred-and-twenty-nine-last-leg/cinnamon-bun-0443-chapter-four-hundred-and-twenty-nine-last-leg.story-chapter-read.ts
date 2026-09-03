@@ -5,7 +5,7 @@ export const cinnamonBun0443ChapterFourHundredAndTwentyNineLastLeg = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0443-chapter-four-hundred-and-twenty-nine-last-leg",
   title: "Chapter Four Hundred and Twenty-Nine - Last Leg",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 443,
   ownLength: 1927,
   unitSlug: "words",

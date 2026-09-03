@@ -5,7 +5,7 @@ export const cinnamonBun0231ChapterTwoHundredAndTwentyThreeATrue = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0231-chapter-two-hundred-and-twenty-three-a-true",
   title: "Chapter Two Hundred and Twenty-Three - A True Captain",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 231,
   ownLength: 1894,
   unitSlug: "words",

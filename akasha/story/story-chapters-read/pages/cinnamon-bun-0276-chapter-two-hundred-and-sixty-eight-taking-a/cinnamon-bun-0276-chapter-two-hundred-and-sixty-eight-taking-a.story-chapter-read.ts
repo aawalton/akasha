@@ -5,7 +5,7 @@ export const cinnamonBun0276ChapterTwoHundredAndSixtyEightTakingA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0276-chapter-two-hundred-and-sixty-eight-taking-a",
   title: "Chapter Two Hundred and Sixty-Eight - Taking a Friendtrip",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 276,
   ownLength: 2007,
   unitSlug: "words",

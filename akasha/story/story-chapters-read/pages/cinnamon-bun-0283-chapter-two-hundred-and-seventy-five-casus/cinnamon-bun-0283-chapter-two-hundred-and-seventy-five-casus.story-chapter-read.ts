@@ -5,7 +5,7 @@ export const cinnamonBun0283ChapterTwoHundredAndSeventyFiveCasus = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0283-chapter-two-hundred-and-seventy-five-casus",
   title: "Chapter Two Hundred and Seventy-Five - Casus Antibelli",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 283,
   ownLength: 2186,
   unitSlug: "words",

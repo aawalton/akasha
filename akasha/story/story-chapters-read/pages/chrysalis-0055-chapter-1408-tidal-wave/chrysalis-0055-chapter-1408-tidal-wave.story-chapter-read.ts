@@ -5,7 +5,7 @@ export const chrysalis0055Chapter1408TidalWave = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0055-chapter-1408-tidal-wave",
   title: "Chapter 1408 - Tidal Wave",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 55,
   ownLength: 1124,
   ownProgress: 1124,
