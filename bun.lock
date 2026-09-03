@@ -159,6 +159,13 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/alan/fitness/exercise-access": {
+      "name": "@akasha/exercise-access",
+      "dependencies": {
+        "@akasha/pages-system": "workspace:*",
+        "@tools/lib": "workspace:*",
+      },
+    },
     "akasha/alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
@@ -711,6 +718,7 @@
         "@akasha/google-oauth": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
+        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -3223,6 +3231,8 @@
     "@akasha/errors-client": ["@akasha/errors-client@workspace:akasha/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:akasha/errors-core"],
+
+    "@akasha/exercise-access": ["@akasha/exercise-access@workspace:akasha/alan/fitness/exercise-access"],
 
     "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:akasha/file-page-identity"],
 

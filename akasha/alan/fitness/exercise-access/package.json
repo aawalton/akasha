@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/exercise-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./exercise-vocabulary": "./exercise-vocabulary/exercise-vocabulary.module.code.ts",
+    "./selection-policy": "./selection-policy/selection-policy.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}
