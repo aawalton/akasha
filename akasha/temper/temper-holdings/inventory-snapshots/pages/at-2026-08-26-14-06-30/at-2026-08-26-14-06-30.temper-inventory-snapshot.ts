@@ -10,4 +10,13 @@ export const at20260826140630 = {
   totalValue: 517050309.1699996,
   chunkCount: 3,
   stacks: "jsonl",
+  lastFullScanAt: "2026-08-26T14:06:30.000Z",
+  priceSource: "ttc",
+  transmuteCrystalAmount: 2119,
+  transmuteCrystalCap: 3000,
+  locations: "jsonl",
+  bagSizes: "jsonl",
+  currencies: "jsonl",
+  craftingLevels: "jsonl",
+  placedFurnishings: "jsonl",
 } as const satisfies TemperInventorySnapshot
