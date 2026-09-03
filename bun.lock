@@ -159,6 +159,12 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/alan/library/book-of-everything": {
+      "name": "@akasha/book-of-everything",
+      "dependencies": {
+        "@akasha/pages-system": "workspace:*",
+      },
+    },
     "akasha/alan/library/reading": {
       "name": "@akasha/reading",
       "dependencies": {
@@ -3166,6 +3172,8 @@
     "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:akasha/archive-of-worlds/archive-of-worlds-web"],
 
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:akasha/audhdalan/audhdalan-web"],
+
+    "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:akasha/alan/library/book-of-everything"],
 
     "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:akasha/browser/launch-env"],
 

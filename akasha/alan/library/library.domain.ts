@@ -5,7 +5,11 @@ export const library = {
   pageTypeSlug: "domain",
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",
-  partSlugs: ["domain/studying", "workspace-package/reading"],
+  partSlugs: [
+    "domain/studying",
+    "workspace-package/reading",
+    "workspace-package/book-of-everything",
+  ],
   invariants: [
     {
       invariantKind: "departure",

@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/book-of-everything",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./books-root": "./books-root/books-root.module.code.ts",
+    "./coverage-fold": "./coverage-fold/coverage-fold.module.code.ts",
+    "./coverage-status": "./coverage-status/coverage-status.module.code.ts",
+    "./node-profile": "./node-profile/node-profile.module.code.ts",
+    "./random-leaf-select": "./random-leaf-select/random-leaf-select.module.code.ts",
+    "./status-tree": "./status-tree/status-tree.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-system": "workspace:*"
+  }
+}
