@@ -15,5 +15,5 @@ export const learnEverythingTopic03HinduismAndOtherReligionsOfIndia = {
   integration: "md",
   misconceptions: "md",
   bites: "md",
-  evidence: "md",
+  topicEvidence: "md",
 } as const satisfies LearnEverythingTopic

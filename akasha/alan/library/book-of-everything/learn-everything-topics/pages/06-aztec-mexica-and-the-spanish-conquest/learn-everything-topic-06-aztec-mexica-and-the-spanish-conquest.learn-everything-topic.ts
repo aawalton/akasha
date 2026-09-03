@@ -15,5 +15,5 @@ export const learnEverythingTopic06AztecMexicaAndTheSpanishConquest = {
   integration: "md",
   misconceptions: "md",
   bites: "md",
-  evidence: "md",
+  topicEvidence: "md",
 } as const satisfies LearnEverythingTopic

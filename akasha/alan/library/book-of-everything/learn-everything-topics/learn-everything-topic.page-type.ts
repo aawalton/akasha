@@ -29,7 +29,7 @@ export type LearnEverythingTopic = Page & {
   integration?: Integration
   misconceptions?: Misconceptions
   bites?: Bites
-  evidence?: TopicEvidence
+  topicEvidence?: TopicEvidence
 }
 
 export const learnEverythingTopic = {
