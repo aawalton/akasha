@@ -28,6 +28,7 @@ export const ciContainers = {
     "module/ci-reaper-cluster",
     "module/ci-reaper-step-pages",
     "module/ci-reaper-tick",
+    "module/ci-step-taking",
     "module/ci-wedge",
   ],
   invariants: [

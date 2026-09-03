@@ -1,7 +1,7 @@
 import { patchPage, patchState } from "@akasha/markdown-pages/page-write"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { takeStepIfStatus } from "@tools/lib/take-step-status"
 import { DISPATCHING } from "../ci-dispatch-candidates/ci-dispatch-candidates.module.code.ts"
+import { takeStepIfStatus } from "../ci-step-taking/ci-step-taking.module.code.ts"
 
 export const CAPACITY_WAIT_REASON = "node-capacity"
 

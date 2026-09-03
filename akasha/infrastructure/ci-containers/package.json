@@ -24,6 +24,7 @@
     "./ci-reaper-cluster": "./ci-reaper-cluster/ci-reaper-cluster.module.code.ts",
     "./ci-reaper-step-pages": "./ci-reaper-step-pages/ci-reaper-step-pages.module.code.ts",
     "./ci-reaper-tick": "./ci-reaper-tick/ci-reaper-tick.module.code.ts",
+    "./ci-step-taking": "./ci-step-taking/ci-step-taking.module.code.ts",
     "./ci-wedge": "./ci-wedge/ci-wedge.module.code.ts"
   },
   "dependencies": {

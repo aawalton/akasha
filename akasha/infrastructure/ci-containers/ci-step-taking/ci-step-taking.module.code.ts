@@ -20,10 +20,10 @@ export function takeStepIfStatus(
   const at = whereFor(roots, STEP, stepSeq)
   if (at === null) return false
   return exclusively(uncommittedPathFor(at.path), () => {
-    const standing = readUncommitted(at.path) ?? {}
-    const stands = typeof standing.status === "string" ? standing.status : PENDING
-    if (stands !== was) return false
-    writeUncommitted(at.path, { ...standing, ...values })
+    const held = readUncommitted(at.path) ?? {}
+    const status = typeof held.status === "string" ? held.status : PENDING
+    if (status !== was) return false
+    writeUncommitted(at.path, { ...held, ...values })
     return true
   })
 }
