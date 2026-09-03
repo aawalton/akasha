@@ -67,6 +67,7 @@ export const akasha = {
     "domain/archive-of-worlds",
     "domain/audhdalan",
     "domain/smilingjenny",
+    "domain/ki",
   ],
   invariants: [
     {
