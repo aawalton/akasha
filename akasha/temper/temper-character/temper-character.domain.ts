@@ -7,6 +7,8 @@ export const temperCharacter = {
   definition: "an account, the characters on it, and what each character is built as",
   pluralSlug: "temper-characters",
   partSlugs: [
+    "page-type/character-build",
+    "page-type/companion-build",
     "page-type/temper-account",
     "page-type/temper-account-character",
     "page-type/temper-character-role",
