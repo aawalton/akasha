@@ -23,6 +23,7 @@ export const bookRecord = {
   definition: "one record kept about a book Alan is writing",
   pluralSlug: "book-records",
   extendsSlug: "page-type/page",
+  runsTabooCheck: false,
   partSlugs: [
     "file-property/writing",
     "text-property/kept-by",
@@ -41,6 +42,10 @@ export const bookRecord = {
     {
       invariantKind: "departure",
       statement: "One book has more than one record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record carries the words of whoever keeps the book rather than akasha's words.",
     },
     {
       invariantKind: "absence",
