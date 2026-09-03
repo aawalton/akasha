@@ -1,22 +1,22 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { parseAllDocuments, stringify } from "yaml"
-import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { git } from "../../repo/git/git.ts"
 import { sidecarFor, valuesIn } from "../../tools/lib/page-secret.ts"
 import type { Plan } from "../deploy/deploy.ts"
 import { type Ran, runKubectlOn } from "../kubectl/kubectl.ts"
 import { DeployRefused } from "../refusal/refusal.ts"
 
-const SECRET_GLOB = "*.secret.md"
+const SECRET_GLOB = "*.secret.ts"
 
 const VALUE_KEY = "value"
 
 const EVERY_KEY = "*"
 
-const RESOURCE_NAME = "resource-name"
+const RESOURCE_NAME = "resourceName"
 
-const RESOURCE_KEY = "resource-key"
+const RESOURCE_KEY = "resourceKey"
 
 function keyFor(name: string, key: string): string {
   return JSON.stringify([name, key])
@@ -83,10 +83,11 @@ export function secretPages(akasha: string): readonly SecretPage[] {
   const found: SecretPage[] = []
   for (const one of held.stdout.split("\0")) {
     if (one === "") continue
-    const fm = parseFrontmatter(readFileSync(join(akasha, one), "utf8"))
-    const slug = textField(fm, "slug")
-    const resourceName = textField(fm, RESOURCE_NAME)
-    const resourceKey = textField(fm, RESOURCE_KEY)
+    const value = valueAt(join(akasha, one), akasha)
+    if (value === null) continue
+    const slug = textAt(value, "slug")
+    const resourceName = textAt(value, RESOURCE_NAME)
+    const resourceKey = textAt(value, RESOURCE_KEY)
     if (slug === null || resourceName === null || resourceKey === null) continue
     found.push({ slug, relPath: one, resourceName, resourceKey })
   }

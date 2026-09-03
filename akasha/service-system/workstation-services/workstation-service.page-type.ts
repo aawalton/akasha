@@ -44,7 +44,7 @@ export const workstationService = {
     "text-property/after",
     "text-property/binds",
     "text-property/part-of",
-    "text-property/restart",
+    "select-property/restart",
     "text-property/runs",
     "text-property/schedule",
     "text-property/stops",
