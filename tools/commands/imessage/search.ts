@@ -1,14 +1,10 @@
 export const summary = "Search iMessage history by text substring (decodes attributedBody blobs)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import { emitMessages, nameFor } from "@akasha/imessage/message-lines"
 import { inputError } from "../../lib/exit.ts"
+import { imessageChatDb, imessageContactsDb, imessageRemote } from "../../lib/imessage-code.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import {
-  imessageChatDb,
-  imessageContactsDb,
-  imessageRemote,
-} from "../../lib/imessage-code.ts"
-import { emitMessages, nameFor } from "../../lib/imessage.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const OVERFETCH_FACTOR = 5
 

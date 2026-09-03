@@ -1,14 +1,10 @@
 export const summary = "List the newest iMessages (all chats, or one contact's with --contact)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
+import { emitMessages, nameFor } from "@akasha/imessage/message-lines"
 import { inputError } from "../../lib/exit.ts"
+import { imessageChatDb, imessageContactsDb, imessageRemote } from "../../lib/imessage-code.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import {
-  imessageChatDb,
-  imessageContactsDb,
-  imessageRemote,
-} from "../../lib/imessage-code.ts"
-import { emitMessages, nameFor } from "../../lib/imessage.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

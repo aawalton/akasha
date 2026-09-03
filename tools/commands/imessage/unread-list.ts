@@ -1,17 +1,17 @@
 export const summary = "List the unread inbound iMessages (sender + text + timestamp)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { imessageChatDb, imessageContactsDb, imessageRemote } from "../../lib/imessage-code.ts"
-import { type ImessageMessage } from "@akasha/imessage/chat-db"
+import type { ImessageMessage } from "@akasha/imessage/chat-db"
 import {
   formatLocalMinute,
   messageLabel,
   type NameFor,
   nameFor,
   singleLine,
-} from "../../lib/imessage.ts"
+} from "@akasha/imessage/message-lines"
+import { inputError } from "../../lib/exit.ts"
+import { imessageChatDb, imessageContactsDb, imessageRemote } from "../../lib/imessage-code.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -42,11 +42,7 @@ export const help: CommandHelp = {
   ],
 }
 
-function emitUnread(
-  messages: readonly ImessageMessage[],
-  name: NameFor,
-  json: boolean
-): undefined {
+function emitUnread(messages: readonly ImessageMessage[], name: NameFor, json: boolean): undefined {
   const oldestFirst = [...messages].reverse()
   if (json) {
     const records = oldestFirst.map((m) => ({
