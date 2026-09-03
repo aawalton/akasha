@@ -14,12 +14,31 @@
     "test": "bun test"
   },
   "exports": {
+    "./alan-app-id": "./alan-app-id/alan-app-id.module.code.ts",
+    "./alan-app-shell": "./alan-app-shell/alan-app-shell.module.code.tsx",
+    "./alan-auth-provider": "./alan-auth-provider/alan-auth-provider.module.code.tsx",
     "./api-fetch": "./api-fetch/api-fetch.module.code.ts",
     "./api-origin": "./api-origin/api-origin.module.code.ts",
+    "./capability-registrations": "./capability-registrations/capability-registrations.module.code.ts",
     "./capacitor-bridge": "./capacitor-bridge/capacitor-bridge.module.code.ts",
     "./capacitor-cors": "./capacitor-cors/capacitor-cors.module.code.ts",
+    "./content-pages-fs": "./content-pages-fs/content-pages-fs.module.code.ts",
     "./declared-effects": "./declared-effects/declared-effects.module.code.ts",
-    "./use-mark-notification-read": "./use-mark-notification-read/use-mark-notification-read.module.code.ts"
+    "./home-dni": "./home-dni/home-dni.module.code.ts",
+    "./idle-game": "./idle-game/idle-game.module.code.tsx",
+    "./kokoro-tts-adapter": "./kokoro-tts-adapter/kokoro-tts-adapter.module.code.ts",
+    "./offline-download-button": "./offline-download-button/offline-download-button.module.code.tsx",
+    "./offline-text": "./offline-text/offline-text.module.code.ts",
+    "./page-display-kind": "./page-display-kind/page-display-kind.module.code.ts",
+    "./pages-persistence-fs": "./pages-persistence-fs/pages-persistence-fs.module.code.ts",
+    "./reader-narration-detail": "./reader-narration-detail/reader-narration-detail.module.code.tsx",
+    "./shell-ensure-rendition": "./shell-ensure-rendition/shell-ensure-rendition.module.code.ts",
+    "./shell-media-src": "./shell-media-src/shell-media-src.module.code.ts",
+    "./status-bar-sync": "./status-bar-sync/status-bar-sync.module.code.tsx",
+    "./use-is-online": "./use-is-online/use-is-online.module.code.ts",
+    "./use-mark-notification-read": "./use-mark-notification-read/use-mark-notification-read.module.code.ts",
+    "./use-media-variants": "./use-media-variants/use-media-variants.module.code.ts",
+    "./use-next-unread": "./use-next-unread/use-next-unread.module.code.ts"
   },
   "dependencies": {
     "@akasha/chess-core": "workspace:*",

@@ -15,6 +15,7 @@ export const alan = {
     "domain/tracking",
     "router-app/alan-atlas-web",
     "router-app/alan-web",
+    "router-app/alan-web-capacitor",
     "workspace-package/chess",
   ],
 } as const satisfies Domain

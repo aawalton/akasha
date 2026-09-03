@@ -20,9 +20,9 @@ export const alanwalton = {
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number",
   macWwwStagingRel: ".testflight-www-staging",
   marketingVersion: "1.0",
-  spaSourcePath: "alanwalton/web",
+  spaSourcePath: "akasha/alan/web-capacitor",
   stageScript: "shell-script/alanwalton-stage-app",
-  webEnvPath: "alanwalton/web/.env.local",
+  webEnvPath: "akasha/alan/web/.env.local",
   partSlugs: [
     "ios-program/alanwalton-app",
     "ios-program/alanwalton-decode-harness",
