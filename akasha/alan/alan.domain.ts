@@ -12,6 +12,7 @@ export const alan = {
     "domain/music",
     "domain/self",
     "domain/tracking",
+    "router-app/alan-atlas-web",
     "router-app/alan-web",
     "workspace-package/chess",
   ],

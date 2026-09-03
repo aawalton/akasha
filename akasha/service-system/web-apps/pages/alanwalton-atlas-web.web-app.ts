@@ -5,7 +5,7 @@ export const alanwaltonAtlasWeb = {
   pageTypeSlug: "web-app",
   slug: "alanwalton-atlas-web",
   definition: "the website drawing Alan's map and taking in the locations his phone sends",
-  sourceDirectory: "alanwalton/atlas-web",
+  sourceDirectory: "akasha/alan/atlas-web",
   buildCommand: "bun run build",
   clusterServiceSlugs: ["alanwalton-atlas"],
   hostnames: ["atlas.alanwalton.com"],
