@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "The write half still runs but has narrowed to one writer. Measured 09-02 near 15:00: 13 `pages/**.uncommitted.yaml` touched in an hour, down from 86, every one a `code-editor-group-tab`, `code-editor-group` or `code-editor-window`, with 2 `observation-writer-main` processes live. The last reach through the old write engine is the code editor observation writer, so the extension intent above blocks this one. The read half was severed at `fbf73c4710`; `f9307ff1dc` put two entry modules back.",
+        "NOT blocked by the extension. At least 16 live entrypoints still write the old engine, in 4 families: the editor; the agent message-claim path (`messages-mcp`, `run-supervisor`, `recipient-resolver-daemon`) writing `pages/message`; 9 timers and daemons; 2 CLIs live on the commit landing them. Clearing intent 1 closes none of them. The old 1-hour sample is the flaw — writes track editor use, so an idle hour reads as progress. `tools/lib/page-rows-write.ts` is a separate row engine, unaudited.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
