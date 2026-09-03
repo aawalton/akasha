@@ -193,7 +193,7 @@ describe("the rows of one property divided across parts", () => {
 
   test("the mine's own 24 files are what the committed corpus holds", () => {
     const parts = rowsPartsOf(
-      `${import.meta.dirname}/../pages/temper-mine/eso.temper-mine.items.jsonl`
+      `${import.meta.dirname}/../../temper/temper-character/mines/pages/eso/eso.temper-mine.items.jsonl`
     )
     expect(parts.length).toBe(24)
     expect(parts.map((one) => partNumberOf(one))).toEqual(
