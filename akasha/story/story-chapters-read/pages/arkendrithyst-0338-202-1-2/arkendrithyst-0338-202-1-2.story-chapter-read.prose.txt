@@ -1,0 +1,192 @@
+“Did you sleep well?” Erick asked Teressa, over a late breakfast.
+
+“Best I’ve slept in a long time,” Teressa said, cutting into her large omelet.
+
+Erick had watched her some while she slept, and yes, she had slept well, as far as he had seen. It was still important to ask these questions and get confirmation, though. It had been 20 hours since her accident, and her soul seemed completely fine—
+
+With a small grin, Teressa said, “If the worst should happen and you gotta [Reincarnation] me, I’d like to be myself again.”
+
+Erick shuddered a little, unable to find any words to say. He was scared of that possibility. He hoped that wouldn’t need to happen.
+
+Kiri spoke, “Me too—” She rapidly corrected, “I’d like to be myself, is what I mean. I don’t want to be Teressa.” Her emerald scale face flushed a bit darker.
+
+Ah?
+
+Erick almost stared at her, for Kiri had taken Teressa’s admittance of worry for something much more lighthearted than it had been.
+
+“I would also like to be myself,” Poi nodded seriously, as he said, “But a bit taller.”
+
+Now Poi? Poi was just fucking with Erick in order to make him worry less.
+
+Poi smiled at that thought.
+
+Teressa kept grinning as the conversation turned to hypotheticals. “Maybe shorter would be better, for me. Bigger boobs. Maybe less muscular.”
+
+Kiri laughed. “I suppose an orcol wouldn’t get back problems with age! Might as well go with as big of boobs as you can!”
+
+“Now you’re just being silly,” Erick said, trying not to sound like he was complaining.
+
+Poi nodded, then spoke in a serious tone that was not serious at all, “I will have a list of my own adjustments I would like if the worst should happen, Sir.”
+
+Kiri and Teressa both laughed, and Erick did too, if only a chuckle.
+
+Worry seemed to vanish like so much morning mist.
+
+Still, though, Erick decided he would spend the day at home and put off all his meetings that he could put off. For necessary meetings, Erick could go to them in person. Work didn’t stop just because people got hurt. Teressa might not be worried about anything anymore (which might make her a liability as a bodyguard, but Erick would save that discussion for later) but Erick was still worried about his own little part of the world falling apart if he didn’t do his best.
+
+- - - -
+
+He could still do some magic, though, since Teressa was staying home. While Kiri went off to work with Mox, and Poi remained with Teressa, Erick moved over to his warehouse to get started on some spellwork which would become necessary for the future, if not tonight. First came an attempt at his [10 Restful Hours in 10 Minutes] spell.
+
+But there were a lot of moving parts to this sort of magic. Erick mentally listed out the problems he would have to solve for, and then how he would solve them.
+
+[Haste] was only a doubling of subjective time, so Erick would need to add in the Variable Cost Variable Effect spellwork to solve for that problem. Easy enough to do with some Blood Magic methodology.
+
+The next problem was that the barrier which separated speedy time and normal time was too fragile; Ophiel had broken the previous version of this magic just by stepping through that barrier. So to solve this, Erick would use [Force Wall], since he couldn’t very well make another Solid Ward. This separation would ensure that nothing broke the spell’s effect.
+
+[Ward], which was the basis for this magic, had a duration of 24 hours, so that was more than enough. [Force Wall] had a natural duration of 100 minutes. [Haste] was rather short at only lasting 10 subjective minutes, which was only 5 minutes in real time. Erick could probably solve this through some Permanency methodology, linked to the Variable Cost Variable Effect spellwork.
+
+Having separated space locked off by a [Force Wall] would lead to air quality problems, though. Luckily, the fix for that was simple; a [Cleanse] on the interior edge of the barrier. Not fully inside, but restricted to a slice of space away from the center.
+
+[Cleanse] had an instantaneous duration, though, which circled back to concerns over spell durations. Applying this spell constantly multiplied the cost of this magic by a lot. [Cleanse Aura] cost 10 mana per second, and this spell would be running for 10 hours, which meant a base cost of 36,000 mana. Hopefully, by restricting a [Cleanse Aura]-like spell to the interior edge of the [Force Wall] would be enough of an area reduction that the cost would be similarly reduced.
+
+… Or?
+
+Maybe adding in [Cleanse] wouldn’t be that bad? Erick had put [Cleanse] into a lot of his very, very large spells, like [Withering]. The aura for [Withering], [Domain of the Withering Slime], only cost 2 mana per second. That tsunami of thick air dried out every monster in its area of effect, and then [Cleanse]ed the remains.
+
+Still only 2 mana per second.
+
+Maybe he had done some Wizardry there—
+
+No! Wait. Maybe he had just tapped into the call-[Cleanse] function of the Script? Erick had put a lot of [Cleanse] into a lot of magic, actually, and not many of those spells cost as much mana as they should. [Zone of Peace] was a 24 hour long spell that turned every spell that entered into a [Cleanse] of commensurate size. It had changed a bit since Erick had received the spell back from Koyabez, but it had retained that [Cleanse] function.
+
+Zone of Peace, instant, 24 hours, super long range, 500 MP
+
+All magic cast inside Zone of Peace with the intent to harm, or entering a Zone of Peace with the intent to harm, is transformed into a Cleanse of commensurate size. Zone of Peace has no effect on ongoing magic.
+
+May the peace of Koyabez enable benevolence to flourish.
+
+[Zone of Peace] no longer had any little ‘[][][][][][]’ brackets inside of it, though.
+
+Which brought Erick back to worrying about what Benevolence had done to Teressa. His own Benevolent spells had a bunch of those brackets inside of them but he didn’t really pay much attention to those…
+
+Erick was not worried about his own power, or what he had made. His Gate Space had done exactly as he had wished it to do, when he made it months ago; it worked on its own to show two people the threats and boons that the world would face in the future. That automagic action did make Erick wonder about the brackets in his Benevolence spellwork, though. Was some sort of Establishing going on there? Because that’s what it had to be, right? Some sort of Establishing Paradox Wizardry, showing itself in a way that wouldn’t be known until it was actually known?
+
+… Too big of a conundrum to solve right now.
+
+Erick ignored those extraneous thoughts and returned to the current project.
+
+Maybe he could put a ‘Call-[Cleanse] function’ into today’s [Hasted Hut] attempt, restrict it to a small area… at the inner edge of the [Force Wall], yes. Maybe that would be enough to keep the costs low.
+
+Other than that…?
+
+“Large size, big enough to fully enclose a room…” Erick held out a hand and flowed Elemental Time through his palm. The sound of the river of time burbled just out of sight, as Erick began adding in more magic. “Add in some permanency spellwork, along with VCVE Blood Magic based workings. Elemental Force, for the surroundings, and [Cleanse] restricted to a small area... delineated by [Ward]...”
+
+His voice trailed off as Ophiels fluttered around him, taking up his music and singing along, multiplying the river into a raging torrent.
+
+Gently holding his hand out, feeling Time flow through his fingers, Erick focused.
+
+He spoke a simple poem to communicate his intent,
+
+“A place of Rest,
+
+“A Varied Haste,
+
+“By Cleanse, be blessed
+
+“Protected space.”
+
+A burst of white light twisted away from his fingertips to impact a dome all around him that was not there, until it was. Power flowed into the space—
+
+And suddenly, the rest of the world stopped, while Erick, a few Ophiel, and the part of Yggdrasil that was a part of Erick’s soul, kept going. Beyond the windows, Yggdrasil’s ever-moving green fire canopy and rainbow crown, went still. Erick glanced through the Ophiel back at home, feeling something similar to a lag as he went looking. He saw Poi stuck halfway through turning a page in a book.
+
+Poi would be turning that page for subjective minutes.
+
+Erick would have gone looking in other places, through other Ophiel he had left out there, but every single Ophiel inside the sphere with Erick did a minor freakout. The little guy buzzed his wings. His eyes went wide. He fluttered this way and that, banging against the barrier.
+
+Erick moved fast, gathering them up, saying, “Hey! Hey now. Ophiel. Ophiel. Calm down, okay? Nothing happened. Nothing is happening out there.” Erick gathered an Ophiel in his arms and petted him, calming the little guy down, speaking softly, “You’re okay. Nothing is wrong.”
+
+Ophiel rapidly calmed, though he was not happy.
+
+Erick patted the little guy, asking, “You okay?”
+
+Ophiel was fine. He wasn’t comfortable, but he was fine. As moments passed, turning into a calm minute, Erick sensed that Ophiel was beginning to understand his body differently. Ophiel squeaked, and Erick nodded.
+
+“The parts of your body are still out there, but they’re hard to feel, yeah?” Erick asked.
+
+Ophiel chirped excitedly. That was exactly it!
+
+“I feel it too.” Erick said, “That feeling will come back when the spell ends.”
+
+Ophiel nodded, and then he hopped out of Erick’s arms and took his place back on his shoulder, chirping in quiet violin sounds, and still-unsure guitar sounds. He would not worry.
+
+“How about you, Yggdrasil?” Erick asked, “You okay?”
+
+Yggdrasil’s [Scry] eye moved inside the contained space, looking around here and there, but otherwise he said nothing. He didn’t look too distressed, though. Maybe he couldn’t actually talk when Erick was like this, though?
+
+Ah. That was exactly it.
+
+[Telepathy] should still work, though.
+
+Erick sent, ‘Can you hear me now, Yggdrasil?’
+
+‘…’
+
+Erick waited.
+
+He waited some more.
+
+Yggdrasil sent, ‘… I …’
+
+Erick sent back, ‘You don’t know how to send your thoughts—’
+
+‘… am …’
+
+‘—fast enough. Here. Like this:’ Erick sent a packet of thoughts instead of an open connection, ‘Send a packet of thoughts like this, so that you aren’t interrupted, and so you can get through the barrier of time.’
+
+Erick waited.
+
+Yggdrasil sent, ‘… fine….’
+
+More waiting.
+
+‘… father.’
+
+Erick waited—
+
+A blue box slowly manifested in front of Erick, taking three seconds to fully appear.
+
+Hasted Shelter, instant, close range, 500 + Variable
+
+Multiply the subjective time of a large area to a variable degree.
+
+Base version is 1 hour of subjective time in 1 minute.
+
+500 points of damage to the barrier will break the effect. Always Restful. Always Cleansing.
+
+Erick smiled. “Ahh! This is great! This is exactly what I wanted.” He dismissed the box, then did some quick math. “This version gives me one Script Second every 60 subjective seconds…? Yup. That’s right. Erick moved around his [Hasted Shelter], going near the walls. A faint thickness held in the air near the swirling white barrier, like a [Cleanse Aura] held tight, though it was hard to tell if there actually was a thickness in the air, or if it was just a trick of the light against the swirling white barrier beyond. “I can test this, actually.”
+
+Crystallize Diamond X.
+
+Erick did not cast the spell on any particular diamond, but he did target the air near the wall—
+
+Sure enough, wind swirled inward and some of it turned into thicker air near the wall, but the part of the spell away from the wall did not cause any sort of [Cleanse] effect. Erick canceled the Particle spell before it could do much at all, and the thick air generation stopped. That was enough testing for now, though.
+
+He canceled the [Hasted Shelter]—
+
+It was like rising from the depths; a rapid pressure change that Erick had never experienced before on Veird, because Veird had a bunch of funky ways to remove gravity from things that should have gravity. Pressure was more or less equalized all throughout the world. But here and now was one reality of physically changing one’s experience of the world that had not been smoothed over.
+
+Erick felt his metaphysical ears pop as the air at the edge of the space rapidly turned to flames, sending a tiny shockwave inside and outside. The burst of flames headed out didn’t matter. The one headed in bounced off of Erick like so much high speed wind.
+
+And then it was over.
+
+Erick giggled a bit as the unexpected danger simply did not happen—
+
+‘Like this? Father? Am I doing it right this time?’ Yggdrasil’s information packet came in like a sledgehammer to the mind, ‘I did not know you could do information packets! This makes this so much simpler! I can talk to you super fast and you can respond, too! No need to take up hours of talking. Because I want to talk to you, father. I did not know how to say it, but I want to talk more with you. You are too busy. I want you to be home more. I know it is selfish but I want you to be home. How much can I put into this message? I only put in a thousand mana, so it shouldn’t be too much, right? Anyway. It seems I have more message space, so I am going to tell you about all the fish I saw today. And about the spider people at Holorulo. They showed me lots of nice fishes. I caught a rivergrieve, all by myself! It was great fun. The spider people like the taste of fish, too. Everyone likes to eat fish and I do not mind this but I wonder about taste. I do not taste things. I want to know what taste is. Can you help me figure out how to taste things? Also, what is sex? Why does touching penises and vaginas make people feel good? Why do people touch butts? What are the purposes of boobs? Why does Teressa want a new body with bigger boobs? Is she okay? I saw her get hurt and Aisha get hurt yesterday inside the lightning room. I saw Aisha already. She went through the Gates and went back to the House ten minutes ago. Why is Zolan and Mox touching each other at night in their rooms, but not doing sex? Both of them have had sex with other people. Why is everyone in that New Folks Home doing sex all the time? Why aren’t you doing sex with them? They joke about that sometimes. I want to read some books, I think. Can you get me some books on magic? I want to learn more about magic, like you do…’
+
+Erick ‘read’ another twenty thousand words from Yggdrasil, but there were a lot more words than that coming out of that information packet. He tried to compartmentalize, to listen for key words and pick out everything important from Yggdrasil’s stream of consciousness, like he was trawling for goldfish among all the minnows.
+
+There were a lot of minnows.
+
+And Erick was not a Mind Mage.
+

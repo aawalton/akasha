@@ -1,0 +1,126 @@
+The Sovereign City of Killtree was a major population center of roughly a hundred thousand people, or more. The census was never too exact about any of that. The city didn’t even have a wall, so it was rather hard to count people when there was no real way to separate the people of the main city from those who lived in the smaller satellite villages and towns. The whole place sort of ran together, across about 400 square kilometers of space, located north of a sometimes-floodplain which was rather good for [Grow]ing crops.
+
+The takedown of Killtree had been an extreme example of how easy it was for Erick to enact his will upon a land of people who had no real power. Even the few Domain holders of this Sovereign City were unimportant to the final result of the ‘battle’, for those people were easily captured and contained by dragons, or by Kromolok’s forces, or by the Elites of Oceanside, or by any of the other forces working with Erick to quickly and systematically eliminate the threats of Killtree.
+
+It had taken 24 minutes, and it had gone like this:
+
+In the sky across that entire city, over the shanty towns of slatted wood, above the mansions of stone and glass, centered above the guard towers that made the whole place look like a prison town, and especially above the wide, muddy roads that led in and out…
+
+Erick’s opening salvo was a sky of [Undertow Star]s.
+
+And then he linked them all together with [Node of the Renewing Undertow], like they were constellations. This took 8 seconds. The next 15 seconds were used to place a hundred [Spatial Denial]s and [Prismatic Lullaby]s across the entire land, and then to link those spells to the constellations above. A lot of this was redundant, and Erick was not planning for the [Undertow Star]s to actually link properly with the [Node of the Renewing Undertow], transferring mana gained from one spell to the other, because that wasn’t how [Undertow Star]’s Drain worked. He had made that spell long before he had made his Node spell.
+
+Undertow Star, instant, super long range, 4500 mana
+
+Summon the Undertow Star! All are the same; all are different.
+
+You may designate allies and enemies at will. All others are still subject to the star’s power.
+
+Allies are excluded from the star’s wrath unless they get too close.
+
+Drain 2x WIL Health and 2x WIL Mana per second from every target in a super large area of effect. Effect is stronger in the depths. Distant targets might not understand that they are being drained. Prevent all non-allied spatial travel within the star’s sight. Gradually erode any non-allied spellwork within the area of effect. The star will defend itself and allies with extreme light and against encroachment with worse.
+
+Lasts 24 hours.
+
+For every 10 resources drained, the spell will last 20 more minutes, gain 3 more points of [Dispel] protection, and be able to erode enemy spellwork with WIL extreme light damage.
+
+Node of the Renewing Undertow, instant, super long range, 500 mana + Variable
+
+Conjure a node that you can further direct to Renew spellwork within line of sight of the node. Nodes once linked to other spellwork will continue to Renew that spellwork until told otherwise, or until that spellwork is fully powered.
+
+Ethereal. Permanent. Self-recreating, if part of a network.
+
+10,000 base mana containment.
+
+10,000 extra mana containment per 500 initial mana invested.
+
+And so, perhaps Erick needed to make an [Undertow Star] that was one tier higher, using [Renew] itself, so that he could have them all link together and share mana how he wanted them to share mana.
+
+And yet, a curious thing happened.
+
+As the sky filled with Stars and house-sized tendrils of shadow began to Drain every single thing on the ground that had mana, something within the Nodes and the Stars began to work well together. The Stars directly over the city center, where the most population lay, began to grow strong, sending thousands of individual tendrils of shadow out into every single person down below. But the Nodes connected to those larger Stars began to swell with power, and that power began to flow through the constellations, to swell the strength of the Stars on the edges of the city.
+
+So Erick didn’t need to change anything, apparently. By all rights, Erick’s Star should not work so well with the Node, but, apparently, it did. The Stars didn't even constantly drain the network; they only went to double max strength and then stopped absorbing power.
+
+Well… Erick was a Wizard. So whatever.
+
+Tendrils of shadow crashed into noble houses, sending pulses of Extreme Light into [Ward]s and spellwork of all kinds, breaking them. Flight spells faltered, sending people to the ground. [Teleport]s failed outright. [Telepathy] failed as tendrils of Light and Shadow cut through telepathic tendrils made of thick air.
+
+And now, half an hour later, with the population of Killtree Drained of all resources, and the Stars cutting through all magic, and every single person who was able to flee being captured and returned to the city by Elites, or Benevolence Dragons, or by others…
+
+Now was the time to talk.
+
+- - - -
+
+In the center of Killtree existed a city square about half a kilometer wide on each side. The four sides of the square went out to four different major stone roads. The southern road led toward mansions and massive estates. The east led off toward the palace, while west led off toward middle class areas, and the north road led toward the slummy side of town. There were stone houses and businesses on every road leading to the square, but on the north side, the road rapidly turned to mud, and the houses were wooden.
+
+The city square was perhaps the only thing that truly marked Killtree as a single city, and not as four different pieces of a society imitating a unified place. This city square was not a place of business, though, as most city squares were, though there were business-like aspects to this land.
+
+This was a place for announcements. Propaganda, mostly. ‘Entertainment’, if one were being more charitable in their assessment.
+
+A wide guard tower stood in the center of the square. Artful lightwards held around the base of that tower, like animations, depicting over and over the evils of Erick the Wizard, showing white eyes in the Dark over Erick’s shoulders, and how Erick’s hands were actually the claws of Melemizargo. A lot of it was simple lies, like the one that showed a map of the world, and spots of darkness spreading out from Candlepoint.
+
+But then there were the bounties. Those were done in paper and plastered dozens of times over and over around that central guard tower.
+
+10,000,000 gold for Erick, dead.
+
+Which was reasonable, Erick supposed, because according to them Erick was the largest evil to surface since the Sundering.
+
+But then there were the bounties on Poi, and Kiri, and Teressa, and all of House Benevolence’s Overseers, and… More. The bounty on Jane was particularly heinous.
+
+Erick casually flattened that guard tower with a display of pure power, not [Stoneshape], and had his Stars above sweep through the lightwards, destroying them. A [Cleanse] cleaned up the shredded paper from the bounties and a lot of the debris. And then, finally, a [Stoneshape] smoothed it all over.
+
+All the captured nobility of Killtree watched Erick do this, from their corrals around the city square.
+
+Erick almost went on to flatten the rest of the city square, for this was a land of lies. But it was also a cultural heritage site. Each corner of the square were amphitheater-like spaces; depressions in the ground and stands of stone that rose from those corners. Four ‘stages’ for bards to perform. The backside of each stage, which faced the center of the square where Erick and his captured nobility now stood, were absolutely layered with colorful fliers of all types.
+
+Each flier was artfully decorated and announced, via images of suns either on an eastern horizon or western horizon, and via a big number to indicate the day when the depicted tales would be told by the various bards of this land. Even illiterate people could read time and tell the date that much, apparently.
+
+Each flier like the announcement of a band, or something, but with no words, and with a lot of imagery to indicate what story was being told at which stage, and when. Images of people in love, and people killing people. One particularly interesting poster was of a woman with absolutely massive tits, who walked naked through a street, brandishing a sword and covered in blood. Erick wasn’t sure what all the various posters meant, but there was a clear pattern with some of them having arrows pointing up, or down, or up and down, and with smiling faces, or crying faces, that it was all some sort of code.
+
+Very few posters had words on them at all, and if they did, those words were at the very bottom, in an out-of-the-way location. The poster with the massive-titted woman was a play by the name of ‘Bertha Comes To Town’. Erick kinda wanted to see that play. But probably not. He was rather angry at the lack of written words in this land.
+
+The forgiving part of Erick felt that the lack of words was so the play would not alienate potential watchers.
+
+The cynical (and probably correct) part of Erick, felt that the lack of words was specifically to ensure that no one was able to begin to learn to read. And maybe the people who made the plays couldn’t read, either? … Maybe. Probably not, though.
+
+Sure, it would be more difficult to learn a play if you couldn’t read, but…
+
+Eh. Erick couldn’t realistically continue down that thread of ‘explanation’ for what he was seeing, for he looked inside the play houses behind those amphitheaters. And he saw books, and loose papers, and quills and scratchpads and all sorts of diagrams for plays being worked out and designs for props being planned. So yes, the playwrights and actors and such could read, but the commoner could not.
+
+Which was infuriating.
+
+… Erick left the culture of Killtree alone. He left them their posters with zero words. He left them their playhouses. He would not leave their nobility intact.
+
+A cold wind blew through the land, and people shivered. Erick had ripped many of them from their houses, from their calm, quiet times at the end of the day, and placed them here, for judgment.
+
+Benevolence dragons surrounded this center square; seven of them, in every color of the pastel rainbow. Either sitting on the stone benches or on the roofs of the nearby playhouses, the dragons watched, and waited. Guarding. Their eyes glinted with soft lightning, but their lightning-touch claws had stopped leaving blackened trails on the stone as soon as the battle was actually over. Now, wherever they touched left small mosses, or flowers, or mushrooms.
+
+The sky was full of Stars, and constellations made of Node-lines. But it was also filled with the actual stars of night. The lights of the city square were ample enough to illuminate everything happening here, though, for they had to be for the plays, and Erick had interrupted four concurrent plays with his act of war. A lot of actors and stage hands were still in their costumes and otherwise, and a few playwrights were sitting behind small windows in the stages, furiously writing down everything that they saw. They knew that the Wizard was making history here, and so did Erick.
+
+Erick breathed deep.
+
+He stood upon the flattened center of the square, and he turned to the captured people of Killtree.
+
+The nobles numbered 587, with 124 of those people qualifying as ‘heads of household’. Those 124 people were the major movers and shakers of Killtree. The rest were extended family. In a larger way, there were 570 people who were the ‘merchant nobility’. Rich and influential people with nice houses. These people occupied the southern part of the square.
+
+Over 2,500 soldiers packed the western side of the square.
+
+259 people stood on the eastern side of the square. These were the royals, and the guards of the royals.
+
+All of these people were varying levels of guilty for deciding to go to war with Erick. Some more than others, for sure, but every single person here was also Matriculated into the Script, which made them stronger than 90% of everyone else in their city. They were the ruling class of Killtree, and even if war was not their fault, they were still guilty of crimes uncountable.
+
+It was rather easy to find the Matriculated among the non-Matriculated, for the [Undertow Star]s strongly tracked those who had more Health and Mana than the non-Matriculated. Every single warmonger in this square was currently supplying the Stars overhead with continuous streams of power. The rest of the city, with its thousands upon thousands of literally-unwashed-masses, barely trickled any power at all to the Stars.
+
+That simple fact had made finding every single noble in Killtree rather damned easy.
+
+In the course of this evening's events, though, Erick had also uncovered thousands of monsters of various types here and there. Cannibal humans. Slimes by the thousands. Two oozes. And those were just the ‘normal’ monsters. There were also Puppet minds. Spinal spiders. Various other mental monster threats. Erick had come through here with the Mind Mages once before to clear out all those mental monster problems, and that is what he had done. In the course of that action, Erick had specifically not looked too hard at the City, or else he knew he would have to act. But still, to see any mental monsters at all was a shame. The nobles were guilty of war, a thousand other crimes, and they were guilty of allowing these monsters to reestablish themselves in these lands.
+
+A Shaped [Withering] had taken care of all of those problems, while leaving the dragons and himself free of that spellwork.
+
+Thousands of blue Kill Notifications had scrolled past Erick’s eyes since the start of this ‘conflict’, and it was only here and now, in this square, as he was getting ready for the next part of this tragedy, that those boxes began to slow.
+
+There had been a few human deaths in that avalanche of monster kills. Erick was not proud of the human deaths, but they had happened. He would make amends as best he could; as best anyone could when it came to wartime accidental casualties. But not right now. Later.
+
+After he dealt with all the warmongers around him.
+

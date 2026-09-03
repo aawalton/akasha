@@ -1,0 +1,126 @@
+Stars twinkled beyond Yggdrasil’s green leaves, far, far above the glass windows of the [Fairy Stronghold] warehouse. It was late at night, and the Wizard was hard at work.
+
+Sweat ran down Erick’s torso, causing tracks in the soot that stained his hands and his pants. Lightning flickered in his eyes as he gazed upon his work.
+
+Three weeks ago, Erick had begun devoting his nights to the problem of magical iron and runic webs. In all cases, magical iron worked fine to channel about a thousand mana before it began to rust, and rust hard. Runic inscriptions would flake red at channeling 1,500 mana, sending small showers of dust to the ground whenever the runic web was handled, and even when it was not. At 2,000 mana, the iron would crumble. It could still hold and empower the magic placed inside the runic web for a time, though it was like a child trying to hold onto a dream after waking. At 2,500 mana the dream was gone, and all that was left was a rusted, pitted, red stretch of iron.
+
+All these numbers were generally true, but Erick had discovered that there was variation.
+
+The larger the object, the slower the degradation. The more surface area exposed to the air, the faster the degradation. Runic inscriptions exposed a lot of surface area. The purer the iron, the better it handled the inscriptions, but it also degraded faster.
+
+Erick had collected these small nuances into a journal which sat to the side of the room. It would probably prove useful for whoever came after him, trying to follow in his footsteps of making iron work as well as platinum for runic webs. It wasn’t an original work, though. The Overseer of Magic of House Benevolence, Aisha, had had her people working on this problem for a while, and so, while Erick had used their own notes as a start to his own work, they used a bunch of math and Erick didn’t like math.
+
+Erick still gave those guys a copy of his own notes whenever he felt like he made a breakthrough. They were all working on the same problem, after all.
+
+But the Office of Magic had no idea what the fuck to do with Erick’s notes. Oh sure, they took those notes, and they were thankful, but they had no idea what to do with them. Erick’s lack of rigorous math was like turning in homework to a teacher with flowers drawn on it instead of doing proper calculus or moon-landing-levels of trigonometry, or whatever. He still used some math, of course, for this stuff had to be plotted out over a surface.
+
+Eh! It was what it was.
+
+The Office of Magic could do as they wanted, for in his own way, Erick felt he was on the right track. After his first night of sleeping in a [Hasted Shelter] three weeks ago and then having all the rest of the night to himself, Erick had started on this project. He hadn’t done much more in his free time besides work iron.
+
+In those first nights Erick had discovered something unexpectedly important, and it had nothing to do with the physical and magical properties of iron.
+
+Erick would rate his magical control as ‘super fine’ on the Script-suggested scale of ‘gross, normal, fine, and super fine’. But sometimes, and usually during extended periods of [Incandescent Aura], [Condense Iron], and all the rest of his Particle Magic, a control rated at ‘super fine’ was not good enough.
+
+There had been blowouts.
+
+Molten iron flew outside of Erick’s control for brief moments. Superheated air had flashed outward, burning away Erick’s clothes and spreading soot everywhere. There had been a few accidents that had burned Erick’s clothes badly enough that a [Mend] could only do so much.
+
+Erick’s skin could withstand brief exposures to 2000 degree Celsius air a lot better than his clothes. He could even withstand (temporary) prolonged exposure of several seconds without being hurt too much, and he had Healing Magics, anyway. And so, due to his lack of perfect control, the temperature of the warehouse usually went up more than it went down every single night.
+
+Erick had begun to work without shirts.
+
+He had tried working without pants once, but that had been… Uncomfortable. So the pants stayed, even if they did occasionally get burned away when Erick turned up the heat and turned 20 metric tons of rusted slag back into 19.90 tons of magical metal.
+
+And that was another thing Erick had discovered.
+
+No matter what sorts of cocoons of [Condense Iron] and other Particle Magic Erick laid into the workspace, it seemed there was always a bit of blowout when working with this quantity of metal. Erick did a little bit of [Duplicate] here and there to get the metal in the first place, but he wasn’t about to fully [Duplicate] his problems away; not when he needed to work in a way that other people could eventually copy. And so, when he ended up with rusted piles of junk, he recycled; he took the molten iron and mixed it around inside a [Prismatic Ward] while letting it cool down to make it magical again.
+
+And then he went back to the drawing boards.
+
+The entire goal behind Erick and House Benevolence’s work here was to make useful magical iron; not just stuff that iron wrought could eat for food. [Condense Oxygen] and [Condense Iron] were the primary ways in which Erick tried to make this work, but that was just a starting point. A final product needed to allow other magics to also inhabit the runic web.
+
+The theory was solid. The execution was the problem.
+
+Various prototypes that did not work sat to the side, showing Erick’s progression over the last three weeks. The first actual success was a solid cylinder of iron about two meters tall with a dome cap and runes tracing up and down the outside. That prototype had happened on day 5 of this new endeavor, after many failed starts, and it had been the basis for everything to come.
+
+It was rusted to shit, so it had failed. Every single runic inscription had acted as a centering point for the oxygen to start rusting, even though Erick had tried shoving all that condensation toward the top. The dome at the top was also rusted to shit, and it had rusted first, so Erick had managed to get that much right at least. It had taken 10,000 mana and lasted a full day at full power without rusting, but on the second day, in the middle of a meeting with Erick’s brand new Cooks, the runic web was starting to rust. Over the course of an hour the rusting intensified, eventually breaking the entire web not 75 minutes after the first signs of rust appeared.
+
+Erick had moved on.
+
+The second prototype success was also rusted to shit, but it had managed to stay unrusted for a full two days.
+
+This second one was not a solid cylinder of iron. It was a hollow tube, and the runic inscriptions were on the inside. Erick had needed to make it a lot bigger than the first cylinder so that he could write on the inside, so it was more like a barrel than a tower. When Erick capped it off and sealed the web inside, he started introducing [Condense Oxygen] into the web from the ‘backside’ of the runic web. Upon filling the runic barrel with all the appropriate spellwork, the barrel design had lasted a full two days before rusting to shit.
+
+That rusting had happened a lot faster than Erick had expected it to happen. Over the course of 10 minutes, starting from the first signs of rust, the whole thing turned pitted and red like it had been sunk at the bottom of a salty, warm ocean for a hundred years.
+
+The third, fourth, and fifth prototypes were all variations on this second design. Each of them failed in different ways that Erick compensated for in the next version.
+
+But tonight, in the hot air of his warehouse and covered in sweat and soot, Erick felt like he had finally done it.
+
+Disintegrated and shaved iron dust covered the floor. Piles of slag and piles of half-rusted metal lay pushed to the sides of the large space. Lightning flickered in the black runic dagger in Erick’s right hand.
+
+And a hollow sphere of black iron held in the air in front of him. It had not been black ten minutes ago; it had been cherry red and billowing heat out into the warehouse space. It was still a dark red in some of the swirls upon the hollow sphere, but it was cooling down in the dense air of a [Prismatic Ward], and a whole bunch of other magics.
+
+The runic sphere looked almost like a dark model of Jupiter, about a meter wide, but with a lot more Great Red Spots and no banding at all. When it finally cooled all the way, hopefully the runic web in the hollow, airless center of the sphere would remain intact. According to Erick’s mana sense, the runic web held.
+
+Three Ophiels held in the air around the sphere. With a collection of overlapping auras, they kept the interior of the runic web cold so as not to disturb the runic designs, and the outside warm, but gradually tapering off. That split between the cold, airless interior and the molten exterior had been the hardest part of this construction. The metal warped twice already and Erick had needed to redo the whole thing, but according to prototype 5 this was the way to proceed.
+
+And so, Erick proceeded. With a wash of hard, yet suppressed [Pristine Benevolence] that acted a lot more like solid, lightless [Telekinesis] than how it usually did, Erick held the entire sphere in his power and gently continued to push more power into the ‘backside surface’ of the runic web, ensuring that it absorbed magic from both him and from the dense air all around. He had Ophiel adjust his own auras, gradually pulling back the heat, and expanding the cold from the center. Soon, the red glows fully vanished, but Erick continued to gently push against the sphere with his own power. With grinding smoothness, he pressed upon the swirls, ironing out the iron so that there were no ridges, disallowing any possible interruption in the various Condensing spaces planned and laid down inside the sphere.
+
+This time it might actually work.
+
+The hollow sphere cooled even further.
+
+Five minutes later, Erick was done. The work was finished.
+
+The black sphere was now as polished and smooth as a mirror, and looking a lot more silver than it had before. Erick saw himself in that mirror, and he smiled. Lightning flickered from his eyes and from the runic dagger in his hand. He laughed a little, and then he took over the magic Ophiel had been supplying, fully cutting off the [Incandescent Aura] as well as the [Frozen Mist Aura]. With a bit of telekinesis and only a brief moment of tension at the weight of the thing, Erick set the sphere down into a waiting holder made of white Yggdrasil wood. The white wooden holder didn’t even groan or shift as it readily held the ten ton sphere of iron.
+
+Now it was time to add the magic.
+
+Erick had made a few more new spells for this working, which had all come about from what the wrought were doing with the base spell, [Condense Oxygen], in order to cure wrought rot.
+
+Condense Oxygen X, instant, close range, 25 mana.
+
+Collect all ambient Oxygen in a medium area, into a small area. Lasts 10 minutes.
+
+Anti-Oxygen, instant, close range, 50 mana.
+
+Prevent oxygen from entering the area and expel all oxygen within the area. Lasts 10 minutes.
+
+[Anti-Oxygen] was not a perfect spell, though, because Particle Magic did not work on individual particles. It did, however, work on molecules, and most atmospheric oxygen was of the O2 variety. With just this one spell, a lot of wrought could recover from wrought rot on their own. [Anti-Oxygen] was a miracle spell in that respect, but it was not a sudden, perfect cure. It was medicine, properly administered over a course of a week, and not too much or else it could seriously harm the wrought, but with this medicine a wrought suffering from rot could heal themselves.
+
+[Anti-Oxygen] only halfway worked against the oxygen in water, but Erick had more solutions for that problem. He had a lot of solutions for all the problems of this project, for ‘rust’ was not simple iron and oxygen. The thing known as ‘rust’ was oxygen bonded to iron and hydrogen, and in rare cases, a whole bunch of oxide compounds that Erick had never known about while back on Earth. He had discovered most of these other rust combinations through working on this project himself, through a lot of trial and error, and through reading the work that the wrought had done on wrought rot.
+
+Iron reacted with a lot.
+
+[Anti-Carbon], [Anti-Phosphorus], [Anti-Water], [Anti-Bromine], [Anti-Flourine], [Anti-Chlorine], [Anti-Iodine], [Anti-Nitrogen], and more, were most of the spells Erick had needed to make, and then put into this runic web. He even used the normal version of [Condense Iron] to ensure the web remained as solid and as unchanging as he could make it.
+
+It still hadn’t been enough.
+
+And so, Erick went for a broad spectrum solution. He had already made [Catalyst], and so he had needed an [Anti-Catalyst]. The anti-[Catalyst] spell was simple enough to make, though it wasn’t called that at all, because someone else had already made that Basic Tier magic long before he even thought to make it. He didn’t get any points for Remaking that magic. He did, however, get that new magic.
+
+Catalyst X, instant, medium range, 50 mana.
+
+Enables easier reactions in a large area.
+
+Inhibitor X, instant, medium range, 50 mana.
+
+Decreases the rate of reactions in a large area.
+
+All of that went into the runic web.
+
+It was complicated. It was messy. It didn’t work 5 times already, though Erick admitted to himself that perhaps his creation hadn’t been robust enough until now. He had been trying to make something small, to make magical iron that was usable for everything from wands to Gates. But apparently, this stuff was only ever going to be useful on large-scale stuff like Gates and Denial Spheres.
+
+Once all the theory was done and put together, though, this creation had required expertise, a steady hand, the magic to make it all work together, and not much more than that.
+
+It also required [Renew], but that was icing on the cake, really. Anyone else could have made this without [Renew], but [Renew] tied everything together and allowed the empowerment of any magic channeled into this sphere to power the entire sphere.
+
+Erick explained to Ophiel, “Which was the purpose of [Renew] all along.”
+
+Ophiel chirped.
+
+Erick touched the part of the runic web where the [Renew] lay on the other side of the hollow sphere. Power flowed into the sphere, and like a lightbulb turning on, the iron runic web lit, bright white and radiant. Erick couldn’t just put normal spellwork in there. He had needed to make this runic web hold something in addition to the normal working. This version held a simple wardlight spell.
+
+So far, so good!
+
