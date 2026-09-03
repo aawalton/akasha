@@ -1,0 +1,20 @@
+{
+  "workbench.colorTheme": "Dark 2026",
+  "workbench.layoutControl.enabled": true,
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false,
+  "workbench.editor.autoLockGroups": {
+    "terminalEditor": false
+  },
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.mouseWheelScrollSensitivity": 3,
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.initialHint": false,
+  "terminal.integrated.tabs.description": "",
+  "terminal.integrated.confirmOnExit": "never",
+  "terminal.integrated.confirmOnKill": "always",
+  "terminal.integrated.enablePersistentSessions": true,
+  "terminal.integrated.persistentSessionReviveProcess": "onExitAndWindowClose",
+  "terminal.integrated.scrollback": 50000,
+  "terminal.integrated.persistentSessionScrollback": 50000
+}
