@@ -1,8 +1,8 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Collection } from "../../collection-system/collections/collection.page-type.ts"
+import type { OwnLength } from "../../collection-system/collections/properties/own-length.number-property.ts"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { OwnLength } from "./properties/own-length.number-property.ts"
 
 export type StoryChapterPlayed = Collection & {
   title: Title
@@ -18,7 +18,6 @@ export const storyChapterPlayed = {
   pluralSlug: "story-chapters-played",
   extendsSlug: "page-type/collection",
   runsTabooCheck: false,
-  partSlugs: ["number-property/own-length"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "own-length", required: true, many: false },

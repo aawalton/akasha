@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Collection } from "../../collection-system/collections/collection.page-type.ts"
+import type { OwnLength } from "../../collection-system/collections/properties/own-length.number-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { OwnLength } from "../story-chapters-played/properties/own-length.number-property.ts"
 
 export type StoryTurnPlayed = Collection & {
   ownLength?: OwnLength

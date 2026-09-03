@@ -100,5 +100,9 @@ export const collection = {
       invariantKind: "departure",
       statement: "A collection holding only parts states a length of its own of nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A collection's own progress never runs past that collection's own length.",
+    },
   ],
 } as const satisfies PageType
