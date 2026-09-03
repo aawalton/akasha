@@ -1,5 +1,5 @@
+import type { AppBuildTarget } from "../../../akasha/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.code.ts"
 import type { CheckConfig } from "./check-configs-types"
-import type { AppBuildTarget } from "./check-configs-app-build.ts"
 
 const POPULATION_PREFIX = "[app-typecheck] population:"
 

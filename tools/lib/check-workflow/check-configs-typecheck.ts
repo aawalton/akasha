@@ -1,4 +1,4 @@
-import type { AppBuildTarget } from "./check-configs-app-build.ts"
+import type { AppBuildTarget } from "../../../akasha/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.code.ts"
 import type { CheckConfig } from "./check-configs-types.ts"
 import { TS_GRAPH_INPUT_POPULATION } from "./check-configs-types.ts"
 

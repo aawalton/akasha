@@ -10,6 +10,10 @@ import type {
   Step,
   Workflow,
 } from "@akasha/workflow-language/workflow-types"
+import {
+  type AppBuildCandidate,
+  selectAppBuildPackages,
+} from "../../../akasha/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.code.ts"
 import { readFunctionalType } from "../../../akasha/checks/cluster-checks/modules/functional-type/functional-type.module.code.ts"
 import { discoverRouterApps } from "../../../akasha/checks/cluster-checks/modules/router-app-discovery/router-app-discovery.module.code.ts"
 import { loadTestStepInputs } from "../../../akasha/checks/cluster-checks/modules/test-step-loading/test-step-loading.module.code.ts"
@@ -21,11 +25,7 @@ import { selectUnbuiltRouterApps } from "../../../akasha/checks/cluster-checks/m
 import { STATIC_CHECKS } from "./check-configs.ts"
 import { acyclicityChecks } from "./check-configs-acyclicity.ts"
 import { addonChecks } from "./check-configs-addons.ts"
-import {
-  type AppBuildCandidate,
-  buildAppBuildChecks,
-  selectAppBuildPackages,
-} from "./check-configs-app-build.ts"
+import { buildAppBuildChecks } from "./check-configs-app-build.ts"
 import { buildAppTypecheckChecks } from "./check-configs-app-typecheck.ts"
 import { ARCHITECTURE_CHECKS } from "./check-configs-architecture.ts"
 import {
