@@ -106,9 +106,6 @@
       "path": "./infra/zimage"
     },
     {
-      "path": "./page"
-    },
-    {
       "path": "./readouts"
     },
     {
