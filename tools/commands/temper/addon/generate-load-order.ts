@@ -1,19 +1,18 @@
-
 export const summary =
   "Write one addon's ESO load-order manifest and build-id stamp into this repository's addon dist tree"
 
 import { existsSync } from "node:fs"
 import { mkdir, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
+import { codeRoot } from "@akasha/pages-system/code-root"
+import { readTstlLuaBundle } from "@akasha/temper-addon-build/addon-load-order"
 import { z } from "zod"
-import { readTstlLuaBundle } from "../../../lib/addon-load-order-graph.ts"
 import {
   buildManifestLines,
   readAdditionalLuaFiles,
   readMetadataHeader,
   readXmlFiles,
 } from "../../../lib/addon-load-order-metadata.ts"
-import { codeRoot } from "@akasha/pages-system/code-root"
 import { dataError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"
