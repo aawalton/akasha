@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { Infer } from "@akasha/utils-narrow/shape-core"
-import { shape } from "@tools/lib/shape"
 import type { notices as composedNotices } from "../../compose-notices/compose-notices.module.code.ts"
 
 const LOG = "[resume-notices]"

@@ -19,7 +19,7 @@ import {
   type McpServerConfig,
   playwrightStorageStatePath,
 } from "@akasha/seat-system/mcp-registry"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import { computeMcpConfigContent } from "../../claude-launch-args/claude-launch-args.module.code.ts"
 
 const LOG = "[supervisor-mcp]"

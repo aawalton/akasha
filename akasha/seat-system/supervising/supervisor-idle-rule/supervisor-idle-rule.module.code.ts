@@ -1,7 +1,7 @@
 import { askRule, type RuleAnswer } from "@akasha/seat-system/supervisor-ask-rule"
 import type { IdleObservation } from "@akasha/seat-system/supervisor-idle-decide"
 import type { AskDecide } from "@akasha/seat-system/supervisor-resume-asks"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 
 const RULE = "idleRule"
 

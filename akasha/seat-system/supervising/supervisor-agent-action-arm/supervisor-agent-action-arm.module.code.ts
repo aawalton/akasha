@@ -1,5 +1,5 @@
 import { readProcessStartMs } from "@akasha/seat-system/supervisor-precliff-restart"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { armDeferredRestart } from "../supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type {
   DeferredRestartRuleSource,

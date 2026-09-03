@@ -24,6 +24,7 @@ import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
 import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
 import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"
 import { setTurnState } from "@akasha/seat-system/turn-records"
+import { shape } from "@akasha/utils-narrow/shape"
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
@@ -33,7 +34,6 @@ import {
   waitForActionCleared,
 } from "../../lib/seat-action.ts"
 import { help } from "../../lib/seat-resume-help.ts"
-import { shape } from "../../lib/shape.ts"
 
 export { help }
 

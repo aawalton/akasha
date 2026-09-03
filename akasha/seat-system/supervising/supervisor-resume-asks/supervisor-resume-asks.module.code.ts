@@ -3,8 +3,8 @@ import {
   SUPERVISOR_DECIDE_COMMAND,
 } from "@akasha/seat-system/supervisor-limit-resume-effects"
 import { SUPERVISOR_NOTICE_PREFIX } from "@akasha/seat-system/supervisor-resume-notices"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { Infer, ShapeError } from "@akasha/utils-narrow/shape-core"
-import { shape } from "@tools/lib/shape"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 const RESTART_NOTICE_DECISION = "restartNotice"

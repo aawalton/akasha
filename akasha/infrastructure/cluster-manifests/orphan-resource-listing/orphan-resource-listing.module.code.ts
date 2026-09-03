@@ -1,4 +1,4 @@
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 
 const TOKEN_ENV = "PIPELINE_SA_TOKEN"
 

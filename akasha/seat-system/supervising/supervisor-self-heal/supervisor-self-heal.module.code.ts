@@ -1,5 +1,5 @@
 import { ORIGINAL_ARGV, selfHealState } from "@akasha/seat-system/supervisor-self-heal-state"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import { buildReExecArgv } from "../supervisor-args/supervisor-args.module.code.ts"
 import { LOG, REPO_ROOT } from "../supervisor-config/supervisor-config.module.code.ts"
 

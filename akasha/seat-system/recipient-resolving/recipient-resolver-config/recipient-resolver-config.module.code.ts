@@ -1,4 +1,4 @@
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 
 const SEC_MS = 1000
 

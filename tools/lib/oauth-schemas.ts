@@ -1,5 +1,4 @@
-
-import { shape } from "./shape.ts"
+import { shape } from "@akasha/utils-narrow/shape"
 
 export const OAuthTokenResponseSchema = shape.looseObject({
   access_token: shape.string().min(1),

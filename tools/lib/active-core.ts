@@ -1,5 +1,4 @@
-
-import { shape } from "./shape.ts"
+import { shape } from "@akasha/utils-narrow/shape"
 
 export class InputError extends Error {
   readonly code: number = 1

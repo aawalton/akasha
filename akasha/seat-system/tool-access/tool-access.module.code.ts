@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 
 const DECLARED =
   "akasha/seat-system/agent-settings/pages/tool-access/tool-access.agent-settings.harness-settings.json"

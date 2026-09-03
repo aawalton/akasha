@@ -1,4 +1,4 @@
-import { shape } from "./shape.ts"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { TurnEvidence } from "./turn-end-reading-evidence.ts"
 
 const streamEventSchema = shape.looseObject({

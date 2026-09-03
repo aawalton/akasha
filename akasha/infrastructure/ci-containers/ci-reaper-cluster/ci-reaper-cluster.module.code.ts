@@ -1,4 +1,4 @@
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { StepTerminated } from "../ci-reap-decision/ci-reap-decision.module.code.ts"
 import { withCeiling } from "../ci-reaper-ceiling/ci-reaper-ceiling.module.code.ts"
 

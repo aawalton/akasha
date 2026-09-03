@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { RemoteControlEnv } from "../supervisor-env/supervisor-env.module.code.ts"
 
 const CREDENTIAL_FILE_SCHEMA = shape

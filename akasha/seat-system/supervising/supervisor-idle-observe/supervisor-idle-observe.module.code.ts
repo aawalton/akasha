@@ -1,5 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { agentPresence } from "../../seat-presence-read/seat-presence-read.module.code.ts"
 import { principalSeatIdOf } from "../../seat-principal/seat-principal.module.code.ts"

@@ -1,4 +1,4 @@
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 
 export const PORT_READ_BUDGET_MS = 5_000
 

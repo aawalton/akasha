@@ -1,8 +1,7 @@
-
 import { readdir, stat } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, join } from "node:path"
-import { shape } from "./shape.ts"
+import { shape } from "@akasha/utils-narrow/shape"
 
 export interface ToolUse {
   readonly id: string

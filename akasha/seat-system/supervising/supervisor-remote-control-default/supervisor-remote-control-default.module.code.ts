@@ -2,7 +2,7 @@ import {
   decideRemoteControl,
   type RemoteControlQuestion,
 } from "@akasha/seat-system/supervisor-remote-control-decide"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 
 export type { RemoteControlQuestion }
 

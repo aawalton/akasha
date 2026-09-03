@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import type { Definition } from "../../compose-subagents/compose-subagents.module.code.ts"
 
 const LOG = "[spawn-agents]"

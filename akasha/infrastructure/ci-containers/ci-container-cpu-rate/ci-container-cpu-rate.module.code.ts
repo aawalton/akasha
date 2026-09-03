@@ -1,4 +1,4 @@
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 import {
   CI_NAMESPACE,
   CLUSTER_CEILING_MS,

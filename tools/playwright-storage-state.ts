@@ -15,8 +15,8 @@ import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "@akasha/supabase-server/throwaway-user"
+import { shape } from "@akasha/utils-narrow/shape"
 import { chromium } from "playwright-core"
-import { shape } from "./lib/shape.ts"
 
 const NAVIGATION_TIMEOUT_MS = 60_000
 

@@ -2,8 +2,8 @@ import type { Dirent } from "node:fs"
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { InputError } from "@akasha/errors-core/exit-code"
+import { shape } from "@akasha/utils-narrow/shape"
 import { errnoCodeOf, pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
-import { shape } from "@tools/lib/shape"
 
 export interface DevServerState {
   readonly pid: number

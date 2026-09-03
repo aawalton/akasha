@@ -3,7 +3,7 @@ import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
-import { shape } from "@tools/lib/shape"
+import { shape } from "@akasha/utils-narrow/shape"
 
 const LOG = "[spawn-settings]"
 
