@@ -1,21 +1,22 @@
-export const summary = "Play a full game vs Maia (human-like) and land it as a reviewable chess-game page"
+export const summary =
+  "Play a full game vs Maia (human-like) and land it as a reviewable chess-game page"
 
 import { createInterface } from "node:readline/promises"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { parseFen, parseUciMove } from "../../lib/chess-fen.ts"
-import { operationalError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { writePage } from "../../lib/page-write.ts"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { STANDARD_START_FEN, type PlayerColor } from "@akasha/chess-core/chess-game"
+import { type PlayerColor, STANDARD_START_FEN } from "@akasha/chess-core/chess-game"
 import { type AppliedMove, runGame } from "@akasha/chess-core/chess-game-loop"
-import { clampMaiaBand, playMaiaMove } from "@akasha/chess-core/chess-maia"
 import {
   CHESS_GAME_SLUG,
   chessGamePageName,
   chessGameValues,
 } from "@akasha/chess-core/chess-game-record"
+import { clampMaiaBand, playMaiaMove } from "@akasha/chess-core/chess-maia"
 import { applyMove, legalMoves } from "@akasha/chess-core/chess-position"
+import { parseFen, parseUciMove } from "@akasha/chess-core/chess-uci"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { operationalError } from "../../lib/exit.ts"
+import { writePage } from "../../lib/page-write.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -192,7 +193,9 @@ export default async function chessPlayGame(args: readonly string[]): Promise<vo
     throw operationalError(`\`${CHESS_GAME_SLUG}\` names no page type whose pages are files`)
   }
   if (landed.commitError !== null) {
-    throw operationalError(`the game landed at ${landed.relPath} but its commit did not: ${landed.commitError}`)
+    throw operationalError(
+      `the game landed at ${landed.relPath} but its commit did not: ${landed.commitError}`
+    )
   }
 
   if (json) {

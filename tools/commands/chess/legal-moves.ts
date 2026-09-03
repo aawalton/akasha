@@ -1,10 +1,10 @@
 export const summary = "List every legal move in a FEN position (Stockfish-validated)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { fenSideToMove, parseFen } from "../../lib/chess-fen.ts"
+import { legalMoves } from "@akasha/chess-core/chess-position"
+import { fenSideToMove, parseFen } from "@akasha/chess-core/chess-uci"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { legalMoves } from "@akasha/chess-core/chess-position"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [

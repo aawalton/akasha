@@ -1,10 +1,10 @@
 export const summary = "Have the engine reply at a target strength (Skill Level or Elo)"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { parseFen } from "../../lib/chess-fen.ts"
+import { playMove } from "@akasha/chess-core/chess-position"
+import { parseFen } from "@akasha/chess-core/chess-uci"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { playMove } from "@akasha/chess-core/chess-position"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [

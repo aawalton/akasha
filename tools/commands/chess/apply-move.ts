@@ -1,10 +1,10 @@
 export const summary = "Apply a UCI move to a FEN and report the resulting position + status"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { parseFen, parseUciMove } from "../../lib/chess-fen.ts"
+import { applyMove } from "@akasha/chess-core/chess-position"
+import { parseFen, parseUciMove } from "@akasha/chess-core/chess-uci"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { applyMove } from "@akasha/chess-core/chess-position"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [

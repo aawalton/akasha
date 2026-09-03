@@ -1,10 +1,10 @@
 export const summary = "Evaluate a FEN position: score, best move, and principal variation"
 
-import type { CommandHelp } from "../../ops/surface.ts"
-import { parseFen } from "../../lib/chess-fen.ts"
+import { type EvaluateResult, evaluate } from "@akasha/chess-core/chess-position"
+import { parseFen } from "@akasha/chess-core/chess-uci"
 import { inputError } from "../../lib/exit.ts"
-import { evaluate, type EvaluateResult } from "@akasha/chess-core/chess-position"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [
