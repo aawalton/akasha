@@ -9,8 +9,9 @@ export const alan = {
     "domain/alan-harness",
     "domain/fitness",
     "domain/music",
+    "domain/self",
     "domain/tracking",
-    "workspace-package/alan-web",
+    "router-app/alan-web",
     "workspace-package/chess",
   ],
 } as const satisfies Domain

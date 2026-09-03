@@ -13,6 +13,7 @@ export const design = {
     "workspace-package/design-primitives",
     "workspace-package/design-system",
     "workspace-package/design-tokens",
+    "page-type/color",
   ],
   invariants: [
     {
