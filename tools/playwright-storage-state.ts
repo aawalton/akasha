@@ -1,16 +1,20 @@
 export const tool = {
-  summary: "Sign the browser-test user in and write the Playwright storage state the browser MCP is seeded with",
+  summary:
+    "Sign the browser-test user in and write the Playwright storage state the browser MCP is seeded with",
   path: "browser-test storage-state",
 } as const
 
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
 import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
-import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
+import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { createClient } from "@akasha/supabase-client/user-client"
+import {
+  DEFAULT_THROWAWAY_EMAIL,
+  ensureThrowawayUser,
+} from "@akasha/supabase-server/throwaway-user"
 import { chromium } from "playwright-core"
-import { DEFAULT_THROWAWAY_EMAIL, ensureThrowawayUser } from "./lib/browser-test-ensure-user.ts"
 import { playwrightStorageStatePath } from "./lib/mcp-registry.ts"
 import { shape } from "./lib/shape.ts"
 
@@ -50,11 +54,7 @@ export async function exportPlaywrightStorageState(): Promise<string> {
       resetPassword: true,
       acknowledgeCanonicalRotation: true,
     })
-    signIn = await signInWithPassword(
-      authClient,
-      env.BROWSER_TEST_EMAIL,
-      env.BROWSER_TEST_PASSWORD
-    )
+    signIn = await signInWithPassword(authClient, env.BROWSER_TEST_EMAIL, env.BROWSER_TEST_PASSWORD)
   }
 
   if (signIn.error != null) throw new Error(`storage-state export sign-in: ${signIn.error.message}`)
