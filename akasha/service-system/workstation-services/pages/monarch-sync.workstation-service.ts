@@ -7,6 +7,7 @@ export const monarchSync = {
   definition: "the service copying the whole of Monarch and comparing the copy against it",
   runs: ["bun akasha/alan/harness/monarch/monarch-syncing/monarch-syncing.module.code.ts"],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     schedule: "daily",
     jitterSeconds: 1800,

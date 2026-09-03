@@ -9,6 +9,7 @@ export const mainPipelineCreator = {
     "bun akasha/changes/pipelines/main-pipeline-creating/main-pipeline-creating.module.code.ts",
   ],
   enabled: false,
+  needsSecrets: true,
   systemd: {
     restartDelaySeconds: 30,
   },

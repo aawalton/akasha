@@ -7,6 +7,7 @@ export const monarchPoll = {
   definition: "the service landing the Monarch rows whose update time has moved",
   runs: ["bun akasha/alan/harness/monarch/transaction-polling/transaction-polling.module.code.ts"],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     schedule: "minutely",
     jitterSeconds: 10,

@@ -9,6 +9,7 @@ export const ciContainerDispatcher = {
     "env CI_STICKY_PINNING_ENABLED=1 bun akasha/changes/steps/container-dispatching/container-dispatching.module.code.ts",
   ],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     restartDelaySeconds: 10,
   },

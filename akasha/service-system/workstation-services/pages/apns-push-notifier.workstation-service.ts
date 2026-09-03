@@ -7,6 +7,7 @@ export const apnsPushNotifier = {
   definition: "the service putting each notification written for Alan on his devices",
   runs: ["bun akasha/alan/harness/notifications/push-notifying/push-notifying.module.code.ts"],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     restartDelaySeconds: 10,
   },

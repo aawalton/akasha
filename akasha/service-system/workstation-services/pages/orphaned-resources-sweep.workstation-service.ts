@@ -9,6 +9,7 @@ export const orphanedResourcesSweep = {
     "bun akasha/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts",
   ],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     schedule: "*-*-* 08:41:00",
     jitterSeconds: 60,

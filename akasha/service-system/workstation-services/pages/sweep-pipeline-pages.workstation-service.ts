@@ -10,6 +10,7 @@ export const sweepPipelinePages = {
     "bun akasha/changes/pipelines/pipeline-page-sweeping/pipeline-page-sweeping.module.code.ts",
   ],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     restartDelaySeconds: 10,
   },

@@ -9,6 +9,7 @@ export const inboxTrackingPoll = {
     "bun akasha/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.code.ts",
   ],
   enabled: true,
+  needsSecrets: true,
   systemd: {
     schedule: "*:0/5",
     catchUp: true,
