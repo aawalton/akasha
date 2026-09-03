@@ -1,5 +1,5 @@
-import { errnoCode } from "./pid-signal.ts"
 import { readFileSync } from "node:fs"
+import { errnoCodeOf } from "@akasha/utils-process/pid-signal"
 
 const STAT_TAIL_START_TIME_INDEX = 19
 
@@ -27,7 +27,7 @@ export function readProcStart(pid: number, procRoot: string = PROC): ProcStartRe
   try {
     raw = readFileSync(at, "utf8")
   } catch (err) {
-    const code = errnoCode(err)
+    const code = errnoCodeOf(err)
     if (code === "ENOENT") return { kind: "no-such-process" }
     return { kind: "unreadable", because: `${at} gave ${code ?? String(err)}` }
   }

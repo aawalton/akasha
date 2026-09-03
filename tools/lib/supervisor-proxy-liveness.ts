@@ -1,18 +1,17 @@
-
-import { pidAliveOrRefuse } from "./pid-signal.ts"
-import { LOG } from "./supervisor-config.ts"
-import { guardTick } from "./supervisor-guard-tick.ts"
+import { LOG } from "@akasha/seat-system/supervisor-config"
+import { guardTick } from "@akasha/seat-system/supervisor-guard-tick"
+import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
+import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version"
+import { type OAuthProxyState, readProxyState } from "./seat-proxy-state.ts"
 import type {
   ProxyLivenessRuleSource,
   ProxyLivenessState,
 } from "./supervisor-proxy-liveness-rule.ts"
-import { type OAuthProxyState, readProxyState } from "./seat-proxy-state.ts"
 import {
   HEALTHZ_TIMEOUT_MS,
   respawnOAuthProxy,
   type SupervisorOAuthProxyHandle,
 } from "./supervisor-spawn-oauth-proxy.ts"
-import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version"
 import { setOAuthProxyHandle } from "./supervisor-state.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000

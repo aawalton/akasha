@@ -1,10 +1,9 @@
-
-import { dataError, operationalError } from "./exit.ts"
+import { SEAT_START_DIR } from "@akasha/seat-system/supervisor-config"
+import { ending } from "@akasha/utils-process/process-ending"
 import { liveAgentPidsFromProc } from "./decide-proc-liveness.ts"
+import { dataError, operationalError } from "./exit.ts"
 import { decideKillTarget } from "./kill-target-plan.ts"
-import { terminatePidsEscalating } from "./process-termination.ts"
 import { scanProcEntries } from "./proc-scan.ts"
-import { SEAT_START_DIR } from "./supervisor-config.ts"
 import { seatRecord } from "./seat-facts.ts"
 import { resolveSeatTarget } from "./seat-handle.ts"
 import { resolveSessionIdByAgentId } from "./seat-session-resolve.ts"
@@ -24,9 +23,9 @@ export async function resolveTakeoverTarget(target: string): Promise<string> {
 }
 
 async function stopHolder(pids: readonly number[], name: string | null): Promise<boolean> {
-  const outcome = await terminatePidsEscalating(pids)
-  if (!outcome.signaled) return false
-  if (!outcome.allExited) {
+  const outcome = await ending(pids)
+  if (!outcome.asked) return false
+  if (!outcome.allGone) {
     throw operationalError(
       `supervisor process(es) ${pids.join(", ")} for '${name}' did not exit within the poll ` +
         "budget — not handing off to avoid two supervisors on one session"
@@ -51,8 +50,7 @@ export async function takeoverSeat(agentId: string): Promise<TakenSeat> {
     selfPid: process.pid,
   })
 
-  const tookOver =
-    killTarget.kind === "signal" ? await stopHolder(killTarget.pids, name) : false
+  const tookOver = killTarget.kind === "signal" ? await stopHolder(killTarget.pids, name) : false
 
   try {
     await materializeLocalTranscript({ agentId, sessionId, cwd: SEAT_START_DIR })

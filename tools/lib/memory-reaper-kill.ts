@@ -1,4 +1,4 @@
-import { errnoCode, pidAliveOrAssumeAlive } from "./pid-signal.ts"
+import { errnoCodeOf, pidAliveOrAssumeAlive } from "@akasha/utils-process/pid-signal"
 
 function errorMessage(err: unknown): string {
   if (err instanceof Error) return err.message
@@ -14,7 +14,7 @@ export async function killPidWithTimeout(pid: number): Promise<void> {
   try {
     process.kill(pid, "SIGTERM")
   } catch (err) {
-    if (errnoCode(err) === "ESRCH") return
+    if (errnoCodeOf(err) === "ESRCH") return
     console.error(`${LOG} SIGTERM pid=${pid} failed: ${errorMessage(err)}`)
     return
   }
@@ -29,7 +29,7 @@ export async function killPidWithTimeout(pid: number): Promise<void> {
   try {
     process.kill(pid, "SIGKILL")
   } catch (err) {
-    if (errnoCode(err) === "ESRCH") return
+    if (errnoCodeOf(err) === "ESRCH") return
     console.error(`${LOG} SIGKILL pid=${pid} failed: ${errorMessage(err)}`)
   }
 }
@@ -39,7 +39,7 @@ export async function killTreeWithTimeout(pids: readonly number[]): Promise<void
     try {
       process.kill(pid, "SIGTERM")
     } catch (err) {
-      if (errnoCode(err) === "ESRCH") continue
+      if (errnoCodeOf(err) === "ESRCH") continue
       console.error(`${LOG} SIGTERM pid=${pid} failed: ${errorMessage(err)}`)
     }
   }
@@ -53,7 +53,7 @@ export async function killTreeWithTimeout(pids: readonly number[]): Promise<void
     try {
       process.kill(pid, "SIGKILL")
     } catch (err) {
-      if (errnoCode(err) === "ESRCH") continue
+      if (errnoCodeOf(err) === "ESRCH") continue
       console.error(`${LOG} SIGKILL pid=${pid} failed: ${errorMessage(err)}`)
     }
   }

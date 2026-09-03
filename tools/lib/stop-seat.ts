@@ -1,9 +1,9 @@
+import { ending } from "@akasha/utils-process/process-ending"
 import { liveAgentPidsFromProc } from "./decide-proc-liveness.ts"
 import { inputError } from "./exit.ts"
 import { decideKillTarget } from "./kill-target-plan.ts"
 import { killSeatSession } from "./launch-seat-tmux.ts"
 import { scanProcEntries } from "./proc-scan.ts"
-import { terminatePidsEscalating } from "./process-termination.ts"
 import { seatRecord } from "./seat-facts.ts"
 import { removeSeatPage } from "./seat-page.ts"
 import { decideSubagentGuard } from "./subagent-guard.ts"
@@ -71,13 +71,13 @@ export async function stopSeat(input: StopSeatInput): Promise<SeatStopped> {
   })
   switch (target.kind) {
     case "signal": {
-      const outcome = await terminatePidsEscalating(target.pids)
-      if (outcome.allExited) removeSeatPage(agentId, `${saying.took} reached it`)
+      const outcome = await ending(target.pids)
+      if (outcome.allGone) removeSeatPage(agentId, `${saying.took} reached it`)
       return {
         agentId,
         name,
         pid: target.pids[0] ?? null,
-        signaled: outcome.signaled,
+        signaled: outcome.asked,
         status: "stopped",
       }
     }

@@ -13,7 +13,7 @@ export type PidSignalReading = Sealed<PidReading>
 
 export type PidSignalFailure = Exclude<PidReading, "signalable">
 
-function errnoCodeOf(err: unknown): string | undefined {
+export function errnoCodeOf(err: unknown): string | undefined {
   if (err === null || typeof err !== "object" || !("code" in err)) return undefined
   const { code } = err
   return typeof code === "string" ? code : undefined

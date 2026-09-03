@@ -1,6 +1,6 @@
-import { seatsPresent } from "../seat-roster.ts"
-import { pidAliveOrRefuse } from "../pid-signal.ts"
+import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { readProxyState } from "../seat-proxy-state.ts"
+import { seatsPresent } from "../seat-roster.ts"
 
 export interface LiveProxySeat {
   agentId: string
@@ -19,9 +19,7 @@ export interface ProxySeatState {
   readonly oauthProxyVersion: string
 }
 
-export function shapeProxySeatAgents(
-  seats: readonly ProxySeatAgent[]
-): ProxySeatAgent[] {
+export function shapeProxySeatAgents(seats: readonly ProxySeatAgent[]): ProxySeatAgent[] {
   const shaped = [...seats]
   shaped.sort((a, b) => b.activeAtMs - a.activeAtMs || a.id.localeCompare(b.id))
   return shaped

@@ -1,7 +1,7 @@
+import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import type { LiveProxySeat } from "@tools/lib/model-gateway/proxy-seats"
 import { resolveLiveProxySeats } from "@tools/lib/model-gateway/proxy-seats"
 import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
-import { pidAliveOrRefuse } from "@tools/lib/pid-signal"
 import {
   describeAckTimeout,
   setRequestedAction,

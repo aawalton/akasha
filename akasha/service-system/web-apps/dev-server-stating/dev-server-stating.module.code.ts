@@ -2,8 +2,7 @@ import type { Dirent } from "node:fs"
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { InputError } from "@akasha/errors-core/exit-code"
-import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
-import { errnoCode } from "@tools/lib/pid-signal"
+import { errnoCodeOf, pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { shape } from "@tools/lib/shape"
 
 export interface DevServerState {
@@ -145,7 +144,7 @@ function entriesIn(dir: string): readonly Dirent[] | null {
   try {
     return readdirSync(dir, { withFileTypes: true, encoding: "utf8" })
   } catch (err) {
-    if (errnoCode(err) === "ENOENT") return null
+    if (errnoCodeOf(err) === "ENOENT") return null
     throw err
   }
 }

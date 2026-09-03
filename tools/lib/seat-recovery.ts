@@ -1,12 +1,10 @@
-import { terminatePidsEscalating } from "./process-termination.ts"
+import { ending } from "@akasha/utils-process/process-ending"
 import { liveAgentPidsFromProc } from "./decide-proc-liveness.ts"
 import { selectSupersededTreePids } from "./decide-proc-tree.ts"
 import { scanProcEntries } from "./proc-scan.ts"
 
-
-
 async function terminate(pids: readonly number[]): Promise<void> {
-  await terminatePidsEscalating(pids)
+  await ending(pids)
 }
 
 export function selectPriorTreePids(
@@ -28,12 +26,7 @@ export async function sweepSupersededAgentTrees(
   agentId: string,
   keeperPid?: number
 ): Promise<readonly number[]> {
-  const pids = selectSupersededTreePids(
-    scanProcEntries().entries,
-    agentId,
-    process.pid,
-    keeperPid
-  )
+  const pids = selectSupersededTreePids(scanProcEntries().entries, agentId, process.pid, keeperPid)
   if (pids.length === 0) return []
   const keeperNote = keeperPid !== undefined ? ` (keeper pid ${keeperPid})` : ""
   process.stderr.write(
