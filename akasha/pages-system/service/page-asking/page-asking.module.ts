@@ -80,6 +80,38 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A formula the page type declares is worked out over every page answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure is worked out before the tests narrow.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure is worked out before the rows are ordered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key a figure answers is answered as a stored key is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure answering absent puts no key in the row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question naming a key no figure works out is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal over a figure names every key the same fault darkens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question naming no darkened key is answered without the darkened keys.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Rows are ordered by the key the question sorts on.",
     },
     {

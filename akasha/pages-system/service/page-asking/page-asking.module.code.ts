@@ -1,6 +1,14 @@
 import { listedAt, type Valued, valuesOfType } from "@akasha/indexes"
 import { entriedValue } from "@akasha/pages-system/page-entries"
 import {
+  type Barred,
+  type Declared as Declaring,
+  FORMULA,
+  type Working,
+  workedInto,
+  workingOver,
+} from "@akasha/pages-system/page-formulas"
+import {
   type Carried,
   propertiesFrom,
   sourceAmong,
@@ -200,6 +208,47 @@ function valuedFor(
   })
 }
 
+export function declaredFor(
+  root: string,
+  held: Held,
+  carried: readonly Carried[]
+): readonly Declaring[] {
+  return carried.map((one) => {
+    const page =
+      one.pageTypeSlug === FORMULA
+        ? pagesOfType(root, held, FORMULA).get(one.pagePropertySlug)
+        : undefined
+    return {
+      slug: one.propertySlug,
+      key: one.key,
+      sort: one.pageTypeSlug,
+      many: one.many,
+      formula: page === undefined ? null : textAt(page, "formula"),
+      holds: page === undefined ? null : textAt(page, "holds"),
+    }
+  })
+}
+
+export function workingFor(
+  root: string,
+  pageTypeSlug: string,
+  carried: readonly Carried[]
+): Working | Barred | null {
+  return workingOver(
+    pageTypeSlug,
+    declaredFor(root, new Map<string, ReadonlyMap<string, Value>>(), carried)
+  )
+}
+
+function unworked(query: Query, barred: Barred): string | null {
+  const keys = new Set(barred.keys)
+  for (const [key, at] of askedFor(query)) {
+    if (!keys.has(key)) continue
+    return `\`${at}\` names \`${key}\`, and no formula is worked out for that key here: ${barred.barred}. the keys darkened by the same fault are ${[...barred.keys].sort().join(", ")}`
+  }
+  return null
+}
+
 function narrows(value: Value, where: Readonly<Record<string, Test>> | undefined): boolean {
   if (where === undefined) return true
   for (const [key, test] of Object.entries(where)) if (!meets(value, key, test)) return false
@@ -213,7 +262,7 @@ function rowOf(value: Value, keys: readonly string[] | undefined): Row {
   return held
 }
 
-export function asking(root: string, query: Query): Asked {
+export function asking(root: string, query: Query, at: number = Date.now()): Asked {
   const { limit, offset } = query
   if (limit !== undefined && (!Number.isInteger(limit) || limit < 0)) {
     return { refused: `a limit is a whole number that is not below nothing, and ${limit} is not` }
@@ -231,11 +280,19 @@ export function asking(root: string, query: Query): Asked {
   const carried = carriedFor(root, query.pageTypeSlug)
   const unnamed = unkeyed(query, carried)
   if (unnamed !== null) return { refused: unnamed }
+  const working = workingFor(root, query.pageTypeSlug, carried)
+  if (working !== null && "barred" in working) {
+    const named = unworked(query, working)
+    if (named !== null) return { refused: named }
+  }
   let held: readonly Valued[]
   try {
-    held = valuedFor(root, query.pageTypeSlug, carried).filter((one) =>
-      narrows(one.value, query.where)
-    )
+    const read = valuedFor(root, query.pageTypeSlug, carried)
+    const worked =
+      working === null || "barred" in working
+        ? read
+        : read.map((one) => ({ path: one.path, value: workedInto(working, one.value, at) }))
+    held = worked.filter((one) => narrows(one.value, query.where))
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
   }
