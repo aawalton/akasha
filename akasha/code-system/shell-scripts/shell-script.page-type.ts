@@ -14,7 +14,12 @@ export const shellScript = {
   slug: "shell-script",
   definition: "code in the shell language",
   pluralSlug: "shell-scripts",
-  partSlugs: ["boolean-property/sourced", "file-property/shell", "shell-script/statusline"],
+  partSlugs: [
+    "boolean-property/sourced",
+    "file-property/shell",
+    "shell-script/repos-empty-dir-purge",
+    "shell-script/statusline",
+  ],
   extendsSlug: "page-type/domain",
   properties: [
     { pagePropertySlug: "shell", required: true, many: false },
