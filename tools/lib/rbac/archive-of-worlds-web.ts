@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "../workflow-dsl/rbac-types.ts"
 
-export const packageName = "@archive-of-worlds/web"
+export const packageName = "@akasha/archive-of-worlds-web"
 
 export const profiles: NamespaceProfile[] = [
   {

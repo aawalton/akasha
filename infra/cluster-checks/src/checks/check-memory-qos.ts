@@ -51,11 +51,11 @@ const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
   ["akasha/alan/web/generated/web-deployment.generated.yaml", "init-code"],
   ["akasha/alan/web/generated/web-deployment.generated.yaml", "code-sync"],
   [
-    "archive-of-worlds/web/generated/web-deployment.generated.yaml",
+    "akasha/archive-of-worlds/archive-of-worlds-web/generated/web-deployment.generated.yaml",
     "init-code",
   ],
   [
-    "archive-of-worlds/web/generated/web-deployment.generated.yaml",
+    "akasha/archive-of-worlds/archive-of-worlds-web/generated/web-deployment.generated.yaml",
     "code-sync",
   ],
   ["akasha/audhdalan/audhdalan-web/generated/web-deployment.generated.yaml", "init-code"],
