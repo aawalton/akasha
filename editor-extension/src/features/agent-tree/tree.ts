@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
 import { filterTree, textMatches } from '../tree-filter.ts';
 import type { AgentNode } from './forest.ts';
-import { turnColourIn, turnStateSaid } from '../turn-colour.ts';
+import { turnColorIn, turnStateSaid } from '../turn-color.ts';
 import { seatContextValue } from './toggles.ts';
 
 export const REVEAL_TERMINAL_COMMAND = 'opsAgentTree.revealTerminal';
@@ -108,16 +108,16 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
 		item.resourceUri = vscode.Uri.from({
 			scheme: AGENT_SCHEME,
 			path:
-				element.colour === undefined
+				element.color === undefined
 					? `/subagent/${element.id}`
-					: `/subagent/${element.colour}/${element.id}`,
+					: `/subagent/${element.color}/${element.id}`,
 		});
 	} else if (!element.live) {
 		item.resourceUri = vscode.Uri.from({ scheme: AGENT_SCHEME, path: `/stopped/${element.id}` });
-	} else if (element.colour !== undefined) {
+	} else if (element.color !== undefined) {
 		item.resourceUri = vscode.Uri.from({
 			scheme: AGENT_SCHEME,
-			path: `/turn/${element.colour}/${element.id}`,
+			path: `/turn/${element.color}/${element.id}`,
 		});
 	}
 	item.contextValue =
@@ -156,7 +156,7 @@ export function createAgentDecorationProvider(): vscode.FileDecorationProvider {
 				: uri.path.startsWith('/stopped/')
 					? 'Stopped'
 					: undefined;
-			const turn = turnColourIn(uri.path);
+			const turn = turnColorIn(uri.path);
 			return new vscode.FileDecoration(
 				undefined,
 				badge,

@@ -6,17 +6,17 @@ import {
   type ForestAnswer,
   type HarnessRow,
   parseForest,
-  parseStateColour,
+  parseStateColor,
 } from "./harness.ts"
 import { readSeatPlaces } from "./lookup.ts"
 import type { SubagentNode, SubagentReader } from "./subagents.ts"
 
 const ALAN = "alan"
 
-let workingColourHeld: string | undefined | null = null
+let workingColorHeld: string | undefined | null = null
 
 export function dropSeatAnswers(): void {
-  workingColourHeld = null
+  workingColorHeld = null
   dropSeatTranscripts()
 }
 
@@ -27,7 +27,7 @@ export interface SeatRow {
   readonly principal: string | null
   readonly state: string | null
   readonly waitingOn: string | null
-  readonly colour: string | null
+  readonly color: string | null
   readonly at: string | null
 }
 
@@ -41,7 +41,7 @@ export interface AgentNode {
   readonly live: boolean
   readonly state?: string | undefined
   readonly waitingOn?: string | undefined
-  readonly colour?: string | undefined
+  readonly color?: string | undefined
   // The absolute path of the page akasha holds for this agent, or undefined where it holds none.
   // A row carrying undefined names no page anywhere it draws: not in its tooltip and not in
   // anything it opens.
@@ -128,7 +128,7 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
     liveIds,
     running,
     places,
-    await workingColour(),
+    await workingColor(),
     answer.repo,
     agentPagesIn(answer)
   )
@@ -143,16 +143,16 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
 
 const WORKING = "working"
 
-async function workingColour(): Promise<string | undefined> {
-  if (workingColourHeld === null) {
+async function workingColor(): Promise<string | undefined> {
+  if (workingColorHeld === null) {
     try {
       const answered = await askHarness("agent-turn-colors", ["--state", WORKING])
-      workingColourHeld = parseStateColour(answered, WORKING)
+      workingColorHeld = parseStateColor(answered, WORKING)
     } catch {
-      workingColourHeld = undefined
+      workingColorHeld = undefined
     }
   }
-  return workingColourHeld
+  return workingColorHeld
 }
 
 export function countRunning(nodes: readonly AgentNode[]): number {
@@ -216,7 +216,7 @@ export function assembleForest(
       place: places.get(row.id) ?? "headless",
       state: row.state ?? undefined,
       waitingOn: row.waitingOn ?? undefined,
-      colour: row.colour ?? undefined,
+      color: row.color ?? undefined,
       // Joined here rather than at the verb, because the verb answers one repository-relative path
       // per row and the editor opens absolute ones. A row whose verb named no page, or an answer
       // that named no repository to join against, carries nothing.
@@ -243,7 +243,7 @@ function toAgentNode(
     kind: "subagent",
     live: true,
     state: WORKING,
-    colour: drawnWorking,
+    color: drawnWorking,
     // A subagent whose dispatching call has not yet named the id it runs under cannot be keyed to
     // a page, and akasha holds no page for one that has already returned. Both read undefined.
     at: node.agentId === null ? undefined : pages.bySubagent.get(subagentKey(seatName, node.agentId)),

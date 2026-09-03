@@ -1,6 +1,6 @@
 import * as path from 'node:path';
 import { runVerb, verbPath } from '../../harness-call.ts';
-import { rollUp } from './colours.ts';
+import { rollUp } from './colors.ts';
 
 const CALL_TIMEOUT_MS = 60_000;
 
@@ -14,7 +14,7 @@ export interface WorkNode {
 	readonly relPath: string | null;
 	readonly detail: string | null;
 	readonly note: string | null;
-	readonly colour: string | null;
+	readonly color: string | null;
 	readonly children: readonly WorkNode[];
 }
 
@@ -58,7 +58,7 @@ function nodeIn(raw: unknown, at: string): WorkNode {
 		relPath: textOrNull(row.relPath),
 		detail: textOrNull(row.detail),
 		note: textOrNull(row.note),
-		colour: textOrNull(row.color ?? row.colour),
+		color: textOrNull(row.color ?? row.colour),
 		children: children.map((one, index) => nodeIn(one, `${at}.children[${index}]`)),
 	};
 }
@@ -88,20 +88,20 @@ export function readWorkTreeAnswer(answered: unknown): WorkTree {
 	};
 }
 
-export interface WorkColours {
+export interface WorkColors {
 	readonly repo: string;
 	readonly byInitiative: Readonly<Record<string, string>>;
 }
 
-export function readWorkColoursAnswer(answered: unknown): WorkColours {
+export function readWorkColorsAnswer(answered: unknown): WorkColors {
 	const held = answerIn(answered);
 	const named = held.byInitiative;
 	if (named === null || named === undefined || typeof named !== 'object') {
 		throw new Error(`${VERB}: the answer carries no \`byInitiative\` record`);
 	}
 	const byInitiative: Record<string, string> = {};
-	for (const [key, colour] of Object.entries(named as Record<string, unknown>)) {
-		if (typeof colour === 'string' && colour !== '') { byInitiative[key] = colour; }
+	for (const [key, color] of Object.entries(named as Record<string, unknown>)) {
+		if (typeof color === 'string' && color !== '') { byInitiative[key] = color; }
 	}
 	return { repo: repoIn(held), byInitiative };
 }
@@ -127,6 +127,6 @@ export async function readWorkTree(): Promise<WorkTree> {
 
 // `--colors` opens no initiative page: it reads the seat pages and their sidecars alone, which is
 // what a repaint after a seat's turn moves needs and is a small part of what the tree costs.
-export async function readWorkColours(): Promise<WorkColours> {
-	return readWorkColoursAnswer(await ask(['--colors']));
+export async function readWorkColors(): Promise<WorkColors> {
+	return readWorkColorsAnswer(await ask(['--colors']));
 }

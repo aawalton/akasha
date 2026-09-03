@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 import { filterTree, textMatches } from '../tree-filter.ts';
-import { TURN_SCHEME_PATH, turnColourIn } from '../turn-colour.ts';
+import { TURN_SCHEME_PATH, turnColorIn } from '../turn-color.ts';
 import { type WorkNode, type WorkTree, documentPath } from './harness.ts';
 
 const WORK_SCHEME = 'ops-work';
@@ -89,10 +89,10 @@ function buildTreeItem(element: WorkNode, tree: WorkTree | undefined, filtering:
 	item.count = element.children.length === 0 ? undefined : element.children.length;
 	item.description = element.detail ?? undefined;
 	item.iconPath = new vscode.ThemeIcon('blank');
-	if (element.colour !== null) {
+	if (element.color !== null) {
 		item.resourceUri = vscode.Uri.from({
 			scheme: WORK_SCHEME,
-			path: `/${TURN_SCHEME_PATH}/${element.colour}/${rowId(element)}`,
+			path: `/${TURN_SCHEME_PATH}/${element.color}/${rowId(element)}`,
 		});
 	}
 	item.tooltip = [
@@ -118,10 +118,10 @@ export function createWorkDecorationProvider(): vscode.FileDecorationProvider {
 	return {
 		provideFileDecoration: (uri: vscode.Uri) => {
 			if (uri.scheme !== WORK_SCHEME) { return undefined; }
-			const colour = turnColourIn(uri.path);
-			return colour === undefined
+			const color = turnColorIn(uri.path);
+			return color === undefined
 				? undefined
-				: new vscode.FileDecoration(undefined, undefined, new vscode.ThemeColor(colour));
+				: new vscode.FileDecoration(undefined, undefined, new vscode.ThemeColor(color));
 		},
 	};
 }

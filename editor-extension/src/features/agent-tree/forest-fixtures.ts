@@ -19,7 +19,7 @@ export function row(
 		principal,
 		state: null,
 		waitingOn: null,
-		colour: null,
+		color: null,
 		at: null,
 	};
 }

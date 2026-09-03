@@ -20,13 +20,13 @@ export function syncColor(
 		if (!lastColorByTerminal.has(term)) { return; }
 		lastColorByTerminal.delete(term);
 		term.recolor(undefined);
-		output.appendLine(`[${trigger}] terminal shell=${shellPid} → colour cleared`);
+		output.appendLine(`[${trigger}] terminal shell=${shellPid} → color cleared`);
 		return;
 	}
 	if (lastColorByTerminal.get(term) === color) { return; }
 	term.recolor(color);
 	lastColorByTerminal.set(term, color);
-	output.appendLine(`[${trigger}] terminal shell=${shellPid} → colour ${color}`);
+	output.appendLine(`[${trigger}] terminal shell=${shellPid} → color ${color}`);
 }
 
 export async function syncTerminal(

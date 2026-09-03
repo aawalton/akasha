@@ -30,7 +30,7 @@ export interface HarnessRow {
 	readonly live: boolean;
 	readonly state: string | null;
 	readonly waitingOn: string | null;
-	readonly colour: string | null;
+	readonly color: string | null;
 	// Where this seat's page stands inside the repository the answer names, or null where akasha
 	// holds none standing. Null is the whole of what a row with no page carries: nothing here
 	// composes a path for one, because a path composed rather than answered is a path that opens
@@ -61,7 +61,7 @@ function stringOrNull(value: unknown, field: string, at: number): string | null 
 	throw new Error(`agent-forest: rows[${at}].${field} is neither a string nor null`);
 }
 
-function rowColour(row: Record<string, unknown>, at: number): string | null {
+function rowColor(row: Record<string, unknown>, at: number): string | null {
 	const field = Object.hasOwn(row, 'color') ? 'color' : 'colour';
 	return stringOrNull(row[field], field, at);
 }
@@ -91,7 +91,7 @@ export function parseForestRows(answer: unknown): readonly HarnessRow[] {
 			live: row.live,
 			state: stringOrNull(row.state, 'state', at),
 			waitingOn: stringOrNull(row.waitingOn, 'waitingOn', at),
-			colour: rowColour(row, at),
+			color: rowColor(row, at),
 			at: stringOrNull(row.at ?? null, 'at', at),
 		};
 	});
@@ -136,16 +136,16 @@ export function parseForest(answer: unknown): ForestAnswer {
 	};
 }
 
-export function parseStateColour(answer: unknown, state: string): string {
+export function parseStateColor(answer: unknown, state: string): string {
 	if (answer === null || typeof answer !== 'object') {
-		throw new Error('agent-turn-colors: the answer is not an object, so it names no colour');
+		throw new Error('agent-turn-colors: the answer is not an object, so it names no color');
 	}
 	const held = answer as { colors?: unknown; colours?: unknown };
-	const colours = held.colors ?? held.colours;
-	if (colours === null || colours === undefined || typeof colours !== 'object') {
+	const colors = held.colors ?? held.colours;
+	if (colors === null || colors === undefined || typeof colors !== 'object') {
 		throw new Error('agent-turn-colors: the answer carries neither a `colors` nor a `colours` record');
 	}
-	const named = (colours as Record<string, unknown>)[state];
+	const named = (colors as Record<string, unknown>)[state];
 	if (typeof named !== 'string' || named === '') {
 		throw new Error(`agent-turn-colors: nothing was answered for the \`${state}\` state`);
 	}

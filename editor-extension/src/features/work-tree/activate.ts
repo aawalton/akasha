@@ -4,8 +4,8 @@ import { recordObservation } from '../../seat/observation-store.ts';
 import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
 import { dropDerivers } from '@tools/lib/deriver-hold';
 import { createSettledRefresh } from '../settled-refresh.ts';
-import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColours, readWorkTree } from "./harness.ts"
-import { recolour } from "./colours.ts";
+import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColors, readWorkTree } from "./harness.ts"
+import { recolor } from "./colors.ts";
 import { REFRESH_COMMAND, VIEW_ID } from './ids.ts';
 import { createWorkDecorationProvider, createWorkTree } from './tree.ts';
 
@@ -88,13 +88,13 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	const repaint = async (trigger: string): Promise<undefined> => {
 		if (standing === undefined) { return undefined; }
 		try {
-			const next = recolour(standing, await readWorkColours());
+			const next = recolor(standing, await readWorkColors());
 			if (next === undefined) { return undefined; }
 			standing = next;
 			tree.replace(next);
-			output.appendLine(`[${trigger}] recoloured`);
+			output.appendLine(`[${trigger}] recolored`);
 		} catch (err) {
-			output.appendLine(`[${trigger}] the colours could not be read: ${String(err)}`);
+			output.appendLine(`[${trigger}] the colors could not be read: ${String(err)}`);
 		}
 		return undefined;
 	};

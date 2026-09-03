@@ -23,7 +23,7 @@ export function seatPagesDir(): string {
   return path.join(akashaRoot(), AKASHA_SEAT_DIR)
 }
 
-export function coloursOf(named: Readonly<Record<string, string>>): ReadonlyMap<string, string> {
+export function colorsOf(named: Readonly<Record<string, string>>): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const [id, name] of Object.entries(named)) {
     const color = colorNamed(name)
@@ -36,7 +36,7 @@ export function coloursOf(named: Readonly<Record<string, string>>): ReadonlyMap<
 
 export function readTurnColorAnswer(answered: unknown): Readonly<Record<string, string>> {
   if (answered === null || typeof answered !== "object") {
-    throw new Error(`${VERB}: the answer is not an object, so it names no colour`)
+    throw new Error(`${VERB}: the answer is not an object, so it names no color`)
   }
   const held = answered as { colors?: unknown; colours?: unknown }
   const named = held.colors ?? held.colours
@@ -44,18 +44,18 @@ export function readTurnColorAnswer(answered: unknown): Readonly<Record<string, 
     throw new Error(`${VERB}: the answer carries neither a \`colors\` nor a \`colours\` record`)
   }
   const found: Record<string, string> = {}
-  for (const [id, colour] of Object.entries(named as Record<string, unknown>)) {
-    if (typeof colour !== "string" || colour === "") {
-      throw new Error(`${VERB}: the colour answered for ${id} is no name`)
+  for (const [id, color] of Object.entries(named as Record<string, unknown>)) {
+    if (typeof color !== "string" || color === "") {
+      throw new Error(`${VERB}: the color answered for ${id} is no name`)
     }
-    found[id] = colour
+    found[id] = color
   }
   return found
 }
 
 // ASKED AS A CHILD RATHER THAN READ HERE. Reading a seat's turn state reaches akasha page bodies,
 // and loading one wants a transpiler only bun carries, so in this node host the whole reach threw
-// at import before a colour was ever asked for.
+// at import before a color was ever asked for.
 export async function readSeatTurnColors(
   agentIds: readonly string[]
 ): Promise<ReadonlyMap<string, string>> {
@@ -72,5 +72,5 @@ export async function readSeatTurnColors(
   } catch (err) {
     throw new Error(`${VERB} did not print JSON: ${String(err)}`)
   }
-  return coloursOf(readTurnColorAnswer(answered))
+  return colorsOf(readTurnColorAnswer(answered))
 }

@@ -2,11 +2,11 @@ import { type Stoplight, stoplightsInGroup } from '@akasha/readout-system/readou
 import { readingHeldOn } from '@akasha/readout-system/readout-serving';
 
 /**
- * The colours a readout group shows, read the way the iOS widgets read them.
+ * The colors a readout group shows, read the way the iOS widgets read them.
  *
  * `stoplightsInGroup` is the same body `/api/habit-stoplights` and `/api/inbox-stoplights` answer
  * from, so which readouts a group holds, the label each carries, the scale each is read against
- * and the colour a reading lands on are read off the readout pages rather than named here.
+ * and the color a reading lands on are read off the readout pages rather than named here.
  *
  * The pod hands that body the reading a workstation relayed to it, because a reading is never
  * committed and so never reaches a pod any other way. Here the reading is already beside its own
