@@ -44,6 +44,7 @@ export const pagesSystem = {
     "workspace-package/pages-ui",
     "domain/naming",
     "domain/page-edge",
+    "domain/page-storage",
     "module/change",
     "module/checkout-roots",
     "module/code-root",
