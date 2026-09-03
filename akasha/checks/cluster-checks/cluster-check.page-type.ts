@@ -79,6 +79,7 @@ export const clusterCheck = {
     "cluster-check/tailwind-sources",
     "cluster-check/temper-type-tier-monotonicity",
     "cluster-check/test-step-paths",
+    "cluster-check/tracking-funnel",
     "cluster-check/tsconfig",
     "cluster-check/tstl-this-void-self-drop",
     "cluster-check/unused-deps",
