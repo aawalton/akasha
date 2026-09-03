@@ -2,7 +2,7 @@ export const summary = "Archive a Gmail message (remove INBOX label) and print i
 
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { emailGoogle } from "@akasha/google-email/email-operations"
-import { GMAIL_ENV_VARS } from "../../../lib/email-help.ts"
+import { GMAIL_ENV_VARS } from "@akasha/google-email/email-command-help"
 import { parseArgs } from "../../../lib/parse-args.ts"
 
 export const help: CommandHelp = {
