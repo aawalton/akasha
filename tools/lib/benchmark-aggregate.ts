@@ -1,4 +1,4 @@
-import type { BenchmarkPhase, StepTiming } from "./benchmark-code.ts"
+import type { BenchmarkPhase, StepTiming } from "@akasha/ci-benchmark/benchmark-report-types"
 
 export interface PhaseRollup {
   readonly phase: BenchmarkPhase

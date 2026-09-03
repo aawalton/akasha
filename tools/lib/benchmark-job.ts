@@ -1,7 +1,11 @@
+import {
+  buildToolchainProvisionScript,
+  buildToolchainVerifyScript,
+} from "@akasha/ci-benchmark/benchmark-provision"
+import type { StoreVariant } from "@akasha/ci-benchmark/benchmark-report-types"
 import { git } from "@akasha/git/git-capping"
 import { type Hostname, hostnameSelector } from "@akasha/k8s-types/hostnames"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { provision, type StoreVariant } from "./benchmark-code.ts"
 
 const DEFAULT_NAMESPACE = "ci"
 
@@ -102,7 +106,6 @@ function acquireInstructions(commit: string): readonly string[] {
 }
 
 async function buildCommand(commit: string): Promise<readonly string[]> {
-  const { buildToolchainProvisionScript, buildToolchainVerifyScript } = await provision()
   const authedUrl = `http://x-access-token:$GIT_ACCESS_TOKEN@${TRANSPORT_HOST}/${AKASHA_REPO_PATH}`
   const script = [
     "set -eu",

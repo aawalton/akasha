@@ -5,7 +5,8 @@
   "exports": {
     "./eso-paths": "./eso-paths/eso-paths.module.code.ts",
     "./eso-paths-resolve": "./eso-paths-resolve/eso-paths-resolve.module.code.ts",
-    "./eso-clone-stamp": "./eso-clone-stamp/eso-clone-stamp.module.code.ts"
+    "./eso-clone-stamp": "./eso-clone-stamp/eso-clone-stamp.module.code.ts",
+    "./lua-files": "./lua-files/lua-files.module.code.ts"
   },
   "dependencies": {
     "zod": "^4.3.6"

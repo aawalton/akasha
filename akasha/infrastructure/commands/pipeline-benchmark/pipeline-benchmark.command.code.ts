@@ -1,4 +1,9 @@
 import {
+  type InnerReport,
+  type StoreVariant,
+  StoreVariantSchema,
+} from "@akasha/ci-benchmark/benchmark-report-types"
+import {
   countOutOfCpuEvents,
   createJob,
   readJobPodLogs,
@@ -8,7 +13,6 @@ import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { told as gitTold } from "@akasha/git/git-running"
 import { asHostname, type Hostname } from "@akasha/k8s-types/hostnames"
-import { type InnerReport, reportTypes, type StoreVariant } from "@tools/lib/benchmark-code"
 import { buildBenchmarkJob } from "@tools/lib/benchmark-job"
 import { sweepMargins } from "@tools/lib/benchmark-margin-sweep"
 import {
@@ -132,7 +136,6 @@ async function measured(read: Read, given: Given): Promise<Answer> {
       code: OPERATIONAL,
     }
   }
-  const { StoreVariantSchema } = await reportTypes()
   const variants: readonly StoreVariant[] =
     read.store === undefined ? BOTH : [StoreVariantSchema.parse(read.store)]
 

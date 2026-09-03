@@ -1015,6 +1015,7 @@
     "akasha/infrastructure/commands": {
       "name": "@akasha/pipeline-commands",
       "dependencies": {
+        "@akasha/ci-benchmark": "workspace:*",
         "@akasha/cluster-api": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/git": "workspace:*",

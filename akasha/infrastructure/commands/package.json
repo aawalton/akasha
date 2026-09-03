@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@akasha/test-fanout": "workspace:*",
+    "@akasha/ci-benchmark": "workspace:*",
     "@akasha/cluster-api": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/git": "workspace:*",

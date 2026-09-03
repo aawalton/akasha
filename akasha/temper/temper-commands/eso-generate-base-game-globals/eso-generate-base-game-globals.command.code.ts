@@ -10,13 +10,13 @@ import {
   parseEsoDocApiVersion,
 } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiSourceDir } from "@akasha/temper-eso-paths/eso-paths"
+import { collectLuaFiles } from "@akasha/temper-eso-paths/lua-files"
 // The name extraction, the Lua walk and the dividing of a census into runs still
 // stand under `tools/lib`, so they are reached by the name that package's
 // manifest gives them rather than by a path climbing out of akasha.
 import type { SeriesSpec } from "@tools/lib/akasha-name-series"
 import { byteLength, renderSeries, stageSeries } from "@tools/lib/akasha-name-series"
 import { extractGlobalNames, extractStringIdNames } from "@tools/lib/eso-base-game-globals"
-import { collectLuaFiles } from "@tools/lib/eso-clone-code"
 
 const DATA = 2
 

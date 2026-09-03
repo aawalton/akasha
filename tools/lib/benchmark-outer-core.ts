@@ -1,3 +1,12 @@
+import {
+  BENCHMARK_REPORT_SENTINEL,
+  BENCHMARK_STEP_CONCURRENCY,
+} from "@akasha/ci-benchmark/benchmark-report-assembly"
+import {
+  type InnerReport,
+  InnerReportSchema,
+  type StoreVariant,
+} from "@akasha/ci-benchmark/benchmark-report-types"
 import type { Candidate, NodeCapacity, Requests } from "@akasha/ci-containers/ci-dispatch-shapes"
 import { asHostname, type Hostname } from "@akasha/k8s-types/hostnames"
 import {
@@ -15,7 +24,6 @@ import {
   smokeVerdict,
   undeclaredReds,
 } from "./benchmark-aggregate.ts"
-import { type InnerReport, reportTypes, runCore, type StoreVariant } from "./benchmark-code.ts"
 import type { MarginSweepRow, SweepArgs } from "./benchmark-margin-sweep.ts"
 
 export const BASELINE_CAVEAT =
@@ -64,7 +72,6 @@ export interface OuterReport {
 }
 
 export async function parseInnerReportFromLogs(logs: string): Promise<InnerReport> {
-  const { BENCHMARK_REPORT_SENTINEL } = await runCore()
   const line = logs
     .split("\n")
     .reverse()
@@ -76,7 +83,6 @@ export async function parseInnerReportFromLogs(logs: string): Promise<InnerRepor
   }
   const jsonStart = line.indexOf(BENCHMARK_REPORT_SENTINEL) + BENCHMARK_REPORT_SENTINEL.length
   const payload = line.slice(jsonStart).trim()
-  const { InnerReportSchema } = await reportTypes()
   return InnerReportSchema.parse(JSON.parse(payload))
 }
 
@@ -168,7 +174,6 @@ function variantResult(store: StoreVariant, inner: InnerReport): VariantResult {
 }
 
 export async function assembleOuterReport(args: AssembleOuterReportArgs): Promise<OuterReport> {
-  const { BENCHMARK_STEP_CONCURRENCY } = await runCore()
   const storeVariantsRun = [...args.inners.keys()]
   const variants = storeVariantsRun.map((store) => {
     const inner = args.inners.get(store)
