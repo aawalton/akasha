@@ -22,11 +22,8 @@ import {
   parseFunctions,
   parseObjects,
 } from "@akasha/temper-eso-typings/eso-doc-tokens"
+import { ESO_OPT_IN } from "@akasha/temper-eso-typings/eso-opt-in"
 import { selectOptIn } from "@akasha/temper-eso-typings/eso-token-scope"
-// The opt-in manifest is the scope this writes within, and it still stands under
-// `tools/lib`, so it is reached by the name that package's manifest gives it
-// rather than by a path climbing out of akasha.
-import { ESO_OPT_IN } from "@tools/lib/eso-typings/opt-in"
 
 const DATA = 2
 
