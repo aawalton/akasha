@@ -1,5 +1,9 @@
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { guardTick } from "@akasha/seat-system/supervisor-guard-tick"
+import type {
+  ProxyLivenessRuleSource,
+  ProxyLivenessState,
+} from "@akasha/seat-system/supervisor-proxy-liveness-rule"
 import {
   HEALTHZ_TIMEOUT_MS,
   respawnOAuthProxy,
@@ -9,10 +13,6 @@ import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version"
 import { type OAuthProxyState, readProxyState } from "./seat-proxy-state.ts"
-import type {
-  ProxyLivenessRuleSource,
-  ProxyLivenessState,
-} from "./supervisor-proxy-liveness-rule.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
 

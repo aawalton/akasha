@@ -5,6 +5,15 @@ import { spawnOrAdoptChild } from "@akasha/seat-system/supervisor-child-spawn"
 import { reconcileClaimedRedelivery } from "@akasha/seat-system/supervisor-claimed-reconcile"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
+import {
+  ANNOUNCE,
+  sendMessage,
+  USER_SOURCE,
+} from "@akasha/seat-system/supervisor-limit-resume-send"
+import {
+  readClaimedBefore,
+  releaseMessageClaim,
+} from "@akasha/seat-system/supervisor-message-claim"
 import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
 import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
 import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
@@ -14,13 +23,11 @@ import {
   setCurrentSessionIdForSelfHeal,
 } from "@akasha/seat-system/supervisor-self-heal-state"
 import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
+import { sessionProjectDir } from "@akasha/seat-system/supervisor-session-project-dir"
 import { processes, setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { readOwnTranscriptTail } from "@tools/lib/agent-io-probe"
 import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
-import { ANNOUNCE, sendMessage, USER_SOURCE } from "@tools/lib/supervisor-limit-resume-send"
-import { readClaimedBefore, releaseMessageClaim } from "@tools/lib/supervisor-message-claim"
-import { sessionProjectDir } from "@tools/lib/supervisor-session-project-dir"
 import { USER_ID } from "@tools/lib/user-id"
 import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {

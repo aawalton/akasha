@@ -157,6 +157,16 @@ export const seatSystem = {
     "module/messages-agent-id",
     "module/messages-console-stdout-guard",
     "module/messages-delivery-witness",
+    "module/supervisor-limit-resume-answer",
+    "module/supervisor-limit-resume-send",
+    "module/supervisor-loop-state",
+    "module/supervisor-mcp",
+    "module/supervisor-message-claim",
+    "module/supervisor-poll-agent-action",
+    "module/supervisor-precliff-restart-rule",
+    "module/supervisor-proxy-adoption-rule",
+    "module/supervisor-proxy-liveness-rule",
+    "module/supervisor-session-project-dir",
   ],
   invariants: [
     {

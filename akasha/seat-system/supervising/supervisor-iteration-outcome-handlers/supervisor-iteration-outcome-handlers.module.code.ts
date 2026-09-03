@@ -2,12 +2,12 @@ import { clearRequestedAction } from "@akasha/seat-system/supervisor-agent-actio
 import type { AgentActionEvent } from "@akasha/seat-system/supervisor-agent-action-types"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { withTimeout } from "@akasha/seat-system/supervisor-iteration-outcome-db"
+import type { LoopState } from "@akasha/seat-system/supervisor-loop-state"
 import {
   askRestartNotice,
   type RestartNoticePlan,
 } from "@akasha/seat-system/supervisor-resume-asks"
 import { isPendingReExec } from "@akasha/seat-system/supervisor-self-heal-state"
-import type { LoopState } from "@tools/lib/supervisor-loop-state"
 
 type LoopDirective = "continue" | "break"
 

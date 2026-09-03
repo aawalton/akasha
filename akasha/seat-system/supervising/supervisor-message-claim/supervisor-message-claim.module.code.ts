@@ -1,6 +1,5 @@
-
-import { claimedBefore, releaseClaim } from "./message-file.ts"
-import { seatNameForAgent } from "./messages-agent-tools.ts"
+import { claimedBefore, releaseClaim } from "@tools/lib/message-file"
+import { seatNameForAgent } from "@tools/lib/messages-agent-tools"
 
 export interface ClaimedBeforeRow {
   readonly id: string

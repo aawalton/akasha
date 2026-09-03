@@ -3,22 +3,22 @@ import { pacingIn } from "@akasha/agents/oauth-effects"
 import type { AccountState } from "@akasha/agents/oauth-types"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import {
-  askSupervisorDecide,
-  classifyRateLimitDeath,
-} from "@akasha/seat-system/supervisor-limit-resume-effects"
-import { readOwnTranscriptTail } from "./agent-io-probe.ts"
-import {
   type AskDecide,
   askLimitResume,
   LIMIT_RESUME_DECISION,
   type LimitResumeVerdict,
-} from "./supervisor-limit-resume-answer.ts"
+} from "@akasha/seat-system/supervisor-limit-resume-answer"
+import {
+  askSupervisorDecide,
+  classifyRateLimitDeath,
+} from "@akasha/seat-system/supervisor-limit-resume-effects"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
   SYSTEM_SOURCE,
   sendMessage,
-} from "./supervisor-limit-resume-send.ts"
+} from "@akasha/seat-system/supervisor-limit-resume-send"
+import { readOwnTranscriptTail } from "./agent-io-probe.ts"
 import { USER_ID } from "./user-id.ts"
 
 export { type AskDecide, LIMIT_RESUME_DECISION }

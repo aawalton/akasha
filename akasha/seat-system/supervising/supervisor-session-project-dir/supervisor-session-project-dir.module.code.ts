@@ -1,6 +1,5 @@
-
 import { realpathSync } from "node:fs"
-import { shape } from "./shape.ts"
+import { shape } from "@tools/lib/shape"
 
 const CONFIG_DIR_ENV = shape.string().optional()
 
@@ -10,8 +9,7 @@ export function sessionProjectDir(cwd: string, configDir?: string): string {
   let resolved = cwd
   try {
     resolved = realpathSync(cwd)
-  } catch {
-  }
+  } catch {}
   const dirName = resolved.replace(/\//g, "-")
   const claudeConfigDir = CONFIG_DIR_ENV.parse(process.env.CLAUDE_CONFIG_DIR)
   const home = HOME_ENV.parse(process.env.HOME)

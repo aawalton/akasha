@@ -1,6 +1,6 @@
 import { askRule, type RuleAnswer } from "@akasha/seat-system/supervisor-ask-rule"
 import type { AskDecide } from "@akasha/seat-system/supervisor-resume-asks"
-import { shape } from "./shape.ts"
+import { shape } from "@tools/lib/shape"
 
 const RULE = "proxyAdoptionRule"
 

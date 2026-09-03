@@ -1,5 +1,11 @@
 import { askSupervisorDecide } from "@akasha/seat-system/supervisor-limit-resume-effects"
 import {
+  ANNOUNCE,
+  hasRecentInboundMessage,
+  SYSTEM_SOURCE,
+  sendMessage,
+} from "@akasha/seat-system/supervisor-limit-resume-send"
+import {
   type AskDecide,
   askWaitResume,
   type WaitResumeVerdict,
@@ -10,12 +16,6 @@ import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
 } from "@tools/lib/classify-turn-end-error-death"
-import {
-  ANNOUNCE,
-  hasRecentInboundMessage,
-  SYSTEM_SOURCE,
-  sendMessage,
-} from "@tools/lib/supervisor-limit-resume-send"
 import { USER_ID } from "@tools/lib/user-id"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000

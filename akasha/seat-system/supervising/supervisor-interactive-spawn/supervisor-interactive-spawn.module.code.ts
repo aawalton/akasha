@@ -14,6 +14,7 @@ import type { SeatResume } from "@akasha/seat-system/supervisor-args"
 import { materializeBootPrompt } from "@akasha/seat-system/supervisor-boot-prompt"
 import { stage } from "@akasha/seat-system/supervisor-boot-stage"
 import { LOG } from "@akasha/seat-system/supervisor-config"
+import { resolveMcpConfig } from "@akasha/seat-system/supervisor-mcp"
 import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
 import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
 import { isPendingReExec } from "@akasha/seat-system/supervisor-self-heal-state"
@@ -26,7 +27,6 @@ import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
 import { buildInteractiveCLIArgs } from "@tools/lib/claude-launch-args"
 import { armForceExitTimer } from "@tools/lib/supervisor-lifecycle"
-import { resolveMcpConfig } from "@tools/lib/supervisor-mcp"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,

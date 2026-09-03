@@ -1,5 +1,5 @@
 import type { PendingAgentAction } from "@akasha/seat-system/supervisor-agent-action-types"
-import type { LoopState } from "@tools/lib/supervisor-loop-state"
+import type { LoopState } from "@akasha/seat-system/supervisor-loop-state"
 import { handleRestartNow } from "../supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"
 
 export type LoopDirective = "continue" | "break"
