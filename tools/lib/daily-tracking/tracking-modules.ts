@@ -1,12 +1,17 @@
-export { evaluateCoherenceRules } from "@akasha/pages-core/schema/coherence-rules"
-export {
-  pathspecsForPrefix,
-  pathspecsForPrefixes,
-  resolvePointsPrefixes,
-} from "@akasha/personas-core/git-byte-pathspecs"
-export { GREEN_DAY_POINTS_FIELD, greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
-export { PERSONA_POINTS_SOURCE_COHERENCE_RULES } from "@akasha/personas-core/points-source-coherence"
+export { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
 export { decideTotalPointsWrite } from "@akasha/personas-core/totals"
+
+// Eight names were re-exported from here and read by nobody: `evaluateCoherenceRules`,
+// `pathspecsForPrefix`, `pathspecsForPrefixes`, `resolvePointsPrefixes`, `GREEN_DAY_POINTS_FIELD`,
+// `PERSONA_POINTS_SOURCE_COHERENCE_RULES`, `getEsoDayStrOffset` and `assertNever`. Each was a
+// second name for something an akasha package already exports — the very shape the note below says
+// hid six refusals for months.
+//
+// Counted two ways, neither of which could answer nobody by accident: across whole import clauses
+// over every file importing this module, and again by searching `tools/` for each bare name, which
+// over-reports rather than under-reports. Both answered nobody. A namespace import or a default
+// import would hide a reader from the first count, so both were searched for under a seeded control
+// that fired; neither exists. Whoever comes to need one of these names its package.
 
 // `askNamed` and `patchPage` were re-exported here, and six files in this tier took them from
 // this module rather than from the package. Both refuse permanently — a saved query is answered by
@@ -23,7 +28,7 @@ export { decideTotalPointsWrite } from "@akasha/personas-core/totals"
 // asking about anything else names the client it wants where it calls it.
 import { getEsoDayStrOffset as esoDayStrOffset } from "@akasha/day/eso-day"
 
-export { getEsoDayStr, getEsoDayStrOffset, getEsoDayWindow } from "@akasha/day/eso-day"
+export { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 // `readSessionPages` and `wakeWindow` were re-exported here so that `active-calories.ts` could read
 // every session row and fold one day's window out of them. Both reached `readouts/session-readings.ts`,
 // the last of this folder's reaches into the readout engine. That window is now taken from
@@ -34,7 +39,6 @@ export { getEsoDayStr, getEsoDayStrOffset, getEsoDayWindow } from "@akasha/day/e
 // leaves `akasha/status-bar-access` with no consumer at all, which is a call about that package
 // rather than about this file.
 export { cardioReading } from "@akasha/status-bar-access/session-reading"
-export { assertNever } from "@akasha/utils-narrow/assert-never"
 export const SOURCE_POINTS_FIELD = "sourcePoints"
 
 export const WRITER = "daily-tracking"
