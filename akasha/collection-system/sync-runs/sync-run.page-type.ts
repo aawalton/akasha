@@ -20,7 +20,7 @@ export const syncRun = {
       statement: "A run reporting no counts failed before reaching anything to count.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "The runs beside a sync are that sync's entries rather than pages of their own.",
     },
   ],
