@@ -1,11 +1,13 @@
 export const summary =
   "Pre-session coaching digest over pages: equipment, per-movement last/best/target, last session, mobility + trend, constraints (--focus defaults to today's scheduled focus)"
 
+import { InputError } from "@akasha/errors-core/exit-code"
+import { chosenIn } from "@akasha/exercise-access/exercise-choosing"
 import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
 import { readBodyweight } from "@akasha/exercise-access/selection-policy"
-import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
-import { loadDigest } from "@collections/exercises/tracking/digest"
-import type { SetLine } from "@collections/exercises/tracking/history-core"
+import type { SetLine } from "@akasha/exercise-access/set-history"
+import { targetSaid } from "@akasha/exercise-access/set-target"
+import { trainingDigest } from "@akasha/exercise-access/training-digest"
 import { parseArgs } from "../../lib/parse-args.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
@@ -42,11 +44,17 @@ export default async function exerciseDigest(args: readonly string[]): Promise<v
   const parsed = parseArgs(help, args)
 
   const focusRaw = parsed.string("--focus")
-  const focus =
-    focusRaw !== undefined ? normalizeSelectValue(focusRaw, FOCUS_OPTIONS, "--focus") : undefined
+  let focus: string | undefined
+  if (focusRaw !== undefined) {
+    const chosen = chosenIn("--focus", focusRaw, FOCUS_OPTIONS)
+    if ("refused" in chosen) throw new InputError(chosen.refused)
+    focus = chosen.chosen
+  }
   const json = parsed.boolean("--json")
 
-  const digest = await loadDigest(focus, new Date(), readBodyweight())
+  const digested = await trainingDigest(focus, new Date(), readBodyweight())
+  if ("refused" in digested) throw new Error(digested.refused)
+  const digest = digested.digest
 
   if (json) {
     process.stdout.write(`${JSON.stringify(digest)}\n`)
@@ -69,7 +77,7 @@ export default async function exerciseDigest(args: readonly string[]): Promise<v
 
   out += "\n# movements\n"
   for (const m of digest.movements) {
-    out += `${m.name}\tlast ${setLineStr(m.last)}\tbest ${setLineStr(m.best)}\ttarget ${m.target ?? "-"}\n`
+    out += `${m.name}\tlast ${setLineStr(m.last)}\tbest ${setLineStr(m.best)}\ttarget ${targetSaid(m.target) ?? "-"}\n`
   }
 
   out += "\n# last session\n"
