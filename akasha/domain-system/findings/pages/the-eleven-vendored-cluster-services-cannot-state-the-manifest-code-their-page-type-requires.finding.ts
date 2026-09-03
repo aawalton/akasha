@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theElevenVendoredClusterServicesCannotStateTheManifestCodeTheirPageTypeRequires = {
+  id: "01a06861-f664-7b21-9c4d-2f7e5a10c003",
+  pageTypeSlug: "finding",
+  slug: "the-eleven-vendored-cluster-services-cannot-state-the-manifest-code-their-page-type-requires",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "The eleven cluster-service pages left in pages/cluster-service are the platform workloads nobody here writes manifests for, and akasha's cluster-service page type requires both an image and a manifest-code naming a code attachment the page emits its manifests from. None of the eleven can state one honestly, so they wait on the vendored manifests rather than on anybody's attention.",
+  evidence:
+    "akasha/service-system/cluster-services/cluster-service.page-type.ts marks image and manifest-code required: true and carries the gap 'The manifests a cluster service is applied as are emitted from its own page'. Every page under it pairs with a .cluster-service.code.attachment.ts; kube-state-metrics is the pattern.\n\nThe eleven are barman-cloud, cert-manager, cert-manager-cainjector, cert-manager-webhook, cnpg-controller-manager, coredns, kube-flannel, kube-proxy, metallb-controller, metallb-speaker and metrics-server. Five of them are the vendored components akasha/checks/cluster-checks/pages/memory-qos/memory-qos.cluster-check.code.ts names as 'the five vendored component manifests standing under infra/k8s/src/*/k8s/' -- cert-manager, cloudnative-pg, its barman-cloud plugin, metallb and metrics-server. coredns, kube-proxy and kube-flannel have no manifest in this repo at all: Talos installs them.\n\nNone has a successor in akasha. Checked two ways: no page under akasha/service-system/cluster-services/pages carries any of the eleven slugs, and no id anywhere in akasha ends in any of their identities' last eight hex, tested against an index of 69,074 distinct id tails seeded first against a tail known to be present. The cluster-manifests synth modules are not successors either -- metallb-synth is the address pool, not the metallb workload.\n\nThese pages should land beside the vendored manifests, in the same commit that brings infra/k8s/src/*/k8s/ into akasha, by whoever holds infra/. Landing them first with a manifest-code path pointing outside akasha would break the page type's central invariant and strand the pointer when the manifests move.",
+} as const satisfies Finding
