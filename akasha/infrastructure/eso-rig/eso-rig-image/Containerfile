@@ -31,7 +31,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 # package's version separately would make the build LESS reproducible, not more
 # — noble-updates supersedes a version and the archive drops the superseded one,
 # so a pinned base-pocket build breaks on a security update. This follows the
-# repo precedent (infra/k8s/src/postgres-cnpg/build-cnpg/Dockerfile pins its
+# repo precedent (akasha/infrastructure/postgres-cnpg-image/Containerfile pins its
 # third-party-repo packages via an ARG and never its base-pocket ones): a pin
 # is required where the version is a real choice — a pip wheel, a third-party
 # repo — and not where the base tag already fixes it.
