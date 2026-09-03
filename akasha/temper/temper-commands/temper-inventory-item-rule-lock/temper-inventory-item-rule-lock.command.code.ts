@@ -1,6 +1,19 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { withoutTheRuleStore } from "../code-outside-akasha/code-outside-akasha.module.code.ts"
+import {
+  answering,
+  lockedRule,
+  readIn,
+  refusedAll,
+  shapeOf,
+} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
-export function temperInventoryItemRuleLock(): Answer {
-  return withoutTheRuleStore("temper-inventory-item-rule-lock")
+const CALLED_AS = "akasha temper-inventory-item-rule-lock"
+
+const SHAPE = shapeOf([], { namesARule: true })
+
+export async function temperInventoryItemRuleLock(argv: readonly string[] = []): Promise<Answer> {
+  const read = readIn(argv, CALLED_AS, SHAPE)
+  if ("refused" in read) return refusedAll(read.refused)
+  const id = read.id ?? ""
+  return await answering(() => lockedRule("item", id, true))
 }
