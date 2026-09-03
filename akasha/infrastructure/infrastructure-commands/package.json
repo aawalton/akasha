@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/infrastructure-commands",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/talos": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}
