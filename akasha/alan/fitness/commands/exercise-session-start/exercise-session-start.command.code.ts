@@ -58,7 +58,7 @@ export async function exerciseSessionStart(argv: readonly string[] = []): Promis
 
     const sameDay = await getPages({
       pageTypeSlug: "workout-session",
-      where: [{ key: "date", eq: dayStr }],
+      where: [{ key: "workoutSessionDate", eq: dayStr }],
       select: ["id", "slug"],
     })
     const taken = new Set(
@@ -69,8 +69,8 @@ export async function exerciseSessionStart(argv: readonly string[] = []): Promis
     const properties: Record<string, Json> = {
       title,
       slug,
-      date: dayStr,
-      startedAt: new Date().toISOString(),
+      workoutSessionDate: dayStr,
+      workoutSessionStartedAt: new Date().toISOString(),
       ...(scheduleDay?.slug != null ? { scheduleDaySlug: scheduleDay.slug } : {}),
       ...(notes !== undefined ? { notes } : {}),
     }

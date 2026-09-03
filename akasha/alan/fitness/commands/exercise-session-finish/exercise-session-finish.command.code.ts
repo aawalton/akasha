@@ -51,12 +51,12 @@ export async function exerciseSessionFinish(argv: readonly string[] = []): Promi
     const completedAt = new Date().toISOString()
     const merged = notesUnder(fieldStr(session, "notes"), said.named[NOTES])
     const values: Record<string, Json> = {
-      completedAt,
+      workoutSessionCompletedAt: completedAt,
       ...(merged !== undefined ? { notes: merged } : {}),
     }
     await patchPage("workout-session", session.slug, values)
 
-    const durationMin = durationOf(fieldStr(session, "startedAt"), completedAt)
+    const durationMin = durationOf(fieldStr(session, "workoutSessionStartedAt"), completedAt)
     const totalVolume = await loadSessionVolume(session.slug, readBodyweight())
 
     if (wantsJson(said)) return asJson({ id: session.id, completedAt, durationMin, totalVolume })

@@ -35,12 +35,13 @@ export async function exerciseToday(argv: readonly string[] = []): Promise<Answe
 
     const sessions = await getPages({
       pageTypeSlug: "workout-session",
-      where: [{ key: "date", eq: dayStr }],
-      order: [{ by: "startedAt", dir: "desc" }],
+      where: [{ key: "workoutSessionDate", eq: dayStr }],
+      order: [{ by: "workoutSessionStartedAt", dir: "desc" }],
       limit: NEWEST_FIRST,
     })
     const session = sessions.rows[0]
-    const completed = session !== undefined && fieldStr(session, "completedAt") !== undefined
+    const completed =
+      session !== undefined && fieldStr(session, "workoutSessionCompletedAt") !== undefined
 
     if (wantsJson(said)) {
       return asJson({

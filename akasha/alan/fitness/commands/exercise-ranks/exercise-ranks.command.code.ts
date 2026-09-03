@@ -31,7 +31,7 @@ const CATALOG_READ_LIMIT = 2000
 const SELECT_FIELDS = [
   "id",
   "title",
-  "category",
+  "exerciseCategory",
   "mechanic",
   "primaryMuscles",
   "secondaryMuscles",

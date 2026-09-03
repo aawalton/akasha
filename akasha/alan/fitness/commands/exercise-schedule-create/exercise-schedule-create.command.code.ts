@@ -66,12 +66,12 @@ export async function exerciseScheduleCreate(argv: readonly string[] = []): Prom
   try {
     const active = await getPages({
       pageTypeSlug: "workout-schedule",
-      where: [{ key: "active", eq: true }],
+      where: [{ key: "workoutScheduleActive", eq: true }],
       select: ["id", "slug"],
     })
     for (const row of active.rows) {
       if (row.slug === null) continue
-      await patchPage("workout-schedule", row.slug, { active: false })
+      await patchPage("workout-schedule", row.slug, { workoutScheduleActive: false })
     }
 
     const standing = await getPages({ pageTypeSlug: "workout-schedule", select: ["id", "slug"] })
@@ -83,8 +83,8 @@ export async function exerciseScheduleCreate(argv: readonly string[] = []): Prom
     await createPage("workout-schedule", scheduleSlug, {
       slug: scheduleSlug,
       title,
-      active: true,
-      ...(description !== undefined ? { description } : {}),
+      workoutScheduleActive: true,
+      ...(description !== undefined ? { workoutScheduleDescription: description } : {}),
     })
 
     const days: DayFocus[] = []

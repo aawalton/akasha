@@ -139,10 +139,10 @@ export async function exerciseSessionShow(argv: readonly string[] = []): Promise
     const header = {
       id: session.id,
       title: displayTitle(session),
-      date: fieldStr(session, "date") ?? null,
+      date: fieldStr(session, "workoutSessionDate") ?? null,
       scheduleDay: await titleBySlug("schedule-day", fieldStr(session, "scheduleDaySlug")),
-      startedAt: fieldStr(session, "startedAt") ?? null,
-      completedAt: fieldStr(session, "completedAt") ?? null,
+      startedAt: fieldStr(session, "workoutSessionStartedAt") ?? null,
+      completedAt: fieldStr(session, "workoutSessionCompletedAt") ?? null,
       totalVolume: computeSessionVolume(volumeInputs, bodyweight),
     }
     const lines = setLinesOf(setLogs.rows, movements)
