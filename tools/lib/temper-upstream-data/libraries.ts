@@ -9,14 +9,8 @@ export const PACKAGE_OF: Record<UpstreamLibrary, string> = {
   "lib-zone": "temper/shared-addon-libraries-lib-zone",
 }
 
-export class PortMismatch extends Error {}
-
 export interface Porter {
   readonly port: (codeRoot: string) => Promise<void>
-}
-
-export interface Verifier {
-  readonly verify: () => Promise<void>
 }
 
 export async function porterFor(library: UpstreamLibrary): Promise<Porter> {
@@ -29,18 +23,5 @@ export async function porterFor(library: UpstreamLibrary): Promise<Porter> {
       return await import("./lib-treasure/port.ts")
     case "lib-zone":
       return await import("./lib-zone/port.ts")
-  }
-}
-
-export async function verifierFor(library: UpstreamLibrary): Promise<Verifier> {
-  switch (library) {
-    case "housing":
-      return await import("./housing/verify.ts")
-    case "lib-map-data":
-      return await import("./lib-map-data/verify.ts")
-    case "lib-treasure":
-      return await import("./lib-treasure/verify.ts")
-    case "lib-zone":
-      return await import("./lib-zone/verify.ts")
   }
 }
