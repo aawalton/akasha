@@ -73,11 +73,13 @@ export const ALLOWED_TO_REACH = [
  *
  * It used to be kept out of the population by living outside the three scanned folders. Now that
  * the population is the checkout it has to be named, or it is the first thing it refuses.
+ *
+ * One entry, because the command half moved into
+ * `akasha/checks/cluster-checks/pages/tracking-funnel/`, and `akasha` is held out of the
+ * population above. The path this list carried for it, `tools/commands/audit/tracking-funnel.ts`,
+ * was on no disk: an exemption naming a file nobody has exempts nothing, and reads as coverage.
  */
-export const THE_SCANNER = [
-  "tools/lib/tracking-funnel.ts",
-  "tools/commands/audit/tracking-funnel.ts",
-] as const
+export const THE_SCANNER = ["tools/lib/tracking-funnel.ts"] as const
 
 /** Verbs of the page store that put something into it. */
 export const WRITE_VERBS = [
@@ -170,8 +172,18 @@ const NAMED_IMPORT = /(?:import|export)\s+(type\s+)?\{([^}]*)\}\s*from\s*"([^"]+
 /** `import * as x from "./y.ts"` — which bindings are taken cannot be read off it. */
 const STAR_IMPORT = /(?:import|export)\s+(?:type\s+)?\*(?:\s+as\s+\w+)?\s*from\s*"([^"]+)"/g
 
-/** `await import("./x.ts")` — nor off this. */
-const DYNAMIC_IMPORT = /\bimport\s*\(\s*"([^"]+)"\s*\)/g
+/**
+ * `await import("./x.ts")` — nor off this.
+ *
+ * `typeof import("./x.ts")` is held out, because it is a type and reaches nothing at run time.
+ * Measured across the checkout: 78 such edges in 12 files, and 54 of them name a target the same
+ * file never imports at run time, so counting them invents an edge that is there in no program.
+ * Most are `.d.ts` declarations, which the graph reads even though nothing weighs them.
+ *
+ * An over-count here is not free: both halves of a finding are closures, so one wrong road travels
+ * to everything importing the file it was invented in.
+ */
+const DYNAMIC_IMPORT = /(?<!\btypeof\s{1,8})\bimport\s*\(\s*"([^"]+)"\s*\)/g
 
 /** `export const NAME = ...`, whose right-hand side is where a day page type is held. */
 const EXPORTED_CONST = /export\s+const\s+(\w+)\s*(?::[^=\n]*)?=\s*([^\n]*)/g
@@ -627,11 +639,29 @@ export function reachersIn(
   }
 }
 
+/**
+ * An opaque import is a reach too, and leaving it out of this closure was a hole.
+ *
+ * `readingOf` already reports a file that takes a client road as `import *` or `await import(...)`
+ * — that is the `opaque` bypass below. What it did not do is let the closure TRAVEL through one.
+ * A module reaching the store by a dynamic import was no reacher, so every file importing that
+ * module was no reacher either, however plainly it named a day. The blindness was inbound and
+ * unbounded, which is the direction that reads as a clean run.
+ *
+ * Which names come across cannot be read off an opaque import, so `names` is empty here. That is
+ * the same thing the `opaque` bypass says, and it is why such a reach is counted rather than
+ * cleared.
+ */
 function reachOf(imports: Imports, found: ReadonlyMap<string, Reach>, round: number): Reach | null {
   for (const one of imports.taken) {
     if (one.values.length === 0) continue
     if (isClientRoad(one)) {
       return { via: one.spec, names: one.values, line: one.line, hops: 1 }
+    }
+  }
+  for (const one of imports.opaque) {
+    if (isClientRoad(one)) {
+      return { via: one.spec, names: [], line: one.line, hops: 1 }
     }
   }
   if (round === 1) return null
@@ -640,6 +670,11 @@ function reachOf(imports: Imports, found: ReadonlyMap<string, Reach>, round: num
     const behind = found.get(one.module)
     if (behind === undefined) continue
     return { via: one.module, names: one.values, line: one.line, hops: behind.hops + 1 }
+  }
+  for (const one of imports.opaque) {
+    const behind = found.get(one.module)
+    if (behind === undefined) continue
+    return { via: one.module, names: [], line: one.line, hops: behind.hops + 1 }
   }
   return null
 }
