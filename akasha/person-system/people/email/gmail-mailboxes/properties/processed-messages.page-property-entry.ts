@@ -16,9 +16,9 @@ export const processedMessages = {
   properties: [
     { pagePropertySlug: "seq", required: true, many: false },
     { pagePropertySlug: "slug", required: true, many: false },
-    { pagePropertySlug: "decision", required: true, many: false },
-    { pagePropertySlug: "message-id", required: true, many: false },
-    { pagePropertySlug: "processed-at", required: true, many: false },
+    { pagePropertySlug: "gmail-decision", required: true, many: false },
+    { pagePropertySlug: "gmail-message-id", required: true, many: false },
+    { pagePropertySlug: "gmail-processed-at", required: true, many: false },
   ],
   invariants: [
     {
