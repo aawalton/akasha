@@ -1,0 +1,136 @@
+Your Tunnel Weaver has been defeated.
+
+Ali frowned to see the sudden surprising message. It was not that her newest boss had been defeated that was frustrating her, but the fact that it was a surprise.
+
+The notification itself served as a kind of a warning, but the point of giving the boss enhanced perception was so that she had earlier warning of intruders – but that would do her no good if she didn’t actually check on her monsters regularly. Sure, she had been busy fighting, but her intelligence attribute was over two hundred now, she could afford the small amount of focus required to keep tabs on her dungeon.
+
+She ranged around with her awareness until she found a Tunnel Weaver that had not been killed, hiding in a side branch of the spider wing, and settled into its point of view for a moment. Its uncanny web sense was not nearly extensive enough to see the boss’s lair, so she had it crawl over there to scout. What she found was a little confusing, but only because she hadn’t taken the time to learn how to recognize people with web sense yet. By the time the spider got close enough, she could actually see the party standing there looking at the corpse of her spider boss.
+
+Sabri and Brena. She recognized the two easily. A shaven-headed boy was sitting in a meditation pose similar to Malika with a staff resting across his crossed thighs and a small flame dancing in the air in front of his chest. A catkin girl was excitedly harvesting mushrooms and webbing while a huge paladin clad in shiny plate armor was whirling a massive ichor-covered hammer around, cradled in his arms in what looked like a bizarre waltz. Relieved that it was a ‘normal’ guild group, and not some unexpected attack, she withdrew her scout, rather than let it ambush them in their moment of victory and released it to focus back on her notifications.
+
+Grove Warden has reached level 55 (+2).+20 attribute points.
+
+Considering her struggles, Ali’s choices were not hard. She quickly spent eighteen points on wisdom, significantly increasing her available mana, and put the last two into vitality. A little extra buffer would go a long way when everything burned or exploded.
+
+Arcane Insight has reached level 28.Barrier has reached level 40.Martial Insight has reached level 33.Empowered Summoner has reached level 26.Minion Teleport has reached level 16 (+2).Inspiration has reached level 10.
+
+Ali joined Malika at the corpse of the Living Flame – really just a core that channeled the enormous power of its fire mana. Malika pushed it over to her with her foot, revealing several darkly flaming essences which she scooped up excitedly.
+
+“There you go,” Malika said.
+
+“Thanks,” she said. “By the way, Sabri and her group just defeated my spider boss, and I think she just reached level eight.”
+
+“Oh great!” Malika seemed particularly happy with the news.
+
+Ali reached down to the second elemental core and deconstructed it.
+
+[Sage of Learning]Domain Magic analyzed: Affinity Aura (Fire). Domain Magic analyzed: Clone.
+
+“Oh, I got some new domain magic,” she said. She had already learned Affinity Aura from the twin wights – and seeing the notification of the powerful domain magic spell, it was quite clear why the Living Flames’ auras had been so much larger and more potent. However, she had only been able to use Death, Nature, and Arcane affinities with the domain skill, and this boss had the fire version. Eagerly, she opened her skill list to check, and sure enough, her options had been updated.
+
+Affinity AuraRequirements: Choose a compatible Magical affinity.Source: Twin Wights, Living Flame, ClassAffinities: Death, Nature, Arcane, Fire. Enhance your summoned creature’s natural affinity to produce an aura of magic that fills the area around it. The nature and effects of the aura are dependent on the type of mana affinity. When used with a raid enhancement it will produce a significantly more powerful effect.Skill – Domain Magic
+
+Death affinity didn’t seem particularly useful, although she did have the one death-affinity kobold variant, so perhaps she could make a boss with that. Fire, on the other hand… she had lots of ideas for fire!
+
+“Morwynne and Eliyen are going to be overjoyed with that,” Calen said.
+
+“Huh? What do you mean?”
+
+“I can see that look in your eye,” Calen grinned. “You’re thinking about making a fire kobold boss with that aura?”
+
+“Guilty,” Ali admitted. “But what does that have to do with Morwynne and Eliyen?”
+
+“The guild is about to become a solid consumer of fire elixirs,” Calen said.
+
+“Oh… right!”
+
+Next, Ali found the Clone skill and studied the new magic, deciding quickly to share this new ability with her friends, too.
+
+CloneRequirements: Creature with mana.Source: Living FlameDomain Respawn creates two [boss] or three [raid] identical copies of this monster. Each clone of the enhanced monster gains the following skill:Mana: You may domain respawn any dead clone. Requires full mana pool and focus – getting hit cancels the summoning. Cast Time: 10 seconds. Skill – Domain Magic
+
+“So, that’s why there were two of them,” Calen said, getting out his notebook, and then hastily storing it again as it spontaneously caught fire.
+
+“Yup, and it explains the domain respawn trick it tried to use in the middle of battle. It was trying to resummon its friend,” Ali said.
+
+“Why did it keep doing it even when you deconstructed the corpse?” Calen asked.
+
+“My monsters respawn without corpses…”
+
+“Oh, good point.”
+
+It was quite fortunate for them that they had shattered the barrier shield when they had – the flame tornado spell fully regenerated the monster’s mana, satisfying the requirements for the respawn. If they had not shattered the barrier within the time to regenerate its mana pool and the ten seconds it needed to cast the spell, they would have had to contend with the clone being respawned on top of them.
+
+“Well, that’s terrifying,” Calen muttered. “I think I might use my Righteous Fury to crack the first shield if we have to do this again.”
+
+“Yes, but what about the second one?” Mato asked. “I think this is a damage check ability.”
+
+“Or we bring them both down at the same time, perhaps?” Malika suggested.
+
+“That will be tricky with the regeneration,” Calen said, but he was nodding.
+
+While that was a real worry, Ali’s mind was instead filled with ideas for how to use this new and impressive ability to make a boss of her own. Something with a lot of regeneration, she thought, considering maybe a raid boss Forest Guardian with enormous regeneration. There would be three of them if she used the raid enhancement. Or maybe Acolytes with Prayer to regenerate. But finding a way to make them immune to all hits for the ten seconds it took to cast the spell would be quite a challenge.
+
+“Hey guys, there’s something over here you need to see,” Mato called out from the other end of the Landing.
+
+Ali glanced up, her body tired and sore from the constant fighting, being burned, and catapulted into the air by the crushing blast waves. I need some rest, she thought as she made a barrier and carried herself across the Landing to where Mato stood.
+
+She had not had reason to come down here often, but from what she remembered, this entire chamber had been some kind of clearing house or storage area for ore and equipment used by the miners, now long gone, presumably deconstructed by the dungeon or decayed away by the inexorable march of time. The lava pools and the cascading rivers of molten rock at the edges of the landing were the work of the dungeon itself – she was certain she would have remembered something like that.
+
+Ali stared at the fruits of their hours of hard labor – the entire vast chamber was empty, free of elementals, and missing the bustle of the long-dead miners.
+
+Along the far edge of the Landing, where Mato stood, were the three giant stone doorways that led further into the mine. She had not remembered them being closed, but they were now, and the far wall was buttressed with reinforced stone that rose up to the high ceiling overhead.
+
+She followed Mato’s gaze and found a giant rune etched into the smooth stone surface of the door, blazing with an intense fire-affinity mana – a deep blue-black color that seemed to match the cores of the Living Flames. With a glance, she confirmed a rune in each of the other two doors, one blazing with an intense orange-white flame, and the far one, an ominous black, hungry fire.
+
+Rune of Living FlameRune of InfernoRune of Hellfire
+
+Her runic script skill allowed her to read them, so she shared the information with her friends. Not that it helped much, she didn’t know what it all meant, other than Living Flame matched the names of the elemental bosses that had been guarding the room.
+
+“Any idea how we open the doors?” she asked. “The door behind the black flame – the Rune of Hellfire – is the passage to the forge and anvil Thuli is looking for.” Her runic script gave her no further clues.
+
+“Appraise says the runes are the keys to opening the doors,” Malika said with a thoughtful expression on her face. “But it doesn’t give much information on how to use them – just that it requires something that can put out the flame.”
+
+“I’m going to try something, maybe stand back a bit?” Ali said.
+
+“Ok, but be careful, Ali,” Malika said.
+
+As soon as her friends had a little distance, Ali created a barrier to protect her body and reached past it to use her deconstruction. The moment she touched the Rune of Hellfire, she recoiled in pain as the flame seared into her hand, consuming her skin and flesh rapidly. She cried out in agony, and, in an instant, Malika appeared, pouring her healing mana into her, but it took several seconds of excruciating burning for the magic to overcome the flame and restore her hand. Even with the assistance of all her Acolytes.
+
+“I don’t think you should touch that again,” Malika said. “Whatever this flame is, it’s nasty. It has some way of resisting my healing.”
+
+“I was trying to deconstruct the rune,” she finally managed to get out. She was loath to touch it again – she had been fighting fire elementals all day, and she had even grown somewhat used to the pain of being continually burnt by the environment or the flame auras. But the fire of the Living Flames didn’t come close to the excruciating pain she had just experienced.
+
+“Maybe try that one?” Malika suggested, pointing at the Rune of Living Flame. “I’ve been picking up Essence of Living Flame, and it doesn’t burn much.”
+
+She nodded and moved over to the rune with the bluish flame. She felt a rush of reluctance and hesitation as she reached past her new barrier. She was grateful that Malika had decided to stand with her this time, one hand touching Ali’s shoulder, ready if her healing was needed. But other than a small burning sensation, it was nothing like the hellfire rune. A trickle of Malika’s mana was all that was needed to keep her healed.
+
+She channeled her deconstruction into the rune, but as the magic reached the surface of the rune, it was dispersed by the domain of the fire dungeon in a spectacular display of sparks and flame. She forced more and more of her mana into her magic, but other than fueling the fireworks, and Malika’s healing mana increasing a little to match the extra damage, there was no reaction. The dungeon’s domain quite effectively repelled and dispersed her magic.
+
+“It doesn’t work…” Ali’s voice betrayed her inner surprise and shock. She was used to deconstruction working on everything she tried it on, but the dungeon or the runes seemed to be actively resisting her magic with a barrier of fire that made it impervious to her skill.
+
+I guess deconstruction does require the target to be unresisting. She just hadn’t expected the inanimate rune to resist her.
+
+“It’s ok, Ali, you tried.” Malika’s voice carried sympathy and consolation. It was quite frustrating to spend all that time and energy finding fire resistance gear, potions, and killing all the dungeon monsters only to be stopped dead by a door. It seemed Malika understood without her needing to explain her frustration.
+
+They spent quite a while trying various things – including trying to deconstruct the door or the walls themselves – but nothing seemed to work, and eventually, it was Calen who suggested they return home.
+
+“The dungeon is going to respawn everything at some point,” he said. “Probably there are already respawns at the entrance by now. We should recall out of here unless you want to fight our way back to the library.”
+
+“We need to think about this,” Ali agreed, nodding slowly. “Seems a waste, though…”
+
+It was frustrating to have to leave with the puzzle unsolved, but he was right.
+
+“I’m sure these Living Flame Essences are the key somehow,” Malika said, holding one in her hand and looking at the Rune of Living Flame. “I want to do some research in town – maybe ask a few crafters what they think.”
+
+“Morwynne, maybe?” Ali asked, getting a nod from Malika. But the vocally expressive Gnome was probably going to want to see the runes in person, which meant they would have to fight their way back down here again before they got an answer.
+
+Unless… She suddenly had an idea.
+
+“Hey, give me a few minutes,” she said and began to rapidly inscribe her runic magic on the floor, making two circles supported by her mana.
+
+Static Teleport – level 35 (Arcane)Teleport to a preset teleportation locus.Locus: Novaspark Academy of Magic, Myrin’s Keep.Runic CircleTeleportation Locus – level 42 (Arcane)A magical locus that serves as an enhanced teleport destination.Runic CircleYour reserved mana has increased by +355.
+
+Oof, it’s a good thing I chose wisdom. It was a ton of reserved mana she could barely afford, but it would be temporary. She could already feel the dungeon’s domain beginning to erode her creations, but it would last a few hours by her quick estimate. Enough to return to town and teleport back here if Morwynne needed to see the rune.
+
+Sabri stood over the corpse of the Tunnel Weaver spider for a long moment. It had been an extremely long and challenging fight. Her armor was heavily scored from the incredibly powerful spear-like strikes of the spider’s razor-sharp legs, and her shield still dripped viscous green venom.
+

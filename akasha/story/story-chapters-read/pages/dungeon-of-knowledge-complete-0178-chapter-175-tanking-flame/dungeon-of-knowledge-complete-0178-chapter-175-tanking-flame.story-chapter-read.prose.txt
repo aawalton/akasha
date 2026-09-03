@@ -1,0 +1,94 @@
+The core of the Living Flame evaporated into motes of mana as Ali’s notification chime sounded. Calen had managed to lure several of them from the Landing one at a time, and each had been defeated quickly – their new mana drain strategy made the fights far quicker.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Ali frowned at the sight of the message. Her Grimoire’s imprint chapters were a precious resource and now her Elemental imprint was full – spending another chapter to expand it seemed wasteful and inefficient. In her entire elemental imprint, she had only the one Forest Guardian which was usable, everything else was for a mana affinity incompatible with her own. Well, there was the Bamboo Crawler, too – a monster that seemed to have been claimed by both the elemental and the grass imprints.
+
+Other than purely academic interest, there was little reason for her to keep the imprint for the Living Flame. And yet, her study of the Glimmer Shard had advanced her understanding of the use of her barrier magic, allowing her to learn to fashion sharp shards for attacking. Besides, she was quite interested in studying the unique flame of these elementals. She paged through her Grimoire thoughtfully, pausing for a moment at the imprint for coins. Given her access to magicite and mana-purified water, coins did not add much in the way of value, other than the convenience of making currency directly. Just selling magicite had a far greater impact on the economy, provoking great excitement and growth among the crafters. Even her Flame Web imprint should be a great boon to the tailors and weavers.
+
+Hmm, but I have Flame Spinners in the spider imprint... a fact that rendered the Flame Web imprint redundant. With just a few minutes and a few hundred mana, she summoned one, verifying that it could produce the valuable flaming silk threads on demand.
+
+Well, that answers that, she decided, removing the Flame Web imprint, and deciding to rely on making the monsters instead. They would serve double duty in defending her domain. The only downside would be that she couldn’t transmute other materials into Flame Web, weaving it directly with Domain Mastery, but she couldn’t immediately see any benefit to that, and besides, she could always recover the imprint from the spiders if she needed it in the future.
+
+Variant: Living Flame added to Imprint: Elemental.
+
+“Bad news,” Calen said, catching her attention. She turned to find him squinting through the archway at the remaining elementals within the Landing. “I don’t think I can split any of the remaining groups, they are just too close. We’re going to have to fight more than one elemental at the same time.”
+
+Peering through the archway herself, Ali was dismayed at the number of elementals that remained within. At the far side, she could now make out the two larger ones that would be the boss Calen had pointed out before. There were obvious gaps in the room though, where Calen had cleared the easier-to-reach monsters.
+
+“I don’t suppose you can tank a Living Flame?” Calen asked, glancing at Malika.
+
+“I… no,” she said, looking down. “That’s too much for me.” She seemed ashamed or embarrassed to have to admit that, but Calen simply accepted her assessment and moved on.
+
+“What about that group, maybe?” He pointed. He seemed rather uncertain as if he didn’t have the choice but to put Malika on the spot again. “It should come as a group of three.”
+
+Living Flame – Elemental – level 64 (Fire)Shard of Flame – Elemental – level 38-40 (Fire) x2
+
+“How do we do it?” Ali asked. They had fought many of the Shards of Flame, even two at a time. But the Living Flame elementals were extremely powerful and dangerous, even on their own. Each of the elementals had a powerful aura of flame, and they all healed from fire damage, so they would have to be separated.
+
+“We need to split them up, and the Living Flame is the most dangerous,” Calen said, his expression thoughtful. “Maybe Malika can tank both shards off to the side while we kill the Living Flame, and then we split them and finish them off?”
+
+“I don’t think I can handle two at a time,” Malika said, looking utterly forlorn. “I don’t get any resistance from armor like you guys, just the little I get from this hairpin. I think two of them for that long will kill me unless I get very lucky with dodging.”
+
+Ali glanced at Malika, more than a little worried about her friend. Something in this mine had gotten to her, and badly shaken her spirits and the attitude she had toward her class and role. She knew her friend had a powerful resolve to get stronger and be a force for positive change in the world, but this challenge of not having enough fire resistance seemed to have undermined her confidence more thoroughly than she would have thought possible. She wanted to see Malika smile, and have her unshakable, calm, self-assured friend back.
+
+“The Living Flame is the most dangerous,” Ali began, thinking through all the abilities they knew about. “But without Malika’s drain, it will take a very long time to kill.”
+
+“Do you think we should kill the Shards of Flame first?” Calen asked.
+
+“Maybe. Mato, can you tank the Living Flame and one of the shards at the same time?” she asked.
+
+“Yup, this armor is really good,” he said, not picking up on how sensitive Malika might be to hearing about his cool armor with all its fire resistance. “The only really dangerous time is if all the healers get blown away.”
+
+“What if we have Mato tank the Living Flame and the Shard in the tunnel where it’s a little narrower? I can put two Acolytes up against the wall on the opposite side and that way, they can’t be tossed out of range by the blast wave.” Her little Kobolds would have to take the blast wave and the crushing impact of being smashed against the wall almost simultaneously, but if she was careful to make certain they used Restoration on themselves right before the explosion, she was sure they could survive it reliably. It would be even better if she could spare a barrier or two to deflect some of the blast.
+
+“That means…” Calen said, glancing about. “You want Malika and the last Shard over there?” He pointed to Mato’s original tanking spot by the wall.
+
+“Yup. It should be far enough to split the auras and keep her out of range of the explosion too. With Malika’s stamina and an Acolyte over here, I think we can keep her healed.” Ali surveyed the room for a moment while her friends considered her idea. “We kill Malika’s shard first, and then she gets the second one and takes it away from Mato, separating it from the fire aura and the blast wave, and then we kill that one too. Finally, we all kill the Living Flame with Malika’s mana attack. What do you guys think?”
+
+“I can definitely handle one Shard of Flame,” Malika said, giving Ali a grateful look.
+
+“It’s better than my idea,” Calen said. “I think the blast wave has a larger range though, maybe Malika should be here instead.” He indicated a spot somewhat further separated. “Ali, without resistances, Malika will be taking a lot of melee damage from the shard that she isn’t normally subjected to when Mato is tanking. Can you afford to make another healer?”
+
+“That’s a good idea,” Ali said. “Two Acolytes for each tank, just in case anything random happens.” While she was hopeful her adjustment placing two of her healers against a wall would help stabilize the fight, the explosive blast wave was so quick it was sometimes challenging to predict and a substantial source of randomness in the fight. The extra healing was something she should have thought of herself.
+
+Their strategy discussions took quite some time, but even the usually impatient Mato simply listened quietly. It was abundantly clear to everyone that without a strong plan, they would have no chance of defeating the group. They all waited patiently while Ali created her Kobold Acolyte and restored her mana with Inspiration. She had to admit that the picture of her little Kobolds wearing the highly fashionable fire silk robes made her smile – but Lydia’s phenomenal craftsmanship and their racial resistance to fire was about the only thing keeping the low-level Kobolds alive against the sheer damage output of a level sixty Living Flame.
+
+“Ok, I’m ready,” Ali announced.
+
+“Alright, I’ll go get them,” Calen said.
+
+Malika and Mato both moved over to the giant stone archway, waiting while Calen vanished as he stepped across the threshold, blending into the shadows and illusion of his stealth magic. Everyone held their breath for several long minutes while the denizens of the Landing slowly drifted back and forth. Right as two patrolling groups separated, Ali saw a gap open, and into that gap flared a brilliant flash of light and magic as an arrow punched into the core of the Living Flame. Calen suddenly reappeared from a shimmer of dissipating illusion, sprinting through the arch of stone trailing smoke and flame from his burning body while the three angry elementals surged after him.
+
+“Incoming,” Malika murmured redundantly, but Mato simply chuffed softly beside her.
+
+Ali stood well back from the archway with her minions arrayed around their two anticipated tanking spots. As the elementals crossed through the archway, there was a chaotic flurry of melee. Mato roared and swiped. Malika’s magic flashed several times in rapid succession and both of their health dipped dramatically as their bodies were set alight by the powerful confluence of fire within the close confines of the archway.
+
+“Devotion,” she instructed, and her nearest Acolyte instantly reacted by activating her skill, suffusing herself with the familiar pillar of potent holy light. Mere moments later, Malika and Mato’s health began to rise in response to the powerful surge of healing magic. Mato charged away from the archway toward the tunnel, while Malika ducked to the side up against the wall somehow miraculously with only a single Shard of Flame emerging from the fray to follow her.
+
+A brilliant red formation of fire mana sprang into existence within the Living Flame, drawing a mind-blowing amount of mana into its flowing shape.
+
+“Explosion!” Ali yelled, suppressing the sudden surge of panic. They hadn’t accounted for the fact that the monster wouldn’t patiently wait for them to set up their positions before using its powerful blast wave attack. She threw up a barrier in front of the Kobold still empowered by her Devotion skill and then, using every scrap of her hasted mental reactions, she timed her Minion Teleport for the precise instant after the blast wave slammed into her chest. The detonation sent everything in the room flying: Mato, Malika, the Shards of Flame, and most of her minions. The only exceptions were the Acolyte cowering behind her barrier, and herself and the second acolyte she had switched places with as she leveraged her teleport skill to dissipate the momentum from them both.
+
+“Heal Mato,” she told her empowered Kobold. He had bounced off the wall and the Living Flame was about to smash into him – and he had not yet had the time to establish his Brutal Restoration magic and was therefore in the most precarious position. “You heal Malika,” she told the other stationary Acolyte. Malika only had one Shard of Flame to deal with now that she was out of the fire aura of the other elementals, and while she had very weak resistance to magic, she also had her own healing skill.
+
+She cycled her point of view rapidly through her minions, casting barriers to catch the ones that were at most risk of dying, preventing one of her shamans from flying back through the archway and into the Landing. Every ounce of damage she could prevent during the explosion was damage her acolytes wouldn’t need to heal, and she knew she had saved many of her monsters from dying to falling on the rock or landing in lava.
+
+“Lock it down, Mato,” Calen yelled, landing with a flare of his brilliant wings, arrow nocked and ready.
+
+Several rapid flickers and flashes pulsed around Malika as she halted her momentum midflight and alighted on the rocky ground near her assigned spot. She waited until her flying Shard of Flame landed and turned, floating across the room at great speed to engage her.
+
+Mato’s great bulk slammed hard into the rocky wall of the tunnel with enough impact to extinguish the flames burning his fur. Ali winced at the crunch of bones breaking, but Mato charged the Living Flame, shaking off the impact like it was nothing, and smacked it with his paw, drawing it back towards the tunnel where he was supposed to tank.
+
+There was a moment of tense anticipation while the remaining Shard of Flame landed and paused, as if looking around, although, what it might be using for eyes Ali couldn’t imagine. But Mato had clearly annoyed it more than enough, because it made a beeline through Ali’s recovering minions as it charged him down, triggering a ripple of holy magic spells through her minions – her healers reacting to its aura of flame passing by.
+
+Ali breathed a sigh of relief as a modicum of stability emerged from the midst of the chaos of the pull and the juggling for position. Now we just have to kill them.
+
+“Go,” she told her waiting minions, and her shamans, Hobgoblin, and the rogues swarmed across the rocks toward Malika, daggers and swords gleaming in the light of the fire, and shields beginning to arc with lightning. The bone mages and archers opened fire, filling the air with their yipping battle cries. With a thought, Ali fired off a pair of barrier shards to add to the attack, but the bulk of her attention was devoted to observing the fight through the senses of her acolytes, monitoring Mato and Malika’s health constantly. The amount of damage inflicted by the elementals was enormous, and she clearly felt the lack of Malika’s healing and the extra elemental in the chaotic swing of Mato’s health as he tanked in the tunnel. Malika’s health, on the other hand, was a gut-wrenching skiff bobbing in a stormy sea, steady for long moments as she dodged everything the elemental dished out, and then suddenly plummeting alarmingly when several attacks in a row made it through.
+
+“Second explosion in ten,” Calen called out in a steady voice.
+
+She knew he couldn’t see the magic, but she was grateful for his assistance and his impeccable sense of timing. Sure enough, in approximately ten seconds, a giant surge of fire mana shot through the Living Flame.
+
+“Explosion!”
+
