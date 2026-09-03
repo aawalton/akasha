@@ -22,6 +22,7 @@ export const CODE_AT: readonly string[] = [
   "akasha/file-system/answer-keeping",
   "akasha/file-system/answer-mark",
   "akasha/file-system/exclusive",
+  "akasha/markdown-pages",
   "akasha/pages-system/checkout-roots",
   "akasha/pages-system/pages/markdown-document",
   "akasha/pages-system/pages/markdown-page-at",
@@ -30,14 +31,7 @@ export const CODE_AT: readonly string[] = [
   "akasha/pages-system/repo-path",
   "akasha/utils-fs/atomic-write",
   "akasha/utils-fs/missing",
-  "page",
-  "refusal",
   "repo",
-]
-
-export const ANSWER_SEEDS: readonly string[] = [
-  "page/property/frontmatter.ts",
-  "page/property/type-cache.ts",
 ]
 
 const IGNORE_AT = ".gitignore"
