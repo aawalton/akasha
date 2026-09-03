@@ -1,12 +1,5 @@
 import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
-import {
-  boolIn,
-  numberIn,
-  type Row,
-  textIn,
-  textsIn,
-} from "../exercise-rows/exercise-rows.module.code.ts"
 import type { GoalWeights } from "../selection-policy/selection-policy.module.code.ts"
 
 export interface MovementFeatures {
@@ -194,21 +187,4 @@ export function recencyBonus(
 
 export function effectiveScore(blend: number, bonus: number): number {
   return blend + bonus
-}
-
-export function movementFeaturesIn(row: Row): MovementFeatures {
-  return {
-    movementPattern: textIn(row, "movementPattern"),
-    secondaryPattern: textIn(row, "secondaryPattern"),
-    laterality: textIn(row, "laterality"),
-    isBallistic: boolIn(row, "isBallistic"),
-    skillCost: textIn(row, "skillCost"),
-    trainsLengthenedRange: boolIn(row, "trainsLengthenedRange"),
-    gripDemand: textIn(row, "gripDemand"),
-    sfrScore: numberIn(row, "sfrScore"),
-    category: textIn(row, "exerciseCategory"),
-    mechanic: textIn(row, "mechanic"),
-    primaryMuscles: textsIn(row, "primaryMuscles"),
-    secondaryMuscles: textsIn(row, "secondaryMuscles"),
-  }
 }
