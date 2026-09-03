@@ -20,7 +20,7 @@ const STORY_TYPES = Object.keys(CHAPTER_TYPE_BY_STORY_TYPE)
 const STORY_KEYS = ["id", "title", "slug", "ownProgress", "ownLength"]
 const CHAPTER_KEYS = ["id", "title", "slug", "position", "ownLength", "ownProgress", "completedAt"]
 
-const ASK_LIMIT = 20_000
+const ASK_LIMIT = 50_000
 
 function numberOr(raw: unknown): number | undefined {
   if (raw === null || raw === undefined || raw === "") return undefined
@@ -33,7 +33,13 @@ async function askRows(
 ): Promise<readonly Readonly<Record<string, unknown>>[]> {
   const asked = await askComposed(query)
   if (!asked.ok) throw new Error(`litrpg catalog: \`${query["page-type"]}\`: ${asked.why}`)
-  return asked.answer.rows.map((row) => row.values)
+  const rows = asked.answer.rows
+  if (query.limit === ASK_LIMIT && rows.length === ASK_LIMIT) {
+    throw new Error(
+      `litrpg catalog: \`${query["page-type"]}\` filled the ${ASK_LIMIT} row limit, so the catalog cannot tell a whole answer from a short one`
+    )
+  }
+  return rows.map((row) => row.values)
 }
 
 function chapterRecordOf(
