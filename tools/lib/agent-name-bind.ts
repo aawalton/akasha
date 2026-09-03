@@ -1,10 +1,7 @@
 import { readFileSync } from "node:fs"
-import {
-  addressableByName,
-  type Claiming,
-  type Presence,
-} from "@akasha/seat-system/seat-name-claim"
 import { parseSeatProcKey, seatProcKeyPresence } from "@akasha/seat-system/seat-proc-key"
+import type { AgentNameBindInput, SeatPresence } from "./name-claim-guard.ts"
+import { planSeatResolution } from "./seat-handle.ts"
 import { agentHolderProcess } from "./seat-presence-read.ts"
 
 const ANCESTRY_DEPTH_LIMIT = 32
@@ -40,31 +37,24 @@ export function isPriorHolderCallerSeat(priorHolderId: string): boolean {
   return isAncestorOfSelf(key.pid)
 }
 
-/**
- * The claim `seat-name-claim` judges, gathered from what this workstation can see.
- *
- * Whether the name is reachable at all is asked of `addressableByName` rather than worked out from
- * a resolution kind here. The two agree: over 47 edge names and 200,000 fuzzed ones,
- * `planSeatResolution(name).kind === "name"` and `addressableByName(name)` never parted, and a
- * seeded fault made the comparison fail, so the agreement is a measurement rather than a zero.
- */
 export function gatherAgentNameBindInput(args: {
   readonly bindingAgentId: string | null
   readonly name: string
   readonly priorHolderId: string | null
-  readonly priorHolderPresence?: Presence
+  readonly priorHolderPresence?: SeatPresence
   readonly takeLiveName?: boolean
-}): Claiming {
-  const holder =
+}): AgentNameBindInput {
+  const priorHolder =
     args.priorHolderId === null
       ? null
-      : { agentId: args.priorHolderId, presence: args.priorHolderPresence ?? "unknown" }
+      : { id: args.priorHolderId, presence: args.priorHolderPresence ?? "unknown" }
   return {
-    claimingAgentId: args.bindingAgentId,
+    bindingAgentId: args.bindingAgentId,
     name: args.name,
-    addressable: addressableByName(args.name),
-    holder,
-    holderIsCallerSeat: args.priorHolderId !== null && isPriorHolderCallerSeat(args.priorHolderId),
+    resolution: planSeatResolution(args.name).kind,
+    priorHolder,
+    priorHolderIsCallerSeat:
+      args.priorHolderId !== null && isPriorHolderCallerSeat(args.priorHolderId),
     takeLiveName: args.takeLiveName ?? false,
   }
 }

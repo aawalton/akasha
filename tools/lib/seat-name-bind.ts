@@ -1,11 +1,11 @@
-import { claimed, type Presence } from "@akasha/seat-system/seat-name-claim"
 import { gatherAgentNameBindInput } from "./agent-name-bind.ts"
 import { inputError } from "./exit.ts"
+import { decideAgentNameBind, type SeatPresence } from "./name-claim-guard.ts"
 import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
 
 export interface SetAgentNameBind {
-  readonly priorHolderPresence?: Presence
+  readonly priorHolderPresence?: SeatPresence
   readonly takeLiveName?: boolean
 }
 
@@ -28,9 +28,9 @@ export async function refuseSeatName(
       : { priorHolderPresence: bind.priorHolderPresence }),
     ...(bind.takeLiveName === undefined ? {} : { takeLiveName: bind.takeLiveName }),
   })
-  const decision = claimed(input)
+  const decision = decideAgentNameBind(input)
   if (!decision.allow) {
-    throw inputError(`refuseSeatName refused (${decision.cause}): ${decision.said}`)
+    throw inputError(`refuseSeatName refused (${decision.cause}): ${decision.reason}`)
   }
 }
 
