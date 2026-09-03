@@ -4,13 +4,13 @@ import type { Date as ReviewedOn } from "../../alan/tracking/daily/wake-days/pro
 import type { PersonaSlug } from "../../domain-system/initiatives/properties/persona-slug.relation-property.ts"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
-import type { Notes } from "./properties/notes.file-property.ts"
+import type { ReviewSessionNotes } from "./properties/review-session-notes.file-property.ts"
 
 export type ReviewSession = Page & {
   title: Title
   personaSlug: PersonaSlug
   date: ReviewedOn
-  notes: Notes
+  notes: ReviewSessionNotes
   icon?: Icon
 }
 
@@ -22,7 +22,7 @@ export const reviewSession = {
   pluralSlug: "review-sessions",
   extendsSlug: "page-type/page",
   partSlugs: [
-    "file-property/notes",
+    "file-property/review-session-notes",
     "relation-property/persona-slug",
     "text-property/date",
     "text-property/icon",
@@ -32,7 +32,7 @@ export const reviewSession = {
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "persona-slug", required: true, many: false },
     { pagePropertySlug: "date", required: true, many: false },
-    { pagePropertySlug: "notes", required: true, many: false },
+    { pagePropertySlug: "review-session-notes", required: true, many: false },
     { pagePropertySlug: "icon", required: false, many: false },
   ],
   invariants: [

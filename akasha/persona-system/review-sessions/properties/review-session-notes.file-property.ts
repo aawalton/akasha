@@ -1,11 +1,11 @@
 import type { FileProperty } from "@akasha/pages-system/file-property"
 
-export type Notes = "txt"
+export type ReviewSessionNotes = "txt"
 
-export const notes = {
+export const reviewSessionNotes = {
   id: "01a06743-d160-7000-a21c-00ed7a409bee",
   pageTypeSlug: "file-property",
-  slug: "notes",
+  slug: "review-session-notes",
   propertySlug: "notes",
   definition: "what a persona found when she looked, in her own words",
   invariants: [

@@ -6,9 +6,9 @@ import type { Collection } from "./properties/collection.relation-property.ts"
 import type { CuisineOrType } from "./properties/cuisine-or-type.text-property.ts"
 import type { Latitude } from "./properties/latitude.number-property.ts"
 import type { LocationCategory } from "./properties/location-category.text-property.ts"
+import type { LocationNotes } from "./properties/location-notes.text-property.ts"
 import type { LocationSource } from "./properties/location-source.text-property.ts"
 import type { Longitude } from "./properties/longitude.number-property.ts"
-import type { Notes } from "./properties/notes.text-property.ts"
 import type { ReviewDate } from "./properties/review-date.calendar-date-property.ts"
 import type { ReviewFlag } from "./properties/review-flag.text-property.ts"
 import type { ReviewRating } from "./properties/review-rating.number-property.ts"
@@ -27,7 +27,7 @@ export type Location = Page & {
   cuisineOrType?: CuisineOrType
   latitude?: Latitude
   longitude?: Longitude
-  notes?: Notes
+  notes?: LocationNotes
   reviewDate?: ReviewDate
   reviewFlag?: ReviewFlag
   reviewRating?: ReviewRating
@@ -59,8 +59,8 @@ export const location = {
     "text-property/address",
     "text-property/cuisine-or-type",
     "text-property/location-category",
+    "text-property/location-notes",
     "text-property/location-source",
-    "text-property/notes",
     "text-property/review-flag",
     "text-property/review-text",
     "text-property/source-place-id",
@@ -74,7 +74,7 @@ export const location = {
     { pagePropertySlug: "cuisine-or-type", required: false, many: false },
     { pagePropertySlug: "latitude", required: false, many: false },
     { pagePropertySlug: "longitude", required: false, many: false },
-    { pagePropertySlug: "notes", required: false, many: false },
+    { pagePropertySlug: "location-notes", required: false, many: false },
     { pagePropertySlug: "review-date", required: false, many: false },
     { pagePropertySlug: "review-flag", required: false, many: false },
     { pagePropertySlug: "review-rating", required: false, many: false },
