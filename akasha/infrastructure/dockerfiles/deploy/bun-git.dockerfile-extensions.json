@@ -1,0 +1,5 @@
+{
+  "base_image": "oven/bun:1.3.14-alpine",
+  "system_packages": ["git", "git-daemon"],
+  "output_filename": "Dockerfile.bun-git"
+}

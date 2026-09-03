@@ -16,22 +16,22 @@ export const SERVICES: Record<string, ServiceConfig> = {
   },
   ci: {
     type: "tool-image",
-    dir: "infra/lib",
+    dir: "akasha/infrastructure/dockerfiles",
     extensionFile: "ci.dockerfile-extensions.json",
   },
   "bun-git": {
     type: "tool-image",
-    dir: "infra/lib",
+    dir: "akasha/infrastructure/dockerfiles",
     extensionFile: "bun-git.dockerfile-extensions.json",
   },
   buildkit: {
     type: "tool-image",
-    dir: "infra/lib",
+    dir: "akasha/infrastructure/dockerfiles",
     extensionFile: "buildkit.dockerfile-extensions.json",
   },
   kubectl: {
     type: "tool-image",
-    dir: "infra/lib",
+    dir: "akasha/infrastructure/dockerfiles",
     extensionFile: "kubectl.dockerfile-extensions.json",
   },
 }

@@ -1,0 +1,6 @@
+{
+  "base_image": "moby/buildkit:v0.28.0-rootless",
+  "system_packages": ["git"],
+  "output_filename": "Dockerfile.buildkit",
+  "run_as_user": "1000:1000"
+}
