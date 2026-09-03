@@ -47,7 +47,7 @@ export const WATCHER_UPDATING: Updating = {
 export function uploadQueue(): (run: () => Promise<void>) => undefined {
   let tail: Promise<void> = Promise.resolve()
   return (run) => {
-    tail = tail.then(run, run)
+    void run()
     return undefined
   }
 }
