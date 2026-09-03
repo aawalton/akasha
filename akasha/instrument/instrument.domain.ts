@@ -123,5 +123,16 @@ export const instrument = {
         "Anything it skipped is outside the population.",
       ],
     },
+    {
+      directiveKind: "principle",
+      name: "Capability",
+      act: "Draw an audit's boundary around the capability it needs, never around the rule it enforces.",
+      warrant:
+        "Getting the data is what costs, and an audit pays for it once however many rules it holds.",
+      aids: [
+        "Two rules with no data in common are two audits.",
+        "Name an audit for its data, not its first rule.",
+      ],
+    },
   ],
 } as const satisfies Domain

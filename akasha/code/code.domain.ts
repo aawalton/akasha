@@ -27,6 +27,17 @@ export const code = {
     },
     {
       directiveKind: "rule",
+      name: "No Code Comments",
+      act: "Write a code comment only in one of the code comment forms; delete every other one.",
+      warrant:
+        "Opus 5 obeys a comment as readily as a domain, so a drifted one competes with what the domains say.",
+      aids: [
+        "Delete what it said rather than rehome it.",
+        "Add it to a domain later, only where needed.",
+      ],
+    },
+    {
+      directiveKind: "rule",
       name: "Real Path",
       act: "Resolve a filesystem path to its real location where the path is made.",
       warrant:

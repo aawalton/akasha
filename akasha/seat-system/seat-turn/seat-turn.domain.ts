@@ -201,4 +201,13 @@ export const seatTurn = {
     { invariantKind: "gap", statement: "An overloaded seat is nudged until the seat works again." },
     { invariantKind: "gap", statement: "A seat waits longer after each nudge." },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Question Last",
+      act: "Put your question to Alan in your last words.",
+      warrant: "Anything following a question buries it, and he answers whatever he read last.",
+      aids: ["End the turn on the question.", "A question with text after it is a statement."],
+    },
+  ],
 } as const satisfies Domain

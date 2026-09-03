@@ -55,4 +55,17 @@ export const monarch = {
       statement: "Every tile drawing the reading shows the count Alan's workstation last took.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "principle",
+      name: "Doubt Goes To A Person",
+      act: "Leave a category to a person unless something settles it beyond doubt.",
+      warrant:
+        "A wrong category is never looked at again, while a needless question is answered once.",
+      aids: [
+        "Where you are nearly sure, ask rather than write.",
+        "Apply a rule only where all its conditions hold.",
+      ],
+    },
+  ],
 } as const satisfies Domain

@@ -54,4 +54,16 @@ export const workspacePackage = {
       statement: "The workspace installs every package the tree holds.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Earn The Manifest",
+      act: "Make a folder a workspace package only when a tool must read what it needs.",
+      warrant: "A manifest costs upkeep on every change and buys nothing until something reads it.",
+      aids: [
+        "Importing it by name is not a tool reading it.",
+        "A boundary is a check's job, not a manifest's.",
+      ],
+    },
+  ],
 } as const satisfies PageType

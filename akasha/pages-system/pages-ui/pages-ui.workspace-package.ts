@@ -122,4 +122,17 @@ export const pagesUi = {
     "module/view-filter-to-condition",
     "module/viewport-thresholds",
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Directive Is Not The Boundary",
+      act: 'Reach pages from browser code through `@akasha/pages-ui`, with or without a `"use client"` line.',
+      warrant:
+        "That line is the gate's whole test, so a module without it reaches pages from the browser unchecked.",
+      aids: [
+        'Change the page import, never add `"use client"`.',
+        "Do not touch code that never runs in the browser.",
+      ],
+    },
+  ],
 } as const satisfies WorkspacePackage
