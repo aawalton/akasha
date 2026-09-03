@@ -1,0 +1,134 @@
+Back in his Beastkin body, Mato rotated his shoulders with a groan, before stretching his legs and arms one at a time. He had been fighting nonstop for more than two hours and he felt amazing. Well, sore, but amazing. The constant rush of charging through buildings, smashing his skills against the armor of the undead, and dragging them up to the fireballs only to begin again was a rush he couldn’t begin to explain. Even the frustration of flying monsters getting away could not take away how happy he felt.
+
+He was a little tired, though. He had not been able to take a break the entire time, and even with Battle Trance, his stamina was beginning to run low. He walked down the stairs to the ground floor of the last building they had cleared as they searched for a secure spot to rest.
+
+As he reached the bottom and finally sank to the cold, unyielding stone, he was surprised by a sudden chime. I didn’t just level up, did I? he thought bringing up the notifications.
+
+Requirements met for skill advancement.
+
+Swipe has reached level 20.Strength has reached 135.Simultaneously hit five monsters with a single Swipe.Kill a monster in one strike with Swipe.
+
+Swipe gains Damage Specialist.(Specialized for damage output as a shapeshifter, your base Swipe damage in shapeshifted form is increased by + [skill + strength] %)
+
+Ooh! A damage upgrade! This is good. Wait, there’s another?
+
+Requirements met for skill advancement.
+
+Swipe has reached level 20.Strength has reached 130.Wisdom has reached 50.Tanked more than twenty flying monsters with Swipe.Tanked a raid-level flying threat with Swipe.
+
+Swipe gains Battle Master.(Stamina: A master at battlefield control, you take advantage of your enemy’s distraction. Whenever you are in range of a creature and it attacks someone else, or tries to leave your range, you can instantaneously retaliate for weapon damage + [skill + strength x 2] %. +20% chance to do critical damage. 100% chance to cast level [skill] Grasping Roots on hit. Conditional Trigger.)
+
+Choose up to one advancement.
+
+He carefully read through the two advancements offered. They both look so good. The Damage Specialist appealed to his sensibilities – simple and reliable. Swipe damage already scaled by skill level and strength – at his current abilities it was worth +155%. Damage Specialist would push that up to +310%, doubling it. A fine upgrade indeed. Given how frequently he used Swipe, that would be very welcome.
+
+Battle Master looked a lot more complex, although he was at least half certain it was strong. The damage multiplier was very high – scaling off of double his strength – and he would get a bonus to critical damage. The downside seemed to be that he couldn’t use it whenever he wanted.
+
+What’s the deal with the Grasping Roots? It was just the kind of skill Calen would love to dissect. Didn’t Ali have that before? Now I’m being offered the same thing?
+
+“Hey, I got a skill advance, I need to choose between two options,” he said, getting a cascade of interested curiosity on the previously weary faces of his friends. He quickly shared it with them.
+
+“Well, there’s your answer to fliers,” Calen said instantly.
+
+“What do you mean?”
+
+“Battle Master. Look at the requirements to unlock it – two of them talk about flying creatures. My guess is this skill is a tank’s answer to anything with an escape skill like flying. Once I ground a wyvern or bat, you will trigger that every time it tries to take off. If you hit, it can’t fly away because you just rooted it to the ground.”
+
+“Oh!” All the pieces were there, and once Calen had put it all together for him, he suddenly saw just how strong the skill really was. He had been thinking about it all wrong. “It’s a control skill!”
+
+“The Damage Specialist is strong,” Malika suggested, “but for tanking, I’ve never heard of anything as good as that Battle Master. Instant retaliation with a damage boost and a way to control monsters – not just the flying ones – trying to leave. I think that’s your best option.”
+
+“I’ve been reading a bunch about combat in the Adventurer’s Guide,” Ali said. “Isn’t one of the biggest problems for tanks that sentient enemies ignore them and can resist Taunts with high wisdom?”
+
+Mato nodded, and then it suddenly dawned on him what Ali was getting at. “Oh, you mean that even a smart enemy will have to conclude that he has to attack me because attacking someone else will get him punished?”
+
+“That’s a really good point,” Calen said, nodding his head approvingly at Ali.
+
+“That’s good enough for me,” Mato said, selecting the advance.
+
+Swipe – level 20Stamina: A slashing attack that hits all enemies directly in front of you for weapon damage +155% [skill + strength].Stamina: A master at battlefield control, you take advantage of your enemy’s distraction. Whenever you are in range of a creature and it attacks someone else, or tries to leave your range, you can instantaneously retaliate for weapon damage +290% [skill + strength x 2]. +20% chance to do critical damage. 100% chance to cast level 20 [skill] Grasping Roots on hit. Conditional Trigger.Physical, Melee, Area, Strength
+
+Ali sat on the cold marble floor, grateful to take a moment for a breather. She had been fighting nonstop since the morning, and within the error of her underground time sense, it was now probably somewhere a little past midday. There were minions to resummon, notifications to check, and a broad range of chores, but she simply ignored it all for a while and zoned out.
+
+From the outside, looking at the ruined and bone-plastered building, it had been hard to be certain, but the cold marble she was sitting on made it clear she was inside one of the city vaults. One of the smaller ones to be sure – the main one had been to the north – missing now, along with a large section of the city, casualties of some unfathomably immense outpouring of destructive magic.
+
+Their relentless charge through the commercial core of Dal’mohra – now ruined and serving as strongholds for the undead – had certainly been efficient. They had made enormous progress. But many of her skills required focus and concentration – and keeping that up for hours on end without a break took a toll on her that couldn’t be attributed to mere physical tiredness. She was beginning to agree that Martial Insight was one of her strongest skills, however, it was also the one that required her to split her concentration and focus the most, and if she were lazy, she squandered the opportunity to grow her skill, and substantially reduced the effectiveness of her minions in combat.
+
+Eventually, her mind turned to her notifications, and the familiar pressure behind her brow that informed her in no uncertain terms that her Grimoire was awaiting a decision.
+
+Imprint: Zombie completed.Imprint: Skeleton completed.Variant: Death’s Acolyte added to Imprint: Kobold.Imprint: Poison Wyvern completed.Imprint: Giant Bat completed.
+
+Four new ones? Ali’s Grimoire was almost full, with only a single chapter available. She considered the rest of her imprints carefully, but even though her elemental imprint was basically useless, she still wanted to study it – especially the strange Glimmer Shards. There was no way she was giving up her book imprint after all it had cost to get it. She still held out hope that she might eventually be able to use it.
+
+She sat up straighter, shaking her head to clear her mind a little. The zombies were disgusting, and she similarly had little desire to summon skeletons. But at least there had been a couple of skeletal mages with an ice affinity which seemed interesting. I won’t be able to summon them though, will I? It was a simple extrapolation from her experience with the elementals. What little she knew of necromancy told her that the undead were animated by death affinity mana, and she didn’t have that.
+
+I could try it though, she thought. She did have a bit of an intellectual curiosity, so she pulled out her Grimoire and chose the imprint for undead skeletons.
+
+As soon as it finished inscribing the imprint, she scanned through the variants. Oh, I did get it, she thought, pausing at the imprint for a skeletal Ice Mage. But as she had guessed, she summoned an intact skeleton that briefly stood about as tall as Malika before it collapsed in a pile of distinctly non-animate bones. She got a few unusual looks from her friends, but she ignored them for now, trying out all the other variants, verifying that none of them would actually work. One thing that was rather surprising though, was that the imprint included the Skeletal Wyvern – with a poison mana affinity. However, it too seemed to require death mana to animate it, and she deconstructed the massive pile of bones she had created after her unsuccessful attempt.
+
+“New imprint?” Calen asked curiously.
+
+“Yes, but I don’t think my mana is compatible with undead,” Ali confirmed. Her companions exchanged strange glances that she almost commented on, but decided not to. Of course she hated undead! Couldn’t they see that?
+
+Discarding the skeleton imprint, she replaced it with the one for zombies. To her surprise, a couple of Kobold skeletal variants remained, shifting to attach to the Kobold imprint. But the change seemed cosmetic, not allowing her to support them with her magic. The zombies also summoned dead, rather than undead – appearing as rotted corpses. She hastily deconstructed her experiments as soon as the putrid stench of her creation hit her nostrils.
+
+“I can learn the Giant Bat or the Poison Wyvern,” Ali said. “Which do you think seems better?”
+
+“Too bad you can’t get both,” Mato said.
+
+“I think the bats are pretty agile, and the stun attack is seriously scary,” Calen said. “They will probably work better on the undead than poison.”
+
+“Yup, that’s true,” Mato agreed. “The skeletons seem immune.”
+
+“The wyvern seems like the better long-term choice,” Malika countered. “Poison is a good damage type, and we won’t always be fighting undead.”
+
+“The wyvern is pretty,” Ali said. It really was a magnificent beast. Even though she had been terrified at the time, seeing the wyvern flying right beside her as she tried to rescue Calen had been a sight that left a powerful impression on her.
+
+“Seriously? That’s what you’re basing your decision on?” Mato said, chuckling as he shook his head.
+
+“I don’t see why not. They seem about equal, otherwise.”
+
+“There’s one additional factor,” Malika said. “The wyvern scales are valuable as materials for leather or scale crafting.”
+
+“See, that’s a respectable reason. You could make good money with them,” Mato said.
+
+“Good thing that’s the pretty one, then,” Ali retorted to the sound of Mato’s laughter. It was a decent reason and a way to differentiate between her two choices, but she was glad that it came out in favor of the wyvern.
+
+She discarded the Giant Bat imprint and committed the Poison Wyvern to her Grimoire.
+
+Eager to see her new monster, she summoned one.
+
+Poison Wyvern – Dragon – level 30 (Poison)Your reserved mana has increased by +225.
+
+Wow! It was a gorgeous creature. Ali admired the long, sleek, dangerous reptilian predator, perched on its two powerful clawed legs and stretching its broad wings. Its reptilian face turned toward Ali and two sets of eyelids blinked across its intelligent-looking glittering green eyes as it watched her.
+
+“Now that’s something,” Mato said with a low whistle of approval.
+
+Ali reached out her hand and ran her fingers along the gleaming emerald scales, feeling the warm smoothness under her fingertips.
+
+I can make dragons!
+
+While she knew wyverns were not true dragons, lacking the front limbs of their brethren, and generally being smaller and nimbler, they were still apex predators and her new minion looked like she knew it. Even her Kobolds knew it, most of them stopping and staring, some even making gestures of respect towards the wyvern, and her for creating it.
+
+“Shall we continue?” Mato seemed excited to get back to the fighting, but Ali felt reluctant to give up her rest quite so soon.
+
+“I think we should explore this building a little more. I’m pretty sure it was one of the city vaults,” she said. “There should be a secure room somewhere.” It was unlikely that anything of value had survived for so long, and probably the dungeon had consumed everything ages ago, but each time she recognized a building or a street, Ali felt the sharp connection to her past, tinged with sadness for what it had become.
+
+“I’ll go check it out,” Calen said, springing to his feet, and vanishing into the darkness for a few minutes while Ali tried a few of her breathing exercises hoping to find a little more mental alertness in the familiar patterns of relaxation.
+
+“There’s a doorway leading down from the stairwell, but… it’s locked,” Calen paused, seeming a little awkward before continuing. “Um… Malika, would you mind trying to unlock it? I’d like to see what’s down there...”
+
+“Sure,” she agreed, much more readily than Ali expected.
+
+“I could bash it,” Mato suggested.
+
+“No, I think I’ve got it,” Malika declined, with an eye roll that had Mato chuckling and pretending to flex his biceps.
+
+Ali scrambled to her feet, curiosity winning out over her tiredness – or perhaps her exercises really had helped – and followed Calen as he led the way to an imposing heavy stone door set into the wall at the base of the stairwell. It was covered in dust which he had already brushed out of a recessed handle and keyhole.
+
+I could probably deconstruct that, she thought. However, Malika had already produced a professional-looking lockpicking kit – a sleek black leather case with several implements bearing subtle enchantments inscribed on them.
+
+“I thought you didn’t like that skill?” Ali asked.
+
+“I don’t like that I was forced to learn it,” Malika said, grimacing and frowning at the same time. “People should be able to choose their path, and picking locks is not normally the behavior of decent folk.” She paused for a moment. “But it did save me and Calen on the Kel’darran caravan. I figured if I have the skill I may as well do it properly. Relying on a dead guard with a bloody hairpin isn’t pleasant or smart. Provided I don’t do anything illegal with it, I think it’s ok.” While she was talking, she inserted the blackened steel tools into the lock and moved them around with deft and complex gestures while a subtle interplay of mana flowed into the lock in response to the lock-picking tools’ enchantments and her skill.
+

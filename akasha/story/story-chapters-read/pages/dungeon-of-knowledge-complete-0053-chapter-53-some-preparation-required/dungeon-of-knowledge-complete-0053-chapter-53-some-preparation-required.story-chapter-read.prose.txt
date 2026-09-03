@@ -1,0 +1,126 @@
+Definition: Train (noun/verb, adventurer jargon). A large group of monsters incited to pursue the same person or target. Typically, the result of a failed pull in a dungeon, the recommended strategy is to use escape skills or artifacts. Without such tools, running away is strongly recommended. While rare, due to the risks involved, there have been known incidents of murder by dragging deliberately created trains of monsters onto the victim. - Excerpt from The Adventurer’s Guide, Third Edition
+
+Calen dropped lightly to the sewer floor, skipping the last several rungs of the rusty ladder. He landed on the balls of his feet and summoned his mote of light as the others joined him.
+
+A soft chime sounded in his mind as soon as his feet stepped onto the springy moss. The brilliant glowing text appeared in his mind containing information relayed via his Explorer skill.
+
+[Explorer] You have entered a dungeon.Ancient Grove – level 21Affinity: Nature, ArcaneAge: NewKnown Creatures: Kobold, Goblin, Ooze, WolfKnown Bosses: --Dungeon
+
+Huh?
+
+He stared at the notification in confusion. His Explorer skill had been noisy before, spamming him with unnecessary dungeon notifications whenever he was down in the cavern, but when it expanded the dungeon analysis while exploring the ruins of Dal’mohra, he had been certain the skill would settle down finally. And now this.
+
+He stared at the analysis, casting a surreptitious identification on Ali as she descended the ladder to join him.
+
+Mage [Ancient] – Fae – level 21
+
+The level, the affinities, and even the monster types matched. The only thing he couldn’t figure out was how his Explorer skill had been confused into identifying Ali’s domain as a dungeon.
+
+“You ok?” Mato asked, stepping up next to him, and placing a hand on his shoulder.
+
+“Yeah, fine,” he answered and set off on the path back to their camp.
+
+The whole way back to camp, he turned it over in his mind, but by the time he sat down, he was still no closer to figuring out what was wrong with his skill. It had worked perfectly down in the ruins.
+
+He pulled out his notebook and transcribed the bizarre notification onto a new page, resolving to try a few experiments to see if he could narrow down the problem.
+
+Satisfied that he had chased down every lead he currently had, he turned the page in his notebook and set his mind to an entirely different task. His pen began to fly across the page as he translated his memories from earlier and his notes into a usable map of the underground ruined city. Slowly, he began to smile, happy to finally be able to use his Cartography skill for something that would help them explore.
+
+“We saw lots of those Spitter Drones when we were down there last time. There were tons of them in the plaza out in front of the library,” Ali said. She glanced at Mato, and he nodded in agreement. “So, what are we going to do if we run into more of them?”
+
+“I’m going to let the strategy people figure that out,” Mato declared. “I’m hungry, so I’ll make some food for whoever wants to eat.”
+
+“Typical, Mato cares more about his stomach than giant exploding bug monsters,” Calen quipped from where he was working in his notebook. His quiet teasing, and Mato’s faked indignant look, got a laugh out of Ali. “Yeah, I’ll thank you from the bottom of my stomach in a minute. Get cooking, you.”
+
+“One bug stew coming up, just for you!” Mato declared. “I think I still have some tasty bits stuck in my fur.”
+
+“Gross!” Calen said, curling his lip in disgust, but then his gaze shifted to rest on Ali for a moment before adding, “One thing for sure, we should try to bring more casters next time. That regenerating bone armor is no joke. I literally can’t do any damage until someone with a spell breaks the bone plates first.” He looked back down at his notes and began to draw again.
+
+Funny how confident and poised he is when he’s talking strategy, Ali thought. And how distinctly different it was from his usual somewhat awkward introversion. His assessment was spot on though, while her Bugbears were huge and powerful, they had been next to useless against the Spitter Drone and the armored Kobolds. Even with the new added nature damage from her Empowered Summoner skill.
+
+“I agree,” Malika said. “Their armor seems vulnerable only to magical damage. More fire will make it a lot easier. We just need to figure out how to handle that explosion.”
+
+“Time it for the Kobold horde?” Mato suggested humorously, failing to hold back his grin.
+
+Calen said, “Simple, right?”
+
+Sitting safely by the fire discussing the Spitter Drone and the challenging Kobolds with her friends, Ali finally felt some distance from their recent near-death experience. It felt more like sitting in a room full of researchers discussing how to optimize an experiment or solve an abstract problem.
+
+“I can see the mana for the explosion before it happens,” Ali said. “It’s too distinctive to miss – an enormous amount of mana condensed right inside that creature when it froze.”
+
+“If you called it out when you saw it, how much time do you think you could give us?” Calen asked, once again focused on the discussion, his pen resting across his notebook.
+
+“Maybe six seconds? Five, more likely,” Ali said, furrowing her brow as she tried to remember precisely how long it had taken to explode.
+
+“That should be more than enough time to get away,” Malika said approvingly. “Now what do we do about that enormous train of Kobolds we attracted? Escaping with potions every time is going to be expensive.”
+
+“I was just thinking about that,” Calen said, glancing down at his notebook as if to check a particular note. “What if we lured it into a building and fought it there, a little away from the center? That way the explosion would be contained and, hopefully, not attract as much attention.”
+
+“Fireballs should do more damage in an enclosed space,” Ali said. It’s a great idea, and the walls should muffle the explosion a bit, too.
+
+“We could be more thorough about clearing out the nearby Kobold patrols before engaging the drones,” Calen said. “What about here, near the first concentric main road?” He held up his notebook revealing a detailed map that Ali instantly recognized as Dal’mohra.
+
+“Did you just draw that?” Ali asked, amazed at the detail he had included.
+
+“I have Cartography as a general skill,” he said, suddenly appearing more awkward and uncomfortable. “I had to guess a lot. But I will try to make it better next time.”
+
+“Is that why there’s a big chunk missing from your map near the top?”
+
+“No, that part of the city is missing, there’s a big hole there. I wanted to go take a closer look when we’re done with the monsters and see if I can figure out what happened.”
+
+How can it be missing? Calen’s blunt declaration caught her by surprise – Dal’mohra had been crafted from the best stone by the finest Dwarven crafters and mages. Even after three thousand years, it should still be strong.
+
+Then, she remembered the giant explosion and the landslide that took out half the mountain, burying the forest under tons of rubble. “Definitely needs some investigation,” she resolved, agreeing with Calen.
+
+“What are these markings along the terrace and the outer rim?” Malika asked, pointing it out on the map.
+
+“I don’t know, those looked like large runes carved into the stonework,” Calen shrugged. “The detail seemed important, so I included it.”
+
+“Those are the city defensive arrays,” Ali answered, recalling her school lessons. “The entire city is a magical artifact powered by enormous mana condensers on the second level. In times of war, those runes were activated to create city-wide barrier magic and a teleportation array should evacuation become necessary.” For all the careful preparation and foresight, none of it had helped at the moment they were needed the most. She recalled the supposedly impregnable barriers breaking during the attack. Perhaps the attack had come so swiftly that the defenders had been unable to react in time. Or perhaps Nevyn Eld knew how to circumvent them, she thought soberly. After all, he had been a senior magical researcher in the city for many years – at least before he had disappeared and returned as a Lich.
+
+“That’s incredible!” Malika exclaimed.
+
+“There’s another whole level?” Calen asked, his eyes widening.
+
+“Yes, the city had three main underground levels. The Grove and the forest with those giant trees used to be above ground,” Ali said, pointing to the enormous, blackened trunks that towered over her comparatively small trees, holding up the rock overhead. “The first underground level is the one we were exploring today, mostly filled with residential districts. The second level is the industrial level with transport and power generation. The third level was farmland, extending outward into the mines and forges. The Grand Library Arcana is in the center and connects all three levels to the surface.”
+
+Calen’s eyes grew round as she explained the full extent of the city.
+
+“I’m not sure how much remains,” she added, not wanting to get his hopes up too much.
+
+The discussion turned to tactics as Malika ran with Calen’s idea of luring the Spitter Drones into a ruined house, adding several good ideas of her own. They argued and brainstormed, slowly cobbling together something that might resemble a plan. Ali felt a lot better as they hashed out the details – her friends’ confidence was contagious and, more importantly, the logic of the emerging plan seemed sound. It would make the fight a lot safer if they followed some basic strategy designed around their new knowledge of the monsters.
+
+Ali glanced up and smiled her thanks as Mato handed her a small plate with some pan-fried fish and sauteed vegetables covered in a red sauce that let off a mouthwatering aroma. How does he do it every time? This smells delicious! She belatedly remembered that she had decided she would stop being so surprised at the quality of Mato’s cooking.
+
+And it’s definitely not bug stew! As she ate, she scanned through the notifications for the day, ending with the disastrous battle with the drone.
+
+…Your group has defeated Fire Mage – Kobold – level 19.Your group has defeated Dagger Rogue – Kobold – level 16.Your group has defeated Warrior – Kobold – level 18.Your group has defeated Spitter Drone – Elemental – level 25.Grove Warden has reached level 21.+10 attribute points.Arcane Insight has reached level 12.Barrier has reached level 17.Martial Insight has reached level 11 (+2).Empowered Summoner has reached level 5 (+4).
+
+Malika was right, she thought happily, noticing that Martial Insight had leveled twice. She had an easier time understanding her Fire Mage, but the training in fighting forms and techniques she had done with her friends was really helping with the rest. Considering her attributes for a moment, she decided to put all ten points into wisdom to increase her minion capacity.
+
+If I need more mages, it’s probably going to be expensive.
+
+***
+
+Ali woke early, as usual. Stretching, she rose, unzipped her tent flap, and emerged into the quiet of their camp, the nearby moss and trees softly illuminated by the powerful runes etched into the surface of the shrine behind the tents, and the scattered fairy rings of golden Common Glowcap mushrooms. The campfire Mato had used to cook last night’s dinner lay cold and dark, and the entire Grove exuded an aura of emptiness.
+
+A couple of mounds of wobbly greenish brown blobs decorated the moss – no doubt the remains of a few oozes killed by Malika or Calen while on watch. She glanced about for a few moments before she realized she’d grown used to finding her Kobolds standing guard when she woke. This morning there were none. After their close call yesterday, all her higher-level minions had been killed, leaving only those she had sent to patrol the sewers above. Even though her friends were nearby, she still felt vulnerable without her ever-present minions.
+
+She had been so tired yesterday that she had forgotten to replace her monsters to help with guard duty. I need to make more anyway. She sat beside the cold gray ash of the campfire and manifested her Grimoire. Floating in the air next to her, it shed its soft gold-and-green glow all around the Grove.
+
+By the soft light, she saw a strange, raised circle of thick moss, noticeably thicker and denser than the moss she had planted everywhere else. Distracted for a moment, she gazed at the phenomenon, quickly realizing it was a sizeable circle centered on Mato’s tent. All through the area, mana shimmered and flowed in a mesmerizing pattern. Curiously, it didn’t interfere with her domain mana imposing its structure across the entire space. Instead, Mato’s mana seemed to flow between and through it, like water through porous rock. Whereas her domain seemed structured and crystalline, Mato’s seemed to be much more fluid. And yet, Ali could see powerful similarities – and further details that hovered just beyond the edge of her skill’s ability to resolve.
+
+Collecting herself from her distraction, she recalled Mato had said his Sanctuary domain skill shared his regeneration somehow with plants, causing them to grow. That explains the moss circle.
+
+Ali returned to the problem at hand. I definitely need more mages. The issue was what else to bring to a fight against those armored Spitter Drones. Her melee warriors, rogues, and Bugbears had been mostly useless against the monsters with their dense regenerating bone armor, but once the armor was breached, the axes and daggers could be used to great effect. I want to be ready for anything else we find. She browsed through her Grimoire studying her various imprints for inspiration but the only imprints with monsters of high enough level to be interesting were the Kobolds, Goblins, and wolves. But Ali didn’t think the Timber Wolf variant would be particularly useful in the ruins. I think I’ll still want one or two melee minions, just in case.
+
+Ali flipped to the Goblin imprint and channeled her mana. It would take a few tries to get a Bugbear. And I only have enough equipment left for one, she thought, eyeing the diminished pile of weapons and armor. All the gear that she had used yesterday had been lost to the explosion and horde of Kobolds.
+
+Skirmisher – Goblin – level 1
+
+Sigh.
+
+Warrior – Goblin – level 2
+
+Double-sigh.
+

@@ -1,0 +1,152 @@
+“Ugh,” Ali said, throwing herself onto the couch in front of the hearth in the guild hall.
+
+“You alright?” Mato asked.
+
+“Just frustrated.”
+
+“I’m going to go see if they have any food left,” Mato said, petting his belly with a weary grin. “Want me to get you something?”
+
+“Maybe some fruit, if they have any?” Ali said.
+
+Mato nodded and walked off to the bar area in search of snacks.
+
+Ali might have harrumphed. Maybe even aloud. Fortunately, nobody seemed to be near enough to hear her. She had spent the entire walk across town from the Novaspark Academy replaying the events of the library in her mind. Over and over. The terrifying roar, and surge of mana. The image of her Goblin shaman killed in an instant, impaled through the heart as if his chainmail shirt were no more than gauze. She recalled the wyvern’s terrifying fanged maw opening to rain an endless torrent of bone spears down upon them while held aloft by the potent magic in its skeletal wings. And if that weren’t enough, there had been the panic and chaos of the continuously spawning Piercer Scorpions.
+
+The problem was, she had no idea what she could have done differently. It was sobering to think how they had just been gnats blown before a storm.
+
+The guild hall seemed quiet at this time of night and Ali was surprised that anyone was still here – but Malika was off talking to Weldin Thriftpenny and Mieriel sat at her desk, apparently busy with some administration work. Even the Guildmaster was here, sitting by herself in a room off to the side.
+
+Ali sighed and pulled up her notifications in an effort to distract herself.
+
+Your group has defeated Spitter Drone – Elemental – level 24 (Bone)Your group has defeated Spitter Drone – Elemental – level 26 (Bone)…Your group has defeated Piercer Scorpion – Elemental – level 28 (Bone)Your group has defeated Acolyte of Azryet – Kobold – level 21 (Holy)
+
+Page after page of golden script riffled past, surprising Ali with just how many monsters they had slain during the long day. Most of them had been at her level or higher. At least something went well.
+
+Grove Warden has reached level 23 (+2).+20 attribute points.Arcane Insight has reached level 14 (+2).Arcane Bolt has reached level 14.Barrier has reached level 18.Martial Insight has reached level 12.Empowered Summoner has reached level 8 (+3).Identify has reached level 9.
+
+Ali assigned ten points to wisdom for more minions and mana, six points to intelligence, and four to vitality, and then pulled up the rest of the notifications.
+
+Variant: Bone Arrow added to Imprint: Arrow.Variant: Eimuuran Steel Shield added to Imprint: Shield.Variant: Eimuuran Steel Shortsword added to Imprint: Sword.Variant: Bone Studded Leather added to Imprint: Armor.Variant: Bone Mage added to Imprint: Kobold.Variant: Archer added to Imprint: Kobold.
+
+Her progress was stellar, but unfortunately, it couldn’t keep her distracted for long. When Malika finally returned to sit by her, the quiet mood stretched on for several moments before Ali finally gave in to her frustration.
+
+“I hate running! We were doing so well, and then that stupid monster had to show up and wreck everything. What’s an undead wyvern doing down there anyway? And that crazy summoning in combat – why can it do that, and I can’t? And what about those ridiculous bone spears that never end? How are we supposed to even fight something like that?” Ali petered out, breathing a little harder from her rant.
+
+“Running is better than dying,” Malika pointed out soberly. “If we hadn’t run right then, I would have died. Tanking those Piercer Scorpions is no joke. There were many times I was one stray bone spear or one unlucky dodge away from death.”
+
+“I’m sorry, I’m just frustrated,” Ali said, immediately feeling selfish. But Malika’s honest admission surprisingly made her feel better, too. It was nice to know that the others also thought it had been overwhelming.
+
+“It’s not a problem, I don’t like being forced to run either,” Malika said. “Also, it’s damn expensive.”
+
+“Still, that wyvern was ridiculous.” Ali still felt her frustration at the unfairness of the monster. “It’s totally insane. Impossible.” She sighed. “And I was really hoping we would be able to clear the library.”
+
+“It’s not impossible, we just need a good plan, and then we’ll defeat him easily,” Mato said, strolling up with a leisurely gait and an armful of apples which he began doling out.
+
+Malika’s eyebrows nearly twitched off her face.
+
+“How are we supposed to do that?” Ali asked, selecting a shiny red one. “Thanks.”
+
+“I have no idea,” he responded with a grin. “But I’m sure you guys will come up with something great.”
+
+Ali stared at him, exasperated by his unreasonable cheerfulness. “Your confidence is not helping, were we even in the same fight?” She bit her apple with perhaps a little more force than was strictly required. Juice splashed on her chin and dripped down onto her shirt.
+
+“Don’t glare at me like that,” Mato grinned, “Or I’ll learn to shapeshift into a wyvern. Hey Calen, stop being so quiet. You already have some ideas, don’t you?”
+
+“Nothing that will make a difference,” Calen answered, sounding rather dejected. “It was a raid-level boss. We’d probably need a bunch of higher-level adventurers, more specialized skills, you know what I mean?”
+
+“Well, that explains it,” Malika said.
+
+“Explains what? What does that mean?” Ali asked.
+
+“It’s a standardized threat assessment for monsters,” Calen explained. “Here, this is what I got from Explorer when I Identified it.”
+
+A notification chimed and Ali saw Calen’s text unfolding in brilliant white light in her mind.
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Undead DragonDamage: Physical, Bone
+
+“Remember how I explained that a boss is a creature that is somehow enhanced by the dungeon’s mana to significantly boost its power, and sometimes size, over and above a normal monster of its kind?” Calen said.
+
+“Yes, I remember,” Ali answered. “You said it takes a group of people to kill them.” Ali recalled it well because the discussion had happened when they had encountered Armand’s skeleton. “We’re a group and we’re usually not too awful.”
+
+“Raid bosses are a step up from regular bosses,” Calen continued. “Bosses that are strong enough to require two or more groups to overcome. Depending on the dungeon and the relative levels, it can be recommended to bring up to five groups of adventurers, sometimes even more.”
+
+Malika nodded. “Right. High risk, high reward.”
+
+“So, what can we do?” Ali asked. It made sense, given what they had experienced – the enormous surge of mana that had accompanied the monster’s ascent and the powerful nature of some of the abilities it had used. No normal monster could handle such a powerful torrent of mana, but if it was making use of the domain itself… “There’s only four of us, do we need to find some other people?”
+
+“Sounds like you guys had a rough encounter?” Vivian said, walking over to join them. “Sorry, I couldn’t help but overhear. I’d be happy to discuss the fight and offer some suggestions if you like. After all, that’s why I’m here.”
+
+Ali exchanged glances with her friends, trying to gauge what they were feeling, but it seemed everyone was just as frustrated as she was after the disastrous fight. Well, maybe not Mato – but he’s just being Mato.
+
+It was Malika who finally filled the silence. “Sure, I think we need all the help we can get. And maybe another entire party of adventurers.”
+
+“Another group would be ideal, I agree, but unfortunately the guild is still growing. The only member at your level is Serendipity Puddlecrash, and I’m afraid her skills are more suited for other roles.” Vivian Ross sat down in a free chair facing them. Her calm and interested expression went a long way to helping Ali release a little of her pent-up anxiety and stress over the fight. “How about you start by telling me what happened and what you know about the monster you’re facing?”
+
+As Malika began to summarize the debacle in the library, Ali glanced down and took a deep breath, her eyes catching the torn, stained fabric of her shirt. Malika’s magic had left her skin clear and unblemished, but there were still rips and tears marring the beautiful gear Lydia had crafted for her. Listening to the voices of her friends, she channeled a little mana, activating Lydia’s signature self-repair enchantment, taking a little joy in seeing a beautiful piece of magic at work as the cloth quickly knit itself back into pristine condition.
+
+“So, the Kobold ran and added a raid boss? Good job on having an escape plan prepared. Was this your first time fighting a flying monster?” Vivian asked.
+
+“Yes, I couldn’t tank it at all,” Mato answered grumpily, miming an air-swoosh that made the others chuckle.
+
+“I think you guys are going to have a very difficult time with this boss,” she said after a moment of thought. “Remember I told you that one of your team’s weaknesses was area damage? Against summoners, area damage is a key strategy.” Vivian glanced meaningfully in Ali’s direction. “I’ll join you. We need to get rid of this thing immediately; nothing good will come from leaving an undead dungeon to fester so close to town. It’s too bad, though – you guys will get almost no experience.”
+
+“Because of the level difference?” Calen asked.
+
+“Yes.”
+
+“Ali has Fireballs and Lightning Bolts now,” Malika answered.
+
+Ali’s heart jumped just a little hearing how Malika was sticking up for her and her abilities. It was not a big thing, but after today, having her friends acknowledge her contribution as an important part of their team made her feel warm and happier inside.
+
+Vivian paused for a moment with a surprised look on her face.
+
+“I have Fire Mages, with Fireballs,” Ali explained. “And I learned those Storm Shamans that came with the Goblin horde. They can shoot Lightning Bolts and have Lightning Nova totems.”
+
+“Well in that case, perhaps you do stand a chance,” Vivian said, raising an eyebrow. “Why don’t you tell me what you know about these Piercer Scorpions?”
+
+“They hit really hard,” Malika said. “Two spear limbs and a bladed tail strike that can cut right through the bear in one shot.”
+
+“Looks like they have melee haste,” Calen said.
+
+“All physical damage?” Vivian asked.
+
+“They can cast a Bone Spear from the tail, and their blades are reinforced with bone affinity mana. I’m reasonably sure it gives them additional speed and sharpness,” Ali answered.
+
+“They’re level twenty-five to twenty-eight and the boss seems to summon one every thirty to forty-five seconds,” Calen added.
+
+“Well, in that case, I think the key to the fight is going to be controlling the spawned monsters. You probably don’t need to tank the wyvern itself, but controlling the spawned monsters is critical – tends to be better than getting a spear in the back. Normally, I would suggest a couple of tanks placed in a loose circle around the group to pick up any spawns and then blast them down with area damage periodically.”
+
+“I don’t think I can tank more than one, and even that is risky,” Malika admitted.
+
+“I’ve tanked two at the same time, but I think I can manage three,” Mato added, taking a crunching bite from his second apple. “But it’s hard to run around when I’m tanking.”
+
+“What if we collect the spawns and bring them to Mato?” Calen asked. “Either me or Malika could do that.”
+
+“Maybe both,” Vivian agreed. “When you’re not catching monsters, Calen can shoot the boss, and Malika can heal.”
+
+“Is it a good idea to spend so many people on just the spawns?” Calen asked.
+
+“It seems to be the greatest threat, so yes,” Vivian confirmed.
+
+“What about that crazy bone spear thing?” Ali asked. She still remembered her mages being impaled and swept away by the onslaught.
+
+“Can you explain it to me?” Vivian asked.
+
+“There’s actually two abilities,” Calen observed. “The Skeletal Wyvern can shoot a high-velocity Bone Spear from its mouth whenever it wants to. But at the end of the fight, it used another attack which was a continuous conical blast of spears that just blew everything away. It lasted almost a minute and was still going when we teleported out.”
+
+Ali raised an eyebrow. Amid the chaos and panic, studying the abilities had been the furthest thing from her mind. It was clear from the mana manifestation that the two abilities were dramatically different, but Calen did not possess mana sight and yet he had not only noticed, but he had also figured out timings and rates for the abilities already. She glanced at the shy Half-elf, impressed once again with the quality and precision of his mind, and his ability to retain focus under extraordinary pressure.
+
+“Sounds like a bone affinity breath weapon,” Vivian observed thoughtfully. “Any mitigations?”
+
+“Line of sight, provided the wall is strong enough,” Calen answered. “And that’s saying something. It blew the room to shreds.”
+
+Line of sight? Oh! Ali suddenly remembered cowering behind the wall while the relentless torrent of spears rained down on them. The deafening sound of spears shattering against the other side of the wall had been terrifying, but the spears smashing into the wall meant they were not being impaled. It seemed obvious, but both Vivian and Calen reacted like it was a crucial piece of the strategy puzzle.
+
+“What about the layout? Anything in the environment that is exploitable?” Vivian asked.
+
+“Give me a moment,” Calen said, pulling out his notebook and putting it on the table in the middle. He retrieved a heavily chewed pencil and began to sketch rapidly while subtle intricate flickers of mana played out in his eyes, around his head, and trickled down his arm into his hands.
+
+Ali stared, captivated as she studied the seamless interplay of at least three distinct skills. She knew he had admitted to having Cartography as a general skill, but the other two skills seemed to be related to perception. She reviewed his skills from memory, deducing that it would have to be Eyes of the Archon – his visual perception skill – and Explorer – his spatial and tracking perception skill. However, the interactions indicated some high degree of subtle synergy between all three, enhancing his memory, understanding, and his ability to reproduce it on paper.
+
+In just a few minutes he was done, and the maps he revealed were exquisitely drawn.
+
