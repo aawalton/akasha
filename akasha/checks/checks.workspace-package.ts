@@ -9,6 +9,7 @@ export const checks = {
   partSlugs: [
     "page-type/code-check",
     "page-type/model-check",
+    "page-type/refusal",
     "module/judging",
     "module/model-running",
     "module/check-scratch",
