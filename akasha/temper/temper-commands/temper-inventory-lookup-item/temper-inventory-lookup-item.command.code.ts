@@ -180,9 +180,14 @@ export async function temperInventoryLookupItem(
     return refused(`${INVENTORY_LUA} at ${at} would not open — ${whyOf(thrown)}`, DATA)
   }
   const match = itemInDatabase(parseInventoryContent(content), itemId)
-  const classification: Classification =
-    match === null ? { kind: "unknown" } : classificationOf(match.itemName)
-  const categoryNodeIds = match === null ? [] : classifyItemToNodeIds(match)
+  if (match === null) {
+    return refused(
+      `no capture in ${at} holds item ${String(itemId)}, so there is nothing here to classify`,
+      DATA
+    )
+  }
+  const classification: Classification = classificationOf(match.itemName)
+  const categoryNodeIds = classifyItemToNodeIds(match)
   if (read.json) {
     return {
       report: [JSON.stringify(jsonOf(itemId, match, classification, categoryNodeIds))],
