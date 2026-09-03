@@ -5,7 +5,9 @@ import {
   freeStemIn,
   happenedAtFrom,
   readIn,
+  slugOfStem,
   stemFor,
+  stemOfSlug,
   wallClockIn,
 } from "./food.command.code.ts"
 
@@ -91,6 +93,20 @@ test("a stem is the day and the food's name, and is bounded", () => {
   expect(stemFor("2026-06-26", "Shrimp & grits")).toBe("2026-06-26-shrimp-grits")
   expect(stemFor("2026-06-26", "!!!")).toBe("2026-06-26")
   expect(stemFor("2026-06-26", "x".repeat(200)).length).toBeLessThanOrEqual(100)
+})
+
+test("a page's slug carries the page type and a stem does not", () => {
+  expect(slugOfStem("2026-06-26-kale")).toBe("food-entry-2026-06-26-kale")
+  expect(stemOfSlug("food-entry-2026-06-26-kale")).toBe("2026-06-26-kale")
+  expect(stemOfSlug(slugOfStem("2026-08-22-banana"))).toBe("2026-08-22-banana")
+})
+
+test("a slug that opens with no page type is read as a stem already", () => {
+  expect(stemOfSlug("2026-06-26-kale")).toBe("2026-06-26-kale")
+})
+
+test("a food named for the page type keeps that word in its stem", () => {
+  expect(stemOfSlug("food-entry-2026-06-26-food-entry")).toBe("2026-06-26-food-entry")
 })
 
 test("a stem already taken on the day is numbered past what is there", () => {

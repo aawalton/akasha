@@ -2,8 +2,12 @@ import { readFile } from "node:fs/promises"
 import { imageObjectKey } from "@akasha/object-store/object-store-key"
 import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import type { Value } from "@akasha/pages-system/page-value"
+import { asking } from "@akasha/pages-system-service/asking"
+import { composedFor } from "@akasha/pages-system-service/composing"
 import { getEsoDayStr, nyWallToInstant } from "@tools/lib/eso-day"
-import { askComposed, pageLanding, patchPage } from "@tools/lib/page-query-client"
+import type { Landed } from "@tools/lib/page-query-client"
+import { rootOf, written } from "@tools/lib/tracking/akasha-day"
 import { wakeDayOf } from "@tools/lib/wake-day"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
@@ -31,6 +35,17 @@ const VALUED = new Set([TITLE, IMAGE, PLANT_GRAMS, ESTIMATED_CALORIES, DATE, TIM
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
 
+/**
+ * What a food entry's slug opens with, which its stem does not carry.
+ *
+ * A page in akasha is slugged for its type and its stem together —
+ * `food-entry-2026-08-22-banana` — while the stem `2026-08-22-banana` is what names the day and
+ * the food and what `freeStemIn` numbers past. The two meet here and nowhere else.
+ */
+const SLUG_OPENING = `${FOOD_ENTRY_PAGE_TYPE_SLUG}-`
+
+const SLUG = "slug"
+
 const FOOD_WRITER = "ops-food"
 
 const COVER_STEP = "cover"
@@ -42,8 +57,6 @@ const NOTHING_MISSED = "none"
 const STEM_CEILING = 100
 
 const NOON = 12
-
-const MAX_FOOD_ENTRIES = 5000
 
 const DAY_PATTERN = /^\d{4}-\d{2}-\d{2}$/
 
@@ -194,6 +207,14 @@ export function stemFor(dayStr: string, title: string): string {
   return whole.length <= STEM_CEILING ? whole : whole.slice(0, STEM_CEILING).replace(/-+$/, "")
 }
 
+export function stemOfSlug(slug: string): string {
+  return slug.startsWith(SLUG_OPENING) ? slug.slice(SLUG_OPENING.length) : slug
+}
+
+export function slugOfStem(stem: string): string {
+  return `${SLUG_OPENING}${stem}`
+}
+
 export function freeStemIn(stem: string, slugs: readonly string[]): string {
   let taken = 0
   for (const slug of slugs) {
@@ -202,10 +223,61 @@ export function freeStemIn(stem: string, slugs: readonly string[]): string {
   return taken === 0 ? stem : `${stem}-${taken + 1}`
 }
 
+export type Stems = { readonly stems: readonly string[] } | { readonly refused: string }
+
+/**
+ * Every stem a food entry is already filed under.
+ *
+ * `asking` rather than the markdown query this asked before. That query read `pages/food-entry/`,
+ * which the migration emptied, so it answered no slugs and no error at all and every new entry
+ * took the first stem it liked — the numbering that keeps two foods of a day apart was reading an
+ * empty list. `asking` refuses a page type the index does not hold and refuses a key the page type
+ * does not declare, so a spelling that has moved is a refusal rather than a clean nothing.
+ */
+export function stemsStanding(root: string): Stems {
+  const asked = asking(root, { pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG, keys: [SLUG] })
+  if ("refused" in asked) return { refused: asked.refused }
+  const stems: string[] = []
+  for (const row of asked.rows) {
+    const slug = row[SLUG]
+    if (typeof slug === "string") stems.push(stemOfSlug(slug))
+  }
+  return { stems }
+}
+
+/**
+ * One food entry landed as an akasha page.
+ *
+ * The whole value is composed every time rather than a difference being written, because a page
+ * body is the whole value: the cover is landed by composing the entry again with the cover on it.
+ * `composedFor` is what the pages system composes every akasha write from, so where the page
+ * already is, what its file is called and what order its keys are written in are decided in the
+ * one place that decides them for every other page.
+ */
+async function landFoodEntry(root: string, slug: string, values: Value): Promise<Landed> {
+  const composed = composedFor(root, {
+    pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG,
+    slug,
+    values,
+  })
+  if ("refused" in composed) return { ok: false, why: composed.refused }
+  if (composed.kept !== null) {
+    return {
+      ok: false,
+      why:
+        `\`${FOOD_ENTRY_PAGE_TYPE_SLUG}\` declares a property kept outside the commit and this ` +
+        `writes none; ${composed.kept.path} would carry ` +
+        Object.keys(composed.kept.values).join(", "),
+    }
+  }
+  return written([composed.put], `${FOOD_WRITER}: the food entry ${slug}`)
+}
+
 async function logging(read: Logged, given: Given): Promise<Answer> {
   const happenedAtDate = happenedAtFrom(read.date, read.time, new Date())
   const happenedAt = happenedAtDate.toISOString()
   const dayStr = wakeDayOf(resolveRoots(), happenedAtDate)
+  const root = rootOf()
 
   let bytes: Uint8Array | null = null
   let store: ObjectStore | null = null
@@ -218,52 +290,40 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
     if (store === null) {
       return refused(
         "no object store is configured — SEAWEEDFS_S3_ENDPOINT, SEAWEEDFS_BUCKET, " +
-          "SEAWEEDFS_ACCESS_KEY and SEAWEEDFS_SECRET_KEY say where one stands",
+          "SEAWEEDFS_ACCESS_KEY and SEAWEEDFS_SECRET_KEY say where one is",
         3
       )
     }
   }
 
-  const asked = await askComposed({
-    "page-type": FOOD_ENTRY_PAGE_TYPE_SLUG,
-    keys: ["slug"],
-    limit: MAX_FOOD_ENTRIES,
-  })
-  if (!asked.ok) return refused(`the food entries standing could not be read: ${asked.why}`, 3)
-  const slugs: string[] = []
-  for (const row of asked.rows) {
-    const slug = row.values.slug
-    if (typeof slug === "string") slugs.push(slug)
+  const held = stemsStanding(root)
+  if ("refused" in held) {
+    return refused(`the food entries already filed could not be read: ${held.refused}`, 3)
   }
-  const stem = freeStemIn(stemFor(dayStr, read.title), slugs)
+  const stem = freeStemIn(stemFor(dayStr, read.title), held.stems)
+  const slug = slugOfStem(stem)
   const foodId = Bun.randomUUIDv7()
+  const values: Value = {
+    id: foodId,
+    pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG,
+    slug,
+    title: read.title,
+    happenedAt,
+    ...(read.plantGrams === undefined ? {} : { plantGrams: read.plantGrams }),
+    ...(read.estimatedCalories === undefined ? {} : { estimatedCalories: read.estimatedCalories }),
+  }
 
-  const written = await pageLanding(
-    "write",
-    FOOD_ENTRY_PAGE_TYPE_SLUG,
-    stem,
-    {
-      id: foodId,
-      title: read.title,
-      slug: stem,
-      "happened-at": happenedAt,
-      ...(read.plantGrams === undefined ? {} : { "plant-grams": read.plantGrams }),
-      ...(read.estimatedCalories === undefined
-        ? {}
-        : { "estimated-calories": read.estimatedCalories }),
-    },
-    FOOD_WRITER
-  )
-  if (!written.ok) return refused(`the food entry did not land as a file: ${written.why}`, 3)
+  const landed = await landFoodEntry(root, slug, values)
+  if (!landed.ok) return refused(`the food entry did not land as a page: ${landed.why}`, 3)
 
   const report: string[] = []
   const notLanded: string[] = []
-  const missed = (step: string, thrown: unknown, standing: string): void => {
+  const missed = (step: string, thrown: unknown, after: string): void => {
     notLanded.push(step)
     report.push(
       `${step} did not land for food entry ${foodId}: ${whyOf(thrown)}`,
       `the entry itself is written — saying \`${given.calledAs} ${LOG}\` again would write a ` +
-        `second one rather than mend this one. ${standing}`
+        `second one rather than mend this one. ${after}`
     )
   }
 
@@ -272,11 +332,11 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
     try {
       await store.put(imageObjectKey(foodId), new Uint8Array(bytes))
       cover = `/api/image/${foodId}`
-      const patched = await patchPage(FOOD_ENTRY_PAGE_TYPE_SLUG, stem, { cover }, FOOD_WRITER)
+      const patched = await landFoodEntry(root, slug, { ...values, cover })
       if (!patched.ok) throw new Error(patched.why)
     } catch (thrown) {
       cover = null
-      missed(COVER_STEP, thrown, `The entry carries no cover; ${read.image} stands where it was.`)
+      missed(COVER_STEP, thrown, `The entry carries no cover; ${read.image} is where it was.`)
     }
   }
 
@@ -298,6 +358,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
         title: read.title,
         happenedAt,
         day: dayStr,
+        slug,
         cover,
         plantGrams: read.plantGrams ?? null,
         estimatedCalories: read.estimatedCalories ?? null,
@@ -309,6 +370,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   report.push(
     `id\t${foodId}`,
     `title\t${read.title}`,
+    `slug\t${slug}`,
     `happenedAt\t${happenedAt}`,
     `day\t${dayStr}`,
     `cover\t${cover ?? "-"}`,

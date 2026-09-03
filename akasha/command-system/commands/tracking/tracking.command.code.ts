@@ -10,12 +10,31 @@ import {
   writing,
 } from "../write/write.command.code.ts"
 
-export const TRACKED_AT = "akasha/alan/tracking/daily/wake-days/pages/"
+export const DAYS_AT = "akasha/alan/tracking/daily/wake-days/pages/"
+
+/**
+ * The food entries, which a program composes exactly as it composes a day.
+ *
+ * `akasha food log` wrote a food entry as markdown under `pages/food-entry/`, which the migration
+ * emptied. The entry landed there and the command answered 0, while every reader of a food entry —
+ * the plants readout, the nutrition roll-up, the page queries — reads the index and found nothing.
+ * An entry is a page now, and this is the road it takes: nothing writes under `akasha/` but
+ * akasha's own commands, and `write` asks for a reading no program has done.
+ */
+export const FOOD_ENTRIES_AT = "akasha/alan/tracking/food-entries/pages/"
+
+/** Every tree this lands under, each holding pages a program composed. */
+export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
 export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
 
+export function trackedIn(path: string | null): boolean {
+  return path !== null && TRACKED_AT.some((one) => path.startsWith(one))
+}
+
 export function outsideTracked(said: string): string {
-  return `${said} is not under \`${TRACKED_AT}\`, and this lands the tracked days and nothing else`
+  const under = TRACKED_AT.map((one) => `\`${one}\``).join(" or ")
+  return `${said} is not under ${under}, and this lands what Alan's tracking composes and nothing else`
 }
 
 export function strayIn(root: string, argv: readonly string[]): readonly string[] {
@@ -23,8 +42,7 @@ export function strayIn(root: string, argv: readonly string[]): readonly string[
   for (const flag of [FILE_PATH, REMOVE]) {
     for (const one of valuesOf(argv, flag, VALUED)) {
       if (one === null) continue
-      const path = pathInside(root, one)
-      if (path === null || !path.startsWith(TRACKED_AT)) said.push(outsideTracked(one))
+      if (!trackedIn(pathInside(root, one))) said.push(outsideTracked(one))
     }
   }
   return said
