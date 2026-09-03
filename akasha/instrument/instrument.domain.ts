@@ -135,5 +135,16 @@ export const instrument = {
         "Name an audit for its data, not its first rule.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "Read The Limit That Binds",
+      act: "Read the limit that runs out, never the one that shares its error message.",
+      warrant:
+        "One error stands for several limits, so the healthy reading is often of the limit that had room.",
+      aids: [
+        "A store has as many limits as it has counters.",
+        "Exhaust the limit yourself to see what it returns.",
+      ],
+    },
   ],
 } as const satisfies Domain
