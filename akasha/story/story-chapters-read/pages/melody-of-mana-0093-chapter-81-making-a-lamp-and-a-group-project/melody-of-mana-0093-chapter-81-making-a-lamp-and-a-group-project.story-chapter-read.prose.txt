@@ -1,0 +1,77 @@
+First of all, making a core once you have one is simple. There is literally a menu control for it. Once you've put that in you mostly just have to go through and build, which is both monumentally faster and easier than the initial core building. That whole process took me maybe two or three hours. Then I just had to place that onto the desk we used in class and form the item around it.
+
+When I went to actually make my lamp most of the process should have been underwhelming. Since the shape involved in the item was so simple making it was almost automatic. I did replace the number they were using for pi, 3.141818 with the proper first 100 digits, because I'd been taught the song so long ago. Humming that while making a magical item was in retrospect probably not a great idea.
+
+I winced as I looked at it. It was... perfect, far, far, too perfect. You don't really notice how imperfect most spheres are until you hold one that is very, very nearly perfect. For that reason the whole damn thing stood out like a sore thumb. I was divided between redoing the whole thing and just leaving it be, and eventually decided to leave it since nobody would be looking at it anyway. I also thanked myself for doing this while nobody else was working in the same room.
+
+I sighed and connected to the core inside the sphere by placing my hand on it. From there putting in the actual codes to make the thing work was also straightforward, I just had to copy them in line by line to the menu. I checked it over thrice to make sure I'd gotten it right then finalized. That actually locked the item down, keeping me and anyone else from ever accessing that particular core again. This process also wrote the runes on the outside of the item. I knew that it was possible to make these read as something different from what the actual code was, both from my work in the guide and my classwork, but I didn't know how and it seemed like a bother anyway for something like this.
+
+And... it was done. I had a sphere with runic text all along the outside, going top to bottom in a little spiral. Putting a bit of mana in it was easy enough and once I'd done so I uttered the command, "Illuminate". The level of light it gave off was determined by the core, and after watching it for a bit I said "Deluminate" and put the dang thing away; I'd mount it in it's housing later.
+
+There were so many more things to try out now. I'd managed to make my first item, and it was simple, but pleasantly functional. I also had an idea on something I could make that I would absolutely have to keep quiet about, and manage the 'hiding the actual runes' function on.
+
+It was a week or two into spring that I was informed that my weekly class on healing would be canceled. That was a cause for celebration, until I was informed that Professor Endel would be taking all of his Combat Spellcasting students for 'exercises' instead, joined with a number of those seeking to become knights.
+
+I'd made steady progress in most of my subjects. Managing to be able to communicate a few simple ideas relatively well in Atali and now actually dancing regularly rather than just a few simple exercises. Our general classes were still focused on things like hammering out some of the issues commonly found in spells, along with going over how to manage multiple spells at once easier. I found those particularly easy exercises since I regularly kept two or sometimes three spells going at once.
+
+As the day of our 'exercises' dawned I found myself bleary eyed and slightly irritated by my poor breakfast. We'd all been awoken early and had to hurry down to the courtyard where we were outfitted with mildly enchanted practice armor. It didn't seem like much, but I knew from both my work on magical items and experience wearing it in class that it could keep us much safer than it appeared.
+
+We were quickly loaded onto a number of carriages. As I was getting on I saw other students, in armor not too dissimilar to our own being loaded up as well. That was unusual and I cocked my head trying to look before Professor Endel gave me a look and I hurried along.
+
+Our ride was bumpy, and we were all tired as we flew down the streets and out the capital's gates. It hadn't really occurred to me that I had stayed in this city for years without leaving it. As we moved past fields and the like I tried to catch a few glimpses, if only for nostalgia's sake.
+
+Before long we reached our destination, and as the sun actually properly rose into the sky I stared wide eyed at the walls. They weren't tall like city walls, but they did cover an enormous area, and they were decidedly enchanted, though I couldn't tell to what end.
+
+"Who knows where we are?" Professor Endel asked once we'd all formed up.
+
+"Is this 'The Junkyard Copse' sir?" Troy asked.
+
+"Indeed it is my boy, and do you know what it is?"
+
+"Erm... a place for the disposal of broken and aged magical items?"
+
+"Correct again, at least partially. What I have behind me here is an area full of broken and terribly aged magic. Normally magical items remain rather stable, or when they break do so in a way that releases all of their contained mana at once. Unfortunately this is not always the case. Sometimes they... leak, and are considered too unstable to safely just destroy, this is particularly the case if their purpose is unknown. If they're made of old and degraded materials produced by magical plants or animals those must also be disposed of, if they cannot be repurposed as well."
+
+I looked behind him. Calling this place a copse was a rather generous use of that word. It had to be at least a few hundred acres if what I was seeing was right. I could see a few trees poking up above the walls. There were also a few questions running through my mind.
+
+"So... they just throw them in there then professor?" Asking was often the best way to learn things.
+
+"Not exactly Alana. Certain magical plants and fungi are grown around them which gradually leech the mana out. They are then used as materials for new items. The downside is that all of this mana in the environment tends to create monsters." That statement got a few looks from his class. "Now don't worry, this place is managed, so anything that does pop up in here is going to be small, or it'd have already been taken out. That said, there are a few smaller monsters in here that you lot will be sent in to hunt down. You'll also be on the lookout for certain magical substances that are useful. Once everyone is here we'll be dividing up into teams and each will be sent into a different section to see what they can. If anything does go wrong there will be several more experienced individuals, professors from our school, and trainers from the knight program, around."
+
+"Um... another question professor. What happens if a magical item is not properly disposed of?"
+
+"Most of the time? Nothing, maybe it makes a colony of some kind of mildly magical plant or glowing fungus. Sometimes though something nasty grows around it. Some of those magical plants can establish and grow beyond their normal bounds too, forming really dangerous areas and leading to much larger monsters. Ask Professor Hern if you want more details, or Professor Empia."
+
+I didn't know Professor Empia, but it was something to look into another time. For now though I could see more carriages arriving and others being unloaded and given a similar talk to ourselves. I recognized two different groups from our school. One was definitely most of the priests and bards I knew. The other I didn't really see any overriding group dynamic to. It was mostly wizards and a handful of priests though. All of them were dressed in a slightly lighter version of our protective gear.
+
+There was also another rather larger group disembarking. Of note on their side was their much, much heavier duty armor, along with the fact that they carried weapons. Their group as well seemed divided into two. One was much more heavily armored, wearing large steel plates that covered almost everything and carrying a sword and shield. The other seemed more lightly so, wearing mostly mail with inlaid plates and carrying a longsword and bow.
+
+Numbers were assigned randomly and we each met with our groups. As I approached I tried to gauge each of my teammates. There was a girl who was decidedly a priest. I was pretty sure she was a year above me and she was rather plain, with pitch black hair. We had a reedy looking boy, also from my school who I'd seen in General Spellcasting, but I'd never learned his name. The two knight apprentices were both boys, a tall, handsome lightly armored one with flowing blond locks, and a rather short and stocky one who looked rather like a turtle lumbering along on only its hind legs.
+
+"Hello everyone, I'm Etta, I'll be healing you if you get hurt during this excursion. Don't take that as an invitation to do stupid things though." She seemed... acidic, like someone who would help you only after telling you what an idiot you were.
+
+"Morning, I'm Glen. I'll be taking point." The turtle looking guy was rather short on words, but his voice was at least pleasant.
+
+"Wonderful to meet you all, I'm Ethbert. It'll be my pleasure to be taking out as many things as I can." He sounded... almost stereotypically like a haughty noble, guess looks weren't everything.
+
+"Oh... I'm Ean. I suppose I'm here to help identify anything we come across. I guess I'm good at knowing my plants and beasts..." Reedy boy seemed nice enough, if a little lacking in confidence.
+
+"Hi, I'm Alana. I suppose I'll be your combat caster. I do mostly illusions and weather magic, though the latter can be a bit slow to wind up. Don't suppose any of you have been in here before?"
+
+Only Etta had it seemed, and after a few questions we learned what to expect. It seemed there really wasn't too much, some birds and giant bugs, with the occasional mutated boar. The plants were what we'd really want to be on the lookout for though, as gathering them was our primary objective. To that end we'd need to go slow and be thorough with our work.
+
+After introductions the assembled instructors brought out a rather large map. The copse was laid out in something like a leaf pattern, with paths as the veins dividing the different sections. This made it easy enough to find a path and the edge of our area. Each group had one area, which we were expected to remain in for the duration of the exercises. When it was all over we'd be informed by a voice amplification spell over the entire area calling us back. Our main objective was to gather what we could from the area and get any experience in actual combat we could.
+
+"Any questions?" one of the instructors asked.
+
+"What do we do if something does go wrong?" One of the priests piped up, looking on thoughtfully.
+
+"If it is your group and you can get to a path, do so and retreat. If you cannot get to a path, send up some form of light spell and we'll investigate. If it's not your group, but you think another is in trouble stay within your area and keep yourselves safe until the issue is resolved."
+
+That seemed to be the only one anyone had. This was all rather straightforward, even for a student exercise, and I frankly suspected that the place was being a bit undersold.
+
+As the doors finally opened and our groups were let in one by one I breathed a sigh of relief. "At least it's not underground."
+
+"Claustrophobia?" Ean asked, rubbing his chin.
+
+"Not at all, just that every time I end up underground it all seems to go wrong." That got a laugh from my group.
