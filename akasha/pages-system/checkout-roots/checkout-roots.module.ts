@@ -9,7 +9,11 @@ export const checkoutRoots = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checkout is found by the `pages/repo` folder standing in the checkout.",
+      statement: "A checkout is found by a folder of repo pages inside the checkout.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The markdown repo pages folder is read where the akasha one is absent.",
     },
     {
       invariantKind: "stopgap",

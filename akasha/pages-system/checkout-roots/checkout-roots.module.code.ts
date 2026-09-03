@@ -3,14 +3,28 @@ import { dirname, resolve } from "node:path"
 import { fileURLToPath } from "node:url"
 import type { Repo } from "../pages/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "../pages/markdown-page-at/markdown-page-at.module.code.ts"
-import { pageNameOf } from "../pages/markdown-page-name/markdown-page-name.module.code.ts"
 import { canonicalize } from "../repo-path/repo-path.module.code.ts"
 
 export const AKASHA = "akasha"
 
-const REPO_PAGES = "pages/repo"
+const REPO_PAGES = "akasha/infrastructure/repos/pages"
+
+const MARKDOWN_REPO_PAGES = "pages/repo"
 
 const REPO_ENDING = "-repo"
+
+const PAGE_ENDINGS = [".ts", ".md"] as const
+
+function stemOf(name: string): string | null {
+  for (const ending of PAGE_ENDINGS) {
+    if (!name.endsWith(ending)) continue
+    const rest = name.slice(0, -ending.length)
+    const dot = rest.lastIndexOf(".")
+    if (dot <= 0 || dot === rest.length - 1) return null
+    return rest.slice(0, dot)
+  }
+  return null
+}
 
 function namedIn(at: string): readonly string[] {
   if (typeof readdirSync !== "function") {
@@ -26,17 +40,23 @@ function namedIn(at: string): readonly string[] {
     return []
   }
   for (const one of entries) {
-    const named = pageNameOf(one)
-    if (named === null) continue
-    if (!named.stem.endsWith(REPO_ENDING)) continue
-    found.add(named.stem.slice(0, -REPO_ENDING.length))
+    const stem = stemOf(one)
+    if (stem === null) continue
+    if (!stem.endsWith(REPO_ENDING)) continue
+    found.add(stem.slice(0, -REPO_ENDING.length))
   }
   return [...found].sort()
 }
 
+function namedUnder(root: string): readonly string[] {
+  const own = namedIn(`${root}/${REPO_PAGES}`)
+  if (own.length > 0) return own
+  return namedIn(`${root}/${MARKDOWN_REPO_PAGES}`)
+}
+
 function checkoutFrom(dir: string): string {
   let at = resolve(dir)
-  while (namedIn(`${at}/${REPO_PAGES}`).length === 0) {
+  while (namedUnder(at).length === 0) {
     const up = dirname(at)
     if (up === at) return resolve(dir, "..", "..")
     at = up
@@ -97,11 +117,12 @@ export function ownRepoRoot(): string {
 }
 
 function namedOnDisk(): readonly string[] {
-  const here = `${akashaHere()}/${REPO_PAGES}`
-  const own = namedIn(here)
+  const here = akashaHere()
+  const own = namedUnder(here)
   if (own.length > 0) return own
+  const at = `${here}/${REPO_PAGES}`
   throw new Error(
-    `${here} holds no \`*${REPO_ENDING}\` page, so nothing says which repositories there are`
+    `${at} holds no \`*${REPO_ENDING}\` page, so nothing says which repositories there are`
   )
 }
 
