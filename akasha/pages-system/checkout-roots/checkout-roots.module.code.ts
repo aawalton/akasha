@@ -9,21 +9,16 @@ export const AKASHA = "akasha"
 
 const REPO_PAGES = "akasha/infrastructure/repos/pages"
 
-const MARKDOWN_REPO_PAGES = "pages/repo"
-
 const REPO_ENDING = "-repo"
 
-const PAGE_ENDINGS = [".ts", ".md"] as const
+const PAGE_ENDING = ".ts"
 
 function stemOf(name: string): string | null {
-  for (const ending of PAGE_ENDINGS) {
-    if (!name.endsWith(ending)) continue
-    const rest = name.slice(0, -ending.length)
-    const dot = rest.lastIndexOf(".")
-    if (dot <= 0 || dot === rest.length - 1) return null
-    return rest.slice(0, dot)
-  }
-  return null
+  if (!name.endsWith(PAGE_ENDING)) return null
+  const rest = name.slice(0, -PAGE_ENDING.length)
+  const dot = rest.lastIndexOf(".")
+  if (dot <= 0 || dot === rest.length - 1) return null
+  return rest.slice(0, dot)
 }
 
 function namedIn(at: string): readonly string[] {
@@ -49,9 +44,7 @@ function namedIn(at: string): readonly string[] {
 }
 
 function namedUnder(root: string): readonly string[] {
-  const own = namedIn(`${root}/${REPO_PAGES}`)
-  if (own.length > 0) return own
-  return namedIn(`${root}/${MARKDOWN_REPO_PAGES}`)
+  return namedIn(`${root}/${REPO_PAGES}`)
 }
 
 function checkoutFrom(dir: string): string {

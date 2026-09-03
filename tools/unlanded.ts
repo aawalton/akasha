@@ -52,8 +52,8 @@ Usage:
 
 Flags:
   --repo <name>  Only the named repo's root. The repos there are to name are the ones with a
-                 page under \`pages/repo\`, and naming one that is not cloned here is refused
-                 rather than reported empty.
+                 page under \`akasha/infrastructure/repos/pages\`, and naming one that is
+                 not cloned here is refused rather than reported empty.
                  Omitted — which is how \`ops page unlanded\` runs it — every root the
                  journal holds is reported. That is the answer an operator wants: a landing
                  is lost per PROCESS, not per repo.

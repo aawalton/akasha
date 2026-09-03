@@ -45,13 +45,13 @@ function rootHere(): string {
   const at = mkdtempSync(join(tmpdir(), "observation-writer-test-"))
   roots.push(at)
   mkdirSync(join(at, ".git"), { recursive: true })
-  mkdirSync(join(at, "pages", "repo"), { recursive: true })
+  const repoPages = join(at, "akasha", "infrastructure", "repos", "pages")
+  mkdirSync(repoPages, { recursive: true })
   mkdirSync(join(at, "pages", "page-type"), { recursive: true })
   writeFileSync(
-    join(at, "pages", "repo", "akasha-repo.repo.md"),
-    `---\nid: b8152699-76bf-4933-ab6b-2dd8cc881a3b\npage-type-slug: repo\ntitle: "Akasha repo"\n` +
-      `slug: akasha-repo\n---\n\n# Definition\n\n` +
-      `- **Akasha repo** — the fixture checkout these tests write in.\n`
+    join(repoPages, "akasha-repo.repo.ts"),
+    `export const akashaRepo = {\n  pageTypeSlug: "repo",\n  slug: "akasha-repo",\n` +
+      `  definition: "the fixture checkout these tests write in",\n} as const\n`
   )
   writeFileSync(
     join(at, "pages", "page-type", `${PAGE_TYPE}.page-type.md`),
