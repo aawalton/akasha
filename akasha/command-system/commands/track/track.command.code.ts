@@ -32,6 +32,7 @@ import {
   mintedAt,
   openIn,
   type Row,
+  relationshipsFor,
   SESSION,
   START,
   saidFor,
@@ -89,6 +90,11 @@ export function track(argv: readonly string[], given: Given): Answer {
     return faults.length === 0 ? telling("") : mistaking(faults)
   }
 
+  const tagging = relationshipsFor(rest, given.root)
+  if (tagging !== null && tagging.read === "refused") return mistaking(tagging.refusals)
+  const tagged: { relationships?: readonly string[] } =
+    tagging === null ? {} : { relationships: tagging.ids }
+
   const open = openIn(rows)
   if (act === "amend") {
     const found = addressed(rest, rows, now)
@@ -99,7 +105,7 @@ export function track(argv: readonly string[], given: Given): Answer {
     const kept = typeof found.difficultyLevel === "string" ? found.difficultyLevel : undefined
     const changing: { safetyLevel?: string; difficultyLevel?: string } = { ...levels.levels }
     if (saidFor(rest, DIFFICULTY) === null) changing.difficultyLevel = kept
-    Object.assign(found, changing, { title })
+    Object.assign(found, changing, { title }, tagged)
     if (changing.difficultyLevel === undefined) delete found.difficultyLevel
     const faults = faultsIn(rows, held.page)
     if (faults.length > 0) return mistaking(faults)
@@ -209,12 +215,16 @@ export function track(argv: readonly string[], given: Given): Answer {
     const title = saidFor(rest, TITLE) ?? found.title
     const levels = levelsFor(rest, title, found, activities)
     if (levels.read === "refused") return mistaking(levels.refusals)
+    const carried = Array.isArray(found.relationships)
+      ? { relationships: found.relationships as readonly string[] }
+      : {}
     const next: Row = {
       id: mintedAt(now),
       title,
       startTime: reading.iso,
       dailyTracking: held.page,
       ...levels.levels,
+      ...(tagging === null ? carried : tagged),
     }
     if (found.endTime !== undefined) next.endTime = found.endTime
     found.endTime = reading.iso
@@ -244,6 +254,7 @@ export function track(argv: readonly string[], given: Given): Answer {
         startTime: ended,
         dailyTracking: held.page,
         ...levels.levels,
+        ...tagged,
       })
     }
     const faults = faultsIn(rows, held.page)
@@ -268,6 +279,7 @@ export function track(argv: readonly string[], given: Given): Answer {
       startTime: began,
       dailyTracking: held.page,
       ...levels.levels,
+      ...tagged,
     }
     if (act === "log") {
       const ended = saidFor(rest, END)

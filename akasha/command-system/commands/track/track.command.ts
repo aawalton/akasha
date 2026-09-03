@@ -36,6 +36,10 @@ export const track = {
       said: "--difficulty <level>",
       takes: "how hard the stretch was on him, from 0 to 5 in half steps",
     },
+    {
+      said: "--relationship <id|title>",
+      takes: "who the stretch was with, said again or parted by commas for several",
+    },
     { said: "--id <uuid>", takes: "the stretch to act on, named by the id that stretch carries" },
     { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
@@ -56,6 +60,7 @@ export const track = {
     "show prints each stretch's id in what it says to a reader, which is where an id to address by comes from.",
     "amend moves the stretches on either side to keep the day contiguous, and --leave-gap leaves them alone.",
     "drop leaves the gap it makes behind unless --mend is said.",
+    "--relationship names a relationship by its id or by its title, and amend replaces what a stretch carried rather than adding to it.",
     "a line handed to file opens with a wall time, carries the title next, and closes with the safety and the difficulty run together.",
     "each line handed to file ends where the line after it begins, and the last line of the set is left open.",
     "the lines handed to file are judged as a set and refused as a set, and a set that is sound lands as one commit.",
@@ -220,6 +225,26 @@ export const track = {
     {
       invariantKind: "departure",
       statement: "A `split` parts one stretch into two stretches at the time said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--relationship` names a relationship by its id or by its title.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A title no relationship carries is refused rather than written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A title more than one relationship carries is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An `amend` replaces what a stretch carried rather than adding to it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `split` carries the relationships of the stretch it parts.",
     },
     {
       invariantKind: "departure",

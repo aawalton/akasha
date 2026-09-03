@@ -8,6 +8,12 @@ import {
   readSafety,
 } from "../session-leveling/session-leveling.module.code.ts"
 
+export type RelationshipPage = { readonly id: string; readonly title: string }
+
+export type RelationshipsReading =
+  | { readonly read: "relationships"; readonly ids: readonly string[] }
+  | { readonly read: "refused"; readonly refusals: readonly string[] }
+
 export type LevelsReading =
   | { readonly read: "levels"; readonly levels: { safetyLevel?: string; difficultyLevel?: string } }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
@@ -17,6 +23,8 @@ export const SESSION = "session"
 export const DAYS_AT = "akasha/alan/tracking/daily/wake-days/pages"
 
 export const ACTIVITIES_AT = "akasha/alan/tracking/session-activities/pages"
+
+export const RELATIONSHIPS_AT = "akasha/alan/relating/relationships/pages"
 
 export const TITLE = "--title"
 export const AT = "--at"
@@ -33,8 +41,9 @@ export const DRY_RUN = "--dry-run"
 export const LEAVE_GAP = "--leave-gap"
 export const MEND = "--mend"
 export const FROM_FILE = "--from-file"
+export const RELATIONSHIP = "--relationship"
 
-export const VALUED = [TITLE, AT, START, END, DAY, SAFETY, DIFFICULTY, ID, FROM_FILE]
+export const VALUED = [TITLE, AT, START, END, DAY, SAFETY, DIFFICULTY, ID, FROM_FILE, RELATIONSHIP]
 
 export const BARE = [OPEN, LAST, JSON_SAID, DRY_RUN, LEAVE_GAP, MEND]
 
@@ -70,6 +79,8 @@ const KEYS = [
 ]
 
 const V7 = /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/
+
+const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
 
 const SAFETY_LOW = -2
 const SAFETY_HIGH = 5
@@ -140,6 +151,94 @@ export function activitiesIn(root: string): readonly ActivityDifficulty[] {
     held.push({ title: title[1], defaultDifficulty: Number(level[1]) })
   }
   return held
+}
+
+export function saidEachFor(argv: readonly string[], flag: string): readonly string[] {
+  const said: string[] = []
+  for (const [at, one] of argv.entries()) {
+    if (one !== flag) continue
+    const next = argv[at + 1]
+    if (next === undefined || next.startsWith("--")) continue
+    said.push(next)
+  }
+  return said
+}
+
+export function tokensIn(occurrences: readonly string[]): readonly string[] {
+  const held: string[] = []
+  for (const one of occurrences) {
+    for (const part of one.split(",")) {
+      const trimmed = part.trim()
+      if (trimmed !== "") held.push(trimmed)
+    }
+  }
+  return held
+}
+
+export function relationshipsIn(root: string): readonly RelationshipPage[] {
+  const at = join(root, RELATIONSHIPS_AT)
+  const held: RelationshipPage[] = []
+  for (const name of readdirSync(at)) {
+    let said: string
+    try {
+      said = readFileSync(join(at, name, `${name}.relationship.ts`), "utf8")
+    } catch {
+      continue
+    }
+    const id = /^\s*id:\s*"([0-9a-f-]{36})"/m.exec(said)
+    const title = /^\s*title:\s*"([^"]+)"/m.exec(said)
+    if (id?.[1] === undefined || title?.[1] === undefined) continue
+    held.push({ id: id[1], title: title[1] })
+  }
+  return held
+}
+
+export function idsForTokens(
+  tokens: readonly string[],
+  pages: readonly RelationshipPage[]
+): RelationshipsReading {
+  const byTitle = new Map<string, string[]>()
+  for (const one of pages) {
+    const key = one.title.toLowerCase()
+    const held = byTitle.get(key)
+    if (held === undefined) byTitle.set(key, [one.id])
+    else held.push(one.id)
+  }
+  const refusals: string[] = []
+  const seen = new Set<string>()
+  const ids: string[] = []
+  for (const token of tokens) {
+    let id: string | null = null
+    if (UUID.test(token)) {
+      const said = token.toLowerCase()
+      if (V7.test(said)) id = said
+      else refusals.push(`${token} is no uuid version 7, so no relationship carries it`)
+    } else {
+      const found = byTitle.get(token.toLowerCase()) ?? []
+      if (found.length === 0) refusals.push(`no relationship is titled ${token}`)
+      else if (found.length > 1) {
+        refusals.push(
+          `${token} titles ${String(found.length)} relationships, so name one by its id`
+        )
+      } else id = found[0] ?? null
+    }
+    if (id === null || seen.has(id)) continue
+    seen.add(id)
+    ids.push(id)
+  }
+  if (refusals.length > 0) return { read: "refused", refusals }
+  return { read: "relationships", ids }
+}
+
+export function relationshipsFor(
+  argv: readonly string[],
+  root: string
+): RelationshipsReading | null {
+  const occurrences = saidEachFor(argv, RELATIONSHIP)
+  if (occurrences.length === 0) return null
+  const tokens = tokensIn(occurrences)
+  const named = tokens.some((one) => !UUID.test(one))
+  return idsForTokens(tokens, named ? relationshipsIn(root) : [])
 }
 
 export function heldFor(root: string, day: string): Held | string {

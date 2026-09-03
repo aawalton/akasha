@@ -36,6 +36,14 @@ export const sessionRows = {
       statement: "Every fault a day carries is reported rather than the first alone.",
     },
     {
+      invariantKind: "departure",
+      statement: "A relationship is named by its id or by the title its page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relationship reading answers with the ids or with what refused them.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
     },
