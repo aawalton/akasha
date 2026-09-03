@@ -1,0 +1,78 @@
+Chapter 036A Battle of Minds
+
+Eventually, the month-long recuperation period came to an end. Zorian spent the last few hours of that restart with Kirielle, attending Cirin’s own celebration of the summer festival. Kirielle was very happy with him, because apparently she was never allowed to wander around or stay up so late during the previous festivals. He didn’t really reciprocate her excitement, to he honest – Cirin’s summer festival was the same as it was every year: incredibly dull. He found himself almost wishing for Ibasan invaders to make an appearance, just to liven the place up a bit.
+
+Okay, no. No, he didn’t. The whole thing was still very boring – that’s what he meant.
+
+Regardless, with the beginning of the new restart (initiated by the familiar feeling of Kirielle jumping on top of him to wake him up), he was ready to once again tackle the problem of contacting the aranea and getting them to teach him mind magic. It didn’t work all too well last time, but he had a whole month to consider what went wrong and how to fix it and he was willing to give it another go. Though not immediately, of course – teleporting to the nearest aranean web right from the start would be stupid. He had no intention of getting anywhere near one until he had already tested some tactics and equipped himself accordingly. Consequently, he started the restart in the same way he had started most of the previous ones: by going to Knyazov Dveri.
+
+He did two things before anything else after entering the town. First, he descended into the local dungeon to pick up all the mana crystals he knew the location of… though he didn’t sell a single one in the Delver Village, or even the town above, so hopefully there would be no uproar and spying attempts on him this time around. Secondly, he saved both Alanic and Lukav from the assassins - even though he had no intention of pursuing lessons from Alanic in this restart. One of his reasons was purely emotional – both men had helped him a lot, and it felt wrong to let them die when he was already there, capable of preventing their deaths, even if it was meaningless in the long term – but the other reason was that saving them gave him some relatively non-threatening combat practice. He knew he could defeat the undead boars trying to ambush Lukav and the attack party assaulting Alanic’s temple without dying, but they were still life-and-death battles that he had to take seriously.
+
+One of these days, when he finally got some mind magic expertise from the aranea, he was going to capture the two mages involved in the assault on Alanic’s temple and trawl through their memories to see if they knew anything important. Maybe some of the gunmen too…
+
+But he was getting ahead of himself. No counting his chickens before they hatch – better worry about actually learning said mind magic before thinking about what he would do once he had it.
+
+The first and most obvious problem he had to tackle was what to do if things went wrong again. No matter what precautions he decided to take, there was always a possibility he would bite off more than he could chew or end up caught off-guard. Technically, he had his suicide rings for that, but there was one thing that struck him about his altercation with the Sword Divers – how slow he had been about activating them. He should have blown himself up the moment it became obvious that the situation had become hopeless, instead of waiting for the last possible moment like he had. He could think up a lot of excuses for himself, but at the end it all came down to one simple fact: he didn’t want to die. He had a powerful survival instinct, and it was not easy for him to consciously kill himself… even if he knew, on an intellectual level, that it wouldn’t be permanent. Thus, he had waited until he was absolutely sure he wasn’t getting out of that situation alive and intact, and it had almost cost him everything.
+
+All things considered, Zorian didn’t want to become jaded, accustomed to dying and suicide – that seemed a bad attitude to have, especially once he left the time loop. That left two main ways he could see to deal with the problem. One was to set up a bunch of contingencies into his suicide rings, allowing them to activate automatically in certain cases. Another was to have more options to choose from when faced with disaster – something other than ‘fight to the death or kill yourself’. A retreat option.
+
+Contingencies sounded like a good idea, and Zorian even had some experience making them thanks to his studying of warding – a discipline that made heavy use of contingencies to determine when it should activate particular defenses. Unfortunately, most warding schemes used relatively easy-to-define triggers such as ‘a human touches the object’ or ‘a living being not keyed into the wards enters the area’… defining a trigger for a contingency that would kill him should his mind be tampered with but wouldn’t activate the moment he engaged in telepathic communication of any sort or hit his head or became dizzy or a million other things which were beyond him at the moment. Even if he could make such a thing, he would still have to exhaustively test it to make sure it was reliable… by working with a friendly aranea. Which, uh, kind of made it useless for his current needs.
+
+So he cheated. Instead of creating a nuanced, sophisticated contingency, he made the metaphorical equivalent of a sledgehammer. Specifically, he made a contingency that would kill him the moment he lost consciousness or suffered a sufficiently strong headache… but only if he turned it on. It would normally stay dormant, to cut down on unwanted activations, but he could activate it on a moment’s notice if he found himself in a dangerous situation. He wasn’t terribly happy with that solution, but it would do for now. He just had to remember to turn it off once the danger had passed, lest he explode the next time he went to sleep. That would be so very embarrassing…
+
+That being done, he turned his attention to the retreat option. He had considered everything from talking to Lukav about transforming into a rock worm or some other tunneling creature, alteration spells that would allow him to create his own paths and sanctuaries underground, phasing magic, haste spells, and more. But ultimately, his mind kept going back to teleportation. It was the ultimate form of mobility magic, and everything else was just a poor substitute. If he could somehow bypass Dungeon interference to teleport away, he could simply avoid ambushes like the ones the Sword Divers had used against him instead of resorting to suicide in order to evade capture.
+
+Fortunately, during the month-long recuperation, Zorian had come up with an idea of how he could side-step his current limitation as far as teleportation was concerned. Which was why, before descending into the dungeon, he turned one of the large stones he found on the outskirts of Knyazov Dveri into a recall anchor.
+
+The recall spell was outright made specifically for quick retreats, and the link forged between the caster and the anchor ensured they could teleport out even from areas warded against teleportation. Well, so long as the wards were basic ones, since those protections simply disrupted the targeting part of the teleport rather than inhibiting dimensional warping as such. Consequently, Zorian had a feeling the spell would work to yank him back to the anchor, even through the Dungeon interference.
+
+He was right… sort of. He had found that past a certain depth, the strain on the link became too much and it snapped. Before that happened, however, the spell worked flawlessly, allowing Zorian to quickly teleport away to the surface. The depth past which it ceased to work was too shallow for his liking, but he was confident he could strengthen the link. Over the next couple of days, he worked to combine several marking spells and his knowledge of spell formula in order to create a stronger anchor for the recall spell – one that would allow it to power through any amount of rock and Dungeon interference. He was largely successful in this, though the anchor object had to be pretty large to contain the final spell formula he designed. No matter, there was no need to make the anchor particularly portable for what he had in mind.
+
+Satisfied that both of his projects bore fruit, Zorian spent the rest of the week creating various portable traps and magic items… including a more combat-worthy version of his wooden golem. Golems, having no minds, were almost entirely immune to aranean mind magic, and Zorian intended to bring one with him under the explanation that it was his helper and luggage carrier. Partially true, since the golem he’d made wasn’t exactly the mobile wardstone and murder statue that professional war golems were… but in the end it was still a painfully obvious bodyguard construct and Zorian fully expected the aranea to recognize it as such. Having such a guardian trailing behind him was bound to make even the most opportunistic aranea think twice about going after him.
+
+Or at least he hoped so. He also hoped they wouldn’t feel too threatened by the construct, since they might simply refuse to talk to him at all if it made them too nervous around him...
+
+Well, no matter. He would risk it. Gathering all of his equipment, he teleported himself and his golem to the one aranean colony that had been friendly to him the last time around. It was time to pay the Illustrious Gem Collectors a visit.
+
+- break -
+
+The last time Zorian had visited the aranean web that called itself Illustrious Gem Collectors, he found a colony that specialized in harvesting various precious stones that were abundant in their local underworld and traded them to the nearby human village in exchange for various human-produced goods. They were miners, essentially. They informed him straight away that they had agreed not to trade with any humans except the ones at the village, but gave him the locations of five other webs that might be more willing to help him. Since his main goal had been to locate as many aranean webs as possible and sound them out, Zorian had accepted this explanation at face value and moved on. However, after thinking about it for a while, he realized he had been kind of stupid. Just because they couldn’t trade with him didn’t mean they couldn’t receive gifts. He should have given them one – aside from the fact they may have been even more helpful if he had done so, there was also a chance they immediately alerted the webs they sent him to about his coming. In which case he definitely wanted them to put in a good word for him, which would be far more likely if he were handing out gifts to every group he visited.
+
+Hell, he even had a perfect gift for them. Although he cashed in on a lot of the crystallized mana he found in Knyazov Dveri’s local underworld, he left a fair amount for his own tinkering and for situations like this. He was pretty sure the Illustrious Gem Collectors would have no problems accepting a gift of crystallized mana, since they traded similar items to the village all the time and it would not be in the least bit suspicious of them to have a couple of mana crystals in their possession.
+
+Zorian entered the tunnels that held the Gem Collectors’ colony and contacted the nearest sentry in the manner shown to him by the web’s matriarch during his last visit. If the web found it in any way unusual that a human knew how to properly greet them and ask for audience, they never mentioned it. Instead he was soon presented with the web’s matriarch, She Who Eats Fire and Sees Gold, and her escort of 10 other aranea. Huh, two more guards than the last time… apparently having his golem trail after him did have an effect. Still, while the matriarch was noticeably more nervous around him this time, she did not act outraged at his addition and she gave him essentially the same speech she had the last time around. They were honored by the visit, but they had prior commitments and agreements and couldn’t deal with him so here’s a bunch of other webs he could pester for help instead. Only this time they gave him eight names instead of five. Aside from the Rose Labyrinth Dwellers, Yellow Cavern Guardians, Filigree Sages, River Navigators and Luminous Advocates that he’d already known about, she also gave him the location of the Talisman Bearers, Ghost Serpent Acolytes and Silent Doorway Adepts. Strange. Why the extra information this time around?
+
+[Is there something special about those last three webs?] he asked.
+
+[Ah, so you have heard of them then?] the matriarch said, making her own conclusions about his question. [Yes, they are a bit… shady in their dealings with others, human and aranea alike. I wouldn’t normally send a young mage like you to webs like theirs, but you seem like someone who can take care of himself.]
+
+She gave his golem a significant look.
+
+[He’s just my luggage carrier,] Zorian said.
+
+[Of course he is,] the matriarch said, a touch of amusement embedded in her telepathic message. [I’m sure those glyphs on its surface are purely aesthetic too. Leaving that aside, is there anything else we could do for you?]
+
+[You have done more than I could have possibly hoped for, honored matriarch,] Zorian answered honestly.
+
+He beckoned the golem to come closer and pulled out a box from the backpack it was carrying, pointedly ignoring the wave of tension that rippled throughout the assembled aranea at the action. He then opened the box, revealing several pieces of crystalized mana and placed it in front of the matriarch.
+
+[Please,] he said. [Take this as a small token of my appreciation for your help.]
+
+The matriarch stared at the box without a word for several seconds before becoming agitated. No, wait, she was just trying to mimic shaking her head with her entire body.
+
+[I cannot accept this,] she protested.
+
+Zorian frowned. [Surely the village leadership isn’t so insistent about your trade agreement as to keep you from accepting gifts?]
+
+[It is not that! Your gift – it is simply too generous,] the matriarch said. [It’s too much.]
+
+[I respectfully disagree,] said Zorian firmly. [You were amicable and honest with me, and you told me where to go even if you could not help me yourself. You’ve most likely saved me months of searching by telling me where I can find more webs. I feel this is the least I can do for wasting your time with this meeting.]
+
+The matriarch remained silent after that. After a while, Zorian figured she was not going to say anything and that this was effectively the end of their meeting.
+
+[In any case, I suppose it’s time for me to leave,] Zorian said. [Until we meet a-]
+
+[Wait,] the matriarch said, interrupting his farewell. [One of the webs I told you about. The Luminous Advocates.]
+
+[Yes?] asked Zorian curiously.
+
