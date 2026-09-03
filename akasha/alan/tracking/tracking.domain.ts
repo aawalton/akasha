@@ -9,6 +9,7 @@ export const tracking = {
     "domain/tracking-capture",
     "domain/tracking-daily",
     "page-type/food-entry",
+    "page-type/location-trace",
     "page-type/session-activity",
     "page-type/to-do",
   ],

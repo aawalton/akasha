@@ -62,6 +62,8 @@ export const alanHarness = {
     "workspace-package/rules-engine",
     "domain/alanwalton-ios-notification",
     "domain/money",
+    "page-type/calendar-event",
+    "page-type/calendar-event-source",
   ],
   invariants: [
     {
