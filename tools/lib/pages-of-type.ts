@@ -12,9 +12,10 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
  *
  * Both of these used to answer `[]` for either case, so a page type that had been renamed, moved
  * or never declared came back from `documentsOfType` looking exactly like a page type with no
- * pages yet. `tools/audits/persona-values.ts` is the one caller, and it would then have judged
- * every persona against nothing and said so only as the figure `0 page(s)` inside its own summary
- * line — a check reporting itself clean over a folder it never opened.
+ * pages yet. The one caller then was the persona-values check, which would have judged every
+ * persona against nothing and said so only as the figure `0 page(s)` inside its own summary line
+ * — a check reporting itself clean over a folder it never opened. That check went with the rest
+ * of `tools/audits/`, so nothing calls this today.
  */
 export function placesFor(roots: Roots, repo: string, slug: string): readonly string[] {
   const type = registryOf(diskFileTree(roots)).find((one) => one.slug === slug)

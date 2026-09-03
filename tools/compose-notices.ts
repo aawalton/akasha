@@ -11,9 +11,9 @@ const NOTICE_DEPTH = 2
 const HELP = `bun tools/compose-notices.ts — render what a seat is told when it is put back to work
 
 Every notice in \`${DOCUMENT}\`, as a JSON object of notice name to composed text. Callers
-ask for them by name, so a section renamed here is a notice one of them no longer finds;
-\`tools/audits/resume-notices.ts\` is what says so before a fleet meets it, for the names the
-supervisor asks for.
+ask for them by name, so a section renamed here is a notice one of them no longer finds.
+Nothing says so before a fleet meets it: the check that did, \`tools/audits/resume-notices.ts\`,
+went with the rest of that orphaned folder and has no successor yet.
 
 Wrapping is the author's convenience and not part of the text: the lines of a paragraph
 are joined with a space, and a blank line between paragraphs survives as one.
