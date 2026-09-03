@@ -4,7 +4,8 @@ export const headscale = {
   id: "01a06812-2380-7204-bb6c-c05c012bbf72",
   pageTypeSlug: "cluster-service",
   slug: "headscale",
-  definition: "the coordination server for the private network",
+  definition:
+    "the server admitting a machine to the private network and telling it where the others are",
   resourceKind: "StatefulSet",
   namespace: "headscale",
   resourceName: "headscale",

@@ -4,7 +4,7 @@ export const buildkitPrune = {
   id: "01a06812-237f-75a4-8884-ae6155609bc3",
   pageTypeSlug: "cluster-service",
   slug: "buildkit-prune",
-  definition: "the weekly job that clears the builder's cache",
+  definition: "the job that clears build cache the builder is no longer using",
   resourceKind: "CronJob",
   namespace: "buildkit",
   resourceName: "buildkit-prune",
