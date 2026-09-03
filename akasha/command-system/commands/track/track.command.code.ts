@@ -30,14 +30,16 @@ export const OPEN = "--open"
 export const LAST = "--last"
 export const JSON_SAID = "--json"
 export const DRY_RUN = "--dry-run"
+export const LEAVE_GAP = "--leave-gap"
+export const MEND = "--mend"
 
 const VALUED = [TITLE, AT, START, END, DAY, SAFETY, DIFFICULTY, ID]
 
-const BARE = [OPEN, LAST, JSON_SAID, DRY_RUN]
+const BARE = [OPEN, LAST, JSON_SAID, DRY_RUN, LEAVE_GAP, MEND]
 
 const ACTS = ["open", "switch", "close", "log", "amend", "drop", "split", "show", "file", "check"]
 
-const UNBUILT = ["drop", "split", "file"]
+const UNBUILT = ["file"]
 
 const KEYS = [
   "id",
@@ -348,11 +350,64 @@ export function track(argv: readonly string[], given: Given): Answer {
     const title = valueOf(rest, TITLE) ?? found.title
     const levels = levelsFor(rest, title, found, activities)
     if (Array.isArray(levels)) return mistaking(levels)
-    Object.assign(found, levels, { title })
+    const kept = typeof found.difficultyLevel === "string" ? found.difficultyLevel : undefined
+    const changing: { safetyLevel?: string; difficultyLevel?: string } = { ...levels }
+    if (valueOf(rest, DIFFICULTY) === null) changing.difficultyLevel = kept
+    Object.assign(found, changing, { title })
+    if (changing.difficultyLevel === undefined) delete found.difficultyLevel
     const faults = faultsIn(rows, held.page)
     if (faults.length > 0) return mistaking(faults)
     if (rest.includes(DRY_RUN)) return telling(shownOf([found]))
     return landed(held, rows, `Amend ${title} on ${day}`, given)
+  }
+
+  if (act === "drop") {
+    const found = addressed(rest, rows, now)
+    if (typeof found === "string") return mistaking([found])
+    const at = rows.indexOf(found)
+    const before = at > 0 ? rows[at - 1] : undefined
+    rows.splice(at, 1)
+    if (rest.includes(MEND) && before !== undefined) {
+      if (found.endTime === undefined) delete before.endTime
+      else before.endTime = found.endTime
+    }
+    const faults = faultsIn(rows, held.page)
+    if (faults.length > 0) return mistaking(faults)
+    if (rest.includes(DRY_RUN)) return telling(shownOf(rows))
+    return landed(held, rows, `Drop ${found.title} on ${day}`, given)
+  }
+
+  if (act === "split") {
+    const found = addressed(rest, rows, now)
+    if (typeof found === "string") return mistaking([found])
+    const said = valueOf(rest, AT)
+    if (said === null) return mistaking([`${AT} names the time the stretch is parted at`])
+    const reading = readMountainWallTime(said, now)
+    if (reading.read === "refused") return mistaking([reading.saying])
+    const parted = reading.at.getTime()
+    const from = new Date(found.startTime).getTime()
+    const to =
+      found.endTime === undefined ? Number.POSITIVE_INFINITY : new Date(found.endTime).getTime()
+    if (parted <= from || parted >= to) {
+      return mistaking([`${said} falls outside the stretch this parts`])
+    }
+    const title = valueOf(rest, TITLE) ?? found.title
+    const levels = levelsFor(rest, title, found, activities)
+    if (Array.isArray(levels)) return mistaking(levels)
+    const next: Row = {
+      id: mintedAt(now),
+      title,
+      startTime: reading.iso,
+      dailyTracking: held.page,
+      ...levels,
+    }
+    if (found.endTime !== undefined) next.endTime = found.endTime
+    found.endTime = reading.iso
+    rows.splice(rows.indexOf(found) + 1, 0, next)
+    const faults = faultsIn(rows, held.page)
+    if (faults.length > 0) return mistaking(faults)
+    if (rest.includes(DRY_RUN)) return telling(shownOf([found, next]))
+    return landed(held, rows, `Split ${found.title} on ${day}`, given)
   }
 
   if (act === "close" || act === "switch") {
