@@ -254,8 +254,9 @@ function annualDumpSteps(skipCheck: readonly string[]): readonly Step[] {
     {
       ...buildkitBuild({
         name: "postgres-annual-dump-build-image",
-        context: "infra/k8s-postgres-annual-dump",
-        dockerfile: "infra/k8s-postgres-annual-dump",
+        context: "akasha/infrastructure/postgres-annual-dump",
+        dockerfile: "akasha/infrastructure/postgres-annual-dump/postgres-annual-dump-image",
+        filename: "Containerfile",
         tag: ANNUAL_DUMP_IMAGE_TAG,
         cache: false,
       }),
@@ -272,7 +273,7 @@ function annualDumpSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-annual-dump/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f akasha/infrastructure/postgres-annual-dump/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
