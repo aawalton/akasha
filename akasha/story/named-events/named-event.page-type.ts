@@ -2,24 +2,24 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Seq } from "../../alan/tracking/daily/wake-days/properties/seq.number-property.ts"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
-import type { Aliases } from "./properties/aliases.text-property.ts"
+import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+import type { EventAliases } from "./properties/event-aliases.text-property.ts"
+import type { EventFirstChapter } from "./properties/event-first-chapter.number-property.ts"
+import type { EventLastChapter } from "./properties/event-last-chapter.number-property.ts"
 import type { EvidenceBeat } from "./properties/evidence-beat.number-property.ts"
 import type { EvidenceChapter } from "./properties/evidence-chapter.text-property.ts"
 import type { EvidenceNote } from "./properties/evidence-note.text-property.ts"
-import type { FirstChapter } from "./properties/first-chapter.number-property.ts"
-import type { LastChapter } from "./properties/last-chapter.number-property.ts"
 import type { NamedEventKind } from "./properties/named-event-kind.select-property.ts"
-import type { WorldSlug } from "./properties/world-slug.relation-property.ts"
 
 export type NamedEvent = Page & {
   title: Title
-  aliases?: readonly Aliases[]
+  aliases?: readonly EventAliases[]
   evidenceBeat: EvidenceBeat
   evidenceChapter: EvidenceChapter
   evidenceNote: EvidenceNote
-  firstChapter?: FirstChapter
+  firstChapter?: EventFirstChapter
   namedEventKind: NamedEventKind
-  lastChapter?: LastChapter
+  lastChapter?: EventLastChapter
   seq: Seq
   worldSlug: WorldSlug
 }
@@ -33,23 +33,23 @@ export const namedEvent = {
   extendsSlug: "page-type/page",
   partSlugs: [
     "number-property/evidence-beat",
-    "number-property/first-chapter",
-    "number-property/last-chapter",
+    "number-property/event-first-chapter",
+    "number-property/event-last-chapter",
     "relation-property/world-slug",
     "select-property/named-event-kind",
-    "text-property/aliases",
+    "text-property/event-aliases",
     "text-property/evidence-chapter",
     "text-property/evidence-note",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "aliases", required: false, many: true, max: null },
+    { pagePropertySlug: "event-aliases", required: false, many: true, max: null },
     { pagePropertySlug: "evidence-beat", required: true, many: false },
     { pagePropertySlug: "evidence-chapter", required: true, many: false },
     { pagePropertySlug: "evidence-note", required: true, many: false },
-    { pagePropertySlug: "first-chapter", required: false, many: false },
+    { pagePropertySlug: "event-first-chapter", required: false, many: false },
     { pagePropertySlug: "named-event-kind", required: true, many: false },
-    { pagePropertySlug: "last-chapter", required: false, many: false },
+    { pagePropertySlug: "event-last-chapter", required: false, many: false },
     { pagePropertySlug: "seq", required: true, many: false },
     { pagePropertySlug: "world-slug", required: true, many: false },
   ],
