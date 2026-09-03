@@ -1,5 +1,5 @@
 import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
-import { partedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn, sectionedIn } from "@akasha/pages-system/page-file-name"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   FILES,
@@ -15,6 +15,8 @@ export const MARKUP_CEILING = 128 * 1024
 
 export const PROSE_CEILING = 128 * 1024
 
+export const WHOLE_PROSE_CEILING = 512 * 1024
+
 const TEST = "test"
 
 const ENTRIES = "jsonl"
@@ -27,6 +29,8 @@ const PROSE = "md"
 
 const TEXT = "txt"
 
+const WHOLE_PROSE = "prose"
+
 const TEST_RELIEF =
   "a module carries one test, and what sets it up stands beside it in `test-fixtures`"
 
@@ -37,10 +41,14 @@ const PROSE_RELIEF =
   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
 
 function ceilingFor(path: string): number {
-  const held = partedIn(path)?.held
+  const said = partedIn(path)
+  if (said === null) return CEILING
+  const held = said.held
   if (held === ENTRIES || held === RECORDS) return ENTRY_CEILING
   if (held === MARKUP) return MARKUP_CEILING
-  if (held === PROSE || held === TEXT) return PROSE_CEILING
+  if (held === PROSE || held === TEXT) {
+    return sectionedIn(said)?.propertySlug === WHOLE_PROSE ? WHOLE_PROSE_CEILING : PROSE_CEILING
+  }
   return CEILING
 }
 

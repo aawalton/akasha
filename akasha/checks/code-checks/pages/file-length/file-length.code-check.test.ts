@@ -6,6 +6,7 @@ import {
   MARKUP_CEILING,
   PROSE_CEILING,
   reasonsIn,
+  WHOLE_PROSE_CEILING,
 } from "./file-length.code-check.code.ts"
 
 const ROOT = "/repo"
@@ -153,4 +154,37 @@ test("prose over its own ceiling is refused, and the refusal names what dividing
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("131,072 byte ceiling")
   expect(said[0]).toContain("hides all but the first")
+})
+
+const WHOLE = "akasha/one.story-chapter-read.prose.txt"
+
+const PART = "akasha/one.story-chapter-read.prose.part2.txt"
+
+const OTHER = "akasha/one.book-chapter.chapter-text.md"
+
+test("the whole prose of a page is held wider than other prose, because dividing it is what hid it", () => {
+  expect(reasonsIn(given(WHOLE, sized(PROSE_CEILING + 1)))).toEqual([])
+  expect(reasonsIn(given(WHOLE, sized(WHOLE_PROSE_CEILING)))).toEqual([])
+})
+
+test("prose over the widest ceiling is refused, and the refusal names what dividing it costs", () => {
+  const said = reasonsIn(given(WHOLE, sized(WHOLE_PROSE_CEILING + 1)))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("524,288 byte ceiling")
+  expect(said[0]).toContain("hides all but the first")
+})
+
+test("a part of a prose file is held to the same wide ceiling, so dividing one buys nothing", () => {
+  expect(reasonsIn(given(PART, sized(PROSE_CEILING + 1)))).toEqual([])
+  expect(reasonsIn(given(PART, sized(WHOLE_PROSE_CEILING + 1)))).toHaveLength(1)
+})
+
+test("prose under another property keeps the narrower ceiling, so the wider one reaches `prose` alone", () => {
+  expect(reasonsIn(given(OTHER, sized(PROSE_CEILING)))).toEqual([])
+  expect(reasonsIn(given(OTHER, sized(PROSE_CEILING + 1)))).toHaveLength(1)
+})
+
+test("the widest prose ceiling is wider than markup and narrower than an entry file", () => {
+  expect(WHOLE_PROSE_CEILING).toBeGreaterThan(PROSE_CEILING)
+  expect(WHOLE_PROSE_CEILING).toBeLessThan(ENTRY_CEILING)
 })
