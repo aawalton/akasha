@@ -1,11 +1,11 @@
 import { shape } from "@tools/lib/shape"
-import type { IdleRuleSource } from "@tools/lib/supervisor-idle-rule"
 import { readProcessStartMs } from "@tools/lib/supervisor-precliff-restart"
 import type { armDeferredRestart } from "../supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type {
   DeferredRestartRuleSource,
   DeferredRestartWindows,
 } from "../supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import type { IdleRuleSource } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 export interface IdleGateConfig {
   interruptMessage: string | null

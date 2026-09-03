@@ -1,10 +1,4 @@
 import { readTranscriptMtimeMs } from "@tools/lib/agent-io-probe"
-import { observeBusyChildDetails, observeIdle } from "@tools/lib/supervisor-idle-observe"
-import type {
-  BusyChildDetail,
-  IdleObservation,
-  IdleRuleSource,
-} from "@tools/lib/supervisor-idle-rule"
 import {
   busyTrail,
   logPastCliffOverride,
@@ -16,6 +10,15 @@ import type {
   DeferredRestartState,
 } from "../supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import {
+  observeBusyChildDetails,
+  observeIdle,
+} from "../supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
+import type {
+  BusyChildDetail,
+  IdleObservation,
+  IdleRuleSource,
+} from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 const TICK_MS = 10_000
 

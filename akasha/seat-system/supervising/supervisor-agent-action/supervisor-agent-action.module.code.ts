@@ -1,4 +1,3 @@
-import type { IdleRuleSource } from "@tools/lib/supervisor-idle-rule"
 import { buildIdleGateArm } from "../supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"
 import {
   clearBeforeSigterm,
@@ -12,6 +11,7 @@ import type {
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import { armDeferredRestart } from "../supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type { DeferredRestartRuleSource } from "../supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import type { IdleRuleSource } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 export function buildAgentActionSubsystem(opts: {
   killProc: () => void

@@ -1,6 +1,5 @@
 import { rotatedOf } from "@tools/lib/seat-rotated-session"
 import { claimSeatSupervision } from "@tools/lib/seat-supervisor-claim"
-import { clearSeatRotation } from "@tools/lib/supervisor-heartbeat-beat"
 import { type ClearRebindHooks, performClearRebind } from "@tools/lib/supervisor-rebind"
 import type { ClearRebindDeps } from "@tools/lib/supervisor-rebind-deps"
 import { watchSeatRotation } from "@tools/lib/supervisor-rotation-watch"
@@ -12,6 +11,7 @@ import type { AgentIdHandle } from "@tools/lib/supervisor-self-identity"
 import { setRestoreConsoleHandle } from "@tools/lib/supervisor-state"
 import type { AgentProcess } from "@tools/lib/supervisor-types"
 import type { buildAgentLogRedirect } from "../supervisor-console/supervisor-console.module.code.ts"
+import { clearSeatRotation } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
 export function wireSessionRotatedWatcher(args: {
   selectedAccount: string

@@ -1,4 +1,7 @@
-import type { IdleObservation, IdleRuleSource } from "@tools/lib/supervisor-idle-rule"
+import type {
+  IdleObservation,
+  IdleRuleSource,
+} from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 export interface BoundedIdleReading {
   idle: boolean
