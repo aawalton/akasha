@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const llmSimilarity = {
   id: "01a06594-c67a-7019-868c-cb32cdba5300",
