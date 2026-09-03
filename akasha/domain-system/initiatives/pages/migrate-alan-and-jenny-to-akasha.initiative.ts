@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "18 modules landed. The hinge `command-server-client` is IN at cb7cbb64c5 and unblocks 44 of the rest. The landing formatter sorts import members and reports only that it reformatted — check the wire key survived each time. ZERO import cycles (718e4f2b3d) and ZERO class blockers (6ccb189fc9, bf3ebc59d0; 14 tests hold). Left: 13 void-return sites and ~558 comments to triage into 6 to 12 invariants per module. Next is `harness-call.ts`, then wave 3.",
+        "20 modules landed. Hinge `command-server-client` is IN (cb7cbb64c5) unblocking 44 files. ZERO import cycles and ZERO class blockers. `observation-writer` got a host-crash mend (1456c8a32e): an ask in the same tick as a dispose killed the extension host — bun hides it and node shows it so test that path under node. Drafts ready to land sit in /tmp/amy-assemble, /tmp/amy-writer-main, /tmp/amy-smalls, /tmp/amy-seat3. Do NOT rename the pid-and-start-time type: its term page's kept sense covers it.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
