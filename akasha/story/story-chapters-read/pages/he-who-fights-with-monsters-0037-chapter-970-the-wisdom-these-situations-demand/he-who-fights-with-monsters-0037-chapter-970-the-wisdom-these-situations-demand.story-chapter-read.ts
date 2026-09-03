@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0037Chapter970TheWisdomTheseSituationsDemand
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0037-chapter-970-the-wisdom-these-situations-demand",
   title: "Chapter 970: The Wisdom These Situations Demand",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 37,
   ownLength: 2939,
   ownProgress: 2939,

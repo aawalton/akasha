@@ -5,7 +5,7 @@ export const motherOfLearning005757Unwanted = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0057-57-unwanted",
   title: "57. Unwanted",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 57,
   ownLength: 6090,
   ownProgress: 6090,

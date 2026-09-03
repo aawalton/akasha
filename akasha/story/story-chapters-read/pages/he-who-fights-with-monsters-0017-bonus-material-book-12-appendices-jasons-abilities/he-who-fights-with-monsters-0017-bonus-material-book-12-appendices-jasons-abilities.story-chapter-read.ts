@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0017BonusMaterialBook12AppendicesJasonsAbili
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0017-bonus-material-book-12-appendices-jasons-abilities",
   title: "Bonus Material: Book 12 Appendices, Jasons Abilities",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 17,
   ownLength: 1750,
   ownProgress: 1750,

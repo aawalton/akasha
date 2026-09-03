@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0043Chapter976HowMuchPunishmentTheyCouldLive
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0043-chapter-976-how-much-punishment-they-could-live-through",
   title: "Chapter 976: How Much Punishment They Could Live Through",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 43,
   ownLength: 3442,
   ownProgress: 3442,

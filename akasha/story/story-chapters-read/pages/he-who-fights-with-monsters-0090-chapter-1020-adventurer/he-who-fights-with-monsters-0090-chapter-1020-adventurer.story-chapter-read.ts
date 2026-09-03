@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0090Chapter1020Adventurer = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0090-chapter-1020-adventurer",
   title: "Chapter 1020: Adventurer",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 90,
   ownLength: 2641,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0035169PreliminaryDungeonCompetitionTeam = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0035-169-preliminary-dungeon-competition-team",
   title: "169 - Preliminary Dungeon Competition Team",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 35,
   ownLength: 3933,
   ownProgress: 3933,

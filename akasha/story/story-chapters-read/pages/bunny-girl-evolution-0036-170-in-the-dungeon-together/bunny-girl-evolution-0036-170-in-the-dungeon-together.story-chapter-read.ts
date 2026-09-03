@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0036170InTheDungeonTogether = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0036-170-in-the-dungeon-together",
   title: "170 - In the Dungeon Together",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 36,
   ownLength: 2863,
   ownProgress: 2863,

@@ -5,7 +5,7 @@ export const motherOfLearning008484Powerless = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0084-84-powerless",
   title: "84. Powerless",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 84,
   ownLength: 6348,
   ownProgress: 6348,

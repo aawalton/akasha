@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0082RemainingBook13ChaptersBeingReleased = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0082-remaining-book-13-chapters-being-released",
   title: "Remaining book 13 chapters being released September 2nd",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 82,
   ownLength: 313,
   unitSlug: "words",

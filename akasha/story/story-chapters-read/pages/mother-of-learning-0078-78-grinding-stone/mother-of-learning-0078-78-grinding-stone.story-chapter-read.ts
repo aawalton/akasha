@@ -5,7 +5,7 @@ export const motherOfLearning007878GrindingStone = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0078-78-grinding-stone",
   title: "78. Grinding Stone",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 78,
   ownLength: 6856,
   ownProgress: 6856,

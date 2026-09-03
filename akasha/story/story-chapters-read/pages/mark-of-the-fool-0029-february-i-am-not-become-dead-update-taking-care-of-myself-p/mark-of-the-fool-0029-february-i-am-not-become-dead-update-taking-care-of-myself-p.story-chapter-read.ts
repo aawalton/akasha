@@ -6,7 +6,7 @@ export const markOfTheFool0029FebruaryIAmNotBecomeDeadUpdateTakingCareOfMyselfP 
   slug: "mark-of-the-fool-0029-february-i-am-not-become-dead-update-taking-care-of-myself-p",
   title:
     "February I Am Not Become Dead Update: Taking care of myself, progress, and Mark of the Fool Webtoon",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 29,
   ownLength: 806,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const motherOfLearning0108Afterword = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0108-afterword",
   title: "Afterword",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 108,
   ownLength: 1097,
   ownProgress: 1097,

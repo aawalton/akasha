@@ -5,7 +5,7 @@ export const motherOfLearning008585CriticalMass = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0085-85-critical-mass",
   title: "85. Critical Mass",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 85,
   ownLength: 9172,
   ownProgress: 9172,

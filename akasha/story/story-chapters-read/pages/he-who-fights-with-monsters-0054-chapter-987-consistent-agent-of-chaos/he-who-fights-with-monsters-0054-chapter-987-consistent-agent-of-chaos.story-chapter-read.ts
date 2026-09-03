@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0054Chapter987ConsistentAgentOfChaos = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0054-chapter-987-consistent-agent-of-chaos",
   title: "Chapter 987: Consistent Agent of Chaos",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 54,
   ownLength: 2475,
   ownProgress: 2475,

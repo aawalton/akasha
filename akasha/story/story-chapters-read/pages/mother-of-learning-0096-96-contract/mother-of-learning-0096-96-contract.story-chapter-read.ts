@@ -5,7 +5,7 @@ export const motherOfLearning009696Contract = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0096-96-contract",
   title: "96. Contract",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 96,
   ownLength: 10482,
   ownProgress: 10482,

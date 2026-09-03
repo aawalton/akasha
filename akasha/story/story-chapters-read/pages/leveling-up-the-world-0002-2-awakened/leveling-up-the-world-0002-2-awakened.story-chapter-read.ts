@@ -5,7 +5,7 @@ export const levelingUpTheWorld00022Awakened = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0002-2-awakened",
   title: "2. Awakened",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 2,
   ownLength: 1031,
   ownProgress: 1031,

@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0020154TakingControlOfThings = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0020-154-taking-control-of-things",
   title: "154 - Taking Control of Things",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 20,
   ownLength: 3172,
   ownProgress: 3172,

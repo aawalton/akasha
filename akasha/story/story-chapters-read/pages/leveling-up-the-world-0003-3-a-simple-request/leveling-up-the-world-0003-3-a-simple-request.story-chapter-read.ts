@@ -5,7 +5,7 @@ export const levelingUpTheWorld00033ASimpleRequest = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0003-3-a-simple-request",
   title: "3. A Simple Request",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 3,
   ownLength: 1022,
   ownProgress: 1022,

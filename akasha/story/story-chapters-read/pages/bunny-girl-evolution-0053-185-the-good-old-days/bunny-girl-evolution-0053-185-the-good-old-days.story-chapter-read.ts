@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0053185TheGoodOldDays = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0053-185-the-good-old-days",
   title: "185 - The Good Old Days",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 53,
   ownLength: 3095,
   unitSlug: "words",

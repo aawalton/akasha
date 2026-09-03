@@ -5,7 +5,7 @@ export const bunnyGirlEvolution001360TheBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0013-60-the-boss",
   title: "60 - The Boss",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 13,
   ownLength: 2759,
   ownProgress: 2759,

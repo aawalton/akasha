@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0094Chapter1024TheNextTimeWeMeet = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0094-chapter-1024-the-next-time-we-meet",
   title: "Chapter 1024: The Next Time We Meet",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 94,
   ownLength: 3961,
   unitSlug: "words",

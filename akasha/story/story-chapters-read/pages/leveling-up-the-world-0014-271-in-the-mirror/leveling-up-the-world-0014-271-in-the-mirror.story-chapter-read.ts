@@ -5,7 +5,7 @@ export const levelingUpTheWorld0014271InTheMirror = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0014-271-in-the-mirror",
   title: "271. In the Mirror",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 14,
   ownLength: 2696,
   ownProgress: 2696,

@@ -5,7 +5,7 @@ export const markOfTheFool0031MarkOfTheWebtoonNotAnAprilFoolSJokeFoolWebtoonJu =
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0031-mark-of-the-webtoon-not-an-april-fool-s-joke-fool-webtoon-ju",
   title: "Mark of the Webtoon (Not an April Fool's Joke!) - Fool Webtoon Just Launched!!!",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 31,
   ownLength: 373,
   unitSlug: "words",

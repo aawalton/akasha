@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0072203MeditationWithSoulFog = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0072-203-meditation-with-soul-fog",
   title: "203 - Meditation with Soul Fog",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 72,
   ownLength: 3163,
   unitSlug: "words",

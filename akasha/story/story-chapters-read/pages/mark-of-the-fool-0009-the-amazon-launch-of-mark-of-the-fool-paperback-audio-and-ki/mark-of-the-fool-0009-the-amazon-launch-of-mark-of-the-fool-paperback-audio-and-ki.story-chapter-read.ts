@@ -5,7 +5,7 @@ export const markOfTheFool0009TheAmazonLaunchOfMarkOfTheFoolPaperbackAudioAndKi 
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0009-the-amazon-launch-of-mark-of-the-fool-paperback-audio-and-ki",
   title: "The Amazon Launch of Mark of the Fool: Paperback, Audio and Kindle! [+more]",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 9,
   ownLength: 363,
   unitSlug: "words",

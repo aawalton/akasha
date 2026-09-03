@@ -5,7 +5,7 @@ export const markOfTheFool0005Chapter5TheCoinsAndThePriests = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0005-chapter-5-the-coins-and-the-priests",
   title: "Chapter 5: The Coins and the Priests",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 5,
   ownLength: 1955,
   ownProgress: 1955,

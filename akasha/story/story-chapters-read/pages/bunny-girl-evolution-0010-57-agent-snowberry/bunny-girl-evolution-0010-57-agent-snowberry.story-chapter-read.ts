@@ -5,7 +5,7 @@ export const bunnyGirlEvolution001057AgentSnowberry = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0010-57-agent-snowberry",
   title: "57 - Agent Snowberry",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 10,
   ownLength: 3062,
   ownProgress: 3062,

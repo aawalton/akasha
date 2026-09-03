@@ -5,7 +5,7 @@ export const levelingUpTheWorld0019385GloriaSRealm = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0019-385-gloria-s-realm",
   title: "385. Gloria's Realm",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 19,
   ownLength: 2018,
   ownProgress: 2018,

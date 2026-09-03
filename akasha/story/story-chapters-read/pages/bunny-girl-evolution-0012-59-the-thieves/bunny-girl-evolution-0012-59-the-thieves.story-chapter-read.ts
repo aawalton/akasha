@@ -5,7 +5,7 @@ export const bunnyGirlEvolution001259TheThieves = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0012-59-the-thieves",
   title: "59 - The Thieves",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 12,
   ownLength: 2679,
   ownProgress: 2679,

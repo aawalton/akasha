@@ -5,7 +5,7 @@ export const markOfTheFool0021SpecialAnnouncementIAmBecomeDeathJustLaunched = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0021-special-announcement-i-am-become-death-just-launched",
   title: "Special Announcement: I Am Become Death just Launched!",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 21,
   ownLength: 308,
   unitSlug: "words",

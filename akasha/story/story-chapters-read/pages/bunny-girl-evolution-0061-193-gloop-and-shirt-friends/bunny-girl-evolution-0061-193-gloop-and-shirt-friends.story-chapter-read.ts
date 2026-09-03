@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0061193GloopAndShirtFriends = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0061-193-gloop-and-shirt-friends",
   title: "193 - Gloop and Shirt Friends",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 61,
   ownLength: 3920,
   unitSlug: "words",

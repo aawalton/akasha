@@ -5,7 +5,7 @@ export const levelingUpTheWorld0016382GriffinNests = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0016-382-griffin-nests",
   title: "382. Griffin Nests",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 16,
   ownLength: 2484,
   ownProgress: 2484,

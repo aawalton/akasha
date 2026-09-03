@@ -5,7 +5,7 @@ export const motherOfLearning006060IntoTheAbyss = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0060-60-into-the-abyss",
   title: "60. Into the Abyss",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 60,
   ownLength: 7993,
   ownProgress: 7993,

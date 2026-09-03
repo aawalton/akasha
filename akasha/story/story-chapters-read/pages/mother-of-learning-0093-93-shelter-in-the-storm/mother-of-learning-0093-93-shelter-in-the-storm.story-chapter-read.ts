@@ -5,7 +5,7 @@ export const motherOfLearning009393ShelterInTheStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0093-93-shelter-in-the-storm",
   title: "93. Shelter in the Storm",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 93,
   ownLength: 7264,
   ownProgress: 7264,

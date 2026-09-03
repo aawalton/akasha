@@ -5,7 +5,7 @@ export const azarinthHealer0020Chapter936TheNextSteps = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0020-chapter-936-the-next-steps",
   title: "Chapter 936 The next steps",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 20,
   ownLength: 3208,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0020Chapter953PerfectHumanoidSpecimens = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0020-chapter-953-perfect-humanoid-specimens",
   title: "Chapter 953: Perfect Humanoid Specimens",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 20,
   ownLength: 2673,
   ownProgress: 2673,

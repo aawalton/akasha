@@ -5,7 +5,7 @@ export const endsOfMagic0086Chapter71AMatterOfValidation = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0086-chapter-71-a-matter-of-validation",
   title: "Chapter 71: A Matter of Validation",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 86,
   ownLength: 2749,
   unitSlug: "words",

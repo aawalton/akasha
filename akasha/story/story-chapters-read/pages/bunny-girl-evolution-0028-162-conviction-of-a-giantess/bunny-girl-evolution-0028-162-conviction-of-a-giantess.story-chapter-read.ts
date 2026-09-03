@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0028162ConvictionOfAGiantess = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0028-162-conviction-of-a-giantess",
   title: "162 - Conviction of a Giantess",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 28,
   ownLength: 3452,
   ownProgress: 3452,

@@ -5,7 +5,7 @@ export const endsOfMagic0069Chapter54ClaimingGlory = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0069-chapter-54-claiming-glory",
   title: "Chapter 54: Claiming Glory",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 69,
   ownLength: 2894,
   ownProgress: 2894,

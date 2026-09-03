@@ -5,7 +5,7 @@ export const endsOfMagic0058Chapter43ACulturalExchange = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0058-chapter-43-a-cultural-exchange",
   title: "Chapter 43: A Cultural Exchange",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 58,
   ownLength: 2833,
   ownProgress: 2833,

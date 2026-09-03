@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0039173FeyKingAndQueen = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0039-173-fey-king-and-queen",
   title: "173 - Fey King and Queen",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 39,
   ownLength: 3318,
   ownProgress: 3318,

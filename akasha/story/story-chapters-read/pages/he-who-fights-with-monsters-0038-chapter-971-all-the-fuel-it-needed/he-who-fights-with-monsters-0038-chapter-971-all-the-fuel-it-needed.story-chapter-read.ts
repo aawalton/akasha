@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0038Chapter971AllTheFuelItNeeded = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0038-chapter-971-all-the-fuel-it-needed",
   title: "Chapter 971: All the Fuel It Needed",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 38,
   ownLength: 2466,
   ownProgress: 2466,

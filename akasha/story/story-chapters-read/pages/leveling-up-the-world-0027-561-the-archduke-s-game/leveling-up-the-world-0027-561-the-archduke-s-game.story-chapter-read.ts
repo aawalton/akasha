@@ -5,7 +5,7 @@ export const levelingUpTheWorld0027561TheArchdukeSGame = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0027-561-the-archduke-s-game",
   title: "561. The Archduke's Game",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 27,
   ownLength: 2155,
   ownProgress: 2155,

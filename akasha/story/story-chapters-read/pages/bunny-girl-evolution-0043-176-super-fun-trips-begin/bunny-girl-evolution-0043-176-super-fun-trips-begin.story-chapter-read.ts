@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0043176SuperFunTripsBegin = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0043-176-super-fun-trips-begin",
   title: "176 - Super Fun Trips Begin",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 43,
   ownLength: 3844,
   ownProgress: 3844,

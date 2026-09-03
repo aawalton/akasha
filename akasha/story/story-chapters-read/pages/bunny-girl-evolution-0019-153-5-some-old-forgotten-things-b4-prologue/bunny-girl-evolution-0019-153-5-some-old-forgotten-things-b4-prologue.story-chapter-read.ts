@@ -5,7 +5,7 @@ export const bunnyGirlEvolution00191535SomeOldForgottenThingsB4Prologue = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0019-153-5-some-old-forgotten-things-b4-prologue",
   title: "153.5 - Some Old Forgotten Things (B4 prologue)",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 19,
   ownLength: 1595,
   ownProgress: 1595,

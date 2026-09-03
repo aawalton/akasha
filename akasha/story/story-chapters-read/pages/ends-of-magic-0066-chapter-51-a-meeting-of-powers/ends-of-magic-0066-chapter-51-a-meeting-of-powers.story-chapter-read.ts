@@ -5,7 +5,7 @@ export const endsOfMagic0066Chapter51AMeetingOfPowers = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0066-chapter-51-a-meeting-of-powers",
   title: "Chapter 51: A Meeting of Powers",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 66,
   ownLength: 2703,
   ownProgress: 2703,

@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0026214FirstTimeHomeBuyerElise = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0026-214-first-time-home-buyer-elise",
   title: "214 - First Time Home Buyer Elise",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 26,
   ownLength: 3041,
   unitSlug: "words",

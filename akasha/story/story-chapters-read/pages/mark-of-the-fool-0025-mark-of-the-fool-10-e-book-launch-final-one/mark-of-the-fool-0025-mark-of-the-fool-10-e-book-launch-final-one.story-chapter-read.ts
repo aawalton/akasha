@@ -5,7 +5,7 @@ export const markOfTheFool0025MarkOfTheFool10EBookLaunchFinalOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0025-mark-of-the-fool-10-e-book-launch-final-one",
   title: "Mark of the Fool 10 e-book launch! (Final one)",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 25,
   ownLength: 82,
   unitSlug: "words",

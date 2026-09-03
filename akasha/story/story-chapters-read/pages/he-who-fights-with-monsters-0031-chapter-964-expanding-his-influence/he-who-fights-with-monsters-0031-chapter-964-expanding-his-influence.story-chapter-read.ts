@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0031Chapter964ExpandingHisInfluence = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0031-chapter-964-expanding-his-influence",
   title: "Chapter 964: Expanding His Influence",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 31,
   ownLength: 2193,
   ownProgress: 2193,

@@ -5,7 +5,7 @@ export const levelingUpTheWorld0042850GreenMoonVisit = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0042-850-green-moon-visit",
   title: "850. Green Moon Visit",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 42,
   ownLength: 2044,
   ownProgress: 2044,

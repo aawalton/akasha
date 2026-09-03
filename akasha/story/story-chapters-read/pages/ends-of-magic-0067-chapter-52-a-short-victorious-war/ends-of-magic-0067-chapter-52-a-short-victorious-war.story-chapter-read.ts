@@ -5,7 +5,7 @@ export const endsOfMagic0067Chapter52AShortVictoriousWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0067-chapter-52-a-short-victorious-war",
   title: "Chapter 52: A Short, Victorious War ",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 67,
   ownLength: 3051,
   ownProgress: 3051,

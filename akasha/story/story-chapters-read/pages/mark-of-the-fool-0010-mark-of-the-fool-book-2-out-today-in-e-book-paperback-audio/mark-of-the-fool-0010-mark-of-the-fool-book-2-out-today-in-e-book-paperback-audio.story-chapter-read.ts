@@ -6,7 +6,7 @@ export const markOfTheFool0010MarkOfTheFoolBook2OutTodayInEBookPaperbackAudio = 
   slug: "mark-of-the-fool-0010-mark-of-the-fool-book-2-out-today-in-e-book-paperback-audio",
   title:
     "Mark of the Fool Book 2 out today in e-book, paperback, audio! (today's chapter coming soon)",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 10,
   ownLength: 150,
   unitSlug: "words",

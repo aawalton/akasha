@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0016107GatheringOfInformation = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0016-107-gathering-of-information",
   title: "107 - Gathering of Information",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 16,
   ownLength: 3418,
   ownProgress: 3418,

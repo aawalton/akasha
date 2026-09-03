@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0060Chapter993TrueToYourself = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0060-chapter-993-true-to-yourself",
   title: "Chapter 993: True to Yourself",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 60,
   ownLength: 2325,
   unitSlug: "words",

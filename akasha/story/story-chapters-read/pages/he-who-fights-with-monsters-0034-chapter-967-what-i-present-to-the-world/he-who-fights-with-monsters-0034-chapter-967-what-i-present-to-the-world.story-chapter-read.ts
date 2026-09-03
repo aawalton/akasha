@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0034Chapter967WhatIPresentToTheWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0034-chapter-967-what-i-present-to-the-world",
   title: "Chapter 967: What I Present to the World",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 34,
   ownLength: 2897,
   ownProgress: 2897,

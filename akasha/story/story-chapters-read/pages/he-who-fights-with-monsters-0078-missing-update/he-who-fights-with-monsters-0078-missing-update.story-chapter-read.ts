@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0078MissingUpdate = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0078-missing-update",
   title: "Missing Update",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 78,
   ownLength: 15,
   unitSlug: "words",

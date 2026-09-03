@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0026Chapter959WithoutConsequences = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0026-chapter-959-without-consequences",
   title: "Chapter 959: Without Consequences",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 26,
   ownLength: 2902,
   ownProgress: 2902,

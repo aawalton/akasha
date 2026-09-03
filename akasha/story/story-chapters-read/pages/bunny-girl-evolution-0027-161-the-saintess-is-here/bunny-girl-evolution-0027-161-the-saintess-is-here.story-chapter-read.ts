@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0027161TheSaintessIsHere = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0027-161-the-saintess-is-here",
   title: "161 - The Saintess Is Here",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 27,
   ownLength: 3462,
   ownProgress: 3462,

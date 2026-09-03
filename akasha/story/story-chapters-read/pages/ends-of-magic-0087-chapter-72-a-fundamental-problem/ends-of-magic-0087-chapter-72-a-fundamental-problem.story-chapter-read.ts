@@ -5,7 +5,7 @@ export const endsOfMagic0087Chapter72AFundamentalProblem = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0087-chapter-72-a-fundamental-problem",
   title: "Chapter 72: A Fundamental Problem",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 87,
   ownLength: 2863,
   unitSlug: "words",

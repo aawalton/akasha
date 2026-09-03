@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0009Chapter9Escape = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0009-chapter-9-escape",
   title: "Chapter 9: Escape",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 9,
   ownLength: 2263,
   ownProgress: 2263,

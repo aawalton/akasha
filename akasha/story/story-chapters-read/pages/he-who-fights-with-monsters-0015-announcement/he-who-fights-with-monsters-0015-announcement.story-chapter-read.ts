@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0015Announcement = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0015-announcement",
   title: "Announcement",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 15,
   ownLength: 38,
   ownProgress: 38,

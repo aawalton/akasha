@@ -5,7 +5,7 @@ export const markOfTheFool0030AnnouncementAudioIsOutTodayForBook10OfMarkOfTheF =
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0030-announcement-audio-is-out-today-for-book-10-of-mark-of-the-f",
   title: "Announcement: AUDIO IS OUT TODAY FOR BOOK 10 OF MARK OF THE FOOL!!!! (And Webtoon news!)",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 30,
   ownLength: 130,
   unitSlug: "words",

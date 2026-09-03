@@ -5,7 +5,7 @@ export const markOfTheFool0016MarkOfTheFool6AudiobookLaunchChapterLaterTodayAfte
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0016-mark-of-the-fool-6-audiobook-launch-chapter-later-today-afte",
   title: "Mark of the Fool 6 audiobook launch (Chapter later today after editing is done)",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 16,
   ownLength: 118,
   ownProgress: 118,

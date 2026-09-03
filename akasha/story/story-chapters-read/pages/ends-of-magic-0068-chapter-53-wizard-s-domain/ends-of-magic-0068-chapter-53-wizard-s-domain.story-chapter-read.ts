@@ -5,7 +5,7 @@ export const endsOfMagic0068Chapter53WizardSDomain = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0068-chapter-53-wizard-s-domain",
   title: "Chapter 53: Wizard’s Domain",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 68,
   ownLength: 2921,
   ownProgress: 2921,

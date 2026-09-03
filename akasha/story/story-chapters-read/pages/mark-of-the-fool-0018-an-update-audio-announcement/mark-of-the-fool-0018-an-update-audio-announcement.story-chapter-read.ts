@@ -5,7 +5,7 @@ export const markOfTheFool0018AnUpdateAudioAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0018-an-update-audio-announcement",
   title: "An Update + Audio Announcement!",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 18,
   ownLength: 322,
   unitSlug: "words",

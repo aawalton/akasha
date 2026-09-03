@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0071Chapter1003StareDownTheDevil = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0071-chapter-1003-stare-down-the-devil",
   title: "Chapter 1003: Stare Down the Devil",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 71,
   ownLength: 2945,
   unitSlug: "words",

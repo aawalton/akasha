@@ -5,7 +5,7 @@ export const motherOfLearning008787AgentsOfTheCrown = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0087-87-agents-of-the-crown",
   title: "87. Agents of the Crown",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 87,
   ownLength: 7727,
   ownProgress: 7727,

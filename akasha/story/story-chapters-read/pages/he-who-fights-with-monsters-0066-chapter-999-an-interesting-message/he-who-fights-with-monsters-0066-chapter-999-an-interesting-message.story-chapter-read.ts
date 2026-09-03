@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0066Chapter999AnInterestingMessage = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0066-chapter-999-an-interesting-message",
   title: "Chapter 999: An Interesting Message",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 66,
   ownLength: 2367,
   unitSlug: "words",

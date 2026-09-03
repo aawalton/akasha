@@ -5,7 +5,7 @@ export const endsOfMagic0082Chapter67LuckyDraw = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0082-chapter-67-lucky-draw",
   title: "Chapter 67: Lucky Draw",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 82,
   ownLength: 2881,
   unitSlug: "words",

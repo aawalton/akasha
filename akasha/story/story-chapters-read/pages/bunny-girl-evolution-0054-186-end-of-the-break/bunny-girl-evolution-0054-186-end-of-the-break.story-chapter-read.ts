@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0054186EndOfTheBreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0054-186-end-of-the-break",
   title: "186 - End of the Break",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 54,
   ownLength: 3543,
   unitSlug: "words",

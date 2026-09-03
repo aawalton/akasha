@@ -5,7 +5,7 @@ export const levelingUpTheWorld0036747OldAdviceAndNew = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0036-747-old-advice-and-new",
   title: "747. Old Advice and New",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 36,
   ownLength: 2149,
   ownProgress: 2149,

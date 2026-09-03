@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0072Chapter1004SchedulingYourCallousDumping 
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0072-chapter-1004-scheduling-your-callous-dumping",
   title: "Chapter 1004: Scheduling Your Callous Dumping",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 72,
   ownLength: 2109,
   unitSlug: "words",

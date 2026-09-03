@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0058190SparringWithTheGiantess = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0058-190-sparring-with-the-giantess",
   title: "190 - Sparring with the Giantess",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 58,
   ownLength: 3303,
   unitSlug: "words",

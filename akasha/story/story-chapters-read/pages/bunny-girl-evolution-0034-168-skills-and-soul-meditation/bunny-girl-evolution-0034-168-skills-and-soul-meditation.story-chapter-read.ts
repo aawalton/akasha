@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0034168SkillsAndSoulMeditation = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0034-168-skills-and-soul-meditation",
   title: "168 - Skills and Soul Meditation",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 34,
   ownLength: 2592,
   ownProgress: 2592,

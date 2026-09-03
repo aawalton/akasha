@@ -5,7 +5,7 @@ export const levelingUpTheWorld0013270MarchSMission = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0013-270-march-s-mission",
   title: "270. March's Mission",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 13,
   ownLength: 2109,
   ownProgress: 2109,

@@ -5,7 +5,7 @@ export const levelingUpTheWorld0009175CatchingUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0009-175-catching-up",
   title: "175. Catching up",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 9,
   ownLength: 2535,
   ownProgress: 2535,

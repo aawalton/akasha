@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0033Chapter966ACulturalExperience = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0033-chapter-966-a-cultural-experience",
   title: "Chapter 966: A Cultural Experience",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 33,
   ownLength: 2232,
   ownProgress: 2232,

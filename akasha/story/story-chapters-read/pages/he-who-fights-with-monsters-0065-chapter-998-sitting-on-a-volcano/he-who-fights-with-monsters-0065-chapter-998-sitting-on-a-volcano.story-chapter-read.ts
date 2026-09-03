@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0065Chapter998SittingOnAVolcano = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0065-chapter-998-sitting-on-a-volcano",
   title: "Chapter 998: Sitting on a Volcano",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 65,
   ownLength: 2582,
   unitSlug: "words",

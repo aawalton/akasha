@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0047Chapter980TheOnlyCureIsDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0047-chapter-980-the-only-cure-is-death",
   title: "Chapter 980: The Only Cure is Death",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 47,
   ownLength: 2549,
   ownProgress: 2549,

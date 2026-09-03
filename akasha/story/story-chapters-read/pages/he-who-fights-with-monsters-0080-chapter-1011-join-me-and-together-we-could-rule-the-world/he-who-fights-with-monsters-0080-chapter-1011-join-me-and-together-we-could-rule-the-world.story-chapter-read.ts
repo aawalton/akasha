@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0080Chapter1011JoinMeAndTogetherWeCouldRuleT
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0080-chapter-1011-join-me-and-together-we-could-rule-the-world",
   title: "Chapter 1011: Join Me, and Together We Could Rule the World!",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 80,
   ownLength: 2537,
   unitSlug: "words",

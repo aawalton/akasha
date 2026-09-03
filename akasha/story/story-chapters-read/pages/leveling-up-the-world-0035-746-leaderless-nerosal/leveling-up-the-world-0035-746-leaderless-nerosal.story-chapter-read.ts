@@ -5,7 +5,7 @@ export const levelingUpTheWorld0035746LeaderlessNerosal = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0035-746-leaderless-nerosal",
   title: "746. Leaderless Nerosal",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 35,
   ownLength: 2028,
   ownProgress: 2028,

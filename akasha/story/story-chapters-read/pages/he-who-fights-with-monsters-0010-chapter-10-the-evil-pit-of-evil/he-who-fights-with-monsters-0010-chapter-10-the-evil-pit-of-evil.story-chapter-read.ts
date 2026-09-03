@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0010Chapter10TheEvilPitOfEvil = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0010-chapter-10-the-evil-pit-of-evil",
   title: "Chapter 10: The Evil Pit of Evil",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 10,
   ownLength: 1905,
   ownProgress: 1905,

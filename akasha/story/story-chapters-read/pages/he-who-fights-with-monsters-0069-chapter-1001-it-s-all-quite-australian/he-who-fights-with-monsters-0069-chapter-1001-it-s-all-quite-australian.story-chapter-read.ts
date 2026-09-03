@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0069Chapter1001ItSAllQuiteAustralian = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0069-chapter-1001-it-s-all-quite-australian",
   title: "Chapter 1001: It’s All Quite Australian",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 69,
   ownLength: 3760,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0018Chapter951MessyButDelicious = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0018-chapter-951-messy-but-delicious",
   title: "Chapter 951: Messy but Delicious",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 18,
   ownLength: 2763,
   ownProgress: 2763,

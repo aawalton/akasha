@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0033167AsHerHighnessCommands = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0033-167-as-her-highness-commands",
   title: "167 - As Her Highness Commands",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 33,
   ownLength: 3876,
   ownProgress: 3876,

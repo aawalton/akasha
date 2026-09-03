@@ -5,7 +5,7 @@ export const endsOfMagic0085Chapter70UseOfWeapons = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0085-chapter-70-use-of-weapons",
   title: "Chapter 70: Use of Weapons",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 85,
   ownLength: 2916,
   unitSlug: "words",

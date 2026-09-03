@@ -5,7 +5,7 @@ export const motherOfLearning006363TheMarchOfDays = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0063-63-the-march-of-days",
   title: "63. The March of Days",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 63,
   ownLength: 11362,
   ownProgress: 11362,

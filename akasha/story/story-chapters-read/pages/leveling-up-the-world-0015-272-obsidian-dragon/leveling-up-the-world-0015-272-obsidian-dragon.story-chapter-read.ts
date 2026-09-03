@@ -5,7 +5,7 @@ export const levelingUpTheWorld0015272ObsidianDragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0015-272-obsidian-dragon",
   title: "272. Obsidian Dragon",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 15,
   ownLength: 2067,
   ownProgress: 2067,

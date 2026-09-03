@@ -5,7 +5,7 @@ export const levelingUpTheWorld0022471AmongIcepickers = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0022-471-among-icepickers",
   title: "471. Among Icepickers",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 22,
   ownLength: 2010,
   ownProgress: 2010,

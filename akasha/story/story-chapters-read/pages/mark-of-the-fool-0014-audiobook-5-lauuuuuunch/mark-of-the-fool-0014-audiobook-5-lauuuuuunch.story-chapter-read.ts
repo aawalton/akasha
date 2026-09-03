@@ -5,7 +5,7 @@ export const markOfTheFool0014Audiobook5Lauuuuuunch = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0014-audiobook-5-lauuuuuunch",
   title: "Audiobook 5 lauuuuuunch!",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 14,
   ownLength: 78,
   unitSlug: "words",

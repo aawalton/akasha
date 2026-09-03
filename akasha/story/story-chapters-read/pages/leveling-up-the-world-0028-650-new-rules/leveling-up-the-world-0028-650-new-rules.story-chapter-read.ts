@@ -5,7 +5,7 @@ export const levelingUpTheWorld0028650NewRules = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0028-650-new-rules",
   title: "650. New Rules",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 28,
   ownLength: 2221,
   ownProgress: 2221,

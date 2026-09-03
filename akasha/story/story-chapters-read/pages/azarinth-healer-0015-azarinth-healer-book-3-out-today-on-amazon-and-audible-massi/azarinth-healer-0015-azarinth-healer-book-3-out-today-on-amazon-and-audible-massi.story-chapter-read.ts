@@ -6,7 +6,7 @@ export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAndAudibleMass
   slug: "azarinth-healer-0015-azarinth-healer-book-3-out-today-on-amazon-and-audible-massi",
   title:
     "Azarinth Healer – Book 3 – Out today on Amazon and Audible! Massive edits. M a s s I v e.",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 15,
   ownLength: 607,
   unitSlug: "words",

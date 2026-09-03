@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0025Chapter958ALotHarderThanAnticipated = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0025-chapter-958-a-lot-harder-than-anticipated",
   title: "Chapter 958: A Lot Harder Than Anticipated",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 25,
   ownLength: 3035,
   ownProgress: 3035,

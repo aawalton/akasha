@@ -5,7 +5,7 @@ export const endsOfMagic0080Chapter65TheOldWonders = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0080-chapter-65-the-old-wonders",
   title: "Chapter 65: The Old Wonders",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 80,
   ownLength: 2712,
   unitSlug: "words",

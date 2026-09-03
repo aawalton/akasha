@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0027Chapter960WhatItWillDoToItself = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0027-chapter-960-what-it-will-do-to-itself",
   title: "Chapter 960: What It Will Do to Itself",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 27,
   ownLength: 2377,
   ownProgress: 2377,

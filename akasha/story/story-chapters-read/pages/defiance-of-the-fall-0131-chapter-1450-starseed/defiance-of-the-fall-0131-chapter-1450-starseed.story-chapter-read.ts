@@ -5,7 +5,7 @@ export const defianceOfTheFall0131Chapter1450Starseed = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0131-chapter-1450-starseed",
   title: "Chapter 1,450 - Starseed",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 131,
   ownLength: 2899,
   unitSlug: "words",

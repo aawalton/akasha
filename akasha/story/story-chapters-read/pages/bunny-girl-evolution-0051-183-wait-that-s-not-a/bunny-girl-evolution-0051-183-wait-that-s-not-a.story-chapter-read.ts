@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0051183WaitThatSNotA = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0051-183-wait-that-s-not-a",
   title: "183 - Wait, that's not a–!",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 51,
   ownLength: 4306,
   unitSlug: "words",

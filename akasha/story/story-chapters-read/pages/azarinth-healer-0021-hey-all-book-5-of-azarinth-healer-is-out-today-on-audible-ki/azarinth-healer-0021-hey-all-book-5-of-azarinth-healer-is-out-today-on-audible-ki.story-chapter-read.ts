@@ -5,7 +5,7 @@ export const azarinthHealer0021HeyAllBook5OfAzarinthHealerIsOutTodayOnAudibleKi 
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0021-hey-all-book-5-of-azarinth-healer-is-out-today-on-audible-ki",
   title: "Hey all! Book 5 of Azarinth Healer is out today on Audible, Kindle Unlimited, and ebook.",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 21,
   ownLength: 925,
   unitSlug: "words",

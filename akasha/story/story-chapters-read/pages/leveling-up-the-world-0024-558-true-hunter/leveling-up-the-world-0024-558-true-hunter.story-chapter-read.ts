@@ -5,7 +5,7 @@ export const levelingUpTheWorld0024558TrueHunter = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0024-558-true-hunter",
   title: "558. True Hunter",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 24,
   ownLength: 2060,
   ownProgress: 2060,

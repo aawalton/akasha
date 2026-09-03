@@ -5,7 +5,7 @@ export const levelingUpTheWorld0012269ReturnToTheDrum = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0012-269-return-to-the-drum",
   title: "269. Return to the Drum",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 12,
   ownLength: 2213,
   ownProgress: 2213,

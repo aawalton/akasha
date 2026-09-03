@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0029Chapter962IKnowWhatYouAre = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0029-chapter-962-i-know-what-you-are",
   title: "Chapter 962: I Know What You Are",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 29,
   ownLength: 2916,
   ownProgress: 2916,

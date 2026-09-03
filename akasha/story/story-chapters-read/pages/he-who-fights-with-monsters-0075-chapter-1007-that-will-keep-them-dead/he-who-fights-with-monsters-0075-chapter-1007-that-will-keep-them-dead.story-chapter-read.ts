@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0075Chapter1007ThatWillKeepThemDead = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0075-chapter-1007-that-will-keep-them-dead",
   title: "Chapter 1007: That Will Keep Them Dead",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 75,
   ownLength: 2622,
   unitSlug: "words",

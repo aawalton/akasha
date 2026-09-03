@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0045Chapter978ImplicationsForYourWork = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0045-chapter-978-implications-for-your-work",
   title: "Chapter 978: Implications For Your Work",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 45,
   ownLength: 2231,
   ownProgress: 2231,

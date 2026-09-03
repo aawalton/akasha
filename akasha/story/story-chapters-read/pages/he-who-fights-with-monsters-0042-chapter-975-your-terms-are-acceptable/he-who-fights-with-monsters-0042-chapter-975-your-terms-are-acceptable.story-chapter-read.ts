@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0042Chapter975YourTermsAreAcceptable = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0042-chapter-975-your-terms-are-acceptable",
   title: "Chapter 975: Your Terms Are Acceptable",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 42,
   ownLength: 2722,
   ownProgress: 2722,

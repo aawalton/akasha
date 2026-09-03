@@ -5,7 +5,7 @@ export const azarinthHealer0004Chapter4Exploration = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0004-chapter-4-exploration",
   title: "Chapter 4 Exploration",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 4,
   ownLength: 2918,
   unitSlug: "words",

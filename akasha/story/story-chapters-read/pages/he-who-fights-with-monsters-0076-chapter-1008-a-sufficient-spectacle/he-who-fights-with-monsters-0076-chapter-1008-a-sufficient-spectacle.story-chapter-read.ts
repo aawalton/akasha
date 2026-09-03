@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0076Chapter1008ASufficientSpectacle = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0076-chapter-1008-a-sufficient-spectacle",
   title: "Chapter 1008: A Sufficient Spectacle",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 76,
   ownLength: 2976,
   unitSlug: "words",

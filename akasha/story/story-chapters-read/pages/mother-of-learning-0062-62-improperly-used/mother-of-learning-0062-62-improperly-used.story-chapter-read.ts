@@ -5,7 +5,7 @@ export const motherOfLearning006262ImproperlyUsed = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0062-62-improperly-used",
   title: "62. Improperly Used",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 62,
   ownLength: 7943,
   ownProgress: 7943,

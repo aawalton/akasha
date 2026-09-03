@@ -5,7 +5,7 @@ export const endsOfMagic0073Chapter58ConflictingOpinions = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0073-chapter-58-conflicting-opinions",
   title: "Chapter 58: Conflicting Opinions ",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 73,
   ownLength: 2924,
   ownProgress: 2924,

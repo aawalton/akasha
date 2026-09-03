@@ -5,7 +5,7 @@ export const azarinthHealer0011Book2IsOutAudiobookAsWellNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0011-book-2-is-out-audiobook-as-well-now",
   title: "Book 2 is out. Audiobook as well now.",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 11,
   ownLength: 352,
   unitSlug: "words",

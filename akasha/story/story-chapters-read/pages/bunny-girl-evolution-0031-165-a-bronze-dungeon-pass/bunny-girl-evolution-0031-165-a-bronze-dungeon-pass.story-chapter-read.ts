@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0031165ABronzeDungeonPass = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0031-165-a-bronze-dungeon-pass",
   title: "165 - A Bronze Dungeon Pass",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 31,
   ownLength: 3040,
   ownProgress: 3040,

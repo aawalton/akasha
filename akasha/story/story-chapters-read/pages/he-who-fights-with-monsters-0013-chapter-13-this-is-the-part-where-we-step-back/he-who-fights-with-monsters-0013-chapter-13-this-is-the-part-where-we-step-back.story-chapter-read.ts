@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0013Chapter13ThisIsThePartWhereWeStepBack = 
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0013-chapter-13-this-is-the-part-where-we-step-back",
   title: "Chapter 13: This is the Part Where We Step Back",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 13,
   ownLength: 2400,
   ownProgress: 2400,

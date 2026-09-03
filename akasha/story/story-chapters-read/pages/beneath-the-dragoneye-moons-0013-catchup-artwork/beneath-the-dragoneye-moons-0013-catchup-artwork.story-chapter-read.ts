@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0013CatchupArtwork = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0013-catchup-artwork",
   title: "Catchup Artwork!",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 13,
   ownLength: 48,
   unitSlug: "words",

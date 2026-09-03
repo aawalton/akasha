@@ -5,7 +5,7 @@ export const endsOfMagic0057Chapter42ALandOfLegend = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0057-chapter-42-a-land-of-legend",
   title: "Chapter 42: A Land of Legend",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 57,
   ownLength: 2899,
   ownProgress: 2899,

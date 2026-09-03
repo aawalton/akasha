@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0044-177-cave-spider-killing-competition",
   title: "177 - Cave Spider Killing Competition",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 44,
   ownLength: 3244,
   ownProgress: 419,

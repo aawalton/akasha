@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0077Chapter1009KungFuWizardIsNotAVerb = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0077-chapter-1009-kung-fu-wizard-is-not-a-verb",
   title: "Chapter 1009: Kung-Fu Wizard is Not a Verb",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 77,
   ownLength: 2085,
   unitSlug: "words",

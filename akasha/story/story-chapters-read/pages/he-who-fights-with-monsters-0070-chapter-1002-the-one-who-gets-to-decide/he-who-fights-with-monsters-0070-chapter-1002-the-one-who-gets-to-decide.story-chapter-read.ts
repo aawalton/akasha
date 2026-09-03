@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0070Chapter1002TheOneWhoGetsToDecide = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0070-chapter-1002-the-one-who-gets-to-decide",
   title: "Chapter 1002: The One Who Gets to Decide",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 70,
   ownLength: 3113,
   unitSlug: "words",

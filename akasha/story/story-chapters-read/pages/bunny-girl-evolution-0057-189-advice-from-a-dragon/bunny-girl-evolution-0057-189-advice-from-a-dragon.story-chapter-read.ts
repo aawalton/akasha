@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0057189AdviceFromADragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0057-189-advice-from-a-dragon",
   title: "189 - Advice from a Dragon",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 57,
   ownLength: 3654,
   unitSlug: "words",

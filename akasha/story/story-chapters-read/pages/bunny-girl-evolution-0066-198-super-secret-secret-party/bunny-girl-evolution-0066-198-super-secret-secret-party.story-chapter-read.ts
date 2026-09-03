@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0066198SuperSecretSecretParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0066-198-super-secret-secret-party",
   title: "198 - Super Secret Secret Party",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 66,
   ownLength: 3286,
   unitSlug: "words",

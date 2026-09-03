@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0023157RabbitVsElf1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0023-157-rabbit-vs-elf-1",
   title: "157 - Rabbit vs Elf 1",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 23,
   ownLength: 3507,
   ownProgress: 3507,

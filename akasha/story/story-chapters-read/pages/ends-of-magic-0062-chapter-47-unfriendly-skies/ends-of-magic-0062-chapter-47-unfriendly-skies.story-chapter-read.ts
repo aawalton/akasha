@@ -5,7 +5,7 @@ export const endsOfMagic0062Chapter47UnfriendlySkies = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0062-chapter-47-unfriendly-skies",
   title: "Chapter 47: Unfriendly Skies",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 62,
   ownLength: 3124,
   ownProgress: 3124,

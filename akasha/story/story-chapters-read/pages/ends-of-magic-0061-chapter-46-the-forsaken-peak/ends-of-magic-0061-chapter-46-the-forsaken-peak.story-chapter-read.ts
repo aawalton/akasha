@@ -5,7 +5,7 @@ export const endsOfMagic0061Chapter46TheForsakenPeak = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0061-chapter-46-the-forsaken-peak",
   title: "Chapter 46:  The Forsaken Peak ",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 61,
   ownLength: 2919,
   ownProgress: 2919,

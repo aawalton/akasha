@@ -5,7 +5,7 @@ export const endsOfMagic0063Chapter48PoliteTerms = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0063-chapter-48-polite-terms",
   title: "Chapter 48: Polite Terms",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 63,
   ownLength: 2812,
   ownProgress: 2812,

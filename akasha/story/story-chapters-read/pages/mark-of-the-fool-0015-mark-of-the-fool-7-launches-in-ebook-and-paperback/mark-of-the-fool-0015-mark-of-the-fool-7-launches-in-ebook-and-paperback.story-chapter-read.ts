@@ -5,7 +5,7 @@ export const markOfTheFool0015MarkOfTheFool7LaunchesInEbookAndPaperback = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0015-mark-of-the-fool-7-launches-in-ebook-and-paperback",
   title: "Mark of the Fool 7 launches in ebook and paperback!",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 15,
   ownLength: 154,
   ownProgress: 6,

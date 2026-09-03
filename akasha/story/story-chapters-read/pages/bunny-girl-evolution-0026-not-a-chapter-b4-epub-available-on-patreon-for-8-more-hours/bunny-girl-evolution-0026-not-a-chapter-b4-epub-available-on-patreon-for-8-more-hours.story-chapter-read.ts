@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0026NotAChapterB4EpubAvailableOnPatreonFor8MoreHo
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0026-not-a-chapter-b4-epub-available-on-patreon-for-8-more-hours",
   title: "NOT A CHAPTER - B4 .epub available on Patreon for 8 more hours!!!!!",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 26,
   ownLength: 117,
   unitSlug: "words",

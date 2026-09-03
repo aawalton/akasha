@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0018109FreedomFunFey = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0018-109-freedom-fun-fey",
   title: "109 - Freedom, Fun, Fey",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 18,
   ownLength: 3118,
   ownProgress: 3118,

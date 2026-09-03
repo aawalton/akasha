@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0036Chapter969GoodLord = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0036-chapter-969-good-lord",
   title: "Chapter 969: Good Lord",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 36,
   ownLength: 2535,
   ownProgress: 2535,

@@ -5,7 +5,7 @@ export const endsOfMagic0060Chapter45SmartSystems = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0060-chapter-45-smart-systems",
   title: "Chapter 45: Smart Systems",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 60,
   ownLength: 2879,
   ownProgress: 2879,

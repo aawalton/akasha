@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0055187BackFromTheBreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0055-187-back-from-the-break",
   title: "187 - Back from the Break",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 55,
   ownLength: 3958,
   unitSlug: "words",

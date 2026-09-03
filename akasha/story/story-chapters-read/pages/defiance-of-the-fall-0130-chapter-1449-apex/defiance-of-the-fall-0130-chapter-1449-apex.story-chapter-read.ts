@@ -5,7 +5,7 @@ export const defianceOfTheFall0130Chapter1449Apex = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0130-chapter-1449-apex",
   title: "Chapter 1,449 - Apex",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 130,
   ownLength: 3218,
   unitSlug: "words",

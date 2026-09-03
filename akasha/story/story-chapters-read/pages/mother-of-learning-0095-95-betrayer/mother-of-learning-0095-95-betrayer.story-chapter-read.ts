@@ -5,7 +5,7 @@ export const motherOfLearning009595Betrayer = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0095-95-betrayer",
   title: "95. Betrayer",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 95,
   ownLength: 6733,
   ownProgress: 6733,

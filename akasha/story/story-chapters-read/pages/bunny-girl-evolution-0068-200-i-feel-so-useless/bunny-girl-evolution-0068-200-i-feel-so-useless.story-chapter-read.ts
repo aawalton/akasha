@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0068200IFeelSoUseless = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0068-200-i-feel-so-useless",
   title: "200 - I Feel So Useless",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 68,
   ownLength: 3920,
   unitSlug: "words",

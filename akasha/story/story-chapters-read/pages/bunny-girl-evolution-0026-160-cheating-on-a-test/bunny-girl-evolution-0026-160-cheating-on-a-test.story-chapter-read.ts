@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0026160CheatingOnATest = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0026-160-cheating-on-a-test",
   title: "160 - Cheating on a Test",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 26,
   ownLength: 3757,
   ownProgress: 3757,

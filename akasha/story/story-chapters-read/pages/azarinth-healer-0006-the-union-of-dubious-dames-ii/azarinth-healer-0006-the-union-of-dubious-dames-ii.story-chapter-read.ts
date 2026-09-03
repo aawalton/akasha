@@ -5,7 +5,7 @@ export const azarinthHealer0006TheUnionOfDubiousDamesIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0006-the-union-of-dubious-dames-ii",
   title: "The Union of Dubious Dames II",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 6,
   ownLength: 2289,
   unitSlug: "words",

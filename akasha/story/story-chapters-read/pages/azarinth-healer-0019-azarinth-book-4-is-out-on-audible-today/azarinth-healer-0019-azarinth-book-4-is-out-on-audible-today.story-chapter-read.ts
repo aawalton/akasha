@@ -5,7 +5,7 @@ export const azarinthHealer0019AzarinthBook4IsOutOnAudibleToday = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0019-azarinth-book-4-is-out-on-audible-today",
   title: "Azarinth Book 4 is out on audible today!",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 19,
   ownLength: 156,
   unitSlug: "words",

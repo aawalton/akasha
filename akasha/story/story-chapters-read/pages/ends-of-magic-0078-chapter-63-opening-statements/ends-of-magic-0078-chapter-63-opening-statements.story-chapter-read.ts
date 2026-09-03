@@ -5,7 +5,7 @@ export const endsOfMagic0078Chapter63OpeningStatements = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0078-chapter-63-opening-statements",
   title: "Chapter 63: Opening Statements",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 78,
   ownLength: 2879,
   unitSlug: "words",

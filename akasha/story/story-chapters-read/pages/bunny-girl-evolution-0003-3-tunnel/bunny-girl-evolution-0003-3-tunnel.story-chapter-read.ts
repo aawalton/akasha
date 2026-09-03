@@ -5,7 +5,7 @@ export const bunnyGirlEvolution00033Tunnel = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0003-3-tunnel",
   title: "3 - Tunnel",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 3,
   ownLength: 2284,
   ownProgress: 2284,

@@ -5,7 +5,7 @@ export const motherOfLearning007171ShadowsOfThePast = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0071-71-shadows-of-the-past",
   title: "71. Shadows of the Past",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 71,
   ownLength: 7533,
   ownProgress: 7533,

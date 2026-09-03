@@ -5,7 +5,7 @@ export const endsOfMagic0072Chapter57ASystemOfDebate = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0072-chapter-57-a-system-of-debate",
   title: "Chapter 57: A System of Debate ",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 72,
   ownLength: 2944,
   ownProgress: 2944,

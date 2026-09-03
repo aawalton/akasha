@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0027215Lesson1DirectedAetherPulse = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0027-215-lesson-1-directed-aether-pulse",
   title: "215 - Lesson 1: Directed Aether Pulse",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 27,
   ownLength: 2913,
   unitSlug: "words",

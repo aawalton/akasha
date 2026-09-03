@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0016ChapterMeanwhileTheSidekicks = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0016-chapter-meanwhile-the-sidekicks",
   title: "Chapter ??? - Meanwhile, the sidekicks",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 16,
   ownLength: 914,
   unitSlug: "words",

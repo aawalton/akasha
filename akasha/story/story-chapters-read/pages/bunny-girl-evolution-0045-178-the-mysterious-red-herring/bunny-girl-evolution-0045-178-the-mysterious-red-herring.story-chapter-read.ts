@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0045178TheMysteriousRedHerring = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0045-178-the-mysterious-red-herring",
   title: "178 - The Mysterious Red Herring",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 45,
   ownLength: 3538,
   unitSlug: "words",

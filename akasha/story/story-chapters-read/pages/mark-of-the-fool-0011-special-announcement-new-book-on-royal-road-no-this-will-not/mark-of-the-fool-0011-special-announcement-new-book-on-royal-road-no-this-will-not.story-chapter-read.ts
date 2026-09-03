@@ -5,7 +5,7 @@ export const markOfTheFool0011SpecialAnnouncementNewBookOnRoyalRoadNoThisWillNot
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0011-special-announcement-new-book-on-royal-road-no-this-will-not",
   title: "Special Announcement: New Book on Royal Road (No, this will not slow down Fool lol)",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 11,
   ownLength: 180,
   unitSlug: "words",

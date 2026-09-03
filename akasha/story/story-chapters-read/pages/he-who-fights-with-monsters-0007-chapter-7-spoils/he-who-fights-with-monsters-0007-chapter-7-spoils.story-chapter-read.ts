@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0007Chapter7Spoils = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0007-chapter-7-spoils",
   title: "Chapter 7: Spoils",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 7,
   ownLength: 1770,
   ownProgress: 1770,

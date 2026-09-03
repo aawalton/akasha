@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0067Chapter1000CosmicTyrantWarlordCultLeader
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0067-chapter-1000-cosmic-tyrant-warlord-cult-leader",
   title: "Chapter 1000: Cosmic Tyrant Warlord Cult Leader",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 67,
   ownLength: 2766,
   unitSlug: "words",

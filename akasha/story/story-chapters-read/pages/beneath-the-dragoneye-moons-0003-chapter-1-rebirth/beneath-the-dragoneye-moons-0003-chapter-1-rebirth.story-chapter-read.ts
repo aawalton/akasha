@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0003Chapter1Rebirth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0003-chapter-1-rebirth",
   title: "Chapter 1 - Rebirth",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 3,
   ownLength: 2698,
   unitSlug: "words",

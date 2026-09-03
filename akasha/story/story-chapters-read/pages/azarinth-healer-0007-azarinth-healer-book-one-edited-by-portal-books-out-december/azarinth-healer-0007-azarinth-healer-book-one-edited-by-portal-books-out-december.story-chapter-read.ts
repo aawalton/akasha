@@ -5,7 +5,7 @@ export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooksOutDecemb
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0007-azarinth-healer-book-one-edited-by-portal-books-out-december",
   title: "Azarinth Healer - Book One - Edited by Portal Books - Out December 1st",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 7,
   ownLength: 309,
   unitSlug: "words",

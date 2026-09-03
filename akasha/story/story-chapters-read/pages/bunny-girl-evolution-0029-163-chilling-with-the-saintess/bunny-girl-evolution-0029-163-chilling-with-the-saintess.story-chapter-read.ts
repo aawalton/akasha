@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0029163ChillingWithTheSaintess = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0029-163-chilling-with-the-saintess",
   title: "163 - Chilling with the Saintess",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 29,
   ownLength: 3412,
   ownProgress: 3412,

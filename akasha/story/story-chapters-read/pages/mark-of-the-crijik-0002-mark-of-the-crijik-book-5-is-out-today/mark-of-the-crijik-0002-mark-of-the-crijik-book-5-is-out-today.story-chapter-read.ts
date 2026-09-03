@@ -5,7 +5,7 @@ export const markOfTheCrijik0002MarkOfTheCrijikBook5IsOutToday = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-crijik-0002-mark-of-the-crijik-book-5-is-out-today",
   title: "Mark of the Crijik Book 5 is out today!",
-  partOfSlugs: ["mark-of-the-crijik"],
+  partOfSlugs: ["story-read/mark-of-the-crijik"],
   position: 2,
   ownLength: 373,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0022Chapter955TheUnadulteratedJason = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0022-chapter-955-the-unadulterated-jason",
   title: "Chapter 955: The Unadulterated Jason",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 22,
   ownLength: 2828,
   ownProgress: 2828,

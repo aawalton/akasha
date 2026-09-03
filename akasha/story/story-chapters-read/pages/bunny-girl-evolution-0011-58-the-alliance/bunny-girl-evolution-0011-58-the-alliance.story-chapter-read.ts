@@ -5,7 +5,7 @@ export const bunnyGirlEvolution001158TheAlliance = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0011-58-the-alliance",
   title: "58 - The Alliance",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 11,
   ownLength: 3602,
   ownProgress: 3602,

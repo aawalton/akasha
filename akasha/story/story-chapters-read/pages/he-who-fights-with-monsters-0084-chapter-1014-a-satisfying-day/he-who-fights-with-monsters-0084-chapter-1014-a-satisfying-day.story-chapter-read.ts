@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0084Chapter1014ASatisfyingDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0084-chapter-1014-a-satisfying-day",
   title: "Chapter 1014: A Satisfying Day",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 84,
   ownLength: 2944,
   unitSlug: "words",

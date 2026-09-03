@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0015106LyingVsActing = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0015-106-lying-vs-acting",
   title: "106 - Lying vs Acting",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 15,
   ownLength: 3467,
   ownProgress: 3467,

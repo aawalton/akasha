@@ -5,7 +5,7 @@ export const markOfTheFool0023MarkOfTheFoolLightNovelOutToday = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0023-mark-of-the-fool-light-novel-out-today",
   title: "Mark of the Fool Light Novel Out Today!",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 23,
   ownLength: 103,
   unitSlug: "words",

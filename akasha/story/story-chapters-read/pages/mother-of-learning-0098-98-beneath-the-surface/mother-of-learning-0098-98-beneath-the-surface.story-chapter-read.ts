@@ -5,7 +5,7 @@ export const motherOfLearning009898BeneathTheSurface = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0098-98-beneath-the-surface",
   title: "98. Beneath the Surface",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 98,
   ownLength: 7244,
   ownProgress: 7244,

@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0022MyNextStorySongOfTheGiftGiverIsNowOut =
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0022-my-next-story-song-of-the-gift-giver-is-now-out",
   title: "My next story, Song of the Gift-Giver, is now out!",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 22,
   ownLength: 123,
   unitSlug: "words",

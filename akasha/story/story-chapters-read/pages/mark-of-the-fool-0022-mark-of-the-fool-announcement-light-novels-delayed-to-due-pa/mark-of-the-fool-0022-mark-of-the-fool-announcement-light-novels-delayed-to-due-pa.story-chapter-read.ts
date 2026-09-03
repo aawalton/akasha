@@ -5,7 +5,7 @@ export const markOfTheFool0022MarkOfTheFoolAnnouncementLightNovelsDelayedToDuePa
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0022-mark-of-the-fool-announcement-light-novels-delayed-to-due-pa",
   title: "Mark of the Fool Announcement: Light Novels Delayed to Due Paper Shortage",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 22,
   ownLength: 85,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0032Chapter965ThisIsKindOfHowTeamBiscuitOper
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0032-chapter-965-this-is-kind-of-how-team-biscuit-operates",
   title: "Chapter 965: This Is Kind of How Team Biscuit Operates",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 32,
   ownLength: 3411,
   ownProgress: 3411,

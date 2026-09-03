@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0029217PainIsGoodForYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0029-217-pain-is-good-for-you",
   title: "217 - Pain is Good for You",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 29,
   ownLength: 2574,
   unitSlug: "words",

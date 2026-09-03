@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0008Chapter8DarkMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0008-chapter-8-dark-magic",
   title: "Chapter 8: Dark Magic",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 8,
   ownLength: 1938,
   ownProgress: 1938,

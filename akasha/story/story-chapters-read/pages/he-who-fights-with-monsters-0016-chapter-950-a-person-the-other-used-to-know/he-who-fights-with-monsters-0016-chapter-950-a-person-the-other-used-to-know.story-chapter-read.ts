@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0016Chapter950APersonTheOtherUsedToKnow = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0016-chapter-950-a-person-the-other-used-to-know",
   title: "Chapter 950: A Person the Other Used to Know",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 16,
   ownLength: 2963,
   ownProgress: 2963,

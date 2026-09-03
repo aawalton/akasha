@@ -5,7 +5,7 @@ export const markOfTheFool0026AnnouncementOfOathsKyembeAndWurhiSStory = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0026-announcement-of-oaths-kyembe-and-wurhi-s-story",
   title: "Announcement of Oaths (Kyembe and Wurhi's Story)",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 26,
   ownLength: 282,
   unitSlug: "words",

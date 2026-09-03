@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0053Chapter986TheDeathsWeFailedToPrevent = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0053-chapter-986-the-deaths-we-failed-to-prevent",
   title: "Chapter 986: The Deaths We Failed to Prevent",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 53,
   ownLength: 2850,
   ownProgress: 2850,

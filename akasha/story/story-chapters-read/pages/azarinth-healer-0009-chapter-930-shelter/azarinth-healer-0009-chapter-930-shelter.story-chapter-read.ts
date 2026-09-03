@@ -5,7 +5,7 @@ export const azarinthHealer0009Chapter930Shelter = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0009-chapter-930-shelter",
   title: "Chapter 930 Shelter",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 9,
   ownLength: 3232,
   unitSlug: "words",

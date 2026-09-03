@@ -5,7 +5,7 @@ export const bunnyGirlEvolution00401735TheOriginOfCorunia = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0040-173-5-the-origin-of-corunia",
   title: "173.5 - The Origin of Corunia",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 40,
   ownLength: 1089,
   ownProgress: 1089,

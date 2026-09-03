@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0069NotAChapterScheduleUpdateB4CoverRevealOtherNe
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0069-not-a-chapter-schedule-update-b4-cover-reveal-other-news",
   title: "(NOT A CHAPTER) Schedule update + B4 cover reveal + other news",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 69,
   ownLength: 778,
   unitSlug: "words",

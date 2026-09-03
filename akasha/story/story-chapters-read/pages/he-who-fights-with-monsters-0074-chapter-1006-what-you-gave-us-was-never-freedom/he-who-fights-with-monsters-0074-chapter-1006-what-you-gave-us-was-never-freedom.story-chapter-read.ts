@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0074Chapter1006WhatYouGaveUsWasNeverFreedom 
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0074-chapter-1006-what-you-gave-us-was-never-freedom",
   title: "Chapter 1006: What You Gave Us Was Never Freedom",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 74,
   ownLength: 2306,
   unitSlug: "words",

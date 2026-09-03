@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0046179InTheDungeonSDepths = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0046-179-in-the-dungeon-s-depths",
   title: "179 - In the Dungeon's Depths",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 46,
   ownLength: 3754,
   unitSlug: "words",

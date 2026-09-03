@@ -5,7 +5,7 @@ export const levelingUpTheWorld0040848AgentsOfTheOrder = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0040-848-agents-of-the-order",
   title: "848. Agents of the Order",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 40,
   ownLength: 2053,
   ownProgress: 2053,

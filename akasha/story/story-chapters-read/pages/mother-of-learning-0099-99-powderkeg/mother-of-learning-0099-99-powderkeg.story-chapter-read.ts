@@ -5,7 +5,7 @@ export const motherOfLearning009999Powderkeg = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0099-99-powderkeg",
   title: "99. Powderkeg",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 99,
   ownLength: 5897,
   ownProgress: 5897,

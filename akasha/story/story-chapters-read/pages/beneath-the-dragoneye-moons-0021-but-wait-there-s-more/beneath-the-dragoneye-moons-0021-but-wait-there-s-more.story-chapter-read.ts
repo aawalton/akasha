@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0021ButWaitThereSMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0021-but-wait-there-s-more",
   title: "But wait! There's MORE",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 21,
   ownLength: 146,
   unitSlug: "words",

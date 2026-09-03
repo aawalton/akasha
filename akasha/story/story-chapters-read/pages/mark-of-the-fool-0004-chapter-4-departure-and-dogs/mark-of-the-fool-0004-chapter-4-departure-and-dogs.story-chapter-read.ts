@@ -5,7 +5,7 @@ export const markOfTheFool0004Chapter4DepartureAndDogs = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0004-chapter-4-departure-and-dogs",
   title: "Chapter 4: Departure and Dogs",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 4,
   ownLength: 2046,
   ownProgress: 2046,

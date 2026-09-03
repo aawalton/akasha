@@ -5,7 +5,7 @@ export const endsOfMagic0070Chapter55CelebrationsOfTriumph = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0070-chapter-55-celebrations-of-triumph",
   title: "Chapter 55: Celebrations of Triumph",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 70,
   ownLength: 2863,
   ownProgress: 2863,

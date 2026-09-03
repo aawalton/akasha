@@ -5,7 +5,7 @@ export const motherOfLearning009090ChangeOfPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0090-90-change-of-plans",
   title: "90. Change of Plans",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 90,
   ownLength: 8258,
   ownProgress: 8258,

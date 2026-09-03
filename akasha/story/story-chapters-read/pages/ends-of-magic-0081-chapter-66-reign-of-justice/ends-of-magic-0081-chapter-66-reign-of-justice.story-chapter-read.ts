@@ -5,7 +5,7 @@ export const endsOfMagic0081Chapter66ReignOfJustice = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0081-chapter-66-reign-of-justice",
   title: "Chapter 66: Reign of Justice",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 81,
   ownLength: 2977,
   unitSlug: "words",

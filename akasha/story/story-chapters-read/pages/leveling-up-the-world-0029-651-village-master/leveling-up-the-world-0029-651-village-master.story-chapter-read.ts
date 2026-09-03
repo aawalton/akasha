@@ -5,7 +5,7 @@ export const levelingUpTheWorld0029651VillageMaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0029-651-village-master",
   title: "651. Village Master",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 29,
   ownLength: 1999,
   ownProgress: 1999,

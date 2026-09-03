@@ -5,7 +5,7 @@ export const levelingUpTheWorld00011YouAreLevel1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0001-1-you-are-level-1",
   title: "1. You are Level 1",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 1,
   ownLength: 1150,
   ownProgress: 1150,

@@ -5,7 +5,7 @@ export const defianceOfTheFall0134Chapter1453Gambit = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0134-chapter-1453-gambit",
   title: "Chapter 1,453 - Gambit",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 134,
   ownLength: 3011,
   unitSlug: "words",

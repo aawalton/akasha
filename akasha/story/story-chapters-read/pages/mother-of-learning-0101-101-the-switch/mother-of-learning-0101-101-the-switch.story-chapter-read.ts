@@ -5,7 +5,7 @@ export const motherOfLearning0101101TheSwitch = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0101-101-the-switch",
   title: "101. The Switch",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 101,
   ownLength: 8422,
   ownProgress: 8422,

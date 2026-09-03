@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0073Chapter1005ADistantGod = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0073-chapter-1005-a-distant-god",
   title: "Chapter 1005: A Distant God",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 73,
   ownLength: 2742,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0055Chapter988IfYouCanTKeepUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0055-chapter-988-if-you-can-t-keep-up",
   title: "Chapter 988: If You Can’t Keep Up",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 55,
   ownLength: 2486,
   ownProgress: 2486,

@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0063195TwoWeeksToGo = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0063-195-two-weeks-to-go",
   title: "195 - Two Weeks to Go",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 63,
   ownLength: 2736,
   unitSlug: "words",

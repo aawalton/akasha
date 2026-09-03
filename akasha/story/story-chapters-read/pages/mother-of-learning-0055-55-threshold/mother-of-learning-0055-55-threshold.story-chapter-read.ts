@@ -5,7 +5,7 @@ export const motherOfLearning005555Threshold = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0055-55-threshold",
   title: "55. Threshold",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 55,
   ownLength: 7068,
   ownProgress: 7068,

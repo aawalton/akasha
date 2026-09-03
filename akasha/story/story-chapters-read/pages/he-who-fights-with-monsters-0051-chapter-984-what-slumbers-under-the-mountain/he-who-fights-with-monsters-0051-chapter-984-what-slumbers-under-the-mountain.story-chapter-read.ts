@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0051Chapter984WhatSlumbersUnderTheMountain =
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0051-chapter-984-what-slumbers-under-the-mountain",
   title: "Chapter 984: What Slumbers Under the Mountain",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 51,
   ownLength: 2292,
   ownProgress: 2292,

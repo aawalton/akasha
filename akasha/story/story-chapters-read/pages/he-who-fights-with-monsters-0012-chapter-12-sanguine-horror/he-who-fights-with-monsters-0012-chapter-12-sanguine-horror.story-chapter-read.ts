@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0012Chapter12SanguineHorror = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0012-chapter-12-sanguine-horror",
   title: "Chapter 12: Sanguine Horror",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 12,
   ownLength: 1643,
   ownProgress: 1643,

@@ -5,7 +5,7 @@ export const azarinthHealer0022MyNewStoryIsOutOnRoyalroadJourneyToVeresavirCheck
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0022-my-new-story-is-out-on-royalroad-journey-to-veresavir-check",
   title: "My new story is out on Royalroad - Journey to Veresavir, check it out if you like!",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 22,
   ownLength: 131,
   unitSlug: "words",

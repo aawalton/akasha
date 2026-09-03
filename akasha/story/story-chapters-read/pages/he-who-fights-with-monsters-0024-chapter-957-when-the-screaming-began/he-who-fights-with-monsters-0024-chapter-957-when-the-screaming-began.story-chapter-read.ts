@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0024Chapter957WhenTheScreamingBegan = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0024-chapter-957-when-the-screaming-began",
   title: "Chapter 957: When the Screaming Began",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 24,
   ownLength: 2128,
   ownProgress: 2128,

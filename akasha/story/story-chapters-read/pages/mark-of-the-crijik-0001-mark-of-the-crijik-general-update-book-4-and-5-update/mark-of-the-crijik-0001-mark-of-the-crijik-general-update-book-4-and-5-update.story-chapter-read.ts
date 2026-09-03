@@ -5,7 +5,7 @@ export const markOfTheCrijik0001MarkOfTheCrijikGeneralUpdateBook4And5Update = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-crijik-0001-mark-of-the-crijik-general-update-book-4-and-5-update",
   title: "Mark of the Crijik: General update + Book 4 and 5 Update",
-  partOfSlugs: ["mark-of-the-crijik"],
+  partOfSlugs: ["story-read/mark-of-the-crijik"],
   position: 1,
   ownLength: 3038,
   unitSlug: "words",

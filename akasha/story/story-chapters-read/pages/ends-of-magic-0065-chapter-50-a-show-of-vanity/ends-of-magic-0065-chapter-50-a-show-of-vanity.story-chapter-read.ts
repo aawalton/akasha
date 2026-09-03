@@ -5,7 +5,7 @@ export const endsOfMagic0065Chapter50AShowOfVanity = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0065-chapter-50-a-show-of-vanity",
   title: "Chapter 50: A Show of Vanity",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 65,
   ownLength: 3347,
   ownProgress: 3347,

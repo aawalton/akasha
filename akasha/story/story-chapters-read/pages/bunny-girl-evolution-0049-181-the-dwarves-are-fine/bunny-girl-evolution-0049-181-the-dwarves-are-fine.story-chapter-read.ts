@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0049181TheDwarvesAreFine = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0049-181-the-dwarves-are-fine",
   title: "181 - The Dwarves Are Fine",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 49,
   ownLength: 4170,
   unitSlug: "words",

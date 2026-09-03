@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0017108TheAuctionHouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0017-108-the-auction-house",
   title: "108 - The Auction House",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 17,
   ownLength: 2708,
   ownProgress: 2708,

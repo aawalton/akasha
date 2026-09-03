@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0040Chapter973ACrueltyOrAMercy = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0040-chapter-973-a-cruelty-or-a-mercy",
   title: "Chapter 973: A Cruelty or a Mercy",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 40,
   ownLength: 2779,
   ownProgress: 2779,

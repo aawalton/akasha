@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0047NotAChapterTemporaryScheduleShift = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0047-not-a-chapter-temporary-schedule-shift",
   title: "NOT A CHAPTER - Temporary schedule shift",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 47,
   ownLength: 462,
   unitSlug: "words",

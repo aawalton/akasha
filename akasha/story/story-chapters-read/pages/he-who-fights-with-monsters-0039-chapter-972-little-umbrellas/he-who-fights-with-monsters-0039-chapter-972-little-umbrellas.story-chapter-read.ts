@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0039Chapter972LittleUmbrellas = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0039-chapter-972-little-umbrellas",
   title: "Chapter 972: Little Umbrellas",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 39,
   ownLength: 2166,
   ownProgress: 2166,

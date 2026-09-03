@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0025213BeginningOfANewEraB5Start = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0025-213-beginning-of-a-new-era-b5-start",
   title: "213 - Beginning of a New Era (B5 start)",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 25,
   ownLength: 3111,
   unitSlug: "words",

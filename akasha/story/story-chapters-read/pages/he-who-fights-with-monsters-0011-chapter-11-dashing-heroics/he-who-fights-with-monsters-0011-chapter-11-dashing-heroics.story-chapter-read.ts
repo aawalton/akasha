@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0011Chapter11DashingHeroics = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0011-chapter-11-dashing-heroics",
   title: "Chapter 11: Dashing Heroics",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 11,
   ownLength: 2049,
   ownProgress: 2049,

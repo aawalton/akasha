@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0044Chapter977GettingComplicatedFast = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0044-chapter-977-getting-complicated-fast",
   title: "Chapter 977: Getting Complicated Fast",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 44,
   ownLength: 2895,
   ownProgress: 2895,

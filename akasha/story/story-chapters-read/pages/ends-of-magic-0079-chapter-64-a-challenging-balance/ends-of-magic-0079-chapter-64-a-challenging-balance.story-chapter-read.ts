@@ -5,7 +5,7 @@ export const endsOfMagic0079Chapter64AChallengingBalance = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0079-chapter-64-a-challenging-balance",
   title: "Chapter 64: A Challenging Balance",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 79,
   ownLength: 2922,
   unitSlug: "words",

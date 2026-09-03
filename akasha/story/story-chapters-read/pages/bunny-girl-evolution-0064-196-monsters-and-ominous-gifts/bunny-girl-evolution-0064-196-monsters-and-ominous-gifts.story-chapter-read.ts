@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0064196MonstersAndOminousGifts = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0064-196-monsters-and-ominous-gifts",
   title: "196 - Monsters and Ominous Gifts",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 64,
   ownLength: 2880,
   unitSlug: "words",

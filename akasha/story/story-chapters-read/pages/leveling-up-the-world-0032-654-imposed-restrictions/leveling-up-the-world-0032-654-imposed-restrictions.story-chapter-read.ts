@@ -5,7 +5,7 @@ export const levelingUpTheWorld0032654ImposedRestrictions = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0032-654-imposed-restrictions",
   title: "654. Imposed Restrictions",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 32,
   ownLength: 2122,
   ownProgress: 2122,

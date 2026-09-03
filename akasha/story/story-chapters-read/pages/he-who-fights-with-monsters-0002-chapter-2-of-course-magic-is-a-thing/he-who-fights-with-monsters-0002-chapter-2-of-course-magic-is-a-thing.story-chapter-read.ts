@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0002Chapter2OfCourseMagicIsAThing = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0002-chapter-2-of-course-magic-is-a-thing",
   title: "Chapter 2: Of Course Magic is a Thing",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 2,
   ownLength: 1638,
   ownProgress: 1638,

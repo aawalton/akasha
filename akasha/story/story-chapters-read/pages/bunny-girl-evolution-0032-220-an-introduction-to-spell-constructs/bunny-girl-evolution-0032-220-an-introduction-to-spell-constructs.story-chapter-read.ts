@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0032220AnIntroductionToSpellConstructs = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0032-220-an-introduction-to-spell-constructs",
   title: "220 - An Introduction to Spell Constructs",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 32,
   ownLength: 2777,
   unitSlug: "words",

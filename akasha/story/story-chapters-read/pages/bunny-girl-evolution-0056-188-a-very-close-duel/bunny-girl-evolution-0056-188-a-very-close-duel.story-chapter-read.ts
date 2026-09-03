@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0056188AVeryCloseDuel = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0056-188-a-very-close-duel",
   title: "188 - A Very Close Duel",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 56,
   ownLength: 3151,
   unitSlug: "words",

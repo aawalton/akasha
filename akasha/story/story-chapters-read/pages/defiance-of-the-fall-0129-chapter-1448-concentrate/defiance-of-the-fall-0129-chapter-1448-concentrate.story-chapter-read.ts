@@ -5,7 +5,7 @@ export const defianceOfTheFall0129Chapter1448Concentrate = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0129-chapter-1448-concentrate",
   title: "Chapter 1,448 - Concentrate",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 129,
   ownLength: 2335,
   unitSlug: "words",

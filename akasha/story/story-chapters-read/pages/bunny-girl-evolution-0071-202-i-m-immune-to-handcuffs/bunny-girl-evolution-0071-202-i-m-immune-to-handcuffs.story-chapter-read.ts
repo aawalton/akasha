@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0071202IMImmuneToHandcuffs = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0071-202-i-m-immune-to-handcuffs",
   title: "202 - I'm Immune to Handcuffs??",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 71,
   ownLength: 3253,
   unitSlug: "words",

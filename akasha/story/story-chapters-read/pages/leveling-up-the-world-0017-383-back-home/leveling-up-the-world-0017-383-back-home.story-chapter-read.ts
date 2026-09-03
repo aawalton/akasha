@@ -5,7 +5,7 @@ export const levelingUpTheWorld0017383BackHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0017-383-back-home",
   title: "383. Back Home",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 17,
   ownLength: 2085,
   ownProgress: 2085,

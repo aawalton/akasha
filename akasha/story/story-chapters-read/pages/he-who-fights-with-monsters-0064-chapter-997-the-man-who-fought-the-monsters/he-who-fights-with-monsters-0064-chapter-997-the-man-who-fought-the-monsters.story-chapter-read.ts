@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0064Chapter997TheManWhoFoughtTheMonsters = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0064-chapter-997-the-man-who-fought-the-monsters",
   title: "Chapter 997: The Man Who Fought the Monsters",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 64,
   ownLength: 2803,
   unitSlug: "words",

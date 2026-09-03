@@ -5,7 +5,7 @@ export const motherOfLearning008282AncientCircles = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0082-82-ancient-circles",
   title: "82. Ancient Circles",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 82,
   ownLength: 7506,
   ownProgress: 7506,

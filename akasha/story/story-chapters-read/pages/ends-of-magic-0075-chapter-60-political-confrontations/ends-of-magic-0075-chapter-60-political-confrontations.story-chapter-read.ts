@@ -5,7 +5,7 @@ export const endsOfMagic0075Chapter60PoliticalConfrontations = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0075-chapter-60-political-confrontations",
   title: "Chapter 60: Political Confrontations",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 75,
   ownLength: 2678,
   ownProgress: 2678,

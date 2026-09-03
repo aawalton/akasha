@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0006ChapterTheCovenOfFabulousWitches0 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0006-chapter-the-coven-of-fabulous-witches-0",
   title: "Chapter ???? – The Coven of Fabulous Witches 0",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 6,
   ownLength: 254,
   unitSlug: "words",

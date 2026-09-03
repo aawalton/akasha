@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0058Chapter991ThisOfferKindOfSucks = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0058-chapter-991-this-offer-kind-of-sucks",
   title: "Chapter 991: This Offer Kind of Sucks",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 58,
   ownLength: 2501,
   unitSlug: "words",

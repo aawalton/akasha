@@ -5,7 +5,7 @@ export const endsOfMagic0077Chapter62AFullHouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0077-chapter-62-a-full-house",
   title: "Chapter 62: A Full House",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 77,
   ownLength: 2700,
   ownProgress: 302,

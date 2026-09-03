@@ -5,7 +5,7 @@ export const markOfTheFool0007Chapter7GoodDreamsAndBadLuck = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0007-chapter-7-good-dreams-and-bad-luck",
   title: "Chapter 7: Good Dreams and Bad Luck",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 7,
   ownLength: 2514,
   ownProgress: 2514,

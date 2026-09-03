@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0019Chapter952AllYourWellLearnedPolitesse = 
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0019-chapter-952-all-your-well-learned-politesse",
   title: "Chapter 952: All Your Well-Learned Politesse",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 19,
   ownLength: 2142,
   ownProgress: 2142,

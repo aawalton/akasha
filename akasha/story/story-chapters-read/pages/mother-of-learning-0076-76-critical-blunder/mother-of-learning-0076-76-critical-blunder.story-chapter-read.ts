@@ -5,7 +5,7 @@ export const motherOfLearning007676CriticalBlunder = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0076-76-critical-blunder",
   title: "76. Critical Blunder",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 76,
   ownLength: 7188,
   ownProgress: 7188,

@@ -5,7 +5,7 @@ export const defianceOfTheFall0135Chapter1454Rapture = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0135-chapter-1454-rapture",
   title: "Chapter 1,454 - Rapture",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 135,
   ownLength: 2905,
   unitSlug: "words",

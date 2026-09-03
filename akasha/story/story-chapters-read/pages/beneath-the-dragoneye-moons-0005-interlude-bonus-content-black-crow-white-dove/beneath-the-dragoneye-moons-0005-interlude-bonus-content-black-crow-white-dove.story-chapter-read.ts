@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowWhiteDove
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0005-interlude-bonus-content-black-crow-white-dove",
   title: "Interlude - Bonus Content - Black Crow//White Dove",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 5,
   ownLength: 315,
   unitSlug: "words",

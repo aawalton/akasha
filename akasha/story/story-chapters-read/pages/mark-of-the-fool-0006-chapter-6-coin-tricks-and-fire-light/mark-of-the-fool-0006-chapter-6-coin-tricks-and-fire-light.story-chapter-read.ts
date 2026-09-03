@@ -5,7 +5,7 @@ export const markOfTheFool0006Chapter6CoinTricksAndFireLight = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0006-chapter-6-coin-tricks-and-fire-light",
   title: "Chapter 6: Coin Tricks and Fire Light",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 6,
   ownLength: 2999,
   ownProgress: 2999,

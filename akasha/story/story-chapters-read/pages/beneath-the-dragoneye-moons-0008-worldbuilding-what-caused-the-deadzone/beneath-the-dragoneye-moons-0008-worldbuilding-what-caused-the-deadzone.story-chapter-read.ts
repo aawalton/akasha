@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0008-worldbuilding-what-caused-the-deadzone",
   title: "Worldbuilding - What caused the deadzone?",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 8,
   ownLength: 411,
   unitSlug: "words",

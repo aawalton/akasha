@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0067199GatheringOfOldFriends = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0067-199-gathering-of-old-friends",
   title: "199 - Gathering of Old Friends",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 67,
   ownLength: 3003,
   unitSlug: "words",

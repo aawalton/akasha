@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0091Chapter1021TheOneWayIKnowToKillAGod = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0091-chapter-1021-the-one-way-i-know-to-kill-a-god",
   title: "Chapter 1021: The One Way I Know to Kill a God",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 91,
   ownLength: 2897,
   unitSlug: "words",

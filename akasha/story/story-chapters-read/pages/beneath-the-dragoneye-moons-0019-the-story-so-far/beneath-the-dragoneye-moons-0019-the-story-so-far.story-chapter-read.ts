@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0019TheStorySoFar = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0019-the-story-so-far",
   title: "The story so far",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 19,
   ownLength: 2718,
   unitSlug: "words",

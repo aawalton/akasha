@@ -5,7 +5,7 @@ export const motherOfLearning0103103WindowOfOpportunity = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0103-103-window-of-opportunity",
   title: "103. Window of Opportunity",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 103,
   ownLength: 12302,
   ownProgress: 12302,

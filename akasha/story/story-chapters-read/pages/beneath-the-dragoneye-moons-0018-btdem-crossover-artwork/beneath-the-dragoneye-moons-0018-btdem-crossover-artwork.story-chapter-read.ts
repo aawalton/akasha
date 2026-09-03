@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0018-btdem-crossover-artwork",
   title: "BTDEM Crossover Artwork!",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 18,
   ownLength: 258,
   unitSlug: "words",

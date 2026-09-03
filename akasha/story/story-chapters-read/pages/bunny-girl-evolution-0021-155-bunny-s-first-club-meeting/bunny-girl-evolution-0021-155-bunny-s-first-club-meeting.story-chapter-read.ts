@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0021155BunnySFirstClubMeeting = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0021-155-bunny-s-first-club-meeting",
   title: "155 - Bunny's First Club Meeting",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 21,
   ownLength: 2937,
   ownProgress: 2937,

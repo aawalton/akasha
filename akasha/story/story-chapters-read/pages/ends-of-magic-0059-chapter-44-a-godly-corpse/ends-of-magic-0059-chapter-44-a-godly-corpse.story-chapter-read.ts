@@ -5,7 +5,7 @@ export const endsOfMagic0059Chapter44AGodlyCorpse = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0059-chapter-44-a-godly-corpse",
   title: "Chapter 44: A Godly Corpse ",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 59,
   ownLength: 2788,
   ownProgress: 2788,

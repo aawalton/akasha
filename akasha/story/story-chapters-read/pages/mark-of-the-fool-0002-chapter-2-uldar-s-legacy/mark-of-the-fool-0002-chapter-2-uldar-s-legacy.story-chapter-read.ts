@@ -5,7 +5,7 @@ export const markOfTheFool0002Chapter2UldarSLegacy = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0002-chapter-2-uldar-s-legacy",
   title: "Chapter 2: Uldar's Legacy",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 2,
   ownLength: 2277,
   ownProgress: 2277,

@@ -5,7 +5,7 @@ export const motherOfLearning006464Distance = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0064-64-distance",
   title: "64. Distance",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 64,
   ownLength: 7946,
   ownProgress: 7946,

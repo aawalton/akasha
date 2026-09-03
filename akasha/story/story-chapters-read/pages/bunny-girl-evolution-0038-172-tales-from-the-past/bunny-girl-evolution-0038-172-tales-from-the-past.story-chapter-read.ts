@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0038172TalesFromThePast = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0038-172-tales-from-the-past",
   title: "172 - Tales From the Past",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 38,
   ownLength: 3572,
   ownProgress: 3572,

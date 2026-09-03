@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0059191DoNotSpeakFurther = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0059-191-do-not-speak-further",
   title: "191 - Do Not Speak Further",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 59,
   ownLength: 3295,
   unitSlug: "words",

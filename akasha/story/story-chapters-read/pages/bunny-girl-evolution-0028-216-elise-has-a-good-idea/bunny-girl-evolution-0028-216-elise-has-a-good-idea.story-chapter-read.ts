@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0028216EliseHasAGoodIdea = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0028-216-elise-has-a-good-idea",
   title: "216 - Elise Has a Good Idea",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 28,
   ownLength: 2284,
   unitSlug: "words",

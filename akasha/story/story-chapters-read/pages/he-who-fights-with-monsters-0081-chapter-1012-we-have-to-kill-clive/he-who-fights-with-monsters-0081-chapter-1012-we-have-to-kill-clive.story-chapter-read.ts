@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0081Chapter1012WeHaveToKillClive = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0081-chapter-1012-we-have-to-kill-clive",
   title: "Chapter 1012: We Have to Kill Clive",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 81,
   ownLength: 2615,
   unitSlug: "words",

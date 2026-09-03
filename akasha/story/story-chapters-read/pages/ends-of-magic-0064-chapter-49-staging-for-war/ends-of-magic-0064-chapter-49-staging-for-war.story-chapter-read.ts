@@ -5,7 +5,7 @@ export const endsOfMagic0064Chapter49StagingForWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0064-chapter-49-staging-for-war",
   title: "Chapter 49: Staging for War",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 64,
   ownLength: 2837,
   ownProgress: 2837,

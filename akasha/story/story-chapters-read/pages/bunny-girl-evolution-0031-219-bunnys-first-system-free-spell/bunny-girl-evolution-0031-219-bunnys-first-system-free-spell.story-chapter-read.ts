@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0031219BunnysFirstSystemFreeSpell = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0031-219-bunnys-first-system-free-spell",
   title: "219 - Bunny's First System Free Spell",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 31,
   ownLength: 2416,
   unitSlug: "words",

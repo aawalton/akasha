@@ -5,7 +5,7 @@ export const motherOfLearning006666MarredPerfection = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0066-66-marred-perfection",
   title: "66. Marred Perfection",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 66,
   ownLength: 7571,
   ownProgress: 7571,

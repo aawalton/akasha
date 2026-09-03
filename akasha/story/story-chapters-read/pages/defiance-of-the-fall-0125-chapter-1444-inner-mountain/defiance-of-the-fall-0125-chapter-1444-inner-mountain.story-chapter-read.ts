@@ -5,7 +5,7 @@ export const defianceOfTheFall0125Chapter1444InnerMountain = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0125-chapter-1444-inner-mountain",
   title: "Chapter 1,444 - Inner Mountain",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 125,
   ownLength: 2857,
   unitSlug: "words",

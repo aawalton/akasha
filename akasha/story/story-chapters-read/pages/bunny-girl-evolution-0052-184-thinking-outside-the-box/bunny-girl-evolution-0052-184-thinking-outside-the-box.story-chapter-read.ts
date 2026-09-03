@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0052184ThinkingOutsideTheBox = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0052-184-thinking-outside-the-box",
   title: "184 - Thinking Outside the Box",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 52,
   ownLength: 2978,
   unitSlug: "words",

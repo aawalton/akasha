@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0063Chapter996TheMoreIListenTheMoreIHear = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0063-chapter-996-the-more-i-listen-the-more-i-hear",
   title: "Chapter 996: The More I Listen, The More I Hear",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 63,
   ownLength: 2785,
   unitSlug: "words",

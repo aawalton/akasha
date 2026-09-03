@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0014ChapterTheWish1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0014-chapter-the-wish-1",
   title: "Chapter ??? - The Wish 1",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 14,
   ownLength: 2309,
   unitSlug: "words",

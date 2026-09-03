@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0062194ShirtHurtShirtHealer = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0062-194-shirt-hurt-shirt-healer",
   title: "194 - Shirt Hurt! Shirt Healer!",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 62,
   ownLength: 4410,
   unitSlug: "words",

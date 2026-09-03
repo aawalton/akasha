@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0009ChapterDragoneyeMortis11 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0009-chapter-dragoneye-mortis-1-1",
   title: "Chapter ??? - Dragoneye Mortis 1.1",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 9,
   ownLength: 1994,
   unitSlug: "words",

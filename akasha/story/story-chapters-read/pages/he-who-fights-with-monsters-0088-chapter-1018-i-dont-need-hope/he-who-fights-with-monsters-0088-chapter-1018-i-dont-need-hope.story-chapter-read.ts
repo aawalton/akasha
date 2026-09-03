@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0088Chapter1018IDontNeedHope = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0088-chapter-1018-i-dont-need-hope",
   title: "Chapter 1018: I Don’t Need Hope",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 88,
   ownLength: 2108,
   unitSlug: "words",

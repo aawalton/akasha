@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0050182CompensationForYourTrouble = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0050-182-compensation-for-your-trouble",
   title: "182 - Compensation For Your Trouble",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 50,
   ownLength: 3183,
   unitSlug: "words",

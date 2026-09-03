@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0007StubAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0007-stub-announcement",
   title: "Stub Announcement",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 7,
   ownLength: 199,
   ownProgress: 199,

@@ -5,7 +5,7 @@ export const bunnyGirlEvolution000855TheSiblingsB2Start = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0008-55-the-siblings-b2-start",
   title: "55 - The Siblings (B2 Start)",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 8,
   ownLength: 4018,
   ownProgress: 4018,

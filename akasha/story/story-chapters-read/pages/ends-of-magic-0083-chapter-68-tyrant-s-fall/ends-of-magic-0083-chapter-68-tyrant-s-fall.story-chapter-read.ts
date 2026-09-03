@@ -5,7 +5,7 @@ export const endsOfMagic0083Chapter68TyrantSFall = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0083-chapter-68-tyrant-s-fall",
   title: "Chapter 68: Tyrant’s Fall",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 83,
   ownLength: 3264,
   unitSlug: "words",

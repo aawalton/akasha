@@ -5,7 +5,7 @@ export const motherOfLearning005454TheGateIsBarred = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0054-54-the-gate-is-barred",
   title: "54. The Gate Is Barred",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 54,
   ownLength: 8818,
   ownProgress: 8818,

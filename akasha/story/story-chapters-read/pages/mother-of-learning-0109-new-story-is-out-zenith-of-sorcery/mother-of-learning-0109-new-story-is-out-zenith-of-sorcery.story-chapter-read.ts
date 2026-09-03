@@ -5,7 +5,7 @@ export const motherOfLearning0109NewStoryIsOutZenithOfSorcery = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0109-new-story-is-out-zenith-of-sorcery",
   title: "New story is out - Zenith of Sorcery",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 109,
   ownLength: 154,
   ownProgress: 154,

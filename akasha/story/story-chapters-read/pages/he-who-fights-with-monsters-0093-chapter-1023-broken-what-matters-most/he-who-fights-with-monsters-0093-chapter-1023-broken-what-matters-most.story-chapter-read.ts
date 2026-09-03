@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0093Chapter1023BrokenWhatMattersMost = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0093-chapter-1023-broken-what-matters-most",
   title: "Chapter 1023: Broken What Matters Most",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 93,
   ownLength: 3004,
   unitSlug: "words",

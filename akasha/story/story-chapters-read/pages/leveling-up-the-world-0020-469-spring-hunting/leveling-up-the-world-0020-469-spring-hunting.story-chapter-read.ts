@@ -5,7 +5,7 @@ export const levelingUpTheWorld0020469SpringHunting = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0020-469-spring-hunting",
   title: "469. Spring Hunting",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 20,
   ownLength: 2083,
   ownProgress: 2083,

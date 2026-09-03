@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0065197AGameOfSecrets = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0065-197-a-game-of-secrets",
   title: "197 - A Game of Secrets",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 65,
   ownLength: 2972,
   unitSlug: "words",

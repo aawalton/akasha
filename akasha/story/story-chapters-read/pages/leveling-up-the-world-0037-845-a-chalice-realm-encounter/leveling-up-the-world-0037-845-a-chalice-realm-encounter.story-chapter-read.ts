@@ -5,7 +5,7 @@ export const levelingUpTheWorld0037845AChaliceRealmEncounter = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0037-845-a-chalice-realm-encounter",
   title: "845. A Chalice Realm Encounter",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 37,
   ownLength: 2057,
   ownProgress: 2057,

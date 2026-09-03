@@ -5,7 +5,7 @@ export const endsOfMagic0076Chapter61TheArenaOfConcord = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0076-chapter-61-the-arena-of-concord",
   title: "Chapter 61: The Arena of Concord",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 76,
   ownLength: 2887,
   ownProgress: 2887,

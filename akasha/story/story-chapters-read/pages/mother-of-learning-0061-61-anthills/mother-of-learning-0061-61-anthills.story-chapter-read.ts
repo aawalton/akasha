@@ -5,7 +5,7 @@ export const motherOfLearning006161Anthills = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0061-61-anthills",
   title: "61. Anthills",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 61,
   ownLength: 7146,
   ownProgress: 7146,

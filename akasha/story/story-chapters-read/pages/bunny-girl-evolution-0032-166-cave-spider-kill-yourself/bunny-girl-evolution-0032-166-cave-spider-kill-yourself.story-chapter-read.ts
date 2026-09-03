@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0032166CaveSpiderKillYourself = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0032-166-cave-spider-kill-yourself",
   title: "166 - Cave Spider, Kill Yourself",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 32,
   ownLength: 3528,
   ownProgress: 3528,

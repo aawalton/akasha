@@ -5,7 +5,7 @@ export const markOfTheFool0017FoolRelatedAnnouncementMarkOfTheFool8OutInEbookAn 
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0017-fool-related-announcement-mark-of-the-fool-8-out-in-ebook-an",
   title: "Fool-Related Announcement: Mark of the Fool 8 out in ebook and paperback form!",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 17,
   ownLength: 173,
   unitSlug: "words",

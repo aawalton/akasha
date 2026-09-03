@@ -5,7 +5,7 @@ export const azarinthHealer0010Chapter931MonstersInTheNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0010-chapter-931-monsters-in-the-night",
   title: "Chapter 931 Monsters in the night",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 10,
   ownLength: 2709,
   unitSlug: "words",

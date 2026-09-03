@@ -5,7 +5,7 @@ export const levelingUpTheWorld0039847EastDomain = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0039-847-east-domain",
   title: "847. East Domain",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 39,
   ownLength: 2049,
   ownProgress: 2049,

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0028Chapter961TheScaryDemigodSide = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0028-chapter-961-the-scary-demigod-side",
   title: "Chapter 961: The Scary Demigod Side",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 28,
   ownLength: 2415,
   ownProgress: 2415,

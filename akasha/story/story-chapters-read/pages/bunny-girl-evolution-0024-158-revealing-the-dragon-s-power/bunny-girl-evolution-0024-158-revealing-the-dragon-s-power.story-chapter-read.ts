@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0024158RevealingTheDragonSPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0024-158-revealing-the-dragon-s-power",
   title: "158 - Revealing the Dragon's Power",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 24,
   ownLength: 3201,
   ownProgress: 3201,

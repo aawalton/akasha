@@ -5,7 +5,7 @@ export const motherOfLearning006565DangerousGround = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0065-65-dangerous-ground",
   title: "65. Dangerous Ground",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 65,
   ownLength: 9703,
   ownProgress: 9703,

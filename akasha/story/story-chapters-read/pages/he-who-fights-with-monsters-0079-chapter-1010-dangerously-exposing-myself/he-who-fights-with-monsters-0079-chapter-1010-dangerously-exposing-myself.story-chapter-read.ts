@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0079Chapter1010DangerouslyExposingMyself = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0079-chapter-1010-dangerously-exposing-myself",
   title: "Chapter 1010: Dangerously Exposing Myself",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 79,
   ownLength: 2710,
   unitSlug: "words",

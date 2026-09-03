@@ -5,7 +5,7 @@ export const motherOfLearning0100100Sacrifice = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0100-100-sacrifice",
   title: "100. Sacrifice",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 100,
   ownLength: 6633,
   ownProgress: 6633,

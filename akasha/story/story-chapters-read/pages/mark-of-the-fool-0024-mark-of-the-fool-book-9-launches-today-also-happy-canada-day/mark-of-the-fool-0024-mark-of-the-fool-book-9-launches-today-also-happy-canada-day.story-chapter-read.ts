@@ -5,7 +5,7 @@ export const markOfTheFool0024MarkOfTheFoolBook9LaunchesTodayAlsoHappyCanadaDay 
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0024-mark-of-the-fool-book-9-launches-today-also-happy-canada-day",
   title: "Mark of the Fool Book 9 Launches today! (Also happy Canada Day my fellow Canadians)",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 24,
   ownLength: 74,
   unitSlug: "words",

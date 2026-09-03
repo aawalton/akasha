@@ -5,7 +5,7 @@ export const levelingUpTheWorld0031653TripInABox = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0031-653-trip-in-a-box",
   title: "653. Trip in a Box",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 31,
   ownLength: 2070,
   ownProgress: 2070,

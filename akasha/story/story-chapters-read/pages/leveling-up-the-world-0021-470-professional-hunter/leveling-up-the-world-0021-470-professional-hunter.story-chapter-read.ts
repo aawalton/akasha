@@ -5,7 +5,7 @@ export const levelingUpTheWorld0021470ProfessionalHunter = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0021-470-professional-hunter",
   title: "470. Professional Hunter",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 21,
   ownLength: 2043,
   ownProgress: 2043,

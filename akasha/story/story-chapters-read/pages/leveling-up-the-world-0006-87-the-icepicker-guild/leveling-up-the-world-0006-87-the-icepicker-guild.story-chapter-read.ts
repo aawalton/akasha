@@ -5,7 +5,7 @@ export const levelingUpTheWorld000687TheIcepickerGuild = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0006-87-the-icepicker-guild",
   title: "87. The Icepicker Guild",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 6,
   ownLength: 2124,
   ownProgress: 2124,

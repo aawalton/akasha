@@ -5,7 +5,7 @@ export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0001-chapter-1-boring-introduction-where-is-the-magic",
   title: "Chapter 1 Boring introduction - Where is the magic?",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 1,
   ownLength: 2487,
   unitSlug: "words",

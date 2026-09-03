@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0092Chapter1022WhileWeHaveTheChance = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0092-chapter-1022-while-we-have-the-chance",
   title: "Chapter 1022: While We Have the Chance",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 92,
   ownLength: 2867,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0015TheProblemsWithBeneathTheDragoneyeMoons
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0015-the-problems-with-beneath-the-dragoneye-moons",
   title: "The problems with Beneath the Dragoneye Moons",
-  partOfSlugs: ["beneath-the-dragoneye-moons"],
+  partOfSlugs: ["story-read/beneath-the-dragoneye-moons"],
   position: 15,
   ownLength: 1395,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const motherOfLearning008181ACivilConversation = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0081-81-a-civil-conversation",
   title: "81. A Civil Conversation",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 81,
   ownLength: 6383,
   ownProgress: 6383,

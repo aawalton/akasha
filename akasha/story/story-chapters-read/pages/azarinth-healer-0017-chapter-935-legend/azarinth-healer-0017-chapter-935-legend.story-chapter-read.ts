@@ -5,7 +5,7 @@ export const azarinthHealer0017Chapter935Legend = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0017-chapter-935-legend",
   title: "Chapter 935 Legend",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 17,
   ownLength: 3789,
   unitSlug: "words",

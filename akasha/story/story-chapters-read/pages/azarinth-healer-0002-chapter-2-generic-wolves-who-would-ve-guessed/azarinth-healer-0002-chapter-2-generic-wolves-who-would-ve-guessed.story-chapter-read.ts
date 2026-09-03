@@ -5,7 +5,7 @@ export const azarinthHealer0002Chapter2GenericWolvesWhoWouldVeGuessed = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0002-chapter-2-generic-wolves-who-would-ve-guessed",
   title: "Chapter 2 Generic wolves - who would've guessed",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 2,
   ownLength: 3491,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const markOfTheFool0028CrossPostedFromPatreonIUhNeedSomeHelp = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0028-cross-posted-from-patreon-i-uh-need-some-help",
   title: "(Cross posted from Patreon) I uh, need some help",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 28,
   ownLength: 303,
   unitSlug: "words",

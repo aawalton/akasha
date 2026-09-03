@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0048Chapter981WhatForeverMeans = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0048-chapter-981-what-forever-means",
   title: "Chapter 981: What Forever Means",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 48,
   ownLength: 2717,
   ownProgress: 2717,

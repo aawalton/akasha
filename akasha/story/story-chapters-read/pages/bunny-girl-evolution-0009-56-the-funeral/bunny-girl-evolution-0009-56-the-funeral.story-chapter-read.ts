@@ -5,7 +5,7 @@ export const bunnyGirlEvolution000956TheFuneral = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0009-56-the-funeral",
   title: "56 - The Funeral",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 9,
   ownLength: 3198,
   ownProgress: 3198,

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0023Chapter956EmergentSituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0023-chapter-956-emergent-situation",
   title: "Chapter 956: Emergent Situation",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 23,
   ownLength: 2421,
   ownProgress: 2421,

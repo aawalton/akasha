@@ -5,7 +5,7 @@ export const motherOfLearning006868GreenHell = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0068-68-green-hell",
   title: "68. Green Hell",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 68,
   ownLength: 8418,
   ownProgress: 8418,

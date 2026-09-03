@@ -5,7 +5,7 @@ export const levelingUpTheWorld0041849LackOfInhabitants = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0041-849-lack-of-inhabitants",
   title: "849. Lack of Inhabitants",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 41,
   ownLength: 2025,
   ownProgress: 2025,

@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0014105PosingAsNobilityB3Start = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0014-105-posing-as-nobility-b3-start",
   title: "105 - Posing as Nobility (B3 start)",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 14,
   ownLength: 2610,
   ownProgress: 2610,

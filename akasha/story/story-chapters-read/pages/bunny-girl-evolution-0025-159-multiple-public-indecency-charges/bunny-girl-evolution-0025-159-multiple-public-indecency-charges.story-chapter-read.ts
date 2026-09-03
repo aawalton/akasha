@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0025159MultiplePublicIndecencyCharges = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0025-159-multiple-public-indecency-charges",
   title: "159 - Multiple Public Indecency Charges",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 25,
   ownLength: 3285,
   ownProgress: 3285,

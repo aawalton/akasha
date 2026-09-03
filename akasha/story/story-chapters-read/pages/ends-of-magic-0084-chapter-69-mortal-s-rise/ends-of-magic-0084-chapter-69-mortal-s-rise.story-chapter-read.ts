@@ -5,7 +5,7 @@ export const endsOfMagic0084Chapter69MortalSRise = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0084-chapter-69-mortal-s-rise",
   title: "Chapter 69: Mortal’s Rise",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 84,
   ownLength: 3249,
   unitSlug: "words",

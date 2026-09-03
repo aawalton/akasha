@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0060192FriendsHelpEachOther = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0060-192-friends-help-each-other",
   title: "192 - Friends Help Each Other",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 60,
   ownLength: 3192,
   unitSlug: "words",

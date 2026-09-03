@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0021Chapter954Misgivings = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0021-chapter-954-misgivings",
   title: "Chapter 954: Misgivings",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 21,
   ownLength: 2127,
   ownProgress: 2127,

@@ -5,7 +5,7 @@ export const azarinthHealer0016NotAChapterUpdateOnTheStorySerializedVersion = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0016-not-a-chapter-update-on-the-story-serialized-version",
   title: "Not a chapter - Update on the story/serialized version",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 16,
   ownLength: 488,
   unitSlug: "words",

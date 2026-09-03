@@ -5,7 +5,7 @@ export const endsOfMagic0090Epilogue2NineYearsLater = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0090-epilogue-2-nine-years-later",
   title: "Epilogue 2: Nine years later",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 90,
   ownLength: 4170,
   unitSlug: "words",

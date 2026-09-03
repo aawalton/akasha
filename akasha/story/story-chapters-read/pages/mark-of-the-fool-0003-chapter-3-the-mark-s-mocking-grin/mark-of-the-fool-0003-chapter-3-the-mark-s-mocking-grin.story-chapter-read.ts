@@ -5,7 +5,7 @@ export const markOfTheFool0003Chapter3TheMarkSMockingGrin = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0003-chapter-3-the-mark-s-mocking-grin",
   title: "Chapter 3: The Mark's Mocking Grin",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 3,
   ownLength: 3032,
   ownProgress: 3032,

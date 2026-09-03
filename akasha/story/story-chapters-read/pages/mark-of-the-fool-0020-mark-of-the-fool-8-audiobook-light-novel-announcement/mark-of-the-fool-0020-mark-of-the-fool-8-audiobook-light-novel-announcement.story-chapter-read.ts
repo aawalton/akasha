@@ -5,7 +5,7 @@ export const markOfTheFool0020MarkOfTheFool8AudiobookLightNovelAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0020-mark-of-the-fool-8-audiobook-light-novel-announcement",
   title: "Mark of the Fool 8 Audiobook + LIGHT NOVEL ANNOUNCEMENT",
-  partOfSlugs: ["mark-of-the-fool"],
+  partOfSlugs: ["story-read/mark-of-the-fool"],
   position: 20,
   ownLength: 355,
   unitSlug: "words",

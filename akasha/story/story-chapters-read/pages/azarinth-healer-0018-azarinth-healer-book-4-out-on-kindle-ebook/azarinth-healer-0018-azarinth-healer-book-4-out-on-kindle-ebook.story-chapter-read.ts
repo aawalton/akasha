@@ -5,7 +5,7 @@ export const azarinthHealer0018AzarinthHealerBook4OutOnKindleEbook = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0018-azarinth-healer-book-4-out-on-kindle-ebook",
   title: "Azarinth Healer - Book 4 out on Kindle/ebook",
-  partOfSlugs: ["azarinth-healer"],
+  partOfSlugs: ["story-read/azarinth-healer"],
   position: 18,
   ownLength: 3,
   unitSlug: "words",

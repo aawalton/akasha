@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0057Chapter990MonstrousOnTheInside = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0057-chapter-990-monstrous-on-the-inside",
   title: "Chapter 990: Monstrous on the Inside",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 57,
   ownLength: 2099,
   ownProgress: 269,

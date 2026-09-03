@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0003Chapter3LocalCuisine = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0003-chapter-3-local-cuisine",
   title: "Chapter 3: Local Cuisine",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 3,
   ownLength: 1566,
   ownProgress: 1566,

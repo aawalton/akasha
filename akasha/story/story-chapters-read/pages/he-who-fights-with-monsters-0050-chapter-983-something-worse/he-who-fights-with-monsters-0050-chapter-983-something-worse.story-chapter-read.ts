@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0050Chapter983SomethingWorse = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0050-chapter-983-something-worse",
   title: "Chapter 983: Something Worse",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 50,
   ownLength: 2534,
   ownProgress: 2534,

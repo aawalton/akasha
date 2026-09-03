@@ -5,7 +5,7 @@ export const levelingUpTheWorld000788EntryTest = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0007-88-entry-test",
   title: "88. Entry Test",
-  partOfSlugs: ["leveling-up-the-world"],
+  partOfSlugs: ["story-read/leveling-up-the-world"],
   position: 7,
   ownLength: 2036,
   ownProgress: 2036,

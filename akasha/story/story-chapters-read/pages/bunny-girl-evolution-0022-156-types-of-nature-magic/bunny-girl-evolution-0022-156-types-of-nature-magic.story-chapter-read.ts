@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0022156TypesOfNatureMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0022-156-types-of-nature-magic",
   title: "156 - Types of Nature Magic",
-  partOfSlugs: ["bunny-girl-evolution"],
+  partOfSlugs: ["story-read/bunny-girl-evolution"],
   position: 22,
   ownLength: 3264,
   ownProgress: 3264,

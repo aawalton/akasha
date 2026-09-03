@@ -5,7 +5,7 @@ export const motherOfLearning007979CrimeAndEvadingPunishment = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0079-79-crime-and-evading-punishment",
   title: "79. Crime and Evading Punishment",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 79,
   ownLength: 6141,
   ownProgress: 6141,

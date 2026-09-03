@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0061Chapter994NotOpenToOutsideConsultation =
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0061-chapter-994-not-open-to-outside-consultation",
   title: "Chapter 994: Not Open to Outside Consultation",
-  partOfSlugs: ["he-who-fights-with-monsters"],
+  partOfSlugs: ["story-read/he-who-fights-with-monsters"],
   position: 61,
   ownLength: 3169,
   unitSlug: "words",
