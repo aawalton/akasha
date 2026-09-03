@@ -17,7 +17,7 @@ export const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
 
 const STORY_TYPES = Object.keys(CHAPTER_TYPE_BY_STORY_TYPE)
 
-const STORY_KEYS = ["id", "title", "slug", "ownProgress", "totalLength"]
+const STORY_KEYS = ["id", "title", "slug", "ownProgress", "ownLength"]
 const CHAPTER_KEYS = ["id", "title", "slug", "position", "ownLength", "ownProgress", "completedAt"]
 
 const ASK_LIMIT = 20_000
@@ -59,7 +59,7 @@ function storyRecordOf(values: Readonly<Record<string, unknown>>): Record<string
     title: values.title ?? "",
     slug: values.slug ?? "",
     progress: numberOr(values.ownProgress),
-    length: numberOr(values.totalLength),
+    length: numberOr(values.ownLength),
   }
 }
 
