@@ -1,0 +1,23 @@
+import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
+
+export const library = {
+  id: "01a06574-0291-7000-bfeb-0932b2156cac",
+  pageTypeSlug: "domain",
+  slug: "library",
+  definition: "what Alan works through, and how far through it he has got",
+  partSlugs: ["domain/studying"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Everything kept here is a collection.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A work, an instalment of a work and a shelf of works are each one collection.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What holds what is the one edge every part of this domain is read along.",
+    },
+  ],
+} as const satisfies Domain
