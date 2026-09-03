@@ -372,6 +372,12 @@
     },
     "akasha/editor-extension": {
       "name": "@akasha/editor-extension",
+      "peerDependencies": {
+        "vscode": "^1.85.0",
+      },
+      "optionalPeers": [
+        "vscode",
+      ],
     },
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
