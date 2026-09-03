@@ -1,38 +1,25 @@
-export type PageAccessClient = unknown
+/**
+ * The narrow types this folder shares with `lib/tracking`.
+ *
+ * Fourteen more were declared here and named by nobody: `Json`, `PageCondition`, `PageWhere`,
+ * `PageCursor`, `GetPagesResult`, `QueryRow`, `Asked`, `Written`, `ComposedQuery`,
+ * `PageEntitySurfaceConfig`, `DailyTierColor`, `DailyTierLadder`, `InboxKey` and
+ * `VolumeSetInput`. They described a page client that was removed, and they outlived it.
+ *
+ * What reads this module was counted across whole import clauses rather than line by line, so a
+ * multi-line clause is not missed: the ten files under `lib/tracking` name `Page` alone,
+ * `tracking-capability.ts` names `Page` and `PageAccessClient`, and the three siblings here name
+ * `WriteOutcome`, `ReadonlyJSONValue` and `PropertyDefinition`. A namespace import or a default
+ * import would hide a reader from that count, so both were searched for under a seeded control
+ * that fired; neither exists. The five below are the whole of what anything reads.
+ */
 
-export type Json = string | number | boolean | null | readonly Json[] | { readonly [k: string]: Json }
+export type PageAccessClient = unknown
 
 export interface Page {
   readonly id: string
   readonly seq: number
   readonly [key: string]: unknown
-}
-
-export type PageCondition =
-  | { readonly key: string; readonly eq: Json }
-  | { readonly key: string; readonly neq: Json }
-  | { readonly key: string; readonly lt: Json }
-  | { readonly key: string; readonly gt: Json }
-  | { readonly key: string; readonly lte: Json }
-  | { readonly key: string; readonly gte: Json }
-  | { readonly key: string; readonly isNull: true }
-  | { readonly key: string; readonly in: readonly Json[] }
-  | { readonly key: string; readonly notIn: readonly Json[] }
-  | { readonly key: string; readonly contains: string }
-  | { readonly key: string; readonly notContains: string }
-  | { readonly key: string; readonly includes: Json }
-  | { readonly key: string; readonly isEmpty: true }
-  | { readonly key: string; readonly isNotEmpty: true }
-  | { readonly or: readonly PageCondition[] }
-
-export type PageWhere = readonly PageCondition[]
-
-export type PageCursor = string
-
-export interface GetPagesResult {
-  readonly rows: readonly Page[]
-  readonly nextCursor: PageCursor | null
-  readonly count: number | null
 }
 
 export type WriteOutcome = "patched" | "created"
@@ -49,41 +36,5 @@ export interface PropertyDefinition {
   readonly id: string
   readonly slug: string
   readonly kind?: string
-  readonly [key: string]: unknown
-}
-
-export interface QueryRow {
-  readonly values: Record<string, unknown>
-}
-
-export type Asked =
-  | {
-      readonly ok: true
-      readonly answer: { readonly n: number; readonly rows: readonly QueryRow[] }
-    }
-  | { readonly ok: false; readonly why: string }
-
-export type Written = { readonly ok: true } | { readonly ok: false; readonly why: string }
-
-export interface ComposedQuery {
-  readonly "page-type": string
-  readonly where?: Record<string, unknown>
-  readonly keys?: readonly string[]
-  readonly limit?: number
-  readonly [key: string]: unknown
-}
-
-export interface PageEntitySurfaceConfig {
-  readonly slug: string
-  readonly columns: readonly string[]
-}
-
-export type DailyTierColor = string
-
-export type DailyTierLadder = readonly unknown[]
-
-export type InboxKey = string
-
-export interface VolumeSetInput {
   readonly [key: string]: unknown
 }
