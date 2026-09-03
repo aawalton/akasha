@@ -11,7 +11,9 @@ do
 done
 unset _be _be_dir _be_roots
 
+_be_held="$AKASHA_ROOT/akasha/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.shell.sh"
 # shellcheck source=/dev/null
-[ -f "$AKASHA_ROOT/tools/bash-env.sh" ] && . "$AKASHA_ROOT/tools/bash-env.sh"
+[ -f "$_be_held" ] && . "$_be_held"
+unset _be_held
 
 true

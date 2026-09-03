@@ -17,6 +17,7 @@ export const shellScript = {
   partSlugs: [
     "boolean-property/sourced",
     "file-property/shell",
+    "shell-script/bash-env",
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
   ],
