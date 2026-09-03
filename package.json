@@ -9,7 +9,6 @@
     "infra/ci-workflows",
     "infra/eso-rig",
     "infra/scripts",
-    "infra/workspace-cli",
     "readouts",
     "shared/vscode-typings",
     "tools/lib",
