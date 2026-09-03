@@ -4,6 +4,7 @@ import {
   carriedIn,
   declarationsOf,
   pageAt,
+  propertiesIfNamedOf,
   propertiesOf,
   type Source,
   sourceIn,
@@ -61,6 +62,10 @@ export type Answering = {
   readonly pageAt: (pageTypeSlug: string, slug: string) => Value | null
   readonly pageTypesIn: () => ReadonlySet<string>
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
+  // The tolerant reading, for a caller whose population comes from files rather than from what
+  // this index lists. It answers null where the page type cannot be read, which propertiesOf
+  // refuses over.
+  readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
   readonly schemaAt: () => ReadonlyMap<string, Filed>
   readonly sidecarsAt: () => SidecarsBy
   readonly schemaOf: (named: string) => Schemad
@@ -90,6 +95,7 @@ export function answeringOver(reading: Reading, root: string | null, pageOf: Pag
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
     pageTypesIn: () => pageTypesIn(reading),
     propertiesOf: (pageTypeSlug) => propertiesOf(pageTypeSlug, reading, pageOf),
+    propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
     schemaAt: () => schemaAt(reading),
     sidecarsAt: () => sidecarsOver(reading, []),
     schemaOf: (named) => schemaOf(reading, named),

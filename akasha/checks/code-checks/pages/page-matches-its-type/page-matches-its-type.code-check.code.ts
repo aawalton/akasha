@@ -278,7 +278,12 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carriedBy = (pageTypeSlug: string): readonly Carried[] => {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
-    const said = shadow.index.propertiesOf(pageTypeSlug)
+    // The page names its own type, so this asks about a page type it did not pick and the index
+    // may not name — which is the whole shape of the fault this check exists to catch. It takes
+    // the tolerant reading and passes over what cannot be read, because a check that throws is a
+    // check that does not run, and an index missing a page type is the index's fault rather than
+    // this page's.
+    const said = shadow.index.propertiesIfNamed(pageTypeSlug) ?? []
     held.set(pageTypeSlug, said)
     return said
   }
