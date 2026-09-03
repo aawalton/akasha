@@ -20,7 +20,7 @@ function repoAt(prefix: string): string {
 
 function repoWith(): string {
   const root = repoAt("repo-measuring-")
-  put(root, ".gitignore", "dist/\nnode_modules/\n")
+  put(root, ".gitignore", "dist/\nnode_modules/\nbuild/\n")
   put(root, "akasha/one.ts", "one\n")
   put(root, "akasha/deep/two.ts", "two\n")
   put(root, "tools/three.ts", "three\n")
@@ -28,12 +28,14 @@ function repoWith(): string {
   put(root, "akasha/node_modules/six.ts", "six\n")
   put(root, "tools/dist/eight.js", "eight\n")
   put(root, "akasha/dist/nine.js", "nine\n")
+  put(root, "tools/build/twelve.js", "twelve\n")
+  put(root, "akasha/build/thirteen.js", "thirteen\n")
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   return root
 }
 
-test("a file the repository ignores is not counted", () => {
+test("a file the repository ignores is not counted, whatever its folder is named", () => {
   const counts = countsIn(repoWith())
 
   expect(counts.repo).toBe(4)
