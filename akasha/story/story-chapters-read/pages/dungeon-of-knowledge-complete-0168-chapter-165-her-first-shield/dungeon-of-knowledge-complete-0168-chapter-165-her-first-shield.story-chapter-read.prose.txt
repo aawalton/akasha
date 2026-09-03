@@ -144,3 +144,108 @@ First job? What… Aah! Before her brain even caught up with her, she scrambled 
 
 “The tank gets hit a lot. It may be educational to watch a serious fight,” Thuli said. “Adventurer groups are organized around having all the monsters hit the tank and everyone else shoots or stabs the monsters. This means that the armor sets worn by any other class will only occasionally be needed ta keep them alive, usually when things are going poorly. Mostly they will care about the enchantments buffing their attributes. But the tank will try to take every hit, only surviving because of excellent equipment and the skills ta use it. The rest of the team relies on that ta survive. When ya make a good tank breastplate or shield, yer skills are not just protecting the tank – every member of the team is effectively hiding behind those pieces.”
 
+“Thank you for your wisdom. This one begins to understand,” Kavé answered. It made a lot of sense when he put it that way, just based on how much each piece was used, the tank would be routinely hit way more than any other member of the team.
+
+“If ya wish to grow and gain experience, form a relationship with a good tank, and make them the best shield ya can forge. The shield is where most of the blacksmith’s experience comes from – remember, that shield is protecting the whole group. Sure, a rogue’s daggers see a lot of action and can be a good investment, but the tank will do more, and more often, with the shield. Yer second priority is the tank’s breastplate.”
+
+“Ok,” Kavé said, nodding excitedly. It was turning out to be a rather important lesson for her, important enough that she didn’t mind having to have it in front of everyone.
+
+But then he surprised her again.
+
+“Ok, measure young Sabri here. You will craft her first steel shield and breastplate. Keep it simple, match the lass’s level, and practice yer Fireforged Steel technique. Don’t forget what I said about the importance of the shield – she will be putting her life and the lives of her team in yer hands. Nothing but yer best work, hear me?”
+
+Kavé glanced down at her hands, turning them over once. “Yes, m– Thuli.”
+
+Thuli turned to Sabri and said, “I will inspect the pieces, but my apprentice is quite skilled, I’m sure you’re going to be very happy with her work.”
+
+“I… I can’t pay for something that good,” Sabri said, embarrassment leaking from her voice and even her posture.
+
+“Don’t worry, lassie. Yer Guildmaster and I have an arrangement. I give good discounts ta anyone that isn’t at least bronze rank in exchange for being the guild-recommended blacksmith. The guild will also pay me up front and let ya pay off the cost of the items when ya take quests later. It’s a pretty good deal if I say so myself. Yer Guildmaster is a sharp lass, prioritizing safety even for those who haven’t got enough levels to earn their keep yet.”
+
+Sabri bobbed her head. “I… see.”
+
+Thuli clapped the girl on the shoulder, his heavy hand making a surprisingly solid connection – and the girl barely flinched. Not unimpressive. “Besides, you’ll be back when you grow.”
+
+Heart racing, Kavé quickly measured Sabri and then fled to the forge to begin her work, leaving them to their discussions and business – which seemed to involve a great deal more Lesser Essences of Flame and the challenging shapeshifter piece Thuli had been sweating over for the last few days.
+
+She drew the steel into the forge with her magic, shaping and restructuring it while she added the appropriate quantities of each component, just as Thuli had taught her. Trace ingredients, ores, and reagents that must be blended at the perfect temperature and time to produce the strongest alloy. As she fell into the familiar zone of shaping the molten steel with her magic, skills, and hammer, her anxiety fell away, and she touched the pure joy of creating. She worked quickly, but every strike was practiced, every application of her skill purified the metal, shaped it to her will as the breastplate and shield slowly took form on her anvil.
+
+When she finally pulled them out of the quenching trough and polished them with a quick pulse of her steel magic her breath caught in her throat. She knew. She studied the gleaming pieces, but they were perfect – the best she had ever crafted. She glanced up, realizing that Sabri had found a perch nearby and had been watching her work the entire time. Gesturing for the girl to follow, she made her way to where Thuli was engrossed in a conversation with Aliandra and the others.
+
+“Master,” she said, placing her work on the table before him, forgetting in the moment that he had forbidden her from calling him that. She wiped the sweat off her brow, eagerly awaiting his reaction.
+
+He glanced at the pieces and then stared openly at her. “Kavé! Your first masterwork pieces, well done!” He slapped her heavily on the shoulder making her stumble, forgetting his true strength for a moment. “Och, sorry lass. Now watch carefully,” he said. Picking up a random dagger from a box, he channeled his mana into the piece, signing it. It was a process she could see simply by how it affected the metal itself, and she had watched him do it many times.
+
+“Now, you sign yer pieces,” Thuli said.
+
+“But this one is still an apprentice and only level seventeen?” Kavé exclaimed in surprise. Apprentices never got to sign their work. If it was good enough to sell, the master would always sign it. Only when she had graduated to at least journeyman rank would she be allowed to place her mana signature on her work. It was simply unheard of for a level seventeen blacksmith to be doing such a thing.
+
+“Poppycock. I don’t believe in that nonsense,” Thuli declared, gesticulating widely with a hand. “Ya made a masterwork piece. Two even. Ya deserve the experience earned by putting your signature on it. It would be wasted on me at that level. I would rather have ya level up faster so ya can learn how to make more advanced items. Those other blacksmiths are just slowing their apprentices down for their stupid pride.”
+
+“Yes, master,” she said, bowing low. She could scarcely believe her ears.
+
+“None o’ that master stuff,” he said gently. “Now give it a try.”
+
+With a trembling hand, she placed her mana into both the shield and the breastplate, signing them, the process itself proving to be simpler than she expected. Then, she helped Sabri into the breastplate and shield, finding that the girl’s unrestrained excitement was infectious. Before she knew it, she was grinning just as broadly.
+
+Steel Chestplate – level 3Armor: 43Requirements: Strength 11Quality: MasterworkCreated by Kavé Steelscale.Body – Fireforged SteelSteel Round Shield – level 3Armor: 21Block Chance: +15% (Blocked attacks cannot cause critical damage.)Requirements: Strength 11Quality: MasterworkCreated by Kavé Steelscale.Off Hand – Shield – Fireforged Steel
+
+Mato had enjoyed watching Thuli teaching his apprentice how to identify adventurers. His insight into the relative value of good equipment would stand Kavé in good stead as she advanced her blacksmithing skills. She would of course need a more nuanced approach as she grew so that she could recognize other styles of tanking, such as his own. He blocked with his shoulders, paws, and weight, using his superior strength to break the momentum of his attackers, and so he had never been interested in a shield. But he certainly empathized with Sabri’s wide-eyed wonder as she had studied the heavy, well-crafted gear on display. There was a sense of security that came from having the substantial weight of steel between your flesh and the claws of a monster. Sabri was just starting out and had a lot to learn, but she could hardly go wrong with someone as skilled as Thuli looking after her equipment.
+
+As soon as Kavé had rushed breathless and excited into the forge, Thuli turned and summoned a massive construction of articulated steel, dumping it on the table with a thud that shook the foundation of the smithy.
+
+Mato’s eyes widened as he took in the heavy plate bands burnished to a dark, gleaming reddish shine. “Is that…?”
+
+“Aye, laddie. Yer armor is ready!”
+
+“YES!!” he roared, identifying it at once.
+
+Banded Plate Armor of Fire Resistance – level 40Linked to your mana, this armor will shapeshift with your changing forms. Armor: 336Resistance: 336+31 Endurance+25% to resistance against Fire damageMana: ShapeshiftRequirements: Shapeshifter, Strength 80, Wisdom 80Created by Thuli.Body – Fireforged Steel
+
+“Wow…” He had been waiting for so long, and now it was done, which meant they could finally try a rematch with those Shards of Flame. “Looks… heavy,” he said, suddenly finding his tongue struggling to find words adequate to match the beauty of the armor set resting there.
+
+“But yer so strong,” Thuli growled, making it sound like ‘you’d better be.’
+
+Mato reached out to get a sense for the weight, solidity, and the perfect finish – and perhaps to reassure himself that it was real.
+
+“Impressive, isn’t it, lassie?” Thuli said. Mato glanced over to find Sabri staring, just as wide-eyed as he was. “Level up a little and I’ll make ya one of yer own.”
+
+Mato chuckled to himself; if she was this fascinated with heavy plate armor already, there was no doubt she had picked the right class.
+
+“Let me help ya try this on, lad,” Thuli said, lugging the giant armor over with one heavily muscled arm.
+
+It took a lot of hefting, shifting, tightening, and adjusting of straps. Thuli even tried to apply the universal lubrication of several choice dwarven swearwords before he stopped and frowned. “Ach, gonna take a little percussive persuasion,” he declared, producing an enormous steel hammer twice the size of Mato’s head.
+
+“Hey, what are…” Mato said, drawing back a little.
+
+“Hold still laddie, this shouldn’t hurt –” Thuli said, and before Mato could blink, he heard several loud clangs and the armor slipped firmly into place “– much.”
+
+“Oof,” Mato announced.
+
+Sabri had the cheek to be giggling behind her hand and bouncing on her toes. He wagged a finger in her direction. “Just you wait.”
+
+“I made the fastenings from Fire Drake leather, so it shouldn’t burn even if ya get dunked in lava,” Thuli chuckled meantime. “Go on and give ‘er a spin.”
+
+Mato shifted to his Bear Form, feeding the required mana into the armor, and it stretched, expanding with his growing chest, wrapping around the upper part of his shoulders and going all around to protect his ribs and belly. Oh wow! That’s… massive! He took a few paces, finding the smithy suddenly a lot smaller. He swung his paws a few times to get the feel of it without endangering the spectators. It was a fair bit heavier than his old armor, but on the other hand, he had quite a lot more strength now, and it felt quite easy to move around. Thuli’s articulated plate bands glided across each other, adjusting perfectly to every twitch of his muscles.
+
+“It’s perfect,” he said, shifting back to his normal form. “And the resistance is exactly what I need.”
+
+“Why would you want resistance instead of armor?”
+
+Mato glanced down at the intently curious Sabri. “The monsters down in the mines are fire elementals, and they do lots of fire damage. More fire than physical.”
+
+“You commissioned a custom armor made just for fighting fire elementals?” Sabri asked breathlessly, seeming rather more impressed than incredulous.
+
+“Yup, it’s totally worth it,” he answered, realizing now why Malika and the Guildmaster had both been excited for them to bring Sabri along for their armor fitting. Without realizing it, she was already absorbing the importance of proper gearing. “It’s also better overall than what I had before, so I’ll use it in other situations as well, unless I need something specific again. It really helps, if possible, to study and understand the monsters or foes you’ll be up against beforehand. Calen’s especially good at that, you should ask him for some tips.”
+
+“I will,” she said, all seriousness now.
+
+Then it was her turn, and Mato simply sat back enjoying how excited she was to receive her first level-three plate armor and shield. He glanced back at Thuli, about to make a joke, but he held his tongue at the sight of the gruff dwarf wiping something from his eye.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

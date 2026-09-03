@@ -106,3 +106,116 @@ Arcane Insight has reached level 24.Arcane Bolt has reached level 24 (+2).Barrie
 
 Grimoire of Summoning was a skill she constantly struggled to level up, especially as a major portion of her growth was tied up in the number of imprint chapters she had earned. Early on, simply using deconstruction in combat had been sufficient for substantial growth, but summoning monsters was a long process, and it was hard to find time to use it mid-battle, so she rarely got experience for using it under dangerous circumstances.
 
+In this fight, she had been forced to summon slimes in combat and her skill growth clearly reflected that.
+
+Class skill slot unlocked.New skills are available for Grove Warden.New skill unlocked.Class level has reached 40.Leveled at least three Minion skills to 20.Leveled at least three Arcane skills to 20.Intelligence has surpassed 170.Memorized the runic structure of a Teleportation Locus.Minion TeleportMana: Instantly swap location with any minion. Range: 15 meters. Recharge: 10 seconds.Arcane, Movement, Minion, IntelligenceNew skill unlocked.Class level has reached 40.Leveled at least three Arcane skills to 20.Intelligence has surpassed 175.Used an Arcane Defense skill for Attack.Endured a long-term infusion of Arcane mana.Inflicted more than 1000 Arcane damage in under a second.Arcane RecallYou are proficient with Arcane magic. You gain + [skill x 5] % to spell power, spell haste, mana control, and mental reaction speed with Arcane magic.Mana: Ignore the recharge for any Magic skill, spell, or triggered ability. Your magic is cast instantly. Recharge: 24 hours.Arcane, Metamagic, Mastery, IntelligenceNew skill unlocked.Class level has reached 40.Leveled at least three Minion skills to 20.Wisdom has surpassed 150.Defeat a Nature Elemental above your class level.Summoned a Nature affinity minion higher than level 30.AvatarMana: You may possess one of your summoned creatures, greatly increasing its power. You are absorbed into its body for the duration. If your creature dies, your body is ejected unharmed. Recharge: 3 hours.Nature, Minion, Wisdom
+
+“Ugh… what happened?” Mato groaned, stirring finally. He sat up, holding his head while looking around.
+
+“You’re awake! You both got knocked out by the poisonous mushrooms,” Ali answered, noticing Malika’s eyes flickering open before she squeezed them shut again as if in pain.
+
+“How am I not dead?” Ali could see Mato’s eyes lingering on the torn-up grass and dirt where he had been tanking the guardian before Ali had her minions drag him and Malika to safety. His eyes then switched to the enormous boulders and piles of upturned soil left by the Forest Guardian when it had ripped Calen’s magic chains out of the ground to free itself.
+
+“Calen’s quick thinking,” Ali said. In truth, her respect for the introverted boy had grown enormously. She had always respected him, of course, but the unhesitating way he had thrown himself into harm’s way to save the others left her powerfully moved. He had done it without a plan to save himself. She might have expected an unthinking selfless action from Mato – but understanding a little about how Calen’s mind worked, he had to have known just how bad his chances of surviving were, and yet he had chosen to do it anyway.
+
+“Thanks,” Mato said, looking over at Calen who was jogging over to join them.
+
+“Yes, I appreciate it,” Malika managed.
+
+“It was nothing,” Calen deflected, seeming back to his usual self, embarrassed to be the center of attention.
+
+“Why can’t I heal this awful headache?” Malika asked, her magic flickering a few times before it subsided.
+
+“Probably the aftereffects of the poison, my Kobolds had to heal you both for ages,” Ali said. Seeing that the others were not going to be moving much for a while, and knowing Calen was unlikely to take the initiative, she explained what had happened while they were unconscious.
+
+“Calen kited it?” Malika’s voice was a mix of incredulity and admiration.
+
+“Yup, for the entire battle.” Ali had finally encountered the use of adventurer jargon that she had understood. There was a chapter in the Adventurer’s Guide that explained various strategies, and this ‘kiting’ was one of them. It meant the ability to attract a monster’s attention from range, and, through clever use of terrain, skills, agility, and speed, ensure that you always remained beyond its reach while retaining its undivided attention. It was occasionally used as a substitute for a tank, but the book had cautioned that it had an extremely high skill requirement, with very little room for error.
+
+“I nearly ran out of stamina,” Calen said, clearly still subdued by his near brush with death. “Do you feel ok?”
+
+Malika nodded, “I think so. Just got a nasty headache and I feel like I got run over by one of those things.”
+
+“You did get run over by one of those things,” Ali said.
+
+“I think we need a few minutes to rest,” Malika said, flopping back down onto the ground.
+
+“I hit level forty,” Ali said. “If you feel up for it, I could use some advice on choosing a skill.”
+
+“Oh, congratulations,” Malika exclaimed quietly, still cradling her head as if it might explode at any moment. “What did you get?”
+
+Ali shared her three new skill offerings with the others. Her heart raced the most when she read the description of Minion Teleport. She had always been fascinated by teleportation magic in all its infinite variety. She would often sit in the library simply watching the clerks and visitors using their magic to browse. Her offering seemed unique to her nature as a summoner – something she hadn’t seen in action before, filling her with a fresh sense of intense curiosity. But Avatar looked ridiculously powerful for a summoner, and Arcane Recall seemed to be the very essence of arcane combat magic – a powerful tactical meta-magic spell.
+
+“Those requirements are insane,” Mato answered. “When did you do more than a thousand damage in a second?”
+
+“I killed the guardian with a couple of hundred simultaneous Arcane Bolts,” Ali answered. It had to be that – nothing else she had ever tried would have come even close. The requirements to unlock Arcane Recall were particularly impressive – besides the instantaneous damage achievement, her efforts to repurpose her barrier magic into flying shards for attacking had been one of the major factors in unlocking it. The mana infusion had to be related to her time spent locked in her mother’s barrier.
+
+“Those all look amazing, Ali,” Malika said.
+
+“I don’t know what to pick,” Ali answered honestly. If she went purely by feeling, she would take the teleport, but it was hard to tell which was the better skill.
+
+“Avatar looks like a pure power skill,” Mato said, voicing his preference. “Can you imagine if you get one of those Forest Guardians and use Avatar on that?”
+
+“I agree. You’d be able to trample all your enemies,” Calen said. Both Malika and Mato winced.
+
+For once Ali agreed with Mato’s skill preferences. Normally he picked without subtlety, opting for the most directly combat-oriented damage increase. But for a summoner, Avatar seemed to give her the option of safely joining the fight in person. She would fight as whatever minion she picked, and the power increase would need to be tested, but it seemed that even if her minion died while she was using it as her Avatar, she would simply be ejected, and she could continue fighting as herself. Like most minion-trait magic, it would get stronger as she collected more interesting or powerful minions – like the Forest Guardian. Likely she would need to learn to fight in whatever role her selected minion was suited for – but she was already doing that for Martial Insight, and she was certain her powerful enhancement skill would work with Avatar.
+
+Seeing no reason not to, she tested it out. Affixing Avatar as her final skill, she spent the substantial mana cost and suddenly she became her Kobold Acolyte.
+
+You have gained the class skill, Avatar.
+
+She flexed her talons and glanced around feeling the strange way her vision had changed to match the reptilian creature’s senses. I can see their health. Her friends stared at her with interest as she explored her new body. She had some familiarity with Kobold physiology from her Martial Insight, but this was far more personal. I have a tail! She had fangs too. I am a Kobold… She ran the Acolyte through its paces, testing a bunch of skills Calen suggested before she eventually ran out of ideas.
+
+“Um… how do I get out of this?” she said.
+
+“I could kill it,” Mato offered. “It said you go back.”
+
+“Uh… I’m not sure I want to experience dying.”
+
+“Does it last the full three hours?” Calen asked.
+
+“Looks like it might,” Ali said. She checked the description and then pulsed her mana into the skill again and her perspective lurched momentarily, a disconcerting sensation of separation from herself. She blinked, realizing she was back in her own body, staring at the Acolyte. Easy enough.
+
+“How was it?” Calen asked.
+
+“It’s… good,” Ali said. “I think it would be a lot better with a stronger minion, and a bunch of skill levels.” The power increase hadn’t been all that noticeable at level one, but presumably that would improve. Mato had been right – it would be impressive if only she had access to a Forest Guardian.
+
+“Your other choices look strong too,” Malika observed.
+
+“I agree,” Calen said. “Minion Teleport and Arcane Recall look incredibly useful in combat. Your Grimoire of Summoning is Arcane right?”
+
+“Yes,” Ali confirmed. That was the main reason she considered Arcane Recall to be powerful. She would be able to summon a monster in combat instantaneously. Even if it were just one, such an ace up her sleeve could turn the tide of a risky fight, like the one they had just survived. The skill was so clear, she didn’t even need to test it out to know exactly how it would function – it was mostly passive with the bonus of allowing her to instantly use any arcane skill. Once.
+
+“How do you feel, Ali?” Malika asked, looking up at her.
+
+“I think Arcane Recall is amazing. Any arcane mage would love it. Especially with the slow Arcane skills I have. I could instantly summon a creature to help, or presumably instantly create a runic circle,” she said as she considered the spell. “It seems to be the smart choice.”
+
+Calen nodded at her assessment.
+
+“But…” she paused, considering her feelings carefully, “I have always loved teleportation magic.”
+
+“How would you feel if you didn’t take the Minion Teleport?” Malika asked.
+
+“I think I would be sad,” Ali answered truthfully.
+
+“I think you should go with your heart,” Malika said. “My parents always told me to pick what you’re passionate about. When your heart and soul are in alignment, your true potential can shine.”
+
+“I don’t think there are any bad choices,” Calen added. “Anything you pick is going to be great. But consider this; Arcane Recall can only be used once per day. Minion Teleport will be available as a local escape skill for every fight. And you can always work on developing your skill to grow the range.”
+
+“You can change your mind later, too,” Mato offered.
+
+“Ok, I’ll try this out for now,” Ali answered, feeling instant relief that her decision had ended up aligning with what she had wanted. She selected Minion Teleport for her final skill slot.
+
+No free skill slots available, choose a skill to replace.Avatar will be replaced with Minion Teleport, all skill levels will be lost.You have gained the class skill, Minion Teleport.
+
+The spell was instant, one moment she was sitting by her friends connecting her mana to the skill, and the next she was suddenly on the side, having instantaneously swapped places with her Acolyte several meters away. It looked up at her in surprise, and Ali just laughed happily.
+
+The range is fifteen meters, and the recharge is ten seconds. It was clearly a combat-oriented teleport spell – with such a short recharge, she would be able to use it frequently, but it was unlikely to eliminate the need to carry recall potions for her escape tool. At least for now. She had already memorized the Novaspark Academy locus, and all skills could be grown.
+
+As soon as the ten seconds expired, she used it again, switching back, returning to the circle of her friends.
+
+“You look happy,” Malika said, smiling at her.
+
+“I am!” And she could even feel the grin growing on her face.
+
+Ali spent the next hour or so while her friends recovered familiarizing herself with her new teleport skill – but mostly it was an excuse to play with it.

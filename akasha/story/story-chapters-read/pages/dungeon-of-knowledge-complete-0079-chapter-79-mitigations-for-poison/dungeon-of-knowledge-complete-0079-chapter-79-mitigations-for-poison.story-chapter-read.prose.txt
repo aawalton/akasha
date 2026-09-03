@@ -144,3 +144,88 @@ Looks like I got a skill level at some point during that, she thought realizing 
 
 She got up and found a clear space to practice her new magic, and as soon as Runic Script began to flow, her attention was caught once again by a familiar reaction in the surrounding mana of her domain.
 
+What did I do to trigger it last time? Trying not to distract herself too much, she studied the effect with her Arcane Insight and focused on creating her Cure Poison circle. As usual, it took her several tries to master the inscription itself, but this time she didn’t have to refer back to the book at all, correcting all her errors on the fly.
+
+Your reserved mana has increased by +117.Cure Poison – level 21 (Nature)Weakens or removes poison.Runic Circle
+
+The inscribed magic was expensive, but she had managed to learn a high-level version of the spell. Her mind was still following the twists and swirls of mana that she had created, comparing the interaction with her domain from her barrier magic to what she saw in front of her.
+
+She hovered there on the cusp of understanding for several delicate moments, before she suddenly made a connection, the feeling of how she had wielded her Domain Mastery skill to link to her barrier, and the tricky difference between it and her Runic Script skill.
+
+Requirements met for skill advancement. Synergy: Domain Mastery enhances your Runic Script skill.Runic Script gains Domain Conduit.Runic Script gains the Domain trait. Runic Script – level 12You are proficient with runic magic.Languages: Ancient Dal’mohran, Elvish, Dwarven.Mana: Inscribe a runic circle with your mana. Reserve: by level.Domain: Runic magic written within your domain may be supported by domain mana and will not decay.Arcane, Domain, Knowledge, Intelligence
+
+A permanent circle! Wow! Ali grinned as she heard the notification, knowing exactly what it would say, even before she read it. She already knew exactly how it would work, and she set herself the task of creating another circle – this time by wielding her domain mana instead.
+
+Cure Poison – level 22 (Nature)Weakens or removes poison.Runic Circle
+
+Glowing softly under her Arcane Insight, what was remarkable about this runic circle was what had not appeared in her notifications.
+
+No reserve. She released her first circle, watching it dissipate and her mana return to her pool, slowly recovering. But the second circle was connected directly to her domain, drawing mana from the abundant nature mana her plants were emitting to sustain itself without any reservation whatsoever.
+
+Obviously, she immediately examined every other skill she had, but so far, nothing else seemed to interact with her domain in the same way.
+
+Domain Mastery is far stronger than I thought. On the surface of it, her new skill had seemed worth it, but it had immediately improved both Runic Script and Barrier, and with those synergies, the advantage seemed far larger. I’m beginning to see why my class said I’d be stronger in my domain. Her domain-enhanced barrier had been very impressive.
+
+***
+
+They had stopped by the guild briefly to check the store, but Weldin Thriftpenny had not expanded his inventory enough to carry antidote potions yet, and Ali had gotten a rather unsettling vibe from Mieriel. She couldn’t quite put her finger on it – other than Calen and Malika’s suspicions – but she was grateful that they decided not to stay.
+
+It took just a few minutes to walk from the guild to Pretty Powerful Potions, where Ali immediately noticed that the shattered window and broken door had been repaired, and both had received a fresh coat of paint. There was even a new sign above the door with a bubbling vial depicted with a rather expensive-looking animated illusion enchantment.
+
+Looks like she’s doing much better, Ali thought, recalling the blood and shards of glass on the now perfectly clean sidewalk where she and Malika had found the owner left to die by the thugs of the Town Watch.
+
+There was no entrance chime to greet them, but there was a loud bang from the other end of the shop, a puff of lilac smoke, and some rather colorful swearing from behind one of the counters. A couple of points of mana trickled into Sage of Learning as it identified a few novel insults to add to her understanding of the Dwarven and Elvish languages.
+
+The shop had obviously had a rather expensive overhaul. Any sign of vandalism and robbery had been thoroughly purged and every centimeter of every surface was now covered with complicated apparatus. Tiny artifacts producing different colored flame were heating beakers and vials and leaking different flavors of mana to drift and mingle in the air. Pots bubbled, cauldrons simmered, fluid ran through coiled glass tubing while a violet condensate dripped on the floor. Over in the far corner, the lilac smoke drifted up towards a vent in the ceiling. Strange and wondrous scents mingled with acrid chemical smells to create an unsettling medley of olfactory assault.
+
+She doesn’t have an entrance chime, but she has a wind enchantment to deal with smoke? Ali wondered how often something blew up in here, or if it was just a safety mechanism to clear the chaotic mingling of outgassing, mana, and even the occasional surprising snowflakes.
+
+“Hi there! Sorry about the oops! I’m Morwynne Fizzlebang, what brings you to my shop today?”
+
+All Ali could see over the tops of the bubbling vials and cauldrons were the two shocking pink high ponytails as the Gnome ran out from behind whatever concoction she was making.
+
+“Oh, it’s you guys! Sorry about the noise!”
+
+Ali almost didn’t recognize her, even though she was the only Gnome she knew with pink hair. She wore several different colored adjustable goggles and monocles covering most of her face, and over the entire contraption, she had a sturdy-looking face shield. There was lilac soot over everything, the face visor, her tank top, and her gloves.
+
+She pulled up the visor of the face shield and wiped her face, getting soot over everything. As she wended her way between the packed tables, she bumped something, knocking it to the floor with a crash of broken glass. She unleashed another torrent of colorful invective in Common, Elvish, and some other language Ali hadn’t heard before.
+
+“That was going to be my big breakthrough… oh well. What brings you to my store today?”
+
+Ali got the distinct impression that this kind of accident had happened half a dozen times already today.
+
+“Mana potions, maybe?” she asked, looking expectantly at Calen.
+
+“Do you have any poison antidote potions?” Ali asked.
+
+“Ooh! What kind of poison?”
+
+“Poison affinity wyvern. It breathes this toxic green liquid that splashes everywhere. The poison stacks and lasts about ten minutes.”
+
+“Aah, good, nothing exotic.” Morwynne nodded her head and ducked under one of the tables, scrabbling about and muttering curses under her breath for a few moments before she emerged with a box. She opened it, revealing several vials of something green and viscous carefully secured and packed.
+
+Antidote Potion – level 18 (Nature)Consume: Attempt to cure toxins, venom, or poisons afflicting you. Duration: 30 seconds.Created by Morwynne Fizzlebang – “Also good for a tummy ache!”Potion
+
+“Now remember,” Morwynne said, her tone suddenly reminding Ali of a lecturer she had once had, “if the poison is higher level than the potion, it will remove them much slower, or even just weaken them. So don’t complain if it isn’t as effective as it sounds!”
+
+“Looks perfect,” Ali said.
+
+“Anything else I can offer you?”
+
+Calen said, “No, that was it, thank you.”
+
+Morwynne quirked an eyebrow at him.
+
+“Ok, maybe a dozen mana potions,” he relented.
+
+With a beaming grin, Morwynne produced a tray of blue mana potions from a drawer and exchanged them for a handful of coins. “Thanks for stopping by!” she said with what Ali was beginning to realize was her typical energy level.
+
+As they turned to leave, Ali heard a crash and some more swearing and saw that Morwynne had tripped over one of the boxes she had upended in her search for their potions.
+
+“Is she always like that?” Ali asked.
+
+“Yup,” Mato answered with a smile “She’s something of a legend in this town. And as scatterbrained as she appears, the potions always work.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -116,3 +116,72 @@ All at once, the curses began expiring, shooting bolts of fire that crossed the 
 
 “What is that nonsense?” Malika wanted to know.
 
+Ali plopped herself down on the stone floor, propped up against the wall between Mato and Calen, and breathed a sigh of relief. Probably they wouldn’t have died from the curse, but it would have been way too close for comfort.
+
+“I need a few minutes. Calen, while we wait for the life drain to wear off, can I borrow your pen and some… fireproof paper?” she asked. She had spent the vast majority of the fight studying the mana flow, the spell interactions, and how her minions had been affected and she wanted to quickly run some numbers.
+
+It took quite a few minutes for her to account for all the bonuses, elixirs, resistances, and relative levels involved – some values, like the drake’s class level, were working guesses. But eventually, she handed the paper to Calen with her conclusions.
+
+“The Living Flame pulses are stronger than the phoenix, probably because of the raid domain enhancement,” she explained. “I think this is pretty close to the numbers.”
+
+Living Flame+150 fire damage per second.+25 stamina and mana restored per second.Curse Proliferation (Whenever Living Flame damages a cursed target, it has a chance to refresh the curse duration or proliferate it to nearby targets).Skill – Domain Magic
+
+“That seems about right,” he said, studying her work.
+
+“It’s a bit worse than that because the damage is not delivered per second, so it comes in spikes of probably close to three hundred damage per wave. I haven’t seen any other sign of domain magic skills yet, but this one seems similar to Mato’s Sanctuary – a spherical domain aura that propagates the magic.”
+
+“And the curse proliferation works the same as the phoenix?” he asked.
+
+“I tested most of the cases,” she answered. “I can block the flame from refreshing the curse with my barrier by simply blocking the fire damage.”
+
+“So you can ignore the curse the whole fight?”
+
+“No, he can directly cast it, and that ignores my barrier. I can only block the proliferation, which means I just heal the boss.”
+
+“You mean we have to take the reduction to maximum health, or the boss heals by stupid amounts? We can’t go longer than two hundred seconds or we die?” Malika asked, peering over her shoulder to look at her notes.
+
+“It’s a lot less than that in practice,” Ali answered. “When your health gets close to the amount of damage caused by the flame waves, you just die from that in a single shot. Even with their racial and elixirs helping their fire resistance, my healers reached that threshold at about forty seconds in. They really don’t have much health.”
+
+“That’s nasty,” Malika said, scrunching her face into a frown.
+
+“Yes.” Calen scribbled a few quick calculations in his notebook and then looked up. “I estimate we will need to kill him in just a bit less than two minutes. Any longer than that, probably Mato will die from attack damage.”
+
+“The nice thing is that it restores a ton of mana and stamina. And there’s the haste buff, so we should be able to do a lot of damage if we can stay alive,” Ali said, adding, “No mana potions for you, Calen.” That at least made him grin.
+
+***
+
+Ali flopped down onto a couch in the library, exhausted after fighting the Corrupted Fire Drake until the room behind them had begun to respawn. The only good thing about the drake was that they could simply run outside the room to reset the fight, and with a little careful healing let the curse expire. They did have to wait for the life drain to wear off, but this one had a fifteen-minute duration. It meant they had made quite a few attempts at the fight – hence the exhaustion.
+
+Calen had set a limit of one minute per attempt – if they couldn’t get the drake below fifty percent by the one-minute mark, they were supposed to flee. Their best attempt had been eighty-seven percent – not even remotely close. Every single try had been ruined by her minions dying, and the ones that went the full minute seemed to be entirely luck. She had tried every combination of minions she could think of, but the bottleneck came down to her healers having too little health, and way too little healing power for what she was asking of them – even with the substantial benefits of the Ruinous Frenzy curse.
+
+“If I could just level my Acolytes up, that would be something,” Ali grumbled.
+
+“Yes, that would be nice,” Calen agreed.
+
+Most of her damage-focused minions were also low enough that it wasn’t reliable to have them in the fight past thirty seconds, and even if they had been able to reach fifty percent by the one-minute mark, they would still have been doomed to fail simply because they lacked the health to survive the full two minutes.
+
+She slumped on the couch, depressed. At the two-minute mark, which Calen had calculated was the absolute longest they should even consider staying in the fight, they would be down to forty percent of their total maximum health, and would need the right combination of total health, magic, and fire resistance to survive the waves of flame every few seconds.
+
+“Cheer up, Ali,” Malika said, flopping down beside her. “It was our first try.”
+
+“I just don’t think Kobolds are going to be able to do it,” Ali said, not quite cheering up as Malika wanted. The honest truth was they were simply inadequate. “They’re far too low-level to be facing monsters like the drake.”
+
+“Maybe not,” Calen said, sitting down and pulling out some arrows to do maintenance. “If we really can’t win, we’ll go questing for better minions. I think we should try it again soon though, and, besides, I want to kill the Demon Hunter again a few times.”
+
+“What? Why?” Ali exclaimed. She had had nightmares of the hordes of demons pouring from the rift the last time they had been there, and he wanted to go back?
+
+“This bow is crazy good. If we get another two, you can make them,” Calen said. “I’m sure Lyeneru will want some for the Pathfinder guild. I think we can avoid the dungeon-break provided we stay away from the rift itself, and you can leave some monsters in there to mop up the extra demons. Perhaps grinding a few levels in the other wings will help us with this last fight too?”
+
+She had to admit what he said sounded reasonable. At least more reasonable than she had initially imagined, but she was simply too tired to really think it through. She had felt something from her Kobold boss while she was in the middle of that last fight, and she needed to check it before she did anything else. She pulled up her notifications and then gasped in shock and horror at what she found.
+
+Your Kobold Rogue has defeated Paladin – Human – level 9 (Holy).Your Kobold Warrior has been defeated.
+
+Defeated? Huh – oh… “No!” With a low scream, she curled up into a ball. “No, no, no…”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

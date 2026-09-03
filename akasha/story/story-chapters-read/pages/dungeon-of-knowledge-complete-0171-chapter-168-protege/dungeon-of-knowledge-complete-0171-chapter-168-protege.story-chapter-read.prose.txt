@@ -150,3 +150,90 @@ Wouldn’t they be more terrifying in the dark? she wondered, but she kept it to
 
 “I took a kill-quest for spiders at one of the outlying farms last night… and I found these,” he said, dumping a corpse onto the floor in front of him. It was a black spider about half the size of her entire body with dark green markings on its abdomen and legs. Markings that still glowed with the light of poison affinity mana.
 
+Tunnel Weaver – Spider – level 8 (Poison)
+
+“Seth! Carpet!” Mieriel yelled from across the room.
+
+“Sorry,” he said, storing the spider and moving off the carpet to a location of bare stone before producing it again.
+
+It was an interesting spider, but she wasn’t quite sure what he was after yet, so she floated down to the floor and stepped off to get a closer look. There were remnants of web around its feet and abdomen, but nothing else seemed out of the ordinary. Ali reached out and pulled something gray from a staved-in section of the chitinous abdomen and then grimaced at what she found. Holding it gingerly between two fingers, she offered the gray finger bones to Seth.
+
+“Oh… sorry,” he said, retrieving them. “I wondered where those went.”
+
+“Do you have any more spiders? Can I buy them from you?” Ali asked. She had just inscribed her first spider imprint, and this one looked like a nice low-level addition to fill out her Grimoire.
+
+“I took the quest because I heard you talking about spiders,” Seth admitted.
+
+“You took it because of me?” It had to have been when they were in the guild last, and he must have overheard something. But for him to take the job just to collect some spiders for her was entirely unexpected.
+
+“I did. I sold the Monstrous Silk they weave to Weldin. That’s how I could afford this new shirt,” Seth said. In a sudden rush, he added earnestly, “Weldin said the tailors are going to be quite excited about the silk and I thought maybe we could get some more caster gear. A lot of the newer adventurers are struggling to find enough money to buy potions and armor, so, I was hoping you’d learn these spiders and put some in the sewers for people to kill? We could farm for silk or spider venom.”
+
+He’s thinking about his lower-level guildmates? Necromancers, almost by necessity, would tend to be loners. Even Seth was already taking jobs on his own in the dead of night, simply because people wouldn’t understand. But he was bringing back resources to make his friends stronger – both through money, better gear, and something they could hunt for experience.
+
+“It’s not entirely altruistic,” Seth said, almost answering her thoughts directly. “My skeletons and zombies are immune to poison. The Tunnel Weavers are very easy to hunt and they make great zombies – they have Venomous Strike and Web Sense. I can’t usually bring my undead into town, so often I have to lose them – and then rebuilding my army when I leave on a job is a real chore. If I had access to an easy monster that I could hunt right here in the sewer, it would make my life a lot easier.”
+
+“Web Sense sounds interesting, what’s that?” Ali asked.
+
+“I thought you might be interested. It allows the spiders to extend their senses through the web they spin,” Seth said.
+
+“That does sound intriguing,” Ali said. “If you have enough spiders, I’ll add some to the sewer for you.” His proposal was remarkably well considered, and it would seem he would benefit while simultaneously giving everyone else something they needed. Basil had already learned proficiency with anti-venom and anti-toxin potions, so it would take some remarkably bad luck or stupidity for any prepared adventurer group to die to the spiders.
+
+“Here you go,” Seth said, dumping out four more Tunnel Weavers, much to Mieriel’s dismay, but Ali deconstructed all of them quickly, including the puddle of ichor that had collected on the polished stone floor.
+
+Imprint: Flame Skitterer updated to Imprint: Spider.Variant: Tunnel Weaver added to Imprint: Spider.
+
+“Thank you, Seth.”
+
+But it seemed Seth wasn’t quite done. “I have one other request, but this one is harder. I don’t know how to make it valuable for you.”
+
+“What is it?”
+
+“Vivian Ross gave us a lecture on the importance of mentorship and choosing the right person, matching traits and intents. Some of the bronze ranks have already found good mentors, and they’re growing much quicker now. Willow unlocked a very nice skill option because of hers, and Teagan is going to ask Theia. Druids and Shamans have a lot of overlap. It seems like a huge advantage.”
+
+“It is,” Ali agreed. Mato had Lira, Malika had Rezan, and Calen had Lyeneru – all three of them had unlocked unbelievable skills and advancements because of it. Mato’s Tree Form had already helped defeat Alexander Gray. Calen had a Mirage armor of illusions and multishot, and Malika could dodge fireballs. “You really do need to pick well.”
+
+“Yes, but… can you think of any sane person who would mentor me? I’m a necromancer. I’m sure only another necromancer would agree to it, but most of them are mad or evil like Alexander Gray, and thankfully he’s dead.”
+
+Who would mentor a dungeon? The thought had crossed her mind many times, ever since Mato had gotten his mentorship. She had even been jealous of him for a while, but while Lira would have been willing, she could no longer offer Ali her mentorship. She most certainly understood the difficulty facing the bronze-ranked necromancer shuffling his feet before her.
+
+“Aliandra, would you… mentor me?”
+
+“Me?” He was asking her to be his mentor? “But I’m arcane and nature.”
+
+“I know, I’m not going to find a good match for death magic. But your class must follow the intelligence, wisdom, and minion traits – we share those. What do you think? Am I crazy?” His eyes seemed filled with hope.
+
+That’s… actually not that crazy, she thought. She likely shared Perception and Defense with him also. Knowledge, Domain, and her affinities would not match, but it was hardly a problem to not overlap all traits. Ali nodded slowly. “Seth, I’d be willing. Let’s go talk with Vivian. I’m not even sure I know how to do it.”
+
+***
+
+“It should work,” Vivian said after Ali explained the situation. “Normally you would need to be much higher level, but having a high wisdom attribute allows more protégés and mentorship at lower levels.”
+
+“How is it done?” Ali asked. She had studied the theory, and even seen Thuli do it with Kavé, but she had no idea how it worked in practice.
+
+“It can be a bit tricky; you must release your mana without casting a spell, and then focus it into him. If it works, he will get the option to accept it. Probably it will be easier for you because you can see mana, right?”
+
+“Yes,” she answered. So just like mana manipulation exercises then. She had earned her first cantrip magic by emulating Lira doing precisely the same thing Vivian had just suggested. Only she had never tried to give it to someone.
+
+She concentrated, releasing a small flow of her mana, both affinities swirling together, entwining into a ribbon of gold and green that drifted out from somewhere near the center of her heart. The sight of it reminded her of the way her mana reached her minions and connected to the core in the center of their chests or whatever their middlemost point seemed to be.
+
+It was easy to control the ribbon of mana, much easier now that she could see it than when she had sat on Lira’s knee, practicing her first use of magic. She made the ribbon stretch out toward him and her notification chimed the instant it touched.
+
+You have offered your patronage to Seth Weston.
+
+“It worked!” Seth exclaimed excitedly. “I see it! Um… are you sure? Can I accept?”
+
+“Go ahead,” she told him.
+
+Your patronage has been accepted.Seth Weston added as a Protégé.Protégé – Seth WestonClass: Undead CommanderTraits: Death, Minion, Intelligence, Wisdom, Perception, Defense, Curse.Your experience, mana, and traits will influence the experience gain of your protégé. Experience tithed back to you via the mentorship tithe may influence your own traits and growth.Enchantment – Tithe
+
+“Thank – thank you, Aliandra.”
+
+She glanced at him as his voice cracked. “I’m honored by your trust, Seth.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

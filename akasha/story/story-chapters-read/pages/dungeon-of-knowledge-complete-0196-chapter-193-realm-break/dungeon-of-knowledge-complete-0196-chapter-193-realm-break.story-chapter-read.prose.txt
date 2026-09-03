@@ -106,3 +106,144 @@ Her mana twisted, and her senses wrenched out of the last dying Hobgoblin boss a
 
 “That’s clever,” he said, coughing, but Ali was still very worried. He hadn’t seen the sheer vastness of the demonic horde that bore down on them. As much as it terrified her, she scanned the tide of demons constantly, searching for any sign of those Sentinels which would spell instant doom, or worse, that monstrous Pit Lord. Or perhaps he can see more than me. His eyes are excellent. But to her dismay, she could sense the Hellfire Imps regularly summoning more imps with their accelerated casting paired with their terrifying ritual. With so many, it was rapidly reaching critical mass, and she had no idea how to avoid getting overrun. And within the horde, seen again only with her tremor sense, were hundreds of spider demons pouring forth in complete stealth.
 
+The tide broke against her barriers and the oozes unleashed a veritable torrent of glowing balls of light, lofting them high over the barriers to come down in a continuous explosion of light that tore through the mass of monsters, raising a huge pall of dust and bits of demon. It was perhaps a good thing oozes did not have vision; she was certain she would have been blinded observing the conflagration. A chorus of screeches and screams reached her ears even this far from the battle as her oozes annihilated everything in sight.
+
+Ali’s notification chime buzzed continuously as the monsters were burned, ignited, and ripped apart not by fire, but by pure light magic. A continuous cloud of balls of light rained down from on high, falling onto the wailing demons, and ripping through them with powerful explosive detonations. But the wargs at the back breathed hellfire on the horde, and demonic wolves stood back up in droves, throwing themselves against the barriers. Mana, recovered from the detonations, gushed through her barrier magic, returning to the domain itself as it absorbed explosions, auras, hellfire, and more. The insect demons rose from the horde like a droning cloud, flying over the barriers and dive-bombing the slimes from above, even as their formations were blown to bits. The wargs and imps surged against the barriers, clambering over their brethren and the mangled corpses to reach their enemy.
+
+Suddenly, an imp jumped over the lip of the barrier, landing within the arena beside the Sparkling Oozes. It snapped off an accelerated and empowered hellfire fireball, and the detonation rocked the area, but although the damage didn’t unduly bother the slimes, it filled the pen with gobs of falling hellfire, and in moments the entire area was inundated with cackling Hellfire Imps, teleporting in through the flames of their brother.
+
+The balance had tipped, and as soon as she felt the barriers crack, Ali knew they wouldn’t last for more than a few moments longer.
+
+“They’re going to die,” she said, as she realized it.
+
+“Fuck,” Calen said succinctly, resignation flickering across his pain-wracked, bloody face.
+
+Ali had just reached the library and now she faced a tough decision. “We probably need to retreat through the library and get Lira and Ryn out of there.” It would hurt to lose the library, and she would need to begin again from scratch, but if she could draw the demons past her Forest Guardian, perhaps they could stop them there. She didn’t hold much confidence though; both of her frantically created bosses were stronger than the shrine guardian.
+
+“We won’t make it in time,” Malika said, and to Ali’s horror, she noticed that fifteen minutes of the corruption had already passed. “We need a place to make a stand, so that Mato can cure this blood corruption.”
+
+As she stood, body wracked with pain, throwing up more blood than she could imagine, her eyes fell upon the giant Elder Tree, visible through the library doors, standing silently in the center of the atrium, wreathed in wisps. A tree filled with meaning, Lira’s new home, and Ali was loath to lose it. It emitted such a dense, pure mana that she could feel it prickling her skin, let alone see it – not as dense as the Lair of the Demon God, but it was vastly denser than anywhere else in her dungeon.
+
+And suddenly, a thought occurred to her: I think I can attach two bosses here. She had considered it before, but back then it had been merely an academic consideration, for the most part – if she had bosses over level one hundred it probably wouldn’t work, but she could probably manage two mid-fifties raid bosses without straining the dense domain mana too much.
+
+At least, I hope I can. But what can overcome so much hellfire healing? The sight of the horde of wargs breathing on the corpses and seeing them rise en masse terrified her. It was all due to their hellfire absorption. Slayer had helped, but it was woefully inadequate in the face of the onslaught.
+
+But I have a monster with absorption, too. And that gave her an idea; a crazy idea, but she hoped it might be just crazy enough to save them and the town, and not be a fever dream inspired by the blood corruption.
+
+“Can you hold the demons off for a bit? I need to summon some monsters,” Ali said, getting some strange looks, strangled gasps, and raised eyebrows from her friends.
+
+“That’s a lot of demons, Ali,” Malika said, eyeing the beginning trickle of imps that had bypassed the dying oozes dubiously.
+
+“I just need a few minutes. Enough for two monsters. I have an idea,” Ali said, pulling out her Grimoire. There wasn’t a moment to lose, especially as she was unable to accelerate her summoning with her Arcane Recall, having used it to save Calen’s life earlier. Already she was jealous of the imps and their Accelerated Casting metamagic.
+
+“I got you, Ali,” Mato growled, his voice warping as he re-assumed his Bear Form and took a firm stance up front, interposing himself between Ali and the oncoming horde. Even his normally coarse fur was slicked with his own blood. Malika and Calen readied themselves, falling automatically into formation beside the bear, both of them looking unsteady on their feet. But as ragged as they looked, Calen managed to hold his bow steady, and Ali decided she would just have to trust them to do what they needed to.
+
+She focused on her Grimoire, pouring her mana into the imprint. This had better work. There would be no second chances, no afterward to even think of if she failed. She tuned out the ragged roar and clash of combat and the increasingly frequent pulses of holy magic from her remaining Acolytes.
+
+Forest Guardian – Wood Elemental – level 53 (Nature)
+
+Her Forest Guardians had long been her staple reliable monster, only recently discarded because of their fire vulnerability. But they were spectacular elemental monsters – twenty attribute points per level, high strength, endurance, wisdom, and vitality. Self-healing, and a regeneration aura. They were incredible tanks, but the feature she would be relying on most of all was their nature and poison absorption. They would heal instead of taking damage from their own and related affinities, just like the fire elementals did in the Emberforge Mines.
+
+“Here they come!” Malika’s shout had an edge of urgency, and her voice cracked. And no wonder, in the distance, the dark mass of hellfire tore through the jungle toward them as the bulk of the horde broke over the remnants of the oozes and barriers.
+
+“Hurrying,” Ali said. In the background she was dimly aware of Calen flaring with light as he unleashed a continuous barrage of explosive volleys into the oncoming horde as Malika flickered and flashed, tearing through the vanguard. From the ground, Mato’s plants burst forth, twisting and binding, delaying the inevitable crush of demons. She blinked away the visual haziness and haloes she was seeing on everything and focused on her work.
+
+Domain Respawn applied to Forest Guardian.Raid Domain Enhancement applied to Forest Guardian.
+
+What she wanted from this boss was a reliable, indestructible tank to hold back the entire horde without budging. And she needed the tank first if her friends were going to survive. As she summoned them, first one, and then the second Kobold flared with their holy Devotion skill, desperately trying to keep pace with the demon horde’s damage and the corruption.
+
+They’re about to run dry.
+
+Clone applied.Summon (Poison Wyvern) applied.Attribute Enhancement (Wisdom) applied. Domain Enhancement complete.Your reserved mana has increased by +1712.
+
+The cost was enormous, but she wasn’t counting right now. The massive wooden guardian elemental creaked and groaned as its body grew rapidly, substantially larger than the one she had set to guard the shrine. But it wasn’t done – as the noise of her friends engaging the demons crashed through the area, echoing off the walls of the library, and the hellfire fireballs began detonating, her massive guardian summoned its clones.
+
+“Go. Help them. Defend the library,” she told them, and the three enormous elementals charged forward simultaneously, crashing heavily into the horde of demons.
+
+“Uh, Ali, aren’t those vulnerable to fire?” Calen asked, sounding rather uncertain.
+
+“I’m not done yet,” she said, rapidly flipping the pages of her Grimoire and summoning her next monster. The guardians’ regeneration auras scaled with wisdom, enhancing both their power and range dramatically, and all three of them overlapped, giving her beleaguered and wrung-out Kobolds a much-needed break. The entire battlefield erupted with roots, brambles, and explosions of plant life as the guardians engaged the horde of demons. In the air above them, they began summoning Poison Wyverns which swooped and darted back and forth, spraying the entire field with their poison breath. The buzzing demonic hornets rose in a cloud to engage the wyverns in the air, swooping back and forth in swirling formations trying to avoid the sprays of poison. The first wyvern fell spiraling downward, quickly overcome by the ravenous swarm.
+
+But even with their stupendous health and regeneration, the guardians’ fire vulnerability was too much against such a horde of wargs, imps, and the horrifying spider-like stealth demons that struck from the shadows. Their health began to spiral downward as the imps freed themselves from the roots and lobbed fireballs everywhere.
+
+Please be in time, she thought, urging her Grimoire to go faster.
+
+Toxic Spitter – Ooze – level 55 (Poison).
+
+Finally! In a rush she finished up her domain magic, trying frantically to hurry and also to go slow enough that she didn’t make any mistakes. This was the monster that they had struggled with so much at the pool of liquid nature mana – she had not forgotten the ridiculous combination it made with the guardians.
+
+Domain Respawn applied to Toxic Spitter.Raid Domain Enhancement applied to Toxic Spitter.Slayer (Demon) applied.Affinity Aura (Poison) applied.Elemental Storm (Poison) applied.Domain Enhancement complete.Your reserved mana has increased by +1889.
+
+There was a moment of severe anxiousness when she applied Elemental Storm to her boss. She had made something of an educated guess that the poison-affinity would work, based on her success at using poison as a compatible subset of nature affinity for her Tunnel Weaver’s Affinity Aura, but she had never exactly tried it with Elemental Storm before, and her relief was palpable when it seemed to apply correctly.
+
+This monster was to be both her battlefield stability, and her finisher. The guardians were not meant to kill anything – their job was to tank and heal – and to fuel the slime spawner. The Toxic Spitter was how she intended to overwhelm the Hellfire Wargs’ ability to heal, and simultaneously take out all the imps.
+
+As her gigantic ooze swelled in size, growing in power from the great infusion of domain mana, a toxic aura of poisonous gas billowed out through the battlefield, pulsing with poison magic. The Forest Guardians’ health immediately stopped dropping as they began absorbing the poison aura as healing.
+
+You have been afflicted with poison.
+
+“Run!” Ali shouted, ignoring the notification. “Into the library!” Her friends reacted immediately, even while shooting her very surprised and confused looks, but she knew it wouldn’t take long for the poison to overwhelm all of them.
+
+Your poison has increased to 2.
+
+On its own, the Toxic Spitter would spend health, spitting out smaller slimes whenever it was full, relying on its regeneration to recover. But they had discovered that under the influence of the Forest Guardian’s magical regeneration aura, it could spit out more, faster, and even occasionally split itself into two. Now, subject to the vast power of three domain-empowered regeneration auras, the Toxic Spitter did not hold back, launching a continuous torrent of toxic slimes into the air to rain down across the battlefield with wet splats and plops.
+
+Your poison has increased to 4 (+2).
+
+They all charged into the cool, dark library and Ali slammed the strongest barrier she could manage across the door, bound to whatever left-over domain capacity she had in the area, and then stopped to watch the battle unfold through the transparent golden wall, her breath snagging in her throat as she dared hope it would be enough.
+
+“Keep a Restoration on that spitter,” she said, directing her Acolytes to heal the boss.
+
+Overhead, Poison Wyverns spawned continuously, ignoring the poison aura emitted by the Toxic Spitter, spreading more and more sprays of lurid green liquid throughout the demonic sea. The demonic hornets began dropping from the swarm, landing on the chaos of the battlefield with thumps barely audible above the chaos of fire and crashing limbs.
+
+“Ali… what exactly did you do?” Calen asked breathlessly.
+
+“I gave it Demon Slayer, poison aura, and… Elemental Storm.”
+
+“Oh… shit,” he said, backing away from the barrier nervously.
+
+“Isn’t that the ability you got from the Inferno?” Malika asked.
+
+“Yup.” As she said it, she felt a tidal surge of mana being drawn into the Toxic Spitter.
+
+Staring out at the horde, she quietly said, “This is where you hide.” Outside, beyond the barrier, the world turned a violent muddy green as a veritable hurricane of poisonous gas ripped through the demon horde with enough force to throw the smaller monsters flying. It raged on and on, and the only thing she could see was the virulent wave of mana grounding through her barrier’s absorption into the domain itself as the Toxic Spitter unleashed a poison Armageddon.
+
+Enough poison mana was absorbed through her barrier and into her domain that it began leaking out through the domain mana nearby and her remaining Kobolds began handing out extra restoration spells to everyone watching, even though they were all still standing in the triple regeneration aura of the now maximum health Forest Guardians.
+
+“The guardians have poison absorb,” Calen said, understanding dawning in his eyes. “So that’s how you handled the fire vulnerability?”
+
+“Yes, and they’re constantly healing the Toxic Spitter, meaning it will split faster, generating more slimes,” Ali noted.
+
+“And the wyverns?” he asked.
+
+“They’re for more poison damage between elemental storms, and for the flying hornets. We have at least six hours of this to go before the Emberforge Mines respawns that Demon Hunter and locks down the rift.”
+
+He nodded in apparent disbelief. “You thought that far ahead?”
+
+“It took two failures,” Ali said, shaking her head. She needed to be better. Smarter and quicker – not every encounter would leave room for retries.
+
+As the poison maelstrom died down beyond the barrier, the battlefield cleared to the sight of hordes of dead and dying demons, and a sea of toxic slimes and rivers of poison. She could barely even see the Forest Guardians among the ooze.
+
+And then, the monsters all turned to face the next wave of incoming demons.
+
+“Enough talking. Ali, make me a hole,” Mato said, his voice rough and followed by a hacking cough. He was back in his Beastkin form, dripping blood from his eyes and mouth, holding himself up using the wall.
+
+Hole? Oh… It was a simple matter to wield her Domain Mastery and turn a large circle of the flagstones into dirt beside the Elder Tree, and Mato immediately planted himself, transforming into his Tree Form. His aura burst outward the moment he completed his shapeshifting, covering the entire area, and extending even out into the battlefield beyond. For the first time since encountering Maalgaroth the Pit Lord, Ali felt the hold of the corruption – the nausea and dizziness – begin to loosen.
+
+“Ali, maybe we should put some defenders on the door to the level above? Or at least block it off with a barrier – some of those demons could have flown up there,” Calen suggested, pointing out a flaw in her blockade. Indeed, she would be having nightmares of the bloodsucking demonic hornet swarms that had chased them through the mines, draining the life from her minions.
+
+“Eep! What… is that?”
+
+Ali’s head snapped up at the sound of the surprisingly high-pitched and terrified Gnomish voice that interrupted their conversation. She found Ryn, Brena, and Sabri all huddled together, staring with wide eyes at the devastation unfolding right before them on the opposite side of a very transparent barrier.
+
+Behind them, silhouetted against the dim light of the library, Clarence swooped and dove aggressively, brandishing the terrifying glowing golden teeth and barrier magic she had glimpsed once before.
+
+“Uh… I can explain…” Ali began and then trailed off. Can I? Her mind balked at the magnitude of what they had just endured, and yet somehow survived.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

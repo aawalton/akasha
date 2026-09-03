@@ -122,3 +122,76 @@ She took her time, experimenting with a few obvious tests to get the hang of usi
 
 Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 24- Martial Artist – level 11- Soul Strike – level 15- Healing Mantra – level 12- Perfect Body – level 12- Soul Armor – level 15- Enlightened Evasion – level 13- Divine Step – level 12- Second Wind – level 1- [Locked]- [Locked]General Skills- Meditation – level 9- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 9Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 43- Strength: 14- Endurance: 104 (+38)- Dexterity: 134 (+49)- Perception: 18- Intelligence: 20- Wisdom: 101 (+37)Equipment- Ring: Bronze Guild Ring – level 10Armor: 105Physical Damage Reduction: 13.51%Evasion: 91Dodge: 11.92%Health: 430/430Stamina: 936/1040 (104 Reserved)Mana: 707/1010 (303 Reserved)
 
+Calen put his pen down on the notebook in his lap and pulled up his notifications. The white text shone brightly within his mind. Wow, there’s a lot.
+
+Archer of Light has reached level 23 (+5).+50 attribute points.
+
+Calen consulted his notes immediately. Following his charts he distributed his points: ten in dexterity, eleven in perception, and eight in intelligence. His investment in his primary attributes was lower than he liked, but he had to address his mana issues. Thirteen points went into wisdom – hopefully enough to stave off some of his mana starvation problems. With the remainder, he put two into endurance and six into vitality. That should help.
+
+Radiant Archery has reached level 15 (+3).Arrows of Brilliance has reached level 17 (+4).Motes of Light has reached level 9 (+2).Blessing of the Dawn has reached level 13 (+2).Eyes of the Archon has reached level 12.Class skill slot unlocked.New skills are available for Archer of Light.New skill unlocked.Class level has reached 20.Intelligence has surpassed 90.Intentionally caused a higher-level enemy to chase you for more than 100 yards. Trap ShotStamina: Fire an arrow that immobilizes or impedes your target’s movement for a few seconds. Duration: [skill] seconds.Physical, Ranged, DexterityNew skill unlocked.Class level has reached 20.Intelligence has surpassed 80.Prevail in a battle of 20 minutes or more against an enemy more than twice your level. Righteous FuryMana: Temporarily supercharge your mana amplifying all your magic by + [100 + skill + Intelligence / 10] %. Your mana burns you. Duration: 30 seconds. Recharge: 15 minutes.Light, IntelligenceNew skill unlocked.Class level has reached 20.Radiant Archery has surpassed level 10.Defeated more than 20 heavily armored enemies in a single fight.Bolt of LightMana: Fire a magical projectile of light from your bow. Shot penetrates armor doing purely magical damage. Does not require ammunition.Light, Ranged, Intelligence
+
+Calen shared his choices with the others, writing them each down in his notebook beside the other skills he had been offered.
+
+“Wow, the system liked you,” Malika said. “You got an answer for everything you struggled with today.”
+
+“Except running out of mana,” he said. “I used nine mana potions in that fight. But yes, it does make the choice harder.” That was nine potions just for himself, not counting the ones he had given to Ali. I need another source of income.
+
+Calen would have loved to have a resource management skill, like Malika’s Second Wind, or Relentless. In fact, he had been hoping for anything that might help him out, but all his abilities seemed to be focused on his bow and doing more with more mana. The skills looked strong though, so he wasn’t upset.
+
+“I like the Righteous Fury,” Mato said.
+
+“Trap Shot would have been quite useful when I was luring those Piercer Scorpions up the stairs,” Calen mused. He could still feel the terrifying wind from the scorpions’ spear limbs slicing at his back. “But I think Mato might be right, Righteous Fury looks like it will work on everything, seeing as almost all my skills use mana.”
+
+“You don’t want to try out that Bolt of Light?” Malika asked. “Ignoring armor seems strong.”
+
+“It does look great, but I saw an armor-piercing advancement on my Arrows of Brilliance. I think I can take that instead, next time the skill advances. That should save me a skill slot.”
+
+“Why not just try out the Righteous Fury skill and see if you like it?” Ali said. “Mato and I both switched skills, you just lose any levels you earned. For a level one skill you don’t lose anything.”
+
+Calen weighed his options, but Ali’s observation was correct. His best information would come if he simply tried it out. He selected Righteous Fury.
+
+You have gained the class skill Righteous Fury.
+
+He got up and readied his bow. This should affect everything, even Blessing of the Dawn. He made a note to check quickly when he activated it and memorize the improvements to his attributes.
+
+He activated his new skill – and gasped as his mana lit his blood on fire. It wasn’t literally on fire, but it sure felt like it – it burned inside him, flooding through his veins with such intensity that he felt sweat pop out on his brow and his health decreased by several points. It didn’t stop him from moving, but – even though he’d never been curious – he now knew how to describe being burned from the inside out in excruciating detail.
+
+The entire room suddenly became as bright as day, with the most minuscule details of shattered bone revealed to his enhanced eyes even from as far away as the shelves on the opposite side of the atrium. That was over two hundred yards away in what had just been utter darkness.
+
+Quickly, he nocked an arrow, drew, and fired, shooting at a jutting outcrop of bone across on the other side of the landing. His arrow flashed with a brilliant incandescence and shot across the space, punching clean through the bone and out the other side without even slowing, embedding itself deep into the wall beyond. He gasped in surprise. That’s… damn, can I do that again?
+
+He fired another two arrows in quick succession noting that his rate of fire was even increased, presumably because of his temporarily increased dexterity attribute. Everything that used his mana was more powerful – including the motes of light hovering overhead. He tried his increased range enchant, finding that it too had been enhanced. In the background, he heard Mato’s surprised exclamation and colorful comment about the piercing power of his new skill.
+
+After thirty seconds, the light dimmed, and the room returned to normal.
+
+“This is a super powerful skill,” he said, more than a little in awe. The arrows punching right through the bone outcropping and into the wall without any piercing magic had been vastly more than he had expected. Maybe I won’t even need that Armor Piercing upgrade.
+
+“That looks nice!” Malika agreed.
+
+He checked his health, noting the amount he had lost was quite manageable, even though it was enough that he would need to keep it in mind whenever using this skill. The pain was annoying, but it too had been manageable.
+
+“You looked awesome!” Ali exclaimed. “Your eyes were glowing white, with little trails of energy coming off them when you moved. And everything got brighter, including your motes, and you had white mana markings on your arms and face.”
+
+“It seems to affect everything,” Calen said, “even my perception skill, and my attribute boost. I got faster because I had more dexterity. The only downside is the mana burns me, so I may need to stock some healing potions for dangerous fights.”
+
+“And you can use your skill from stealth too,” Ali said.
+
+“What do you mean?” Calen glanced at her in surprise. Hadn’t she just told him he lit up the room with magic when he used it?
+
+“It affected your motes. You had those out already, so it affects even stuff you had previously cast.”
+
+Oh! He hadn’t noticed that little detail. That meant he could do the same trick with his arrows. He could shoot from stealth first, and then activate Righteous Fury while the arrow was still in flight. The same technique Ali had taught him, just with a new skill.
+
+“You know, that skill looks a little like the thing your Kobold did with the pillar of light, Ali,” Malika said. “Except, instead of healing power it makes him into a super-archer.”
+
+“I think I’m going to keep it,” Calen said. “At least I want to try it against a real monster sometime. I’ll probably need more mana potions because this thing lets me shoot so fast. Super-archer is going to make me go broke.”
+
+“We really need to find a way to make more money,” Malika agreed.
+
+“I can help with that now,” Ali said. “I can make quite a few good weapons and armor.”
+
+While Calen didn’t enjoy the idea of his friends paying for him, he had consumed a bunch of mana potions to just remain relevant in the longer fight – and he couldn’t exactly think of a better way of making money with his own skills.
+
+Perhaps the guild has some new quests. That way I can help out while also earning money for more mana potions. That Morwynne Fizzlebang is probably going to think I use them for brushing my teeth or something. Of course, he still tried Bolt of Light out because he was curious, but his heart was set on Righteous Fury.
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 23- Radiant Archery – level 15- Arrows of Brilliance – level 17- Motes of Light – level 9- Explorer – level 14- Blessing of the Dawn – level 13- Eclipse – level 12- Eyes of the Archon – level 12- Righteous Fury – level 1- [Locked]- [Locked]General Skills- Bowcraft – level 6- Wood Carving – level 3- Cartography – level 5Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 30- Strength: 9- Endurance: 19- Dexterity: 149 (+55)- Perception: 105 (+39)- Intelligence: 98 (+36)- Wisdom: 36Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Vest – level 10- Ring: Bronze Guild Ring – level 10Evasion: 120Dodge: 15.7%Health: 300/300Stamina: 190/190Mana: 288/360 (72 Reserved)

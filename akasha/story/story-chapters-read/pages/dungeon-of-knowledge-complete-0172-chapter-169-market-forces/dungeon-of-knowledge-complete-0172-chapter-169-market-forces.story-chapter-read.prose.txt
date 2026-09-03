@@ -124,3 +124,140 @@ Elixir of Fire Resistance – level 41Consume: +20% to resistance against fire d
 
 “That’s really good,” Malika said. And it really was – for someone like Mato who couldn’t drink potions every few minutes because he was a bear or a tree, this would add a lot to his defenses against fire. She didn’t even mind that it was two gold for a single potion. But for her, another twenty percent wouldn’t be a very large number. “It’s probably too expensive to waste on me, though.”
 
+“I got something else for you,” Mato said, pulling out a crate of small vials of red liquid.
+
+“Wow, it’s gifts all around,” she teased gratefully.
+
+Potion of Fire Absorption – level 40Consume: Absorb up to 576 Fire damage. Duration: 3 minutesValue: 1 gold, 20 silverCreated by Eliyen Mistwood.Potion
+
+“Yep, Eliyen is a wizard,” Calen said. “When I explained your situation, she immediately whipped these up.”
+
+The potions were outstanding. “Just like a health potion,” Malika said, examining it closer.
+
+“Better,” Calen observed. “You drink it before you go into the fight, and it blunts the first chunk of damage you take, as long as it’s within three minutes.”
+
+“So, I down this when I see a double-pull of Shards of Flame?” Malika asked.
+
+“Yes,” Calen said, wincing visibly.
+
+“One gold, twenty silver per shot though,” Malika grimaced. “I feel like I’m going to be drinking all our hard-earned essences.”
+
+“Welcome to the club,” Calen said.
+
+“Seems worth it,” Mato said. “Besides, we paid with the bucket of mana-purified water Calen hauled up with us, and I just gave her double the number of fire flowers she needed, so she can make other stuff. We didn’t pay any gold for this.”
+
+“Still feels a little wrong,” Malika said, but she knew it would make a big difference down there. It helped that Mato confirmed her potions took fire flowers instead of essences – something Ali could grow.
+
+Jax is going to peck out his own liver at this rate…
+
+Calen stalked back to the group, his skin beginning to burn as the restoration spells wore off.
+
+“The double pull is next,” he said. He had studied it for quite some time, but there did not seem to be any way to split them, and the tunnel was rather narrow.
+
+The Emberforge Mines had respawned most of the monsters since they had cleared it the first time, but they were progressing substantially faster this time. Knowing where everything was helped, but the extra fire resistance from the elixirs was the biggest difference. Less downtime meant they were fighting more and resting less, and they were already coming up on the tunnels full of fire spiders.
+
+“I think we should all stand in the intersection,” Calen said. It was a bit risky, but he had an idea of how to do it. “Mato, you charge the first one, take it into the side tunnel, and Malika I’ll pull the second one down here to you and you can tank it here.”
+
+“Pull it far enough so there’s no overlapped aura in the intersection, right?” Malika asked.
+
+“Yup, that’s my thought,” he answered. Malika and Mato would be down separate passages, unable to see each other, but they didn’t need to, from the intersection, Ali should be able to have her Kobolds heal everyone. The only problem would be the beginning of the fight where the Shards of Flame were being dragged over everyone.
+
+“Ok, sounds good,” Mato said, transforming into his Bear Form.
+
+“Ali, maybe block off a corner for yourself and the healers, there’s going to be a storm of firebolts as they come through.”
+
+“Right,” Ali said, and a golden wall appeared immediately.
+
+“I got the one at the back. Go,” he said, and Mato charged down the dark rocky tunnel, smacking into the Shard of Flame.
+
+Calen released his arrow and struck the far Shard of Flame squarely in the center of its core, making it hiss angrily as it tore past Mato toward the group. Ali and most of her minions sprinted off down the tunnel toward the intersection while hiding behind the barrier she took with her. Many of them immediately ignited in the fire aura of the oncoming Shard of Flame before the burning was extinguished by healing magic.
+
+Looks good, Calen thought, seeing Mato disappear down the side passage and Malika’s punches landing on the elemental that was burning him just by its presence. But Malika did her job well, and the elemental never even got a chance to take a shot at him before it turned to her in rage.
+
+He left her to it, sprinting down the tunnel to get out of the aura of flame. From the intersection, he found he could clearly see both elementals, one down each tunnel, and with a little work, he positioned his bow horizontally, splitting his arrows to fire almost ninety degrees apart, one down each tunnel to strike each elemental. While Multishot split the base damage between each of the arrows fired, his light-damage enchantment applied the full damage to both, and he only paid for it once. For the skills he had, Multishot was almost always a win, unless he was forced to shoot without enchants.
+
+Multishot had been his reward for training with Nendir at Ciradyl the first time, and he had tried for another advance the last time he had gone, but no matter what they did, he could not unlock anything. Both Nendir and Lyeneru had recommended focusing on some other form of area damage, particularly given how he wanted to develop his class, and so they had been focusing on his arrow enchants this time.
+
+It felt so close, he thought, remembering his last training session before he returned. He had even extended his stay just a little, certain he was about to unlock something, but it hadn’t been enough.
+
+The anxiety he had over what had to be the most dangerous pull in the dungeon so far slowly faded as the fight progressed. No unexpected adds sprang out of the lava to join in, and the monsters were separated enough that nobody except the melee was getting the extra burn damage from the auras. He grinned as Malika’s elemental collapsed and he heard the chime sounding in the background.
+
+Malika and all the melee minions had to run the long way around, but that wasn’t much of a problem, given how stable Mato seemed to be now. Knowing what was coming up next, he withheld his Righteous Fury, choosing to keep it for the tunnel of spiders instead. He nocked a normal arrow because it would do just a little more damage when fired at a single target, but he was still happy that his Multishot generated its own arrows – it was so much less work and money to avoid ammunition.
+
+A few minutes later, the second Shard perished with a muffled implosion.
+
+Your group has defeated Shard of Flame – Elemental – level 40 x2.
+
+And then his chime sounded a second time. Oh?
+
+Arrows of Brilliance has reached level 31.Requirements met for skill advancement.Mentor: Lyeneru Silverleaf.Arrows of Brilliance has surpassed level 30.Received master-level archery instruction and practice.Dexterity has surpassed 250.Intelligence has surpassed 190.Arrows of Brilliance has gained a new enhancement. Blinding FlashMana: Cause an extremely bright flash when your arrow hits, blinding nearby targets. Range: 20 feet.Light, Area, Ranged, IntelligenceExplosive ShotMana: Your arrows explode on impact, dealing light damage to all targets in the immediate vicinity. Range: 10 feet.Light, Area, Ranged, IntelligenceArmor PiercingStamina: Your arrows will pierce armor, ignoring a percentage of the target’s armor valuePhysical, Ranged, DexterityMote of LightMana: Attach a Mote of Light to your arrow, fixing it at the destinationLight, Ranged, IntelligenceChoose one enhancement.
+
+Odd that it triggered now, but it only required level thirty, he thought, eyeing the requirements. The only explanation he could think of was that he had needed some time to internalize his training. Quickly, he scanned through the offered options.
+
+There it is! Without hesitation, he selected Explosive Shot. According to Nendir, it would work just like his light-damage enchantment – each bolt would gain an explosive payload and he would pay once for the shot itself. Certainly, Nendir should know, he was a master with multishot.
+
+I guess I’m never going to get around to picking Armor Piercing, he thought wryly. He had wanted to get it the last three times his skill advanced, and each time there was something more important.
+
+His skill advancement was perfectly timed, too. He tested it immediately on the next pull. He enchanted an Eimuuran Steel arrow with both Enhanced Range and Explosive Shot, and when hit struck, it detonated with a loud bang and a blinding flash.
+
+“Oh, a new advancement?” Ali exclaimed.
+
+“Yes, Explosive Shot,” Calen said. “I’m excited to try it on the spiders.”
+
+“Looks like the Sparkling Ooze light bombs,” Ali noted as they whittled the next elemental down.
+
+Calen led the group through the tunnels drawing the elementals from the side passages and the Lava Lurkers from the glowing pools and rivers one at a time before finally reaching the spider tunnel.
+
+“Spiders,” he said, eyeing the flaming web draped from the ceiling and walls.
+
+“Give me a few minutes, I want to summon some Sparkling Oozes,” Ali answered.
+
+“Good idea.” The swarm of spiders had been a real challenge the first time they had run into it, but they had been unprepared. Usually, Ali kept a good set of Fire Mages, and their fireballs took care of groups, but they couldn’t use fire down here, and that had exposed a weakness in their area damage output.
+
+This time should be different.
+
+While Ali worked her summoning magic, he stalked up ahead to scout the tunnel, marking the locations of the tiny holes the spiders had poured out from, and the few individual spiders that hung up in the webbing, but as he tried to step forward, he sensed a premonition of danger and froze. It felt like something was watching him, able to somehow see through his stealth.
+
+Not willing to risk it, Calen backed out slowly and silently and rejoined the group.
+
+“I think there’s something big lurking back there, but I can’t quite detect it, so keep your eyes open,” he told them. He wasn’t quite sure if it was his Explorer skill or just random paranoia, but he couldn’t shake the sense of being watched.
+
+In the lull that followed, Ali finally spoke up. “Have you noticed this dungeon doesn’t seem to bother with low-level monsters? I mean, the Flame Skitterers are the only thing below thirty-five, and they’re a swarm mob.”
+
+“Seems about right for most dungeons,” Calen answered. Everything he had read seemed to follow similar patterns. Usually, dungeons had a level spread of monsters, but they were supposedly clustered close to the level of the dungeon itself.
+
+“How does it have enough mana for that? I can’t seem to afford even the low-level monsters I have,” Ali grumbled, her voice leaking frustration.
+
+Malika glanced up and said, “Perhaps their class offers them some substantial discount that you haven’t found yet?”
+
+Calen considered the question for a moment, but then it came to him. “The owner of the Ruins of Dal’mohra were the Twin Wights, right?”
+
+“Yes, what of it?”
+
+“They were a raid boss,” he answered. “And your raid boss has some ridiculous mana pool. Didn’t you say your Domain Mastery might let you do that to yourself?”
+
+“Oh, I should have thought of that,” Ali said, her brow furrowed. “Yes, I’m pretty sure my skill can apply the boss transformation to me, but I get the impression that it’s permanent, and there’s no way I’m doing that. Domain Withdrawal is enough of a limit for me, I don’t want to be confined to a cave.”
+
+“That’s probably smart,” Malika said. “You can’t unsummon yourself if you make a mistake.”
+
+“Ok, well, I’m ready,” Ali said, still frowning with evident frustration. “What’s the plan? Charge in and blow everything up?”
+
+“That’s about right, maybe send your oozes in first and flush them out, and I’ll shoot from here, and try not to hit your monsters,” Calen said. Ali’s face was lit up brilliantly by the presence of the six Sparkling Oozes that surrounded her, taking the place of several other minions that she had unsummoned to make enough mana to support them.
+
+“Oh, don’t worry about the Sparkling Oozes, they’re immune to light magic,” Ali chuckled. “Go crazy.”
+
+“Oh perfect.” Calen resummoned his motes and sent them floating out into the tunnel to make sure nothing was hiding in stealth. The oozes slithered and crawled after them, more or less flowing up the craggy walls, ignoring the web as they went. In seconds, the tunnel filled with a hissing sound, and blobs of fire began to shift and scurry around. Hundreds of eyes gleamed down from behind the webbing and spiders began to pour out of their hiding spots in the cracks and crevices in the walls.
+
+The tunnel suddenly filled with a strobing light and deafening roar as the oozes let loose, but even given the intensity of the clash, his enhanced vision still picked out the densest groups of spiders clearly. Ali clamped her hands over her eyes, and as she did, Calen triggered his Righteous Fury, filling the air with triple-shot volleys of magical arrows enhanced with additional light magic damage and his newest Explosive Shot. The roar from the tunnel washed over him, but he didn’t let up until the mana in his veins stopped burning and the crawling in the dark tunnel ceased. The only thing left moving were the oozes plopping down from the ceiling to consume the occasional twitching spider, and Mato tanking the few almost dead higher-level Flame Spinners that had survived the gauntlet.
+
+Well, that was fast, he thought, switching up his arrow enchantments to help finish off the remaining spiders. But he still felt the sense of something watching him with far too many eyes.
+
+Motes of Light has reached level 15.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

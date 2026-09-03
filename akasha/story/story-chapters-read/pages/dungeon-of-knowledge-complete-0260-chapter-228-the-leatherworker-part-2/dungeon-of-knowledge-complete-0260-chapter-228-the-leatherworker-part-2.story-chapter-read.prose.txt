@@ -118,3 +118,40 @@ I need to get proper ink and study this, she thought. Perhaps Malika knows where
 
 “Oh, right,” Ali said, quickly popping into the awareness of her newest troll and sharing the entire status sheet with everyone. “Here you go.” She had skipped over it in her excitement to unravel the rune mystery, so she studied the skills now with far greater detail.
 
+Race: TrollActive Buffs: Ancestral Spirit RunesClass: Witchdoctor – level 78- Soul Drain – level 48Mana: Drain mana and health from up to 5 [1 + skill / 10] targets. You gain temporary maximum health and mana equal to the drain if you are full. Duration: 10 seconds. Recharge: 20 seconds.Soul, Bloodline, Ranged, Channeled, Intelligence- Spirit Walk – level 34Mana: Shift to the spirit realm. In this realm, you are immune to attacks from the normal realm. You regenerate 15% of your maximum mana over 45 seconds. Channeled. Soul, Movement, Wisdom- Hex – level 42Your curses ignore up to 20% of your target’s magical resistance.Mana: Remove a curse.Mana: Curse your foe with one of your known curses. You can have up to 5 [1 + skill / 10] curses active at one time. Recharge: 10 seconds.Known Curses: Spirit Banishment, Frog Hex (humanoids, beasts, demons).Soul, Curse, Ranged, Intelligence- Jar of Tricks – level 41You are proficient at throwing. Mana: Conjure an earthenware spirit jar that can be used to collect denizens from the spirit realm or hold a concoction of any kind. Recharge: 30 seconds. Soul, Ranged, Wisdom- Combat Potions – level 40 You are proficient in herbalism, having a broad knowledge of local herbs and plants, and how to use them to create explosive cocktails, poisons, and potions. The potency or effectiveness of Herbalism skills is increased by +40% [skill].Mana: Brew a potion that you know, given access to proper ingredients, equipment, and time. Requires focus and concentration.Mana: Instantly concoct a simple potion, given access to prepared ingredients. Recharge: 45 seconds.Soul, Herbalism, Wisdom- Ancestral Spirit Runes – level 44Mana: Invoke the blessing of the ancestral spirits with your own personal runic tattoo, inscribed with your mana. Your Dexterity, Intelligence, and Wisdom are increased by +131.6% [40 + skill + bloodline + base intelligence / 10]. Reserve: 20%Soul, Bloodline, Knowledge, Buff, Intelligence- Runic Soul Ink – level 28You are proficient with runic magic.Mana: Paint a temporary soul blessing on an ally. Grants +5 [skill / 5] to any one attribute. Requires access to prepared ink or paint. Duration: 6 hours.Mana, Experience: Create a runic tattoo by inscribing the magical enchantments into the body and soul of your target. The runic tattoo takes a gear slot and requires the bearer to reserve mana, life, or stamina to maintain it, proportional to the number and level of the enchantments granted. Soul, Ink, Knowledge, Buff, Intelligence- Spirit Magic – level 37You are a being that inhabits both the mundane and the spirit realms. Your magic can target either realm equally. Your resistance to magic gains +37% [skill].Soul, Defense, Mastery, Wisdom- Spirit Speaker – level 26Your knowledge of the spirits and the spirit world allows you to call on them for aid. Soul magic gains +26% [skill] spell power in the spirit realm.Mana: Attract spirit creatures to the area to haunt your enemies from the spirit realm. Range: 50 meters, Recharge: 1 minute.Mana: Consult with the spirit realm for information, using an appropriate ritual, ceremony, effigy, or doll. Information can be related to tracking, knowledge, scrying, or divinations, depending on the spirit consulted. Recharge: 1 day – 1 week.Soul, Divination, Knowledge, Wisdom- Ritual Infusion – level 21Mana or Health: Greatly increase the power and efficacy of an ally or something you create for a short period of time by infusing it with a donation of health or mana. Moderate chance of unpredictable side effects. Soul, Chaos, Buff, IntelligenceGeneral Skills- Identify – level 24- Herb Gathering – level 23- Brewing – level 23- Calligraphy – level 19- Painting – level 19Aptitudes- Language: Troll- Mana (Affinity): Soul- Troll Wisdom (Racial): +15 to Wisdom- Bloodline (Aman Rak): +30% to range and power of Bloodline skills- Regeneration (Racial): +600% health regeneration. Can regenerate mortal injuries. Fire - damage cannot be regenerated
+
+Attributes- Vitality: 136 (+29)- Strength: 68- Endurance: 77- Dexterity: 470 (+329)- Perception: 122- Intelligence: 407 (+231)- Wisdom: 597 (+423)Equipment- Head: Ancestral Bone Mask – level 65- Hands: Ancestral Spirit Beads – level 64+57% to mana regeneration.Health: 1360/1360Stamina: 770/770Mana: 4776/5970 (+1194 Reserved)
+
+Huh, how odd… Ali thought.
+
+“That’s crazy,” Malika said, echoing Ali’s instant impression of the witch doctor. “It doesn’t look like a good combat class. It has no defenses at all.”
+
+“How did they cause us so much grief then?” Mato asked.
+
+“It’s more like a utility and buff mage,” Calen said, biting the end of his pen in thought.
+
+“Hex is very strong, though,” Ali said, suddenly noticing the decursing advancement. “She can remove Frog Hex directly.” Not to mention all the crazy curses they had to contend with in the Emberforge Mines.
+
+“Well, that’s a relief,” Calen said, sighing with exaggerated theatrics.
+
+“It is very mobile, and the Spirit Realm is a powerful control tool,” Malika observed.
+
+“That’s true,” Ali mused. “Without the mushrooms, it could just pick off the team one at a time in the Spirit Realm.”
+
+“Hey, Ali,” Calen said. “Look at Spirit Magic – it gets a massive percentage boost to magical resistance, but it has no innate defenses. You might want to make some resistance armor to take advantage of that.”
+
+“Aah, good idea,” she said. “Also, that Spirit Drain and Ritual Infusion combination looks powerful, but it’s going to need a lot of testing.”
+
+“I’m game for figuring it out,” Calen said, perking up instantly.
+
+“Well, there’s a big surprise from Mr. Hoppity-hop,” Mato said, chuckling.
+
+“Oi!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

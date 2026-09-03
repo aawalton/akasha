@@ -76,3 +76,80 @@ This skill is going to make me go broke, he thought, stepping over his discarded
 
 While he waited for his mana to refill, he cast an eye across the battlefield, paying careful attention to Ali’s new Kobold archers. They’re doing a lot better, he thought, satisfied. When Ali had asked him for help, their technique had been best described as mediocre. But she had studied his advice and technique with impressive diligence, and Calen could see the dramatic improvement.
 
+Close enough, he thought, checking his mana level. Picking the bat targeted by Ali’s Arcane Bolts, he began firing. Maybe if the battle goes long enough, I can use Righteous Fury again.
+
+As the final bat spiraled down to the ground, taking several more of his arrows on the way down, Calen heard several chimes sounding. Oh, something new? He hadn’t bothered with the notifications all morning, but several chimes together like that usually meant something worth looking at.
+
+Oh, I leveled.
+
+Your group has defeated Giant Bat – Zombie Bat – level 24-28 x4.
+
+Archer of Light has reached level 27.+10 attribute points.
+
+Radiant Archery has reached level 18 (+2).Arrows of Brilliance has reached level 21 (+3).Motes of Light has reached level 11.Explorer has reached level 17.Eclipse has reached level 14 (+2).Eyes of the Archon has reached level 14.Righteous Fury has reached level 7 (+4).
+
+Cartography has reached level 7.
+
+Quickly, Calen spent two points each on vitality, dexterity, perception, intelligence, and wisdom, shotgunning all the attributes he used evenly – but that wasn’t the last notification. Hurriedly, he read on, having to stifle a chortle of satisfaction. Yes!
+
+Arrows of Brilliance has gained a new enhancement.
+
+Blinding FlashMana: Cause an extremely bright flash when your arrow hits, blinding nearby targets. Range: 20 feet.Light, Area, Ranged, Intelligence
+
+Armor PiercingStamina: Your arrows will pierce armor, ignoring a percentage of the target’s armor value.Physical, Ranged, Dexterity
+
+Mote of LightMana: Attach a Mote of Light to your arrow, fixing it at the destinationLight, Ranged, Intelligence
+
+Grappling ShotMana: Bind your target with light magic, pinning it to the ground and impeding its movement.Light, Ranged, Intelligence
+
+Choose one enhancement.
+
+Calen smiled seeing his new advance, and he almost picked his anticipated Armor Piercing, before he suddenly noticed the new entry in his list of choices.
+
+Grappling Shot? The skill sounded almost deceptively simple, but it would change everything for him. In her book, Lyeneru always stressed the importance of strong kiting skills. If you wanted a monster to chase you, you either had to be faster than it, or you had to make it slower than you. According to her, control skills that prevented your enemy from reaching you were vastly more useful from the perspective of usable, practical tactics in combat. And here was a skill that he could use with his bow, presumably stopping or at least slowing creatures.
+
+He took a longing look at the Armor Piercing advance he had been waiting for. It was still an extraordinarily strong choice.
+
+Which wins? Control? Or power?
+
+But Mato just got his Living Rend, he thought, considering how much that skill had enhanced his damage. It spoke for the value of armor piercing, but it also suggested he might be able to wait a little longer, relying on his friend instead. He examined Grappling Shot once more.
+
+It doesn’t say anything about the monster needing to be on the ground, he suddenly realized. Many trap skills placed something on the ground that needed to be stepped on for them to activate. But this would be delivered by his arrow.
+
+Can I shoot monsters out of the sky? Worth trying it out.
+
+***
+
+Calen didn’t have to wait too long this time, a group of two skeletal wyverns and three zombie bats swooped over his vantage point on the bridge. Following the same pattern, he enchanted increased range and fired, adding his light damage right before his arrow hit the lead wyvern. He turned and sprinted, using a weaving path to avoid the poison spray. Bats by themselves were easier to outrun, and once he had learned to anticipate it, their narrow-focused ultrasonic stun was not particularly difficult to avoid. It was the wyverns with their poison spray he had to be careful of – a broad arc that splashed everywhere – and even the splash caused poison damage. He ducked and evaded his way down the street taking the shortest path back to their waiting ambush.
+
+“Two wyverns and three bats,” he announced, as he sprinted through their position. Mato’s typical response was a furry frown.
+
+I want to see his face if this works!
+
+Calen turned amid the storm of magic and arrows unleashed by Ali and her minions, stopping beside the solid bulk of Mato’s bear. He nocked one of the Arrows of Accuracy to his bowstring and drew, sighting down the dark gleaming arrow shaft at the unnatural flying skeleton of a wyvern. He enchanted his arrow with Grappling Shot and loosed it into the sky, to the pull of a substantial chunk of mana vanishing into his magic.
+
+Oof, that’s expensive. He would need to be careful and strategic with this new skill – and probably he would need more mana potions. Again.
+
+His arrow soared into the sky, trailing a thin chain that seemed to be made entirely from pure light energy. The arrow flew true, apparently unimpeded by the trailing chain that seemed to attach itself to the ground by his feet. As soon as his arrow struck, the chain surged out, wrapping itself rapidly around the skeletal wyvern before snapping taut. The wyvern let out a furious roar as the chain dragged it bodily to the ground, despite its thrashing and struggling.
+
+“Ooh!” Ali exclaimed from behind him, as Mato roared with what Calen imagined was unrestrained joy.
+
+Oops! Calen dove to the side as the wyvern crashed into the ground right beside his feet.
+
+You have been afflicted with Poison.+3 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+Stupid! He had been poisoned just by proximity to the undead monster. Quickly, he scrambled out of the way of the thrashing bony wings, tail, and the furious spray of poison that shot out in all directions. Calen ran for the cure poison circle, hearing the crunch of bear claws tearing through bone, and the rapid flash and crack of Malika’s strikes.
+
+Calen downed a mana potion and examined his handiwork. For about twenty seconds, the Wyvern remained bound to the ground by the chains of his magic. But, all too soon, the chain of light shimmered and evaporated into tiny sparkles of light freeing the monster. Immediately, it swept its wings downward and leapt into the sky, but although Mato’s frustrated roar throbbed nearby at his prey escaping, it was clear that even just the short amount of focused time he and Malika had spent on it had left it battered and broken.
+
+A sarcastic grin curved his lips. Do come visit again. I hope you enjoyed your stay.
+
+Leaving the slower, damaged wyvern to Ali and her minions, Calen sprinted over to Mato and shot the second skeletal wyvern. Once again, his mana drained into the skill as if he had pulled out a plug, forming the thin, but strong binding chain, and dragged the undead creature to the ground.
+
+Having learned his lesson the first time, Calen was well clear by the time it crashed to the ground and straight into Mato’s waiting Swipe, which cuffed its head so hard the monster was left looking backward for a second.
+
+Calen smiled, thoroughly enjoying the enthusiasm with which Mato was tearing into the skeletal wyvern, clearly venting two days of frustration against a foe that was finally in range of his paws.
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 27- Radiant Archery – level 18- Arrows of Brilliance – level 21- Motes of Light – level 11- Explorer – level 17- Blessing of the Dawn – level 14- Eclipse – level 14- Eyes of the Archon – level 14- Righteous Fury – level 7- [Locked] - [Locked]General Skills- Bowcraft – level 7- Wood Carving – level 3- Cartography – level 7Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 34- Strength: 9- Endurance: 21- Dexterity: 180 (+76) - Perception: 122 (+46) - Intelligence: 116 (+44) - Wisdom: 40Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Armor – level 20- Hands: Bracers of Accuracy – level 10- Feet: Simple Boots of Swiftness – level 15- Ring: Bronze Guild Ring – level 10Evasion: 240Dodge: 24.09%+5% to Accuracy rating.+5% to Movement speed.Health: 340/340Stamina: 210/210Mana: 320/400 (80 Reserved)

@@ -160,3 +160,106 @@ As soon as the skill choice was confirmed, she felt a sensation like a pebble dr
 
 No, more like my soul.
 
+There was a sound like the splash of a single drop of water and suddenly the world quietened down. She blinked, and in the stillness, she was aware of the sound that her eyelids made closing, the sensation of her eyelashes brushing against each other. The focus in her mind was incredible.
+
+I could concentrate on a single blade of grass for hours if I wanted to.
+
+“Are you ok?” Ali sounded like she was speaking from an infinite distance away, and yet right beside her at the same time. The resonance of the sounds and shape of the words danced together in her mind. A subtle undercurrent of concern lay bare in Ali’s tone. Details that she would usually have ignored snapped easily into focus.
+
+“I think so,” Malika answered. “It’s pretty… incredible.”
+
+Just like Ali had shared, Malika knew it would likely take some getting used to such a powerful shift in her experience.
+
+***
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 33- Martial Artist – level 14- Soul Strike – level 18- Healing Mantra – level 19- Perfect Body – level 16- Soul Armor – level 19- Enlightened Evasion – level 18- Divine Step – level 16- Second Wind – level 4- Clarity – level 1- [Locked] General Skills- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 11Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 52- Strength: 15- Endurance: 141 (+55) - Dexterity: 199 (+86) - Perception: 25- Intelligence: 22- Wisdom: 143 (+56)Equipment- Ring: Bronze Guild Ring – level 10- Hands: Wraps of Accuracy – level 17Armor: 133Physical Damage Reduction: 12.58%Evasion: 126Dodge: 12%+6% to Accuracy rating.Health: 322/322 (-38% Life Drain)Stamina: 1269/1410 (141 Reserved)Mana: 1001/1430 (429 Reserved)
+
+I really hope the Guildmaster knows how to fix this, Calen thought, studying the status of his class, and the life drain damage left from the Wight battle. He had suggested the Guildmaster might know something as if he was confident, but he worried that it was permanent. Or that the treatment would require expensive reagents or access to priests that were simply out of their range and means to afford.
+
+“It’s lucky we defeated the Wights on the first try,” he muttered. With this level of life drain, there would have been no way for them to survive a second attempt.
+
+“You can say that again,” Malika chimed in.
+
+He glanced up, surprised that she had heard him, but then he turned his attention to the notifications from the fight. In the Lich drama that had ensued after they had killed the Wights and defeated the dungeon, he had not had the time.
+
+Archer of Light has reached level 32 (+5).+50 attribute points.
+
+Five levels is great! He let out a low whistle of appreciation.
+
+When Calen had pulled aggro on the Death Wight early in the fight, it had been on purpose. Not even the monster’s surprise flying skill had bothered him. He had kept Grappling Shot primed for the duration of the fight – only, Malika had never freed up from tanking skeletons, so it had been unnecessary. It was when the monster summoned wraiths that Calen had been certain he had made an awful mistake.
+
+In hindsight, though, he had actually turned out to be the ideal tank for the monster. Neither Malika nor Mato could reach it, and he could tank it from outside the death magic aura. He didn’t have a lot of health, but it was far more than Ali – at least before his life drain – and he could dodge the Volatile Wraiths.
+
+Volatile Wraith. He shuddered, recalling the chilling and horrifying sensation of the incorporeal undead wraiths passing through his body to unleash their painful bite. With the drain being a critical damage attribute – something he was nearly certain of – and a percentage reduction – it actually worked out much better to spread it out over three people. If Mato or Malika had been able to tank it, they would have an additional thirty-six percent loss, and likely they would have died near the end of the fight when damage output substantially increased as the Bone Wight powered up.
+
+I wonder what would have happened if we’d killed them in the opposite order? he mused, before reading on.
+
+Radiant Archery has reached level 21 (+3).Arrows of Brilliance has reached level 24 (+3).Motes of Light has reached level 12.Explorer has reached level 18.Blessing of the Dawn has reached level 16 (+2).Eclipse has reached level 15.Eyes of the Archon has reached level 16 (+2).Righteous Fury has reached level 9 (+2).
+
+Cartography has reached level 8.
+
+His skills were growing nicely – particularly his two archery related skills. It made sense, Radiant Archery, Arrows of Brilliance, and his use of Righteous Fury made up the bulk of his damage over the entire course of the fight. Carefully he noted down his skill growth in his notebook. It was a crazy-long fight too… After a moment’s consideration, he added a note that he wanted to stock up on even more arrows, just in case.
+
+Right, so far so good. Now for the meat of it…
+
+Class skill slot unlocked.New skills are available for Archer of Light.
+
+Excellent! This was the one he was most excited for. He had been worried about his class, but his hopes lay in how it might grow as he unlocked new skills and advances.
+
+New skill unlocked.
+
+Class level has reached 30.Dexterity has surpassed 150.Survived being stunned in a fight without assistance.
+
+Stunning ShotStamina: Fire a magical arrow, stunning your target for a few seconds. Stun chance increases with skill and critical strike chance.Physical, Ranged, Dexterity
+
+New skill unlocked.
+
+Class level has reached 30.Intelligence has surpassed 100.Leveled three or more light affinity skills above 15.
+
+MirageMana: Create an illusion of yourself on the battlefield. It will mimic your actions. Duration: 30 seconds.Light, Illusion, Intelligence
+
+New skill unlocked.
+
+Class level has reached 30.Dexterity has surpassed 150.Freefall more than 50 yards in combat and survive.Tank a flying raid-level threat.
+
+Azrael’s WingsMana: Create ethereal wings made of light magic. You can fly. Channeled.Light, Movement, Dexterity
+
+Holy crap – yes, yes! Yes!
+
+He knew he was being uncharacteristically impulsive, but his decision was instantaneous. This was so wildly beyond anything he could have hoped for, he had chills all over. Lyeneru Silverleaf was legendary for raining death down on her foes from the skies, borne aloft by her wings of flame. Now he would be just like her!
+
+I want to fly!
+
+You have gained the class skill Azrael’s Wings.
+
+He knew his decision was probably heavily biased by his experience falling from the inner ring, and needing to be saved by Ali, but he didn’t care. He stood up and stepped outside the campfire circle, getting a few curious looks. Calen channeled a little mana into his new skill.
+
+His mana flowed from a central dense core of warmth deep behind his breastbone, surging backward into his shoulder blades and erupting outward from his back. There was a rush of unfamiliar power and understanding as his magic augmented his body, and a bright light filled the area around him.
+
+“Wow! So cool!” Ali exclaimed, beaming from ear to ear.
+
+“Woah!” Mato gasped.
+
+Malika breathed, “Oh, that’s really something, Calen.”
+
+He turned, and behind him, spread wide to either side was a pair of glowing wings of pure white light, shimmering, insubstantial, and slowly shifting as if reacting to an unfelt breeze. A potent energy of power and readiness flowed out from his back through the magical wings, and he found that he somehow already knew how to move with them.
+
+Responding easily to his will, he stretched his wings wide and then flared them softly downward feeling the magic lifting him gently into the air. He circled slowly, trying to get used to the feeling, but it was hard to keep the grin of sheer exhilaration from his face.
+
+I’m flying!
+
+“Maybe keep close to the ground until you get used to it,” Malika suggested.
+
+It was a smart idea, he didn’t want to fly into a tree because he lacked experience, and his skill was draining his mana. Falling out of the sky because he had run himself dry would not be a smart move. However, none of that mattered when he flew up higher and took off in a sudden high-speed swoop as he pushed his wings to see what he was capable of.
+
+Damn, I only wish Malika could have gotten something this fantastic. Her mixed feelings were more than obvious, and he knew she held her tongue for his sake. I guess, like Mato had, these advances aren’t always what we want.
+
+Still, as he came about in an unsteady curve, laughter bubbled from his lips. This is awesome!
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 32- Radiant Archery – level 21- Arrows of Brilliance – level 24- Motes of Light – level 12- Explorer – level 18- Blessing of the Dawn – level 16- Eclipse – level 15- Eyes of the Archon – level 16- Righteous Fury – level 9- Azrael's Wings – level 1- [Locked]General Skills- Bowcraft – level 7- Wood Carving – level 3- Cartography – level 8Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 37- Strength: 9- Endurance: 24- Dexterity: 208 (+89) - Perception: 148 (+58) - Intelligence: 139 (+54) - Wisdom: 42Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Armor – level 20- Hands: Bracers of Accuracy – level 10- Feet: Simple Boots of Swiftness – level 15- Ring: Bronze Guild Ring – level 10Evasion: 240Dodge: 21.12%+5% to Accuracy rating.+5% to Movement speed.Health: 236/236 (-36% Life Drain)Stamina: 240/240Mana: 336/420 (84 Reserved)
+
+--------------------
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://www.patreon.com/DungeonOfKnowledge

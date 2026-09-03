@@ -106,3 +106,70 @@ Malika dismissed the glowing notification. Everywhere she looked, people or mini
 
 We need to take out that warlock, Malika thought, seeing the urgency of the fight with new eyes. The instant the thought appeared in her mind, she shot off, switching her attacks to draining mana. She tore in from its left side and unleashed her favorite kick combination, Soul Strike flickering blue with the drain. Her body flared with fresh flame as the monster cursed her with a dismissive gesture, but she ignored the pain, healing herself continuously while she accelerated her punches, pushing her speed to the limit as she reached for the warlock’s mana.
 
+Calen’s orb pulsed brightly overhead, adding flickers of white to each punch she landed, but mostly she ignored the extra damage, converting all the stolen mana into healing the fire and curse damage. She dodged left, avoiding two Lightning Bolts as she kicked the Flamecaller in the back of its head. She followed the blow by stepping around it in the air and punching it twice in the ribs. Upper ribs. It had a lot of ribs. It seems to be working, she thought, as she realized it seemed to be casting fewer and fewer spells. Or at least she assumed so, because it wasn’t making those hand gestures anymore. Instead, it swatted at her ineffectually with a long steel scepter it carried. A few moments later, her Soul Strike came up empty.
+
+“It’s dry,” she yelled, immediately switching to attacking health instead of mana every three out of four punches. Calen and Ali’s attacks immediately ceased, as they switched to targeting the imps. We should have used this strategy in the first place, she realized. As fast as she was, the imps were tricky to pin down, and she still couldn’t outrun Calen’s arrows.
+
+Yet.
+
+Ali’s slimes were all dead, and she was down to two Hobgoblins – all victims of the stupid conflagration curse. It had turned out extraordinarily difficult to keep her minions from blowing each other up – particularly the slimes as they were both slow to move and think. She still had one Bone Mage and three holy Acolytes cowering behind her barrier with her. But that was entirely due to her barriers and direct management of their formation.
+
+At least her shamans were smart enough to spread out properly. She carefully studied the imp with her mana sight as it triggered a skill she had seen several times already, and it finally clicked in her mind with a moderate draw on her mana pool.
+
+Acceleration? The spell seemed to accelerate whatever it cast next to almost instantaneous speed, and she wondered if this was how her Arcane Recall appeared when she used it on others. That must be metamagic. Right after the acceleration spell, she witnessed the brief flicker of a remarkably familiar formation, and suddenly two imps were cackling in the fire. Summoning? Ali felt a sense of dread, seeing visions of them being overwhelmed by an unending horde of horrible demons.
+
+“New imp!” she yelled, causing Calen’s head to nearly spin off his shoulders.
+
+No. They would have already done that if they could have, she tried to reassure herself. Malika had the warlock locked down, so she didn’t have to worry about the curses anymore. Instead, she focused her attention, instructing her shamans to drop their totems in any lingering patches of fire that the imps could use as destinations. Nearby, Calen fired multiple simultaneous arrows at all the imps in sight. I wish I could do that. Instead, she focused her shards on a single imp that was already heavily damaged and channeled more mana into reinforcing her personal barrier. The imps had been particularly attracted to shooting at her, and the fireballs were powerful. Whatever they were doing to make the bigger fireballs usually gave them enough power to crack her barriers, but the mana returned at least helped offset the cost of recasting them.
+
+My barriers could do with a reflection ability, she daydreamed briefly.
+
+Another hellfire fireball detonated loudly against her barrier, and the body of an imp that had hitched a ride in the flames appeared spread-eagled against the barrier in the center of the explosion with a splatting sound before it collected itself and ran away cackling. Ali shot several barrier shards after it, one of them even connecting before it disappeared into flame again.
+
+The deafening crack of lightning shot through the space it had been and there was a chime and the imp’s body materialized, falling to the ground in a smoking heap. Huh? They can be hit in the fire? She was certain she had watched the Hobgoblins’ swords passing right through the creatures when they turned into flame. Perhaps it’s just the lightning?
+
+There were only three imps left, the one that had been summoned and two remaining of the original demons. She couldn’t tell which was which. Mato smashed his one into a wall and it died, and with a few more well-placed Lightning Bolts and some of Calen’s arrows, the last two died too, leaving only the Flamecaller warlock, drained of mana, and trying in vain to hit Malika with a stick. It didn’t take too long before it, too, was dispatched.
+
+Your group has defeated Warlock – Flamecaller Elemental – level 67 (Hellfire)Your group has defeated Hellfire Imp – Demon – level 53-59 (Hellfire) x5
+
+“Oh, thank goodness,” Calen said when it finally dropped.
+
+“You can say that again,” Malika said, trying to slap the fire burning her fists out against a rock.
+
+Ali couldn’t agree more. She deconstructed the warlock’s corpse, wishing yet again that they were a monster she could use. The curses had both been incredibly powerful, and quite effective as a synergy with each other and the imps. She hated facing them, but if she had been able to add the Flamecallers to her dungeon she would have found them to be a powerful resource.
+
+Oh well, maybe I can find something that isn’t a stupid elemental one day.
+
+She moved on, deconstructing the five Hellfire Imps. The tiny demons were less than half her height and looked dramatically less terrifying as corpses. When they were alive, they were wreathed in flame and tossed around giant instantaneous, amplified balls of hellfire. But dead, they were just scrawny horned demons with leathery purple skin so dark it almost looked black, a little like a cross between a shriveled goblin and a raisin. She finished deconstructing them and found a curious-looking small flickering black flame that hovered slightly above the ground, left after her final deconstruction.
+
+Lesser Hellfire Essence
+
+Hmm, looks useful. She carefully collected it, instructing her Acolyte to cast restoration on her as she returned to the others.
+
+“I think we should switch next time,” Malika was saying. “I’m more suited to locking down the warlock, and your multishot is a far better tool to be used against the imps.”
+
+“I agree,” Calen said. “The warlock doesn’t seem to have a ton of mana, and you ran it dry very quickly.”
+
+“I think those rituals cost a lot of mana,” Ali chipped in, handing the hellfire essence to Malika as she gazed at the battlefield, and the large number of her minions that were lying there dead. She would need to deconstruct every last one of them before they moved on, or she risked causing the dungeon to grow stronger. “I think that explosive conflagration is the biggest issue. It causes chaos and messes with our positions, and I can’t get the slimes to run away fast enough, so they just destroy each other.”
+
+“Perhaps more shamans or even archers against groups like this?” Calen suggested.
+
+More shamans, she thought. Even though her shamans were only level nineteen at most, their lightning magic had proved effective far beyond their class level implied. Almost certainly it was due to their lightning vulnerability curse which let them punch up. Originally tough melee-caster hybrids, compared to what they were currently fighting, they were fragile, and Ali was surprised they had even survived the fight. The more she thought about it, the more she realized it was probably due to the slimes drawing the fire from the imps and the conflagration. She looked at her minions again. More hobs to draw the fireballs, she decided. And then more shamans.
+
+“Do you guys want to call it?” Calen asked.
+
+“I have a few more in me,” Malika said, trying to smooth out her scorched shirt. “I think it will be a lot easier with our new strategy.”
+
+Ali said, “I might be a tyrant, but you guys are battle junkies.”
+
+Mato chuffed softly, not even bothering to shift back to his Beastkin form to talk.
+
+After Ali finished sanitizing the battle scene, they headed deeper into the cavern, with Calen ranging out ahead to find more enemies.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
