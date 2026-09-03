@@ -69,8 +69,6 @@ type Verb = (argv: readonly string[]) => number | Promise<number>
 const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Verb }>>> = {
   "agent-forest": () => import("./agent-forest.ts"),
   "agent-turn-colors": () => import("./agent-turn-colors.ts"),
-  "claude-usage": () => import("./claude-usage.ts"),
-  "seat-transcripts": () => import("./seat-transcripts.ts"),
 }
 
 // THE VERBS THAT ARE AKASHA COMMANDS RATHER THAN FILES UNDER `tools/`. Each is answered by
@@ -84,7 +82,7 @@ const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Verb }>>> = {
 // needed only the file. `verb-server.test.ts` builds a root of its own holding one page and no
 // index at all, and asks `agent-turn-colors` of it — which is why that verb is still on the table
 // above and why moving it across wants the fixture rebuilt first, not just the entry moved.
-const COMMANDED: ReadonlySet<string> = new Set(["work-tree"])
+const COMMANDED: ReadonlySet<string> = new Set(["claude-usage", "seat-transcripts", "work-tree"])
 
 // LOADED WHEN IT IS FIRST ASKED FOR, like everything on the LOAD table: `calling` reaches the index
 // and the page loader, and hello is meant to go out before any of that is paid for.
