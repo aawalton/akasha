@@ -1,4 +1,4 @@
-import type { answer } from "../supervisor-decide/supervisor-decide.module.code.ts"
+import type { answer } from "../supervisor-decide-GONE/supervisor-decide.module.code.ts"
 
 export function classifyRateLimitDeath(text: string): boolean {
   let lastAssistant: Record<string, unknown> | null = null
