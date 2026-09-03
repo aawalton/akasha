@@ -222,3 +222,58 @@ The programmer shrugged. “I don't know what to tell you.”
 
 “Let me check on something.” Max said and the programmer slid his chair out of the way so Max could use his workstation. Max typed almost faster than the eye could see, and brought up the map for the Harpy Aerie and the history of players that had accessed the area. No one had.
 
+Max brought up the players that had entered the same level in Shargon Caverns that the Aerie had been hidden in, and he cursed when one of the three names in the last week was Ren Haddon.
+
+“Him again.” The programmer said. “You don't think that he... I mean, come on. Who wipes out a whole species?”
+
+“I'll check the other two players just for laughs, but my money is on Ren.” Max said. “I don't know he did it, without actually having access to the Aerie.” He sighed. “He's the only one that's currently sitting right there on the same level.”
+
+“He's been in the safe zone the whole time.” The programmer said. “How could he possibly do it?”
+
+“The better question is: why does he keep doing things like this?” Max asked and looked at the clock. “I'd tell you to keep working and let me know what else happens; but, it's getting close to quitting time.” He said and put a hand on the guy's shoulder. “Just finish up that bit of code and just relax until the whistle blows.”
+
+“People still say things like that for ending the work day?” The programmer chuckled. “How old are you, Max?”
+
+“Old enough to kick your butt, and young enough to recover before you do.” Max said.
+
+The guy laughed. “What about adding the resource back?”
+
+“We can't do it until the next major system update.” Max said. “I'll handle it until then.” He walked back to his desk and sat down. He saved up his work after another quick check on the event's progress, then wrote a quick substitution patch for the things the harpies were supposed to be used for.
+
+Thankfully, no one is accessing the harpy mechanic with them all dead; so, it can be slipped in without anyone having to log off to implement it. Max hated having to use the vrock demons as a substitute, even though they produced the same items when killed. They were so much more dangerous than harpies, but it couldn't be helped.
+
+I thought having Ren out of the way for the start of the world event would be a good idea. Max thought. It figures that it would bite me in the ass.
+
+No sooner had the thought entered his mind when the door to the tech department opened and Elise, Ren's current girlfriend, strode in.
+
+Forget biting my ass, it's going to be chewed off. Max thought. “Hi, Elise.”
+
+“We need to talk.”
+
+“Step into my office.” Max said and waved to his desk.
+
+“I'd rather a bit more privacy.” Elise said.
+
+“I know you do.” Max said and grinned, and let it fade when Elise didn't smile at all. “Is the hallway, okay?”
+
+Elise nodded and they left the tech department without saying another word to each other.
+
+*
+
+“He's gonna get it now.” One of the programmers said. “She's a real ball-buster.”
+
+“How would you know that?” One of them asked.
+
+“All the old hands know that.” He responded. “So, I'll give you a fair warning. Don't ever get on her bad side.” He said and smiled as he pat the side of his metal desk. There was a distinct dent where a fire extinguisher had caved it in. “She is not someone you want to mess with.”
+
+The guy looked at the dent. “I'll hold off on asking her out, then.”
+
+“Don't even bother asking.” He said and laughed. “She is completely nuts over her boyfriend.”
+
+“Who is he?”
+
+“Nobody important.” He said, and several tech guys laughed. “He's just the guy that's been giving us all this extra work and overtime.”
+
+“Should I thank him or curse him?”
+
+“Definitely both.” He said and grinned. “We're getting paid tons of money and he gets to have her as a girlfriend.”

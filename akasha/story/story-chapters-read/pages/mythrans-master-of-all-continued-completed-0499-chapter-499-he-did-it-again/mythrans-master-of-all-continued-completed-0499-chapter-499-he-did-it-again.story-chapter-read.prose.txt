@@ -200,3 +200,74 @@ The programmer contemplated how it could have happened, and was at a loss to exp
 
 Max, the Head Programmer for Sid Tec, was in the middle of the best dream he had ever had when his phone rang. His dream shattered as reality intruded on it's perfection, and his anger bubbled up when he saw what time it was.
 
+It's 2:30 A.M.! Max thought as he grabbed the land line telephone beside his bed and put it to his ear. “If this is anything besides the servers breaking down, you're fired.” He growled into the phone.
+
+“That almost happened, sir.” The night programmer said, and Max's anger fled as quickly as it had risen.
+
+“What?” Max asked in a more reasonable voice.
+
+“The overload sirens were set off only moments ago, sir.” The programmer said. “I brought in three backups to cover the load.”
+
+“Good god, what happened?”
+
+“Sir, I... I checked the activity logs, and... I don't know how to explain it.”
+
+“Just tell me.” Max said, and the programmer sighed.
+
+“I don't know how this happened, but... despite seeing the logs and the server load triple in only a few seconds...”
+
+“Spit it out!”
+
+“Sir, 3 new starter cities have appeared in the game simultaneously.”
+
+“WHAT?!?” Max yelled into the phone. “That's impossible!”
+
+“I thought so, too.” The night programmer said. “It just happened, though. One city is in the Human Kingdom, one is in the space between the Dwarven Kingdom and the Giant Kingdom, and the last one is between the Human Kingdom and High Elven Kingdom.”
+
+Max shook his head in disbelief. “Are you sure they're starter cities?”
+
+“Hold on, and I'll send you the data.” The night programmer said and typed in a few commands into the terminal to gather the relevant data, and sent it in an email to his boss. “Okay, it's on it's way.”
+
+Max's cell phone beeped at him, and he braced the land line with his chin and shoulder as he picked up the cell phone to scroll through the data.
+
+“A human starter city, a Giant starter city, and a High Elf starter city.” Max said into the phone as he browsed the data. “Oh, damn.” He said as he saw what had happened. “I know why the server almost overloaded.”
+
+“It wasn't because three race spawning cities just appeared?” The night programmer asked.
+
+“The High Elf city has a tower in the center.” Max said.
+
+“All of them have towers.”
+
+“Not a mile high, they don't.” Max said.
+
+The night programmer didn't know what to say to that, until he thought about how big the tower had to be to stay standing at a mile in height.
+
+“Geez, it's base must be a mile wide, too!”
+
+“No, it's only half a mile.” Max said. “The city around it? That's 5 miles wide.”
+
+“Five... five MILES?”
+
+Max laughed. “Yeah, and I just checked the other two 'starter' cities. Unlike the circular High Elf city, they are square and 5 miles wide, too.”
+
+The night programmer sat back in his chair and shook his head. “What do we do?”
+
+“Well, they've been registered with the system and are fully integrated into the code.” Max said. “There's nothing we can do with them.”
+
+“Can't we just delete them?” The night programmer asked. “I mean, this shouldn't happen, right? Even if it's done part of our work for us by making the Giant and High Elf starter cities, shouldn't we ask why those cities, spread out over half of the game world, just popped up for no reason?”
+
+“Well, since those two cities aren't in their home nations, I doubt it's for 'no reason'.” Max said. “Give me the location of the human one.”
+
+The night programmer checked the terminal and found the location. “It's Walin county, and-” He stopped talking when he read who owned it.
+
+“What is it?” Max said.
+
+“I shouldn't say, sir.” The night programmer said.
+
+“Goddammit.” Max said and sighed. “Ren owns that county, doesn't he?”
+
+“Yes, sir.”
+
+“I'll be right there.” Max said and hung up his home phone, and ended the data transfer on the cell phone. It's going to be a long night. He thought as he got out of bed and started to get dressed. He started to think about the awesome dream he was having before being woken up, and nothing came to mind.
+
+Dammit! I hate it when I can't remember the good ones. Max thought and picked up his keys to drive into work 6 hours earlier than he was supposed to.
