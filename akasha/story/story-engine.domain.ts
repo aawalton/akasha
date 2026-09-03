@@ -7,8 +7,12 @@ export const storyEngine = {
   definition: "worlds and their stories, kept true to each other",
   partSlugs: [
     "page-type/story-chapter-played",
+    "page-type/story-chapter-read",
+    "page-type/story-chapter-written",
     "page-type/story-played",
+    "page-type/story-read",
     "page-type/story-turn-played",
+    "page-type/story-written",
     "page-type/world",
     "page-type/story-design",
     "page-type/story-design-note",
