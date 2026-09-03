@@ -4,6 +4,8 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { codeRoot } from "@akasha/pages-system/code-root"
+import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import type { DeployableInfo } from "@akasha/temper-addons-resolve/deployable-addons"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { computeInputsHashAcrossRepos } from "@akasha/workflow-language/inputs-hash"
 import {
@@ -13,11 +15,6 @@ import {
   deployableSeeds,
   missingSeeds,
 } from "../../../../../tools/lib/check-workflow/addon-build-cache.ts"
-import {
-  type AddonInfo,
-  type DeployableInfo,
-  listAllAddons,
-} from "../../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import type { Graph } from "../../../../../tools/lib/graph/types.ts"
 import {
@@ -175,7 +172,7 @@ async function main(): Promise<void> {
     fail(`graph build failed at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const addons = listAllAddons(repoRoot)
+  const addons = listAllAddons({ repoRoot })
   const deployables = listDeployables(addons)
   deployableRoster = deployables.map((d) => d.name)
   if (deployables.length < DEPLOYABLE_LEAST_COUNT) {

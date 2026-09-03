@@ -2,9 +2,9 @@
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import ts from "typescript"
-import { listAllAddons } from "../../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   examinePopulation,
@@ -94,7 +94,7 @@ interface ScanTarget {
 function collectScanTargets(repoRoot: string): readonly ScanTarget[] {
   const targets: ScanTarget[] = []
 
-  const addons = [...listAllAddons(repoRoot)].sort((a, b) =>
+  const addons = [...listAllAddons({ repoRoot })].sort((a, b) =>
     a.repoRelDir.localeCompare(b.repoRelDir)
   )
   if (addons.length === 0) {
