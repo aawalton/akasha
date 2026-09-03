@@ -13,8 +13,6 @@ export const inboxReadingsOnDay = {
     "inbox-tasks-cleared-today",
     "inbox-temper-tasks",
     "inbox-temper-tasks-cleared-today",
-    "inbox-texts",
-    "inbox-texts-cleared-today",
   ],
   limit: 1,
 } as const satisfies PageQuery
