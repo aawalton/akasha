@@ -74,6 +74,7 @@ export const temperCommands = {
     "command/temper-watcher-logs",
     "command/temper-watcher-status",
     "module/code-outside-akasha",
+    "module/inventory-rule-calling",
   ],
   invariants: [
     {
