@@ -83,6 +83,7 @@
     "./live-store-write-guard": "./live-store-write-guard/live-store-write-guard.module.code.ts",
     "./markdown-property": "./markdown-property/markdown-property.module.code.ts",
     "./markdown-property-stated": "./markdown-property-stated/markdown-property-stated.module.code.ts",
-    "./akasha-page-values": "./akasha-page-values/akasha-page-values.module.code.ts"
+    "./akasha-page-values": "./akasha-page-values/akasha-page-values.module.code.ts",
+    "./index-reading": "./indexes/index-reading/index-reading.module.code.ts"
   }
 }

@@ -181,7 +181,12 @@
     "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
     "./turn-records": "./seat-turn/turn-records/turn-records.module.code.ts",
     "./turn-working": "./seat-turn/turn-working/turn-working.module.code.ts",
-    "./seat-proc-key": "./seat-proc-key/seat-proc-key.module.code.ts"
+    "./seat-proc-key": "./seat-proc-key/seat-proc-key.module.code.ts",
+    "./seat-akasha-beside": "./seat-akasha-beside/seat-akasha-beside.module.code.ts",
+    "./seat-akasha-read": "./seat-akasha-read/seat-akasha-read.module.code.ts",
+    "./seat-page-values": "./seat-page-values/seat-page-values.module.code.ts",
+    "./seat-presence-read": "./seat-presence-read/seat-presence-read.module.code.ts",
+    "./seat-proxy-state": "./seat-proxy-state/seat-proxy-state.module.code.ts"
   },
   "dependencies": {
     "@akasha/supabase-auth": "workspace:*",

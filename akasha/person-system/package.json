@@ -15,7 +15,8 @@
     "./push-routing": "./push-routing/push-routing.module.code.ts",
     "./route-access": "./route-access/route-access.module.code.ts",
     "./sms-consent": "./sms-consent/sms-consent.module.code.ts",
-    "./sms-opt-in": "./sms-opt-in/sms-opt-in.module.code.tsx"
+    "./sms-opt-in": "./sms-opt-in/sms-opt-in.module.code.tsx",
+    "./person-reading": "./person-reading/person-reading.module.code.ts"
   },
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",

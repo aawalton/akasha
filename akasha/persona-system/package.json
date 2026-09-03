@@ -4,7 +4,8 @@
   "type": "module",
   "exports": {
     "./email-address": "./personas/properties/email-address.email-address-property.ts",
-    "./persona-targets": "./persona-targets/persona-targets.module.code.ts"
+    "./persona-targets": "./persona-targets/persona-targets.module.code.ts",
+    "./persona-reading": "./persona-reading/persona-reading.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-system": "workspace:*",
