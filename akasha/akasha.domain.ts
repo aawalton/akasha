@@ -73,12 +73,7 @@ export const akasha = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Some thirty-two thousand of this repository's hundred thousand files sit in akasha.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The rest have yet to move in.",
+      statement: "The files outside akasha have yet to move in.",
     },
     {
       invariantKind: "departure",
