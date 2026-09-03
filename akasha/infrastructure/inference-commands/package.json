@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/inference-commands",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/inference-clients": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*"
+  }
+}

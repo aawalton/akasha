@@ -930,6 +930,15 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/infrastructure/inference-commands": {
+      "name": "@akasha/inference-commands",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+        "@akasha/inference-clients": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@tools/lib": "workspace:*",
+      },
+    },
     "akasha/infrastructure/inference-pool": {
       "name": "@akasha/inference-pool",
       "dependencies": {
@@ -3149,6 +3158,8 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
 
     "@akasha/inference-clients": ["@akasha/inference-clients@workspace:akasha/infrastructure/inference-clients"],
+
+    "@akasha/inference-commands": ["@akasha/inference-commands@workspace:akasha/infrastructure/inference-commands"],
 
     "@akasha/inference-pool": ["@akasha/inference-pool@workspace:akasha/infrastructure/inference-pool"],
 
