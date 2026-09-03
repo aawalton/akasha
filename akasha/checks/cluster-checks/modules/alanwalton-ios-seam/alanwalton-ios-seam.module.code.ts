@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 
 // Relative to the checkout `getRepoRoot` names, and written the way
-// `repoFilesAt` writes it: a caller matches these against that listing, and a
+// `discoverRepoFiles` writes it: a caller matches these against that listing, and a
 // path spelled to reach the same file by another route matches none of it.
 const AKASHA = "akasha/code-system/ios-apps"
 
