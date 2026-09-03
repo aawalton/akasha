@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const actionEpistemology = {
   id: "01a06594-c674-7005-a8ed-657f74660753",

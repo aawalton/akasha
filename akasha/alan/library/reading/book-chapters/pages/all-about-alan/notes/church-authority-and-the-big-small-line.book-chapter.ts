@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const churchAuthorityAndTheBigSmallLine = {
   id: "01a06594-c676-700a-8a7d-67301110c0e5",

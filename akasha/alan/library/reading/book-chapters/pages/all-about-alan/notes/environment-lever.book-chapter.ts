@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const environmentLever = {
   id: "01a06594-c679-7003-a078-d52c615e5c15",

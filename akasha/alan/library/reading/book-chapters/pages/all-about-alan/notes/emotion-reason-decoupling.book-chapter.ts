@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const emotionReasonDecoupling = {
   id: "01a06594-c677-7017-8ea3-f50fba26e2ab",

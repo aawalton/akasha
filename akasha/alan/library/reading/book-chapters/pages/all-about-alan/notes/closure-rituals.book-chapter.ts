@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const closureRituals = {
   id: "01a06594-c676-700c-8c03-66fd5227f4b1",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const stayLeaveLedger = {
   id: "01a06594-c676-7006-aeb8-32cd1f7ee82e",

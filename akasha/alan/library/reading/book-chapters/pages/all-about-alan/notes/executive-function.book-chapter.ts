@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const executiveFunction = {
   id: "01a06594-c679-7005-9cbb-a7698c53ebbb",

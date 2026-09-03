@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const arrowsInQuiver = {
   id: "01a06594-c674-7011-bbef-b6c2b348017a",

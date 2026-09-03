@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const emotionModel = {
   id: "01a06594-c677-7016-96e7-89d5f3bee072",

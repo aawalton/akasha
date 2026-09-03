@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const autismBurnout = {
   id: "01a06594-c675-7004-89a8-d7de239bf423",

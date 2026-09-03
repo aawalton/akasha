@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const alternationNotModeration = {
   id: "01a06594-c674-700b-81c7-077c6e5aca86",

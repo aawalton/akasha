@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const conversationAsExposure = {
   id: "01a06594-c677-7005-8124-767ef60ea2cf",

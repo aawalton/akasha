@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const autismMisconceptions = {
   id: "01a06594-c675-7007-af4b-78f71ea519f5",

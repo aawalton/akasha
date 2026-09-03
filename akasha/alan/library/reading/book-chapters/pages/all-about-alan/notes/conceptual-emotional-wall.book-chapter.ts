@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const conceptualEmotionalWall = {
   id: "01a06594-c676-7013-933b-8166c0856049",

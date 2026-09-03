@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const activityBudgeting = {
   id: "01a06594-c674-7006-9d0e-eef1d7b06c64",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const destimulation = {
   id: "01a06594-c677-700e-a61f-d688339fe28a",

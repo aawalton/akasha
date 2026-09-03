@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const chunkingRotation = {
   id: "01a06594-c676-7009-8692-c39748264f8a",

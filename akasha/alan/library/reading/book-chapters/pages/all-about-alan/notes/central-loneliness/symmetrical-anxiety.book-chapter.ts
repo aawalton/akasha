@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const symmetricalAnxiety = {
   id: "01a06594-c676-7007-a73c-642f250bbdd4",

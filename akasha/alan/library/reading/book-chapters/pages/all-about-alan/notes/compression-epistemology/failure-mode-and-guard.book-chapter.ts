@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const failureModeAndGuard = {
   id: "01a06594-c676-700e-8376-e523af9c5507",

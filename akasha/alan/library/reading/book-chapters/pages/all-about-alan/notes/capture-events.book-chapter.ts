@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const captureEvents = {
   id: "01a06594-c675-7017-9548-1bb0feb01ce6",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const contractions = {
   id: "01a06594-c675-7019-846e-8ec9fda60f9d",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const connectionEfficacyModel = {
   id: "01a06594-c677-7002-9077-3aa8340269c0",

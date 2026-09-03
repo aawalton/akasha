@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const conceptualCognition = {
   id: "01a06594-c676-7012-8f1d-87e941f558a4",

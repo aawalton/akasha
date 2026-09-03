@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const agentHarness = {
   id: "01a06594-c674-7008-839c-893beadb8b48",

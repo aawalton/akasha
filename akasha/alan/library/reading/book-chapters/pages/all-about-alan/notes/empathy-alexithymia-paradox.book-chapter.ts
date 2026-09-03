@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const empathyAlexithymiaParadox = {
   id: "01a06594-c678-7001-a228-648a3d457a9b",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const autismDiagnosticArc = {
   id: "01a06594-c675-7006-ae68-273efaa44170",

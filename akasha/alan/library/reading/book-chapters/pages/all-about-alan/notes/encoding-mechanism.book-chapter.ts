@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const encodingMechanism = {
   id: "01a06594-c679-7000-9e70-9037a1e4b979",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const doneManifesto = {
   id: "01a06594-c677-7012-9799-c272cd22068e",

@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const adhdAsNeurotype = {
   id: "01a06594-c674-7007-b64f-8ce57de16121",

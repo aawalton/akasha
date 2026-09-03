@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const autismComorbidities = {
   id: "01a06594-c675-7005-8973-13173525b71d",
