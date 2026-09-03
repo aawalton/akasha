@@ -13,7 +13,7 @@ export interface PayloadMirror {
 }
 
 const READOUTS = "../akasha/readouts"
-const ROUTES = "alanwalton/web/app/routes"
+const ROUTES = "akasha/alan/web/routes"
 
 const RESPONSE_BODY = "return Response.json("
 
