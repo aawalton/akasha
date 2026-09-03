@@ -23,5 +23,13 @@ export const helpNotes = {
       invariantKind: "departure",
       statement: "What one thing a command takes is for stands beside that thing rather than here.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A line carries no example.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A line holds nothing generated.",
+    },
   ],
 } as const satisfies TextProperty
