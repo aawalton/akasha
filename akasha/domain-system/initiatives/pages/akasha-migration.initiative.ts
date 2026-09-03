@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "472 outside akasha against 137,414 inside, from 69,894 and 32,904 at dispatch: tools/lib flat 192, page-property-definition 71, model-gateway 31, tools loose 26, tracking 25, daily-tracking 20. MEASURED: the gateway closure is resolved at runtime from main.ts following relative specifiers only, and it read 148 at 12:15, 23 at 13:05, 125 now, so a liveness census expires and must be re-measured immediately before landing a removal. Two workstation services throw every ten seconds.",
+        "359 outside akasha, from 69,894 at dispatch: tools/lib flat 154, model-gateway 31, tracking 25, daily-tracking 20, tools loose 20, page-property-definition 13, ops 12. The gateway closure is 113 files, 55 under tools, 6 readers. MEASURED: a mechanical whole-file write silently reverts a concurrent landing and answers code 0, costing an 80-second supervisor outage; excise asserted strings inside one process instead. A large answer read through a pipe was truncated at 64 KiB until 3d079ff99d.",
     },
     {
       statement: "Alan's own records are akasha pages.",
