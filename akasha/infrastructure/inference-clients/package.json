@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/inference-clients",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./ace-step-client": "./ace-step-client/ace-step-client.module.code.ts",
+    "./comfy-client": "./comfy-client/comfy-client.module.code.ts",
+    "./gemini-image-client": "./gemini-image-client/gemini-image-client.module.code.ts",
+    "./inference-output-path": "./inference-output-path/inference-output-path.module.code.ts",
+    "./inference-seed": "./inference-seed/inference-seed.module.code.ts",
+    "./mlx-image-client": "./mlx-image-client/mlx-image-client.module.code.ts",
+    "./mlx-vlm-client": "./mlx-vlm-client/mlx-vlm-client.module.code.ts",
+    "./segment-client": "./segment-client/segment-client.module.code.ts",
+    "./voice-clone-client": "./voice-clone-client/voice-clone-client.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/comfy": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
