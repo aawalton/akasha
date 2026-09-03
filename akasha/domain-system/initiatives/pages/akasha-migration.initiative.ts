@@ -13,11 +13,6 @@ export const akashaMigration = {
         "Now 10,183 outside akasha against 124,920 inside, from 69,894 and 32,904 at dispatch. MEASURED, correcting what this said before: audit runs its 41 checks SERIALLY in one process, peaks at 17.2 GB over 911s, and ACCEPTS redirected output. The licence is lifted; the rule is one full audit at a time. Only `akasha read` refuses a pipe, so `script -qec` is owed to nothing else, and an exit 144 is an OOM kill rather than a refusal. Refusal counts cannot be compared across runs on a live tree.",
     },
     {
-      statement: "The story chapters are akasha pages.",
-      workingMemory:
-        "SPLIT: royal road (18,091) belongs to the lane that landed the world mechanics; played, read, written and wandering-inn stay with the story lane. Every royal-road slug opens `0001-`, and 18,923 of the repo's 19,697 unexportable slugs are story chapters; prefix the story slug. `landingAsked` now enforces that before `bypassIn`, so a mechanical landing is refused rather than landing broken. A property's FIRST file carries no part section: parts run part2, part3, contiguous, and a gap is refused.",
-    },
-    {
       statement: "Alan's own records are akasha pages.",
       workingMemory:
         "Roughly 9,300 files: persona-day 2,079 against the live persona system, the library family near 2,600, location 1,210, exercise 884, relationship 697, food-entry 333, the car hierarchy 644, monarch and money near 700. Accuracy matters more than speed here and some of it is live data the running system reads.",
@@ -25,7 +20,7 @@ export const akashaMigration = {
     {
       statement: "The code outside akasha is akasha modules.",
       workingMemory:
-        "tools 1,649, dirty 1,506, infra 716, lua-compiler 288, editor-extension 84. Target shape is module page plus code beside plus test. AN AKASHA FILE MAY IMPORT NOTHING OUTSIDE `akasha/`, a design gate refused even where the path resolves, so code moves leaves-first and a runner cannot precede what it imports; closures measured 0 to 194 files, nearly all `tools/lib/`. `akasha move` will not carry a file in from outside: use `akasha write` plus `akasha remove`, and nothing repoints readers.",
+        "tools 1,649, dirty 1,506, infra 716, lua-compiler 288, editor-extension 84. Shape: module page, code beside, test. MEASURED, correcting this: an import out of akasha is refused ONLY where a manifest names that specifier; `exports` of `./*` files literally as `@pkg/*`, matching nothing, so `@tools/lib` rides a blind spot 22 files lean on while an enumerated manifest is refused. Move leaves-first. `akasha move` carries no file in: `akasha write` plus `akasha remove`, nothing repoints readers.",
     },
     {
       statement: "Nothing outside akasha duplicates what is already inside it.",
