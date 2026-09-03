@@ -38,6 +38,7 @@ export const alanHarness = {
     "workspace-package/browser-launch-env",
     "workspace-package/web-static-assets",
     "workspace-package/web-security-headers",
+    "workspace-package/web-page-answers",
     "workspace-package/workspace-paths",
     "workspace-package/web-build-version",
     "workspace-package/recurrence",
