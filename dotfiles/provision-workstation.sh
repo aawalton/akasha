@@ -67,7 +67,7 @@ fi
 
 echo "==> Installing ast-grep..."
 ASTGREP_LIB="$HOME/.local/lib/ast-grep"
-astgrep_url="$(cd "$AKASHA" && bun -e 'import { CI_TOOLCHAIN_URLS } from "@infra/ci-workflows/toolchain-manifest"; console.log(CI_TOOLCHAIN_URLS.astGrepZip)')"
+astgrep_url="$(cd "$AKASHA" && bun -e 'import { CI_TOOLCHAIN_URLS } from "@akasha/ci-benchmark/toolchain-manifest"; console.log(CI_TOOLCHAIN_URLS.astGrepZip)')"
 astgrep_want="$(printf '%s\n' "$astgrep_url" | sed -n 's|.*/download/\([^/]*\)/.*|\1|p')"
 astgrep_have=""
 if [ -x "$ASTGREP_LIB/ast-grep" ]; then

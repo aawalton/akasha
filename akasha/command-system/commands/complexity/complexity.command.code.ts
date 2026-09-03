@@ -9,7 +9,7 @@ import {
   type MaintainabilityRow,
   percentile,
   resolveAnalysisInputs,
-} from "@infra/analysis-complexity-cli/lib/run-metrics"
+} from "@akasha/analysis-complexity/complexity-rows"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 

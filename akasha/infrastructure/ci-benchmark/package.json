@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./benchmark-provision": "./benchmark-provision/benchmark-provision.module.code.ts"
+    "./benchmark-provision": "./benchmark-provision/benchmark-provision.module.code.ts",
+    "./toolchain-manifest": "./toolchain-manifest/toolchain-manifest.module.code.ts"
   }
 }

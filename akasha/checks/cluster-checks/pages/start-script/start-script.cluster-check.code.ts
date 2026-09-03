@@ -2,8 +2,8 @@
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { isSynthPath } from "@akasha/k8s-synth/synth-discovery"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { isSynthPath } from "@infra/k8s-synth/manifests"
 import { z } from "zod"
 import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
 import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"

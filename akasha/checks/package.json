@@ -8,6 +8,7 @@
     "./judging": "./modules/judging/judging.module.code.ts"
   },
   "dependencies": {
+    "@akasha/k8s-synth": "workspace:*",
     "typescript": "5.9.3"
   }
 }
