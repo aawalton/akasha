@@ -1,4 +1,3 @@
-
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import type { Command, CommandModule } from "./surface.ts"
@@ -35,6 +34,26 @@ export function filesUnder(dir: string, ext: string = EXT): readonly string[] {
   return found
 }
 
+/**
+ * The commands `ops` reads off the `tools/commands` tree, one per file.
+ *
+ * This is a second folder scan, and not the one taken away on 2026-09-03. That one read the loose
+ * `tools/*.ts` files through `tools/lib/tool-declaration.ts` for the forwarded commands, and the
+ * `ops-command` pages replaced it. This scan was left alone, so a file put under `tools/commands`
+ * becomes a command with no list anywhere naming it.
+ *
+ * Two things follow, and each has misled a reader.
+ *
+ * `load` is `import(path)` over a variable, so no import graph reaches any of these files and each
+ * counts zero inbound while it runs. A reverse-import census over this tree answers zero for every
+ * file, whether the file is live or dead.
+ *
+ * `set.ts` folds these in ahead of the forwarders and keeps the first of any two entries sharing
+ * command words. So where a page names one of these files, the code comes from here and the page
+ * gives only the help; taking such a file away hands its words to the page forwarder, which then
+ * refuses by naming the file. Taking away a file no page names drops the command instead, with
+ * nothing to say so.
+ */
 export function declaredCommands(repoRoot: string = akashaRoot()): readonly Command[] {
   const root = `${repoRoot}/${COMMANDS_DIR}`
   const commands: Command[] = []
