@@ -12,6 +12,7 @@ export const graphSystem = {
     "page-type/graph-attribute",
     "module/file-kind-authorship",
     "module/graph-asking",
+    "module/graph-closure",
   ],
   invariants: [
     {

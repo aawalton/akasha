@@ -19,6 +19,8 @@ export const domainSystem = {
     "workspace-package/plain-language",
     "domain/purpose",
     "command/domain",
+    "module/domain-documents",
+    "module/domain-reading",
   ],
   invariants: [
     {

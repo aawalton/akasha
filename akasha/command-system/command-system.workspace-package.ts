@@ -12,6 +12,7 @@ export const commandSystem = {
     "list/ops-namespaces-to-review",
     "module/calling",
     "module/command-declaring",
+    "module/gated-write",
     "module/landing",
     "module/cli",
     "module/asking",

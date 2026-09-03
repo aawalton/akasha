@@ -22,6 +22,7 @@ export const personSystem = {
     "module/device-token-registration",
     "module/health-samples-body",
     "module/person-enrolment",
+    "module/person-reading",
     "module/push-apps",
     "module/push-permission",
     "module/push-register-body",
