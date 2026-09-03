@@ -1,17 +1,17 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
-import type { Notes } from "./properties/notes.text-property.ts"
 import type { ScheduleDaySlug } from "./properties/schedule-day-slug.relation-property.ts"
 import type { WorkoutSessionCompletedAt } from "./properties/workout-session-completed-at.instant-property.ts"
 import type { WorkoutSessionDate } from "./properties/workout-session-date.calendar-date-property.ts"
+import type { WorkoutSessionNotes } from "./properties/workout-session-notes.text-property.ts"
 import type { WorkoutSessionStartedAt } from "./properties/workout-session-started-at.instant-property.ts"
 
 export type WorkoutSession = Page & {
   title: Title
   workoutSessionCompletedAt: WorkoutSessionCompletedAt
   workoutSessionDate: WorkoutSessionDate
-  notes?: Notes
+  notes?: WorkoutSessionNotes
   scheduleDaySlug: ScheduleDaySlug
   workoutSessionStartedAt: WorkoutSessionStartedAt
 }
@@ -28,13 +28,13 @@ export const workoutSession = {
     "instant-property/workout-session-completed-at",
     "instant-property/workout-session-started-at",
     "relation-property/schedule-day-slug",
-    "text-property/notes",
+    "text-property/workout-session-notes",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "workout-session-completed-at", required: true, many: false },
     { pagePropertySlug: "workout-session-date", required: true, many: false },
-    { pagePropertySlug: "notes", required: false, many: false },
+    { pagePropertySlug: "workout-session-notes", required: false, many: false },
     { pagePropertySlug: "schedule-day-slug", required: true, many: false },
     { pagePropertySlug: "workout-session-started-at", required: true, many: false },
   ],
