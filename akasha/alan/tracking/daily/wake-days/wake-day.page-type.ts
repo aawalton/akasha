@@ -18,6 +18,7 @@ import type { InboxTemperTasks } from "./properties/inbox-temper-tasks.number-pr
 import type { InboxTemperTasksClearedToday } from "./properties/inbox-temper-tasks-cleared-today.boolean-property.ts"
 import type { InboxTexts } from "./properties/inbox-texts.number-property.ts"
 import type { InboxTextsClearedToday } from "./properties/inbox-texts-cleared-today.boolean-property.ts"
+import type { IntelligenceWords } from "./properties/intelligence-words.number-property.ts"
 import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.ts"
 import type { LearnPoints } from "./properties/learn-points.number-property.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
@@ -33,6 +34,7 @@ import type { StrengthVolume } from "./properties/strength-volume.number-propert
 import type { TaskPoints } from "./properties/task-points.number-property.ts"
 import type { Version } from "./properties/version.text-property.ts"
 import type { WealthPoints } from "./properties/wealth-points.number-property.ts"
+import type { WisdomWords } from "./properties/wisdom-words.number-property.ts"
 import type { WordsReadPoints } from "./properties/words-read-points.number-property.ts"
 import type { WordsReadSnapshot } from "./properties/words-read-snapshot.number-property.ts"
 
@@ -58,6 +60,8 @@ export type WakeDay = Page & {
   nutritionPoints?: NutritionPoints
   breathingPoints?: BreathingPoints
   activeCalories?: ActiveCalories
+  wisdomWords?: WisdomWords
+  intelligenceWords?: IntelligenceWords
   spannedFromDayBoundary?: SpannedFromDayBoundary
   completionSnapshot?: CompletionSnapshot
   wordsReadPoints?: WordsReadPoints
@@ -103,6 +107,7 @@ export const wakeDay = {
     "number-property/inbox-tasks",
     "number-property/inbox-temper-tasks",
     "number-property/inbox-texts",
+    "number-property/intelligence-words",
     "number-property/learn-points",
     "number-property/love-points",
     "number-property/nutrition-points",
@@ -112,6 +117,7 @@ export const wakeDay = {
     "number-property/strength-volume",
     "number-property/task-points",
     "number-property/wealth-points",
+    "number-property/wisdom-words",
     "number-property/words-read-points",
     "number-property/words-read-snapshot",
     "page-property-entry/completed-tasks",
@@ -152,6 +158,8 @@ export const wakeDay = {
     { pagePropertySlug: "nutrition-points", required: false, many: false },
     { pagePropertySlug: "breathing-points", required: false, many: false },
     { pagePropertySlug: "active-calories", required: false, many: false },
+    { pagePropertySlug: "wisdom-words", required: false, many: false },
+    { pagePropertySlug: "intelligence-words", required: false, many: false },
     { pagePropertySlug: "spanned-from-day-boundary", required: false, many: false },
     { pagePropertySlug: "completion-snapshot", required: false, many: false },
     { pagePropertySlug: "words-read-points", required: false, many: false },
@@ -195,18 +203,23 @@ export const wakeDay = {
 
     {
       invariantKind: "departure",
-      statement:
-        "The wake day sits inside the ESO day, and only says where inside it the boundary falls.",
+      statement: "The wake day sits inside the ESO day.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A boundary is worked out from the sleep sessions when it is read, and stored nowhere.",
+      statement: "The wake day says where inside the ESO day its boundary falls.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The wake day is derived in one place, and a second derivation is a second answer.",
+      statement: "A boundary is worked out from the sleep sessions when the boundary is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A boundary is stored nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The wake day is derived in one place.",
     },
     {
       invariantKind: "departure",
