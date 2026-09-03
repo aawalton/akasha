@@ -138,3 +138,40 @@ His tone was bitter, but Damien listened anyway. They were likely the last words
 
 "I'm sorry," Damien said.
 
+Karadd turned to look at him. "You truly are," he murmured, sounding surprised. "How strange it is, to have an enemy sympathize with my plight. I would still kill you, you know, if I only had the strength."
+
+Damien was less certain of that claim, but he didn't argue. "You don't," he said instead.
+
+"I do not," Karadd admitted. He closed his eyes. "...My brethren are on their way. You should prepare yourselves. Should you face the true might of a dragonlord, you may not prevail, no matter how strange your magic."
+
+"Worried about us, are you?" Damien offered Karadd a rueful smile. "For what it's worth, I hope you find peace."
+
+"There are worse deaths to be had," Karadd muttered in reply, his words now so soft Damien almost couldn't hear them.
+
+A moment passed before Damien pushed himself back to his feet, sighing. "We should make sure Hikari's message gets to her apprentices," he told Phlogis, his heart feeling oddly heavy. "I'll check the spell over for any traps that might have been left there, but I don't think there are any. If we bring her close enough to the door, it should—"
+
+In retrospect, Damien should have known better than to let his guard down. Karadd was down and out for the count, but they still stood as the University's last line of defense, and so it was no surprise that another dragonlord might find them. Karadd had even warned them of exactly that.
+
+Then again, it might not have made much of a difference. Just as Karadd had been able to hide the true extent of his injuries, this new dragonlord was entirely invisible to Damien's mana sense until the moment he chose to speak.
+
+"What a pathetic display, brother," the dragonlord said. He picked Karadd up by the throat, ignoring the way his brother struggled weakly against him. Damien knew immediately that Karadd was too close to the edge of death to do anything here. "You let yourself grow attached, have you? I suppose I will have to teach you a lesson before you die. Open your eyes, now. I can't have you missing this."
+
+Karadd did not have the strength to comply, not that his brother seemed to care. A tendril of magic propped Karadd's eyes open. In his other hand, his brother raised an open palm, aiming it directly at both Damien and Phlogis.
+
+There was a gathering of terrible magic. Somehow the new dragonlord focused the power of the Dragonstorm into a single spell, and from the feel of it alone, Damien was certain its destructive power would be enough to pierce him, Phlogis, the door behind them, and then every one of the students within. His mind raced for options.
+
+But before he could do anything, Karadd took a deep breath, gathered the last of his energy, and swung himself into the path of his brother's spell.
+
+It would not and should not have done anything. Karadd was too weak to do any more than the rest of them, when it came to blocking a spell like this. It would merely pass through him along with the rest.
+
+That was, of course, not accounting for the familiar prismatic barrier that flashed into existence around Karadd. Something about it dragged and caught against the spell his brother was in the process of casting, and then something in that spell broke.
+
+Damien had the chance to sense little else before Karadd's brother dissolved into what was, as best as he could tell, a small pile of steaming buns.
+
+[Barrier-King's Blessing, Level MAX] [Twelfth Tier, Active (Unique)] [1.0e38 Mana]
+
+Grant all allies a personal barrier identical to the one used by the Barrier-King. Mana cost is multiplied by the number of allies granted this barrier.
+
+A powerful defensive construct in its own right, the Barrier-King's personal barrier features a layer of pure, compressed intent sandwiched within its final, innermost shell. This acts as a counter to spells that may break or bypass the outer shells, overtaking most spells with insufficient intent or cast by a sufficiently distracted mage.
+
+Note that raw intent used in this manner will, on rare occasion, behave unpredictably.

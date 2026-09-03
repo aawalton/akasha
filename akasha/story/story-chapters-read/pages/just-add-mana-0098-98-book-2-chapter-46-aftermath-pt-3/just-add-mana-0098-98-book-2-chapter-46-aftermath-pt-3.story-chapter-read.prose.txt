@@ -116,3 +116,116 @@ Relatively speaking, anyway.
 
 Damien blinked. "Yes, but, um... like you said, I'm a dreadshade?" he pointed at himself quizzically. Normally, he wouldn't even have dreamed of contradicting his professor, but he had two entire spells that made use of this interaction. Graystalk had acknowledged him for it. "I was able to replicate [Burn], and I can decay space."
 
+"I am sure you have a spell that uses the exothermic properties of decay to ignite materials, and another one that allows you to move quickly," Professor Lith said, folding his arms over his chest. "But I do not understand why Professor Graystalk has allowed you to continue operating under this delusion that you have fundamentally broken the balance of mana aspects. There is simply no way your spells use the decay aspect in the way you are implying.
+
+"If that were possible," he continued, "then we would be unable to trap any monsters that make use of the decay aspect. They would, in all likelihood, simply overwhelm us. Yet we have not only managed to trap them, but study them. Not a single one uses decay mana in the way you are describing."
+
+Professor Lith was the professor of their Decay Resonance class. Damien didn't really need the class, being a dreadshade—he was, by default, already resonant with his element. Akkau had taken him aside and asked for his assistance in the class, however, and so Damien was playing a role similar to the one Cale had previously.
+
+He was here as a teacher's assistant, in other words. Damien was starting to think that Akkau had more reasons to assign him to this class than just that, though, because Professor Lith's understanding of decay was horrifyingly lacking, and his rank with decay resonance, while more than most others, was...
+
+Well, it was rank three? It was the equivalent of a single shrine visit. Still impressive, since most people that visited that shrine apparently died, but Damien really didn't think that meant Professor Lith knew enough to argue with him about how his own magic worked.
+
+That didn't stop the professor, though. He was already retrieving some sort of elaborate box from underneath his desk, and he set it down in front of his students with a thud. "An example, since you clearly need teaching," he said. "Within this box is a shadowhaunt. Since you're an expert on decay magic, perhaps you could tell the class what this is?"
+
+Damien frowned slightly at the box. Two days ago, the idea of this demonstration might have made the class laugh, since the professor was mocking him.
+
+But two days could be a lot of time in a magic academy, and word of Cale's apprentices had spread. Between the four of them, they'd attended enough classes that almost everyone knew what tended to happen when they were tested. Apparently, Professor Lith either hadn't gotten the memo or didn't believe it.
+
+Damien wasn't sure why things were working out that way, admittedly. Maybe Akkau had something to do with it? Either way, he'd have to prepare, because he doubted this was going to go anything like what Professor Lith was expecting. He readied himself, then took a deep breath.
+
+"A shadowhaunt is a shade of decay magic," he said as impassively as he could—this was, in a way, a dig at him and his own nature. "They're a form of magical parasite, latching on to a host's shadow and feeding off of the natural decay the host is experiencing."
+
+"Very good," Professor Lith said. To his credit, there wasn't a trace of mockery in his tone, but the condescension was almost as bad. "Shadowhaunts are known for their use of decay magic, are they not? They may feed on it, but as they grow, their ability to manipulate decay mana does as well."
+
+He tapped the box. "The one trapped within this is ancient. If your hypothesis were true, then it should have escaped within... two weeks of its capture, I would say. I captured this specimen three weeks ago, and yet it remains trapped. What do you say to that?"
+
+Professor Lith's smile was smug. Damien hesitated. He didn't see any way this was going to go well... but it wasn't like he could avoid pointing it out now that the professor had put him on the spot.
+
+"Um," he said. "Well, shadowhaunts are naturally difficult to spot, right? They use a form of obfuscation magic, which is really a form of decay magic applied to perception and memory, and they really don't like attention being called to them."
+
+"Oh, relax." Professor Lith rolled his eyes. "This is perfectly safe. It has been trapped in a box for three weeks, Damien, it will not escape just because we're talking about it."
+
+Damien paused. "Well, no," he said. "It won't."
+
+"So you admit that I am correct?"
+
+"No," Damien said. "I mean, um... most decay-using creatures probably wouldn't be capable of advanced decay magic? But shadowhaunts absolutely would be. Especially ancient ones."
+
+"And yet it remains trapped," Professor Lith said. "I am waiting for your explanation, dreadshade."
+
+Damien wasn't sure he liked the way Professor Lith had said that. He cast a nervous glance at the class, half of whom had already caught on to what he was implying and had started preparing their own barriers; the other half seemed confused, but broadly aware that something was wrong.
+
+That was good enough. He was pretty sure he could repel any attack from the shadowhaunt, but he didn't want to risk it if the rest of the class was caught completely unawares. One of the other students even tried to speak up in his defense—some Beast Wing lizardfolk, if he remembered correctly? Going by the name of Sezeya?
+
+"Professor," she cautioned. "It may be best to listen to him and head to the medical wing—"
+
+"Goodness, what are you talking about now?" Professor Lith sighed. "I must say, I was hoping for better from you, Damien. When Akkau recommended you, I was expecting great things."
+
+Damien sighed and told himself this was probably not the professor's fault before he spoke again.
+
+"The box is empty, professor," he said. "That's what I'm trying to tell you. It's not going to escape, it already did."
+
+"What?" Professor Lith frowned at him. "Don't be ridiculous. Of course it hasn't. The alarm ward would have tripped."
+
+"There is a large hole in the box?" Damien said, turning it so the rest of the class could see. "It likely decayed the alarm ward before eating through the rest of the enchantments, then latched on to your shadow and—"
+
+"Enough with this," Professor Lith snapped irritably, but he was noticeably pale now, his cheeks more sunken in than they had been at the start of the class. More importantly, there was now a cloak draped across his shoulders that seemed to be made of shadow and rotting flesh, which was how a shadowhaunt tended to manifest in advanced stages of infestation.
+
+Like, say, the kind that showed up after about a week. At least it explained the professor acting the way he did. Damien wondered briefly if Akkau had known about this.
+
+Now for the reason he'd been hesitant to bring this up at all: the shadowhaunt making itself visible meant it knew that it had been discovered, and that, in turn, meant it was about to attack. At this stage of the infestation, it could exert a limited amount of control over its host. Professor Lith snapped his fingers, decay magic surging out of him in a spell meant to obliterate everyone who knew of its presence.
+
+Damien didn't move from his seat. He cast [Decay Dominion] instead, and the surge of magic froze in place.
+
+"I feel like I should feel some sort of kinship with you?" Damien said after a moment. "But, um, you're kind of trying to kill my classmates. And you shouldn't do that."
+
+He was, of course, talking to the shadowhaunt. Professor Lith had been right—this thing was ancient. And if it was ancient, that probably meant it had acquired some degree of sapience? That was common for monsters. Damien felt like he owed it some chance to talk and figure things out.
+
+Professor Lith scowled, but the voice that emerged from his throat wasn't his own. "Discovery is death," a sibilant voice hissed. "I will not allow myself to trust a mage. Especially not one who has turned against his own kind, kin-killer."
+
+Damien flinched, but before he could respond, he felt a very familiar mana signature at his side.
+
+"You know," Cale said. "I was trying to figure out what this was all about. Kinda weird to try to explain decay mana to a guy that's basically a decay elemental, you know? I guess some sort of shadow possession explains it, but now the shadow is insulting my friend, so I have a whole other reason to be mad."
+
+Damien whirled around. "Cale!" he exclaimed, then rushed forward to hug his mentor. Cale laughed and hugged him back.
+
+"Don't let go of your spell," he reminded Damien, and Damien blinked and flushed before reinforcing [Decay Dominion]. Whoops. That might've been bad. "Now, if you hold that in place, I can take care of the shadowhaunt."
+
+"N-no!" Damien protested, and Cale tilted his head, looking curiously down at him. "I... it doesn't need taking care of. I just want to talk to it."
+
+"I have nothing to say to a kin-killer," the shadowhaunt said darkly. Cale raised an eyebrow in its direction, then turned to Damien and waited.
+
+"I'm not sure why it's saying that," Damien said, shaking his head. "I haven't... you know. Not any other dreadshades or decay elementals that I know of. But I don't want to just kill it. There has to be a way for it to... not have to do that, you know?"
+
+Cale blinked. "I'm not sure I do?" he said. "But I'm listening."
+
+"You lie," the shadowhaunt said. "We are hunted. You reveal us. All that reveal us are hunters, and if you are kin, you are a kin-killer."
+
+"Lots to unpack there," Cale said after a moment.
+
+Damien sighed. "Yeah, there's... some stuff going on," he said awkwardly, shuffling his feet. Then he hugged Cale again, just because he felt like it. "But, um, we have it under control. Mostly. We'll need to talk to it, though, and maybe see if we can find a way to help. Sorry, Professor Lith, this is just going to take a second."
+
+He fumbled about in his pack, then removed a box made of blood obsidian. When he opened it, a voidcyte popped its head out, looking around curiously.
+
+"This is Erys," Damien introduced. "It's the other voidcyte that came over. We found... well, it's a long story. But, um, it should be able to help us here."
+
+Cale quirked a brow, but said nothing as the voidcyte greeted him enthusiastically, then surged off into Professor Lith. Moments later, it emerged, dragging a writhing, shadowy shape along with it. Professor Lith stumbled as the shadowhaunt left his body, looking suddenly exhausted, and Cale caught him before he could collapse entirely.
+
+"I get the feeling we need to catch up on a lot of things," Cale said.
+
+"We do," Damien said, then gave him a small smile. "But I'm really glad you're back. Just, um... don't go killing any monsters you find, okay?"
+
+Something passed through Cale's eyes, then. Damien wasn't sure what it was. It wasn't the same darkness he was used to, though. This one just seemed... sad.
+
+"I can't make any promises," he said. "But I'll try. Honestly, I could probably use your perspective. Should we meet with the others?"
+
+Damien nodded rapidly. "I've already called them."
+
+Cale raised a brow. "...I didn't see you do anything. Learned a few new tricks?"
+
+"Nope," Damien said. "It's just, um, I've always wanted to say that to the kind of person that always notices everything. I haven't actually sent anything yet."
+
+Cale burst out laughing, and Damien impulsively hugged him a third time.
+
+It was good to have him back.

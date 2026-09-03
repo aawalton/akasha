@@ -142,3 +142,116 @@ Kazza still seemed confused, but he took a step back regardless. Akkau patted hi
 
 Then Cale finally measured his mana and cast [Windstream].
 
+Despite the name, [Windstream] was—as implied in the spell description—technically an application of breath magic. The caster was meant to blow air towards their target, and that air would be amplified by a specialized node of breath mana in their throat. When compounded enough times, the lingering remnants of breath mana in the spell would coalesce into the greater spell effect [Gilded Hurricane].
+
+This, of course, did not happen when Cale cast the spell.
+
+He'd started off with a quick discussion with Akkau to decide exactly how much mana he needed to put into this spell. Too much, and it was likely he would accidentally create some wind-related spell of mass destruction instead of keeping the original spell's transportation capabilities. Too little, and he wouldn't gain enough speed for all this to be worth it.
+
+Cale had been a little worried about a lower-tier spell not being fast enough, but thankfully Akkau had said unique magic like [Windstream] was more stable when the Gift evolved it. They could afford to aim for a higher tier without derailing the spell, as long as it wasn't too high.
+
+They'd eventually decided that it was best Cale aim for an eighth tier spell just in case he overshot.
+
+Which he did. Immediately.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Windstream] has evolved into [Fortress of the Gilded Storm]!
+
+[Fortress of the Gilded Storm, Level 1] [Tenth Tier, Active (Unique, Lost)] [1.0e34 Mana]
+
+A lost magic that once belonged to the lizardfolk of the Golden Sands, emerging from their natural affinity with breath magic and their unique relationship with the heart of a dead Monolith. All traces of this spell and its existence have been lost to the sands of time, and the lizardfolk have suffered dearly without its protection.
+
+This spell creates a moving sandstorm that acts as both transportation and protection for those living within.
+
+This spell requires a large mass of sand in order to cast. That sand will be transmuted into a unique, mana-corrosive sand.
+
+This spell captures all structures within its initial radius.
+
+The Fortress of the Gilded Storm is ancient magic that blesses and protects those within. Its sands act like a living thing, capable of scouring away all would dare to harm their masters, creature and magic alike.
+
+Offensive spells of ninth tier and below that would otherwise strike the Fortress will be torn apart by the sands. Offensive magic cast from within the Fortress will remain unaffected.
+
+The first part of the spell description—or more specifically, the differences with the previous one—made Cale freeze. What did it mean, unique relationship? He'd known about Illwyld and Vital already, based on what Izzik had said about his healing potions, but those words implied... worship.
+
+It implied the lizardfolk in the Golden Sands had once known the exact nature of the land they lived on.
+
+It also implied they didn't anymore, which was the only reason he didn't stop things immediately to question Kazza. Cale took a deep breath, trying to settle the sudden pounding in his heart.
+
+He couldn't even if he wanted to, he told himself. Evolving a spell through the Gift caused it to cast immediately.
+
+Case in point, as the spell activated, the world rumbled and began to shake.
+
+Sand erupted all around them, causing Syphus to cry out in joy while everyone else flinched at the sheer violence of it. A blazing storm of wind and sand whipped into existence, practically blinding them. It probably could have skinned them alive, too, if not for the fact that the spell carefully wove the sand around everyone included in it.
+
+A flash of blazing mana rippled through the storm, causing all that sand to turn into swirling streams of gold. Syphus, at this point, was rolling around and trying to catch the streams as they ducked out of its reach. Cale tried not to snort too hard at its antics. He probably should have predicted this would happen.
+
+Beneath them, the ground rumbled, and a massive platform of the same golden sand began rising out of the dirt. The spell grew with every second that passed, drawing more sand into its radius, turning them into streaks of gold that whipped into the shape of walls and towers and parapets, creating a veritable castle out of golden sand.
+
+Furniture, too. Cale blinked as a throne rose out of the ground, followed by chairs and tables and beds, of all things. It was a little haphazardly placed, though he sensed he could adjust it if he wanted. "Feels a bit excessive," he muttered, eyeing it critically.
+
+His words were mostly just lost in the wind.
+
+Akkau and Professor Tarbloom didn't stay idle. They had a role to play in this, after all. While neither of them needed to come along, they knew their help might be needed to enhance and stabilize this evolved spell. [Fortress of the Gilded Storm] was technically complete on its own, but Tarbloom's efforts warded it against any monsters that might otherwise take an interest in their giant, flying castle.
+
+The headmaster, on the other hand, was focused mostly on reinforcing the transportation aspects of the spell. The spell construct fueling it was temporarily exposed in the heart of it all, and Cale could feel the old dragon pouring mana into different parts of it, making it faster and more responsive.
+
+Meanwhile, Kazza was mostly just staring open-mouthed. Cale was pretty sure that if the spell didn't automatically protect them, the poor lizardfolk's lungs would have been filled with sand at this point. "What..." he started, staring at Cale, then at the fortress, then at the sand whirling all around them. It took him another twenty seconds to figure out what he even wanted to say. "I do not understand. This is nothing like the spell you learned."
+
+"It isn't," Cale agreed, unhelpfully.
+
+Kazza barely registered it. He turned around a few times, mouth still agape, then slowly approached one of the walls to rest his claws against it. "This... resembles one of our legends," he murmured, a touch of wonder in his voice. "It is a legend we tell our children. A tale of the perfect home, one that keeps us safe from the dangers of the Golden Sands. We say it hides from us until we prove ourselves worthy."
+
+"I guess you've proven yourself worthy, then." Cale grinned.
+
+"It is a legend," Kazza repeated, shaking his head in disbelief. "It is not supposed to be real. We tell this tale to comfort ourselves, to pretend there was a time when our clan could traverse the sands of our home in safety. To pretend there could be again. There is a festival where we attempt to call our home back to us through dance and song, but no one has ever considered that it might truly exist."
+
+"Are the Golden Sands that dangerous?" Cale asked curiously.
+
+His new lizardfolk friend stopped tracing the walls with his claws and turned to regard Cale, confused. "You... do you know nothing of Illwyld?"
+
+"I haven't even been on Utelia for a week, to be honest."
+
+Kazza stared blankly at him. "You are the result of a summoning?" he asked, putting the pieces together. "Or are you claiming that you were created? Brought into existence by your master?"
+
+Cale almost choked, and somewhere behind him, so did Akkau. "Please don't call him my master," he muttered. "Just because I'm his apprentice doesn't mean I call him master. That's weird."
+
+Kazza's stare continued to be blank. "Why would it be weird?"
+
+"I'm not going to answer that." Cale decided to rapidly move on. Poor Kazza looked like he was currently re-evaluating his life, and it would probably be best if he was given some time to acclimate. "Let's go back to the danger thing. Or, well, you can tell me more about those dangers once we get moving, I guess. This spell can move pretty fast, but it won't get us there instantly. Maybe about..."
+
+"Half an hour," Akkau supplied.
+
+Cale brightened. "That."
+
+Kazza looked between them both, expecting one of them to laugh, and when he realized they were serious, his entire body sagged. "Half an hour," he repeated. "You truly believe you can move a structure this large so quickly?"
+
+"It better move that quickly, otherwise I'd have to insist on Plan B," Cale sniffed.
+
+Flia glared at him. "We are not doing Plan B.".
+
+"Plan B was fine!"
+
+"You said Plan B was to enclose us in a giant barrier and then just fling mana at the ground until we got there." Flia folded her arms across her chest.
+
+"Exactly!" Cale said. "It was fine! It would have gotten us there in like, an hour tops. Probably."
+
+Flia narrowed her eyes, then turned away deliberately. "Leo, go get that navigational spell set up. Akkau said he needed you for that part, right?"
+
+Leo nearly jumped out of his skin. He'd been staring out of one of the windows up until then, but shot straight to attention when Flia spoke. "Uh, yes!" he said. "Although I've never done a joint spell before. Are you sure you need me? I'm not going to be able to take any notes if I'm helping maintain this spell..."
+
+Akkau chuckled, walking over to him and placing a reassuring hand on his shoulder. "You will be fine," he said. "I only need a portion of your mana to assist, and then you may take over after I am done."
+
+"And you can't just attune to labyrinth mana yourself and let it run on autopilot?" Leo asked, wringing his hands together.
+
+"I can, with some difficulty," Akkau said. "But this is far simpler, and more importantly, a joint casting of this spell will allow the Gift to register the spell to you. It will allow you to return with the same spell, if teleportation does not suffice."
+
+Leo sighed, but nodded. "Just as long as Syphus helps me take those notes like it said it would," he muttered. "Syphus?"
+
+Syphus was still rolling enthusiastically around in the sand. It gave no indication that it had heard him, and had, in fact, dropped Leo's notebook into the sand. Nearby, Flia let out a long-suffering sigh and picked it up. "I've got it," she said. "You owe me, though. You didn't even waterproof your notebook."
+
+Cale beamed. "Extra points for teamwork, Flia!"
+
+"Wha—" Leo let out an anguished groan. "Again? What about my points?!"
