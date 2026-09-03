@@ -7,6 +7,7 @@ export const utilsNarrow = {
   definition: "how a wide value is read as the narrow one it must be, or refused",
   manifest: "json",
   partSlugs: [
+    "module/shape",
     "module/shape-core",
     "module/shape-object",
     "module/shape-scalar",
