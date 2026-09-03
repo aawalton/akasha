@@ -32,6 +32,10 @@ const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
 const OMIT = "Omit"
 
+const ROUTER_APP = ".router-app.ts"
+
+const ROUTES = "routes/"
+
 const DECLARED = ".d.ts"
 
 export type Found = {
@@ -68,8 +72,23 @@ export function reachedBy(change: Change, index: Answering): readonly string[] {
   return reachingInto(seeds, [IMPORT], index, compiled)
 }
 
+export function routingIn(index: Answering): readonly string[] {
+  const found = new Set<string>()
+  for (const one of index.everyPath()) {
+    if (one.endsWith(ROUTER_APP)) found.add(`${dirname(one)}/${ROUTES}`)
+  }
+  return [...found].sort()
+}
+
+export function routed(path: string, folders: readonly string[]): boolean {
+  return folders.some((one) => path.startsWith(one))
+}
+
 export function rootsOf(change: Change, index: Answering): readonly string[] {
-  return reachedBy(change, index).filter((one) => change.after(one) !== null)
+  const held = reachedBy(change, index).filter((one) => change.after(one) !== null)
+  if (held.length === 0) return held
+  const folders = routingIn(index)
+  return held.filter((one) => !routed(one, folders))
 }
 
 export function declaringIn(change: Change, index: Answering): readonly string[] {
