@@ -24,6 +24,7 @@ export const akashaMigration = {
     "Make massively parallel progress. Aim to have at least 20 concurrent direct subagents whenever you can use them to do productive work. Maximum 40 concurrent direct subagents.",
     "Add intent to the initiative to keep track of what is in flight. Remove intent from the initiative when it is done.",
     "Only agent-authored changes go through gates. Mechanical changes land without them. Run `akasha audit` after larger sets of mechanical changes to catch issues, but not after every change.",
+    "A custom migration lands its changes with `landedMechanically` from `@akasha/command-system/asking`, never through edit or write, which run warrants and stall on a read per file.",
     "The old markdown pages system is being entirely removed, so all readers and writers must use the new TypeScript pages system.",
     "Code that runs off-workstation must access pages data through the pages-system-service, NEVER by reading the checkout copy directly.",
     "Code that runs on-workstation must access pages data directly through the appropriate functions, NEVER by calling the pages-system-service.",
