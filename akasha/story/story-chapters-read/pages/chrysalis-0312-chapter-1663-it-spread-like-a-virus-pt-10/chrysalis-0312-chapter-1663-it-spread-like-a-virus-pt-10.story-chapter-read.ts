@@ -5,7 +5,7 @@ export const chrysalis0312Chapter1663ItSpreadLikeAVirusPt10 = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0312-chapter-1663-it-spread-like-a-virus-pt-10",
   title: "Chapter 1663 -  It Spread Like a Virus pt 10",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 312,
   ownLength: 1780,
   ownProgress: 1780,

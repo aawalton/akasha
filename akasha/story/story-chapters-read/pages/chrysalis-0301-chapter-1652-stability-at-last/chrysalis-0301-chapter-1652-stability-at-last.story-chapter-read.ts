@@ -5,7 +5,7 @@ export const chrysalis0301Chapter1652StabilityAtLast = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0301-chapter-1652-stability-at-last",
   title: "Chapter 1652 - Stability, At Last",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 301,
   ownLength: 978,
   ownProgress: 978,

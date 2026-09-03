@@ -5,7 +5,7 @@ export const cinnamonBun0574ChapterFiveHundredAndFiftyNineUpskill = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0574-chapter-five-hundred-and-fifty-nine-upskill",
   title: "Chapter Five Hundred and Fifty-Nine - Upskill",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 574,
   ownLength: 1506,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0235Chapter1587TheViewFromOnHigh = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0235-chapter-1587-the-view-from-on-high",
   title: "Chapter 1587 - The View From on High",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 235,
   ownLength: 1002,
   ownProgress: 1002,

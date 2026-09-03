@@ -5,7 +5,7 @@ export const cinnamonBun0500ChapterFourHundredAndEightySixWhereDo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0500-chapter-four-hundred-and-eighty-six-where-do",
   title: "Chapter Four Hundred and Eighty-Six - Where Do Babies Come From?",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 500,
   ownLength: 1488,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0284Chapter1635SomethingStrange = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0284-chapter-1635-something-strange",
   title: "Chapter 1635 - Something Strange",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 284,
   ownLength: 969,
   ownProgress: 969,

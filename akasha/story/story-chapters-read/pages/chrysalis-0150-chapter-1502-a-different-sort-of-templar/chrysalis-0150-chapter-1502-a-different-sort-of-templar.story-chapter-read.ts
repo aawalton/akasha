@@ -5,7 +5,7 @@ export const chrysalis0150Chapter1502ADifferentSortOfTemplar = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0150-chapter-1502-a-different-sort-of-templar",
   title: "Chapter 1502 - A Different Sort of Templar",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 150,
   ownLength: 1079,
   ownProgress: 1079,

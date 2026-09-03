@@ -5,7 +5,7 @@ export const cinnamonBun0508ChapterFourHundredAndNinetyFourTheBinding = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0508-chapter-four-hundred-and-ninety-four-the-binding",
   title: "Chapter Four Hundred and Ninety-Four - The Binding of Aberrforth",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 508,
   ownLength: 1508,
   unitSlug: "words",

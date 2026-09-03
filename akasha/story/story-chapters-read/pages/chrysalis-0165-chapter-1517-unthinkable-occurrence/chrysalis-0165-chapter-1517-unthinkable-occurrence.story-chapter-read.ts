@@ -5,7 +5,7 @@ export const chrysalis0165Chapter1517UnthinkableOccurrence = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0165-chapter-1517-unthinkable-occurrence",
   title: "Chapter 1517 - Unthinkable Occurrence",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 165,
   ownLength: 1045,
   ownProgress: 1045,

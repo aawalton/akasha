@@ -5,7 +5,7 @@ export const chrysalis0197Chapter1549PlansAndPlansAndPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0197-chapter-1549-plans-and-plans-and-plans",
   title: "Chapter 1549 - Plans and Plans and Plans",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 197,
   ownLength: 1351,
   ownProgress: 1351,

@@ -5,7 +5,7 @@ export const chrysalis0195Chapter1547SpiritualInvasion = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0195-chapter-1547-spiritual-invasion",
   title: "Chapter 1547 - Spiritual Invasion",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 195,
   ownLength: 1094,
   ownProgress: 1094,

@@ -5,7 +5,7 @@ export const chrysalis0219Chapter1571BombsAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0219-chapter-1571-bombs-away",
   title: "Chapter 1571 - Bombs Away",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 219,
   ownLength: 1264,
   ownProgress: 1264,

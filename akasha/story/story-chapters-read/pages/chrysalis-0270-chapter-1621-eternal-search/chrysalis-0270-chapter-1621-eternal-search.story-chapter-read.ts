@@ -5,7 +5,7 @@ export const chrysalis0270Chapter1621EternalSearch = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0270-chapter-1621-eternal-search",
   title: "Chapter 1621 - Eternal Search",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 270,
   ownLength: 1022,
   ownProgress: 1022,

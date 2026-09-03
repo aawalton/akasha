@@ -5,7 +5,7 @@ export const cinnamonBun0505ChapterFourHundredAndNinetyOneLetThemEat = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0505-chapter-four-hundred-and-ninety-one-let-them-eat",
   title: "Chapter Four Hundred and Ninety-One - Let Them Eat Fruitcake",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 505,
   ownLength: 1507,
   unitSlug: "words",

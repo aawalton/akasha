@@ -5,7 +5,7 @@ export const cinnamonBun0534ChapterFiveHundredAndNineteenSomethingWicked = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0534-chapter-five-hundred-and-nineteen-something-wicked",
   title: "Chapter Five Hundred and Nineteen - Something Wicked",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 534,
   ownLength: 1508,
   unitSlug: "words",

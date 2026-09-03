@@ -5,7 +5,7 @@ export const chrysalis0365Chapter1713ReNegotiate = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0365-chapter-1713-re-negotiate",
   title: "Chapter 1713 - Re-negotiate",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 365,
   ownLength: 989,
   ownProgress: 989,

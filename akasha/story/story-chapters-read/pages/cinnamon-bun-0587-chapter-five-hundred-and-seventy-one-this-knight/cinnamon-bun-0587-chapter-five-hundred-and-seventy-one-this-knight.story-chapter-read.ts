@@ -5,7 +5,7 @@ export const cinnamonBun0587ChapterFiveHundredAndSeventyOneThisKnight = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0587-chapter-five-hundred-and-seventy-one-this-knight",
   title: "Chapter Five Hundred and Seventy-One - This Knight is Dark and Full of Violence",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 587,
   ownLength: 1570,
   unitSlug: "words",

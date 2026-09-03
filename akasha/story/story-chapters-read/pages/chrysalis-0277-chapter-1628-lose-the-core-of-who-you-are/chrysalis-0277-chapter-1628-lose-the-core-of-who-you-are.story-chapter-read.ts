@@ -5,7 +5,7 @@ export const chrysalis0277Chapter1628LoseTheCoreOfWhoYouAre = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0277-chapter-1628-lose-the-core-of-who-you-are",
   title: "Chapter 1628 - Lose the Core of Who You Are",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 277,
   ownLength: 1143,
   ownProgress: 1143,

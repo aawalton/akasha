@@ -5,7 +5,7 @@ export const chrysalis0183Chapter1535MaybeDonTUseThis = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0183-chapter-1535-maybe-don-t-use-this",
   title: "Chapter 1535 - Maybe Don’t Use This",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 183,
   ownLength: 880,
   ownProgress: 880,

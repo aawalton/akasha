@@ -6,7 +6,7 @@ export const cinnamonBun0600ChapterFiveHundredAndEightyFourThunderAnd = {
   slug: "cinnamon-bun-0600-chapter-five-hundred-and-eighty-four-thunder-and",
   title:
     "Chapter Five Hundred and Eighty-Four - Thunder and Lightning, Very Moderately Frightening",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 600,
   ownLength: 1513,
   unitSlug: "words",

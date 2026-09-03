@@ -5,7 +5,7 @@ export const chrysalis0172Chapter1524NeverEndingStupidity = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0172-chapter-1524-never-ending-stupidity",
   title: "Chapter 1524 - Never Ending Stupidity",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 172,
   ownLength: 1212,
   ownProgress: 1212,

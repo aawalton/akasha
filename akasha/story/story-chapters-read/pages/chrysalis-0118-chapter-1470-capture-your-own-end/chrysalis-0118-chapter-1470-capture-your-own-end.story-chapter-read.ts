@@ -5,7 +5,7 @@ export const chrysalis0118Chapter1470CaptureYourOwnEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0118-chapter-1470-capture-your-own-end",
   title: "Chapter 1470 - Capture Your Own End",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 118,
   ownLength: 1014,
   ownProgress: 1014,

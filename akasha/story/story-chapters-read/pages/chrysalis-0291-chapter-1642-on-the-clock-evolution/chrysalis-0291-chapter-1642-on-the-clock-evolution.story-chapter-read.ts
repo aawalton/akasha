@@ -5,7 +5,7 @@ export const chrysalis0291Chapter1642OnTheClockEvolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0291-chapter-1642-on-the-clock-evolution",
   title: "Chapter 1642 - On the Clock Evolution",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 291,
   ownLength: 1030,
   ownProgress: 1030,

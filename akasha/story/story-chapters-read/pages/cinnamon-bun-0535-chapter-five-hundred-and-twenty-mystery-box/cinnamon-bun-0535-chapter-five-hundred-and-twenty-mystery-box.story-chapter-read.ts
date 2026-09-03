@@ -5,7 +5,7 @@ export const cinnamonBun0535ChapterFiveHundredAndTwentyMysteryBox = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0535-chapter-five-hundred-and-twenty-mystery-box",
   title: "Chapter Five Hundred and Twenty - Mystery Box",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 535,
   ownLength: 1516,
   unitSlug: "words",

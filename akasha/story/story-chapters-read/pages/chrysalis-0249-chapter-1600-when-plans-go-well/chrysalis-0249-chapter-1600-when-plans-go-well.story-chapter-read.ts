@@ -5,7 +5,7 @@ export const chrysalis0249Chapter1600WhenPlansGoWell = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0249-chapter-1600-when-plans-go-well",
   title: "Chapter 1600 - When Plans Go Well",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 249,
   ownLength: 1027,
   ownProgress: 1027,

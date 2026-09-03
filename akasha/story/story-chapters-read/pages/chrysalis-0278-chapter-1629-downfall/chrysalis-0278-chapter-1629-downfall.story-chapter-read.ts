@@ -5,7 +5,7 @@ export const chrysalis0278Chapter1629Downfall = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0278-chapter-1629-downfall",
   title: "Chapter 1629 - Downfall",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 278,
   ownLength: 977,
   ownProgress: 977,

@@ -6,7 +6,7 @@ export const cinnamonBun0545ChapterFiveHundredAndThirtyWellIfItIsnt = {
   slug: "cinnamon-bun-0545-chapter-five-hundred-and-thirty-well-if-it-isnt",
   title:
     "Chapter Five Hundred and Thirty - Well, If It Isn't the Consequences of Caprica's Own Actions",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 545,
   ownLength: 1485,
   unitSlug: "words",

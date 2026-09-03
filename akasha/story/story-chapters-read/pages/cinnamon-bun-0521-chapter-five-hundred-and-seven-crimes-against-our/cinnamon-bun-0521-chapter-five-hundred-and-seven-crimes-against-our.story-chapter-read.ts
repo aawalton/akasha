@@ -5,7 +5,7 @@ export const cinnamonBun0521ChapterFiveHundredAndSevenCrimesAgainstOur = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0521-chapter-five-hundred-and-seven-crimes-against-our",
   title: "Chapter Five Hundred and Seven - Crimes Against Our Sanity",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 521,
   ownLength: 1622,
   unitSlug: "words",

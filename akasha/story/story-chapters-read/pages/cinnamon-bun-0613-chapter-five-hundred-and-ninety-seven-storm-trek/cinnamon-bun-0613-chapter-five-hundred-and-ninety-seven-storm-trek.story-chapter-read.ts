@@ -5,7 +5,7 @@ export const cinnamonBun0613ChapterFiveHundredAndNinetySevenStormTrek = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0613-chapter-five-hundred-and-ninety-seven-storm-trek",
   title: "Chapter Five Hundred and Ninety-Seven - Storm Trek Nemesis",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 613,
   ownLength: 1540,
   unitSlug: "words",

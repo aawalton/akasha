@@ -5,7 +5,7 @@ export const chrysalis0354Chapter1702HarderBetterFasterStronger = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0354-chapter-1702-harder-better-faster-stronger",
   title: "Chapter 1702 - Harder, Better, Faster, Stronger",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 354,
   ownLength: 1045,
   ownProgress: 1045,

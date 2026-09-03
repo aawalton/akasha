@@ -5,7 +5,7 @@ export const chrysalis0193Chapter1545VisionsOfSickness = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0193-chapter-1545-visions-of-sickness",
   title: "Chapter 1545 - Visions of Sickness",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 193,
   ownLength: 945,
   ownProgress: 945,

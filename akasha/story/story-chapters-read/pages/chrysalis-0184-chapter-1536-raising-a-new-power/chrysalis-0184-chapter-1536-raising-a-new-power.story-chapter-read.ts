@@ -5,7 +5,7 @@ export const chrysalis0184Chapter1536RaisingANewPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0184-chapter-1536-raising-a-new-power",
   title: "Chapter 1536 - Raising A New Power",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 184,
   ownLength: 1121,
   ownProgress: 1121,

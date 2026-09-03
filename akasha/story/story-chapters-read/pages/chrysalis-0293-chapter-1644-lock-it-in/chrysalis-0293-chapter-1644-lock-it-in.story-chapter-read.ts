@@ -5,7 +5,7 @@ export const chrysalis0293Chapter1644LockItIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0293-chapter-1644-lock-it-in",
   title: "Chapter 1644 - Lock it in",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 293,
   ownLength: 1070,
   ownProgress: 1070,

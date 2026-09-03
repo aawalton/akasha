@@ -5,7 +5,7 @@ export const chrysalis0317Chapter1668ServeThePath = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0317-chapter-1668-serve-the-path",
   title: "Chapter 1668 - Serve the Path",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 317,
   ownLength: 1025,
   ownProgress: 1025,

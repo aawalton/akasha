@@ -5,7 +5,7 @@ export const chrysalis0334Chapter1683PurifiedAndSanctified = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0334-chapter-1683-purified-and-sanctified",
   title: "Chapter 1683 - Purified and Sanctified",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 334,
   ownLength: 1236,
   ownProgress: 1236,

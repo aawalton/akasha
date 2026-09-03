@@ -5,7 +5,7 @@ export const cinnamonBun0551ChapterFiveHundredAndThirtySixTheDevilsIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0551-chapter-five-hundred-and-thirty-six-the-devils-in",
   title: "Chapter Five Hundred and Thirty-Six - The Devil's in the Account Details",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 551,
   ownLength: 1632,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0374Chapter1722OfCourseThereSACatch = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0374-chapter-1722-of-course-there-s-a-catch",
   title: "Chapter 1722 - Of Course There’s a Catch",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 374,
   ownLength: 1223,
   ownProgress: 1223,

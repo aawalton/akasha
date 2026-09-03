@@ -5,7 +5,7 @@ export const cinnamonBun0608ChapterFiveHundredAndNinetyTwoTheWorldIsnt = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0608-chapter-five-hundred-and-ninety-two-the-world-isnt",
   title: "Chapter Five Hundred and Ninety-Two - The World Isn't the Boss of Me",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 608,
   ownLength: 1553,
   unitSlug: "words",

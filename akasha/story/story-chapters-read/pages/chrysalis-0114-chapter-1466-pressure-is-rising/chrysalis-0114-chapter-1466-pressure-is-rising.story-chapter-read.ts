@@ -5,7 +5,7 @@ export const chrysalis0114Chapter1466PressureIsRising = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0114-chapter-1466-pressure-is-rising",
   title: "Chapter 1466 - Pressure is Rising",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 114,
   ownLength: 1022,
   ownProgress: 1022,

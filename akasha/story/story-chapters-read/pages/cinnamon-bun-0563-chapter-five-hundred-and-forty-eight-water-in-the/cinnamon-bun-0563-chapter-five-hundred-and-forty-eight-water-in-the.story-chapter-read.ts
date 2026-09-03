@@ -5,7 +5,7 @@ export const cinnamonBun0563ChapterFiveHundredAndFortyEightWaterInThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0563-chapter-five-hundred-and-forty-eight-water-in-the",
   title: "Chapter Five Hundred and Forty-Eight - Water in the Desert",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 563,
   ownLength: 1470,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0339Chapter1687FinalAssessment = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0339-chapter-1687-final-assessment",
   title: "Chapter 1687 - Final Assessment",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 339,
   ownLength: 1008,
   ownProgress: 1008,

@@ -5,7 +5,7 @@ export const chrysalis0169Chapter1521FortressInterior = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0169-chapter-1521-fortress-interior",
   title: "Chapter 1521 - Fortress Interior",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 169,
   ownLength: 993,
   ownProgress: 993,

@@ -5,7 +5,7 @@ export const chrysalis0340Chapter1688CouncilGathers = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0340-chapter-1688-council-gathers",
   title: "Chapter 1688 - Council Gathers",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 340,
   ownLength: 1035,
   ownProgress: 1035,

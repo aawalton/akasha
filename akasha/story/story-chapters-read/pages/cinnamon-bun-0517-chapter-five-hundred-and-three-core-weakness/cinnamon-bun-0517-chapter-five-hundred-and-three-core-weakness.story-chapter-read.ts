@@ -5,7 +5,7 @@ export const cinnamonBun0517ChapterFiveHundredAndThreeCoreWeakness = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0517-chapter-five-hundred-and-three-core-weakness",
   title: "Chapter Five Hundred and Three - Core Weakness",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 517,
   ownLength: 1469,
   unitSlug: "words",

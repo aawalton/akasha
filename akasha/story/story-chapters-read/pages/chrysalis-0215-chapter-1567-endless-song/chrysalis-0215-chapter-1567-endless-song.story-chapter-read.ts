@@ -5,7 +5,7 @@ export const chrysalis0215Chapter1567EndlessSong = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0215-chapter-1567-endless-song",
   title: "Chapter 1567 - Endless Song",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 215,
   ownLength: 1035,
   ownProgress: 1035,

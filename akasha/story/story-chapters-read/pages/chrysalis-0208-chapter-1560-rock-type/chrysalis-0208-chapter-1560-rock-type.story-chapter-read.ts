@@ -5,7 +5,7 @@ export const chrysalis0208Chapter1560RockType = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0208-chapter-1560-rock-type",
   title: "Chapter 1560 - Rock Type",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 208,
   ownLength: 948,
   ownProgress: 948,

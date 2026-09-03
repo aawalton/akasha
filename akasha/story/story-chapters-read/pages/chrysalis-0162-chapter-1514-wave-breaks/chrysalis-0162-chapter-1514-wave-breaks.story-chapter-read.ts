@@ -5,7 +5,7 @@ export const chrysalis0162Chapter1514WaveBreaks = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0162-chapter-1514-wave-breaks",
   title: "Chapter 1514 - Wave Breaks",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 162,
   ownLength: 1012,
   ownProgress: 1012,

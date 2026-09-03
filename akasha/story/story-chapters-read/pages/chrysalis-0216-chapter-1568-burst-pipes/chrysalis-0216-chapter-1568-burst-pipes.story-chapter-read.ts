@@ -5,7 +5,7 @@ export const chrysalis0216Chapter1568BurstPipes = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0216-chapter-1568-burst-pipes",
   title: "Chapter 1568 - Burst Pipes",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 216,
   ownLength: 931,
   ownProgress: 931,

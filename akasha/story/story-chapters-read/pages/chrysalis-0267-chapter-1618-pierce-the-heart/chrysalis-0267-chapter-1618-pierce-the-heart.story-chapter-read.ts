@@ -5,7 +5,7 @@ export const chrysalis0267Chapter1618PierceTheHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0267-chapter-1618-pierce-the-heart",
   title: "Chapter 1618 - Pierce the Heart",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 267,
   ownLength: 950,
   ownProgress: 950,

@@ -5,7 +5,7 @@ export const chrysalis0350Chapter1698Greed = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0350-chapter-1698-greed",
   title: "Chapter 1698 - Greed",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 350,
   ownLength: 1323,
   ownProgress: 1323,

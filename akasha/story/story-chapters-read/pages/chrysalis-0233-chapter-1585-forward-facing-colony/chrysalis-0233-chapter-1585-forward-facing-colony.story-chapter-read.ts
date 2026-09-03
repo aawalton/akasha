@@ -5,7 +5,7 @@ export const chrysalis0233Chapter1585ForwardFacingColony = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0233-chapter-1585-forward-facing-colony",
   title: "Chapter 1585 - Forward Facing Colony",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 233,
   ownLength: 1181,
   ownProgress: 1181,

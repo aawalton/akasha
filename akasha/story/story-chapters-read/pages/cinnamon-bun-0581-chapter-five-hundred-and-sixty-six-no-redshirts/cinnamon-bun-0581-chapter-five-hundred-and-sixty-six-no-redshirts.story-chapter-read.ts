@@ -5,7 +5,7 @@ export const cinnamonBun0581ChapterFiveHundredAndSixtySixNoRedshirts = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0581-chapter-five-hundred-and-sixty-six-no-redshirts",
   title: "Chapter Five Hundred and Sixty-Six - No Redshirts Allowed",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 581,
   ownLength: 1442,
   unitSlug: "words",

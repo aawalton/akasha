@@ -5,7 +5,7 @@ export const chrysalis0130Chapter1482BearInThere = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0130-chapter-1482-bear-in-there",
   title: "Chapter 1482 - Bear in There",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 130,
   ownLength: 991,
   ownProgress: 991,

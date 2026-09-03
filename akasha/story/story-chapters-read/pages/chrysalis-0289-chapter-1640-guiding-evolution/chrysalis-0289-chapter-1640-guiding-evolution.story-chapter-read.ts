@@ -5,7 +5,7 @@ export const chrysalis0289Chapter1640GuidingEvolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0289-chapter-1640-guiding-evolution",
   title: "Chapter 1640 - Guiding Evolution",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 289,
   ownLength: 1046,
   ownProgress: 1046,

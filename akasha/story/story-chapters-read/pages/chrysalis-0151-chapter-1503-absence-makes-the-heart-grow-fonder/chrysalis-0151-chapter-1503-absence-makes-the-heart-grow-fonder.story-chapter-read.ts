@@ -5,7 +5,7 @@ export const chrysalis0151Chapter1503AbsenceMakesTheHeartGrowFonder = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0151-chapter-1503-absence-makes-the-heart-grow-fonder",
   title: "Chapter 1503 - Absence Makes the Heart Grow Fonder",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 151,
   ownLength: 1126,
   ownProgress: 1126,

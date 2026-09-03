@@ -5,7 +5,7 @@ export const cinnamonBun0599ChapterFiveHundredAndEightyThreeCloudwrack = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0599-chapter-five-hundred-and-eighty-three-cloudwrack",
   title: "Chapter Five Hundred and Eighty-Three - Cloudwrack",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 599,
   ownLength: 1465,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0588ChapterFiveHundredAndSeventyTwoNthTimesThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0588-chapter-five-hundred-and-seventy-two-nth-times-the",
   title: "Chapter Five Hundred and Seventy-Two - Nth Time's the Charm",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 588,
   ownLength: 1516,
   unitSlug: "words",

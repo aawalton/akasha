@@ -5,7 +5,7 @@ export const chrysalis0314Chapter1665ShiftsInTheSanctumPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0314-chapter-1665-shifts-in-the-sanctum-part-2",
   title: "Chapter 1665 - Shifts in the Sanctum Part 2",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 314,
   ownLength: 979,
   ownProgress: 979,

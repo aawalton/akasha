@@ -5,7 +5,7 @@ export const chrysalis0203Chapter1555ReceptionOfTheBulg = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0203-chapter-1555-reception-of-the-bulg",
   title: "Chapter 1555 - Reception of the Bulg",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 203,
   ownLength: 989,
   ownProgress: 989,

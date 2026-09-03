@@ -5,7 +5,7 @@ export const chrysalis0342Chapter1690GetReadyToRumble = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0342-chapter-1690-get-ready-to-rumble",
   title: "Chapter 1690 - Get Ready to Rumble",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 342,
   ownLength: 954,
   ownProgress: 954,

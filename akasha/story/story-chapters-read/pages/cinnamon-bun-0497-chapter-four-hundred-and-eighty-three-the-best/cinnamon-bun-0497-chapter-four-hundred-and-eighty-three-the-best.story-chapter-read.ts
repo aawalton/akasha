@@ -5,7 +5,7 @@ export const cinnamonBun0497ChapterFourHundredAndEightyThreeTheBest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0497-chapter-four-hundred-and-eighty-three-the-best",
   title: "Chapter Four Hundred and Eighty-Three - The Best Laid Plans of Mice and Buns",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 497,
   ownLength: 1486,
   unitSlug: "words",

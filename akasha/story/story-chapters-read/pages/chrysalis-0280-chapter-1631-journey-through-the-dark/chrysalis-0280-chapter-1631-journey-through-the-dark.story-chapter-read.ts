@@ -5,7 +5,7 @@ export const chrysalis0280Chapter1631JourneyThroughTheDark = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0280-chapter-1631-journey-through-the-dark",
   title: "Chapter 1631 - Journey Through the Dark",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 280,
   ownLength: 1012,
   ownProgress: 1012,

@@ -5,7 +5,7 @@ export const chrysalis0129Chapter1481ABreather = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0129-chapter-1481-a-breather",
   title: "Chapter 1481 - A Breather",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 129,
   ownLength: 1015,
   ownProgress: 1015,

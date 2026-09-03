@@ -5,7 +5,7 @@ export const cinnamonBun0564ChapterFiveHundredAndFortyNineAllFourOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0564-chapter-five-hundred-and-forty-nine-all-four-one",
   title: "Chapter Five Hundred and Forty-Nine - All Four One Formation",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 564,
   ownLength: 1473,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0257Chapter1608TooSmartToBeCalledCunning = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0257-chapter-1608-too-smart-to-be-called-cunning",
   title: "Chapter 1608 - Too Smart to be Called Cunning",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 257,
   ownLength: 884,
   ownProgress: 884,

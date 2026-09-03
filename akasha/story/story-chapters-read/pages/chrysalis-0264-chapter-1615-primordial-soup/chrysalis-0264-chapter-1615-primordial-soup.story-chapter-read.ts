@@ -5,7 +5,7 @@ export const chrysalis0264Chapter1615PrimordialSoup = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0264-chapter-1615-primordial-soup",
   title: "Chapter 1615 - Primordial Soup",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 264,
   ownLength: 1233,
   ownProgress: 1233,

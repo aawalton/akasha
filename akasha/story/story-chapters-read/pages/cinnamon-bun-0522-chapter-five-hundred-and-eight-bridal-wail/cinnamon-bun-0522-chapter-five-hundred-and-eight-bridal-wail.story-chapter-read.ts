@@ -5,7 +5,7 @@ export const cinnamonBun0522ChapterFiveHundredAndEightBridalWail = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0522-chapter-five-hundred-and-eight-bridal-wail",
   title: "Chapter Five Hundred and Eight - Bridal Wail",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 522,
   ownLength: 1467,
   unitSlug: "words",

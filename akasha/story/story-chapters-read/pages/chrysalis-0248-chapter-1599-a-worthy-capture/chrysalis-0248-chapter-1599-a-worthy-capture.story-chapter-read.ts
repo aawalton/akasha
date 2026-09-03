@@ -5,7 +5,7 @@ export const chrysalis0248Chapter1599AWorthyCapture = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0248-chapter-1599-a-worthy-capture",
   title: "Chapter 1599 - A Worthy Capture",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 248,
   ownLength: 981,
   ownProgress: 981,

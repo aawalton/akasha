@@ -5,7 +5,7 @@ export const chrysalis0167Chapter1519WhatWasKnownWhatWasLost = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0167-chapter-1519-what-was-known-what-was-lost",
   title: "Chapter 1519 - What Was Known, What Was Lost",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 167,
   ownLength: 966,
   ownProgress: 966,

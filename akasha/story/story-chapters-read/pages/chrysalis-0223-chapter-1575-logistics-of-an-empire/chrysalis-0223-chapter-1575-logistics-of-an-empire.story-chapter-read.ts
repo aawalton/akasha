@@ -5,7 +5,7 @@ export const chrysalis0223Chapter1575LogisticsOfAnEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0223-chapter-1575-logistics-of-an-empire",
   title: "Chapter 1575 - Logistics of an Empire",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 223,
   ownLength: 1016,
   ownProgress: 1016,

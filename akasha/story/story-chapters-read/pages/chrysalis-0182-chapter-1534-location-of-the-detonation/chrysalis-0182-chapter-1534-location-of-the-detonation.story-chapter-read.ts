@@ -5,7 +5,7 @@ export const chrysalis0182Chapter1534LocationOfTheDetonation = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0182-chapter-1534-location-of-the-detonation",
   title: "Chapter 1534 - Location of the Detonation",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 182,
   ownLength: 1021,
   ownProgress: 1021,

@@ -5,7 +5,7 @@ export const chrysalis0281Chapter1632HowToSolveAProblemLikeTheorazzn = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0281-chapter-1632-how-to-solve-a-problem-like-theorazzn",
   title: "Chapter 1632 - How To Solve a Problem Like Theorazzn?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 281,
   ownLength: 1076,
   ownProgress: 1076,

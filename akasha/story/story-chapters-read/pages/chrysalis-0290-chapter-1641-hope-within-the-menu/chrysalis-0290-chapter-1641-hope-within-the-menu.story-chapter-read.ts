@@ -5,7 +5,7 @@ export const chrysalis0290Chapter1641HopeWithinTheMenu = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0290-chapter-1641-hope-within-the-menu",
   title: "Chapter 1641 - Hope Within the Menu",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 290,
   ownLength: 1179,
   ownProgress: 1179,

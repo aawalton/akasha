@@ -5,7 +5,7 @@ export const cinnamonBun0531ChapterFiveHundredAndSixteenVows = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0531-chapter-five-hundred-and-sixteen-vows",
   title: "Chapter Five Hundred and Sixteen - Vows",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 531,
   ownLength: 1954,
   unitSlug: "words",

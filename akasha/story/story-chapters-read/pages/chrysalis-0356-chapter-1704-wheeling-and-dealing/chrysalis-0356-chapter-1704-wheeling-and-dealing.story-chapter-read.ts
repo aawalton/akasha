@@ -5,7 +5,7 @@ export const chrysalis0356Chapter1704WheelingAndDealing = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0356-chapter-1704-wheeling-and-dealing",
   title: "Chapter 1704 - Wheeling and Dealing",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 356,
   ownLength: 895,
   ownProgress: 895,

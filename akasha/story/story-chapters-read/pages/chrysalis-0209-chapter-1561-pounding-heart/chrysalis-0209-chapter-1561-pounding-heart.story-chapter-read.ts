@@ -5,7 +5,7 @@ export const chrysalis0209Chapter1561PoundingHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0209-chapter-1561-pounding-heart",
   title: "Chapter 1561 - Pounding Heart",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 209,
   ownLength: 1059,
   ownProgress: 1059,

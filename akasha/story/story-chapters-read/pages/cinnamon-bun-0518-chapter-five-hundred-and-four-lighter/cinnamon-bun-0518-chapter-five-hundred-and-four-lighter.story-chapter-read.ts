@@ -5,7 +5,7 @@ export const cinnamonBun0518ChapterFiveHundredAndFourLighter = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0518-chapter-five-hundred-and-four-lighter",
   title: "Chapter Five Hundred and Four - Lighter",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 518,
   ownLength: 1586,
   unitSlug: "words",

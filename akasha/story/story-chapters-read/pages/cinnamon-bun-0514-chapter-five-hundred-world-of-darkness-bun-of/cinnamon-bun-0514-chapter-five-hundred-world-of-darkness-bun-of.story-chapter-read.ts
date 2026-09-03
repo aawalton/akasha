@@ -5,7 +5,7 @@ export const cinnamonBun0514ChapterFiveHundredWorldOfDarknessBunOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0514-chapter-five-hundred-world-of-darkness-bun-of",
   title: "Chapter Five Hundred - World of Darkness - Bun of Light",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 514,
   ownLength: 3273,
   unitSlug: "words",

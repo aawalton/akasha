@@ -5,7 +5,7 @@ export const chrysalis0236Chapter1588ZluthIsRisen = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0236-chapter-1588-zluth-is-risen",
   title: "Chapter 1588 - Zluth Is Risen",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 236,
   ownLength: 889,
   ownProgress: 889,

@@ -5,7 +5,7 @@ export const chrysalis0222Chapter1574AnUnexpectedReunion = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0222-chapter-1574-an-unexpected-reunion",
   title: "Chapter 1574 - An Unexpected Reunion",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 222,
   ownLength: 858,
   ownProgress: 858,

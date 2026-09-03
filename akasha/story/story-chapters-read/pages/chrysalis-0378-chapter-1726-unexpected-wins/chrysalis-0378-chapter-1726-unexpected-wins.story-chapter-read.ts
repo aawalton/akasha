@@ -5,7 +5,7 @@ export const chrysalis0378Chapter1726UnexpectedWins = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0378-chapter-1726-unexpected-wins",
   title: "Chapter 1726 - Unexpected Wins",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 378,
   ownLength: 926,
   ownProgress: 926,

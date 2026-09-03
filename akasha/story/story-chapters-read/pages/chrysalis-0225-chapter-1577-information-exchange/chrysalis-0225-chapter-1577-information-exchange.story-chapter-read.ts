@@ -5,7 +5,7 @@ export const chrysalis0225Chapter1577InformationExchange = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0225-chapter-1577-information-exchange",
   title: "Chapter 1577 - Information Exchange",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 225,
   ownLength: 1021,
   ownProgress: 1021,

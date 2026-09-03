@@ -5,7 +5,7 @@ export const cinnamonBun0524ChapterFiveHundredAndTenChiefOfVendors = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0524-chapter-five-hundred-and-ten-chief-of-vendors",
   title: "Chapter Five Hundred and Ten - Chief of Vendors",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 524,
   ownLength: 1457,
   unitSlug: "words",

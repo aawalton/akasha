@@ -5,7 +5,7 @@ export const chrysalis0319Chapter1670Politicking = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0319-chapter-1670-politicking",
   title: "Chapter 1670 - Politicking",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 319,
   ownLength: 1024,
   ownProgress: 1024,

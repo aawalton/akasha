@@ -5,7 +5,7 @@ export const chrysalis0266Chapter1617BustingOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0266-chapter-1617-busting-out",
   title: "Chapter 1617 - Busting Out",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 266,
   ownLength: 1031,
   ownProgress: 1031,

@@ -5,7 +5,7 @@ export const chrysalis0211Chapter1563ZissthOfTheCorruptedHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0211-chapter-1563-zissth-of-the-corrupted-heart",
   title: "Chapter 1563 - Zissth of the Corrupted Heart",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 211,
   ownLength: 1090,
   ownProgress: 1090,

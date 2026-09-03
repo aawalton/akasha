@@ -5,7 +5,7 @@ export const chrysalis0157Chapter1509FinalSweetRelease = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0157-chapter-1509-final-sweet-release",
   title: "Chapter 1509 - Final, Sweet Release",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 157,
   ownLength: 1073,
   ownProgress: 1073,

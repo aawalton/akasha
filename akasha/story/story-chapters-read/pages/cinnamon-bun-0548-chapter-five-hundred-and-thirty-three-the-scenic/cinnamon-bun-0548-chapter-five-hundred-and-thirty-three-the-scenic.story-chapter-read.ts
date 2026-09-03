@@ -5,7 +5,7 @@ export const cinnamonBun0548ChapterFiveHundredAndThirtyThreeTheScenic = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0548-chapter-five-hundred-and-thirty-three-the-scenic",
   title: "Chapter Five Hundred and Thirty-Three - The Scenic Route",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 548,
   ownLength: 1531,
   unitSlug: "words",

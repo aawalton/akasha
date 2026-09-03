@@ -5,7 +5,7 @@ export const cinnamonBun0567ChapterFiveHundredAndFiftyTwoIHaveTheHigh = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0567-chapter-five-hundred-and-fifty-two-i-have-the-high",
   title: "Chapter Five Hundred and Fifty-Two - I Have the High Sky",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 567,
   ownLength: 1574,
   unitSlug: "words",

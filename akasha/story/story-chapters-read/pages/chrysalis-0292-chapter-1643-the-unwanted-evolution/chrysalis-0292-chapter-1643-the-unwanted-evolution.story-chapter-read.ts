@@ -5,7 +5,7 @@ export const chrysalis0292Chapter1643TheUnwantedEvolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0292-chapter-1643-the-unwanted-evolution",
   title: "Chapter 1643 - The Unwanted Evolution",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 292,
   ownLength: 1283,
   ownProgress: 1283,

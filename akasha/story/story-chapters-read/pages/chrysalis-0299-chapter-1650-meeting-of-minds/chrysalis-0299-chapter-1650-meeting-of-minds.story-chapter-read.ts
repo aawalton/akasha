@@ -5,7 +5,7 @@ export const chrysalis0299Chapter1650MeetingOfMinds = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0299-chapter-1650-meeting-of-minds",
   title: "Chapter 1650 - Meeting of Minds",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 299,
   ownLength: 1124,
   ownProgress: 1124,

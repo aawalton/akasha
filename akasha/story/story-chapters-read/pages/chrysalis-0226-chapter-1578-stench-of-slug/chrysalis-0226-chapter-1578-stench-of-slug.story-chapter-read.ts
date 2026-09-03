@@ -5,7 +5,7 @@ export const chrysalis0226Chapter1578StenchOfSlug = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0226-chapter-1578-stench-of-slug",
   title: "Chapter 1578 - Stench of Slug",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 226,
   ownLength: 997,
   ownProgress: 997,

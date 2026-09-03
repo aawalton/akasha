@@ -5,7 +5,7 @@ export const chrysalis0344Chapter1692WhatSolantWantsWhatSolantGets = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0344-chapter-1692-what-solant-wants-what-solant-gets",
   title: "Chapter 1692 - What Solant Wants, What Solant Gets",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 344,
   ownLength: 1017,
   ownProgress: 1017,

@@ -5,7 +5,7 @@ export const chrysalis0205Chapter1557NewArmour = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0205-chapter-1557-new-armour",
   title: "Chapter 1557 - New Armour",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 205,
   ownLength: 1035,
   ownProgress: 1035,

@@ -5,7 +5,7 @@ export const chrysalis0237Chapter1589TheHeatIsOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0237-chapter-1589-the-heat-is-on",
   title: "Chapter 1589 - The Heat Is On",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 237,
   ownLength: 969,
   ownProgress: 969,

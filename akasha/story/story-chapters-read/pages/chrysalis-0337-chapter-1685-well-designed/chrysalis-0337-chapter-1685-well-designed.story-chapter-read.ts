@@ -5,7 +5,7 @@ export const chrysalis0337Chapter1685WellDesigned = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0337-chapter-1685-well-designed",
   title: "Chapter 1685 - Well Designed",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 337,
   ownLength: 947,
   ownProgress: 947,

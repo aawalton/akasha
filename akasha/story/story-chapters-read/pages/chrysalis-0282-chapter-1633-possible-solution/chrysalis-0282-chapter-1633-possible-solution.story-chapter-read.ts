@@ -5,7 +5,7 @@ export const chrysalis0282Chapter1633PossibleSolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0282-chapter-1633-possible-solution",
   title: "Chapter 1633 - Possible Solution",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 282,
   ownLength: 1149,
   ownProgress: 1149,

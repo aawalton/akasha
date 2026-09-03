@@ -5,7 +5,7 @@ export const chrysalis0359Chapter1707AHarderKindOfSale = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0359-chapter-1707-a-harder-kind-of-sale",
   title: "Chapter 1707 - A Harder Kind of Sale",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 359,
   ownLength: 1111,
   ownProgress: 1111,

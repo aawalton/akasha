@@ -5,7 +5,7 @@ export const cinnamonBun0580ChapterFiveHundredAndSixtyFiveLocalNews = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0580-chapter-five-hundred-and-sixty-five-local-news",
   title: "Chapter Five Hundred and Sixty-Five - Local News",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 580,
   ownLength: 1450,
   unitSlug: "words",

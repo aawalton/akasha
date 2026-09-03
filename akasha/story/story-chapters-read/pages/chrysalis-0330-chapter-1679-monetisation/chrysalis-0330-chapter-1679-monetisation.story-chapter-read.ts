@@ -5,7 +5,7 @@ export const chrysalis0330Chapter1679Monetisation = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0330-chapter-1679-monetisation",
   title: "Chapter 1679 - Monetisation",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 330,
   ownLength: 1132,
   ownProgress: 1132,

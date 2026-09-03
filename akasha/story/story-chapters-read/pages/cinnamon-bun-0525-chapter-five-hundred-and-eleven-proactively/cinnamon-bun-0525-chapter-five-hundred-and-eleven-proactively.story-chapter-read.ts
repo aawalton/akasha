@@ -6,7 +6,7 @@ export const cinnamonBun0525ChapterFiveHundredAndElevenProactively = {
   slug: "cinnamon-bun-0525-chapter-five-hundred-and-eleven-proactively",
   title:
     "Chapter Five Hundred and Eleven - Proactively Circling Back to See if We Moved the Needle",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 525,
   ownLength: 1469,
   unitSlug: "words",

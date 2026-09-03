@@ -5,7 +5,7 @@ export const chrysalis0212Chapter1564WorkingDangerously = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0212-chapter-1564-working-dangerously",
   title: "Chapter 1564 - Working Dangerously",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 212,
   ownLength: 976,
   ownProgress: 976,

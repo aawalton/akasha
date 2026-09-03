@@ -5,7 +5,7 @@ export const chrysalis0186Chapter1538HelmSDeepUponTheEldestSHead = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0186-chapter-1538-helm-s-deep-upon-the-eldest-s-head",
   title: "Chapter 1538 - Helm’s Deep Upon the Eldest’s Head",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 186,
   ownLength: 994,
   ownProgress: 994,

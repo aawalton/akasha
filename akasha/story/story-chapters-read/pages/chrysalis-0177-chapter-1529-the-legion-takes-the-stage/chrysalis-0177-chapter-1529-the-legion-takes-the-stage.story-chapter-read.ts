@@ -5,7 +5,7 @@ export const chrysalis0177Chapter1529TheLegionTakesTheStage = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0177-chapter-1529-the-legion-takes-the-stage",
   title: "Chapter 1529 - The Legion Takes the Stage",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 177,
   ownLength: 1246,
   ownProgress: 1246,

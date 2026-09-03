@@ -5,7 +5,7 @@ export const chrysalis0149Chapter1501TheTemplarOfTheEldest = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0149-chapter-1501-the-templar-of-the-eldest",
   title: "Chapter 1501 - The Templar of The Eldest",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 149,
   ownLength: 965,
   ownProgress: 965,

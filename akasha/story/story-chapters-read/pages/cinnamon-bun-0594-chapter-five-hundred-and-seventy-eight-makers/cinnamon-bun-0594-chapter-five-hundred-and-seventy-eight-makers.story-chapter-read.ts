@@ -5,7 +5,7 @@ export const cinnamonBun0594ChapterFiveHundredAndSeventyEightMakers = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0594-chapter-five-hundred-and-seventy-eight-makers",
   title: "Chapter Five Hundred and Seventy-Eight - Maker's Marks",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 594,
   ownLength: 1501,
   unitSlug: "words",

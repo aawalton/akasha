@@ -5,7 +5,7 @@ export const chrysalis0115Chapter1467WheatHasLessFun = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0115-chapter-1467-wheat-has-less-fun",
   title: "Chapter 1467 - Wheat Has Less Fun",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 115,
   ownLength: 950,
   ownProgress: 950,

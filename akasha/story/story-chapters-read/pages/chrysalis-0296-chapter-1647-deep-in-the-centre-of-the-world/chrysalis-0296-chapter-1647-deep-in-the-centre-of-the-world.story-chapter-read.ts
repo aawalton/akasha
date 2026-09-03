@@ -5,7 +5,7 @@ export const chrysalis0296Chapter1647DeepInTheCentreOfTheWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0296-chapter-1647-deep-in-the-centre-of-the-world",
   title: "Chapter 1647 - Deep in the Centre of the World",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 296,
   ownLength: 961,
   ownProgress: 961,

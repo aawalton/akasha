@@ -5,7 +5,7 @@ export const chrysalis0258Chapter1609ADifficultJourney = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0258-chapter-1609-a-difficult-journey",
   title: "Chapter 1609 - A Difficult Journey",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 258,
   ownLength: 920,
   ownProgress: 920,

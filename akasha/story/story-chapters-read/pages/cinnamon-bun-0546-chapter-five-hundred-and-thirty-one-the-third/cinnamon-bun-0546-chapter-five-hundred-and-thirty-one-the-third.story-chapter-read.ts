@@ -5,7 +5,7 @@ export const cinnamonBun0546ChapterFiveHundredAndThirtyOneTheThird = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0546-chapter-five-hundred-and-thirty-one-the-third",
   title: "Chapter Five Hundred and Thirty-One - The Third Stage of Grief",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 546,
   ownLength: 1482,
   unitSlug: "words",

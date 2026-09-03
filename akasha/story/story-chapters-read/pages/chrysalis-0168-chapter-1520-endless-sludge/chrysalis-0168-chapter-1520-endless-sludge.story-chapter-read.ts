@@ -5,7 +5,7 @@ export const chrysalis0168Chapter1520EndlessSludge = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0168-chapter-1520-endless-sludge",
   title: "Chapter 1520 - Endless Sludge",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 168,
   ownLength: 1138,
   ownProgress: 1138,

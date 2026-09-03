@@ -5,7 +5,7 @@ export const chrysalis0175Chapter1527TheTanks = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0175-chapter-1527-the-tanks",
   title: "Chapter 1527 - The Tanks",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 175,
   ownLength: 863,
   ownProgress: 863,

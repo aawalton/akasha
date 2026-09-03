@@ -5,7 +5,7 @@ export const chrysalis0259Chapter1610Acceleration = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0259-chapter-1610-acceleration",
   title: "Chapter 1610 - Acceleration",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 259,
   ownLength: 1022,
   ownProgress: 1022,

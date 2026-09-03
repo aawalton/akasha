@@ -5,7 +5,7 @@ export const cinnamonBun0605ChapterFiveHundredAndEightyNineSeekAndYe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0605-chapter-five-hundred-and-eighty-nine-seek-and-ye",
   title: "Chapter Five Hundred and Eighty-Nine - Seek And Ye Shall Find Out",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 605,
   ownLength: 1453,
   unitSlug: "words",

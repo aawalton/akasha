@@ -5,7 +5,7 @@ export const cinnamonBun0539ChapterFiveHundredAndTwentyFourMasterOfHer = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0539-chapter-five-hundred-and-twenty-four-master-of-her",
   title: "Chapter Five Hundred and Twenty-Four - Master of Her Craft",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 539,
   ownLength: 1510,
   unitSlug: "words",

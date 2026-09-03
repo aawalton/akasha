@@ -5,7 +5,7 @@ export const cinnamonBun0528ChapterFiveHundredAndThirteenOhTheWeather = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0528-chapter-five-hundred-and-thirteen-oh-the-weather",
   title: "Chapter Five Hundred and Thirteen - Oh, the Weather Outside is Frightful",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 528,
   ownLength: 1639,
   unitSlug: "words",

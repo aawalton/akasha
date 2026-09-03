@@ -5,7 +5,7 @@ export const cinnamonBun0598ChapterFiveHundredAndEightyTwoAddADashOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0598-chapter-five-hundred-and-eighty-two-add-a-dash-of",
   title: "Chapter Five Hundred and Eighty-Two - Add a Dash of Impending Storm",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 598,
   ownLength: 1591,
   unitSlug: "words",

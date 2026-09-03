@@ -5,7 +5,7 @@ export const cinnamonBun0549ChapterFiveHundredAndThirtyFourTheRestIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0549-chapter-five-hundred-and-thirty-four-the-rest-is",
   title: "Chapter Five Hundred and Thirty-Four - The Rest is History",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 549,
   ownLength: 1457,
   unitSlug: "words",

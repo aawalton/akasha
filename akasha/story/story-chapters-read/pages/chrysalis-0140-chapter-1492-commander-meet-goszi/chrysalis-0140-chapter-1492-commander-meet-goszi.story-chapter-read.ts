@@ -5,7 +5,7 @@ export const chrysalis0140Chapter1492CommanderMeetGoszi = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0140-chapter-1492-commander-meet-goszi",
   title: "Chapter 1492 - Commander, Meet Goszi",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 140,
   ownLength: 1083,
   ownProgress: 1083,

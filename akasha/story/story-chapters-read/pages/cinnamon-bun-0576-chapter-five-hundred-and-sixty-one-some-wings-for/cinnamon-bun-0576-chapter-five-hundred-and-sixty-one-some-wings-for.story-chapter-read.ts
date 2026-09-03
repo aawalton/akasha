@@ -5,7 +5,7 @@ export const cinnamonBun0576ChapterFiveHundredAndSixtyOneSomeWingsFor = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0576-chapter-five-hundred-and-sixty-one-some-wings-for",
   title: "Chapter Five Hundred and Sixty-One - Some Wings for a Miss",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 576,
   ownLength: 1519,
   unitSlug: "words",

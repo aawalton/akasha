@@ -5,7 +5,7 @@ export const chrysalis0241Chapter1593InvasiveOoze = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0241-chapter-1593-invasive-ooze",
   title: "Chapter 1593 - Invasive Ooze",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 241,
   ownLength: 955,
   ownProgress: 955,

@@ -5,7 +5,7 @@ export const chrysalis0335Chapter1684GettingAdjusted = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0335-chapter-1684-getting-adjusted",
   title: "Chapter 1684 - Getting Adjusted",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 335,
   ownLength: 1007,
   ownProgress: 1007,

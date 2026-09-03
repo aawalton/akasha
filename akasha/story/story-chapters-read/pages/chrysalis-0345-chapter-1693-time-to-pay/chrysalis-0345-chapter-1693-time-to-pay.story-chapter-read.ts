@@ -5,7 +5,7 @@ export const chrysalis0345Chapter1693TimeToPay = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0345-chapter-1693-time-to-pay",
   title: "Chapter 1693 - Time to Pay",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 345,
   ownLength: 852,
   ownProgress: 852,

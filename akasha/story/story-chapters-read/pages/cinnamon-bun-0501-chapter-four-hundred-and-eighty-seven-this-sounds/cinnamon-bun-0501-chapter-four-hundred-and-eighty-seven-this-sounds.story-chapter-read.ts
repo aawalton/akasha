@@ -5,7 +5,7 @@ export const cinnamonBun0501ChapterFourHundredAndEightySevenThisSounds = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0501-chapter-four-hundred-and-eighty-seven-this-sounds",
   title: "Chapter Four Hundred and Eighty-Seven - This Sounds Like a Job for Broccoli's Bunch",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 501,
   ownLength: 1496,
   unitSlug: "words",

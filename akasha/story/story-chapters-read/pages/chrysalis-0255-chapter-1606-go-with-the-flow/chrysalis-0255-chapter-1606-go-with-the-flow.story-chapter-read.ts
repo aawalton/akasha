@@ -5,7 +5,7 @@ export const chrysalis0255Chapter1606GoWithTheFlow = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0255-chapter-1606-go-with-the-flow",
   title: "Chapter 1606 - Go With The Flow",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 255,
   ownLength: 836,
   ownProgress: 836,

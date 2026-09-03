@@ -5,7 +5,7 @@ export const chrysalis0224Chapter1576DealsStruckInTheDark = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0224-chapter-1576-deals-struck-in-the-dark",
   title: "Chapter 1576 - Deals Struck in the Dark",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 224,
   ownLength: 1223,
   ownProgress: 1223,

@@ -5,7 +5,7 @@ export const chrysalis0275Chapter1626FungusFight = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0275-chapter-1626-fungus-fight",
   title: "Chapter 1626 - Fungus Fight",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 275,
   ownLength: 956,
   ownProgress: 956,

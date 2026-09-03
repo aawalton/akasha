@@ -5,7 +5,7 @@ export const chrysalis0375Chapter1723WindingUpMutations = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0375-chapter-1723-winding-up-mutations",
   title: "Chapter 1723 - Winding Up Mutations",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 375,
   ownLength: 963,
   ownProgress: 963,

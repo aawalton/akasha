@@ -5,7 +5,7 @@ export const chrysalis0265Chapter1616Eruption = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0265-chapter-1616-eruption",
   title: "Chapter 1616 - Eruption",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 265,
   ownLength: 1124,
   ownProgress: 1124,

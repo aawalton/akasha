@@ -5,7 +5,7 @@ export const cinnamonBun0556ChapterFiveHundredAndFortyOneGoWestYoung = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0556-chapter-five-hundred-and-forty-one-go-west-young",
   title: "Chapter Five Hundred and Forty-One - Go West Young Bun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 556,
   ownLength: 1461,
   unitSlug: "words",

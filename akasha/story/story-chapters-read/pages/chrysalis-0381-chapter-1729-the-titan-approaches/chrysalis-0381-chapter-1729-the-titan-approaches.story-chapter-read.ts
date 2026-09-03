@@ -5,7 +5,7 @@ export const chrysalis0381Chapter1729TheTitanApproaches = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0381-chapter-1729-the-titan-approaches",
   title: "Chapter 1729 - The Titan Approaches",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 381,
   ownLength: 964,
   ownProgress: 964,

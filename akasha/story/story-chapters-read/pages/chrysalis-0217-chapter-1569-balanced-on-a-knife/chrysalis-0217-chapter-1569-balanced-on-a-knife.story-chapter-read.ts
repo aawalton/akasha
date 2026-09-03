@@ -5,7 +5,7 @@ export const chrysalis0217Chapter1569BalancedOnAKnife = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0217-chapter-1569-balanced-on-a-knife",
   title: "Chapter 1569 - Balanced on a Knife",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 217,
   ownLength: 1210,
   ownProgress: 1210,

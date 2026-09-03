@@ -5,7 +5,7 @@ export const chrysalis0332Chapter1681SlowlyWaking = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0332-chapter-1681-slowly-waking",
   title: "Chapter 1681 - Slowly Waking",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 332,
   ownLength: 1059,
   ownProgress: 1059,

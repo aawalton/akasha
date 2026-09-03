@@ -5,7 +5,7 @@ export const cinnamonBun0601ChapterFiveHundredAndEightyFiveOurPortInA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0601-chapter-five-hundred-and-eighty-five-our-port-in-a",
   title: "Chapter Five Hundred and Eighty-Five - Our Port in a Storm",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 601,
   ownLength: 1665,
   unitSlug: "words",

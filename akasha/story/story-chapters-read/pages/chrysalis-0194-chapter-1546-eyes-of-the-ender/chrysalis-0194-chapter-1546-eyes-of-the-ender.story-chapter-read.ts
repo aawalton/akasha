@@ -5,7 +5,7 @@ export const chrysalis0194Chapter1546EyesOfTheEnder = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0194-chapter-1546-eyes-of-the-ender",
   title: "Chapter 1546 - Eyes of the Ender",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 194,
   ownLength: 982,
   ownProgress: 982,

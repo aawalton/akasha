@@ -5,7 +5,7 @@ export const chrysalis0385Chapter1733UpCloseAndPersonal = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0385-chapter-1733-up-close-and-personal",
   title: "Chapter 1733 - Up Close and Personal",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 385,
   ownLength: 856,
   ownProgress: 856,

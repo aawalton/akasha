@@ -5,7 +5,7 @@ export const chrysalis0273Chapter1624SludgeArtillery = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0273-chapter-1624-sludge-artillery",
   title: "Chapter 1624 - Sludge Artillery",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 273,
   ownLength: 950,
   ownProgress: 950,

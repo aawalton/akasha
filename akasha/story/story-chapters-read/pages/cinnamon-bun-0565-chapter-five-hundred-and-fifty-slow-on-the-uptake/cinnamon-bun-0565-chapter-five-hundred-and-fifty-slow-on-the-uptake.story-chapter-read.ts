@@ -5,7 +5,7 @@ export const cinnamonBun0565ChapterFiveHundredAndFiftySlowOnTheUptake = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0565-chapter-five-hundred-and-fifty-slow-on-the-uptake",
   title: "Chapter Five Hundred and Fifty - Slow on the Uptake",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 565,
   ownLength: 1386,
   unitSlug: "words",

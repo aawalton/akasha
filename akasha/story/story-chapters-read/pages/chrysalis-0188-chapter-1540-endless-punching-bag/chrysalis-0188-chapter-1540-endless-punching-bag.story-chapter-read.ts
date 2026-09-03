@@ -5,7 +5,7 @@ export const chrysalis0188Chapter1540EndlessPunchingBag = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0188-chapter-1540-endless-punching-bag",
   title: "Chapter 1540 - Endless Punching Bag\t",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 188,
   ownLength: 908,
   ownProgress: 908,

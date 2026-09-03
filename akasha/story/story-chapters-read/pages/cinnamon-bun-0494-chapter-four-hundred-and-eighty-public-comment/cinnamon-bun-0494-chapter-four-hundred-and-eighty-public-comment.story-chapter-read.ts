@@ -5,7 +5,7 @@ export const cinnamonBun0494ChapterFourHundredAndEightyPublicComment = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0494-chapter-four-hundred-and-eighty-public-comment",
   title: "Chapter Four Hundred and Eighty - Public Comment Period",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 494,
   ownLength: 1490,
   unitSlug: "words",

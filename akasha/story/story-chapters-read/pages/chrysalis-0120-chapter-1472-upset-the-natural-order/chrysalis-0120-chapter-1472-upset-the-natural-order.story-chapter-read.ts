@@ -5,7 +5,7 @@ export const chrysalis0120Chapter1472UpsetTheNaturalOrder = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0120-chapter-1472-upset-the-natural-order",
   title: "Chapter 1472 - Upset the Natural Order",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 120,
   ownLength: 1099,
   ownProgress: 1099,

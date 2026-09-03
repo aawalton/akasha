@@ -5,7 +5,7 @@ export const chrysalis0298Chapter1649SolantSurveys = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0298-chapter-1649-solant-surveys",
   title: "Chapter 1649 - Solant Surveys",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 298,
   ownLength: 1543,
   ownProgress: 1543,

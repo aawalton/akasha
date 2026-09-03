@@ -5,7 +5,7 @@ export const cinnamonBun0615ChapterFiveHundredAndNinetyNineCardsOnThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0615-chapter-five-hundred-and-ninety-nine-cards-on-the",
   title: "Chapter Five Hundred and Ninety-Nine - Cards on the Table",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 615,
   ownLength: 2299,
   unitSlug: "words",

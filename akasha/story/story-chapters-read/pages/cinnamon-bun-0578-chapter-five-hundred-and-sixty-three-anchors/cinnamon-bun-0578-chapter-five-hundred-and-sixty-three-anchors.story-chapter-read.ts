@@ -5,7 +5,7 @@ export const cinnamonBun0578ChapterFiveHundredAndSixtyThreeAnchors = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0578-chapter-five-hundred-and-sixty-three-anchors",
   title: "Chapter Five Hundred and Sixty-Three - Anchors Aweigh",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 578,
   ownLength: 1508,
   unitSlug: "words",

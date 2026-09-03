@@ -5,7 +5,7 @@ export const chrysalis0297Chapter1648WizardWays = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0297-chapter-1648-wizard-ways",
   title: "Chapter 1648 - Wizard Ways",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 297,
   ownLength: 1020,
   ownProgress: 1020,

@@ -5,7 +5,7 @@ export const cinnamonBun0579ChapterFiveHundredAndSixtyFourDoesntLook = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0579-chapter-five-hundred-and-sixty-four-doesnt-look",
   title: "Chapter Five Hundred and Sixty-Four - Doesn't Look Like Much",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 579,
   ownLength: 1471,
   unitSlug: "words",

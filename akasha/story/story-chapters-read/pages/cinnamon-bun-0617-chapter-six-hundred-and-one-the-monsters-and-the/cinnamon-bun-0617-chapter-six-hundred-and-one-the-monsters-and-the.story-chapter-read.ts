@@ -5,7 +5,7 @@ export const cinnamonBun0617ChapterSixHundredAndOneTheMonstersAndThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0617-chapter-six-hundred-and-one-the-monsters-and-the",
   title: "Chapter Six Hundred and One - The Monsters and the Deep Blue Sky",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 617,
   ownLength: 2050,
   unitSlug: "words",

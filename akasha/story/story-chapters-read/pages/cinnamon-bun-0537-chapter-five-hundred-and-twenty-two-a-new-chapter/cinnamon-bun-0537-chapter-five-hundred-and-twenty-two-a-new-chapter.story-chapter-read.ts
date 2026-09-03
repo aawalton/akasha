@@ -5,7 +5,7 @@ export const cinnamonBun0537ChapterFiveHundredAndTwentyTwoANewChapter = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0537-chapter-five-hundred-and-twenty-two-a-new-chapter",
   title: "Chapter Five Hundred and Twenty-Two - A New Chapter in Your Life",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 537,
   ownLength: 1402,
   unitSlug: "words",

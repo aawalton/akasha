@@ -5,7 +5,7 @@ export const cinnamonBun0554ChapterFiveHundredAndThirtyNineOurSeparate = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0554-chapter-five-hundred-and-thirty-nine-our-separate",
   title: "Chapter Five Hundred and Thirty-Nine - Our Separate Ways",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 554,
   ownLength: 1578,
   unitSlug: "words",

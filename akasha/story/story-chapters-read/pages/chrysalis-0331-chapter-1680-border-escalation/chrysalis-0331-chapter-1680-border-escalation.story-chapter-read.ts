@@ -5,7 +5,7 @@ export const chrysalis0331Chapter1680BorderEscalation = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0331-chapter-1680-border-escalation",
   title: "Chapter 1680 - Border Escalation",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 331,
   ownLength: 988,
   ownProgress: 988,

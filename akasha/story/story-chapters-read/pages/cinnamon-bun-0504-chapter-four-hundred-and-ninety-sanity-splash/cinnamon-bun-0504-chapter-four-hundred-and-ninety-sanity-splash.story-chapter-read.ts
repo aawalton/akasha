@@ -5,7 +5,7 @@ export const cinnamonBun0504ChapterFourHundredAndNinetySanitySplash = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0504-chapter-four-hundred-and-ninety-sanity-splash",
   title: "Chapter Four Hundred and Ninety - Sanity Splash Damage",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 504,
   ownLength: 1449,
   unitSlug: "words",

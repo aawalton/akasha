@@ -5,7 +5,7 @@ export const chrysalis0181Chapter1533TestOfStrength = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0181-chapter-1533-test-of-strength",
   title: "Chapter 1533 - Test of Strength",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 181,
   ownLength: 884,
   ownProgress: 884,

@@ -5,7 +5,7 @@ export const chrysalis0254Chapter1605Unification = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0254-chapter-1605-unification",
   title: "Chapter 1605 - Unification",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 254,
   ownLength: 1592,
   ownProgress: 1592,

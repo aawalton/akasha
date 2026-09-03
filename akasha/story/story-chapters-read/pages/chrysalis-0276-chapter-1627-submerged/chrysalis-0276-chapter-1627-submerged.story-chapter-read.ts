@@ -5,7 +5,7 @@ export const chrysalis0276Chapter1627Submerged = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0276-chapter-1627-submerged",
   title: "Chapter 1627 - Submerged",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 276,
   ownLength: 986,
   ownProgress: 986,

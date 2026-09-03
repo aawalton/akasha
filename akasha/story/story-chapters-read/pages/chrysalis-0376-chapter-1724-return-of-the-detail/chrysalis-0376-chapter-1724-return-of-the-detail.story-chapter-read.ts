@@ -5,7 +5,7 @@ export const chrysalis0376Chapter1724ReturnOfTheDetail = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0376-chapter-1724-return-of-the-detail",
   title: "Chapter 1724 - Return of the Detail",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 376,
   ownLength: 977,
   ownProgress: 977,

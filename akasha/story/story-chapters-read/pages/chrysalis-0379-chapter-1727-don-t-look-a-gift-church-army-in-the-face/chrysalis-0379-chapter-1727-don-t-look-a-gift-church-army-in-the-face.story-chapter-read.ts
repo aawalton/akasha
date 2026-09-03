@@ -5,7 +5,7 @@ export const chrysalis0379Chapter1727DonTLookAGiftChurchArmyInTheFace = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0379-chapter-1727-don-t-look-a-gift-church-army-in-the-face",
   title: "Chapter 1727 - Don’t Look a Gift Church Army in the… Face?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 379,
   ownLength: 939,
   ownProgress: 939,

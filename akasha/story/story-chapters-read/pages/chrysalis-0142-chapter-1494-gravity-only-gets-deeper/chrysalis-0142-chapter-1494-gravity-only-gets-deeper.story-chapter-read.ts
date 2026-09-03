@@ -5,7 +5,7 @@ export const chrysalis0142Chapter1494GravityOnlyGetsDeeper = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0142-chapter-1494-gravity-only-gets-deeper",
   title: "Chapter 1494 - Gravity Only Gets Deeper",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 142,
   ownLength: 973,
   ownProgress: 973,

@@ -5,7 +5,7 @@ export const chrysalis0383Chapter1731TheGreatCommercialEmpireOfOurTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0383-chapter-1731-the-great-commercial-empire-of-our-time",
   title: "Chapter 1731 - The Great Commercial Empire of Our Time",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 383,
   ownLength: 1127,
   ownProgress: 1127,

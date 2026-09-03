@@ -5,7 +5,7 @@ export const chrysalis0368Chapter1716BeamOfTheHeavens = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0368-chapter-1716-beam-of-the-heavens",
   title: "Chapter 1716 - Beam of the Heavens",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 368,
   ownLength: 993,
   ownProgress: 993,

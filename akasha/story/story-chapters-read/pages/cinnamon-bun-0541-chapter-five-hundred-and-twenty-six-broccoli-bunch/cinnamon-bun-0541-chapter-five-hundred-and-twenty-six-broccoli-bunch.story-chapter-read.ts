@@ -6,7 +6,7 @@ export const cinnamonBun0541ChapterFiveHundredAndTwentySixBroccoliBunch = {
   slug: "cinnamon-bun-0541-chapter-five-hundred-and-twenty-six-broccoli-bunch",
   title:
     "Chapter Five Hundred and Twenty-Six - Broccoli Bunch and the Search for the Public Library",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 541,
   ownLength: 1479,
   unitSlug: "words",

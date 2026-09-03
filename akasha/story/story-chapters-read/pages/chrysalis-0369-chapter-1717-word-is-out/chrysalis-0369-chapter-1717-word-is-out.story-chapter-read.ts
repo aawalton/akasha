@@ -5,7 +5,7 @@ export const chrysalis0369Chapter1717WordIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0369-chapter-1717-word-is-out",
   title: "Chapter 1717 - Word is Out",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 369,
   ownLength: 1007,
   ownProgress: 1007,

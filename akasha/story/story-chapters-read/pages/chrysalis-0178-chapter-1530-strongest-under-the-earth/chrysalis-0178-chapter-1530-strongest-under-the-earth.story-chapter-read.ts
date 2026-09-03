@@ -5,7 +5,7 @@ export const chrysalis0178Chapter1530StrongestUnderTheEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0178-chapter-1530-strongest-under-the-earth",
   title: "Chapter 1530 - Strongest Under the Earth",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 178,
   ownLength: 1058,
   ownProgress: 1058,

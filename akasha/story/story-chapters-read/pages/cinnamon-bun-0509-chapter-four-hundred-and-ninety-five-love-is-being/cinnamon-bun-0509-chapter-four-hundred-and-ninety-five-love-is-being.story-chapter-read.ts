@@ -5,7 +5,7 @@ export const cinnamonBun0509ChapterFourHundredAndNinetyFiveLoveIsBeing = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0509-chapter-four-hundred-and-ninety-five-love-is-being",
   title: "Chapter Four Hundred and Ninety-Five - Love is Being Stupid",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 509,
   ownLength: 1455,
   unitSlug: "words",

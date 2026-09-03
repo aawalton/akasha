@@ -5,7 +5,7 @@ export const chrysalis0239Chapter1591RainOfSlugs = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0239-chapter-1591-rain-of-slugs",
   title: "Chapter 1591 - Rain of Slugs",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 239,
   ownLength: 928,
   ownProgress: 928,

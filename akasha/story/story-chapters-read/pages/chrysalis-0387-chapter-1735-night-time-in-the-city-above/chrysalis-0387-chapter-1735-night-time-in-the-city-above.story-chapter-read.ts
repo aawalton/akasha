@@ -5,7 +5,7 @@ export const chrysalis0387Chapter1735NightTimeInTheCityAbove = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0387-chapter-1735-night-time-in-the-city-above",
   title: "Chapter 1735 - Night Time in the City Above",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 387,
   ownLength: 1150,
   ownProgress: 1150,

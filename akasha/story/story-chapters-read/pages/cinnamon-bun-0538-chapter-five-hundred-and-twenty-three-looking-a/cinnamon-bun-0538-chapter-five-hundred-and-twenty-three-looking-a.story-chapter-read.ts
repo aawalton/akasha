@@ -5,7 +5,7 @@ export const cinnamonBun0538ChapterFiveHundredAndTwentyThreeLookingA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0538-chapter-five-hundred-and-twenty-three-looking-a",
   title: "Chapter Five Hundred and Twenty-Three - Looking a Gift Book in the Mouth",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 538,
   ownLength: 1461,
   unitSlug: "words",

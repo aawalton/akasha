@@ -5,7 +5,7 @@ export const chrysalis0300Chapter1651OnTheStudyOfTheChal = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0300-chapter-1651-on-the-study-of-the-chal",
   title: "Chapter 1651 - On the Study of the Chal",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 300,
   ownLength: 1094,
   ownProgress: 1094,

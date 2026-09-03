@@ -5,7 +5,7 @@ export const chrysalis0294Chapter1645TheSnailProcession = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0294-chapter-1645-the-snail-procession",
   title: "Chapter 1645 - The Snail Procession",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 294,
   ownLength: 961,
   ownProgress: 961,

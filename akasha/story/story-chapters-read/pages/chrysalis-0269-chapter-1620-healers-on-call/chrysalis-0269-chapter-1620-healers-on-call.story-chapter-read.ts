@@ -5,7 +5,7 @@ export const chrysalis0269Chapter1620HealersOnCall = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0269-chapter-1620-healers-on-call",
   title: "Chapter 1620 - Healers On Call",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 269,
   ownLength: 984,
   ownProgress: 984,

@@ -5,7 +5,7 @@ export const chrysalis0153Chapter1505IAlmostDonTWantToLook = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0153-chapter-1505-i-almost-don-t-want-to-look",
   title: "Chapter 1505 - I Almost Don’t Want to Look",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 153,
   ownLength: 931,
   ownProgress: 931,

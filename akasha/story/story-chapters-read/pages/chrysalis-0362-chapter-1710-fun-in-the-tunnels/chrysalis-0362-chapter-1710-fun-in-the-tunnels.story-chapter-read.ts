@@ -5,7 +5,7 @@ export const chrysalis0362Chapter1710FunInTheTunnels = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0362-chapter-1710-fun-in-the-tunnels",
   title: "Chapter 1710 - Fun in the Tunnels",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 362,
   ownLength: 1087,
   ownProgress: 1087,

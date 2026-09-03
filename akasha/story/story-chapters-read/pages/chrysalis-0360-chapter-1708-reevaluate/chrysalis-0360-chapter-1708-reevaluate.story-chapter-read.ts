@@ -5,7 +5,7 @@ export const chrysalis0360Chapter1708Reevaluate = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0360-chapter-1708-reevaluate",
   title: "Chapter 1708 - Reevaluate",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 360,
   ownLength: 828,
   ownProgress: 828,

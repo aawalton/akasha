@@ -5,7 +5,7 @@ export const chrysalis0146Chapter1498TheOuterShell = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0146-chapter-1498-the-outer-shell",
   title: "Chapter 1498 - The Outer Shell",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 146,
   ownLength: 963,
   ownProgress: 963,

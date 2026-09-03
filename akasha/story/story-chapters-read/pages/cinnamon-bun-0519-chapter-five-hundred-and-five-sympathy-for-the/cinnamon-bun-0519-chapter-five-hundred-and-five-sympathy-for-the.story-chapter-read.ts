@@ -5,7 +5,7 @@ export const cinnamonBun0519ChapterFiveHundredAndFiveSympathyForThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0519-chapter-five-hundred-and-five-sympathy-for-the",
   title: "Chapter Five Hundred and Five - Sympathy for the Monster",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 519,
   ownLength: 1664,
   unitSlug: "words",

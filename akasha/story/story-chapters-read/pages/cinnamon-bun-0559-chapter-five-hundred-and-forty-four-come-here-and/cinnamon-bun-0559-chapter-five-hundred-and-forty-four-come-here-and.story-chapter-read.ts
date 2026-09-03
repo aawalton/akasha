@@ -5,7 +5,7 @@ export const cinnamonBun0559ChapterFiveHundredAndFortyFourComeHereAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0559-chapter-five-hundred-and-forty-four-come-here-and",
   title: "Chapter Five Hundred and Forty-Four - Come Here and Die",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 559,
   ownLength: 1503,
   unitSlug: "words",

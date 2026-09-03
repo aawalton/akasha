@@ -5,7 +5,7 @@ export const cinnamonBun0570ChapterFiveHundredAndFiftyFiveLiveToTell = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0570-chapter-five-hundred-and-fifty-five-live-to-tell",
   title: "Chapter Five Hundred and Fifty-Five - Live to Tell the Tale",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 570,
   ownLength: 1585,
   unitSlug: "words",

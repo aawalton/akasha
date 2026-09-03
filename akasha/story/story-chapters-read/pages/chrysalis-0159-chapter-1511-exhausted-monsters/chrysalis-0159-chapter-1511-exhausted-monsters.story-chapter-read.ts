@@ -5,7 +5,7 @@ export const chrysalis0159Chapter1511ExhaustedMonsters = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0159-chapter-1511-exhausted-monsters",
   title: "Chapter 1511 - Exhausted Monsters",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 159,
   ownLength: 913,
   ownProgress: 913,

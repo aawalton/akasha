@@ -5,7 +5,7 @@ export const chrysalis0242Chapter1594SenseOfDanger = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0242-chapter-1594-sense-of-danger",
   title: "Chapter 1594 - Sense of Danger",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 242,
   ownLength: 1045,
   ownProgress: 1045,

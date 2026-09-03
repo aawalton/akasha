@@ -5,7 +5,7 @@ export const chrysalis0341Chapter1689WordsOfTheCouncil = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0341-chapter-1689-words-of-the-council",
   title: "Chapter 1689 - Words of the Council",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 341,
   ownLength: 940,
   ownProgress: 940,

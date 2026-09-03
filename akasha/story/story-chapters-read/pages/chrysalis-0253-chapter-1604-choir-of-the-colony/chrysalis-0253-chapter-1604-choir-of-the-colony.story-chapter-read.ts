@@ -5,7 +5,7 @@ export const chrysalis0253Chapter1604ChoirOfTheColony = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0253-chapter-1604-choir-of-the-colony",
   title: "Chapter 1604 - Choir of the Colony",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 253,
   ownLength: 1219,
   ownProgress: 1219,

@@ -5,7 +5,7 @@ export const chrysalis0179Chapter1531UnbreakableAbyssalSteel = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0179-chapter-1531-unbreakable-abyssal-steel",
   title: "Chapter 1531 - Unbreakable Abyssal Steel",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 179,
   ownLength: 1053,
   ownProgress: 1053,

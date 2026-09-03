@@ -5,7 +5,7 @@ export const cinnamonBun0590ChapterFiveHundredAndSeventyFourStillWaters = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0590-chapter-five-hundred-and-seventy-four-still-waters",
   title: "Chapter Five Hundred and Seventy-Four - Still Waters Run Deep",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 590,
   ownLength: 1575,
   unitSlug: "words",

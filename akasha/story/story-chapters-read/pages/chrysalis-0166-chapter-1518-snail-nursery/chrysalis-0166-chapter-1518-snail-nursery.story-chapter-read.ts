@@ -5,7 +5,7 @@ export const chrysalis0166Chapter1518SnailNursery = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0166-chapter-1518-snail-nursery",
   title: "Chapter 1518 - Snail Nursery",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 166,
   ownLength: 1016,
   ownProgress: 1016,

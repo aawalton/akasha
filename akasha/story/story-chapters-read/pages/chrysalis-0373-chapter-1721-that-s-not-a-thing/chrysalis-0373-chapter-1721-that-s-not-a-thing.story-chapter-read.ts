@@ -5,7 +5,7 @@ export const chrysalis0373Chapter1721ThatSNotAThing = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0373-chapter-1721-that-s-not-a-thing",
   title: "Chapter 1721 - That’s Not A Thing",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 373,
   ownLength: 1259,
   ownProgress: 1259,

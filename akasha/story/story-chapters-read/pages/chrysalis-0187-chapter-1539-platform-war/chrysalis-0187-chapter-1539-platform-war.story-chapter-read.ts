@@ -5,7 +5,7 @@ export const chrysalis0187Chapter1539PlatformWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0187-chapter-1539-platform-war",
   title: "Chapter 1539 - Platform War",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 187,
   ownLength: 879,
   ownProgress: 879,

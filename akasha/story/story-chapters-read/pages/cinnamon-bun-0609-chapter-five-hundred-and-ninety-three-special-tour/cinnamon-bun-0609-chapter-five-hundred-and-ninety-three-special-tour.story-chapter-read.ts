@@ -5,7 +5,7 @@ export const cinnamonBun0609ChapterFiveHundredAndNinetyThreeSpecialTour = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0609-chapter-five-hundred-and-ninety-three-special-tour",
   title: "Chapter Five Hundred and Ninety-Three - Special Tour",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 609,
   ownLength: 1493,
   unitSlug: "words",

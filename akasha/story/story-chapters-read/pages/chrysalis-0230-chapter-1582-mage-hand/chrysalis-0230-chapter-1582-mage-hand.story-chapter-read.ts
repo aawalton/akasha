@@ -5,7 +5,7 @@ export const chrysalis0230Chapter1582MageHand = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0230-chapter-1582-mage-hand",
   title: "Chapter 1582 - Mage Hand",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 230,
   ownLength: 762,
   ownProgress: 762,

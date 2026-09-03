@@ -5,7 +5,7 @@ export const chrysalis0113Chapter1465ItBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0113-chapter-1465-it-begins",
   title: "Chapter 1465 - It Begins",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 113,
   ownLength: 948,
   ownProgress: 948,

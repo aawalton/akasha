@@ -5,7 +5,7 @@ export const chrysalis0244LitrpgCon = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0244-litrpg-con",
   title: "LITRPG CON",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 244,
   ownLength: 125,
   ownProgress: 125,

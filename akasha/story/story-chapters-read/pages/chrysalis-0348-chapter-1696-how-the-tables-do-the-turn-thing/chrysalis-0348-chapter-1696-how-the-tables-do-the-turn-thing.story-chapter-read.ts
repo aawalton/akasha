@@ -5,7 +5,7 @@ export const chrysalis0348Chapter1696HowTheTablesDoTheTurnThing = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0348-chapter-1696-how-the-tables-do-the-turn-thing",
   title: "Chapter 1696 - How the Tables do the Turn Thing",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 348,
   ownLength: 827,
   ownProgress: 827,

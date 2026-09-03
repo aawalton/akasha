@@ -5,7 +5,7 @@ export const chrysalis0372Chapter1720CastingJudgement = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0372-chapter-1720-casting-judgement",
   title: "Chapter 1720 - Casting Judgement",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 372,
   ownLength: 1037,
   ownProgress: 1037,

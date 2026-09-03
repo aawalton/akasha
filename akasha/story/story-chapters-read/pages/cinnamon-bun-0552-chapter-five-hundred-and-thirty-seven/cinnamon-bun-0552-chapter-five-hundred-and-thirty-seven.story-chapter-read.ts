@@ -5,7 +5,7 @@ export const cinnamonBun0552ChapterFiveHundredAndThirtySeven = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0552-chapter-five-hundred-and-thirty-seven",
   title: "Chapter Five Hundred and Thirty-Seven - Unpublishable",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 552,
   ownLength: 1620,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0316Chapter1667BorderTensions = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0316-chapter-1667-border-tensions",
   title: "Chapter 1667 - Border Tensions",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 316,
   ownLength: 1141,
   ownProgress: 1141,

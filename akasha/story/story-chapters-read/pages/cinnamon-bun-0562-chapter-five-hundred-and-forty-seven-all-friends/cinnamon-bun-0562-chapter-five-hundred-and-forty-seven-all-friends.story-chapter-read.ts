@@ -5,7 +5,7 @@ export const cinnamonBun0562ChapterFiveHundredAndFortySevenAllFriends = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0562-chapter-five-hundred-and-forty-seven-all-friends",
   title: "Chapter Five Hundred and Forty-Seven - All Friends Forever",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 562,
   ownLength: 1502,
   unitSlug: "words",

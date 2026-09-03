@@ -5,7 +5,7 @@ export const cinnamonBun0543ChapterFiveHundredAndTwentyEightLetThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0543-chapter-five-hundred-and-twenty-eight-let-the",
   title: "Chapter Five Hundred and Twenty-Eight - Let the Record Show",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 543,
   ownLength: 1846,
   unitSlug: "words",

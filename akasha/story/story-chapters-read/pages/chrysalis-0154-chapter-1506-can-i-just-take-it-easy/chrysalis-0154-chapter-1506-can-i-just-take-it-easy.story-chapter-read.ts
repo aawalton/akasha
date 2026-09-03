@@ -5,7 +5,7 @@ export const chrysalis0154Chapter1506CanIJustTakeItEasy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0154-chapter-1506-can-i-just-take-it-easy",
   title: "Chapter 1506 - Can I… Just Take It Easy?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 154,
   ownLength: 999,
   ownProgress: 999,

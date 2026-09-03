@@ -5,7 +5,7 @@ export const cinnamonBun0614ChapterFiveHundredAndNinetyEightMyEvilPlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0614-chapter-five-hundred-and-ninety-eight-my-evil-plan",
   title: "Chapter Five Hundred and Ninety-Eight - My Evil Plan to Save the World",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 614,
   ownLength: 2038,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0550ChapterFiveHundredAndThirtyFiveAManOutOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0550-chapter-five-hundred-and-thirty-five-a-man-out-of",
   title: "Chapter Five Hundred and Thirty-Five - A Man Out of Time",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 550,
   ownLength: 1535,
   unitSlug: "words",

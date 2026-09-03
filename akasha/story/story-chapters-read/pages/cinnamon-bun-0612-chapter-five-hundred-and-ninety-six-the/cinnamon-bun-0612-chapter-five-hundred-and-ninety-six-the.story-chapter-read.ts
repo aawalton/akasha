@@ -5,7 +5,7 @@ export const cinnamonBun0612ChapterFiveHundredAndNinetySixThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0612-chapter-five-hundred-and-ninety-six-the",
   title: "Chapter Five Hundred and Ninety-Six - The Stormpiercer",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 612,
   ownLength: 1439,
   unitSlug: "words",

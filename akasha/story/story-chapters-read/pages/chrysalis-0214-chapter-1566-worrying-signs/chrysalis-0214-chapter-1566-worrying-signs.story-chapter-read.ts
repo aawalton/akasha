@@ -5,7 +5,7 @@ export const chrysalis0214Chapter1566WorryingSigns = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0214-chapter-1566-worrying-signs",
   title: "Chapter 1566 - Worrying Signs",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 214,
   ownLength: 1337,
   ownProgress: 1337,

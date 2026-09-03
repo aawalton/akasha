@@ -5,7 +5,7 @@ export const chrysalis0206Chapter1558BrilliantReports = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0206-chapter-1558-brilliant-reports",
   title: "Chapter 1558 - Brilliant Reports",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 206,
   ownLength: 1029,
   ownProgress: 1029,

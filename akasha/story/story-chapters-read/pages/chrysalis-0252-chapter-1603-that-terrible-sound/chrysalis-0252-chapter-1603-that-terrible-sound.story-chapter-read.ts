@@ -5,7 +5,7 @@ export const chrysalis0252Chapter1603ThatTerribleSound = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0252-chapter-1603-that-terrible-sound",
   title: "Chapter 1603 - That Terrible Sound",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 252,
   ownLength: 887,
   ownProgress: 887,

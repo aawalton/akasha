@@ -5,7 +5,7 @@ export const chrysalis0160Chapter1512UnexpectedVisitor = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0160-chapter-1512-unexpected-visitor",
   title: "Chapter 1512 - Unexpected Visitor",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 160,
   ownLength: 972,
   ownProgress: 972,

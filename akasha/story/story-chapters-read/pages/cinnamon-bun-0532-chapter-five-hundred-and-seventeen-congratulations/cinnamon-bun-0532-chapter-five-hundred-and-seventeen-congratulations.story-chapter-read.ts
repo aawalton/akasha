@@ -5,7 +5,7 @@ export const cinnamonBun0532ChapterFiveHundredAndSeventeenCongratulations = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0532-chapter-five-hundred-and-seventeen-congratulations",
   title: "Chapter Five Hundred and Seventeen - Congratulations are in Order",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 532,
   ownLength: 1592,
   unitSlug: "words",

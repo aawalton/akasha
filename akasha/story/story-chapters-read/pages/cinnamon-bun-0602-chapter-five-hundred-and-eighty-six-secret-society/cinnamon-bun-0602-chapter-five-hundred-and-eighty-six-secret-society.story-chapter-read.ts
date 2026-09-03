@@ -5,7 +5,7 @@ export const cinnamonBun0602ChapterFiveHundredAndEightySixSecretSociety = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0602-chapter-five-hundred-and-eighty-six-secret-society",
   title: "Chapter Five Hundred and Eighty-Six - Secret Society",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 602,
   ownLength: 1448,
   unitSlug: "words",

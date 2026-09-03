@@ -5,7 +5,7 @@ export const cinnamonBun0603ChapterFiveHundredAndEightySevenConfirmation = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0603-chapter-five-hundred-and-eighty-seven-confirmation",
   title: "Chapter Five Hundred and Eighty-Seven - Confirmation By Us",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 603,
   ownLength: 1451,
   unitSlug: "words",

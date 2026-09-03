@@ -5,7 +5,7 @@ export const chrysalis0384Chapter1732ArmyWideRumble = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0384-chapter-1732-army-wide-rumble",
   title: "Chapter 1732 - Army Wide Rumble",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 384,
   ownLength: 1010,
   ownProgress: 1010,

@@ -5,7 +5,7 @@ export const cinnamonBun0544ChapterFiveHundredAndTwentyNineIScreamYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0544-chapter-five-hundred-and-twenty-nine-i-scream-you",
   title: "Chapter Five Hundred and Twenty-Nine - I Scream, You Scream, We All Scream, For Poutine",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 544,
   ownLength: 1610,
   unitSlug: "words",

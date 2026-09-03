@@ -5,7 +5,7 @@ export const chrysalis0325Chapter1675ShakeYourMoneyMakerPt5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0325-chapter-1675-shake-your-money-maker-pt-5",
   title: "Chapter 1675 -  Shake Your Money Maker pt 5",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 325,
   ownLength: 1178,
   ownProgress: 1178,

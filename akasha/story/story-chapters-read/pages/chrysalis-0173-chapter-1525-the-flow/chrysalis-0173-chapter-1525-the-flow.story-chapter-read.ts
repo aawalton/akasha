@@ -5,7 +5,7 @@ export const chrysalis0173Chapter1525TheFlow = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0173-chapter-1525-the-flow",
   title: "Chapter 1525 - The Flow",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 173,
   ownLength: 1050,
   ownProgress: 1050,

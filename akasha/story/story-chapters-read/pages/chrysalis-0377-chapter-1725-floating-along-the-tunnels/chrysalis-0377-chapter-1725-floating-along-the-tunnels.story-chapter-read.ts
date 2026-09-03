@@ -5,7 +5,7 @@ export const chrysalis0377Chapter1725FloatingAlongTheTunnels = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0377-chapter-1725-floating-along-the-tunnels",
   title: "Chapter 1725 - Floating Along the Tunnels",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 377,
   ownLength: 898,
   ownProgress: 898,

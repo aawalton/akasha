@@ -5,7 +5,7 @@ export const chrysalis0274Chapter1625ANamelessWayOfWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0274-chapter-1625-a-nameless-way-of-war",
   title: "Chapter 1625 - A Nameless Way of War",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 274,
   ownLength: 971,
   ownProgress: 971,

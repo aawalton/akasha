@@ -5,7 +5,7 @@ export const chrysalis0361Chapter1709Judgement = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0361-chapter-1709-judgement",
   title: "Chapter 1709 - Judgement",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 361,
   ownLength: 1230,
   ownProgress: 1230,

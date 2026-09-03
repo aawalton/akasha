@@ -5,7 +5,7 @@ export const chrysalis0352Chapter1700Scolded = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0352-chapter-1700-scolded",
   title: "Chapter 1700 - Scolded",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 352,
   ownLength: 977,
   ownProgress: 977,

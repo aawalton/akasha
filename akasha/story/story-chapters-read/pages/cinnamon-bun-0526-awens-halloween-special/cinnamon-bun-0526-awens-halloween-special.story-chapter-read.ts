@@ -5,7 +5,7 @@ export const cinnamonBun0526AwensHalloweenSpecial = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0526-awens-halloween-special",
   title: "Awen's Halloween Special",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 526,
   ownLength: 1334,
   unitSlug: "words",

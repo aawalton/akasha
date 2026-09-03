@@ -5,7 +5,7 @@ export const chrysalis0245Chapter1596TheCollapsingStar = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0245-chapter-1596-the-collapsing-star",
   title: "Chapter 1596 - The Collapsing Star",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 245,
   ownLength: 1098,
   ownProgress: 1098,

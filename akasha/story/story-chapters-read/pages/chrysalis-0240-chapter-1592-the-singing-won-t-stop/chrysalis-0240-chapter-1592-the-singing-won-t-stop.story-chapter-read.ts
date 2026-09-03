@@ -5,7 +5,7 @@ export const chrysalis0240Chapter1592TheSingingWonTStop = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0240-chapter-1592-the-singing-won-t-stop",
   title: "Chapter 1592 - The Singing Won’t Stop",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 240,
   ownLength: 975,
   ownProgress: 975,

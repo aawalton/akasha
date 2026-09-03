@@ -5,7 +5,7 @@ export const chrysalis0263Chapter1614WithinTheHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0263-chapter-1614-within-the-heart",
   title: "Chapter 1614 - Within the Heart",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 263,
   ownLength: 1281,
   ownProgress: 1281,

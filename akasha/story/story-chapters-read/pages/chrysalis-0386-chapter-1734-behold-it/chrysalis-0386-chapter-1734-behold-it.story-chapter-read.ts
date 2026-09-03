@@ -5,7 +5,7 @@ export const chrysalis0386Chapter1734BeholdIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0386-chapter-1734-behold-it",
   title: "Chapter 1734 - Behold It!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 386,
   ownLength: 1114,
   ownProgress: 1114,

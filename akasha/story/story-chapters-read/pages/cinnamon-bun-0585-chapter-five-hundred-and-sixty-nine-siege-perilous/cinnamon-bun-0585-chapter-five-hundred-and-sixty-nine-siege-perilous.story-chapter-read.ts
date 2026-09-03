@@ -5,7 +5,7 @@ export const cinnamonBun0585ChapterFiveHundredAndSixtyNineSiegePerilous = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0585-chapter-five-hundred-and-sixty-nine-siege-perilous",
   title: "Chapter Five Hundred and Sixty-Nine - Siege Perilous",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 585,
   ownLength: 1453,
   unitSlug: "words",

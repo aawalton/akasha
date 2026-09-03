@@ -5,7 +5,7 @@ export const chrysalis0260Chapter1611PreparingToDepart = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0260-chapter-1611-preparing-to-depart",
   title: "Chapter 1611 - Preparing to Depart",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 260,
   ownLength: 944,
   ownProgress: 944,

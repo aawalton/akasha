@@ -5,7 +5,7 @@ export const chrysalis0189Chapter1541HatredFromTheShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0189-chapter-1541-hatred-from-the-shadows",
   title: "Chapter 1541 - Hatred from the Shadows",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 189,
   ownLength: 940,
   ownProgress: 940,

@@ -5,7 +5,7 @@ export const cinnamonBun0577ChapterFiveHundredAndSixtyTwoYearOfTheBun = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0577-chapter-five-hundred-and-sixty-two-year-of-the-bun",
   title: "Chapter Five Hundred and Sixty-Two - Year of the Bun",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 577,
   ownLength: 1478,
   unitSlug: "words",

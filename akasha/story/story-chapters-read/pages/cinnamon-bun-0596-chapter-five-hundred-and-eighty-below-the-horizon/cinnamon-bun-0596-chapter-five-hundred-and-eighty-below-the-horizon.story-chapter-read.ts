@@ -5,7 +5,7 @@ export const cinnamonBun0596ChapterFiveHundredAndEightyBelowTheHorizon = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0596-chapter-five-hundred-and-eighty-below-the-horizon",
   title: "Chapter Five Hundred and Eighty - Below the Horizon",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 596,
   ownLength: 1665,
   unitSlug: "words",

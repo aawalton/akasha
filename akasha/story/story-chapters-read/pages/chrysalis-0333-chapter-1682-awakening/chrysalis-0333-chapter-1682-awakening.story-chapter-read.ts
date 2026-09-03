@@ -5,7 +5,7 @@ export const chrysalis0333Chapter1682Awakening = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0333-chapter-1682-awakening",
   title: "Chapter 1682 - Awakening",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 333,
   ownLength: 989,
   ownProgress: 989,

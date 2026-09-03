@@ -5,7 +5,7 @@ export const cinnamonBun0595ChapterFiveHundredAndSeventyNineExperimental = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0595-chapter-five-hundred-and-seventy-nine-experimental",
   title: "Chapter Five Hundred and Seventy-Nine - Experimental Procedure",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 595,
   ownLength: 1482,
   unitSlug: "words",

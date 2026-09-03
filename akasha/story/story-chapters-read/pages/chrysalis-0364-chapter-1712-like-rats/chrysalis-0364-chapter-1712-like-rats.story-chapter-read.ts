@@ -5,7 +5,7 @@ export const chrysalis0364Chapter1712LikeRats = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0364-chapter-1712-like-rats",
   title: "Chapter 1712 - Like Rats",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 364,
   ownLength: 1026,
   ownProgress: 1026,

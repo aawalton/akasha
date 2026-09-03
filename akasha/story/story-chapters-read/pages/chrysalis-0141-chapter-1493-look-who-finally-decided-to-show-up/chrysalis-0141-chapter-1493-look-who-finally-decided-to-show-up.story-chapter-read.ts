@@ -5,7 +5,7 @@ export const chrysalis0141Chapter1493LookWhoFinallyDecidedToShowUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0141-chapter-1493-look-who-finally-decided-to-show-up",
   title: "Chapter 1493 - Look Who Finally Decided to Show Up",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 141,
   ownLength: 880,
   ownProgress: 880,

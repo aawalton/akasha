@@ -5,7 +5,7 @@ export const chrysalis0190Chapter1542PowerOfFriendship = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0190-chapter-1542-power-of-friendship",
   title: "Chapter 1542 - Power of Friendship",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 190,
   ownLength: 1038,
   ownProgress: 1038,

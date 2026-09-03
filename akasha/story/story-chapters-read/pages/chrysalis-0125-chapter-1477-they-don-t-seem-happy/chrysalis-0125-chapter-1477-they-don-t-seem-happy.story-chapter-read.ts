@@ -5,7 +5,7 @@ export const chrysalis0125Chapter1477TheyDonTSeemHappy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0125-chapter-1477-they-don-t-seem-happy",
   title: "Chapter 1477 - They Don’t Seem Happy",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 125,
   ownLength: 962,
   ownProgress: 962,

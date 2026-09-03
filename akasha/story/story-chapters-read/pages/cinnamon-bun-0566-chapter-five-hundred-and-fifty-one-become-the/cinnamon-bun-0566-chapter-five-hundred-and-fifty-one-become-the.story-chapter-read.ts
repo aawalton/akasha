@@ -5,7 +5,7 @@ export const cinnamonBun0566ChapterFiveHundredAndFiftyOneBecomeThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0566-chapter-five-hundred-and-fifty-one-become-the",
   title: "Chapter Five Hundred and Fifty-One - Become the Hunter",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 566,
   ownLength: 1573,
   unitSlug: "words",

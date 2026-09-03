@@ -5,7 +5,7 @@ export const chrysalis0349Chapter1697Captured = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0349-chapter-1697-captured",
   title: "Chapter 1697 - Captured ",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 349,
   ownLength: 1426,
   ownProgress: 1426,

@@ -5,7 +5,7 @@ export const chrysalis0116Chapter1468ReturnOfTheSnake = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0116-chapter-1468-return-of-the-snake",
   title: "Chapter 1468 - Return of the Snake",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 116,
   ownLength: 1009,
   ownProgress: 1009,

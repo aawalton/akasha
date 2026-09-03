@@ -5,7 +5,7 @@ export const cinnamonBun0507ChapterFourHundredAndNinetyThreeEffigy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0507-chapter-four-hundred-and-ninety-three-effigy",
   title: "Chapter Four Hundred and Ninety-Three - Effigy",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 507,
   ownLength: 1552,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0366Chapter1714TheShadowsAreDangerous = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0366-chapter-1714-the-shadows-are-dangerous",
   title: "Chapter 1714 - The Shadows Are Dangerous",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 366,
   ownLength: 1030,
   ownProgress: 1030,

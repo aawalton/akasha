@@ -5,7 +5,7 @@ export const cinnamonBun0568ChapterFiveHundredAndFiftyThreeMutualDebate = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0568-chapter-five-hundred-and-fifty-three-mutual-debate",
   title: "Chapter Five Hundred and Fifty-Three - Mutual Debate of Ownership Philosophy",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 568,
   ownLength: 2018,
   unitSlug: "words",

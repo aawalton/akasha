@@ -5,7 +5,7 @@ export const cinnamonBun0502ChapterFourHundredAndEightyEightGetYour = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0502-chapter-four-hundred-and-eighty-eight-get-your",
   title: "Chapter Four Hundred and Eighty-Eight - Get Your Stuff Together",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 502,
   ownLength: 1475,
   unitSlug: "words",

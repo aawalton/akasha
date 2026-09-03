@@ -5,7 +5,7 @@ export const chrysalis0136Chapter1488ALackOfSmugEnergy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0136-chapter-1488-a-lack-of-smug-energy",
   title: "Chapter 1488 - A Lack of Smug Energy",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 136,
   ownLength: 943,
   ownProgress: 943,

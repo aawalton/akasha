@@ -5,7 +5,7 @@ export const cinnamonBun0569ChapterFiveHundredAndFiftyFourEscape = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0569-chapter-five-hundred-and-fifty-four-escape",
   title: "Chapter Five Hundred and Fifty-Four - Escape Velocity",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 569,
   ownLength: 1781,
   unitSlug: "words",

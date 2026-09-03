@@ -5,7 +5,7 @@ export const cinnamonBun0592ChapterFiveHundredAndSeventySixNightParade = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0592-chapter-five-hundred-and-seventy-six-night-parade",
   title: "Chapter Five Hundred and Seventy-Six - Night Parade of Nine Protagonists",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 592,
   ownLength: 1453,
   unitSlug: "words",

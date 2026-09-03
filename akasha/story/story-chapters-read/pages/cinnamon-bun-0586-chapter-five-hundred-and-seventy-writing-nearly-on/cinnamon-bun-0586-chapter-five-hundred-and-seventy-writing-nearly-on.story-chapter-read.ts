@@ -5,7 +5,7 @@ export const cinnamonBun0586ChapterFiveHundredAndSeventyWritingNearlyOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0586-chapter-five-hundred-and-seventy-writing-nearly-on",
   title: "Chapter Five Hundred and Seventy - Writing Nearly on the Wall",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 586,
   ownLength: 1567,
   unitSlug: "words",

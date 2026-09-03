@@ -5,7 +5,7 @@ export const chrysalis0210Chapter1562DeepTribes = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0210-chapter-1562-deep-tribes",
   title: "Chapter 1562 - Deep Tribes",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 210,
   ownLength: 985,
   ownProgress: 985,

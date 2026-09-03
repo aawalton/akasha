@@ -5,7 +5,7 @@ export const chrysalis0161Chapter1513ConversationsWithMages = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0161-chapter-1513-conversations-with-mages",
   title: "Chapter 1513 - Conversations With Mages",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 161,
   ownLength: 857,
   ownProgress: 857,

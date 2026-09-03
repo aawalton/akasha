@@ -5,7 +5,7 @@ export const chrysalis0122Chapter1474OddCircumstances = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0122-chapter-1474-odd-circumstances",
   title: "Chapter 1474 - Odd Circumstances",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 122,
   ownLength: 1107,
   ownProgress: 1107,

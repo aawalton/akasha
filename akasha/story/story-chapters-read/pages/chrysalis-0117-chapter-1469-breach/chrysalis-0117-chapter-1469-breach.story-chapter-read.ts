@@ -5,7 +5,7 @@ export const chrysalis0117Chapter1469Breach = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0117-chapter-1469-breach",
   title: "Chapter 1469 - Breach",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 117,
   ownLength: 1145,
   ownProgress: 1145,

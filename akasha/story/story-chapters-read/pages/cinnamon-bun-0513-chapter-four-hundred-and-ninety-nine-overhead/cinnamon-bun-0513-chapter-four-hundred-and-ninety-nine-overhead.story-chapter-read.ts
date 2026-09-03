@@ -5,7 +5,7 @@ export const cinnamonBun0513ChapterFourHundredAndNinetyNineOverhead = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0513-chapter-four-hundred-and-ninety-nine-overhead",
   title: "Chapter Four Hundred and Ninety-Nine - Overhead Lightning",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 513,
   ownLength: 1462,
   unitSlug: "words",

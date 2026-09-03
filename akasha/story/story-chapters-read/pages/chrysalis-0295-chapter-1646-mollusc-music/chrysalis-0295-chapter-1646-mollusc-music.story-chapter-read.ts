@@ -5,7 +5,7 @@ export const chrysalis0295Chapter1646MolluscMusic = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0295-chapter-1646-mollusc-music",
   title: "Chapter 1646 - Mollusc Music",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 295,
   ownLength: 1316,
   ownProgress: 1316,

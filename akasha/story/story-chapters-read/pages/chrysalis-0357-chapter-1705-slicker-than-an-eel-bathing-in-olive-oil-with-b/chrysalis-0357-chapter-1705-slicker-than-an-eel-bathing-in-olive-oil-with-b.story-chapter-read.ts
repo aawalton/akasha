@@ -6,7 +6,7 @@ export const chrysalis0357Chapter1705SlickerThanAnEelBathingInOliveOilWithB = {
   slug: "chrysalis-0357-chapter-1705-slicker-than-an-eel-bathing-in-olive-oil-with-b",
   title:
     "Chapter 1705 - Slicker Than an Eel Bathing in Olive Oil with Buttered Soap and a Wax Body Wash",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 357,
   ownLength: 967,
   ownProgress: 967,

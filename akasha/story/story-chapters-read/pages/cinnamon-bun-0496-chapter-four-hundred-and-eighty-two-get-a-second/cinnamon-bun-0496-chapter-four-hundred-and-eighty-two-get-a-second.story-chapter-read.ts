@@ -5,7 +5,7 @@ export const cinnamonBun0496ChapterFourHundredAndEightyTwoGetASecond = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0496-chapter-four-hundred-and-eighty-two-get-a-second",
   title: "Chapter Four Hundred and Eighty-Two - Get a Second Opinion",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 496,
   ownLength: 1523,
   unitSlug: "words",

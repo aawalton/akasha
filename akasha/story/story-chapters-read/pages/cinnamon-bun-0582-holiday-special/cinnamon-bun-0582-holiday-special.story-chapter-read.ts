@@ -5,7 +5,7 @@ export const cinnamonBun0582HolidaySpecial = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0582-holiday-special",
   title: "Holiday Special",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 582,
   ownLength: 1034,
   unitSlug: "words",

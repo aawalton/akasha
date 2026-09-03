@@ -5,7 +5,7 @@ export const cinnamonBun0573ChapterFiveHundredAndFiftyEightLunchAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0573-chapter-five-hundred-and-fifty-eight-lunch-and",
   title: "Chapter Five Hundred and Fifty-Eight - Lunch and Learn",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 573,
   ownLength: 1400,
   unitSlug: "words",

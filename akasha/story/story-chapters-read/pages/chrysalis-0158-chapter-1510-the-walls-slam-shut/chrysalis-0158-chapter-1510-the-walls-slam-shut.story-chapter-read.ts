@@ -5,7 +5,7 @@ export const chrysalis0158Chapter1510TheWallsSlamShut = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0158-chapter-1510-the-walls-slam-shut",
   title: "Chapter 1510 - The Walls Slam Shut",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 158,
   ownLength: 928,
   ownProgress: 928,

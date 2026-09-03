@@ -5,7 +5,7 @@ export const chrysalis0351Chapter1699ThatWhichIsHoly = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0351-chapter-1699-that-which-is-holy",
   title: "Chapter 1699 - That Which is Holy",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 351,
   ownLength: 929,
   ownProgress: 929,

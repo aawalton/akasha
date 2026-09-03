@@ -5,7 +5,7 @@ export const cinnamonBun0555ChapterFiveHundredAndFortyLoveMatters = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0555-chapter-five-hundred-and-forty-love-matters",
   title: "Chapter Five Hundred and Forty - Love Matters",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 555,
   ownLength: 1606,
   unitSlug: "words",

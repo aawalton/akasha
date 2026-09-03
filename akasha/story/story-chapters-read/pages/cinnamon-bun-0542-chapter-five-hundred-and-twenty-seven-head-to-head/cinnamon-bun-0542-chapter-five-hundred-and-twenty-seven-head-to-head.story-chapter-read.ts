@@ -5,7 +5,7 @@ export const cinnamonBun0542ChapterFiveHundredAndTwentySevenHeadToHead = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0542-chapter-five-hundred-and-twenty-seven-head-to-head",
   title: "Chapter Five Hundred and Twenty-Seven - Head-to-Head Search Algorithm Comparison",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 542,
   ownLength: 1469,
   unitSlug: "words",

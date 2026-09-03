@@ -5,7 +5,7 @@ export const chrysalis0202Chapter1554HeatOnThePlatform = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0202-chapter-1554-heat-on-the-platform",
   title: "Chapter 1554 - Heat on the Platform",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 202,
   ownLength: 948,
   ownProgress: 948,

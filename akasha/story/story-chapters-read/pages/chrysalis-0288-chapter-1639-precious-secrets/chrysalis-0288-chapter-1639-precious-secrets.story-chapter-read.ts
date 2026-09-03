@@ -5,7 +5,7 @@ export const chrysalis0288Chapter1639PreciousSecrets = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0288-chapter-1639-precious-secrets",
   title: "Chapter 1639 - Precious Secrets",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 288,
   ownLength: 997,
   ownProgress: 997,

@@ -5,7 +5,7 @@ export const cinnamonBun0529ChapterFiveHundredAndFourteenGoldenMoment = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0529-chapter-five-hundred-and-fourteen-golden-moment",
   title: "Chapter Five Hundred and Fourteen - Golden Moment",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 529,
   ownLength: 1469,
   unitSlug: "words",

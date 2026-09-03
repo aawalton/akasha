@@ -5,7 +5,7 @@ export const chrysalis0388Chapter1736YouWerenTSupposedToDoThat = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0388-chapter-1736-you-weren-t-supposed-to-do-that",
   title: "Chapter 1736 - You Weren’t Supposed to Do That",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 388,
   ownLength: 1039,
   ownProgress: 1039,

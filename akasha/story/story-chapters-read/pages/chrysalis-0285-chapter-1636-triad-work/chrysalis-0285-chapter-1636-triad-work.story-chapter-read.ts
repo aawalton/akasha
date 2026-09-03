@@ -5,7 +5,7 @@ export const chrysalis0285Chapter1636TriadWork = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0285-chapter-1636-triad-work",
   title: "Chapter 1636 - Triad Work",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 285,
   ownLength: 972,
   ownProgress: 972,

@@ -5,7 +5,7 @@ export const chrysalis0261Chapter1612WinningTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0261-chapter-1612-winning-time",
   title: "Chapter 1612 - Winning Time",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 261,
   ownLength: 1136,
   ownProgress: 1136,

@@ -5,7 +5,7 @@ export const chrysalis0170Chapter1522ZombieSoldier = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0170-chapter-1522-zombie-soldier",
   title: "Chapter 1522 - Zombie Soldier",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 170,
   ownLength: 1054,
   ownProgress: 1054,

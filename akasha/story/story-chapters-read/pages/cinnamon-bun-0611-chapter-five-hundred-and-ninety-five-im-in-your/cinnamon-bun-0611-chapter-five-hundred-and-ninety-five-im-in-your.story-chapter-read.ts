@@ -5,7 +5,7 @@ export const cinnamonBun0611ChapterFiveHundredAndNinetyFiveImInYour = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0611-chapter-five-hundred-and-ninety-five-im-in-your",
   title: "Chapter Five Hundred and Ninety-Five - I'm In Your Base Stealing Your Base",
-  partOfSlugs: ["cinnamon-bun"],
+  partOfSlugs: ["story-read/cinnamon-bun"],
   position: 611,
   ownLength: 1536,
   unitSlug: "words",

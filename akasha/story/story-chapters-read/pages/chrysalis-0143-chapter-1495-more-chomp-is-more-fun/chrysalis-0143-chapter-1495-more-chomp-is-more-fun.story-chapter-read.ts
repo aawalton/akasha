@@ -5,7 +5,7 @@ export const chrysalis0143Chapter1495MoreChompIsMoreFun = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0143-chapter-1495-more-chomp-is-more-fun",
   title: "Chapter 1495 - More Chomp is More Fun",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 143,
   ownLength: 1079,
   ownProgress: 1079,

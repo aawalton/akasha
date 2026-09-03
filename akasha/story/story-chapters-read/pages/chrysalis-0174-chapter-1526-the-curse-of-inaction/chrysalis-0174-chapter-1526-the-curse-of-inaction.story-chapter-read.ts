@@ -5,7 +5,7 @@ export const chrysalis0174Chapter1526TheCurseOfInaction = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0174-chapter-1526-the-curse-of-inaction",
   title: "Chapter 1526 - The Curse of Inaction",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 174,
   ownLength: 1005,
   ownProgress: 1005,
