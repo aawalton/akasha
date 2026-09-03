@@ -2,7 +2,7 @@
 export const summary = "Download every photo from an iCloud shared album to disk"
 
 import { mkdir } from "node:fs/promises"
-import type { PhotoAsset } from "@media/cli/media/pull-icloud-core"
+import type { PhotoAsset } from "@akasha/icloud-photos/album-pulling"
 import {
   buildQueryRequest,
   buildResolveRequest,
@@ -12,7 +12,7 @@ import {
   parseResolveResponse,
   parseShareToken,
   resolveOutputDir,
-} from "@media/cli/media/pull-icloud-core"
+} from "@akasha/icloud-photos/album-pulling"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

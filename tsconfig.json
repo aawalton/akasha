@@ -94,9 +94,6 @@
       "path": "./collections/exercises"
     },
     {
-      "path": "./media/cli"
-    },
-    {
       "path": "./infra/talos"
     },
     {
