@@ -5,7 +5,6 @@
   "workspaces": [
     "akasha/**",
     "readouts",
-    "shared/vscode-typings",
     "tools/lib",
     "tools/ops"
   ],
