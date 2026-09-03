@@ -5,7 +5,7 @@ export const motherOfLearning002323LightingTheFuse = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0023-23-lighting-the-fuse",
   title: "23. Lighting the Fuse",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 23,
   ownLength: 7085,
   ownProgress: 7085,

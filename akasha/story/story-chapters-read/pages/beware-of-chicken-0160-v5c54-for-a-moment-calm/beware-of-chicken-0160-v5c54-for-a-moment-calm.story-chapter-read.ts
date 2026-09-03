@@ -5,7 +5,7 @@ export const bewareOfChicken0160V5c54ForAMomentCalm = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0160-v5c54-for-a-moment-calm",
   title: "v5c54: For a Moment, Calm",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 160,
   ownLength: 2605,
   ownProgress: 2605,

@@ -5,7 +5,7 @@ export const endsOfMagic0022Chapter7ADutifulDeparture = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0022-chapter-7-a-dutiful-departure",
   title: "Chapter 7: A Dutiful Departure",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 22,
   ownLength: 2905,
   ownProgress: 2905,

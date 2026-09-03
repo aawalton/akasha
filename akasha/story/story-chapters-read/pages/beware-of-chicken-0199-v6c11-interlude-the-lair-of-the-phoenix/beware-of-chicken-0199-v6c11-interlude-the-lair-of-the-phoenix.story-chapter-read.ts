@@ -5,7 +5,7 @@ export const bewareOfChicken0199V6c11InterludeTheLairOfThePhoenix = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0199-v6c11-interlude-the-lair-of-the-phoenix",
   title: "v6c11: Interlude: The Lair of the Phoenix",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 199,
   ownLength: 2467,
   ownProgress: 2467,

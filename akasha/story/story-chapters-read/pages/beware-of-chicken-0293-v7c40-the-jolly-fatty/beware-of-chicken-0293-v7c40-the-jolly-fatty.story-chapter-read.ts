@@ -5,7 +5,7 @@ export const bewareOfChicken0293V7c40TheJollyFatty = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0293-v7c40-the-jolly-fatty",
   title: "v7c40: The Jolly Fatty",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 293,
   ownLength: 2020,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0286Chapter272Honeymoon = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0286-chapter-272-honeymoon",
   title: "Chapter 272 Honeymoon",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 286,
   ownLength: 1588,
   ownProgress: 1588,

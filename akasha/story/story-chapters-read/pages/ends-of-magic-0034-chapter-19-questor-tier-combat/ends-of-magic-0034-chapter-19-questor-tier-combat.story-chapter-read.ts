@@ -5,7 +5,7 @@ export const endsOfMagic0034Chapter19QuestorTierCombat = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0034-chapter-19-questor-tier-combat",
   title: "Chapter 19: Questor-Tier Combat",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 34,
   ownLength: 2808,
   ownProgress: 2808,

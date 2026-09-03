@@ -5,7 +5,7 @@ export const motherOfLearning00011GoodMorningBrother = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0001-1-good-morning-brother",
   title: "1. Good Morning Brother",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 1,
   ownLength: 7617,
   ownProgress: 7617,

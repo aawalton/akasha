@@ -5,7 +5,7 @@ export const bewareOfChicken0155V5c49TheMostReliableSeniorBrother = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0155-v5c49-the-most-reliable-senior-brother",
   title: "v5c49: The Most Reliable Senior Brother",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 155,
   ownLength: 1726,
   ownProgress: 1726,

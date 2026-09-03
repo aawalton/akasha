@@ -5,7 +5,7 @@ export const bewareOfChicken0289V7c36SowTheSeeds = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0289-v7c36-sow-the-seeds",
   title: "v7c36: Sow the Seeds",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 289,
   ownLength: 2341,
   unitSlug: "words",

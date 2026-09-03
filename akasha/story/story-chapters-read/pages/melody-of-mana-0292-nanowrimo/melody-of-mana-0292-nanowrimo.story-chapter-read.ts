@@ -5,7 +5,7 @@ export const melodyOfMana0292Nanowrimo = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0292-nanowrimo",
   title: "NaNoWriMo",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 292,
   ownLength: 177,
   ownProgress: 177,

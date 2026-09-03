@@ -5,7 +5,7 @@ export const bewareOfChicken0328V7v75TheStepsMayStopButTheFootprintsRemain = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0328-v7v75-the-steps-may-stop-but-the-footprints-remain",
   title: "v7v75: The Steps May Stop, but the Footprints Remain",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 328,
   ownLength: 1892,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const endsOfMagic0049Chapter34ExcursionUntoRuin = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0049-chapter-34-excursion-unto-ruin",
   title: "Chapter 34:  Excursion unto Ruin",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 49,
   ownLength: 2913,
   ownProgress: 2913,

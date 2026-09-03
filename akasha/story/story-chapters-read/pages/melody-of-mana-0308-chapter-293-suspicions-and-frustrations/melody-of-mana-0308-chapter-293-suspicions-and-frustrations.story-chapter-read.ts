@@ -5,7 +5,7 @@ export const melodyOfMana0308Chapter293SuspicionsAndFrustrations = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0308-chapter-293-suspicions-and-frustrations",
   title: "Chapter 293 Suspicions and Frustrations",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 308,
   ownLength: 1310,
   ownProgress: 1310,

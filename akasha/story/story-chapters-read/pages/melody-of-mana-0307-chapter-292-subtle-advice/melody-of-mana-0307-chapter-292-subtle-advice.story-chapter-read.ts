@@ -5,7 +5,7 @@ export const melodyOfMana0307Chapter292SubtleAdvice = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0307-chapter-292-subtle-advice",
   title: "Chapter 292 Subtle Advice",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 307,
   ownLength: 1716,
   ownProgress: 1716,

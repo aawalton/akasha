@@ -5,7 +5,7 @@ export const motherOfLearning003535MistakesHaveBeenMade = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0035-35-mistakes-have-been-made",
   title: "35. Mistakes Have Been Made",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 35,
   ownLength: 7080,
   ownProgress: 7080,

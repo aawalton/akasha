@@ -5,7 +5,7 @@ export const bewareOfChicken0212V6c24AManyFacetedJewel = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0212-v6c24-a-many-faceted-jewel",
   title: "v6c24: A Many Faceted Jewel",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 212,
   ownLength: 2076,
   ownProgress: 2076,

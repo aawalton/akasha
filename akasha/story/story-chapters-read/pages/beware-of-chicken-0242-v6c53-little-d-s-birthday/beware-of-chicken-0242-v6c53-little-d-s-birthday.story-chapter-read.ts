@@ -5,7 +5,7 @@ export const bewareOfChicken0242V6c53LittleDSBirthday = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0242-v6c53-little-d-s-birthday",
   title: "v6c53: Little D's Birthday",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 242,
   ownLength: 1723,
   ownProgress: 1723,

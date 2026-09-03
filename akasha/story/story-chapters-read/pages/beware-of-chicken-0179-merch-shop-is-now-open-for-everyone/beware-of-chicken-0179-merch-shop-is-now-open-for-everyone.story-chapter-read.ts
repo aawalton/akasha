@@ -5,7 +5,7 @@ export const bewareOfChicken0179MerchShopIsNowOpenForEveryone = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0179-merch-shop-is-now-open-for-everyone",
   title: "Merch Shop is now open for everyone!",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 179,
   ownLength: 95,
   ownProgress: 95,

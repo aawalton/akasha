@@ -5,7 +5,7 @@ export const melodyOfMana0297Chapter282StormAndSea = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0297-chapter-282-storm-and-sea",
   title: "Chapter 282 Storm and Sea",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 297,
   ownLength: 1627,
   ownProgress: 1627,

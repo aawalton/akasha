@@ -5,7 +5,7 @@ export const bewareOfChicken0182V5c72TheScouringOfTheNorth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0182-v5c72-the-scouring-of-the-north",
   title: "v5c72: The Scouring of the North",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 182,
   ownLength: 3202,
   ownProgress: 3202,

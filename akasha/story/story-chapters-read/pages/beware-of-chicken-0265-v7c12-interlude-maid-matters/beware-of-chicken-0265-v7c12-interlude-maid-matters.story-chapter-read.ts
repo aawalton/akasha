@@ -5,7 +5,7 @@ export const bewareOfChicken0265V7c12InterludeMaidMatters = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0265-v7c12-interlude-maid-matters",
   title: "v7c12: Interlude: Maid Matters",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 265,
   ownLength: 2105,
   ownProgress: 2105,

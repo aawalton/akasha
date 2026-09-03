@@ -5,7 +5,7 @@ export const melodyOfMana0282Chapter268Halfway = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0282-chapter-268-halfway",
   title: "Chapter 268 Halfway",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 282,
   ownLength: 1195,
   ownProgress: 1195,

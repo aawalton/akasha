@@ -5,7 +5,7 @@ export const defianceOfTheFall0087Chapter1408HistoryRepeatingItself = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0087-chapter-1408-history-repeating-itself",
   title: "Chapter 1,408 - History Repeating Itself",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 87,
   ownLength: 2989,
   unitSlug: "words",

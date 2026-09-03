@@ -5,7 +5,7 @@ export const bewareOfChicken0267V7c14RustingIron = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0267-v7c14-rusting-iron",
   title: "v7c14: Rusting Iron",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 267,
   ownLength: 3247,
   ownProgress: 3247,

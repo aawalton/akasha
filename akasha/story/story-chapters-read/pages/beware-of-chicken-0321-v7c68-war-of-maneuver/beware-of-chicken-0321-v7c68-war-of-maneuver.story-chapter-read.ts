@@ -5,7 +5,7 @@ export const bewareOfChicken0321V7c68WarOfManeuver = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0321-v7c68-war-of-maneuver",
   title: "v7c68: War of Maneuver",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 321,
   ownLength: 3101,
   unitSlug: "words",

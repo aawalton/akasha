@@ -5,7 +5,7 @@ export const defianceOfTheFall0089Chapter1410EmergentPool = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0089-chapter-1410-emergent-pool",
   title: "Chapter 1,410 - Emergent Pool",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 89,
   ownLength: 2816,
   unitSlug: "words",

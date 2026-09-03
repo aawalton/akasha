@@ -5,7 +5,7 @@ export const bewareOfChicken0196V6c8BrightAndEarly = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0196-v6c8-bright-and-early",
   title: "v6c8: Bright and Early",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 196,
   ownLength: 1880,
   ownProgress: 1880,

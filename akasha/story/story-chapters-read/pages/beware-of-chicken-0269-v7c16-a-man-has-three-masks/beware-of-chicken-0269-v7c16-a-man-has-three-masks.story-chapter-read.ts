@@ -5,7 +5,7 @@ export const bewareOfChicken0269V7c16AManHasThreeMasks = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0269-v7c16-a-man-has-three-masks",
   title: "v7c16: A Man has Three Masks",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 269,
   ownLength: 3254,
   ownProgress: 3254,

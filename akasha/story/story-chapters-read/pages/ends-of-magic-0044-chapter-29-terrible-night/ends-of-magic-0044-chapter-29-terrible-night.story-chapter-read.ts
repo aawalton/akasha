@@ -5,7 +5,7 @@ export const endsOfMagic0044Chapter29TerribleNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0044-chapter-29-terrible-night",
   title: "Chapter 29: Terrible Night",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 44,
   ownLength: 2730,
   ownProgress: 2730,

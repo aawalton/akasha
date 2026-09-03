@@ -5,7 +5,7 @@ export const bewareOfChicken0224V6c35MessyMail = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0224-v6c35-messy-mail",
   title: "v6c35: Messy Mail",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 224,
   ownLength: 2125,
   ownProgress: 2125,

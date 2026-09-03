@@ -5,7 +5,7 @@ export const bewareOfChicken0327V7c74DustAndRebirth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0327-v7c74-dust-and-rebirth",
   title: "v7c74: Dust and Rebirth",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 327,
   ownLength: 2733,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0270V7c17IronChefs = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0270-v7c17-iron-chefs",
   title: "v7c17: Iron Chefs",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 270,
   ownLength: 1872,
   ownProgress: 1872,

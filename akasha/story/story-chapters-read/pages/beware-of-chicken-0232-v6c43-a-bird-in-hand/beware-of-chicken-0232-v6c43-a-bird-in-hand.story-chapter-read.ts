@@ -5,7 +5,7 @@ export const bewareOfChicken0232V6c43ABirdInHand = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0232-v6c43-a-bird-in-hand",
   title: "v6c43: A Bird in Hand",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 232,
   ownLength: 1955,
   ownProgress: 1955,

@@ -5,7 +5,7 @@ export const bewareOfChicken0209V6c21SouthOfThePineBelt = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0209-v6c21-south-of-the-pine-belt",
   title: "v6c21: South of the Pine Belt",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 209,
   ownLength: 2129,
   ownProgress: 2129,

@@ -5,7 +5,7 @@ export const bewareOfChicken0151V5c45CrackedButUnbroken = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0151-v5c45-cracked-but-unbroken",
   title: "v5c45: Cracked, but Unbroken",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 151,
   ownLength: 3208,
   ownProgress: 3208,

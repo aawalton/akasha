@@ -5,7 +5,7 @@ export const endsOfMagic0053Chapter38RecognitionOfHeroes = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0053-chapter-38-recognition-of-heroes",
   title: "Chapter 38: Recognition of Heroes",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 53,
   ownLength: 2898,
   ownProgress: 2898,

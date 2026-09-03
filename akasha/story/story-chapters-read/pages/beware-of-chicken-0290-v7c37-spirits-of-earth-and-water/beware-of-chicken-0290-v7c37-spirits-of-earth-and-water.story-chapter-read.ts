@@ -5,7 +5,7 @@ export const bewareOfChicken0290V7c37SpiritsOfEarthAndWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0290-v7c37-spirits-of-earth-and-water",
   title: "v7c37: Spirits of Earth and Water",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 290,
   ownLength: 2447,
   unitSlug: "words",

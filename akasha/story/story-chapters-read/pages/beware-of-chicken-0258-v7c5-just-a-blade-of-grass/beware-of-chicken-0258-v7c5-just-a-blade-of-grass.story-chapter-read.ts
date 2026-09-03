@@ -5,7 +5,7 @@ export const bewareOfChicken0258V7c5JustABladeOfGrass = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0258-v7c5-just-a-blade-of-grass",
   title: "v7c5: Just a Blade of Grass",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 258,
   ownLength: 1907,
   ownProgress: 1907,

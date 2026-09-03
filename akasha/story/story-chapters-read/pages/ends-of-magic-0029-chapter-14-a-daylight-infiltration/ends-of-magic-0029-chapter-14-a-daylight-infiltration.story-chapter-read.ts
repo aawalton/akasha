@@ -5,7 +5,7 @@ export const endsOfMagic0029Chapter14ADaylightInfiltration = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0029-chapter-14-a-daylight-infiltration",
   title: "Chapter 14: A Daylight Infiltration",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 29,
   ownLength: 2688,
   ownProgress: 2688,

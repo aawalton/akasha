@@ -5,7 +5,7 @@ export const motherOfLearning003939SuspiciousCoincidences = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0039-39-suspicious-coincidences",
   title: "39. Suspicious Coincidences",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 39,
   ownLength: 8616,
   ownProgress: 8616,

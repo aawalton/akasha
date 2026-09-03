@@ -5,7 +5,7 @@ export const bewareOfChicken0340V7c87EndOfVolumeRoadsStretchingToTheHorizon = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0340-v7c87-end-of-volume-roads-stretching-to-the-horizon",
   title: "v7c87 END of volume: Roads, Stretching to the Horizon",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 340,
   ownLength: 3406,
   unitSlug: "words",

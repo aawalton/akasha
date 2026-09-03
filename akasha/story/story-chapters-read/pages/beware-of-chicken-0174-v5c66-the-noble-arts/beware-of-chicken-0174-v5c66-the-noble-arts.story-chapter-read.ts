@@ -5,7 +5,7 @@ export const bewareOfChicken0174V5c66TheNobleArts = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0174-v5c66-the-noble-arts",
   title: "v5c66: The Noble Arts",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 174,
   ownLength: 2333,
   ownProgress: 2333,

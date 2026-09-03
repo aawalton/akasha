@@ -5,7 +5,7 @@ export const bewareOfChicken0231V6c42IceHeartTreaty = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0231-v6c42-ice-heart-treaty",
   title: "v6c42: Ice Heart Treaty",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 231,
   ownLength: 2162,
   ownProgress: 2162,

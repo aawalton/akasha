@@ -5,7 +5,7 @@ export const bewareOfChicken0256V7c3SteamAndGlass = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0256-v7c3-steam-and-glass",
   title: "v7c3: Steam and Glass",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 256,
   ownLength: 2767,
   ownProgress: 2767,

@@ -5,7 +5,7 @@ export const bewareOfChicken0205V6c17TheForgingOfABlade = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0205-v6c17-the-forging-of-a-blade",
   title: "v6c17: The Forging of a Blade",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 205,
   ownLength: 3154,
   ownProgress: 3154,

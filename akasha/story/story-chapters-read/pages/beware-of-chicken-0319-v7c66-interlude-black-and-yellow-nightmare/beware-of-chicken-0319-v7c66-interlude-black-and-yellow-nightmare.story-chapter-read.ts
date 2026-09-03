@@ -5,7 +5,7 @@ export const bewareOfChicken0319V7c66InterludeBlackAndYellowNightmare = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0319-v7c66-interlude-black-and-yellow-nightmare",
   title: "v7c66: Interlude: Black and Yellow Nightmare",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 319,
   ownLength: 3762,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const endsOfMagic0007Books14OnAmazon = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0007-books-1-4-on-amazon",
   title: "Books 1-4 on Amazon!",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 7,
   ownLength: 645,
   ownProgress: 645,

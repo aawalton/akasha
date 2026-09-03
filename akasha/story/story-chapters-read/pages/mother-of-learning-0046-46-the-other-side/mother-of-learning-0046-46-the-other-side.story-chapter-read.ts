@@ -5,7 +5,7 @@ export const motherOfLearning004646TheOtherSide = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0046-46-the-other-side",
   title: "46. The Other Side",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 46,
   ownLength: 7264,
   ownProgress: 7264,

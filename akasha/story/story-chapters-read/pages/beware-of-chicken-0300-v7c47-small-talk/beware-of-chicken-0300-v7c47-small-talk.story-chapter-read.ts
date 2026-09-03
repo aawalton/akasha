@@ -5,7 +5,7 @@ export const bewareOfChicken0300V7c47SmallTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0300-v7c47-small-talk",
   title: "v7c47: Small Talk",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 300,
   ownLength: 2186,
   unitSlug: "words",

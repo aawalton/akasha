@@ -5,7 +5,7 @@ export const endsOfMagic0041Chapter26ALongDistanceChase = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0041-chapter-26-a-long-distance-chase",
   title: "Chapter 26: A long-distance chase",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 41,
   ownLength: 2652,
   ownProgress: 2652,

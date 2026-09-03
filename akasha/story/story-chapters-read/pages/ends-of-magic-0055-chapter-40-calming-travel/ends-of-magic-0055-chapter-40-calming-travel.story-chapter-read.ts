@@ -5,7 +5,7 @@ export const endsOfMagic0055Chapter40CalmingTravel = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0055-chapter-40-calming-travel",
   title: "Chapter 40: Calming Travel",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 55,
   ownLength: 2879,
   ownProgress: 2879,

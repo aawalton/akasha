@@ -5,7 +5,7 @@ export const melodyOfMana0261Chapter247RebelBase = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0261-chapter-247-rebel-base",
   title: "Chapter 247 Rebel Base",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 261,
   ownLength: 1664,
   ownProgress: 1664,

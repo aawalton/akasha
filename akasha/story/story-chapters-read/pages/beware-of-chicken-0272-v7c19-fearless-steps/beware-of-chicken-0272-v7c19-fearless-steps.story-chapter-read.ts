@@ -5,7 +5,7 @@ export const bewareOfChicken0272V7c19FearlessSteps = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0272-v7c19-fearless-steps",
   title: "v7c19: Fearless Steps",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 272,
   ownLength: 3366,
   ownProgress: 3366,

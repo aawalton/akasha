@@ -5,7 +5,7 @@ export const endsOfMagic0006Chapter6Escape = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0006-chapter-6-escape",
   title: "Chapter 6 Escape?",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 6,
   ownLength: 2181,
   ownProgress: 2181,

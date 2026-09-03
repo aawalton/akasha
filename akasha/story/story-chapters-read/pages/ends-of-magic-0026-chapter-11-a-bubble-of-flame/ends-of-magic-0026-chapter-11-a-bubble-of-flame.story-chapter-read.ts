@@ -5,7 +5,7 @@ export const endsOfMagic0026Chapter11ABubbleOfFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0026-chapter-11-a-bubble-of-flame",
   title: "Chapter 11: A Bubble of Flame",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 26,
   ownLength: 3051,
   ownProgress: 3051,

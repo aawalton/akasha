@@ -5,7 +5,7 @@ export const melodyOfMana0313Chapter298AtriumBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0313-chapter-298-atrium-battle",
   title: "Chapter 298 Atrium Battle",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 313,
   ownLength: 1522,
   ownProgress: 1522,

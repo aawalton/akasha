@@ -5,7 +5,7 @@ export const endsOfMagic0056Chapter41AContinentOfLegend = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0056-chapter-41-a-continent-of-legend",
   title: "Chapter 41: A Continent of Legend",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 56,
   ownLength: 3175,
   ownProgress: 3175,

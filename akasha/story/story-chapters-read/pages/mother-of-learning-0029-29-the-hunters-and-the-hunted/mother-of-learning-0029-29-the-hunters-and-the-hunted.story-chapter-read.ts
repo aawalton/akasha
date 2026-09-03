@@ -5,7 +5,7 @@ export const motherOfLearning002929TheHuntersAndTheHunted = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0029-29-the-hunters-and-the-hunted",
   title: "29. The Hunters and the Hunted",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 29,
   ownLength: 6262,
   ownProgress: 6262,

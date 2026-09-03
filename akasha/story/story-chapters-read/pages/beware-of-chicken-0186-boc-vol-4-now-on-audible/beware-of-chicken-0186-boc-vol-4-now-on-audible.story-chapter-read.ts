@@ -5,7 +5,7 @@ export const bewareOfChicken0186BocVol4NowOnAudible = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0186-boc-vol-4-now-on-audible",
   title: "BOC VOl 4 Now on Audible!",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 186,
   ownLength: 71,
   ownProgress: 71,

@@ -5,7 +5,7 @@ export const bewareOfChicken0316V7c63MajesticReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0316-v7c63-majestic-return",
   title: "v7c63: Majestic Return",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 316,
   ownLength: 2008,
   unitSlug: "words",

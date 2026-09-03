@@ -5,7 +5,7 @@ export const endsOfMagic0025Chapter10DestructiveInsights = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0025-chapter-10-destructive-insights",
   title: "Chapter 10: Destructive Insights",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 25,
   ownLength: 3432,
   ownProgress: 3432,

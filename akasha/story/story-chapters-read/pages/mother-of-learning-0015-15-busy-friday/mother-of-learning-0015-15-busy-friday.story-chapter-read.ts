@@ -5,7 +5,7 @@ export const motherOfLearning001515BusyFriday = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0015-15-busy-friday",
   title: "15. Busy Friday",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 15,
   ownLength: 5589,
   ownProgress: 5589,

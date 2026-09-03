@@ -5,7 +5,7 @@ export const endsOfMagic0036Chapter21ConversationOnTheMove = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0036-chapter-21-conversation-on-the-move",
   title: "Chapter 21: Conversation on the Move",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 36,
   ownLength: 2898,
   ownProgress: 2898,

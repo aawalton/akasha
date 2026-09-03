@@ -5,7 +5,7 @@ export const bewareOfChicken0176V5c67ThisTooShallPass = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0176-v5c67-this-too-shall-pass",
   title: "v5c67: This Too Shall Pass",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 176,
   ownLength: 2481,
   ownProgress: 2481,

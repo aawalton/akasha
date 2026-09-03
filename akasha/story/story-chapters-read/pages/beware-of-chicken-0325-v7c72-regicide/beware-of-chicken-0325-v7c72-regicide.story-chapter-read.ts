@@ -5,7 +5,7 @@ export const bewareOfChicken0325V7c72Regicide = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0325-v7c72-regicide",
   title: "v7c72: Regicide",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 325,
   ownLength: 2185,
   unitSlug: "words",

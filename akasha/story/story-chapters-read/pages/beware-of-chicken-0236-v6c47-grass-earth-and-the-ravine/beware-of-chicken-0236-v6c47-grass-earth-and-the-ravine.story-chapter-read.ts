@@ -5,7 +5,7 @@ export const bewareOfChicken0236V6c47GrassEarthAndTheRavine = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0236-v6c47-grass-earth-and-the-ravine",
   title: "v6c47: Grass, Earth, and the Ravine.",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 236,
   ownLength: 2540,
   ownProgress: 2540,

@@ -5,7 +5,7 @@ export const defianceOfTheFall0110Chapter1430Mummy = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0110-chapter-1430-mummy",
   title: "Chapter 1,430 - Mummy",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 110,
   ownLength: 3195,
   unitSlug: "words",

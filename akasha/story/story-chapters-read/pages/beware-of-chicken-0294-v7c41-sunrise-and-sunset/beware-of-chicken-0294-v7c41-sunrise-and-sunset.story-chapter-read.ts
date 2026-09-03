@@ -5,7 +5,7 @@ export const bewareOfChicken0294V7c41SunriseAndSunset = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0294-v7c41-sunrise-and-sunset",
   title: "v7c41: Sunrise and Sunset",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 294,
   ownLength: 2266,
   unitSlug: "words",

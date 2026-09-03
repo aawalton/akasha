@@ -5,7 +5,7 @@ export const bewareOfChicken0235V6c46SeniorBrotherSDayAtTheOffice = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0235-v6c46-senior-brother-s-day-at-the-office",
   title: "v6c46: Senior Brother's Day at the Office",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 235,
   ownLength: 3348,
   ownProgress: 3348,

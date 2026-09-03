@@ -5,7 +5,7 @@ export const endsOfMagic0019Chapter4ABraceOfTutors = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0019-chapter-4-a-brace-of-tutors",
   title: "Chapter 4: A Brace of Tutors",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 19,
   ownLength: 2799,
   ownProgress: 2799,

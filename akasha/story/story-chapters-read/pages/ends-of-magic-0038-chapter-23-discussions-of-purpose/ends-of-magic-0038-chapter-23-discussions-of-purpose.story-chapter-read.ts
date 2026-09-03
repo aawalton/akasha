@@ -5,7 +5,7 @@ export const endsOfMagic0038Chapter23DiscussionsOfPurpose = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0038-chapter-23-discussions-of-purpose",
   title: "Chapter 23: Discussions of Purpose",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 38,
   ownLength: 3128,
   ownProgress: 3128,

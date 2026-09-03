@@ -5,7 +5,7 @@ export const defianceOfTheFall0119Chapter1439DimensionalWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0119-chapter-1439-dimensional-war",
   title: "Chapter 1,439 - Dimensional War",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 119,
   ownLength: 3092,
   unitSlug: "words",

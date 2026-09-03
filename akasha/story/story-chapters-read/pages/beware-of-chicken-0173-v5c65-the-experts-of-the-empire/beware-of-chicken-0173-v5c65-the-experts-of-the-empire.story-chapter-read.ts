@@ -5,7 +5,7 @@ export const bewareOfChicken0173V5c65TheExpertsOfTheEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0173-v5c65-the-experts-of-the-empire",
   title: "v5c65: The Experts of the Empire",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 173,
   ownLength: 1778,
   ownProgress: 1778,

@@ -5,7 +5,7 @@ export const motherOfLearning001212SoulWeb = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0012-12-soul-web",
   title: "12. Soul Web",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 12,
   ownLength: 6946,
   ownProgress: 6946,

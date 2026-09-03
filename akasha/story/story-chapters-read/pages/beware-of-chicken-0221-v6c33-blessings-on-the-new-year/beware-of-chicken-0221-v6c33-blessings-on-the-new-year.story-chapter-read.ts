@@ -5,7 +5,7 @@ export const bewareOfChicken0221V6c33BlessingsOnTheNewYear = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0221-v6c33-blessings-on-the-new-year",
   title: "v6c33: Blessings on the New Year",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 221,
   ownLength: 1815,
   ownProgress: 1815,

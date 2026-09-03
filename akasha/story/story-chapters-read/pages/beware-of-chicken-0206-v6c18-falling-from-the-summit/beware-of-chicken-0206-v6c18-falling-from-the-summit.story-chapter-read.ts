@@ -5,7 +5,7 @@ export const bewareOfChicken0206V6c18FallingFromTheSummit = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0206-v6c18-falling-from-the-summit",
   title: "v6c18: Falling from the Summit",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 206,
   ownLength: 3732,
   ownProgress: 3732,

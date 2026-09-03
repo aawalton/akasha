@@ -5,7 +5,7 @@ export const endsOfMagic0014Book5Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0014-book-5-epilogue",
   title: "Book 5 Epilogue",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 14,
   ownLength: 2322,
   ownProgress: 2322,

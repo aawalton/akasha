@@ -5,7 +5,7 @@ export const bewareOfChicken0296V7c43ATaoTale = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0296-v7c43-a-tao-tale",
   title: "v7c43: A Tao Tale",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 296,
   ownLength: 2690,
   unitSlug: "words",

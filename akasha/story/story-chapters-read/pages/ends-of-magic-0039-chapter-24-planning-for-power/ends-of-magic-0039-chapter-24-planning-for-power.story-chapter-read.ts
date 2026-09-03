@@ -5,7 +5,7 @@ export const endsOfMagic0039Chapter24PlanningForPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0039-chapter-24-planning-for-power",
   title: "Chapter 24: Planning for Power",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 39,
   ownLength: 2788,
   ownProgress: 2788,

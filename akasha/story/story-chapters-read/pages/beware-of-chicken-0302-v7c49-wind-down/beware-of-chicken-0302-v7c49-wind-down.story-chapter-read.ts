@@ -5,7 +5,7 @@ export const bewareOfChicken0302V7c49WindDown = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0302-v7c49-wind-down",
   title: "v7c49: Wind Down",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 302,
   ownLength: 2024,
   unitSlug: "words",

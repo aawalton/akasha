@@ -5,7 +5,7 @@ export const bewareOfChicken0207V6c19OldWounds = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0207-v6c19-old-wounds",
   title: "v6c19: Old Wounds",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 207,
   ownLength: 1811,
   ownProgress: 1811,

@@ -5,7 +5,7 @@ export const bewareOfChicken0223V6c34TranquilMorning = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0223-v6c34-tranquil-morning",
   title: "v6c34: Tranquil Morning",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 223,
   ownLength: 1784,
   ownProgress: 1784,

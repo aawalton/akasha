@@ -5,7 +5,7 @@ export const bewareOfChicken0339V7c86TheRisingOfADragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0339-v7c86-the-rising-of-a-dragon",
   title: "v7c86: The Rising of a Dragon",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 339,
   ownLength: 2667,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0277V7c24WanderingAGiant = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0277-v7c24-wandering-a-giant",
   title: "v7c24: Wandering a Giant",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 277,
   ownLength: 2439,
   ownProgress: 2439,

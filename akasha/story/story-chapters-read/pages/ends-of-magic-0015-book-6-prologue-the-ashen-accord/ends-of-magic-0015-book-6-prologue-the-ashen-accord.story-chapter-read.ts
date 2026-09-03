@@ -5,7 +5,7 @@ export const endsOfMagic0015Book6PrologueTheAshenAccord = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0015-book-6-prologue-the-ashen-accord",
   title: "Book 6 Prologue: The Ashen Accord",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 15,
   ownLength: 2039,
   ownProgress: 2039,

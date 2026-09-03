@@ -5,7 +5,7 @@ export const melodyOfMana0303Chapter288Besieged = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0303-chapter-288-besieged",
   title: "Chapter 288 Besieged",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 303,
   ownLength: 1364,
   ownProgress: 1364,

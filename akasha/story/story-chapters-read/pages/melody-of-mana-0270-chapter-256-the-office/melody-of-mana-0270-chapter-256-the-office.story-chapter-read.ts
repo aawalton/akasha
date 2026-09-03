@@ -5,7 +5,7 @@ export const melodyOfMana0270Chapter256TheOffice = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0270-chapter-256-the-office",
   title: "Chapter 256 The Office",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 270,
   ownLength: 1714,
   ownProgress: 1714,

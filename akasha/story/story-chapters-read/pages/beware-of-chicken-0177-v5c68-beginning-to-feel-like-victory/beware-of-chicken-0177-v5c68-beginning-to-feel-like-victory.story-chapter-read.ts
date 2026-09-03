@@ -5,7 +5,7 @@ export const bewareOfChicken0177V5c68BeginningToFeelLikeVictory = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0177-v5c68-beginning-to-feel-like-victory",
   title: "v5c68: Beginning to Feel Like Victory",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 177,
   ownLength: 2787,
   ownProgress: 2787,

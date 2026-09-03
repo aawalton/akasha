@@ -5,7 +5,7 @@ export const defianceOfTheFall0116Chapter1436SeverOrInvite = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0116-chapter-1436-sever-or-invite",
   title: "Chapter 1,436 - Sever or Invite",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 116,
   ownLength: 3177,
   unitSlug: "words",

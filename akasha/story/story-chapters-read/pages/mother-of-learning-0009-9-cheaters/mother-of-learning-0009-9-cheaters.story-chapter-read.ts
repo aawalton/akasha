@@ -5,7 +5,7 @@ export const motherOfLearning00099Cheaters = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0009-9-cheaters",
   title: "9. Cheaters",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 9,
   ownLength: 8243,
   ownProgress: 8243,

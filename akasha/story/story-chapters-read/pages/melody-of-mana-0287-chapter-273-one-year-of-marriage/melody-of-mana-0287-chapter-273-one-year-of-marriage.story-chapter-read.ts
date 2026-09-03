@@ -5,7 +5,7 @@ export const melodyOfMana0287Chapter273OneYearOfMarriage = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0287-chapter-273-one-year-of-marriage",
   title: "Chapter 273 One Year of Marriage",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 287,
   ownLength: 1183,
   ownProgress: 1183,

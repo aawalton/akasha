@@ -5,7 +5,7 @@ export const bewareOfChicken0165Vol4HardcoverPreorder = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0165-vol-4-hardcover-preorder",
   title: "Vol 4 Hardcover preorder",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 165,
   ownLength: 2,
   ownProgress: 2,

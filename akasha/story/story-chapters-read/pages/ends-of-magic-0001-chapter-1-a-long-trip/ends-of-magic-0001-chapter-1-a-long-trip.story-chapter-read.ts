@@ -5,7 +5,7 @@ export const endsOfMagic0001Chapter1ALongTrip = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0001-chapter-1-a-long-trip",
   title: "Chapter 1 A long trip",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 1,
   ownLength: 2016,
   ownProgress: 2016,

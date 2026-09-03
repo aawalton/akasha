@@ -5,7 +5,7 @@ export const bewareOfChicken0311V7c58EnlightenmentFoundInTheDirt = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0311-v7c58-enlightenment-found-in-the-dirt",
   title: "v7c58: Enlightenment Found in the Dirt",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 311,
   ownLength: 1958,
   unitSlug: "words",

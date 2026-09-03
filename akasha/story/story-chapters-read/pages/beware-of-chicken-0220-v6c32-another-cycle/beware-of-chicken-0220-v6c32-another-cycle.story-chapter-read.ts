@@ -5,7 +5,7 @@ export const bewareOfChicken0220V6c32AnotherCycle = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0220-v6c32-another-cycle",
   title: "v6c32: Another Cycle",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 220,
   ownLength: 2939,
   ownProgress: 2939,

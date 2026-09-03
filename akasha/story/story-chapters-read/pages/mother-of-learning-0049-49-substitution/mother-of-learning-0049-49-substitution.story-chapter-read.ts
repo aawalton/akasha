@@ -5,7 +5,7 @@ export const motherOfLearning004949Substitution = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0049-49-substitution",
   title: "49. Substitution",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 49,
   ownLength: 8335,
   ownProgress: 8335,

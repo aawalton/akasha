@@ -5,7 +5,7 @@ export const motherOfLearning002727CastAdrift = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0027-27-cast-adrift",
   title: "27. Cast Adrift",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 27,
   ownLength: 5784,
   ownProgress: 5784,

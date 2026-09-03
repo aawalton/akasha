@@ -5,7 +5,7 @@ export const bewareOfChicken0263V7c10TheVirtuousSReward = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0263-v7c10-the-virtuous-s-reward",
   title: "v7c10: The Virtuous's Reward",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 263,
   ownLength: 1998,
   ownProgress: 1998,

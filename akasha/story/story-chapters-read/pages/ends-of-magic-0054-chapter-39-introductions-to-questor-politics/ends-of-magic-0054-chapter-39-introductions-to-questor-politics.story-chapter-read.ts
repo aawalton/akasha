@@ -5,7 +5,7 @@ export const endsOfMagic0054Chapter39IntroductionsToQuestorPolitics = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0054-chapter-39-introductions-to-questor-politics",
   title: "Chapter 39: Introductions to Questor Politics",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 54,
   ownLength: 3009,
   ownProgress: 3009,

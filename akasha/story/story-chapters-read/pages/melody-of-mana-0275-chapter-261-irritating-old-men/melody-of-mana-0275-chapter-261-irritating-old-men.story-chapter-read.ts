@@ -5,7 +5,7 @@ export const melodyOfMana0275Chapter261IrritatingOldMen = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0275-chapter-261-irritating-old-men",
   title: "Chapter 261 Irritating Old Men",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 275,
   ownLength: 1305,
   ownProgress: 1305,

@@ -5,7 +5,7 @@ export const endsOfMagic0047Chapter32ThoughtsOfFlight = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0047-chapter-32-thoughts-of-flight",
   title: "Chapter 32:  Thoughts of Flight",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 47,
   ownLength: 2688,
   ownProgress: 2688,

@@ -5,7 +5,7 @@ export const endsOfMagic0002Chapter2ANewSystem = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0002-chapter-2-a-new-system",
   title: "Chapter 2 A new system",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 2,
   ownLength: 2359,
   ownProgress: 2359,

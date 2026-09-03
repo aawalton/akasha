@@ -5,7 +5,7 @@ export const bewareOfChicken0195V6c7TheSwordAndTheFalcon = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0195-v6c7-the-sword-and-the-falcon",
   title: "v6c7: The Sword and the Falcon",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 195,
   ownLength: 1699,
   ownProgress: 1699,

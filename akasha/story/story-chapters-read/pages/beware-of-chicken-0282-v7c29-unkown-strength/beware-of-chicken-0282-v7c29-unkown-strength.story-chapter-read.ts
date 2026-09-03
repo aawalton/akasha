@@ -5,7 +5,7 @@ export const bewareOfChicken0282V7c29UnkownStrength = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0282-v7c29-unkown-strength",
   title: "v7c29: Unkown Strength",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 282,
   ownLength: 2998,
   ownProgress: 2998,

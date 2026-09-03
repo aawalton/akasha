@@ -5,7 +5,7 @@ export const endsOfMagic0013Chapter1ViewFromOnHigh = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0013-chapter-1-view-from-on-high",
   title: "Chapter 1: View from On High",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 13,
   ownLength: 2679,
   ownProgress: 2679,

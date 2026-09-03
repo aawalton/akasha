@@ -5,7 +5,7 @@ export const melodyOfMana0309Chapter294SharingAndCaring = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0309-chapter-294-sharing-and-caring",
   title: "Chapter 294 Sharing and Caring",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 309,
   ownLength: 1296,
   ownProgress: 1296,

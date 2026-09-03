@@ -5,7 +5,7 @@ export const bewareOfChicken0259V7c6GrowingAroundAThistle = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0259-v7c6-growing-around-a-thistle",
   title: "v7c6: Growing Around a Thistle",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 259,
   ownLength: 2098,
   ownProgress: 2098,

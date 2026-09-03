@@ -5,7 +5,7 @@ export const bewareOfChicken0315V7c62OnceMoreWeSallyForth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0315-v7c62-once-more-we-sally-forth",
   title: "v7c62: Once More, we Sally Forth",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 315,
   ownLength: 2335,
   unitSlug: "words",

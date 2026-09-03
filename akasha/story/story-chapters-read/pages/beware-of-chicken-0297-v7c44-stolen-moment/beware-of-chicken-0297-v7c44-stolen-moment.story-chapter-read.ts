@@ -5,7 +5,7 @@ export const bewareOfChicken0297V7c44StolenMoment = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0297-v7c44-stolen-moment",
   title: "v7c44: Stolen Moment",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 297,
   ownLength: 2025,
   unitSlug: "words",

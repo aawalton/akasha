@@ -5,7 +5,7 @@ export const melodyOfMana0283Chapter269ReturnToSilversprings = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0283-chapter-269-return-to-silversprings",
   title: "Chapter 269 Return to Silversprings",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 283,
   ownLength: 1714,
   ownProgress: 1714,

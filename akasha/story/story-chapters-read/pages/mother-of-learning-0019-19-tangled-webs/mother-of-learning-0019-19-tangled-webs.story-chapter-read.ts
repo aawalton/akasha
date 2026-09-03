@@ -5,7 +5,7 @@ export const motherOfLearning001919TangledWebs = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0019-19-tangled-webs",
   title: "19. Tangled Webs",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 19,
   ownLength: 6982,
   ownProgress: 6982,

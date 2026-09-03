@@ -5,7 +5,7 @@ export const defianceOfTheFall0106Chapter1426Peak = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0106-chapter-1426-peak",
   title: "Chapter 1,426 - Peak",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 106,
   ownLength: 3189,
   unitSlug: "words",

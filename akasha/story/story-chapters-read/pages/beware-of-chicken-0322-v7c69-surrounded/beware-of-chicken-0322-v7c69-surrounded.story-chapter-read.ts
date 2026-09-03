@@ -5,7 +5,7 @@ export const bewareOfChicken0322V7c69Surrounded = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0322-v7c69-surrounded",
   title: "v7c69: Surrounded",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 322,
   ownLength: 1847,
   unitSlug: "words",

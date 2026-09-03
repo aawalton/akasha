@@ -5,7 +5,7 @@ export const endsOfMagic0009Book3Prologue = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0009-book-3-prologue",
   title: "Book 3 Prologue",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 9,
   ownLength: 2498,
   ownProgress: 2498,

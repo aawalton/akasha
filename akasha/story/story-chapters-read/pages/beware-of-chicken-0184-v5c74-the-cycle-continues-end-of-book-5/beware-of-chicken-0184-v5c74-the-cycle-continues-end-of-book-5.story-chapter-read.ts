@@ -5,7 +5,7 @@ export const bewareOfChicken0184V5c74TheCycleContinuesEndOfBook5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0184-v5c74-the-cycle-continues-end-of-book-5",
   title: "v5c74: The Cycle Continues—End of Book 5",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 184,
   ownLength: 2894,
   ownProgress: 2894,

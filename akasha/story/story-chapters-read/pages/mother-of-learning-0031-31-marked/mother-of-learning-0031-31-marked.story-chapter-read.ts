@@ -5,7 +5,7 @@ export const motherOfLearning003131Marked = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0031-31-marked",
   title: "31. Marked",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 31,
   ownLength: 8626,
   ownProgress: 8626,

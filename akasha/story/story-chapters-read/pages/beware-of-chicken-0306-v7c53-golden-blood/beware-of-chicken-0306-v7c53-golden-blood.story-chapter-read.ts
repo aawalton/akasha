@@ -5,7 +5,7 @@ export const bewareOfChicken0306V7c53GoldenBlood = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0306-v7c53-golden-blood",
   title: "v7c53: Golden Blood",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 306,
   ownLength: 1925,
   unitSlug: "words",

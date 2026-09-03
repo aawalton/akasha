@@ -5,7 +5,7 @@ export const bewareOfChicken0309V7c56TheHiddenMaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0309-v7c56-the-hidden-master",
   title: "v7c56: The Hidden Master",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 309,
   ownLength: 2486,
   unitSlug: "words",

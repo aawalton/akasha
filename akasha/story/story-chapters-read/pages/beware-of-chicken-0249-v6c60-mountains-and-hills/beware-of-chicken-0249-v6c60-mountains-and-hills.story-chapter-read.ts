@@ -5,7 +5,7 @@ export const bewareOfChicken0249V6c60MountainsAndHills = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0249-v6c60-mountains-and-hills",
   title: "v6c60: Mountains and Hills",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 249,
   ownLength: 1920,
   ownProgress: 1920,

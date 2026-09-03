@@ -5,7 +5,7 @@ export const bewareOfChicken0266V7c13FirstStepToTheFirstStop = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0266-v7c13-first-step-to-the-first-stop",
   title: "v7c13: First Step, to the First Stop",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 266,
   ownLength: 2720,
   ownProgress: 2720,

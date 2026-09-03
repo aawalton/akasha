@@ -5,7 +5,7 @@ export const bewareOfChicken0150V5c44WillOfTheWeak = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0150-v5c44-will-of-the-weak",
   title: "v5c44: Will of the Weak",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 150,
   ownLength: 4454,
   ownProgress: 4454,

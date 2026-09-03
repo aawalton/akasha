@@ -5,7 +5,7 @@ export const bewareOfChicken0181V5c71ToKeepClimbingTheMountain = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0181-v5c71-to-keep-climbing-the-mountain",
   title: "v5c71: To Keep Climbing the Mountain",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 181,
   ownLength: 2775,
   ownProgress: 2775,

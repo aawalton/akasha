@@ -5,7 +5,7 @@ export const bewareOfChicken0273V7c20TillTheLand = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0273-v7c20-till-the-land",
   title: "v7c20: Till the Land",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 273,
   ownLength: 4228,
   ownProgress: 4228,

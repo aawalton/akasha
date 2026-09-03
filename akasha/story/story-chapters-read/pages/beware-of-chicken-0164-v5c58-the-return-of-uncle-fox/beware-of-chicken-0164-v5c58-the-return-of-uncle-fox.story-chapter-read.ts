@@ -5,7 +5,7 @@ export const bewareOfChicken0164V5c58TheReturnOfUncleFox = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0164-v5c58-the-return-of-uncle-fox",
   title: "v5c58: The Return of Uncle Fox",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 164,
   ownLength: 2929,
   ownProgress: 2929,

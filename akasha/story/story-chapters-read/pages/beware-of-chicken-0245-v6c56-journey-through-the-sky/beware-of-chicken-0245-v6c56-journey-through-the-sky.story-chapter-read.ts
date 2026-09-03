@@ -5,7 +5,7 @@ export const bewareOfChicken0245V6c56JourneyThroughTheSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0245-v6c56-journey-through-the-sky",
   title: "v6c56: Journey Through the Sky",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 245,
   ownLength: 1895,
   ownProgress: 1895,

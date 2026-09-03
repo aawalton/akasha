@@ -5,7 +5,7 @@ export const bewareOfChicken0298V7c45WelcomingTheEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0298-v7c45-welcoming-the-earth",
   title: "v7c45: Welcoming the Earth",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 298,
   ownLength: 2145,
   unitSlug: "words",

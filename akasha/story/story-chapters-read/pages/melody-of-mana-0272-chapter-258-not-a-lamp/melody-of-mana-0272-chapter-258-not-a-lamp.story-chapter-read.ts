@@ -5,7 +5,7 @@ export const melodyOfMana0272Chapter258NotALamp = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0272-chapter-258-not-a-lamp",
   title: "Chapter 258 Not a Lamp",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 272,
   ownLength: 1680,
   ownProgress: 1680,

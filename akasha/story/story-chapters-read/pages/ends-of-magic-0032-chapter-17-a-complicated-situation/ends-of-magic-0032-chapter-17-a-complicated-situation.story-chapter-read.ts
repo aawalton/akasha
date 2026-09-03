@@ -5,7 +5,7 @@ export const endsOfMagic0032Chapter17AComplicatedSituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0032-chapter-17-a-complicated-situation",
   title: "Chapter 17: A Complicated Situation",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 32,
   ownLength: 2830,
   ownProgress: 2830,

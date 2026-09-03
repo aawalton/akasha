@@ -5,7 +5,7 @@ export const melodyOfMana0302Chapter287Worries = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0302-chapter-287-worries",
   title: "Chapter 287 Worries",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 302,
   ownLength: 1914,
   ownProgress: 1914,

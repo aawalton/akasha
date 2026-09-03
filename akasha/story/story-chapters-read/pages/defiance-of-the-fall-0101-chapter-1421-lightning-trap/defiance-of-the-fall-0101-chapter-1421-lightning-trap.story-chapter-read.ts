@@ -5,7 +5,7 @@ export const defianceOfTheFall0101Chapter1421LightningTrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0101-chapter-1421-lightning-trap",
   title: "Chapter 1,421 - Lightning Trap",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 101,
   ownLength: 2915,
   unitSlug: "words",

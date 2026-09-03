@@ -5,7 +5,7 @@ export const defianceOfTheFall0112Chapter1432MirrorRealm = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0112-chapter-1432-mirror-realm",
   title: "Chapter 1,432 - Mirror Realm",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 112,
   ownLength: 3074,
   unitSlug: "words",

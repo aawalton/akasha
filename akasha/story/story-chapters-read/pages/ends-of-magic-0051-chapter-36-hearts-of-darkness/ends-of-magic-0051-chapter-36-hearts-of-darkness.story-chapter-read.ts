@@ -5,7 +5,7 @@ export const endsOfMagic0051Chapter36HeartsOfDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0051-chapter-36-hearts-of-darkness",
   title: "Chapter 36: Hearts of Darkness",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 51,
   ownLength: 2764,
   ownProgress: 2764,

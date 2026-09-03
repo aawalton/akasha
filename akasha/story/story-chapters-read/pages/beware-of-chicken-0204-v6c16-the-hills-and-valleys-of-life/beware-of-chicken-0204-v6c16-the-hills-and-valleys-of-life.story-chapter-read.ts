@@ -5,7 +5,7 @@ export const bewareOfChicken0204V6c16TheHillsAndValleysOfLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0204-v6c16-the-hills-and-valleys-of-life",
   title: "v6c16: The Hills and Valleys of Life",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 204,
   ownLength: 2354,
   ownProgress: 2354,

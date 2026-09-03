@@ -5,7 +5,7 @@ export const motherOfLearning003737SlowBurn = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0037-37-slow-burn",
   title: "37. Slow Burn",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 37,
   ownLength: 8036,
   ownProgress: 8036,

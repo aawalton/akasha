@@ -5,7 +5,7 @@ export const bewareOfChicken0337V7c84TheSonOfTheLordMagistrate = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0337-v7c84-the-son-of-the-lord-magistrate",
   title: "v7c84: The Son of the Lord Magistrate",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 337,
   ownLength: 2355,
   unitSlug: "words",

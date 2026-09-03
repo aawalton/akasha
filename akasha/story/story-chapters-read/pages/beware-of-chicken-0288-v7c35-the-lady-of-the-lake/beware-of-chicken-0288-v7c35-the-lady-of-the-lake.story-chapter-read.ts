@@ -5,7 +5,7 @@ export const bewareOfChicken0288V7c35TheLadyOfTheLake = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0288-v7c35-the-lady-of-the-lake",
   title: "v7c35: The Lady of the Lake",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 288,
   ownLength: 2282,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0237V6c48QuestionsAndAnswers = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0237-v6c48-questions-and-answers",
   title: "v6c48: Questions and Answers",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 237,
   ownLength: 2294,
   ownProgress: 2294,

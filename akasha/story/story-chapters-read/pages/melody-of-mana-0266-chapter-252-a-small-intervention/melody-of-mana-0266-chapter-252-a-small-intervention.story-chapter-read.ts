@@ -5,7 +5,7 @@ export const melodyOfMana0266Chapter252ASmallIntervention = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0266-chapter-252-a-small-intervention",
   title: "Chapter 252 A Small Intervention",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 266,
   ownLength: 1512,
   ownProgress: 1512,

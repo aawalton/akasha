@@ -5,7 +5,7 @@ export const bewareOfChicken0307V7c54APraiseworthyAccomplishment = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0307-v7c54-a-praiseworthy-accomplishment",
   title: "v7c54: A Praiseworthy Accomplishment",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 307,
   ownLength: 2178,
   unitSlug: "words",

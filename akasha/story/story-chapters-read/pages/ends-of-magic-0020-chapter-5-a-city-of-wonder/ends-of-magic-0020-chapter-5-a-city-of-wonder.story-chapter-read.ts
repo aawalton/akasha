@@ -5,7 +5,7 @@ export const endsOfMagic0020Chapter5ACityOfWonder = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0020-chapter-5-a-city-of-wonder",
   title: "Chapter 5: A City of Wonder",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 20,
   ownLength: 3088,
   ownProgress: 3088,

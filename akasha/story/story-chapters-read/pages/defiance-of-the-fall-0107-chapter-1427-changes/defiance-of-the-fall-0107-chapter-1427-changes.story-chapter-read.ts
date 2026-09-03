@@ -5,7 +5,7 @@ export const defianceOfTheFall0107Chapter1427Changes = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0107-chapter-1427-changes",
   title: "Chapter 1,427 - Changes",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 107,
   ownLength: 2926,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0304Chapter289MovingForward = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0304-chapter-289-moving-forward",
   title: "Chapter 289 Moving Forward",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 304,
   ownLength: 1520,
   ownProgress: 1520,

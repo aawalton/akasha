@@ -5,7 +5,7 @@ export const motherOfLearning00066ConcentrateAndTryAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0006-6-concentrate-and-try-again",
   title: "6. Concentrate and Try Again",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 6,
   ownLength: 6450,
   ownProgress: 6450,

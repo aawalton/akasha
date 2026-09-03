@@ -5,7 +5,7 @@ export const motherOfLearning004747Politics = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0047-47-politics",
   title: "47. Politics",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 47,
   ownLength: 7710,
   ownProgress: 7710,

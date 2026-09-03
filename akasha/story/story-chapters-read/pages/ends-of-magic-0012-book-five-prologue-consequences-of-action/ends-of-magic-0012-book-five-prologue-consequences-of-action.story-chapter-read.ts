@@ -5,7 +5,7 @@ export const endsOfMagic0012BookFivePrologueConsequencesOfAction = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0012-book-five-prologue-consequences-of-action",
   title: "Book Five Prologue: Consequences of Action",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 12,
   ownLength: 2683,
   ownProgress: 2683,

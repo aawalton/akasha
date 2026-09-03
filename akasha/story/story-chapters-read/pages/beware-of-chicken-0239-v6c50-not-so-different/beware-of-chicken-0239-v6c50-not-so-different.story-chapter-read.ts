@@ -5,7 +5,7 @@ export const bewareOfChicken0239V6c50NotSoDifferent = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0239-v6c50-not-so-different",
   title: "v6c50: Not So Different",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 239,
   ownLength: 2075,
   ownProgress: 2075,

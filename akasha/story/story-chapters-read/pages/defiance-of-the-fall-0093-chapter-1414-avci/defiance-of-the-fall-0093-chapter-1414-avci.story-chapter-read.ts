@@ -5,7 +5,7 @@ export const defianceOfTheFall0093Chapter1414Avci = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0093-chapter-1414-avci",
   title: "Chapter 1,414 - Avīci",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 93,
   ownLength: 2790,
   unitSlug: "words",

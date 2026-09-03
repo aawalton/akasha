@@ -5,7 +5,7 @@ export const bewareOfChicken0264V7c11TheCultivatingBusiness = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0264-v7c11-the-cultivating-business",
   title: "v7c11: The Cultivating Business",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 264,
   ownLength: 2078,
   ownProgress: 2078,

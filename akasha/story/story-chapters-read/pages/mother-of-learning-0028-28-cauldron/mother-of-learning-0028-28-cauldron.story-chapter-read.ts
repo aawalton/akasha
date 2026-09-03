@@ -5,7 +5,7 @@ export const motherOfLearning002828Cauldron = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0028-28-cauldron",
   title: "28. Cauldron",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 28,
   ownLength: 6235,
   ownProgress: 6235,

@@ -5,7 +5,7 @@ export const melodyOfMana0293Chapter278SomeLowKeyRacism = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0293-chapter-278-some-low-key-racism",
   title: "Chapter 278 Some Low-Key Racism",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 293,
   ownLength: 1189,
   ownProgress: 1189,

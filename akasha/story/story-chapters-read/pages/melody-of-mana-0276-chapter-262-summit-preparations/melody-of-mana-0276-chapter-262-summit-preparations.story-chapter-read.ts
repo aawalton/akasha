@@ -5,7 +5,7 @@ export const melodyOfMana0276Chapter262SummitPreparations = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0276-chapter-262-summit-preparations",
   title: "Chapter 262 Summit Preparations",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 276,
   ownLength: 1430,
   ownProgress: 1430,

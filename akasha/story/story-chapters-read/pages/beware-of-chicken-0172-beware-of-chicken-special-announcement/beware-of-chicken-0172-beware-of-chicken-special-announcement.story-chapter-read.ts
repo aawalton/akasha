@@ -5,7 +5,7 @@ export const bewareOfChicken0172BewareOfChickenSpecialAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0172-beware-of-chicken-special-announcement",
   title: "Beware of Chicken Special Announcement",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 172,
   ownLength: 125,
   ownProgress: 125,

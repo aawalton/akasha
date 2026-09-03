@@ -5,7 +5,7 @@ export const endsOfMagic0018Chapter3AncientInsights = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0018-chapter-3-ancient-insights",
   title: "Chapter 3: Ancient Insights",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 18,
   ownLength: 2791,
   ownProgress: 2791,

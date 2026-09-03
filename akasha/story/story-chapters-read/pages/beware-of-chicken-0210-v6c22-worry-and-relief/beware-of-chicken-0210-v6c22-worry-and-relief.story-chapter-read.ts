@@ -5,7 +5,7 @@ export const bewareOfChicken0210V6c22WorryAndRelief = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0210-v6c22-worry-and-relief",
   title: "v6c22: Worry and Relief",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 210,
   ownLength: 2051,
   ownProgress: 2051,

@@ -5,7 +5,7 @@ export const bewareOfChicken0198V6c10AGlimpseOfConnections = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0198-v6c10-a-glimpse-of-connections",
   title: "v6c10: A Glimpse of Connections",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 198,
   ownLength: 2365,
   ownProgress: 2365,

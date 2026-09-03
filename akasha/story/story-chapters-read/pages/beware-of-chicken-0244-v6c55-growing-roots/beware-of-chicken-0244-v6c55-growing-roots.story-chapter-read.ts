@@ -5,7 +5,7 @@ export const bewareOfChicken0244V6c55GrowingRoots = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0244-v6c55-growing-roots",
   title: "v6c55: Growing Roots",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 244,
   ownLength: 2169,
   ownProgress: 2169,

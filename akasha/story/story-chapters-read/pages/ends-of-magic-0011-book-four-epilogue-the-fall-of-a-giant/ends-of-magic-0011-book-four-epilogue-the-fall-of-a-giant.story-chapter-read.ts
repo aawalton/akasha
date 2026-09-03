@@ -5,7 +5,7 @@ export const endsOfMagic0011BookFourEpilogueTheFallOfAGiant = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0011-book-four-epilogue-the-fall-of-a-giant",
   title: "Book Four Epilogue: The Fall of a Giant",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 11,
   ownLength: 3837,
   ownProgress: 3837,

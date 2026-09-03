@@ -5,7 +5,7 @@ export const defianceOfTheFall0096Chapter1416LordOfTheUnderworld = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0096-chapter-1416-lord-of-the-underworld",
   title: "Chapter 1,416 - Lord of the Underworld",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 96,
   ownLength: 3261,
   unitSlug: "words",

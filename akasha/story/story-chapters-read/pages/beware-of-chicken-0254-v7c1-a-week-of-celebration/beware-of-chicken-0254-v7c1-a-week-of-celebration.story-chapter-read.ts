@@ -5,7 +5,7 @@ export const bewareOfChicken0254V7c1AWeekOfCelebration = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0254-v7c1-a-week-of-celebration",
   title: "v7c1: A Week Of Celebration",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 254,
   ownLength: 2484,
   ownProgress: 2484,

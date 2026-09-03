@@ -5,7 +5,7 @@ export const melodyOfMana0290Chapter276FieldTripBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0290-chapter-276-field-trip-begins",
   title: "Chapter 276 Field Trip Begins",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 290,
   ownLength: 1266,
   ownProgress: 1266,

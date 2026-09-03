@@ -5,7 +5,7 @@ export const bewareOfChicken0159V5c53TheOtherSideOfTheReunion = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0159-v5c53-the-other-side-of-the-reunion",
   title: "v5c53: The Other Side of the Reunion",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 159,
   ownLength: 1926,
   ownProgress: 1926,

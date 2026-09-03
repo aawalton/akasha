@@ -5,7 +5,7 @@ export const endsOfMagic0028Chapter13TheCityOfPillars = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0028-chapter-13-the-city-of-pillars",
   title: "Chapter 13: The City of Pillars",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 28,
   ownLength: 2839,
   ownProgress: 2839,

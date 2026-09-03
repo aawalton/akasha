@@ -5,7 +5,7 @@ export const bewareOfChicken0305V7c52PrivateTour = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0305-v7c52-private-tour",
   title: "v7c52: Private Tour",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 305,
   ownLength: 2201,
   unitSlug: "words",

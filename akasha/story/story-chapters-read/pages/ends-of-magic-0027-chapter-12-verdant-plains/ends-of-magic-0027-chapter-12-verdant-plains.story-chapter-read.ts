@@ -5,7 +5,7 @@ export const endsOfMagic0027Chapter12VerdantPlains = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0027-chapter-12-verdant-plains",
   title: "Chapter 12: Verdant Plains",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 27,
   ownLength: 2858,
   ownProgress: 2858,

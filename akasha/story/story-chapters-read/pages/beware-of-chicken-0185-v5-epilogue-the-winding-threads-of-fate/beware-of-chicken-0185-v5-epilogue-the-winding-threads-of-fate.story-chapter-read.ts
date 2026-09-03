@@ -5,7 +5,7 @@ export const bewareOfChicken0185V5EpilogueTheWindingThreadsOfFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0185-v5-epilogue-the-winding-threads-of-fate",
   title: "v5 Epilogue: The Winding Threads of Fate",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 185,
   ownLength: 3393,
   ownProgress: 3393,

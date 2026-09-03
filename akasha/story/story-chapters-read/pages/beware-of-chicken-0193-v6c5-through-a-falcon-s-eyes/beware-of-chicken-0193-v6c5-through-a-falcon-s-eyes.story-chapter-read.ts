@@ -5,7 +5,7 @@ export const bewareOfChicken0193V6c5ThroughAFalconSEyes = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0193-v6c5-through-a-falcon-s-eyes",
   title: "v6c5: Through a Falcon's Eyes",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 193,
   ownLength: 1650,
   ownProgress: 1650,

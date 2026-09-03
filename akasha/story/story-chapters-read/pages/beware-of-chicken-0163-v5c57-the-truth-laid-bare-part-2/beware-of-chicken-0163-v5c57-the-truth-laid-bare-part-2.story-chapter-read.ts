@@ -5,7 +5,7 @@ export const bewareOfChicken0163V5c57TheTruthLaidBarePart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0163-v5c57-the-truth-laid-bare-part-2",
   title: "v5c57: The Truth Laid Bare Part 2",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 163,
   ownLength: 2561,
   ownProgress: 2561,

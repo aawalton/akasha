@@ -5,7 +5,7 @@ export const bewareOfChicken0228V6c39Refreshments = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0228-v6c39-refreshments",
   title: "v6c39: Refreshments",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 228,
   ownLength: 1779,
   ownProgress: 1779,

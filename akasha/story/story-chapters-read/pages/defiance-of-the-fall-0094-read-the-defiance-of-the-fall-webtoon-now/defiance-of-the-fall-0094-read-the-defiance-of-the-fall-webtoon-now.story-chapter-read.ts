@@ -5,7 +5,7 @@ export const defianceOfTheFall0094ReadTheDefianceOfTheFallWebtoonNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0094-read-the-defiance-of-the-fall-webtoon-now",
   title: "Read the Defiance of the Fall Webtoon now!",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 94,
   ownLength: 93,
   unitSlug: "words",

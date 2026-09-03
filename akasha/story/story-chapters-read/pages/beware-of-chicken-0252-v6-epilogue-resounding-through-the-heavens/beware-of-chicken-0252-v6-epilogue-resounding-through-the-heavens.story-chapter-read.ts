@@ -5,7 +5,7 @@ export const bewareOfChicken0252V6EpilogueResoundingThroughTheHeavens = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0252-v6-epilogue-resounding-through-the-heavens",
   title: "v6 Epilogue: Resounding Through the Heavens",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 252,
   ownLength: 1320,
   ownProgress: 1320,

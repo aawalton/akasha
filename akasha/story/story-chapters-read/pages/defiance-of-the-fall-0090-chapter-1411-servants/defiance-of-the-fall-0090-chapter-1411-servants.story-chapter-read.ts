@@ -5,7 +5,7 @@ export const defianceOfTheFall0090Chapter1411Servants = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0090-chapter-1411-servants",
   title: "Chapter 1,411 - Servants",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 90,
   ownLength: 3348,
   unitSlug: "words",

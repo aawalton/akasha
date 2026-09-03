@@ -5,7 +5,7 @@ export const motherOfLearning00077OfGapsAndPretending = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0007-7-of-gaps-and-pretending",
   title: "7. Of Gaps And Pretending",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 7,
   ownLength: 7154,
   ownProgress: 7154,

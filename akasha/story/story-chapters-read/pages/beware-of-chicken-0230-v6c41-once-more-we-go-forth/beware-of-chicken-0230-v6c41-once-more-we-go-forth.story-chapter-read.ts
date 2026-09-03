@@ -5,7 +5,7 @@ export const bewareOfChicken0230V6c41OnceMoreWeGoForth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0230-v6c41-once-more-we-go-forth",
   title: "v6c41: Once More, We Go Forth",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 230,
   ownLength: 1818,
   ownProgress: 1818,

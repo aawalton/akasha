@@ -5,7 +5,7 @@ export const bewareOfChicken0156V5c50TheCracksShow = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0156-v5c50-the-cracks-show",
   title: "v5c50: The Cracks Show",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 156,
   ownLength: 2098,
   ownProgress: 2098,

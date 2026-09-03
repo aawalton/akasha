@@ -5,7 +5,7 @@ export const melodyOfMana0299Chapter284ShelterInTheStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0299-chapter-284-shelter-in-the-storm",
   title: "Chapter 284 Shelter in the Storm",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 299,
   ownLength: 1551,
   ownProgress: 1551,

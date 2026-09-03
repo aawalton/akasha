@@ -5,7 +5,7 @@ export const bewareOfChicken0286V7c33BeachEpisode = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0286-v7c33-beach-episode",
   title: "v7c33: Beach Episode",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 286,
   ownLength: 2487,
   ownProgress: 2487,

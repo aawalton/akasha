@@ -5,7 +5,7 @@ export const melodyOfMana0315Chapter300UntilNextTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0315-chapter-300-until-next-time",
   title: "Chapter 300 Until Next Time",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 315,
   ownLength: 1541,
   ownProgress: 1541,

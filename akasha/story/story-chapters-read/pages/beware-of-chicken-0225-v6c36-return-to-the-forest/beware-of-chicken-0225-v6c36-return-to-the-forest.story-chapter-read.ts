@@ -5,7 +5,7 @@ export const bewareOfChicken0225V6c36ReturnToTheForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0225-v6c36-return-to-the-forest",
   title: "v6c36: Return to the Forest",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 225,
   ownLength: 2347,
   ownProgress: 2347,

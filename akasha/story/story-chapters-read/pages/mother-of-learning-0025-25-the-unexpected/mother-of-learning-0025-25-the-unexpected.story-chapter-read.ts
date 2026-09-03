@@ -5,7 +5,7 @@ export const motherOfLearning002525TheUnexpected = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0025-25-the-unexpected",
   title: "25. The Unexpected",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 25,
   ownLength: 7938,
   ownProgress: 7938,

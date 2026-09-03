@@ -5,7 +5,7 @@ export const bewareOfChicken0149V5c43CrushedToEmbers = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0149-v5c43-crushed-to-embers",
   title: "v5c43: Crushed to Embers",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 149,
   ownLength: 4282,
   ownProgress: 4282,

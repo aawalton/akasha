@@ -5,7 +5,7 @@ export const bewareOfChicken0255V7c2FoxyFoundations = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0255-v7c2-foxy-foundations",
   title: "v7c2: Foxy Foundations",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 255,
   ownLength: 2446,
   ownProgress: 2446,

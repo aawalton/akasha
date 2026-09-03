@@ -5,7 +5,7 @@ export const motherOfLearning005151OutOfControl = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0051-51-out-of-control",
   title: "51. Out of Control",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 51,
   ownLength: 6425,
   ownProgress: 6425,

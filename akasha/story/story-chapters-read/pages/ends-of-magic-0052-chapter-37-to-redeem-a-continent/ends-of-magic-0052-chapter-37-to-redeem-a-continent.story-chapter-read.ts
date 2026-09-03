@@ -5,7 +5,7 @@ export const endsOfMagic0052Chapter37ToRedeemAContinent = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0052-chapter-37-to-redeem-a-continent",
   title: "Chapter 37: To Redeem a Continent",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 52,
   ownLength: 2798,
   ownProgress: 2798,

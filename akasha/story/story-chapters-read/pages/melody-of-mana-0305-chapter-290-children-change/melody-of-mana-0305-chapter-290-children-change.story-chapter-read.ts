@@ -5,7 +5,7 @@ export const melodyOfMana0305Chapter290ChildrenChange = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0305-chapter-290-children-change",
   title: "Chapter 290 Children Change",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 305,
   ownLength: 1190,
   ownProgress: 1190,

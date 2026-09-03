@@ -5,7 +5,7 @@ export const bewareOfChicken0229V6c40RenewalRegrowth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0229-v6c40-renewal-regrowth",
   title: "v6c40: Renewal, Regrowth",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 229,
   ownLength: 2018,
   ownProgress: 2018,

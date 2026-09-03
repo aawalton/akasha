@@ -5,7 +5,7 @@ export const bewareOfChicken0260V7c7TrulyWelcomeVol5Release = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0260-v7c7-truly-welcome-vol-5-release",
   title: "v7c7: Truly Welcome+ Vol 5 Release",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 260,
   ownLength: 2209,
   ownProgress: 2209,

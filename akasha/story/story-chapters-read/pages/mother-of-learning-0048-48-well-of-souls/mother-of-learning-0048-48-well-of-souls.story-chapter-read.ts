@@ -5,7 +5,7 @@ export const motherOfLearning004848WellOfSouls = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0048-48-well-of-souls",
   title: "48. Well of Souls",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 48,
   ownLength: 6484,
   ownProgress: 6484,

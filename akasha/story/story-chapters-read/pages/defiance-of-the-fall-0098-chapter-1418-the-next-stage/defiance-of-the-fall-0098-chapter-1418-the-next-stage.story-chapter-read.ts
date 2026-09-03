@@ -5,7 +5,7 @@ export const defianceOfTheFall0098Chapter1418TheNextStage = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0098-chapter-1418-the-next-stage",
   title: "Chapter 1,418 - The Next Stage",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 98,
   ownLength: 3116,
   unitSlug: "words",

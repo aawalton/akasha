@@ -5,7 +5,7 @@ export const bewareOfChicken0213V6c25LastDaysOfTheOldYear = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0213-v6c25-last-days-of-the-old-year",
   title: "v6c25: Last Days of the Old Year",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 213,
   ownLength: 2173,
   ownProgress: 2173,

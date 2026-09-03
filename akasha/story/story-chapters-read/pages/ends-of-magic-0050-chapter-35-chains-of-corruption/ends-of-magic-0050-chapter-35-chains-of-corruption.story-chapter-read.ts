@@ -5,7 +5,7 @@ export const endsOfMagic0050Chapter35ChainsOfCorruption = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0050-chapter-35-chains-of-corruption",
   title: "Chapter 35:  Chains of Corruption",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 50,
   ownLength: 3021,
   ownProgress: 3021,

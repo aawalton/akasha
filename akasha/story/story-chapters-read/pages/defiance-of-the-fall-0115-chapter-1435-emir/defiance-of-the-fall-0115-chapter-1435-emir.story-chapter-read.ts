@@ -5,7 +5,7 @@ export const defianceOfTheFall0115Chapter1435Emir = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0115-chapter-1435-emir",
   title: "Chapter 1,435 - Emir",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 115,
   ownLength: 3090,
   unitSlug: "words",

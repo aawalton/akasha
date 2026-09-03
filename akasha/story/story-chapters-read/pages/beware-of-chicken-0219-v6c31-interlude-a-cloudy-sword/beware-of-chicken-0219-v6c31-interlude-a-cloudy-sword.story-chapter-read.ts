@@ -5,7 +5,7 @@ export const bewareOfChicken0219V6c31InterludeACloudySword = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0219-v6c31-interlude-a-cloudy-sword",
   title: "v6c31 Interlude: A Cloudy Sword",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 219,
   ownLength: 1895,
   ownProgress: 1895,

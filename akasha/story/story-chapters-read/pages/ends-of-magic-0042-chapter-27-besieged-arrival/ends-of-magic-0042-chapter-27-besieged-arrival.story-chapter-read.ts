@@ -5,7 +5,7 @@ export const endsOfMagic0042Chapter27BesiegedArrival = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0042-chapter-27-besieged-arrival",
   title: "Chapter 27: Besieged Arrival",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 42,
   ownLength: 2953,
   ownProgress: 2953,

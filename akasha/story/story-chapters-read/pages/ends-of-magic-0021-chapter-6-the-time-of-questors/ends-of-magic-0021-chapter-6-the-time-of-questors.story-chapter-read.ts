@@ -5,7 +5,7 @@ export const endsOfMagic0021Chapter6TheTimeOfQuestors = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0021-chapter-6-the-time-of-questors",
   title: "Chapter 6: The Time of Questors",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 21,
   ownLength: 2820,
   ownProgress: 2820,

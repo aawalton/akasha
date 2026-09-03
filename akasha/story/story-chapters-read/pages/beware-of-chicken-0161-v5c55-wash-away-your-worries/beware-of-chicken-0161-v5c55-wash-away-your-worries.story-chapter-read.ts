@@ -5,7 +5,7 @@ export const bewareOfChicken0161V5c55WashAwayYourWorries = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0161-v5c55-wash-away-your-worries",
   title: "v5c55: Wash Away Your Worries",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 161,
   ownLength: 2683,
   ownProgress: 2683,

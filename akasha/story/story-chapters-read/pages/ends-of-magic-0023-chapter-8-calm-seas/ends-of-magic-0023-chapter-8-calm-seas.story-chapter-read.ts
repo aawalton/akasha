@@ -5,7 +5,7 @@ export const endsOfMagic0023Chapter8CalmSeas = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0023-chapter-8-calm-seas",
   title: "Chapter 8: Calm Seas",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 23,
   ownLength: 2770,
   ownProgress: 2770,

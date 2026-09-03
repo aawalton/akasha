@@ -5,7 +5,7 @@ export const bewareOfChicken0275V7c22CyclesOfPeace = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0275-v7c22-cycles-of-peace",
   title: "v7c22: Cycles of Peace",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 275,
   ownLength: 2629,
   ownProgress: 2629,

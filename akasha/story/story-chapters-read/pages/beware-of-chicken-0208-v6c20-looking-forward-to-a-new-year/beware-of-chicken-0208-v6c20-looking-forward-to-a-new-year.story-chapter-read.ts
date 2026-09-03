@@ -5,7 +5,7 @@ export const bewareOfChicken0208V6c20LookingForwardToANewYear = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0208-v6c20-looking-forward-to-a-new-year",
   title: "v6c20: Looking Forward to a New Year",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 208,
   ownLength: 2353,
   ownProgress: 2353,

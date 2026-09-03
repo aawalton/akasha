@@ -5,7 +5,7 @@ export const motherOfLearning003636ABattleOfMinds = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0036-36-a-battle-of-minds",
   title: "36. A Battle of Minds",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 36,
   ownLength: 7491,
   ownProgress: 7491,

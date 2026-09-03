@@ -5,7 +5,7 @@ export const bewareOfChicken0303V7c50TheYoungerBrother = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0303-v7c50-the-younger-brother",
   title: "v7c50: The Younger Brother",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 303,
   ownLength: 2716,
   unitSlug: "words",

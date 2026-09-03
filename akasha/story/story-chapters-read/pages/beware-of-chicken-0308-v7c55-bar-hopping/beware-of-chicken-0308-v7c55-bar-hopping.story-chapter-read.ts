@@ -5,7 +5,7 @@ export const bewareOfChicken0308V7c55BarHopping = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0308-v7c55-bar-hopping",
   title: "v7c55: Bar Hopping",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 308,
   ownLength: 2166,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0226V6c37TheMasterOfTheForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0226-v6c37-the-master-of-the-forest",
   title: "v6c37: The Master of the Forest",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 226,
   ownLength: 2101,
   ownProgress: 2101,

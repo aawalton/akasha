@@ -5,7 +5,7 @@ export const endsOfMagic0046Chapter31AShadowUponTheSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0046-chapter-31-a-shadow-upon-the-sky",
   title: "Chapter 31:  A Shadow Upon the Sky",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 46,
   ownLength: 2739,
   ownProgress: 2739,

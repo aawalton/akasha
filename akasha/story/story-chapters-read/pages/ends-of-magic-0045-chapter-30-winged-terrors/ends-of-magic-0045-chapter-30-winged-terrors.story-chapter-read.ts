@@ -5,7 +5,7 @@ export const endsOfMagic0045Chapter30WingedTerrors = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0045-chapter-30-winged-terrors",
   title: "Chapter 30: Winged Terrors",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 45,
   ownLength: 2894,
   ownProgress: 2894,

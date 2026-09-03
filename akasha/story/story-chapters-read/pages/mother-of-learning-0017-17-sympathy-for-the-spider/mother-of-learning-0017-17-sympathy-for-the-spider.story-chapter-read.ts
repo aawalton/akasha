@@ -5,7 +5,7 @@ export const motherOfLearning001717SympathyForTheSpider = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0017-17-sympathy-for-the-spider",
   title: "17. Sympathy for the Spider",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 17,
   ownLength: 7349,
   ownProgress: 7349,

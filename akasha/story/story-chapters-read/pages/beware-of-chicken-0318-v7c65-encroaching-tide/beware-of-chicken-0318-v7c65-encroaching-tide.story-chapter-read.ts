@@ -5,7 +5,7 @@ export const bewareOfChicken0318V7c65EncroachingTide = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0318-v7c65-encroaching-tide",
   title: "v7c65: Encroaching Tide",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 318,
   ownLength: 2316,
   unitSlug: "words",

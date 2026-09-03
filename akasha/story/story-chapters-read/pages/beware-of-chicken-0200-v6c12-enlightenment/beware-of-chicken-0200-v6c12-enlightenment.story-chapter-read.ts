@@ -5,7 +5,7 @@ export const bewareOfChicken0200V6c12Enlightenment = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0200-v6c12-enlightenment",
   title: "v6c12: Enlightenment",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 200,
   ownLength: 1715,
   ownProgress: 1715,

@@ -5,7 +5,7 @@ export const bewareOfChicken0257V7c4TheMoonAndTheEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0257-v7c4-the-moon-and-the-earth",
   title: "v7c4: The Moon and the Earth",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 257,
   ownLength: 2463,
   ownProgress: 2463,

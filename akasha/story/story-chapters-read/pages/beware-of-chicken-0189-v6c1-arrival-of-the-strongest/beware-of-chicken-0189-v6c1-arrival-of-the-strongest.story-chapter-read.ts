@@ -5,7 +5,7 @@ export const bewareOfChicken0189V6c1ArrivalOfTheStrongest = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0189-v6c1-arrival-of-the-strongest",
   title: "v6c1: Arrival of the Strongest",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 189,
   ownLength: 2524,
   ownProgress: 2524,

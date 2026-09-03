@@ -5,7 +5,7 @@ export const bewareOfChicken0292V7c39WestwardLeading = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0292-v7c39-westward-leading",
   title: "v7c39: Westward Leading",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 292,
   ownLength: 1835,
   unitSlug: "words",

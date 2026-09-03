@@ -5,7 +5,7 @@ export const motherOfLearning002121WheelOfFortune = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0021-21-wheel-of-fortune",
   title: "21. Wheel of Fortune",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 21,
   ownLength: 8576,
   ownProgress: 8576,

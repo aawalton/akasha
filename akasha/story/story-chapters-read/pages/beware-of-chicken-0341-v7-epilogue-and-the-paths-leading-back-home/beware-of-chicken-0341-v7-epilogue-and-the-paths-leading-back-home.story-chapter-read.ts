@@ -5,7 +5,7 @@ export const bewareOfChicken0341V7EpilogueAndThePathsLeadingBackHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0341-v7-epilogue-and-the-paths-leading-back-home",
   title: "v7 Epilogue: And The Paths Leading Back Home",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 341,
   ownLength: 3122,
   unitSlug: "words",

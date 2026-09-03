@@ -5,7 +5,7 @@ export const melodyOfMana0312Chapter297LastHurdle = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0312-chapter-297-last-hurdle",
   title: "Chapter 297 Last Hurdle",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 312,
   ownLength: 1267,
   ownProgress: 1267,

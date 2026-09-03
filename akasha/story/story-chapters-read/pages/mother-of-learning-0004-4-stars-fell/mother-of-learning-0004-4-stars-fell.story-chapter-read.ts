@@ -5,7 +5,7 @@ export const motherOfLearning00044StarsFell = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0004-4-stars-fell",
   title: "4. Stars Fell",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 4,
   ownLength: 5937,
   ownProgress: 5937,

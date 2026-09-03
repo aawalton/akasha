@@ -5,7 +5,7 @@ export const bewareOfChicken0285V7c32TheWorkContinuesInLightAndShadow = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0285-v7c32-the-work-continues-in-light-and-shadow",
   title: "v7c32: The Work Continues, in Light and Shadow",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 285,
   ownLength: 2462,
   ownProgress: 2462,

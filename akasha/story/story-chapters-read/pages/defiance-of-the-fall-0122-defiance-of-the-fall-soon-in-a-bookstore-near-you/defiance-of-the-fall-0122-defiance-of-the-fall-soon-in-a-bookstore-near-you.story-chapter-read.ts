@@ -5,7 +5,7 @@ export const defianceOfTheFall0122DefianceOfTheFallSoonInABookstoreNearYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0122-defiance-of-the-fall-soon-in-a-bookstore-near-you",
   title: "Defiance of the Fall, Soon in a Bookstore Near You!",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 122,
   ownLength: 515,
   unitSlug: "words",

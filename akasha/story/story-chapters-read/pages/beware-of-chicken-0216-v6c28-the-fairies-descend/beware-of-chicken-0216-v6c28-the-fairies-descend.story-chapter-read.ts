@@ -5,7 +5,7 @@ export const bewareOfChicken0216V6c28TheFairiesDescend = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0216-v6c28-the-fairies-descend",
   title: "v6c28: The Fairies Descend",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 216,
   ownLength: 1743,
   ownProgress: 1743,

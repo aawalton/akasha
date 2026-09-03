@@ -5,7 +5,7 @@ export const defianceOfTheFall0109Chapter1429MountainsAndValleys = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0109-chapter-1429-mountains-and-valleys",
   title: "Chapter 1,429 - Mountains and Valleys",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 109,
   ownLength: 3053,
   unitSlug: "words",

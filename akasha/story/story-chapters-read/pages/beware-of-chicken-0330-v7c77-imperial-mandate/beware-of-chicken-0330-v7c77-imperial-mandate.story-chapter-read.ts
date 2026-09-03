@@ -5,7 +5,7 @@ export const bewareOfChicken0330V7c77ImperialMandate = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0330-v7c77-imperial-mandate",
   title: "v7c77: Imperial Mandate",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 330,
   ownLength: 2225,
   unitSlug: "words",

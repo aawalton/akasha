@@ -5,7 +5,7 @@ export const motherOfLearning004141MyriadClashingMotives = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0041-41-myriad-clashing-motives",
   title: "41. Myriad Clashing Motives",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 41,
   ownLength: 7081,
   ownProgress: 7081,

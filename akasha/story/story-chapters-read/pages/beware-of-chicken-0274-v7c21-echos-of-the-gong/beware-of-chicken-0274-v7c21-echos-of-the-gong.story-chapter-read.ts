@@ -5,7 +5,7 @@ export const bewareOfChicken0274V7c21EchosOfTheGong = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0274-v7c21-echos-of-the-gong",
   title: "v7c21: Echos of the Gong",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 274,
   ownLength: 2316,
   ownProgress: 2316,

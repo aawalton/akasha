@@ -5,7 +5,7 @@ export const motherOfLearning002424SmokeAndMirrors = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0024-24-smoke-and-mirrors",
   title: "24. Smoke and Mirrors",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 24,
   ownLength: 8240,
   ownProgress: 8240,

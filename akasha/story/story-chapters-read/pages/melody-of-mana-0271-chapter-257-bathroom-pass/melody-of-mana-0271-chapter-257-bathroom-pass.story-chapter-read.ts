@@ -5,7 +5,7 @@ export const melodyOfMana0271Chapter257BathroomPass = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0271-chapter-257-bathroom-pass",
   title: "Chapter 257 Bathroom Pass",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 271,
   ownLength: 1386,
   ownProgress: 1386,

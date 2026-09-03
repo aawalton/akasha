@@ -5,7 +5,7 @@ export const bewareOfChicken0214V6c26FirstDelivery = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0214-v6c26-first-delivery",
   title: "v6c26: First Delivery",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 214,
   ownLength: 1878,
   ownProgress: 1878,

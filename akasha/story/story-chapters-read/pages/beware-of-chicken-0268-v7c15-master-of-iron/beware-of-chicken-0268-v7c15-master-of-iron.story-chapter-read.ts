@@ -5,7 +5,7 @@ export const bewareOfChicken0268V7c15MasterOfIron = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0268-v7c15-master-of-iron",
   title: "v7c15: Master of Iron",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 268,
   ownLength: 2345,
   ownProgress: 2345,

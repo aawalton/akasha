@@ -5,7 +5,7 @@ export const endsOfMagic0003Chapter3TheFirstDiscussion = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0003-chapter-3-the-first-discussion",
   title: "Chapter 3 The first discussion",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 3,
   ownLength: 2412,
   ownProgress: 2412,

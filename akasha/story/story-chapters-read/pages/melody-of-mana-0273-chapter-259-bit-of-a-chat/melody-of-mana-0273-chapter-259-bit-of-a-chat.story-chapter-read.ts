@@ -5,7 +5,7 @@ export const melodyOfMana0273Chapter259BitOfAChat = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0273-chapter-259-bit-of-a-chat",
   title: "Chapter 259 Bit of a Chat",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 273,
   ownLength: 1308,
   ownProgress: 1308,

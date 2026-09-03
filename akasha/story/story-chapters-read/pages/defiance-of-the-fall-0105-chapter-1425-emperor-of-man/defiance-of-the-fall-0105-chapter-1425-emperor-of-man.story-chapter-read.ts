@@ -5,7 +5,7 @@ export const defianceOfTheFall0105Chapter1425EmperorOfMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0105-chapter-1425-emperor-of-man",
   title: "Chapter 1,425 - Emperor of Man",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 105,
   ownLength: 2711,
   unitSlug: "words",

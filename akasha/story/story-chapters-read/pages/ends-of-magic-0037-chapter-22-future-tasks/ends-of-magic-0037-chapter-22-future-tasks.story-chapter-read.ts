@@ -5,7 +5,7 @@ export const endsOfMagic0037Chapter22FutureTasks = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0037-chapter-22-future-tasks",
   title: "Chapter 22: Future Tasks",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 37,
   ownLength: 2782,
   ownProgress: 2782,

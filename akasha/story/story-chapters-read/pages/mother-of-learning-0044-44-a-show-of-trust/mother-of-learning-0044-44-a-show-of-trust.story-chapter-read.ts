@@ -5,7 +5,7 @@ export const motherOfLearning004444AShowOfTrust = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0044-44-a-show-of-trust",
   title: "44. A Show of Trust",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 44,
   ownLength: 7424,
   ownProgress: 7424,

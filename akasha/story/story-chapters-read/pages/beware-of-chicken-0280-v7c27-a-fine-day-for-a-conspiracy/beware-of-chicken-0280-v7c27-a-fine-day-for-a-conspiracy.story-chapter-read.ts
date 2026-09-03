@@ -5,7 +5,7 @@ export const bewareOfChicken0280V7c27AFineDayForAConspiracy = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0280-v7c27-a-fine-day-for-a-conspiracy",
   title: "v7c27: A Fine Day for a Conspiracy",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 280,
   ownLength: 2351,
   ownProgress: 2351,

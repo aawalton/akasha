@@ -5,7 +5,7 @@ export const bewareOfChicken0291V7c38ReflectionOfTheWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0291-v7c38-reflection-of-the-world",
   title: "v7c38: Reflection of the World",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 291,
   ownLength: 2285,
   unitSlug: "words",

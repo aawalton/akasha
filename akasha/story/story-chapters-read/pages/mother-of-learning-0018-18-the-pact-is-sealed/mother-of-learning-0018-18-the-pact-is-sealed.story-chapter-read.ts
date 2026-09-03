@@ -5,7 +5,7 @@ export const motherOfLearning001818ThePactIsSealed = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0018-18-the-pact-is-sealed",
   title: "18. The Pact is Sealed",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 18,
   ownLength: 5202,
   ownProgress: 5202,

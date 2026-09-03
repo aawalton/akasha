@@ -5,7 +5,7 @@ export const melodyOfMana0288Chapter274FifthYearOfMarriage = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0288-chapter-274-fifth-year-of-marriage",
   title: "Chapter 274 Fifth Year of Marriage",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 288,
   ownLength: 1316,
   ownProgress: 1316,

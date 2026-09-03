@@ -5,7 +5,7 @@ export const motherOfLearning001616WeNeedToTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0016-16-we-need-to-talk",
   title: "16. We Need To Talk",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 16,
   ownLength: 7043,
   ownProgress: 7043,

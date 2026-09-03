@@ -5,7 +5,7 @@ export const bewareOfChicken0331V7v78QueenBee = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0331-v7v78-queen-bee",
   title: "v7v78: Queen Bee",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 331,
   ownLength: 2153,
   unitSlug: "words",

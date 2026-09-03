@@ -5,7 +5,7 @@ export const motherOfLearning004545FineStructures = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0045-45-fine-structures",
   title: "45. Fine Structures",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 45,
   ownLength: 7458,
   ownProgress: 7458,

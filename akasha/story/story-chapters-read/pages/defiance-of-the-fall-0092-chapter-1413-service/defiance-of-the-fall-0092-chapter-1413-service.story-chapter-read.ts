@@ -5,7 +5,7 @@ export const defianceOfTheFall0092Chapter1413Service = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0092-chapter-1413-service",
   title: "Chapter 1,413 - Service",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 92,
   ownLength: 3360,
   unitSlug: "words",

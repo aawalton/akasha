@@ -5,7 +5,7 @@ export const bewareOfChicken0313V7c60AnUninvitedGuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0313-v7c60-an-uninvited-guest",
   title: "v7c60: An Uninvited Guest",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 313,
   ownLength: 2116,
   unitSlug: "words",

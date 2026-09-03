@@ -5,7 +5,7 @@ export const melodyOfMana0277Chapter263ThePriestess = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0277-chapter-263-the-priestess",
   title: "Chapter 263 The Priestess",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 277,
   ownLength: 1374,
   ownProgress: 1374,

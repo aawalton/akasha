@@ -5,7 +5,7 @@ export const bewareOfChicken0175BocMerchFor5TierAndAbovePatreons = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0175-boc-merch-for-5-tier-and-above-patreons",
   title: "BOC Merch For $5 tier and above patreons",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 175,
   ownLength: 95,
   ownProgress: 95,

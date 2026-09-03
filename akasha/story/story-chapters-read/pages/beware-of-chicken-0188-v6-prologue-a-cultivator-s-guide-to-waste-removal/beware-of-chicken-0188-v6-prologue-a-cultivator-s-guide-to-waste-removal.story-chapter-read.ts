@@ -5,7 +5,7 @@ export const bewareOfChicken0188V6PrologueACultivatorSGuideToWasteRemoval = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0188-v6-prologue-a-cultivator-s-guide-to-waste-removal",
   title: "v6 Prologue: A Cultivator's Guide to Waste Removal",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 188,
   ownLength: 2209,
   ownProgress: 2209,

@@ -5,7 +5,7 @@ export const endsOfMagic0030Chapter15VaultOfAdamant = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0030-chapter-15-vault-of-adamant",
   title: "Chapter 15: Vault of Adamant",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 30,
   ownLength: 2752,
   ownProgress: 2752,

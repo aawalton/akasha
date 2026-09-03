@@ -5,7 +5,7 @@ export const bewareOfChicken0157V5c51TheCleanupBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0157-v5c51-the-cleanup-begins",
   title: "v5c51: The Cleanup Begins",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 157,
   ownLength: 2445,
   ownProgress: 2445,

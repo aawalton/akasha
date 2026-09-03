@@ -5,7 +5,7 @@ export const endsOfMagic0004Chapter4PuttingThePiecesTogether = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0004-chapter-4-putting-the-pieces-together",
   title: "Chapter 4 Putting the pieces together",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 4,
   ownLength: 1895,
   ownProgress: 1895,

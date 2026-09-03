@@ -5,7 +5,7 @@ export const bewareOfChicken0310V7c57AVerySwiftTournament = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0310-v7c57-a-very-swift-tournament",
   title: "v7c57: A Very Swift Tournament",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 310,
   ownLength: 2296,
   unitSlug: "words",

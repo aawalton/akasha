@@ -5,7 +5,7 @@ export const endsOfMagic0016Chapter1ALightAndFriendlyChat = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0016-chapter-1-a-light-and-friendly-chat",
   title: "Chapter 1: A Light and Friendly Chat",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 16,
   ownLength: 2813,
   ownProgress: 2813,

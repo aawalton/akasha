@@ -5,7 +5,7 @@ export const melodyOfMana0267Chapter253NightOff = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0267-chapter-253-night-off",
   title: "Chapter 253 Night Off",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 267,
   ownLength: 1577,
   ownProgress: 1577,

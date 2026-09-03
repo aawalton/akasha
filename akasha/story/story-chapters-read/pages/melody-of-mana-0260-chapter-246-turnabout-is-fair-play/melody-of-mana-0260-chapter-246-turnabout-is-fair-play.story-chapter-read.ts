@@ -5,7 +5,7 @@ export const melodyOfMana0260Chapter246TurnaboutIsFairPlay = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0260-chapter-246-turnabout-is-fair-play",
   title: "Chapter 246 Turnabout is Fair Play",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 260,
   ownLength: 1659,
   ownProgress: 1659,

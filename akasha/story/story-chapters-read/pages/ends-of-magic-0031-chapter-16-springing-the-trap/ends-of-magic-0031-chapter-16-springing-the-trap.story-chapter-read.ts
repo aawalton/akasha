@@ -5,7 +5,7 @@ export const endsOfMagic0031Chapter16SpringingTheTrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0031-chapter-16-springing-the-trap",
   title: "Chapter 16: Springing the Trap",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 31,
   ownLength: 2547,
   ownProgress: 2547,

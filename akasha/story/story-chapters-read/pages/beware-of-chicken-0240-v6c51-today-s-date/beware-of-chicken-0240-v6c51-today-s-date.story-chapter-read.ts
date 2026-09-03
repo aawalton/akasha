@@ -5,7 +5,7 @@ export const bewareOfChicken0240V6c51TodaySDate = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0240-v6c51-today-s-date",
   title: "v6c51: Today's Date",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 240,
   ownLength: 2263,
   ownProgress: 2263,

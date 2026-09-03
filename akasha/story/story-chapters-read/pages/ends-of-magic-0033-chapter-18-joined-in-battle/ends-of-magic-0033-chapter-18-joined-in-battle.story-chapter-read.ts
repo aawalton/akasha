@@ -5,7 +5,7 @@ export const endsOfMagic0033Chapter18JoinedInBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0033-chapter-18-joined-in-battle",
   title: "Chapter 18: Joined in Battle",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 33,
   ownLength: 2890,
   ownProgress: 2890,

@@ -5,7 +5,7 @@ export const endsOfMagic0048Chapter33SkiesOfDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0048-chapter-33-skies-of-darkness",
   title: "Chapter 33:  Skies of Darkness",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 48,
   ownLength: 2775,
   ownProgress: 2775,

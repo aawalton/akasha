@@ -5,7 +5,7 @@ export const bewareOfChicken0326V7c73AshesToAshes = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0326-v7c73-ashes-to-ashes",
   title: "v7c73: Ashes to Ashes",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 326,
   ownLength: 2447,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0250V6c61EvenStoneChanges = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0250-v6c61-even-stone-changes",
   title: "v6c61: Even Stone Changes",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 250,
   ownLength: 2746,
   ownProgress: 2746,

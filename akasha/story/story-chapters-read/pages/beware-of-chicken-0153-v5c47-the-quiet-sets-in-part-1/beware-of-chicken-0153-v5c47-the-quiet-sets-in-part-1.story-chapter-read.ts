@@ -5,7 +5,7 @@ export const bewareOfChicken0153V5c47TheQuietSetsInPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0153-v5c47-the-quiet-sets-in-part-1",
   title: "v5c47: The Quiet Sets in Part 1",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 153,
   ownLength: 2124,
   ownProgress: 2124,

@@ -5,7 +5,7 @@ export const bewareOfChicken0251V6c62Serenity = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0251-v6c62-serenity",
   title: "v6c62: 宁静 (Serenity)",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 251,
   ownLength: 2560,
   ownProgress: 2560,

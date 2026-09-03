@@ -5,7 +5,7 @@ export const motherOfLearning002020AMatterOfFaith = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0020-20-a-matter-of-faith",
   title: "20. A Matter of Faith",
-  partOfSlugs: ["mother-of-learning"],
+  partOfSlugs: ["story-read/mother-of-learning"],
   position: 20,
   ownLength: 5878,
   ownProgress: 5878,

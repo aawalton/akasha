@@ -5,7 +5,7 @@ export const endsOfMagic0008Book2PrologueAMeetingMostMonotonous = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0008-book-2-prologue-a-meeting-most-monotonous",
   title: "Book 2 Prologue: A meeting most monotonous ",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 8,
   ownLength: 1785,
   ownProgress: 1785,

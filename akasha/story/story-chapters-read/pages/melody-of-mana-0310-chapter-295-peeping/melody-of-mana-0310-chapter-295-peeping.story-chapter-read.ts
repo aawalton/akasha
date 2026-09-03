@@ -5,7 +5,7 @@ export const melodyOfMana0310Chapter295Peeping = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0310-chapter-295-peeping",
   title: "Chapter 295 Peeping",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 310,
   ownLength: 1503,
   ownProgress: 1503,

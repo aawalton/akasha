@@ -5,7 +5,7 @@ export const bewareOfChicken0234V6c45AtTheFootOfTheMountainLookingUpAtTheClouds 
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0234-v6c45-at-the-foot-of-the-mountain-looking-up-at-the-clouds",
   title: "v6c45: At the Foot of the Mountain, Looking up at the Clouds",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 234,
   ownLength: 2154,
   ownProgress: 2154,

@@ -5,7 +5,7 @@ export const bewareOfChicken0295V7c42FramingAndBrushes = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0295-v7c42-framing-and-brushes",
   title: "v7c42: Framing and Brushes",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 295,
   ownLength: 2371,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0100Chapter1420HeavenlyDescent = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0100-chapter-1420-heavenly-descent",
   title: "Chapter 1,420 - Heavenly Descent",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 100,
   ownLength: 2743,
   unitSlug: "words",

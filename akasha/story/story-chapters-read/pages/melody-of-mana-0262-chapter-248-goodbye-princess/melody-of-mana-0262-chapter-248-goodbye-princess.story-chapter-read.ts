@@ -5,7 +5,7 @@ export const melodyOfMana0262Chapter248GoodbyePrincess = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0262-chapter-248-goodbye-princess",
   title: "Chapter 248 Goodbye Princess",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 262,
   ownLength: 1808,
   ownProgress: 1808,

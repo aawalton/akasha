@@ -5,7 +5,7 @@ export const bewareOfChicken0227V6c38SneakingBackHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0227-v6c38-sneaking-back-home",
   title: "v6c38: Sneaking Back Home",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 227,
   ownLength: 1787,
   ownProgress: 1787,

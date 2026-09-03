@@ -5,7 +5,7 @@ export const defianceOfTheFall0108Chapter1428TakingStock = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0108-chapter-1428-taking-stock",
   title: "Chapter 1,428 - Taking Stock",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 108,
   ownLength: 3116,
   unitSlug: "words",

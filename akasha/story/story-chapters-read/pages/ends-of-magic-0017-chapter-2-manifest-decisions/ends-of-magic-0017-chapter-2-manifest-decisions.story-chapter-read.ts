@@ -5,7 +5,7 @@ export const endsOfMagic0017Chapter2ManifestDecisions = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0017-chapter-2-manifest-decisions",
   title: "Chapter 2: Manifest Decisions",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 17,
   ownLength: 2687,
   ownProgress: 2687,

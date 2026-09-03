@@ -5,7 +5,7 @@ export const bewareOfChicken0248V6c59ShortButSweetReunion = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0248-v6c59-short-but-sweet-reunion",
   title: "v6c59: Short but Sweet Reunion",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 248,
   ownLength: 2242,
   ownProgress: 2242,

@@ -5,7 +5,7 @@ export const bewareOfChicken0178V5c69AReassuringPlace = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0178-v5c69-a-reassuring-place",
   title: "v5c69: A Reassuring Place",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 178,
   ownLength: 2051,
   ownProgress: 2051,

@@ -5,7 +5,7 @@ export const endsOfMagic0024Chapter9DesolateCoasts = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0024-chapter-9-desolate-coasts",
   title: "Chapter 9: Desolate Coasts",
-  partOfSlugs: ["ends-of-magic"],
+  partOfSlugs: ["story-read/ends-of-magic"],
   position: 24,
   ownLength: 2792,
   ownProgress: 2792,

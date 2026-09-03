@@ -5,7 +5,7 @@ export const bewareOfChicken0197V6c9HeSAFunGuy = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0197-v6c9-he-s-a-fun-guy",
   title: "v6c9: He's a Fun Guy",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 197,
   ownLength: 1953,
   ownProgress: 1953,

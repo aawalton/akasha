@@ -5,7 +5,7 @@ export const defianceOfTheFall0104Chapter1424Coronation = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0104-chapter-1424-coronation",
   title: "Chapter 1,424 - Coronation",
-  partOfSlugs: ["defiance-of-the-fall"],
+  partOfSlugs: ["story-read/defiance-of-the-fall"],
   position: 104,
   ownLength: 3023,
   unitSlug: "words",

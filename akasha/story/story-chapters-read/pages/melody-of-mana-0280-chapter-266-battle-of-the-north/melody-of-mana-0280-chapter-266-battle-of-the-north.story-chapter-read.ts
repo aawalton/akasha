@@ -5,7 +5,7 @@ export const melodyOfMana0280Chapter266BattleOfTheNorth = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0280-chapter-266-battle-of-the-north",
   title: "Chapter 266 Battle of the North",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 280,
   ownLength: 1614,
   ownProgress: 1614,

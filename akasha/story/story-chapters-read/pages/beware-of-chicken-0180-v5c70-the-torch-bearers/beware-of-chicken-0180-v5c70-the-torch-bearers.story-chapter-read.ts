@@ -5,7 +5,7 @@ export const bewareOfChicken0180V5c70TheTorchBearers = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0180-v5c70-the-torch-bearers",
   title: "v5c70: The Torch Bearers",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 180,
   ownLength: 2050,
   ownProgress: 2050,
