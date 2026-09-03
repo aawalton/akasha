@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theEditorForkReachesEditorExtensionAtTheRepoRoot = {
+  id: "01a06879-abc3-7944-9ae2-69f2516dfc80",
+  pageTypeSlug: "finding",
+  slug: "the-editor-fork-reaches-editor-extension-at-the-repo-root",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "The last four files of `editor-extension/` cannot leave the repo root while the editor fork reaches them there. `code-editor/tools/promote.sh` symlinks `extensions/ops` at the akasha checkout's `editor-extension`, and derives the commit it promotes from `git log -1 -- editor-extension` in this repository. Emptying the folder dangles the symlink and empties that trigger, and neither fault is visible from inside akasha.",
+  evidence:
+    'Measured 2026-09-03, with `editor-extension/src` already empty and the four remaining files being `package.json`, `tsconfig.json`, `.gitignore` and `generated/vscode.d.ts`.\n\nThe outside reach. `/var/home/walton/repos/code-editor/tools/promote.sh` line 69 states `extensions/ops` is a symlink to `editor-extension` in the akasha checkout; line 77 resolves `AKASHA_REPO`; line 118 sets `EXT_TARGET="$(git -C "$AKASHA_REPO" log -1 --format=%H -- editor-extension)"`, so the path is both a link target and the key the editor rebuilds on. That repository is not part of this migration and nothing in akasha names the dependency.\n\nA second copy already stands. `editor-extension/generated/vscode.d.ts` and `akasha/editor-extension/vscode-api/vscode-api.type-declaration.d.ts` are the same blob, `953f7fee2b7737b6c7ae89672acfcf0ca384b47d`. So the typings are carried inside akasha by hash, while the outside file must stay for the fork.\n\nThat duplication is the risk the outside file\'s own comment names. `shared/vscode-typings/types/index.d.ts` lines 4 to 7 say the block stays at that path because `code-editor/tools/promote.sh` compares it byte for byte against the fork\'s `src/vscode-dts/vscode.d.ts` and refuses the promote when they differ, and that referencing it rather than copying is what keeps akasha from holding a second copy that can fall behind the first. A second copy is now what stands.\n\nNot measured: I did not run the promote, and I did not read whether the fork can be pointed at the akasha path instead. I measured only that the path is reached from outside and that the two copies are identical today.',
+} as const satisfies Finding
