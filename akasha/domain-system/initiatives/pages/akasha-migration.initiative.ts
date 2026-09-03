@@ -39,6 +39,6 @@ export const akashaMigration = {
     "Remove files outside the akasha folder whose content has migrated into the folder, on a positive match per file rather than on the folder having been migrated.",
     "Moving the akasha subfolder to the repo root is the last step. Execute it when everything else is done rather than halting for Alan.",
     "Do not change this list of constraints.",
-    "Set a systemd reminder to remind you of the initiative objective and these constraints every 15 minutes to avoid getting stuck.",
+    "Keep a reminder to remind you of the initiative objective and these constraints every 15 minutes to avoid getting stuck.",
   ],
 } as const satisfies Initiative
