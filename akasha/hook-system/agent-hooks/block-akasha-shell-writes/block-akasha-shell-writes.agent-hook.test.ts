@@ -5,7 +5,9 @@ import {
   editsInPlace,
   landingsIn,
   pathsSpelledIn,
+  programHandedIn,
   programsIn,
+  rawCallsIn,
   redirectsIn,
   refusalFor,
 } from "./block-akasha-shell-writes.agent-hook.code.ts"
@@ -241,4 +243,41 @@ test("an interpreter is read from the call rather than from a quoted run", () =>
 
 test("an interpreter behind a prefix is the call", () => {
   expect(programsIn("sudo python3 -c print(1)")).toEqual(["python3"])
+})
+
+test("a path another call in the chain names is not the program's", () => {
+  expect(said("bun run /var/tmp/x.tmp.ts; akasha test --file-path akasha/hook-system")).toBeNull()
+  expect(said("bun run /var/tmp/x.tmp.ts && rg slug akasha/hook-system")).toBeNull()
+  expect(said("python3 /var/tmp/w.py && git log --oneline -- akasha/hook-system")).toBeNull()
+  expect(said("python3 /var/tmp/w.py | grep akasha/hook-system")).toBeNull()
+})
+
+test("an interpreter in a later call is judged as a first one is", () => {
+  expect(said("echo hi && python3 -c \"open('akasha/held.domain.ts','w')\"")).toContain(INSIDE)
+})
+
+test("a separator inside a quoted run does not cut the call", () => {
+  expect(rawCallsIn("python3 -c \"import os; os.remove('akasha/x.ts')\"")).toEqual([
+    "python3 -c \"import os; os.remove('akasha/x.ts')\"",
+  ])
+})
+
+test("a separator outside a quoted run cuts the call", () => {
+  expect(rawCallsIn("echo hi && rm /var/tmp/x")).toEqual(["echo hi", "rm /var/tmp/x"])
+})
+
+test("a heredoc body reaches the call that opened it", () => {
+  const calls = rawCallsIn("python3 <<'EOF'\nopen('akasha/x.ts','w')\nEOF")
+  expect(programHandedIn(calls, 0)).toContain("akasha/x.ts")
+})
+
+test("a heredoc body ends at its delimiter", () => {
+  const calls = rawCallsIn("python3 <<'EOF'\nprint(1)\nEOF\nakasha test --file-path akasha/x")
+  expect(programHandedIn(calls, 0)).not.toContain("akasha/x")
+})
+
+test("a call past a heredoc delimiter is another call", () => {
+  expect(
+    said("python3 <<'EOF'\nprint(1)\nEOF\nakasha test --file-path akasha/hook-system")
+  ).toBeNull()
 })

@@ -56,7 +56,7 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "An interpreter is judged on every path the whole command line spells.",
+      statement: "An interpreter is judged on every path the call handing it a program names.",
     },
     {
       invariantKind: "constraint",

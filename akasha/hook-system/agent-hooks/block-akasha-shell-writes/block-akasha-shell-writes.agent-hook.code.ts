@@ -5,6 +5,7 @@ import {
   basenameOf,
   calledWords,
   dequoted,
+  joinedContinuations,
   segmentsOf,
   wordsOf,
 } from "../../shell-calls/shell-calls.module.code.ts"
@@ -58,6 +59,12 @@ const OUT_FILE = /^of=(.+)$/
 const REDIRECT = /^\d*>>?(.*)$/
 
 const SPELLED = /[A-Za-z0-9_.~+@/-]+/g
+
+const HEREDOC = /<<-?\s*['"]?([A-Za-z_][A-Za-z0-9_]*)['"]?/
+
+const QUOTES = new Set(["'", '"'])
+
+const SEPARATORS = new Set(["\n", ";", "|", "&"])
 
 export type Landing = {
   readonly at: string
@@ -149,6 +156,62 @@ export function programsIn(command: string): readonly string[] {
   return found
 }
 
+export function rawCallsIn(command: string): readonly string[] {
+  const found: string[] = []
+  const text = joinedContinuations(command)
+  let held = ""
+  let quote = ""
+  for (const one of text) {
+    if (quote !== "") {
+      held += one
+      if (one === quote) quote = ""
+      continue
+    }
+    if (QUOTES.has(one)) {
+      quote = one
+      held += one
+      continue
+    }
+    if (SEPARATORS.has(one)) {
+      found.push(held)
+      held = ""
+      continue
+    }
+    held += one
+  }
+  found.push(held)
+  return found.map((one) => one.trim()).filter((one) => one !== "")
+}
+
+export function programHandedIn(calls: readonly string[], at: number): string {
+  const one = calls[at] ?? ""
+  const said = HEREDOC.exec(one)
+  if (said === null) return one
+  const ends = said[1]
+  let text = one
+  for (let next = at + 1; next < calls.length; next += 1) {
+    const line = calls[next] ?? ""
+    if (line === ends) break
+    text += `\n${line}`
+  }
+  return text
+}
+
+export function programLandingsIn(command: string): readonly Landing[] {
+  const calls = rawCallsIn(command)
+  const found: Landing[] = []
+  for (let at = 0; at < calls.length; at += 1) {
+    const head = calledWords(segmentsOf(calls[at] ?? "")[0] ?? "")[0]
+    if (head === undefined) continue
+    const tool = basenameOf(head)
+    if (!READING_A_PROGRAM.has(tool)) continue
+    for (const shown of pathsSpelledIn(programHandedIn(calls, at))) {
+      found.push({ at: shown, how: tool })
+    }
+  }
+  return found
+}
+
 export function pathsSpelledIn(command: string): readonly string[] {
   const found: string[] = []
   for (const said of command.matchAll(SPELLED)) {
@@ -217,12 +280,10 @@ export function refusalFor(command: string, from: string, root: string): string 
     if (insideOf(guarded.pages, at)) return refusing(landing.how, landing.at, false)
     if (insideOf(guarded.index, at)) return refusing(landing.how, landing.at, true)
   }
-  for (const tool of programsIn(command)) {
-    for (const shown of pathsSpelledIn(command)) {
-      const at = settled(resolve(from, shown))
-      if (insideOf(guarded.pages, at)) return refusingAProgram(tool, shown, false)
-      if (insideOf(guarded.index, at)) return refusingAProgram(tool, shown, true)
-    }
+  for (const landing of programLandingsIn(command)) {
+    const at = settled(resolve(from, landing.at))
+    if (insideOf(guarded.pages, at)) return refusingAProgram(landing.how, landing.at, false)
+    if (insideOf(guarded.index, at)) return refusingAProgram(landing.how, landing.at, true)
   }
   return null
 }
