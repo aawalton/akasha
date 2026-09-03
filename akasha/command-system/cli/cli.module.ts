@@ -18,6 +18,10 @@ export const cli = {
     },
     {
       invariantKind: "departure",
+      statement: "What is printed is out before the exit code ends the process.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What was done is printed apart from what refused the command.",
     },
     {

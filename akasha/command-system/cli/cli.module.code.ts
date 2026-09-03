@@ -58,7 +58,12 @@ export async function answering(
 
 if (import.meta.main) {
   const said = await answering(process.argv.slice(2), process.env, import.meta.path, process.cwd())
-  for (const one of said.out) process.stdout.write(`${one}\n`)
-  for (const one of said.err) process.stderr.write(`${one}\n`)
+  // A PIPE TAKES AN ANSWER IN PIECES, and `process.exit` gives up whatever has not left yet, so a
+  // large answer reaching a piped reader ended at a 64 KiB boundary. Measured: the 985,937-byte
+  // `page-tree` answer came back short in 5 runs of 8 through a pipe and was whole every time into
+  // a file, and a probe of one line that size lost bytes 6 times in 6. `Bun.write` is awaited, so
+  // what is printed is out before the code is given, and the code still ends the process at once.
+  if (said.out.length > 0) await Bun.write(Bun.stdout, said.out.map((one) => `${one}\n`).join(""))
+  if (said.err.length > 0) await Bun.write(Bun.stderr, said.err.map((one) => `${one}\n`).join(""))
   process.exit(said.code)
 }
