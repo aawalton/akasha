@@ -1,31 +1,56 @@
-import { readFileSync } from "node:fs"
+import {
+  textAt,
+  type Value,
+  valueAt,
+} from "../../akasha/pages-system/pages/value/page-value.module.code.ts"
 
-export const CONDUCT_RELATIVE_PATH = "pages/domain/alan-harness-agents-annoyance.domain.md"
+export const CONDUCT_RELATIVE_PATH =
+  "akasha/alan/harness/agents/annoyance/alan-harness-agents-annoyance.domain.ts"
 
-const FENCE = "---"
+const DEFINITION = "definition"
 
-export function bodyBelowFrontmatter(text: string): string {
-  const lines = text.replace(/\r\n/g, "\n").split("\n")
-  if (lines[0] !== FENCE) return text.trim()
-  const closes = lines.slice(1).findIndex((line) => line === FENCE)
-  return closes === -1 ? text.trim() : lines.slice(closes + 2).join("\n").trim()
+const INVARIANTS = "invariants"
+
+const STATEMENT = "statement"
+
+function statementsIn(value: Value): readonly string[] {
+  const held = value[INVARIANTS]
+  if (!Array.isArray(held)) return []
+  const said: string[] = []
+  for (const one of held) {
+    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+    const line = textAt(one as Value, STATEMENT)
+    if (line !== null && line !== "") said.push(line)
+  }
+  return said
+}
+
+export function conductFrom(value: Value): string {
+  const definition = textAt(value, DEFINITION)
+  const said = definition === null || definition === "" ? [] : [definition]
+  return [...said, ...statementsIn(value)].join("\n\n").trim()
 }
 
 export function conductIn(root: string): string {
   const path = `${root}/${CONDUCT_RELATIVE_PATH}`
-  let text: string
+  let value: Value | null
   try {
-    text = readFileSync(path, "utf8")
+    value = valueAt(CONDUCT_RELATIVE_PATH, root)
   } catch (cause) {
     throw new Error(
       `turn-end-reading: the conduct at ${path} could not be read, so this turn end has nothing ` +
         `to be read against: ${cause instanceof Error ? cause.message : String(cause)}`
     )
   }
-  const body = bodyBelowFrontmatter(text)
+  if (value === null)
+    throw new Error(
+      `turn-end-reading: ${CONDUCT_RELATIVE_PATH} answers to no page value, so this turn end has ` +
+        "nothing to be read against."
+    )
+  const body = conductFrom(value)
   if (body === "")
     throw new Error(
-      `turn-end-reading: ${CONDUCT_RELATIVE_PATH} carries no body below its frontmatter, so it ` +
+      `turn-end-reading: ${CONDUCT_RELATIVE_PATH} states no definition and no invariant, so it ` +
         "says nothing about what annoys its principal. It is the whole of what a reading is " +
         "taken against, so no turn end is read without it."
     )
