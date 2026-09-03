@@ -66,6 +66,16 @@ export const message = {
       statement: "A message claimed and left is claimed again once the claim is let go.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A message is named for the last twelve hex of its identity rather than for what it says.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A message is named as it is written, when nothing readable about it is known yet.",
+    },
+    {
       invariantKind: "gap",
       statement: "The messages waiting stand as pages under this type rather than as markdown.",
     },
