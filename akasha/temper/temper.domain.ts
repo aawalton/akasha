@@ -42,6 +42,7 @@ export const temper = {
     "workspace-package/temper-addon-build",
     "workspace-package/temper-capture-shapes",
     "workspace-package/temper-eso-paths",
+    "workspace-package/temper-eso-typings",
     "eso-addon/temper-lib-table-functions",
     "workspace-package/temper-saved-variables",
     "workspace-package/temper-settings-panel",

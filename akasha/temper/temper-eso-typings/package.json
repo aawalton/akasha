@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-eso-typings",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./eso-doc-tokens": "./eso-doc-tokens/eso-doc-tokens.module.code.ts",
+    "./eso-token-scope": "./eso-token-scope/eso-token-scope.module.code.ts",
+    "./eso-declaration-text": "./eso-declaration-text/eso-declaration-text.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

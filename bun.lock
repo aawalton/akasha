@@ -816,20 +816,6 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/language-design/lua-compiler": {
-      "name": "@akasha/lua-compiler",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
-        "enhanced-resolve": "5.8.2",
-        "picomatch": "^2.3.1",
-        "resolve": "^1.15.1",
-        "source-map": "^0.7.3",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "typescript": "5.9.3",
-      },
-    },
     "akasha/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
@@ -1764,6 +1750,12 @@
     },
     "akasha/temper/temper-eso-types": {
       "name": "@akasha/temper-eso-types",
+    },
+    "akasha/temper/temper-eso-typings": {
+      "name": "@akasha/temper-eso-typings",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
     },
     "akasha/temper/temper-events-addon": {
       "name": "@akasha/temper-events-addon",
@@ -3213,8 +3205,6 @@
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
 
-    "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:akasha/language-design/lua-compiler"],
-
     "@akasha/migration-system": ["@akasha/migration-system@workspace:akasha/migration-system"],
 
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
@@ -3424,6 +3414,8 @@
     "@akasha/temper-eso-paths": ["@akasha/temper-eso-paths@workspace:akasha/temper/temper-eso-paths"],
 
     "@akasha/temper-eso-types": ["@akasha/temper-eso-types@workspace:akasha/temper/temper-eso-types"],
+
+    "@akasha/temper-eso-typings": ["@akasha/temper-eso-typings@workspace:akasha/temper/temper-eso-typings"],
 
     "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:akasha/temper/temper-events-addon"],
 
