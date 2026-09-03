@@ -66,6 +66,16 @@ export const editorExtension = {
     "module/work-tree-reading",
     "module/work-tree-view",
     "module/work-tree-panel",
+    "module/agent-row",
+    "module/harness-json",
+    "module/agent-forest-answer",
+    "module/seat-tab-context",
+    "module/subagent-checkpoints",
+    "module/column-memory",
+    "module/seat-terminals",
+    "module/seat-toggles",
+    "module/seat-act-confirm",
+    "module/agent-tree-lookup",
   ],
   invariants: [
     {
