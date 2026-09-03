@@ -1,8 +1,7 @@
 import { MS_PER_DAY, NOON, parseDay } from "@akasha/day/day-string"
 import { getEsoDayStr, getEsoDayStrOffset } from "@akasha/day/eso-day"
+import { type Asking, type Row, rowsFor } from "@akasha/exercise-access/exercise-rows"
 import type { SelectionPolicy } from "@akasha/exercise-access/selection-policy"
-import { getPages } from "@akasha/pages-access/get"
-import type { Page } from "@akasha/pages-core/page-types"
 import type { EquipmentCategory } from "../../equipment-items/properties/equipment-category.select-property.ts"
 import type { Equipment } from "../../exercises/properties/equipment.select-property.ts"
 import type { Laterality } from "../../exercises/properties/laterality.select-property.ts"
@@ -60,31 +59,37 @@ const WEEKDAY_BY_UTC_DAY: readonly DayOfWeek[] = [
   "saturday",
 ]
 
-function textAt(page: Page, key: string): string | undefined {
+function textAt(page: Row, key: string): string | undefined {
   const held = page[key]
   return typeof held === "string" ? held : undefined
 }
 
-function numberAt(page: Page, key: string): number | undefined {
+function numberAt(page: Row, key: string): number | undefined {
   const held = page[key]
   return typeof held === "number" ? held : undefined
 }
 
-function flagAt(page: Page, key: string): boolean | undefined {
+function flagAt(page: Row, key: string): boolean | undefined {
   const held = page[key]
   return typeof held === "boolean" ? held : undefined
 }
 
-function textsAt(page: Page, key: string): readonly string[] {
+function textsAt(page: Row, key: string): readonly string[] {
   const held = page[key]
   if (!Array.isArray(held)) return []
   return held.filter((one): one is string => typeof one === "string")
 }
 
-function numbersAt(page: Page, key: string): readonly number[] {
+function numbersAt(page: Row, key: string): readonly number[] {
   const held = page[key]
   if (!Array.isArray(held)) return []
   return held.filter((one): one is number => typeof one === "number").sort((a, b) => a - b)
+}
+
+async function rowsRead(asking: Asking): Promise<readonly Row[]> {
+  const found = await rowsFor(asking)
+  if ("unread" in found) throw new Error(found.unread)
+  return found.rows
 }
 
 function dayOfWeekOf(dayStr: string): DayOfWeek {
@@ -109,15 +114,15 @@ async function resolveFocus(
   dayStr: string
 ): Promise<string | null> {
   if (focusAsked !== undefined) return focusAsked
-  const schedules = await getPages({
+  const schedules = await rowsRead({
     pageTypeSlug: "workout-schedule",
     where: [{ key: "workoutScheduleActive", eq: true }],
     select: ["id", "slug"],
     limit: 2,
   })
-  const active = schedules.rows[0]
+  const active = schedules[0]
   if (active === undefined || active.slug === null) return null
-  const days = await getPages({
+  const days = await rowsRead({
     pageTypeSlug: "schedule-day",
     where: [
       { key: "scheduleSlug", eq: active.slug },
@@ -126,7 +131,7 @@ async function resolveFocus(
     select: ["focus"],
     limit: 1,
   })
-  const scheduled = days.rows[0] === undefined ? undefined : textAt(days.rows[0], "focus")
+  const scheduled = days[0] === undefined ? undefined : textAt(days[0], "focus")
   return scheduled !== undefined && scheduled !== "rest" ? scheduled : null
 }
 
@@ -136,14 +141,14 @@ type EquipmentKit = {
 }
 
 async function loadEquipmentKit(): Promise<EquipmentKit> {
-  const items = await getPages({
+  const items = await rowsRead({
     pageTypeSlug: "equipment-item",
     select: ["id", "category", "loads", "available"],
     limit: 200,
   })
   const laddersByCategory = new Map<EquipmentCategory, readonly number[]>()
   const availableCategories = new Set<EquipmentCategory>()
-  for (const item of items.rows) {
+  for (const item of items) {
     if (flagAt(item, "available") === false) continue
     const category = textAt(item, "category") as EquipmentCategory | undefined
     if (category === undefined) continue
@@ -242,12 +247,9 @@ async function loadHistory(
   weekStartDay: string,
   todayDayStr: string
 ): Promise<HistoryData> {
-  const logs = await getPages({
+  const logs = await rowsRead({
     pageTypeSlug: "set-log",
-    order: [
-      { by: "seq", dir: "desc" },
-      { by: "id", dir: "desc" },
-    ],
+    order: [{ by: "id", dir: "desc" }],
     select: [
       "id",
       "sessionSlug",
@@ -264,20 +266,20 @@ async function loadHistory(
 
   const sessionSlugs = [
     ...new Set(
-      logs.rows
+      logs
         .map((row) => textAt(row, "sessionSlug"))
         .filter((slug): slug is string => slug !== undefined)
     ),
   ]
   const dayBySession = new Map<string, string>()
   if (sessionSlugs.length > 0) {
-    const sessions = await getPages({
+    const sessions = await rowsRead({
       pageTypeSlug: "workout-session",
       where: [{ key: "slug", in: sessionSlugs }],
       select: ["id", "slug", "workoutSessionDate"],
       limit: sessionSlugs.length,
     })
-    for (const session of sessions.rows) {
+    for (const session of sessions) {
       const day = textAt(session, "workoutSessionDate")
       if (day !== undefined && session.slug !== null) dayBySession.set(session.slug, day)
     }
@@ -286,7 +288,7 @@ async function loadHistory(
   const everLogged = new Set<ExerciseSlug>()
   const loggedByExercise = new Map<ExerciseSlug, LoggedSet[]>()
   const week: LoggedSet[] = []
-  for (const row of logs.rows) {
+  for (const row of logs) {
     const exerciseSlug = textAt(row, "exerciseSlug")
     if (exerciseSlug === undefined) continue
     everLogged.add(exerciseSlug)
@@ -318,7 +320,7 @@ async function loadHistory(
   return { everLogged, byExercise, week }
 }
 
-function featuresOf(page: Page): MovementFeatures {
+function featuresOf(page: Row): MovementFeatures {
   return {
     movementPattern: (textAt(page, "movementPattern") ?? DEFAULT_PATTERN) as MovementPattern,
     secondaryPattern: textAt(page, "secondaryPattern") as MovementFeatures["secondaryPattern"],
@@ -356,12 +358,12 @@ export async function loadSelectorInputs(
 
   const [kit, catalog, history] = await Promise.all([
     loadEquipmentKit(),
-    getPages({ pageTypeSlug: "exercise", select: CATALOG_SELECT, limit: CATALOG_READ_LIMIT }),
+    rowsRead({ pageTypeSlug: "exercise", select: CATALOG_SELECT, limit: CATALOG_READ_LIMIT }),
     loadHistory(windowStartDay, weekStartDay, dayStr),
   ])
 
   const movementBySlug = new Map<ExerciseSlug, WeekMovement>()
-  for (const page of catalog.rows) {
+  for (const page of catalog) {
     if (page.slug === null) continue
     movementBySlug.set(page.slug, {
       movementPattern: (textAt(page, "movementPattern") ?? DEFAULT_PATTERN) as MovementPattern,
@@ -386,7 +388,7 @@ export async function loadSelectorInputs(
   }
 
   const candidates: ScoredCandidate[] = []
-  for (const page of catalog.rows) {
+  for (const page of catalog) {
     if (page.slug === null) continue
     const equipment = (textAt(page, "equipment") ?? null) as Equipment | null
     if (!kit.inKit(equipment)) continue
