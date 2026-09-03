@@ -4,7 +4,6 @@
   "type": "module",
   "workspaces": [
     "akasha/**",
-    "collections/exercises",
     "readouts",
     "shared/vscode-typings",
     "tools/lib",
@@ -55,7 +54,6 @@
     "@akasha/utils-process": "workspace:*",
     "@akasha/utils-sync": "workspace:*",
     "@akasha/utils-system": "workspace:*",
-    "@collections/exercises": "workspace:*",
     "@googleapis/calendar": "^15.0.0",
     "@googleapis/drive": "^20.2.0",
     "@googleapis/gmail": "^17.0.0",
