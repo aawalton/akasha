@@ -11,6 +11,7 @@
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./holding": "./holding/holding.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",
+    "./piping": "./piping/piping.module.code.ts",
     "./reading": "./reading/reading.module.code.ts",
     "./rooting": "./rooting/rooting.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
