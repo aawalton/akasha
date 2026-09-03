@@ -72,13 +72,13 @@
         "**/*.ts"
       ]
     },
-    "shared/utils-test": {
+    "akasha/testing-system": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
       "project": [
         "**/*.ts"
       ]
-    },
+    }
   }
 }
