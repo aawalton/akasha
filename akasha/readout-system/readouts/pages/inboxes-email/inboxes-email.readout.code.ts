@@ -3,16 +3,29 @@ import { statedAt } from "../../../readout-tier/readout-tier.module.code.ts"
 
 const MAIL = "email-entry"
 
-const LOWEST = "lowest-inbox-count"
+const LOWEST = "lowestInboxCount"
 
 const DATE = "date"
 
 const MAIL_UNKNOWN =
   "the mail entry could not be read, so how near the inbox came to empty is unknown rather than none"
 
-export function mailOn(day: string): Readonly<Record<string, unknown>> {
+/**
+ * The question, in the shape the akasha store takes it in.
+ *
+ * A mail entry is an akasha page, so it names its page type as `pageTypeSlug` and carries its count
+ * under the key the page states rather than under the slug the property is filed by.
+ */
+export type MailAsked = {
+  readonly pageTypeSlug: string
+  readonly where: Readonly<Record<string, { readonly is: string }>>
+  readonly keys: readonly string[]
+  readonly limit: number
+}
+
+export function mailOn(day: string): MailAsked {
   return {
-    "page-type": MAIL,
+    pageTypeSlug: MAIL,
     where: { [DATE]: { is: day } },
     keys: [LOWEST],
     limit: 1,
