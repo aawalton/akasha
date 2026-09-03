@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@audhdalan/web"
+export const packageName = "@akasha/audhdalan-web"
 
 export const profiles: NamespaceProfile[] = [
   {
