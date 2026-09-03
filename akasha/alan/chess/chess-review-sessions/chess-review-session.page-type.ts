@@ -1,15 +1,15 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Notes } from "../../../persona-system/review-sessions/properties/notes.file-property.ts"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
 import type { ChessGameSlug } from "./properties/chess-game-slug.relation-property.ts"
+import type { ChessReviewSessionNotes } from "./properties/chess-review-session-notes.file-property.ts"
 import type { ReviewedAt } from "./properties/reviewed-at.instant-property.ts"
 
 export type ChessReviewSession = Page & {
   title: Title
   chessGameSlug: ChessGameSlug
   reviewedAt: ReviewedAt
-  notes: Notes
+  notes: ChessReviewSessionNotes
 }
 
 export const chessReviewSession = {
@@ -20,7 +20,7 @@ export const chessReviewSession = {
   pluralSlug: "chess-review-sessions",
   extendsSlug: "page-type/page",
   partSlugs: [
-    "file-property/notes",
+    "file-property/chess-review-session-notes",
     "instant-property/reviewed-at",
     "relation-property/chess-game-slug",
     "text-property/title",
@@ -29,7 +29,7 @@ export const chessReviewSession = {
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "chess-game-slug", required: true, many: false },
     { pagePropertySlug: "reviewed-at", required: true, many: false },
-    { pagePropertySlug: "notes", required: true, many: false },
+    { pagePropertySlug: "chess-review-session-notes", required: true, many: false },
   ],
   invariants: [
     {
