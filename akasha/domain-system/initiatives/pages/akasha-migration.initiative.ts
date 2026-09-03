@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "Now 57,363 outside akasha against 52,389 inside, from 69,894 and 32,904 at dispatch. The 261 `pages/` folders group into 18 families sharing no page type. 17,041 files are already accreted, all under `pages/`. `akasha audit` runs its ~41 checks at once at ~1.8 GB each, which is the defect; one agent holds the licence while that is fixed. Anyone may run one check at ~2.5 GB: `akasha audit --check <slug>`. Audit refuses redirected output: zero bytes, exit 144. Give it a pty with `script -qec`.",
+        "Now 10,183 outside akasha against 124,920 inside, from 69,894 and 32,904 at dispatch. MEASURED, correcting what this said before: audit runs its 41 checks SERIALLY in one process, peaks at 17.2 GB over 911s, and ACCEPTS redirected output. The licence is lifted; the rule is one full audit at a time. Only `akasha read` refuses a pipe, so `script -qec` is owed to nothing else, and an exit 144 is an OOM kill rather than a refusal. Refusal counts cannot be compared across runs on a live tree.",
     },
     {
       statement: "The story chapters are akasha pages.",
