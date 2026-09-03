@@ -1,9 +1,11 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Model } from "../seats/properties/model.text-property.ts"
+import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 import type { SubagentPrompt } from "./properties/subagent-prompt.file-property.ts"
 
 export type SubagentKind = Domain & {
+  dispatchedAs: DispatchedAs
   subagentPrompt: SubagentPrompt
   model?: Model
 }
@@ -15,8 +17,9 @@ export const subagentKind = {
   definition: "everything a subagent is, apart from the work it is given",
   pluralSlug: "subagent-kinds",
   extendsSlug: "page-type/domain",
-  partSlugs: ["file-property/subagent-prompt"],
+  partSlugs: ["file-property/subagent-prompt", "text-property/dispatched-as"],
   properties: [
+    { pagePropertySlug: "dispatched-as", required: true, many: false },
     { pagePropertySlug: "subagent-prompt", required: true, many: false },
     { pagePropertySlug: "model", required: false, many: false },
   ],
@@ -40,10 +43,6 @@ export const subagentKind = {
     {
       invariantKind: "departure",
       statement: "A kind stating no model runs on the model of the seat that dispatched it.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The name a seat dispatches a kind by stands as a property of this page type.",
     },
     {
       invariantKind: "gap",
