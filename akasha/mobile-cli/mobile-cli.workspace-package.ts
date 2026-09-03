@@ -59,5 +59,22 @@ export const mobileCli = {
       invariantKind: "absence",
       statement: "Nothing here compiles Swift.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An app on a phone is the build the last install put there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The build on a phone can disagree with what the server is already sending.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An install carries every change already on main rather than the change that asked for the install.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing outside an app's page states a value that page carries.",
+    },
   ],
 } as const satisfies WorkspacePackage
