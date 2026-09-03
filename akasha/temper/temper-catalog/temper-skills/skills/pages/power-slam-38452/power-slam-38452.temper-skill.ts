@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const powerSlam38452 = {
-  id: "01a05fd1-2e19-7fa7-8197-0eee5d5b7e1b",
+  id: "019e6f53-a52e-75f9-9ae4-ebe16abe7ee8",
   pageTypeSlug: "temper-skill",
   slug: "power-slam-38452",
   title: "Power Slam",

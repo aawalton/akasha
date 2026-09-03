@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const prism = {
-  id: "01a05fd1-2e1c-7b52-bcd1-b571e90f2584",
+  id: "019e6245-a6f1-70c5-9743-f32b22c6e76f",
   pageTypeSlug: "temper-skill",
   slug: "prism",
   title: "Prism",

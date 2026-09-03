@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const mercilessResolve = {
-  id: "01a05fd1-2dfb-7ed4-92df-42142d0c67de",
+  id: "019e6245-a6cf-756b-97b6-ba216402bae2",
   pageTypeSlug: "temper-skill",
   slug: "merciless-resolve",
   title: "Merciless Resolve",

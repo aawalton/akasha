@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const ransack = {
-  id: "01a05fd1-2e29-7428-a3e4-68e05cf4cd7b",
+  id: "019e6226-0109-7df7-9d2a-40433a9def21",
   pageTypeSlug: "temper-skill",
   slug: "ransack",
   title: "Ransack",

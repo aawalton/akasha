@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const radiantMagelight = {
-  id: "01a05fd1-2e26-7b5f-ad22-9a97b137ed8b",
+  id: "019e6238-c2fb-7990-9efa-a51cfe115fc5",
   pageTypeSlug: "temper-skill",
   slug: "radiant-magelight",
   title: "Radiant Magelight",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const rapidStrikes = {
-  id: "01a05fd1-2e2b-7c6f-a4ab-1c92621ea64d",
+  id: "019e6226-010b-786a-b92d-3a91a8ea5ae5",
   pageTypeSlug: "temper-skill",
   slug: "rapid-strikes",
   title: "Rapid Strikes",

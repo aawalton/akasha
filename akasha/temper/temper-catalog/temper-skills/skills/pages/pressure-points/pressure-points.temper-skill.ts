@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const pressurePoints = {
-  id: "01a05fd1-2e1c-7aa2-b35f-29d5bbe93f2f",
+  id: "019e6245-a6ef-7e0f-b101-e8d5a095fc75",
   pageTypeSlug: "temper-skill",
   slug: "pressure-points",
   title: "Pressure Points",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const razorCaltrops40242 = {
-  id: "01a05fd1-2e2d-7ad1-b175-f6149a447bd5",
+  id: "019e6f53-a5b7-75a2-9ad7-e4123389ac64",
   pageTypeSlug: "temper-skill",
   slug: "razor-caltrops-40242",
   title: "Razor Caltrops",

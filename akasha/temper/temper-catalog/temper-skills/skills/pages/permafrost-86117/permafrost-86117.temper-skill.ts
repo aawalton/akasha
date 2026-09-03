@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const permafrost86117 = {
-  id: "01a05fd1-2e0f-7127-8c7c-2fd6cbba9fd3",
+  id: "019e6f53-a4ed-774d-b215-31c9167e6e71",
   pageTypeSlug: "temper-skill",
   slug: "permafrost-86117",
   title: "Permafrost",

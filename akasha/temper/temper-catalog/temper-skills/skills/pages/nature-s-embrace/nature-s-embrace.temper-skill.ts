@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const natureSEmbrace = {
-  id: "01a05fd1-2e04-7faf-9bf6-2edb573301a2",
+  id: "019e6f53-a4ac-7de0-b0b0-62f5f33d3947",
   pageTypeSlug: "temper-skill",
   slug: "nature-s-embrace",
   title: "Nature's Embrace",

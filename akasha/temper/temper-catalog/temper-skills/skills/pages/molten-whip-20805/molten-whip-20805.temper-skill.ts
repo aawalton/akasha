@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const moltenWhip20805 = {
-  id: "01a05fd1-2e00-760e-be29-59351f7c7a6f",
+  id: "019e6f53-a496-719a-a14a-d4ef82e1a04b",
   pageTypeSlug: "temper-skill",
   slug: "molten-whip-20805",
   title: "Molten Whip",

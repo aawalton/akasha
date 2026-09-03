@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const radialSweep = {
-  id: "01a05fd1-2e24-7461-b834-10f7ea5cba55",
+  id: "019e6f53-a57a-78fe-ad75-0e8bd707a36d",
   pageTypeSlug: "temper-skill",
   slug: "radial-sweep",
   title: "Radial Sweep",

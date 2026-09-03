@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const mirage35414 = {
-  id: "01a05fd1-2dff-74a1-bf28-d145a5ca7b2e",
+  id: "019e6f53-a48d-706b-9209-e7c14543e27a",
   pageTypeSlug: "temper-skill",
   slug: "mirage-35414",
   title: "Mirage",

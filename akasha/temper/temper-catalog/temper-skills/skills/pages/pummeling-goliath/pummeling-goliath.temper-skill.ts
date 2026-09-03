@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const pummelingGoliath = {
-  id: "01a05fd1-2e20-7b3a-a94f-9d6cf0e47679",
+  id: "019e6245-a6f4-7515-b359-2be7a3b4d02b",
   pageTypeSlug: "temper-skill",
   slug: "pummeling-goliath",
   title: "Pummeling Goliath",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const regenerativeWard = {
-  id: "01a05fd1-7c83-7bc3-a917-325f6651d1d2",
+  id: "019e6245-a706-75ee-95f3-d8325fc86efe",
   pageTypeSlug: "temper-skill",
   slug: "regenerative-ward",
   title: "Regenerative Ward",

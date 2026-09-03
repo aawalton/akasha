@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const precognition103557 = {
-  id: "01a05fd1-2e1b-768b-9eae-1ac09536dc93",
+  id: "019e6f53-a540-7804-adac-11e904bacfeb",
   pageTypeSlug: "temper-skill",
   slug: "precognition-103557",
   title: "Precognition",

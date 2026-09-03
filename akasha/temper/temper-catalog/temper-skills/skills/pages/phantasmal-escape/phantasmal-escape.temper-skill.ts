@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const phantasmalEscape = {
-  id: "01a05fd1-2e11-7790-974c-db488a23d8aa",
+  id: "019e6245-a6e2-7e53-a1ba-7dcafebabfd3",
   pageTypeSlug: "temper-skill",
   slug: "phantasmal-escape",
   title: "Phantasmal Escape",

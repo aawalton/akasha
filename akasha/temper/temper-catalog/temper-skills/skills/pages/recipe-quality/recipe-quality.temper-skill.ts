@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const recipeQuality = {
-  id: "01a05fd1-2e2f-7bfd-9981-a10d2b68d2ed",
+  id: "019e6224-ccaa-7eb6-82de-439d9511642e",
   pageTypeSlug: "temper-skill",
   slug: "recipe-quality",
   title: "Recipe Quality",

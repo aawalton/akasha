@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const relentlessFocus61927 = {
-  id: "01a05fd1-7c84-7874-869e-8fd6ba53b1e6",
+  id: "019e6f53-a5e6-7c5a-b0cd-869038ad495c",
   pageTypeSlug: "temper-skill",
   slug: "relentless-focus-61927",
   title: "Relentless Focus",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const mightOfTheGuild43561 = {
-  id: "01a05fd1-2dfe-79f0-aa4e-34115f82c97b",
+  id: "019e6f53-a487-7f38-a4ba-12ab80600e3d",
   pageTypeSlug: "temper-skill",
   slug: "might-of-the-guild-43561",
   title: "Might of the Guild",

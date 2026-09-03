@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const practicedIncantation = {
-  id: "01a05fd1-2e1a-7a16-a81b-452a8acfda0c",
+  id: "019e6245-a6ed-7aaa-a4e1-779d6c204390",
   pageTypeSlug: "temper-skill",
   slug: "practiced-incantation",
   title: "Practiced Incantation",

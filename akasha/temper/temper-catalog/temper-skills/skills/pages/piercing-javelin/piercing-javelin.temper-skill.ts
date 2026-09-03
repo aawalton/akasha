@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const piercingJavelin = {
-  id: "01a05fd1-2e13-7027-b8a6-ba8b2f2a35a2",
+  id: "019e6f53-a507-7745-b847-17de24fbe7e0",
   pageTypeSlug: "temper-skill",
   slug: "piercing-javelin",
   title: "Piercing Javelin",

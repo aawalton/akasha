@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const passageBetweenWorlds = {
-  id: "01a05fd1-2e0c-71d3-b34f-0f6009605039",
+  id: "019e6245-a6de-7a73-af15-feee03950e26",
   pageTypeSlug: "temper-skill",
   slug: "passage-between-worlds",
   title: "Passage Between Worlds",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const reapersMark = {
-  id: "01a05fd1-2e2e-71ef-b7ff-c6836107c9cf",
+  id: "019e6245-a6fe-7f41-9072-b1288d7bf88a",
   pageTypeSlug: "temper-skill",
   slug: "reapers-mark",
   title: "Reaper's Mark",

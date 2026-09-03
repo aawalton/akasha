@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const moltenWeapons = {
-  id: "01a05fd1-2e00-7a6c-98e9-40832ff9557f",
+  id: "019e6f53-a492-7ea0-8131-cda5df000069",
   pageTypeSlug: "temper-skill",
   slug: "molten-weapons",
   title: "Molten Weapons",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const powerSurge = {
-  id: "01a05fd1-2e19-7762-a3c7-4e903a6098d0",
+  id: "019e6245-a6ec-7a49-af23-214d329b9ee3",
   pageTypeSlug: "temper-skill",
   slug: "power-surge",
   title: "Power Surge",

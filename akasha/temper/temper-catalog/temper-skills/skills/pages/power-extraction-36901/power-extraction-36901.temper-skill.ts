@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const powerExtraction36901 = {
-  id: "01a05fd1-2e17-7958-a30b-9226ee5a2839",
+  id: "019e6f53-a524-71d7-9388-9f7375124bf1",
   pageTypeSlug: "temper-skill",
   slug: "power-extraction-36901",
   title: "Power Extraction",

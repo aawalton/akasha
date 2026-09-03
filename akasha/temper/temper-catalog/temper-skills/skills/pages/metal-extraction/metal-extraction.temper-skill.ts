@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const metalExtraction = {
-  id: "01a05fd1-2dfc-7464-90b6-5dad935c5140",
+  id: "019e6224-cca3-7a12-a2d2-e4db0a2d411d",
   pageTypeSlug: "temper-skill",
   slug: "metal-extraction",
   title: "Metal Extraction",

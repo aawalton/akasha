@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const rapidRot = {
-  id: "01a05fd1-2e2b-7011-bb7a-c2e4d00a115c",
+  id: "019e6245-a6fc-7cf8-b258-19abb44a3a67",
   pageTypeSlug: "temper-skill",
   slug: "rapid-rot",
   title: "Rapid Rot",

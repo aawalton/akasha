@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const onslaught83229 = {
-  id: "01a05fd1-2e09-7cec-b9c2-505b954dc9f7",
+  id: "019e6f53-a4ce-74c2-8dbf-bad28baabd8d",
   pageTypeSlug: "temper-skill",
   slug: "onslaught-83229",
   title: "Onslaught",

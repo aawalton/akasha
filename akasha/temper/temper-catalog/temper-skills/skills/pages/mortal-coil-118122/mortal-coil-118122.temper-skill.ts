@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const mortalCoil118122 = {
-  id: "01a05fd1-2e02-77c3-b1e9-9cfaf51ff2b8",
+  id: "019e6f53-a49d-7493-809d-fb2846c28b86",
   pageTypeSlug: "temper-skill",
   slug: "mortal-coil-118122",
   title: "Mortal Coil",

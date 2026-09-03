@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const nearDeathExperience116273 = {
-  id: "01a05fd1-2e06-72fe-8546-51b5d99699d9",
+  id: "019e6f53-a4b7-7cfb-ae01-1a004a4ec562",
   pageTypeSlug: "temper-skill",
   slug: "near-death-experience-116273",
   title: "Near-Death Experience",

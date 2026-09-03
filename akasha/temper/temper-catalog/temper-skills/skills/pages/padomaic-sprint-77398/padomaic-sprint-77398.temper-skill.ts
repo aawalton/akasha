@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const padomaicSprint77398 = {
-  id: "01a05fd1-2e0c-79ca-ad04-1e8aea8f0efe",
+  id: "019e6f53-a4dd-7469-a332-2c71f4cd3eb8",
   pageTypeSlug: "temper-skill",
   slug: "padomaic-sprint-77398",
   title: "Padomaic Sprint",

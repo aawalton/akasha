@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const obsidianShield = {
-  id: "01a05fd1-2e09-7917-9961-cfbdf0940d9a",
+  id: "019e6f53-a4cb-704c-b4a0-130109f23eca",
   pageTypeSlug: "temper-skill",
   slug: "obsidian-shield",
   title: "Obsidian Shield",

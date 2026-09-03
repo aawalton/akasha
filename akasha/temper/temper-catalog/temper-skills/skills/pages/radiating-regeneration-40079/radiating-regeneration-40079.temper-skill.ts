@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const radiatingRegeneration40079 = {
-  id: "01a05fd1-2e28-716e-bc39-d40116601501",
+  id: "019e6f53-a594-7095-8189-a3b326b3b8f9",
   pageTypeSlug: "temper-skill",
   slug: "radiating-regeneration-40079",
   title: "Radiating Regeneration",

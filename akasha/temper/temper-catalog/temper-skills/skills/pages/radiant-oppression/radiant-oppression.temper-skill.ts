@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const radiantOppression = {
-  id: "01a05fd1-2e26-7154-83a9-10668fa582dc",
+  id: "019e6245-a6fa-7259-b4ba-34500bcbac1a",
   pageTypeSlug: "temper-skill",
   slug: "radiant-oppression",
   title: "Radiant Oppression",

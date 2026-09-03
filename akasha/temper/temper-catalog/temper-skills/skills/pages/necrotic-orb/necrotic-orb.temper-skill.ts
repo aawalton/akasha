@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const necroticOrb = {
-  id: "01a05fd1-2e06-7b36-bb2e-bb90dcf189d1",
+  id: "019e6f53-a4b9-7198-9078-d6373119fbb2",
   pageTypeSlug: "temper-skill",
   slug: "necrotic-orb",
   title: "Necrotic Orb",

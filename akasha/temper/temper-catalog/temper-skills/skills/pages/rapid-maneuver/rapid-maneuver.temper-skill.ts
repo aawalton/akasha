@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const rapidManeuver = {
-  id: "01a05fd1-2e2a-7e3b-8e43-d67ee36dda93",
+  id: "019e6f53-a5a1-7cf7-8295-9eb5e7de5a23",
   pageTypeSlug: "temper-skill",
   slug: "rapid-maneuver",
   title: "Rapid Maneuver",

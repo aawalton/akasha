@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const perfectScion = {
-  id: "01a05fd1-2e0e-7a8e-8fc8-f99f2808850a",
+  id: "019e6251-4cd5-79c6-a7ff-0b802b7de2a0",
   pageTypeSlug: "temper-skill",
   slug: "perfect-scion",
   title: "Perfect Scion",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const powerOfTheLight21763 = {
-  id: "01a05fd1-2e17-775c-b2a4-f438892fc0f3",
+  id: "019e6f53-a527-7c27-aff0-2647b2d7ec6e",
   pageTypeSlug: "temper-skill",
   slug: "power-of-the-light-21763",
   title: "Power of the Light",

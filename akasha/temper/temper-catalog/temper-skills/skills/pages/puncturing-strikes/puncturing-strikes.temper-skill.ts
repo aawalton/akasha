@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const puncturingStrikes = {
-  id: "01a05fd1-2e21-781d-b474-bd9691282611",
+  id: "019e6f53-a560-7d5d-ad15-93ce8ab131c2",
   pageTypeSlug: "temper-skill",
   slug: "puncturing-strikes",
   title: "Puncturing Strikes",

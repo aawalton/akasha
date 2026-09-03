@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const panacea = {
-  id: "01a05fd1-2e0c-787e-8327-dd841bff3ef2",
+  id: "019e6f53-a4de-791c-9c60-81dea6798c0f",
   pageTypeSlug: "temper-skill",
   slug: "panacea",
   title: "Panacea",

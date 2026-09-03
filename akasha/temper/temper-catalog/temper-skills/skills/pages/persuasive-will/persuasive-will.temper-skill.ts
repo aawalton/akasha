@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const persuasiveWill = {
-  id: "01a05fd1-2e10-7978-9b0c-40a1ac13550b",
+  id: "019e6238-c2f5-71d2-b2e4-4738e81cdaaa",
   pageTypeSlug: "temper-skill",
   slug: "persuasive-will",
   title: "Persuasive Will",

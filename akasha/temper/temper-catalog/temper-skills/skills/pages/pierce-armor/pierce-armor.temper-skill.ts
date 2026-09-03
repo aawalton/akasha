@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const pierceArmor = {
-  id: "01a05fd1-2e11-7dad-87d6-3b53e87234bb",
+  id: "019e6226-0102-744e-96a0-d0f1de0cdd1d",
   pageTypeSlug: "temper-skill",
   slug: "pierce-armor",
   title: "Pierce Armor",

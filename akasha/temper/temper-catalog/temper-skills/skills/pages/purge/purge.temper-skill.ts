@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const purge = {
-  id: "01a05fd1-2e21-7920-9060-ba10af86be97",
+  id: "019e6f53-a565-7dc1-a28f-43efe1910a7a",
   pageTypeSlug: "temper-skill",
   slug: "purge",
   title: "Purge",

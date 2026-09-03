@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const nova = {
-  id: "01a05fd1-2e08-763d-8a01-cdbac51547a4",
+  id: "019e6f53-a4c6-760c-9fb2-913f087cc408",
   pageTypeSlug: "temper-skill",
   slug: "nova",
   title: "Nova",

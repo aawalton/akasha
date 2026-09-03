@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const monarch = {
-  id: "01a05fd1-2e01-77b3-bf55-acd4b1dcd969",
+  id: "019e6251-4cd1-7e7f-ae85-54034cf01779",
   pageTypeSlug: "temper-skill",
   slug: "monarch",
   title: "Monarch",

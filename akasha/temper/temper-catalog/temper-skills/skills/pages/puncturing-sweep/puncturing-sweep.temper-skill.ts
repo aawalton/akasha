@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const puncturingSweep = {
-  id: "01a05fd1-2e21-7133-906f-730d93b4b332",
+  id: "019e6245-a6f5-76e1-a6db-eabfb1cf9985",
   pageTypeSlug: "temper-skill",
   slug: "puncturing-sweep",
   title: "Puncturing Sweep",

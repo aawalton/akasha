@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const piercingMark36968 = {
-  id: "01a05fd1-2e13-70e6-95ab-31328393fb1d",
+  id: "019e6f53-a50a-7d5e-a9fc-1fd8a906f8fa",
   pageTypeSlug: "temper-skill",
   slug: "piercing-mark-36968",
   title: "Piercing Mark",

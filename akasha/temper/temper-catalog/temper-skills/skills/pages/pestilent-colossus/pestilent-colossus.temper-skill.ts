@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const pestilentColossus = {
-  id: "01a05fd1-2e10-797f-b427-1ed47ce4f39e",
+  id: "019e6245-a6e1-7ba0-b050-d71e5b838cbc",
   pageTypeSlug: "temper-skill",
   slug: "pestilent-colossus",
   title: "Pestilent Colossus",

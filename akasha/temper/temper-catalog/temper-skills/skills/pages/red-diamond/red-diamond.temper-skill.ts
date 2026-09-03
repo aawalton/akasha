@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const redDiamond = {
-  id: "01a05fd1-7c7e-7ed5-a9ff-639381e0e051",
+  id: "019e624a-12d4-7463-a1df-3afa621c617a",
   pageTypeSlug: "temper-skill",
   slug: "red-diamond",
   title: "Red Diamond",

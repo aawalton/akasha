@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const naturesGift = {
-  id: "01a05fd1-2e05-772f-8008-1908dec871e7",
+  id: "019e6245-a6d8-7282-8f0c-adc48bda6e8c",
   pageTypeSlug: "temper-skill",
   slug: "natures-gift",
   title: "Nature's Gift",
