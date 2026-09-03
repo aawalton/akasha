@@ -6,7 +6,7 @@ import type { AppSlug } from "./properties/app-slug.relation-property.ts"
 import type { Caption } from "./properties/caption.text-property.ts"
 import type { ComponentSlug } from "./properties/component-slug.relation-property.ts"
 import type { Families } from "./properties/families.text-property.ts"
-import type { Feed } from "./properties/feed.text-property.ts"
+import type { Feed } from "./properties/feed.url-property.ts"
 import type { GalleryDescription } from "./properties/gallery-description.text-property.ts"
 import type { GalleryName } from "./properties/gallery-name.text-property.ts"
 import type { Kind } from "./properties/kind.text-property.ts"
@@ -46,7 +46,7 @@ export const readoutWidget = {
     "relation-property/component-slug",
     "text-property/caption",
     "text-property/families",
-    "text-property/feed",
+    "url-property/feed",
     "text-property/gallery-description",
     "text-property/gallery-name",
     "text-property/kind",
@@ -54,7 +54,7 @@ export const readoutWidget = {
   ],
   extendsSlug: "page-type/domain",
   properties: [
-    { pagePropertySlug: "app-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/app-slug", required: true, many: false },
     { pagePropertySlug: "component-slug", required: true, many: false },
     { pagePropertySlug: "kind", required: true, many: false },
     { pagePropertySlug: "families", required: true, many: true, max: null },
