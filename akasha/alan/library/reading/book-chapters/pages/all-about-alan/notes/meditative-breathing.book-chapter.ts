@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const meditativeBreathing = {
   id: "01a06594-c67b-7006-8f63-4738ae90c27e",
