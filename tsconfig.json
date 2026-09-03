@@ -1,9 +1,6 @@
 {
   "references": [
     {
-      "path": "./shared/pages-query"
-    },
-    {
       "path": "./temper/scripts"
     },
     {

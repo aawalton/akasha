@@ -80,13 +80,5 @@
         "**/*.ts"
       ]
     },
-    "shared/pages-query": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    }
   }
 }
