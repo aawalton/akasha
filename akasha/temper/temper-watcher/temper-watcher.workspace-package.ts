@@ -64,6 +64,7 @@ export const temperWatcher = {
     "module/watcher-supabase-session",
     "module/watcher-session-file",
     "module/watcher-main",
+    "module/watcher-worker",
     "workstation-service/temper-watcher",
   ],
   invariants: [
