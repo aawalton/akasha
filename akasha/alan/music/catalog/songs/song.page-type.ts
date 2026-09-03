@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
+import type { ExternalId } from "../../../../collection-system/collection-externals/properties/external-id.text-property.ts"
 import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
 import type { ArtistSlug } from "./properties/artist-slug.relation-property.ts"
 import type { Insights } from "./properties/insights.file-property.ts"
@@ -13,6 +14,7 @@ import type { SyncedLyrics } from "./properties/synced-lyrics.file-property.ts"
 import type { Written } from "./properties/written.text-property.ts"
 
 export type Song = CollectionExternal & {
+  externalId: ExternalId
   title: Title
   artistSlug: ArtistSlug
   songType: SongType
@@ -46,6 +48,7 @@ export const song = {
     "text-property/written",
   ],
   properties: [
+    { pagePropertySlug: "external-id", required: true, many: false },
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "artist-slug", required: true, many: false },
     { pagePropertySlug: "song-type", required: true, many: false },
