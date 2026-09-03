@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const armsOfRelequen = {
-  id: "01a05fda-02e7-7788-a10c-3aaa0c62f3ed",
+  id: "019e66ec-7a44-770e-a73a-4f69beb07301",
   pageTypeSlug: "temper-set",
   slug: "arms-of-relequen",
   title: "Arms of Relequen",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const crushingWall = {
-  id: "01a05fda-0302-72df-83f7-719589abb645",
+  id: "019e6484-5fa4-7ff7-b288-ff59644ed30f",
   pageTypeSlug: "temper-set",
   slug: "crushing-wall",
   title: "Crushing Wall",

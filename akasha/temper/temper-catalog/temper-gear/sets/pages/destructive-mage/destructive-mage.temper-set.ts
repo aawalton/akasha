@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const destructiveMage = {
-  id: "01a05fda-0309-76f2-8adf-675745926c2f",
+  id: "019e66ec-7ad9-7558-96e1-c909120973af",
   pageTypeSlug: "temper-set",
   slug: "destructive-mage",
   title: "Destructive Mage",

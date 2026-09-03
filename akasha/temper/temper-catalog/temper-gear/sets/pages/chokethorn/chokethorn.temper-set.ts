@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const chokethorn = {
-  id: "01a05fda-02fb-76fd-933f-c90fa2bb029d",
+  id: "019e6484-5ff1-7c8b-8507-714924b32dda",
   pageTypeSlug: "temper-set",
   slug: "chokethorn",
   title: "Chokethorn",

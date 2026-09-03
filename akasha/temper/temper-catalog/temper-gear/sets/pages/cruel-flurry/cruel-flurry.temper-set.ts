@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const cruelFlurry = {
-  id: "01a05fda-0301-763d-9d3c-3336499d739e",
+  id: "019e6484-5fa2-7b0d-ba4d-cfb7621ac350",
   pageTypeSlug: "temper-set",
   slug: "cruel-flurry",
   title: "Cruel Flurry",

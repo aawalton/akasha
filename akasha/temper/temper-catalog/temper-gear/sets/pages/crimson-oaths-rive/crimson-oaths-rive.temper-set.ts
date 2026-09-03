@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const crimsonOathsRive = {
-  id: "01a05fda-0300-7632-b128-72e99ce418a4",
+  id: "019e66e6-a06a-78f7-bc1e-ce1221d61f9d",
   pageTypeSlug: "temper-set",
   slug: "crimson-oaths-rive",
   title: "Crimson Oath's Rive",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const deeprootZeal = {
-  id: "01a05fda-0307-7fdd-9fff-f590525faabb",
+  id: "019e66e6-a06f-7ac8-bd6e-e8e90c0b7962",
   pageTypeSlug: "temper-set",
   slug: "deeproot-zeal",
   title: "Deeproot Zeal",

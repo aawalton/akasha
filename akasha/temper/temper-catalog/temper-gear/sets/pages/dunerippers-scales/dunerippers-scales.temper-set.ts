@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const dunerippersScales = {
-  id: "01a05fda-f7cc-7cd3-8c48-e2feecbb845e",
+  id: "019e66e6-a078-7614-8ac7-fde4e77c603f",
   pageTypeSlug: "temper-set",
   slug: "dunerippers-scales",
   title: "Duneripper's Scales",

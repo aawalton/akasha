@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const battalionDefender = {
-  id: "01a05fda-02ee-7d7c-977a-24e51ee91dfc",
+  id: "019e66ec-763e-7eab-a642-42220d59688a",
   pageTypeSlug: "temper-set",
   slug: "battalion-defender",
   title: "Battalion Defender",

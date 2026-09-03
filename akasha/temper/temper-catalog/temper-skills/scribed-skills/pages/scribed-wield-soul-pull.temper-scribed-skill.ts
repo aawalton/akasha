@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedWieldSoulPull = {
-  id: "01a05fd2-7c59-70a9-9204-f23b862220fe",
+  id: "019e6471-15fb-70b3-adcd-69a56cde896d",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-wield-soul-pull",
   title: "Leashing Soul",

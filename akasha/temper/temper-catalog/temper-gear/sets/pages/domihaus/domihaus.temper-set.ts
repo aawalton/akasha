@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const domihaus = {
-  id: "01a05fda-030a-7f3b-94ea-9e2eac8cc6fb",
+  id: "019e6484-5ff2-7ceb-b39a-3b131132b67d",
   pageTypeSlug: "temper-set",
   slug: "domihaus",
   title: "Domihaus",

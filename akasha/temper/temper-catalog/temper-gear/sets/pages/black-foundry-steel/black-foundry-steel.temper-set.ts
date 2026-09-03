@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const blackFoundrySteel = {
-  id: "01a05fda-02f1-71ee-a370-b5225d1bc063",
+  id: "019e66e7-69fc-7757-b1d1-f34d785c6d8b",
   pageTypeSlug: "temper-set",
   slug: "black-foundry-steel",
   title: "Black Foundry Steel",

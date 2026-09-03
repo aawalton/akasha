@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const bloodspawn = {
-  id: "01a05fda-02f4-7c22-a011-65014bbcd5ce",
+  id: "019e6484-5ff0-7c4d-865a-82a106a625f2",
   pageTypeSlug: "temper-set",
   slug: "bloodspawn",
   title: "Bloodspawn",

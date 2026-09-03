@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const criticalRiposte = {
-  id: "01a05fda-0300-7a63-9620-fabd16bcf68a",
+  id: "019e668e-9a3b-7e2b-8d45-bdd2abce0be9",
   pageTypeSlug: "temper-set",
   slug: "critical-riposte",
   title: "Critical Riposte",

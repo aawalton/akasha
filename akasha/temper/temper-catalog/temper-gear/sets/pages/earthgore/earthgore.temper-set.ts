@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const earthgore = {
-  id: "01a05fda-f7cd-7a64-8d14-6f398a7916b6",
+  id: "019e6484-5ff3-7d78-a5bf-cb43c78d41b1",
   pageTypeSlug: "temper-set",
   slug: "earthgore",
   title: "Earthgore",

@@ -1,7 +1,7 @@
 import type { TemperSetCategory } from "../temper-set-category.page-type.ts"
 
 export const trial = {
-  id: "01a05fd7-41f5-7efa-adcc-fc1884932611",
+  id: "019e46b5-0db6-76a8-a3b8-c1c40757631f",
   pageTypeSlug: "temper-set-category",
   slug: "trial",
   title: "Trial",

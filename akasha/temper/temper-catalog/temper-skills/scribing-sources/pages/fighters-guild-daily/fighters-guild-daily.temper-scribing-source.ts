@@ -1,7 +1,7 @@
 import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const fightersGuildDaily = {
-  id: "01a05fce-295a-77c6-97b3-30d1481fc24b",
+  id: "019e12b0-85e2-71ad-9427-28de2cd3a2ee",
   pageTypeSlug: "temper-scribing-source",
   slug: "fighters-guild-daily",
   title: "Fighters Guild Daily",

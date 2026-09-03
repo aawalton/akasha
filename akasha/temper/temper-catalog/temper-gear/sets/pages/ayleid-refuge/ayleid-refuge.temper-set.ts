@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const ayleidRefuge = {
-  id: "01a05fda-02e9-7d81-8514-56a32082cd48",
+  id: "019e66e7-6a42-75d9-b70b-beaec268331d",
   pageTypeSlug: "temper-set",
   slug: "ayleid-refuge",
   title: "Ayleid Refuge",

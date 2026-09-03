@@ -1,7 +1,7 @@
 import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const dlcDelveDailies = {
-  id: "01a05fce-2959-72f4-be3d-cf1275008a12",
+  id: "019e12b0-85de-7980-a1e6-2104cabea998",
   pageTypeSlug: "temper-scribing-source",
   slug: "dlc-delve-dailies",
   title: "DLC Delve Dailies",

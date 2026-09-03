@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const bluntedBlades = {
-  id: "01a05fda-02f5-7838-baa3-15c73f8b94ce",
+  id: "019e66ec-767b-7b43-911b-a62d244d491b",
   pageTypeSlug: "temper-set",
   slug: "blunted-blades",
   title: "Blunted Blades",

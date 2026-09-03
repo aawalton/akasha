@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const brightThroatsBoast = {
-  id: "01a05fda-02f7-7013-b9e5-9f8ec5c487b3",
+  id: "019e66e7-6a4d-7814-804c-b44ae5c3e90a",
   pageTypeSlug: "temper-set",
   slug: "bright-throats-boast",
   title: "Bright-Throat's Boast",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const coupDeGrCe = {
-  id: "01a05fda-02ff-7ab6-961a-7626117cb486",
+  id: "019e66e7-6a00-7adc-9c2d-54cd683c8c97",
   pageTypeSlug: "temper-set",
   slug: "coup-de-gr-ce",
   title: "Coup De GrÃ¢ce",

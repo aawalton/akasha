@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const ashenGrip = {
-  id: "01a05fda-02e7-7b48-bc54-35ffdab23e51",
+  id: "019e668e-9a36-7ae5-b98c-b140c60c3a9e",
   pageTypeSlug: "temper-set",
   slug: "ashen-grip",
   title: "Ashen Grip",

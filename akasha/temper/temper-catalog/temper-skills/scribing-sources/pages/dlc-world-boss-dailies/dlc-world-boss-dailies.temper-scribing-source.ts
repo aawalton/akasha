@@ -1,7 +1,7 @@
 import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const dlcWorldBossDailies = {
-  id: "01a05fce-295a-7842-af37-dfe96f98f1a2",
+  id: "019e12b0-85e7-70ea-a0d8-773c407acbbf",
   pageTypeSlug: "temper-scribing-source",
   slug: "dlc-world-boss-dailies",
   title: "DLC World Boss Dailies",

@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedWieldSoulDamageShield = {
-  id: "01a05fd2-7c57-7ad9-b061-9e0567ca9959",
+  id: "019e6471-15f4-7eae-94c2-845edb3ca7ab",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-wield-soul-damage-shield",
   title: "Warding Soul",

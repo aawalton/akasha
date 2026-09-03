@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const archdruidDevyric = {
-  id: "01a05fda-02e3-73ba-a527-20c8657ab326",
+  id: "019e6484-5fec-7c16-b071-ab7edee0fff0",
   pageTypeSlug: "temper-set",
   slug: "archdruid-devyric",
   title: "Archdruid Devyric",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const dreamersMantle = {
-  id: "01a05fda-f7ca-7570-a5c3-ea5135aec3ee",
+  id: "019e66e7-6a5a-7731-b67f-2b3e78d51ee1",
   pageTypeSlug: "temper-set",
   slug: "dreamers-mantle",
   title: "Dreamer's Mantle",

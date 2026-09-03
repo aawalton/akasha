@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const crestOfCyrodiil = {
-  id: "01a05fda-0300-70e1-8ca1-ba122c2f5205",
+  id: "019e66ec-76b7-7e0b-ad0c-b4d0fcc691c9",
   pageTypeSlug: "temper-set",
   slug: "crest-of-cyrodiil",
   title: "Crest of Cyrodiil",

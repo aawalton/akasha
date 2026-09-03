@@ -1,7 +1,7 @@
 import type { TemperSetCategory } from "../temper-set-category.page-type.ts"
 
 export const mythic = {
-  id: "01a05fd7-41f3-7b3b-999d-77a84490d180",
+  id: "019e46b5-0dc4-78c4-a7c2-92ad1154f3e7",
   pageTypeSlug: "temper-set-category",
   slug: "mythic",
   title: "Mythic",

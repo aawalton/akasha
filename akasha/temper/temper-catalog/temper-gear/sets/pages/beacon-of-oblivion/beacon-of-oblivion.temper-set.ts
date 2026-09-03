@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const beaconOfOblivion = {
-  id: "01a05fda-02ef-7112-b3ea-9a4a3fb46dd8",
+  id: "019e6484-5fdf-7d68-8c00-78f2a31154d3",
   pageTypeSlug: "temper-set",
   slug: "beacon-of-oblivion",
   title: "Beacon of Oblivion",

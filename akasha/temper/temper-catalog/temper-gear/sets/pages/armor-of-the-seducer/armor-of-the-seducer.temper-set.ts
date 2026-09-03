@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const armorOfTheSeducer = {
-  id: "01a05fda-02e5-7e29-9a58-95659d710e99",
+  id: "019e668e-9a35-7ce6-b0bf-86ac1bdafcf9",
   pageTypeSlug: "temper-set",
   slug: "armor-of-the-seducer",
   title: "Armor of the Seducer",

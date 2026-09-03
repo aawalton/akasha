@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const armorOfTheCode = {
-  id: "01a05fda-02e5-7b09-8954-8d9d38516835",
+  id: "019e6484-6046-7084-9dfd-723b3d203577",
   pageTypeSlug: "temper-set",
   slug: "armor-of-the-code",
   title: "Armor of the Code",

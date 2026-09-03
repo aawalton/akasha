@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const basaltBloodedWarrior = {
-  id: "01a05fda-02ed-707e-a7ba-b237838b2833",
+  id: "019e6484-5fde-7b83-a3ef-2dd11eccaf68",
   pageTypeSlug: "temper-set",
   slug: "basalt-blooded-warrior",
   title: "Basalt-Blooded Warrior",

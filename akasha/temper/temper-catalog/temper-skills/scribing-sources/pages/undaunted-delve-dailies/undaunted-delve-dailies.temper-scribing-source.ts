@@ -1,7 +1,7 @@
 import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const undauntedDelveDailies = {
-  id: "01a05fce-295b-70ac-8b87-d47b1aaf6f3d",
+  id: "019e12b0-85ea-7088-9059-200f16b5ae05",
   pageTypeSlug: "temper-scribing-source",
   slug: "undaunted-delve-dailies",
   title: "Undaunted Delve Dailies",

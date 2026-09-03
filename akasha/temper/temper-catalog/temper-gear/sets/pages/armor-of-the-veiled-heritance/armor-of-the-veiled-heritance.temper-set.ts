@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const armorOfTheVeiledHeritance = {
-  id: "01a05fda-02e6-7d60-b250-912da1463bb8",
+  id: "019e66e7-6a41-731f-b013-1042492dfbe0",
   pageTypeSlug: "temper-set",
   slug: "armor-of-the-veiled-heritance",
   title: "Armor of the Veiled Heritance",

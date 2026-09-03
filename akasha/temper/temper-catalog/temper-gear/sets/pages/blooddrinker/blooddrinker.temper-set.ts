@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const blooddrinker = {
-  id: "01a05fda-02f3-7f4a-83e5-36089590b8dd",
+  id: "019e66e6-a063-783b-890a-c9c5b6e18419",
   pageTypeSlug: "temper-set",
   slug: "blooddrinker",
   title: "Blooddrinker",

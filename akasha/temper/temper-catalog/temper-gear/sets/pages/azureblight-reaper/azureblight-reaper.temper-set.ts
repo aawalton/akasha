@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const azureblightReaper = {
-  id: "01a05fda-02ea-7d10-9053-fa904056abab",
+  id: "019e66e6-a05d-7565-a46b-7d5ac1af3de1",
   pageTypeSlug: "temper-set",
   slug: "azureblight-reaper",
   title: "Azureblight Reaper",

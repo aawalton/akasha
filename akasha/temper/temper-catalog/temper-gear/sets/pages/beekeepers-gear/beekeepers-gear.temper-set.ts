@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const beekeepersGear = {
-  id: "01a05fda-02f0-7677-834b-5612b81e4c2b",
+  id: "019e66e7-6a47-737d-aed5-99f54cc1fc12",
   pageTypeSlug: "temper-set",
   slug: "beekeepers-gear",
   title: "Beekeeper's Gear",

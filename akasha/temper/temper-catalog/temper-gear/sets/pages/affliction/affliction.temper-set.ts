@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const affliction = {
-  id: "01a05fda-02df-7423-b349-1c80325559c8",
+  id: "019e66ec-75f2-76dd-8728-c3fc3e33b1df",
   pageTypeSlug: "temper-set",
   slug: "affliction",
   title: "Affliction",

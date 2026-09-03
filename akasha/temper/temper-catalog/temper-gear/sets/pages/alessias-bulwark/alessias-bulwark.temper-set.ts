@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const alessiasBulwark = {
-  id: "01a05fda-02e0-7ee7-98e5-e65e7de1c484",
+  id: "019e668e-9a32-7370-9df7-cea170ae527d",
   pageTypeSlug: "temper-set",
   slug: "alessias-bulwark",
   title: "Alessia's Bulwark",

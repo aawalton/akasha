@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const defiler = {
-  id: "01a05fda-0308-7257-8ea6-852e0864d3c3",
+  id: "019e66e7-6a56-7f70-bb01-3a901eb5d8bd",
   pageTypeSlug: "temper-set",
   slug: "defiler",
   title: "Defiler",

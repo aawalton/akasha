@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const dauntlessCombatant = {
-  id: "01a05fda-0304-74ca-a6fc-ae31d2c4f8ab",
+  id: "019e668e-9a3e-7845-8daf-074ad9abb7a2",
   pageTypeSlug: "temper-set",
   slug: "dauntless-combatant",
   title: "Dauntless Combatant",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const blackGloveGrounding = {
-  id: "01a05fda-02f2-76fe-b5b8-dc4c122755c1",
+  id: "019e66e6-a060-7649-ac9b-c8cf5ef4d955",
   pageTypeSlug: "temper-set",
   slug: "black-glove-grounding",
   title: "Black-Glove Grounding",

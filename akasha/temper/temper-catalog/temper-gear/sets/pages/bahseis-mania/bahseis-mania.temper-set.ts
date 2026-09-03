@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const bahseisMania = {
-  id: "01a05fda-02eb-70ba-bd57-2ae4163336b1",
+  id: "019e66ec-7a62-7407-9923-d33394527315",
   pageTypeSlug: "temper-set",
   slug: "bahseis-mania",
   title: "Bahsei's Mania",

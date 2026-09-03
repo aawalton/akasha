@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const armsOfInfernace = {
-  id: "01a05fda-02e6-72bc-8c4e-b2c6d3332624",
+  id: "019e6484-6047-70b1-8d44-a5f8258a45a5",
   pageTypeSlug: "temper-set",
   slug: "arms-of-infernace",
   title: "Arms of Infernace",

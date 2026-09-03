@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedVaultHealing = {
-  id: "01a05fd2-7c55-7759-bdec-9a961c6f4365",
+  id: "019e6471-15ef-783e-8bc6-1a165a48e037",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-vault-healing",
   title: "Healing Vault",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const akaviriDragonguard = {
-  id: "01a05fda-02df-768f-8661-eeb83f229482",
+  id: "019e66e7-6a3e-7cd9-89ee-04276d727ade",
   pageTypeSlug: "temper-set",
   slug: "akaviri-dragonguard",
   title: "Akaviri Dragonguard",

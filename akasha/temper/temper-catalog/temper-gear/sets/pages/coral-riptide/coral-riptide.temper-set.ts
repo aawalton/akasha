@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const coralRiptide = {
-  id: "01a05fda-02fe-7fd9-938e-976f4e7c60ca",
+  id: "019e66ec-7aac-7c31-b0c9-2b463831b951",
   pageTypeSlug: "temper-set",
   slug: "coral-riptide",
   title: "Coral Riptide",

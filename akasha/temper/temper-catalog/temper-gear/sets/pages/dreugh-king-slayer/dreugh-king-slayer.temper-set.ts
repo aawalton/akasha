@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const dreughKingSlayer = {
-  id: "01a05fda-f7ca-7ada-b6a3-9145241c39b1",
+  id: "019e66e6-a076-7290-9ce7-38d4dcd870cf",
   pageTypeSlug: "temper-set",
   slug: "dreugh-king-slayer",
   title: "Dreugh King Slayer",

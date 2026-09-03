@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const amberPlasm = {
-  id: "01a05fda-02e1-7d34-9bb0-d9b175e4d947",
+  id: "019e66e6-a056-71ef-bf01-a3f69806e63c",
   pageTypeSlug: "temper-set",
   slug: "amber-plasm",
   title: "Amber Plasm",

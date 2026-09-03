@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const drozakarsClaws = {
-  id: "01a05fda-f7cb-7920-b02a-56d4d33b63a2",
+  id: "019e66e6-a077-7337-b29f-196bc51a7435",
   pageTypeSlug: "temper-set",
   slug: "drozakars-claws",
   title: "Dro'Zakar's Claws",

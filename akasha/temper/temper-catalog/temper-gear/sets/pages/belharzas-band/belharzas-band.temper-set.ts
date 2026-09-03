@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const belharzasBand = {
-  id: "01a05fda-02f0-719b-8f3e-46c3c5a98802",
+  id: "019e6484-6026-798d-a062-476c6c37f56b",
   pageTypeSlug: "temper-set",
   slug: "belharzas-band",
   title: "Belharza's Band",

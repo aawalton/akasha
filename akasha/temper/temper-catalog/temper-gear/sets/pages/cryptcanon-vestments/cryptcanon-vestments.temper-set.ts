@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const cryptcanonVestments = {
-  id: "01a05fda-0302-7fcc-b9b8-6fbd5eccfe4f",
+  id: "019e6484-6028-76b1-b968-c2db0d0ac512",
   pageTypeSlug: "temper-set",
   slug: "cryptcanon-vestments",
   title: "Cryptcanon Vestments",

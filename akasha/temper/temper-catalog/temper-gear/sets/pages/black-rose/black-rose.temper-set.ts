@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const blackRose = {
-  id: "01a05fda-02f2-7543-a095-d992375bf78a",
+  id: "019e66ec-7663-75d5-97ba-12893803d500",
   pageTypeSlug: "temper-set",
   slug: "black-rose",
   title: "Black Rose",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const baanDarsBlessing = {
-  id: "01a05fda-02ea-7b3f-982b-9de3affe47be",
+  id: "019e66ec-7625-7e88-b717-729443ee2bcb",
   pageTypeSlug: "temper-set",
   slug: "baan-dars-blessing",
   title: "Baan Dar's Blessing",

@@ -1,7 +1,7 @@
 import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const dlcIncursionDailies = {
-  id: "01a05fce-295a-7833-bd7f-4abc5710996e",
+  id: "019e12b0-85ed-7099-927a-937b2c5d66c6",
   pageTypeSlug: "temper-scribing-source",
   slug: "dlc-incursion-dailies",
   title: "DLC Incursion Dailies",

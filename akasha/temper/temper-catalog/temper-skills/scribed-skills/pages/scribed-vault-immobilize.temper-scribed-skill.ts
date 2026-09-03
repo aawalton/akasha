@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedVaultImmobilize = {
-  id: "01a05fd2-7c56-70bc-88a0-ca8292ed8cf9",
+  id: "019e6471-15f0-760c-8c51-b83797d8cb4c",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-vault-immobilize",
   title: "Binding Vault",

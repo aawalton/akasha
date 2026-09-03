@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const cleverAlchemist = {
-  id: "01a05fda-02fc-704d-98bd-9244605af449",
+  id: "019e668e-9a3a-71a5-b679-d9ec13c550ab",
   pageTypeSlug: "temper-set",
   slug: "clever-alchemist",
   title: "Clever Alchemist",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const dolorousArena = {
-  id: "01a05fda-030a-7c88-90d8-0fb966c6e4d2",
+  id: "019e66e7-6a03-7280-b9e4-196458e0eb41",
   pageTypeSlug: "temper-set",
   slug: "dolorous-arena",
   title: "Dolorous Arena",

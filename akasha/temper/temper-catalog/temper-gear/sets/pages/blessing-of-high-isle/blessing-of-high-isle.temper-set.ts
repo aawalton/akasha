@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const blessingOfHighIsle = {
-  id: "01a05fda-02f2-7645-a974-0a2049c67ef7",
+  id: "019e66e7-6a48-760e-9604-90de3dd4e258",
   pageTypeSlug: "temper-set",
   slug: "blessing-of-high-isle",
   title: "Blessing of High Isle",

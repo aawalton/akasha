@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const archersMind = {
-  id: "01a05fda-02e3-753a-ae1e-2017b29ea941",
+  id: "019e6484-5f9d-7b4e-bc32-c17f13b5f242",
   pageTypeSlug: "temper-set",
   slug: "archers-mind",
   title: "Archer's Mind",

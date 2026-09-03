@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const dovRhaSabatons = {
-  id: "01a05fda-030b-76b2-a5d8-0e7fe9b0554d",
+  id: "019e6484-602a-74d2-9fe6-5d7a7096ee64",
   pageTypeSlug: "temper-set",
   slug: "dov-rha-sabatons",
   title: "Dov-rha Sabatons",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const barkskin = {
-  id: "01a05fda-02ec-716c-a022-5a8cf756ac7d",
+  id: "019e66e6-a05f-7706-b798-a9a6bf86c2f6",
   pageTypeSlug: "temper-set",
   slug: "barkskin",
   title: "Barkskin",

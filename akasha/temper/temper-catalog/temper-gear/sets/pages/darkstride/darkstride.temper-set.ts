@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const darkstride = {
-  id: "01a05fda-0304-7a1b-b082-435fa1c6d482",
+  id: "019e66e7-6a53-778e-b687-f4f555d7f161",
   pageTypeSlug: "temper-set",
   slug: "darkstride",
   title: "Darkstride",

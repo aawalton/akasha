@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const adamantLurker = {
-  id: "01a05fda-02dc-78ad-83a5-f6589553dcb6",
+  id: "019e66e7-6a3d-7a06-bf5e-e1a74c59d2d7",
   pageTypeSlug: "temper-set",
   slug: "adamant-lurker",
   title: "Adamant Lurker",

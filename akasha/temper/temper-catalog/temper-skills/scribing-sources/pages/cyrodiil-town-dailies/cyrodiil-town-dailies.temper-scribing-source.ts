@@ -1,7 +1,7 @@
 import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const cyrodiilTownDailies = {
-  id: "01a05fce-2959-74b8-97c6-5f751ff9b973",
+  id: "019e12b0-85e4-77f3-aa3b-76b242b50c2f",
   pageTypeSlug: "temper-scribing-source",
   slug: "cyrodiil-town-dailies",
   title: "Cyrodiil Town Dailies",

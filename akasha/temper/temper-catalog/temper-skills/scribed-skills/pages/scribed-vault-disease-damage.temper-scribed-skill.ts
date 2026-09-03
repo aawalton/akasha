@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedVaultDiseaseDamage = {
-  id: "01a05fd2-7c55-7fcd-838b-e2e20da7abed",
+  id: "019e6471-15ed-7bb3-ae07-0afe5b5e3694",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-vault-disease-damage",
   title: "Pestilent Vault",

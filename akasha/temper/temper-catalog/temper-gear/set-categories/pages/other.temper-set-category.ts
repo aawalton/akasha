@@ -1,7 +1,7 @@
 import type { TemperSetCategory } from "../temper-set-category.page-type.ts"
 
 export const other = {
-  id: "01a05fd7-41f4-7507-a7d1-6b267402fd55",
+  id: "019e46b5-0dc9-7007-9acf-98c7370d8b61",
   pageTypeSlug: "temper-set-category",
   slug: "other",
   title: "Other",

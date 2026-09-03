@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const destructiveImpact = {
-  id: "01a05fda-0309-7f0a-b158-70d83f85d8c2",
+  id: "019e6484-5fa7-7b03-b3be-0db2cf7df240",
   pageTypeSlug: "temper-set",
   slug: "destructive-impact",
   title: "Destructive Impact",

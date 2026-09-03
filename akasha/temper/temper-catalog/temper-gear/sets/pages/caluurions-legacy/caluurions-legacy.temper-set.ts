@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const caluurionsLegacy = {
-  id: "01a05fda-02f9-7a78-83f8-dbb211e211b8",
+  id: "019e66e6-a067-77e3-ac4b-94827454e133",
   pageTypeSlug: "temper-set",
   slug: "caluurions-legacy",
   title: "Caluurion's Legacy",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const diamondsVictory = {
-  id: "01a05fda-0309-7ee6-b5bd-6cd82225934c",
+  id: "019e668e-9a41-713c-aa67-f7b23b0e31d9",
   pageTypeSlug: "temper-set",
   slug: "diamonds-victory",
   title: "Diamond's Victory",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const briarheart = {
-  id: "01a05fda-02f6-70ca-bb8b-53f7e60da602",
+  id: "019e66e7-6a4c-74d1-9c80-a8e8faf6af61",
   pageTypeSlug: "temper-set",
   slug: "briarheart",
   title: "Briarheart",

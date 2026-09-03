@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const colovianHighlandsGeneral = {
-  id: "01a05fda-02fd-7b4d-a781-f7cbf9a54493",
+  id: "019e66ec-769f-7bce-a8b6-09534d0e3ac2",
   pageTypeSlug: "temper-set",
   slug: "colovian-highlands-general",
   title: "Colovian Highlands General",

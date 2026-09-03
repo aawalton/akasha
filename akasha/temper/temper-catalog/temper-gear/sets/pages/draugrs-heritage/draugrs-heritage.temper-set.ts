@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const draugrsHeritage = {
-  id: "01a05fda-f7c9-7777-985c-a492d35a1b60",
+  id: "019e66e7-6a59-7486-8d2a-ceb78960580c",
   pageTypeSlug: "temper-set",
   slug: "draugrs-heritage",
   title: "Draugr's Heritage",

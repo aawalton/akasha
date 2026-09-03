@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const balorgh = {
-  id: "01a05fda-02eb-7b3d-9381-ab13a2f7fbfd",
+  id: "019e6484-5fed-7af8-b50c-5b22a0e924e8",
   pageTypeSlug: "temper-set",
   slug: "balorgh",
   title: "Balorgh",

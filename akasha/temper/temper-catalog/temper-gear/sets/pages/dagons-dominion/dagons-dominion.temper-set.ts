@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const dagonsDominion = {
-  id: "01a05fda-0303-7d87-9f29-42b56ccfdcda",
+  id: "019e66e6-a06e-7a90-817a-f056eb23ee90",
   pageTypeSlug: "temper-set",
   slug: "dagons-dominion",
   title: "Dagon's Dominion",

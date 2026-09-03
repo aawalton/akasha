@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const desertRose = {
-  id: "01a05fda-0308-702e-bb69-1429864aa7cf",
+  id: "019e66ec-76e9-752f-8afe-b2fdd490a0fd",
   pageTypeSlug: "temper-set",
   slug: "desert-rose",
   title: "Desert Rose",

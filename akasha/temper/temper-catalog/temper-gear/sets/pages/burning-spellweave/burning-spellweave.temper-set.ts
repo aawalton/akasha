@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const burningSpellweave = {
-  id: "01a05fda-02f8-75d0-9480-f3c8c6b97d67",
+  id: "019e66e6-a066-7813-b855-a2bdd3ccb862",
   pageTypeSlug: "temper-set",
   slug: "burning-spellweave",
   title: "Burning Spellweave",

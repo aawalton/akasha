@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedVaultTaunt = {
-  id: "01a05fd2-7c56-7b15-a293-8ee33463983b",
+  id: "019e6471-15f2-7ff2-bfbd-1577e214d57f",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-vault-taunt",
   title: "Goading Vault",

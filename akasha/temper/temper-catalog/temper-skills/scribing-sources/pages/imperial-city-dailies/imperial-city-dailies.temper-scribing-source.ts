@@ -1,7 +1,7 @@
 import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
 
 export const imperialCityDailies = {
-  id: "01a05fce-295b-72d7-bec4-917c1fb0ccc0",
+  id: "019e12b0-85eb-78e8-bb06-c717d3082bfd",
   pageTypeSlug: "temper-scribing-source",
   slug: "imperial-city-dailies",
   title: "Imperial City Dailies",

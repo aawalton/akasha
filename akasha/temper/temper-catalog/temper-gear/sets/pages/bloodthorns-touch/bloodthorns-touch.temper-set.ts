@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const bloodthornsTouch = {
-  id: "01a05fda-02f5-79e7-bfed-707450dfe59d",
+  id: "019e66e7-6a49-78cf-8dc8-62e1fcaea763",
   pageTypeSlug: "temper-set",
   slug: "bloodthorns-touch",
   title: "Bloodthorn's Touch",

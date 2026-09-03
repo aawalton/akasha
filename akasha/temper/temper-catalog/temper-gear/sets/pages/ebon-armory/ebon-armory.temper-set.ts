@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const ebonArmory = {
-  id: "01a05fda-f7cd-7a34-ac33-2ebd3f1bb5a3",
+  id: "019e66e6-a07a-7c67-a6ba-cc925d7d3b03",
   pageTypeSlug: "temper-set",
   slug: "ebon-armory",
   title: "Ebon Armory",

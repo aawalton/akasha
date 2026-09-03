@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const armorMaster = {
-  id: "01a05fda-02e4-70df-8bf1-90244ee781d5",
+  id: "019e668e-9a34-7a10-a721-c69164961584",
   pageTypeSlug: "temper-set",
   slug: "armor-master",
   title: "Armor Master",

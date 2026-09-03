@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const brandsOfImperium = {
-  id: "01a05fda-02f6-74e8-b503-ba35f6eca63f",
+  id: "019e66e6-a065-77ce-99a0-39a5608af262",
   pageTypeSlug: "temper-set",
   slug: "brands-of-imperium",
   title: "Brands of Imperium",

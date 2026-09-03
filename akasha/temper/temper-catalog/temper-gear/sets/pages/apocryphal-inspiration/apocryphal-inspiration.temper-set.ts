@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const apocryphalInspiration = {
-  id: "01a05fda-02e3-7409-a7a7-266a8a2f00ca",
+  id: "019e66e6-a057-77b8-b338-4eaa9ecc1e8d",
   pageTypeSlug: "temper-set",
   slug: "apocryphal-inspiration",
   title: "Apocryphal Inspiration",

@@ -1,7 +1,7 @@
 import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 
 export const scribedVaultPhysicalDamage = {
-  id: "01a05fd2-7c56-7d61-a103-ca723d66f40b",
+  id: "019e6471-15f1-73b1-a7e2-6a13bb1bdb88",
   pageTypeSlug: "temper-scribed-skill",
   slug: "scribed-vault-physical-damage",
   title: "Sundering Vault",

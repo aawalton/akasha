@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const auroransThunder = {
-  id: "01a05fda-02e9-7cee-bf90-9646cbd73ae1",
+  id: "019e66e6-a05c-73a2-9f28-66af896f0877",
   pageTypeSlug: "temper-set",
   slug: "aurorans-thunder",
   title: "Auroran's Thunder",
