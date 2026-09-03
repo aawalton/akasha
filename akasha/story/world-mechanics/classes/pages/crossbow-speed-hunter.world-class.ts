@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.ts"
+import type { WorldClass } from "../world-class.page-type.ts"
 
 export const crossbowSpeedHunter = {
   id: "01a0657e-1350-7307-b19f-5e4147efe1a7",

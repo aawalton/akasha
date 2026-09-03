@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const foragerCook = {
   id: "01a0657e-01de-76de-8c90-74b164e3604a",

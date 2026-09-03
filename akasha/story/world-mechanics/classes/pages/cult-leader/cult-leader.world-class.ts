@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const cultLeader = {
   id: "01a0657e-1351-7dbc-b4a2-5b7808d3a535",

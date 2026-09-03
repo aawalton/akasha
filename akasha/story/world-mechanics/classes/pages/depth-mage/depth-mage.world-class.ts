@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const depthMage = {
   id: "01a0657e-1352-7014-bf4d-1c5b23deacf1",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const gutters = {
   id: "01a0657e-01ee-7411-b37f-ef741de7b996",

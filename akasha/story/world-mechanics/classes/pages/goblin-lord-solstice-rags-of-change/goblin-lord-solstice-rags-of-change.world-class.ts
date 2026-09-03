@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const goblinLordSolsticeRagsOfChange = {
   id: "01a0657e-01e2-71b2-9852-9cad33a50557",

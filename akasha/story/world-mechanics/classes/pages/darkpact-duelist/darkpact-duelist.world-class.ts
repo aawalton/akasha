@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const darkpactDuelist = {
   id: "01a0657e-1351-7b25-94c8-e69b4908a876",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const gardner = {
   id: "01a0657e-01df-777d-bf85-3ebfe919f28f",

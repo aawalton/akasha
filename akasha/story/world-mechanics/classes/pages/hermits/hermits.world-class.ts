@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const hermits = {
   id: "01a0657e-01f7-76b9-b5fb-4cdfad4cad76",

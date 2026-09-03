@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const deathDefyingSkateboarder = {
   id: "01a0657e-1351-7444-8d18-665d61f34f18",

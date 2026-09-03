@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const headBaker = {
   id: "01a0657e-01ee-7571-9c40-e2410b9e7980",

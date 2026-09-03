@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const grandmasterKnightOfHonorSFlame = {
   id: "01a0657e-01e4-7369-9959-c057dd91cf87",
