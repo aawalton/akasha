@@ -15,7 +15,7 @@ const INTERNAL_REGISTRY = "registry.registry.svc.cluster.local:5000"
 const buildImageStep = (svc: string) => ({
   ...buildkitBuild({
     name: `ci-images-build-${svc}-image`,
-    context: "infra/lib",
+    context: "akasha/infrastructure/dockerfiles",
     filename: `Dockerfile.${svc}`,
     tag: (ci) => `${REGISTRY}/cluster/${svc}:${ci.inputsHash}`,
     image: PUBLIC_BUILDKIT,
