@@ -153,6 +153,27 @@ export const asking = {
       statement: "The kind that ran no check is named in the commit as the reason none ran.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page whose slug names no export refuses the change it was handed in with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal stands with the minting rather than among the checks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change kind running no check is held to it too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body is judged for it only where its file is named for the slug the body states.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A body holding a page's text in a template is no page and is judged as none.",
+    },
+    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },
