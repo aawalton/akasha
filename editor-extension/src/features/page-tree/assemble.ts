@@ -126,11 +126,11 @@ function detailOfType(row: PropertyTypeRow): string | null {
 	return row.of;
 }
 
-// THE KINDS STANDING IN THE ANSWER, IN ONE ORDER.
+// THE KINDS THAT ARE IN THE ANSWER, IN ONE ORDER.
 //
 // A `KIND_ORDER` of `primitive`, `composite`, `record`, `select`, `constant` used to be drawn ahead
 // of the rest. Those are the markdown corpus's words for what a property is; a kind here is the
-// slug of the page type the property is, and the thirteen that stand are `text-property`,
+// slug of the page type the property is, and the thirteen that exist are `text-property`,
 // `record-property`, `page-property-entry` and their like. Not one of the five matched, so every
 // kind fell through to this sort and the two arms were one arm.
 function kindsIn(rows: readonly PropertyTypeRow[]): readonly string[] {

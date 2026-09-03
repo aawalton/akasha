@@ -201,7 +201,7 @@ export function assembleForest(
       .map((c) => build(c, seen))
       .filter(holdsSomethingRunning)
     const name = row.name ?? row.id
-    // Every subagent under a seat is keyed by that seat's NAME, at whatever depth it stands. A
+    // Every subagent under a seat is keyed by that seat's NAME, at whatever depth it sits. A
     // subagent's page is named for the seat that ran it, and the seat that ran a subagent's
     // subagent is still that seat: the agent id at every depth is the seat's id and the id the
     // agent runs under, parted by two hyphens, with nothing in between for a middle generation.

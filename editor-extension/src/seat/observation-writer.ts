@@ -71,10 +71,10 @@ interface Session {
 	lost: boolean;
 }
 
-// WHERE THE CHILD'S ENTRY STANDS, ASKED OF THE CHECKOUT RATHER THAN OF THIS MODULE'S OWN PATH.
+// WHERE THE CHILD'S ENTRY SITS, ASKED OF THE CHECKOUT RATHER THAN OF THIS MODULE'S OWN PATH.
 // This file is loaded from source by the extension host and from a single bundled file by the
-// panel harness, and in the bundle `import.meta.url` names the bundle, beside which the child's
-// entry does not stand. An absolute path built from the checkout root is the same answer under
+// panel harness, and in the bundle `import.meta.url` names the bundle, which the child's
+// entry is not beside. An absolute path built from the checkout root is the same answer under
 // both, and the root is the one the rest of the extension already reaches akasha by.
 export function writerMainIn(akashaRoot: string): string {
 	return path.join(akashaRoot, 'editor-extension', 'src', 'seat', WRITER_MAIN);

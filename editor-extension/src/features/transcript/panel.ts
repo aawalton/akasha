@@ -97,12 +97,12 @@ export function openTranscriptPanel(
 		const began = Date.now();
 		const read = await reader.read(transcriptPath);
 		// A read that folded nothing anywhere — not in the seat's transcript and not under it —
-		// leaves the panel as it stands. The size test this replaces watched only the seat's own
+		// leaves the panel as it is. The size test this replaces watched only the seat's own
 		// file and so re-rendered nothing when a subagent grew, and re-read everything when it did.
 		if (!rotated && read.bytesFolded === 0 && read.filesRefolded === 0 && state.lastSize >= 0) {
 			return undefined;
 		}
-		state.lastSize = read.bytesStanding;
+		state.lastSize = read.bytesThere;
 
 		// A file that no longer reads as it did where the last fold stopped was folded again from
 		// its first byte, which can only move entries the panel has already settled. It starts over.
@@ -124,7 +124,7 @@ export function openTranscriptPanel(
 		void panel.webview.postMessage({ kind: 'tail', html: renderSlice(tail, read) });
 		void panel.webview.postMessage({ kind: 'status', text: '' });
 		say(
-			`[transcript] ${Date.now() - began}ms, folded ${read.bytesFolded} of ${read.bytesStanding} bytes ` +
+			`[transcript] ${Date.now() - began}ms, folded ${read.bytesFolded} of ${read.bytesThere} bytes ` +
 			`across ${read.filesFolded} file(s), ${entries.length} entries, ` +
 			`${read.subagents.size} subagent(s)` +
 			(read.filesRefolded === 0 ? '' : `, ${read.filesRefolded} file(s) refolded from the first byte`)

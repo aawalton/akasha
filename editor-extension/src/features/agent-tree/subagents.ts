@@ -21,7 +21,7 @@ const MAX_SUBAGENT_DEPTH = 5;
 
 interface Cursor {
 	path: string;
-	// Where the fold stands, held by `seat/tail-fold.ts`: always at a line ending, beside the 64
+	// Where the fold sits, held by `seat/tail-fold.ts`: always at a line ending, beside the 64
 	// bytes that say the file still reads the way it did when it was folded to there. This reader
 	// used to keep its own offset at the last byte READ and carry the undecoded remainder as text,
 	// which is where records came back wrong: a read ends at the file's size and a file being
@@ -60,7 +60,7 @@ export function createSubagentReader(): SubagentReader {
 		touched.add(cursorKey);
 		let held = cursors.get(cursorKey);
 		if (held === undefined || held.path !== filePath) {
-			// A cursor that already stands for another file keeps its state, so what it knows is
+			// A cursor that already represents another file keeps its state, so what it knows is
 			// newer than the book and the book is not consulted. Its fold starts at the first byte
 			// of the file now named, which is not a restart of the same file and does not drop it.
 			let tail = emptyTail();

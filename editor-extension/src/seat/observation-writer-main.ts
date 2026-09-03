@@ -4,7 +4,7 @@
  * THE PROCESS THE WINDOW'S OBSERVATIONS ARE WRITTEN BY, so that the host's one thread never does it.
  *
  * `written(… 'patch-state' …)` lands about two kilobytes of YAML beside the window's page, and
- * that part is cheap. What is not cheap is being told where the page stands: `whereFor` asks the
+ * that part is cheap. What is not cheap is being told where the page is: `whereFor` asks the
  * registry, and a page type filed `**​/*.<slug>.md` names no folder, so the question is answered by
  * walking every markdown file in the checkout. Measured on this box at load 17, one write held the
  * calling thread for 202-430ms, median 307ms, and six writes in a row read as a single unbroken

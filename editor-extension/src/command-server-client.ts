@@ -7,7 +7,7 @@ import type { Readable } from 'node:stream';
 // five milliseconds. This holds one bun process open and asks it over pipes.
 //
 // It caches no answer. Every ask re-runs the command over there, so what comes back is composed from
-// the files as they stand, exactly as a fresh child composed it. What this end guards instead is
+// the files as they are, exactly as a fresh child composed it. What this end guards instead is
 // that the process answering is young enough to be trusted, and that a process which is gone
 // refuses rather than repeating the last thing it said.
 

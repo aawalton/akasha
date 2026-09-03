@@ -27,7 +27,7 @@ const SAYS = '[editor-observations]';
 // builds is how a write says which page it is for; nothing has ever listened on this port. Read as
 // an HTTP POST it looks like work that leaves the process, which is exactly what it was not: the
 // write landed in-process and synchronously, on the extension host's one thread.
-const STANDS_IN_FOR_AN_ORIGIN = 'http://127.0.0.1:8787';
+const REPRESENTS_AN_ORIGIN = 'http://127.0.0.1:8787';
 
 interface Writer {
 	readonly ask: Fetcher;
@@ -35,7 +35,7 @@ interface Writer {
 }
 
 // OFF THE HOST'S THREAD, NOT LESS OFTEN. `written(… 'patch-state' …)` has to be told where the
-// window's page stands, and `whereFor` answers that by walking every markdown file in the
+// window's page is, and `whereFor` answers that by walking every markdown file in the
 // checkout. Measured on this box at load 17, one write held the calling thread 202-430ms, median
 // 307ms, and six in a row read as one unbroken 1521ms block. The pollers ask about once a second,
 // so the host's event loop was spending about a third of itself inside this call, and a blocked
@@ -49,7 +49,7 @@ interface Writer {
 //
 // What is here instead hands the same call, unchanged, to a bun child that does nothing else.
 //
-// The `deferCommits()` that stood here is gone rather than moved. `patchState` lands
+// The `deferCommits()` that was here is gone rather than moved. `patchState` lands
 // `<page>.uncommitted.yaml` and never reaches `landOne`, so this act queued no commit and had
 // nothing to defer; what the call did do was register exit handlers and run `recoverLandings()`,
 // which adopts landing journals from dead writers and commits them with `git`, on the thread that
@@ -114,7 +114,7 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
 			: { ask: options.fetch, dispose: async () => undefined };
 	const ask = writer.ask;
 	const url =
-		`${options.origin ?? STANDS_IN_FOR_AN_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`;
+		`${options.origin ?? REPRESENTS_AN_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`;
 
 	let features: Record<string, Observation> = {};
 	let writtenKey = changeKey({});

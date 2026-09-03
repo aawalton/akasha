@@ -99,7 +99,7 @@ function buildTreeItem(element: WorkNode, tree: WorkTree | undefined, filtering:
 		element.label,
 		element.detail,
 		element.note,
-		element.relPath ?? 'a sentinel, standing for what declared nothing — it opens no document',
+		element.relPath ?? 'a sentinel, representing what declared nothing — it opens no document',
 	]
 		.filter((line): line is string => line !== null)
 		.join('\n');

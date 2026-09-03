@@ -43,7 +43,7 @@ function meanIn(held: Record<string, unknown>, field: string): Mean {
 // and the page tree ask their children for exactly this reason.
 //
 // This throws where the fleet cannot be read rather than answering two nulls, because both slots
-// draw `—` for a null and a checkout that will not answer would look like a fleet standing idle.
+// draw `—` for a null and a checkout that will not answer would look like a fleet sitting idle.
 export async function readUsage(): Promise<UsageReading> {
 	const stdout = await runCommand(commandPath(COMMAND), [], {
 		timeout: CALL_TIMEOUT_MS,

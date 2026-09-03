@@ -44,7 +44,7 @@ let output: vscode.OutputChannel;
 
 // WHAT THE DRAWN ANSWER SAYS A PAGE OF ITS OWN KIND LOOKS LIKE. A domain page is named
 // `<slug>.<page-type>.ts`, so the endings the drawn rows carry are the kinds under `domain` as
-// they now stand — 67 of them here, `.module.ts` and `.command.ts` and the rest. Reading them off
+// they now are — 67 of them here, `.module.ts` and `.command.ts` and the rest. Reading them off
 // the answer rather than writing them down is what keeps a kind added tomorrow from being a kind
 // this panel is blind to.
 function kindsIn(
@@ -87,8 +87,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	};
 
 	// The bytes of the answer already drawn. `tools/domain-tree.ts` composes the tree from the
-	// files as they now stand and prints it; nothing in it is a clock or a counter, so two reads
-	// of an unmoved corpus are byte-for-byte equal, and a hash of them is a sound stand-in for
+	// files as they now are and prints it; nothing in it is a clock or a counter, so two reads
+	// of an unmoved corpus are byte-for-byte equal, and a hash of them soundly represents
 	// "would this redraw show Alan anything he is not already looking at".
 	let drawnHash: string | undefined;
 

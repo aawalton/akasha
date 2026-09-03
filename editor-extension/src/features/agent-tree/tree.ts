@@ -92,7 +92,7 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
 	item.iconPath = new vscode.ThemeIcon('blank');
 	// THE LAST LINE OF A TOOLTIP IS THE PAGE AKASHA HOLDS FOR THE ROW, and it is there only where
 	// the page is. `forest.ts` carries a path onto a row only after the command opened that file while
-	// composing its answer, so a tooltip naming a page is a tooltip naming one that was standing.
+	// composing its answer, so a tooltip naming a page is a tooltip naming one that was there.
 	// A row akasha holds no page for says so rather than leaving the reader to guess whether the
 	// panel lost the path or the page was never there — the two look identical as a missing line.
 	item.tooltip = (element.kind === 'subagent'

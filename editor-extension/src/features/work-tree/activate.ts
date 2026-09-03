@@ -35,7 +35,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
 	let total = 0;
 
-	let standing: WorkTree | undefined;
+	let current: WorkTree | undefined;
 
 	const describe = (): undefined => {
 		const matched = tree.matchCount();
@@ -49,7 +49,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		try {
 			const next = await readWorkTree();
 			tree.replace(next);
-			standing = next;
+			current = next;
 			watchCorpus(next.repo);
 			const rows = countRows(next.roots);
 			total = rows;
@@ -86,11 +86,11 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	const settled = createSettledRefresh(SETTLE_MS, refresh);
 
 	const repaint = async (trigger: string): Promise<undefined> => {
-		if (standing === undefined) { return undefined; }
+		if (current === undefined) { return undefined; }
 		try {
-			const next = recolor(standing, await readWorkColors());
+			const next = recolor(current, await readWorkColors());
 			if (next === undefined) { return undefined; }
-			standing = next;
+			current = next;
 			tree.replace(next);
 			output.appendLine(`[${trigger}] recolored`);
 		} catch (err) {

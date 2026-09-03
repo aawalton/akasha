@@ -31,8 +31,8 @@ export interface HarnessRow {
 	readonly state: string | null;
 	readonly waitingOn: string | null;
 	readonly color: string | null;
-	// Where this seat's page stands inside the repository the answer names, or null where akasha
-	// holds none standing. Null is the whole of what a row with no page carries: nothing here
+	// Where this seat's page sits inside the repository the answer names, or null where akasha
+	// holds none. Null is the whole of what a row with no page carries: nothing here
 	// composes a path for one, because a path composed rather than answered is a path that opens
 	// whatever has since been filed under it.
 	readonly at: string | null;

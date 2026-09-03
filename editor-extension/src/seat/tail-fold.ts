@@ -36,7 +36,7 @@ export interface Tail {
 export interface TailFold {
 	// Bytes newly folded, so a caller can say what a poll cost.
 	readonly folded: number;
-	readonly standing: number;
+	readonly bytesThere: number;
 	// The file no longer reads as it did at `offset`, or it shrank. The caller's state was dropped
 	// and what it holds now is a fold from the first byte.
 	readonly refolded: boolean;
@@ -83,11 +83,11 @@ export interface TailSink {
 }
 
 export async function foldTail(tail: Tail, filePath: string, sink: TailSink): Promise<TailFold> {
-	let standing: number;
+	let bytesThere: number;
 	try {
-		standing = (await stat(filePath)).size;
+		bytesThere = (await stat(filePath)).size;
 	} catch {
-		return { folded: 0, standing: 0, refolded: false, missing: true, partial: '' };
+		return { folded: 0, bytesThere: 0, refolded: false, missing: true, partial: '' };
 	}
 
 	let refolded = false;
@@ -99,14 +99,14 @@ export async function foldTail(tail: Tail, filePath: string, sink: TailSink): Pr
 		return undefined;
 	};
 
-	if (standing < tail.offset) {
+	if (bytesThere < tail.offset) {
 		restart();
 	} else if (tail.offset > 0 && (await anchorEnding(filePath, tail.offset)) !== tail.anchor) {
 		restart();
 	}
 
-	if (standing === tail.offset) {
-		return { folded: 0, standing, refolded, missing: false, partial: '' };
+	if (bytesThere === tail.offset) {
+		return { folded: 0, bytesThere, refolded, missing: false, partial: '' };
 	}
 
 	const began = tail.offset;
@@ -120,8 +120,8 @@ export async function foldTail(tail: Tail, filePath: string, sink: TailSink): Pr
 	let read = tail.offset;
 	const handle = await open(filePath, 'r');
 	try {
-		while (read < standing) {
-			const length = Math.min(CHUNK_BYTES, standing - read);
+		while (read < bytesThere) {
+			const length = Math.min(CHUNK_BYTES, bytesThere - read);
 			const buffer = Buffer.allocUnsafe(length);
 			const { bytesRead } = await handle.read(buffer, 0, length, read);
 			if (bytesRead === 0) { break; }
@@ -158,5 +158,5 @@ export async function foldTail(tail: Tail, filePath: string, sink: TailSink): Pr
 	const partial = carry.toString('utf8');
 	tail.anchor = tail.offset > 0 ? await anchorEnding(filePath, tail.offset) : null;
 
-	return { folded: tail.offset - began, standing, refolded, missing: false, partial };
+	return { folded: tail.offset - began, bytesThere, refolded, missing: false, partial };
 }

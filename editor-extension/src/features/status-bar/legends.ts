@@ -10,7 +10,7 @@ import type { StoplightsSection } from './slot-types.ts';
  * of its own and there is nothing left to schedule, deduplicate or time out.
  *
  * What survives is the one behaviour that was never about fetching: a section whose read failed
- * keeps the labels it last named, so the tooltip says which readouts the stale glyphs stand for
+ * keeps the labels it last named, so the tooltip says which readouts the stale glyphs represent
  * rather than going blank.
  */
 export type StoplightLegends = Readonly<Record<StoplightsSection, string | undefined>>;

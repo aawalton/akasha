@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
 import { z } from 'zod';
 import type { ColumnNumber } from '../../seat/editor-group.ts';
-import { seatNamesStanding } from '../../seat/seat-page.ts';
+import { seatNamesThatExist } from '../../seat/seat-page.ts';
 import {
 	loadPsRows,
 	loadTmuxClients,
@@ -90,7 +90,7 @@ export async function readSeatLookup(): Promise<{
 }> {
 	const psRows = await loadPsRows();
 	if (psRows.length === 0) { return { seatNames: new Set<string>(), psRows, tmuxClients: [] }; }
-	const [seatNames, tmuxClients] = await Promise.all([seatNamesStanding(), loadTmuxClients()]);
+	const [seatNames, tmuxClients] = await Promise.all([seatNamesThatExist(), loadTmuxClients()]);
 	return { seatNames, psRows, tmuxClients };
 }
 

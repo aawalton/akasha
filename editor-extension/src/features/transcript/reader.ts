@@ -43,7 +43,7 @@ export interface TranscriptRead {
 	readonly subagentEntries: ReadonlyMap<string, readonly Entry[]>;
 	// What the poll cost, for the panel to say.
 	readonly bytesFolded: number;
-	readonly bytesStanding: number;
+	readonly bytesThere: number;
 	readonly filesFolded: number;
 	readonly filesRefolded: number;
 }
@@ -74,14 +74,14 @@ export function createTranscriptReader(): TranscriptReader {
 	let roll: Roll | null = null;
 
 	const holdFor = (filePath: string): Held => {
-		const standing = held.get(filePath);
-		if (standing !== undefined) { return standing; }
+		const existing = held.get(filePath);
+		if (existing !== undefined) { return existing; }
 		const fresh: Held = { tail: emptyTail(), fold: emptyEntryFold(), uncommitted: null, partial: '' };
 		held.set(filePath, fresh);
 		return fresh;
 	};
 
-	const foldFile = async (filePath: string): Promise<{ folded: number; standing: number; refolded: boolean }> => {
+	const foldFile = async (filePath: string): Promise<{ folded: number; bytesThere: number; refolded: boolean }> => {
 		const one = holdFor(filePath);
 		// Last read's trailing record comes back out first. Its bytes are about to be read again as
 		// part of a whole line, and a fold that saw it twice would show the record twice.
@@ -99,7 +99,7 @@ export function createTranscriptReader(): TranscriptReader {
 				return undefined;
 			},
 		});
-		if (outcome.missing) { return { folded: 0, standing: 0, refolded: false }; }
+		if (outcome.missing) { return { folded: 0, bytesThere: 0, refolded: false }; }
 		// The bytes after the last newline are a record the file has not finished writing. A read of
 		// the whole file would have parsed them, so they are folded in — and journalled, so the next
 		// fold takes them back rather than folding the finished record on top of the half of it.
@@ -109,7 +109,7 @@ export function createTranscriptReader(): TranscriptReader {
 			one.uncommitted = journal;
 			one.partial = outcome.partial;
 		}
-		return { folded: outcome.folded, standing: outcome.standing, refolded: outcome.refolded };
+		return { folded: outcome.folded, bytesThere: outcome.bytesThere, refolded: outcome.refolded };
 	};
 
 	const entriesOf = (filePath: string): readonly Entry[] => held.get(filePath)?.fold.entries ?? [];
@@ -134,13 +134,13 @@ export function createTranscriptReader(): TranscriptReader {
 	return {
 		read: async (transcriptPath: string): Promise<TranscriptRead> => {
 			let bytesFolded = 0;
-			let bytesStanding = 0;
+			let bytesThere = 0;
 			let filesFolded = 0;
 			let filesRefolded = 0;
 
-			const account = (one: { folded: number; standing: number; refolded: boolean }): undefined => {
+			const account = (one: { folded: number; bytesThere: number; refolded: boolean }): undefined => {
 				bytesFolded += one.folded;
-				bytesStanding += one.standing;
+				bytesThere += one.bytesThere;
 				if (one.folded > 0) { filesFolded += 1; }
 				if (one.refolded) { filesRefolded += 1; }
 				return undefined;
@@ -168,7 +168,7 @@ export function createTranscriptReader(): TranscriptReader {
 				subagents,
 				subagentEntries,
 				bytesFolded,
-				bytesStanding,
+				bytesThere,
 				filesFolded,
 				filesRefolded,
 			};
