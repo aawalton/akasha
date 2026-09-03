@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lifeGiver = {
-  id: "01a05fd0-dcd6-7477-9719-e3f568e234ff",
+  id: "019e6226-00fe-72c0-9154-50e842b5355e",
   pageTypeSlug: "temper-skill",
   slug: "life-giver",
   title: "Life Giver",

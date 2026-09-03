@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const improvedSneak = {
-  id: "01a05fd0-dcc2-7538-8344-4b017b1635fe",
+  id: "019e6238-c2ca-7db7-aa23-2048d0350b65",
   pageTypeSlug: "temper-skill",
   slug: "improved-sneak",
   title: "Improved Sneak",

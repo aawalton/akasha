@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const mendWounds = {
-  id: "01a05fd1-2dfb-7586-a5e6-5a550fe7f0bf",
+  id: "019e6f53-a471-737a-a83b-82667198ba8c",
   pageTypeSlug: "temper-skill",
   slug: "mend-wounds",
   title: "Mend Wounds",

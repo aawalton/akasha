@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const juggernaut = {
-  id: "01a05fd0-dccb-7e36-a068-a49728448bdf",
+  id: "019e6238-c2d2-7ed3-9fc3-02945e21f2b6",
   pageTypeSlug: "temper-skill",
   slug: "juggernaut",
   title: "Juggernaut",

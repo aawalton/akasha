@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const heroicSlash38264 = {
-  id: "01a05fd0-dcb2-70dd-984f-23b6e546eace",
+  id: "019e6f53-a310-7d55-814c-16ec23e25d53",
   pageTypeSlug: "temper-skill",
   slug: "heroic-slash-38264",
   title: "Heroic Slash",

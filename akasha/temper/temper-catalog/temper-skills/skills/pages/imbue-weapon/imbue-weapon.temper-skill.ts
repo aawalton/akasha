@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const imbueWeapon = {
-  id: "01a05fd0-dcbe-7ace-8bdc-4b74913023a4",
+  id: "019e6f53-a353-7d4e-b18e-aa361c43e328",
   pageTypeSlug: "temper-skill",
   slug: "imbue-weapon",
   title: "Imbue Weapon",

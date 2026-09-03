@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const liquidLightning = {
-  id: "01a05fd1-2de9-7897-835c-a18b9c9aa530",
+  id: "019e6245-a6bd-7e1d-8e9e-66a3272191a5",
   pageTypeSlug: "temper-skill",
   slug: "liquid-lightning",
   title: "Liquid Lightning",

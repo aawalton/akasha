@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const massHysteria37470 = {
-  id: "01a05fd1-2df7-7f09-917a-087d7e82ac89",
+  id: "019e6f53-a45e-7501-850c-206763ac38dc",
   pageTypeSlug: "temper-skill",
   slug: "mass-hysteria-37470",
   title: "Mass Hysteria",

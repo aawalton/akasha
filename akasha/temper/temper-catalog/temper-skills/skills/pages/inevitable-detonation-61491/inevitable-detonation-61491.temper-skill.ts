@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const inevitableDetonation61491 = {
-  id: "01a05fd0-dcc4-70a6-a4a2-2e1490cc34a6",
+  id: "019e6f53-a371-72f9-af00-93f96a87f6c9",
   pageTypeSlug: "temper-skill",
   slug: "inevitable-detonation-61491",
   title: "Inevitable Detonation",

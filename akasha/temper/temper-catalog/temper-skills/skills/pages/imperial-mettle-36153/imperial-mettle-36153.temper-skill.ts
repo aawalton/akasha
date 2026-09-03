@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const imperialMettle36153 = {
-  id: "01a05fd0-dcc1-7413-862f-e4c33b76c820",
+  id: "019e6f53-a35e-77d0-9f0f-564266ca6873",
   pageTypeSlug: "temper-skill",
   slug: "imperial-mettle-36153",
   title: "Imperial Mettle",

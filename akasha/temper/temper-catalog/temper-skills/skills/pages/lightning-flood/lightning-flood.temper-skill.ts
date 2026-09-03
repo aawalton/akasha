@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lightningFlood = {
-  id: "01a05fd0-dcd9-76cb-9ff6-d1a2fc9d4e3b",
+  id: "019e6245-a6bc-7da3-8450-59f8487342d2",
   pageTypeSlug: "temper-skill",
   slug: "lightning-flood",
   title: "Lightning Flood",

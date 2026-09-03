@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lightArmorPenalties = {
-  id: "01a05fd0-dcd7-718c-9805-f1a430f61b26",
+  id: "019e6238-c2e1-7ff1-9716-563fd61ff198",
   pageTypeSlug: "temper-skill",
   slug: "light-armor-penalties",
   title: "Light Armor Penalties",

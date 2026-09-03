@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lunarBlessings = {
-  id: "01a05fd1-2dee-7999-bd44-238fd6f44ff9",
+  id: "019e624a-12cf-7c22-adaf-3ba578576319",
   pageTypeSlug: "temper-skill",
   slug: "lunar-blessings",
   title: "Lunar Blessings",

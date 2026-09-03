@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lightWeaver31760 = {
-  id: "01a05fd0-dcd9-795d-a87f-dbe577c3b9e5",
+  id: "019e6f53-a3f7-7663-9d07-1af6811336ba",
   pageTypeSlug: "temper-skill",
   slug: "light-weaver-31760",
   title: "Light Weaver",

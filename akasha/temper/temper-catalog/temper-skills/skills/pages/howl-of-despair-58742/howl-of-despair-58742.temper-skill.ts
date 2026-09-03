@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const howlOfDespair58742 = {
-  id: "01a05fd0-dcb7-762b-9d5d-00809af42d35",
+  id: "019e6f53-a32b-7de1-890d-0be8d8e61245",
   pageTypeSlug: "temper-skill",
   slug: "howl-of-despair-58742",
   title: "Rip and Tear",

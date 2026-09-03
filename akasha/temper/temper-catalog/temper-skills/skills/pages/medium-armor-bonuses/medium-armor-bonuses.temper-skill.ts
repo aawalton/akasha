@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const mediumArmorBonuses = {
-  id: "01a05fd1-2dfa-7362-89bc-a646121afbcc",
+  id: "019e6238-c2e8-7837-b25e-6c992c67b226",
   pageTypeSlug: "temper-skill",
   slug: "medium-armor-bonuses",
   title: "Medium Armor Bonuses",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const innerBeast = {
-  id: "01a05fd0-dcc5-72b8-b0c0-98c4af5af711",
+  id: "019e6238-c2cc-71e9-9639-3b9eabf32566",
   pageTypeSlug: "temper-skill",
   slug: "inner-beast",
   title: "Inner Beast",

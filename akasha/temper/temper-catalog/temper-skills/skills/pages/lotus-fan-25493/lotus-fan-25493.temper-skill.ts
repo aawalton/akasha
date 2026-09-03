@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lotusFan25493 = {
-  id: "01a05fd1-2ded-74d4-bf27-d76658f24994",
+  id: "019e6f53-a41f-7f0a-abe4-bdd02b265be5",
   pageTypeSlug: "temper-skill",
   slug: "lotus-fan-25493",
   title: "Lotus Fan",

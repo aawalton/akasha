@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const inspiredScholarship185842 = {
-  id: "01a05fd0-dcc8-7b37-bc37-ca82d92a76f0",
+  id: "019e6f53-a382-75f7-8cce-b0f5cf689402",
   pageTypeSlug: "temper-skill",
   slug: "inspired-scholarship-185842",
   title: "Inspired Scholarship",

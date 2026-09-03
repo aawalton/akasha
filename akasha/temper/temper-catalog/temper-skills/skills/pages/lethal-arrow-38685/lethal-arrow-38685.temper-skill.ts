@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lethalArrow38685 = {
-  id: "01a05fd0-dcd5-7bf9-8800-425f21a869ee",
+  id: "019e6f53-a3df-756e-8f55-f131dab266d3",
   pageTypeSlug: "temper-skill",
   slug: "lethal-arrow-38685",
   title: "Lethal Arrow",

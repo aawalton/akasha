@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lightArmorBonuses = {
-  id: "01a05fd0-dcd7-73b7-9a53-2e92a9d8fc52",
+  id: "019e6238-c2e1-70a8-abbc-84fc4b845fb9",
   pageTypeSlug: "temper-skill",
   slug: "light-armor-bonuses",
   title: "Light Armor Bonuses",

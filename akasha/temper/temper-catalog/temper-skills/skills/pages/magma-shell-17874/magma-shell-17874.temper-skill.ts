@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const magmaShell17874 = {
-  id: "01a05fd1-2df4-7512-a673-9011a8136f1f",
+  id: "019e6f53-a44b-7f58-bf8e-c64d85626658",
   pageTypeSlug: "temper-skill",
   slug: "magma-shell-17874",
   title: "Magma Shell",

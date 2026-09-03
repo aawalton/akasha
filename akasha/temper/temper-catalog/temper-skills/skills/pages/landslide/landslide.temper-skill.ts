@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const landslide = {
-  id: "01a05fd0-dcd2-7e93-895b-2c1c8cd24176",
+  id: "019e6f53-a3ba-73f6-9fd3-638d9df057f8",
   pageTypeSlug: "temper-skill",
   slug: "landslide",
   title: "Landslide",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lightFingers = {
-  id: "01a05fd0-dcd8-724e-a2d8-6a1a43f20abf",
+  id: "019e6251-4ccc-7be6-86e9-25fb5d5198dc",
   pageTypeSlug: "temper-skill",
   slug: "light-fingers",
   title: "Light Fingers",

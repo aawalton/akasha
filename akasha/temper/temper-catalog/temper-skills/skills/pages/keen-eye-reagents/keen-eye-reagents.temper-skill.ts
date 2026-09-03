@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const keenEyeReagents = {
-  id: "01a05fd0-dcce-7d21-9bd3-bac65d3aff32",
+  id: "019e6224-cc9c-7aa7-8faf-c41df57dd4eb",
   pageTypeSlug: "temper-skill",
   slug: "keen-eye-reagents",
   title: "Keen Eye: Reagents",

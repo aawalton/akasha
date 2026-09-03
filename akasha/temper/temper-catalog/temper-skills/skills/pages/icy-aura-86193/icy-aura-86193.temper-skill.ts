@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const icyAura86193 = {
-  id: "01a05fd0-dcbb-7b02-b425-efd9d3bbe1c3",
+  id: "019e6f53-a345-7f89-8ae4-737e2b29d746",
   pageTypeSlug: "temper-skill",
   slug: "icy-aura-86193",
   title: "Icy Aura",

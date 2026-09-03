@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lacerate = {
-  id: "01a05fd0-dcd2-7393-89df-d416f4df249c",
+  id: "019e6f53-a3b8-7f41-809c-c88aac1c7ccc",
   pageTypeSlug: "temper-skill",
   slug: "lacerate",
   title: "Lacerate",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const hiddenBlade = {
-  id: "01a05fd0-dcb4-7749-ad53-a8195f2bf357",
+  id: "019e6f53-a315-7ac5-b0f1-357f4a779c64",
   pageTypeSlug: "temper-skill",
   slug: "hidden-blade",
   title: "Hidden Blade",

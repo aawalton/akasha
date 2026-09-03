@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const impale = {
-  id: "01a05fd0-dcbf-7bc5-98c1-332cad337b03",
+  id: "019e6245-a6af-73a6-850b-c8afe8fd77bd",
   pageTypeSlug: "temper-skill",
   slug: "impale",
   title: "Impale",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const intimidatingPresence = {
-  id: "01a05fd0-dcc9-7872-88cc-b68720a26989",
+  id: "019e6238-c2cf-7245-b76f-3c3913f4ddc7",
   pageTypeSlug: "temper-skill",
   slug: "intimidating-presence",
   title: "Intimidating Presence",

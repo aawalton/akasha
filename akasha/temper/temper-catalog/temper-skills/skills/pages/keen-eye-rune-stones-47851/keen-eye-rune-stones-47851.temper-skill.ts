@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const keenEyeRuneStones47851 = {
-  id: "01a05fd0-dccf-7d36-8eac-e3f9e00d7839",
+  id: "019e6f53-a3aa-7828-ba1c-f7a245b4a01e",
   pageTypeSlug: "temper-skill",
   slug: "keen-eye-rune-stones-47851",
   title: "Keen Eye: Rune Stones",

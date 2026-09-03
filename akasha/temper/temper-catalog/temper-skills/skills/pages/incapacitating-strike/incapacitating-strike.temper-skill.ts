@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const incapacitatingStrike = {
-  id: "01a05fd0-dcc3-7ccd-99f0-3efa2b95a5bf",
+  id: "019e6245-a6b2-74c3-bf6c-43e9ea7edcda",
   pageTypeSlug: "temper-skill",
   slug: "incapacitating-strike",
   title: "Incapacitating Strike",

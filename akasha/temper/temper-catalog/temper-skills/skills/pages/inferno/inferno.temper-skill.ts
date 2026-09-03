@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const inferno = {
-  id: "01a05fd0-dcc5-71ae-ae0f-b931c1be6825",
+  id: "019e6f53-a373-7abe-9260-8139aab72cb2",
   pageTypeSlug: "temper-skill",
   slug: "inferno",
   title: "Inferno",

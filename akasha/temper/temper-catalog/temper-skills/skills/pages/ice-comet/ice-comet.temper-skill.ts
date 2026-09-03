@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const iceComet = {
-  id: "01a05fd0-dcba-73ba-953c-cc006131bc5c",
+  id: "019e6238-c2c8-7408-bf3e-838073ad3ad3",
   pageTypeSlug: "temper-skill",
   slug: "ice-comet",
   title: "Ice Comet",

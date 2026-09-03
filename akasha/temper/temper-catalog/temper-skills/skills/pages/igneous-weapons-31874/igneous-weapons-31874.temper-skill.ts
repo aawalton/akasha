@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const igneousWeapons31874 = {
-  id: "01a05fd0-dcbc-74d3-b192-6509e3be9af6",
+  id: "019e6f53-a34c-741f-b5fb-63946e05c833",
   pageTypeSlug: "temper-skill",
   slug: "igneous-weapons-31874",
   title: "Igneous Weapons",

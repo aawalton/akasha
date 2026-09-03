@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const intensiveMender118840 = {
-  id: "01a05fd0-dcc8-7eaa-abe4-4078d7eac29f",
+  id: "019e6f53-a385-777a-bbbc-d8686ec03e7a",
   pageTypeSlug: "temper-skill",
   slug: "intensive-mender-118840",
   title: "Intensive Mender",

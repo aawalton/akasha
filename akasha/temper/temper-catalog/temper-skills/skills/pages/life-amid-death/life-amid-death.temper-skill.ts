@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lifeAmidDeath = {
-  id: "01a05fd0-dcd6-7143-963c-9fc253dc2456",
+  id: "019e6f53-a3e1-75ae-9417-cfc79612ead3",
   pageTypeSlug: "temper-skill",
   slug: "life-amid-death",
   title: "Life amid Death",

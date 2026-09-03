@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const medicinalUse = {
-  id: "01a05fd1-2df9-7d1c-a17a-3ae14c3aa05e",
+  id: "019e6224-cca2-7b34-8b49-5d7f4eacebf8",
   pageTypeSlug: "temper-skill",
   slug: "medicinal-use",
   title: "Medicinal Use",

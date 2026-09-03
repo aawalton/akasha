@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const mageAdept40436 = {
-  id: "01a05fd1-2df0-76ec-a424-23271656d0cd",
+  id: "019e6f53-a42d-7d11-a900-f6b9a603eb13",
   pageTypeSlug: "temper-skill",
   slug: "mage-adept-40436",
   title: "Mage Adept",

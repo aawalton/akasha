@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const intricateRuneforms185187 = {
-  id: "01a05fd0-dcc9-7bcd-a397-b6e907bd7ff5",
+  id: "019e6f53-a38a-7638-9107-93cf9f51a512",
   pageTypeSlug: "temper-skill",
   slug: "intricate-runeforms-185187",
   title: "Intricate Runeforms",

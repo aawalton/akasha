@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const leechingVines85850 = {
-  id: "01a05fd0-dcd5-78df-b57f-0ae3a83b595d",
+  id: "019e6f53-a3d9-7c7b-b354-8121cc731c69",
   pageTypeSlug: "temper-skill",
   slug: "leeching-vines-85850",
   title: "Leeching Vines",

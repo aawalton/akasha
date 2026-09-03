@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const magickaController40438 = {
-  id: "01a05fd1-2df2-709e-8a32-daba531a6a19",
+  id: "019e6f53-a43a-7b86-9ffb-0dfb5b213e65",
   pageTypeSlug: "temper-skill",
   slug: "magicka-controller-40438",
   title: "Magicka Controller",

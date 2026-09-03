@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lightSChampion = {
-  id: "01a05fd0-dcd8-7152-96f4-d5b07b85ce46",
+  id: "019e6f53-a3f4-71b9-8396-763024a2ac83",
   pageTypeSlug: "temper-skill",
   slug: "light-s-champion",
   title: "Light's Champion",

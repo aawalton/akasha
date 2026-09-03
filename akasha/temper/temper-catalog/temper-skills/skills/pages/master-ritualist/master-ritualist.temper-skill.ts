@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const masterRitualist = {
-  id: "01a05fd1-2df8-761d-a1f2-5785a0cc2bcf",
+  id: "019e6245-a6cc-70c5-a6c2-ffbf060f9857",
   pageTypeSlug: "temper-skill",
   slug: "master-ritualist",
   title: "Master Ritualist",

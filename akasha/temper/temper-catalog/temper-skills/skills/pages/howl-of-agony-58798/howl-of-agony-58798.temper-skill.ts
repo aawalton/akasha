@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const howlOfAgony58798 = {
-  id: "01a05fd0-dcb7-73f5-9560-6df8ee935898",
+  id: "019e6f53-a328-7b8a-bb3d-25a9962ddcb3",
   pageTypeSlug: "temper-skill",
   slug: "howl-of-agony-58798",
   title: "Bloody Gnash",

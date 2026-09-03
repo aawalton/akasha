@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const hypnosis = {
-  id: "01a05fd0-dcb9-723b-826e-0dd38a561c25",
+  id: "019e6251-4cc4-7b78-bc22-890736da8265",
   pageTypeSlug: "temper-skill",
   slug: "hypnosis",
   title: "Hypnosis",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const hungryScythe = {
-  id: "01a05fd0-dcb7-7edf-8029-68cf0a07be9b",
+  id: "019e6245-a6a8-7109-b7f7-39367708b043",
   pageTypeSlug: "temper-skill",
   slug: "hungry-scythe",
   title: "Hungry Scythe",

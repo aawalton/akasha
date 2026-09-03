@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lastGasp116271 = {
-  id: "01a05fd0-dcd3-7582-a7b0-7b9c4a6335e6",
+  id: "019e6f53-a3c1-7f97-8577-25dc2b3585fc",
   pageTypeSlug: "temper-skill",
   slug: "last-gasp-116271",
   title: "Last Gasp",

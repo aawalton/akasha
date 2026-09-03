@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const manifestationOfTerror = {
-  id: "01a05fd1-2df5-74ec-80ae-73c4369a4358",
+  id: "019e6245-a6c8-7c28-b269-9c22785ca38d",
   pageTypeSlug: "temper-skill",
   slug: "manifestation-of-terror",
   title: "Manifestation of Terror",

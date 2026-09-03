@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const keenEyeTreasureChests = {
-  id: "01a05fd0-dccf-757e-8f32-e226448b343f",
+  id: "019e6251-4cca-7337-aa29-ddd45557d6e0",
   pageTypeSlug: "temper-skill",
   slug: "keen-eye-treasure-chests",
   title: "Keen Eye: Treasure Chests",

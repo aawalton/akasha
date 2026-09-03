@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const hemorrhage = {
-  id: "01a05fd0-dcb1-7b91-af9e-facfbf3e03d1",
+  id: "019e6245-a6a3-7f87-9a00-6dd90defcfd5",
   pageTypeSlug: "temper-skill",
   slug: "hemorrhage",
   title: "Hemorrhage",

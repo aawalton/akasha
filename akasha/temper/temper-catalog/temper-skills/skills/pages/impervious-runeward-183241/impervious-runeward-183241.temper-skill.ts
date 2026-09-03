@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const imperviousRuneward183241 = {
-  id: "01a05fd0-dcc1-717e-859e-43791873cbce",
+  id: "019e6f53-a361-7858-98bb-89ac1a12514e",
   pageTypeSlug: "temper-skill",
   slug: "impervious-runeward-183241",
   title: "Impervious Runeward",

@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const lightningForm = {
-  id: "01a05fd1-2de6-798c-8120-d74f0cb8ddb1",
+  id: "019e6f53-a3fb-7ca2-a51a-f5cb2efc902d",
   pageTypeSlug: "temper-skill",
   slug: "lightning-form",
   title: "Lightning Form",

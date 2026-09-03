@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const hircineSFortitude = {
-  id: "01a05fd0-dcb5-7756-ba51-d4bd9133169d",
+  id: "019e6f53-a31d-73d2-845d-49c21e75b1c7",
   pageTypeSlug: "temper-skill",
   slug: "hircine-s-fortitude",
   title: "Hircine's Fortitude",

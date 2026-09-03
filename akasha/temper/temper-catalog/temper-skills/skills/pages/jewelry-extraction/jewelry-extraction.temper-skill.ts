@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const jewelryExtraction = {
-  id: "01a05fd0-dccb-7196-a116-e6a7648d0b6b",
+  id: "019e6224-cc98-71b1-8c23-4c7bb4c03996",
   pageTypeSlug: "temper-skill",
   slug: "jewelry-extraction",
   title: "Jewelry Extraction",
