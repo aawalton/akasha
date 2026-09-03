@@ -224,3 +224,120 @@ Stat Change!
 
 Metal Repair Level 6 (Intermediate 0%)
 
+Ren looked at his clothing, and saw it was getting a little worn and tattered. He equipped his armor bodysuit and that stored his Travelling Clothes into his inventory, so he took them out and repaired them with the Master Tailor Sewing Needle.
+
+Stat Change!
+
+Cloth Repair Level 3 (Intermediate 0%)
+
+Repair Level 6 (Intermediate 0%)
+
+Nice. Ren equipped the Travelling Clothes again, which put the bodysuit back into inventory, and left the mines. He ran back to House Neram Keep and went up to his workshop. He and Tee-one assembled a second Ballista, after Ren enchanted the pieces with the appropriate enchantments, and Ren stored it with the first one.
+
+“I guess this means I'll be coming along next time.” Tee-one said, and Ren nodded.
+
+“Only if you want to.” Ren said.
+
+“Can you make me two of those wand arrays?” Tee-one asked, and Ren grinned.
+
+“I'm not sure you can wear another chest plate.” Ren said and tapped his friend's armored chest. “But, I'll see what I can come up with.”
+
+They worked out a sparse metal harness that would fit over Tee-one's armored body, and Ren made two more 6 inch by 12 inch metal rectangles with 12 holes in each that could hold the wands. Ren made another 40 wands, 20 with Web, and 20 with Fireball, and mounted 12 of each in the array.
+
+“That should do it.” Ren said, and passed it to Tee-one.
+
+When Tee-one equipped it, it popped out and sat perfectly on his shoulders.
+
+“They aim where your body is facing.” Ren explained. “Don't only look where you want them to go; you have to face that way.”
+
+“That's going to take a bit of getting used to.” Tee-one said.
+
+Ren nodded, then looked at the forge with the gold in it. “Well, while I'm here.” He remembered the design he'd thought up to make for Lara, and poured out a very thin layer of molten metal, a couple of inches wide and 12 inches long.
+
+Using his fingers, Ren gently molded curves and holes into a neat design, picked it up, and curved it to fit onto someone's head. Ren took out one of the several sacks of 1 gold coin diamonds, and started to set them into the surface of the still nearly molten metal. He used his Gem Setting skill to burnish them. That put them flush with the surface of the metal, and he covered the entire outer surface of the gold metal with them, except for a space in the very center. He took out one of the wand-sized 1 inch wide oval diamonds, and set that into place. When he was done, he received a popup.
+
+Notice!
+
+You have unlocked a new skill: Craft Jewelry Level 1 (Beginner 0%).
+
+All gemstone related skills have been reclassified as sub skills under this heading.
+
+Cross-linked Skills: Soldering, Polishing
+
+That's neat. Ren smiled as he picked up the gold diamond-covered tiara. Who would have thought that making something like this free-hand and without a pattern, would grant me a skill?
+
+“Supper time.” Teepo said, and Ren stored the tiara. He left the workshop and ran down to the Keep and had another meal with Ereka and Nathalia. He kissed Nathalia goodnight, and told her he'd be gone for all of it; then went to sit on the couch. Ren looked at his Dire Wolf Hooded Cloak and smiled.
+
+I completely forgot to wear that today. He thought and sat back. I haven't checked my status in a while, either.
+
+“Show Status.” Ren said, and looked at the popup.
+
+Status
+
+Name  Ren (Neram) Level  32
+
+Gender  Male  Class  Artificer/Lord
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  525,010 (Lord)  Honor  87,820 (Prestigious)
+
+Giant Kingdom:
+
+Respect  5,000
+
+Titles
+
+Blacksmith  Grants 5 level bonus to Blacksmithing Skills
+
+Tailor  Grants 5 level bonus to Tailoring Skills
+
+Issac's Novice  20% stat gain at his shop
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+Health  1048  Mana  1337
+
+Strength  175  Dexterity  97
+
+Vitality  105  Agility  93
+
+Endurance  101  Intelligence  147
+
+Luck  39  Wisdom  150
+
+Just as I thought. Nothing new. Ren closed the popup and looked at Teepo as he flew up and landed on the ceiling. See you in the morning, Teepo.
+
+“Bye, Ren.” Teepo said.
+
+“Logout.”
+
+********

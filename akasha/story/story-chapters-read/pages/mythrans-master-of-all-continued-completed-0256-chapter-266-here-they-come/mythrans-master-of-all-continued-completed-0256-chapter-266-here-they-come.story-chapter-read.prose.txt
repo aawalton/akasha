@@ -196,3 +196,592 @@ You have unlocked a new skill: Wood Carving Level 1 (Beginner 0%). This sub skil
 
 Ren chuckled as he filled the mold for the metal parts of the wind-up engine, then made the wood cart to attach it to. He covered the working parts so you wouldn't get your fingers or anything caught in the moving parts. With the engine taking up so much room, he had to make the cart's sides a little higher so that you could still put things into the cart. He dyed the small wooden Princess to the right color, dyed the cart to a dark brown, then attached them together.
 
+Small wheels had to be made to put on the wooden Princess' front hooves, and then a small wooden block had to be attached to the inside of the cart for the button. Ren wound the key a couple of times, and set the toy on the table. The tiny Princess and cart rolled across the table quickly, and he caught it. Ren lifted it up and examined it with Identify.
+
+Ram and Cart Toy
+
+This exquisitely hand-crafted toy was made by Ren the First.
+
+Ren used Appraisal on it, and it was valued at 1 gold coin. That's cool. He thought and stored it. He made another one and stored that, too.
+
+Stat Change!
+
+Craft Toy Level 4 (Beginner 0%)
+
+Wood Carving Level 2 (Beginner 0%)
+
+I only need to make two of them to level? That's crazy! Ren thought, chuckled, and made two more.
+
+Stat Change!
+
+Craft Toy Level 5 (Beginner 0%). You can produce toys 5% faster, and have learned a new recipe: Toy Train.
+
+Wood Carving Level 3 (Beginner 0%)
+
+Ren looked at the recipe for the toy train, and saw that it was only the main engine and one car. Rather than try and adapt the wind-up engine to fit the new recipe, he just kept making Ram and Cart toys. He kept making them, and dismissed the popups until he leveled up Craft Toy.
+
+Stat Change!
+
+Craft Toy Level 1 (Intermediate 0%). You can produce toys 5% faster, and have learned a new recipe: Rock Golem (Stuffed Plush).
+
+Ren made two more toys, and leveled Wood Carving to Intermediate Level 1 and Woodworking to Intermediate Level 5, which increased the speed of Wood Carving by 10% and Woodworking by 15%.
+
+Notice!
+
+Your use of chisels and knives in carving wood has let your fingers become more nimble in their movements.
+
+Dexterity: +2
+
+SPECIAL x2: Dexterity +2
+
+He looked through his skill list to see what else he could work on, and saw his Block skill under Shock Absorption, was pretty close to leveling up to Beginner Level 3.
+
+No time like the present. Ren thought, and walked over to a couple of dwarves that hadn't picked a weapon to be the third person on the crew. As he approached them, they stood at attention and saluted.
+
+“At ease.” Ren said. “This might seem like an odd request, but I need to increase my Block skill.” He said. “I'm not asking for a fight or a duel. I'm asking for you to swing your weapon at my shield so I can block it.”
+
+“Permission to speak freely?” One of them said.
+
+Ren nodded slightly.
+
+“Are you crazy, sir?”
+
+Ren chuckled. “According to some definitions, yes.”
+
+“I expected you to deny it.” The dwarf smiled. “I'll help you, if you can stop making my skin crawl.”
+
+Ren laughed because he had forgotten he was working on leveling up his Fear Aura. He switched his concentration to his Camaraderie Aura, and the dwarf relaxed.
+
+“Thank you, sir.”
+
+“Let's move over this way a bit, so we don't disturb the others.” Ren said and walked to the spot between the medical tent and the giant target.
+
+“Ren, I'm going to fly up and scout a bit.” Teepo said. “It's getting close to the right time.”
+
+Can you use Spot on things that far away? Ren asked.
+
+“Sure.” Teepo said. “I should be able to see them with this much open space.” He chittered in laughter. “It's not like they can hide behind anything!”
+
+Ren held in his chuckle, but Teepo felt his amusement and agreement, then took off to fly up a few hundred feet. Ren took out his shield and braced for the dwarf to attack after absorbing the Illumination glyph from it.
+
+“Only aim for the shield. This isn't a mock battle or anything of the sort. You can use different swings if you want, as long as you hit the shield.”
+
+The dwarf unsheathed his sword and readied himself. He swung his sword and Ren blocked it.
+
+“Harder.” Ren said.
+
+The dwarf smiled, did a little twirl with the blade, and swung it backhanded towards the shield.
+
+“Better!” Ren said. “Can you go faster?”
+
+The dwarf grinned and took out a short sword from behind his back and started to hit Ren with consecutive blows.
+
+Stat Change!
+
+Block Level 3 (Beginner 0%)
+
+“Yeah! That's it!” Ren said as he watched his Block skill level up. They kept going for about 10 minutes, and the dwarf had to stop and rest. Ren took out his icebox and gave the dwarf a plate of food.
+
+“Blah.” The dwarf said. “It's cold!”
+
+Ren chuckled. “Sorry. Just a minute.” He walked over to the forge and stuck the plate inside. Using his Fire Manipulation ability, he directed the heat into the food and not the plate. It only took a few seconds, and he brought it back to the dwarf.
+
+Stat Change!
+
+Fire Manipulation Level 3 (Intermediate 0%)
+
+The dwarf stared at him with wide eyes and didn't take the plate.
+
+“The plate is still cold, if you're worried about it.” Ren said and tried to hand it to him.
+
+“You... you just stuck your hand into the forge!” The dwarf said. “I saw it!” He took the plate of food, and then looked at Ren's hand. “It's not even burned!”
+
+Ren nodded slightly. “I've been blessed by the Fire Deity.” He said. “Flames in all their forms can no longer hurt me.”
+
+“By... by the gods...” The dwarf said, and ate some of the food. “This is delicious.” He said, but kept staring at Ren's hand. Ren took a small piece of food from the icebox and ate it.
+
+Stat Change!
+
+Rationing Level 3 (Intermediate 0%)
+
+Ren chuckled at the ridiculousness of the situation, but he wasn't going to stop using it to his advantage. That would have been even more ridiculous, in his opinion. Upon reflection, he figured all of the dwarves needed a good meal, so he took out 20 plates of food and warmed them in the forge. Since the plates of food had different items on them, Ren had to constantly adjust how to distribute the heat. When he did the last one, he had leveled Fire Manipulation to Intermediate Level 4. He delivered the warm meal to each of the other 19 dwarves, and then went to the medical tent with the last plate.
+
+“Knock, knock.” Ren said, and stepped inside.
+
+“Ooo, food!” Deresdra said as she turned around from hanging up an improvised curtain. “Is that for me?”
+
+Ren nodded slightly, and she came over to him and took it.
+
+“Thank you.” She said, and stood there to eat it.
+
+“You should have told me you needed to hang a curtain.” Ren said. “I would have come in to help.”
+
+Deresdra chuckled. “Like you're not busy enough.”
+
+Ren shrugged. “I'm just training, actually.” He said. “I received a fantastic bonus to my gains for the rest of the day, and I'm trying to use it as much as possible.”
+
+Deresdra nodded slightly and kept eating. “I saw.” She said. “After your fake drowning...” She smiled. “...I kept an eye on what you were doing.” She tossed the last bit of food into her mouth and sighed. “That was really good.”
+
+“I guess you must have missed breakfast.” Ren said and took the empty plate from her to store it.
+
+“We left the mine before I could go to the cafeteria.” Deresdra said. “I'm glad you gave me something to eat.” She smiled. “I was almost at the point of scavenging.”
+
+Ren chuckled, and left the medical tent. He ran around and picked up the empty plates, then put them in the icebox and stored it. He and the dwarf took their positions again, and they continued the Block training for another 20 minutes.
+
+Stat Change!
+
+Block Level 1 (Intermediate 0%)
+
+Shock Absorption Level 7 (Intermediate 0%)
+
+“That's good enough.” Ren said to the exhausted dwarf. He took out a Major Healing wand and used it on himself and the dwarf. The dwarf was still tired; but he felt a lot better, too.
+
+“If you feel up to it, can you gently throw some rocks at me?” Ren asked the dwarf, and the dwarf nodded slightly. “Just toss them easily. I'm going to dodge them.”
+
+The dwarf did as he said, and for the next 10 minutes, all Ren did was dodge rocks. The dwarf had started throwing them underhand, then as his Stamina came back, threw them overhand instead. Ren raised a hand up and the dwarf stopped throwing rocks.
+
+Notice!
+
+You have worked hard to avoid getting hit 100 times consecutively.
+
+Dexterity: +3
+
+Agility: +4
+
+SPECIAL x2: Dexterity +3, Agility +4
+
+“Thank you for your help.” Ren said to the dwarf, who nodded slightly and went back to talk to the others.
+
+Stat Change!
+
+Camaraderie Aura Level 5 (Expert 0%)
+
+Ren thought about what could help him with Agility, and took out a pile of planks. He cut them down their lengths, and then cut them in half. That made 6 inch wide, 4 foot long pieces. He nailed 6 of them together to make a 6 inch by 6 inch post, and made 4 of them.
+
+Stat Change!
+
+Woodworking Level 6 (Intermediate 0%)
+
+Nailing Level 2 (Intermediate 0%)
+
+Saw Level 4 (Intermediate 0%)
+
+Ren used an axe and chopped the bottoms of the 4 posts to make them sharp, took out his hammerpick and plunged the plow end into the ground to make a hole, then made another hole 5 feet away. After deciding that a square would be better than a line, he made 2 more holes to make the shape of a square. He stored the hammerpick, and took out a large hammer to put the posts into the ground about a foot. This secured them tightly, and left 3 feet above ground.
+
+“Perfect.” Ren said, and climbed up onto one. They were just far enough apart that you couldn't step from one to the other, and you had to hop. He jumped to the next post and landed with one foot on it; then almost lost his balance. Luckily, his other foot touched the post and his Amulet of the Spider held him steady. Remembering that he needed at least 2 points of contact for the amulet to work, Ren jumped to the next post with his feet closer together. He landed slightly off-center, but since both feet hit the surface, he steadied himself quickly.
+
+Ren kept jumping around the 4 posts of the square. He kept getting more adventurous as he jumped. He used two feet, one foot and a hand, one foot and two hands, and even once with only his hands. At one point, he had hung on the side of the post and jumped to the next one. After half an hour of jumping as many times as he could, and in as many ways as he could think of, he hopped down and stood on the ground.
+
+I think that's enough for now. Ren thought. There's not much more that I can do.
+
+Notice!
+
+Because of your diligence in training at various tasks practically non-stop for several hours, and the excessive burden of weight that you carry, you have gained stats to reflect your hard work.
+
+Agility: +5
+
+Dexterity: +3
+
+Strength: +8
+
+Endurance: +6
+
+SPECIAL x2: Agility: +5, Dexterity: +3, Strength: +8, Endurance: +6
+
+“Ren!” Teepo said. “I think I see something!”
+
+What is it? Ren asked. How far away?
+
+“If I had to estimate, about 10 miles.”
+
+Ren ran around to the dwarves and told them that something was coming; and that they were to hold their fire until he came back. He ran over to the giant target and stored it.
+
+“Princess!” Ren yelled, and he heard her hooves as she approached from the side. She skidded to a stop right in front of him, and he gave her some food. She gobbled it down without chewing it, and Ren climbed up on her back after giving her an Amulet of the Spider.
+
+Teepo! Ren thought, and his friend flew over and landed on his shoulder. “Let's go!” Ren said, and Princess took off towards where Teepo had seen something in the distance. He deactivated one of the early warning enchantments as he passed it, so it wouldn't activate when they crossed it's area of effect. They ran out about 8 miles, and Teepo took off from Ren's shoulder when they came to a stop.
+
+What do you see? Ren asked.
+
+“Giants.” Teepo said. “About 20 of them.”
+
+Only 20? Ren thought, a little confused. What do they look like?
+
+“Haggered.” Teepo said. “Like they've been running for a long time.”
+
+No signs of armor or weapons?
+
+“No, Ren.” Teepo said. “I think... I think these are what's left of the giants that left the camp.”
+
+Oh, no. Ren thought to his friend. Go a little higher and try to see what's behind them.
+
+Teepo went higher, and saw what was behind the giants. “You're right, Ren.” Teepo said, sadly. “They're being chased.”
+
+Dammit. Ren thought.
+
+“Now what do we do?” Teepo asked.
+
+The only thing we can do. Ren thought, determined. We fight!
+
+YES! Princess thought loudly, and ran as fast as she could towards the oncoming giants.
+
+*
+
+The plan is going perfectly. The leader of the platoon of Guardians of the Land thought. We only had to kill a few of them before they started to run. He smiled. We've been picking them off one by one since then. The soldier next to him threw one of his last spears, and the leader watched it arc through the air and it clipped a man's arm. The giant was jerked around from the force of the impact, stumbled, and fell onto his back and rolled several times.
+
+“Ha!” The soldier said as he drew his sword. The Guardians of the Land overtook the fallen giant quickly, and the soldier decapitated the man with one swing. The man had tried to stand up with the spear in his arm, and the sword went through the handle of the spear just as easily as the man's neck. The body fell to the ground a moment later, but it was left far behind by that time.
+
+“There's not many left, men!” The leader yelled, to encourage his men.
+
+“Ha!” The soldiers yelled just as loudly in reply.
+
+*
+
+“Slow down so they can see me.” Ren said to Princess, and she slowed to a trot half a mile from the refugee giants that were running frantically towards the camp. Teepo had told him how the Guardians of the Land had dealt with the male giant, and Ren frowned at the unnecessarily brutal display.
+
+Ren braced his hands, and then stood up on the saddle; with a foot on the front, and one on the back. He rocked back and forth a lot; but thanks to his Amulet of the Spider, he was in no danger of falling off. The Dire Wolf Hooded Cloak billowed out, and Ren enchanted his shield with Illumination again.
+
+Ren switched his concentration to his Fear Aura, and made the Connection between two of the Screaming Terror rings and the Dire Wolf Hooded Cloak. He equipped his gold-colored armor, took out the Wand of Iron Barrier, and prepared to fire.
+
+“Get to the camp!” Ren shouted at the refugee giants as they passed, then activated his Screaming Terror enchantments.
+
+*
+
+What's going on? The leader of the platoon asked himself. He could clearly see the people he chased as they deviated from a direct path away from his soldiers, and go around something.
+
+*
+
+“Now!” Teepo said. “The refugees are past your target point!”
+
+Ren shot the Wand of Iron Barrier a dozen times, and used a wall 27 feet tall and 15 feet wide. It was only an inch thick at that size; but, that didn't matter at this point. It looked solid, so he made a solid iron wall in the shape of a big 'V', with each arm of it 300 feet long. It had taken 40 charges to do it, but it did it's job and covered the giant's view.
+
+*
+
+“What the hell?” The leader asked out loud as both he and all of his soldiers came to a stop inside the open end of an equilateral triangle made of iron that was 27 feet tall. Since they were only 25 feet tall, they couldn't see over the top.
+
+*
+
+Teepo! Ren thought as he renewed the Connections between his rings and cloak, and Teepo flew over to land on top of the wall. Ren took out the Wand of Ventriloquism and cast Magic Mouth on Teepo.
+
+“HALT!” Ren said through Teepo. “The people you are chasing are under my protection!”
+
+“Who the hell are you?” The leader asked, knowing the voice was coming from somewhere on top of the wall, but he couldn't see anyone there. Ren thought about the most menacing voice he could think of, and cast Magic Mouth on Teepo again.
+
+“I... am the Dreaded Foe.”
+
+“Ha ha ha!” One of the giant soldiers laughed. “The Dreaded Foe conjured a wall to keep us out! Hahaha!”
+
+“Quiet!” The leader of the platoon said. “This wall isn't going to stop us.”
+
+“It's not meant to.” Ren relayed through Teepo. “I'm just delaying you long enough for the refugees to get away.”
+
+The leader shook his head. “They can't get away. We know where they're going.” He smiled. “We will get there and remove them as a threat.”
+
+Ren rode Princess over to the wall to let his Fear Aura, that was boosted with two Screaming Terror enchantments, cover the soldiers.
+
+“If you come to the camp, YOU WILL ALL DIE!”
+
+*
+
+The soldiers all froze as they felt an immense presence approach.
+
+“What... what is that?” One of the soldiers whispered, and barely moved his mouth. “I'm so scared I... I can't move!”
+
+The leader felt the same thing, and even though he had some experience with strong presences, he couldn't move, either. What Ren didn't realize was that the SPECIAL bonus doubled effects as well. The Guardians of the Land were suffering through a Fear Aura that was boosted by four enchantments of Screaming Terror.
+
+“We... aren't afraid... of you.” The leader said, as he adjusted to the overwhelming fear. He took one step, and then another. The soldiers beside him saw him move, and they doubled their resolve. One of them took a step, and clenched his fists.
+
+“You have been warned.” The menacing voice said. “If you come to the camp seeking death, you will find it; for I shall give it to you without question.”
+
+A moment later, 4 Elemental Grenades made of Fire came over the wall, then 4 more every second for 10 seconds. They exploded when they were within 5 feet of the giants and covered 15 feet of area each. Since the damage of an Elemental Grenade was 12 to 16 at Intermediate, and was doubled because of the SPECIAL bonus, the 40 grenades would had caused 960 to 1280 damage to the giants if spread out over their whole group. It was unfortunate that the giants were gathered together so tightly, because each one was hit by no less than 5 blasts; and some had been hit by 8 and 10 of them.
+
+The giants scurried out of the improvised trap to avoid receiving any more damage, and then the ominous feeling disappeared. The soldiers collapsed onto their knees, and some of them were tired from the exertion of just moving under such a powerful Aura. They had been fighting so hard to move through that Aura to escape, that when it was gone, they had felt both relief and shame.
+
+“S-s-sir! Are we sure we should go through with this?”
+
+“Quiet!” One of the others said and punched the giant in the face. “Never question the leader's orders!”
+
+The giant rubbed his face as he stood up. “You just felt what I felt! How the hell are we going to fight through that?”
+
+“We already did.” The leader said, and everyone looked at him. “We all took a step, didn't we? We all got out from under it's influence, didn't we?”
+
+Most of the soldiers nodded, except for 2 of them. They had been closest to the wall and hadn't moved at all.
+
+“No one is going to keep us from our duty.” The leader said and stood up. “We will follow the Chancellor's directive.” He said and charged forward into the iron wall. It was only an inch thick, so it crumbled from the impact and the leader fell to the ground. The iron had twisted and broken apart, and he took several deep slashes and gashes from the shards before the wall disintegrated. When he looked up, everything he could see was covered in a thick white mist.
+
+*
+
+Ren had emptied a wand full of Obscuring Mist behind the iron wall barrier and covered a good-sized area with them. He'd spread the 50 spells out and scattered them around, and tossed several steel squares to random spots and added the same scream he was using for the early warning system.
+
+Stat Change!
+
+Fear Aura (Mastered). Causes Fear instead of Awe in those around you. Current distance: 50 feet.
+
+Notice!
+
+Connection has lapsed.
+
+Teepo had landed on his shoulder a moment later, and told him the giants had felt when the Aura stopped being boosted and were now getting up. Ren nodded and Princess took off at full speed, then Ren heard the iron wall being destroyed.
+
+We got out of there just in time. Ren thought as they quickly caught up to the fleeing giants. Princess started to pass them, and several of the giants stared at him. “I've got some defenses around the camp!” Ren hollered. “I filled the trench with water, too!”
+
+That wasn't why they were staring at him, however. Ren was still standing up as Princess ran, and they were amazed that he was keeping his balance as she rocked back and forth. He made it back to the early warning line, and deactivated several of the enchantments so that the refugees wouldn't activate them by mistake.
+
+Most of the giants passed by quickly, but one lagged behind. Ren had Princess run over to the woman, and he recognized her. She had been the caregiver for the child giant, and Ren came up beside her. She was gasping for air as her gait started to falter. She had a harder time running because she had the child giant on her back. Ren concentrated on his Command Aura and spoke.
+
+“STOP!” Ren hollered to her, and she was startled out of her trance-like state. She stumbled, and fell to her knees, and Princess stopped next to her. Ren hopped off of Princess, attached the cart to her, and told the woman to sit the child in the cart. He climbed back into the driver's seat, and used a Major Healing wand on the female giant.
+
+“Go, Princess!” Ren said when the child was seated properly, and Princess took off with the child in the back.
+
+“Sabastian!” The woman exclaimed, and reached out a hand for the retreating cart.
+
+“I'm taking him to the defensive line!” Ren hollered to her. “Come on, let's go!”
+
+The female giant caught her breath and nodded to him. She had regained a lot of her Stamina, even with that short of a break, and she used her Stamina to full effect. She quickly caught up to Princess and the cart, and paced beside them.
+
+They really can run fast when they have to. Ren thought as he activated the early warning system. They arrived at the defensive line only a few minutes later. “Get ready to open fire!” He yelled to the dwarves as the cart came to a stop. The female giant picked the child up in her arms, with tears in her eyes, and stumbled over to the moat. Ren saw several of the giants were already in the water and they tried to walk across the moat. The water was up to their necks, though; so, Ren used the Wand of Spanning 4 times to make a 20 foot wide and 20 foot long bridge for them to cross.
+
+“Go! It'll only last 5 minutes! Go!” Ren urged them, and the remainder of the giants walked across the temporary bridge. The ones in the water used the bridge as a guide and pulled themselves across the rest of the distance, then climbed out of the water. When all of the giant refugees were all across, Ren heard the giant screams from the early warning system and ran to the spot between two of the Ballistas so his Aura would cover both, and activated his Hail of Arrows ability.
+
+“OPEN FIRE!” Ren yelled, and all of the dwarves pulled the triggers.
+
+They had already taken the time to aim; so, they let loose with as many shots as they could. The two Automatic Ballistas within Ren's Aura shot the most, much to their surprise. Ren had neglected to tell them that his ability would produce 3 more bolts, and that the SPECIAL bonus would double that effect. For every 6 foot long bolt they shot, 7 bolts flew towards their target.
+
+All of the dwarves traversed their shots across the group of fully-armored giant soldiers, and fired on full automatic. Ren watched as a hail of bolts arced through the air to come down on the attacking giants. No where near the full amount of bolts that were fired had hit the Guardians of the Land; mainly because they were swiftly moving targets. Of the 50 bolts fired from each Ballista from the first volley, they were lucky if even 5 of those had hit; but, even if only 10% of the shots hit, 5 shots times 7 Ballistas was 35 hits on giants that were too big to dodge such swiftly moving projectiles.
+
+Ten of the 30 giants had been run through immediately and killed; and 5 more had been seriously wounded. They could still fight, but with a 6 foot bolt sticking out of your chest, you weren't an effective fighter by any stretch of the imagination. The dwarves switched places, and the Guardians of the Land were that much closer.
+
+Ren almost laughed, because at this point, it was like shooting fish in a barrel. The two Ballistas within his Aura had chosen the same giant to take out. The two bolts fired were magically increased to 14 bolts, and they tore the poor man apart as if he didn't exist. All that was left was a large puddle of blood, and small pieces of metal, skin, and bone.
+
+“Ooo.” Teepo said. “That had to hurt.”
+
+“Aim for the legs!” Ren commanded, and Princess came over to him. He undid her cart and stored it, then looked at her. “Do you want to go it alone, or do you want me to come along?”
+
+Princess took a moment, and huffed. Along, please. She thought to him. We will crush them!
+
+Ren nodded and climbed up into the saddle.
+
+“I'm out!” The dwarf at the closest Ballista said after taking out two more giants.
+
+“Me, too!” The next one said after taking out three more. The sentiment was echoed for each machine, except for one. It was manned by the first dwarf who had taken a practice shot, and he was taking his time to aim and shoot the Ballista. Unlike all the other dwarves, he was timing his shots; he missed a lot, since the giants he was shooting at knew they were being shot at, and tried to avoid as much of the projectiles as they could.
+
+“Princess!” Ren said as he used the Major Healing wand on himself to replenish his Mana, and she ran over to the only dwarf that had ammo left. Once withing Ren's Aura, the bolts were magically increased from 1 to 7.
+
+“Hey, thanks!” The dwarf said, and turned his Ballista to full automatic. He moved his shots across the remaining giants, and took out another 3 of them and wounded 2 more, before he ran out of ammunition. “Good luck.” He said to Ren, and Princess took off at a run.
+
+“Ruck! Riley! Stacy!” Ren yelled, and they three of them ran over to him and Princess. “Are you ready for this?” He asked them.
+
+Princess brayed loudly, the dogs barked, and Ruck gave him a 'thumbs up' gesture. There were 4 unhurt giants left, and they looked very, very angry. Ren made the Connection between two Screaming Terror rings and his Dire Wolf Hooded Cloak, and activated the enchantments.
+
+“Let's go!” Ren said and the group ran towards the last of the giants. His Dreaded Foe title came into effect as his Aura passed over the oncoming giants, and Ren shot Wall of Iron spells in front of them. It blocked the giant's view momentarily, and Ren used the wall spell again to make ramps up the wall he'd just cast. He felt Princess' exultation as she ran up the ramp, put her head down, and smashed through the top of the iron wall as if it wasn't there. She jumped at the end of the ramp and flew through the air; then impacted the face of the giant in front at the same time as the shards from the iron wall did.
+
+The giant's face was pulverized from the impact, and he died instantly; long before any kind of stun or knock out effect could take place. The giant's head snapped back and broke his neck, too; so, if he'd somehow survived the high speed impact to the face, he would have died from a broken neck instead. Ren had the bridge wand ready and shot it between the giant they were on, and the next giant. The stone bridge formed instantly between the dead giant's back and the chest of the giant behind him; and it caught the dead giant before he could fall backwards from the momentum.
+
+Unfortunately for the live giant that the bridge was now attached to, his forward momentum was canceled by the dead giant's backward momentum and they both stopped moving as Princess ran across the 20 foot bridge. She smashed him in the face with her horns, and Ren heard several bones break. The giant didn't die instantly like the first one, mainly because Princess had lost a lot of her speed; but, he was knocked unconscious and dropped to the ground still attached to the dead one by the bridge. Princess hopped off the bridge before it hit the ground and ran towards the next giant. The giant was encompassed in a giant fireball for a second, and then by a ton of webbing.
+
+*
+
+What the hell is happening!?! The leader thought as every single one of his men were systematically reduced to corpses. He had stopped running when Ren's Aura had covered him and his men, and watched helplessly as he looked at his remaining men. Two of them were seriously hurt, and the last had just been covered in fire and webbing.
+
+A golden-armored ram had just run up the webbing somehow and slammed into, what he thought, was his soldier's head. The pile of webbing slumped down, and the ram ran back down the webbing and faced towards him.
+
+“Ahhh!” The leader yelled as two vice like things gripped his wrists. He looked down, and much to his surprise, there was a tiny metal dog hanging from each of his wrists. He clenched his fists and was about to punch them, when they let go and ran away. The next second, the bottom half of his body was engulfed in a ton of webbing. He reached down and tried to pull the webbing off; but, when he dug his fingers into the mass of webs, they stuck to it and he couldn't move.
+
+He watched as the golden-armored ram trotted over to him, up the mass of webbing, and then slowed down to a walk as it came up onto his armor. It stopped at the chest plate, and the leader stared at the little person that sat on the ram's back.
+
+*
+
+Okay, that was just cool. Ren thought as Princess came to a stop on a sheer vertical surface. She'd walked right up and didn't even have to stop. He thought in amusement, and then used his own Amulet of the Spider to get off the saddle smoothly, and made it look like he was climbing off as if he was on the ground. He pulled himself towards the surface of the metal and adjusted his feet to stand beside Princess. When he had both feet firmly planted on the metal of the giant's armor, he let Princess go.
+
+Ren grinned as the giant's eyes widened at his 'normal' movement trick on a vertical surface. What Ren didn't know was, everyone else there had seen him do the move, too; and stared at him as he stood on the giant's chest as if he stood on the ground. Ruck crawled over to them and stayed at a good distance away to cover the giant with webbing if it was necessary, and then Riley and Stacy walked up the webbing and armor to stand on either side of Princess and Ren.
+
+“I warned you.” Ren said. “I told you that if you came here, you would die.”
+
+“You haven't killed me yet.” The leader of the platoon said. “When the Chancellor gets word of this...”
+
+“What will he do?” Ren asked and crossed his arms. “Will he send more of you to be slaughtered?”
+
+“You didn't... slaughter...” The leader stopped talking as he heard several men scream in pain, then nothing.
+
+“As you no doubt just heard, the opportunity to finish off your wounded was just taken.”
+
+“You rotten piece of-”
+
+“Shut up.” Ren interrupted him. “What part of 'you'll die if you come here' didn't you understand?” He asked. “If, for some reason, I didn't cure these people... did you really think that you'd be safe from the Brain Arthropod Grub infection?”
+
+The leader didn't say anything, and Ren sighed.
+
+“Your Chancellor is a stone cold stupid idiot.” Ren said. “He did this whole thing on purpose, didn't he?”
+
+The leader of the platoon kept his mouth shut and didn't say anything; but, Ren knew it was what he didn't say that was the most damming evidence. He didn't deny it.
+
+“I'm tempted to just kill you right away and let the Chancellor wonder for a few days.” Ren said. “When you don't come back when you planned, he'll start to worry. It'll eat at him, and then he'll have to send someone else to see what happened.”
+
+The leader of the platoon nodded slightly, and Ren grinned.
+
+“You saw what happened, right? Most of you died long before I let you get this close.”
+
+“Let us!”
+
+“You saw what happened to him.” Ren chuckled and motioned to the completely buried giant soldier. “He'll run out of air in another minute or so.” He said. “I could have covered all of you like that, and you'd never even know what had happened. You'd only see a bunch of fireballs, a blanket of white, and then nothing but blackness.” Ren smiled. “I didn't do that, so you could see what only a fraction of a defense can do.”
+
+The leader of the platoon laughed. “I heard those things when they stopped firing.” He said. “You're out of ammunition.”
+
+“We are.” Ren said. “For about 20 minutes, until I gather up the bolts and reload everything.” He smiled crookedly. “I only found out about this attack 2 days ago. I didn't have time to make more than what you see.” He let an evil grin spread across his face. “I can make this many more by the time another platoon of you shows up to bother me.”
+
+The leader stopped talking as he thought about it.
+
+“Yes, I can also make more reloads for them as well.” Ren said. “You see, I didn't 'only' make these for the two days. I did lots of other things, just to fill the time before your attack.”
+
+The leader didn't say anything, and Ren chuckled.
+
+“So, you see... If I decided to dedicate some actual time to making them...”
+
+The leader nodded slightly, despite his urgent need to deny the truth.
+
+“Let's let the Chancellor know of your spectacular failure.” Ren said, and opened the messaging system. He sent a quick message off to Lara, the Sage of Ages, and explained what had happened and what was going on.
+
+*
+
+“You have got to be kidding me!” Lara said. “I knew he'd succeed, but... but...” She typed up a message in reply and asked why she hadn't gotten any XP for the battle. Ren sent her one back to tell her that it technically wasn't over yet, because he still had the leader of the platoon from the Guardians of the Land captured.
+
+“Oh, no.” Lara said. “He's going to ask me to send a message to the...”
+
+Another message appeared, and she sighed.
+
+“Dammit, sometimes I hate being right all the time.” Lara said, told him she was going right away, and closed the messaging system. She got up from her desk in the Aurora Library, and went to her closet. This is not going to be fun. Lara thought as she went into her assigned space. I really hope they don't take it out on me.
+
+Lara chose the Giant Kingdom from the drop down menu and stepped out of her closet into the Library in the Giant Kingdom. Just as before, the books no longer hid her door from view. The giant Librarian perked up as she saw the Sage of Ages appear.
+
+“You're here!” The Librarian said and knelt on the floor. “Is it good news?”
+
+“That depends.” Lara said. “Which side were you hoping would win?”
+
+The Librarian looked at her with wide eyes, and then sighed. “Oh, no.”
+
+“The Dreaded Foe says he has captured the leader of the platoon that was sent, and has... dispatched... the others.”
+
+“Good god.” The Librarian said, and sat down on the floor. “I... what... what do I do?”
+
+“Please send a message to the Chancellor to come here.” Lara said, and the Librarian stood up. “Tell him to bring the Far-Seeing Mirror, too.”
+
+The Librarian nodded, and hurried out of the Library. Lara thought that was odd, because she always had a messenger to run errands. Out of curiosity, she peeked out around the corner of the Librarian's reception desk, and gasped.
+
+The entire Library was empty.
+
+*
+
+Ren closed the messaging system and looked at the leader of the platoon. “I'm not sure how long it'll be, but a message is being sent to the Chancellor.”
+
+The leader laughed. “He's not going to come and rescue me, or bargain for my life.”
+
+“I don't expect him to do anything of the sort.” Ren laughed, too. “I gave my word that you would die if you came here, and I'm going to keep my word.” He said. “What I expect your Chancellor to do, is negotiate to stop me from unleashing the Brain Arthropod Grubs on him and the government.”
+
+“WHAT?!?”
+
+“Now that I know he knows all about the grubs, either he, or someone in the government that he knows about, is the one that's behind killing your own people.” Ren shook his head. “There's no way I am going to let this stupid thing continue.”
+
+“By letting more of them infect the people?!?”
+
+Ren laughed again as he walked down the giant's chest to the ground, then Princess and the dogs followed him. “There's lots of things that I can do.”
+
+“But... you...” The leader shook his head. “You're a monster!”
+
+“I'm the monster?” Ren asked. “Who's the one that led a bunch of trained soldiers across half of a continent to kill defenseless men, women, and children?”
+
+“There's only one child.” The leader scoffed, then realized what he'd said and clamped his mouth shut. He felt the webbing get loose as it started to dissolve, and he tried to yank his hands out. He got one hand free, and as the other one was just about to pull free, he was hit by another mass of webbing that covered him up to his neck.
+
+“No!” The leader exclaimed. I was so close!
+
+“It shouldn't be long now.” Ren said, as he stood on the ground and looked up at the giant.
+
+*
+
+Lara waited patiently, even though she knew that hundreds of lives hung in the balance. She normally wouldn't be involved in things of this scale; but, considering all the things Ren has done so far in the game, it wasn't that surprising that she had gotten pulled into this whole mess, too.
+
+The Librarian came back into the Library, and Lara ran back to stand by her door. She left it open, just in case she needed to make a quick getaway, and the Librarian came around the desk. She moved her chair out of the way, and knelt on the floor beside Lara.
+
+“He'll be right here.” The Librarian said. “But... he's not... um... happy... right now.”
+
+Lara chuckled. “I'd say that's an understatement.”
+
+The Librarian nodded as the door to the Library was shoved open with a loud bang, and then the Chancellor was there with two Guardians of the Land as bodyguards.
+
+“You don't normally need bodyguards to go outside.” Lara said, and the Chancellor frowned.
+
+“These are dangerous times.”
+
+“They don't have to be.” Lara said. “When you asked, I told you what needed to be done.”
+
+The Chancellor waved her words away, and dismissed her advice just like that.
+
+“Ignoring it won't make it go away.”
+
+“Killing it will.”
+
+Lara sighed. “How many times can I tell you the same thing? You can't-”
+
+“Contact the Dreaded Foe.” The Chancellor ordered. “I will see him with my own eyes.”
+
+“Did you bring the Far-Seeing Mirror?” Lara asked.
+
+The Chancellor nodded to one of the guards, who took out the large mirror and set it beside the receptionist's desk. Lara walked over to it, and brought up her special spells and chose the appropriate spell for two way communication. She touched the mirror with both hands, imagined talking to Ren face-to-face, and poured nearly half of her Mana into it.
+
+*
+
+Ren received a popup to accept a video chat. A what?!? He thought surprised, and selected accept. I've never heard of anything like that in the game! A large window, nearly 10 feet square, opened up in front of him. Lara was there, the same size as him, and behind her, stood the Chancellor and two Guardians of the Land.
+
+“He's the Dreaded Foe?” The Chancellor asked, and then started to laugh.
+
+“Yes, it is I.” Ren said in the deepest voice he could muster, then frowned. “And I assume you are the idiot that sent trained soldiers to kill defenseless men, women and children.”
+
+The pure hatred in Ren's voice sent shivers up Lara's spine.
+
+I... I didn't know he... Lara shook her head. He sounds so mean! She thought, surprised.
+
+“There was only one child.” The Chancellor said, then realized what he said. Lara turned to stare at him, and he sighed. “Dammit.”
+
+Ren smiled and bared his teeth. “Yes, there was only one.” He said. “I sincerely hope that you'll be disappointed to hear that he's fine.”
+
+“WHAT?”
+
+“Your soldiers never made it to the camp, you pompous fool.” Ren said. “They are all dead, except for the leader of the platoon you sent.” He stepped aside, and a good portion of the battlefield could be seen through the Far-Seeing Mirror. “That huge pile of webbing has a soldier in it.” He said. “I'd say he's just about out of air.” He stepped back in front of the view. “The leader will be joining him soon.”
+
+Oh, Ren. Lara thought. I'm so sorry.
+
+“Go ahead and kill him.” The Chancellor said. “I'll be sending more men soon.”
+
+“No, you won't.” Ren said. “What you're going to do, is stop your stupid plan to use the Brain Arthropod Grubs to keep political power in the Giant Kingdom.”
+
+The Chancellor's mouth fell open in surprise. How does he know? “I have no such plan.”
+
+Ren laughed. “I don't need a lie detector to tell that was the biggest lie you've ever told.” He smiled. “I don't expect you to admit it, so I'm going to tell you what I'm going to do.”
+
+“Go ahead.” The Chancellor said. “Let's hear it.”
+
+“One of these nights, when you're all snug in your bed... I'm going to slip one of the grubs into your ear.”
+
+“You're WHAT?!?”
+
+“You'll never know when it's going to happen, either.” Ren said. “It could be tomorrow night, or next week, or even next month.” He grinned as he saw the Chancellor's face drain of all color. “I should warn you, though. The people that have had them in their heads, actually do remember the things they've done.”
+
+“That's not true!” The Chancellor said, and clamped his mouth shut.
+
+“It is.” Ren said. “I have about a hundred witnesses to that fact.”
+
+“A... a hundred?!?” The Librarian asked, and leaned back against her desk. “So many...”
+
+“I'm keeping them fed and clothed, so they're fine for now.” Ren said. “I had reached out to the Chancellor and the government there to get aid, and then seek asylum for them.” He shook his head. “He sent soldiers to help them die instead.”
+
+“How could you?” The Librarian asked the Chancellor, with tears in her eyes. “You... you told us... you were going to bring them back!”
+
+The Chancellor glared at Ren. “You're messing up everything!”
+
+“You have no idea what I can do to mess things up for you.” Ren said. “They don't call me the Dreaded Foe for nothing.”
+
+“I'll see you hanged for this!”
+
+“I'd slip right out of your hangman's rope, you ignorant fu...” Ren could clearly see the wide eyes of both Lara and the Librarian. “...ah... fool.”
+
+Lara smiled, and the Librarian shook her head.
+
+“Will you keep doing what you're doing and send more of your elite soldiers to die horrible and gruesome deaths, then get an unwanted brain hitchhiker... or... leave the refugees alive and send supplies until they can get back home?” Ren asked the Chancellor. “So, what do you say?”
