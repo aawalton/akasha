@@ -27,6 +27,7 @@
     "./ci-wedge": "./ci-wedge/ci-wedge.module.code.ts"
   },
   "dependencies": {
+    "@akasha/cluster-api": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@tools/lib": "workspace:*"

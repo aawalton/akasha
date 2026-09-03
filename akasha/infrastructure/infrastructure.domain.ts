@@ -11,6 +11,7 @@ export const infrastructure = {
     "domain/secret",
     "domain/telemetry",
     "domain/inference",
+    "workspace-package/cluster-api",
     "workspace-package/k8s-types",
     "workspace-package/cluster-manifests",
     "workspace-package/git-transport",

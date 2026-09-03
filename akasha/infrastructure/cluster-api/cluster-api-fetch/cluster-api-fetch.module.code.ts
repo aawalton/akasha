@@ -25,7 +25,8 @@ function loadConfig(): K8sAdminConfig {
   return {
     saToken: stated("PIPELINE_SA_TOKEN"),
     apiBase: stated("K8S_API_BASE"),
-    caCert: caCertB64 === undefined ? undefined : Buffer.from(caCertB64, "base64").toString("utf-8"),
+    caCert:
+      caCertB64 === undefined ? undefined : Buffer.from(caCertB64, "base64").toString("utf-8"),
   }
 }
 

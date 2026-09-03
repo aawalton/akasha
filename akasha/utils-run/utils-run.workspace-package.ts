@@ -6,5 +6,5 @@ export const utilsRun = {
   slug: "utils-run",
   definition: "a process this one starts and what it says",
   manifest: "json",
-  partSlugs: ["module/running"],
+  partSlugs: ["module/running", "module/spawn-ceiling"],
 } as const satisfies WorkspacePackage

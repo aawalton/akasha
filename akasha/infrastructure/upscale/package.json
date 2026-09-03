@@ -8,6 +8,7 @@
     "./upscale-workstation": "./upscale-workstation/upscale-workstation.module.code.ts"
   },
   "dependencies": {
+    "@akasha/cluster-api": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "@akasha/object-store": "workspace:*",

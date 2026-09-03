@@ -1,5 +1,5 @@
+import { awaitSpawnWithTimeout } from "@akasha/utils-run/spawn-ceiling"
 import type { CommitSha40 } from "@akasha/workflow-language/ci-identifiers"
-import { awaitSpawnWithTimeout } from "./await-spawn-with-timeout.ts"
 
 export const LS_TREE_CEILING_MS = 60_000
 

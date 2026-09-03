@@ -20,6 +20,7 @@
     "@akasha/temper-eso-typings": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
     "@akasha/wandering-inn": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
     "@akasha/workflow-selection": "workspace:*"

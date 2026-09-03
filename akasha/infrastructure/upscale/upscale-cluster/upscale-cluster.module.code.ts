@@ -1,6 +1,6 @@
+import { createJob, readJobPodLogs, waitForJob } from "@akasha/cluster-api/cluster-jobs"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import { makeSeaweedFSObjectStore } from "@akasha/object-store/seaweedfs-store"
-import { createJob, readJobPodLogs, waitForJob } from "@tools/lib/pipeline-run/k8s-jobs"
 import { z } from "zod"
 import {
   buildUpscaleServingJob,

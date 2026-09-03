@@ -962,9 +962,17 @@
     "akasha/infrastructure/ci-containers": {
       "name": "@akasha/ci-containers",
       "dependencies": {
+        "@akasha/cluster-api": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@tools/lib": "workspace:*",
+      },
+    },
+    "akasha/infrastructure/cluster-api": {
+      "name": "@akasha/cluster-api",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "akasha/infrastructure/cluster-manifests": {
@@ -995,6 +1003,7 @@
     "akasha/infrastructure/commands": {
       "name": "@akasha/pipeline-commands",
       "dependencies": {
+        "@akasha/cluster-api": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
@@ -1100,6 +1109,7 @@
     "akasha/infrastructure/upscale": {
       "name": "@akasha/upscale",
       "dependencies": {
+        "@akasha/cluster-api": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/object-store": "workspace:*",
@@ -3035,6 +3045,7 @@
         "@akasha/temper-eso-typings": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
         "@akasha/wandering-inn": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
         "@akasha/workflow-selection": "workspace:*",
@@ -3096,6 +3107,8 @@
     "@akasha/ci-benchmark": ["@akasha/ci-benchmark@workspace:akasha/infrastructure/ci-benchmark"],
 
     "@akasha/ci-containers": ["@akasha/ci-containers@workspace:akasha/infrastructure/ci-containers"],
+
+    "@akasha/cluster-api": ["@akasha/cluster-api@workspace:akasha/infrastructure/cluster-api"],
 
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:akasha/infrastructure/cluster-manifests"],
 

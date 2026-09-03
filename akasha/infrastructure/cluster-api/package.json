@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/cluster-api",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./cluster-api-fetch": "./cluster-api-fetch/cluster-api-fetch.module.code.ts",
+    "./cluster-jobs": "./cluster-jobs/cluster-jobs.module.code.ts",
+    "./cluster-workloads": "./cluster-workloads/cluster-workloads.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

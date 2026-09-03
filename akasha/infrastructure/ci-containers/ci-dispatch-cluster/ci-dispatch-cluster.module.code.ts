@@ -1,4 +1,4 @@
-import { getConfig, k8sFetch } from "@tools/lib/pipeline-run/k8s-fetch"
+import { getConfig, k8sFetch } from "@akasha/cluster-api/cluster-api-fetch"
 
 export const CI_NAMESPACE = "ci"
 

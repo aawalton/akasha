@@ -1,3 +1,9 @@
+import {
+  countOutOfCpuEvents,
+  createJob,
+  readJobPodLogs,
+  waitForJob,
+} from "@akasha/cluster-api/cluster-jobs"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { told as gitTold } from "@akasha/git/git-running"
@@ -11,12 +17,6 @@ import {
   parseInnerReportFromLogs,
 } from "@tools/lib/benchmark-outer-core"
 import { renderReport } from "@tools/lib/benchmark-outer-render"
-import {
-  countOutOfCpuEvents,
-  createJob,
-  readJobPodLogs,
-  waitForJob,
-} from "@tools/lib/pipeline-run/k8s-jobs"
 import {
   answering,
   countOf,
