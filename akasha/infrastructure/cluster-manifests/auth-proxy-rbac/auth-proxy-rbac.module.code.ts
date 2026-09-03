@@ -1,6 +1,6 @@
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const packageName = "@infra/auth-proxy"
+export const packageName = "@akasha/auth-proxy"
 
 export const profiles: NamespaceProfile[] = [
   {
