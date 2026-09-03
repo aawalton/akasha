@@ -172,6 +172,31 @@ async function findStoryById(
   return null
 }
 
+export function partOfShapes(storyType: string, slug: string): readonly string[] {
+  return slug === "" ? [] : [`${storyType}/${slug}`, slug]
+}
+
+async function chapterRowsPartOf(
+  chapterType: string,
+  storyType: string,
+  slug: string
+): Promise<readonly Readonly<Record<string, unknown>>[]> {
+  const byId = new Map<string, Readonly<Record<string, unknown>>>()
+  for (const shape of partOfShapes(storyType, slug)) {
+    const rows = await askRows({
+      "page-type": chapterType,
+      where: { partOfSlugs: { has: shape } },
+      keys: CHAPTER_KEYS,
+      "sort-by": "position",
+      limit: ASK_LIMIT,
+    })
+    for (const row of rows) byId.set(String(row.id ?? ""), row)
+  }
+  return [...byId.values()].sort(
+    (a, b) => (numberOr(a.position) ?? 0) - (numberOr(b.position) ?? 0)
+  )
+}
+
 export async function loadStoryCatalog(storyId: string): Promise<LitrpgCatalog> {
   const found = await findStoryById(storyId)
   if (found === null) return { stories: [], chapters: [] }
@@ -179,13 +204,7 @@ export async function loadStoryCatalog(storyId: string): Promise<LitrpgCatalog> 
   if (chapterType === undefined)
     return { stories: [rowToLitrpgStory(storyRecordOf(found.values))], chapters: [] }
   const slug = String(found.values.slug ?? "")
-  const chapterRows = await askRows({
-    "page-type": chapterType,
-    where: { partOfSlugs: { has: slug } },
-    keys: CHAPTER_KEYS,
-    "sort-by": "position",
-    limit: ASK_LIMIT,
-  })
+  const chapterRows = await chapterRowsPartOf(chapterType, found.type, slug)
   return buildStoryCatalog(
     storyRecordOf(found.values),
     chapterRows.map((values) => chapterRecordOf(values, storyId, chapterType))
@@ -207,7 +226,8 @@ export async function loadLitrpgCatalog(): Promise<LitrpgCatalog> {
     for (const values of storyRows) {
       const record = storyRecordOf(values)
       stories.push(rowToLitrpgStory(record))
-      idBySlug.set(String(record.slug), String(record.id))
+      for (const shape of partOfShapes(storyType, String(record.slug)))
+        idBySlug.set(shape, String(record.id))
     }
     const chapterRows = await askRows({
       "page-type": chapterType,
