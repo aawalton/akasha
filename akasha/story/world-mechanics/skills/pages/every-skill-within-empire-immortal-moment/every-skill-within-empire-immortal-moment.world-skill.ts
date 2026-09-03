@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const everySkillWithinEmpireImmortalMoment = {
   id: "01a06575-9809-7910-b757-ec245fdd009e",

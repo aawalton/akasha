@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const exceedYourselfSufferLater = {
   id: "01a06575-9809-7e70-87c8-4c7b66f73817",

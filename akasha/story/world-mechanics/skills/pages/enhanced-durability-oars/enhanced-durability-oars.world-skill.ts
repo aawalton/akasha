@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enhancedDurabilityOars = {
   id: "01a06575-9808-75a9-8714-e3611cd1c460",

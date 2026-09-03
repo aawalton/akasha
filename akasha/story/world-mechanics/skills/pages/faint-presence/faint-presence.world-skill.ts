@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const faintPresence = {
   id: "01a06575-980b-7233-80be-dde163182b40",

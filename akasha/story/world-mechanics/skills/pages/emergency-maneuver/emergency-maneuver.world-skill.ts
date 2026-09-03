@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const emergencyManeuver = {
   id: "01a06575-9807-724e-8220-4fe02697a455",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flameSlash = {
   id: "01a06575-980d-7daf-aa1d-c1761c81acc1",

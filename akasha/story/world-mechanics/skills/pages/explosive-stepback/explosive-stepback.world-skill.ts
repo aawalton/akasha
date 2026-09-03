@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const explosiveStepback = {
   id: "01a06575-980a-75fc-8934-bca6cdca9f6d",

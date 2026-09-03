@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const eviscerateTheUnguarded = {
   id: "01a06575-9809-7bdf-afb1-220e8c0504e1",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enhancedTelekinesis = {
   id: "01a06575-9809-7d65-bbf5-a8d36ad1baa8",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const endlessSpearFlurry = {
   id: "01a06575-9808-7e15-8a8f-94fc7655810a",

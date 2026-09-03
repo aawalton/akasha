@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enhancedEdge = {
   id: "01a06575-9808-7faa-9807-e5f600e14200",

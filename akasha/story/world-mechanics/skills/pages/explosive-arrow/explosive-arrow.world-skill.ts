@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const explosiveArrow = {
   id: "01a06575-980a-704e-94c0-b7f7bbf9fde0",

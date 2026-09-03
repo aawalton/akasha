@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extraActionPoints = {
   id: "01a06575-980a-71de-9be2-321936d43550",

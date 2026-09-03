@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extendBlade = {
   id: "01a06575-980a-7f28-9736-e7e2ec2ebc88",

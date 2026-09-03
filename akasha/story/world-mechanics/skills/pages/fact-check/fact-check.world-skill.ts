@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const factCheck = {
   id: "01a06575-980b-76b3-94f9-513fbfd94831",

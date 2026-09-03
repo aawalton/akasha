@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fateITakeTheOtherPath = {
   id: "01a06575-980c-7f17-bbd4-6d7f037670c2",

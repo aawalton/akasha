@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const epochalEarthworksRise = {
   id: "01a06575-9809-7568-b4c4-b11fd4b1da26",

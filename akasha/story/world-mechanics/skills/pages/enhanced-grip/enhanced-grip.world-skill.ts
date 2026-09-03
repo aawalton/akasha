@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enhancedGrip = {
   id: "01a06575-9808-71d2-9e58-6c502fe222c3",

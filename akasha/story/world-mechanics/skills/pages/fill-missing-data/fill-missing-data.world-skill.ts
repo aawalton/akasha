@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fillMissingData = {
   id: "01a06575-980c-77a0-951d-01e2aab21364",

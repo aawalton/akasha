@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const everpiercingSwords = {
   id: "01a06575-9809-747f-8ef7-3d3480ef7415",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const excuseMyFailingsTwiceover = {
   id: "01a06575-9809-7e81-b22f-448c8aedfef0",

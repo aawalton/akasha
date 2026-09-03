@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const empireFieldsOfBounty = {
   id: "01a06575-9807-7b92-a143-2be69dd5457a",

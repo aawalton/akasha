@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flagInspiringSight = {
   id: "01a06575-980d-7616-9339-3a54f771c0d6",

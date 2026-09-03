@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extendedReachThreeFeet = {
   id: "01a06575-980a-7b76-8369-fab136ec2437",

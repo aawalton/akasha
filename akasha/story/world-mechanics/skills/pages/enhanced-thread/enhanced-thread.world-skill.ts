@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enhancedThread = {
   id: "01a06575-9809-74d0-b1d4-faad04e3ea51",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const feintSlash = {
   id: "01a06575-980c-7517-bd93-ac0f4082504a",

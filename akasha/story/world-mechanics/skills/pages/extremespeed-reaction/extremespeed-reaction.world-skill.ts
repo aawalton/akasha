@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extremespeedReaction = {
   id: "01a06575-980a-7678-a4b8-c040a1798802",

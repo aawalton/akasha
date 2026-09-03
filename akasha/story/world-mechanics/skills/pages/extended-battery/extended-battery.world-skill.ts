@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extendedBattery = {
   id: "01a06575-980a-7f72-b429-31188ccd556a",

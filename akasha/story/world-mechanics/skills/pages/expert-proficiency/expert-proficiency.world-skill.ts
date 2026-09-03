@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const expertProficiency = {
   id: "01a06575-980a-71b1-9419-db59b20c94c5",

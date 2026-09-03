@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flameSalamanderSSkin = {
   id: "01a06575-980d-7bff-af8c-ca8b95e615b3",

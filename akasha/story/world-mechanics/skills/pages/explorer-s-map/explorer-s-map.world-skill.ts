@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const explorerSMap = {
   id: "01a06575-980a-7287-8840-e59427b20539",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flashSparks = {
   id: "01a06575-980d-732e-9c3a-dc0cf4569be8",

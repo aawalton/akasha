@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const empireFieldOfHarvests = {
   id: "01a06575-9807-7a68-884d-445a949e09ef",

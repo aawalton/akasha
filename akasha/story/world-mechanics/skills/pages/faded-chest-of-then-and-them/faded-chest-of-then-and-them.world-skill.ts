@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fadedChestOfThenAndThem = {
   id: "01a06575-980b-7155-8f03-4f12830b0902",

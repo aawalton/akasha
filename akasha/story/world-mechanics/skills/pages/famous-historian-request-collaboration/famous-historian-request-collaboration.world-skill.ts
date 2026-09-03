@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const famousHistorianRequestCollaboration = {
   id: "01a06575-980b-75ae-b8bd-5eb82bc3c94b",

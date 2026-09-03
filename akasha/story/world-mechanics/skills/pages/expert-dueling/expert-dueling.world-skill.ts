@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const expertDueling = {
   id: "01a06575-980a-72a0-8a66-fbc4a654abf8",

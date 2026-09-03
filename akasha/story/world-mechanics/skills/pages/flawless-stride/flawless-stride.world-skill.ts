@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flawlessStride = {
   id: "01a06575-980e-71b2-8983-38b51bc9db71",

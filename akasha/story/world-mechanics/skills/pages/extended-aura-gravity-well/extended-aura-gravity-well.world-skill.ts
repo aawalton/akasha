@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extendedAuraGravityWell = {
   id: "01a06575-980a-7afa-83fc-c0cccd5aa643",

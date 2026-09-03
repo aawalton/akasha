@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const excellentDiction = {
   id: "01a06575-9809-73e6-92f2-39736aae1629",

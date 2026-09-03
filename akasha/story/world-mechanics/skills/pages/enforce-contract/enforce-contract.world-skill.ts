@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enforceContract = {
   id: "01a06575-9808-7d04-aa08-b2c7f762cff2",

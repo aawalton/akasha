@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enforcePactTheChessmasterSWrath = {
   id: "01a06575-9808-7113-9d80-04c51f58d141",

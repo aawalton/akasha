@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extendedStrike = {
   id: "01a06575-980a-7e5a-aab2-58be154d37c1",

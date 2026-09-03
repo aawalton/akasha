@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const enigmaticClueSpellcraft = {
   id: "01a06575-9809-7c36-b766-0dfd44cabc30",

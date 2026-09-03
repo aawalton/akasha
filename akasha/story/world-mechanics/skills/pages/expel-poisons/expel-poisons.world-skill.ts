@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const expelPoisons = {
   id: "01a06575-980a-7b4a-9981-6661e3bd97c8",

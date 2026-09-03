@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fleetfootGrill = {
   id: "01a06575-980e-71f8-84e8-64462663cdc8",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flashParry = {
   id: "01a06575-980d-7dd7-802d-de2a5c459a37",

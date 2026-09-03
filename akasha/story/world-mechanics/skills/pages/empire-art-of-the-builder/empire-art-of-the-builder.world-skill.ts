@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const empireArtOfTheBuilder = {
   id: "01a06575-9807-751f-a4dd-d5d5328e82f1",

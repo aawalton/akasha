@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const exhaustiveMemory = {
   id: "01a06575-9809-7e94-a968-eea719bd7e64",

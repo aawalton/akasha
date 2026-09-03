@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fistOfTheBrokenLandEarthtwister = {
   id: "01a06575-980d-7185-9795-c49b2c9fb3e8",

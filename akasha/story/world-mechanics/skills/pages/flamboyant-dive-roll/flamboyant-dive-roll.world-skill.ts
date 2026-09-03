@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flamboyantDiveRoll = {
   id: "01a06575-980d-7d30-8b86-827103d3cdff",

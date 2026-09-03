@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flashCut = {
   id: "01a06575-980d-7fe8-8007-6c26f8829478",

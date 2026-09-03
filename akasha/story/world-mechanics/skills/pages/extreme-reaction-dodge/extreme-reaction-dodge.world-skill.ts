@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const extremeReactionDodge = {
   id: "01a06575-980a-7937-8874-159bfa059210",

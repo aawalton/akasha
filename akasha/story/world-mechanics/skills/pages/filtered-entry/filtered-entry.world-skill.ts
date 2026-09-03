@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const filteredEntry = {
   id: "01a06575-980c-758c-b578-972356ee5101",

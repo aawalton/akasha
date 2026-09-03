@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const empowerOfficerWer = {
   id: "01a06575-9808-76c5-935d-a15db6597bcd",

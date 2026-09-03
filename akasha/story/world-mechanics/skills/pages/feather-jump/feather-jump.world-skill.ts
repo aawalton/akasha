@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const featherJump = {
   id: "01a06575-980c-7552-89bd-3aecf48fb25b",
