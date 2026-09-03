@@ -13,6 +13,12 @@ export const git = {
     "module/porcelain-status",
     "module/porcelain-status-reading",
     "module/tree-sha",
+    "module/git-capping",
+    "module/git-committing",
+    "module/git-landing-lock",
+    "module/git-pathspec",
+    "module/git-push-handoff",
+    "module/git-pushing",
   ],
   invariants: [
     {

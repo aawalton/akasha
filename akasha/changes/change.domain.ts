@@ -16,6 +16,11 @@ export const change = {
     "page-type/change-kind",
     "page-type/pipeline",
     "page-type/step",
+    "workspace-package/pipeline-orchestration",
+    "workspace-package/pipeline-sweep",
+    "workspace-package/test-fanout",
+    "workspace-package/workflow-language",
+    "workspace-package/workflow-selection",
   ],
   invariants: [
     {

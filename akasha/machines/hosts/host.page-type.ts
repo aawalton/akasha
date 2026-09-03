@@ -15,7 +15,17 @@ export const host = {
   definition: "a place the system runs programs",
   pluralSlug: "hosts",
   extendsSlug: "page-type/domain",
-  partSlugs: ["boolean-property/settled"],
+  partSlugs: [
+    "boolean-property/settled",
+    "host/macbook",
+    "host/node-01",
+    "host/node-02",
+    "host/node-03",
+    "host/node-04",
+    "host/node-05",
+    "host/node-06",
+    "host/workstation",
+  ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "settled", required: false, many: false },

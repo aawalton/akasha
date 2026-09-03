@@ -29,6 +29,12 @@ export const infrastructure = {
     "domain/resource-utilization",
     "workspace-package/eso-rig",
     "workspace-package/postgres-annual-dump",
+    "workspace-package/ci-containers",
+    "workspace-package/pipeline-commands",
+    "workspace-package/inference-commands",
+    "workspace-package/infrastructure-commands",
+    "workspace-package/loki-service",
+    "workspace-package/seaweedfs",
   ],
   invariants: [
     {

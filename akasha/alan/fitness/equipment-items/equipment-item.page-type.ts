@@ -27,10 +27,16 @@ export const equipmentItem = {
   extendsSlug: "page-type/page",
   partSlugs: [
     "boolean-property/equipment-available",
+    "boolean-property/equipment-item-available",
+    "number-property/equipment-item-sort-order",
     "number-property/equipment-loads",
     "number-property/equipment-sort-order",
     "select-property/equipment-category",
     "select-property/equipment-configuration",
+    "select-property/equipment-item-category",
+    "select-property/equipment-item-configuration",
+    "text-property/equipment-item-loads",
+    "text-property/equipment-item-notes",
     "text-property/equipment-notes",
   ],
   properties: [
