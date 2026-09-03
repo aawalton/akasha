@@ -12,7 +12,7 @@ export const SERVICES: Record<string, ServiceConfig> = {
   },
   "alanwalton-calendar-sync": {
     type: "bun-service",
-    dir: "alanwalton/calendar-sync",
+    dir: "akasha/calendar-sync",
   },
   ci: {
     type: "tool-image",
