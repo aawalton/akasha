@@ -1,4 +1,3 @@
-
 export const HELP_FLAGS: readonly string[] = ["--help", "-h"]
 
 export const VERSION_FLAG = "--version"
@@ -76,10 +75,13 @@ export interface CommandModule {
   readonly help?: CommandHelp
 }
 
+// One `ops-command` page: the words that reach it, the file it runs, the line its page says it is,
+// and the help prose beside the page where the page holds one.
 export interface CommandDocument {
   readonly slug: string
   readonly path: readonly string[]
   readonly entryFile: string
+  readonly summary: string
   readonly help?: string
 }
 

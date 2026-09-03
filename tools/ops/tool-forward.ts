@@ -1,17 +1,17 @@
-
 import { spawn } from "node:child_process"
 import { existsSync } from "node:fs"
-import { operationalError } from "../lib/exit.ts"
-import { type Repo as Addressable } from "@akasha/pages-system/markdown-document"
+import { join } from "node:path"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import type { CommandHelp } from "./surface.ts"
+import { operationalError } from "../lib/exit.ts"
+import type { CommandDocument, CommandHelp } from "./surface.ts"
 
 const HELP_TIMEOUT_MS = 10_000
 
-export type ForwardRepo = Addressable
-
-function toolPathIn(root: string, name: string): string | null {
-  const path = `${root}/tools/${name}.ts`
+// The file a forwarded command runs is the one its page names, read from the repository root.
+// Nothing here builds a path out of the command's name: the page says the file, and a file the
+// page names that is not there is answered by name rather than by the command going missing.
+function entryAt(root: string, document: CommandDocument): string | null {
+  const path = join(root, document.entryFile)
   return existsSync(path) ? path : null
 }
 
@@ -19,13 +19,12 @@ function childEnv(root: string): Record<string, string | undefined> {
   return { ...process.env, AKASHA_ROOT: root }
 }
 
-function repoArgs(repo: ForwardRepo | null): readonly string[] {
-  return repo === null || repo === "instructions" ? [] : ["--repo", repo]
-}
-
 function runTool(path: string, root: string, args: readonly string[]): Promise<number> {
   return new Promise<number>((resolve, reject) => {
-    const child = spawn(process.execPath, [path, ...args], { stdio: "inherit", env: childEnv(root) })
+    const child = spawn(process.execPath, [path, ...args], {
+      stdio: "inherit",
+      env: childEnv(root),
+    })
     child.on("error", (err: Error & { code?: string }) => {
       const said =
         err.code === "ENOENT"
@@ -43,10 +42,10 @@ function runTool(path: string, root: string, args: readonly string[]): Promise<n
   })
 }
 
-function toolHelp(name: string): Promise<string> {
+function toolHelp(document: CommandDocument): Promise<string> {
   const root = akashaRoot()
-  const path = toolPathIn(root, name)
-  if (path === null) return Promise.resolve(missingToolText(root, name))
+  const path = entryAt(root, document)
+  if (path === null) return Promise.resolve(missingToolText(root, document))
   return new Promise<string>((resolve) => {
     const child = spawn(process.execPath, [path, "--help"], {
       stdio: ["ignore", "pipe", "pipe"],
@@ -66,22 +65,24 @@ function toolHelp(name: string): Promise<string> {
   })
 }
 
-function missingToolText(root: string, name: string): string {
-  return `${root}/tools/${name}.ts is not there, so this command forwards to nothing — check AKASHA_ROOT names an akasha checkout`
+export function missingToolText(root: string, document: CommandDocument): string {
+  return (
+    `${document.entryFile} is not there under ${root}, so \`ops ${document.path.join(" ")}\` ` +
+    `forwards to nothing. The page \`${document.slug}\` still names that file: put the file back, ` +
+    `or take the page away with the command — and check AKASHA_ROOT names an akasha checkout`
+  )
 }
 
-export function forwardHelp(name: string, summary: string, repo: ForwardRepo | null): CommandHelp {
-  const addressing =
-    repo === null || repo === "instructions"
-      ? "Every argument is forwarded verbatim and in order, nothing is parsed or rewritten on the way through, and "
-      : `It supplies \`tools/${name}.ts --repo ${repo}\`, so every path is taken against the ${repo} root and the commit and the push land there. The flag is the TOOL's and is named here under the tool that declares it, because \`ops\` has no such flag of its own. Every other argument is forwarded verbatim and in order, and `
+export function forwardHelp(document: CommandDocument): CommandHelp {
   return {
     description:
-      `${summary}.\n` +
+      `${document.summary}\n` +
       "\n" +
-      `An \`ops\` command forwarding to \`tools/${name}.ts\` in the akasha repository. ${addressing}` +
-      "the exit code is the tool's own passed back unchanged. The flags, the exit codes and the " +
-      "refusals are the tool's to state, and what it states is printed below.\n" +
+      `An \`ops\` command forwarding to \`${document.entryFile}\` in the akasha repository, the file ` +
+      `the page \`${document.slug}\` names. Every argument is forwarded verbatim and in order, ` +
+      "nothing is parsed or rewritten on the way through, and the exit code is the tool's own " +
+      "passed back unchanged. The flags, the exit codes and the refusals are the tool's to state, " +
+      "and what it states is printed below.\n" +
       "\n" +
       "`--help` and `-h` are captured by the `ops` dispatcher wherever they appear, so the " +
       "tool's own help is reached through this block rather than by forwarding the flag.",
@@ -90,7 +91,7 @@ export function forwardHelp(name: string, summary: string, repo: ForwardRepo | n
         name: "args",
         required: false,
         variadic: true,
-        description: `Forwarded to \`tools/${name}.ts\` verbatim.`,
+        description: `Forwarded to \`${document.entryFile}\` verbatim.`,
       },
     ],
     envVars: [
@@ -103,16 +104,18 @@ export function forwardHelp(name: string, summary: string, repo: ForwardRepo | n
           "Which akasha checkout this command reaches. Passed to the tool explicitly rather than left to it to derive.",
       },
     ],
-    epilog: () => toolHelp(name),
+    epilog: () => toolHelp(document),
   }
 }
 
-export function forwardRunner(name: string, repo: ForwardRepo | null): (args: readonly string[]) => Promise<void> {
+export function forwardRunner(
+  document: CommandDocument
+): (args: readonly string[]) => Promise<void> {
   return async function runForwardedTool(args: readonly string[]): Promise<void> {
     const root = akashaRoot()
-    const path = toolPathIn(root, name)
-    if (path === null) throw operationalError(missingToolText(root, name))
-    const code = await runTool(path, root, [...repoArgs(repo), ...args])
+    const path = entryAt(root, document)
+    if (path === null) throw operationalError(missingToolText(root, document))
+    const code = await runTool(path, root, [...args])
     if (code !== 0) process.exitCode = code
   }
 }

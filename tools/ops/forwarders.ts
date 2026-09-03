@@ -1,78 +1,31 @@
+import { commandDocuments } from "./documented.ts"
+import type { Command, CommandDocument, CommandModule } from "./surface.ts"
 
-import { type Dirent, existsSync, readdirSync, readFileSync } from "node:fs"
-import { akashaRoot, repos as addressable } from "@akasha/pages-system/checkout-roots"
-import { declarationIn, type ToolDeclaration } from "../lib/tool-declaration.ts"
-import type { Command, CommandModule } from "./surface.ts"
-import type { ForwardRepo } from "./tool-forward.ts"
-
-const TOOLS_DIR = "tools"
-const EXT = ".ts"
-
-interface DeclaringTool {
-  readonly name: string
-  readonly declaration: ToolDeclaration
-}
-
-function declaringTools(root: string): readonly DeclaringTool[] {
-  const dir = `${root}/${TOOLS_DIR}`
-  if (!existsSync(dir)) return []
-  const entries: readonly Dirent[] = readdirSync(dir, { withFileTypes: true })
-  const files = entries
-    .filter((one) => one.isFile() && one.name.endsWith(EXT) && one.name.length > EXT.length)
-    .map((one) => one.name)
-    .sort()
-  const found: DeclaringTool[] = []
-  for (const fileName of files) {
-    const declaration = declarationIn(readFileSync(`${dir}/${fileName}`, "utf8"))
-    if (declaration === null) continue
-    found.push({ name: fileName.slice(0, -EXT.length), declaration })
-  }
-  return found
-}
-
-function forwarder(
-  name: string,
-  summary: string,
-  repo: ForwardRepo | null,
-  path: readonly string[]
-): Command {
+/**
+ * The commands `ops` forwards to a file, each one an `ops-command` page read out of the index.
+ *
+ * Until 2026-09-03 this read every `tools/*.ts` off the disk and matched a regular expression
+ * against each file's text for an `export const tool` declaration, so the set of forwarded
+ * commands was whatever the folder held and no list of them was written anywhere. A file taken
+ * away left the set one smaller with nothing to say so: `ops domain dag`, `ops domain declarations`
+ * and `ops domain unreached` went that way. The pages are the list now. A file that goes leaves
+ * its page behind, so the command stays in the listing and a run of it names the file that is
+ * not there, and the page is taken away with the command rather than before it.
+ */
+function forwarder(document: CommandDocument): Command {
   return {
-    path,
-    summary,
+    path: document.path,
+    summary: document.summary,
+    document,
     load: async (): Promise<CommandModule> => {
       const { forwardHelp, forwardRunner } = await import("./tool-forward.ts")
-      return { default: forwardRunner(name, repo), help: forwardHelp(name, summary, repo) }
+      return { default: forwardRunner(document), help: forwardHelp(document) }
     },
   }
 }
 
-function forwardNamespaces(tools: readonly DeclaringTool[]): readonly ForwardRepo[] {
-  const declared = new Set<string>()
-  for (const tool of tools) {
-    for (const repo of tool.declaration.repos ?? []) declared.add(repo)
-  }
-  return addressable().filter((repo) => declared.has(repo))
-}
-
-export function forwarderCommands(root: string = akashaRoot()): readonly Command[] {
-  const tools = declaringTools(root)
-  const addressed = forwardNamespaces(tools)
-  const addresses = (tool: DeclaringTool, repo: ForwardRepo): boolean =>
-    (tool.declaration.repos ?? []).includes(repo)
-  const collapsed = tools
-    .filter((tool) => tool.declaration.collapsed === true)
-    .filter((tool) => addressed.some((repo) => addresses(tool, repo)))
-    .map((tool) => forwarder(tool.name, tool.declaration.summary, null, [tool.name]))
-  const namespaced = addressed.flatMap((repo) =>
-    tools
-      .filter((tool) => tool.declaration.collapsed !== true && addresses(tool, repo))
-      .map((tool) => forwarder(tool.name, tool.declaration.summary, repo, [repo, tool.name]))
-  )
-  const standing: Command[] = []
-  for (const tool of tools) {
-    const path = tool.declaration.path
-    if (path === undefined) continue
-    standing.push(forwarder(tool.name, tool.declaration.summary, null, path))
-  }
-  return [...collapsed, ...namespaced, ...standing]
+export function forwarderCommands(
+  documents: readonly CommandDocument[] = commandDocuments()
+): readonly Command[] {
+  return documents.filter((one) => one.entryFile !== "").map(forwarder)
 }

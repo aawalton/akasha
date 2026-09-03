@@ -7,12 +7,16 @@ import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import type { CommandDocument } from "./surface.ts"
 
 /**
- * The help each ops command prints, read off the akasha pages that hold it.
+ * The ops commands, read off the akasha pages that hold them.
  *
  * These documents were markdown under `pages/old-ops-command/` until the old markdown page store
  * began to go. They are `ops-command` pages now, one folder each, with the help prose in a file
  * beside the page rather than in a `# Help` section of it. Nothing here parses front matter or
  * sections any more: the page states its own values and the prose is a whole file.
+ *
+ * A page here is the one place a forwarded command is named: `forwarders.ts` reads this list and
+ * nothing scans a folder for the files. A page naming a file that is not there is still answered,
+ * so the command it names stays listed and its run says which file is missing.
  *
  * A command whose page states no `opsPath` reaches no command and is left out, which is the same
  * test the markdown reader made on its `path:` line.
@@ -28,6 +32,8 @@ const OPS_ENTRY_FILE = "opsEntryFile"
 const OPS_HELP = "opsHelp"
 
 const SLUG = "slug"
+
+const DEFINITION = "definition"
 
 function proseFor(repoRoot: string, path: string, held: string | null): string {
   if (held === null || held === "") return ""
@@ -50,6 +56,7 @@ export function commandDocuments(repoRoot: string = akashaRoot()): readonly Comm
       slug: textAt(value, SLUG) ?? "",
       path: invocation.split(" ").filter((word) => word !== ""),
       entryFile: textAt(value, OPS_ENTRY_FILE) ?? "",
+      summary: textAt(value, DEFINITION) ?? "",
       ...(help === "" ? {} : { help }),
     })
   }

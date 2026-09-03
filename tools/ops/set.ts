@@ -4,10 +4,11 @@ import { forwarderCommands } from "./forwarders.ts"
 import type { Command } from "./surface.ts"
 
 export function commandSet(): readonly Command[] {
-  const documents = new Map(commandDocuments().map((one) => [one.path.join(" "), one]))
+  const pages = commandDocuments()
+  const documents = new Map(pages.map((one) => [one.path.join(" "), one]))
   const taken = new Set<string>()
   const here: Command[] = []
-  for (const one of [...declaredCommands(), ...forwarderCommands()]) {
+  for (const one of [...declaredCommands(), ...forwarderCommands(pages)]) {
     const at = one.path.join(" ")
     if (taken.has(at)) continue
     taken.add(at)
