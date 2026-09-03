@@ -56,6 +56,7 @@
     "./seat-stated-identity": "./seat-stated-identity/seat-stated-identity.module.code.ts",
     "./seat-stated-name-refusal": "./seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts",
     "./seat-stated-parent-refusal": "./seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts",
+    "./seat-stating": "./seat-stating/seat-stating.module.code.ts",
     "./seat-stopping": "./seat-stopping/seat-stopping.module.code.ts",
     "./seat-supervisor-claim": "./supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts",
     "./seat-usage": "./seat-usage/seat-usage.module.code.ts",
