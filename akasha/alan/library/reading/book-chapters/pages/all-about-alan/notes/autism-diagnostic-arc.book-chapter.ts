@@ -1,7 +1,7 @@
 import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const autismDiagnosticArc = {
-  id: "01a06593-c4cd-700c-b516-99f4faa44170",
+  id: "01a06594-c675-7006-ae68-273efaa44170",
   pageTypeSlug: "book-chapter",
   slug: "autism-diagnostic-arc",
   title: "Diagnostic arc",
