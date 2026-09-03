@@ -3,27 +3,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import {
-  type FlagSpec,
-  parseArgs,
-  STANDARD_FLAGS,
-} from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  type CodegenIdentityEndpoint,
-  type CodegenIdentityPair,
-  type CodegenIdentityRemedy,
-  type CodegenRepo,
-  findCodegenTypeIdentityDrift,
-  remedyFileFor,
-} from "../../../../../infra/cluster-checks/src/lib/codegen-type-identity-drift.ts"
-import {
-  CODEGEN_IDENTITY_BLIND_SPOTS,
-  CODEGEN_TYPE_IDENTITY_PAIRS,
-  INSTRUCTIONS_MIRROR_DIR,
-  MIRROR_GENERATORS,
-} from "../../../../../infra/cluster-checks/src/lib/codegen-type-identity-pairs.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
   examinePopulation,
   type Population,
 } from "../../../../../tools/lib/check-workflow/population"
@@ -32,6 +11,27 @@ import {
   exitOnResult,
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import {
+  type FlagSpec,
+  parseArgs,
+  STANDARD_FLAGS,
+} from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  type CodegenIdentityEndpoint,
+  type CodegenIdentityPair,
+  type CodegenIdentityRemedy,
+  type CodegenRepo,
+  findCodegenTypeIdentityDrift,
+  remedyFileFor,
+} from "../../modules/codegen-type-identity-drift/codegen-type-identity-drift.module.code.ts"
+import {
+  CODEGEN_IDENTITY_BLIND_SPOTS,
+  CODEGEN_TYPE_IDENTITY_PAIRS,
+  INSTRUCTIONS_MIRROR_DIR,
+  MIRROR_GENERATORS,
+} from "../../modules/codegen-type-identity-pairs/codegen-type-identity-pairs.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
@@ -42,7 +42,8 @@ const REMEDIATION_DOC = remediationHint(
   "Fix the flagged generator's hardcoded set to match the canonical, then regenerate: ops temper addon-data generate"
 )
 
-const REGISTRY = "infra/cluster-checks/src/lib/codegen-type-identity-pairs.ts"
+const REGISTRY =
+  "akasha/checks/cluster-checks/modules/codegen-type-identity-pairs/codegen-type-identity-pairs.module.code.ts"
 
 const OWN_REPO_FROM_HERE = "../../../../.."
 

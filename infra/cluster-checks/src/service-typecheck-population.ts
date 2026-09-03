@@ -2,10 +2,10 @@
 
 import { existsSync } from "node:fs"
 import { extname, resolve } from "node:path"
-import { parseArgs } from "./lib/cli-args"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { discoverRepoFiles } from "./lib/repo-files.ts"
-import { getRepoRoot } from "./lib/repo-root"
+import { parseArgs } from "../../../akasha/checks/cluster-checks/modules/cli-args/cli-args.module.code.ts"
+import { discoverRepoFiles } from "../../../akasha/checks/cluster-checks/modules/repo-files/repo-files.module.code.ts"
+import { getRepoRoot } from "../../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
 import {
   COMPILER_BIN,
   ROOT_PROJECT,

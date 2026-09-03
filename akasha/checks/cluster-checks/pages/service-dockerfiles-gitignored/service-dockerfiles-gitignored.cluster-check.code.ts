@@ -3,9 +3,6 @@
 import { spawnSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { join, relative } from "node:path"
-import { parseArgs, REPO_ROOT_FLAG } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { SERVICES } from "../../../../../infra/scripts/src/generate-dockerfiles-registry.ts"
 import { getOutputPath } from "../../../../../infra/scripts/src/generate-dockerfiles-tool.ts"
 import { parseDockerfileExtensions } from "../../../../../infra/scripts/src/generate-dockerfiles-types.ts"
@@ -14,6 +11,9 @@ import {
   exitOnResult,
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

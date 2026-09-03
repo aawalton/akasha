@@ -3,14 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  judgeLayerMonotonicity,
-  type PackageEdge,
-  type RankInversionFinding,
-  type WorkspaceEntry,
-} from "../../../../../infra/cluster-checks/src/lib/layer-monotonicity.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import {
   type FunctionalType,
   FunctionalTypeSchema,
@@ -36,6 +28,14 @@ import {
 } from "../../../../../tools/lib/graph/producers/package/types.ts"
 import { readRepoFile } from "../../../../../tools/lib/graph/repos.ts"
 import type { Edge, Graph, Node } from "../../../../../tools/lib/graph/types.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  judgeLayerMonotonicity,
+  type PackageEdge,
+  type RankInversionFinding,
+  type WorkspaceEntry,
+} from "../../modules/layer-monotonicity/layer-monotonicity.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

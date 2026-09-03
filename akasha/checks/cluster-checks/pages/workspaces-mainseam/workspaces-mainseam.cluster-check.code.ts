@@ -4,23 +4,23 @@ import { execFileSync } from "node:child_process"
 import { mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { parseArgs, REPO_ROOT_FLAG } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  GIT_CREDENTIAL_ARGS,
-  gitCredentialEnv,
-  transportUrl,
-} from "../../../../../infra/cluster-checks/src/lib/git-transport-credential.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  type SeamFn,
-  validateWorkspacesAgainstSeam,
-  type WorkspacesSeamResult,
-} from "../../../../../infra/cluster-checks/src/lib/workspaces-mainseam.ts"
 import {
   exitOnResult,
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  GIT_CREDENTIAL_ARGS,
+  gitCredentialEnv,
+  transportUrl,
+} from "../../modules/git-transport-credential/git-transport-credential.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  type SeamFn,
+  validateWorkspacesAgainstSeam,
+  type WorkspacesSeamResult,
+} from "../../modules/workspaces-mainseam/workspaces-mainseam.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

@@ -1,20 +1,20 @@
 #!/usr/bin/env bun
 
+import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
+import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   ALANWALTON_IOS_SEAM_LABEL,
   ALANWALTON_IOS_SEAM_SCRIPT,
   alanwaltonIosSeamFiles,
   readAlanwaltonIosSeam,
-} from "../../../../../infra/cluster-checks/src/lib/alanwalton-ios-seam.ts"
-import { parseArgs, REPO_ROOT_FLAG } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
+} from "../../modules/alanwalton-ios-seam/alanwalton-ios-seam.module.code.ts"
+import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   findHealthSamplesStreamViolations,
   type HealthSamplesStreamViolation,
-} from "../../../../../infra/cluster-checks/src/lib/health-samples-stream-violations.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
+} from "../../modules/health-samples-stream-violations/health-samples-stream-violations.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

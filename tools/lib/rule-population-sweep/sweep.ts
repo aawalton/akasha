@@ -6,7 +6,7 @@ import {
 import {
   BLIND_SPOTS,
   gatherRulePopulations,
-} from "../../../infra/cluster-checks/src/audits/rule-population.ts"
+} from "../../../akasha/checks/cluster-checks/modules/rule-population-audit/rule-population-audit.module.code.ts"
 import type { AuditReading } from "../audit-reading.ts"
 import { writeMessage } from "../message-file.ts"
 

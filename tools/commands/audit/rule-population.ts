@@ -1,16 +1,16 @@
-
-export const summary = "Every enforcement rule that weighed nothing across the whole repo — the case where a rule has stopped looking and its silence still reads as a rule that looked and was satisfied. A rule's population is what it WEIGHED, never what it FOUND, and the two coincide at zero, which is why a construct retired out from under a rule prints the same green as a clean tree. Reports and never refuses: an empty population may want the rule removed or may want it repaired, and only a reading tells which, so the call stays a person's. Reaches the syntax scanners, whose populations come from the dispatch loop itself; the ast-grep rules are already refused on this by `check-ast-grep`, and the rules inside a check step have no registry to walk. Both exclusions print every run. Two controls ride the real dispatch and exit 3 rather than clean: one rule that skips every file and must weigh none, one that skips nothing and must weigh all (--repo-root, --tree-sha, --cache-dir, --json)"
+export const summary =
+  "Every enforcement rule that weighed nothing across the whole repo — the case where a rule has stopped looking and its silence still reads as a rule that looked and was satisfied. A rule's population is what it WEIGHED, never what it FOUND, and the two coincide at zero, which is why a construct retired out from under a rule prints the same green as a clean tree. Reports and never refuses: an empty population may want the rule removed or may want it repaired, and only a reading tells which, so the call stays a person's. Reaches the syntax scanners, whose populations come from the dispatch loop itself; the ast-grep rules are already refused on this by `check-ast-grep`, and the rules inside a check step have no registry to walk. Both exclusions print every run. Two controls ride the real dispatch and exit 3 rather than clean: one rule that skips every file and must weigh none, one that skips nothing and must weigh all (--repo-root, --tree-sha, --cache-dir, --json)"
 
 import { resolve } from "node:path"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
-import { renderAuditReading } from "../../lib/audit-reading.ts"
+import { getRepoRoot } from "../../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
+import { renderRuleReading } from "../../../akasha/checks/cluster-checks/modules/rule-population/rule-population.module.code.ts"
 import {
   BLIND_SPOTS,
   gatherRulePopulations,
-} from "../../../infra/cluster-checks/src/audits/rule-population.ts"
-import { renderRuleReading } from "../../../infra/cluster-checks/src/lib/rule-population.ts"
-import { getRepoRoot } from "../../../infra/cluster-checks/src/lib/repo-root.ts"
+} from "../../../akasha/checks/cluster-checks/modules/rule-population-audit/rule-population-audit.module.code.ts"
+import { renderAuditReading } from "../../lib/audit-reading.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 const SUBJECT = "rules whose population came back empty"
 

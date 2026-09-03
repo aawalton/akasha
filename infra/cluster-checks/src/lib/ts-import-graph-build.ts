@@ -1,7 +1,7 @@
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
-import { discoverRepoFiles } from "./repo-files.ts"
 import ts from "typescript"
+import { discoverRepoFiles } from "../../../../akasha/checks/cluster-checks/modules/repo-files/repo-files.module.code.ts"
 import { collectExports, collectImports } from "./ts-import-graph-collect"
 import { matchAny, roleFor } from "./ts-import-graph-globs"
 import { parsePragmas } from "./ts-import-graph-pragmas"

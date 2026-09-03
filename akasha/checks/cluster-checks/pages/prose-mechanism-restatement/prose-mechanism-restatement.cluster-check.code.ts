@@ -5,13 +5,6 @@ import { resolve } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { z } from "zod"
-import { parseArgs, STANDARD_FLAGS } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  departedDetail,
-  renderTightening,
-} from "../../../../../infra/cluster-checks/src/lib/suppression-subject.ts"
 import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
 import {
   applyRatchet,
@@ -27,11 +20,19 @@ import {
 } from "../../../../../tools/lib/check-workflow/prose-mechanism-restatement"
 import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  departedDetail,
+  renderTightening,
+} from "../../modules/suppression-subject/suppression-subject.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
 const PREFIX = "[prose-mechanism-restatement]"
-const RATCHET_REL = "infra/cluster-checks/src/lib/prose-mechanism-restatement.ratchet.json"
+const RATCHET_REL =
+  "akasha/checks/cluster-checks/pages/prose-mechanism-restatement/prose-mechanism-restatement.ratchet.json"
 const RATCHET_SCHEMA = z.object({ accepted: z.array(z.string()) }).strict()
 
 const BOUND = [

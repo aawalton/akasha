@@ -3,20 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  type Finding,
-  judgeLayerMonotonicity,
-  type PackageEdge,
-  type WorkspaceEntry,
-} from "../../../../../infra/cluster-checks/src/lib/layer-monotonicity.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  isCompositionRoot,
-  TEMPER_TIERS,
-  TIER_RANK_BY_TIER,
-  tierForWorkspacePath,
-} from "../../../../../infra/cluster-checks/src/lib/temper-type-tier.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import { repoDoc } from "../../../../../tools/lib/check-workflow/remediation-doc"
 import {
@@ -35,12 +21,28 @@ import {
   packageNodeIdToWorkspaceName,
 } from "../../../../../tools/lib/graph/producers/package/types.ts"
 import type { Graph, Node } from "../../../../../tools/lib/graph/types.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  type Finding,
+  judgeLayerMonotonicity,
+  type PackageEdge,
+  type WorkspaceEntry,
+} from "../../modules/layer-monotonicity/layer-monotonicity.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  isCompositionRoot,
+  TEMPER_TIERS,
+  TIER_RANK_BY_TIER,
+  tierForWorkspacePath,
+} from "../../modules/temper-type-tier/temper-type-tier.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
 const PREFIX = "[check-temper-type-tier-monotonicity]"
 
-const REMEDIATION = repoDoc("infra/cluster-checks/src/lib/temper-type-tier.ts")
+const REMEDIATION = repoDoc(
+  "akasha/checks/cluster-checks/modules/temper-type-tier/temper-type-tier.module.code.ts"
+)
 
 const TIER_HOMED_LEAST_COUNT = 120
 

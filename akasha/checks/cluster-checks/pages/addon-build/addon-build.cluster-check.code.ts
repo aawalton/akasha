@@ -7,13 +7,6 @@ import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { computeInputsHashAcrossRepos } from "@akasha/workflow-language/inputs-hash"
 import {
-  addonBuildPopulationLine,
-  addonBuildTally,
-  type DeployableOutcome,
-} from "../../../../../infra/cluster-checks/src/lib/addon-build-population.ts"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
   ADDON_BUILD_CONCURRENCY,
   cacheTarPath,
   closureFilesForDeployable,
@@ -27,6 +20,13 @@ import {
 } from "../../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import type { Graph } from "../../../../../tools/lib/graph/types.ts"
+import {
+  addonBuildPopulationLine,
+  addonBuildTally,
+  type DeployableOutcome,
+} from "../../modules/addon-build-population/addon-build-population.module.code.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

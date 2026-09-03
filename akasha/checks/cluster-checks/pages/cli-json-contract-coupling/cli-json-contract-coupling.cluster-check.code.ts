@@ -2,6 +2,10 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
+import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
+import { repoDoc } from "../../../../../tools/lib/check-workflow/remediation-doc"
+import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   type ContractCouplingViolation,
   findContractImports,
@@ -10,13 +14,9 @@ import {
   isExcludedTestFile,
   type ModuleContractSchema,
   uncoupledImportedContract,
-} from "../../../../../infra/cluster-checks/src/lib/cli-json-contract-coupling.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { repoDoc } from "../../../../../tools/lib/check-workflow/remediation-doc"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
+} from "../../modules/cli-json-contract-coupling/cli-json-contract-coupling.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
@@ -105,7 +105,9 @@ function main(): never {
       prefix: PREFIX,
       header:
         "Cross-boundary contract schema(s) asserted by a .strict() Zod schema that no typecheck compares against its producer, read by a test in a CI-excluded class. The rule: a contract a CI-excluded test asserts is typechecked against the code producing it, so drift fails on a rung CI runs",
-      remediationDoc: repoDoc("infra/cluster-checks/src/lib/cli-json-contract-coupling.ts"),
+      remediationDoc: repoDoc(
+        "akasha/checks/cluster-checks/modules/cli-json-contract-coupling/cli-json-contract-coupling.module.code.ts"
+      ),
       successMessage: `OK — ${population.examined.length} CI-excluded test files scanned and ${moduleSchemas.size} imported module(s) opened, no uncoupled contracts.`,
       formatViolation: (violation) =>
         violation.importedBy === null

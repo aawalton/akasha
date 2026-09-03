@@ -3,20 +3,20 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { packageDependencyCycles } from "../../../../../infra/cluster-checks/src/lib/package-cycles.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import { treeReadingAt } from "../../../../../infra/cluster-checks/src/lib/tree-reading.ts"
-import {
-  readWorkspacePackages,
-  type WorkspacePackage,
-} from "../../../../../infra/cluster-checks/src/lib/workspace-packages.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import {
   exitOnResult,
   exitOnToolError,
   type Violation,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { packageDependencyCycles } from "../../modules/package-cycles/package-cycles.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { treeReadingAt } from "../../modules/tree-reading/tree-reading.module.code.ts"
+import {
+  readWorkspacePackages,
+  type WorkspacePackage,
+} from "../../modules/workspace-packages/workspace-packages.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

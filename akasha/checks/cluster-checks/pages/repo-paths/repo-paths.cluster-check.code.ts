@@ -3,18 +3,6 @@
 import { readFileSync } from "node:fs"
 import { basename, dirname, posix, relative, resolve } from "node:path"
 import { z } from "zod"
-import { parseArgs, STANDARD_FLAGS } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { discoverRepoFiles } from "../../../../../infra/cluster-checks/src/lib/repo-files.ts"
-import {
-  repoTopLevelDirs,
-  resolveRepoPath,
-} from "../../../../../infra/cluster-checks/src/lib/repo-path-resolver.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  extractShellLuaPathLiterals,
-  extractTsPathLiterals,
-} from "../../../../../infra/cluster-checks/src/lib/ts-path-literals.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import {
   exitOnResult,
@@ -22,6 +10,18 @@ import {
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
 import { parseMdLinks } from "../../../../../tools/lib/graph/producers/file/md-file/parse.ts"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"
+import {
+  repoTopLevelDirs,
+  resolveRepoPath,
+} from "../../modules/repo-path-resolver/repo-path-resolver.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  extractShellLuaPathLiterals,
+  extractTsPathLiterals,
+} from "../../modules/ts-path-literals/ts-path-literals.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

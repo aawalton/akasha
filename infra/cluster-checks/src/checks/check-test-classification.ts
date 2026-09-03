@@ -1,15 +1,14 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
-import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
-import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
-import { getRepoRoot } from "../lib/repo-root"
+import {
+  parseArgs,
+  STANDARD_FLAGS,
+} from "../../../../akasha/checks/cluster-checks/modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../../../akasha/checks/cluster-checks/modules/retired/retired.module.code.ts"
 import {
   classify,
   describeViolation,
@@ -18,9 +17,18 @@ import {
   type RequiredTypeBasis,
   repairKind,
   type TestType,
-} from "../lib/test-classification"
-import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
-import { TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../tools/lib/graph/producers/file/ts-file/types"
+} from "../../../../akasha/checks/cluster-checks/modules/test-classification/test-classification.module.code.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import {
+  exitOnResult,
+  type Violation,
+} from "../../../../tools/lib/check-workflow/violation-reporter"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import {
+  TS_FILE_NODE_TYPES,
+  tsFileNodeIdToCodeRepoRel,
+} from "../../../../tools/lib/graph/producers/file/ts-file/types"
 
 if (import.meta.main) refuseRetired()
 

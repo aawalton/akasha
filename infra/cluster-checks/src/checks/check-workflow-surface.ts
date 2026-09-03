@@ -1,12 +1,11 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { existsSync } from "node:fs"
-import { parseArgs } from "../lib/cli-args"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
+import { parseArgs } from "../../../../akasha/checks/cluster-checks/modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../../../akasha/checks/cluster-checks/modules/retired/retired.module.code.ts"
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
-import { getRepoRoot } from "../lib/repo-root"
 import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { buildWorkflowSurface, scannedFilePaths } from "../lib/workflow-surface/build"
 import { DEFAULT_CACHE_DIR, surfacePath, writeCachedSurface } from "../lib/workflow-surface/write"

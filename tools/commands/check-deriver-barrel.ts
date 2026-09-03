@@ -1,18 +1,19 @@
-export const summary = "Regenerate (--fix) or verify the @infra/checks deriver barrel against discovered *.deriver.ts files"
+export const summary =
+  "Regenerate (--fix) or verify the @infra/checks deriver barrel against discovered *.deriver.ts files"
 
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import type { CommandHelp } from "../ops/surface.ts"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
+import { generateBarrel } from "../../akasha/checks/cluster-checks/modules/generate-deriver-barrel/generate-deriver-barrel.module.code.ts"
+import { getRepoRoot } from "../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
 import { examinePopulation } from "../lib/check-workflow/population.ts"
 import {
   computeExitCode,
   exitOnToolError,
   reportViolations,
 } from "../lib/check-workflow/violation-reporter.ts"
-import { generateBarrel } from "../../infra/cluster-checks/src/lib/generate-deriver-barrel.ts"
-import { getRepoRoot } from "../../infra/cluster-checks/src/lib/repo-root.ts"
 import { parseArgs } from "../lib/parse-args.ts"
+import type { CommandHelp } from "../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -107,10 +108,7 @@ export default async function checkDeriverBarrel(args: readonly string[]): Promi
 
   let repoRoot: string
   try {
-    repoRoot =
-      repoRootFlag != null
-        ? resolve(repoRootFlag)
-        : getRepoRoot()
+    repoRoot = repoRootFlag != null ? resolve(repoRootFlag) : getRepoRoot()
   } catch (err) {
     exitOnToolError({ error: err, prefix: PREFIX })
   }

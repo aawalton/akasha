@@ -1,12 +1,11 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "./lib/retired.ts"
-
 import { existsSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
+import { refuseRetired } from "../../../akasha/checks/cluster-checks/modules/retired/retired.module.code.ts"
+import { EXIT_TOOL_ERROR } from "../../../tools/lib/check-workflow/violation-reporter.ts"
 import { opsArgv, opsInvocationOf } from "../../../tools/lib/ops-invocation.ts"
 import { decideCheckExit } from "./lib/run-check-core.ts"
-import { EXIT_TOOL_ERROR } from "../../../tools/lib/check-workflow/violation-reporter.ts"
 
 if (import.meta.main) refuseRetired()
 
@@ -19,12 +18,7 @@ function named(root: string | undefined): string {
 }
 
 function locate(script: string): string | null {
-  for (const root of [
-    OWN_ROOT,
-    process.env.WORKSPACE,
-    process.env.AKASHA_ROOT,
-    process.cwd(),
-  ]) {
+  for (const root of [OWN_ROOT, process.env.WORKSPACE, process.env.AKASHA_ROOT, process.cwd()]) {
     if (root === undefined || root === "") continue
     const candidate = resolve(root, script)
     if (existsSync(candidate)) return candidate

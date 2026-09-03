@@ -1,6 +1,5 @@
+export { listFileImports } from "../../../../akasha/checks/cluster-checks/modules/ts-import-graph-list-imports/ts-import-graph-list-imports.module.code.ts"
 export { buildModuleGraph } from "./ts-import-graph-build"
-
-export { listFileImports } from "./ts-import-graph-list-imports"
 export { findUnusedExports } from "./ts-import-graph-reachability"
 export type {
   FrameworkAdapter,

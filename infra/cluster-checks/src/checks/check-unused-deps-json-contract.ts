@@ -1,5 +1,5 @@
 import { z } from "zod"
-import type { Finding } from "./check-unused-deps-types.ts"
+import type { Finding } from "../../../../akasha/checks/cluster-checks/modules/check-unused-deps-types/check-unused-deps-types.module.code.ts"
 
 export const UnusedDepsFindingContractSchema: z.ZodType<Finding> = z
   .object({

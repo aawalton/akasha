@@ -1,15 +1,15 @@
 #!/usr/bin/env bun
 
+import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
+import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import {
   readLeadingComment,
   type SourceFileHeader,
   scanGeneratedSuffix,
-} from "../../../../../infra/cluster-checks/src/checks/check-generated-suffix.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
+} from "../../modules/check-generated-suffix/check-generated-suffix.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

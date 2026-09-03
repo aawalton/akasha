@@ -4,13 +4,13 @@ import { existsSync, readFileSync } from "node:fs"
 import { basename, dirname, resolve } from "node:path"
 import ts from "typescript"
 import { z } from "zod"
-import type { ViteSupabaseRrDefineViolation } from "../../../../../infra/cluster-checks/src/checks/check-vite-supabase-rr-define-json-contract.ts"
-import { parseArgs, STANDARD_FLAGS } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
 import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
+import type { ViteSupabaseRrDefineViolation } from "../../modules/check-vite-supabase-rr-define-json-contract/check-vite-supabase-rr-define-json-contract.module.code.ts"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

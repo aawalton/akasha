@@ -3,13 +3,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import {
-  type FlagSpec,
-  parseArgs,
-  STANDARD_FLAGS,
-} from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
   CHECKSUM_ANNOTATION_MARKER,
   type ChecksumAnnotationScanFile,
   type ChecksumAnnotationViolation,
@@ -28,6 +21,13 @@ import {
   exitOnResult,
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import {
+  type FlagSpec,
+  parseArgs,
+  STANDARD_FLAGS,
+} from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

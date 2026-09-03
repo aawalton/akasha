@@ -3,9 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import { assertManifestShape } from "../../../../../infra/cluster-checks/src/lib/sops-manifest.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import { remediationHint } from "../../../../../tools/lib/check-workflow/remediation-doc"
 import {
@@ -18,6 +15,9 @@ import {
   YamlFileAttrsSchema,
 } from "../../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
 import type { Graph } from "../../../../../tools/lib/graph/types.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { assertManifestShape } from "../../modules/sops-manifest/sops-manifest.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

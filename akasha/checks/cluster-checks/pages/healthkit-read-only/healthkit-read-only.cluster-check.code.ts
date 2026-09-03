@@ -1,20 +1,20 @@
 #!/usr/bin/env bun
 
 import { classifyExtension } from "@akasha/code-system/file-kind"
+import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
+import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
 import {
   alanwaltonIosSeamFiles,
   readAlanwaltonIosSeam,
-} from "../../../../../infra/cluster-checks/src/lib/alanwalton-ios-seam.ts"
+} from "../../modules/alanwalton-ios-seam/alanwalton-ios-seam.module.code.ts"
 import {
   findMissingAuthorizationSite,
   type HealthKitReadOnlyViolation,
   scanHealthKitScript,
-} from "../../../../../infra/cluster-checks/src/lib/healthkit-read-only-violations.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
-import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
+} from "../../modules/healthkit-read-only-violations/healthkit-read-only-violations.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

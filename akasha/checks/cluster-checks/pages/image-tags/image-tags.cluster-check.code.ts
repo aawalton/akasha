@@ -3,9 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { checkImage } from "../../../../../infra/cluster-checks/src/lib/image-tag-rule.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import { remediationHint } from "../../../../../tools/lib/check-workflow/remediation-doc"
 import {
@@ -21,6 +18,9 @@ import {
 import { K8S_RESOURCE_NODE_TYPE } from "../../../../../tools/lib/graph/producers/k8s/types.ts"
 import { K8sResourceAttrsSchema } from "../../../../../tools/lib/graph/producers/k8s/types-schemas"
 import type { Graph } from "../../../../../tools/lib/graph/types.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { checkImage } from "../../modules/image-tag-rule/image-tag-rule.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

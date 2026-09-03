@@ -5,12 +5,6 @@ import { resolve } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  findOrphans,
-  type SourceFile,
-} from "../../../../../infra/cluster-checks/src/lib/yaml-usage.ts"
 import {
   FILESYSTEM_WALK_EXEMPT_DIRS,
   findFiles,
@@ -28,6 +22,9 @@ import {
 } from "../../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
 import { readRepoFile } from "../../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../../tools/lib/graph/types.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { findOrphans, type SourceFile } from "../../modules/yaml-usage/yaml-usage.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

@@ -1,7 +1,7 @@
+import { z } from "zod"
+import { isTestFilePath } from "../../../../akasha/checks/cluster-checks/modules/non-test-population/non-test-population.module.code.ts"
 import type { Graph, NodeId } from "../../../../tools/lib/graph/types.ts"
 import { graphNodeId } from "./graph-node-id.ts"
-import { z } from "zod"
-import { isTestFilePath } from "./non-test-population"
 import {
   buildPackageResolver,
   PACKAGE_NODE_TYPE,

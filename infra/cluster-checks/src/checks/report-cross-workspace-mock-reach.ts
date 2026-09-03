@@ -1,20 +1,33 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
-import type { Edge, Graph } from "../../../../tools/lib/graph/types.ts"
-import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
+import {
+  parseArgs,
+  STANDARD_FLAGS,
+} from "../../../../akasha/checks/cluster-checks/modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../../../akasha/checks/cluster-checks/modules/retired/retired.module.code.ts"
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
-import { getRepoRoot } from "../lib/repo-root"
-import { exitOnToolError, reportViolations } from "../../../../tools/lib/check-workflow/violation-reporter"
+import {
+  exitOnToolError,
+  reportViolations,
+} from "../../../../tools/lib/check-workflow/violation-reporter"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { MockModuleAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/parse-mock-module"
-import { MOCK_MODULE_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../tools/lib/graph/producers/file/ts-file/types"
+import {
+  MOCK_MODULE_EDGE_TYPE,
+  TS_FILE_NODE_TYPES,
+  tsFileNodeIdToCodeRepoRel,
+} from "../../../../tools/lib/graph/producers/file/ts-file/types"
 import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 import { resolvePackageExport } from "../../../../tools/lib/graph/producers/lib/resolve-package-export"
-import { PACKAGE_NODE_TYPE, PackageAttrsSchema, packageNodeIdToWorkspaceName } from "../../../../tools/lib/graph/producers/package/types"
+import {
+  PACKAGE_NODE_TYPE,
+  PackageAttrsSchema,
+  packageNodeIdToWorkspaceName,
+} from "../../../../tools/lib/graph/producers/package/types"
+import type { Edge, Graph } from "../../../../tools/lib/graph/types.ts"
 
 if (import.meta.main) refuseRetired()
 

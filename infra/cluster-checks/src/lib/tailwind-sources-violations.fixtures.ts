@@ -1,11 +1,17 @@
-import type { CssDirective, CssFile } from "./css-source-directives.ts"
+import type {
+  CssDirective,
+  CssFile,
+} from "../../../../akasha/checks/cluster-checks/modules/css-source-directives/css-source-directives.module.code.ts"
 import {
   enumerateTailwindApps,
   examineTailwindApp,
   type FindTailwindSourcesViolationsInput,
   type TailwindSourceViolation,
-} from "./tailwind-sources-violations.ts"
-import type { PkgDependsKind, WorkspacePackage } from "./workspace-packages.ts"
+} from "../../../../akasha/checks/cluster-checks/modules/tailwind-sources-violations/tailwind-sources-violations.module.code.ts"
+import type {
+  PkgDependsKind,
+  WorkspacePackage,
+} from "../../../../akasha/checks/cluster-checks/modules/workspace-packages/workspace-packages.module.code.ts"
 
 export const REPO_ROOT = "/repo"
 
@@ -17,9 +23,7 @@ export function workspacePackage(
   return { name, path, sourceRoot: path, hasTsconfig: true, dependencies }
 }
 
-export function dependsOn(
-  ...names: readonly string[]
-): ReadonlyMap<string, PkgDependsKind> {
+export function dependsOn(...names: readonly string[]): ReadonlyMap<string, PkgDependsKind> {
   const out = new Map<string, PkgDependsKind>()
   for (const name of names) out.set(name, "dependencies")
   return out

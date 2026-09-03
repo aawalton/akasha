@@ -5,16 +5,6 @@ import { join, relative, resolve } from "node:path"
 import { isSynthPath } from "@akasha/k8s-synth/synth-discovery"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { z } from "zod"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  detectsBunRunStartCommand,
-  findStartScriptViolations,
-  resolveOwningWorkspace,
-  type StartContainerSite,
-  type StartScriptFinding,
-} from "../../../../../infra/cluster-checks/src/lib/start-script-rules.ts"
 import {
   examineFilePopulation,
   type Population,
@@ -25,6 +15,16 @@ import {
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  detectsBunRunStartCommand,
+  findStartScriptViolations,
+  resolveOwningWorkspace,
+  type StartContainerSite,
+  type StartScriptFinding,
+} from "../../modules/start-script-rules/start-script-rules.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

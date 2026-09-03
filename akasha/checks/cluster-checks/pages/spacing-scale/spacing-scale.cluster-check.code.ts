@@ -1,15 +1,24 @@
 #!/usr/bin/env bun
 
 import { readFileSync } from "node:fs"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
+import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
+import {
+  examinePopulation,
+  type Population,
+} from "../../../../../tools/lib/check-workflow/population"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   type DimensionLiteral,
   findDimensionLiterals,
   findScaleDrift,
   judgeLiterals,
   type SpacingViolation,
-} from "../../../../../infra/cluster-checks/src/lib/spacing-scale.ts"
+} from "../../modules/spacing-scale/spacing-scale.module.code.ts"
 import {
   deriveSeamJoins,
   deriveWidgetSites,
@@ -23,16 +32,7 @@ import {
   WIDGETS_OUTSIDE_THE_SCALE,
   type WidgetScopeViolation,
   type WidgetSite,
-} from "../../../../../infra/cluster-checks/src/lib/widget-sites.ts"
-import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
-import {
-  examinePopulation,
-  type Population,
-} from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
+} from "../../modules/widget-sites/widget-sites.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

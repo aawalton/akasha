@@ -3,34 +3,34 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
+import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
 import {
   type CssFile,
   readCssFiles,
-} from "../../../../../infra/cluster-checks/src/lib/css-source-directives.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
+} from "../../modules/css-source-directives/css-source-directives.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   enumerateTailwindApps,
   enumerateTailwindCandidates,
   examineTailwindApp,
   type TailwindApp,
   type TailwindSourceViolation,
-} from "../../../../../infra/cluster-checks/src/lib/tailwind-sources-violations.ts"
+} from "../../modules/tailwind-sources-violations/tailwind-sources-violations.module.code.ts"
 import {
   type TreeReading,
   treeReadingAt,
-} from "../../../../../infra/cluster-checks/src/lib/tree-reading.ts"
+} from "../../modules/tree-reading/tree-reading.module.code.ts"
 import {
   readWorkspacePackages,
   type WorkspacePackage,
   workspaceOwnerOf,
-} from "../../../../../infra/cluster-checks/src/lib/workspace-packages.ts"
-import { discoverWorkspaceTsFiles } from "../../../../../infra/cluster-checks/src/lib/workspace-ts-files.ts"
-import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
+} from "../../modules/workspace-packages/workspace-packages.module.code.ts"
+import { discoverWorkspaceTsFiles } from "../../modules/workspace-ts-files/workspace-ts-files.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

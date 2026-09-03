@@ -1,4 +1,4 @@
-import type { FlagSpec } from "../cli-args"
+import type { FlagSpec } from "../../../../../akasha/checks/cluster-checks/modules/cli-args/cli-args.module.code.ts"
 import { buildWorkflowSurface, scannedFilePaths } from "./build"
 import { readCachedSurface } from "./read"
 import { PROBE_CONTEXT_IDS, surfaceFilePaths, type WorkflowSurface } from "./surface"

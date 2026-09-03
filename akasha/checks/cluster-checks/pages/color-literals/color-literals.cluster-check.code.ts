@@ -2,19 +2,6 @@
 
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import {
-  type ChangeClosure,
-  describeClosure,
-  resolveChangeClosure,
-} from "../../../../../infra/cluster-checks/src/lib/change-closure.ts"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  type ColorLiteralViolation,
-  scanFileForColorLiterals,
-  shouldScanColorFile,
-} from "../../../../../infra/cluster-checks/src/lib/color-literal-scan.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
 import {
   examineFilePopulation,
@@ -25,6 +12,19 @@ import {
   exitOnResult,
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import {
+  type ChangeClosure,
+  describeClosure,
+  resolveChangeClosure,
+} from "../../modules/change-closure/change-closure.module.code.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  type ColorLiteralViolation,
+  scanFileForColorLiterals,
+  shouldScanColorFile,
+} from "../../modules/color-literal-scan/color-literal-scan.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
@@ -36,8 +36,8 @@ const FLAG_SPEC = {
 } as const
 
 const CLOSURE_WIDENING_PATHS = [
-  "infra/cluster-checks/src/lib/color-literal-scan.ts",
-  "infra/cluster-checks/src/lib/color-literal-grants.ts",
+  "akasha/checks/cluster-checks/modules/color-literal-scan/color-literal-scan.module.code.ts",
+  "akasha/checks/cluster-checks/modules/color-literal-grants/color-literal-grants.module.code.ts",
   "infra/cluster-checks/src/checks/check-color-literals.ts",
 ]
 
@@ -124,7 +124,7 @@ function main(): never {
       format: flags.json ? "json" : "human",
       prefix: PREFIX,
       header:
-        "Hand-rolled color literals outside design-system tokens. The rule is Standardized Palette: reference a design-system token, or obtain an Alan grant and record it against the literal in COLOR_LITERAL_ALLOWLIST in infra/cluster-checks/src/lib/color-literal-grants.ts",
+        "Hand-rolled color literals outside design-system tokens. The rule is Standardized Palette: reference a design-system token, or obtain an Alan grant and record it against the literal in COLOR_LITERAL_ALLOWLIST in akasha/checks/cluster-checks/modules/color-literal-grants/color-literal-grants.module.code.ts",
       successMessage: "No unexempted hand-rolled color literals.",
       formatViolation: (v) => `${v.file}:${v.line} — ${v.value}`,
     },

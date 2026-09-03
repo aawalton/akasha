@@ -1,4 +1,4 @@
-import { detectRequiredType } from "../test-classification"
+import { detectRequiredType } from "../../../../../akasha/checks/cluster-checks/modules/test-classification/test-classification.module.code.ts"
 
 export const tok = (...parts: readonly string[]) => parts.join("")
 export const fromImport = (spec: string) => `${tok("fr", "om ")}"${spec}"`

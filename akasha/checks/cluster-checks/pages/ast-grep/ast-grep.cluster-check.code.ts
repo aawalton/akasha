@@ -2,8 +2,6 @@ import { spawnSync } from "node:child_process"
 import { relative, resolve } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { z } from "zod"
-import { parseArgs, STANDARD_FLAGS } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
 import {
   type AstGrepFinding,
   type AstGrepViolation,
@@ -20,6 +18,8 @@ import {
 } from "../../../../../tools/lib/check-workflow/check-configs-ast-grep"
 import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
 import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
 
 const PREFIX = "[ast-grep]"
 

@@ -3,9 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import { parseArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import { computeRuntimeExportSurface } from "../../../../../infra/cluster-checks/src/lib/runtime-export-surface.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import {
   exitOnResult,
@@ -22,6 +19,9 @@ import {
   tsFileNodeIdToCodeRepoRel,
 } from "../../../../../tools/lib/graph/producers/file/ts-file/types.ts"
 import type { Graph } from "../../../../../tools/lib/graph/types.ts"
+import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import { computeRuntimeExportSurface } from "../../modules/runtime-export-surface/runtime-export-surface.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

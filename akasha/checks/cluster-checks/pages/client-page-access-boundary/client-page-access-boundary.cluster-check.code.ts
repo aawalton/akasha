@@ -2,14 +2,6 @@
 
 import { relative } from "node:path"
 import ts from "typescript"
-import { parseArgs, STANDARD_FLAGS } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  type ClientPageAccessFinding,
-  type ClientPageAccessKind,
-  scanClientPageAccess,
-} from "../../../../../infra/cluster-checks/src/lib/ts-client-page-access.ts"
 import {
   FILESYSTEM_WALK_EXEMPT_DIRS,
   findFiles,
@@ -22,6 +14,14 @@ import {
   exitOnResult,
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  type ClientPageAccessFinding,
+  type ClientPageAccessKind,
+  scanClientPageAccess,
+} from "../../modules/ts-client-page-access/ts-client-page-access.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

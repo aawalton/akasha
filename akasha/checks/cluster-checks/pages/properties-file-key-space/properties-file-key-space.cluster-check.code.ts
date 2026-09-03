@@ -3,17 +3,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import { parseArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  CANARY_FIXTURE,
-  canaryDisagreement,
-  KEY_SPACE_SCAN_BOUND,
-  PROPERTIES_FILE_CANONICAL_KEY,
-  PROPERTIES_FILE_WRONG_KEY,
-  scanPropertiesFileKeySpace,
-} from "../../../../../infra/cluster-checks/src/lib/properties-file-key-space.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
 import {
   examineFilePopulation,
@@ -23,6 +12,17 @@ import {
   exitOnResult,
   type Violation,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  CANARY_FIXTURE,
+  canaryDisagreement,
+  KEY_SPACE_SCAN_BOUND,
+  PROPERTIES_FILE_CANONICAL_KEY,
+  PROPERTIES_FILE_WRONG_KEY,
+  scanPropertiesFileKeySpace,
+} from "../../modules/properties-file-key-space/properties-file-key-space.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

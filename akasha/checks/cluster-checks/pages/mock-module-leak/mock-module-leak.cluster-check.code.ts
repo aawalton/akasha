@@ -3,21 +3,6 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
-import {
-  type BarrelRebindingFinding,
-  findBarrelRebindingViolations,
-} from "../../../../../infra/cluster-checks/src/lib/barrel-rebinding.ts"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  type FetchSeamLeakFinding,
-  findFetchSeamLeakViolations,
-} from "../../../../../infra/cluster-checks/src/lib/fetch-seam-leak.ts"
-import {
-  buildMockLeakContext,
-  type MockLeakContext,
-  slotKeyOf,
-} from "../../../../../infra/cluster-checks/src/lib/mock-module-leak-context.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import {
@@ -27,6 +12,21 @@ import {
 import { buildFrom, readAt } from "../../../../../tools/lib/graph/held-snapshot.ts"
 import { readRepoFile } from "../../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../../tools/lib/graph/types.ts"
+import {
+  type BarrelRebindingFinding,
+  findBarrelRebindingViolations,
+} from "../../modules/barrel-rebinding/barrel-rebinding.module.code.ts"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  type FetchSeamLeakFinding,
+  findFetchSeamLeakViolations,
+} from "../../modules/fetch-seam-leak/fetch-seam-leak.module.code.ts"
+import {
+  buildMockLeakContext,
+  type MockLeakContext,
+  slotKeyOf,
+} from "../../modules/mock-module-leak-context/mock-module-leak-context.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

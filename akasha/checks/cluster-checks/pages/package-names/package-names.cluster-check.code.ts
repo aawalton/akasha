@@ -2,12 +2,12 @@
 
 import { resolve } from "node:path"
 import { z } from "zod"
-import { parseArgs, REPO_ROOT_FLAG } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
 import { exitOnResult } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
+import { parseArgs, REPO_ROOT_FLAG } from "../../modules/cli-args/cli-args.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

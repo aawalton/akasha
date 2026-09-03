@@ -2,21 +2,21 @@
 
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import {
-  loadRepoContext,
-  parseArgs,
-} from "../../../../../infra/cluster-checks/src/checks/check-unused-deps-context.ts"
-import { findingsForWorkspace } from "../../../../../infra/cluster-checks/src/checks/check-unused-deps-credit.ts"
-import type {
-  CliArgs,
-  Finding,
-  RepoContext,
-} from "../../../../../infra/cluster-checks/src/checks/check-unused-deps-types.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
   exitOnResult,
   exitOnToolError,
   type Violation,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import {
+  loadRepoContext,
+  parseArgs,
+} from "../../modules/check-unused-deps-context/check-unused-deps-context.module.code.ts"
+import { findingsForWorkspace } from "../../modules/check-unused-deps-credit/check-unused-deps-credit.module.code.ts"
+import type {
+  CliArgs,
+  Finding,
+  RepoContext,
+} from "../../modules/check-unused-deps-types/check-unused-deps-types.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

@@ -5,19 +5,6 @@ import { resolve } from "node:path"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { z } from "zod"
-import { parseArgs as parseCliArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  type FixpointWorkspace,
-  runFunctionalTypeFixpoint,
-} from "../../../../../infra/cluster-checks/src/lib/functional-type-fixpoint.ts"
-import {
-  ACT_BY_KIND,
-  type Finding,
-  findFunctionalTypeViolations,
-  type WorkspaceTypeRead,
-} from "../../../../../infra/cluster-checks/src/lib/functional-type-rules.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import {
   type FunctionalType,
   readFunctionalType,
@@ -33,6 +20,19 @@ import {
   type Violation,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
+import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  type FixpointWorkspace,
+  runFunctionalTypeFixpoint,
+} from "../../modules/functional-type-fixpoint/functional-type-fixpoint.module.code.ts"
+import {
+  ACT_BY_KIND,
+  type Finding,
+  findFunctionalTypeViolations,
+  type WorkspaceTypeRead,
+} from "../../modules/functional-type-rules/functional-type-rules.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

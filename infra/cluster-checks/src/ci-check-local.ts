@@ -1,16 +1,15 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "./lib/retired.ts"
-
+import { getRepoRoot } from "../../../akasha/checks/cluster-checks/modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../../akasha/checks/cluster-checks/modules/retired/retired.module.code.ts"
+import { routedCheckArgv } from "../../../tools/lib/check-workflow/run-check-routing.ts"
+import { emitVerdict } from "../../../tools/lib/verdict-channel"
 import {
   decideLocalCheckExit,
   decideLocalCheckVerdict,
   type LocalCheckResult,
   localStatusForCheckExit,
 } from "./lib/local-check-verdict"
-import { getRepoRoot } from "./lib/repo-root"
-import { routedCheckArgv } from "../../../tools/lib/check-workflow/run-check-routing.ts"
-import { emitVerdict } from "../../../tools/lib/verdict-channel"
 
 if (import.meta.main) refuseRetired()
 

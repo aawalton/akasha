@@ -5,37 +5,6 @@ import { codeRoot } from "@akasha/pages-system/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import ts from "typescript"
 import {
-  ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
-  ALLOWED_CYCLES,
-  ALLOWED_MISSING_REFERENCES,
-  ALLOWED_NON_CANONICAL_INCLUDE,
-  ALLOWED_SPURIOUS_REFERENCES,
-} from "../../../../../infra/cluster-checks/src/lib/check-tsconfig-allowlists.ts"
-import { parseArgs } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
-import {
-  type TreeReading,
-  treeReadingAt,
-} from "../../../../../infra/cluster-checks/src/lib/tree-reading.ts"
-import {
-  evaluateTsconfigConventions,
-  type TsconfigDrains,
-  type Violation,
-} from "../../../../../infra/cluster-checks/src/lib/tsconfig-conventions.ts"
-import {
-  cycleKey,
-  findCycles,
-  getReferencedPaths,
-  type ImportGraphs,
-} from "../../../../../infra/cluster-checks/src/lib/tsconfig-import-graph.ts"
-import { rollUpPackageImportGraphs } from "../../../../../infra/cluster-checks/src/lib/tsconfig-import-graph-rollup.ts"
-import {
-  groupHeading,
-  guidedText,
-} from "../../../../../infra/cluster-checks/src/lib/tsconfig-rule-guidance.ts"
-import { validateNestedPackageContainment } from "../../../../../infra/cluster-checks/src/lib/tsconfig-source-layout.ts"
-import { workspaceDirsIn } from "../../../../../infra/cluster-checks/src/lib/workspace-packages.ts"
-import {
   type FunctionalType,
   FunctionalTypeSchema,
 } from "../../../../../tools/lib/check-workflow/functional-type"
@@ -44,6 +13,37 @@ import {
   exitOnResult,
   exitOnToolError,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import {
+  ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
+  ALLOWED_CYCLES,
+  ALLOWED_MISSING_REFERENCES,
+  ALLOWED_NON_CANONICAL_INCLUDE,
+  ALLOWED_SPURIOUS_REFERENCES,
+} from "../../modules/check-tsconfig-allowlists/check-tsconfig-allowlists.module.code.ts"
+import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
+import {
+  type TreeReading,
+  treeReadingAt,
+} from "../../modules/tree-reading/tree-reading.module.code.ts"
+import {
+  evaluateTsconfigConventions,
+  type TsconfigDrains,
+  type Violation,
+} from "../../modules/tsconfig-conventions/tsconfig-conventions.module.code.ts"
+import {
+  cycleKey,
+  findCycles,
+  getReferencedPaths,
+  type ImportGraphs,
+} from "../../modules/tsconfig-import-graph/tsconfig-import-graph.module.code.ts"
+import { rollUpPackageImportGraphs } from "../../modules/tsconfig-import-graph-rollup/tsconfig-import-graph-rollup.module.code.ts"
+import {
+  groupHeading,
+  guidedText,
+} from "../../modules/tsconfig-rule-guidance/tsconfig-rule-guidance.module.code.ts"
+import { validateNestedPackageContainment } from "../../modules/tsconfig-source-layout/tsconfig-source-layout.module.code.ts"
+import { workspaceDirsIn } from "../../modules/workspace-packages/workspace-packages.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

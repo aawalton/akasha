@@ -2,8 +2,6 @@
 
 import { realpathSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { findFiles } from "../../../../../tools/lib/check-workflow/file-finder"
 import {
   examineFilePopulation,
@@ -14,6 +12,8 @@ import {
   exitOnToolError,
   type Violation,
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

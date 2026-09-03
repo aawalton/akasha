@@ -2,13 +2,6 @@
 
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { parseArgs, STANDARD_FLAGS } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import {
-  findOrphanSources,
-  type OrphanReport,
-} from "../../../../../infra/cluster-checks/src/lib/orphan-source.ts"
-import { getRepoRoot } from "../../../../../infra/cluster-checks/src/lib/repo-root.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
 import { examinePopulation } from "../../../../../tools/lib/check-workflow/population"
 import {
   exitOnResult,
@@ -16,6 +9,13 @@ import {
 } from "../../../../../tools/lib/check-workflow/violation-reporter"
 import { listWorkspaceDirs } from "../../../../../tools/lib/check-workflow/workspace-paths"
 import { repoFilesAt } from "../../../../../tools/lib/repo-files-at.ts"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import {
+  findOrphanSources,
+  type OrphanReport,
+} from "../../modules/orphan-source/orphan-source.module.code.ts"
+import { getRepoRoot } from "../../modules/repo-root/repo-root.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 

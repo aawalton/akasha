@@ -5,26 +5,27 @@ import { join } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { z } from "zod"
-import { parseArgs, STANDARD_FLAGS } from "../../../../../infra/cluster-checks/src/lib/cli-args.ts"
-import { refuseRetired } from "../../../../../infra/cluster-checks/src/lib/retired.ts"
+import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../../../../tools/lib/check-workflow/violation-reporter"
+import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
+import { refuseRetired } from "../../modules/retired/retired.module.code.ts"
 import {
   BYPASS_PREDICATES,
   BYPASS_SIZE,
   type CheckScript,
   classifyEmission,
   reconcileChokepoint,
-} from "../../../../../infra/cluster-checks/src/lib/verdict-emitter-chokepoint.ts"
-import { examineFilePopulation } from "../../../../../tools/lib/check-workflow/population"
-import {
-  exitOnResult,
-  exitOnToolError,
-} from "../../../../../tools/lib/check-workflow/violation-reporter"
+} from "../../modules/verdict-emitter-chokepoint/verdict-emitter-chokepoint.module.code.ts"
 
 if (import.meta.main) refuseRetired()
 
 const PREFIX = "[verdict-emitter-chokepoint]"
 const CHECK_SCRIPTS_DIR = "packages/infra/checks/src/checks"
-const CONFIG_FILE = "infra/cluster-checks/src/lib/verdict-emitter-chokepoint.config.json"
+const CONFIG_FILE =
+  "akasha/checks/cluster-checks/pages/verdict-emitter-chokepoint/verdict-emitter-chokepoint.config.json"
 
 const CONFIG_SCHEMA = z
   .object({ bypass: z.record(z.string(), z.enum(BYPASS_PREDICATES)).optional() })
