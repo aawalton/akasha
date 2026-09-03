@@ -33,6 +33,7 @@ export const temperAddonData = {
     "module/curse-mappings",
     "module/failing-alone",
     "module/food-mappings",
+    "module/generate-addon-data",
     "module/inventory-output-summary",
     "module/inventory-trait-mappings",
     "module/mapping-generator-writes",

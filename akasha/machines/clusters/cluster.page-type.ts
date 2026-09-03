@@ -9,6 +9,7 @@ export const cluster = {
   slug: "cluster",
   definition: "the machines in Alan's home lab",
   pluralSlug: "clusters",
+  partSlugs: ["cluster/main"],
   extendsSlug: "page-type/host",
   invariants: [
     {

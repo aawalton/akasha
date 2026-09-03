@@ -12,5 +12,6 @@ export const fileSystem = {
     "module/data-place",
     "module/exclusive",
     "module/lock-holder",
+    "module/lock-holder-runs",
   ],
 } as const satisfies WorkspacePackage

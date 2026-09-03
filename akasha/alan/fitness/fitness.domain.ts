@@ -19,5 +19,6 @@ export const fitness = {
     "workspace-package/exercise-access",
     "workspace-package/session-planning",
     "workspace-package/exercise-commands",
+    "page-type/selection-policy",
   ],
 } as const satisfies Domain

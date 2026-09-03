@@ -36,6 +36,7 @@ export const googleEmail = {
     "command/email-messages-send",
     "command/email-messages-trash",
     "command/email-unsubscribe",
+    "module/email-command-help",
   ],
   invariants: [
     {
