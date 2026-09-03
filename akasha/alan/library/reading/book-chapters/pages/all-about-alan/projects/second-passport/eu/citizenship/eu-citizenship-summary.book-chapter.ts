@@ -1,7 +1,7 @@
 import type { BookChapter } from "../../../../../../../book-chapter.page-type.ts"
 
 export const euCitizenshipSummary = {
-  id: "01a06591-9ed8-7001-92d0-212126182985",
+  id: "01a06593-c4fc-700d-a31a-a03c26182985",
   pageTypeSlug: "book-chapter",
   slug: "eu-citizenship-summary",
   title: "Summary",
