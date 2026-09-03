@@ -1,0 +1,8 @@
+{
+  "always": ["--dangerously-skip-permissions"],
+  "withMcpConfig": [
+    "--strict-mcp-config",
+    "--dangerously-load-development-channels",
+    "server:messages"
+  ]
+}

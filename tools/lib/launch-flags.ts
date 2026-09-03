@@ -3,7 +3,8 @@ import { readFileSync } from "node:fs"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { shape } from "./shape.ts"
 
-const DECLARED = "settings/launch-flags.json"
+const DECLARED =
+  "akasha/seat-system/agent-settings/pages/launch-flags/launch-flags.agent-settings.harness-settings.json"
 
 const Declaration = shape.object({
   always: shape.array(shape.string()),

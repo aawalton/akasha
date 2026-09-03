@@ -2,13 +2,14 @@ export const summary =
   "Cycle every seat whose client started before the settings standing now, so a registration change reaches the running fleet"
 
 import { readdirSync, readFileSync, statSync } from "node:fs"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatsPresent } from "../../../lib/seat-roster.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
 
-const SETTINGS = "settings/agents.json"
+const SETTINGS =
+  "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"
 
 const CLI = new URL("../../../ops/cli.ts", import.meta.url).pathname
 
@@ -23,7 +24,11 @@ export const help: CommandHelp = {
     { name: "--dry-run", description: "Name what is stale and cycle none of it" },
     { name: "--json", description: "Emit JSON records instead of the TSV summary" },
   ],
-  examples: ["ops seat fleet restart", "ops seat fleet restart --dry-run", "ops seat fleet restart --json"],
+  examples: [
+    "ops seat fleet restart",
+    "ops seat fleet restart --dry-run",
+    "ops seat fleet restart --json",
+  ],
 }
 
 function settingsSettledAtMs(): number | null {
@@ -45,9 +50,7 @@ function clientStartedAtMs(agentId: string): number | null {
       if (!readFileSync(`${PROC}/${entry}/cmdline`, "utf8").includes(CLIENT_MARK)) continue
       if (!readFileSync(`${PROC}/${entry}/environ`, "utf8").split("\0").includes(wanted)) continue
       return statSync(`${PROC}/${entry}`).mtimeMs
-    } catch {
-      continue
-    }
+    } catch {}
   }
   return null
 }

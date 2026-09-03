@@ -1,4 +1,3 @@
-
 import { spawnSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
@@ -8,8 +7,10 @@ const LOG = "[spawn-settings]"
 
 export const AGENT_SETTINGS_COMMAND = "agent-settings"
 
-export const AGENT_SETTINGS_PATH = new URL("../../settings/agents.json", import.meta.url)
-  .pathname
+export const AGENT_SETTINGS_PATH = new URL(
+  "../../akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json",
+  import.meta.url
+).pathname
 
 export const PER_SPAWN_KEYS = ["remoteControlAtStartup"] as const
 
@@ -106,7 +107,7 @@ function warnAbsent(reason: string): undefined {
     `${LOG} agent settings NOT loaded: \`${AGENT_SETTINGS_COMMAND}\` — ${reason}.\n` +
       `${LOG} this spawn carries only the per-spawn overrides; every key the ` +
       `document declares (hooks, env, permissions, fastMode, statusLine) is inert ` +
-      `for it. Restore settings/agents.json.`
+      `for it. Restore akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json.`
   )
 }
 

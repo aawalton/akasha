@@ -7,6 +7,7 @@ export const seatSystem = {
   definition: "a place an agent works from, and what stands there while it does",
   manifest: "json",
   partSlugs: [
+    "page-type/agent-settings",
     "page-type/seat",
     "page-type/subagent",
     "page-type/supervisor-action",

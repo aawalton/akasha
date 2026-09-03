@@ -1,17 +1,17 @@
-
 import { readFileSync } from "node:fs"
 
 import type { HookRegistration } from "./lib/akasha-hooks.ts"
 import { hooksFrom, hooksMerged } from "./lib/akasha-hooks.ts"
 
-const SETTINGS_RELPATH = "settings/agents.json"
+const SETTINGS_RELPATH =
+  "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"
 
 const EXIT_INPUT = 1
 const EXIT_DATA = 2
 
 const HELP = `bun tools/agent-settings.ts — print the fleet's agent settings document
 
-Prints \`settings/agents.json\` from this repository verbatim, as JSON on stdout. This is
+Prints \`akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository verbatim, as JSON on stdout. This is
 how a module elsewhere in this repository reaches that document: it is edited here and live on
 the commit, so nothing over there opens it by path.
 
@@ -43,7 +43,10 @@ function main(): void {
   }
   const stray = argv.find((arg) => arg !== "")
   if (stray !== undefined) {
-    refuse(`\`${stray}\` is not an argument this command takes — it takes none. See --help`, EXIT_INPUT)
+    refuse(
+      `\`${stray}\` is not an argument this command takes — it takes none. See --help`,
+      EXIT_INPUT
+    )
   }
 
   const path = new URL(`../${SETTINGS_RELPATH}`, import.meta.url).pathname
@@ -91,7 +94,9 @@ function main(): void {
     )
   }
 
-  process.stdout.write(`${JSON.stringify({ ...document, hooks: hooksMerged(document["hooks"], derived) })}\n`)
+  process.stdout.write(
+    `${JSON.stringify({ ...document, hooks: hooksMerged(document["hooks"], derived) })}\n`
+  )
 }
 
 if (import.meta.main) main()

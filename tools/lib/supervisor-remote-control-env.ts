@@ -1,4 +1,3 @@
-
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { shape } from "./shape.ts"
@@ -38,7 +37,10 @@ function readCredentialFileSync(
   }
 }
 
-const RC_SETTINGS_PATH = new URL("../../settings/remote-control.json", import.meta.url).pathname
+const RC_SETTINGS_PATH = new URL(
+  "../../akasha/seat-system/agent-settings/pages/remote-control/remote-control.agent-settings.harness-settings.json",
+  import.meta.url
+).pathname
 
 const RC_SETTINGS_SCHEMA = shape.object({
   fallbackScopes: shape.array(shape.string()),

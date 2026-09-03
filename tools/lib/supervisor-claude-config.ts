@@ -1,7 +1,9 @@
 import { readFileSync } from "node:fs"
 
-export const CLAUDE_CONFIG_PATH = new URL("../../settings/claude-config.json", import.meta.url)
-  .pathname
+export const CLAUDE_CONFIG_PATH = new URL(
+  "../../akasha/seat-system/agent-settings/pages/claude-config/claude-config.agent-settings.harness-settings.json",
+  import.meta.url
+).pathname
 
 const HOME_TOKEN = "$HOME"
 

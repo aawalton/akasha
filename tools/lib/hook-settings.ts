@@ -1,8 +1,9 @@
+import { AKASHA, isAddressable, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize, isInside } from "@akasha/pages-system/repo-path"
-import { AKASHA, isAddressable, rootFor } from "@akasha/pages-system/checkout-roots"
 
-export const SETTINGS_PATH = "settings/agents.json"
+export const SETTINGS_PATH =
+  "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"
 
 export const HOOK_DIR = "tools/hooks"
 

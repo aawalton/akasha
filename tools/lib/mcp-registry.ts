@@ -1,14 +1,14 @@
 import { readFileSync } from "node:fs"
-
-import type { McpServerConfig } from "./claude-launch-args.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import type { McpServerConfig } from "./claude-launch-args.ts"
 import { shape } from "./shape.ts"
 import { expandHome } from "./supervisor-claude-config.ts"
 import { HOME_DIR } from "./supervisor-config.ts"
 
 export type { McpServerConfig }
 
-const DECLARED = "settings/mcp-servers.json"
+const DECLARED =
+  "akasha/seat-system/agent-settings/pages/mcp-servers/mcp-servers.agent-settings.harness-settings.json"
 
 const INSTRUCTIONS_TOKEN = "$INSTRUCTIONS"
 
