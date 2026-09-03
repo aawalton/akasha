@@ -1,4 +1,4 @@
-import { WALK_SKIP_DIRS } from "../../../../../tools/lib/graph/producers/file/ts-file/discover-workspace-walk.ts"
+import { WALK_SKIP_DIRS } from "../tree-globs/tree-globs.module.code.ts"
 
 export interface OrphanReport {
   readonly file: string

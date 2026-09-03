@@ -10,6 +10,7 @@
     "@akasha/ci-benchmark": "workspace:*",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/git": "workspace:*",
+    "@akasha/graph-system": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-completion": "workspace:*",

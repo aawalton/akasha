@@ -10,6 +10,7 @@ export const graphSystem = {
     "page-type/graph-node",
     "page-type/graph-edge",
     "page-type/graph-attribute",
+    "module/file-kind-authorship",
     "module/graph-asking",
   ],
   invariants: [

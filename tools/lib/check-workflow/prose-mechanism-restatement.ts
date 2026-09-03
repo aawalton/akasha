@@ -1,8 +1,5 @@
 import { classifyExtension, type FileKind } from "@akasha/code-system/file-kind"
-import {
-  FILE_KIND_FACTS,
-  type FileKindNodeType,
-} from "../graph/producers/file/file-kind-authorship.ts"
+import { type FileKindNodeType, nodeTypeOf } from "@akasha/graph-system/file-kind-authorship"
 import { blankCode, type CommentSyntax } from "./blank-comments.ts"
 
 export interface Restatement {
@@ -65,9 +62,8 @@ export const PROSE_CARRIER_KINDS: readonly FileKind[] = Object.keys(PROSE_FORM)
   .filter(isFileKind)
   .filter((kind) => PROSE_FORM[kind].kind !== "unlexed")
 
-export const PROSE_CARRIER_NODE_TYPES: readonly FileKindNodeType[] = PROSE_CARRIER_KINDS.map(
-  (kind) => FILE_KIND_FACTS[kind].nodeType
-)
+export const PROSE_CARRIER_NODE_TYPES: readonly FileKindNodeType[] =
+  PROSE_CARRIER_KINDS.map(nodeTypeOf)
 
 export const UNLEXED_KINDS: readonly FileKind[] = Object.keys(PROSE_FORM)
   .filter(isFileKind)

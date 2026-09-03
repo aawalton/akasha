@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./file-kind-authorship": "./file-kind-authorship/file-kind-authorship.module.code.ts",
     "./graph-asking": "./graph-asking/graph-asking.module.code.ts",
     "./import-edge": "./graph-edges/pages/import-edge.graph-edge.ts"
   }
