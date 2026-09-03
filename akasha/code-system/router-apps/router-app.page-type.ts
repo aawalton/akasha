@@ -23,6 +23,7 @@ export const routerApp = {
     "named-file-property/route-table",
     "named-file-property/router-config",
     "named-file-property/server-entry",
+    "type-declaration/vite-client",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
