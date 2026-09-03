@@ -444,7 +444,7 @@ export type Expression =
   | ParenthesizedExpression
   | ConditionalExpression
 
-declare module "./LuaAST-core" {
+declare module "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts" {
   interface NodeKindMap {
     [SyntaxKind.NilKeyword]: NilLiteral
     [SyntaxKind.TrueKeyword]: BooleanLiteral

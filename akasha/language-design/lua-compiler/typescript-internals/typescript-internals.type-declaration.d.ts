@@ -49,7 +49,7 @@ declare module "typescript" {
 
   interface Program {
     getCommonSourceDirectory(): string
-    getCompilerOptions(): import("../CompilerOptions").CompilerOptions
+    getCompilerOptions(): import("../tstl-compiler-options/tstl-compiler-options.module.code.ts").CompilerOptions
   }
 
   interface Node {

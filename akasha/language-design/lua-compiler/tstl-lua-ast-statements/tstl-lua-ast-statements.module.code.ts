@@ -376,7 +376,7 @@ export type Statement =
   | ContinueStatement
   | ExpressionStatement
 
-declare module "./LuaAST-core" {
+declare module "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts" {
   interface NodeKindMap {
     [SyntaxKind.File]: File
     [SyntaxKind.Block]: Block
