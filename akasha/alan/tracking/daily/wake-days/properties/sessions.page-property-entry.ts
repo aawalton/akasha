@@ -25,7 +25,8 @@ export const sessions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A question about a stretch is identified by a mark made when the stretch opened.",
+      statement:
+        "A question about a stretch is identified by a mark minted when the row is written.",
     },
     {
       invariantKind: "departure",
