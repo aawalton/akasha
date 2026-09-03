@@ -3,9 +3,21 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./addon-data-output-dirs": "./addon-data-output-dirs/addon-data-output-dirs.module.code.ts",
     "./addon-data-page-rows": "./addon-data-page-rows/addon-data-page-rows.module.code.ts",
     "./addon-data-pages": "./addon-data-pages/addon-data-pages.module.code.ts",
     "./addon-data-target": "./addon-data-target/addon-data-target.module.code.ts",
+    "./addon-data-writes": "./addon-data-writes/addon-data-writes.module.code.ts",
+    "./addon-data-writes-alchemy": "./addon-data-writes-alchemy/addon-data-writes-alchemy.module.code.ts",
+    "./addon-data-writes-codec": "./addon-data-writes-codec/addon-data-writes-codec.module.code.ts",
+    "./addon-data-writes-companion-mappings": "./addon-data-writes-companion-mappings/addon-data-writes-companion-mappings.module.code.ts",
+    "./addon-data-writes-equipment": "./addon-data-writes-equipment/addon-data-writes-equipment.module.code.ts",
+    "./addon-data-writes-inventory": "./addon-data-writes-inventory/addon-data-writes-inventory.module.code.ts",
+    "./addon-data-writes-rules": "./addon-data-writes-rules/addon-data-writes-rules.module.code.ts",
+    "./addon-data-writes-scribing": "./addon-data-writes-scribing/addon-data-writes-scribing.module.code.ts",
+    "./addon-data-writes-sets": "./addon-data-writes-sets/addon-data-writes-sets.module.code.ts",
+    "./addon-data-writes-skills": "./addon-data-writes-skills/addon-data-writes-skills.module.code.ts",
+    "./addon-data-writes-stats": "./addon-data-writes-stats/addon-data-writes-stats.module.code.ts",
     "./alliance-mappings": "./alliance-mappings/alliance-mappings.module.code.ts",
     "./catalog-sidecars": "./catalog-sidecars/catalog-sidecars.module.code.ts",
     "./champion-point-mappings": "./champion-point-mappings/champion-point-mappings.module.code.ts",
@@ -17,11 +29,15 @@
     "./curse-mappings": "./curse-mappings/curse-mappings.module.code.ts",
     "./failing-alone": "./failing-alone/failing-alone.module.code.ts",
     "./food-mappings": "./food-mappings/food-mappings.module.code.ts",
+    "./inventory-output-summary": "./inventory-output-summary/inventory-output-summary.module.code.ts",
     "./inventory-trait-mappings": "./inventory-trait-mappings/inventory-trait-mappings.module.code.ts",
+    "./mapping-generator-writes": "./mapping-generator-writes/mapping-generator-writes.module.code.ts",
     "./mapping-renders": "./mapping-renders/mapping-renders.module.code.ts",
+    "./mapping-totals": "./mapping-totals/mapping-totals.module.code.ts",
     "./mined-motif-coverage": "./mined-motif-coverage/mined-motif-coverage.module.code.ts",
     "./mined-restore-potions": "./mined-restore-potions/mined-restore-potions.module.code.ts",
     "./mundus-mappings": "./mundus-mappings/mundus-mappings.module.code.ts",
+    "./page-row-totals": "./page-row-totals/page-row-totals.module.code.ts",
     "./passive-skill-mappings": "./passive-skill-mappings/passive-skill-mappings.module.code.ts",
     "./player-skill-mappings": "./player-skill-mappings/player-skill-mappings.module.code.ts",
     "./potion-mappings": "./potion-mappings/potion-mappings.module.code.ts",
@@ -31,7 +47,8 @@
     "./render-scribing-total-script-count": "./render-scribing-total-script-count/render-scribing-total-script-count.module.code.ts",
     "./render-set-category-mappings": "./render-set-category-mappings/render-set-category-mappings.module.code.ts",
     "./scribing-mappings": "./scribing-mappings/scribing-mappings.module.code.ts",
-    "./set-mappings": "./set-mappings/set-mappings.module.code.ts"
+    "./set-mappings": "./set-mappings/set-mappings.module.code.ts",
+    "./validate-equipment-mappings": "./validate-equipment-mappings/validate-equipment-mappings.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-access": "workspace:*",
@@ -49,12 +66,14 @@
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
+    "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
   }
 }
