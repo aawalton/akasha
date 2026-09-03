@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const legLift = {
+  id: "019ebc77-8d35-7431-b048-984476d50505",
+  pageTypeSlug: "exercise",
+  slug: "leg-lift",
+  title: "Leg Lift",
+  exerciseCategory: "strength",
+  equipment: "body-only",
+  exerciseExternalId: "Leg_Lift",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leg_Lift",
+  force: "push",
+  gripDemand: "none",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "isolation",
+  movementPattern: "isolation-other",
+  muscleFocus: "legs",
+  primaryMuscles: ["glutes"],
+  scoringMode: "reps",
+  secondaryMuscles: ["hamstrings"],
+  sfrScore: 4,
+  skillCost: "low",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const legPress = {
+  id: "019ebc77-8d78-7ffb-b07a-757e269916b6",
+  pageTypeSlug: "exercise",
+  slug: "leg-press",
+  title: "Leg Press",
+  exerciseCategory: "strength",
+  equipment: "machine",
+  exerciseExternalId: "Leg_Press",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leg_Press",
+  force: "push",
+  gripDemand: "none",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "squat",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps"],
+  scoringMode: "reps",
+  secondaryMuscles: ["calves", "glutes", "hamstrings"],
+  sfrScore: 3,
+  skillCost: "low",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise
