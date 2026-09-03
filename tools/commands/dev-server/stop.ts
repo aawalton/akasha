@@ -1,19 +1,19 @@
 export const summary = "Stop one (--seq + --app) or all (--all) running dev servers (idempotent)"
 
 import { existsSync, unlinkSync } from "node:fs"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inputError, operationalError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import {
   APP_NAMES,
   type DevServerState,
-  errnoCode,
   isPidAlive,
   listStateFiles,
   lookupApp,
   readStateFile,
   stateFilePath,
-} from "../../lib/dev-server-ops.ts"
+} from "@akasha/service-system/dev-server-stating"
+import { errnoCode } from "@tools/lib/pid-signal"
+import { inputError, operationalError } from "../../lib/exit.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -67,9 +67,7 @@ async function stopOne(state: DevServerState): Promise<StopResult> {
     } catch (err) {
       if (errnoCode(err) !== "ESRCH") {
         const msg = err instanceof Error ? err.message : String(err)
-        throw operationalError(
-          `failed to SIGTERM pid=${pid} for seq=${seq} app=${app}: ${msg}`
-        )
+        throw operationalError(`failed to SIGTERM pid=${pid} for seq=${seq} app=${app}: ${msg}`)
       }
       was_running = false
     }
@@ -138,6 +136,8 @@ export default async function devServerStop(args: readonly string[]): Promise<vo
   }
   for (const result of results) {
     const status = result.was_running ? "was running" : "was stopped"
-    process.stdout.write(`stopped seq=${result.seq} app=${result.app} pid=${result.pid} (${status})\n`)
+    process.stdout.write(
+      `stopped seq=${result.seq} app=${result.app} pid=${result.pid} (${status})\n`
+    )
   }
 }

@@ -1,15 +1,11 @@
 export const summary = "Spawn a React Router dev server, detach it, and write a state file"
 
 import { existsSync, openSync } from "node:fs"
-import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
-import type { CommandHelp } from "../../ops/surface.ts"
-import { inputError, operationalError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import {
   readEnvLocal,
   resolveEnvLocalPath,
   writeEnvLocalFromSops,
-} from "../../lib/dev-server-bootstrap.ts"
+} from "@akasha/service-system/dev-server-env-writing"
 import {
   APP_NAMES,
   computePort,
@@ -20,8 +16,12 @@ import {
   lookupApp,
   readStateFile,
   writeStateFile,
-} from "../../lib/dev-server-ops.ts"
-import { resolveWorktreePath } from "../../lib/dev-server-worktree.ts"
+} from "@akasha/service-system/dev-server-stating"
+import { resolveWorktreePath } from "@akasha/service-system/dev-server-worktree"
+import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
+import { inputError, operationalError } from "../../lib/exit.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -30,7 +30,8 @@ export const help: CommandHelp = {
       argLabel: "<n>",
       valueShape: "token",
       required: true,
-      description: "Branch sequence number (integer); the worktree is resolved from it, a worktree belonging to one branch",
+      description:
+        "Branch sequence number (integer); the worktree is resolved from it, a worktree belonging to one branch",
     },
     {
       name: "--app",
@@ -52,7 +53,8 @@ export const help: CommandHelp = {
       name: "seq",
       required: false,
       aliasOfFlag: "--seq",
-      description: "Branch sequence number (integer); the worktree is resolved from it, a worktree belonging to one branch",
+      description:
+        "Branch sequence number (integer); the worktree is resolved from it, a worktree belonging to one branch",
     },
   ],
   envVars: [
@@ -122,9 +124,7 @@ export default async function devServerStart(args: readonly string[]): Promise<v
   const worktreePath = await resolveWorktreePath(seq)
   const cwd = `${worktreePath}/${app.packagePath}`
   if (!existsSync(cwd)) {
-    throw inputError(
-      `app workspace does not exist: ${cwd} — check --seq and --app are correct`
-    )
+    throw inputError(`app workspace does not exist: ${cwd} — check --seq and --app are correct`)
   }
 
   const envLocalPath = await resolveEnvLocalPath(worktreePath, appName)

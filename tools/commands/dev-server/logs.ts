@@ -2,10 +2,10 @@ export const summary = "Tail the captured stdout+stderr log of a dev server (wit
 
 import { existsSync, statSync, watch } from "node:fs"
 import { open } from "node:fs/promises"
-import type { CommandHelp } from "../../ops/surface.ts"
+import { APP_NAMES, logFilePath, lookupApp } from "@akasha/service-system/dev-server-stating"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { APP_NAMES, logFilePath, lookupApp } from "../../lib/dev-server-ops.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
