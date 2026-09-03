@@ -15,6 +15,7 @@ export const commandSystem = {
     "module/gated-write",
     "module/landing",
     "module/cli",
+    "module/ops-calling",
     "module/asking",
     "module/checked-landing",
     "module/commit-reading",
