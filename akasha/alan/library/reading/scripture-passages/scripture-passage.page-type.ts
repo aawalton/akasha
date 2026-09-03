@@ -1,4 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { ExternalId } from "../../../../collection-system/collection-externals/properties/external-id.text-property.ts"
 import type { Collection } from "../../../../collection-system/collections/collection.page-type.ts"
 import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
 import type { PassageText } from "./properties/passage-text.file-property.ts"
@@ -7,6 +8,7 @@ import type { ScriptureTranslation } from "./properties/scripture-translation.se
 
 export type ScripturePassage = Collection & {
   title: Title
+  externalId?: ExternalId
   book?: ScriptureBook
   translation?: ScriptureTranslation
   passageText?: PassageText
@@ -27,6 +29,7 @@ export const scripturePassage = {
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
+    { pagePropertySlug: "external-id", required: false, many: false },
     { pagePropertySlug: "scripture-book", required: false, many: false },
     { pagePropertySlug: "scripture-translation", required: false, many: false },
     { pagePropertySlug: "passage-text", required: false, many: false },
