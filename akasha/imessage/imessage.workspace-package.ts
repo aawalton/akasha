@@ -13,6 +13,7 @@ export const imessage = {
     "module/chat-db",
     "module/imessage-remote",
     "module/imessage-send",
+    "module/message-lines",
   ],
   invariants: [
     {
