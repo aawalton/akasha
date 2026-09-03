@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
 
 export const totalRetail = {
   id: "01a06594-c68e-7003-8dca-ddfdf606eb5f",

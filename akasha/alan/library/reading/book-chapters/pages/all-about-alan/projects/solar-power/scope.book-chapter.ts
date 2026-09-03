@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const scope = {
   id: "01a06594-c68e-7005-b271-555e516e4d60",

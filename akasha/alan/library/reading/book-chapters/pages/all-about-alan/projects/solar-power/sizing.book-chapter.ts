@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../book-chapter.page-type.ts"
 
 export const sizing = {
   id: "01a06594-c68e-700c-9a9c-c6e3f9ee0198",

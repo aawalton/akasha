@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../book-chapter.page-type.ts"
 
 export const bookChapter008WhenCodeRunsThroughTheCodeRepo = {
   id: "01a06594-c68f-7008-b9ac-f4fe6ca58322",

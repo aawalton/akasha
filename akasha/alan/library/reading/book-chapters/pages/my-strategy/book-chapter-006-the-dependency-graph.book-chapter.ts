@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../book-chapter.page-type.ts"
 
 export const bookChapter006TheDependencyGraph = {
   id: "01a06594-c68f-7006-aec2-1519277b41ee",
