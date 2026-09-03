@@ -42,9 +42,5 @@ export const emailRule = {
       invariantKind: "departure",
       statement: "A rule's kind is the folder the rule stands in rather than a key on the rule.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The filing, the delay and the actions are yet to stand as properties.",
-    },
   ],
 } as const satisfies PageType
