@@ -192,5 +192,25 @@ export const wakeDay = {
       invariantKind: "departure",
       statement: "Every day Alan tracked is a page of this type.",
     },
+
+    {
+      invariantKind: "departure",
+      statement:
+        "The wake day sits inside the ESO day, and only says where inside it the boundary falls.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A boundary is worked out from the sleep sessions when it is read, and stored nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The wake day is derived in one place, and a second derivation is a second answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day whose waking cannot be found starts where its ESO day starts.",
+    },
   ],
 } as const satisfies PageType

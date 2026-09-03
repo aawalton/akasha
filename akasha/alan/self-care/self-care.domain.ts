@@ -14,6 +14,11 @@ export const selfCare = {
       invariantKind: "departure",
       statement: "Prose delivered whole is the main way arousal reaches Alan.",
     },
+
+    {
+      invariantKind: "gap",
+      statement: "Every landed scene carries what it tested and the read that came back.",
+    },
   ],
   directives: [
     {

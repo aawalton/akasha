@@ -29,6 +29,7 @@ export const storyEngine = {
     "workspace-package/story-tower-engine",
     "workspace-package/story-tower",
     "workspace-package/wandering-inn",
+    "domain/narrative-story-turn-promotion",
   ],
   invariants: [
     {

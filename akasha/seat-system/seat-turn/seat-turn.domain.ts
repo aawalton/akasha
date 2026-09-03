@@ -187,11 +187,6 @@ export const seatTurn = {
       invariantKind: "departure",
       statement: "Every turn state carries the color the turn state is drawn in.",
     },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "The color a turn state is drawn in is written in `pages/domain` rather than in akasha.",
-    },
     { invariantKind: "gap", statement: "A seat states its turn state." },
     {
       invariantKind: "gap",
@@ -200,6 +195,15 @@ export const seatTurn = {
     { invariantKind: "gap", statement: "Every error turn end is reported." },
     { invariantKind: "gap", statement: "An overloaded seat is nudged until the seat works again." },
     { invariantKind: "gap", statement: "A seat waits longer after each nudge." },
+
+    { invariantKind: "departure", statement: "A working seat is drawn in green." },
+    { invariantKind: "departure", statement: "An idle seat is drawn in yellow." },
+    {
+      invariantKind: "departure",
+      statement: "An idle seat with a turn start still to come is drawn in blue.",
+    },
+    { invariantKind: "departure", statement: "A stopped seat is drawn in the text color." },
+    { invariantKind: "departure", statement: "A reminder does not make a turn pending." },
   ],
   directives: [
     {

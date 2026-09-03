@@ -54,6 +54,36 @@ export const monarch = {
       invariantKind: "departure",
       statement: "Every tile drawing the reading shows the count Alan's workstation last took.",
     },
+
+    { invariantKind: "absence", statement: "Monarch's own rules engine is never written to." },
+    {
+      invariantKind: "departure",
+      statement:
+        "Category rules run outside Monarch, and only a single transaction update is posted back.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Category rules run without asking on that sync, over a window narrower than the copy's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Transactions are checked every minute, and only changed rows move.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the daily full run speaks for rows older than the trusted period.",
+    },
+    { invariantKind: "departure", statement: "Every monarch page is in a file." },
+    {
+      invariantKind: "departure",
+      statement: "What a schedule writes is in memory; what names it is in the instructions.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A monarch page holds the fields its readers name rather than a copy of Monarch's reply.",
+    },
   ],
   directives: [
     {

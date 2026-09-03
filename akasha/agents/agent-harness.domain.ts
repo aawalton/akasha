@@ -5,7 +5,11 @@ export const agentHarness = {
   pageTypeSlug: "domain",
   slug: "agent-harness",
   definition: "how agents do things",
-  partSlugs: ["domain/claude-code"],
+  partSlugs: [
+    "domain/claude-code",
+    "domain/message-warrant-announce",
+    "domain/message-warrant-blocked",
+  ],
   invariants: [
     {
       invariantKind: "departure",

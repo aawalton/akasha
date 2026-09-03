@@ -57,6 +57,7 @@ export const learnEverythingTopic = {
     "text-property/capture-source",
     "text-property/topic-calibration-read",
     "text-property/topic-node",
+    "domain/learn-everything-topic-mastery",
   ],
   properties: [
     { pagePropertySlug: "topic-node", required: true, many: false },

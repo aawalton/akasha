@@ -49,4 +49,19 @@ export const designSystem = {
     "stylesheet/theme-bridge",
     "stylesheet/token-values",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "What separates a component from its neighbours is written on the parent, not the component.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No component takes a prop letting its caller space it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The space inside a component is written on the component.",
+    },
+  ],
 } as const satisfies WorkspacePackage
