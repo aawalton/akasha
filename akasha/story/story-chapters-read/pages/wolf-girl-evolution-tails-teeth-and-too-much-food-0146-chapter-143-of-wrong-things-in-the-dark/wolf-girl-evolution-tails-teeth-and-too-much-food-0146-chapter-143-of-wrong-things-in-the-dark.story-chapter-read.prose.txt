@@ -1,17 +1,3 @@
----
-id: a5475039-a720-571c-a698-72c217ad1366
-page-type-slug: story-chapter-royal-road
-title: "Chapter 143: Of Wrong Things in the Dark"
-slug: 0146-chapter-143-of-wrong-things-in-the-dark
-partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
-position: 146
-ownLength: 2395
-unit: words
-publishedAt: 2026-07-22
-link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3712154/chapter-143-of-wrong-things-in-the-dark"
-royalRoadId: "3712154"
----
-
 PoV Luna
 
 The bad smell moved!

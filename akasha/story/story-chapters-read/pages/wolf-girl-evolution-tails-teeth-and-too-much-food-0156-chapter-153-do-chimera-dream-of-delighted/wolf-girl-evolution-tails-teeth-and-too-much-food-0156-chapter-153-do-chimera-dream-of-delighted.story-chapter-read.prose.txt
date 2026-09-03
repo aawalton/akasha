@@ -1,17 +1,3 @@
----
-id: 00eb8155-cc49-50f1-bdf8-1f487ff8c6a7
-page-type-slug: story-chapter-royal-road
-title: "Chapter 153: Do Chimera Dream of Delighted Yips?"
-slug: 0156-chapter-153-do-chimera-dream-of-delighted-yips
-partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
-position: 156
-ownLength: 1791
-unit: words
-publishedAt: 2026-08-26
-link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3868779/chapter-153-do-chimera-dream-of-delighted-yips"
-royalRoadId: "3868779"
----
-
 PoV Master Orthendal
 
 “...What do you mean another facility has fallen?”

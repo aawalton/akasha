@@ -1,17 +1,3 @@
----
-id: 8d1c92a0-a932-53ca-af85-e53527809699
-page-type-slug: story-chapter-royal-road
-title: "Chapter 144: Of Tunnels, Troubles, and Tactical Jerky Offerings!"
-slug: 0147-chapter-144-of-tunnels-troubles-and-tactical-jerky
-partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
-position: 147
-ownLength: 2134
-unit: words
-publishedAt: 2026-07-27
-link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3734057/chapter-144-of-tunnels-troubles-and-tactical-jerky"
-royalRoadId: "3734057"
----
-
 PoV Luna
 
 By morning, everyone who mattered was already waiting near the entrance into the tunnels below.

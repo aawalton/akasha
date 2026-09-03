@@ -1,17 +1,3 @@
----
-id: 390a236f-619c-5744-b69c-79da55a0f5e0
-page-type-slug: story-chapter-royal-road
-title: "Chapter 150: Of Brushies, Behemoths, and Big Big Boom-Booms!"
-slug: 0153-chapter-150-of-brushies-behemoths-and-big-big-boom
-partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
-position: 153
-ownLength: 2320
-unit: words
-publishedAt: 2026-08-17
-link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3826851/chapter-150-of-brushies-behemoths-and-big-big"
-royalRoadId: "3826851"
----
-
 PoV Luna
 
 That evening, Syliana brushed Luna’s fur and told her the wondrous tales of where the big monsters lived!

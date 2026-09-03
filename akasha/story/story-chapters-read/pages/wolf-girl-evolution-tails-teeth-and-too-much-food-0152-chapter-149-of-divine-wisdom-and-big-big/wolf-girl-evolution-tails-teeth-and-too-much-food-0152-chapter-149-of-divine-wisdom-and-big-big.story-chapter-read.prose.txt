@@ -1,17 +1,3 @@
----
-id: c5486852-ba64-5182-9950-84edf40ac1f5
-page-type-slug: story-chapter-royal-road
-title: "Chapter 149: Of Divine Wisdom and Big Big Plans!"
-slug: 0152-chapter-149-of-divine-wisdom-and-big-big-plans
-partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
-position: 152
-ownLength: 1860
-unit: words
-publishedAt: 2026-08-12
-link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3805502/chapter-149-of-divine-wisdom-and-big-big-plans"
-royalRoadId: "3805502"
----
-
 PoV Luna
 
 Luna caught the drumstick platter before it escaped.
