@@ -6,4 +6,22 @@ export const pipelineSeqs = {
   slug: "pipeline-seqs",
   definition: "the next seq a new pipeline page takes",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The counter stands on the page type page rather than in a file of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type no index holds is refused by name rather than guessed at a path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seq is handed out under a lock held on the page type file.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every page type minting a seq is named here rather than anywhere general.",
+    },
+  ],
 } as const satisfies Module

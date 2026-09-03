@@ -167,6 +167,7 @@ export const step = {
     { pagePropertySlug: "step-when-conditions", required: false, many: true, max: null },
   ],
   mortal: true,
+  nextSeq: 13782,
   invariants: [
     {
       invariantKind: "departure",

@@ -5,6 +5,7 @@ import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts
 import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property.ts"
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
+import type { NextSeq } from "./properties/next-seq.number-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
 import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
 import type { Sequence } from "./properties/sequence.record-property.ts"
@@ -18,6 +19,7 @@ export type PageType = Domain & {
   detailConfig?: DetailConfig
   mediaConfig?: MediaConfig
   sequence?: Sequence
+  nextSeq?: NextSeq
   runsTabooCheck?: RunsTabooCheck
 }
 
@@ -42,6 +44,7 @@ export const pageType = {
     "boolean-property/secret",
     "boolean-property/show-reading-progress",
     "boolean-property/uncommitted",
+    "number-property/next-seq",
     "record-property/audio-media",
     "record-property/child-collection",
     "record-property/collection-header",
@@ -82,6 +85,7 @@ export const pageType = {
     { pagePropertySlug: "media-config", required: false, many: false },
     { pagePropertySlug: "sequence", required: false, many: false },
     { pagePropertySlug: "runs-taboo-check", required: false, many: false },
+    { pagePropertySlug: "next-seq", required: false, many: false },
   ],
   invariants: [
     {
@@ -90,7 +94,7 @@ export const pageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type says here how one of its pages stands on a screen of its own.",
+      statement: "A page type says here how its page stands on a screen of its own.",
     },
     {
       invariantKind: "departure",

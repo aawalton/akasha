@@ -42,6 +42,7 @@ export const workflow = {
   pluralSlug: "workflows",
   extendsSlug: "page-type/page",
   mortal: true,
+  nextSeq: 1117,
   partSlugs: [
     "boolean-property/workflow-always-runs",
     "relation-property/workflow-pipeline-seq",
@@ -80,7 +81,11 @@ export const workflow = {
     {
       invariantKind: "departure",
       statement:
-        "A workflow names separately what must run before it and what pulls it in, and may name both.",
+        "A workflow names separately what must run before the workflow and what pulls the workflow in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workflow may name both what must run before it and what pulls it in.",
     },
   ],
 } as const satisfies PageType

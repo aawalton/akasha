@@ -1,4 +1,3 @@
-import { takeSeqsOf } from "@akasha/markdown-pages/page-seq"
 import { patchPage, patchState, writePage } from "@akasha/markdown-pages/page-write"
 import type { Value } from "@akasha/markdown-pages/page-write-values"
 import type { Where } from "@akasha/markdown-pages/page-write-where"
@@ -7,6 +6,7 @@ import { PIPELINE } from "../creator-page-reading/creator-page-reading.module.co
 import {
   PIPELINE_SEQS,
   STEP_SEQS,
+  takeSeqsOf,
   WORKFLOW_SEQS,
 } from "../pipeline-seqs/pipeline-seqs.module.code.ts"
 
@@ -52,7 +52,7 @@ export interface Created {
 
 type Values = Record<string, Value>
 
-function landed(at: Where | null, pageType: string, seq: number): void {
+function landed(at: Where | null, pageType: string, seq: number): undefined {
   if (at === null) {
     throw new Error(
       `main-pipeline-creator: ${pageType} #${seq} was not written — \`${pageType}\` names no page ` +

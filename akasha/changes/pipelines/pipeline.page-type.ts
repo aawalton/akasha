@@ -38,6 +38,7 @@ export const pipeline = {
   pluralSlug: "pipelines",
   extendsSlug: "page-type/page",
   mortal: true,
+  nextSeq: 101,
   partSlugs: [
     "relation-property/pipeline-main-predecessor-seqs",
     "relation-property/pipeline-overtaken-by-seq",
@@ -96,15 +97,20 @@ export const pipeline = {
     },
     {
       invariantKind: "departure",
-      statement: "Kubernetes writes `Error` for a nonzero exit whose cause it does not know.",
+      statement: "Kubernetes writes `Error` for a nonzero exit of an unknown cause.",
     },
     {
       invariantKind: "gap",
-      statement: "A pipeline's definition is fixed by one commit in each repository it reads.",
+      statement:
+        "A pipeline's definition is fixed by one commit in each repository the pipeline reads.",
     },
     {
       invariantKind: "gap",
-      statement: "One writer moves a step page, never the dispatcher and the step both.",
+      statement: "One writer moves a step page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The dispatcher and the step never both move the same step page.",
     },
     {
       invariantKind: "gap",
@@ -112,7 +118,7 @@ export const pipeline = {
     },
     {
       invariantKind: "gap",
-      statement: "What a check builds is removed once no pipeline will read it again.",
+      statement: "What a check builds is removed once no pipeline will read the build again.",
     },
   ],
 } as const satisfies PageType
