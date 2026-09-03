@@ -3,6 +3,15 @@ import { isAddressable } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import type { Backed, Row } from "@akasha/pages-system/page-derive-shape"
+import { NOTHING, reduced, reducedFault } from "@akasha/pages-system/page-query-reduce"
+import {
+  type Answer,
+  type Group,
+  type PageQuery,
+  type Reduction,
+  type Test,
+  UNREACHED,
+} from "@akasha/pages-system/page-query-shape"
 import { listOf, textOf } from "@akasha/pages-system/page-query-values"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { pagesOf, reposOf } from "../../page/page-types.ts"
@@ -14,57 +23,10 @@ import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused } from "./pa
 import { comparing, stated } from "./page-query-compare.ts"
 import { queryOf } from "./page-query-fields.ts"
 import { carriesFor } from "./page-query-keys.ts"
-import { NOTHING, reduced, reducedFault } from "./page-query-reduce.ts"
 import { WAKE_DAY, type Woke, wokeOn } from "./wake-day.ts"
 
-export const UNREACHED = "names no page type whose pages are files"
-
-export interface Test {
-  readonly key: string
-  readonly is?: string
-  readonly in?: readonly string[]
-  readonly notIn?: readonly string[]
-  readonly has?: string
-  readonly contains?: readonly string[]
-  readonly endsWith?: string
-  readonly empty?: boolean
-  readonly atOrAfter?: string
-  readonly before?: string
-}
-
-export type Reduction = "sum" | "mean"
-
-export interface PageQuery {
-  readonly pageType: string
-  readonly takes?: Readonly<Record<string, string>>
-  readonly where?: readonly Test[]
-  readonly countBy?: readonly string[]
-  readonly function?: Reduction
-  readonly target?: string
-  readonly sortBy?: string
-  readonly descending?: boolean
-  readonly limit?: number
-  readonly offset?: number
-  readonly keys?: readonly string[]
-  readonly unreadable?: readonly string[]
-}
-
-export interface Group {
-  readonly by: Readonly<Record<string, string | null>>
-  readonly n: number
-}
-
-export interface Answer {
-  readonly n: number
-  readonly rows: readonly Row[]
-  readonly groups: readonly Group[]
-  readonly value: number | null
-  readonly over: number | null
-  readonly absent: readonly string[]
-  readonly faults: readonly string[]
-  readonly omitted: readonly string[]
-  readonly unfound: readonly string[]
-}
+export type { Answer, Group, PageQuery, Reduction, Test }
+export { UNREACHED }
 
 export function statesBoth(query: PageQuery): boolean {
   return query.countBy !== undefined && query.function !== undefined

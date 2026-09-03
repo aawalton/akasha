@@ -1,6 +1,6 @@
 import type { Carries } from "@akasha/pages-system/page-derive-shape"
+import type { PageQuery } from "@akasha/pages-system/page-query-shape"
 import { BODY } from "./page-file-values.ts"
-import type { PageQuery } from "./page-query.ts"
 
 export function askedKeys(query: PageQuery): readonly string[] {
   const wanted = new Set<string>(query.keys ?? [])

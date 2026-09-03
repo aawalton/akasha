@@ -1,8 +1,8 @@
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { narrowed } from "@akasha/pages-system/page-query-narrow"
+import type { PageQuery, Reduction } from "@akasha/pages-system/page-query-shape"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { documentFrom } from "./page-query-bind.ts"
-import { narrowed } from "./page-query-narrow.ts"
-import { type PageQuery, type Reduction } from "./page-query.ts"
-import { type Roots } from "@akasha/pages-system/markdown-page-at"
 
 const REDUCTIONS: readonly string[] = ["sum", "mean"]
 
@@ -14,7 +14,6 @@ function listValue(value: unknown): readonly string[] {
   if (typeof value === "string") return [value]
   return Array.isArray(value) ? value.filter((one): one is string => typeof one === "string") : []
 }
-
 
 function textIn(fields: Readonly<Record<string, unknown>>, key: string): string | null {
   const value = fields[key]

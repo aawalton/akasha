@@ -1,7 +1,8 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
+import { UNREACHED } from "@akasha/pages-system/page-query-shape"
 import { textOf } from "@akasha/pages-system/page-query-values"
-import { answer, UNREACHED } from "./page-query.ts"
+import { answer } from "./page-query.ts"
 
 export class PagesUnread extends Error {
   readonly pageType: string

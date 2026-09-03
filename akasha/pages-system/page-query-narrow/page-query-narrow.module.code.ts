@@ -1,4 +1,4 @@
-import type { Test } from "./page-query.ts"
+import type { Test } from "../page-query-shape/page-query-shape.module.code.ts"
 
 export const TEST_SAYS =
   "a test is either the value the key must hold, or a map stating `is`, `in`, `not-in`, `has`, `contains`, `ends-with`, `empty`, `at-or-after` or `before`"

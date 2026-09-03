@@ -1,6 +1,7 @@
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { answer, type PageQuery, UNREACHED } from "@tools/lib/page-query"
+import { type PageQuery, UNREACHED } from "@akasha/pages-system/page-query-shape"
+import { answer } from "@tools/lib/page-query"
 import {
   pipelineNotFoundMessage,
   pipelineSubjectOf,

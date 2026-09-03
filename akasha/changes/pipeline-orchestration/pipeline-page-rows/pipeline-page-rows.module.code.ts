@@ -1,6 +1,7 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
-import { answer, type PageQuery, UNREACHED } from "@tools/lib/page-query"
+import { type PageQuery, UNREACHED } from "@akasha/pages-system/page-query-shape"
+import { answer } from "@tools/lib/page-query"
 import { LOG } from "../orchestrator-log/orchestrator-log.module.code.ts"
 
 export function rowsOf(roots: Roots, query: PageQuery): readonly Row[] {

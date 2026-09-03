@@ -1,14 +1,7 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { asRecord, givenIn, type Said, said } from "@akasha/pages-system/page-query-request"
-import {
-  answer,
-  answerNamed,
-  namedQuery,
-  type PageQuery,
-  queryNames,
-  statesBoth,
-  UNREACHED,
-} from "./page-query.ts"
+import { type PageQuery, UNREACHED } from "@akasha/pages-system/page-query-shape"
+import { answer, answerNamed, namedQuery, queryNames, statesBoth } from "./page-query.ts"
 import { absentSays, bind, composedFrom, isRefused } from "./page-query-bind.ts"
 import { queryFrom } from "./page-query-fields.ts"
 
