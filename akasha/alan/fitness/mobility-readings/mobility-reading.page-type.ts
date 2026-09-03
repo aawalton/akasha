@@ -34,6 +34,7 @@ export const mobilityReading = {
     "select-property/mobility-reading-metric",
     "select-property/side",
     "text-property/mobility-reading-value-text",
+    "text-property/note",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -48,11 +49,15 @@ export const mobilityReading = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A reading names no session it was taken in.",
+      statement: "A reading names no session the reading was taken in.",
     },
     {
       invariantKind: "departure",
-      statement: "The human read of a reading always stands, and the number beside it may not.",
+      statement: "A reading always carries a human read of the measurement.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading carries no number beside its human read.",
     },
   ],
 } as const satisfies PageType
