@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const ghostspeaker = {
   id: "01a0657e-136b-71fa-be2b-289b413f9e92",

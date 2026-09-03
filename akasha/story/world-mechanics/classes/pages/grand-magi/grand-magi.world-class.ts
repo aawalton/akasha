@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const grandMagi = {
   id: "01a0657e-136d-72f4-9325-194f2f890372",

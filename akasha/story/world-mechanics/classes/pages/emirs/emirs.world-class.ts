@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const emirs = {
   id: "01a0657e-1359-7638-951b-ac6bc91c75db",

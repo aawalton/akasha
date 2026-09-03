@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const floristLevel19FloristLevel16 = {
   id: "01a0657e-1365-7a2d-922f-a20ecaec324d",

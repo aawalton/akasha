@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const doomspeakerPriest = {
   id: "01a0657e-1356-7e2e-b5df-cff8ab9834e7",

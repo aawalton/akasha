@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const druidOfTheLuckyWorldChildOfOmensEmberOfTheEternalSolstice = {
   id: "01a0657e-1358-7a84-8295-f3146c3d05bb",

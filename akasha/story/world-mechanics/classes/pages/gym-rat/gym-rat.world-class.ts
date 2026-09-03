@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const gymRat = {
   id: "01a0657e-1370-7f61-8215-3551d435beb7",

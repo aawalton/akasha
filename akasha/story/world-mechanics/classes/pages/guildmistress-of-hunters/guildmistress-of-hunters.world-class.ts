@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const guildmistressOfHunters = {
   id: "01a0657e-1370-7450-86d7-5d8b64f40544",

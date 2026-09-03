@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const gentlemanThugOfStyle = {
   id: "01a0657e-136b-72dc-a42b-f002a69540e2",

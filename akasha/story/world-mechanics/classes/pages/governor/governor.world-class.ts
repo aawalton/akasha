@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const governor = {
   id: "01a0657e-136d-7f6c-83a4-0e4a4694d2eb",

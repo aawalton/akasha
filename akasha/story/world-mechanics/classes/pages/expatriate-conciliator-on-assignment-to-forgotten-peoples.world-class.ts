@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.ts"
+import type { WorldClass } from "../world-class.page-type.ts"
 
 export const expatriateConciliatorOnAssignmentToForgottenPeoples = {
   id: "01a0657e-1361-73bc-8d56-9fdca3edf830",

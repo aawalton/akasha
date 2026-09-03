@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const footballManager = {
   id: "01a0657e-1365-7770-99d9-55d57be88b33",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const gangLeader = {
   id: "01a0657e-1366-7a3b-bf8b-08fbae3986ea",
