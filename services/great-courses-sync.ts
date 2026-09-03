@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
-import { syncGreatCourses } from "../tools/lib/great-courses/sync.ts"
-import { trackSyncRun } from "../tools/lib/sync-run/track.ts"
+import { syncGreatCourses } from "@akasha/great-courses/sync"
+import { trackSyncRun } from "@akasha/great-courses/sync-run"
 
 const SOURCE = "the-great-courses"
 

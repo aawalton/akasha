@@ -622,6 +622,13 @@
     "akasha/graph-system": {
       "name": "@akasha/graph-system",
     },
+    "akasha/great-courses": {
+      "name": "@akasha/great-courses",
+      "dependencies": {
+        "@akasha/pages-query": "workspace:*",
+        "jsdom": "^28.1.0",
+      },
+    },
     "akasha/health-samples-access": {
       "name": "@akasha/health-samples-access",
       "dependencies": {
@@ -3139,7 +3146,6 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/wandering-inn": "workspace:*",
       },
     },
   },
@@ -3226,6 +3232,8 @@
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google/oauth"],
 
     "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
+
+    "@akasha/great-courses": ["@akasha/great-courses@workspace:akasha/great-courses"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:akasha/health-samples-access"],
 

@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/great-courses",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./sync": "./sync/sync.module.code.ts",
+    "./sync-run": "./sync-run/sync-run.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-query": "workspace:*",
+    "jsdom": "^28.1.0"
+  }
+}
