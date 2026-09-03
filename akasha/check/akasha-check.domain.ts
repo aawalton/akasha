@@ -16,4 +16,17 @@ export const akashaCheck = {
       statement: "A check that only repeats the compiler does not land.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Do The Work",
+      act: "Never add a check for a set of work to be completed; complete the work instead.",
+      warrant:
+        "A check with nothing left to catch reads like one still working, and every author pays for it.",
+      aids: [
+        "Ask whether a new violation can arrive tomorrow.",
+        "Never refuse a check for arriving in a migration.",
+      ],
+    },
+  ],
 } as const satisfies Domain
