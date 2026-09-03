@@ -9,4 +9,5 @@ export const proverbs356 = {
   translation: "web",
   position: 9,
   passageText: "txt",
+  unitSlug: "words",
 } as const satisfies ScripturePassage

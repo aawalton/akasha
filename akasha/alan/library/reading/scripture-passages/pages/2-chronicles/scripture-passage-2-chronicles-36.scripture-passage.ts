@@ -9,6 +9,7 @@ export const scripturePassage2Chronicles36 = {
   position: 36,
   ownLength: 0,
   ownProgress: 0,
+  unitSlug: "words",
   status: "not-started",
   externalId: "2chronicles36",
 } as const satisfies ScripturePassage
