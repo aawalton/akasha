@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const informationAndMedia = {
   id: "01a06594-c67a-700e-b08b-e7f748c7065f",

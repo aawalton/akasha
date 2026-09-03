@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const fawnCollapse = {
   id: "01a06594-c679-700a-a98f-4c2e9ccfbbde",

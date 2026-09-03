@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const highThroughputRoad = {
   id: "01a06594-c67a-7006-8b9a-f2962e02135d",

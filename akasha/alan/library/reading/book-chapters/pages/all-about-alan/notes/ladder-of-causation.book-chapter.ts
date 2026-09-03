@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const ladderOfCausation = {
   id: "01a06594-c67a-7016-988e-83e04d6f23a4",

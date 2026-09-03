@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const journeyAsReward = {
   id: "01a06594-c67a-7015-9129-1df3e02537b9",

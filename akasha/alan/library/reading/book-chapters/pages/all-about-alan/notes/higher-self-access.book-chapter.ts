@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const higherSelfAccess = {
   id: "01a06594-c67a-7007-88a4-88fceaccfa34",

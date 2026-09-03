@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const femininityAsSafetySignal = {
   id: "01a06594-c679-700c-9e3c-04e6f4fedd29",

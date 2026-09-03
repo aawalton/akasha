@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const governedExpansion = {
   id: "01a06594-c679-7015-acbd-8ca35271a0bf",
