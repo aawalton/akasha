@@ -1,0 +1,57 @@
+Slowly move medium amounts of stone and sand around you for 1 minute per level of Stoneshape, OR gain fine control over minor amounts of stone and sand.
+
+Exp: 285/800
+
+Grow X, instant, touch or close range, 5 MP
+
+Cultivate a single plant, or induce plant growth in an area equal to spell level in meters.
+
+Growth Aura, 5 MP per second.
+
+Induce growth in the plants you choose in a 10m radius around you.
+
+Telekinesis 7, 1 minute per level, medium range, 40 MP
+
+Slowly move large objects around you for 1 minute per level of the spell.
+
+Exp: 1600/2100
+
+Airshape 1, 1 minute per level, medium range, 10 MP
+
+Slowly move minor amounts of air around you for 1 minute per level of Airshape.
+
+Exp: 0/100
+
+Call Lightning X, 1 minute per level, super long range, 500 MP ~{Favored Spell}~
+
+Prepare the sky to strike an area or object of your choice for <damage>. If used in an active lightning storm, Call Lightning’s duration is as long as the natural storm. Every lighting bolt called reduces the duration of Call Lightning by 1 minute, or a natural storm by <undetermined>.
+
+Particle Mage Only
+
+Lightning Aura, 1 MP per second, super long range ~{Favored Spell}~
+
+Prepare the air around you to strike for <damage>. One strike available every 50 MP.
+
+Particle Mage Only
+
+Exalted Storm Aura, 1 MP per second, super long range ~{Favored Spell}~
+
+Anoint the land with blessed rain, rapidly growing all <crops and pasture> to <harvest size> and restoring vibrancy to all other <desired> plant life and soil. If used in a <prepared field> <devoid of crops>, highly nutritious beans will sprout after <a full day of rain>.
+
+Particle Mage Only
+
+Particle Mage
+
+Your ability to unlock new Particle spells is greatly increased.
+
+If you witness a Particle spell and you understand it, you may unlock that spell for free.
+
+Your ability to affect the Particle spells of others is greatly increased.
+
+Your own Particle spells are less affected by the abilities of non Particle Mages
+
+Your Particle spells deal more damage
+
+You take less damage from Particle spells.
+
+<I gave you most of the Force Mage skillset except with a few additions and subtractions and relevant changes. You’ve also gotten the Class unlocked at max level, because I need to see how this all works out. This is all subject to change. ~Rozeta>

@@ -1,0 +1,440 @@
+Erick went over his Status. He had leveled twice after killing over 350 crystal mimics, every one of them for 95% Participation.
+
+Erick Flatt
+
+Human, age 48
+
+Level 38, Class: Particle Mage
+
+Exp: 3,575,676,381/6,324,598,600
+
+Class: 6/6
+
+Points: 10
+
+HP
+
+600/600
+
+600
+
+MP
+
+750/750
+
+6000 per day
+
+Strength
+
+20
+
++0
+
+[20]
+
+Vitality
+
+20
+
++0
+
+[20]
+
+Willpower
+
+25
+
++0
+
+[25]
+
+Focus
+
+50
+
++0
+
+[50]
+
+Favored Spell waiting!
+
+Favored Spell waiting!
+
+Scion of Focus
+
+Multiply your base MP regen by 4
+
+Immune to Mana Exhaustion
+
+Requirements: 50 Focus
+
+Strong X
+
+Multiply your base HP by 3
+
+Requirements: 20 Strength
+
+Enduring X
+
+Multiply your base HP regen by 3
+
+Requirements: 20 Vitality
+
+Discipline X
+
+Multiply your base MP by 3
+
+Requirements: 20 Willpower
+
+Concentration X
+
+Multiply your base MP regen by 3
+
+Requirements: 20 Focus
+
+Clarity X
+
+Reduces spell costs by 50%
+
+Requirements: 10 Focus
+
+Meditation X
+
+Always Resting
+
+Requirements: 10 Willpower
+
+Mana Shaping X
+
+Alter spell AOE in better, subtle ways, 10 MP + spellcost
+
+Alter spell AOE in better, moderate ways, 30 MP + spellcost
+
+Aurify Unlocked
+
+Alter AOE in better, major ways, 100 MP + spellcost
+
+Alter AOE in better, extreme ways, 300 MP + spellcost
+
+Change any spell into an AOE spell, or freely alter the AOE of any AOE spell, 500 MP + spellcost
+
+Requirements: 10 Willpower
+
+Aurify 2
+
+Transform an AOE spell into a semi-permanent effect surrounding yourself, based upon the parameters of the Aurified spell. Increase an instantaneous spell to a 1 second duration in order to create an aura.
+
+Able to support 1 aura at a time.
+
+You may choose who or what is affected by your aura.
+
+Doubles the range on an Aurified spell.
+
+Exp: 728,109/1,000,000
+
+Mana Altering X
+
+Bludgeon, Slash, or Piercing Damage
+
+Force to Light, Blinding, Variable Cost
+
+Invisible Force, Variable Cost
+
+Force to Thunder, Disorient, Variable Cost
+
+Force to Fire, Burn, Variable Cost
+
+Force to Ice, Slow, Variable Cost
+
+Force to Lightning, Paralyze, Variable Cost
+
+Force to Decay, organic damage, Variable Cost x1.5
+
+Chain, Variable Cost x2
+
+Combine Effects, Variable Cost x3
+
+Generate new effects. Variable Cost
+
+Requirements: 10 Willpower
+
+Cleanse X, instant, short range, 10 MP.
+
+Purge an area equal to the level of the spell in meters of all Toxins, Disease, Filth, and Corruption.
+
+Cleanse Aura, short range, 10 MP per second.
+
+Continuously purge all Toxins, Disease, Filth, and Corruption in a 10m sphere centered on you.
+
+Mend X, instant, touch, 10 mana.
+
+Touch a complicated large object, or a small common magical item, and restore it to its prime.
+
+Ward X, instant, short range, 24 hours
+
+Create a Small Ward that can have Minor Effects, or prevent Z damage from attackers. 10 MP + Z
+
+Create a Small Ward that can have Small Effects, or prevent Z damage from attackers. 15 MP + Z
+
+Create a Special Ward. Variable Cost
+
+Create a Medium Ward that can have Small Effects, or prevent Z damage from attackers. 20 MP + Z
+
+Create a Medium Ward that can have Medium Effects, or prevent Z damage from attackers. 25 MP + Z
+
+Personal Ward: Any Ward of any type can be made Personal, to move with you. Original Cost x2
+
+Create a Large Ward that can have Medium Effects, or prevent Z damage from attackers. 30 MP + Z
+
+Create a Large Ward that can have Large Effects, or prevent Z damage from attackers. 35 MP + Z
+
+Create a Ward with another Spell attached to the interior. Spell activation based on Z invested into Ward. 100 MP + Z
+
+Your Wards regenerate Z based on your Rested MP regen rate.
+
+Special Wards can be made Permanent. 250 MP + Variable Cost
+
+Minor Effects: Bug Ward, Temperature Ward, Alarm Ward
+
+Small Effects: Visual Disruption, Audio Disruption, Weather Ward
+
+Medium Effects: Area Hostile Visual Disruption, Area Hostile Audio Disruption
+
+Large Effects: Drain Hostile HP/MP, Gravity Ward
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you wish. Skill level at Mana Manipulation determines final outcome. Variable Cost
+
+Gravity Strainer, instant, medium range, 65 mana, 1 hour duration.
+
+Conjure a large, freely moldable space where specific objects turn near-weightless and fall to a designated point.
+
+Force Beam X, instant, medium range, 25 MP
+
+A piercing, slicing beam of hardened mana that deals 50 + 2x WIL for 10 seconds.
+
+Force Shrapnel X, instant, short cone, 5 MP
+
+Sharpened forward blast of mana that deals 25 + WIL damage in a cone
+
+Billiard Ball Aura, short range, 5 MP per second
+
+Crashing balls of mana bounce erratically, inflicting 25 + WIL damage per hit.
+
+Blink X, instant, 25 MP
+
+Instantly move from your location to another within <sight>, max range 10m per level of Blink
+
+Teleport X, instant, 250 MP per person
+
+You and <hands> number of people appear in a known location, max 1000km distance.
+
+Stoneshape X, medium range
+
+Move large amounts of stone and sand around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts of stone and sand around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Grow X, instant, touch or close range, 5 MP
+
+Cultivate a single plant, or induce plant growth in an area equal to spell level in meters.
+
+Growth Aura, 5 MP per second.
+
+Induce growth in the plants you choose in a 10m radius around you.
+
+Telekinesis X, medium range
+
+Move large objects around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large objects around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Airshape X, medium range
+
+Move large amounts of air around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large amounts air around you for 1 minute per level of the spell. Fine control. 50 MP
+
+Flight of a Thousand Hands Aura, 1 MP per second, medium range
+
+Gain complete, quick control over a large amount of air and a thousand arms of intent. Take flight, if you are able!
+
+Swift Movement X, 1 HP per second
+
+Move faster.
+
+Stillness 2, instant, 1 hour per level, super long range, 250 mana.
+
+Drop all <sound> to the level of a <speaking voice> in a super large area for 1 hour.
+
+Exp: 150/200
+
+Particle Mage:
+
+Call Lightning X, 1 minute per level, super long range, 500 MP ~{Favored Spell}~
+
+Prepare the sky to strike an area or object of your choice for <damage>. If used in an active lightning storm, Call Lightning’s duration is as long as the natural storm. Every lighting bolt called reduces the duration of Call Lightning by 1 minute, or a natural storm by <undetermined>.
+
+Particle Mage Only
+
+Lightning Aura, 1 MP per second, super long range ~{Favored Spell}~
+
+Prepare the air around you to strike for <damage>. One strike available every 50 MP.
+
+Particle Mage Only
+
+Exalted Storm Aura, 1 MP per second, super long range ~{Favored Spell}~
+
+Anoint the land with blessed rain, rapidly growing all <crops and pasture> to <harvest size> and restoring vibrancy to all other <desired> plant life and soil. If used in a <prepared field> <devoid of crops>, highly nutritious beans will sprout after <a full day of rain>.
+
+Particle Mage Only
+
+Withering X, 1 minute per level, super long range, 500 MP
+
+Purge all water from all monsters in super large area, dealing <damage> every second. Cleanse the land around every monster killed in this way.
+
+Particle Mage Only.
+
+Withering Slime, 10 minutes, super long range, 1000 MP.
+
+Unleash a super large wave of semi-sentient magic that searches for monsters and purges them of all water, dealing <damage> every second. Cleanse the land around every monster killed in this way.
+
+Particle Mage Only.
+
+Domain of the Withering Slime, 2 MP per second, aura, super long range
+
+Provide an anchor for the Withering Slime to exist on your world.
+
+Particle Mage Only.
+
+Particle Mage
+
+Your ability to unlock new Particle spells is greatly increased.
+
+If you witness a Particle spell and you understand it, you may unlock that spell for free.
+
+Your ability to affect the Particle spells of others is greatly increased.
+
+Your own Particle spells are less affected by the abilities of non Particle Mages
+
+Your Particle spells deal more damage
+
+You take less damage from Particle spells.
+
+<I gave you most of the Force Mage skillset except with a few additions and subtractions and relevant changes. You’ve also gotten the Class unlocked at max level, because I need to see how this all works out. This is all subject to change. ~Rozeta>
+
+There were quite a lot of boxes.
+
+Erick focused on the 10 points, and thought about where to put them. His mana costs were going up, a lot. The only reason he was able to cast [Withering Slime] was because Clarity dropped that cost to 500. This is what most mages saw when they looked at their status, wasn’t it? Not the need to sustain a spell for a long time, but the need to be able to cast a spell at all.
+
+He put five points in Willpower, bringing his base mana up to 900, and kept five points in reserve.
+
+Tomorrow he would go to Draz’s class for a few hours, then he would need to excuse himself to go to the farms for two hours, then it was back to class. Draz might not approve, and Erick didn’t want to force the issue, but if he had to, he’d just walk out. Which would be a shame. For as much as everyone else seemed to hate their time hitting each other with sticks, or getting called a failure, Erick felt he was learning a lot. If nothing else, he was learning how to take a hit and get back up.
+
+… As long as that hit wasn’t too hard.
+
+- - - -
+
+The next morning, as the sun rose above the walls of Spur, there was an unexpected occurrence at Draz’s recertification class. Kiri wasn’t there. Erick needed to spar with someone else. The problem was…
+
+Draz said, “This is ridiculous. One of you has to stand up and put this archmage into the dirt.”
+
+“Nope,” said Lowhit.
+
+“Not happening,” said Waelog.
+
+“Sorry!” said Zimmy.
+
+“Did Kiri quit?” Erick asked. “I liked her.”
+
+That must have struck a nerve, because Draz’s words were unusually hateful, “She just takes days off sometimes, like the rest of you fuckups.”
+
+Erick started, “You know, you’re—”
+
+“A terrible instructor!” Draz shouted, “Fuck it! Fuck you, Archmage! I quit, too.”
+
+And then he walked out of the room—
+
+He got to the archway leading into the arena, when Mog appeared on the other side. Mog frowned at him.
+
+Mog said, “Yes. I’m keeping an eye on this place.” Then she said to Draz. “You’re not done.”
+
+“I hate that you’re watching me, Mog! Do you think I’d do something to him? Why!”
+
+Mog said, “Of course not. I was watching because… Well because I can! It’s my guild!”
+
+Draz said, “I can’t do this anymore. Fire me if you want, or not. I'm not teaching this class any more.”
+
+“I’m not firing you, and you’re not quitting. You love your job! Can’t you handle him? He’s perfectly compliant. He’s learning from you, too.”
+
+Draz pointed at Erick. “No one wants to fight with him besides that one crazy girl and he’s driven everyone away. I should have 20 people in this class. Zimmy is only here because she utterly has to pass. Waelog and Lowhit are here for more or less the same reasons.”
+
+Mog spoke up to Erick, and the other students, “You’re dismissed, but we’re still on for tomorrow.” She looked to Erick. “Sorry. You’ve passed and can’t come to class anymore. Come talk to me later, okay?” She put a hand on Draz’s shoulder, guiding him away, “Let’s start the day drinking, Draz. Talk to me? Tell me what’s...” She walked out of sight, her voice fading into the halls of the Adventurer’s Guildhouse.
+
+Several moments passed.
+
+Erick said, “Well damn! Sorry, guys. I guess this is my fault.”
+
+Waelog grunted, “I got shit to do. See the rest of you chumps tomorrow.” She nodded to Erick. “Archmage.”
+
+Lowhit left along with Zimmy; neither of them saying anything.
+
+Erick frowned at the empty sands of the arena.
+
+“Thus ends basic training.” Erick turned to Poi and sighed. “Got any ideas for better training?”
+
+Poi frowned, just a little. Erick waited.
+
+Poi said, “Would you like to see exactly what threats have been prevented, so you are able to see where your defenses are lacking? Guardmaster Merit has a running list of the larger threats.”
+
+Erick froze. He breathed out. He forced himself to relax. He said, “Su— Sure! Sounds like a good idea, Poi.” He quickly added, “How bad is it?”
+
+Poi said, “Personally, I have prevented 2 casual muggings, 1 mugging that was a genuine attempt on your life, and about 8 home invasions committed by idiot adventurers without any ties we could find to any established powers. Teressa has done about the same. Rats is rats.”
+
+“Oh.” Erick was more than a little stunned by all that. “Okay.”
+
+“Would you like to see Merit? We can discuss the rest under some anti-observation [Ward]s.”
+
+“That would be the responsible thing to do, yes.” Erick said, “Let’s go see Merit.”
+
+- - - -
+
+Merit, the orangescale tough-woman Guardmaster of Spur, sat behind her solid stone desk, in her castle keep of an office. She waited for Erick to finish reading, a small smile on her lips.
+
+Erick read the list she had given him over again, making sure he understood it all.
+
+Plot
+
+Desired result
+
+Outcome
+
+Master assassin from the Green Circle, Greensoil Republic, parasites in food, extremely high threat
+
+Death
+
+Assassin executed, apprentice sent away
+
+Mages from Wasteland Kingdoms, pushy, low threat
+
+Theft of property/ideas
+
+Shooed away
+
+Warriors from Wasteland Kingdoms, violent, high threat
+
+Theft of property/ideas
+
+Two executions, three dismemberments
+
+Common Mages from Greensoil Republic, Blueberry, no threat, but there were 15 of them.
+
+Theft of property/ideas
+
+Shooed away
+
+Archmages from Greensoil Republic, Tower Academy, extremely high possible threat, but no overt actions taken
+
+Theft of property/ideas
+
+Unresolved
+

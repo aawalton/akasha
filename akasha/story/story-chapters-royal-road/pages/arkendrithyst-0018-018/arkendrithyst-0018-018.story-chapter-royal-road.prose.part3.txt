@@ -1,0 +1,73 @@
+Exp: 710/800
+
+Mend 7, instant, touch, 10 mana
+
+Touch a non-magical uncomplicated large object and restore it to its prime.
+
+Exp: 1510/2100
+
+Ward 7, instant, short range, 24 hours,
+
+Create a Small Ward that can have Minor Effects, or prevent Z damage from attackers. 10 MP + Z
+
+Create a Small Ward that can have Small Effects, or prevent Z damage from attackers. 15 MP + Z
+
+Create a Special Ward. Variable Cost
+
+Create a Medium Ward that can have Small Effects, or prevent Z damage from attackers. 20 MP + Z
+
+Create a Medium Ward that can have Medium Effects, or prevent Z damage from attackers. 25 MP + Z
+
+Personal Ward: Any Ward of any type can be made Personal, to move with you. Original Cost x2
+
+Create a Large Ward that can have Medium Effects, or prevent Z damage from attackers. 30 MP + Z
+
+Minor Effects: Bug Ward, Temperature Ward, Alarm Ward
+
+Small Effects: Visual Disruption, Audio Disruption, Weather Ward
+
+Medium Effects: Area Hostile Visual Disruption, Area Hostile Audio Disruption
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you can. Skill at mana manipulation determines final outcome.
+
+Exp: 97/2100
+
+Force Beam 2, instant, medium range, 25 mana
+
+A piercing, slicing beam of hardened mana that deals 25 + ½ WIL damage for 2 seconds
+
+Exp: 175/200
+
+Force Shrapnel 2, instant, short cone, 5 MP
+
+Sharpened forward blast of mana that deals 5 + ½ WIL damage in a cone
+
+Exp: 5/200
+
+Blink 2, instant, 25 MP
+
+Instantly move from your location to another within <sight>, max range 10m per level of Blink
+
+Exp: 25/200
+
+Jane was probably already skill-experience capped. That girl of his was driven.
+
+… But whatever! Sleep now! To Rest, to lie down in slumber. Such a wonderful thi...ng…
+
+… z… zz… zzZZzz…
+
+- - - -
+
+He woke to the sounds of people talking downstairs, and the smell of cooking meat. Night had fallen not an hour ago. The sky outside was still vaguely bright. Footsteps touched upon the stone floor.
+
+“Oh good. I was just about to come get you.” Jane walked over to him. “Dinner’s almost ready. Have a good sleep, Dad?”
+
+Erick rolled upright. His eyes didn’t focus.
+
+“Hey?” Jane looked at him. There were two Janes. “Dad?”
+
+He shook his head. “I’m okay. Just out of it.” He stared, and there was only one Jane. “Too much mana spent today… something like 3000? More than that.”
+
+Jane helped him to his feet. “That’s a lot. Savral is back; that’s part of my day. He’s downstairs cooking, actually. His team was recalled. The shadowcat hunt might be a lot worse than anyone thought.”
+
+While Erick had been groggy, ‘worse than anyone thought’ woke him right up.
