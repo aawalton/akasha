@@ -9,7 +9,7 @@ const AUTHORED: ReadonlySet<FileKind> = new Set<FileKind>([
   "tsx",
   "js",
   "jsx",
-  "css",
+  // SEEDED FAULT: css removed
   "md",
   "lua",
   "sh",
