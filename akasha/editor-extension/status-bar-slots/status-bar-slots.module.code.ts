@@ -32,7 +32,16 @@ const RAW_SLOTS: readonly SlotDef[] = [
     section: "upkeep",
   },
 
-  { kind: "separator", id: "opsStatusBar.sep.upkeepInbox", priority: 0 },
+  { kind: "separator", id: "opsStatusBar.sep.upkeepAttributes", priority: 0 },
+
+  {
+    kind: "stoplights",
+    id: "opsStatusBar.attributesStoplights",
+    priority: 0,
+    section: "attributes",
+  },
+
+  { kind: "separator", id: "opsStatusBar.sep.attributesInbox", priority: 0 },
 
   {
     kind: "stoplights",

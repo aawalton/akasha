@@ -5,4 +5,5 @@ export type StoplightLegends = Readonly<Record<StoplightsSection, string | undef
 export const NO_LEGENDS: StoplightLegends = {
   inbox: undefined,
   upkeep: undefined,
+  attributes: undefined,
 }

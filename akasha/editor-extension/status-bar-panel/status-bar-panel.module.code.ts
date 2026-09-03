@@ -28,6 +28,8 @@ const POLL_INTERVAL_MS = 30_000
 
 const UPKEEP_GROUP = "upkeep"
 
+const ATTRIBUTES_GROUP = "attributes"
+
 const INBOX_GROUP = "inboxes"
 
 let output: vscode.OutputChannel
@@ -80,29 +82,38 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   let freshAts: FreshAts = {
     inbox: undefined,
     upkeep: undefined,
+    attributes: undefined,
     usage: undefined,
   }
 
   let legends: StoplightLegends = NO_LEGENDS
 
   const readOnce = async (trigger: string): Promise<undefined> => {
-    const [inbox, upkeep, usage] = await duringOneCall(async () =>
-      Promise.allSettled([drawGroup(INBOX_GROUP), drawGroup(UPKEEP_GROUP), readUsage()])
+    const [inbox, upkeep, attributes, usage] = await duringOneCall(async () =>
+      Promise.allSettled([
+        drawGroup(INBOX_GROUP),
+        drawGroup(UPKEEP_GROUP),
+        drawGroup(ATTRIBUTES_GROUP),
+        readUsage(),
+      ])
     )
     const outcomes: ReadOutcomes = {
       inbox: glyphsSettled(inbox),
       upkeep: glyphsSettled(upkeep),
+      attributes: glyphsSettled(attributes),
       usage,
     }
     legends = {
       inbox: legendKept(inbox, legends.inbox),
       upkeep: legendKept(upkeep, legends.upkeep),
+      attributes: legendKept(attributes, legends.attributes),
     }
     const reads = settleReads(outcomes, freshAts, Date.now())
     applyToItems(items, reads, legends)
     freshAts = {
       inbox: reads.inbox.lastFreshAt,
       upkeep: reads.upkeep.lastFreshAt,
+      attributes: reads.attributes.lastFreshAt,
       usage: reads.usage.lastFreshAt,
     }
     logRefresh(trigger, outcomes)
@@ -146,6 +157,9 @@ function logRefresh(trigger: string, outcomes: ReadOutcomes): undefined {
   }
   if (outcomes.upkeep.status === "rejected") {
     failures.push(`upkeep: ${String(outcomes.upkeep.reason)}`)
+  }
+  if (outcomes.attributes.status === "rejected") {
+    failures.push(`attributes: ${String(outcomes.attributes.reason)}`)
   }
   if (outcomes.usage.status === "rejected") {
     failures.push(`usage: ${String(outcomes.usage.reason)}`)

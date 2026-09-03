@@ -21,7 +21,7 @@ export const statusBarPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The three readings are taken within one call.",
+      statement: "The four readings are taken within one call.",
     },
     {
       invariantKind: "departure",
@@ -33,15 +33,15 @@ export const statusBarPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A click answers with the reading in hand rather than another attempt at it.",
+      statement: "A click answers with the reading in hand rather than taking the reading again.",
     },
     {
       invariantKind: "departure",
-      statement: "A group that would not answer keeps the labels it last named.",
+      statement: "A group that would not answer keeps the labels the group last named.",
     },
     {
       invariantKind: "departure",
-      statement: "A group answering an empty legend keeps the labels it last named.",
+      statement: "A group answering an empty legend keeps the labels the group last named.",
     },
     {
       invariantKind: "departure",

@@ -12,18 +12,21 @@ export type SectionResult<T> = {
 export type SettledReads = {
   readonly inbox: SectionResult<string>
   readonly upkeep: SectionResult<string>
+  readonly attributes: SectionResult<string>
   readonly usage: SectionResult<UsageReading>
 }
 
 export type ReadOutcomes = {
   readonly inbox: PromiseSettledResult<string>
   readonly upkeep: PromiseSettledResult<string>
+  readonly attributes: PromiseSettledResult<string>
   readonly usage: PromiseSettledResult<UsageReading>
 }
 
 export type FreshAts = {
   readonly inbox: number | undefined
   readonly upkeep: number | undefined
+  readonly attributes: number | undefined
   readonly usage: number | undefined
 }
 
@@ -47,6 +50,7 @@ export function settleReads(outcomes: ReadOutcomes, prev: FreshAts, now: number)
   return {
     inbox: settleSection(outcomes.inbox, prev.inbox, now),
     upkeep: settleSection(outcomes.upkeep, prev.upkeep, now),
+    attributes: settleSection(outcomes.attributes, prev.attributes, now),
     usage: settleSection(outcomes.usage, prev.usage, now),
   }
 }
@@ -75,14 +79,16 @@ export function applyToItems(
   for (let i = 0; i < SLOTS.length; i++) {
     const slot = SLOTS[i]
     const item = items[i]
-    if (slot.kind === "separator") {
-    } else if (slot.kind === "usage") {
+    if (slot === undefined || item === undefined || slot.kind === "separator") {
+      continue
+    }
+    if (slot.kind === "usage") {
       const section = reads.usage
       const suffix = formatStaleSuffix(section.stale, section.lastFreshAt)
       const text = section.value === undefined ? undefined : slot.read(section.value)
       item.text = text === undefined ? item.text : text
       item.tooltip = `${slot.label}${suffix}`
-    } else if (slot.kind === "stoplights") {
+    } else {
       const section = reads[slot.section]
       const suffix = formatStaleSuffix(section.stale, section.lastFreshAt)
       const value = section.value
