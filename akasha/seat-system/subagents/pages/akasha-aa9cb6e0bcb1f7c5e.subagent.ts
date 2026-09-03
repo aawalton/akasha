@@ -1,0 +1,11 @@
+import type { Subagent } from "../subagent.page-type.ts"
+
+export const akashaAa9cb6e0bcb1f7c5e = {
+  id: "01a0688d-5443-73cc-8826-ee7739fc1b54",
+  pageTypeSlug: "subagent",
+  slug: "akasha-aa9cb6e0bcb1f7c5e",
+  principalSeatName: "akasha",
+  assignmentSlug: "initiative/akasha-migration",
+  dispatchedAs: "general-purpose",
+  agentId: "01a064fd-036b-7000-b22b-8e4196630c07--aa9cb6e0bcb1f7c5e",
+} as const satisfies Subagent
