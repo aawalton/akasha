@@ -1,7 +1,7 @@
 import type { BookChapter } from "../../../../../../../../book-chapter.page-type.ts"
 
 export const skilledStream = {
-  id: "01a06593-c4fe-700e-aa5b-a2986f73bd04",
+  id: "01a06594-c68b-7011-8f9a-45826f73bd04",
   pageTypeSlug: "book-chapter",
   slug: "skilled-stream",
   title: "Skilled Stream",

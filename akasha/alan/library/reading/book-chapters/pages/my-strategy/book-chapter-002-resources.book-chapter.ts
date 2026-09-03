@@ -1,11 +1,11 @@
 import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
-export const myStrategy000Beginnings = {
-  id: "01a06594-c68f-7000-934e-35dfe3dc5ddf",
+export const bookChapter002Resources = {
+  id: "01a06594-c68f-7002-9566-1fc6c8c310fa",
   pageTypeSlug: "book-chapter",
-  slug: "my-strategy-000-beginnings",
-  title: "My Strategy",
-  position: 0,
+  slug: "book-chapter-002-resources",
+  title: "What I spend",
+  position: 2,
   partOfSlugs: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",

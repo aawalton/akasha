@@ -1,11 +1,11 @@
 import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
-export const myMath000Beginnings = {
-  id: "01a06594-c68e-700e-9219-31c312a83692",
+export const bookChapter001LegibleNumbers = {
+  id: "01a06594-c68e-700f-93ce-2a86b9ca94c0",
   pageTypeSlug: "book-chapter",
-  slug: "my-math-000-beginnings",
-  title: "My Math",
-  position: 0,
+  slug: "book-chapter-001-legible-numbers",
+  title: "Legible numbers",
+  position: 1,
   partOfSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",
