@@ -180,7 +180,6 @@
       "name": "@akasha/exercise-access",
       "dependencies": {
         "@akasha/day": "workspace:*",
-        "@akasha/indexes": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
@@ -909,6 +908,14 @@
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "typescript": "^5.9.3",
+      },
+    },
+    "akasha/infrastructure/auth-proxy": {
+      "name": "@akasha/auth-proxy",
+      "dependencies": {
+        "@akasha/k8s-types": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "akasha/infrastructure/ci-benchmark": {
@@ -3085,6 +3092,8 @@
     "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:akasha/archive-of-worlds/archive-of-worlds-web"],
 
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:akasha/audhdalan/audhdalan-web"],
+
+    "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:akasha/infrastructure/auth-proxy"],
 
     "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:akasha/alan/library/book-of-everything"],
 
