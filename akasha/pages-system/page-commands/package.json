@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/page-commands",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@akasha/code-system": "workspace:*",
+    "@akasha/command-system": "workspace:*",
+    "@akasha/pages-system": "workspace:*"
+  }
+}
