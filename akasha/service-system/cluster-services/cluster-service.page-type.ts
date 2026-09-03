@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Service } from "../services/service.page-type.ts"
+import type { Schedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
 import type { ManifestCode } from "./properties/manifest-code.text-property.ts"
@@ -7,7 +8,6 @@ import type { Namespace } from "./properties/namespace.text-property.ts"
 import type { Replicas } from "./properties/replicas.number-property.ts"
 import type { ResourceKind } from "./properties/resource-kind.text-property.ts"
 import type { ResourceName } from "./properties/resource-name.text-property.ts"
-import type { Schedule } from "./properties/schedule.text-property.ts"
 
 export type ClusterService = Service & {
   resourceKind: ResourceKind

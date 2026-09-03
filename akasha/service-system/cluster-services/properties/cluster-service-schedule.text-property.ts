@@ -2,10 +2,10 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 
 export type Schedule = string
 
-export const schedule = {
+export const clusterServiceSchedule = {
   id: "01a06587-c73c-74e9-8542-4de33139539f",
   pageTypeSlug: "text-property",
-  slug: "schedule",
+  slug: "cluster-service-schedule",
   propertySlug: "schedule",
   definition: "the times the cluster starts a workload",
   max: 100,
