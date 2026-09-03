@@ -38,6 +38,7 @@ export const seatSystem = {
     "module/recipient-resolver-tick",
     "module/recipient-resolver-tick-deps",
     "module/seat-attached",
+    "module/seat-answering",
     "module/seat-children",
     "module/seat-launching",
     "module/seat-modes",

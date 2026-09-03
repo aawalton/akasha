@@ -1,25 +1,39 @@
-import { ATTRIBUTES, DECLARATIONS, type Attribute, type AttributeKey, type Declaration, attributesOf, recordedModeOf } from "./lib/attributes.ts"
-import { attributeFor } from "./lib/seat-attribute.ts"
-import { SEAT_HELP } from "./lib/seat-help.ts"
-import { type Args, parseArgs } from "./lib/seat-args.ts"
-import { refuseInitiative } from "./lib/seat-initiative.ts"
-import { launchOf, launchStating, refuseFlex } from "./lib/seat-flex.ts"
-import { principalOf } from "./lib/seat-principal.ts"
-import { handlerDerives, personaIsHers, refuseAnswering } from "./lib/seat-answering.ts"
-import { defaultFor, defaultSlots, type Found, resolveAttributes, scan } from "./lib/seat-resolve.ts"
-import { defaultLines } from "./lib/seat-defaults.ts"
-import { seatId } from "./lib/read-record.ts"
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { composeSeatName, personPrincipals } from "./lib/compose-seat-name.ts"
-import { composedNameOf, followName } from "./lib/seat-rename.ts"
-import { nameStanding } from "./lib/seat-name-stands.ts"
-import { statedFromHistory } from "./lib/seat-page-history.ts"
-import { writeSeatPage } from "./lib/seat-page.ts"
-import { statedNow } from "./lib/seat-stated.ts"
-import { nameableFrom, nameableStated } from "./lib/seat-nameable.ts"
-import { showLines, statedLines } from "./lib/seat-show.ts"
-import { akashaSeatRelPath } from "./lib/seat-page-akasha.ts"
+import { handlerDerives, personaIsHers, refuseAnswering } from "@akasha/seat-system/seat-answering"
+import {
+  ATTRIBUTES,
+  type Attribute,
+  type AttributeKey,
+  attributesOf,
+  DECLARATIONS,
+  type Declaration,
+  recordedModeOf,
+} from "./lib/attributes.ts"
 import { fail } from "./lib/command.ts"
+import { composeSeatName, personPrincipals } from "./lib/compose-seat-name.ts"
+import { seatId } from "./lib/read-record.ts"
+import { type Args, parseArgs } from "./lib/seat-args.ts"
+import { attributeFor } from "./lib/seat-attribute.ts"
+import { defaultLines } from "./lib/seat-defaults.ts"
+import { launchOf, launchStating, refuseFlex } from "./lib/seat-flex.ts"
+import { SEAT_HELP } from "./lib/seat-help.ts"
+import { refuseInitiative } from "./lib/seat-initiative.ts"
+import { nameStanding } from "./lib/seat-name-stands.ts"
+import { nameableFrom, nameableStated } from "./lib/seat-nameable.ts"
+import { writeSeatPage } from "./lib/seat-page.ts"
+import { akashaSeatRelPath } from "./lib/seat-page-akasha.ts"
+import { statedFromHistory } from "./lib/seat-page-history.ts"
+import { principalOf } from "./lib/seat-principal.ts"
+import { composedNameOf, followName } from "./lib/seat-rename.ts"
+import {
+  defaultFor,
+  defaultSlots,
+  type Found,
+  resolveAttributes,
+  scan,
+} from "./lib/seat-resolve.ts"
+import { showLines, statedLines } from "./lib/seat-show.ts"
+import { statedNow } from "./lib/seat-stated.ts"
 
 export async function run(argv: readonly string[]): Promise<void> {
   if (argv.includes("--help") || argv.includes("-h")) {
@@ -37,10 +51,16 @@ export async function run(argv: readonly string[]): Promise<void> {
     }
     const resolved = resolveAttributes(args.set, args.tokens, pages, scan(pages))
     if ("refusals" in resolved) {
-      process.stderr.write(["refused:", ...resolved.refusals.map((one) => `  ${one}`), "nothing was resolved"].join("\n") + "\n")
+      process.stderr.write(
+        ["refused:", ...resolved.refusals.map((one) => `  ${one}`), "nothing was resolved"].join(
+          "\n"
+        ) + "\n"
+      )
       process.exit(1)
     }
-    process.stdout.write(resolved.assigned.map((one) => `${one.slot}=${one.slug}`).join("\n") + "\n")
+    process.stdout.write(
+      resolved.assigned.map((one) => `${one.slot}=${one.slug}`).join("\n") + "\n"
+    )
     return
   }
   if (args.name) {
@@ -94,7 +114,9 @@ export async function run(argv: readonly string[]): Promise<void> {
       if (initiative === null) initiative = held.initiative
       if (!onCall) onCall = held.onCall
       fromHistoryPrincipal = held.principal
-      notes.push(`note:   read back from ${held.commit.slice(0, 8)}, the commit that last held \`${name}\`'s page`)
+      notes.push(
+        `note:   read back from ${held.commit.slice(0, 8)}, the commit that last held \`${name}\`'s page`
+      )
     }
   }
 
@@ -106,12 +128,16 @@ export async function run(argv: readonly string[]): Promise<void> {
   let mode = args.mode
   if (args.asDefault) {
     if (args.clear.length > 0) {
-      fail("--default writes where nothing is held and --clear unsets what is, so one call cannot mean both")
+      fail(
+        "--default writes where nothing is held and --clear unsets what is, so one call cannot mean both"
+      )
     }
     for (const key of ATTRIBUTES) {
       const standing = stands[key]
       if (standing === undefined || set[key] === undefined) continue
-      notes.push(`note:   ${key} stands at \`${standing.slug}\` — a default does not replace what is held`)
+      notes.push(
+        `note:   ${key} stands at \`${standing.slug}\` — a default does not replace what is held`
+      )
       delete set[key]
     }
     for (const slot of defaultSlots(pages)) {
@@ -132,7 +158,9 @@ export async function run(argv: readonly string[]): Promise<void> {
     const heldPersona = set["persona"] ?? stands["persona"]?.slug ?? null
     if (!personaIsHers(pages, heldPersona)) {
       set["persona"] = derived.persona
-      notes.push(`note:   persona \`${derived.persona}\` is who \`${derived.principal}\` hears from`)
+      notes.push(
+        `note:   persona \`${derived.persona}\` is who \`${derived.principal}\` hears from`
+      )
     }
   }
   let principal = args.principal ?? fromHistoryPrincipal
@@ -142,23 +170,30 @@ export async function run(argv: readonly string[]): Promise<void> {
   }
 
   const named = DECLARATIONS.filter((key) => set[key] !== undefined)
-  const quiet = args.clear.length === 0 && mode === null && initiative === null && args.flex === null && args.principal === null && args.registration === null && !onCall
+  const quiet =
+    args.clear.length === 0 &&
+    mode === null &&
+    initiative === null &&
+    args.flex === null &&
+    args.principal === null &&
+    args.registration === null &&
+    !onCall
   if (named.length === 0 && quiet) {
     if (args.asDefault) {
-      process.stdout.write(
-        [...notes, `seat:   ${agent}`, ...statedLines(agent)].join("\n") + "\n"
-      )
+      process.stdout.write([...notes, `seat:   ${agent}`, ...statedLines(agent)].join("\n") + "\n")
       return
     }
     process.stderr.write(
-      [...notes, "error: nothing to state — name at least one attribute or --mode, or --show what stands"].join("\n") + "\n"
+      [
+        ...notes,
+        "error: nothing to state — name at least one attribute or --mode, or --show what stands",
+      ].join("\n") + "\n"
     )
     process.exit(1)
   }
 
   const heldPrincipal = principal ?? principalOf(agent)?.value ?? null
-  const openedByPerson =
-    heldPrincipal !== null && personPrincipals(pages).includes(heldPrincipal)
+  const openedByPerson = heldPrincipal !== null && personPrincipals(pages).includes(heldPrincipal)
   const refused = [
     ...(initiative === null ? [] : refuseInitiative(initiative, rootFor(roots, AKASHA))),
     ...(args.flex === null
@@ -171,7 +206,8 @@ export async function run(argv: readonly string[]): Promise<void> {
   const resolved = resolveAttributes(set, [], pages, found)
   const stop = (all: readonly string[]): void => {
     process.stderr.write(
-      [...notes, "refused:", ...all.map((one) => `  ${one}`), "nothing was stated"].join("\n") + "\n"
+      [...notes, "refused:", ...all.map((one) => `  ${one}`), "nothing was stated"].join("\n") +
+        "\n"
     )
     process.exit(1)
   }
@@ -224,11 +260,7 @@ export async function run(argv: readonly string[]): Promise<void> {
       principal,
       registration: args.registration,
     }
-    const page = writeSeatPage(
-      statedNow(agent, standing, said),
-      seatName,
-      args.parentName
-    )
+    const page = writeSeatPage(statedNow(agent, standing, said), seatName, args.parentName)
     if (page.kind === "refused") {
       stop([
         `${akashaSeatRelPath(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,
@@ -246,7 +278,14 @@ export async function run(argv: readonly string[]): Promise<void> {
   }
   const cleared = args.clear.length > 0 ? [`clear:  ${args.clear.join(", ")}`] : []
   process.stdout.write(
-    [...notes, ...cleared, `seat:   ${agent}`, ...statedLines(agent), "", "Read every document above; until you do, an armed gate refuses everything but Read, Grep and Glob."].join("\n") + "\n"
+    [
+      ...notes,
+      ...cleared,
+      `seat:   ${agent}`,
+      ...statedLines(agent),
+      "",
+      "Read every document above; until you do, an armed gate refuses everything but Read, Grep and Glob.",
+    ].join("\n") + "\n"
   )
 }
 

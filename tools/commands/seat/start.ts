@@ -3,6 +3,11 @@ export const summary =
 
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import {
+  handlerDerives,
+  principalIsPerson,
+  refuseAnswering,
+} from "@akasha/seat-system/seat-answering"
+import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
   SEAT_MODE_INTERACTIVE,
@@ -25,7 +30,6 @@ import { refuseParentless } from "../../lib/refuse-parentless.ts"
 import { refuseStatedName } from "../../lib/refuse-stated-name.ts"
 import { refuseStatedParent } from "../../lib/refuse-stated-parent.ts"
 import { resolveStatedIdentity } from "../../lib/resolve-stated-identity.ts"
-import { handlerDerives, principalIsPerson, refuseAnswering } from "../../lib/seat-answering.ts"
 import { seatByName } from "../../lib/seat-by-name.ts"
 import { isValidSeatName, resolveOptionalSeatId } from "../../lib/seat-handle.ts"
 import { mintNamedAgent } from "../../lib/seat-name-bind.ts"

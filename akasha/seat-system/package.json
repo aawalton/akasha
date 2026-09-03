@@ -10,6 +10,7 @@
     "./recipient-resolver-registry": "./recipient-resolving/recipient-resolver-registry/recipient-resolver-registry.module.code.ts",
     "./recipient-resolver-tick": "./recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts",
     "./role-slug": "./seats/properties/role-slug.relation-property.ts",
+    "./seat-answering": "./seat-answering/seat-answering.module.code.ts",
     "./seat-attached": "./seat-attached/seat-attached.module.code.ts",
     "./seat-children": "./seat-children/seat-children.module.code.ts",
     "./seat-launching": "./seat-launching/seat-launching.module.code.ts",
