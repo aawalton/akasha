@@ -1,9 +1,6 @@
 {
   "references": [
     {
-      "path": "./infra/scripts"
-    },
-    {
       "path": "./akasha/temper/temper-web"
     },
     {
