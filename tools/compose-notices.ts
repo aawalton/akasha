@@ -1,19 +1,18 @@
-
-import { existsSync, readFileSync, writeFileSync } from "node:fs"
-import { sections } from "./lib/markdown.ts"
+import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { fail } from "./lib/command.ts"
 
-const DOCUMENT = "pages/notice/resume.notice.md"
+const NOTICES = "akasha/seat-system/notices/pages"
 
-const NOTICE_DEPTH = 2
+const TAIL = ".notice.text.md"
 
 const HELP = `bun tools/compose-notices.ts — render what a seat is told when it is put back to work
 
-Every notice in \`${DOCUMENT}\`, as a JSON object of notice name to composed text. Callers
-ask for them by name, so a section renamed here is a notice one of them no longer finds.
-Nothing says so before a fleet meets it: the check that did, \`tools/audits/resume-notices.ts\`,
-went with the rest of that orphaned folder and has no successor yet.
+Every notice page under \`${NOTICES}\`, as a JSON object of notice slug to composed text.
+Callers ask for them by slug, so a page renamed there is a notice one of them no longer
+finds. Nothing says so before a fleet meets it: the check that did,
+\`tools/audits/resume-notices.ts\`, went with the rest of that orphaned folder and has no
+successor yet.
 
 Wrapping is the author's convenience and not part of the text: the lines of a paragraph
 are joined with a space, and a blank line between paragraphs survives as one.
@@ -58,23 +57,25 @@ export function render(body: string): string {
     .join("\n\n")
 }
 
-export function noticesIn(body: string): Readonly<Record<string, string>> {
+export function noticesUnder(folder: string): Readonly<Record<string, string>> {
   const notices: Record<string, string> = {}
-  for (const section of sections(body, NOTICE_DEPTH)) {
-    if (section.title in notices) {
-      fail(`${DOCUMENT} declares \`${section.title}\` twice, so which body a seat receives is unsettled`)
-    }
-    notices[section.title] = render(section.body)
+  for (const name of readdirSync(folder).sort()) {
+    if (!name.endsWith(TAIL)) continue
+    notices[name.slice(0, -TAIL.length)] = render(readFileSync(`${folder}/${name}`, "utf8"))
   }
   return notices
 }
 
 export function notices(): Readonly<Record<string, string>> {
-  const absolute = `${rootFor(resolveRoots(), AKASHA)}/${DOCUMENT}`
-  if (!existsSync(absolute)) {
-    fail(`${absolute} is not there, so there is no notice to render`)
+  const folder = `${rootFor(resolveRoots(), AKASHA)}/${NOTICES}`
+  if (!existsSync(folder)) {
+    fail(`${folder} is not there, so there is no notice to render`)
   }
-  return noticesIn(readFileSync(absolute, "utf8"))
+  const found = noticesUnder(folder)
+  if (Object.keys(found).length === 0) {
+    fail(`${folder} holds no notice page, so there is no notice to render`)
+  }
+  return found
 }
 
 function main(): void {
