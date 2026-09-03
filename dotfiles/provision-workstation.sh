@@ -106,16 +106,16 @@ if [ "$(uname)" != "Darwin" ]; then
 fi
 
 
-echo "==> Projecting the workstation-service documents into systemd units..."
-if [ -f "$AKASHA/tools/ops/cli.ts" ]; then
-  if ! (cd "$AKASHA" && bun ops service install --all --apply); then
-    echo "WARN: 'ops service install --all --apply' failed — every service that" >&2
-    echo "      pages/workstation-service/*.md describes is uninstalled on this box." >&2
+echo "==> Projecting the workstation-service pages into systemd units..."
+if [ -f "$AKASHA/akasha/command-system/cli/cli.module.code.ts" ]; then
+  if ! (cd "$AKASHA" && bun akasha/command-system/cli/cli.module.code.ts service install --all); then
+    echo "WARN: 'akasha service install --all' failed — every service that a" >&2
+    echo "      workstation-service page describes is uninstalled on this box." >&2
     echo "      Re-run it once the cause is cleared." >&2
   fi
 else
-  echo "WARN: no akasha checkout at $AKASHA, so pages/workstation-service/*.md cannot" >&2
-  echo "      be read and none of the services it describes is installed." >&2
+  echo "WARN: no akasha checkout at $AKASHA, so the workstation-service pages cannot" >&2
+  echo "      be read and none of the services they describe is installed." >&2
 fi
 
 systemctl --user daemon-reload
