@@ -8,6 +8,7 @@ export const pageTree = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
+  taking: [],
   helpNotes: [
     "one JSON object is printed and nothing else, carrying `types`, `properties` and `propertyTypes`.",
     "a row is `at` and `values`, and whoever asked assembles the tree, which keeps the assembling in one place rather than in two runtimes.",
