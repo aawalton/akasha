@@ -7,7 +7,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "ollama",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "infra/inference/src/services/ollama",
+    sourceDir: "akasha/infrastructure/inference-pool/ollama-provision",
     workdir: ".",
     command: [
       "env",
@@ -26,7 +26,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "image-gen",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "infra/inference/src/services/mlx-openai-server",
+    sourceDir: "akasha/infrastructure/inference-pool/mlx-openai-server-provision",
     workdir: ".",
     command: [
       "mlx-openai-server",
@@ -55,7 +55,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "segment-rembg",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "infra/inference/src/services/segment-rembg",
+    sourceDir: "akasha/infrastructure/inference-pool/segment-rembg-provision",
     workdir: "src",
     command: ["python", "server.py", "--host", "127.0.0.1", "--port", "18101"],
     port: 8101,
@@ -66,7 +66,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "mlx-vlm",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "infra/inference/src/services/mlx-vlm",
+    sourceDir: "akasha/infrastructure/inference-pool/mlx-vlm-provision",
     workdir: ".",
     command: [
       "python",
@@ -87,7 +87,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "music-gen",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "infra/inference/src/services/music-gen",
+    sourceDir: "akasha/infrastructure/inference-pool/music-gen-provision",
     workdir: "ACE-Step-1.5",
     command: [
       "bash",
@@ -102,7 +102,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "traffic-cop",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "infra/inference/src/services/traffic-cop",
+    sourceDir: "akasha/infrastructure/inference-pool/traffic-cop-provision",
     workdir: ".",
     command: ["bun", "run", "src/server.ts"],
     port: 8099,

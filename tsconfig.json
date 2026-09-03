@@ -28,9 +28,6 @@
       "path": "./infra/eso-rig"
     },
     {
-      "path": "./infra/inference"
-    },
-    {
       "path": "./infra/k8s-postgres-annual-dump"
     },
     {
