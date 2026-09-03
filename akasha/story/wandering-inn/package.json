@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/wandering-inn",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./chapter": "./chapter/chapter.module.code.ts",
+    "./site": "./site/site.module.code.ts"
+  },
+  "dependencies": {
+    "playwright-core": "1.61.1"
+  }
+}

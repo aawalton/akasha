@@ -959,6 +959,12 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/story/wandering-inn": {
+      "name": "@akasha/wandering-inn",
+      "dependencies": {
+        "playwright-core": "1.61.1",
+      },
+    },
     "akasha/supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
@@ -3583,6 +3589,8 @@
     "@akasha/verdict": ["@akasha/verdict@workspace:akasha/verdict"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
+
+    "@akasha/wandering-inn": ["@akasha/wandering-inn@workspace:akasha/story/wandering-inn"],
 
     "@akasha/web-build-version": ["@akasha/web-build-version@workspace:akasha/version/web-build"],
 
