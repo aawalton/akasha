@@ -8,9 +8,18 @@ import { put } from "@akasha/testing-system/putting"
 import { MECHANICAL } from "../../asking/asking.module.code.ts"
 import { bodyIn, checking, givenIn } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
-import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
+import { readingIn } from "../../reading/reading.module.code.ts"
 import { write, writing } from "./write.command.code.ts"
-import { AGENT, repoWith, scratch, wroteAt } from "./write.command.test-fixtures.ts"
+import {
+  AGENT,
+  alsoCommitted,
+  readAs,
+  removed,
+  repoWith,
+  scratch,
+  wroteAndRemoved,
+  wroteAt,
+} from "./write.command.test-fixtures.ts"
 import { write as writeCommand } from "./write.command.ts"
 
 afterAll(scratch.sweep)
@@ -29,25 +38,15 @@ test("a write over a body the record does not show read is refused", () => {
 
 test("a path taken away is warranted as one written over is", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  recordRead(root, AGENT, {
-    path: "akasha/two.ts",
-    oid: blobIdOf(bytes("elsewhere\n")),
-    seenAt: 1,
-    mechanicalOid: null,
-  })
-  const said = write(["--remove", "akasha/two.ts"], givenIn(root))
+  readAs(root, "akasha/two.ts", "elsewhere\n")
+  const said = removed(root, "akasha/two.ts")
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("it has changed since")
 })
 
 test("a write over a body that changed since it was read is refused", () => {
   const root = repoWith()
-  recordRead(root, AGENT, {
-    path: "akasha/one.ts",
-    oid: blobIdOf(bytes("elsewhere\n")),
-    seenAt: 1,
-    mechanicalOid: null,
-  })
+  readAs(root, "akasha/one.ts", "elsewhere\n")
   const said = wroteAt(root, "akasha/one.ts")
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("it has changed since")
@@ -136,11 +135,7 @@ test("the bodies written and the paths taken away are one commit, refused togeth
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   checking(root, "refuses", REFUSES_CODE)
   const was = headOf(root)
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts"],
-    givenIn(root)
-  )
+  const said = wroteAndRemoved(root, "akasha/three.ts", "akasha/two.ts")
   expect(said.code).toBe(3)
   expect(existsSync(join(root, "akasha/three.ts"))).toBe(false)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("committed\n")
@@ -149,11 +144,7 @@ test("the bodies written and the paths taken away are one commit, refused togeth
 
 test("a removal takes the file away and commits it with the write", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts"],
-    givenIn(root)
-  )
+  const said = wroteAndRemoved(root, "akasha/three.ts", "akasha/two.ts")
   expect(said.code).toBe(0)
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual([
@@ -162,15 +153,26 @@ test("a removal takes the file away and commits it with the write", () => {
   ])
 })
 
-test("a file standing beside a path taken away goes with it, warranted by nobody", () => {
+test("a file beside a path taken away goes with it, tracked or not, warranted by nobody", () => {
   const root = repoWith({ "akasha/held.module.ts": "committed\n" })
-  put(root, "akasha/held.module.code.ts", "beside\n")
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "beside"])
-  const said = write(["--remove", "akasha/held.module.ts"], givenIn(root))
+  const kept = alsoCommitted(root, "akasha/held.module.code.ts", "beside\n")
+  const loose = put(root, "akasha/held.module.uncommitted.ts", "loose\n")
+  const said = removed(root, "akasha/held.module.ts")
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(existsSync(join(root, "akasha/held.module.code.ts"))).toBe(false)
+  expect(existsSync(join(root, kept))).toBe(false)
+  expect(existsSync(loose)).toBe(false)
+})
+
+test("a path git does not track is taken away where --remove names it", () => {
+  const root = repoWith()
+  const at = "akasha/held.module.uncommitted.ts"
+  put(root, at, "loose\n")
+  expect(removed(root, at).refusals[0]).not.toContain("take nothing away")
+  readAs(root, at, "loose\n")
+  const said = removed(root, at)
+  expect(said.refusals).toEqual([])
+  expect(existsSync(join(root, at))).toBe(false)
 })
 
 test("a file standing beside a path this call writes is not taken away", () => {
@@ -179,24 +181,14 @@ test("a file standing beside a path this call writes is not taken away", () => {
     "akasha/held.module.code.ts": "committed\n",
     "akasha/two.ts": "committed\n",
   })
-  const said = write(
-    [
-      "--file-path",
-      "akasha/held.module.code.ts",
-      "--content-file",
-      bodyIn(root),
-      "--remove",
-      "akasha/two.ts",
-    ],
-    givenIn(root)
-  )
+  const said = wroteAndRemoved(root, "akasha/held.module.code.ts", "akasha/two.ts")
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/held.module.code.ts"), "utf8")).toBe("proposed\n")
 })
 
 test("a path taken away is forgotten by the record, so it can be written again", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  const gone = write(["--remove", "akasha/two.ts"], givenIn(root))
+  const gone = removed(root, "akasha/two.ts")
   expect(gone.refusals).toEqual([])
   expect(readingIn(root, AGENT, "akasha/two.ts")).toBeNull()
   expect(readingIn(root, AGENT, "akasha/one.ts")).not.toBeNull()
@@ -209,7 +201,7 @@ test("a path taken away is forgotten by the record, so it can be written again",
 test("a removal of what is not there is refused as data that is wrong", () => {
   const root = repoWith()
   const was = headOf(root)
-  const said = write(["--remove", "akasha/nowhere.ts"], givenIn(root))
+  const said = removed(root, "akasha/nowhere.ts")
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("take nothing away")
   expect(headOf(root)).toBe(was)
@@ -239,7 +231,7 @@ test("a path inside .git and a folder at the top of the repository are both refu
 
 test("a path outside the akasha folder is refused at --remove", () => {
   const root = repoWith()
-  const said = write(["--remove", "elsewhere/two.ts"], givenIn(root))
+  const said = removed(root, "elsewhere/two.ts")
   expect(said.refusals[0]).toContain("say `akasha remove` for a path outside it")
 })
 
@@ -298,11 +290,7 @@ test("a call asking for nothing is refused", () => {
 
 test("one path written and taken away by one call is refused", () => {
   const root = repoWith()
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/one.ts", "--content-file", from, "--remove", "akasha/one.ts"],
-    givenIn(root)
-  )
+  const said = wroteAndRemoved(root, "akasha/one.ts", "akasha/one.ts")
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("both written and taken away")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("committed\n")

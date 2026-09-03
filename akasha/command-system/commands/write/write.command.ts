@@ -116,6 +116,11 @@ export const write = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A file beside a path taken away goes with it whether or not git tracks that file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file carried along beside a path taken away is not warranted.",
     },
     {
@@ -124,7 +129,11 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "A path named at `--remove` that stands at no body is refused.",
+      statement: "A path named at `--remove` the base commit misses and no disk holds is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path named at `--remove` that git does not track is taken off the disk.",
     },
     {
       invariantKind: "departure",

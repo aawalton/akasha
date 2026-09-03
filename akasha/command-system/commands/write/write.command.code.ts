@@ -230,7 +230,11 @@ export function removingIn(
       continue
     }
     seen.add(path)
-    if (base !== null && bodyAt(given.root, base, path) === null) {
+    if (
+      base !== null &&
+      bodyAt(given.root, base, path) === null &&
+      !existsSync(join(given.root, path))
+    ) {
       wrong.push(`${REMOVE} ${path} is not there, so the removal would take nothing away`)
       continue
     }
@@ -249,7 +253,7 @@ export function besideTaken(
   if (base === null) return []
   const changes: FileEdit[] = []
   for (const one of besideAll(resolve(given.root), taken)) {
-    if (seen.has(one) || bodyAt(given.root, base, one) === null) continue
+    if (seen.has(one)) continue
     seen.add(one)
     changes.push({ path: one, body: null })
   }
