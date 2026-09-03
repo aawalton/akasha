@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "1 of 77 landed (`terminal-marks`, 1b6a8ef831) — the only file landable alone. 2 of 3 renames done in the ORIGINAL tree, where nothing judges them: f3f078c0cf, 51be81b353; one term left. A module lands ATOMICALLY: manifest, partSlugs and both bodies in ONE `akasha write`, since edit cannot create and the checks refuse either half alone. Then 23 leaves, then topological order; `harness-call.ts` is the hinge at 14 dependents. `no-class` refuses 2 classes. Never repoint the 4 symlinks first.",
+        "3 of 3 renames DONE (f3f078c0cf, 51be81b353, 764498d4dd); the tree is taboo-clean but for one name from `tools/lib/seat-akasha-beside` reaching 5 files there, which blocks `seat-page.ts`. 1 of 77 landed (1b6a8ef831), the only file landable alone. A landing is ATOMIC: manifest, partSlugs and both bodies in ONE `akasha write`. Then 23 leaves, then topological order; `harness-call.ts` is the hinge, 14 dependents. `no-class` refuses 2 classes. Never repoint the 4 symlinks first.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
