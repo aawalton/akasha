@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const threeChunkPagesWereReMintedOverIdsThatWereAlreadyUuidV7 = {
+  id: "01a06763-14c8-72e7-8e80-95cbfa10ceff",
+  pageTypeSlug: "finding",
+  slug: "three-chunk-pages-were-re-minted-over-ids-that-were-already-uuid-v7",
+  domainSlug: "domain/temper-holdings",
+  claim:
+    "Of the 458 `temper-inventory-chunk` pages, 455 carry forward the id of the markdown page they were made from and 3 do not. The 3 are the 2026-08-29-20-59-15 capture, and they are exactly the 3 backup pages carrying no `slug` field, so the absent slug and the broken lineage are one event rather than two. The old ids were already uuid v7, so nothing licensed replacing them, and the replacements keep none of the last eight hex either.",
+  evidence:
+    "Measured 2026-09-03 against `/var/home/walton/repos/akasha-backup-2026-09-02/pages/temper-inventory-chunk`, which holds 458 markdown pages to the 458 under `akasha/temper/temper-holdings/inventory-chunks/pages`. Joining them, 455 ids are identical, 3 differ, 0 have no counterpart. 455 of the backup pages state a `slug` field and 3 do not, and that set of 3 is the same set, compared as sorted lists rather than by eye.\n\nThe three, old then new: `01a05bb0-a2e0-7000-9213-f1853890affe` to `01a06004-37c8-7ed1-b630-90265c2b113f`, `01a05bb0-a65c-7000-aaac-57da2f329f1d` to `01a06004-37c8-7d8e-b14e-d4785f2a52f3`, `01a05bb0-a9d5-7000-8036-a1f6d160b2c4` to `01a06004-37c8-7e8d-8d86-9ed18d4ecbe2`. Every old one has version nibble 7 and a valid variant, so the rule about replacing an id that is no uuid version 7 was never reached, and the rule about keeping the last eight hex was not followed for any of the 3.\n\nNothing points at any of the six. Searching the repository outside `.git`, each old id appears in 0 files and each new id in exactly 1, its own page. So the repair is a three-line change with no referrer to chase, which is why this is filed rather than re-minted here.\n\nOn the instrument: the akasha files are named `at-<capture>-<index>` and the backup files `<capture>-<index>`, so a join on the file stem matches nothing and reports 458 pages with no counterpart and 0 differing. Counting the comparisons that landed is what caught that. A seeded fault confirms the live comparer: altering one hex of a carried-forward old id flipped it from equal to differing.",
+} as const satisfies Finding
