@@ -47,10 +47,11 @@ interface AppShellProps {
 /**
  * Signing out happens in the browser, never as a form POST to `/sign-out`.
  *
- * This shell is shared: `app-capacitor/` maps `~/*` onto `../app/*` and ships this same footer
- * inside the native WebView. That build is `ssr: false` and its route table (`app-capacitor/
- * routes.ts`) has no `/sign-out` entry, so a native `<form method="POST" action="/sign-out">`
- * had no action to reach and no server behind it either — Capacitor answers
+ * This shell is shared: `@akasha/alanwalton-web-capacitor` reaches it through this package's
+ * manifest and ships this same footer inside the native WebView. That build is `ssr: false`
+ * and its route table (`akasha/alan/web-capacitor/routes.ts`) has no `/sign-out` entry, so a
+ * native `<form method="POST" action="/sign-out">` had no action to reach and no server
+ * behind it either — Capacitor answers
  * `capacitor://localhost` from bundled static files. The tap became a whole-document navigation
  * to `capacitor://localhost/sign-out` (recorded from a real device in
  * `pages/error/34940cc43ed78824.error.md`), which left the session sitting in localStorage and
