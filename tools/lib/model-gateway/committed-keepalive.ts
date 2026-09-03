@@ -93,7 +93,10 @@ export function buildCommittedKeepaliveResponse(args: {
 
   let closed = false
   let disconnected = false
-  let activeReader: ReadableStreamDefaultReader<Uint8Array> | null = null
+  // The reader is spelled as what `Response.body.getReader()` answers rather than as
+  // `ReadableStreamDefaultReader<Uint8Array>`, which under `@types/bun` demands a `readMany` the
+  // web reader a fetch response hands back does not carry.
+  let activeReader: ReturnType<NonNullable<Response["body"]>["getReader"]> | null = null
   // THE EMITTER IS REACHED FROM `cancel` RATHER THAN FROM `start` ALONE. A cancel sets `closed`
   // before `finishComplete` runs, so `finishComplete` returns at its first line and the `stop()`
   // inside it is never reached; and `fire()` re-arms itself for as long as `stopped` is false.
