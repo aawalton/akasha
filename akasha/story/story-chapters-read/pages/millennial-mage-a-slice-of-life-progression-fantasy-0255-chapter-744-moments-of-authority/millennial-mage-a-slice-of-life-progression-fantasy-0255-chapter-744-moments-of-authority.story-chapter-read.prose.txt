@@ -1,17 +1,3 @@
----
-id: 55b7a800-b17e-54ae-b8e4-30fea5601cfc
-page-type-slug: story-chapter-royal-road
-title: "Chapter: 744 - Moments of Authority"
-slug: 0255-chapter-744-moments-of-authority
-partOf: millennial-mage-a-slice-of-life-progression-fantasy
-position: 255
-ownLength: 2611
-unit: words
-publishedAt: 2026-08-28
-link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3876365/chapter-744-moments-of-authority"
-royalRoadId: "3876365"
----
-
 Mistress Holly sank deeper into her trance, funneling her power and self through the modifying scripts as she delved the Archive, looking for any hint of—
 
 She jerked back to full wakefulness, feeling the surging authority from the south.
@@ -254,10 +240,3 @@ No one seemed inclined to attack the tree again and for good reason. Doing so wo
 
 Tala found it difficult to truly think that through, to truly care.
 
-Alat scooped up Tala’s fortifications, willing them to disconnect before being drawn into their place within her expanded space. Her body then began to move, she and the others of Reforged or Revered advancement forming the rearguard, their power interlinking within her authority to keep any return of the Forest Spirit in check.
-
-Tala’s consciousness was still struggling with the final word, written in an all-too-familiar hand.
-
-Eskau De-arg had done something and gotten her this note.
-
-Whatever it was, she might never know, because the last word was simply, ‘Goodbye.’
