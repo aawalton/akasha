@@ -1,9 +1,9 @@
-
 import { writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 
-import { aliasIndexesFromPages } from "./oauth-page-state.ts"
+import { aliasIndexesIn } from "@akasha/agents/claude-account-reading"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export const ACCOUNT_ALIAS_SNAPSHOT_PATH = join(homedir(), ".claude", "account-aliases.json")
 
@@ -34,8 +34,9 @@ export function writeAliasSnapshot(
 export function syncAliasSnapshotFromPages(
   path = ACCOUNT_ALIAS_SNAPSHOT_PATH
 ): readonly AliasEntry[] {
+  const root = rootFor(resolveRoots(), AKASHA)
   const entries = sortAliasEntries(
-    [...aliasIndexesFromPages()].map(([account, aliasIndex]) => ({ account, aliasIndex }))
+    [...aliasIndexesIn(root)].map(([account, aliasIndex]) => ({ account, aliasIndex }))
   )
   writeAliasSnapshot(entries, path)
   return entries

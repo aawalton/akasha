@@ -1,11 +1,12 @@
+import { summarizePool } from "@akasha/agents/claude-account-selection"
+import { pacingIn } from "@akasha/agents/oauth-effects"
 import type { AccountState } from "@akasha/agents/oauth-types"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import {
   askSupervisorDecide,
   classifyRateLimitDeath,
 } from "@akasha/seat-system/supervisor-limit-resume-effects"
 import { readOwnTranscriptTail } from "./agent-io-probe.ts"
-import { pacingFromPages } from "./oauth-page-db.ts"
-import { summarizePool } from "./oauth-selection"
 import {
   type AskDecide,
   askLimitResume,
@@ -40,7 +41,8 @@ export function startLimitResumeMonitor(opts: {
   eligibilityHoldMs?: number
 }): { stop: () => void } {
   const readTranscriptTail = opts.readTranscriptTail ?? readOwnTranscriptTail
-  const readPacing = opts.readPacing ?? (async () => [...pacingFromPages().values()])
+  const readPacing =
+    opts.readPacing ?? (async () => [...pacingIn(rootFor(resolveRoots(), AKASHA)).values()])
   const ask = opts.ask ?? askSupervisorDecide
   const hasRecentNudge = opts.hasRecentNudge ?? hasRecentInboundMessage
   const injectNudge =
@@ -78,7 +80,7 @@ export function startLimitResumeMonitor(opts: {
         return
       }
       const now = nowFn()
-      const summary = summarizePool(await readPacing(), now)
+      const summary = summarizePool(await readPacing())
       const hasCapacity = summary.eligibleCount > 0
       if (hasCapacity) {
         eligibleSinceMs ??= now
