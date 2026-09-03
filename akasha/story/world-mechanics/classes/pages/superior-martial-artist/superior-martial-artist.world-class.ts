@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const superiorMartialArtist = {
   id: "01a0657e-0261-7599-8cb6-0465e30bea4c",

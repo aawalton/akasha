@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const talismanSeller = {
   id: "01a0657e-0269-7a6d-852d-f4b8b381a66e",
