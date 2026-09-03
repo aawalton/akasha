@@ -2,6 +2,7 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
 import type { ActivityType } from "./properties/activity-type.select-property.ts"
+import type { Distance } from "./properties/distance.number-property.ts"
 import type { DurationSeconds } from "./properties/duration-seconds.number-property.ts"
 import type { ExerciseSlug } from "./properties/exercise-slug.relation-property.ts"
 import type { IsWarmup } from "./properties/is-warmup.boolean-property.ts"
@@ -15,6 +16,7 @@ import type { Weight } from "./properties/weight.number-property.ts"
 export type SetLog = Page & {
   title: Title
   activityType?: ActivityType
+  distance?: Distance
   durationSeconds?: DurationSeconds
   exerciseSlug: ExerciseSlug
   isWarmup?: IsWarmup
@@ -35,6 +37,7 @@ export const setLog = {
   extendsSlug: "page-type/page",
   partSlugs: [
     "boolean-property/is-warmup",
+    "number-property/distance",
     "number-property/duration-seconds",
     "number-property/reps",
     "number-property/rpe",
@@ -48,6 +51,7 @@ export const setLog = {
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "activity-type", required: false, many: false },
+    { pagePropertySlug: "distance", required: false, many: false },
     { pagePropertySlug: "duration-seconds", required: false, many: false },
     { pagePropertySlug: "exercise-slug", required: true, many: false },
     { pagePropertySlug: "is-warmup", required: false, many: false },
