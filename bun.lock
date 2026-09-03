@@ -922,6 +922,14 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/infrastructure/backup-retention": {
+      "name": "@akasha/backup-retention",
+      "dependencies": {
+        "@akasha/k8s-types": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/infrastructure/ci-benchmark": {
       "name": "@akasha/ci-benchmark",
     },
@@ -3115,6 +3123,8 @@
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:akasha/audhdalan/audhdalan-web"],
 
     "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:akasha/infrastructure/auth-proxy"],
+
+    "@akasha/backup-retention": ["@akasha/backup-retention@workspace:akasha/infrastructure/backup-retention"],
 
     "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:akasha/alan/library/book-of-everything"],
 
