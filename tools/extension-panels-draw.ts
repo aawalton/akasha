@@ -14,8 +14,9 @@ that draws a full tree. The failure that looks like a success is the one worth a
 
 WHAT THIS RUNS IS THE EXTENSION, NOT A MODEL OF IT.
 
-\`editor-extension/src/extension.ts\` is bundled for node and its \`activate()\` is called under
-node, the way the extension host calls it, against \`tools/extension-panel-stub.cjs\` — a \`vscode\`
+The \`main\` of \`akasha/editor-extension/ops-extension\` is bundled for node and its \`activate()\`
+is called under node, the way the extension host calls it, against
+\`tools/extension-panel-stub.mjs\` — a \`vscode\`
 whose \`createTreeView\`, \`createStatusBarItem\`, \`TreeItem\` and \`EventEmitter\` keep what is
 written into them and whose every other member falls through to the same permissive Proxy
 \`extension-node-clean\` uses. Then each registered provider is asked \`getChildren\` and
@@ -54,7 +55,7 @@ that channel.
 
 const ROOT = process.cwd()
 
-const ENTRY = "editor-extension/src/extension.ts"
+const ENTRY = "akasha/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
 
 const STUB = "tools/extension-panel-stub.mjs"
 
@@ -93,7 +94,11 @@ const RUN_TIMEOUT_MS = 180_000
 // A group that draws four of six stoplights has lost two readouts, and drawing four is not an
 // error anywhere else. A third group of six read the `values` readouts until `267f233e10` took the
 // group, its slot and its separator out of the status bar.
-const PINNED_GROUPS: readonly { readonly id: string; readonly said: string; readonly count: number }[] = [
+const PINNED_GROUPS: readonly {
+  readonly id: string
+  readonly said: string
+  readonly count: number
+}[] = [
   { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 6 },
   { id: "opsStatusBar.inboxStoplights", said: "inboxes", count: 3 },
 ]
@@ -319,13 +324,23 @@ export function judgeTree(drawn: Drawn, want: TreeExpectation): Verdict {
       notes,
     }
   }
-  return { surface: want.viewId, green: true, said: `${want.said} drew ${String(all.length)} rows`, notes }
+  return {
+    surface: want.viewId,
+    green: true,
+    said: `${want.said} drew ${String(all.length)} rows`,
+    notes,
+  }
 }
 
 export function judgeStatusBar(drawn: Drawn): Verdict {
   const items = drawn.statusBar
   if (items.length === 0) {
-    return { surface: "statusBar", green: false, said: "the status bar created no item at all", notes: [] }
+    return {
+      surface: "statusBar",
+      green: false,
+      said: "the status bar created no item at all",
+      notes: [],
+    }
   }
   const byId = new Map(items.map((one) => [one.id, one]))
   const notes: string[] = [
@@ -361,7 +376,12 @@ export function judgeStatusBar(drawn: Drawn): Verdict {
     wrong.push(`${String(hidden.length)} items were created and never shown`)
   }
   if (wrong.length > 0) {
-    return { surface: "statusBar", green: false, said: `the status bar — ${wrong.join("; ")}`, notes }
+    return {
+      surface: "statusBar",
+      green: false,
+      said: `the status bar — ${wrong.join("; ")}`,
+      notes,
+    }
   }
   return {
     surface: "statusBar",
@@ -510,7 +530,9 @@ function timingReport(drawn: Drawn): readonly string[] {
   }
   for (const [surface, feature] of Object.entries(FILLED_BY)) {
     if (!byFeature.has(feature)) {
-      said.push(`  ${feature.padEnd(16)}      ?ms  the activation channel timed no start for it (${surface})`)
+      said.push(
+        `  ${feature.padEnd(16)}      ?ms  the activation channel timed no start for it (${surface})`
+      )
     }
   }
   const agentLines = drawn.channels["Ops: Agent Tree"] ?? []
@@ -576,7 +598,9 @@ export async function main(argv: readonly string[]): Promise<number> {
     process.stdout.write(`REFUSED  activation threw: ${firstLine(drawn.activateError)}\n`)
   }
   for (const verdict of verdicts) {
-    process.stdout.write(`${verdict.green ? "drawn   " : "EMPTY   "} ${verdict.surface} — ${verdict.said}\n`)
+    process.stdout.write(
+      `${verdict.green ? "drawn   " : "EMPTY   "} ${verdict.surface} — ${verdict.said}\n`
+    )
     for (const note of verdict.notes) process.stdout.write(`         ${note}\n`)
   }
   // Printed on every run, green or red. A budget is deliberately not pinned here yet: these numbers

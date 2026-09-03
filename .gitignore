@@ -19,7 +19,6 @@ dist/
 *.d.ts
 !**/types/**/*.d.ts
 !checks-system/**/*.d.ts
-!editor-extension/**/*.d.ts
 !lua-compiler/**/*.d.ts
 !patches/**/*.d.ts
 !temper/*-addon/**/*.d.ts

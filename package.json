@@ -5,7 +5,6 @@
   "workspaces": [
     "akasha/**",
     "collections/exercises",
-    "editor-extension",
     "readouts",
     "shared/vscode-typings",
     "tools/lib",

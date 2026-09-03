@@ -14,25 +14,25 @@ reach for something that may not be there.
 
 THE ENTRY POINT THAT MATTERS IS THE ONE THAT ACTIVATES.
 
-\`editor-extension/src/extension.ts\` is what the host imports, so it is what this judges.
-Judging the files a lane last repaired says only that those files were repaired. This
-command once answered \`4 of 5 entry points carry no bun-only global\` while activation was
-dying on \`undefined stands under no akasha folder\`, because the file that activates was
-not among the five.
+The extension the host loads is \`akasha/editor-extension/ops-extension\`, so its \`main\` is
+what this judges. Judging the files a lane last repaired says only that those files were
+repaired. This command once answered \`4 of 5 entry points carry no bun-only global\` while
+activation was dying on \`undefined stands under no akasha folder\`, because the file that
+activates was not among the five.
 
 SO NO LIST OF ENTRY POINTS IS KEPT HERE.
 
 The manifest names one: \`main\` is what the host loads, and it is read from
-\`editor-extension/package.json\` rather than spelled here, so a manifest pointing somewhere
-else is followed rather than missed. Everything that entry reaches is in its bundle and is
-judged with it.
+\`akasha/editor-extension/ops-extension/package.json\` rather than spelled here, so a manifest
+pointing somewhere else is followed rather than missed. Everything that entry reaches is in
+its bundle and is judged with it.
 
-What is left over is judged too. Every \`.ts\` under the package that no entry point's bundle
-reaches becomes an entry point of its own, and that repeats until nothing is left over. So
-every file in the package is judged either as part of a bundle or as a bundle, a file added
-and not yet wired in is judged rather than invisible, and there is no list to forget to add
-it to. The five entries this once named beside \`extension.ts\` were all inside its bundle
-already, so naming them proved nothing that the one entry did not prove.
+What is left over is judged too. Every \`.module.code.ts\` under \`akasha/editor-extension\`
+that no entry point's bundle reaches becomes an entry point of its own, and that repeats
+until nothing is left over. So every module in the package is judged either as part of a
+bundle or as a bundle, a module added and not yet wired in is judged rather than invisible,
+and there is no list to forget to add it to. The code beside a module page is what the host
+loads; the page and the test beside it are not, so neither is bundled here.
 
 Each entry point is bundled for node, and the whole bundle is judged, so a reach six
 modules down through \`tools/lib\` into akasha is caught where reading one file's imports
@@ -116,11 +116,17 @@ export function quotedAt(line: string, at: number): boolean {
   return open !== null
 }
 
-const PACKAGE = "editor-extension"
+const PACKAGE = "akasha/editor-extension/ops-extension"
 
 const MANIFEST = "package.json"
 
-const SOURCES = "src/**/*.ts"
+// The manifest and the modules stand apart: `ops-extension` is the extension the host loads and
+// holds only its entry, while every module that entry reaches lives under the workspace package
+// above it. Sweeping the package the manifest sits in would sweep one file and report the rest
+// unwritten.
+const MODULES_UNDER = "akasha/editor-extension"
+
+const SOURCES = "**/*.module.code.ts"
 
 const MAIN = "main"
 
@@ -151,9 +157,7 @@ export function unreachedIn(
   pkg: string,
   reached: ReadonlySet<string>
 ): readonly string[] {
-  return [...new Glob(`${pkg}/${SOURCES}`).scanSync(root)]
-    .filter((one) => !reached.has(one))
-    .sort()
+  return [...new Glob(`${pkg}/${SOURCES}`).scanSync(root)].filter((one) => !reached.has(one)).sort()
 }
 
 const STUB = `const anything = () => new Proxy(function () {}, {
@@ -272,7 +276,12 @@ export async function judge(root: string, entry: string, run: boolean): Promise<
     }
     const files = [...new Glob("**/*.js").scanSync(out)]
     if (files.length === 0) {
-      return { entry, ...nothing, built: false, why: "the bundle wrote no file, so nothing was judged" }
+      return {
+        entry,
+        ...nothing,
+        built: false,
+        why: "the bundle wrote no file, so nothing was judged",
+      }
     }
     const refused = new Set<string>()
     const carried = new Set<string>()
@@ -371,7 +380,9 @@ export async function main(argv: readonly string[]): Promise<number> {
           process.stdout.write(`${word} ${entry} reaches ${judged.refused.join(", ")}\n`)
         }
         if (judged.threw !== null) {
-          process.stdout.write(`${word} ${entry} threw under node: ${firstLines(judged.threw, 3)}\n`)
+          process.stdout.write(
+            `${word} ${entry} threw under node: ${firstLines(judged.threw, 3)}\n`
+          )
         }
       }
       if (wired) {
@@ -383,7 +394,7 @@ export async function main(argv: readonly string[]): Promise<number> {
     }
     for (const one of judged.reached) reached.add(one)
     if (!deriving) continue
-    for (const one of unreachedIn(root, PACKAGE, reached)) {
+    for (const one of unreachedIn(root, MODULES_UNDER, reached)) {
       if (entries.includes(one)) continue
       unreached.add(one)
       entries.push(one)
