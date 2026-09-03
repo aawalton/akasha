@@ -1,4 +1,3 @@
-
 export interface DomainOwnerWalk {
   readonly declared: boolean
   readonly persona: string | null
@@ -29,8 +28,9 @@ export function decideDomainLead(domain: string, walk: DomainOwnerWalk): DomainL
     return {
       kind: "unresolved",
       reason:
-        `the descent from '${wanted}' reached no document naming a 'persona-champion-slug:'. The root domain ` +
-        "names one, so this reports a tree that has lost it rather than a domain nobody owns.",
+        `the descent from '${wanted}' reached no document naming a 'persona-champion-slug:'. ` +
+        "The root domain names one, so this reports a tree that has lost it rather than a domain " +
+        "nobody owns.",
     }
   }
 

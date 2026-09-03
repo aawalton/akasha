@@ -1,5 +1,5 @@
 import type { ReviveVerifySignal } from "@akasha/seat-system/seat-revive-verify-signal"
-import type { CommsInput, OnDemandAgentSpec } from "@tools/lib/decide-wake-match"
+import type { CommsInput, OnDemandAgentSpec } from "@akasha/seat-system/seat-wake-rules"
 
 export interface RecipientResolverAgentRow {
   readonly id: string

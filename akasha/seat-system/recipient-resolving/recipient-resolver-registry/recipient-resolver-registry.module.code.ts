@@ -1,6 +1,6 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { CommsRule, OnDemandAgentSpec } from "@akasha/seat-system/seat-wake-rules"
 import { handlerSeatName, identityHeardFrom } from "@tools/lib/compose-seat-name"
-import type { CommsRule, OnDemandAgentSpec } from "@tools/lib/decide-wake-match"
 import {
   type PersonHandlerIdentity,
   personHandlerSpec,

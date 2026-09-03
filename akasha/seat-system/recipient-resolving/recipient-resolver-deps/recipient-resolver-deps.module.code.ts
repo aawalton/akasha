@@ -1,9 +1,9 @@
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import type { CommsInput } from "@tools/lib/decide-wake-match"
+import type { CommsInput } from "@akasha/seat-system/seat-wake-rules"
 import { seatIdentityForName } from "@tools/lib/seat-identity"
 import { agentPresence } from "@tools/lib/seat-presence-read"
-import { LOG } from "@tools/lib/supervisor-config"
 import { wakeCommsInput } from "@tools/lib/wake-comms-input"
+import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import {
   messageUnrevivableToKeeper,
   pushKeeperUnrevivableToAlan,

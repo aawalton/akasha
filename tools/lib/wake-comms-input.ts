@@ -1,5 +1,4 @@
-
-import type { CommsInput } from "./decide-wake-match.ts"
+import type { CommsInput } from "@akasha/seat-system/seat-wake-rules"
 import { AGENT_SENDER_PREFIX } from "./wake-armed-specs.ts"
 
 export interface WakeMessageRow {

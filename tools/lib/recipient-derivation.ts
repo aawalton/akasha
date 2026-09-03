@@ -1,23 +1,26 @@
-import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { textField } from "../../page/frontmatter.ts"
-import { domainKindTest } from "../../page/page-types.ts"
-import { registryOf } from "../../page/property/registry.ts"
+import { readdirSync } from "node:fs"
+import { join } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { championsStanding } from "./akasha-personas.ts"
 import {
   type AlertRecipient,
   type AlertRequirementRow,
   decideAlertRecipient,
-} from "./decide-alert-recipient.ts"
-import { type BlockedPrincipal, decideBlockedPrincipal } from "./decide-blocked-principal.ts"
+} from "@akasha/seat-system/alert-recipient-decide"
+import {
+  type BlockedPrincipal,
+  decideBlockedPrincipal,
+} from "@akasha/seat-system/blocked-principal-decide"
 import {
   type DerivedRecipient,
   type DomainLead,
   type DomainOwnerWalk,
   decideDomainLead,
   recipientFromLead,
-} from "./decide-domain-lead.ts"
+} from "@akasha/seat-system/domain-lead-decide"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { domainKindTest } from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { championsStanding } from "./akasha-personas.ts"
 import { championOf, championsAt } from "./domain.ts"
 import { scan } from "./seat-resolve.ts"
 
@@ -55,19 +58,49 @@ export async function resolveDomainLead(
   }
 }
 
-export type AlertRequirementReader = () => readonly AlertRequirementRow[]
+export type AlertRequirementReader = () =>
+  | readonly AlertRequirementRow[]
+  | Promise<readonly AlertRequirementRow[]>
 
 const ALERT_PAGE_TYPE = "alert"
 
-export function readAlertRequirements(
+const ALERT_PAGE_SUFFIX = ".alert.ts"
+
+const AKASHA_FOLDER = "akasha"
+
+const VENDORED = "node_modules"
+
+export function alertPagesUnder(at: string): readonly string[] {
+  const found: string[] = []
+  for (const one of readdirSync(at, { withFileTypes: true, recursive: true })) {
+    if (!one.isFile() || !one.name.endsWith(ALERT_PAGE_SUFFIX)) continue
+    if (one.parentPath.includes(`${VENDORED}/`) || one.parentPath.endsWith(VENDORED)) continue
+    found.push(join(one.parentPath, one.name))
+  }
+  return found
+}
+
+export function alertRowOf(value: unknown): AlertRequirementRow | null {
+  if (typeof value !== "object" || value === null) return null
+  const page = value as Record<string, unknown>
+  if (page.pageTypeSlug !== ALERT_PAGE_TYPE || typeof page.slug !== "string") return null
+  return {
+    slug: page.slug,
+    domain: typeof page.domain === "string" ? page.domain : null,
+    person: typeof page.personSlug === "string" ? page.personSlug : null,
+  }
+}
+
+export async function readAlertRequirements(
   root: string = rootFor(resolveRoots(), AKASHA)
-): readonly AlertRequirementRow[] {
-  const found = scan(root)
+): Promise<readonly AlertRequirementRow[]> {
   const rows: AlertRequirementRow[] = []
-  for (const [slug, at] of found.slugs) {
-    const fm = found.docs.frontmatterOf(at)
-    if (fm === null || pageTypeOf(at) !== ALERT_PAGE_TYPE) continue
-    rows.push({ slug, domain: textField(fm, "domain"), person: textField(fm, "person-slug") })
+  for (const at of alertPagesUnder(join(root, AKASHA_FOLDER))) {
+    const held = (await import(at)) as Record<string, unknown>
+    for (const value of Object.values(held)) {
+      const row = alertRowOf(value)
+      if (row !== null) rows.push(row)
+    }
   }
   return rows
 }
@@ -77,7 +110,7 @@ export async function resolveAlertRecipient(
   read: AlertRequirementReader = readAlertRequirements
 ): Promise<AlertRecipient> {
   try {
-    return decideAlertRecipient(alert, read())
+    return decideAlertRecipient(alert, await read())
   } catch (err) {
     return {
       kind: "unresolved",

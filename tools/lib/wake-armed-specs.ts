@@ -1,12 +1,11 @@
-
+import type {
+  CommsRule,
+  OnDemandAgentSpec,
+  StateAuthorityKind,
+} from "@akasha/seat-system/seat-wake-rules"
 import { handlerSeatName } from "./compose-seat-name.ts"
-import {
-  type CommsRule,
-  type OnDemandAgentSpec,
-  type StateAuthorityKind,
-} from "./decide-wake-match.ts"
 import { shape } from "./shape.ts"
-import { type Shape } from "./shape-core"
+import type { Shape } from "./shape-core"
 
 export const AGENT_SENDER_PREFIX = "agent:"
 
@@ -102,10 +101,34 @@ export function standingPersonaSpec(
   return {
     name,
     wakeSources: [
-      { id: `${name}-agent-ask`, senderMatch: AGENT_SENDER_PREFIX, contentRegex: undefined, target: name, status: "LIVE" },
-      { id: `${name}-page-chat`, senderMatch: PAGE_CHAT_SOURCE, contentRegex: undefined, target: name, status: "LIVE" },
-      { id: `${name}-question-answer`, senderMatch: QUESTION_ANSWER_SOURCE, contentRegex: undefined, target: name, status: "LIVE" },
-      { id: `${name}-question-dismiss`, senderMatch: QUESTION_DISMISS_SOURCE, contentRegex: undefined, target: name, status: "LIVE" },
+      {
+        id: `${name}-agent-ask`,
+        senderMatch: AGENT_SENDER_PREFIX,
+        contentRegex: undefined,
+        target: name,
+        status: "LIVE",
+      },
+      {
+        id: `${name}-page-chat`,
+        senderMatch: PAGE_CHAT_SOURCE,
+        contentRegex: undefined,
+        target: name,
+        status: "LIVE",
+      },
+      {
+        id: `${name}-question-answer`,
+        senderMatch: QUESTION_ANSWER_SOURCE,
+        contentRegex: undefined,
+        target: name,
+        status: "LIVE",
+      },
+      {
+        id: `${name}-question-dismiss`,
+        senderMatch: QUESTION_DISMISS_SOURCE,
+        contentRegex: undefined,
+        target: name,
+        status: "LIVE",
+      },
       ...declaredWakeSources,
     ],
     stateAuthority: [

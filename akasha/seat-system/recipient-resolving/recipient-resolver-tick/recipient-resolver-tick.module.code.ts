@@ -1,4 +1,5 @@
-import { decideWakeMatch, type OnDemandAgentSpec } from "@tools/lib/decide-wake-match"
+import { decideWakeMatch } from "@akasha/seat-system/seat-wake-match-decide"
+import type { OnDemandAgentSpec } from "@akasha/seat-system/seat-wake-rules"
 import {
   DEFAULT_PER_SPEC_TIMEOUT_MS,
   type RecipientResolverTickDeps,
