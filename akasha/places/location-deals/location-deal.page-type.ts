@@ -53,7 +53,7 @@ export const locationDeal = {
     { pagePropertySlug: "collection", required: true, many: false },
     { pagePropertySlug: "deal-key", required: true, many: false },
     { pagePropertySlug: "fine-print", required: false, many: false },
-    { pagePropertySlug: "locations", required: true, many: true, max: null },
+    { pagePropertySlug: "relation-property/locations", required: true, many: true, max: null },
     { pagePropertySlug: "offer-text", required: true, many: false },
     { pagePropertySlug: "offer-type", required: true, many: false },
     { pagePropertySlug: "redemption-code", required: false, many: false },

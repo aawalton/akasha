@@ -100,7 +100,7 @@ export const temperInventorySnapshot = {
     { pagePropertySlug: "price-source", required: false, many: false },
     { pagePropertySlug: "transmute-crystal-amount", required: false, many: false },
     { pagePropertySlug: "transmute-crystal-cap", required: false, many: false },
-    { pagePropertySlug: "locations", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/locations", required: false, many: false },
     { pagePropertySlug: "bag-sizes", required: false, many: false },
     { pagePropertySlug: "currencies", required: false, many: false },
     { pagePropertySlug: "crafting-levels", required: false, many: false },
