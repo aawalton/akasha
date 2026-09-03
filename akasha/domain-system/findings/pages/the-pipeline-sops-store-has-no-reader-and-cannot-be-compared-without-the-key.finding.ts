@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const thePipelineSopsStoreHasNoReaderAndCannotBeComparedWithoutTheKey = {
+  id: "01a06865-c012-7006-9e2b-4a7d8c9f0b06",
+  pageTypeSlug: "finding",
+  slug: "the-pipeline-sops-store-has-no-reader-and-cannot-be-compared-without-the-key",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`pipeline-secrets.sops.yaml` was carried into akasha rather than ablated, and it is probably duplication. Nothing reads it. Its seven keys look to be held by four files that have already landed, but proving that means decrypting both sides, which no lane may do, so it was carried on the reading that a wrong deletion of a credential store costs more than a wrong copy.",
+  evidence:
+    "It now stands at `akasha/infrastructure/cluster-manifests/cluster-secrets/pipeline-secrets.sops.yaml`, byte-identical to the file it came from.\n\nNo reader. Grep for `pipeline-secrets` across the repository, excluding `.git`, `node_modules` and `.supervisors`, answers one line: `akasha/changes/workflow-templates/pages/workflow-ci/workflow-ci.workflow-template.declaration.ts` line 30, which is the step NAME `ci-apply-pipeline-secrets`, and that step's `secretFile` is the other file, the `pipeline-engine-secrets` Secret manifest. The same grep over `/var/home/walton/repos/akasha-backup-2026-09-02` answers only the same step name. No script decrypts a folder of sops files; every `sops -d` in the repository names one path.\n\nIt is also not a Secret manifest. It carries seven bare top-level keys and no `apiVersion`, `kind` or `metadata`, so `kubectl apply` could never have taken it, unlike its neighbour.\n\nWhere the seven keys look to be held. `AGE_SECRET_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `ALANWALTON_SERVICE_ROLE_KEY` and `CLOUDFLARE_API_TOKEN` are all four named in `pipeline-engine.k8s-secret.sops.yaml` beside it. `POSTGRES_PASSWORD` reads as `postgres-cnpg-superuser.k8s-secret.sops.yaml` under the postgres-cnpg page, `AUTHENTICATOR_PASSWORD` as `authenticator.k8s-secret.sops.yaml` under postgrest, and `GOTRUE_DB_PASSWORD` as the password inside `gotrue-secrets-database-url.secret.sops.yaml`. Every one of those is a name match. Not one is a value match, and a key of the same name holding a stale value is exactly what a rotation leaves behind.\n\nWhat settles it is one decryption by whoever holds the age key: compare the seven values against those four files, and delete this file where they agree. Until then it is a copy nobody reads.",
+} as const satisfies Finding
