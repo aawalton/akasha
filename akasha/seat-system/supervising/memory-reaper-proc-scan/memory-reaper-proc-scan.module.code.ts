@@ -1,4 +1,3 @@
-
 import { readFileSync } from "node:fs"
 
 export type PidSnapshot = {

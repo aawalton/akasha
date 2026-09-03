@@ -4,6 +4,15 @@
   "type": "module",
   "exports": {
     "./channel-delivery": "./channel-delivery/channel-delivery.module.code.ts",
+    "./memory-reaper-config": "./supervising/memory-reaper-config/memory-reaper-config.module.code.ts",
+    "./memory-reaper-global": "./supervising/memory-reaper-global/memory-reaper-global.module.code.ts",
+    "./memory-reaper-kill": "./supervising/memory-reaper-kill/memory-reaper-kill.module.code.ts",
+    "./memory-reaper-legs": "./supervising/memory-reaper-legs/memory-reaper-legs.module.code.ts",
+    "./memory-reaper-owner": "./supervising/memory-reaper-owner/memory-reaper-owner.module.code.ts",
+    "./memory-reaper-plan": "./supervising/memory-reaper-plan/memory-reaper-plan.module.code.ts",
+    "./memory-reaper-proc-scan": "./supervising/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts",
+    "./memory-reaper-read": "./supervising/memory-reaper-read/memory-reaper-read.module.code.ts",
+    "./memory-reaper-tick": "./supervising/memory-reaper-tick/memory-reaper-tick.module.code.ts",
     "./message-page-type": "./messages/message.page-type.ts",
     "./recipient-resolver-config": "./recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts",
     "./recipient-resolver-deps": "./recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts",
@@ -38,6 +47,7 @@
     "./supervisor-child-exit-rule": "./supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts",
     "./supervisor-child-spawn": "./supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts",
     "./supervisor-claimed-reconcile": "./supervising/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts",
+    "./supervisor-claimed-redelivery-decide": "./supervising/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts",
     "./supervisor-claude-config": "./supervising/supervisor-claude-config/supervisor-claude-config.module.code.ts",
     "./supervisor-clear-rebind-wire": "./supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts",
     "./supervisor-config": "./supervising/supervisor-config/supervisor-config.module.code.ts",
@@ -72,6 +82,7 @@
     "./supervisor-iteration-outcome-db": "./supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.code.ts",
     "./supervisor-iteration-outcome-handlers": "./supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts",
     "./supervisor-lifecycle-death-write": "./supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts",
+    "./supervisor-limit-resume-decide": "./supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts",
     "./supervisor-limit-resume-effects": "./supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts",
     "./supervisor-log-path": "./supervisor-log-path/supervisor-log-path.module.code.ts",
     "./supervisor-precliff-restart-decide": "./supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts",
@@ -80,15 +91,14 @@
     "./supervisor-rc-degraded-decide": "./supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts",
     "./supervisor-rc-degraded-state": "./supervising/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.code.ts",
     "./supervisor-rc-degraded-thresholds": "./supervising/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.code.ts",
-    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
-    "./supervisor-limit-resume-decide": "./supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts",
-    "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
-    "./supervisor-uncertain-wait-decide": "./supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts",
     "./supervisor-remote-control-decide": "./supervising/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts",
     "./supervisor-restart-notice-decide": "./supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts",
-    "./supervisor-claimed-redelivery-decide": "./supervising/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
+    "./supervisor-uncertain-wait-decide": "./supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts",
+    "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
+    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts"
   },
   "dependencies": {
+    "@akasha/utils-system": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   }

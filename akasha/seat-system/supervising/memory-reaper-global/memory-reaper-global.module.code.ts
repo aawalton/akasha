@@ -1,6 +1,9 @@
-
-import type { PidSnapshot } from "./memory-reaper-proc-scan.ts"
-import { assessTreeKills, KB_PER_GB, type TreeKillResult } from "./memory-reaper-legs.ts"
+import {
+  assessTreeKills,
+  KB_PER_GB,
+  type TreeKillResult,
+} from "../memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 export const GLOBAL_MIN_AVAIL_GB = 4
 

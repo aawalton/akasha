@@ -1,19 +1,16 @@
-
 import { readdirSync, readFileSync } from "node:fs"
-import { isSupervisorCmdline } from "./decide-proc-liveness.ts"
-import type { PidSnapshot } from "./memory-reaper-proc-scan.ts"
-import { shape } from "./shape.ts"
+import { isSupervisorCmdline } from "@tools/lib/decide-proc-liveness"
+import { z } from "zod"
+import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
-const FIRST_CAPTURE_SHAPE = shape
+const FIRST_CAPTURE = z
   .unknown()
   .transform((v) => (Array.isArray(v) && typeof v[1] === "string" ? v[1] : null))
 
-const POSITIVE_OVERRIDE_SHAPE = shape.coerce.number().positive().finite()
-
-const ONE_CAPTURE = shape.tuple([shape.string()])
+const POSITIVE_OVERRIDE = z.coerce.number().positive().finite()
 
 export function resolvePositiveEnvOverride(envName: string, fallback: number): number {
-  const parsed = POSITIVE_OVERRIDE_SHAPE.safeParse(process.env[envName])
+  const parsed = POSITIVE_OVERRIDE.safeParse(process.env[envName])
   return parsed.success ? parsed.data : fallback
 }
 
@@ -24,7 +21,7 @@ export function readPssKb(pid: number, fallbackKb: number): number {
   } catch {
     return fallbackKb
   }
-  const captured = FIRST_CAPTURE_SHAPE.parse(rollup.match(/^Pss:\s+(\d+)\s+kB/m))
+  const captured = FIRST_CAPTURE.parse(rollup.match(/^Pss:\s+(\d+)\s+kB/m))
   return captured === null ? fallbackKb : Number.parseInt(captured, 10)
 }
 
@@ -65,63 +62,20 @@ export function readUserPidSnapshots(uid: number): readonly PidSnapshot[] {
     } catch {
       continue
     }
-    const uidCaptured = FIRST_CAPTURE_SHAPE.parse(status.match(/^Uid:\s+(\d+)/m))
+    const uidCaptured = FIRST_CAPTURE.parse(status.match(/^Uid:\s+(\d+)/m))
     if (uidCaptured === null) continue
     if (Number.parseInt(uidCaptured, 10) !== uid) continue
-    const ppidCaptured = FIRST_CAPTURE_SHAPE.parse(status.match(/^PPid:\s+(\d+)/m))
+    const ppidCaptured = FIRST_CAPTURE.parse(status.match(/^PPid:\s+(\d+)/m))
     if (ppidCaptured === null) continue
     const ppid = Number.parseInt(ppidCaptured, 10)
-    const rssCaptured = FIRST_CAPTURE_SHAPE.parse(status.match(/^VmRSS:\s+(\d+)\s+kB/m))
+    const rssCaptured = FIRST_CAPTURE.parse(status.match(/^VmRSS:\s+(\d+)\s+kB/m))
     const vmRssKb = rssCaptured === null ? 0 : Number.parseInt(rssCaptured, 10)
     const pssKb = readPssKb(pid, vmRssKb)
     let name = "unknown"
     try {
       name = readFileSync(`/proc/${pid}/comm`, "utf8").trimEnd()
-    } catch {
-    }
+    } catch {}
     snapshots.push({ pid, ppid, vmRssKb, pssKb, name })
   }
   return snapshots
-}
-
-export type MemInfoKb = {
-  availableKb: number
-  swapTotalKb: number
-  swapFreeKb: number
-}
-
-export function readMemInfoKb(): MemInfoKb {
-  const meminfo = shape.string().parse(readFileSync("/proc/meminfo", "utf8"))
-  const [availableKb] = requireMatchPositional(
-    /^MemAvailable:\s+(\d+)\s+kB/m,
-    meminfo,
-    "/proc/meminfo MemAvailable line"
-  )
-  const [swapTotalKb] = requireMatchPositional(
-    /^SwapTotal:\s+(\d+)\s+kB/m,
-    meminfo,
-    "/proc/meminfo SwapTotal line"
-  )
-  const [swapFreeKb] = requireMatchPositional(
-    /^SwapFree:\s+(\d+)\s+kB/m,
-    meminfo,
-    "/proc/meminfo SwapFree line"
-  )
-  return {
-    availableKb: Number.parseInt(availableKb, 10),
-    swapTotalKb: Number.parseInt(swapTotalKb, 10),
-    swapFreeKb: Number.parseInt(swapFreeKb, 10),
-  }
-}
-
-export class NarrowError extends Error {}
-
-function requireMatchPositional(re: RegExp, input: string, label: string): readonly [string] {
-  let raw: readonly string[]
-  try {
-    raw = shape.array(shape.string()).parse(re.exec(input))
-  } catch {
-    throw new NarrowError(`requireMatchPositional: no match for ${re} in ${label}`)
-  }
-  return ONE_CAPTURE.parse(raw.slice(1))
 }

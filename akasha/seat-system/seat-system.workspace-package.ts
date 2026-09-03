@@ -106,6 +106,15 @@ export const seatSystem = {
     "module/supervisor-precliff-restart-decide",
     "module/supervisor-proxy-adoption-decide",
     "module/supervisor-proxy-liveness-decide",
+    "module/memory-reaper-config",
+    "module/memory-reaper-global",
+    "module/memory-reaper-kill",
+    "module/memory-reaper-legs",
+    "module/memory-reaper-owner",
+    "module/memory-reaper-plan",
+    "module/memory-reaper-proc-scan",
+    "module/memory-reaper-read",
+    "module/memory-reaper-tick",
   ],
   invariants: [
     {

@@ -1,11 +1,13 @@
-
 import {
   GLOBAL_MIN_AVAIL_GB,
   GLOBAL_MIN_FREE_SWAP_GB,
   GLOBAL_RECOVERY_WINDOW_SEC,
-} from "./memory-reaper-global.ts"
-import { MAX_RSS_GB, MAX_TREE_PSS_GB } from "./memory-reaper-legs.ts"
-import { resolvePositiveEnvOverride } from "./memory-reaper-read.ts"
+} from "../memory-reaper-global/memory-reaper-global.module.code.ts"
+import {
+  MAX_RSS_GB,
+  MAX_TREE_PSS_GB,
+} from "../memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import { resolvePositiveEnvOverride } from "../memory-reaper-read/memory-reaper-read.module.code.ts"
 
 export const LOG = "memory-reaper:"
 

@@ -1,9 +1,12 @@
 import { reaperConfigBanner, TICK_MS } from "@tools/lib/memory-reaper-config"
-import { type ReaperState, runBoundedReaperTick } from "@tools/lib/memory-reaper-tick"
 import {
   sleptUntilStopped,
   stopsOnSignal,
 } from "../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import {
+  type ReaperState,
+  runBoundedReaperTick,
+} from "../memory-reaper-tick/memory-reaper-tick.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

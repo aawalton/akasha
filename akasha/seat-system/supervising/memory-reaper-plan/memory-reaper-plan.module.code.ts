@@ -1,8 +1,11 @@
-
-import type { PidSnapshot } from "./memory-reaper-proc-scan.ts"
-import { assessMemoryKill, assessTreeKills, KB_PER_GB } from "./memory-reaper-legs.ts"
-import type { GlobalKillTarget } from "./memory-reaper-global.ts"
-import { seatBindingInArgv } from "./memory-reaper-owner.ts"
+import type { GlobalKillTarget } from "../memory-reaper-global/memory-reaper-global.module.code.ts"
+import {
+  assessMemoryKill,
+  assessTreeKills,
+  KB_PER_GB,
+} from "../memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import { seatBindingInArgv } from "../memory-reaper-owner/memory-reaper-owner.module.code.ts"
+import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 export type PlannedTreeKill = {
   rootPid: number

@@ -1,5 +1,5 @@
-
-import { killPidWithTimeout, killTreeWithTimeout } from "./memory-reaper-kill.ts"
+import { readMemInfoKb } from "@akasha/utils-system/memory-guard"
+import { withTickDeadline } from "@tools/lib/tick-deadline"
 import {
   GLOBAL_MIN_AVAIL_KB,
   GLOBAL_MIN_FREE_SWAP_KB,
@@ -7,21 +7,26 @@ import {
   RECOVERY_WINDOW_MS,
   THRESHOLD_KB,
   TREE_THRESHOLD_KB,
-} from "./memory-reaper-config.ts"
+} from "../memory-reaper-config/memory-reaper-config.module.code.ts"
 import {
   assessGlobalKill,
   assessRecoveryWindow,
   type GlobalKillTarget,
-} from "./memory-reaper-global.ts"
-import { planReaperKills } from "./memory-reaper-plan.ts"
-import { type PidSnapshot, readContainerPids } from "./memory-reaper-proc-scan.ts"
+} from "../memory-reaper-global/memory-reaper-global.module.code.ts"
 import {
-  readMemInfoKb,
+  killPidWithTimeout,
+  killTreeWithTimeout,
+} from "../memory-reaper-kill/memory-reaper-kill.module.code.ts"
+import { planReaperKills } from "../memory-reaper-plan/memory-reaper-plan.module.code.ts"
+import {
+  type PidSnapshot,
+  readContainerPids,
+} from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+import {
   readPidArgv,
   readSupervisorPids,
   readUserPidSnapshots,
-} from "./memory-reaper-read.ts"
-import { withTickDeadline } from "./tick-deadline.ts"
+} from "../memory-reaper-read/memory-reaper-read.module.code.ts"
 
 export type ReaperState = { lastGlobalKillAtMs: number | null }
 

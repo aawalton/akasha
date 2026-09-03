@@ -1,5 +1,5 @@
+import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
 import { isClaudeChildCmdline, type ProcLivenessEntry } from "@tools/lib/decide-proc-liveness"
-import { enforceMemoryGuard } from "@tools/lib/host-memory-pressure"
 import { scanProcEntries } from "@tools/lib/proc-scan"
 import type { InheritedProc } from "@tools/lib/supervisor-types"
 import {
