@@ -17,6 +17,9 @@ export const idleGame = {
   definition: "a game Alan plays where the cards are his personas",
   pluralSlug: "idle-games",
   extendsSlug: "page-type/collection",
+  detailConfig: {
+    display: "game",
+  },
   partSlugs: ["instant-property/favorited-at", "text-property/game-engine"],
   properties: [
     { pagePropertySlug: "game-engine", required: true, many: false },

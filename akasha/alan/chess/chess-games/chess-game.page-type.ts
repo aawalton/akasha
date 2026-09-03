@@ -58,6 +58,9 @@ export const chessGame = {
   pluralSlug: "chess-games",
   extendsSlug: "page-type/page",
   runsTabooCheck: false,
+  detailConfig: {
+    display: "chess-review",
+  },
   partSlugs: [
     "boolean-property/rated",
     "file-property/pgn",

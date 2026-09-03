@@ -22,6 +22,37 @@ export const storyChapterRead = {
   pluralSlug: "story-chapters-read",
   extendsSlug: "page-type/collection-external",
   runsTabooCheck: false,
+  detailConfig: {
+    display: "reader",
+    frame: {
+      edgeToEdge: true,
+      focusMode: true,
+      autoScroll: {
+        loadScroll: "progress",
+      },
+    },
+    bodyPropertyId: "prose",
+    fullBleed: true,
+    showReadingProgress: true,
+    markReadOnEnd: true,
+    progressPropertyId: "ownProgress",
+    lengthPropertyId: "ownLength",
+  },
+  mediaConfig: {
+    audio: {
+      sourcePropertyId: "prose",
+      renderer: "tts",
+      variantAxis: "narrator",
+    },
+    image: {
+      renderer: "z-image-turbo",
+    },
+  },
+  sequence: {
+    groupBy: "partOfSlugs",
+    orderBy: "position",
+    direction: "asc",
+  },
   partSlugs: ["instant-property/removed-at"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

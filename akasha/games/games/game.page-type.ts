@@ -73,6 +73,9 @@ export const game = {
   definition: "a story Alan plays through with a persona running the other side",
   pluralSlug: "games",
   extendsSlug: "page-type/collection",
+  detailConfig: {
+    display: "game",
+  },
   partSlugs: [
     "boolean-property/maintains-design",
     "boolean-property/maintains-lore",

@@ -41,6 +41,14 @@ export const persona = {
   definition: "a part of Alan's life personified as someone who answers for it",
   pluralSlug: "personas",
   extendsSlug: "page-type/domain",
+  detailConfig: {
+    display: "persona",
+    frame: {
+      autoScroll: {
+        loadScroll: "end",
+      },
+    },
+  },
   partSlugs: [
     "email-address-property/email-address",
     "file-property/appearance",

@@ -24,6 +24,17 @@ export const storyRead = {
   pluralSlug: "stories-read",
   extendsSlug: "page-type/collection-external",
   runsTabooCheck: false,
+  detailConfig: {
+    display: "collection",
+    header: {
+      showCover: true,
+      fields: [],
+    },
+    childCollection: {
+      childType: "story-chapter-read",
+      childRelation: "partOfSlugs",
+    },
+  },
   partSlugs: ["select-property/publication-status", "text-property/external-tags"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
