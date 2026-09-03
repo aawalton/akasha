@@ -34,6 +34,22 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A composed body may state `was` as the bytes the program read at that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch hands every stated `was` to its landing as what must stand unmoved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stated `was` no longer matching what stands on disk refuses that batch.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A body stating no `was` is guarded by nothing here.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Every batch lands through the landing `migration-checked-landing` chooses for that batch.",
     },

@@ -1,4 +1,4 @@
-import { landingAsked, wroteAndTook } from "../asking/asking.module.code.ts"
+import { type Held, landingAsked, wroteAndTook } from "../asking/asking.module.code.ts"
 import type { Answer, Kind } from "../calling/calling.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 
@@ -12,10 +12,11 @@ export function landedChecked(
   root: string,
   calledAs: string,
   changes: readonly FileEdit[],
-  message: string
+  message: string,
+  unmoved: readonly Held[] = []
 ): Answer {
   return landingAsked(
     { root, calledAs, from: root, writer: null, agentId: null, changeKind: CHECKED },
-    { changes, message, dryRun: false, glass: null, unmoved: [], saying: wroteAndTook }
+    { changes, message, dryRun: false, glass: null, unmoved, saying: wroteAndTook }
   )
 }

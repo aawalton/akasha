@@ -25,6 +25,14 @@ export const checkedLanding = {
       statement: "A landing here takes the arguments a mechanical landing takes.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller may hand in the bodies that caller read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A handed-in body no longer matching what stands on disk refuses the landing.",
+    },
+    {
       invariantKind: "constraint",
       statement: "Only a path under akasha reaches a check.",
     },

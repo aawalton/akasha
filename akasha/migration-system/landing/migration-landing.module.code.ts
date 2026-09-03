@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, readFileSync, rmdirSync } from "node:fs"
 import { dirname, join, relative, resolve, sep } from "node:path"
+import type { Held } from "@akasha/command-system/asking"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { landingFor } from "../checked-landing/migration-checked-landing.module.code.ts"
@@ -18,13 +19,15 @@ export type Composed = {
   readonly path: string
   readonly body: string | Uint8Array | null
   readonly together?: string
+  readonly was?: string | Uint8Array
 }
 
 export type Landing = (
   root: string,
   calledAs: string,
   changes: readonly FileEdit[],
-  message: string
+  message: string,
+  unmoved?: readonly Held[]
 ) => Answer
 
 export type Saying = (line: string) => undefined
@@ -66,6 +69,16 @@ export type Migrated = {
 export function bodyOf(one: Composed): Uint8Array | null {
   if (one.body === null) return null
   return typeof one.body === "string" ? ENCODER.encode(one.body) : one.body
+}
+
+function heldIn(composed: readonly Composed[]): readonly Held[] {
+  const said: Held[] = []
+  for (const one of composed) {
+    if (one.was === undefined) continue
+    const bytes = typeof one.was === "string" ? ENCODER.encode(one.was) : one.was
+    said.push({ path: one.path, was: bytes })
+  }
+  return said
 }
 
 export function editOf(one: Composed): FileEdit {
@@ -230,7 +243,7 @@ export function migrationLanded(root: string, asked: Migration): Migrated {
     const paths = held.map((one) => one.path)
     const message = messageFor(asked.subject, at, batches.length, held.length)
     const batch: Batch = { at, of: batches.length, paths, message }
-    const answer = landing(root, asked.calledAs, held.map(editOf), message)
+    const answer = landing(root, asked.calledAs, held.map(editOf), message, heldIn(held))
     const one: Said = { batch, code: answer.code, said: sayingOf(answer) }
     said.push(one)
     if (answer.code === LANDED) {
