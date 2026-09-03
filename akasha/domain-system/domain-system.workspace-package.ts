@@ -11,6 +11,7 @@ export const domainSystem = {
     "page-type/finding",
     "page-type/initiative",
     "page-type/invariant-group",
+    "page-type/list",
     "page-type/invariant-kind",
     "page-type/directive-kind",
     "page-type/taboo-term",
