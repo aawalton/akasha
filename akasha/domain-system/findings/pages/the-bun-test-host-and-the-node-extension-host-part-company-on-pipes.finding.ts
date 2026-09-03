@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theBunTestHostAndTheNodeExtensionHostPartCompanyOnPipes = {
+  id: "01a0680d-8b90-7000-8f5f-14b7b8f6596f",
+  pageTypeSlug: "finding",
+  slug: "the-bun-test-host-and-the-node-extension-host-part-company-on-pipes",
+  domainSlug: "workspace-package/editor-extension",
+  claim:
+    "The observation writer's suite runs under bun and the extension host is node, and the two part company on pipes in two measured ways the suite has to work around. Bun loses a race handing the parent its end of a fourth stdio pipe, refusing between one in twenty and one in five spawns where node refused none of thirty. And bun delivers bytes written to a stream already ended, where node drops them and raises an unhandled error event that takes the host process down.",
+  evidence:
+    "First divergence. Under bun 1.3.14 `node:child_process` gives the parent its end of an extra stdio pipe by connecting a socket, and that connect loses a race often enough to see: the child starts, writes its hello to fd 3, is told EPIPE, prints `nothing is listening on fd 3` and exits 1 before the client has heard anything. Measured against this same writer main, 30 of 30 spawns were clean under node 22, and between one in twenty and one in five were refused under bun. The extension host is node, so this is the test host at fault rather than the subject. An ask refused with exactly this symptom is therefore asked again, which is what the store itself does; any other refusal is passed on, and three goes is the bound, so a client that really opens no fourth pipe still fails rather than retrying forever.\n\nSecond divergence, in the other direction. What a stream does with a `write` arriving after its `end`: node 22 drops the bytes and reports it as an error event on the stream, and nothing in the client listens on `child.stdin`, so an unhandled error event takes the whole host process down; were it handled, the ask behind it is neither answered nor refused and sits out its full 60s write timeout. Bun 1.3.14 delivers the bytes anyway, the ask is answered, the state lands, and the defect is completely invisible. So the same-tick dispose test is driven as a node program over real pipes rather than asserted from bun, where it would assert nothing.\n\nCarried out of comments at `tools/observation-writer.test.ts` lines 49-59 and 488-503 as that file became `akasha/editor-extension/observation-writing/observation-writing.module.test.ts`.",
+} as const satisfies Finding
