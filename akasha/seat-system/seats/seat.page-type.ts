@@ -44,6 +44,7 @@ export const seat = {
     "record-property/turn-pending",
     "relation-property/person-slug",
     "relation-property/requested-action",
+    "relation-property/role-slug",
     "text-property/claude-code-session-uuid",
     "text-property/context-replaced-source",
     "text-property/interrupt-message",

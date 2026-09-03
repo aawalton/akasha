@@ -35,6 +35,7 @@ export const value = {
   definition: "what a person is spending their life on",
   pluralSlug: "values",
   partSlugs: [
+    "number-property/total-points",
     "value/faith",
     "value/fun",
     "value/health",
