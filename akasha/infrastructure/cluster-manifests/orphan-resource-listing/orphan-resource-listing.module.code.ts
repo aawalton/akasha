@@ -1,4 +1,4 @@
-import { shape } from "../shape.ts"
+import { shape } from "@tools/lib/shape"
 
 const TOKEN_ENV = "PIPELINE_SA_TOKEN"
 

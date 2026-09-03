@@ -32,6 +32,9 @@
     "./loki-rbac": "./loki-rbac/loki-rbac.module.code.ts",
     "./manifest-yaml-reading": "./manifest-yaml-reading/manifest-yaml-reading.module.code.ts",
     "./metallb-rbac": "./metallb-rbac/metallb-rbac.module.code.ts",
+    "./orphan-resource-audit": "./orphan-resource-audit/orphan-resource-audit.module.code.ts",
+    "./orphan-resource-listing": "./orphan-resource-listing/orphan-resource-listing.module.code.ts",
+    "./orphan-sweep-notice": "./orphan-sweep-notice/orphan-sweep-notice.module.code.ts",
     "./pgbouncer-exporter-manifests": "./pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts",
     "./pgbouncer-rbac": "./pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
     "./pod-janitor-rbac": "./pod-janitor-rbac/pod-janitor-rbac.module.code.ts",
@@ -63,8 +66,12 @@
     "./voice-infer-rbac": "./voice-infer-rbac/voice-infer-rbac.module.code.ts"
   },
   "dependencies": {
+    "@akasha/k8s-synth": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
+    "@tools/lib": "workspace:*",
+    "yaml": "^2.8.0",
     "zod": "^4.3.6"
   }
 }

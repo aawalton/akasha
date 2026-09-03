@@ -1,12 +1,12 @@
 import { writeMessage } from "@tools/lib/message-file"
-import { sweepOrphanedResources } from "@tools/lib/orphaned-resources-sweep/audit"
+import { sweepOrphanedResources } from "../orphan-resource-audit/orphan-resource-audit.module.code.ts"
 import {
   decideSweepSignal,
   HANDLER,
   named,
   SENDER,
   type SweepReading,
-} from "@tools/lib/orphaned-resources-sweep/notice"
+} from "../orphan-sweep-notice/orphan-sweep-notice.module.code.ts"
 
 const SWEEP_CEILING_MS = 300_000
 
