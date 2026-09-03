@@ -31,7 +31,8 @@ export default workflow("headscale", {
     sopsDecryptApply({
       name: "headscale-apply-secret",
       namespace: "headscale",
-      secretFile: "infra/k8s/src/headscale/headscale.k8s-secret.sops.yaml",
+      secretFile:
+        "akasha/service-system/cluster-services/pages/headscale/headscale.k8s-secret.sops.yaml",
     }),
     kubectlApply({
       name: "headscale-apply-configmap",

@@ -17,7 +17,8 @@ export const workflows = [
       sopsDecryptApply({
         name: "collections-infra-apply-secrets",
         namespace: "collections",
-        secretFile: "infra/k8s/src/collections/collections.k8s-secret.sops.yaml",
+        secretFile:
+          "akasha/infrastructure/cluster-manifests/cluster-secrets/collections.k8s-secret.sops.yaml",
       }),
       {
         ...step({

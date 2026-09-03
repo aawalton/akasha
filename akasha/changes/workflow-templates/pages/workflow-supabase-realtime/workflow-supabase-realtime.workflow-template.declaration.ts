@@ -38,13 +38,14 @@ export default workflow("supabase-realtime", {
       ...sopsDecryptApply({
         name: "supabase-realtime-apply-realtime-secrets",
         namespace: "supabase-realtime",
-        secretFile: "infra/k8s/src/supabase-realtime/realtime.k8s-secret.sops.yaml",
+        secretFile:
+          "akasha/service-system/cluster-services/pages/supabase-realtime/realtime.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-realtime/realtime.k8s-secret.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/supabase-realtime/realtime.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n supabase-realtime -f -`,
         `echo "$DECRYPTED" | kubectl apply -n supabase-realtime -f -`,
       ],
@@ -55,13 +56,14 @@ export default workflow("supabase-realtime", {
       ...sopsDecryptApply({
         name: "supabase-realtime-apply-admin-secrets",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/supabase-realtime/supabase-realtime-admin.k8s-secret.sops.yaml",
+        secretFile:
+          "akasha/service-system/cluster-services/pages/supabase-realtime/supabase-realtime-admin.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-realtime/supabase-realtime-admin.k8s-secret.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/supabase-realtime/supabase-realtime-admin.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -168,7 +170,7 @@ export default workflow("supabase-realtime", {
           "kubectl apply --server-side --force-conflicts -n supabase-realtime -f infra/k8s/src/supabase-realtime/generated/service.generated.yaml",
           ...checksumHashCommands({
             variable: "SECRET_HASH",
-            read: `sops -d ${ci.workspace}/infra/k8s/src/supabase-realtime/realtime.k8s-secret.sops.yaml`,
+            read: `sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/supabase-realtime/realtime.k8s-secret.sops.yaml`,
             subject: "realtime.k8s-secret.sops.yaml",
           }),
           `sed "s|checksum/realtime-secrets:.*|checksum/realtime-secrets: \\"${"$"}{SECRET_HASH}\\"|" infra/k8s/src/supabase-realtime/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n supabase-realtime -f -`,
@@ -197,7 +199,7 @@ export default workflow("supabase-realtime", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `bun ${ci.workspace}/infra/k8s/src/supabase-realtime/scripts/bootstrap-tenant.ts`,
+          `bun ${ci.workspace}/akasha/infrastructure/cluster-manifests/realtime-tenant-bootstrap/realtime-tenant-bootstrap.module.code.ts`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },

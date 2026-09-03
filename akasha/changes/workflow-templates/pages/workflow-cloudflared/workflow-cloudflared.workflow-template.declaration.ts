@@ -25,7 +25,8 @@ export default workflow("cloudflared", {
     sopsDecryptApply({
       name: "cloudflared-apply-secret",
       namespace: "cloudflared",
-      secretFile: "infra/k8s/src/cloudflared/cloudflared.k8s-secret.sops.yaml",
+      secretFile:
+        "akasha/service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml",
     }),
     step({
       name: "cloudflared-generate-and-apply-config",
@@ -67,7 +68,7 @@ export default workflow("cloudflared", {
         }),
         ...checksumHashCommands({
           variable: "CREDS_HASH",
-          read: `sops -d ${ci.workspace}/infra/k8s/src/cloudflared/cloudflared.k8s-secret.sops.yaml`,
+          read: `sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml`,
           subject: "cloudflared.k8s-secret.sops.yaml",
         }),
         `sed "s|checksum/config:.*|checksum/config: \\"$\{CONFIG_HASH}\\"|" ${ci.workspace}/infra/k8s/src/cloudflared/generated/deployment.generated.yaml \\`,
