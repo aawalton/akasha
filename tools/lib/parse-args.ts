@@ -1,10 +1,11 @@
 import { readFileSync } from "node:fs"
+import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
 import { expandTilde } from "@akasha/utils-fs/expand-tilde"
-import { type ExitError, inputError } from "./exit.ts"
+import { inputError } from "./exit.ts"
 import "./command-entry.ts"
+import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
 import type { CommandHelp, HelpFlag } from "../ops/surface.ts"
 import { expandProseRoutes, normalizeRouteValue, planProseRouteReads } from "./prose-route.ts"
-import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
 
 export interface ParsedArgs {
   string: (name: string) => string | undefined
@@ -70,15 +71,12 @@ function readRouteValue(path: string): string {
   }
 }
 
-export interface UnknownFlag {
-  readonly name: string
-  readonly suggestion: string | undefined
-}
+export type { UnknownFlag } from "@akasha/errors-core/exit-code"
 
 function unknownFlagError(
   flagName: string,
   candidates: readonly string[]
-): ExitError & { readonly unknownFlag: UnknownFlag } {
+): InputError & { readonly unknownFlag: UnknownFlag } {
   const suggestion = suggestClosest(flagName, candidates, 2)
   const message =
     suggestion !== undefined

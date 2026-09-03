@@ -1,49 +1,27 @@
-export const EXIT = {
-  OK: 0,
-  INPUT: 1,
-  DATA: 2,
-  OPERATIONAL: 3,
-  UNCLASSIFIED: 70,
-} as const
+import {
+  DataError,
+  EXIT,
+  exitCodeForThrowable,
+  InputError,
+  OperationalError,
+} from "@akasha/errors-core/exit-code"
 
-const CARRIES_A_CODE: ReadonlySet<string> = new Set([
-  "ExitError",
-  "CliError",
-  "InputError",
-  "DataError",
-  "OperationalError",
-])
+export { EXIT }
 
-export class ExitError extends Error {
-  readonly code: number
-
-  constructor(message: string, code: number) {
-    super(message)
-    this.name = "ExitError"
-    this.code = code
-  }
+export function inputError(message: string): InputError {
+  return new InputError(message)
 }
 
-export function inputError(message: string): ExitError {
-  return new ExitError(message, EXIT.INPUT)
+export function dataError(message: string): DataError {
+  return new DataError(message)
 }
 
-export function dataError(message: string): ExitError {
-  return new ExitError(message, EXIT.DATA)
-}
-
-export function operationalError(message: string): ExitError {
-  return new ExitError(message, EXIT.OPERATIONAL)
-}
-
-export function cliError(message: string, code: number): ExitError {
-  return new ExitError(message, code)
+export function operationalError(message: string): OperationalError {
+  return new OperationalError(message)
 }
 
 export function exitCodeOf(thrown: unknown): number {
-  if (!(thrown instanceof Error) || !CARRIES_A_CODE.has(thrown.name)) return EXIT.UNCLASSIFIED
-  const code = (thrown as { readonly code?: unknown }).code
-  return typeof code === "number" ? code : EXIT.UNCLASSIFIED
+  return exitCodeForThrowable(thrown)
 }
 
 export function isInputError(thrown: unknown): boolean {
