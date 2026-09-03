@@ -27,7 +27,7 @@
 {"id":"01a06572-95cd-738d-8703-4b8451244723","chapterSlug":"rwHeroes of Hraace (Pt- 2)","paragraph":88,"wording":"[Light Arrow]","event":"named"}
 {"id":"01a06572-95cd-72c2-b675-f7ad82f3d803","chapterSlug":"rwInterlude - Stories","paragraph":508,"wording":"[Light Arrow]","event":"named"}
 {"id":"01a06572-95cd-7249-bba2-a636d0da9b20","chapterSlug":"rwInterlude - Stories","paragraph":522,"wording":"[Light Arrow]","event":"named"}
-{"id":"01a06572-95cd-777a-8980-b14e8fd3010d","chapterSlug":"rw9-55 (Pt. 1)","paragraph":738,"wording":"[Light Arrow]","event":"used","claimed":true,"claimedBySlug":"Menrise","holderQuote":"Menrise, do something!","effectQuote":"She pointed, and the ghost snarled, whirled"}
+{"id":"01a06572-95cd-777a-8980-b14e8fd3010d","chapterSlug":"rw9-55 (Pt. 1)","paragraph":738,"wording":"[Light Arrow]","event":"used","claimed":true,"claimedBySlug":"menrise","holderQuote":"Menrise, do something!","effectQuote":"She pointed, and the ghost snarled, whirled"}
 {"id":"01a06572-95cd-70ec-900e-cf493ab6acb5","chapterSlug":"rw10-29 M","paragraph":732,"wording":"[Light Arrow]","event":"used","holderSlug":"grimalkin","holderQuote":"Sinew Magus Grimalkin had set up the spells on a delay","effectQuote":"[Light Arrow] spells were arcing up out of the water, following wide trajectories"}
 {"id":"01a06572-95cd-74b1-9336-aa7d941bf4b3","chapterSlug":"rw10-39 YN","paragraph":1587,"wording":"[Light Arrow]","event":"named","holderSlug":"falene-skystrall","holderQuote":"Her eye was twitching as she muttered spells"}
 {"id":"01a06572-95cd-720b-9357-67c1a4c08720","chapterSlug":"rw10-30 GGMG","paragraph":752,"wording":"[Light Arrow]","event":"used","holderSlug":"student-rags","holderQuote":"the [Student] produced a wand and began to fire a barrage of [Light Arrow] spells at their pursuers.","effectQuote":"fire a barrage of [Light Arrow] spells at their pursuers"}
@@ -41,7 +41,7 @@
 {"id":"01a06572-95cd-7792-aa88-451ce99969e5","chapterSlug":"rw10-58 FP","paragraph":1045,"wording":"[Light Arrow]","event":"named"}
 {"id":"01a06572-95cd-7094-bd0f-eec8699bc829","chapterSlug":"rw9-49","paragraph":317,"wording":"[Light Arrow]","event":"named"}
 {"id":"01a06572-95cd-771a-aa10-b6d29e54c613","chapterSlug":"rw9-49","paragraph":324,"wording":"[Light Arrow]","event":"named"}
-{"id":"01a06572-95cd-7489-a904-f72cc6344171","chapterSlug":"rw9-49","paragraph":326,"wording":"[Light Arrow]","event":"named","holderSlug":"ceria-springwalker","claimed":true,"claimedBySlug":"Pisces","holderQuote":"How do you ‘move’ a [Light Arrow], Ceria?"}
+{"id":"01a06572-95cd-7489-a904-f72cc6344171","chapterSlug":"rw9-49","paragraph":326,"wording":"[Light Arrow]","event":"named","holderSlug":"ceria-springwalker","claimed":true,"claimedBySlug":"pisces","holderQuote":"How do you ‘move’ a [Light Arrow], Ceria?"}
 {"id":"01a06572-95cd-7577-8f28-166973c9d00e","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":628,"wording":"[Light Arrow]","event":"named"}
 {"id":"01a06572-95cd-7e83-ba14-190035d00ce8","chapterSlug":"rw9-41 (Pt. 3)","paragraph":2255,"wording":"[Light Arrow]","event":"named","holderQuote":"Vess shot arrows at Toreel, but the half-Elf [Ranger] deflected two."}
 {"id":"01a06572-95cd-741c-8931-f8569eaaffdd","chapterSlug":"rw10-32 (Pt. 2)","paragraph":88,"wording":"[Light Arrow]","event":"named","holderSlug":"mrsha","holderQuote":"She hurled [Light Arrow] spells, trying to cover her position, but nothing worked."}
