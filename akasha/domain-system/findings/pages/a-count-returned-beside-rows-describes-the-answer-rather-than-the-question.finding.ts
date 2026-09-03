@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aCountReturnedBesideRowsDescribesTheAnswerRatherThanTheQuestion = {
+  id: "01a06761-7580-7000-83cc-8330d9da7223",
+  pageTypeSlug: "finding",
+  slug: "a-count-returned-beside-rows-describes-the-answer-rather-than-the-question",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "Where a query's limit is passed down to the store, the count answered beside the rows counts what was returned rather than what matched. A caller comparing that count against the rows it received compares a number against itself, so a guard written that way reports no truncation however long it runs. The one signal left is that the rows exactly fill the limit, and that cannot tell a whole answer from a short one, so it is a reason to refuse rather than to answer.",
+  evidence:
+    "Measured 2026-09-03 against the reading catalog. `store-questioning.module.code.ts` assigns `n` from `shaped.length` at line 234, before the rows are narrowed to the limit, which reads as a total taken over everything that matched, and I wrote a truncation guard on `n > rows.length` for that reason. Line 193 of the same file passes `limit` down to the store, so the store returns at most that many rows and `shaped` never holds more. Asking `story-chapter-read` with `limit: 1` answered `n=1` against 18,924 chapters standing.\n\nThe guard would have compared 1 against 1 and reported clean, and would have gone on doing so at every limit and every scale, because the two numbers are the same number. It was caught by measuring the instrument rather than by reading it: at `limit: 1`, `n` had to be either 18,924 or 1, and only one of those makes the guard mean anything.\n\nWhat works instead is `rows.length === limit`. Proved by asking at a limit the data can fill: at `limit: 100` the store returned 100 rows, `rows.length === limit` was true and `n > rows.length` was false, both read off the same call. That signal has a false positive where the count is exactly the limit, which is the right way round, because refusing an answer that might be whole costs a caller a retry while returning one that might be short costs it the rows.\n\nThe general shape for a later reader: a number a store hands back beside its rows describes what it sent rather than what it holds, unless the store says otherwise. Any check comparing the two across a limit that was pushed down is checking nothing, and it reports clean, which is indistinguishable from working.",
+} as const satisfies Finding
