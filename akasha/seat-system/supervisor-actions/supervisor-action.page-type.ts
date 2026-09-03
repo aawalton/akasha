@@ -17,6 +17,15 @@ export const supervisorAction = {
   extendsSlug: "page-type/domain",
   invariants: [
     {
+      invariantKind: "departure",
+      statement: "A supervisor is the process running an agent in a seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A supervisor writes a seat's page by running the writer rather than by holding the page in memory.",
+    },
+    {
       invariantKind: "stopgap",
       statement: "A supervisor's action is carried on the seat holding that supervisor.",
     },

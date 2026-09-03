@@ -60,6 +60,10 @@ export const modelGateway = {
       statement: "A gateway holds the credentials the seat never sees.",
     },
     {
+      invariantKind: "departure",
+      statement: "A gateway is spawned by a supervisor on this workstation rather than deployed.",
+    },
+    {
       invariantKind: "constraint",
       statement: "One thread carries every stream a gateway holds open.",
     },

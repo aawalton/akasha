@@ -23,4 +23,10 @@ export const turnPending = {
     { pagePropertySlug: "send-in-flight", required: true, many: false },
     { pagePropertySlug: "owed", required: true, many: false },
   ],
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "A reminder a seat set for itself is no pending turn start.",
+    },
+  ],
 } as const satisfies RecordProperty

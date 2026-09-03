@@ -6,4 +6,10 @@ export const mcpServers = {
   slug: "mcp-servers",
   definition: "the tool servers the client is given",
   harnessSettings: "json",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "A `.mcp.json` beside an account or a workspace is never read.",
+    },
+  ],
 } as const satisfies AgentSettings

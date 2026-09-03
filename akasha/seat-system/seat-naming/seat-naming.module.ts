@@ -30,6 +30,32 @@ export const seatNaming = {
       statement: "A seat's flex is carried in its name rather than beside the seat.",
     },
     {
+      invariantKind: "departure",
+      statement: "A seat's name spells no on-call assignment.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat's name and its terminal tab name and its Remote Control session title are one value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat name is never ambiguous.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The narrower reading wins where more than one set of stated values would spell one name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat name reaches the seat that carried the name most recently.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat whose principal is Alan takes its persona's name alone.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a page from disk.",
     },

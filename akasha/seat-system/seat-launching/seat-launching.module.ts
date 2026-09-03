@@ -64,6 +64,22 @@ export const seatLaunching = {
       statement: "A seat whose session is gone once the seat has had a moment to boot is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "A seat's tmux session is named for the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tmux client is a child of the shell in the tab the client was attached from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tmux server is no child of that shell.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The status bar is off.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here stops a seat or takes the page the seat holds.",
     },

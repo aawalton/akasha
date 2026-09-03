@@ -19,5 +19,10 @@ export const startMode = {
       invariantKind: "gap",
       statement: "This property is a relation to a start mode.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "An agent states the mode the agent works in rather than how the agent was started.",
+    },
   ],
 } as const satisfies TextProperty
