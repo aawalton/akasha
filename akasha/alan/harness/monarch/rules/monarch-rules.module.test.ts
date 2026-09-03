@@ -1,4 +1,4 @@
-// These claims were a hand-run script standing at `monarch/agree.ts`, whose first part built a
+// These claims were a hand-run script that stood outside akasha, whose first part built a
 // case out of rows and checked what `decide` made of it. That part reads nothing and settles the
 // same way every run, so it stands here as this module's test rather than as a script someone
 // remembers to run. The script's other two parts weigh the live database and stayed with it.

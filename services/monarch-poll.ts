@@ -3,7 +3,7 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { pollTransactions } from "../monarch/poll.ts"
+import { pollTransactions } from "../akasha/alan/harness/monarch/poll/monarch-poll.module.code.ts"
 
 const HELP = `bun services/monarch-poll.ts — land the Monarch rows whose update time has moved
 

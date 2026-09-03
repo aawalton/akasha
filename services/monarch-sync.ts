@@ -3,7 +3,7 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { sync } from "../monarch/sync.ts"
+import { sync } from "../akasha/alan/harness/monarch/sync/monarch-sync.module.code.ts"
 
 const HELP = `bun services/monarch-sync.ts — copy the whole of Monarch and compare the copy against it
 
