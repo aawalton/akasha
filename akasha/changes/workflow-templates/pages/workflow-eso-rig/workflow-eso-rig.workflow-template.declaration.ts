@@ -18,7 +18,8 @@ export default workflow("eso-rig", {
     kubectlApply({
       name: "eso-rig-apply-namespace",
       namespace: "eso-rig",
-      files: "infra/eso-rig/generated/namespace.generated.yaml",
+      files:
+        "akasha/service-system/cluster-services/pages/eso-rig/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -40,7 +41,7 @@ export default workflow("eso-rig", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n eso-rig -f infra/eso-rig/generated/deployment.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n eso-rig -f akasha/service-system/cluster-services/pages/eso-rig/generated/deployment.generated.yaml",
           ...verifyRolloutCommands({
             namespace: "eso-rig",
             deployment: "eso-rig",
