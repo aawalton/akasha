@@ -1,13 +1,13 @@
-import type { RcDegradedSeat } from "@akasha/seat-system/supervisor-rc-degraded-decide"
 import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
-} from "@tools/lib/decide-claimed-redelivery"
-import type { LimitResumeInput } from "@tools/lib/decide-limit-resume"
-import type { RemoteControlSeatQuestion } from "@tools/lib/decide-remote-control"
-import type { RestartNowEvent } from "@tools/lib/decide-restart-notice"
-import type { UncertainBlockSeat } from "@tools/lib/decide-uncertain-wait"
-import type { WaitResumeInput } from "@tools/lib/decide-wait-resume"
+} from "@akasha/seat-system/supervisor-claimed-redelivery-decide"
+import type { LimitResumeInput } from "@akasha/seat-system/supervisor-limit-resume-decide"
+import type { RcDegradedSeat } from "@akasha/seat-system/supervisor-rc-degraded-decide"
+import type { RemoteControlSeatQuestion } from "@akasha/seat-system/supervisor-remote-control-decide"
+import type { RestartNowEvent } from "@akasha/seat-system/supervisor-restart-notice-decide"
+import type { UncertainBlockSeat } from "@akasha/seat-system/supervisor-uncertain-wait-decide"
+import type { WaitResumeInput } from "@akasha/seat-system/supervisor-wait-resume-decide"
 import { arr, bool, maybe, num, obj, oneOf, str } from "@tools/lib/narrow"
 
 export function parseUncertainWait(value: unknown, path: string): UncertainBlockSeat[] {

@@ -1,5 +1,8 @@
-import type { RemoteControlQuestion } from "@akasha/seat-system/supervisor-remote-control-decide"
-import { shape } from "./shape.ts"
+import {
+  decideRemoteControl,
+  type RemoteControlQuestion,
+} from "@akasha/seat-system/supervisor-remote-control-decide"
+import { shape } from "@tools/lib/shape"
 
 export type { RemoteControlQuestion }
 
@@ -17,7 +20,7 @@ export const RemoteControlVerdictShape = shape.object({
 })
 
 export function remoteControlFallback(headless: boolean): boolean {
-  return !headless
+  return decideRemoteControl({ headless })
 }
 
 export function readRemoteControlQuestion(opts: { headless: boolean }): RemoteControlQuestion {

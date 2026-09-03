@@ -1,4 +1,3 @@
-
 export interface RestartNowEvent {
   readonly action: "restart-now"
   readonly interruptMessage: string | null
@@ -12,14 +11,17 @@ export interface ResumeNotices {
 
 export type RestartNoticeRoute = "spawn-argv" | "rail"
 
+export interface RestartNoticeContext {
+  readonly maintenance: boolean
+  readonly reExecPending: boolean
+}
+
 function selectRestartNoticeBody(
   event: RestartNowEvent,
-  ctx: { maintenance: boolean; reExecPending: boolean },
+  ctx: RestartNoticeContext,
   notices: ResumeNotices
 ): { route: RestartNoticeRoute; body: string } {
-  if (ctx.maintenance) {
-    return { route: "rail", body: notices["restart-deferred"] }
-  }
+  if (ctx.maintenance) return { route: "rail", body: notices["restart-deferred"] }
   return {
     route: ctx.reExecPending ? "rail" : "spawn-argv",
     body: event.interruptMessage ?? notices["restart-immediate"],
@@ -28,7 +30,7 @@ function selectRestartNoticeBody(
 
 export function planRestartNotice(
   event: RestartNowEvent,
-  ctx: { maintenance: boolean; reExecPending: boolean },
+  ctx: RestartNoticeContext,
   notices: ResumeNotices
 ): { route: RestartNoticeRoute; notice: string } {
   const { route, body } = selectRestartNoticeBody(event, ctx, notices)

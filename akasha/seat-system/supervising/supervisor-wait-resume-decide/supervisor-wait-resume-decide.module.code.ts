@@ -1,4 +1,3 @@
-
 export const WAIT_FIRST_MS = 30_000
 
 export const WAIT_MAX_MS = 1_800_000
@@ -30,7 +29,6 @@ export function decideWaitResume(input: WaitResumeInput): WaitResumeDecision {
   if (!input.deathDetected) {
     return { kind: "hold", reason: "the last turn did not end in a death" }
   }
-  const seen = Math.max(1, Math.floor(input.consecutiveDeaths) || 1)
   if (input.lastNudgeAtMs === null) {
     return {
       kind: "nudge",
@@ -38,6 +36,7 @@ export function decideWaitResume(input: WaitResumeInput): WaitResumeDecision {
       reason: "died and never nudged — nothing has been tried yet",
     }
   }
+  const seen = Math.max(1, Math.floor(input.consecutiveDeaths) || 1)
   const currentWaitMs = waitMs(seen)
   const readyAtMs = input.lastNudgeAtMs + currentWaitMs
   if (input.now >= readyAtMs) {
@@ -50,8 +49,8 @@ export function decideWaitResume(input: WaitResumeInput): WaitResumeDecision {
   return {
     kind: "wait",
     readyAtMs,
-    reason: `died ${seen} time(s) running, ${seconds(
-      readyAtMs - input.now
-    )} left of the ${seconds(currentWaitMs)} wait`,
+    reason: `died ${seen} time(s) running, ${seconds(readyAtMs - input.now)} left of the ${seconds(
+      currentWaitMs
+    )} wait`,
   }
 }

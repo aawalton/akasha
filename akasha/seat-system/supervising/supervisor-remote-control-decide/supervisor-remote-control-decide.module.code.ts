@@ -1,4 +1,3 @@
-
 export interface RemoteControlQuestion {
   readonly headless: boolean
 }
@@ -20,8 +19,5 @@ export interface RemoteControlVerdict {
 export function decideRemoteControlBatch(
   seats: readonly RemoteControlSeatQuestion[]
 ): RemoteControlVerdict[] {
-  return seats.map(({ seat, question }) => ({
-    seat,
-    remoteControl: decideRemoteControl(question),
-  }))
+  return seats.map(({ seat, question }) => ({ seat, remoteControl: decideRemoteControl(question) }))
 }

@@ -1,4 +1,3 @@
-
 export const UNCERTAIN_BLOCK_ESCALATE_MS = 30 * 60_000
 
 export interface UncertainBlockState {

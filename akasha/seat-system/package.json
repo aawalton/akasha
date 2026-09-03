@@ -80,7 +80,13 @@
     "./supervisor-rc-degraded-decide": "./supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts",
     "./supervisor-rc-degraded-state": "./supervising/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.code.ts",
     "./supervisor-rc-degraded-thresholds": "./supervising/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.code.ts",
-    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts"
+    "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
+    "./supervisor-limit-resume-decide": "./supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts",
+    "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
+    "./supervisor-uncertain-wait-decide": "./supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts",
+    "./supervisor-remote-control-decide": "./supervising/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts",
+    "./supervisor-restart-notice-decide": "./supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts",
+    "./supervisor-claimed-redelivery-decide": "./supervising/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
   },
   "dependencies": {
     "@tools/lib": "workspace:*",
