@@ -8,6 +8,7 @@ export const seatTranscripts = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
+  taking: [],
   helpNotes: [
     "it takes no word at all, and every word it is given is refused.",
     "it prints one JSON object carrying a `seats` list, and nothing else.",

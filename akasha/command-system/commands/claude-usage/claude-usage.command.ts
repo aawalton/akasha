@@ -8,6 +8,7 @@ export const claudeUsage = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
+  taking: [],
   helpNotes: [
     "it prints one JSON object and nothing else, carrying a session mean and a weekly mean.",
     "a mean is a value and the count of accounts that value was taken over.",
