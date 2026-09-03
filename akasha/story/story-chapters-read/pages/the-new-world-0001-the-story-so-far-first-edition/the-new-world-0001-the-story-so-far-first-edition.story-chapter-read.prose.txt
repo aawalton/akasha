@@ -162,3 +162,40 @@ Luck Perks
 
 [Miraculous(Luck 25 or more) - Your luck is incredible. 1/10th of luck added to Charisma. Circumstances will more likely guide you towards your goals. Sometimes, you'll ask just the right questions, learn just what you need to know, and do just what you need to during a crisis.]
 
+[Opportunity Untold(Luck 30 or more) - Your luck is unexplainable. Gives additional money found, odds in your favor, and chance of rare event for every level gained. Every point in luck gives an additional three points in mana, health, and stamina. Another 1/10th of your luck is added to charisma. You gain one revival after death. Use it wisely.]
+
+Charisma Perks
+
+[Well-Worded(Charisma 10 or more) - Your charisma is good. Doubles haggling ability.]
+
+[Convincing(Charisma 15 or more) - Your charisma is admirable. Doubles persuasiveness.]
+
+[Charming(Charisma 20 or more) - Your charisma is amazing. Doubles likability. Charisma let's you open up more in conversation, making you more genuine and authentic.]
+
+[Compelling(Charisma 25 or more) - Your charisma is incredible. Your words have weight to them, making others think of what you've said after you've spoken them. Your voice and tone when speaking grows easier to listen to from additional points of charisma.]
+
+[Undeniable(Charisma 30 or more) - Your presence is a power all to itself. Doubles the growth and effects of speech related skills. Gives additional likeability, persuasion, haggling, and charm per level. Doubles mana consumption.]
+
+Daniel's Skills
+
+Skills in the new world operate several tiers of skills. In this case, normal skills are the floor. Unique skills require five normal skills to create or a much more difficult initial unlocking condition. Mythical skills require three unique skills, meaning fifteen normal skills molded into a single skill.
+
+Normal Skills
+
+Pain Tolerance, Desperation, Ava Maria, Death's Dance, Dodging, Pugilist, Physical Fitness, Focus, Scorn, Sneak, History, Biology, Mathematics, Patience, Throwing, Momentum, BloodHollow Bat Slayer, Coarsened Hands, Travel, Fear, Intimidation, Speechcraft, Leadership, Mana Manipulation, Stomp, Dominion of the Mind, Blitz, Augmentation, Augmentation Manipulation, Unending Tempest, Comprehension of Oblivion, Soul forging, Soul Siphon, Craftsmanship, Enchanting.
+
+Unique Skills
+
+Lumbering Brute - Fused skills: Heavy Hands, Coarsened Knuckles, Momentum, Dodging, and Pugilist.
+
+Savage Berserker - Fused Skills: Blitz, Ferocity, Desperation, Death's Dance, and Scorn.
+
+Tranquil Duelist - Fused Skills: Deflection, Calm, Patience, Countering, and Dominion of the Mind.
+
+Mythical Skills
+
+Boundless Storm - Fused skills: Lumbering Brute, Savage Berserker, and Tranquil Duelist.
+
+Enjoy Reading
+
+So that should be a solid breakdown for everybody. I hope you all enjoy the New World. Ratings are always appreciated, and please consider picking up the book in the future. Thank you all for your support for this project, and I appreciate you all.
