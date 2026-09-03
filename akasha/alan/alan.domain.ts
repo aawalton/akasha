@@ -7,6 +7,7 @@ export const alan = {
   definition: "what belongs to Alan himself",
   partSlugs: [
     "domain/alan-harness",
+    "domain/authoring",
     "domain/fitness",
     "domain/library",
     "domain/music",
