@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/pipeline-sweep",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./pipeline-page-statuses": "./pipeline-page-statuses/pipeline-page-statuses.module.code.ts",
+    "./pipeline-row-entities": "./pipeline-row-entities/pipeline-row-entities.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-system": "workspace:*"
+  }
+}

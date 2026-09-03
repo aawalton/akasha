@@ -1,7 +1,8 @@
 import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { listOf, textOf } from "@akasha/pages-system/page-query-values"
-import type { Values } from "../page-file-values.ts"
-import { PENDING } from "./statuses.ts"
+import { PENDING } from "../pipeline-page-statuses/pipeline-page-statuses.module.code.ts"
+
+type Values = Row["values"]
 
 export interface Pipeline {
   readonly seq: string
@@ -53,8 +54,8 @@ function flag(values: Values, key: string): boolean {
 function count(values: Values, key: string): number {
   const one = said(values, key)
   if (one === null) return 0
-  const held = Number(one)
-  return Number.isFinite(held) ? held : 0
+  const stated = Number(one)
+  return Number.isFinite(stated) ? stated : 0
 }
 
 export function momentOf(values: Values, key: string): number | null {

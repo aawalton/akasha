@@ -1,13 +1,3 @@
-import type { ContainerReading } from "./cluster.ts"
-import {
-  allTerminal,
-  blockerOf,
-  dependenciesOf,
-  whenConditionMet,
-  workflowIsHealthy,
-} from "./dispatch-guards.ts"
-import { type Effect, transition } from "./effects.ts"
-import type { Step, Workflow } from "./entities.ts"
 import {
   ANSWERED_ELSEWHERE,
   ANSWERED_PRESERVE,
@@ -22,7 +12,17 @@ import {
   SKIPPED,
   STEP,
   STEP_TERMINAL,
-} from "./statuses.ts"
+} from "@akasha/pipeline-sweep/pipeline-page-statuses"
+import type { Step, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
+import type { ContainerReading } from "./cluster.ts"
+import {
+  allTerminal,
+  blockerOf,
+  dependenciesOf,
+  whenConditionMet,
+  workflowIsHealthy,
+} from "./dispatch-guards.ts"
+import { type Effect, transition } from "./effects.ts"
 
 export const LAUNCH_TIMEOUT_MS = 900_000
 
@@ -84,18 +84,32 @@ function decideDispatching(step: Step, now: number): readonly Effect[] {
       : 0
   if (deferredMs >= CAPACITY_WAIT_TIMEOUT_MS) {
     return [
-      transition(STEP, step.seq, DISPATCHING, FAILED, "step.dispatching-to-failed.capacity-starved", {
-        "exit-code": 1,
-        "failure-reason": `capacity-starved:${step.dispatchWaitNode ?? "unknown"}`,
-      }),
+      transition(
+        STEP,
+        step.seq,
+        DISPATCHING,
+        FAILED,
+        "step.dispatching-to-failed.capacity-starved",
+        {
+          "exit-code": 1,
+          "failure-reason": `capacity-starved:${step.dispatchWaitNode ?? "unknown"}`,
+        }
+      ),
     ]
   }
   if (step.dispatchedAt === null || now - step.dispatchedAt - deferredMs >= ENQUEUE_TIMEOUT_MS) {
     return [
-      transition(STEP, step.seq, DISPATCHING, FAILED, "step.dispatching-to-failed.enqueue-timeout", {
-        "exit-code": 1,
-        "failure-reason": ENQUEUE_TIMED_OUT,
-      }),
+      transition(
+        STEP,
+        step.seq,
+        DISPATCHING,
+        FAILED,
+        "step.dispatching-to-failed.enqueue-timeout",
+        {
+          "exit-code": 1,
+          "failure-reason": ENQUEUE_TIMED_OUT,
+        }
+      ),
     ]
   }
   return []
@@ -112,21 +126,35 @@ function decideStalledLaunch(step: Step, now: number): readonly Effect[] {
 
   if (step.launchAttempts < MAX_LAUNCH_ATTEMPTS) {
     return [
-      transition(STEP, step.seq, LAUNCHING, PENDING, `step.launching-to-pending.${refused === null ? "launch-timeout" : "launch-refused"}`, {
-        "launch-attempts": attempts,
-        "relaunch-not-before": new Date(now + backoffMs(attempts)).toISOString(),
-        "launch-refused-reason": null,
-        "container-launch-attempted-at": null,
-        "container-name": null,
-      }),
+      transition(
+        STEP,
+        step.seq,
+        LAUNCHING,
+        PENDING,
+        `step.launching-to-pending.${refused === null ? "launch-timeout" : "launch-refused"}`,
+        {
+          "launch-attempts": attempts,
+          "relaunch-not-before": new Date(now + backoffMs(attempts)).toISOString(),
+          "launch-refused-reason": null,
+          "container-launch-attempted-at": null,
+          "container-name": null,
+        }
+      ),
     ]
   }
 
   return [
-    transition(STEP, step.seq, LAUNCHING, FAILED, `step.launching-to-failed.${refused === null ? "launch-timeout" : "launch-refused"}`, {
-      "exit-code": 1,
-      "failure-reason": why,
-    }),
+    transition(
+      STEP,
+      step.seq,
+      LAUNCHING,
+      FAILED,
+      `step.launching-to-failed.${refused === null ? "launch-timeout" : "launch-refused"}`,
+      {
+        "exit-code": 1,
+        "failure-reason": why,
+      }
+    ),
   ]
 }
 
@@ -145,12 +173,19 @@ function decidePending(step: Step, held: StepSurroundings): readonly Effect[] {
     held.hasDefinition(step.seq)
   ) {
     return [
-      transition(STEP, step.seq, PENDING, DISPATCHING, "step.pending-to-dispatching.guards-passed", {
-        "dispatched-at": new Date(held.now).toISOString(),
-        "dispatch-wait-reason": null,
-        "dispatch-wait-node": null,
-        "dispatch-wait-since": null,
-      }),
+      transition(
+        STEP,
+        step.seq,
+        PENDING,
+        DISPATCHING,
+        "step.pending-to-dispatching.guards-passed",
+        {
+          "dispatched-at": new Date(held.now).toISOString(),
+          "dispatch-wait-reason": null,
+          "dispatch-wait-node": null,
+          "dispatch-wait-since": null,
+        }
+      ),
     ]
   }
 
@@ -193,10 +228,20 @@ export function decideStep(step: Step, held: StepSurroundings): readonly Effect[
   if (STEP_TERMINAL.has(step.status)) return []
 
   if (workflow.status === OVERTAKEN) {
-    return [transition(STEP, step.seq, step.status, OVERTAKEN, "step.any-to-overtaken.workflow-overtaken")]
+    return [
+      transition(
+        STEP,
+        step.seq,
+        step.status,
+        OVERTAKEN,
+        "step.any-to-overtaken.workflow-overtaken"
+      ),
+    ]
   }
   if (workflow.status === BLOCKED) {
-    return [transition(STEP, step.seq, step.status, BLOCKED, "step.any-to-blocked.workflow-blocked")]
+    return [
+      transition(STEP, step.seq, step.status, BLOCKED, "step.any-to-blocked.workflow-blocked"),
+    ]
   }
 
   if (step.status === PENDING) return decidePending(step, held)
@@ -205,11 +250,21 @@ export function decideStep(step: Step, held: StepSurroundings): readonly Effect[
 
   if (step.status === LAUNCHING) {
     const container = containerOf(step, held)
-    if (container !== null && (container.stepStartedAt !== null || container.stepTerminated !== null)) {
+    if (
+      container !== null &&
+      (container.stepStartedAt !== null || container.stepTerminated !== null)
+    ) {
       return [
-        transition(STEP, step.seq, LAUNCHING, RUNNING, "step.launching-to-running.container-started", {
-          "started-at": container.stepStartedAt ?? new Date(held.now).toISOString(),
-        }),
+        transition(
+          STEP,
+          step.seq,
+          LAUNCHING,
+          RUNNING,
+          "step.launching-to-running.container-started",
+          {
+            "started-at": container.stepStartedAt ?? new Date(held.now).toISOString(),
+          }
+        ),
       ]
     }
     return decideStalledLaunch(step, held.now)

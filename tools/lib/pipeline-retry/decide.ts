@@ -1,4 +1,3 @@
-import type { Pipeline, Step, Workflow } from "../sweep-pipeline-pages/entities.ts"
 import {
   ANSWERED_ELSEWHERE,
   BLOCKED,
@@ -6,7 +5,8 @@ import {
   OVERTAKEN,
   PASSED,
   PIPELINE_TERMINAL,
-} from "../sweep-pipeline-pages/statuses.ts"
+} from "@akasha/pipeline-sweep/pipeline-page-statuses"
+import type { Pipeline, Step, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
 
 export const CAPACITY_STARVED = "capacity-starved"
 

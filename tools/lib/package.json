@@ -12,6 +12,7 @@
     "@akasha/git": "workspace:*",
     "@akasha/graph-system": "workspace:*",
     "@akasha/k8s-synth": "workspace:*",
+    "@akasha/pipeline-sweep": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-completion": "workspace:*",

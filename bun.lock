@@ -505,6 +505,12 @@
         "@tools/lib": "workspace:*",
       },
     },
+    "akasha/changes/pipeline-sweep": {
+      "name": "@akasha/pipeline-sweep",
+      "dependencies": {
+        "@akasha/pages-system": "workspace:*",
+      },
+    },
     "akasha/changes/test-fanout": {
       "name": "@akasha/test-fanout",
       "dependencies": {
@@ -3043,6 +3049,7 @@
         "@akasha/git": "workspace:*",
         "@akasha/graph-system": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
+        "@akasha/pipeline-sweep": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
@@ -3266,6 +3273,8 @@
     "@akasha/pipeline-commands": ["@akasha/pipeline-commands@workspace:akasha/infrastructure/commands"],
 
     "@akasha/pipeline-orchestration": ["@akasha/pipeline-orchestration@workspace:akasha/changes/pipeline-orchestration"],
+
+    "@akasha/pipeline-sweep": ["@akasha/pipeline-sweep@workspace:akasha/changes/pipeline-sweep"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:akasha/domain-system/plain-language"],
 

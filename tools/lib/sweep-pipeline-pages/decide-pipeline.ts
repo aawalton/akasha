@@ -1,8 +1,7 @@
-import { type Effect, transition } from "./effects.ts"
-import type { Pipeline, Workflow } from "./entities.ts"
 import {
   DISPATCHING,
   FAILED,
+  MAIN_BRANCH,
   OVERTAKEN,
   PASSED,
   PENDING,
@@ -12,15 +11,15 @@ import {
   UNDERWAY,
   WORKFLOW_NEGATIVE,
   WORKFLOW_TERMINAL,
-  MAIN_BRANCH,
-} from "./statuses.ts"
+} from "@akasha/pipeline-sweep/pipeline-page-statuses"
+import type { Pipeline, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
+import { type Effect, transition } from "./effects.ts"
 
-function heldBehindOnMain(
-  pipeline: Pipeline,
-  sameBranch: readonly Pipeline[]
-): boolean {
+function heldBehindOnMain(pipeline: Pipeline, sameBranch: readonly Pipeline[]): boolean {
   if (pipeline.branch !== MAIN_BRANCH) return false
-  return sameBranch.some((one) => Number(one.seq) < Number(pipeline.seq) && UNDERWAY.has(one.status))
+  return sameBranch.some(
+    (one) => Number(one.seq) < Number(pipeline.seq) && UNDERWAY.has(one.status)
+  )
 }
 
 function rollUp(pipeline: Pipeline, workflows: readonly Workflow[]): readonly Effect[] {
@@ -33,13 +32,31 @@ function rollUp(pipeline: Pipeline, workflows: readonly Workflow[]): readonly Ef
   const from = pipeline.status
 
   if (settled && anyNegative) {
-    return [transition(PIPELINE, pipeline.seq, from, FAILED, `pipeline.${from}-to-failed.workflow-failed`)]
+    return [
+      transition(
+        PIPELINE,
+        pipeline.seq,
+        from,
+        FAILED,
+        `pipeline.${from}-to-failed.workflow-failed`
+      ),
+    ]
   }
   if (settled) {
-    return [transition(PIPELINE, pipeline.seq, from, PASSED, `pipeline.${from}-to-passed.workflows-done`)]
+    return [
+      transition(PIPELINE, pipeline.seq, from, PASSED, `pipeline.${from}-to-passed.workflows-done`),
+    ]
   }
   if (from === DISPATCHING && anyMoved) {
-    return [transition(PIPELINE, pipeline.seq, from, RUNNING, "pipeline.dispatching-to-running.workflow-running")]
+    return [
+      transition(
+        PIPELINE,
+        pipeline.seq,
+        from,
+        RUNNING,
+        "pipeline.dispatching-to-running.workflow-running"
+      ),
+    ]
   }
   return []
 }

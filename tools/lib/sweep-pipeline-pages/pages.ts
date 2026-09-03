@@ -1,9 +1,7 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
 import { UNREACHED } from "@akasha/pages-system/page-query-shape"
-import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
-import { load } from "../page-query.ts"
-import { whereFor } from "../page-write-where.ts"
+import { PIPELINE, STEP, WORKFLOW } from "@akasha/pipeline-sweep/pipeline-page-statuses"
 import {
   type Pipeline,
   pipelineIn,
@@ -11,8 +9,10 @@ import {
   stepIn,
   type Workflow,
   workflowIn,
-} from "./entities.ts"
-import { PIPELINE, STEP, WORKFLOW } from "./statuses.ts"
+} from "@akasha/pipeline-sweep/pipeline-row-entities"
+import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
+import { load } from "../page-query.ts"
+import { whereFor } from "../page-write-where.ts"
 
 export interface Snapshot {
   readonly pipelines: readonly Pipeline[]

@@ -1,5 +1,5 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { overtakenByNewerOnBranch } from "../sweep-pipeline-pages/statuses.ts"
+import { overtakenByNewerOnBranch } from "@akasha/pipeline-sweep/pipeline-page-statuses"
 import type {
   CreatorCode,
   Graph,

@@ -1,3 +1,9 @@
+// These sets are the sweep's own and are narrower than
+// `@akasha/workflow-selection/ci-status-vocabulary`, which states a "canceled" that none of
+// these do. Widening them here would move a live daemon's hand over canceled pages, so they
+// are carried across as they stood rather than folded onto the wider vocabulary. Recorded as
+// `the-sweep-and-the-selector-disagree-about-canceled.finding.ts`.
+
 export const PIPELINE = "pipeline"
 
 export const WORKFLOW = "workflow"

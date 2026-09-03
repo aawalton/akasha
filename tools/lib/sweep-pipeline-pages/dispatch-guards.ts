@@ -1,5 +1,9 @@
-import type { Step, Workflow } from "./entities.ts"
-import { STEP_NEGATIVE, STEP_TERMINAL, UNDERWAY } from "./statuses.ts"
+import {
+  STEP_NEGATIVE,
+  STEP_TERMINAL,
+  UNDERWAY,
+} from "@akasha/pipeline-sweep/pipeline-page-statuses"
+import type { Step, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
 
 export const BLOCKER_WALK_BOUND = 4096
 
@@ -9,10 +13,7 @@ export function stepsByTitle(steps: readonly Step[]): ReadonlyMap<string, Step> 
   return out
 }
 
-export function dependenciesOf(
-  step: Step,
-  byTitle: ReadonlyMap<string, Step>
-): readonly Step[] {
+export function dependenciesOf(step: Step, byTitle: ReadonlyMap<string, Step>): readonly Step[] {
   return step.dependsOn
     .map((title) => byTitle.get(title))
     .filter((one): one is Step => one !== undefined)

@@ -1,4 +1,3 @@
-import { applyEffect, type Held, transition } from "../sweep-pipeline-pages/effects.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
   FAILED,
@@ -7,7 +6,8 @@ import {
   RUNNING,
   STEP,
   WORKFLOW,
-} from "../sweep-pipeline-pages/statuses.ts"
+} from "@akasha/pipeline-sweep/pipeline-page-statuses"
+import { applyEffect, type Held, transition } from "../sweep-pipeline-pages/effects.ts"
 import type { Plan } from "./decide.ts"
 
 const STEP_HUSK: Readonly<Record<string, Held>> = {

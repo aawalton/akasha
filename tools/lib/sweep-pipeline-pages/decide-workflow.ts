@@ -1,5 +1,3 @@
-import { type Effect, transition } from "./effects.ts"
-import type { Pipeline, Step, Workflow } from "./entities.ts"
 import {
   ANSWERED_ELSEWHERE,
   ANSWERED_PRESERVE,
@@ -18,7 +16,9 @@ import {
   WORKFLOW_NEGATIVE,
   WORKFLOW_POSITIVE,
   WORKFLOW_TERMINAL,
-} from "./statuses.ts"
+} from "@akasha/pipeline-sweep/pipeline-page-statuses"
+import type { Pipeline, Step, Workflow } from "@akasha/pipeline-sweep/pipeline-row-entities"
+import { type Effect, transition } from "./effects.ts"
 
 export const DEPLOYED_COMMIT_MATCH = "deployed-commit-match"
 
@@ -44,9 +44,7 @@ function rollUp(workflow: Workflow, steps: readonly Step[]): readonly Effect[] {
     ]
   }
   if (steps.length === 0) {
-    return [
-      transition(WORKFLOW, workflow.seq, from, PASSED, `workflow.${from}-to-passed.stepless`),
-    ]
+    return [transition(WORKFLOW, workflow.seq, from, PASSED, `workflow.${from}-to-passed.stepless`)]
   }
   if (
     from === DISPATCHING &&
@@ -78,9 +76,16 @@ function decidePending(
     workflow.deployedCommit === pipeline.commit
   ) {
     return [
-      transition(WORKFLOW, workflow.seq, PENDING, SKIPPED, "workflow.pending-to-skipped.deployed-commit", {
-        "skip-reason": DEPLOYED_COMMIT_MATCH,
-      }),
+      transition(
+        WORKFLOW,
+        workflow.seq,
+        PENDING,
+        SKIPPED,
+        "workflow.pending-to-skipped.deployed-commit",
+        {
+          "skip-reason": DEPLOYED_COMMIT_MATCH,
+        }
+      ),
     ]
   }
 
@@ -91,9 +96,16 @@ function decidePending(
     workflow.deployedInputsHash === workflow.inputsHash
   ) {
     return [
-      transition(WORKFLOW, workflow.seq, PENDING, SKIPPED, "workflow.pending-to-skipped.inputs-hash", {
-        "skip-reason": INPUTS_HASH_MATCH,
-      }),
+      transition(
+        WORKFLOW,
+        workflow.seq,
+        PENDING,
+        SKIPPED,
+        "workflow.pending-to-skipped.inputs-hash",
+        {
+          "skip-reason": INPUTS_HASH_MATCH,
+        }
+      ),
     ]
   }
 
@@ -127,9 +139,16 @@ function decidePending(
     const stands = statusBySlug.get(slug)
     if (stands !== undefined && WORKFLOW_NEGATIVE.has(stands)) {
       return [
-        transition(WORKFLOW, workflow.seq, PENDING, BLOCKED, "workflow.pending-to-blocked.dependency-failed", {
-          "failed-dependency": slug,
-        }),
+        transition(
+          WORKFLOW,
+          workflow.seq,
+          PENDING,
+          BLOCKED,
+          "workflow.pending-to-blocked.dependency-failed",
+          {
+            "failed-dependency": slug,
+          }
+        ),
       ]
     }
   }
