@@ -27,7 +27,7 @@
 // the wrong place for that.
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { keepReading } from "@akasha/readout-system/readout-reading"
-import { capacityIn } from "@akasha/readout-system/upkeep-capacity"
+import { capacityHoursOf, capacityIn } from "@akasha/readout-system/upkeep-capacity"
 import { dayValuesByDate, sessionsOfDay } from "../tools/lib/tracking/day-place.ts"
 
 export const READOUT_PAGE =
@@ -35,9 +35,32 @@ export const READOUT_PAGE =
 
 const HEALTH_CAPACITY_HOURS = "health-capacity-hours"
 
-const AS_THE_STORE_ANSWERS = "healthCapacityHours"
-
 const ID = "id"
+
+// The keys a stretch declares, which are what the capacity is worked out from. The store used to
+// work it out and hand it over under `health-capacity-hours`, through a page-property-definition
+// expression the markdown engine evaluated over `recovery-multiplier`, `cost-multiplier` and
+// `safety-gap`. A stretch in akasha is a row of the `sessions` entry beside its day and declares no
+// such key, and nothing wires akasha's expression engine into its asking, so asking for it is
+// refused rather than answered with rows the key is absent from. `capacityHoursOf` is akasha's own
+// and holds the arithmetic unchanged.
+const STRETCH_KEYS = ["title", "start-time", "end-time", "safety-level", "difficulty-level"] as const
+
+// `sessionsOfDay` camelizes what it answers with, and `capacityHoursOf` is written against the
+// spelling the store keeps, so the keys it reads are spelled back for it here.
+const AS_THE_STORE_ANSWERS: Readonly<Record<string, string>> = {
+  title: "title",
+  "start-time": "startTime",
+  "end-time": "endTime",
+  "safety-level": "safetyLevel",
+  "difficulty-level": "difficultyLevel",
+}
+
+function spelledForTheStore(one: Readonly<Record<string, unknown>>): Readonly<Record<string, unknown>> {
+  const held: Record<string, unknown> = {}
+  for (const [kept, answered] of Object.entries(AS_THE_STORE_ANSWERS)) held[kept] = one[answered]
+  return held
+}
 
 export const NOTHING_TO_TAKE =
   "no stretch of the day carries a capacity, so there is no reading to take. A tile showing no " +
@@ -49,9 +72,11 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
   const dayId = day[ID]
   if (typeof dayId !== "string" || dayId.trim() === "") return null
 
-  const stretches = await sessionsOfDay(dayId, [HEALTH_CAPACITY_HOURS])
+  const stretches = await sessionsOfDay(dayId, STRETCH_KEYS)
   const hours = capacityIn(
-    stretches.map((one) => ({ values: { [HEALTH_CAPACITY_HOURS]: one[AS_THE_STORE_ANSWERS] } }))
+    stretches.map((one) => ({
+      values: { [HEALTH_CAPACITY_HOURS]: capacityHoursOf(spelledForTheStore(one)) },
+    }))
   )
   if (hours === null) return null
 

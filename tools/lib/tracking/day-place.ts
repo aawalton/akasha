@@ -1,4 +1,6 @@
 import { addressOf } from "@akasha/markdown-pages/page-address"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { asking } from "@akasha/pages-system-service/asking"
 import type { Page } from "../daily-tracking/tracking-types.ts"
 import { dataError } from "../exit.ts"
 import {
@@ -11,6 +13,7 @@ import {
   rowLanding,
 } from "../page-query-client.ts"
 import { landAkashaDayPage, landAkashaSessionRow } from "./akasha-day.ts"
+import { camelizeKey } from "./keys.ts"
 import { pageOf } from "./pages.ts"
 
 export const DAILY_TRACKING = "daily-tracking"
@@ -228,13 +231,174 @@ export const MAX_DAY_SESSIONS = 200
  * rows are, and once one day is markdown and the next is akasha it answers out of one half and
  * reports the other half as empty.
  *
- * A `where` over a field rather than over a page name reaches both halves as it is, because the
- * `session-tracking` page type names both places in its `files:`. What the funnel adds is that the
- * decision is made in one file: when the two halves stop being readable by one query, these change
- * and no caller does.
+ * A stretch is no longer a page, so it is no longer asked for as one. `session-tracking` was a page
+ * type only while the rows were markdown files; in akasha a stretch is a row of the `sessions` entry
+ * property hanging off the day it was part of, and `sessions.page-property-entry.ts` states that
+ * outright — "A stretch is a row here rather than a page a query may ask of." Asking the old
+ * registry for a page type by that name is what took Alan's safety and capacity tiles dark: the
+ * registry answers `names no page type whose pages are files`, and no restore of the declaration
+ * could fix it, because the declaration is right and the query was wrong.
+ *
+ * So the rows are read off the days. `asking` refuses rather than answering nothing where it cannot
+ * read — an unknown page type and an undeclared key are both refusals — which is why the reach is
+ * made through it rather than through `valuesOfType`, which answers `[]` for a page type that does
+ * not exist and would put the silent zero back. The narrowing, sorting and limiting are done here
+ * because they are over rows of an entry rather than over pages, and `asking` narrows pages.
  */
+const WAKE_DAY = "wake-day"
+
+const SESSIONS = "sessions"
+
+const ENTRY_PROPERTY = "page-property-entry"
+
+function checkoutRoot(): string {
+  const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
+  const root = roots[AKASHA]
+  if (root === undefined || root === "") {
+    throw dataError("no akasha checkout stands here, so no stretch of Alan's day can be read")
+  }
+  return root
+}
+
+/**
+ * The keys a stretch is declared as able to carry, read off the entry property itself.
+ *
+ * `asking` guards a key against the page type it is asked of, and these are keys of an entry rather
+ * than of a page, so that guard does not reach them. Without this a caller asking for a key no
+ * stretch carries would be handed rows with the key absent from every one, and a sum over them
+ * would state an instrument's silence as a measurement. That is the same defect as the silent zero,
+ * one level down, so it refuses in the same way.
+ */
+function sessionKeysDeclared(root: string): ReadonlySet<string> {
+  const asked = asking(root, {
+    pageTypeSlug: ENTRY_PROPERTY,
+    where: { slug: { is: SESSIONS } },
+    limit: 1,
+  } as never)
+  if ("refused" in asked) {
+    throw dataError(`reading what a stretch of Alan's day may carry: ${asked.refused}`)
+  }
+  const row = asked.rows[0]
+  const stated = row === undefined ? undefined : row["properties"]
+  if (!Array.isArray(stated)) {
+    throw dataError(
+      `the \`${SESSIONS}\` entry property states no properties, so what a stretch may carry is ` +
+        "unknown rather than nothing"
+    )
+  }
+  const keys = new Set<string>(["id"])
+  for (const one of stated) {
+    const slug = (one as { readonly pagePropertySlug?: unknown }).pagePropertySlug
+    if (typeof slug === "string") keys.add(camelizeKey(slug))
+  }
+  return keys
+}
+
+function meetsTest(held: unknown, test: Readonly<Record<string, unknown>>, key: string): boolean {
+  const absent = held === undefined || held === null || held === ""
+  for (const [how, want] of Object.entries(test)) {
+    switch (how) {
+      case "empty":
+        if (absent !== (want === true)) return false
+        break
+      case "is":
+        if (absent || String(held) !== String(want)) return false
+        break
+      case "before":
+        if (absent || !(String(held) < String(want))) return false
+        break
+      case "at-or-after":
+        if (absent || !(String(held) >= String(want))) return false
+        break
+      default:
+        throw dataError(
+          `no test is named \`${how}\`, so the stretches narrowed by \`${key}\` are unknown ` +
+            "rather than none; the tests are `empty`, `is`, `before` and `at-or-after`"
+        )
+    }
+  }
+  return true
+}
+
+/**
+ * Every stretch akasha holds, as rows, with the day each stands beside naming it.
+ *
+ * `at` names the day page the row stands beside rather than a file path. Nothing reads it as a
+ * path — `allSessions`'s one caller takes `values` alone — and a stretch has no file of its own to
+ * name, so naming the day is the truest thing available.
+ */
+function sessionsAnswered(query: Readonly<Record<string, unknown>>): Answered {
+  const root = checkoutRoot()
+  const asked = asking(root, { pageTypeSlug: WAKE_DAY, keys: ["slug", SESSIONS] } as never)
+  if ("refused" in asked) return { ok: false, why: asked.refused }
+
+  const wanted = query["keys"]
+  if (wanted !== undefined) {
+    const declared = sessionKeysDeclared(root)
+    for (const key of wanted as readonly string[]) {
+      const camel = camelizeKey(key)
+      if (declared.has(camel)) continue
+      return {
+        ok: false,
+        why:
+          `\`keys\` names \`${key}\`, and a stretch of Alan's day declares no such key. the keys ` +
+          `are ${[...declared].sort().join(", ")}`,
+      }
+    }
+  }
+
+  let rows: AnsweredRow[] = []
+  for (const day of asked.rows) {
+    const held = day[SESSIONS]
+    if (held === undefined) continue
+    if (!Array.isArray(held)) {
+      return {
+        ok: false,
+        why: `the stretches beside \`${String(day["slug"])}\` are no list, so they are unread`,
+      }
+    }
+    const at = typeof day["slug"] === "string" ? day["slug"] : ""
+    for (const one of held) {
+      rows.push({ at, values: one as Readonly<Record<string, unknown>> })
+    }
+  }
+
+  const where = query["where"] as Readonly<Record<string, Record<string, unknown>>> | undefined
+  if (where !== undefined) {
+    for (const [key, test] of Object.entries(where)) {
+      const camel = camelizeKey(key)
+      rows = rows.filter((row) => meetsTest(row.values[camel], test, key))
+    }
+  }
+
+  const sortBy = query["sort-by"]
+  if (typeof sortBy === "string") {
+    const camel = camelizeKey(sortBy)
+    const said = (row: AnsweredRow): string => String(row.values[camel] ?? "")
+    rows.sort((one, other) => (said(one) < said(other) ? -1 : said(one) > said(other) ? 1 : 0))
+    if (query["descending"] === true) rows.reverse()
+  }
+
+  // The count is taken before the limit, so a caller comparing the two reads a short answer as
+  // short rather than as the whole of what there is.
+  const n = rows.length
+  const limit = query["limit"]
+  if (typeof limit === "number") rows = rows.slice(0, limit)
+
+  if (wanted !== undefined) {
+    const keys = (wanted as readonly string[]).map(camelizeKey)
+    rows = rows.map((row) => {
+      const held: Record<string, unknown> = {}
+      for (const key of keys) if (key in row.values) held[key] = row.values[key]
+      return { at: row.at, values: held }
+    })
+  }
+
+  return { ok: true, rows, n, unfound: [] }
+}
+
 function askSessions(query: Readonly<Record<string, unknown>>): Promise<Answered> {
-  return askComposed({ "page-type": SESSION_TRACKING, ...query })
+  return Promise.resolve(sessionsAnswered(query))
 }
 
 async function sessionRows(asked: Promise<Answered>, doing: string): Promise<readonly Page[]> {
