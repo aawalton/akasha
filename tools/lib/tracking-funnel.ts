@@ -109,14 +109,16 @@ export const STORE_VERBS = [...WRITE_VERBS, ...READ_VERBS] as const
 /**
  * Every module that is the page store, whatever name it answers to.
  *
- * The old scan knew one road, `page-query-client.ts`, and there are four. Two of them are packages
- * rather than files, and both are re-exported through a barrel — `tools/lib/daily-tracking/
- * tracking-modules.ts` hands out `askComposed` from `@shared/pages-query/ask` under the same name
- * the local client uses. That barrel carries a comment recording that this exact shape had already
- * hidden six permanently-refusing calls, because no search for the package named any of the six.
- * Two of the four roads have since moved into `@akasha/markdown-pages` and are named here by the
- * file each export resolves to, which is what `isClientRoad` compares against.
- * The same shape then hid two of the loudest reads of a day from this audit.
+ * The old scan knew one road, `page-query-client.ts`, and there are four. Two of the four have
+ * since moved into `@akasha/markdown-pages` and are named here by the file each export resolves
+ * to, which is what `isClientRoad` compares against.
+ *
+ * A barrel re-export is what a package entry defeats. `tools/lib/daily-tracking/
+ * tracking-modules.ts` once handed out `askComposed` from `@shared/pages-query/ask` under the
+ * same name the local client uses, and no search for that package named any of the six
+ * permanently-refusing calls behind it; the same shape then hid two of the loudest reads of a day
+ * from this audit. That re-export is gone, and `@shared/pages-query` named no installed package
+ * and no import anywhere in the tree, so it came off the list below.
  */
 export const CLIENT_ROADS = [
   "tools/lib/page-query-client.ts",
@@ -125,7 +127,7 @@ export const CLIENT_ROADS = [
   "akasha/markdown-pages/markdown-page-rows-write/markdown-page-rows-write.module.code.ts",
 ] as const
 
-export const CLIENT_PACKAGES = ["@shared/pages-query", "@akasha/pages-system-service"] as const
+export const CLIENT_PACKAGES = ["@akasha/pages-system-service"] as const
 
 export const NAMES_THE_FUNNEL = "tools/lib/tracking/day-place.ts"
 
