@@ -48,7 +48,7 @@ export const track = {
     { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
   helpNotes: [
-    "the words stand in order, and one call names one act.",
+    "the words are read in order, and one call names one act.",
     "every time said here is a US Mountain wall time, and no other clock is read or written.",
     "a day is named at --day and nowhere else.",
     "a stretch is addressed by --id, by --at, by --open or by --last, so no act asks for an id first.",
@@ -117,11 +117,27 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "`--at` names the time an act falls at.",
+      statement: "`open` reads `--at` as the time the stretch begins.",
     },
     {
       invariantKind: "departure",
-      statement: "`--at` addresses the stretch covering the time said.",
+      statement: "`switch` reads `--at` as the time the open stretch ends and the next begins.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`close` reads `--at` as the time the stretch ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`split` reads `--at` as the time the stretch is parted at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`amend` reads `--at` as a time the stretch amended covers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`drop` reads `--at` as a time the stretch dropped covers.",
     },
     {
       invariantKind: "departure",
