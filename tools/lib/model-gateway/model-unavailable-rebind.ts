@@ -1,6 +1,5 @@
-
+import type { OAuthCredential } from "@akasha/agents/oauth-types"
 import type { OAuthEffects } from "../oauth-effects.ts"
-import type { OAuthCredential } from "../oauth-types.ts"
 import { classifyModelUnavailable, decideModelUnavailableAction } from "./model-unavailable.ts"
 
 export type ModelUnavailableRebindOutcome =

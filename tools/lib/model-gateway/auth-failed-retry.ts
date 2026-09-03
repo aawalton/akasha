@@ -1,4 +1,4 @@
-import type { OAuthCredential } from "../oauth-types.ts"
+import type { OAuthCredential } from "@akasha/agents/oauth-types"
 
 export type AuthFailedRetryOutcome =
   | { kind: "response"; response: Response }

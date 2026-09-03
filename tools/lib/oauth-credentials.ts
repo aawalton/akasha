@@ -1,12 +1,9 @@
-
+import type { CredentialDoc, CredentialPick, OAuthCredential } from "@akasha/agents/oauth-types"
 import { OAUTH_CLIENT_ID, OAUTH_TOKEN_URL, REFRESH_BUFFER_MS } from "./oauth-constants.ts"
 import { parseFutureIsoMs, selectBestAccount } from "./oauth-credentials-select.ts"
 import { classifyOAuthError } from "./oauth-errors.ts"
 import { type CredentialDb, type CredentialStore, pageCredentialDb } from "./oauth-page-db.ts"
 import { OAuthTokenResponseSchema } from "./oauth-schemas.ts"
-import type { CredentialDoc, CredentialPick, OAuthCredential } from "./oauth-types.ts"
-
-
 
 const PAGES = pageCredentialDb()
 

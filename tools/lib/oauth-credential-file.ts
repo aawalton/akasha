@@ -1,9 +1,7 @@
-
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-
+import type { OAuthCredential } from "@akasha/agents/oauth-types"
 import { shape } from "./shape.ts"
-import type { OAuthCredential } from "./oauth-types.ts"
 
 export const CREDENTIAL_FILE_SCHEMA = shape
   .object({

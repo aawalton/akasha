@@ -1,6 +1,5 @@
-
+import type { AccountState } from "@akasha/agents/oauth-types"
 import { MAX_AT_LIMIT_BACKOFF_MS } from "./oauth-at-limit-expiry.ts"
-import type { AccountState } from "./oauth-types.ts"
 
 export const AT_LIMIT_HEAL_THRESHOLD_MS = MAX_AT_LIMIT_BACKOFF_MS
 

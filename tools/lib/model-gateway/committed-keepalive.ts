@@ -1,4 +1,4 @@
-import { classifyCommittedServed, mapStatusToSseError } from "./committed-outcome.ts"
+import { classifyCommittedServed, mapStatusToSseError } from "@akasha/agents/committed-outcome"
 import type { HoldRegistry } from "./hold-registry.ts"
 import {
   buildKeepaliveEmitter,
@@ -9,7 +9,7 @@ import {
 } from "./keepalive.ts"
 import type { ObserverSlot } from "./observer-slot.ts"
 import { runPickPipeline } from "./pick-pipeline.ts"
-import { type PickPipelineDeps, type PickPipelineOutcome } from "./pick-pipeline-types.ts"
+import type { PickPipelineDeps, PickPipelineOutcome } from "./pick-pipeline-types.ts"
 import { buildAnthropicSseErrorFrame } from "./sse-error-frame.ts"
 import {
   buildStreamObserver,
@@ -64,10 +64,7 @@ export function buildCommittedKeepaliveResponse(args: {
   }
   let spliceStartMs: number | null = null
   let terminalFired = false
-  const finishHold = (
-    termination: ObservedStreamState["termination"],
-    atMs: number
-  ): undefined => {
+  const finishHold = (termination: ObservedStreamState["termination"], atMs: number): undefined => {
     if (terminalFired) return
     terminalFired = true
     const heldMs = (spliceStartMs ?? atMs) - committedStartMs

@@ -1,6 +1,5 @@
-
+import type { AccountState, CredentialDoc } from "@akasha/agents/oauth-types"
 import { selectAccount } from "./oauth-selection.ts"
-import type { AccountState, CredentialDoc } from "./oauth-types.ts"
 
 export function selectBestAccount(
   allCreds: readonly CredentialDoc[],

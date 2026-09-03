@@ -1,4 +1,4 @@
-import type { OAuthCredential } from "../oauth-types.ts"
+import type { OAuthCredential } from "@akasha/agents/oauth-types"
 import type { Forward } from "./forward.ts"
 import type { ObserverSlot } from "./observer-slot.ts"
 import { withTransportRetry } from "./retry.ts"

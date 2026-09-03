@@ -1,8 +1,8 @@
-
+import type { CredentialDoc, OAuthCredential } from "@akasha/agents/oauth-types"
 import {
   akashaAccountBeside,
-  akashaAccounts,
   akashaAccountSecrets,
+  akashaAccounts,
   akashaAccountValues,
 } from "./claude-account-akasha.ts"
 import {
@@ -12,7 +12,6 @@ import {
   RESCUED_EXPIRES_KEY,
   RESCUED_KEY,
 } from "./oauth-page-push.ts"
-import type { CredentialDoc, OAuthCredential } from "./oauth-types.ts"
 
 export const SUBSCRIPTION_TYPE_KEY = "subscription-type"
 

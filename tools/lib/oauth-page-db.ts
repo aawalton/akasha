@@ -1,17 +1,12 @@
+import type { AccountState, CredentialDoc } from "@akasha/agents/oauth-types"
 import { accountsWithPages, readCredentialFromPage } from "./oauth-page-credential.ts"
 import { type PagePush, pushCredentialToPage } from "./oauth-page-push.ts"
-import {
-  accountStateFromPage,
-  type PageAccountState,
-  statesFromPages,
-} from "./oauth-page-state.ts"
-import type { AccountState, CredentialDoc } from "./oauth-types.ts"
+import { accountStateFromPage, type PageAccountState, statesFromPages } from "./oauth-page-state.ts"
 
 export interface CredentialDb extends CredentialStore {
   readonly getAllCredentials: () => Promise<CredentialDoc[]>
   readonly getClaudeAccountPacing: () => Promise<Map<string, AccountState>>
 }
-
 
 export interface CredentialStore {
   readonly getCredential: (account: string) => Promise<CredentialDoc | null>

@@ -1,12 +1,10 @@
-
+import type { CredentialPick, OAuthCredential } from "@akasha/agents/oauth-types"
 import { REFRESH_BUFFER_MS } from "./oauth-constants"
 import { getBestCredential } from "./oauth-credentials"
+import type { RefreshOutcome } from "./oauth-credentials.ts"
 import { writeCredentialFile } from "./oauth-file"
 import { accountsWithPages, credentialByAccountFromPage } from "./oauth-page-credential.ts"
-import type { RefreshOutcome } from "./oauth-credentials.ts"
-import type { CredentialPick, OAuthCredential } from "./oauth-types.ts"
 import { configDirForAccount, LOG } from "./supervisor-config.ts"
-
 
 export interface AccountResolutionDeps {
   getCredentialByAccount: (account: string, logPrefix?: string) => Promise<OAuthCredential | null>

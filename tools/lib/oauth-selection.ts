@@ -1,5 +1,4 @@
-
-import type { AccountState } from "./oauth-types.ts"
+import type { AccountState } from "@akasha/agents/oauth-types"
 import { hoursUntilReset } from "./usage-derivations.ts"
 
 export type IneligibilityReason = "five-hour-maxed" | "seven-day-maxed"

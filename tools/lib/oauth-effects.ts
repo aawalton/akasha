@@ -1,5 +1,5 @@
-
-import { getBestCredential, getCredentialByAccount } from "./oauth-credentials.ts"
+import type { AccountState } from "@akasha/agents/oauth-types"
+import { getBestCredential, type getCredentialByAccount } from "./oauth-credentials.ts"
 import { credentialByAccountFromPage } from "./oauth-page-credential.ts"
 import { pacingFromPages } from "./oauth-page-db.ts"
 import {
@@ -7,7 +7,6 @@ import {
   markAccountSubscriptionDisabled,
 } from "./oauth-subscription-disabled.ts"
 import { markAccountAtLimit, repollUsageAfter429 } from "./oauth-usage.ts"
-import type { AccountState } from "./oauth-types.ts"
 
 export type OAuthEffects = {
   readonly getBestCredential: typeof getBestCredential

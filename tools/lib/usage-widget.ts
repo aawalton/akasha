@@ -1,6 +1,5 @@
-
+import type { AccountState } from "@akasha/agents/oauth-types"
 import { explainAccountEligibility, type IneligibilityReason } from "./oauth-selection.ts"
-import type { AccountState } from "./oauth-types.ts"
 
 export type UsageTier = "red" | "yellow" | "green" | "blue"
 
