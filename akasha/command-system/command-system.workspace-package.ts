@@ -22,6 +22,8 @@ export const commandSystem = {
     "module/judged-saying",
     "module/piping",
     "module/reading",
+    "module/searching",
+    "module/search-help",
     "module/rooting",
     "module/scratching",
     "module/change-freshness",
