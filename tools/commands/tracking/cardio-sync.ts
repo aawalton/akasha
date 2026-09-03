@@ -1,10 +1,10 @@
 export const summary = "Recompute a day's activeCalories from the health samples Alan's watch sent"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { rollupActiveCaloriesForDay } from "../../../akasha/alan/tracking/daily/day-active-calories/day-active-calories.module.code.ts"
 import { getEsoDayStr } from "../../lib/eso-day.ts"
 import { inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
 

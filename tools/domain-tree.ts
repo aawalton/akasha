@@ -1,9 +1,9 @@
 #!/usr/bin/env bun
 
+import { sayAnswer } from "@akasha/command-system/answer-bytes"
 import { championTree, type DomainRow } from "@akasha/editor-extension/champions-tree"
 import { domainsDrawn } from "@akasha/editor-extension/panel-domains"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { sayAnswer } from "./lib/answer.ts"
 
 const HELP = `bun tools/domain-tree.ts — the domain tree, composed from the files now
 

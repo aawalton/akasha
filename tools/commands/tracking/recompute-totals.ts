@@ -2,8 +2,8 @@ export const summary =
   "Recompute + high-water write the cumulative Health total onto the Aelwyn persona/value (forward-only; --force allows downward recalibration)"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { dataError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { healthTotalPoints } from "../../lib/tracking-pillars.ts"
 
 export const help: CommandHelp = {

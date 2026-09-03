@@ -1,8 +1,8 @@
 #!/usr/bin/env bun
 
 import { writeSync } from "node:fs"
+import { sayAnswer } from "@akasha/command-system/answer-bytes"
 import { duringOneCall } from "@akasha/command-system/during-call"
-import { sayAnswer } from "./lib/answer.ts"
 import { LEASE_ENV, LEASE_MS, leaseAsked, PROTOCOL, VERBS_SERVED } from "./lib/verb-served.ts"
 
 const HELP = `bun tools/verb-server.ts — answer verbs over a pipe, so a caller pays bun's startup once

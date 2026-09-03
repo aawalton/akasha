@@ -2,8 +2,8 @@ export const summary =
   "Set an activity's default difficulty (upsert by title) — the catalog start/switch/log rate a block from, and what they point at when a title matches nothing"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { pagesClient, trackingLevels, trackingResolve } from "../../lib/tracking-capability.ts"
 
 export const help: CommandHelp = {

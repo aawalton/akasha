@@ -1,9 +1,9 @@
 export const summary = "Recompute a day's nutritionPoints from logged food rows (1pt/gram)"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { getEsoDayStr } from "../../lib/eso-day.ts"
 import { inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { nutritionPoints } from "../../lib/tracking-pillars.ts"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/

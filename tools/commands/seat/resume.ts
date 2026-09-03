@@ -1,5 +1,6 @@
 export const summary = "Bring a seat back on the session it was bound to, live or stopped"
 
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
 import {
   holdSeatPaneOpen,
@@ -25,7 +26,6 @@ import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeove
 import { setTurnState } from "@akasha/seat-system/turn-records"
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import {
   describeAckTimeout,

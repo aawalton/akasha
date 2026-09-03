@@ -3,9 +3,9 @@ export const summary =
 
 import { resolve } from "node:path"
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import { codeRoot } from "@akasha/pages-system/code-root"
-import { parseArgs } from "@tools/lib/parse-args"
 import {
   ALLOWED_TO_REACH,
   type Bypass,

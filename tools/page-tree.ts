@@ -1,9 +1,9 @@
 #!/usr/bin/env bun
 
+import { sayAnswer } from "@akasha/command-system/answer-bytes"
 import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
-import { sayAnswer } from "./lib/answer.ts"
 
 const HELP = `bun tools/page-tree.ts — the index answers a page tree is composed from
 

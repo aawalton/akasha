@@ -2,9 +2,9 @@ export const summary =
   "Recompute a day's taskPoints from completed health tasks (difficulty-tier points)"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { getEsoDayStr } from "../../lib/eso-day.ts"
 import { inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { taskPoints } from "../../lib/tracking-pillars.ts"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/

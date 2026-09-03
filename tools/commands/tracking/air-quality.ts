@@ -2,6 +2,7 @@ export const summary =
   "Fetch current air quality (default Provo) and report a conservative outdoor-exertion verdict (EPA AQI, keyless source)"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import { parseArgs } from "@akasha/command-system/parse-args"
 import {
   assessOutdoor,
   LOCATION_PRESETS,
@@ -9,7 +10,6 @@ import {
 } from "../../../akasha/alan/tracking/daily/air-quality/air-quality.module.code.ts"
 import { fetchAirQuality } from "../../../akasha/alan/tracking/daily/air-quality-fetch/air-quality-fetch.module.code.ts"
 import { inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 
 export const help: CommandHelp = {
   flags: [

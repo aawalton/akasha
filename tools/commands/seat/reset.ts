@@ -1,6 +1,7 @@
 export const summary =
   "Reset a seat: take the agent out of it and sit a new one down holding every declaration it states"
 
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { killSeatSession, launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
 import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
@@ -23,7 +24,6 @@ import {
   statedOf,
 } from "../../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { help } from "../../lib/seat-reset-help.ts"
 
 export { help }

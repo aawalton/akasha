@@ -1,6 +1,7 @@
 export const summary =
   "Start a seat: create it under a name, state what it is, and launch it where asked"
 
+import { parseArgs } from "@akasha/command-system/parse-args"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
 import {
@@ -38,7 +39,6 @@ import {
 } from "../../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { defaultFor } from "../../../akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
-import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import { help } from "../../lib/seat-start-help.ts"
 

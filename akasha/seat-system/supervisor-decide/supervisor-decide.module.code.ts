@@ -1,3 +1,4 @@
+import { readPayload, record, rejectUnknownFlags } from "@akasha/command-system/payload"
 import { decideClaimedRedelivery } from "@akasha/seat-system/supervisor-claimed-redelivery-decide"
 import {
   parseClaimedRedelivery,
@@ -26,7 +27,6 @@ import {
   type WaitResumeDecision,
 } from "@akasha/seat-system/supervisor-wait-resume-decide"
 import { fail } from "@tools/lib/command"
-import { readPayload, record, rejectUnknownFlags } from "@tools/lib/payload"
 import { notices } from "../compose-notices/compose-notices.module.code.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"

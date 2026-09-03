@@ -1,5 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import { emitJson, emitTsv } from "@akasha/command-system/format-output"
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
 import {
   duplicateBuyRule,
@@ -21,7 +22,6 @@ import type {
   InventoryRuleSettings,
   ItemRule,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { emitJson, emitTsv } from "@tools/lib/format-output"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
