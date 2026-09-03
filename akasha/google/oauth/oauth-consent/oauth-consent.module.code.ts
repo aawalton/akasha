@@ -29,11 +29,11 @@ function consentUrl(request: ConsentRequest, redirectUri: string): string {
   return `${AUTH_URL}?${query.toString()}`
 }
 
-async function printRefreshToken(
+async function refreshTokenLine(
   request: ConsentRequest,
   redirectUri: string,
   code: string
-): Promise<void> {
+): Promise<string> {
   const body = new URLSearchParams({
     code,
     client_id: request.clientId,
@@ -52,15 +52,18 @@ async function printRefreshToken(
     throw new OperationalError(
       "token exchange succeeded but returned no refresh token — revoke the app's access and re-run with prompt=consent"
     )
-  process.stdout.write(`export ${request.tokenVar}=${refreshToken}\n`)
+  return `export ${request.tokenVar}=${refreshToken}`
 }
 
-async function exchangeFromCallbackUrl(request: ConsentRequest, rawUrl: string): Promise<void> {
+async function exchangeFromCallbackUrl(
+  request: ConsentRequest,
+  rawUrl: string
+): Promise<readonly string[]> {
   const { redirectUri, code } = parseOauthCallbackUrl(rawUrl)
-  await printRefreshToken(request, redirectUri, code)
+  return [await refreshTokenLine(request, redirectUri, code)]
 }
 
-async function consentViaLoopback(request: ConsentRequest): Promise<void> {
+async function consentViaLoopback(request: ConsentRequest): Promise<readonly string[]> {
   let settlers: CodeSettlers | undefined
   const codePromise = new Promise<string>((resolve, reject) => {
     settlers = { resolve, reject }
@@ -94,15 +97,21 @@ async function consentViaLoopback(request: ConsentRequest): Promise<void> {
     )
 
     const code = await codePromise
-    await printRefreshToken(request, redirectUri, code)
+    return [await refreshTokenLine(request, redirectUri, code)]
   } finally {
     server.stop()
   }
 }
 
-export async function googleOauthConsent(request: ConsentRequest): Promise<void> {
+export async function googleOauthConsentSaying(
+  request: ConsentRequest
+): Promise<readonly string[]> {
   if (request.callbackUrl !== undefined) {
     return exchangeFromCallbackUrl(request, request.callbackUrl)
   }
   return consentViaLoopback(request)
+}
+
+export async function googleOauthConsent(request: ConsentRequest): Promise<void> {
+  for (const said of await googleOauthConsentSaying(request)) process.stdout.write(`${said}\n`)
 }

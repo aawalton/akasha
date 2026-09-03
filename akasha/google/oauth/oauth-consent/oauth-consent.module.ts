@@ -9,7 +9,11 @@ export const oauthConsent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A minted refresh token is printed as a shell export line and held nowhere.",
+      statement: "A minted refresh token is answered as a shell export line and held nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller that prints for itself is answered rather than printed for.",
     },
     {
       invariantKind: "departure",

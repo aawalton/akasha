@@ -23,13 +23,29 @@ export const googleEmail = {
     "module/forwarded-message",
     "module/email-operations",
     "module/compose-input-from-arguments",
-    "module/email-command-help",
+    "module/email-command-reading",
+    "command/email-attachments-get",
+    "command/email-attachments-list",
+    "command/email-auth-login",
+    "command/email-drafts-create",
+    "command/email-drafts-list",
+    "command/email-messages-archive",
+    "command/email-messages-get",
+    "command/email-messages-list",
+    "command/email-messages-modify-labels",
+    "command/email-messages-send",
+    "command/email-messages-trash",
+    "command/email-unsubscribe",
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "A message is reached by the id Gmail gives the message rather than by its Message-ID header.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
       invariantKind: "absence",
