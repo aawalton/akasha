@@ -7,6 +7,7 @@ export const editorExtension = {
   definition: "what the editor draws of the system it sits in",
   manifest: "json",
   partSlugs: [
+    "module/command-server-client",
     "module/work-initiatives",
     "module/panel-domains",
     "module/terminal-marks",

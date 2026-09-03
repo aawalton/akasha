@@ -5,6 +5,7 @@
   "exports": {
     "./activation": "./activation/activation.module.code.ts",
     "./agent-tree-ids": "./agent-tree-ids/agent-tree-ids.module.code.ts",
+    "./command-server-client": "./command-server-client/command-server-client.module.code.ts",
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./editor-group": "./editor-group/editor-group.module.code.ts",
     "./group-stoplights": "./group-stoplights/group-stoplights.module.code.ts",
