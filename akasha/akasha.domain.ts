@@ -83,6 +83,10 @@ export const akasha = {
       statement: "Code and data are text.",
     },
     {
+      invariantKind: "absence",
+      statement: "No file in akasha carries a NUL byte.",
+    },
+    {
       invariantKind: "departure",
       statement: "Code and text are data.",
     },
