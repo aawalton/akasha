@@ -159,3 +159,82 @@ Harmony Skill (Trueweave: Harmonize)
     no recorded precedent. Logging.
 ```
 
+The notification registered at the edge of Solenne's perception. She let it sit there. The System could log whatever it wanted. The five people she had told could do whatever they needed to do with what they now knew. And the fight -- the fight continued, because the Ironjaw Sentinel did not care about personal truths and its HP was still at sixty-eight percent and Phase 2 was coming.
+
+Tomás glanced at her from the northeast pillar. From forty-five meters, through the Clearvoiced Aspect's perception, his expression carried a quality she recognized: relief. She had told them. He did not have to carry it alone anymore.
+
+She turned back to the Sentinel and fired.
+
+---
+
+At sixty percent HP, the Ironjaw Sentinel stopped.
+
+Not a pause. Not a stagger. It stopped -- mid-stride, mid-attack, the massive jaw frozen half-open -- and it looked at all of them simultaneously. Solenne felt the attention through Arcane Analysis like a change in air pressure. Not animal attention. Not System attention. Something between the two, something that assessed them with the particular intelligence of a creature that had been holding back and had now decided to stop.
+
+Then it moved to the first pillar.
+
+The charge was not what the documentation described. The documentation said *redirected momentum using pillar architecture.* The reality was a forty-meter reptile at full sprint hitting a four-meter stone column and using it as a pivot point, its clawed feet catching the pillar's base, its body swinging around the stone in a geometric redirect that reversed its direction in less than a second. The chamber echoed with the sound of claws on stone. The pillar cracked but held.
+
+Dayo could not plant.
+
+This was the fundamental shift of Phase 2. Iron Stance required stillness -- the Vanguard rooted to the ground, unmovable, absorbing damage through position. But the Sentinel's charge pattern used the pillar geometry to approach from angles that changed every two seconds, and a rooted Vanguard was a target that could be circled and struck from the blind side. Iron Stance went dark. Dayo's movement speed returned to full.
+
+She ran.
+
+Not away. Through. She read the Sentinel's redirect off the first pillar and moved to cut off its approach at the second, her body covering the ground between columns with the particular economy of someone who had spent years reading angles on a surface she understood better than any combat manual. The soccer pitch. The defensive midfielder's calculus -- not where the threat was but where the threat would be in three seconds, and the body already moving to occupy that space before the decision fully formed.
+
+"Nadia -- Sleep!" Solenne called.
+
+Nadia threw. The Chaos Grenade arced high, clearing the pillar cluster, and detonated against the Sentinel's shoulder as it pivoted off the second column. The roll landed: Sleep. Ten seconds. The Sentinel's legs buckled mid-charge and it slid forward on the black stone, momentum carrying it into the base of a pillar where it came to rest -- forty meters of armored reptile, motionless, the System's Sleep effect holding it under.
+
+"Six seconds before the next shot breaks it," Nadia said. She was already pulling the second grenade.
+
+"Tomás -- hold," Solenne called. But the angles were wrong. Tomás had repositioned to track Dayo's movement, and the Sentinel's slide had carried it into the one sightline where he had a clean shot at the jaw-base joint. The shot was too good to waste. He fired. The arrow struck the jaw base and the Sleep effect shattered at six seconds -- four seconds early, but the damage to the exposed joint was worth the trade.
+
+The Sentinel woke. It rose. It looked at Dayo with the focused attention of Phase 2 targeting.
+
+Nadia's second grenade was already in the air. Slow. Eight seconds. The Sentinel's next charge came at seventy percent of its Phase 2 speed -- still devastating, still fast enough to crack pillar bases, but slow enough that Dayo could read it.
+
+And Dayo read it.
+
+This was the fight's climactic section, and Solenne watched it happen through the Harmony Conductor with the analytical precision of someone who understood, for the first time, what she was actually seeing. Dayo without Iron Stance was not Dayo diminished. Dayo without Iron Stance was Dayo unleashed -- not the planted wall but the moving one, the defender who covered ground the way water covered stone, flowing into gaps and cutting off angles and being where the threat needed her to be before the threat arrived.
+
+She used the pillars. Not as cover -- as geometry. The Sentinel redirected off a column and Dayo was already at the next one, her buckler presented at the angle that would deflect the charge's momentum rather than absorb it, her feet reading the black stone the way they had once read grass. Shield Rush fired between pillars -- not forward into the Sentinel but laterally, cutting across its approach vector, forcing it to redirect again into a pillar cluster where the spacing narrowed and its forty-meter body could not turn fast enough.
+
+The Sentinel crashed into a column. The stone shattered. The creature staggered.
+
+Dayo hit it. STR 31 through System-enhanced gauntlets into the staggered jaw joint. Not dramatic. Structural. The Sentinel's head snapped sideways and its next charge went wide, momentum carrying it past Dayo into open ground where Tomás put two arrows into the right shoulder joint before it could pivot.
+
+She was everywhere. That was what Solenne saw through the Conductor -- not the tactical data of positioning and HP and cooldowns but the quality of a person doing the thing she was built for with the full measure of her ability. Dayo moved between pillars like the chamber was a pitch and the Sentinel was every opposing striker she had ever faced compressed into one creature, and she played them all simultaneously with the kinetic intelligence of a body that had been learning spatial combat since long before the System existed.
+
+Nadia ran flanking patterns that complemented Dayo's positioning without being called -- Burst Speed activating after each Stumble, three seconds of AGI 33 that she used to close distances that should have been impossible and deliver disruptions that kept the Sentinel off-balance. Tomás tracked Dayo's movement from pillar to pillar, repositioning with silent efficiency, his arrows finding the windows that her geometry created. Miriam's Empathic Sense tracked Dayo's HP with the sustained attention of someone who could not afford to lose the frequency -- healing arrived before the damage fully registered, Mending Touch and Nature's Veil overlapping in rotations that kept Dayo's HP climbing even as the Sentinel's strikes accumulated.
+
+Vesper watched from the south pillar with her hands cycling consumable preparations. Solenne caught her looking at the Sentinel Gambit on Dayo's arm -- crystal lattice dark now, the activation spent in Phase 1 -- and then at the way Dayo moved, and something crossed Vesper's face that looked like satisfaction before she turned back to her work. The expression was brief. Solenne recognized it: the specific look of someone watching a thing they had made perform exactly as intended.
+
+The Slow effect expired. The Sentinel surged. Dayo cut it off at the fourth pillar from center, Shield Rush into its leading leg, and the creature stumbled -- not a Stumble debuff but a physical stagger, sixty-thousand kilograms of armored reptile losing its footing because a twenty-one-year-old with a buckler had read its approach angle and put herself exactly where the geometry said a wall should be.
+
+Nadia, from somewhere to the left: "Okay good." Said with the precise satisfaction of someone who knew the difference between luck and probabilistic skill and this was both.
+
+The Sentinel's HP crossed thirty percent.
+
+---
+
+Phase 3 began without warning.
+
+The Ironjaw Sentinel stopped. Not the calculating stop of the Phase 2 transition -- a full cessation. Every muscle locked. The amber light in the chamber seemed to dim, or perhaps the creature's attention made everything else less visible.
+
+It looked at the party.
+
+All six of them. Solenne felt the attention move across the Conductor like a weight being distributed -- touching each of them, assessing, calculating something with the particular intelligence that was not animal and not System but the thing the Tower built its bosses to be. The attention lingered. Solenne's hands tightened on the Annotated Staff.
+
+Then it chose.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  IRONJAW SENTINEL: PHASE 3              ║
+║                                          ║
+║  TARGET ACQUIRED                         ║
+╚══════════════════════════════════════════╝
+```
+
+The target indicator appeared over Miriam's head.

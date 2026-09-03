@@ -180,3 +180,124 @@ Erick laughed. “You say that like it’s a bad thing.”
 
 “It’s not… But why?”
 
+“Tortillas. Cornbread. A third grain to add to the rice and the wheat of Spur’s farms. And this one regrows from the stalk so you don’t have to cut down and regrow the whole plant. Grow Fatigue is a problem that I can't solve, but I can lessen. Besides, I’m thinking corn will be very popular, considering you don’t have to thresh it… Well. Not much anyway.”
+
+Jane tilted her head back and forth, then said, “Okay. You’re right. I agree. I miss tortilla chips and salsa, anyway.”
+
+“And cornstarch.” Erick picked off an ear of corn, revealing rows upon rows of bright yellow kernels. “Though I’m not sure how to get that from this.”
+
+“Someone will figure it out when you tell them it’s possible. You probably gotta blend them. Separate the bits somehow.”
+
+“Yeah.” Erick looked out into the coming night, then down to a pile of cooked and barely eaten corns, next to a cistern of water he had used to boil them. He had gotten the form of the plant correct after only ten iterations, but it took thirteen more to get the taste correct. He handed Jane the ear of corn in his hand, saying, “How about corn for dinner?”
+
+Jane smiled, saying, “I showed up at the farmer’s market in town for the first time in a month and every little old man and woman working their stalls practically shoved their vegetables at me. For free. It was nice. Really nice.” She looked out at the night, saying, “Dinner’s ready. It’s vegetables.”
+
+Erick smirked, saying, “Good thing I like vegetables.” He said, “I grew up near enough to a farm... We got lots of free vegetables there, too.” He added, “I tried to give that to you, but…”
+
+Jane wrapped her arms around Erick, saying, “You gave me lots, Dad.”
+
+Erick hugged her back. Ophiel cooed, as he stepped from Erick’s shoulder, onto Jane, then spread his tiny wings over both of them. Jane giggled, then pulled away. Ophiel casually transferred on Jane’s shoulder, and decided to stay there. Erick smiled.
+
+The three of them stood there for a moment, in front of the gentle corn, watching the dark take over the eastern sky, beyond the walls of Spur. Stars began to appear; tiny pinpricks of twinkling light.
+
+Jane turned and walked into the house, saying, “Time for dinner,” with Ophiel clinging to her shoulder.
+
+Erick followed Jane into the house. Yellow sunwards glowed in the windows, spilling light into the cool, twilight evening.
+
+Monsters prowled outside the walls of Spur. Adventurers died to threats outside of their ability to handle. Assassins were likely coming for him. Businessmen wanted a piece of him, too, and likely for completely selfish reasons. Erick did not truly believe Caradogh’s story that ‘people were going hungry’ because of him; some might, and that thought gnawed at Erick's thoughts, for sure, but the times were just changing.
+
+Particle Mage would be available for everyone in 300 days. So would [Exalted Storm Aura].
+
+If Caradogh thought one Erick was bad for his business, what would he think when every town had the ability to produce all this bounty on their own?
+
+Erick did not believe, not for a single second, that he was unique, at all. He just knew a little more about some small aspects of life that other people were already discovering. The only reason that he was good at magic, at all, was probably exactly for the reason Poi once told him; Erick simply knew who he was, and what he was about.
+
+… After he got over his initial fears, anyway.
+
+Erick glanced back at the dark night, and did not shiver at the sight of the giant shadow that loomed in the gloom. Erick just walked into the light streaming from the open door to his house, and used 4050 mana to cast a [Crystalline Air] across the whole exterior of the house. It would absorb 8000 damage before it broke, because Clarity halved the mana cost, and it would regenerate 17,000 per hour, for 24 hours. Erick considered getting all the shaping spells and trying for [Prismatic Ward], or whatever the all-shaping [Solid Ward] was, but this [Solid Ward] was good enough for now.
+
+Erick watched as panes of not-glass layered across the entirety of the orange stone, bunching up around the exterior edges of the house like precipitated crystal, while the flat surfaces of the house, as well as the windows, remained perfectly clear. Erick quickly designated Poi, Jane, himself, Kiri, Ophiel, Rats, Teressa, and air, as permissible entities for the [Solid Ward] to let through. He stuck his hand in and out of the layer of not-crystal, the spell deforming into sparkling fragments as he did, just to make sure that yes, it was working as it claimed to work.
+
+But when the shadow touched the not-crystal layer of air around the house, a tiny crack appeared. The shadow backed off, the top half of it opening wide and closing rapidly; it was laughing, silent and only visible to Erick.
+
+The crack in the [Crystalline Air] healed soon enough.
+
+Erick stood in the doorway, rimmed with light, as he watched the shadow outside move through the tiny cornfield, then up and over the walls of Spur, into the night.
+
+Erick shut the door, and went to dinner.
+
+- - - -
+
+Kiri laid awake in her new room, in the dark, her green eyes locked on the ceiling. A distortion in the air layered across the walls; no one outside of this room could see her, or hear her. She had adopted the habit of sleeping inside [Distortion Ward]s ever since she entered Spur’s Army. It was hard enough to sleep in a room full of people, let alone with the lights on. The [Distortion Ward] did not block all the light and the sound, but it blocked about half, and turned the rest into a nice, even rustling sound; it reminded Kiri of trees in the breeze.
+
+Kiri missed the trees. Spur did not have enough trees. Spur had more than enough existential crises, though.
+
+So Kiri laid in bed, in the dark, and with her eyes still open. She couldn’t sleep.
+
+She had heard a tale today. A tale that stuck in her mind. A tale of a universe without magic, but born from a primal fire. She had teased out enough of Jane’s previous world over the course of 25 days, fighting with the woman and fighting beside the woman, to be able to paint a grand picture of ‘Earth’, and of the ‘Science’ Erick had used to create Particle Magic.
+
+Her time in Ar’Kendrithyst was pandemonium and death, but she was glad for it. She was level 54 now, and with dozens of extra points to her name. Her Class would be Particle Mage, for sure, so she’d have to wait a year for that, but that was not a problem, not really. With her apprenticeship to a man who was obviously going to be one of the greatest archmages Veird has ever seen, she was set for life. All she had to do was walk the path she had forged for herself.
+
+She even made a few strides forward with her own magic using Erick’s methods.
+
+Flare Nova, instant, long range, 8771 mana
+
+A designated spot explodes into a large conflagration, igniting flammables and enemies, dealing 350 + WIL damage every second for ten seconds. Enemies slain by this fire explode into small conflagrations, igniting flammables and enemies, dealing a quarter as much damage every second for five seconds.
+
+Fire Wrap, instant, touch, 19501 mana
+
+Wrap a target in fire, dealing WIL damage a second until the target dies.
+
+They were both horrible failures, but only because of the costs. It reminded Kiri of when she had wasted [Force Bolt] and [Mana Altering], combining them as high as she could go, to get 15 extra points for breaking all the way through to tier 6. But these two spell creations accomplished nothing; less than nothing, actually. These spells took up valuable opportunity costs.
+
+The first one was just an extension of a spell she already used. It was more a test than anything. She didn’t need it, it was just an experiment, really…
+
+She repeated that thought silently, to herself, hoping that the thought would stick one of these times.
+
+The second one, though…
+
+Horrible! But… also not horrible.
+
+[Fire Wrap] was tier 4 —the lowest possible tier for this sort of magic— so she would have to wait a hundred days to remake the spell, because she had to remake it, once she understood Erick's methods better. [Fire Wrap] was horrible in every way, except the way that mattered. She had made it using a non-standard combination, anyway; it didn’t limit her planned future tiers.
+
+Not much, anyway.
+
+But [Fire Wrap] was a damage spell that worked until the target died. [Death Spiral Fire] was the pinnacle of fire magic, and Kiri had reached one of the milestones to that ultimate magic, using a non-standard combination. At age 19.
+
+Did Erick have any idea what he was truly capable of?
+
+Thank the gods he was a pacifist.
+
+Kiri thought… was his method… perhaps… the correct way to make magic? Was Kiri limiting herself with her academic mindset?
+
+Kiri mulled over that thought for a while.
+
+She decided that her methods worked. But so did his. At least in the short term.
+
+Perhaps she didn’t stress enough that complicated magics were end-tier magic. That to have more than a single line of text in a spell meant that making any other good spells out of it was practically impossible. But what need was there for tier 8 spells when Erick did all of what he did at tier 1? It was Particle Magic that he had invented himself, sure, but it was still vastly more powerful than other tier 1 spells.
+
+Kiri had a thought for how Rozeta would handle this problem, of how she might alter all Particle Magic to make it fit with the rest, but Kiri’s thoughts were so unformed, that to call them premature would be a kindness.
+
+Too much happened today. There were dozens of conversations that she had wanted to have, but there just wasn’t time. She would have time to bring up this concern, in detail, tomorrow. Or the next day.
+
+There was a discrepancy here, and Kiri would get to the bottom of it.
+
+… As soon as she stopped thinking about the birth of a universe from one impossibly hot seed that bloomed out into infinity, for 14 billion years.
+
+Kiri stared at the ceiling, considering the Old Cosmology she had learned about at Tower Arcanaeum.
+
+The professors and the history books claimed Veird was hundreds of thousands of years old, and born from the bodies of dead gods that accumulated in the Old Mana Ocean. There were even two independent expeditions that managed to survive the journey to find the fabled Core of Veird. They saw that core, bringing back samples and images and tales of horror alike. So Kiri knew, for sure, that Veird was a created planet. Veird had been created long before the Sundering tossed everyone into this universe. Veird’s core was some hundreds of thousands of years old, though it was scattered with the dream-remnants of other much older worlds, from the Old Cosmology, and those worlds were much older.
+
+But billions of years old? No one ever considered that anything might be that old. 'Hundreds of millions' came up occassionally, as a possible age. But Billions? No one ever seriously postulated this possibility.
+
+There was a vast discrepancy here.
+
+Kiri didn’t know where that discrepancy lay, but it certainly existed.
+
+Was Erick’s universe really billions of years old? Both Jane and he seemed very sure about that number. They must have had a test for such a thing. Was there a way to test to see if Veird had landed in Erick’s universe, using their method? If the ages lined up, that would answer some very interesting cosmological questions.
+
+Very interesting indeed.
+
+Kiri stared at the ceiling, thinking.
+
+Eventually, her thoughts turned to whispers, and her eyes closed on their own. She fell asleep thinking very large thoughts. Her dreams were filled with worlds.

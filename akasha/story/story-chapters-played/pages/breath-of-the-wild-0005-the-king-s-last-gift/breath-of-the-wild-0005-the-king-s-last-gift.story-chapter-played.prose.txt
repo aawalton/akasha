@@ -136,3 +136,110 @@ Link did not move.
 
 His hand had gone to the Sheikah Slate. Not consciously — the way his hand went to a weapon when he heard a sound in the dark. The Slate was the only thing that connected then to now. The only constant between the world the old man — the king — was describing and the world Link sat in. His fingers rested on the casing. The screen was warm.
 
+"This kingdom had a champion," the king said. The word had changed. Not the old man's warm, measured register — harder now, more clipped, the voice of a man accustomed to audiences and proclamations and the particular weight of speaking when your words become history. "A knight of extraordinary skill, chosen by the Goddess's own sword to stand against the darkness. He wielded a blade that sealed evil — a blade that chose him, the way the Slate chose you."
+
+A pause. The king looked at his luminous hands.
+
+"A hundred years ago, the Calamity returned. A being of ancient malice — Ganon. It had been defeated before, sealed before, driven back before. But this time, it came from within. It corrupted our guardians." The word landed differently now. The machines patrolling the Plateau — their searchlights, their stone domes, their killing precision. Guardians. Not random threats. Weapons. Weapons that had belonged to the kingdom that fell. "It turned our own defenses against us. The machines we built. The Divine Beasts — four great constructs, each piloted by a champion of extraordinary courage. Ganon took them all."
+
+His sentences were shortening. The king's register — harder, clipped, each word placed like a stone in a wall meant to hold. Link's breathing changed. Not faster. Shallower. He was holding something he couldn't name.
+
+"The champions fell. The hero fell." The king's voice was flat. He was narrating the worst day of his life and the flatness was the only alternative to weeping. "The hero was struck down protecting the princess. She carried him to a place of resurrection — the Shrine where you woke. She sealed Ganon with a power that had refused to manifest until everything was already lost." A pause. "The irony was not lost on her."
+
+Link looked toward the Castle. He didn't decide to look. His body turned, the way it had turned toward the fire when it was cold, the way it turned toward a weapon when it heard a threat. Instinct. The shape of the Castle — or the dark thing coiling around it — triggered a response that had nothing to do with memory and everything to do with whatever was stored in his muscles and his marrow and the parts of him that the Shrine of Resurrection had preserved but not explained.
+
+"She has been holding him alone for a hundred years," the king said. His voice cracked. Not broke — cracked, a hairline fracture in the stone of his composure, visible for one word and then sealed. "I could not help her." Another crack, deeper. He controlled it. "I could not help her. But you can."
+
+He turned to Link. The ghost-light in his eyes was steady, ancient, patient. The same patience that had characterized every fire he'd built, every apple he'd carved, every careful word he'd spoken across four days of disguise. A century of patience. The patience of a dead man who had chosen to stay for exactly this moment — to sit beside the hero and say the words that would send him into the world the king had failed.
+
+"You are that hero. You were brought to the Shrine of Resurrection one hundred years ago, near death. You have been sleeping. Healing. The Shrine kept you alive. Your memories —" He stopped. Looked at Link's face. Whatever he saw there — the blankness, the absence where recognition should have been — told him what he needed to know. "Your memories will return. In time. In pieces. The Slate may help."
+
+The kingdom spread below them. Fields, forests, rivers, ruins. The roads going everywhere and nowhere. The Castle at the center, holding its prisoner, radiating the dark patience of a presence sealed but not destroyed. Four machines, somewhere out there, waiting to be freed. Four spirits, trapped inside them, waiting to aim their weapons at the demon that had killed them.
+
+"Free the Divine Beasts," the king said. The king's voice — not the father's, not the old man's. The voice of a man issuing his final order. "Find the spirits of the champions who piloted them. Turn their power against the Calamity. Then go to the Castle." He paused. "Save my daughter."
+
+The last three words were not the king's. They were the father's. The voice beneath the crown, the one that had been there all along — in the cooking lessons, in the warm doublet, in the fire that was always tended, always ready, always lit against the dark. The father who had failed his daughter and had spent a hundred years preparing someone else to succeed.
+
+---
+
+Silence.
+
+The morning light moved across the gallery. The shadows shifted. Below them, the Temple floor gleamed where the sun hit it and darkened where it didn't. The Goddess Statue's cupped hands caught the light and held it.
+
+Link sat with the weight of the story. He did not move. He did not clench his fists. He did not look at the king with determination or resolve or any of the things that heroes in stories do when they learn their purpose. He sat, and the silence was not empty. It was the sound of a person reorganizing everything he had thought he knew.
+
+Four days. Four Shrines. Four monks who dissolved after handing him their life's purpose. Four Spirit Orbs traded for one more heartbeat of survival. Four nights by the fire with a man who was not a man, who was a ghost, who was a king, who was a father, who had been waiting a hundred years to sit beside him and say: you are the person I've been waiting for. Everything I gave you — the fire, the food, the doublet, the guidance — was not charity. It was preparation. I was testing you. I was equipping you. I was being the father I never got to be, four days late and a century too long.
+
+He breathed. The breath went further than it used to. Four hearts now.
+
+"I have one last thing for you." The king reached into his robes — the same motion the old man had used to produce the Warm Doublet, the same practical, unhurried gesture. What he drew out was not large. A folded frame, canvas and wood, Sheikah-made — the engineering visible in the joints, the hinges, the way it was designed to collapse into a bundle you could carry and expand into a sail that could carry you. The Paraglider.
+
+He held it the way a parent holds a gift meant for a child who is leaving. Not at arm's length — close, then offered, the reluctance of letting go visible in the fingers.
+
+"Not payment," the king said. "I never thought of it as payment. Consider it a provision. From someone who cannot walk the road with you."
+
+Link took the Paraglider. The canvas was old — worn smooth at the grip points, the wood dark with age, the Sheikah symbols on the frame so faded they were more texture than design. It weighed almost nothing. It had been carried for a hundred years by a man who knew he would never use it.
+
+```stat-screen
+PARAGLIDER — ACQUIRED
+---
+Hold to deploy during freefall.
+Stamina consumed during flight.
+---
+```
+
+The king's hands were empty now. Everything he had to give — the fire, the food, the clothing, the truth, the tool — had been given. He looked at Link. Not at the hero, not at the champion, not at the instrument of the kingdom's salvation. At the boy. The boy who ate as though he was never sure when the next meal was coming. The boy who kept a broken sword hilt because he couldn't let go of things that had been useful. The boy who had woken four days ago with nothing and had spent every hour since learning how to survive in a world that was trying very hard to kill him.
+
+"Be careful," the king said. "And eat something before you go. You're too thin."
+
+The ghost-light flickered. The corner of his mouth moved — not quite a smile, but the place where a smile would have been if he'd had the composure to complete it. The expression of a man who had just said the most important things he would ever say and followed them with the most ordinary, and the ordinary was the truest.
+
+He turned toward the Castle. Toward the dark shape on the horizon, the Malice wrapping its spires, the place where his daughter had been holding a demon alone for a hundred years because her father could not reach her and her champion had been sleeping and the world had moved on without any of them. He looked at the Castle the way a man looks at a house he lived in once — not with longing, but with the specific grief of knowing the door is closed and the key is in someone else's hand.
+
+Then King Rhoam Bosphoramus Hyrule began to fade.
+
+Not dramatically. Not in a burst of light or a dissolution of form. A dimming — gradual, inevitable, the way a fire burns down when nobody feeds it. The robes lost their color. The crown lost its weight. The ghost-light in his hands spread to his arms, his chest, his face, until there was more light than form, more memory than man. His edges softened. The morning air showed through him. His expression was the last thing to go: the relief of a century-long vigil ending, the sorrow of a father who would never know how the story turned out, and beneath both — faint, fragile, enduring — what might have been trust.
+
+The light that had been King Rhoam rose and thinned and joined the morning. The gallery was empty. The stone where he'd sat was still warm from the sun — only from the sun, now. The fire he had tended for a hundred years, somewhere below, was going out. Nobody was there to add another log.
+
+Link sat alone on the broken gallery. The Paraglider in his hands. The Sheikah Slate against his hip. The kingdom below. The Castle ahead. The mission — the impossible, incomprehensible, undeniable mission — settling into his chest beside the new heart, filling the space the way water fills a well.
+
+---
+
+He climbed down from the gallery. Through the Temple, past the Goddess Statue — her closed eyes, her patient hands, the moss growing on fingers that had held the light of four Spirit Orbs and traded them for survival. Out through the Temple's broken entrance. Into morning.
+
+The Plateau was quiet. The birds had settled into their routines. The wind moved through the grass with the patient rhythm it had always had — before the Calamity, before the kingdom, before any of the things the king had described. The world's oldest habit. Continuing.
+
+He walked to the edge.
+
+The Plateau's cliffs fell away vertically — hundreds of meters of stone, sheer, the kind of drop that had been a wall since the first morning. He had stood at edges like this before. At the towers, looking out. At the summit, looking down. Each time, the edge had been a boundary. The place where the Plateau ended and the unreachable world began.
+
+He held the Paraglider. Canvas and wood. Ancient, reliable. Made by engineers who had anticipated this moment — or a moment like it, a person standing at the edge of the known and needing a way into the unknown. The frame unfolded in his hands, the joints clicking into position with the precision of something that had been designed to work once and work perfectly.
+
+He stood at the edge and he paused. Not from fear — from awareness.
+
+He was four days old. Everything he knew, he had learned since waking — fighting creatures whose names he didn't know, cooking food over fires built with wood he'd chopped himself, climbing a mountain in the cold and descending it in the dark. Praying before a statue. Hearing a voice that recognized him. Sitting beside a ghost and being told the story of his own death.
+
+The shirt on his back was a hundred years old. The tablet at his hip was made by a civilization that no longer existed. Below him was a kingdom that had fallen before he woke, a castle holding a princess who had held a demon for a century so that he could sleep and heal and wake and be sent back out to finish what they had started together in a life he couldn't remember.
+
+The wind came up from below. Warm. Carrying the smell of grass and distance and something faintly sweet — wildflowers, far below, in fields that stretched to the horizon. The Malice pulsed around the Castle's spires to the north. The twin peaks rose to the southeast, their split silhouette framing a pass that led south — toward a village, toward someone named Impa, toward the next piece of the truth. The roads connected places he had never been to people he had never met. The world was green and gold and vast and broken and waiting.
+
+He raised the Paraglider above his head. The canvas caught the wind and pulled, a living tension in the frame, the fabric wanting to fly.
+
+He stepped off the edge.
+
+The world opened beneath him.
+
+The Plateau fell away — a mesa shrinking behind and above, its cliffs already distant, its forests and meadows and Shrine-glows becoming small, becoming map-scale, becoming the contained space it had always been. The Paraglider caught the rising air and held. His arms bore the weight — the pull in his shoulders, the heat in his forearms, the awareness that gravity was being negotiated, not defeated. The stamina gauge on the Slate's edge flickered — draining, steady, the flight a cost paid in the body's currency. His chest tightened. His grip held.
+
+Below him: all of Hyrule. The fields spreading in every direction, wild, untended, the grass waist-high and golden in the morning light. Rivers catching the sun. Forests dark and deep. Ruins — walls without roofs, foundations without walls, the skeleton of a civilization picked clean by a century of weather and neglect and the patient work of roots in stone. The roads, threading between it all, going everywhere, going south, going to the twin peaks and beyond them to a village where someone waited with answers.
+
+The wind filled the canvas. The world smelled of grass and warm stone and distance. After four chapters of cold stone and sealed Shrines and the sterile precision of Sheikah engineering, the air tasted alive — rich, textured, carrying the sounds of distant birdsong and running water and the creak of old trees. And beneath it all, faint, persistent, patient as the Statue's closed eyes: a low pulse from the Castle. The Malice's heartbeat. The demon's patience. The princess's endurance.
+
+The flight was not infinite. The stamina drained and the grip tightened and the shoulders burned and the ground came up — green, soft, real. His feet touched grass. Not the Plateau's trimmed meadow but wild grass, thick, waist-high, pressing against his legs like a current. He stood in it. He breathed.
+
+The Plateau behind him: a mesa against the morning sky, already far away, already the past. The road ahead: south, toward the twin peaks, toward the first step of a journey he didn't understand and couldn't refuse. The Sheikah Slate pulsed once against his hip — the map updating, the boundary of the known expanding by one step, the system acknowledging what the body already understood.
+
+The tutorial was over. The world had begun.
+
+He walked into the grass. The sun was warm on his face. The road was long.

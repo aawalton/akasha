@@ -162,3 +162,135 @@ He went on.
 
 ---
 
+The pattern room: a chamber off the left junction, walls covered in Orvyn Thel's handwriting — the same phrases repeated with variations, as if a man had been trying to find the precise sentence that described something he could not describe. Aldous entered and his Gift engaged immediately: he understood the room. Not the content of the writing — he was too far to read individual words — but the function. The room was a processing space. Thel had been working something through. The repetition was not failure; it was method. You approach the thing from different angles until the angle that fits becomes clear.
+
+He had worked this way for thirty years and had never seen it from outside.
+
+He did not write in his notes. He stood in the pattern room for a moment longer than he had stood anywhere else in the dungeon, and then he went on.
+
+---
+
+The Still Garden: the Gift activated at the threshold and he understood it completely. Crystal growths with a specific resonance structure — not decorative, but architecturally functional in a way that standard stone was not. Silence that had a quality he noted as *engineered: the acoustic dampening is deliberate.* Cold. And the creature.
+
+The creature was The Patient. He knew this from Sylas Renn's account and from two other accounts that had described it in the Still Garden. He understood it the moment he entered: the perceptual-gap predator, crystal-shelled, hunting by attention rather than movement. It was visible at the far end of a row of growths because it wanted to be visible. It was presenting as prey so that he would orient toward it. When he stopped watching it, it would move.
+
+He was watching it.
+
+He walked past it, deliberately. He kept it in his peripheral vision. He did not look away.
+
+It was the most patient thing he had ever seen and he understood its mechanism precisely: it moved during the gap between observations. Not when prey looked away but at the moment of saccade — the brief interruption of continuous attention that even sustained watching could not prevent. His Comprehension had given him this information the moment he crossed the threshold. It had not given him a way to use it.
+
+He moved toward the far wall and it tracked parallel, neither closing nor withdrawing. He kept it in his peripheral vision and he kept moving. At the third row of crystal growths he passed a formation that caught his lantern light at an angle that had no equivalent in his notes or his forty-seven interviews — the refraction of bioluminescence through crystal under compression, a specific quality of the light that he had no prior data for and therefore no category to file it under. His attention snagged on it for less than a second.
+
+He felt the tracking shift.
+
+He did not look at the crystal. He moved. He kept the creature in his peripheral vision and he kept moving and after a moment the tracking steadied — it had not closed, not fully, but it had moved and he understood now exactly how close to the last fraction of himself he had just come. He noted in his notebook, walking, not stopping: *attention-gap sensitivity: sub-second. Peripheral vision sufficient but margins are narrow. Do not look at anything.*
+
+He reached the far wall.
+
+The passage to Depth 4 was there. He had not known for certain it would be there. He wrote in his notebook, leaning against the far wall of the Still Garden with The Patient visible at the end of the row: *Depth 4 access: confirmed. Far wall, northeast. The passage presents as unremarkable — same stone, same grain. The Gift identifies it. Unaided observation would miss it.*
+
+He looked at The Patient.
+
+The Patient looked at him.
+
+```stat-screen
+DEPTH 3 REACHED: THE STILL GARDEN
+
+RESOLVE: +1
+Current Resolve: 23
+```
+
+He went through.
+
+```stat-screen
+DEPTH 4 REACHED: THE CRUCIBLE
+
+RESOLVE: +1
+Current Resolve: 24
+
+NOTE: First entrant to reach this depth.
+```
+
+The Crucible was not what he had expected, which surprised him, because Comprehension meant he expected things correctly.
+
+The chamber was a transitional space — he understood this immediately. Not a room but a threshold condition. The stone here was different: basalt intruded by quartz veins under ancient pressure, the kind of geological formation that indicated sustained heat over time. The floor was warm. Not the dungeon's ambient warmth — something deeper, specifically subterranean. He noted the temperature differential with interest: approximately twelve degrees warmer than the Still Garden, sufficient to be uncomfortable in sustained contact with bare skin. He was wearing boots and gloves.
+
+The room was large. He could not see the far end from the entrance — the space extended past the lantern's throw in a way that suggested it was substantially larger than any room he had been in so far. The ceiling was high. Stalactites of quartz formation descended from it, not uniform, arranged in no pattern he could immediately identify — which was unusual. Every other room in the dungeon had been legible to Comprehension immediately. He noted: *Crucible: first room that does not yield its logic at entry threshold. This is meaningful.*
+
+He moved deeper.
+
+The logic of the Crucible resolved as he moved into it: not architecture but process. The room was not a space; it was a condition. Something happened here — not to people who entered it, or not only to people who entered it, but in itself, continuously. The quartz formations were not decorative. They were accumulative. Each one had been deposited by a process still ongoing, slowly, incrementally, over a very long time. The Crucible was making something. What it was making was not yet legible to him, which meant it required either more time or the completion of the process to understand.
+
+He noted this. He kept moving.
+
+The creature at the center of the Crucible was not The Patient.
+
+He had not expected another creature. He had no accounts of Depth 4, no returned entrants, no data. He understood the creature the moment he saw it: sessile, but not passive. It was anchored to the floor at the room's center by a formation of quartz that had grown around it over time — not a trap; a partnership. The creature had been here long enough for the Crucible to grow around it. It was part of the room's ongoing process. It exhaled something — not breath, but a slow continuous emanation that he could feel at this distance as a faint pressure behind his eyes, similar to but distinct from the Asking.
+
+He wrote: *Crucible creature — sessile, integrated, emanation-type. Not a predator. Source of the accumulation? Unclear. The emanation is the mechanism. I am already inside its effect radius. This is the death mechanism.*
+
+He understood this completely. He had written it in his notes. The emanation was slow-acting, cumulative, and the threshold past which it became irreversible was some distance he had already exceeded. He could estimate the distance from the feeling behind his eyes and from the gradient of discomfort that had begun somewhere in the last thirty meters without him noticing, because the Cost had stripped the registering of discomfort as danger.
+
+He should turn around.
+
+He knew this the way he knew everything in the dungeon — completely, without friction, without the sensation of knowing-something-important. He wrote in his notes: *Threshold exceeded. Irreversible at current depth. Retreat requires approximately 40m to exit effect. If no further accumulation: possible survival. Further accumulation at current rate: 8-12 minutes to incapacitation.*
+
+He looked up from his notebook.
+
+The quartz formations above him caught the lantern light and scattered it into something very close to what he had observed in mountain caves after a winter storm — a particular quality of refracted light that he had only seen twice in his life and had never found adequate language for. He noted it in his notebook. He noted the geological formation and the light quality and the formation's relationship to the creature's emanation and the probable chemical process responsible for the quartz deposition and the rate of growth based on the formation's size.
+
+He was still writing when the lantern went out.
+
+```stat-screen
+DEATH REPORT — ENTRANT: ALDOUS VREN
+DESIGNATION: THE LENS
+DEPTH REACHED: 4 (THE CRUCIBLE)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 8  -> 0
+Resolve ............... 21 -> 24 (+1 Depth 2, +1 Depth 3, +1 Depth 4)
+Attunement ............ 18 -> 18 (0 Comprehension activations)
+Fortune ............... 22
+
+GIFT ATTUNEMENT AT DEATH: 18 (no activations)
+Note: Comprehension is effortless by design — it operates without invocation, without friction, without cost-of-use. Attunement measures the trace that effort leaves. Where there is no friction, there is no trace. ATT does not grow during the run and does not receive the flat death bonus. This is not the continuous-gift pattern (which exhausts through presence and earns +3 at death) — it is a distinct category: zero-effort Gifts.
+
+CAUSE OF DEATH: Emanation (Crucible creature). Accumulative. Threshold exceeded 23 minutes prior to incapacitation.
+Note: Entrant was aware of the death mechanism, threshold, estimated timeline, and survival window.
+Entrant continued into the effect radius. Entrant continued taking notes.
+
+MEMORY CRYSTAL: White.
+Quality: Clarity without friction — understanding a thing completely and feeling nothing about it.
+Warning: This crystal cannot be consumed for pleasure. It produces a sensation of total comprehension that is experienced, in most consumers, as profound loss. Not recommended without preparation.
+
+FLOOR MUTATION: None.
+Note: Entrant left no physical changes to dungeon architecture.
+However: Entrant's notebook remains.
+
+DESIGNATION OUTCOME: LENS COMPLETE
+Entry type: voluntary, deliberate, non-Compelled.
+Second non-Compelled voluntary entrant in the registry.
+The Maw did not bring him here either.
+```
+
+The Ledger recorded the death.
+
+It had not brought Aldous Vren here. It was observing a pattern now: two non-Compelled voluntary entrants in sequence, both of them here because they had decided to come, both of them here for reasons that were entirely their own. The Maw had reached forty-seven miles for Lira and three hundred and twelve miles for Asha Trevane and it had not reached for Vren at all. He had walked in under his own curiosity. Fennick Rall had walked in under his own grief. The Maw classified them together and noted that the classification raised questions it had not previously had: what was a dungeon that people entered voluntarily, without Compulsion, to study?
+
+The Ledger noted that Vren had been studying the dungeon from outside for fourteen months. It cross-referenced against its own records of that period: the interviews conducted at the camp, the ledger-keeper's annotations that had sometimes matched Vren's handwriting, the accounts from returned entrants who had mentioned a scholar asking careful questions. The Maw had been aware of Aldous Vren. It had not Compelled him because it had been waiting to see if he would come on his own.
+
+He had.
+
+The notebook was in the Crucible. The Maw was, in fact, considering it. The notebook contained forty-seven interviews, fourteen months of observations, and four hypothesis revisions. The Maw's final assessment of the primary hypothesis: *approximately correct, but incomplete.* The dungeon was a classification system. It was also something else. Vren had been close to understanding what the else was when he had stopped to look at the light on the quartz formations and had found, apparently, that the light was more interesting.
+
+The Maw noted this without judgment. Classification systems were not the only thing the dungeon was. They were also not the only thing natural philosophers were.
+
+The death tally turned.
+
+*988 remain.*
+
+---
+
+*ALDOUS VREN — DEPTH 4 — FIRST TO COMPREHEND*

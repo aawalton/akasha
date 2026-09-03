@@ -156,3 +156,121 @@ Dayo ran the debrief on the way. She did it well. She named the fourth encounter
 
 The debrief was practical and specific and forward-facing. It gave the near-miss a place to sit that was not an event. This was Dayo's particular skill with this party — the practical debrief that held space for the unpractical things to happen elsewhere, later, when the practical work was complete.
 
+Nadia walked in formation. She completed her movement responsibilities. She said nothing.
+
+---
+
+The rest node was a widening of the ash corridor, the thermal activity farther away, the floor's geological business quieter here. The recovery coefficient was full — 1.0, the System's notation indifferent to what the floor had been before this — and the practical work of continuing began: equipment maintenance, HP and MP assessed, supplies checked, Tomás's floor notation reviewed and updated.
+
+Nadia was sitting against the wall in the rest node. She had not moved to her usual position — the particular spot she had occupied at every rest node on Floors 14 through 18, the right-angle corner that gave the optimal view of both corridors. She was sitting where the walk had ended when the walk ended. She was looking at the ash floor in front of her.
+
+Tomás settled nearby. Not at her usual position either — he had moved to give her the wall section she'd claimed and taken the adjacent angle. He opened the floor notation and worked on it. He did not look at her. He did not not look at her. He was doing the notation.
+
+The debrief concluded. Floor notes filed. The next encounter set discussed — Tomás had enough model data to predict the first two spawn vectors with reasonable confidence, the third with moderate confidence, the fourth unknown. The practical work was complete.
+
+```stat-screen
+[REST NODE — ACTIVE]
+Floor 19 — The Ash Plain
+
+Nadia Volkov-Baptiste: MP 86/408 (21%)
+Miriam Osei-Bonsu: MP 97/420 (23%)
+
+Tomás Reyes-Whitehorse: HP 62/362 → 285/362 (recovering)
+Party HP: Full
+Party Status: Critical threshold cleared.
+
+Recovery coefficient: 1.0 (rest node)
+Resonance Events: 102/150
+```
+
+The space opened.
+
+Miriam stood up.
+
+She crossed the rest node in the particular way she moved when she had made a decision that wasn't a decision — the clinical gait, efficient and direct, but without the notebook open and without the assessment running. She came to where Nadia was sitting and sat down next to her. The distance between them was one arm's length, not crowding and not retreating. She did not ask anything. She looked at the section of ash floor that Nadia was looking at.
+
+She stayed there.
+
+The ash hiss from the distant vents was constant and low, a particulate frequency that had been present since the Gate and would be present until they left. The rest node's thermal stability meant the sound was consistent — not pulsing with the vents, just the ambient background of a floor that had been ash before they arrived and would be ash after.
+
+Nadia looked at the floor.
+
+A long time passed.
+
+"She came across the rest node and I didn't see her," Nadia said. Her voice was at its regular register — not performing, not managing, just the voice that was there when the management layer was not running. "I was tracking the encounter clock. I do that on hard floors. It keeps the rate legible. I was at 0.4 seconds when I felt the encounter resolve."
+
+Miriam was looking at the floor.
+
+"I knew she would be there," Nadia said. "I knew she was fast enough. She's been there every time."
+
+The ash hiss from the vents. The steady low frequency of the rest node recovering.
+
+"That's not the same as knowing she would be," Nadia said.
+
+Miriam did not say *I said that.* She did not say *I know.* She did not say anything.
+
+She looked at the floor.
+
+She stayed.
+
+The words sat in the rest node the way words sat when they had arrived exactly where they needed to arrive. The echo was there — in the specific phrasing, in the rhythm, in the exact formulation that Miriam had said in a different rest node about a different person — and it was there for anyone who had been paying attention. No one named it. The loop closed in silence.
+
+---
+
+Solenne was across the rest node with the notebook in her lap.
+
+She ran the Conductor. Brightspirit was present — not dim, not depleted, not in the register she'd been reading for three encounters and an encounter-four near-miss. Open. The management layer was down and the channel was running at the signal's actual frequency, and what Solenne found was Nadia present and quiet and the Brightspirit showing her something she had not read before in eighteen floors of reading it.
+
+Not grief. Not relief. The quiet of someone who has seen themselves do the thing they most feared doing and has not, in the aftermath, fractured — who is sitting in the gap between what they knew and what they know now and is not trying to close it yet.
+
+Miriam was next to her. Not asking.
+
+Solenne looked at the notebook. She looked at what she had written — the encounter notes, the formation adjustments, the one word in the margin from two encounters ago. *Ceiling.* She thought about writing: *0.4 seconds.* She thought about writing: *Brightspirit signal: fourth kind.* She thought about the notation that would capture what the Conductor was showing her.
+
+She looked at the notebook.
+
+She thought about 102 resonance events. She thought about RES 20. She thought about the chord — four seconds at Floor 18, all six Aspects simultaneous, each one exactly what she had learned it was across eighteen floors of watching these five people be themselves. She had been carrying the shape of Six of Six since the chord. She knew what it looked like when all six signals resolved.
+
+She looked at the two of them across the rest node. The distance of one arm's length. Miriam sitting with Nadia the way you sat next to something that needed presence more than it needed words.
+
+She knew the prerequisite was met. She knew what the gap between 102 and 150 meant and how many floors it would take to close it. She knew what RES 20 meant for the Repository Node. She was holding all of it — the mechanics and the math and the exact shape of what the Tower was building toward — and across the rest node, Nadia Volkov-Baptiste was sitting in the ash with the management layer down and the signal open and Miriam next to her not asking.
+
+The chord was ready.
+
+The party was not ready.
+
+Solenne understood the difference. She had been working on understanding the difference since the locked door, since *Conditions Not Met*, since the moment she had stood in front of that door and wanted to look at it before she said anything about it. Managing the situation was one thing. Managing the people in it was another. Waiting until the party was ready was a third thing.
+
+She opened the notebook.
+
+She did not write anything.
+
+She closed it.
+
+This close was deliberate. The notebook had been open and she had chosen not to write and she had closed it — not because she didn't know what to write, but because writing it would make it into something she was processing rather than something she was holding. The distinction mattered. She was learning the distinction.
+
+She put the notebook in her pack.
+
+Vesper came across the rest node without looking at Nadia and Miriam. She went to the supply cache and came back with a modified Mana Vial — the casing scored with Workframe notation, small and precise, the marks of someone who had done this calibration before and knew exactly what she was calibrating for. She set it down within Miriam's reach, at the edge of the arm's-length distance that Miriam and Nadia occupied between them, and returned to the Workframe inscription she had been running.
+
+She had not looked at either of them. She had not announced what she was doing.
+
+She had been monitoring without monitoring.
+
+The vial sat in the ash. Dayo had finished the floor notation review and was checking her own armor — the shoulder that had taken the Floor 18 Lurker impact, still functional, still within range. Tomás was on his third update of the floor model. The ash hiss from the distant vents continued its low constant frequency.
+
+Nadia was still sitting next to Miriam. The signal through the Conductor was open and quiet and present.
+
+After a while, Miriam reached for the modified Mana Vial.
+
+She didn't look at Vesper when she picked it up. She opened it and drank it and set the casing down in the ash.
+
+Solenne ran the Conductor. Brightspirit's signal shifted — not dramatically, not a recovery to full performance register, but the quiet channel adjusted slightly. The presence strengthened. Not the managed version. Just: more there than a moment before.
+
+The rest node continued its work. HP and MP climbing at their respective rates, the System patient and indifferent, the floor's geological business proceeding without reference to the people inside it. The ash redistributed slowly in the thermal drift. The impressions of their arrival gradually filled.
+
+Nadia was still sitting. Her eyes were on the ash floor in front of her. The signal through the Conductor was open.
+
+Miriam was still sitting next to her.
+
+Neither of them had moved.

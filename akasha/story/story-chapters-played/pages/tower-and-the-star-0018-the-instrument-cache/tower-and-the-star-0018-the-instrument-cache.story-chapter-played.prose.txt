@@ -201,3 +201,75 @@ It was not beautiful, and it was not a Surge the way the Ironjaw had been a Surg
 
 The chord was enormous. It had room for all of them in it.
 
+It lasted four seconds and then the Conductor settled back to its regular register. Nadia had not stopped playing. The music continued, quiet and specific, working through something that was not a performance — not the shape of a performance, not the structure that accompanied performance, just notes arriving in sequence because someone was playing.
+
+Solenne came back to the room.
+
+She looked at Nadia, who had not noticed anything. She looked at the Conductor read, which was now showing RES 20 in the status display, clean and factual. She looked at the status window with the class evolution overlay — Level 25, Class Proving, Resonance Events 102/150. She closed the status window.
+
+*The chord is there. It has been there.*
+
+She understood something she did not write down. She was at it now. The thing that was waiting was not the chord, which she had heard. The thing that was waiting was the moment when all six of them were ready simultaneously. She didn't know when that would be. She was not going to force it. The floor was not waiting; the chord was not waiting. When the moment came, she would know it.
+
+She would tell them when she knew.
+
+She closed the status window. She made the next observation.
+
+---
+
+Dayo had gone still in a way that was not gear maintenance. Her hands were on her equipment but not moving. She had heard the music and her body had made a decision without consulting her. She was sitting with her knees up and her back against the rest node wall and she had not quite put the armor piece down she'd been holding, but she wasn't doing anything with it.
+
+She became aware she was not doing anything with it. She set it down.
+
+Miriam's clinical notebook was open. She was not writing in it.
+
+Vesper's hands were in the Workframe's pattern. She had stopped mid-motion — a specific pause, the kind that happened when you caught a thought you hadn't expected to have. She was looking at the wall. The motion had stopped and she had not yet decided to resume it.
+
+Tomás had stopped writing on the floor notes. His pen was in his hand and his hand was at rest and he was looking at the middle distance the way he looked at things he was trying not to interrupt.
+
+Nadia played.
+
+She was not performing. There was no scaffolding around it — no introduction, no awareness of the room, no orchestration of how it was being received. She was just playing, working through something at the instrument's pace, and the Wet Stone Corridors were doing something particular with the sound. The stone carried it. The water under the floor added a resonance that wasn't quite a harmony but wasn't nothing — a low undertone, barely there, the acoustic fact of the floor's own structure running below the music the way a river ran below ice.
+
+Solenne was the only one watching all of this. She watched Dayo's hands, which had stopped moving for the first time since Floor 7. She watched Miriam close the clinical notebook, not as a decision — as a fact that happened, the notebook finding its way closed in the same way the room had found its way quiet. She watched Vesper, who had not looked away from whatever she was seeing in the middle distance. She watched Tomás, who had set the pen down.
+
+She did not write any of this down.
+
+The sound was clean and specific and not ornamental. It moved through the rest node the way water moved through the channels — finding its level, running in the direction it wanted to run. The dulcimer's tone was warm in the lower register and had something brighter and shorter in the upper strings, and Nadia was playing in both registers at once, the melody sitting somewhere between them.
+
+A movement at the edge of Solenne's peripheral vision.
+
+Tomás had reached into his pack. He came out with the folded paper — the coordinates paper, Vasic's notation, Floor 17 NW Alcove 7-B. He sat with it for a moment. Then he came across the rest node to where Solenne was sitting, set it down beside her, and went back to his spot.
+
+He had said nothing. He sat back down and picked up his pen.
+
+Solenne looked at the paper. She unfolded it. In the margin, in Tomás's notation — smaller than his regular handwriting, the shorthand he used for observations he wasn't ready to formalize — were three entries, each prefaced with a small numeral. Cross-references. The second script compared against three known linguistic structures from the Tower's other sealed-space text. Not answers. Possibilities ranked by internal consistency, annotated with the evidence for and against each.
+
+He had done this without being asked. He had handed it over without making it an event.
+
+She read the three entries. She did not look up at him. She refolded the paper and put it back in her utility belt's inner pocket, where it had lived since Floor 11.
+
+Behind her, the note Nadia was playing sustained and then moved to the next note.
+
+The sound was doing something particular to the room. Not transforming it — the rest node was still a rest node, stone and supply caches and five people and a dulcimer. But there was a quality that had not been there before the first note, something that had to do with the way the music and the space were talking to each other, the acoustics of wet stone and running water and the specific resonance of this floor carrying the sound differently than any floor Solenne had been on.
+
+She didn't have a word for it.
+
+She thought about Tomás's paper, and the three possibilities, and the second script, and the fact that someone had carried a dulcimer to Floor 18 and left it where it could be found.
+
+She thought about the chord.
+
+She thought about what Nadia had said: *I used to. I stopped.*
+
+She sat in the rest node with these things and let them stay unanswered.
+
+The sound continued. It was not asking to be answered.
+
+```stat-screen
+[REST NODE — ACTIVE]
+Party Status: Full recovery in progress
+
+Resonance Events: 102/150
+```
+
+The water moved under the floor, patient and continuous, carrying the sound.

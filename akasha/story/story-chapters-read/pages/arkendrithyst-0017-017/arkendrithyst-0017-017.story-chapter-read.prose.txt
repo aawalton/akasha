@@ -168,3 +168,264 @@ Erick smiled. “It looks really nice, Al. I accept. For now.” He added, “Ja
 
 Jane walked forward through the space, saying, “Of course I do. Thank you, Al.”
 
+Al’s smile beamed wide. “Ah ha! Very good!” He stepped backward. “Explore the space at your leisure. I won’t put up the alarm ward until much later in the day, so— Ah… hmm.” He turned to Erick. “Do you have [Blink], or anything like that? You both can come and go as you wish. I made a landing out there for you for that. But I do put up the alarm [Ward] at night.”
+
+Erick eyed his Status. There were some points left, but there were changes and messages waiting for some downtime, so he quickly bought [Blink] and exited the Script before it all overwhelmed.
+
+“I do now.”
+
+“Good man!” Al turned away, stepping down the stairs. “Good show in the courtroom, today. I’ll make dinner later!”
+
+And then he was gone.
+
+Jane went to a couch and collapsed, exhausted.
+
+Erick went to the nearest room and did the same.
+
+- - - -
+
+He woke to the smell of food. Something spicy and probably meaty. The sun was still high in the sky, outside of the windows of his room. When he stumbled out into the rest of the apartment, he saw Jane cooking in the kitchen with two bags of groceries behind her.
+
+“Nice nap?”
+
+Erick said, “Wonderful nap. What are you cooking?”
+
+“I opened a bank account at the mage guild then went down to the market and found some stuff.” She pushed around some sliced meat in a pot, with green not-chives and some sort of sauce. “Got some sausage; not sure what kind of meat but the samples were delicious. Some onion-like things, bread, some maybe-tomatoes. This and that.” She pointed to the bags behind her and Erick went to investigate. “I also had a nice chat with some farmers about the produce.”
+
+Erick pulled out a bulbous two-foot long white root-thing. There was an unidentifiable fruit, as well as a sweet smelling fruit. And lots of bread. Jane loved bread, so that was no surprise. As he was pulling out stuff, he asked, “What about the produce?”
+
+“[Grow] is a generalized accelerated growing spell, but it can also be used to cultivate a specific outcome. If you do it right, you can create a new kind of real living plant. Like accelerated selective breeding.” Jane smiled. “Like turning this—” she held up a not-chive. “—into a sweet onion. Only without the generations that it took humans on Earth. You could have a viable product in a few months.”
+
+Erick eyed the not-chive. “Really?”
+
+“Yeah. There’s a catch, though. If you do it really wrong and make, like, killer kudzu, you’ll get a god-quest on your head to hunt you down and all of your plants.” She waved her stirring spoon at him, careful not to drip the sauce. “Don’t go making killer-kudzu.” She returned to stirring the pot. “What’s your status like now, anyway?”
+
+Erick ignored the blue boxes at the edge of his sight. “I’ve been ignoring it.”
+
+“Pffpt! Dad!” Jane pointed at the couch in front of her. “Don’t ignore the problem.”
+
+“Jane, but—”
+
+She glared at him.
+
+Erick walked over to the couch and pulled up all the boxes he had been ignoring.
+
+Status.
+
+Erick Flatt
+
+Human, age 48
+
+Level 10, Class: None
+
+Exp: 2297/8900
+
+Class: -/-
+
+Points: 5
+
+HP
+
+90/90
+
+150 per day
+
+MP
+
+554/554
+
+554 per day
+
+Strength
+
+9
+
++0
+
+[9]
+
+Vitality
+
+15
+
++0
+
+[15]
+
+Willpower
+
+20
+
++0
+
+[20]
+
+Focus
+
+20
+
++0
+
+[20]
+
+Favored Spell waiting!
+
+Concentration 8
+
+Multiply your base MP regen by 2.77
+
+Requirements: 20 Focus
+
+Exp: 1855/3400
+
+Discipline 8
+
+Multiply your base MP by 2.77
+
+Requirements: 20 Willpower
+
+Exp: 586/3400
+
+Clarity 4
+
+Reduces spell costs by 20%
+
+Exp: 200/500
+
+Mana Shaping 5
+
+Alter spell AOE in better, subtle ways, 10 MP + spellcost
+
+Alter spell AOE in better, moderate ways, 30 MP + spellcost
+
+Aurify Unlocked
+
+Requirements: 10 Willpower
+
+Exp: 140/800
+
+Aurify 1
+
+Transform an AOE spell into a semi-permanent effect surrounding yourself, based upon the parameters of the Aurified spell. Increase an instantaneous spell to a 1 second duration in order to create an aura.
+
+Able to support 1 aura at a time.
+
+Exp: 0/10000
+
+Mana Altering 1
+
+Bludgeoning, Slashing, or Piercing Damage
+
+Exp: 0/100
+
+Meditation 7
+
+You are at Rest while Meditating.
+
+Afflicted ailments: Normal movement, small actions/spells.
+
+Requirements: 10 Willpower
+
+Exp: 1726/2100
+
+Cleanse 5, instant, short range, 10 mana.
+
+Purge an area equal to the level of the spell in meters of all Toxins, Disease, Filth, and Corruption.
+
+Exp: 470/800
+
+Mend 4, instant, touch, 10 mana
+
+Touch a non-magical medium sized object, or small complicated, and restore it to its prime.
+
+Exp: 200/500
+
+Ward 7, instant, short range, 24 hours,
+
+Create a Small Ward that can have Minor Effects, or prevent Z damage from attackers. 10 MP + Z
+
+Create a Small Ward that can have Small Effects, or prevent Z damage from attackers. 15 MP + Z
+
+Create a Special Ward. Variable Cost
+
+Create a Medium Ward that can have Small Effects, or prevent Z damage from attackers. 20 MP + Z
+
+Create a Medium Ward that can have Medium Effects, or prevent Z damage from attackers. 25 MP + Z
+
+Personal Ward: Any Ward of any type can be made Personal, to move with you. Original Cost x2
+
+Create a Large Ward that can have Medium Effects, or prevent Z damage from attackers. 30 MP + Z
+
+Minor Effects: Bug Ward, Temperature Ward, Alarm Ward
+
+Small Effects: Visual Disruption, Audio Disruption, Weather Ward
+
+Medium Effects: Area Hostile Visual Disruption, Area Hostile Audio Disruption
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you can. Skill at mana manipulation determines final outcome.
+
+Exp: 97/2100
+
+Force Beam 2, instant, medium range, 25 mana
+
+A piercing, slicing beam of hardened mana that deals 25 + ½ WIL damage for 2 seconds
+
+Exp: 175/200
+
+Force Shrapnel 2, instant, short cone, 5 MP
+
+Sharpened forward blast of mana that deals 5 + ½ WIL damage in a cone
+
+Exp: 5/200
+
+Blink 1, instant, 25 MP
+
+Instantly move from your location to another within <sight>, max range 10m per level of Blink
+
+Exp: 0/100
+
+Clarity’s experience value looked like it operated off of total spell cost, and not some small percentage of whatever it was reducing; it would be easy to level. All the other spells didn’t seem to care about less mana spent, either. Erick was thankful for that. He didn’t want to deal with a whole bunch of tiny numbers everywhere; it was already bad enough.
+
+[Ward] was getting bigger. It was the easiest to level, though. One 500 point [Ward], and boom! 510 experience. Easy peazy, lemon squeezy. Leveling all those DPS spells, though. Ugh. [Force Beam] leveled in 25 point increments, so that wasn’t so bad. [Force Shrapnel] probably wouldn’t be that bad as soon as he practiced it with Aurify.
+
+Looking at his new level 10, Erick felt dirty. He must have gotten almost 5000 experience from that fight, including the spells he cast. Killing things really was the best way to level base level, wasn’t it?
+
+Erick felt like he needed a bath. A nice hot shower. Maybe a hot tub.
+
+… He could make himself a hot tub.
+
+He had never had a hot tub!
+
+He leapt to his feet.
+
+Jane looked ready for anything. “What happened, Dad?”
+
+He turned at her, and with a deep, solemn voice, said, “I could [Stoneshape] a hot tub and then use a temperature [Ward] to make the water hot. It would require zero maintenance because I have [Cleanse]. I have no idea where I would get the water but I could figure that out later! Ahhaha!”
+
+Jane almost threw the wooden spoon at him. Erick could see it in her eyes, that urge, the tension in her grip. But she went back to stirring dinner, or lunch, whatever it was, a smile creeping up on her face. Ah. It had to be lunch. Al said he would make dinner.
+
+She said, “You knooow, Daad~ There’s a bathhouse in the orcol part of—”
+
+“I cannot do that, Jane.”
+
+She laughed loud and happy.
+
+Erick already knew full well there was a bathhouse in the Orcol District.
+
+But when the Most Beautiful People all go somewhere to enjoy a bath, nude, as a cultural thing? Erick felt out of place before he even got to the front door, no matter that there were also dragonkin and incani in the area. Fleeing that place was not one of his proudest moments, but he ran anyway. He ran very fast, and the less Jane knew about all that, the better.
+
+Jane called out, “Hey, Al! Want a late lunch?”
+
+Al’s voice carried up the stairs, “On my way!”
+
+Jane smirked. Erick paused. She was planning something. Oh no. What was she planning?
+
+Al appeared in the doorway then stepped inside, saying, “Smells good!”
+
+“Before we have lunch~ Dad is embarrassed to be seen at the bathhouse, but he wants to go and enjoy a lot of hot water. Is there some cultural thing preventing him, or…?"
+
+Erick almost died right there.
+
+Al answered, laughing as he did so, but Erick was so deep in the throes of embarrassment he couldn’t hear the words around him even if he wanted to. It was decided, without one iota of Erick’s own choice, that Al would take Erick to the bathhouse tomorrow morning, when the crowds are small. ‘There’s nothing to be embarrassed about, but you’ll likely get more than your fair share of stares. Not many humans in Spur!’
+
+Or at least that’s what Erick thought someone said in the middle of their awkward lunch. Of sausages. A lunch of sausages. Thanks for that joke, too, Jane!

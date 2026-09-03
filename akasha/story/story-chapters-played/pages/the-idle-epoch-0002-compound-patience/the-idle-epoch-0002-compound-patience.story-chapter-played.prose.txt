@@ -140,3 +140,251 @@ He paused. Recalculated.
 
 2,100 Essence. Give or take. Not enough for a level. Not close. At Level 12, the next level required 2,365 Essence, and he'd burned through most of his previous accumulation on skill investments and construct materials. But 2,100 was a significant chunk of the curve. Three more sessions like this and he'd hit 13.
 
+Slow. Agonizingly slow, by the standards of active grinders who could earn that in a single day of hard combat. But his pace wasn't the point. The *trajectory* was the point. Each session's gains were higher than the last because the system fed itself -- better constructs produced more materials, more materials built better Flux Capacitors, better Flux Capacitors sustained longer sessions, longer sessions stacked more Compound Growth. The slope was steepening.
+
+*And nobody is watching the slope.*
+
+He went back to the Mk.V. The power supply slotted in cleanly. He began wiring the threat assessment module to the crystal matrix, connecting inputs to decision branches, testing each junction with a pulse of Flux from his Multitool.
+
+Hour twenty-six. +26%. He'd finished the wiring harness and started on the outer plating.
+
+Hour thirty. +30%. The Mk.V was 70% complete. He ate the last protein bar -- note to self, buy more -- and drank lukewarm water from his dented thermos.
+
+Hour thirty-four. +34%. The outer plating was in place, scored and unpainted but structurally sound. He ran a full diagnostic through Loop Analysis, watching the construct's systems light up in sequence on the translucent overlay. Power supply: nominal. Flux channels: clear. Script matrix: responsive. Threat assessment: calibrated. Combat housing: sealed.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  MK.V SENTINEL                      │
+│  Status: 75% Complete               │
+│  Combat Rating: Level 12-15 (est.)  │
+│                                     │
+│  Features:                          │
+│  - 5-line conditional scripting     │
+│  - Threat assessment module         │
+│  - 18-hour power supply             │
+│  - Auto-disengage at 30% integrity  │
+│                                     │
+│  Remaining: Final calibration,      │
+│  field testing, combat pattern      │
+│  recording (requires active use)    │
+└─────────────────────────────────────┘
+```
+
+Seventy-five percent. The remaining twenty-five was calibration and field testing -- work that required leaving the anchor radius, deploying the Sentinel in a live zone, and manually running it through combat patterns to record. That would have to wait. He set the Mk.V aside, covered it with a tarp, and settled back into his chair.
+
+Hour thirty-six. +36%.
+
+He was deep in the numbers now, the way he got when the session stretched past thirty hours and the world contracted to the hum of his constructs, the glow of the Compound Growth counter, and the scratching of his pen in the field notebook. Time became elastic. An hour felt like ten minutes or ten hours depending on whether he was calculating or resting, and the boundary between the two blurred until he wasn't sure if he was awake or dreaming about efficiency curves.
+
+The Loop Stabilizer Ring on his finger pulsed warmly, its -5% Flux decay passive keeping the construct threads from fraying at the edges. The Flux Capacitor Mk.III on his wrist thrummed in counterpoint, cycling stored energy into the system to smooth out the peaks and valleys. His equipment was doing what it was built to do. So was he.
+
+Hour thirty-seven. +37%.
+
+Pip flickered.
+
+Not the usual idle shimmer -- a steady, ambient glow that Callum had stopped noticing weeks ago. This was a sharp, staccato pulse. Three flashes in rapid succession, then dark. Then three more.
+
+Callum looked up from his notebook.
+
+The air in the warehouse had changed. A charge -- not electrical, not Flux, something underneath both -- pressed against his skin like static before a thunderstorm. The bioluminescent moss he'd cultivated in jars along the windowsill (Substrate Moss samples from the Overgrowth, kept alive for study) flared bright, then dim, then bright, cycling faster than their normal rhythm.
+
+The compound loop stuttered. Not stopped -- he could feel the threads still running, the constructs still operational -- but stuttered, like a heartbeat skipping a beat before finding its rhythm again.
+
+His System interface flickered.
+
+For an instant -- less than a second -- his standard HUD dissolved into something else. Not the clean lines and bordered boxes of the standard Substrate interface. Something rawer. Lines of data scrolling too fast to read, nested in brackets that folded into themselves, a fractal of information collapsing inward toward a point he couldn't see. Then it was gone, and his normal interface snapped back into place, and a single notification sat in the center of his vision.
+
+```stat-screen
+╔════════════════════════════════════╗
+║                                   ║
+║  OBSERVED.                        ║
+║                                   ║
+╚════════════════════════════════════╝
+```
+
+Callum did not move.
+
+His hands were flat on the armrests of his chair. His breathing was shallow and controlled -- not calm, but managed, the way you manage your breathing when you realize something very large is standing behind you and hasn't decided whether to eat you yet.
+
+The notification hung in his vision for three seconds. Four. Five. Then it folded in on itself like a piece of paper being creased by invisible fingers and vanished. No dismissal prompt. No "tap to close." It simply ceased.
+
+The charge in the air dissipated. The moss samples returned to their normal rhythm. Pip stopped flashing and resumed its baseline flicker, though Callum thought -- imagined, probably -- that the familiar was pressed a little closer to his neck than before.
+
+His Compound Growth counter read +38%.
+
+His Recursion -- the stat he couldn't see on his standard interface but could *feel*, the way you feel the depth of water when you're swimming in the dark -- pulsed. Not changed. Not incremented. Pulsed. Like something had reached into his System link and squeezed the stat to see what would happen.
+
+Then it settled. And it was higher than before.
+
+Callum reached for his field notebook with hands that were not shaking. He would not allow them to shake. He turned to the page where he'd recorded the previous three notifications -- three entries, each one a date, a time, and the single word OBSERVED, written in block capitals. He added a fourth entry below them.
+
+*OBSERVED. Hour 38. Compound Growth +38%. Fourth occurrence. System interface disruption more pronounced than previous instances -- fractal data pattern visible for <1 second. Recursion stat response: immediate pulse, magnitude greater than previous. Subjective impression: something looked at me. Not through the interface. Through the interface at whatever I am on the other side of the interface.*
+
+He underlined the last sentence. Then underlined it again.
+
+*Pattern: always during sustained loops. Always when CG is stacking. Always past 30 hours. Correlation holds. The Substrate is not passively recording my idle output. It is actively monitoring sessions that exceed a duration threshold. What threshold? Why? What does it see when it looks?*
+
+He closed the notebook and set it on the workbench. Stared at the ceiling for a long time.
+
+*If it's watching, it means the output matters. If the output matters to the Substrate itself, then something about what I'm doing is significant to whatever the Substrate is optimizing for. It told us to accumulate. I'm accumulating. And it's checking my work.*
+
+The thought should have been comforting. It wasn't.
+
+He went back to his idle session. The numbers continued climbing. He did not sleep.
+
+---
+
+Hour forty-one. The alarm changed everything.
+
+It started as a low vibration -- not in the warehouse floor, but in the Barrier itself. Callum felt it through his System link before he heard it: a resonant thrum that shivered through the Flux channels in the walls, the constructs, the capacitors, every Substrate-infused object in the building vibrating in sympathetic response.
+
+Then the sirens.
+
+The Detroit Barrier Zone maintained a network of Flux-powered warning horns salvaged from the old emergency broadcast system, mounted on rooftops across the perimeter. When they sounded, it meant one thing: Fracture surge. Monsters pouring from the Detroit Fracture toward the Barrier. All hands to the perimeter.
+
+Callum was on his feet before the first horn finished its opening wail. His anchor shattered.
+
+```stat-screen
+══════════════════════════════════
+  COMPOUND GROWTH — INTERRUPTED
+  Session Duration: 41:17:33
+  Peak Bonus: +38%
+  Status: RESET TO 0%
+
+  Accumulated gains preserved.
+  Bonus multiplier lost.
+══════════════════════════════════
+```
+
+Thirty-eight percent. Forty-one hours of stacking, gone in the three steps between his chair and the door.
+
+*File it. Process later.*
+
+He grabbed his thermos -- empty, useless, but his hands needed to hold something -- and climbed the external fire escape to the warehouse roof. The Foundry District spread out below him: blocks of repurposed factories and warehouses, most dark, a few lit by the blue-white glow of active construct arrays. Beyond them, the Barrier shimmered like heat haze, a dome of stabilized Flux energy that enclosed the city in a fragile shell of safety.
+
+And beyond the Barrier, the Detroit Fracture was bleeding.
+
+Callum had seen surges before. Small ones -- a dozen monsters spilling from the Fracture at Michigan Central Station, quickly contained by the rotating defense squads. This was not a small one. Even from eight miles away, he could see the Fracture's glow -- a sick, pulsing violet that strobed against the predawn clouds. The monsters came in waves, silhouettes against the light, shapes that didn't map cleanly onto any natural biology. Crystal-plated quadrupeds. Elongated bipedal forms that moved like water. Things with too many joints and not enough logic.
+
+They surged toward the Barrier in a tide. And the Iron Vanguard met them.
+
+Callum couldn't hear the fighting at this distance, but he could see it through Loop Sight -- his Loopweaver ability that visualized automation processes and, incidentally, showed him the Flux patterns of active combat. The Vanguard fighters were bright knots of focused energy, each one a controlled explosion of skill activation and Flux expenditure, moving in coordinated patterns that spoke to months of drilled teamwork. They held the line in a crescent formation just inside the Barrier's outer edge, where the defensive field weakened the monsters and the fighters finished them off.
+
+At the center of the crescent, one figure burned brighter than the rest.
+
+Drake Morrison.
+
+Callum had never met the man. Had never spoken to him, never stood in the same room, never exchanged so much as a nod across the Exchange. But everyone in the Detroit Barrier Zone knew Drake Morrison by sight, the way everyone in a medieval village knew the lord. He was the largest combatant on the field -- not just tall but *dense*, a wall of custom armor and hard-earned muscle that moved with the confidence of a man who had never met a problem that didn't break when he hit it hard enough.
+
+His greatsword -- Vanguard's Resolve, the best weapon in Detroit if the rumors were accurate -- carved through the monster wave in sweeping arcs that left trails of dissipating Flux in the air. Each swing killed something. Some swings killed two or three things. The monsters that survived the blade died to the Rally Presence that radiated from his armor, a damage-boosting aura that turned every Vanguard fighter within twenty meters into a more effective version of themselves.
+
+*Level 42*, Callum's mind supplied automatically. *Champion class. STR 98. HP over 1,300. Physical Attack 245 plus that sword's base. He's killing things that would end me in a single hit, and he's doing it the way I breathe -- without thinking about it.*
+
+Drake drove forward into the densest part of the surge, his squad closing behind him. A crystal quadruped the size of a pickup truck lunged at his flank. Drake pivoted -- faster than a man that size should be able to move, AGI 52 doing work -- and brought the greatsword down in a vertical cleave that split the creature from skull to sternum. It collapsed in two halves that dissolved into Essence particles before they hit the ground.
+
+The Vanguard held. The Barrier held. The surge broke against them like a wave against a breakwater, the remaining monsters scattering, thinning, dying in ones and twos as the fighters ran them down. Twenty minutes from the first siren to the last kill. Efficient, by active-combat standards.
+
+Callum watched it all from his rooftop, hands wrapped around an empty thermos, and did the math.
+
+*That surge was stronger than the last one. The last one was stronger than the one before. I've been tracking the interval: fourteen days average between major surges, down from twenty-one at the start of the month. The monster levels are creeping up -- I saw at least three targets in the 45-50 range tonight, and three months ago the surges maxed at 40.*
+
+He pulled his notebook from his coveralls and wrote, by the light of the Barrier's glow:
+
+*Surge frequency: accelerating. Surge intensity: escalating. Barrier Flux cost per defense event: rising proportionally. Detroit Barrier Zone Flux income: roughly flat (guild farming output has plateaued as high-level grinders hit the XP wall).*
+
+He stared at the numbers for a long time.
+
+*At current rates: Flux defense costs will exceed zone Flux income in approximately four months. At that point, the Barrier begins degrading. Each subsequent surge drains reserves further. Cascading failure timeline: 5-6 months if nothing changes.*
+
+He looked up at the Fracture's fading glow, then back down at his notebook.
+
+*Drake Morrison is the strongest person in Detroit. Level 42. Approaching the soft cap at 50, where XP gains drop by 80%. Even if he grinds at maximum possible efficiency for the next four months, he might reach 46, maybe 47. His power scales linearly. The Fracture does not.*
+
+He wrote the next line slowly, pressing hard enough that the pen scored the page beneath.
+
+*Nobody currently alive in this zone can solve this problem through active combat alone. The math does not support it. Linear scaling cannot outpace exponential escalation.*
+
+He closed the notebook.
+
+The night air was cold. The Barrier hummed around the city, doing its job, burning Flux it couldn't afford to burn. Somewhere below, Drake Morrison was probably already organizing the post-surge cleanup, assigning patrols, accounting for injuries, doing the hundred small things that kept 180,000 people alive behind a glowing wall of borrowed time.
+
+Callum respected that. Genuinely. Drake Morrison was doing the hardest possible version of a necessary job, and doing it well, and it wasn't going to be enough.
+
+*The only thing that might scale fast enough is what I'm building.*
+
+The thought didn't make him feel powerful. It made him feel the way he'd felt in the hydraulic press enclosure on Day One -- small, and aware of something enormous moving around him in the dark, and absolutely certain that he could not afford to stop doing the only thing he knew how to do.
+
+---
+
+He climbed back down to the warehouse. The constructs were still running -- the surge hadn't touched the Foundry District, and his loop threads had continued through the alarm. The Essence and materials had kept accumulating. The Mk.IV Grinder had kept killing slimes. The Scrap Collector had kept harvesting. The Refinery had kept processing.
+
+But the Compound Growth bonus was gone. Zero percent. Forty-one hours of careful stacking erased.
+
+Callum sat in his chair and looked at the numbers.
+
+```stat-screen
+╔════════════════════════════════════════════════╗
+║  IDLE SESSION REPORT — 41 Hours (Interrupted) ║
+║                                               ║
+║  Essence Gained:       2,137                  ║
+║  Flux Generated:       1,498                  ║
+║  Kills:                 103                   ║
+║  Materials Collected:    87                   ║
+║  Construct Efficiency:  95.4%                 ║
+║  Peak Compound Growth: +38%                   ║
+║  Current Compound Growth: +0%                 ║
+║  Loop Stability:       STABLE                 ║
+║                                               ║
+║  Session terminated by operator movement.     ║
+╚════════════════════════════════════════════════╝
+```
+
+2,137 Essence. 103 kills. 87 materials. The session had been on track to be his most productive ever before the surge killed the bonus. He calculated the lost output with clinical precision -- the remaining seven hours at escalating Compound Growth rates would have yielded an additional 490 Essence and pushed the total past 2,600. Instead, he was sitting at 2,137, and any new session would start from zero.
+
+He wrote the numbers in his notebook. Filed them under "acceptable cost."
+
+*It is an acceptable cost. The Barrier needed to hold. The Barrier held. The alternative was not acceptable.*
+
+But the notebook stayed open on his lap, and his pen hovered over the page, and after a long moment he added one more line:
+
+*Drake Morrison: Level 42. Approaching soft cap. Strongest fighter in Detroit. Watched him kill a crystal quadruped in one swing. Impressive. Genuinely impressive. And the math says he is not going to be strong enough in four months. Nobody will be. Not at linear rates.*
+
+He stared at what he'd written.
+
+*The curve is the only thing that matters. Active players hit walls. Idle accumulation does not. Prestige multipliers compound. Recursion multiplies. Compound Growth stacks. Every piece feeds every other piece. The system I'm building is the only architecture in this zone that can keep pace with exponential escalation.*
+
+*If it works.*
+
+*If the Substrate keeps rewarding what I'm doing instead of punishing it.*
+
+*If the next OBSERVED notification is observation and not a targeting lock.*
+
+He closed the notebook. Set his pen down. Looked at the Mk.V Sentinel under its tarp, 75% complete, almost ready to push into higher-level zones and accelerate the entire loop.
+
+He reactivated Compound Growth.
+
+```stat-screen
+╔════════════════════════════════════════════╗
+║  COMPOUND GROWTH — SESSION INITIATED      ║
+║                                           ║
+║  Current Bonus: +0%                       ║
+║  Session Duration: 00:00:00               ║
+║  Status: ACCUMULATING                     ║
+╚════════════════════════════════════════════╝
+```
+
+Zero percent. Starting over.
+
+Pip flickered on his shoulder -- softer now, almost subdued. Callum reached up and touched the cursor-entity with one finger. It was warm, the way Flux always was, a gentle heat that pulsed in time with his heartbeat.
+
+"Same thing tomorrow," he said quietly. "And the day after. And the day after that."
+
+Pip pulsed once. Callum chose to interpret it as agreement.
+
+Outside, the first light of dawn crept across the Barrier Zone. The surge was over. The monsters were dead. The Barrier was holding. The interval between crises was shrinking. The math was not in anyone's favor.
+
+But the loop was running. The numbers were climbing. And somewhere in the architecture of the Substrate, something had looked at Callum Voss and found him interesting enough to watch.
+
+He wasn't sure yet whether that was the best thing that had ever happened to him, or the worst.
+
+The counter ticked to +1%.

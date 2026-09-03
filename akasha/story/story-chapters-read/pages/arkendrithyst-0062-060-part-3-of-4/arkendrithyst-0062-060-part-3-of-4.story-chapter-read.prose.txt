@@ -176,3 +176,130 @@ Mana Altering: Ice.
 
 A spike of white ice shot from Erick’s finger and struck the target in the very center. It shattered to a layer of cold, maybe a hand across, in the center of the target; like Erick had tossed a snowball at the stone pillar.
 
+The effect was rather unimpressive. The Script likely agreed, as no spell had been created. Erick wasn’t really trying, anyway, so this much was expected.
+
+Erick channeled mana through [Force Bolt], producing an even hum, like the unheard, unfelt background noise of the universe, heightened to the barest whisper.
+
+Mana Altering for Ice was a bit tougher. Flowing mana through that skill produced a cacophony of noise and feeling; a chill flame, zapping across his skin, leaving mush in its wake and numbness everywhere. Not actually, though. That’s just what it felt like. The flare of white produced by the skill was similarly chaotic.
+
+Erick channeled mana through Mana Altering, focusing on narrowing to just the ‘ice’ portion of the skill. His mana vibrated through cold and heat, through light and lightning, but he kept at it. Success came all at once. The race to absolute zero. The heat death of the universe. An end to light, to dark, to everything. The chill touch of not the grave, but of the end. Erick felt his arms go numb, like he had been out on a cold day for too long, and it was too late to make it back inside.
+
+Erick pulled back from that feeling, releasing the flare of cold mana from his hand. He wrapped his arms around his shoulders, rubbing his arms through his tunic, trying to warm himself. The sun beat down, hard and strong, helping to chase away the cold. Erick stood there, in the light, happy to feel the warmth of that sun upon his skin.
+
+After a moment, he resumed his experiment.
+
+This time, he envisioned that emotional cold, like a spike of frost, so dense and compacted by time and gravity, that it was clear and blue; all the air squeezed out. A chip of a cold eternity, broken off from the whole and sent flying—
+
+Mana Altering: Ice
+
+[Force Bolt].
+
+A spike of blue crinkled the air, milliseconds before it launched from the space in front of Erick’s finger. The spike hit the target, impacting into the stone, sending a wild crack up through the target. A blue box appeared.
+
+Ice Spike, instant, long range, 22 MP
+
+A bolt of pure ice unerringly strikes a target for 55 + WIL
+
+Erick searched the Script for ‘ice spike’.
+
+Ice Spike, instant, long range, 20 MP
+
+A bolt of pure ice strikes for 50 + WIL
+
+Erick turned to Kiri, saying, “My [Ice Spike] does 55 plus Willpower for damage, for two more mana than the original. And it kept the ‘unerringly’ portion.”
+
+Kiri laughed, small and happy, as she narrowed her eyes, saying, “That’s great? Wow. Uh? Really? Ah. Keep going.”
+
+Erick turned back toward the target.
+
+He didn’t want to seem like an asshole when Kiri had brought this up as a problem, so he did not directly counter her thoughts, at that moment. But now, he would. There was a duality to almost everything, and ice and fire were no exception. Erick knew this, for sure, especially after what he had felt as he channeled Mana Altering.
+
+Erick did not want to go this big, but started off with imagining the Big Bang. That cosmic beginning to everything, that spewed out creation; that would end in cold death.
+
+He channeled mana through Mana Altering’s Fire, and felt the never ending heat of that primordial explosion; a ripping tear in reality that sent forth everything else. A burning, consuming conflagration, a soup of particles so densely packed, that they had nowhere to go but out.
+
+Erick pointed at the target. He lined up his spells, and he cast.
+
+A rocket of ice, a meter long and almost black it was so blue, launched from his hand, ripping into the stone target, shattering it completely before continuing on to strike the land beyond. A dull thunk reverberated through the soil, sending up a plume of sand into the air. All around, the glow bugs of the crystal agave dimmed, while the brown worms that usually lifted up from the soil here and there, vanished underground; loud noises always made them retreat.
+
+Glacial Crash, instant, long range, 55 MP
+
+A shard of pure ice strikes a target for 200 + 2x WIL
+
+He looked up [Glacial Spike].
+
+Glacial Spike, instant, long range, 50 MP
+
+A shard of ice strikes a target for 90 + WIL
+
+“Huh,” Kiri said. “That shouldn’t have happened. It should not have been that easy.”
+
+Erick stepped toward her, handing out copies of his spell. Jane took a look, but didn’t seem to care overmuch. Poi politely declined.
+
+Kiri said, “It costs more. But the damage is a lot more, too.”
+
+Erick said, “It lost the ‘unerring’, this time.”
+
+“That you kept ‘unerring’ into [Ice Spike] was surprise enough.” Kiri dismissed the spell, saying, “Your [Glacial Crash] is a variant, and a great stepping stone to the other, deeper ice magics, than [Glacial Spike]. You want very simple spells with large numbers when making higher tier spells. The more lines of text you get, the harder it is to make the next tier.”
+
+“What’s the top tier ice magic?”
+
+“[Iceberg] is the big ice spell. Tier 8. There are a few ways to get there, but I only know half the steps. This [Glacial Crash] is tier 3, and a good start along that journey.” Kiri shook her head, saying, “But— I still don’t understand. How did you make a directly contradictory spell combine correctly at all, without knowing the formulas?”
+
+Erick said, “I had a very good foundation for this specific idea. Do you have another test?”
+
+“Uh.” Kiri thought for a moment. “Besides the [Prismatic Ward] of all the shaping spells and [Ward] together?… Uh. Hmm. Oh. No...”
+
+“If it helps, I was really bad at making Ophiel.” Erick added, “Though, I think that was only because I failed to grasp the many nuances of what I was trying to do.”
+
+Kiri paused. She looked to Erick. She lowered her gaze, and said, “If it works, it works. I am the student, here, and I accidentally forgot that fact.” She lifted her head. “Thank you, Archmage. But if I could ask…” Her words seemed to stick in her mouth. “What emotion did you use for this?”
+
+Erick began, “Let me tell you of the Big Bang, and of the endless march to Entropy.”
+
+Jane smirked.
+
+Erick said, “It all began with the Big Bang; a spot of immense energy at the beginning of everything that exploded out and made the universe. No one knows what came before, though some believe that the spot of energy that would explode into the universe was the result of the death and gravity-combination of the previous universe, into that spot of energy. Some believe that the universe is cyclical. Others, and me included, believe that the universe started with a bang, and it will continue on into infinity, and when the spaces between what is, and what isn't, gets too large, it will all rip apart.”
+
+Kiri paled.
+
+Erick said, “And then another spot of energy will form, creating another Big Bang, and a whole new universe, completely unlike what came before.” Erick continued, “That’s what I imagined when I cast that [Glacial Crash]. A spot of deep, endless cold, propelled into infinity by a strong starting explosion.” Erick said, “The emotions were tied into all that.” He flared some mana through Mana Altering for Ice, then for Fire, producing a chill white light, and then a flickering, snapping glow, saying, “Cold and hot go together very well.”
+
+Poi smirked, looking off in the distance. Jane rolled her eyes a bit, but not a lot.
+
+Kiri shivered in the sun, saying, “That’s the most frightening thing I’ve ever heard.”
+
+Jane burst a sudden laugh. “What? You have Shades and wyrms right next door— You were there for Yetta’s trip through the Dead City! And yet the Big Bang scares you?”
+
+“To know the universe could… could rip apart at any moment!” Kiri said, “Yes. This is terrifying.”
+
+Jane said, “Veird’s universe already ended though, according to your own history.”
+
+“Yes!” Kiri said, “And it’s fucking terrifying to consider that this universe could end, too!”
+
+Jane said, “The chances of that happening in your lifetime are zero. Not gonna happen. Besides! Magic doesn’t even extend past the moons, and it's too thin to be worked out past the atmosphere of Veird. So nothing that happens here is going to Sunder that universe out there.” Jane said, “If Veird got transported to my universe, or if I got transported to where ever your planet ended up, I’ll never know. But if this universe is anything like my old one, you do not have to worry about the universe ripping apart. It’s literally never going to happen in our puny mortal lifetimes.”
+
+Erick added, “I agree. Estimates for the age of our old universe were… what? 14 billion years old?”
+
+Jane said, “13-point-8 billion years.”
+
+“Close enough,” Erick said.
+
+Kiri, with a pale green face, declared, “That’s enough magic for me for today, please.”
+
+Erick looked to Kiri, asking, “Are you okay?”
+
+“… I will be.” Kiri shook a little, but stood strong, saying, “I will. Thank you for your concern.”
+
+Erick narrowed his eyes, but said, “Okay. I have monsters to hunt and skills to level, anyway. I’m working on [Hunter’s Instincts], next.”
+
+Kiri regained some color to her face, saying, “This is a good ability. You should consider [Precision]. [Hunter’s Instincts] is 10 HP per second.”
+
+“I got a long way to go.” Erick said, “Maybe I will, maybe not. Ophiel is going to be the one to use it, anyway, and he can’t use my skills. And speaking of which, you’ve just reminded me that I have to test their ability to search for what I want them to search for.”
+
+Erick opened his arms and poured mana into the summoning of four new Ophiel. The air filled with the sounds of violins, as a hundred white wings pulled apart into four new Ophiel, each with dozens of white eyes blinking open over all of their feathered bodies. He imbued them with [Ultrasight], to help them see from high above. Two of them immediately burned mana to use their new ability; their eyes taking on a brilliant white sheen, as they gazed out across the sands, and at Erick. Then Erick gave them a mental push, into the air, to search for large discrepancies among the Crystal Forest. Something larger than an agave.
+
+They rocketed into the air, each headed a different direction.
+
+Erick said, “I have no idea if they even know what I’m asking, but I'll find out. We can go back to town, though.”
+
+“Right…” Kiri looked off into the distance, and shivered again, saying, “Right.”

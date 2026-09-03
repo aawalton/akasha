@@ -177,3 +177,93 @@ He went on.
 
 The Still Garden:
 
+He had heard it described four times by people who had reached it and come back — one of them had come back twice, which told him something about the kind of person who goes twice. The accounts agreed on: luminous crystal growths, silence so complete it had a texture, cold, and a creature that waited.
+
+The creature had been described as large and crystal-bodied and very still. One man had described it as *the most patient thing I have ever seen.* He had said this with something like admiration.
+
+Fennick entered the Still Garden and the creature was at the far end of a row of crystal growths, visible immediately. He had expected it to be harder to see. It was not hard to see. It was simply very still.
+
+```stat-screen
+DEPTH 3 REACHED: THE STILL GARDEN
+
+RESOLVE: +1
+Current Resolve: 31
+```
+
+He stood at the entrance to the Still Garden for a moment, orienting. He noted the weapons near the eastern wall — a sword, a spear. No knife. He noted the crystals, their spacing, the ratio he didn't have the vocabulary to name. He noted the creature at the far end of the row.
+
+He had been watching things for ninety-four days. He had gotten good at watching. He watched the creature and the creature watched him and neither of them moved.
+
+After a while he began to look for Davin.
+
+He used the Gift: he closed his eyes and replayed the morning of Death #4 as he understood it — reconstructed from accounts, not observed directly, so Testimony could not replay it with fidelity; what he got instead was the absence of the memory, the shape of the gap where the direct observation would have been. He had known, at some level, that this was how it would work. You can only replay what you saw.
+
+He had not seen his son enter. He had not been here.
+
+He opened his eyes.
+
+The crystal growths were very beautiful. He had not let himself think that before — he had been oriented, noting weapons and spacing and exits — but he thought it now, standing in the Still Garden with the absence of his son still in his hands. Someone, once, before any of this, had thought it worthwhile to grow something beautiful in the dark.
+
+The creature had moved.
+
+He had twelve meters of crystal garden between himself and the nearest wall, and the creature was no longer at the far end of the row. He registered this in the way that people register information they already knew was coming — not surprise, exactly, but the particular quality of a thing that has been approaching for a long time finally arriving. He had been told. He had been sitting by the fire for ninety-four days, listening to accounts, and someone had specifically said: *it moves when you're not watching it.* He had filed this information. He had not fully understood, until now, what not watching meant.
+
+He had closed his eyes.
+
+He reached for his pack and the creature was simply there, and he was not.
+
+```stat-screen
+DEATH REPORT — ENTRANT: FENNICK RALL
+DESIGNATION: THE WITNESS
+DEPTH REACHED: 3 (STILL GARDEN)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 14 -> 0
+Resolve ............... 29 -> 31 (+1 Depth 2, +1 Depth 3)
+Attunement ............ 11 -> 13 (+2 Testimony activations)
+Fortune ............... 16
+
+GIFT ATTUNEMENT AT DEATH: 13 (+2 from 2 activations)
+
+CAUSE OF DEATH: Creature. Patient.
+Note: Entrant was in Testimony (eyes closed, replaying absent memory) at time of attack.
+Cost (Absence) was active. Entrant did not perceive approach.
+
+MEMORY CRYSTAL: Bronze.
+Quality: patience. The specific quality of waiting for something without knowing if it will come.
+Warning: Consumption will produce, temporarily, the sensation of a vigil — long, purposeful, and without resolution. Some who consume this crystal do not find it painful. Some cannot stop.
+
+FLOOR MUTATION: None.
+Note: Entrant left no permanent changes to dungeon architecture.
+
+DESIGNATION OUTCOME: WITNESS COMPLETE
+Time at entrance camp prior to entry: 94 days.
+Entry type: voluntary, deliberate, non-Compelled.
+Note: First non-Compelled voluntary entrant in the registry.
+The Maw did not bring him here.
+```
+
+The Ledger recorded the death.
+
+It had not brought Fennick Rall here. This was unusual enough to note. Every entrant before him had arrived via Compulsion — the Maw's reach, extending outward, finding a desire and amplifying or manufacturing it, reeling the line in. Fennick Rall had sat at the camp for ninety-four days and then stood up and walked in under his own power, driven by something the Maw had not installed.
+
+The Ledger classified this as a new category: Voluntary Entrant (Non-Compelled). It noted that Fennick's desire — *to find his son* — had been present and accessible when the Asking arrived, which meant the desire was real. It also noted that the desire was pointed at something the dungeon could not give him: his son was not in the dungeon. His son's body was not in the dungeon. His son had entered on the morning of Death #4 and was now part of the dungeon in the way that all the deaths were part of the dungeon, which was not the same as being findable.
+
+The Maw noted, without assessment, that the Testimony Gift had shown Fennick the absence of his son rather than his son. He had closed his eyes to find Davin and found instead the shape of not having been there. This was, the Ledger recorded, accurate. Fennick Rall had not been present when his son died. The Gift had been truthful.
+
+The Patient settled back into its position among the crystal growths.
+
+Its kill count was now four: Lira, Sera Vant, Sylas Renn, Fennick Rall. The Ledger updated the record. No new name was assigned — the Patient had been named at three kills and the naming threshold was three. It remained The Patient.
+
+At the entrance camp, the fire was still burning. The ledger-keeper opened his book and made a new entry: *Fennick Rall, entered this morning, not returned.* He noted in the margin: *had been at camp for approx. 3 months prior. Knew the entrance better than most.*
+
+The blank cloth for map additions had Fennick's name — Petra had written it there, in small letters, after he had helped her understand the military notation in Orvyn's journal description: *Rall helped me read the pattern. Thanks, F.R.* No one else had added anything.
+
+The death tally turned.
+
+*989 remain.*
+
+---
+
+*FENNICK RALL — DEPTH 3 — FIRST TO CHOOSE*

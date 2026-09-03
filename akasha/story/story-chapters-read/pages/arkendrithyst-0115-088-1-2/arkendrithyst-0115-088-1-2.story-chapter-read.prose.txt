@@ -142,3 +142,230 @@ He had not picked up Particulate Force, because that would only be useful when E
 
 … Now, if he spent his last Favored Spell on [Prismatic Ward], that would increase its absorption to almost 300,000 points of damage.
 
+The only reason Erick didn’t do that, was because [Ward Destruction] existed. Most [Ward]s could only be [Dispel]ed by spending the same mana against them as the damage that they could soak. But Opal, and likely every other person who Erick actually had to worry about, could spend a few hundred mana and pop any [Ward] at all.
+
+… Erick really needed to get in contact with Opal. She had offered to teach him [Ward Destruction] way back when he taught that particle magic class at Oceanside for the other archmages. Erick hadn’t followed up because it didn’t seem necessary. But maybe it was time to follow up on that promise.
+
+Besides! He needed to be able to coordinate with the archmages of Spur when the Shades finally came knocking.
+
+… Maybe it was time to follow up on all his bargains of trade gained from that lecture.
+
+- - - -
+
+Back home, over dinner, while everyone dug into their own portions of a chicken and rice, paella-like meal, and gathered for the first time in the day, Erick asked, “So it’s really true that no one is going to do anything against Candlepoint, unless the war is knocking down the front gates? Does that seem like what you’ve seen, too?”
+
+Teressa said, “Being too proactive with Shades is a bad idea. They tend to get interested in people who do that.”
+
+Poi said, “I’m sure that the Shades will fall to infighting soon enough.”
+
+Erick quizzically looked at his head guard, and asked, “Are you forbidden from speaking about what you overhear in the minds of Shades, too?”
+
+“Of course not!” Poi smirked. “But I can’t get a read on them, anyway. So the point is moot.” He said, “What I can say, is what I know of history regarding the Shades, and what I’ve seen in my time in Ar’Kendrithyst.” He added, “And based on that: They’ll fall to infighting soon enough.”
+
+Erick frowned.
+
+Kiri hummed, looking less than pleased at Erick, as her fork pierced a hunk of red chicken. She said, “No one is eager to wage a war against 30 archmages.” She added, “It’s basically death for whoever makes the first overt move, and if not for the person in charge, then for everyone else under them. Fighting a war without knowing if winning is possible is one of the most foolish things a person can do.”
+
+“I guess… that is true.”
+
+Teressa said, “If they have no target, and all they can do is pretend to play nice, then they will fall to infighting, soon enough, like Poi said. That, or they’ll start a real war.” She added, “It might take a year, though.”
+
+Erick felt a chill. “… That could be true, too.” He said, “Shit. I have to do something, though.” He asked, “Would it be a horrible idea to visit Candlepoint?”
+
+Kiri and Teressa’s objections jumbled, as one said, “Hell and Heaven, bad idea!” and the other said, “Gods forfend this evil thought.”
+
+“Bah!” He added, “It’s not like I’m going to start the war.”
+
+Kiri didn’t look so sure. Teressa, wide-eyed, stared at her paella, as she poked it with her fork.
+
+Poi said, “Other archmages have already gone, but with their [Familiar]s.”
+
+Kiri exclaimed, “What!”
+
+Poi shrugged. “Scouting with a disposable [Familiar] is a perfectly acceptable risk.” He added, “Candlepoint has made a point of welcoming archmage [Familiar]s like they’re people, too. Normal [Familiar]s get [Dispel]ed on sight, though.”
+
+Kiri grumbled a discontented hum.
+
+Erick decided, “Then Ophiel can visit Candlepoint.”
+
+Ophiel, sitting upon Erick’s shoulder, hummed in unsure flutes.
+
+Erick said, “Ah. But. Not yet. I need to contact Opal to see about learning that [Ward Destruction] spell she showed off when we were fighting against the Queen Daydropper. Poi? I imagine you know how to contact her?”
+
+Poi nodded. “Understood.” He glanced to the air, then said, “Tomorrow morning? Or in two hours.”
+
+Erick smiled. “In two hours, please. Tomorrow and the next day are platinum rain days.”
+
+“Then she wishes you to recast your [Prismatic Ward] to allow her a space to bring her [Familiar] into the house.”
+
+“Upstairs, third floor. Large room.”
+
+Poi nodded, listening to the air. “Accepted.”
+
+- - - -
+
+Erick read ‘The Compendium of Summons’ while he waited in the third floor, open room. Without the dense air of his [Prismatic Ward] in the space, it felt like he was outside; exposed and vulnerable to the whims of fate and Shades. He didn’t get far in the book before the air glimmered with Opal’s arrival.
+
+“Erick,” said the rainbow orb of a white pearl. “Good to see you.”
+
+Erick stood up, and set his book aside, as he said, “Hello, Archmage Opal.”
+
+“Please, let’s drop some of the formalities. ‘Opal’ is fine.”
+
+Erick smiled. “Opal, then.”
+
+“So you wish to learn [Ward Destruction]?”
+
+Erick nodded. “In addition to knowing how to coordinate better with you when it comes to defense of the city.”
+
+“I appreciated your [Reflection] during the Red Dot. Saved me a lot of direct damage from that attack.” Opal said, “If my shield had failed, my secondary defenses would have been a series of [Force Wall] like effects, meant to funnel the fire upwards, instead of letting it raze across Spur.”
+
+“How close did we come to destruction?”
+
+“As close as usual, but there’s no way to really know how close we came without more testing, and the same attack almost never comes a second time.” Opal said, “But that [Reflection] of yours was remarkable. If you don’t mind, I would like to know how it was done, after I give you what I came here to give you, of course.”
+
+“Sure.” Erick said, “I can agree to that. Though it’s probably just as complicated as whatever you have to show me.” He added, “I’d also like to know if you have any tips for creating a tier three spell more than 75% below expected costs.”
+
+“Ah. The Spell Cost Reduction Quest? If everything goes well, then you’ll get that done on the way to [Ward Destruction].” She said, “The spell is actually a tier five or six, depending on how far you wish to go with the working.”
+
+Erick smiled.
+
+Opal’s opalescent orb turned to the left and conjured a black granite slab, three meters wide and as tall as the ceiling, joined to the rock of the room with friction and precise measurements that forbid it from falling. It was almost blackboard, but considerably more primitive. Another conjuring brought a piece of chalk, the size of a dagger, out of the air and into Opal’s telekinetic control. She began writing out math and angles and formulae, as Erick watched, and winced. Math. Always with the math.
+
+With precise, practiced strokes, she did not take long to complete her writing. Soon enough, most of the black stone was written upon.
+
+Opal turned to Erick, and said, “That is the entire spell combination and linkage for [Ward Destruction], but I can speak it simpler, if you wish.”
+
+“Please. Yes. I am not great with the math side of magic.” Erick said, “Please start at the beginning.”
+
+Opal bobbed in the air, then said, “Most people believe [Ward] was actually the first magic created, since practically all subsequent magic is at least partially based in an understanding and application of [Ward]. [Ward], at its most fundamental, is about taking a space, and influencing that space with an intent. [Ward Destruction] is about erasing that intent, but not directly erasing that intent. Directly erasing intent is the work of [Dispel], which is thought to be the second spell ever created.
+
+“Directly attacking [Ward] with [Dispel] requires that you tear down the entire structure, all at once, for that is how magic works under the Script. I’ve heard it was different in the Old Cosmology, but not these days. This means that you cannot cast a 500 point [Dispel] against a 1000 point [Ward] and expect anything to happen unless—” She interrupted herself, “We’re not going to discuss mana costs with Clarity and other minor numbers. That is a level of complication that is unneeded for the main discussion. But we can give some of that complexity a nod, right now: In the given case, both practitioners, the Mage with Clarity, and the Dispeller with Clarity and Favored Spell on [Dispel], would see that 500 point [Dispel] work against the 1000 point [Ward].” She said, “A thousand mana spent on a [Ward] produces a 2000 point [Ward], but 500 mana multiplied by 4 would destroy a 2000 point [Ward]. And that’s enough of that.
+
+“[Ward Destruction], is all about finding the intent cast into the opposing [Ward] and manipulating that intent until the entire structure fails. What we are doing, is essentially getting on the same metaphysical level as the caster of the [Ward], and giving the [Ward] the command to automatically collapse on itself, as though we are the caster ending their own spell. We find that intent, by this organization of magic:” She conjured another, smaller black wall, and began writing.
+
+Erick’s eyes went wide. So that’s what [Ward Destruction] was! Cheating the spell into collapsing in on itself!
+
+As she wrote the spell combinations, she said, “I can tell that you think this is amazing, and your next question is probably how can you apply this thought in other ways. Good luck to you; I’ve applied this idea against thousands and thousands of different spells, and mostly, I just get a better, situationally useful [Dispel]. But against [Ward], for whatever reason, the application of this idea works wonders.”
+
+Erick read the board, a little calmer than a moment before, as Opal finished writing.
+
+[Force Bolt] 5 MP + [Force Wave] 25 MP + [Detect Magic] 10 MP = [Intent Understanding] 10 MP
+
+[Intent Understanding] 10 MP + [Dispel] 11 MP = [Intent Fracture] 10 MP
+
+[Intent Fracture] 10 MP + Mana Shaping, 500 MP = [Intent Dispersal] 250 MP
+
+[Intent Dispersal] 250 MP + [Ward] 50 MP = [Ward Destruction] 100 MP
+
+Erick asked, “100 mana? That’s it?”
+
+“That’s it!” Opal’s orb seemed to smile. “[Ward Destruction] is like using the key already primed into the lock of the opposing [Ward], and since you’re dealing with intent only, not true magic, it can get pretty cheap. It’s entirely possible that you could get an even lower cost than that.” She said, “I had one student, years and years ago, whose [Ward Destruction] cost 60 mana.” She asked, “Any questions?”
+
+Erick asked, “Can you explain a bit more? Step by step?”
+
+“Of course!” Opal bobbed, as she said, “[Intent Understanding] is probably the easiest spell to get right, but it is a large hurdle for some, and if you fail that step, then you can try again once every day until you get it right. What you’re trying to do is align your own magic so it would appear to originate from the caster of whatever magic you’ve targeted. Anything else put into this spell means that you’ve failed this step.
+
+“[Intent Fracture] is rather complicated. This is the beginning of the ‘canceling’ phenomena that any mage experiences each time they cancel their own magic. You might need to conjure and cancel your own magic for a few hundred times to achieve an understanding of what’s happening, there.
+
+“You can actually use [Intent Fracture] to automatically cancel most any spell of minor or small size, or under 50 mana cost.
+
+“[Intent Dispersal] is difficult to get right. Where Fracture is like a chink in the armor of the canceling of a spell, and is large enough to fully cancel most minor magics, Dispersal is taking that cancel order and imbuing it across a much large area, like a cascade of Fractures… sort of.
+
+“Think of an enemy [Ward] like a house supported by a hundred pillars; if you don’t knock out every single one of those pillars, then you’re not knocking down the house. But if you knock the pillars just right, then you can have your tiny knock cascade down the length of pillars, and break every one at the same time.
+
+“Anywho: The final step of [Ward Destruction] is taking Dispersal and attuning it to the entirety of [Ward]. And I mean the entirety of [Ward]. Each and every part. Easy to say, hard to do.” Opal’s orb bobbed across the two slabs of black rocks, asking, “Do you have any questions?”
+
+Erick certainly had at least one. He asked, “Is this ‘canceling’ anything like how a Shade prevents [Teleport]?”
+
+Opal chuckled. “Maybe. Or maybe not. I’ve tried to understand the Shade’s [Teleport Lock] for a long, long time, and have yet to crack that combo. If you manage to do so, I’d dearly love to know how.” She said, “But back to [Ward Destruction]. Mine costs 78 mana, which is a ways away from the expected cost of about 575 mana. If yours is anywhere near 500, then I’d keep it, and move on to another project. Took me years before I was comfortable enough with my [Intent Dispersal] to finally go for [Ward Destruction]. If you manage to make a good [Intent Dispersal], I’d hold onto that until you, too, get a good amount of experience breaking magic, before you try for [Ward Destruction].
+
+“But if you wish to combine something much easier for your Spell Cost Quest, there’s always Force spells. Those can combine rather easily into something cheaper than the outcome, if you’ve a mind for it. I can’t really help you there, though. It’s only tier 3, though. That’s nothing. You can do that a hundred hundred different ways by simply focusing on the intent of your magic, instead of on the outcome.”
+
+Erick smiled. “That’s fine. This has been a big help.” He asked, “Now for my part?”
+
+“Please. No need for the diagrams or whatnot. Just the basic framework. I’ll come back with questions, if I have them, if you don’t mind. And you can do the same.”
+
+Erick smiled. “Sure.” He said, “The [Reflection] that I used on the Red Dot was [Ward] and [Rebound], but done up with a Particulate understanding of mana, and the notion that magic is inherently unknowable, and possibly an energy at the same time it is a particle.” He brought out the box for [Pure Reflection Ward], and showed it to Opal’s orb, saying, “There’s also the notion of the physics of light and the use of the harmonies that exist between [Rebound] and [Ward] to make them attune to each other better.”
+
+Pure Reflection Ward, instant, Personal Ward, 10 mana per second
+
+Reflect spells cast upon you.
+
+Opal read the blue box, then said, “That’s a lot packed into a tier two combination.”
+
+Erick said, “Yeah. It was. But it worked.”
+
+“[Personal Ward], though… But… I suppose you have your [Familiar], so that restriction isn’t a large restriction.” Opal dismissed the floating box, adding, “You need to try to turn that into a [Shield] spell. Perhaps with [Force Wall]. Or perhaps with Mana Shaping, for 500. Whatever it takes to strip it down to its core functionality and attach that functionality onto some other useful spell.” She asked, “Have you made [Strike Reflection], yet? You should! That one has saved my life more than a few times. When you get that one right you need to take that spell and make it so that… hmm… Ah. You’re not a Warder, so that wouldn’t work for you. Never mind.”
+
+“What were you thinking?”
+
+“A secondary [Personal Ward] that turns on when you are attacked, without needing to be activated. I have a few of them. They’re useful.” Opal said, “But! You are not a Warder; you’re not able to have multiple [Personal Ward]s on at the same time.” She added, “But! You can get around that by wearing your [Familiar] like a cloak, or something, and have him react for you. It’s a weird thing, making a [Familiar] into clothes, but that is the best way around that restriction.” She chuckled. “But to wear such a cloak around town! How gaudy!”
+
+Ophiel squawked on Erick’s shoulder, as Erick smiled.
+
+Opal said, “You are a pretty little thing. An eyeful, some would say.”
+
+Ophiel fluffed out with a few more eyes and wings.
+
+Opal seemed to turn back toward Erick, as she said, “It would also be possible to create a [Conjure Force Elemental] that could activate a [Reflection Force Wall] when needed, or when prompted. I wouldn’t bet your life on such a flimsy thing always activating when you needed it to activate. But you might be able to make such a spell that you could pin to your chest, or something, that you could activate with a mental command. You’d effectively multiply your mana a few dozen times over, if you do it right. [Store Spell] is the Script version of what I suggested, but that spell is unreliable, at best. The problem is getting the stored spell to recognize threats, and not activate for every little thing.”
+
+That was a lot to think about. Storing spells for later use! What a nice idea. Erick had another question, though. “Now that you mention [Conjure Force Elemental], I was looking to make a defensive [Familiar], for the house. A tree, actually. Got any tips?”
+
+“Good luck. I tried one of those, but after four years the damn thing got up and started doing what it wanted, and all it wanted to do was be a hermit out in the middle of nowhere! I blame myself, on that measure. It’s probably still wandering the forests north of the Wyrmridge.” She added, “I doubt any natural thing could kill it, but it doesn’t like to be near anyone else, so at least I raised it partially right.”
+
+“What tier was yours?”
+
+“Concerned about that? Mine was tier 3. It took a while to become a real being, but it certainly happened faster than I expected.” She added, “Tried a tier 2 years later, and I loved that little guy, but he... died… I don’t mess with [Familiar]s anymore. Heartbreak is a right terrible feeling.”
+
+“Sorry to hear that.”
+
+“Thank you for saying such, but I know I’m being ridiculous.”
+
+Erick didn’t feel that she was being ridiculous at all, but he kept his mouth shut; besides, his face probably gave him away. Opal bounced a little, slowly, quietly.
+
+She asked, “Any other questions?”
+
+“Oh! Right. I have some rings I made, if you want a pair?” Erick went back to his chair, and picked up a small orange stone box he had prepared earlier. He opened it toward Opal it to reveal a collection of silver tori, as he said, “I didn’t know your size or anything like that, but one of these might fit you.”
+
+“Kindly of you, but no. I don’t accept gifts from anyone. I used to do that, but I got traced back to my home. Nothing personal, but I will never do that again.” She added, “What you can do, is keep raining on Spur. I like seeing this wonderful little town all abustle year round.”
+
+Erick smiled. “Then: thank you, Opal. If there’s anything I can do for you, don’t hesitate to ask.”
+
+“And you, too! Give me a call if you got questions.” She said, “I’m going to be working on my own [Pure Reflection Ward], but I’ve been working on that for forever, it seems like. The best I’ve gotten is dust and dirt compared to yours, so it’s time for this new methodology.”
+
+“Good luck, then.”
+
+“You too. And if your apprentice wants to know what I just told you, go ahead. From what I heard, she seems like a keeper.”
+
+Erick smiled. “I think she is, too.”
+
+Opal added, “Be sure to put your [Prismatic Ward] back up, too. It’s times 6 Variable, right?”
+
+“I will, and it is.” Erick offered, “I could tell you how I made it?”
+
+“No no no. Thank you, though. I made one like it, long ago, but the Solid Ward I use these days is the big one you saw covering the city.” She said, “It was a necessary sacrifice, so I didn’t mind paying it.”
+
+Opal’s opal blipped out of the room in a flickering of rainbow light.
+
+Erick smiled. Opal seemed nice. Then he recast his [Prismatic Ward], covering the whole of the house. Then he recorded Opal’s writings into a small notebook. When all of those notes were written down, Erick broke the [Conjure Item], dispersing opalescent light into the room.
+
+- - - -
+
+The next morning, Erick rained platinum over the Gardens of the Human District, while he read about summons, finished off an order of rings for Mog and the Adventurer’s Guildhouse, and practiced harmonizing his magic for [Intent Understanding].
+
+He managed to make [Discover Intent], which was not at all what he wanted.
+
+Discover Intent, instant, long range, 51 mana
+
+Discover the meaning of a magic.
+
+It was a failed spell, but he still tested it against one of Kiri’s [Force Wall]s. In response, he got back a vague feeling of protection, like he was sensing the emotion of another person, or something, vibrating inside of his own body. Interesting, but ultimately an unwanted combination; the mana cost alone was proof that he had done it wrong. He needed to have the spell understand the intent of a magic, not understand the magic himself.
+
+Erick ripped apart [Discover Intent] and began practicing with summoning and canceling tiny [Absorption Ward]s, over and over again, trying to see if he could ‘feel out’ what was happening there.
+
+After the platinum rains were done for the day, and lunch was over, Erick got a nice message from Poi.
+
+“Sir. They’re ready for rain at the Lake.”
+
+“Awesome,” Erick said, with a smile.

@@ -172,3 +172,148 @@ Brennan seemed to read this with his usual accuracy. He gestured at the fourth f
 
 Reyes nodded. He was looking at Nadia.
 
+Not in the way of threat-assessment, not the evaluative sweep she got from climbers who were trying to categorize her. Something quieter. Like recognition — not personal recognition, the recognition of a pattern. His eyes moved to Solenne for a moment, then back to Nadia, and then he was looking at the floor map Tomás had already opened, the map that in Tomás's hands was more a working document than a reference.
+
+Dayo had noticed. Solenne could tell by the angle of her attention, the slight shift that meant she had catalogued something and was holding it without comment.
+
+"You were on Floor 8 rest," Solenne said to Brennan. "The Tidebreaker clear." It wasn't a question.
+
+"We were." Brennan settled into one of the rest node's supply crates, the easy occupation of someone accustomed to rest nodes as temporary headquarters. "We watched the Calcite run from behind, mostly. Interesting formation work."
+
+"We were figuring it out in real time."
+
+"Most good work gets figured out that way."
+
+---
+
+They ate in the way two teams ate in a shared rest node — separate but not distanced, conversation moving in the way conversation did when everyone understood there were things worth sharing and things that were each party's own. Tomás and Hex had an exchange about floor mapping methodology that was largely technical and apparently satisfying to both parties. Miriam looked at her Grove Focus twice, both times with the clinical attention she brought to new equipment she was still learning.
+
+Then Brennan said, in the tone he used for information he had decided to give directly rather than leading up to: "The Apex Board has a meeting in two weeks. Contact faction has enough votes."
+
+Solenne stopped writing. She looked up.
+
+"Contact faction," she said.
+
+"The group within Apex that thinks your party's the most interesting thing to happen above Floor 10 since the Resonance Surge." Brennan held eye contact. He had a way of delivering information at exactly the weight it needed, not more. "Not acquisition mode. Observation mode. They want to see you above Floor 15 before they decide anything."
+
+"Decide what?"
+
+"What they want to offer. Or ask. Depends on what they see." He paused. "I'm telling you because you should know the clock exists. Two weeks before they send someone who's better at not appearing to be an official contact."
+
+Dayo had gone completely still. The stillness was different from Nadia's pre-fight stillness — this was the stillness of someone who had been hoping there would be a threat to respond to and had found out the threat didn't work that way.
+
+"They're sending observers?" she said.
+
+"They've been observing since Floor 8. This makes it official." Brennan's expression was even. "I'm not Apex. I'm telling you this as someone who's been watching you climb."
+
+Solenne processed this. Vasic's paper. Coordinates in her utility belt pocket. A contact faction deciding what they wanted to offer. The shape of something — not hostile, not friendly, something more complicated than either.
+
+"Appreciated," she said.
+
+Brennan nodded once, and the conversation moved, because he also knew when information had been received.
+
+---
+
+Reyes crossed the rest node and sat near Nadia's part of the camp ten minutes later.
+
+Not obtrusively. He had a floor document — Floor 16 preliminary scouting, which Tomás had somehow already produced a summary for — and he sat with it open, but the document was not what he was looking at.
+
+Nadia noticed immediately, in the way she noticed everything, and for a moment Solenne expected the pivot — the joke that would acknowledge the observation and diffuse it at the same time. Instead Nadia looked at him directly and waited.
+
+"You knew about the Crestfang ground approach before it happened," Reyes said. Not accusing. Curious. "On Floor 13."
+
+Nadia's expression didn't change. "We lost cover advantage with the open terrain."
+
+"You placed the traps before the approach vector was confirmed. Third trap went in the flank position four seconds before the Pack committed to that direction."
+
+A pause. Nadia's hand, which had been still on her knee, stayed still.
+
+"Pattern recognition," she said.
+
+Reyes looked at her for a moment — not skeptically, not pressing. The look of someone who had filed an answer and was deciding whether the answer was the thing he'd actually asked about. Then he returned to the floor document.
+
+The rest node held its background noise: Brennan and Tomás talking floor mechanics across the camp, Hex going through a supply cache, the small sounds of people occupying space without urgency.
+
+Reyes said: "Dr. Vasic was in our circle for about three days, maybe six weeks ago. She was asking about unusual Aspects. Specifically Brightspirit and Clearvoiced in the same team." He was still looking at the document. "I don't know what she's building toward. But the pattern she was describing matched your party."
+
+Solenne had heard it across the rest node. She saw Tomás had heard it too — his pen had stopped moving on the margin of his own document.
+
+Nadia said: "She talked to us directly. Floor 11."
+
+"I know." Reyes closed the floor document. "The Architects don't overlap with the Apex contact faction. But they're watching the same floor range." He stood and returned to his side of the rest node without adding anything else.
+
+Solenne wrote: *Apex contact faction. Architects. Not coordinating — watching the same thing independently.* She held the pen for a moment and then wrote: *Reyes: the overlap is the information.*
+
+---
+
+Vesper had been at the small secondary crafting table they'd set up from the supply cache — not the forge station, just a flat surface for material organization — for the last twenty minutes, doing what she'd called "inventory sorting" in the tone that meant she was actually in the middle of a problem and preferred to call it something lower-stakes.
+
+Prita Acharya crossed the camp and sat down across the table.
+
+Not asking to join. Just sitting. The professional-to-professional quality that had existed in their first meeting on Floor 8, when they'd evaluated each other's tools with the precision of two people who understood that equipment was a language before it was anything else.
+
+"The Focus you made her," Prita said. "Relational growth pattern."
+
+"First one I've gotten."
+
+"I've gotten two." Prita's hands were at rest on the table. "First one was an accident. Second one I was trying for."
+
+Vesper looked up from the materials. "What changed?"
+
+"I stopped thinking about the item."
+
+The pause that followed was the kind that happened when something had been said precisely correctly, and both parties knew it, and neither party was going to acknowledge this by speaking into it immediately.
+
+Prita said: "You know what you're building. Not just what it does — where it's going. The Focus will be better at the sixth floor than it is now because you already know the eleventh floor version."
+
+Vesper's hands moved over the materials without picking anything up. "I wasn't designing for the eleventh floor version."
+
+"I know." Prita's expression was not quite a smile. "That's why I said you know."
+
+---
+
+Tomás came back from the supply area where he'd been cross-referencing the Floor 16 document with his own notation. He sat near Vesper, not close enough to interrupt the conversation with Prita — she had moved slightly to the other side of the table, the conversation apparently concluded in the way conversations between people who worked in the same register concluded, finished rather than ended.
+
+He was quiet for a moment. He had the particular quality of someone who had decided to say something and was working out whether the moment was right.
+
+Vesper's hands were still in the Workframe — she'd re-engaged the Field Forge extension to continue something, her fingers moving in the inscriber's pattern that meant she was doing fine work.
+
+Tomás said: "You make things that know where they're going before you do."
+
+He said it clearly, not under his breath, not trailing off at the end. Eight words, and then he looked back down at his floor notes and did not look up to see her receive it.
+
+Vesper's hands stilled in the Workframe.
+
+Not the stillness of stopping — the stillness of having heard something true and needing a second to determine what to do with the fact of its being true. Her fingers remained where they were, mid-inscription, the posture holding.
+
+Three seconds. Four.
+
+Then her hands moved again, the inscription continuing, and she said nothing.
+
+Tomás made a notation on the Floor 16 document. He was already returning to it as if he'd said something unremarkable. Maybe that was the point — he'd offered the observation and he wasn't going to need it confirmed. It sat there in the rest node's air, accurate, unclaimed, and he had other things to document.
+
+---
+
+They slept. The rest node did what rest nodes did, which was make sleep easier and more complete than it had any right to be on a floor that was one gate away from the Floor 15 boss chamber.
+
+Solenne lay on her bedroll with the notebook on her chest, not writing. The compass that no longer pointed north was in her jacket pocket. The coordinates paper was in the inner pocket of her utility belt. Brennan's clock was running somewhere.
+
+She thought about Vasic's questions. About the way she'd been reading data that was already organized before she arrived. Two factions watching the same floor range, independently. The notebook already had it. She didn't need to write it again.
+
+She thought about the Focus notification. *Emotional investment — sufficient for classification upgrade.* Whatever the System was tracking, it was not just skill application.
+
+She thought about Tomás's eight words, and the way Vesper's hands had stilled, and the way Tomás had not looked up to see the effect.
+
+Somewhere in the rest node, on the other side of the camp, Dayo was doing gear maintenance. She could hear the specific sound of it — the deliberate rhythm, which meant Dayo had processed Brennan's warning through her hands and was coming back to herself.
+
+Solenne opened the notebook. Wrote: *Relational growth pattern. Two so far (Prita). What else is scaling.*
+
+She closed the notebook.
+
+Through the gate, the Floor 15 boss chamber would be waiting — the Sanctum Warden, per Tomás's preliminary documentation, a Level 20 entity with Aura suppression and two phase variants depending on engagement approach. She had read the documentation twice. The fight would require the same shape that the Ashfield had asked for, but inverted — not open-field positioning but the particular geometry of maintaining range while keeping Miriam in protected range.
+
+There were six hours until morning.
+
+She put the notebook in her pack.
+
+The rest node held its quiet around them, and somewhere in it, Vesper was still in the Workframe, making something that knew where it was going before she did.

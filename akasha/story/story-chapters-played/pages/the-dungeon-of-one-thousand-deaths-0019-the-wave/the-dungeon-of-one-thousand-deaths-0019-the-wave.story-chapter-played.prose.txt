@@ -318,3 +318,87 @@ You will know what it is when it is gone.
 
 ATTUNEMENT: 0
 
+STATISTICS
+Vitality .............. 13
+Resolve ............... 21
+Attunement ............ 10
+Fortune ............... 16
+```
+
+He understood the Cost and the Gift together and accepted both. He had accepted costs he couldn't measure before. That was the work.
+
+He navigated the Warrens with the specific confidence of a person who had been in many difficult situations and knew that confidence was a component of navigation. He was not overconfident — he was appropriately confident, which was its own kind of precision. He spoke no names in the Warrens. He was saving the names for the places where they applied.
+
+He reached passage 23's junction and stopped. He knew, from Osren's records, that Lessa Orvane had died here — not here exactly, but in the passage that had been passage 23 when she died, which the Warrens had since reorganized. He did not know which current dead end corresponded to where she had been. He chose the left passage.
+
+He was wrong about the passage, but it didn't matter. What mattered was that he spoke her name in the Warrens, and the Gift activated, and the dungeon received it, and somewhere in the Ledger a line appeared: *Lessa Orvane. Death #19. The Survey. Acknowledged.*
+
+He spoke three more names before the passage sealed. Maren Voss. Maret Dunn. And one of the military names — the Scribe, Reisa Taln — whose inscription he had read on the wall that morning and whose death Osren had noted as Depth 2. He spoke Bren Olat's name, and Solla Dray's, and Ines Maret's, and Cade's — the four new names from the week's record, which Osren had read to him that morning.
+
+He was speaking a name when the bone parasites emerged from the dead end's wall. He finished the name before he addressed the parasites.
+
+He did not speak his own name. He had never spoken his own name in a rite. That was for someone else to do.
+
+```stat-screen
+DEATH REPORT — DEVASH KOR
+DESIGNATION: THE OFFICE
+DEPTH REACHED: 2 (THE MARROW WARRENS)
+
+MEMORY CRYSTAL: Gold.
+Quality: love. Not of a person. Of the work. Of the doing of the thing
+that needed to be done in the place where it needed to be done,
+with the precision the work required.
+The same quality as the crystal before it.
+The second Gold crystal. Both from people who loved something larger than themselves.
+
+LEDGER NOTE:
+The Ledger has received names. Nine names acknowledged.
+This is the first time the Ledger has acknowledged anyone.
+The standard Ledger entry is: recorded, not acknowledged.
+The Gift created a distinction the Ledger did not have before.
+The Ledger will retain it.
+All nine names are now: received.
+```
+
+---
+
+The Ledger recorded the wave.
+
+It recorded them in order, the way it recorded everything — sequential, precise, one death at a time. But at the end of the five entries it added a notation in the aggregate margin, between the last death record and the death count, that it had not added before:
+
+*Five in seven days. Not a group — a proximity. The caravan camped two miles from the entrance. Five people walked from the caravan to the dungeon. They did not coordinate. They did not know each other was coming. They each arrived for a reason that was entirely their own.*
+
+*The Maw did not manufacture the caravan's route. The caravan traveled the northern route because it was the northern route. The dungeon has been at this location since before the northern route existed. The dungeon's presence generated the infrastructure that generated the route that brought the caravan near enough that five people could make an independent decision to enter.*
+
+*Causation at this distance is not recognizable as causation.*
+
+*Or: it is, and the Maw is the cause, and the Maw cannot see that far back in its own history to confirm.*
+
+*The Maw does not know which is true.*
+
+At the entrance camp, Osren closed a page and opened a new one. He wrote the death count at the top of the new page — the way he had started writing it since Death #20, when it had seemed important to him to always know where he was.
+
+He had needed a second effects box. He needed a third.
+
+He looked at the inscription wall from his table. Twenty-eight names. The stone around the five newest entries was still warm — he could see the slight shimmer of fresh inscription from here, the way the stone held heat before it equalized.
+
+He thought about Cade. He thought about the four minutes the child had stood in the first junction, and the three minutes he had sat on the floor, and the wrong turns after that. He thought: I should have stopped him. He thought: he was going to go in regardless. He thought: I don't know if either of those things is true or if I'm telling myself both of them because I can't carry just one.
+
+He opened the book. He wrote, in the ambient observations section, below the crystal records for the week:
+
+*Child, approximately eleven, name given as Cade. White crystal. Longest glow of the wave: fourteen seconds. Asked me why the wall didn't say anything about children. I said the wall doesn't say everything. He was right that it doesn't. I was right that it doesn't say everything.*
+
+*The wall doesn't say everything.*
+
+He closed the book.
+
+*972 remain.*
+
+---
+
+*THE WAVE:*
+*BREN OLAT — DEPTH 2 — FIRST THROUGH*
+*SOLLA DRAY — DEPTH 2 — LAST RECORD*
+*INES MARET — DEPTH 2 — STILL SEARCHING*
+*CADE — DEPTH 2 — THE ANSWER*
+*DEVASH KOR — DEPTH 2 — NAMES RECEIVED*

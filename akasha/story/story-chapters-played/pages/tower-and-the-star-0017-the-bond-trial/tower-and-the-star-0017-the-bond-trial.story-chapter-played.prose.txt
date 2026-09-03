@@ -179,3 +179,76 @@ He said it the way he said things that were true and clear and did not require e
 
 Nadia looked at the door and then looked at Solenne and then looked at the door again. She said: "Is that us?"
 
+Not rhetorically. The question had a genuine quality — not *are we six Harmony users* but something more specific, something like: *is this door waiting for us, specifically, the way the floor's corridors were keyed to us specifically?* The question asked whether they were the party the room expected, whether the coordinates Vasic had given them had been meant for them or for whoever arrived.
+
+The answer was yes. Solenne was certain of it and did not say so yet.
+
+She looked at the notification. She looked at the door. She looked at the notation she couldn't read above the frame, the same columns and characters as the paper she had been carrying in the inner pocket of her utility belt since Floor 11.
+
+*One RES point.*
+
+She had known this. She had been carrying it since the Mimic had reflected her own analysis back at her. Seeing it labeled against a locked door — *Composite Activation, Six Aspects, Conditions Not Met* — was not new information. It was the same information she had, which had been insufficient before and was insufficient now. The door would not open today. It would open when she reached RES 20 and all six signals ran at once.
+
+She held this and did not share it. Not because she was managing the party — because she was looking at a door that had been waiting longer than she had been alive and she wanted to understand what she was looking at before she said anything about it.
+
+She closed the notebook, which she had opened without deciding to open it.
+
+```stat-screen
+[FLOOR 17 — TRIAL COMPLETE]
+Resonance Events: +2 per party member (paired trials)
+Party Total: 99/150
+
+Dayo Okonkwo reaches Level 13.
+XP Awarded: 1,500 (Bond Trial Floor — Puzzle Completion Bonus)
+```
+
+Tomás noted something. He looked at his own window, something in the individual count, and then he looked at Vesper. His expression was the one he used when something had registered correctly — not surprised, not pleased, just: correct.
+
+Solenne did the math. Ninety-nine. Fifty-one remaining. The Bond Trial at the Proving Gate — she had read the floor documentation, knew what it offered — would add eighteen more events. That would bring them to 117. Thirty-three events remaining after that, across fourteen floors. She closed it a second time. She hadn't noticed opening it.
+
+The math was fine. The math was also not the right thing to be thinking about, because what had just happened in three corridors was not math. She put the notebook in her pack.
+
+---
+
+The solo chambers were on the far side of the paired trial alcoves — the deepest part of the floor's six corridors, one chamber per person, accessible now that the paired trials were complete. Solenne read the notification as they walked back toward the corridors.
+
+```stat-screen
+[SOLO TRIAL — AVAILABLE]
+Trial Type: Individual Bond Evaluation
+Participants: All 6 — sequential or simultaneous.
+
+Each trial is private. Duration: participant-determined.
+Note: Results are not shared between participants.
+```
+
+Sequential. They went in order of no order that Solenne could determine — the System did not assign sequence the way it had assigned pairs. Dayo went first. Fifteen minutes. She came back to the hexagonal chamber with the quality she'd had on the other side of the Floor 10 fight — not changed, something refined, the way a material is refined, the same composition but its impurities worked through. She didn't say anything about the trial. She sat down on the floor and put her back against the wall and breathed.
+
+Miriam went second. Eighteen minutes. She came back with her clinical notebook open. She was writing in the margin — Solenne caught a glimpse of the notation and could not read it quickly enough — and when she looked up she asked Dayo for a Mana Vial. Directly. First time. "I'd like one." Not *could you spare one*, not a clinical assessment of her own MP status. Just: I would like this. Dayo handed it over without a word.
+
+Vesper went third. Twelve minutes. The shortest. She came out carrying the same small palm-sized object she'd been carrying since Corridor 3, and she looked at it with an expression Solenne recognized from the moment after the Warden's Grove Focus notification — the expression she wore when something had resolved correctly. She did not share what the trial had contained. She put the object in her material cache.
+
+Tomás went fourth. Twenty minutes. The longest. He came back and sat down and was quiet with the particular quality of someone who has done something wrong and is sitting with it — not regret, exactly, but the specific stillness of being present with a mistake. He hadn't made a mistake in the trial chamber. He had, Solenne understood, said the right thing in the wrong way, and the trial had let him sit with the gap between the two. He came out and his first words were: "Is Nadia next?"
+
+The question arrived without segue, directed at no one specifically.
+
+Solenne said: "If she wants to be."
+
+Nadia had been sitting slightly apart from the group in the hexagonal chamber, not isolated — just at her own angle. She had not put the performance back on. She was sitting with her knees drawn up and her arms on her knees and she was looking at the middle distance the way people looked when they were not performing looking at anything.
+
+She had heard Tomás. She looked at him and then she looked at the group and she stood up.
+
+She looked at each of them. Dayo first — a full breath. Miriam. Vesper. Tomás, held a beat longer than the others. And then Solenne.
+
+She held on Solenne long enough that it was clearly intentional and clearly not dramatic. Whatever the look contained, Solenne understood it to be: *I heard what you said in that room.* Not a thank-you. Not a reassurance. Just: received.
+
+Solenne almost said something. She decided not to. She had already said what she needed to say, and Nadia had already received it, and adding to it now would make it smaller rather than larger. She held the look and she let Nadia have it.
+
+Nadia turned.
+
+She walked into her corridor without hurrying. At the threshold of the solo chamber she didn't pause or look back. She stepped through.
+
+The door closed.
+
+The hexagonal chamber held its sourceless light and its old carved walls, and outside the solo chamber, five people settled into the particular stillness of waiting for someone they trusted to do something they couldn't do for her.
+
+Solenne did not open the notebook.

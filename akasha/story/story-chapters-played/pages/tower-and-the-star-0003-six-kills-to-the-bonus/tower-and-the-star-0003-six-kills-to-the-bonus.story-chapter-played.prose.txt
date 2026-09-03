@@ -149,3 +149,108 @@ Miriam had redirected to cataloging the remaining cache materials, her hands mov
 
 ---
 
+The Transition Hall was amber light and smooth black stone and the particular quality of silence that existed between.
+
+The corridor was short -- ten meters, maybe twelve -- and unlike anything on Floor 7. No bioluminescence, no fungal growth, no organic texture. Just polished stone that reflected the amber light in long clean lines, and a door behind them (Floor 7, closed now, the Living Walls and their pale green-blue glow sealed away) and a door ahead (Floor 8, not yet opened, dark and waiting). The air was still. Temperature-neutral. The metallic taste of Floor 7's Mana concentration was gone, replaced by nothing -- a deliberate nothing, an absence that felt maintained.
+
+On the left wall, the System terminal floated: a text interface suspended at chest height, glowing with the same amber as the corridor, waiting for input.
+
+Solenne felt the floor clear notification arrive before she saw it. A warmth in the Harmony Conductor passive -- the party's collective state updating, the XP distributing, the System's evaluation of their run resolving into numbers.
+
+```stat-screen
+[FLOOR 7 — CLEARED]
+Party: Solenne Achebe-Park + 5
+
+Time:     3 days, 4 hours, 17 minutes
+Kills:    96 / 96 (Full Clear)
+Bonus:    All Secrets Found (+20% XP)
+Deaths:   0
+Rooms:    14 / 14
+
+XP Awarded: 8,940 (base) + 1,788 (bonus)
+Total:      10,728 (distributed)
+```
+
+The XP settled into six Status Windows simultaneously. Solenne felt it through the Harmony Conductor -- the faint shimmer of numbers updating, progress bars advancing, the System's quiet arithmetic running underneath everything.
+
+And then, in Miriam's Status Window, something tipped.
+
+```stat-screen
+[LEVEL UP]
+Miriam Efua Osei-Bonsu
+Warden — Level 8 → Level 9
+
+Class Auto-Bonus Applied:
+  WIS: +3 (25 → 28)
+  RES: +1 (19 → 20)
+
+HP:  252 → 268 (+16)
+MP:  380 → 400 (+20)
+
+Skill Update:
+  Mending Touch — Lv. 8 → Lv. 9
+```
+
+Miriam looked at her hands. The level-up manifested as a brief glow -- warm green, the color of her healing -- that settled into her fingers and faded. She flexed them once, testing the difference. The difference was not in the fingers. The difference was in what the fingers could do.
+
+"Miriam's nine," Solenne said, and her voice carried something that was not quite pride and not quite relief but lived in the territory between them. "WIS plus three. RES plus one. Mending Touch leveled."
+
+"About time," Dayo said, from the wall where she had leaned her shoulder against the smooth black stone. She was grinning. "Now she can heal me even harder."
+
+"I have been healing you adequately," Miriam said.
+
+"She can heal me with more enthusiasm."
+
+Miriam's mouth twitched. She did not dignify this with a response. She closed her Status Window with the quiet deliberation of someone who would review the numbers later, privately, when she could sit with what they meant.
+
+Nadia was checking her own XP bar with the transparent hope of someone who knew the math was not in her favor. "Still not nine. Still not -- wait, how close am I?"
+
+"You're closer than you were," Solenne said.
+
+"That is technically true and emotionally unsatisfying."
+
+Tomás, leaning against the far wall with his bow across his shoulders, said: "Dayo is closest to twelve."
+
+Dayo looked at him. "How do you know that?"
+
+"I pay attention."
+
+The party settled into the Transition Hall the way they settled into any space: Dayo found the wall, Tomás found the sight lines, Miriam checked on everyone without appearing to check on anyone, Vesper stood near the terminal reviewing the loot manifest, and Nadia occupied whatever space was left with a quality of presence that made it feel intentional. Six people in amber light, between a door that was closed and a door that was dark, and the System humming its quiet arithmetic around them.
+
+Solenne stood at the center.
+
+She had her notebook in her hand. The pen was capped. She was looking at the party -- not through the Arcane Analysis overlay, not through the Harmony Conductor passive, not through any skill or System framework. Just looking. At the people.
+
+She had been going to wait. The Quest -- The Trueweave's Question -- had been sitting in her perception since the rest node, a gold-bordered notification she had carried alone because she needed to understand it before she shared it, because understanding things first was how she worked, because the performance of certainty was the only leadership model she trusted.
+
+The performance had cracked in the hidden room. Dayo had stood next to her and Nadia had named the alcoves Gary and the pen had moved, but the crack was still there, underneath, and standing in the Transition Hall with amber light on the faces of five people who were looking at her because they always looked at her when they were between floors -- standing there, she did not have the energy to hold the information alone anymore.
+
+"I need to tell you something," she said.
+
+The Hall went quiet. Not the listening quiet from the rest node -- something different. Something that recognized the register of her voice and responded to it. Dayo straightened from the wall. Tomás's eyes moved to Solenne and stayed. Miriam's hands went still on the staff across her lap.
+
+"At the rest node. After you were all asleep." She paused. "Mostly asleep." Her eyes flickered to Tomás, who did not react. "I received a Quest notification. Personal. Not a standard System notification -- something different. Gold border. Addressed to me by Aspect name."
+
+She opened the notification. It materialized in her perception the way it had in the rest node -- the deep gold border, warm, almost organic. She could not share it directly. The System did not allow personal Quest windows to be displayed to other party members. She read it aloud.
+
+"The Trueweave's Question. 'You have perceived three anomalies on three floors that do not correspond to the Tower's documented architecture. The Tower sees you seeing it. Follow the thread.' Objective pending. Reward unknown. Personal Chain, Stage One."
+
+The words hung in the amber light.
+
+"That is what I know," she said. "Three sealed spaces. Three floors. A Quest I did not ask for and an advance climber I cannot explain. And I do not have a plan for any of it."
+
+She said the last sentence the way she had learned to say things that were true and uncomfortable: directly, without softening, looking at the people it was for.
+
+The Transition Hall held them. Amber light on smooth black stone. A door behind and a door ahead. Six people in the space between, and the System's quiet attention on all of them, and a Quest that had no objective yet and a mystery that had no answer yet, and the particular quality of silence that meant something had been said that could not be unsaid and that no one wanted to.
+
+Dayo spoke first. "Okay."
+
+Not a question. Not a response to the content. Just Dayo's way of saying: *I heard you. I'm here. We keep going.*
+
+"Okay," Solenne said.
+
+The door ahead was dark. Floor 8 was through it -- aquatic-adjacent, the Compact's scout report said, flooded lower level, creatures adapted for water and land. The scout report did not include whoever had reset the trap on Floor 7. The scout report did not include the gold-bordered Quest or the sealed doors or the feeling of being watched by something very large and very patient.
+
+Solenne put the notebook away. She looked at the door.
+
+"Whenever you're ready," she said, to no one in particular and to everyone.

@@ -194,3 +194,54 @@ He was starving. Now that Al mentioned it, Erick’s stomach grumbled with hunge
 
 Erick willed the box to appear and then willed the box to move to Al. It was easier that way.
 
+Al read the box a few times, his eyes wide at first. “Yup. Alpha spell, too.” He added, “Similar to spells already in the Script, though.” He dismissed the box. “I’m surprised Rozeta approved that. Surprised for multiple reasons.” Al pulled out two sandwiches from the cold box and cast a heating [Ward] on the kitchen counter. He slid the sandwiches on a plate into the [Ward]. The bread began to toast as the meat sizzled. “Look up [Lightning] and [Nature’s Fury] in the Mage Guild’s archives the next time you’re there. They’re both tier 3 spells, made by combining basic Script spells into two unique spells, and then combining those into [Lightning] or [Nature’s Fury]. They appear for purchase once you get their prerequisites, like how [Teleport] appears after [Blink] hits 10. If you’re smart enough to understand how [Blink] can be made into [Teleport], you could try to invent [Teleport] yourself and not spend the point, but most people buy that spell outright.” He pulled the sandwiches from the heating [Ward] and walked them over to Erick. “Eat.”
+
+Erick relaxed in front of the steaming food. “What tier is my spell?”
+
+“That’s the thing, isn’t it? Your spell is basic tier, even with that crazy mana cost. Your spell will appear in the Script for purchase by anyone, just like [Force Beam], in a year.” Al added, “Basic spells… They don’t happen. Until they do, and then many things change. Basic Magic classes at the Mage Guild have to adjust their curriculum. People will go to their local registrars and have them delete their entire [Lightning] and [Nature’s fury] skill trees in order to restart with [Call Lightning]. Ocean travel will be a lot less dangerous if people can kill storms using that ‘reduces the duration of natural storms’ bit of your spell. That sort of thing.” He turned toward the window. He stared at the black mark on the tower. “You have to have a fantastic idea of how the spell is supposed to work in order to create a basic spell, and you have to be the first one to get there. For comparison, not a single new Force spell has been added since the beginning of the Script. If you think you’ve made a new Force spell, you just haven’t explored the Script well enough.” Al smirked, then turned to Erick. “How do you think lightning works?”
+
+It took Erick several minutes to comprehend exactly how much he changed the world with an offhand experiment that he never expected to amount to anything. Then he stared at his sandwich. Then he looked through the window, to the black-marked tower, recalling what he knew about lightning, trying to organize it all into a coherent idea.
+
+He said, “Clouds are a mass of positive and negatively charged particles, all jumbled together and generally balanced against each other. Lightning is a phenomenon that occurs when there is an imbalance. When there’s an imbalance, negatively charged particles in clouds fall to the ground in invisible lines of power, seeking to restore net balance by taking a positive charge from the largest source of positive particles: the ground. When the negative line from a cloud gets close enough to the ground, the ground —or something on the ground— responds by sending out its own line of positive particles. When the positive line meets the negative line, all of the charged particles along both parts of the line move very, very fast, in order to reassert balance to the whole system. This is lightning.” Erick looked up. He looked out. He looked to Al, and said, “I think I got that right. Ah. Lightning can also occur between clouds, of course. Anything with two massive differentials in electrical charge, really.”
+
+Al sat there, listening. Quietly listening. When Erick stopped, Al asked, “And you put all of that into that enchanting-like rhyme last night?”
+
+“I tried to.”
+
+“And you did.” Al looked away. He sighed out, “You need to take better care of yourself.”
+
+Erick winced. “What happened after I… crashed?”
+
+“Eat your sandwich.”
+
+Erick began eating his sandwich.
+
+Al held up his rod of healing. “Mostly this rod of [Treat Wounds]. But in the seconds after you collapsed? Jane cast her healing spell on you and when that didn’t work she almost went crazy trying to demand a better healing spell from the Script. Before she could get far with that, Savral had retrieved the rod. We stabilized you, and Jane relaxed a little. She watched over you while you slept, but your main ailment is mana exhaustion, and that takes time to heal.” Al pointed at him with the rod. “You’re still exhausted, you know. That pain you’re feeling? Jane can power through it because she’s young, but it’s going to catch up to her, too. Maybe in a decade, maybe in a year. She’ll burn out, and it won’t be pretty. But you? You’re not young.”
+
+Fuck.
+
+Erick tried to hide the sting from that truth, but he didn’t hide it well. Al’s eyes softened. Al looked away and let a minute pass before turning back to Erick. If there were tears, Al didn’t see them.
+
+Al said, “No more magic for a few days. Creating a new spell takes a huge toll and you were not ready for that expenditure at all.” Al looked out the windows again. “Jane went with Savral and his group this morning to kill some wolves. They’ll be fine. Worry about yourself, so she doesn’t have to. Hera showed up after the kids left, asking questions and getting truthful answers. Mage Guildmaster Zago sent a messenger about three hours after that. You’re required to report for a debriefing by your guild as soon as you’ve recovered. I told them it would be at least two days.”
+
+“… Am I in trouble?”
+
+“There’s a hefty fine for casting magic like that in the city, but Master Zago paid it for you. That was also in the message she sent. She likely expects a detailed report concerning what you did and how you did it. If you tell her what you told me, she will be more than satisfied. I didn’t know you created a basic spell until you showed me the Script for it, so right now, this drama is just a personally amazing thing that you’ve done. The fallout of this will have to wait for another day.” Al paused. He leaned forward. “I know I told you to do a lot or else I’d kick you to the curb, but there’s a balance between moving forward and letting your body heal. You’re doing more than enough.” Al smiled, saying, “Let’s relax a bit, okay?”
+
+Erick nodded as he finished the first sandwich, so he began on the second. He paused after a bite, to ask, “How do you think lightning works, Al?”
+
+Al laughed. He said, “I thought it was concentrated light, exactly how I was taught, and how everyone else at the guilds are taught, but that’s obviously wrong!”
+
+Erick smiled. That would be a laser, Al.
+
+Or maybe a phaser?
+
+The people at the guild didn’t know how my blacklight orb worked, either. Could I make one now, now that I know what to look for? Hows does the light spectrum go again? Shorter wavelength for blue and ultraviolet, which is past blue. Longer wavelengths for red and infrared, which is heat. Could I actually do that? Heat wards are already part of the [Ward] skill… hmm…
+
+Al said, “I see you’re thinking. Plotting. Stop that. No more magic today. Maybe no more magic tomorrow. Jane already promised to hurt me if she returned to find you dead.”
+
+Erick smiled. “That sounds like Jane.”
+
+“Finish your other sandwich. And then!—” Al smiled. “We must visit the beerhalls and get you good and drunk, to celebrate your accomplishment!”
+
+Erick laughed. “Sounds great to me.”

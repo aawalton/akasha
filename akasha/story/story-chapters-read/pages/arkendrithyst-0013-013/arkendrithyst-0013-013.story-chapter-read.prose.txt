@@ -310,3 +310,270 @@ Create a Special Ward. Variable Cost
 
 Special Wards can be made Permanent. 250 MP + Variable Cost
 
+...
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you wish. Skill level at Mana Manipulation determines final outcome. Variable Cost
+
+The problem was, that this was the first part of the Script that seemed more about ability than numbers. It took skill to shape mana. It also took experience —not Experience— to know how to do what you were trying to accomplish.
+
+Being told how to cook a steak was not as great a teacher as actually cooking the steak yourself.
+
+And you know? Having specialty [Ward]s turn out this way was actually the best thing that had happened to Erick since coming to Veird and witnessing this weird magic system that was way too numerical. Where was the whimsy? Where was the imagination?
+
+Where was the magic?
+
+Well, as it turns out, the magic was always there. Erick just needed to get to the level where he could start mixing and matching the Script through his own personal lens.
+
+His MP returned fast enough.
+
+Erick created many, many more [Wards], going through three more iterations with a distribution of 180 exp to Mana Shaping and 321 exp to [Ward] going down, and 500+ exp in [Meditation] going up.
+
+There were some level ups in there. Erick ignored those. There was a lot of exhaustion; Erick tried to ignore that. And still, he continued. This was really, really fun.
+
+He wasn’t even done, but already the front room was awash in horrible and malformed light orbs, some lime and blue, others orange and purple. Some were red and crimson, swirling and ebbing a violent light. Two were pale blue wisps that shimmered in the air like mirages, casting glows as powerful as any other bright light, but barely visible themselves. Three were almost perfect spheres of white gold, except one was as radiant as a phosphorus burn. That one had to be dispelled immediately. The other two were too dim to ever be useful.
+
+So.
+
+Progress.
+
+Not very good progress, but taken together as a whole, the room was quite—
+
+“This is a mess,” said Savral.
+
+Erick glared at him. “It’s not that bad! I think it’s quite pretty.”
+
+“No way, dude.”
+
+Jane came up the stairs behind him. “Wow, Dad. Looking kinda abstract up in here.”
+
+Next came Al. “Not… Not great. Progress though!”
+
+“I’m getting there!” Erick frowned at his latest specimen. It was a green thing that looked almost like cut glass and glowed like it was radioactive. “This one is kinda pretty. I don’t know how I got it to look like crystal glass, but I like it.”
+
+Jane stood next to him, looking at the green light orb. “Looks like Mountain Dew.”
+
+“It is NOT Mountain Dew. It’s Depression Glass. Like at Grandma’s. You know?”
+
+Jane slapped a fist into her hand. “Oh! It’s glass armor and weapons from The Elder Scrolls!”
+
+Erick said, “I don’t know what that is.”
+
+Savral asked Al, “Do you have any idea what they’re talking about?”
+
+“Nope.”
+
+“Don’t worry about it.” Erick changed the subject back to his light orbs. “I’m getting there!” He gestured to the green glass orb. “I want to keep at this kind of orb. I think it’s pretty. What do you think?”
+
+Al stepped closer to the orb. He put his hand through the space. The [Ward] distorted, grains of wardlight clinging to his fingers, like pulling sand up from under the waves of a beach. Slowly, the grains fell back to their place on the green glass orb, but the damage had been done. The illusion of glass had been broken. Al’s fingers left a mark on the [Ward] that could not be healed.
+
+“You broke it,” Erick said.
+
+“I like the idea and the execution.” Al said, “But you still need to learn how to mimic sunlight. Are you still using Mana Shaping in conjunction with the casting of the [Ward]?”
+
+“Yeah.”
+
+“Try it without Mana Shaping. How many iterations are you at?”
+
+Erick looked up. How many had it been? “Four? I think?”
+
+Al’s face broke into a big smile. “Good man! Aurify?”
+
+“Almost.”
+
+“Excellent!”
+
+*Knock Knock*
+
+“Right! Them. The reason we came downstairs.” Savral strode to the front door and opened it wide. “Sorry about that. We got distracted in the front room.”
+
+Two dragonkin in well tailored clothes walked into the sewerhouse, both of them with leather shoulderbags wrapped around their torsos. It was a jarring look, but it seemed like they moved comfortably. Both immediately gawked at the light orbs.
+
+Savral added, “The male human is working on his light orbs.”
+
+“They’re quite…” The bluescale male dragonkin said, “Something.”
+
+Yellowscale said—
+
+“Oh! I know you.” Erick smiled. “Hello, Hera.”
+
+Hera smiled wide at Erick. “Are these yours?”
+
+“This is attempt 1 through 24 of making a light orb. I kinda deviated into art somewhere along the line, and a few were too ugly or too bright so they had to go. I thought you were a prosecutor?”
+
+“I am.” She stepped over to the blue-mirage light orb. She said, “Nearly invisible light. I like it.”
+
+Bluescale grunted at her.
+
+She said, “Right. Right. Let’s get down to it. Felair will be casting [Witness] while I [Scry]. When we’re done we will have some words for you all.” She looked around. “Where is Miss Kygron?”
+
+Savral spoke with an edge to his voice. “Bacci is at her house preparing for a vacation. The sewerhouse is closing for a month and a lot of us are going our separate ways for a while.”
+
+Hera frowned. “This looks bad on her.”
+
+“She didn’t do shit.” Savral said, “No one here did.”
+
+“We’ll determine that for ourselves.” Bluescale said, “Thanks for greeting us —eventually— but you can go away now until we need you. Stand in your corners. Whatever. Just don’t get in the way.”
+
+“Don’t vanish just yet.” Hera said, “I need to see all of your Statuses. You can show me now, or—”
+
+Savral said, “Where’s your warrant.”
+
+“I am with my son on this.” Al stood firm. “I’m going to need to see the warrant before I show you my status, and it will be done in private.”
+
+Hera produced a slip of paper from her shoulderbag then handed it to Al. While he read the paper, Erick wondered at how easy it was to counterfeit things in this world, like coins, or identifications, or government search warrants. Savral and Jane craned their necks to look at the paper in Al’s hands.
+
+Al handed the warrant back to Hera. “Fine. Come to my office when you’re ready to read mine.”
+
+“I’ll be upstairs,” Savral said.
+
+“I’ll be downstairs,” Jane said, and then left, following Al.
+
+“Well here’s mine.” Erick said, “Status: Reveal All.”
+
+Erick Flatt
+
+Human, age 48
+
+Level 9, Class: None
+
+Exp: 247/5500
+
+Class: -/-
+
+Points: 8
+
+HP
+
+80/80
+
+150 per day
+
+MP
+
+532/532
+
+532 per day
+
+Strength
+
+8
+
++0
+
+[8]
+
+Vitality
+
+15
+
++0
+
+[15]
+
+Willpower
+
+20
+
++0
+
+[20]
+
+Focus
+
+20
+
++0
+
+[20]
+
+Concentration 7
+
+Multiply your base MP regen by 2.66
+
+Requirements: 20 Focus
+
+Exp: 2060/2100
+
+Discipline 7
+
+Multiply your base MP by 2.66
+
+Requirements: 20 Willpower
+
+Exp: 788/2100
+
+Ward 6, instant, short range, 24 hours,
+
+Create a Small Ward that can have Minor Effects, or prevent Z damage from attackers. 10 MP + Z
+
+Create a Small Ward that can have Small Effects, or prevent Z damage from attackers. 15 MP + Z
+
+Create a Special Ward. Variable Cost
+
+Create a Medium Ward that can have Small Effects, or prevent Z damage from attackers. 20 MP + Z
+
+Create a Medium Ward that can have Medium Effects, or prevent Z damage from attackers. 25 MP + Z
+
+Personal Ward: Any Ward of any type can be made Personal, to move with you. Original Cost x2
+
+Minor Effects: Bug Ward, Temperature Ward, Alarm Ward
+
+Small Effects: Visual Disruption, Audio Disruption, Weather Ward
+
+Medium Effects: Area Hostile Visual Disruption, Area Hostile Audio Disruption
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you can. Skill at mana manipulation determines final outcome.
+
+Exp: 642/1300
+
+Mana Shaping 4
+
+Alter spell AOE in better, subtle ways, 10 MP + spellcost
+
+Alter spell AOE in better, moderate ways, 30 MP + spellcost
+
+Requirements: 10 Willpower
+
+Exp: 430/500
+
+Cleanse 5, instant, short range, 10 mana.
+
+Purge an area equal to the level of the spell in meters of all Toxins, Disease, Filth, and Corruption.
+
+Exp: 170/800
+
+Mend 4, instant, touch, 10 mana
+
+Touch a non-magical medium sized object, or small complicated, and restore it to its prime.
+
+Exp: 50/500
+
+Meditation 7
+
+You are at Rest while Meditating.
+
+Afflicted ailments: Normal movement, small actions/spells.
+
+Requirements: 10 Willpower
+
+Exp: 455/2100
+
+Huh. He leveled quite a bit. No wonder [Meditation] felt so much better. He could even cast ‘small spells’ and take ‘small actions’ when meditating, whatever that meant. And look at that [Ward], it was up to 6! He could make a personal [Ward] now. Cool. And he wasn’t feeling quite so bad about spending so much… mana…
+
+Nope. No, that wasn’t true. Mana Exhaustion was creeping on strong. He could use a nap.
+
+He probably wouldn’t get a nap, today.
+
+Hera swiped her hands through the floating blue boxes, dismissing them. She looked at him oddly, then the scales on her face tinted pink. She looked away, saying, “Sorry. Terribly sorry.”
+
+He laughed. “That bad, huh! I’m the one who should be embarrassed, but I’d like to know what is so embarrassing.”
+
+Hera looked like she didn’t want to speak but she couldn’t help herself. She blurted out, “You’re still leveling basic skills?”
+
+“Ahh… Yeah. I’m not from around here. Still getting used to the Script. Human, yes. Extra planar, too. Or something. Irogh said something along those lines.”
+
+“Oh?” Hera’s blush faded. She nodded. “That explains a lot.” She eyed him up and down. “Nothing bad… You are a human, but not like any of the ones I’ve ever met. This explains a lot. Including how easily you got a Silver Star.”
+
+“So what next? Do I… spit in a cup? You touch my forehead and experience the last week of my life? You do a Deep Scan on me, whatever that means.”
+
+“A Deep Scan? … No.” She frowned, like Erick was a child needing guidance. “You really are new to Veird.” She pulled a small glass stone from her shoulder bag. “I’m going to ask you some questions...”

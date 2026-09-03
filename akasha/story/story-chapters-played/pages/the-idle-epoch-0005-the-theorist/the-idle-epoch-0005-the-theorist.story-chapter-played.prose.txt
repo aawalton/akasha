@@ -140,3 +140,321 @@ Callum set down his cup.
 
 "That's a 2.6% timing inefficiency on north pulls and a 2.2% loss on south pulls," Jin continued. "Cumulative across both quadrants over a week, you're losing approximately four percent of total yield. And that's just the timing offset."
 
+He was right. Callum had known the twelve-hour average didn't feel precise -- his Refinery input showed variance he'd attributed to mob interference -- but he hadn't mapped the quadrant-specific timing. He'd assumed the posted rate was accurate because the System posted it, and the System didn't lie.
+
+The System didn't lie. But it rounded.
+
+"What else?" Callum asked.
+
+Jin grinned. It was the grin of someone who had been waiting to have this conversation for a very long time.
+
+"Material pre-sorting," he said, pulling out a second napkin. "Right now your Gathering Construct dumps raw materials into the Refinery in arrival order. Substrate Moss, scrap metal, wire coils, herbs -- all mixed. The Refinery processes them sequentially. But the processing time per unit varies by material type. Moss takes forty seconds. Metal takes twenty-two. Wire takes thirty-one. Which means your Refinery is constantly context-switching between material types, and every switch costs you --"
+
+"Transition overhead," Callum said.
+
+"*Exactly.* Transition overhead. I estimated twelve percent of your Refinery's total processing time is wasted on material-type transitions. If you pre-sort inputs -- batch all the Moss, then all the metal, then all the wire -- you eliminate the switching cost and your Refinery throughput jumps by eight to twelve percent."
+
+"I'd need a sorting function in the Gathering Construct's script."
+
+"Which costs you what, two lines of Script Engine capacity? You're at -- let me guess -- Script Complexity 30?"
+
+"30.5."
+
+"So you've got headroom. Two lines for a sorting function, maybe three if you want error handling, and you buy back twelve percent of your Refinery time." Jin's pen was moving faster than his words now, the napkin filling with arrows and numbers. "And the third thing -- this is the one I'm really excited about -- there's a parallel collection path in the Overgrowth that nobody's using."
+
+He drew a rough map of the Overgrowth's northern boundary, marking spawn points and regeneration zones with small X's. "The standard collection path runs east to west along the main growth line. But the Overgrowth's regeneration isn't uniform, remember? There are overlap zones where two regeneration cycles intersect. When that happens, the material density spikes -- double the Moss yield in about a third of the area. If you run a secondary collection path through the overlap zones, you pick up an estimated eight percent more total collection volume without extending your Construct's patrol range."
+
+Callum stared at the napkin. Three optimizations. Four percent from timing correction. Twelve percent from pre-sorting. Eight percent from parallel collection. Individually, each was a marginal gain -- the kind of thing most players wouldn't bother with. But Callum didn't count margins. He counted rates. And in a compound loop with a feedback function, a twenty-four percent improvement to the Gathering stage didn't add twenty-four percent to total output. It *multiplied* through every downstream stage, compounding with every cycle.
+
+"Where did you learn this?" Callum asked.
+
+"I spent three months walking the Overgrowth with a notebook and a graphing calculator," Jin said. "The calculator is also my summoning focus. Long story. Point is, I have the data. I have six notebooks full of regeneration timing, spawn density maps, material yield projections, and a complete model of the Substrate's resource cycle for every zone within ten miles of the Barrier." He paused. "I just don't have anything to *do* with it."
+
+---
+
+The conversation turned to the Shardfield, and the shape of something larger began to emerge.
+
+"My problem is vertical reach," Callum said. "My Constructs cap out at Tier 1 content. The Mk.V Sentinel can handle Level 15, maybe, on a good day with favorable mob composition. Anything above that, I need either a higher-tier combat construct -- which requires materials I don't have -- or a human fighter clearing the path."
+
+"Mira," Jin said.
+
+Callum looked at him.
+
+"Word gets around. The Sword Saint partnered up with a construct guy in the Foundry District." Jin waved off the implied question. "I pay attention to who's working with who. Optimization habit. Anyway, Mira can clear Tier 2 content solo, no problem. But the Shardfield is Tier 2-3, and the transition zones between tiers are where it gets ugly. Group mobs, patrol routes, elite spawns on irregular timers. Even Mira can't solo-farm the Shardfield sustainably -- she'd burn through resources faster than the zone yields them."
+
+"So what's your solution?"
+
+Jin leaned forward. "My summons."
+
+He pulled up his own System display -- a gesture that Callum noted was done without hesitation, without the calculation of trust that had taken Callum three minutes to work through. Jin either didn't evaluate the risk of sharing his data, or he'd already decided to trust Callum before this conversation started. Neither option fully computed.
+
+Two summon profiles appeared in the air between them.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  ACTIVE SUMMON: CHUNK               │
+│  Type: Earth Elemental              │
+│  Level: 14                          │
+│  Status: Deployed (Rustbelt Flats)  │
+├─────────────────────────────────────┤
+│  HP: 412/412                        │
+│  Skills: Ground Slam, Stone Skin    │
+│  Continuous Deployment: 6 weeks     │
+│  Combat Behavior: Complex           │
+│  (developed through sustained use)  │
+│                                     │
+│  Role: Tank / Aggro holder          │
+└─────────────────────────────────────┘
+```
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  ACTIVE SUMMON: ZEPHYR              │
+│  Type: Wind Elemental               │
+│  Level: 13                          │
+│  Status: Deployed (Rustbelt Flats)  │
+├─────────────────────────────────────┤
+│  HP: 289/289                        │
+│  Skills: Wind Blade, Evasion Surge  │
+│  Continuous Deployment: 5 weeks     │
+│  Combat Behavior: Intermediate      │
+│                                     │
+│  Role: Ranged DPS / Kite support    │
+└─────────────────────────────────────┘
+```
+
+"Chunk can tank Tier 2 content all day," Jin said. "He's been running for six straight weeks -- his combat behavior is more complex than anything I scripted. The Substrate develops summon AI over sustained deployment. Chunk has learned positioning, threat assessment, and retreat timing entirely on his own. Zephyr's faster but squishier -- she handles the damage while Chunk holds the line."
+
+"Their levels are high enough for Shardfield mobs?"
+
+"Barely. Tier 2 floor, yes. Tier 2-3 transition gets dicey. But here's the thing." Jin's hands were moving again, drawing invisible architectures in the air between them. "My summons can fight in the Shardfield. What they can't do is *exploit* the results. I kill mobs -- great. Materials drop. Residuum traces. Echo Stones, if I'm lucky. But I have no collection infrastructure. No processing chain. No way to turn kills into sustained resource income. I just... kill things and pick up what I can carry. Which is like running a mine with no smelter. The ore just piles up."
+
+"And you need a smelter," Callum said.
+
+"I need a *factory*." Jin's eyes were bright. "Your factory. Your Gathering Constructs collect what my summons kill. Your Processing Constructs refine it. Your Enhancement Construct -- when it's online -- feeds the improvements back into both our systems. My summons get more efficient from the feedback. Your constructs get higher-tier input materials. The output fuels both operations."
+
+Callum was quiet for a moment. He'd been staring at a version of this problem for weeks -- the vertical reach limitation, the gap between what his constructs could farm and what they needed to process. Mira solved the protection problem, the human-intelligence-in-the-field problem. But Mira was one person, and she couldn't be in the Shardfield and running protection sweeps simultaneously.
+
+Jin's summons were always running.
+
+"Your summons operate on your threads," Callum said. "They're effectively permanent idle loops."
+
+"Set and forget," Jin confirmed. "Summoner baseline. At my skill level, Chunk and Zephyr persist until killed. I heal them when they need it, adjust their patrol routes when spawn patterns shift, but otherwise they run themselves. I sleep, they fight. I eat, they fight. I have this conversation, they fight." He glanced to his left, at something only he could see -- probably a status feed from his summons. "Chunk just killed a rust beetle in the Flats, actually. Got twelve Essence and a wire coil."
+
+Callum sat with the numbers. Jin's summons in the Shardfield, feeding kills into Callum's collection infrastructure. Callum's Gathering Constructs, optimized with Jin's three improvements, processing the output. The Refinery converting Shardfield materials into Echo Stones, Residuum, Flux Capacitor components. The Enhancement Construct -- once online -- feeding improvements back up the chain.
+
+The topology wasn't just viable. It was elegant.
+
+"You'd need to relocate your summons," Callum said. "Pull them off the Rustbelt Flats and redeploy to the Shardfield. That's a significant reconfiguration."
+
+"I know. Chunk's been running Flats content for six weeks -- he's overleveled for it. His kill efficiency has been declining because the mobs don't challenge him enough for meaningful XP. Moving him to the Shardfield actually improves his growth curve." Jin paused. "Zephyr's the risk. She's Level 13 in a Tier 2-3 zone. I'd need to run her with Chunk as a paired unit until she levels up, which means reduced coverage but higher survivability per engagement."
+
+"How long until they're sustainable in the Shardfield independently?"
+
+"Two weeks for Chunk. Three for Zephyr. Faster if your constructs are collecting behind them and I'm not wasting summon uptime on material hauling."
+
+Callum looked at the napkin, now covered in topology diagrams and spawn maps and yield projections, and felt something he didn't immediately recognize. It took him a moment to identify it: the feeling of seeing his own architecture reflected back through someone else's mind, understood and extended rather than questioned.
+
+It had been a very long time since anyone had understood what he was building.
+
+"There's a third summon," Jin said. "Pixel. Scout familiar. Low combat power, but her perception range is excellent. I can deploy her ahead of Chunk and Zephyr in the Shardfield -- she maps the spawn points, identifies mob types, and pulls singles back to the kill zone. Reduces multi-pull risk by about sixty percent."
+
+"You've been planning this."
+
+"I've been planning *something*. I didn't know what it looked like until I saw your compound loop." Jin met his eyes. "Callum, do you understand what this is? Nobody's done this. The guilds don't even think in these terms. They're running flat loops and wondering why their growth is linear. You built a feedback system. An actual, self-reinforcing feedback system. I've been looking for something like this since the Emergence, and you built it in a warehouse with scrap metal and a pipe wrench."
+
+The enthusiasm was genuine. It was also a lot. Callum was not accustomed to people looking at his work and responding with anything other than confusion or indifference, and Jin's energy hit like a Flux surge against a stabilizer ring -- overwhelming, warm, slightly destabilizing.
+
+"I built it because the math said it should work," Callum said. "The math still says the Enhancement Construct needs Echo Stones, and Echo Stones cost more than I can--"
+
+The notification hit mid-sentence.
+
+---
+
+The world flickered gold.
+
+Callum felt it before he saw it -- the familiar rush of the System acknowledging growth, a warmth that started behind his sternum and radiated outward through his arms, his spine, the tips of his fingers. His fatigue lifted. Not erased, but compressed, pushed back by the influx of something the System called progress and his body called *more*.
+
+```stat-screen
+══════════════════════════════════════
+  LEVEL UP!  13 --> 14
+
+  +5 Free Stat Points
+  +3 Skill Points (unallocated)
+
+  Recommended Allocation (Loopweaver):
+    +2 INT | +2 WIS
+
+  HP: 331 --> 348  (+17)
+  MP: 708 --> 734  (+26)
+══════════════════════════════════════
+```
+
+He allocated without hesitation. The numbers were predetermined -- he'd planned his stat distribution six levels in advance, the way he planned everything.
+
+```stat-screen
+  Stat Allocation (Level 14):
+  +2 INT  (51 --> 53)
+  +2 WIS  (54 --> 56)
+  +1 VIT  (18 --> 19)
+
+  Updated Derived Stats:
+  HP:  348       MP:  734
+  Stamina: 187
+  Script Complexity: 31.5
+  Idle Yield Multiplier: 2.12x
+```
+
+*VIT,* he thought. He usually wouldn't spend a point on survivability -- every point in VIT was a point not in INT or WIS, and the opportunity cost was measurable. But Mira had spent an entire evening last week explaining, with varying degrees of patience, that dying was the least efficient possible outcome. The logic was sound. The point in VIT was a concession to mortality.
+
+He closed the stat allocation window and looked up.
+
+Jin was staring at him.
+
+"Did you just level up?" Jin said.
+
+"Yes."
+
+"While sitting in a food stall?"
+
+"My constructs are still running."
+
+Jin's expression passed through several states in rapid succession -- surprise, comprehension, delight, and something that looked dangerously close to reverence.
+
+"That's the most beautiful thing I've ever heard," he said.
+
+Callum felt the corner of his mouth twitch. "It's three threads of automation feeding a compound loop. It's not--"
+
+"It's *poetry*. It's idle poetry. You are sitting here drinking terrible coffee and your character is out there killing monsters and collecting resources and processing materials and *leveling you up* while you drink terrible coffee. This is what the Substrate was designed for. This is -- okay, I'm getting emotional about game mechanics again, but in my defense, this is genuinely the most elegant system I've ever seen in the wild."
+
+"The coffee is pretty bad," Callum agreed.
+
+"The coffee is *atrocious*. Can we go back to your workshop? I want to see the compound loop topology in person. I want to see your constructs. I want to see the Enhancement Construct blueprint. I have ideas about the resonance anchor problem -- you said you need Echo Stones, but there might be an interim solution using paired Iteration Tokens as pseudo-resonance nodes. It's theoretical, but the math--"
+
+"Jin."
+
+"Yeah?"
+
+"Breathe."
+
+Jin blinked. Then he laughed -- a short, startled sound, like someone who'd forgotten that conversations had pauses.
+
+"Right. Sorry. I talk a lot when I'm excited, and I've been excited since you said 'compound loop' fifteen minutes ago, and I don't think I'm going to stop being excited anytime soon, so fair warning."
+
+Callum looked at him for a long moment. The kid was nineteen. He'd lost his parents in the first wave, lost his college, lost his pickup group to the Overgrowth. He was walking around in a mismatched leather vest with a gutted graphing calculator for a summoning focus and six notebooks full of optimization data that nobody had ever asked to see.
+
+And he was the first person since the Emergence who spoke the same language.
+
+"Finish your coffee," Callum said. "We'll walk back to the warehouse. I'll show you the topology."
+
+Jin's grin could have powered a Flux Capacitor.
+
+---
+
+They left the Exchange through the northern gate as the afternoon light turned the sky the color of tarnished brass. Jin had not stopped talking. He had, at various points during the walk, covered the following topics: the mathematical relationship between summon deployment duration and behavioral complexity (exponential, not linear, which he found thrilling), the theoretical maximum number of threads a Loopweaver could run if INT scaling was truly uncapped (twenty-six at INT 100, assuming standard formula, but Callum's unique class probably modified the coefficient), the optimal Shardfield entry vector for paired summon deployment, the fact that his earth elemental Chunk had once learned to retreat behind a rock formation without being taught the behavior, and the name of every U of M professor whose course content was directly applicable to Substrate optimization (four, across three departments).
+
+Callum listened. He did not contribute often, but when he did, Jin would stop mid-sentence, process the input, and visibly reorganize his entire chain of thought around the new information before resuming at even higher speed. It was like watching a compiler handle a runtime exception -- brief pause, full recompile, faster output.
+
+They were passing through the manufacturing corridor when Jin mentioned summon AI in a way that caught Callum's attention.
+
+"-- the thing is, the Substrate doesn't tell you how summon intelligence works. It just says 'combat behavior: simple' or 'combat behavior: complex' and lets you figure it out. But I've been tracking Chunk's decision trees since deployment, and the pattern is clear: the AI isn't scripted. It's *grown*. The Substrate runs a simplified neural network -- or something equivalent -- inside each summon, and sustained deployment is the training data. The longer the summon runs, the more complex its decision tree becomes."
+
+Callum thought about Pip. The blinking cursor on his shoulder, silent and rudimentary, managing his third thread with the bare minimum of autonomous behavior.
+
+"My Compile Familiar works on the same architecture," he said.
+
+Jin nearly walked into a street lamp.
+
+"Wait -- you have Compile Familiar? That's a Loopweaver-exclusive automation skill. Level 1, manages one thread, basic autonomy." He stopped walking. "Callum. The Compile Familiar skill description says 'create a simple automation assistant,' but if it runs on the same architecture as summon AI -- if it uses the same sustained-deployment learning model --"
+
+"Then it's not simple," Callum said. "It just hasn't been deployed long enough."
+
+"Exactly! Exactly. Chunk was 'simple' for the first week. Now he independently flanks enemies and uses terrain for cover. If your Compile Familiar has been running continuously since you unlocked it--"
+
+"Three weeks."
+
+"Three weeks. Three weeks of continuous deployment." Jin's hands were doing something in the air that might have been sign language for a concept that didn't have words yet. "Callum, your familiar is *growing*. It's training on your automation patterns, building a decision tree based on how you manage threads, and eventually -- at higher skill levels -- it's going to start making decisions you didn't program it to make."
+
+On Callum's shoulder, Pip blinked. Slow. Warm. The same blink it always gave, the same simple flicker of a cursor waiting for input.
+
+Callum looked at it with new eyes.
+
+"We'll table that," he said. "Echo Stones first."
+
+Jin nodded rapidly. "Right, right. Priorities. But I'm writing this down later. I'm writing all of this down later."
+
+They turned onto the cross street that led to the Foundry District, the afternoon light casting long shadows between the repurposed factory buildings. Callum's warehouse was visible ahead -- the old stamping plant with its corrugated steel walls and the faint blue glow of Flux exhaust rising from the chimney. Home, or the closest thing the Emergence had left him.
+
+He felt it before he saw it.
+
+Not Danger Sense -- his was only Level 3, barely enough to register elite mobs and obvious ambushes. This was something older. The lizard-brain awareness of being watched, the prickle at the back of the neck that evolution had spent a million years refining and the Substrate hadn't managed to replace.
+
+Callum's gaze shifted to the cross street on his left. Casual. Unhurried. The way a man looks at an intersection he's crossed a hundred times.
+
+A figure stood at the corner of an abandoned machine shop, forty meters away. Heavy armor, functional and well-maintained. A tabard draped over one shoulder.
+
+Iron Vanguard insignia. Crossed hammers in burnished gold, catching the last of the afternoon light.
+
+The scout was not looking at the street. The scout was looking at Callum's warehouse. Specifically, at the Flux exhaust rising from its chimney -- the visible signature of constructs running at full capacity.
+
+Then the scout's eyes moved to Callum. And to Jin, walking beside him.
+
+The scout did not approach. Did not speak. Made no hostile gesture. Simply noted them -- the construct operator and the Summoner, walking together toward a warehouse that hummed with automation -- with the clinical precision of someone who would write a report tonight and file it with someone who cared.
+
+Then the scout turned and walked away, unhurried, boots echoing on broken asphalt.
+
+Jin hadn't noticed. He was mid-sentence about the mathematical properties of Shardfield Residuum crystallization patterns, his hands drawing structures in the air.
+
+Callum filed the observation in the part of his mind that handled threats his constructs couldn't fight. It was a small room, that part of his mind -- usually empty, usually quiet. It was getting more crowded lately.
+
+*The Iron Vanguard is watching my warehouse.*
+
+He didn't know what that meant yet. He didn't have enough data to model the threat, to calculate probabilities, to optimize a response. All he had was a figure in heavy armor taking note of his Flux exhaust and his new associate and the fact that a compound loop was running in a district where the dominant guild believed idle play was something you tolerated, not something you respected.
+
+*Variable identified. Insufficient data. Monitor.*
+
+That was the clinical assessment. The cold, clean, optimization-mind response.
+
+The other response -- the human one, the one that didn't reduce threats to variables -- was simpler.
+
+It felt like a shadow passing over the sun.
+
+"-- and the crystallization rate actually increases with ambient Flux density, which means the Shardfield's output scales with proximity to the Toledo Fracture, which is why the highest-grade Residuum is always found in the --" Jin glanced at him. "You okay? You just went quiet. Quieter. Which for you is basically catatonic."
+
+"I'm fine," Callum said. "Keep talking."
+
+"Bold instruction. You may regret that."
+
+"Probably."
+
+They reached the warehouse. Callum unlocked the door and led Jin inside, into the hum and glow of his construct array, where three threads of luminous data wove between machines in patterns that Jin immediately began analyzing out loud. The Mk.IV Grinder. The Scrap Collector. The Refinery. The incomplete Enhancement Construct on its workbench, waiting for Echo Stones it might now get from a Shardfield partnership that hadn't existed an hour ago.
+
+Jin stood in the center of the workshop floor, turned in a slow circle, and said nothing for four full seconds -- the longest silence Callum had heard from him.
+
+"It's more beautiful than I imagined," Jin said.
+
+Then he pulled out a notebook, sat on the floor cross-legged, and began writing. After a moment, Mira's voice drifted from the back of the warehouse, where she'd been maintaining her sword: "Callum, who's the kid?"
+
+"Jin Park. Summoner. He's going to help with the Shardfield problem."
+
+"Is he going to talk this much the entire time?"
+
+Jin looked up from his notebook. "Almost certainly, yes."
+
+Mira appeared from behind a shelf of Flux Capacitor components, Fracture-Tooth Saber balanced across one shoulder, and looked Jin over with the swift, comprehensive assessment of a fighter sizing up a non-threat. "Great," she said flatly. "Three of us now. We're practically a guild."
+
+"We're not a guild," Callum said.
+
+"We're an optimized multi-class cooperative with complementary skill synergies and a shared resource infrastructure," Jin offered.
+
+"So a guild," Mira said.
+
+"Not a guild," Callum repeated.
+
+On his shoulder, Pip blinked.
+
+Outside, the sun dipped behind the Foundry District's roofline, and the Flux exhaust from the chimney caught the fading light and shimmered, visible for blocks in every direction.
+
+Visible to anyone who was watching.
+
+And someone was.

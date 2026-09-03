@@ -108,3 +108,572 @@ Fillarina nodded to Silverite, as she stood from her chair. She spoke with a cle
 
 Erick’s pulse quickened as he listened. He had sent people to their deaths.
 
+“[Incineration Bolts] took down three of our people right away. Felair and two others managed to take clipping blows. I eliminated five threats as soon as I saw our people were unprepared. I emptied the hideout, eliminating the threat. When the fight was over, Felair insisted on casting a [Witness] as quick as he could. I applied first aid, then went and helped those I could. When I came back, he had discovered that people claiming to be of the Cinnabar Hand had been there not an hour ago.
+
+“They were worried about this new [Cascade Imaging] and the degree with which it had been used to empty Spur of many different threats. But they had become tired of waiting for a response from Archmage Flatt, so they left. Before that, one of them laid on a [Scry] bed while the other two protected that one person from the other five people in the base. In Felair’s [Witness], he saw between nine and eleven people total.
+
+“Felair imagined that the Hand was [Scry]ing Spur, watching for a response. There was some hostility between the residents of the base and the three who were supposedly of the Hand.” Fillarina turned to Merit, saying, “Through seeing the subvocalizations of one of the residents of the base when they were telepathically talking to the Hand, the Hand claimed that you captured three of their people in today’s raids. The Hand themselves gave no secrets away, but the people at the listening post were not the Hand.”
+
+Merit’s face broke into a harsh smile. She said, “We captured ten people today, each wanted for smaller crimes. I have executed none. Yet.” She asked, “I suppose I will have to wait to speak to Felair to get the full description of who they might have been talking of?”
+
+“Yes.” Fillarina said, “The healing required to keep him alive was extensive, and his condition was exacerbated by his unwillingness to seek help right away. He will be asleep for a few more hours, at least. You might get more out of him, but I doubt it. According to what Felair told me, there was a great deal of hostility between the two groups, mainly in regard to how the Hunter community and the Hand are dealing with each other in the face of people hunting them from all sides.
+
+“The Hand is organized, but running. The Hunters are unorganized. There has been some chatter about the Hand dropping a lot of their requirements for joining, though. So we might see a lot of untrained people organized into a big force, soon enough.
+
+Fillarina continued, “As for the reason they decided to test Archmage Flatt’s defenses, we are not quite sure, though it would be simple to lay the reasoning for this at the rumors that Archmage Flatt has somehow learned to see through [Polymorph]. That reasoning might even be correct.”
+
+Erick said, “I haven’t, though!”
+
+Silverite said, “That might not matter, in the end.” She said, “Continue, Fillarina.”
+
+Fillarina nodded, “There’s not much left. The base was well appointed, but it was clearly a hunter listening post of some kind, with chairs designed for extended [Scry]ing and coded missives hiding in the walls. It was not a Hand hideout, but it might have been getting turned into one. Also, the defenders were half consumed with destroying everything they could, while they were also holding us off long enough for a few of them to escape.”
+
+Eduard said, “Our people would like the location of this listening post.”
+
+“And you will have it, as soon as we’re done here, and we’re almost done.” Silverite spoke, “People died to bring us this vital intelligence, and to warn us that we have three Cinnabar Hand in custody as a result of the day’s events, though that might be a ruse of some sort; we will find out. The attack on Archmage Flatt’s residence is a part of this, but as to what part, we do not know. I am of the opinion that the simplest answer here in the correct one. They are scared, and they are willing to go to war because of this.” She said, “I want everyone here to do their part to discover what happened today with the pixies in town, the hidden dream worms, the potential Hand in custody, and the attack on Archmage Flatt’s house.”
+
+“Pardon me.” Tyli spoke, “The Headmaster wishes to express that the boulder was obviously just a test of Archmage Flatt’s capability to track a person. The next time they attack it will not be a part of any test.” Tyli turned to Erick, and said, “Allying with Messalina’s crusade to kill the Hand would be a fool’s choice, for it might very well be that this sideways attack is actually from that cursed woman, and she is trying to get you to run to her for support.” She sat straight, speaking to everyone, as she said, “That is all.”
+
+Silverite acknowledged the Headmaster’s sentiments with, “We will be exploring all options.” She spoke to the room, “Our Sin Seeker thought that they divined the truth of our ne'er-do-wells in custody, but we will be going over them all again. Some of them might be Hand, or not, but all of them are worthy of Exile. If we cannot divine the truth, I might just exile all of them, anyway. If the Headmaster wishes to bring in his own Sin Seeker, we would welcome the second opinion.”
+
+Tyli said, “He does, and he will. Our Seeker will be arriving in three hours, to participate in any way they can.”
+
+Silverite said, “Acceptable. Thank you.” She continued, “With Archmage Flatt’s ability to [Scan] for biological markers all the way out to the Thousand Kilometer Ring, events are likely to get very difficult, very fast. We need the threat of the Hand and Messalina to end, soon, because the Dead City is changing. We suspect we have months until Ar’Kendrithyst makes their move, but I doubt that timeline.” She turned to Erick. “We have pieces of cloud giants for you to track, if that would work. Is there anything else you think you might need?”
+
+Erick said, “I can [Scan] for active magic, too. But—”
+
+Zago exclaimed, “Holy fucking shit!”
+
+Mog laughed loud. Ramizi and Eduard both said something to each other, while Tyli frowned.
+
+Silverite noticed, “Mage Tyli?”
+
+Erick saw the problem, and quickly said, “Only if I have that magic, myself, is what I was trying to say. I don’t have [Force Trap], and I guess that Mage Tyli’s concern is because I wasn’t able to find her [Stone Trap]s she used to defend my house on Oceanside. I don’t have a lot of the other magics some of you might have.” He added, “This inability to work with magic you don’t have seems to be a running theme.”
+
+Tyli smiled faintly, saying, “Ah. So that was the trouble.”
+
+Zago chuckled, then said, “Much more reasonable! This is a known nuance of the Script.”
+
+Mog smiled. She asked, “Then we need to authorize some illegal spells, don’t we?”
+
+“Done.” Silverite said, “Authorized and witnessed by all of you fine people here.” She said, “[Invisibility] and [Force Trap] are permissible for now. [Induce Emotion] would be a good way for you to end a fight without needing to kill someone, too. This is also authorized. You’re going to need to get a teacher to unlock that mind magic, though.”
+
+Erick bought the first two spells. He would ask Poi about [Induce Emotions], later.
+
+Invisibility 1, instant, touch, 100 mana + Variable
+
+A person or item touched becomes unseen for 1 minute per spell level.
+
+Moving while Invisible incurs a cost.
+
+Exp: 0/100
+
+Force Trap 1, instant, close range, 10 mana + Variable
+
+Place a trap that deals Variable force damage in a small area. Trap lasts 1 hour per spell level.
+
+Exp: 0/100
+
+Erick said, “I could search the forest for [Personal Ward]s or just [Ward]s, if you wish to look for hunters that way.”
+
+Zago muttered, “Now that’s just unfair.”
+
+Merit said, “I think I’m in love.”
+
+Mog went from smiling, to utterly serious and stone faced.
+
+Eduard said, “We can be ready to go in an hour. Either to assault a cloud giant city, or retrieve hunters or the Hand out in the forest.”
+
+Zago added, “The Mage Guild will be ready to scout whatever locations Erick discovers.”
+
+“We’ll be ready, too.” Mog’s shoulders relaxed a fraction as she said, “Three separate cloud giant assault teams are waiting for their targets. They could also pivot to hunt hunters, or the Hand. Whatever is necessary to end this shit going on around here.”
+
+Erick asked, “Who are we going to go after first? The hunters, or Messalina?”
+
+Silverite said, “Merit will deal with the people in custody from her end, along with Oceanside’s Sin Seeker when they arrive, but you, Archmage Flatt, will be given blood samples to track those people using your own methods, tomorrow, to find out where they have been in the past however-long. If any of them do prove to be the Hand, we will be handing them over to Messalina. I would prefer the Life Binder to have her pound of flesh and to go away, but I would like to know where she is so I can personally share my displeasure at her recent actions.”
+
+“Then I’ll look for Messalina, first.” He added, “There might be a way to find other suspicious people at the same time.”
+
+- - - -
+
+Erick set an Ophiel into the front yard to maintain and clarify a 500 kilometer map, the distance at which the Headmaster said Messalina was near Spur, while he stayed inside in the sunroom, directing the map’s formation from the safety of his [Prismatic Ward] and the walls of his house. He watched from the window as white fog turned into flat land, and [Scry] eyes popped into existence to check on the map every few minutes. The spell was currently searching for [Ward]. The city was an expected mess of blue dots. To the south, Ar’Kendrithyst was an unexpected plethora of blue dots, much denser than Erick had expected.
+
+But to the north, scattered here and there, were small gatherings of blue dots on the ground. Spur had already sent out people to begin the investigation of every single one, first with [Scry], thanks to the Mage Guild, then with Mog’s and the Headmaster’s prepared forces, depending on what the [Scry] turned up.
+
+Mostly, they found people camping in the desert. Sometimes, though, the people they found would blip away before anyone could ask them who they were. It wasn’t damning, but it was suspicious.
+
+It was late. The stars shone outside, while [Cascade Imaging] flickered a cold light in the cold desert sky, high above the city. It might have only been midnight, but Erick had already been awake for over 24 hours, since Oceanside was 5 hours ahead. But he didn’t feel tired.
+
+Poi and Teressa were already in bed, sleeping while they could, both of them showing that they were still soldiers; still willing to take whatever rest they could. Rats and Kiri were both awake. Both of them for different reasons. Rats had crashed hard once the house had been put back together and he found his room comfortably remade. He awoke later, and now his sleep schedule was ‘well and truly fucked’, according to him. Kiri just couldn’t sleep. She was young, so that made sense. A lot of things had happened today, and would continue to happen as long as active threats remained.
+
+Erick had no idea why he was still feeling perfectly lucid, but Rozeta’s Recovery likely had a lot to do with that. The coftea helped, too.
+
+Kiri walked into the room carrying a fresh coftea pot. She filled Erick’s mug on the table, then refilled her own. She handed Erick his mug, sipping her own as she did so. Erick took his cup, and sipped, as he returned to looking out the window, and the resolving map.
+
+Kiri said, “That’s a lot more blue than I expected in the Dead City.”
+
+“That’s just the top layer, too. The spell can’t image that deep.”
+
+“… Have you ever searched for… you know who?”
+
+Erick almost laughed, but he just chuckled nervously, then said, “It’s a scary image, that one.”
+
+Kiri’s eyes went wide. She sipped her coftea. She looked at her coftea. “This needs some alcohol.”
+
+Erick smiled. “Maybe later—” A new target appeared on the map. He lost his smile, as he said, “Blue dots in the air. A lot of them. Two hundred kilometers to the north.”
+
+“Must be Messalina.” Kiri guessed, “Took a while for the spell to propagate?” She glanced up a bit, at the translucent [Scry] orbs floating in the manasphere around the map, adding, “They see it, too. That’s a lot more [Scry] orbs than before.”
+
+Four [Scry] eyes floating around the map turned into dozens. Some of them bumped into other [Scry] orbs, popping both of the orbs in the process. Their controllers must have recast the spell; the orbs reappeared around the map, and this time they maintained a distance from each other.
+
+Erick asked, “Do you feel safe here, Kiri?”
+
+Kiri sighed. She smiled. “As safe as anywhere, when places like Odaali and the Life Binder’s village can be wiped out—”
+
+A woman’s voice vibrated the window, “Erick Flatt. This is Messalina. They’re coming for you. Get out of there while you still can.”
+
+Erick felt his blood run cold, then hot, as he activated [Hunter’s Instincts]. The world seemed to slow, as his mind raced faster, and faster. As a calm descended upon him, he said, “Kiri. Retreat to a secondary location.” He sent to Poi, ‘Wake up. Someone claiming to be Messalina has warned of an imminent attack.’
+
+Kiri dropped her coftea mug. Sunny perked up around her shoulder.
+
+Erick turned his attention toward the outside. He had positioned nine Ophiel outside of the house hours earlier, yet still inside the Restful air of the house; still covered by the [Prismatic Ward]. They were like tiny parakeets on the windowsills and the roof and the towers, waiting and watching for an attack. At Erick’s new command, they all came to attention. Each of them searched for figures in the night, or hidden attacks. Four of them immediately activated [Detect Intent Aura], looking for a discrepancy in the darkness—
+
+The Ophiel on the roof responded with a wordless warning. Another two Ophiel looked up, and Erick looked with them.
+
+A pale red dot flashed high above, higher than Erick’s flaring white orb. It began to fall, like a single star plucked from the sky and sent tumbling down.
+
+Erick came back to himself. Kiri’s mug crashed to the ground, spilling hot liquid across Erick’s pants, flickering his white [Personal Ward]. He didn’t care about that right now. He yelled at her, “Retreat! That’s an order!”
+
+“I’m staying, asshole!” Kiri yelled, “That skill makes you mean, you know!” Kiri’s green scales flushed dark. Sunny took to the air. Green armor materialized around Kiri’s body, as she demanded, “Put on your armor!”
+
+Erick wrestled with an unknown, angry emotion, as he searched for fault in Kiri’s words. He found none. He flashed white across his body. Cloth armor materialized like a robe with some extras, covering his arms and legs. It even had a cowl that bunched up around his neck, protecting that area, but it could be pulled over his head, too, if needed. It was strong as kevlar but reinforced with metal bands around his torso, inside the cloth. He said, “Fine. Armored up.” He asked, “Where are the rest of your [Familiar]s?”
+
+“Around. Just like how you did yours.” Kiri looked up at the window, saying, “We should get away from the window. No point in giving them an easy attack vector.”
+
+“It’s coming from the sky, Kiri—”
+
+Poi rushed into the room, saying, “We need to evacua—”
+
+“I got this.” Erick said, “I’ll be right back.”
+
+“You don’t!” Poi said, “That’s a magnitude—”
+
+Erick did not hear the rest of Poi’s words. He had work to do. As he fell into Ophiel’s senses, he quickly worked several angles at once. He sent a message to Silverite, telling her what was happening; he did not wait for a response. He took the Ophiel by the map and canceled the spell, then recast it much closer to the ground, searching for ‘people’. The cascading orb came into existence just high enough to clip the entire Human District. In a second, blue dots appeared on the map, but there were no visible people on the dark stone around the house. The Ophiel running the [Detect Intent Aura]s reoriented themselves. They spotted the people in the darkness, like they were blank spaces in a snowstorm. Erick did nothing to them, not right yet, but he did recognize that they were there, and slowly creeping up on the house. Some of them paused. They understood that they had been spotted. Some of them kept coming, slowly, either not understanding anything, or knowing more than him; Erick couldn’t tell.
+
+The pale red dot in the sky was still falling, too. Erick flickered an Ophiel upward. That Ophiel instantly disintegrated into formless ash when it got within a hundred meters of the descending red dot. For a brief moment, as he came back to himself, Erick was surprised. That Ophiel should have had about 6700 effective Health, but simply being near the red dot caused it to fall apart? That did not bode well.
+
+Erick summoned another Ophiel.
+
+The second Ophiel went in surrounded by a [Pure Reflection Ward]. He survived his initial exposure, but the power of the red dot showed itself as Ophiel, with his perfected magic reflection active, became like a rock in a dark stream full of phosphorescence. Invisible power caught on Ophiel’s many winged body, flaring into visibility, turning night into day as the winged [Familiar] became an unintentional flamethrower, blinding him for all the light, but showing all the Ophiel on the ground exactly what they were up against.
+
+The pale red dot was an ocean of power, released as a point, filling the sky with invisible heat. The reflective Ophiel near that dot was like an ant subjected to a tide of power, and he was losing his grip. All that heat was not just magic, but a force upon the world that would not be denied.
+
+Erick maneuvered the reflective Ophiel directly under the moving dot, dragging light and fire behind him like some unseen godzilla breathing fire across the night. The red dot struck the [Familiar].
+
+Briefly, the spell bounced.
+
+Erick came back to himself, just in time to see the sky turn fully red outside of the sunroom’s windows. Fire crashed in every direction. Up, mostly, but also out and down. Ophiel had managed to deflect the spell, but it still exploded. Red flames reached for the city.
+
+A sudden barrier of opalescent energy capped Spur from wall to wall, kilometers across; a soap bubble protecting against an attack designed to wipe out a city. A thought occurred to Erick. Was this red dot the spell that turned Messalina’s village into a crater?
+
+Erick watched as fire warred against a bubble. The bubble won. Fire burned everything that was not covered, glassing the land outside of the walls.
+
+Barely any time had passed since the attack started.
+
+The invisible people in the front yard were already moving. They had been moving since Erick last heard Poi yell something about ‘magnitude’. Red bolts of fire launched from hidden positions all around the property. They were attacking at the same time that the red dot turned the sky into fire.
+
+Kiri and Sunny were already on the defensive. Erick watched for the briefest moment, as fire bolts curved in the air around green couatls and flew back at their attackers. She missed on her return throws, a lot, and some [Incineration Bolt]s still struck the house, damaging the dense air, but she kept most of the bolts from striking. She was doing good work. More than enough, even. Many bolts were still in the air when Erick stepped into the fight.
+
+Every single Ophiel still on the house looked down upon the surrounding battlefield with hundreds of eyes. With slicing clarity and over the course of ten seconds, the eyes of every Ophiel turned green. A hundred green-white coruscating lines of force clipped across the land like disco lasers, attempting to slice and cut without leaving any room for escape.
+
+Erick did not expect this tactic to work. He expected deflections, avoidance, damage soaked into nothing, and retreat. What he got were a dozen bodies clipped into melting slices of meat, and another ten people’s blood spilled across the ground. Those ten people did not stick around. They vanished in colored blips of light that appeared out of nowhere, their [Invisible] selves flickering with their magical signatures as they cast the spells to get away.
+
+A distant part of him, upon seeing the devastation he had wrought, thought ‘That’s what 50 + 2 times Willpower damage per second will do’. Even with Ophiel’s lesser Stats compared to Erick’s, that was still 180 damage for the briefest touch, and another 180 damage over the next four seconds. Another part of him was crying in a corner of his mind, puking, staring at the bodies on the ground with the hundred eyes of Ophiel. But since [Hunter’s Instincts] was active, his clinical side remained in control.
+
+Fires burned outside and on the barrier above, but the [Incineration Bolt] assault was over. Every single enemy combatant was gone, for now.
+
+Kiri spoke first, “Is… Is that it?”
+
+Erick, his own eyes fixed upon the map outside his house, quickly said, “No.” As the fires above the opal bubble across Spur winked out, and the bubble flaked away, he had Ophiel gather up blood from the places where people had attacked. “Not over. Not yet.”
+
+Merit and Silverite’s voices came to him after ten minutes; there had been attacks all over the city, each one going off as the red dot fell from the sky. Erick was too busy right now to give all of that its proper attention, so he told them some nonsense about how he was okay, and everyone was okay, as he gathered blood, and body parts. A hand. A leg. An arm. Not a head, though; that one was dead. His own attackers had gotten away, but not for long.
+
+Erick got back to work. He had Ophiel float beside the map outside of the sunroom and hold onto a finger. Through his [Familiar], and still inside the safety of his [Prismatic Ward], Erick recast [Cascade Imaging] high, high into the sky.
+
+Poi spoke to the air, to include Erick in whatever conversation he was having, saying, “Yes. He’s searching for the fleeing attackers now. I already see dots appearing on the map. Looks like this one was a native, too, either impostor or natural and active in the town… Affirmative. I will let him know.”
+
+Erick stared at the map forming outside his window.
+
+Poi said, “They attacked the jailhouse, too. They attacked a lot of places. There are casualties.”
+
+“Tell them to bring any body parts or whatever here or tell me where I need to go to get them. I’ll search for whoever they want.” Erick added, “If Messalina contacts us, tell her she will have to wait her turn to get the bodies I dropped. Unless Silverite has a problem with that?”
+
+“… Messalina doesn’t need the body to get the soul.” Poi said, “If Messalina was ready for this, then she already has them.”
+
+Erick stomped down a sudden rage warring in his chest, as he continued to look down, out of the window of his sunroom, as the blue dot on Spur remained blue, and the thousand kilometers around Spur continued to materialize out of the white fog.
+
+Another blue dot appeared to the south, not too far. Maybe only a hundred kilometers.
+
+The thing about searching for DNA was that it wasn’t a perfect system. Sure, it could track people over great distances and cross contamination ensured that [Polymorph] was not a proof against Erick’s form of detection, but Erick had learned yesterday that finding extra dots on the map did not mean that a person was actually at any of those dots.
+
+He also learned that people were a lot less smart than he thought they were. Sometimes a person was active all over town and in a few other places here and there, but when a dot pinged in the middle of nowhere, that was usually a hiding hole of some sort.
+
+Finding those hiding holes was the hard part, but not anymore. Erick was practically able to make a list of where a person had been, and through the power of his Ophiel, checking every single one of those locations was easy enough.
+
+As for this latest dot, Erick sent a pair of Ophiel to the far off dot in the desert. The two winged [Familiar]s instantly found a trail of blood leading nowhere, in the middle of the dark desert.
+
+Erick infused Ophiel with [Hunter’s Instincts]. He watched from the eyes of each of them, as each of them turned harder, their wings sharper, their eyes slitted and brighter white than before. They looked down, and temporary instincts told them that their prey was still here. People were yelling down below, under the sand.
+
+[Stoneshape] ripped the ground apart in great rocky masses. Sand fountained as a home appeared out of the ground. Books flew. Cloth and food scattered. Little wooden swords and building blocks with letters on each side, fell into the sands, or broke. A human father, or a husband, or someone, held a dying human woman, as their children and he all gathered around their loved one, and stared at the suddenly open sky. Their mother was never going to stare at anything ever again. She was already dead. Ophiel could tell; she had died in that moment, right then, with blood pouring from her sides, her arms in tatters, and her face partially melted.
+
+Erick controlled his overwhelming emotions long enough to message Merit about the location. Ophiel blipped away, as people in silver guard’s armor blipped in.
+
+Erick moved onto the next target.
+
+The first target threatened to turn Erick into a wreck. He could still hear the wails of children crying over their dead mother. But tracking down and finding the other attackers was emotionally uncomplicated.
+
+There were a pair of people who lived under a pile of rocks with their collections of bloody knives, and piles of humanoid limbs. An orcol pinged over in Kal’Duresh, and that was a minor political incident, but Erick later heard that Baroness Pirazel Xelxex was happy that one of the Hand had been uncovered in her city. A trio of humans pinged in Frontier, each living in different locations. Viscount Andro Helix was not happy about losing a member of his guard and two great bakers, but their recent downturn in quality of baked goods led credence to the idea that they had not been themselves for months.
+
+Four of his own attackers took a lot longer to find.
+
+Erick stayed up late, well into morning the next day, tracking down blood from one 1000 kilometer ring to the next; from the foothills of the Mondariska mountains in the east, to Vindin in the far north, to the edge of the Wasteland Kingdoms in the west and everywhere in between. He left Ophiel scattered at these locations powering maps, waiting for their next target. Each of those Ophiel dropped a [Prismatic Ward] nearby, too, so they had a way to easily regain their mana.
+
+It was a confusing day.
+
+Merit dropped off samples from other attacks on Spur. This led to fifteen other targets being found across the Crystal Forest. The attack at the jailhouse had been successful in retrieving three people; Fillarina’s intel from Felair had been correct. Once the Hand’s full attack was underway, members of the Hand had come and rescued their people and killed everyone they could on the way into the jailhouse. They even knew where the anti-[Teleport] runes had been; they disabled those and left the easy way, in several blips.
+
+Erick’s [Cascade Imaging] found those targets, and the three people that had been in her custody. Merit’s vengeance was bloody, swift, and absolute. Erick did not know any of the three people in custody. He was glad for that.
+
+A few targets got away completely.
+
+The day also got away from Erick.
+
+Erick stood by the window of his sunroom, staring at the map outside while the late afternoon sun spilled light across his feet. The time to rain on the farms had come and gone, but he had been busy, and Silverite had placed the city in a state of emergency; nothing was happening today except for military action.
+
+As Erick stared at the map outside his window, he was only half present in the moment. He was also looking through Ophiel’s eyes at similar maps scattered across the Crystal Forest, searching for the final targets; the ones who had gotten away. Either they had left the desert, or they were much more careful about keeping their [Polymorph] forms in separate lives, or they had cleaned themselves in ways that the others did not.
+
+The orcol discovered in Kel’Duresh was completely clean, but they must have worn [Conjure Armor] that transferred DNA, or maybe they thought [Cleanse] got rid of everything. Or maybe they had made a mistake somewhere in the past and cross contaminated their home in that tiered city with the DNA of the body they used to hunt people. Erick didn’t know for sure. He would likely never know. But he did know that a killer was dead, and that was good.
+
+The Baroness’s words to Erick, delivered to him through Poi, might have been thankful, but there was obviously some strain in that relationship as a direct result of Erick’s ability to hunt people down so easily.
+
+Erick turned to Poi, asking, “How did she say it, again?”
+
+“‘Thank you for your magics. I am sure that they will be used well, and not abused at all. Thank you for inventing this wonderful new method’. End quote.” Poi said, “It was slightly more sarcastic than that.”
+
+“Yeah… She’s not happy.”
+
+Poi said, “You should get some rest, sir.”
+
+“I’m not tired.”
+
+“Please don’t make me have to keep up with you, like this.”
+
+Erick burst a laugh. “What?” He turned to Poi. “Oh.” He frowned. “You’re not joking, are you?”
+
+“No, sir.” Poi said, “I am not joking. I can do it, but it is difficult.”
+
+“… Even with the new Stat rings?”
+
+“Even with.”
+
+“… Okay, Poi. Sorry.”
+
+“Nothing to be sorry about. I’m not asking you to not do what needs to be done, but the fight is over, and has been for a while. You haven’t found any new targets since noon, and you haven’t eaten since yesterday.” Poi said, “Your ability to outlast everyone is just something to be aware of, going forward.” He asked, “But I have to ask. Are you really still not tired? Hungry?”
+
+Erick checked himself. He said, “No. Neither.” He tried a joke, “You could teach me [Induce Emotion]. Maybe I can share my wakefulness?”
+
+“… Maybe some other day.” Poi asked, “Don’t you have other spells to level? From last night? Work on those.”
+
+“Already done.” Erick said, “I raised [Invisibility] and [Force Trap] to ten through Ophiel hours ago.” He asked, “What were you saying last night, about ‘magnitude’?”
+
+Poi looked out of the window as he stood beside Erick. He took a while to answer. Eventually, Poi said, “It’s a method Mind Mages use to gauge the change upon the world that a spell is designed to cause. Sometimes it's easy to tell that number. Sometimes it’s hard.”
+
+“That’s why I’ve never heard that term before.” Erick asked, “What magnitude was that red dot spell?”
+
+“… Nine.”
+
+Erick nodded. “What about, like, [Call Lightning]?”
+
+“… Seven.”
+
+“Really? What’s the difference?”
+
+“Are you ready to hear the full account of last night?”
+
+Erick suddenly felt awful. He said, “Way to change the subject, Poi… But… Yes. I’m ready. Tell me the full report.”
+
+“A few people died on the walls and in the taller towers. Some of the new architecture messed up Archmage Opal’s shield, causing holes in her [Ward].” Poi said, “The farm is a complete loss. That red dot glassed the land outside the walls and flash incinerated the rest of the plants.”
+
+Erick felt his [Hunter’s Instincts] falter, but he kept the drain active; it kept his mind clear in the face of this attack, and in the aftermath. He said, “The loss of life is worse than the loss of the farms. We can rebuild.”
+
+“It gets worse.”
+
+Erick breathed. He said, “I’m ready.”
+
+Poi paused, briefly. He continued, breaking horrific news as professionally as he could, “Felair was killed in his hospital bed. Directly after that, a massed attack on the Adventurer’s Guild killed twenty seven people; mostly rookies. We believe that specific attack was an unorganized set of explosions designed to confuse just as much as it was designed to kill.
+
+“Farmer’s Council members Valok Greentalon and Krakina Kali were killed at the same time, on opposite sides of the city. Apogough Ooragh survived, but his father the cattle rancher did not.
+
+“Savral Noraki was killed defending his father, Al the Sewermaster, directly after Valok and Krakina were murdered.
+
+“Sometime in the middle of all that, someone hit the Church. They stole Jane’s unicorn horn and killed three acolytes, four priests, and a few others. Darenka was wounded, but she will recover.
+
+“This is the order of events as put together by Merit and our other [Witness]-capable people. Teressa is not ready for that burden, but Merit has conscripted her for her Mana Sense anyway. She’s close to [Witness]; it could happen at any time today. Rats is out helping heal those he can. He got his [Greater Treat Wounds] quest done last night, when he participated in the retaliatory strikes you precipitated with your [Cascade Imaging]. Both of those two are currently still working, either to find out what happened, or to help heal those injured. As the Church has been struck and several important healers killed, including the Matrons that helped to raise Rats, Rats has requested leave to help at the Church.” Poi added, “Kiri is still working with the Mage Guild and Sizzi to scout the locations you have found, since both of their [Familiar]s have independent mana pools. Kiri is still upstairs, though. She’s working from here.”
+
+Erick stood still, staring at the white map outside of his window. He felt hollow. He felt like someone had sliced him up and pulled the ribs out of his chest. He breathed, barely. Wetness rolled down his face, but he did not let himself openly cry. Not right now. Tears fell as they were wont, and Erick said, “Rats did ask to go out and join the fight, didn’t he. I barely noticed.” Erick demanded, “They’re both okay out there in the city, aren’t they?”
+
+“They’re fine.” Poi said, “You’ve been running [Hunter’s Instincts] for a while now.” Concerned, but still professional, he said, “There’s a reason they call the people who kill others ‘hunters’. That skill changes some people. Some can’t handle the power it gives them. Prolonged use is bad for you.”
+
+Erick nodded. “I’ll… I’ll turn it off when we’re done.” He added, “Rats has his leave. Tell him… I’m sorry for his loss. No! I’ll tell him myself.”
+
+“Very well, sir.”
+
+Erick sobbed once, thinking of poor Delia Greentalon, Valok’s 15 year old daughter, all alone, now. Had she even Matriculated, yet? Then he controlled himself. Savral was dead, too. And Krakina! They had killed the Weather Witch of Spur! How was Krakina’s granddaughter, Ikawa, holding up? Ikawa and Savral had taken Jane out with them and the rest of their crew for Jane’s first adventure through the Crystal Forest. How was Al doing? And holy hell, Rats’ basically-mother was killed, too? Did he have that right? He needed to talk to Rats, and soon.
+
+He felt himself go cold as he muttered, “They hit the Church, too, and took the horn, huh? Was that their purpose?”
+
+“We believe it was an opportunistic theft. They aimed to kill the healers. They almost succeeded.”
+
+Erick felt a glimmer of hatred well inside his chest and take over every single thought process. An opportunistic theft, huh? Well that’s the sort of thing that gets people killed, doesn’t it. It would certainly get some more people killed, if Erick had anything to say on the matter.
+
+He had seen the horn multiple times after his rains on the farm and when Mog called him over to kill a monster; when all of that was done, he had sometimes turned Ophiel tiny and made him take the scenic route through town before dismissal. His sight seeing had taken him from the gargantuan trees outside of the Adventurer’s Guildhouse, to the roofs across from the gold-walled Sewerhouse, and even to the resplendent rainbow interior of the Interfaith Church. He had seen that horn many times.
+
+With a thought, Erick contacted his Ophiel still scattered across the Crystal Forest. He had them search for the horn. It was a light essence construct nine meters long, and while it might have been mostly ethereal, it was also rather solid, and distinctive. It was radiance twisted into a fractured spike, and Erick was pretty damn sure it was gone forever, but he would try to find it anyway. He might even get lucky.
+
+Erick tensed his hands into fists. He felt a primal need to wrap his fingers around a throat and squeeze the life out of a killer.
+
+A blue dot appeared, far to the south. He got a match. Erick balked when he saw where it was.
+
+He turned to Poi, saying, “Holy fucking— The horn is in Portal.”
+
+- - - -
+
+In a long neglected stone room on the edge of the seaside city, where crates stacked high and carpets laid in piles seven rolls tall and twenty deep, there laid a treasure worth a kingdom, and two very scared kids. The treasure glittered on top of the rolled carpets, atop a thin layer of dust.
+
+A simple [Cleanse] would have taken care of the dirt, but the owner of this property hadn’t paid the kids to clean the place. He had paid them to watch it, and to never go inside. Almost two weeks ago those payments had dried up. The orphanage was going under because Spur was growing their own food now, and Portal suffered for their gain. So when blackscale Andar got a hookup with a temporary job that paid way too much and mainly involved being a lookout, he took it. Bluescale Morothy felt the same; she insisted on going along for the heist. They had both Matriculated ten days ago, and because they accepted this job, they had been a part of a power leveling operation to get them ready for the heist.
+
+They didn’t know the hit was against Spur and the archmage who fucked over their entire town until it was too late. At the time, both of them were more than willing to kill for revenge, and for gold. Their handler had even grabbed the horn and shoved it at the two of them, and told them to get to the meetup.
+
+And now, that horn was going to get them killed. It had already killed their handler, for sure. Their last contact with the handler had been ten hours ago. Now, when they tried [Telepathy], their calls connected to no one.
+
+Andar was not taking it well.
+
+Andar cried out to the empty air, “They’re gonna come for us, Morothy!” His bloodshot red eyes were beyond fear, as he clung to Morothy’s shoulder, bunching the girl’s shirt in his hands, ripping the fabric with his talons. “Where are we gonna go! This was a bad idea! I didn’t want to be a hunter!”
+
+Morothy let him cling, as her own bloodshot eyes stared down at the nine meter unicorn horn. She casually said, “We just put in the oils for the anti-[Teleport] runes. We’re safe, for now. We just gotta leave our old lives behind. You know how the Hand does it. We gotta...” Her eyes went wide, unblinking. “We gotta kill someone and take their life.”
+
+Andar pleaded, “We took too many lives—!”
+
+“Eat a brain, eat a heart, take a life, a brand new start.” Morothy said, “That’s how it goes. That’s our life now.” She calmly said, “We gotta kill that alchemist. The one you’re friends with. Raid his stock. Get a pair of potions. He won’t see it coming.” She broke her stare at the horn and turned to Andar, who was still clinging to her shoulder. He had gone silent. “Do you not approve?”
+
+Andar let go. Then he tapped her shirt with a black talon, causing the fabric to repair. He said, “Okay. But we could just steal—”
+
+“No.” Morothy said, “We’re killing him and ditching the body in the ocean. We left no traces in the attack, but our handler is dead and the Life Binder is looking for anything she can get. I’m not gonna be no zombie, Andar. We’re doing this right, and then we’re getting out of here. How’s Nelboor sound to you?”
+
+Andar breathed out unsteady, his lungs seeming to seize up as he said, “O— Oka— Okay. We’ll do it your way.” He calmed. “Nelboor is fine. We’ll go there.” He looked down at the horn. “You’re gonna eat this, right? You’ll do better with [Lightwalk] than me.”
+
+“Soon as we kill Rool and take some [Polymorph] potions, and then it’s just a trip to the sewer. I can eat most of the horn as an acid slime. Should be good enough.” Morothy said, “Just you watch, Andy. We’ll be good—”
+
+The air moved. Dust filtered down from atop a stack of crates to the right, behind Morothy. Morothy’s eyes flared blue as she whipped around to better see the disturbance. Andar turned his own [Hunter’s Instincts] on, and did much the same. The dusty air of the room suddenly felt less dirty, and more a perfect way to spot hidden threats tracking through the dirt as they tried to move hidden behind all the stacked and shadowy crates. Andar absently wondered if that was the reason they never cleaned this place.
+
+Morothy smiled wide as she stared at the stack of crates. She asked, “Which urchin decided to follow us in here? Is that you Thoom?”
+
+Andar watched, saying nothing. He had always been a better lookout than Morothy. That was likely the only reason he saw the thin metal interior spikes of the anti-[Teleport] rune, behind the horn and the stacked carpets, bend ever-so-slightly out of shape. He had charged that rune himself. Now, he watched as the dark grey magic he had laid there flickered and died.
+
+Sudden realization struck him too late to reach for the horn. He flailed forward, reaching toward the pillar of spun radiance, trying to touch it before—
+
+The horn vanished in a blip of white. The horn was there, and then it was gone, and everything was worse than it had ever been before. The closing orphanage didn’t matter. The trade district with half as much food as before didn’t matter. His rumbling stomach was a distant concern.
+
+Mostly, he thought about how much he missed Tenday desserts, with the whipped cream on icies and jams of every sort. Andar hadn’t had one of those treats in months.
+
+Morothy crumpled behind him. Andar turned just in time to see a pair of men guiding Morothy’s body to the ground, and shackling her with anti-magic wrist cuffs. He almost got away, himself, but everything went dark. His mind tried to touch upon his magic, to get away, but it was too late. The fight was over. He was done for.
+
+He barely registered discomfort as a pair of cuffs slipped over his own wrists and spikes punched into his flesh, drawing out both blood and magic. His Health drained away, just like his Mana. In a minute, it would be like he had never Matriculated, but without the defenses of Childhood to protect him from the lesser terrors of the world, like a too-dark room, or a too-high fall and a broken bone.
+
+He should have never trusted that hunter, claiming an easy score was just a few [Teleport]s away.
+
+- - - -
+
+Erick watched from an invisible Ophiel as the two kids were taken away by Portal’s city guards. The horn was already back in his house. It was currently occupying the main hallway on the first floor, sticking out into the foyer, taking up walking space.
+
+Erick said to Poi, “They were just kids. And she was talking about killing some alchemist to get a [Polymorph] potion… Shit, Poi!” He turned back to the window, whispering, “What the fuck is wrong in Portal? Life is not supposed to be a zero sum game.” He exclaimed, “Fuck!” Another thought barreled into his mind. “Savral. I need to go see Al.”
+
+- - - -
+
+Erick walked through town to get to the Sewerhouse. Poi flanked him on one side. Kiri flanked him on the other. Five Sunny curled around Kiri’s neck, like a loose, living scarf, or maybe a tiny, winged hydra. The [Familar]’s tiny heads were taking in every sight all around them; Kiri was on high alert. Poi looked much more reserved to Erick’s eyes, but he knew that his sapphire scaled guard was on higher alert than anyone.
+
+The streets were empty except for some guards. Military law was in effect, and they were on patrol to ensure its enforcement. Twice, the guards almost approached Erick when they saw him walking openly in the street, but each time recognition dawned on them well before they opened their mouths. Erick, Poi, and Kiri walked on, to the Sewerhouse.
+
+They reached the sewerhouse without incident.
+
+The golden three-story building had been broken. Grey and orange stone showed through flaking golden wardpaint that clung to the stone that remained, and on the flat surfaces of the debris surrounding the building. The top two floors were barely there. Rubble piled against the walls, like someone had temporarily shoved it to the side. Sunlight filtered down all the way to the front room, where fountains usually gave the tiled and ostentatious space a sense of grandeur unlike any other place in Spur. The front doors were gone. The fountains were silent. Al was inside the front room, sitting in a chair in the sunlight, alone.
+
+Al was a giant, brown-green orcol man, who usually wore dark clothes fit for a sultan-mobster, all pinstriped with gold and tight vested, but with loose and airy arms and legs. Right now, he was shirtless in the sun, but he was not relaxing. He was in mourning, and he had obviously lost a terrible fight. His pants were torn. Blood had dried across his body, and soaked his dark pants. He took a swig from a giant liquor bottle, then lowered the bottle, placing it on a short, solid glass table, to the side. Erick couldn’t quite tell what that table was from his angle, standing outside of the remains of the Sewerhouse.
+
+Al watched Erick, Poi, and Kiri stand outside of his house. He said nothing, but instead gave the three of them a single questioning raised eyebrow.
+
+“Hello, Al.” Erick said, “I heard. I’m sorry.”
+
+Al sneered, then picked the bottle back up and took another swig—
+
+He paused. He looked at Erick again. He sneered wider, saying, “Fucking heaven and hell. You went and switched Scions.”
+
+“I did not.” Erick stepped forward, over the broken wall, into the Sewerhouse saying, “I just… got an unexpected… boo...” His words left him, as he looked down at the glass table to Al’s side.
+
+It was not a solid glass table. It was a casket. Inside the box, was Savral. The blackscale dragonkin rested inside the stone, poised and clean, with his arms over his chest and mended clothes. Al set the bottle back down on his son’s casket. Glass met crystal, with a loud ‘bonk’.
+
+It was an odd noise, completely at odds with everything Erick was seeing.
+
+Al said, “You got an open line to the Life Binder? I want Savral revived.”
+
+Erick looked back up at his friend. He said, “Okay. I’ll see what I can do. She’s going to want something. I’ll see if I can pay it for you.”
+
+“Good man.” Al said, “I can pay. Don’t worry about that.”
+
+“… I want to help, Al.”
+
+Al grabbed his bottle and took another swig. He said, “Okay. You can pay.” He added, “You can leave now, too.”
+
+- - - -
+
+Erick walked back home and everything felt surreal, from the near empty streets, to the silence hanging in the air, to the faces peering out from windows to see who was walking around outside, before they quickly vanished back into the dark interiors of their homes. Poi telepathically rattled off casualty numbers at Erick because he asked him to, but far from making everything seem real, it just made everything feel stranger. Like he was walking through a dream.
+
+He opened his Status to make sure he wasn’t wormed. The numbers came up. He closed the blue box.
+
+He and Archmage Opal and all the guards and the Headmaster Elites, and everyone else, had stopped the worst from happening, but the Cinnabar Hand and their various hunters and Caradogh had killed a fair number of people. At least it was confirmed now that Caradogh was fully involved in the attack. No one had any idea where he was, though, and all of Erick’s various maps turned up thousands of potential spots, but no Caradogh; not yet, anyway.
+
+Four hundred and seventy three people had died in the attack, so far, but thousands were missing. Many of the confirmed deaths were either people in charge or those close to people in charge. Many of them were business people with shops down Market Street, or around the Adventurer’s District. The Courthouse lost ten guards, and a handful of lawyers and office workers. A good forty adventurers were dead. A hundred farmers were killed. The numbers went on and on.
+
+Silverite and the people in charge decided that the attack was meant to do one thing, directly:
+
+This attack was meant to hurt Spur for years to come.
+
+And as for reasoning for the attack, there were two accepted ideas among the people in charge:
+
+One: The dying remnants of the Hand allied with every single remaining hunter, and with the help of Caradogh, they had attacked Spur hoping to wipe the town off the map, in order to destroy Erick’s theoretical magic from coming to fruition.
+
+Merit and everyone else was still checking on the veracity of that idea, using whatever methods they usually used; Erick didn’t want to know, not right now.
+
+Or Two: Portal had backed the attack, through Caradogh.
+
+It was a variation on the first idea, but if it was true, it meant dark times ahead.
+
+With that in mind, Erick telling Poi, who told whoever he told about the two kids who stole the horn, placed Portal’s quick no-nonsense takedown of those two kids in a new light. Portal was hoping to avoid looking like an enemy.
+
+Silverite and the people in charge over at Portal were currently in closed door meetings discussing… whatever they were discussing. Erick was not privy to whatever went on behind those closed doors.
+
+Erick got home and went inside; he went right to the sunroom, back into position behind the dense air of the house, standing over the map hanging outside his window. Silverite and Merit had already requested other searches, through Poi, mostly for guards or citizens or other people missing since the attack. Erick had been directing Ophiel to blip back and forth between the Courthouse and the Guardhouse to pick up those samples, and continue the search. Now, back inside his house, he saw those blue dots on the map in front of him, and [Scry] eyes hovering around the map.
+
+He adjusted the map as requested. He also brought those samples to his other Ophiel, hanging out around the Crystal Forest with their own maps. Sometimes the blue dots appeared on those other maps.
+
+Sometimes, the dots were just people saying that they were escaping the dangers of Spur. Sometimes, they were wounded in the attack, and they were passed out in the Crystal Forest after having [Teleport]ed away from their attackers.
+
+That was how Erick found out he was done hunting for hunters. Now, he was searching for survivors. He felt a bit better at everything, because of that.
+
+And while all of that was happening, Erick asked Poi to contact a certain someone.
+
+After a hundred searches and another hour, Poi spoke up, “She’ll contact you in a few minutes. But I must warn you, if it looks like she’s trying to control you, I’m pulling you out.”
+
+Erick sighed out, trying to force himself to relax. He said, “Thank you, Poi.” Erick sat down in a chair by the window, watching the thousand kilometer map sitting just outside his window. “I wonder what she’ll want.”
+
+Two minutes later, a voice came to Erick, ‘Greetings, Erick. Glad to see my warning last night was more than enough time for you to save most of your people.’
+
+‘Hello, Messalina. My friend’s son is dead. He wants a revival. What is this going to cost me?’
+
+‘Right to it, then! I do love directness in a man, but fret not! Today this service will cost you absolutely nothing, but it would be nice if your people would stop trying to infiltrate my city.’ She added, ‘Just because you found me, doesn’t mean I welcome you to bloody up my front lawn.’
+
+‘Has Silverite slapped you around yet? She said she wanted to share her displeasure at your recent actions.'
+
+‘That is simply no way to talk to a lady. Maybe your friend’s child should stay dead.’
+
+‘… Sorry. I apologize. I have been under some stress, lately.’
+
+‘I completely understand.’ Messalina sent, ‘I was recently under some horrible stress, too. But now that you’ve dropped a hundred hunters in your town and I already stole their souls for questioning, I am feeling rather great! You didn’t catch the Red Dot mage, but now I know who they are as an individual, and I plan on bringing them to justice. Fine, righteous justice!’
+
+Erick’s blood burned with demand. He asked, ‘Who are they?’
+
+‘My revenge first, Erick.’ Messalina sent, ‘When I’m done, then you can have them, though I doubt you’ll get anything useful out of an empty soul.’
+
+‘I can help you find them. They’ve already eluded you this much. They might throw you off their scent, again.’
+
+‘This time I have memories and threads of Fate to trace, and my Sin Seekers are the best in the world. I will give you this much, though: Spur managed to kill two of the group that killed my village. I will kill the remaining three.’ She sent, ‘Do be careful of Caradogh, though. He is a devious man, who always has a backup plan. I am fairly certain that this was his second to last ditch attempt. His final attempt will be considerably darker in tone, for sure. As for the revival of your friend’s son, just tell me who it is, and I’ll go fetch them myself.’
+
+‘… Al Noraki’s son, Savral Noraki. Savral was killed because… I don’t know why they killed him. Al wants him back. That’s all I need to know.’
+
+‘They killed him because every single hunter still existent in the Crystal Forest was hired or goaded into action by Caradogh, of course. The Sewermaster was a target because of his level. The son likely got in the way. This is very basic stuff, Erick.’
+
+‘… I have had a very busy day.’
+
+‘I can relate. Don’t worry about Savral. I’ll get it done.’ Joy and satisfaction flooded through the connection, as Messalina sent, ‘Thank you, Erick. I know we never entered into a formal bargain of trade, but I feel as though I still owe you something more than this. I hate owing anyone anything, so ask something more of me, please.’
+
+‘You can tell me what those pixies and dream worms were doing in Spur.’
+
+A smile carried through her words, ‘Caradogh was the Lower Trademaster of Portal, my dear Erick. That man has pockets as deep and as hidden around the world as Kirginatharp’s own. But they’re probably depleted now. Every single one I knew about, I stole. But who knows? He certainly had dark market connections all across the Letri Ocean, and many of those were with coastal pixie enclaves. Point is, is that they are not my slaves. The pixies are free actors that he probably paid well, and if he had succeeded, he would have become a leader of the Cinnabar Hand unlike we have seen in at least two hundred years. But he failed, thanks to you.’  She added, ‘I meant it about watching for one more attack from him. He’s as murderous as a shadowcat these days.’
+
+‘… I can’t help but feel that you’ve been secretly working with him while everyone else thinks he fled his position because the Headmaster was after him— Ah. No. You slipped that information into our previous talk on purpose, to get Caradogh to hate me even more. I bet it didn’t take much to get him to gather up all of the hunters he possibly could, to try and kill me.’ Erick continued, ‘Were you hands-on at all, for any of that? How many course corrections were necessary for today to happen? Where you would win, even if I failed, because you were just waiting for the hunters and the Hand to make themselves known at all, weren’t you? And now you have your way to find your final killers.’
+
+Simultaneously, all across the Crystal Forest, Erick searched for ‘pixie’.
+
+Every single map lit up with dozens of blue dots.
+
+Erick quickly reset the maps back to their previous searches, and sent an apology to Merit for the interruption in service.
+
+Erick sent to Messalina, ‘You could have at least helped my people take down our targets, but I didn’t hear about a single pixie helping in any single strike.’
+
+Bright joy filled the connection, as Messalina sent, ‘Such an overactive imagination!’ She laughed, then said, ‘For what it’s worth, I made him hate me, too.’ She asked, ‘Just to be clear. You do want me to revive this ‘Savral’ fellow, right? Not rip his soul apart so that he can’t ever find his True Peace? And probably ruin everything forever between you and Al?’
+
+‘… Please revive Savral, for Al. Thank you.’
+
+‘You’re ever so welcome. See you around, Erick!’
+
+Erick’s connection to Messalina snapped. He breathed deep. He turned to Poi, asking, “How did Silverite’s raid on Messalina’s cloud city go?”
+
+“Badly.” Poi said, “No deaths, but the Headmaster’s people went to the cloud city with our own soldiers. They were in the sky and just about to fight through her front door when the Red Dot came.”
+
+“So… Either she was working with them the whole time, or the hunters were waiting for those Elites and soldiers to leave, or maybe Messalina even saw that I was searching for [Ward] and she cast some highly visible ones out there in order to draw out some soldiers... which is exactly what Caradogh was waiting for...” Erick asked, “Or am I overthinking?”
+
+“No.” Poi said, “Silverite has already expressed this opinion.”
+
+“Is she still talking to Portal?”
+
+“Yes.”
+
+Erick nodded. He turned his attention back to the map. He asked, “Are there more targets? Did they find this one, yet?”
+
+“They have not, but that doesn’t matter. It’s time to move on.” Poi said, “Merit has more targets for you to pick up at the Guardhouse.”
+
+Erick nodded, and sent Ophiel blipping to pick up the next few pounds of flesh.
+
+Ophiel appeared on the edge of a plain stone room that was filled with guards in silver armor, and lots of chalkboards. Everyone was talking to everyone else, but Ophiel wasn’t here for the talk; he was here for the samples. A table down to the left was already set with three new targets; a hairbrush, a few horn clippings, and a few scattered red scales, each on their own metal dish.
+
+The guard overlooking the samples said to Ophiel, “Three possible survivors. They should be close.”
+
+Erick used Ophiel to Handy Aura the samples into the air, as he used [Prestidigitation] to say, “Okay.”
+
+Ophiel blipped out of there, back to the map in front of the sunroom. Erick deftly took hold of the hairbrush, through Ophiel, and recast [Cascade Imaging], using the biological bit at the end of the hair follicles as the DNA target. He had gotten rather good at this part, since his first feeble attempts…
+
+Yesterday? It was yesterday, right? Or was it still today? It might have still been today.
+
+Whatever.
+
+The map pinged in Spur, and also fifty kilometers northwest of town. [Scry] eyes hovered over the map.
+
+Erick waited.
+
+After a moment, Poi spoke, “Target found. Deceased. Blood loss from knife wounds.”
+
+“Who were they?”
+
+“Carnelia Izazoth, of Ruby’s Reds. She was an enchanter down on Market Street.”
+
+Erick felt a pang in his chest. “I knew her. I bought my first Strength ring from Carnelia.”
+
+“I know. I directed you to her shop.”
+
+“You did, didn’t you.” Erick breathed deep. “How was she doing, these days? Before… all this.”
+
+Poi listened to the air for a moment, as tendrils of intent flowed from his skull. He said, “She was working on metallizing her gems for longevity, like your gems. It was working, but not perfectly. Her Stat enchantments were starting to last twice as long.”
+
+Erick stared down at the blue dot outside of the city for a while.
+
+He moved on to the next target.

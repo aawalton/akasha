@@ -100,3 +100,240 @@ Kiri yelped, noticing Erick and Poi in the house for the first time. She sighed 
 
 Half an hour later, Erick couldn’t do any of them, either. The mana didn’t even move under his intent. It hadn’t moved under Kiri’s intent, either, but Erick had expected something.
 
+Erick set down the candle, declaring, “Can’t cast without the Script.” He quickly added, “Well. Obviously you can. Can’t make new spells if you couldn’t. But all the old ways broke.”
+
+“Yeah…” Kiri said, “I was just hoping for… something. I’m not sure.”
+
+“There’s a lot here to work with, even if the old ways are broken.” Erick looked around at the large books, scattered on the couches and laying atop the coftea table. “A lot of it looks rather familiar to how I was thinking of solving this [Particle Scan] [Polymorph] problem, too.” He gestured to the black book, saying, “Especially this guy's thoughts on [Alter Fate] and that woman’s book with the harmony plucked from this universe and imposed upon the people.” He added, “But I’ve got to make this other spell, and to do that, I have to go to bed and get up early again tomorrow. Are you going to keep reading?”
+
+“I would like that.”
+
+Erick said, “Good night, then.”
+
+“Good night.”
+
+Erick went upstairs and got ready for bed with a short [Watershape] and soap bath, and a nice even [Cleanse]. The soap was nice; it made his skin feel good. He would have to get some extra to take back to Spur. By the time Erick was ready to sleep, Poi’s door was already closed, and Rats had walked into the house only to silently fall atop his own bed and zonk out right there, with his door open. Teressa sat in an alcove on the second floor with her eyes closed, training her Mana Sense, while Kiri burned the midnight oil, reading from historical tomes sized for someone much larger than even an orcol.
+
+Erick crawled into bed. Ophiel crawled onto the covers beside him. The little guy turned a few times then sat right down against Erick’s hip.
+
+- - - -
+
+The morning sun fully rose over the eastern ocean. Light scattered across the lands east of Oceanside’s mountains, where Erick had created three original spells not too long ago. The land here was still damaged from that hydrogen explosion, and from all the other spells other people had used this place to test since long ago. Rocks and pits and shallow, dry stream beds were cast in dim shadow.
+
+The experiment sat fully exposed on a boulder two hundred yards away. Erick was aiming for Super Long Range with this spell. Anything smaller than that was begging for disaster.
+
+In preparation for just such an unhappy occasion, Erick had five Ophiel each cast a full strength [Prismatic Ward]. One of those dense airs was a simple dome for Erick, Kiri, and Poi to stand in. The other four were layered like onion petals around that central dome. It should hold, and they were 200 yards away from the experiment, anyway. As a measure of the potential destructive power of the potential spell, Erick had erected a variety of stone structures to the sides of the experiment; stone poles, people-shaped rocks, a few walls, nothing that extravagant; it was all intended for destruction.
+
+The experiment itself was a bright yellow sponge Erick had conjured, then soaked through with seawater, courtesy of a small trip to the nearby ocean. It was not the perfect target. It was just a proof of concept. Whatever happened today, whatever came out of this experiment, would likely have to be remade and attempted against a living target; probably a crystal mimic back in Spur.
+
+The problem, though, was that none of the starter spells worked at the range Erick needed.
+
+Purge Water X, instant, close range, 25 mana
+
+Draw out the water in a medium or smaller target, dealing <damage>.
+
+Catalyst X, instant, medium range, 50 mana.
+
+<Enables easier reactions in a large area>.
+
+Battery X, instant, medium range, <500 mana>
+
+<Electricity flows>. Lasts for 1 minute per spell level.
+
+Condense Hydrogen X, instant, close range, 25 mana
+
+<Collect all ambient Hydrogen in a medium area, into a small area>. Lasts 10 minutes.
+
+Condense Oxygen X, instant, close range, 25 mana.
+
+<Collect all ambient Oxygen in a medium area, into a small area>. Lasts 10 minutes.
+
+Incandescent X, instant, 1 minute per level, medium range, 25 MP
+
+Heat a small area to brilliance, dealing <damage> per second. <Effect increases with multiple castings>.
+
+He could use his [Withering] for the Super Long Range aspect of the spell, but the resulting spell, according to Erick’s napkin-math of the Expected Cost, was already looking to be way too expensive for him to cast.
+
+Withering X, instant, super long range, 500 MP
+
+Purge all water from all monsters in super large area, dealing <damage> every second. Cleanse the land around every monster killed in this way. Lasts 1 minute per level.
+
+Particle Mage Only.
+
+Yeah. That was going to be an expensive spell if he made it that way. He had another tactic prepared, though. Erick conjured another Ophiel, and sent him out toward the yellow sponge. For now, he’d combine the spell with Ophiel, at range. Maybe that would work, maybe it wouldn’t. This was an experiment, after all. When he got the actual spell, he could use some Mana Shaping to up the range to SLR so he could cast it himself. Maybe that would work, too?
+
+He had a rhyme for the spell prepared that might do everything all at once, just like he wanted, of course, but he wanted to see if this concept would work like how normal mages combined normal magic.
+
+Erick closed his eyes, inside the dense air beside Kiri and Poi, and opened them to see through Ophiel, hovering above the yellow sponge. The sponge was about the size of a person, and the top part was drier than the bottom. Water soaked out from the stiff yellow structure, coloring the grey and tan stone under it into darker shades.
+
+Erick held all 6 spells in his mind at once, like touching six buttons on a keyboard.
+
+He pressed them in order, attempting to combine them into one spell.
+
+Over a single second, several things happened.
+
+Water poured out of the yellow sponge like a burst water balloon, ripping apart the sponge and turning the conjured item into ambient mana. This was the first failure. The water that hung in the air flashed white, then flickered with blue sparks. Bubbles erupted out of that suspended liquid, further scattering the experiment, and thus the condensing spells gathered almost nothing. This was the second failure, but it was also a part of the third failure, as during the whole process the sparking from [Battery] constantly prematurely ignited the gathering hydrogen and oxygen before those elements could gather into a critical mass.
+
+The result was a plop of water that became fizzy air that became gentle pops.
+
+Erick said, “So that was a failure. No new spell, either, thankfully. I can try again, right now.”
+
+Kiri said, “Plenty of ways to improve this scenario. The original experiment took minutes to prepare. Maybe the resulting spell will take minutes to activate, too?”
+
+“Would be a useless spell in that case,” Poi said.
+
+Kiri said, “There are combo-mages that do great things. It’s possible this is just a combo spell.”
+
+Erick said, “I heard about those… But an hour to kill something?”
+
+“Exactly.” Poi said, “Parasiteers, for example, are accomplished strategists, but actual fights are almost always tactical. If a fight requires you to set up your spells, you’re going to die before you get to your combo.”
+
+“Well that’s just simply untrue.” Kiri said, “Poison is a great example of a strategic and tactical weapon. The strategy is winning the fight against a massive monster, but the tactics of that might require you to inflict a wound that continues to kill while you run away for your life.”
+
+“This isn’t a strategic poison.” Poi said, “This is a tactical explosion.” He pointed across the long distance toward the boulder where the sponge had been. “That was a failure.”
+
+Kiri added, “Well. The failures of combo spells are mostly limited to the speed at which the pieces can be deployed, and what will reasonably interrupt that deployment. According to the previous experiment, the end result is impressive enough to pursue, but that did take… what? Eight minutes?”
+
+“Something like that,” Erick said.
+
+Poi said, “Eight minutes is an eternity.”
+
+Kiri said, “In the tactical moments of an unexpected fight, yes, it is. But running is always a good option.”
+
+“I’m okay with a strategic spell, but that is not the aim.” Erick said, “I just didn’t want to do this in pieces because it’d take days if the higher tiers don’t work. But I guess that’s how it has to be.” He added, “And I need a real target. Like a watermelon, or something. A conjured sponge is not stable enough.”
+
+“What even is a sponge?” Kiri asked.
+
+“They sell them in Portal.” Poi said, “Before they blacklisted Spur you could get some. They’re used to scrub the body for people without scales, but primarily they live in the ocean and clean the waters by eating tiny things that drift in the ocean.”
+
+“Oh? Eww.” Kiri said, “You’d use some filter feeder to wash with? Weird.” She said, “Just [Stoneshape] a foam matrix for a target. Like a volcanic rock.”
+
+Erick said, “That’s a good idea.” He peeked through the Ophiel still on the scene and rapidly deployed [Stoneshape], [Airshape], and [Watershape]. He picked up the seawater soaking into the grey and tan stone and swirled an orcol-sized hunk of rock into position, bubbling the rock with both water and air, creating a statue full of fluids and air pockets. He came back to himself, saying, “There we go.”
+
+Poi helpfully added, “If you want to craft statues of those three gods you talked about, I think you should improve your skills, first.”
+
+“It’s not that bad.” Kiri peered into the distance, asking, “Is it supposed to be someone?”
+
+“It’s a hunk of rock!” Erick said, “I’m not going for perfection here.”
+
+“I can tell,” Poi said.
+
+Kiri smiled.
+
+Erick ignored both of them and gazed through Ophiel, on the scene. As he looked down on his rather lumpy sculpture of some random orcol-sized being, he thought. He concluded that a spell in parts wasn’t that bad. It often took more than one spell to take something down, because Erick didn’t have the base mana to do the major spells like the Scions of Willpower out there. He’d likely never get [Comet Swarm], or [Grand Aberration], or even be able to [City Shape] without Favoring it first. But he could certainly combine enough spells together to give any monster a bad day, like how he had drowned the Queen Daydropper of Odaali in a sudden storm of ice from above.
+
+He totally could have killed that monster if Tenebrae hadn’t interfered.
+
+Eh. Whatever. Back to the problem at hand!
+
+He came back to himself. He began channeling mana through his skills, to see how they might like to combine into one harmonious song. [Purge Water] was a rushing sound. [Catalyst] was near silence, but when he channeled through [Purge Water] at the same time, [Purge Water] became cleaner, like a rushing sound turning into a laminar flow.
+
+Now that was interesting.
+
+[Battery] was a flow of a different sort. It was the roaring, crashing, breaking sound of [Call Lightning], and also not, because it was constrained to a direction, to a goal. [Battery] was looking for an outlet and a circular connection. It was the sound of a slow ring; a mortal hand tracing around the edge of a metal bowl that sang out a deep connection to the universe.
+
+Erick let that sound echo for a little while, in the palm of his hand. It was a nice sound. All magic had a nice sound to it, but this one was nicer than most. In the deeper echos of [Battery], Erick imagined a resemblance to how humanity on Earth had strung together wires all across the world, just to be able to connect with everyone else.
+
+He went back to Ophiel, still floating above the stone sculpture. He harmonized the spells in his mind, and he cast through his [Familiar].
+
+Water sprung out of the stone statue in rivulets, but it did not fall to the ground. It held to the statue and connected with other rivulets, like roots grabbing each other, or lightning branching and stretching in veins across the stone. The water pulsed with glitters of sparking light, but it did not grow much beyond—
+
+A spark caught on the air. The statue exploded backward, knocked off its feet as its legs broke from the strain. Ophiel, in the sky, was fine. Erick left him there. He came back to himself. A duo of notifications were waiting for him.
+
+Electrolysis, instant, medium range, <500 mana>
+
+<Bring the water in a target to the surface and turn that water into Hydrogen and Oxygen through the power of electricity>. Deals <damage>. Lasts 1 minute.
+
+… Maybe. We’re not sure if we want to go in this direction, but it’s a possibility. I’ll work on that description later. ~Rozeta
+
+“Ah. It worked?” Erick said, “And it’s still only 500 mana. I guess that works.”
+
+Kiri asked, “Was that everything?”
+
+“No.” Erick said, “Still need to put the last part in.”
+
+Kiri silently watched. Her eyes glittered green.
+
+Erick returned to his magic. He considered only using [Condense Hydrogen], and foregoing [Condense Oxygen] altogether, but those tiny sparks managed to ignite the spilling hydrogen prematurely. But if he used [Condense Oxygen] to keep all the ambient oxygen separate from the hydrogen, then it couldn’t prematurely explode, could it? If he fucked this up, he would need to wait 10 days to try again. Oh well. Those are the breaks. At least he wouldn’t have to use [Incandescent], too. The lingering lightning was more than enough to provide the final spark.
+
+Erick channeled mana through [Electrolysis]. The sound of the spell was like a flickering ring, and the light from his hand was much the same, but with tiny branches in the light. He switched to the next two spells. He channeled mana through [Condense Hydrogen]. He rapidly switched to [Condense Oxygen]. He switched back and forth a few times.
+
+“That’s odd.” Erick said, “They don’t sound like much, except… baseline. Oh. No. There’s a slight difference.”
+
+Kiri said, “I don’t hear anything.”
+
+“Me either.” Poi said, “Looks like a plain white glow, too.”
+
+“Well. There’s a difference.” Erick said, “But it’s very subtle.” He briefly turned on [Hunter’s Instincts] as he channeled, and listened. “Yup. Slight difference clearly audible when I run [Hunter’s Instincts].”
+
+Kiri frowned. “This is very frustrating. I just can’t hear it, even with [Perfect Hearing].”
+
+“I need to get another [Polymorph] form for testing, anyway. Maybe you can get one, too? One with better hearing? Do you have any other forms at all?”
+
+“No...” Kiri sounded defeated as she said, “No other Familiar Forms.”
+
+“Me either.” Erick looked to Poi.
+
+Poi remained silent, but his silence quickly turned uncomfortable. He said, “I don’t like [Polymorph]. You have to wear [Conjure Armor] and get naked all the time to use the spell.”
+
+Erick laughed. “I would have thought the army would have beat that out of you.”
+
+Poi’s face scrunched. “Why would you think that?”
+
+“Yeah? Why would you think that?” Kiri asked.
+
+“Oh. Wait. Yeah. I forgot for a moment.” Erick said, “You don’t have to undress to get clean. There’s probably no showers or cleaning stations anywhere on Forward Base, are there? Jane never really talked about that, and I never asked.”
+
+Poi smirked, saying, “[Cleanse] is a great spell.”
+
+Kiri said, “I just don’t like [Polymorph]. I have the spell, but no reason to get another form.” She added, “Though, with all the books we’re reading on [Polymorph]... Maybe I will. One of those books is a listing of every single monster known on Veird. It’s 1300 years out of date and people like Messalina have been crafting monsters for centuries, but there are some interesting picks in there.”
+
+Erick nodded, saying, “Maybe I’ll look at that book, too. But for now: This.”
+
+He slipped back into Ophiel’s senses.
+
+There wasn’t much water left near the remains of the stone statue after the explosion, so Erick had Ophiel blip East, to the ocean. He picked up some seawater with a quick [Watershape], then blipped back to the statue. With another trio of shaping spells, Erick recreated the waterlogged stone statue. He was ready for the final combination. The result might be bad, or it might be good, but he was going to try it without a rhyme, for the sake of experimentation.
+
+He cast through Ophiel.
+
+As a dual thickening of air slipped around the stone statue, like Yin and Yang, water broke out of that grey and tan stone to flow across the surface like flickering lightning. Tendrils of water reached for itself and its neighbors as the water began to bubble away, and gasses separated into thickening air.
+
+Erick came back to himself to watch from a safe distance alongside Kiri and Poi. Ophiel blipped into the air beside him. The four of them watched the statue and the spell do whatever it was doing. Notifications did not appear. Erick counted the seconds in his head. Nothing happened for 30 seconds. 40. 50 seconds passed. Erick was starting to worry. Just before a full minute had passed, lightning flickered through thick air.
+
+Fire ignited. Light bloomed in a ten meter explosion, fully engulfing the statue and some of its surroundings. A shockwave of folding air expanded like an angry slap in every single direction. Smaller test poles and walls near the epicenter burst away, but past twenty meters, the only effects of the explosion came from scattered debris that had become shrapnel in the blast. If there were softer materials out to 50 meters, they would have likely been affected, but Erick had only set out hard targets.
+
+At 200 meters away, and under 5 [Prismatic Ward]s, absolutely nothing happened. The shockwave didn’t even ripple the outermost ring of dense air.
+
+But the sound!
+
+The sound did reach Erick, even through all that dense air, and though it was lessened, for sure, it was the sound of a volcano, all at once. A rock band testing their equipment while you weren’t prepared. A crash in another room, while you were sleeping and everything should have been fine. Erick’s heart leapt into his throat. Kiri yelped as she jumped back. Poi grumbled; flinching despite himself.
+
+When the fireball cleared, the stone statue was simply gone.
+
+As Erick collected his scattered thoughts and started giggling, three notifications appeared.
+
+Electrolysis Bomb, instant, medium range, <1000 mana>
+
+Turn a target’s water into the instrument of their demise, dealing <damage> until enough protected resources are collected to deal <damage>. Lasts until triggered or dismissed, or for 1 minute.
+
+I gotta be honest: I like it, but others are wary. That’s a lot of incalculable physical damage that obliterates the target, sure, but it also creates a large explosion. This is a dangerous spell, and it will not remain at this tier, or this cost, or maybe something else will happen. We’re debating it all right now. Everything is getting worked over soon. Don’t make any more of these higher tier Particle spells for a while, except this potential [Particle Scan].
+
+I am going to give you a bonus for doing something no one else has ever done, so don’t take this restriction too hard. They can’t stop me from doing this much. ~Rozeta
+
++2 Points!
+
+Just because!
+
+“What’s it say?” Kiri asked, nervously laughing a little as she watched Erick read the air.
+
+Erick handed her a copy of the first box, and then handed Poi one, too, when Poi silently raised his eyebrows.
+
+Poi said, “Nice,” as he dismissed the box.
+
+Kiri, excited, said, “Okay! Proof of concept works! Tiered Particle spells! Wow.” She said, “I can already see a few easy ways to overcome this spell, though. There’s [Dispel] of course, and especially at that cost, but the main one for those who know what’s happening is going to be a [Cleanse]. But that’s only for the explosion. It’s still going to be a Withering effect and an electrical effect until then. Maybe you can trigger it early, too, because that hydrogen is still explosive, right?”
+
+Erick said, “I imagine that’s what the ‘protected resource’ is about. The hydrogen and oxygen from the water shouldn’t be able to interact with other elements until the explosion. And it’s not a suffocating spell, either, I think.” He added, “I’ve got testing to do, and dungeons to light. What are you going to do today, Kiri?”
+
+“I’ll help with the dungeon, of course! Diamonds gotta be carved, right?”
+
+Erick smiled. “Right.” He held his hands out to Poi and Kiri, saying, “Then let us be off.”

@@ -154,3 +154,272 @@ Dayo looked at it.
 
 She was not the type to express reaction without function, but there was a brief thing on her face — the recognition of something she hadn't known she wanted until she saw it.
 
+Solenne said: "We're stopping here for a meal."
+
+Nobody argued.
+
+---
+
+The fire-bowl held a clear, steady flame — not wood, not gas, something the Tower generated directly, a fuel-free flame with the particular quality of warmth without smoke. The salt walls caught it and distributed it. The hollow was warm in a way the floor outside was not.
+
+Miriam had her clinical notebook out, but she was not writing in it. She was looking at the flame.
+
+Tomás had his notation surface but the screen was dark. He was eating the ration allocation with the particular attentiveness of someone who had stopped modeling for a moment and was just present with the specific sensory quality of a room.
+
+Nadia sat cross-legged with the dulcimer case on her knees. She ran her thumb along the carrying strap — the attachment points, the material — and then set the case beside her. She did not play. The floor's ambient frequency was in the hollow, softer here than outside, and she was listening to it with the quality she brought to things she was actually trying to hear.
+
+Vesper had a Saltback plate in her hands. She was turning it in the firelight, watching the angles. She was not doing anything with it yet. She was just looking at what it did with light.
+
+Dayo was on her back on the salt floor, her armor set aside, looking at the fused spire ceiling.
+
+Solenne sat with her ration and the fire-bowl's warmth and her carry pack beside her and the accessible queue in her status display and did not open it yet. She did not need to open it. She had memorized it in the dark of the Transition Hall and she was going to say it now.
+
+She said: "I need to tell you something."
+
+The hollow had a specific acoustic quality — the crystal walls reflecting sound cleanly, no echo, just presence. Everything she said would be heard exactly.
+
+She said: "Three days ago, I woke up in the Transition Hall above Floor 19 and I had a notification in my queue that I hadn't seen before."
+
+She pulled up the notification. She let the System display it to the party — the full text, the shared-display function they'd been using for stat screens since Floor 1.
+
+```stat-screen
+[SIX OF SIX — ALL PREREQUISITES MET]
+
+Individual RES threshold:       ✓  Solenne — RES 20
+All Harmony pairs — activated:  ✓
+  Dayo + Miriam: Weight Reversal (Floor 17 Bond Trial)
+  Vesper + Tomás: The Incomplete Thing (Floor 17 Bond Trial)
+  Nadia: The Authentic Laugh (Floor 17 Bond Trial)
+  Miriam + Vesper: Sanctuary Weave (Floor 19 Transition Hall)
+  Solenne + Partner: — pending
+Party Resonance Events:         ✓  109/150 — approaching threshold
+
+Six of Six activation available when Resonance Events pool reaches 150.
+Repository Node: Floor 17, Quadrant NW, Alcove 7-B.
+```
+
+She let them read it.
+
+Nobody spoke for a moment. The fire-bowl held its flame. The Stalkers paced at 60 meters in the flat outside.
+
+Dayo said: "When?"
+
+Not whether. Not what is this or what does it mean. When — the immediate question, the practical question, the question that assumed the answer was yes and moved directly to the operational planning. The Steadfast register in the Conductor was not spiking, not alarmed, not producing the signal of someone who had received unexpected information. It was the present-and-grounded quality, the load-bearing quality, the quality that said: I have this now and what do we do with it.
+
+"I don't know exactly," Solenne said. "We're 41 events short of the threshold. And the fifth pair — me and someone — hasn't happened yet."
+
+Dayo nodded once. She was already running something — not aloud, just the Steadfast forward-quality, the posture of someone who has incorporated a new variable into an existing model.
+
+Tomás said: "The Repository Node on Floor 17."
+
+He said it the way he said all things — as a data point, available, without requiring response. But the Clearvoiced signal through the Conductor had a specific quality to it: the forward-lean, the thing he was already working. She understood. He had filed the Repository Node coordinate from Vasic's paper as an unresolved variable since Floor 11. He now had a context for it. The geometry was running.
+
+Miriam looked at the display. She was not writing in the notebook. She was reading the notification with the clinical attention she brought to medical data — specific, precise, the notation-mode tracking which elements were confirmed, which were variable, which were dependent on conditions not yet met. After a moment she said: "Slightly ridiculous."
+
+This was the most direct she had been about the story's broad absurdity since Floor 7. Not dismissive — the absurdity acknowledgment that arrived after genuine engagement, after she had read the text carefully and registered that the System had been tracking their relationships for twenty floors and giving them a numerical value.
+
+Nadia was looking at the display.
+
+Solenne had expected something from her — the joke, the deflection, the specific management that Nadia brought to large things by making them briefly small. It didn't come. Nadia was looking at the notification with an expression that was not her public face.
+
+She said: "What does it sound like?"
+
+Solenne understood. Not what is it or how does it work. What does it sound like — the Brightspirit question, the question that was asking about the thing's quality rather than its mechanics, the question that Nadia would ask about anything she was deciding whether to care about: not is it important but what is it like.
+
+"I don't know," Solenne said. "I've never heard it. I think it might sound like all of us at once."
+
+Nadia's expression did something she couldn't fully categorize. She held the display for another beat.
+
+"Yeah," she said. "That's about right."
+
+She went back to eating her ration.
+
+Vesper had set the Saltback plate down. She was looking at the notification display. She said, in the voice she used for technical specifications: "I was making the strap insert when the notification went out."
+
+Solenne looked at her.
+
+Vesper said: "The dulcimer strap. I'd been working on it since Floor 18. I was working on it the night Miriam and I — the night in the corner." A pause. The Workframe notation was running faint against the wall, the thinking-mode pattern. "I didn't know it was connected to anything. I was just making the strap."
+
+This was both deflection and not-deflection.
+
+Miriam said: "I know."
+
+Two words. In the voice that had been underneath the clinical frame the whole time.
+
+Vesper's Workframe notation ran for two full seconds and was quiet.
+
+Vesper picked up the Saltback plate.
+
+She turned it once in the firelight — the light working through the crystalline surface at the angles she'd been watching earlier, the angles that were not the same from two positions. She set it back down. Not filed away. Just set down, on the salt floor beside her, within reach.
+
+---
+
+She told them the rest of it at the fire-bowl.
+
+The Apex contact faction: two to three weeks. Brennan's timeline. The formal approach expected at Floor 23 or 24, before the Proving Gate. She gave them what Brennan had given her — what everyone wanted from a Harmony party at this stage of progression, what the internal argument in the faction was, what they were and what they proved.
+
+She gave them Dr. Vasic's paper from her inner pocket — the coordinates for Floor 17's Repository Node — and passed it to Tomás, who unfolded it with the care he brought to documents he intended to file and looked at it for a long time.
+
+She said: "The Six of Six notification has been in my accessible queue for three days. I wanted to tell you on the right floor."
+
+Dayo said: "This was the right floor."
+
+Not a question.
+
+"Yes," Solenne said.
+
+The fire-bowl held its flame. The hollow was warm. She looked at all of them in the firelight: Dayo with the notification still running in her status display, the operational model already building; Tomás with Vasic's paper, already thinking about the Repository Node; Miriam with the notebook closed and her hands in her lap and the particular quality of someone who had received something and was letting it settle without processing it immediately; Vesper with the Saltback plate back in her hands and the thinking-mode inscription running, but different from the working-mode pattern — the quality of someone who was thinking about a thing rather than working it; Nadia.
+
+Nadia was watching the fire.
+
+She had been quiet since her question. Not the performing-quiet she sometimes used as management — the deliberate construction of a specific mood to give herself cover. The actual quiet. She was watching the flame and the Brightspirit signal through the Conductor was at the open-present register it had been running since Floor 19, and it was not closing.
+
+```stat-screen
+[RESONANCE EVENT — GROUP DISCLOSURE]
+Six of Six notification shared: full party
+
++18 RESONANCE EVENTS
+Party total: 127/150
+```
+
+The display arrived and she let it sit in the shared space without comment. Twenty-three events from threshold.
+
+Nadia looked up.
+
+"Twenty-three," she said. She said it the way she said things that were not jokes, in the plain voice. "We're twenty-three away."
+
+"Yes," Solenne said.
+
+Nadia looked back at the fire.
+
+"Okay," she said. "Then we should probably go deal with whatever's pacing outside."
+
+---
+
+The Resonant Stalkers had closed to 55 meters while the party was in the hollow.
+
+Tomás noticed it when they exited — he had the 60-meter baseline from the approach, and 55 meters was a number with a specific implication. He made a notation without speaking. Dayo noticed him make it. She adjusted her position in formation three to the left by two steps — a change in the formation's front geometry that opened a wider response angle if the Stalkers moved again.
+
+She had not been told to do this. She did the math herself.
+
+"Formation three," Tomás said. Then, after a beat: "They're not at 60 anymore."
+
+"I know," Dayo said.
+
+The Stalkers moved with the party's movement. They held their new radius — not 60, 55 — and paced, tracking the bond-aura. There were still six of them. The spacing was the same. Their behavior read as: we have adjusted our assessment and here is the new position.
+
+They covered 200 meters of open flat before the Stalkers closed to 50.
+
+Tomás made a second notation.
+
+The thing about the Resonant Stalkers was that they were not Saltback Predators — they were not ambush-type, not explosive-engagement, not a fight that happened fast and ended in thirty seconds. They were a sustained pressure that moved toward combat by degree. She read them in the Conductor — that attentive frequency, consistent, faint, from all six directions. The bond-aura tracking was not magical metaphor. It was a specific mechanical function: the stronger the bond-aura signature, the stronger the tracking pull. The party had a bond-aura signature that was unusually dense. She had been doing the math since Brennan's intel.
+
+The Stalkers closed to 45 meters during the third Saltback encounter.
+
+The third Saltback came up from a false-depth corridor — Tomás had already flagged the shadow discrepancy, the party was already adjusted, Dayo had the position — and the encounter ran eighteen seconds. Nadia's Pattern Break on the neck-plate seam, Dayo clear, the party exit clean. While Vesper was extracting the plates, the Conductor registered the Stalkers' frequency spike.
+
+They were at 45 meters.
+
+"They closed during combat," Nadia said.
+
+"Yes," Tomás said. He was already writing. "They moved when we were in a committed state. Ambush overlap — they used the engagement window."
+
+Not speculating. Reporting. He had this now: the Stalkers weren't only tracking bond-aura at range. They were modeling the party's combat cycle. When the party was committed to a Saltback encounter, the Stalkers' tracking pull was in a different phase than when the party was mobile on the flat. They were using the window.
+
+"Okay," Dayo said. "Then we fight them."
+
+---
+
+She understood what Solenne needed to do.
+
+Formation three would not work against six Stalkers spread at 45 meters with gap-closing during committed combat. Formation three was designed for forward-contact enemies on a known axis. The Stalkers were not on an axis — they were distributed, and they were going to use whatever committed state the party entered to close further. If the party engaged any of them directly, the others would use the window.
+
+She needed a different formation.
+
+"Tight," she said.
+
+Dayo looked at her.
+
+"Compact version. Everyone inside 8 meters of center. We're not using range advantage — we're using concentration."
+
+The logic was the Sanctuary Weave. It had been available since Floor 19 — she had seen the notification arrive, had understood what it was, had been thinking about what it changed in the party's tactical options since the rest node. The Sanctuary Weave's 15-meter field covered the party's operating radius in a tight formation. The 15% MP cost reduction mattered against a sustained engagement. The 10% healing amplification mattered against six Level 18-19 enemies over a fight that was not going to end in twenty-two seconds.
+
+They had not used it yet.
+
+"Miriam," she said.
+
+Miriam understood immediately — not from a signal, not from instruction, just from the logic of the compact formation and the previous night's notification and the operational implication. She looked at Vesper.
+
+Vesper said: "I know."
+
+The party compressed into the compact geometry: Dayo in front at the tightest anchor position she'd held since the early floors, Nadia and Tomás inside range, Vesper and Miriam in the center. Solenne behind.
+
+The Conductor had all six Aspect signals at once — the high-density reading she only got when the party was this close — and it was: Steadfast grounded and ready, Clearvoiced forward and precisely present, Brightspirit open-present, Artificer attentive and specifically oriented, Warmhearted cooled to tactical precision, Trueweave running full-bandwidth and holding all of them simultaneously.
+
+Miriam and Vesper activated the Sanctuary Weave.
+
+She felt it through the Conductor before she felt it in the environment. Not a flashpoint — not the explosive quality of a Nadia Pattern Break or the barrier-up clarity of Vesper's geometry going live. Something more like a shift in the room's quality: the MP cost of anything she did dropping fifteen percent, the Warmhearted signal in the Conductor gaining a specific amplification register, the 15-meter field present and steady around the party.
+
+The Stalkers closed from 45 to contact.
+
+What happened next was the hardest fight she had been in since the Ironjaw Sentinel on Floor 10.
+
+The Resonant Stalkers were not surface-ambush type — they were sustained-contact type, Level 18-19, six of them, each one tracking the specific bond-aura of the party member closest to them and not breaking off. Three of them went immediately to Dayo — the strongest bond-aura signal, the closest body, the one the floor identified as load-bearing. The other three split the formation's flanks, each one finding a party member and holding contact. When one Stalker tried to pull and reset, its gap filled before Solenne could track the adjustment.
+
+Dayo was in the hardest position she had been in since Floor 10. The compact formation meant she couldn't drift, couldn't use the mobile coverage she'd built across twenty floors of becoming exactly the right kind of anchor. She had to take it in place. She was distributing impact she could not reduce by movement.
+
+Her HP dropped forty points in the first minute.
+
+She did not call for Miriam. She didn't need to — Miriam was already there, the Warmhearted signal shifting into full application, the precision work she'd been building since Floor 14 running at maximum expenditure. Solenne tracked Miriam's MP counter and felt the math close around her: the 10% amplification from the Sanctuary Weave was the only thing keeping the rate of loss below the rate of recovery. Without it, Dayo went down in three minutes. With it, the numbers were almost even. The math held. Barely.
+
+At the two-minute mark, a Stalker on the right flank adjusted its angle — not retreating, repositioning — and for four seconds it was between Nadia and the clearest Pattern Break angle on a second Stalker. Solenne saw it. Tomás saw it one second later. He shifted his weight two inches to the right, the compact formation signal, and Nadia moved without being told — not to the clean angle, which was gone, but to an angle slightly wider, a harder break, a Pattern Break she'd never tried from this approach vector.
+
+It landed.
+
+The sixth Stalker was the last, and it took four minutes and eleven seconds.
+
+Nadia was at 71 MP — 17% of her pool — when the last Stalker's Mana structure failed. Dayo was at 214/380. Miriam was at 89/420, a number that required the rest node before they moved again. Vesper was at 203 of her pool, the construct geometry having cost more than anything on the Ash Plain.
+
+The Stalkers' loot notifications arrived at once.
+
+```stat-screen
+[COMBAT — FLOOR 20]
+Resonant Stalker ×6 (Level 18-19) — Defeated
+
+XP awarded: 620 per member
+  Nadia Volkov-Baptiste → Level 11
+  Dayo Adeyemi-Okafor → 94% to Level 14
+
+Party HP: Dayo 214/380, Miriam 361/420, all others above 75%
+Party MP: Nadia 71/408 (17%), Miriam 89/420 (21%), Vesper 203
+```
+
+Nadia looked at the notification.
+
+She did not say anything for a moment. Solenne read the Brightspirit signal through the Conductor — open-present, the particular quality she'd been running since Floor 19 still there, not closing, just present with what had arrived.
+
+Then Nadia said: "Huh."
+
+Not flat — the particular quality of someone who has received something they didn't know how to receive and is holding it simply while they work out the shape of it. What was different from prior level-ups was the signal itself: the Brightspirit at every previous milestone had a specific quality of self-management, a brief internal adjustment before the register settled. There was no adjustment here. The level arrived and Nadia was already at exactly the register she'd been at before it came.
+
+"Level 11," Vesper said.
+
+"Yeah." Nadia looked at the display again. "Level 11."
+
+Dayo was looking at her own display with the Steadfast register in the Conductor doing something it did not often do: a slight warmth at the edge of the working signal. She did not say anything. She did not need to.
+
+The Sanctuary Weave's field had held for the full fight — it was still running, the 15-meter radius present and steady, the quality of the room slightly different inside it.
+
+Miriam checked Dayo's HP, Nadia's MP, ran the post-combat assessment in the notebook — the three lines, the clinical data captured and closed. Then she added a notation in the margin that Solenne could not read from here but could recognize by placement: another entry in the right margin, added after the main text, in the register of something that had happened and needed to be held.
+
+Solenne looked at the floor ahead.
+
+The Crystal Salt Desert extended toward the floor's far edge. They had the formation, they had the Sanctuary Weave, they had the false-depth geometry as a known factor and the Stalkers' combat-overlap pattern as a filed variable. They had the rest node and the fire-bowl and the telling behind them. They had 127 resonance events and 23 to go and the fifth pair still pending and the Proving Gate somewhere ahead.
+
+She had said it. It was out. They had it together now.
+
+She had a hypothesis about the fifth pair — Solenne and partner, pending — that she had not prepared to name yet. The Conductor had been giving her something for twenty floors that she had been filing under a different category. She was not prepared to name it. But it was there, and the floor was long, and she was going to be walking next to all of them for however many floors remained.
+
+She picked up her pack.
+
+"Rest node first," she said. "Then we keep going."

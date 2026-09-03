@@ -288,3 +288,848 @@ Fly precisely through the air, unaffected by the wind.
 
 Erick saw a problem. “All of these use [Weightless Ward]. Does that mean no [Absorption Ward] at the same time as [Fly]?”
 
+“Yes. That is a downside to the spell. There are some varieties that don’t require a [Weightless Ward], but those feel clunky. There are some workarounds… But I wouldn’t recommend them. For example, you could enchant a pair of boots or something with [Precise Flight], but that gets hideously expensive unless you’re an adventurer with…” She thought. She said, “With 170 gold in rads to spend every time you want a 50 minute flight.” She waved her hand, adding, “And magical items outside of spell wands are a deathtrap, anyway. Save your money for a rod of [Greater Treat Wounds] and then keep that rod somewhere you can [Teleport] to when needed. And don’t use a flight spell anywhere you expect to be in combat; it’s a small enough restriction to work around.”
+
+Erick looked over the books. “Can I take these books home for a while?”
+
+Zago pushed the books toward him. “Absolutely. You might even find something in there you like better.”
+
+- - - -
+
+Erick found Krakina in the farms. Valok was with her.
+
+“And the rainmaker returns!” Krakina said, “You don’t need to be here today?” She turned to Valok. “[Grow] requests still up at the guild?”
+
+“Nope.” Valok said. “All [Telekinesis] quests, now, and none posted until tomorrow.”
+
+“I’m actually here to talk to you, Krakina—”
+
+“Me?” Krakina puffed up, smiling. “Yes yes?”
+
+“— What’s the best way to fly?”
+
+“[Airshape] [Telekinesis] no [Weightless Ward],” she answered immediately. “You need your [Absorption Ward] and everything feels loopy when Veird no longer pulls you toward her. It will take personal skill to use this sort of [Fly].”
+
+“… Would I need wings to use that sort of [Fly]?”
+
+“I can’t help if you were born wrong!” Krakina huffed, “Go away. You’re not needed today. Come back tomorrow! We’re working on the fields now.”
+
+Erick looked across the farms. Some people were clearing crystal agaves far away, while others tilled the land into the soil, flipping weeds and unwanted growth into the ground to serve as fertilizer for what was to come.
+
+Erick said, “I can’t help if I was born wrong, either.” Erick stared out over the fields. Some people were opening up what might have been rice paddies by digging out long trenches, then throwing seed down behind them. “Looks good out there.”
+
+Valok said, “We understand we’ll get 24 hours every tenday. We intend to use two 4 hour days, then eight 2 hour days for this next cycle. So 4 hours tomorrow. All in the morning. We want to fill those trenches there with enough water to have rice paddies and we won’t be using any underground water at all. We want to see if this is feasible in the dry season.” He added. “But we may only be capable of two hours in the morning. If we have to break, we’ll break then, then we’ll have a Rest until everyone recovers their mana and come back to the fields in the afternoon. Can we count on that?”
+
+Valok may have said ‘that’, but what he was really asking was ‘Can we count on you?’.
+
+“I’ll be here after breakfast.”
+
+“We’ll be set up and waiting.” Valok nodded. “See you then.”
+
+- - - -
+
+Erick got back home and sat on a stone chair set Al had made in the living room, under a window. He set the books in front of him on a table, also made by Al, and began reading.
+
+Broadly, there were three categories of ‘good’ flight spells.
+
+All the ‘great flight spells’ used [Weightless Ward], but Erick immediately shot down all of those. He wasn’t going into any sort of battle without a good [Absorption Ward] active. He only had a hundred HP.
+
+The second category of good flight spells avoided giving up [Absorption Ward] by using [Force Platform], which was a disk of hovering hardened mana that moved with you, that you controlled. If you combined [Force Platform] with [Airshape] you could fly pretty fast, and have rather good control. [Force Platform] flight was cheaper and lasted a lot longer that the rest of the options, but had the downside of the user possibly falling off the platform, or having the platform shot out from under them. The books complained that a [Fly] made out of [Force Platform] would always feel horribly unnatural compared to one based on [Weightless Ward].
+
+But Erick could see himself riding a motorbike across the skies.
+
+And the last category of flight spells were pure [Airshape] variants. These all relied on the caster already having wings. Dragons, harpies, and owl shifters could use these variants; everyone else was shit outta luck.
+
+Erick might have been able to make something with particle magic, but messing with gravity…
+
+Just, no.
+
+[Weightless Ward] probably got around the problem of people flying off the planet because of magical mystical reasons. Actually removing the background gravity field from a person, and especially from himself, seemed like an idea no sane person would touch.
+
+But maybe there was some particle magic he could do.
+
+Superconductors.
+
+Once attached to magnetic lines of force, superconductors stayed on that track.
+
+How to make a track?
+
+Uh. What is a superconductor, exactly?
+
+Oh dammit. That’s too much. I don’t know anything about all that.
+
+Wait. Maybe I don’t need to know anything about all that. Maybe the work has already been done for me.
+
+Force Platform 1, instant, 10 minutes per level, 50 kilograms per level. 25 MP
+
+Create a stable floating platform of hardened mana. You may move this platform around at will.
+
+Purchase Force Platform 1 for one ability point? Yes/No
+
+No.
+
+“Poi? Do you know how a [Force Platform] works? Or a [Force Wall]? What is ‘Force’?”
+
+“Not exactly, sir. I can conjure a [Force Wall] if you would like to poke at it.”
+
+“Yes. Let’s—” Erick paused. He would have to explain to some people if he were to start throwing lightning bolts at a [Force Wall] in the Human District. He didn’t want to do that. But there might be a workaround to that problem, too. “Were you there at the shadowcat fight, Poi?”
+
+“I was not, sir, but I might be able to answer anyway.”
+
+“Did the [Force Walls] around the bombardment tower move when I shot those lightning bolts?”
+
+Poi looked away. He paused. He said, “No, sir. They did not. We would have noticed something like that.”
+
+“Do [Force Walls] ever move in response to anything? In response to attacks that miss them?”
+
+“Nope. They break in response to direct attacks. They do not move in response to missed shots.”
+
+Erick hummed at nothing in particular, then asked a longshot question, “Do you know if a [Force Platform] moves in response to anything Mana Altered into Lightning? What about a different Force spell, like a Bolt or Shrapnel?”
+
+Poi looked up. He said, “Force does not move in response to anything but the caster’s desires.”
+
+“Damn. There goes that idea. Who are you talking to anyway?”
+
+“Killzone, primarily.”
+
+“Can you tell him ‘thank you’?”
+
+“He says ‘No problem-o, Archmage-o’.”
+
+Erick looked up [Airshape] and [Telekinesis].
+
+Airshape 1, 1 minute per level, medium range, 10 MP
+
+Slowly move minor amounts of air around you for 1 minute per level of Airshape.
+
+Purchase Airshape 1 for one ability point? Yes/No
+
+Telekinesis 1, 1 minute per level, medium range, 10 MP
+
+Slowly move minor objects around you for 1 minute per level of Telekinesis.
+
+Purchase Telekinesis 1 for one ability point? Yes/No
+
+Yes. Yes.
+
+Might as well try making the spell and see if I like it.
+
+Wait a second.
+
+Zago mentioned boots of flight.
+
+Flying boots are enchanted spells like [Precise Flight], but those spells used [Weightless Ward]. So that means you could use an item with a [Weightless Ward] and it wouldn’t nullify your own [Absorption Ward], right?
+
+“Poi. Can you use Boots of Flight and an [Absorption Ward] at the same time?”
+
+“Of course, sir, but I would advise against considering magical items. They always fail when you need them to work. We try to keep most magical items like that from being sold around here, but some adventurers still like them.”
+
+Erick shook his head. “That wasn’t why I asked that.”
+
+“Very good, sir. Thank you for not making my job difficult, sir.”
+
+Erick frowned at Poi then stood up from the stone chair and went into the kitchen. He got a wooden spoon. Focusing on the end of the spoon, he cast a tiny spell.
+
+[Absorption Ward]
+
+A glitter of white settled around the bowl of the spoon in the shape of a sphere. Erick waved the spoon around, and the [Ward] waved around with it.
+
+… What.
+
+The.
+
+Fuck.
+
+Erick felt like an absolute idiot.
+
+He could cast his flight spell on something else and give everything in the sphere weightlessness.
+
+… Everything of a certain size half weight. Not weightlessness.
+
+He quickly looked through the books.
+
+Yup! There it was! Under group flight.
+
+Group Precise Flight, 50 minutes, 300 MP
+
+Designate a person or an object. The controller of a designated object becomes the designated person for the purposes of this spell. The designated person and all others they choose in a large area fly precisely through the air, unaffected by the wind.
+
+Tier 3 spell. Doable.
+
+Erick looked at his spoon. He dismissed the [Absorption Ward] and did something else.
+
+[Special Ward].
+
+A blacklight orb appeared on the spoon. Erick picked up the spoon and moved it around.
+
+Erick still felt like the world’s most absolute idiot. He really should have known he could move [Ward]s around before now. How did he not know this? Why was this ONLY NOW being revealed to him, and only through his own experimentation?
+
+He turned to Poi. “Did you know you can place [Ward]s on objects and the [Ward] will move with the object?”
+
+“Of course, sir, but objects like that are easily torn away from the user in any fight against any competent force. We don’t do that around here; too many people have died to a [Violent Telekinesis] from a Shade, or one of the other monsters in the Dead City. Never set a [Ward] on a movable object; they will be stripped from you. This is one of the first things we warn adventurers against, and one of the primary killers of people inexperienced with the Dead City.”
+
+Erick eyed him. “Really?”
+
+“And artists don’t put [Permanent Special Ward]s on objects, because those objects can be stolen.” Poi shook his head. “We don’t use mobile [Ward]s around here for many different reasons. ‘No mobile [Ward]s of any kind’ is actually a local tenet of both the Adventurer's and Mage’s Guilds.”
+
+Erick still felt like an idiot, but at least it was good to know he wasn’t alone. He said, “You can continue to do that. I’ll be doing it this way so I can also have an [Absorption Ward] at the same time.”
+
+Poi sighed. He said, “Please attach such a flight [Ward] to your undergarments, or something... Anything really hard to steal, sir.”
+
+“Of course! That’s only good sense!”
+
+“And be aware that anyone looking with Meditation will be able to see that your undergarments are imbued with magic.”
+
+“… You can do that?”
+
+Erick looked at Poi with Meditation on. There wasn’t much different about him. Maybe there was a glow… Nope.
+
+“I don’t believe you.”
+
+Poi let out a long suffering sigh. “Look at the entirety of the manasphere. For the cheap spells I have on right now, you should still be able to see a bend in the local currents. For a more expensive spell, you will see eddies and sinks.”
+
+Now that he knew what to look for, Poi was right. There was a slight flowing stability around Poi, when compared to the rest of the mana flows.
+
+Erick grunted. “Okay. I believe you.”
+
+“Active magic is easy to see; you need [Detect Magic] to see magical items. Even so, one of the primary ways murders happen amongst adventurers is to rip their magical items away and then kill them. Ripping away that wooden spoon you’ve just [Ward]ed would be child’s play to any competent assassin.”
+
+“… That’s depressing.”
+
+“An assassin could also cast [Dispel Magic] around a person, killing all active spells except force spells, magical items, and personal [Wards], or at the very least, severely decreasing spell duration. A flight spell on your undergarments would fall under this category, and thus be subject to hostile dispelling. Personal [Ward]s are naturally twice as hard to dispel as anything else you could dispel.”
+
+Poi was making several good arguments.
+
+But Erick had a foolproof counter argument. “I’ll take all that under advisement, and stay far, far away from any hostile people.”
+
+“… Please don’t make my job harder than it is, sir.”
+
+“I’ll try not to!”
+
+- - - -
+
+There wasn’t much to do for the rest of the day but to level his magic, working his way toward [Group Precise Flight]. Once he had that, he’d go out into the Crystal Desert and find a monster and…
+
+… And kill it.
+
+Ugh.
+
+Erick shivered.
+
+Then he remembered Jane, all gung-ho, shooting for the stars, and probably able to get there.
+
+And monsters killed people, dammit! Fuck the monsters!
+
+He could kill a monster. He would kill a monster. Maybe even several monsters.
+
+And fly around in magical underpants!
+
+Ha ha!
+
+- - - -
+
+With only today remaining until he began working at the Farms, where anywhere from 1800 to 3600 of his mana would have to be set aside for [Exalted Storm Aura], Erick had a choice to make.
+
+He could finish leveling [Mend], which would be the entire day’s mana supply.
+
+He could level [Mend] and Mana Shaping, which would level neither to full, but get him further along on both.
+
+Or he could start prepping for [Fly] with all of those prerequisites. Like [Telekinesis].
+
+… [Telekinesis] was pure sex. He had to go with that way. He was eventually going to go all ways—
+
+har har
+
+—but for now! Moving shit with his mind seemed too cool to pass up!
+
+And plus! [Telekinesis] is what the farmers used to pick and plow their fields. And Erick had a field. Well. It wasn’t a field right now. Right now it was mostly just a kid’s sandbox. A very large sandbox, but still, it was his! He was the kid in this situation. And he had new toys to play with!
+
+Erick stood in front of the 15 yard by 20 yard sandy lot that was to be his garden. Ten burlap sacks of soil sat to the side. Two blue boxes hovered in front of him, waiting for him to decide how he wanted to do this.
+
+Telekinesis 1, 1 minute per level, medium range, 10 MP
+
+Slowly move minor objects around you for 1 minute per level of Telekinesis.
+
+Exp: 0/100
+
+Mana Shaping 5
+
+Alter spell AOE in better, subtle ways, 10 MP + spellcost
+
+Alter spell AOE in better, moderate ways, 30 MP + spellcost
+
+Aurify Unlocked
+
+Requirements: 10 Willpower
+
+Exp: 140/800
+
+Time to level some skills.
+
+Oh! And Aurify, too. Cost per second should be low enough.
+
+Aurify.
+
+Mana Shaping.
+
+[Telekinesis].
+
+All around Erick, the manasphere shifted, and to his Meditation enhanced sight, he could see exactly how those shifts occurred. Here and there, whenever he focused on a spot, the mana shifted, and he felt the pressure of the shift—
+
+The spell cut.
+
+1 minute was not very long at all. Erick had a feeling of deja vu, leveling his magic the slow way. He had done this sort of thing with Stoneshape just the other day. Well. There was an easy solution to shorten this training time. It took an instant to activate the magic, and he couldn't seem to cast faster than once a second, but that was fine.
+
+[Telekinesis]. [Telekinesis]. [Telekinesis]. [Telekinesis]. [Telekinesis]. [Telekinesis]. [Telekinesis]. [Telekinesis]. [Telekinesis].
+
+[Telekinesis] has leveled!
+
+Level 2!
+
+15 mana per cast this time. Exact same progression as [Stoneshape], too. [Airshape] would probably follow this same progression. All Shaping spells probably followed the same progression. Erick decided to plow ahead until he got a workable version of [Telekinesis].
+
+[Telekinesis]. x14!
+
+[Telekinesis] has leveled!
+
+Level 3!
+
+That only cost 100 mana. And now the spell was 20 mana per cast, or 10 with Clarity. It would be 150 mana to get to the next level. Erick decided to go for it.
+
+[Telekinesis]. x15!
+
+[Telekinesis] has leveled!
+
+Level 4!
+
+Telekinesis 4, 1 minute per level, medium range, 25 MP
+
+Move small objects around you for 1 minute per level of the spell.
+
+Exp: 5/500
+
+Erick did some quick math. It would be 250 mana to get to the next level. Maybe. He wasn’t that great at math. But 25 went into 500, 20 times, and 20 was the number of casts to get to the next level. 20 times 25 was then 500, but divided by 2, gave him 250 mana. Yes. 250 mana. His mana pool could handle that.
+
+He looked out at the manasphere. It was rather turbulent from casting all these spells, but Jane had leveled like this in the first days of arriving on Veird. She did that thing where she struck that rock and healed herself with [Rejuvenation] before the spell was done working. This was, if not responsible magic, then at least necessary. Erick felt a little bit weird about powerleveling, like he was wasting something, but mana didn’t get ‘used up’; Erick was just a part of the mana cycle, and right now, he was a very fast part.
+
+[Telekinesis]. x20!
+
+[Telekinesis] has leveled!
+
+Level 5!
+
+Telekinesis 5, 1 minute per level, medium range, 30 MP
+
+Slowly move medium objects around you for 1 minute per level of the spell.
+
+Exp: 5/800
+
+Erick’s mana pool was well below half. Now, it was time to see how this spell worked, for real.
+
+[Telekinesis].
+
+Erick had another sense, like proprioception, but wider, that included everything in whatever small space he focused upon. He could feel the ground with a pressure he controlled. He moved the pressure around, feeling the stone, then running his not-fingers through the sand. The sand moved in front of him like someone had stuck their fingers in to make furrows in the dirt. Erick ‘reached’ over to the bags of soil and ‘wrapped his hands’ around the bag.
+
+It wouldn’t budge. He wasn’t strong enough.
+
+“Too heavy for a medium obje— Wait.”
+
+Aurify.
+
+Mana Shaping.
+
+[Telekinesis].
+
+Erick felt the world around him with a thousand small feelers. He felt himself, and that was odd. He looked to Poi—
+
+Poi was standing outside of his range. Poi smiled.
+
+Erick laughed, then went back to the bags of soil. He still couldn’t pick up the bag, but he did pick up a knife and slice the bag open, from five feet away. As soil spilled out from the bag, he grabbed at it in clumps; a hundred tiny hands making short work of a heavy load. He emptied the bag, dragging out the contents, throwing dirt into the sand pit. He emptied another bag, then another. Then two at once, two hundred tiny hands scattering soil across the sand. He emptied the final bags, and then looked at his mana. It was slowly rising; Meditation was winning out over the tiny drain of Aurified, Shaped, [Telekinesis].
+
+Erick laughed. This was amazing!
+
+He dug into the sand, mixing soil into the orange grit. The hands weren’t strong enough to mix very deep, but they didn’t have to mix that deep, they just had to spread everything around in more or less the correct locations. With hundreds of tiny hands, there was more than enough power in each one to do whatever Erick wanted.
+
+Erick looked at the emptied bags. He needed more soil. The garden was too sandy right now…
+
+How to fix that… Hmm…
+
+He could try to [Grow] clover out of one of those grass seeds he bought from the market. Clover was supposed to be a good ground cover and biomass crop. Erick might be able to make something like that. After he got the clover growing, he could [Exalted Storm Aura] with Mana Shaping to make it rain only over his house.
+
+Actually! The Farmer’s Council had already solved one of Erick’s problem!
+
+Erick used his [Telekinesis] to pick up a seed packet—
+
+His hundred hand technique shredded the packet, spilling seeds across the orange rock ground. He grumbled, then dismissed the spell as he walked over to the seeds. He picked up the shredded packet. It was for apple seeds. Meh. Apples. Erick physically rummaged around, looking for—
+
+He found it! A packet of Ground Grass. Ground Grass was a short hardy grass the Farmer’s council planted on the farms when the season was over that eventually took over the whole place, because Ground Grass was the only thing that could survive the harsh desert life. It also happened to be a small thing that generated a lot of biomass. When the farmers came back for the water season they could [Grow] the Ground Grass to a heavy density and then till it back into the soil, making a sort of ‘green manure’ to feed all the growth yet to come.
+
+Erick manually opened the packet and walked out onto his garden, spreading tiny seeds as he walked.
+
+He put the rest of the seeds away, using Aurify and [Telekinesis] much more carefully this time. Without Mana Shaping the spell felt a little clumsy, so he wouldn’t use this version of the spell again, but it was enough to put the seeds away inside the house.
+
+Erick cut his [Telekinesis] and threw a [Weather Ward] out beside the garden, then looked up at the blue, empty sky, judging how controlled he would have to make his next spell. Poi moved into Erick’s [Weather Ward] with him. Erick looked up, and focused on what he wanted.
+
+Mana Shaping
+
+[Exalted Storm Aura].
+
+Mist flowed out of the manasphere around Erick, like a fog rolling into reality, and then up. White clouds spun up around Erick, racing into the sky to hold above in a rough column shape. Silver light flashed inside the white, as a cloud spread for a wispy hundred yards around, and a thousand fluffy yards up.
+
+Silver light cascaded down through cloud, a rolling grumble following the light, like a chain reaction ending in a muted thunder.
+
+Like a god had opened up a spigot in the sky, down came the rain.
+
+Poi and Erick watched as platinum rain came straight down, upon the house and the garden, to soak into the ground, and for a hundred yards around. Orange stone and sand turned brown in the presence of water; soil turned black. Tiny green shoots of spreading growth began to tumble up from the sandy soil, twisting into flat, horizontal leaves, in small spots at first, then slowly over the entire garden. Erick watched. Minutes passed, rain fell, and green growth spread. The world seemed to turn just a bit nicer, just a bit easier, as a slow green carpet grew across a small part of Veird.
+
+Soon, the entire garden was covered in dense green horizontal leaves, stacked dozens deep, from the very surface of the garden, to several inches above. Erick cut the rain. The thunderhead flowed away on the wind.
+
+Poi said, “That really is quite miraculous, sir.”
+
+Erick laughed. “They wouldn’t let me call it [Miracle Rain].”
+
+Poi smiled.
+
+Erick turned on Aurify, Mana Shaping, and [Telekinesis], and tried to become a lawnmower, but apparently cutting grasses was too much for [Telekinesis 5]. Instead, Erick acted the part of a kid pulling up weeds and then punching them down as far as he could punch. It worked out well enough, considering he had a maybe two hundred ‘hands’ with which to pull and punch. It did take a good half an hour to set the garden to rights, though.
+
+He knew he should have left it to compost…
+
+… But playing in the sandy dirt was quite fun!
+
+He threw out another [Exalted Rain Aura] and punched the growth back down again.
+
+By the time he finished playing around, the ground was equal parts green manure, soil, and sand. The resulting pile of stuff stood a foot taller than the surrounding orange rock, and would have spilled outside of the designated garden if not for Erick [Stoneshape]ing a foot tall, foot wide lip to keep it all contained.
+
+He would leave it to compost from there.
+
+The most surprising thing about the whole experience was that no one showed up, wondering about the giant pillar of rain.
+
+- - - -
+
+Erick arrived at the farms bright and early. Compared to four days ago, the farms of today were much, much larger, and much more barren. Countless [Weather Ward]s sparkled in every color, all around the brown, freshly tilled grounds. He couldn’t even see the edge anymore, and zero crystal agaves grew in the distance. The orchards were still there, and so were the vines of not-tomatoes and many other vining plants, but all the grasses had been tilled into the soil, probably using much the same methods as Erick used yesterday in his own garden.
+
+And everywhere, there were people, watching as Erick walked down the center road, to the center of the farms. He had to walk past where he usually sat; the farm had been expanded by a lot.
+
+Poi walked beside and a little behind Erick.
+
+And as Erick walked, people took notice; some of them moved in the direction he traveled. Not too long later, Erick finally saw the new center of the farms. A small gazebo of stone had been raised in the middle. That must be Erick's destination; it looked a bit crowded already.
+
+Erick walked forward. As he got closer he saw Krakina, Valok, Apogough, Killzone, the silverscale Head Priestess Darenka, and a new bright orangescale woman, bustling around the gazebo in last minute preparations. About ten other people whom Erick did not know operated outside of the stone gazebo. Most of the extra people were wearing priestly robes. Some were setting up incense burners; a sweet smell already wafting upward on the wind. Others organized life-sized statues on top of waist high pillars, making sure they faced whatever correct way they were supposed to face; some looking inward to the stone gazebo, others to the east, or the west, or straight at Ar’Kendrithyst. Some statues faced the sky.
+
+As Erick paused a fair distance from the gazebo, dozens of others were were already waiting at roughly the same distance, not alongside Erick, but well away from what looked to be a holy place, in a stretch of land that seemed made to be stood upon by an audience. Some of the people in today’s audience were obviously farmers, wearing rough spun clothes made to take a beating. Others were dressed in their Sunday Best; greyscales and older orcol women wearing big, fancy hats, men in suits but some in robes. Some incani wore decorations on their horns, while the wrought had their metal flesh done up in facsimiles of fancy clothes similar to their neighbors’.
+
+In the center of the gathering, at the gazebo, Krakina and Killzone took notice of Erick first.
+
+Poi whispered, “We should move inside of the Ring of Gods, sir.”
+
+Erick looked at the statues again.
+
+So that’s what they were.
+
+To the right of the road to the gazebo was obviously Koyabez, the Silver Star and God of Peace; even in sculpture he wore nothing save an artistic loincloth. His tiny horns were framed by stone waves of hair.
+
+And there’s Rozeta on the other side of the road, done up like a grey metal wrought receptionist, the only sculpture that was obviously metal instead of stone.
+
+Erick did not recognize the rest, because he began walking forward after a polite, yet firm, whispered ‘sir’ from Poi.
+
+As Erick approached the gazebo, he did recognize one more sculpture; the largest one. Toward the back of the gazebo, this largest sculpture took up a great deal more space than any of the others.
+
+She was a sturdy woman with a gentle smile, twice as tall as the rest. Instead of standing on a waist-high stone pillar, the woman stood surrounded by stone versions of all the grains and fruits and vegetables and eating animals that Erick had ever seen in all his time on Veird, and many that he hadn’t. Her left hand rested on the head of an obviously happy not-cow, her right hand lowered to the viewer and holding a round fruit.
+
+Erick knew who she was. She was Atunir, Goddess of Fertility and Field.
+
+Erick’s worldview shifted a few degrees. He had thought ‘gazebo’ when he saw the structure from afar, but being here, now, he had a much better description for what had been created at the center of Spur’s farms.
+
+It was a temple; an 8 pillared open air temple to a goddess of the harvest, with people scattered outside, waiting for Mass to begin, and for Erick to arrive.
+
+Erick approached.
+
+Head Priestess Darenka moved to the top of the temple steps. Krakina, Apogough and Valok took their place to the left, while Killzone and Orangescale stood to the right.
+
+Everyone was silent.
+
+Erick almost made a joke, but that would have been disrespectful. This looked like a very big deal to these people. Erick had tried to be more respectful about religious matters ever since Silverite had chastised him. He often failed to be respectful, but he wouldn’t fail this time.
+
+Erick stopped at the bottom of the stairs.
+
+Darenka smiled at him, nodding at him to stay there for now.
+
+She spoke to the crowd, and her words carried.
+
+“We’re all here because we all gotta eat, and this is gonna be great. New ways of harvesting! All you idiots out there take note! I kicked a few divine asses to get this whole thing lined up proper, and I am quite capable of kicking non-divine asses, too. We’re doing this right. We’re doing this correctly. Now bow your heads and pray to whatever fool in the heavens you know does you best.”
+
+Erick stood dumbstruck.
+
+Darenka coughed once, cleared her throat, and spoke to everyone, across the whole farm, “We pray to you, in the bad times and the good, we bring you our hopes and our dreams, and you bring us comfort in the cold dark, and laugh with us in the warm light. You teach us to rise above ourselves, to goad us into positive growth, and fruitful change. We ask you now to join us in this momentous occasion, to share in the joy of a harvest, and to help us ensure that the future we have chosen is a bright one, full of joy, full of family, and with a healthy, happy community. Praise be.”
+
+That sounded like a much more normal sermon.
+
+Erick said a silent prayer to both Rozeta and Koyabez…
+
+And then to Atunir.
+
+Rejoice!
+
+Atunir accepts you as her Champ—
+
+The box vanished before it could finish its message. Another box popped up.
+
+It’s better for everyone if we pretend that never happened. ~Rozeta
+
+The second box vanished as soon as Erick read the thing, and when he looked in his recent notifications, there was nothing there.
+
+Pretend like it never happened, eh? Sure! Why not.
+
+Darenka spoke to Erick, “Do you have any words you’d like to say?”
+
+Erick shook his head. If he was going to say anything, it would be a joke at someone’s expense, and that seemed like a momentously bad idea.
+
+Darekna smiled. “Whenever you’re ready.”
+
+Erick asked, “Can I come inside, first?”
+
+“Ah!” Darenka moved aside, “Of course!”
+
+He whispered, “So no ill effects of rain on people?”
+
+She whispered, “The gods launched a Deep Scan of the spell because some of them don’t like the others having nice things; if they had found anything, they would have said, and we would not be here today.”
+
+Erick felt a surge of relief. He bowed to Darenka. “Thank you. And thank them, too.”
+
+Erick turned on [Exalted Storm Aura] and began walking up the temple stairs. Clouds manifested across the land, like fog rising from nothing, to rise on unseen winds into the sky high above. Erick placed his left foot onto the staircase and slowly made his way up the five steps to the temple floor.
+
+By the time he reached the top, platinum rain drops were already falling across the farms.
+
+Erick turned around; he was just under the eave of the temple roof. Rain was falling across the brown fields in drips and drops. The audience watched as the ground turned wet and green shoots began to grow. The apple orchards turned lush, as pinpricks of red began to bloom into full sized apples. Water soaked into rice paddies, and green grasses poked upward. After a while water began to fill those paddies, and grasses turned into more than they were before, gold grains spilling out of green stalks like Midas himself touching the harvest.
+
+Tomatoes dripped from trellises. Grapes weighed down vines. Wheat waved in the silver light of the storm. Pasture grew to foot tall greens, ready for the cows to come. Chickens explored the growing lands; more than a few were eaten by prowling cats.
+
+And people were harvesting. [Telekinesis] was widely employed by both farmers and people in nice clothes.
+
+Erick turned to Valok, Krakina, and Apogough. “You three organized this rather well.”
+
+Krakina smiled wide. “Of course we did!”
+
+Valok said, “This was good timing, Erick.”
+
+“Don’t lie, Valok!” Apogough laughed, then mocked, “He was ready to go find you.”
+
+“I said I’d be here.”
+
+Valok grumbled, “I’m glad you are. Now. If you’ll excuse me, I have jobs to oversee.” He bowed to both Darenka and the statue of Atunir, before swiftly vacating the temple.
+
+Krakina and Apogough followed him.
+
+The crowd began to disperse when the Farmer’s Council started to move away from the temple.
+
+Erick just watched, feeding mana into [Exalted Storm Aura].
+
+Darenka stepped up to Erick, saying, “Atunir is making a big stink at me. What’d you do?”
+
+“Best if the whole thing is forgotten. I’m not exactly opposed to what she wants, but I’m not too crazy about the whole thing either, especially if she wants to make this spell hers.”
+
+“Ah! So it’s like that.” Darenka agreed, “Your magic didn’t come from her; it’s not hers to take. We give the gods much of ourselves, and they give us much of them, but there is a limit to decency. But… Best to be seen saying a prayer to her every so often, anyway. It makes her happy, and her worship does provide food to anyone in need, as well as care for children.”
+
+Erick had no objections to that. He gently smiled, saying, “Sounds good to me.”
+
+Darenka stepped off down the stairs, through the rain, calling as she went, “Good luck, Archmage Flatt!”
+
+Killzone approached with Orangescale beside him. Orangescale was a strong looking woman wearing the casual generic armor of a city guard, but much more well made and maintained than the armors he had usually seen guards wearing.
+
+Killzone said, “This is Guardmaster Merit, Archmage Flatt.”
+
+Merit gave a quick bow, then said, “Nice to finally meet you.” Her voice was warm like strong honey. Erick felt instantly at ease. “The city guard is stretched thin, but we’ll survive. And grow.” She looked across the farms, then up. “I can’t wait to see what happens next.”
+
+Erick followed her gaze. [Exalted Storm Aura] was as wide as ever; from Erick’s raised position, he saw that platinum rain was falling over the whole of the farm. Rain was even falling outside of the current boundary.
+
+Merit asked Killzone, “Spare any more people?”
+
+Killzone said, “Can’t do that, Merit. The Shades are equally afraid and joyous that Spur is growing. I’d be concerned, but word is that they’re more happy than afraid. More people for them to try to kill.”
+
+Erick shivered. Killzone noticed.
+
+Killzone stressed, “To try to kill, Archmage Flatt. They enjoy their cat and mouse games just as much as the next genocidal megalomaniac mostly trapped in a prison with other megalomaniacs.”
+
+That was a lot to unpack.
+
+Erick turned to Merit. “Nice to meet you, too.” Very seriously, he asked both of them, “Is this here a problem?”
+
+Killzone said, “Not for me. Or for you. Got two army grunts headed your way for a ‘vacation’, as well. Should be there tomorrow, if’n that’s okay.”
+
+“That’s okay. I’m also working on a [Fly] spell, just so you know, so I’m gonna get out there and kill a few dozen mimics, pretty soon.”
+
+Killzone and Merit both seemed to relax.
+
+Merit said, “The Guard is fine, and Spur will be, too. We’re hiring more people as more people are moving to Spur; we’ll be at capacity in a few weeks as long as the vetting process doesn’t turn up anything too crazy, and if the weather holds,” Merit said with a smirk. “We can handle the adjustment.” She asked, “Are you doing well?”
+
+Erick looked out across the farm. Platinum rain fell, crops grew, and people harvested as fast as they could. This was a lot of food. This was going to change Spur into something else. Everyone seemed to be happy with the change, though. Erick was happy, too, now that he took a moment to think, and evaluate.
+
+A home with his daughter. Food in his belly. A good place to live with a nice community, and problems he could solve. Magic was wonderful, and every day he discovered something new and amazing.
+
+He looked south. The walls of Ar'Kendrithyst were a dark mountain range, looming in the distance, covering the horizon. Darkness lived in there, and occasionally spilled out into the world, but there was always a darkness on the horizon, no matter where he lived. That fact would never change; only the specific circumstances.
+
+Erick said, “I think I’m going to be more than fine.”
+
+- - - -
+
+Erick Flatt
+
+Human, age 48
+
+Level 19, Class: Particle Mage
+
+Exp: 312811/676500
+
+Class: 6/6
+
+Points: 6
+
+HP
+
+100/100
+
+150 per day
+
+MP
+
+600/600
+
+1050 per day
+
+Strength
+
+10
+
++0
+
+[10]
+
+Vitality
+
+15
+
++0
+
+[15]
+
+Willpower
+
+20
+
++0
+
+[20]
+
+Focus
+
+35
+
++0
+
+[35]
+
+Favored Spell waiting!
+
+Favored Spell waiting!
+
+Discipline X
+
+Multiply your base MP by 3
+
+Requirements: 20 Willpower
+
+Concentration X
+
+Multiply your base MP regen by 3
+
+Requirements: 20 Focus
+
+Clarity X
+
+Reduces spell costs by 50%
+
+Requirements: 10 Focus
+
+Meditation X
+
+Always Resting
+
+Requirements: 10 Willpower
+
+Mana Shaping 6
+
+Alter spell AOE in better, subtle ways, 10 MP + spellcost
+
+Alter spell AOE in better, moderate ways, 30 MP + spellcost
+
+Aurify Unlocked
+
+Alter AOE in major ways, 100 MP + spellcost
+
+Requirements: 10 Willpower
+
+Exp: 940/1300
+
+Aurify 2
+
+Transform an AOE spell into a semi-permanent effect surrounding yourself, based upon the parameters of the Aurified spell. Increase an instantaneous spell to a 1 second duration in order to create an aura.
+
+Able to support 1 aura at a time.
+
+You may choose who or what is affected by your aura.
+
+Doubles the range on an Aurified spell.
+
+Exp: 28934/1000000
+
+Mana Altering 8
+
+Bludgeoning, Slashing, or Piercing Damage
+
+Force to Light, Blind, Variable Cost
+
+Invisible Force, hard to see, Variable Cost
+
+Force to Thunder, disorient, Variable Cost
+
+Force to Fire, Burn, Variable Cost
+
+Force to Ice, Slow, Variable Cost
+
+Force to Lightning, Paralyze, Variable Cost
+
+Force to Decay, organic damage, Variable Cost x 1.5
+
+Requirements: 10 Willpower
+
+Exp: 100/3500
+
+Cleanse X, instant, short range, 10 MP.
+
+Purge an area equal to the level of the spell in meters of all Toxins, Disease, Filth, and Corruption.
+
+Cleanse Aura, short range, 10 MP per second.
+
+Continuously purge all Toxins, Disease, Filth, and Corruption in a 10m sphere centered on you.
+
+Mend 8, instant, touch, 10 MP
+
+Touch a non-magical uncomplicated large object and restore it to its prime.
+
+Exp: 880/3400
+
+Ward X, instant, short range, 24 hours
+
+Create a Small Ward that can have Minor Effects, or prevent Z damage from attackers. 10 MP + Z
+
+Create a Small Ward that can have Small Effects, or prevent Z damage from attackers. 15 MP + Z
+
+Create a Special Ward. Variable Cost
+
+Create a Medium Ward that can have Small Effects, or prevent Z damage from attackers. 20 MP + Z
+
+Create a Medium Ward that can have Medium Effects, or prevent Z damage from attackers. 25 MP + Z
+
+Personal Ward: Any Ward of any type can be made Personal, to move with you. Original Cost x2
+
+Create a Large Ward that can have Medium Effects, or prevent Z damage from attackers. 30 MP + Z
+
+Create a Large Ward that can have Large Effects, or prevent Z damage from attackers. 35 MP + Z
+
+Create a Ward with another Spell attached to the interior. Spell activation based on Z invested into Ward. 100 MP + Z
+
+Your Wards regenerate Z based on your Rested MP regen rate.
+
+Special Wards can be made Permanent. 250 MP + Variable Cost
+
+Minor Effects: Bug Ward, Temperature Ward, Alarm Ward
+
+Small Effects: Visual Disruption, Audio Disruption, Weather Ward
+
+Medium Effects: Area Hostile Visual Disruption, Area Hostile Audio Disruption
+
+Large Effects: Drain Hostile HP/MP, Gravity Ward
+
+Special Ward: Eschew all other effects in order to shape, color, and illuminate a ward however you wish. Skill level at Mana Manipulation determines final outcome. Variable Cost
+
+Gravity Strainer, instant, medium range, 65 mana, 1 hour duration.
+
+Conjure a large, freely moldable space where specific objects turn near-weightless and fall to a designated point.
+
+Force Beam 2, instant, medium range, 25 MP
+
+A piercing, slicing beam of hardened mana that deals 25 + ½ WIL damage for 2 seconds
+
+Exp: 175/200
+
+Force Shrapnel 8, instant, short cone, 5 MP
+
+Sharpened forward blast of mana that deals 20 + WIL damage in a cone
+
+Exp: 205/3500
+
+Blink 5, instant, 25 MP
+
+Instantly move from your location to another within <sight>, max range 10m per level of Blink
+
+Exp: 50/800
+
+Stoneshape 5, 1 minute per level, medium range, 30 MP
+
+Slowly move medium amounts of stone and sand around you for 1 minute per level of Stoneshape, OR gain fine control over minor amounts of stone and sand.
+
+Exp: 285/800
+
+Grow X, instant, touch or close range, 5 MP
+
+Cultivate a single plant, or induce plant growth in an area equal to spell level in meters.
+
+Growth Aura, 5 MP per second.
+
+Induce growth in the plants you choose in a 10m radius around you.
+
+Telekinesis 7, 1 minute per level, medium range, 40 MP
+
+Slowly move large objects around you for 1 minute per level of the spell.
+
+Exp: 1600/2100
+
+Airshape 1, 1 minute per level, medium range, 10 MP
+
+Slowly move minor amounts of air around you for 1 minute per level of Airshape.
+
+Exp: 0/100
+
+Call Lightning X, 1 minute per level, super long range, 500 MP ~{Favored Spell}~
+
+Prepare the sky to strike an area or object of your choice for <damage>. If used in an active lightning storm, Call Lightning’s duration is as long as the natural storm. Every lighting bolt called reduces the duration of Call Lightning by 1 minute, or a natural storm by <undetermined>.
+
+Particle Mage Only
+
+Lightning Aura, 1 MP per second, super long range ~{Favored Spell}~
+
+Prepare the air around you to strike for <damage>. One strike available every 50 MP.
+
+Particle Mage Only
+
+Exalted Storm Aura, 1 MP per second, super long range ~{Favored Spell}~
+
+Anoint the land with blessed rain, rapidly growing all <crops and pasture> to <harvest size> and restoring vibrancy to all other <desired> plant life and soil. If used in a <prepared field> <devoid of crops>, highly nutritious beans will sprout after <a full day of rain>.
+
+Particle Mage Only
+
+Particle Mage
+
+Your ability to unlock new Particle spells is greatly increased.
+
+If you witness a Particle spell and you understand it, you may unlock that spell for free.
+
+Your ability to affect the Particle spells of others is greatly increased.
+
+Your own Particle spells are less affected by the abilities of non Particle Mages
+
+Your Particle spells deal more damage
+
+You take less damage from Particle spells.
+
+<I gave you most of the Force Mage skillset except with a few additions and subtractions and relevant changes. You’ve also gotten the Class unlocked at max level, because I need to see how this all works out. This is all subject to change. ~Rozeta>

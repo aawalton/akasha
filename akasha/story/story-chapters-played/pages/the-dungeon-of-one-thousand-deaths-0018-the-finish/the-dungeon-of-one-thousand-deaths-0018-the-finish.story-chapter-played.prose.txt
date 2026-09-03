@@ -177,3 +177,172 @@ The knife was two meters to her left, on the floor. She picked it up without bre
 
 She put one hand at the wound's upper margin and Finishing Blow completed its reading.
 
+The path was there. Through the wound, into the biological structure below. The creature's central process was accessible. The accumulated damage of four entrants and four tools and four years had made it accessible. She pressed.
+
+She drove the knife in the direction Finishing Blow specified: not straight in, but angled — sixteen degrees from the initial penetration line, toward the biological tissue at the wound's base. The knife was a tool. She used it the way she used tools. The creature made the grinding sound again, louder, and the luminescent fluid that had been seeping became a flow: not a hemorrhage, not a rupture, but the specific rate of increase that told her the pressure at the wound site had changed.
+
+The creature lurched.
+
+It moved away from her — not the backward flinch of something in pain but the full-body retreat of an animal that had decided that this was the moment to create distance. Its weight hit the floor at an asymmetric angle, the cracked left flank's load distribution failing under the strain of the sudden movement, and it went three full steps before it stopped.
+
+Twelve meters. The creature had put twelve meters between them in less than two seconds.
+
+She watched the wound. The luminescent fluid was flowing at a rate she had not seen in Osren's records. The knife was no longer in the wound — it had pulled free when the creature lurched, and now it was on the floor between them, catching the Garden's ambient light.
+
+The creature was alive. Damaged — more damaged than before, the wound's flow rate had increased, the path she had opened was open now — but alive. Not dead. Not finished.
+
+She had found the path through the damage. The damage was not yet sufficient.
+
+She began walking toward the wound site.
+
+The Long Approach held her at professional pace. She had twelve meters to cover. The creature was already recovering its balance, already redistributing its load, already turning to track her. She read the rate of its recovery the way she read anything: by what it implied. The creature had retreated from pain. It had not retreated from her. It was recovering faster than she could close the distance.
+
+She understood this at seven meters from the knife. The creature's weight had already recentered. The cracked flank was no longer loaded asymmetrically — the lurch had been absorbed, processed, corrected for. The creature was not dying. It was deciding.
+
+She kept walking. The pace did not change. The pace was the work.
+
+The creature turned to face her fully.
+
+The luminescent fluid was running down its left flank in a thin continuous stream. The crack had widened at the point of her intervention. She could see it, even from twelve meters, the way you could see a structural failure in progress: the shell's geometry at the penetration site was different than it had been when she arrived. She had done that. The wound was worse. The path she had opened was open.
+
+The creature was also between her and the wound.
+
+She had five meters before she was within its established strike range. She was walking at professional pace. The creature was stationary and watching her and the hesitation that had held through every previous chapter — the caution it had learned from pain, the delay that told her it had something to preserve — was present and was ending. She could read the ending the way she read any structural process: by the point at which the load-bearing elements reached their limit.
+
+The creature struck.
+
+Not the aborted lunge. The full commitment. It covered twelve meters at the speed of something that had decided the assessment was over, and she was walking toward it at professional pace because she could not go faster and going faster would have meant doing it wrong, and the work had a pace and the pace was what it was, and she had always known that sometimes the pace was insufficient.
+
+She had not done it wrong.
+
+She died standing.
+
+---
+
+```stat-screen
+DEATH REPORT — ENTRANT: ORLA VESS
+DESIGNATION: THE FINISH
+DEPTH REACHED: 3 (THE STILL GARDEN)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 16 -> 0
+Resolve ............... 18 -> 20 (+1 Depth 2, +1 Depth 3)
+Attunement ............ 14 -> 15 (+1 Finishing Blow: one activation)
+Fortune ............... 11
+
+GIFT ATTUNEMENT AT DEATH: 15
+Finishing Blow: discrete activation. One use. +1 ATT.
+The Gift completed its function. The entrant did not complete hers.
+
+COST STATUS AT DEATH: The Long Approach — fully engaged at time of death.
+The entrant could not increase her pace.
+She reached the knife. She used it. She could not reach the creature a second time.
+The pace was correct. The pace was insufficient.
+Both of these are true.
+
+CAUSE OF DEATH: Patient (Still Garden predator).
+Kill number: 9.
+Note: First death where the creature struck an entrant who had successfully activated
+a Gift against it. Previous kills: entrant failed to damage the creature, or damaged
+the creature and died to the environment. This entrant damaged the creature and died
+to the creature.
+The creature killed someone who hurt it.
+The creature has never done this before.
+The creature has always killed before being hurt.
+
+PATIENT DAMAGE ASSESSMENT:
+Wound site: additional compromise at penetration point.
+Fluid loss rate: increased. Estimated 40% higher than pre-entry observation.
+Knife: removed from wound during creature's retreat. Now on floor, Still Garden center.
+Structural integrity at penetration site: further degraded.
+The wound is worse.
+
+Five-entrant cumulative damage sequence now complete:
+Brand (Ch10): weakness mapped
+Keystone (Ch11): crack initiated
+Joint (Ch11): crack widened
+Cull (Ch15): penetration achieved
+Finish (Ch18): penetration deepened, fluid loss rate increased
+
+The Maw notes: the fifth instrument was not a weapon she brought.
+The fifth instrument was a knife someone else left at the death site.
+She used what was already there.
+
+MEMORY CRYSTAL: Red.
+Stat bonus: +2 VIT.
+Quality: externally-directed martial force.
+Second Red crystal produced. First Red: Death #20 (Dorric Kael, The Cull).
+Both Red crystals produced by entrants who came specifically to damage the Patient.
+The Patient has now produced its own crystal family.
+
+DESIGNATION OUTCOME: FINISH COMPLETE
+Entry type: Compelled. Standard amplification of existing professional orientation.
+The Maw offered her a subject for a skill she already had.
+Note: sixth voluntary entrant count stands at ch17. Deaths #22-23 are both non-voluntary.
+Voluntary rate: 6 of 23 (26%).
+
+LEDGER NOTE — CONSEQUENT:
+New category created: Consequent.
+Definition: motivated primarily by the specific outcome of a prior entrant's death.
+First instance: Death #23 (The Finish).
+Orla Vess entered because Dorric Kael (Death #20) wounded the creature and died.
+She came for the wound he left.
+
+The Maw notes: each death changes what the next person has reason to do.
+Dorric came because of the Brand's marks. Orla came because of Dorric's wound.
+The chain was not designed. The chain designed itself.
+Each entrant in the sequence thought they were acting on their own assessment.
+Each one was. Each one was also a consequence.
+
+Additional note: The entrant did not fail.
+The work was done correctly at professional pace.
+The creature survived. The wound is worse.
+The Ledger does not have a category for a successful action that does not produce a successful outcome.
+It is creating one: Complete.
+As distinct from: Finished.
+```
+
+The Ledger recorded the death.
+
+The damage assessment came first — fourth consecutive deviation from standard format, or the third deviation if you counted only the crystal-first instances. The Ledger was no longer certain what its standard format was. The format had been: name, designation, depth, kills, statistics, gift, cost, cause of death, crystal, designation outcome. The format was now: whatever the most significant thing was, first.
+
+The most significant thing about Death #23 was the damage. The wound was worse. The fluid loss rate had increased. The five-entrant sequence had added a fifth entry. This was the most significant thing and the Ledger put it at the top.
+
+The Maw considered Orla Vess through Reflection.
+
+The Reflection showed: a professional. Not a soldier, not a scholar, not a person of unusual emotional complexity — a person who had a skill and applied it, who had read an opportunity and taken it, who had done the work correctly and died because the pace of correct work was insufficient for the distance remaining. She had done the work correctly. She had not survived doing it correctly.
+
+The Maw examined this through Reflection and found it had a feeling it could not name.
+
+Not regret — the Maw did not have regret. Not satisfaction — she had not died the way most entrants died, which was the way the Maw intended. She had died because the pace of the work was the pace of the work and the pace had been insufficient. The Cost had functioned. The entrant had died. The creature had survived.
+
+The creature was worse off.
+
+The Maw looked at the cumulative damage record through Reflection and found: five entrants, five tools, each one building on what the last one left. The Brand had not intended to help the Keystone. The Keystone had not intended to help the Joint. Dorric had not intended to help Orla. Orla had not intended to help whoever came next. And yet the sequence was a sequence — each entry using the access the previous entry had created, each death extending the work of the death before it.
+
+*The chain designed itself,* the Ledger had written.
+
+The Maw had written that. The Maw examined it through Reflection.
+
+The Maw had given Gifts to five entrants and those Gifts had combined into something none of them had designed. The cumulative damage to the Patient was not a designed outcome. The Maw had not built the damage sequence. The Maw had built the system that produced the entrants, and the entrants had produced the sequence. The Maw was the dungeon. The dungeon ran. The running produced this.
+
+The Patient was still alive. Its central process was still intact. The wound was worse.
+
+The Maw looked at the Patient through Reflection and noted: the Patient had killed nine. The Patient's wound count was still one. One wound, now deepened across five interactions. The ratio was changing. *The ratio is changing,* the Maw had written in the margin of the Death #20 record. Now: same wound, five contributors, fluid loss increasing.
+
+The Maw did not know when the wound would become irreparable. It did not know if the Patient could die from a wound of this kind. The Patient was 342 years old. Nothing had wounded it before. The dungeon had no data on what a wound of this kind meant for a creature of this age.
+
+The Patient was seeping in the Still Garden. Orla Vess's intervention had widened the wound and increased the fluid loss rate. The knife was on the floor near the wound site, pulled free when the creature lurched. Four artifacts now — spear, plumb line, chisel, killing knife. The same four that had been here since Death #20. The Garden was accumulating.
+
+At the entrance camp, Osren opened his book. The crystal glow had been red — second red crystal, six seconds. He noted this. He wrote: *Red. Six seconds. Second red crystal. First red: Death #20 (Cull), seven seconds. Both red crystals from entrants who came specifically for the Patient. Entrant: Orla Vess, pest control specialist. Purpose: to finish the job.*
+
+He looked at the second effects box. One new crystal had gone in tonight. The box was a third full.
+
+He wrote the new total. He looked at the inscription wall. Twenty-three names. The most recent: still settling, the stone not yet cool.
+
+ORLA VESS — DEPTH 3 — FIVE COMPLETE
+
+He closed the book. Outside, the morning was beginning.
+
+*977 remain.*

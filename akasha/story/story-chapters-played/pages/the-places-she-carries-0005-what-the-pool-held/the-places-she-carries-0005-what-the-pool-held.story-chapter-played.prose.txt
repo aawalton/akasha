@@ -171,3 +171,235 @@ His flatcake stopped halfway to his mouth. "The -- this morning? You went to the
 
 "It pulled hard enough that I felt it in my sleep."
 
+Hadley set down his flatcake. His face was doing the rapid cataloging thing -- every piece of information being filed and cross-referenced against everything he already knew. "And the pool? What was it like? Was it the same as the Shelf, or different? The system notification -- did it say anything about the type of bond? Because the Shelf is a stone ledge and the Eye is a body of water and those are fundamentally different kinds of places, and I've been thinking about whether the bond would reflect --"
+
+"Reciprocal," Wren said.
+
+Hadley's mouth closed. Opened. Closed again. This was, she was learning, the Hadley equivalent of being struck speechless -- a pause that lasted three full seconds, during which his eyes went very wide and very still.
+
+"The pool reached back," she said. "When I extended the bond, it met me halfway. The system called it a reciprocal bond."
+
+"Show me," Hadley said. "Not -- I know you can't show me the bond. But you're seeing differently now, aren't you? You've got two places in you instead of one. Show me what that looks like."
+
+---
+
+They went gathering after breakfast, south into the mid-canopy reach where the ghost-elms grew in loose clusters between older, broader trees. Hadley needed moss for Theron's poultice stores -- the silvervein kind that grew on ghost-elm bark, the same moss Wren had harvested yesterday by the river.
+
+Wren walked with two presences in her chest.
+
+It was not what she had expected. She had imagined the second bond as a doubling -- twice the sensation, twice the awareness, the same experience replicated. It was not that. It was a deepening. Two notes, not two copies of one note. The Shelf grounded her: cool stone beneath her feet even when she walked on soil, the sense of shelter, of being inside something solid. The Eye sharpened her: clarity of surface, reflective attention, the quality of seeing things as they were rather than as she expected them to be.
+
+Together they made her more. Not more powerful -- more *present*. More in the forest, more aware of the spaces between things, more attuned to the relationships between root and soil, bark and air, canopy and light.
+
+She let her Perception settle -- the wide-aperture attention the Wayfinder class encouraged -- and the forest opened.
+
+"Do you hear that?" she asked Hadley.
+
+They were at the base of a ghost-elm cluster, three trees growing close enough that their root systems must have been tangled underground. Hadley tilted his head.
+
+"Hear what?"
+
+"A hum. Low -- below hearing." She put her hand on the nearest ghost-elm trunk. The bark vibrated under her palm -- the familiar resonance she had first felt on Day 1, but stronger here. Much stronger. Where a single tree had hummed with a chord, three trees together created an overlap, a resonance that she felt in her teeth and the center of her sternum. "Here. Feel."
+
+Hadley pressed his hand next to hers. His face went still with concentration -- the look of someone reaching for a sound at the edge of perception.
+
+"I feel -- something. A tingling?"
+
+"The trees are resonating with each other. They're close enough that the individual frequencies overlap." She moved between the trunks, one hand trailing along bark. The hum strengthened where the trees were closest, weakened where they separated. The air smelled sharp -- ozone and old wood and something almost metallic, like the air before a storm that hasn't decided whether to break. Light filtered through the translucent bark in pale columns, and everything in the grove seemed slightly soft at the edges, blurred by the vibration.
+
+"Something underground," she said. "They're responding to something underground."
+
+"The corruption?"
+
+"Maybe. But they're not dying. They're --" She searched for the word. The Eye was helping -- the [Reflective] trait sharpening the observation, letting her see the relationship between the hum and the soil more clearly than she had seen anything before. "Resisting. Pushing back. The resonance is the resistance. Where three trees overlap, the hum is strong enough that --"
+
+She stopped. Looked at the ground. At the edge of the grove, where the ghost-elm roots ended and the regular forest floor began, there was a line. Not drawn, not sharp. A gradation -- the soil darker inside the grove's resonance, lighter outside, and at the boundary itself, a band where nothing grew. Not barren. Held. Held empty by the hum.
+
+"Look," she said. "The corruption can't cross the resonance."
+
+Hadley crouched. He scraped at the boundary soil with his thumbnail -- the same gesture from yesterday, when they'd examined the spiral root. "The soil is different here. Finer grain inside the resonance, coarser outside. The roots are doing what they do -- grinding, processing -- but at a scale I've never --" He stood. Stared at the grove. "Wren, I've been gathering in the Thornwild for three seasons and I've never seen this."
+
+"PER 11 and two Sympathetic Bonds that won't shut up." She smiled. She knew she was smiling. "I think the Thornwild isn't just sick. I think it's fighting back. And these trees are part of the fight."
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY LOGGED
+  Location: Upper Basin — Mid-Canopy Reach
+  Type: Ecological Process (Ghost-Elm Resonance Network)
+-------------------------------------------------------------
+
+  Ghost-elm clusters produce overlapping resonance that
+  creates a localized corruption-resistant zone. Soil
+  within the resonance zone shows altered composition.
+  Corruption cannot penetrate active resonance fields.
+
+  Implications: Ghost-elm groves are the Thornwild's
+  natural immune response. Their effectiveness scales
+  with density and proximity.
+
+  +65 XP (significant observation, multi-factor)
+  Environmental Reading: +4 proficiency
+  Resonance Sensing: +3 proficiency
+-------------------------------------------------------------
+```
+
+Hadley's face broke into the grin -- the wide, unguarded one she was learning to recognize. "Show me everything," he said. "Show me what else you're seeing."
+
+So she did. She pointed out the way the moss grew thicker on the sides of the trunks facing each other, as if the trees were growing *toward* one another. The way the silvervein moss was concentrated inside the resonance zone, the silver threads brighter here, more dense, as if they were conducting the resonance along with the water. The way one of the trees had a root that surfaced at the grove's edge and then turned back -- turned back toward the other trees, as if it had met the corruption boundary and retreated.
+
+Hadley took notes. Actual notes, in the small book he pulled from inside his jacket, writing in his quick, cramped hand. Every time Wren pointed out something new, he said "yes, yes" under his breath -- not agreement but encouragement, the way you'd urge someone to keep talking when they were telling you exactly what you needed to hear.
+
+---
+
+It happened on the walk back.
+
+They were north of the ghost-elm grove, Hadley still scribbling in his book, when Wren felt the Shelf move.
+
+Not physically. The Shelf was stone and stone didn't move. But the bond -- the steady, low-frequency presence she'd carried in her chest since the escarpment -- shifted. Brightened. As if someone had turned up the volume on a sound she'd grown accustomed to hearing.
+
+She stopped walking.
+
+"Wren?"
+
+She held up a hand. The Eye was there too, the newer bond, bright and attentive, and it was doing something the Shelf wasn't -- it was *relaying*. She could feel the Eye feeling the Shelf. Not directly, not the way she felt them individually, but through her. The bonds were connected, and the connection ran through the center of her chest like a thread between two pins on a map.
+
+The Shelf's temperature had dropped. She knew this with the certainty of the Eye's [Reflective] perception, even though she was a twenty-minute walk from the physical ledge and couldn't see or touch it. The stone was cooling faster than the morning air warranted. The rowan's leaves were catching a wind that hadn't reached the basin floor yet -- a high wind, coming from the plateau side, carrying something colder.
+
+"I can feel the Shelf," she whispered. "From here."
+
+"You -- what?"
+
+"Through the Eye. The bonds are connected. They're talking to each other through me." She pressed her hand against her sternum. Two presences, two places, and between them a bridge she hadn't built. It had built itself, or they had built it together -- she couldn't tell the difference and wasn't sure there was one. "I'm in two places at once. I'm standing here with you and I'm also at the Shelf and I know the wind has shifted and the rowan is bending west and the temperature is dropping."
+
+Hadley's book hung forgotten at his side. He was staring at her with an expression she hadn't seen from him before -- not delight, not curiosity, but something quieter. Recognition, maybe. The look of someone watching a seed crack open and understanding, for the first time, what the plant was going to be.
+
+```stat-screen
+-------------------------------------------------------------
+  BOND NETWORK DETECTED
+  Active Nodes: 2 [Warden's Shelf, Warden's Eye]
+  Network Status: Nascent
+  Relay Sensitivity: Low
+-------------------------------------------------------------
+
+  Bonded locations within the same network can share
+  environmental data through the Wayfinder. Sensitivity
+  and detail increase with bond strength and network
+  density.
+
+  Note: Each new bond increases network connections
+  geometrically, not linearly.
+
+  +80 XP (First: Bond Network Formation)
+-------------------------------------------------------------
+```
+
+Geometrically. Wren read the word three times. Two bonds, one connection. Three bonds would mean three connections. Four bonds would mean six. Ten bonds -- forty-five. The math unfolded in her head with a clarity that felt borrowed, as if the system was helping her understand what she was becoming.
+
+A Wayfinder didn't just bond with places. A Wayfinder *wove* places together. Each new bond didn't add a point on a map -- it added every possible line between that point and all existing points. She was building something, and the something wasn't a collection. It was a web. A living, sensing, breathing web of places that knew each other through her.
+
+She needed to sit down. She sat down, right there on the forest floor, her back against a ghost-elm trunk, and felt the hum travel through her spine while two places pulsed in her chest and the space between them hummed with a connection she had not asked for but could not imagine not having.
+
+---
+
+The compass went wrong.
+
+Not broken -- she knew what broken felt like, the absence of signal, the dead needle. This was the opposite.
+
+They were north-east of the ghost-elm grove, following a game trail that Hadley swore would loop back toward camp, when the compass erupted. Not one direction but dozens, overlapping, competing -- a cacophony of *here* and *here* and *here* and *here* that hit Wren like a physical force. She staggered. Grabbed a tree trunk. The bark scraped her palm and she barely felt it because every nerve she had was overwhelmed by the signal.
+
+"Wren!" Hadley caught her arm. "What's wrong?"
+
+"Bond-potentials," she managed. "Too many. All at once."
+
+She could feel them -- a dense cluster of locations, each one pulling with its own urgency, its own character, and the pulls interfered with each other the way overlapping voices in a crowd interfered with speech. Some were sharp and bright. Some were low and old. Some had a quality she could only describe as *ruined* -- the pull of a place that had been something and had stopped being something and was waiting to be something again.
+
+She pressed her back against the tree and breathed. In and out. Let the signals settle. They didn't settle, but she learned, in the span of ten breaths, to hear them separately instead of as a wall of noise. Each pull had a direction. Each direction was slightly different. And all of them -- every single one -- pointed the same general way.
+
+North-east. Deeper into the Thornwild. Somewhere close.
+
+"I need to go that way," she said.
+
+"Wren, we should go back. You look --"
+
+"I need to." She pushed off from the tree. Her legs were shaky but her voice wasn't. "Something is there. A lot of somethings. I've never felt this many bond-potentials at once and they're all in the same place and I need to see."
+
+Hadley looked at her for a long moment. Then he closed his notebook, tucked it inside his jacket, and said, "All right. Show me."
+
+They walked. The game trail gave way to denser undergrowth, and the undergrowth gave way to a stretch of ground where the trees thinned and the light changed -- brighter here, the canopy disrupted by something that had happened long ago. Wren pushed through a thicket of young growth, thorns catching at her sleeves, and the compass sang like a choir that had found its unison note.
+
+Her foot hit something that wasn't root and wasn't rock.
+
+She looked down. Pushed aside the undergrowth with both hands.
+
+A line. A straight line in the earth -- too straight, too deliberate, too *made* to be anything natural. She followed it with her fingers, clearing moss and leaf litter, and found the edge. Stone. Cut stone. The surface was smoother than anything the Thornwild produced, covered in decades of growth but unmistakable under her touch. A groove ran along one face -- shallow, precise, the kind of mark a mason would leave.
+
+She followed the stone. It turned. A right angle, perfect, ninety degrees of human intention buried under wild green.
+
+A wall corner. A *building*.
+
+"Hadley," she breathed.
+
+Hadley was beside her, crouched, his hands suspended above the stone as if he was afraid to touch it. "That's -- Wren, that's worked stone. That's Rimfolk stonework. I've seen it in old Millhaven foundations. The mason's mark --" He pointed at the groove. "That's a Rimfolk guild mark."
+
+"There's more." Wren didn't need to look. She could feel it -- the bond-potentials, dozens of them, radiating from the earth beneath her feet and the earth beyond and the earth further still. Not just one building. Not just two. A settlement. An entire place where people had lived and built and left, and the Thornwild had grown over it like a blanket pulled over a sleeping body, and it was still here. Underneath everything, it was still here.
+
+She pressed both palms flat against the worked stone. It was warm. Warmer than the air, warmer than the soil around it, as if the stone remembered the hands that had shaped it and was still holding their heat. The moss that grew along the mortar lines smelled different from the wild moss around it -- sweeter, richer, mineral and old, the scent of roots that had been feeding on something built for a very long time.
+
+The compass went quiet. Not silent -- *satisfied*. The cacophony of competing pulls resolved into a single, coherent hum, as if all the bond-potentials were part of the same place and the same place had decided to stop shouting and start waiting. Patiently. The way the Shelf waited. The way the Eye waited.
+
+The way places waited for someone who would come back.
+
+```stat-screen
+-------------------------------------------------------------
+  SIGNIFICANT DISCOVERY
+  Location Cluster Detected: [Unnamed Settlement — Ruins]
+  Estimated Bond-Potentials: 15+
+  Condition: Reclaimed / Dormant
+-------------------------------------------------------------
+
+  Compass Attunement has identified a dense concentration
+  of bondable locations consistent with a former habitation
+  site. Individual structures are not yet differentiated.
+
+  Systematic survey recommended.
+
+  +120 XP (Discovery: Major Landmark)
+  +30 XP (First: Location Cluster Detection)
+  Pathfinding: +4 proficiency
+  Surveying: activated (first use)
+-------------------------------------------------------------
+```
+
+---
+
+She didn't tell Theron everything.
+
+It wasn't a lie. She told him about the bond network -- the two places connected through her, the Eye relaying the Shelf's temperature and wind, the geometric scaling the system had described. She told him because she knew it was too important to hide and because the wonder in her voice when she described it was impossible to suppress.
+
+She told him about the ghost-elm resonance and the corruption boundary, and watched his face do the thing it did when she told him something he had always known but never had words for -- the settling, the nod, the single sentence that validated decades of instinct: "My father said the groves were healthier than the singletons. He never said why."
+
+But the ruins, she kept.
+
+Not forever. Not even for long. Just for tonight, while the knowledge was new and fragile and entirely hers. She would tell him in the morning. She would tell him and they would go together and he would recognize the stonework because he was Rimfolk and the settlement was Rimfolk and this discovery belonged to him in ways it didn't belong to her. She knew that. She knew it and she would honour it.
+
+But tonight it was hers. Just tonight.
+
+She lay in her bedroll and felt the two bonds like a heartbeat with two chambers. The Shelf: cooling in the night air, the rowan's branches still in the windless dark. The Eye: silver-still at its center, its surface holding the first stars, patient and watchful and quietly, impossibly alive. Between them, the thread. Through her.
+
+And beyond the thread, north-east, a hum so faint she might have imagined it. Not the ghost-elm resonance. Not the compass. Something older. The ruins, dreaming under their blanket of green, waiting for someone to pull the cover back.
+
+Wren closed her eyes.
+
+In the trees outside, something vibrated. Not the wind. Not an animal. A low, almost-sub-audible tremor in the wood, as if every trunk in the Thornwild had exhaled at once. She thought -- just for a moment, just at the edge of hearing -- that it sounded like weeping. Not sad weeping. The kind that comes after you've held something for a long time and someone finally says *I see you* and you can let it out.
+
+She pulled her blanket tighter.
+
+The Crying Forest was fifteen days from its next event. Theron had told her the cycle was seventeen days. She had been in the basin for three days. The math was simple. The implications were not.
+
+But lying in the dark with two places living inside her chest and a third -- a whole village of thirds -- waiting in the ruins to the north-east, Wren thought she understood something about the weeping that Theron might not expect.
+
+The forest wasn't grieving.
+
+It was remembering.
+
+She went to sleep carrying three places: one of stone, one of water, and one she hadn't touched yet but could already feel, humming like a second heart beneath the earth, waiting for the girl who would bring it home.

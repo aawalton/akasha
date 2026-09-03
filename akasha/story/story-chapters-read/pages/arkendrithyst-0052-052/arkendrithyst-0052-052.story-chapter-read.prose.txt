@@ -314,3 +314,984 @@ Your ability to create new Particle Spells is Greatly Increased.
 
 ‘Thank you, for that.’ Erick thought, to no one in particular. He said, “So then! Eduard? Any last minute changes?”
 
+Eduard smiled. “Nope.” He added, “Even if you don’t make it how I want it, I think I can eventually manage it on my own.”
+
+Maia punched him in the shoulder. “Don’t be an ass.”
+
+Erick grinned, then turned back toward the Crystal Forest. He spoke:
+
+“A chilling fog rolls 'cross the land
+
+“Stilling those who cannot flee
+
+“Freezing air that does not stand
+
+“but wraps around all those that be
+
+“In this time of [Wintry Sea]."
+
+Erick felt a spike of pain rush through his body, but Poi was there with the rod of [Treat Wounds] again.
+
+Congratulations!
+
+You have created a new Basic Spell. Your spell has been added to your skills for free!
+
+The spell you have created will appear in the Script after a year and a day.
+
+Your spell is the alpha version, and will shift with time and use.
+
+The spell that appears in the Script might be different.
+
+Here is your spell:
+
+Wintry Sea 1, long range, 1 minute per level, 250 MP
+
+A large designated space rapidly loses all heat, dealing <damage> to all inside. Damage from Wintry Sea automatically slows. <Wintry Sea attaches to those most affected by itself, and will switch to another target if the most affected target perishes>.
+
+Rozeta thanks you for enriching the Script.
+
++2 ability points.
+
+Another interesting choice ~Rozeta
+
+Erick groaned out, “I’m done,” as he handed Eduard his spell, and the air shifted.
+
+Eduard briefly read the spell, smiling wide, as he turned his gaze upon the magics taking form in front of them.
+
+A sharp, glittering, faint blue light, breathy and insubstantial, floated in the air ahead. The air crinkled and cracked. The blackened ground under the blue spell frosted over as moisture in the air coalesced into tiny spikes of ice, atop blackened cinders.
+
+And then the spell moved, rapidly left, across the ground, seizing upon a mimic that had been at least a hundred meters away from the spell. The mimic screamed, shrill. The spell ended before it could do anything but touch the monster. The mimic, enraged and very much alive, abandoned its idea of hiding, charging across the vast distance between itself and the platform—
+
+A radiant red dot shot out of Maia’s hand, impacting through the center of the ten foot tall blue crystal monster, coming out the other side as an engulfing fountain of flames. The mimic was a brief conflagration of whipping blue spikes before it fell to the sand, burning, burning, dead.
+
+Erick got a notification for 5% Participation. He laughed. “What the heck was that?”
+
+“Fire [Force Beam Bolt].” Maia said, “Much too high of a spell for it to ever be subject to [Reflection].”
+
+Erick watched the burning corpse for a long moment. He asked, “Have you guys ever hunted wyrms before?”
+
+“We have. Many times.” Ramizi said, “Our [Familiar]s are still searching for that necromancer, though, so we’re stuck in this downtime. It’s been great for learning how to use all the new foods you’ve made, but not much else.”
+
+Erick smiled. “You three can pick anything out of the garden, you know. I already told Ratchet she could as long as it's for personal use, but all she likes is the lemons.”
+
+Ramizi smiled wide. “I will take you up on that offer!”
+
+Erick asked, “How would you three kill a wyrm?”
+
+“Overwhelming firepower!” Maia grinned, then said, “If you think you’ve hit it enough, you are wrong.”
+
+“I lock the wyrm down with ice magic.” Eduard said, “Then these two boom-happy, magi-tyrants unload on the insane dragon with everything they got. If that doesn’t work, it's usually because the wyrm’s magic protects them somehow, so we all run away and put up a listing with what we know about what we found, so someone else will know what they’re going after. Don’t be afraid to run away.” He asked, “Are you going after wyrms?”
+
+“Yup.” Erick said, “I promised the Champion of Atunir that if she killed Planter, I’d help them clear out Odaali. I’m preparing to keep my promise.”
+
+Maia said, “She executed two merchants who went back on their promises of assistance, so that’s a healthy attitude you have.”
+
+Erick paled. “Really?”
+
+“Oh yeah.” Maia said, “They were merchants from Wellok, across the river from Odaali, and when Yetta helped them clear out their lands, they told her to take a hike. So she killed them and took their lands for herself.”
+
+Ramizi said, “They had it coming.”
+
+Eduard grumbled, “We’re not having this argument again.” He said to Erick, “Thank you, Archmage. The spell is exactly what I want, and in a year, I’m going to buy it.”
+
+Erick said, “Thank you for allowing me access to the spells you have already created.”
+
+Eduard said, “Let us know how your wyrm hunt goes. Don’t be afraid to run away; a higher Participation is not worth your life.” He held out his hands for Maia and Ramizi.
+
+In a blink of cyan, they were gone.
+
+Erick breathed the dry, Forest air in and out, relaxing for a moment. Crafting spells took a toll, but one application of [Treat Wounds] seemed to be more than enough to undo the damage of creating a 250 mana spell.
+
+It was time to go back home, to make some final preparations. But first: Erick felt his link from the parakeet in his pocket to the parakeet out at the farms; mana was still flowing to where it needed to go. Looking to the south west, silver storms rained onto green farms, though the farm itself was much too far away to see without [Scry].
+
+Erick looked over his new spells.
+
+He spent a point on [Perfect Hearing].
+
+Perfect Hearing 1, 10 HP per minute.
+
+Hear clearly.
+
+Exp: 0/100
+
+Erick Flatt
+
+Human, age 48
+
+Level 39, Class: Particle Mage
+
+Exp: 8,454,869,064/10,233,415,500
+
+Class: 6/6
+
+Points: 4
+
+HP
+
+1260/1260
+
+600 per day
+
+MP
+
+2400/2400
+
+12,000 per day
+
+Strength
+
+20
+
++22
+
+[42]
+
+Vitality
+
+20
+
++0
+
+[20]
+
+Willpower
+
+40
+
++0
+
+[40]
+
+Focus
+
+50
+
++0
+
+[50]
+
+Favored Spell waiting!
+
+- - - -
+
+Teressa was waiting for Erick and Poi in the kitchen.
+
+She greeted them with a smile. “Thank the gods you're back. I have already prepared everything we could ever want. All we have to do is actually leave. We don’t even have to come back to town for days! Nights under the stars are wonderful.” She offered, “Or you can [Stoneshape] a castle, if you want. Some people do it that way, but we don’t have to.”
+
+She had been busy. Four packs had been prepared; one large and three smaller sized.
+
+Teressa pulled open one of the smaller ones, saying, “I’ve got all the camping tools in mine, but the food has been split rather evenly, and we’re going to be using [Conjure Item] beds and bedding. I’ve got jerky of all kinds, cheese and alcohol and— we’ll have lots of water, anyway. So I just packed the canteens, which we will fill before we actually leave. Breads, jellies and teas, and coftea. Desserts and nuts and berries, you know. Everything we could ever want!”
+
+Erick smiled, and said, “Great! But before we head off... What kind of Stat items do you all want? I can’t believe that I haven’t given you all something.”
+
+Teressa grinned like she was having a double Christmas. She giggled a little, as she forced herself to not dance, and said, “A Strength ring and a Vitality ring.”
+
+“… You can handle that?”
+
+Teressa answered, “Absolutely! It's easier than Strength and Willpower, for sure.”
+
+Now that Erick thought about it, he should make himself a Vitality ring as well, maybe even two; it would increase his Healing Fatigue limit by a lot, and would allow for a lot more uses of his new abilities. And, of course, he couldn’t forget a Willpower Ring in the beginning of the day for a larger [Personal Absorption Ward]. He absolutely needed one of those.
+
+Erick asked Poi, “How about for you?”
+
+Poi said, “Strength ring.” He looked around. “Rats would likely take a Strength ring, too, but I’m not sure.”
+
+“He’s sleeping.” Teressa said, “Trying to get some shut eye in before we depart.”
+
+Erick said, “I still need to pick up the quest—”
+
+Teressa whipped a piece of paper from the larger bag. “Right here!” She pulled out even more papers. “And these are all the known wyrms on file! I know you read up on them, but Rats will want to read about them, too. It cost 15 gold but it’s necessary.”
+
+Erick smiled. Teressa was really into this. Erick said, “Okay... Then… I’ve got most of the proper rings made, but I haven’t made many good Vitality ones, yet. After that, and after Rats wakes, we can go.”
+
+Teressa forced herself to stillness, saying, “Very good, sir.”
+
+Poi added, “Might as well make a few Focus ones, too. Rats might also pick Focus; hard to tell.”
+
+Erick paused. He said, “It occurs to me that I have no idea what any of you can actually do.”
+
+Teressa giggled.
+
+Poi looked from Teressa to Erick, saying, “That’s been on purpose, sir.”
+
+Erick laughed once. “Really?”
+
+“Really, sir,” Poi said.
+
+“Okay?” Erick looked from Teressa to Poi, grinning as he said, “Keep your secrets, then.”
+
+“Thank you, sir.” Poi said. “We will do so.”
+
+- - - -
+
+Erick learned that two +28 Vitality rings forced him to take a detour to an unused bedroom for a hot five minutes. And then again. He had to take one of the rings off.
+
+When he experimented with the Vitality ring and his Strength ring, the combined effect was rather muted compared to his experiments with Strength and Willpower, or two Vitality rings. Wearing Vitality and Strength, together, was actually quite easy, like Teressa suggested. Maybe the resonant differences between Strength-Crimson and Vitality-Cinnabar were complementary, somehow? While the resonances of Strength-Crimson and Willpower-Ultramarine were destructive?
+
+Whatever the case, that would be an experiment for another day.
+
+After wearing Strength and Vitality for several minutes, and feeling good about the experience —but not too good!— Erick decided to wear the Strength and Vitality ones from then on. He was ready to spend HP on his skills as needed. He was ready for wyrm hunting.
+
+- - - -
+
+Erick finished enchanting his rings, but Rats was still asleep. So Erick began reading the Wyrm Report Teressa had bought. It didn’t tell him anything he didn’t already know.
+
+After Rats woke up, Erick wanted to take them all out to a great big, late lunch, but all three of them said that was unnecessary. When Erick responded with the fact that everything in life was unnecessary, Teressa changed her argument.
+
+She wanted to go. To be out in the blue! To walk the sands, and feel the wind!
+
+So they went.
+
+- - - -
+
+The heavens stretched north, east, south, and west; an endless expanse of blue. Crests of grey, white, and pink accented the sky in the east; the moons were rising, while the sun was already on the way to the western horizon. Cold winds blew down from the north, where far, far in the distance, stood the white capped Wyrmridge Mountains; the northern, nigh-impassible barrier of the Crystal Forest. The Forest around here was sparse compared to the Forest around Spur. There were still mimics and crystal agaves, but they stood hundreds of meters away from each other. This was open, cold country.
+
+But everyone was prepared for the chill, and it wasn’t that bad; like a brisk autumn day.
+
+Erick turned on [Ultrasight] for a moment, and looked at the distant agaves. That one was an agave. That one was a mimic.
+
+And they walked south.
+
+Teressa dispensed nuggets of wisdom along the way.
+
+In case of a [Dispel] wyrm, we run. In any other case, we stick to the plan.
+
+If this happens, do that. If that happens, do this.
+
+Teressa said, “Don’t use [Cleanse] while we’re out here. Half of a successful hunt is making yourself a target.”
+
+“… okay.” Erick asked, “Could we make ourselves a target, then? Cut this experience short?”
+
+Teressa rounded on Erick, a wild gleam filling her green eyes. “Do you want to try that?”
+
+“Er… Maybe not.”
+
+Teressa shrugged. She sniffed the air. “I don’t smell any wyrms or carrion, but we’ve only been out here for an hour. We would have to be uncommonly lucky to find a wyrm already.” She sighed out loud, stretching her arms, reaching for the sky, her grey armor creaking under her massive strength, which was even more massive because of the two rings glinting on her hands. “It’s so good to be outside!”
+
+Erick smiled a little. It was good to be outside.
+
+Rats frowned, muttering, “Finding a wyrm is not what I’d call lucky, but okay.”
+
+Erick turned on [Perfect Hearing]. The sounds of the Forest washed over him in a cacophony of life.
+
+Little glow bugs buzz buzzed in the air. Rats breathed beside him, while Poi breathed behind; Teressa crunched through the sand, her heart beating with joy, her grey armor not clanking at all. She had remade her armor for the long hike, and was breathing easy. Rats and Poi had switched out their own usual guard’s armor for hiking leathers that creaked in well used ways. Here and there, but never closer than ten meters, brown tendril worms squirmed out of the ground, catching the bugs that floated too close; crunch crunching them in tiny jaws. An ever-present tinkling in the air was like background rain; it was the sound of wind rushing across crystal agaves.
+
+Erick sniffed the air with [Scent Tracker], and his world opened up.
+
+He didn’t really want to, but he couldn’t help but smell his companions. Rats smelled of cinnamon. Poi was the ocean. Teressa was a dark forest. Erick focused on other scents; the ground was filled with all sorts of life, not quite earthy, not quite sandy, but more like a faint compost pile. Erick lifted his head to experience the wind coming from the north; he smelled frost and trees, a little decay but a lot more growth, with strange musks and the slight smell of flowers.
+
+No. Wait. Erick smelled the air around him. The flowers were closer.
+
+The agave smelled like flowers. It was a pleasant smell, like candy and roses.
+
+Erick smiled as he hiked south across brown sands, under a blue sky, sniffing the air every so often, smelling the flowers and feeling great. He said, “This is nice, Teressa. We were cooped up for too long, weren’t we.”
+
+Teressa turned to glance at him; smiling. She faced forward, saying, “It’ll be nice when we find a wyrm, too.”
+
+Erick asked, “Any particular scents I should look out for? I know about the carrion.”
+
+“That's the only one I know about.” Rats said.
+
+Teressa said, “With the wind at our back, we will smell them coming if they are behind us. But you also need to listen.” Teressa sighed out, into the sky. “Listen to the sky." She stomped her foot. "Feel the stone under your feet. Silence is not safety, but it is a close cousin.”
+
+The Crystal Forest was practically silent without [Perfect Hearing]; Erick’s troupe, or, more properly, Teressa’s Troupe, was a wrecking crew of noise compared to the land around them. Boots crunching into sand, the occasional rock getting kicked by someone’s foot. Armor and backpacks making noise as stuff shuffled around.
+
+After ten minutes, Rats broke the not-silence, saying, “I need a direction. Something to walk toward. Please.”
+
+Erick almost laughed, but then he looked to Rats, and with [Scent Tracker], smelled a stab of fear. Erick said, “I would appreciate one as well.”
+
+Rats grinned, briefly.
+
+Teressa pointed southwest as she walked forward, saying, “Vindin is 1500 kilometers that way. Or would you like something closer? If we continue just south, we’ll eventually hit the thousand kilometer ring around the city.” She offered, “We could even visit the city itself to see if their Adventurer’s Guildhouse has more information on wyrm sightings.” She glanced backward to see Poi. “Poi?”
+
+Erick looked back.
+
+Poi shook his head, saying, “We should stay away from the ring, as well. Any known landmarks are not a good idea. There are hunters out here, too.”
+
+“Well that sort of defeats the whole purpose of this outing.” Erick asked, “Are you three going to come with me to Odaali, too? Because I have to go. Reneging my promise to Yetta is not an option.”
+
+“Yup,” Rats said, as Teressa said, “Yeah.”
+
+Poi sighed, then said, “Let’s head for the ring, then. Where’s the obelisk, Teressa?”
+
+Teressa pointed directly south. “Directly south! If we don’t deviate, we’ll hit the obelisk in 10 days, but we should encounter a wyrm in 5. Maybe 6. Maybe tonight! But for sure, we’ll start to see people in four days.”
+
+"Acceptable," Poi said.
+
+Rats sighed out, relaxing. “That’s perfect. We’re heading for the Eastern Obelisk of Vindin. Thank you.”
+
+Erick smiled at Rats, then at the sky.
+
+- - - -
+
+Living in a city where assassins had tried to kill him and monsters regularly attacked had wrapped Erick in an unhealthy amount of paranoia. Spiders had invaded his house, and then began to invade his dreams. At night, he sometimes saw Jane wrapped in a cocoon. Once, he even saw Jane wrapping other people in cocoons.
+
+But out here, the coils of paranoia around Erick’s heart were beginning to loosen.
+
+Sure, they were hunting hard-to-kill horrors, but the air was clear, the skies were bright, and the scent of happiness rolled off of Teressa, and even Poi and Rats to a lesser extent. This was a good outing; Erick was happy for recent decisions. Champion Yetta was probably fighting through Ar’Kendrithyst right now, gunning for Planter, while Erick was out here in the wide open spaces, preparing for her victory, preparing for what came next.
+
+Erick breathed as his legs pumped him forward, a gentle burn already settling into his feet and his thighs, but this was an easy excursion, even if the pace was quick. Erick was much stronger now than he had been back on Earth, even without the 22 Strength or the 28 Vitality rings. He was no orcol, but he was closer to his own ideal than he had been in 15 years. His stomach was flat again; walking to get anywhere in Spur had been good for him. His arms were toned, and his legs looked great.
+
+Paranoia flowed away; Erick was still on high alert, but there were no hidden horrors here. He could see for dozens of kilometers in every direction, he could smell anything coming at them from behind, and everything was sand, or dirt, or crystal agave, or the perfect blue sky.
+
+Walking was rather slow compared to how Erick used to travel—
+
+Erick remembered something he had forgotten, like a bolt from the blue.
+
+Jane’s car!
+
+He laughed.
+
+Rats asked, “What?”
+
+“I’m just remembering the vehicle that came to Veird with Jane and I. It might still be in the Forest west of Spur.” Erick added, “Utterly trashed. Even if it was [Mend]ed all the fluids it would need to run are gone.”
+
+“… A flying vehicle?” Rats asked, hopeful.
+
+Erick laughed again. “Not at all! It was never meant to leave the ground, but it was faster than walking, for sure.”
+
+Rats frowned, grunting out a hum. “Sounds like a wagon.”
+
+Teressa said, “We’re not using a wagon! We have to smell the wind, to feel the sky; the wyrms will come to us, and we must be ready.”
+
+Erick smiled. “Yet another reason to just enjoy the outdoors.”
+
+So they walked.
+
+Erick hitched up his pack, tightening the straps. Teressa had gotten some nice packs; Erick’s pack fit him almost perfectly.
+
+And they walked.
+
+A stone fell into Erick’s shoe. After digging it out, Erick decided that the shoes needed a [Mend]. So they got [Mend]ed.
+
+Erick, Poi, Rats, and Teressa, continued to walk across the brown and orange sands of the Crystal Forest, while a cold wind blew from the north.
+
+- - - -
+
+“Okay.” Rats stopped walking, holding his canteen upside down. Two drops came out; empty. “I’m ready for a refill.”
+
+The group quickly came to a halt, hours after they started the hike.
+
+Teressa declared, “I don’t sense anything around us, not for kilometers and kilometers. It’s safe for rain.”
+
+Erick smiled. “Good.”
+
+Everyone ditched their packs and had a nice stretch, preparing for some sort of ambush or the sudden appearance of monsters as soon as Erick used his magic, which Teressa had stressed was a high possibility.
+
+When everyone was ready, Erick lifted his hands. [Stoneshape] and Aurify worked together to create a large pool, five meters across and two meters deep. A quickly shaped [Weather Ward] not only held above Erick and everyone else, but also extended the ‘bowl’ of the pool another five meters in every direction; it was sure to catch a lot of rain, very fast. Erick blasted out a [Cleanse Aura], clipping across the pool and the whole adventuring party; thick air flowed away—
+
+Teressa hummed.
+
+Erick looked at her. Erick pointed up. “This is going to be a spectacle, and I’d rather not be a smelly adventurer. No offense meant to your hunting style.”
+
+Teressa smiled. She said, “All valid points.”
+
+Erick looked to the sky, activating [Exalted Storm Aura]. Clouds lifted up from the ground, flowing into the blue, turning from white to silver, into a tall, tall thunderhead. Platinum rain fell onto Erick’s spellwork like a hurricane of rain, loud and everywhere, flowing and into the stone pool, like someone had opened up the floodgates to drown the world. The white [Weather Ward] crackled under the weight, but it held; this was only rain. Erick soon cut the spell, but rain still came, slower, and eventually, not at all. Clouds drifted south, on the cold breeze.
+
+With less than 10 seconds of rain, the stone pool had filled with platinum water, to the brim. Some of it was even flowing out, through the [Weather Ward], since it was no longer airborne weather.
+
+Erick asked, “Platinum water, or clear water?”
+
+“This is fine,” Rats said, as he took out his two canteens and began filling them. He splashed water on himself, saying, “Oh~ that’s better~”
+
+“Take down the [Weather Ward] so we can smell the wind,” Teressa said.
+
+Erick dismissed the [Weather Ward] as he used his Handy Aura to grab everyone’s canteens except for Rats’. Poi and Teressa watched the horizons as Erick and Rats filled canteens. Slowly, surely, Teressa and Poi came off of high alert. Everyone drank their fill of platinum water, with stone cups courtesy of Erick.
+
+Soon, it was time to move on.
+
+Erick [Stoneshape]d the pool into sand. The waters inside soaked into the ground. By tomorrow, it would be like any dip in the terrain, but they wouldn’t be around to see that; they were already walking south.
+
+They walked, across sand, past real agaves and mimics pretending to be crystal plants. Erick worked on his HP drain abilities now and then, but not overmuch. What he did work to full, though, was [Force Bolt].
+
+Shining specks of pure white mana coalesced in the air, at Erick’s discretion, to fly off at a spot of ground Erick had picked out as a target. The basic spell made almost no noise except for a tiny hum when it was in the air, and a pap when it hit the dirt.
+
+At 5 mana a pop, the [Force Bolt] looked like it would have taken forever to level, if Erick’s experimentation hadn’t revealed that he could cast them as fast as he could think. A bolt didn’t need to strike a target for Erick to have another one in the air, already cast and firing, following the first. Erick played around with the spell, like he was a gunner at an emplacement, altering every fourth [Force Bolt] into fire, watching as it streamed into whatever patch of dirt he decided needed to die, with little regard for where he was actually aiming. He aimed at the sky, and the bolt hit the designated ground. He aimed at the ground, and the bolt hit the designated patch of sky, to then continue out into the air, fizzling as it got way, way out of range.
+
+He aimed at a glowing bug, and the bolt clipped the glowbug out of the sky… He didn’t expect it to actually hit the bug. Those bugs zipped through the air rather fast. Erick stopped aiming at bugs; even though he had probably killed hundreds of smaller animals in the rest of his spell experimentations, actively aiming for them seemed wrong.
+
+He aimed at a patch of dirt, behind another patch of dirt, but the spell hit the patch of dirt directly in the way. Erick had discovered a limitation of the spell. Apparently, it could curve, but not much. The best results came when he aimed at what he wanted to hit, and nothing else was in the way. He wasn’t willing to practice on any more moving targets, like the glowbug, but that one experiment had revealed that the spell would curve to hit a moving target. But, like the rest of the curving, it probably wasn’t much.
+
+Erick fired off into the sky like a gatling gun of flaming red ordinance, once per Script Second, his spells brightening the coming night—
+
+Erick actually looked at the sky. Purples and golds colored the heavens.
+
+“Oh.” Erick asked, “Should we stop for the night?” as he kept walking.
+
+Teressa looked up as she walked. The sun was at the horizon. She said, “We can stop if you want. Are you done practicing?”
+
+“Mostly.”
+
+Force Bolt X, instant, long range, 5 MP
+
+A bolt of mana unerringly strikes a target for 15 + ½ WIL
+
+“14200 experience goes by pretty fast when you can cast every second, but I gotta say, the progression on this spell is quite tiny.”
+
+Poi said, “It’s because the spell is a basis for many other magics.”
+
+“I guess so.” Erick looked to the sky. “Let’s try this one, then.”
+
+Erick kept walking with the group as he pointed his finger at yet another unimportant patch of dirt. He imagined a rush of shattering magic erupting out of the air in front of his finger, impacting the ground and blasting it away.
+
+[Force Bolt].
+
+[Force Beam].
+
+As the spells came together, Erick instantly realized what was happening in a way he never had before. Erick saw and felt within himself the perfect harmony possible between the two magics as they mingled in the air, like two lines of a poem, working together to create a pristine image of power.
+
+Erick held onto that image, imagining two separate powers cresting at the same time, holding together, each spell amplifying the other.
+
+A bright shot of white light blasted out Erick’s outstretched hand, impacting the ground with a murderous thunk. The ground where the spell hit slowly crumbled downward, about a foot.
+
+Pure Force Beam Bolt, instant, long range, 100 MP
+
+A bolt of pure mana unerringly strikes a target for 250 + 3x WIL
+
+“Ha!” Erick stopped walking, to say, “What the heck!”
+
+Poi asked, “Sir?”
+
+Erick looked up [Force Beam Bolt] in the Script, as the whole group came to a halt.
+
+Force Beam Bolt, instant, long range, 150 MP
+
+A bolt of mana strikes for 150 + WIL
+
+Erick laughed again, as he turned to Poi, and said, “I will keep my secrets, thank you.”
+
+Poi smiled, as Teressa laughed loud, into the growing night.
+
+Rats just said, “Well I’m a healer and I want to know what just happened.”
+
+Erick gladly showed Rats the box for [Pure Force Beam Bolt].
+
+Rats went, “Holy shit.”
+
+Poi read over Rats' shoulder. “How did you do that?”
+
+Teressa simply asked, “Will it help you kill a wyrm?”
+
+“That is a high possibility.” Erick said.
+
+“Good!” Teressa said, “We’re camping here.”
+
+Poi asked again, “How did you do that, though? Mine isn’t that good.”
+
+Erick smiled at the sapphire dragonkin. “So I guess you’re a mage?”
+
+Poi frowned. He sighed. “Something like that.”
+
+Erick just laughed, then said, “There’s a very close resonance between [Force Beam] and [Force Bolt]. Try matching those resonances when you make the spell.”
+
+“… I guess that’s one way to do it.” Poi lost his frown. “Some other day. Not in the middle of a hunt.”
+
+Teressa was already unpacking her massive pack, unloading bedding supplies. She cast a hand through the air, and grey cots appeared. Erick recognized the spell as [Conjure Item].
+
+Teressa said, “What kind of perimeter do you want, Poi?”
+
+“The usual,” Poi said. “I’m on it.”
+
+“I’ll help,” Rats said.
+
+Erick said, “I guess that leaves me with dinner!”
+
+“I will help cook,” Teressa said. “It wouldn’t be a hunt without food on a fire under the open sky.”
+
+Teressa got out the camping equipment; the [Prestidigitation] stove, some pots and some pans. Meats and veggies and spices and all that. Erick [Stoneshape]d a kitchen table from the dirt, and got to work along side Teressa cutting meats and veggies, as Poi and Rats set up a perimeter.
+
+Under Bug, Temperature, and a vast field of Alarm [Ward]s, Erick, Poi, Teressa, and Rats, had steaks and potatoes, as the sky darkened. They talked of tactics, and Erick listened.
+
+Erick took first watch, because Jane had yet to call. When she finally did, they had a nice telepathic conversation about Jane’s first night adventuring in the Crystal Forest with Savral’s adventuring team. Erick described how Poi and Rats had set up the defenses, and Jane declared them good. When that conversation ended, Erick went back to staring out into the star filled night, activating [Scent Tracker], [Perfect Hearing], and [Ultrasight] every so often, keeping his HP high, as he gained levels and efficiency in all three skills.
+
+When it was time to switch shifts, they did.
+
+Morning came, sure enough. Nothing happened all night long.
+
+After packing up the tools of camping, and after a bit of rain to refill the canteens, they were off again, headed south; packs on their backs, sun rising to the left, snow capped mountains far behind to the north, the moons setting to the right, as open country spread out all around them.
+
+They took breaks as needed, bathroom or otherwise.
+
+It was a brisk stroll, but it wasn't rushed.
+
+The Crystal Agaves and Crystal Mimics of the Forest were still sparse, the air was still cold this far north. Erick suspected that most of their journey would be a nice, cool trek across the land…
+
+… Until it wasn’t.
+
+- - - -
+
+Another day passed with little to report, and a lot of walking.
+
+Erick practiced his skills, but kept his HP high, just in case.
+
+He was also sure to send a parakeet at the appropriate time back to Spur, to rain across the farms.
+
+- - - -
+
+Mid morning on their third day, Erick smelled a change in the air. It wasn’t carrion; he had been wary for that smell, and though the smell of carrion did appear occasionally, it always turned out to be a mimic munching on a dead thing.
+
+This smell was like…
+
+Teressa sniffed the air. She grunted, “Hmm.” She asked, “Anyone want fish? I don’t.”
+
+Rats perked up. “You smell goldfish?”
+
+“That’s fish?” Erick asked, still not sure what he was smelling. “Smells like… leather? Apple leather? No, that’s not it. Wet leather? But not in a bad way.”
+
+Rats said, “That’s fish.” He looked around. He looked backward, to the right. “We don’t have to, but they’re coming this way. I’ll take one.”
+
+The group turned. Erick saw nothing.
+
+[Ultrasight].
+
+Far in the distance, above the mirage of the sands, floated specks of orange.
+
+Teressa’s voice took on a sharp quality, “They’re coming directly this way.”
+
+“Bah!” Rats said, “No they’re not. They’re going to miss us. This isn’t...” Rats went quiet. “Maybe not?”
+
+Teressa grunted. She took off her bag. “Everyone, get ready. They might be luring.”
+
+“Are they monsters?” Erick asked. "Luring?"
+
+Rats and Poi took off their bags. Erick removed his, and his heart beat a bit harder. They all seemed worried, but Erick hadn’t smelled any carrion.
+
+“They’re not monsters.” Poi said, “Just native wildlife, floating along on air magics. But they have the habit of escaping monsters by finding the nearest adventurers and dropping those monsters onto the adventurers.”
+
+Erick instantly ditched his bag, watching as the orange specks came closer. They were churning sand and dirt into the air, rushing past agave—
+
+The orange specks were the same size as the agave they were floating by.
+
+A chill rolled over Erick, as he said, “Uh. They’re rather big, I see.”
+
+“Yup!” Rats smiled, licking his lips. “All we need is one!”
+
+“Head in the game, Rats.” Teressa said, “They’re luring something big.”
+
+Rats went still. “Shit. They are, aren’t they.”
+
+Erick felt the ground rumble. Orange specks showed through the sand clouds. They were like goldfish, but with long bodies and billowing orange fins, riding the air like it was water, churning up sand and dust, hiding themselves from whatever was chasing them.
+
+The scent in the air changed. Carrion, overpowering and all pervasive, the stench of dead meat filled Erick’s nostrils. He almost vomited up breakfast right there, but he shut off [Scent Tracker] and recovered.
+
+Teressa spoke, and gave proof to what Erick had smelled. “There’s a wyrm chasing those fish.” She smiled.
+
+“Fish are that smart?”
+
+“Yes.” Poi said, “They should disperse when we engage the wyrm. Erick. [Absorption Ward]. Like we discussed.”
+
+Erick dropped a 2000 point [Absorption Ward] for 8000 damage mitigation, long and low, across the party, but still 9 foot tall; large enough to cover all of Teressa. His mana would be back, soon enough. Teressa moved to the edge of the Ward, then several meters forward; she was planning on getting pushed back. A grey shield appeared over one of her hands as the other suddenly held a massive mace. She took to the sky, just a meter up; high enough to make her the largest, meanest looking target around.
+
+Except for whatever was in the dust cloud behind the fish.
+
+“[Weather Ward] forward, Erick.” Poi said, “To stop the sand the fish are churning.”
+
+Erick cast and shaped a [Weather Ward] forward, creating a thin wall ten meters tall and two dozen wide, thirty meters forward, that should stop almost all of the goldfishes’ dust cloud. Erick was low on mana, but the monsters were far away; he could recover. Another thin [Weather Ward] stretched across the ground, but two feet above it, twenty meters in every direction; sapphire blue. Poi’s [Weather Ward] should tamp down any dust that would rise from the fight.
+
+The ground thrummed from the monster tearing across the land behind the fish. Some churning, long thing; it ripped across the sands then leapt up, through the fishes’ cloud of dust, almost catching a goldfish that dodged forward at the last possible second. The monster’s head was as half the size of a fish; the whole creature had to be tens of meters long. 50? 100? Impossible to tell right now. Erick caught better glimpses of the beast as it rushed toward the party.
+
+The monster, the wyrm, was yellow, but bleeding from countless wounds. White bones protruded out of the scaled hide. Limbs came out at all odd angles; some functional, some broken beyond repair, hanging limp.
+
+“Positions.” Poi said, backing up, well behind Teressa. “Everyone. Positions.”
+
+Erick took his position directly behind Teressa, quick as he could, even activating [Swift Movement] to get where he needed to be. His mana was recovered enough for this next part. He breathed, waiting.
+
+Teressa sent to him, ‘[Telepathy] up.’
+
+Erick linked to all of the party, all at once.
+
+Teressa spoke, “We’re gonna be fine Erick. Calm your nerves. I can practically hear you shaking.”
+
+Erick might have been shaking a little bit! So what!
+
+There was a horrific, normally unkillable monster rushing at them!
+
+His mana was above a thousand, already. The wyrm was still too far away to engage, maybe a full kilometer. He had time to relax and collect himself.
+
+‘It’s just… kinda scary,’ Erick sent, to the group.
+
+‘I agree.’ Poi sent, ‘But necessary. We’ll probably find bodies in the beast’s corpse.’
+
+‘We might have to escape.’ Rats sent, ‘We don’t know what kind of unique magic it might have.’
+
+‘We’re leaving if it's a [Dispel] wyrm.’ Teressa sent, ‘For everything else, we’re staying!’
+
+Rats sent, ‘Is it weird that I want it to be a [Dispel] wyrm?’
+
+‘Get ready, Erick.’ Poi sent, ‘It’s almost in range.’
+
+Erick had not taken his eyes off of the swarm of goldfish or the beast following them, now only half a kilometer away. The swarm was hundreds of fish anywhere from three meters long, to the size of a housecat, flowing all over each other as they flowed across the sands of the Crystal Forest, dodging the wyrm in their dust cloud. Most of the time they succeeded in dodging. Sometimes they failed. The wyrm didn’t seem to care. Did it actually eat them? Obviously yes; the fish vanished from the swarm. But the wyrm was too hungry to ever be full.
+
+Poi sent, ‘Erick: fire as soon as it appears then [Blink] back here.’
+
+Erick waited for the monster to reach his [Weather Ward]; to come out of the dust cloud.
+
+Teressa laughed. ‘It’s so damn huge!’
+
+The goldfish, all dozens of thousands of them, crashed through Erick’s [Weather Ward], revealing themselves in all their golden, shining glory.
+
+And then came the wyrm.
+
+Events started to occur very quickly.
+
+Every perfect, beautiful thing the goldfish were, the wyrm was not. It was a pus dripping, broken boned, flaking scale horror, that did not care for itself in any way, except to fill a stomach that was surely also broken. It caught one of the larger fish, swallowing it like it didn’t even matter, quickly snapping up four more, now that it was out of the cloud.
+
+Erick peeked out from behind Teressa, taking aim at the monster.
+
+[Pure Force Beam Bolt: Decay]. [Pure Force Beam Bolt: Decay]. [Blink].
+
+Erick reappeared next to Poi and Rats, 70 meters behind Teressa.
+
+The first bright bolt of brilliant green light ripped through a fish before it impacted the direct center of the wyrm’s face. Erick got notifications for killing a fish and for 370 damage to the wyrm; it had no critical points, it was a mass of meat. The second brilliant green bolt caught the monster in the center chest, drilling in for another 370 points of damage. Both of Erick's spells began ticking for almost a hundred damage a second, Decay magic working deep into the monster’s body.
+
+The beast shifted course, straight for Teressa. A thousand bright yellow eyes, all along the broken yellow surface of the wyrm’s putrescent form, locked, all at once, all together, onto the person who seemed like they had shot it. It did not roar, it simply moved.
+
+The eyes were terrifying, but the absence of a roar is what freaked Erick out the most.
+
+Teressa laughed, yelling, “Come get me, fucker!”
+
+Rats sent, ‘Fuck fu—’
+
+‘Clear the line.’ Poi reprimanded. ‘Tactical discussion only.’
+
+Pale red light flashed around Teressa; Rats was casting something as he hunkered down into the sand. Then Rats targeted Erick, and he realized what Rats was doing.
+
+Overheal!
+
++125 False HP!
+
+Another box appeared right after the first.
+
+Overheal!
+
++125 False HP!
+
+A series of smaller messages appeared. Overheals for 25 HP, spaced a second between.
+
+The wyrm met Teressa with a bone crunching SNAP, as its head, jaws and all, went flying up and away, leaving Teressa behind, no longer floating, her feet sunk into the ground up to her knees. She had withstood the blow. She was stronger than a wyrm.
+
+‘FUCK YEA!’ Teressa yelled, quick-stepping out of the sand.
+
+Poi reprimanded, ‘Tactical discussion only.’
+
+Teressa was a grey sentinel, never moving unless she wanted to move, and the monster had met its match. Goldfish swarmed up away in every direction; they had lost the monster chasing them onto Erick’s party. The yellow wyrm only had a thousand eyes, and they were all on Teressa.
+
+But the beast’s body was a hundred meters long, two meters wide, and momentum like that doesn’t just stop because a stone appeared on the path. Sinuous muscle and a dozen arms, and claws, and legs, crashed around Teressa, smacking into someone who could not be moved. The monster wrapped around her—
+
+She reappeared just inside of Erick’s [Ward].
+
+Rats sent, ‘No sign of special ability.’
+
+‘Too many eyes.’ Teressa sent. ‘Watch them.’
+
+The entire wyrm glowed, each eye staring at Teressa, each eye flaring into brilliant yellow. A thousand [Force Beams] erupted from the monster, crashing together, toward Teressa.
+
+A grey shell wrapped around Teressa; obviously some kind of [Force Wall].
+
+Before the beams impacted, Poi sent, ‘Domain, Erick.’
+
+The sky shifted as Erick brought his [Domain of the Withering Slime] into being. White light wrapped around him, as thick air rolled up from all around. A dense keening filled the air, coming from inside the monster’s long, reorienting, and now flailing body. Teressa reappeared in front of Erick; a grey shell wrapped around the both of them right before countless eyebeams zipped across the sands—
+
+Blood poured from Teressa’s grey armor, as she sent, ‘Retreat.’
+
+Erick grabbed for Teressa as yellow light cracked the grey [Force Shell] around them.
+
+[Teleport].
+
+- - - -
+
+Erick fell with Teressa to the ground, back to where they first started this trek, right beside Poi and Rats. Erick held the large woman while Poi rushed over with the rod of [Treat Wounds].
+
+No one said anything as Teressa’s breathing steadied under two more applications of [Treat Wounds]. She sat up on the sands. She sighed.
+
+Eventually, Teressa spoke, “Eye beam wyrm. Not the most dangerous, but high up there. The Domain was only on him for a second; I’m not sure it did anything.”
+
+“It was working.” Erick said, “I’ve never gotten any numbers off of it, but I heard that keening.”
+
+Poi spoke, “That monster is a rookie murdering machine. We have to kill it. We know what it can do; we just have to prepare better.”
+
+Erick said, “Right.” He laughed, nerves or deflection, he couldn’t tell, as he held onto Teressa’s shoulder. “That was awesome! You knocked its head up and away! Just— BOOM, deflected!”
+
+Teressa started laughing. She relaxed, chuckling underneath her grey armor. And then she stood, and Erick let go. She said, “Let’s go again. Right now. We’ll lose it if we don’t.”
+
+[Scry].
+
+Erick looked upon the previous field of battle. The wyrm was not there. Erick looked around frantically, and then he saw it. The monster was headed south, stopping to eat every agave and mimic along the way.
+
+Erick came back to himself. Teressa and Rats were looking at him, and at Poi. Poi’s eyes glowed blue as he stared off into the distance; he was probably [Scry]ing the monster, too.
+
+Erick said, “It’s headed south, eating anything it can. The fish are gone.” He said, “New tactic. How about I [Teleport] next to it and throw down what I need to throw down, and then leave.”
+
+Poi came back to himself, frowning. “A valid tactic. We might need to do that.”
+
+Teressa said, “Those eyebeams are too much for me.” She spat out, “I’ve killed eyebeam wyrms before! But that one… It's too much for me. I can’t control that fight.”
+
+Poi looked at Erick, asking, “Is your mana full?”
+
+“Close.”
+
+Rats muttered, “I should have gone for Focus.”
+
+Erick said, “I gave you that Focus ring.”
+
+“And I’m wearing it.” Rats said, “I’m just muttering, anyway. Don’t mind me.”
+
+The cold northern winds blew, as Erick waited for his mana to return. It didn’t take long. “Okay. I’m ready.” He said, “In. Drop some spells. Out.”
+
+Poi said, “No. I changed my mind. We can’t risk—”
+
+“You have that wrong.” Erick stared at Poi, and said, “I won’t risk you three.”
+
+Erick briefly checked the target with [Scry], turning on his Handy Aura.
+
+[Teleport].
+
+Erick appeared in the sky far above the beast.
+
+It instantly noticed Erick.
+
+In a flash, Erick was surrounded by teeth and flesh—
+
+In another, faster flash, Erick was OUT OF THERE HOLY FUCK.
+
+He landed next to Teressa, Poi, and Rats. They said nothing; they didn’t have to. Erick was breathing hard, holding himself upright, and those wet spots on his pants were not there before his brief experience being so close to such a horrific monster.
+
+Erick turned to Poi, saying, “I am so sorry. I really should have listened to you. That was probably the stupidest thing I have ever done.”
+
+Poi looked angry, happy, and terrified, all at once. He settled into a calm, slow nod, but said nothing.
+
+Erick felt about the same way. He sat down. He [Cleanse]d himself. He popped out ten parakeets.
+
+He said, “That wyrm is going d— down.”
+
+It might have been a more powerful statement, had Erick not been so terrified his voice was cracking.
+
+- - - -
+
+Nine white parakeets flying in formation, each with a thousand arms of intent, descended from the sky around the yellow wyrm. The wyrm saw the birds and lunged, catching two in its maw; snapping and cracking its own bones, as it swallowed. Handy Arms ripped into the beast from the outside, but the outer shell of the monster didn’t seem to care. The arms were not strong enough to break or tear, and anything that did manage to come loose quickly regrew.
+
+A billow of blue light flowed out from one of the birds; like an amoeba, the blue light attached to the yellow wyrm, flowing along its length. The wyrm writhed across the sands of the Crystal Forest, but kept chasing after the birds; it ate another one. The blue spell didn’t seem to slow it down at all.
+
+A splash of thick air spilled out of one bird, crashing into the wyrm.
+
+A dense keening filled the air, as liquid began to pour out from the monster; but the monster moved faster, and faster, snapping at one bird, then another, eating two in quick succession, flying— [Blink]ing away from the thick air, away from the blue air. The yellow, thousand-eyed wyrm vanished, and then it reappeared.
+
+Chomp! Chomp!
+
+Two more birds, gone.
+
+A hailstorm of green bullets rained from the remaining two parakeets.
+
+A flash of yellow filled Erick’s [Scry] eye, and his last two parakeets were suddenly not there anymore.
+
+- - - -
+
+Erick came back to himself, cross legged on the sand; the last parakeet of the first ten sitting on his knee, soaking up mana for nine birds that were already gone. Erick sighed.
+
+Rats asked, “You didn’t kill it, did you?”
+
+Erick shook his head.
+
+Teressa’s helmet was off. With a tiny frown, she looked concerned.
+
+Poi said, “That is an uncommon wyrm. You must kill it, any way you can.”
+
+“Noted.” Erick said, “Give me a minute.”
+
+- - - -
+
+The sinuous form of the yellow wyrm writhed across the brown sands of the Crystal Forest, gobbling up anything it could reach. Crystal Mimics went screaming and crunching into its maw. True agaves vanished down its throat, tinkling like wind chimes before vanishing forever.
+
+Nine white starlings darted from just above the ground. Half snaking left, half winding right. One staying right there, catching the eye of the monster as it erupted shot after shot of green, burrowing, slicing force. The wyrm crashed against the ground to chase the bird, who hovered just above the land, racing away, distracting the monster from the real danger:
+
+Another bird, on the other side of the monster, glowed as a white sphere surrounded it, and thick air spilled up from the ground.
+
+A different bird called to the sky, and the sky responded with dark clouds, threatening rain, thundering with power.
+
+A caw went up from the flock as lightning struck the yellow beast. Tiny green bolts sunk into its flesh from every direction. Red and white and brown and yellow liquids poured from every broken surface of the writhing, sparking monster.
+
+Yellow eyes began to glow, a thousand individual fires stoked from within.
+
+Bright beams flashed in every direction; a hellscape of Force knives. Four birds died, even with evasive maneuvers. The white orb was broken; the white orb transferred to another bird, still dodging yellow [Force Beam]s. The sky darkened further. Rain began to fall as lightning sung from the sky, tearing across the monster, again and again and again.
+
+Tiny green bolts splashed across the creature’s flesh, aiming for eyes, splattering them, Decaying the eyes and their sockets, preventing regrowth, preventing the beast's counterattacks. Every spot the green light touched, stopped automatically coming back together. A hundred eyes closed forever, and then the full thousand.
+
+Blue light flowed through the rain, latching onto the yellow wyrm, freezing into its body. And then came another blue light, and another, alongside a constant barrage of tiny green lights. Frost formed as lighting tore into the creature, both spells worming inside the insane monster.
+
+Only five birds were left, but they were enough.
+
+The lightning ceased as electrical charges faded, but the white-orb bird held strong, wrapping thick air into the creature, as blue lights were renewed. Fluids froze as they left the wyrm. And slowly, slowly, the wyrm stopped moving. The birds circled like vultures, renewing blue lights, ensuring the power of the Withering Slime remained upon the beast.
+
+When the beast finally slowed to nothing, all twitching gone, only then did the birds get closer.
+
+While the White Orb bird watched, and the blue lights maintained their fascination with the beast, a Handy Aura bird went to work with slicing [Force Beam]s.
+
+First, the wyrm was sliced in half.
+
+Both halves came back together, instantly.
+
+The slicing bird went to the head and sliced that off, pulling away the whole half-rotted skull. The head did not struggle to reconnect to the body. The slicing bird went down the wyrm’s form, slicing chilled sections of meat away from the body and then ripping those sections away before they could reattach.
+
+One slice. Another slice.
+
+Ten slices.
+
+On the twelfth slice, there was a change. A brilliant orb of yellow light reflected the bird’s [Force Beam] right back at it, killing the bird instantly.
+
+Another bird took over, more careful this time.
+
+Careful, careful, slice the orb away, but don’t strike it with the beam.
+
+The second Handy bird gave one more great pull, and the yellow orb came free from the wyrm’s frozen body.
+
+The blue lights instantly shifted to the birds, freezing them out of the sky.
+
+A hundred kilometers away, Erick cursed.
+
+More birds eventually returned to the yellow wyrm, which was now fully falling apart, completely dead. One of the birds picked up the yellow orb, and with a blip of white, both it and the yellow orb disappeared.
+
+- - - -
+
+Erick blinked to return to his body. He was sweating and shaking. Poi was nearby, holding the rod of [Treat Wounds]. Erick waved Poi off; Erick felt drained, like doing a hundred math problems all at once. His mind had been stretched, and only now was he coming back together.
+
+Teressa and Rats stood beside the yellow orb, ten feet away. The yellow wyrm’s yellow grand-rad was massive; at least a meter across, with countless rad-shards poking up from the whole thing, like some giant crystalline kidneystone. Rats poked it; the stone glittered.
+
+Teressa turned to see Erick, smiling as she asked, “Only the one?”
+
+Erick looked over his notifications; he had missed them while [Scry]ing.
+
+“I got a kill notification.”
+
+“Then you killed it!” Teressa laughed, asking, “What’s your Participation?”
+
+“Just… Give me a minute.” Erick breathed, still coming back to himself. “One sec.”
+
+Erick again, looked at his notifications. There were only 8 mimics even with all that stray damage. The goldfish only gave a few thousand experience, at 95% Participation. The big winner here was clearly the wyrm. Erick had leveled, big time, over that monster. He was level 39; now he was much higher.
+
+You have slain Wyrm A!
+
+95% Participaton
+
++313,037,160,931
+
+Erick Flatt
+
+Human, age 48
+
+Level 45, Class: Particle Mage
+
+Exp: 41,094,088,475/183,631,190,300
+
+Class: 6/6
+
+Points: 16
+
+HP
+
+1260/1260
+
+1440 per day
+
+MP
+
+1598/2400
+
+12,000 per day
+
+Strength
+
+20
+
++22
+
+[42]
+
+Vitality
+
+20
+
++28
+
+[48]
+
+Willpower
+
+40
+
++0
+
+[40]
+
+Focus
+
+50
+
++0
+
+[50]
+
+Favored Spell waiting!
+
+“What if I said it was 95 percent?”
+
+Teressa laughed.
+
+Rats said, “I’d call you a damned liar.”
+
+“I’d say you were marked by the gods,” Poi answered, finally giving Erick something to work with.
+
+Erick quickly threw a hundred mana at the sky, asking, ‘Can I get a fake one of these Participation boxes, for like, 1%?’
+
+His own laughter came back to him, along with the words, ‘This is not the intended use of this ability, but sure.’
+
+Erick said, “1%”, as he showed his fake box to Teressa.
+
+Teressa smiled, to say, “A journey of a thousand kilometers begins with a single step.”
+
+“Unless you buy [Teleport],” Rats added.
+
+"That's a terrible addition to a sacred saying, Rats," Teressa said.
+
+Erick laughed.
+
+Poi just looked at Erick, then nodded, ever so slightly.
+
+“So we’re going to actually go kill a real wyrm, the good way, right?” Teressa said, “Because it’s utter shit that we ran into a [Force Beam] wyrm like that.”
+
+Erick stood up from the sand, a little shaky. “We still have to inspect the rest of the body, right?”
+
+Poi said, “Correct.”
+
+Erick looked to the sky. “Gotta do this, too, though. I think I’m already late.” Erick popped out two parakeets and sent one [Teleport]ing back home. With four hops, and a final [Scry]-assisted placement, Erick started an [Exalted Storm Aura] far, far away. Valok was standing in the middle of the Temple, but at the appearance of the bird and the rain, he got angry for a minute, then visibly relieved. Erick came back to himself. “And now we go back to the dead wyrm.” He held out a hand.
+
+He and Teressa [Teleport]ed to the battlefield; Poi took Rats.
+
+- - - -
+
+The smell was awful; Withering did not kill the wyrm, so there was no automatic [Cleanse]. Erick rectified that problem with several dozen [Cleanse]s, as the four of them got to work. Poi and Erick dug through the monster with [Telekinesis] and Handy Aura, slicing it up with [Force Beam]s as necessary, separating the body into pieces.
+
+All of them searched the slices with [Metalshape] and manually, pulling out coins, armor, and the reason that they were digging through the monster in the first place: guild badges.
+
+Over the course of two hours, seventeen Adventurer’s Guild badges came out of the monster, along with thousands of golds worth of gems, metal, and enchanted items. Erick was able to fix most of the small magical items with [Mend X], but rods and wands only flexed back to wholeness; they would need to be re-enchanted.
+
+When all was said and done, Rats was wiped. Poi was frowning. Teressa was fully silent again, staring at the seventeen Guild badges, each representing a death.
+
+Poi suggested, “Let’s go back to Spur. We can come back out another day and we have too much stuff to continue hunting. We have to turn in the badges, anyway.” He turned to Erick, “All this loot is yours, by kill rights. What would you like to do with it?”
+
+Erick quickly said, “That’s not going to happen. This was a group effort and I only did 1% of the work. What would you normally do in this situation?”
+
+Rats said, “The grand-rad is yours for sure. Get that thing in the bank where they can protect it. We can split the rest later.”
+
+Teressa said, “We should donate the currency and items to The Fund, but Erick can have the grand-rad. I’ve only seen a few that size; they’re rare, even in wyrms.” She added, “I want to go home.”
+
+Erick had heard about The Fund from Jane. Many adventurers and otherwise contributed to it; The Fund helped provide for the families of adventurers who died killing the monsters that threatened everyone.
+
+Erick said, “That’s a great idea. Let’s donate the grand-rad, too.”
+
+Rats said, “No way!”
+
+As Teressa said, “That’s going too far.”
+
+“You should keep it, sir,” said Poi.
+
+Erick looked at the three of them. “I’ll think about it, I guess?”

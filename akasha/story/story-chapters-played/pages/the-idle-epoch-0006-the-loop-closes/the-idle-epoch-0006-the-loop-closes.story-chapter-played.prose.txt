@@ -171,3 +171,479 @@ The first stage was the resonance framework. Callum fused four Echo Stones into 
 
 Callum checked. Jin was right. He made the correction, and the four Echo Stones locked into alignment with a crystalline *click* that he felt in his teeth.
 
+Second stage: the feedback conduit. This was the heart of it -- the piece that made the Enhancement Construct different from every other construct he had built. Every other construct in his array produced output. The Grinder produced kills and Essence. The Collector produced materials. The Refinery produced components. Output flowed one direction: forward. The feedback conduit reversed that flow. It would take a portion of the Refinery's output -- the refined data from thousands of processing cycles, the accumulated optimization insights from three months of continuous operation -- and route it *backward*, into the Gathering and Combat constructs, as micro-upgrades. Each cycle of improvement would increase their output. The increased output would feed back through the Refinery, generating more improvement data. The improvement data would flow back through the conduit again.
+
+The loop would close.
+
+Callum inscribed Substrate patterns into the conduit housing with hands that were steady through sheer force of will. The patterns were learned, not designed -- drawn from the accumulated data of three thousand gathering iterations, each one subtly different, each one carrying information about what worked and what could work better. He had spent weeks studying those patterns. They formed a language he was only beginning to read.
+
+"Script complexity on the internal logic is at twenty-four instructions," Jin said. "Your Script Engine caps at five lines, but if I route the overflow through my talisman's buffer --"
+
+"Do it."
+
+Jin's Script Complexity of twenty-six filled in where Callum's Script Engine Level 1 fell short. Jin's fingers moved across the talisman's interface, writing conditional logic that Callum dictated and Jin optimized in real time. It was the first time Callum had collaborated on a construct build, and the efficiency of it -- two minds covering each other's gaps -- made something warm and unfamiliar bloom in his chest.
+
+He filed it away for later analysis.
+
+Third stage: integration. The Flux core slotted into the resonance framework like a key into a lock. The feedback conduit connected to the core through four channels, one for each Echo Stone. Callum wired the glass shards into a casing that served as a heat sink, diffusing the excess Flux energy that would build up during rapid cycling. The casing was rough, functional, ugly. It did not matter. What mattered was the flow.
+
+The final component was the Residuum fragment.
+
+Callum held it up to the light. The fragment was barely the size of his thumbnail -- a sliver of compressed Substrate energy so dense it warped the air around it, bending light into a faint rainbow halo. Three of these fragments had come from the Shardfield run. He needed only one. The other two went into storage, earmarked for future upgrades.
+
+He placed the Residuum fragment into the Flux core's central chamber and felt the construct *wake*.
+
+The Enhancement Construct activated with a sound that was not quite a hum and not quite a chord -- something between music and mathematics, a tone that resonated in a frequency his ears could not quite resolve but his Loopweaver senses could feel as a vibration in the threads of his automation array. The crystalline lattice pulsed once, twice, three times, and then settled into a steady rhythm. It was the size of a small table. It glowed with visible Flux patterns that shifted and reorganized with each pulse, like watching a mind think.
+
+Mira stopped sharpening her saber.
+
+Jin stopped breathing.
+
+Pip -- on Callum's shoulder since dawn -- pulsed so brightly that for a moment the familiar was not a cursor but a point of light that cast shadows.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  CONSTRUCT ACTIVATED                 │
+│  Enhancement Construct (Tier 1)     │
+│  Type: Feedback | Slot: 4 of 4     │
+│  Status: INITIALIZING               │
+├─────────────────────────────────────┤
+│  Feedback Channels: 4               │
+│    Ch 1 → Mk.IV Grinder (Combat)   │
+│    Ch 2 → Scrap Collector (Gather)  │
+│    Ch 3 → The Refinery (Process)    │
+│    Ch 4 → [OPEN]                    │
+│                                      │
+│  Cycle Time: 58 min (est.)          │
+│  Optimization per Cycle: Variable   │
+│  Flux Drain: 40 Flux/hr            │
+│                                      │
+│  NOTE: Mk.V Sentinel moved to      │
+│  manual oversight (no active slot)  │
+└─────────────────────────────────────┘
+```
+
+"The Sentinel?" Mira said from the catwalk. She had been listening more carefully than Callum realized.
+
+"Manual oversight. I lose the automated patrol, but the Enhancement Construct needs the slot." He looked up at her. "I'll re-slot the Sentinel when I hit Construct Affinity Rank 8. Fifth slot."
+
+"When is that?"
+
+"Soon." *If this works the way I think it will. Sooner than anyone expects.*
+
+---
+
+The first cycle took fifty-three minutes.
+
+Callum sat on his cot with his field notebook open, Loop Sight active, and watched the Enhancement Construct work. In his augmented vision, the warehouse transformed into a cathedral of light and data.
+
+The three running constructs -- Grinder, Collector, Refinery -- appeared as they always did: threads of luminous color spinning between nodes, gold and green and blue, the cat's cradle of his compound loop. But now a fourth thread emerged from the Enhancement Construct, silver-white and brighter than the others. It reached out to the Grinder's thread first, wrapped around it like a vine around a trellis, and *read*.
+
+Callum could see it happening. The silver thread pulsed as it analyzed the Grinder's combat pattern -- the same three-hit combo that had been running for months, thousands of iterations of the same loop. The Enhancement Construct parsed the data with a speed that made Callum's own Loop Analysis look like reading by candlelight. Inefficiencies he had never detected lit up in amber: a 0.3-second timing gap between the second and third strikes. A 2% energy loss in the overhead swing arc. A target-switching delay that cost 0.8 seconds per engagement.
+
+The Enhancement Construct did not just identify these problems. It fixed them.
+
+A micro-optimization flowed back through the silver thread -- a tiny adjustment to the Grinder's combat pattern, tightening the timing gap, smoothing the swing arc, reducing the target-switch delay. The changes were fractional. Individually, invisible.
+
+Together, they added up to seven percent.
+
+```stat-screen
+──────────────────────────────────
+  ENHANCEMENT CYCLE 1 COMPLETE
+  Target: Mk.IV Grinder
+  Optimizations Applied: 3
+  Net Efficiency Gain: +7.1%
+
+  Grinder Efficiency: 94.2% → 101.3%
+  (Exceeds nominal — recalibrating
+   baseline)
+
+  Next Cycle: Scrap Collector
+  Estimated Time: 55 min
+──────────────────────────────────
+```
+
+"Seven percent," Jin whispered. He was reading the notification over Callum's shoulder, having abandoned any pretense of not hovering. "In one cycle. One. Cycle."
+
+Callum said nothing. He was already running the math.
+
+Seven percent improvement on the Grinder's combat efficiency meant seven percent more kills, which meant seven percent more Essence and materials. Those materials flowed to the Refinery, which would process them seven percent faster once the Enhancement Construct optimized it in the next cycle. The increased Refinery output would generate better optimization data, which would feed back to the Enhancement Construct, which would use it to find the *next* set of improvements.
+
+Each cycle built on the last. Each improvement enabled the next improvement. The output was not additive. It was multiplicative.
+
+He watched the second cycle begin. The silver thread reached for the Scrap Collector, and the reading-and-writing process started again.
+
+Fifty-five minutes later:
+
+```stat-screen
+──────────────────────────────────
+  ENHANCEMENT CYCLE 2 COMPLETE
+  Target: Scrap Collector
+  Optimizations Applied: 2
+  Net Efficiency Gain: +4.3%
+
+  Next Cycle: The Refinery
+  Estimated Time: 51 min
+──────────────────────────────────
+```
+
+The Refinery:
+
+```stat-screen
+──────────────────────────────────
+  ENHANCEMENT CYCLE 3 COMPLETE
+  Target: The Refinery
+  Optimizations Applied: 4
+  Net Efficiency Gain: +5.8%
+
+  COMPOUND LOOP STATUS: ACTIVE
+  Feedback cycle complete.
+  Beginning recursive optimization.
+
+  Next Cycle: Mk.IV Grinder
+  (Second pass — projected gain:
+   +3.2% additional)
+  Estimated Time: 47 min
+──────────────────────────────────
+```
+
+*Compound loop status: active.*
+
+Callum read those three words and felt the air leave his lungs.
+
+He had been waiting four months for this. Four months of invisible work, of being the guy in the warehouse, of watching his constructs grind Level 8 mobs while guild fighters cleared Fracture surges and Sword Saints killed spore wolves with eleven-second precision. Four months of a curve that bent so slowly nobody could see it bending. Four months of believing -- *knowing*, the way an engineer knows that stress tolerances are real even when the bridge hasn't been built yet -- that the moment would come when linear growth stopped and exponential growth began.
+
+This was the moment.
+
+He activated Loop Sight at full resolution and the warehouse became a web of light.
+
+Four constructs. Three threads and a fourth -- the silver-white feedback thread -- completing a circuit between them. The Enhancement Construct sat at the center like a heart, pumping optimization data through the system in rhythmic pulses. Each pulse went out, improved something, and came back carrying better data than what it had sent. The gold thread of the Grinder brightened. The green thread of the Collector thickened. The blue thread of the Refinery accelerated. And the silver thread grew brighter with each cycle, because the better the other constructs performed, the more data the Enhancement Construct had to work with, which made its optimizations sharper, which made the other constructs perform even better --
+
+The loop was closed.
+
+The feedback was cycling.
+
+The curve was bending.
+
+Callum sat on his cot in a converted stamping plant on the edge of the Detroit Barrier Zone, surrounded by humming constructs and shifting light, and he felt something rise in his chest that his optimization mindset could not categorize and his systems-thinking brain could not reduce to variables. It was hot and bright and it made his vision blur at the edges and his breath come short and his hands shake where they gripped his field notebook.
+
+He blinked. Swallowed. Took a breath.
+
+On the workbench, the Enhancement Construct pulsed its slow, beautiful rhythm. In his Loop Sight, the compound loop spun like a wheel that was learning to spin faster every time it came around.
+
+Jin was talking. Callum realized he had missed the first several sentences.
+
+"-- the recursive improvement rate, Callum, do you see it? It's not linear. The gain per cycle is *decreasing* in absolute terms but the *compound effect* is accelerating because each optimization enables higher-order optimizations in the downstream constructs which feed back into --" Jin stopped. He looked at Callum's face. "Are you okay?"
+
+"Yes."
+
+"You're shaking."
+
+Callum looked at his hands. They were, in fact, shaking. He pressed them flat against the notebook.
+
+"I have been working toward this for four months," he said. His voice came out quieter than he intended.
+
+Jin was silent for a moment. Then he said, with uncharacteristic softness: "It's working."
+
+"It is working."
+
+"The compound loop is *closed*."
+
+"Yes."
+
+"Callum. You built a self-reinforcing feedback loop inside a System that wasn't designed for one. Do you understand what that means? Nobody -- *nobody* -- has done this. The guilds don't even think in these terms. They're playing --"
+
+"Checkers on a chess board," Callum finished.
+
+"On a Go board. On a -- okay, I lost the metaphor again." Jin's grin returned, but his eyes were bright in a way that was not entirely about excitement. "You did it, man."
+
+From the catwalk, Mira said nothing. She watched. Her expression was unreadable.
+
+---
+
+The level-up notification hit at 11:47 PM.
+
+Callum had been tracking his Essence accumulation for six hours, watching the numbers climb with the focused attention of a man who had been reading production charts for a decade and had never seen one do this. The Enhancement Construct had completed nine cycles. Each cycle was faster than the last. Each cycle's compound effect was larger than the last. The Grinder's kill rate had increased by nineteen percent since the loop closed. The Collector's output had jumped by fourteen percent. The Refinery's throughput was up twenty-two percent, because it benefited from both its own optimization and the increased input from the other two.
+
+The daily Essence projection had been recalculated three times. Each recalculation was higher than the last.
+
+Then the notification arrived, and the math stopped mattering because his body was busy being rebuilt from the inside.
+
+```stat-screen
+══════════════════════════════════════
+  LEVEL UP! 14 → 15
+
+  +5 Stat Points Available
+  +3 Skill Points Available
+
+  NEW ABILITY UNLOCKED:
+  Optimization Aura (Party)
+  [Loopweaver Innate — Level 15]
+══════════════════════════════════════
+```
+
+The warmth hit him like a wave. Not gentle -- never gentle, at Level 15, with the accumulated Essence of a closed compound loop flooding his system. His vision whited out for a full second. When it came back, the world was sharper. The threads of Loop Sight were crisper, more detailed, their data-streams carrying information he could not have parsed an hour ago. His muscles hummed with reorganized potential. The headache he had been ignoring for two days was gone, replaced by a clarity that felt almost dangerous -- like thinking too fast for his own good.
+
+He allocated stats before the rush fully faded, his fingers moving through the interface with practiced precision.
+
+*+2 INT. Fifty-five. Script Complexity rises to 32.5. That extra complexity is the difference between conditional logic and adaptive logic -- scripts that can learn from their own output.*
+
+*+2 WIS. Fifty-eight. Idle Yield Multiplier to 2.16x. Every fraction of that multiplier propagates through the compound loop and gets amplified by the feedback cycle. At current rates, the difference between 2.12x and 2.16x is approximately forty-seven additional Essence per day. Compounded over a week, that is --*
+
+He stopped himself. The number was large enough to make his heart rate spike, and he was already shaking.
+
+*+1 WIL. Thirty. Session Duration to 10 hours. Marginal, but the compound growth stacking from longer sessions is where the real value hides.*
+
+```stat-screen
+╔══════════════════════════════════════╗
+║  CALLUM VOSS                         ║
+║  Class: Loopweaver    | Level: 15    ║
+║  Prestige: 0 (Awakened)              ║
+║  Automation Tier: 3                  ║
+╠══════════════════════════════════════╣
+║  STR:  14          AGI:  15          ║
+║  VIT:  19          INT:  55  (+2)    ║
+║  WIS:  58  (+2)    PER:  16          ║
+║  WIL:  30  (+1)    LCK:  13         ║
+╠══════════════════════════════════════╣
+║  HP:  353/353      MP:  760/760      ║
+║  Stamina: 187/187                    ║
+╠══════════════════════════════════════╣
+║  Script Complexity: 32.5             ║
+║  Idle Yield Mult: 2.16x             ║
+║  Session Duration: 10.0 hrs          ║
+╠══════════════════════════════════════╣
+║  Unallocated Stat Points: 0         ║
+║  Unallocated Skill Points: 11       ║
+╚══════════════════════════════════════╝
+```
+
+Eleven skill points. Eight from before, three new. A strategic reserve growing heavier in his interface with each level. He spent three of them immediately.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  SKILL UPGRADED                      │
+│  Script Engine: Level 1 → Level 2   │
+│  Cost: 3 Skill Points               │
+│                                      │
+│  New Capabilities:                   │
+│    Max Script Length: 5 → 10 lines  │
+│    Variables: ENABLED                │
+│    Nested Conditions: ENABLED        │
+│                                      │
+│  Remaining Skill Points: 8          │
+└─────────────────────────────────────┘
+```
+
+Ten-line scripts. Variables. Nested conditions. His constructs could now run logic that adapted based on stored values -- tracking patterns across cycles, adjusting behavior based on accumulated data, making decisions that were not just reactive but *predictive*. Combined with the Enhancement Construct's feedback loop, this meant his automation scripts could improve themselves based on the optimization data flowing through the system.
+
+Scripts that learned. Constructs that grew. A loop that fed itself.
+
+But none of that was the real prize. The real prize was the notification still blinking at the edge of his vision, waiting to be opened.
+
+He opened it.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  NEW ABILITY UNLOCKED                │
+│  Optimization Aura (Party)          │
+│  Loopweaver Innate — Level 15       │
+│  Type: Passive Aura                 │
+│                                      │
+│  All party members within 30m       │
+│  receive +15% Idle Efficiency.      │
+│                                      │
+│  This effect applies to all idle    │
+│  processes: automation scripts,     │
+│  summon behavior, construct         │
+│  operations, passive skill rates,   │
+│  and resource generation.           │
+│                                      │
+│  Replaces: Optimization Aura (Self) │
+│  Note: Self-effect now stacks with  │
+│  party effect (+15% self, +15%      │
+│  party, non-overlapping)            │
+└─────────────────────────────────────┘
+```
+
+Callum read the description twice. Then a third time.
+
+*All party members within 30m receive +15% Idle Efficiency.*
+
+He looked up. Jin sat three meters away, scrolling through his own interface. Mira was on the catwalk, her cot set up in the corner she had claimed a week ago, reading by the light of a Flux lamp.
+
+Both of them were within thirty meters.
+
+He activated the aura.
+
+The effect was immediate and visible -- not to his eyes, but to his Loop Sight. A circle of soft golden light expanded from his position, passing through the warehouse walls (the aura was not a physical phenomenon; it was a System effect, propagating through the Substrate layer that underlay reality). The circle reached Jin first. Then Mira.
+
+Jin went rigid.
+
+His eyes unfocused. His mouth opened. His TI-84 talisman pulsed once in his hands, its Flux conduits flaring with a sudden spike of throughput.
+
+```stat-screen
+──────────────────────────────────
+  SYSTEM NOTIFICATION (Jin Park)
+
+  You are within an Optimization
+  Aura.
+
+  Idle Efficiency: +15%
+  Source: Party Member (Callum Voss)
+  Duration: While in range (30m)
+──────────────────────────────────
+```
+
+"What," Jin said. "What. *What.*"
+
+He pulled up his summon status. Callum watched the realization travel across his face in stages: confusion, comprehension, shock, and then a joy so naked and unguarded that Callum had to look away.
+
+"Chunk's idle yield just jumped. Zephyr's attack pattern tightened. Pixel's perception range -- Callum. Callum, what did you *do*?"
+
+"Level 15 unlock," Callum said. "Optimization Aura. Party version."
+
+"Fifteen percent. Fifteen percent idle efficiency on my *summons*." Jin's hands were shaking now -- he and Callum matched, two men with trembling fingers and racing hearts, undone by numbers going up. "Do you know what that means for the Shardfield rotation? Chunk's kill speed was already borderline for Tier 2 content, but with fifteen percent more efficiency on his combat script --"
+
+"His idle DPS crosses the sustainability threshold for crystal constructs," Callum said. "You can farm the outer ring indefinitely."
+
+"Indefinitely." Jin said the word like it tasted of something impossible. "Indefinitely. Callum. Callum, I could --"
+
+"You could."
+
+Jin let out a sound that was halfway between a laugh and a whoop and entirely too loud for midnight in the Foundry District. Pixel, startled, leaped off its corner perch and chirped in alarm. Chunk did not react. Chunk never reacted.
+
+On the catwalk, Mira was quiet.
+
+Callum looked up at her. She sat on the edge of her cot, the Flux lamp casting warm light across her face. Her saber lay across her knees. Her expression was still.
+
+She had received the notification too. He could see it in the slight tension in her jaw, the way her eyes were tracking something in her interface that she had not expected to see.
+
+"Mira?"
+
+She did not answer immediately. When she did, her voice was careful. Measured in a way that was unlike her.
+
+"My Auto-Target just got better." She paused. "And my Auto-Loot. And my Auto-Retreat, which I have literally never triggered." Another pause. "My idle skills. The ones I refuse to invest in. They just got fifteen percent more effective."
+
+"Yes."
+
+"Because of you."
+
+"Because of the aura."
+
+"Which is you."
+
+Silence. Jin had stopped celebrating. Pixel had stopped chirping. The warehouse hummed with construct-noise and the soft pulse of the Enhancement Construct, but the human sounds had stilled.
+
+Mira looked at him from the catwalk with an expression that was not contempt and was not admiration. It was something in between. Something that recognized a shift in the world and was deciding how to feel about it.
+
+"You just made me better," she said. "Without me doing anything."
+
+The words landed in the quiet warehouse like a stone in still water. Callum heard what she was really saying. *You just made me better without me earning it. And I don't know if that's a gift or an insult.*
+
+"The aura is a tool," he said carefully. "It does not replace what you do. It amplifies what is already there."
+
+"You sound like a motivational poster."
+
+"I sound like someone stating a mechanical fact. The aura increases idle efficiency. Your active combat -- your Riposte, your Read Opponent, your Blade Communion -- none of that is affected. The things that make you *you* are outside the aura's scope. What it touches are the margins. The background processes. The parts of your interface that you have been too proud to invest in."
+
+She stared at him. Her jaw worked.
+
+Then she laughed. Short, sharp, surprised -- the same laugh he had heard in the Overgrowth clearing, the one that made her face younger and less guarded for half a second before she locked it back down.
+
+"Too proud," she repeated. "You said that to my face."
+
+"It is accurate."
+
+"It is accurate. God." She ran a hand over her braid and shook her head. "Fine. Fine. Your magic aura makes my garbage idle skills slightly less garbage. I'll take it." She pointed at him with the hand that held the whetstone. "But if you ever call me proud again, I will throw this at your head."
+
+"I will allocate for the dodge."
+
+Jin, from the floor, said quietly: "This is the best team I've ever been on."
+
+Nobody responded to that directly. But Callum saw Mira's expression soften by a fraction, and he felt something in his own chest that was warm and complicated and did not have an efficiency rating.
+
+---
+
+It was past midnight. Jin had fallen asleep on the warehouse floor, his beanie pulled over his eyes, Pixel curled against his chest like a fox-shaped nightlight. Chunk stood motionless near the eastern wall, its stone body slowly self-repairing in the ambient Flux. Mira had retreated to her cot on the catwalk, her breathing steady, her saber within arm's reach even in sleep.
+
+Callum sat at his workbench, alone with his constructs and his numbers.
+
+The Enhancement Construct had completed its fourteenth cycle. The compound loop was running at a pace that would have seemed fictional twelve hours ago. He pulled up the daily projection and let the numbers speak.
+
+```stat-screen
+┌─────────────────────────────────────┐
+│  COMPOUND LOOP STATUS               │
+│  Cycle: 14 (active)                │
+│  Loop State: RECURSIVE              │
+├─────────────────────────────────────┤
+│  Current Output (daily):            │
+│    Essence:    4,847/day            │
+│    Materials:  +34% over baseline   │
+│    Flux Caps:  +28% over baseline   │
+│                                      │
+│  Growth Rate:                        │
+│    Projected doubling time: ~72 hrs │
+│                                      │
+│  Previous daily (pre-loop):         │
+│    Essence:    2,670/day            │
+│                                      │
+│  Change:       +81.5%              │
+│                                      │
+│  Projected at 7 days:               │
+│    Essence:    ~19,400/day          │
+│    (If compound rate sustains)      │
+└─────────────────────────────────────┘
+```
+
+Callum stared at the seven-day projection. Nineteen thousand Essence per day. He was currently generating less than five thousand.
+
+In a week, if the compound rate held, his daily output would quadruple.
+
+In two weeks, it would be sixteen times what it was today.
+
+In a month --
+
+He stopped the calculation. Not because the math was wrong, but because the number it produced was large enough to be frightening. The kind of number that attracted attention. The kind of attention that came from guilds, and guild leaders, and people like Drake Morrison who controlled the Barrier and defined who had the right to accumulate power inside it.
+
+He wrote the projection in his notebook. Then he wrote the date. Then he wrote, underneath, in block capitals:
+
+**THE LOOP IS CLOSED.**
+
+He underlined it three times.
+
+On his shoulder, Pip pulsed. Not the quick flicker of a system process cycling. A slow, warm glow that held for two full seconds before fading. It was the longest sustained light Callum had ever seen from the familiar. As if Pip -- nascent, nonverbal, barely functional Pip -- understood that something important had happened and was responding the only way it could.
+
+"Yeah," Callum said. His voice was rough. "I know."
+
+He looked around the warehouse. His warehouse. The converted stamping plant that he had chosen because it sat on a minor Essence Ley and nobody else wanted it. The cot he slept on. The constructs he had built from scrap metal and Bloom Crystals and four months of obsessive, invisible work. The Enhancement Construct at the center, glowing with the steady pulse of a closed feedback loop.
+
+And the two people sleeping in his space. Jin on the floor, dreaming about optimization curves. Mira on the catwalk, her saber within reach, trusting his constructs and his walls to keep the night at bay.
+
+For four months, Callum's power had been his alone. Self-targeted. Self-contained. A man and his machines in a warehouse, accumulating in the dark.
+
+The Optimization Aura changed that. Not just mechanically -- fifteen percent idle efficiency was significant, but it was a number, and numbers could be contextualized and filed away. What could not be filed away was the look on Jin's face when his summons got faster. The grudging nod from Mira when she realized her neglected idle skills were suddenly worth something. The fact that for the first time since the Emergence, Callum Voss had made someone else's life measurably better not by fighting for them, not by protecting them, but by being *near* them.
+
+His optimization mindset tried to categorize the feeling. *Satisfaction. Return on investment. Network effect. The value of human capital in a compound system.*
+
+None of those were right.
+
+He tried again.
+
+*Pride. And belonging.*
+
+He did not write that in his notebook. Some things were not data.
+
+Callum lay back on his cot and closed his eyes. The Enhancement Construct pulsed. The compound loop cycled. The curve bent upward, accelerating, doubling every seventy-two hours, climbing toward a number that would change everything.
+
+Outside, the Detroit Barrier Zone slept. The Iron Vanguard kept its watch. Drake Morrison, somewhere in the Barrier Hall, made plans built on the assumption that power was linear and the strong stayed strong by fighting harder than everyone else.
+
+He did not know that in a warehouse on the edge of the Foundry District, the math had just changed.
+
+The loop was closed. The aura was lit. Two people slept within its radius, their idle processes humming fifteen percent faster because a skinny engineer with dark circles under his eyes had spent four months building a machine that made other machines better.
+
+The curve was bending. And it would not stop.
+
+Pip pulsed once more -- slow, warm, steady -- and Callum let the hum of his constructs carry him to sleep.
+
+The numbers climbed.

@@ -246,3 +246,592 @@ Kiri said, “Adding ‘Unerring’ makes that recipe much too expensive, and [C
 
 “What about the ‘Generate new effects’, from Mana Altering?” Erick asked. “Instead of trying for [Stoneshape].”
 
+Kiri nodded. “That’s an option. But… You know how Particle magic is so cheap? That’s because it uses what’s already there. For the vast majority of magical history, according to what I was told, everyone thought that the primary elements of Stone, Air, Fire, Water, Shadow, and Light, were the ‘particles’ of Reality. This is because when you used them to create magic, the end result was much cheaper than a Force version of whatever you were trying to do.” She added, “So, prevailing theory is that you use [Stoneshape] instead of Alternate Effects, or even Altering to Bludgeoning, because using actual stuff in the spell makes it cost less, and it does more damage.” She added, “Of course, you actually have to have the stuff there with you, in order to do such a thing. Force has no such restrictions.”
+
+Jane said, “This is why weapons do more damage than spells. Actual damage, I mean.”
+
+“Correct,” Kiri said.
+
+Jane said, “So Particle Magic is just really efficient magic.”
+
+“Gods yes.” Kiri said, “But it took a planar guy with knowledge that…” She paused. She said, “I don’t think we ever would have gotten this knowledge of atoms or electrons without outside intervention. The Elements as we know them obviously exist, but… they might have been the components of Reality from our pre-Sundering universe. When my ancestors were translated to this universe… everything else was translated, too?” Kiri paused. She said, “I have no idea.”
+
+Erick ate his sandwich, while Jane and Kiri did the same.
+
+Kiri said, “I just find it hard to believe that no one else thought to check on what this Reality was actually made of. Sure, the arcanaeums are full of pompous asses, but we also have more than enough insightful geniuses of our own.”
+
+“That’s an easy answer.” Erick smiled, saying, “Magic is easy, and great. What need is there of knowing anything more?”
+
+Kiri hummed, not approving. She paused again, then said, “I guess… There’s something to be said for a life without magic, since it forced your people to adapt to this Reality in order to travel to your moons without needing a ritual [Gate].”
+
+“Just ‘moon’.” Jane smiled. “We only had the one.”
+
+Erick took a bite and swallowed, then said, “Let’s talk about [Comet Swarm] some more. What sorts of ways do you envision the spell coming together?”
+
+“Okay.” Kiri ate a fry and said, “You know how I said I have the recipes for a majority of the nicer high tier spells? The fact is, is that there are ways to get to something that looks like them without actually being them. Alternate Combinations, they’re called. So keep that in mind, as I tell you how I would combine to get [Comet Swarm]. The first half I know is correct. The second half is conjecture.”
+
+She summoned a tiny blackboard, next to the dinner table, already filled with a branching diagram.
+
+--
+
+t1[Teleport] + (other) = t2[Teleport Object] (This is arguably the most difficult part)
+
+t1[Force Wave] + Mana Alter Fire, over stony surface = t2[Lava Pool]
+
+t2[Lava Pool] + Mana Shaping, extreme = large range t3[Lava Sea]
+
+t1[Stoneshape] + t1[Fireshape] = t2[Lavashape]
+
+t1[Force Crash] + Mana Shaping, extreme = extend to Super Long Range t2[Force Crash SLR]
+
+t2[Lavashape] + t3[Lava Sea] = t4[Lava Orbs]
+
+t4[Lava Orbs] + t2[Teleport Object] = t5[Lava Rain]
+
+t5[Lava Rain] +t2[Force Crash SLR] = t6[Lava Swarm]
+
+t6[Lava Swarm] + Mana Alter, Bludgeoning = t7[Meteor Swarm]
+
+t7[Meteor Swarm] + Mana Alter, Fire = t8[Comet Swarm]
+
+--
+
+Kiri said, “The big cost increases here are the mana shapings. The big decrease, here, is [Teleport] to [Teleport Object], and only combining two spells at a time, so that you can combine them for minimal costs. Everything else, should, if it’s made correctly, be kept below Apparent Costs.”
+
+Erick read over the blackboard.
+
+Jane asked, “What’s Apparent Costs?”
+
+“Ah?” Kiri had taken a bite of her sandwich. She chewed and swallowed, then said, “The costs it should increase by, according to the basic math of it. Take [Telekinesis], for example—”
+
+Telekinesis X, medium range
+
+Move large objects around you for 5 minutes per level of the spell. Fine control. 100 MP
+
+Quickly move large objects around you for 1 minute per level of the spell. Fine control. 50 MP
+
+“—The ‘Quick’ version, according to the math, should cost you 300 mana to keep running for an hour. But when you Aurify this, according to the math, it should only cost you 1 mana every 20 seconds. This is the Apparent Cost. But because Auras are a constant drain, it’s rare to see the listed cost of an aura cost less than 1 mana per second. In the case of Aurify, the Apparent Cost is out of touch with the Actual Cost.” Kiri said, “That’s because the opportunity cost of being able to turn your aura on or off is also worth some number Rozeta only knows. And the area is increased by a lot, of course.”
+
+Erick looked over the board, and threw out a number that felt right. “This [Comet Swarm] is 3500 mana?”
+
+Kiri smiled. “If you’re lucky. Maybe. The [Teleport Object] and the Mana Alterings at the end add a considerable multiplier because of the vast amount of material that is being ‘ported and altered. If your [Teleport Object] is fractionally worse than perfect, your costs could go from 3500 mana, to 10,000 mana.”
+
+Jane waved a hand at the board, saying, “Couldn’t you just… not do a lot of that? Like just use stone, by itself? And focus on impact damage?”
+
+Kiri said, “Sure. You can make [Comet Swarm] a lot of ways. Just like you can make [Fly] a lot of ways.”
+
+“Ah!” Erick said, “Right. You’re not referring to an actual spell when you say [Comet Swarm]. You mean the idea of [Comet Swarm].”
+
+“Sort of.” Kiri said, “There is an actual [Comet Swarm] in the Script, and its about where I guessed at, I think. For the spell itself, if I recall correctly, it’s 10,000 mana, and throws 10 flaming boulders down from two kilometers up. The listed damage is 0, but it's still boulders dropping from the sky and setting fire to stuff.”
+
+Jane smiled, and said, “How about… none of this fire magic, except to propel the stone faster into the target? No [Lavashape] at all.”
+
+“But the point is to do widespread damage, and fire does that. Stone is just—” Kiri thought, then said, “Wham, slam, and you’re done. Fire decimates everything that wasn’t directly damaged, leaving lava where it struck the surface.”
+
+“What do you need this for, though?” Erick asked, “What monsters?”
+
+Kiri said, “Ah. Well. [Comet Swarm] is usually used against armies. Or cities. Like Spur. What monsters? Not many. A Cloud Giant castle, sure? Maybe— Oh yeah. A Desert Rose. For sure.”
+
+That was interesting, but all Erick could focus on was the fact that [Comet Swarm] was an existential threat to Spur. He asked, “How do you defend against that?” He added, “Since you’re using raw material… [Dispel] doesn’t work, does it?”
+
+“Not on the whole spell, but [Dispel] will remove the vast majority of the damage of a properly made [Comet Swarm]. Since there are so many individual comets, you won’t have to guess with the amount of power to put behind your [Dispel], either. You can safely guess at 1000 mana per comet; unless they’re using an aberrant version that costs twenty thousand mana, or such.”
+
+Jane said, “And then your side would have wasted time and mana throwing ineffectual defenses at the swarm.”
+
+“Exactly. [Dispel] doesn’t de-spell unless you spend the full amount of mana to unmake whatever you’re trying to unmake, though it will punch holes in auras, and it partially works when a spell is carved into parts, like [Comet Swarm]. Clarity does work when calculating [Dispel] costs, but every mage has Clarity, so that hardly helps you.” Kiri said, “But even with [Dispel] you still have multi-ton comets coming toward your front lines, or your buildings.” She swiftly added, “This is all academic, mind you. I have no actual experience fighting against a [Comet Swarm].” She said, “I don’t know who wo— Merit would. Guardmaster Merit would have that information. And Killzone. And Silverite.” She held a fry, saying, “Lots of people in Spur would have that sort of experience.”
+
+Jane said, “I’d like to try my hand at this idea of spell creation.” She gestured toward an empty space beside the kitchen table. A blackboard appeared, with a detailed diagram of creation. “Ah. No.” She gestured again, and a slightly different board appeared. “Yes. That’s it.”
+
+Kiri read the board, teasing, “Don’t worry, Jane. You’ll get the hang of correct item conjuring eventually.”
+
+Jane exaggerated, “Haaa.”
+
+Erick smiled as he read.
+
+–
+
+t1[Force Crash] + Mana Alter Extreme = t2[Sky Fall]
+
+t2[Sky Fall] + [Force Bomb] = [Sky Bomb]
+
+t3[Sky Bomb] + Mana Alter, Bludgeon = t3[Sky Crash]
+
+t4[Sky Crash] + Ice = t5[Sky Ice Crash]
+
+t5[Sky Ice Crash] + Fire, to propel it faster = t6[Comet Swarm]
+
+And no need for stone to start!
+
+–
+
+“Nope.” Kiri said, “You won’t get [Comet Swarm] at that level. You might get [Meteor Swarm].”
+
+“What?” Jane asked, “Why?”
+
+“Because each tier has a...” Kiri paused. She said, “Prevailing theory is that each tier has a certain amount of damage it is able to do. Higher tiers can do more damage, or have larger effects. Erick’s [Call Lightning] kinda broke that theory, though.” She added, “And fire and ice? Really?”
+
+“You saw what Erick was able to do with ice and fire.” Jane said, “Besides! Comets are ice and stone. The only reason they have a fiery tail is because the sun boils away the icy surface into a plume of particulates the closer the rock gets to the sun.”
+
+Kiri frowned. “There is a lot to be said for the validity of sympathetic magic with proper imagery… But...” Her frown deepened. “This is the point where I would normally argue that you have no idea what you’re talking about. But I can’t tell if you’re teasing me, or not.”
+
+“This is one of the rare times Jane is not teasing.” Erick said, “Comets are hunks of ice and stone. And you don’t want one anywhere near your planet. A real comet would cause the death of everything if it actually hit Veird.”
+
+A silence filled the room, as Jane nodded.
+
+Kiri breathed at her sandwich. She looked up to Erick, asking, “Really?”
+
+Erick said, “They’re multi-kilometer wide hunks of rock and ice, traveling at….” Erick looked to Jane. “Help me out here.”
+
+“50 kilometers per second?” Jane guessed. “That seems right. And yes. You don’t want them anywhere near Veird. The impact of an actual comet would kill all life… Actually. I’m not sure. You guys have gods.”
+
+“Yeah.” Erick agreed. “The gods would likely step in at that point in time. Hopefully.”
+
+“There’s a lot of terrifying shit out there.” Jane said, “Black Holes.”
+
+“Gamma Ray Bursts,” Erick added.
+
+“Comet and meteor impacts.”
+
+“Antimatter explosions.”
+
+“Oh yeah. The Tuskegee Event thing?”
+
+“Yup— Uh. Tunguska Event, I think. Tuskegee was something else.”
+
+"Ah. Yeah."
+
+Erick nodded, saying, “And black holes traveling at the speed of light could just suck up the whole planet in a millisecond. All very terrifying.” He looked to Kiri, and suddenly reconsidered what he was saying. “Uh. But none of that is likely to happen!”
+
+Kiri breathed harder, more focused. Her green face seemed to be a slightly different green.
+
+Jane looked at Kiri. A slow smile crept upon Jane’s face. She almost said something, but Erick shook his head. Jane settled back into her chair, wearing a wider smile
+
+Kiri softly said, “Okay.” She returned to eating her sandwich. She whispered, “I don’t even know what all that is… but... it sounds… not great.”
+
+Jane said, “An actual realistic [Comet Swarm], would be like a mini-Sundering. But I guess there’s some artistic license when it comes to naming spells. And your gods already protected against one Sundering already.”
+
+Kiri sharply inhaled.
+
+Erick whispered, “That’s enough, Jane.”
+
+Jane rolled her eyes, whispering, “Yeah, yeah.”
+
+- - - -
+
+The sun rose in the windows of the classroom, while Erick stood with Kiri, in front of two blackboards; one was his, the other hers. The goal was [Death Spiral Fire]; Erick wanted to kill wyrms without putting other people in danger, and he wanted to do it efficiently.
+
+Kiri’s board read well.
+
+–
+
+t1[Force Beam] + Mana Alter: Fire = t2[Fire Beam] 30 mana
+
+t2[Fire Beam] + t1[Conjure Weapon] = t3[Fire Whip] 100 mana, lasts until dismissed
+
+t3[Fire Whip] + t1[Fireshape] = t4[Fire Wrap] 500 mana, lasts until dismissed, drop down to WIL damage to keep the costs down. (Range is still touch. This is the point where the spell can get wildly expensive)
+
+t4[Fire Wrap] + Mana Shaping, 500 mana = t5[Endless Fire Wrap] 1000 mana, change range to close.
+
+t5[Endless Fire Wrap] + Mana Shaping, 500 mana = t6[Death Spiral Fire] 1500 mana, increase range to long, size to cover the whole body. Damage might become 2xWIL.
+
+–
+
+Erick’s board read not so well.
+
+–
+
+t1[Force Bomb] + Mana Alter: Fire = [Fireball]
+
+t2[Fireball] + [Conjure Item: Napalm] = t3 [Cloying Fireball]
+
+–
+
+Kiri read his board, and said, “So.”
+
+Erick agreed, “So.”
+
+“What’s Napalm?”
+
+“I’m not sure. It’s stuff that burns and doesn’t stop.”
+
+Kiri frowned. “Alchemist Fire?”
+
+“Maybe.”
+
+“[Conjure Item] doesn’t conjure magical items. And besides, as soon as a conjured item takes damage, the Force matrix that gives you the illusion that the item is there, disintegrates. [Conjure Item] isn’t very useful for further spell creation.”
+
+“Ah. Right. Napalm isn’t magical, but yeah… the ‘disintegrating’ part of that negates the ability to use it as fuel for a fire, anyway.” Erick asked, “What about [Teleport Object], for something you make yourself? I saw that spell as part of your [Comet Swarm] last night.”
+
+“[Teleport Object] is one of the necessities for creating many of the higher magics; [Comet Swarm] is only one of those. Your theoretical ‘napalm’ spell would be another, if you made the napalm yourself and kept it in a secure location somewhere. But at that point, you could just use Alchemist’s Fire. But this is not the way to get an endless fire spell; Alchemist’s Fire burns away.” Kiri said, “And you don’t want the [Teleport Object] in the Script.”
+
+Teleport Object, touch, instant, 250 MP per kilogram.
+
+An object you touch moves to another known location, max 10km distance.
+
+Erick agreed, “One kilogram per 250 mana… Not great.”
+
+“Yup.” Kiri said, “And the one in the Script doesn’t allow you to [Teleport] something to yourself, or something from some other place, to some other place. I’m still working on my [Teleport Object]. It’s only tier 2, so I try every day. Never turns out well.”
+
+Erick nodded, then glanced at a different blue box he had open.
+
+Prismatic Ward, instant, close range, 12 hours, Solid Ward, 100 MP + Variable
+
+Create a small, solid area that absorbs Variable damage before breaking.
+
+You may only have one Solid Ward active at a time.
+
+Purchase Prismatic Ward for 1 point? Yes/No
+
+‘No.’
+
+Not only was [Prismatic Ward] just a spot of solid air, that Erick doubted he could walk around inside, but it was limited to size Small. The [Prismatic Ward] in the Script was a house locked tight; a fortress. Not a home, at all.
+
+Erick dismissed the box, asking, “What happens when I have two Solid Wards?”
+
+“You’re asked which one you want to keep.” Kiri said, “The other is destroyed.”
+
+“I don’t have to tear apart [Crystalline Air] before I try?”
+
+“No?” Kiri asked, “Why would you think that?”
+
+Erick waved her off, saying, “Overthinking.” He looked over Kiri’s [Death Spiral Fire], and asked, “So… What is this spell supposed to look like?”
+
+Kiri stared at her blackboard, and said, “Like a rippling red [Personal Ward], with fire burning through the surface to the core, leaving behind nothing but the grand-rad at the center.” She got a far off look in her eyes, as she said, “I saw a Tower Mage use it when I was a child. Looking back, she probably cast the spell more than once…
+
+“A [Shadowshape] wyrm had just left the treeline. It evaded detection until it made it all the way to my home village. Hunger must have gotten to it by then, because it came over the walls like a shadow. Everything went dark, as it pulled shadows around itself, and began devouring people. It tore through our house…” Kiri breathed. She said, “Then she showed up. Flying in the sky, glowing like a torch. The wyrm instantly went for her. She dodged. She cast. One spell. One second. And that was all it took. The fight was decided. The wyrm burned too brightly to hide in the shadows. But it wasn’t a flickering flame. It was steady, solid fire, that wrapped around the monster; layers of orange and yellow. The wyrm chased her, and she evaded. The wyrm died atop the walls. Nothing else burned; just the wyrm. It was… it was a fantastic fire spell. Control and destruction, all together.”
+
+Erick felt Kiri’s words in his soul, for she had seen the jaws of death, and she had seen the flame of hope burn away those jaws. It was a powerful image.
+
+Kiri looked up at the blackboard, saying, “It was…” She said, “That’s who I hope to be. Someday.”
+
+Erick said, “You will!”
+
+Kiri chuckled.
+
+Erick said, “I don’t have [Conjure Weapon], though. So I can’t do this.”
+
+“You can use [Conjure Armor], but you have to make the offensive version of that spell, first.” Kiri said, “It’s called [Bind]. Many consider this version of [Death Spiral Fire] to be a better version, because this drops the spell a whole tier. If you make it right, you can skip the part where you transform the whip into the wrap.”
+
+Bind, instant, touch, 100 MP
+
+Conjure restrictive binds upon a target. Lasts until the target can free itself.
+
+Kiri added, “But this version of the spell allows the target the ability to free itself by thrashing around enough, which is the opposite of what you want. So.”
+
+Erick nodded. “So I need [Conjure Weapon].”
+
+“It’ll also allow us to spar without your weapon breaking all the time. [Conjure Item] for a staff just doesn’t compare to [Conjure Weapon] for a staff.”
+
+Erick went ahead and bought [Conjure Weapon]. He said, “You sold me.” He looked over Kiri’s spell again, asking, “Do you mind if I try for this, using your method? It seems like a spell that’s close to your heart.”
+
+Kiri smiled softly, saying, “I would love for you to successfully craft this spell.” She looked at the blackboard again, saying, “I’ve got 27 years to go before I can try again.” She added, “I might try for an inferior version before that, though.”
+
+Erick’s eyes widened slightly. 27 years was a long time to try to remake a spell.
+
+… Erick couldn’t help but be reminded of his own mortality. He was already 48. He could live to be 120, on Veird. There was something to HP and [Cleanse] and the constant struggle that ensured long lives on this planet, or at least that’s what people said. Erick was happy for that. These days, he was feeling his age less and less. He was practically a young man, according to the idea of 120 being ‘old’. But still...
+
+Mortality was a part of reality, but hardly anyone ever made it the full run. Monsters took their fair toll. Other people took the vast majority of the rest.
+
+Erick flashed a [Conjure Weapon] sword into his hand, then dismissed it, then summoned another, saying, “I guess I have more skills to level.” He dismissed the sword, and summoned another, getting a feel for the magic as he created a whip, this time. The length of white Force curled to the ground. Erick asked, “Want me to tell you when I try for this spell? It’s going to be today.”
+
+Kiri breathed. She stared at the blackboard. She said, “Thank you. But no.”
+
+Erick said, “Very well.”
+
+- - - -
+
+The morning rains came and went, and so did lunch. Inside of his mage tower, Erick summoned countless weapon variations, from daggers to swords, from maces to spears. And then he summoned a bow. It was a fantasy staple, was it not? Elven archers, or rogues, or what-have-you. Erick only knew the vaguest sort of information about all of that, but only because Jane loved it, and he had to purchase so much of it in the form of presents or gifts. When they could afford the extra expenses, anyway. They weren’t rich, back on Earth. But they had enough.
+
+They were filthy rich on Veird, though. It was a nice change, but Erick could do without the monsters and assassins and hunters and worldwide politics.
+
+Erick ignored all of that train of thought, for a moment, as he held his bow. It was white and completely typical, in the way that Erick thought a typical bow should be.
+
+Erick sent, ‘Hey, Jane? Busy?’
+
+Erick turned the bow over in his hands, and plucked the string. With another summon of [Conjure Weapon], he had an arrow. The bow did not bend well, or Erick wasn’t strong enough. So he remade the bow, and this time, it bent, as he slotted the arrow on the string, and pulled back.
+
+Jane’s reply came, ‘Not really. What’s up?’
+
+He sent her an image of looking down the sights of the bow, his left eye closed, his right eye just above the notch in the back of the arrow, sending, ‘They don’t have bows on Veird, do they?’
+
+Erick loosed the arrow at the wall. The bow cracked, the string broke, the arrow flopped over and tumbled to the ground, where it disintegrated into so much ambient mana. He chuckled.
+
+‘Don’t close your eyes when you shoot.’ Jane sent, ‘And nope, no bows on Veird. They have [Force Bolt]. And I think the process of making a bow is too involved. If they couldn’t do it in hours, then I don’t think it got done. It’s like metal working. Not many metal workers on Veird, either. Or at least not many on Glaquin.’ Jane asked, ‘So you got [Conjure Weapon]?’
+
+Erick remade the bow, focusing on flexible strength, sending, ‘Yup. It’s a large component of [Death Spiral Fire].’
+
+‘You know… All these big spells you’re looking at… They’re vastly illegal in most of the world. But since you’ve been declared an archmage by the Headmaster and you’re already famous, people expect you to have these spells already.’ Jane said, ‘I hope you’re taking this seriously, Dad.’
+
+Erick nocked a new arrow on his new and improved bow. The string broke as he pulled it back. He remade the weapon, and re-nocked the arrow, sending, ‘I am, Jane. Very seriously.’
+
+He loosed the arrow. The white arrow cracked against the stone walls of his tower, shattering into ambient mana. He nocked another arrow, better made this time.
+
+‘I hope so, Dad.’
+
+Erick loosed the arrow. It sunk into the stone, two inches, sending a wild crack two foot up through the stone. He smiled. He dismissed the bow, and [Stoneshape]d the wall back together, sending, ‘See you tonight?’
+
+‘Yeah. I’ll be back for dinner. I’ll head to Firemaw Mountain in the morning.’
+
+‘I will have to make a special dinner, tonight!’
+
+‘I’d be more impressed seeing a [Death Spiral Fire], Dad.’
+
+‘… I’ll have to make that, too.’
+
+- - - -
+
+Erick stood under the afternoon sun, in a desolate stretch of the Crystal Forest, different than the one from yesterday. Except for Poi and a trio of Ophiels he was alone; Erick and Poi had both become much more diligent about checking for hunters and people in the area ever since the incident the other day.
+
+Erick pulled out a piece of paper from his pocket, and read it over again. He put the paper away.
+
+He channeled mana through Mana Altering, feeling the heat of Fire wash across his skin, like being in the center of a non-existent bonfire, as flickering white light rolled up from his hand, like a plasma. [Force Beam] produced an even, cutting light; this was also a plasma, but something deeper. The sounds were close. Very close.
+
+Ophiel took those sounds, and all three of him began to sing a chorus of plasma and heat.
+
+Erick started the cast, and a blue box appeared the very moment a radiant line of red fire erupted from his pointed finger, to strike the sands. The spell practically came together, all on its own.
+
+Pure Fire Beam, instant, medium range, 25 MP
+
+A burning beam of fire deals 3x WIL damage per second for 10 seconds, and WIL damage for 10 more seconds.
+
+Erick moved the beam across the sand, leaving a trail of clinging fire where the line of radiance touched.
+
+The spell ended. Ophiel stopped singing.
+
+Erick channeled mana through [Conjure Weapon], producing a spike of light that laid in his hand, ready to be gripped and wielded against the world. It was the empowerment of self. The ability to carve a bloody hole in this monstrous world, and then to make a home from the carcass. It was the sword on the mantle. The triumph of intellect to create weapons to match the claws and maws of the beasts roaming the land.
+
+[Conjure Weapon] was the most powerful tool in the world, in the right hands.
+
+Ophiel took up that song, and married it to [Pure Fire Beam].
+
+It was a song of cutting. Of the edge of a primal fire, slicing through worries and fears with bright flame, disintegrating enemies into pieces, and warming oneself with those burning remains. It was a violent song, for a violent time in a violent world.
+
+It was a hair-thin line, weaving between destruction and safety; a line that moved based on the flow of battle, but that would come back to lop his own head off if he wasn’t careful.
+
+Erick was totally going to lop off a limb if he tried to make a [Fire Whip].
+
+This was a bad idea.
+
+Erick had Ophiel halt his song, and strung magic through [Telekinesis]. It was control at a distance; a faint white light on his palm, but an intent that spread far, meters, even, out from Erick’s glowing hand.
+
+Ophiel took up the song of [Telekinesis] and [Conjure Weapon]. It was ranged destruction. A song of someone calling the shots from afar. Of sending swords to distant shores to guard the vulnerable homeland.
+
+Erick cast.
+
+A meter long sword, sharp and white, hovered in front of Erick, along with a blue box.
+
+Flying Weapon, instant, close range, 100 MP + Variable
+
+Create a nigh unbreakable weightless weapon that flies at your command. Lasts until dismissed.
+
+With a mental push, Ophiel took up this new song and joined it to [Pure Fire Beam]. The resultant harmony sounded like a degree of resigned separation; a divorce of power from intent, that would allow that power to run rampant, to do what it must, while the center controlled the fight from the outside.
+
+Erick focused on that idea, on a song fulfilled, on the perfect harmony of wanton destruction wielded at a distance.
+
+The flying sword vanished. In its place, appeared a dagger made of white flame.
+
+Plasma Cutter, instant, medium range, 133 MP + Variable
+
+Create a controlled, flying weapon of flame that deals weapon damage, and leaves burns for 3x WIL damage per second, for 10 seconds. Weapon lasts until dismissed.
+
+Erick dismissed the dagger, then recast [Plasma Cutter], creating a line of white fire in the air. Erick controlled the thread-like weapon to dance like a snake, and it did; perfectly. Erick moved the line of fire til one end held the other. He set it spinning. Motes of white plasma laced from the burning ring; a buzzsaw blade of flame.
+
+Erick thought about Allan, of Yetta’s former team, and was conflicted. He tried to kill Jane, but he didn’t really. He would have known that Jane would have felt that invisible buzzsaw coming for her, right? It was all just an act? Whatever the case, it was hard to feel mad at a guy who knowingly sacrificed himself to kill Planter.
+
+… Erick wasn’t strong enough to kill any Shade. Not like this.
+
+He dismissed the thread-weapon, then pulsed another burst of sword-like [Plasma Cutter] into the air, twice, three times. Soon, seven white blades, each five foot long and flaming, hovered in front of Erick, like the bars of a jail cell. White flame transformed to yellow and orange as plasma flowed away from the blades, into the air. But the air was not overly hot; the force of the fire was constrained to the flying weapons. Erick looked back to Poi, who was suddenly standing another twenty yards away. Erick smiled.
+
+Erick called out, “I was just about to ask you to stand back!”
+
+Poi replied, “I could tell!”
+
+Erick set the flaming swords around himself, handle pointed toward him, blades pointed outward, equidistant from each other. With a push, he sent the blades spinning, like the world’s most scary hula hoop. Waves of heat rolled up from the spinning, circled blades, as they spun faster and faster, whirring in the air like the sounds of a helicopter. Erick held the reins of this power, and knew that this was not his way. He would not use this weapon like this; it was too foreign.
+
+Adding to that, the constant drain of that ‘Variable’ part of the spell had eaten away a thousand mana in under thirty seconds, even with his regeneration being as high as it was.
+
+He stopped the spin, dismissing all but one of the blades. With [Fireshape] he pressed upon the weapon, and while the flames moved at his command, the weapon had been made; it wouldn’t budge. Erick dismissed the sword, and brought back the thread. This time, [Fireshape] flared the flames of that thread out into a blanket of controlled destruction.
+
+Erick held that weapon in the air, and turned to the ground. [Stoneshape] pulled a curving, mini-wyrm from the ground. It was a crude sculpture, with exaggerated eyes and limbs all organized down the length; not at all the crazy jumble and decay of a real wyrm. But it would serve.
+
+Erick wrapped the thread around the wyrm. It sizzled; a tiny char burned the stone under the flaming thread, but it was most ineffective. He dismissed the thread and summoned a length of chain, a hundred individual links, each brilliant white, each covered in fire. He wrapped it around the stone wyrm, and saw that, yes, this might work. Sort of. The extra width of the chains charred an inches-thick band of space under the chains.
+
+… But if one of those lengths broke, the entire spell would break.
+
+The solution, was obviously, slimes. No wonder Phagar liked the little guys. Erick smiled, as he summoned another [Plasma Cutter], imagining a cloying, moving flame, a thing that started as a ball, but splattered into a covering goo.
+
+A white flaming orb appeared in front of Erick. He threw it at the stone.
+
+It bounced. It landed on the ground, and rolled; a tiny line of fire licking up from the ground where it touched.
+
+“Ah.” Erick said, “Let’s try this.”
+
+[Fireshape]. [Plasma Cutter].
+
+An undulating ball of white materialized, sputtering with fire, and much more liquid than the previous incarnation. Erick threw the ball of not-water at the stone wyrm. It struck, like a booger spat out. It did not move much, but the flames of the snot ball did crawl across the stone.
+
+… This was not what Erick wanted.
+
+He went back to chains, but combined in them the idea of sticky metal, able to meld in with itself and stick. This attempt broke apart under its own internal stresses before it touched the stone; as soon as the ‘weapon’ part of the spell broke, the spell broke.
+
+Erick pulled Kiri’s plan out of his pocket, and read it over again.
+
+… At this point in the combination process, Kiri was still working with a touch spell. Erick was not. But that didn’t help him.
+
+He stuck the paper back into his pocket, and began channeling mana through [Plasma Cutter]. The sounds of a ranged strike came to him; something to cut the enemy and burn the land. But Erick needed something deeper for [Death Spiral Fire]. Something to end the threat, completely.
+
+Shades and wyrms needed more than a blade to their throat.
+
+Erick cast.
+
+[Fireshape]. [Plasma Cutter].
+
+White flames splashed across the stone wyrm, enveloping the statue, burning, crawling around limbs, joining to itself. Stone blackened. The spell held like a living flame, searching the stone for something more to burn. It wasn’t a slime. It was flame given solid existence, and meaning: to burn until nothing was left.
+
+Plasma Wrap, instant, close range, 599 MP
+
+Wrap a target in fire, dealing 2x WIL damage a second until the target dies.
+
+Congratulations!
+
+You have combined parts of the Script to create your first tier 4 spell!
+
+May your journey into magic be wide and fruitful!
+
++3 ability points!
+
+A twinge of hope flowed through Erick’s chest. This was a good spell. It was fire given form. But it could be better.
+
+He channeled mana through the spell, and heard the idea of burning away a problem till not even ash was left. But it was an impure sound. A sound of holes in the attack, and danger left for someone else to deal with. It was chaotic destruction.
+
+Erick needed organized destruction. Methodical.
+
+Erick had Ophiel sing, while he listened to the clicks and pops in the music, the unbalanced… balance. There was something there, for sure, but it could be better. Smoother.
+
+Yes. Smoother. That was it, exactly. Erick smiled to himself, happy that he had picked a winner in Kiri; she knew what she was talking about, for sure. Her story came to Erick, and one part stood out from the rest: a fire that coated completely, that burned away until it killed, leaving nothing behind.
+
+Erick dismissed the partial white fire over the stone wyrm, and then cast.
+
+[Mana Shaping]. [Plasma Wrap].
+
+Flickering white covered the entire stone wyrm; a layer of fire, inches thick, and focused entirely inward. The only thing that leaked from the spell was light.
+
+Endless Plasma Wrap, instant, close range, 1101 MP
+
+Wrap a target in fire, dealing 3x WIL damage a second until the target dies.
+
+Congratulations!
+
+You have combined parts of the Script to create your first tier 5 spell!
+
+May your journey into magic be wide and fruitful!
+
++4 ability points!
+
+It was a good spell.
+
+The stone wyrm crackled and popped, as moisture trapped in the stone violently escaped. The stone cracked; the head of the sculpture tumbled to the ground. [Endless Plasma Wrap] remained on the body of the sculpture.
+
+The tail broke off.
+
+This spell would leave a lot of debris, wouldn’t it?
+
+Erick had an idea for how to improve this spell.
+
+Erick loved [Cleanse], anyway, and clean air caused fire to burn better. Might as well keep going to tier 6, but in a slightly different way than Kiri outlined. Close range was close enough; Ophiel would be administering this spell, anyway.
+
+Erick channeled mana through [Cleanse], and discovered something he hadn’t known. He had channeled through [Cleanse] before, of course, but today’s creation had altered Erick’s perceptions, or something else had happened, because Erick was open to the magic, right now, and it was speaking to him of deep secrets.
+
+[Cleanse] produced a clear, brilliant fractal of light, that poured out of his hand in every direction, like complicated snow. It was an endless, recursive magic, that reflected the body of its user upon the rest of the world. It was, perhaps, the most complicated tier 1 spell Erick had ever thought to hear. [Cleanse] was an artful mess of clean perfection. A restoration of order through endless complexity, where everything could go wrong, and yet nothing did; there was something simple to this magic, and yet not.
+
+[Cleanse] was the most gentle doctor’s scalpel, and the words of a kind matriarch. The touch of a father, holding his daughter upright for her first bike ride. [Cleanse] was both the training wheels on that bike, and the helmet on the girl’s head. It was a guidance to a nicer place, where certain dangers were guarded against.
+
+It was the touch of a god. A guiding, divine hand, and Erick was going to use it to make a harmful spell burn brighter. It seemed wrong; it seemed to go against the very nature of the spell itself.
+
+Erick stopped channeling mana through [Cleanse], and the snow of the spell dissipated into the manasphere.
+
+He breathed out into the flowing air of the [Crystal Forest]. Ophiel sang a tiny song of [Cleanse]. The sun shone down from a clear sky; hot, and bright. Sweat dripped down under Erick’s loose clothes. The stone wyrm cracked and broke, finally ‘dying’; [Endless Plasma Wrap] ended, the white glow around the stone vanishing into so much ambient mana.
+
+Erick [Stoneshape]d the wyrm back together, and after his mana came back, he went for [Death Spiral Fire]. 500 more mana journeyed through Mana Shaping, to meet [Endless Plasma Wrap], combining into a spiky sheet of crawling, tearing magic, that ripped into the stone wyrm like it was soft clay, breaking the wyrm down faster than the fire could burn it apart.
+
+Death Spiral Plasma, instant, close range, 17,009 MP
+
+Wrap a target in fire, dealing WIL damage a second until the target dies.
+
+Congratulations!
+
+You have combined parts of the Script to create your first tier 6 spell!
+
+May your journey into magic be wide and fruitful!
+
++5 ability points!
+
+Erick hummed. ‘Is this success?’ he thought to himself, as the stone wyrm churned into flaming pieces. It was certainly a kind of success, but not the best kind; not one he could ever cast himself.
+
+Erick smiled at the sky, and opened himself up to the manasphere. He said, “Thank you for helping me to create this spell.”
+
+The sky did not respond. But Erick had said his piece, and felt better about giving thanks where thanks were due. The wind blew across his body, and Erick relaxed into the feeling, as Meditation ticked his mana back to full.
+
+After a while, Erick was ready to continue.
+
+Erick had already strung his mana through all the Shaping spells, and come to one conclusion: Each of them was a piece of a puzzle. Each of them was a lens with which to view the world. The energy of Fire, the life of Water, the solidity of Stone, or the freedom of Air. The brilliance of Light, and the depth of Shadow. Each of them were sides of the same coin, a fraction of Reality.
+
+And Erick was going to build them a home, through love and care.
+
+Erick summoned three more Ophiel to assist, bringing his number up to six. He gave each one of them a piece of the puzzle, while holding onto the endless, mutable protectiveness of [Ward] himself.
+
+He sang a song at the deep blue sky, his words traveling across the Crystal Forest, catching on the wind.
+
+“Free to roam, but here to play      [Airshape]
+
+“A protected space, free of strife      [Stoneshape]
+
+“A hearth of flame, a place to stay      [Fireshape]
+
+“Drink deep, and nurture gentle life       [Watershape]
+
+“A light protects the door; a knife       [Lightshape]
+
+“A dark to sing defensive chord       [Shadowshape]
+
+“A home for us, [Prismatic Ward].       [Ward]
+
+The air shifted over the Crystal Forest, like a storm brewing, as Ophiel sang his six-fold parts, and Erick sang the words to bring those parts together.
+
+Thick air formed around Erick; a [Ward] taking shape, in small, flickers of rainbow. Light shifted. Dark swirled. Heat and moisture balanced. Then broke. The air cracked. Solidity broke against freedom. Light warred with Dark; they separated toward their own corners. Fire boiled moisture, as Water turned frosty along the edges of the angry space. The [Ward] distorted, like a sphere smushed in, dented; imperfect.
+
+Prismatic Ward, instant, close range, 12 hours, Solid Ward, 309 MP + Variable
+
+Create a medium, solid area that absorbs three times Variable damage before breaking.
+
+Prismatic Ward regenerates integrity based on your Rested mana regeneration rate.
+
+You and those you permit are able to pass through Prismatic Ward at will. You may grant or revoke this permission at will.
+
+You may only have one Solid Ward active at a time.
+
+Followed by another blue box.
+
+Choose which Solid Ward to keep:
+
+Prismatic Ward
+
+OR
+
+Crystalline Air
+
+[Crystalline Air].
+
+[Prismatic Ward] broke apart inside Erick’s mind; like friends parting til tomorrow. He breathed as the rainbow air disintegrated, like so much ambient mana. He trailed a hand through the breaking spell. Flickers of mana curled around his body as he moved, filtering through his fingers like so much rainbow air.
+
+He had messed up somewhere. Ophiel ceased their song. Erick would go back to the drawing board tonight, and try again when he could. He relaxed.
+
+One more spell to try for.
+
+For the next hour, Erick cast [Teleport], holding onto a rock, trying to move the rock, and not himself.
+
+Now that, was a complete failure. Erick had no idea what he was even doing wrong. He [Teleport]ed back and forth; his entire self, and not just the rock. He even sang a song at the spell, but all he got was a minor Error. Poi walked over and tapped him with the rod of [Treat Wounds], and Erick decided he needed to know much more about Teleport before he decided to continue this line of spellwork. Erick went home with two and a half failures out of three attempts, and a headache.
+
+But [Endless Plasma Wrap] was still more than good enough.
+
+Probably.

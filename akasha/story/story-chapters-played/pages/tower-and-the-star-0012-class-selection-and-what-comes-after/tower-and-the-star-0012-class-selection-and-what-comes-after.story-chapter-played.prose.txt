@@ -176,3 +176,143 @@ She walked to the terminal with a gait that was not quite casual and not quite s
 
 The Conductor echo was the most complicated. Disruption and warmth arrived together, inseparable, the feeling of a pattern broken not to damage it but to open it -- to let air into a closed room, to let laughter into a silence that had gone too long. The Brightspirit Aspect expressed as both things simultaneously: the breaking and the light that came through the break. Solenne felt it as something that was almost uncomfortable and entirely necessary, the way Nadia's humor had always been.
 
+Nadia made a joke at the terminal that the System could not hear. Solenne saw her lips move, saw the specific timing of the delivery -- the setup, the pause, the punchline directed at an interface that had no capacity for laughter. Then Nadia turned away from the terminal with an expression that had settled into something quieter than her jokes usually left behind. Not performing. Present.
+
+```stat-screen
+[LEVEL UP — Nadia Volkov-Baptiste]
+Level: 8 → 9
+  Class Auto-Bonus: +3 AGI, +2 INT, +1 WIS
+  AGI: 22 → 25
+  INT: 22 → 24
+  WIS: 12 → 13
+  HP: 204 → 218
+  MP: 360 → 385
+```
+
+```stat-screen
+[LEVEL UP — Vesper Castillo-Huang]
+Level: 10 → 11
+  Class Auto-Bonus: +3 INT, +2 WIS, +1 RES
+  INT: 27 → 30 (with Lv. 10 +4 INT formal)
+  WIS: 25 → 27
+  RES: 15 → 16
+  HP: 200 → 212
+  MP: 520 → 560
+```
+
+Solenne went last.
+
+She stood in front of the terminal in the warm amber light of the Transition Hall between Floor 10 and Floor 11, with five people behind her who had each walked to this interface and confirmed something they already knew. She placed her hand on the display. The surface was warm -- warmer than System terminals usually were, or perhaps she was feeling the residual heat of five people's choices still present in the interface.
+
+The selection appeared.
+
+```stat-screen
+╔══════════════════════════════════════════╗
+║  CLASS SELECTION: CONFIRMED             ║
+║                                          ║
+║  Solenne Achebe-Park                     ║
+║  Class: ARCANIST (Advanced)              ║
+║                                          ║
+║  The one who studies magic because       ║
+║  knowledge is the most generous gift     ║
+║  you can give people who need it.        ║
+║                                          ║
+║  Skill Confirmation:                     ║
+║    Harmony Conductor                     ║
+║    (Passive — Class: Formal)             ║
+║    All Harmony Skills route through      ║
+║    the Arcanist's RES for power          ║
+║    calculation. The System recognizes    ║
+║    what was already in practice.         ║
+║                                          ║
+║  Status: CONFIRMED                       ║
+╚══════════════════════════════════════════╝
+```
+
+The echo was her own.
+
+Not from outside -- not the Conductor receiving someone else's Aspect through the channel. This was the Trueweave expressing at the moment of formal recognition, and what it expressed was all of them. All six Aspects, simultaneously, for a fraction of a second that lasted longer than fractions should. Steadfast weight. Warmhearted current. Openhanded direction. Clearvoiced line. Brightspirit break. And underneath them, holding them together, the Trueweave -- the synthesis, the connection, the thing that made the other five into a chord instead of separate notes.
+
+The fraction of a second ended. Solenne stood at the terminal with her hand still on the interface and her RES at 19. One point from the threshold. She could feel where it was -- the architecture of the full Composite, the shape she had perceived for two seconds during the Resonance Surge. It was close. Close enough that the almost was a physical sensation, a door she could see but not yet open.
+
+She stepped back.
+
+---
+
+Someone sat down.
+
+It might have been Nadia. It might have been Dayo. Solenne was not tracking the precise sequence because she was still standing with the echo of six Aspects fading in her awareness and the Annotated Staff warm in her hands. What she noticed was that within two minutes, all six of them were sitting on the floor of the Transition Hall between Floor 10 and Floor 11. Not on benches. Not against walls. On the floor, in the middle of the Hall, in the warm amber light that was not quite gold.
+
+This was not where you were supposed to sit. None of them appeared to be bothered by this.
+
+Solenne looked at them. Dayo in the First Boss Coat, legs stretched out, one hand in her pocket and the other resting on the bracer with its four tally marks. Miriam beside her with the clinical notebook closed on her knee and her posture carrying the specific relaxation of someone whose patients were all stable. Vesper cross-legged with the Sentinel's Fang across her thighs, still tracing the material's grain with absent fingers, her mind somewhere in the future where the Epic crafting material became something useful. Tomás sitting slightly apart with his back straight and his longbow laid beside him, the Root-Walker Greaves silent against the stone. Nadia close to the group -- closer than her usual orbit, the green scarf bright against the dark floor, her expression carrying something underneath the surface.
+
+Six people who had just been confirmed in who they were by a System that had known the answer before it asked the question. Six people sitting on a floor because they had earned the right to sit wherever they wanted.
+
+Solenne set the Annotated Staff across her knees. She found the notation strip near the base -- the one with *designed* written in small letters, and *Almost* below it in the fine-point marker she kept in her utility belt. She looked at those two words and she breathed in once, slowly, and she told them everything.
+
+---
+
+She told them about the sealed spaces. Three floors -- Five, Six, Eight -- where Tomás had perceived text built into the Tower's architecture in a language that no living person should be able to read. Six qualities described in that text, corresponding exactly to the six Harmony Aspects: Steadfast, Warmhearted, Openhanded, Clearvoiced, Brightspirit, Trueweave. Written before Day Zero. Written before the System. Written into the Tower's foundation the way load-bearing walls are written into a building -- not decoratively but structurally, as part of what made the thing stand.
+
+She told them what it meant. The Tower was not adjusted for them. It was designed for them -- or for people exactly like them, which was the same thing when the design was this specific. Six Aspects. Six people. Six classes that the System had assigned on Day One without alternatives because the alternatives did not exist for what they were.
+
+She told them about the Harmony Conductor's formal confirmation, about what she had felt during the Resonance Surge -- two seconds of the full chord, all five Aspects and her own sounding together through a channel built to carry exactly that. She told them she was one point of RES away from a threshold she could feel but could not cross. She told them the System had not created Harmony. It had found it. And then it had found them.
+
+Tomás sat with his back straight and his eyes steady while she spoke. He had carried half this weight since Floor 5. His expression as she laid it down was the expression she had seen through the Conductor during the Resonance Surge -- relief. Not the dramatic kind. The quiet relief of someone who no longer had to hold something alone.
+
+Nobody interrupted her. Nobody asked clarifying questions. Nobody said *wait, go back*. They listened the way they fought -- together, with the particular quality of attention that ten floors had built into the spaces between them.
+
+When she finished, the Transition Hall was quiet.
+
+---
+
+Six people sitting with it.
+
+The amber light held steady. The silence was not uncomfortable -- it was the silence of something landing, settling into the ground, becoming part of the foundation. Solenne watched it happen in the way each person processed what she had said.
+
+Dayo looked at her bracer.
+
+She ran her thumb over the four tally marks -- one for each major floor they had cleared, scratched into the inside of the left bracer with varying depths and angles depending on how steady her hands had been at the time. The Floor 9 mark was shallow and uneven. The Floor 7 mark was deep. She looked at the empty space after the fourth mark and she took the edge of a gauntlet finger -- the Composite Striking Gauntlet, the one Vesper had built to fit her hand exactly -- and she scratched a fifth mark.
+
+It was different from the others.
+
+Slightly larger. Not deeper -- larger, with a wider stroke, as if the thing being marked was not the same category as the previous four. It sat at the end of the row, distinct without being separate. Documented without comment. The difference was visible and she did not explain it and nobody asked because nobody needed to. This floor had been different from the others. The mark was different from the others. That was the complete communication.
+
+Nadia was the first to speak.
+
+She had been quiet since the full disclosure -- quiet in a way that was unusual for her, a silence that was not performing stillness but actually sitting inside something that was too large for the usual tools. She looked at Solenne. She looked at the ceiling of the Transition Hall, as if confirming that the Tower could hear her. She looked back at the group.
+
+"So the Tower has been waiting for us since before we were born," she said. "The System traveled across the universe or whatever to find six specific idiots in Chicago, and we have been treating this like homework."
+
+She paused. The timing was precise -- the pause of someone who knew exactly where the beat fell.
+
+"I want it noted that I think the universe has extremely good taste."
+
+Solenne laughed.
+
+It came out of her before she could manage it -- full, genuine, slightly surprised, the sound of someone who had been carrying weight since the rest-node conversation with Tomás and had just put some of it down. Not the polite laugh she gave when she could tell Nadia needed someone to laugh. Not the analytical laugh she produced when she understood a joke was well-constructed. This was the real one, the one that came from somewhere underneath the competence and the preparation and the anxiety about being insufficient. It was the laugh of a twenty-one-year-old sitting on the floor of a Tower that had apparently been designed for her, surrounded by five people she trusted with her life, hearing the funniest true thing anyone had ever said.
+
+Miriam closed her clinical notebook. Not put it away -- closed it, the cover folding over the pages of daily condition records and observation logs, her hand flat on the surface for a moment before she let go. She would open it again. But she closed it now, in this moment, and the gesture carried the weight of everything they had been through.
+
+Vesper was watching Nadia. Specifically, she was watching the green bandolier -- the Tier II grenade bandolier that crossed Nadia's chest, the one Vesper had built and Nadia had used throughout ten floors without ever treating it as anything other than exactly hers. Vesper watched Nadia use something she had made, and she did not look away. She did not redirect her attention to the Sentinel's Fang or the consumable inventory or the next thing that needed crafting. She stayed in the moment of her work being used, being worn, being part of who Nadia was in the world, and she let herself see it.
+
+It was the first time she had done this.
+
+Tomás said: "The door is still there."
+
+He said it the way he said everything -- clean, necessary, neither more nor less than what the moment needed. True. The door to Floor 11 was still there at the end of the Transition Hall, closed, waiting. They had been sitting in the aftermath of ten floors and a revelation and a joke that was also the truest thing anyone had said, and the door had not moved. The Tower was patient. But the Tower was also waiting.
+
+It was also, in its own way, a small act of care dressed as information. The moment needed to end. He ended it gently.
+
+Dayo stood up.
+
+She rose from the floor of the Transition Hall with the economy of someone whose body understood how to go from still to ready in a single motion. The First Boss Coat settled on her frame. The bracer with its five marks -- four identical, one different -- caught the amber light. She looked at Floor 11's door.
+
+"Yeah," she said. "It is."
+
+The six of them faced Floor 11's door. The amber light held. The System terminal behind them had gone quiet, its display dimmed to standby, its work complete. Somewhere in the Tower's architecture, in a language no one alive could read, six words described six qualities that described six people who were now standing in a Transition Hall facing a door they were going to walk through together.
+
+The door waited.
+
+They were ready.

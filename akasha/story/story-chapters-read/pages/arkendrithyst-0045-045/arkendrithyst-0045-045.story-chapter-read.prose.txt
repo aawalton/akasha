@@ -156,3 +156,608 @@ Erick entered the Mage Guildhouse and walked up to the main desk. “Hey, Anheli
 
 Zago’s office was as plush, and yellow, and teal, as Erick remembered. The same exposed grey stone walls and floating doodads and hanging rugs were in mostly the same places. The many chalkboards and many arcane circles that were strewn about the room last time were now mostly stacked to one side of the room, or simply not there. The black and white pair of cats were still there; they were eating from a pair of dishes beside Zago’s desk.
 
+“Because they are elementals,” Zago said, from her chair behind her desk, in answer to Erick’s question. “A construct is an elemental is a construct, though people usually say ‘construct’ when they talk about something created by a person. ‘Elemental’ is used when talking about something found in nature.” She gestured toward the western windows of her tower office. “You can find stone and air elementals out there in the Crystal Forest, if you’re lucky. They’re just as mindless as the ones you summon, though.”
+
+Erick sat back in his seat. He thought. He said, “The ones I’ve summoned don’t seem mindless. They act like normal birds.”
+
+Zago smiled. “Then you’ve already reached a rather decent proficiency with [Conjure Force Elemental]. But don’t fool yourself; they are not alive.” She explained, “It’s like this: The manasphere carries souls to their destinations, or dissolves them into itself if the soul cannot sustain themselves without a body. This intimate relationship between souls and the manasphere leads many to conclude that the manasphere is alive itself, but it is not; what people are seeing are echos of life; memories and ideas. Sometimes these echos catch onto each other, culminating in a spark in the world that transforms whatever it sparked upon into an elemental. Rolling piles of rock, twists of air that never dissipate; these are elementals. They appear alive, but they are not; they have no soul; they are constructs of mana. Even monsters have souls. Every living thing has a soul.
+
+“[Conjure Force Elemental] takes this echoing process and puts it in the hand of a mage. If you are able to produce a clear enough echo, the spell picks up on that, and out pops something that looks and acts very much alive, but it is not. It has no soul.” Zago said, “The [Familiar] in the Script, though… That creates enough of an echo in the manasphere to produce a minor soul; a truly living being that will grow into a real animal, if it lives long enough.”
+
+Erick frowned, taking that all in.
+
+“Mana… is not a soul?” he asked.
+
+“Souls are not mana, mana is not a soul. Is a cloud in the sky, the sky? Is a jelly in the ocean, the ocean? No, of course they aren’t.”
+
+Erick took a look at the [Familiar] in the Script.
+
+Familiar, instant, close range, 500 MP + Variable
+
+Create a permanent, thinking, feeling, telepathic, level 1 being, that is predisposed to like you, who will change as they grow based upon how you raise them.
+
+See through their eyes, Variable
+
+Imbue them with spells, Variable
+
+WARNING! Unkind treatment of a Familiar may result in your Familiar acquiring Class: Slave, and then killing you for 95% of your experience points.
+
+Purchase [Familiar] for 1 point? Yes/No
+
+No!
+
+“Wow.” Erick said, “That warning text! Why is this spell even in there?”
+
+Zago nodded. “All spells have their own quirks which make them special, and [Familiar] is no exception. Of all the random nuances to combining [Conjure Force Elemental], [Telepathy], and [Scry], none of those combinations will ever create what the Script [Familiar] creates, at tier 2.” She said, “It is speculated that the Script’s version of [Familiar] is a lock, and also a warning, that removes the possibility of accidentally creating a soul when you’re trying to make your own [Familiar].”
+
+“So I won’t accidentally create something that will murder me?”
+
+Zago smiled. “Only if you use [Telepathy] and [Scry] in the creation of [Conjure Force Elemental]s above tier 4. [Telepathy] with [Conjure Force Elemental] is fantastic because it allows a long-lived [Conjure Force Elemental], like a [Familiar], to grow with every mental command you give it, retaining an echo of your commands as part of its very being, but that growth is limited by the tier of the spell. Tier 2 and 3 are safe. Tier 4 is iffy, but okay for things that don’t last long, though most would see that as cruel, if they understood what they were looking at. With tier 5 and above, you’re putting more than enough mana and thoughts into your elemental to cause its internal mana to spark into a soul; the elemental then becomes a real being, separate from you, and no longer an elemental.” She added, “To some summoners, this creation of life from nothing is the ultimate pinnacle of their art. To almost everyone else, this is an evil act, that you deserve to be killed for. This type of magic is technically soul magic.”
+
+Erick frowned. Then he nodded, saying, “Thanks, Sirocco.” Erick gestured toward the space that used to hold the chalkboard with people who had discovered new Particle spells. “Where’s the list? Everything discovered, yet?”
+
+“Oh, my, no. Most of us in this little circle upgraded to a list that is still shifting around…” Zago paused to rummage through a cabinet in her desk. “We transferred to this. One second.” She pulled out a thick folder of loose leaf paper. She put it on the desk between them. “Take a look. We’ve started organizing by item, now. Iron, gold, water. That sort of way. It’s actually much cleaner, though messier at the same time.”
+
+Erick opened the folder. It was full of handwritten notes and tiny maps, from places all over Verid.
+
+… Yup. Zago was right. This was much messier. Though…
+
+… Going over the papers…
+
+… [Gold Grab]…
+
+… Daydropper theories. Oh. Erick would have to read more about that…
+
+… people trying to control the weather through applications of water…
+
+… progress on that front. Some lady invented dust devils, hitting the ceiling of ‘medium-sized’ spells…
+
+Erick read for a bit. Zago watched which ones Erick read. Soon, he stopped. He had read enough, for now. According to Zago’s folder, a lot of people were focused on a few aspects of particle magic, namely hot, cold, water, metals of all kinds, air, electricity, and light. Erick could use those focuses to create some SLR particle spells that would only work on monsters, or be unable to be used to directly kill. Erick was completely sure that whatever he created could be mutated into a kill spell by some nefarious person or persons, but he could head off the deadlier, more obvious uses.
+
+“I’m going to try and create some SLRs for a few of these that only work on monsters. I’m pretty sure I’ve already created the water, electricity, and sound spells.”
+
+Zago scrunched her face a tiny bit. She hummed.
+
+“What?” Erick asked.
+
+“I don’t think it’s that simple.” She relaxed. She said, “But you’re welcome to try.”
+
+“… Why is it not that simple?”
+
+“Because particle magic is vast. Even if most people are locked to medium-sized spells, the pure variety I’m seeing makes me think that it might be as large as Basic Magic 101, which is 2 years of study and covers 350 spells. So far, for Iron alone, there’s 20 new spells that I know of.”
+
+“Oh.” Erick said, "Well that's something to think about, for sure."
+
+"Quite."
+
+- - - -
+
+Erick knocked on the door to the Mage Trio’s house.
+
+A quiet yell came out from within, “One sec!”
+
+A moment passed. A light blue [Scry] eye appeared to Erick’s left. He waved at it.
+
+Something crashed on the other side of the door. Someone cursed, loudly.
+
+Eduard opened the door, wearing a disheveled robe tied tight. He exclaimed, “Archmage!” Eduard stepped out of his house, closing the door behind him. “Uh! Hello! What, uh, brings you here? Uh?”
+
+Erick smiled. A linger of thick air was drifting away from Eduard’s clothes. If Erick was a guessing man, he would have bet that he had just interrupted Eduard and someone, likely Ramizi, getting up to some shenanigans. That might have been Ramizi's voice Erick heard cursing earlier.
+
+Erick stamped down his smirk as he said, “I’m making some desserts and would like to know if you three would like to come over and talk about stuff, like about the Quiet War and Kal’Duresh, and I want to invent the SLR versions of some popular spells that the community seems to be pursuing so that they’re locked to monster only. I would like to know what you think about my thoughts.”
+
+Eduard went from obviously flustered, to intrigued, to worried, then ecstatic. He contained his mirth, as he said, “Absolutely, Archmage. What time?”
+
+Erick looked to the sky. The sun was a few hours from setting. “Either in a few hours, or tomorrow afternoon.”
+
+“How about both!?” Eduard cleared his throat, then spoke calmer. “We can talk a bit later, then do more tomorrow?”
+
+Erick smiled. “Sure.”
+
+- - - -
+
+Maia sloshed her beer, saying, “That fucking Quiet War— Eduard and I shoved off that nasty business when I was fourteen and my Da wanted Eduard to join Kendry’s army.”
+
+“Fuck the angels!” Ramizi said, for the second time.
+
+Eduard laughed, “Fuck the angels! Grandma in particular.” Eduard shivered.
+
+Ramizi and Maia laughed, while Erick chuckled over his slice of lemon meringue pie. He was really quite happy with how the pie turned out without having access to cornstarch. What even was cornstarch? It appeared the Mage Trio was happy with the dessert, too; they were on the second pie.
+
+Erick asked, “Did you hear about the daydroppers in Frontier and Kal’Duresh?”
+
+Maia groaned. Eduard did too, but much less animated.
+
+Ramizi said, “Yeah. How did that even happen? I pinged my Quest at noon. When did you go to the cities and kill the daydroppers?”
+
+“Before noon, and then after. I think.”
+
+“Yeah! Makes no sense. They must have had antirhine shielding, but I haven’t heard anything about anyone finding rooms lined with antirhine.” Ramizi said, “I’d hear about something like that; we’ve been looking out for such a thing for a while, now, for unrelated reasons.”
+
+Erick would get back to those ‘unrelated reasons’ later. He asked, “Is antirhine expensive?”
+
+“Shouldn’t be.” Ramizi said, “Almost all mines refine their ore using [Metalshape]; antirhine just falls out, untouchable. It’s pretty common, but it is tracked and is artificially expensive, because it takes a skilled blacksmith— like, actually skilled, not with a Skill— it takes a skilled blacksmith to turn that soft shit into anything usable.”
+
+Eduard held up a fork full of lemon pie, saying, “Yeah. But… The divine [Scan] of a quest can be tricked because it’s a spherical pulse that won’t see something behind antirhine, but if an oozy spell can find a hidden daydropper, then a city guard’s top-tier [Scan] spells should have found it, too.”
+
+Maia said, “Well now they know to personally investigate those blank spots on their mana sense.”
+
+Ramizi said, “Like I said: I would have heard about that before now. I’ve been looking around here, and in Frontier. Can’t go near Kal’Duresh, though, for obvious reasons.”
+
+Erick smiled. There was just so much to learn about magic. He asked, “I’ve never heard of [Mana Sense]. What’s that?”
+
+Maia shook her head. “It’s not a spell or a skill. It’s… not an upgrade to Meditation, but it kinda is. You won’t find it in the Script. You just have to get really good at seeing mana. Ramizi’s got a great mana sense.” She grabbed another slice of lemon pie.
+
+Ramizi said, “It’s easier to get in tune with your mana sense if you drop down to using Meditation 1 and practice for a while with all those handicaps. Immobile, blind, you know. If you have the knack for it, you might be able to see the world how ambient mana sees the world.” He sipped his beer, saying, “It’s like wardwork; some people are better than others. Here. I’ll show you.” He got a far-off look in his eyes, as he said, “You can tell I’m not using [Scry], right now, right?”
+
+There was no glow in his eyes, but Erick looked with Meditation anyway. He had no visible spell effects going except for a [Personal Ward]. Erick smiled, saying, “That could be possible.”
+
+“I’m not lying!” Ramizi said, “Hold up some fingers behind your back.”
+
+Erick laughed, then held up two fingers behind his back, saying, “This is a great party trick.”
+
+“Two fingers!” Ramizi said, blinking, shedding tears. “It’s a sting to switch between modes, but a good mana sense is crucial for a lot of different applications. Great for alchemy; you can see if the plants you’re using have the correct amounts of innate mana.”
+
+“That sounds really nice.” Erick said, “I’ll have to work on that later. I love the parts of magic that aren’t in the Script.”
+
+Eduard and Ramizi laughed.
+
+Maia smiled, saying, “You would say that, wouldn’t you.”
+
+“When I got here, I thought the whole idea of magic was just ridiculous. Like, imagine if you fell to a world where there was no magic, 90% of your life is using mechanical assistance of some kind, and the only semi-magical thing you have are [Scry] and [Telepathy], but they’re not your own; you have to tap at books to use those abilities. How would you react?”
+
+Maia frowned. She sipped her beer. “Poorly. I would miss [Fly] the most.”
+
+“Tapping at books?” Ramizi grimaced. “Can the books do whatever I want?”
+
+“If you’re really good, you can talk to people and discover things you shouldn’t, like the ability to take money from bank accounts that aren’t yours. But not only would it take years for you to reach that proficiency, you’d get government agencies after you. The only semi-magic you have is [Scry] and [Telepathy], and not even those, really.”
+
+Ramizi grumbled. “No thanks.”
+
+Eduard said, “There’d be a learning curve. I think I could do it.”
+
+Erick smiled. “I’m still on that learning curve. But I think I really like magic, now that I’ve been here for a while. Wardlights and [Grow] and flying! Oh my gods flying is one of the best things ever. I don’t like people using magic to hurt others, or the rigidness of the Script, but everything else about this whole experience has been quite amazing, and I can appreciate that the Script is a liferaft from another universe.”
+
+Maia smiled softly, then said, “You really should meet the Headmaster sometime. He’s a great guy. People and countries come to him with monster and murderer problems and he sends out teams to solve those problems. Us three might live here, but we still go on missions for Oceanside.”
+
+“That’s those ‘unrelated reasons’ I was talking about.” Ramizi said, “We’re trying to find a necromancer who set up somewhere north of here, but the Crystal Forest is just so massive and the guy might be underground and ugh! Not a great assignment. You always suspect that these people are hiding behind some antirhine shielding, but I never sensed any obvious blank spots around Spur. Or Frontier.”
+
+Maia grumbled, “We knew every quest he gave us would be like this, Ram, well before we came out here. Spur is the only happening place in the middle on a vast, vast nowhere.”
+
+“I can still whine about it if I want.”
+
+Erick asked, “Is your necromancer related to the Halls of the Dead? How would you search the Crystal Forest for something like that, anyway?”
+
+“Over and over and over, is how you search the Crystal Forest.” Ramizi refilled his beer. "Over and over and over..."
+
+Eduard said, “We use [Familiar]s imbued with [Scent Tracker] and [Ultrasight] along a grid. When they catch a whiff of dead flesh or see something out of place, they alert us. Then we go out and do some searching spells, while Ramizi uses his mana sense.” Eduard looked toward the window; it was dark outside, an hour past sunset. “We don’t expect to find anything unless the necromancer messes up, though. Our [Familiar]s have been re-searching the same lands for days, but the Headmaster will let us know if plans change.”
+
+Maia said, “We’re not sure of the species or the age, or anything about the necromancer we’re after, really, aside from their magical signature, and the knowledge that they reaped a village then cut a bloody swath through the jungle to the port city Eidolon. The city turned them back, but they still killed thousands of people. The Headmaster tracked the necromancer up here, so here we are, for now. ”
+
+Erick asked, “How is the Headmaster able to search the world like that?”
+
+Maia smirked, then said, “Tier 9 [Eyes of the Goddess]. The Headmaster might be Second to Rozeta, but it's still a massive spell; he has to use a ritual. [Eyes of the Goddess] can search the whole world, though, inside and out, narrowing down a search area for anything or anyone to 500 kilometers. He’s always sending people out on rough assignments like this.”
+
+“Wait wait.” Erick asked, “Second to Rozeta? That sounds important.”
+
+Maia laughed. “Huh?”
+
+“You didn’t know that?” Ramizi asked.
+
+“I don’t know a lot of things,” Erick said.
+
+Eduard said, “If Rozeta ever dies or retires, the Headmaster will instantly ascend to God of the Script; he’s Rozeta’s Second. That’s what that means.”
+
+Erick laughed. “Okay! Maybe I should meet the guy.”
+
+Maia chuckled. “You really didn’t know that?”
+
+“I’m learning!” Erick said, “There’s a curve.” Erick looked to the remains of his lemon meringue pie. “Maybe I’ll bring him a pie.”
+
+Ramizi chuckled, saying, “He would love a lemon pie. That's not sarcasm, either. He has a weakness for sweets."
+
+Erick smiled, then said, “So. About these spells—”
+
+The Oceanside Trio emotionally snapped to attention; physically, though, Maia just sipped her beer, Eduard stuck his fork into his slice of pie, Ramizi grinned. They were playing it cool.
+
+“— Zago said that inventing them at all would be a fool’s errand, because Particle Magic is turning out to be truly vast. But I still think I should invent some monster-only spells, to give a correct base for those who come later. What do you think about this?”
+
+Eduard relaxed into silence. Maia did much the same.
+
+Ramizi eventually said, “You have to do it. There is a void in the upper reaches of Particle Magic right now, and you have a responsibility to fill that void responsibly. Even if you’re just creating a few starting points. If the first spells available to future Particle Mages are [Withering] and some anti-monster fire spell, then that's a good start.”
+
+Erick smiled. “I agree.”
+
+Maia spoke with an exasperation in her voice that sounded personal, “Where would you even start?”
+
+Erick answered, “Hot, cold, metal, and light. I think water, electricity, and air are already done. Namely [Withering], [Call Lightning], and [Stillness].”
+
+“Is that really all the complexity you see, here?” Maia asked. “I’ve made three heat spells, thanks to the clues you gave me, but… people have made hundreds of particle spells. Other people have made heat spells now, too. Iron has a dozen variations each from minor, to small, to medium.”
+
+Eduard said, “The initial gold, silver, and platinum spells, from minor to small to medium, have all been made, and locked behind Registrar Only. But people are still making them. They’re getting points, but the spells are all getting taken away and becoming Registrar Only. Then you’ve got iron; that’s a big one and people are allowed to keep those spells. This one guy back in Oceanside made [Molecular Iron] which is a minor-sized spell that strings iron out into a super-thin string that can slice through almost anything, but breaks down as soon as it touches an [Absorption Ward]. This other dude made another minor-sized iron and electricity spell, [Magnetize], that creates permanent lodestones. Not having to buy those things will be nice, but… I don’t think it’s possible for you to create the spells you want to create, and ‘lock out’ other variations that other Particle Mages might make.”
+
+Ramizi said, “You’re thinking too close to the problem, Eduard.” Ramizi turned to Erick, “Create more spells like [Stillness]. Drop the temperature in an area to a specific range. Prevent strong light or dark effects. Make metal… Unresponsive to magic? I don’t know. I lost the wave on that one. Maybe just prevent damage all together? No idea how anyone could make a spell like that, though.”
+
+Erick paused. He smiled. He said, “You know, Ramizi? That’s a really, really good idea. Thank you.”
+
+- - - -
+
+The next day, in the afternoon, after the rains upon the farm, Erick, Maia, Eduard, Ramizi, Zago, a bronzescale attendant to Zago, along with Poi and Teressa, stood on a 10 meter by 10 meter platform of stone, erected twelve kilometers north-east of Spur. A few chairs and tables and overhangs provided a few creature comforts, but the place was hastily constructed; it was not meant to last.
+
+Zago had been a little miffed upon formally meeting the humans; she would likely always be miffed at them, but she was a consummate professional. She greeted them with a mien of a guildmaster to people who should have checked out her guild already, but hadn’t. After the talking got going, though, she seemed to warm up. The Oceanside Trio started warm and stayed warm, though.
+
+Zago stood under a stone awning, shaded from the sun, and eventually said, “I think your idea of creating the anti-spells first has great merit, Mage Ramizi. Particle magic is already attuned to the denial of other Particle spells.”
+
+“Thank you, guildmaster,” said Ramizi, under a separate awning.
+
+Erick asked, “No one have any ideas on how to make an anti-damage spell, though?”
+
+Zago shook her head, saying, “The conclusions my people are finding are not promising.”
+
+Eduard said, “The Headmaster said he will look into it, but expects zero results; HP and [Absorption Ward]s already do this, and are already incredibly complicated magics within the Script.”
+
+Zago said, “We have time to create this magic; it need not be made today, with some half-baked idea of what ‘damage’ actually is, or what have you. A badly conceived idea will just return an Error.”
+
+“Not today, then. I agree.” Erick looked out into the Crystal Forest. “The anti-extreme temperature one should prove the easiest.”
+
+Immediately, a dozen differently colored [Temperature Ward]s and [Weather Ward]s popped up around the gathered audience. Erick nodded. He walked to the side of the stone platform, and put up his own pair of [Ward]s, one to the left, one to the right, with himself in the middle, in the Venn Diagram center under both white [Ward]s; he would need to see which one of the [Ward]s actually worked with the spell he was about to create.
+
+Erick breathed in the air of the Crystal Forest, feeling the ocean of mana above him. He chose to go with an imperfect rhyme, to drop the cost to 250 and make the spell available for everyone, like with [Stillness]. He spoke to the sky, his voice vibrating the air.
+
+“A gentle breeze, a day of calm.
+
+“Today we take extremes and twisted,
+
+“an ocean soaks, creates a balm.
+
+“Fire fails as ice turns liquid.
+
+“Hate may form, but is [Restricted].”
+
+The sky shifted. Erick fell to Poi’s waiting arms. A glowing rod of [Treat Wounds] touched Erick’s shoulder. He waited for something else to happen. But the shift in the sky righted itself. A great big nothing happened. And then…
+
+Like raindrops, blue boxes struck Erick, one after the other.
+
+Error!
+
+Error!
+
+Error!
+
+Error!
+
+A deluge of blue boxes crowded out Erick’s sight, but all he could see was red. Warmth flowed down his face, tasting of salt and iron. Poi jabbed him with [Treat Wounds], while yelling something Erick couldn’t hear; his ears were bleeding, too. People moved all around Erick; people moved Erick around. He couldn’t breathe; he couldn’t move. He was a man locked into his body, and his body was dying.
+
+Error!
+
+Error!
+
+The world split. Erick was somewhere else. Blue boxes kept filling his blood-wet eyes. Someone was yelling. Another person yelled back. Erick felt underwater; nothing was close, nothing was real.
+
+Error!
+
+Error!
+
+Error!
+
+Error!
+
+A pair of silver dragonkin appeared among the blue of boxes and the red of blood. One of them cast something. Then they cast the spell again. And again.
+
+Erick gasped out blood, then gasped in air. He breathed. He could feel something besides pain.
+
+Error!
+
+The silver dragonkin cast the spell again. And again.
+
+Erick laid back. Error boxes slowly closed. Pain ebbed away, like a receding tide. He breathed. He listened to people argue nearby, some loud, some quiet and deadly.
+
+A new box appeared.
+
+Processing!
+
+Erick did not have enough strength to move his body, but he could breathe.
+
+He could read.
+
+Congratulations!
+
+You have created a new Basic Spell. Your spell has been added to your skills for free!
+
+The spell you have created will appear in the Script after a year and a day.
+
+Your spell is the alpha version, and will shift with time and use.
+
+The spell that appears in the Script might be different.
+
+Here is your spell:
+
+Zone of Peace 1, instant, 1 hour per level, super long range, 500 MP
+
+<All magic cast inside Zone of Peace with the intent to harm, or entering a Zone of Peace with the intent to harm, is transformed into a Cleanse of commensurate size.> Zone of Peace has no effect on ongoing magic.
+
+Rozeta thanks you for enriching the Script.
+
++12 ability points.
+
+And then came a personalized blue box.
+
+It’s like this, Erick:
+
+That was not a good spell.
+
+And
+
+Zone of Peace is now under Koyabez’s control. I’ve already removed it from your available spells. If you wish to regain this spell, then you must talk to him. For what it’s worth, he’s happy and will likely be amenable.
+
+The problem has arisen because the manasphere loves you, and with that love, it veered off from particle magic and tried to control the Script. Don’t do this again. I won’t be allowed to allow you to survive a second time. Truthfully, I’m not sure I should have allowed you to survive this time.
+
+The Relevant Entities are watching, and they are pissed.
+
+I’ve stripped your Class down to 1 unlocked ability to appease the Relevant Entities. Even though you and I both know that you never did anything with your Class abilities, this is enough for Them for now. The Relevant Entities are starting to call you wizard, and I can’t blame them.
+
+Because you are.
+
+You would have been one of the greats. You would have been there to help us stop the Sundering, or helped us pick up the pieces after we all failed. If you had turned up in the Old Cosmology, at the right time, maybe the events that lead to the Sundering would never have happened.
+
+But you came to us in the wrong time, and this is the world we live in.
+
+Sorry it had to be this way.
+
+This message will vanish as soon as you are lucid enough to understand what it says.
+
+~Rozeta
+
+Erick read the message a second time, and just like Rozeta said, the message vanished from his notifications. Erick brought up his Status, and his Class.
+
+Erick Flatt
+
+Human, age 48
+
+Level 39, Class: Particle Mage
+
+Exp: 659,855,559/10,233,415,500
+
+Class: 1/6
+
+Points: 16
+
+HP
+
+600/600
+
+600
+
+MP
+
+900/900
+
+6000 per day
+
+Strength
+
+20
+
++0
+
+[20]
+
+Vitality
+
+20
+
++0
+
+[20]
+
+Willpower
+
+30
+
++0
+
+[30]
+
+Focus
+
+50
+
++0
+
+[50]
+
+Favored Spell waiting!
+
+Favored Spell waiting!
+
+Particle Mage
+
+<empty>
+
+If you witness a Particle spell and you understand it, you may unlock that spell for free.
+
+<empty>
+
+<empty>
+
+<empty>
+
+<empty>
+
+Just like Rozeta said, [Zone of Peace] was nowhere to be found in Erick’s Status.
+
+Erick closed his eyes. Sleep was a great idea.
+
+- - - -
+
+Erick opened his eyes to a grey stone room. The sun shone in from the left, onto the floor. He was comfortable, but people were talking nearby. Erick sat up, groggy. He was on a plain bed in a grey room, with an open archway leading to a much larger room. Someone walked past the room, carrying linens and wearing the robes of an acolyte. Erick swung his legs off of the bed and sat up, grumbling.
+
+Darenka, silverscale head priest of Spur’s Interfaith Church, appeared at the doorway.
+
+Erick said, “Hello-oww.” He clutched his left side as a twinge of deep pain scattered through his chest.
+
+“Bah! Still got a pain, eh?” Darenka walked over, hand glowing. As she touched his shoulder, Darenka’s magic spread through him like a warm balm. “You made a right mess of yourself and sparked a lot of hatred. The only gods on your side are Atunir, Koyabez, Rozeta, and Phagar. Powerful friends, for sure, but you’re already not Sininindi’s favorite person, and aligning with Koyabez puts you at odds with the Demon King, the Crown of Heaven, and Sumtir, the God of Righteous War.” She frowned. “I ain’t never seen someone so recklessly piss off so many gods; they’re bitching at me like never before.” She confided, “This old priest feels quite out of her league, presently.”
+
+Erick’s face slowly fell into more of a frown the longer Darenka spoke. “I’m sorry.”
+
+Darenka folded her arms, standing a few feet away, waiting for more.
+
+Erick had a lot of thoughts, right now, but all of them were pointed in the same direction.
+
+He said, “I feel guilty. I brought particle magic to your world, on a whim and now there’s daydroppers and…”
+
+I dug too deep.
+
+Just like the Old Wizards.
+
+Darenka said, “A bit of guilt helps people keep their head on straight, but don’t you go taking on my world’s woes. This nastiness over in Odaali is not your fault; you are not my savior, you are not the savior of the Greensoil Republic.”
+
+“I never said I—”
+
+“Don’t act like it, then! They got their own heroes and villains over there. If one of them comes to you, make ‘em coffee and talk about their problems, but you ain’t done shit except try to be a good man.” She added, “And for the most part, you’ve succeeded.”
+
+Erick breathed.
+
+There was a lot of sense in Darenka's words. Erick didn’t want to be a hero, but if he kept trying to put himself out there like this, touching the extremes of magic, he might accidentally become a villain. The people around him might not have called him a wizard, but Rozeta had; the people of Spur might not be far behind.
+
+And that was more than enough of a shock to make him reevaluate his whole outlook.
+
+He said, “Okay. You’re right. I need to take a step back.”
+
+Darenka blanked, then laughed. “‘Okay’?! Just like that? No! Don’t you just accept what I say as truth! I had this whole conversation laid out in front of me and you are not about to deny me my priestly duties. So come on, tell me why I’m wrong. I can take it.”
+
+Erick smiled, asking, “And what if one of the villains comes to me? How would I even know the difference? What would I say?”
+
+“I’ve spoken to my fair share of villains in my time." Darenka smiled at him. "[Sense Intent] helps to know if it’s time to defend yourself.”
+
+She was using [Sense Intent] right now, wasn’t she?
+
+“How do you learn that spell?”
+
+“Don’t you already have at least one God you need to talk to? Maybe Koyabez can help.”
+
+Erick asked, “What if I actually am some player on the world stage? What if I am responsible for being someone’s savior?”
+
+“You already are, though.” Darenka said, “All the new farmers in Spur moved here because you promised them a life outside of the Greensoil Republic, and outside of the Wasteland Kingdoms. You want to take responsibility for your actions? Take responsibility for that one.”
+
+Erick chuckled, softer than before. He said, “You’re absolutely right.”
+
+“Of course I am.” Darenka said, “And once you get a [Familiar], you can leave that little tyke at the farms while you go on and do anything else you want to do. Heck! You could even explore the world with your daughter, if you wanted.”
+
+Erick smiled. He said, “You're right.”
+
+“Course I am! Everyone gots problems. I’m just here to help.”
+
+Erick paused. In another time, in another place, Erick would have said those same words to someone else who was also facing problems too big for them to handle on their own.
+
+Erick said, “Thank you, Darenka.”
+
+“Glad we got all that cleared up.” Darenka stepped away, saying, “You’re taking up a bed and we don’t have all day for you to get to your feet, so get out, and come back if you ever have any more problems. The Interfaith Church and I are here to listen, and to guide.”
+
+Poi stepped into view, just outside of Erick’s hospital room. He nodded at Erick. It was time to go.
+
+Erick stood up from the bed, and said, “Again: thank you, Darenka.”
+
+She smiled, “You’ll get a bill later. It won’t be too much, but the Church has to keep its doors open.”
+
+Erick chuckled, nodding. “Of course.”
+
+- - - -
+
+Erick went to the farms. He was only a little late.
+
+Redscale Valok was there in the temple, along with sand harpy Krakina and orcol Apogough.
+
+Krakina said, “Oh thank Sininindi! You’re alive.” Her feathers fluffed as she quickly added, “I knew you were alive! I wasn’t worried. You’re late, though!”
+
+Valok just glared.
+
+Apogough asked, “Are you okay, Erick?”
+
+Erick turned on [Exalted Storm Aura]. Mist rose from all around, turning into fog, condensing upward into clouds overhead. Erick said, “I was sleeping off some trouble.”
+
+Valok seemed to relax. He said, “I was worried.”
+
+“I made a promise to you three and to everyone else on these farms; I’ll be here on time, and if not, I’ll have a [Familiar] soon enough who can still bring the rain.”
+
+Valok frowned. “I meant... I was worried about you, personally. We all heard what happened. You left several bodies' worth of blood on the ground out there and inside the Church.”
+
+Erick paused. After that initial terrible image, Erick felt a tug at his heart. They were worried about him, personally. Erick felt that sentiment, deep inside. It was a bittersweet feeling. Like being back on Earth when his friends and coworkers welcomed him back from a hospital stay.
+
+He said, “Sorry to worry you. I’m better, now.”
+
+Valok nodded. “See that it doesn’t happen again.”
+
+Erick grinned.
+
+Apogough smiled wide, then said, “Glad to see you’re okay, Erick.” He looked out into the platinum rain. “Time to work.”
+
+Krakina, Valok, and Apogough walked into the rain. Erick watched them go.
+
+Krakina turned back, and went up to Erick. She looked like she was about to say something, but she stopped, and wrapped Erick in a quick hug. Erick returned the gesture, but Krakina pulled away almost as soon as it started, then preened her disturbed feathers with her clawed fingers.
+
+She walked away, saying, “Don’t you dare do that again!” She added, “Idiot human!”
+
+- - - -
+
+While Erick was playing with summoned birds, Al showed up with lunch and a frown.
+
+“Jane contacted me when you weren’t available.” Al set out hot sandwiches and disc fries onto a table in the temple, saying, “She panicked, but she couldn’t get away from assignment. I told her you were fine, and everyone else was telling her that, too. But I just didn’t know. So. Are you? Okay?”
+
+Erick sat down at the table. “Right to it then?”
+
+“Right to it.” Al sat down across from Erick, and slid him his sandwich.
+
+“I’m mostly okay.” Erick took his sandwich and unwrapped the butcher’s paper, saying, “Class mostly rescinded, the spell taken away, a general slap down by a deity.” The sandwich was meat and cheese, from the very same eatery Jane loved. “I won’t be trying to create any new Particle magic for a while. I will be creating [Familiar] when I’m more comfortable with the spell. I'm going to explore normal Script magic, I think.” Erick looked out into the rain. “Particle Mage down to 1 ability out of 6 doesn’t seem to have affected this spell, though.”
+
+Al nodded, holding his sandwich. He said, “The spell you lost… Was it good?”
+
+“[Zone of Peace]. In a super large area, turn all magic cast with the intent to harm into a [Cleanse] of commensurate size. No effect on ongoing magic.”
+
+Al nodded, saying, “Sounds like a good one.”
+
+“Yeah. I got 12 points for the creation.”
+
+Al laughed. “12!” He smiled. “That’s a good start for a beginner Mage.”
+
+Al started in on his sandwich. Erick ate too. It was delicious. The fries were great. Platinum water washed it all down. Erick was hungrier than he thought he was. Being out of it for a day would do that to anyone.
+
+When Erick finally slowed down, he asked, “Have you heard any more about the Daydroppers? Or about a necromancer hanging out north of Spur? The Oceanside Trio is supposed to be going after a necromancer north of Spur.”
+
+Al shook his head, then took a sip of water. “First I’m hearing of this.” He added, “Maybe you could take some quests at the Adventurer's Guild. Talk to people you normally wouldn’t talk to.”
+
+“I could do the same with Mage Guild quests.”
+
+“No you can’t.” Al shook his head. “And don’t do any more Mage Guild quests, anyway. This is an open secret, but don’t go spreading it around: Almost all of those quests on the Mage Guild Quest Boards are posted by people opting to pay half their taxes through the Mage’s Guild, instead of through the Courthouse. Those boards are always full because the Mage’s Guildhouse spreads the quests they get from the populace out over the course of a full month.”
+
+Erick stopped eating his sandwich. “What!”
+
+Al chuckled. “The practice allows itinerant adventurers to pay their bills around town, which keeps us all afloat. A lot of people see it as their civic duty to participate, though not many people expect an adventurer to actually show up on their doorsteps. But then again, some people like to get to know the strangers around town. Sure… you can take those quests if you’re a resident, but it’s kinda… not done.”
+
+Erick was still reeling. “They can’t all be fake!”
+
+Al said, “Anhelia personally taps people for the big quests if she think you’re suited for the job.” He added, “There are real quests on the boards, but not many. Everything above a gold reward is usually real. I mean… technically they’re all real. But the ones that are needed are the expensive ones, and those get snatched up quick.”
+
+Erick laughed. “I was doing tax work.” He added, “Except for Ulrick, I guess? And the farm work?”
+
+Al looked out over the farm. “The farm quests are tax work, too. All the Adventurer Guild quests are real, though.” He paused. He said, “Except for the ones I post. That's just more taxes at work.”
+
+Erick smiled, then turned to Poi. “Want to go on an Adventurer’s Guild quest somewhere, Poi?”
+
+“If I must, I must.” Poi said, “But doesn’t that seem beneath you?”
+
+“Not at all! Being an adventurer is part of growing up in Spur, is it not?”
+
+“It is.” Al said, with a smile, “Usually people start off a bit younger.”
+
+“No time like the present! Speaking of young adventurers… Hey, Poi? Have you heard about Kiri lately?”
+
+“She’s been assigned to Ar’Kendrithyst so she can raise her level to something more appropriate for the defense of an archmage. She should be ready to return to Spur in 20 to 30 days.”
+
+Erick was stunned. After a moment, he asked, “When did that happen?”
+
+“She entered the Dead City yesterday.”
+
+“Well damn. I hope she’ll be okay.”
+
+“She is… adjusting, sir.”

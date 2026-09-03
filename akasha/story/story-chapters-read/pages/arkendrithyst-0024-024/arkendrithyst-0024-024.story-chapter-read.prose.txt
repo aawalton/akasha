@@ -174,3 +174,276 @@ On the other side were at least thirty people, scattered either in small groups 
 
 Almost all of them were talking rather loudly at each other. Some would even call it ‘yelling’.
 
+The people were all different types. Some were dragonkin, mostly reds and blues, but also some metallic colors. Incani populated almost every group. Orcol were here and there; Krigea was writing on a different chalkboard near the front and talking to people sitting in chairs in front of her. All among all the groups, were wrought, like metal facsimiles of the other three races. None of the wrought here wore clothes like Silverite; all of them were dressed in their own skin shaped into clothes.
+
+One woman looked human, but her hair gave her away as something else; it was feathered like Lanore’s. She seemed to be yelling the most, at anyone who would listen.
+
+Aaaaand. Let’s count heads and check for any humans…
+
+Yup. No humans.
+
+And there’s Zago.
+
+And now they all see him. Some stopped talking. Some of them began to yell directly at him. Then the rest began to yell at the rest.
+
+“There he is!”
+
+“Blasphemer!”
+
+“Shut up, sycophant!”
+
+“Theology has no place in magic!”
+
+“Eat a dick, mage!”
+
+“Suck my asshole, hag!”
+
+Erick walked into the room, and Zago put herself right there, next to him. She yelled over the crowd yelling at him, staving off the worst of the verbal assault, but that didn’t stop the woman with the feathered hair.
+
+Feathered woman yelled, “Blasphemer! Usurper! Adulterer!”
+
+‘Adulterer’ was the one that caught Erick offguard. He muttered the word to himself in disbelief.
+
+And then the silver dragonkin priest from the Interfaith Church, Darenka, the one who gave him his Silver Star, stood between them. “Tiza Nindi! You hush! Your Goddess approved the spell!”
+
+Tiza yelled, “Sininindi does what she wants! And so do the rest of us! Erick Flatt has brought dishonor to the sky by demanding it heed his demands!”
+
+Erick had to laugh at that. So he did, but just once. Tiza went bright red in the face. Before she could speak again, he said, “As Sininindi does what she wants, I will too. Get the hell out of here unless you’re here to learn.”
+
+She yelled, “You put yourself above the gods!?”
+
+“Rozeta is also a goddess.”
+
+The woman flickered with lighting.
+
+Darenka descended upon her, saying, “Foolish child. Look around you then get out of here before you do something truly stupid.”
+
+All eyes were on Tiza. Some of those eyes glowed with power. But some of the people stepped toward the feathered woman, as though in support. Gradually, the atmosphere of the room charged. Like the sky preparing to strike—
+
+Zago stepped in to the middle of the room, speaking as she moved, “Mage Flatt is correct. If you are not here to learn then you must leave. We have had enough of your disruptions and arguments. If you have a personal problem with the nature of our world being revealed, then you are on the wrong side of history, Priest Tiza.” She turned toward the feathered woman’s side of the room. It was the smaller of the divide. “Those on the wrong side of history are purged by the rest of us.”
+
+Moments trickled past like the cracking of a glacier. Tiza’s glow faded. She stepped back.
+
+She vanished in a pop of air.
+
+Five other people vanished in similar pops.
+
+Zago sighed, “Gone as quick as they came. I guess I can’t fault them for not acting like proper Storm Priests.” Gentle talking resumed around the room as Zago asked, “Mage Flatt, we have lots of questions. Are you ready to begin again?”
+
+Erick said, “I would love to answer a few, but I’m going to need some human mages in here—”
+
+Zago did her best to not flinch, but Erick saw anger flash across her face.
+
+“—so that this won’t be a spark to a new round of atrocities in the Quiet War, with one side having a massive start on the competition.” He asked, “Do you have any suggestions?”
+
+Zago looked like she might have an aneurysm right then and there—
+
+Krigea spoke up, “I have some suggestions from the Headmaster.”
+
+Zago sighed out, tension leaving her body, pure politeness taking root in her voice, as she said, “I approve of whatever the Headmaster suggests, of course.”
+
+Krigea said, “The Headmaster expresses his thanks.” Her eyes glowed briefly. “They will be arriving now.”
+
+The air popped with the arrival of three new people in the center of the lecture hall floor. All of them looked pretty darn human, from where Erick was standing. Two men and one woman, all in comfortable mage-type clothing, all of them rather young looking. They carried unbound sheets of paper and opened books. If Erick was guessing right, they had just picked up their things and [Teleport]ed right here.
+
+Zago’s face scrunched in disgust. She whispered to Erick, “They were already watching us, you know. Your request was already one of the Headmaster’s demands.”
+
+The humans smiled at him as they took their seats in the lecture halls.
+
+Erick smiled back, then said to Zago, “I’m literally not from here, Guildmaster Zago. I have no idea who is watching at any point in time, so please forgive my ignorance.” He stepped across the lecture hall, then up the small stairs leading up the stage, to the lecturer’s podium and half-filled chalkboards. “And now they can ask questions!”
+
+Zago waved him off, saying, “They were already asking questions through Krigea, too.”
+
+The middle human, a brown-haired green-eyed dude with a medium build, effused, “I just want to say before we begin that you have already unlocked an entirely new branch of ice magic, Mage Erick Flatt. Using your ideas about molecules, I created a new spell just yesterday. All it took was understanding that molecules exist!”
+
+The room erupted into another round of yells.
+
+Zago’s voice boomed, “Hush! Hus— SHUT UP.”
+
+Silence returned.
+
+Zago strained to say, “Please introduce yourself, and describe what you have accomplished.”
+
+The human said, “Eduard Rokva, graduate Ice Mage of Oceanside. I got 1 point from producing the new basic spell, too!” He lifted his hand through the air and a blue box zoomed over to Erick. “It’s nothing compared to your [Call Lightning], but it's a start!”
+
+Frozen Mist 7, instant, 1 minute, medium range, 10 MP
+
+Cool a <small area>, dealing <damage> per second and slowing everything caught in the area for <1 minute>. Creatures leaving the area remain slowed for <1 hour>, or until they achieve sufficient warmth. <Effect increases with multiple castings.> <It is not possible to freeze a target with this spell.>
+
+Erick asked, “It’s all the little alligator mouths that mark it as an alpha spell, right?”
+
+That earned him several weird looks, most notably from Zago, but Erick passed her the blue box and she said, “Ah. Those. Yes, they do.” She passed the spell along. “They exist in a few non-alpha spells, like [Blink], but the historical texts tell us that when you see them on something like ‘damage’, that is the mark of an alpha spell. They are the parts of spells that are subject to change. If you don’t have eyes, like wrought, for instance, their [Blink] does not look like my or your [Blink].”
+
+Erick took a look at his [Blink].
+
+Blink 2, instant, 25 MP
+
+Instantly move from your location to another within <sight>, max range 10m per level of Blink
+
+Exp: 150/200
+
+Eduard continued to talk about his spell, “The damage and the slow are nothing compared to the most basic tier 2 cold spell, but something like this starts the tier process at 1, instead of needing to go through Mana Altering first, making those higher spells much cheaper. And more importantly, the options are wider. We don’t even know what these new spells will lead to.” He smiled. “Seems like the sky is a good indication of a possible outcome, if [Call Lightning] is any indication.”
+
+The human woman muttered, “Why did fire have to be blocked by a Sundering ban...”
+
+There were several quiet agreements of the woman’s complaint from around the room.
+
+Erick chuckled, saying, “That’s pretty cool.”
+
+When no one made a peep at his joke, Erick said, “… Get it? ‘Cool’? No? Fine.”
+
+Eduard smiled wide, but did not laugh. No one did, but Zago did grumble as she sat down.
+
+“Right.” Erick moved to the lecturer’s podium. “So! Uh.”
+
+Zago asked, “Can you go over the lecture again, from the top? We can keep the notes on the board in this room. Let’s save the questions for later.”
+
+There were some grumbles, but more than a few ‘Yes, good idea’s and ‘Yes, thank you’s.
+
+Erick paused in thought.
+
+He looked across the room. All eyes were on him. He nodded to Zago, and made a few decisions about the future, right there. He threw a [Cleanse] across the chalkboards, then started drawing.
+
+“So, this is an atom...”
+
+Erick gave the lecture again. He didn’t leave much out. He talked about dissolved solids, and other easy experiments with water. He redrew various things as he went, to make them more legible. A few clarifications were asked for, and Erick gave them, but larger questions were asked to wait till the end. He struggled to give the most complete, well drawn lecture he could have possibly given, considering that he didn’t really know much about anything at all.
+
+Hera sat in the back of the room the whole time, listening. Glaring. Judging.
+
+- - - -
+
+The lecture came to a close. Erick put down his chalk; he had gone through several of them this time. Eight chalkboards were full of information about atoms, and bonds, and electrical charges. There were some heavy disclaimers about molecular bonds; Erick knew he didn’t remember much about how those worked. But he did remember more about water, from the electron structure, to the polarity, to the degree of bend —104.5 degrees!— and all of that was up there. Water was one of the most important molecules to fleshy lifeforms, though he wasn’t sure if wrought cared about water or not.
+
+He did not mention any specific atomic forms except for hydrogen and oxygen, or that the proper way to differentiate atoms from one another was by looking at their proton count. That would be for other people to figure out.
+
+He turned to the audience. Some of them were writing on papers, others were studying the blackboards with intense stares. Others looked lost. Most looked excited. Darenka had stuck around for the lecture; she looked quietly happy.
+
+Erick went to the lecturer’s podium. He put his hand on the sides of the wooden pedestal.
+
+“So that was all of that. And there’s more. I could tell you a lot about a lot. But I have been enlightened about a few things recently that terrify me. Firstly, war. I don’t like war, or want war at my door. Two, I have no door of my own, but I’m hoping to live here in Spur, and Silverite, the Mayor, has said she wants humans back in town. She also does not want the Quiet War anywhere near Spur, so keep that in mind while I say my little piece, here. I’d like to use this opportunity to speak to the rest of the world to help her fill out a bit more of the town, and I’d like to foster an attitude of giving and accepting and what have you. But I don’t have any authority here, and I might have just pissed off Silverite by suggesting any of this.
+
+“And this is me rambling on, trying to get to a point about how life would be great if everyone could be good with each other. All I want is my daughter safe, a nice life in a decent part of the world, and to help the people around me. Spur seems like this sort of place. I hope I haven’t screwed up my chances, here.
+
+“When I created [Call Lightning] and started these lectures, I thought that learning about the physical world might help those around me… I don’t know? Have some more options in life? Learn a bit more and solve a few systemic problems? Like how to make it rain in a desert town. The rain was a very good outcome to a random experiment. I thought more good outcomes like that would come from others having the same experience as I did.
+
+“I thought all this new magic would be good. Now that some time has passed, I have had some time to reflect on my actions. People have told me how the next eruption of the Quiet War is going to be all my fault; how I’m going to be murdered in under a year; how I’m taking people’s jobs and ruining everything. This is not what I wanted. Obviously, I have made some mistakes in the dissemination of knowledge, but to forestall any potential assassins, be aware that lectures like this will never happen again.
+
+Erick closed, saying, “I know I asked some of you to wait for the end of the lecture to ask your questions, but I’m sorry. I won’t be answering any questions. Let’s see what happens with what I’ve already shared, before we move on to anything else.”
+
+Before Erick could take a single step across the lecture stage, or the voices of the crowd could turn loud and demanding, Krigea stood up. She spoke and her voice was not her own. It was a deep, sonorous male voice, full of fire and quakes.
+
+“Greetings, Mage Erick Flatt. I am Headmaster Kirginatharp, speaking to you with the assistance of my lovely graduate student, Krigea. Your words today have a great weight, especially those last ones. I agree with the slow dissemination of knowledge, and much more that you have said besides.” Krigea turned to the humans in the audience, who were staring at her in awe. “Children. Become valued citizens of Spur.”
+
+Several things happened all at once, after that.
+
+Krigea collapsed into her seat. The blond girl rushed over and cast a healing spell. Warm orange light flickered across Krigea’s body, settling into her seagreen skin. Gradually, Krigea woke up. She laughed, whispering ‘that was not pleasant’. The blond human agreed, smiling.
+
+Several people said variations of ‘Fucking hell!’ and ‘But where is the fire, water, air, and stone!’ and ‘I see! I see! Yes! I understand!’.
+
+Some people just slammed their books in outrage.
+
+Some smiled. Happy that this would be the end. Darenka was one of those people.
+
+Hera was standing in the back of the room by this point in time. She was smiling wide, too, but she was also holding a small green stone in her hand. She mouthed the words, ‘green the whole time, eh?’
+
+Action slowed as everyone realized Erick was really done talking. There would be no questions answered today.
+
+And then Zago stood. She moved to the center of the room, and said, “Thank you, Mage Flatt. Upon reflecting, you are probably right. This is more than enough new magic in the world for now. Everyone! We are done here. The classroom will be [Cleanse]d in one hour. Take your final notes now, or never.” She bowed to Erick. She walked up through the amphitheater seating, then out the classroom door.
+
+Sizzi followed Zago out of the room. Two other incani and a few of the rest trailed out, after that.
+
+The rest of the people in the classroom were either stunned, still lost by the science of the lecture, or grumbling. Except for the humans. They had packed up their stuff by now and were all looking at Erick. Krigea was looking at him, too.
+
+Krigea stood up, then said, “Thank you, Mage Flatt, for this opportunity.” She turned to the humans, “Maia, Eduard, Ramizi. The Headmaster wishes you well, and to inform you that Ar’Kendrithyst is not to be taken lightly. Even you three could die in there. He also wishes to tell you that if you are lawfully exiled from Spur by Silverite, you are not welcome in Oceanside.”
+
+Maia, the woman, said, “Well duh. I saw the writing on the wall before I [Teleport]ed here.” She nodded to Erick. “See you around.” She grabbed her book and papers. “Come on. Let’s go find some accommodations. Any place you’d recommend, Mage Flatt?”
+
+“Please, call me Erick.”
+
+Maia smiled. “Erick, then. I’m Maia, then. Nice to meet you.”
+
+“Nice to meet you, too.”
+
+Ramizi said, “Goddesses, it’s going to be so damn hot living here. I’m already sweating.”
+
+“Let’s just go to the Adventurer’s Guildhouse.” Eduard picked up his books and papers. “We can figure out the rest later.” He nodded to Erick, then said, “Erick, then?”
+
+“Yes.” Erick smiled. “Eduard, Maia, and Ramizi?”
+
+“That’s the name!” Ramizi said, “And that was all rather interesting, but holy hell you actually spoke to Rozeta and you asked her to change your spell to be stopped by a weather [Ward]? I don’t know if that was genius, or stupid. You need to test it out with some Mana Alterations and see if you crippled yourself, or not.”
+
+Erick grinned. “I’m not big on killing things so I don’t think it matters much.”
+
+“That’s weird.” Ramizi frowned at him. “You’re weird. See you around.”
+
+The three of them left. So did many others.
+
+Soon, the only ones remaining in the classroom were Erick and Hera, and a few other stragglers, struggling to make sense of the chalkboards, going back and forth over the notes they had taken from the lecture.
+
+Erick asked Hera, “Is Silverite going to hate me for this?”
+
+“What?” Hera laughed. “What?”
+
+“… Fuck. It’s that bad, huh?”
+
+“No way! This is good! She already thinks you and Jane are some of the best things to ever happen to her city.” Hera stressed, “Getting more reasonable humans to join Spur is something she thought might take years, but it only took you a few ten-days to go from a complete unknown, to getting Headmaster-approved adventuring humans pledged to become citizens of Spur. If she isn’t in the middle of a bottle of her finest quicksilver, I’ll be flabbergasted.”
+
+Erick spat out, “I thought she hated me!”
+
+“What?” Hera looked stunned. “‘Hated’? What the fuck? Why?”
+
+“Oh! I don’t know! Casually mentioning murder!”
+
+“… Oh. Oh? Is this…? Hmm… I think this is a misunderstanding. Most likely a cultural difference.” Hera frowned. “Silverite likes both of you. Quite a bit. Sorry. Uh. How… How did you come to that conclusion, anyway? Uh. I… I don’t know what’s going on here.”
+
+Erick frowned. Reluctantly, he admitted that his recent interpretation of events might have been due to cultural misinterpretation. He waved off that concern and asked a different question, “How would she know right now, anyway?”
+
+“… Oh.” Hera frowned. “You don’t know that either! Of course you don’t? I can fix that problem! Okay. So. When you’re meditating, you sometimes see hallucinations, yes? Sometimes, they aren’t hallucinations. Like. Go ahead and meditate right now.”
+
+A sudden chill crept across Erick’s skin. Suddenly, he really, really, did not want to meditate.
+
+Hera put her hands on her hips. “Just do it. I’ll show you. It’s not scary.”
+
+Reluctantly, Erick began Meditation. Now that it was active, he could see maybe a thousand thousand eyes floating all around in the ebbs and swirls of the lecture hall’s ambient mana. Usually, he considered those hallucinations. But maybe they weren’t. Almost all of the eyes were not looking at him, but instead looking at the chalkboards.
+
+A ghostly yellow eye appeared in front of him, between him and Hera, looking almost exactly like Hera’s own open eyes, but bigger. Yellow, slitted like a cat's, and glowing, Hera’s third eye moved around her.
+
+Erick vacillated between terror that the eyes he had seen were real, and the casual conversation that Hera was trying to have with him. He could have either pissed himself or laughed at the whole thing. It was a tossup as to which was going to actually happen.
+
+She said, “This is one of the primary applications of [Scry]. If you know what to look for, you can see these eyes through the other hallucinations.”
+
+Erick laughed. “So that’s what those are!”
+
+“Yeah.” She tilted her head. “You’ve probably had a few of these on you, haven’t you.”
+
+“Oh? Yeah. Not often, but sometimes.”
+
+Erick tried to ‘see through the hallucinations’ right now. Almost all of the eyes in the room vanished, except for maybe a hundred. They were all looking at the chalkboard. A few were looking at him and Hera. One of those eyes was bright silver. Hera pointed to that one.
+
+“We’ll get to the eye problem later. But that’s Silverite. We’re communicating with [Telepathy], right now, but she can see you with this.” Hera said, “She wants you to know that she is very happy with what you have done today, and she apologizes for any miscommunications and offense she might have given.” Hera added, “But you do want to have a war spell active in town, so, like, come on, Erick. No one is comfortable with that hanging over their heads, and she has to think about everyone. And yes, she knows about the weather [Ward] thing. But like Zago and the new human mage said, a bit of Mana Altering and you could do some damage on a whim. Maybe even accidentally.”
+
+“Right. Right.” Erick stared at the silver eye floating in the mana in front of him. “Right. Right.”
+
+But all he could see was the giant shadow in the background, sticking to the edges of his vision.
+
+Watching him.
+
+He asked, “Is there a way to prevent people from spying on me?”
+
+“Right. The eyes you have seen.” Hera said, “There’s an easy solution, there. Just throw your Willpower or Focus at them and they usually pop, but it would be impolite to do such a thing in a place like this. Go ahead, and try to pop mine.”
+
+At that, a lot of Erick's paranoia vanished. He felt better. He focused on the yellow eye, trying to bat it away with his mind.
+
+“For a Focus attack you need to pierce the eye; pop it like a bubble. For a Willpower attack, you smash it. Try again.”
+
+Erick imagined a needle, popping the eye. Hera’s yellow [Scry] eye burst into fragments of magic that drifted away to join the sea of ambient mana.
+
+Hera’s eyes dimmed back to normal yellow. “Good job. So? About the eyes you have seen?”
+
+“I don’t want to talk about that right now. I can figure that out myself, and there usually aren’t eyes by the Sewerhouse. Al probably pops them all and he didn’t want me to freak out. I need to lie down.”
+
+“Then I’ll escort you to the Sewerhouse, and leave you when we get there. Someone else will be there in the morning to bodyguard you in this trial period.” Hera added, “If this keeps up like I think it will, I doubt you’ll have a bodyguard for more than a month.”
+
+Erick nodded, then led the way out of the lecture hall, and out of the Mage’s Guildhouse.
+
+The giant shadow did not follow.

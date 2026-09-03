@@ -167,3 +167,82 @@ The party had done something without her managing it.
 
 She sat with this in the dark. Not triumphant. Not relieved. Something quieter — the particular quality of understanding that arrives when you've been working toward something for a long time and it arrives and you recognize it without ceremony.
 
+She had a picture of the telling. Floor 20's rest floor: the Tower built a rest node into its hardest floors, a pause at the midpoint, and she would stop the party there and pull up the full notification and say: here is what we've been building toward. Here is the shape of it. Here is what's in it. She knew how each of them would receive it — had been watching them receive information for twenty floors and knew the specific texture of each one. Dayo quiet and then decisive. Tomás with the geometry already running. Miriam with the clinical notebook open. Vesper with that specific attentiveness. Nadia.
+
+She put the notification in the accessible queue. She lay back down.
+
+The Transition Hall was quiet. The party was asleep. Floor 20's door waited at the end of the corridor. She held what she was holding and let the Tower do what it was built to do, which was give them this night, and then morning, and then the floor.
+
+She slept.
+
+---
+
+Tomás was gone when she woke. The notepad was at his spot and Tomás was not — the advance scout move, the same quiet departure she had seen on Floors 13, 16, and 17. First one up, first one to the entry, back before the party had assembled.
+
+She ran the morning inventory. Full HP, full MP. She ate. She updated the notebook: *Sanctuary Weave unlocked (Miriam + Vesper). Six of Six prerequisites met. Floor 20: today.*
+
+She looked at the last line. She wrote it again, slightly differently, in the shorthand she used for things she was carrying rather than recording: *Tell them at the rest floor.*
+
+She closed the notebook.
+
+Vesper was at the supply cache with the finished-projects section of her materials out. Not the in-progress stack, not the raw materials — the specific narrow section at the top of the carry stack that held things made to completion. She was going through it with the attention she brought to decisions about what to carry, and at the bottom of the finished stack she set one item aside.
+
+Nadia was up, the dulcimer case open, checking the strings in the Transition Hall's morning light. The instrument was intact. She ran her fingers along the body of it the way she had learned to do — the daily check that was not quite habit yet, still deliberate, still specific.
+
+Vesper came across the hall.
+
+She held out the dulcimer carrying strap. It was made for the instrument — sized to the exact dimensions of this dulcimer, the flat-body profile measured and worked into the strap's profile so it wouldn't gap or stress at the edges. The material was something Solenne didn't recognize: lighter than standard kit, with a surface treatment that caught the light slightly differently — something for environments, maybe, something Vesper had chosen for what was ahead. The attachment points were reinforced at the stress angles. The carrying position was calibrated so the instrument would sit across the back at the angle that kept it from swinging on movement.
+
+Vesper had been working on this since Floor 18.
+
+Nadia took the strap.
+
+She looked at it — a full look, not a glance, the look she brought to things she was actually reading. She turned it over, found the attachment points, found the carrying angle. She understood what had gone into it. The calibration. The material. The reinforcement at the stress points.
+
+She looked at Vesper.
+
+"Thank you," she said.
+
+Not the pivot. The pivot had been her protection for twenty floors — the joke that arrived after the vulnerable thing to manage how it sat in the air, to turn it from a moment into a beat, to make sure nobody was left holding something too heavy. The pivot was not there. Just the two words, in the voice that had been underneath everything, arriving without scaffolding.
+
+Vesper did not deflect. She did not turn away before the thank-you had fully arrived. She held the brief second of it being what it was — the words meaning what they meant, received as what they were — without redirecting it into something she could process more efficiently. She stayed for the length of it.
+
+Then she went back to the supply cache.
+
+Dayo was at her armor. She was not looking at Nadia or Vesper. But something in her attention had shifted — a slight internal recalibration, not dramatic, the Dayo version of taking something in. She would not say anything about it. She didn't have to. Solenne had been watching Dayo incorporate things for twenty floors and she knew this was incorporation.
+
+Tomás came back from the floor entry.
+
+He sat down. He made one addition to the preliminary notes — specific, compact, the notation clear. He looked at what he'd written. He said: "The entry geometry is different from Floors 13 through 18."
+
+He sat with the notepad.
+
+He did not say what he had noticed.
+
+Solenne read his expression — the neutral working face, the one he wore when he was carrying information he had decided not to deploy yet. She understood. She did not ask. She had her own thing she was carrying, and she would tell them when she had decided to tell them, and Tomás would tell them what he was holding when he was ready. This was what the party was becoming: people who held things until the right moment rather than managing the information as soon as it arrived.
+
+She looked at all of them.
+
+Dayo with the armor check complete and her attention moving toward the door at the hall's end. Miriam closing the clinical notebook, the morning assessment done. Tomás with the notepad and the thing he was holding. Vesper organizing the carry configuration, the finished-projects section now smaller by one item. Nadia attaching the carrying strap to the dulcimer case — finding the attachment points, running it through, adjusting the carrying position twice before it settled at the angle that worked.
+
+Solenne watched Nadia sling the case across her back.
+
+The strap sat correctly. The dulcimer didn't swing. Nadia took two steps and then one more — testing the movement, the way she tested all new equipment — and then she stopped testing and it was just there, part of the carry configuration, ready to go.
+
+This was it. This was the party she had been watching since Floor 1. This was what they had done to themselves across twenty floors. She had the notification in the accessible queue and she was going to pull it up at Floor 20's rest floor and say: here is what we've been building toward, and here is what's in it, and here is what it means.
+
+"Okay," she said. "Let's go."
+
+The party assembled. They walked toward Floor 20's door.
+
+```stat-screen
+[TRANSITION HALL — DEPARTING]
+Floor 20 — Crystal Salt Desert
+
+Party Status: Full recovery
+Resonance Events: 109/150
+
+[SIX OF SIX: All prerequisites met. Activation pending Resonance Events threshold.]
+```
+
+The door opened.

@@ -192,3 +192,133 @@ Haig walked past it at sixty meters. He held the notebook against his chest. The
 
 Dead Reckoning told him the exit was one hundred and ten meters ahead. One hundred and ten meters. He had walked greater distances in worse conditions. He had walked through the Lenn Pass in winter with a broken pack strap and frostbitten fingers and he had delivered the packet and he had collected his fee.
 
+The emanation was different from cold. Cold attacked the extremities. This attacked everywhere simultaneously. The pressure behind his eyes was now a pressure behind his ribs, in his joints, at the base of his spine. It was accumulative. Each step added to it. Each step did not subtract from it. He was filling up with something he could not metabolize and the filling was not stopping.
+
+He walked.
+
+Ninety meters to the exit. Eighty. The quartz formations were denser here — closer to the creature, closer to the source of the emanation, the deposition faster and the stalactites thicker. The light was different: refracted through more crystal, scattered into spectra that a different kind of person would have found beautiful. Haig noted the light the way he noted weather: a condition. Not good or bad. Present.
+
+Seventy meters. His legs were less steady now. Not shaking — a different quality of unsteadiness, a looseness in the joints that he recognized as the beginning of the body's refusal. He had felt this on the fourth day of the Karresh desert route, the one he had run six times, the one where the final twenty miles were the ones that separated the couriers who finished from the couriers who did not. The feeling was: *the body has opinions about what you are asking it to do, and its opinion is no.*
+
+He walked through the no. He had always walked through the no.
+
+Sixty meters. The notebook was warm against his chest. The pages were warmer than the air — the leather was absorbing the emanation or the warmth or both, and the notebook was becoming something slightly different from what it had been. He could feel the paper changing under the cover. Not burning. Changing.
+
+He considered setting the notebook down. The consideration lasted two steps. He did not set it down. A courier did not set down a delivery because the route was difficult.
+
+Fifty meters. Forty.
+
+The pressure was no longer behind his eyes. It was in his eyes. The refracted light through the quartz was dimmer — not because the light had changed but because his ability to process it had diminished. The emanation was doing something to the visual system. He could still see the path. He could still see the exit — a darker rectangle in the southeast wall, the stone around it cooler, the air moving slightly as the conditions of Depth 5 breathed into the conditions of Depth 4.
+
+Thirty meters.
+
+His left knee failed at twenty-two meters from the passage to Depth 5.
+
+Not pain. Not injury. The joint simply stopped accepting his weight. The emanation had accumulated past the threshold that the joint could sustain and the joint had made a decision that his will had not authorized. He went down on one knee, on the warm basalt, and the notebook slid from his grip and landed beside him, open, the pages facing up, the final notation visible: *The emanation is the mechanism.*
+
+He looked at the passage. Twenty-two meters. He had walked farther than that to reach a latrine at a relay camp. He had walked farther than that in his sleep.
+
+He put his hands on the floor and pushed. His arms held. His right knee held. His left knee did not hold. The emanation was in the joint now — not damaging it, not breaking it, but filling it with something that made load-bearing impossible. The accumulation was complete in that specific tissue. The rest of him would follow.
+
+He crawled. Three meters. The basalt was warm under his palms and the quartz veins were warmer and the notebook was behind him and he thought about it the way he had thought about every delivery he had ever completed: the contents are not my business. My business is the walking. The walking has stopped and the delivery is incomplete and this is the first time in twenty-six years I have not completed a route.
+
+Nineteen meters from the passage to Depth 5.
+
+He stopped. Not because he chose to stop. Because the body had finished its argument and the argument was over. The emanation was in his lungs now, in his diaphragm, in the muscles that held his torso upright. He settled onto the warm basalt floor and the heat from below and the pressure from above met in his chest and he was, for the first time in twenty-six years, still.
+
+The quartz formations above him caught the light and scattered it.
+
+He did not see it. The visual system had shut down seven seconds before the rest.
+
+---
+
+```stat-screen
+DEATH REPORT — ENTRANT: HAIG BRENN
+DESIGNATION: THE ROUTE
+DEPTH REACHED: 4 (THE CRUCIBLE)
+TOTAL KILLS THIS RUN: 0
+
+FINAL STATISTICS
+Vitality .............. 14 -> 0
+Resolve ............... 16 -> 19 (+1 Depth 2, +1 Depth 3, +1 Depth 4)
+Attunement ............ 7  -> 10 (+3 Dead Reckoning activations)
+Fortune ............... 15
+
+GIFT ATTUNEMENT AT DEATH: 10
+Dead Reckoning activations: 3 (Warrens navigation, Still Garden bypass,
+Crucible mapping)
+
+CAUSE OF DEATH: Emanation (Crucible Emanator). Accumulative.
+Total time in Crucible: approximately 31 minutes.
+Irreversible threshold exceeded at approximately 27 minutes.
+Death occurred 22 meters from the passage to Depth 5.
+This is the second death in The Crucible. The first was Aldous Vren (Death #12).
+Note: Entrant's physical conditioning (VIT 14) extended exposure
+tolerance by approximately 4 minutes beyond VIT 8 baseline (Vren). Route maintained 60m minimum
+distance from the Emanator (Vren approached to within 15m).
+Greater distance reduced accumulation rate. Insufficient to complete transit.
+
+NO RETURN — rooms closed at death: Gullet, Warrens, Still Garden.
+The Gift's Cost was in effect at time of death.
+The path behind the entrant was already gone.
+
+MEMORY CRYSTAL: None.
+Note: Entrant's final interior state was cessation — the body's systems
+shutting down in sequence under accumulative emanation.
+No conscious peak emotional state was achieved.
+The crystal system requires conscious interior experience at the moment of death.
+Unconscious collapse does not qualify.
+This is the fourth no-crystal condition: physical incapacitation
+preceding the moment of death.
+
+ARTIFACT: Notebook (Aldous Vren, Death #12)
+Location: 3 meters behind death site.
+Condition: leather cover warped by proximity to emanation source.
+Pages legible but structurally weakened. Estimated 2-3 additional
+exposures to Crucible conditions before the binding fails.
+The notebook has been moved from its original position for the
+first time since Death #12. The Maw notes this.
+
+ARTIFACT: Message tube (leather, empty)
+Location: right shoulder at death site. Strap groove consistent
+with 26 years of habitual carry.
+The tube contained no message.
+
+FLOOR MUTATION: Courier's Rest
+A 2-meter area of basalt surrounding the death site has begun
+the same cooling process observed at the Vren death site.
+Thin crystalline film forming on the surface.
+Two death sites in The Crucible now. Both show accumulative floor change.
+
+DESIGNATION OUTCOME: ROUTE INCOMPLETE
+Entry type: Compelled.
+Compulsion radius: 90 miles. Arrived mid-route.
+The Maw redirected a habit, not amplified a desire.
+The entrant's Compulsion was indistinguishable from his baseline motivation.
+The distinction between compulsion and continuation is,
+in this case, philosophical.
+```
+
+The Ledger recorded the death.
+
+Eighteen deaths. The second in The Crucible — the first had been Aldous Vren, who had died from the same emanation six deaths ago, a researcher who had understood the mechanism of his death and could not make himself flee from it because Comprehension had removed the survival reflex. Haig Brenn had died from the same emanation without understanding it at all. He had walked into it and kept walking because walking was what he did.
+
+The Maw noted the contrast. Aldous had died because knowing too much removed the instinct to run. Haig had died because knowing nothing removed the reason to stop. Both had reached The Crucible. Both had died within the same room. Neither had reached Depth 5.
+
+The Reflection offered an observation the Maw had not expected: *the Crucible is testing something other than strength.* Aldous had been strong-minded. Haig had been strong-bodied. Both had failed at approximately the same distance from the passage to Depth 5 — Aldous at roughly fifteen meters, Haig at twenty-two. The emanation did not care about the kind of strength. It accumulated. It had a threshold. The threshold was mathematical, not heroic.
+
+The Ledger noted this without assessment. The notebook was three meters from the new death site, open, the pages facing up, the researcher's final notation and the courier's fingerprints on the same leather cover. Two entrants, six deaths apart, in the same room, and the room was still making whatever it was making. The quartz formations were fractionally longer than they had been when Aldous had died. The process continued.
+
+The Crucible Emanator sat at the room's center and did what it did. It was not aware of the deaths. It was not aware of the notebook or the message tube or the two thin films of crystalline floor change where people had stopped moving. It existed. The room grew around it. The emanation continued.
+
+At the entrance camp, the ledger-keeper opened his book. He waited. He wrote nothing — the entrant had not been in long enough for the outcome to be certain, by the ledger-keeper's standards. He would wait until morning. If there was no return by morning, he would write *Did not return* and count the remaining pages.
+
+The blank cloth had no new annotations. The fire was still burning.
+
+The death tally turned.
+
+*982 remain.*
+
+---
+
+*HAIG BRENN — DEPTH 4 — FIRST TO CARRY WHAT HE FOUND*

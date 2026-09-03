@@ -140,3 +140,1176 @@ Jane leveled her gaze at her father. “What’s going on, Dad? You seem too hap
 
 “Oh? No. Not at all.” Erick said, “I’ve been working with [Lightwalk].”
 
+Jane almost ended the conversation right there. She had been using [Lightwalk] for almost three months, now. A lot of that time was spent asleep, but before and after that she had been using all of her Elemental Body skills as much as she could. What did he find out about [Lightwalk] that she didn’t already experience through trial and error?
+
+But Jane could not end the conversation, there.
+
+Instead, she…
+
+First, she saw how much her own, obviously visible emotions, affected her dad. Erick lost his smile, completely. And that hurt. She didn’t mean to do that.
+
+She said, “Sorry. It’s just...”
+
+“I can understand.” Erick said, “I don’t know why I seem to have it easier, either. I really don’t. But I want to help you, if I can.”
+
+Jane nodded, then she forced herself to say, “What’s going on with [Lightwalk]?”
+
+And then Erick dropped several bombshells on her. “I’d tell you about the Spatial Magic remake Quests I’m working on, but those will kill anyone without years of schooling or without a [Familiar] like Ophiel—” Ophiel twittered on Erick’s shoulder. Erick patted him, eliciting more tweets, as he continued, “So I won’t tell you about those, but I can and desperately want to tell you about how to remake the seven foundational Basic Tier Force spells; Bolt, Beam, Bomb, Shrapnel, Trap, Crash, Wave. It took me one day to remake all seven of those. I got seven points for my efforts since I already had those seven spells. I even went to the Registrar and got another Ability Slot for my Class, too.
+
+“Briefly, here’s how I did it:
+
+“So you got [Lightwalk]. You’re light, but you’re also one step closer to the Mana. It’s like…
+
+“Pretend you’re on the beach, near the ocean. The beach is like being in the physical world. The water is the mana. Except you’re more sand and… You’ll figure it out. Anyway. When you [Lightwalk], or [Stone Body] or whatever, you are a being of stone that steps into the water, diffusing yourself around into that water, letting you direct your body —which is still stone, in this scenario— into affecting what the water does.
+
+“What each Elemental Body does is put us closer to the Mana than we naturally are, as beings of flesh and blood.
+
+“Al tried to help me ‘find my aura’ a few times, but it didn’t really work. [Lightwalk] let me find my boundary right away. Proper mages use their aura in these remake quests, I think, but you can shortcut finding your aura with an Elemental Body skill, or other things I’ve heard about, like Blood Magic and Soul Magic.” Erick finished, with, “Oh yeah. And I can control the weather now. It’s a fun spell. Got minor rains happening around Candlepoint so I don’t have to ever show up in person again. I hear there are trees growing everywhere in that dark city, now. I did the same thing for Spur, too. Rains come like they would anywhere else in the world. We had to expand the Lake. Everyone seems to be happy but Al has already complained about having to reroute the sewers.” Erick smiled. “I helped him a bit with that. It was fun.”
+
+Jane blinked a little. Words tumbled out, “I heard about the rains.” She didn’t know what to say about all the rest of that. So she didn’t.
+
+Silence.
+
+Ophiel twittered a few tiny notes, but then silence came back, deeper than before.
+
+Erick asked, “Have you heard from Delia? I heard that—”
+
+“How do you remake [Force Bolt]? Or any of them!” Jane almost shouted, “How the FUCK have you—”
+
+Erick, nice as he possibly could, asked, “Hey? Why not try this?” He held up his hand, conjuring a small, white dagger made of hardened mana into his grip. “Take your [Conjure Weapon] and flow mana through it—” He dismissed the dagger, only to have white mana flow through his hand, like a tiny fountain of knives. “And you listen to the notes made.” He offered, “This one sounds like violent force applied to a violent task. I’m sure [Conjure Item] would sound much less harmful, but be a lot more complicated, so we’ll stick with [Conjure Weapon] for now.” He flickered white, activating [Lightwalk]. “And then you sort of twist yourself, and thus the mana, into the shape you heard, sounding out—”
+
+A radiant length of white force condensed into Erick’s hand, then condensed further, elongating out the bottom of his grip. Radiance flashed up and down as Erick held his hand out, away from the kitchen table. When the magic was done, her father held a simple staff; a simple weapon meant mainly for defense, but it was still two meters long and perfectly sized to him. His eyes were wider than before.
+
+He glanced at the white staff, then at an empty space of air. “I did not expect that to work so well, or to get a staff. But I guess it did.” With his free hand, he gestured the air toward Jane, revealing a blue box.
+
+Special Quest Complete!
+
+You have remade a Basic Spell.
+
+Since you already have Conjure Weapon, here you go:
+
++1 point!
+
+Jane didn’t know what to say to that.
+
+She said, “I don’t know what to say to that.”
+
+Erick said, “It’s not nearly as easy as it looks, because between the Elemental Body and spell re-creation there’s aligning mana in order to guide it into the proper form. It took me several hours to make [Force Bolt], but [Force Wave] was the simplest— I mean…” He dismissed the white staff, saying, “There’s emotions and harmonies to put into your recreation, and if you don’t match it perfectly to what’s already there in the Script, then you don’t make the spell. Maybe there’s a margin of error, though? There probably is.
+
+“But I have noticed a discrepancy. You should be able to use this method to create higher tier magic. To make an actual [Fireball] spell without going through the tiers. But I don’t know why that doesn’t work. I’ve tried remaking my [Glacial Crash] a dozen different ways, but nothing happened. At first, I thought the problem might have been with using the wrong Elemental Body, seeing as all I have is [Lightwalk], so I first made a [Radiant Bolt] which was [Force Bolt] and Mana Altering for Light. Then, I tried to remake it using this method.
+
+“That didn’t work. Maybe because I already had the spell? I don’t know.
+
+“So I tried making a [Radiant Crash] which is the same combo but with [Force Crash], without making the spell first. This gave me much the same result, which was nothing.
+
+“And then I tried making one of Kiri’s new spells. She’s real big on this Firelight thing I made a few spells ago, so she’s gone all out on all of that, and one of the spells she made is called [Firelight Defender]. It’s this shield that hovers at her back, pouring out firelight when not in use, empowering most of her close range magic, but it also moves out like a sapient [Force Wall] to defend her from any rear attack.
+
+“Long story short: I couldn’t remake that one, either.
+
+“I’m missing some key factor here. Maybe it’s my Class? I’m not sure. This method is not good enough to make the Spatial Spells either; those require something more than just harmony, intent, and skill. A lot of the more complicated Basic Spells require something that I just haven’t found, yet, like [Conjure Force Elemental]. I’m guessing that one requires knowledge of soul work.
+
+“Don’t go trying to make Spatial spells, Jane.” Erick’s words turned harder. “I mean it. You could die. But I’m still telling you because I think it might help you with other aspects of your magic, maybe. And if nothing else, it’s free points!
+
+“Anyway, besides all that, I think this is how Shade spells work. Maybe they’re not empowered and limited by the Script, so they can go in any direction? I’m not sure.” Erick said, “I also believe they do every one of their spells freehand, every time they cast. There’s nothing helping them but pure skill and knowledge of how magic works, at its base, which is apparently something that the Script cannot stop from happening? I’m still not sure on that part.” He finished, “There’s a lot of ifs and maybes in all of that, but the base Elemental Body functionality does work like this.
+
+“There’s also apparently Blood Magic and Soul Magic, in order to remake Script spells, and then you have my method of singing at the sky. So. I’m right about these uses of Elemental Body, but not completely right.”
+
+Jane listened. She held one hand loose on her fork, while her other hand touched her plate. Her cake sat half eaten, because for some reason, it started to taste like ash. Or maybe it was just fine, and Jane herself had turned rotten.
+
+Most prominently, Jane felt a deep resentment at having to be shown the way. A palpable anger rocked through her chest with every beat of her heart. She tried to keep that anger off of her face, but she was sure her father had seen it, though he kept talking, hoping to drown her pain with the gift he was giving her.
+
+And it was a gift; freely given and with the hope to help her through her own difficulties.
+
+But still; Anger.
+
+And so, understanding her own emotions, she listened to her father. A choice formed, as she heard his words, and felt his feelings. A path opening up before her. A myriad of ways suddenly seemed to illuminate her world, like she had been stuck in a dark forest for a long time, and someone had turned on a light.
+
+It was a simple choice.
+
+She could give voice to her anger, to give power to that primal part of herself that accepted instruction and help from everyone else, because they knew what they were doing, but not from her father, because she had looked out for him, for most of her teenage years. She could tear down what he was trying to build. She could be mad.
+
+Yet, even as she felt that option form, she recoiled from it. She would not be mad at her father for studying magic and making his own, while she fucked around with exploring the world, gaining skill, and piling on traumatic stress. It honestly did not matter that he had figured out how to work [Lightwalk] much better than she had figured out any of her own Elemental Body skills. What mattered, was that her father was making himself stronger, and he was offering her help so she could become stronger, too.
+
+She blinked, then brushed away a few unruly drops of salty water from her eyes. She laughed, once, then twice. “That’s pretty amazing.” Brushing a hand through the dense air all around them, she added, “Amazing that you can make spells inside this [Prismatic Ward], too.”
+
+Her father’s smile returned, as he said, “Of course you can make—” He paused. A look of dawning realization came upon his face, as he looked up, saying, “Huh.” Turning to Jane, he said, “I made this spell [Clothe], inside of this dense air, rather easily. Only took me two tries. [Force Bolt] and all the other ones were made out in the desert. It took me a while to make those… Multiple tries… But that was my first time trying out [Conjure Weapon]?”
+
+Jane smirked, saying, “I hope you’re recording all your experiments, taking down every single measurement, and then keeping that book somewhere very safe.”
+
+Erick got a far off look. Then he flickered into light, and held out his hand. After a moment of holding onto the air, he reverted back to his human body. He said, “Still no luck remaking Kiri’s spell.”
+
+Jane asked, “How about [Lightshape]?”
+
+He smiled, then flickered back into a glowing version of himself. He stared off into space for a long moment, then he looked to the windows.
+
+It was basically noon at Windy Manor, if not a little after. The large picture windows that made up the western wall of the log cabin showed a brilliant blue sky, gardens tended more by the groundskeepers than by Jane, and the sun coming down at a slight angle, into the house. The sunlight changed at Erick’s transformation into the human version of a glowstick. Ribbons of light went dull, first one space, then another, like someone had poked foot-wide fingers into the light. Where those interruptions touched the space, glitters held in the air above the interruption, like rain bouncing off roofs, or lasers bouncing off disco balls.
+
+Ah. Jane could see it now; what her father had done.
+
+Her father had pressed a meter wide version of his hand into the light, trying to touch the sun. His fingers twisted in the light, trying to hold intangible beams. Whatever he was doing certainly didn’t look like a [Lightshape]; that particular spell was more like sculpting with glows, almost like constructing wardlights. Erick cut his spell. Sunbeams snapped back into position faster than Jane could see, as her father turned back to his dull, human self. He smirked at the sun beams.
+
+Jane asked, “Did that work? [Lightshape]?”
+
+“Nope,” Erick said, more contemplative than anything else. “Still missing something.”
+
+A spark of inspiration crossed Jane’s mind. She smiled. Maybe she could help her father here? She said, “Maybe you don’t get [Lightshape] from [Lightwalk]. That seems really weird to me. But. Well. Here:” Jane set her fork down on her plate, then held her hand to the side. Shadows split from her own, forming a secondary hand that reached for her fork. The shadow hand picked up the metal utensil, holding perfectly steady under her control. And then she crunched the fork into a ball of scrap, using her shadow. Another twist of darkness placed the fork back in her natural hand, where a dark blue glow [Mend]ed the fork, twisting it back into its normal shape. Jane said, “I can only do that with [Greater Shadowalk]. For larger attacks, I can use [Shadowshape] to grab a larger portion of darkness. For every other Elemental Body I have, I need to supplement my grips with [Telekinesis], or partially transform. I’ve lost hands by partially transforming, so I almost always choose to fully transform, and supplement my grip with [Telekinesis].”
+
+Erick was smiling, but at the mention of ‘lost hands’, he winced, sucking in air through closed teeth. He shivered, then said, “This is the truly dangerous part of being a mage, Jane. I’ve seen so many warnings about Spatial Magic— I’m working with some Wayfarers and their guild to try and make [Gate], you know? They had a book for me, but they only gave it to me after I proved that I wouldn’t kill myself using the techniques listed in there.” He said, “Ophiel’s taking on all of the danger, there.”
+
+Jane looked to Ophiel, who fluffed up, proud of himself. She smiled a little, then said, “A lot is happening over in Spur, isn’t it?” She looked to her father, and semi-seriously said, “And you should have channeled mana through [Lightwalk], and then tried to make [Greater Lightwalk]!” She switched to jokes, “How many other things are you doing half-assed? How come you haven’t solved the Crystal Mimic problem yet? Or ended injustice in the world? What about some Plus 100 Willpower crowns to cast your [Prismatic Ward]?”
+
+He grinned, then smiled. “I haven’t killed any dark gods either, but the day’s still young!”
+
+Jane laughed, then ate another bite of cake. Soon, both of them were having seconds, as they switched to harder drinks. It was sunset somewhere, after all, and their current booze was even called ‘Sunset Red’. It was the best liquor of all of those she had sampled at a liquor tasting in town, a few days ago. She also got the second best, and the third best, because why not?
+
+They spoke of magic and gossip and bank accounts, with Erick speaking of the logistics of moving literal tons of rads across the Crystal Forest, and Jane talking about how her Mage Guild Bank account only allowed 100 gold withdrawals in some parts of the world, like the Sovereign Cities, and 10 gold max in some of the smaller towns out in the rural parts of the Greensoil Republic.
+
+Talking about money was just Erick’s way of trying to offload some wealth onto Jane, though, but she wasn’t having any of that.
+
+“I can make my own way, but thank you,” Jane said, sitting on the living room couch.
+
+“I know you can! I just… It’s an offer, okay?”
+
+Jane smiled, then switched the topic to how Oceanside did international questing.
+
+“Angels and demons? With eyes everywhere on the world?” Erick sat up on the couch across from Jane, and asked, “And [Gate]s?”
+
+“Heck yeah, [Gate]s! And prayers to angels and demons are useful, too. They might actually answer you with help. That’s the part I appreciate.” She paused, humming, then added, “Sort of.” Jane said, “I don’t plan on being an Elite, but the offer is tempting because the work is rewarding. Even if you, dear father, manage to make [Gate], you won’t have their sheer ability to find and categorize the threats on Veird’s surface. That’s the real draw, here.”
+
+“That reminds me, I have to talk to the Headmaster about getting [Duplicate].”
+
+“Why?”
+
+“It’s for some failed way that they’ve tried to get [Gate] to work.” Erick waved a hand through the air, saying, “It probably won’t work for me, either, but I still want to try.”
+
+“I finished my daily divulging of Earth’s Fake Magic two days ago, but if I ever wanted to talk to him, he said I could just go to the front office. Someone there would be able to contact him.”
+
+Erick smiled. “Maybe later. I don’t want to be a hermit, but I also don’t feel comfortable out there on my own.”
+
+Jane sat up, worried. “Why are you not comfortable out there?”
+
+“Because death comes too fast, even with an almost 25,000 point [Personal Absorption Ward].”
+
+“Oh.” Jane leaned back in her chair. “Yeah. That.”
+
+His words were deeper than his usual. Her father had something he wasn’t telling her. Jane didn’t like that, but she had a lot she wasn’t telling him, too.
+
+He changed the subject. “You were talking about condensation or diffusion of Elemental Bodies before, right? What’s all that about?”
+
+“Killing intent. Do you remember me ever talking about that?”
+
+“… No.”
+
+Jane giggled. She said, “It’s this Fake Magic that is about taking your desire to harm something or someone and turning that into a supernatural edge that can harm by sheer force of will. Lesser versions inspire fear and paralysis.”
+
+“Seems like Mental Magic to me.”
+
+“… Nooo? I don’t think so. It’s more: ‘Look at me and despair’ sort of fear inducing. But I don’t think that has anything to do with the goal, here. I think the purpose here is more a honing of power into either an edge, or a strong defense.”
+
+“The only strong defense I can think of is to not get hit in the first place.”
+
+Jane smiled again. “Yeah. That’s why I think the diffusion option is more of a dodge tank sort of thing.”
+
+“… Dodge tank?”
+
+“Someone who soaks up enemy attacks by being up in their face, but also unable to get hit.”
+
+“Okay. Gotcha.”
+
+Jane said, “Anyway: Condensation into a concentrated attack. Diffusion into an evasive defense.” Jane said, “Once you have all the Elemental Bodies, except [Dragon Body], since Rozeta exempted that from the recipe… You’re supposed to be able to combine them into some sort of [Prismatic Attack] or [Prismatic Defense].” She added, “Professor Tinawa said that was the basis to plowing ahead with the Bodies, but also that such a dichotomy was a gross oversimplification.”
+
+“It certainly sounds like a simplification to me.” Erick said, “But if I were you, evasion is the much better choice. You might be able to heal from… from a lot. But it’s scary to walk around out there. No one needs to hit harder, for sure.”
+
+“Yeah… I’m… thinking on it.” Jane said, “I’m also working on [Melee Reflection]. Got any tips for that?”
+
+Erick winced. “I don’t even have [Strike] yet.”
+
+Jane laughed. “I haven’t made a single one of the spells I wanted to make, ever since we dropped to Veird.”
+
+“What?” Erick gave a slight, unknowing smile. “How? What?”
+
+“The seven spells I wanted since the beginning! Oh. I never spoke of them, at all, did I?”
+
+“Not to me!” Erick frowned, a bit more serious this time. “You really need to call more, Jane. It’s not right for a father to have to track down his daughter all the time.”
+
+“Okay! Okay. Yeah. You might be right about that.”
+
+“You’re stalling.”
+
+“… Yeah. So... Here’s the list, in an unorganized fashion, where I don’t know which one is more important than the others.” Jane said, “[Fly], because duh. [Disintegrate], to utterly destroy something at the molecular level. [Mana Generation], for obvious reasons. [Time Stop], for similarly obvious reasons. [Haste], but [Hunter’s Instincts] is pretty close, so I can leave that one. [Gate], which you’re already working on, apparently. And finally, [True Regeneration], to revive, whole and unharmed, from a single drop of blood.”
+
+“Nice list.” Erick said, “Let’s work on [Fly].”
+
+Jane teased, “Sure! Pick the easiest one, why don’t you! What do you think is the hardest?”
+
+“I certainly have zero ideas on how to make [Mana Generation]—”
+
+“That’s the difficult one for you?”
+
+“Where would you even begin, Jane? Meditation doesn’t actually increase your regeneration, you know?”
+
+“Yeah yeah. I read the theories.” Jane spouted off, “Meditation allows one to change themselves in order to allow the natural mana of the world to flow into their reserves more easily.” She poured the last shot of Sunset Red into her cup, and then her father’s, as she said, “I was hoping you knew how to actually make mana, itself. Or some other workaround to this problem. I don’t want to chug mana potions. I want to cast a spell and regenerate my mana.”
+
+“I don’t think you can make mana. I’ve read about tests where volunteers have spent weeks inside sealed antirhine chambers to test how mana works, but the mana inside the chambers never changed density.”
+
+“I read about those, too.”
+
+Erick sipped his sky-red drink, then said, “[Gate] is known; I’m already working on that. You’re gonna need a [Familiar] if you want to learn, too. [Time Stop] seems like a Melemizargo thing, or a Phagar thing. [True Regeneration] is definitely a Phagar thing... [Disintegrate], though…? Hold on.” He looked to the air.
+
+Jane looked up with him, and saw nothing.
+
+And then she felt it. A brush of warmth. She instantly flipped on Meditation, and saw what her father was doing. Among the swirling mana and the illusions of monsters and harm lurking in the air of Windy Manor, there was a golden glow, like a cross between ocean currents and fire. It was not intent, or mortal magic; it was something much deeper. Erick had mentioned this before, but she had never seen it in person. Jane knew that she would have to chide Kiri, though, since Kiri’s description of the event left something to be desired. Erick was definitely communing directly with a god.
+
+Erick said, “[Disintegrate] has already been made. You just need to get [Condense Particle] and then work your way up to it.” He looked down to Jane, saying, “And yeah. That’s another foible of the Script. The people who make the original spells get them at Basic Tier, but everyone else has to make them from scratch in the usual way. I’ve heard that people like the Headmaster and such already know this, but it’s not well known among the rest of us since the last time there were new spells was 1200 years ago. It’s a toss up whether it’s going to be this whole big thing, or not.” He said, “I’m pretty sure my [Call Lightning] is actually a tier 7 or 8 spell, but it’s gonna stay at tier 1, for me.”
+
+That was all very interesting, but Jane pointed at the air above, asking, “So who is that?”
+
+“… Uh.” Erick held his cup of red still, then set it down as he said, “No one.”
+
+“Right.” Jane guessed it was either Atunir or… Maybe Rozeta, but Rozeta would have communicated in blue boxes, right? Koyabez? That was a large possibility. But her father would have just said if it was one of those gods, right? So it wasn’t one of them. Or maybe it was. Talking directly to gods seemed like one of those things most people would want to keep to themselves, unless they were priests of that god. So… Jane decided, “I don’t need to know.”
+
+Erick smiled. “So? [Fly]?”
+
+“Yes.” Jane’s eyes lit up. “[Fly]. And how about a few other things, too?” She asked, “Do you want to stick with the Sunset Red? Or move on to something else? I have a variety.”
+
+“I like this Red. Let’s stick with that.” He asked, “And what do you have in mind?”
+
+- - - -
+
+They spoke of high level melee fights, where a warrior like Jane would, according to Professor Tinawa, best be served by the quick and perfect usage of various reflection [Ward]s, both magical and melee. This would, of course, occupy Jane’s single [Personal Ward], as she rapidly cycled through whatever was needed in order to reflect and negate enemy [Strike]s and spells.
+
+Erick got way too excited. He leapt up from the couch, saying, “Oh my gods! Is that how high level warriors fight?” He began conjuring blackboards into the living room, muttering, “Oh wow. That’s perfect! I wondered how— It’s just so elegant.”
+
+Soon, diagrams of light and molecules and refraction and reflections occupied black slate boards. Erick asked how Jane thought a [Strike] reflection would work. Jane had no idea. All her ideas never worked.
+
+And so, a smaller discussion began regarding how Jane viewed magic.
+
+“It’s just a tool,” Jane said.
+
+Erick frowned. The Sunset Red in his cup showed the truth of its name, as the sun was beginning to dip down, outside, coloring the world in pinks, yellows, and reds. He breathed deep, then sighed, and said, “Magic is not just a tool, and I think this is the basis of your problem.”
+
+Jane kept her tone light as she shot back, “But it is just a tool. Oceanside has built itself up on proving that magic is a tool, like any other. With levers to push and ways to work the mana, in order to create magic how you want to create magic.” She switched back to English, her words tumbling roughly out of her like rust shaking from an old machine, “The translation for our ‘magic’ in Ecks, is ‘magic’, but the meaning of their word for ‘magic’ is closer to our word for ‘science’.”
+
+Erick switched to English, saying, “That may be trueth barth—” He made a weird face, like his tongue had cramped. Wiggling his tongue around in the air for a moment, Erick opened and closed his mouth a few times, then said, “I need to speak English more. It’s been a longth— a long time.” He spoke faster, saying, “But that’s another thing! You and I don’t have a cultural understanding of magic as science. You and I— You much more than I, have a cultural upbringing of magic as this fantastical force beyond our control—”
+
+“But I like magic as a tool!” Jane said, “Magic as science doesn’t make any sense to me! Even if magic is, at its base, about condensing possibility down to reality, it has to follow rules, or else it’s useless! You can’t build a house on sand; you can’t build a world on ideas.”
+
+She didn’t speak of how she loved the idea of the Script. How she had such high hopes once she found out how it worked. Even now, when she thought of how she felt back then, she still had some tiny hope that she could make her own way through the Script, but that hope was shadowed by the reality that she had failed to make any of her own spells. She brushed away an unruly tear, hoping that her father did not see, but he did. Erick didn’t comment on that, though.
+
+He said, “Before the creation of the Script, all they had was sand. The magic of their Old Cosmology was nothing but ideas and areas of solidity that everyone collectively agreed upon. But this reality is too solid. They adapted, in coming here. Those who live now are more like you and me than how they used to be, but mana still exists, and the fantastical still thrives where it can, in souls, or in gods, or in magic.” Erick said, “You can’t go applying laws to the ethereal. You can only accept the Truth, and meet it in the middle.”
+
+“Jesus Christ, Dad.” Jane said, “You sound like a Melemizargo cultist.”
+
+Erick frowned, saying, “Even broken clocks are right twice a day, but I’m not stupid enough to believe all the rest of what they say.”
+
+Silence held in Windy Manor, while Jane looked away, and her father looked to her.
+
+He quietly asked, “Do you not believe in magic?”
+
+Jane snorted, saying, “There’s nothing to believe in! Mana exists. It doesn’t need me to believe in it for it to work, more than the rocks need me to believe they’d support my weight.”
+
+“… Do you remember what the very first blue box you ever got, said? The one that popped up for you when we fell to Veird. The initializing mana, one?”
+
+“I don’t see what that has to do with—”
+
+“We never talked about it, but it might be important?” Erick said, “Mine talked about expunging unauthorized metaphysical influences and how I had no desire—” He held a hand up into the air, manifesting a blue box for Jane to read. “Here. You can get yours back with a small prayer to Rozeta.”
+
+Unknown Entity detected!
+
+We see you!
+
+Initializing mana integration…
+
+Adult <Species: Human> detected!
+
+Welcome to Veird!
+
+Beginning adult <Human> registration.
+
+Scanning…
+
+… Unauthorized metaphysical influences discarded.
+
+… No innate magical traits discovered.
+
+… No historical magical influences discovered.
+
+… No desire for magic discovered.
+
+ERROR.
+
+Higher priority requested.
+
+Higher priority obtained.
+
+Reorienting scan…
+
+No approved influences detected!
+
+Warning! As a <Species: Human>, registration is required to use magic!
+
+Warning! Major physical damage detected!
+
+Warning! You are far below 0 HP!
+
+Warning! You are dying!
+
+Sorry! We are not able to support your life choices at this time!
+
+Consult your local priest or registrar for further assistance.
+
+YOU ARE BARRED FROM MAGIC.
+
+Registration paused. Returning to basic interface.
+
+ERROR! Catastrophic physical damage!
+
+A child’s assistance <Species: Human>: Casting [Greater Treat Wounds].
+
+You are at 1 HP. You have stabilized.
+
+A child’s assistance <Species: Human>: <The closest registrar has been contacted.>
+
+<Your location is known. Someone is on their way!>
+
+Reading such an old blue box brought back a flood of emotions. The fall through the sky. A walk through a desert of crystal plants, not knowing how deadly it was to get near some of them until much later. A giant black bug that tried to scrape open her leg to feast on her blood, then hiding the wound so her father wouldn’t see. Running from one of Melemizargo’s [Familiar]s, that Jane later found out was named Purodhalia.
+
+Erick’s initializing box was different than Jane’s, though. Not that different, but different enough to matter. Maybe. She gave a small prayer to Rozeta, and got hers back, if only to look at the box again, but she already knew what it said. As she read it again for the first time in almost ten months, she felt a familiar anger take hold.
+
+Unknown Entity detected!
+
+We see you!
+
+Initializing mana integration…
+
+Adult <Species: Human> detected!
+
+Welcome to Veird!
+
+Beginning adult <Human> registration.
+
+Scanning…
+
+… Unauthorized metaphysical influences discarded.
+
+… No innate magical traits discovered.
+
+… Historical magical influences exceed allotted amount.
+
+… Desire for magic exceeds allotted amount.
+
+ERROR.
+
+Higher priority requested.
+
+Higher priority obtained.
+
+Reorienting scan…
+
+Your desired path exists, but it is not freely given.
+
+Zero approved spells allotted at this time.
+
+YOU ARE BARRED FROM MAGIC.
+
+Registration paused. Returning to basic interface.
+
+ERROR! Catastrophic physical damage!
+
+A child’s assistance <Species: Human>: Casting [Greater Treat Wounds].
+
+You are at 1 HP. You have stabilized.
+
+A child’s assistance <Species: Human>: <The closest registrar has been contacted.>
+
+<Your location is known. Someone is on their way!>
+
+She handed the blue box to her father, saying, “I wanted too much, so it gave nothing, but even after learning more, I’m still not as successful as you.”
+
+Erick read the blue box. First, he frowned. But then he read it again, seemingly contemplating the words. And then, instead of being sympathetic, or questioning, or anything that Jane expected, her father smiled, small at first, and then wider. He laughed.
+
+She almost threw her drink on the floor, but instead she just spat, “What the FUCK, Dad? I pour my heart out—”
+
+“No no! Jane!” Erick smiled, saying, “Everything you want, exists! This proves it! You shouldn’t have any problems, but maybe you just haven’t done what you actually wanted to do?”
+
+Jane pulled back. “… I tried.”
+
+“Yes! I know you tried, Jane.” Erick set down his drink, then asked, “But what was the very first thing you talked about when we dropped here?”
+
+“That old, stupid idea.” Jane frowned, saying, “[Teleport]ing Paladin was a limit that I quickly realized was unnecessary to have. Heavy armor is a waste of [Conjure Armor] and monstrous forms are too powerful to ignore.”
+
+Erick seemed almost hurt by Jane’s words. He said, “But you loved playing paladins? Warriors of the light and the good? You talked about it all the time when you were younger. [Smite]ing evil and ending necromancers and helping people?” He asked, “Whatever happened to that?”
+
+Jane had no answer, besides the one she had already given.
+
+He said, “If you got every Elemental Body, then you must have gotten every [Polymorph] form you needed for Polymage. So why haven’t you told me that you got the Class, yet? The Class you’ve been aiming for since you found out it existed?”
+
+“Because you’re right. Polymage is not me. Not exactly.” Jane shook her head, saying, “I don’t want to talk about Polymage right now.”
+
+“Okay. We won’t do that, then.” Erick offered, “How about we try for what a [Fly] spell would look like on a paladin?”
+
+Jane barked a laugh. She couldn’t help herself. Paladins didn’t fly. At least any of the normal paladins she ever played...
+
+… Oh.
+
+She mumbled, “Paladins don’t fly.”
+
+“Work with me, here.”
+
+Jane said, “Fine. They’d sprout wings and glow.”
+
+“Okay! Now we’re talking!” Erick turned back to the chalkboards where he promptly drew a stick figure with wings drawn in a loopy, childish manner. “Now your Polymage could just sprout the wings, couldn’t they?”
+
+“… Yes. But I want an aura of wings. Not something sprouting out of my back that means I have to change armor all the damn time.”
+
+Erick wrote her requirements on the board, saying, “I’m glad you want to keep the armor. I’d prefer you to stay at home with me, but I doubt that would ever happen.”
+
+Jane snorted.
+
+Erick continued, “So! Auras! An Aura of your Bird or something? Razorwing, right?”
+
+“Actually, I got a Primal Frost Owl form just the other day. Silent flier, big as a truck and with the wingspan to match.” Jane smiled a little, saying, “Very fast, too. Naturally chills anything I touch, but I’d imagine that if I took Polymage I could get the Class Skill that would let me turn that chilling touch up to freezing, easy enough.”
+
+“Have you considered totems, or spirits? Like an aura of your polymorph forms, that you can wear into battle without actually changing your form?” He playfully added, “Maybe that way you wouldn’t be naked all the time, out there.”
+
+“I have considered that, and I don’t like it.”
+
+“Why not!” He said, “You can still use your [Polymorph] forms if you wanted to, can’t you?”
+
+“Nope.” Jane smirked. “Mantle Warrior, which is the Class you’re thinking of, requires you to consume your alternate forms to create your auras.”
+
+“That’s dumb.” Erick said, “Make your own Class, then. You’ve done more than enough to get there.”
+
+Jane said, “I’m trying.” As the thought came to her, but before she could put up her defenses that demanded she not speak to her father about such an idea, she asked, “What would a Prismatic Polymage Paladin look like to you?”
+
+Erick immediately said, “Someone who doesn’t let stone walls or flying distance or lava barriers or oceans, or shadows or light, get in the way of defending those who need defending. Someone who rejects the power of their enemies, who breaks what needs breaking. Someone as brave and as strong, and as smart, as you, Jane.”
+
+Jane smiled to herself as the sun touched the ocean, in the western sky. Shadows stretched into Windy Manor, but the lights of the house and the dense air made the house feel like a home, especially with her father standing not two meters away from her. She set down her drink, as tears threatened to fall.
+
+She stepped forward, into her father’s arms. She hugged him tight, as he hugged her, their heads upon each other’s shoulders. It was only then, that she let her tears fall, but there were no racking sobs. She was not sad, she was just overwhelmed. Her father’s ideas could work, but even if they didn’t, she loved him all the same. She laughed a little.
+
+He said, “The defensive Prismatic option is better than another [Smite].”
+
+Jane laughed again. Erick chuckled.
+
+Jane said, “And [Air Body] is basically [Fly], anyway.”
+
+“Oh my gods!” Erick laughed, saying, “It is, isn’t it! Ha!”
+
+The two of them stayed like that, for a while longer. Jane broke away as her father did. He had been crying, too.
+
+Jane laughed, saying, “It’s so weird to see you look this young.”
+
+Erick smiled, as he dried his face, saying, “I love you, too.”
+
+“I love you, too!” Jane moved toward the kitchen, saying, “More cake?”
+
+“Yes!” Erick stepped toward the kitchen with her, saying, “But when are you coming back to Spur?”
+
+“Soon, probably.” Jane said, “And I don’t really need [Fly] with [Air Body]. I’ve just been jealous of your [Flight of a Thousand Hands] for a long time.”
+
+Erick smirked. “It is rather Handy, isn’t it?”
+
+She paused. “I set that up too well for you, didn’t I?”
+
+“Yup! More cake?”
+
+“More cake.”
+
+More cake was had, and it was good.
+
+- - - -
+
+As the sun vanished below the horizon, Jane stood off-center of Windy Manor. Shadows licked across her feet and twisted in every darkened corner of the house, while Erick looked on, leaning against the kitchen table.
+
+Erick asked, “Do you feel the mana?”
+
+“I think so?” Jane said, “I guess I always have, but it doesn’t feel that much different than myself.”
+
+Erick said, “I think what the [Shadowalk] is doing is spreading yourself out wide enough that your aura is interacting with the world on a much larger scale, artificially increasing your contact with the Manasphere. If you can control that point of contact with the Manasphere, you can coalesce something out of it, along lines already there in the Script.” He said, “Try channeling mana through [Conjure Weapon], and feel the harmony. I think this harmony is a way for the Script to interact with the mana, but I have no idea why the mana takes to the harmony like this.”
+
+Jane held a hand out. Shadows thinned to nothing, as she cut that spell, and began channeling mana through [Conjure Weapon], and her hand. Dark blue light flickered like flames across her palm. A length of cutting force manifested in the mana display, humming with a sound of severed endings. Jane could hear that cutting end, for the first time since her father showed her his way.
+
+She smiled. “I can hear it?” She said, “I think I can?”
+
+Erick nodded, saying, “It sounds almost like mine, but yours is more of a cutting end.”
+
+“Ha!” Jane said, “That’s exactly what I was thinking, too.”
+
+Erick smirked, waiting.
+
+Jane flickered with shadows, and magic, as she hummed her greater self into something sharper, something meant to end threats and—
+
+A length of shadow twisted across her palm, expanding outward. She gripped the magic, holding it tight as Force coalesced outward into a length of darkness two meters long. The weapon was made of fractures near the base, broken except for where she gripped the darkness, and a single edge made of sharpness. It was almost the exact same sword she always summoned, but denser and thinner at the same time.
+
+Special Quest Complete!
+
+You have remade a Basic Spell.
+
+Since you already have Conjure Weapon, here you go:
+
++1 point!
+
+Erick cheered, “Wooo! Good job, Jane!”
+
+Jane’s face almost hurt from smiling so hard. She said, “Thank you, Dad.”
+
+“That was all you! I just helped a little.”
+
+She opened her palm, releasing the magic. The sword vanished in a rapid series of crackling dark fragments. “That was more than a little help.”
+
+“I respectfully disagree.” Erick smiled. “Now, to make [Conjure Armor]!” He added, “Oh! A thought! Make the original spell, then make an aura version, so that you don’t have to remake it every time you change [Polymorph] forms!”
+
+“Ha! Good idea.” Jane sarcastically said, “It’s magic, right? Shouldn’t matter if there’s a physical barrier.”
+
+With a serious tone, Erick said, “Magic can be anything you want it to be, Jane.”
+
+Jane didn’t know if she truly believed that, but crazier things had happened, like falling to another world, for one. She smiled to herself, as she channeled mana through her upturned palm again. Sounds of defense and safety echoed from a thin blue-black layer of light that hugged the air just about her skin. She held onto that sound, and feeling, as darkness crawled across her skin. She grabbed the mana around her, and formed it into armor.
+
+Simple as that. A notion, a form, a pressure, and it was done.
+
+Erick laughed. “Now that’s some fantastic armor! Much better than a gambeson!”
+
+Jane looked out through a clear bubble of Force that was dark blue at the edges of her vision, but didn’t seem to impede her breathing at all. She looked down. Dark scaled armor held against her hand, forming hard plates of blue-black Force that covered her forearms. Her chest and stomach was covered by thick, many jointed plates, but she twisted, and her ease of movement showed that the construction of her armor was beyond an instinctual understanding of how it worked. Jane conjured a [Scry] orb into the air, just to see what she actually looked like. She gasped.
+
+Like a cross between dark, blue crystal and hard steel angles, Jane’s armor would have fit in with any part of the jumbled, dark kendrithyst growths in the deeper reaches of the Dead City, or in an artisan’s exhibition of heavy armor. Her pauldrons were thick with overlapping protection, but she moved her arms, and there was no restriction. She twisted her head around, and felt no resistance, though her helmet fully covered her head and neck, while ridges started behind her head to trail down her back, looking like jumbled crystalline spikes that tapered down to nothing just above her butt. That ridge, and the layered plate to both sides, looking more than able to protect her spine and her kidneys from most heavy blows. Her legs were fully covered by hard, overlapping edges, but as she jumped up and kicked out to test her range of movement, there was no restriction there, either.
+
+She slammed her gauntleted hand against her stomach, [Strike]ing herself. Hardened plates of Force moved against each other, individual scales refusing to break, even though Jane had used more than enough force to fracture normal plate [Conjure Armor]. The ease at which plate conjured armor would break under normal stress was why Jane never used such designs. But this form here seemed to transfer the [Strike] across multiple plates, lessening the blow to her body by a considerable amount.
+
+Jane had tried to make heavy armor like this, before now, but it never worked, so Jane had abandoned all hope of ever wearing heavy protection. But she had succeeded this time, even if she hadn’t done it on her own. She had made something wearable. Something that made her inner, childish paladin turn flips, and her stomach roil with butterflies.
+
+As she took it all in, understanding what she had made, and felt good, a blue box appeared.
+
+Special Quest Complete!
+
+You have remade a Basic Spell.
+
+Since you already have Conjure Armor, here you go:
+
++1 point!
+
+Jane laughed—
+
+Ah! Her face was fully covered by translucent force, but there had to be holes down in the overlapping scales around her neck. She could still breathe just fine. This was awesome.
+
+“Good job, Jane,” Erick said, looking like the happiest father in the world.
+
+“I was never able to make my armor this fast… It always took ten seconds, or a quickened construction. But this… This is good?” Jane said, “This is good.”
+
+He asked, “What else do you want to make?”
+
+“We’re on a roll! Let’s try aura-armor.”
+
+Erick smiled.
+
+Ten minutes later, Jane had created the first spell she was proud of since she made [Invisible Rejuvenation], all those months ago, in her first experiments in magic on Veird.
+
+Mutable Aegis, instant, self, aura, 10 Mana per second
+
+Coalesce ethereal armor onto your body. After supporting Mutable Aegis for 10 uninterrupted seconds, you may choose to substantiate your aura. If you are already wearing conjured armor, activating Mutable Aegis will turn your armor ethereal.
+
+Jane stood apart from her father and the furniture of the room, and turned on her new aura. Ethereal blue darkness took hold across her skin, like jagged, scaled plates, made of almost-invisible glass. It looked funky, almost like a craftsman took way too long stringing together plates of glass. But it felt good. She moved her arms, and rolled her shoulders. She twirled one leg in the air, then the other. There was no resistance.
+
+The strange, crystalline [Conjure Armor] Jane had made when she remade the [Conjure Armor] spell had been as easy to wear as heavy clothes, and slightly more restrictive than her usual gambeson, but [Mutable Aegis] was like wearing nothing at all. It felt great.
+
+Ten seconds passed. Jane flicked her armor solid, with a thought. Near-invisible glass turned into solid, dark blue plates, overlapping and protective. Her total ease of movement turned into something lesser, but still acceptable. Jane grabbed the air, and flexed her arms. She kicked. She stood tall.
+
+“This is good, Dad.”
+
+“You still need some sort of Prismatic spell or skill, right?”
+
+Jane dismissed her armor, saying, “Yeah. Still not sure what that would look like, though.”
+
+“That’s fine. We can work on that, too.” He clapped his hands together, saying, “But for now! I want to see all your new Familiar Forms! It’ll be a dress up party, like when you were ten— Ohh! Jane! Do you remember your little dragon costume I made for you when you were eight? You were so cute!”
+
+Jane groaned, but smiled, as she held a hand to her face. She did remember that little green costume with the sequined scales and floppy wings. She giggled, then said, “Sure! Dress up party!” She pointed at him, saying, “I want to see what your [Conjure Armor] looks like, though!”
+
+Erick stepped away from leaning against the kitchen table, beginning to glow, as he said, “I barely ever use this spell. I like your armor, though. How’d you envision it all?”
+
+“I didn’t plan on it, it just happened. I’d have to test the scales in combat before I start really using my armor that way.” She conjured a divide in the center of Windy Manor, saying, “I won’t be showing off flame ooze, though. That would burn this place down.”
+
+Erick flickered white. Solidifying mana rushed across his shoulders, simultaneously wrapping over head, forming a hood, as it flowed down his body, around his legs and arms before flaring outward, turning into draping fabrics as it coalesced into leather-like boots and gloves. Metal curled around the stiffer shoulder pads, while small feathers and unmoving eyes accented his gloves. He was an indistinct white glow under his hood, with his eyes brighter than the rest of him. And then he cut his [Lightwalk].
+
+Jane withheld her judgment, for the moment.
+
+His smile returned, along with his gentle eyes, as he pulled back the hood of his [Conjure Armor]. He poked his own clothed chest with his not-leather gloves, saying, “I was thinking about that graphene stuff you talked about, whenever-ago. I think this armor came out okay?” He conjured a knife in one hand as he pulled taut the robes over his chest with the other. He poked the robes, but the knife did not go through. “Seems okay?”
+
+She said, “That’s all rather loose and billowy. It looks good, but as armor? I’m not sure.”
+
+Erick dismissed his mage armor, revealing his normal clothes underneath. Today, her father wore a plain white shirt that was practically a tunic, plain tan pants, and the same Earth shoes he fell to Veird wearing, with their rubber soles and bright white leather exteriors. Jane couldn’t blame him for the shoes. She’d wear her own pair of Earth shoes if she wasn’t transforming all the time. They were comfortable, after all, but for now, they were in a lockbox in Spur’s bank, along with her phone.
+
+Her father, though… For all his money and power, her father certainly didn’t dress as well as he could. Jane almost said something about the rest of everything he was wearing, but she held her criticism to his armor. Flowing robes were not good armor.
+
+Erick said, “Maybe you’re right. I’ll try again.” He shooed her off to the divider she had summoned, saying, “You go change, too.”
+
+Jane went behind the divider—
+
+“Oh yeah!” Erick said, “I learned this spell called [Clothe]. You take off your shirt and set it aside, then you pick it up and activate your Elemental Body, pulling the shirt into the effect. Then you put it on. I shredded my shirt once, but then I made the spell.”
+
+Jane had already discarded her clothes in a quick shift to shadows, but now she looked down at the small pile, asking, “Is that all you did?” She picked up her shirt. “Because I’ve done the same thing.”
+
+Beyond the divider, a white flash came down, as her father asked, “You have? Then you should have gotten it, too?”
+
+Jane was a hundred percent sure she had already done what her father had suggested. Quick changing clothes was one of the first hurdles to learning how to be a Polymage, if you were the shy kind of person. Some guides even listed [Clothe] as a good utility option for those embarrassed or afraid of being caught naked out in the world, but those words certainly did not apply to Jane.
+
+But another free spell would be nice? Why not?
+
+Jane put on her clothes, exactly how she had done many times already.
+
+Her shirt appeared on her body, while a pair of blue boxes appeared in the air.
+
+Special Quest Complete!
+
+You have remade a Basic Spell.
+
+Since you do not already have Clothe, here you go:
+
+Clothe 1, instant, touch, 25 mana.
+
+Touch a garment you have worn and wear it again. Maximum transferring range of 10m.
+
+“Well that’s just fucking weird, is what it is,” Jane said, already discarding her shirt back to the floor. She called out, “Looks like it worked this time. Strangely.”
+
+“Good!” Erick said, “I want to see your metal slime!”
+
+Jane smiled, as she shifted. Flesh and bones became bright silver liquid metal, as the world got much larger, and Jane shrunk down to an eighth of her original size. Eyesight turned indistinct and greyscale as she began to sense the world in every direction more with vibrations than with any true sight.
+
+She rolled out from behind the divider, plopping and flopping while doing a little fashion twirl in between. Coming to rest a few human-sized steps from her father, Jane spread two pseudopods into the air, like two tiny arms, as most of her attention faced the blobby shape that was her father.
+
+“Ta-da!” she said, with [Prestidigitation].
+
+Erick chuckled. “That’s really cute. But… It’s not too small, is it? You’re the size of a watermelon. A small watermelon.”
+
+Jane mocked offense, “This is a perfectly good form! It’s tiny and basically indestructible. Perfect for most smaller missions. I don’t like having the core, though, so maybe I’ll upgrade to ooze in the future. But not right now. Eyesight is pretty bad, but [Greater Shadowalk] takes care of that.” To prove her point, she flickered shadows into the house, saying, “Now— Oh. That’s much better armor, Dad!”
+
+Layered white fabrics, like Jane’s armor but softer, covered her father from his hooded head to his thick boots. He looked ready for a battle, or for infiltrating a snow-covered base hidden in some mountains somewhere. He’d stick out like a sore thumb almost anywhere else, though. But still! This design looked a lot safer than his first creation.
+
+“Looking good,” she said.
+
+“I modeled it from yours.” He dismissed his armor, saying, “It’s a bit stuffy, though. I’ll work on that.”
+
+“Armor is stuffy. No way around that, but aura armor kinda helps.” She rolled back toward the divider, saying, “Next form: Unicorn!”
+
+Erick giggled a little, as Jane transformed.
+
+He gasped as Jane’s twisting, prismatic horn appeared above the divider, followed quickly by her rainbow eyes. She walked out, fully into view, taking center stage in Windy Manor like she was the most majestic creature for a hundred thousand kilometers. A long, white mane flowed down a graceful neck. Powerful hooves, capped by thick, fluffy fur, clomped across the wooden floor. She was pure white, with bright eyes and a flickering tail. She stood proud.
+
+Erick said, “Beautiful, Jane. But that’s just the hidden form, isn’t it?”
+
+Jane nickered a horsey laugh, then said, “Oh yes.”
+
+She transformed, again. Glowing light turned into devouring darkness, as everything about Jane went negative. White fur turned black. Rainbow eyes turned into hollow pits. Shadows gathered around her hooves and her tail and her mane, as a normal horse mouth turned into a slashing, slippery nightmare of tentacles and fangs.
+
+Erick went silent. He breathed. He said, “No.”
+
+Jane laughed again, and this time it was full of unintended terror, with slapping tentacles and gnashing teeth.
+
+Erick repeated, “No.”
+
+“Okay okay!” Jane flicked her horn, imperiously, then turned and disappeared behind the divider.
+
+Erick demanded, “Something cute this time, please!”
+
+Jane laughed again. She heard her father shiver, as she transformed again.
+
+Fur turned to feathers. Hooves turned to hands, to wings, and also to clawed feet meant for grasping onto buildings and carrying away cows. Her head poked above the divider. With eyes a foot across, but locked forward, Jane turned her head to see her father. He looked less than thrilled to see a giant bird poking up to stare at him.
+
+Ophiel, however, took to the air, twittering in happy violins. He blossomed out to a much larger size, to take up a decent portion of the airspace of the house, but Jane was still larger than him, by far. She giggled, making chirping sounds that did not match her size, either.
+
+Ophiel chirped back. Chirp chirp chirp!
+
+Erick said, “Beautiful bird, but… It’s… Big.”
+
+“Yeah.” Jane did not move from her spot; she didn’t want to tear up the wooden floors with her talons. She was already visible, anyway. “I also didn’t take into account that barely any birds are able to move their eyes independent of their head.”
+
+Erick connected some dots, and said, “So if you’re going to get rid of that form anyway, then why not turn it into a flying form mantle, or whatever you’d call it?”
+
+Jane tilted her head back and forth, thinking.
+
+Ophiel decided to mimic her, turning himself over and back, his wings and eyes flowing across his mutable body as he kept up with Jane’s motions.
+
+“Oh gods.” Erick said, “That’s making me sick.”
+
+Jane laughed a frosty cackle, then purposefully twisted her head all the way upside down. “It’s not that bad.”
+
+Ophiel’s eyes widened, as he chirp-chirped and then tried the same movement, but he had to flow his wings back into a proper position in order to stay aloft; he could not fly upside down.
+
+Erick’s eyes went almost as wide as his [Familiar]’s. “No,” he said, emphatically.
+
+Jane laughed again, as she transformed back to herself, behind the divider. When she was back to human-mode, she took a moment to use her new [Clothe] spell. It was slower than just using her shadows, but it was still a free spell. Maybe there were useful higher tier versions of [Clothe]? She’d research that later, but for now, she stepped out into the light, to see her father. She chided, “That’s a pretty weak stomach, Dad.”
+
+“[Polymorph] is freaky! I don’t understand how you can do it!”
+
+Jane laughed again. She said, “[Polymorph] is great! I...” Her voice trailed off, as she thought, then said, “I really like [Polymorph].”
+
+Erick smiled. He thumbed at the darkened windows, asking, “Hungry for something besides cake?”
+
+She teased, “Don’t you have to get back to your minders?”
+
+“Actually, the Headmaster pinged me. He invited us to dinner whenever we were through, here. If you want to go?” He joked, before Jane could, “Want to go get eaten by a dragon?”
+
+“Haa! Yes.” Jane said, “Let’s go tempt fate.”
+
+Erick nodded, sending off a streamer of intent into the air. After a moment, he said, “Let’s take ten minutes, then go.”
+
+“I’ve got to put away the cake, anyway.” She added, “And sober up a bit.”
+
+“Not too much, though.”
+
+Jane agreed, “Not too much.”
+
+- - - -
+
+The Azure Room was the entire top floor of one of the business towers, in the northern crescent of Oceanside. It was not the largest tower around, for that designation belonged to North Tower, one of the three classroom towers of the city, but it was certainly still rather tall. The Azure Tower, and the Azure room at the top, were as cream-colored on the outside as all the rest of Oceanside’s buildings, but on the inside, the Azure Tower absolutely lived up to its name.
+
+Erick and Jane blipped onto the seventh floor. The floor was cerulean stone. The wardlights were blue crystal chandeliers, adorned with white glows. The walls were cream, with blue accents, while lifelike paintings of ocean life occupied central positions, and blue stone vases and sculptures sat atop cream-colored stone pillars, separating the paintings from each other. A curving staircase of blue stone, much larger than the one staircase back in Erick’s home in Spur, swirled up from the ground in front of Erick and Jane.
+
+Everything looked like it cost way too much. Jane felt underdressed.
+
+Erick said, “I feel underdressed.”
+
+Jane giggled, then said, “Let’s go. I hear music playing.”
+
+Erick nodded. Ophiel was already dancing on his shoulder, as he said, “I hear it too.”
+
+Jane led the way up the staircase.
+
+Faint musical notes became clear harmonies and sweeping rhythms. Beyond the staircase lay solid blue crystal double doors, that were already opened. Beyond the doors was a goldscale manservant, wearing something resembling a dark blue tuxedo.
+
+The room beyond was a thirty meter wide decadence of high class culture, and half blue. Blue gems encrusted the walls, and the high backed chairs that surrounded a central cream-colored wooden table, laden with elaborate silver sconces, while blue gem chandeliers hung from the ceiling. Blue-robed musicians played on a small dais set to the side of the space. Massive picture windows gave a full 200 degree view of the west, including the northern crescent arm of Oceanside, and the ocean itself. The sky was dark, but lights illuminated civilization, and the deep depths in the center harbor of the volcano-ring city.
+
+The goldscale waiter greeted them with a short bow, saying, “Greetings, Archmage Flatt, and daughter Jane Flatt. The Headmaster awaits your arrival.”
+
+Her father took the lead with Jane falling in behind, as the goldscale led the way down a short flight of stairs, to the gem-inlaid, white marble floors, to the only table in the room; a round wooden antique, for sure, with two empty seats and one occupied.
+
+The Headmaster remained seated, as Erick and Jane walked his way, looking every part like an old emperor with his immaculate gold-white robes. He had been watching them since they came into view, at the double doors to this room, but it was only now that he spoke, “Welcome, Erick and Jane.”
+
+Erick said, “Hello, Headmaster. Thank you for the invitation.”
+
+Jane said, “Hello”. She almost asked why there was only one table in this huge room, but she was certainly a hanger-on, in this scenario. The Headmaster likely only invited her to get to her father.
+
+Erick added, “This is a lot more upscale than I thought it would be.”
+
+The goldscale man gestured toward one of the chairs, then pulled it out for Erick, while he moved on to the next, for Jane. When he had completed his job, he took two steps away, and waited.
+
+The Headmaster smiled gently, saying, “The Azure Room is generally booked for months in advance. Sometimes years. But today’s guest has come and gone, and we are lucky to have the location for this night.”
+
+Oh. This place always only had the one table.
+
+Erick sat down, saying, “Glad to know I’m not putting anyone out.”
+
+Jane sat down; silent, listening.
+
+The Headmaster said, “I am glad we are able to have this talk, but also glad to finally have a reason to come here. They make the absolute best, well, anything! One of the few ten star restaurants on Veird, with Harvesters that scour the world for only the best ingredients, and Cooks, each with their own Perfect skills; Perfect Bake, Perfect Grill, Perfect Fry, and more.”
+
+The goldscale man waited for the Headmaster to finish, before stepping back to the table. Single tablet menus appeared in his hands. He set one down in front of each person, before standing straight, and asking, “Would sirs and madam wish for any specialty drinks?”
+
+The Headmaster ignored the menu, as he said, “A bottle of Eidolon Violet Red for the table, to start, and whatever my guests are having.”
+
+“I don’t know what that is, so I’d try it,” Erick said.
+
+“Same,” Jane said.
+
+“Two bottles, then,” the Headmaster said, adding, “And I will be employing security measures.”
+
+Jane smirked as the Headmaster confirmed this as an important conversation. The goldscale man bowed, then stepped away. The Headmaster flickered gold, causing a barely-there bubble to encompass the three of them and the table, and another two meters out. The sounds of the quiet band continued to fill room and the interior of the bubble.
+
+The Headmaster said, “It’s a one way bubble. They can’t see us perfectly, or hear us at all, but we can see and hear everything that happens outside of this space. I don’t expect us to speak of anything too important, but the option is there. If you wish to change this precaution, then let me know and I can put up something stronger.”
+
+Jane felt some dark joy in her heart, as she said, “Nothing to speak of?” Jane had not planned on poking the dragon, and certainly not literally poking the dragon, as she was about to do, but with those words from him, she couldn’t help herself. “I just learned that you can remake Basic Tier magic from the Elemental Bodies.”
+
+The Headmaster smirked. He said, “That is a secret tightly kept, you know. I hope you won’t go telling everyone.”
+
+“But why?” Erick asked, clearly interested in the answer.
+
+The Headmaster asked, “Are you not in touch with the Wayfarer’s Guild right now? Learning how dangerous it is to make Spatial Magics? That is why. Spatial Magic is only the most egregious offender; remaking Spatial spells kills more young people in more magical accidents than any other single branch of magic.”
+
+Jane said, “That is half a truth.”
+
+The Headmaster smiled wider.
+
+The goldscale man returned, carrying two large glass bottles into the bubbled space. No one said anything, as the man uncorked one bottle, and poured for the Headmaster first. The Headmaster sipped, declared it good, then the goldscale filled everyone else’s drinks and took their orders. Jane barely looked at the menu before deciding on ‘Fillet Evereach’; it was some sort of pastry-covered meat thing but she wasn’t quite sure. The goldscale left with their orders.
+
+The Headmaster agreed, “It is a half truth.” He said, “Here is the full truth: the Copy Mages and Spellthiefs of the world gain a huge variety of power, but the Class is a dead end. Stolen power creates stagnation, and for some reason, breeds more Hunters than you have ever seen. That is the true danger of the Copy Mage, and of the Recreation Quests you have begun to complete.”
+
+“But can’t Rozeta just make those Classes harder to get?” Jane said, “I was able to make my first decent tier spell in a long time after learning this knowledge.”
+
+The Headmaster frowned a little, but his expression was not of displeasure, but more like someone who gazed upon a set of numbers and saw that they didn’t add up. He asked, “You did? Congratulations, but at the same time, would you care to show me the spell?”
+
+Jane handed over the box for [Mutable Aegis]. The Headmaster read the box for a moment, then looked to the air. He hummed.
+
+The Headmaster dismissed Jane’s blue box, as he turned to her, saying, “That is strange. The series of events you are describing is how it happened, but correlation is not causation. More promising mages have fallen victim to their own falsely held ideas, than to too much work to ensure that their ideas were true.”
+
+Jane asked, “Were you looking at my Status?”
+
+“Oh no.” The Headmaster said, “I would not do such a thing without your consent, and certainly not in a location like this. But I do have [Witness], and you just described a most peculiar series of events, so I had to check myself.”
+
+“Oh.” Jane said, feeling slightly foolish. “Yes. Of course.”
+
+The Headmaster said, “As a suggestion, with the recreation of three spells, you’ve likely unlocked Spellthief. I would caution you against choosing this Class. You have expressed difficulty in creating spells before, but you seem to be having a breakthrough of some sort. Choosing Spellthief would erase that growth and lock you to whatever you have right now.”
+
+If Jane was the skeptical kind of person, which she was, she would have thought the Headmaster’s words another half-truth, but she was also a prudent sort of person, and she didn’t want to be a Spellthief anyway, so she said, “Good to know.”
+
+“It is no trouble. I am here to help students of all kinds.” The Headmaster said, “Ah! And here comes the meal.” He smiled, adding, “They are so quick here, too! Utterly delightful.”
+
+The goldscale server pushed a silver cart out from the doors to the kitchen. Three plates occupied his cart. In an expertly delivered minute, Jane was sitting in front of a pastry-encrusted, fist-sized hunk of meat, a mash of orange root vegetable, and long, tender shoots of some green not-carrot. The butter was copious, and the smells divine. She looked over to her father’s plate.
+
+Erick sat in front of a large, roasted bird, like it was Thanksgiving and he had ordered a whole twenty pound turkey, just for himself. He chuckled, saying, “Oh this looks great.”
+
+The Headmaster said, “The roast aer’delard is a fine dish.” He looked to his own three smaller plates, filled with various tapas-like vegetables, and meats, and even tortillas. It looked absolutely spicy, and smelled even hotter. Jane could almost feel her nostrils twinge from the red scents coming from his plates. He said, “But I always get drits and flats when I come here.”
+
+Jane asked, “Where does that come from? I need to visit these places that cook with these things.”
+
+The Headmaster laughed a hearty chuckle, then said, “The Spice Coast of Nelboor for these kinds of flavors. Or you can try the Spice Islands of Archipelago Nergal. They tend to add sugars to their dishes, though.” He lifted a hand to the air. A gold blip brought their waiter instantly to him. The Headmaster gestured to Jane, saying, “My companion would like to sample some spicy dishes of the Spice Coasts.”
+
+Jane felt her heart swell. She smiled, as the goldscale man stepped away.
+
+Dinner was good.
+
+Jane abandoned her initial meal and took up with spicy foods from all over the world. Her father eagerly traded for her ‘beef wellington’; it was one of his favorite specialty foods. His roasted bird got split up between the three of them, much to Erick’s joy, but Jane could tell there were going to be leftovers.
+
+The Headmaster spoke of monster invasions, while her father negotiated pricings for [Cascade Imaging]s, while offering help for any Ballooning Spider attacks that had yet to touch down around the world. It wasn’t long from there that they started talking of the weather, but instead of it being a casual discussion of average rainfall, they had spoken of desires, needs, and how to create artifacts.
+
+Broadly, the Headmaster suggested looking into Grand [Prestidigitation] Stoves for inspiration on how to create a [Weather Control] machine. Her father wanted to make something hand held, but the Headmaster said that such an item would be rife for abuse; better to make a complicated stationary machine than a sword easily wielded for war.
+
+It wasn’t long till dinner was over, and dessert came out on fluted, gold dishes. Three scoops of ice cream, or ‘icies’ as they called them on Veird, rested in each dish. One scoop was light pink, another was light teal, while the last was caramel colored, while cut fruit supported the scoops from below. The scoops were too uniform to be scooped out of anything, though. And they weren’t that directly cold, either. Maybe they weren’t icies?
+
+“What is it?” Jane asked, “Icies?”
+
+The Headmaster smiled. “Almost. I apologize for ordering dessert for you, but this truly is the best item on the menu, and it hardly ever gets ordered.” He held his silver spoon up as he said, “They’re called ricies. It’s a sweet rice dough-covered icie. It is considered a commoner dessert, which is why no one orders it up here in the Azure room, when you can get them to-go at the shops on the streets down there. You usually eat it with your hands, but this version has fruit and sauces.” He stuck his spoon into the teal ricie, revealing a thin, almost translucent layer of rice dough, covering a bright teal core. “It’s much better to have it this way.”
+
+“It’s mochi-covered ice cream,” Jane said, smiling. She stuck her spoon in the pink scoop, revealing a deep red center; an icie made of berries, no doubt. “I love mochi ice cream.”
+
+“I am glad to hear.” The Headmaster teased the rest of the world by agreeing with Jane, saying, “It’s so hard to find someone with good taste in desserts.”
+
+Conversation turned to talk of Candlepoint. Jane mostly listened to the two of them talk, but she almost raged when she heard about Valok.
+
+The Headmaster said, “They hardly ever torment people with spectres of the dead, but it does happen. There’s a reason it’s called the Dead City.”
+
+“… Oh.” Jane said.
+
+Erick just stabbed a ricie, clearly unhappy. He said, “How are they able to do that? Was it really Valok?”
+
+“Of course not.” The Headmaster said, “Resurrection doesn’t exist.”
+
+Erick stared at the Headmaster.
+
+The Headmaster said, “Life goes one way; to the End. Never backward. Never repeating. Death is death, and to consider otherwise is to put yourself under the power of another who is trying to take advantage of you in some terrible way.”
+
+“Change of topic,” Erick said.
+
+The Headmaster nodded.
+
+Erick said, “I want to learn [Duplicate] to try for [Gate]. Would you be able to provide assistance?”
+
+“Yes.” The Headmaster said, “But this is a greater discussion than what we were having. This would be transaction on the level of a bargain of trade, with an overarching necessity that you do not spread this information around, to anyone.” He looked to Jane, saying, “Anyone.” He turned back to Erick.
+
+“I get it.” Jane said, “I think I ought to leave you two alone for a bit to talk more spooky Spatial Magic, anyway. Any suggestions on how to make a [Familiar]? Dad says he won’t let me know that Spatial Magic until I have one.”
+
+Erick, surprised, asked, “You want a [Familiar]?”
+
+Ophiel, on his shoulders, echoed that surprise with a faint trilling.
+
+“No. I don’t.” Jane said, “But I might need one.”
+
+The Headmaster said, “I would not help you make a [Familiar] if you do not wish to have one. It would be foolish for all parties involved.”
+
+“There’s the verdict, then. No Spatial Magic for me.” Jane turned to her father, saying, “You’re just going to have to make me a ring of [Gate] someday.”
+
+Erick smiled. “That’s one of the plans.”
+
+“Good.” Jane glanced down at the scattered remains of her dessert. It was mostly just a creamy puddle of some blueberry-adjacent fruit she did not like. She said, “I am utterly full.” She slid her chair back, as she stood up, saying, “But I have magic to make, and you two seem like you need to talk. This was a great meal, Headmaster. Thank you for the invitation.”
+
+“Anytime, Jane.” The Headmaster grinned, as he said, “Good luck with your Prismatic ability.”
+
+Jane said, “Thank you.” She turned to her father, saying, “See you back at the Manor before you go back?”
+
+“Of course!” Erick said, “See you later.”
+
+Jane blipped away.
+
+Dinner and dessert and discussion had drawn on for at least two hours, and it might go on for a lot longer than that. Jane was glad to be gone from there.
+
+- - - -
+
+Jane had been lost for a while, never advancing. She had killed an Ancient Unicorn, but that was only with the help of her father. If it weren’t for [Pure Reflection Ward] she would have died in that moment. If she didn’t make something like a [Physical Reflection Ward] she would certainly die going forward.
+
+Her father would try to save the shadelings of Candlepoint, but he was on the chopping block with how much Bulgan had targeted him. Jane had truly kept her rage in check when her father had spoken of Candlepoint in the Azure Room, but now, free of propriety, Jane collapsed onto the couch and screamed into the seat cushions. She didn’t scream long, or loud. Just enough to vent some anger.
+
+She was weak, and she knew it. With how easily Professor Tinawa had laid her out with three short [Strike]s the first time they met, Jane knew she would have died if she had ever found Bulgan, back when she was serving a stint in Forward Base in Ar’Kendrithyst, looking for the former-man. She would certainly die if she attacked him now, now that he was a fully stable and secured Shade.
+
+Bulgan could attack Spur, or anywhere, any day now, and Jane would have to watch her world crumble under his fists.
+
+So she asked herself: Why the fuck was she taking so much time with her Class decision? And what would be the best way to attack and/or defend against a Shade? A blade that cut through anything? Or evasion, so that enemy attacks could never hit? Or a defense that made an enemy’s hits meaningless?
+
+Jane sat up, lifting her face from the couch cushion. A dark blue fire burned in her eyes, eclipsing her natural brown tones, as she decided, “Defense, to block and soak and evade; to keep the evil at bay. I already killed one Shade, but the only reason I didn’t die was because he toyed with me and wasn’t expecting a counterattack.
+
+“I won’t be toyed with again.”
+
+She stood up. Shadows wrapped around her, as she moved from the dense air of the living room, to the outside of the house, where gardens grew and grass extended to the edge of the cliff. She stepped once, and was at that edge. Salt-touched breezes flowed up from below.
+
+Another step took Jane further away, to one of the many spots she had been before in her exploration of this place. Another step, not through shadow, but across scattered rocks, brought her to the water’s edge on a stone-filled beach, where the ocean stretched out to the west and cliffs loomed high above. The night sky was a dark omen, littered with points of light and the slivers of three moons, just above the western horizon. This place was empty according to her shadowy investigations, but Jane didn’t care if anyone saw what she did next.
+
+With another flicker of shadow, every item she wore laid in a nice pile, away from the water, safe by the cliffside. Another shadow shift brought together several piles of driftwood that had rolled up onto this darkened cove some time in the past. Jane flickered to heat, turning her body into fire, as she stepped onto the driftwood, urging it to burn. As she stepped out of the flames, she turned to air, joining the sea breeze coming from the ocean. She briefly rode the wind upward, before diving down.
+
+Wind shifted to water. Jane flowed down into the ocean, spreading her senses wide.
+
+Someone had been watching her. There was a shadow in the sea. A density, just out of reach. It was no threat, though; it spurted ink, and the octopus zoomed away, fearful of the vibrations Jane churned in her waters.
+
+Jane let the mana take her; let whimsy and flow guide her forward. It had worked for her [Conjure Armor], her [Conjure Weapon], and her father, so why not see what the world had to say about her Prismatic self? So far, she felt the tingling of a possibility, just out of reach. But she could strive for it. Maybe she could find an answer. Maybe she had already seen her answer?
+
+To be mutable was to survive, wasn’t it? To change form to overcome any obstacle?
+
+It was a good thought.
+
+Jane chased that thought.
+
+Jane smiled, and the ocean smiled with her, as she lifted from the depths and took to the sky as an owl. Somehow, she had ridden the waves out to sea, but she had not gone far. The land was right there, so she flew toward the cliffs, racing faster and faster, for what were cliffs, when one was already a part of the land?
+
+Bird met rock, and bird became rock, flying into the depths on wings made of stone. Sight failed her in here, and feathers did nothing for her, so Jane twisted into a droplet of silver metal. Suddenly, the world turned radiant, opening up for her experience. She saw the wonders of the deep places. She spied the holes where people made their homes in the dirt, and the twists of metal deposited by old eruptions. She went deeper, faster, and saw the tunneled Underworld below, as she avoided other monsters that lived in these stony depths she trespassed upon.
+
+She felt the bones of the island, for they were, perhaps, truly bones. Jane had read that Veird was made from the collected corpses of dead gods and dead worlds, but she did not think that there were truths to those tales.
+
+Jane felt something primal swell within her as she witnessed the world below. How was she moving this fast? How was she seeing this far? But none of that mattered. The only thing that mattered was that she was exploring, and she was seeing, and that was everything to her.
+
+A change of angle brought her up, back to the surface, near a volcanic vent, under the ocean.
+
+Stone became water, and Jane changed again, into a droplet of water herself, but tiny water slimes were not meant to survive in these depths. She was uncomfortable, so she became an ooze made of flame. Water boiled at her presence, but she could be water and fire at the same time, so she was.
+
+She boiled and bubbled her way back to the surface, becoming multiple conflicting things at the same time as she burst from the water and became something else. She became stone of flesh but fire incarnate to float above the waves as she dipped down and transformed yet again into a one-horned terror made of shadows and light that became something else, entirely, as she raced back to land, back to the beach where she had started her journey.
+
+If someone were looking at her, they would have seen a unicorn made of ooze made of metal made of feathers, with eight legs and too many eyes, racing across the water and through the water and above the water. Or, if they were looking a second later, they would have seen a woman, racing on the water, made of prismatic light, untouched by the world, but also a part of everything around her.
+
+Jane saw everything. She was everything. But she was also just a person. Her run slowed as she neared the cliffs. She stood on the water, just before the rocks. She stepped onto the darkened beach. Her hair floated around her head like she was underwater. A part of her still was.
+
+Which was why, when a two meter long, bright white claw and the darkness it was attached to, descended upon her, all bright power and utter night, Jane did not move. She did think to move, for she was not really where she appeared to be. The claw pierced right through her unmoving body, followed by a four meter wide dragon’s paw and four other claws similar to the first that settled down, into the stone, crunching rock with its world ending weight.
+
+Jane stepped out of the air, and the water, and everything else at the same time, to stand beside the dragon’s blackscaled foot. She was still glowing, still prismatic. Her eyes were fire, but her notions of Reality were not quite solid, at that particular moment. She had lost herself and gained herself on her run through a tiny part of the world. If she had been all there, she would have recognized something normally very bad was happening to the cliffside.
+
+The claws and the paw that had descended onto her were a part of a much greater whole. That first limb ended in shadowy depths attached to the cliffside, but above that swirling darkness, there was more. Shadows gathered along the edges of broken stone, spreading out, becoming.
+
+A person-sized snout, fifty meters up, poked from the cliffs, and kept coming, jaw and cheek, whiskers long and flowing, and glowing white eyes, fully opened, that illuminated the night like two full moons. Horns, curling and rough stretched behind a head larger than some houses, on a neck thicker than some trains. The beast’s mouth opened, revealing fangs as large as orcols that also glowed white, almost as bright as the Dark Dragon’s eyes.
+
+He craned his neck out from the stone, stretching, stretching, covering the moons with his massive head and horns and fangs, covering Jane in further darkness. Out of the corners of her eyes, and perception, she saw wingtips slip from the cliffsides. The tiny driftwood fire she had created before her run was still there on the beach, still sending tiny glows into the night, but it seemed like nothing compared to the Darkness looming above.
+
+The Darkness turned to her, and smiled.
+
+Jane had enough strange presence of mind, to ask, “Where’s my laptop?”
+
+Melemizargo chuckled. Cliffs broke. Waves crashed. Air thrummed. The tiny fire Jane had conjured upon the driftwood instantly gutted and the pieces scattered back into the ocean.
+
+“The laptop is in the city of Kendrithyst. Strive to collect it, if you wish, my little Prismatic Paladin.”
+
+“I’m not a Paladin, yet.”
+
+“Not without a God’s Blessing, you’re not.” He thrummed the world, asking, “Would you like my Blessing?”
+
+“No thanks.”
+
+“A pity.” Melemizargo moved his head down toward the water, twisting to view still-glowing Jane on the beach, head on. All Jane could see were teeth, all she could feel was a hot wind blowing, as he said, “I could use a house cleaner.”
+
+The dark sky returned as the Dark Dragon retreated, into the stone, away. Wings flapped but there was no wind. Stars twinkled up above. The moons shared their slivers of light with the world, once again.
+
+What was she doing, again?
+
+Jane blinked. She looked at her hand, and saw flesh made of light and shadows and everything in between. Recognition of the magic brought solidification, and also dissolution, as shadows peeled away and light faded. Fire and stone cooled to meat and bones as water and air became blood and breath.
+
+A blue box appeared—
+
+The massive paw and claws next to her, retreated into the stone, white claws briefly lighting the night before going pure dark, crunching rocky beach as the appendage slipped away, back into hiding. Jane broke out in a cold sweat, despite the cold night air and her complete nudity. A scream almost tore from her, but an echoing laugh came from the cliffside, demanding she keep her wits about her.
+
+High above, something broke from the wall. Several tons of rock dropped down from above, landing not ten meters from Jane, crashing into the beach and the ocean.
+
+And that was more than enough of that! Thank you very much! Time to go!
+
+Jane ripped her pile of clothes into her shadow—
+
+Something was inside the nearby shadows.
+
+Touching her familiar magics was like stepping into a room and seeing it occupied by a stranger. Jane instantly switched to air, grabbed her clothes, then swished away, back home, away from the beach, away from the Dark Dragon lurking in the cracks of the world.
+
+Back in the Manor, Jane panicked for a good minute. Then she made herself a nice, tall glass of Sunset Red, and downed the whole thing. Then she put on her clothes. Then she collapsed on the couch and checked her most recent notification.
+
+Prismatic Body, instant, long range, 25 Mana per second + Variable
+
+You are here.
+
+Jane said, “Simple, but effective.”
+
+The air blipped white. Her father stepped into the house, looking a little haggard in the eyes.
+
+“Heeeey, daaaad,” Jane drawled, unsure of herself at the moment.
+
+Erick said, “I’ve been conscripted for a few Ballooning Spider Horde drops that they expect to happen in a few days.” He glanced to the open bottle of Sunset Red sitting on the table in front of Jane. “Still drinking?”
+
+Jane waved him off, saying, “I can barely get drunk anymore. This is basically just better tasting water.”
+
+“That’s a lie.” Erick sat down across from her, picking up the bottle. He downed a shot straight from the source, then said, “Tangling with dragons is rough.”
+
+Jane just smiled.
+
+And then she told him what had happened to her, not ten minutes ago. He might have his secrets about gods, but Jane decided on transparency; it was the better strategy going forward, considering what was coming down the line from Ar’Kendrithyst.
+
+Erick had a minor shit fit. He also congratulated her on her new magics, but then he went back to sputtering anger and undirected worry. It wasn’t long before other people were involved, including a few Elites and the Headmaster.
+
+The Headmaster was much more calm, simply saying that, “His last words are concerning. Do with his words what you will. As for the rest of your experience… This is also concerning, but not overly so. He usually appears to interesting individuals, and you two certainly qualify.”
+
+Jane sent her father off, back to Spur, as the sun rose on Oceanside.
+
+“I love you, Dad,” Jane said, hugging her father one more time. “I’ll be home, soon.”
+
+“I love you, Jane,” Erick said, hugging his daughter, again. “See you soon.”
+
+- - - -
+
+In a well-protected room behind a Script-blue door, Jane sat across from a petite, older incani woman with large black horns and dull red skin, named Alanaria, while a large blue box of options hovered to the side.
+
+Jane smiled as she saw what she wanted, near Polymage and Paladin, but right beside Prismatic Paladin. She said, “Prismatic Polymage. Yes. I choose this one.”
+
+Alanaria nodded, then pressed the air a few times. The large blue window vanished.
+
+A smaller blue box appeared, directly in front of Jane.
+
+Class Quest!
+
+A True Prismatic Ability, Skill, or Spell 1/1
+
+AND one of:
+
+Abandon your initial Familiar Form 0/1
+
+OR
+
+Acquire an aquatic Form 1/1
+
+Acquire an aerial Form 1/1
+
+Acquire a fiery Form 1/1
+
+Acquire a grounded Form 1/1
+
+Acquire a hidden Form 1/1
+
+Acquire a mesmerizing Form 1/1
+
+Reward: Prismatic Polymage Class
+
+Jane smiled. She accepted the quest, and then she completed it.
+
+A brief pulse of change rippled through her, breaking down barriers, expanding, expanding.
+
+Jane came back to herself. She checked her Status.
+
+Jane Flatt
+
+Human, age: 22
+
+Level 71, Class: Prismatic Polymage
+
+Exp: 8.413 e15 / 49.845 e15
+
+Class: 1/6
+
+Points: 8
+
+HP
+
+4800/4800
+
+4800 per day
+
+MP
+
+6360/6360
+
+6360 per day
+
+Strength
+
+30
+
++51
+
+81
+
+Vitality
+
+30
+
++51
+
+81
+
+Willpower
+
+55
+
++51
+
+106
+
+Focus
+
+55
+
++51
+
+106
+
+Favored Spell waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Favored Ability waiting!
+
+Prismatic Polymage
+
+Unlock Monster Abilities
+
+<empty>
+
+<empty>
+
+<empty>
+
+<empty>
+
+<empty>
+
+She focused on her Shadow Spider form, and an extra blue box appeared. It was a bit skimpy on the details, but she didn’t really need details. She knew how these skills worked, already. Mostly. Looking at the Form with the Class Ability to Unlock Monster Abilities gave her a few nice surprises.
+
+Body:
+
+[Spider Mind]; always active
+
+[Thread Control]; replenish basic threads, 50 Health
+
+[Mana Sight]; always active
+
+[Vibration Sense]; always active
+
+[Toxic Venom]; replenish basic venom, 50 Health
+
+All:
+
+[Erase Presence]; 5 Health per second
+
+Jane smiled. The ‘Body’ designation meant that she would have to have that body part if she wanted to use that ability, but now she could mix and match abilities and have them cohesively integrate into a whole. [Mana Sight] as an owl. Envenomed fangs as a metal slime.
+
+She quickly checked her other forms. There was some overlap. Both spider and slime had a [Vibration Sense] but the slime’s was called [Stone Sight]. This would take a lot of experimenting and getting used to, and so much trial and error.
+
+But it was the ‘All’ category that had Jane really happy. Those were the abilities Jane didn’t need to transform to use.
+
+[Aura of Freedom], from the Unicorn, exactly as expected. [Erase Presence], from the spider, unexpected! And fantastic! Water slime had nothing, as expected, but her metal slime had [Stone Sight], which was great. Her owl had [Freezing Aura]; Jane would have to experiment with that one, but if it was anything like the original’s, Jane could freeze and shatter at a touch. Flame ooze had [Burning Aura], which Jane had never considered a magical effect. Flame oozes were basically lava, after all. But it was still a nice, unexpected bonus.
+
+Alanaria asked, “Would you care to discuss Class Abilities, now?”
+
+A large blue box with dozens of Class Abilities appeared to the left, hanging in the air.
+
+Jane tore her sight away from her Familiar Forms, to read the larger, hanging box in the room. Her eyes widened. She said, “I did not expect that!”
+
+Alanaria grinned, saying, “We have lots of time to discuss every Ability on that list. But before all of that, since you have chosen this Class, I have been informed by Rozeta to tell you that ‘Paladin’ is not always a Class. Sometimes it is a sub-Class gifted directly by a god, in addition to what you already have.”
+
+Jane blanked for a good ten seconds. Then she laughed. “Good to know!”

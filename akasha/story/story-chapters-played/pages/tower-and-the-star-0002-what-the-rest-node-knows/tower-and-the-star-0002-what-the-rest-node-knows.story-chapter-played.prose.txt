@@ -146,3 +146,87 @@ She felt the answer before she could shape it into sentences -- felt it the way 
 
 The word came out with a certainty that surprised her.
 
+"I like -- I like that everything means something in here." She was talking before she had decided what to say, which was not how she operated, which was maybe why it was coming out true. "Before the Event, I spent a lot of time studying how things connected. Linguistics, cognitive science, constructed grammars -- how the structure of a language shapes the thoughts you can have in it. And it was always -- the connections were always partial. You could see them but you could not stand inside them. You could map the system but you were always outside the system, looking in."
+
+She paused. Her hands were on her staff, fingers tracing the smeared chalk notation she had not yet rewritten.
+
+"The Tower is a system I am inside. And everything in it -- the skills, the stats, the way we fight, the way the floors are structured -- it is all connected. Every piece affects every other piece. When I use Arcane Analysis and the data feeds to all of you through Harmony Conductor, that is not a metaphor for connection. It is connection. It is real. It is happening. And I --"
+
+She stopped. She had arrived at the part she had not planned to say.
+
+"I have always wanted to live in a world where things felt connected and consequential. Where what you did mattered in a way you could actually perceive. And the Tower is exactly that world, and I hate the price of it, and I love it for exactly that quality."
+
+She said this to five people in a warm alcove on the seventh floor of a building that had cost the world more than she could calculate, and she realized, mid-sentence, that she had never said this to anyone. Not in fragments. Not through the filter of competence. The actual thing.
+
+The rest node was quiet.
+
+"Yeah," Nadia said softly. "That's what I thought."
+
+Dayo was looking at Solenne from her high perch with an expression Solenne could not fully read -- something between recognition and a tenderness that Dayo would deny if asked about later. Tomás had not moved. Miriam's hands were still on her staff but her eyes were on Solenne with the quality of attention that meant the Empathic Sense was reading something and that what it was reading was being taken seriously. Vesper had stopped working. Her hands were still over the Forge, and she was looking at Solenne the way she looked at a material that had turned out to be something other than what she expected -- not disappointed, not surprised, something closer to revised understanding.
+
+Nobody said *that's beautiful* or *I understand* or any of the things people say when someone has been accidentally honest. They sat with it. The Forge hummed. Dayo's shoulder continued its slow recovery. The bioluminescent walls pulsed their warm light.
+
+It was enough. It was, in fact, exactly the right amount.
+
+---
+
+The party settled toward sleep in stages.
+
+Dayo first -- she pulled her legs up onto the root-shelf, leaned her head against the wall, and was out in minutes, the deep immediate sleep of someone whose body knew how to recover from exertion without permission from her mind. Nadia curled on her side near the Forge's warmth, the green scarf pulled up around her ears. Tomás did not appear to sleep, but his breathing slowed and his eyes half-closed and his body entered the particular stillness that was his version of rest -- present, aware, but allowing the edge of alertness to soften by a fraction.
+
+Miriam checked each of them. Solenne watched her do it: the quiet circuit, the brief touches, the reading of each body's state with the doubled awareness of medic training and Empathic Sense. Miriam paused longest at Nadia. She did not wake her. She adjusted the scarf where it had slipped.
+
+Vesper was the last one still working. She completed a final item -- a small, dense thing Solenne could not identify from across the node -- and deactivated the Field Forge. The hum stopped. The silence that replaced it was warmer than silence should be.
+
+Solenne sat against the wall with her staff across her knees and her notebook open and did not sleep, because she was Solenne, and sleeping was the thing she was worst at. Tomorrow: two more crawlers, the bonus Skill Book, the corridor sweep she had promised. The number sat in her mind like a bookmark -- *94/96* -- but it did not feel urgent. Other numbers felt more urgent now. Her RES was at 18. She knew this the way she knew her own heartbeat -- a constant, quiet awareness of the number and what it meant. She was close to something. She could feel it the way she felt the sealed doors -- not through analysis but through the Resonance Map's deeper register, a threshold she was approaching that she could not yet name.
+
+She was thinking about thresholds and connection and the look on Nadia's face when she said *that's what I thought* when her Status Window activated.
+
+Not the standard notification. Not the clean blue-white of XP awards or floor completions. This was different. The window that materialized in her perception was bordered in a color she had not seen the System use before -- a deep gold, warm, almost organic, as if the notification itself had a temperature.
+
+```stat-screen
+[QUEST RECEIVED — PERSONAL]
+
+  The Trueweave's Question
+
+  You have perceived three anomalies on three
+  floors that do not correspond to the Tower's
+  documented architecture.
+
+  The Tower sees you seeing it.
+
+  Follow the thread.
+
+  Objective: [Pending]
+  Reward:    [Unknown]
+
+  Quest Type:  Personal Chain (Stage 1)
+  Assigned to: Solenne Achebe-Park
+  Aspect:      Trueweave
+```
+
+Solenne read it. She read it again.
+
+*The Trueweave's Question.*
+
+The System had never used her Aspect name in a notification. The System did not address climbers by name in Quest text -- it assigned objectives, it listed rewards, it provided the mechanical scaffolding and left the rest to the people inside it. This was not that. This was warm. This was direct. This was -- *The Tower sees you seeing it* -- the kind of sentence the System did not write.
+
+Something in the Tower was paying closer attention than usual.
+
+She closed the notification. Opened it again. The gold border pulsed faintly, once, like a heartbeat. The text did not change. *Follow the thread.* No objective yet. No reward yet. Just a direction and a name and the specific, unsettling warmth of being seen by something very large that had decided, for reasons she could not yet parse, to tell her it was looking.
+
+She did not show it to the party. Not yet. Not because she was hiding it -- because she needed to sit with it first, the way she sat with any new piece of information that changed the shape of what she understood. Three anomalies. Three sealed spaces. A pattern she had documented and a name for something she had felt but not confirmed.
+
+*Trueweave.*
+
+She knew the word. She had carried the Aspect since Month 2 and understood it since Month 5 and used its skills every day. But seeing it written in the System's own hand, in gold, addressed to her -- that was different. That was the difference between knowing your name and hearing someone say it who had never spoken before.
+
+The rest node was quiet. Five people in various states of sleep and stillness, the amber glow steady on their faces, the Forge cooling, the fungal walls pulsing their patient light. Solenne sat with her staff across her knees and her notebook closed and a Quest notification humming at the edge of her perception like a note she could almost name.
+
+She felt watched. Not threatened. Not surveilled. Watched the way you feel watched when someone in a room has been looking at you and you turn and their eyes are already there, and what you see in them is not judgment or hostility but interest. Genuine, sustained, attentive interest.
+
+The Tower sees you seeing it.
+
+She did not sleep for a long time. The gold light of the notification pulsed once more, faintly, in the dark behind her eyes, and she sat with it, and she did not feel afraid.
+
+She felt like something had started.

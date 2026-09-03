@@ -157,3 +157,143 @@ She held her palms against the block for a long time. She felt the quality of th
   overwritten. Augmented. Persistent across estimated
   300+ years.
 
+  This foundation was laid with intention that exceeds
+  construction. The stone remembers what it was asked
+  to become.
+
+  +75 XP
+  +3 Surveying proficiency
+
+  Cumulative XP: 1786 / 2573 (Level 6)
+  Surveying: 61 (Journeyman)
+
+-------------------------------------------------------------
+```
+
+The System's voice was different. Not the flat, factual register of the well discovery or the ghost-elm ecology. The notification carried a quality of -- wonder was the wrong word. Recognition. The System had encountered something it did not fully understand, and it was telling her so in the only language it had: a description that raised more questions than it answered.
+
+*This foundation was laid with intention that exceeds construction.*
+
+Who could do this? What class, what skill, what mode of attention could take limestone and make it more-than-limestone? Not a Wayfinder -- Wayfinders bonded with places, they did not change the places themselves. Not a mason -- masons shaped stone, they did not deepen it. Something else. A class or a skill or a quality of attention that Wren had never heard of, that the System described as "intention that exceeds construction," that had produced results durable enough to persist for three centuries.
+
+She sat in the central clearing with her palms on the foundation and felt the mystery in the stone and did not try to solve it. The question was enough. The wonder was enough.
+
+---
+
+Brecca found the drainage.
+
+She had been on her knees at the clearing's eastern edge, where the foundation met the slope toward the garden terraces, when she said: "There are channels under here."
+
+Wren came to look. Brecca had cleared moss from a section of the clearing's floor and revealed a grid of narrow channels cut into the limestone surface -- not the single drainage channel of Varethen but a network, the channels branching and reconnecting in a pattern that Wren recognized from her survey training as a watershed design. Water falling on the clearing's surface would be collected by the channels, directed to junction points, and carried through increasingly larger channels to the slope, where it would feed the garden terraces below before reaching the river.
+
+"The entire clearing is a collection surface," Brecca said. She was tracing the channels with her fingers, her face close to the stone, reading the engineering. "Every drop of rain that falls on this space is captured and directed. No waste. No erosion." She sat back on her heels. "This is not one person's work. This is a tradition. Generations of people learning from the people before them."
+
+```stat-screen
+-------------------------------------------------------------
+  DISCOVERY
+  Southern Settlement -- Integrated Drainage Network
+-------------------------------------------------------------
+
+  Structural: Sub-surface channel grid beneath central
+  clearing. Watershed design -- collection, junction,
+  and distribution to garden terraces. Functional after
+  300+ years with partial siltation.
+
+  Engineering complexity exceeds known basin precedent.
+
+  +48 XP
+  +2 Surveying proficiency
+
+  Cumulative XP: 1834 / 2573 (Level 6)
+  Surveying: 63 (Journeyman)
+
+-------------------------------------------------------------
+```
+
+Wren looked at Brecca's hands on the drainage grid and thought about Theron's drainage channel at Varethen -- the single channel, the six-degree gradient, the snowmelt test. The same tradition. The same principle. But what Varethen had done with one channel, this settlement had done with a network. One was a practice. The other was a system.
+
+"Theron," Wren called.
+
+He came from the market street, where he had been walking the worn limestone path from end to end, counting his steps. He looked at the drainage grid. He crouched. He placed his hand on the stone the way he placed his hand on everything -- slowly, with the weight of inherited knowledge.
+
+"My grandmother's mother cleared a single channel," he said. "This is what they cleared before they left."
+
+His voice was steady. His hand on the stone was not.
+
+---
+
+They camped at the southern settlement that night, in the shelter of a structure whose walls were intact and whose roof-gap let the stars through. Brecca built a fire in the doorway with the efficiency of someone who had built four fires in four days at Varethen and was starting to develop opinions about kindling.
+
+The Greenwater's sound filled the space the insects usually filled. The river's white-noise was constant, not rhythmic like the insect chorus but continuous, the water carrying its own kind of counting that did not pause for pulses or seasons or the three-hundred-year absence of the people who had built beside it.
+
+Wren sat against the wall and felt the bond network.
+
+The Varethen cluster was a thread. Not a chord, not the full three-node resonance she felt at the settlement, but a single attenuated signal running through the limestone substrate from north to south. The threshold stone was there -- she could feel it, faint but present, the [Foundation Stone] vibration traveling through the geological formation that connected the two settlements. The prayer-notch and healer's house were there inside it, carried by the cluster relay, their individual signals merged into the anchor's transmission.
+
+The bond held at distance. She had not known it would. She had not known the cluster could carry across miles of substrate, the signal thinning but not breaking, the connection persistent even when the Wayfinder was far from the anchor. The bond did not require proximity. It required the thread.
+
+"Can you still feel it?" Brecca said. She was watching Wren's face. She had learned to read the bond-sensing expression the way Wren had learned to read Brecca's wall-sensing posture: head tilted, eyes slightly unfocused, attention directed inward.
+
+"The threshold stone. From here. Through the limestone."
+
+"How far?"
+
+"Four miles. Maybe five." Wren pressed her back against the wall. "It is like hearing someone speak from a long way off. You can tell they are speaking. You cannot hear the words."
+
+Brecca considered this. "And when you are at the stone? At Varethen? What does it sound like then?"
+
+"Like someone sitting beside you, breathing."
+
+The fire crackled. The river counted.
+
+Theron had been quiet since the drainage grid. He sat across the fire with his water skin and his silence and the quality of stillness that Wren had first read as withdrawal and now read as depth. He was holding something. Not an object -- a weight. The weight of a place that matched his grandmother's stories and exceeded them, the weight of a tradition he had inherited from a settlement he had never seen until today.
+
+"Fourteen families," Theron said. The fire shifted and the light moved across his face. "She said fourteen families in the last generation. But look at this place. This was not built for fourteen families. This was built for hundreds."
+
+"Three hundred to five hundred people," Brecca said. "Based on the number of structures and the size of the clearing. Rough estimate."
+
+"Three hundred people," Theron said. He was not repeating the number. He was tasting it. "And they left. And fourteen families went north and built Varethen and cleared a single drainage channel and dressed a threshold stone with the skills they had learned here." He drank from his water skin. "And then they left too."
+
+"The forest changed," Wren said. "That is what you told me."
+
+"The forest changed," Theron agreed. "And we left. And the drainage filled with silt. And the walls held." He looked at the walls around them, at the dressed stone that had stood for three centuries without mortar replacement, without repointing, without anyone pressing clay into the joints with careful hands. "The walls always hold."
+
+Brecca looked at the wall beside her. She placed her hand flat against it. "Yes," she said. "They do."
+
+The fire burned down. The river ran. The ghost-elms' shimmer was visible through the doorway, the enormous perimeter trees glowing faintly in the dark, the ward line they had never been told to hold still holding.
+
+---
+
+Day 27 broke clear and warm.
+
+Wren walked the settlement at dawn while Brecca and Theron slept. She walked the market street from the river gate to the northern entrance, counting structures, noting construction variations, feeling the [Wayfinder's Eye] shimmer play across every surface. The shimmer was constant and dense and she could not isolate individual signals, could not pick out the single features that her attention wanted to rest on. The settlement was too large. The bond-potential was too diffuse. She had to see the whole, and the whole was more than she could hold.
+
+She stopped trying to hold it.
+
+She walked instead. She walked the way she had walked the Warden's Stair on Day 1 -- open, without agenda, letting her feet choose the path and her attention distribute itself across whatever it found. The garden terraces on the slope toward the river, the stone retaining walls still holding soil in their tiered pattern. A building whose interior had become a ghost-elm nursery, three young trees growing where a family had lived. The river gate, where the market street ended at a dressed-stone stair descending to the Greenwater's edge, the steps worn by centuries of water-carriers.
+
+She did not bond anything. The compass sang. The shimmer was everywhere. Every surface was a conversation waiting to start, and she walked past them, and the walking-past was a new thing for her -- a discipline she had not practiced, the discipline of seeing without holding, of knowing that a place existed and choosing not to carry it.
+
+Not yet. Not today. The settlement had waited three hundred years. It could wait a little longer.
+
+She used Detail Notation on seven surfaces as she walked -- the well, the central foundation, the drainage grid, the market street, the river gate, a corner where Brecca had assessed the interlocking stones, a wall where Theron had placed his hand and held it. Seven marks. Seven points on a map that did not exist yet, that her father would want to see, that any surveyor would want to follow.
+
+She was building something. Not a bond. A record. The first Wayfinder's survey of a place that had been unsurveyed for three centuries.
+
+---
+
+They left at midday, moving north.
+
+Wren touched the substrate twice on the walk back, pressing her palm to the earth to feel the thread. Brecca's hands opened and closed at her sides, fingers curving around absent stone. At the ridge top, Theron stopped and looked back at the river valley for a long time before turning north.
+
+They did not talk about what they had seen. The silence was not empty. It was full, the way a cupped hand is full of water -- careful, carrying, aware of how much could spill.
+
+The Varethen perimeter appeared in the late afternoon. The ghost-elms' ward-line hum greeted them, and the bond network expanded from thread to chord, the three Varethen nodes resolving back into their individual voices. Wren felt the threshold stone bloom from distant signal into the full, dense heartbeat she had carried for four weeks.
+
+Nine days to the next pulse. The stone had held once. The southern settlement had no awakened anchor. She carried that question north through the ghost-elm ring and into the settlement and did not write it down. Some questions were not ready for the journal.
+
+Brecca was carrying stones for the fire. Theron was at the drainage channel. The evening was settling into its familiar pattern. Wren sat against the threshold stone and pressed her palms flat and felt the vibration in her hands and did not open her journal.
+
+She had been to the ruin on the ridge. She had seen what was built there. She had not bonded it and she had not claimed it and she had not tried to carry it home.
+
+But she could feel it, south, through the limestone. A thread that did not break.
