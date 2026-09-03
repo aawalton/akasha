@@ -1,11 +1,11 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
-import type { Notes } from "../workout-sessions/properties/notes.text-property.ts"
 import type { EquipmentItemAvailable } from "./properties/equipment-item-available.boolean-property.ts"
 import type { EquipmentItemCategory } from "./properties/equipment-item-category.select-property.ts"
 import type { EquipmentItemConfiguration } from "./properties/equipment-item-configuration.select-property.ts"
 import type { EquipmentItemLoads } from "./properties/equipment-item-loads.text-property.ts"
+import type { EquipmentItemNotes } from "./properties/equipment-item-notes.text-property.ts"
 import type { EquipmentItemSortOrder } from "./properties/equipment-item-sort-order.number-property.ts"
 
 export type EquipmentItem = Page & {
@@ -15,7 +15,7 @@ export type EquipmentItem = Page & {
   equipmentItemConfiguration?: EquipmentItemConfiguration
   equipmentItemLoads?: EquipmentItemLoads
   equipmentItemSortOrder?: EquipmentItemSortOrder
-  notes?: Notes
+  equipmentItemNotes?: EquipmentItemNotes
 }
 
 export const equipmentItem = {
@@ -31,6 +31,7 @@ export const equipmentItem = {
     "select-property/equipment-item-category",
     "select-property/equipment-item-configuration",
     "text-property/equipment-item-loads",
+    "text-property/equipment-item-notes",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -39,7 +40,7 @@ export const equipmentItem = {
     { pagePropertySlug: "equipment-item-configuration", required: false, many: false },
     { pagePropertySlug: "equipment-item-loads", required: false, many: false },
     { pagePropertySlug: "equipment-item-sort-order", required: false, many: false },
-    { pagePropertySlug: "text-property/notes", required: false, many: false },
+    { pagePropertySlug: "equipment-item-notes", required: false, many: false },
   ],
   invariants: [
     {
