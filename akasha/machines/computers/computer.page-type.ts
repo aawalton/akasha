@@ -2,6 +2,7 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { Brand } from "./properties/brand.select-property.ts"
+import type { ComputerLink } from "./properties/computer-link.url-property.ts"
 import type { ComputerModel } from "./properties/computer-model.text-property.ts"
 import type { ComputerStatus } from "./properties/computer-status.select-property.ts"
 import type { Cost } from "./properties/cost.number-property.ts"
@@ -15,7 +16,6 @@ import type { Gpu } from "./properties/gpu.select-property.ts"
 import type { GpuScore } from "./properties/gpu-score.number-property.ts"
 import type { GpuSize } from "./properties/gpu-size.select-property.ts"
 import type { Hdd } from "./properties/hdd.number-property.ts"
-import type { Link } from "./properties/link.url-property.ts"
 import type { OperatingSystem } from "./properties/operating-system.select-property.ts"
 import type { PurchaseDate } from "./properties/purchase-date.calendar-date-property.ts"
 import type { Ram } from "./properties/ram.select-property.ts"
@@ -35,7 +35,7 @@ export type Computer = Page & {
   gpuSize?: GpuSize
   gpu: Gpu
   hdd?: Hdd
-  link?: Link
+  link?: ComputerLink
   computerModel?: ComputerModel
   operatingSystem: OperatingSystem
   purchaseDate?: PurchaseDate
@@ -70,7 +70,7 @@ export const computer = {
     "select-property/operating-system",
     "select-property/ram",
     "text-property/computer-model",
-    "url-property/link",
+    "url-property/computer-link",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -86,7 +86,7 @@ export const computer = {
     { pagePropertySlug: "gpu-size", required: false, many: false },
     { pagePropertySlug: "gpu", required: true, many: false },
     { pagePropertySlug: "hdd", required: false, many: false },
-    { pagePropertySlug: "link", required: false, many: false },
+    { pagePropertySlug: "computer-link", required: false, many: false },
     { pagePropertySlug: "computer-model", required: false, many: false },
     { pagePropertySlug: "operating-system", required: true, many: false },
     { pagePropertySlug: "purchase-date", required: false, many: false },

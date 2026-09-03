@@ -1,11 +1,11 @@
 import type { TextProperty } from "@akasha/pages-system/text-property"
 
-export type Genre = string
+export type ArtistGenre = string
 
-export const genre = {
+export const artistGenre = {
   id: "01a06243-144b-7010-af12-3f9a28709cb9",
   pageTypeSlug: "text-property",
-  slug: "genre",
+  slug: "artist-genre",
   propertySlug: "genre",
   definition: "a genre the provider files an artist under",
   max: 100,

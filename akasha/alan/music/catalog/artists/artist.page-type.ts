@@ -1,12 +1,12 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
 import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
-import type { Genre } from "./properties/genre.text-property.ts"
+import type { ArtistGenre } from "./properties/artist-genre.text-property.ts"
 import type { Reaction } from "./properties/reaction.file-property.ts"
 
 export type Artist = CollectionExternal & {
   title: Title
-  genre?: readonly Genre[]
+  genre?: readonly ArtistGenre[]
   reaction?: Reaction
 }
 
@@ -17,10 +17,10 @@ export const artist = {
   definition: "a musician whose work Alan keeps",
   pluralSlug: "artists",
   extendsSlug: "page-type/collection-external",
-  partSlugs: ["file-property/reaction", "text-property/genre"],
+  partSlugs: ["file-property/reaction", "text-property/artist-genre"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "genre", required: false, many: true, max: null },
+    { pagePropertySlug: "artist-genre", required: false, many: true, max: null },
     { pagePropertySlug: "reaction", required: false, many: false },
   ],
 } as const satisfies PageType

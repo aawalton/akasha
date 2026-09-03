@@ -2,12 +2,12 @@ import type { Slug } from "@akasha/pages-system/page/slug"
 import type { List } from "@akasha/pages-system/page-property"
 import type { RelationProperty } from "@akasha/pages-system/relation-property"
 
-export type ClusterServiceSlugs = List<Slug>
+export type WorkflowClusterServiceSlugs = List<Slug>
 
-export const clusterServiceSlugs = {
+export const workflowClusterServiceSlugs = {
   id: "01a06810-7000-7001-9b52-8e3d7a4f7102",
   pageTypeSlug: "relation-property",
-  slug: "cluster-service-slugs",
+  slug: "workflow-cluster-service-slugs",
   propertySlug: "cluster-service-slugs",
   definition: "the services a workflow builds and puts onto the cluster",
   targetPageTypeSlug: "page-type/cluster-service",
