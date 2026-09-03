@@ -21,6 +21,10 @@
   "dependencies": {
     "@akasha/agents": "workspace:*",
     "@akasha/analysis-complexity": "workspace:*",
+    "@akasha/inference-clients": "workspace:*",
+    "@akasha/inference-runs": "workspace:*",
+    "@akasha/wan": "workspace:*",
+    "@akasha/zimage": "workspace:*",
     "@tools/lib": "workspace:*",
     "typescript": "5.9.3"
   }

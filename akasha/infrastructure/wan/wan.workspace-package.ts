@@ -11,6 +11,7 @@ export const wan = {
     "module/wan-backbone",
     "module/wan-extend-graph",
     "module/wan-i2v-graph",
+    "module/wan-size",
     "python-module/wan-frame-scoring",
     "shell-script/wan-down",
     "shell-script/wan-provision",

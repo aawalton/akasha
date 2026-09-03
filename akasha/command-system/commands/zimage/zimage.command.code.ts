@@ -3,7 +3,9 @@ import { readFileSync } from "node:fs"
 import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, isAbsolute, join, resolve } from "node:path"
-import { zimageCode } from "@tools/lib/zimage-code"
+import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
+import { buildModelGraph } from "@akasha/zimage/zimage-graph"
+import { MODEL_IDS, MODELS, toModelId } from "@akasha/zimage/zimage-models"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
@@ -211,19 +213,18 @@ async function staged(
 }
 
 async function generating(read: Taken, given: Given, report: string[]): Promise<Answer> {
-  const code = await zimageCode()
   const said = read.said
   const prompt = said.get("--prompt") ?? ""
   const outPath = at(given, said.get("--output") ?? "")
   const modelSaid = said.get("--model") ?? ""
-  const modelId = code.toModelId(modelSaid)
+  const modelId = toModelId(modelSaid)
   if (modelId === undefined) {
     return refused(
-      `\`--model\` names \`${modelSaid}\`, which nothing registers — the registered ones are ${code.MODEL_IDS.join(", ")}`,
+      `\`--model\` names \`${modelSaid}\`, which nothing registers — the registered ones are ${MODEL_IDS.join(", ")}`,
       1
     )
   }
-  const spec = code.MODELS[modelId]
+  const spec = MODELS[modelId]
   const negative = said.get("--negative-prompt") ?? spec.defaultNegative
   const width = numberIn(said, "--width") ?? 0
   const height = numberIn(said, "--height") ?? 0
@@ -257,10 +258,10 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
   }
 
   const baseUrl = `http://127.0.0.1:${portIn()}`
-  const run = await code.runComfyGraph({
+  const run = await runComfyGraph({
     baseUrl,
     buildGraph: () =>
-      code.buildModelGraph(spec, {
+      buildModelGraph(spec, {
         prompt,
         negativePrompt: negative,
         width,
@@ -279,7 +280,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
     },
   })
 
-  const png = await code.fetchImage(baseUrl, run.image)
+  const png = await fetchImage(baseUrl, run.image)
   await mkdir(dirname(outPath), { recursive: true })
   await writeFile(outPath, png)
   report.push(`${png.byteLength} bytes stand at ${outPath}, at seed ${seed}`)

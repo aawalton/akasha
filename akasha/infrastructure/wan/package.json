@@ -5,11 +5,13 @@
   "exports": {
     "./wan-backbone": "./wan-backbone/wan-backbone.module.code.ts",
     "./wan-extend-graph": "./wan-extend-graph/wan-extend-graph.module.code.ts",
-    "./wan-i2v-graph": "./wan-i2v-graph/wan-i2v-graph.module.code.ts"
+    "./wan-i2v-graph": "./wan-i2v-graph/wan-i2v-graph.module.code.ts",
+    "./wan-size": "./wan-size/wan-size.module.code.ts"
   },
   "dependencies": {
+    "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@akasha/comfy": "workspace:*"
+    "zod": "^4.3.6"
   }
 }

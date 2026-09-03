@@ -3,8 +3,24 @@ import { readFileSync } from "node:fs"
 import { mkdir, readdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, extname, isAbsolute, join, resolve } from "node:path"
+import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
+import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import {
+  WAN_DEFAULT_NEGATIVE_PROMPT,
+  WAN_FPS,
+  WAN_FULL_STEPS,
+  WAN_LIGHTNING_STEPS,
+} from "@akasha/wan/wan-backbone"
 import type { ExtendDirection } from "@akasha/wan/wan-extend-graph"
-import { extendGraph, i2vGraph, wanCode } from "@tools/lib/wan-code"
+import {
+  buildExtendGraph,
+  computeSkipFirstFrames,
+  resolveComfyInputName,
+  snapToVaeLength,
+} from "@akasha/wan/wan-extend-graph"
+import { buildI2vGraph } from "@akasha/wan/wan-i2v-graph"
+import { parseSizeOrNull } from "@akasha/wan/wan-size"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
@@ -338,7 +354,6 @@ async function generating(
   argv: readonly string[],
   report: string[]
 ): Promise<Answer> {
-  const code = await wanCode()
   const said = read.said
   const startSaid = said.get("--start-image")
   const endSaid = said.get("--end-image")
@@ -348,13 +363,12 @@ async function generating(
   const startPath = startSaid === undefined ? undefined : at(given, startSaid)
   const endPath = endSaid === undefined ? undefined : at(given, endSaid)
   const prompt = said.get("--prompt") ?? ""
-  const negative = said.get("--negative-prompt") ?? code.WAN_DEFAULT_NEGATIVE_PROMPT
+  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
   const lightning = read.on.has("--lightning")
-  const steps =
-    numberIn(said, "--steps") ?? (lightning ? code.WAN_LIGHTNING_STEPS : code.WAN_FULL_STEPS)
+  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
   const seed = numberIn(said, "--seed") ?? drawSeed()
   const size = said.get("--size") ?? ""
-  const held = code.parseSizeOrNull(size)
+  const held = parseSizeOrNull(size)
   if (held === null) {
     return refused(`\`--size\` is two whole numbers parted by \`x\`, and \`${size}\` is not`, 1)
   }
@@ -417,7 +431,7 @@ async function generating(
   }
   report.push(`the conditioning images stand staged under ${inputs}`)
 
-  const record = code.buildInferenceRunRecord({
+  const record = buildInferenceRunRecord({
     service: SERVICE,
     operation: "i2v",
     model: MODEL,
@@ -432,21 +446,20 @@ async function generating(
     height,
     size,
     frames,
-    fps: code.WAN_FPS,
+    fps: WAN_FPS,
     lightning,
     ...(startPath !== undefined ? { inputImagePath: startPath } : {}),
-    ...(startBytes !== undefined ? { inputImageSha256: code.sha256Hex(startBytes) } : {}),
+    ...(startBytes !== undefined ? { inputImageSha256: sha256Hex(startBytes) } : {}),
     ...(endPath !== undefined ? { endImagePath: endPath } : {}),
-    ...(endBytes !== undefined ? { endImageSha256: code.sha256Hex(endBytes) } : {}),
+    ...(endBytes !== undefined ? { endImageSha256: sha256Hex(endBytes) } : {}),
   })
 
-  const graphs = await i2vGraph()
   const baseUrl = `http://127.0.0.1:${portIn()}`
-  await code.recordInferenceRun(record, async () => {
-    const run = await code.runComfyGraph({
+  await recordInferenceRun(record, async () => {
+    const run = await runComfyGraph({
       baseUrl,
       buildGraph: () =>
-        graphs.buildI2vGraph({
+        buildI2vGraph({
           ...(startName !== undefined ? { startImageName: startName } : {}),
           ...(endName !== undefined ? { endImageName: endName } : {}),
           prompt,
@@ -465,7 +478,7 @@ async function generating(
         return undefined
       },
     })
-    const mp4 = await code.fetchImage(baseUrl, run.image)
+    const mp4 = await fetchImage(baseUrl, run.image)
     await mkdir(dirname(outPath), { recursive: true })
     await writeFile(outPath, mp4)
     report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
@@ -481,8 +494,6 @@ async function extending(
   argv: readonly string[],
   report: string[]
 ): Promise<Answer> {
-  const code = await wanCode()
-  const graphs = await extendGraph()
   const said = read.said
   const contextPath = at(given, said.get("--context") ?? "")
   const directionSaid = said.get("--direction") ?? ""
@@ -494,10 +505,9 @@ async function extending(
     )
   }
   const prompt = said.get("--prompt") ?? ""
-  const negative = said.get("--negative-prompt") ?? code.WAN_DEFAULT_NEGATIVE_PROMPT
+  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
   const lightning = read.on.has("--lightning")
-  const steps =
-    numberIn(said, "--steps") ?? (lightning ? code.WAN_LIGHTNING_STEPS : code.WAN_FULL_STEPS)
+  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
   const seed = numberIn(said, "--seed") ?? drawSeed()
   const contextFrames = numberIn(said, "--context-frames") ?? 0
   const asked = numberIn(said, "--new-frames") ?? 0
@@ -541,7 +551,7 @@ async function extending(
     height = probed.height
     report.push(`the context clip holds ${counted.many} frames at ${width}x${height}`)
   } else {
-    const held = code.parseSizeOrNull(sizeSaid)
+    const held = parseSizeOrNull(sizeSaid)
     if (held === null) {
       return refused(
         `\`--size\` is two whole numbers parted by \`x\`, and \`${sizeSaid}\` is not`,
@@ -554,7 +564,7 @@ async function extending(
   }
 
   const raw = contextFrames + asked
-  const length = graphs.snapToVaeLength(raw)
+  const length = snapToVaeLength(raw)
   const newFrames = length - contextFrames
   if (length !== raw) {
     report.push(
@@ -567,7 +577,7 @@ async function extending(
     )
   }
 
-  const skip = graphs.computeSkipFirstFrames(direction, counted.many, contextFrames)
+  const skip = computeSkipFirstFrames(direction, counted.many, contextFrames)
   const home = homeIn()
   const inputs = join(home, "inputs")
   const contextName = basename(contextPath)
@@ -576,7 +586,7 @@ async function extending(
   report.push(`the context clip stands staged under ${inputs}`)
 
   const size = `${width}x${height}`
-  const record = code.buildInferenceRunRecord({
+  const record = buildInferenceRunRecord({
     service: SERVICE,
     operation: "i2v-extend",
     model: MODEL,
@@ -591,19 +601,19 @@ async function extending(
     height,
     size,
     frames: length,
-    fps: code.WAN_FPS,
+    fps: WAN_FPS,
     lightning,
     inputImagePath: contextPath,
-    inputImageSha256: code.sha256Hex(contextBytes),
+    inputImageSha256: sha256Hex(contextBytes),
   })
 
   const baseUrl = `http://127.0.0.1:${portIn()}`
-  await code.recordInferenceRun(record, async () => {
-    const run = await code.runComfyGraph({
+  await recordInferenceRun(record, async () => {
+    const run = await runComfyGraph({
       baseUrl,
       buildGraph: () =>
-        graphs.buildExtendGraph({
-          contextVideoName: graphs.resolveComfyInputName(contextName),
+        buildExtendGraph({
+          contextVideoName: resolveComfyInputName(contextName),
           direction,
           skipFirstFrames: skip,
           contextFrames,
@@ -623,7 +633,7 @@ async function extending(
         return undefined
       },
     })
-    const mp4 = await code.fetchImage(baseUrl, run.image)
+    const mp4 = await fetchImage(baseUrl, run.image)
     await mkdir(dirname(outPath), { recursive: true })
     await writeFile(outPath, mp4)
     report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
