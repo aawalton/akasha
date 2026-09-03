@@ -1,6 +1,6 @@
 import type { FormulaProperty } from "@akasha/pages-system/formula-property"
 
-export type LearnStoplight = text
+export type LearnStoplight = string
 
 export const learnStoplight = {
   id: "01a06945-72cd-700c-b34a-427f280d4b8c",
