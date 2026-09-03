@@ -2,10 +2,10 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
-import type { AppSlug } from "./properties/app-slug.text-property.ts"
 import type { BackHref } from "./properties/back-href.text-property.ts"
 import type { DrawCost } from "./properties/draw-cost.number-property.ts"
 import type { MobilePinOrder } from "./properties/mobile-pin-order.number-property.ts"
+import type { NavAppSlug } from "./properties/nav-app-slug.text-property.ts"
 import type { NavParent } from "./properties/nav-parent.relation-property.ts"
 import type { NavPlace } from "./properties/nav-place.number-property.ts"
 import type { ShowCountBadge } from "./properties/show-count-badge.boolean-property.ts"
@@ -14,7 +14,7 @@ export type Nav = Page & {
   title: Title
   icon: Icon
   navPlace: NavPlace
-  appSlug?: AppSlug
+  appSlug?: NavAppSlug
   navParent?: NavParent
   mobilePinOrder?: MobilePinOrder
   backHref?: BackHref
@@ -35,14 +35,14 @@ export const nav = {
     "number-property/mobile-pin-order",
     "number-property/nav-place",
     "relation-property/nav-parent",
-    "text-property/app-slug",
     "text-property/back-href",
+    "text-property/nav-app-slug",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "icon", required: true, many: false },
     { pagePropertySlug: "nav-place", required: true, many: false },
-    { pagePropertySlug: "app-slug", required: false, many: false },
+    { pagePropertySlug: "nav-app-slug", required: false, many: false },
     { pagePropertySlug: "nav-parent", required: false, many: false },
     { pagePropertySlug: "mobile-pin-order", required: false, many: false },
     { pagePropertySlug: "back-href", required: false, many: false },

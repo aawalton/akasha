@@ -2,8 +2,8 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
 import type { EstimatedCalories } from "./properties/estimated-calories.number-property.ts"
+import type { FoodEntryNote } from "./properties/food-entry-note.file-property.ts"
 import type { HappenedAt } from "./properties/happened-at.instant-property.ts"
-import type { Note } from "./properties/note.file-property.ts"
 import type { PlantGrams } from "./properties/plant-grams.number-property.ts"
 
 export type FoodEntry = Page & {
@@ -11,7 +11,7 @@ export type FoodEntry = Page & {
   happenedAt: HappenedAt
   plantGrams?: PlantGrams
   estimatedCalories?: EstimatedCalories
-  note?: Note
+  note?: FoodEntryNote
 }
 
 export const foodEntry = {
@@ -22,7 +22,7 @@ export const foodEntry = {
   pluralSlug: "food-entries",
   extendsSlug: "page-type/page",
   partSlugs: [
-    "file-property/note",
+    "file-property/food-entry-note",
     "instant-property/happened-at",
     "number-property/estimated-calories",
     "number-property/plant-grams",
@@ -32,7 +32,7 @@ export const foodEntry = {
     { pagePropertySlug: "happened-at", required: true, many: false },
     { pagePropertySlug: "plant-grams", required: false, many: false },
     { pagePropertySlug: "estimated-calories", required: false, many: false },
-    { pagePropertySlug: "note", required: false, many: false },
+    { pagePropertySlug: "food-entry-note", required: false, many: false },
   ],
   invariants: [
     {
