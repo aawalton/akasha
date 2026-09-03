@@ -1,12 +1,12 @@
 import * as path from 'node:path';
-import { runVerb, verbPath } from '../../harness-call.ts';
+import { runCommand, commandPath } from '../../harness-call.ts';
 import { rollUp } from './colors.ts';
 
 const CALL_TIMEOUT_MS = 60_000;
 
 const MAX_BUFFER = 16 * 1024 * 1024;
 
-const VERB = 'work-tree';
+const COMMAND = 'work-tree';
 
 export interface WorkNode {
 	readonly key: string;
@@ -45,11 +45,11 @@ function textOrNull(value: unknown): string | null {
 
 function nodeIn(raw: unknown, at: string): WorkNode {
 	if (raw === null || typeof raw !== 'object') {
-		throw new Error(`${VERB}: ${at} is not an object`);
+		throw new Error(`${COMMAND}: ${at} is not an object`);
 	}
 	const row = raw as Record<string, unknown>;
 	if (typeof row.key !== 'string' || row.key === '') {
-		throw new Error(`${VERB}: ${at} carries no key, and a row with none is no initiative`);
+		throw new Error(`${COMMAND}: ${at} carries no key, and a row with none is no initiative`);
 	}
 	const children = Array.isArray(row.children) ? row.children : [];
 	return {
@@ -65,14 +65,14 @@ function nodeIn(raw: unknown, at: string): WorkNode {
 
 function repoIn(held: Record<string, unknown>): string {
 	if (typeof held.repo !== 'string' || held.repo === '') {
-		throw new Error(`${VERB}: the answer names no repo, so no path could be joined against it`);
+		throw new Error(`${COMMAND}: the answer names no repo, so no path could be joined against it`);
 	}
 	return held.repo;
 }
 
 function answerIn(answered: unknown): Record<string, unknown> {
 	if (answered === null || typeof answered !== 'object') {
-		throw new Error(`${VERB}: the answer is not an object, so it names no initiative at all`);
+		throw new Error(`${COMMAND}: the answer is not an object, so it names no initiative at all`);
 	}
 	return answered as Record<string, unknown>;
 }
@@ -80,7 +80,7 @@ function answerIn(answered: unknown): Record<string, unknown> {
 export function readWorkTreeAnswer(answered: unknown): WorkTree {
 	const held = answerIn(answered);
 	if (!Array.isArray(held.roots)) {
-		throw new Error(`${VERB}: the answer carries no \`roots\` array`);
+		throw new Error(`${COMMAND}: the answer carries no \`roots\` array`);
 	}
 	return {
 		repo: repoIn(held),
@@ -97,7 +97,7 @@ export function readWorkColorsAnswer(answered: unknown): WorkColors {
 	const held = answerIn(answered);
 	const named = held.byInitiative;
 	if (named === null || named === undefined || typeof named !== 'object') {
-		throw new Error(`${VERB}: the answer carries no \`byInitiative\` record`);
+		throw new Error(`${COMMAND}: the answer carries no \`byInitiative\` record`);
 	}
 	const byInitiative: Record<string, string> = {};
 	for (const [key, color] of Object.entries(named as Record<string, unknown>)) {
@@ -107,14 +107,14 @@ export function readWorkColorsAnswer(answered: unknown): WorkColors {
 }
 
 async function ask(args: readonly string[]): Promise<unknown> {
-	const stdout = await runVerb(verbPath(VERB), args, {
+	const stdout = await runCommand(commandPath(COMMAND), args, {
 		timeout: CALL_TIMEOUT_MS,
 		maxBuffer: MAX_BUFFER,
 	});
 	try {
 		return JSON.parse(stdout) as unknown;
 	} catch (err) {
-		throw new Error(`${VERB} did not print JSON: ${String(err)}`);
+		throw new Error(`${COMMAND} did not print JSON: ${String(err)}`);
 	}
 }
 

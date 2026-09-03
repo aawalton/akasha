@@ -6,7 +6,7 @@ const OPEN_COMMAND = 'vscode.open';
 
 // A row hands itself to a menu command whole, so what is taken from it is stated rather than cast:
 // anything else invoking this by name reaches the same check. `at` is the absolute path the row
-// was drawn carrying, which `forest.ts` put there only for a page the verb had opened.
+// was drawn carrying, which `forest.ts` put there only for a page the command had opened.
 const PAGE_ROW_SCHEMA = z.looseObject({
 	name: z.string().min(1),
 	at: z.string().min(1),

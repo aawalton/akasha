@@ -1,12 +1,12 @@
-import { runVerb, verbPath } from '../../harness-call.ts';
+import { runCommand, commandPath } from '../../harness-call.ts';
 
-const VERB_TIMEOUT_MS = 30_000;
+const COMMAND_TIMEOUT_MS = 30_000;
 
 const MAX_BUFFER = 8 * 1024 * 1024;
 
 export async function askHarnessFile(file: string, args: readonly string[] = []): Promise<unknown> {
-	const stdout = await runVerb(file, args, {
-		timeout: VERB_TIMEOUT_MS,
+	const stdout = await runCommand(file, args, {
+		timeout: COMMAND_TIMEOUT_MS,
 		maxBuffer: MAX_BUFFER,
 	});
 	try {
@@ -16,8 +16,8 @@ export async function askHarnessFile(file: string, args: readonly string[] = [])
 	}
 }
 
-export async function askHarness(verb: string, args: readonly string[] = []): Promise<unknown> {
-	return askHarnessFile(verbPath(verb), args);
+export async function askHarness(command: string, args: readonly string[] = []): Promise<unknown> {
+	return askHarnessFile(commandPath(command), args);
 }
 
 export interface HarnessRow {
@@ -48,7 +48,7 @@ export interface SubagentPage {
 }
 
 export interface ForestAnswer {
-	// The akasha checkout every `at` was resolved against, or null where the verb named none. A
+	// The akasha checkout every `at` was resolved against, or null where the command named none. A
 	// reading with no repo carries no absolute path for anything, so every row draws without a
 	// document rather than against a root guessed at here.
 	readonly repo: string | null;

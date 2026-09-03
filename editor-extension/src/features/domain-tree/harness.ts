@@ -1,5 +1,5 @@
 import * as path from 'node:path';
-import { runVerb, verbPath } from '../../harness-call.ts';
+import { runCommand, commandPath } from '../../harness-call.ts';
 
 const CALL_TIMEOUT_MS = 30_000;
 
@@ -74,7 +74,7 @@ export function readDomainTreeAnswer(answered: unknown): DomainTree {
 }
 
 export async function readDomainTree(): Promise<DomainTree> {
-	const stdout = await runVerb(verbPath('domain-tree'), [], {
+	const stdout = await runCommand(commandPath('domain-tree'), [], {
 		timeout: CALL_TIMEOUT_MS,
 		maxBuffer: MAX_BUFFER,
 	});

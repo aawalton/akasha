@@ -1,12 +1,12 @@
 import * as path from "node:path"
-import { akashaRoot, repositoryPath, runVerb, verbPath } from "../harness-call.ts"
+import { akashaRoot, repositoryPath, runCommand, commandPath } from "../harness-call.ts"
 import { colorNamed } from "../palette.ts"
 
 const CALL_TIMEOUT_MS = 30_000
 
 const MAX_BUFFER = 4 * 1024 * 1024
 
-const VERB = "agent-turn-colors"
+const COMMAND = "agent-turn-colors"
 
 // WHERE A SEAT STANDS, WHICH IS AKASHA AND NOWHERE ELSE. The watchers every feature registers are
 // built from these two, so pointing them here is what moves the agent tree, the terminal names and
@@ -36,17 +36,17 @@ export function colorsOf(named: Readonly<Record<string, string>>): ReadonlyMap<s
 
 export function readTurnColorAnswer(answered: unknown): Readonly<Record<string, string>> {
   if (answered === null || typeof answered !== "object") {
-    throw new Error(`${VERB}: the answer is not an object, so it names no color`)
+    throw new Error(`${COMMAND}: the answer is not an object, so it names no color`)
   }
   const held = answered as { colors?: unknown; colours?: unknown }
   const named = held.colors ?? held.colours
   if (named === null || named === undefined || typeof named !== "object") {
-    throw new Error(`${VERB}: the answer carries neither a \`colors\` nor a \`colours\` record`)
+    throw new Error(`${COMMAND}: the answer carries neither a \`colors\` nor a \`colours\` record`)
   }
   const found: Record<string, string> = {}
   for (const [id, color] of Object.entries(named as Record<string, unknown>)) {
     if (typeof color !== "string" || color === "") {
-      throw new Error(`${VERB}: the color answered for ${id} is no name`)
+      throw new Error(`${COMMAND}: the color answered for ${id} is no name`)
     }
     found[id] = color
   }
@@ -62,7 +62,7 @@ export async function readSeatTurnColors(
   if (agentIds.length === 0) {
     return new Map<string, string>()
   }
-  const stdout = await runVerb(verbPath(VERB), agentIds, {
+  const stdout = await runCommand(commandPath(COMMAND), agentIds, {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })
@@ -70,7 +70,7 @@ export async function readSeatTurnColors(
   try {
     answered = JSON.parse(stdout)
   } catch (err) {
-    throw new Error(`${VERB} did not print JSON: ${String(err)}`)
+    throw new Error(`${COMMAND} did not print JSON: ${String(err)}`)
   }
   return colorsOf(readTurnColorAnswer(answered))
 }

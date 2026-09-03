@@ -1,12 +1,12 @@
 import { spawn, type ChildProcess } from 'node:child_process';
 import type { Readable } from 'node:stream';
 
-// THE NODE END OF THE VERB SERVER. Every reach into akasha from this host used to be a fresh bun
+// THE NODE END OF THE COMMAND SERVER. Every reach into akasha from this host used to be a fresh bun
 // child, and a bun child costs about 0.19s of wall and 0.22s of CPU before it has read a byte,
 // whatever it was asked. A panel polling once a second paid that once a second for work that takes
 // five milliseconds. This holds one bun process open and asks it over pipes.
 //
-// It caches no answer. Every ask re-runs the verb over there, so what comes back is composed from
+// It caches no answer. Every ask re-runs the command over there, so what comes back is composed from
 // the files as they stand, exactly as a fresh child composed it. What this end guards instead is
 // that the process answering is young enough to be trusted, and that a process which is gone
 // refuses rather than repeating the last thing it said.
@@ -29,12 +29,12 @@ export const REFUSAL_DISPOSED = 'disposed';
 // rather than to paper over with a second try.
 const START_ANOTHER: ReadonlySet<string> = new Set([REFUSAL_LEASE, REFUSAL_GONE]);
 
-export class VerbServerRefusal extends Error {
+export class CommandServerRefusal extends Error {
 	readonly refusal: string;
 
 	constructor(refusal: string, message: string) {
 		super(message);
-		this.name = 'VerbServerRefusal';
+		this.name = 'CommandServerRefusal';
 		this.refusal = refusal;
 	}
 }
@@ -50,7 +50,7 @@ export interface ServedAnswer {
 	readonly pid: number;
 }
 
-export interface VerbServerAt {
+export interface CommandServerAt {
 	readonly bun: string;
 	readonly serverFile: string;
 	readonly env: NodeJS.ProcessEnv;
@@ -59,7 +59,7 @@ export interface VerbServerAt {
 	// Left out, the bound is whatever the server states it holds itself to, and the two ends then
 	// check the same number independently. Named, this end holds the tighter one.
 	readonly leaseBoundMs?: number;
-	// Whatever a verb wrote to stdout or stderr over there and this end did not ask for. It can
+	// Whatever a command wrote to stdout or stderr over there and this end did not ask for. It can
 	// never be an answer — answers come back on their own pipe — so it is only ever worth logging.
 	readonly onNoise?: (text: string) => void;
 }
@@ -79,12 +79,12 @@ interface Session {
 	lost: boolean;
 }
 
-function refusalOf(refusal: string, saying: string): VerbServerRefusal {
-	return new VerbServerRefusal(refusal, `the verb server refuses (${refusal}): ${saying}`);
+function refusalOf(refusal: string, saying: string): CommandServerRefusal {
+	return new CommandServerRefusal(refusal, `the command server refuses (${refusal}): ${saying}`);
 }
 
-export class VerbServerClient {
-	private readonly at: VerbServerAt;
+export class CommandServerClient {
+	private readonly at: CommandServerAt;
 
 	private session: Session | null = null;
 
@@ -94,13 +94,13 @@ export class VerbServerClient {
 
 	private disposed = false;
 
-	constructor(at: VerbServerAt) {
+	constructor(at: CommandServerAt) {
 		this.at = at;
 	}
 
 	// EVERY ANSWER GOES THROUGH HERE, and it either answers or throws. There is no third road on
 	// which a remembered answer comes back: this class holds no answer to remember.
-	async ask(verb: string, args: readonly string[], timeoutMs: number): Promise<ServedAnswer> {
+	async ask(command: string, args: readonly string[], timeoutMs: number): Promise<ServedAnswer> {
 		const session = await this.open();
 		const id = this.nextId++;
 		const answer = await new Promise<ServedAnswer>((settle, refuse) => {
@@ -112,13 +112,17 @@ export class VerbServerClient {
 				refuse(
 					refusalOf(
 						REFUSAL_HUNG,
-						`${verb} was not answered within ${timeoutMs}ms, so the server was killed`
+						`${command} was not answered within ${timeoutMs}ms, so the server was killed`
 					)
 				);
 			}, timeoutMs);
 			session.waiting.set(id, { settle, refuse, timer });
 			try {
-				session.child.stdin?.write(`${JSON.stringify({ id, verb, args: [...args] })}\n`);
+				// THE WIRE KEY STAYS `verb`. The server over there reads `held["verb"]` — see
+				// `tools/verb-server.ts` — so this key is that end's vocabulary, not this end's. Letting
+				// the rename reach it through the shorthand would send a key nothing reads, and every ask
+				// would be thrown away as an ask carrying no name. Nothing here would typecheck differently.
+				session.child.stdin?.write(`${JSON.stringify({ id, verb: command, args: [...args] })}\n`);
 			} catch (thrown) {
 				clearTimeout(timer);
 				session.waiting.delete(id);
@@ -133,7 +137,7 @@ export class VerbServerClient {
 			this.retire(session, 'SIGTERM');
 			throw refusalOf(
 				REFUSAL_OVER_LEASE,
-				`${verb} was answered by a server ${answer.ageMs}ms old, past its bound of ${bound}ms`
+				`${command} was answered by a server ${answer.ageMs}ms old, past its bound of ${bound}ms`
 			);
 		}
 		return answer;
@@ -200,11 +204,11 @@ export class VerbServerClient {
 			child.stderr?.setEncoding('utf8');
 			child.stderr?.on('data', (chunk: string) => noise(`stderr: ${chunk}`));
 			child.on('error', (err) => {
-				this.lose(session, `the verb server could not be run: ${String(err)}`);
+				this.lose(session, `the command server could not be run: ${String(err)}`);
 				if (!settled) { settled = true; clearTimeout(timer); refuse(refusalOf(REFUSAL_START, String(err))); }
 			});
 			child.on('exit', (code, signal) => {
-				this.lose(session, `the verb server exited (code ${String(code)}, signal ${String(signal)})`);
+				this.lose(session, `the command server exited (code ${String(code)}, signal ${String(signal)})`);
 				if (!settled) {
 					settled = true;
 					clearTimeout(timer);
@@ -303,16 +307,16 @@ function readLine(line: string): Record<string, unknown> | null {
 // over is ordinary and happens on a tick the caller did not choose, so it is not worth surfacing;
 // anything else is.
 export async function askServed(
-	client: VerbServerClient,
-	verb: string,
+	client: CommandServerClient,
+	command: string,
 	args: readonly string[],
 	timeoutMs: number
 ): Promise<ServedAnswer> {
 	try {
-		return await client.ask(verb, args, timeoutMs);
+		return await client.ask(command, args, timeoutMs);
 	} catch (thrown) {
-		if (thrown instanceof VerbServerRefusal && START_ANOTHER.has(thrown.refusal)) {
-			return client.ask(verb, args, timeoutMs);
+		if (thrown instanceof CommandServerRefusal && START_ANOTHER.has(thrown.refusal)) {
+			return client.ask(command, args, timeoutMs);
 		}
 		throw thrown;
 	}

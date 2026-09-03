@@ -12,7 +12,7 @@ import type { Readable } from 'node:stream';
  * in it. Everything that used to cost 202-430ms of unbroken synchronous block happens elsewhere.
  *
  * ONE CHILD PER WINDOW, started when the first write is asked for rather than at activation, so a
- * window that never records never pays a bun startup. It is the same shape the verb server is held
+ * window that never records never pays a bun startup. It is the same shape the command server is held
  * open by, and a second bun process is what that already established the cost of.
  *
  * A CHILD THAT IS GONE REFUSES rather than hanging: everything waiting on it is told, and the next

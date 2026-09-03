@@ -51,7 +51,7 @@ export interface AgentNode {
 
 // WHERE THE PAGES ARE, JOINED TO THE ROWS THAT ARE DRAWN.
 //
-// A seat's page comes down with its own row, because the verb reading the seat is the one that
+// A seat's page comes down with its own row, because the command reading the seat is the one that
 // found it. A subagent's cannot: which subagents are running is folded out of each seat's
 // transcript here, and which have a page is answered by akasha's index there, so the two are
 // brought together on the pair a subagent page is keyed by — the seat that ran it and the id it
@@ -217,9 +217,9 @@ export function assembleForest(
       state: row.state ?? undefined,
       waitingOn: row.waitingOn ?? undefined,
       color: row.color ?? undefined,
-      // Joined here rather than at the verb, because the verb answers one repository-relative path
-      // per row and the editor opens absolute ones. A row whose verb named no page, or an answer
-      // that named no repository to join against, carries nothing.
+      // Joined here rather than at the command, because the command answers one
+      // repository-relative path per row and the editor opens absolute ones. A row whose command
+      // named no page, or an answer that named no repository to join against, carries nothing.
       at:
         row.at === null || repo === null || repo === undefined
           ? undefined

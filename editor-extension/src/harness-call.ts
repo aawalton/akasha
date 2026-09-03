@@ -5,7 +5,7 @@ import * as path from 'node:path';
 import { promisify } from 'node:util';
 import { answerBytesSaid } from '@tools/lib/answer';
 import { isServed } from '@tools/lib/verb-served';
-import { askServed, VerbServerClient } from './verb-server-client.ts';
+import { askServed, CommandServerClient } from './command-server-client.ts';
 
 const execFileP = promisify(execFile);
 
@@ -20,8 +20,8 @@ export function opsPath(): string {
 	return path.join(akashaRoot(), 'dotfiles', 'bin', 'ops');
 }
 
-export function verbPath(verb: string): string {
-	return path.join(akashaRoot(), 'tools', `${verb}.ts`);
+export function commandPath(command: string): string {
+	return path.join(akashaRoot(), 'tools', `${command}.ts`);
 }
 
 const BUN_DIRECTORIES = [path.join(os.homedir(), '.bun', 'bin')];
@@ -67,9 +67,9 @@ export class HarnessShortAnswerError extends Error {
 
 // WHAT THE CHILD SAID IT WOULD SEND, AGAINST WHAT ARRIVED. A read that ends early hands back a
 // prefix of the answer, and a prefix of JSON is a syntax error at a byte nobody chose: the caller
-// reads it as a verb that prints rubbish rather than as an answer that did not all arrive. A verb
-// that states its size — see `tools/lib/answer.ts` — is checked here, so a short answer refuses by
-// name and names both numbers. One that states none is passed through, as it always was.
+// reads it as a command that prints rubbish rather than as an answer that did not all arrive. A
+// command that states its size — see `tools/lib/answer.ts` — is checked here, so a short answer
+// refuses by name and names both numbers. One that states none is passed through, as it always was.
 function whole(what: string, stdout: string, stderr: string): string {
 	const said = answerBytesSaid(stderr);
 	if (said === null) {
@@ -110,28 +110,28 @@ export function repositoryPath(repo: string): string {
 	}
 }
 
-const SERVER_VERB = 'verb-server';
+const SERVER_COMMAND = 'verb-server';
 
-// How long a server may take to say hello. It is a bun startup and nothing else — the verbs
+// How long a server may take to say hello. It is a bun startup and nothing else — the commands
 // themselves are loaded when they are first asked for — so this is generous rather than tuned.
 const SERVER_START_TIMEOUT_MS = 15_000;
 
-let served: VerbServerClient | undefined;
+let served: CommandServerClient | undefined;
 
 let noise: ((text: string) => void) | undefined;
 
 // Where the server's stray output and its own complaints go. Nothing said here is ever an answer:
 // answers come back on a pipe of their own. Left unset, it is dropped.
-export function verbServerHeard(say: (text: string) => void): undefined {
+export function commandServerHeard(say: (text: string) => void): undefined {
 	noise = say;
 	return undefined;
 }
 
-function servedClient(): VerbServerClient {
+function servedClient(): CommandServerClient {
 	if (served === undefined) {
-		served = new VerbServerClient({
+		served = new CommandServerClient({
 			bun: path.join(bunDirectory(), 'bun'),
-			serverFile: verbPath(SERVER_VERB),
+			serverFile: commandPath(SERVER_COMMAND),
 			env: harnessEnvironment(),
 			startTimeoutMs: SERVER_START_TIMEOUT_MS,
 			onNoise: (text) => noise?.(text),
@@ -140,34 +140,34 @@ function servedClient(): VerbServerClient {
 	return served;
 }
 
-export function disposeVerbServer(): undefined {
+export function disposeCommandServer(): undefined {
 	served?.dispose();
 	served = undefined;
 	return undefined;
 }
 
-export function verbNamed(verbFile: string): string {
-	return path.basename(verbFile).replace(/\.ts$/, '');
+export function commandNamed(commandFile: string): string {
+	return path.basename(commandFile).replace(/\.ts$/, '');
 }
 
-// ASKED OF THE SERVER WHERE THERE IS ONE, AND OF NOTHING ELSE WHERE THERE IS NOT. A verb the
+// ASKED OF THE SERVER WHERE THERE IS ONE, AND OF NOTHING ELSE WHERE THERE IS NOT. A command the
 // server answers is never also spawned as a child on a bad day: a second road that quietly works
 // and costs a fifth of a core is how the cost this removed would come back unseen. A server that
 // cannot answer refuses, which the callers already draw as `unread` and log.
-export async function runVerb(
-	verbFile: string,
+export async function runCommand(
+	commandFile: string,
 	args: readonly string[],
 	options: HarnessCallOptions
 ): Promise<string> {
-	const verb = verbNamed(verbFile);
-	if (isServed(verb) && verbFile === verbPath(verb)) {
-		const answer = await askServed(servedClient(), verb, args, options.timeout);
+	const command = commandNamed(commandFile);
+	if (isServed(command) && commandFile === commandPath(command)) {
+		const answer = await askServed(servedClient(), command, args, options.timeout);
 		if (answer.code !== 0) {
-			throw new Error(`${verb} exited ${answer.code}: ${answer.stderr.trim()}`);
+			throw new Error(`${command} exited ${answer.code}: ${answer.stderr.trim()}`);
 		}
-		return whole(verb, answer.stdout, answer.stderr);
+		return whole(command, answer.stdout, answer.stderr);
 	}
-	return run(verb, path.join(bunDirectory(), 'bun'), [verbFile, ...args], options);
+	return run(command, path.join(bunDirectory(), 'bun'), [commandFile, ...args], options);
 }
 
 export function unreachableMessage(error: unknown): string {

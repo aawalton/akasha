@@ -4,12 +4,12 @@ import { homedir, tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import {
   askServed,
+  CommandServerClient,
+  CommandServerRefusal,
   REFUSAL_GONE,
   REFUSAL_LEASE,
   REFUSAL_OVER_LEASE,
-  VerbServerClient,
-  VerbServerRefusal,
-} from "../editor-extension/src/verb-server-client.ts"
+} from "../editor-extension/src/command-server-client.ts"
 import { LEASE_ENV, VERBS_SERVED } from "./lib/verb-served.ts"
 import { VERBS_LOADABLE, verbsAdrift } from "./verb-server.ts"
 
@@ -31,7 +31,7 @@ const WORKING_PAGE = "pages/domain/agent-turn-working.md"
 
 const ASK_MS = 20_000
 
-const started: VerbServerClient[] = []
+const started: CommandServerClient[] = []
 
 // A root of our own, holding the one page `agent-turn-colors --state working` reads. Writing a
 // colour here is a change the server must notice; nothing in the repository is touched.
@@ -53,8 +53,8 @@ function colourIn(at: string, colour: string): undefined {
 function clientAt(
   root: string,
   more: { readonly leaseBoundMs?: number; readonly serverLeaseMs?: number } = {}
-): VerbServerClient {
-  const client = new VerbServerClient({
+): CommandServerClient {
+  const client = new CommandServerClient({
     bun: BUN,
     serverFile: SERVER,
     env: {
@@ -71,7 +71,7 @@ function clientAt(
 }
 
 async function colourSaid(
-  client: VerbServerClient
+  client: CommandServerClient
 ): Promise<{ readonly colour: string; readonly pid: number }> {
   const answer = await client.ask("agent-turn-colors", ["--state", "working"], ASK_MS)
   const said = JSON.parse(answer.stdout) as { colors: Record<string, string> }
@@ -152,8 +152,8 @@ describe("the verb server where it cannot answer", () => {
         (err: unknown) => ({ refused: true, saying: err })
       )
       expect(thrown.refused).toBe(true)
-      expect(thrown.saying).toBeInstanceOf(VerbServerRefusal)
-      expect((thrown.saying as VerbServerRefusal).refusal).toBe(REFUSAL_GONE)
+      expect(thrown.saying).toBeInstanceOf(CommandServerRefusal)
+      expect((thrown.saying as CommandServerRefusal).refusal).toBe(REFUSAL_GONE)
     } finally {
       rmSync(root, { recursive: true, force: true })
     }
@@ -173,7 +173,7 @@ describe("the verb server where it cannot answer", () => {
         (err: unknown) => ({ refused: true, saying: err })
       )
       expect(thrown.refused).toBe(true)
-      expect((thrown.saying as VerbServerRefusal).refusal).toBe(REFUSAL_LEASE)
+      expect((thrown.saying as CommandServerRefusal).refusal).toBe(REFUSAL_LEASE)
     } finally {
       rmSync(root, { recursive: true, force: true })
     }
@@ -196,7 +196,7 @@ describe("the verb server where it cannot answer", () => {
         (err: unknown) => ({ refused: true, saying: err })
       )
       expect(thrown.refused).toBe(true)
-      expect((thrown.saying as VerbServerRefusal).refusal).toBe(REFUSAL_OVER_LEASE)
+      expect((thrown.saying as CommandServerRefusal).refusal).toBe(REFUSAL_OVER_LEASE)
     } finally {
       rmSync(root, { recursive: true, force: true })
     }
@@ -234,7 +234,7 @@ describe("the verb server when its lease turns over under a caller", () => {
         () => null,
         (err: unknown) => err
       )
-      expect(thrown).toBeInstanceOf(VerbServerRefusal)
+      expect(thrown).toBeInstanceOf(CommandServerRefusal)
     } finally {
       rmSync(root, { recursive: true, force: true })
     }

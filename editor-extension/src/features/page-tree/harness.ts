@@ -1,6 +1,6 @@
 import * as path from 'node:path';
 import { z } from 'zod';
-import { akashaRoot, runVerb, verbPath } from '../../harness-call.ts';
+import { akashaRoot, runCommand, commandPath } from '../../harness-call.ts';
 import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble.ts';
 
 const CALL_TIMEOUT_MS = 60_000;
@@ -60,7 +60,7 @@ export function readPageAnswers(answered: unknown): PageAnswers {
 }
 
 export async function readPageTree(): Promise<PageTree> {
-	const stdout = await runVerb(verbPath('page-tree'), [], {
+	const stdout = await runCommand(commandPath('page-tree'), [], {
 		timeout: CALL_TIMEOUT_MS,
 		maxBuffer: MAX_BUFFER,
 	});

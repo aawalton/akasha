@@ -1,7 +1,7 @@
 import { createHash } from 'node:crypto';
 import * as path from 'node:path';
 import * as vscode from 'vscode';
-import { repositoryPath, runVerb, unreachableMessage, verbPath } from '../../harness-call.ts';
+import { repositoryPath, runCommand, unreachableMessage, commandPath } from '../../harness-call.ts';
 import { recordObservation } from '../../seat/observation-store.ts';
 import { createSettledRefresh } from '../settled-refresh.ts';
 import { countDomains, type DomainNode, readDomainTreeAnswer } from './harness.ts';
@@ -10,7 +10,7 @@ import { createDomainTree } from './tree.ts';
 
 const FEATURE = 'domain-tree';
 
-const VERB = 'domain-tree';
+const COMMAND = 'domain-tree';
 
 const CALL_TIMEOUT_MS = 30_000;
 
@@ -121,7 +121,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	const refresh = async (trigger: string): Promise<undefined> => {
 		owedSince = undefined;
 		try {
-			const said = await runVerb(verbPath(VERB), [], {
+			const said = await runCommand(commandPath(COMMAND), [], {
 				timeout: CALL_TIMEOUT_MS,
 				maxBuffer: MAX_BUFFER,
 			});
