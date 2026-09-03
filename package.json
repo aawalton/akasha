@@ -41,7 +41,6 @@
     "readouts",
     "shared/utils-test",
     "shared/vscode-typings",
-    "smilingjenny/web",
     "temper/player-completion",
     "temper/scripts",
     "temper/web",

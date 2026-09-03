@@ -1,9 +1,0 @@
-@import "tailwindcss";
-@import "@akasha/design-system/styles.css";
-
-@source "../../../akasha/design/system/**/*.{ts,tsx}";
-@source "../../../akasha/design/badges/**/*.{ts,tsx}";
-@source "../../../akasha/design/forms/**/*.{ts,tsx}";
-@source "../../../akasha/design/layout/**/*.{ts,tsx}";
-@source "../../../akasha/design/patterns/**/*.{ts,tsx}";
-@source "../../../akasha/design/primitives/**/*.{ts,tsx}";
