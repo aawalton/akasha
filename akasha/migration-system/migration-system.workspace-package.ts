@@ -102,10 +102,6 @@ export const migrationSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "No migration into akasha has carried a page id across.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A sidecar is judged on evidence of the sidecar rather than on the page beside the sidecar.",
     },
