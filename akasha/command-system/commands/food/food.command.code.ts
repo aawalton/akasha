@@ -62,7 +62,8 @@ const DAY_PATTERN = /^\d{4}-\d{2}-\d{2}$/
 
 const TIME_PATTERN = /^(\d{1,2}):(\d{2})$/
 
-const NUTRITION_POINTS = "@tools/lib/daily-tracking/nutrition-points"
+const NUTRITION_POINTS =
+  "../../../alan/tracking/daily/nutrition-points/nutrition-points.module.code.ts"
 
 export type WallClock = { readonly hh: number; readonly mm: number }
 

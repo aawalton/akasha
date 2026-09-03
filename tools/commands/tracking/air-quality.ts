@@ -6,8 +6,8 @@ import {
   assessOutdoor,
   LOCATION_PRESETS,
   type ResolvedLocation,
-} from "../../lib/daily-tracking/air-quality.ts"
-import { fetchAirQuality } from "../../lib/daily-tracking/air-quality-fetch.ts"
+} from "../../../akasha/alan/tracking/daily/air-quality/air-quality.module.code.ts"
+import { fetchAirQuality } from "../../../akasha/alan/tracking/daily/air-quality-fetch/air-quality-fetch.module.code.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 
