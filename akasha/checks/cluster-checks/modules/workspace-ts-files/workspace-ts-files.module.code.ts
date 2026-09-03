@@ -11,7 +11,8 @@ import {
 import type { TreeReading } from "../tree-reading/tree-reading.module.code.ts"
 import { workspaceDirsIn } from "../workspace-packages/workspace-packages.module.code.ts"
 
-const CURATION_DIR = "tools/lib/code-audit-ast-unused"
+// The curation stands beside this module, which is its only reader.
+const CURATION_DIR = "akasha/checks/cluster-checks/modules/workspace-ts-files"
 
 const CURATION_FILE = `${CURATION_DIR}/ast-unused.config.json`
 
