@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAndAudibleMassi = {
-  id: "01a0659d-cb91-793b-9cfd-23004a2f8283",
+  id: "01a0659f-2327-741f-b130-2ddb4a2f8283",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0015-azarinth-healer-book-3-out-today-on-amazon-and-audible-massi",
   title:

@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0010Chapter931MonstersInTheNight = {
-  id: "01a0659d-cb8e-7670-bc55-f0fbebd640f1",
+  id: "01a0659f-2324-7a29-b6c5-797aebd640f1",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0010-chapter-931-monsters-in-the-night",
   title: "Chapter 931 Monsters in the night",

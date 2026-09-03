@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0016NotAChapterUpdateOnTheStorySerializedVersion = {
-  id: "01a0659d-cb91-7473-b04e-b863fb032b5c",
+  id: "01a0659f-2327-7f30-a56c-30e9fb032b5c",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0016-not-a-chapter-update-on-the-story-serialized-version",
   title: "Not a chapter - Update on the story/serialized version",

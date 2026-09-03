@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableForPreOrder = {
-  id: "01a0659d-cb95-79ed-9f63-6144af0370dc",
+  id: "01a0659f-232d-73f8-b34c-7ac3af0370dc",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0024-announcing-new-hardcover-for-book-1-available-for-pre-order",
   title:

@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0014Chapter934Niraela = {
-  id: "01a0659d-cb91-74ea-ab19-8626b7a9104d",
+  id: "01a0659f-2327-7860-a54f-edbbb7a9104d",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0014-chapter-934-niraela",
   title: "Chapter 934 Niraela",

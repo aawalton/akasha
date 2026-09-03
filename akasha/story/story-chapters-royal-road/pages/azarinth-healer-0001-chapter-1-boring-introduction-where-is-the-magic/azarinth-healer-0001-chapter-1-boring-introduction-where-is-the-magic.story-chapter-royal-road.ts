@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic = {
-  id: "01a0659d-cb86-71e4-a315-91ca70984aef",
+  id: "01a0659f-231c-740d-8b94-fbf370984aef",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0001-chapter-1-boring-introduction-where-is-the-magic",
   title: "Chapter 1 Boring introduction - Where is the magic?",

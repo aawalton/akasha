@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0003Chapter3GlowingMoss = {
-  id: "01a0659d-cb88-7d02-a3c1-b8587adb8125",
+  id: "01a0659f-231f-7bd4-bcd3-b7dd7adb8125",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0003-chapter-3-glowing-moss",
   title: "Chapter 3 Glowing Moss",

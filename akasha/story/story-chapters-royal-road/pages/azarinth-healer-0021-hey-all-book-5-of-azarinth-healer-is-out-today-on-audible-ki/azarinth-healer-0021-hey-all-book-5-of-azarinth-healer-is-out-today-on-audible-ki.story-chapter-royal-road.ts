@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0021HeyAllBook5OfAzarinthHealerIsOutTodayOnAudibleKi = {
-  id: "01a0659d-cb95-7d43-b2aa-c1291caec3d6",
+  id: "01a0659f-232d-7cdc-b8ac-c44b1caec3d6",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0021-hey-all-book-5-of-azarinth-healer-is-out-today-on-audible-ki",
   title: "Hey all! Book 5 of Azarinth Healer is out today on Audible, Kindle Unlimited, and ebook.",

@@ -1,7 +1,7 @@
 import type { StoryChapterRoyalRoad } from "../../story-chapter-royal-road.page-type.ts"
 
 export const azarinthHealer0006TheUnionOfDubiousDamesIi = {
-  id: "01a0659d-cb8b-7867-a64d-530c368988e4",
+  id: "01a0659f-2321-78c2-bb67-2e79368988e4",
   pageTypeSlug: "story-chapter-royal-road",
   slug: "azarinth-healer-0006-the-union-of-dubious-dames-ii",
   title: "The Union of Dubious Dames II",
