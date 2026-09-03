@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theRestoreOfPageLeftItOutOfTheRootBuild = {
+  id: "01a06860-a4b6-7034-8dd5-80bd372ca851",
+  pageTypeSlug: "finding",
+  slug: "the-restore-of-page-left-it-out-of-the-root-build",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`page/` stands on disk with a `tsconfig.json` that nothing refers to, so none of its 55 files is judged by the root typecheck. The reference was pruned while the folder was ablated and was not put back when the folder was, so the restore returned the code without the coverage. Five commits have since changed files there under no typecheck at all. Re-wiring it is a one-line edit that no one should make blind, because a reference to a project carrying errors breaks the root build for every lane at once.",
+  evidence:
+    'Four commits on 2026-09-02 tell the order by timestamp rather than by message. 24d4a5882a at 22:16:58 took away eight files under `page/`; bbe6e37f9a at 22:17:44 took away forty-eight more; 4404bc2ecc at 22:18:32 dropped the `./page` entry from the root `tsconfig.json` as the reference an ablated directory left behind; a4b95979b0 at 22:21:59 restored all fifty-six files, naming the seats and the shells that had gone dark, and touched no tsconfig. `git merge-base --is-ancestor a4b95979b0 4404bc2ecc` is false, so the prune is not a later correction of the restore but an earlier step the restore did not undo.\n\nThe root `tsconfig.json` carries seventeen references today and `./page` is not among them, while `page/tsconfig.json` still stands, extending `../../tsconfig.base.json` with `include: ["**/*.ts"]`. 4b1160945f had added that file for the stated purpose of reaching the folder\'s files, proving the config sighted first with a canary drawing TS2345 both alone and through the root build, and recording that page and readouts compiled at zero. Since the restore, f29b18abb4, 0e062d0b4c, cad15347bb, 1550c11f55 and d01699114a have each changed files under `page/`, none of them judged.\n\nWhether the folder compiles at zero today is not established here. `bunx tsc -p page/tsconfig.json --noEmit` is refused by the block-typecheck hook, which directs the caller to `akasha audit --check typecheck`; under this initiative only the coordinator runs that, alone and in the background. So the reference is left out rather than restored unverified, which is the failure 4404bc2ecc was itself cleaning up after.',
+} as const satisfies Finding
