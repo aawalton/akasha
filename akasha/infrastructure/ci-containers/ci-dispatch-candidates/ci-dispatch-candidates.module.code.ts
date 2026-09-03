@@ -2,7 +2,6 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Values } from "@akasha/pages-system/page-carry"
 import { UNREACHED } from "@akasha/pages-system/page-query-shape"
 import { listOf, textOf } from "@akasha/pages-system/page-query-values"
-import { PagesUnread } from "@tools/lib/file-pages"
 import { answer } from "@tools/lib/page-query"
 import { onMainBranch } from "../ci-dispatch-placement/ci-dispatch-placement.module.code.ts"
 import {
@@ -17,6 +16,20 @@ import {
 } from "../ci-node-capacity/ci-node-capacity.module.code.ts"
 
 export const DISPATCHING = "dispatching"
+
+/** Was `PagesUnread` in `tools/lib/file-pages.ts`; this was its one reader. */
+class PagesUnread extends Error {
+  readonly pageType: string
+  readonly why: string
+  constructor(pageType: string, why: string) {
+    super(
+      `the \`${pageType}\` pages went unread, so no page can be called present or missing: ${why}`
+    )
+    this.name = "PagesUnread"
+    this.pageType = pageType
+    this.why = why
+  }
+}
 
 /**
  * A step's definition is the one thing a candidate needs that no page query answers: it is a

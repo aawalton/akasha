@@ -6,6 +6,7 @@ export const newYorkWall = {
   slug: "new-york-wall",
   definition: "the instant a New York clock read a given time, and the time it reads at one",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

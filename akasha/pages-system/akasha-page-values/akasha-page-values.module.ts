@@ -7,6 +7,7 @@ export const akashaPageValues = {
   definition:
     "the values an akasha page declares, in the shape the query engine reads a markdown page in",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

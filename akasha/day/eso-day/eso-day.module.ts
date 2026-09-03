@@ -6,6 +6,7 @@ export const esoDay = {
   slug: "eso-day",
   definition: "the day counted from six in the morning in New York, and the span one covers",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
