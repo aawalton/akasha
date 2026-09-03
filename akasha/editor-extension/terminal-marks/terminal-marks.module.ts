@@ -30,6 +30,10 @@ export const terminalMarks = {
       statement: "A terminal with no process id is given one fixed name.",
     },
     {
+      invariantKind: "departure",
+      statement: "The fixed name is compared only inside the terminal renamer.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here renames or recolors a terminal.",
     },
