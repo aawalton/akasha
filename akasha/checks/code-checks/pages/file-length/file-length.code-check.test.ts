@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { CEILING, ENTRY_CEILING, MARKUP_CEILING, reasonsIn } from "./file-length.code-check.code.ts"
+import {
+  CEILING,
+  ENTRY_CEILING,
+  MARKUP_CEILING,
+  PROSE_CEILING,
+  reasonsIn,
+} from "./file-length.code-check.code.ts"
 
 const ROOT = "/repo"
 
@@ -133,4 +139,18 @@ test("a too-long file that is no test is refused in the words it was refused in 
 
 test("a test file under the ceiling is let through, so naming the relief refuses nothing new", () => {
   expect(reasonsIn(given("akasha/held.module.test.ts", sized(CEILING)))).toEqual([])
+})
+
+test("prose beside a page is held wider than a code file, whatever the page type", () => {
+  const held = sized(CEILING + 1)
+  expect(reasonsIn(given("akasha/one.book-chapter.chapter-text.md", held))).toEqual([])
+  expect(reasonsIn(given("akasha/one.story-chapter-read.prose.txt", held))).toEqual([])
+})
+
+test("prose over its own ceiling is refused, and the refusal names what dividing it costs", () => {
+  const at = "akasha/one.book-chapter.chapter-text.md"
+  const said = reasonsIn(given(at, sized(PROSE_CEILING + 1)))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("131,072 byte ceiling")
+  expect(said[0]).toContain("hides all but the first")
 })

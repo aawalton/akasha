@@ -38,6 +38,22 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
+      statement: "A prose file is held to a byte ceiling wider than a code file's ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prose file carries the `md` or the `txt` extension.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The author rather than akasha decides where prose may be divided.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a prose file names what dividing prose costs a reader.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal for a markup file names the division an addon's manifest admits.",
     },
     {
