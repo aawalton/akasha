@@ -1,0 +1,544 @@
+Training Overview
+
+General Experience Earned
+
+Stamina Use: 70
+
+Mana Use: 1276
+
+[Level Up]
+
+Skill Experience Earned
+
+Refrigerate: 90
+
+Extend Aura: 97
+
+Purify: 913 [Rank Up]
+
+Winter: 23
+
+Amplify Aura: 153
+
+Intrinsic Clarity: 1276 [Rank Up]
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 6
+
+Experience: 1009/2626
+
+Dynamo
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+200
+
+Strength
+
+10
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+80
+
+Free Stat Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0 | 0%
+
+H.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Stamina
+
+200
+
+200
+
+0 | 0%
+
+S.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Mana
+
+200
+
+200
+
+0 | 0%
+
+M.Regen
+
+244/hr
+
+220/hr
+
+-2 | 12%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+Skills
+
+Refrigerate (3/10) Exp: 194/400
+
+22-25 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 3 meters
+
+Cost: 15 mp/s
+
+Extend Aura (2/10) Exp: 188/200
+
+Extend aura range by 2 meters
+
+Multiply aura mana cost by 140%
+
+Purify (5/10) Exp: 852/1100
+
+Purify poison, corruption, and contamination
+
+Range: 5 meters
+
+Cost: 50 mp/min
+
+Winter (1/10) Exp: 70/100
+
+Multiply M.Regen by 110% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/hr
+
+Intrinsic Clarity (6/10) Exp: 510/1600
+
+Multiply base mana regeneration by 220%
+
+Amplify Aura (2/10) Exp: 179/200
+
+Multiply aura intensity by 120%
+
+Multiply aura mana cost by 140%
+
+Free Skill Points: 1
+
+Rain sat, trying to decide what to do with his skill point. He had invested his stat points into clarity, honoring his promise to himself to get the stat to 100 before considering spending points elsewhere. The faster experience gain from his mana regeneration was just too good to pass up. He looked through his aura trees but didn't see anything that was really calling to him. Briefly, he considered taking a spell like firebolt to give himself a more efficient way of dealing damage at range. He decided against it fairly quickly, however. His two aura metamagic skills would do nothing for it and he didn’t know if there was some limit on the number of skill points he could earn. It felt like a waste of a point to him, given that refrigerate with extend aura had decent enough range now.
+
+Furthermore, he was sure that there would be more boosts to auras in the higher skill tiers and he was pretty invested in them at this point. Curious about what Tier 1 might hold, he spent the 100 experience required to unlock the next level of spells for the offensive auras tree.
+
+Offensive Auras
+
+Tier 0
+
+Immolate (0/10) (+)
+
+7-8 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 1 meter
+
+Cost: 5 mp/s
+
+Refrigerate (3/10) Exp: 194/400
+
+22-25 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 3 meters
+
+Cost: 15 mp/s
+
+Tier 1
+
+Radiance (0/10)
+
+7-8 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 1 meter
+
+Cost: 5 mp/s
+
+Requires 5 ranks in immolate
+
+Shroud (0/10)
+
+7-8 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 1 meter
+
+Cost: 5 mp/s
+
+Requires 5 ranks in refrigerate
+
+Shear (0/10)
+
+7-8 force (fcs) damage per second to entities and environment
+
+Not occluded by mundane materials
+
+Range: 1 meter
+
+Cost: 10 mp/s
+
+Requires 15 ranks in offensive auras
+
+Huh, they have prerequisites. I can't take any of these. Shroud I could get to with a bit of work. Shear sounds like it would be quite unpleasant to experience, and it goes through walls if I am reading that right. Ouch. Taking that one for sure once I can. I really should work on refrigerate more so I can unlock the others.
+
+Setting the offensive tree aside, Rain proceeded to unlock tier 1 for both utility auras and aura metamagic. He didn't bother with defensive auras, figuring he wouldn't meet any of the prerequisites. He could revisit it later if he didn't see anything he liked in utility.
+
+Utility Auras
+
+Tier 0
+
+Purify (5/10) Exp: 852/1100
+
+Purify poison, corruption, and contamination
+
+Range: 5 meters
+
+Cost: 50 mp/min
+
+Spring (0/10) (+)
+
+Multiply S.Regen by 110% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/hr
+
+Summer (0/10) (+)
+
+Multiply H.Regen by 110% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/hr
+
+Winter (1/10) Exp: 70/100
+
+Multiply M.Regen by 110% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/hr
+
+Tier 1
+
+Detection (0/10) (+)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 1.0 meters
+
+Range: 1 meter
+
+Cost: 1 mp/s
+
+Requires 5 ranks in utility auras
+
+Velocity (0/10) (+)
+
+10% boost to speed for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/s
+
+Requires 5 ranks in utility auras
+
+Life Well (0/10)
+
+Convert mana to health and transfer to all entities within range, including user
+
+Transfer Rate: 1 hp/s
+
+Efficiency: 20%
+
+Range: 1 meter
+
+Requires 5 ranks in summer
+
+Energy Well (0/10)
+
+Convert mana to stamina and transfer to all entities within range, including user
+
+Transfer Rate: 1 sp/s
+
+Efficiency: 20%
+
+Range: 1 meter
+
+Requires 5 ranks in spring
+
+Essence Well (0/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 1 mp/s
+
+Efficiency: 20%
+
+Requires 5 ranks in winter
+
+Detection sounds useful, like a radar or something. I wonder how it works? If it is anything like purify it is probably broken as shit. Velocity sounds nice too. Is that 10% speed to just allies, or everything? That is the difference between a travel aura and one I can use in combat.
+
+The others I won't be getting any time soon thanks to how slowly the seasonal auras level. They look really good though. The life well one would let me be a healer. I’m going to need some survivability if I am serious about this adventurer thing, and being able to heal would go a long way towards that.
+
+Humm, I'll check metamagic before I make my choice but I think detection is the winner. Once I get the range up, I can use it to scan for hidden treasure or monsters. Not sure about the resolution, but even if that doesn't get better it will at least tell me what direction something is in.
+
+Aura Metamagic
+
+Tier 0
+
+Extend Aura (2/10) Exp: 188/200
+
+Extend aura range by 2 meters
+
+Multiply aura mana cost by 140%
+
+Amplify Aura (2/10) Exp: 179/200
+
+Multiply aura intensity by 120%
+
+Multiply aura mana cost by 140%
+
+Tier 1
+
+Aura Focus (0/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 120%
+
+Multiply aura range by 120%
+
+Multiply aura mana cost by 120%
+
+User loses all external senses while focusing
+
+Requires 5 ranks in amplify aura
+
+Requires 5 ranks in extend aura
+
+Aura Synergy (0/10)
+
+Increase all aura output by 0.1% for each rank in any aura
+
+Requires 1 rank in 5 different auras
+
+Humm, aura focus. That must have been what Ameliah was using to boost purify like that. I guess that is what it takes to dissolve a musk wolf. Synergy looks pretty weak, but...damn, that could be really strong eventually. No point bothering with defensive auras, I wouldn't meet the prerequisites, so that just leaves velocity and detection. Yeah, detection it is.
+
+Rain’s finger hovered over the (+) next to the skill.
+
+Oh, wait, I could save the point and use it to get shroud once I level up refrigerate. Hummm.
+
+Nah, instant gratification it is.
+
+Rain selected detection, adding his point and hitting apply, then closed out of all his menus to give it a test drive.
+
+Detection
+
+Winter deactivated and a little radar icon appeared.
+
+Hah, called it. Now, let's see, how do I...
+
+Rain concentrated, watching his mana start to tick down. He didn't sense anything different, however.
+
+Humm, specified items of interest, it says, so how about a Tel.
+
+Focusing on the image of a Tel, Rain activated the aura, then freaked out at the sensation invading his brain. He could FEEL the Tel in his pocket in a way that was completely unlike anything he had ever experienced before. It was as if he simply knew them to be there but not by sight, smell, touch, or any other sense. It wasn't even like memory or intuition. The sense was something...else. Rain didn't have the words to describe it.
+
+I can feel them, they are close, but...damn. It’s fuzzy. This must be the resolution thing. Humm, how specific can I be with this?
+
+Rain stopped thinking about Tel and concentrated on the image of a stick. He got up and walked around the campsite, feeling sticks entering and leaving his sphere of perception. The fuzziness meant that he couldn't tell exactly where they were, or anything about them, really, just that they were there. He switched his focus several times, trying different objects. It seemed he could be pretty specific with the item he chose but there were some limitations. For example, 'hat' was a searchable item but 'Jamus's hat' was not. General terms worked as well. ‘Clothes’, for example, left him with the feeling of each of his various articles of clothing in his mind, each slightly different but still hazy and non-localized. There was a limit to the number of objects he could keep track of but that was more to do with his brain feeling like it was trying to escape his skull than anything about the skill itself.
+
+Rain's mana ran out and he felt like his gray matter was leaking out of his ears but he was smiling to himself. He was satisfied with his choice and already thinking of ways to abuse his new-found power.
+
+The group continued up the dirt track all morning, stopping briefly for lunch. Rain had been periodically using purify, not wanting to get off the cart to use refrigerate. Carten had kept watch again last night but was walking along as if he had gotten a full night's sleep. He hadn't commandeered the cart this time but the lack of sleep didn’t seem to be bothering him. A few hours into the afternoon, the path came to an end at the entrance of a mine cut into the side of one of the rocky hills.
+
+The door of the mine was wooden and a bar was lowered over it, looking as if it had been added after the fact. Somebody clearly hadn't wanted whatever was in the mine to get out. Lavarro brought them to a halt and unhitched the horse, tying its lead to a tree with sufficient slack for it to graze. She then turned to the group.
+
+“This is Vekuavak Mine. We are here to get <something> and bring them back to the city. Questions?”
+
+Finally! Now she explains? Not the hundred other times I have asked her? Why was she keeping us in the dark? She didn't even tell the others; all Jamus knew was that we were going to a mine.
+
+“<Something>?” Rain asked, inquiring as to the identity of the MacGuffins they had been sent to retrieve.
+
+“Not you. Any other questions?” Lavarro shut Rain down hard. In response, Rain flipped her off, smiling a deliberately fake smile and doubting she would understand the gesture.
+
+Jamus gave Rain an apologetic look. “How many?” he asked.
+
+“Fifteen.”
+
+“Monsters?” chimed in Carten.
+
+“Unknown.”
+
+“Treasure?” Mahria asked.
+
+“Unknown.”
+
+“Why didn't the miners take the <somethings>?” Jamus asked, Rain guessing the word ‘miner’ from context and the fact that it shared a root with 'mine'.
+
+“Because they are dead.”
+
+Rain gulped.
+
+“Drink these. Five minutes, then we go in. Rest. No magic.” Lavarro fished out a number of small vials from her pack and handed one to each of the party, hesitating before she grudgingly handed Rain his, then downed one herself and squatted down to wait.
+
+Rain looked at the vial curiously. It contained a dark green liquid flecked with blue. Seeing that the others didn't seem concerned, he shrugged, pulled the cork, and drank it down. The taste was...not great.
+
+Better than raw sewage at least. Fuck do I wish I didn't have the experience to make that comparison.
+
+Rain was distracted from the taste by an unfamiliar sound. There was the crashing of a gong accompanied by a new addition to his log. He brought up the message dialog, revealing a message type he hadn't seen before.
+
+Chemical Effect Activated
+
+Minor Traveler's Aid
+
++400 sp/hr, 4hr duration
+
++400 mp/hr, 4hr duration
+
+Wow, that is pretty good. I need to buy some of these.
+
+“Jamus.” Rain motioned to the man.
+
+“Yeah?”
+
+“This...drink. How many Tel?”
+
+“Humm? 30, 40 maybe. Lavarro made them, so I don't know the <something> price.”
+
+Rain's eyes bulged slightly, then he gulped, still fighting the nasty taste in his mouth. He didn't want to use purify at risk of Lavarro's wrath. ‘No magic’, she had said.
+
+Well, guess I'm not going to be drinking a lot of these any time soon, it just isn't worth it. Man, how much is this job paying if she is willing to dole out 5 of them?
+
+Belatedly, Rain realized that his winter aura was still on, so he shut it down to comply with Lavarro’s command. It felt odd to be without it after leaving it on almost constantly for so long. As he canceled the skill, Lavarro turned her head suddenly to look at him, her sharp green eyes freezing him in place.
+
+“No, keep that on. Only that. Nothing else.”
+
+Rain quickly reactivated the skill. Lavarro narrowed her eyes, then nodded and went back to ignoring him.
+
+Wow, I didn’t think any of them other than Jamus had noticed. I guess I’m worth something to them, even if the boost is tiny.
+
+Turning to Jamus, Rain asked him to explain what they were retrieving, but he didn't get what the man was trying to mime before Lavarro rose to her feet and called them over.
+
+She lit a torch, then motioned to Carten to take the lead into the mine. She followed him closely, holding the light up high. Rain and Mahria followed at Jamus's urging, the older mage taking up the rear. The mine was dark, and Rain couldn't see much from his position in the middle of the group. They traveled downward for about five minutes before coming to a large, open cavern. There were various bits of mining equipment lying around, and several tunnels off of the chamber. Rain was disappointed that there were no mine carts or tracks, just hewn stone and timber framing.
+
+Lavarro gestured Rain over to a wall, where there was a rack holding three miner's picks. “Take the <somethings>.”
+
+Ah, so that is what that flailing motion Jamus was making meant. Picks. We are here to get the miner's picks. But... why? There must be something special about them.
+
+Rain examined one of the picks as he took it down off the wall, struggling with the weight. It was much heavier than it looked. As he examined it, he noticed that the metal of the pick head was glowing slightly.
+
+Magic?
+
+“Hurry up,” Lavarro hissed at him in a whisper, not taking her eyes away from the side tunnels leading off of the room.
+
+Grabbing the other two picks, Rain balanced them precariously in his arms, walking back to the group.
+
+“Mahria, help him. Bring them up, then <something>. Quietly.”
+

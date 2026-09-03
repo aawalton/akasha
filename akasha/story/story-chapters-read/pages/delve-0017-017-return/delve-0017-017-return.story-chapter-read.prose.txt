@@ -1,0 +1,338 @@
+Two days later, Rain was sitting in his alcove in the bath, soaking his tired legs in the cool water and idly swiping through his menus. The return to the city had been uneventful, but Rain's mood was sour. It wasn't even the money that was the real issue for him; it was the unspoken message: you are not one of us.
+
+Rationally, he knew that he had agreed to the terms before they had set out, but it still hurt. He had been getting along well with the group, but then there was the battle and his inability to fight had made him start to feel like baggage, just along for the ride. His purification aura had aided the group, but not in any way that mattered, not really. The Tel had been the nail in the coffin. Friends would have shared, business associates would stick to the contract.
+
+As they had traveled back to the city, Rain had kept to himself, studying from his notebook and using his spells for practice. He wasn't feeling as at home with the group as he had before. He felt awkward around Mahria, and Jamus was slow to recover from his mana usage. The mage had just sat in the cart with his eyes closed for the entire first day, wincing at every bump.
+
+When they had finally returned to the city, Rain hadn't even accompanied them to the guild to turn in the quest. He had stiffly said his goodbyes and had wandered the city, his feet eventually carrying him here. Jamus had looked like he wanted to say something but had stopped himself at a look from Lavarro.
+
+He felt like he had finally made some real friends in this world, but then it just fell apart before his eyes. He didn’t blame them, and he knew that he was taking it harder than he should. Rationally, he thought it might be a good idea to seek them out at the guild and ask to join the group formally. He thought he had a chance at convincing Jamus and Carten, and maybe even Mahria. Lavarro was another matter. Rationality aside, the perceived betrayal had hit him hard, sending his mind down a dark path that had led him here, alone and feeling sorry for himself.
+
+Ok, no more of that.
+
+Catching his thoughts spiraling down the familiar well of depression, Rain splashed some of the cold river water onto his face and re-focused on his status. While he hadn’t found the sense of belonging that he craved, he had made some pretty good progress in other areas.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 7
+
+Experience: 3163/3320
+
+Dynamo
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+200
+
+Strength
+
+10
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+90
+
+Free Stat Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0
+
+0%
+
+H.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Stamina
+
+200
+
+200
+
+0
+
+0%
+
+S.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Mana
+
+200
+
+200
+
+0
+
+0%
+
+M.Regen
+
+372
+
+/hr
+
+293
+
+/hr
+
+-8/hr
+
+30%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Skills
+
+Refrigerate (3/10) Exp: 194/400
+
+22-25 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 3 meters
+
+Cost: 15 mp/s
+
+Extend Aura (5/10) Exp: 30/1100
+
+Extend aura range by 5 meters
+
+Multiply aura mana cost by 200%
+
+Purify (6/10) Exp: 829/1600
+
+Purify poison, corruption, and contamination
+
+Range: 6 meters
+
+Cost: 60 mp/min
+
+Winter (2/10) Exp: 24/200
+
+Multiply M.Regen by 120% for all entities
+
+Range: 2 meters
+
+Cost: 2 mp/hr
+
+Intrinsic Clarity (8/10) Exp: 1790/2900
+
+Multiply base mana regeneration by 260%
+
+Amplify Aura (5/10) Exp: 21/1100
+
+Multiply aura intensity by 150%
+
+Multiply aura mana cost by 200%
+
+Detection (4/10) Exp: 265/1400
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.7 meters
+
+Range: 4 meters
+
+Cost: 4 mp/s
+
+Free Skill Points: 1
+
+Rain had been spending some time thinking about what he wanted for the future. He had decided against investing more in his offensive auras for now. He couldn't see a way to use them in a group, not being able to hold back or direct refrigerate in any way. He felt as if it should be possible, but whenever he tried to change the skill effect, it either did nothing or just canceled the aura completely.
+
+Rather than stressing about it, Rain decided to focus on making himself useful by boosting his beneficial auras instead. The well auras in particular had caught his eye. They would allow him to change mana to other resources: health to heal wounds, stamina to refresh warriors, and even mana to help other mages who hadn't invested into clarity like he had.
+
+To get those, however, he needed to break through the wall that was the seasonal auras as he called them. Spring, summer, and winter. The low mana cost of winter was making it difficult for him to level the skill, though the regeneration effect was incredibly useful and he left the aura on pretty much 24/7, even maintaining it while he slept. The boosted regeneration wouldn't be as good for traditional mages, however, as most of the benefit he was reaping was coming from his high base clarity and the tripling effect of the dynamo class.
+
+The effect of winter was even stronger now that it was level two, more than offsetting the increase to the base cost. Rain was actually happy about that as it meant that the skill could level faster, especially with amplify and extend multiplying the mana cost by four when used in conjunction.
+
+Still too slow, and I want to level all three seasons, so I need to get it even higher. There is only one skill that I can take right now that will do that.
+
+Flicking to the aura metamagic tree, Rain considered, then invested his free point into aura focus, seeing that he now satisfied the requirement of 5 ranks in both amplify aura and extend aura.
+
+Aura Focus (1/10) Exp: 0/200
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 120%
+
+Multiply aura range by 120%
+
+Multiply aura mana cost by 120%
+
+User loses all external senses while focusing
+
+Base cost of winter is 2 per hour, times 2 from extend, times another 2 from amplify, and then 1.2x from focus gives 9.6 mana per hour. I'll need to level extend, amplify, and focus first, then that should let me get that up to a 27x multiplier. That should help quite a bit. Plus, I can use focus for other things, so it isn't like it is going to waste.
+
+Rain almost activated purify with all of his buffs right then and there, but caught himself, remembering the rule about magic in the city. It was almost noon and the baths were quite busy. Rain clambered out of the alcove, toweling off and dressing himself in his dry clothes that he had left at the side of the pool. He was a bit embarrassed to be naked in public, but plenty of other swimmers were, so he played it cool and dressed as quickly as he could.
+
+Grabbing up his pack, he made his way out of the baths and to the one place that he knew he could use any aura he wanted without drawing too much attention to himself. He walked to the bottom of the sewer stairs and looked around. There wasn't anyone in sight and the stairs hid him from the street, so he activated purify at full blast, extending the aura to its massive buffed range of 11 meters. He used amplify as well, watching as the pulses of light intensified, quickly scouring the stone and diffusing down through the flowing water. His mana was draining quickly so he wasted no time and activated aura focus.
+
+The instant he did his vision quickly faded to black and his hearing cut out as if someone had pulled a bag over his head. Stranger still was the sudden lack of the damp feeling of the sewer air against his skin, or even the weight of his body pressing his feet into the ground. He started to topple over, his proprioception, the only sense left to him, insufficient to counter his sudden lack of external stimulus.
+
+He canceled all of his skills and stumbled, catching himself just before he toppled into the waterway.
+
+“Woah,” he gasped, staggered at the loss of perception caused by the skill.
+
+He looked around at his surroundings. The area covered by the aura was now larger than his ability to see in the dim torchlight of the sewer, but the area immediately surrounding him was spotless. He had cleaned it only a few days before, so this wasn't entirely unexpected. He'd have to find fresh filth to test the true effect of his layered skills.
+
+He walked a little ways down the tunnel until he reached the end of the mostly clean area, then sat, ignoring the slime on the stone as it would be cleaned away momentarily. The seat of his pants might still be a bit wet, but that was much better than falling into the waterway.
+
+Ok, let's get an fps reading on this. 5 seconds, I think.
+
+Rain sat up straight, readying himself. He let loose with his maximized purification aura, counting the seconds once his senses dropped away, releasing the aura after 5 seconds had passed. His senses returned and he swayed slightly as his balance returned.
+
+Inspecting the area around himself, he saw that the ground was mostly clean, but there were still some persistent stains. Taking the layer of slime here as 1 filth, that was 5 seconds of aura, so 0.1 filth per second, maybe? I'll try another 5 seconds.
+
+Closing his eyes again, Rain repeated his effort. When he opened them, he smiled as he saw that the stones had been scoured clean. He watched with mild interest as the water flowing in the waterway faded back to brown, the clean water being swept away downstream and replaced by the gradual flow through the canal. Glancing at his mana, he saw that the effort had taken around a quarter of his total.
+
+Getting to his feet, Rain paced out the distance along the waterway, finding the edge of the clean area and then walking past it for about the same distance. He then sat again and re-activated the skill for another ten seconds, watching as his mana ticked down. His vision might have faded to black, but his status overlay was working fine. After another ten seconds, his mana was down to half and he found himself sitting in another perfectly clean circle.
+
+Humm, so just a little bit stronger with aura focus. Pretty much what I was expecting.
+
+Still seated, Rain switched to his detection aura, focusing on the image of a slime and activating the skill, using all of his buffs to boost it, including aura focus. His senses faded, but he didn't feel any detections on his magical radar. He canceled it after a few seconds, switched his focus to Tel, and activated the aura again. His vision faded, but this time it was replaced with the immaterial sense of the Tel in his pocket. He was surprised to feel another signal coming from further down the tunnel. Canceling the skill and getting up, he walked slowly down the tunnel for a few meters, trying to remember how far the signal had been. Eventually, he spotted its gleam coming from a wide crack in the cleaned stone. He picked it up wonderingly.
+
+What are you doing here? Did someone kill a slime and just leave it? Oh well, finders keepers.
+
+Rain added the Tel to the others in his vial, then turned to head back up to the city, his mana getting a bit low. He didn't want to spend his whole day down here hunting slimes right now. Detection didn't have a visual effect, but it used plenty of mana and he felt that he would be safe enough using it to train aura focus from the comfort of the guild.
+
+Rain was a bit hungry when he made it back to the street, having eaten his last ration bar for breakfast that morning. His offensive aura still might be a little weak, but his jaw was certainly getting stronger from all the exercise. He walked for a while, looking for a restaurant or an inn. He didn't find one, but he did see a man selling sausages wrapped in bread over in the merchant's square. He bought two, then decided to wander through the square while he ate.
+
+There was a wide variety of things on display, but not really that much for adventurers beyond simple travel supplies. He did buy some beef jerky, figuring that it would keep and was softer than travel rations. It was cheaper too; guild rates seemed to be artificially inflated. Rain was about to leave the square when he suddenly stopped, then walked back to a stand he had just passed. He traded two whole Tel for a thick, woven blanket, which he rolled and tucked into his pack, almost filling it completely. His days on the road had given him his fill of sleeping on hard dirt with nothing to cover him.
+
+The merchant had been giving him the stink eye when he paid with Tel, but Rain didn't care, smiling at his new acquisition. He was pretty sure he had paid more than he needed to as well, but he didn’t have the motivation to haggle at the moment.
+
+Rain's mana was almost full at this point, so he found a barrel in an alley and sat on it, activating maximized detection and searching for Tel. He got far fewer signals than he was expecting, just those of the Tel in his pocket, two coming from the direction of the merchant, and one or two more wandering through the crowd.
+
+Switching his focus to the small copper coins, Rain was almost overwhelmed by the number of detections. He felt as if he was in the middle of a cloud, fuzzy copper signals coming from all sides, though stronger from the direction of the market square. He changed his focus again to the larger coins, feeling the fog around him shift slightly. It started to drop off when he switched to focusing on the copper tiles, then dropped much lower when he switched to the bars, with him able to pick out individual signals coming from various directions.
+
+This quick scan had taken almost all of his mana, so Rain let the skill drop and pushed himself up off his barrel. Like I thought, only adventurers use Tel. I should try searching for Tel around the guild to confirm. Looks like the small coins are commonplace, but the tiles and bars are less common. I should find a bank or something and get some copper to spend in the city.
+
+Rain wandered over towards the guild square, keeping an eye out for anything that looked like a bank, but not searching too hard. He didn't plan on spending any more copper right now, so it was a low priority. When he reached the guild square, he poked his head into the shop he had noticed before, then walked in to look around. As he suspected, the shop catered to adventurers. Various types of weaponry and armor lined the walls, and there were a few displays in the center of the shop with more ornate pieces on display.
+
+There were a couple other adventurers browsing the wares. A man in a green tunic came up to him as he entered, greeting him and asking to see his plate. Rain fished it out from underneath his tunic and left it there, content to walk about with his guild status on display when he was this near to the guild.
+
+The man in the tunic, some sort of uniform Rain supposed, nodded at his plate and asked him a question.
+
+“Sorry, what? My speaking not good,” Rain replied, having missed the question.
+

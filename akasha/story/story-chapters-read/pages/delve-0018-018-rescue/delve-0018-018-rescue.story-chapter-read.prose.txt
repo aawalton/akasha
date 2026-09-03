@@ -1,0 +1,386 @@
+Training Overview
+
+General Experience Earned
+
+Stamina Use: 35
+
+Mana Use: 2416
+
+[Level Up]
+
+Skill Experience Earned
+
+Extend Aura: 286
+
+Purify: 528
+
+Winter: 92
+
+Amplify Aura: 286
+
+Detection: 1200 [Rank Up]
+
+Aura Focus: 24
+
+Intrinsic Clarity: 2416 [Rank Up]
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 8
+
+Experience: 2294/4118
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+400
+
+Strength
+
+20 [10]
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+20 [10]
+
+Clarity
+
+100
+
+Free Stat Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+274
+
+400
+
+0
+
+0%
+
+H.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Stamina
+
+200
+
+200
+
+0
+
+0%
+
+S.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Mana
+
+400
+
+400
+
+0
+
+0%
+
+M.Regen
+
+447
+
+/hr
+
+350
+
+/hr
+
+-8/hr
+
+30%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Skills
+
+Refrigerate (3/10) Exp: 194/400
+
+23-26 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 3 meters
+
+Cost: 15 mp/s
+
+Extend Aura (5/10) Exp: 316/1100
+
+Extend aura range by 5 meters
+
+Multiply aura mana cost by 200%
+
+Purify (6/10) Exp: 1357/1600
+
+Purify poison, corruption, and contamination
+
+Range: 6 meters
+
+Cost: 60 mp/min
+
+Winter (2/10) Exp: 116/200
+
+Multiply M.Regen by 120% for all entities
+
+Range: 2 meters
+
+Cost: 2 mp/hr
+
+Intrinsic Clarity (9/10) Exp: 1306/3700
+
+Multiply base mana regeneration by 280%
+
+Amplify Aura (5/10) Exp: 307/1100
+
+Multiply aura intensity by 150%
+
+Multiply aura mana cost by 200%
+
+Detection (5/10) Exp: 65/2200
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.6 meters
+
+Range: 5 meters
+
+Cost: 5 mp/s
+
+Aura Focus (1/10) Exp: 24/200
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 120%
+
+Multiply aura range by 120%
+
+Multiply aura mana cost by 120%
+
+User loses all external senses while focusing
+
+Free Skill Points: 1
+
+Rain was sitting in the guild tavern trying to decide what to do with his skill point. He already had his plan for the day all set out. He was just finishing his breakfast of eggs and bacon as he flicked through his menus, looking at skills and trying to decide where to invest his last point.
+
+Velocity is tempting, but I kinda want to save this point in case I need something later. I guess I can just leave it free for now. It isn't like I don't have enough skills to practice. What happens when a skill gets to 10, I wonder?
+
+Rain closed out his menus and waved to Khurt as he got up to leave, starting to take his plate over to the counter. Khurt stopped him with a hand and told him to just leave it on the table, thanking him again for cleaning his kitchen the night before. He'd made Rain breakfast for free as a reward for the spotless workspace he had found waiting for him when he opened up the tavern that morning. Gus had apparently explained the arrangement between Rain and Rankin about free lodging to all of the guild employees, but Khurt was so happy with the results that he had thrown in a free breakfast as a special, one-time, personal thank you.
+
+Rain thanked Khurt again for the meal and left the guild, trading his pack for a large basket of torches on his way out. When he had gone to the quest hall earlier that morning, Gus had flagged him down and pushed a quest slip into his hands. The man had seemed a little on edge as he had explained the quest to Rain. Gus had been sweating, so Rain had decided to help him out with the request instead of exploring the city as he had planned. The reward helped with his decision as well, and Rain had accepted the quest to Gus’s relief.
+
+Ten Tel, just for changing out the dead torches in the sewer? Is it really so important that it had Gus on edge like that? Maybe he couldn’t get anyone to take it? There must have been more to it, it felt like he wanted me out of the guild for some reason. He almost choked when I told him I was going to have breakfast first. What is going to happen in the guild today, and why doesn’t Gus want me there? He didn’t even let me ask; he just ran off as soon as I promised I would leave after I ate.
+
+Rain turned upstream when he reached the bottom of the sewer stairs and started to jog along the flowing water. He was being a little careful with his footing in the dim light, but nothing like his former, slow exploration. He knew this section of the tunnel, and he really couldn't bring himself to be cautious about slimes after the encounter with the dark hounds. The basket of torches had straps to carry it on his back and it was weighing him down quite a bit, but it was manageable.
+
+“Jog jog jog, I hate jogging, this is my jogging song,” Rain huffed and puffed as he moved down the tunnel, making noise deliberately to attract slimes. He wasn't sure if they had a sense of hearing at all, but there was no harm in it, so he decided to humor himself and make the attempt. He was really feeling out of shape. All the walking he had been doing had convinced him to try to make an effort to improve his fitness a bit so he wasn't so sore and tired when he went to bed every night.
+
+No cars in this world, and no subway, so my own two legs better be up to it. Fuck I hate jogging.
+
+Rain pulled to a stop as he heard the sound of a slime detaching from the ceiling and plopping to the ground behind him. He had run right under it, too fast for it to land on him. Grinning, he spun and activated refrigerate. The slime died before it had a chance to recover from its fall, large chunks of it freezing and tearing its outer membrane apart. Rain canceled his aura before it froze solid and sat, disregarding the growing puddle creeping towards him. He activated purify with aura focus, the smell of the slime vanishing along with his other senses.
+
+Get wrecked, slime.
+
+He gave it a good 20 seconds before he canceled his aura and opened his eyes. The tunnel was spotless, no sign of the battle remaining other than a single Tel shining from where it lay near the edge of the waterway. Rain smiled, climbing to his feet and collecting it, adding it to his supply.
+
+Mana isn't even below three quarters. The focus ring was the right choice!
+
+Dusting off the knees of his leather pants unnecessarily, Rain resumed jogging down the tunnel, singing his jogging song. Killing the slime had been easy, trivial even.
+
+I can do this all day! Ok, maybe not. Gah, my knees. Fuck jogging.
+
+Rain continued down the tunnel in this manner, occasionally using detection to look for slimes and Tel whenever his mana got near full. He didn't find any before he reached the tunnel that he had helped to unclog before. Pausing to rest, Rain listened for any sound of slimes but heard nothing.
+
+Carefully, he stepped down into the ankle-deep flow of water in the side tunnel, crossed it, and climbed up the far side of the channel. He used purify to clean off his shoes, relieved that his boots were water-tight enough to keep his socks dry.
+
+He set a slower pace as he continued down the tunnel, partly out of caution at the unfamiliar section of the waterway, but mostly because he was out of breath from the exercise. He lit a torch from one burning on the wall, seeing that there were no more spots of light off in the distance.
+
+Time to get to work.
+
+Rain looked for sconces on the wall as he walked. He swapped out the exhausted torches with fresh ones as he found them, lighting each one before moving on as the request had indicated. While he was working, Rain was interrupted by a group of three more slimes that had squirmed their way up out of the waterway behind him. He dispatched them easily, though only one of them dropped a Tel. Over the course of the morning, he found several more groups of slimes as he continued replacing torches.
+
+That last group brings it up to fifteen slimes in total today. These things are everywhere around here. They must like the dark sections more than the torchlight. Maybe that is what this quest is for? Light the torches to keep the slimes away?
+
+Rain came to a halt as he reached a large intersection in the waterway. He only had one torch left, the burning one he was holding. Relieved to be done, he swapped it for a dead one on the side of the tunnel and threw the burned out torch into the basket. He hunkered down, waiting for his mana to regenerate.
+
+By his reckoning, he should be somewhere near the center of the city. He had passed several more side passages feeding into the main waterway, some carrying filthy water and other things into the channel to be swept out of the city.
+
+There must be a system of pipes from the river to keep all this flowing. I'm impressed. This must have been hell to build without an excavator.
+
+Just as he was about to start heading back, he was startled by a brilliant flash of white light from down the left branch of the intersection. Listening hard, he thought he could hear a man yelling. The sound was muffled, and came echoing along the stone arch of the tunnel. Another flash of light brightened the darkness and in its light Rain saw that the tunnel was blocked by a dark mass of some sort.
+
+Shit, there is someone down here. Sounds like they are fighting.
+
+Rain grabbed the burning torch back from the wall and clambered up the ledge into the side tunnel, the basket of spent torches forgotten. He could hear the man’s shouting more clearly as he approached, along with the sound of splashing and a slurping, sucking sound. Rain quickened his pace, his torchlight revealing the blockage to be a wall of slime holding together sticks, dead leaves, and other detritus. It filled the tunnel completely on his side. The water in the channel was flowing through a gap at the top of the barrier on the other side of the tunnel. It splashed down onto the far walkway before flowing back into the channel. The shouting could be heard coming from the gap in the barrier, along with intermittent flashes of white light.
+
+“Hey! Are you OK?!” Rain shouted, studying the barrier and trying to think of a way through it.
+
+“Hey! Where are you! I can't… Gah, damn thing, die already!” came the voice from the other side of the wall, followed by another flash of light.
+
+Rain activated purify at maximum strength, not using aura focus as he needed to be able to see. He threw his torch to the ground to dig at the slime with both hands, pulling free branches and clumps of filth and hurling them away. His aura was helping quite a bit, loosening the slime and letting him break it up with his hands. Soon, the barrier started to give. The force of the water was breaking through it and rapidly widening the gap.
+
+“Fuck! Should have thought this through!”
+
+Rain grabbed for an empty iron torch sconce as the barrier gave way completely, the water rushing into the tunnel. The flow extinguished his torch as bits of the barrier broke off and were carried down the tunnel.
+
+Rain hung on desperately as the water tried to tear him from the wall. As he yelled in the darkness, something heavy crashed into him, breaking his grip and knocking him over and into the waterway. He clung to the object, identifying it as a person as they both were swept rapidly down the tunnel. The water was overflowing the banks of the channel and giving him no way to get back to his feet. Rain pushed the man away and fought to keep his head above water as he was swept back towards the intersection. The flow washed him straight over the small ledge and into the larger channel in a wave of fetid water.
+
+Rain swam hard to get out into calmer water, spluttering and choking as his feet found purchase on the bottom of the channel. He was able to push himself to his feet once he got out from under the waterfall pouring into the intersection.
+
+A glowing white light was coming towards him down the passage rapidly. The man had summoned some sort of light and Rain grabbed for him as he was swept over the waterfall. He caught him before he could be swept away and yanked at the fabric of the man's clothes, dragging him out into the calmer water. The light was coming from a glowing ball hovering around the man's head. Rain heaved, throwing the man's torso up onto the dry ledge of the walkway, then levered himself up and out of the channel. He grabbed the man's arms and pulled him out of the flowing water as the man coughed and spluttered.
+
+Rain panted, watching as the flow into the intersection continued unabated. Abruptly, the water cut off, the flow rapidly dwindling to nothing.
+
+Something blocked the passage again.
+
+Rain retched and fought not to vomit, re-activating purify as he coughed and tried to clear his throat of the foul water. The skill quickly removed the horrible taste from the back of his mouth, but he left it running. The light from the orb flickered worryingly and Rain looked down at the man he’d pulled from the water. He had rolled over on to his back and was coughing weakly. There was a line of blood running down his face from a large gash on his forehead. The man's eyes rolled back in his head and the orb of light winked out of existence.
+
+Rain cursed and moved over to the man, trying to see if he was breathing by the faint glow of purify. He was relieved to see that the man seemed to be just unconscious, his chest rising and falling weakly. Rain pressed his hands to the wound on the man’s head, trying to stem the flow of blood while not jostling him too much. The cut didn't seem to be too bad; it was bleeding a lot, but it didn't seem life-threatening.
+
+Shit, he must have bashed his head against the side of the channel. I hope he wakes up, I don't know how to treat a concussion. I really need a healing skill.
+
+Slowly, the flow of the blood stopped, and the man's eyes flickered. Rain slumped back in relief, letting purify drop and plunging them back into darkness. The man groaned and shifted, trying to sit up.
+
+“Hey, careful!” Rain said, reaching out and pressing the man back down, trying to keep him from falling back into the waterway.
+
+“Aaah, who...” the man managed, clearly disoriented and in quite a bit of pain.
+
+“It is ok. Stay still.”
+
+The man fought him for a moment, then relaxed, slumping back to rest his head against the floor.
+
+“Oww,” he said, weakly.
+
+The two stayed like that for a few minutes as the adrenaline drained from Rain's system to be replaced by exhaustion and pain. He had acquired quite a number of bruises, and he was freezing from the icy water saturating his clothes. Purify had taken care of the mess, but it did nothing for the moisture.
+
+Fucking hell, feels like I was flushed down a toilet, ugh.
+
+Rain leaned in as he heard the man struggle to speak. “What?”
+
+“...thank..you,” the man managed, weakly.
+
+“Any time,” Rain replied, smiling in relief.
+
+The injured man coughed out a weak laugh. Suddenly there was light as the orb returned to float around the man's head.
+

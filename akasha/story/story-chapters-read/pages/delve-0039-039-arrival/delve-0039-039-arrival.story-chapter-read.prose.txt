@@ -1,0 +1,460 @@
+The sound of Rain’s alarm gently tugged him from the clutches of sleep. He yawned and sat up, blinking blearily in the soft morning light.
+
+The group had reached the mine well after dark the day before, having decided to press on rather than camp half-way up the winding track that lead into the hills. Rain had been dead on his feet by the time they got there, exhausted and footsore. They’d made good time in the afternoon, partly thanks to some light Velocity training. He’d had to keep it at a low intensity so the horse could tolerate it, but over time, the minor boost to speed became a significant boost to distance.
+
+He’d half expected the crazed bunch of adventurers to jump straight into the lair without even waiting to rest. Thankfully though, they seemed just as tired as he was, even Ameliah and Tallheart. The two of them probably had higher Stamina than the rest, except perhaps Carten. Rain had taken the first turn at watch, further exacerbating his lack of sleep.
+
+It looked like the others were getting up, so as tired as he was, it didn’t look like sleeping in would be in the cards.
+
+I miss coffee.
+
+“Right, let’s go!” Val said, looking fully awake despite the early hour. “Time’s wasting!”
+
+“Slow down there, bub,” Carten laughed. “The mine ain’t goin’ nowhere. I’m having breakfast. Never fight on an empty stomach.”
+
+“Hey guys, can we maybe wait a day before we go in?” Rain asked.
+
+The entire group turned to stare at him. He shifted uncomfortably.
+
+“Okay,” he said in a resigned voice. “I guess not.”
+
+“Don’t be so timid, Rain,” Val said. “You are a lot stronger than you think you are.”
+
+“No, that’s kind of the problem. I’ve actually been avoiding training my attack auras. I only just got IFF and it doesn’t help that much yet. I don’t want to accidentally kill anyone.”
+
+“Weren’t you training it yesterday?” Carten asked.
+
+“Yeah, but I doubt I’ll have gotten it to rank 10 overnight.”
+
+“Perhaps you should check? If anyone could do something like that, it would be a Dynamo,” Jamus said from where he was rebuilding the fire.
+
+Rain brought up his interface, sliding the windows over to the side so he could consult them while continuing the conversation. He dismissed the attributes panel after a cursory glance, seeing that he was once more capped at 1 experience under the limit.
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 13000
+
+Skill Experience Earned
+
+Winter: 742
+
+Channel Mastery: 7277 [Rank Up]
+
+Velocity: 9359 [Rank Up] [Rank Up] [Rank Up]
+
+Aura Synergy: 1901 [Rank Up]
+
+Essence Well: 6711 [Rank Up]
+
+Aura IFF: 3588 [Rank Up] [Rank Up] [Rank Up]
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+100%
+
+H.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+48.8/min
+
+12.6/min
+
+-1.8/min
+
+401.2%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (5/10) Exp: 1093/2200
+
+Increase all aura output by 0.5% for each rank in any aura
+
+Effective boost: 25.5%
+
+Tier 2
+
+Aura IFF (4/10) Exp: 788/2800
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 60.0% aura output
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to M.Regen
+
+25.0% of Clarity contributes to Mana
+
+Offensive Auras
+
+Tier 0
+
+Refrigerate (6/10) Exp: 1168/1600
+
+55-63 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 7.53 meters
+
+Cost: 30 mp/s
+
+Immolate (5/10) Exp: 316/1100
+
+46-53 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 6.27 meters
+
+Cost: 25 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 12.5 meters
+
+Cost: 100 mp/min
+
+Winter (6/10) Exp: 832/1600
+
+Boost M.Regen by 75% for all entities
+
+Range: 7.53 meters
+
+Cost: 6 mp/hr
+
+Tier 1
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 12.55 mp/s
+
+Efficiency: 20%
+
+Range: 12.5 meters
+
+Velocity (7/10) Exp: 2868/4400
+
+87.85% boost to speed for all entities
+
+Range: 8.79 meters
+
+Cost: 7 mp/s
+
+Detection (7/10) Exp: 1879/4400
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.25 meters
+
+Range: 8.79 meters
+
+Cost: 7 mp/s
+
+Free Skill Points: 3
+
+Resisting the temptation to get lost in the panels, Rain forced himself to stick to the question at hand.
+
+“IFF is at rank four now. That means I can reduce the intensity of my auras by 40% for specific targets. It’s still going to be tough to use Refrigerate if I’m with you guys. Also, I can’t really reduce the effect on the environment at all, so even if it doesn’t damage you directly, the cold air might. I have no idea how that works.”
+
+“Yes, you need to be careful about that,” Ameliah said.
+
+“Ha, ain’t nothing more stupid then givin’ yerself mageburn,” Carten laughed.
+
+“Huh?”
+
+Jamus clarified. “Focus-heavy mages tend to have issues if their defenses aren’t up to snuff. Stay out in the sun too long, you get a sunburn. Cast too many Fireballs, you get mageburn.”
+
+“Yup,” Carten said. “Silly mages, always ignorin’ defense.”
+
+“It isn’t just mages,” Tallheart said. Rain turned to look at him, the stoic man’s unprompted response taking him by surprise.
+
+“Oh?” Val asked. “I’ve only ever heard of it with mages. What do you mean?”
+
+“Jamus can explain,” Tallheart said, sighing and shaking his head slowly.
+
+“…I’m not exactly sure what you’re talking about either, Tallheart.”
+
+“He probably means stat unbalance in general,” Ameliah said.
+
+Tallheart inclined his head toward her. “Yes.”
+
+Val nodded. “I’ve met warriors focused solely on Strength. They tend to hurt themselves as much as they hurt their enemies.”
+
+“What, so like a Strength Dynamo?” Rain asked.
+
+“The term is ‘Fortifico’, and they don’t tend to last long,” Jamus said.
+
+“It isn’t just a Fortifico problem. Any imbalance is dangerous,” Ameliah said, giving Rain a level look.
+
+“Oh, I don’t know about that,” Val said. “Rain here is going to be a real terror, once he gets going. What else did you get, Rain? How about Velocity? You used that practically all afternoon.”
+
+“It’s up to rank 7,” Rain said, consulting his skill panel. “Almost a 90 percent boost to speed.”
+
+“Ooh! That sounds fun!” Carten said. “Let’s try it out!”
+
+“Over there.” Ameliah pointed at a stony patch a good distance from their campsite. “Tallheart and I can take care of breakfast.”
+
+“I can help if you’d like,” Rain offered, concerned by the look in Carten’s eyes. He’d rather cook than figure out what that was about.
+
+“Thanks, but we can handle it. You should go train,” Ameliah said. She swept her gaze over the others. “All of you should go. Learn each other’s skills and figure out how to work together.”
+
+“Sounds fun to me!” Val said. “You’re all gonna lose your shit when Rain uses Velocity with that ‘Nova’ technique.”
+
+Rain nodded in grudging acceptance. He followed Carten over to the designated training ground.
+
+Ameliah’s right I suppose. I have no idea how to actually fight with a group. Last time I was here, I was just cowering behind everyone.
+
+“Ok, let me have it!” Carten said as soon as they reached the center of the rocky area. Rain checked to make sure that they were far enough to avoid disturbing Ameliah and Tallheart. They were, even if he used Extend Aura.
+
+“Ok everyone, get ready. At 90%, it’s going to be really disconcerting. Don’t make any sudden movements.”
+
+Jamus and Val checked their footing and nodded, bracing themselves for the effect of the skill. Carten was hopping from foot to foot, clattering loudly as he bounced on his toes. “I’m good. Come on. Just do it already.”
+
+“Don’t say I didn’t warn you.” Rain said, then activated the aura. True to its name, there was no discernible lag in the spread of the aura as there was with Refrigerate. As the effect washed over the huge man, his body blurred, trailing visible wisps of wind as he moved. To Rain’s surprise, Carten didn’t immediately fall down in a heap as Val had done when he’d first experienced the same level of acceleration. After a few halting starts, the big man seemed to get the hang of it. He was soon rocketing around like a drunken cannonball, tumbling into rocks and laughing like a madman.
+
+Rain snorted in amusement as Carten slammed full speed into a particularly large rock and bounced off to land flat on his back. It looked like the rock had gotten the worst of the exchange. Jamus took a hesitant step, then windmilled his arms as he lost his balance. He went down, followed by Val when he bent to help him. Rain edged over slowly, focusing on keeping his movements tight and controlled. He offered Jamus his hand and pulled him back to his feet. Val managed to get back up on his own, looking embarrassed.
+
+“How are you doing that, Carten?” Rain asked. “Why isn’t the speed bothering you?”
+
+“Oh, it feels odd as shit, that’s for sure,” Carten said, jumping straight up into the air. His armored boots easily reached two meters off the ground. He landed with a huge thump. “I’m just too awesome to let somethin’ like this bother me.”
+
+Holy shit, that was an insane jump. I had no idea that Velocity would boost vertical speed too. Wait, I just got a great idea. Rain’s face split into a stupid grin. “Hey Carten, I’ve got an idea. Do that jump again.”
+
+“Huh? Why?” Carten said, stopping to look at Rain with a confused expression.
+
+“Just trust me,” he said. “I’m going to count to three, then jump as high as you can.”
+
+“Yeah, do it!” Val said, giving Rain a knowing wink.
+
+“This is going to be good,” Jamus said, slowly lowering himself to a seated position. Rain joined him on the ground, not wanting to injure himself. He mentally blacklisted everyone but Carten, reducing the effect for them by 40%.
+
+“Ok, ready Carten? One…Two…Three! Jump good!”
+
+The Velocity Nova struck Carten just as he pushed off from the ground, boosting his speed by a massive 1054%. The armored man shot into the air as if fired from a cannon, leaving a streaking afterimage in his wake.
+
+As Rain’s senses returned, he immediately realized what he had done. He canceled the aura completely, watching in horror as Carten flew into the sky, peaking at well over fifty meters and starting to plummet back towards the earth.
+
+“Shit! Carten!” He tried to scramble to his feet, but Jamus stopped him with a hand on his shoulder.
+
+“Shh. He’ll be fine. Watch.”
+
+“REBOUND!” Carten roared, just as he hit the ground. There was a flash of red light and an enormous boom, followed by a wave of dust and rocks that thankfully fell short of the spectators. Carten was cackling madly as he climbed out of the crater, dusting off his armor.
+
+“That was fuckin’ awesome!” Carten pumped both of his fists into the air. “Do it again!”
+
+Sometime later, after some more training and a light breakfast, the group was finally ready.
+
+Carten lifted the bar holding the heavy wooden door closed and pulled it open with a creak. He hefted his shields, ducked under the doorframe, and started moving down the tunnel. His hulking form filled all of the available space; there were only a few centimeters between his head and the ceiling of the sloping tunnel.
+
+“Come on, Val, I can’t see shit,” Carten said as he ducked under one of the timber beams bracing the ceiling. Wordlessly, Val sent his Lunar Orb zipping to hover over Carten’s shoulder, then followed the large man into the tunnel. Jamus was next, having to duck as well to avoid losing his brilliant orange hat. He was about the same height as Carten after all, just half the width. Rain gripped his staff and went in next, his chain armor clinking softly. He’d borrowed a leather belt from Jamus to secure it around his waist, but it and the metal helmet still felt unfamiliar and cumbersome.
+
+Tallheart followed him in, having to bend almost double to avoid scraping the ceiling with his antlers. A mine was no place for a cervidian.
+
+“Don’t worry, Tallheart, the ceiling gets a little higher once we get to the first chamber,” Rain said.
+
+“Mmm.”
+
+Ameliah brought up the rear, leaving the door open. She was carrying a bundle of unlit torches that they had found near the entrance where the miners had left them. There had been a few metal lanterns as well, but the candles inside were burned down to stubs.
+
+“Can we light one of those?” Rain asked as the daylight from the entrance faded. “I can barely see anything.”
+
+“Not yet,” Ameliah replied. “These are for emergencies. They won’t last long.”
+
+“Huh? I thought torches lasted for a few hours or something.”
+
+“You’re thinking of evertorches. These are just wood and a bit of oil. They’ll burn out much faster than that.”
+
+“Oh,” Rain said.
+
+Evertorches? Was that what they had me setting up in the sewer? They just looked like normal torches to me…
+
+“Here,” Ameliah said. Suddenly, a second ball of white light appeared above her hand, identical to Val’s. She sent it up to the ceiling, causing the shadow of Tallheart’s antlers to be projected against the walls.
+
+“You know Lunar Orb too?” Val said, looking back in her direction. “What is your class? How do you fight? I don’t think I ever asked—”
+
+“Shh,” Jamus hissed. “Listen.”
+
+“Cavern’s ahead. Somethin’ in there.” Carten whispered. “Goin’ in. Send the light up.”
+

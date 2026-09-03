@@ -1,0 +1,444 @@
+“Damn it!” Rain swore at the scraps of wood in front of him. He had been trying to light a fire for the last fifteen minutes using his flint and steel, but the damp wood refused to catch. It had rained overnight and the roof of the hut had been decidedly less than waterproof. He had slept poorly, and now he was cold, damp, and irritated.
+
+What I need is some lighter fluid.
+
+Tallheart was no help. He had disappeared somewhere before Rain had woken and wasn’t anywhere near the clearing. Rain, left to his own devices, had decided to get a fire going to dry himself out. He had been stymied by wet wood and his own inexperience with starting a fire. He had shaved off some splinters of wood with his knife, but the fire refused to catch no matter how many showers of sparks he had sent cascading over them.
+
+He shivered and pulled his sodden blanket tighter around his shoulders. This wasn’t working. Sitting back on his heels, Rain resigned himself to a miserable morning. He would try to light the fire again a little later, once things had dried out a bit. To take his mind off how cold and damp he was, he pulled up his training overview from the day before.
+
+Training Overview
+
+General Experience Earned
+
+Stamina Use: 84
+
+Mana Use: 2027
+
+Skill Experience Earned
+
+Extend Aura: 496 [Rank Up]
+
+Purify: 883
+
+Winter: 138
+
+Amplify Aura: 496 [Rank Up]
+
+Aura Focus: 14
+
+Intrinsic Clarity: 272 [Rank Up]
+
+Huh. Something isn’t adding up here. Intrinsic Clarity should have earned much more experience than that. It has been matching my overall experience from mana use… Oh! That must mean… skills.
+
+Skills
+
+Refrigerate (4/10) Exp: 356/700
+
+31-35 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 4 meters
+
+Cost: 20 mp/s
+
+Extend Aura (6/10) Exp: 165/1600
+
+Extend aura range by 6 meters
+
+Multiply aura mana cost by 220%
+
+Purify (7/10) Exp: 1060/2200
+
+Purify poison, corruption, and contamination
+
+Range: 7 meters
+
+Cost: 70 mp/min
+
+Winter (3/10) Exp: 146/400
+
+Multiply M.Regen by 130% for all entities
+
+Range: 3 meters
+
+Cost: 3 mp/hr
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Amplify Aura (6/10) Exp: 277/1600
+
+Multiply aura intensity by 160%
+
+Multiply aura mana cost by 220%
+
+Detection (5/10) Exp: 65/2200
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.60 meters
+
+Range: 5 meters
+
+Cost: 5 mp/s
+
+Aura Focus (1/10) Exp: 62/200
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 120%
+
+Multiply aura range by 120%
+
+Multiply aura mana cost by 120%
+
+User loses all external senses while focusing
+
+Free Skill Points: 2
+
+Tracing his finger down his skill list, Rain stopped at intrinsic clarity. The skill showed 10/10, meaning it had hit maximum rank. Rain pulled up his notification log and searched it for anything new, but there was nothing. It seemed that there wasn’t an obvious bonus for reaching maximum rank on a skill.
+
+What a fucking letdown. So it just caps out? No skill evolution or perk or anything? Lame. I’ll ask Tallheart about it when he gets back. He might know if there’s something I’m missing.
+
+Rain considered his two free skill points. He had a few options for what to do with them. Right at this moment, immolate was looking pretty tempting. Based on the strength of refrigerate, it would go a long way towards helping get the fire going. He doubted that it would actually set anything on fire without leveling it up a bit first, but it would help dry out the firewood. He didn’t want to make a hasty decision, though. He already had refrigerate for offense. Unless he ran into an ice monster, he didn’t think immolate would be that much more effective at keeping him safe.
+
+Velocity was another option. Being able to move faster would be a huge advantage for combat. The cost was a bit steep to use it for travel, but he might get there eventually if he kept investing in clarity. Rain wasn’t sure if the speed stat would just boost his physical body, or his mind as well.
+
+Another question for Tallheart. Where the heck did he run off to?
+
+Rain looked around the clearing, but there was no sign of the armored man. He glared back at the unlit firewood despondently. There didn’t seem to be any point in trying again yet. He kept his skills window open and pulled up his attributes and statistics as well. He dragged them around until he could see all three windows without them overlapping.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 9
+
+Experience: 2840/5035
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+400
+
+Strength
+
+20 [10] (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+20 [10] (+)
+
+Clarity
+
+100 (+)
+
+Free Stat Points
+
+10
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+0%
+
+H.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Stamina
+
+200
+
+200
+
+0
+
+0%
+
+S.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Mana
+
+400
+
+400
+
+0
+
+0%
+
+M.Regen
+
+540
+
+/hr
+
+375
+
+/hr
+
+-15/hr
+
+48%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+I have 10 free attribute points I could spend. I made it to 100 clarity like I said I would, but I kinda want to keep going. I want more mana too, but investing in regen is more economical with my class. If I can get more of these rings then I can probably get by without it. Tallheart said he was a smith... I wonder if he can make something like this.
+
+Rain idly twisted the focus ring on his finger, considering.
+
+One more question for him then. Still, I could just get a clarity ring and put the points in focus instead. Same thing, right? Focus boosts damage too, but that is only for refrigerate. None of my other skills have the (fcs) annotation. Humm. I might be better off just training refrigerate to rank it up. The damage boost from going up a rank is way higher than what ten points of focus would get me.
+
+Rain stopped as he came to a sudden realization, then hit himself in the forehead.
+
+I am just sitting here with full mana like an idiot. He groaned as he realized that he had missed out on a ton of experience the day before. With all of the activity surrounding the construction of the hut, he had forgotten to periodically use his skills. He resolved to do better today and switched to his detection aura. As much as he wanted to train refrigerate, he was already freezing. Adding a layer of ice to everything didn’t seem to be in his best interest.
+
+He made sure he was seated securely and activated the skill, using aura focus, amplify, and extend to boost it. The world faded to black silence, but his menus remained visible in front of him. He noted that the mana cost for the skill with all of the boosts was almost 30mp/s by focusing on it on his status screen. He had chosen Tel as the object of his search, but there weren’t any within the range of the skill other than those in his pack. He let his mana drop down to zero before canceling the skill.
+
+Crap, that may have been a bad idea. Rain admonished himself as light returned to the world. He hadn’t even considered that he would be left helpless if a monster attacked him while he was out of mana. There was a sudden noise behind him and he shouted in alarm, jumping to his feet at the imagined threat.
+
+“Good, you are awake.”
+
+“Tallheart! Fuck! Don’t do that!”
+
+The man chuckled with a bass rumble. “I was not being quiet. You should pay more attention.”
+
+“I was using a skill that… never-mind. You have a point.”
+
+“There are no monsters in this forest. That does not mean there is no danger.”
+
+“No monsters?”
+
+“No monsters. There are animals. And humans.”
+
+“What… is a monster?” Rain asked a question that had been bothering him for a while now. He had seen normal animals he was familiar with, as well as some strange creatures like boar-rabbits. None of them had shown a health bar or a level indicator, though, unlike the Skiffun and the dark hounds.
+
+Tallheart cocked his head and considered Rain for a moment before answering. Thankfully, he didn’t challenge him on his lack of knowledge.
+
+“Monsters are not alive. They are not <something>, they come from nothing. In a higher rank area, there will be more. Stronger.”
+
+“Not <something>? I don’t know that word.”
+
+“Humm,” Tallheart considered. “When two animals <something>, you get more animals, after a while. The new animals are <something>. Monsters come from nothing.”
+
+“Born? Monsters are not born? They… appear?”
+
+“Yes. But only in areas with a high rank. The word for a monster appearing is <something>.”
+
+I’ll go with ‘spawn’. Even if it isn’t technically correct, it fits with the fantasy theme. But still, spontaneous generation? Wasn’t that how they used to think you got things like maggots before someone invented the microscope? So monsters just... show up? Is he sure about that?
+
+“Why? How? What does it mean, rank? Rank of a place?”
+
+“Light the fire and I will tell you. It is too cold to stand here answering all of your questions. Have you eaten?”
+
+Belatedly, Rain realized that Tallheart was carrying a tattered burlap sack. He set it on the ground and reached into it, pulling out an apple and offering it to Rain. “Humans can eat these. Here.”
+
+“Oh, an apple, what is the word for these here? Thank you,” Rain said, taking the slightly shriveled fruit.
+
+“Apple,” Tallheart replied with the word in common. Rain quickly fished in his pack for his notebook to write down the word, as well as the others he had just learned. He was honestly a bit surprised at how little trouble he was having with the language now. It really was simpler than English.
+
+“Rain. The fire?” Tallheart prompted him, watching as he scribbled in his notebook.
+
+“What? Oh, sorry. I tried to start it, but it is too wet.”
+
+“That is not the problem. Here. Watch.”
+
+Tallheart knelt and drew out a flint and a tiny knife from a pouch hanging from his belt. He set the flint down for the moment and used the knife to scrape at a piece of wood. He wasn’t paring off large splinters like Rain had tried before. Instead, he used the edge to shave away the fibers of the wood, making a sort-of fluff. He added this to the pile of splinters Rain had been trying to light. The fluff caught with the first shower of sparks from Tallheart’s flint. He leaned in and blew softly, feeding oxygen to the embers. Soon, the larger splinters caught and the fire started burning in earnest. Tallheart sat back, his armor not preventing him from assuming a cross-legged position next to Rain.
+
+“There.”
+
+“Sorry, I am not good at this stuff.”
+
+“I have shown you how. The rest is practice.” Tallheart fished in the sack and retrieved an apple for himself. He bit into it, chewing slowly as he fed larger and larger pieces of wood into the fire.
+
+Rain considered his own apple. It looked to be a bit overripe, but otherwise normal. He took a hesitant bite. It was mealy and a bit dry, but it was otherwise fine. He took another bite, thankful to have something softer than a paving tile to eat.
+
+“Rank,” Tallheart said, recalling Rain’s previous question. “This forest is without rank, as is the city and the plains. That is why the city is here. No monsters will spawn.”
+
+“Different places have different rank? Why? There are slimes below the city, they are monsters, right?”
+
+“Yes. I do not know why. Different places will have different rank. Rank always increases as you go down though. The sewers must be deep enough for your slimes to spawn. The rank of a place is the <something> level of the monsters there.”
+
+“Oh, I see. Then what is a...” Rain consulted his notebook, “What is a lair? I heard about them in the guild.”
+
+“A lair is a place with an abnormally high rank. Many monsters spawn there.”
+
+“Are there any around here?”
+
+“No. Why?”
+
+“I need Tel. Monsters drop them, right?”
+
+“Adventurers,” Tallheart said tiredly, shaking his head. “Yes. Monsters drop Tel. Do not go to a lair alone unless you are much stronger than you seem.”
+
+“I’m not an adventurer, at least, not right now. I’m not sure I even want to be one, anymore. I do need to pay the fine to get back into the city though.”
+
+“You humans and your rules. You cannot enter the city without paying the fine?”
+
+“Right. I need an adventurer’s plate to get in, or a … residency permit,” Rain said, checking his notes from when Jamus had been telling him about the Watch.
+
+“So get the second one.”
+
+“How?”
+
+Tallheart laughed bitterly. “You are asking me? I do not know. I cannot enter the city either.”
+
+“Oh. Right. Sorry.” Rain winced, remembering the foul mood Tallheart had fallen into the day before. To change the subject, he asked one of the questions he had decided upon earlier.
+
+“Hey, Tallheart, do you know what happens when a skill reaches maximum rank?”
+
+“Yes. I suppose you want me to tell you, too.”
+
+Rain nodded.
+
+“Humph. When a skill reaches maximum rank, you have mastered it. That is all. More practice will not help you improve.”
+
+“That’s it? No reward?”
+
+“Correct.”
+
+“Damn it. So I’m going to be stuck at 10 forever?”
+
+“Perhaps. It is possible...” The man trailed off.
+
+“How?” Rain prompted him, trying not to seem too eager.
+
+“Powerful equipment can add a rank to a skill. My armor… I could make such things. Once.”
+
+Rain sat back and took a big bite out of his apple to give himself some time to think.
+
+Shit, another sore subject. He can’t make anything out here. For a smith, that must be heartbreaking. Why hasn’t he tried to build a workshop or anything? He’d just need… huh, a lot of stuff, actually. He has his hammer, but I don’t see an anvil or a blast furnace around. Something like that would have survived the fire. There were just a few scraps of metal. Oh, he probably wouldn’t have the materials to make anything, even if he had the tools. Damn.
+
+“If I found you metal, could you make one?”
+
+“No. It takes more than metal to make such a thing.”
+
+“How about something like these?” Rain raised his hands, showing the man the two rings he was wearing.
+
+Tallheart barely spared them a glance. “Humph. Trash.”
+
+“What? Why?”
+
+He motioned for Rain to hand him one of the rings, so he removed the focus-boosting one and handed it to him. He wasn’t at full mana anyway, so lowering his maximum mana wouldn’t cost him anything. Tallheart examined the ring, holding it up to his eye, then shaking his head and handing it back.
+
+“This was made with little skill. It will only last a few more days. I hope you did not pay too much for it.”
+
+“What?! It is going to break? Can you fix it?”
+

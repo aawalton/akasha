@@ -1,0 +1,392 @@
+Your party has defeated [Fire Kin]x62, Levels 4-6
+
+Your Average Contribution: 85%
+
+7905 Experience Earned
+
+Training Overview
+
+General Experience Earned
+
+Stamina Use: 60
+
+Mana Use: 13987
+
+[Level Up]
+
+Skill Experience Earned
+
+Refrigerate: 1092
+
+Extend Aura: 1087 [Rank Up]
+
+Winter: 496
+
+Amplify Aura: 2640 [Rank Up]
+
+Detection: 178
+
+Aura Focus: 845 [Rank Up]
+
+Channel Mastery: 725 [Rank Up]
+
+Velocity: 700 [Rank Up]
+
+Aura Synergy: 594 [Rank Up]
+
+Essence Well: 2525 [Rank Up] [Rank Up] [Rank Up]
+
+Magical Synergy: 13987 [Rank Up]
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 15
+
+Experience: 10942/14274
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+3278
+
+Strength
+
+20 [10]
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+170
+
+Free Stat Points
+
+0
+
+Mana Statistics
+
+Total
+
+Base
+
+Mult
+
+Add
+
+Unit
+
+Mana
+
+3278
+
+3278
+
+100%
+
+0
+
+mp
+
+M.Regen
+
+25.9
+
+10.7
+
+251%
+
+-0.98
+
+mp/min
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (9/10) Exp: 677/3700
+
+Extend aura range by 9 meters
+
+Multiply aura mana cost by 280%
+
+Tier 1
+
+Aura Focus (5/10) Exp: 345/2200
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 200%
+
+Multiply aura range by 200%
+
+Multiply aura mana cost by 200%
+
+User loses all external senses while focusing
+
+Aura Synergy (2/10) Exp: 394/400
+
+Increase all aura output by 0.2% for each rank in any aura
+
+Effective boost: 8.2%
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (4/10) Exp: 562/1400
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 60%
+
+Maximum skill intensity: 140%
+
+Skill mana cost modified by intensity adjustment
+
+Tier 2
+
+Magical Synergy (7/10) Exp: 8677/8800
+
+Enables limited synergistic cross-coupling of magical attributes
+
+17.5% of Focus contributes to M.Regen
+
+17.5% of Clarity contributes to Mana
+
+Offensive Auras
+
+Tier 0
+
+Refrigerate (6/10) Exp: 1168/1600
+
+48-55 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 6.49 meters
+
+Cost: 30 mp/s
+
+Immolate (5/10) Exp: 316/1100
+
+40-45 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 5.41 meters
+
+Cost: 25 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 10.8 meters
+
+Cost: 100 mp/min
+
+Winter (5/10) Exp: 758/1100
+
+Boost M.Regen by 54% for all entities
+
+Range: 5.41 meters
+
+Cost: 5 mp/hr
+
+Tier 1
+
+Detection (7/10) Exp: 1879/4400
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.35 meters
+
+Range: 7.57 meters
+
+Cost: 7 mp/s
+
+Essence Well (4/10) Exp: 1125/1400
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 4.328 mp/s
+
+Efficiency: 20%
+
+Range: 4.33 meters
+
+Velocity (4/10) Exp: 309/1400
+
+43.28% boost to speed for all entities
+
+Range: 4.33 meters
+
+Cost: 4 mp/s
+
+Free Skill Points: 1
+
+A sudden bump jostled Rain out of his contemplation, forcing him to reach through his skills window to grab the side of the cart. He spotted the offending pothole they had hit and shook his head. The road had gone to shit once they’d gotten away from the city. At least nobody seemed to live out here, so Tallheart could walk freely. Anyone they did run into wasn’t likely to be able to do anything about it, even if they were the kind of asshole that thought hunting a race to extinction was a good way to make some gold. Unless they met someone truly strong, it would probably be fine. They were far enough from the city now that there was little risk of anyone rounding up a posse to come after them.
+
+Rain was the only one who had elected to ride in the cart this morning. The others were walking along and chatting with each other as he sat reviewing his progress from the day before. The first shock of the morning had been the long list of kill notifications when he’d pulled up his log. He’d forgotten about them as soon as the battle had ended, but the experience gain was pretty significant. His contribution and the experience gained for each of the Kin had varied depending on factors he had no interest in puzzling out right now. With some effort, he’d managed to combine all 62 individual notifications into a single summary, though he still could drill down to look at each one individually if he wanted to. He’d save that for later though, if he even bothered at all. It would be easier to ask about the mechanics of parties and kill contribution than it would be to try and work it out for himself.
+
+His training overview had been straightforward, showing steady progress. He hadn’t spent much time using his skills as they traveled yesterday, but even without that, the progress was satisfying. The biggest winner was essence well. In addition to the morning spent figuring out how it worked, he’d also used it to restore Val’s mana after the fight. The man had been evasive about specifics of his mana pool, but Rain was pretty sure that he’d managed to get him back to full, even with the horrible efficiency.
+
+It was only after he’d blasted Val with the aura at full strength that he realized it probably would have been better to go slowly. The efficiency got better when he used channel mastery to reduce the intensity, after all. Slow was better than fast if he actually cared about the mana transfer and wasn’t just spamming the skill for exp.
+
+Humm, spam. I could go for some spam right now.
+
+He popped a large chunk of a ration bar into his mouth and sucked on it dejectedly. The others hadn’t wanted to wait around to have a proper breakfast, so he had to make do. Lately, he’d taken to smashing the bars up into pieces with the pommel of his dagger before eating them. The hard, food-like substance did soften up a bit if you sucked on it long enough.
+
+Spam, eggs, sausage, and spam. That’s what I need, not these bloody rocks. I like my food-like substances soft, thank you very much.
+
+He pulled out his notebook, tucking the chunk of food into his cheek like a squirrel while he waited for it to soften up.
+
+Ok, plan for today is working on aura focus. I can’t be freezing my friends to death anymore, so I need to level that up pronto and unlock IFF. What’s the best way to train it, though? To figure that out, I really need to know how it gets experience in the first place.
+
+Rain started pulling open his training notifications, going back several days. He paused after he had five of them hanging in front of him, a sudden thought popping into his head. Maybe I should just ask first…
+
+“Hey, does anyone know how skill experience works?” he asked when there was a lull in the conversation.
+
+“What about it?” Jamus said.
+
+“Ok, so I know using skills gets you experience with them, but how does it work, specifically? Is it just mana used, or is there other stuff that affects it? I was pretty sure that it was just mana used, but now I’ve got a skill that doesn’t even have a cost. It’s a passive modifier that boosts my auras. It still leveled up this morning though, so…yeah. Any ideas?”
+
+“Humm, I’ve heard some theories, but it is all pretty academic,” Jamus said. “I’m not actually sure about the specifics.”
+
+“Wow, if Jamus says it’s academic, it must be some pretty boring stuff!” Carten laughed. “Look, little mouse, it’s simple. Use the skill, and you get better at it. Don’t make it complicated.”
+
+“Thanks for the advice, Carten. Anyone else? No? Ok then, the hard way it is.”
+
+Though he’d somewhat expected it, he was still disappointed that none of his companions seemed to have the same curiosity about the mathematics underlying the system. Sure, they were all for stacking multipliers together, but when it came to the actual math, they tended to shy away when decimals got involved.
+
+I suppose I can’t blame them too much. I really need to have a talk with Jamus about that whole zero thing. One puzzle at a time, though.
+
+Rain turned back to his notifications. He played around with the numbers, trying to line up the experience gains with what he remembered of his skill usage on the day in question. He was actually surprised at how well he was able to remember what skills he had used, and how long he had used them for.
+
+Wow. Must be the overmana at work. Still, this is a mess…
+
+He spent the next half hour comparing various numbers against his recollections, trying to build up a model for how the experience system worked. He started to get a feel for it eventually, though he would need to do some targeted experiments to really know for certain. He rubbed his eyes and reviewed his notes. He’d crammed them in at the bottom of a page of his notebook in teeny tiny writing. He was almost out of blank pages, so he was going back and using whatever space he could find.
+
+For auras, experience gained is ½ of mana used.
+
+For modifiers, experience gained is related to the modifier cost, and the skill cost.
+
+Not clear if exp for modifiers is halved or not.
+
+Skills that use more mana level faster.
+
+Modifiers make skills use mana faster, ergo, level faster.
+
+Using more than one modifier at once multiplies the mana cost accordingly.
+
+Modifiers don’t get more experience when used together???
+
+It was the last point that was really giving him trouble. It was difficult to tease out the modifier experience from that of the base skill, especially when he had used multiple skills and modifiers on the same day. It didn’t help that his skill list had grown considerably. The early messages from when he had only had a few skills were, unfortunately, the haziest in his memory. Nonetheless, from looking at the numbers, he had formed a hunch that using aura focus with channel mastery set to minimum would be the most efficient way to train the skill.
+
+I suppose I can just test it. Essence well only, today. That should be the best because it gives me a little bit of mana back while I use it. Oh, and winter I suppose, but that is just going to end up being a rounding error. Damn skill and its tiny mana cost. Hashtag Dynamo problems. Man, it’s a shame the efficiency of essence well didn’t get better when it ranked up. I suppose I can’t have everything.
+
+“Ok, guys, I’m going to be training for a while. If you see me go catatonic, don’t freak out.”
+
+“What is ‘catatonic’?” Val asked.
+
+Rain dug in his bag for his dictionary and held it out over the side of the cart towards Val. “Page 57,” he said.
+
+Val took the book and flipped to the page in question, scanning it for the word. His eyebrows rose as he found it around halfway down the page. He snapped the book closed and handed it back to Rain. “It’s scary that you know the page number. You need to get a hobby.”
+
+“It’s the overmana,” Jamus said, nodding to himself. “Fascinating. I didn’t think it would be so effective...”
+
+Rain shrugged. “Try it for yourself. I’m going to be using essence well, so stick around the cart if you want.”
+
+“Here, Carten, you should probably sit with Rain for the rest of the day,” Jamus said, grinning at the man.
+
+“What are you trying to say?” Carten said, narrowing his eyes.
+
+“He is calling you stupid,” Tallheart explained in a matter-of-fact tone, not looking back as he led the horse.
+
+“Right, it’s on!” Carten roared.
+
+It was clear he wasn’t really mad from the broad grin on his face, but he nevertheless made a dive for Jamus, barely missing the hem of his orange robe. The mage scampered, running for the hills.
+
+Ameliah stepped out of the way as Jamus ran past her to avoid being trampled by Carten. The man’s armor was screeching horribly as he pumped his arms, the bent shoulder plate grinding against his chest. He dove to the side to dodge a bolt of blue energy that Jamus tossed over a shoulder. The huge man rolled as he hit the ground, coming back to his feet and continuing the pursuit with a clattering of metal. Ameliah shook her head. “So loud.”
+
+“I will fix it for him when we stop for lunch,” Tallheart said.
+
+“Not the armor. I just mean those two in general.”
+
+“Mmm,” Tallheart agreed.
+
+The conversation lapsed now that Jamus and Carten were busy chasing each other up and down the road. Val was watching them with interest; it looked like the chase had turned into a proper fight, with Jamus flinging magic bolts and Carten blocking them with his shields as he tried to close the distance. It looked like they would be at it for a while.
+
+Rain tuned them out and returned to playing with numbers. He pulled up his mana statistics panel for reference. He’d split it off from the main statistics panel and shrunk it down so he could monitor his usage without blocking his view too badly. The full panel was nice, but he didn’t need it most of the time. He did the same with his skills, opening winter, essence well, aura focus, and channel mastery in small windows. He cleared away everything else with several swipes of his hands.
+
+First, he looked at winter. When he’d been going through his stats before, he’d finally taken the opportunity to address something that had been bothering him. With some effort, he’d managed to get the skill to display the effect as a boost, rather than a multiplier. It made more sense that way when he was trying to calculate the effect of his modifiers on the skill itself, but he needed to remember to add 1 when he tried to calculate his mana regeneration.
+
+With how much mana I have now, how long to regenerate all of it? Humm.
+
+He reluctantly turned to a fresh page in his notebook to work through the math. It seemed that there were limits to what he could trick the system into calculating for him. It took him a minute to calculate the answer, trying to keep his writing as tiny as he could.
+
+Just over an hour if I use everything but extend. Two and a half if I just use amplify and extend like I normally do in the background.
+
+Ok, the next piece of this is essence well, aura focus, and channel mastery. I’m thinking that I can use channel mastery to reduce the mana usage. That way, aura focus will actually level faster because I can keep the aura going for longer. I’m pretty sure I’m right about how this works, but I’m going to need to work through it.
+
+Knowing that he had no hope of calculating the effect of the modifiers on essence well, he did a quick experiment, activating the combination for a second, then quickly canceling it to jot down the results.
+
+Essence Well (4/10) Exp: 1125/1400
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 5.1936 mp/s
+
+Efficiency: 19%
+
+Range: 8.66 meters
+

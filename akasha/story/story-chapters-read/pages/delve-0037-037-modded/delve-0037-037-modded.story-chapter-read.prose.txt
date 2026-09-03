@@ -1,0 +1,452 @@
+“Uhhh, so Jamus?”
+
+“Yeah?”
+
+“You know how I was asking about how experience works?”
+
+“Yeah?” Jamus said, yawning enormously and searching the ground for his hat.
+
+“Well, I think I was a bit pessimistic in my calculations...”
+
+Rain took a step back at the look that suddenly shone from Jamus’s eyes. The orange-robed man sprung to his feet, hat forgotten.
+
+“You leveled up twice, didn’t you? Ha! Carten, come here, I won the bet. Pay up!”
+
+“What is it? I can’t hear you,” an annoyed voice echoed from under the cart. Carten crawled his way out from where he had been sleeping and dusted himself off, climbing to his feet and squinting at Jamus.
+
+“I said, I won. Rain here leveled twice.”
+
+“What?” Carten bellowed. Ameliah shot him an annoyed look from where she was seated. Everyone was awake now, even if they hadn’t been a few seconds ago.
+
+Val wandered over to investigate the source of the disturbance to the quiet morning. “Wait, there was a bet? Nobody told me there was a bet. That would have been easy money. He leveled twice yesterday too.”
+
+“Did he now?” Jamus said, rubbing at the brown stubble that was sprouting from his chin. “Four levels in two days. Amazing.”
+
+“Um, yeah, about that,” Rain said, trying to keep his voice level. Jamus cocked an eyebrow.
+
+“I actually leveled three times today,” Rain said, failing to restrain the shit-eating grin that spread across his face.
+
+The reaction of the group was a sight to behold. Rain thought Jamus’s eyebrows were in danger of rising completely off his face. Val’s jaw was literally hanging open until he closed it with a click. Carten and Ameliah were looking at him with open disbelief. Only Tallheart didn’t seem fazed, merely humming in appreciation.
+
+Eventually, Jamus broke the spell. “Dynamo… I can’t believe I ever thought Animus would be better...”
+
+“Rain,” Ameliah said, giving him a flat look. “I think I hate you.” Then, her mock-serious expression broke and she smiled. “Congratulations.”
+
+“Ha, yeah, thanks. I guess it feels pretty unfair. You all probably had to work really hard to get where you are.”
+
+“Bet’s off, Jamus!” Carten laughed. “You said two levels, not three. Nice work, little mouse!”
+
+“Carten, you’re not getting out of this. I won and you know it.”
+
+“Argue about it later, you two,” Val said, looking at Rain. “You just gained as many levels in two days as I have in my entire life. That is fucking insane.”
+
+“What can I say?” Rain shrugged. “I’ll help you get past your cap, and then you’ll catch up. I’m actually capped too, I think, at least as far as my level goes. I haven’t actually looked at it yet.”
+
+“Well, what are you waiting for?” Carten said with a greedy grin. “I’ve got money to make. Come on, pick a skill!”
+
+“Wait, you bet on his skill choices too?” Val said, incredulous. “Hold up. Rain, don’t pick anything yet, I want in on this. Shit. I don’t have any money.”
+
+“Ok, ok, all of you, cut it out,” Rain said, waving them back. “I’m going to need some time to sort through all of this.”
+
+“Humm, if I might suggest—” Val started, but Ameliah cut him off.
+
+“He said stop. Leave him be, all of you.”
+
+“Thanks, Ameliah,” Rain said.
+
+She nodded, shepherding the others away. Rain shook his head and laughed softly. The seasoned adventurers were behaving like children on Christmas morning. Luckily, Ameliah and Tallheart seemed willing to play the role of the adults while he sorted through his status. He sat down on a log and pulled up his attributes panel.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+4425
+
+Strength
+
+20 [10] (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+10 (+)
+
+Clarity
+
+170 (+)
+
+Free Stat Points
+
+30
+
+Wow, not only am I capped, I’m ultra capped. One experience below the limit. It must stop there...either that, or I am the unluckiest person ever. What would be the odds?
+
+Damn, I really didn’t expect to get that much experience in one day. I forgot about how the modifiers counted twice for the total.
+
+Man, my health and stamina are a joke compared to my mana. This is getting insane. My first order of business when I get back to town will be getting some more rings to even that out a bit. Maybe something better than this one though. Rain looked at the strength ring on his finger. It’s probably going to fail pretty soon here. Right in the middle of a fight, no doubt.
+
+Thirty free points are going into Clarity, of course, but before that, I want to test something. 200 seems like a nice round number for a breakpoint, so if something is going to happen, this would be the time.
+
+For a while now, the specifics of his ability to manipulate the interface had been bothering him. He had felt like he was starting to get a bit better at controlling it after hours and hours of practice while he’d been dead to the world. The progress was nowhere near what he had been expecting if practice was all there was to it though.
+
+It has to be the Clarity. Some secondary effect or something. Is it just overmana, or is it something else? I’ll know in a second here.
+
+Rain moved his windows around with his mind, getting a feel for the resistance that each panel exerted. In contrast to when he used his hands to move them, the panels shifted reluctantly, as if he was dragging them through syrup. Satisfied that he had a feel for it, he dumped his 30 free points into Clarity and applied the change, bringing his total up to an even two hundred.
+
+When he tried moving the panels this time, they shifted more easily in response to his thoughts. The sense of sluggishness had faded and it was much easier for him to get them moving in the first place.
+
+That settles it then. Clarity affects how well I can control the system. Dynamo must be tripling the effect, too. Maybe one day I’ll get that calculator after all…
+
+Rain concentrated on the image of a calculator for a minute, but he couldn’t convince any new windows to appear. He decided to try again later and pulled up his mana statistics panel instead.
+
+Mana Statistics
+
+Total
+
+Base
+
+Mult
+
+Add
+
+Unit
+
+Mana
+
+5100
+
+5100
+
+100%
+
+0
+
+mp
+
+M.Regen
+
+45
+
+12.6
+
+371%
+
+-1.71
+
+mp/min
+
+Wow. The total was 26 yesterday. I almost doubled it overnight. All this time spent using winter is starting to pay dividends. I’m really not looking forward to training the other seasons, especially if I need to do it fast via aura focus. I wonder if there is some way to counteract the whole ‘loss of external senses’ thing. Maybe if I can get detection to work on more than one thing at a time? Oh well, not going to solve it here. Time to look at skills.
+
+Before he could get started, he heard footsteps approaching and looked up.
+
+“Oh, hey Tallheart.”
+
+“Rain.” Tallheart bowed his antlered head in greeting. “It is time to go.”
+
+“Oh, ok. I’ll just ride on the cart again. I need to pick out some skills.”
+
+“Mmm,” Tallheart rumbled, extending his hand and helping Rain to his feet.
+
+“They aren’t going to badger me, are they?” He asked, nodding to where Jamus, Carten, and Val were locked in a heated conversation.
+
+“Badger? Is that not an animal?”
+
+“Oh, sorry. It’s idiomatic. It means to annoy someone in order to make them do something.”
+
+“I think you have been spending too much time with that book,” Tallheart said.
+
+“Me too. Believe it or not, reading the dictionary was only the second most boring thing I did yesterday. It was a nice break from aura focus. I suppose ‘dictionary’ is a bit of a misnomer, actually. It has a section on animals, with pictures and everything. It’s a bit more like an abridged encyclopedia.”
+
+Tallheart tilted his head and looked at him.
+
+“Yeah, I know, I’m odd.” Rain said, smiling.
+
+“You have not asked me for my recommendation,” Tallheart said, deliberately, “I would give it.”
+
+Rain paused, confused by the non-sequitur. “Recommendation? Oh, about skills. Sure, Tallheart, I’d love to know what you think.”
+
+“I recommend choosing nothing,” the antlered man said, slowly. “Wait until you know more.”
+
+“Yeah, that’s probably a good idea. I think I was already leaning in that direction, other than IFF, of course. Maybe I’ll take something once I run out of stuff to train. While I’m with you guys I don’t think I really need anything that urgently. I should hold out for hidden skills, or maybe check the higher tiers.”
+
+“Mmm,” Tallheart agreed as they reached the cart. Rain hopped up in the back and Ameliah got it moving.
+
+“So, what did you pick?” Jamus asked, having been elected as the spokesman after a brief negotiation with Carten and Val.
+
+“Nothing yet, I’m still looking.”
+
+“Take your time. I know you’ll pick the right thing,” Jamus said, moving off to speak with Val.
+
+Carten stomped forward to bother Ameliah when he heard that Rain still hadn’t made his choice. His loud voice sounded overly casual as he tried to start up a conversation by complimenting her outfit. Is he...flirting? Rain watched as Ameliah effortlessly dodged Carten’s attempt to touch her sleeve. She increased her pace and left the armored man walking with the horse.
+
+Ha, rejected.
+
+Rain chuckled to himself and pulled up his skills window, tuning out the voices of his companions.
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (4/10) Exp: 592/1400
+
+Increase all aura output by 0.4% for each rank in any aura
+
+Effective boost: 18.8%
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (9/10) Exp: 123/7400
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 10%
+
+Maximum skill intensity: 190%
+
+Skill mana cost modified by intensity adjustment
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to M.Regen
+
+25.0% of Clarity contributes to Mana
+
+Offensive Auras
+
+Tier 0
+
+Refrigerate (6/10) Exp: 1168/1600
+
+52-60 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 7.13 meters
+
+Cost: 30 mp/s
+
+Immolate (5/10) Exp: 316/1100
+
+44-50 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 5.94 meters
+
+Cost: 25 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 11.9 meters
+
+Cost: 100 mp/min
+
+Winter (6/10) Exp: 90/1600
+
+Boost M.Regen by 71% for all entities
+
+Range: 7.13 meters
+
+Cost: 6 mp/hr
+
+Tier 1
+
+Essence Well (9/10) Exp: 689/7400
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 10.692 mp/s
+
+Efficiency: 20%
+
+Range: 10.7 meters
+
+Detection (7/10) Exp: 1879/4400
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.29 meters
+
+Range: 8.32 meters
+
+Cost: 7 mp/s
+
+Velocity (4/10) Exp: 309/1400
+
+47.52% boost to speed for all entities
+
+Range: 4.75 meters
+
+Cost: 4 mp/s
+
+Free Skill Points: 4
+
+Let’s see here. Level 10 in extend, amplify, and aura focus. All according to plan. Oh wow, aura synergy is really starting to kick in. Almost 19%! Not bad, not bad at all. It doesn’t look like essence well quite made it. I can finish that off today. Good progress on channel mastery too. I’m going to have to play with that later. I can probably use something like purify indefinitely now, as long as I keep it to a low burn.
+
+Four free skill points. Sounds like a lot, but it’s all I’m going to get for a good long while. I’d better make them last. What are my options? Humm…
+
+Might as well check the defensive auras first. I need to check the next tier to see if there is a physical one. Should have done that ages ago.
+
+He pulled up the defensive auras tree, spending the requisite thousand experience to unlock tier 2 and searching for any changes.
+
+Defensive Auras
+
+Tier 0
+
+Heat Ward (0/10) (+)
+
+Increase heat resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Cold Ward (0/10) (+)
+
+Increase cold resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 1
+
+Arcane Ward (0/10) (+)
+
+Increase arcane resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Dark Ward (0/10) (+)
+
+Increase dark resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (0/10) (+)
+
+Increase chemical resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Light Ward (0/10) (+)
+
+Increase light resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (0/10) (+)
+
+Increase mental resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (0/10) (+)
+
+Increase physical resistance by 3.564% for all entities
+
+Range: 1.19 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Locked
+
+Oh cool, it is showing me the percentage including Aura Synergy. That’s handy. There’s Force Ward. It looks like that’s the only thing in tier 2. It doesn’t have a requirement...I could take it right now. Humm. At level 10, it would still only be 35%. No, wait, it would be higher. Aura Synergy would level by then, plus I’d have more ranks of other auras too. Call it 40%.
+
+I could boost that even more, too, Amplify would double it, and so would channel mastery, almost. That gets me over 100%. The cost would go up of course, but still, full physical immunity until I ran out of mana. Not just for me, either. This is definitely an option. I need to find out whether ‘dark’ hounds do ‘dark’ damage. I can’t run two of these at once after all.
+
+Oh shit, just thought of a downside. They only will use mana when things take damage, so training them will suck. Val would probably see that as an upside. As if he needs an excuse for more sparring. I suppose I could just use it on the dark hounds and then rake in the exp while Carten beats them up. Not sure making the fight harder is a good idea though. This is all probably moot anyway; I won’t be able to level it enough by the time we get there. Maybe once we are back in the city I can use it on slimes or something. Slime punching bags. Now that’s an image.
+

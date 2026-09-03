@@ -1,0 +1,272 @@
+Rain woke with a start, then groaned softly. He was sore in his everywhere, but in particular, his legs were protesting quite loudly. His body apparently didn't like a full day of walking and then sleeping on a hard dirt floor. Rain winced, sitting up, and looking around. Anton was awake and guarding the door, but the others were still asleep. Anton glanced at him, the soft rays of early sunlight streaming past him into the room. He shook his head and looked back outside, seeming content to continue his watch.
+
+Should I offer to take over? He probably wouldn't trust me enough anyway. Screw it, if he isn't asking, I'm not offering. Ow, my everywhere.
+
+Rain decided to lay back where he was, rather than waking everyone up in an attempt to make his way past their sleeping forms and out into the clearing. He closed his eyes and tried to get back to sleep, but the hard ground was far removed from the comfy bed he was used to. Eventually, he gave it up.
+
+He quietly sat up and started to stretch out a bit, working his protesting muscles until he could sit cross-legged without too much discomfort. Feeling slightly better and with nothing else to do, he decided to have another look through the menus to see if there was anything else in there that he hadn't seen before.
+
+Attributes (+20)
+
+Skills (+2)
+
+Statistics
+
+Options
+
+I'll look at skills later. I don't think they are going to sleep in long enough for me to finish that... Let's have a look at some other stuff. Options.
+
+Rain was met with a simple panel with only a few selectable items.
+
+Options
+
+Interface
+
+Tactile [On/Off] [Gestures]
+
+Mental [On/Off] [Keywords]
+
+Verbal [On/Off] [Keywords]
+
+HUD [On/Off] [Configure]
+
+No difficulty setting, huh? This all just looks like UI stuff. HUD On. Nothing again. Maybe if I touch it?
+
+Rain reached out and tapped the On button. Nothing changed other than an Apply option appearing at the bottom of the menu. As soon as he pressed that, the menu closed automatically and his eyes focused on his surroundings again. He immediately noticed that there was a small bluish box in the top left of his field of view. It moved with his eyes, staying in the top left corner no matter where he looked.
+
+Health
+
+200/200
+
+Stamina
+
+157/200
+
+Mana
+
+200/200
+
+Oh, cool. That will be handy. He reached out to touch the panel. It tingled slightly but didn't have the resistance of the other menus and his hand passed right through. Also, crap, I'm gonna run out of stamina if we keep going like this. I started at 200 yesterday. Does it come back? It has to, otherwise, what was the point of... shit, what were the damn stats again? Character...damn it, ummm Attributes.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 1
+
+Experience: 26/100
+
+Unclassed
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+200
+
+Strength
+
+10 (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+10 (+)
+
+Clarity
+
+10 (+)
+
+Free Stat Points
+
+20
+
+Vigor, that was it. Can I get more info on these? Oh wait, there was that other panel. Statistics.
+
+Instead of replacing the attributes panel, another panel simply popped into place next to it. Rain spent a few minutes looking over the panel, trying to digest the wall of information.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0 | 0%
+
+H.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Stamina
+
+200
+
+200
+
+0 | 0%
+
+S.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Mana
+
+200
+
+200
+
+0 | 0%
+
+M.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+There didn't seem to be anything he could interact with on the panel at first glance. There also wasn't any explanation of how anything was calculated, though there were a few hints based on the formatting.
+
+Humm, ok, scientific method, here we go. Hypothesis: vigor increases stamina regeneration. Experiment: add a point to vigor. Results: check the status screen.
+
+Slowly, Rain reached out and touched the (+) next to the vigor stat. He was relieved to see that an apply button appeared at the bottom of the menu. He looked for other changes.
+
+Good, can't mess things up accidentally. Let's see here. Stamina regeneration is now showing 110/day. Awesome. Conclusion: Hypothesis is correct. So it is 10 points of regeneration per day per point in vigor.
+
+Pressing the (-) that had appeared next to vigor, Rain proceeded to test the other stats, adding and subtracting points. Things worked pretty much like he expected. It was 20 health per point of strength, and the same for the pairs of stamina/endurance and focus/mana. Recovery likewise corresponded to health regen and clarity to mana regen.
+
+Nothing had affected resistances until he added a full 10 points to endurance. When he did, they all ticked up to 2 | 0%. Huh, so 1 resistance per 10 points of endurance. 1 what? Flat damage reduction, maybe? Speaking of units, what the hell does 10 movement mean? Or 10 perception? Nothing seems to affect those anyway. Oh, one more thing. Statistics.
+
+Rain dismissed the statistics panel, but the attributes panel stayed open. He reached up and dragged it over to the right, which worked to his satisfaction. He could now see the window showing his current health, stamina, and mana. With resignation, he saw that his stamina currently showed 157/200. The added, but unapplied points to endurance didn't seem to affect his current stats. He couldn't tell if he would end up with 357/400 as opposed to 157/400, should he apply the points. He dragged the window back to where it had been, subtracted out all the points he had added, and then dismissed it.
+
+I really should put points in vigor, but I kinda don't want to. I'm pretty sure I want to be a caster. What good is vigor for a caster? I feel pretty safe with these guys. Boosting myself a little won’t make a difference against something like that wolf. They handled it like it was nothing. Level 18, was it? I won't spend any points for now. 150 stamina or so will just have to be enough for today.
+
+Rain had heard the others start to stir, so he slowly got to his feet and stretched, wincing. I guess health doesn't cover muscle soreness, he thought, glancing at his full 200/200 health. That window was going to take some getting used too. Oh, hang on. Options, Customize HUD.
+
+In the sea of available items, Rain hunted for and found what he was looking for. He was able to change the numerical displays to bars so he could see his stat percentages at a glance. He was also able to lock or unlock the box so he could move it around, including separating it out into multiple boxes.
+
+He moved the green health bar bottom left, yellow stamina went in the bottom middle, and white mana at the bottom right. Then, not liking that, he moved them all up to the top instead. Next, he changed the color and transparency settings, hiding the blue background windows. He left the bars, though he did set them to 50% transparency. Lastly, he changed the color of the bars to red for health, green for stamina, and blue for mana.
+
+Satisfied, he hunted around for other options. This menu, unlike the others, was fairly intuitive and had tons of options for customizing his HUD, including the other menu screens. Not seeing anything else he wanted to change at the moment, he closed it out and looked to the door. His vitals were floating where he could see them, but not getting in the way. Before he could start to make his way past a loudly snoring Hegar, a dialog popped up in the center of his vision.
+
+Training Overview
+
+General Experience Earned
+
+70 – Stamina Use
+
+Rain jumped but managed to bottle up his alarmed shout. Still not used to that. Examining the dialog, Rain smiled, then dismissed it with a swipe of his hand. Good to know that killing things isn't the only way to level up. I guess that was for yesterday?
+
+Working his way past Hegar, he stepped into the light next to Anton and looked around. The sun was filtering through the treeline, creating pleasant dappled patterns on the grass of the meadow. He could hear the babbling of a brook nearby. Rain walked a little way into the forest, looking for a place to relieve himself with some modicum of privacy. Anton didn't seem to care that he was going off on his own, so Rain felt that it would be reasonably safe. He did his best to ignore his inner voice telling him that the real reason was that Anton didn't care if he got eaten by the wildlife. He wandered towards the noise of the stream, planning on taking a dip after he had finished with his business. Pretty sure I can't get tree leaves in 2-ply.
+
+Finding the brook, Rain was happy to see that it was slow moving and deep enough to submerge himself in. Rain walked a little way downstream the brook, grabbed a convenient branch, and dug himself a latrine. Standing back up, he looked around, then shrugged. Well, either I go now, or later when everyone is up. Modesty is a luxury.
+
+Rain stripped down, took care of his business, hid the evidence, then jumped in the brook to get clean. The water was absolutely glacial, so he wasted no time washing himself off, using sand as an abrasive in lieu of soap. Ok, soap, added to the list of things I should ask about. Wait... would purify work on BO? I... kinda don't want to ask. They would think I’m weird, no, weirder...
+
+Clambering out of the brook, Rain brushed off as much of the water as he could, then decided to use his shirt as a towel. Once he was sufficiently dry, he pulled on his underwear and pajama pants, slung his sodden shirt over his shoulder, and walked back to the clearing.
+
+Anton noticed him returning and said a few words to the others, who were clearly already up and ready to get going. There was no mention of breakfast. Anton led the way onto the road, not waiting for the others, simply continuing in the direction they had been traveling the day before. Ameliah and Brovose followed, moving slightly quicker to catch up. Hegar was grumbling and moving slowly, and Rain caught up to the others from the other side of the clearing in less time than it took Hegar to even get to the road. Damn, he needs a cup of coffee even more than I do.
+
+As he reached them, Ameliah greeted him with what he assumed to be a ‘good morning’, so he replied in kind. Brovose stared at him, an eyebrow raised at his wet hair and naked torso. Rain shifted uncomfortably. He wasn't fat, but he wasn't exactly in great shape either and being shirtless in the middle of a forest wasn't exactly something he was used to.
+
+Brovose held out a hand and said, “Shirt.” Hesitantly, Rain handed it to him. As soon as he had it, he said a word and a wave of heat blasted out from his hand where he was holding the cotton garment. Rain watched in fascination as the shirt dried even faster than the level of heat would suggest. Handing the shirt back, Brovose returned to watching the road ahead.
+
+“Thank you,” Rain said. That was one of the phrases he had made sure to learn the day before.
+
+Hegar caught up and the group walked in silence for around an hour before Ameliah reached into her pack and distributed some brownish bar-shaped sort of cracker-cake things. She said the name for them as she handed Rain his. It was as hard as a rock and had about as much taste as one, but Rain wasn't about to complain. Free food was free food. He gnawed at his ration as he walked, trying to soften it up, but feeling like it was a fight that his teeth were going to lose. Eventually, he managed to break off a little piece and choke it down. Finishing the bar took him at least 30 minutes, but it was oddly filling and he was feeling surprisingly good. The swim and the walking were loosening up his muscles, and he seemed to be doing ok without his morning coffee, though a headache might set in later.
+
+To pass the time, he asked for more words, learning things such as ‘river’, ‘clearing’, and ‘forest’. He was starting to get a sense for the language a little bit. Either he was missing something, or the language was considerably simpler than English. The word for ‘forest’ was ‘many tree’ and ‘clearing’ was ‘no tree’. He felt like a bit of a caveman, saying things like ‘me go many tree’ and ‘where rock?’, but apparently that was just how the language worked. Deciding that he was curious enough to attempt it, he tried to ask for clarification.
+
+“Why few word? Why no more word? Why same word thing and many thing?”
+
+This was met with confused looks and a bark of laughter from Anton.
+
+So much for that, I guess I'm missing something then. Damn it, this is annoying. I'll stick to verb-noun. Two word max for the caveman for now.
+
+Hegar called a halt at a smallish clearing when the sun was approaching noon. Rain sighed and plopped down on a log, rubbing at his sore feet. Glancing at his stamina, he noted that it had fallen to around 75. Below half, but he should be able to make it until they stopped for the night. Anton disappeared into the trees, probably hunting, and Hegar actually helped Rain and Ameliah collect firewood without complaining. Brovose had fallen asleep. Everything was ready except that Anton hadn't returned, so Rain walked back over to his log and picked up a longish branch he had found and set aside. He thought it would make a good spear and he wanted a weapon of some kind if he was going to be out here for any length of time.
+
+Moving over to Ameliah, he pointed at the knife she had laid out in preparation for dressing whatever Anton came back with. “Use knife?” he asked.
+
+“Why?”
+
+Not having the words to describe what he wanted, he mimed carving at the branch with a knife. She shrugged, then nodded, but stopped him from taking the knife by the fire. Instead, she handed him a different one from her pack. This one was slightly heavier, more like a dagger than a cooking knife. Before he walked away, she stopped him again with a raised hand.
+
+“My knife,” she said.
+
+Rain nodded, understanding. “Your knife,” he agreed. He then walked back to his log and started trimming off twigs from his hopefully soon-to-be spear. The knife was wickedly sharp and cut through the dense wood with only moderate pressure. He had just started on sharpening the point when Anton returned. He swore and stretched after slamming down the huge, furry form he had been carrying. It looked like a cross between a rabbit and a boar, including size. Anton declined to help skin the animal, leaving it to Hegar and Ameliah to prep the meal. He instead started building a ring of rocks around the slumbering Brovose for some inscrutable reason. Rain shrugged and went back to carving. As sharp as the knife was, the branch must have come from some sort of hardwood tree as it was taking him quite a while to get it down to a point.
+
