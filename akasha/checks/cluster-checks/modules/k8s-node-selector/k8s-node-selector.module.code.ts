@@ -54,7 +54,7 @@ function isAcceptedSelectorKey(key: string): boolean {
 }
 
 const NODE_NAME_ALLOW: ReadonlySet<string> = new Set([
-  "infra/voice-infer/voice-infer.cluster-service.code.attachment.ts",
+  "akasha/infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
   "infra/voice-infer/generated/deployment.generated.yaml",
 ])
 
