@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricUltimateRecovery = {
-  id: "01a05fcc-d8af-706d-bea0-8b41cde84d9b",
+  id: "019e2fcd-5a05-7341-9cda-a3c7fc9fdf8c",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ultimate-recovery",
   title: "Ultimate Recovery",

@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricUltimateAbilityCost = {
-  id: "01a05fcc-d8af-7933-8614-1652ed57fbc0",
+  id: "019e2fcd-5a02-7eee-b548-8d97db652499",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ultimate-ability-cost",
   title: "Ultimate Ability Cost",

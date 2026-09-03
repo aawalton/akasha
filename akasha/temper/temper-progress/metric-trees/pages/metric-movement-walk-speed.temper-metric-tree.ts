@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricMovementWalkSpeed = {
-  id: "01a05fcc-d89b-7299-b260-599cc01c1398",
+  id: "019e2fcd-5a78-79f2-8821-ab22dcf3d6ba",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-movement-walk-speed",
   title: "Movement Walk Speed",

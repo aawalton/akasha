@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHaRestoreUnarmed = {
-  id: "01a05fcc-d888-73f1-9d15-f244151d623c",
+  id: "019e2fcd-5a10-788f-9e73-a1aa4742b514",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ha-restore-unarmed",
   title: "Ha Restore Unarmed",

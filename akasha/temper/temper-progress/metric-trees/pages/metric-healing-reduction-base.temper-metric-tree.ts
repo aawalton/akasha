@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHealingReductionBase = {
-  id: "01a05fcc-d88d-786e-9795-c8d82661d58a",
+  id: "019e2fcd-5a6b-73b0-9d82-9d020ef4dbbe",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-healing-reduction-base",
   title: "Healing Reduction Base",

@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricStatusDuration = {
-  id: "01a05fcc-d8a5-793d-b8fc-257a1f219a40",
+  id: "019e2fcd-59cd-7ecf-b5f8-41fc3e79aa5d",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-status-duration",
   title: "Status Duration",

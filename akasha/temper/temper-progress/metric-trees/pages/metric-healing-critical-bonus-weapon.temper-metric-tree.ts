@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHealingCriticalBonusWeapon = {
-  id: "01a05fcc-d88b-7ccc-ab37-2e9cdd3100a8",
+  id: "019e2fcd-5a66-73f0-8281-2878832a4779",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-healing-critical-bonus-weapon",
   title: "Healing Critical Bonus Weapon",

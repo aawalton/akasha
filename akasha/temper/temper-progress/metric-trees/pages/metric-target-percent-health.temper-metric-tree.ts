@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricTargetPercentHealth = {
-  id: "01a05fcc-d8ac-772c-83cc-21f214846e04",
+  id: "019e2fcd-5ab2-752d-9c01-666ab6169fb1",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-target-percent-health",
   title: "Target Percent Health",

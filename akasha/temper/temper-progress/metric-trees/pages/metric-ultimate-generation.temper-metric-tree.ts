@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricUltimateGeneration = {
-  id: "01a05fcc-d8af-70ed-9edd-fd78e0a1b3d3",
+  id: "019e2fcd-5a04-716a-90b5-cd7eed664805",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ultimate-generation",
   title: "Ultimate Generation",

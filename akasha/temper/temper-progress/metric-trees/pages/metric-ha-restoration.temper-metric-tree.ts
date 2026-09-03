@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHaRestoration = {
-  id: "01a05fcc-d886-78cd-a2a8-b2187491f2e5",
+  id: "019e2fcd-59c4-7e4a-9aa6-411eea3abbbe",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ha-restoration",
   title: "Ha Restoration",

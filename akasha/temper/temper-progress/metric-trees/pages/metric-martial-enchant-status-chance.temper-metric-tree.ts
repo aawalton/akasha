@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricMartialEnchantStatusChance = {
-  id: "01a05fcc-d898-7bcd-b0bf-0433535981de",
+  id: "019e2fcd-59e6-741b-8a51-b584d30ae4f1",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-martial-enchant-status-chance",
   title: "Martial Enchant Status Chance",

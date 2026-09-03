@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricMagicalAbilityStatusChance = {
-  id: "01a05fcc-d895-7c13-a47b-fc75eb0b29f5",
+  id: "019e2fcd-59da-7e15-bed3-c521817dfe0e",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-magical-ability-status-chance",
   title: "Magical Ability Status Chance",

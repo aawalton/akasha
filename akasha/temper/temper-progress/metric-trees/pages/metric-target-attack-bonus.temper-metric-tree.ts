@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricTargetAttackBonus = {
-  id: "01a05fcc-d8a7-7510-a6cb-80d43274f21b",
+  id: "019e2fcd-5a8d-7986-9559-503d062fecfb",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-target-attack-bonus",
   title: "Target Attack Bonus",

@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricResistanceGeneric = {
-  id: "01a05fcc-d8a0-7351-ace1-4aaea1359a66",
+  id: "019e2fcd-5a21-7a3c-80ca-f24530e79cb9",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-resistance-generic",
   title: "Resistance Generic",

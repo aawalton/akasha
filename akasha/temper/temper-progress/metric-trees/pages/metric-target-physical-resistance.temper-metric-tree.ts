@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricTargetPhysicalResistance = {
-  id: "01a05fcc-d8ac-7698-a6fa-0a7ae96a32dd",
+  id: "019e2fcd-5aa5-755f-bc1d-ba37edbc8e70",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-target-physical-resistance",
   title: "Target Physical Resistance",

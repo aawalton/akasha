@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHaRestoreRestStaff = {
-  id: "01a05fcc-d887-71a8-afb6-92b2adc3afd9",
+  id: "019e2fcd-5a0e-7462-b2d3-d6f630207ef6",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ha-restore-rest-staff",
   title: "Ha Restore Rest Staff",

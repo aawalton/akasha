@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricLaShockWeaponDamage = {
-  id: "01a05fcc-d894-7f48-8816-f53aba11818e",
+  id: "019e2fcd-5999-7592-a10c-55ba4b88caa1",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-la-shock-weapon-damage",
   title: "La Shock Weapon Damage",

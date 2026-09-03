@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricSneakCost = {
-  id: "01a05fcc-d8a2-7331-8580-0feba4041862",
+  id: "019e2fcd-5a18-7621-a12d-91f15e2765bf",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-sneak-cost",
   title: "Sneak Cost",

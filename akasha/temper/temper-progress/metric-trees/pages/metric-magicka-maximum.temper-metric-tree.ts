@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricMagickaMaximum = {
-  id: "01a05fcc-d896-7808-831a-4d871a727ec5",
+  id: "019e2fcd-59f2-7601-a707-753bf67814d7",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-magicka-maximum",
   title: "Magicka Maximum",

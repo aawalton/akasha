@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricTargetSpellDebuff = {
-  id: "01a05fcc-d8ad-7c0b-8f94-dfcf622c4a5e",
+  id: "019e2fcd-5aa7-7eac-ba29-6bd1a5d9f00f",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-target-spell-debuff",
   title: "Target Spell Debuff",

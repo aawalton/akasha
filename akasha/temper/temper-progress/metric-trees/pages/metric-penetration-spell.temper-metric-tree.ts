@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricPenetrationSpell = {
-  id: "01a05fcc-d89c-7978-9223-e124cdd62691",
+  id: "019e2fcd-5980-7fed-8900-a1a6813d6e9f",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-penetration-spell",
   title: "Penetration Spell",

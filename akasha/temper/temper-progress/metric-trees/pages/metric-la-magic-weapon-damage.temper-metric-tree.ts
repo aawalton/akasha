@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricLaMagicWeaponDamage = {
-  id: "01a05fcc-d891-7195-8037-071aec441712",
+  id: "019e2fcd-5995-7483-8bad-134eb3c5b11d",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-la-magic-weapon-damage",
   title: "La Magic Weapon Damage",

@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricStaminaAbilityCost = {
-  id: "01a05fcc-d8a3-7490-a4b3-e5f8c23e9e71",
+  id: "019e2fcd-59f7-7ff8-be26-8a74ab41bd9b",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-stamina-ability-cost",
   title: "Stamina Ability Cost",

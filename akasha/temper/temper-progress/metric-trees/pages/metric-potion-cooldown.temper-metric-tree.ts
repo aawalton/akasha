@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricPotionCooldown = {
-  id: "01a05fcc-d89d-7c75-85ca-6dda523d344c",
+  id: "019e2fcd-5ab6-71c3-ae77-70a452f219df",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-potion-cooldown",
   title: "Potion Cooldown",

@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricStealthDetection = {
-  id: "01a05fcc-d8a6-73ba-915d-c0c2e0f2cfc3",
+  id: "019e2fcd-5a88-7734-9804-6c1780b29b56",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-stealth-detection",
   title: "Stealth Detection",

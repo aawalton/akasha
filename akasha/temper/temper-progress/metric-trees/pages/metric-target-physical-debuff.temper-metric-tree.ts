@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricTargetPhysicalDebuff = {
-  id: "01a05fcc-d8ac-7ad5-a1f4-ec397f5c9f34",
+  id: "019e2fcd-5aa2-7ba3-b3da-4010bf78ab58",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-target-physical-debuff",
   title: "Target Physical Debuff",

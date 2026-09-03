@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHealingEffectivePowerBase = {
-  id: "01a05fcc-d88c-701d-8302-2a711a0ad3ec",
+  id: "019e2fcd-5a5f-7e61-84a3-36c7c6787025",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-healing-effective-power-base",
   title: "Healing Effective Power Base",

@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricLaWerewolf = {
-  id: "01a05fcc-d895-7386-b037-37b94034c8ad",
+  id: "019e2fcd-59a5-7b76-b293-149fa3fc99d7",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-la-werewolf",
   title: "La Werewolf",

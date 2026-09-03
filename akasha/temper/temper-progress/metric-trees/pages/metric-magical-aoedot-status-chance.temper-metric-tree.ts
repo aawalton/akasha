@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricMagicalAoedotStatusChance = {
-  id: "01a05fcc-d895-7a92-95ec-1c4b8ca8a747",
+  id: "019e2fcd-59dd-7440-a4e3-481462e25974",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-magical-aoedot-status-chance",
   title: "Magical Aoedot Status Chance",

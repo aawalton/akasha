@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const subcategoryEffectiveHealing = {
-  id: "01a05fcc-d8b3-7fb3-a664-252d9607fe65",
+  id: "019e2fcd-5a5a-7feb-927e-e4535bbe99eb",
   pageTypeSlug: "temper-metric-tree",
   slug: "subcategory-effective-healing",
   title: "Effective Healing Power",

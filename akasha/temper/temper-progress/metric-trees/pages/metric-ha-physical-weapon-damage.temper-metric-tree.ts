@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHaPhysicalWeaponDamage = {
-  id: "01a05fcc-d885-70bc-9363-afeed34b6987",
+  id: "019e2fcd-59b3-7e23-827a-d4a634842390",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ha-physical-weapon-damage",
   title: "Ha Physical Weapon Damage",

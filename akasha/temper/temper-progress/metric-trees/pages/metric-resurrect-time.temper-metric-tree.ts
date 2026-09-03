@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricResurrectTime = {
-  id: "01a05fcc-d8a2-7c56-952e-4a98ebc80308",
+  id: "019e2fcd-5a6d-7dbc-8202-877cce03268d",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-resurrect-time",
   title: "Resurrect Time",

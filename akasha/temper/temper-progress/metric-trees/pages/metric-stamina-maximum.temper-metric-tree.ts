@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricStaminaMaximum = {
-  id: "01a05fcc-d8a4-76db-9fae-bca2b36ed211",
+  id: "019e2fcd-59fc-7ccb-b7e2-7af6686276a7",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-stamina-maximum",
   title: "Stamina Maximum",

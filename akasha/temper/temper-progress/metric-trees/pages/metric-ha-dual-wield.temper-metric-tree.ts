@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHaDualWield = {
-  id: "01a05fcc-d882-71fb-a244-947fcd75e58d",
+  id: "019e2fcd-59bc-782b-a1d2-6a6112fec9a0",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ha-dual-wield",
   title: "Ha Dual Wield",

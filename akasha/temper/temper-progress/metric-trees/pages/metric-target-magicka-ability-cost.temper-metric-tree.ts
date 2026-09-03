@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricTargetMagickaAbilityCost = {
-  id: "01a05fcc-d8ab-707d-b5d8-709e7f81d1be",
+  id: "019e2fcd-5a99-7fdc-bcfe-a567eda12324",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-target-magicka-ability-cost",
   title: "Target Magicka Ability Cost",

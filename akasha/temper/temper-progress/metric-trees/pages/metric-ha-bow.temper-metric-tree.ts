@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHaBow = {
-  id: "01a05fcc-d882-7fda-810b-289d1c8248c0",
+  id: "019e2fcd-59ba-7cbc-9512-2e65587b7eaf",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ha-bow",
   title: "Ha Bow",

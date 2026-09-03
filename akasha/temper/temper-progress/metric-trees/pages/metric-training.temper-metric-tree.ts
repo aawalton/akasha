@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricTraining = {
-  id: "01a05fcc-d8ae-79ec-bf7b-cbcd3ad4d787",
+  id: "019e2fcd-5abe-7f40-b136-2cfa2157aaff",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-training",
   title: "Training",

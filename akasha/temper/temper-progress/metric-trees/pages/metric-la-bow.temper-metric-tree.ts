@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricLaBow = {
-  id: "01a05fcc-d88f-736d-9975-ad49851301d4",
+  id: "019e2fcd-599b-764f-81f7-8a11692063e2",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-la-bow",
   title: "La Bow",

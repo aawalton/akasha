@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricHaFrostSpellDamage = {
-  id: "01a05fcc-d883-73ff-a0ee-0a82686c641d",
+  id: "019e2fcd-59ae-72d9-8d0f-86a5b87a5965",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-ha-frost-spell-damage",
   title: "Ha Frost Spell Damage",

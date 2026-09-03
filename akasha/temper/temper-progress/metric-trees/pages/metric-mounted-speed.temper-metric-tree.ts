@@ -1,7 +1,7 @@
 import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 
 export const metricMountedSpeed = {
-  id: "01a05fcc-d898-7ae5-b8e9-6bd5361063bc",
+  id: "019e2fcd-5a7d-77e7-8d1c-7ab9abf38c1a",
   pageTypeSlug: "temper-metric-tree",
   slug: "metric-mounted-speed",
   title: "Mounted Speed",
