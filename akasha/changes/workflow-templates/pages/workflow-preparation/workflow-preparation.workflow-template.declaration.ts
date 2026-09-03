@@ -2,7 +2,7 @@ import { IMAGES } from "@akasha/workflow-language/images"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
 import type { Step } from "@akasha/workflow-language/workflow-types"
-import { routedCheckCommand } from "../../tools/lib/check-workflow/run-check-routing.ts"
+import { routedCheckCommand } from "../../../../../tools/lib/check-workflow/run-check-routing.ts"
 
 const CI_TOOLCHAIN_URLS = {
   kubectl: "https://dl.k8s.io/release/v1.32.0/bin/linux/amd64/kubectl",
