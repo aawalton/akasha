@@ -1,0 +1,2 @@
+[test]
+preload = ["@akasha/testing-system/dom-registering"]
