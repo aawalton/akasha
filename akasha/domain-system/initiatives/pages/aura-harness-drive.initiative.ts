@@ -13,7 +13,11 @@ export const auraHarnessDrive = {
         "Chou's eight drives are pages under game-design, each carrying his number, name and definition beside ours. The harness is a memory prosthetic and an executive function support before it is a game, and its win condition is going quiet so Alan leaves. Warm colours and black mean a goal unmet; green and blue are both wins. Recovery is a chain of integrals, stress level to surplus to safety to life satisfaction, each on a longer cadence than the last.",
     },
     { statement: "Alan's daily upkeep habits read as six attribute stoplights." },
-    { statement: "Both stoplight sets draw as widgets in Alan's native app." },
+    {
+      statement: "Both stoplight sets draw as widgets in Alan's native app.",
+      workingMemory:
+        "The attribute widget, its feed and /api/attribute-stoplights are on origin at a4030b89 and the web is deployed there. Two fixes are local only: c58ab88f4a names the widget in the bundle Alan's extension starts at, and be9f943a1e severs the client graph's reach to page-value so the no-node-in-client gate clears. The MacBook builds from origin, and a push is refused by the migration's sixteenth constraint since cb985795c0, so the build waits for the migration's end.",
+    },
     { statement: "Every attribute's daily input is recorded where the harness can read it." },
     {
       statement: "Every attribute point is earned at the fixed amount its attribute names.",
