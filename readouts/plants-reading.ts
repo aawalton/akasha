@@ -15,9 +15,11 @@
 // A food entry is an akasha page, so it is asked for with `asking`, which reads this checkout in
 // this process and refuses both a page type the index does not hold and a key the page type does
 // not declare. That refusal is the point of choosing it. What stood here handed the readout the
-// markdown query client, and that client holds no `food-entry` page type: it answered `ok` with no
-// rows and no error, so this tile read zero every five minutes while 87 food entries stood in
-// akasha, and Alan saw a black tile that was measuring nothing.
+// markdown query client, which still recognises `food-entry` — its declaration survived the
+// migration while the instance files it enumerates went — so it answered `ok` with no rows and no
+// error rather than refusing the way it refuses a page type whose declaration went too. This tile
+// read zero every five minutes while 87 food entries stood in akasha, and Alan saw a black tile
+// that was measuring nothing.
 //
 // The window is the one the old saved query named as `wake-day`: from the hour Alan rose to the
 // hour he rises next. `wakeDayOf` settles which day the current instant belongs to, since an

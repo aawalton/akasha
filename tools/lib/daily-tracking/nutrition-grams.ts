@@ -9,10 +9,16 @@ const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
  * How a food entry spells the two keys a day's plant grams are read off it.
  *
  * A page states its keys as its own file spells them, so these are humped rather than the kebab
- * slugs the old markdown query took. What stood here asked the markdown registry for `food-entry`
- * under `happened-at` and `plant-grams`, and the registry holds no such page type: it answered no
- * rows, no error, and `unfound: ["id", "plant-grams"]`, so every day summed to nothing while 87
- * food entries stood in akasha. Alan's plant-grams tile read a confident zero.
+ * slugs the old markdown query took. What stood here asked the markdown query client for
+ * `food-entry` under `happened-at` and `plant-grams`, and got `ok` with no rows, no error, and
+ * `unfound: ["id", "plant-grams"]`, so every day summed to nothing while 87 food entries stood in
+ * akasha.
+ *
+ * Why that one answered where its siblings refuse: the client recognises a page type by the
+ * declaration `pages/page-type/<slug>.page-type.md`, and `food-entry.page-type.md` survived the
+ * migration while the 333 instance files under `pages/food-entry/` went with it. `completed-task`
+ * lost both, so it refuses by name. A page type that keeps its declaration and loses its pages is
+ * the shape that answers zero, and it is worth checking for rather than waiting to meet.
  */
 const HAPPENED_AT = "happenedAt"
 

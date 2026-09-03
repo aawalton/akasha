@@ -116,8 +116,9 @@ async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<numbe
  * The points of the whole plants eaten since Alan rose, counted over the window he rose in.
  *
  * Asked through `asking` rather than through the markdown query client that stood here. That
- * client holds no `food-entry` page type and answered no rows without refusing, so this tile read
- * zero constitution every five minutes while 87 food entries stood in akasha.
+ * client still recognises `food-entry` but enumerates none of its files, so it answered no rows
+ * without refusing, and this tile read zero constitution every five minutes while 87 food entries
+ * stood in akasha.
  */
 function constitutionOf(now: Date): Promise<number> {
   const here = resolveRoots()
