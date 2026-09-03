@@ -6,4 +6,10 @@ export const clearTheWorld = {
   slug: "clear-the-world",
   definition: "a game about clearing landmines from the ground",
   partSlugs: ["page-type/ctw-achievement", "page-type/ctw-team"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every player clears the one shared minefield.",
+    },
+  ],
 } as const satisfies Domain
