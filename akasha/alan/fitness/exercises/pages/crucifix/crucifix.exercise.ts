@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const crucifix = {
+  id: "019ebc76-e055-758a-b797-9f2722991458",
+  pageTypeSlug: "exercise",
+  slug: "crucifix",
+  title: "Crucifix",
+  exerciseCategory: "strongman",
+  equipment: "other",
+  exerciseExternalId: "Crucifix",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Crucifix",
+  force: "static",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crucifix/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crucifix/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "isolation",
+  movementPattern: "isolation-other",
+  muscleFocus: "push",
+  primaryMuscles: ["shoulders"],
+  scoringMode: "reps",
+  secondaryMuscles: ["forearms"],
+  sfrScore: 4,
+  skillCost: "low",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

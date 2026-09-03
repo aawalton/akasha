@@ -1,0 +1,48 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const cleanAndPress = {
+  id: "019ebc76-db15-7809-9014-65dac2ae934e",
+  pageTypeSlug: "exercise",
+  slug: "clean-and-press",
+  title: "Clean and Press",
+  exerciseCategory: "strength",
+  equipment: "barbell",
+  exerciseExternalId: "Clean_and_Press",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Clean_and_Press",
+  force: "push",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Press/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Press/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "push",
+  primaryMuscles: ["shoulders"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower-back",
+    "middle-back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+    "triceps",
+  ],
+  secondaryPattern: "v-push",
+  sfrScore: 2,
+  skillCost: "high",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

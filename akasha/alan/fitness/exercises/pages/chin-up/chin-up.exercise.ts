@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const chinUp = {
+  id: "019ebc76-d012-78f6-87b1-2b51133a3cab",
+  pageTypeSlug: "exercise",
+  slug: "chin-up",
+  title: "Chin-Up",
+  exerciseCategory: "strength",
+  equipment: "body-only",
+  exerciseExternalId: "Chin-Up",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chin-Up",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 1,
+  mechanic: "compound",
+  movementPattern: "v-pull",
+  muscleFocus: "pull",
+  primaryMuscles: ["lats"],
+  scoringMode: "reps",
+  secondaryMuscles: ["biceps", "forearms", "middle-back"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

@@ -1,0 +1,43 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const clean = {
+  id: "019ebc76-d9d3-78e7-8f83-f122c59a7f1c",
+  pageTypeSlug: "exercise",
+  slug: "clean",
+  title: "Clean",
+  exerciseCategory: "olympic-weightlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Clean",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Clean",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["hamstrings"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "calves",
+    "forearms",
+    "glutes",
+    "lower-back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+  ],
+  sfrScore: 2,
+  skillCost: "high",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const bodyweightReverseLunge = {
+  id: "019efbeb-3290-7f24-9fea-5a3c8c91957b",
+  pageTypeSlug: "exercise",
+  slug: "bodyweight-reverse-lunge",
+  title: "Bodyweight Reverse Lunge",
+  exerciseCategory: "strength",
+  equipment: "body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "unilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0.06,
+  mechanic: "compound",
+  movementPattern: "lunge",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps", "glutes"],
+  scoringMode: "reps",
+  secondaryMuscles: ["hamstrings", "calves"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise

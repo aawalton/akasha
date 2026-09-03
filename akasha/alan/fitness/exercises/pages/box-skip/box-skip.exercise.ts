@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const boxSkip = {
+  id: "019ebc76-aa43-739f-b313-f47f6598659f",
+  pageTypeSlug: "exercise",
+  slug: "box-skip",
+  title: "Box Skip",
+  exerciseCategory: "plyometrics",
+  equipment: "other",
+  exerciseExternalId: "Box_Skip",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Box_Skip",
+  force: "push",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["hamstrings"],
+  scoringMode: "reps",
+  secondaryMuscles: ["abductors", "adductors", "calves", "glutes", "quadriceps"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

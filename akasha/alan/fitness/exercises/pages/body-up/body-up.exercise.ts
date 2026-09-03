@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const bodyUp = {
+  id: "019ebc76-a7b9-7b03-b28e-b464761efc72",
+  pageTypeSlug: "exercise",
+  slug: "body-up",
+  title: "Body-Up",
+  exerciseCategory: "strength",
+  equipment: "body-only",
+  exerciseExternalId: "Body-Up",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Body-Up",
+  force: "push",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "isolation",
+  movementPattern: "isolation-other",
+  muscleFocus: "push",
+  primaryMuscles: ["triceps"],
+  scoringMode: "reps",
+  secondaryMuscles: ["abdominals", "forearms"],
+  sfrScore: 4,
+  skillCost: "low",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

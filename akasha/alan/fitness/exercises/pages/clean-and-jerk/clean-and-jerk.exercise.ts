@@ -1,0 +1,45 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const cleanAndJerk = {
+  id: "019ebc76-dad5-771a-a760-9c7b1fdd0bcd",
+  pageTypeSlug: "exercise",
+  slug: "clean-and-jerk",
+  title: "Clean and Jerk",
+  exerciseCategory: "olympic-weightlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Clean_and_Jerk",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Clean_and_Jerk",
+  force: "push",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "expert",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "push",
+  primaryMuscles: ["shoulders"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "lower-back",
+    "quadriceps",
+    "traps",
+    "triceps",
+  ],
+  secondaryPattern: "v-push",
+  sfrScore: 2,
+  skillCost: "high",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise
