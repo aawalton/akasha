@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Seated } from "@tools/lib/seat-roster"
+import type { Seated } from "../seat-roster/seat-roster.module.code.ts"
 import { childrenAmong } from "./seat-children.module.code.ts"
 
 const seated = (id: string): Seated => ({ id }) as Seated

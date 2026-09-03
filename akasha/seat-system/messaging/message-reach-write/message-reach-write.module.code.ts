@@ -1,5 +1,5 @@
 import type { WriteAct } from "@akasha/pages-system/page-landing-judge"
-import { resolveSeatTarget } from "@tools/lib/seat-handle"
+import { resolveSeatTarget } from "../../seat-handle/seat-handle.module.code.ts"
 import { messagePageAddress } from "../message-page-address/message-page-address.module.code.ts"
 import { names, undeclared } from "../message-to/message-to.module.code.ts"
 import { reachSeat, resumeSeat } from "../message-to-start/message-to-start.module.code.ts"

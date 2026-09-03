@@ -4,10 +4,10 @@ export const summary =
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { seatNameForAgent } from "@akasha/seat-system/messages-agent-tools"
 import { seatRecord } from "@akasha/seat-system/seat-facts"
+import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { type Message, messagesTo, takeMessage } from "../../lib/message-file.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
 
 const BODY_CAP = 2000
 

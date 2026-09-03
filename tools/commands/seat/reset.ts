@@ -2,9 +2,13 @@ export const summary =
   "Reset a seat: take the agent out of it and sit a new one down holding every declaration it states"
 
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { killSeatSession, launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
+import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
 import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
+import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
+import { A_RESET, stopSeat } from "@akasha/seat-system/stop-seat"
 import { setTurnState } from "@akasha/seat-system/turn-records"
 import { composeSeatName } from "../../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "../../../akasha/seat-system/seat-flex/seat-flex.module.code.ts"
@@ -19,12 +23,8 @@ import {
   statedOf,
 } from "../../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
-import { killSeatSession, launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
 import { help } from "../../lib/seat-reset-help.ts"
-import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
-import { A_RESET, stopSeat } from "../../lib/stop-seat.ts"
 
 export { help }
 

@@ -1,8 +1,7 @@
-
-import { readPayload, record, rejectUnknownFlags } from "./lib/payload.ts"
+import { type SeatWhoami, seatWhoami } from "@akasha/seat-system/seat-whoami"
 import { fail } from "./lib/command.ts"
+import { readPayload, record, rejectUnknownFlags } from "./lib/payload.ts"
 import { run } from "./seat.ts"
-import { type SeatWhoami, seatWhoami } from "./lib/seat-whoami.ts"
 
 const VALUES: readonly (readonly [string, string])[] = [
   ["agent", "--agent"],
@@ -58,7 +57,9 @@ export function argvFor(payload: Record<string, unknown>): readonly string[] {
   }
   const stray = Object.keys(payload).filter((key) => !KEYS.includes(key))
   if (stray.length > 0) {
-    fail(`\`${stray.join("`, `")}\` names nothing a seat holds — this call takes ${KEYS.join(", ")}`)
+    fail(
+      `\`${stray.join("`, `")}\` names nothing a seat holds — this call takes ${KEYS.join(", ")}`
+    )
   }
   return argv
 }
@@ -104,7 +105,9 @@ function answerWhoami(payload: Record<string, unknown>): void {
   }
   const agent = payload[AGENT]
   if (typeof agent !== "string" || agent === "") {
-    fail(`\`${WHOAMI}\` needs an \`${AGENT}\` id — it answers for the seat named, not for the caller`)
+    fail(
+      `\`${WHOAMI}\` needs an \`${AGENT}\` id — it answers for the seat named, not for the caller`
+    )
   }
   const held = seatWhoami(agent)
   if (held === null) {

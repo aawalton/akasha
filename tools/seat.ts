@@ -6,6 +6,7 @@ import { defaultLines } from "@akasha/seat-system/seat-defaults"
 import { SEAT_HELP } from "@akasha/seat-system/seat-help"
 import { nameStanding } from "@akasha/seat-system/seat-name-stands"
 import { nameableFrom, nameableStated } from "@akasha/seat-system/seat-nameable"
+import { writeSeatPage } from "@akasha/seat-system/seat-page"
 import { composedNameOf, followName } from "@akasha/seat-system/seat-rename"
 import {
   composeSeatName,
@@ -39,7 +40,6 @@ import {
 import { statedNow } from "../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { fail } from "./lib/command.ts"
 import { type Args, parseArgs } from "./lib/seat-args.ts"
-import { writeSeatPage } from "./lib/seat-page.ts"
 import { showLines, statedLines } from "./lib/seat-show.ts"
 
 export async function run(argv: readonly string[]): Promise<void> {

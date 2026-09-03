@@ -1,5 +1,12 @@
-
-
+import {
+  array,
+  discriminatedUnion,
+  looseObject,
+  object,
+  record,
+  tuple,
+  union,
+} from "@akasha/utils-narrow/shape-object"
 import {
   booleanShape,
   coerceNumber,
@@ -9,16 +16,7 @@ import {
   numberShape,
   stringShape,
   unknownShape,
-} from "./shape-scalar.ts"
-import {
-  array,
-  discriminatedUnion,
-  looseObject,
-  object,
-  record,
-  tuple,
-  union,
-} from "./shape-object.ts"
+} from "@akasha/utils-narrow/shape-scalar"
 
 export const shape = {
   string: stringShape,

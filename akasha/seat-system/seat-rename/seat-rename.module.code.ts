@@ -1,10 +1,10 @@
 import { basename } from "node:path"
-import { restateSeatName } from "@tools/lib/seat-name-restate"
 import {
   composeSeatName,
   FLEET,
   type NameableSeat,
 } from "../compose-seat-name/compose-seat-name.module.code.ts"
+import { restateSeatName } from "../seat-name-restate/seat-name-restate.module.code.ts"
 import { pageValuesOf } from "../seat-page-values/seat-page-values.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import {

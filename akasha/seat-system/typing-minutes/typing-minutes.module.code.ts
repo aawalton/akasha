@@ -1,6 +1,6 @@
 import { appendFile, mkdir } from "node:fs/promises"
+import type { Infer } from "@akasha/utils-narrow/shape-core"
 import { shape } from "@tools/lib/shape"
-import type { Infer } from "@tools/lib/shape-core"
 import { seatNameForSupervisorPid } from "../seat-presence-read/seat-presence-read.module.code.ts"
 
 const MS_PER_MINUTE = 60_000

@@ -1,6 +1,6 @@
 import { DEFAULT_DOWNSTREAM_KEEPALIVE_MS } from "@akasha/agents/keepalive"
+import { Shape } from "@akasha/utils-narrow/shape-core"
 import { shape } from "../shape.ts"
-import { Shape } from "../shape-core.ts"
 
 function preprocess<T>(change: (value: unknown) => unknown, inner: Shape<T>): Shape<T> {
   return Shape((value, path) => inner.run(change(value), path), inner.acceptsAbsent)

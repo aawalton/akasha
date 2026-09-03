@@ -2,12 +2,14 @@ export const summary =
   "Start a seat: create it under a name, state what it is, and launch it where asked"
 
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
 import {
   handlerDerives,
   principalIsPerson,
   refuseAnswering,
 } from "@akasha/seat-system/seat-answering"
 import { seatByName } from "@akasha/seat-system/seat-by-name"
+import { isValidSeatName, resolveOptionalSeatId } from "@akasha/seat-system/seat-handle"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import {
   isSeatMode,
@@ -23,6 +25,8 @@ import { compositionOf, decideSpawnName } from "@akasha/seat-system/seat-spawn-n
 import { resolveStatedIdentity } from "@akasha/seat-system/seat-stated-identity"
 import { refuseStatedName } from "@akasha/seat-system/seat-stated-name-refusal"
 import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refusal"
+import { type StatedIdentity, spawnSeat } from "@akasha/seat-system/spawn-seat"
+import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
 import { setTurnState } from "@akasha/seat-system/turn-records"
 import {
@@ -34,13 +38,9 @@ import {
 } from "../../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { defaultFor } from "../../../akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
-import { launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-import { isValidSeatName, resolveOptionalSeatId } from "../../lib/seat-handle.ts"
 import { help } from "../../lib/seat-start-help.ts"
-import { type StatedIdentity, spawnSeat } from "../../lib/spawn-seat.ts"
-import { stateSpawnedSeat } from "../../lib/state-spawned-seat.ts"
 
 export { help }
 

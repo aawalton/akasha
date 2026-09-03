@@ -1,7 +1,7 @@
 import { inputError } from "@tools/lib/exit"
-import { isValidSeatName } from "@tools/lib/seat-handle"
 import { gatherAgentNameBindInput } from "../agent-name-bind/agent-name-bind.module.code.ts"
 import { seatByName } from "../seat-by-name/seat-by-name.module.code.ts"
+import { isValidSeatName } from "../seat-handle/seat-handle.module.code.ts"
 import { claimed, type Presence } from "../seat-name-claim/seat-name-claim.module.code.ts"
 
 export interface SetAgentNameBind {

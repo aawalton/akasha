@@ -1,9 +1,16 @@
 export const summary = "Bring a seat back on the session it was bound to, live or stopped"
 
 import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
+import {
+  holdSeatPaneOpen,
+  killSeatSession,
+  launchSeatUnderTmux,
+  respawnSeatUnderTmux,
+} from "@akasha/seat-system/launch-seat-tmux"
 import { resumeSeat } from "@akasha/seat-system/resume-seat"
 import { liveResumeVerifySleep, resumeAndVerify } from "@akasha/seat-system/resume-verify"
 import { seatRecord } from "@akasha/seat-system/seat-facts"
+import { resolveSeatTargetFromFlagOrEnv } from "@akasha/seat-system/seat-handle"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import {
   isSeatMode,
@@ -12,15 +19,12 @@ import {
   SEAT_MODES,
 } from "@akasha/seat-system/seat-modes"
 import { sweepSupersededAgentTrees } from "@akasha/seat-system/seat-recovery"
+import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
+import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
+import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"
 import { setTurnState } from "@akasha/seat-system/turn-records"
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
-import {
-  holdSeatPaneOpen,
-  killSeatSession,
-  launchSeatUnderTmux,
-  respawnSeatUnderTmux,
-} from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import {
@@ -28,12 +32,8 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "../../lib/seat-action.ts"
-import { resolveSeatTargetFromFlagOrEnv } from "../../lib/seat-handle.ts"
 import { help } from "../../lib/seat-resume-help.ts"
 import { shape } from "../../lib/shape.ts"
-import { decideSubagentGuard } from "../../lib/subagent-guard.ts"
-import { standingSubagentsOf } from "../../lib/subagent-page.ts"
-import { resolveTakeoverTarget, takeoverSeat } from "../../lib/takeover-seat.ts"
 
 export { help }
 

@@ -4,9 +4,9 @@ export const summary =
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { seatsPresent } from "@akasha/seat-system/seat-roster"
 import { operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { seatsPresent } from "../../../lib/seat-roster.ts"
 
 const SETTINGS =
   "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"

@@ -1,10 +1,10 @@
-import { seatRoster } from "@tools/lib/seat-roster"
-import { seatWhoami } from "@tools/lib/seat-whoami"
 import {
   agentHolderProcess,
   agentPresence,
 } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import { parseSeatProcKey, type SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
+import { seatRoster } from "../seat-roster/seat-roster.module.code.ts"
+import { seatWhoami } from "../seat-whoami/seat-whoami.module.code.ts"
 
 export const SEAT_MODE_INTERACTIVE = "interactive"
 

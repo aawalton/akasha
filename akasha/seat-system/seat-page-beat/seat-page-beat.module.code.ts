@@ -1,7 +1,7 @@
 import type { Outcome } from "@akasha/command-system/gated-write"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { fail } from "@tools/lib/command"
-import { removeSeatPage, writeSeatPage } from "@tools/lib/seat-page"
+import { removeSeatPage, writeSeatPage } from "../seat-page/seat-page.module.code.ts"
 import {
   nameFromHistory,
   parentFromHistory,

@@ -3,11 +3,7 @@ import {
   type LaunchSeatOpts,
   type LaunchSeatResult,
   launchSeatUnderTmux,
-} from "@tools/lib/launch-seat-tmux"
-import {
-  type MaterializeTranscriptResult,
-  materializeLocalTranscript,
-} from "@tools/lib/transcript-materialize"
+} from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "../seat-launching/seat-launching.module.code.ts"
 import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
 import { terminatePriorAgentTree } from "../seat-recovery/seat-recovery.module.code.ts"
@@ -20,6 +16,10 @@ import {
 } from "../spawn-guard/spawn-guard.module.code.ts"
 import { clearRequestedAction } from "../supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import { SEAT_START_DIR } from "../supervising/supervisor-config/supervisor-config.module.code.ts"
+import {
+  type MaterializeTranscriptResult,
+  materializeLocalTranscript,
+} from "../transcript-materialize/transcript-materialize.module.code.ts"
 
 export interface ResumeTarget {
   readonly name: string | null

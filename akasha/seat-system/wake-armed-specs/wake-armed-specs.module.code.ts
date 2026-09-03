@@ -1,5 +1,5 @@
+import type { Shape } from "@akasha/utils-narrow/shape-core"
 import { shape } from "@tools/lib/shape"
-import type { Shape } from "@tools/lib/shape-core"
 import { handlerSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import type {
   CommsRule,

@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./instructions-rule": "./instructions-rule/instructions-rule.module.code.ts",
     "./rule-conditions": "./rule-conditions/rule-conditions.module.code.ts",
     "./rule-partition": "./rule-partition/rule-partition.module.code.ts",
     "./rule-vocabulary": "./rule-vocabulary/rule-vocabulary.module.code.ts"
