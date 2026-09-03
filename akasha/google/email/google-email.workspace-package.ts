@@ -23,6 +23,7 @@ export const googleEmail = {
     "module/forwarded-message",
     "module/email-operations",
     "module/compose-input-from-arguments",
+    "module/email-command-help",
   ],
   invariants: [
     {

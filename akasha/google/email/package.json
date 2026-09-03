@@ -18,7 +18,8 @@
     "./gmail-mailbox": "./gmail-mailbox/gmail-mailbox.module.code.ts",
     "./forwarded-message": "./forwarded-message/forwarded-message.module.code.ts",
     "./email-operations": "./email-operations/email-operations.module.code.ts",
-    "./compose-input-from-arguments": "./compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
+    "./compose-input-from-arguments": "./compose-input-from-arguments/compose-input-from-arguments.module.code.ts",
+    "./email-command-help": "./email-command-help/email-command-help.module.code.ts"
   },
   "dependencies": {
     "@akasha/email-inbound": "workspace:*",
@@ -27,6 +28,7 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@tools/lib": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.3.6",
+    "@tools/ops": "workspace:*"
   }
 }
