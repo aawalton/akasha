@@ -64,5 +64,22 @@ export const command = {
       statement:
         "A path a command is named is read against the repository root rather than the calling folder.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A command cannot see a substitution the shell made in its arguments.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "principle",
+      name: "Repeating Problem",
+      act: "Write a command only where the problem repeats, and solve it in a repeatable way.",
+      warrant:
+        "Writing the command costs more than doing the job by hand; everything it saves is in later runs.",
+      aids: [
+        "A job anyone has done by hand twice repeats.",
+        "A run that needs you to decide is not repeatable.",
+      ],
+    },
   ],
 } as const satisfies PageType
