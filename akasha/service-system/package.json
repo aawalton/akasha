@@ -22,10 +22,13 @@
     "./dev-server-worktree": "./web-apps/dev-server-worktree/dev-server-worktree.module.code.ts"
   },
   "dependencies": {
+    "@akasha/cluster-manifests": "workspace:*",
     "@akasha/errors-core": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@tools/lib": "workspace:*",
+    "cdk8s": "^2.70.60",
     "zod": "^4.3.6"
   }
 }
