@@ -29,7 +29,7 @@ describe("what is left", () => {
 
   test("tells one shell from a later shell of the same pid by when it started", () => {
     expect(said).toContain("_stat=$(</proc/$$/stat)")
-    expect(said).toContain('"$$-$_start')
+    expect(said).toContain("/$$-$_start.")
   })
 
   test("names the signal where the status is above a hundred and twenty-eight", () => {
