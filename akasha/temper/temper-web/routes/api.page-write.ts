@@ -1,4 +1,4 @@
-import { answerPageWrite } from "../.server/answer-page-write/answer-page-write.module.code.ts"
+import { answerPageWrite } from "@akasha/web-page-answers/answer-page-write"
 import type { Route } from "./+types/api.page-write"
 
 // `action` is this module's only export on purpose. React Router strips just
@@ -6,5 +6,5 @@ import type { Route } from "./+types/api.page-write"
 // would hold `answer-page-write.server` — and the server client it reaches —
 // into the client bundle.
 export async function action({ request }: Route.ActionArgs): Promise<Response> {
-  return answerPageWrite(request)
+  return answerPageWrite(request, "temper-web")
 }
