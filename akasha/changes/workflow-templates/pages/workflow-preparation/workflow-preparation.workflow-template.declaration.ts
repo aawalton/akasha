@@ -2,7 +2,6 @@ import { IMAGES } from "@akasha/workflow-language/images"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
 import type { Step } from "@akasha/workflow-language/workflow-types"
-import { routedCheckCommand } from "../../../../../tools/lib/check-workflow/run-check-routing.ts"
 
 const CI_TOOLCHAIN_URLS = {
   kubectl: "https://dl.k8s.io/release/v1.32.0/bin/linux/amd64/kubectl",
@@ -155,30 +154,6 @@ const PREP_PROVISION_STEPS: readonly Step[] = [
       ],
     }),
     dependsOn: ["preparation-provision-ci-shell"],
-  },
-]
-
-const PREP_CONTENT_CACHE_STEPS: readonly Step[] = [
-  {
-    ...step({
-      name: "preparation-build-graph",
-      image: IMAGES.BUN_GIT,
-      alwaysRun: true,
-      backendOptions: {
-        kubernetes: {
-          resources: { requests: { cpu: "1", memory: "2Gi" }, limits: { memory: "4Gi" } },
-        },
-      },
-      commands: (ci) => [
-        "set -e",
-        routedCheckCommand({
-          cwd: `/ci-storage/checkouts/${ci.commitSha}`,
-          script: "tools/commands/graph/build.ts",
-          args: ["--tree-sha", ci.treeSha],
-        }),
-      ],
-    }),
-    dependsOn: ["preparation-prep", "preparation-synth-k8s"],
   },
 ]
 
@@ -372,7 +347,6 @@ export default workflow("preparation", {
       dependsOn: ["preparation-provision-ci-toolchain"],
     },
 
-    ...PREP_CONTENT_CACHE_STEPS,
     {
       ...step({
         name: "preparation-synth-k8s",

@@ -5,11 +5,7 @@ export const BENCHMARK_RUNNER_IMAGE = "oven/bun:benchmark"
 
 export const COLD_STAGE_STEP_NAMES: readonly string[] = ["preparation-prep"]
 
-export const WARM_PREP_STEP_NAMES: readonly string[] = [
-  "preparation-build-graph",
-  "preparation-write-configs-cache",
-  "preparation-synth-k8s",
-]
+export const WARM_PREP_STEP_NAMES: readonly string[] = ["preparation-synth-k8s"]
 
 export function isForeignRuntime(image: string): boolean {
   const compatible =
