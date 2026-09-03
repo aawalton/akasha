@@ -1,1 +1,1 @@
-- a √ mark and a ✓ mark
+a √ mark
