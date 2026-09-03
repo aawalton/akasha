@@ -71,8 +71,8 @@ export async function openSession(ref: string | undefined, now: Date): Promise<F
   if (ref !== undefined) return sessionNamed(ref)
   const open = await rowsFor({
     pageTypeSlug: WORKOUT_SESSION,
-    where: [{ key: "completedAt", empty: true }],
-    order: [{ by: "date", dir: "desc" }],
+    where: [{ key: "workoutSessionCompletedAt", empty: true }],
+    order: [{ by: "workoutSessionDate", dir: "desc" }],
     limit: 1,
   })
   if ("unread" in open) return { refused: open.unread }
@@ -84,7 +84,7 @@ export async function openSession(ref: string | undefined, now: Date): Promise<F
     }
   }
   const today = getEsoDayStr(now)
-  const stood = textIn(session, "date")
+  const stood = textIn(session, "workoutSessionDate")
   if (stood !== today) {
     return {
       refused:

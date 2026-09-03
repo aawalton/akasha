@@ -1,4 +1,5 @@
-import { askComposed } from "@tools/lib/page-query-client"
+import { valuesOfType } from "@akasha/indexes"
+import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 export type Value =
   | string
@@ -36,36 +37,17 @@ export type Rows = { readonly rows: readonly Row[] } | { readonly unread: string
 
 export type OneRow = { readonly row: Row | null } | { readonly unread: string }
 
-const TEXT_KEYS: ReadonlySet<string> = new Set(["id", "slug", "title"])
-
-const NUMBER_SAID = /^-?\d+(\.\d+)?$/
-
-export function dashed(key: string): string {
-  return key.replace(/([a-z0-9])([A-Z])/g, "$1-$2").toLowerCase()
-}
-
-export function humped(key: string): string {
-  return key.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-}
-
-function scalarOf(said: unknown): Value {
-  if (typeof said !== "string") return (said ?? null) as Value
-  if (said === "true") return true
-  if (said === "false") return false
-  if (said !== "" && NUMBER_SAID.test(said)) return Number(said)
-  return said
-}
-
-function textOf(said: unknown): Value {
-  return typeof said === "string" ? said : null
-}
-
-export function rowOf(values: Readonly<Record<string, unknown>>): Row {
-  const held: Record<string, Value> = {}
-  for (const [key, value] of Object.entries(values)) {
-    const name = humped(key)
-    held[name] = TEXT_KEYS.has(name) ? textOf(value) : scalarOf(value)
+export function checkoutRoot(): string {
+  const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
+  const root = roots[AKASHA]
+  if (root === undefined || root === "") {
+    throw new Error("no akasha checkout stands here, so no fitness page can be read")
   }
+  return root
+}
+
+export function rowOf(value: Readonly<Record<string, unknown>>): Row {
+  const held = { ...value } as Record<string, Value>
   const id = held.id
   const seq = held.seq
   const title = held.title
@@ -77,40 +59,6 @@ export function rowOf(values: Readonly<Record<string, unknown>>): Row {
     title: typeof title === "string" ? title : null,
     slug: typeof slug === "string" ? slug : null,
   }
-}
-
-function testOf(one: Test): Readonly<Record<string, unknown>> {
-  if ("eq" in one) return { is: one.eq }
-  if ("in" in one) return { in: one.in }
-  if ("contains" in one) return { contains: one.contains }
-  return { empty: true }
-}
-
-export function composedFor(asking: Asking): Readonly<Record<string, unknown>> {
-  const where: Record<string, unknown> = {}
-  for (const one of asking.where ?? []) where[dashed(one.key)] = testOf(one)
-  const first = asking.order?.[0]
-  return {
-    "page-type": asking.pageTypeSlug,
-    ...(Object.keys(where).length === 0 ? {} : { where }),
-    ...(first === undefined
-      ? {}
-      : { "sort-by": dashed(first.by), descending: first.dir === "desc" }),
-    ...(asking.select === undefined ? {} : { keys: asking.select.map(dashed) }),
-    ...(asking.limit === undefined ? {} : { limit: asking.limit }),
-  }
-}
-
-export async function rowsFor(asking: Asking): Promise<Rows> {
-  const asked = await askComposed(composedFor(asking))
-  if (!asked.ok) return { unread: `\`${asking.pageTypeSlug}\` went unread: ${asked.why}` }
-  return { rows: asked.rows.map((one) => rowOf(one.values)) }
-}
-
-export async function rowFor(asking: Asking): Promise<OneRow> {
-  const found = await rowsFor({ ...asking, limit: asking.limit ?? 1 })
-  if ("unread" in found) return found
-  return { row: found.rows[0] ?? null }
 }
 
 export function textIn(row: Row, key: string): string | undefined {
@@ -136,4 +84,75 @@ export function textsIn(row: Row, key: string): readonly string[] {
 
 export function titleOf(row: Row): string {
   return row.title ?? row.id
+}
+
+function saidOf(row: Row, key: string): string | null {
+  const value = row[key]
+  if (typeof value === "string") return value
+  if (typeof value === "number" || typeof value === "boolean") return String(value)
+  return null
+}
+
+function empty(row: Row, key: string): boolean {
+  const value = row[key]
+  if (value === undefined || value === null) return true
+  if (Array.isArray(value)) return value.length === 0
+  return value === ""
+}
+
+export function passes(row: Row, one: Test): boolean {
+  if ("eq" in one) return row[one.key] === one.eq
+  if ("in" in one) {
+    const said = saidOf(row, one.key)
+    return said !== null && one.in.includes(said)
+  }
+  if ("contains" in one) {
+    const said = saidOf(row, one.key)
+    return said !== null && said.toLowerCase().includes(one.contains.toLowerCase())
+  }
+  return empty(row, one.key)
+}
+
+export function ordered(rows: readonly Row[], order: readonly Ordering[]): readonly Row[] {
+  const first = order[0]
+  if (first === undefined) return rows
+  const way = first.dir === "desc" ? -1 : 1
+  return [...rows].sort((one, two) => {
+    const a = saidOf(one, first.by) ?? ""
+    const b = saidOf(two, first.by) ?? ""
+    return way * (a < b ? -1 : a > b ? 1 : 0)
+  })
+}
+
+export function cutTo(row: Row, select: readonly string[]): Row {
+  const held: Record<string, Value> = {}
+  for (const key of select) {
+    const value = row[key]
+    if (value !== undefined) held[key] = value
+  }
+  return rowOf(held)
+}
+
+export function shapedIn(rows: readonly Row[], asking: Asking): readonly Row[] {
+  const kept = rows.filter((row) => (asking.where ?? []).every((one) => passes(row, one)))
+  const sorted = asking.order === undefined ? kept : ordered(kept, asking.order)
+  const cut = asking.limit === undefined ? sorted : sorted.slice(0, asking.limit)
+  return asking.select === undefined ? cut : cut.map((row) => cutTo(row, asking.select ?? []))
+}
+
+export async function rowsFor(asking: Asking): Promise<Rows> {
+  let held: readonly Row[]
+  try {
+    held = valuesOfType(checkoutRoot(), asking.pageTypeSlug).map((one) => rowOf(one.value))
+  } catch (why) {
+    const said = why instanceof Error ? why.message : String(why)
+    return { unread: `\`${asking.pageTypeSlug}\` went unread: ${said}` }
+  }
+  return { rows: shapedIn(held, asking) }
+}
+
+export async function rowFor(asking: Asking): Promise<OneRow> {
+  const found = await rowsFor({ ...asking, limit: asking.limit ?? 1 })
+  if ("unread" in found) return found
+  return { row: found.rows[0] ?? null }
 }

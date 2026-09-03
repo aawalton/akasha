@@ -6,10 +6,11 @@ export const exerciseRows = {
   slug: "exercise-rows",
   definition: "the rows a fitness page type stands as in this checkout, and the fields on one row",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rows are read from the checkout this code runs in.",
+      statement: "The rows are read from the index over the checkout this code runs in.",
     },
     {
       invariantKind: "absence",
@@ -17,7 +18,11 @@ export const exerciseRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A field is named in humps here and in dashes in the page file.",
+      statement: "A field is named on a row as the page file names it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field's value is the value the page file states rather than that value's text.",
     },
     {
       invariantKind: "departure",
@@ -25,12 +30,12 @@ export const exerciseRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A read that fails gives back what went unread rather than throwing.",
+      statement:
+        "Which rows are wanted, in what order and how many is settled here rather than asked of a store.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "The store behind the service holds no fitness page type, so a reader that asks it answers 400 for every one of them.",
+      invariantKind: "departure",
+      statement: "A read that fails gives back what went unread rather than throwing.",
     },
   ],
 } as const satisfies Module

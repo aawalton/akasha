@@ -7,6 +7,7 @@ export const exerciseAccess = {
   definition: "how the exercise pages are reached and what their fields may carry",
   manifest: "json",
   partSlugs: [
+    "module/coaching-context",
     "module/custom-exercise-features",
     "module/day-of-week",
     "module/exercise-choosing",
@@ -17,11 +18,18 @@ export const exerciseAccess = {
     "module/free-exercise-mapping",
     "module/free-exercise-row",
     "module/mobility-derive",
+    "module/mobility-standing",
+    "module/movement-standing",
+    "module/schedule-focus",
     "module/selection-features",
     "module/selection-policy",
+    "module/session-closing",
     "module/session-derive",
+    "module/session-volume",
     "module/set-history",
+    "module/set-target",
     "module/set-volume",
+    "module/training-digest",
   ],
   invariants: [
     {

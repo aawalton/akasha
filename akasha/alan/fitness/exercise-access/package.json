@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./coaching-context": "./coaching-context/coaching-context.module.code.ts",
     "./custom-exercise-features": "./custom-exercise-features/custom-exercise-features.module.code.ts",
     "./day-of-week": "./day-of-week/day-of-week.module.code.ts",
     "./equipment-kit": "./equipment-kit/equipment-kit.module.code.ts",
@@ -14,17 +15,25 @@
     "./free-exercise-mapping": "./free-exercise-mapping/free-exercise-mapping.module.code.ts",
     "./free-exercise-row": "./free-exercise-row/free-exercise-row.module.code.ts",
     "./mobility-derive": "./mobility-derive/mobility-derive.module.code.ts",
+    "./mobility-standing": "./mobility-standing/mobility-standing.module.code.ts",
     "./movement-scoring": "./movement-scoring/movement-scoring.module.code.ts",
+    "./movement-standing": "./movement-standing/movement-standing.module.code.ts",
+    "./schedule-focus": "./schedule-focus/schedule-focus.module.code.ts",
     "./selection-features": "./selection-features/selection-features.module.code.ts",
     "./selection-policy": "./selection-policy/selection-policy.module.code.ts",
+    "./session-closing": "./session-closing/session-closing.module.code.ts",
     "./session-derive": "./session-derive/session-derive.module.code.ts",
+    "./session-volume": "./session-volume/session-volume.module.code.ts",
     "./set-history": "./set-history/set-history.module.code.ts",
     "./set-progression": "./set-progression/set-progression.module.code.ts",
+    "./set-target": "./set-target/set-target.module.code.ts",
     "./set-volume": "./set-volume/set-volume.module.code.ts",
-    "./slot-templates": "./slot-templates/slot-templates.module.code.ts"
+    "./slot-templates": "./slot-templates/slot-templates.module.code.ts",
+    "./training-digest": "./training-digest/training-digest.module.code.ts"
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
+    "@akasha/indexes": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
