@@ -76,7 +76,7 @@
     "@akasha/web-static-assets": "workspace:*",
     "@collections/litrpg": "workspace:*",
     "@fontsource-variable/literata": "^5.2.5",
-    "@infra/k8s-types": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
     "chess.js": "^1.4.0",
     "chessground": "^9.2.1",

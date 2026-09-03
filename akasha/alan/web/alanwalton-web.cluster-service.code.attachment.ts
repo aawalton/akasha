@@ -1,21 +1,21 @@
-import { synthOne } from "@infra/k8s-types/cdk8s-synth"
-import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
 import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
-} from "@infra/k8s-types/orchestrator-cache"
+} from "@akasha/k8s-types/orchestrator-cache"
 import {
   orchestratorCacheEntrypointPath,
   orchestratorCacheVolumeMounts,
   orchestratorCacheVolumes,
-} from "../../../infra/k8s-types/src/orchestrator-cache-helpers.ts"
+} from "@akasha/k8s-types/orchestrator-cache-helpers"
 import {
   ALANWALTON_WEB_CACHE,
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
-} from "../../../infra/k8s-types/src/orchestrator-cache-locations.ts"
-import { secretChecksum } from "../../../infra/k8s-types/src/secret-checksum.ts"
+} from "@akasha/k8s-types/orchestrator-cache-locations"
+import { secretChecksum } from "@akasha/k8s-types/secret-checksum"
 
 const NAMESPACE = "alanwalton"
 const APP_NAME = "web"

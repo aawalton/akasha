@@ -16,7 +16,7 @@
   },
   "references": [
     {
-      "path": "../../../infra/k8s-types"
+      "path": "../../infrastructure/k8s-types"
     }
   ],
   "include": [
