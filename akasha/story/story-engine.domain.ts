@@ -18,6 +18,18 @@ export const storyEngine = {
   ],
   invariants: [
     {
+      invariantKind: "upkeep",
+      statement: "Every world the story engine keeps is a page in akasha.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every story the story engine keeps is a page in akasha.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every part of a story the story engine keeps is a page in akasha.",
+    },
+    {
       invariantKind: "absence",
       statement: "No deployed code names one story or one world.",
     },

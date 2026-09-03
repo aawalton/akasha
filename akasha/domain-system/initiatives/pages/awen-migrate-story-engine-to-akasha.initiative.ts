@@ -9,11 +9,6 @@ export const awenMigrateStoryEngineToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",
-      workingMemory:
-        "149 worlds, 13 stories, 123 chapters and 139 turns are pages, their markdown gone at `09a6112fe2`, `d34c77b0aa`, `fde71649a6` and `e09bf8057c`. All 139 `game-turn` rows carry text identical to a landed turn page, so no turn is kept only as a row. A census of everything outside `akasha/` leaves one thing: the untyped played chapter in `dirty/coffee-shop-date`, filed as a finding, wanting a title the data does not carry.",
-    },
-    {
       statement: "No part of a story or a world exists only in the database.",
       workingMemory:
         "`dirty/` holds 1,898 files that are database rows dumped to disk rather than pages: `story-skill` 911, `story-class` 362, `story-character-timeline` 137, `story-wiki` 33, `story-build` 3, `story-decision` 2, none with a page type. They give themselves away by a camelCase `pageType` and by `story` naming a uuid. 20 story-engine kinds do have a page type and declare `files: none`, meaning no file of their own: their rows are entries in a parent page's sidecar, on disk. `game-turn` answers 139.",
