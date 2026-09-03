@@ -1,0 +1,35 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const jmPress = {
+  id: "019ebc77-815c-72ea-8c22-b247c30c6abd",
+  pageTypeSlug: "exercise",
+  slug: "jm-press",
+  title: "JM Press",
+  exerciseCategory: "strength",
+  equipment: "barbell",
+  exerciseExternalId: "JM_Press",
+  exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/JM_Press",
+  force: "push",
+  gripDemand: "low",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/JM_Press/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/JM_Press/0.jpg",
+  implementCount: 1,
+  isBallistic: false,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "isolation-other",
+  muscleFocus: "push",
+  primaryMuscles: ["triceps"],
+  scoringMode: "reps",
+  secondaryMuscles: ["chest", "shoulders"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

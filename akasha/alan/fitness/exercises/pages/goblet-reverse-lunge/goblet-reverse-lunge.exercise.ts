@@ -1,0 +1,28 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const gobletReverseLunge = {
+  id: "019ee5f7-b4e3-7f64-bd62-3015a2f149bb",
+  pageTypeSlug: "exercise",
+  slug: "goblet-reverse-lunge",
+  title: "Goblet Reverse Lunge",
+  exerciseCategory: "strength",
+  equipment: "dumbbell",
+  force: "push",
+  gripDemand: "low",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "unilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "lunge",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps", "glutes"],
+  scoringMode: "reps",
+  secondaryMuscles: ["hamstrings", "calves", "abductors"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

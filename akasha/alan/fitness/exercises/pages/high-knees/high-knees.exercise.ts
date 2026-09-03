@@ -1,0 +1,27 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const highKnees = {
+  id: "019efbf8-3824-7a3a-8c76-4812dec0d528",
+  pageTypeSlug: "exercise",
+  slug: "high-knees",
+  title: "High Knees",
+  exerciseCategory: "cardio",
+  equipment: "body-only",
+  force: "push",
+  gripDemand: "none",
+  implementCount: 1,
+  isBallistic: true,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "conditioning",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps", "calves"],
+  scoringMode: "time",
+  secondaryMuscles: ["glutes", "hamstrings", "abdominals"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise

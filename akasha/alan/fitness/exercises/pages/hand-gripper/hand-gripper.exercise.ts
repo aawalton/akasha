@@ -1,0 +1,25 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const handGripper = {
+  id: "019f0aaa-3b82-7774-a784-cd4a99eb9bf2",
+  pageTypeSlug: "exercise",
+  slug: "hand-gripper",
+  title: "Hand Gripper",
+  exerciseCategory: "strength",
+  equipment: "other",
+  gripDemand: "high",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "bilateral",
+  exerciseLevel: "beginner",
+  loadFactor: 0,
+  mechanic: "isolation",
+  movementPattern: "isolation-other",
+  muscleFocus: "pull",
+  primaryMuscles: ["forearms"],
+  scoringMode: "reps",
+  sfrScore: 4,
+  skillCost: "low",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: false,
+} as const satisfies Exercise

@@ -1,0 +1,45 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const hangSnatchBelowKnees = {
+  id: "019ebc77-560a-77b4-80a3-53cb438ecdbe",
+  pageTypeSlug: "exercise",
+  slug: "hang-snatch-below-knees",
+  title: "Hang Snatch - Below Knees",
+  exerciseCategory: "olympic-weightlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Hang_Snatch_-_Below_Knees",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hang_Snatch_-_Below_Knees",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch_-_Below_Knees/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch_-_Below_Knees/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "expert",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["hamstrings"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abdominals",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower-back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+  ],
+  sfrScore: 2,
+  skillCost: "high",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

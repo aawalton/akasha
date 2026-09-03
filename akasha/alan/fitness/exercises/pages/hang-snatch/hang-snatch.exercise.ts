@@ -1,0 +1,45 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const hangSnatch = {
+  id: "019ebc77-55ad-7aed-b780-df776c1db179",
+  pageTypeSlug: "exercise",
+  slug: "hang-snatch",
+  title: "Hang Snatch",
+  exerciseCategory: "olympic-weightlifting",
+  equipment: "barbell",
+  exerciseExternalId: "Hang_Snatch",
+  exerciseExternalLink:
+    "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hang_Snatch",
+  force: "pull",
+  gripDemand: "high",
+  imageEndUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch/1.jpg",
+  imageStartUrl:
+    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch/0.jpg",
+  implementCount: 1,
+  isBallistic: true,
+  exerciseLastSyncedAt: "2026-07-25",
+  laterality: "bilateral",
+  exerciseLevel: "expert",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "hinge",
+  muscleFocus: "legs",
+  primaryMuscles: ["hamstrings"],
+  scoringMode: "reps",
+  secondaryMuscles: [
+    "abdominals",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower-back",
+    "quadriceps",
+    "shoulders",
+    "traps",
+  ],
+  sfrScore: 2,
+  skillCost: "high",
+  exerciseSource: "free-exercise-db",
+  trainsLengthenedRange: false,
+  instructions: "txt",
+} as const satisfies Exercise

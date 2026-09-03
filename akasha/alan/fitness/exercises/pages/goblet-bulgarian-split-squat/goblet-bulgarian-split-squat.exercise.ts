@@ -1,0 +1,28 @@
+import type { Exercise } from "../../exercise.page-type.ts"
+
+export const gobletBulgarianSplitSquat = {
+  id: "019ee5fc-593c-74a8-b67c-819340c40397",
+  pageTypeSlug: "exercise",
+  slug: "goblet-bulgarian-split-squat",
+  title: "Goblet Bulgarian Split Squat",
+  exerciseCategory: "strength",
+  equipment: "dumbbell",
+  force: "push",
+  gripDemand: "low",
+  implementCount: 1,
+  isBallistic: false,
+  laterality: "unilateral",
+  exerciseLevel: "intermediate",
+  loadFactor: 0,
+  mechanic: "compound",
+  movementPattern: "lunge",
+  muscleFocus: "legs",
+  primaryMuscles: ["quadriceps", "glutes"],
+  scoringMode: "reps",
+  secondaryMuscles: ["hamstrings", "calves", "abductors", "adductors"],
+  sfrScore: 3,
+  skillCost: "moderate",
+  exerciseSource: "aelwyn-custom",
+  trainsLengthenedRange: true,
+  instructions: "txt",
+} as const satisfies Exercise
