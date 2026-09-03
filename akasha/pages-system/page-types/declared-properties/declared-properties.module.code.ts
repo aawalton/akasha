@@ -39,6 +39,19 @@ export function identityOf(one: Carried): string {
   return `${one.pageTypeSlug}/${one.pagePropertySlug}`
 }
 
+// SEVERAL PATHS UNDER ONE KEY IS NOT AN ABSENCE. This asked `listed.length === 1` and answered null
+// for everything else, so a key listed twice read exactly like a key listed not at all: the walk in
+// `declarationsFrom` broke and the page type came back carrying nothing. Measured 2026-09-03:
+// `.git/data/index/identity/page-type/slug/story-read.jsonl` and its `story-chapter-read` sibling
+// each held two lines with the SAME id, the second naming a bare root path that `e46fe627c0` had
+// already deleted, and `identity/page/id/<id>.jsonl` held the same pair again — 4 files out of
+// 143,510. Both page types answered 0 properties while declaring 6 and 7, and the map built through
+// them dropped the `prose` sidecars on both and `chronology-anchors` on one.
+//
+// A listing no reader can open is no candidate, so the paths are read and the ones answering
+// nothing are dropped. One left is the answer. Several left is a collision this cannot settle, and
+// it refuses rather than picking, because picking would be a wrong answer nothing outside could
+// see. None left is answered as absent, which `declarationsFrom` refuses on its own account.
 export function pageAt(
   given: string | Reading,
   pageTypeSlug: string,
@@ -46,8 +59,19 @@ export function pageAt(
   pageOf: (path: string) => Value | null
 ): Value | null {
   const listed = listedAt(given, pageTypeSlug, slug)
+  if (listed.length === 0) return null
   const one = listed.length === 1 ? listed[0] : undefined
-  return one === undefined ? null : pageOf(one.path)
+  if (one !== undefined) return pageOf(one.path)
+  const read = listed.flatMap((each) => {
+    const value = pageOf(each.path)
+    return value === null ? [] : [{ path: each.path, value }]
+  })
+  const only = read[0]
+  if (only === undefined) return null
+  if (read.length === 1) return only.value
+  throw new Error(
+    `\`${pageTypeSlug}/${slug}\` is listed at ${read.length} paths that each carry a page, so nothing here says which one names it: ${read.map((each) => each.path).join(", ")}`
+  )
 }
 
 export function sourceIn(given: string | Reading, pageOf: (path: string) => Value | null): Source {
@@ -104,6 +128,12 @@ export function carriedIn(
   )
 }
 
+// A CHAIN THAT CANNOT BE READ REFUSES RATHER THAN ANSWERING EMPTY. This broke out of the walk at
+// the first page type it could not read and returned what it had, which for a first slug that would
+// not resolve was `[]` — the very answer a page type declaring nothing gives. No caller could tell
+// the two apart, so a corrupt index degraded to "declares nothing" and every property of the type
+// went missing quietly. The pages-system says it outright: refuse where you cannot answer, and
+// never read a missing source as an empty one.
 export function declarationsFrom(pageTypeSlug: string, source: Source): readonly Carried[] {
   const carried: Carried[] = []
   const walked = new Set<string>()
@@ -112,7 +142,13 @@ export function declarationsFrom(pageTypeSlug: string, source: Source): readonly
     const own: string = here
     walked.add(own)
     const value = source.pageTypeAt(own)
-    if (value === null) break
+    if (value === null) {
+      throw new Error(
+        own === pageTypeSlug
+          ? `\`${pageTypeSlug}\` names no page type here, so what it carries cannot be read`
+          : `\`${pageTypeSlug}\` reaches \`${own}\` by extending, and \`${own}\` names no page type here`
+      )
+    }
     carried.push(...carriedFrom(value, source, own))
     const above = textAt(value, EXTENDS)
     here = above === null ? null : slugIn(above)
