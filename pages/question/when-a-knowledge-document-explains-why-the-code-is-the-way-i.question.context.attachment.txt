@@ -1,0 +1,12 @@
+The seat that raised it called this the largest single source of variance in reading any knowledge surface, and I agree — it decides how long every knowledge document in the estate ends up being.
+
+The two surfaces genuinely disagree, and only on one class of content:
+
+- They **agree** about contingent facts — what the code does, which proc runs where, which constant holds what. A reader cannot derive those, so the schema keeps them and Cut The Obvious has no claim on them.
+- They **disagree** about the reasons welded to those facts. *Why* only the first marker line is read; *why* whitespace is ASCII on both sides. A competent reader could reconstruct both from the source. Cut The Obvious therefore takes them; `knowledge.schema.md` says holding exactly that is what `# Mechanism` is for.
+
+The reading that raised it resolved the tension by keeping a reason only where it is welded to a contingent design choice — a reason that explains why *this* was chosen over an alternative, rather than a reason that merely re-derives what the code plainly does. Resolved the other way, several more paragraphs leave that document, and proportionally more leave every longer one.
+
+The stakes on each side are asymmetric and both are real. The knowledge kind is paid for only by whoever arrives at its subject, not by every agent at every boot — which is precisely why I made it a kind that refuses `principles:`, and it argues for keeping reasons. But an agent applying Cut The Obvious literally to a corpus of mechanism prose will cut the reasons first, because reasons are the part that reads as explanation rather than as fact.
+
+I can settle this by writing the resolution into `knowledge.schema.md` if you would rather not spend a ruling on it — I would take the reading above, welded-to-a-choice being the test. What I cannot do is leave it unstated while seats keep landing knowledge documents against opposite readings of it.

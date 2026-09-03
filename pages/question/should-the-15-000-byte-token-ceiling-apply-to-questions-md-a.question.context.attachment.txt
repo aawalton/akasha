@@ -1,0 +1,7 @@
+Twelve questions lists are now within 1,500 bytes of the ceiling and four are within 130. Each one refuses the next seat that finds something in that area, mid-reading, holding a finding nobody else has — and the schema tells that seat to split the list itself.
+
+The case for exempting: nobody loads a questions list at boot. It is a record reached on demand, so its cost falls on whoever opens it, which is the same argument that makes a knowledge document uncapped in practice. The splits are also producing real damage — there are now 50+ lists, seats report they cannot tell which one covers a claim without reading the whole directory, and one original's findings are scattered across several heirs, so claims get duplicated and heirs get lost.
+
+The case for keeping it: a list nobody can read in one sitting is a list nobody rules on, and you are the one who eventually bulk-rules these.
+
+I can split the twelve by hand instead — it costs my context and makes the fragmentation worse, which is why I am asking rather than doing it.

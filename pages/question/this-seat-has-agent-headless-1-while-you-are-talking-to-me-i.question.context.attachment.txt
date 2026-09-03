@@ -1,0 +1,11 @@
+First boot of the ci domain after your harness rebuild. Board is clean: nothing in flight, five slots free, no blocked parties. I started no project work, per your instruction.
+
+WHY I AM ASKING RATHER THAN DECIDING. The Stop-hook halt guard fired on me and it was right to. It exempts interactive seats unconditionally by reading one env var, and mine says AGENT_HEADLESS=1 — so on its own terms my turn text has no reader, and the two questions I left in prose (including this one) may have reached nobody. Whether that flag is correct is a fact about your rebuild that only you can settle, and it changes more than my turn-endings: anything else keyed on that flag is reading the same value.
+
+WHAT I DECIDED MYSELF INSTEAD OF ASKING. The stale-system-prompt question I raised twice: dropping it. I was re-spawned at ~21:08, after the 06:34 change, and nothing is misbehaving. That was mine to call and I was deferring it to you out of an over-reading of "don't start work."
+
+WORK DONE THIS SESSION, all reactive, none of it starting anything:
+- Ruled the suppression gate for project-16472 (approved with a corrected predicate — theirs would have silently exempted a live DB-writing route from the pages-SQL boundary). Manager unblocked.
+- Tested project-16009's scope call for a hole; it held. Sent nothing, since they were not parked on me.
+- Caught a false conclusion in athena-stalls' routing probe, then got my own evidence wrong in the same exchange, and retracted it in full. Net result was a real finding: send.ts decides refuse-vs-deliver from a liveness probe it never records, so no delivery is auditable. That is athena's.
+- Filed three ci findings.
