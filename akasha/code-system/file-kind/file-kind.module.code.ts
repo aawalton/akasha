@@ -30,6 +30,8 @@ export type FileKind =
   | "conf"
   | "ignore"
   | "sops-config"
+  | "sops-secret"
+  | "jsonl"
 
 const CONTAINER_RECIPE_PREFIXES: readonly string[] = ["Dockerfile", "Containerfile"]
 
@@ -57,7 +59,7 @@ const IGNORE_SUFFIX = "ignore"
 const isIgnoreBasename = (name: string): boolean =>
   name.startsWith(".") && name.endsWith(IGNORE_SUFFIX) && name.length > IGNORE_SUFFIX.length + 1
 
-const SOPS_CONFIG_BASENAME = ".sops.yaml"
+const SOPS_YAML_ENDING = ".sops.yaml"
 
 const TEMPLATE_SUFFIX = ".template"
 
@@ -67,22 +69,24 @@ export const classifyExtension = (relPath: string): FileKind | null => {
   if (PLAIN_TEXT_BASENAMES.has(base)) return "txt"
   if (isEnvBasename(base)) return "env"
   if (isIgnoreBasename(base)) return "ignore"
-  if (base === SOPS_CONFIG_BASENAME) return "sops-config"
+  if (base === SOPS_YAML_ENDING) return "sops-config"
   if (base.endsWith(TEMPLATE_SUFFIX) && base.length > TEMPLATE_SUFFIX.length) {
     return classifyExtension(relPath.slice(0, relPath.length - TEMPLATE_SUFFIX.length))
   }
   if (relPath.endsWith(".tsx")) return "tsx"
   if (relPath.endsWith(".ts")) return "ts"
   if (relPath.endsWith(".jsx")) return "jsx"
-  if (relPath.endsWith(".js")) return "js"
+  if (relPath.endsWith(".js") || relPath.endsWith(".cjs") || relPath.endsWith(".mjs")) return "js"
   if (relPath.endsWith(".css")) return "css"
   if (relPath.endsWith(".md")) return "md"
+  if (relPath.endsWith(SOPS_YAML_ENDING)) return "sops-secret"
   if (relPath.endsWith(".yaml")) return "yaml"
   if (relPath.endsWith(".yml")) return "yml"
   if (relPath.endsWith(".lua")) return "lua"
   if (relPath.endsWith(".sql")) return "sql"
+  if (relPath.endsWith(".jsonl")) return "jsonl"
   if (relPath.endsWith(".json") || relPath.endsWith(".code-workspace")) return "json"
-  if (relPath.endsWith(".sh")) return "sh"
+  if (relPath.endsWith(".sh") || relPath.endsWith(".bash")) return "sh"
   if (relPath.endsWith(".rs")) return "rust"
   if (relPath.endsWith(".toml")) return "toml"
   if (relPath.endsWith(".swift")) return "swift"
