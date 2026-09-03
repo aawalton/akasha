@@ -1,9 +1,9 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { Glob } from "bun"
 import { z } from "zod"
 import type { ScopedPopulation } from "../graph/queries/membership.ts"
-import { listAllAddons } from "./addons-resolve.ts"
 
 export const BUILD_TOOLING_SEEDS: readonly string[] = []
 
@@ -16,7 +16,7 @@ export const packageSeedForAddonDir = (addonDir: string): string => {
 
 export const addonPackageSeeds = (codeRoot: string): readonly string[] => {
   const seeds = new Set<string>(BUILD_TOOLING_SEEDS)
-  for (const addon of listAllAddons(codeRoot)) {
+  for (const addon of listAllAddons({ repoRoot: codeRoot })) {
     seeds.add(packageSeedForAddonDir(addon.dir))
   }
   return [...seeds].sort()
@@ -34,7 +34,7 @@ const holdsExtension = (dir: string, extension: string): boolean => {
 }
 
 export const addonSourcePopulation = (codeRoot: string): readonly ScopedPopulation[] => {
-  const roots = listAllAddons(codeRoot)
+  const roots = listAllAddons({ repoRoot: codeRoot })
     .map((addon) => `${addon.repoRelDir}/src`)
     .sort()
   return roots.flatMap((under) =>

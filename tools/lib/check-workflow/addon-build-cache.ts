@@ -1,8 +1,9 @@
 import { join } from "node:path"
+import type { AddonInfo } from "@akasha/temper-addons-resolve/addon-roster"
+import type { DeployableInfo } from "@akasha/temper-addons-resolve/deployable-addons"
 import type { RepoFile } from "@akasha/workflow-language/inputs-hash"
 import { attrText, importGraphClosureFromSeeds } from "../graph/queries/closure.ts"
 import type { Graph, NodeId } from "../graph/types.ts"
-import type { AddonInfo, DeployableInfo } from "./addons-resolve.ts"
 import { BUILD_TOOLING_SEEDS, packageSeedForAddonDir } from "./check-configs-addons-seeds.ts"
 
 const CODE_REPO = "code"
