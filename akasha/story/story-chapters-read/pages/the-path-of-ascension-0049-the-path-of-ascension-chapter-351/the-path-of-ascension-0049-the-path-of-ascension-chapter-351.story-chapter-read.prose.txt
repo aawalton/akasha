@@ -132,3 +132,154 @@ Matt mocked Erwin lightly by silently repeating his last sentence, which got a s
 
 By that time Aisha finished enchanting the formation plates and laid them out in a circle. “I get you want to lower costs, Ascender T—” At Matt’s glare she changed her address. “I mean, Matt. It's weird addressing an Ascender by their first name. But as I was saying. I understand that you want to lower costs, and I agree it's a good idea, but I don’t think it will be the end of the world if we can’t lower it past Tier 30. First of all, any duke will have access to a Tier 35 enchanter, and even if they don’t, they can surely afford their services. Secondly, the formation plates to form the rifts don’t need to be kept in place. One set of plates can be used to create as many rifts as a planet requires, then rented out or sold to any that don’t have an enchanter to make one.”
 
+Theodore chimed in with his agreement based on his hands-on experience. “Aisha is correct. While it would obviously be better to lower costs, so long as you release the blueprint and copies of the mana type, it will spread.”
+
+Aisha then pointed at herself. “That said, I do believe we can get this down to at least a Tier 25 formation without needing to use non-standard plates. Below that, I think it's inevitable we need to go into supersized plates just to have the room to fit the needed enchantments.”
+
+Matt winced as he didn’t want to hear an experienced enchanter say that. He recognized that she was the expert, but he really didn’t like the idea of needing to use the so-called supersized formation plates. They broke one of the core principles of standard enchanting, which was uniformity in as many variables as possible.
+
+After all, anyone could solve an enchanting problem by brute forcing the issues and enchanting half a mountain range. But a good formations expert should fit that solution on the typical plate.
+
+Super sized plates were looked down on– at five times the typical plate size, they were unwieldy for low Tiers thanks to their great weight– but were technically a standardized size option.
+
+Matt's immediate goal was to lower that to Tier 15 with a normal or large formation plate. Anything was better than a supersized plate.
+
+“Okay, well, let's test it. Set our baseline and ensure the method works.”
+
+“Do you think something the Emperor gave you wouldn’t work?” Aisha looked aghast at the suggestion, but Matt just shrugged.
+
+“He can be playful.”
+
+That got him odd looks from all three, but Matt ignored them as the rift stabilized at Tier 1.
+
+“Okay. Now we need to add the aura and more pure mana.”
+
+Even as Matt said it, he felt wrong and his instincts screamed that the rift was going to de-aspect at any moment.
+
+And it was possible it would de-aspect. On top of the usual fifty percent chance that any rift would de-aspect, the notes said this method had worse than normal rates, pushing almost a seventy five percent chance of de-aspecting. That meant even for the three Tier ups to reach Tier 4, they only had a one in sixty four chance of getting the rift to reach Tier 4.
+
+Those odds were immediately felt when the rift deaspected seven times in a row trying to go from Tier 1 to Tier 2.
+
+Theodore winced at the last attempt and looked over to the guild entrance with a sigh. “And this is why no one does aperology and why I spend a hundred years working for even a single year of testing. Even low Tier tests cost tens of thousands of mana a day. That adds up too fast when you try to scale testing. More a test of someone's wallet than skill. Blessed be the Emperor for sponsoring this.”
+
+Matt was tempted to say, ‘Yeah it’s nice of Manny to sponsor the guild,’ but he was pretty sure that casual usage of the Emperor's name might break the newest members of the guild.
+
+After almost an hour of repeated failures, they finally had a Tier 4 aura rift.
+
+“It's beautiful.”
+
+Matt stood inside with the others near the entrance, looking at a familiar lava shaft and a familiar looking salamander with flickers of aura along its back.
+
+Erwin stepped forward and grabbed the rift monster, which tried to bite him but was held in place by a Domain working. “What an odd specimen. That bone structure is downright strange. Why is their hip disconnected from their spine? What purpose does that serve?”
+
+Matt had noted the same thing and had no answer. Instead, he walked forward with Theodore and Aisha.
+
+Aisha seemed more interested in the rift itself, but Theodore kept looking at the aura monsters.
+
+Glancing back to Matt, he wiped a tear. “This is amazing. Thank you for letting me be part of it.”
+
+Matt clapped him on the back and let him have his moment.
+
+“Seriously, this is exactly what aperology needed to push the discipline forward. I know of a dozen attempts over the years to try and get support to push the field forward, but the attempts I know of blew through their budget with little to show for it. Last success story I heard of was Linda Forsess, who managed to create rifts that almost always have alchemy ingredients and the noble house sells her services to whoever can afford it, trying to recoup the costs.”
+
+Matt knew of Linda, as Cato had reached out to her for the guild during the war, but she was locked into her contract with her noble house for another eight thousand years. She did indicate she was receptive to joining once her contract was up, however, which was good enough.
+
+Theodore was right in that aperology was exorbitantly expensive for almost anyone, but that was why Matt wanted to push forward with it more than anything else.
+
+After they inspected the rift, they immediately set about testing variables.
+
+Theodore offered up a unique suggestion Matt was eager to try.
+
+“In my own testing I found that entering a rift instance and dumping materials into the rift instance, then letting the rift cycle the instance to destroy everything inside seemed more efficient in using the materials. I don’t know how it would work for the stuff like the sword you are using as a seed, but I never used anything like that. All of my aperology was purely mana based.”
+
+That single comment devolved into a conversation about methodology that lasted almost an hour.
+
+Matt had used rift seeds because it let the aperologist have more influence over the rift with a fairly easy to source material, but he could acknowledge that it meant failures destroyed vital material that couldn’t always be sourced. Pure mana aperology was probably the truest application of the science, but like Theodore ran into, it was more finicky, as there was no stabilizing core of the rift which led to more failures which drove up costs.
+
+Aisha, having only recently dived into the field, brought up a good question Matt had never considered.
+
+“Why does the seed item matter after the rift is created? I understand the de-aspect nature of rifts, which means they no longer follow the seed and the set mana type, but why does the seed provide a stabilizing influence? Shouldn’t the rift itself provide a stabilizing influence?”
+
+Erwin offered up his own possible answer, which was better than what Matt had thought of. “I think the rifts need a seed because they help stabilize the Tier up. Obvious, yes, but that's more a question of the nature of our methods. Are rifts naturally unstable and they prefer to change wholesale upon Tier up? Or are our methods of Tiering up rifts insufficient and if we could perfectly control things we would find the rifts would never de-aspect?”
+
+“There is too much we don’t know about rifts. It's why I became interested in them beyond the obvious reasons for my Talent. We know a lot about how they work, but not the mechanisms behind them, which is crazy when you think about how they are a fundamental part of how essence functions. Without rifts, essence would only form from mana that falls to the core of the planet and then rises back out. Rifts cycle the energy of the world, moving mana around, converting it into essence, and providing opportunities for communities to grow. They have their dangers, sure, but those are minor for any society to handle with a little planning and preparation.” Theodore had a fervent air about him as he spoke.
+
+His words seemed to spark something in all four of them, and they threw themselves into making the next few dozen formation plates. Aisha did the bulk of the work, but the other three were able to help prep the formation plates so she only needed to inlay the more complicated runes.
+
+After they had fifty plates based on the Emperor’s team's design, they started creating lower Tier plates that they hoped might still do the job.
+
+Matt, despite being the lowest person of the group at Tier 26, was almost as fast as Aisha in enchanting the plates thanks to his training in trying to flash create talismans with his solidified mana.
+
+Erwin and Theodore weren’t slow, but their methods were the standard carving methods, which was just slower than Aisha’s Talent drawing and Matt’s brute force flash carving of the plates.
+
+From there, they started testing the variables as Erwin had stated earlier.
+
+First, they tried making a better method for the initial Tier ups.
+
+A seventy five percent chance for the rift to to de-aspect was just too high for Matt to be happy with sending out. He wanted to get that down to at least sixty percent, which would take the odds from one in sixty four to one in fifteen; far more bearable for low Tier lords.
+
+They started by adding the mana needed to Tier up the rift into the rift in crystalized form along with the aura samples, but counter to Theodore’s experience, that made the rift de-stabilization rate almost hit one hundred percent, and they only managed one rift out of fifty to properly Tier up.
+
+As Theodore had proof the method worked, that stumped them, but Erwin proffered the idea that the ratio was just wrong. The method might work, but the different input methods might change the way the rift cycled the mana and therefore the end result and the standard ratios with the new method was unstable.
+
+That made a sort of sense, but Matt felt the explanation wasn’t 100% correct.
+
+Rifts were by all accounts perfect converters of matter to energy.
+
+That was proven on the higher Tier worlds who used rifts as disposal units on a large scale.
+
+Those rifts needed to be delved regularly because the amount of waste added to them when converted to energy filled the rifts mana reserves faster than could be extracted from the rifts with formations. On the other side, farm rifts absorbed more mana than normal because of the resources that were used to grow the food that was extracted.
+
+Someone in the Clans a million and a half years ago had actually done a careful study of the phenomenon and had proven rifts were at least 99.99999% efficient in converting energies. And while Matt had never seen the full study, he had seen the study referenced a million and one times, and there had never been a credible rebuttal of the results.
+
+And if the rift was perfect in converting material, why did absorbing the material as it recycled an instance change the outcome?
+
+It shouldn’t have mattered unless the method of absorption was different, whether it was inside the rift or from the outside, but that didn’t make much sense because the clan test had examined that variable as well.
+
+They eventually settled on the answer that the creation of the instance cost the rift mana, depleting its reserves, which changed the formula from feeding the rift mana when it was already full.
+
+It took almost a week of testing, burning through millions of mana, and the island was nearly full of rifts waiting fifteen minutes to cycle the instance, but they eventually solved the issue.
+
+It wasn’t as easy as just adding more mana to the rift, and the discovery opened up a new door of aperology.
+
+The mana left in the rift needed a similar amount of mana to feed the instance from the outside, but the mana spent on the rift instance needed to be mana from the six basic elements.
+
+That implied the rift converted the mana it was fed into those base mana types as part of its normal functions, which was an eyeopener. It meant their method of flooding an area with mana to form a rift might work, but it was far from creating a stable rift. Which might explain why rifts naturally de-aspected upon being fed neutral mana.
+
+The hardest thing was figuring out how much energy the rift had spent to create the instance, and the answer wasn’t what anyone expected, despite being fairly obvious.
+
+A rift that created an instance but didn’t do anything with the instance spent very little energy. Almost nothing in fact. They suspected if they were able to trigger an instance without entering the rift, the rift would actually spend nothing as it perfectly recycled the spent energy. But allowing people to enter the pocket space put strain on the rift, even if they didn’t kill anything.
+
+Upon realizing that, Matt sent a message to Allie informing her he needed to use her Talent for a little because they suspected that once the rift cycled, it no longer spent energy on the instance, but none of them could enter the rift instance once cycled without physically tearing through the spatial barrier, which would undoubtedly strain the rift.
+
+Her response was an instant, “I’m on a beach surrounded by hotties, no way I’m doing nerd shit!”
+
+Oh well, he’d get her to do it some time later.
+
+Physical material, on the other hand, only drained the rift a minor amount. Even removing every single atom of material from the rift only drained the rift a moderate amount.
+
+The main drain for the rift were the monsters. Or rather, the essence needed to fuel the monsters.
+
+Killing a single monster took more energy out of their Tier 1 test rift than removing all of the physical material from the pocket space.
+
+It made sense, essence was a higher level energy that took a massive amount of mana to create, as well as having Tiered versions, but the math just didn’t add up.
+
+If it took billions, if not trillions, of mana to naturally form essence while being crushed at the center of a planetary mass, then how could a rift formed with a measly few tens of thousand mana in a perfect isolation array create even a single Tier 1 monster?
+
+That much essence should cost millions of mana if the ratio held true.
+
+It obviously couldn’t hold true, which had interesting implications they just weren’t equipped to delve into, but the biggest question was if rifts were more efficient at converting mana to essence than simple gravitational pressure was?
+
+The answer seemed like a simple yes, but if that was true, it could have massive changes on how planets were Tiered up.
+
+The current safest method was to just slowly release mana into the planet. While charging rifts was considered a faster but more dangerous method, no one had ever called it a cheaper method. And if their theory held true, it should have had a noticeable difference in cost. Unless there was another variable they didn’t understand, which was more than possible.
+
+Still, it was a big enough discovery that Matt shot the Emperor a message after they had exhausted what information they could with their operation.
+
+He a few hours later he got a message back explaining that they knew of the function and it mostly came down rifts converting mana to essence near instantly compared to a planet's decades. Further, rifts didn't need the very large critical mass of mana a planet needed to initiate the conversion as even once that threshold was reached, only the excess mana above it could be converted before the process stalled out. Something that had been known to happen when the mana gathering enchantments on high Tier worlds were made too aggressive, and started actively plumbing the depths for mana rather than using what naturally reaches the surface. The consequences to the ecosystem of such a planet make the practice quite illegal.
+
+Matt was a little let down. He wasn't discovering things left and right, but it was also realistic, and he had been warned by everyone that science was all about failures and he should get used to them.
+
+Titan’s Torch was meant to simplify aperology, and while Matt would eventually circle around to this information, he didn’t have time for it now.
+
+Instead, they needed to get back to trying to simplify the aura rifts. Matt wanted something to show the rest of the guild members who should be arriving in the coming days.
