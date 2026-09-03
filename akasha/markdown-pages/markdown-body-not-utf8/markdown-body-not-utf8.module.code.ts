@@ -1,6 +1,6 @@
 import { leadingBytes } from "@akasha/code-system/utf8-body"
-import { refusalText } from "@akasha/markdown-pages/refusal-text"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { refusalText } from "../markdown-refusal-text/markdown-refusal-text.module.code.ts"
 
 export function notUtf8(source: string, bytes: Uint8Array): string {
   return refusalText(

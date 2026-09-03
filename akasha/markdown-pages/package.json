@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./attachment-file": "./markdown-attachment-file/markdown-attachment-file.module.code.ts",
+    "./body-not-utf8": "./markdown-body-not-utf8/markdown-body-not-utf8.module.code.ts",
     "./document-frontmatter": "./markdown-document-frontmatter/markdown-document-frontmatter.module.code.ts",
     "./document-holes": "./markdown-document-holes/markdown-document-holes.module.code.ts",
     "./document-position": "./markdown-document-position/markdown-document-position.module.code.ts",

@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { decodeUtf8 } from "@akasha/code-system/utf8-body"
+import { notUtf8 } from "@akasha/markdown-pages/body-not-utf8"
 import {
   AKASHA,
   addressableNamed,
@@ -11,7 +12,6 @@ import {
 import type { Repo as Addressable, Repo } from "@akasha/pages-system/markdown-document"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { fail } from "./command.ts"
-import { notUtf8 } from "./utf8-body.ts"
 
 const STANDALONE = [
   "--dry-run",
