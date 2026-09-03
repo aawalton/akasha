@@ -6,7 +6,4 @@ export const akashaMigration = {
   slug: "akasha-migration",
   domainSlug: "domain/akasha-migration",
   personaSlug: "akasha",
-  constraints: [
-    "The initiatives under this one are the states the migration passes through, standing in the order it passes through them.",
-  ],
 } as const satisfies Initiative
