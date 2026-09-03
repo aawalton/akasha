@@ -53,6 +53,7 @@ export const alanHarness = {
     "workspace-package/browser-test-harness",
     "workspace-package/object-store",
     "workspace-package/mobile-cli",
+    "workspace-package/rules-engine",
   ],
   invariants: [
     {

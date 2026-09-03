@@ -938,6 +938,9 @@
         "@akasha/utils-run": "workspace:*",
       },
     },
+    "akasha/rules-engine": {
+      "name": "@akasha/rules-engine",
+    },
     "akasha/seat-system": {
       "name": "@akasha/seat-system",
       "dependencies": {
@@ -3358,6 +3361,8 @@
     "@akasha/recurrence": ["@akasha/recurrence@workspace:akasha/recurrence"],
 
     "@akasha/reminder-system": ["@akasha/reminder-system@workspace:akasha/reminder-system"],
+
+    "@akasha/rules-engine": ["@akasha/rules-engine@workspace:akasha/rules-engine"],
 
     "@akasha/seat-system": ["@akasha/seat-system@workspace:akasha/seat-system"],
 

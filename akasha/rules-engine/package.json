@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/rules-engine",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./rule-conditions": "./rule-conditions/rule-conditions.module.code.ts",
+    "./rule-partition": "./rule-partition/rule-partition.module.code.ts",
+    "./rule-vocabulary": "./rule-vocabulary/rule-vocabulary.module.code.ts"
+  }
+}
