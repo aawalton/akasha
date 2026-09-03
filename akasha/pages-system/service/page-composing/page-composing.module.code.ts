@@ -112,7 +112,7 @@ export function composedFor(root: string, named: Naming): Composed {
   const beside = held === undefined && besideItsPage(root, carried)
   const at = held ?? pathFor(typeAt, plural ?? "", named.pageTypeSlug, named.slug, beside)
   const was = held === undefined ? null : valueAt(held, root)
-  const already: Value = {}
+  const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}
   const inside: Value = {}
   for (const one of carried) {

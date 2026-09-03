@@ -160,7 +160,7 @@ export function narrowedFrom(where: PageWhere): Narrowed {
   const held: Record<string, Test> = {}
   for (const condition of where) {
     const lowered = loweredFrom(condition)
-    if ("refused" in lowered) continue
+    if ("refused" in lowered) return lowered
     const already = held[lowered.key]
     if (already === undefined) {
       held[lowered.key] = lowered.test
