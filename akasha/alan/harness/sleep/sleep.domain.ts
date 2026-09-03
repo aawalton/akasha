@@ -6,6 +6,7 @@ export const sleep = {
   slug: "sleep",
   definition: "the hours Alan logs sleeping across a day's stretches",
   partSlugs: [
+    "module/sleep-reading",
     "readout/upkeep-sleep",
     "workstation-service/sleep-reading-service",
     "workstation-service/sleep-relay-service",
