@@ -1,12 +1,11 @@
-
 import {
   classifyTranscriptDelivery,
   type TranscriptOutcome,
-} from "./channel-delivery-classify.ts"
+} from "@akasha/seat-system/channel-delivery"
 import {
-  type ClaimedCandidate as RuleCandidate,
   type ClaimedRedeliveryDecision,
   decideClaimedRedelivery,
+  type ClaimedCandidate as RuleCandidate,
 } from "./decide-claimed-redelivery.ts"
 import { redeliveryHoldoff } from "./supervisor-redelivery-holdoff.ts"
 

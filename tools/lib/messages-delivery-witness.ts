@@ -7,9 +7,7 @@ import {
   type DeliveryRecord,
   type DeliveryVerdict,
   readDeliveryRecords,
-} from "./channel-delivery-classify.ts"
-
-
+} from "@akasha/seat-system/channel-delivery"
 
 export const WITNESS_OBSERVATION_LIMIT = 3
 
