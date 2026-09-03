@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const wyrmpactKing = {
   id: "01a0657e-0272-7d6c-9bea-9f4592bb65e3",

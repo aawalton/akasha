@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const warmages = {
   id: "01a06586-0a72-7ab5-b1b6-bdc2f05b5a9b",

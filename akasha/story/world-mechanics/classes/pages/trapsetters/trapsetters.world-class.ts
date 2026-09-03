@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const trapsetters = {
   id: "01a06586-0a6b-7d89-a500-47602ad9cd4f",

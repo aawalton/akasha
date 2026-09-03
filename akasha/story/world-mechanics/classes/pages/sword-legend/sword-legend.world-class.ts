@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const swordLegend = {
   id: "01a06586-0a61-7b34-b31d-67cc608dd49a",

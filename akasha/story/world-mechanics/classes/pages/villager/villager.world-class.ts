@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const villager = {
   id: "01a06586-0a70-73f0-b927-b242b9b1c099",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const templar = {
   id: "01a06586-0a64-7f54-b781-73dce622c614",

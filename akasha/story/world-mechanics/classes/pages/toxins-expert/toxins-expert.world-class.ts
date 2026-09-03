@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const toxinsExpert = {
   id: "01a06586-0a69-710b-965a-81807d21cf0a",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const weaponsTrainer = {
   id: "01a0657e-0271-7020-b35f-732b36990129",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const thousandFootJavelineerMajor = {
   id: "01a06586-0a67-7898-a44d-a9d7d06a7600",

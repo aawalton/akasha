@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const timeMages = {
   id: "01a06586-0a68-7a17-beea-85598801397d",

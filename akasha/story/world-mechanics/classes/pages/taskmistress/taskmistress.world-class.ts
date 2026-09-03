@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const taskmistress = {
   id: "01a06586-0a63-74e4-9716-7ae1b4d2fa9e",

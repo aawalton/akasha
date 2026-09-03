@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.ts"
+import type { WorldClass } from "../world-class.page-type.ts"
 
 export const trapRogue = {
   id: "01a06586-0a6b-7912-9cfc-432599fd7bc3",

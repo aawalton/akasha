@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const zVNa = {
   id: "01a0657e-0272-7b57-84a4-1fde25335894",

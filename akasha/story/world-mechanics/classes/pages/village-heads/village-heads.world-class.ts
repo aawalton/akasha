@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const villageHeads = {
   id: "01a06586-0a70-7b84-b315-bb776927d0bf",

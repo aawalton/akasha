@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const waterMage = {
   id: "01a0657e-0271-73ae-9ce8-b889937ea901",

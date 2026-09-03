@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const tribalChieftain = {
   id: "01a06586-0a6c-7d7d-bb55-ae66997672df",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const thaumaturge = {
   id: "01a06586-0a65-79a0-b196-edef21fa8308",

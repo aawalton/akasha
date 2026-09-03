@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../../world-class.page-type.ts"
+import type { WorldClass } from "../../world-class.page-type.ts"
 
 export const viceInnkeeperOfSpells = {
   id: "01a06586-0a6f-7d47-8688-6f29f8736e29",
