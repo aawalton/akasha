@@ -302,7 +302,7 @@
 {"id":"01a0657e-0231-70ca-af0a-6631565fa841","chapterSlug":"rw10-23 LMGY","paragraph":625,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-773e-84a7-ee45b76ec202","chapterSlug":"rw10-39 YN","paragraph":313,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-7245-a8e2-64c8aee4017f","chapterSlug":"rw10-39 YN","paragraph":617,"wording":"[Merchants]","event":"named"}
-{"id":"01a0657e-0231-7572-a4fd-c83272985d30","chapterSlug":"rw10-39 YN","paragraph":637,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"Ylawes","holderQuote":"we have one of the [Merchants] who was with the Consortium. Merchant Anlam."}
+{"id":"01a0657e-0231-7572-a4fd-c83272985d30","chapterSlug":"rw10-39 YN","paragraph":637,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"ylawes","holderQuote":"we have one of the [Merchants] who was with the Consortium. Merchant Anlam."}
 {"id":"01a0657e-0231-7f85-aa2f-802de55582c7","chapterSlug":"rw10-39 YN","paragraph":726,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-7280-9858-a1b6e2d177fb","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":370,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-7d1c-844d-cb9d0c16edbd","chapterSlug":"rwInterlude - The Spitoon","paragraph":22,"wording":"[Merchants]","event":"named"}
@@ -357,7 +357,7 @@
 {"id":"01a0657e-0231-73c3-8de2-10a43b2c3bf9","chapterSlug":"rw10-61 Y","paragraph":59,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-7ae9-8215-2c49905d8227","chapterSlug":"rw10-61 Y","paragraph":69,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-7163-a27b-58bb30f58b84","chapterSlug":"rw10-61 Y","paragraph":70,"wording":"[Merchants]","event":"named"}
-{"id":"01a0657e-0231-7d36-8fbf-2eb27adaf286","chapterSlug":"rw10-61 Y","paragraph":89,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"Brevess","holderQuote":"Merchant Brevess, one of the top [Merchants] in Zeres!"}
+{"id":"01a0657e-0231-7d36-8fbf-2eb27adaf286","chapterSlug":"rw10-61 Y","paragraph":89,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"brevess","holderQuote":"Merchant Brevess, one of the top [Merchants] in Zeres!"}
 {"id":"01a0657e-0231-70ad-a6ab-7437c955e801","chapterSlug":"rw10-61 Y","paragraph":94,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-7941-bf3d-1a37da1b8ed7","chapterSlug":"rw10-61 Y","paragraph":169,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0231-7f73-819e-8cc9de262753","chapterSlug":"rw10-61 Y","paragraph":178,"wording":"[Merchants]","event":"named"}
@@ -467,7 +467,7 @@
 {"id":"01a0657e-0232-7e7a-afc0-3a4b3842e5f2","chapterSlug":"rw10-01 L","paragraph":1500,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-739b-9fee-8e4151959f25","chapterSlug":"rw10-35 (Pt. 1)","paragraph":688,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-71e6-9ba9-a5af1a38cd0a","chapterSlug":"rw10-05","paragraph":132,"wording":"[Merchants]","event":"named"}
-{"id":"01a0657e-0232-780e-96f1-4e1a734d122b","chapterSlug":"rw9-65","paragraph":554,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"Vetn"}
+{"id":"01a0657e-0232-780e-96f1-4e1a734d122b","chapterSlug":"rw9-65","paragraph":554,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"vetn"}
 {"id":"01a0657e-0232-71fc-b483-2e4c250c9be4","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":817,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-75b7-8412-eb6bd1742e7b","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":817,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-7e8c-9b73-3a2e89d323df","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":822,"wording":"[Merchants]","event":"named"}
@@ -489,7 +489,7 @@
 {"id":"01a0657e-0232-7ba1-b1b5-d4ecf203a844","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1531,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-7641-82d0-960bc9788e05","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1531,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-7fd6-895e-eec3f710cdcb","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1543,"wording":"[Merchants]","event":"named"}
-{"id":"01a0657e-0232-744d-8d65-726c9e2fc2e1","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1723,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"Yerham","holderQuote":"Why, anything of value, Watch Captain. You know us [Merchants]."}
+{"id":"01a0657e-0232-744d-8d65-726c9e2fc2e1","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1723,"wording":"[Merchants]","event":"named","claimed":true,"claimedBySlug":"yerham","holderQuote":"Why, anything of value, Watch Captain. You know us [Merchants]."}
 {"id":"01a0657e-0232-76ba-8f9e-14bccef2001c","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1751,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-7875-9fd9-e6ea1f0322bf","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":378,"wording":"[Merchants]","event":"named"}
 {"id":"01a0657e-0232-7512-861b-2cf75968f18a","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":1097,"wording":"[Merchants]","event":"named"}

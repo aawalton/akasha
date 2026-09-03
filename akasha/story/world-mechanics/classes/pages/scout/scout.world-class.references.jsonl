@@ -57,13 +57,13 @@
 {"id":"01a06586-0a2b-7def-925e-e059378c420f","chapterSlug":"rw4-00 K","paragraph":348,"wording":"[Scout]","event":"named","holderSlug":"gazi","holderQuote":"Orthenon managed things. Mars fought in the army. But Gazi…she was a [Scout], but why would a [Scout] be one of the King’s Seven?"}
 {"id":"01a06586-0a2b-7b00-b3be-374a6f9eb562","chapterSlug":"rw4-06 KM","paragraph":164,"wording":"[Scout]","event":"named","holderSlug":"gazi","claimed":true,"claimedBySlug":"gazi","holderQuote":"I am a [Scout]. Not a specialized class."}
 {"id":"01a06586-0a2b-7b8c-ba67-af049091268a","chapterSlug":"rw4-04 K","paragraph":225,"wording":"[Scout]","event":"named"}
-{"id":"01a06586-0a2b-701e-87f1-d584a49f4167","chapterSlug":"rw4-04 K","paragraph":247,"wording":"[Scout]","event":"named","holderSlug":"gazi","claimed":true,"claimedBySlug":"Flos","holderQuote":"I hate to ask it of you, Gazi, but you are our highest-level [Scout]"}
+{"id":"01a06586-0a2b-701e-87f1-d584a49f4167","chapterSlug":"rw4-04 K","paragraph":247,"wording":"[Scout]","event":"named","holderSlug":"gazi","claimed":true,"claimedBySlug":"flos","holderQuote":"I hate to ask it of you, Gazi, but you are our highest-level [Scout]"}
 {"id":"01a06586-0a2b-7471-ab08-094c16b5fc14","chapterSlug":"rw4-04 K","paragraph":297,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-7de3-9525-308488ae762a","chapterSlug":"rw4-04 K","paragraph":480,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-76f4-9840-2630e2ee0e3b","chapterSlug":"rw4-26 M","paragraph":169,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-7f06-b71f-a39933dcc75e","chapterSlug":"rw4-26 M","paragraph":301,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-7fdc-8a0b-862bb5e05c83","chapterSlug":"rw4-26 M","paragraph":302,"wording":"[Scout]","event":"named"}
-{"id":"01a06586-0a2b-7b2f-8e97-2127212c3982","chapterSlug":"rw4-26 M","paragraph":306,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"Ulrien","holderQuote":"There’s a [Scout] in my party, Halrac Everam. He might be able to do it, but I’d hate to risk him as well."}
+{"id":"01a06586-0a2b-7b2f-8e97-2127212c3982","chapterSlug":"rw4-26 M","paragraph":306,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"ulrien","holderQuote":"There’s a [Scout] in my party, Halrac Everam. He might be able to do it, but I’d hate to risk him as well."}
 {"id":"01a06586-0a2b-7010-b75f-29b3b819f6a2","chapterSlug":"rw4-31","paragraph":250,"wording":"[Scout]","event":"named","holderQuote":"That was all Halrac said in the morning, when he finally came down."}
 {"id":"01a06586-0a2b-7c6d-9c27-15e92550e7b7","chapterSlug":"rw4-27 H","paragraph":224,"wording":"[Scout]","event":"named","holderQuote":"Halrac came over. The [Scout] didn’t speak much, but apparently he was familiar with this sort of request."}
 {"id":"01a06586-0a2b-7363-90c5-0470ec2d4cea","chapterSlug":"rw4-19","paragraph":39,"wording":"[Scout]","event":"named","holderSlug":"halrac","holderQuote":"Revi and Ulrien just stared at Halrac. The [Scout] didn’t really need an answer either."}
@@ -195,7 +195,7 @@
 {"id":"01a06586-0a2b-7219-9899-7de8815a254a","chapterSlug":"rw6-23 D","paragraph":359,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-7f4f-ab49-7d5d127e8891","chapterSlug":"rw6-23 D","paragraph":589,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-78f0-9b97-f2ab85bded3f","chapterSlug":"rw6-56","paragraph":625,"wording":"[Scout]","event":"named","holderQuote":"Hissle. Don’t laugh. I’m a [Pathfinder]. Is this your team?"}
-{"id":"01a06586-0a2b-7f16-9f1a-ff92585a6316","chapterSlug":"rw7-01","paragraph":528,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"Sixt","holderQuote":"“[Scout] Sixt, Watch Captain! I spot a large number of shapes headed this way! It’s at the edge of my vision, but whatever it is, they’re large.”"}
+{"id":"01a06586-0a2b-7f16-9f1a-ff92585a6316","chapterSlug":"rw7-01","paragraph":528,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"sixt","holderQuote":"“[Scout] Sixt, Watch Captain! I spot a large number of shapes headed this way! It’s at the edge of my vision, but whatever it is, they’re large.”"}
 {"id":"01a06586-0a2b-7cef-845d-88b52e6125d7","chapterSlug":"rw7-01","paragraph":537,"wording":"[Scout]","event":"named","holderQuote":"The [Scout], Sixt, looked past both Watch Captain and Day Strategist, pretending not to hear or see them for a moment."}
 {"id":"01a06586-0a2b-7862-bfb3-22c4836c3f56","chapterSlug":"rw7-01","paragraph":544,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-7679-89a0-677c4c9a4dfe","chapterSlug":"rw7-01","paragraph":545,"wording":"[Scout]","event":"named","holderQuote":"The [Strategist] briskly turned to [Scout] Sixt."}
@@ -205,7 +205,7 @@
 {"id":"01a06586-0a2b-7c1d-9e74-4b63a43208b9","chapterSlug":"rw7-09 K","paragraph":1266,"wording":"[Scout]","event":"named","holderSlug":"gazi-pathseeker","holderQuote":"The dwellers of the Tombhome flinched backwards, crying out at the unwelcome brightness. The beam fell on them as Gazi’s eye turned. Trey saw a flash, and then the half-Gazer, the [Scout], Gazi the Omniscient, moved."}
 {"id":"01a06586-0a2b-7153-b310-219c35c9f352","chapterSlug":"rw6-67","paragraph":97,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-74f9-b5fa-bc33208895d0","chapterSlug":"rw6-68","paragraph":220,"wording":"[Scout]","event":"named","holderQuote":"Orthenon glanced at Gazi, keenly aware of how good her four lesser eyes were, never mind her injured main eye. The [Scout] grinned."}
-{"id":"01a06586-0a2b-72f4-819a-ed8c89f5be37","chapterSlug":"rw6-62 L","paragraph":505,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"Hissle","holderQuote":"“My name’s Hissle. Please don’t laugh. I’m working with your team today.”"}
+{"id":"01a06586-0a2b-72f4-819a-ed8c89f5be37","chapterSlug":"rw6-62 L","paragraph":505,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"hissle","holderQuote":"“My name’s Hissle. Please don’t laugh. I’m working with your team today.”"}
 {"id":"01a06586-0a2b-7b92-a0d8-b060305789e6","chapterSlug":"rw6-62 L","paragraph":547,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-7ebc-858b-fffd93c10ef9","chapterSlug":"rw6-62 L","paragraph":557,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-74f4-bb61-350a5bf90038","chapterSlug":"rw6-62 L","paragraph":562,"wording":"[Scout]","event":"named"}
@@ -272,7 +272,7 @@
 {"id":"01a06586-0a2b-7787-91d2-68217dd92032","chapterSlug":"rw7-27","paragraph":489,"wording":"[Scout]","event":"named","holderQuote":"The old man gave Halrac a knowing glance. And the [Scout] himself hesitated."}
 {"id":"01a06586-0a2b-712b-ad5a-f76cbb87cc1c","chapterSlug":"rw7-26","paragraph":1223,"wording":"[Scout]","event":"named","holderQuote":"there was Halrac"}
 {"id":"01a06586-0a2b-757d-b77f-0dca3fb3ffe3","chapterSlug":"rw7-26","paragraph":1225,"wording":"[Scout]","event":"named","holderQuote":"Then he saw the game of football. Erin pointed at it. Palt was running down the field, trying to kick the ball, but the Centaur’s legs weren’t exactly good for the game. Still—he was fast. And there was Halrac. Palt passed to him—the [Scout] kicked the ball. And refused to run."}
-{"id":"01a06586-0a2b-774b-a144-9442d137dceb","chapterSlug":"rw7-26","paragraph":1397,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"Yvlon","holderQuote":"“I’m too slow. Get—Briganda? Halrac? Halrac! Switch with Moore!”"}
+{"id":"01a06586-0a2b-774b-a144-9442d137dceb","chapterSlug":"rw7-26","paragraph":1397,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"yvlon","holderQuote":"“I’m too slow. Get—Briganda? Halrac? Halrac! Switch with Moore!”"}
 {"id":"01a06586-0a2b-7975-ba95-ef533345825a","chapterSlug":"rw7-34 C","paragraph":1082,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"huntress-delezza","holderQuote":"He’s a wonderful [Scout]."}
 {"id":"01a06586-0a2b-7436-a70f-afaba78c65e0","chapterSlug":"rw7-37","paragraph":443,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2b-7a65-83b5-7f378a24290f","chapterSlug":"rw7-55 E","paragraph":350,"wording":"[Scout]","event":"named","holderSlug":"halrac","holderQuote":"Especially from Halrac. She beamed as the [Scout], of his own volition, took another spoonful."}
@@ -319,9 +319,9 @@
 {"id":"01a06586-0a2c-7dc6-97fe-75a7b82ec247","chapterSlug":"rwInterlude -- Songs and Wands","paragraph":843,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2c-7267-b826-9dc78b032a71","chapterSlug":"rw10-13","paragraph":1766,"wording":"[Scout]","event":"named"}
 {"id":"01a06586-0a2c-792b-9785-f15683ed7248","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":414,"wording":"[Scout]","event":"named"}
-{"id":"01a06586-0a2c-77c9-b2c3-7bc7debae9f2","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1180,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"Lagister","holderQuote":"our lead [Scout], Merwinkle"}
-{"id":"01a06586-0a2c-757a-9d80-9496588b9aff","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1181,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"Lagister","holderQuote":"our lead [Scout], Merwinkle"}
-{"id":"01a06586-0a2c-7eca-a08a-2c3793862356","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1186,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"Lagister","holderQuote":"our lead [Scout], Merwinkle"}
+{"id":"01a06586-0a2c-77c9-b2c3-7bc7debae9f2","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1180,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"lagister","holderQuote":"our lead [Scout], Merwinkle"}
+{"id":"01a06586-0a2c-757a-9d80-9496588b9aff","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1181,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"lagister","holderQuote":"our lead [Scout], Merwinkle"}
+{"id":"01a06586-0a2c-7eca-a08a-2c3793862356","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1186,"wording":"[Scout]","event":"named","claimed":true,"claimedBySlug":"lagister","holderQuote":"our lead [Scout], Merwinkle"}
 {"id":"01a06586-0a2c-7922-ad68-5e11d28e7800","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":1194,"wording":"[Scout]","event":"named","holderQuote":"That surprised the [Scout], who was Human and peered at Saliss."}
 {"id":"01a06586-0a2c-7b0f-9b39-eb0705878fa4","chapterSlug":"rw9-41 (Pt. 3)","paragraph":2104,"wording":"[Scout]","event":"named","holderQuote":"Halrac switched quivers."}
 {"id":"01a06586-0a2c-72b8-bd7a-49f68249871b","chapterSlug":"rw10-60 YN","paragraph":2190,"wording":"[Scout]","event":"named"}

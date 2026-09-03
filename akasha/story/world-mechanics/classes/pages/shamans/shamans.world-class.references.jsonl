@@ -71,7 +71,7 @@
 {"id":"01a0657e-0253-7615-a0c9-b08aab9706e1","chapterSlug":"rw7-32 D","paragraph":508,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7470-896e-2f8e2fb7d200","chapterSlug":"rw7-35 C","paragraph":416,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-713e-8151-bb3d89c0dcb1","chapterSlug":"rw7-35 C","paragraph":890,"wording":"[Shamans]","event":"named"}
-{"id":"01a0657e-0253-7343-8a2a-eb32e8a68f57","chapterSlug":"rw7-36 C","paragraph":633,"wording":"[Shamans]","event":"named","holderSlug":"merish","claimed":true,"claimedBySlug":"Merish","holderQuote":"Merish panted."}
+{"id":"01a0657e-0253-7343-8a2a-eb32e8a68f57","chapterSlug":"rw7-36 C","paragraph":633,"wording":"[Shamans]","event":"named","holderSlug":"merish","claimed":true,"claimedBySlug":"merish","holderQuote":"Merish panted."}
 {"id":"01a0657e-0253-7f76-b0c3-4d2c2cf2fc4d","chapterSlug":"rw7-36 C","paragraph":648,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-74fc-8b15-b49de19ac042","chapterSlug":"rw7-36 C","paragraph":768,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7adb-83c9-833217b4ff48","chapterSlug":"rw7-43 G","paragraph":450,"wording":"[Shamans]","event":"named"}
@@ -175,8 +175,8 @@
 {"id":"01a0657e-0253-7131-97a3-e3a343a79744","chapterSlug":"rw8-38 H","paragraph":16,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7d10-9f21-685f0643a934","chapterSlug":"rw8-46 G","paragraph":1389,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7385-9082-f5ab7e4058ee","chapterSlug":"rw8-52 MN","paragraph":5,"wording":"[Shamans]","event":"named"}
-{"id":"01a0657e-0253-7e40-90b0-0c6632a715fd","chapterSlug":"rw8-52 MN","paragraph":1050,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"Ulvama"}
-{"id":"01a0657e-0253-7331-baca-1a46fb6c884d","chapterSlug":"rw8-52 MN","paragraph":1215,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"Feshi"}
+{"id":"01a0657e-0253-7e40-90b0-0c6632a715fd","chapterSlug":"rw8-52 MN","paragraph":1050,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"ulvama"}
+{"id":"01a0657e-0253-7331-baca-1a46fb6c884d","chapterSlug":"rw8-52 MN","paragraph":1215,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"feshi"}
 {"id":"01a0657e-0253-7693-8e3a-575dcc569629","chapterSlug":"rw8-60","paragraph":1190,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7662-8246-f6fb3019ea10","chapterSlug":"rw8-60","paragraph":1191,"wording":"[Shamans]","event":"named","holderQuote":"Not just because necessity demanded honoring Theikha, but because they wanted to meet one of the oldest [Shamans] themselves."}
 {"id":"01a0657e-0253-73b4-83c4-a131009094ab","chapterSlug":"rw8-65","paragraph":391,"wording":"[Shamans]","event":"named"}
@@ -213,7 +213,7 @@
 {"id":"01a0657e-0253-7de7-aa1a-5dfbdb36be01","chapterSlug":"rwInterlude - Satar","paragraph":1157,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-79d6-9187-1c18a0e8257e","chapterSlug":"rwInterlude - Satar","paragraph":1297,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7964-8975-f3cd51e7b954","chapterSlug":"rwInterlude - Satar","paragraph":1304,"wording":"[Shamans]","event":"named","holderSlug":"theikha","holderQuote":"well, Satar hoped Theikha wouldn’t say anything grisly."}
-{"id":"01a0657e-0253-76e4-a151-0adc832a4ca7","chapterSlug":"rwInterlude - Satar","paragraph":1815,"wording":"[Shamans]","event":"named","holderSlug":"theikha","claimed":true,"claimedBySlug":"Theikha","holderQuote":"Theikha winked one huge, brown eye, and left her tent."}
+{"id":"01a0657e-0253-76e4-a151-0adc832a4ca7","chapterSlug":"rwInterlude - Satar","paragraph":1815,"wording":"[Shamans]","event":"named","holderSlug":"theikha","claimed":true,"claimedBySlug":"theikha","holderQuote":"Theikha winked one huge, brown eye, and left her tent."}
 {"id":"01a0657e-0253-75a3-8e43-e75b40d53c4d","chapterSlug":"rwInterlude - Satar","paragraph":1830,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-72dd-a00b-0e6e6165dbbc","chapterSlug":"rwInterlude - Satar","paragraph":1843,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-71a2-8c9a-6a6ca0554593","chapterSlug":"rw8-66","paragraph":57,"wording":"[Shamans]","event":"named"}
@@ -270,7 +270,7 @@
 {"id":"01a0657e-0253-7144-8327-54781ba116a0","chapterSlug":"rw8-79","paragraph":869,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7a59-a32f-ef65852bd55a","chapterSlug":"rw8-79","paragraph":1002,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7410-9bb4-a4434a00edcf","chapterSlug":"rw8-79","paragraph":1010,"wording":"[Shamans]","event":"named"}
-{"id":"01a0657e-0253-7a00-b202-89b2f5805546","chapterSlug":"rw8-79","paragraph":1081,"wording":"[Shamans]","event":"named","holderSlug":"theikha","claimed":true,"claimedBySlug":"Xherw","holderQuote":"Great Shaman Theikha herself"}
+{"id":"01a0657e-0253-7a00-b202-89b2f5805546","chapterSlug":"rw8-79","paragraph":1081,"wording":"[Shamans]","event":"named","holderSlug":"theikha","claimed":true,"claimedBySlug":"xherw","holderQuote":"Great Shaman Theikha herself"}
 {"id":"01a0657e-0253-734d-8300-aebcf089bac7","chapterSlug":"rw8-79","paragraph":1169,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-716f-bed2-6c7d56fd4303","chapterSlug":"rw8-79","paragraph":1290,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7a35-aea5-bed5a9294393","chapterSlug":"rw8-84","paragraph":168,"wording":"[Shamans]","event":"named"}
@@ -303,7 +303,7 @@
 {"id":"01a0657e-0253-720a-a1e9-90b9ca818028","chapterSlug":"rw10-39 YN","paragraph":1776,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7f6d-9504-31020c6b4b6a","chapterSlug":"rw10-39 YN","paragraph":1776,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-77d4-a9a7-84c6161624a3","chapterSlug":"rw10-30 GGMG","paragraph":1274,"wording":"[Shamans]","event":"named"}
-{"id":"01a0657e-0253-7406-a854-f53541d4617e","chapterSlug":"rw10-24 E","paragraph":252,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"Revoid"}
+{"id":"01a0657e-0253-7406-a854-f53541d4617e","chapterSlug":"rw10-24 E","paragraph":252,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"revoid"}
 {"id":"01a0657e-0253-75b2-a141-8c65dcc51763","chapterSlug":"rw10-24 E","paragraph":1059,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7dc3-a7d8-4b9d6d9294ab","chapterSlug":"rw10-38 E","paragraph":623,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-78e1-8f71-3cd2432ef418","chapterSlug":"rw10-38 E","paragraph":747,"wording":"[Shamans]","event":"named"}
@@ -316,9 +316,9 @@
 {"id":"01a0657e-0253-7c5e-b487-6d4f0e617e51","chapterSlug":"rwInterlude - Trade and Travel","paragraph":1285,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7449-96db-41231a4c559a","chapterSlug":"rwInterlude - Trade and Travel","paragraph":1655,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7111-a73c-b02e9c470666","chapterSlug":"rw10-17","paragraph":595,"wording":"[Shamans]","event":"named"}
-{"id":"01a0657e-0253-7f5d-8bb6-5da972a60bce","chapterSlug":"rw10-17","paragraph":1087,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"Satar"}
-{"id":"01a0657e-0253-7368-abdb-ef6a52371d6b","chapterSlug":"rw10-17","paragraph":1094,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"Theikha"}
-{"id":"01a0657e-0253-76ed-8279-c4532a440e94","chapterSlug":"rw10-17","paragraph":1123,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"Corregrione"}
+{"id":"01a0657e-0253-7f5d-8bb6-5da972a60bce","chapterSlug":"rw10-17","paragraph":1087,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"satar"}
+{"id":"01a0657e-0253-7368-abdb-ef6a52371d6b","chapterSlug":"rw10-17","paragraph":1094,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"theikha"}
+{"id":"01a0657e-0253-76ed-8279-c4532a440e94","chapterSlug":"rw10-17","paragraph":1123,"wording":"[Shamans]","event":"named","claimed":true,"claimedBySlug":"corregrione"}
 {"id":"01a0657e-0253-76be-802c-cd1ac9b9a68a","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":450,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-78b8-9323-1f0d87e5eece","chapterSlug":"rw9-49","paragraph":412,"wording":"[Shamans]","event":"named"}
 {"id":"01a0657e-0253-7d20-9322-d26e6b2a8b28","chapterSlug":"rw10-32 (Pt. 1)","paragraph":215,"wording":"[Shamans]","event":"named"}

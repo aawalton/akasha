@@ -153,8 +153,8 @@
 {"id":"01a0657e-139f-7339-bdff-56d3a7e393ec","chapterSlug":"rw10-58 FP","paragraph":2841,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-755a-9e4c-f787d42db74f","chapterSlug":"rw9-54 C","paragraph":1033,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7c1c-96c4-a55aaada0fb9","chapterSlug":"rw9-59 O","paragraph":69,"wording":"[Mercenaries]","event":"named"}
-{"id":"01a0657e-139f-73f2-a72d-4ba460cc3971","chapterSlug":"rw9-50","paragraph":218,"wording":"[Mercenaries]","event":"named","holderSlug":"wer-the-wanderer","claimed":true,"claimedBySlug":"Wer the Wanderer","holderQuote":"I brought potions, supplies, and even hired [Mercenaries] one time"}
-{"id":"01a0657e-139f-7be8-b521-a36bd857ab15","chapterSlug":"rw9-50","paragraph":223,"wording":"[Mercenaries]","event":"named","holderSlug":"wer-the-wanderer","claimed":true,"claimedBySlug":"Wer the Wanderer","holderQuote":"I hired Gold-rank [Mercenaries], and they went off exploring for an hour"}
+{"id":"01a0657e-139f-73f2-a72d-4ba460cc3971","chapterSlug":"rw9-50","paragraph":218,"wording":"[Mercenaries]","event":"named","holderSlug":"wer-the-wanderer","claimed":true,"claimedBySlug":"wer-the-wanderer","holderQuote":"I brought potions, supplies, and even hired [Mercenaries] one time"}
+{"id":"01a0657e-139f-7be8-b521-a36bd857ab15","chapterSlug":"rw9-50","paragraph":223,"wording":"[Mercenaries]","event":"named","holderSlug":"wer-the-wanderer","claimed":true,"claimedBySlug":"wer-the-wanderer","holderQuote":"I hired Gold-rank [Mercenaries], and they went off exploring for an hour"}
 {"id":"01a0657e-139f-75a4-84ab-325c2a1abb32","chapterSlug":"rw10-60 YN","paragraph":544,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7828-a653-6d81932b5b95","chapterSlug":"rw10-48 VS","paragraph":1820,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-709c-a5cc-e770674c0ec6","chapterSlug":"rw9-25","paragraph":236,"wording":"[Mercenaries]","event":"named"}
@@ -185,14 +185,14 @@
 {"id":"01a0657e-139f-7c24-b8db-9bd312aa10c7","chapterSlug":"rw10-06","paragraph":600,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-772c-a1ef-8cfcc4352634","chapterSlug":"rw10-06","paragraph":603,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-71fa-ae77-cd97d7d512b2","chapterSlug":"rw10-06","paragraph":637,"wording":"[Mercenaries]","event":"named"}
-{"id":"01a0657e-139f-7165-94ee-0e2f3ffebbd0","chapterSlug":"rw10-06","paragraph":861,"wording":"[Mercenaries]","event":"named","claimed":true,"claimedBySlug":"Paige","holderQuote":"It’s all [Mercenaries] here"}
-{"id":"01a0657e-139f-7cf2-b553-35917c039d42","chapterSlug":"rw10-06","paragraph":861,"wording":"[Mercenaries]","event":"named","claimed":true,"claimedBySlug":"Paige","holderQuote":"It’s all [Mercenaries] here"}
+{"id":"01a0657e-139f-7165-94ee-0e2f3ffebbd0","chapterSlug":"rw10-06","paragraph":861,"wording":"[Mercenaries]","event":"named","claimed":true,"claimedBySlug":"paige","holderQuote":"It’s all [Mercenaries] here"}
+{"id":"01a0657e-139f-7cf2-b553-35917c039d42","chapterSlug":"rw10-06","paragraph":861,"wording":"[Mercenaries]","event":"named","claimed":true,"claimedBySlug":"paige","holderQuote":"It’s all [Mercenaries] here"}
 {"id":"01a0657e-139f-7781-8a45-f7f5f58c8716","chapterSlug":"rw10-06","paragraph":1085,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7317-8722-20fae1f84461","chapterSlug":"rw10-07","paragraph":102,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7066-961e-f669b2a54768","chapterSlug":"rw10-62 NY","paragraph":847,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7d7c-971c-bfd40e4fa94a","chapterSlug":"rw10-19 E","paragraph":484,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-70b5-8359-88da1a94fa74","chapterSlug":"rw10-21 E","paragraph":23,"wording":"[Mercenaries]","event":"named"}
-{"id":"01a0657e-139f-7489-83d6-f6c1ca697b47","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":1130,"wording":"[Mercenaries]","event":"named","holderSlug":"merchant-yerham","claimed":true,"claimedBySlug":"Yerham","holderQuote":"Hire [Mercenaries] if you have to."}
+{"id":"01a0657e-139f-7489-83d6-f6c1ca697b47","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":1130,"wording":"[Mercenaries]","event":"named","holderSlug":"merchant-yerham","claimed":true,"claimedBySlug":"yerham","holderQuote":"Hire [Mercenaries] if you have to."}
 {"id":"01a0657e-139f-7420-83e0-61476f2c3822","chapterSlug":"rwInterlude - Saliss the Architect","paragraph":2,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7a09-a582-b854e290dae9","chapterSlug":"rw10-08 (Pt. 1)","paragraph":141,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7510-94c0-ecd0bb04500d","chapterSlug":"rw10-57 F","paragraph":397,"wording":"[Mercenaries]","event":"named"}
@@ -220,7 +220,7 @@
 {"id":"01a0657e-139f-7f8c-80c0-5c68d1c32cdc","chapterSlug":"rw9-38 TV (Pt. 1)","paragraph":1197,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7fd0-ae32-2a3cb3af577b","chapterSlug":"rw9-38 TV (Pt. 1)","paragraph":1427,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-74c1-ab27-37f0bd8f6764","chapterSlug":"rw9-37 HO","paragraph":137,"wording":"[Mercenaries]","event":"named"}
-{"id":"01a0657e-139f-7ae4-a298-d243c8f0b25b","chapterSlug":"rw9-37 HO","paragraph":652,"wording":"[Mercenaries]","event":"named","claimed":true,"claimedBySlug":"Jekilt","holderQuote":"Oh, come on, Professor. Some of us came to you as [Mercenaries]. I was thirty-one when I enrolled here."}
+{"id":"01a0657e-139f-7ae4-a298-d243c8f0b25b","chapterSlug":"rw9-37 HO","paragraph":652,"wording":"[Mercenaries]","event":"named","claimed":true,"claimedBySlug":"jekilt","holderQuote":"Oh, come on, Professor. Some of us came to you as [Mercenaries]. I was thirty-one when I enrolled here."}
 {"id":"01a0657e-139f-75f8-935a-4db2877659ac","chapterSlug":"rw9-40 GG","paragraph":604,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-7ecf-8e47-ffa89236e53f","chapterSlug":"rw9-40 GG","paragraph":630,"wording":"[Mercenaries]","event":"named"}
 {"id":"01a0657e-139f-75ab-9fa4-7c94af7e3d3b","chapterSlug":"rw9-40 GG","paragraph":679,"wording":"[Mercenaries]","event":"named"}

@@ -68,11 +68,11 @@
 {"id":"01a0657e-0247-77bf-b2ba-59a0802cb914","chapterSlug":"rw6-48 T","paragraph":179,"wording":"[Rogue]","event":"named","holderSlug":"insill","holderQuote":"Insill, the Drake [Rogue], stared at the patch of broken stone, perplexed."}
 {"id":"01a0657e-0247-7e81-97d1-88c13612fd7a","chapterSlug":"rw6-48 T","paragraph":279,"wording":"[Rogue]","event":"named","holderSlug":"insill","holderQuote":"Anith took that moment to give Insill a warning look. Both Pekona and Larr did the same, and the Drake [Rogue] bit his lip."}
 {"id":"01a0657e-0247-74cd-90b5-980ca100aa50","chapterSlug":"rw6-48 T","paragraph":610,"wording":"[Rogue]","event":"named","holderSlug":"insill","holderQuote":"Insill smiled back. The Drake [Rogue] edged closer, eying the two dead Ghouls."}
-{"id":"01a0657e-0247-7747-8efb-fec572e801c4","chapterSlug":"rw6-48 T","paragraph":626,"wording":"[Rogue]","event":"named","holderSlug":"insill","claimed":true,"claimedBySlug":"Larr","holderQuote":"Insill complained, looking back from Toren to his team. Larr sighed."}
-{"id":"01a0657e-0247-7af0-9ac8-7316e1d4c951","chapterSlug":"rw6-48 T","paragraph":630,"wording":"[Rogue]","event":"named","holderSlug":"insill","claimed":true,"claimedBySlug":"Larr","holderQuote":"Pekona, Anith, Dasha, and Larr all looked at Insill. He wavered."}
+{"id":"01a0657e-0247-7747-8efb-fec572e801c4","chapterSlug":"rw6-48 T","paragraph":626,"wording":"[Rogue]","event":"named","holderSlug":"insill","claimed":true,"claimedBySlug":"larr","holderQuote":"Insill complained, looking back from Toren to his team. Larr sighed."}
+{"id":"01a0657e-0247-7af0-9ac8-7316e1d4c951","chapterSlug":"rw6-48 T","paragraph":630,"wording":"[Rogue]","event":"named","holderSlug":"insill","claimed":true,"claimedBySlug":"larr","holderQuote":"Pekona, Anith, Dasha, and Larr all looked at Insill. He wavered."}
 {"id":"01a0657e-0247-73cc-9d3e-355e532deb69","chapterSlug":"rw6-48 T","paragraph":775,"wording":"[Rogue]","event":"named","holderSlug":"insill","holderQuote":"Insill, one of his arms free, cut at the other arms, sobbing."}
 {"id":"01a0657e-0247-79ab-8adb-25624aaac358","chapterSlug":"rw6-54 K","paragraph":108,"wording":"[Rogue]","event":"named"}
-{"id":"01a0657e-0247-7ce0-97f1-384561c49784","chapterSlug":"rw6-49","paragraph":285,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Yalla","holderQuote":"“Ooh, Ulseil. You [Rogue]! You’ve been holding out on us!”"}
+{"id":"01a0657e-0247-7ce0-97f1-384561c49784","chapterSlug":"rw6-49","paragraph":285,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"yalla","holderQuote":"“Ooh, Ulseil. You [Rogue]! You’ve been holding out on us!”"}
 {"id":"01a0657e-0247-74fa-89e5-8b4ec5259419","chapterSlug":"rw6-42 E","paragraph":352,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-7c00-b57a-9c62e00eadc9","chapterSlug":"rw6-42 E","paragraph":354,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-7454-adc2-28eef0c197e4","chapterSlug":"rw6-42 E","paragraph":359,"wording":"[Rogue]","event":"named"}
@@ -222,7 +222,7 @@
 {"id":"01a0657e-0247-7628-8b8f-c2fdfe1209d7","chapterSlug":"rw8-46 G","paragraph":991,"wording":"[Rogue]","event":"named","holderQuote":"May I introduce myself? Roell, [Rogue]."}
 {"id":"01a0657e-0247-7f30-96ef-5b9f5326270f","chapterSlug":"rw8-46 G","paragraph":992,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-7342-9d0d-84e639145710","chapterSlug":"rw8-46 G","paragraph":1244,"wording":"[Rogue]","event":"named","holderQuote":"Roell looked over from his dish where he was telling Vinn he’d done a good job, relax, have a drink, go to bed. Rags saw him bow politely."}
-{"id":"01a0657e-0247-78d9-9b5f-c5e9e80aaac7","chapterSlug":"rw8-52 MN","paragraph":1302,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Mrsha"}
+{"id":"01a0657e-0247-78d9-9b5f-c5e9e80aaac7","chapterSlug":"rw8-52 MN","paragraph":1302,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"mrsha"}
 {"id":"01a0657e-0247-7098-a7af-399cccb4bf17","chapterSlug":"rw8-53 FH","paragraph":461,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-7329-956c-0c2d8de11c1f","chapterSlug":"rw8-53 FH","paragraph":466,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-729c-85a0-1e3f36cbf7bf","chapterSlug":"rw8-55 L","paragraph":919,"wording":"[Rogue]","event":"named"}
@@ -230,8 +230,8 @@
 {"id":"01a0657e-0247-7e67-81e8-79ac4ac4073e","chapterSlug":"rw8-76 B","paragraph":66,"wording":"[Rogue]","event":"named","holderSlug":"foliana","holderQuote":"She was a [Rogue]."}
 {"id":"01a0657e-0247-7659-a092-8cd589905246","chapterSlug":"rw8-76 B","paragraph":919,"wording":"[Rogue]","event":"named","holderSlug":"foliana","holderQuote":"She retreated to the top floors and prowled around her shared rooms with Niers"}
 {"id":"01a0657e-0247-729e-9550-9a10cb8200cd","chapterSlug":"rw8-76 B","paragraph":960,"wording":"[Rogue]","event":"named","holderSlug":"foliana","holderQuote":"Foliana might be the greatest [Rogue] on Baleros for all Ekrn knew."}
-{"id":"01a0657e-0247-7725-ba60-dd6a9db52a0e","chapterSlug":"rw8-76 B","paragraph":1149,"wording":"[Rogue]","event":"named","holderSlug":"foliana","claimed":true,"claimedBySlug":"Nobre","holderQuote":"The Force Commander glared at Foliana"}
-{"id":"01a0657e-0247-7406-93aa-d8f5f6acf8cf","chapterSlug":"rw8-76 B","paragraph":1156,"wording":"[Rogue]","event":"named","holderSlug":"foliana","claimed":true,"claimedBySlug":"Gindal","holderQuote":"The Force Commander glared at Foliana"}
+{"id":"01a0657e-0247-7725-ba60-dd6a9db52a0e","chapterSlug":"rw8-76 B","paragraph":1149,"wording":"[Rogue]","event":"named","holderSlug":"foliana","claimed":true,"claimedBySlug":"nobre","holderQuote":"The Force Commander glared at Foliana"}
+{"id":"01a0657e-0247-7406-93aa-d8f5f6acf8cf","chapterSlug":"rw8-76 B","paragraph":1156,"wording":"[Rogue]","event":"named","holderSlug":"foliana","claimed":true,"claimedBySlug":"gindal","holderQuote":"The Force Commander glared at Foliana"}
 {"id":"01a0657e-0247-77b9-a549-e341ce9649be","chapterSlug":"rw8-76 B","paragraph":1271,"wording":"[Rogue]","event":"named","holderSlug":"foliana","holderQuote":"Foliana closed her mouth on Ekrn and then grabbed two of the Fraerlings with her paw."}
 {"id":"01a0657e-0247-75c8-8118-54112049628c","chapterSlug":"rw8-76 B","paragraph":1272,"wording":"[Rogue]","event":"named","holderSlug":"foliana","holderQuote":"Foliana closed her mouth on Ekrn and then grabbed two of the Fraerlings with her paw."}
 {"id":"01a0657e-0247-7bc2-ae92-64d5e6771c6c","chapterSlug":"rw8-76 B","paragraph":1291,"wording":"[Rogue]","event":"named","holderSlug":"foliana","holderQuote":"They hadn’t been sure, and Foliana had been following Fraerlings around trying to see who was doing what."}
@@ -273,7 +273,7 @@
 {"id":"01a0657e-0247-77cc-a877-0e7dca775d97","chapterSlug":"rwInterlude - Adventurers (Pt- 1)","paragraph":184,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-701b-a8c5-c98ff1ea0b16","chapterSlug":"rwInterlude - Adventurers (Pt- 1)","paragraph":190,"wording":"[Rogue]","event":"named","holderQuote":"as Insill came over to offer the Named-rank adventurer a flask of water"}
 {"id":"01a0657e-0247-7051-b2ad-8f346bb8a6ad","chapterSlug":"rwInterlude - Adventurers (Pt- 1)","paragraph":439,"wording":"[Rogue]","event":"named","holderQuote":"Deni had heard that Three-Color Stalker had a pair of blades"}
-{"id":"01a0657e-0247-7e2a-bb73-356cc9bba87c","chapterSlug":"rw9-18 E","paragraph":685,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Typhenous"}
+{"id":"01a0657e-0247-7e2a-bb73-356cc9bba87c","chapterSlug":"rw9-18 E","paragraph":685,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"typhenous"}
 {"id":"01a0657e-0247-7338-aca1-a62eadc553a5","chapterSlug":"rw9-20","paragraph":527,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-7cda-bf43-3ce0ba2238d5","chapterSlug":"rw9-20","paragraph":598,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0247-75d9-b3bd-69def22b23a6","chapterSlug":"rw9-20","paragraph":600,"wording":"[Rogue]","event":"named"}
@@ -335,7 +335,7 @@
 {"id":"01a0657e-0248-7764-b9bc-f4eb9b5f8ad2","chapterSlug":"rw10-30 GGMG","paragraph":1012,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-7fc6-8f65-d3af8430d471","chapterSlug":"rw10-27 GMG","paragraph":310,"wording":"[Rogue]","event":"named","holderQuote":"she still saw the familiar silhouette of Seborn."}
 {"id":"01a0657e-0248-74ec-bb12-6011d5e05af7","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":233,"wording":"[Rogue]","event":"named"}
-{"id":"01a0657e-0248-725c-881e-df742ea58dac","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":246,"wording":"[Rogue]","event":"named","holderSlug":"tissl-venleather","claimed":true,"claimedBySlug":"Tissl","holderQuote":"I’m a [Rogue]"}
+{"id":"01a0657e-0248-725c-881e-df742ea58dac","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":246,"wording":"[Rogue]","event":"named","holderSlug":"tissl-venleather","claimed":true,"claimedBySlug":"tissl","holderQuote":"I’m a [Rogue]"}
 {"id":"01a0657e-0248-7a26-b1ab-7bb258bb9082","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":760,"wording":"[Rogue]","event":"named","holderSlug":"irrel","holderQuote":"Irrel, run"}
 {"id":"01a0657e-0248-7592-b2d2-fbb81357badd","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":803,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-785c-a35a-25f9b380eb08","chapterSlug":"rwInterlude - Halfseekers (Pt- 5)","paragraph":878,"wording":"[Rogue]","event":"named","holderSlug":"irrel","holderQuote":"So, Irrel spoke"}
@@ -364,9 +364,9 @@
 {"id":"01a0657e-0248-7d03-95b6-5d8f238905ed","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":1462,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-7708-9e2d-2dd8cfdea3c2","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":1462,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-7b81-9d32-6b61f57f835b","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":1463,"wording":"[Rogue]","event":"named","holderQuote":"and Merry hesitated"}
-{"id":"01a0657e-0248-72d7-bed5-1852d6eee458","chapterSlug":"rw10-58 FP","paragraph":1313,"wording":"[Rogue]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"Yellow Splatters","holderQuote":"Pawn is a sexable [Rogue], Heir Pewerthe."}
+{"id":"01a0657e-0248-72d7-bed5-1852d6eee458","chapterSlug":"rw10-58 FP","paragraph":1313,"wording":"[Rogue]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"yellow-splatters","holderQuote":"Pawn is a sexable [Rogue], Heir Pewerthe."}
 {"id":"01a0657e-0248-77f6-9591-276fb49d384a","chapterSlug":"rw9-49","paragraph":236,"wording":"[Rogue]","event":"named"}
-{"id":"01a0657e-0248-7557-8d4e-35c9f371165b","chapterSlug":"rw9-53","paragraph":204,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Gilam","holderQuote":"He’s part of the gangs! Father, you’ve found a [Rogue]!"}
+{"id":"01a0657e-0248-7557-8d4e-35c9f371165b","chapterSlug":"rw9-53","paragraph":204,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"gilam","holderQuote":"He’s part of the gangs! Father, you’ve found a [Rogue]!"}
 {"id":"01a0657e-0248-7ca8-becf-39acf8cb1384","chapterSlug":"rw9-41 (Pt. 3)","paragraph":570,"wording":"[Rogue]","event":"named","holderQuote":"But the [Rogue] just looked up with eyes that saw more of Erin than Niers did."}
 {"id":"01a0657e-0248-71da-883f-7e05ea6b30ec","chapterSlug":"rw9-41 (Pt. 3)","paragraph":701,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-79b2-9e5f-650b14456c49","chapterSlug":"rw9-41 (Pt. 3)","paragraph":2005,"wording":"[Rogue]","event":"named","holderQuote":"Iloid, disable them with a flank"}
@@ -374,7 +374,7 @@
 {"id":"01a0657e-0248-7e65-9e5a-0fda77418236","chapterSlug":"rw9-41 (Pt. 3)","paragraph":2248,"wording":"[Rogue]","event":"named","holderQuote":"Jewel was taking down Iloid."}
 {"id":"01a0657e-0248-74c8-b463-277af4ff1c54","chapterSlug":"rw10-33 MNK","paragraph":1166,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-7210-ba46-2ee27a6df2ef","chapterSlug":"rw9-47 U","paragraph":263,"wording":"[Rogue]","event":"named","holderSlug":"tessa","holderQuote":"I’ve got this. Tessa, what do you want to eat?"}
-{"id":"01a0657e-0248-710e-9fcf-35a38052bed2","chapterSlug":"rw9-52","paragraph":759,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Xesci","holderQuote":"I sense a [Rogue]. Shriekblade’s watching us."}
+{"id":"01a0657e-0248-710e-9fcf-35a38052bed2","chapterSlug":"rw9-52","paragraph":759,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"xesci","holderQuote":"I sense a [Rogue]. Shriekblade’s watching us."}
 {"id":"01a0657e-0248-77df-8e98-5e08fd25f677","chapterSlug":"rw10-60 YN","paragraph":543,"wording":"[Rogue]","event":"named","holderQuote":"Insill jumped, and the [Rogue] was alarmed"}
 {"id":"01a0657e-0248-79b9-8868-f848881312d2","chapterSlug":"rw10-60 YN","paragraph":696,"wording":"[Rogue]","event":"named","holderQuote":"Insill brandished a dagger as he backed up"}
 {"id":"01a0657e-0248-77aa-af45-a9d670b6ad03","chapterSlug":"rw10-60 YN","paragraph":1902,"wording":"[Rogue]","event":"named"}
@@ -385,7 +385,7 @@
 {"id":"01a0657e-0248-7a29-b265-a470955469db","chapterSlug":"rwInterlude - Adventurers (Pt- 3)","paragraph":821,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-71fb-896d-8530fbe73d99","chapterSlug":"rwInterlude - Adventurers (Pt- 3)","paragraph":869,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-74b9-9ae0-cba8c03f927a","chapterSlug":"rwInterlude - Adventurers (Pt- 3)","paragraph":2171,"wording":"[Rogue]","event":"named","holderQuote":"Insill—the"}
-{"id":"01a0657e-0248-776d-8521-1977ae322c4a","chapterSlug":"rw10-61 Y","paragraph":497,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Insill","holderQuote":"I think I broke my tail. I’m a [Rogue]!"}
+{"id":"01a0657e-0248-776d-8521-1977ae322c4a","chapterSlug":"rw10-61 Y","paragraph":497,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"insill","holderQuote":"I think I broke my tail. I’m a [Rogue]!"}
 {"id":"01a0657e-0248-7f4b-9176-15be85be00ce","chapterSlug":"rw10-61 Y","paragraph":1574,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-752f-87e2-61f47689e3ca","chapterSlug":"rwInterlude - Halfseekers (Pt- 1)","paragraph":156,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"jelaqua","holderQuote":"My [Rogue], Seborn, he has a knack for sneaking up on things"}
 {"id":"01a0657e-0248-724b-9dec-1456c3a45e62","chapterSlug":"rw10-37 GDI (Pt. 1)","paragraph":192,"wording":"[Rogue]","event":"named"}
@@ -399,9 +399,9 @@
 {"id":"01a0657e-0248-7c6e-ac88-fa5516490f5e","chapterSlug":"rw9-64 BH","paragraph":356,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-7320-bf4a-93c4f7e661ec","chapterSlug":"rw9-64 BH","paragraph":855,"wording":"[Rogue]","event":"named","holderSlug":"colth","claimed":true,"claimedBySlug":"colth","holderQuote":"If your hand can morph into anything—I’ve got [Rogue] skills."}
 {"id":"01a0657e-0248-7896-bf76-fddf2bd6b8aa","chapterSlug":"rw9-64 BH","paragraph":973,"wording":"[Rogue]","event":"named","holderSlug":"colth","claimed":true,"claimedBySlug":"colth","holderQuote":"A substantial upgrade. I’m a proper [Rogue] now."}
-{"id":"01a0657e-0248-74ae-9e65-fe986eb7974e","chapterSlug":"rw9-60","paragraph":986,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Khorpe","holderQuote":"I am Major Khorpe"}
+{"id":"01a0657e-0248-74ae-9e65-fe986eb7974e","chapterSlug":"rw9-60","paragraph":986,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"khorpe","holderQuote":"I am Major Khorpe"}
 {"id":"01a0657e-0248-7152-86ed-9c28b616709c","chapterSlug":"rw9-60","paragraph":1190,"wording":"[Rogue]","event":"named"}
-{"id":"01a0657e-0248-717f-b03c-b25608cf8185","chapterSlug":"rw9-29","paragraph":84,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"Revi","holderQuote":"Seborn was only watching the Fraerlings out of the corner of one eye"}
+{"id":"01a0657e-0248-717f-b03c-b25608cf8185","chapterSlug":"rw9-29","paragraph":84,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"revi","holderQuote":"Seborn was only watching the Fraerlings out of the corner of one eye"}
 {"id":"01a0657e-0248-7480-b97b-47251dc4f5d2","chapterSlug":"rw10-03 Y","paragraph":1376,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-73c0-8941-6bac5151b313","chapterSlug":"rw10-03 Y","paragraph":1393,"wording":"[Rogue]","event":"named","holderQuote":"The [Knight] saw Insill sneak into the wagon—or rather, he saw Insill stroll over"}
 {"id":"01a0657e-0248-7181-ab38-f6fe40035d47","chapterSlug":"rw10-03 Y","paragraph":1400,"wording":"[Rogue]","event":"named","holderQuote":"The [Knight] saw Insill sneak into the wagon—or rather, he saw Insill stroll over"}
@@ -452,8 +452,8 @@
 {"id":"01a0657e-0248-7510-acf9-29bea5404382","chapterSlug":"rw9-40 GG","paragraph":899,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-72df-ae18-b5de1044f916","chapterSlug":"rw9-40 GG","paragraph":1136,"wording":"[Rogue]","event":"named","holderQuote":"a [Rogue] of Foliana’s level"}
 {"id":"01a0657e-0248-7345-bedc-0d9d8ba895f0","chapterSlug":"rw9-40 GG","paragraph":1159,"wording":"[Rogue]","event":"named","holderQuote":"while Foliana swatted at her with her paws"}
-{"id":"01a0657e-0248-7028-9b26-cf820f1dca70","chapterSlug":"rw9-40 GG","paragraph":1177,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"the Duck","holderQuote":"There. Three-Color Stalker is a very good [Rogue]."}
-{"id":"01a0657e-0248-7dfc-a802-12c517053484","chapterSlug":"rw9-40 GG","paragraph":1193,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"the Duck","holderQuote":"The Duck recoiled and quacked a bit."}
+{"id":"01a0657e-0248-7028-9b26-cf820f1dca70","chapterSlug":"rw9-40 GG","paragraph":1177,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"the-duck","holderQuote":"There. Three-Color Stalker is a very good [Rogue]."}
+{"id":"01a0657e-0248-7dfc-a802-12c517053484","chapterSlug":"rw9-40 GG","paragraph":1193,"wording":"[Rogue]","event":"named","claimed":true,"claimedBySlug":"the-duck","holderQuote":"The Duck recoiled and quacked a bit."}
 {"id":"01a0657e-0248-7c6c-af21-2db0ff633529","chapterSlug":"rw9-40 GG","paragraph":1216,"wording":"[Rogue]","event":"named","holderQuote":"Beth’s bullying of Foliana, the most famous [Rogue] in Baleros"}
 {"id":"01a0657e-0248-7830-a8f0-7cf8426f30fa","chapterSlug":"rw9-35 O","paragraph":728,"wording":"[Rogue]","event":"named"}
 {"id":"01a0657e-0248-7fb3-9729-80e36ff98b57","chapterSlug":"rw9-35 O","paragraph":736,"wording":"[Rogue]","event":"named"}

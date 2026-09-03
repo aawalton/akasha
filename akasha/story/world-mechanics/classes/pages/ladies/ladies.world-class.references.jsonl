@@ -79,12 +79,12 @@
 {"id":"01a0657e-0218-7c42-9f5d-23ae21655f67","chapterSlug":"rw5-30 G","paragraph":55,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0218-72e1-b06d-55a257ea9854","chapterSlug":"rw5-30 G","paragraph":312,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0218-7c0a-8378-3ffd851c360c","chapterSlug":"rw5-11 E","paragraph":14,"wording":"[Ladies]","event":"named"}
-{"id":"01a0657e-0218-76fb-b688-a74ad00cfd89","chapterSlug":"rw5-11 E","paragraph":150,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"Rael Veniford"}
-{"id":"01a0657e-0218-75d8-b182-372e0282de5b","chapterSlug":"rw5-11 E","paragraph":154,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"Laken Godart"}
-{"id":"01a0657e-0218-72e2-8456-10b5342e8946","chapterSlug":"rw5-11 E","paragraph":204,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"Laken Godart"}
+{"id":"01a0657e-0218-76fb-b688-a74ad00cfd89","chapterSlug":"rw5-11 E","paragraph":150,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"rael-veniford"}
+{"id":"01a0657e-0218-75d8-b182-372e0282de5b","chapterSlug":"rw5-11 E","paragraph":154,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"laken-godart"}
+{"id":"01a0657e-0218-72e2-8456-10b5342e8946","chapterSlug":"rw5-11 E","paragraph":204,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"laken-godart"}
 {"id":"01a0657e-0218-7176-be50-70cbf3848c86","chapterSlug":"rw5-11 E","paragraph":206,"wording":"[Ladies]","event":"named","holderSlug":"lady-bevia-veniford","holderQuote":"One of the [Ladies] speaks. Bevia, the older noblewoman. She stares at the fae and at me."}
 {"id":"01a0657e-0218-7148-9791-e76156fb8fc6","chapterSlug":"rw5-11 E","paragraph":338,"wording":"[Ladies]","event":"named"}
-{"id":"01a0657e-0218-797c-8d66-b2c1ffe76416","chapterSlug":"rw5-11 E","paragraph":360,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"Lady Bevia Veniford"}
+{"id":"01a0657e-0218-797c-8d66-b2c1ffe76416","chapterSlug":"rw5-11 E","paragraph":360,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"lady-bevia-veniford"}
 {"id":"01a0657e-0218-76d0-814c-17821dc7f114","chapterSlug":"rw5-11 E","paragraph":378,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0218-790c-bb74-50bf52fafedf","chapterSlug":"rw5-50 G","paragraph":3,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0218-7fe8-bff4-66b3261effcb","chapterSlug":"rw5-47 G","paragraph":305,"wording":"[Ladies]","event":"named"}
@@ -313,7 +313,7 @@
 {"id":"01a0657e-0219-7391-8297-9710068c7667","chapterSlug":"rw8-03","paragraph":969,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-767e-b067-304ebe34ef98","chapterSlug":"rw8-03","paragraph":989,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7d96-bafc-3504c1e91ea5","chapterSlug":"rw8-03","paragraph":1018,"wording":"[Ladies]","event":"named"}
-{"id":"01a0657e-0219-7146-b47f-ee9bbebe099e","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":311,"wording":"[Ladies]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"Emir Darsul","holderQuote":"They are [Ladies], adventurers, [Mages], and more, the finest the world has seen."}
+{"id":"01a0657e-0219-7146-b47f-ee9bbebe099e","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":311,"wording":"[Ladies]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"emir-darsul","holderQuote":"They are [Ladies], adventurers, [Mages], and more, the finest the world has seen."}
 {"id":"01a0657e-0219-7816-b439-7ce9dad2eadb","chapterSlug":"rw8-05 I","paragraph":1611,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7f96-a70f-63d9b01ab8c6","chapterSlug":"rw8-13 F","paragraph":444,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7e3b-a726-f60f551396b6","chapterSlug":"rw8-23","paragraph":602,"wording":"[Ladies]","event":"named"}
@@ -428,7 +428,7 @@
 {"id":"01a0657e-0219-7008-8a03-0a939085f65e","chapterSlug":"rw9-45 GT","paragraph":553,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7b41-be59-d431532feaca","chapterSlug":"rw9-45 GT","paragraph":555,"wording":"[Ladies]","event":"named","holderQuote":"and hit Lyonette in the face—he was amazed."}
 {"id":"01a0657e-0219-7b3d-b4e8-dada8ebcc904","chapterSlug":"rw9-54 C","paragraph":30,"wording":"[Ladies]","event":"named"}
-{"id":"01a0657e-0219-7743-b702-d066595a5e94","chapterSlug":"rw9-54 C","paragraph":1115,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"Calidus","holderQuote":"I see Wellfar [Ladies] striding around with their glorious bare feet"}
+{"id":"01a0657e-0219-7743-b702-d066595a5e94","chapterSlug":"rw9-54 C","paragraph":1115,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"calidus","holderQuote":"I see Wellfar [Ladies] striding around with their glorious bare feet"}
 {"id":"01a0657e-0219-7418-92b0-bd3135e39b4f","chapterSlug":"rw9-41 (Pt. 3)","paragraph":103,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7458-9417-68f1a668684b","chapterSlug":"rw9-41 (Pt. 3)","paragraph":669,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7ea3-98f6-af02841a9efc","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1035,"wording":"[Ladies]","event":"named"}
@@ -463,7 +463,7 @@
 {"id":"01a0657e-0219-7a5c-ad53-4137e909ea88","chapterSlug":"rw10-65","paragraph":268,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-78a0-8a65-46c21a4d56b8","chapterSlug":"rw10-65","paragraph":287,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7056-9c62-7223de746a86","chapterSlug":"rw9-60","paragraph":290,"wording":"[Ladies]","event":"named"}
-{"id":"01a0657e-0219-7493-be9e-9e063168efba","chapterSlug":"rw9-60","paragraph":916,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"Xitegen","holderQuote":"The Sacrifice of Roses put [Ladies] adorned in finery against steel itself."}
+{"id":"01a0657e-0219-7493-be9e-9e063168efba","chapterSlug":"rw9-60","paragraph":916,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"xitegen","holderQuote":"The Sacrifice of Roses put [Ladies] adorned in finery against steel itself."}
 {"id":"01a0657e-0219-79ac-9e19-7006a3ab51b2","chapterSlug":"rw10-66 (Pt. 1)","paragraph":341,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-73a7-832c-cbd489a3ce76","chapterSlug":"rw9-29","paragraph":187,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7e2b-98eb-badb168e5ba1","chapterSlug":"rw9-29","paragraph":402,"wording":"[Ladies]","event":"named"}
@@ -496,7 +496,7 @@
 {"id":"01a0657e-0219-72a3-a44c-b31cae1ef597","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":175,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7a9b-bbba-0d64c2aba3a3","chapterSlug":"rw9-69 H (Pt. 2)","paragraph":315,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-75dc-b11c-d4e5e7db98d2","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1518,"wording":"[Ladies]","event":"named"}
-{"id":"01a0657e-0219-7f11-8a03-e3fa21cbf807","chapterSlug":"rw9-31","paragraph":850,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"Magnolia","holderQuote":"More than other [Ladies], I cede Liscor to her."}
+{"id":"01a0657e-0219-7f11-8a03-e3fa21cbf807","chapterSlug":"rw9-31","paragraph":850,"wording":"[Ladies]","event":"named","claimed":true,"claimedBySlug":"magnolia","holderQuote":"More than other [Ladies], I cede Liscor to her."}
 {"id":"01a0657e-0219-7417-b1ad-3735bd4267d1","chapterSlug":"rw9-31","paragraph":1015,"wording":"[Ladies]","event":"named","holderQuote":"It wasn’t as flashy or regal as many of the [Ladies]."}
 {"id":"01a0657e-0219-71e0-be56-568d6637a069","chapterSlug":"rw9-32","paragraph":349,"wording":"[Ladies]","event":"named"}
 {"id":"01a0657e-0219-7218-9113-3c5330577a47","chapterSlug":"rw10-43 - RNG (Pt. 1)","paragraph":1524,"wording":"[Ladies]","event":"named"}

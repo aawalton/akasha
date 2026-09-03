@@ -93,9 +93,9 @@
 {"id":"01a0657e-0233-7ffe-83ec-3ab9a44bde9a","chapterSlug":"rw10-00 L","paragraph":84,"wording":"[Miners]","event":"named"}
 {"id":"01a0657e-0233-7581-b720-2c7c366ff974","chapterSlug":"rw10-00 L","paragraph":205,"wording":"[Miners]","event":"named"}
 {"id":"01a0657e-0233-726b-bd88-879013e75560","chapterSlug":"rw10-15","paragraph":228,"wording":"[Miners]","event":"named","holderSlug":"earlia","holderQuote":"Earlia, your team are mostly"}
-{"id":"01a0657e-0233-7f15-af90-c322b2c08bd4","chapterSlug":"rw10-15","paragraph":229,"wording":"[Miners]","event":"named","holderSlug":"earlia","claimed":true,"claimedBySlug":"Earlia","holderQuote":"We survived two bad mining incidents, both with monsters"}
+{"id":"01a0657e-0233-7f15-af90-c322b2c08bd4","chapterSlug":"rw10-15","paragraph":229,"wording":"[Miners]","event":"named","holderSlug":"earlia","claimed":true,"claimedBySlug":"earlia","holderQuote":"We survived two bad mining incidents, both with monsters"}
 {"id":"01a0657e-0233-769f-805c-48910d8eae3f","chapterSlug":"rw10-15","paragraph":242,"wording":"[Miners]","event":"named","holderSlug":"earlia","holderQuote":"Earlia’s teammate walking upstairs was long and lanky"}
-{"id":"01a0657e-0233-784e-adde-ed8f82e55998","chapterSlug":"rw10-15","paragraph":261,"wording":"[Miners]","event":"named","holderSlug":"earlia","claimed":true,"claimedBySlug":"Captain Todi","holderQuote":"Captain Todi stood there, then eyed Earlia"}
+{"id":"01a0657e-0233-784e-adde-ed8f82e55998","chapterSlug":"rw10-15","paragraph":261,"wording":"[Miners]","event":"named","holderSlug":"earlia","claimed":true,"claimedBySlug":"captain-todi","holderQuote":"Captain Todi stood there, then eyed Earlia"}
 {"id":"01a0657e-0233-7252-95e2-ea365fa7faed","chapterSlug":"rw9-44 P","paragraph":138,"wording":"[Miners]","event":"named"}
 {"id":"01a0657e-0233-768c-93a8-de739eaa2d6c","chapterSlug":"rw9-44 P","paragraph":386,"wording":"[Miners]","event":"named"}
 {"id":"01a0657e-0233-7461-a7c4-ec0ab8af779b","chapterSlug":"rw9-53","paragraph":441,"wording":"[Miners]","event":"named"}

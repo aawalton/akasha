@@ -220,7 +220,7 @@
 {"id":"01a0657e-0258-794b-b319-18e2933f2356","chapterSlug":"rw10-37 GDI (Pt. 3)","paragraph":1108,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-7b60-939e-1b3cef40b694","chapterSlug":"rw10-53 UEG","paragraph":218,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-7ec3-91c2-92d7f757dac4","chapterSlug":"rw10-07","paragraph":431,"wording":"[Slavers]","event":"named"}
-{"id":"01a0657e-0258-7adf-aaf0-68a138a6a4d8","chapterSlug":"rw10-07","paragraph":703,"wording":"[Slavers]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"Erin","holderQuote":"He and Erin had stories to tell."}
+{"id":"01a0657e-0258-7adf-aaf0-68a138a6a4d8","chapterSlug":"rw10-07","paragraph":703,"wording":"[Slavers]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"He and Erin had stories to tell."}
 {"id":"01a0657e-0258-7837-9032-e8f73278580c","chapterSlug":"rw10-07","paragraph":1070,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-70b9-85f0-62401b645fce","chapterSlug":"rw9-69 H (Pt. 1)","paragraph":1438,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-7843-ba6b-2dc97de1585f","chapterSlug":"rw9-69 H (Pt. 2)","paragraph":998,"wording":"[Slavers]","event":"named"}
@@ -238,13 +238,13 @@
 {"id":"01a0657e-0258-7795-a11b-cdd994868777","chapterSlug":"rw10-09 E","paragraph":844,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-71b8-9405-d370b57e20f1","chapterSlug":"rw9-32","paragraph":93,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-74f8-8cab-feb0f638064d","chapterSlug":"rw9-32","paragraph":104,"wording":"[Slavers]","event":"named"}
-{"id":"01a0657e-0258-7d2a-a61a-16a3294b02ea","chapterSlug":"rw9-32","paragraph":119,"wording":"[Slavers]","event":"named","claimed":true,"claimedBySlug":"Xorne","holderQuote":"Magnolia Reinhart kills your [Slavers]."}
+{"id":"01a0657e-0258-7d2a-a61a-16a3294b02ea","chapterSlug":"rw9-32","paragraph":119,"wording":"[Slavers]","event":"named","claimed":true,"claimedBySlug":"xorne","holderQuote":"Magnolia Reinhart kills your [Slavers]."}
 {"id":"01a0657e-0258-7279-8998-93d2cb5c08ec","chapterSlug":"rw9-32","paragraph":145,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-7083-bdc4-c5c4fc0884b1","chapterSlug":"rw10-11 H","paragraph":866,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-7197-a959-fbe203c40586","chapterSlug":"rw10-11 H","paragraph":995,"wording":"[Slavers]","event":"named"}
-{"id":"01a0657e-0258-77cf-9afc-fecc15ed277a","chapterSlug":"rw10-11 H","paragraph":1168,"wording":"[Slavers]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"Laddy","holderQuote":"Bane of Roshal? Someone called me that the last time I was here."}
-{"id":"01a0657e-0258-70d0-8b2d-2f9d138d98b9","chapterSlug":"rw10-11 H","paragraph":1176,"wording":"[Slavers]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"Laddy","holderQuote":"you’ve killed so many [Slavers] that they’ve put a bounty on your head"}
-{"id":"01a0657e-0258-7d2b-811c-6bb2868c0da3","chapterSlug":"rw10-11 H","paragraph":1184,"wording":"[Slavers]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"Laddy","holderQuote":"he talks as if he didn’t kill that many [Slavers]"}
+{"id":"01a0657e-0258-77cf-9afc-fecc15ed277a","chapterSlug":"rw10-11 H","paragraph":1168,"wording":"[Slavers]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"laddy","holderQuote":"Bane of Roshal? Someone called me that the last time I was here."}
+{"id":"01a0657e-0258-70d0-8b2d-2f9d138d98b9","chapterSlug":"rw10-11 H","paragraph":1176,"wording":"[Slavers]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"laddy","holderQuote":"you’ve killed so many [Slavers] that they’ve put a bounty on your head"}
+{"id":"01a0657e-0258-7d2b-811c-6bb2868c0da3","chapterSlug":"rw10-11 H","paragraph":1184,"wording":"[Slavers]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"laddy","holderQuote":"he talks as if he didn’t kill that many [Slavers]"}
 {"id":"01a0657e-0258-7034-a367-e9f2596d4b41","chapterSlug":"rw10-12 H (Pt. 2)","paragraph":119,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-7cd7-a158-d4b7507f0901","chapterSlug":"rw10-12 H (Pt. 2)","paragraph":121,"wording":"[Slavers]","event":"named"}
 {"id":"01a0657e-0258-7ce6-8ed5-d031a3ff4b9f","chapterSlug":"rw10-12 H (Pt. 2)","paragraph":551,"wording":"[Slavers]","event":"named"}

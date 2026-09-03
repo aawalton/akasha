@@ -14,10 +14,10 @@
 {"id":"01a0657e-020c-78aa-a614-a95468bc3a12","chapterSlug":"rw4-44 M","paragraph":244,"wording":"[Kings]","event":"named"}
 {"id":"01a0657e-020c-7a5b-aa0a-5b6183dee1ce","chapterSlug":"rwInterlude - Flos","paragraph":114,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"mars"}
 {"id":"01a0657e-020c-751c-b749-3fa9f8729c35","chapterSlug":"rwInterlude - Flos","paragraph":115,"wording":"[Kings]","event":"named","holderSlug":"flos","holderQuote":"Flos was one of the highest-leveled [Kings] in the world.","effectQuote":"his Skills were incredibly powerful"}
-{"id":"01a0657e-020c-7916-bcc3-2206c05fba47","chapterSlug":"rwInterlude - Flos","paragraph":241,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"the Shopkeeper"}
+{"id":"01a0657e-020c-7916-bcc3-2206c05fba47","chapterSlug":"rwInterlude - Flos","paragraph":241,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"the-shopkeeper"}
 {"id":"01a0657e-020c-7d93-9d0a-eba528583b09","chapterSlug":"rwInterlude - Flos","paragraph":483,"wording":"[Kings]","event":"named"}
 {"id":"01a0657e-020c-720e-89b6-7cf8e6cce77d","chapterSlug":"rw5-27","paragraph":66,"wording":"[Kings]","event":"named"}
-{"id":"01a0657e-020c-7f2f-ac22-ba348171806e","chapterSlug":"rw5-11 E","paragraph":326,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"Lady Bevia Veniford"}
+{"id":"01a0657e-020c-7f2f-ac22-ba348171806e","chapterSlug":"rw5-11 E","paragraph":326,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"lady-bevia-veniford"}
 {"id":"01a0657e-020c-7a8a-a7bf-f7a7e8c13c06","chapterSlug":"rw5-54","paragraph":356,"wording":"[Kings]","event":"named"}
 {"id":"01a0657e-020c-7ee4-9b55-0aac07ead9fb","chapterSlug":"rw5-52","paragraph":606,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"gralton","holderQuote":"We have no [Kings]."}
 {"id":"01a0657e-020c-7572-8592-c4cf4fd8ca7e","chapterSlug":"rw6-14 K","paragraph":428,"wording":"[Kings]","event":"named"}
@@ -85,7 +85,7 @@
 {"id":"01a0657e-020c-70e2-85da-cf5996b9aa7e","chapterSlug":"rw7-34 C","paragraph":216,"wording":"[Kings]","event":"named"}
 {"id":"01a0657e-020c-7c99-b7b7-86d6bcdef949","chapterSlug":"rw7-37","paragraph":468,"wording":"[Kings]","event":"named"}
 {"id":"01a0657e-020c-7a5c-8a42-a413a2dcc9dd","chapterSlug":"rw7-37","paragraph":622,"wording":"[Kings]","event":"named"}
-{"id":"01a0657e-020c-716a-9daf-852128eb9e8b","chapterSlug":"rw7-56","paragraph":1135,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"Barelle"}
+{"id":"01a0657e-020c-716a-9daf-852128eb9e8b","chapterSlug":"rw7-56","paragraph":1135,"wording":"[Kings]","event":"named","claimed":true,"claimedBySlug":"barelle"}
 {"id":"01a0657e-020c-7718-be55-7d7c1fbdcc83","chapterSlug":"rw7-48 K","paragraph":647,"wording":"[Kings]","event":"named"}
 {"id":"01a0657e-020c-7856-8167-e3192d188603","chapterSlug":"rw7-44","paragraph":1,"wording":"[Kings]","event":"named"}
 {"id":"01a0657e-020c-7d96-92d4-7cfd40bd8a16","chapterSlug":"rw7-47 K","paragraph":335,"wording":"[Kings]","event":"named"}

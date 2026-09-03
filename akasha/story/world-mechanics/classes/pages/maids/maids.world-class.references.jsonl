@@ -36,8 +36,8 @@
 {"id":"01a0657e-022b-7596-a743-a765f9b42c51","chapterSlug":"rw4-44 M","paragraph":307,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-76ac-8ec6-3ff1027903d9","chapterSlug":"rw5-32 G","paragraph":493,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-79d6-aa96-9611bb9022cb","chapterSlug":"rw6-25","paragraph":581,"wording":"[Maids]","event":"named"}
-{"id":"01a0657e-022b-7e48-8052-21de4834478d","chapterSlug":"rw6-27 M","paragraph":40,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"Bekia"}
-{"id":"01a0657e-022b-7ec6-b71a-86b6fd36a6a7","chapterSlug":"rw6-27 M","paragraph":47,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"Mavi"}
+{"id":"01a0657e-022b-7e48-8052-21de4834478d","chapterSlug":"rw6-27 M","paragraph":40,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"bekia"}
+{"id":"01a0657e-022b-7ec6-b71a-86b6fd36a6a7","chapterSlug":"rw6-27 M","paragraph":47,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"mavi"}
 {"id":"01a0657e-022b-711b-82fc-3ce805d1ee2f","chapterSlug":"rw6-27 M","paragraph":345,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-70f2-bde6-9f07d9b0f714","chapterSlug":"rw6-68","paragraph":792,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-7c4c-82a0-8a3a5f8baf68","chapterSlug":"rw6-68","paragraph":828,"wording":"[Maids]","event":"named"}
@@ -97,8 +97,8 @@
 {"id":"01a0657e-022b-7dc8-8ae2-dd6893ea4f43","chapterSlug":"rw9-53","paragraph":462,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-7668-8a86-47340e10f2ce","chapterSlug":"rw9-53","paragraph":506,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-7bac-b12d-b1acc0c3df49","chapterSlug":"rw9-53","paragraph":782,"wording":"[Maids]","event":"named"}
-{"id":"01a0657e-022b-7cd0-96ea-4987091bc24d","chapterSlug":"rw9-41 (Pt. 3)","paragraph":564,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"Niers Astoragon","holderQuote":"Can Magnolia Reinhart do something?"}
-{"id":"01a0657e-022b-7731-b959-87e7a19ed7fe","chapterSlug":"rw9-41 (Pt. 3)","paragraph":565,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"Niers Astoragon","holderQuote":"She’s got [Maids]."}
+{"id":"01a0657e-022b-7cd0-96ea-4987091bc24d","chapterSlug":"rw9-41 (Pt. 3)","paragraph":564,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"niers-astoragon","holderQuote":"Can Magnolia Reinhart do something?"}
+{"id":"01a0657e-022b-7731-b959-87e7a19ed7fe","chapterSlug":"rw9-41 (Pt. 3)","paragraph":565,"wording":"[Maids]","event":"named","claimed":true,"claimedBySlug":"niers-astoragon","holderQuote":"She’s got [Maids]."}
 {"id":"01a0657e-022b-776e-9c8e-60c5e3ccc4e7","chapterSlug":"rw9-41 (Pt. 3)","paragraph":953,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-77b1-85f7-b9c9f8ecdf58","chapterSlug":"rw9-41 (Pt. 3)","paragraph":968,"wording":"[Maids]","event":"named"}
 {"id":"01a0657e-022b-799e-87b5-42d523c9e724","chapterSlug":"rw9-41 (Pt. 3)","paragraph":972,"wording":"[Maids]","event":"named"}

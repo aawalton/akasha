@@ -50,7 +50,7 @@
 {"id":"01a0657e-022c-75ed-bbdc-b2a248502f40","chapterSlug":"rw8-84","paragraph":108,"wording":"[Major]","event":"named","holderQuote":"Etella dropped the stone"}
 {"id":"01a0657e-022c-7a48-b81f-445de243d608","chapterSlug":"rw8-84","paragraph":236,"wording":"[Major]","event":"named"}
 {"id":"01a0657e-022c-7e38-a602-e9b9ed414083","chapterSlug":"rw8-84","paragraph":239,"wording":"[Major]","event":"named"}
-{"id":"01a0657e-022c-7e7b-8681-4774572f4f71","chapterSlug":"rwInterlude - The Great Race","paragraph":421,"wording":"[Major]","event":"named","holderSlug":"voita","claimed":true,"claimedBySlug":"Voita","holderQuote":"Captain Voita! Ah, doine! It’s [Major] Voita! Yayde Re, Councilmember!"}
+{"id":"01a0657e-022c-7e7b-8681-4774572f4f71","chapterSlug":"rwInterlude - The Great Race","paragraph":421,"wording":"[Major]","event":"named","holderSlug":"voita","claimed":true,"claimedBySlug":"voita","holderQuote":"Captain Voita! Ah, doine! It’s [Major] Voita! Yayde Re, Councilmember!"}
 {"id":"01a0657e-022c-75aa-8f20-a7089b8ff7a7","chapterSlug":"rw10-31 - Pt. 2","paragraph":97,"wording":"[Major]","event":"named","holderSlug":"shirka","holderQuote":"Shirka used a Skill she hadn’t needed since she was a [Major]."}
 {"id":"01a0657e-022c-76bc-93d2-24a93e094b47","chapterSlug":"rw10-31 - Pt. 1","paragraph":955,"wording":"[Major]","event":"named","holderQuote":"Out loud, [Major] Tonsec."}
 {"id":"01a0657e-022c-77d6-ba6e-a78b83970256","chapterSlug":"rw10-31 - Pt. 1","paragraph":959,"wording":"[Major]","event":"named","holderQuote":"Out loud, [Major] Tonsec."}
@@ -78,13 +78,13 @@
 {"id":"01a0657e-022c-77fa-912d-2735fa126c06","chapterSlug":"rw9-51 Z","paragraph":665,"wording":"[Major]","event":"named","holderSlug":"khorpe","holderQuote":"Major Khorpe stared up as Zail and Eschowar conducted the Scintillation Counter."}
 {"id":"01a0657e-022c-7fd2-b749-fe2d8052858e","chapterSlug":"rw10-65","paragraph":2464,"wording":"[Major]","event":"named"}
 {"id":"01a0657e-022c-7504-a88a-c729f5b60ed4","chapterSlug":"rw10-65","paragraph":2464,"wording":"[Major]","event":"named"}
-{"id":"01a0657e-022c-7172-a0d8-06c9e786a022","chapterSlug":"rw9-60","paragraph":170,"wording":"[Major]","event":"named","claimed":true,"claimedBySlug":"Tyrion Veltras","holderQuote":"That would put you at about [Major] in class equivalence. Greetings, Controller."}
+{"id":"01a0657e-022c-7172-a0d8-06c9e786a022","chapterSlug":"rw9-60","paragraph":170,"wording":"[Major]","event":"named","claimed":true,"claimedBySlug":"tyrion-veltras","holderQuote":"That would put you at about [Major] in class equivalence. Greetings, Controller."}
 {"id":"01a0657e-022c-7a27-8777-0f0081662f83","chapterSlug":"rw9-60","paragraph":633,"wording":"[Major]","event":"named"}
 {"id":"01a0657e-022c-7b5f-a620-a6151b66a9e1","chapterSlug":"rw9-60","paragraph":665,"wording":"[Major]","event":"named"}
 {"id":"01a0657e-022c-79b2-9544-f615d95d16e9","chapterSlug":"rw9-60","paragraph":1165,"wording":"[Major]","event":"named","holderQuote":"Khorpe produced a crossbow and pulled on the trigger"}
 {"id":"01a0657e-022c-7301-9cd9-874275ea026a","chapterSlug":"rw9-60","paragraph":1174,"wording":"[Major]","event":"named","holderQuote":"Khorpe pointed at Erin, and Perorn raised her brows"}
 {"id":"01a0657e-022c-73b0-b1be-c70e81f07cb5","chapterSlug":"rw9-60","paragraph":1203,"wording":"[Major]","event":"named","holderQuote":"Khorpe added, and Erin and Perorn looked at him"}
-{"id":"01a0657e-022c-7622-b367-d00d435445ab","chapterSlug":"rwInterlude - Redscar","paragraph":60,"wording":"[Major]","event":"named","claimed":true,"claimedBySlug":"Reidet","holderQuote":"1st Army’s [Major], Reidet!"}
+{"id":"01a0657e-022c-7622-b367-d00d435445ab","chapterSlug":"rwInterlude - Redscar","paragraph":60,"wording":"[Major]","event":"named","claimed":true,"claimedBySlug":"reidet","holderQuote":"1st Army’s [Major], Reidet!"}
 {"id":"01a0657e-022c-7d52-9f94-cb6ca708c9e5","chapterSlug":"rwInterlude - Redscar","paragraph":61,"wording":"[Major]","event":"named","holderQuote":"Redscar walked past him, and the [Major] recoiled."}
 {"id":"01a0657e-022c-7acb-8d84-bed9f0d92f47","chapterSlug":"rw10-34 MGF","paragraph":1122,"wording":"[Major]","event":"named","holderQuote":"I am Major Tirage, Special Operations Unit 3."}
 {"id":"01a0657e-022c-7d50-aec9-c6d23d1b137a","chapterSlug":"rw10-34 MGF","paragraph":1126,"wording":"[Major]","event":"named","holderQuote":"Tirage tried again as Rags peered around."}

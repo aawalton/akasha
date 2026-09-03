@@ -63,10 +63,10 @@
 {"id":"01a06586-0a74-7943-bccc-b3944a71341d","chapterSlug":"rw6-56","paragraph":321,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-780d-995c-b02970960c55","chapterSlug":"rw6-56","paragraph":329,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-71e7-ba74-9b6cff52fe81","chapterSlug":"rw6-53 K","paragraph":128,"wording":"[Warriors]","event":"named"}
-{"id":"01a06586-0a74-747d-835a-c726773bb853","chapterSlug":"rw6-39","paragraph":70,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a06586-0a74-7a0e-8c94-e4483ada30d2","chapterSlug":"rw6-39","paragraph":111,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a06586-0a74-73b2-a0cc-544be07fd64e","chapterSlug":"rw6-39","paragraph":142,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a06586-0a74-7e89-b2b3-f99c507e35ef","chapterSlug":"rw6-39","paragraph":262,"wording":"[Warriors]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"Grimalkin","holderQuote":"[Warriors] like you tend to gain a powerful Skill along with a class then—and often in a specific direction."}
+{"id":"01a06586-0a74-747d-835a-c726773bb853","chapterSlug":"rw6-39","paragraph":70,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a06586-0a74-7a0e-8c94-e4483ada30d2","chapterSlug":"rw6-39","paragraph":111,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a06586-0a74-73b2-a0cc-544be07fd64e","chapterSlug":"rw6-39","paragraph":142,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a06586-0a74-7e89-b2b3-f99c507e35ef","chapterSlug":"rw6-39","paragraph":262,"wording":"[Warriors]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"grimalkin","holderQuote":"[Warriors] like you tend to gain a powerful Skill along with a class then—and often in a specific direction."}
 {"id":"01a06586-0a74-7574-8edd-7addda82c230","chapterSlug":"rw6-42 E","paragraph":223,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-7d87-a7b9-6d4946048264","chapterSlug":"rw6-57","paragraph":17,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-7198-956b-ca8a6166301d","chapterSlug":"rw6-67","paragraph":563,"wording":"[Warriors]","event":"named"}
@@ -95,7 +95,7 @@
 {"id":"01a06586-0a74-7eaf-a058-5855b3d6f524","chapterSlug":"rwInterlude - Strategists at Sea (Pt- 1)","paragraph":342,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-7d1c-82d7-38c16094ef1d","chapterSlug":"rwInterlude - Strategists at Sea (Pt- 1)","paragraph":556,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-7ad4-baa7-9e621a3b4dc0","chapterSlug":"rwInterlude - Strategists at Sea (Pt- 2)","paragraph":1032,"wording":"[Warriors]","event":"named"}
-{"id":"01a06586-0a74-74ef-8809-37e93a61a24f","chapterSlug":"rw7-23 LM","paragraph":812,"wording":"[Warriors]","event":"named","holderSlug":"lady-pryde","claimed":true,"claimedBySlug":"Lady Pryde","holderQuote":"He gave Pryde a dismissive look up and down. The [Lady] wasn’t wearing the tracksuit, but she was wearing loose, travel or athletic clothes. She didn’t look a tenth as muscular as Grimalkin. However, at Grimalkin’s words, Pryde’s head snapped up."}
+{"id":"01a06586-0a74-74ef-8809-37e93a61a24f","chapterSlug":"rw7-23 LM","paragraph":812,"wording":"[Warriors]","event":"named","holderSlug":"lady-pryde","claimed":true,"claimedBySlug":"lady-pryde","holderQuote":"He gave Pryde a dismissive look up and down. The [Lady] wasn’t wearing the tracksuit, but she was wearing loose, travel or athletic clothes. She didn’t look a tenth as muscular as Grimalkin. However, at Grimalkin’s words, Pryde’s head snapped up."}
 {"id":"01a06586-0a74-70b5-9479-2023541f8341","chapterSlug":"rw7-21 KQ","paragraph":515,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-7f7f-9aa8-75e37b0b1e9c","chapterSlug":"rw7-22 D","paragraph":40,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a74-7579-bc43-d9338ee23768","chapterSlug":"rw7-22 D","paragraph":837,"wording":"[Warriors]","event":"named"}
@@ -264,7 +264,7 @@
 {"id":"01a06586-0a75-7642-a6b3-96851e6d1b23","chapterSlug":"rw10-52 N","paragraph":138,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a75-7565-af10-451d74752bab","chapterSlug":"rw10-35 (Pt. 1)","paragraph":811,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a75-77e3-95bd-a2efc27fc312","chapterSlug":"rw10-36 - Pt. 2","paragraph":178,"wording":"[Warriors]","event":"named"}
-{"id":"01a06586-0a75-708f-9d6b-56abc65902ad","chapterSlug":"rw10-06","paragraph":860,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"Erin","holderQuote":"Daly and Siri are your two [Warriors], right?"}
+{"id":"01a06586-0a75-708f-9d6b-56abc65902ad","chapterSlug":"rw10-06","paragraph":860,"wording":"[Warriors]","event":"named","claimed":true,"claimedBySlug":"erin","holderQuote":"Daly and Siri are your two [Warriors], right?"}
 {"id":"01a06586-0a75-7658-b504-e72d58fed56c","chapterSlug":"rw10-04 V","paragraph":515,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a75-794e-92b8-a30818e7491f","chapterSlug":"rw9-69 H (Pt. 2)","paragraph":899,"wording":"[Warriors]","event":"named"}
 {"id":"01a06586-0a75-701d-8633-46a8612063a5","chapterSlug":"rw10-19 E","paragraph":1585,"wording":"[Warriors]","event":"named"}

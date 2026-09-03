@@ -5,7 +5,7 @@
 {"id":"01a06586-0a40-7479-8d4b-b1d259da4075","chapterSlug":"rwInterlude - Flos","paragraph":417,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7a07-8f76-bd9f5710f856","chapterSlug":"rwInterlude - Flos","paragraph":417,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-77ec-9725-7c4359d13747","chapterSlug":"rwInterlude - Flos","paragraph":419,"wording":"[Slaver]","event":"named"}
-{"id":"01a06586-0a40-7098-8eed-48beff08614d","chapterSlug":"rwInterlude - Flos","paragraph":420,"wording":"[Slaver]","event":"named","claimed":true,"claimedBySlug":"the Slaver"}
+{"id":"01a06586-0a40-7098-8eed-48beff08614d","chapterSlug":"rwInterlude - Flos","paragraph":420,"wording":"[Slaver]","event":"named","claimed":true,"claimedBySlug":"the-slaver"}
 {"id":"01a06586-0a40-77fc-bd25-aefc555b494c","chapterSlug":"rwInterlude - Flos","paragraph":425,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-769b-8af2-0cd1befe4612","chapterSlug":"rwInterlude - Flos","paragraph":425,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7552-9bd4-0be28bc2accd","chapterSlug":"rwInterlude - Flos","paragraph":446,"wording":"[Slaver]","event":"named"}
@@ -22,7 +22,7 @@
 {"id":"01a06586-0a40-7f67-a03d-7e1222e77817","chapterSlug":"rw8-25 KH","paragraph":1127,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7233-8cdd-05312d09d773","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":463,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7c18-970f-9d29181c5dcf","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":685,"wording":"[Slaver]","event":"named"}
-{"id":"01a06586-0a40-73a8-b8a5-bf5ea56cc4a9","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":1297,"wording":"[Slaver]","event":"named","claimed":true,"claimedBySlug":"Eloque","holderQuote":"“When we first met, you told Igheriz you were better than he. A [Necromancer] better than a [Slaver]. I believed you. Right now? Look what Riqre has done to you.”"}
+{"id":"01a06586-0a40-73a8-b8a5-bf5ea56cc4a9","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":1297,"wording":"[Slaver]","event":"named","claimed":true,"claimedBySlug":"eloque","holderQuote":"“When we first met, you told Igheriz you were better than he. A [Necromancer] better than a [Slaver]. I believed you. Right now? Look what Riqre has done to you.”"}
 {"id":"01a06586-0a40-7e62-8037-9e481816ff50","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":1516,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7c5d-b1d8-4734ce050e51","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":1953,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7f69-b322-f2493882b0b8","chapterSlug":"rw8-32","paragraph":252,"wording":"[Slaver]","event":"named"}
@@ -84,8 +84,8 @@
 {"id":"01a06586-0a40-7c08-8ad0-24660e43e0fd","chapterSlug":"rw9-49","paragraph":585,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-76bb-bc35-9656217f3a0d","chapterSlug":"rw9-49","paragraph":589,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7dcc-af6d-9f2624a4c049","chapterSlug":"rw9-49","paragraph":590,"wording":"[Slaver]","event":"named"}
-{"id":"01a06586-0a40-7fa9-9281-d4a953734670","chapterSlug":"rw9-49","paragraph":626,"wording":"[Slaver]","event":"named","holderSlug":"toriernd","claimed":true,"claimedBySlug":"Toriernd","holderQuote":"Toriernd. We travel humbly upon the Drakes’ trade-roads, north."}
-{"id":"01a06586-0a40-7280-aa44-12801fdc1260","chapterSlug":"rw9-49","paragraph":635,"wording":"[Slaver]","event":"named","holderSlug":"toriernd","claimed":true,"claimedBySlug":"Toriernd","holderQuote":"Toriernd. We travel humbly upon the Drakes’ trade-roads, north."}
+{"id":"01a06586-0a40-7fa9-9281-d4a953734670","chapterSlug":"rw9-49","paragraph":626,"wording":"[Slaver]","event":"named","holderSlug":"toriernd","claimed":true,"claimedBySlug":"toriernd","holderQuote":"Toriernd. We travel humbly upon the Drakes’ trade-roads, north."}
+{"id":"01a06586-0a40-7280-aa44-12801fdc1260","chapterSlug":"rw9-49","paragraph":635,"wording":"[Slaver]","event":"named","holderSlug":"toriernd","claimed":true,"claimedBySlug":"toriernd","holderQuote":"Toriernd. We travel humbly upon the Drakes’ trade-roads, north."}
 {"id":"01a06586-0a40-7923-97c4-12578be58a0f","chapterSlug":"rw9-49","paragraph":643,"wording":"[Slaver]","event":"named","holderSlug":"toriernd","holderQuote":"Toriernd. We travel humbly upon the Drakes’ trade-roads, north."}
 {"id":"01a06586-0a40-7784-ba90-20f84e25c49f","chapterSlug":"rw9-49","paragraph":644,"wording":"[Slaver]","event":"named","holderSlug":"toriernd","holderQuote":"Toriernd. We travel humbly upon the Drakes’ trade-roads, north."}
 {"id":"01a06586-0a40-75ba-97e5-57210fbf4f73","chapterSlug":"rw9-49","paragraph":652,"wording":"[Slaver]","event":"named","holderSlug":"toriernd","holderQuote":"Toriernd seemed very pleased by this, and he glanced at Pisces and smiled"}
@@ -133,11 +133,11 @@
 {"id":"01a06586-0a40-73a6-88d3-40d9749d9dc0","chapterSlug":"rw9-63","paragraph":54,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-7fba-bcf7-42f3ba68496e","chapterSlug":"rw9-63","paragraph":59,"wording":"[Slaver]","event":"named","holderQuote":"Morren jerked and recoiled as the hand dragged him up."}
 {"id":"01a06586-0a40-7710-8b68-2d10285d1494","chapterSlug":"rw9-63","paragraph":63,"wording":"[Slaver]","event":"named","holderSlug":"pazeral","holderQuote":"Now, the ghost of Lord Pazeral rasped through the girl’s mouth, an eerie blend of the two."}
-{"id":"01a06586-0a40-7ed3-b4fe-f43460a8e282","chapterSlug":"rw9-63","paragraph":112,"wording":"[Slaver]","event":"named","holderSlug":"yazdil","claimed":true,"claimedBySlug":"Thatalocian","holderQuote":"You are an interesting man, Emir Yazdil."}
+{"id":"01a06586-0a40-7ed3-b4fe-f43460a8e282","chapterSlug":"rw9-63","paragraph":112,"wording":"[Slaver]","event":"named","holderSlug":"yazdil","claimed":true,"claimedBySlug":"thatalocian","holderQuote":"You are an interesting man, Emir Yazdil."}
 {"id":"01a06586-0a40-78a1-88ae-24980fb408fe","chapterSlug":"rw9-63","paragraph":129,"wording":"[Slaver]","event":"named","holderSlug":"thatalocian","holderQuote":"The old [Numerologist] removed his glasses; and that was it."}
 {"id":"01a06586-0a40-7243-9024-adb77ee29994","chapterSlug":"rw9-63","paragraph":138,"wording":"[Slaver]","event":"named","holderSlug":"thatalocian","holderQuote":"disliked Thatalocian’s piercing gaze"}
 {"id":"01a06586-0a40-7c89-b698-0b9ce3f719f0","chapterSlug":"rw9-63","paragraph":140,"wording":"[Slaver]","event":"named","holderSlug":"thatalocian","holderQuote":"So this was Thatalocian. Yazdil wasn’t disappointed—but he was amazed."}
-{"id":"01a06586-0a40-7773-a44c-0b61d17aa510","chapterSlug":"rw9-63","paragraph":153,"wording":"[Slaver]","event":"named","holderSlug":"thatalocian","claimed":true,"claimedBySlug":"Thatalocian","holderQuote":"Are you a slaver, Thatalocian?"}
+{"id":"01a06586-0a40-7773-a44c-0b61d17aa510","chapterSlug":"rw9-63","paragraph":153,"wording":"[Slaver]","event":"named","holderSlug":"thatalocian","claimed":true,"claimedBySlug":"thatalocian","holderQuote":"Are you a slaver, Thatalocian?"}
 {"id":"01a06586-0a40-71ee-a292-e2f7b5625471","chapterSlug":"rw9-63","paragraph":178,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-77b3-863d-ff952983b06b","chapterSlug":"rw9-63","paragraph":250,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a40-73ee-86d2-66483aad7ba6","chapterSlug":"rw9-63","paragraph":257,"wording":"[Slaver]","event":"named"}
@@ -147,7 +147,7 @@
 {"id":"01a06586-0a41-7e76-8c9b-324d64f280c7","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":1323,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a41-7d75-94eb-efd1d4760b8b","chapterSlug":"rw9-68","paragraph":592,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a41-790a-96d4-25da555caacf","chapterSlug":"rw9-68","paragraph":598,"wording":"[Slaver]","event":"named"}
-{"id":"01a06586-0a41-7ccb-9eaf-445647d1cd0a","chapterSlug":"rw9-68","paragraph":633,"wording":"[Slaver]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"Shaullile","holderQuote":"to become a [Slaver] of Roshal. Class mandatory, of course."}
+{"id":"01a06586-0a41-7ccb-9eaf-445647d1cd0a","chapterSlug":"rw9-68","paragraph":633,"wording":"[Slaver]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"shaullile","holderQuote":"to become a [Slaver] of Roshal. Class mandatory, of course."}
 {"id":"01a06586-0a41-7995-bdb5-bd311959fff3","chapterSlug":"rw9-68","paragraph":671,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a41-7186-8a01-f7622261b6ba","chapterSlug":"rw9-68","paragraph":779,"wording":"[Slaver]","event":"named"}
 {"id":"01a06586-0a41-746a-984a-5da182c6089a","chapterSlug":"rw9-68","paragraph":883,"wording":"[Slaver]","event":"named"}

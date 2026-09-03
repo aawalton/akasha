@@ -20,7 +20,7 @@
 {"id":"01a0657e-137d-741b-9cc2-50c410f758fa","chapterSlug":"rw4-39 G","paragraph":402,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-73c4-bee3-10c2e97d32dc","chapterSlug":"rw4-39 G","paragraph":442,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-7325-b952-136f8b1c17d5","chapterSlug":"rw4-39 G","paragraph":442,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-137d-756c-aec1-f74573f429b1","chapterSlug":"rw1-05 C","paragraph":182,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Tom"}
+{"id":"01a0657e-137d-756c-aec1-f74573f429b1","chapterSlug":"rw1-05 C","paragraph":182,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"tom"}
 {"id":"01a0657e-137d-781d-8ac3-badba8ec0150","chapterSlug":"rw1-03 C","paragraph":434,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-7be9-959d-f0c5247f2424","chapterSlug":"rw4-35 E","paragraph":19,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-70be-9a9e-ec75561faa5f","chapterSlug":"rw4-35 E","paragraph":130,"wording":"[Knights]","event":"named"}
@@ -92,7 +92,7 @@
 {"id":"01a0657e-137d-71af-87c6-64a3e5269a50","chapterSlug":"rw5-23 G","paragraph":110,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-7f37-95d9-6913ed8f796e","chapterSlug":"rw5-23 G","paragraph":167,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-78b4-b8d9-75beca45860d","chapterSlug":"rw5-23 G","paragraph":627,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-137d-78ae-95f4-f6803626850b","chapterSlug":"rw5-11 E","paragraph":551,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Lady Bethal Walchaís"}
+{"id":"01a0657e-137d-78ae-95f4-f6803626850b","chapterSlug":"rw5-11 E","paragraph":551,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"lady-bethal-walchais"}
 {"id":"01a0657e-137d-73ce-a0fa-5be88eb8b8fc","chapterSlug":"rw5-47 G","paragraph":24,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-708f-b5be-4cee6104b5e3","chapterSlug":"rw5-47 G","paragraph":27,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137d-7c7f-b111-4b9e320c8701","chapterSlug":"rw5-47 G","paragraph":30,"wording":"[Knights]","event":"named"}
@@ -116,8 +116,8 @@
 {"id":"01a0657e-137e-7fbb-89f5-b9c575e4f480","chapterSlug":"rw5-37 G","paragraph":119,"wording":"[Knights]","event":"named","holderSlug":"lord-tyrion-veltras","holderQuote":"His [Knights] and mounted [Soldiers] were pursuing the last of Rags’ Redfang warriors as the relieved folk of Riverfarm watched."}
 {"id":"01a0657e-137e-772d-8ffb-163076aaa58a","chapterSlug":"rw5-37 G","paragraph":211,"wording":"[Knights]","event":"named","holderSlug":"lord-tyrion-veltras","holderQuote":"several of the riders in his company were lagging behind."}
 {"id":"01a0657e-137e-7c85-a62c-ec5ff6730e1e","chapterSlug":"rw5-37 G","paragraph":221,"wording":"[Knights]","event":"named","holderSlug":"lord-tyrion-veltras","holderQuote":"Or rather, their horses. Lord Tyrion raised a hand."}
-{"id":"01a0657e-137e-7d39-8431-486b3e243674","chapterSlug":"rw5-37 G","paragraph":258,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Pellmia","holderQuote":"Pellmia dismissed Wiskeria’s complaint with a wave. Tyrion frowned at Pellmia, but smoothed his face before the other man could notice. He spoke calmly, nodding at Wiskeria."}
-{"id":"01a0657e-137e-776a-abc1-acc70d8f934d","chapterSlug":"rw5-37 G","paragraph":273,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Pellmia","holderQuote":"Pellmia snorted."}
+{"id":"01a0657e-137e-7d39-8431-486b3e243674","chapterSlug":"rw5-37 G","paragraph":258,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"pellmia","holderQuote":"Pellmia dismissed Wiskeria’s complaint with a wave. Tyrion frowned at Pellmia, but smoothed his face before the other man could notice. He spoke calmly, nodding at Wiskeria."}
+{"id":"01a0657e-137e-776a-abc1-acc70d8f934d","chapterSlug":"rw5-37 G","paragraph":273,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"pellmia","holderQuote":"Pellmia snorted."}
 {"id":"01a0657e-137e-7c91-babb-72ad10ac380c","chapterSlug":"rw5-37 G","paragraph":303,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-137e-742b-bca9-9b46cb59d361","chapterSlug":"rw5-37 G","paragraph":310,"wording":"[Knights]","event":"named","holderQuote":"Lord Pellmia whooped and raced towards the city with a group of a hundred or so [Knights] and [Lords]"}
 {"id":"01a0657e-137e-715c-8d74-2796718c98fd","chapterSlug":"rw5-57","paragraph":13,"wording":"[Knights]","event":"named"}
@@ -1357,8 +1357,8 @@
 {"id":"01a0657e-1381-7553-83a7-f20a0f60ff5b","chapterSlug":"rw8-71","paragraph":65,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-78d3-a13b-d9211cbd049d","chapterSlug":"rw8-71","paragraph":262,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-75e2-b726-9d302bfa9efe","chapterSlug":"rw8-71","paragraph":275,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1381-7c97-8e3d-cdcce8ece38f","chapterSlug":"rw8-71","paragraph":288,"wording":"[Knights]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"Itorin","holderQuote":"Rhisveri is particular about these things, my love. If you can tolerate it, let him have the [Knights]."}
-{"id":"01a0657e-1381-7707-8490-b7e42608fdb3","chapterSlug":"rw8-71","paragraph":289,"wording":"[Knights]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"Itorin","holderQuote":"Rhisveri is particular about these things, my love. If you can tolerate it, let him have the [Knights]."}
+{"id":"01a0657e-1381-7c97-8e3d-cdcce8ece38f","chapterSlug":"rw8-71","paragraph":288,"wording":"[Knights]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"itorin","holderQuote":"Rhisveri is particular about these things, my love. If you can tolerate it, let him have the [Knights]."}
+{"id":"01a0657e-1381-7707-8490-b7e42608fdb3","chapterSlug":"rw8-71","paragraph":289,"wording":"[Knights]","event":"named","holderSlug":"rhisveri","claimed":true,"claimedBySlug":"itorin","holderQuote":"Rhisveri is particular about these things, my love. If you can tolerate it, let him have the [Knights]."}
 {"id":"01a0657e-1381-7b84-a3bd-beb0c6c2450d","chapterSlug":"rw8-71","paragraph":572,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-7a4e-bd9c-6d6f5fb01595","chapterSlug":"rw8-71","paragraph":573,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-7573-9fe9-65d26b3017cc","chapterSlug":"rw8-71","paragraph":600,"wording":"[Knights]","event":"named"}
@@ -1373,7 +1373,7 @@
 {"id":"01a0657e-1381-70f4-b3a4-c0f15cc62e74","chapterSlug":"rwInterlude - Satar","paragraph":1317,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-7ea6-a630-efb78ab5d333","chapterSlug":"rwInterlude - Satar","paragraph":1740,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-7a22-a5fd-753f9663b403","chapterSlug":"rw8-66","paragraph":320,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1381-78a7-b60b-87c8bbb88a2b","chapterSlug":"rw8-66","paragraph":646,"wording":"[Knights]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"Cire","holderQuote":"Cire. Go and stop Makhir."}
+{"id":"01a0657e-1381-78a7-b60b-87c8bbb88a2b","chapterSlug":"rw8-66","paragraph":646,"wording":"[Knights]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"cire","holderQuote":"Cire. Go and stop Makhir."}
 {"id":"01a0657e-1381-75b8-882d-b7d44eb1f0f1","chapterSlug":"rw8-67","paragraph":73,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-7a3e-9550-771f6e30d34d","chapterSlug":"rw8-73 R","paragraph":54,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1381-76fd-8874-05f50efac9fd","chapterSlug":"rw8-73 R","paragraph":82,"wording":"[Knights]","event":"named"}
@@ -1701,7 +1701,7 @@
 {"id":"01a0657e-1382-7500-b470-8d3ed0291adf","chapterSlug":"rw9-16 R","paragraph":383,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7a6e-b586-218f183939fc","chapterSlug":"rw9-16 R","paragraph":424,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7ed9-b8f5-eace2323d1f0","chapterSlug":"rw9-16 R","paragraph":437,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-71d3-a11f-d5bb30f6e573","chapterSlug":"rw9-16 R","paragraph":462,"wording":"[Knights]","event":"named","holderSlug":"rabbiteater","claimed":true,"claimedBySlug":"Voloke","holderQuote":"I’ll see what one of the best [Knights] in this war can do"}
+{"id":"01a0657e-1382-71d3-a11f-d5bb30f6e573","chapterSlug":"rw9-16 R","paragraph":462,"wording":"[Knights]","event":"named","holderSlug":"rabbiteater","claimed":true,"claimedBySlug":"voloke","holderQuote":"I’ll see what one of the best [Knights] in this war can do"}
 {"id":"01a0657e-1382-7c9a-81d5-62280ace3b56","chapterSlug":"rw9-16 R","paragraph":495,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7729-970b-9b5fff8d2286","chapterSlug":"rw9-16 R","paragraph":498,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7df1-98d4-7864be3f63a8","chapterSlug":"rw9-16 R","paragraph":515,"wording":"[Knights]","event":"named"}
@@ -1732,7 +1732,7 @@
 {"id":"01a0657e-1382-7ddf-af3d-0a845fffca49","chapterSlug":"rw9-17 R","paragraph":1112,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7a36-9978-9d304ff9b62d","chapterSlug":"rw9-17 R","paragraph":1257,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7267-a6f9-db685cb2e8b2","chapterSlug":"rw9-17 R","paragraph":1335,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-7fc8-8175-e18158406624","chapterSlug":"rw9-18 E","paragraph":829,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Erin"}
+{"id":"01a0657e-1382-7fc8-8175-e18158406624","chapterSlug":"rw9-18 E","paragraph":829,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"erin"}
 {"id":"01a0657e-1382-7fb8-9e62-baef9f7d3e70","chapterSlug":"rwInterlude - Relationships","paragraph":525,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7ca0-a99d-5ee02a3c0078","chapterSlug":"rwInterlude - Relationships","paragraph":541,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7c51-af39-60de66cd69fc","chapterSlug":"rwInterlude - Relationships","paragraph":599,"wording":"[Knights]","event":"named"}
@@ -1796,7 +1796,7 @@
 {"id":"01a0657e-1382-7467-b025-e7195146cda0","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1035,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7ea2-9e98-d6f1c1c96ada","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1082,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7558-8e82-b9aec0a8a0da","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1134,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-73f0-88aa-b478239b2f00","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1223,"wording":"[Knights]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"Erin","holderQuote":"Especially…if it would help a bunch of [Knights]."}
+{"id":"01a0657e-1382-73f0-88aa-b478239b2f00","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1223,"wording":"[Knights]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"Especially…if it would help a bunch of [Knights]."}
 {"id":"01a0657e-1382-701b-97d8-019eac38e360","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1239,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7b02-ae72-7ef2585f07a1","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1316,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-76b0-a9a9-13d2fafba7c9","chapterSlug":"rw9-41 (Pt. 1)","paragraph":1336,"wording":"[Knights]","event":"named"}
@@ -1855,7 +1855,7 @@
 {"id":"01a0657e-1382-7415-a7a1-5bee66103512","chapterSlug":"rwInterlude - Levels","paragraph":695,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7477-8c39-82ff2cf572b1","chapterSlug":"rwInterlude - Levels","paragraph":942,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-76d8-b8c8-6c614d3bbe39","chapterSlug":"rwInterlude - Levels","paragraph":998,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-7336-b6ef-0336046fcc26","chapterSlug":"rwInterlude - Levels","paragraph":1021,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Elia","holderQuote":"Elia paused, and she leaned on her bow."}
+{"id":"01a0657e-1382-7336-b6ef-0336046fcc26","chapterSlug":"rwInterlude - Levels","paragraph":1021,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"elia","holderQuote":"Elia paused, and she leaned on her bow."}
 {"id":"01a0657e-1382-7956-b083-45a93dcb7802","chapterSlug":"rw10-31 - Pt. 2","paragraph":1035,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7332-a786-752ea49913ae","chapterSlug":"rw9-43 L","paragraph":74,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7a21-bbab-22b6a3559de1","chapterSlug":"rw9-43 L","paragraph":212,"wording":"[Knights]","event":"named"}
@@ -1931,7 +1931,7 @@
 {"id":"01a0657e-1382-7563-99a2-9eb288a89d8b","chapterSlug":"rw10-40 T","paragraph":373,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7c5f-8fac-91f9358b2405","chapterSlug":"rw10-40 T","paragraph":889,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7158-9d64-b5cb75313c65","chapterSlug":"rw10-40 T","paragraph":962,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-73de-b40c-14c682c57e93","chapterSlug":"rw9-49","paragraph":37,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Ceria","holderQuote":"Erin has her [Knights], now, and the other Gold-rank teams"}
+{"id":"01a0657e-1382-73de-b40c-14c682c57e93","chapterSlug":"rw9-49","paragraph":37,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"ceria","holderQuote":"Erin has her [Knights], now, and the other Gold-rank teams"}
 {"id":"01a0657e-1382-7f48-a64e-135075b205d1","chapterSlug":"rw10-32 (Pt. 1)","paragraph":1342,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-78a2-ad53-879ffdaa0362","chapterSlug":"rw9-53","paragraph":192,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7708-b830-67e607620001","chapterSlug":"rw9-53","paragraph":394,"wording":"[Knights]","event":"named"}
@@ -1976,7 +1976,7 @@
 {"id":"01a0657e-1382-7914-94b8-a09105850dd7","chapterSlug":"rw9-41 (Pt. 3)","paragraph":865,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7088-a955-8544f0995e4b","chapterSlug":"rw9-41 (Pt. 3)","paragraph":891,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7f10-9d66-1f5a6e723ac9","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1101,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-70ba-845a-fbd60b23f9ab","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1223,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Bethal Walchaís","holderQuote":"Lady Bethal Walchaís and six of her Petal Knights"}
+{"id":"01a0657e-1382-70ba-845a-fbd60b23f9ab","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1223,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"bethal-walchais","holderQuote":"Lady Bethal Walchaís and six of her Petal Knights"}
 {"id":"01a0657e-1382-7f7e-8bf5-4bdb1011009c","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1240,"wording":"[Knights]","event":"named","holderQuote":"the Thronebearers were guarding both rooms"}
 {"id":"01a0657e-1382-7e81-a664-eabe11c26d1f","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1641,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7f39-8557-2382403374a6","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1930,"wording":"[Knights]","event":"named"}
@@ -2002,7 +2002,7 @@
 {"id":"01a0657e-1382-7cfb-b5ef-11c032c7f797","chapterSlug":"rw9-70 (Pt. 3)","paragraph":464,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7f12-b0f1-62abba2801dd","chapterSlug":"rw9-70 (Pt. 3)","paragraph":752,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-78aa-ae88-f4a8a1f5377f","chapterSlug":"rw9-52","paragraph":972,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-7309-a6e2-1a7d5714fc38","chapterSlug":"rw9-52","paragraph":1204,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Magnolia","holderQuote":"They need more than eight [Knights] and a beach."}
+{"id":"01a0657e-1382-7309-a6e2-1a7d5714fc38","chapterSlug":"rw9-52","paragraph":1204,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"magnolia","holderQuote":"They need more than eight [Knights] and a beach."}
 {"id":"01a0657e-1382-7c5b-ab55-8eb45605a3c1","chapterSlug":"rw9-48 BTIPRLJMWVRV","paragraph":209,"wording":"[Knights]","event":"named","holderQuote":"Lady Bethal waved at Imani, who looked flustered to have a"}
 {"id":"01a0657e-1382-724b-b3b6-3d36f9fbc604","chapterSlug":"rw9-48 BTIPRLJMWVRV","paragraph":310,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-710b-8a5c-a6c7cbec44be","chapterSlug":"rw9-48 BTIPRLJMWVRV","paragraph":322,"wording":"[Knights]","event":"named","holderQuote":"Goblins had killed Bethal’s family."}
@@ -2012,7 +2012,7 @@
 {"id":"01a0657e-1382-7cbf-9806-4a082c818b33","chapterSlug":"rwInterlude - Halfseekers (Pt- 2)","paragraph":587,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7eba-b6fc-9872d66d6e96","chapterSlug":"rwInterlude - Halfseekers (Pt- 2)","paragraph":590,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7b1d-8d04-1e5586a5266b","chapterSlug":"rwInterlude - Halfseekers (Pt- 2)","paragraph":603,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1382-7c6c-88cf-0723c765409a","chapterSlug":"rw10-60 YN","paragraph":418,"wording":"[Knights]","event":"named","holderSlug":"ylawes","claimed":true,"claimedBySlug":"Lyonette","holderQuote":"Not you, Ylawes Byres. We must have men like you"}
+{"id":"01a0657e-1382-7c6c-88cf-0723c765409a","chapterSlug":"rw10-60 YN","paragraph":418,"wording":"[Knights]","event":"named","holderSlug":"ylawes","claimed":true,"claimedBySlug":"lyonette","holderQuote":"Not you, Ylawes Byres. We must have men like you"}
 {"id":"01a0657e-1382-7881-a1fe-653b48bd7518","chapterSlug":"rw10-60 YN","paragraph":1758,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7615-8856-2267a29b5468","chapterSlug":"rw10-60 YN","paragraph":1761,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1382-7b97-a7f3-4dbf96ec754c","chapterSlug":"rw10-60 YN","paragraph":1767,"wording":"[Knights]","event":"named"}
@@ -2098,9 +2098,9 @@
 {"id":"01a0657e-1383-749c-b7b1-cd35c9268db0","chapterSlug":"rw9-64 BH","paragraph":65,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7e07-a160-df8d9662a8e7","chapterSlug":"rw9-60","paragraph":329,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7960-8b26-f64da8ae727b","chapterSlug":"rw9-60","paragraph":571,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1383-7bcc-bc2e-7b321bc5bccb","chapterSlug":"rw9-60","paragraph":717,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Lieutenant Caoraz","holderQuote":"[Knights] who’d charge straight at pikelines."}
+{"id":"01a0657e-1383-7bcc-bc2e-7b321bc5bccb","chapterSlug":"rw9-60","paragraph":717,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"lieutenant-caoraz","holderQuote":"[Knights] who’d charge straight at pikelines."}
 {"id":"01a0657e-1383-7642-a738-8a7f6f6567c9","chapterSlug":"rw9-63","paragraph":409,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1383-7c03-b982-478f3769f72d","chapterSlug":"rw9-63","paragraph":478,"wording":"[Knights]","event":"named","holderSlug":"seraphel","claimed":true,"claimedBySlug":"Seraphel","holderQuote":"Neranthei ordered him out and knelt as Seraphel quieted a second."}
+{"id":"01a0657e-1383-7c03-b982-478f3769f72d","chapterSlug":"rw9-63","paragraph":478,"wording":"[Knights]","event":"named","holderSlug":"seraphel","claimed":true,"claimedBySlug":"seraphel","holderQuote":"Neranthei ordered him out and knelt as Seraphel quieted a second."}
 {"id":"01a0657e-1383-703e-9720-9dc449999d0d","chapterSlug":"rw9-63","paragraph":506,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7fb4-b4c9-8c16e5d885ec","chapterSlug":"rw9-63","paragraph":572,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7463-baa6-8af9a05cfbe4","chapterSlug":"rw9-63","paragraph":641,"wording":"[Knights]","event":"named"}
@@ -2122,7 +2122,7 @@
 {"id":"01a0657e-1383-7d45-a509-8f6abef9e68d","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":425,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7a3c-93dd-cd33f973b2ca","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":433,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7cf5-9ea9-fd54e6eccda0","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":848,"wording":"[Knights]","event":"named","holderQuote":"nearly three dozen Knights of Autumn crowded the doorway"}
-{"id":"01a0657e-1383-7ecf-aa5a-b6b1da6c9f5e","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":858,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Ser Venoriat","holderQuote":"nearly three dozen Knights of Autumn crowded the doorway"}
+{"id":"01a0657e-1383-7ecf-aa5a-b6b1da6c9f5e","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":858,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"ser-venoriat","holderQuote":"nearly three dozen Knights of Autumn crowded the doorway"}
 {"id":"01a0657e-1383-73f3-8b12-7ee8e6795c96","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":859,"wording":"[Knights]","event":"named","holderQuote":"nearly three dozen Knights of Autumn crowded the doorway"}
 {"id":"01a0657e-1383-7b22-8577-ff8aa1f555bf","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":859,"wording":"[Knights]","event":"named","holderQuote":"nearly three dozen Knights of Autumn crowded the doorway"}
 {"id":"01a0657e-1383-7e23-a3b8-f488b711cc7e","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":867,"wording":"[Knights]","event":"named","holderQuote":"nearly three dozen Knights of Autumn crowded the doorway"}
@@ -2213,7 +2213,7 @@
 {"id":"01a0657e-1383-7285-b73e-159b20d06392","chapterSlug":"rw10-37 GDI (Pt. 3)","paragraph":1052,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-77d3-b6f3-3e25383912e6","chapterSlug":"rw10-37 GDI (Pt. 3)","paragraph":1186,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-71d5-bdae-76fcffb1d482","chapterSlug":"rw10-53 UEG","paragraph":1337,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1383-7b84-bc66-ffcab26382f3","chapterSlug":"rw10-53 UEG","paragraph":1342,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Solton","holderQuote":"Solton rode with Garry as the [Chef] considered his words"}
+{"id":"01a0657e-1383-7b84-bc66-ffcab26382f3","chapterSlug":"rw10-53 UEG","paragraph":1342,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"solton","holderQuote":"Solton rode with Garry as the [Chef] considered his words"}
 {"id":"01a0657e-1383-7826-9ad4-8e88ce2ca363","chapterSlug":"rw10-53 UEG","paragraph":2482,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7816-a8fc-a0b66350fcf7","chapterSlug":"rw10-53 UEG","paragraph":2484,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7fef-9d2b-bd5b95ad861e","chapterSlug":"rw10-36 - Pt. 2","paragraph":178,"wording":"[Knights]","event":"named"}
@@ -2292,7 +2292,7 @@
 {"id":"01a0657e-1383-7811-9e64-09da5c11194d","chapterSlug":"rw10-20 E","paragraph":1224,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7c97-b0f3-3b53838ee81b","chapterSlug":"rw10-20 E","paragraph":1225,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7bd3-bce3-9afb0af7f44b","chapterSlug":"rw10-20 E","paragraph":1280,"wording":"[Knights]","event":"named"}
-{"id":"01a0657e-1383-716d-9164-4abd66923b8b","chapterSlug":"rw10-20 E","paragraph":1302,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"Jewel","holderQuote":"Jewel pointed out the obvious as she stared out the window."}
+{"id":"01a0657e-1383-716d-9164-4abd66923b8b","chapterSlug":"rw10-20 E","paragraph":1302,"wording":"[Knights]","event":"named","claimed":true,"claimedBySlug":"jewel","holderQuote":"Jewel pointed out the obvious as she stared out the window."}
 {"id":"01a0657e-1383-737a-84fa-b54b4ed9d0c3","chapterSlug":"rw10-20 E","paragraph":1381,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7bfe-a463-b40f25a215fc","chapterSlug":"rw10-20 E","paragraph":1398,"wording":"[Knights]","event":"named"}
 {"id":"01a0657e-1383-7bda-989c-65e93ed3d123","chapterSlug":"rw10-20 E","paragraph":1398,"wording":"[Knights]","event":"named"}

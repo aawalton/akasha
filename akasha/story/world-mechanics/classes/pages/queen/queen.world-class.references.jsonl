@@ -21,7 +21,7 @@
 {"id":"01a0657e-0241-7b56-9c8b-cbfab6393ac1","chapterSlug":"rw6-12 K","paragraph":657,"wording":"[Queen]","event":"named","holderSlug":"calliope","holderQuote":"He gave curt orders in the camp. Watch the city; he didn’t trust Calliope, for all she was no longer [Queen]. Then he retired to Mars’ tent."}
 {"id":"01a0657e-0241-779a-8498-f7edede2d2da","chapterSlug":"rw6-12 K","paragraph":671,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7696-9f4b-684486ca03d1","chapterSlug":"rw6-08","paragraph":790,"wording":"[Queen]","event":"named","holderSlug":"lyonette","holderQuote":"And in her head, she felt Lyonette’s thoughts about the inn, complex, foreign, but just a part of Apista as her body."}
-{"id":"01a0657e-0241-75aa-aefd-7c6f530c89b1","chapterSlug":"rw6-13 K","paragraph":338,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Trey"}
+{"id":"01a0657e-0241-75aa-aefd-7c6f530c89b1","chapterSlug":"rw6-13 K","paragraph":338,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"trey"}
 {"id":"01a0657e-0241-78c5-8113-02d2c8bd83e8","chapterSlug":"rw6-15 K","paragraph":322,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7352-a10e-1dff326c683c","chapterSlug":"rw6-15 K","paragraph":424,"wording":"[Queen]","event":"named","holderSlug":"revine","holderQuote":"And the chaotic warriors who raced ahead of their [Queen]."}
 {"id":"01a0657e-0241-7a30-b01b-55739617f026","chapterSlug":"rw6-15 K","paragraph":442,"wording":"[Queen]","event":"named","holderSlug":"yisame","holderQuote":"And the [Queen] who rode a chariot of gold pulled by two white stallions was the most beautiful of all."}
@@ -57,21 +57,21 @@
 {"id":"01a0657e-0241-718b-882c-8625adde8092","chapterSlug":"rw7-11","paragraph":1,"wording":"[Queen]","event":"named","holderQuote":"Queen Yisame was pale as she declared war again on Belchan"}
 {"id":"01a0657e-0241-7fc8-97cc-3d703321b271","chapterSlug":"rw7-15 R","paragraph":335,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7231-8503-0d7e0aae25e7","chapterSlug":"rw7-24","paragraph":34,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0241-7782-8c51-ffe21358bc27","chapterSlug":"rwInterlude - The Gecko of Illusions","paragraph":1174,"wording":"[Queen]","event":"named","holderSlug":"ryoka","claimed":true,"claimedBySlug":"Ryoka","holderQuote":"The Drake snorted. He saw Ryoka stretch out."}
+{"id":"01a0657e-0241-7782-8c51-ffe21358bc27","chapterSlug":"rwInterlude - The Gecko of Illusions","paragraph":1174,"wording":"[Queen]","event":"named","holderSlug":"ryoka","claimed":true,"claimedBySlug":"ryoka","holderQuote":"The Drake snorted. He saw Ryoka stretch out."}
 {"id":"01a0657e-0241-7775-968a-3f237e13ab91","chapterSlug":"rw7-31","paragraph":674,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7869-8778-4d9c161ea36e","chapterSlug":"rw7-34 C","paragraph":73,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7337-bfb9-191fbe635713","chapterSlug":"rw7-34 C","paragraph":160,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7cc3-bf32-1321f4da1f8d","chapterSlug":"rw7-46 K","paragraph":542,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"He nodded at Yisame"}
 {"id":"01a0657e-0241-7c07-ae60-0f7ae0109d7e","chapterSlug":"rw7-46 K","paragraph":557,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"Yisame had said not a word"}
 {"id":"01a0657e-0241-7e39-9d84-021a831082c6","chapterSlug":"rw7-46 K","paragraph":572,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","claimed":true,"claimedBySlug":"raelt-leysars","holderQuote":"I am addressing Queen Yisame"}
-{"id":"01a0657e-0241-7807-8341-56cd79b76f71","chapterSlug":"rw7-47 K","paragraph":408,"wording":"[Queen]","event":"named","holderSlug":"jecaina","claimed":true,"claimedBySlug":"Geril","holderQuote":"Jecaina’s eyes stung. She felt something bop her on the head."}
+{"id":"01a0657e-0241-7807-8341-56cd79b76f71","chapterSlug":"rw7-47 K","paragraph":408,"wording":"[Queen]","event":"named","holderSlug":"jecaina","claimed":true,"claimedBySlug":"geril","holderQuote":"Jecaina’s eyes stung. She felt something bop her on the head."}
 {"id":"01a0657e-0241-7e4d-869f-f37141dc4d38","chapterSlug":"rwInterlude - The Innkeeper's [Knight]","paragraph":242,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7f41-866e-d5ffb90003bc","chapterSlug":"rwInterlude - The Innkeeper's [Knight]","paragraph":1017,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-752a-acb7-c484b1618970","chapterSlug":"rwInterlude - The Innkeeper's [Knight]","paragraph":1364,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-74ec-ac4b-4a659a4fc3c1","chapterSlug":"rwInterlude - The Innkeeper's [Knight]","paragraph":1384,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7047-9765-484235979f01","chapterSlug":"rwInterlude - The Innkeeper's [Knight]","paragraph":1409,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-77b7-94f3-e77706863e27","chapterSlug":"rw7-62","paragraph":605,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0241-7062-93e9-3b082df74177","chapterSlug":"rw8-10","paragraph":188,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"a Gnoll","holderQuote":"“I did. But that [Queen]—the Arbiter Queen of Jecrass, she was smart and young, but she should have asked us, yes? We would have given her an answer quickly enough!”"}
+{"id":"01a0657e-0241-7062-93e9-3b082df74177","chapterSlug":"rw8-10","paragraph":188,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"a-gnoll","holderQuote":"“I did. But that [Queen]—the Arbiter Queen of Jecrass, she was smart and young, but she should have asked us, yes? We would have given her an answer quickly enough!”"}
 {"id":"01a0657e-0241-7f22-9e3e-e34ba257e457","chapterSlug":"rw8-11 E (Revised)","paragraph":1571,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7a3a-91fc-93ccd472203c","chapterSlug":"rw8-01","paragraph":905,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0241-7d11-b70e-399accbdf5cc","chapterSlug":"rw8-01","paragraph":1133,"wording":"[Queen]","event":"named"}
@@ -146,7 +146,7 @@
 {"id":"01a0657e-0242-765c-93a0-2425ffd09714","chapterSlug":"rw8-16","paragraph":75,"wording":"[Queen]","event":"named","holderSlug":"geilouna","holderQuote":"[Sleep Storage] and [Quick Slumber] had evolved with her, such that in an hour of need…or weeks…Geilouna could tend to the affairs of her nation without need of sleep, for a month straight if need be. She had done that once."}
 {"id":"01a0657e-0242-787b-bdd3-60d168f86cef","chapterSlug":"rw8-16","paragraph":84,"wording":"[Queen]","event":"named","holderSlug":"geilouna","holderQuote":"The Earl dared the [Queen]. Every head flicked back to Geilouna as her eyes narrowed. Would she dare? Then the Bedtime Queen proved why she had managed to keep Altestiel’s loyalty and rule the famously temperamental Earl of Rains."}
 {"id":"01a0657e-0242-7e50-9d3f-7d67c253c02a","chapterSlug":"rw8-16","paragraph":87,"wording":"[Queen]","event":"named","holderSlug":"geilouna","holderQuote":"The Earl dared the [Queen]. Every head flicked back to Geilouna as her eyes narrowed. Would she dare? Then the Bedtime Queen proved why she had managed to keep Altestiel’s loyalty and rule the famously temperamental Earl of Rains."}
-{"id":"01a0657e-0242-76da-8d4d-d377fa4a60ec","chapterSlug":"rw8-16","paragraph":89,"wording":"[Queen]","event":"named","holderSlug":"geilouna","claimed":true,"claimedBySlug":"Geilouna","holderQuote":"“By right of the Crown of Waters, as [Queen] of this land, I now pronounce Earl Altestiel and Miss Kiish of Desonis as husband and…”"}
+{"id":"01a0657e-0242-76da-8d4d-d377fa4a60ec","chapterSlug":"rw8-16","paragraph":89,"wording":"[Queen]","event":"named","holderSlug":"geilouna","claimed":true,"claimedBySlug":"geilouna","holderQuote":"“By right of the Crown of Waters, as [Queen] of this land, I now pronounce Earl Altestiel and Miss Kiish of Desonis as husband and…”"}
 {"id":"01a0657e-0242-7ba9-b3ee-7dbd9d66d467","chapterSlug":"rw8-16","paragraph":128,"wording":"[Queen]","event":"named","holderSlug":"geilouna","holderQuote":"“I confess, I might have stayed the entire day at court if you hadn’t shown up. Your [Queen] is rather gracious, Altestiel. I forgot how they mob me. Oh, thank you, Kiish.”"}
 {"id":"01a0657e-0242-703b-b1ae-19ca2e54ad9c","chapterSlug":"rw8-18 H","paragraph":149,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-76e0-bc04-f1715d2e4f59","chapterSlug":"rw8-19 H","paragraph":705,"wording":"[Queen]","event":"named"}
@@ -158,20 +158,20 @@
 {"id":"01a0657e-0242-7f53-b6f5-ea29f974b7f6","chapterSlug":"rwInterlude - The Pets of Innworld","paragraph":286,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-72a4-997f-ed436d512426","chapterSlug":"rw8-32","paragraph":237,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7459-91ea-dec5ec0327e2","chapterSlug":"rw8-32","paragraph":239,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0242-7c9a-92a5-70cf13baba3f","chapterSlug":"rw8-32","paragraph":245,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
-{"id":"01a0657e-0242-780c-8cf0-62951bc67fa2","chapterSlug":"rw8-32","paragraph":249,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
-{"id":"01a0657e-0242-7616-b39c-7d00fe32bcab","chapterSlug":"rw8-32","paragraph":256,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
-{"id":"01a0657e-0242-7a9b-8caa-ad69fe78161f","chapterSlug":"rw8-32","paragraph":259,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
-{"id":"01a0657e-0242-7326-a05b-a96b60c97fea","chapterSlug":"rw8-32","paragraph":259,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
-{"id":"01a0657e-0242-7348-bd57-49de4e6cfd85","chapterSlug":"rw8-32","paragraph":261,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
-{"id":"01a0657e-0242-7793-83ba-9afe69e442d3","chapterSlug":"rw8-32","paragraph":265,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
-{"id":"01a0657e-0242-7238-960a-bd79d4c33309","chapterSlug":"rw8-32","paragraph":268,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"Merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-7c9a-92a5-70cf13baba3f","chapterSlug":"rw8-32","paragraph":245,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-780c-8cf0-62951bc67fa2","chapterSlug":"rw8-32","paragraph":249,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-7616-b39c-7d00fe32bcab","chapterSlug":"rw8-32","paragraph":256,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-7a9b-8caa-ad69fe78161f","chapterSlug":"rw8-32","paragraph":259,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-7326-a05b-a96b60c97fea","chapterSlug":"rw8-32","paragraph":259,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-7348-bd57-49de4e6cfd85","chapterSlug":"rw8-32","paragraph":261,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-7793-83ba-9afe69e442d3","chapterSlug":"rw8-32","paragraph":265,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
+{"id":"01a0657e-0242-7238-960a-bd79d4c33309","chapterSlug":"rw8-32","paragraph":268,"wording":"[Queen]","event":"named","holderSlug":"merindue","claimed":true,"claimedBySlug":"merindue","holderQuote":"I was the second Queen of Nerrhavia’s Fallen after the tyrant died. Queen Merindue, Level 43 [Queen of the Freed Peoples]."}
 {"id":"01a0657e-0242-7dd9-99e5-74d895f955b5","chapterSlug":"rw8-32","paragraph":299,"wording":"[Queen]","event":"named","holderSlug":"merindue","holderQuote":"Merindue heard Cawe’s puzzled words."}
 {"id":"01a0657e-0242-7175-b082-4cc02113622d","chapterSlug":"rw8-32","paragraph":402,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-749a-9c3e-fb773a12f1da","chapterSlug":"rw8-32","paragraph":437,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7d00-90d6-07096f69fd68","chapterSlug":"rw8-32","paragraph":448,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-70bc-b114-27859d1d00f6","chapterSlug":"rw8-32","paragraph":502,"wording":"[Queen]","event":"named","holderSlug":"merindue","holderQuote":"Erin Solstice gave Nerrhavia a puzzled look. The woman’s face went slack, and Queen Merindue laughed aloud. Especially because that too was deliberate, as Erin proved by beaming at the [Queen]."}
-{"id":"01a0657e-0242-760d-bc9b-fb81cc867460","chapterSlug":"rw8-32","paragraph":517,"wording":"[Queen]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"Nerrhavia","holderQuote":"She does not lack for passion, that one. Only for seriousness. If she were always thus—-she would make a far finer [Queen] than [Innkeeper]. Better that than [Witch]."}
+{"id":"01a0657e-0242-760d-bc9b-fb81cc867460","chapterSlug":"rw8-32","paragraph":517,"wording":"[Queen]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"nerrhavia","holderQuote":"She does not lack for passion, that one. Only for seriousness. If she were always thus—-she would make a far finer [Queen] than [Innkeeper]. Better that than [Witch]."}
 {"id":"01a0657e-0242-71b8-b332-3735cb1de366","chapterSlug":"rw8-44 O","paragraph":683,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-754a-b2ec-5bd83229a3b3","chapterSlug":"rwInterlude - Perspective and Past","paragraph":385,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7e0f-be29-edb3e8cd06e9","chapterSlug":"rwInterlude - Perspective and Past","paragraph":621,"wording":"[Queen]","event":"named"}
@@ -254,7 +254,7 @@
 {"id":"01a0657e-0242-726d-90fc-a54a20389b0e","chapterSlug":"rw8-61","paragraph":936,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7846-8d8c-c57fed9b5bb8","chapterSlug":"rw8-61","paragraph":946,"wording":"[Queen]","event":"named","holderQuote":"Califor? Khelta?"}
 {"id":"01a0657e-0242-7641-b9c9-2c05b75688d1","chapterSlug":"rw8-70 E","paragraph":58,"wording":"[Queen]","event":"named","holderSlug":"marquin","holderQuote":"She had not known Marquin, but the [Queen] turned to her fearlessly"}
-{"id":"01a0657e-0242-7cb8-a57d-00efadcbaa18","chapterSlug":"rw8-70 E","paragraph":84,"wording":"[Queen]","event":"named","holderSlug":"marquin","claimed":true,"claimedBySlug":"Marquin","holderQuote":"After I was named [Queen] and given a nation to rule, I laid down my sword"}
+{"id":"01a0657e-0242-7cb8-a57d-00efadcbaa18","chapterSlug":"rw8-70 E","paragraph":84,"wording":"[Queen]","event":"named","holderSlug":"marquin","claimed":true,"claimedBySlug":"marquin","holderQuote":"After I was named [Queen] and given a nation to rule, I laid down my sword"}
 {"id":"01a0657e-0242-7617-a5f1-710ad16aeac8","chapterSlug":"rw8-70 E","paragraph":89,"wording":"[Queen]","event":"named","holderSlug":"marquin","holderQuote":"Then her head rose, and the [Queen] looked around"}
 {"id":"01a0657e-0242-76bb-9188-cc6df84283ca","chapterSlug":"rw8-70 E","paragraph":92,"wording":"[Queen]","event":"named","holderSlug":"marquin","holderQuote":"she gave a regal nod and spoke as the [Queen] looked at her"}
 {"id":"01a0657e-0242-73d5-a06f-bf48482b63d1","chapterSlug":"rw8-70 E","paragraph":94,"wording":"[Queen]","event":"named","holderSlug":"marquin","holderQuote":"The [Queen] nodded, and the Dragon and she stood there, waiting for the newly-dead to tell them news of the present"}
@@ -274,8 +274,8 @@
 {"id":"01a0657e-0242-7999-ad3d-8f81ded1b072","chapterSlug":"rw8-58 PFH","paragraph":1050,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"Yisame looked down at Yvlon, smiling"}
 {"id":"01a0657e-0242-7e7c-8b36-5ffde105b3d5","chapterSlug":"rw8-58 PFH","paragraph":1052,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"Yisame looked down at Yvlon, smiling"}
 {"id":"01a0657e-0242-7b3c-9af8-e4a3d1c56af6","chapterSlug":"rw8-60","paragraph":656,"wording":"[Queen]","event":"named","holderQuote":"Yvlon Byres sat and talked with Queen Yisame and the Great Sage Etrikah."}
-{"id":"01a0657e-0242-7c93-b186-e0bff20adc17","chapterSlug":"rw8-62 K","paragraph":398,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Telim","holderQuote":"This is Marquin, the first [Queen] of Calanfer."}
-{"id":"01a0657e-0242-7bcc-a057-f803f3aed055","chapterSlug":"rw8-62 K","paragraph":412,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Telim","holderQuote":"This is Marquin, the first [Queen] of Calanfer."}
+{"id":"01a0657e-0242-7c93-b186-e0bff20adc17","chapterSlug":"rw8-62 K","paragraph":398,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"telim","holderQuote":"This is Marquin, the first [Queen] of Calanfer."}
+{"id":"01a0657e-0242-7bcc-a057-f803f3aed055","chapterSlug":"rw8-62 K","paragraph":412,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"telim","holderQuote":"This is Marquin, the first [Queen] of Calanfer."}
 {"id":"01a0657e-0242-757f-a469-90297ebae6ee","chapterSlug":"rw8-59 H","paragraph":54,"wording":"[Queen]","event":"named","holderQuote":"Cara was staring straight at Queen Oiena."}
 {"id":"01a0657e-0242-7e57-a6f4-02e68ffbc407","chapterSlug":"rw8-59 H","paragraph":79,"wording":"[Queen]","event":"named","holderQuote":"Queen Oiena murmured."}
 {"id":"01a0657e-0242-72fc-8488-45010e1e69be","chapterSlug":"rw8-59 H","paragraph":167,"wording":"[Queen]","event":"named","holderSlug":"yisame","holderQuote":"Yisame wanted no effort spared, so she had commanded one of the Tome Magi of the Hundred Thousand Tomes Academy to aid Thelican"}
@@ -317,7 +317,7 @@
 {"id":"01a0657e-0242-7b21-ad1a-034a6f24226a","chapterSlug":"rw8-82 (Pt. 2)","paragraph":211,"wording":"[Queen]","event":"named","holderSlug":"marquin","holderQuote":"The Dragonlord of Gems cautioned Marquin"}
 {"id":"01a0657e-0242-7156-b6ad-7fcaafb980cd","chapterSlug":"rw8-78 F","paragraph":615,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7cea-9716-1cf53e99fa08","chapterSlug":"rw8-78 F","paragraph":965,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0242-7e71-bd6d-aafb4053f661","chapterSlug":"rw8-78 F","paragraph":1183,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Jecaina","holderQuote":"I am Jecaina of Jecrass, [Queen]"}
+{"id":"01a0657e-0242-7e71-bd6d-aafb4053f661","chapterSlug":"rw8-78 F","paragraph":1183,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"jecaina","holderQuote":"I am Jecaina of Jecrass, [Queen]"}
 {"id":"01a0657e-0242-7b98-8908-67555b2d88d5","chapterSlug":"rw8-78 F","paragraph":1186,"wording":"[Queen]","event":"named","holderQuote":"I am Jecaina of Jecrass, [Queen]"}
 {"id":"01a0657e-0242-7a9e-89d1-25576b75dd05","chapterSlug":"rw8-78 F","paragraph":1360,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-746a-b25f-ec92ab7d7dd3","chapterSlug":"rw8-79","paragraph":71,"wording":"[Queen]","event":"named"}
@@ -335,9 +335,9 @@
 {"id":"01a0657e-0242-745e-bced-6fd73c5316c2","chapterSlug":"rw9-03","paragraph":537,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-78c8-b9af-970e345181de","chapterSlug":"rwInterlude - Mundanity and Memorials","paragraph":1101,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-79a5-8930-1946bcd7a30f","chapterSlug":"rwInterlude - Mundanity and Memorials","paragraph":1140,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0242-708f-a944-fea179151f39","chapterSlug":"rwInterlude - The Competition","paragraph":558,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Hecrelunn","holderQuote":"Khelta was always kind."}
+{"id":"01a0657e-0242-708f-a944-fea179151f39","chapterSlug":"rwInterlude - The Competition","paragraph":558,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"hecrelunn","holderQuote":"Khelta was always kind."}
 {"id":"01a0657e-0242-76c8-8134-2cdf20ab48dd","chapterSlug":"rwInterlude - Death and Stitches","paragraph":503,"wording":"[Queen]","event":"named","holderSlug":"yisame","holderQuote":"Queen Yisame of Nerrhavia’s Fallen had been ready to get some fine rest."}
-{"id":"01a0657e-0242-7a8c-9c5a-2ceecf88d134","chapterSlug":"rw9-26 F","paragraph":828,"wording":"[Queen]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"Erin Solstice","holderQuote":"I told you I didn’t need to be a [Queen]."}
+{"id":"01a0657e-0242-7a8c-9c5a-2ceecf88d134","chapterSlug":"rw9-26 F","paragraph":828,"wording":"[Queen]","event":"named","holderSlug":"erin-solstice","claimed":true,"claimedBySlug":"erin-solstice","holderQuote":"I told you I didn’t need to be a [Queen]."}
 {"id":"01a0657e-0242-7902-af03-d0a62f43702d","chapterSlug":"rw9-11 W","paragraph":191,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-744e-834c-f48a676a4862","chapterSlug":"rw9-11 W","paragraph":217,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7e61-ac90-46c7a28d2199","chapterSlug":"rw9-16 R","paragraph":3,"wording":"[Queen]","event":"named"}
@@ -366,7 +366,7 @@
 {"id":"01a0657e-0242-7877-95ef-716aa5ba45b2","chapterSlug":"rw10-59 T","paragraph":1207,"wording":"[Queen]","event":"named","holderQuote":"Shardele wondered when Ielane would train them"}
 {"id":"01a0657e-0242-7d7e-a9fa-3547ab4c9461","chapterSlug":"rw10-59 T","paragraph":1209,"wording":"[Queen]","event":"named","holderQuote":"Shardele hated those"}
 {"id":"01a0657e-0242-7141-bb1b-bb10b34de0fb","chapterSlug":"rw10-59 T","paragraph":1224,"wording":"[Queen]","event":"named","holderQuote":"Dead silence from Ielane"}
-{"id":"01a0657e-0242-7768-9b80-0a1ceb5dc25a","chapterSlug":"rw10-59 T","paragraph":1243,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Ielane","holderQuote":"Flee and I will run you down, Shardele"}
+{"id":"01a0657e-0242-7768-9b80-0a1ceb5dc25a","chapterSlug":"rw10-59 T","paragraph":1243,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"ielane","holderQuote":"Flee and I will run you down, Shardele"}
 {"id":"01a0657e-0242-7211-b028-0ba72394efe5","chapterSlug":"rw10-59 T","paragraph":1245,"wording":"[Queen]","event":"named","holderQuote":"Ielane was throwing at her"}
 {"id":"01a0657e-0242-78ec-9f34-ddea807bc75b","chapterSlug":"rw10-59 T","paragraph":1255,"wording":"[Queen]","event":"named","holderQuote":"Ielane stared at the door, in a dark mood"}
 {"id":"01a0657e-0242-7207-a475-340bf22bc349","chapterSlug":"rw10-59 T","paragraph":1824,"wording":"[Queen]","event":"named","holderQuote":"Vensha, all severity and calm poise"}
@@ -376,14 +376,14 @@
 {"id":"01a0657e-0242-7937-97d2-52beb451976a","chapterSlug":"rwInterlude - Trade and Travel","paragraph":614,"wording":"[Queen]","event":"named","holderQuote":"She was holding court like, well, a [Queen]."}
 {"id":"01a0657e-0242-7f59-aa0a-9391a238b21e","chapterSlug":"rwInterlude - Trade and Travel","paragraph":1551,"wording":"[Queen]","event":"named","holderQuote":"Jecaina as [Queen]? She wasn’t ready."}
 {"id":"01a0657e-0242-70ca-b88c-a7a79978d153","chapterSlug":"rw10-13","paragraph":1135,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0242-744e-a9fb-b5695b600e6a","chapterSlug":"rw10-13","paragraph":1682,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Ushar","holderQuote":"She is a [Queen] of quite a lot of expertise."}
-{"id":"01a0657e-0242-7dbe-9613-964fff93da8b","chapterSlug":"rw10-13","paragraph":2126,"wording":"[Queen]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"the Beggar","holderQuote":"Even if she is no [Queen]!"}
+{"id":"01a0657e-0242-744e-a9fb-b5695b600e6a","chapterSlug":"rw10-13","paragraph":1682,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"ushar","holderQuote":"She is a [Queen] of quite a lot of expertise."}
+{"id":"01a0657e-0242-7dbe-9613-964fff93da8b","chapterSlug":"rw10-13","paragraph":2126,"wording":"[Queen]","event":"named","holderSlug":"lyonette","claimed":true,"claimedBySlug":"the-beggar","holderQuote":"Even if she is no [Queen]!"}
 {"id":"01a0657e-0242-75e4-ad82-5a0675c31e64","chapterSlug":"rw10-14","paragraph":1012,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-700d-aac4-e5bf104d7da3","chapterSlug":"rw10-15","paragraph":1494,"wording":"[Queen]","event":"named","holderSlug":"ielane-du-marquin","holderQuote":"Queen Ielane du Marquin was calmly smoking on her puffer stick."}
 {"id":"01a0657e-0242-793a-8ecb-70e3a8096bfd","chapterSlug":"rw10-15","paragraph":1496,"wording":"[Queen]","event":"named","holderSlug":"ielane-du-marquin","claimed":true,"claimedBySlug":"ielane-du-marquin","holderQuote":"Queen Ielane du Marquin was calmly smoking on her puffer stick."}
 {"id":"01a0657e-0242-788f-bfe0-63012c1a73b8","chapterSlug":"rw10-15","paragraph":1499,"wording":"[Queen]","event":"named","holderSlug":"ielane-du-marquin","holderQuote":"Queen Ielane du Marquin was calmly smoking on her puffer stick."}
-{"id":"01a0657e-0242-7e3b-860a-3346f284101f","chapterSlug":"rw10-17","paragraph":201,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Nerrhavia","holderQuote":"Those that came after had the sense to declare her [Queen]"}
-{"id":"01a0657e-0242-75ca-8c25-aff29534e6dd","chapterSlug":"rw10-17","paragraph":1269,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Jecaina","holderQuote":"I am Queen Jecaina of Jecrass."}
+{"id":"01a0657e-0242-7e3b-860a-3346f284101f","chapterSlug":"rw10-17","paragraph":201,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"nerrhavia","holderQuote":"Those that came after had the sense to declare her [Queen]"}
+{"id":"01a0657e-0242-75ca-8c25-aff29534e6dd","chapterSlug":"rw10-17","paragraph":1269,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"jecaina","holderQuote":"I am Queen Jecaina of Jecrass."}
 {"id":"01a0657e-0242-77f8-b84a-ef6a07f88a7c","chapterSlug":"rw10-17","paragraph":1288,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7f29-9100-f0de292f42b8","chapterSlug":"rw10-17","paragraph":1660,"wording":"[Queen]","event":"named","holderQuote":"Queen Yisame to you—"}
 {"id":"01a0657e-0242-7b9b-a275-6f476709089d","chapterSlug":"rw10-17","paragraph":1677,"wording":"[Queen]","event":"named","holderQuote":"Yisame screamed, and they went running."}
@@ -423,7 +423,7 @@
 {"id":"01a0657e-0242-739e-9ddc-4e87c9767f22","chapterSlug":"rw10-49 Y","paragraph":491,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"the [Queen] waved Yvlon’s concerns off."}
 {"id":"01a0657e-0242-7d1b-bbfe-01d385221699","chapterSlug":"rw10-49 Y","paragraph":499,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"The [Queen] only halted as an unfamiliar sensation placed itself around the back of her neck."}
 {"id":"01a0657e-0242-7a8e-b83b-7a3d1eb100f9","chapterSlug":"rw10-49 Y","paragraph":501,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"The [Queen] stopped."}
-{"id":"01a0657e-0242-77d7-b777-d2af2bc525ce","chapterSlug":"rw10-49 Y","paragraph":502,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","claimed":true,"claimedBySlug":"Yisame","holderQuote":"one does not touch a [Queen]"}
+{"id":"01a0657e-0242-77d7-b777-d2af2bc525ce","chapterSlug":"rw10-49 Y","paragraph":502,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","claimed":true,"claimedBySlug":"yisame","holderQuote":"one does not touch a [Queen]"}
 {"id":"01a0657e-0242-77f4-adca-f06c6a833ac6","chapterSlug":"rw10-49 Y","paragraph":504,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"the [Queen] expected the hand to let go."}
 {"id":"01a0657e-0242-7747-8d5c-a8e60d8a7c21","chapterSlug":"rw10-49 Y","paragraph":504,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"the [Queen]’s eyes were suddenly round."}
 {"id":"01a0657e-0242-7d80-99bf-0d3c5e87cb0d","chapterSlug":"rw10-49 Y","paragraph":513,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"Then the [Queen] got angry."}
@@ -434,13 +434,13 @@
 {"id":"01a0657e-0242-7418-a5e6-bf58d0216a42","chapterSlug":"rw10-49 Y","paragraph":974,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"He wanted to poke at the [Queen], but one did not do that directly and live."}
 {"id":"01a0657e-0242-7cbf-af53-87344ec43016","chapterSlug":"rw10-49 Y","paragraph":1033,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"Against the [Queen] herself?"}
 {"id":"01a0657e-0242-7451-b09f-79a379b31e01","chapterSlug":"rw10-49 Y","paragraph":1067,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","holderQuote":"She yanked the door open and was smiling as the [Queen] nearly ran at her."}
-{"id":"01a0657e-0242-77a7-aa6d-026bc8d9f421","chapterSlug":"rw10-49 Y","paragraph":1084,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","claimed":true,"claimedBySlug":"Nawal","holderQuote":"First you strangle the [Queen] at breakfast, then you try to kill the Champion of Monarchs by leaping into the arena?"}
+{"id":"01a0657e-0242-77a7-aa6d-026bc8d9f421","chapterSlug":"rw10-49 Y","paragraph":1084,"wording":"[Queen]","event":"named","holderSlug":"queen-yisame","claimed":true,"claimedBySlug":"nawal","holderQuote":"First you strangle the [Queen] at breakfast, then you try to kill the Champion of Monarchs by leaping into the arena?"}
 {"id":"01a0657e-0242-7867-a775-fac5a2b20a13","chapterSlug":"rw10-49 Y","paragraph":1265,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7e08-a28b-bb1c41867174","chapterSlug":"rw10-49 Y","paragraph":1382,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7526-bb2f-cc013bc05aa6","chapterSlug":"rw10-65","paragraph":1232,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-74ba-9408-a33818601a0d","chapterSlug":"rw10-65","paragraph":1967,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-77d9-9f66-450c6675974b","chapterSlug":"rw10-50 Y","paragraph":256,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0242-787d-a421-9730bd4dc55a","chapterSlug":"rw10-50 Y","paragraph":257,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Bnirm","holderQuote":"Damn the [Queen] and her spoiled foreign pets! This is my coliseum!"}
+{"id":"01a0657e-0242-787d-a421-9730bd4dc55a","chapterSlug":"rw10-50 Y","paragraph":257,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"bnirm","holderQuote":"Damn the [Queen] and her spoiled foreign pets! This is my coliseum!"}
 {"id":"01a0657e-0242-77f4-8b9e-4be69cb14787","chapterSlug":"rw10-50 Y","paragraph":751,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7445-a656-64bc93c28b41","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":32,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7711-9362-970e018b18d1","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":33,"wording":"[Queen]","event":"named"}
@@ -485,15 +485,15 @@
 {"id":"01a0657e-0242-7d26-96c2-0080195638ad","chapterSlug":"rw10-45 L","paragraph":131,"wording":"[Queen]","event":"named","holderQuote":"Bird. The [Queen]’s eyes shone as she linked with the Antinium choir"}
 {"id":"01a0657e-0242-732c-b2bd-37aa5c212db2","chapterSlug":"rw10-11 H","paragraph":630,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-77e1-b144-181c4ee9e111","chapterSlug":"rw10-11 H","paragraph":674,"wording":"[Queen]","event":"named"}
-{"id":"01a0657e-0242-7433-9f7d-bf24b38cf234","chapterSlug":"rw10-11 H","paragraph":706,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Jecaina","holderQuote":"A Gold-rank adventurer can beat a [Queen], it seems. I knew it, but it still stings."}
+{"id":"01a0657e-0242-7433-9f7d-bf24b38cf234","chapterSlug":"rw10-11 H","paragraph":706,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"jecaina","holderQuote":"A Gold-rank adventurer can beat a [Queen], it seems. I knew it, but it still stings."}
 {"id":"01a0657e-0242-716a-bc06-bda8dccea031","chapterSlug":"rw10-11 H","paragraph":756,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7bb9-ae65-c3a1684be1a8","chapterSlug":"rw10-11 H","paragraph":769,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-7f9c-93a2-6bc019575174","chapterSlug":"rw10-11 H","paragraph":774,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-77bf-8717-7f5981bbe0cb","chapterSlug":"rw10-11 H","paragraph":1011,"wording":"[Queen]","event":"named","holderQuote":"Pisces gazed up, and [King] and [Queen] regarded him"}
-{"id":"01a0657e-0242-731f-952e-971404a409a2","chapterSlug":"rw10-11 H","paragraph":1026,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"Jecaina","holderQuote":"As a travelling [Queen]?"}
+{"id":"01a0657e-0242-731f-952e-971404a409a2","chapterSlug":"rw10-11 H","paragraph":1026,"wording":"[Queen]","event":"named","claimed":true,"claimedBySlug":"jecaina","holderQuote":"As a travelling [Queen]?"}
 {"id":"01a0657e-0242-7eed-87f8-46f4e383ecea","chapterSlug":"rw10-11 H","paragraph":1039,"wording":"[Queen]","event":"named","holderQuote":"He looked at his daughter as if he saw a [Princess]. Not a [Queen]."}
 {"id":"01a0657e-0242-7dac-91c6-ab4056a33621","chapterSlug":"rw10-11 H","paragraph":1124,"wording":"[Queen]","event":"named","holderQuote":"Once again, she felt like a foolish, young [Queen]"}
-{"id":"01a0657e-0242-746f-982d-9b0dc3d834b6","chapterSlug":"rw10-12 H (Pt. 2)","paragraph":677,"wording":"[Queen]","event":"named","holderSlug":"ceria","claimed":true,"claimedBySlug":"Perric","holderQuote":"But for my beloved consort, nay, a [Queen] of Medain in her own right should we go through with the wedding"}
+{"id":"01a0657e-0242-746f-982d-9b0dc3d834b6","chapterSlug":"rw10-12 H (Pt. 2)","paragraph":677,"wording":"[Queen]","event":"named","holderSlug":"ceria","claimed":true,"claimedBySlug":"perric","holderQuote":"But for my beloved consort, nay, a [Queen] of Medain in her own right should we go through with the wedding"}
 {"id":"01a0657e-0242-7ea4-a5d9-4bfee699c0dc","chapterSlug":"rw10-46 L","paragraph":222,"wording":"[Queen]","event":"named"}
 {"id":"01a0657e-0242-78a3-a570-ed102fbe3598","chapterSlug":"rw10-46 L","paragraph":533,"wording":"[Queen]","event":"named","holderQuote":"Eyon just smiled at the [Queen]."}
 {"id":"01a0657e-0242-79c4-bfe5-c7fe6d317134","chapterSlug":"rw10-46 L","paragraph":558,"wording":"[Queen]","event":"named","holderQuote":"The [Queen] was watching Eyon too."}

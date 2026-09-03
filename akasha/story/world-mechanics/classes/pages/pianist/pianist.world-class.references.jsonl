@@ -5,4 +5,4 @@
 {"id":"01a06586-0a06-74ba-be45-56edf3eedd1b","chapterSlug":"rw10-61 Y","paragraph":97,"wording":"[Pianist]","event":"named"}
 {"id":"01a06586-0a06-7367-8a1d-3f85d04454f0","chapterSlug":"rw10-69 IN","paragraph":178,"wording":"[Pianist]","event":"named","holderQuote":"Mister Scofield? That’s that musical instrument the Gnolls made, didn’t they?"}
 {"id":"01a06586-0a06-73ee-8115-9d106fa9dc31","chapterSlug":"rw10-69 IN","paragraph":182,"wording":"[Pianist]","event":"named","holderQuote":"You’re a—a [Pianist], Mister Scofield?"}
-{"id":"01a06586-0a06-70e0-8a6a-260c03d9b687","chapterSlug":"rw10-69 IN","paragraph":191,"wording":"[Pianist]","event":"named","claimed":true,"claimedBySlug":"Scofield","holderQuote":"I’m just known for being a [Pianist], General.","effectQuote":"I played in the Royal Albert Hall when I was seventeen","effectClaimed":true}
+{"id":"01a06586-0a06-70e0-8a6a-260c03d9b687","chapterSlug":"rw10-69 IN","paragraph":191,"wording":"[Pianist]","event":"named","claimed":true,"claimedBySlug":"scofield","holderQuote":"I’m just known for being a [Pianist], General.","effectQuote":"I played in the Royal Albert Hall when I was seventeen","effectClaimed":true}

@@ -41,7 +41,7 @@
 {"id":"01a06586-0a66-7da2-abaf-14b4d10c13a3","chapterSlug":"rw6-47 E","paragraph":436,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a66-7236-89f7-f27f248f4b98","chapterSlug":"rw6-57","paragraph":193,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a66-79f4-8830-9e9847bc51a2","chapterSlug":"rw6-61 L","paragraph":565,"wording":"[Thieves]","event":"named"}
-{"id":"01a06586-0a66-7032-898a-aa388e73e26e","chapterSlug":"rw6-63 P","paragraph":553,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"Desirel","holderQuote":"“Here, it’s just incidents. The [Thief]’s probably part of a new gang that moved in. They’re kicking up a fuss; putting out [Thieves] and even robbing folk on the street! The Watch is trying to get them, but the gang’ll probably abandon anyone who gets caught and leave in a few days.”"}
+{"id":"01a06586-0a66-7032-898a-aa388e73e26e","chapterSlug":"rw6-63 P","paragraph":553,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"desirel","holderQuote":"“Here, it’s just incidents. The [Thief]’s probably part of a new gang that moved in. They’re kicking up a fuss; putting out [Thieves] and even robbing folk on the street! The Watch is trying to get them, but the gang’ll probably abandon anyone who gets caught and leave in a few days.”"}
 {"id":"01a06586-0a66-74ce-9998-b5cd6917fb5f","chapterSlug":"rw7-05 P","paragraph":908,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a66-7bc6-a7ff-101212b1a3a6","chapterSlug":"rw7-05 P","paragraph":918,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a66-72b7-a1f4-d6d670b5a891","chapterSlug":"rw7-05 P","paragraph":918,"wording":"[Thieves]","event":"named"}
@@ -128,24 +128,24 @@
 {"id":"01a06586-0a67-7598-8cee-86e7540902eb","chapterSlug":"rw10-65","paragraph":750,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-7be1-ab33-abe111a7690f","chapterSlug":"rw10-66 (Pt. 1)","paragraph":695,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-70e8-a951-493963919cc5","chapterSlug":"rw10-68 S","paragraph":1044,"wording":"[Thieves]","event":"named"}
-{"id":"01a06586-0a67-7ded-a8d3-cd4334bf07cf","chapterSlug":"rw9-65","paragraph":318,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"a Hive Queen"}
+{"id":"01a06586-0a67-7ded-a8d3-cd4334bf07cf","chapterSlug":"rw9-65","paragraph":318,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"a-hive-queen"}
 {"id":"01a06586-0a67-7678-a84c-00e770708246","chapterSlug":"rw9-65","paragraph":395,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-798e-b84e-894a7919fd79","chapterSlug":"rw9-65","paragraph":399,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-79c8-a098-f00a7f68332e","chapterSlug":"rw9-65","paragraph":400,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-7543-8bdc-f29f0d4bfee4","chapterSlug":"rw9-65","paragraph":402,"wording":"[Thieves]","event":"named"}
-{"id":"01a06586-0a67-7082-9068-7462ba1aa41c","chapterSlug":"rw9-65","paragraph":428,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"Klbkch"}
+{"id":"01a06586-0a67-7082-9068-7462ba1aa41c","chapterSlug":"rw9-65","paragraph":428,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"klbkch"}
 {"id":"01a06586-0a67-789b-9879-f9b7116b77e8","chapterSlug":"rw9-65","paragraph":435,"wording":"[Thieves]","event":"named"}
-{"id":"01a06586-0a67-76d9-86c8-fc0b326bfeb9","chapterSlug":"rw9-65","paragraph":447,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"the Maestro"}
+{"id":"01a06586-0a67-76d9-86c8-fc0b326bfeb9","chapterSlug":"rw9-65","paragraph":447,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"the-maestro"}
 {"id":"01a06586-0a67-7346-80e7-cb81f1e13f1d","chapterSlug":"rw9-65","paragraph":454,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-79bb-9898-4adfe14f5f81","chapterSlug":"rw9-65","paragraph":481,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-7c52-96c1-dc9351d4818d","chapterSlug":"rw9-65","paragraph":536,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-79b2-8fd4-dcb4267fac0d","chapterSlug":"rw9-65","paragraph":601,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-7cef-88ca-87cdda17cfae","chapterSlug":"rw9-65","paragraph":630,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-744e-be60-5dd5dca388c5","chapterSlug":"rw9-65","paragraph":630,"wording":"[Thieves]","event":"named"}
-{"id":"01a06586-0a67-791c-beb0-0b549d1044d2","chapterSlug":"rw9-65","paragraph":682,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"Klbkch"}
+{"id":"01a06586-0a67-791c-beb0-0b549d1044d2","chapterSlug":"rw9-65","paragraph":682,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"klbkch"}
 {"id":"01a06586-0a67-7544-9850-821eb3a78347","chapterSlug":"rw9-65","paragraph":691,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-79d9-83c3-559fa2381814","chapterSlug":"rw9-65","paragraph":703,"wording":"[Thieves]","event":"named"}
-{"id":"01a06586-0a67-79ce-8c96-0fe4a86309db","chapterSlug":"rw9-65","paragraph":708,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"one of Manus’ agents"}
+{"id":"01a06586-0a67-79ce-8c96-0fe4a86309db","chapterSlug":"rw9-65","paragraph":708,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"one-of-manus-agents"}
 {"id":"01a06586-0a67-7a81-b827-b840162da59c","chapterSlug":"rw9-65","paragraph":711,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-79ac-9d17-801f21409903","chapterSlug":"rw9-65","paragraph":722,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-7264-80b8-81bf14735a98","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":1036,"wording":"[Thieves]","event":"named"}
@@ -164,7 +164,7 @@
 {"id":"01a06586-0a67-7456-b1ec-a52f58206d49","chapterSlug":"rw10-57 F","paragraph":1326,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-704b-9bc5-bac1fb3974df","chapterSlug":"rw9-31","paragraph":711,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-7fd0-9c00-efa7b3f6c46f","chapterSlug":"rwInterlude - Liska","paragraph":199,"wording":"[Thieves]","event":"named"}
-{"id":"01a06586-0a67-7557-8def-53023144cc83","chapterSlug":"rwInterlude - Another Time","paragraph":371,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"Silvenia","holderQuote":"[Thieves]. I chased that stupid Dwarf over the waves for miles"}
+{"id":"01a06586-0a67-7557-8def-53023144cc83","chapterSlug":"rwInterlude - Another Time","paragraph":371,"wording":"[Thieves]","event":"named","claimed":true,"claimedBySlug":"silvenia","holderQuote":"[Thieves]. I chased that stupid Dwarf over the waves for miles"}
 {"id":"01a06586-0a67-7a61-b151-87c6345bc880","chapterSlug":"rw9-30","paragraph":584,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-785c-bb57-f8f6a5405191","chapterSlug":"rw10-63 RY","paragraph":63,"wording":"[Thieves]","event":"named"}
 {"id":"01a06586-0a67-7e4b-8c7a-9e6fa0af710f","chapterSlug":"rw10-63 RY","paragraph":807,"wording":"[Thieves]","event":"named"}

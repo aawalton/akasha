@@ -30,8 +30,8 @@
 {"id":"01a0657e-1375-7b12-8ecb-cdfeafba3f2d","chapterSlug":"rw6-32","paragraph":514,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7ef0-9b5e-dd64f3c196cb","chapterSlug":"rw6-32","paragraph":578,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7bb9-b389-227256227f52","chapterSlug":"rw6-32","paragraph":583,"wording":"[Hunter]","event":"named"}
-{"id":"01a0657e-1375-7295-845d-ebf22368c8a9","chapterSlug":"rw6-16","paragraph":726,"wording":"[Hunter]","event":"named","holderSlug":"halrac","claimed":true,"claimedBySlug":"the woman","holderQuote":"Excuse me! Sir—sir, are you a [Hunter], by chance?”"}
-{"id":"01a0657e-1375-77ec-86d8-71f9fe3fff87","chapterSlug":"rw6-16","paragraph":731,"wording":"[Hunter]","event":"named","holderSlug":"halrac","claimed":true,"claimedBySlug":"the woman","holderQuote":"I was hoping you were a [Hunter], sir. You see, my husband was struck by a Corusdeer."}
+{"id":"01a0657e-1375-7295-845d-ebf22368c8a9","chapterSlug":"rw6-16","paragraph":726,"wording":"[Hunter]","event":"named","holderSlug":"halrac","claimed":true,"claimedBySlug":"the-woman","holderQuote":"Excuse me! Sir—sir, are you a [Hunter], by chance?”"}
+{"id":"01a0657e-1375-77ec-86d8-71f9fe3fff87","chapterSlug":"rw6-16","paragraph":731,"wording":"[Hunter]","event":"named","holderSlug":"halrac","claimed":true,"claimedBySlug":"the-woman","holderQuote":"I was hoping you were a [Hunter], sir. You see, my husband was struck by a Corusdeer."}
 {"id":"01a0657e-1375-7166-8e6b-af580bf43952","chapterSlug":"rw6-26","paragraph":334,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7976-8643-787735ebb957","chapterSlug":"rw6-34 E","paragraph":28,"wording":"[Hunter]","event":"named","holderQuote":"Ram, or Ramel, laughed as she gave him a light hug."}
 {"id":"01a0657e-1375-7364-a654-65c2f0493e57","chapterSlug":"rw6-34 E","paragraph":156,"wording":"[Hunter]","event":"named","holderQuote":"Thel Grassc. [Hunter]. Died fighting Goblins."}
@@ -60,8 +60,8 @@
 {"id":"01a0657e-1375-70cc-b436-ecc06e7adff7","chapterSlug":"rw6-43 E","paragraph":1564,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-78ad-97e5-6a8882e265d3","chapterSlug":"rw6-43 E","paragraph":1565,"wording":"[Hunter]","event":"named","holderQuote":"but Gaile pressed her axe into Wiskeria’s neck."}
 {"id":"01a0657e-1375-7b6e-bc59-504601ef8d1d","chapterSlug":"rw6-43 E","paragraph":1569,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"ser-raim","holderQuote":"[Hunter] Gaile! Enough!"}
-{"id":"01a0657e-1375-7a7b-b8c6-9592318dfd9e","chapterSlug":"rw6-43 E","paragraph":1572,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"Mavika","holderQuote":"Lower your axe, [Hunter]. Should Witch Wiskeria die, you will ere my crows fly."}
-{"id":"01a0657e-1375-73ff-990c-4a4a037dd934","chapterSlug":"rw6-43 E","paragraph":1573,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"Mavika","holderQuote":"Lower your axe, [Hunter]. Should Witch Wiskeria die, you will ere my crows fly."}
+{"id":"01a0657e-1375-7a7b-b8c6-9592318dfd9e","chapterSlug":"rw6-43 E","paragraph":1572,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"mavika","holderQuote":"Lower your axe, [Hunter]. Should Witch Wiskeria die, you will ere my crows fly."}
+{"id":"01a0657e-1375-73ff-990c-4a4a037dd934","chapterSlug":"rw6-43 E","paragraph":1573,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"mavika","holderQuote":"Lower your axe, [Hunter]. Should Witch Wiskeria die, you will ere my crows fly."}
 {"id":"01a0657e-1375-7218-ae40-233a71e8899c","chapterSlug":"rw6-44 E","paragraph":35,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7a8f-bf4f-957fe707079e","chapterSlug":"rw6-44 E","paragraph":63,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-715f-908c-37a665c4ee83","chapterSlug":"rw6-44 E","paragraph":78,"wording":"[Hunter]","event":"named"}
@@ -140,7 +140,7 @@
 {"id":"01a0657e-1375-7783-b4b4-ff1ea30aaf49","chapterSlug":"rw7-34 C","paragraph":945,"wording":"[Hunter]","event":"named","holderQuote":"She jerked a thumb at the [Hunter]—his long coat and hat weren’t black, but grey."}
 {"id":"01a0657e-1375-7c34-a7d8-b8496edf10c2","chapterSlug":"rw7-34 C","paragraph":997,"wording":"[Hunter]","event":"named","holderSlug":"huntress-delezza","claimed":true,"claimedBySlug":"chief-warrior-merish","holderQuote":"Ah, you are a [Hunter]. From Terandria?"}
 {"id":"01a0657e-1375-77c0-9f9c-d41788a1bbd9","chapterSlug":"rw7-35 C","paragraph":803,"wording":"[Hunter]","event":"named","holderSlug":"delezza","holderQuote":"They’d taken a great [Hunter] down today. That was true. It was a reminder that for every big battle the Blighted Kingdom won—this happened. Cirille had seen other officers die in routine patrols, skirmishes, accidents. Delezza had been the first she knew personally since coming to 5th Wall."}
-{"id":"01a0657e-1375-74f0-9972-ca604287ff8f","chapterSlug":"rwInterlude - The Tribes of Izril","paragraph":373,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"Ekrinish","holderQuote":"“Yes. It is a class I have won by my unmatched ability. So named because I have bested every other [Hunter] in a competition of skill that challenged me, yes?”"}
+{"id":"01a0657e-1375-74f0-9972-ca604287ff8f","chapterSlug":"rwInterlude - The Tribes of Izril","paragraph":373,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"ekrinish","holderQuote":"“Yes. It is a class I have won by my unmatched ability. So named because I have bested every other [Hunter] in a competition of skill that challenged me, yes?”"}
 {"id":"01a0657e-1375-7403-ae15-92cc4089dcd4","chapterSlug":"rw7-50","paragraph":747,"wording":"[Hunter]","event":"named","holderQuote":"Unlike Bird, whose room was a [Hunter]’s haven of arrows, trophies, and so on"}
 {"id":"01a0657e-1375-7655-9c7d-34f1ec63cc17","chapterSlug":"rw7-50","paragraph":795,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7c2f-bd77-fc64eb57d42f","chapterSlug":"rw7-50","paragraph":1115,"wording":"[Hunter]","event":"named","holderQuote":"thank you, Huntress Melizsa."}
@@ -152,7 +152,7 @@
 {"id":"01a0657e-1375-7198-8ed1-02aa2647e74d","chapterSlug":"rw8-00","paragraph":93,"wording":"[Hunter]","event":"named","holderQuote":"He was to the Antinium what a celebrity was. Garry, Bird the [Hunter], Pawn, Belgrade, and Anand. They were the Individuals, with an option on Yellow Splatters and Purple Smiles and so on as later Antinium of note. The other Antinium—even Painted Antinium—hung back as he moved towards Pawn."}
 {"id":"01a0657e-1375-732f-b58f-c8b0925fc1dc","chapterSlug":"rw8-14 N","paragraph":1278,"wording":"[Hunter]","event":"named","holderQuote":"Bird whispered to Mage Merzun. Her restrained body and head both tried to roll away from the baleful [Hunter]. Palt shook his head."}
 {"id":"01a0657e-1375-7311-97df-ce1790857661","chapterSlug":"rw8-15","paragraph":337,"wording":"[Hunter]","event":"named","holderQuote":"“No chance of a Razorbeak with Bird the [Hunter] watching the skies.”"}
-{"id":"01a0657e-1375-72ab-afa9-eeba96e38e55","chapterSlug":"rw8-31","paragraph":800,"wording":"[Hunter]","event":"named","holderSlug":"bird","claimed":true,"claimedBySlug":"Salkis","holderQuote":"I don’t know who any of those are. You mean Klbkch the Slayer? That’s Bird the [Hunter], right? He slaughtered Wyverns at Pallass. He’s also a [General]?"}
+{"id":"01a0657e-1375-72ab-afa9-eeba96e38e55","chapterSlug":"rw8-31","paragraph":800,"wording":"[Hunter]","event":"named","holderSlug":"bird","claimed":true,"claimedBySlug":"salkis","holderQuote":"I don’t know who any of those are. You mean Klbkch the Slayer? That’s Bird the [Hunter], right? He slaughtered Wyverns at Pallass. He’s also a [General]?"}
 {"id":"01a0657e-1375-7525-a25a-f0d8004d1058","chapterSlug":"rw8-27","paragraph":1075,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7966-a0dd-6a08559dc4bb","chapterSlug":"rw8-19 H","paragraph":113,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-78a6-8946-d5b8b1a7e5eb","chapterSlug":"rw8-20","paragraph":756,"wording":"[Hunter]","event":"named"}
@@ -207,8 +207,8 @@
 {"id":"01a0657e-1375-7e20-b6f1-e3fa5e8306ff","chapterSlug":"rw9-54 C","paragraph":88,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7854-8553-3395525bab4e","chapterSlug":"rw9-54 C","paragraph":88,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-73b3-88f9-27a746bb817e","chapterSlug":"rw9-54 C","paragraph":96,"wording":"[Hunter]","event":"named"}
-{"id":"01a0657e-1375-7262-b46e-b97c89226e4d","chapterSlug":"rw10-41 T","paragraph":152,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"Navien","holderQuote":"Maxine knocked over all her trays since she’s swaggering around with it on"}
-{"id":"01a0657e-1375-7470-a136-44128da81610","chapterSlug":"rw10-60 YN","paragraph":848,"wording":"[Hunter]","event":"named","holderSlug":"nailren","claimed":true,"claimedBySlug":"Larr","holderQuote":"He’s a real [Hunter]"}
+{"id":"01a0657e-1375-7262-b46e-b97c89226e4d","chapterSlug":"rw10-41 T","paragraph":152,"wording":"[Hunter]","event":"named","claimed":true,"claimedBySlug":"navien","holderQuote":"Maxine knocked over all her trays since she’s swaggering around with it on"}
+{"id":"01a0657e-1375-7470-a136-44128da81610","chapterSlug":"rw10-60 YN","paragraph":848,"wording":"[Hunter]","event":"named","holderSlug":"nailren","claimed":true,"claimedBySlug":"larr","holderQuote":"He’s a real [Hunter]"}
 {"id":"01a0657e-1375-7656-b3bf-9efcd6ab1878","chapterSlug":"rw10-48 VS","paragraph":1034,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7355-8d61-4e9b70ab56ac","chapterSlug":"rw10-48 VS","paragraph":1042,"wording":"[Hunter]","event":"named"}
 {"id":"01a0657e-1375-7c03-897b-8275417725c4","chapterSlug":"rw10-48 VS","paragraph":1108,"wording":"[Hunter]","event":"named","holderSlug":"aiche","holderQuote":"Your reasoning is good, but you’re no Naga, [Hunter]."}

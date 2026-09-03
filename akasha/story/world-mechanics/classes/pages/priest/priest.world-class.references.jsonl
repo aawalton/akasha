@@ -152,7 +152,7 @@
 {"id":"01a0657e-023f-7336-948f-236c0962a16b","chapterSlug":"rw9-57 B","paragraph":696,"wording":"[Priest]","event":"named"}
 {"id":"01a0657e-023f-7dc9-bb2d-eaa3f3227ffe","chapterSlug":"rw9-57 B","paragraph":705,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"The Worker tried to think about it as Pawn sat there, trying to ignore Bird’s repeated stabbing attempts."}
 {"id":"01a0657e-023f-7458-ac0a-d58ed2f6a068","chapterSlug":"rw9-57 B","paragraph":708,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"He was immune to Pawn’s comebacks!"}
-{"id":"01a0657e-023f-78e2-923e-ef56833bc902","chapterSlug":"rw10-58 FP","paragraph":121,"wording":"[Priest]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"Speaker of Trees","holderQuote":"These scrolls heal, Priest Pawn? Truly?"}
+{"id":"01a0657e-023f-78e2-923e-ef56833bc902","chapterSlug":"rw10-58 FP","paragraph":121,"wording":"[Priest]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"speaker-of-trees","holderQuote":"These scrolls heal, Priest Pawn? Truly?"}
 {"id":"01a0657e-023f-746a-8a35-8d7786bdfbd7","chapterSlug":"rw10-58 FP","paragraph":126,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"The [Priest] went on."}
 {"id":"01a0657e-023f-7f4a-b643-5e9985cdea87","chapterSlug":"rw10-58 FP","paragraph":336,"wording":"[Priest]","event":"named"}
 {"id":"01a0657e-023f-7ff7-bc35-dade867faa91","chapterSlug":"rw10-58 FP","paragraph":363,"wording":"[Priest]","event":"named","holderQuote":"The young [Priest] was staring up at Pawn."}
@@ -162,7 +162,7 @@
 {"id":"01a0657e-023f-7991-9e7c-f0071dd76b41","chapterSlug":"rw10-58 FP","paragraph":690,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"Hearing Pawn was a [Priest] had put the man’s guard up."}
 {"id":"01a0657e-023f-70e8-9360-3073131b4ce0","chapterSlug":"rw10-58 FP","paragraph":697,"wording":"[Priest]","event":"named","holderQuote":"The other [Priest] recoiled slightly"}
 {"id":"01a0657e-023f-7045-a7a2-89307c551e33","chapterSlug":"rw10-58 FP","paragraph":704,"wording":"[Priest]","event":"named","holderQuote":"The [Priest] nodded cautiously"}
-{"id":"01a0657e-023f-71fa-8025-ff6f520e1a8e","chapterSlug":"rw10-58 FP","paragraph":720,"wording":"[Priest]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"Pawn","holderQuote":"Can a [Priest] not argue with a [Prophet]?"}
+{"id":"01a0657e-023f-71fa-8025-ff6f520e1a8e","chapterSlug":"rw10-58 FP","paragraph":720,"wording":"[Priest]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"pawn","holderQuote":"Can a [Priest] not argue with a [Prophet]?"}
 {"id":"01a0657e-023f-7ccf-a990-9c8956263fbe","chapterSlug":"rw10-58 FP","paragraph":726,"wording":"[Priest]","event":"named","holderQuote":"The [Priest] had gone from hot, zealous anger"}
 {"id":"01a0657e-023f-79cd-b722-fcfdb8940712","chapterSlug":"rw10-58 FP","paragraph":962,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"He hadn’t hated the [Priest] entirely either"}
 {"id":"01a0657e-023f-7b87-9b75-7dd6ffa88bf6","chapterSlug":"rw10-58 FP","paragraph":1429,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"the [Prophet] and [Priest] for the divine"}
@@ -216,7 +216,7 @@
 {"id":"01a0657e-023f-7fa5-86e3-0b46db656bac","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":1019,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"Pawn tilted his head. He kept his voice light"}
 {"id":"01a0657e-023f-7845-9284-717e707edecd","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":1021,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"Pawn smiled as the [Smith] stalked away"}
 {"id":"01a0657e-023f-7ac4-a5df-a507054511d5","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":1101,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"Whether or not Pawn had realized the lamb was stealing his book"}
-{"id":"01a0657e-023f-7569-a682-2449d1013fd0","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":1103,"wording":"[Priest]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"Pawn","holderQuote":"I was Pawn of the Free Antinium"}
+{"id":"01a0657e-023f-7569-a682-2449d1013fd0","chapterSlug":"rwInterlude - The First and Last of Us","paragraph":1103,"wording":"[Priest]","event":"named","holderSlug":"pawn","claimed":true,"claimedBySlug":"pawn","holderQuote":"I was Pawn of the Free Antinium"}
 {"id":"01a0657e-023f-7c17-95c7-81f1864f6c5e","chapterSlug":"rwInterlude - Halfseekers (Pt- 3)","paragraph":362,"wording":"[Priest]","event":"named","holderSlug":"mireden-raithland","holderQuote":"he was no [Priest], nor had he been a true believer of the Prophet Pawn"}
 {"id":"01a0657e-023f-783d-9b86-a61d9a721979","chapterSlug":"rw9-28","paragraph":440,"wording":"[Priest]","event":"named","holderQuote":"Pawn hesitated as he walked with a group of Workers and Soldiers through the inn."}
 {"id":"01a0657e-023f-79a8-a709-c3a5bc083008","chapterSlug":"rw9-28","paragraph":440,"wording":"[Priest]","event":"named","holderQuote":"Pawn hesitated as he walked with a group of Workers and Soldiers through the inn."}
@@ -226,7 +226,7 @@
 {"id":"01a0657e-023f-787d-b377-fb939b1139b9","chapterSlug":"rw10-19 E","paragraph":1737,"wording":"[Priest]","event":"named","holderQuote":"Durene spat out her drink onto Pawn, and the [Priest] paused a moment to wipe at his face."}
 {"id":"01a0657e-023f-7621-b2ca-a2a42e505874","chapterSlug":"rw10-19 E","paragraph":1773,"wording":"[Priest]","event":"named","holderQuote":"The [Priest] leaned over the table, voice low"}
 {"id":"01a0657e-023f-7106-8b15-2ec1b14480b5","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":641,"wording":"[Priest]","event":"named","holderQuote":"the [Priest] on his sales pitch were poking him constantly"}
-{"id":"01a0657e-023f-7735-8729-bd8ece0bd354","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1314,"wording":"[Priest]","event":"named","claimed":true,"claimedBySlug":"Noiraid","holderQuote":"Pawn is the [Priest] of the Sky."}
+{"id":"01a0657e-023f-7735-8729-bd8ece0bd354","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":1314,"wording":"[Priest]","event":"named","claimed":true,"claimedBySlug":"noiraid","holderQuote":"Pawn is the [Priest] of the Sky."}
 {"id":"01a0657e-023f-73f0-9970-6e0d78f6e6cd","chapterSlug":"rw10-44 Z (Pt. 2)","paragraph":749,"wording":"[Priest]","event":"named","holderSlug":"pawn","holderQuote":"Even Pawn."}
 {"id":"01a0657e-023f-7294-b2b6-9ee907c3d033","chapterSlug":"rw9-31","paragraph":339,"wording":"[Priest]","event":"named","holderQuote":"Pawn, Garry, Belgrade, Yellow Splatters, Silveran, and dozens of Individual Workers and Soldiers exchanged a long look"}
 {"id":"01a0657e-023f-761b-851d-18bfe6a98126","chapterSlug":"rw9-31","paragraph":352,"wording":"[Priest]","event":"named","holderQuote":"Pawn slapped the bag out of Klbkch’s hands"}

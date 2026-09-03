@@ -8,7 +8,7 @@
 {"id":"01a0657e-13a2-7709-8707-5945d0f92fc5","chapterSlug":"rw6-09","paragraph":385,"wording":"[Miner]","event":"named"}
 {"id":"01a0657e-13a2-751a-ba49-b7e34f4f8177","chapterSlug":"rwInterlude - Numbtongue (Pt-2)","paragraph":1049,"wording":"[Miner]","event":"named","holderQuote":"She was a former [Miner], and she knew gold."}
 {"id":"01a0657e-13a2-7314-bab8-987364f8adbc","chapterSlug":"rwInterlude - Numbtongue (Pt-2)","paragraph":1065,"wording":"[Miner]","event":"named","holderQuote":"In the end, it was Earlia who emerged, panting, from the mess."}
-{"id":"01a0657e-13a2-78a7-a38f-7478f87e9475","chapterSlug":"rwInterlude - Numbtongue (Pt-2)","paragraph":1074,"wording":"[Miner]","event":"named","claimed":true,"claimedBySlug":"Earlia","holderQuote":"I’m a [Miner], or I was until my group ran into monsters in our shaft."}
+{"id":"01a0657e-13a2-78a7-a38f-7478f87e9475","chapterSlug":"rwInterlude - Numbtongue (Pt-2)","paragraph":1074,"wording":"[Miner]","event":"named","claimed":true,"claimedBySlug":"earlia","holderQuote":"I’m a [Miner], or I was until my group ran into monsters in our shaft."}
 {"id":"01a0657e-13a2-7747-9744-181b05e725a7","chapterSlug":"rw6-48 T","paragraph":243,"wording":"[Miner]","event":"named"}
 {"id":"01a0657e-13a2-7f83-8e6f-d5c3aadf23a4","chapterSlug":"rw6-48 T","paragraph":287,"wording":"[Miner]","event":"named"}
 {"id":"01a0657e-13a2-74f8-8f59-ddff00e32666","chapterSlug":"rw7-01","paragraph":472,"wording":"[Miner]","event":"named"}
@@ -49,7 +49,7 @@
 {"id":"01a0657e-13a2-7d73-b267-b86a44546933","chapterSlug":"rw10-66 (Pt. 2)","paragraph":1266,"wording":"[Miner]","event":"named"}
 {"id":"01a0657e-13a2-77ec-93e0-e381521e2ccf","chapterSlug":"rw10-66 (Pt. 2)","paragraph":1488,"wording":"[Miner]","event":"named"}
 {"id":"01a0657e-13a2-7e1d-9f0d-f18bf5d20bf2","chapterSlug":"rw10-61 Y","paragraph":1467,"wording":"[Miner]","event":"named"}
-{"id":"01a0657e-13a2-785a-8465-6a2ab98d9353","chapterSlug":"rw10-69 IN","paragraph":594,"wording":"[Miner]","event":"named","claimed":true,"claimedBySlug":"Rayna","holderQuote":"Thamert’s a [Miner]. If you get a chance, watch him swing a pickaxe.","effectQuote":"He makes it look like a work of art","effectClaimed":true}
+{"id":"01a0657e-13a2-785a-8465-6a2ab98d9353","chapterSlug":"rw10-69 IN","paragraph":594,"wording":"[Miner]","event":"named","claimed":true,"claimedBySlug":"rayna","holderQuote":"Thamert’s a [Miner]. If you get a chance, watch him swing a pickaxe.","effectQuote":"He makes it look like a work of art","effectClaimed":true}
 {"id":"01a0657e-13a2-716d-8fb5-7bbbca665740","chapterSlug":"rw10-69 IN","paragraph":597,"wording":"[Miner]","event":"named","holderQuote":"Thamert’s a [Miner]. If you get a chance, watch him swing a pickaxe."}
 {"id":"01a0657e-13a2-73ac-ab8b-5d114bfbcb22","chapterSlug":"rw10-69 IN","paragraph":823,"wording":"[Miner]","event":"named"}
 {"id":"01a0657e-13a2-7269-b55f-c87923805f9e","chapterSlug":"rw10-69 IN","paragraph":850,"wording":"[Miner]","event":"named"}
@@ -70,6 +70,6 @@
 {"id":"01a0657e-13a2-769f-b390-b65165de5d22","chapterSlug":"rw10-35 (Pt. 1)","paragraph":741,"wording":"[Miner]","event":"named","holderQuote":"Earlia, the former [Miner] and captain of Gemhammer"}
 {"id":"01a0657e-13a2-78fd-906e-10a11742ce9f","chapterSlug":"rw10-62 NY","paragraph":752,"wording":"[Miner]","event":"named","holderQuote":"The [Miner] was bad."}
 {"id":"01a0657e-13a2-7420-8512-fcd90efcbfe7","chapterSlug":"rw10-62 NY","paragraph":1145,"wording":"[Miner]","event":"named","holderQuote":"Homle seemed like he was used to such games, and Ylawes stood on the outside as the [Miner] sat"}
-{"id":"01a0657e-13a2-728b-b415-8d580e0163b8","chapterSlug":"rw10-62 NY","paragraph":1163,"wording":"[Miner]","event":"named","claimed":true,"claimedBySlug":"a Cenidau warrior","holderQuote":"So how’s a [Miner] end up with Gold-rank adventurers?"}
+{"id":"01a0657e-13a2-728b-b415-8d580e0163b8","chapterSlug":"rw10-62 NY","paragraph":1163,"wording":"[Miner]","event":"named","claimed":true,"claimedBySlug":"a-cenidau-warrior","holderQuote":"So how’s a [Miner] end up with Gold-rank adventurers?"}
 {"id":"01a0657e-13a2-77fe-a549-41abd0441818","chapterSlug":"rw10-62 NY","paragraph":1164,"wording":"[Miner]","event":"named","holderQuote":"Homle gladly launched into the story of the Silver Swords, and Ylawes’ stomach tightened, but the [Miner] did a reasonably fair job"}
 {"id":"01a0657e-13a2-7e83-9478-65a73e830bf4","chapterSlug":"rw10-62 NY","paragraph":1197,"wording":"[Miner]","event":"named","holderQuote":"the [Miner] was laughing good-naturedly with Albraad"}

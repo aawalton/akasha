@@ -51,7 +51,7 @@
 {"id":"01a0657e-024d-78ed-a32d-d4d740045e5d","chapterSlug":"rw8-39","paragraph":307,"wording":"[Server]","event":"named"}
 {"id":"01a0657e-024d-72f5-bfde-34eb1532ca1c","chapterSlug":"rw8-39","paragraph":311,"wording":"[Server]","event":"named"}
 {"id":"01a0657e-024d-7441-bba4-340a3d317f8f","chapterSlug":"rw8-55 L","paragraph":571,"wording":"[Server]","event":"named","holderSlug":"lyonette-du-marquin","holderQuote":"Lyonette began taking orders like the [Server] she was. Bemused, the other guests watched as she marched about. Dame Ushar kept looking horrified, but Dalimont and Sest were pointed to the table to clear it of breakfast while Lormel kept watch. Even the Oteslian Watch got an order, and Lyonette was giving people cups of things to drink and—enjoying herself."}
-{"id":"01a0657e-024d-735e-b811-d3870148abe1","chapterSlug":"rw9-01","paragraph":653,"wording":"[Server]","event":"named","holderSlug":"ishkr","claimed":true,"claimedBySlug":"Ishkr","holderQuote":"Ishkr explained briefly,"}
+{"id":"01a0657e-024d-735e-b811-d3870148abe1","chapterSlug":"rw9-01","paragraph":653,"wording":"[Server]","event":"named","holderSlug":"ishkr","claimed":true,"claimedBySlug":"ishkr","holderQuote":"Ishkr explained briefly,"}
 {"id":"01a0657e-024d-714f-a1e3-36f6e42ee1b8","chapterSlug":"rw9-01","paragraph":716,"wording":"[Server]","event":"named","holderSlug":"ishkr","holderQuote":"Indeed, Ishkr did not, and he had never, ever brought it up."}
 {"id":"01a0657e-024d-7de8-b01b-d9f9b83b0762","chapterSlug":"rw9-01","paragraph":1201,"wording":"[Server]","event":"named"}
 {"id":"01a0657e-024d-702f-802c-25669ea0d06b","chapterSlug":"rw9-01","paragraph":1225,"wording":"[Server]","event":"named"}
@@ -93,9 +93,9 @@
 {"id":"01a0657e-024d-7436-b7b5-12eddd8dbddb","chapterSlug":"rw10-35 (Pt. 2)","paragraph":638,"wording":"[Server]","event":"named"}
 {"id":"01a0657e-024d-78cc-801e-fd8f19fa9b7b","chapterSlug":"rwInterlude - Beginnings","paragraph":304,"wording":"[Server]","event":"named","holderQuote":"coming out of the kitchen in Ishkr’s paws"}
 {"id":"01a0657e-024d-74e6-9685-5975412f5ac2","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":812,"wording":"[Server]","event":"named","holderSlug":"ishkr","holderQuote":"Again, the [Server] nodded at Todi."}
-{"id":"01a0657e-024d-768b-9fe0-77062ec88f08","chapterSlug":"rw10-62 NY","paragraph":199,"wording":"[Server]","event":"named","claimed":true,"claimedBySlug":"Barnethei","holderQuote":"Just a small one, Navien."}
+{"id":"01a0657e-024d-768b-9fe0-77062ec88f08","chapterSlug":"rw10-62 NY","paragraph":199,"wording":"[Server]","event":"named","claimed":true,"claimedBySlug":"barnethei","holderQuote":"Just a small one, Navien."}
 {"id":"01a0657e-024d-74c8-ab78-1731f11d5c11","chapterSlug":"rw10-20 E","paragraph":634,"wording":"[Server]","event":"named","holderQuote":"The [Server] saw Ama’s look of utter disbelief and raised a paw."}
-{"id":"01a0657e-024d-7257-a0ee-eec3961b058b","chapterSlug":"rw10-20 E","paragraph":653,"wording":"[Server]","event":"named","claimed":true,"claimedBySlug":"Durene","holderQuote":"But Ishkr is Erin’s [Server]. He just teleported four hundred miles."}
+{"id":"01a0657e-024d-7257-a0ee-eec3961b058b","chapterSlug":"rw10-20 E","paragraph":653,"wording":"[Server]","event":"named","claimed":true,"claimedBySlug":"durene","holderQuote":"But Ishkr is Erin’s [Server]. He just teleported four hundred miles."}
 {"id":"01a0657e-024d-7557-b652-38d3ec8e7e30","chapterSlug":"rw10-20 E","paragraph":874,"wording":"[Server]","event":"named","holderQuote":"Ishkr and Liska? The [Server] had a mug he was preparing to throw"}
 {"id":"01a0657e-024d-77d3-97d0-5181a2480d25","chapterSlug":"rw10-20 E","paragraph":1192,"wording":"[Server]","event":"named","holderQuote":"Ishkr froze. He gave Esor an innocent smile"}
 {"id":"01a0657e-024d-7b9e-ba10-84aed1d62e3c","chapterSlug":"rw9-32","paragraph":387,"wording":"[Server]","event":"named"}

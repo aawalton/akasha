@@ -88,7 +88,7 @@
 {"id":"01a0657e-025b-71c6-91a6-6f7b9b05fcc4","chapterSlug":"rw6-23 D","paragraph":1061,"wording":"[Soldier]","event":"named","holderSlug":"luan","holderQuote":"Luan lost track of Venaz as the two threw each other across the street."}
 {"id":"01a0657e-025b-7564-b322-e4566e6ecf1c","chapterSlug":"rw6-48 T","paragraph":615,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-77fd-baf2-39a2e3ef0155","chapterSlug":"rw6-53 K","paragraph":568,"wording":"[Soldier]","event":"named"}
-{"id":"01a0657e-025b-76fa-9ce8-c02417e5da16","chapterSlug":"rw6-39","paragraph":146,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
+{"id":"01a0657e-025b-76fa-9ce8-c02417e5da16","chapterSlug":"rw6-39","paragraph":146,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
 {"id":"01a0657e-025b-7d86-9a29-6eb30f3f07eb","chapterSlug":"rw6-52 K","paragraph":437,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-74f5-aad1-2b2013ea0fdf","chapterSlug":"rw6-52 K","paragraph":441,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-71a2-92a9-0e5b09c2556e","chapterSlug":"rw6-52 K","paragraph":501,"wording":"[Soldier]","event":"named"}
@@ -109,8 +109,8 @@
 {"id":"01a0657e-025b-75f1-bf34-213d0eb20305","chapterSlug":"rw7-08 K","paragraph":789,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7394-aa59-bd11cd39cc4d","chapterSlug":"rw7-10 K","paragraph":154,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7cad-9d62-4b8f4b90ff02","chapterSlug":"rw7-10 K","paragraph":258,"wording":"[Soldier]","event":"named"}
-{"id":"01a0657e-025b-79e2-a4d1-db1295fce657","chapterSlug":"rw7-10 K","paragraph":1227,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"Raelt"}
-{"id":"01a0657e-025b-7c3e-a946-1ec371a30cd8","chapterSlug":"rw7-10 K","paragraph":1227,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"Raelt"}
+{"id":"01a0657e-025b-79e2-a4d1-db1295fce657","chapterSlug":"rw7-10 K","paragraph":1227,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"raelt"}
+{"id":"01a0657e-025b-7c3e-a946-1ec371a30cd8","chapterSlug":"rw7-10 K","paragraph":1227,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"raelt"}
 {"id":"01a0657e-025b-7884-becc-6f001ed8015f","chapterSlug":"rw7-02","paragraph":602,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7454-a8ee-07b208414b6c","chapterSlug":"rw7-02","paragraph":1160,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-755d-a164-0ef5726608f6","chapterSlug":"rw7-02","paragraph":1164,"wording":"[Soldier]","event":"named"}
@@ -175,7 +175,7 @@
 {"id":"01a0657e-025b-7035-8f87-b3e6502c9da4","chapterSlug":"rw7-47 K","paragraph":920,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-70bb-82f6-33f8bdbde0a1","chapterSlug":"rw7-47 K","paragraph":1007,"wording":"[Soldier]","event":"named","holderSlug":"ozem","claimed":true,"claimedBySlug":"ozem","holderQuote":"I am blessed to be both [Soldier] and [General]."}
 {"id":"01a0657e-025b-7a82-98bb-f41c38b3f702","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":586,"wording":"[Soldier]","event":"named","holderSlug":"saliss-of-lights","holderQuote":"it was Chaldion that Saliss ignored"}
-{"id":"01a0657e-025b-77e4-bea9-d17db982a2d6","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":673,"wording":"[Soldier]","event":"named","holderSlug":"saliss-of-lights","claimed":true,"claimedBySlug":"Chaldion","holderQuote":"The Walled Cities will need Saliss of Lights in the decades after I am dead."}
+{"id":"01a0657e-025b-77e4-bea9-d17db982a2d6","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":673,"wording":"[Soldier]","event":"named","holderSlug":"saliss-of-lights","claimed":true,"claimedBySlug":"chaldion","holderQuote":"The Walled Cities will need Saliss of Lights in the decades after I am dead."}
 {"id":"01a0657e-025b-785b-9f05-412ff0ba6683","chapterSlug":"rw7-60","paragraph":169,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-71bd-a185-2340754a85ba","chapterSlug":"rw7-60","paragraph":177,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7854-9790-51319ade50ba","chapterSlug":"rwInterlude - The Innkeeper's [Knight]","paragraph":19,"wording":"[Soldier]","event":"named"}
@@ -232,7 +232,7 @@
 {"id":"01a0657e-025b-7fcb-8620-2ef23b9fb8ca","chapterSlug":"rw8-34 R","paragraph":1015,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7b86-af50-0b9d19f6d939","chapterSlug":"rw8-34 R","paragraph":1015,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7150-ba41-5bc655725cc5","chapterSlug":"rw8-34 R","paragraph":1107,"wording":"[Soldier]","event":"named"}
-{"id":"01a0657e-025b-7b68-812c-68ea1e8f39fa","chapterSlug":"rw8-34 R","paragraph":1134,"wording":"[Soldier]","event":"named","holderSlug":"relc","claimed":true,"claimedBySlug":"Sergeant","holderQuote":"Then Relc lowered his spear. He took a posture they all recognized. The [Spearman]’s guard. As if he were in formation."}
+{"id":"01a0657e-025b-7b68-812c-68ea1e8f39fa","chapterSlug":"rw8-34 R","paragraph":1134,"wording":"[Soldier]","event":"named","holderSlug":"relc","claimed":true,"claimedBySlug":"sergeant","holderQuote":"Then Relc lowered his spear. He took a posture they all recognized. The [Spearman]’s guard. As if he were in formation."}
 {"id":"01a0657e-025b-7978-8022-921ef34e5479","chapterSlug":"rw8-34 R","paragraph":1159,"wording":"[Soldier]","event":"named","holderSlug":"relc","holderQuote":"The Gecko of Liscor. Relc Grasstongue. The veteran who had slain countless officers in battle."}
 {"id":"01a0657e-025b-7520-8293-971e268a4314","chapterSlug":"rw8-34 R","paragraph":1165,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7c1a-9da1-f308c262fc9e","chapterSlug":"rw8-34 R","paragraph":1220,"wording":"[Soldier]","event":"named"}
@@ -360,7 +360,7 @@
 {"id":"01a0657e-025b-7b53-8c85-6f05605183be","chapterSlug":"rwInterlude – Hectval (Pt- 3)","paragraph":1353,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7911-9d78-ba7cd1ecf5fc","chapterSlug":"rwInterlude – Hectval (Pt- 3)","paragraph":1421,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7209-9028-ce82b79dcf21","chapterSlug":"rwInterlude - Satar","paragraph":230,"wording":"[Soldier]","event":"named"}
-{"id":"01a0657e-025b-7ac9-879a-31c0d372a0c6","chapterSlug":"rw8-66","paragraph":814,"wording":"[Soldier]","event":"named","holderSlug":"tkrn","claimed":true,"claimedBySlug":"Beilmark","holderQuote":"What is this idiocy? Guardsman Tkrn, you are not a [Soldier]. Why did you enlist?"}
+{"id":"01a0657e-025b-7ac9-879a-31c0d372a0c6","chapterSlug":"rw8-66","paragraph":814,"wording":"[Soldier]","event":"named","holderSlug":"tkrn","claimed":true,"claimedBySlug":"beilmark","holderQuote":"What is this idiocy? Guardsman Tkrn, you are not a [Soldier]. Why did you enlist?"}
 {"id":"01a0657e-025b-72a6-b6fb-7d835465b1ca","chapterSlug":"rw8-67","paragraph":409,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7179-b21e-442ae88b597c","chapterSlug":"rw8-67","paragraph":426,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7d91-84d7-1460869891c5","chapterSlug":"rw8-73 R","paragraph":82,"wording":"[Soldier]","event":"named"}
@@ -447,7 +447,7 @@
 {"id":"01a0657e-025b-781a-994c-a5ba8903d387","chapterSlug":"rw9-41 (Pt. 2)","paragraph":602,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-71ab-bcd7-1d90683b4822","chapterSlug":"rw9-41 (Pt. 2)","paragraph":602,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7b87-af0d-64a181048fff","chapterSlug":"rw9-41 (Pt. 2)","paragraph":629,"wording":"[Soldier]","event":"named","holderQuote":"Which implied he thought Vess deserved most of the other ones"}
-{"id":"01a0657e-025b-7bf3-aba6-9670b4c625fc","chapterSlug":"rw9-41 (Pt. 2)","paragraph":663,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"Erin","holderQuote":"Vess flinched, and Erin put her hands on her hips"}
+{"id":"01a0657e-025b-7bf3-aba6-9670b4c625fc","chapterSlug":"rw9-41 (Pt. 2)","paragraph":663,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"erin","holderQuote":"Vess flinched, and Erin put her hands on her hips"}
 {"id":"01a0657e-025b-7c88-9c57-3cc5fe47162b","chapterSlug":"rw9-41 (Pt. 2)","paragraph":667,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7e69-be6f-941d8fc63aa2","chapterSlug":"rw10-31 - Pt. 2","paragraph":35,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025b-7d90-a7c5-9769e7716001","chapterSlug":"rw10-31 - Pt. 2","paragraph":287,"wording":"[Soldier]","event":"named"}
@@ -525,7 +525,7 @@
 {"id":"01a0657e-025c-7267-9ab5-73708ba94aec","chapterSlug":"rw9-51 Z","paragraph":248,"wording":"[Soldier]","event":"named","holderSlug":"khorpe","holderQuote":"Major Khorpe, we have a gathering for everyone to play a game."}
 {"id":"01a0657e-025c-771e-95f8-5c5fe9c90e47","chapterSlug":"rw9-51 Z","paragraph":584,"wording":"[Soldier]","event":"named","holderSlug":"zail-gemscale","holderQuote":"A [Soldier]’s drinking song. Zail was humming as he stared up at the glowing spells coming down towards him."}
 {"id":"01a0657e-025c-7089-ae9e-01465b43ded7","chapterSlug":"rw9-48 BTIPRLJMWVRV","paragraph":780,"wording":"[Soldier]","event":"named","holderSlug":"relc","holderQuote":"They might have parted ways with Relc and had a difference of opinion"}
-{"id":"01a0657e-025c-72c0-aff9-7491f625bf4a","chapterSlug":"rw10-41 T","paragraph":686,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"Vrilt","holderQuote":"this is Undercaptain Goisa, who heads her Crime Company"}
+{"id":"01a0657e-025c-72c0-aff9-7491f625bf4a","chapterSlug":"rw10-41 T","paragraph":686,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"vrilt","holderQuote":"this is Undercaptain Goisa, who heads her Crime Company"}
 {"id":"01a0657e-025c-7f8e-bcf2-6eef592b81f0","chapterSlug":"rw10-60 YN","paragraph":2140,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7517-8958-f4fe67d133f8","chapterSlug":"rw10-60 YN","paragraph":2141,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-72cb-8114-638f4970e674","chapterSlug":"rw10-48 VS","paragraph":44,"wording":"[Soldier]","event":"named"}
@@ -535,7 +535,7 @@
 {"id":"01a0657e-025c-7735-adfe-51151ad54f56","chapterSlug":"rw10-65","paragraph":771,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-75f0-bcd9-1e62c9e106e3","chapterSlug":"rw10-65","paragraph":800,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7d45-ae4c-b816f2bb5852","chapterSlug":"rw9-60","paragraph":165,"wording":"[Soldier]","event":"named","holderQuote":"Then Hethon, mid-bow, noticed the woman was definitely a [Soldier]."}
-{"id":"01a0657e-025c-7c98-8646-c39e8272859e","chapterSlug":"rw9-60","paragraph":676,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"Archmage Valeterisa","holderQuote":"every [Soldier] who beheld it was said to have gone permanently insane."}
+{"id":"01a0657e-025c-7c98-8646-c39e8272859e","chapterSlug":"rw9-60","paragraph":676,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"archmage-valeterisa","holderQuote":"every [Soldier] who beheld it was said to have gone permanently insane."}
 {"id":"01a0657e-025c-7859-90c3-be7b925b4096","chapterSlug":"rw10-66 (Pt. 1)","paragraph":647,"wording":"[Soldier]","event":"named","holderQuote":"Me? But sir, I’m a [Soldier]"}
 {"id":"01a0657e-025c-7e47-b3eb-91ecb4fae7df","chapterSlug":"rwInterlude - Redscar","paragraph":463,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7a69-b7e0-fe28b7e911df","chapterSlug":"rwInterlude - Redscar","paragraph":481,"wording":"[Soldier]","event":"named","holderQuote":"Zeter was a Drake with six swords, armored in plate mail, holding a greatsword he swung with economical cuts"}
@@ -595,7 +595,7 @@
 {"id":"01a0657e-025c-7e39-9f66-49bf386c822f","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":555,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7cf5-9203-f4701d4549be","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":559,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7752-8773-af76c0027404","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":707,"wording":"[Soldier]","event":"named","holderQuote":"Zeter was practicing with one of Manus’ elite divisions, doing a workout devised by Grimalkin"}
-{"id":"01a0657e-025c-763f-a3a1-a3c7107bafa5","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":721,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"Beirhall","holderQuote":"You’re a [Soldier] of Manus and a Named-rank, Zeter."}
+{"id":"01a0657e-025c-763f-a3a1-a3c7107bafa5","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":721,"wording":"[Soldier]","event":"named","claimed":true,"claimedBySlug":"beirhall","holderQuote":"You’re a [Soldier] of Manus and a Named-rank, Zeter."}
 {"id":"01a0657e-025c-7bab-858e-85fea528f290","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":729,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-722a-bb14-fb1410978901","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":741,"wording":"[Soldier]","event":"named","holderQuote":"Beirhall was nodding along, but slowly. He glanced at Zeter."}
 {"id":"01a0657e-025c-77ee-a988-63ed391fd6d5","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":748,"wording":"[Soldier]","event":"named"}
@@ -629,7 +629,7 @@
 {"id":"01a0657e-025c-7e35-aea4-79acf941ab9b","chapterSlug":"rw10-54 UEG (Pt. 1)","paragraph":52,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7431-9c47-ca73c4764578","chapterSlug":"rw10-19 E","paragraph":559,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7153-b8ee-cb14258f5a76","chapterSlug":"rw10-19 E","paragraph":564,"wording":"[Soldier]","event":"named"}
-{"id":"01a0657e-025c-7e40-985d-03e105ed3555","chapterSlug":"rw10-19 E","paragraph":1056,"wording":"[Soldier]","event":"named","holderSlug":"vess","claimed":true,"claimedBySlug":"Vess","holderQuote":"Being a [Soldier] does not pay well."}
+{"id":"01a0657e-025c-7e40-985d-03e105ed3555","chapterSlug":"rw10-19 E","paragraph":1056,"wording":"[Soldier]","event":"named","holderSlug":"vess","claimed":true,"claimedBySlug":"vess","holderQuote":"Being a [Soldier] does not pay well."}
 {"id":"01a0657e-025c-7dbd-9337-ae71a42448d0","chapterSlug":"rw10-19 E","paragraph":1378,"wording":"[Soldier]","event":"named"}
 {"id":"01a0657e-025c-7e11-a2b6-edb76f452444","chapterSlug":"rw10-20 E","paragraph":232,"wording":"[Soldier]","event":"named","holderQuote":"As for Vess…Durene liked the former [Soldier], but she had had to help him set up a tent while they were camping."}
 {"id":"01a0657e-025c-7350-8001-00a4f2179cd2","chapterSlug":"rw10-20 E","paragraph":939,"wording":"[Soldier]","event":"named"}

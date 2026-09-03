@@ -43,7 +43,7 @@
 {"id":"01a0657e-0272-77b9-8562-655b0e0d26e8","chapterSlug":"rw8-40 CTV","paragraph":358,"wording":"[Wizard]","event":"named"}
 {"id":"01a0657e-0272-7280-94cf-4cf65855f626","chapterSlug":"rw8-52 MN","paragraph":29,"wording":"[Wizard]","event":"named"}
 {"id":"01a0657e-0272-7ac7-bdda-d41caaa130bf","chapterSlug":"rw8-53 FH","paragraph":922,"wording":"[Wizard]","event":"named"}
-{"id":"01a0657e-0272-7dcb-b527-8fc2e0db2bd5","chapterSlug":"rw8-60","paragraph":1304,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"Mri","holderQuote":"I have often been described as a [Druid], but my ambitions soar to [Wizard], [Adventurer] itself"}
+{"id":"01a0657e-0272-7dcb-b527-8fc2e0db2bd5","chapterSlug":"rw8-60","paragraph":1304,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"mri","holderQuote":"I have often been described as a [Druid], but my ambitions soar to [Wizard], [Adventurer] itself"}
 {"id":"01a0657e-0272-7278-ba4c-2b736130e2a8","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":2,"wording":"[Wizard]","event":"named"}
 {"id":"01a0657e-0272-7b66-824a-636eca7cb2d2","chapterSlug":"rw9-07","paragraph":1512,"wording":"[Wizard]","event":"named","holderQuote":"Mrsha hopped into her lap"}
 {"id":"01a0657e-0272-7cc1-9e79-1499b2d34a28","chapterSlug":"rw9-24","paragraph":239,"wording":"[Wizard]","event":"named"}
@@ -76,11 +76,11 @@
 {"id":"01a0657e-0272-7ba0-bd91-5ce35be0e7b2","chapterSlug":"rw10-24 E","paragraph":1766,"wording":"[Wizard]","event":"named","holderQuote":"The [Wizard] shrugged, smiling broadly."}
 {"id":"01a0657e-0272-7791-89db-86ebfeafab4b","chapterSlug":"rw10-24 E","paragraph":1771,"wording":"[Wizard]","event":"named","holderQuote":"The [Wizard] frowned at the yellow ball, which had indeed faded slightly in luster"}
 {"id":"01a0657e-0272-7962-9b2b-f8058c59a546","chapterSlug":"rw10-38 E","paragraph":12,"wording":"[Wizard]","event":"named","holderQuote":"Gollesume the Great, one of the higher-level magic-users in the village. The [Wizard] puts down the enchanted spyglass"}
-{"id":"01a0657e-0272-7387-9d13-0f47cfb307ac","chapterSlug":"rw10-38 E","paragraph":19,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"Macnest","holderQuote":"Aren’t you a [Wizard], Gollesume?"}
+{"id":"01a0657e-0272-7387-9d13-0f47cfb307ac","chapterSlug":"rw10-38 E","paragraph":19,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"macnest","holderQuote":"Aren’t you a [Wizard], Gollesume?"}
 {"id":"01a0657e-0272-7dd0-b57e-935c9cef13dc","chapterSlug":"rw10-38 E","paragraph":1448,"wording":"[Wizard]","event":"named","holderQuote":"Gollesume, what’re they saying over there? Gollesume?"}
 {"id":"01a0657e-0272-7a34-8492-2175cad1d9db","chapterSlug":"rw10-38 E","paragraph":2018,"wording":"[Wizard]","event":"named","holderQuote":"Every head turned back to Gollesume, and the [Wizard] opened his mouth"}
-{"id":"01a0657e-0272-73c0-8d5d-597f8c74fbd5","chapterSlug":"rwInterlude - Levels","paragraph":841,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"Hedault","holderQuote":"You are not the expert here, Wizard Larra."}
-{"id":"01a0657e-0272-76d2-bc48-3f324277850a","chapterSlug":"rwInterlude - Levels","paragraph":843,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"Larra","holderQuote":"Larra shot back as she peered down the base of the wand"}
+{"id":"01a0657e-0272-73c0-8d5d-597f8c74fbd5","chapterSlug":"rwInterlude - Levels","paragraph":841,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"hedault","holderQuote":"You are not the expert here, Wizard Larra."}
+{"id":"01a0657e-0272-76d2-bc48-3f324277850a","chapterSlug":"rwInterlude - Levels","paragraph":843,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"larra","holderQuote":"Larra shot back as she peered down the base of the wand"}
 {"id":"01a0657e-0272-7d1a-a636-3d7801482379","chapterSlug":"rw10-59 T","paragraph":2271,"wording":"[Wizard]","event":"named","holderQuote":"but a [Wizard] standing on a table in the little inn she’d bought, retiring and trying something new. Larracel…"}
 {"id":"01a0657e-0272-73d6-b470-1d9e27b058ed","chapterSlug":"rw10-31 - Pt. 1","paragraph":696,"wording":"[Wizard]","event":"named"}
 {"id":"01a0657e-0272-71f6-b7a7-991801332127","chapterSlug":"rw10-47 S (Pt. 2)","paragraph":115,"wording":"[Wizard]","event":"named","holderSlug":"glasiaad","claimed":true,"claimedBySlug":"edellein","holderQuote":"He’s a bit elderly, but a capable [Wizard]"}
@@ -94,10 +94,10 @@
 {"id":"01a0657e-0272-7d4d-8693-ee5955ad89bc","chapterSlug":"rw10-41 T","paragraph":33,"wording":"[Wizard]","event":"named","holderSlug":"larracel","holderQuote":"Larracel kept glowering at the rain, and he feared she’d cast [Clear Skies] anyways"}
 {"id":"01a0657e-0272-7481-ae1f-6a428d57ce91","chapterSlug":"rw10-41 T","paragraph":42,"wording":"[Wizard]","event":"named"}
 {"id":"01a0657e-0272-775d-99b8-d5ba96779c1d","chapterSlug":"rw10-41 T","paragraph":136,"wording":"[Wizard]","event":"named","holderSlug":"larracel","holderQuote":"She was truly a master [Wizard], despite her current profession. Moreover, Larracel was highly"}
-{"id":"01a0657e-0272-7d87-9a67-490b78b54ac1","chapterSlug":"rw10-41 T","paragraph":157,"wording":"[Wizard]","event":"named","holderSlug":"larracel","claimed":true,"claimedBySlug":"Barnethei","holderQuote":"Larracel, what’s wrong? Monsters?"}
+{"id":"01a0657e-0272-7d87-9a67-490b78b54ac1","chapterSlug":"rw10-41 T","paragraph":157,"wording":"[Wizard]","event":"named","holderSlug":"larracel","claimed":true,"claimedBySlug":"barnethei","holderQuote":"Larracel, what’s wrong? Monsters?"}
 {"id":"01a0657e-0272-7b20-bc9d-c8d95184803b","chapterSlug":"rw10-41 T","paragraph":186,"wording":"[Wizard]","event":"named","holderSlug":"larracel","holderQuote":"A true problem for a [Wizard]. Barnethei wasn’t worried—until he saw Larracel’s face"}
 {"id":"01a0657e-0272-7762-b2cb-da4055977420","chapterSlug":"rw10-41 T","paragraph":200,"wording":"[Wizard]","event":"named","holderSlug":"larracel","holderQuote":"And Larracel, as a [Wizard], had solutions"}
-{"id":"01a0657e-0272-7857-9033-8466f9a149d7","chapterSlug":"rw10-41 T","paragraph":219,"wording":"[Wizard]","event":"named","holderSlug":"larracel","claimed":true,"claimedBySlug":"Barnethei","holderQuote":"You’re the Named-rank [Wizard], Larra"}
+{"id":"01a0657e-0272-7857-9033-8466f9a149d7","chapterSlug":"rw10-41 T","paragraph":219,"wording":"[Wizard]","event":"named","holderSlug":"larracel","claimed":true,"claimedBySlug":"barnethei","holderQuote":"You’re the Named-rank [Wizard], Larra"}
 {"id":"01a0657e-0272-79d5-b58e-c9e103a13bc7","chapterSlug":"rw10-41 T","paragraph":347,"wording":"[Wizard]","event":"named","holderSlug":"larracel","holderQuote":"Larra eyed him, then hugged him hard. The short [Wizard] glared up at him"}
 {"id":"01a0657e-0272-7355-b54a-5ad675028822","chapterSlug":"rw9-25","paragraph":580,"wording":"[Wizard]","event":"named","holderQuote":"Larra the Haven had been a Named-rank [Mage]"}
 {"id":"01a0657e-0272-7b15-8cc5-a49e20bedc45","chapterSlug":"rw9-25","paragraph":739,"wording":"[Wizard]","event":"named"}
@@ -117,10 +117,10 @@
 {"id":"01a0657e-0272-78a5-b037-df2c9ffde5a7","chapterSlug":"rw10-42 T","paragraph":1580,"wording":"[Wizard]","event":"named","holderSlug":"larracel","holderQuote":"At some point in their long conversation into the night, Larracel flew off and started blasting spells into the sky."}
 {"id":"01a0657e-0272-7f10-b43e-b965162c28bf","chapterSlug":"rw9-69 H (Pt. 1)","paragraph":645,"wording":"[Wizard]","event":"named","holderQuote":"Larracel had been the greatest adventurer of her time—a [Wizard] extraordinaire"}
 {"id":"01a0657e-0272-7c58-9f6e-66b85d5b2fa9","chapterSlug":"rw10-54 UEG (Pt. 1)","paragraph":546,"wording":"[Wizard]","event":"named","holderQuote":"Who? Gollesume?"}
-{"id":"01a0657e-0272-72a0-9feb-11381b6704fa","chapterSlug":"rw10-20 E","paragraph":292,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"Vess","holderQuote":"I think I’m technically a [Sorcerer] or a [Wizard]."}
-{"id":"01a0657e-0272-7f6e-ae96-000db45d9104","chapterSlug":"rw10-10 E (Pt. 1)","paragraph":296,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"Ulvama","holderQuote":"She’s a [Wizard], Erin."}
+{"id":"01a0657e-0272-72a0-9feb-11381b6704fa","chapterSlug":"rw10-20 E","paragraph":292,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"vess","holderQuote":"I think I’m technically a [Sorcerer] or a [Wizard]."}
+{"id":"01a0657e-0272-7f6e-ae96-000db45d9104","chapterSlug":"rw10-10 E (Pt. 1)","paragraph":296,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"ulvama","holderQuote":"She’s a [Wizard], Erin."}
 {"id":"01a0657e-0272-72c1-9f8e-a66cbef6498e","chapterSlug":"rw9-32","paragraph":768,"wording":"[Wizard]","event":"named"}
-{"id":"01a0657e-0272-7c1c-a312-a87c8af94546","chapterSlug":"rw9-32","paragraph":815,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"Mrsha","holderQuote":"And a [Wizard]! Mrsha the Witch-Wizard!"}
+{"id":"01a0657e-0272-7c1c-a312-a87c8af94546","chapterSlug":"rw9-32","paragraph":815,"wording":"[Wizard]","event":"named","claimed":true,"claimedBySlug":"mrsha","holderQuote":"And a [Wizard]! Mrsha the Witch-Wizard!"}
 {"id":"01a0657e-0272-7f6b-8256-5340abbfb0d4","chapterSlug":"rw9-38 TV (Pt. 2)","paragraph":339,"wording":"[Wizard]","event":"named","holderQuote":"The [Wizard] gave Valeterisa a pointed look."}
 {"id":"01a0657e-0272-7e05-a768-9a7b1141389f","chapterSlug":"rw9-38 TV (Pt. 2)","paragraph":381,"wording":"[Wizard]","event":"named","holderQuote":"the [Wizard] raised her wand, and the guests gasped"}
 {"id":"01a0657e-0272-7764-b222-47a159e6f121","chapterSlug":"rw9-38 TV (Pt. 1)","paragraph":239,"wording":"[Wizard]","event":"named","holderQuote":"very respectful of Larracel. The [Innkeeper]-[Wizard]"}

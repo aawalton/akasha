@@ -25,12 +25,12 @@
 {"id":"01a06586-0a52-7086-b98d-134951525329","chapterSlug":"rw8-81","paragraph":137,"wording":"[Squire]","event":"named","holderQuote":"Solton paused as the bandaged man blustered forwards"}
 {"id":"01a06586-0a52-7513-aac7-12bfd7b5fd28","chapterSlug":"rw8-81","paragraph":146,"wording":"[Squire]","event":"named","holderQuote":"Ser Solton introduced himself and his"}
 {"id":"01a06586-0a52-75b7-9407-d6c4694d65bd","chapterSlug":"rw8-81","paragraph":150,"wording":"[Squire]","event":"named","holderQuote":"Cathenay, the seat, the seat!"}
-{"id":"01a06586-0a52-7ece-b369-03cb8648eccc","chapterSlug":"rw9-17 R","paragraph":627,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"Voost","holderQuote":"I was ashamed. And I still am"}
+{"id":"01a06586-0a52-7ece-b369-03cb8648eccc","chapterSlug":"rw9-17 R","paragraph":627,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"voost","holderQuote":"I was ashamed. And I still am"}
 {"id":"01a06586-0a52-7139-beed-764888d7796b","chapterSlug":"rwHeroes of Hraace (Pt- 2)","paragraph":108,"wording":"[Squire]","event":"named"}
-{"id":"01a06586-0a52-77f1-8da9-f8627eb2452e","chapterSlug":"rw9-41 (Pt. 1)","paragraph":419,"wording":"[Squire]","event":"named","holderSlug":"normen","claimed":true,"claimedBySlug":"Cloudst","holderQuote":"Not bad. You’ve passed the level of a [Squire] already. You lack some polish for a full [Knight]"}
+{"id":"01a06586-0a52-77f1-8da9-f8627eb2452e","chapterSlug":"rw9-41 (Pt. 1)","paragraph":419,"wording":"[Squire]","event":"named","holderSlug":"normen","claimed":true,"claimedBySlug":"cloudst","holderQuote":"Not bad. You’ve passed the level of a [Squire] already. You lack some polish for a full [Knight]"}
 {"id":"01a06586-0a52-7b5c-85b5-cbd3f8a6e457","chapterSlug":"rw9-41 (Pt. 1)","paragraph":435,"wording":"[Squire]","event":"named"}
 {"id":"01a06586-0a52-7a22-8917-d1daf076d973","chapterSlug":"rw9-41 (Pt. 1)","paragraph":439,"wording":"[Squire]","event":"named"}
-{"id":"01a06586-0a52-7676-8031-b26ca3f29600","chapterSlug":"rw9-41 (Pt. 1)","paragraph":446,"wording":"[Squire]","event":"named","holderSlug":"normen","claimed":true,"claimedBySlug":"Sest","holderQuote":"Ser Normen, this is why [Knights] take so long to train."}
+{"id":"01a06586-0a52-7676-8031-b26ca3f29600","chapterSlug":"rw9-41 (Pt. 1)","paragraph":446,"wording":"[Squire]","event":"named","holderSlug":"normen","claimed":true,"claimedBySlug":"sest","holderQuote":"Ser Normen, this is why [Knights] take so long to train."}
 {"id":"01a06586-0a52-76ec-8038-50141c7ffe3d","chapterSlug":"rw9-41 (Pt. 2)","paragraph":339,"wording":"[Squire]","event":"named"}
 {"id":"01a06586-0a52-7b2c-a236-36fea6fc14cc","chapterSlug":"rw9-41 (Pt. 2)","paragraph":799,"wording":"[Squire]","event":"named"}
 {"id":"01a06586-0a52-729d-87f7-b4cc69e2f395","chapterSlug":"rw10-00 L","paragraph":1178,"wording":"[Squire]","event":"named","holderSlug":"dame-ushar","holderQuote":"She’d served them all her life since graduating from [Squire]."}
@@ -79,7 +79,7 @@
 {"id":"01a06586-0a52-743b-a879-4806d7addac9","chapterSlug":"rw10-61 Y","paragraph":1088,"wording":"[Squire]","event":"named"}
 {"id":"01a06586-0a52-7ac1-a713-cdf6f559c66e","chapterSlug":"rw10-61 Y","paragraph":1092,"wording":"[Squire]","event":"named"}
 {"id":"01a06586-0a52-7944-b7e8-223816f3d5b5","chapterSlug":"rw10-61 Y","paragraph":1094,"wording":"[Squire]","event":"named"}
-{"id":"01a06586-0a52-7203-9d13-4c4b0f1167fa","chapterSlug":"rw10-61 Y","paragraph":1095,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"Rosenthine","holderQuote":"Thellabell is the most talented [Squire] in Kaaz, my word upon it."}
+{"id":"01a06586-0a52-7203-9d13-4c4b0f1167fa","chapterSlug":"rw10-61 Y","paragraph":1095,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"rosenthine","holderQuote":"Thellabell is the most talented [Squire] in Kaaz, my word upon it."}
 {"id":"01a06586-0a52-755e-86f6-cc174e7112a7","chapterSlug":"rw10-61 Y","paragraph":1105,"wording":"[Squire]","event":"named","holderQuote":"Thellabell is the most talented [Squire] in Kaaz, my word upon it."}
 {"id":"01a06586-0a52-7dab-9886-031417ffc374","chapterSlug":"rw10-61 Y","paragraph":1118,"wording":"[Squire]","event":"named"}
 {"id":"01a06586-0a52-7d9c-8e98-a7126cd9b8c4","chapterSlug":"rw10-61 Y","paragraph":1119,"wording":"[Squire]","event":"named","holderQuote":"Thellabell realized she was calling Falene’s class ‘substandard’ to her face."}
@@ -92,8 +92,8 @@
 {"id":"01a06586-0a52-78ae-98ba-7c41797b5023","chapterSlug":"rw10-61 Y","paragraph":1645,"wording":"[Squire]","event":"named"}
 {"id":"01a06586-0a52-767b-83e3-4bc973578fd6","chapterSlug":"rw9-66","paragraph":1284,"wording":"[Squire]","event":"named","holderQuote":"Squire Herove is dead."}
 {"id":"01a06586-0a52-755d-a23a-656221ee5c93","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1495,"wording":"[Squire]","event":"named","holderQuote":"Haley muttered as she polished some armor with a cloth, oil, and metal wire, removing rust and buffing the piece to a fine sheen."}
-{"id":"01a06586-0a52-731e-af83-779d78c2b87f","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1507,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"Haley","holderQuote":"I’m not doing much good just polishing armor, am I? I’m a [Squire]."}
-{"id":"01a06586-0a52-7ffe-9d70-a42ed9339cee","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1510,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"Lamont","holderQuote":"I was just going to be a [Squire] for a year or less if I was good—then they’d send me to a lesser [Knight] Order."}
+{"id":"01a06586-0a52-731e-af83-779d78c2b87f","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1507,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"haley","holderQuote":"I’m not doing much good just polishing armor, am I? I’m a [Squire]."}
+{"id":"01a06586-0a52-7ffe-9d70-a42ed9339cee","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1510,"wording":"[Squire]","event":"named","claimed":true,"claimedBySlug":"lamont","holderQuote":"I was just going to be a [Squire] for a year or less if I was good—then they’d send me to a lesser [Knight] Order."}
 {"id":"01a06586-0a52-7474-9951-6f057c0a544c","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1524,"wording":"[Squire]","event":"named","holderQuote":"The [Squire] shook her head again. She hefted a sword next and balanced it on one finger by the hilt. Lamont eyed the trick, and Haley spun the sword around in her hand"}
 {"id":"01a06586-0a52-71fa-bd04-55581470f967","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1538,"wording":"[Squire]","event":"named","claimed":true,"holderQuote":"You are a [Squire], Haley."}
 {"id":"01a06586-0a52-7d44-845d-a22cd34aa509","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":1558,"wording":"[Squire]","event":"named","holderQuote":"impressed a passing [Knight] so much she’d gotten a [Squire]’s class and training."}

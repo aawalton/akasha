@@ -8,10 +8,10 @@
 {"id":"01a0657e-0218-7bc9-901e-79425ed963a3","chapterSlug":"rw6-25","paragraph":111,"wording":"[Laborer]","event":"named","holderQuote":"Helma, whom Fierre knew from her [Laborer] job, came to the window at once."}
 {"id":"01a0657e-0218-7caf-839f-3658dc7f6723","chapterSlug":"rw6-19 H","paragraph":739,"wording":"[Laborer]","event":"named"}
 {"id":"01a0657e-0218-7396-8c05-ce36b7a93585","chapterSlug":"rw6-22 D","paragraph":95,"wording":"[Laborer]","event":"named"}
-{"id":"01a0657e-0218-7497-9bc4-3b0289f21324","chapterSlug":"rw6-34 E","paragraph":75,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"Prost","holderQuote":"Right now, we need a [Painter], so slap a coat on those houses and don’t talk about decorations or I’ll have you working as a [Laborer]!"}
+{"id":"01a0657e-0218-7497-9bc4-3b0289f21324","chapterSlug":"rw6-34 E","paragraph":75,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"prost","holderQuote":"Right now, we need a [Painter], so slap a coat on those houses and don’t talk about decorations or I’ll have you working as a [Laborer]!"}
 {"id":"01a0657e-0218-7931-b1f6-6b1b8837dd96","chapterSlug":"rw6-42 E","paragraph":345,"wording":"[Laborer]","event":"named","holderSlug":"fierre","claimed":true,"claimedBySlug":"fierre","holderQuote":"Everyone has a bad day, William. And I’m not working as a [Laborer] today."}
 {"id":"01a0657e-0218-7518-a871-15bc6450ea15","chapterSlug":"rw6-64","paragraph":11,"wording":"[Laborer]","event":"named"}
-{"id":"01a0657e-0218-7c8a-92b8-55e94c4b6c4e","chapterSlug":"rw6-65","paragraph":49,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"Mesiel","holderQuote":"The name’s Mesiel."}
+{"id":"01a0657e-0218-7c8a-92b8-55e94c4b6c4e","chapterSlug":"rw6-65","paragraph":49,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"mesiel","holderQuote":"The name’s Mesiel."}
 {"id":"01a0657e-0218-77c1-acbd-5647de629490","chapterSlug":"rw7-16 L","paragraph":12,"wording":"[Laborer]","event":"named"}
 {"id":"01a0657e-0218-7511-a247-a8097d575c91","chapterSlug":"rw7-26","paragraph":900,"wording":"[Laborer]","event":"named","holderSlug":"kevin","claimed":true,"claimedBySlug":"lyonette-du-marquin","holderQuote":"Lyonette almost smiled back"}
 {"id":"01a0657e-0218-764f-be05-1b7a75cc3ec8","chapterSlug":"rw7-26","paragraph":911,"wording":"[Laborer]","event":"named","holderSlug":"kevin","claimed":true,"claimedBySlug":"kevin","holderQuote":"Lyonette hurried after Kevin"}
@@ -19,7 +19,7 @@
 {"id":"01a0657e-0218-7696-9687-f0e03d31694c","chapterSlug":"rw7-26","paragraph":919,"wording":"[Laborer]","event":"named","holderSlug":"kevin","claimed":true,"claimedBySlug":"kevin","holderQuote":"Kevin, unfazed, looked at her"}
 {"id":"01a0657e-0218-70e4-b573-92956f191471","chapterSlug":"rw7-50","paragraph":239,"wording":"[Laborer]","event":"named"}
 {"id":"01a0657e-0218-7bcf-bd28-f331e441c47d","chapterSlug":"rw7-50","paragraph":255,"wording":"[Laborer]","event":"named"}
-{"id":"01a0657e-0218-7c0f-8e0d-1e42dd34722a","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":1219,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"Riqre","holderQuote":"He pointed at Bearig, who was choking on his saliva and the pain. Emir Riqre tapped the side of his nose."}
+{"id":"01a0657e-0218-7c0f-8e0d-1e42dd34722a","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":1219,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"riqre","holderQuote":"He pointed at Bearig, who was choking on his saliva and the pain. Emir Riqre tapped the side of his nose."}
 {"id":"01a0657e-0218-7e55-8826-4dee17627386","chapterSlug":"rw8-34 R","paragraph":79,"wording":"[Laborer]","event":"named"}
 {"id":"01a0657e-0218-70c5-9104-0d448af05e82","chapterSlug":"rw8-34 R","paragraph":85,"wording":"[Laborer]","event":"named"}
 {"id":"01a0657e-0218-75aa-8fba-60998dad5882","chapterSlug":"rw8-35","paragraph":309,"wording":"[Laborer]","event":"named","holderQuote":"And that was where Furfur came in. After all, he had worked as a [Laborer] in shops like Elirr’s. He had even gained [Animal Feeder] as a class. Today? Today, he was a [Pet Raiser]. A class unlike [Beast Tamer], because, well…kittens were not beasts."}
@@ -27,4 +27,4 @@
 {"id":"01a0657e-0218-7063-a09e-7dc1921251fd","chapterSlug":"rw9-53","paragraph":845,"wording":"[Laborer]","event":"named","holderQuote":"Unlike her brother, she had bounced from job to job, and so she had basic Skills."}
 {"id":"01a0657e-0218-72ff-8f98-11401b6c0f33","chapterSlug":"rw10-67 O","paragraph":674,"wording":"[Laborer]","event":"named","holderQuote":"Genous was a [Laborer], which was a generic class you got when you bounced around for work."}
 {"id":"01a0657e-0218-7992-9950-b3ff8e5f3eca","chapterSlug":"rw10-67 O","paragraph":702,"wording":"[Laborer]","event":"named","holderQuote":"even Boyd could tell that Genous was a drunk"}
-{"id":"01a0657e-0218-71fc-a7a3-6d54268efc82","chapterSlug":"rw9-33","paragraph":342,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"Loran","holderQuote":"I started as a mere [Laborer], and within a year"}
+{"id":"01a0657e-0218-71fc-a7a3-6d54268efc82","chapterSlug":"rw9-33","paragraph":342,"wording":"[Laborer]","event":"named","claimed":true,"claimedBySlug":"loran","holderQuote":"I started as a mere [Laborer], and within a year"}

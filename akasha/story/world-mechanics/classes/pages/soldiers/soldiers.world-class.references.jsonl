@@ -137,7 +137,7 @@
 {"id":"01a06586-0a47-7a1d-8dff-93c0235d753d","chapterSlug":"rw5-54","paragraph":825,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a47-7827-995b-e8acfbc9a845","chapterSlug":"rw5-49","paragraph":121,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a47-7c02-967f-ebbbfb90a178","chapterSlug":"rw5-37 G","paragraph":119,"wording":"[Soldiers]","event":"named","holderSlug":"lord-tyrion-veltras","holderQuote":"His [Knights] and mounted [Soldiers] were pursuing the last of Rags’ Redfang warriors as the relieved folk of Riverfarm watched."}
-{"id":"01a06586-0a47-7d9e-ae42-f31eadb7cfba","chapterSlug":"rw5-37 G","paragraph":273,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"Pellmia","holderQuote":"Pellmia snorted."}
+{"id":"01a06586-0a47-7d9e-ae42-f31eadb7cfba","chapterSlug":"rw5-37 G","paragraph":273,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"pellmia","holderQuote":"Pellmia snorted."}
 {"id":"01a06586-0a47-7c8a-ae5f-37f3fd6c2be4","chapterSlug":"rw5-37 G","paragraph":347,"wording":"[Soldiers]","event":"named","holderQuote":"Lord Pellmia stared and then laughed."}
 {"id":"01a06586-0a47-78cc-aa0c-1a8b56e4389e","chapterSlug":"rw5-52","paragraph":103,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"embria"}
 {"id":"01a06586-0a47-75be-8309-ba5fa2f10728","chapterSlug":"rw5-52","paragraph":108,"wording":"[Soldiers]","event":"named"}
@@ -444,7 +444,7 @@
 {"id":"01a06586-0a48-7965-a4e4-dc31e12e6bf4","chapterSlug":"rw7-10 K","paragraph":228,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a48-7549-95c2-c701ee430250","chapterSlug":"rw7-10 K","paragraph":482,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a48-70fa-a85c-93ec647d6f76","chapterSlug":"rw7-10 K","paragraph":498,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a48-7b46-a3a3-cb4ddb6784d2","chapterSlug":"rw7-10 K","paragraph":499,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"Flos"}
+{"id":"01a06586-0a48-7b46-a3a3-cb4ddb6784d2","chapterSlug":"rw7-10 K","paragraph":499,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"flos"}
 {"id":"01a06586-0a48-7a84-aa0e-41f9bd6e3f68","chapterSlug":"rw7-10 K","paragraph":524,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a48-7825-be89-1b9ae1b35ccf","chapterSlug":"rw7-10 K","paragraph":1013,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a48-71bc-bbce-ffa0aa184ddf","chapterSlug":"rw7-10 K","paragraph":1093,"wording":"[Soldiers]","event":"named"}
@@ -880,7 +880,7 @@
 {"id":"01a06586-0a49-7138-8241-d7dba20da6d0","chapterSlug":"rw8-18 H","paragraph":144,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a49-7b8e-bcb9-4a183898cb2c","chapterSlug":"rw8-18 H","paragraph":690,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a49-7146-8de9-0729ce6a17bd","chapterSlug":"rw8-18 H","paragraph":696,"wording":"[Soldiers]","event":"named","holderSlug":"tyrion-veltras","holderQuote":"Ryoka stared up at Tyrion. The Lord of House Veltras sat there. With all the [Soldiers] he had been able to march here in two days’ short notice. She knew it had been an incredibly outrageous request, and Jericha had said as much."}
-{"id":"01a06586-0a49-74dc-b70d-89cd6f34c14b","chapterSlug":"rw8-18 H","paragraph":711,"wording":"[Soldiers]","event":"named","holderSlug":"tyrion-veltras","claimed":true,"claimedBySlug":"Tyrion","holderQuote":"“Eight thousand was all the available [Soldiers] who could immediately join us without stripping garrisons. If you believe it is not enough…”"}
+{"id":"01a06586-0a49-74dc-b70d-89cd6f34c14b","chapterSlug":"rw8-18 H","paragraph":711,"wording":"[Soldiers]","event":"named","holderSlug":"tyrion-veltras","claimed":true,"claimedBySlug":"tyrion","holderQuote":"“Eight thousand was all the available [Soldiers] who could immediately join us without stripping garrisons. If you believe it is not enough…”"}
 {"id":"01a06586-0a49-7a8e-94d4-0c9fa3330d9b","chapterSlug":"rw8-18 H","paragraph":762,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a49-7995-b887-b194504cb719","chapterSlug":"rw8-18 H","paragraph":768,"wording":"[Soldiers]","event":"named","holderSlug":"tyrion-veltras","holderQuote":"Lord Tyrion Veltras had disagreed. He raised his lance. His [Soldiers] cheered as the [Lord] pointed."}
 {"id":"01a06586-0a49-71da-bd18-27bf254ad16f","chapterSlug":"rw8-18 H","paragraph":786,"wording":"[Soldiers]","event":"named","holderSlug":"tyrion-veltras","holderQuote":"They wanted his army in the streets. Tyrion had seen the embattled adventurers and his [Soldiers], fine though they were, were not Gold-ranks. He checked the little scrying mirror someone was holding up as he heard his name."}
@@ -1528,7 +1528,7 @@
 {"id":"01a06586-0a4a-7c59-898b-6bcab835a98f","chapterSlug":"rw8-77 B","paragraph":160,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-78e0-9f3c-9be40f4bf2fc","chapterSlug":"rw8-77 B","paragraph":187,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7663-b63b-2e5718fc01d0","chapterSlug":"rw8-77 B","paragraph":459,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a4a-732a-85b2-30d6f8e6f8d6","chapterSlug":"rw8-77 B","paragraph":467,"wording":"[Soldiers]","event":"named","holderSlug":"fezimet","claimed":true,"claimedBySlug":"Quexa","holderQuote":"Fezimet needs someone to fill in for all the [Soldiers] he’s pulled to burn the forest"}
+{"id":"01a06586-0a4a-732a-85b2-30d6f8e6f8d6","chapterSlug":"rw8-77 B","paragraph":467,"wording":"[Soldiers]","event":"named","holderSlug":"fezimet","claimed":true,"claimedBySlug":"quexa","holderQuote":"Fezimet needs someone to fill in for all the [Soldiers] he’s pulled to burn the forest"}
 {"id":"01a06586-0a4a-732b-99b3-4f42f63d791e","chapterSlug":"rw8-77 B","paragraph":585,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-76e6-89f8-75194c8ca62b","chapterSlug":"rw8-77 B","paragraph":600,"wording":"[Soldiers]","event":"named","holderQuote":"However, Perorn wasn’t only attacking with her personal vanguard. She had dozens, maybe many hundreds of [Soldiers]"}
 {"id":"01a06586-0a4a-72a7-87de-6310747ce81c","chapterSlug":"rw8-77 B","paragraph":603,"wording":"[Soldiers]","event":"named"}
@@ -1543,7 +1543,7 @@
 {"id":"01a06586-0a4a-724e-aae3-20869b782dbf","chapterSlug":"rw8-77 B","paragraph":751,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7b02-ad12-2108b9b3c151","chapterSlug":"rw8-77 B","paragraph":886,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-77fb-9196-7463122adf82","chapterSlug":"rw8-77 B","paragraph":923,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a4a-7d2a-ae3c-9612e462095d","chapterSlug":"rw8-77 B","paragraph":1037,"wording":"[Soldiers]","event":"named","holderSlug":"fezimet","claimed":true,"claimedBySlug":"Fezimet","holderQuote":"Those are my people dying like…like flies"}
+{"id":"01a06586-0a4a-7d2a-ae3c-9612e462095d","chapterSlug":"rw8-77 B","paragraph":1037,"wording":"[Soldiers]","event":"named","holderSlug":"fezimet","claimed":true,"claimedBySlug":"fezimet","holderQuote":"Those are my people dying like…like flies"}
 {"id":"01a06586-0a4a-7884-80f1-dfd0ad36c320","chapterSlug":"rw8-77 B","paragraph":1057,"wording":"[Soldiers]","event":"named","holderSlug":"fezimet","holderQuote":"Fezimet slithered down his tower and joined the last muster of [Soldiers]"}
 {"id":"01a06586-0a4a-72d6-a662-8dfaee54b352","chapterSlug":"rw8-77 B","paragraph":1066,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7fc1-b2d6-9daa6f294e67","chapterSlug":"rw8-77 B","paragraph":1069,"wording":"[Soldiers]","event":"named","holderQuote":"the real cincher was Quallet Marshhand"}
@@ -1712,7 +1712,7 @@
 {"id":"01a06586-0a4a-79ea-9327-e83106222d09","chapterSlug":"rw10-29 M","paragraph":1080,"wording":"[Soldiers]","event":"named","holderSlug":"grimalkin","holderQuote":"Grimalkin had so little fear. He had that grim focus of [Soldiers]"}
 {"id":"01a06586-0a4a-7234-9746-44fc96f1e508","chapterSlug":"rw10-23 LMGY","paragraph":481,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7c35-afab-240eb79aea26","chapterSlug":"rw10-39 YN","paragraph":1047,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a4a-72c9-818e-7ace04510a8b","chapterSlug":"rw10-39 YN","paragraph":1088,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"Dawil","holderQuote":"Dawil whispered, but Ylawes was more concerned about the light."}
+{"id":"01a06586-0a4a-72c9-818e-7ace04510a8b","chapterSlug":"rw10-39 YN","paragraph":1088,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"dawil","holderQuote":"Dawil whispered, but Ylawes was more concerned about the light."}
 {"id":"01a06586-0a4a-7ce7-a236-7c7d3cb1e60d","chapterSlug":"rw10-30 GGMG","paragraph":1138,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7152-95cd-5f9803c65da3","chapterSlug":"rw10-30 GGMG","paragraph":1168,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-73a7-b950-6c8c8d61fe50","chapterSlug":"rw10-30 GGMG","paragraph":1169,"wording":"[Soldiers]","event":"named"}
@@ -1760,7 +1760,7 @@
 {"id":"01a06586-0a4a-73d9-86ba-db1fd490e839","chapterSlug":"rwInterlude - Levels","paragraph":11,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-79fd-bdf4-092fd1004a74","chapterSlug":"rwInterlude - Levels","paragraph":12,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7c5b-bab9-04a66a814966","chapterSlug":"rwInterlude - Levels","paragraph":55,"wording":"[Soldiers]","event":"named","holderQuote":"His [Soldiers] might level. But he had stopped."}
-{"id":"01a06586-0a4a-727a-90bc-bca31796a103","chapterSlug":"rwInterlude - Levels","paragraph":1021,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"Elia","holderQuote":"Elia paused, and she leaned on her bow."}
+{"id":"01a06586-0a4a-727a-90bc-bca31796a103","chapterSlug":"rwInterlude - Levels","paragraph":1021,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"elia","holderQuote":"Elia paused, and she leaned on her bow."}
 {"id":"01a06586-0a4a-7a79-b806-238faf750df4","chapterSlug":"rw10-31 - Pt. 2","paragraph":10,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-79dc-9b51-5bc30e747e81","chapterSlug":"rw10-31 - Pt. 2","paragraph":11,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7ef0-9a08-47846ec16de8","chapterSlug":"rw10-31 - Pt. 2","paragraph":31,"wording":"[Soldiers]","event":"named"}
@@ -1784,7 +1784,7 @@
 {"id":"01a06586-0a4a-787d-a582-c3288f62a386","chapterSlug":"rw10-31 - Pt. 2","paragraph":371,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-715a-a2a7-2433038a7cee","chapterSlug":"rw10-31 - Pt. 2","paragraph":446,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7abc-837d-6e34071e2c1f","chapterSlug":"rw10-31 - Pt. 2","paragraph":480,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a4a-7225-aec3-921cba1ae3fe","chapterSlug":"rw10-31 - Pt. 2","paragraph":490,"wording":"[Soldiers]","event":"named","holderSlug":"shirka","claimed":true,"claimedBySlug":"Xitegen","holderQuote":"General Shirka, pull your [Soldiers] back"}
+{"id":"01a06586-0a4a-7225-aec3-921cba1ae3fe","chapterSlug":"rw10-31 - Pt. 2","paragraph":490,"wording":"[Soldiers]","event":"named","holderSlug":"shirka","claimed":true,"claimedBySlug":"xitegen","holderQuote":"General Shirka, pull your [Soldiers] back"}
 {"id":"01a06586-0a4a-74de-a952-fae898471c3e","chapterSlug":"rw10-31 - Pt. 2","paragraph":498,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-7a33-a1e4-2f2d1ec9a987","chapterSlug":"rw10-31 - Pt. 2","paragraph":515,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4a-702a-ac69-36e88b9c0938","chapterSlug":"rw10-31 - Pt. 2","paragraph":518,"wording":"[Soldiers]","event":"named"}
@@ -1838,7 +1838,7 @@
 {"id":"01a06586-0a4b-76e2-92d7-b1a659eeffb9","chapterSlug":"rwInterlude - Trade and Travel","paragraph":441,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-77cd-8ea2-796065c22663","chapterSlug":"rwInterlude - Trade and Travel","paragraph":459,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-7e9b-a2e9-63661f9de255","chapterSlug":"rw10-15","paragraph":532,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a4b-7d19-9270-9567b3b6da88","chapterSlug":"rw10-17","paragraph":1068,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"the Gnoll demonstrator"}
+{"id":"01a06586-0a4b-7d19-9270-9567b3b6da88","chapterSlug":"rw10-17","paragraph":1068,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"the-gnoll-demonstrator"}
 {"id":"01a06586-0a4b-77ee-af50-f94baac25ebe","chapterSlug":"rw10-17","paragraph":1606,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-7f8d-8580-85dad9e7b8a0","chapterSlug":"rw10-18 E","paragraph":1798,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-7c59-a145-e74844eab574","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":305,"wording":"[Soldiers]","event":"named"}
@@ -2202,7 +2202,7 @@
 {"id":"01a06586-0a4b-729e-b707-c7b735891fa1","chapterSlug":"rw9-60","paragraph":386,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-71a6-b56e-8ff7c4e5c767","chapterSlug":"rw9-60","paragraph":430,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-7908-a19d-8952829342ef","chapterSlug":"rw9-60","paragraph":485,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a4b-782c-b4a8-29203c6c289a","chapterSlug":"rw9-60","paragraph":611,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"Spearmaster Lulv","holderQuote":"I’m not sure which our [Soldiers] will hate more."}
+{"id":"01a06586-0a4b-782c-b4a8-29203c6c289a","chapterSlug":"rw9-60","paragraph":611,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"spearmaster-lulv","holderQuote":"I’m not sure which our [Soldiers] will hate more."}
 {"id":"01a06586-0a4b-7bf1-8e66-f2afa0e51dcf","chapterSlug":"rw9-60","paragraph":993,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-7adb-8e76-d3d1dd781921","chapterSlug":"rw9-63","paragraph":686,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4b-761b-b9d2-ade1c8f6179c","chapterSlug":"rw10-66 (Pt. 1)","paragraph":535,"wording":"[Soldiers]","event":"named","holderQuote":"I’ll ask if Normen’s Order of Solstice can act as bodyguards. His [Soldiers] might be good, but they’re not able to fight"}
@@ -2685,7 +2685,7 @@
 {"id":"01a06586-0a4c-7925-83b0-429eadff8139","chapterSlug":"rw9-70 (Pt. 1)","paragraph":743,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4c-72e5-8fad-744a554af279","chapterSlug":"rw9-70 (Pt. 1)","paragraph":779,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4c-7c1f-bcce-fbaf05829137","chapterSlug":"rw10-16 N","paragraph":344,"wording":"[Soldiers]","event":"named"}
-{"id":"01a06586-0a4c-7d8a-9c81-77d91af50723","chapterSlug":"rw9-32","paragraph":329,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"Tyrion","holderQuote":"When I lead House Veltras and [Soldiers]"}
+{"id":"01a06586-0a4c-7d8a-9c81-77d91af50723","chapterSlug":"rw9-32","paragraph":329,"wording":"[Soldiers]","event":"named","claimed":true,"claimedBySlug":"tyrion","holderQuote":"When I lead House Veltras and [Soldiers]"}
 {"id":"01a06586-0a4c-7f65-82fa-d3c048868108","chapterSlug":"rw10-43 - RNG (Pt. 1)","paragraph":62,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4c-72cd-8424-7c4f5ca6171d","chapterSlug":"rw10-43 - RNG (Pt. 1)","paragraph":109,"wording":"[Soldiers]","event":"named"}
 {"id":"01a06586-0a4c-766b-b808-5fd87566081a","chapterSlug":"rw10-43 - RNG (Pt. 1)","paragraph":149,"wording":"[Soldiers]","event":"named"}

@@ -19,7 +19,7 @@
 {"id":"01a06586-0a72-7bb1-8291-8fc41452135a","chapterSlug":"rw2-02","paragraph":334,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a72-7603-b00f-558a01ff4361","chapterSlug":"rw2-02","paragraph":336,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a72-735c-973f-9bf9c2c8288e","chapterSlug":"rw1-63","paragraph":117,"wording":"[Warrior]","event":"named","holderSlug":"selys","holderQuote":"Selys was now a [Warrior] and had gained several levels in her [Hunter] class."}
-{"id":"01a06586-0a72-7706-9a87-f5beebb9f13d","chapterSlug":"rwInterlude – The Call","paragraph":69,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Level 12 Warrior","holderQuote":"I’ve been killing monsters every day as an adventurer, and I’m only a Level 12 [Warrior]."}
+{"id":"01a06586-0a72-7706-9a87-f5beebb9f13d","chapterSlug":"rwInterlude – The Call","paragraph":69,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"level-12-warrior","holderQuote":"I’ve been killing monsters every day as an adventurer, and I’m only a Level 12 [Warrior]."}
 {"id":"01a06586-0a72-7220-97ec-826a6878b4a6","chapterSlug":"rw2-09","paragraph":143,"wording":"[Warrior]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"I got the [Warrior] class yesterday"}
 {"id":"01a06586-0a72-7d32-84c7-08ed625b3674","chapterSlug":"rw2-09","paragraph":152,"wording":"[Warrior]","event":"named","holderSlug":"selys","claimed":true,"claimedBySlug":"erin","holderQuote":"And you’re a [Warrior] now as well, aren’t you?"}
 {"id":"01a06586-0a72-723d-bef6-0c06b9b1f7e4","chapterSlug":"rw2-07","paragraph":225,"wording":"[Warrior Class Obtained!]","event":"gained","kind":"class","holderSlug":"erin","holderQuote":"Erin closed her eyes and went to sleep."}
@@ -78,13 +78,13 @@
 {"id":"01a06586-0a72-7427-9dad-40ee82efe270","chapterSlug":"rw1-06 D","paragraph":462,"wording":"[Warrior]","event":"named","holderSlug":"daly","holderQuote":"And Daly?"}
 {"id":"01a06586-0a72-71cb-ab00-97c02230ef0b","chapterSlug":"rw1-03 D","paragraph":307,"wording":"[Warrior Level 4!]","event":"level-up","kind":"class","level":4,"holderSlug":"kenjiro-murata","holderQuote":"Kenjiro stumbled back into camp too tired to walk properly and reeking of filth. As his head hit the ground he heard a voice in his head. It had a surprise for him."}
 {"id":"01a06586-0a72-72e3-8a14-2b442a027646","chapterSlug":"rw4-00 K","paragraph":291,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a72-7c34-a930-8b57980cbabd","chapterSlug":"rw4-29","paragraph":175,"wording":"[Warrior]","event":"named","holderSlug":"brunkr","claimed":true,"claimedBySlug":"Relc","holderQuote":"that Brunkr guy was a good [Warrior] by all accounts."}
+{"id":"01a06586-0a72-7c34-a930-8b57980cbabd","chapterSlug":"rw4-29","paragraph":175,"wording":"[Warrior]","event":"named","holderSlug":"brunkr","claimed":true,"claimedBySlug":"relc","holderQuote":"that Brunkr guy was a good [Warrior] by all accounts."}
 {"id":"01a06586-0a72-703b-aeab-3ed45bc080ba","chapterSlug":"rw4-29","paragraph":492,"wording":"[Warrior]","event":"named","holderSlug":"brunkr","claimed":true,"claimedBySlug":"regrika-false","holderQuote":"the recent death of Brunkr has affected you all. It has hurt us too. He seemed like a fine [Warrior]."}
 {"id":"01a06586-0a72-7e6b-9408-5a9cda344a3c","chapterSlug":"rw4-21 E","paragraph":300,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a72-7f67-a645-e1a3079cc05a","chapterSlug":"rw4-21 E","paragraph":323,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a72-7697-985a-b3bf55e9c4df","chapterSlug":"rw4-24","paragraph":328,"wording":"[Warrior]","event":"named","holderQuote":"Brunkr had changed. He was no longer the self-confident Gnoll [Warrior], but a recovering one, grateful for his still-healing arm and quietly guilty."}
 {"id":"01a06586-0a72-77e5-8a96-1b490ec9e9c2","chapterSlug":"rw4-24","paragraph":333,"wording":"[Warrior]","event":"named","holderQuote":"Lyonette put down her sword and massaged her aching arms. She wanted the [Warrior] class too, and felt she might get it by the end of the day."}
-{"id":"01a06586-0a72-7af4-b515-655ca569d356","chapterSlug":"rw4-24","paragraph":334,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Brunkr","holderQuote":"So I trained with sword and shield. However, I am only a [Warrior]."}
+{"id":"01a06586-0a72-7af4-b515-655ca569d356","chapterSlug":"rw4-24","paragraph":334,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"brunkr","holderQuote":"So I trained with sword and shield. However, I am only a [Warrior]."}
 {"id":"01a06586-0a72-77fd-b34e-c3b7d214eee9","chapterSlug":"rw4-24","paragraph":464,"wording":"[Warrior]","event":"named","holderQuote":"Yvlon Byres sat at the table next to Ksmvr and watched her teammates argue."}
 {"id":"01a06586-0a72-7c02-8861-471db0c74b0e","chapterSlug":"rw4-24","paragraph":464,"wording":"[Warrior]","event":"named","holderQuote":"Yvlon Byres sat at the table next to Ksmvr and watched her teammates argue."}
 {"id":"01a06586-0a72-78ee-a558-e4a91708bec2","chapterSlug":"rw4-23 E","paragraph":166,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"prost"}
@@ -135,7 +135,7 @@
 {"id":"01a06586-0a73-7ee3-997d-fe63e523c3b9","chapterSlug":"rw5-52","paragraph":344,"wording":"[Warrior]","event":"named","holderSlug":"erill","claimed":true,"claimedBySlug":"erill","holderQuote":"I’m no [Warrior], Yitton."}
 {"id":"01a06586-0a73-7861-8f81-6caa14fbbf2c","chapterSlug":"rw5-56 G","paragraph":99,"wording":"[Warrior]","event":"named","holderSlug":"pyrite","holderQuote":"Even if Pyrite was in range, even if he was a [Warrior] and Reiss was a [Mage]."}
 {"id":"01a06586-0a73-7798-a3eb-9fbfe5aa91fe","chapterSlug":"rw6-01","paragraph":259,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a73-71b8-b14d-ee643b06316a","chapterSlug":"rw6-04 D","paragraph":168,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Luan","holderQuote":"We’ve all got [Warrior] classes, mate. Should we keep leveling those classes?"}
+{"id":"01a06586-0a73-71b8-b14d-ee643b06316a","chapterSlug":"rw6-04 D","paragraph":168,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"luan","holderQuote":"We’ve all got [Warrior] classes, mate. Should we keep leveling those classes?"}
 {"id":"01a06586-0a73-71a3-8e4b-dc6677304073","chapterSlug":"rw5-60","paragraph":50,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-735b-bea6-554b242f0d34","chapterSlug":"rw6-10","paragraph":46,"wording":"[Warrior]","event":"named","holderQuote":"Pyrite had been press-ganged into serving as both [Warrior] and [Scavenger]."}
 {"id":"01a06586-0a73-75a6-9e76-243eab4ddd64","chapterSlug":"rwInterlude – Thereafter","paragraph":756,"wording":"[Warrior]","event":"named"}
@@ -209,7 +209,7 @@
 {"id":"01a06586-0a73-7da0-af7c-4908346dbb90","chapterSlug":"rw6-56","paragraph":414,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"ksmvr","holderQuote":"It is not good, Yvlon. Infections are very bad for a [Warrior]. A healing potion will make it worse. That is how potions work."}
 {"id":"01a06586-0a73-7903-b0b0-e5971396e0d5","chapterSlug":"rw6-51 A","paragraph":534,"wording":"[Warrior]","event":"named","holderSlug":"yvlon","holderQuote":"Az’kerash saw the half-Elf, the female [Warrior], and the Antinium joining Pisces."}
 {"id":"01a06586-0a73-7370-951e-7e8b8e71a58e","chapterSlug":"rw6-54 K","paragraph":779,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"quarass"}
-{"id":"01a06586-0a73-7079-ac54-1ca4f7e47767","chapterSlug":"rw6-39","paragraph":105,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"Grimalkin","holderQuote":"Yvlon Byres, same level range. [Warrior], most likely generic."}
+{"id":"01a06586-0a73-7079-ac54-1ca4f7e47767","chapterSlug":"rw6-39","paragraph":105,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"grimalkin","holderQuote":"Yvlon Byres, same level range. [Warrior], most likely generic."}
 {"id":"01a06586-0a73-740b-b8f2-0cd03c4770e2","chapterSlug":"rw6-39","paragraph":596,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-71d8-bcec-d6235f6464e2","chapterSlug":"rw6-39","paragraph":596,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-76d2-b473-14375bfbd586","chapterSlug":"rw6-41 E","paragraph":693,"wording":"[Warrior]","event":"named"}
@@ -229,7 +229,7 @@
 {"id":"01a06586-0a73-7807-91ed-bcce23270f93","chapterSlug":"rw7-09 K","paragraph":23,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"fetohep","holderQuote":"I was a [Warrior] in my life; magic is an art I have learned since my death."}
 {"id":"01a06586-0a73-704c-96d1-0ff97a9fcbfe","chapterSlug":"rw7-09 K","paragraph":50,"wording":"[Warrior]","event":"named","holderSlug":"venith-crusland","claimed":true,"claimedBySlug":"venith-crusland","holderQuote":"I am a [Warrior], well, I was before I became a [Lord]. Now I am a [Lord of Battle]. Hardly a unique class."}
 {"id":"01a06586-0a73-72d3-93d0-2547b2da27df","chapterSlug":"rw7-09 K","paragraph":375,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"quarass-germina"}
-{"id":"01a06586-0a73-7bfc-a9a4-5f36c8632fa0","chapterSlug":"rw6-68","paragraph":690,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Joseph","holderQuote":"“Wait. Is that a title? Are you famous? Or is that your class? I’m Joseph. [Warrior]. [Mage].”"}
+{"id":"01a06586-0a73-7bfc-a9a4-5f36c8632fa0","chapterSlug":"rw6-68","paragraph":690,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"joseph","holderQuote":"“Wait. Is that a title? Are you famous? Or is that your class? I’m Joseph. [Warrior]. [Mage].”"}
 {"id":"01a06586-0a73-7fdf-9af1-5ef2a990f205","chapterSlug":"rw6-64","paragraph":675,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"yvlon","holderQuote":"But she’s not a [Knight]. She doesn’t even have a [Warrior] class. She used to, but—well, she upholds the other tradition of the Byres family."}
 {"id":"01a06586-0a73-7dcf-a4ba-e0a42f421d6f","chapterSlug":"rw6-64","paragraph":790,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7d81-a918-70b741ca4162","chapterSlug":"rw7-03","paragraph":974,"wording":"[Warrior]","event":"named"}
@@ -276,7 +276,7 @@
 {"id":"01a06586-0a73-7fa6-9667-652005a89ed0","chapterSlug":"rw7-40 ER","paragraph":229,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7cbb-833b-f68d88a60f9a","chapterSlug":"rw7-33 I","paragraph":356,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7487-a297-842f48b8746a","chapterSlug":"rw7-28","paragraph":441,"wording":"[Warrior]","event":"named","holderQuote":"“Lady Imarris will see you now. Lord Delanay, your restraint. Captain Kelda?”"}
-{"id":"01a06586-0a73-7b25-be3c-6e11961134c3","chapterSlug":"rw7-28","paragraph":997,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Kerash","holderQuote":"The clash of swords. In a courtyard, which had been long unused, Venitra and Kerash dueled. The Gnoll and bone woman fought."}
+{"id":"01a06586-0a73-7b25-be3c-6e11961134c3","chapterSlug":"rw7-28","paragraph":997,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"kerash","holderQuote":"The clash of swords. In a courtyard, which had been long unused, Venitra and Kerash dueled. The Gnoll and bone woman fought."}
 {"id":"01a06586-0a73-7189-b443-b6dbe7769e89","chapterSlug":"rw7-26","paragraph":911,"wording":"[Warrior]","event":"named","holderSlug":"kevin","claimed":true,"claimedBySlug":"kevin","holderQuote":"Lyonette hurried after Kevin"}
 {"id":"01a06586-0a73-7e2e-8f38-02bcb7ff3c99","chapterSlug":"rw7-26","paragraph":911,"wording":"[Warrior]","event":"named","holderSlug":"kevin","claimed":true,"claimedBySlug":"kevin","holderQuote":"Lyonette hurried after Kevin"}
 {"id":"01a06586-0a73-7616-91ef-c9fd1f797dc9","chapterSlug":"rw7-26","paragraph":921,"wording":"[Warrior]","event":"named","holderSlug":"kevin","claimed":true,"claimedBySlug":"kevin","holderQuote":"Kevin, unfazed, looked at her"}
@@ -305,7 +305,7 @@
 {"id":"01a06586-0a73-7398-b4d2-2a31c49c8277","chapterSlug":"rwInterlude - Experiments in Golems","paragraph":1201,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7b2a-bc81-6a90e07e769c","chapterSlug":"rw7-45","paragraph":474,"wording":"[Warrior]","event":"named","holderQuote":"“That’s right. Ysara didn’t take to the [Warrior] class although she was the most gifted of the three, frankly. A genius with a sword—but she’s a [Merchant].”"}
 {"id":"01a06586-0a73-711c-bbb9-cb9f2eda8b13","chapterSlug":"rw7-45","paragraph":726,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a73-7547-af51-5f376b4e3fa9","chapterSlug":"rwInterlude - The Tribes of Izril","paragraph":466,"wording":"[Warrior]","event":"named","holderSlug":"virreg","claimed":true,"claimedBySlug":"Virreg","holderQuote":"“We greet you, Chieftains. I am [Relicbearer Skyhunter] Virreg.”"}
+{"id":"01a06586-0a73-7547-af51-5f376b4e3fa9","chapterSlug":"rwInterlude - The Tribes of Izril","paragraph":466,"wording":"[Warrior]","event":"named","holderSlug":"virreg","claimed":true,"claimedBySlug":"virreg","holderQuote":"“We greet you, Chieftains. I am [Relicbearer Skyhunter] Virreg.”"}
 {"id":"01a06586-0a73-784b-ba2e-bd1b6459b936","chapterSlug":"rw7-56","paragraph":468,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"erin-solstice"}
 {"id":"01a06586-0a73-7db7-9c2d-1f00e833d999","chapterSlug":"rwSolstice (Pt- 2)","paragraph":1176,"wording":"[Warrior]","event":"named","holderSlug":"luan-khumalo","claimed":true,"claimedBySlug":"luan-khumalo","holderQuote":"Because I’m good at this. The best. I don’t want to be a [Warrior]. Or kill."}
 {"id":"01a06586-0a73-7b16-b24e-a63fbf1cc89b","chapterSlug":"rw7-44","paragraph":106,"wording":"[Warrior]","event":"named"}
@@ -338,7 +338,7 @@
 {"id":"01a06586-0a73-7da9-a0d2-945dcae3f4b6","chapterSlug":"rw8-10","paragraph":241,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7b65-9a72-c95c46eb401b","chapterSlug":"rw8-02","paragraph":501,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-71c5-9b5a-ad4fa543bc43","chapterSlug":"rw8-02","paragraph":527,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a73-7571-b27d-d2a54b69e33f","chapterSlug":"rw8-02","paragraph":551,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Dekava","holderQuote":"“I am a full warrior, Honored Beilmark. I wouldn’t want to hurt you. I was told [Guards] of Liscor were only half as prone to combat as a [Warrior].”"}
+{"id":"01a06586-0a73-7571-b27d-d2a54b69e33f","chapterSlug":"rw8-02","paragraph":551,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"dekava","holderQuote":"“I am a full warrior, Honored Beilmark. I wouldn’t want to hurt you. I was told [Guards] of Liscor were only half as prone to combat as a [Warrior].”"}
 {"id":"01a06586-0a73-7967-b01d-4ec01a01d93a","chapterSlug":"rw8-02","paragraph":564,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7b38-a2df-f1ad90a2210d","chapterSlug":"rw8-02","paragraph":604,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7a62-9e51-9e7a86195e28","chapterSlug":"rw8-02","paragraph":1004,"wording":"[Warrior]","event":"named","holderQuote":"The other Gnoll pushed Oor back. The [Warrior] stumbled—and then his eyes narrowed. He looked at the three."}
@@ -381,7 +381,7 @@
 {"id":"01a06586-0a73-7ebf-976b-7ba3d8023e8e","chapterSlug":"rw8-15","paragraph":984,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7904-959e-f78455ee9f7f","chapterSlug":"rwInterlude - Paradigm Shift (Pt- 1)","paragraph":32,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7265-ac55-f2d3a694a366","chapterSlug":"rwInterlude - Paradigm Shift (Pt- 1)","paragraph":537,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a73-7edc-94bf-8abeffae2371","chapterSlug":"rw8-31","paragraph":71,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Salkis","holderQuote":"Salkis blinked. She pointed at Numbtongue, disbelieving as she turned to Garia."}
+{"id":"01a06586-0a73-7edc-94bf-8abeffae2371","chapterSlug":"rw8-31","paragraph":71,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"salkis","holderQuote":"Salkis blinked. She pointed at Numbtongue, disbelieving as she turned to Garia."}
 {"id":"01a06586-0a73-79cb-a88e-10e428ee37b6","chapterSlug":"rw8-31","paragraph":473,"wording":"[Warrior]","event":"named","holderQuote":"She growled, but then nodded and leaned in. Whispering so only they would hear, the Gnoll [Warrior] spoke."}
 {"id":"01a06586-0a73-7f2b-ae89-a98b4193af4f","chapterSlug":"rw8-31","paragraph":555,"wording":"[Warrior]","event":"named","holderSlug":"merish","holderQuote":"Merish was a [Warrior] of the Plain’s Eye Tribe. A soldier of his people."}
 {"id":"01a06586-0a73-7767-84bb-43b6bac60cdf","chapterSlug":"rw8-21 L","paragraph":147,"wording":"[Warrior]","event":"named"}
@@ -403,7 +403,7 @@
 {"id":"01a06586-0a73-78f0-bd12-1ea76920b9d8","chapterSlug":"rw8-22 HE","paragraph":19,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7928-ad9e-aedefc3a3fb6","chapterSlug":"rw8-22 HE","paragraph":368,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7986-8b95-3508238255a6","chapterSlug":"rw8-22 HE","paragraph":370,"wording":"[Warrior]","event":"named","holderSlug":"nsiia","holderQuote":"Nsiia of Tiqr. Like a beast herself, she leapt, from all fours to two legs, knocking people aside, using the arena’s seats and even the crowd to launch herself closer."}
-{"id":"01a06586-0a73-7b6d-8e4f-7ba5b4123ef9","chapterSlug":"rw8-22 HE","paragraph":456,"wording":"[Warrior]","event":"named","holderSlug":"nsiia","claimed":true,"claimedBySlug":"Femithain","holderQuote":"Do not obfuscate, please, Nsiia. You are a skilled [Warrior]."}
+{"id":"01a06586-0a73-7b6d-8e4f-7ba5b4123ef9","chapterSlug":"rw8-22 HE","paragraph":456,"wording":"[Warrior]","event":"named","holderSlug":"nsiia","claimed":true,"claimedBySlug":"femithain","holderQuote":"Do not obfuscate, please, Nsiia. You are a skilled [Warrior]."}
 {"id":"01a06586-0a73-75be-8ffc-321eef19ab99","chapterSlug":"rwInterlude - Senior Guardsman Relc","paragraph":487,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7dd3-8129-17d92741a059","chapterSlug":"rw8-24","paragraph":121,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7a2a-a6d6-2a8e61927788","chapterSlug":"rw8-24","paragraph":393,"wording":"[Warrior]","event":"named"}
@@ -419,9 +419,9 @@
 {"id":"01a06586-0a73-73d5-9aee-589f854055b5","chapterSlug":"rw8-30","paragraph":1005,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-78db-9b05-114cdf6836ea","chapterSlug":"rw8-30","paragraph":1183,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7e9c-bc27-737f8c7d5ea8","chapterSlug":"rw8-30","paragraph":1184,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a73-7646-8332-e412f414ef92","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":802,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Riqre","holderQuote":"“You will not make much off of him. Almost better to call him a [Warrior] or—no, he is a [Fighter], isn’t he? Rather than tout him as Bronze-rank.”"}
+{"id":"01a06586-0a73-7646-8332-e412f414ef92","chapterSlug":"rwInterlude - Pisces (Revised)","paragraph":802,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"riqre","holderQuote":"“You will not make much off of him. Almost better to call him a [Warrior] or—no, he is a [Fighter], isn’t he? Rather than tout him as Bronze-rank.”"}
 {"id":"01a06586-0a73-77ed-b389-09e61815a763","chapterSlug":"rw8-32","paragraph":928,"wording":"[Warrior]","event":"named","holderSlug":"fetohep","holderQuote":"Would that Fetohep were any class but a [Warrior] in life."}
-{"id":"01a06586-0a73-703d-ab10-b123c8055195","chapterSlug":"rw8-32","paragraph":1098,"wording":"[Warrior]","event":"named","holderSlug":"fetohep","claimed":true,"claimedBySlug":"Fetohep","holderQuote":"It makes no mockery of the truth to state what is there. I was a [Warrior], your Majesty."}
+{"id":"01a06586-0a73-703d-ab10-b123c8055195","chapterSlug":"rw8-32","paragraph":1098,"wording":"[Warrior]","event":"named","holderSlug":"fetohep","claimed":true,"claimedBySlug":"fetohep","holderQuote":"It makes no mockery of the truth to state what is there. I was a [Warrior], your Majesty."}
 {"id":"01a06586-0a73-7a0f-baed-68438a2daf3c","chapterSlug":"rw8-32","paragraph":1137,"wording":"[Warrior]","event":"named","holderSlug":"fetohep","holderQuote":"An hour later, Fetohep reclined on his throne. He did not race off on a chariot, at the head of a new army. Rather, he sat there."}
 {"id":"01a06586-0a73-73e3-8d17-752cf683b1a4","chapterSlug":"rw8-34 R","paragraph":151,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-73ab-bb78-e729536ab4d7","chapterSlug":"rw8-41","paragraph":245,"wording":"[Warrior]","event":"named"}
@@ -461,7 +461,7 @@
 {"id":"01a06586-0a73-7930-a0f7-30d2d528308d","chapterSlug":"rw8-63 K","paragraph":1441,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-786b-a4a4-60c1df82bab3","chapterSlug":"rw8-64 K","paragraph":106,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7323-b5d5-24314e792351","chapterSlug":"rw8-64 K","paragraph":1319,"wording":"[Warrior]","event":"named","holderSlug":"calac-crusland","holderQuote":"Calac was howling, charging them, stabbing—"}
-{"id":"01a06586-0a73-7c75-8460-1cdbf5027393","chapterSlug":"rw8-65","paragraph":418,"wording":"[Warrior]","event":"named","holderSlug":"numbtongue","claimed":true,"claimedBySlug":"Niers","holderQuote":"Something for Numbtongue. Here."}
+{"id":"01a06586-0a73-7c75-8460-1cdbf5027393","chapterSlug":"rw8-65","paragraph":418,"wording":"[Warrior]","event":"named","holderSlug":"numbtongue","claimed":true,"claimedBySlug":"niers","holderQuote":"Something for Numbtongue. Here."}
 {"id":"01a06586-0a73-73e1-9a82-b0746fda22f0","chapterSlug":"rwInterlude – Hectval (Pt- 2)","paragraph":815,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7942-874b-dd7bde415321","chapterSlug":"rwInterlude - Satar","paragraph":245,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7757-b091-c43cf2beed25","chapterSlug":"rwInterlude - Satar","paragraph":246,"wording":"[Warrior]","event":"named"}
@@ -506,9 +506,9 @@
 {"id":"01a06586-0a73-77aa-bdb4-6f93ca291287","chapterSlug":"rwHeroes of Hraace (Pt- 1)","paragraph":444,"wording":"[Warrior]","event":"named","holderSlug":"yvlon","holderQuote":"a Level 40 [Warrior], which Yvlon was"}
 {"id":"01a06586-0a73-758d-ba8b-1fd5484d4c32","chapterSlug":"rwHeroes of Hraace (Pt- 1)","paragraph":448,"wording":"[Warrior]","event":"named","holderSlug":"yvlon","holderQuote":"The difference, Yvlon thought, was that a Level 40+ [Warrior] had moments of extraordinary power."}
 {"id":"01a06586-0a73-7a8b-8bb5-5679e33c205d","chapterSlug":"rwInterlude - Arcsinger's Memories","paragraph":241,"wording":"[Warrior]","event":"named","holderSlug":"onieva","holderQuote":"instead of a [Warrior]—Onieva blew a kiss"}
-{"id":"01a06586-0a73-7e37-82ec-1310f0d6ab1b","chapterSlug":"rwInterlude – Halfseekers (Pt- 6)","paragraph":155,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Migni","holderQuote":"I’m Migni, and this is Jerres and Kivry. They’re Silverfangs. I’m the [Warrior]"}
+{"id":"01a06586-0a73-7e37-82ec-1310f0d6ab1b","chapterSlug":"rwInterlude – Halfseekers (Pt- 6)","paragraph":155,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"migni","holderQuote":"I’m Migni, and this is Jerres and Kivry. They’re Silverfangs. I’m the [Warrior]"}
 {"id":"01a06586-0a73-724e-ac21-2c8c8220cdf9","chapterSlug":"rwInterlude - Spears and Stuff","paragraph":470,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a73-7812-9453-591892b0ad56","chapterSlug":"rw10-25 MG","paragraph":426,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Rags","holderQuote":"Ryoka’s a bad mother, good mother, a Named-rank [Warrior], and the Archmage of Everything."}
+{"id":"01a06586-0a73-7812-9453-591892b0ad56","chapterSlug":"rw10-25 MG","paragraph":426,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"rags","holderQuote":"Ryoka’s a bad mother, good mother, a Named-rank [Warrior], and the Archmage of Everything."}
 {"id":"01a06586-0a73-73c2-b76b-2b5327db7f8d","chapterSlug":"rw10-56 F","paragraph":690,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-7793-8f92-2a6b0f235f3c","chapterSlug":"rw10-56 F","paragraph":724,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a73-722e-be31-d249a166fd23","chapterSlug":"rw9-58 O","paragraph":21,"wording":"[Warrior]","event":"named","holderSlug":"torreb","holderQuote":"Torreb, the greatest Named Adventurer of Chandrar and the highest-level"}
@@ -554,7 +554,7 @@
 {"id":"01a06586-0a74-7604-96b1-7f585b40597f","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":1185,"wording":"[Warrior]","event":"named","holderSlug":"jelaqua-ivirith","holderQuote":"On Earth, Jelaqua wondered what you would do."}
 {"id":"01a06586-0a74-7e4d-8dc9-d7086a481332","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":626,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"amerys","holderQuote":"It is a fancy of my peers. One of them; Mars to be exact"}
 {"id":"01a06586-0a74-7547-9c19-655438bac5ef","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1385,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a74-7100-926a-a5e837d930ba","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1405,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Grimalkin","holderQuote":"Torreb, the greatest"}
+{"id":"01a06586-0a74-7100-926a-a5e837d930ba","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1405,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"grimalkin","holderQuote":"Torreb, the greatest"}
 {"id":"01a06586-0a74-73e9-b7f9-4d1ba222637f","chapterSlug":"rw10-58 FP","paragraph":1949,"wording":"[Warrior]","event":"named","holderQuote":"Frivek had height, if not reach on her—he was a [Warrior]"}
 {"id":"01a06586-0a74-7777-9601-27fd934dcf83","chapterSlug":"rw10-58 FP","paragraph":2350,"wording":"[Warrior]","event":"named","holderSlug":"fetohep","holderQuote":"Fetohep turned his head. His eyes met Anleth’s."}
 {"id":"01a06586-0a74-7e48-be8d-71e80e6c99a9","chapterSlug":"rw10-58 FP","paragraph":2570,"wording":"[Warrior]","event":"named","holderSlug":"fetohep","holderQuote":"A Level 50+ [Warrior] could not take on an army and live"}
@@ -567,7 +567,7 @@
 {"id":"01a06586-0a74-7940-b8ab-65159634d9f7","chapterSlug":"rw9-49","paragraph":186,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-73d9-88c6-390dfc8cbe38","chapterSlug":"rw9-49","paragraph":593,"wording":"[Warrior]","event":"named","holderSlug":"gamur-the-axe","holderQuote":"Gamur the Axe, the Named-rank Gnoll [Warrior] who carried a gigantic axe"}
 {"id":"01a06586-0a74-7faa-a08f-98657996d641","chapterSlug":"rw9-49","paragraph":623,"wording":"[Warrior]","event":"named","holderSlug":"gamur-the-axe","holderQuote":"Gamur’s glare widened, and then he flicked his eyes to Colth."}
-{"id":"01a06586-0a74-72d2-988c-6d86a004a608","chapterSlug":"rw9-59 O","paragraph":349,"wording":"[Warrior]","event":"named","holderSlug":"orjin","claimed":true,"claimedBySlug":"Thelican","holderQuote":"I have a trap set just for him—but it’s no small task to take down a high-level [Warrior]."}
+{"id":"01a06586-0a74-72d2-988c-6d86a004a608","chapterSlug":"rw9-59 O","paragraph":349,"wording":"[Warrior]","event":"named","holderSlug":"orjin","claimed":true,"claimedBySlug":"thelican","holderQuote":"I have a trap set just for him—but it’s no small task to take down a high-level [Warrior]."}
 {"id":"01a06586-0a74-7a82-9486-67594751d4a4","chapterSlug":"rw9-59 O","paragraph":692,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-7a5f-b80a-1021ba9bbd51","chapterSlug":"rw9-59 O","paragraph":1735,"wording":"[Warrior]","event":"named","holderSlug":"torreb","holderQuote":"Torreb’s lungs expanded, and a howl of rage rose from the core of his being"}
 {"id":"01a06586-0a74-74f9-b459-3d0b9eeae820","chapterSlug":"rw9-59 O","paragraph":1740,"wording":"[Warrior]","event":"named","holderSlug":"torreb","holderQuote":"Torreb’s Daughter had killed the greatest [Warrior] of Chandrar."}
@@ -595,8 +595,8 @@
 {"id":"01a06586-0a74-7ef8-982e-9c3eb252b22d","chapterSlug":"rw10-49 Y","paragraph":576,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","holderQuote":"Yvlon volunteered. Etrikah snorted as she eyed the two rings that Yvlon had taken off her hand."}
 {"id":"01a06586-0a74-79f3-8c0d-31733b71f899","chapterSlug":"rw10-49 Y","paragraph":833,"wording":"[Warrior]","event":"named","holderSlug":"thexca","holderQuote":"Thexca was a very good [Warrior] who used poisons; she, Mectail, and Vitte had all been considered good [Gladiators]"}
 {"id":"01a06586-0a74-741f-9bfd-9359091919b6","chapterSlug":"rw10-49 Y","paragraph":997,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","holderQuote":"She was a [Warrior], not skilled in politics or intrigue."}
-{"id":"01a06586-0a74-7cfc-96d8-6610886c5b12","chapterSlug":"rw10-49 Y","paragraph":1370,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"Cognita Truestone","holderQuote":"It is no exaggeration to claim this: your class is a [Warrior]."}
-{"id":"01a06586-0a74-7bfd-ae6a-4a93b6f6898e","chapterSlug":"rw10-49 Y","paragraph":1530,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"Etrikah","holderQuote":"a charging [Warrior] who can survive anything we throw at them. At least you can’t fly."}
+{"id":"01a06586-0a74-7cfc-96d8-6610886c5b12","chapterSlug":"rw10-49 Y","paragraph":1370,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"cognita-truestone","holderQuote":"It is no exaggeration to claim this: your class is a [Warrior]."}
+{"id":"01a06586-0a74-7bfd-ae6a-4a93b6f6898e","chapterSlug":"rw10-49 Y","paragraph":1530,"wording":"[Warrior]","event":"named","holderSlug":"yvlon-byres","claimed":true,"claimedBySlug":"etrikah","holderQuote":"a charging [Warrior] who can survive anything we throw at them. At least you can’t fly."}
 {"id":"01a06586-0a74-7cf0-9417-6f406a402f1d","chapterSlug":"rw10-49 Y","paragraph":1560,"wording":"[Warrior]","event":"named","holderQuote":"I was willing to do my own thing because…I blame Mars."}
 {"id":"01a06586-0a74-7f76-9bfd-312b1737f0ce","chapterSlug":"rw10-61 Y","paragraph":496,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-777e-8c4c-7b3665aa91d0","chapterSlug":"rwInterlude - Halfseekers (Pt- 1)","paragraph":268,"wording":"[Warrior]","event":"named","holderSlug":"jelaqua","holderQuote":"Jelaqua was no [Warrior] who needed to train muscles"}
@@ -624,10 +624,10 @@
 {"id":"01a06586-0a74-7509-b384-e56129eaebbb","chapterSlug":"rw9-68","paragraph":393,"wording":"[Warrior]","event":"named","holderSlug":"kevin-hall","holderQuote":"Kevin is dead"}
 {"id":"01a06586-0a74-79f0-90c2-0b83a48e839e","chapterSlug":"rw9-68","paragraph":409,"wording":"[Warrior]","event":"named","holderSlug":"tyrion-veltras","holderQuote":"Tyrion Veltras was a Level 29"}
 {"id":"01a06586-0a74-7856-9fec-470d09093e52","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":1164,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a74-7d52-af27-3cd49843d715","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":1273,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"Vernoue","holderQuote":"I think she’s learning [Warrior]"}
+{"id":"01a06586-0a74-7d52-af27-3cd49843d715","chapterSlug":"rwInterlude - Vernoue (Pt- 1)","paragraph":1273,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"vernoue","holderQuote":"I think she’s learning [Warrior]"}
 {"id":"01a06586-0a74-741d-b892-ccec9c5a5bc0","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":668,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-71c2-9583-bce655dd4ec7","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":729,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a74-7947-a61b-fb902f4ad3fe","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":2136,"wording":"[Warrior]","event":"named","holderSlug":"relc","claimed":true,"claimedBySlug":"Venim","holderQuote":"Even a high-level [Warrior] slows down, and he is a [Watch Sergeant]."}
+{"id":"01a06586-0a74-7947-a61b-fb902f4ad3fe","chapterSlug":"rwMini-Chapters - Patreon Poll","paragraph":2136,"wording":"[Warrior]","event":"named","holderSlug":"relc","claimed":true,"claimedBySlug":"venim","holderQuote":"Even a high-level [Warrior] slows down, and he is a [Watch Sergeant]."}
 {"id":"01a06586-0a74-7e2f-aeb5-11791aa2e16b","chapterSlug":"rw10-36 - Pt. 2","paragraph":148,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-79d8-8689-f4efe5657667","chapterSlug":"rw10-62 NY","paragraph":1087,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-75ae-b56d-4dabd7f761b3","chapterSlug":"rw10-62 NY","paragraph":1403,"wording":"[Warrior]","event":"named","claimed":true,"claimedBySlug":"ylawes-byres","holderQuote":"Level 30 [Warrior]."}
@@ -639,14 +639,14 @@
 {"id":"01a06586-0a74-73d9-b535-0784509c0adf","chapterSlug":"rw10-04 V","paragraph":884,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-7f99-be7c-e81ad575b894","chapterSlug":"rw10-04 V","paragraph":936,"wording":"[Warrior]","event":"named","holderQuote":"he is not a [Warrior]. Galas muscle is real."}
 {"id":"01a06586-0a74-7949-b76e-139ce4d361c9","chapterSlug":"rw9-69 H (Pt. 1)","paragraph":1365,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a74-7bf7-a5e9-891f72ddddde","chapterSlug":"rw10-54 UEG (Pt. 1)","paragraph":1529,"wording":"[Warrior]","event":"named","holderSlug":"ulvama","claimed":true,"claimedBySlug":"young Ulvama","holderQuote":"I being a [Witch] or [Warrior]"}
+{"id":"01a06586-0a74-7bf7-a5e9-891f72ddddde","chapterSlug":"rw10-54 UEG (Pt. 1)","paragraph":1529,"wording":"[Warrior]","event":"named","holderSlug":"ulvama","claimed":true,"claimedBySlug":"young-ulvama","holderQuote":"I being a [Witch] or [Warrior]"}
 {"id":"01a06586-0a74-74f8-9afa-5149cdd006ed","chapterSlug":"rw10-20 E","paragraph":1719,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-79b6-89fe-be9d53670831","chapterSlug":"rw10-20 E","paragraph":1926,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-7b0f-bc2d-db56da68c43d","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":372,"wording":"[Warrior]","event":"named","holderSlug":"relc","holderQuote":"Even a high-level [Warrior] slows down, and he is a [Watch Sergeant]"}
 {"id":"01a06586-0a74-7732-a885-d42df2cfe725","chapterSlug":"rw10-44 Z (Pt. 1)","paragraph":744,"wording":"[Warrior]","event":"named","holderSlug":"zevara","holderQuote":"Zevara was over Level 30 in two [Warrior]-type classes"}
 {"id":"01a06586-0a74-79f6-a418-05705fd0a3f7","chapterSlug":"rw10-08 (Pt. 1)","paragraph":213,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-7fa2-bf25-d9da5f2fdacd","chapterSlug":"rw10-08 (Pt. 2)","paragraph":419,"wording":"[Warrior]","event":"named","holderSlug":"erin","claimed":true,"claimedBySlug":"erin","holderQuote":"I’m a [Warrior] right now, and all I see are Crelers."}
-{"id":"01a06586-0a74-704e-abdb-c63c3919ea1b","chapterSlug":"rw10-57 F","paragraph":608,"wording":"[Warrior]","event":"named","holderSlug":"fetohep-king","claimed":true,"claimedBySlug":"Fetohep","holderQuote":"but I was a [Warrior] once, who fought as a mercenary before my death."}
+{"id":"01a06586-0a74-704e-abdb-c63c3919ea1b","chapterSlug":"rw10-57 F","paragraph":608,"wording":"[Warrior]","event":"named","holderSlug":"fetohep-king","claimed":true,"claimedBySlug":"fetohep","holderQuote":"but I was a [Warrior] once, who fought as a mercenary before my death."}
 {"id":"01a06586-0a74-705b-80ce-9c7277ec9f3e","chapterSlug":"rw10-57 F","paragraph":760,"wording":"[Warrior]","event":"named","holderSlug":"fetohep-king","holderQuote":"Highest-level [Warrior] of the Kingdom of Paradise."}
 {"id":"01a06586-0a74-7517-bfa6-58fe8995a9d8","chapterSlug":"rw9-70 (Pt. 1)","paragraph":1018,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-7199-8815-4921bb716aa6","chapterSlug":"rw9-70 (Pt. 1)","paragraph":1041,"wording":"[Warrior]","event":"named"}
@@ -678,7 +678,7 @@
 {"id":"01a06586-0a74-7e74-b939-71bc834a254b","chapterSlug":"rwGoblin Days (Pt- 7) - No Answers and Answers","paragraph":255,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-74b3-a45d-7c784e8aba35","chapterSlug":"rw9-30","paragraph":930,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-7114-bb7a-383baa1e2371","chapterSlug":"rw9-30","paragraph":933,"wording":"[Warrior]","event":"named"}
-{"id":"01a06586-0a74-7c39-9c14-65e8caa0638a","chapterSlug":"rw9-30","paragraph":944,"wording":"[Warrior]","event":"named","holderSlug":"eldavin","claimed":true,"claimedBySlug":"Eldavin","holderQuote":"Now—time to level as a [Warrior]."}
+{"id":"01a06586-0a74-7c39-9c14-65e8caa0638a","chapterSlug":"rw9-30","paragraph":944,"wording":"[Warrior]","event":"named","holderSlug":"eldavin","claimed":true,"claimedBySlug":"eldavin","holderQuote":"Now—time to level as a [Warrior]."}
 {"id":"01a06586-0a74-7c41-a65c-a528ae3ec5ca","chapterSlug":"rw9-30","paragraph":1161,"wording":"[Warrior]","event":"named","holderQuote":"Calruz of Minos roared it in the third Drake’s face"}
 {"id":"01a06586-0a74-7e92-9463-09b252d76b6d","chapterSlug":"rw9-38 TV (Pt. 2)","paragraph":1181,"wording":"[Warrior]","event":"named"}
 {"id":"01a06586-0a74-79b5-a091-d432fdb5fe85","chapterSlug":"rw9-38 TV (Pt. 2)","paragraph":1441,"wording":"[Warrior]","event":"named"}

@@ -24,7 +24,7 @@
 {"id":"01a0657e-0238-7a79-b42d-1e1defaecfc5","chapterSlug":"rw7-07","paragraph":719,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-7f06-99f7-3b3a513755a5","chapterSlug":"rw7-07","paragraph":1097,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-72a0-a813-d569a5aecb69","chapterSlug":"rw7-07","paragraph":1100,"wording":"[Pirates]","event":"named","holderQuote":"Erin tried to clear out one ear. She saw Mrsha running through the doorway. And then, of all people, Seborn appeared."}
-{"id":"01a0657e-0238-78b5-911b-fbefc34c56ea","chapterSlug":"rw7-10 K","paragraph":555,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"Flos"}
+{"id":"01a0657e-0238-78b5-911b-fbefc34c56ea","chapterSlug":"rw7-10 K","paragraph":555,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"flos"}
 {"id":"01a0657e-0238-7deb-82ea-631f1833206c","chapterSlug":"rwInterlude - Chess and Ships","paragraph":239,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-7708-b2db-103360e38690","chapterSlug":"rwInterlude - Chess and Ships","paragraph":240,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-7440-87fd-9672c200acf9","chapterSlug":"rwInterlude - Chess and Ships","paragraph":242,"wording":"[Pirates]","event":"named"}
@@ -135,7 +135,7 @@
 {"id":"01a0657e-0238-70b0-801f-f18cf6870b9f","chapterSlug":"rw7-47 K","paragraph":1190,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-7bb0-8755-531dcb030aa7","chapterSlug":"rw7-47 K","paragraph":1196,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-7ba3-afdb-e55e2ceb998e","chapterSlug":"rw7-54","paragraph":902,"wording":"[Pirates]","event":"named"}
-{"id":"01a0657e-0238-7184-9852-4c22a7dd92be","chapterSlug":"rw7-54","paragraph":902,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"Wailant","holderQuote":"“…With the wand in your teeth. Why a cutlass? That’s far too heavy. Anyways, that’s how [Pirates] fight. Mobile. You saw that Rasea Zecrew? She’s new-blood. One of the best damn [Pirates] of her generation.”"}
+{"id":"01a0657e-0238-7184-9852-4c22a7dd92be","chapterSlug":"rw7-54","paragraph":902,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"wailant","holderQuote":"“…With the wand in your teeth. Why a cutlass? That’s far too heavy. Anyways, that’s how [Pirates] fight. Mobile. You saw that Rasea Zecrew? She’s new-blood. One of the best damn [Pirates] of her generation.”"}
 {"id":"01a0657e-0238-75e6-ad23-ee35b5cf9706","chapterSlug":"rw7-59","paragraph":661,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-7151-9eef-e67cbefad91c","chapterSlug":"rw8-11 E (Revised)","paragraph":1277,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-0238-7a50-93a6-48f29772be4c","chapterSlug":"rw8-11 E (Revised)","paragraph":1282,"wording":"[Pirates]","event":"named"}
@@ -286,7 +286,7 @@
 {"id":"01a0657e-023d-7794-9406-efaebc0d12fa","chapterSlug":"rw9-56","paragraph":359,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7d35-98ec-2165a275a17f","chapterSlug":"rw9-56","paragraph":372,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-75ed-bce5-21f01b077395","chapterSlug":"rw9-56","paragraph":509,"wording":"[Pirates]","event":"named"}
-{"id":"01a0657e-023d-7707-905a-c32317240f9e","chapterSlug":"rw9-56","paragraph":705,"wording":"[Pirates]","event":"named","holderSlug":"therrium-sailwinds","claimed":true,"claimedBySlug":"Rasea Zecrew","holderQuote":"Here’s to Captain Therrium! Goodbye! You poor bastard! Hey, crew! Pour a cup to one of the real [Pirates] of the seas!"}
+{"id":"01a0657e-023d-7707-905a-c32317240f9e","chapterSlug":"rw9-56","paragraph":705,"wording":"[Pirates]","event":"named","holderSlug":"therrium-sailwinds","claimed":true,"claimedBySlug":"rasea-zecrew","holderQuote":"Here’s to Captain Therrium! Goodbye! You poor bastard! Hey, crew! Pour a cup to one of the real [Pirates] of the seas!"}
 {"id":"01a0657e-023d-7b16-a493-57097f9bc49e","chapterSlug":"rwInterlude - Stories","paragraph":675,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7255-9060-858a9a5ec9e8","chapterSlug":"rwInterlude - Halfseekers (Pt- 4)","paragraph":218,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7882-9762-48a2b718ade9","chapterSlug":"rwInterlude - Halfseekers (Pt- 4)","paragraph":580,"wording":"[Pirates]","event":"named"}
@@ -498,13 +498,13 @@
 {"id":"01a0657e-023d-7828-ab55-5d5b14afce85","chapterSlug":"rw9-63","paragraph":684,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7fc1-a086-691c20540341","chapterSlug":"rw9-63","paragraph":868,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7aa4-902e-4371e23afcda","chapterSlug":"rw10-68 S","paragraph":399,"wording":"[Pirates]","event":"named"}
-{"id":"01a0657e-023d-7b1f-99e9-688737f94776","chapterSlug":"rw10-03 Y","paragraph":1753,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"Dawil","holderQuote":"Dawil was rubbing his neck afterwards."}
+{"id":"01a0657e-023d-7b1f-99e9-688737f94776","chapterSlug":"rw10-03 Y","paragraph":1753,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"dawil","holderQuote":"Dawil was rubbing his neck afterwards."}
 {"id":"01a0657e-023d-77d8-9a8f-04fa19ba98d8","chapterSlug":"rw10-05","paragraph":9,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7a2d-aff7-3b013abb188e","chapterSlug":"rw10-05","paragraph":9,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-71c3-a2b5-778c80d108a7","chapterSlug":"rw10-05","paragraph":192,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7ed9-93f1-9229962a54ed","chapterSlug":"rw10-10 E (Pt. 2)","paragraph":233,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-75ab-a661-c0e4ee033e5a","chapterSlug":"rw9-65","paragraph":1054,"wording":"[Pirates]","event":"named"}
-{"id":"01a0657e-023d-7414-bee9-0985a349f8dc","chapterSlug":"rw9-65","paragraph":1083,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"Cortese"}
+{"id":"01a0657e-023d-7414-bee9-0985a349f8dc","chapterSlug":"rw9-65","paragraph":1083,"wording":"[Pirates]","event":"named","claimed":true,"claimedBySlug":"cortese"}
 {"id":"01a0657e-023d-7352-a692-1acb56011ee3","chapterSlug":"rw9-65","paragraph":1115,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-7a33-8cd0-2b3660ec9362","chapterSlug":"rw9-65","paragraph":1124,"wording":"[Pirates]","event":"named"}
 {"id":"01a0657e-023d-70d9-8e02-431cb5f6b68f","chapterSlug":"rw9-65","paragraph":1128,"wording":"[Pirates]","event":"named"}

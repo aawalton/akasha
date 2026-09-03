@@ -8,11 +8,11 @@
 {"id":"01a06586-0a41-78c8-bb4b-8a952cebd1df","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":258,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a41-79ab-b8cf-e96e30e80deb","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":260,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a41-7d18-9eb4-88f48119242b","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":308,"wording":"[Slaves]","event":"named","holderSlug":"darsul","holderQuote":"and had only eyes for the younger Emir’s [Slaves]."}
-{"id":"01a06586-0a41-7825-a743-001379309387","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":315,"wording":"[Slaves]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"Emir Darsul","holderQuote":"but I have spared no expense in finding the finest [Slaves]."}
-{"id":"01a06586-0a41-7add-8121-2a566ed844ec","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":317,"wording":"[Slaves]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"Emir Yazdil","holderQuote":"I said your [Slaves] were fine, Emir Darsul."}
+{"id":"01a06586-0a41-7825-a743-001379309387","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":315,"wording":"[Slaves]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"emir-darsul","holderQuote":"but I have spared no expense in finding the finest [Slaves]."}
+{"id":"01a06586-0a41-7add-8121-2a566ed844ec","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":317,"wording":"[Slaves]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"emir-yazdil","holderQuote":"I said your [Slaves] were fine, Emir Darsul."}
 {"id":"01a06586-0a41-7a2c-acd1-0ba482693f37","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":321,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a41-7757-92f5-0243b9fb0065","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":378,"wording":"[Slaves]","event":"named","holderSlug":"emir-yazdil","holderQuote":"The first was that Yazdil was a consummate host and hired actual [Servants] to wait attendance on Lord Alchremm instead of his [Slaves]."}
-{"id":"01a06586-0a41-7848-be71-ae39523f44e2","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":381,"wording":"[Slaves]","event":"named","holderSlug":"chenera","claimed":true,"claimedBySlug":"Lord Alchremm","holderQuote":"Miss Chenera. And I have found her both intelligent and witty and…undeserving of this life as a [Slave]."}
+{"id":"01a06586-0a41-7848-be71-ae39523f44e2","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":381,"wording":"[Slaves]","event":"named","holderSlug":"chenera","claimed":true,"claimedBySlug":"lord-alchremm","holderQuote":"Miss Chenera. And I have found her both intelligent and witty and…undeserving of this life as a [Slave]."}
 {"id":"01a06586-0a41-777d-9d86-7074cd1c83d4","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":404,"wording":"[Slaves]","event":"named","holderSlug":"lord-alchremm","holderQuote":"Soon thereafter, it was said that Lord Alchremm had scandalized his kingdom by owning [Slaves]."}
 {"id":"01a06586-0a41-7fc4-a457-5bc6308f7a68","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":507,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a41-7213-a917-1bc2d7dfa0de","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":543,"wording":"[Slaves]","event":"named"}
@@ -152,7 +152,7 @@
 {"id":"01a06586-0a42-712c-a6f7-245048af87df","chapterSlug":"rw8-42","paragraph":232,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-75e6-8cf6-f0f778685f82","chapterSlug":"rw8-42","paragraph":236,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7551-9893-2316852fb97d","chapterSlug":"rw8-42","paragraph":243,"wording":"[Slaves]","event":"named"}
-{"id":"01a06586-0a42-733a-b1f9-4e7cf8e34bbf","chapterSlug":"rw8-42","paragraph":800,"wording":"[Slaves]","event":"named","holderSlug":"ysara","claimed":true,"claimedBySlug":"Ysara","holderQuote":"“I have now enslaved and captured this Gnoll girl. I will sell her to you for two coppers, Ysara.”"}
+{"id":"01a06586-0a42-733a-b1f9-4e7cf8e34bbf","chapterSlug":"rw8-42","paragraph":800,"wording":"[Slaves]","event":"named","holderSlug":"ysara","claimed":true,"claimedBySlug":"ysara","holderQuote":"“I have now enslaved and captured this Gnoll girl. I will sell her to you for two coppers, Ysara.”"}
 {"id":"01a06586-0a42-736f-89bd-8826a0732c51","chapterSlug":"rw8-42","paragraph":1083,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7c74-a04d-00ee22a88286","chapterSlug":"rw8-37 H","paragraph":198,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7429-a660-4f9d5b659344","chapterSlug":"rw8-37 H","paragraph":848,"wording":"[Slaves]","event":"named"}
@@ -312,7 +312,7 @@
 {"id":"01a06586-0a42-7ca4-922d-0b48b12bae97","chapterSlug":"rwInterlude - Trade and Travel","paragraph":883,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7ffe-9f2d-cfcf29cedb69","chapterSlug":"rwInterlude - Trade and Travel","paragraph":895,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7d95-a9ae-35ec422c9f90","chapterSlug":"rwInterlude - Trade and Travel","paragraph":1588,"wording":"[Slaves]","event":"named"}
-{"id":"01a06586-0a42-7d46-b4c7-c8e66cd2937b","chapterSlug":"rw10-17","paragraph":797,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"Astival"}
+{"id":"01a06586-0a42-7d46-b4c7-c8e66cd2937b","chapterSlug":"rw10-17","paragraph":797,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"astival"}
 {"id":"01a06586-0a42-7cfa-9089-bf458bdc3ed6","chapterSlug":"rw10-17","paragraph":1908,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7e82-bef2-2d2a863de1df","chapterSlug":"rw10-58 FP","paragraph":551,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7e25-b9a8-5e41d18f99ef","chapterSlug":"rw10-58 FP","paragraph":796,"wording":"[Slaves]","event":"named"}
@@ -352,7 +352,7 @@
 {"id":"01a06586-0a42-72f7-ae57-9d615199a251","chapterSlug":"rw9-70 (Pt. 2)","paragraph":376,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7cb3-b153-bf43c341c166","chapterSlug":"rw9-70 (Pt. 2)","paragraph":877,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-756e-b9f4-ece15dcd5cc6","chapterSlug":"rw9-70 (Pt. 3)","paragraph":247,"wording":"[Slaves]","event":"named"}
-{"id":"01a06586-0a42-7fcc-94c9-5b4272218636","chapterSlug":"rw10-41 T","paragraph":900,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"Astival"}
+{"id":"01a06586-0a42-7fcc-94c9-5b4272218636","chapterSlug":"rw10-41 T","paragraph":900,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"astival"}
 {"id":"01a06586-0a42-732c-91a2-ef404a17d3ab","chapterSlug":"rw10-32 (Pt. 2)","paragraph":1170,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7617-9869-e3c63e61d433","chapterSlug":"rw10-49 Y","paragraph":115,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7476-ac83-3fce2ca2a506","chapterSlug":"rw10-49 Y","paragraph":115,"wording":"[Slaves]","event":"named"}
@@ -380,8 +380,8 @@
 {"id":"01a06586-0a42-7c7d-a1fd-4d940c5e4a36","chapterSlug":"rw10-68 S","paragraph":489,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7d98-ad42-74981c9efedd","chapterSlug":"rw10-68 S","paragraph":843,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-790f-9edc-72ba388a8836","chapterSlug":"rw10-68 S","paragraph":2441,"wording":"[Slaves]","event":"named"}
-{"id":"01a06586-0a42-72f1-a46a-17407e900e0d","chapterSlug":"rw9-65","paragraph":326,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"the Grand Queen"}
-{"id":"01a06586-0a42-725a-83a0-cd6b3ca18058","chapterSlug":"rw9-65","paragraph":344,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"the Free Queen"}
+{"id":"01a06586-0a42-72f1-a46a-17407e900e0d","chapterSlug":"rw9-65","paragraph":326,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"the-grand-queen"}
+{"id":"01a06586-0a42-725a-83a0-cd6b3ca18058","chapterSlug":"rw9-65","paragraph":344,"wording":"[Slaves]","event":"named","claimed":true,"claimedBySlug":"the-free-queen"}
 {"id":"01a06586-0a42-7d39-8c06-629363aa39ce","chapterSlug":"rw9-68","paragraph":566,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7442-9be8-dd0867e6e5fb","chapterSlug":"rw9-68","paragraph":774,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-73ac-a37c-2a829b9e7a07","chapterSlug":"rw9-68","paragraph":914,"wording":"[Slaves]","event":"named"}
@@ -429,12 +429,12 @@
 {"id":"01a06586-0a42-79fc-9823-4143f712811e","chapterSlug":"rw10-16 N","paragraph":340,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7958-aa1b-1860b447943e","chapterSlug":"rw9-32","paragraph":93,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-79fc-bb59-f23e8cfd6435","chapterSlug":"rw9-32","paragraph":123,"wording":"[Slaves]","event":"named"}
-{"id":"01a06586-0a42-7d43-af17-e77067a5a654","chapterSlug":"rw9-32","paragraph":128,"wording":"[Slaves]","event":"named","holderSlug":"emperor-of-sands","claimed":true,"claimedBySlug":"Xorne","holderQuote":"More than [Slaves] gained from this inevitable land rush."}
+{"id":"01a06586-0a42-7d43-af17-e77067a5a654","chapterSlug":"rw9-32","paragraph":128,"wording":"[Slaves]","event":"named","holderSlug":"emperor-of-sands","claimed":true,"claimedBySlug":"xorne","holderQuote":"More than [Slaves] gained from this inevitable land rush."}
 {"id":"01a06586-0a42-7a32-a95e-32e74ac849f4","chapterSlug":"rw10-11 H","paragraph":840,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7db5-b548-882550d77ab9","chapterSlug":"rw10-11 H","paragraph":1019,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7bf4-9df0-8f8a476f8a94","chapterSlug":"rw10-11 H","paragraph":1021,"wording":"[Slaves]","event":"named"}
-{"id":"01a06586-0a42-7b46-9b8a-549fbe6de7ca","chapterSlug":"rw10-11 H","paragraph":1168,"wording":"[Slaves]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"Laddy","holderQuote":"Bane of Roshal? Someone called me that the last time I was here."}
-{"id":"01a06586-0a42-7f54-9fd8-2ed01aa9b4a6","chapterSlug":"rw10-11 H","paragraph":1538,"wording":"[Slaves]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"Ceria","holderQuote":"I don’t care about Pisces’ fellow [Slaves]. I never met them"}
+{"id":"01a06586-0a42-7b46-9b8a-549fbe6de7ca","chapterSlug":"rw10-11 H","paragraph":1168,"wording":"[Slaves]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"laddy","holderQuote":"Bane of Roshal? Someone called me that the last time I was here."}
+{"id":"01a06586-0a42-7f54-9fd8-2ed01aa9b4a6","chapterSlug":"rw10-11 H","paragraph":1538,"wording":"[Slaves]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"ceria","holderQuote":"I don’t care about Pisces’ fellow [Slaves]. I never met them"}
 {"id":"01a06586-0a42-71a5-8303-4ea953992b09","chapterSlug":"rw10-12 H (Pt. 2)","paragraph":923,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7d35-a57d-8db52ab300c9","chapterSlug":"rw10-51 T","paragraph":9,"wording":"[Slaves]","event":"named"}
 {"id":"01a06586-0a42-7f42-879a-c01ff6cb78dc","chapterSlug":"rw10-51 T","paragraph":27,"wording":"[Slaves]","event":"named","holderSlug":"clothbinder-lady-shaullile","holderQuote":"Clothbinder Lady Shaullile. A Drake woman with a strange title"}

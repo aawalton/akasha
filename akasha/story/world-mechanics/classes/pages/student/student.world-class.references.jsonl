@@ -9,7 +9,7 @@
 {"id":"01a06586-0a5d-74dc-93aa-f4e7b2e3ca38","chapterSlug":"rw8-17 H","paragraph":49,"wording":"[Student]","event":"named","holderSlug":"pisces-jealnet","holderQuote":"Yvlon and Ceria both bore new effects of their class, and the inadvertent abilities and side-effects weren’t under control yet. Pisces, by contrast, had less noticeable changes, although he demonstrated one now, easily flicking two fingers and warming the air around him."}
 {"id":"01a06586-0a5d-768e-9cfc-56bf893c504e","chapterSlug":"rw8-26 FK","paragraph":432,"wording":"[Student]","event":"named"}
 {"id":"01a06586-0a5d-7328-9cbe-f277e66cfe59","chapterSlug":"rw8-40 CTV","paragraph":516,"wording":"[Student]","event":"named","holderQuote":"George clarified. Elena and Aaron gave him a strange look. Cognita smiled."}
-{"id":"01a06586-0a5d-77a7-988a-9c28435a0a5a","chapterSlug":"rw8-62 K","paragraph":911,"wording":"[Student]","event":"named","claimed":true,"claimedBySlug":"Elena","holderQuote":"Eun—he hates the Libertarians, but it’s not just that. He’s a [Student] but he wants to see the world"}
+{"id":"01a06586-0a5d-77a7-988a-9c28435a0a5a","chapterSlug":"rw8-62 K","paragraph":911,"wording":"[Student]","event":"named","claimed":true,"claimedBySlug":"elena","holderQuote":"Eun—he hates the Libertarians, but it’s not just that. He’s a [Student] but he wants to see the world"}
 {"id":"01a06586-0a5d-74c9-baeb-4be114ca6622","chapterSlug":"rw9-04","paragraph":382,"wording":"[Student]","event":"named","claimed":true,"claimedBySlug":"elena","holderQuote":"George is a [Student]."}
 {"id":"01a06586-0a5d-7b63-996b-6de537329db5","chapterSlug":"rw9-15 VM","paragraph":26,"wording":"[Student]","event":"named"}
 {"id":"01a06586-0a5d-7819-a42e-f328eb204df7","chapterSlug":"rw9-15 VM","paragraph":53,"wording":"[Student]","event":"named"}
@@ -117,7 +117,7 @@
 {"id":"01a06586-0a5e-7637-9550-e50a7ebfe20b","chapterSlug":"rw10-28 N","paragraph":1144,"wording":"[Student]","event":"named","holderSlug":"rags-student","holderQuote":"She gives the [Student] a nod and receives one in reply"}
 {"id":"01a06586-0a5e-7226-9a17-06087e53b92d","chapterSlug":"rw10-28 N","paragraph":1146,"wording":"[Student]","event":"named","holderSlug":"rags-student","holderQuote":"the [Student]’s eyes are filled with her own envy"}
 {"id":"01a06586-0a5e-71bc-a39c-ec94720988fd","chapterSlug":"rw10-28 N","paragraph":1159,"wording":"[Student]","event":"named","holderSlug":"rags-student","holderQuote":"She looked at the [Student]."}
-{"id":"01a06586-0a5e-7cdf-ae1d-6fadcb33d0bb","chapterSlug":"rw10-28 N","paragraph":1286,"wording":"[Student]","event":"named","holderSlug":"rags-student","claimed":true,"claimedBySlug":"Dyeda","holderQuote":"I mean—[Student] Rags! Chieftain Rags is going after her."}
+{"id":"01a06586-0a5e-7cdf-ae1d-6fadcb33d0bb","chapterSlug":"rw10-28 N","paragraph":1286,"wording":"[Student]","event":"named","holderSlug":"rags-student","claimed":true,"claimedBySlug":"dyeda","holderQuote":"I mean—[Student] Rags! Chieftain Rags is going after her."}
 {"id":"01a06586-0a5e-7f96-9f6e-86c0363ba6df","chapterSlug":"rw10-14","paragraph":1016,"wording":"[Student]","event":"named"}
 {"id":"01a06586-0a5e-7ca3-a919-fc305e1d05ee","chapterSlug":"rw9-61 G","paragraph":131,"wording":"[Student]","event":"named","holderQuote":"Some Drake children really didn’t get out of their hoarding phases."}
 {"id":"01a06586-0a5e-7539-a328-b3d4c9ec7701","chapterSlug":"rw9-61 G","paragraph":133,"wording":"[Student]","event":"named","holderQuote":"Ekirra, Level 12"}
@@ -145,7 +145,7 @@
 {"id":"01a06586-0a5e-7ecb-ae95-0f0b74f295cb","chapterSlug":"rw10-36 - Pt. 2","paragraph":472,"wording":"[Student]","event":"named","holderSlug":"student-rags","holderQuote":"Student Rags felt at her chest as she got one hand free"}
 {"id":"01a06586-0a5e-75e8-9dca-dcb32f21f071","chapterSlug":"rw10-36 - Pt. 2","paragraph":477,"wording":"[Student]","event":"named","holderSlug":"student-rags","holderQuote":"gave Student Rags a rueful gaze."}
 {"id":"01a06586-0a5e-7368-b927-2d8b201f1770","chapterSlug":"rw10-36 - Pt. 2","paragraph":752,"wording":"[Student]","event":"named"}
-{"id":"01a06586-0a5e-774a-8bd4-91c33e53e1dd","chapterSlug":"rw10-54 UEG (Pt. 1)","paragraph":140,"wording":"[Student]","event":"named","claimed":true,"claimedBySlug":"Redscar","holderQuote":"she argue for two hours with Naumel about him coming"}
+{"id":"01a06586-0a5e-774a-8bd4-91c33e53e1dd","chapterSlug":"rw10-54 UEG (Pt. 1)","paragraph":140,"wording":"[Student]","event":"named","claimed":true,"claimedBySlug":"redscar","holderQuote":"she argue for two hours with Naumel about him coming"}
 {"id":"01a06586-0a5e-782b-af01-51426bb8f587","chapterSlug":"rw10-45 L","paragraph":1288,"wording":"[Student]","event":"named"}
 {"id":"01a06586-0a5e-78f7-aaee-4585fb74c4d3","chapterSlug":"rwGoblin Days (Pt- 4) - Order, Oddity","paragraph":94,"wording":"[Student]","event":"named","holderSlug":"mrsha","holderQuote":"her [Student] class with [Scribbler] a week ago"}
 {"id":"01a06586-0a5e-7ada-b3b5-172902b4ae73","chapterSlug":"rw10-12 H (Pt. 1)","paragraph":35,"wording":"[Student]","event":"named"}

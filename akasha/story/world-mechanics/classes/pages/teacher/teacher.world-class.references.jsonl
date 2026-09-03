@@ -26,7 +26,7 @@
 {"id":"01a0657e-0269-7d77-a483-320114768991","chapterSlug":"rw9-21","paragraph":879,"wording":"[Teacher]","event":"named"}
 {"id":"01a0657e-0269-7b49-92ab-a1dcf93dfe18","chapterSlug":"rw10-23 LMGY","paragraph":918,"wording":"[Teacher]","event":"named","holderQuote":"Garry knew Shassa Weaverweb, the [Teacher] and [Druid] of Oteslia."}
 {"id":"01a0657e-0269-79c1-89ec-5b2cdbc96c76","chapterSlug":"rwHeroes of Hraace (Pt- 3)","paragraph":115,"wording":"[Teacher]","event":"named","holderSlug":"pedagogia-araxia","holderQuote":"Teres bared her teeth, and the Pedagogia smiled"}
-{"id":"01a0657e-0269-74b9-9e86-058530f15024","chapterSlug":"rw10-13","paragraph":1245,"wording":"[Teacher]","event":"named","claimed":true,"claimedBySlug":"Shassa","holderQuote":"Shassa gave Lyonette a puzzled glance."}
+{"id":"01a0657e-0269-74b9-9e86-058530f15024","chapterSlug":"rw10-13","paragraph":1245,"wording":"[Teacher]","event":"named","claimed":true,"claimedBySlug":"shassa","holderQuote":"Shassa gave Lyonette a puzzled glance."}
 {"id":"01a0657e-0269-7adc-933d-9c727c4b1317","chapterSlug":"rw9-41 (Pt. 3)","paragraph":1692,"wording":"[Teacher]","event":"named","holderQuote":"That turned out to be Witch Agratha."}
 {"id":"01a0657e-0269-7129-9fad-9d74fb97dba7","chapterSlug":"rw9-25","paragraph":354,"wording":"[Teacher]","event":"named","holderSlug":"shassa-weaverweb","holderQuote":"Shassa was demonstrating bow handling, writing the word on a chalkboard, and making sure they all got the bow safety tutorial as well."}
 {"id":"01a0657e-0269-7772-a811-6b88070db34a","chapterSlug":"rw10-52 N","paragraph":187,"wording":"[Teacher]","event":"named","holderQuote":"Felk."}
@@ -35,7 +35,7 @@
 {"id":"01a0657e-0269-7645-a887-40a2f9d414e0","chapterSlug":"rwInterlude - Age and Tales","paragraph":738,"wording":"[Teacher]","event":"named","holderQuote":"Teacher Minni rushed forwards and clapped her hands"}
 {"id":"01a0657e-0269-7335-870b-041121c7c07a","chapterSlug":"rw10-36 - Pt. 2","paragraph":1188,"wording":"[Teacher]","event":"named"}
 {"id":"01a0657e-0269-7a0e-8173-2a6cdd69858d","chapterSlug":"rw10-36 - Pt. 2","paragraph":1198,"wording":"[Teacher]","event":"named"}
-{"id":"01a0657e-0269-7816-8ca4-0c189d6d988f","chapterSlug":"rw10-04 V","paragraph":1303,"wording":"[Teacher]","event":"named","claimed":true,"claimedBySlug":"Viceria","holderQuote":"a [Mage] is not a good [Teacher]."}
+{"id":"01a0657e-0269-7816-8ca4-0c189d6d988f","chapterSlug":"rw10-04 V","paragraph":1303,"wording":"[Teacher]","event":"named","claimed":true,"claimedBySlug":"viceria","holderQuote":"a [Mage] is not a good [Teacher]."}
 {"id":"01a0657e-0269-78fd-8caf-084c6b2f0576","chapterSlug":"rw10-19 E","paragraph":616,"wording":"[Teacher]","event":"named","holderQuote":"The [Teacher] leapt into action, to Mavika’s great displeasure"}
 {"id":"01a0657e-0269-722b-a4d8-82358ccfa32a","chapterSlug":"rw10-45 L","paragraph":1312,"wording":"[Teacher]","event":"named"}
 {"id":"01a0657e-0269-71e0-b8d7-895849f9c07f","chapterSlug":"rw10-45 L","paragraph":1318,"wording":"[Teacher]","event":"named"}

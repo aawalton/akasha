@@ -48,7 +48,7 @@
 {"id":"01a0657e-0230-7005-998a-0b99298fe753","chapterSlug":"rw7-07","paragraph":1006,"wording":"[Mayor]","event":"named","holderQuote":"She looked at Cetris Duiland. The [Mayor] stared at her. Guilds were one thing. Inns were one thing. Even the threat of monster attacks."}
 {"id":"01a0657e-0230-721f-a40a-f2818932cc08","chapterSlug":"rw7-07","paragraph":1012,"wording":"[Mayor]","event":"named","holderQuote":"Montressa glared at Cetris. But she and Octavia were already sitting back down. The other Guildmasters and [Innkeepers] were returning to their places as well. Cetris nodded at Montressa."}
 {"id":"01a0657e-0230-7e99-9b34-ce27a8eb0a23","chapterSlug":"rw7-07","paragraph":1016,"wording":"[Mayor]","event":"named","holderQuote":"Montressa glared at Cetris. But she and Octavia were already sitting back down. The other Guildmasters and [Innkeepers] were returning to their places as well. Cetris nodded at Montressa."}
-{"id":"01a0657e-0230-7eda-9215-eb309aff1df8","chapterSlug":"rw7-07","paragraph":1022,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"Cetris","holderQuote":"She returned to her position. Cetris exhaled, and found his handkerchief to mop at his forehead. Before anyone could object, he sprang into action."}
+{"id":"01a0657e-0230-7eda-9215-eb309aff1df8","chapterSlug":"rw7-07","paragraph":1022,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"cetris","holderQuote":"She returned to her position. Cetris exhaled, and found his handkerchief to mop at his forehead. Before anyone could object, he sprang into action."}
 {"id":"01a0657e-0230-74eb-a9d6-ec83eba7e3e9","chapterSlug":"rw7-07","paragraph":1035,"wording":"[Mayor]","event":"named","holderQuote":"Mayor Cetris Duiland nodded and relaxed. He sat back in his chair."}
 {"id":"01a0657e-0230-71e6-8de0-f840e0806791","chapterSlug":"rw7-07","paragraph":1037,"wording":"[Mayor]","event":"named","holderQuote":"Mayor Cetris Duiland nodded and relaxed. He sat back in his chair."}
 {"id":"01a0657e-0230-7621-b477-019692467a0d","chapterSlug":"rw7-16 L","paragraph":102,"wording":"[Mayor]","event":"named"}
@@ -90,11 +90,11 @@
 {"id":"01a0657e-0230-79f6-88a5-24e7c271a1ca","chapterSlug":"rw8-40 CTV","paragraph":839,"wording":"[Mayor]","event":"named"}
 {"id":"01a0657e-0230-7d57-a6b3-e02935998ec7","chapterSlug":"rw8-82 (Pt. 3)","paragraph":31,"wording":"[Mayor]","event":"named"}
 {"id":"01a0657e-0230-717f-b037-a49022b44bbb","chapterSlug":"rw8-78 F","paragraph":844,"wording":"[Mayor]","event":"named"}
-{"id":"01a0657e-0230-7b8d-9cc5-a70ef898b56f","chapterSlug":"rwInterlude - The Great Race","paragraph":423,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"Lemel","holderQuote":"I’m a [Mayor] myself. Lemel."}
+{"id":"01a0657e-0230-7b8d-9cc5-a70ef898b56f","chapterSlug":"rwInterlude - The Great Race","paragraph":423,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"lemel","holderQuote":"I’m a [Mayor] myself. Lemel."}
 {"id":"01a0657e-0230-7ea9-aa7b-f5b1fb894e5d","chapterSlug":"rwInterlude - The Great Race","paragraph":424,"wording":"[Mayor]","event":"named"}
-{"id":"01a0657e-0230-70fa-8726-0ccb3a2cc1fd","chapterSlug":"rwInterlude - The Great Race","paragraph":425,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"Brieese","holderQuote":"I’m [Mayor] Brieese!"}
+{"id":"01a0657e-0230-70fa-8726-0ccb3a2cc1fd","chapterSlug":"rwInterlude - The Great Race","paragraph":425,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"brieese","holderQuote":"I’m [Mayor] Brieese!"}
 {"id":"01a0657e-0230-7440-85ba-971a3fb551b5","chapterSlug":"rwInterlude - The Great Race","paragraph":426,"wording":"[Mayor]","event":"named"}
-{"id":"01a0657e-0230-75c3-997a-411aa669a711","chapterSlug":"rwInterlude - The Great Race","paragraph":427,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"Zollost","holderQuote":"Hold on—[Mayor] Zollost here!"}
+{"id":"01a0657e-0230-75c3-997a-411aa669a711","chapterSlug":"rwInterlude - The Great Race","paragraph":427,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"zollost","holderQuote":"Hold on—[Mayor] Zollost here!"}
 {"id":"01a0657e-0230-7eca-bf88-f797e08cbcc6","chapterSlug":"rw9-09 P","paragraph":237,"wording":"[Mayor]","event":"named"}
 {"id":"01a0657e-0230-7e12-87ff-adf388c83fbf","chapterSlug":"rwInterlude - Relationships","paragraph":837,"wording":"[Mayor]","event":"named"}
 {"id":"01a0657e-0230-76e9-91f8-047d692fe4a2","chapterSlug":"rwInterlude - Relationships","paragraph":839,"wording":"[Mayor]","event":"named"}
@@ -130,8 +130,8 @@
 {"id":"01a0657e-0230-781b-8d5a-c9ee10bf702b","chapterSlug":"rw10-38 E","paragraph":1022,"wording":"[Mayor]","event":"named"}
 {"id":"01a0657e-0230-7436-aa4d-82086119d3fb","chapterSlug":"rw10-38 E","paragraph":1533,"wording":"[Mayor]","event":"named","holderQuote":"Mayor Fantim, stout-chested, barefoot, pushing past slathering aphids biting at his fingers, threw himself between Eurise, Erin, and Zinni"}
 {"id":"01a0657e-0230-7278-b0e3-9423f7dde043","chapterSlug":"rw10-38 E","paragraph":1535,"wording":"[Mayor]","event":"named","holderQuote":"Mayor Fantim, stout-chested, barefoot, pushing past slathering aphids biting at his fingers, threw himself between Eurise, Erin, and Zinni"}
-{"id":"01a0657e-0230-7f72-878f-5b0bd46115d1","chapterSlug":"rw10-38 E","paragraph":1540,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"Fantim","holderQuote":"Mayor Fantim, stout-chested, barefoot, pushing past slathering aphids biting at his fingers, threw himself between Eurise, Erin, and Zinni"}
-{"id":"01a0657e-0230-7876-b0ea-8835c78c7f7d","chapterSlug":"rw10-38 E","paragraph":1550,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"Fantim","holderQuote":"Mayor Fantim, stout-chested, barefoot, pushing past slathering aphids biting at his fingers, threw himself between Eurise, Erin, and Zinni"}
+{"id":"01a0657e-0230-7f72-878f-5b0bd46115d1","chapterSlug":"rw10-38 E","paragraph":1540,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"fantim","holderQuote":"Mayor Fantim, stout-chested, barefoot, pushing past slathering aphids biting at his fingers, threw himself between Eurise, Erin, and Zinni"}
+{"id":"01a0657e-0230-7876-b0ea-8835c78c7f7d","chapterSlug":"rw10-38 E","paragraph":1550,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"fantim","holderQuote":"Mayor Fantim, stout-chested, barefoot, pushing past slathering aphids biting at his fingers, threw himself between Eurise, Erin, and Zinni"}
 {"id":"01a0657e-0230-7cfd-a595-14f15d6a68e7","chapterSlug":"rw10-38 E","paragraph":1557,"wording":"[Mayor]","event":"named","holderQuote":"She gave Fantim a nod as he swept his eyes across her"}
 {"id":"01a0657e-0230-79ce-be5c-d039d3821d6c","chapterSlug":"rw10-38 E","paragraph":1561,"wording":"[Mayor]","event":"named","holderQuote":"the [Mayor] enforced to no one’s happiness—now, Erin and Ulvama saw why Eurise didn’t actually argue with Fantim"}
 {"id":"01a0657e-0230-7f7f-a723-2f458cfd4ee5","chapterSlug":"rw9-41 (Pt. 2)","paragraph":502,"wording":"[Mayor]","event":"named"}
@@ -150,7 +150,7 @@
 {"id":"01a0657e-0230-7960-a198-3817186568ea","chapterSlug":"rw10-15","paragraph":308,"wording":"[Mayor]","event":"named","holderQuote":"Mayor Curle was, in fact, taking a nap"}
 {"id":"01a0657e-0230-70b1-971c-419c8006a63c","chapterSlug":"rw10-15","paragraph":337,"wording":"[Mayor]","event":"named","holderQuote":"Now, Curle might not have been a"}
 {"id":"01a0657e-0230-713d-b0f9-f7a7e2af8ce0","chapterSlug":"rw10-15","paragraph":342,"wording":"[Mayor]","event":"named","holderQuote":"Now, Curle might not have been a"}
-{"id":"01a0657e-0230-7e5d-a7f0-107ea691e102","chapterSlug":"rw10-15","paragraph":360,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"Curle","holderQuote":"She looked down at Curle, and he began to shout at her."}
+{"id":"01a0657e-0230-7e5d-a7f0-107ea691e102","chapterSlug":"rw10-15","paragraph":360,"wording":"[Mayor]","event":"named","claimed":true,"claimedBySlug":"curle","holderQuote":"She looked down at Curle, and he began to shout at her."}
 {"id":"01a0657e-0230-73c3-ba1f-5673a491b50e","chapterSlug":"rw10-15","paragraph":383,"wording":"[Mayor]","event":"named","holderQuote":"Thank you for clarifying, though, Mayor Curle."}
 {"id":"01a0657e-0230-7acb-8cdf-9e534c988792","chapterSlug":"rw10-15","paragraph":387,"wording":"[Mayor]","event":"named","holderQuote":"Thank you for clarifying, though, Mayor Curle."}
 {"id":"01a0657e-0230-7c11-b806-2f928190124d","chapterSlug":"rw10-15","paragraph":622,"wording":"[Mayor]","event":"named"}

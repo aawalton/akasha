@@ -135,7 +135,7 @@
 {"id":"01a0657e-1393-7bd6-aead-725d0bf3d9d2","chapterSlug":"rw4-19","paragraph":383,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7de6-9bba-b219c6a6bfb9","chapterSlug":"rw4-39 G","paragraph":167,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7de5-99d5-4c94002974dc","chapterSlug":"rw1-05 C","paragraph":5,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1393-71c7-af12-fd441784e4e0","chapterSlug":"rw1-05 C","paragraph":184,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"the Blighted King"}
+{"id":"01a0657e-1393-71c7-af12-fd441784e4e0","chapterSlug":"rw1-05 C","paragraph":184,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"the-blighted-king"}
 {"id":"01a0657e-1393-7436-817f-80528f2bd393","chapterSlug":"rw1-05 C","paragraph":432,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-719f-a33e-eff2138a54f1","chapterSlug":"rw4-22 E","paragraph":259,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7ed4-ba0d-49d8f5b37f26","chapterSlug":"rw4-38 B","paragraph":90,"wording":"[Mages]","event":"named"}
@@ -350,8 +350,8 @@
 {"id":"01a0657e-1393-7c63-927b-34d4842d0747","chapterSlug":"rw5-37 G","paragraph":28,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7f94-954a-44eddec17830","chapterSlug":"rw5-37 G","paragraph":46,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-70bc-a9cd-5d348b55c10b","chapterSlug":"rw5-37 G","paragraph":115,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1393-7681-a8af-9bb34f16c6ff","chapterSlug":"rw5-37 G","paragraph":179,"wording":"[Mages]","event":"named","holderSlug":"lord-tyrion-veltras","claimed":true,"claimedBySlug":"Tyrion","holderQuote":"Something invisible pushed in the air between the two. Tyrion didn’t draw back, although the soldiers around him were wincing and shifting uncomfortably. He slowly stroked his beard, and then, to the surprise of everyone, nodded."}
-{"id":"01a0657e-1393-7690-8b7a-9beec78bf35c","chapterSlug":"rw5-37 G","paragraph":303,"wording":"[Mages]","event":"named","holderSlug":"lord-tyrion-veltras","claimed":true,"claimedBySlug":"Tyrion","holderQuote":"Lord Veltras? Your orders?"}
+{"id":"01a0657e-1393-7681-a8af-9bb34f16c6ff","chapterSlug":"rw5-37 G","paragraph":179,"wording":"[Mages]","event":"named","holderSlug":"lord-tyrion-veltras","claimed":true,"claimedBySlug":"tyrion","holderQuote":"Something invisible pushed in the air between the two. Tyrion didn’t draw back, although the soldiers around him were wincing and shifting uncomfortably. He slowly stroked his beard, and then, to the surprise of everyone, nodded."}
+{"id":"01a0657e-1393-7690-8b7a-9beec78bf35c","chapterSlug":"rw5-37 G","paragraph":303,"wording":"[Mages]","event":"named","holderSlug":"lord-tyrion-veltras","claimed":true,"claimedBySlug":"tyrion","holderQuote":"Lord Veltras? Your orders?"}
 {"id":"01a0657e-1393-7a91-9312-3a2bb03d54a2","chapterSlug":"rw5-37 G","paragraph":305,"wording":"[Mages]","event":"named","holderSlug":"lord-tyrion-veltras","holderQuote":"Gather the [Mages] under my command."}
 {"id":"01a0657e-1393-7bcb-9c3b-1d6370913309","chapterSlug":"rw5-37 G","paragraph":309,"wording":"[Mages]","event":"used","holderSlug":"lord-tyrion-veltras","holderQuote":"Gather the [Mages] under my command.","effectQuote":"She saw the mana surge around them. To her eyes they shone like a small sun, and in the air between them a glowing orb appeared. White hot fire gathered into an orb, a spell which blazed heat."}
 {"id":"01a0657e-1393-7e5b-87bb-737032653fb2","chapterSlug":"rw5-52","paragraph":712,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"pisces"}
@@ -419,18 +419,18 @@
 {"id":"01a0657e-1393-75b0-a599-0897ed2cf794","chapterSlug":"rw6-13 K","paragraph":263,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7110-b7fb-6f4d81de398f","chapterSlug":"rw6-13 K","paragraph":263,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7d69-bde6-cd77830015b5","chapterSlug":"rw6-13 K","paragraph":264,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1393-7185-89fc-17278303bc27","chapterSlug":"rw6-13 K","paragraph":308,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Ulyse"}
-{"id":"01a0657e-1393-7d9c-a75d-e90b9ca536b6","chapterSlug":"rw6-13 K","paragraph":311,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Ulyse"}
-{"id":"01a0657e-1393-72d2-a41c-c21db93ced25","chapterSlug":"rw6-13 K","paragraph":313,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Ulyse"}
-{"id":"01a0657e-1393-76d2-8624-e0f8141f67b2","chapterSlug":"rw6-13 K","paragraph":313,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Ulyse"}
-{"id":"01a0657e-1393-7b66-ab17-6b88a5251c6c","chapterSlug":"rw6-13 K","paragraph":315,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Mirin"}
+{"id":"01a0657e-1393-7185-89fc-17278303bc27","chapterSlug":"rw6-13 K","paragraph":308,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"ulyse"}
+{"id":"01a0657e-1393-7d9c-a75d-e90b9ca536b6","chapterSlug":"rw6-13 K","paragraph":311,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"ulyse"}
+{"id":"01a0657e-1393-72d2-a41c-c21db93ced25","chapterSlug":"rw6-13 K","paragraph":313,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"ulyse"}
+{"id":"01a0657e-1393-76d2-8624-e0f8141f67b2","chapterSlug":"rw6-13 K","paragraph":313,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"ulyse"}
+{"id":"01a0657e-1393-7b66-ab17-6b88a5251c6c","chapterSlug":"rw6-13 K","paragraph":315,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"mirin"}
 {"id":"01a0657e-1393-7e22-9ce6-12e3468acfeb","chapterSlug":"rw6-13 K","paragraph":318,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1393-7e3b-bc37-b5c5ccae632f","chapterSlug":"rw6-13 K","paragraph":338,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Trey"}
+{"id":"01a0657e-1393-7e3b-bc37-b5c5ccae632f","chapterSlug":"rw6-13 K","paragraph":338,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"trey"}
 {"id":"01a0657e-1393-7224-bcbd-f5f5bee6749a","chapterSlug":"rw6-13 K","paragraph":346,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7214-bd52-a31128077026","chapterSlug":"rw6-13 K","paragraph":433,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-740b-96a3-02302e60ba72","chapterSlug":"rw6-13 K","paragraph":939,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7178-af69-42c037482e34","chapterSlug":"rw6-13 K","paragraph":948,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1393-7c13-8b1a-c489bec974b4","chapterSlug":"rw6-13 K","paragraph":957,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Orthenon"}
+{"id":"01a0657e-1393-7c13-8b1a-c489bec974b4","chapterSlug":"rw6-13 K","paragraph":957,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"orthenon"}
 {"id":"01a0657e-1393-7689-89cf-a478e6953cb7","chapterSlug":"rw6-13 K","paragraph":959,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7a74-81bc-20ec1bed7fda","chapterSlug":"rw6-09","paragraph":239,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7f03-a298-d95adf8f315a","chapterSlug":"rw6-09","paragraph":641,"wording":"[Mages]","event":"named"}
@@ -471,7 +471,7 @@
 {"id":"01a0657e-1393-706d-80aa-3bc30bf2efe8","chapterSlug":"rw6-24 D","paragraph":240,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7b7d-b80e-5ac1630af094","chapterSlug":"rw6-24 D","paragraph":293,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7724-a193-96b954c08481","chapterSlug":"rw6-24 D","paragraph":299,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1393-7891-8dc9-0e3799720660","chapterSlug":"rw6-24 D","paragraph":316,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Merrik"}
+{"id":"01a0657e-1393-7891-8dc9-0e3799720660","chapterSlug":"rw6-24 D","paragraph":316,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"merrik"}
 {"id":"01a0657e-1393-778e-86a3-ca36c34eb7a8","chapterSlug":"rw6-24 D","paragraph":527,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-794f-ac1a-45049153ddc6","chapterSlug":"rw6-30","paragraph":678,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1393-7588-884a-ad4ca7265b0c","chapterSlug":"rw6-32","paragraph":324,"wording":"[Mages]","event":"named"}
@@ -659,23 +659,23 @@
 {"id":"01a0657e-1394-7e16-97be-3d8c28110730","chapterSlug":"rw6-53 K","paragraph":887,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7b5a-ba99-15214afb391d","chapterSlug":"rw6-49","paragraph":35,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-75be-b282-27192c4e2074","chapterSlug":"rw6-37 E","paragraph":25,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1394-7a70-ab19-90019dabd365","chapterSlug":"rw6-39","paragraph":96,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7b20-8055-67af48fd559c","chapterSlug":"rw6-39","paragraph":117,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-74c8-80f9-656b1ce6368b","chapterSlug":"rw6-39","paragraph":142,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7e6c-9d16-ff39bbef42ef","chapterSlug":"rw6-39","paragraph":161,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-705a-ad13-1d05124d2a33","chapterSlug":"rw6-39","paragraph":161,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7ed2-b5e6-756214afb34c","chapterSlug":"rw6-39","paragraph":164,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7ee4-a54f-0335fc24e578","chapterSlug":"rw6-39","paragraph":170,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-782f-9f91-e09c3fa245e5","chapterSlug":"rw6-39","paragraph":175,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7f3b-8524-6ed7e1757198","chapterSlug":"rw6-39","paragraph":180,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7097-914e-67609b654744","chapterSlug":"rw6-39","paragraph":180,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
+{"id":"01a0657e-1394-7a70-ab19-90019dabd365","chapterSlug":"rw6-39","paragraph":96,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7b20-8055-67af48fd559c","chapterSlug":"rw6-39","paragraph":117,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-74c8-80f9-656b1ce6368b","chapterSlug":"rw6-39","paragraph":142,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7e6c-9d16-ff39bbef42ef","chapterSlug":"rw6-39","paragraph":161,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-705a-ad13-1d05124d2a33","chapterSlug":"rw6-39","paragraph":161,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7ed2-b5e6-756214afb34c","chapterSlug":"rw6-39","paragraph":164,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7ee4-a54f-0335fc24e578","chapterSlug":"rw6-39","paragraph":170,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-782f-9f91-e09c3fa245e5","chapterSlug":"rw6-39","paragraph":175,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7f3b-8524-6ed7e1757198","chapterSlug":"rw6-39","paragraph":180,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7097-914e-67609b654744","chapterSlug":"rw6-39","paragraph":180,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
 {"id":"01a0657e-1394-786e-b3d4-2d3d431ffdd2","chapterSlug":"rw6-39","paragraph":189,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1394-79b8-bf99-12278ad2abaa","chapterSlug":"rw6-39","paragraph":211,"wording":"[Mages]","event":"named","holderSlug":"illphres","claimed":true,"claimedBySlug":"Grimalkin","holderQuote":"Ceria Springwalker! Your master was one of the few [Mages] to take on the so-called ‘test’ Archmage Zelkyr left behind, wasn’t she?"}
-{"id":"01a0657e-1394-7617-aca5-21eeb42d5cfe","chapterSlug":"rw6-39","paragraph":220,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7b70-ad71-bb0c930e396d","chapterSlug":"rw6-39","paragraph":231,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7210-af89-fcd799d7d524","chapterSlug":"rw6-39","paragraph":231,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7d1a-b226-119eaa5a4a24","chapterSlug":"rw6-39","paragraph":243,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Grimalkin"}
-{"id":"01a0657e-1394-7276-8746-9a5cfecc9ca3","chapterSlug":"rw6-39","paragraph":324,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Erin"}
+{"id":"01a0657e-1394-79b8-bf99-12278ad2abaa","chapterSlug":"rw6-39","paragraph":211,"wording":"[Mages]","event":"named","holderSlug":"illphres","claimed":true,"claimedBySlug":"grimalkin","holderQuote":"Ceria Springwalker! Your master was one of the few [Mages] to take on the so-called ‘test’ Archmage Zelkyr left behind, wasn’t she?"}
+{"id":"01a0657e-1394-7617-aca5-21eeb42d5cfe","chapterSlug":"rw6-39","paragraph":220,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7b70-ad71-bb0c930e396d","chapterSlug":"rw6-39","paragraph":231,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7210-af89-fcd799d7d524","chapterSlug":"rw6-39","paragraph":231,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7d1a-b226-119eaa5a4a24","chapterSlug":"rw6-39","paragraph":243,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"grimalkin"}
+{"id":"01a0657e-1394-7276-8746-9a5cfecc9ca3","chapterSlug":"rw6-39","paragraph":324,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"erin"}
 {"id":"01a0657e-1394-7474-8e28-3b7c9803c532","chapterSlug":"rw6-41 E","paragraph":394,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7dec-8f8c-98c5053b7b1d","chapterSlug":"rw6-41 E","paragraph":856,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7f64-9c65-3e95b2b3fc7d","chapterSlug":"rw6-42 E","paragraph":223,"wording":"[Mages]","event":"named"}
@@ -821,7 +821,7 @@
 {"id":"01a0657e-1394-7680-a4b4-80d1bd074867","chapterSlug":"rw7-06","paragraph":276,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-78af-91b0-025fc34966ea","chapterSlug":"rw6-59","paragraph":31,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7a9e-94f3-caafffb29733","chapterSlug":"rw6-59","paragraph":64,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1394-7bdf-a655-7f6e0887749d","chapterSlug":"rw6-59","paragraph":70,"wording":"[Mages]","event":"named","holderSlug":"palt","claimed":true,"claimedBySlug":"Olesm","holderQuote":"According to one of the [Mages] from Wistram—the Centaur, Palt—I was told that he was allowed to go free until he started committing crimes once more."}
+{"id":"01a0657e-1394-7bdf-a655-7f6e0887749d","chapterSlug":"rw6-59","paragraph":70,"wording":"[Mages]","event":"named","holderSlug":"palt","claimed":true,"claimedBySlug":"olesm","holderQuote":"According to one of the [Mages] from Wistram—the Centaur, Palt—I was told that he was allowed to go free until he started committing crimes once more."}
 {"id":"01a0657e-1394-743d-a331-8c9852071208","chapterSlug":"rw6-59","paragraph":73,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7435-8d56-061ad7051c36","chapterSlug":"rw6-59","paragraph":77,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7ffa-a7bd-abba7bf3c046","chapterSlug":"rw6-59","paragraph":86,"wording":"[Mages]","event":"named"}
@@ -863,7 +863,7 @@
 {"id":"01a0657e-1394-71f9-bd17-01d23d7baa5b","chapterSlug":"rw6-59","paragraph":852,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7a81-8a0f-fb9be7eb5de8","chapterSlug":"rw6-59","paragraph":956,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-728e-add5-da89fa8a2450","chapterSlug":"rw6-59","paragraph":967,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1394-7209-a27f-f5d1a33ebe93","chapterSlug":"rw6-59","paragraph":989,"wording":"[Mages]","event":"named","holderSlug":"beza","claimed":true,"claimedBySlug":"Olesm","holderQuote":"One of the [Mages], the Minotauress, went to see Calruz."}
+{"id":"01a0657e-1394-7209-a27f-f5d1a33ebe93","chapterSlug":"rw6-59","paragraph":989,"wording":"[Mages]","event":"named","holderSlug":"beza","claimed":true,"claimedBySlug":"olesm","holderQuote":"One of the [Mages], the Minotauress, went to see Calruz."}
 {"id":"01a0657e-1394-7869-b12d-427e7808df3c","chapterSlug":"rw6-59","paragraph":1008,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7570-adfa-f542618b6b98","chapterSlug":"rw6-59","paragraph":1015,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-75d7-96e5-b92ff9091118","chapterSlug":"rw6-59","paragraph":1018,"wording":"[Mages]","event":"named"}
@@ -992,8 +992,8 @@
 {"id":"01a0657e-1394-7bfd-8d93-e056a31759ff","chapterSlug":"rw7-10 K","paragraph":329,"wording":"[Mages]","event":"named","holderQuote":"He raised his voice. One of the [Mages] in the camp strode over at once. Flos stood."}
 {"id":"01a0657e-1394-76d5-85e0-dd9ced191897","chapterSlug":"rw7-10 K","paragraph":408,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-73e7-a1dc-eb93fd8c5362","chapterSlug":"rw7-10 K","paragraph":975,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1394-7d5d-af93-4a3e7606b578","chapterSlug":"rw6-65","paragraph":9,"wording":"[Mages]","event":"named","holderSlug":"ceria","claimed":true,"claimedBySlug":"Yvlon","holderQuote":"You need to stop eating like that, Ceria. I know [Mages] burn energy and half-Elves don’t get fat."}
-{"id":"01a0657e-1394-750b-82c5-ad846b73e9e6","chapterSlug":"rw6-65","paragraph":102,"wording":"[Mages]","event":"named","holderSlug":"montressa","claimed":true,"claimedBySlug":"Ceria","holderQuote":"And the [Mages] in Wistram? Montressa and her team? They have a grudge."}
+{"id":"01a0657e-1394-7d5d-af93-4a3e7606b578","chapterSlug":"rw6-65","paragraph":9,"wording":"[Mages]","event":"named","holderSlug":"ceria","claimed":true,"claimedBySlug":"yvlon","holderQuote":"You need to stop eating like that, Ceria. I know [Mages] burn energy and half-Elves don’t get fat."}
+{"id":"01a0657e-1394-750b-82c5-ad846b73e9e6","chapterSlug":"rw6-65","paragraph":102,"wording":"[Mages]","event":"named","holderSlug":"montressa","claimed":true,"claimedBySlug":"ceria","holderQuote":"And the [Mages] in Wistram? Montressa and her team? They have a grudge."}
 {"id":"01a0657e-1394-7491-a0b5-1da928995ed6","chapterSlug":"rw6-65","paragraph":261,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7614-ad09-e6f6b9c5765f","chapterSlug":"rw6-65","paragraph":262,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-716c-8375-8f9098b6b822","chapterSlug":"rw6-65","paragraph":262,"wording":"[Mages]","event":"named"}
@@ -1004,7 +1004,7 @@
 {"id":"01a0657e-1394-737c-8d25-8609d025c702","chapterSlug":"rw6-65","paragraph":456,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7c7f-885b-a882b857fc2a","chapterSlug":"rw6-65","paragraph":488,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7439-b774-b5ebadb4332b","chapterSlug":"rw6-65","paragraph":498,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1394-793a-8da3-68621ca43875","chapterSlug":"rw6-65","paragraph":529,"wording":"[Mages]","event":"named","holderSlug":"montressa","claimed":true,"claimedBySlug":"Palt","holderQuote":"Montressa and the [Mages] here have no authority to take Pisces Jealnet in!"}
+{"id":"01a0657e-1394-793a-8da3-68621ca43875","chapterSlug":"rw6-65","paragraph":529,"wording":"[Mages]","event":"named","holderSlug":"montressa","claimed":true,"claimedBySlug":"palt","holderQuote":"Montressa and the [Mages] here have no authority to take Pisces Jealnet in!"}
 {"id":"01a0657e-1394-7a31-adb8-cf5e8b2aa80e","chapterSlug":"rw6-65","paragraph":534,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7383-8375-86eea4341e7d","chapterSlug":"rw6-65","paragraph":550,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1394-7196-a13c-5a3d3b433ba5","chapterSlug":"rw6-65","paragraph":610,"wording":"[Mages]","event":"named"}
@@ -1534,7 +1534,7 @@
 {"id":"01a0657e-1395-7026-8961-38b953031c25","chapterSlug":"rw7-55 E","paragraph":776,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1395-71c9-846a-d757ae7fe678","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":98,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1395-7672-ac45-24c817bdf9bd","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":239,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1395-7d0e-ae5b-9835d1847755","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":294,"wording":"[Mages]","event":"named","holderSlug":"palt","claimed":true,"claimedBySlug":"Palt","holderQuote":"She eats [Mages] like me for breakfast!"}
+{"id":"01a0657e-1395-7d0e-ae5b-9835d1847755","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":294,"wording":"[Mages]","event":"named","holderSlug":"palt","claimed":true,"claimedBySlug":"palt","holderQuote":"She eats [Mages] like me for breakfast!"}
 {"id":"01a0657e-1395-7610-b77b-56448d45a6ed","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":836,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1395-721f-8850-e070dc65e5f1","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":880,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1395-7209-8085-3ed4b432f8c5","chapterSlug":"rwInterlude - Saliss the Adventurer","paragraph":883,"wording":"[Mages]","event":"named"}
@@ -1620,7 +1620,7 @@
 {"id":"01a0657e-1396-7d65-86a3-2d61dc894d8b","chapterSlug":"rw8-09","paragraph":902,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7688-837d-f8721f6a9cd9","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":48,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-77d3-b977-11ff1f82b094","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":62,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1396-7f3c-b9c4-47f71bcaa0aa","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":311,"wording":"[Mages]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"Emir Darsul","holderQuote":"They are [Ladies], adventurers, [Mages], and more, the finest the world has seen."}
+{"id":"01a0657e-1396-7f3c-b9c4-47f71bcaa0aa","chapterSlug":"rwInterlude - The Revenant and the Naga","paragraph":311,"wording":"[Mages]","event":"named","holderSlug":"darsul","claimed":true,"claimedBySlug":"emir-darsul","holderQuote":"They are [Ladies], adventurers, [Mages], and more, the finest the world has seen."}
 {"id":"01a0657e-1396-7ee6-a988-8e9357af8a98","chapterSlug":"rw8-01","paragraph":175,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7fbb-9887-140b5d0f643d","chapterSlug":"rw8-01","paragraph":236,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7fdb-9325-394797220a58","chapterSlug":"rw8-01","paragraph":961,"wording":"[Mages]","event":"named"}
@@ -1677,7 +1677,7 @@
 {"id":"01a0657e-1396-7dc5-b079-4aca6378d7a3","chapterSlug":"rw8-04 T","paragraph":622,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7b4c-9150-872e5e212eb6","chapterSlug":"rw8-04 T","paragraph":624,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7955-848f-9a235735ac7b","chapterSlug":"rw8-04 T","paragraph":646,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1396-7f12-9310-8de4485e0419","chapterSlug":"rw8-04 T","paragraph":651,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Demerial","holderQuote":"“Anymore. You thinking of starting the half-Elf kingdoms back up, Demerial?”"}
+{"id":"01a0657e-1396-7f12-9310-8de4485e0419","chapterSlug":"rw8-04 T","paragraph":651,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"demerial","holderQuote":"“Anymore. You thinking of starting the half-Elf kingdoms back up, Demerial?”"}
 {"id":"01a0657e-1396-7de4-857a-539b638a418a","chapterSlug":"rw8-04 T","paragraph":654,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-75f3-bf6a-fc7c009c60d2","chapterSlug":"rw8-04 T","paragraph":709,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7563-ad5e-c2ff218480f4","chapterSlug":"rw8-04 T","paragraph":717,"wording":"[Mages]","event":"named"}
@@ -1781,7 +1781,7 @@
 {"id":"01a0657e-1396-7adc-ad21-d18f75c14495","chapterSlug":"rw8-12 T","paragraph":166,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7cdb-94e7-1372c1d90750","chapterSlug":"rw8-12 T","paragraph":196,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7711-85f2-cd74e1a4202e","chapterSlug":"rw8-12 T","paragraph":204,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1396-7aef-8690-052085444a2f","chapterSlug":"rw8-12 T","paragraph":228,"wording":"[Mages]","event":"named","holderSlug":"trey-atwood","claimed":true,"claimedBySlug":"Aaron","holderQuote":"“You’re one of the best [Mages] here, Troy. Which is awesome, but you should join our events too if you have the time. Tomorrow? We’re having another gathering.”"}
+{"id":"01a0657e-1396-7aef-8690-052085444a2f","chapterSlug":"rw8-12 T","paragraph":228,"wording":"[Mages]","event":"named","holderSlug":"trey-atwood","claimed":true,"claimedBySlug":"aaron","holderQuote":"“You’re one of the best [Mages] here, Troy. Which is awesome, but you should join our events too if you have the time. Tomorrow? We’re having another gathering.”"}
 {"id":"01a0657e-1396-79a9-8bee-1f3cf3fe675f","chapterSlug":"rw8-12 T","paragraph":231,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1396-7e6b-9b12-228716554cae","chapterSlug":"rw8-12 T","paragraph":261,"wording":"[Mages]","event":"named","holderSlug":"eldavin-teriarch","holderQuote":"Superior [Mages] like Eldavin could throw spells around non-stop not just because they had a lot of magic, but because they were incredibly efficient. And Eldavin pointed that out now."}
 {"id":"01a0657e-1396-7841-ba84-f2545d472cc4","chapterSlug":"rw8-12 T","paragraph":283,"wording":"[Mages]","event":"named"}
@@ -2107,8 +2107,8 @@
 {"id":"01a0657e-1397-7e77-96d6-c9ed5cb1d623","chapterSlug":"rwInterlude - Conversations","paragraph":155,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-78fc-a864-4693329ad70f","chapterSlug":"rwInterlude - Conversations","paragraph":885,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7439-a9e1-85bb5d3f902c","chapterSlug":"rw8-42","paragraph":474,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1397-7078-bb22-f051a718f285","chapterSlug":"rw8-42","paragraph":967,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Az'kerash","holderQuote":"Even the Stitch Witch looked interested at that. Az’kerash continued."}
-{"id":"01a0657e-1397-7674-bcbd-6e45201c6f3a","chapterSlug":"rw8-42","paragraph":993,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Belavierr","holderQuote":"It was a fault of their kind that both saw a hundred years, or even forty, as a small amount of time. Az’kerash was ‘only’ two hundred years old, but the narrative had amazed him. Belavierr hadn’t even heard of the change."}
+{"id":"01a0657e-1397-7078-bb22-f051a718f285","chapterSlug":"rw8-42","paragraph":967,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"az-kerash","holderQuote":"Even the Stitch Witch looked interested at that. Az’kerash continued."}
+{"id":"01a0657e-1397-7674-bcbd-6e45201c6f3a","chapterSlug":"rw8-42","paragraph":993,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"belavierr","holderQuote":"It was a fault of their kind that both saw a hundred years, or even forty, as a small amount of time. Az’kerash was ‘only’ two hundred years old, but the narrative had amazed him. Belavierr hadn’t even heard of the change."}
 {"id":"01a0657e-1397-7424-9527-9ee3f915f2ae","chapterSlug":"rw8-42","paragraph":1018,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7e04-9384-8ecfa7dee7cb","chapterSlug":"rw8-42","paragraph":1022,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7437-b4c8-a6641e6ebafb","chapterSlug":"rw8-42","paragraph":1036,"wording":"[Mages]","event":"named"}
@@ -2237,7 +2237,7 @@
 {"id":"01a0657e-1397-76dc-9f69-789ce0bc7049","chapterSlug":"rw8-53 FH","paragraph":1372,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7633-be5c-9bbe5ab05098","chapterSlug":"rw8-53 FH","paragraph":1409,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7063-948a-bdffce62df18","chapterSlug":"rw8-54 H","paragraph":259,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1397-72f0-bf11-bbdcca02a6bc","chapterSlug":"rw8-54 H","paragraph":683,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Vitte","holderQuote":"Zirre’s one of those [Mages], Yvlon."}
+{"id":"01a0657e-1397-72f0-bf11-bbdcca02a6bc","chapterSlug":"rw8-54 H","paragraph":683,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"vitte","holderQuote":"Zirre’s one of those [Mages], Yvlon."}
 {"id":"01a0657e-1397-7426-9027-f901a8295b53","chapterSlug":"rw8-54 H","paragraph":708,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7ccc-8cdb-b73ca653bd72","chapterSlug":"rw8-72","paragraph":80,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7814-b34f-5889b1eaa2d9","chapterSlug":"rw8-72","paragraph":105,"wording":"[Mages]","event":"named"}
@@ -2303,7 +2303,7 @@
 {"id":"01a0657e-1397-748e-b5b8-cf257f6b2c89","chapterSlug":"rw8-70 E","paragraph":142,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7076-b6c2-de9b1d1d8621","chapterSlug":"rw8-70 E","paragraph":181,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7459-9b33-d3cf8e92c4bb","chapterSlug":"rw8-70 E","paragraph":197,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1397-77cd-9ee9-5586e514c9ab","chapterSlug":"rw8-70 E","paragraph":201,"wording":"[Mages]","event":"named","holderSlug":"eldavin","claimed":true,"claimedBySlug":"Eldavin","holderQuote":"My [Mages] are not yet ready for battle, but our [Magearmor Soldiers]"}
+{"id":"01a0657e-1397-77cd-9ee9-5586e514c9ab","chapterSlug":"rw8-70 E","paragraph":201,"wording":"[Mages]","event":"named","holderSlug":"eldavin","claimed":true,"claimedBySlug":"eldavin","holderQuote":"My [Mages] are not yet ready for battle, but our [Magearmor Soldiers]"}
 {"id":"01a0657e-1397-77b1-9672-4ca13ce07874","chapterSlug":"rw8-70 E","paragraph":292,"wording":"[Mages]","event":"named","holderSlug":"eldavin","holderQuote":"Eldavin beamed at the other [Mages] in his faction and felt buoyant"}
 {"id":"01a0657e-1397-7062-9849-a07299e2aa01","chapterSlug":"rw8-70 E","paragraph":341,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1397-7509-8f86-1fc0cc015586","chapterSlug":"rw8-70 E","paragraph":342,"wording":"[Mages]","event":"named"}
@@ -2344,7 +2344,7 @@
 {"id":"01a0657e-1398-7345-a999-267c4901afb2","chapterSlug":"rw8-62 K","paragraph":416,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1398-7267-bd9b-1c64315b6607","chapterSlug":"rw8-62 K","paragraph":473,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1398-792c-a071-0148a7ce60cc","chapterSlug":"rw8-62 K","paragraph":474,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1398-7c6a-ba44-e1826ad671f6","chapterSlug":"rw8-62 K","paragraph":487,"wording":"[Mages]","event":"named","holderSlug":"telim","claimed":true,"claimedBySlug":"Telim","holderQuote":"We’re [Mages]. Lazy."}
+{"id":"01a0657e-1398-7c6a-ba44-e1826ad671f6","chapterSlug":"rw8-62 K","paragraph":487,"wording":"[Mages]","event":"named","holderSlug":"telim","claimed":true,"claimedBySlug":"telim","holderQuote":"We’re [Mages]. Lazy."}
 {"id":"01a0657e-1398-77b5-8507-5b6bacbffa88","chapterSlug":"rw8-62 K","paragraph":500,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1398-7a09-bdf2-45cec8c59073","chapterSlug":"rw8-62 K","paragraph":505,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1398-7a34-b3b2-ead44542dc54","chapterSlug":"rw8-62 K","paragraph":512,"wording":"[Mages]","event":"named"}
@@ -2793,15 +2793,15 @@
 {"id":"01a0657e-1399-7233-8d60-86d66e58f7c7","chapterSlug":"rw9-15 VM","paragraph":927,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-71e3-87c0-0043c5d05c8e","chapterSlug":"rw9-15 VM","paragraph":1045,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-740e-8544-c5ba4dcd8eaa","chapterSlug":"rw9-15 VM","paragraph":1156,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1399-7d0f-a3a3-f42a0b114500","chapterSlug":"rw9-15 VM","paragraph":1164,"wording":"[Mages]","event":"named","holderSlug":"valeterisa","claimed":true,"claimedBySlug":"Worpell","holderQuote":"Valeterisa. You are without a doubt one of the finest [Mages] living."}
+{"id":"01a0657e-1399-7d0f-a3a3-f42a0b114500","chapterSlug":"rw9-15 VM","paragraph":1164,"wording":"[Mages]","event":"named","holderSlug":"valeterisa","claimed":true,"claimedBySlug":"worpell","holderQuote":"Valeterisa. You are without a doubt one of the finest [Mages] living."}
 {"id":"01a0657e-1399-7d5d-b1f1-2725eb277a9f","chapterSlug":"rw9-15 VM","paragraph":1280,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7fff-8d2f-29313e9ee538","chapterSlug":"rw9-15 VM","paragraph":1281,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7409-9da7-233839730626","chapterSlug":"rw9-17 R","paragraph":270,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7577-9852-35e8cac9c120","chapterSlug":"rw9-17 R","paragraph":859,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7ffc-a6be-09616d7ca4d9","chapterSlug":"rw9-17 R","paragraph":903,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7cbb-b018-df3a78a05c4e","chapterSlug":"rw9-17 R","paragraph":904,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1399-766a-a905-a0be2f4d244d","chapterSlug":"rw9-18 E","paragraph":591,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Belavierr"}
-{"id":"01a0657e-1399-7b81-84c7-33ebad7e1921","chapterSlug":"rw9-18 E","paragraph":688,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Typhenous","holderQuote":"we [Mages] and related classes are rather mathematical"}
+{"id":"01a0657e-1399-766a-a905-a0be2f4d244d","chapterSlug":"rw9-18 E","paragraph":591,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"belavierr"}
+{"id":"01a0657e-1399-7b81-84c7-33ebad7e1921","chapterSlug":"rw9-18 E","paragraph":688,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"typhenous","holderQuote":"we [Mages] and related classes are rather mathematical"}
 {"id":"01a0657e-1399-7657-94bd-00f0390d8838","chapterSlug":"rw9-18 E","paragraph":756,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7ac3-914d-589d83e38149","chapterSlug":"rw9-18 E","paragraph":765,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7118-9533-255fad67be08","chapterSlug":"rwInterlude - Relationships","paragraph":553,"wording":"[Mages]","event":"named"}
@@ -2964,7 +2964,7 @@
 {"id":"01a0657e-1399-7577-a483-37c845b87169","chapterSlug":"rwInterlude - Levels","paragraph":568,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-75a2-a66f-81fcb4157854","chapterSlug":"rwInterlude - Levels","paragraph":651,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7434-a14e-ea43082e9a31","chapterSlug":"rwInterlude - Levels","paragraph":826,"wording":"[Mages]","event":"named","holderQuote":"Larracel the Haven rolled her eyes as she inspected the wand’s custom grip"}
-{"id":"01a0657e-1399-7f49-af19-af52013b955f","chapterSlug":"rwInterlude - Levels","paragraph":886,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Hedault","holderQuote":"Hedault turned and gave the Centaur such a look of scorn"}
+{"id":"01a0657e-1399-7f49-af19-af52013b955f","chapterSlug":"rwInterlude - Levels","paragraph":886,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"hedault","holderQuote":"Hedault turned and gave the Centaur such a look of scorn"}
 {"id":"01a0657e-1399-7796-9b90-cb8a44a4fbf8","chapterSlug":"rw10-59 T","paragraph":293,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7ebf-a880-a741f4ff3d9d","chapterSlug":"rw10-59 T","paragraph":382,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7f0c-95ad-69ba68d5052a","chapterSlug":"rw10-59 T","paragraph":909,"wording":"[Mages]","event":"named"}
@@ -3017,7 +3017,7 @@
 {"id":"01a0657e-1399-773c-8705-71ddb75d33df","chapterSlug":"rw10-14","paragraph":327,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-719c-8738-0465ea8e71be","chapterSlug":"rw10-15","paragraph":761,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7276-9e84-22ea5d0ef016","chapterSlug":"rw10-15","paragraph":1021,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1399-7eae-80bb-037aa40b94fe","chapterSlug":"rw10-17","paragraph":516,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"the King of Duel"}
+{"id":"01a0657e-1399-7eae-80bb-037aa40b94fe","chapterSlug":"rw10-17","paragraph":516,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"the-king-of-duel"}
 {"id":"01a0657e-1399-743e-8f63-29a9dc356b23","chapterSlug":"rw10-17","paragraph":574,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-720c-b855-4c160e47f642","chapterSlug":"rw10-17","paragraph":1246,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-714e-abf7-f778783d2ee8","chapterSlug":"rwInterlude – Halfseekers (Pt- 7)","paragraph":798,"wording":"[Mages]","event":"named"}
@@ -3037,7 +3037,7 @@
 {"id":"01a0657e-1399-7e9c-8a32-351d17b8a605","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1252,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-76a0-8b39-3c377db9fe94","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1269,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7528-95c0-50e81a6f6ccd","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1271,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1399-73d9-8aba-056c743b5b59","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1291,"wording":"[Mages]","event":"named","holderSlug":"amerys","claimed":true,"claimedBySlug":"Amerys","holderQuote":"We’re all of us such a ridiculous lot."}
+{"id":"01a0657e-1399-73d9-8aba-056c743b5b59","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1291,"wording":"[Mages]","event":"named","holderSlug":"amerys","claimed":true,"claimedBySlug":"amerys","holderQuote":"We’re all of us such a ridiculous lot."}
 {"id":"01a0657e-1399-7c99-9fae-f430b235fa47","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1484,"wording":"[Mages]","event":"named","holderSlug":"amerys","holderQuote":"a strange desperation in Amerys"}
 {"id":"01a0657e-1399-721e-a852-5a98df024891","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1536,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7ded-b9b1-aecfccd5ea9c","chapterSlug":"rwInterlude – Halfseekers (Pt- 8)","paragraph":1621,"wording":"[Mages]","event":"named"}
@@ -3134,7 +3134,7 @@
 {"id":"01a0657e-1399-7a4f-b393-4cce48a8a91e","chapterSlug":"rw10-41 T","paragraph":282,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-74c3-8a79-fa4cbe03385f","chapterSlug":"rw10-41 T","paragraph":958,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7daf-840b-f4d7465f7f0f","chapterSlug":"rw10-60 YN","paragraph":229,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1399-75f2-b7da-866360ff8fbc","chapterSlug":"rw10-60 YN","paragraph":261,"wording":"[Mages]","event":"named","holderSlug":"falene","claimed":true,"claimedBySlug":"Falene","holderQuote":"Even my fellow [Mages] of Wistram"}
+{"id":"01a0657e-1399-75f2-b7da-866360ff8fbc","chapterSlug":"rw10-60 YN","paragraph":261,"wording":"[Mages]","event":"named","holderSlug":"falene","claimed":true,"claimedBySlug":"falene","holderQuote":"Even my fellow [Mages] of Wistram"}
 {"id":"01a0657e-1399-7409-90e2-c6c45b29d216","chapterSlug":"rw10-60 YN","paragraph":845,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7620-b7e1-31939fef0368","chapterSlug":"rw10-60 YN","paragraph":2035,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7c04-b11a-7d185fde0c91","chapterSlug":"rw10-48 VS","paragraph":31,"wording":"[Mages]","event":"named"}
@@ -3170,7 +3170,7 @@
 {"id":"01a0657e-1399-79b3-bc44-2663e5a1b79f","chapterSlug":"rw9-27 RC","paragraph":670,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-74e7-a141-06eec831e9d5","chapterSlug":"rw10-49 Y","paragraph":210,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-7651-a3f7-9f00feefa319","chapterSlug":"rw10-49 Y","paragraph":1346,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-1399-7c8f-8cec-69fbaaa32a15","chapterSlug":"rw10-49 Y","paragraph":1530,"wording":"[Mages]","event":"named","holderSlug":"etrikah","claimed":true,"claimedBySlug":"Etrikah","holderQuote":"For us [Mages]. No one likes someone who can burst through magic like it’s cheap cantrips."}
+{"id":"01a0657e-1399-7c8f-8cec-69fbaaa32a15","chapterSlug":"rw10-49 Y","paragraph":1530,"wording":"[Mages]","event":"named","holderSlug":"etrikah","claimed":true,"claimedBySlug":"etrikah","holderQuote":"For us [Mages]. No one likes someone who can burst through magic like it’s cheap cantrips."}
 {"id":"01a0657e-1399-7aae-a9ba-1b4a4b3215ce","chapterSlug":"rw10-61 Y","paragraph":1133,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-76eb-b572-0d9c2aa8aa31","chapterSlug":"rw10-69 IN","paragraph":152,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-1399-79b8-aa4c-29903ead8c41","chapterSlug":"rw10-69 IN","paragraph":154,"wording":"[Mages]","event":"named"}
@@ -3249,7 +3249,7 @@
 {"id":"01a0657e-139a-7c16-91fd-c510d959d2fa","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":584,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-7beb-a5ed-b27a656f96a0","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":671,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-70d2-a76f-cfbda518e83a","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":1027,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-139a-7404-8aa2-4f6e1f3895bd","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":1079,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Mexte"}
+{"id":"01a0657e-139a-7404-8aa2-4f6e1f3895bd","chapterSlug":"rwInterlude - Vernoue (Pt- 2)","paragraph":1079,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"mexte"}
 {"id":"01a0657e-139a-73c8-8e6f-3e1f5b9f2c72","chapterSlug":"rw10-42 T","paragraph":58,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-7b7c-af37-2ea4af16a1cf","chapterSlug":"rw10-42 T","paragraph":126,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-7128-ac28-90a483b4e8d2","chapterSlug":"rw10-42 T","paragraph":214,"wording":"[Mages]","event":"named"}
@@ -3407,7 +3407,7 @@
 {"id":"01a0657e-139a-7a8d-8837-4582019a08db","chapterSlug":"rwInterlude - Another Time","paragraph":230,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-7742-a22f-2626e844d027","chapterSlug":"rwInterlude - Another Time","paragraph":235,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-76da-8c1d-04ff9ad6329c","chapterSlug":"rwInterlude - Another Time","paragraph":241,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-139a-72ec-a33e-a7be90639ea0","chapterSlug":"rwInterlude - Another Time","paragraph":381,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"Tserre","holderQuote":"they don’t teach them like they used to"}
+{"id":"01a0657e-139a-72ec-a33e-a7be90639ea0","chapterSlug":"rwInterlude - Another Time","paragraph":381,"wording":"[Mages]","event":"named","claimed":true,"claimedBySlug":"tserre","holderQuote":"they don’t teach them like they used to"}
 {"id":"01a0657e-139a-7e76-8dcd-b2cee91719db","chapterSlug":"rwInterlude - Another Time","paragraph":386,"wording":"[Mages]","event":"named","holderQuote":"Nor was she in the mood to laugh at the ‘young’ [Mages] and their new notions of magic"}
 {"id":"01a0657e-139a-7faf-b068-e927f450ba98","chapterSlug":"rw10-11 H","paragraph":296,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-7d5d-8047-112c853ea20e","chapterSlug":"rw10-11 H","paragraph":943,"wording":"[Mages]","event":"named"}
@@ -3503,7 +3503,7 @@
 {"id":"01a0657e-139a-7ffa-9751-492ea5a63855","chapterSlug":"rw9-36 HO","paragraph":1254,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-79d4-9bf2-983ce1e7c875","chapterSlug":"rw9-37 HO","paragraph":251,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-75a5-bc90-66d2b64a4837","chapterSlug":"rw9-37 HO","paragraph":269,"wording":"[Mages]","event":"named"}
-{"id":"01a0657e-139a-7e14-9ed4-67097be5c0c7","chapterSlug":"rw9-37 HO","paragraph":272,"wording":"[Mages]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"Berr","holderQuote":"You [Mages] are very funny about words, yes?"}
+{"id":"01a0657e-139a-7e14-9ed4-67097be5c0c7","chapterSlug":"rw9-37 HO","paragraph":272,"wording":"[Mages]","event":"named","holderSlug":"pisces-jealnet","claimed":true,"claimedBySlug":"berr","holderQuote":"You [Mages] are very funny about words, yes?"}
 {"id":"01a0657e-139a-74be-89a8-edf356965902","chapterSlug":"rw9-37 HO","paragraph":300,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-772b-adaf-02572afa3c3a","chapterSlug":"rw9-37 HO","paragraph":302,"wording":"[Mages]","event":"named"}
 {"id":"01a0657e-139a-7883-aa5f-918b2700d9eb","chapterSlug":"rw9-37 HO","paragraph":346,"wording":"[Mages]","event":"named"}

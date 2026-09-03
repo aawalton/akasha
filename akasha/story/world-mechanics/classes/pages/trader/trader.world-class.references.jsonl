@@ -109,7 +109,7 @@
 {"id":"01a06586-0a69-7879-b9a6-c4b16abce2ac","chapterSlug":"rw8-20","paragraph":873,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-7748-b64d-31bc1c493a2a","chapterSlug":"rw8-45 O","paragraph":787,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-7c01-84b3-2ea123c9ba12","chapterSlug":"rw8-45 O","paragraph":792,"wording":"[Trader]","event":"named"}
-{"id":"01a06586-0a69-7594-8d0b-c8a123686383","chapterSlug":"rw8-42","paragraph":532,"wording":"[Trader]","event":"named","holderSlug":"qwera","claimed":true,"claimedBySlug":"Tesy","holderQuote":"“Yeah, but she didn’t throw us out so she’ll probably help. See? I told you she could help. Mrsha, that’s Qwera. Don’t worry, she’s n—she’s n—”"}
+{"id":"01a06586-0a69-7594-8d0b-c8a123686383","chapterSlug":"rw8-42","paragraph":532,"wording":"[Trader]","event":"named","holderSlug":"qwera","claimed":true,"claimedBySlug":"tesy","holderQuote":"“Yeah, but she didn’t throw us out so she’ll probably help. See? I told you she could help. Mrsha, that’s Qwera. Don’t worry, she’s n—she’s n—”"}
 {"id":"01a06586-0a69-7f4f-86dd-5c535f80bf1d","chapterSlug":"rw8-54 H","paragraph":508,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-7f94-b92c-75cbe8d47519","chapterSlug":"rwInterlude - The Isles of Goblin and Minos","paragraph":220,"wording":"[Trader]","event":"named","holderQuote":"Ocello, the young [Trader]"}
 {"id":"01a06586-0a69-7972-a548-b04336b22a91","chapterSlug":"rw9-03","paragraph":381,"wording":"[Trader]","event":"named"}
@@ -137,7 +137,7 @@
 {"id":"01a06586-0a69-735b-b07d-2faafaf1c1f1","chapterSlug":"rw10-13","paragraph":866,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-729b-9ec8-7b132797e382","chapterSlug":"rw10-15","paragraph":491,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-787e-9395-963cbb306ba1","chapterSlug":"rw10-40 T","paragraph":1097,"wording":"[Trader]","event":"named"}
-{"id":"01a06586-0a69-7b19-bba1-f71241076a1f","chapterSlug":"rw9-27 RC","paragraph":415,"wording":"[Trader]","event":"named","holderSlug":"rickel","claimed":true,"claimedBySlug":"Beansi","holderQuote":"Ever thought about becoming a [Trader]?"}
+{"id":"01a06586-0a69-7b19-bba1-f71241076a1f","chapterSlug":"rw9-27 RC","paragraph":415,"wording":"[Trader]","event":"named","holderSlug":"rickel","claimed":true,"claimedBySlug":"beansi","holderQuote":"Ever thought about becoming a [Trader]?"}
 {"id":"01a06586-0a69-797a-a688-67737368a164","chapterSlug":"rw9-27 RC","paragraph":419,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-760b-8b15-298829107189","chapterSlug":"rw10-61 Y","paragraph":5,"wording":"[Trader]","event":"named","holderQuote":"the young [Trader], Selchess"}
 {"id":"01a06586-0a69-71c3-9771-ba18d323457f","chapterSlug":"rw10-61 Y","paragraph":8,"wording":"[Trader]","event":"named"}
@@ -156,10 +156,10 @@
 {"id":"01a06586-0a69-7e10-b42a-a4d06f321f2a","chapterSlug":"rw10-53 UEG","paragraph":1787,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-710f-b40d-d1a499afa6e8","chapterSlug":"rw10-62 NY","paragraph":252,"wording":"[Trader]","event":"named","holderQuote":"The [Trader] nodded, smiling."}
 {"id":"01a06586-0a69-7d94-b0db-bd49b901cc5f","chapterSlug":"rw10-62 NY","paragraph":260,"wording":"[Trader]","event":"named","holderQuote":"But the man appeared honest, and he was a [Trader]."}
-{"id":"01a06586-0a69-7f59-9fa3-a58b62a447ef","chapterSlug":"rw10-62 NY","paragraph":261,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"Ylawes","holderQuote":"We can move our group with yours, Trader Tilfem."}
-{"id":"01a06586-0a69-7ff1-bb10-e7d989512c7e","chapterSlug":"rw10-62 NY","paragraph":269,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"Ylawes","holderQuote":"It’s Tilfem, a [Trader] and a caravan just down the way."}
-{"id":"01a06586-0a69-7d53-b5fc-1c6655e77c54","chapterSlug":"rw10-62 NY","paragraph":270,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"Falene","holderQuote":"A [Trader]? What if he recognizes us?"}
-{"id":"01a06586-0a69-79f4-bd2a-324e1cde2d15","chapterSlug":"rw10-62 NY","paragraph":289,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"Ylawes","holderQuote":"Unless, of course, you were a typical [Trader], in which case you’d save on extra wagons with—"}
+{"id":"01a06586-0a69-7f59-9fa3-a58b62a447ef","chapterSlug":"rw10-62 NY","paragraph":261,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"ylawes","holderQuote":"We can move our group with yours, Trader Tilfem."}
+{"id":"01a06586-0a69-7ff1-bb10-e7d989512c7e","chapterSlug":"rw10-62 NY","paragraph":269,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"ylawes","holderQuote":"It’s Tilfem, a [Trader] and a caravan just down the way."}
+{"id":"01a06586-0a69-7d53-b5fc-1c6655e77c54","chapterSlug":"rw10-62 NY","paragraph":270,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"falene","holderQuote":"A [Trader]? What if he recognizes us?"}
+{"id":"01a06586-0a69-79f4-bd2a-324e1cde2d15","chapterSlug":"rw10-62 NY","paragraph":289,"wording":"[Trader]","event":"named","claimed":true,"claimedBySlug":"ylawes","holderQuote":"Unless, of course, you were a typical [Trader], in which case you’d save on extra wagons with—"}
 {"id":"01a06586-0a69-71b1-bb50-1378d5c68ba1","chapterSlug":"rw9-28","paragraph":19,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-7fdb-a27a-0a5c462db679","chapterSlug":"rw9-28","paragraph":147,"wording":"[Trader]","event":"named"}
 {"id":"01a06586-0a69-7d37-ba05-b34d60c88a1f","chapterSlug":"rw9-28","paragraph":264,"wording":"[Trader]","event":"named"}

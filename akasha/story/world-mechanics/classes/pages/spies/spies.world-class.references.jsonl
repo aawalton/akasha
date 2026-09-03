@@ -47,8 +47,8 @@
 {"id":"01a06586-0a51-715e-a21f-49faf1e1bd3e","chapterSlug":"rw10-14","paragraph":640,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-7355-b29a-7dd2e93e75d5","chapterSlug":"rw10-14","paragraph":700,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-7f66-88f8-d88d465e40a8","chapterSlug":"rw10-15","paragraph":654,"wording":"[Spies]","event":"named"}
-{"id":"01a06586-0a51-7fde-8494-5352e574b1a8","chapterSlug":"rw10-15","paragraph":705,"wording":"[Spies]","event":"named","claimed":true,"claimedBySlug":"Lyonette"}
-{"id":"01a06586-0a51-7839-b2ba-59ad1ed2c769","chapterSlug":"rw10-15","paragraph":724,"wording":"[Spies]","event":"named","claimed":true,"claimedBySlug":"Vaulont the Ash"}
+{"id":"01a06586-0a51-7fde-8494-5352e574b1a8","chapterSlug":"rw10-15","paragraph":705,"wording":"[Spies]","event":"named","claimed":true,"claimedBySlug":"lyonette"}
+{"id":"01a06586-0a51-7839-b2ba-59ad1ed2c769","chapterSlug":"rw10-15","paragraph":724,"wording":"[Spies]","event":"named","claimed":true,"claimedBySlug":"vaulont-the-ash"}
 {"id":"01a06586-0a51-7aea-a98b-0220c8a273fd","chapterSlug":"rw10-58 FP","paragraph":1440,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-77e8-aaa5-c4e0b2ace77d","chapterSlug":"rw9-61 G","paragraph":180,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-7743-8cc5-6cb69f030d1c","chapterSlug":"rw9-53","paragraph":1346,"wording":"[Spies]","event":"named"}
@@ -57,11 +57,11 @@
 {"id":"01a06586-0a51-7364-8d20-f0a2228b4bd6","chapterSlug":"rwInterlude - Barelle the [Bard]","paragraph":124,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-7096-b417-fe9bfe7fca0c","chapterSlug":"rw9-54 C","paragraph":612,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-7429-9b52-ccb8c3754f3d","chapterSlug":"rw9-52","paragraph":977,"wording":"[Spies]","event":"named"}
-{"id":"01a06586-0a51-7bf8-a196-2005651f779a","chapterSlug":"rw9-50","paragraph":715,"wording":"[Spies]","event":"named","holderSlug":"fetohep","claimed":true,"claimedBySlug":"Fetohep","holderQuote":"Have the [Spies] report to me in real time what is going on."}
+{"id":"01a06586-0a51-7bf8-a196-2005651f779a","chapterSlug":"rw9-50","paragraph":715,"wording":"[Spies]","event":"named","holderSlug":"fetohep","claimed":true,"claimedBySlug":"fetohep","holderQuote":"Have the [Spies] report to me in real time what is going on."}
 {"id":"01a06586-0a51-747d-b51c-507ceb213b02","chapterSlug":"rw9-50","paragraph":835,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-74a0-86f0-199fa8354180","chapterSlug":"rw9-51 Z","paragraph":144,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-79d2-9271-5dc40147d35f","chapterSlug":"rw10-41 T","paragraph":370,"wording":"[Spies]","event":"named"}
-{"id":"01a06586-0a51-7a0c-b423-ca28cf4f7219","chapterSlug":"rw10-66 (Pt. 2)","paragraph":650,"wording":"[Spies]","event":"named","claimed":true,"claimedBySlug":"Nollesc","holderQuote":"This isn’t my usual line of work, but with the inn quiet, I am one of the top"}
+{"id":"01a06586-0a51-7a0c-b423-ca28cf4f7219","chapterSlug":"rw10-66 (Pt. 2)","paragraph":650,"wording":"[Spies]","event":"named","claimed":true,"claimedBySlug":"nollesc","holderQuote":"This isn’t my usual line of work, but with the inn quiet, I am one of the top"}
 {"id":"01a06586-0a51-7a63-bd38-0e52b6ed0860","chapterSlug":"rw9-62","paragraph":60,"wording":"[Spies]","event":"named"}
 {"id":"01a06586-0a51-79a0-86b5-cca78d93b27d","chapterSlug":"rw10-49 Y","paragraph":1496,"wording":"[Spies]","event":"named","holderSlug":"pisces","holderQuote":"she’d forgotten Pisces was doubly alert in Chandrar."}
 {"id":"01a06586-0a51-7ba9-a610-c276f59eb996","chapterSlug":"rw10-69 IN","paragraph":677,"wording":"[Spies]","event":"named"}

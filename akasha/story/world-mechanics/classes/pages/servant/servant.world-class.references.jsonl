@@ -86,15 +86,15 @@
 {"id":"01a0657e-024d-7372-9771-216b466f4093","chapterSlug":"rw9-58 O","paragraph":286,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-7f89-ac58-c75c2162cd95","chapterSlug":"rw10-59 T","paragraph":2352,"wording":"[Servant]","event":"named","holderQuote":"Webvei, the only [Servant] who’d stand up to Ressa."}
 {"id":"01a0657e-024d-7872-aa30-bb230048e57a","chapterSlug":"rw10-14","paragraph":54,"wording":"[Servant]","event":"named"}
-{"id":"01a0657e-024d-7ec1-baec-b12419904155","chapterSlug":"rw9-49","paragraph":517,"wording":"[Servant]","event":"used","holderSlug":"colth","claimed":true,"claimedBySlug":"Colth","holderQuote":"[Rider]. [Traveller]. [Beast Tamer]—though a lot of classes get [Quick Hooves]—and [Servant].","effectQuote":"The ground skipped under the horses’ hooves, and Pisces shouted"}
+{"id":"01a0657e-024d-7ec1-baec-b12419904155","chapterSlug":"rw9-49","paragraph":517,"wording":"[Servant]","event":"used","holderSlug":"colth","claimed":true,"claimedBySlug":"colth","holderQuote":"[Rider]. [Traveller]. [Beast Tamer]—though a lot of classes get [Quick Hooves]—and [Servant].","effectQuote":"The ground skipped under the horses’ hooves, and Pisces shouted"}
 {"id":"01a0657e-024d-707f-bc1d-3235b844004c","chapterSlug":"rwInterlude - Barelle the [Bard]","paragraph":107,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-77ca-bc8f-74093f5bcec5","chapterSlug":"rw9-59 O","paragraph":334,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-7188-be16-262f375d9a0f","chapterSlug":"rw10-66 (Pt. 2)","paragraph":1752,"wording":"[Servant]","event":"named","holderQuote":"Xinthe? Get out of hiding and come over here."}
 {"id":"01a0657e-024d-7755-882c-58116a6dd056","chapterSlug":"rw10-49 Y","paragraph":232,"wording":"[Servant]","event":"named"}
-{"id":"01a0657e-024d-7f8d-9eb3-1715cf41c2d4","chapterSlug":"rw10-49 Y","paragraph":410,"wording":"[Servant]","event":"named","holderSlug":"elena","claimed":true,"claimedBySlug":"Elena","holderQuote":"Let me show you—and I can play the [Servant] class. I had it once."}
+{"id":"01a0657e-024d-7f8d-9eb3-1715cf41c2d4","chapterSlug":"rw10-49 Y","paragraph":410,"wording":"[Servant]","event":"named","holderSlug":"elena","claimed":true,"claimedBySlug":"elena","holderQuote":"Let me show you—and I can play the [Servant] class. I had it once."}
 {"id":"01a0657e-024d-749c-b500-bfb8f3026219","chapterSlug":"rw10-49 Y","paragraph":438,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-75e6-9e49-07609cf28350","chapterSlug":"rw10-49 Y","paragraph":445,"wording":"[Servant]","event":"named","claimed":true}
-{"id":"01a0657e-024d-7a41-9ff0-6769138f3ec8","chapterSlug":"rw10-49 Y","paragraph":481,"wording":"[Servant]","event":"named","claimed":true,"claimedBySlug":"Yvlon"}
+{"id":"01a0657e-024d-7a41-9ff0-6769138f3ec8","chapterSlug":"rw10-49 Y","paragraph":481,"wording":"[Servant]","event":"named","claimed":true,"claimedBySlug":"yvlon"}
 {"id":"01a0657e-024d-7809-9594-ebb1dec418f8","chapterSlug":"rw10-49 Y","paragraph":488,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-7b05-ab61-6b6e9a034d1e","chapterSlug":"rw10-49 Y","paragraph":497,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-7e50-aacc-91f58963577f","chapterSlug":"rw10-49 Y","paragraph":607,"wording":"[Servant]","event":"named"}
@@ -107,7 +107,7 @@
 {"id":"01a0657e-024d-76fa-9b3b-1775c8547d1b","chapterSlug":"rw10-65","paragraph":1350,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-788d-bcbd-0d4f586888ca","chapterSlug":"rw10-50 Y","paragraph":763,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-76e2-9e0e-a1a6ac6920f3","chapterSlug":"rw10-66 (Pt. 1)","paragraph":1299,"wording":"[Servant]","event":"named"}
-{"id":"01a0657e-024d-7e0c-b282-618cd6451443","chapterSlug":"rw10-68 S","paragraph":1359,"wording":"[Servant]","event":"named","holderSlug":"calidus-reinhart","claimed":true,"claimedBySlug":"Calidus Reinhart","holderQuote":"What am I, your personal [Servant]? Get one of your precious Circle of Thorns to do it!"}
+{"id":"01a0657e-024d-7e0c-b282-618cd6451443","chapterSlug":"rw10-68 S","paragraph":1359,"wording":"[Servant]","event":"named","holderSlug":"calidus-reinhart","claimed":true,"claimedBySlug":"calidus-reinhart","holderQuote":"What am I, your personal [Servant]? Get one of your precious Circle of Thorns to do it!"}
 {"id":"01a0657e-024d-7ba5-8319-8f95ebac1e15","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":373,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-7071-a172-8be6bc768b1b","chapterSlug":"rw10-37 GDI (Pt. 2)","paragraph":591,"wording":"[Servant]","event":"named"}
 {"id":"01a0657e-024d-7e2c-bf82-a59519c1825e","chapterSlug":"rw10-07","paragraph":1178,"wording":"[Servant]","event":"named"}
