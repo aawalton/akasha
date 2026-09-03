@@ -9,6 +9,7 @@ export const sections110 = {
   position: 110,
   ownLength: 0,
   ownProgress: 0,
+  unitSlug: "words",
   status: "not-started",
   externalId: "doctrineandcovenants110",
 } as const satisfies ScripturePassage
