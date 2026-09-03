@@ -5,7 +5,7 @@ export const bewareOfChicken0025V4c17TheVerdantBladeSect = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0025-v4c17-the-verdant-blade-sect",
   title: "v4c17: The Verdant Blade Sect",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 25,
   ownLength: 3361,
   ownProgress: 3361,

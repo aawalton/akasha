@@ -5,7 +5,7 @@ export const chrysalis0491Chapter1836BreatheEasy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0491-chapter-1836-breathe-easy",
   title: "Chapter 1836 -  Breathe Easy",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 491,
   ownLength: 864,
   unitSlug: "words",

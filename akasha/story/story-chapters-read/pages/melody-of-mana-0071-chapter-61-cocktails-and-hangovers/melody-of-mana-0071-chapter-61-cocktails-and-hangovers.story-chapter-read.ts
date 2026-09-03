@@ -5,7 +5,7 @@ export const melodyOfMana0071Chapter61CocktailsAndHangovers = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0071-chapter-61-cocktails-and-hangovers",
   title: "Chapter 61 Cocktails and hangovers",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 71,
   ownLength: 2058,
   ownProgress: 2058,

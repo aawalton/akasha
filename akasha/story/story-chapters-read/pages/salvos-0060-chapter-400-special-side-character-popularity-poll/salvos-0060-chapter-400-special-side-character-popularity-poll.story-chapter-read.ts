@@ -5,7 +5,7 @@ export const salvos0060Chapter400SpecialSideCharacterPopularityPoll = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0060-chapter-400-special-side-character-popularity-poll",
   title: "Chapter 400 Special: Side Character Popularity Poll!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 60,
   ownLength: 103,
   unitSlug: "words",

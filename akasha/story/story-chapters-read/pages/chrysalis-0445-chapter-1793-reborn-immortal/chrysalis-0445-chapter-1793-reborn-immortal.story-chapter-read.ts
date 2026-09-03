@@ -5,7 +5,7 @@ export const chrysalis0445Chapter1793RebornImmortal = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0445-chapter-1793-reborn-immortal",
   title: "Chapter 1793 - Reborn Immortal",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 445,
   ownLength: 1101,
   unitSlug: "words",

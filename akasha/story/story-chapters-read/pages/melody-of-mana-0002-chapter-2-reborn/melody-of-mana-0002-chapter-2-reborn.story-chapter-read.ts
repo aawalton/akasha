@@ -5,7 +5,7 @@ export const melodyOfMana0002Chapter2Reborn = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0002-chapter-2-reborn",
   title: "Chapter 2 Reborn",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 2,
   ownLength: 4935,
   ownProgress: 4935,

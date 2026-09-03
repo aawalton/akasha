@@ -5,7 +5,7 @@ export const melodyOfMana0043SideStory6MeanwhileInTheEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0043-side-story-6-meanwhile-in-the-empire",
   title: "Side story 6 Meanwhile in the Empire",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 43,
   ownLength: 1588,
   ownProgress: 1588,

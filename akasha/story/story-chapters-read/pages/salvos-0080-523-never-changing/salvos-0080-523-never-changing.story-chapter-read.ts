@@ -5,7 +5,7 @@ export const salvos0080523NeverChanging = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0080-523-never-changing",
   title: "523. Never Changing",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 80,
   ownLength: 2050,
   unitSlug: "words",

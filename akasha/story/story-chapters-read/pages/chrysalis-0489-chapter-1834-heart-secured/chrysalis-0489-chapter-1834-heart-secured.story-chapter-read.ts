@@ -5,7 +5,7 @@ export const chrysalis0489Chapter1834HeartSecured = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0489-chapter-1834-heart-secured",
   title: "Chapter 1834 - Heart Secured",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 489,
   ownLength: 922,
   unitSlug: "words",

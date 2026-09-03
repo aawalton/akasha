@@ -5,7 +5,7 @@ export const chrysalis0436Chapter1784PurityAndDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0436-chapter-1784-purity-and-darkness",
   title: "Chapter 1784 - Purity and Darkness",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 436,
   ownLength: 1156,
   unitSlug: "words",

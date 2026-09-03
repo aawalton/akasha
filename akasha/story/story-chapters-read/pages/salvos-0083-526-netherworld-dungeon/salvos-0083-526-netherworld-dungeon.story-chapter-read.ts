@@ -5,7 +5,7 @@ export const salvos0083526NetherworldDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0083-526-netherworld-dungeon",
   title: "526. Netherworld Dungeon",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 83,
   ownLength: 1660,
   unitSlug: "words",

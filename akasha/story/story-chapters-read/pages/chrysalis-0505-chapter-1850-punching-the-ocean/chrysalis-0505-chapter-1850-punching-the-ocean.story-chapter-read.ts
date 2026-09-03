@@ -5,7 +5,7 @@ export const chrysalis0505Chapter1850PunchingTheOcean = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0505-chapter-1850-punching-the-ocean",
   title: "Chapter 1850 - Punching the Ocean",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 505,
   ownLength: 917,
   unitSlug: "words",

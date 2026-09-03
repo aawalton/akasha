@@ -5,7 +5,7 @@ export const melodyOfMana0097Chapter85ReturningAndBreakingThingsDown = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0097-chapter-85-returning-and-breaking-things-down",
   title: "Chapter 85 Returning and breaking things down",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 97,
   ownLength: 2129,
   ownProgress: 2129,

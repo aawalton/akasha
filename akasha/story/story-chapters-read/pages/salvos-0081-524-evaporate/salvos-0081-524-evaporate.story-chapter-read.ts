@@ -5,7 +5,7 @@ export const salvos0081524Evaporate = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0081-524-evaporate",
   title: "524. Evaporate",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 81,
   ownLength: 2578,
   unitSlug: "words",

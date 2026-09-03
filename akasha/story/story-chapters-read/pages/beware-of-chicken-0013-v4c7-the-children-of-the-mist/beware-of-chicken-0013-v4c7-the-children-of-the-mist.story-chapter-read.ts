@@ -5,7 +5,7 @@ export const bewareOfChicken0013V4c7TheChildrenOfTheMist = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0013-v4c7-the-children-of-the-mist",
   title: "v4c7: The Children of the Mist",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 13,
   ownLength: 2406,
   ownProgress: 2406,

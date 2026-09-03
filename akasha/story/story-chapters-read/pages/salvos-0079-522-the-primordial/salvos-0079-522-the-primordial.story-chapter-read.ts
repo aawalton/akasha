@@ -5,7 +5,7 @@ export const salvos0079522ThePrimordial = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0079-522-the-primordial",
   title: "522. The Primordial",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 79,
   ownLength: 3333,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0407Chapter1755RememberMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0407-chapter-1755-remember-me",
   title: "Chapter 1755 - Remember Me?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 407,
   ownLength: 1027,
   unitSlug: "words",

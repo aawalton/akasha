@@ -5,7 +5,7 @@ export const chrysalis0405Chapter1753OutIntoTheSlimeOnceMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0405-chapter-1753-out-into-the-slime-once-more",
   title: "Chapter 1753 - Out Into the Slime Once More",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 405,
   ownLength: 1091,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0018Chapter15RodPromise = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0018-chapter-15-rod-promise",
   title: "Chapter 15 Rod- Promise",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 18,
   ownLength: 1140,
   ownProgress: 1140,

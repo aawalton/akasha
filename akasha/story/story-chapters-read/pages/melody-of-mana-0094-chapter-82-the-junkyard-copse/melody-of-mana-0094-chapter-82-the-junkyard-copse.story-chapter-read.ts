@@ -5,7 +5,7 @@ export const melodyOfMana0094Chapter82TheJunkyardCopse = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0094-chapter-82-the-junkyard-copse",
   title: "Chapter 82 The junkyard copse",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 94,
   ownLength: 2010,
   ownProgress: 2010,

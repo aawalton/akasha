@@ -5,7 +5,7 @@ export const chrysalis0448Chapter1796ReturningToTheFortress = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0448-chapter-1796-returning-to-the-fortress",
   title: "Chapter 1796 - Returning to the Fortress",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 448,
   ownLength: 1092,
   unitSlug: "words",

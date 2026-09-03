@@ -5,7 +5,7 @@ export const chrysalis0391Chapter1739SheWhoReapsTheHarvest = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0391-chapter-1739-she-who-reaps-the-harvest",
   title: "Chapter 1739 - She Who Reaps The Harvest",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 391,
   ownLength: 826,
   ownProgress: 826,

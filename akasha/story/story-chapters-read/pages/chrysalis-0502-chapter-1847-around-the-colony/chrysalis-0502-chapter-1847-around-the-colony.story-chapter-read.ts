@@ -5,7 +5,7 @@ export const chrysalis0502Chapter1847AroundTheColony = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0502-chapter-1847-around-the-colony",
   title: "Chapter 1847 - Around the Colony",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 502,
   ownLength: 1147,
   unitSlug: "words",

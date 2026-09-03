@@ -5,7 +5,7 @@ export const chrysalis0510Chapter1855GrubOutOfMind = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0510-chapter-1855-grub-out-of-mind",
   title: "Chapter 1855 - Grub Out of Mind",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 510,
   ownLength: 1128,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0392Chapter1740WhatCouldVeBeenDone = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0392-chapter-1740-what-could-ve-been-done",
   title: "Chapter 1740 - What Could’ve Been Done?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 392,
   ownLength: 1032,
   ownProgress: 1032,

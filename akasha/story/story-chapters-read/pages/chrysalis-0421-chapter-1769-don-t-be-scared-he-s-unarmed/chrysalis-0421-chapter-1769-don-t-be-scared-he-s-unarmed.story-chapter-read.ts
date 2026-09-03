@@ -5,7 +5,7 @@ export const chrysalis0421Chapter1769DonTBeScaredHeSUnarmed = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0421-chapter-1769-don-t-be-scared-he-s-unarmed",
   title: "Chapter 1769 - Don’t Be Scared, He’s Unarmed",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 421,
   ownLength: 1084,
   unitSlug: "words",

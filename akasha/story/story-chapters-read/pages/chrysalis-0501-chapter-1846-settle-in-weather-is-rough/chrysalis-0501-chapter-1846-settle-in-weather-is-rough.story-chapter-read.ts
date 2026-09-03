@@ -5,7 +5,7 @@ export const chrysalis0501Chapter1846SettleInWeatherIsRough = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0501-chapter-1846-settle-in-weather-is-rough",
   title: "Chapter 1846 - Settle in, Weather is Rough",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 501,
   ownLength: 1089,
   unitSlug: "words",

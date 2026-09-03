@@ -5,7 +5,7 @@ export const melodyOfMana0034Chapter29CitySecrets = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0034-chapter-29-city-secrets",
   title: "Chapter 29 City secrets",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 34,
   ownLength: 2086,
   ownProgress: 2086,

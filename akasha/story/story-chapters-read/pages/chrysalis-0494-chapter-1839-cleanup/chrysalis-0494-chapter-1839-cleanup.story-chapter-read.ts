@@ -5,7 +5,7 @@ export const chrysalis0494Chapter1839Cleanup = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0494-chapter-1839-cleanup",
   title: "Chapter 1839 -  Cleanup",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 494,
   ownLength: 935,
   unitSlug: "words",

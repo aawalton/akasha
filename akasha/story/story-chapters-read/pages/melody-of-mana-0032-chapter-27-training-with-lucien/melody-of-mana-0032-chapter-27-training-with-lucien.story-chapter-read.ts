@@ -5,7 +5,7 @@ export const melodyOfMana0032Chapter27TrainingWithLucien = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0032-chapter-27-training-with-lucien",
   title: "Chapter 27 Training with Lucien",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 32,
   ownLength: 2290,
   ownProgress: 2290,

@@ -5,7 +5,7 @@ export const chrysalis0485Chapter1830SongOfTheSnail = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0485-chapter-1830-song-of-the-snail",
   title: "Chapter 1830 -  Song of the Snail",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 485,
   ownLength: 851,
   unitSlug: "words",

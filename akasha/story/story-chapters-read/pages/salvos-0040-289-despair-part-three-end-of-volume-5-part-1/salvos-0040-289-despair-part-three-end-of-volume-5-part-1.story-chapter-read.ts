@@ -5,7 +5,7 @@ export const salvos0040289DespairPartThreeEndOfVolume5Part1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0040-289-despair-part-three-end-of-volume-5-part-1",
   title: "289. Despair Part Three (End of Volume 5 Part 1)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 40,
   ownLength: 3094,
   unitSlug: "words",

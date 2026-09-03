@@ -5,7 +5,7 @@ export const salvos00031Rocks = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0003-1-rocks",
   title: "1. Rocks",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 3,
   ownLength: 2058,
   unitSlug: "words",

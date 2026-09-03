@@ -5,7 +5,7 @@ export const chrysalis0504Chapter1849GrowingFame = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0504-chapter-1849-growing-fame",
   title: "Chapter 1849 - Growing Fame",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 504,
   ownLength: 1103,
   unitSlug: "words",

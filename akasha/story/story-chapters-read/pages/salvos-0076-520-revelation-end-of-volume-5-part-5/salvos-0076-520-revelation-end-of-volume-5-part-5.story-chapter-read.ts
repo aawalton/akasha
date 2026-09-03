@@ -5,7 +5,7 @@ export const salvos0076520RevelationEndOfVolume5Part5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0076-520-revelation-end-of-volume-5-part-5",
   title: "520. Revelation (End of Volume 5 Part 5)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 76,
   ownLength: 667,
   unitSlug: "words",

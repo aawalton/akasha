@@ -5,7 +5,7 @@ export const melodyOfMana0027SideStory5VeskaEmergencyMeeting = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0027-side-story-5-veska-emergency-meeting",
   title: "Side Story 5 Veska Emergency meeting",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 27,
   ownLength: 1518,
   ownProgress: 1518,

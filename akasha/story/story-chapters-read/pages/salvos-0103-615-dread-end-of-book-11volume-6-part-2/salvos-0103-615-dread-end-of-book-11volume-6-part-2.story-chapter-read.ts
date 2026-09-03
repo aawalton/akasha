@@ -5,7 +5,7 @@ export const salvos0103615DreadEndOfBook11volume6Part2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0103-615-dread-end-of-book-11volume-6-part-2",
   title: "615. Dread (End of Book 11/Volume 6 Part 2)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 103,
   ownLength: 1380,
   unitSlug: "words",

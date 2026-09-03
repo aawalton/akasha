@@ -5,7 +5,7 @@ export const chrysalis0463Chapter1809TheStickiestMuck = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0463-chapter-1809-the-stickiest-muck",
   title: "Chapter 1809 - The Stickiest Muck",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 463,
   ownLength: 1004,
   unitSlug: "words",

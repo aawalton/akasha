@@ -5,7 +5,7 @@ export const melodyOfMana0126Chapter113TermsOfAmnesty = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0126-chapter-113-terms-of-amnesty",
   title: "Chapter 113 Terms of Amnesty",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 126,
   ownLength: 2400,
   ownProgress: 2400,

@@ -5,7 +5,7 @@ export const salvos0042SalvosVolume5Part1CorruptionAndCentinelsIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0042-salvos-volume-5-part-1-corruption-and-centinels-is",
   title: "Salvos Volume 5 Part 1: Corruption and Centinels is now available on Amazon!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 42,
   ownLength: 115,
   unitSlug: "words",

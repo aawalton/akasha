@@ -5,7 +5,7 @@ export const chrysalis0452ChrysalisMerchAndGiveaway = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0452-chrysalis-merch-and-giveaway",
   title: "Chrysalis Merch and Giveaway!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 452,
   ownLength: 58,
   unitSlug: "words",

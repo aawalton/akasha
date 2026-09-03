@@ -5,7 +5,7 @@ export const chrysalis0442Chapter1790EmergencyEvac = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0442-chapter-1790-emergency-evac",
   title: "Chapter 1790 - Emergency Evac",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 442,
   ownLength: 999,
   unitSlug: "words",

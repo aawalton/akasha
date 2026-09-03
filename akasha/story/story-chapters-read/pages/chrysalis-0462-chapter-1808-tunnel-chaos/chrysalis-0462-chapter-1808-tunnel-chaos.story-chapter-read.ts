@@ -5,7 +5,7 @@ export const chrysalis0462Chapter1808TunnelChaos = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0462-chapter-1808-tunnel-chaos",
   title: "Chapter 1808 - Tunnel Chaos",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 462,
   ownLength: 793,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0419Chapter1767TheDeepTunnels = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0419-chapter-1767-the-deep-tunnels",
   title: "Chapter 1767 - The Deep Tunnels",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 419,
   ownLength: 1036,
   unitSlug: "words",

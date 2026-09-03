@@ -5,7 +5,7 @@ export const melodyOfMana0012Chapter10Desperation = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0012-chapter-10-desperation",
   title: "Chapter 10 Desperation",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 12,
   ownLength: 2498,
   ownProgress: 2498,

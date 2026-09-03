@@ -5,7 +5,7 @@ export const melodyOfMana0085Chapter74TheDeanSOffice = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0085-chapter-74-the-dean-s-office",
   title: "Chapter 74 The Dean's office",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 85,
   ownLength: 2021,
   ownProgress: 2021,

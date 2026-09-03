@@ -5,7 +5,7 @@ export const bewareOfChicken0024V4c16AcrossTheGrassSea = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0024-v4c16-across-the-grass-sea",
   title: "v4c16: Across the Grass Sea",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 24,
   ownLength: 1667,
   ownProgress: 1667,

@@ -5,7 +5,7 @@ export const chrysalis0390Chapter1738ASmashingGoodTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0390-chapter-1738-a-smashing-good-time",
   title: "Chapter 1738 - A Smashing Good Time",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 390,
   ownLength: 939,
   ownProgress: 939,

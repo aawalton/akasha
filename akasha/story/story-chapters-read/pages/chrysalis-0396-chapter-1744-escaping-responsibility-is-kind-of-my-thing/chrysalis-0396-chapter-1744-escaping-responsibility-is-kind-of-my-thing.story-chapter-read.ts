@@ -5,7 +5,7 @@ export const chrysalis0396Chapter1744EscapingResponsibilityIsKindOfMyThing = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0396-chapter-1744-escaping-responsibility-is-kind-of-my-thing",
   title: "Chapter 1744 - Escaping Responsibility Is… Kind of My Thing",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 396,
   ownLength: 1061,
   ownProgress: 1061,

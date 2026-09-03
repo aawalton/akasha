@@ -5,7 +5,7 @@ export const salvos0006ContinueReadingSalvosOnAmazonKu = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0006-continue-reading-salvos-on-amazon-ku",
   title: "Continue reading Salvos on Amazon KU",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 6,
   ownLength: 68,
   unitSlug: "words",

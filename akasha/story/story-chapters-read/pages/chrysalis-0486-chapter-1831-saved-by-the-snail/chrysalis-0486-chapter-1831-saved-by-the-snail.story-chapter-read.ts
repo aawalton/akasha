@@ -5,7 +5,7 @@ export const chrysalis0486Chapter1831SavedByTheSnail = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0486-chapter-1831-saved-by-the-snail",
   title: "Chapter 1831 -  Saved By the Snail",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 486,
   ownLength: 909,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0454Chapter1801MerchantMerchantIng = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0454-chapter-1801-merchant-merchant-ing",
   title: "Chapter 1801 - Merchant, Merchant-ing",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 454,
   ownLength: 1041,
   unitSlug: "words",

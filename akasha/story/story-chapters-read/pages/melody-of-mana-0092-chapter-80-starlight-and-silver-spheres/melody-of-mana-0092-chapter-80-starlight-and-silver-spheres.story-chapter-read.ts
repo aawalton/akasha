@@ -5,7 +5,7 @@ export const melodyOfMana0092Chapter80StarlightAndSilverSpheres = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0092-chapter-80-starlight-and-silver-spheres",
   title: "Chapter 80 Starlight and silver spheres",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 92,
   ownLength: 2037,
   ownProgress: 2037,

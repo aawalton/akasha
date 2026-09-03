@@ -5,7 +5,7 @@ export const chrysalis0467Chapter1813Religion = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0467-chapter-1813-religion",
   title: "Chapter 1813 - Religion",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 467,
   ownLength: 854,
   unitSlug: "words",

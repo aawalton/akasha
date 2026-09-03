@@ -5,7 +5,7 @@ export const salvos0041290InterludeSaffronsSaviorPartOneStartOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0041-290-interlude-saffrons-savior-part-one-start-of",
   title: "290. Interlude - Saffron's Savior Part One (Start of Volume 5 Part 2)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 41,
   ownLength: 2311,
   unitSlug: "words",

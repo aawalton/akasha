@@ -5,7 +5,7 @@ export const melodyOfMana0005SideStory1JacksonInTown = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0005-side-story-1-jackson-in-town",
   title: "Side Story 1 Jackson in town",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 5,
   ownLength: 948,
   ownProgress: 948,

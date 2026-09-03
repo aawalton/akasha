@@ -5,7 +5,7 @@ export const chrysalis0508Chapter1853AuspiciousHatching = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0508-chapter-1853-auspicious-hatching",
   title: "Chapter 1853 - Auspicious Hatching",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 508,
   ownLength: 969,
   unitSlug: "words",

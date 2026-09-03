@@ -5,7 +5,7 @@ export const melodyOfMana0035Chapter30IntoTheDepths = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0035-chapter-30-into-the-depths",
   title: "Chapter 30 Into the 'depths'",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 35,
   ownLength: 2352,
   ownProgress: 2352,

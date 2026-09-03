@@ -5,7 +5,7 @@ export const melodyOfMana0114Writathon = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0114-writathon",
   title: "Writathon",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 114,
   ownLength: 102,
   ownProgress: 102,

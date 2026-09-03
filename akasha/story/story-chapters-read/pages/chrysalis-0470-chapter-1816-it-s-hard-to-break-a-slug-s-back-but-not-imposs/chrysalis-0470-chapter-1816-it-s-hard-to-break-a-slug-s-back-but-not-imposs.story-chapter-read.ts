@@ -5,7 +5,7 @@ export const chrysalis0470Chapter1816ItSHardToBreakASlugSBackButNotImposs = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0470-chapter-1816-it-s-hard-to-break-a-slug-s-back-but-not-imposs",
   title: "Chapter 1816 - It's Hard to Break a Slug's Back, But Not Impossible",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 470,
   ownLength: 1054,
   unitSlug: "words",

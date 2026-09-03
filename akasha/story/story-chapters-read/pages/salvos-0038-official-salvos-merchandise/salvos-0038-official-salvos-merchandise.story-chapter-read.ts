@@ -5,7 +5,7 @@ export const salvos0038OfficialSalvosMerchandise = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0038-official-salvos-merchandise",
   title: "Official Salvos Merchandise!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 38,
   ownLength: 216,
   unitSlug: "words",

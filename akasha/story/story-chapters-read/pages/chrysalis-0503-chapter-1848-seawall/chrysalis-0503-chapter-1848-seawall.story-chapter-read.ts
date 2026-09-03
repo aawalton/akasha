@@ -5,7 +5,7 @@ export const chrysalis0503Chapter1848Seawall = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0503-chapter-1848-seawall",
   title: "Chapter 1848 - Seawall",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 503,
   ownLength: 1021,
   unitSlug: "words",

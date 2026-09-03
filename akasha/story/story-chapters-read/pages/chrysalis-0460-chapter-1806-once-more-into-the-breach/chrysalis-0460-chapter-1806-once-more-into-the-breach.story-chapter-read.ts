@@ -5,7 +5,7 @@ export const chrysalis0460Chapter1806OnceMoreIntoTheBreach = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0460-chapter-1806-once-more-into-the-breach",
   title: "Chapter 1806 - Once More Into the Breach",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 460,
   ownLength: 1044,
   unitSlug: "words",

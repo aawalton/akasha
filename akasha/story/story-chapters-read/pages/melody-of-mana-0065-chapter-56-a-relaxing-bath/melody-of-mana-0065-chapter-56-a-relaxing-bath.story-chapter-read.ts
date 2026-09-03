@@ -5,7 +5,7 @@ export const melodyOfMana0065Chapter56ARelaxingBath = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0065-chapter-56-a-relaxing-bath",
   title: "Chapter 56 A relaxing bath",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 65,
   ownLength: 2058,
   ownProgress: 2058,

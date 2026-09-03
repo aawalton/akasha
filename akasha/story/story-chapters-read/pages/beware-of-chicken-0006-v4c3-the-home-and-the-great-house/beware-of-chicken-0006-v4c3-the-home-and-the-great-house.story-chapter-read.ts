@@ -5,7 +5,7 @@ export const bewareOfChicken0006V4c3TheHomeAndTheGreatHouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0006-v4c3-the-home-and-the-great-house",
   title: "v4c3: The Home, and The Great House",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 6,
   ownLength: 2304,
   ownProgress: 2304,

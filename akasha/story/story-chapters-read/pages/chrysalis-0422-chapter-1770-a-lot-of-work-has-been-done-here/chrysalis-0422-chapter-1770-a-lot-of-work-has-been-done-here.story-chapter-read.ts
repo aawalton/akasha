@@ -5,7 +5,7 @@ export const chrysalis0422Chapter1770ALotOfWorkHasBeenDoneHere = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0422-chapter-1770-a-lot-of-work-has-been-done-here",
   title: "Chapter 1770 - A Lot of Work has Been Done Here",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 422,
   ownLength: 1147,
   unitSlug: "words",

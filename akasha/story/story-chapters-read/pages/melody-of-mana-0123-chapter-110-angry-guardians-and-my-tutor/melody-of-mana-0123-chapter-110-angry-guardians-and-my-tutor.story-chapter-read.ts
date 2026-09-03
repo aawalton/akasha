@@ -5,7 +5,7 @@ export const melodyOfMana0123Chapter110AngryGuardiansAndMyTutor = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0123-chapter-110-angry-guardians-and-my-tutor",
   title: "Chapter 110 Angry Guardians and My Tutor",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 123,
   ownLength: 2028,
   ownProgress: 2028,

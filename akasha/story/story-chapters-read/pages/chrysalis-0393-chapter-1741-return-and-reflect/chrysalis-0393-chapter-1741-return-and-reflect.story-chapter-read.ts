@@ -5,7 +5,7 @@ export const chrysalis0393Chapter1741ReturnAndReflect = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0393-chapter-1741-return-and-reflect",
   title: "Chapter 1741 - Return and Reflect",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 393,
   ownLength: 1043,
   ownProgress: 1043,

@@ -5,7 +5,7 @@ export const melodyOfMana0115Chapter102Proclamation = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0115-chapter-102-proclamation",
   title: "Chapter 102 Proclamation",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 115,
   ownLength: 1868,
   ownProgress: 1868,

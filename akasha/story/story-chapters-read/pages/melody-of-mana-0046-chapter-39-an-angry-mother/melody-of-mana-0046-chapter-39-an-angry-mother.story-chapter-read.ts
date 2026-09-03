@@ -5,7 +5,7 @@ export const melodyOfMana0046Chapter39AnAngryMother = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0046-chapter-39-an-angry-mother",
   title: "Chapter 39 An angry mother",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 46,
   ownLength: 1989,
   ownProgress: 1989,

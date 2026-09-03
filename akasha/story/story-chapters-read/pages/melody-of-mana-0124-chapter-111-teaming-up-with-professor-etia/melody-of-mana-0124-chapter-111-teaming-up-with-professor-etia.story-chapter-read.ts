@@ -5,7 +5,7 @@ export const melodyOfMana0124Chapter111TeamingUpWithProfessorEtia = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0124-chapter-111-teaming-up-with-professor-etia",
   title: "Chapter 111 Teaming Up With Professor Etia",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 124,
   ownLength: 2067,
   ownProgress: 2067,

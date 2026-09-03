@@ -5,7 +5,7 @@ export const melodyOfMana0106Chapter94TeacherConferencesAndFuturePlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0106-chapter-94-teacher-conferences-and-future-plans",
   title: "Chapter 94 Teacher Conferences and Future Plans",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 106,
   ownLength: 2001,
   ownProgress: 2001,

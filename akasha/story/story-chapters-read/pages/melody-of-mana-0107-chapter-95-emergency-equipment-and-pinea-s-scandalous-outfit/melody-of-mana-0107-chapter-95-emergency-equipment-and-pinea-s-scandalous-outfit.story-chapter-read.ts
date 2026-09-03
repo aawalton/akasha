@@ -5,7 +5,7 @@ export const melodyOfMana0107Chapter95EmergencyEquipmentAndPineaSScandalousOutfi
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0107-chapter-95-emergency-equipment-and-pinea-s-scandalous-outfit",
   title: "Chapter 95 Emergency Equipment and Pinea's Scandalous Outfit",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 107,
   ownLength: 2185,
   ownProgress: 2185,

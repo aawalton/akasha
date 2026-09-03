@@ -5,7 +5,7 @@ export const chrysalis0434Chapter1782ThatSJustNasty = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0434-chapter-1782-that-s-just-nasty",
   title: "Chapter 1782 - That’s Just Nasty",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 434,
   ownLength: 988,
   unitSlug: "words",

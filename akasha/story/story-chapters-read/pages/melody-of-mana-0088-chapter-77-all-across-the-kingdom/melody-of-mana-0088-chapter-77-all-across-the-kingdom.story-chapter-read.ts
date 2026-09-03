@@ -5,7 +5,7 @@ export const melodyOfMana0088Chapter77AllAcrossTheKingdom = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0088-chapter-77-all-across-the-kingdom",
   title: "Chapter 77 All across the Kingdom",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 88,
   ownLength: 957,
   ownProgress: 957,

@@ -5,7 +5,7 @@ export const melodyOfMana0026Chapter22WorkAndTraining = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0026-chapter-22-work-and-training",
   title: "Chapter 22 Work and training",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 26,
   ownLength: 2361,
   ownProgress: 2361,

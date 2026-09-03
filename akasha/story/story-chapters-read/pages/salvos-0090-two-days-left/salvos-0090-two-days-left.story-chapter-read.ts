@@ -5,7 +5,7 @@ export const salvos0090TwoDaysLeft = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0090-two-days-left",
   title: "TWO DAYS LEFT",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 90,
   ownLength: 41,
   unitSlug: "words",

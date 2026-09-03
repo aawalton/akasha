@@ -5,7 +5,7 @@ export const melodyOfMana0091Chapter79SellingTheSecret = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0091-chapter-79-selling-the-secret",
   title: "Chapter 79 Selling the secret",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 91,
   ownLength: 2047,
   ownProgress: 2047,

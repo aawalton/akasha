@@ -5,7 +5,7 @@ export const bewareOfChicken0002Chapter2RiceFarming101 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0002-chapter-2-rice-farming-101",
   title: "Chapter 2: Rice Farming 101",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 2,
   ownLength: 1288,
   ownProgress: 1288,

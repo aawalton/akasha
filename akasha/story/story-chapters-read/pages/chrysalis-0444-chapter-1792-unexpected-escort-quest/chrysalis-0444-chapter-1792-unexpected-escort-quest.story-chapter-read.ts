@@ -5,7 +5,7 @@ export const chrysalis0444Chapter1792UnexpectedEscortQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0444-chapter-1792-unexpected-escort-quest",
   title: "Chapter 1792 - Unexpected Escort Quest",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 444,
   ownLength: 932,
   unitSlug: "words",

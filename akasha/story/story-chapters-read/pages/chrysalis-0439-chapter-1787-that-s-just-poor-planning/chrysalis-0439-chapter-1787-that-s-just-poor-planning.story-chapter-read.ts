@@ -5,7 +5,7 @@ export const chrysalis0439Chapter1787ThatSJustPoorPlanning = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0439-chapter-1787-that-s-just-poor-planning",
   title: "Chapter 1787 - That’s Just Poor Planning",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 439,
   ownLength: 1002,
   unitSlug: "words",

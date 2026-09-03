@@ -5,7 +5,7 @@ export const salvos0039288DespairPartTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0039-288-despair-part-two",
   title: "288. Despair Part Two",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 39,
   ownLength: 2143,
   unitSlug: "words",

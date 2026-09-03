@@ -5,7 +5,7 @@ export const salvos0085ApparentlyIHaveASalvosWikiComicPreview = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0085-apparently-i-have-a-salvos-wiki-comic-preview",
   title: "Apparently, I have a Salvos wiki + Comic Preview",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 85,
   ownLength: 43,
   unitSlug: "words",

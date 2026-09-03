@@ -5,7 +5,7 @@ export const melodyOfMana0118Chapter105TheVine = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0118-chapter-105-the-vine",
   title: "Chapter 105 The Vine",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 118,
   ownLength: 1954,
   ownProgress: 1954,

@@ -5,7 +5,7 @@ export const bewareOfChicken0022V4c14HouseParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0022-v4c14-house-party",
   title: "v4c14: House Party",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 22,
   ownLength: 2303,
   ownProgress: 2303,

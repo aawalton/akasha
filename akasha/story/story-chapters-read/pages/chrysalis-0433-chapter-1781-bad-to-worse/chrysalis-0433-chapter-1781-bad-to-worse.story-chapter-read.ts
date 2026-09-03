@@ -5,7 +5,7 @@ export const chrysalis0433Chapter1781BadToWorse = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0433-chapter-1781-bad-to-worse",
   title: "Chapter 1781 - Bad to Worse",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 433,
   ownLength: 1032,
   unitSlug: "words",

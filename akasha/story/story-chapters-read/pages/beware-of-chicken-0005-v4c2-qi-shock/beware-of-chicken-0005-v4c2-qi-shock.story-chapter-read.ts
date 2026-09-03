@@ -5,7 +5,7 @@ export const bewareOfChicken0005V4c2QiShock = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0005-v4c2-qi-shock",
   title: "v4c2: Qi Shock",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 5,
   ownLength: 2167,
   ownProgress: 2167,

@@ -5,7 +5,7 @@ export const chrysalis0480Chapter1826SurfSUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0480-chapter-1826-surf-s-up",
   title: "Chapter 1826 -  Surf’s Up",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 480,
   ownLength: 890,
   unitSlug: "words",

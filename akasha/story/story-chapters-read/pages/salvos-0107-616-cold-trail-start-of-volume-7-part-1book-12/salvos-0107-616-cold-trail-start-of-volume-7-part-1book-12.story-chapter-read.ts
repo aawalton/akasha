@@ -5,7 +5,7 @@ export const salvos0107616ColdTrailStartOfVolume7Part1book12 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0107-616-cold-trail-start-of-volume-7-part-1book-12",
   title: "616. Cold Trail (Start of Volume 7 Part 1/Book 12)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 107,
   ownLength: 1609,
   unitSlug: "words",

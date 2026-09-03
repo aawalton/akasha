@@ -5,7 +5,7 @@ export const chrysalis0446Chapter1794FuriousFungi = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0446-chapter-1794-furious-fungi",
   title: "Chapter 1794 - Furious Fungi",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 446,
   ownLength: 1001,
   unitSlug: "words",

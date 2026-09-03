@@ -5,7 +5,7 @@ export const chrysalis0506Chapter1851CursedDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0506-chapter-1851-cursed-darkness",
   title: "Chapter 1851 - Cursed Darkness",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 506,
   ownLength: 1283,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0030Chapter25BorderCrossings = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0030-chapter-25-border-crossings",
   title: "Chapter 25 Border crossings",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 30,
   ownLength: 2028,
   ownProgress: 2028,

@@ -5,7 +5,7 @@ export const chrysalis0412Chapter1760LostTreasure = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0412-chapter-1760-lost-treasure",
   title: "Chapter 1760 - Lost Treasure",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 412,
   ownLength: 1012,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0022Chapter18TheOrphanage = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0022-chapter-18-the-orphanage",
   title: "Chapter 18 The orphanage",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 22,
   ownLength: 1987,
   ownProgress: 1987,

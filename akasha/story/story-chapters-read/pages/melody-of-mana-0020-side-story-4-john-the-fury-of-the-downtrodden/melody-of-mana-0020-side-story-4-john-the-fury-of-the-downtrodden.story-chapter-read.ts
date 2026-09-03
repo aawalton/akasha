@@ -5,7 +5,7 @@ export const melodyOfMana0020SideStory4JohnTheFuryOfTheDowntrodden = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0020-side-story-4-john-the-fury-of-the-downtrodden",
   title: "Side Story 4 John The fury of the downtrodden",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 20,
   ownLength: 3034,
   ownProgress: 3034,

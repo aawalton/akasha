@@ -5,7 +5,7 @@ export const chrysalis0441Chapter1789ADisturbanceInTheSludge = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0441-chapter-1789-a-disturbance-in-the-sludge",
   title: "Chapter 1789 - A Disturbance in the Sludge",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 441,
   ownLength: 1327,
   unitSlug: "words",

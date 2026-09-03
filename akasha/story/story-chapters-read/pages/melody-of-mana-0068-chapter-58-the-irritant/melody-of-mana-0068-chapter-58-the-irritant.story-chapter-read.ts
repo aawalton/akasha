@@ -5,7 +5,7 @@ export const melodyOfMana0068Chapter58TheIrritant = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0068-chapter-58-the-irritant",
   title: "Chapter 58 The irritant",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 68,
   ownLength: 2266,
   ownProgress: 2266,

@@ -5,7 +5,7 @@ export const salvos0014103Compromising = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0014-103-compromising",
   title: "103. Compromising!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 14,
   ownLength: 2240,
   unitSlug: "words",

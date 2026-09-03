@@ -5,7 +5,7 @@ export const bewareOfChicken0001Chapter1HeBravelyTurnedHisTailAndFled = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0001-chapter-1-he-bravely-turned-his-tail-and-fled",
   title: "Chapter 1: He Bravely Turned His Tail and Fled",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 1,
   ownLength: 2107,
   ownProgress: 2107,

@@ -5,7 +5,7 @@ export const melodyOfMana0017Chapter14DroughtAndOncomingFamine = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0017-chapter-14-drought-and-oncoming-famine",
   title: "Chapter 14 Drought and oncoming famine",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 17,
   ownLength: 2759,
   ownProgress: 2759,

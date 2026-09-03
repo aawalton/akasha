@@ -5,7 +5,7 @@ export const melodyOfMana0015Chapter13ColdShouldersAndFreedom = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0015-chapter-13-cold-shoulders-and-freedom",
   title: "Chapter 13 Cold shoulders and freedom",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 15,
   ownLength: 2415,
   ownProgress: 2415,

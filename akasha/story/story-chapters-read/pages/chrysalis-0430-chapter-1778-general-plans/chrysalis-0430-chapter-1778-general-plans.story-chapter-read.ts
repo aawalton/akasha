@@ -5,7 +5,7 @@ export const chrysalis0430Chapter1778GeneralPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0430-chapter-1778-general-plans",
   title: "Chapter 1778 - General Plans",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 430,
   ownLength: 1050,
   unitSlug: "words",

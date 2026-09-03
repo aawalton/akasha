@@ -5,7 +5,7 @@ export const chrysalis0456Chapter1803NewReality = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0456-chapter-1803-new-reality",
   title: "Chapter 1803 - New Reality",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 456,
   ownLength: 1105,
   unitSlug: "words",

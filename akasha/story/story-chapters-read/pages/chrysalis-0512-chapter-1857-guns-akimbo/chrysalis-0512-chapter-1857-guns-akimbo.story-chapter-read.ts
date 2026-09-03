@@ -5,7 +5,7 @@ export const chrysalis0512Chapter1857GunsAkimbo = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0512-chapter-1857-guns-akimbo",
   title: "Chapter 1857 - Guns Akimbo",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 512,
   ownLength: 881,
   unitSlug: "words",

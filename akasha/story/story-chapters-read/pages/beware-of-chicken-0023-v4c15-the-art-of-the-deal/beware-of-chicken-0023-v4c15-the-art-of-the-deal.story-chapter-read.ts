@@ -5,7 +5,7 @@ export const bewareOfChicken0023V4c15TheArtOfTheDeal = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0023-v4c15-the-art-of-the-deal",
   title: "v4c15: The Art of the Deal",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 23,
   ownLength: 1529,
   ownProgress: 1529,

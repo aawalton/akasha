@@ -5,7 +5,7 @@ export const chrysalis0471Chapter1817AirWays = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0471-chapter-1817-air-ways",
   title: "Chapter 1817 - Air Ways",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 471,
   ownLength: 1172,
   unitSlug: "words",

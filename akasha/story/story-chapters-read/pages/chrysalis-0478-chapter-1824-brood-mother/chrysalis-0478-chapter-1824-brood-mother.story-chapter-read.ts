@@ -5,7 +5,7 @@ export const chrysalis0478Chapter1824BroodMother = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0478-chapter-1824-brood-mother",
   title: "Chapter 1824 -  Brood Mother",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 478,
   ownLength: 991,
   unitSlug: "words",

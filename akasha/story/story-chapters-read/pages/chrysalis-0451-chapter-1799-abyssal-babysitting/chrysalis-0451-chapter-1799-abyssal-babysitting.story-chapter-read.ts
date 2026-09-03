@@ -5,7 +5,7 @@ export const chrysalis0451Chapter1799AbyssalBabysitting = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0451-chapter-1799-abyssal-babysitting",
   title: "Chapter 1799 - Abyssal Babysitting",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 451,
   ownLength: 1099,
   unitSlug: "words",

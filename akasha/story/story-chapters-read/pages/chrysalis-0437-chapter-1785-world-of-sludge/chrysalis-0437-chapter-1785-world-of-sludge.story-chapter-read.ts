@@ -5,7 +5,7 @@ export const chrysalis0437Chapter1785WorldOfSludge = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0437-chapter-1785-world-of-sludge",
   title: "Chapter 1785 - World of Sludge",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 437,
   ownLength: 874,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0011100ContractEndOfVolume2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0011-100-contract-end-of-volume-2",
   title: "100. Contract (End of Volume 2)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 11,
   ownLength: 3627,
   unitSlug: "words",

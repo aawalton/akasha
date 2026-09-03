@@ -5,7 +5,7 @@ export const chrysalis0395Chapter1743Prophetic = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0395-chapter-1743-prophetic",
   title: "Chapter 1743 - Prophetic",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 395,
   ownLength: 1006,
   ownProgress: 1006,

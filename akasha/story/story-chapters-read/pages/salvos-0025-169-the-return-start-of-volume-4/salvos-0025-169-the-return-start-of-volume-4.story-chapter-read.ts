@@ -5,7 +5,7 @@ export const salvos0025169TheReturnStartOfVolume4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0025-169-the-return-start-of-volume-4",
   title: "169. The Return (Start of Volume 4)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 25,
   ownLength: 2108,
   unitSlug: "words",

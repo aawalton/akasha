@@ -5,7 +5,7 @@ export const salvos0065435SoHeLivesEndOfVolume5Part4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0065-435-so-he-lives-end-of-volume-5-part-4",
   title: "435. So He Lives (End of Volume 5 Part 4)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 65,
   ownLength: 1797,
   unitSlug: "words",

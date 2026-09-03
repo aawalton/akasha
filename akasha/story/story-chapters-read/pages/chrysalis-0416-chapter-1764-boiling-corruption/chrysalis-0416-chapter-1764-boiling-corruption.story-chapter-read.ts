@@ -5,7 +5,7 @@ export const chrysalis0416Chapter1764BoilingCorruption = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0416-chapter-1764-boiling-corruption",
   title: "Chapter 1764 - Boiling Corruption",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 416,
   ownLength: 961,
   unitSlug: "words",

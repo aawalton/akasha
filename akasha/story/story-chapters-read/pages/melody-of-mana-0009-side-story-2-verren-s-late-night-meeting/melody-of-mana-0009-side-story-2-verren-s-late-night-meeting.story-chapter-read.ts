@@ -5,7 +5,7 @@ export const melodyOfMana0009SideStory2VerrenSLateNightMeeting = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0009-side-story-2-verren-s-late-night-meeting",
   title: "Side Story 2 Verren's late night meeting",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 9,
   ownLength: 896,
   ownProgress: 896,

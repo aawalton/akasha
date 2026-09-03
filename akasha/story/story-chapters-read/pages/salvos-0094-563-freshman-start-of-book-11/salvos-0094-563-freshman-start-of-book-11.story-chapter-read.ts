@@ -5,7 +5,7 @@ export const salvos0094563FreshmanStartOfBook11 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0094-563-freshman-start-of-book-11",
   title: "563. Freshman (Start of Book 11)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 94,
   ownLength: 1629,
   unitSlug: "words",

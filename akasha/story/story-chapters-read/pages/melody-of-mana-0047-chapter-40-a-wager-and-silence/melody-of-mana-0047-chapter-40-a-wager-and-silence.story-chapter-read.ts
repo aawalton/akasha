@@ -5,7 +5,7 @@ export const melodyOfMana0047Chapter40AWagerAndSilence = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0047-chapter-40-a-wager-and-silence",
   title: "Chapter 40 A wager and silence",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 47,
   ownLength: 2092,
   ownProgress: 2092,

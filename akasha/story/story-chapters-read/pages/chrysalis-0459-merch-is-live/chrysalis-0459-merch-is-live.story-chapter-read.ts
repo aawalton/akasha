@@ -5,7 +5,7 @@ export const chrysalis0459MerchIsLive = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0459-merch-is-live",
   title: "MERCH IS LIVE",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 459,
   ownLength: 602,
   unitSlug: "words",

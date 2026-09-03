@@ -5,7 +5,7 @@ export const melodyOfMana0090Chapter78EmergencyPoliciesAndCoreDiving = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0090-chapter-78-emergency-policies-and-core-diving",
   title: "Chapter 78 Emergency policies and core diving",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 90,
   ownLength: 2129,
   ownProgress: 2129,

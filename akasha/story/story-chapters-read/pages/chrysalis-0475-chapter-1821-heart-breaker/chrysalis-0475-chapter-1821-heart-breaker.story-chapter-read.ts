@@ -5,7 +5,7 @@ export const chrysalis0475Chapter1821HeartBreaker = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0475-chapter-1821-heart-breaker",
   title: "Chapter 1821 - Heart Breaker",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 475,
   ownLength: 969,
   unitSlug: "words",

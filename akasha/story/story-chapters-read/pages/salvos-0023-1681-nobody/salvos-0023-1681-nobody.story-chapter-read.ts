@@ -5,7 +5,7 @@ export const salvos00231681Nobody = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0023-1681-nobody",
   title: "168.1. Nobody",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 23,
   ownLength: 2158,
   unitSlug: "words",

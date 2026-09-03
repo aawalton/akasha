@@ -5,7 +5,7 @@ export const salvos0059SalvosWebtoonPreEmptiveAnnouncementPatreon = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0059-salvos-webtoon-pre-emptive-announcement-patreon",
   title: "SALVOS WEBTOON (pre-emptive) ANNOUNCEMENT + Patreon tier updates",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 59,
   ownLength: 1076,
   unitSlug: "words",

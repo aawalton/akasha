@@ -5,7 +5,7 @@ export const salvos0123717Insanity = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0123-717-insanity",
   title: "717. Insanity",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 123,
   ownLength: 1457,
   unitSlug: "words",

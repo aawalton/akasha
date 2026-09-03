@@ -5,7 +5,7 @@ export const melodyOfMana0110Chapter98TheCalm = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0110-chapter-98-the-calm",
   title: "Chapter 98 The Calm",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 110,
   ownLength: 1789,
   ownProgress: 1789,

@@ -5,7 +5,7 @@ export const salvos0108660ExpandingDomain = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0108-660-expanding-domain",
   title: "660. Expanding Domain",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 108,
   ownLength: 1570,
   unitSlug: "words",

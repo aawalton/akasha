@@ -5,7 +5,7 @@ export const chrysalis0413Chapter1761ElixirOfLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0413-chapter-1761-elixir-of-life",
   title: "Chapter 1761 - Elixir of Life",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 413,
   ownLength: 901,
   unitSlug: "words",

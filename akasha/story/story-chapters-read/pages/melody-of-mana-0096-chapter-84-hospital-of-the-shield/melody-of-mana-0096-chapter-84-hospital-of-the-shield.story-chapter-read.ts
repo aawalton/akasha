@@ -5,7 +5,7 @@ export const melodyOfMana0096Chapter84HospitalOfTheShield = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0096-chapter-84-hospital-of-the-shield",
   title: "Chapter 84 Hospital of The Shield",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 96,
   ownLength: 2099,
   ownProgress: 2099,

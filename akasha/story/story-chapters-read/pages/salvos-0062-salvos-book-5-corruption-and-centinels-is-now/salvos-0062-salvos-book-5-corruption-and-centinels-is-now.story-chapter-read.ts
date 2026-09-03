@@ -5,7 +5,7 @@ export const salvos0062SalvosBook5CorruptionAndCentinelsIsNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0062-salvos-book-5-corruption-and-centinels-is-now",
   title: "Salvos Book 5: Corruption and Centinels is now available on the audible store!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 62,
   ownLength: 93,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0034245NightsveilPart5EndOfVolume4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0034-245-nightsveil-part-5-end-of-volume-4",
   title: "245. Nightsveil Part 5 (End of Volume 4)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 34,
   ownLength: 2949,
   unitSlug: "words",

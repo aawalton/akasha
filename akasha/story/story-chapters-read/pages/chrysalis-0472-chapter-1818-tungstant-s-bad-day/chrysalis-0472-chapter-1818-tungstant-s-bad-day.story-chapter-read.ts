@@ -5,7 +5,7 @@ export const chrysalis0472Chapter1818TungstantSBadDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0472-chapter-1818-tungstant-s-bad-day",
   title: "Chapter 1818 - Tungstant's Bad Day",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 472,
   ownLength: 1100,
   unitSlug: "words",

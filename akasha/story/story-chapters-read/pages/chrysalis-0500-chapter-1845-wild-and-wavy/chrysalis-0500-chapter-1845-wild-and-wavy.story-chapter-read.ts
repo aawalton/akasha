@@ -5,7 +5,7 @@ export const chrysalis0500Chapter1845WildAndWavy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0500-chapter-1845-wild-and-wavy",
   title: "Chapter 1845 - Wild and Wavy",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 500,
   ownLength: 928,
   unitSlug: "words",

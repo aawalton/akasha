@@ -5,7 +5,7 @@ export const salvos0071SalvosBook9 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0071-salvos-book-9",
   title: "Salvos Book 9: Hellprincessesssseessesesssessesesessesesssessssesssesess is out",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 71,
   ownLength: 94,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0116668MysticalAssassinEndOfBook12 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0116-668-mystical-assassin-end-of-book-12",
   title: "668. Mystical Assassin (End of Book 12)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 116,
   ownLength: 1324,
   unitSlug: "words",

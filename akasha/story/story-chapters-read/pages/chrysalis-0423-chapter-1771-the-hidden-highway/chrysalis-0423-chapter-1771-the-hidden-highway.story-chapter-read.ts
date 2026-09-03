@@ -5,7 +5,7 @@ export const chrysalis0423Chapter1771TheHiddenHighway = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0423-chapter-1771-the-hidden-highway",
   title: "Chapter 1771 - The Hidden Highway",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 423,
   ownLength: 981,
   unitSlug: "words",

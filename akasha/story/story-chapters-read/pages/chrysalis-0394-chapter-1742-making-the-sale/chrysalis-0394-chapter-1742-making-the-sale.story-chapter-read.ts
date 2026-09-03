@@ -5,7 +5,7 @@ export const chrysalis0394Chapter1742MakingTheSale = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0394-chapter-1742-making-the-sale",
   title: "Chapter 1742 - Making the Sale",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 394,
   ownLength: 1055,
   ownProgress: 1055,

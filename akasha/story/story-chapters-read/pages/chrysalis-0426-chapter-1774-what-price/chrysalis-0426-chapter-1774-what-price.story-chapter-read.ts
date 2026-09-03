@@ -5,7 +5,7 @@ export const chrysalis0426Chapter1774WhatPrice = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0426-chapter-1774-what-price",
   title: "Chapter 1774 - What Price?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 426,
   ownLength: 1017,
   unitSlug: "words",

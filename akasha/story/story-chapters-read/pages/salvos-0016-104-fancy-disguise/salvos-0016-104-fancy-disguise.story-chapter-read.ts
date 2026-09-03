@@ -5,7 +5,7 @@ export const salvos0016104FancyDisguise = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0016-104-fancy-disguise",
   title: "104. Fancy Disguise",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 16,
   ownLength: 3728,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0017105Heathens = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0017-105-heathens",
   title: "105. Heathens",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 17,
   ownLength: 2174,
   unitSlug: "words",

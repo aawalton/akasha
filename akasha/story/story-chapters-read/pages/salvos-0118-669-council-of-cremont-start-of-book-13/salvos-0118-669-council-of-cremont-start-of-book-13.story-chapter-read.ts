@@ -5,7 +5,7 @@ export const salvos0118669CouncilOfCremontStartOfBook13 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0118-669-council-of-cremont-start-of-book-13",
   title: "669. Council of Cremont (Start of Book 13)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 118,
   ownLength: 2192,
   unitSlug: "words",

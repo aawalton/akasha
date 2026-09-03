@@ -5,7 +5,7 @@ export const melodyOfMana0102Chapter90EndelSIdeaOfTherapy = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0102-chapter-90-endel-s-idea-of-therapy",
   title: "Chapter 90 Endel's Idea of Therapy",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 102,
   ownLength: 2253,
   ownProgress: 2253,

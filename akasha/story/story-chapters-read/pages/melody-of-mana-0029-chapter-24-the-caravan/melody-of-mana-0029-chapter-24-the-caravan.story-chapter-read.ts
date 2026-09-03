@@ -5,7 +5,7 @@ export const melodyOfMana0029Chapter24TheCaravan = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0029-chapter-24-the-caravan",
   title: "Chapter 24 The caravan",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 29,
   ownLength: 2469,
   ownProgress: 2469,

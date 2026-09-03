@@ -5,7 +5,7 @@ export const melodyOfMana0050Chapter43TheExam = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0050-chapter-43-the-exam",
   title: "Chapter 43 The Exam",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 50,
   ownLength: 2278,
   ownProgress: 2278,

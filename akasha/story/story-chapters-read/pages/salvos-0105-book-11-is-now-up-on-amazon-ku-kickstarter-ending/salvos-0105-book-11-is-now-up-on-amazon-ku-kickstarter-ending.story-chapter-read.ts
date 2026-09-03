@@ -5,7 +5,7 @@ export const salvos0105Book11IsNowUpOnAmazonKuKickstarterEnding = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0105-book-11-is-now-up-on-amazon-ku-kickstarter-ending",
   title: "Book 11 is now up on Amazon KU! + Kickstarter Ending in Five Days!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 105,
   ownLength: 158,
   unitSlug: "words",

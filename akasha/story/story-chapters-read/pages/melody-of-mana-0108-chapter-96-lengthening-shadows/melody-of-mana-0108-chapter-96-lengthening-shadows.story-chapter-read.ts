@@ -5,7 +5,7 @@ export const melodyOfMana0108Chapter96LengtheningShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0108-chapter-96-lengthening-shadows",
   title: "Chapter 96 Lengthening Shadows",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 108,
   ownLength: 2112,
   ownProgress: 2112,

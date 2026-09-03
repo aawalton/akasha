@@ -5,7 +5,7 @@ export const melodyOfMana0058Chapter49GettingReadyAndAnEmergencyLesson = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0058-chapter-49-getting-ready-and-an-emergency-lesson",
   title: "Chapter 49 Getting ready and an emergency lesson",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 58,
   ownLength: 2060,
   ownProgress: 2060,

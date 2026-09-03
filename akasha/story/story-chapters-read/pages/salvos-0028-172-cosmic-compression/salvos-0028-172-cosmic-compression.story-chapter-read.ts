@@ -5,7 +5,7 @@ export const salvos0028172CosmicCompression = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0028-172-cosmic-compression",
   title: "172. Cosmic Compression",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 28,
   ownLength: 2467,
   unitSlug: "words",

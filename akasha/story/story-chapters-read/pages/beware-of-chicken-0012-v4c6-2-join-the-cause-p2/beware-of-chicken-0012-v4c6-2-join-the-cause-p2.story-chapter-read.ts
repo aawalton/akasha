@@ -5,7 +5,7 @@ export const bewareOfChicken0012V4c62JoinTheCauseP2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0012-v4c6-2-join-the-cause-p2",
   title: "v4c6.2: Join the Cause p2",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 12,
   ownLength: 3295,
   ownProgress: 3295,

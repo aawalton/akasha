@@ -5,7 +5,7 @@ export const salvos0057392ApologiesAndExcuses = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0057-392-apologies-and-excuses",
   title: "392. Apologies and Excuses",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 57,
   ownLength: 2685,
   unitSlug: "words",

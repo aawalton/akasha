@@ -5,7 +5,7 @@ export const chrysalis0409Chapter1757Unstoppable = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0409-chapter-1757-unstoppable",
   title: "Chapter 1757 - Unstoppable",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 409,
   ownLength: 960,
   unitSlug: "words",

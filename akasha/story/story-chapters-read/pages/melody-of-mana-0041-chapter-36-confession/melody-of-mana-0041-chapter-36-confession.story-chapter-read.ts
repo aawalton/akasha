@@ -5,7 +5,7 @@ export const melodyOfMana0041Chapter36Confession = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0041-chapter-36-confession",
   title: "Chapter 36 Confession",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 41,
   ownLength: 2019,
   ownProgress: 2019,

@@ -5,7 +5,7 @@ export const chrysalis0427Chapter1775IDonTThinkTheyReHappyToSeeMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0427-chapter-1775-i-don-t-think-they-re-happy-to-see-me",
   title: "Chapter 1775 - I Don’t Think They’re Happy to See Me",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 427,
   ownLength: 942,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0476Chapter1822RallyTheTroops = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0476-chapter-1822-rally-the-troops",
   title: "Chapter 1822 - Rally the Troops",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 476,
   ownLength: 958,
   unitSlug: "words",

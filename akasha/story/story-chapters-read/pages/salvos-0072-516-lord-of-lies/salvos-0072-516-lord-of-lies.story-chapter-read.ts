@@ -5,7 +5,7 @@ export const salvos0072516LordOfLies = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0072-516-lord-of-lies",
   title: "516. Lord of Lies",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 72,
   ownLength: 4730,
   unitSlug: "words",

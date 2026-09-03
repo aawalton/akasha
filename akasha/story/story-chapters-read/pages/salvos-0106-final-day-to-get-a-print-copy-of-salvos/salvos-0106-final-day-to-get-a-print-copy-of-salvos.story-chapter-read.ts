@@ -5,7 +5,7 @@ export const salvos0106FinalDayToGetAPrintCopyOfSalvos = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0106-final-day-to-get-a-print-copy-of-salvos",
   title: "Final Day To Get A Print Copy of Salvos!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 106,
   ownLength: 93,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0481Chapter1827InvasionOfTheHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0481-chapter-1827-invasion-of-the-heart",
   title: "Chapter 1827 -  Invasion of the Heart",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 481,
   ownLength: 919,
   unitSlug: "words",

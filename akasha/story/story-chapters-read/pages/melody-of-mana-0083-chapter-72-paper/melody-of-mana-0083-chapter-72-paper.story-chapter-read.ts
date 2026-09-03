@@ -5,7 +5,7 @@ export const melodyOfMana0083Chapter72Paper = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0083-chapter-72-paper",
   title: "Chapter 72 Paper",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 83,
   ownLength: 2007,
   ownProgress: 2007,

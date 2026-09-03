@@ -5,7 +5,7 @@ export const melodyOfMana0011Chapter9GainingKnowledge = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0011-chapter-9-gaining-knowledge",
   title: "Chapter 9 Gaining knowledge",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 11,
   ownLength: 4022,
   ownProgress: 4022,

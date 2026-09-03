@@ -5,7 +5,7 @@ export const melodyOfMana0021Chapter17EscapeAndSanctuary = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0021-chapter-17-escape-and-sanctuary",
   title: "Chapter 17 Escape and sanctuary",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 21,
   ownLength: 2289,
   ownProgress: 2289,

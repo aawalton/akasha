@@ -5,7 +5,7 @@ export const melodyOfMana0024Chapter20MyFirstWinterWithoutFamily = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0024-chapter-20-my-first-winter-without-family",
   title: "Chapter 20 My first winter without family",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 24,
   ownLength: 2008,
   ownProgress: 2008,

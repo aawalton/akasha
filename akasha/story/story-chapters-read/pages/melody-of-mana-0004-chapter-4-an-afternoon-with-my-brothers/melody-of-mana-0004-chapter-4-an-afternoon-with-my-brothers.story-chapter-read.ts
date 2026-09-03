@@ -5,7 +5,7 @@ export const melodyOfMana0004Chapter4AnAfternoonWithMyBrothers = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0004-chapter-4-an-afternoon-with-my-brothers",
   title: "Chapter 4 An afternoon with my brothers",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 4,
   ownLength: 3322,
   ownProgress: 3322,

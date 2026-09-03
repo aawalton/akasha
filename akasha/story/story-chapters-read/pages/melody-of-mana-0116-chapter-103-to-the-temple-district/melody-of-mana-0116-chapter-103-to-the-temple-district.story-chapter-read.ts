@@ -5,7 +5,7 @@ export const melodyOfMana0116Chapter103ToTheTempleDistrict = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0116-chapter-103-to-the-temple-district",
   title: "Chapter 103 To The Temple District",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 116,
   ownLength: 2203,
   ownProgress: 2203,

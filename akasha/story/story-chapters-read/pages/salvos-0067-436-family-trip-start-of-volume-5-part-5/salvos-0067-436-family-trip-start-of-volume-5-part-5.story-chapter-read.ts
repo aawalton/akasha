@@ -5,7 +5,7 @@ export const salvos0067436FamilyTripStartOfVolume5Part5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0067-436-family-trip-start-of-volume-5-part-5",
   title: "436. Family Trip (Start of Volume 5 Part 5)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 67,
   ownLength: 2441,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0103Chapter91Clarissa = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0103-chapter-91-clarissa",
   title: "Chapter 91 Clarissa",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 103,
   ownLength: 2154,
   ownProgress: 2154,

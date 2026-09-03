@@ -5,7 +5,7 @@ export const melodyOfMana0045Chapter38WinterCelebrationAndBasicIllusion = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0045-chapter-38-winter-celebration-and-basic-illusion",
   title: "Chapter 38 Winter celebration and basic illusion",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 45,
   ownLength: 2018,
   ownProgress: 2018,

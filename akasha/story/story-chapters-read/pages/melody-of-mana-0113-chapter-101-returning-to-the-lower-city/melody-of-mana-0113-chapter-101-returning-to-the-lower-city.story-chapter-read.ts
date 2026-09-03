@@ -5,7 +5,7 @@ export const melodyOfMana0113Chapter101ReturningToTheLowerCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0113-chapter-101-returning-to-the-lower-city",
   title: "Chapter 101 Returning to the Lower City",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 113,
   ownLength: 1970,
   ownProgress: 1970,

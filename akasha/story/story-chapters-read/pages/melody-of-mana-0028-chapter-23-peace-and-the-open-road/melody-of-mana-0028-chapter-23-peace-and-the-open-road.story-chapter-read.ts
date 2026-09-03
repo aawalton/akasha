@@ -5,7 +5,7 @@ export const melodyOfMana0028Chapter23PeaceAndTheOpenRoad = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0028-chapter-23-peace-and-the-open-road",
   title: "Chapter 23 Peace and the open road",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 28,
   ownLength: 2372,
   ownProgress: 2372,

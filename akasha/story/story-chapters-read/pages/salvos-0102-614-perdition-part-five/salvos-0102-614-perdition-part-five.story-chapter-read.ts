@@ -5,7 +5,7 @@ export const salvos0102614PerditionPartFive = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0102-614-perdition-part-five",
   title: "614. Perdition Part Five",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 102,
   ownLength: 2591,
   unitSlug: "words",

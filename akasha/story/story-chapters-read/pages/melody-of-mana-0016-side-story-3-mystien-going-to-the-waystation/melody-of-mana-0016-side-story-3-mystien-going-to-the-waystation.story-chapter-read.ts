@@ -5,7 +5,7 @@ export const melodyOfMana0016SideStory3MystienGoingToTheWaystation = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0016-side-story-3-mystien-going-to-the-waystation",
   title: "Side Story 3 Mystien going to the waystation",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 16,
   ownLength: 1471,
   ownProgress: 1471,

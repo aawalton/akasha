@@ -5,7 +5,7 @@ export const melodyOfMana0093Chapter81MakingALampAndAGroupProject = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0093-chapter-81-making-a-lamp-and-a-group-project",
   title: "Chapter 81 Making a lamp and a group project",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 93,
   ownLength: 2110,
   ownProgress: 2110,

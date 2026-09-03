@@ -5,7 +5,7 @@ export const salvos0063SalvosBook8IsNowAvailableOnTheAmazonStore = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0063-salvos-book-8-is-now-available-on-the-amazon-store",
   title: "Salvos Book 8 is now available on the Amazon store! Give it a rating!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 63,
   ownLength: 212,
   unitSlug: "words",

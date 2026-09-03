@@ -5,7 +5,7 @@ export const melodyOfMana0039Chapter34FleshVsIron = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0039-chapter-34-flesh-vs-iron",
   title: "Chapter 34 Flesh vs. iron",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 39,
   ownLength: 2148,
   ownProgress: 2148,

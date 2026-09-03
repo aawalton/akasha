@@ -5,7 +5,7 @@ export const chrysalis0453Chapter1800LegionSupport = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0453-chapter-1800-legion-support",
   title: "Chapter 1800 - Legion Support",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 453,
   ownLength: 1119,
   unitSlug: "words",

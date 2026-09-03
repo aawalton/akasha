@@ -5,7 +5,7 @@ export const chrysalis0464Chapter1810EndOfTheFifth = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0464-chapter-1810-end-of-the-fifth",
   title: "Chapter 1810 - End of the Fifth",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 464,
   ownLength: 1051,
   unitSlug: "words",

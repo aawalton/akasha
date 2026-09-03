@@ -5,7 +5,7 @@ export const bewareOfChicken0014V4c8VictoryAndLoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0014-v4c8-victory-and-loss",
   title: "v4c8: Victory and Loss",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 14,
   ownLength: 2839,
   ownProgress: 2839,

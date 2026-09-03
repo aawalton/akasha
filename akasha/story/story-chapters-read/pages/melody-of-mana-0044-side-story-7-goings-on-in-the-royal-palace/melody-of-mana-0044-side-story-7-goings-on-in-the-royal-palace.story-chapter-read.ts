@@ -5,7 +5,7 @@ export const melodyOfMana0044SideStory7GoingsOnInTheRoyalPalace = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0044-side-story-7-goings-on-in-the-royal-palace",
   title: "Side Story 7 Goings on in the royal palace",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 44,
   ownLength: 1832,
   ownProgress: 1832,

@@ -5,7 +5,7 @@ export const chrysalis0513Chapter1858WhyMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0513-chapter-1858-why-me",
   title: "Chapter 1858 - Why Me?",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 513,
   ownLength: 1063,
   unitSlug: "words",

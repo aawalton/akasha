@@ -5,7 +5,7 @@ export const chrysalis0457Chapter1804ADeterminedColonyCanAchieveWhateverItWan = 
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0457-chapter-1804-a-determined-colony-can-achieve-whatever-it-wan",
   title: "Chapter 1804 - A Determined Colony Can Achieve... Whatever it Wants",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 457,
   ownLength: 935,
   unitSlug: "words",

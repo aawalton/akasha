@@ -5,7 +5,7 @@ export const chrysalis0406Chapter1754DancingInTheRuinsOfWhatWas = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0406-chapter-1754-dancing-in-the-ruins-of-what-was",
   title: "Chapter 1754 - Dancing in the Ruins of What Was",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 406,
   ownLength: 976,
   unitSlug: "words",

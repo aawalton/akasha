@@ -5,7 +5,7 @@ export const salvos0091562NewHorizonsEndOfBook10Tomorrow = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0091-562-new-horizons-end-of-book-10-tomorrow",
   title: "562. New Horizons (End of Book 10) + TOMORROW!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 91,
   ownLength: 1521,
   unitSlug: "words",

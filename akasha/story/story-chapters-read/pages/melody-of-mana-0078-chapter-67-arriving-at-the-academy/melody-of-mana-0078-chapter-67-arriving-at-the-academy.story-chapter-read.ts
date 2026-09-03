@@ -5,7 +5,7 @@ export const melodyOfMana0078Chapter67ArrivingAtTheAcademy = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0078-chapter-67-arriving-at-the-academy",
   title: "Chapter 67 Arriving at the academy",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 78,
   ownLength: 2154,
   ownProgress: 2154,

@@ -5,7 +5,7 @@ export const chrysalis0431Chapter1779IVeFoundSomething = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0431-chapter-1779-i-ve-found-something",
   title: "Chapter 1779 - I’ve Found… Something!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 431,
   ownLength: 937,
   unitSlug: "words",

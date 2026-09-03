@@ -5,7 +5,7 @@ export const chrysalis0438Chapter1786ItJustDoesnTStop = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0438-chapter-1786-it-just-doesn-t-stop",
   title: "Chapter 1786 - It Just Doesn’t Stop",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 438,
   ownLength: 1085,
   unitSlug: "words",

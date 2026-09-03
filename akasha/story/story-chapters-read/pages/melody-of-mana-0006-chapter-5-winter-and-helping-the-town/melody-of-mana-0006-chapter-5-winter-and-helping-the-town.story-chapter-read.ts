@@ -5,7 +5,7 @@ export const melodyOfMana0006Chapter5WinterAndHelpingTheTown = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0006-chapter-5-winter-and-helping-the-town",
   title: "Chapter 5 Winter, and helping the town",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 6,
   ownLength: 3797,
   ownProgress: 3797,

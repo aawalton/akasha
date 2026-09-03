@@ -6,7 +6,7 @@ export const salvos0058SalvosBook7IsNowAvailableOnAmazonAlso = {
   slug: "salvos-0058-salvos-book-7-is-now-available-on-amazon-also",
   title:
     "Salvos Book 7 is NOW AVAILABLE ON AMAZON! Also, another sneak preview of that big announcement!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 58,
   ownLength: 111,
   unitSlug: "words",

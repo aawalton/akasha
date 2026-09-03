@@ -5,7 +5,7 @@ export const melodyOfMana0084Chapter73CoreCompletion = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0084-chapter-73-core-completion",
   title: "Chapter 73 Core completion",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 84,
   ownLength: 2049,
   ownProgress: 2049,

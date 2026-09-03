@@ -5,7 +5,7 @@ export const salvos0110662TheFallOfTheFairiesPartOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0110-662-the-fall-of-the-fairies-part-one",
   title: "662. The Fall Of The Fairies Part One",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 110,
   ownLength: 1423,
   unitSlug: "words",

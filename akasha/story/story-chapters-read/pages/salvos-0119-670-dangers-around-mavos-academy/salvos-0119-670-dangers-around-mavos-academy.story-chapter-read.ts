@@ -5,7 +5,7 @@ export const salvos0119670DangersAroundMavosAcademy = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0119-670-dangers-around-mavos-academy",
   title: "670. Dangers Around Mavos Academy",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 119,
   ownLength: 2076,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0509Chapter1854SkyDreaming = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0509-chapter-1854-sky-dreaming",
   title: "Chapter 1854 - Sky Dreaming",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 509,
   ownLength: 967,
   unitSlug: "words",

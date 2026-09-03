@@ -5,7 +5,7 @@ export const melodyOfMana0053Chapter46ConferenceAndStudy = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0053-chapter-46-conference-and-study",
   title: "Chapter 46 Conference and Study",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 53,
   ownLength: 2062,
   ownProgress: 2062,

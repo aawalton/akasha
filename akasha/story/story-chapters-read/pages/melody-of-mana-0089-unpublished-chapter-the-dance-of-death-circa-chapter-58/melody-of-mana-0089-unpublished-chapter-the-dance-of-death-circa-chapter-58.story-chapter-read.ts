@@ -5,7 +5,7 @@ export const melodyOfMana0089UnpublishedChapterTheDanceOfDeathCircaChapter58 = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0089-unpublished-chapter-the-dance-of-death-circa-chapter-58",
   title: "Unpublished chapter The dance of death (Circa chapter 58)",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 89,
   ownLength: 2615,
   ownProgress: 2615,

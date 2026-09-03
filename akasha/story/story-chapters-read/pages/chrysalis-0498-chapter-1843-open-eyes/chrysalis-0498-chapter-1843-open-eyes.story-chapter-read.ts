@@ -5,7 +5,7 @@ export const chrysalis0498Chapter1843OpenEyes = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0498-chapter-1843-open-eyes",
   title: "Chapter 1843 -  Open Eyes",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 498,
   ownLength: 944,
   unitSlug: "words",

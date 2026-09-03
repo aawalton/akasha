@@ -5,7 +5,7 @@ export const melodyOfMana0072Chapter62JacksonSExitAndExamRegistration = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0072-chapter-62-jackson-s-exit-and-exam-registration",
   title: "Chapter 62 Jackson's exit and exam registration",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 72,
   ownLength: 2071,
   ownProgress: 2071,

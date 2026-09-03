@@ -5,7 +5,7 @@ export const salvos0009SideStory1SurvivalOfTheFittest = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0009-side-story-1-survival-of-the-fittest",
   title: "Side Story 1: Survival of the Fittest",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 9,
   ownLength: 3470,
   unitSlug: "words",

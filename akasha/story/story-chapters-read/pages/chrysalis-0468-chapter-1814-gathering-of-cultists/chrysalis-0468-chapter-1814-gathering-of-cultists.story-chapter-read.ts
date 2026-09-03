@@ -5,7 +5,7 @@ export const chrysalis0468Chapter1814GatheringOfCultists = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0468-chapter-1814-gathering-of-cultists",
   title: "Chapter 1814 - Gathering of Cultists",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 468,
   ownLength: 1338,
   unitSlug: "words",

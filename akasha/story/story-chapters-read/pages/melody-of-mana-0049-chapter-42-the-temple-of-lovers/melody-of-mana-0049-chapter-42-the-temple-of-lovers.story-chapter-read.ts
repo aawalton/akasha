@@ -5,7 +5,7 @@ export const melodyOfMana0049Chapter42TheTempleOfLovers = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0049-chapter-42-the-temple-of-lovers",
   title: "Chapter 42 The Temple of Lovers",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 49,
   ownLength: 2013,
   ownProgress: 2013,

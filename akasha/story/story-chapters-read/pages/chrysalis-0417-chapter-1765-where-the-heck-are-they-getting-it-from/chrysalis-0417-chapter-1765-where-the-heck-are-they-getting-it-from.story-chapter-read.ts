@@ -5,7 +5,7 @@ export const chrysalis0417Chapter1765WhereTheHeckAreTheyGettingItFrom = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0417-chapter-1765-where-the-heck-are-they-getting-it-from",
   title: "Chapter 1765 - Where The Heck Are They Getting it From?!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 417,
   ownLength: 1056,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0432Chapter1780Doomed = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0432-chapter-1780-doomed",
   title: "Chapter 1780 - Doomed",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 432,
   ownLength: 874,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0036Chapter31AMeetingOverTea = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0036-chapter-31-a-meeting-over-tea",
   title: "Chapter 31  A meeting over tea",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 36,
   ownLength: 2204,
   ownProgress: 2204,

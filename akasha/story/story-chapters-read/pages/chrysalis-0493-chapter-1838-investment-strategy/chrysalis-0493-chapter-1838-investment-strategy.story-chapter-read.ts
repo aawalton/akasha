@@ -5,7 +5,7 @@ export const chrysalis0493Chapter1838InvestmentStrategy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0493-chapter-1838-investment-strategy",
   title: "Chapter 1838 -  Investment Strategy",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 493,
   ownLength: 957,
   unitSlug: "words",

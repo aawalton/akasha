@@ -5,7 +5,7 @@ export const salvos0047345ChampionPartFiveEndOfVolume5PartTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0047-345-champion-part-five-end-of-volume-5-part-two",
   title: "345. Champion Part Five (End of Volume 5 Part Two)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 47,
   ownLength: 2857,
   unitSlug: "words",

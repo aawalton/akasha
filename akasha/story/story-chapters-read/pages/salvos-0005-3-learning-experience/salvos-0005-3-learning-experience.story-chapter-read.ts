@@ -5,7 +5,7 @@ export const salvos00053LearningExperience = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0005-3-learning-experience",
   title: "3. Learning Experience",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 5,
   ownLength: 2100,
   unitSlug: "words",

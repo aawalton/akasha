@@ -5,7 +5,7 @@ export const melodyOfMana0070Chapter60WinterPassing = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0070-chapter-60-winter-passing",
   title: "Chapter 60 Winter passing",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 70,
   ownLength: 1980,
   ownProgress: 1980,

@@ -5,7 +5,7 @@ export const melodyOfMana0057Chapter48EndOfAutumn = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0057-chapter-48-end-of-autumn",
   title: "Chapter 48 End of Autumn",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 57,
   ownLength: 2400,
   ownProgress: 2400,

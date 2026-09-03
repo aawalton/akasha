@@ -5,7 +5,7 @@ export const chrysalis0479Chapter1825RideTheWave = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0479-chapter-1825-ride-the-wave",
   title: "Chapter 1825 - Ride the Wave",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 479,
   ownLength: 918,
   unitSlug: "words",

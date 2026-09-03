@@ -5,7 +5,7 @@ export const chrysalis0484Whoops = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0484-whoops",
   title: "Whoops!",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 484,
   ownLength: 65,
   unitSlug: "words",

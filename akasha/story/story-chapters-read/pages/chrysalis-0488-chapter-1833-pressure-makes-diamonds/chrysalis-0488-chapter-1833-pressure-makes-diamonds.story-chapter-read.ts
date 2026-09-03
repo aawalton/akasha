@@ -5,7 +5,7 @@ export const chrysalis0488Chapter1833PressureMakesDiamonds = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0488-chapter-1833-pressure-makes-diamonds",
   title: "Chapter 1833 -  Pressure Makes Diamonds",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 488,
   ownLength: 893,
   unitSlug: "words",

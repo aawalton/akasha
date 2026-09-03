@@ -5,7 +5,7 @@ export const chrysalis0499Chapter1844Conclave = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0499-chapter-1844-conclave",
   title: "Chapter 1844 - Conclave",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 499,
   ownLength: 902,
   unitSlug: "words",

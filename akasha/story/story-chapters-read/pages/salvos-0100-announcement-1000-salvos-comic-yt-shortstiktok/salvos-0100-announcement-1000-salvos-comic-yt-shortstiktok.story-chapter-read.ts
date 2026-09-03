@@ -5,7 +5,7 @@ export const salvos0100Announcement1000SalvosComicYtShortstiktok = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0100-announcement-1000-salvos-comic-yt-shortstiktok",
   title: "Announcement: $1000 Salvos Comic YT Shorts/TikTok Edit Contest + Announcement",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 100,
   ownLength: 50,
   unitSlug: "words",

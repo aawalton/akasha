@@ -5,7 +5,7 @@ export const salvos0096565GrownUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0096-565-grown-up",
   title: "565. Grown Up",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 96,
   ownLength: 2048,
   unitSlug: "words",

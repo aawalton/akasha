@@ -5,7 +5,7 @@ export const melodyOfMana0008Chapter7BirthDeathAndGatheringShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0008-chapter-7-birth-death-and-gathering-shadows",
   title: "Chapter 7 Birth, death, and gathering shadows",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 8,
   ownLength: 3447,
   ownProgress: 3447,

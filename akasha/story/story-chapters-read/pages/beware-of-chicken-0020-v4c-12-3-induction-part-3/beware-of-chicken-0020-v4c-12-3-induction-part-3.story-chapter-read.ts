@@ -5,7 +5,7 @@ export const bewareOfChicken0020V4c123InductionPart3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0020-v4c-12-3-induction-part-3",
   title: "v4c 12.3: Induction part 3",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 20,
   ownLength: 2064,
   ownProgress: 2064,

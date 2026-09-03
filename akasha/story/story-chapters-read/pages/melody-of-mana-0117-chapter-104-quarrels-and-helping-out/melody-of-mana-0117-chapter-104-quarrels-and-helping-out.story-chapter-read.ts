@@ -5,7 +5,7 @@ export const melodyOfMana0117Chapter104QuarrelsAndHelpingOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0117-chapter-104-quarrels-and-helping-out",
   title: "Chapter 104 Quarrels and Helping Out",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 117,
   ownLength: 2196,
   ownProgress: 2196,

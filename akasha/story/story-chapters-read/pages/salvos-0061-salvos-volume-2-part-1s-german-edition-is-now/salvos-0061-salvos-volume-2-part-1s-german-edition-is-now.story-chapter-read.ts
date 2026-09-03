@@ -5,7 +5,7 @@ export const salvos0061SalvosVolume2Part1sGermanEditionIsNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0061-salvos-volume-2-part-1s-german-edition-is-now",
   title: "Salvos Volume 2 Part 1's GERMAN EDITION is now available!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 61,
   ownLength: 160,
   unitSlug: "words",

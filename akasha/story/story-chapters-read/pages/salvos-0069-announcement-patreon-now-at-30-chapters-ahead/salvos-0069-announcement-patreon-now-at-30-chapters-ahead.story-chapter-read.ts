@@ -5,7 +5,7 @@ export const salvos0069AnnouncementPatreonNowAt30ChaptersAhead = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0069-announcement-patreon-now-at-30-chapters-ahead",
   title: "Announcement: Patreon now at 30 chapters ahead!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 69,
   ownLength: 186,
   unitSlug: "words",

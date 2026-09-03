@@ -5,7 +5,7 @@ export const bewareOfChicken0008V4c42TheOldMonsterSPlanP2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0008-v4c4-2-the-old-monster-s-plan-p2",
   title: "v4c4.2: The Old Monster's Plan p2",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 8,
   ownLength: 3627,
   ownProgress: 3627,

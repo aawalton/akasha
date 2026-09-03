@@ -5,7 +5,7 @@ export const chrysalis0495Chapter1840ClearAir = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0495-chapter-1840-clear-air",
   title: "Chapter 1840 -  Clear Air",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 495,
   ownLength: 1072,
   unitSlug: "words",

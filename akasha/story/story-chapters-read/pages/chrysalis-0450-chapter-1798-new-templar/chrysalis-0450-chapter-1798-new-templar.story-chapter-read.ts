@@ -5,7 +5,7 @@ export const chrysalis0450Chapter1798NewTemplar = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0450-chapter-1798-new-templar",
   title: "Chapter 1798 - New Templar",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 450,
   ownLength: 1000,
   unitSlug: "words",

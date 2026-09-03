@@ -5,7 +5,7 @@ export const chrysalis0389Chapter1737ThingsTookQuiteTheTurnForTheWorse = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0389-chapter-1737-things-took-quite-the-turn-for-the-worse",
   title: "Chapter 1737 - Things Took Quite the Turn For the Worse",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 389,
   ownLength: 915,
   ownProgress: 915,

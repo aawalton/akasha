@@ -5,7 +5,7 @@ export const salvos0012101ConsequencesStartOfVolume3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0012-101-consequences-start-of-volume-3",
   title: "101. Consequences (Start of Volume 3)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 12,
   ownLength: 2966,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0077Chapter66ClothesClothesAndMaids = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0077-chapter-66-clothes-clothes-and-maids",
   title: "Chapter 66 Clothes, clothes, and maids",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 77,
   ownLength: 2498,
   ownProgress: 2498,

@@ -5,7 +5,7 @@ export const salvos0070NewFicAnnouncementAmeliaTheLevelZeroHero = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0070-new-fic-announcement-amelia-the-level-zero-hero",
   title: "New Fic Announcement: Amelia The Level Zero [Hero] (Not a chapter)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 70,
   ownLength: 240,
   unitSlug: "words",

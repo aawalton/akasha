@@ -5,7 +5,7 @@ export const chrysalis0397Chapter1745HeresyMeetsHeresy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0397-chapter-1745-heresy-meets-heresy",
   title: "Chapter 1745 - Heresy Meets Heresy",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 397,
   ownLength: 1072,
   ownProgress: 1072,

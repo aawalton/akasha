@@ -5,7 +5,7 @@ export const melodyOfMana0010Chapter8SubterfugeAndTravel = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0010-chapter-8-subterfuge-and-travel",
   title: "Chapter 8 Subterfuge and travel",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 10,
   ownLength: 3658,
   ownProgress: 3658,

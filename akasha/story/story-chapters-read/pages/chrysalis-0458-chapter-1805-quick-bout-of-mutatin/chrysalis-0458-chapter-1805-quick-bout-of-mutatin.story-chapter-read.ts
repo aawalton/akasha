@@ -5,7 +5,7 @@ export const chrysalis0458Chapter1805QuickBoutOfMutatin = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0458-chapter-1805-quick-bout-of-mutatin",
   title: "Chapter 1805 - Quick Bout of Mutatin'",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 458,
   ownLength: 975,
   unitSlug: "words",

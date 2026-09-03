@@ -5,7 +5,7 @@ export const chrysalis0465Chapter1811CracklingWithPossibility = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0465-chapter-1811-crackling-with-possibility",
   title: "Chapter 1811 - Crackling with Possibility",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 465,
   ownLength: 1255,
   unitSlug: "words",

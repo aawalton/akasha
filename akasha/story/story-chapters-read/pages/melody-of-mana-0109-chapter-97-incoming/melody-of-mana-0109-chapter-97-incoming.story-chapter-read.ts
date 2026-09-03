@@ -5,7 +5,7 @@ export const melodyOfMana0109Chapter97Incoming = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0109-chapter-97-incoming",
   title: "Chapter 97 Incoming",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 109,
   ownLength: 1828,
   ownProgress: 1828,

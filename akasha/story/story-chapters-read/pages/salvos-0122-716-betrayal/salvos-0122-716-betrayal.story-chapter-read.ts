@@ -5,7 +5,7 @@ export const salvos0122716Betrayal = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0122-716-betrayal",
   title: "716. Betrayal",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 122,
   ownLength: 1780,
   unitSlug: "words",

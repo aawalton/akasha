@@ -5,7 +5,7 @@ export const chrysalis0410Chapter1758RevengeTour = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0410-chapter-1758-revenge-tour",
   title: "Chapter 1758 - Revenge Tour",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 410,
   ownLength: 862,
   unitSlug: "words",

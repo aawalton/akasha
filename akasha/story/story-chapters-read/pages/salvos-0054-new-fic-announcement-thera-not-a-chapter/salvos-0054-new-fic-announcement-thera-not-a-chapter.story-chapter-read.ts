@@ -5,7 +5,7 @@ export const salvos0054NewFicAnnouncementTheraNotAChapter = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0054-new-fic-announcement-thera-not-a-chapter",
   title: "New Fic Announcement: Thera (Not a chapter)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 54,
   ownLength: 3175,
   unitSlug: "words",

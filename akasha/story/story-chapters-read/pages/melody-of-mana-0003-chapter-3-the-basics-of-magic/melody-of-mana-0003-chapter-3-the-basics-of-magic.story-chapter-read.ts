@@ -5,7 +5,7 @@ export const melodyOfMana0003Chapter3TheBasicsOfMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0003-chapter-3-the-basics-of-magic",
   title: "Chapter 3 The basics of magic",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 3,
   ownLength: 3670,
   ownProgress: 3670,

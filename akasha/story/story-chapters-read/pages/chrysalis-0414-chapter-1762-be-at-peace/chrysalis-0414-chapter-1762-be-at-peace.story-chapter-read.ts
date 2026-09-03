@@ -5,7 +5,7 @@ export const chrysalis0414Chapter1762BeAtPeace = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0414-chapter-1762-be-at-peace",
   title: "Chapter 1762 - Be At Peace",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 414,
   ownLength: 969,
   unitSlug: "words",

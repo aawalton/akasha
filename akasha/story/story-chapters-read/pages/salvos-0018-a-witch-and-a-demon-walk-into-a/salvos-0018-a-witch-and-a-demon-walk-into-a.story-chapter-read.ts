@@ -5,7 +5,7 @@ export const salvos0018AWitchAndADemonWalkIntoA = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0018-a-witch-and-a-demon-walk-into-a",
   title: "???. A Witch and a Demon walk into a...",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 18,
   ownLength: 242,
   unitSlug: "words",

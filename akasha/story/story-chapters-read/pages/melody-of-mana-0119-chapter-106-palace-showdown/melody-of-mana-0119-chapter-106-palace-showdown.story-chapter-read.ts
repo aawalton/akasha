@@ -5,7 +5,7 @@ export const melodyOfMana0119Chapter106PalaceShowdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0119-chapter-106-palace-showdown",
   title: "Chapter 106 Palace Showdown",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 119,
   ownLength: 2391,
   ownProgress: 2391,

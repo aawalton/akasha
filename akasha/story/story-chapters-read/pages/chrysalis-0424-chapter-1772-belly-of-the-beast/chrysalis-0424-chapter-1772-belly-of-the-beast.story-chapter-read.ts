@@ -5,7 +5,7 @@ export const chrysalis0424Chapter1772BellyOfTheBeast = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0424-chapter-1772-belly-of-the-beast",
   title: "Chapter 1772 - Belly of the Beast",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 424,
   ownLength: 962,
   unitSlug: "words",

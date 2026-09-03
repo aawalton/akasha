@@ -5,7 +5,7 @@ export const salvos0055390LevelDifferenceStartOfVolume5Part4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0055-390-level-difference-start-of-volume-5-part-4",
   title: "390. Level Difference (Start of Volume 5 Part 4)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 55,
   ownLength: 2039,
   unitSlug: "words",

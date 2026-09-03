@@ -5,7 +5,7 @@ export const salvos0117SalvosBook12LaunchOnAmazonReminderPublicIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0117-salvos-book-12-launch-on-amazon-reminder-public-is",
   title: "Salvos Book 12 launch on Amazon! + Reminder Public is on break",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 117,
   ownLength: 156,
   unitSlug: "words",

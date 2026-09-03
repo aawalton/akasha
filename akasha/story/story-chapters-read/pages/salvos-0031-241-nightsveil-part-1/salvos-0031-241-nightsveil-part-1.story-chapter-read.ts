@@ -5,7 +5,7 @@ export const salvos0031241NightsveilPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0031-241-nightsveil-part-1",
   title: "241. Nightsveil Part 1",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 31,
   ownLength: 2240,
   unitSlug: "words",

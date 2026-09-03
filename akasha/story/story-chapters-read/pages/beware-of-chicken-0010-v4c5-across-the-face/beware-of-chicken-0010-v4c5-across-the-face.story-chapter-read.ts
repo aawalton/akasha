@@ -5,7 +5,7 @@ export const bewareOfChicken0010V4c5AcrossTheFace = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0010-v4c5-across-the-face",
   title: "v4c5: Across the Face",
-  partOfSlugs: ["beware-of-chicken"],
+  partOfSlugs: ["story-read/beware-of-chicken"],
   position: 10,
   ownLength: 2182,
   ownProgress: 2182,

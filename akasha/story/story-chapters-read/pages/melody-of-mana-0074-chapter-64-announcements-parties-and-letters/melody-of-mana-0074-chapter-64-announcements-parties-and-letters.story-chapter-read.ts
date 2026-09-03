@@ -5,7 +5,7 @@ export const melodyOfMana0074Chapter64AnnouncementsPartiesAndLetters = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0074-chapter-64-announcements-parties-and-letters",
   title: "Chapter 64 Announcements, parties, and letters",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 74,
   ownLength: 2126,
   ownProgress: 2126,

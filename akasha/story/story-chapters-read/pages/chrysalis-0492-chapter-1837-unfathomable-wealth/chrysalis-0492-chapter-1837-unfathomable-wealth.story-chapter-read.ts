@@ -5,7 +5,7 @@ export const chrysalis0492Chapter1837UnfathomableWealth = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0492-chapter-1837-unfathomable-wealth",
   title: "Chapter 1837 -  Unfathomable Wealth",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 492,
   ownLength: 1355,
   unitSlug: "words",

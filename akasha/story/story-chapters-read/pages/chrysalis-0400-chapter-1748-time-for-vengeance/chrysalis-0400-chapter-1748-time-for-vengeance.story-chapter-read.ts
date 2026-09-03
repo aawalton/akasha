@@ -5,7 +5,7 @@ export const chrysalis0400Chapter1748TimeForVengeance = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0400-chapter-1748-time-for-vengeance",
   title: "Chapter 1748 - Time for Vengeance",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 400,
   ownLength: 1032,
   unitSlug: "words",

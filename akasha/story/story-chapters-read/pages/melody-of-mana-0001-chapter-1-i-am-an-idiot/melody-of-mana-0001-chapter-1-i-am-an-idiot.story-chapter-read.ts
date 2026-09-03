@@ -5,7 +5,7 @@ export const melodyOfMana0001Chapter1IAmAnIdiot = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0001-chapter-1-i-am-an-idiot",
   title: "Chapter 1 I am an idiot",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 1,
   ownLength: 1927,
   ownProgress: 1927,

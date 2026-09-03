@@ -5,7 +5,7 @@ export const melodyOfMana0052Chapter45TheBishop = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0052-chapter-45-the-bishop",
   title: "Chapter 45 The Bishop",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 52,
   ownLength: 2095,
   ownProgress: 2095,

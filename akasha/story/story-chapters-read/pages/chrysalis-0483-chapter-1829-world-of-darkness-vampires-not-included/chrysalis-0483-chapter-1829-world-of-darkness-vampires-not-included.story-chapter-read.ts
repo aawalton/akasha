@@ -5,7 +5,7 @@ export const chrysalis0483Chapter1829WorldOfDarknessVampiresNotIncluded = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0483-chapter-1829-world-of-darkness-vampires-not-included",
   title: "Chapter 1829 -  World of Darkness (Vampires not included)",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 483,
   ownLength: 910,
   unitSlug: "words",

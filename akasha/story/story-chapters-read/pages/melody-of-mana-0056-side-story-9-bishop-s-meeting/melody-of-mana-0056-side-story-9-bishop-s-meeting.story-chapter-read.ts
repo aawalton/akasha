@@ -5,7 +5,7 @@ export const melodyOfMana0056SideStory9BishopSMeeting = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0056-side-story-9-bishop-s-meeting",
   title: "Side Story 9 Bishop's Meeting",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 56,
   ownLength: 986,
   ownProgress: 986,

@@ -5,7 +5,7 @@ export const salvos0075519DisillusionPartThree = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0075-519-disillusion-part-three",
   title: "519. Disillusion Part Three",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 75,
   ownLength: 2051,
   unitSlug: "words",

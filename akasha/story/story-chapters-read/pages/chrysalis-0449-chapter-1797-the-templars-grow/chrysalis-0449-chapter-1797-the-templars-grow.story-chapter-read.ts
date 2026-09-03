@@ -5,7 +5,7 @@ export const chrysalis0449Chapter1797TheTemplarsGrow = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0449-chapter-1797-the-templars-grow",
   title: "Chapter 1797 - The Templars Grow",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 449,
   ownLength: 1077,
   unitSlug: "words",

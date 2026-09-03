@@ -5,7 +5,7 @@ export const chrysalis0420Chapter1768TitansFightBriefly = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0420-chapter-1768-titans-fight-briefly",
   title: "Chapter 1768 - Titans Fight Briefly",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 420,
   ownLength: 1138,
   unitSlug: "words",

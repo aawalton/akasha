@@ -5,7 +5,7 @@ export const chrysalis0440Chapter1788UnintendedConsequences = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0440-chapter-1788-unintended-consequences",
   title: " Chapter 1788 -  Unintended Consequences",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 440,
   ownLength: 985,
   unitSlug: "words",

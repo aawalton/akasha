@@ -5,7 +5,7 @@ export const chrysalis0482Chapter1828CloggingUpTheWorks = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0482-chapter-1828-clogging-up-the-works",
   title: "Chapter 1828 -  Clogging up the works.",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 482,
   ownLength: 1053,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0007Chapter6HoneyIceCreamAndFallingNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0007-chapter-6-honey-ice-cream-and-falling-night",
   title: "Chapter 6 Honey, ice cream, and falling night",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 7,
   ownLength: 3780,
   ownProgress: 3780,

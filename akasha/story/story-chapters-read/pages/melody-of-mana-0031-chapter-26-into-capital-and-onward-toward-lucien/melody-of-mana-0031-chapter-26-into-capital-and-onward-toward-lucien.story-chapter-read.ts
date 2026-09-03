@@ -5,7 +5,7 @@ export const melodyOfMana0031Chapter26IntoCapitalAndOnwardTowardLucien = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0031-chapter-26-into-capital-and-onward-toward-lucien",
   title: "Chapter 26 Into capital and onward toward Lucien",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 31,
   ownLength: 2237,
   ownProgress: 2237,

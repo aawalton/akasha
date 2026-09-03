@@ -5,7 +5,7 @@ export const salvos0053389SoItBeginsEndOfVolume5Part3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0053-389-so-it-begins-end-of-volume-5-part-3",
   title: "389. So It Begins (End of Volume 5 Part 3)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 53,
   ownLength: 1617,
   unitSlug: "words",

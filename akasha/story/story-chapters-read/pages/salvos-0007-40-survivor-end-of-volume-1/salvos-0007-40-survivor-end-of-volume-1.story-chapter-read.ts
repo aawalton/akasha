@@ -5,7 +5,7 @@ export const salvos000740SurvivorEndOfVolume1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0007-40-survivor-end-of-volume-1",
   title: "40. Survivor (End of Volume 1)",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 7,
   ownLength: 1877,
   unitSlug: "words",

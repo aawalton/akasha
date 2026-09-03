@@ -5,7 +5,7 @@ export const melodyOfMana0125Chapter112MockBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0125-chapter-112-mock-battle",
   title: "Chapter 112 Mock Battle",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 125,
   ownLength: 2094,
   ownProgress: 2094,

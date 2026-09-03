@@ -5,7 +5,7 @@ export const salvos0098567Recollection = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0098-567-recollection",
   title: "567. Recollection",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 98,
   ownLength: 1522,
   unitSlug: "words",

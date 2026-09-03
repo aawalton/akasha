@@ -5,7 +5,7 @@ export const salvos0092AfterOverTwoYearsTheSalvosWebcomicIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0092-after-over-two-years-the-salvos-webcomic-is",
   title: "AFTER OVER TWO YEARS, THE SALVOS WEBCOMIC IS FINALLY OUT!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 92,
   ownLength: 1,
   unitSlug: "words",

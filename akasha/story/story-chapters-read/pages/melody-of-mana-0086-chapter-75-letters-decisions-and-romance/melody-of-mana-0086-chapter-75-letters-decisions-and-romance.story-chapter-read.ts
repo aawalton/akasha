@@ -5,7 +5,7 @@ export const melodyOfMana0086Chapter75LettersDecisionsAndRomance = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0086-chapter-75-letters-decisions-and-romance",
   title: "Chapter 75 Letters, decisions, and romance",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 86,
   ownLength: 2047,
   ownProgress: 2047,

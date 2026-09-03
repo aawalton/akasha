@@ -5,7 +5,7 @@ export const chrysalis0455Chapter1802UnderConstruction = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0455-chapter-1802-under-construction",
   title: "Chapter 1802 - Under Construction",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 455,
   ownLength: 1070,
   unitSlug: "words",

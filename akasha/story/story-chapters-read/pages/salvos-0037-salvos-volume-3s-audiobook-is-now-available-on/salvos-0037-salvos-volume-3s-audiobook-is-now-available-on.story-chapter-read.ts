@@ -5,7 +5,7 @@ export const salvos0037SalvosVolume3sAudiobookIsNowAvailableOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0037-salvos-volume-3s-audiobook-is-now-available-on",
   title: "Salvos Volume 3's audiobook is now available on audible!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 37,
   ownLength: 85,
   unitSlug: "words",

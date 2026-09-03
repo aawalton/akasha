@@ -5,7 +5,7 @@ export const melodyOfMana0081Chapter70Dance = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0081-chapter-70-dance",
   title: "Chapter 70 Dance",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 81,
   ownLength: 2123,
   ownProgress: 2123,

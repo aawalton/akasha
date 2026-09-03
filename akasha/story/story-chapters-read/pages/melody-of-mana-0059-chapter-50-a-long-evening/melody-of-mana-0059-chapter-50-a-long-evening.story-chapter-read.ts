@@ -5,7 +5,7 @@ export const melodyOfMana0059Chapter50ALongEvening = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0059-chapter-50-a-long-evening",
   title: "Chapter 50 A long evening",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 59,
   ownLength: 2927,
   ownProgress: 2927,

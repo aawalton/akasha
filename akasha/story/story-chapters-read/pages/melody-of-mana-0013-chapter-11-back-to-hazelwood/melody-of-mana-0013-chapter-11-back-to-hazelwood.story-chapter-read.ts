@@ -5,7 +5,7 @@ export const melodyOfMana0013Chapter11BackToHazelwood = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0013-chapter-11-back-to-hazelwood",
   title: "Chapter 11 Back to Hazelwood",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 13,
   ownLength: 3247,
   ownProgress: 3247,

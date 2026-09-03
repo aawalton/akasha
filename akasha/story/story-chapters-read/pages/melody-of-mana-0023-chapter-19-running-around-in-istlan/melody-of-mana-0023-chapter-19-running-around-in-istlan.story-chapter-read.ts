@@ -5,7 +5,7 @@ export const melodyOfMana0023Chapter19RunningAroundInIstlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0023-chapter-19-running-around-in-istlan",
   title: "Chapter 19 Running around in Istlan",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 23,
   ownLength: 2435,
   ownProgress: 2435,

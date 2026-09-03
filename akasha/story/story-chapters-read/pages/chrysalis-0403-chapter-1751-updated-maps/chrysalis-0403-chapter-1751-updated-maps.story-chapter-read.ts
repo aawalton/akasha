@@ -5,7 +5,7 @@ export const chrysalis0403Chapter1751UpdatedMaps = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0403-chapter-1751-updated-maps",
   title: "Chapter 1751 - Updated Maps",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 403,
   ownLength: 1147,
   unitSlug: "words",

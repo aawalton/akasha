@@ -5,7 +5,7 @@ export const chrysalis0511Chapter1856IntoTheLight = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0511-chapter-1856-into-the-light",
   title: "Chapter 1856 - Into the Light",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 511,
   ownLength: 1128,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0019AnnouncementSalvosVol1NowAvailableAsAn = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0019-announcement-salvos-vol-1-now-available-as-an",
   title: "Announcement: Salvos Vol. 1 now available as an audiobook! Also, graduating today!",
-  partOfSlugs: ["salvos"],
+  partOfSlugs: ["story-read/salvos"],
   position: 19,
   ownLength: 153,
   unitSlug: "words",

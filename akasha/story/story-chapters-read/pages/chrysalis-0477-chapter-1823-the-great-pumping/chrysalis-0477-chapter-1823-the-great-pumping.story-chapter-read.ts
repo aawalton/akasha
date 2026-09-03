@@ -5,7 +5,7 @@ export const chrysalis0477Chapter1823TheGreatPumping = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0477-chapter-1823-the-great-pumping",
   title: "Chapter 1823 - The Great Pumping",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 477,
   ownLength: 1038,
   unitSlug: "words",

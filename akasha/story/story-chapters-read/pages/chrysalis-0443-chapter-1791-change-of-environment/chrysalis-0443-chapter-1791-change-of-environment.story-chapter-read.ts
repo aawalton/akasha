@@ -5,7 +5,7 @@ export const chrysalis0443Chapter1791ChangeOfEnvironment = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0443-chapter-1791-change-of-environment",
   title: "Chapter 1791 - Change of Environment",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 443,
   ownLength: 878,
   unitSlug: "words",

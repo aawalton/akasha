@@ -5,7 +5,7 @@ export const chrysalis0418Chapter1766DefendersReborn = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0418-chapter-1766-defenders-reborn",
   title: "Chapter 1766 - Defenders Reborn",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 418,
   ownLength: 970,
   unitSlug: "words",

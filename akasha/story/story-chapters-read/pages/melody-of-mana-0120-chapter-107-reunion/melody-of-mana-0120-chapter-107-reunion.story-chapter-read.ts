@@ -5,7 +5,7 @@ export const melodyOfMana0120Chapter107Reunion = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0120-chapter-107-reunion",
   title: "Chapter 107 Reunion",
-  partOfSlugs: ["melody-of-mana"],
+  partOfSlugs: ["story-read/melody-of-mana"],
   position: 120,
   ownLength: 2220,
   ownProgress: 2220,

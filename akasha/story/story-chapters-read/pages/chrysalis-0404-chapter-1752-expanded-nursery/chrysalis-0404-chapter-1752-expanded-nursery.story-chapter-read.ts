@@ -5,7 +5,7 @@ export const chrysalis0404Chapter1752ExpandedNursery = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0404-chapter-1752-expanded-nursery",
   title: "Chapter 1752 - Expanded Nursery",
-  partOfSlugs: ["chrysalis"],
+  partOfSlugs: ["story-read/chrysalis"],
   position: 404,
   ownLength: 1301,
   unitSlug: "words",
