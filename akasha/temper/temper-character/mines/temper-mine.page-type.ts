@@ -52,6 +52,7 @@ export const temperMine = {
     "text-property/enchant-description",
     "text-property/enchant-header",
     "text-property/flavor-text",
+    "text-property/item-name",
     "text-property/set-name",
     "text-property/trait-description",
   ],
@@ -62,15 +63,15 @@ export const temperMine = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One file holds every item a sweep read out of the game.",
+      statement: "The items a sweep read are kept in numbered parts beside the page.",
     },
     {
       invariantKind: "departure",
       statement: "A row a sweep read is judged against the fields its entry shape declares.",
     },
     {
-      invariantKind: "gap",
-      statement: "A sweep's rows are over the byte ceiling akasha holds a file to.",
+      invariantKind: "departure",
+      statement: "A sweep's rows run past the byte ceiling one file holds.",
     },
   ],
 } as const satisfies PageType
