@@ -1,0 +1,7 @@
+PSI shows tasks on {{ $labels.instance }} runnable-but-waiting {{ $value | humanizePercentage }} of the time for over 10m.
+
+This is NODE-level and cannot say which workload is stalling.
+
+For per-pod attribution query node_pod_cgroup_pressure_avg300_percent{resource="cpu", kind="full"} joined on uid to kube_pod_info — collected, but no longer carrying an alert of its own.
+
+If the worry is the merge-queue coordinator specifically, read MergeQueueConfigLoadHeadroomLow, which watches its config-load durations directly rather than the pressure that slows them.

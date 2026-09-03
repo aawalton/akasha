@@ -1,0 +1,5 @@
+{{ $value }} consistency-check failure(s) for resource={{ $labels.resource }} in the last 5 min.
+
+The apiserver itself observed its watch cache disagreeing with the storage backend — the authoritative leading signal for pods-cache desync.
+
+Runbook: packages/infra/k8s/docs/dr/k3s-apiserver-pods-cache-desync.md

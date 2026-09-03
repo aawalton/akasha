@@ -1,0 +1,7 @@
+{{ $value }} pods-watcher terminations in the last 5 min — resourceVersion fell out of the watch buffer.
+
+Often a precursor to pods-cache desync.
+
+Baseline at cluster scope is <1/day; sustained 10/5m is well above noise.
+
+Runbook: packages/infra/k8s/docs/dr/k3s-apiserver-pods-cache-desync.md

@@ -1,0 +1,1 @@
+Over 5% of Loki requests are failing 5xx, at a floor of more than 0.05 errors/s so this is real volume rather than one failure on an idle server. Both log ingestion and log querying run through this path. Startup readiness probes are excluded. Check: kubectl logs -n loki deploy/loki, and whether the object-store backend is reachable.

@@ -1,0 +1,5 @@
+p99 latency for kine {{ $labels.operation }} = {{ $value | printf "%.2f" }}s (cluster baseline ~50 ms).
+
+Indicates compaction backlog or SQLite contention; precedes apiserver cache stalls.
+
+Runbook: packages/infra/k8s/docs/dr/k3s-apiserver-pods-cache-desync.md

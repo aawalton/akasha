@@ -1,0 +1,1 @@
+GPU {{ $labels.gpu }} temperature is {{ $value }}C.
