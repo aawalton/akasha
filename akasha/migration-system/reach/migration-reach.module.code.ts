@@ -12,9 +12,15 @@ const DECLARING = '^\\s*(id|slug|pageTypeSlug)\\s*:\\s*"'
 
 const DECLARED = /^\s*(id|slug|pageTypeSlug)\s*:\s*"([^"]+)"/
 
-const FILED = /^\s*(id|slug|page-type-slug)\s*:\s*"?([^"#]+?)"?\s*$/
+const FILED = /^\s*([A-Za-z][A-Za-z0-9_-]*)\s*:\s*"?([^"#]*?)"?\s*$/
 
-const HEAD = 4096
+const IDENTITY: ReadonlySet<string> = new Set(["id", "slug", "page-type-slug", "pageTypeSlug"])
+
+const FIELD = 6
+
+const FIELDS = 6
+
+const HEAD = 16384
 
 export type Inside = {
   readonly path: string
@@ -24,27 +30,32 @@ export type Inside = {
 }
 
 export type Reaching = {
+  readonly root: string
   readonly at: string
   readonly pages: readonly Inside[]
   readonly byId: ReadonlyMap<string, string>
   readonly byTail: ReadonlyMap<string, readonly string[]>
   readonly byName: ReadonlyMap<string, readonly string[]>
   readonly byBlob: ReadonlyMap<string, readonly string[]>
+  readonly byType: ReadonlyMap<string, number>
   readonly held: ReadonlySet<string>
+  readonly bodyOf: (path: string) => string
 }
 
 export type Stated = {
   readonly path: string
+  readonly there: boolean
   readonly id: string | null
   readonly slug: string | null
   readonly pageTypeSlug: string | null
   readonly blob: string | null
+  readonly fields: readonly string[]
 }
 
 export type Told = ReadonlyMap<string, string>
 
 export type Held = {
-  readonly kind: "identity" | "body" | "name" | "told" | "tail"
+  readonly kind: "identity" | "body" | "name" | "told" | "tail" | "absent"
   readonly at: string
   readonly said: string
 }
@@ -122,6 +133,7 @@ export function reachingIn(root: string): Reaching {
   const byId = new Map<string, string>()
   const byTail = new Map<string, string[]>()
   const byName = new Map<string, string[]>()
+  const byType = new Map<string, number>()
   const held = new Set<string>()
   for (const one of pages) {
     held.add(one.path)
@@ -129,33 +141,47 @@ export function reachingIn(root: string): Reaching {
       if (!byId.has(one.id)) byId.set(one.id, one.path)
       pushed(byTail, tailOf(one.id), one.path)
     }
+    if (one.pageTypeSlug !== null) {
+      byType.set(one.pageTypeSlug, (byType.get(one.pageTypeSlug) ?? 0) + 1)
+    }
     if (one.slug !== null && one.pageTypeSlug !== null) {
       pushed(byName, nameOf(one.pageTypeSlug, one.slug), one.path)
     }
   }
   const byBlob = blobsIn(linesOf(told(root, ["ls-files", "-s", "--", INSIDE])))
   for (const paths of byBlob.values()) for (const one of paths) held.add(one)
-  return { at, pages, byId, byTail, byName, byBlob, held }
+  const bodyOf = (path: string): string => bodyIn(root, path)
+  return { root, at, pages, byId, byTail, byName, byBlob, byType, held, bodyOf }
 }
 
-export function statedOf(path: string, text: string): Omit<Stated, "blob"> {
+export function fieldWorth(value: string): boolean {
+  if (value.length < FIELD) return false
+  if (/^[0-9.]+$/.test(value)) return false
+  return value !== "true" && value !== "false" && value !== "null"
+}
+
+export function statedOf(path: string, text: string): Omit<Stated, "blob" | "there"> {
   const held: { id: string | null; slug: string | null; pageTypeSlug: string | null } = {
     id: null,
     slug: null,
     pageTypeSlug: null,
   }
+  const fields: string[] = []
   const lines = text.split("\n")
   const front = lines[0]?.trim() === FRONT
   for (const [at, line] of lines.entries()) {
     if (front && at > 0 && line.trim() === FRONT) break
     const said = front ? FILED.exec(line) : DECLARED.exec(line)
     if (said === null) continue
+    const key = said[1] ?? ""
     const value = (said[2] ?? "").trim()
-    if (said[1] === "id") held.id = value
-    if (said[1] === "slug") held.slug = value
-    if (said[1] === "pageTypeSlug" || said[1] === "page-type-slug") held.pageTypeSlug = value
+    if (key === "id") held.id = value
+    else if (key === "slug") held.slug = value
+    else if (key === "pageTypeSlug" || key === "page-type-slug") held.pageTypeSlug = value
+    if (IDENTITY.has(key) || !fieldWorth(value) || fields.length >= FIELDS) continue
+    fields.push(value)
   }
-  return { path, ...held }
+  return { path, ...held, fields }
 }
 
 export function statedIn(root: string, paths: readonly string[]): readonly Stated[] {
@@ -169,8 +195,51 @@ export function statedIn(root: string, paths: readonly string[]): readonly State
     } catch {
       text = ""
     }
-    return { ...statedOf(path, text), blob: blobOf.get(path) ?? null }
+    return { ...statedOf(path, text), there: text !== "", blob: blobOf.get(path) ?? null }
   })
+}
+
+const ABSENT = "no file is there to judge, so this says nothing about content"
+
+const NO_NAME = "this file names no page type of its own, so no counterpart could be looked for"
+
+const NO_TYPE = "akasha carries no page at all of page type"
+
+const REGROUPED =
+  "— this folder may have been regrouped at another grain rather than left behind, so look for the content under another page type before migrating it again"
+
+const bodies = new Map<string, string>()
+
+export function bodyIn(root: string, path: string): string {
+  const found = bodies.get(path)
+  if (found !== undefined) return found
+  let text = ""
+  try {
+    text = readFileSync(`${root}/${path}`, "utf8")
+  } catch {
+    text = ""
+  }
+  bodies.set(path, text)
+  return text
+}
+
+export function fieldFound(
+  bodyOf: (path: string) => string,
+  at: string,
+  fields: readonly string[]
+): string | null {
+  if (fields.length === 0) return null
+  const text = bodyOf(at)
+  if (text === "") return null
+  for (const one of fields) if (text.includes(one)) return one
+  return null
+}
+
+export function regroupedIn(root: string, stated: Stated): readonly string[] {
+  const one = stated.fields[0]
+  if (one === undefined) return []
+  const said = told(root, ["grep", "-I", "-l", "-F", one, "--", INSIDE])
+  return said === null ? [] : said.split("\n").filter((line) => line !== "")
 }
 
 export function reachedBy(reaching: Reaching, stated: Stated, said?: Told): Reach {
@@ -194,7 +263,20 @@ export function reachedBy(reaching: Reaching, stated: Stated, said?: Told): Reac
   if (stated.slug !== null && stated.pageTypeSlug !== null) {
     const key = nameOf(stated.pageTypeSlug, stated.slug)
     for (const one of reaching.byName.get(key) ?? []) {
-      strong.push({ kind: "name", at: one, said: `the page at ${one} is \`${key}\`` })
+      const field = fieldFound(reaching.bodyOf, one, stated.fields)
+      if (field === null) {
+        weak.push({
+          kind: "name",
+          at: one,
+          said: `the page at ${one} is \`${key}\`, and no field of this file was found in that page`,
+        })
+        continue
+      }
+      strong.push({
+        kind: "name",
+        at: one,
+        said: `the page at ${one} is \`${key}\` and carries \`${field}\``,
+      })
     }
   }
   if (stated.blob !== null) {
@@ -219,12 +301,16 @@ export function reachedBy(reaching: Reaching, stated: Stated, said?: Told): Reac
     }
   }
   if (strong.length > 0) return { reached: true, path: stated.path, held: [...strong, ...weak] }
-  return {
-    reached: false,
-    path: stated.path,
-    why: "nothing under akasha states its id, carries its name, holds its bytes, or was named for it",
-    weak,
-  }
+  return { reached: false, path: stated.path, why: whyNot(reaching, stated), weak }
+}
+
+export function whyNot(reaching: Reaching, stated: Stated): string {
+  if (!stated.there) return ABSENT
+  const type = stated.pageTypeSlug
+  if (type === null) return NO_NAME
+  const many = reaching.byType.get(type) ?? 0
+  if (many === 0) return `${NO_TYPE} \`${type}\` ${REGROUPED}`
+  return `akasha carries ${many} pages of \`${type}\`, and none of them carries this file's slug`
 }
 
 export function reachOver(

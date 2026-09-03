@@ -35,11 +35,33 @@ function reachingOf(pages: readonly Inside[], blobs: readonly string[] = []): Re
     byBlob.set(one, ["akasha/one/held.ts"])
     held.add("akasha/one/held.ts")
   }
-  return { at: "head", pages, byId, byTail, byName, byBlob, held }
+  return {
+    root: "/root",
+    at: "head",
+    pages,
+    byId,
+    byTail,
+    byName,
+    byBlob,
+    byType: new Map(
+      pages.filter((one) => one.pageTypeSlug !== null).map((one) => [one.pageTypeSlug ?? "", 1])
+    ),
+    held,
+    bodyOf: () => "carries absorb the very field",
+  }
 }
 
 function stating(one: Partial<Stated>): Stated {
-  return { path: "pages/one/a.md", id: null, slug: null, pageTypeSlug: null, blob: null, ...one }
+  return {
+    path: "pages/one/a.md",
+    there: true,
+    id: null,
+    slug: null,
+    pageTypeSlug: null,
+    blob: null,
+    fields: ["absorb the very field"],
+    ...one,
+  }
 }
 
 test("front matter says what a markdown page claims", () => {
@@ -55,12 +77,9 @@ test("front matter says what a markdown page claims", () => {
       "id: not-this",
     ].join("\n")
   )
-  expect(said).toEqual({
-    path: "pages/proof/one.proof.md",
-    id: OLD,
-    slug: "one",
-    pageTypeSlug: "proof",
-  })
+  expect(said.id).toBe(OLD)
+  expect(said.slug).toBe("one")
+  expect(said.pageTypeSlug).toBe("proof")
 })
 
 test("a body declaring its values says what a typescript page claims", () => {
@@ -84,6 +103,45 @@ test("what git grep said is read back as one page for each file", () => {
   expect(said).toEqual([
     { path: "akasha/one/a.proof.ts", id: OLD, slug: "one", pageTypeSlug: "proof" },
   ])
+})
+
+test("a page carrying the name but no field of the file is weak rather than reaching", () => {
+  const reaching = reachingOf([
+    { path: "akasha/one/a.proof.ts", id: NEW, slug: "one", pageTypeSlug: "proof" },
+  ])
+  const said = reachedBy(
+    { ...reaching, bodyOf: () => "nothing of the file is in here" },
+    stating({ slug: "one", pageTypeSlug: "proof" })
+  )
+  expect(said.reached).toBe(false)
+  expect(said.reached ? [] : said.weak.map((one) => one.kind)).toContain("name")
+})
+
+test("a file that is not there says so rather than saying its content is unreached", () => {
+  const said = reachedBy(
+    reachingOf([]),
+    stating({ there: false, slug: "one", pageTypeSlug: "proof" })
+  )
+  expect(said.reached).toBe(false)
+  expect(said.reached ? "" : said.why).toContain("no file is there to judge")
+})
+
+test("a page type akasha carries none of is answered as a regrouping to look for", () => {
+  const said = reachedBy(
+    reachingOf([{ path: "akasha/one/b.ts", id: NEW, slug: "b", pageTypeSlug: "other" }]),
+    stating({ slug: "one", pageTypeSlug: "temper-completed-month" })
+  )
+  expect(said.reached).toBe(false)
+  expect(said.reached ? "" : said.why).toContain("no page at all of page type")
+  expect(said.reached ? "" : said.why).toContain("regrouped at another grain")
+})
+
+test("a page type akasha carries others of is told apart from one it carries none of", () => {
+  const said = reachedBy(
+    reachingOf([{ path: "akasha/one/b.proof.ts", id: NEW, slug: "b", pageTypeSlug: "proof" }]),
+    stating({ slug: "one", pageTypeSlug: "proof" })
+  )
+  expect(said.reached ? "" : said.why).toContain("none of them carries this file's slug")
 })
 
 test("what git ls-files said is read back as the paths each blob sits at", () => {
@@ -122,7 +180,7 @@ test("a file nothing under akasha answers for is not reached", () => {
     stating({ id: OLD, slug: "one", pageTypeSlug: "proof" })
   )
   expect(said.reached).toBe(false)
-  expect(said.reached ? "" : said.why).toContain("nothing under akasha")
+  expect(said.reached ? "" : said.why).toContain("none of them carries this file's slug")
 })
 
 test("an id ending in the eight hex a replacement keeps reaches nothing on its own", () => {
