@@ -55,6 +55,13 @@ export function readDifficulty(said: string): LevelReading {
   return readLevel(said, DIFFICULTY_LOW, DIFFICULTY_HIGH, DIFFICULTY_SAID)
 }
 
+const WORD_CHARACTER = "[0-9A-Za-z_]"
+
+function holdsWholeWord(holds: string, wanted: string): boolean {
+  const escaped = wanted.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+  return new RegExp(`(?<!${WORD_CHARACTER})${escaped}(?!${WORD_CHARACTER})`).test(holds)
+}
+
 export function difficultyForTitle(
   title: string,
   activities: readonly ActivityDifficulty[]
@@ -65,7 +72,7 @@ export function difficultyForTitle(
     const wanted = one.title.trim().toLowerCase()
     if (wanted === "") continue
     if (!Number.isFinite(one.defaultDifficulty)) continue
-    if (!holds.includes(wanted)) continue
+    if (!holdsWholeWord(holds, wanted)) continue
     if (best === null || one.defaultDifficulty > best) best = one.defaultDifficulty
   }
   return best === null ? null : levelSaid(best)

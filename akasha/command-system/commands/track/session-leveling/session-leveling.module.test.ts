@@ -103,7 +103,38 @@ test("a matched difficulty of a half step keeps the half", () => {
   expect(difficultyForTitle("Piano", [{ title: "Piano", defaultDifficulty: 2.5 }])).toBe("2.5")
 })
 
-test("an activity matched inside a longer word is matched all the same", () => {
-  expect(difficultyForTitle("Threading cable", [{ title: "Read", defaultDifficulty: 3 }])).toBe("3")
-  expect(difficultyForTitle("Cartography", [{ title: "art", defaultDifficulty: 2 }])).toBe("2")
+const ACTIVITIES = [
+  { title: "Read", defaultDifficulty: 1 },
+  { title: "Rest", defaultDifficulty: 0 },
+  { title: "Music", defaultDifficulty: 0 },
+  { title: "Hygiene", defaultDifficulty: 1 },
+  { title: "Walk", defaultDifficulty: 1 },
+  { title: "Projects", defaultDifficulty: 2 },
+]
+
+test("an activity matched inside a longer word matches nothing", () => {
+  expect(difficultyForTitle("Threading cable", ACTIVITIES)).toBe(null)
+  expect(difficultyForTitle("Cartography", [{ title: "art", defaultDifficulty: 2 }])).toBe(null)
+})
+
+test("a title holding an activity's title only inside a longer word matches nothing", () => {
+  expect(difficultyForTitle("Reading", ACTIVITIES)).toBe(null)
+})
+
+test("an activity that is a whole word of a title matches", () => {
+  expect(difficultyForTitle("Read + Rest", ACTIVITIES)).toBe("1")
+})
+
+test("the highest difficulty among the activities of one title wins", () => {
+  expect(difficultyForTitle("Music + Hygiene", ACTIVITIES)).toBe("1")
+})
+
+test("a match is read with the case folded away", () => {
+  expect(difficultyForTitle("READ + rest", ACTIVITIES)).toBe("1")
+})
+
+test("a title parting its words by a slash or a dash or a space is matched whole", () => {
+  expect(difficultyForTitle("Walk / Pray", ACTIVITIES)).toBe("1")
+  expect(difficultyForTitle("Walk and Pray", ACTIVITIES)).toBe("1")
+  expect(difficultyForTitle("Projects — Friday pull", ACTIVITIES)).toBe("2")
 })

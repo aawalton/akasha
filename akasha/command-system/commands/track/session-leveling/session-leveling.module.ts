@@ -51,7 +51,11 @@ export const sessionLeveling = {
     {
       invariantKind: "departure",
       statement:
-        "An activity matches a title whose lowercase holds the activity's lowercase title.",
+        "An activity matches a title whose lowercase holds the activity's lowercase title as a whole word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A match touching a letter or a digit or an underscore is no whole word.",
     },
     {
       invariantKind: "departure",
@@ -64,14 +68,6 @@ export const sessionLeveling = {
     {
       invariantKind: "departure",
       statement: "An activity carrying no finite difficulty matches nothing.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An activity matched inside a longer word is matched all the same.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "An activity matches a title by whole words.",
     },
     {
       invariantKind: "absence",
