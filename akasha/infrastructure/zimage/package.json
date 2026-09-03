@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/zimage",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./zimage-graph": "./zimage-graph/zimage-graph.module.code.ts",
+    "./zimage-models": "./zimage-models/zimage-models.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/utils-system": "workspace:*",
+    "@infra/comfy": "workspace:*"
+  }
+}

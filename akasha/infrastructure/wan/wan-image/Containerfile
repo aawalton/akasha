@@ -1,0 +1,101 @@
+# Reproducible ComfyUI image for Wan 2.2 I2V on the workstation RTX 5080
+# (Blackwell, sm_120). Clones at build time at pinned commits, so the build
+# needs only this package dir as context (for the in-container ArcFace scorer
+# copy below).
+#
+# Build:  podman build -t wan:local -f wan-image/Containerfile .
+# Run:    see shell-script/wan-up
+FROM nvidia/cuda:12.8.1-devel-ubuntu24.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+# 12.0 = sm_120 (Blackwell). ref https://en.wikipedia.org/wiki/CUDA
+ENV TORCH_CUDA_ARCH_LIST="8.0 8.6 8.9 9.0 10.0 12.0"
+
+RUN apt-get update && apt-get install --no-install-recommends -y \
+    git \
+    curl \
+    build-essential \
+    cmake \
+    wget \
+    python3.12 \
+    python3-pip \
+    python3-dev \
+    python3-setuptools \
+    python3-wheel \
+    python3-venv \
+    ffmpeg \
+    libgl1 \
+    libglib2.0-0 \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN ln -s /usr/bin/python3 /usr/bin/python
+WORKDIR /app
+
+# Install torch BEFORE the clones so the multi-GB Blackwell wheel layer stays
+# cached across revision bumps. cu128 wheels carry native sm_120 kernels;
+# torchaudio is pinned alongside so ComfyUI's requirements.txt doesn't pull a
+# default-index torchaudio that would clobber the cu128 torch.
+RUN pip install --no-cache-dir --break-system-packages \
+    torch==2.9.1 torchvision==0.24.1 torchaudio==2.9.1 \
+    --index-url https://download.pytorch.org/whl/cu128
+
+# SageAttention 2.2 (SageAttention2++), built from source for sm_120 (Blackwell):
+# no prebuilt wheel ships Blackwell + torch-2.9/cu128 kernels, so compile against
+# the in-image torch and nvcc 12.8.1 (its setup.py requires CUDA >= 12.8 for cc
+# 12.0). Pinned to v2.2.0 (post-dates the torch-2.9 build fixes). Scope the arch
+# to "12.0" for this RUN only — setup.py emits compute_120a/sm_120a — so the
+# compile targets just this card. ComfyUI enables it via --use-sage-attention
+# (see CMD); the global TORCH_CUDA_ARCH_LIST above is left untouched. Built
+# before the ComfyUI clones so custom-node ref bumps don't bust this slow layer.
+ARG SAGEATTENTION_REF=v2.2.0
+# --no-build-isolation builds against the image's Python, so its PEP 518 build
+# deps must be present: packaging (imported by SageAttention's setup.py) and
+# ninja (parallel CUDA compile driver for MAX_JOBS). setuptools/wheel/torch are
+# already in the image.
+RUN pip install --no-cache-dir --break-system-packages packaging ninja && \
+    git clone --depth 1 --branch "${SAGEATTENTION_REF}" \
+        https://github.com/thu-ml/SageAttention.git /tmp/SageAttention && \
+    cd /tmp/SageAttention && \
+    TORCH_CUDA_ARCH_LIST="12.0" EXT_PARALLEL=4 NVCC_APPEND_FLAGS="--threads 8" MAX_JOBS=32 \
+    pip install . --no-build-isolation --no-cache-dir --break-system-packages && \
+    rm -rf /tmp/SageAttention
+
+# Pinned revisions (master/main heads resolved 2026-06-12).
+ARG COMFYUI_REF=28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90
+ARG COMFYUI_GGUF_REF=6ea2651e7df66d7585f6ffee804b20e92fb38b8a
+ARG VIDEOHELPERSUITE_REF=4ee72c065db22c9d96c2427954dc69e7b908444b
+
+RUN git clone https://github.com/comfyanonymous/ComfyUI.git && \
+    cd ComfyUI && \
+    git checkout "${COMFYUI_REF}"
+
+RUN pip install --no-cache-dir --break-system-packages -r /app/ComfyUI/requirements.txt
+
+RUN cd /app/ComfyUI/custom_nodes && \
+    git clone https://github.com/city96/ComfyUI-GGUF.git && \
+    cd ComfyUI-GGUF && \
+    git checkout "${COMFYUI_GGUF_REF}" && \
+    pip install --no-cache-dir --break-system-packages -r requirements.txt
+
+RUN cd /app/ComfyUI/custom_nodes && \
+    git clone https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git && \
+    cd ComfyUI-VideoHelperSuite && \
+    git checkout "${VIDEOHELPERSUITE_REF}" && \
+    pip install --no-cache-dir --break-system-packages -r requirements.txt
+
+# insightface/onnxruntime power the in-container ArcFace scorer (wan score);
+# hf_transfer speeds the ~25 GB weight pull (wan provision).
+RUN pip install --no-cache-dir --break-system-packages \
+    insightface onnxruntime-gpu "huggingface_hub[hf_transfer]"
+
+COPY wan-frame-scoring/wan-frame-scoring.python-module.python.py /app/bin/score-frames.py
+
+ENV HF_HUB_ENABLE_HF_TRANSFER=1
+ENV PYTORCH_ALLOC_CONF=expandable_segments:True
+
+EXPOSE 8676
+WORKDIR /app/ComfyUI
+# Inside-container listen must be 0.0.0.0 for the podman port publish; the
+# publish itself binds host 127.0.0.1 only (see shell-script/wan-up).
+CMD ["python", "main.py", "--listen", "0.0.0.0", "--port", "8676", "--use-sage-attention"]

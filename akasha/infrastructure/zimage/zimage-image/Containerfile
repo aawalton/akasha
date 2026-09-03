@@ -1,0 +1,78 @@
+# Reproducible ComfyUI image for CUDA Z-Image serving on the workstation
+# RTX 5080 (Blackwell, sm_120, 16 GB). Serves the Tongyi-MAI/Z-Image-Turbo
+# distill (fp8_e4m3fn) — the CUDA fast-path sibling of the macbook MLX
+# `image-gen` service.
+#
+# Mirrors the @infra/wan image doctrine (pinned clones at build time, host
+# driver stays on the host, CUDA userspace + torch + ComfyUI live in the
+# container).
+#
+# Deliberately leaner than @infra/wan and @infra/upscale: NO custom nodes at all.
+# Z-Image fp8 serving uses only ComfyUI CORE loaders (UNETLoader / CLIPLoader
+# / VAELoader / LoraLoader / KSampler / VAEDecode / SaveImage) — no GGUF loader,
+# no SeedVR2/SRPO/person-mask. The pinned ComfyUI ref carries native Z-Image
+# support (comfy/supported_models.py: class ZImage(Lumina2) + the z_image text
+# encoder), proven working with torch 2.9.1 cu128 on this card by @infra/wan.
+#
+# Build:  podman build -t zimage:local -f zimage-image/Containerfile .
+# Run:    see shell-script/zimage-up
+FROM nvidia/cuda:12.8.1-devel-ubuntu24.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+# 12.0 = sm_120 (Blackwell). ref https://en.wikipedia.org/wiki/CUDA
+ENV TORCH_CUDA_ARCH_LIST="8.0 8.6 8.9 9.0 10.0 12.0"
+
+RUN apt-get update && apt-get install --no-install-recommends -y \
+    git \
+    curl \
+    build-essential \
+    cmake \
+    wget \
+    python3.12 \
+    python3-pip \
+    python3-dev \
+    python3-setuptools \
+    python3-wheel \
+    python3-venv \
+    ffmpeg \
+    libgl1 \
+    libglib2.0-0 \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN ln -s /usr/bin/python3 /usr/bin/python
+WORKDIR /app
+
+# Install torch BEFORE the clone so the multi-GB Blackwell wheel layer stays
+# cached across ComfyUI ref bumps. cu128 wheels carry native sm_120 kernels;
+# torchaudio is pinned alongside so ComfyUI's requirements.txt cannot pull a
+# default-index torchaudio that would clobber the cu128 torch.
+RUN pip install --no-cache-dir --break-system-packages \
+    torch==2.9.1 torchvision==0.24.1 torchaudio==2.9.1 \
+    --index-url https://download.pytorch.org/whl/cu128
+
+# Pinned ComfyUI revision — the @infra/wan / @infra/upscale pin (proven working
+# with torch 2.9.1 cu128 on this card, resolved 2026-06-12), which carries native
+# Z-Image support.
+ARG COMFYUI_REF=28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90
+
+RUN git clone https://github.com/comfyanonymous/ComfyUI.git && \
+    cd ComfyUI && \
+    git checkout "${COMFYUI_REF}"
+
+RUN pip install --no-cache-dir --break-system-packages -r /app/ComfyUI/requirements.txt
+
+# hf_transfer speeds the ~12 GB weight pull (shell-script/zimage-provision).
+RUN pip install --no-cache-dir --break-system-packages \
+    "huggingface_hub[hf_transfer]"
+
+ENV HF_HUB_ENABLE_HF_TRANSFER=1
+ENV PYTORCH_ALLOC_CONF=expandable_segments:True
+
+EXPOSE 8678
+WORKDIR /app/ComfyUI
+# Inside-container listen must be 0.0.0.0 for the podman port publish; the
+# publish itself binds host 127.0.0.1 only (see shell-script/zimage-up). Port 8678
+# is one above @infra/upscale's 8677 (and @infra/wan's 8676) so all three
+# daemons can be up at once.
+CMD ["python", "main.py", "--listen", "0.0.0.0", "--port", "8678"]

@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/inference-pool",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./pool-config": "./pool-config/pool-config.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/wan",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./wan-backbone": "./wan-backbone/wan-backbone.module.code.ts",
+    "./wan-extend-graph": "./wan-extend-graph/wan-extend-graph.module.code.ts",
+    "./wan-i2v-graph": "./wan-i2v-graph/wan-i2v-graph.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "@infra/comfy": "workspace:*"
+  }
+}
