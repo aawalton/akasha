@@ -18,6 +18,7 @@ export const editorExtension = {
     "module/agent-tree-ids",
     "module/seat-page",
     "module/palette",
+    "module/tree-filter",
   ],
   invariants: [
     {
