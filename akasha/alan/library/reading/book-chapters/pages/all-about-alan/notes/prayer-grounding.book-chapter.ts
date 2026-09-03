@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../book-chapter.page-type.ts"
 
 export const prayerGrounding = {
   id: "01a06594-c67c-7004-938a-ebebca09b6ec",
