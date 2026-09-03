@@ -22,4 +22,14 @@ export const sessions = {
     { pagePropertySlug: "owner", required: false, many: false },
     { pagePropertySlug: "breathing-sets", required: false, many: false },
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A question about a stretch is identified by a mark made when the stretch opened.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question about a stretch is never identified by that stretch's title.",
+    },
+  ],
 } as const satisfies PagePropertyEntry

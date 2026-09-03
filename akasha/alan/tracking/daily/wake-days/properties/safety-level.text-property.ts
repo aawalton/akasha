@@ -15,5 +15,9 @@ export const safetyLevel = {
       invariantKind: "departure",
       statement: "A safety level reads as a number and is written as text.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A safety level carries forward from the prior stretch of time.",
+    },
   ],
 } as const satisfies TextProperty

@@ -9,4 +9,18 @@ export const capacityRate = {
   propertySlug: "capacity-rate",
   definition: "how much capacity for stress an hour of a stretch gave back or took",
   max: null,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A rate is matched by the word Alan writes in a session title.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session naming several recovery activities credits at the best rate.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A session naming several recovery activities credits at the sum of its rates.",
+    },
+  ],
 } as const satisfies NumberProperty
