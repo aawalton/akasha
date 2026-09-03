@@ -12,4 +12,26 @@ export const loki = {
   replicas: 1,
   containerPort: 3100,
   manifestCode: "akasha/infrastructure/loki-service/loki/loki.cluster-service.code.attachment.ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Loki keeps a log for seven days.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workload's log reaches Loki from a collector on its node.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workstation program pushes its own log.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Loki takes no authentication of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the tailnet limits who reaches Loki.",
+    },
+  ],
 } as const satisfies ClusterService
