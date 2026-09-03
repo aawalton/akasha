@@ -1,0 +1,32 @@
+import type { View } from "../view.page-type.ts"
+
+export const personasSeats = {
+  id: "01a06577-2615-7001-a27a-695bf8fb1121",
+  pageTypeSlug: "view",
+  slug: "personas-seats",
+  title: "Seats",
+  navSlug: "personas",
+  drawsSlug: "seat",
+  viewPlace: 4,
+  layout: "table",
+  viewSorts: [{ key: "title", descending: false }],
+  groupSorts: [{ key: "label", descending: true }],
+  groupBy: "start-mode",
+  visibleProperties: [
+    "persona-slug",
+    "role-slug",
+    "domain-slug",
+    "person-slug",
+    "seat-name",
+    "start-mode",
+    "mode",
+    "presence",
+    "turn-state",
+    "on-call",
+    "project-seq",
+  ],
+  alwaysShowProperties: ["persona-slug", "role-slug", "domain-slug", "presence", "turn-state"],
+  pageSize: 100,
+  itemPageSize: 50,
+  groupPageSize: 6,
+} as const satisfies View

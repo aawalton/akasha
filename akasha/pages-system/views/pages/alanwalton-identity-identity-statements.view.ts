@@ -1,0 +1,33 @@
+import type { View } from "../view.page-type.ts"
+
+export const alanwaltonIdentityIdentityStatements = {
+  id: "01a06577-2614-7000-8fdc-13e47640e705",
+  pageTypeSlug: "view",
+  slug: "alanwalton-identity-identity-statements",
+  title: "Identity Statements",
+  navSlug: "alanwalton-identity",
+  drawsSlug: "identity-statement",
+  viewPlace: 2,
+  layout: "cards",
+  viewSorts: [{ key: "title", descending: false }],
+  visibleProperties: ["value-slug"],
+  alwaysShowProperties: ["value-slug"],
+  hiddenPropertiesOrder: [
+    "about",
+    "created-at",
+    "level",
+    "page-type-id",
+    "parent-item-id",
+    "rank",
+    "replaced-by-ids",
+    "replaces-ids",
+    "seq",
+    "status",
+    "sub-item-ids",
+    "tags",
+    "updated-at",
+  ],
+  pageSize: 12,
+  itemPageSize: 12,
+  groupPageSize: 6,
+} as const satisfies View
