@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
 
 export const runCostLagging = {
   id: "01a06860-a0ef-71f3-b599-95f96a7e268d",
