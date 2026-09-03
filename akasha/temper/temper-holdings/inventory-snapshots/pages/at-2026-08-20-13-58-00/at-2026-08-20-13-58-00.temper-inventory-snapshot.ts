@@ -10,4 +10,5 @@ export const at20260820135800 = {
   totalValue: 516795362.2235968,
   chunkCount: 3,
   stacks: "jsonl",
+  data: "json",
 } as const satisfies TemperInventorySnapshot
