@@ -6,10 +6,13 @@ export const temperWatcher = {
   slug: "temper-watcher",
   definition: "the service carrying what Alan does in the game across to the web",
   runs: ["bun akasha/temper/temper-watcher/watcher-running/watcher-running.module.code.ts"],
-  enabled: true,
+  enabled: false,
   systemd: {
     restart: "on-failure",
     restartDelaySeconds: 5,
+    successExitStatus: 75,
+    restartForceExitStatus: 75,
+    startLimitIntervalSeconds: 0,
   },
   invariants: [
     {
@@ -24,6 +27,15 @@ export const temperWatcher = {
       invariantKind: "departure",
       statement:
         "A change to the worker reaches the workstation on a restart rather than on a deploy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Exit 75 is the worker asking to start again and is counted as a clean stop.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Repeated starts are counted over no window, so a watcher failing all night keeps on.",
     },
   ],
 } as const satisfies WorkstationService
