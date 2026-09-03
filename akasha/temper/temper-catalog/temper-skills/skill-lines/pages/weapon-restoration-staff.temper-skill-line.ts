@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const weaponRestorationStaff = {
-  id: "01a05fce-298a-76be-8807-4692402e3cbf",
+  id: "019e61dc-f1c4-70d0-b7a5-75f591906775",
   pageTypeSlug: "temper-skill-line",
   slug: "weapon-restoration-staff",
   title: "Restoration Staff",

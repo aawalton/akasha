@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionSharedMagesGuild = {
-  id: "01a05fce-2970-74c2-9aba-0c9139152594",
+  id: "019e61dc-f1f5-7cbc-82d2-11acb2804b0a",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-shared-mages-guild",
   title: "Mages Guild",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionSharedDestructionStaff = {
-  id: "01a05fce-296e-7a54-8122-42b050176c1d",
+  id: "019e61dc-f1ee-74ca-9ee8-79462cbe176e",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-shared-destruction-staff",
   title: "Destruction Staff",

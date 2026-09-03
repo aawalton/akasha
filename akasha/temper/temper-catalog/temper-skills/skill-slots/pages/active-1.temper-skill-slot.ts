@@ -1,7 +1,7 @@
 import type { TemperSkillSlot } from "../temper-skill-slot.page-type.ts"
 
 export const active1 = {
-  id: "01a05fce-298c-773c-86b1-e8932a110b25",
+  id: "019e3102-5655-7235-ab8e-7f50f1dcc5c0",
   pageTypeSlug: "temper-skill-slot",
   slug: "active-1",
   title: "Active 1",

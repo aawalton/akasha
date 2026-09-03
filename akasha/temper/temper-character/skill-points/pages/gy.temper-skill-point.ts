@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const gy = {
-  id: "01a05fd0-d55a-7897-b46e-e468e651339b",
+  id: "019e6471-154d-79c3-bdcf-b4c92a5e281e",
   pageTypeSlug: "temper-skill-point",
   slug: "gy",
   title: "Galen",

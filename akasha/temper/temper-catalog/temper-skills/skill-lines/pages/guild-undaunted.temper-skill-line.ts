@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const guildUndaunted = {
-  id: "01a05fce-2979-7040-8ed8-8cec2c7e892d",
+  id: "019e61dc-f1ca-772f-a621-ae41dd793b57",
   pageTypeSlug: "temper-skill-line",
   slug: "guild-undaunted",
   title: "Undaunted",

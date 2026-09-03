@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const gc = {
-  id: "01a05fd0-d55a-7928-9bb1-7a76d47602c5",
+  id: "019e6471-153c-7b18-b0ea-a109356e3927",
   pageTypeSlug: "temper-skill-point",
   slug: "gc",
   title: "Gold Coast",

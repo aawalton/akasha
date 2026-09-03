@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ch = {
-  id: "01a05fd0-d553-7f9d-9ae7-637360f4fb04",
+  id: "019e6471-1535-7244-bedb-0fdba875074b",
   pageTypeSlug: "temper-skill-point",
   slug: "ch",
   title: "Coldharbour",

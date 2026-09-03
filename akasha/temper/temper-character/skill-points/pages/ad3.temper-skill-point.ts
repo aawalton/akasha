@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ad3 = {
-  id: "01a05fd0-d550-76e2-be80-1007b4e717ec",
+  id: "019e6471-151f-7f70-9fe0-28be1d742a75",
   pageTypeSlug: "temper-skill-point",
   slug: "ad3",
   title: "Greenshade",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const worldWerewolf = {
-  id: "01a05fce-298c-7c71-8722-0936d4fe8668",
+  id: "019e61dc-f1d3-77f9-9922-91b2f42640eb",
   pageTypeSlug: "temper-skill-line",
   slug: "world-werewolf",
   title: "Werewolf",

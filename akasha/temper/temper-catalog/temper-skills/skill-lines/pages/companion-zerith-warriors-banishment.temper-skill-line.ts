@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionZerithWarriorsBanishment = {
-  id: "01a05fce-2975-7d3d-b9e7-d5ee07d4592d",
+  id: "019e61dc-f21c-70ab-a506-91513e4d0327",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-zerith-warriors-banishment",
   title: "Warrior's Banishment",

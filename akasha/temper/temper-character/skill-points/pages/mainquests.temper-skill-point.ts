@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const mainquests = {
-  id: "01a05fd0-d55f-718a-95ac-52238a140fae",
+  id: "019e6471-1511-7b20-aa5c-8bc7c17ffadb",
   pageTypeSlug: "temper-skill-point",
   slug: "mainquests",
   title: "Main Quests",

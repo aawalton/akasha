@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ap = {
-  id: "01a05fd0-d552-777a-8571-f19dfa1bc74c",
+  id: "019e6471-154e-7f7f-8613-cd8a2466b23b",
   pageTypeSlug: "temper-skill-point",
   slug: "ap",
   title: "Apocrypha",

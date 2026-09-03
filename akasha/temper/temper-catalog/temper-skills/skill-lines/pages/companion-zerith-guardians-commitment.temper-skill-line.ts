@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionZerithGuardiansCommitment = {
-  id: "01a05fce-2974-7719-a246-cc8ed4fb1aeb",
+  id: "019e61dc-f21e-7599-b4e5-c6b4af6d4737",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-zerith-guardians-commitment",
   title: "Guardian's Commitment",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const guildPsijicOrder = {
-  id: "01a05fce-2979-709f-a2e9-a415a55e9da0",
+  id: "019e61dc-f1cb-771d-991d-3314effff2d6",
   pageTypeSlug: "temper-skill-line",
   slug: "guild-psijic-order",
   title: "Psijic Order",

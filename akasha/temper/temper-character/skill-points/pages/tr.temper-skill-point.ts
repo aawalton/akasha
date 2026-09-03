@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const tr = {
-  id: "01a05fd0-d562-7e85-be0f-64b71827ef98",
+  id: "019e6471-1547-7cdb-a30a-1792799852da",
   pageTypeSlug: "temper-skill-point",
   slug: "tr",
   title: "The Reach",

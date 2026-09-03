@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const bw = {
-  id: "01a05fd0-d552-7bf6-8493-d0784136c851",
+  id: "019e6471-1549-734c-bbd4-4ceb979e4243",
   pageTypeSlug: "temper-skill-point",
   slug: "bw",
   title: "Blackwood",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const necromancerLivingDeath = {
-  id: "01a05fce-297a-7880-9f15-78555f936dd7",
+  id: "019e61dc-f1ba-7e48-84e1-800197d72a33",
   pageTypeSlug: "temper-skill-line",
   slug: "necromancer-living-death",
   title: "Living Death",

@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ad5 = {
-  id: "01a05fd0-d551-7d2c-99dc-758faafa176f",
+  id: "019e6471-1522-71d5-ba7b-1b68d9bef078",
   pageTypeSlug: "temper-skill-point",
   slug: "ad5",
   title: "Reaper's March",

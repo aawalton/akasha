@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const weaponDualWield = {
-  id: "01a05fce-298a-735b-8676-4fc612c86413",
+  id: "019e61dc-f1c1-7452-bad3-e06e6d846c8b",
   pageTypeSlug: "temper-skill-line",
   slug: "weapon-dual-wield",
   title: "Dual Wield",

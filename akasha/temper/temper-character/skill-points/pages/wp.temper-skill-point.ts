@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const wp = {
-  id: "01a05fd0-d563-702b-8412-e910d7d849e7",
+  id: "019e6471-151b-776e-a680-60899026ac33",
   pageTypeSlug: "temper-skill-point",
   slug: "wp",
   title: "Wailing Prison",

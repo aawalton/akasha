@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ic = {
-  id: "01a05fd0-d55e-786a-aede-7eb8a31155f9",
+  id: "019e6471-1538-7d45-947f-f9308e8ef790",
   pageTypeSlug: "temper-skill-point",
   slug: "ic",
   title: "Imperial City",

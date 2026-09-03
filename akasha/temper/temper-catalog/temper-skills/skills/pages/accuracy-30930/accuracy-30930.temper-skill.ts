@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const accuracy30930 = {
-  id: "01a05fd0-433f-7c1e-aa4c-b88314686951",
+  id: "019e6f53-9e8f-706e-a40d-926c34b9a997",
   pageTypeSlug: "temper-skill",
   slug: "accuracy-30930",
   title: "Accuracy",

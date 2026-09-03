@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const su = {
-  id: "01a05fd0-d562-751e-b4ec-45a9a10b5da8",
+  id: "019e6471-1540-7ca1-85ee-778382605908",
   pageTypeSlug: "temper-skill-point",
   slug: "su",
   title: "Summerset",

@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const so = {
-  id: "01a05fd0-d561-786d-b006-df35e0b843fc",
+  id: "019e6471-1551-7a95-8fc8-4c8ad6c5cbd7",
   pageTypeSlug: "temper-skill-point",
   slug: "so",
   title: "Solstice",

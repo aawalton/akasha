@@ -1,7 +1,7 @@
 import type { TemperSkillType } from "../temper-skill-type.page-type.ts"
 
 export const active = {
-  id: "01a05fce-298e-7da6-9934-9df731a79a0b",
+  id: "019e46b5-a23d-7062-9586-ac087f63f884",
   pageTypeSlug: "temper-skill-type",
   slug: "active",
   title: "Active",

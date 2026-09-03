@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const racialWoodElfSkills = {
-  id: "01a05fce-297e-735b-95ce-373fb5f97bd8",
+  id: "019e61dc-f1e0-726f-957a-db363fc2c353",
   pageTypeSlug: "temper-skill-line",
   slug: "racial-wood-elf-skills",
   title: "Wood Elf Skills",

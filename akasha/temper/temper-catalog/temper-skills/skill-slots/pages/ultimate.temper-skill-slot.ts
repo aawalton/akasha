@@ -1,7 +1,7 @@
 import type { TemperSkillSlot } from "../temper-skill-slot.page-type.ts"
 
 export const ultimate = {
-  id: "01a05fce-298e-705b-946b-43afe590ef10",
+  id: "019e3102-565e-716c-83ef-2c3977d0fd73",
   pageTypeSlug: "temper-skill-slot",
   slug: "ultimate",
   title: "Ultimate",

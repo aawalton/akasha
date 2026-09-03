@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ep4 = {
-  id: "01a05fd0-d558-7c8e-bfb5-e208721bedf5",
+  id: "019e6471-1532-7a44-944a-3ccae0a54057",
   pageTypeSlug: "temper-skill-point",
   slug: "ep4",
   title: "Eastmarch",

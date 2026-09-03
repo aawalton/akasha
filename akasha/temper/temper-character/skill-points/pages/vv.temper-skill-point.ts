@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const vv = {
-  id: "01a05fd0-d563-7a0b-a19e-cd1d3ecc5fdc",
+  id: "019e6471-153e-709d-9519-1f92dc3312b8",
   pageTypeSlug: "temper-skill-point",
   slug: "vv",
   title: "Vvardenfell",

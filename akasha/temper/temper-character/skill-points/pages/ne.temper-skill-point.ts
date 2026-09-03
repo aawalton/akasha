@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ne = {
-  id: "01a05fd0-d560-7e1e-8b9b-23c5d9897eb6",
+  id: "019e6471-1543-7913-a26c-d17412724071",
   pageTypeSlug: "temper-skill-point",
   slug: "ne",
   title: "Northern Elsweyr",

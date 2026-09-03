@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const foliumdiscognitum = {
-  id: "01a05fd0-d559-72ca-a0b6-f66182edb60c",
+  id: "019e6471-1515-7400-b59a-8e0ebf933f97",
   pageTypeSlug: "temper-skill-point",
   slug: "foliumdiscognitum",
   title: "Folium Discognitum",

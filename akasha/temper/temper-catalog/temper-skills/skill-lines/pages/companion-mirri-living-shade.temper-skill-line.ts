@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionMirriLivingShade = {
-  id: "01a05fce-296d-72dc-bc49-016ff84b4f80",
+  id: "019e61dc-f1fe-777b-b310-7c40abca7725",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-mirri-living-shade",
   title: "Living Shade",

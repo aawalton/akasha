@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const vengeanceTemplarAedricSpear = {
-  id: "01a05fce-2985-7977-a3f2-ca694c3893a0",
+  id: "019e6f53-86b1-78ba-bde3-fd4165ffb69b",
   pageTypeSlug: "temper-skill-line",
   slug: "vengeance-templar-aedric-spear",
   title: "Vengeance Aedric Spear",

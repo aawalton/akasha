@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const acceleratedGrowth = {
-  id: "01a05fd0-433e-713c-9bda-f110d9f7ccbc",
+  id: "019e6245-a5e4-7832-a3c2-c33b06f9349a",
   pageTypeSlug: "temper-skill",
   slug: "accelerated-growth",
   title: "Accelerated Growth",

@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const mm = {
-  id: "01a05fd0-d560-7733-bb16-a5b9f2cd536b",
+  id: "019e6471-1542-7220-afb3-567387235e06",
   pageTypeSlug: "temper-skill-point",
   slug: "mm",
   title: "Murkmire",

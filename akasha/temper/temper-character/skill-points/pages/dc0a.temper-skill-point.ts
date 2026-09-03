@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const dc0a = {
-  id: "01a05fd0-d554-7c6a-87f5-731c07cbd51d",
+  id: "019e6471-1524-7bcb-a4f0-953ed793d87b",
   pageTypeSlug: "temper-skill-point",
   slug: "dc0a",
   title: "Betnikh",

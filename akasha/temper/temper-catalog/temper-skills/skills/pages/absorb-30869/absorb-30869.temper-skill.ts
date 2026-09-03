@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const absorb30869 = {
-  id: "01a05fd0-433b-76e3-8c85-eb473bebdee9",
+  id: "019e6f53-9e80-70a4-a7d0-5c11407177a4",
   pageTypeSlug: "temper-skill",
   slug: "absorb-30869",
   title: "Absorb",

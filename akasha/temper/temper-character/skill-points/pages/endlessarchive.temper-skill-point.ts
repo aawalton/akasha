@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const endlessarchive = {
-  id: "01a05fd0-d556-78c2-9e6f-0a1142978789",
+  id: "019e6471-151a-7559-9242-38f8f4e2a9e8",
   pageTypeSlug: "temper-skill-point",
   slug: "endlessarchive",
   title: "Endless Archive",

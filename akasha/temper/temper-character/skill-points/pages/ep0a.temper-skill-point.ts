@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ep0a = {
-  id: "01a05fd0-d557-71a7-9573-770211112b45",
+  id: "019e6471-152d-7558-8073-fc4cb30fd3d3",
   pageTypeSlug: "temper-skill-point",
   slug: "ep0a",
   title: "Bal Foyen",

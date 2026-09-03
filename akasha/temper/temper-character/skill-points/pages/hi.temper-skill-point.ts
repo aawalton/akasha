@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const hi = {
-  id: "01a05fd0-d55c-76a1-8784-943e31359c56",
+  id: "019e6471-154c-706b-bcb5-539a890b91ed",
   pageTypeSlug: "temper-skill-point",
   slug: "hi",
   title: "High Isle",

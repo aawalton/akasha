@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ad4 = {
-  id: "01a05fd0-d551-7b84-8344-ded486852519",
+  id: "019e6471-1520-7f64-8883-6aab05955a02",
   pageTypeSlug: "temper-skill-point",
   slug: "ad4",
   title: "Malabal Tor",

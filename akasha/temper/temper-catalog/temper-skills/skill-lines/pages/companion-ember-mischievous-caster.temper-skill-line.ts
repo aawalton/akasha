@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionEmberMischievousCaster = {
-  id: "01a05fce-296b-7036-b510-ac45f7c4d81e",
+  id: "019e61dc-f203-7acf-91cb-da85e279007f",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-ember-mischievous-caster",
   title: "Mischievous Caster",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const necromancerBoneTyrant = {
-  id: "01a05fce-297a-728d-a6e4-20f07f849688",
+  id: "019e61dc-f1b9-70b4-8838-6165bc4a1110",
   pageTypeSlug: "temper-skill-line",
   slug: "necromancer-bone-tyrant",
   title: "Bone Tyrant",

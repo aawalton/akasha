@@ -1,7 +1,7 @@
 import type { TemperSkillType } from "../temper-skill-type.page-type.ts"
 
 export const passive = {
-  id: "01a05fce-298e-70c0-9381-0fffbd46dfa3",
+  id: "019e46b5-a243-7401-aced-bd121d4944b2",
   pageTypeSlug: "temper-skill-type",
   slug: "passive",
   title: "Passive",

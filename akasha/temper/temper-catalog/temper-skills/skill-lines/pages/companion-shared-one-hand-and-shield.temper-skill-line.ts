@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionSharedOneHandAndShield = {
-  id: "01a05fce-2971-7dd7-bb9c-5b7fe4f6f488",
+  id: "019e61dc-f1ea-79e7-84b8-b4156668687d",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-shared-one-hand-and-shield",
   title: "One Hand and Shield",

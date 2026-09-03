@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const absorptionField = {
-  id: "01a05fd0-433c-7815-a73f-66da0d2f52a1",
+  id: "019e6245-a5e2-75f1-b123-d65494466840",
   pageTypeSlug: "temper-skill",
   slug: "absorption-field",
   title: "Absorption Field",

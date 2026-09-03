@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const cl = {
-  id: "01a05fd0-d553-7640-8e9c-846907bd38fb",
+  id: "019e6471-1537-79a1-94cd-bbe20b48b88c",
   pageTypeSlug: "temper-skill-point",
   slug: "cl",
   title: "Craglorn",

@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const wr = {
-  id: "01a05fd0-d564-79bd-9e2a-3cd077f6c459",
+  id: "019e6471-153a-710c-a27d-bc085d9d7aaf",
   pageTypeSlug: "temper-skill-point",
   slug: "wr",
   title: "Wrothgar",

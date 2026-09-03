@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionSharedBow = {
-  id: "01a05fce-296e-75c7-adac-94aa789a8f12",
+  id: "019e61dc-f1ed-7126-9cc6-5eb5cb1106b1",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-shared-bow",
   title: "Bow",

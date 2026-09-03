@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const sorcererStormCalling = {
-  id: "01a05fce-297f-7802-9864-d1d48d5f0cef",
+  id: "019e61dc-f1ad-7d43-90cb-a41ab53ca380",
   pageTypeSlug: "temper-skill-line",
   slug: "sorcerer-storm-calling",
   title: "Storm Calling",

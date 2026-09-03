@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionTanlorinEmpathicFighter = {
-  id: "01a05fce-2973-7a30-86d6-b825c2c49f4a",
+  id: "019e61dc-f219-78df-be84-5865e16b40f6",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-tanlorin-empathic-fighter",
   title: "Empathic Fighter",

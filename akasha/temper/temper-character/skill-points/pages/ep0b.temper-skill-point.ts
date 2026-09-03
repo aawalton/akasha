@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ep0b = {
-  id: "01a05fd0-d557-7b2e-8a21-d8a98c2204a5",
+  id: "019e6471-152b-7e03-b791-7499835ced5a",
   pageTypeSlug: "temper-skill-point",
   slug: "ep0b",
   title: "Bleakrock Isle",

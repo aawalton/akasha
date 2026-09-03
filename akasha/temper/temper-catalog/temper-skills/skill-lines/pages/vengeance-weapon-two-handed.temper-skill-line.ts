@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const vengeanceWeaponTwoHanded = {
-  id: "01a05fce-2988-7520-99b8-0bd5aa543c13",
+  id: "019e6f53-86c1-7109-9bd8-913f07a20ed3",
   pageTypeSlug: "temper-skill-line",
   slug: "vengeance-weapon-two-handed",
   title: "Vengeance Two Handed",

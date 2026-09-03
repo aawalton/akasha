@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const vengeanceDragonknightArdentFlame = {
-  id: "01a05fce-2982-7942-a944-22042e3fa8ef",
+  id: "019e6f53-86aa-73b4-beae-f67e8aed26ca",
   pageTypeSlug: "temper-skill-line",
   slug: "vengeance-dragonknight-ardent-flame",
   title: "Vengeance Ardent Flame",

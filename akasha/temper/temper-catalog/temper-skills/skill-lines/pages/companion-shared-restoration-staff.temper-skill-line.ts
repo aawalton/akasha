@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionSharedRestorationStaff = {
-  id: "01a05fce-2971-74a7-b63a-31c90faa1daf",
+  id: "019e61dc-f1ef-78ae-b4b2-f7f858f911e5",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-shared-restoration-staff",
   title: "Restoration Staff",

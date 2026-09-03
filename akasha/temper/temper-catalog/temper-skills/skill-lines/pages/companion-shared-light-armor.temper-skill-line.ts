@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionSharedLightArmor = {
-  id: "01a05fce-2970-71e3-802a-9dd282e58b40",
+  id: "019e61dc-f1f0-7ca9-9715-c0d06607c681",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-shared-light-armor",
   title: "Light Armor",

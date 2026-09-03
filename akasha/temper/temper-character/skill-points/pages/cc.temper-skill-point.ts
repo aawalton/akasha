@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const cc = {
-  id: "01a05fd0-d552-7a57-8941-0f1f199929cf",
+  id: "019e6471-153f-7681-b087-7d914bf84349",
   pageTypeSlug: "temper-skill-point",
   slug: "cc",
   title: "Clockwork City",

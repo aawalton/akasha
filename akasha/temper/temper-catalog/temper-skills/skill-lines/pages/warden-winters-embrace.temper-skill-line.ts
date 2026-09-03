@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const wardenWintersEmbrace = {
-  id: "01a05fce-2989-79f5-a0ed-87cd6631cf17",
+  id: "019e61dc-f1b8-724b-a7c9-dc62d81bb641",
   pageTypeSlug: "temper-skill-line",
   slug: "warden-winters-embrace",
   title: "Winter's Embrace",

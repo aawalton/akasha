@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionBastianRadiatingHeart = {
-  id: "01a05fce-296a-770c-89c5-a529428899e0",
+  id: "019e61dc-f1fa-7b7d-8f61-ce2c0dea1ad3",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-bastian-radiating-heart",
   title: "Radiating Heart",

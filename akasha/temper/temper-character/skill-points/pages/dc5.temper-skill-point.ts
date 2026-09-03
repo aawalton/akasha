@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const dc5 = {
-  id: "01a05fd0-d556-7dc5-bc0a-85be2c2b6ac3",
+  id: "019e6471-152a-7d1c-a515-61c30d6cc623",
   pageTypeSlug: "temper-skill-point",
   slug: "dc5",
   title: "Bangkorai",

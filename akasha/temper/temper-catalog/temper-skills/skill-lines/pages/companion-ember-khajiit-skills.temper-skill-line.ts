@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionEmberKhajiitSkills = {
-  id: "01a05fce-296a-73a5-8987-a784c99ab019",
+  id: "019e61dc-f206-72f5-a358-0557f969f475",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-ember-khajiit-skills",
   title: "Khajiit Skills",

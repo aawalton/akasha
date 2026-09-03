@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ep3 = {
-  id: "01a05fd0-d558-7e6e-90f5-c8ca4906313b",
+  id: "019e6471-1531-7379-9aa3-c6a8ddbd6f60",
   pageTypeSlug: "temper-skill-point",
   slug: "ep3",
   title: "Shadowfen",

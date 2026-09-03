@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ad1 = {
-  id: "01a05fd0-d54f-75ff-a7f5-cfbf6bd8cc35",
+  id: "019e6471-151d-7cca-9af1-38ba35a7de33",
   pageTypeSlug: "temper-skill-point",
   slug: "ad1",
   title: "Auridon",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionSharpArgonianSkills = {
-  id: "01a05fce-2972-72f7-8d7c-bff59dde48d9",
+  id: "019e61dc-f210-7747-8530-d77c127aa74a",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-sharp-argonian-skills",
   title: "Argonian Skills",

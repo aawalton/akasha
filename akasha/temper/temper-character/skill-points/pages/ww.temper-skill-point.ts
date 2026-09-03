@@ -1,7 +1,7 @@
 import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 
 export const ww = {
-  id: "01a05fd0-d564-76c0-947b-0ca2dd294787",
+  id: "019e6471-1550-755b-8b4d-61114b9c485a",
   pageTypeSlug: "temper-skill-point",
   slug: "ww",
   title: "West Weald",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionMirriDeadlyAssassin = {
-  id: "01a05fce-296d-7d35-866c-038d841c9cb1",
+  id: "019e61dc-f1fd-734c-905c-0dd47fe250a3",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-mirri-deadly-assassin",
   title: "Deadly Assassin",

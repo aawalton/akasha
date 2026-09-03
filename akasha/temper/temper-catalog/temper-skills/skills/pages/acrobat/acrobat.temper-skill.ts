@@ -1,7 +1,7 @@
 import type { TemperSkill } from "../../temper-skill.page-type.ts"
 
 export const acrobat = {
-  id: "01a05fd0-4340-77d3-a7ae-b50fc3cbb8f3",
+  id: "019e624a-12b9-798a-9982-64a12171e461",
   pageTypeSlug: "temper-skill",
   slug: "acrobat",
   title: "Acrobat",

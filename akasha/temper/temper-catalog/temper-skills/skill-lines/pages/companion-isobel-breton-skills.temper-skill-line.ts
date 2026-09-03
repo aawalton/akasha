@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionIsobelBretonSkills = {
-  id: "01a05fce-296c-7fb2-b17e-8b3bcd7d08f2",
+  id: "019e61dc-f20b-7328-ae6d-cd4fb71e6e3c",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-isobel-breton-skills",
   title: "Breton Skills",

@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const guildMagesGuild = {
-  id: "01a05fce-2979-7483-bb82-bcb7a6913a03",
+  id: "019e61dc-f1c9-7484-8149-b09e589efca9",
   pageTypeSlug: "temper-skill-line",
   slug: "guild-mages-guild",
   title: "Mages Guild",

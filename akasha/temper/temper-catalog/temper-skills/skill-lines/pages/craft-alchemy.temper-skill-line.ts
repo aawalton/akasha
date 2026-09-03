@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const craftAlchemy = {
-  id: "01a05fce-2975-7391-b439-0670d73ad767",
+  id: "019e61dc-f1e1-746b-ba08-80b9ddb31bcf",
   pageTypeSlug: "temper-skill-line",
   slug: "craft-alchemy",
   title: "Alchemy",

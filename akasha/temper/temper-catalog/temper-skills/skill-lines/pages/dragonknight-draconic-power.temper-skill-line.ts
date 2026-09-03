@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const dragonknightDraconicPower = {
-  id: "01a05fce-2978-7355-80eb-742bbb6976c0",
+  id: "019e61dc-f1a5-7b3b-846d-fbacc1f092a7",
   pageTypeSlug: "temper-skill-line",
   slug: "dragonknight-draconic-power",
   title: "Draconic Power",

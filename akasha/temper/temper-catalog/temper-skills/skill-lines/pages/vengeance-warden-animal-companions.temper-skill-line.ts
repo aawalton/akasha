@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const vengeanceWardenAnimalCompanions = {
-  id: "01a05fce-2986-77ae-9921-21d65f909c54",
+  id: "019e6f53-86b7-7a9a-a6cf-2533710323c7",
   pageTypeSlug: "temper-skill-line",
   slug: "vengeance-warden-animal-companions",
   title: "Vengeance Animal Companions",

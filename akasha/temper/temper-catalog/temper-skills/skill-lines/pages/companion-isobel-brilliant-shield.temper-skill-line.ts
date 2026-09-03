@@ -1,7 +1,7 @@
 import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 
 export const companionIsobelBrilliantShield = {
-  id: "01a05fce-296c-7bb9-9a38-ecb71b851700",
+  id: "019e61dc-f208-7b0f-89c5-36ea940cfe39",
   pageTypeSlug: "temper-skill-line",
   slug: "companion-isobel-brilliant-shield",
   title: "Brilliant Shield",
