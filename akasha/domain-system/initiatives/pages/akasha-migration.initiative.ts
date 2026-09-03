@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "Now 5,059 outside akasha against 133,571 inside, from 69,894 and 32,904 at dispatch. MEASURED: `akasha read` records a read only where stdout and stderr reach the same file, so `> f 2>&1` records while a bare `>`, a pipe and /dev/null exit 1 and record nothing. The read record is contended; one contrary reading is not evidence. NEVER run `akasha service install`: its plan removes 37 units, 20 of them live, among them the seat system and Alan's tracking.",
+        "Now 1,529 outside akasha against 137,064 inside, from 69,894 and 32,904 at dispatch: pages 979, tools 512, readouts 10, root 9. MEASURED: this field caps at 500 chars; `akasha read` records only where stdout and stderr reach one file, so `> f 2>&1` records and a bare `>`, a pipe or /dev/null record nothing. `landedMechanically` answers `{report, refusals, code}`: no `wrote`, so a guard on it never fires; check `refusals` and `code`. NEVER `akasha service install`: it drops 37 units, 20 live.",
     },
     {
       statement: "Alan's own records are akasha pages.",
