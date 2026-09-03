@@ -203,5 +203,37 @@ export const codeCheck = {
         "Where zero is out of reach, leave the whole-tree phases off until it is not.",
       ],
     },
+    {
+      directiveKind: "principle",
+      name: "Change Reach",
+      act: "Limit what a check measures to what the provisional change could invalidate.",
+      warrant:
+        "An audit pays for its reach once a run; a check pays on every change, by every author.",
+      aids: [
+        "Never scope a check to what the diff touched.",
+        "Reach the whole repo where a change can break it.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Dispatch Reach",
+      act: "Run a check on every file class a violation it judges can arrive in.",
+      warrant: "A check the breaking change never runs is clean on the very commit it exists for.",
+      aids: [
+        "Never dispatch from the files the check reads.",
+        "Run it on a file removed, not just one written.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Derived Reach",
+      act: "Derive a check's reach wherever a new member can arrive, never from a list in the check.",
+      warrant:
+        "The member arriving after the list was written is the one the check exists to catch.",
+      aids: [
+        "A list moved out of the check is still a list.",
+        "Never take a big count for a whole reach.",
+      ],
+    },
   ],
 } as const satisfies PageType
