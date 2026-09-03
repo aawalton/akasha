@@ -20,8 +20,8 @@ sim-build-script: akasha:akasha/code-system/ios-apps/scripts/build-sim/build-sim
 entitlements-repo-path: akasha:akasha/code-system/ios-programs/pages/alanwalton-app/alanwalton-app.ios-program.entitlements.entitlements
 icon-repo-path: akasha:native-shell/alanwalton/ios-icon/AppIcon-1024.png
 www-stage-script: akasha:akasha/code-system/ios-apps/pages/alanwalton/scripts/stage-app/alanwalton-stage-app.shell-script.shell.sh
-spa-source-repo-path: alanwalton/web
-web-env-path: alanwalton/web/.env.local
+spa-source-repo-path: akasha/alan/web-capacitor
+web-env-path: akasha/alan/web/.env.local
 asc-capabilities:
   - PUSH_NOTIFICATIONS
   - HEALTHKIT
