@@ -1238,6 +1238,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/old-graph": {
+      "name": "@akasha/old-graph",
+    },
     "akasha/pages-system": {
       "name": "@akasha/pages-system",
     },
@@ -3265,6 +3268,8 @@
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
 
     "@akasha/object-store": ["@akasha/object-store@workspace:akasha/object-store"],
+
+    "@akasha/old-graph": ["@akasha/old-graph@workspace:akasha/old-graph"],
 
     "@akasha/page-commands": ["@akasha/page-commands@workspace:akasha/pages-system/page-commands"],
 

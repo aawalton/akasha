@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/old-graph",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./old-graph-asking": "./old-graph-asking/old-graph-asking.module.code.ts",
+    "./old-graph-gone": "./old-graph-gone/old-graph-gone.module.code.ts",
+    "./old-graph-node-keys": "./old-graph-node-keys/old-graph-node-keys.module.code.ts",
+    "./old-graph-producers": "./old-graph-producers/old-graph-producers.module.code.ts",
+    "./old-graph-queries": "./old-graph-queries/old-graph-queries.module.code.ts",
+    "./old-graph-snapshots": "./old-graph-snapshots/old-graph-snapshots.module.code.ts",
+    "./old-graph-ts-files": "./old-graph-ts-files/old-graph-ts-files.module.code.ts",
+    "./old-graph-types": "./old-graph-types/old-graph-types.module.code.ts"
+  }
+}
