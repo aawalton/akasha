@@ -7,6 +7,7 @@ export const brandonSandersonSWhiteSand = {
   title: "Brandon Sanderson's White Sand",
   status: "not-started",
   unitSlug: "words",
+  position: 5,
   source: "kindle",
   externalId: "B07JHPRWN1",
   externalLink: "https://www.amazon.com/dp/B07JHPRWN1",

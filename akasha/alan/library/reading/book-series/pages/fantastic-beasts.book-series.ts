@@ -7,6 +7,7 @@ export const fantasticBeasts = {
   title: "Fantastic Beasts",
   status: "not-started",
   unitSlug: "words",
+  position: 2,
   source: "kindle",
   externalId: "B09D7RDCHY",
   externalLink: "https://www.amazon.com/Fantastic-Beasts-3-book-series/dp/B09D7RDCHY",

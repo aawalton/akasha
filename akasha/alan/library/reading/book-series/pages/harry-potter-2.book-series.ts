@@ -8,6 +8,7 @@ export const harryPotter2 = {
   status: "completed",
   rank: "B",
   unitSlug: "words",
+  position: 1,
   maturityRating: "PG-13",
   source: "kindle",
   externalId: "B074BYZBPD",

@@ -7,6 +7,7 @@ export const elantris = {
   title: "Elantris",
   status: "not-started",
   unitSlug: "words",
+  position: 6,
   source: "kindle",
   externalId: "B074CG7212",
   externalLink: "https://www.amazon.com/dp/B074CG7212",

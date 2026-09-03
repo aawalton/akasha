@@ -7,6 +7,7 @@ export const mistborn = {
   title: "Mistborn",
   status: "paused",
   unitSlug: "words",
+  position: 1,
   source: "kindle",
   externalId: "B0B4N71QWS",
   externalLink: "https://www.amazon.com/dp/B0B4N71QWS",

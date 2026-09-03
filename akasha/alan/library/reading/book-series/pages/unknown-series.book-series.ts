@@ -8,6 +8,7 @@ export const unknownSeries = {
   status: "following",
   rank: "A",
   unitSlug: "words",
+  position: 2,
   maturityRating: "PG",
   source: "kindle",
   externalId: "B077LJWQGP",

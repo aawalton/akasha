@@ -7,6 +7,7 @@ export const theReckoners = {
   title: "The Reckoners",
   status: "paused",
   unitSlug: "words",
+  position: 2,
   source: "kindle",
   externalId: "B09C1YZTSV",
   externalLink: "https://www.amazon.com/dp/B09C1YZTSV",

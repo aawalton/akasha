@@ -7,6 +7,7 @@ export const harryPotterHogwartsLibrary = {
   title: "Harry Potter: Hogwarts Library",
   status: "not-started",
   unitSlug: "words",
+  position: 3,
   source: "kindle",
   externalId: "B09DCNLCJJ",
   externalLink: "https://www.amazon.com/Harry-Potter-Hogwarts-Library-3-book-series/dp/B09DCNLCJJ",

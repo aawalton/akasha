@@ -7,6 +7,7 @@ export const theStormlightArchive = {
   title: "The Stormlight Archive",
   status: "paused",
   unitSlug: "words",
+  position: 2,
   source: "kindle",
   externalId: "B074CBP9DY",
   externalLink: "https://www.amazon.com/dp/B074CBP9DY",

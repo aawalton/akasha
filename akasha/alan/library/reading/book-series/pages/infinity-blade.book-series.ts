@@ -7,6 +7,7 @@ export const infinityBlade = {
   title: "Infinity Blade",
   status: "completed",
   unitSlug: "words",
+  position: 8,
   source: "kindle",
   externalId: "B074CGRSN4",
   externalLink: "https://www.amazon.com/dp/B074CGRSN4",

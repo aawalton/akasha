@@ -7,6 +7,7 @@ export const legion = {
   title: "Legion",
   status: "not-started",
   unitSlug: "words",
+  position: 6,
   source: "kindle",
   externalId: "B074CDV13D",
   externalLink: "https://www.amazon.com/dp/B074CDV13D",

@@ -7,6 +7,7 @@ export const theLastTide = {
   title: "The Last Tide",
   status: "completed",
   unitSlug: "words",
+  position: 1,
   source: "kindle",
   externalId: "B0BRHFXNVN",
   externalLink: "https://www.amazon.com/dp/B0BRHFXNVN",
