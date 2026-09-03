@@ -1,0 +1,1 @@
+Deep-research phase is done (both streams). This is the ONE foundational architecture decision before I design. Your one-movement-at-a-time experience is identical in all three options — the only difference is my override latitude over the framework's choices.

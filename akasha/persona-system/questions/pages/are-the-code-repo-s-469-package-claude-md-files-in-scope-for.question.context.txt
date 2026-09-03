@@ -1,0 +1,3 @@
+~/worktrees/17353 carries 469 CLAUDE.md files totalling ~37,700 lines, plus a 130-line root CLAUDE.md and 6 docs/*.md. Unlike dirty/, every one of these has a live reader by construction: Claude Code walks up from the working directory and loads them, so an agent working in the code repo obeys all of them today without any having been read against what binds it. They are the opposite case from quarantine — they cannot be deleted, and leaving them is agents obeying unreviewed prose.
+
+critical-path scopes itself to what the pipeline needs and hands the rest to instruction-estate, but nothing says what shape a per-package CLAUDE.md ends up in. The three answers below are genuinely different projects, and the fork is not mine to take.

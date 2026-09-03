@@ -1,0 +1,1 @@
+M1's whole deliverable assumes David can run the add-ons and the watcher. Both are PC-only, and the watcher binary is Windows-only. If he is on console, most of what we have hardened tonight cannot reach him at all and the milestone's scope changes rather than its schedule. Asking now rather than finding out on install day.

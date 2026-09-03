@@ -1,0 +1,1 @@
+(1) Event-driven digest — I already get every land/disposition as a push; I batch you a progress digest when the board materially moves. Free when idle, recommended. (2) Bounded hourly /loop — re-arms only until the current in-flight set lands/parks, then stops (sanctioned exception). (3) Standing hourly tick regardless — your call outranks doctrine.

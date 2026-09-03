@@ -1,0 +1,1 @@
+Interview Q5 (likely the last before I put a design in front of you). This is HOW the framework trades off your goals when picking. Weighted = goals blend (research-backed); strict tiers = a higher goal always wins. Ranking last set 2026-06-19.
