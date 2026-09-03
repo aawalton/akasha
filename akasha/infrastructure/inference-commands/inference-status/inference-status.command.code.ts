@@ -1,8 +1,8 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { buildQueryScript } from "@tools/lib/inference/build-script"
-import { HOSTS } from "@tools/lib/inference/hosts"
-import { runSshCapture } from "@tools/lib/inference/lib/ssh"
-import { parseActualState } from "@tools/lib/inference/reconcile"
+import { HOSTS } from "@akasha/inference-pool/inference-hosts"
+import { parseActualState } from "@akasha/inference-pool/inference-reconcile"
+import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
+import { buildQueryScript } from "@akasha/inference-pool/provision-script"
 import {
   answering,
   refusalIn,

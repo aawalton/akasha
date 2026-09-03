@@ -5,8 +5,11 @@
   "exports": {},
   "dependencies": {
     "@akasha/command-system": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@akasha/inference-clients": "workspace:*",
+    "@akasha/inference-pool": "workspace:*",
+    "@akasha/inference-runs": "workspace:*",
     "@akasha/pages-system": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/upscale": "workspace:*"
   }
 }

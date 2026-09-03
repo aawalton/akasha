@@ -7,10 +7,10 @@ import {
   parseGenerationSize,
   runGeneration,
 } from "@akasha/inference-clients/mlx-image-client"
-import { buildInferenceRunRecord } from "@tools/lib/inference/inference-run-record"
-import type { InferenceService } from "@tools/lib/inference/inference-run-services"
-import { INFERENCE_SERVICES } from "@tools/lib/inference/inference-run-services"
-import { recordInferenceRun } from "@tools/lib/inference/inference-run-store"
+import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
+import type { InferenceService } from "@akasha/inference-runs/inference-run-services"
+import { INFERENCE_SERVICES } from "@akasha/inference-runs/inference-run-services"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
   answering,
   calledAs,

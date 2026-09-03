@@ -1,10 +1,10 @@
 import { readFile } from "node:fs/promises"
 import type { Answer } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { operationalError } from "@tools/lib/exit"
-import { getHost } from "@tools/lib/inference/hosts"
-import { SERVICES } from "@tools/lib/inference/registry"
-import type { InferenceHost, InferenceService } from "@tools/lib/inference/schema"
+import { OperationalError } from "@akasha/errors-core/exit-code"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import type { InferenceHost, InferenceService } from "@akasha/inference-pool/inference-schema"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
 
 export const OK = 0
 
@@ -272,7 +272,7 @@ export type Reached = {
 export function serviceNamed(name: string): Reached {
   const service = SERVICES.find((one) => one.name === name)
   if (service === undefined) {
-    throw operationalError(`no ${name} service is declared in the registry`)
+    throw new OperationalError(`no ${name} service is declared in the registry`)
   }
   const host = getHost(service.host)
   return { service, host, baseUrl: `http://${host.address}:${service.port}` }

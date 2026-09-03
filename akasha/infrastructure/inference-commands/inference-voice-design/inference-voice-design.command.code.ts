@@ -1,11 +1,11 @@
 import { writeFile } from "node:fs/promises"
 import type { Answer } from "@akasha/command-system/calling"
+import { OperationalError } from "@akasha/errors-core/exit-code"
+import { buildCopFetchInit } from "@akasha/inference-clients/cop-fetch"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
-import { operationalError } from "@tools/lib/exit"
-import { buildCopFetchInit } from "@tools/lib/inference/cli/cop-fetch"
-import { buildInferenceRunRecord } from "@tools/lib/inference/inference-run-record"
-import type { InferenceService } from "@tools/lib/inference/inference-run-services"
-import { recordInferenceRun } from "@tools/lib/inference/inference-run-store"
+import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
+import type { InferenceService } from "@akasha/inference-runs/inference-run-services"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
   answering,
   calledAs,
@@ -142,10 +142,12 @@ export async function inferenceVoiceDesign(argv: readonly string[]): Promise<Ans
         })
         const answered = await fetch(`${reached.baseUrl}/v1/audio/speech`, init)
         if (!answered.ok) {
-          throw operationalError(`voice-design failed: ${answered.status} ${await answered.text()}`)
+          throw new OperationalError(
+            `voice-design failed: ${answered.status} ${await answered.text()}`
+          )
         }
         const wav = new Uint8Array(await answered.arrayBuffer())
-        if (!isRiff(wav)) throw operationalError("what came back is no RIFF payload")
+        if (!isRiff(wav)) throw new OperationalError("what came back is no RIFF payload")
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, wav)
         report.push(wroteTo(outputPath, wav, "audio"))

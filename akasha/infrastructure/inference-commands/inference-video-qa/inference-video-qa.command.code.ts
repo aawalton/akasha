@@ -2,6 +2,7 @@ import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import {
   buildFrameExtractArgs,
   buildVideoQaRequest,
@@ -11,9 +12,8 @@ import {
   selectFrameIndices,
   toPngDataUrl,
 } from "@akasha/inference-clients/mlx-vlm-client"
-import { operationalError } from "@tools/lib/exit"
-import { buildInferenceRunRecord, sha256Hex } from "@tools/lib/inference/inference-run-record"
-import { finishInferenceRun, startInferenceRun } from "@tools/lib/inference/inference-run-store"
+import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+import { finishInferenceRun, startInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
   answering,
   calledAs,
@@ -65,7 +65,7 @@ async function pngsIn(dir: string): Promise<readonly string[]> {
 
 async function urlsIn(dir: string, wanted: number): Promise<readonly string[]> {
   const every = await pngsIn(dir)
-  if (every.length === 0) throw operationalError(`no PNG frames stand in ${dir}`)
+  if (every.length === 0) throw new OperationalError(`no PNG frames stand in ${dir}`)
   const urls: string[] = []
   for (const at of selectFrameIndices(every.length, wanted)) {
     const path = every[at]

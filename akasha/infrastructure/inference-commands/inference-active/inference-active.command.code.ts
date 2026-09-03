@@ -1,5 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { copActive, findCop } from "@tools/lib/inference/cli/cop-admin"
+import { copActive, findCop } from "@akasha/inference-pool/cop-admin"
 import {
   answering,
   refusalIn,

@@ -1,11 +1,11 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { buildMfluxQueryScript } from "@tools/lib/inference/build-script"
-import { getHost } from "@tools/lib/inference/hosts"
-import { runSshCapture } from "@tools/lib/inference/lib/ssh"
-import { parseMfluxTools } from "@tools/lib/inference/reconcile"
-import { SERVICES } from "@tools/lib/inference/registry"
-import type { InferenceService } from "@tools/lib/inference/schema"
+import { getHost } from "@akasha/inference-pool/inference-hosts"
+import { parseMfluxTools } from "@akasha/inference-pool/inference-reconcile"
+import type { InferenceService } from "@akasha/inference-pool/inference-schema"
+import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
+import { buildMfluxQueryScript } from "@akasha/inference-pool/provision-script"
 import {
   answering,
   refusalIn,

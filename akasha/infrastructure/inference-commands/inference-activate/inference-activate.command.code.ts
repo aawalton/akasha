@@ -1,5 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { copActivate, findCop } from "@tools/lib/inference/cli/cop-admin"
+import { copActivate, findCop } from "@akasha/inference-pool/cop-admin"
 import {
   aloneIn,
   answering,

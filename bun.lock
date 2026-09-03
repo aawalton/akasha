@@ -180,6 +180,7 @@
       "name": "@akasha/exercise-access",
       "dependencies": {
         "@akasha/day": "workspace:*",
+        "@akasha/indexes": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
@@ -974,9 +975,12 @@
       "name": "@akasha/inference-commands",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
+        "@akasha/inference-pool": "workspace:*",
+        "@akasha/inference-runs": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
+        "@akasha/upscale": "workspace:*",
       },
     },
     "akasha/infrastructure/inference-pool": {

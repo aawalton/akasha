@@ -3,10 +3,10 @@ import { homedir } from "node:os"
 import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
-import { runWorkstationUpscale } from "@tools/lib/inference/cli/upscale"
-import { runClusterUpscale } from "@tools/lib/inference/cli/upscale-cluster"
-import { buildInferenceRunRecord, sha256Hex } from "@tools/lib/inference/inference-run-record"
-import { recordInferenceRun } from "@tools/lib/inference/inference-run-store"
+import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import { runClusterUpscale } from "@akasha/upscale/upscale-cluster"
+import { runWorkstationUpscale } from "@akasha/upscale/upscale-workstation"
 import {
   aloneIn,
   answering,

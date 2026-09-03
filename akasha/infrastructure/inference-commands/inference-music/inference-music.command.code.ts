@@ -3,8 +3,8 @@ import type { Answer } from "@akasha/command-system/calling"
 import { runMusic } from "@akasha/inference-clients/ace-step-client"
 import { resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
-import { buildInferenceRunRecord } from "@tools/lib/inference/inference-run-record"
-import { recordInferenceRun } from "@tools/lib/inference/inference-run-store"
+import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
+import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
   answering,
   calledAs,
