@@ -1,12 +1,12 @@
 import { CeilingExceeded, describeErr, withCeiling } from "@akasha/ci-containers/ci-reaper-ceiling"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Step } from "@akasha/pipeline-sweep/pipeline-row-entities"
 import { type ContainerReading, readCiContainers } from "./cluster.ts"
 import { decidePipeline } from "./decide-pipeline.ts"
 import { decideStep } from "./decide-step.ts"
 import { decideWorkflow } from "./decide-workflow.ts"
 import { stepsByTitle } from "./dispatch-guards.ts"
 import { applyEffect, describe, type Effect } from "./effects.ts"
-import type { Step } from "./entities.ts"
 import { definitionReader, kinOf, readSnapshot } from "./pages.ts"
 
 export const LOG = "sweep-pipeline-pages:"
