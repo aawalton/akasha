@@ -5,12 +5,7 @@ export const inboxes = {
   pageTypeSlug: "readout-group",
   slug: "inboxes",
   definition: "how far each of Alan's inboxes is from empty",
-  sequenceSlugs: [
-    "readout/inboxes-email",
-    "readout/inboxes-tasks",
-    "readout/inboxes-temper-tasks",
-    "readout/inboxes-texts",
-  ],
+  sequenceSlugs: ["readout/inboxes-email", "readout/inboxes-tasks", "readout/inboxes-temper-tasks"],
   sortOrder: "place",
   invariants: [
     {

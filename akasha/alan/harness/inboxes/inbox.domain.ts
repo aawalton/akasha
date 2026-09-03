@@ -9,7 +9,6 @@ export const inbox = {
   partSlugs: [
     "readout/inboxes-email",
     "readout/inboxes-tasks",
-    "readout/inboxes-texts",
     "workstation-service/inbox-reading-service",
     "workstation-service/inbox-relay-service",
   ],
