@@ -1,6 +1,6 @@
 import { MARKDOWN, pageFileIn } from "../../page/page-file.ts"
 import { placeDirOf } from "../../page/page-types.ts"
-import { RESTART_EXIT } from "./service-wrapper/command.ts"
+import { RESTART_EXIT } from "@akasha/service-system/unit-writing"
 
 export interface ServiceDoc {
   readonly slug: string
