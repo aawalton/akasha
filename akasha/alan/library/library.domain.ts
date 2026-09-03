@@ -7,6 +7,7 @@ export const library = {
   definition: "what Alan works through, and how far through it he has got",
   partSlugs: [
     "domain/studying",
+    "domain/watching",
     "workspace-package/reading",
     "workspace-package/book-of-everything",
   ],

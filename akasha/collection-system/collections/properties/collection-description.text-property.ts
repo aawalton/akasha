@@ -7,7 +7,7 @@ export const collectionDescription = {
   pageTypeSlug: "text-property",
   slug: "collection-description",
   propertySlug: "description",
-  definition: "what a collection is about, in a line",
-  max: 500,
+  definition: "what a collection is about",
+  max: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty
