@@ -12,6 +12,7 @@ export const infrastructure = {
     "domain/telemetry",
     "domain/inference",
     "workspace-package/k8s-types",
+    "page-type/alert",
   ],
   invariants: [
     {
