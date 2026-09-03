@@ -9,12 +9,12 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname } from "node:path"
+import { commitAuthor } from "@akasha/command-system/commit-author"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { commitPaths } from "@akasha/git/git-committing"
 import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
 import { gitAskingPaths, gitIgnoring, heldByRepo } from "@akasha/git/git-pathspec"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
-import { commitAuthor } from "../../agent/commit-author.ts"
 import { GATED } from "../../patches/patch.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"
 import { patchAside } from "./body-aside.ts"

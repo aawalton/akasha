@@ -1,8 +1,8 @@
+import { commitAuthor } from "@akasha/command-system/commit-author"
 import { commitPaths } from "@akasha/git/git-committing"
 import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
 import type { Where } from "@akasha/markdown-pages/page-write-where"
 import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guard"
-import { commitAuthor } from "../../agent/commit-author.ts"
 import {
   type Commit,
   commitNamed,

@@ -1,3 +1,4 @@
+import { commitAuthor } from "@akasha/command-system/commit-author"
 import { commitPaths } from "@akasha/git/git-committing"
 import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
 import {
@@ -8,7 +9,6 @@ import {
   writeJournal,
   writerAlive,
 } from "@akasha/pages-system/page-landing-journal"
-import { commitAuthor } from "../../agent/commit-author.ts"
 
 export const QUIET_MS = 500
 
