@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedChaoticWhirlwind = {
-  id: "01a05fdb-7d54-7505-b57b-79868af4c9a2",
+  id: "019e66ec-7c38-7b64-bca8-064c6c38377e",
   pageTypeSlug: "temper-set",
   slug: "perfected-chaotic-whirlwind",
   title: "Perfected Chaotic Whirlwind",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedXorynsMasterpiece = {
-  id: "01a05fdc-9714-7aef-b835-7a1f00b24787",
+  id: "019e66ec-7dd2-71b7-9a26-5ae2bcff1b3e",
   pageTypeSlug: "temper-set",
   slug: "perfected-xoryns-masterpiece",
   title: "Perfected Xoryn's Masterpiece",

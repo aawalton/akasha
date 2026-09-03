@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedStoneTalkersOath = {
-  id: "01a05fdb-7d62-7791-b333-e66ae003e83b",
+  id: "019e66ec-7d49-7d79-bd6a-3622410cebdd",
   pageTypeSlug: "temper-set",
   slug: "perfected-stone-talkers-oath",
   title: "Perfected Stone-Talker's Oath",

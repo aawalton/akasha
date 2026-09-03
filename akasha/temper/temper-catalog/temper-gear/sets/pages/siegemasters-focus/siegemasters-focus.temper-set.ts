@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const siegemastersFocus = {
-  id: "01a05fdc-9736-7926-8223-40181bce59aa",
+  id: "019e66ec-791d-729e-ac11-d892f1e96511",
   pageTypeSlug: "temper-set",
   slug: "siegemasters-focus",
   title: "Siegemaster's Focus",

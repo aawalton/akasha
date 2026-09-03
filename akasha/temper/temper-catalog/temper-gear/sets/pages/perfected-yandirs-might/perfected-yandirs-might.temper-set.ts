@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedYandirsMight = {
-  id: "01a05fdc-9714-7070-8df5-32a5b481c3a3",
+  id: "019e66ec-7de0-7c1f-bad7-4c9b72c54132",
   pageTypeSlug: "temper-set",
   slug: "perfected-yandirs-might",
   title: "Perfected Yandir's Might",

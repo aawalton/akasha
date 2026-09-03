@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const rattlecage = {
-  id: "01a05fdc-9720-7c9a-8a7f-55143cf9aa86",
+  id: "019e66e6-a0b4-71f8-9be4-c9dc54f1dbb0",
   pageTypeSlug: "temper-set",
   slug: "rattlecage",
   title: "Rattlecage",

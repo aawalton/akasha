@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shatteredFate = {
-  id: "01a05fdc-9734-7ea3-ba87-a6d4c30f80fd",
+  id: "019e668e-9a64-7254-9bd8-aec8a4da5280",
   pageTypeSlug: "temper-set",
   slug: "shattered-fate",
   title: "Shattered Fate",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedEyeOfNahviintaas = {
-  id: "01a05fdb-7d58-7202-a5b2-01477a4ce33d",
+  id: "019e66ec-7c8d-799e-9497-2f2c1619e0f5",
   pageTypeSlug: "temper-set",
   slug: "perfected-eye-of-nahviintaas",
   title: "Perfected Eye of Nahviintaas",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedMercilessCharge = {
-  id: "01a05fdb-7d5c-74ea-a43f-ba8431282941",
+  id: "019e6484-5fc1-7768-9bf0-bb6c124a27d6",
   pageTypeSlug: "temper-set",
   slug: "perfected-merciless-charge",
   title: "Perfected Merciless Charge",

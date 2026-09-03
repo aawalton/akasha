@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shacklebreaker = {
-  id: "01a05fdc-9731-7906-853e-8f81090cb882",
+  id: "019e668e-9a62-76a1-8965-fcbae17e0805",
   pageTypeSlug: "temper-set",
   slug: "shacklebreaker",
   title: "Shacklebreaker",

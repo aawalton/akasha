@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const reactiveArmor = {
-  id: "01a05fdc-9721-7240-b3de-b14222852e7d",
+  id: "019e66ec-789f-7b65-a19d-34517257f4ef",
   pageTypeSlug: "temper-set",
   slug: "reactive-armor",
   title: "Reactive Armor",

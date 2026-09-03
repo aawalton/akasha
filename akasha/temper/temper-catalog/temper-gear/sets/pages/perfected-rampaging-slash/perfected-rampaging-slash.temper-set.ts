@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedRampagingSlash = {
-  id: "01a05fdb-7d60-7386-84c7-57e1a3656731",
+  id: "019e6484-5fc5-7a71-b54f-6c9e3fd26a05",
   pageTypeSlug: "temper-set",
   slug: "perfected-rampaging-slash",
   title: "Perfected Rampaging Slash",

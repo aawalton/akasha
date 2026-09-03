@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const silverRoseVigil = {
-  id: "01a05fdc-9737-723f-8db1-e57b0e34071f",
+  id: "019e66e6-a0c3-75f4-9ff7-69dbde1c7510",
   pageTypeSlug: "temper-set",
   slug: "silver-rose-vigil",
   title: "Silver Rose Vigil",

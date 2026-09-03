@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const slimecraw = {
-  id: "01a05fdc-9738-7058-9d99-799639ee941f",
+  id: "019e6484-6017-776b-90d1-aba01af078e1",
   pageTypeSlug: "temper-set",
   slug: "slimecraw",
   title: "Slimecraw",

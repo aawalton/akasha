@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const reflectedFury = {
-  id: "01a05fdc-9723-7411-add6-e07bbed8525e",
+  id: "019e66e6-a0b5-729b-8e76-87488c2141f9",
   pageTypeSlug: "temper-set",
   slug: "reflected-fury",
   title: "Reflected Fury",

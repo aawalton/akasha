@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const reawakenedHierophant = {
-  id: "01a05fdc-9721-7ede-877e-e64236661ecc",
+  id: "019e6484-5fe6-715e-9531-3de0eb49dcb8",
   pageTypeSlug: "temper-set",
   slug: "reawakened-hierophant",
   title: "Reawakened Hierophant",

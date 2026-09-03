@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const sencheRahtsGrit = {
-  id: "01a05fdc-972e-7245-a0ac-10f338fb7722",
+  id: "019e668e-9a60-7a45-8ce8-afc95467f855",
   pageTypeSlug: "temper-set",
   slug: "senche-rahts-grit",
   title: "Senche-raht's Grit",

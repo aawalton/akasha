@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const spellPowerCure = {
-  id: "01a05fdc-973e-77a6-895e-8d29f5c61b5e",
+  id: "019e66e6-a0c5-78d4-b3b7-3be827a65f27",
   pageTypeSlug: "temper-set",
   slug: "spell-power-cure",
   title: "Spell Power Cure",

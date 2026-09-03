@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const silksOfTheSun = {
-  id: "01a05fdc-9737-7265-8617-eff14381eaf2",
+  id: "019e66e7-6a8a-7ab7-bbc0-409d33b90761",
   pageTypeSlug: "temper-set",
   slug: "silks-of-the-sun",
   title: "Silks of the Sun",

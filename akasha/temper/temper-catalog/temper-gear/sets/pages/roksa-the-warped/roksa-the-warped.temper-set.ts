@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const roksaTheWarped = {
-  id: "01a05fdc-9728-7c85-a9c5-a69089c56643",
+  id: "019e6484-6011-7dba-bc5a-b8fd5b596ca9",
   pageTypeSlug: "temper-set",
   slug: "roksa-the-warped",
   title: "Roksa the Warped",

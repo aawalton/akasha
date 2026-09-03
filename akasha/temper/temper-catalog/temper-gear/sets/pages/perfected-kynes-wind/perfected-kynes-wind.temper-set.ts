@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedKynesWind = {
-  id: "01a05fdb-7d5a-7af2-b2dc-9f6dd4c84deb",
+  id: "019e66ec-7caa-73f0-8785-2a06377318b1",
   pageTypeSlug: "temper-set",
   slug: "perfected-kynes-wind",
   title: "Perfected Kyne's Wind",

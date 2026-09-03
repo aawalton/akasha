@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const sharedBurden = {
-  id: "01a05fdc-9734-7d81-84b9-9f7322163d96",
+  id: "019e66e7-6a1d-7e97-a936-9e0475278d7d",
   pageTypeSlug: "temper-set",
   slug: "shared-burden",
   title: "Shared Burden",

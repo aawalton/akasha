@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const savageWerewolf = {
-  id: "01a05fdc-972a-7eed-bbce-da75ace6113b",
+  id: "019e66e6-a0bb-7e39-84b0-d65b08178fe1",
   pageTypeSlug: "temper-set",
   slug: "savage-werewolf",
   title: "Savage Werewolf",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedFalseGodsDevotion = {
-  id: "01a05fdb-7d58-7624-a822-65295b1e849f",
+  id: "019e66ec-7c9b-7d47-885d-fc6ed18506ed",
   pageTypeSlug: "temper-set",
   slug: "perfected-false-gods-devotion",
   title: "Perfected False God's Devotion",

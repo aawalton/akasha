@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const seaSerpentsCoil = {
-  id: "01a05fdc-972c-7923-8174-ff5a37494a0e",
+  id: "019e6484-6037-7526-995c-d67f3cf3bc1a",
   pageTypeSlug: "temper-set",
   slug: "sea-serpents-coil",
   title: "Sea-Serpent's Coil",

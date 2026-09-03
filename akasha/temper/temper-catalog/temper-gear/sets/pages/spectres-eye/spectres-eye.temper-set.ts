@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const spectresEye = {
-  id: "01a05fdc-973d-7923-b640-5c5e072ad405",
+  id: "019e668e-9a66-7d4b-b522-4ced6e272a4e",
   pageTypeSlug: "temper-set",
   slug: "spectres-eye",
   title: "Spectre's Eye",

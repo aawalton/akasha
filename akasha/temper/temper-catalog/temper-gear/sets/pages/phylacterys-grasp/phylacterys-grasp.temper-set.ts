@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const phylacterysGrasp = {
-  id: "01a05fdc-9716-70f8-bbc8-0757c4c9e92a",
+  id: "019e66e6-a0ae-722d-a920-5c4cb7622d93",
   pageTypeSlug: "temper-set",
   slug: "phylacterys-grasp",
   title: "Phylactery's Grasp",

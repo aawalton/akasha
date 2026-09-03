@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const sloadsSemblance = {
-  id: "01a05fdc-9739-7fcb-b4fe-edc4f020a533",
+  id: "019e668e-9a65-70cd-bb46-a4c398cdbb25",
   pageTypeSlug: "temper-set",
   slug: "sloads-semblance",
   title: "Sload's Semblance",

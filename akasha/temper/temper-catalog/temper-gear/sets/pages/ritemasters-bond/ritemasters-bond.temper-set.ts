@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const ritemastersBond = {
-  id: "01a05fdc-9725-7ba3-9bd1-cc04bb25ca3e",
+  id: "019e66e6-a0b7-76d9-b203-e068a1eb7065",
   pageTypeSlug: "temper-set",
   slug: "ritemasters-bond",
   title: "Ritemaster's Bond",

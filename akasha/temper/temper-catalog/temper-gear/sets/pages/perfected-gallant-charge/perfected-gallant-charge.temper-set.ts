@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedGallantCharge = {
-  id: "01a05fdb-7d59-7562-bb7c-f1f513d6e882",
+  id: "019e6484-5fbe-7d9b-9c75-e249417f0362",
   pageTypeSlug: "temper-set",
   slug: "perfected-gallant-charge",
   title: "Perfected Gallant Charge",

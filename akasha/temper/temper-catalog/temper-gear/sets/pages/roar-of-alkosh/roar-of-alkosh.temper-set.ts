@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const roarOfAlkosh = {
-  id: "01a05fdc-9726-7e06-adca-68ce5fa443ee",
+  id: "019e66ec-7e2a-7386-9825-7996114c9bb3",
   pageTypeSlug: "temper-set",
   slug: "roar-of-alkosh",
   title: "Roar of Alkosh",

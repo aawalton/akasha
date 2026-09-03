@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const robesOfTransmutation = {
-  id: "01a05fdc-9727-73e8-972a-05b05e57f6e8",
+  id: "019e66ec-78bb-7cbb-9cc7-4aa72f509697",
   pageTypeSlug: "temper-set",
   slug: "robes-of-transmutation",
   title: "Robes of Transmutation",

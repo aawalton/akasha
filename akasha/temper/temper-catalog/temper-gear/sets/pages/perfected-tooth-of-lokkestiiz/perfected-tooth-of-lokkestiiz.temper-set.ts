@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedToothOfLokkestiiz = {
-  id: "01a05fdb-7d64-7549-a0fa-9a0542006cf1",
+  id: "019e66ec-7d89-77aa-93c7-faf3b3f83b79",
   pageTypeSlug: "temper-set",
   slug: "perfected-tooth-of-lokkestiiz",
   title: "Perfected Tooth of Lokkestiiz",

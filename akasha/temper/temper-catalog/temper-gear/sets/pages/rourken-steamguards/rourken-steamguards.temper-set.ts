@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const rourkenSteamguards = {
-  id: "01a05fdc-9728-7466-a489-4001eff79a9c",
+  id: "019e6484-6036-76a2-b352-52d58b516e8a",
   pageTypeSlug: "temper-set",
   slug: "rourken-steamguards",
   title: "Rourken Steamguards",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shieldBreaker = {
-  id: "01a05fdc-9735-775e-9d6e-d806f337e34d",
+  id: "019e66ec-7900-7679-bda1-f878b25f38bb",
   pageTypeSlug: "temper-set",
   slug: "shield-breaker",
   title: "Shield Breaker",

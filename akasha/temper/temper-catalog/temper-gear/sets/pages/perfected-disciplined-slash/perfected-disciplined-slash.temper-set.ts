@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedDisciplinedSlash = {
-  id: "01a05fdb-7d57-7f4a-95b6-e7b65cc80413",
+  id: "019e66ec-7c7f-787f-86da-557a9ec99bf3",
   pageTypeSlug: "temper-set",
   slug: "perfected-disciplined-slash",
   title: "Perfected Disciplined Slash",

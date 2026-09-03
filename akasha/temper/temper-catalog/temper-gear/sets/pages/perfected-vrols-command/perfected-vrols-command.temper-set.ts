@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedVrolsCommand = {
-  id: "01a05fdc-9712-7982-8cd7-1a086f3eb61a",
+  id: "019e66ec-7db4-7f52-a783-d098ec6e7eda",
   pageTypeSlug: "temper-set",
   slug: "perfected-vrols-command",
   title: "Perfected Vrol's Command",

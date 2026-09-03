@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const snowTreaders = {
-  id: "01a05fdc-973a-7d9d-a005-483dccf28a2d",
+  id: "019e6484-6039-7275-85f1-2bca337b1477",
   pageTypeSlug: "temper-set",
   slug: "snow-treaders",
   title: "Snow Treaders",

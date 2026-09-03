@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const sentry = {
-  id: "01a05fdc-972f-70bd-acb0-3a208c7d75d2",
+  id: "019e66ec-78c9-7b84-8c2b-c792afccec8f",
   pageTypeSlug: "temper-set",
   slug: "sentry",
   title: "Sentry",

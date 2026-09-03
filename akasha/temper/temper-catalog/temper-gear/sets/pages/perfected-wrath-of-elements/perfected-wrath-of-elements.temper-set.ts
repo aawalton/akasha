@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedWrathOfElements = {
-  id: "01a05fdc-9714-7c1f-92d9-eb317a953384",
+  id: "019e6484-5fcc-760e-92f3-1d4a3b92749f",
   pageTypeSlug: "temper-set",
   slug: "perfected-wrath-of-elements",
   title: "Perfected Wrath of Elements",

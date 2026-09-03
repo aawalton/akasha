@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const spatteringDisjunction = {
-  id: "01a05fdc-973c-7c8f-8318-8e0604dbd050",
+  id: "019e6484-5fe8-79a4-818e-81e9de3dfca4",
   pageTypeSlug: "temper-set",
   slug: "spattering-disjunction",
   title: "Spattering Disjunction",

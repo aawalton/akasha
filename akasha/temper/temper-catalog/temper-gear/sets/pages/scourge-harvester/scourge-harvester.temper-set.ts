@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const scourgeHarvester = {
-  id: "01a05fdc-972c-7980-ae76-9a7fd0f7e671",
+  id: "019e6484-6012-7cbf-a3d0-7329da41c373",
   pageTypeSlug: "temper-set",
   slug: "scourge-harvester",
   title: "Scourge Harvester",

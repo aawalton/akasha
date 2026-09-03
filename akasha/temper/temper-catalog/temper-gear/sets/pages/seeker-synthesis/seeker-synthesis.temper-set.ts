@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const seekerSynthesis = {
-  id: "01a05fdc-972d-769f-8e39-9f90a1c713a8",
+  id: "019e668e-9a5f-7c09-8ed4-c516626f0923",
   pageTypeSlug: "temper-set",
   slug: "seeker-synthesis",
   title: "Seeker Synthesis",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const soulshine = {
-  id: "01a05fdc-973b-7891-8132-fd778fc77253",
+  id: "019e66e7-6a8e-73c4-ad95-063959555e28",
   pageTypeSlug: "temper-set",
   slug: "soulshine",
   title: "Soulshine",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const renaldsResolve = {
-  id: "01a05fdc-9724-743f-a5c4-7c0c44e7916b",
+  id: "019e66e6-a0b6-7433-b8b0-94ed07600eeb",
   pageTypeSlug: "temper-set",
   slug: "renalds-resolve",
   title: "Renald's Resolve",

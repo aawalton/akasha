@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const pillarOfNirn = {
-  id: "01a05fdc-9717-7c1f-8573-8a3a311b6724",
+  id: "019e66e6-a0af-731f-97bc-65da8a8f3c43",
   pageTypeSlug: "temper-set",
   slug: "pillar-of-nirn",
   title: "Pillar of Nirn",

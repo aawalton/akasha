@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const pangritDenmother = {
-  id: "01a05fdb-7d50-72ae-bbd4-d531f9d43de8",
+  id: "019e66e6-a0ad-70f9-8137-ffd6f8e9997d",
   pageTypeSlug: "temper-set",
   slug: "pangrit-denmother",
   title: "Pangrit Denmother",

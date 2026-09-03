@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shellSplitter = {
-  id: "01a05fdc-9735-78a4-b870-d13c3c99bf12",
+  id: "019e66ec-78f2-7a1c-ad7b-d38c565e7436",
   pageTypeSlug: "temper-set",
   slug: "shell-splitter",
   title: "Shell Splitter",

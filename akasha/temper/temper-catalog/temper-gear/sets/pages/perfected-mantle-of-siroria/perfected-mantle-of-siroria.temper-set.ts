@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedMantleOfSiroria = {
-  id: "01a05fdb-7d5b-7c60-9596-8f7da61f6b6d",
+  id: "019e66ec-7cc6-7e88-9866-53bb1738d29c",
   pageTypeSlug: "temper-set",
   slug: "perfected-mantle-of-siroria",
   title: "Perfected Mantle of Siroria",

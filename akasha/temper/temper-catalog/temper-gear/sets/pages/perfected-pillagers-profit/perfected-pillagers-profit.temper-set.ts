@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedPillagersProfit = {
-  id: "01a05fdb-7d5e-7670-9b9f-a53d735c6396",
+  id: "019e66ec-7d0e-790f-9002-0e356cb6946b",
   pageTypeSlug: "temper-set",
   slug: "perfected-pillagers-profit",
   title: "Perfected Pillager's Profit",

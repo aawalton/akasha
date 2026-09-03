@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const soldierOfAnguish = {
-  id: "01a05fdc-973a-7433-92f0-4c45686ec068",
+  id: "019e66ec-7939-75d0-aeac-0b692503ac4a",
   pageTypeSlug: "temper-set",
   slug: "soldier-of-anguish",
   title: "Soldier of Anguish",

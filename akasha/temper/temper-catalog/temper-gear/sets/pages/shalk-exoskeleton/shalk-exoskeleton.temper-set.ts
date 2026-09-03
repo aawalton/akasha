@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shalkExoskeleton = {
-  id: "01a05fdc-9733-7dbe-8f4f-b829860dfeb5",
+  id: "019e66e7-6a89-77c5-a272-6b270c3899b5",
   pageTypeSlug: "temper-set",
   slug: "shalk-exoskeleton",
   title: "Shalk Exoskeleton",

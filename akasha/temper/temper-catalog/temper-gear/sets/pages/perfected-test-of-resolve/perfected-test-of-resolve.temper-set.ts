@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedTestOfResolve = {
-  id: "01a05fdb-7d63-717a-add1-aa2dfe5d7f75",
+  id: "019e66ec-7d6c-76cd-ad1e-4402fb694a13",
   pageTypeSlug: "temper-set",
   slug: "perfected-test-of-resolve",
   title: "Perfected Test of Resolve",

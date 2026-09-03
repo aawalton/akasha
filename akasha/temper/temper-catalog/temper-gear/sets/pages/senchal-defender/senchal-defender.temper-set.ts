@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const senchalDefender = {
-  id: "01a05fdc-972e-7a8e-b05d-b4bf4b2ec75b",
+  id: "019e66e7-6a83-76a4-b36a-c71c254c02e7",
   pageTypeSlug: "temper-set",
   slug: "senchal-defender",
   title: "Senchal Defender",

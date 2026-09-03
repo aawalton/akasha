@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const spiderCultistCowl = {
-  id: "01a05fdc-973f-723c-adfd-fd6b3a2ee788",
+  id: "019e66e6-a0c7-7a3a-bc42-e8880ad76cba",
   pageTypeSlug: "temper-set",
   slug: "spider-cultist-cowl",
   title: "Spider Cultist Cowl",

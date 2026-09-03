@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shapeshiftersChain = {
-  id: "01a05fdc-9733-7ce7-ab87-4cf9b06f9a32",
+  id: "019e6484-6038-73fd-b041-0c8aeba7a231",
   pageTypeSlug: "temper-set",
   slug: "shapeshifters-chain",
   title: "Shapeshifter's Chain",

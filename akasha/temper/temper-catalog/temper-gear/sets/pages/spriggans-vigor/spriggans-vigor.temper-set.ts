@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const spriggansVigor = {
-  id: "01a05fdc-9740-7014-a481-171a03213746",
+  id: "019e66e6-a0c8-7b48-ae42-aaba60d95bd4",
   pageTypeSlug: "temper-set",
   slug: "spriggans-vigor",
   title: "Spriggan's Vigor",

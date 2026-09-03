@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const puncturingRemedy = {
-  id: "01a05fdc-971c-73e1-8928-3f11045a7983",
+  id: "019e6484-5fd0-7d49-9b4a-c7e73beb3341",
   pageTypeSlug: "temper-set",
   slug: "puncturing-remedy",
   title: "Puncturing Remedy",

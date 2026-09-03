@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const oblivionsEdge = {
-  id: "01a05fdb-7d4d-78e0-8e8c-876af516f040",
+  id: "019e66e6-a0aa-7f0b-a040-70cd77ca65f5",
   pageTypeSlug: "temper-set",
   slug: "oblivions-edge",
   title: "Oblivion's Edge",

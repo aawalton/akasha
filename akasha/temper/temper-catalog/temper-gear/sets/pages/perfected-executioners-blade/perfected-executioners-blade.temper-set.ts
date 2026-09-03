@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedExecutionersBlade = {
-  id: "01a05fdb-7d57-7f00-b59a-fbfee67ece50",
+  id: "019e6484-5fbc-76be-9478-521e7cb7b8ce",
   pageTypeSlug: "temper-set",
   slug: "perfected-executioners-blade",
   title: "Perfected Executioner's Blade",

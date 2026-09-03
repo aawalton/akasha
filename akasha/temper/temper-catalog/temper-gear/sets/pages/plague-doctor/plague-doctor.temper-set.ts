@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const plagueDoctor = {
-  id: "01a05fdc-9719-7699-b3ba-da11a7cc702b",
+  id: "019e66e7-6a79-7c9b-bf63-853a6cb57807",
   pageTypeSlug: "temper-set",
   slug: "plague-doctor",
   title: "Plague Doctor",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const sheerVenom = {
-  id: "01a05fdc-9735-75c0-be1f-341f7bb7dcb7",
+  id: "019e66e6-a0c1-747a-b4a2-89316e9bee4c",
   pageTypeSlug: "temper-set",
   slug: "sheer-venom",
   title: "Sheer Venom",

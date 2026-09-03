@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedMendersWard = {
-  id: "01a05fdb-7d5c-7a48-be3a-9fa13be44656",
+  id: "019e6484-5fc0-7a5f-a3f0-07f2f595345c",
   pageTypeSlug: "temper-set",
   slug: "perfected-menders-ward",
   title: "Perfected Mender's Ward",

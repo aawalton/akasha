@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const orderOfDiagna = {
-  id: "01a05fdb-7d4e-78b6-9aa4-074039944ef6",
+  id: "019e66e7-6a77-7571-be7c-c84bb672205a",
   pageTypeSlug: "temper-set",
   slug: "order-of-diagna",
   title: "Order of Diagna",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const relicsOfThePhysicianAnsur = {
-  id: "01a05fdc-9723-7975-bec5-95de3204bb7b",
+  id: "019e6484-604d-737a-958e-837a9c216a01",
   pageTypeSlug: "temper-set",
   slug: "relics-of-the-physician-ansur",
   title: "Relics of the Physician, Ansur",

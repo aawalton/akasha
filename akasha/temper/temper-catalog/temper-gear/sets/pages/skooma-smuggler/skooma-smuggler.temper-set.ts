@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const skoomaSmuggler = {
-  id: "01a05fdc-9738-751a-bddf-2cff6e8bef2b",
+  id: "019e66e7-6a8d-71c8-b4c8-99a48259d24b",
   pageTypeSlug: "temper-set",
   slug: "skooma-smuggler",
   title: "Skooma Smuggler",

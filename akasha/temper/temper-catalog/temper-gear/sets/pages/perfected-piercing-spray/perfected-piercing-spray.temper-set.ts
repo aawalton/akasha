@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedPiercingSpray = {
-  id: "01a05fdb-7d5e-7642-b4d0-301f512cdca9",
+  id: "019e66ec-7d00-74a8-8fd3-7cdf38792ba0",
   pageTypeSlug: "temper-set",
   slug: "perfected-piercing-spray",
   title: "Perfected Piercing Spray",

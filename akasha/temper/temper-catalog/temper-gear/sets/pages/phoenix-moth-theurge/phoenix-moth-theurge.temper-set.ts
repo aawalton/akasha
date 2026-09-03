@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const phoenixMothTheurge = {
-  id: "01a05fdc-9715-7019-a029-f00de23b32e8",
+  id: "019e66e7-6a78-78e6-9af5-35c1abd3cfd1",
   pageTypeSlug: "temper-set",
   slug: "phoenix-moth-theurge",
   title: "Phoenix Moth Theurge",

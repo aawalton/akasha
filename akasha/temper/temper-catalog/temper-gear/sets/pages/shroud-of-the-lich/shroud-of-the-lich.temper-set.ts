@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shroudOfTheLich = {
-  id: "01a05fdc-9736-77e4-88ee-8034d6b7d6d9",
+  id: "019e66e6-a0c2-7579-8327-b7e4f131c8b8",
   pageTypeSlug: "temper-set",
   slug: "shroud-of-the-lich",
   title: "Shroud of the Lich",

@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const pillagersProfit = {
-  id: "01a05fdc-9717-7e4e-be10-fab46c46359d",
+  id: "019e66ec-7dfe-70a3-bf0e-d56b701c1e02",
   pageTypeSlug: "temper-set",
   slug: "pillagers-profit",
   title: "Pillager's Profit",

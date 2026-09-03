@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const scorionsFeast = {
-  id: "01a05fdc-972c-71d3-81c2-98682040bf8f",
+  id: "019e66e6-a0bf-70ea-af44-fe1ab7fd0a83",
   pageTypeSlug: "temper-set",
   slug: "scorions-feast",
   title: "Scorion's Feast",

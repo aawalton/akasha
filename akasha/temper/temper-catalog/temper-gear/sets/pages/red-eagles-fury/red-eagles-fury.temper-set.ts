@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const redEaglesFury = {
-  id: "01a05fdc-9722-7f2a-9a2b-5fca621ca92a",
+  id: "019e668e-9a5e-71a2-a4b8-9bfc6704fc6c",
   pageTypeSlug: "temper-set",
   slug: "red-eagles-fury",
   title: "Red Eagle's Fury",

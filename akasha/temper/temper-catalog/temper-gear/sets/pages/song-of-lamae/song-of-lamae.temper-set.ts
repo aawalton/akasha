@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const songOfLamae = {
-  id: "01a05fdc-973a-7f5a-ba13-de0b1297cdbe",
+  id: "019e668e-9a65-7f1b-9352-4266928a57ff",
   pageTypeSlug: "temper-set",
   slug: "song-of-lamae",
   title: "Song of Lamae",

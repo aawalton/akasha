@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const radiantBastion = {
-  id: "01a05fdc-971e-7a63-9257-31ff45efc07c",
+  id: "019e66e7-6a7d-776a-a67e-35cf3a094c05",
   pageTypeSlug: "temper-set",
   slug: "radiant-bastion",
   title: "Radiant Bastion",

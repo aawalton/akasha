@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const spectralCloak = {
-  id: "01a05fdc-973d-7f16-b3ef-f588f505285f",
+  id: "019e6484-5fd4-7840-884d-84b28a30a91c",
   pageTypeSlug: "temper-set",
   slug: "spectral-cloak",
   title: "Spectral Cloak",

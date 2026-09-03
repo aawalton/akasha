@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const seventhLegionBrute = {
-  id: "01a05fdc-9730-7477-8d3c-28738ba46d7f",
+  id: "019e66e7-6a85-7dd7-98c0-e60a58ae6ad5",
   pageTypeSlug: "temper-set",
   slug: "seventh-legion-brute",
   title: "Seventh Legion Brute",

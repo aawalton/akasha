@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const plagueSlinger = {
-  id: "01a05fdc-9719-75e9-803b-0c9fba1d8c4b",
+  id: "019e66e6-a0b0-742d-9af9-a2ac3843ee7d",
   pageTypeSlug: "temper-set",
   slug: "plague-slinger",
   title: "Plague Slinger",

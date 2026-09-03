@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const shadowDancersRaiment = {
-  id: "01a05fdc-9731-7681-bced-58210e98d24e",
+  id: "019e66e7-6a87-712a-9e3e-1e5ba25021fb",
   pageTypeSlug: "temper-set",
   slug: "shadow-dancers-raiment",
   title: "Shadow Dancer's Raiment",

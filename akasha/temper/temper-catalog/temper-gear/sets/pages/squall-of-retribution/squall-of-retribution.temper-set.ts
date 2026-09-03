@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const squallOfRetribution = {
-  id: "01a05fdc-9741-7320-b339-73dada8c1051",
+  id: "019e66e7-6a20-7465-8cba-8ffaf70b87f0",
   pageTypeSlug: "temper-set",
   slug: "squall-of-retribution",
   title: "Squall of Retribution",

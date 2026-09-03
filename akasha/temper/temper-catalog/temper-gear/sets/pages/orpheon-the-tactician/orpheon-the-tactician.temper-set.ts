@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const orpheonTheTactician = {
-  id: "01a05fdb-7d4f-7c9a-9e62-d6a84e3fadef",
+  id: "019e66e7-6a15-76e0-9012-f200ae54bf77",
   pageTypeSlug: "temper-set",
   slug: "orpheon-the-tactician",
   title: "Orpheon the Tactician",

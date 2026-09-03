@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const rushOfAgony = {
-  id: "01a05fdc-9729-7b29-8b55-81d4ae120a4d",
+  id: "019e66e6-a0b9-78db-b4f9-b85088c59410",
   pageTypeSlug: "temper-set",
   slug: "rush-of-agony",
   title: "Rush of Agony",

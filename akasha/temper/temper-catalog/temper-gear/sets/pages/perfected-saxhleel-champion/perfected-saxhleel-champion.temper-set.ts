@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedSaxhleelChampion = {
-  id: "01a05fdb-7d61-7b4a-95be-0a827850cf3e",
+  id: "019e66ec-7d2b-7a27-9250-6ca86e5c1760",
   pageTypeSlug: "temper-set",
   slug: "perfected-saxhleel-champion",
   title: "Perfected Saxhleel Champion",

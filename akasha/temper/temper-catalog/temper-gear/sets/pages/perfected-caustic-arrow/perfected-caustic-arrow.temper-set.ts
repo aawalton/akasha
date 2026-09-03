@@ -1,7 +1,7 @@
 import type { TemperSet } from "../../temper-set.page-type.ts"
 
 export const perfectedCausticArrow = {
-  id: "01a05fdb-7d53-7de5-95ab-ad06289c313a",
+  id: "019e6484-5fb9-708f-9d5b-aad9f2a2071b",
   pageTypeSlug: "temper-set",
   slug: "perfected-caustic-arrow",
   title: "Perfected Caustic Arrow",
