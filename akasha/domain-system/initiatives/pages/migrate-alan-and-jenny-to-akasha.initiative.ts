@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "Typings now resolve from inside akasha (`000d233041`) with no copy and the original untouched. What is left is a remodelling, not a move: `file-has-its-page` bars a plain `src/`, so 77 module pages plus partSlugs, 653 comment lines out, every import rewritten, and `no-void-return` refuses the void-returning handlers these 24 files are full of. Both earlier blockers answered at `db949e8a99`. Never repoint a symlink before code lands, or 14 commands vanish while the audit skips green.",
+        "77 files, 7,844 lines, zero migrated: the 2 module pages here are net-new, not ports. Runtime graph is ACYCLIC — both 2-file cycles break on an `import type` edge — so files land singly. 24 leaves go first in any order; `harness-call.ts` is the hinge, 14 dependents, 7 escapes. Each module is a folder holding `.module.ts` + `.module.code.ts` + `.module.test.ts`. 4 symlinks aim at the old tree; repointing before code lands kills 14 commands while the audit skips green.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
