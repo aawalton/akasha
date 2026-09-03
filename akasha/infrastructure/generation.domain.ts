@@ -6,7 +6,12 @@ export const generation = {
   slug: "generation",
   definition: "images, video, audio or prose made by a model",
   pluralSlug: "generations",
-  partSlugs: ["workspace-package/upscale", "workspace-package/wan", "workspace-package/zimage"],
+  partSlugs: [
+    "page-type/audio",
+    "workspace-package/upscale",
+    "workspace-package/wan",
+    "workspace-package/zimage",
+  ],
   invariants: [
     {
       invariantKind: "departure",
