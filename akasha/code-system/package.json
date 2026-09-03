@@ -27,6 +27,7 @@
     "./ios-program/alanwalton-widget": "./ios-programs/pages/alanwalton-widget/alanwalton-widget.ios-program.ts",
     "./ios-program/smilingjenny-decode-harness": "./ios-programs/pages/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts",
     "./ios-program/smilingjenny-widget": "./ios-programs/pages/smilingjenny-widget/smilingjenny-widget.ios-program.ts",
+    "./javascript-module": "./javascript-modules/javascript-module.page-type.ts",
     "./lua-module": "./lua-modules/lua-module.page-type.ts",
     "./lua-runtime-library": "./lua-runtime-libraries/lua-runtime-library.page-type.ts",
     "./module": "./modules/module.page-type.ts",

@@ -18,6 +18,7 @@ export const codeSystem = {
     "page-type/ios-component",
     "page-type/ios-harness",
     "page-type/ios-program",
+    "page-type/javascript-module",
     "page-type/lua-module",
     "page-type/lua-runtime-library",
     "page-type/router-app",
