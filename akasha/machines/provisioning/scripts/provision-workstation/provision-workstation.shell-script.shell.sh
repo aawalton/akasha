@@ -101,7 +101,7 @@ fi
 
 echo "==> Installing the vendored upstream TamrielTradeCentre addon (ESOUI, via community-addon install command)..."
 if [ "$(uname)" != "Darwin" ]; then
-  if ! (cd "$AKASHA" && bun ops temper community-addon install TamrielTradeCentre); then
+  if ! (cd "$AKASHA" && bun akasha/command-system/cli/cli.module.code.ts temper-community-addon-install TamrielTradeCentre); then
     echo "WARN: TamrielTradeCentre install via community-addon command failed — continuing." >&2
   fi
 fi
