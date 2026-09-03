@@ -1,10 +1,10 @@
 import * as vscode from 'vscode';
-import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
+import { repositoryPath, unreachableMessage } from '@akasha/editor-extension/harness-call';
 import { recordObservation } from '../../seat/observation-store.ts';
-import { createSettledRefresh } from '../settled-refresh.ts';
+import { createSettledRefresh } from '@akasha/editor-extension/settled-refresh';
 import { countPages, countRows, readPageTree } from "./harness.ts"
-import { type PageNode } from "./assemble.ts";
-import { REFRESH_COMMAND, VIEW_ID } from './ids.ts';
+import { type PageNode } from "@akasha/editor-extension/page-tree-assemble";
+import { REFRESH_COMMAND, VIEW_ID } from '@akasha/editor-extension/page-tree-ids';
 import { createPageTree } from './tree.ts';
 
 const FEATURE = 'page-tree';

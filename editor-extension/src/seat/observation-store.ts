@@ -1,4 +1,4 @@
-import { akashaRoot, harnessEnvironment } from '../harness-call.ts';
+import { akashaRoot, harnessEnvironment } from '@akasha/editor-extension/harness-call';
 import { changeKey, type Observation } from "./observations.ts"
 import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge.ts";
 import { bunIn, writerMainIn, writingTo, type Writing } from './observation-writer.ts';

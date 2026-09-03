@@ -1,4 +1,4 @@
-import type { SeatMode } from '../../seat/mode.ts';
+import type { SeatMode } from '@akasha/editor-extension/seat-mode';
 import type { SeatRow } from './forest.ts';
 import type { SubagentNode } from './subagents.ts';
 

@@ -6,8 +6,8 @@ import {
 	type TabKind,
 } from '../../seat/editor-layout.ts';
 import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
-import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids.ts';
-import { readProcess } from '../../seat/window-identity.ts';
+import { PROCESS_ID_TIMEOUT_MS } from '@akasha/editor-extension/terminal-pids';
+import { readProcess } from '@akasha/editor-extension/window-identity';
 import { readSeatLookup, readSeatTerminals } from '../agent-tree/columns.ts';
 import { arrangedResponse } from '@tools/lib/editor-arrangement';
 import { deferCommits } from '@tools/lib/page-commit-queue';

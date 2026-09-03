@@ -10,7 +10,7 @@ import {
   REFUSAL_GONE,
   REFUSAL_LEASE,
   REFUSAL_OVER_LEASE,
-} from "../editor-extension/src/command-server-client.ts"
+} from "@akasha/editor-extension/command-server-client"
 import { LEASE_ENV, VERBS_SERVED } from "./lib/verb-served.ts"
 import { VERBS_LOADABLE, verbsAdrift } from "./verb-server.ts"
 

@@ -1,4 +1,4 @@
-import type { SeatMode } from '../../seat/mode.ts';
+import type { SeatMode } from '@akasha/editor-extension/seat-mode';
 
 export const SEAT_TAB_KEYS = {
 	any: 'opsAgentTree.seatTabs',

@@ -1,5 +1,5 @@
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter.ts';
+import { filterTree, textMatches } from '@akasha/editor-extension/tree-filter';
 import { TURN_SCHEME_PATH, turnColorIn } from '../turn-color.ts';
 import { type WorkNode, type WorkTree, documentPath } from './harness.ts';
 

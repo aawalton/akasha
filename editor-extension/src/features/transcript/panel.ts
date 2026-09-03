@@ -1,5 +1,5 @@
 import * as vscode from 'vscode';
-import type { Entry } from './model.ts';
+import type { Entry } from '@akasha/editor-extension/transcript-model';
 import { createTranscriptReader, type TranscriptRead } from './reader.ts';
 import { renderEntries } from './render.ts';
 import { seatTranscriptOf } from './sources.ts';

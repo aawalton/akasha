@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 import { z } from 'zod';
-import { SEAT_MODE_SCHEMA } from '../../seat/mode.ts';
+import { SEAT_MODE_SCHEMA } from '@akasha/editor-extension/seat-mode';
 import { type AgentNode } from './forest.ts';
 import { type SeatClick } from './tree.ts';
 import { seatTabs } from './tree-state.ts';

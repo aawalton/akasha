@@ -1,5 +1,5 @@
 import * as path from "node:path"
-import type { SeatMode } from "../../seat/mode.ts"
+import type { SeatMode } from "@akasha/editor-extension/seat-mode"
 import { dropSeatTranscripts, seatTranscriptOf } from "../transcript/sources.ts"
 import type { AgentNode } from "./forest-types.ts"
 import {

@@ -1,21 +1,21 @@
 import * as vscode from 'vscode';
 import { z } from 'zod';
-import type { ColumnNumber } from '../../seat/editor-group.ts';
-import { seatNamesThatExist } from '../../seat/seat-page.ts';
+import type { ColumnNumber } from '@akasha/editor-extension/editor-group';
+import { seatNamesThatExist } from '@akasha/editor-extension/seat-page';
 import {
 	loadPsRows,
 	loadTmuxClients,
 	type PsRow,
 	seatNameForShellPid,
 	type TmuxClient,
-} from '../../seat/terminal-lookup.ts';
+} from '@akasha/editor-extension/terminal-lookup';
 import {
 	identified,
 	type PidTally,
 	readProcessIds,
 	tally,
 	tallyLine,
-} from '../../seat/terminal-pids.ts';
+} from '@akasha/editor-extension/terminal-pids';
 
 const MEMENTO_KEY = 'opsAgentTree.lastSeenColumn';
 

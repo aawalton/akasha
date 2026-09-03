@@ -1,11 +1,11 @@
 import { createHash } from 'node:crypto';
 import * as path from 'node:path';
 import * as vscode from 'vscode';
-import { repositoryPath, runCommand, unreachableMessage, commandPath } from '../../harness-call.ts';
+import { repositoryPath, runCommand, unreachableMessage, commandPath } from '@akasha/editor-extension/harness-call';
 import { recordObservation } from '../../seat/observation-store.ts';
-import { createSettledRefresh } from '../settled-refresh.ts';
+import { createSettledRefresh } from '@akasha/editor-extension/settled-refresh';
 import { countDomains, type DomainNode, readDomainTreeAnswer } from './harness.ts';
-import { REFRESH_COMMAND, VIEW_ID } from './ids.ts';
+import { REFRESH_COMMAND, VIEW_ID } from '@akasha/editor-extension/domain-tree-ids';
 import { createDomainTree } from './tree.ts';
 
 const FEATURE = 'domain-tree';

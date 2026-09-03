@@ -1,5 +1,5 @@
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter.ts';
+import { filterTree, textMatches } from '@akasha/editor-extension/tree-filter';
 import type { AgentNode } from './forest.ts';
 import { turnColorIn, turnStateSaid } from '../turn-color.ts';
 import { seatContextValue } from './toggles.ts';

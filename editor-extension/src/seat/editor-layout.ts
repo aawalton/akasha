@@ -1,4 +1,4 @@
-import type { ColumnNumber } from './editor-group.ts';
+import type { ColumnNumber } from '@akasha/editor-extension/editor-group';
 
 export type TabKind = 'terminal' | 'text' | 'notebook' | 'diff' | 'webview' | 'other';
 

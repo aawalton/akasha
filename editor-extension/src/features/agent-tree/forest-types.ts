@@ -4,7 +4,7 @@
 // do it. Holding the shape here leaves that one call as the only edge between the two, so each can
 // land on its own; naming the shape from its composer would put an edge back the other way and
 // neither could land first.
-import type { SeatMode } from "../../seat/mode.ts"
+import type { SeatMode } from "@akasha/editor-extension/seat-mode"
 
 export type AgentKind = "seat" | "subagent"
 

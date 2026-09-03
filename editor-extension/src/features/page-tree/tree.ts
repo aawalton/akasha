@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter.ts';
+import { filterTree, textMatches } from '@akasha/editor-extension/tree-filter';
 import { documentPath } from "./harness.ts"
-import { type PageNode, type PageTree } from "./assemble.ts";
+import { type PageNode, type PageTree } from "@akasha/editor-extension/page-tree-assemble";
 
 const OPEN_COMMAND = 'vscode.open';
 

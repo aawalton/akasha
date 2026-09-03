@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import type { WindowIdentity } from './window-identity.ts';
+import type { WindowIdentity } from '@akasha/editor-extension/window-identity';
 
 export const OBSERVATIONS_VERSION = 1;
 

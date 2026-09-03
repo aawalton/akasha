@@ -1,6 +1,6 @@
 import { stat } from 'node:fs/promises';
 import * as path from 'node:path';
-import { emptyTail, foldTail, type Tail } from '../../seat/tail-fold.ts';
+import { emptyTail, foldTail, type Tail } from '@akasha/editor-extension/tail-fold';
 import {
 	emptyEntryFold,
 	emptyJournal,
@@ -9,7 +9,7 @@ import {
 	type FoldJournal,
 	foldEntryLine,
 	undoFold,
-} from './model.ts';
+} from '@akasha/editor-extension/transcript-model';
 import { readSubagentsIn, type SubagentTranscript } from './sources.ts';
 
 // A TRANSCRIPT PANEL THAT READS WHAT WAS APPENDED, NOT WHAT IS THERE.

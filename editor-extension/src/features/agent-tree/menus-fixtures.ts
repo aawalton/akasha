@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { z } from 'zod';
-import type { SeatMode } from '../../seat/mode.ts';
+import type { SeatMode } from '@akasha/editor-extension/seat-mode';
 import { seatContextValue } from './toggles.ts';
 
 const MENU_ITEM_SCHEMA = z.object({

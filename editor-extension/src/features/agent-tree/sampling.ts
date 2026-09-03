@@ -1,5 +1,5 @@
 import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
-import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids.ts';
+import { PROCESS_ID_TIMEOUT_MS } from '@akasha/editor-extension/terminal-pids';
 import { readSeatLookup, readSeatTerminals, type SeatTerminal } from './columns.ts';
 import type { AgentNode } from './forest.ts';
 import { columns, output } from './tree-state.ts';

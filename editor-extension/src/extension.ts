@@ -1,5 +1,5 @@
 import * as vscode from 'vscode';
-import { type Startable, startIsolated } from './activation.ts';
+import { type Startable, startIsolated } from '@akasha/editor-extension/activation';
 import * as agentTree from './features/agent-tree/activate.ts';
 import * as domainTree from './features/domain-tree/activate.ts';
 import * as editorLayout from './features/editor-layout/activate.ts';
@@ -8,13 +8,13 @@ import * as statusBar from './features/status-bar/activate.ts';
 import * as workTree from './features/work-tree/activate.ts';
 import * as terminalRename from './features/terminal-rename/activate.ts';
 import * as transcript from './features/transcript/activate.ts';
-import { disposeCommandServer, commandServerHeard } from './harness-call.ts';
+import { disposeCommandServer, commandServerHeard } from '@akasha/editor-extension/harness-call';
 import {
 	createObservationStore,
 	recordObservation,
 	setObservationStore,
 } from './seat/observation-store.ts';
-import { readProcess } from './seat/window-identity.ts';
+import { readProcess } from '@akasha/editor-extension/window-identity';
 
 const FEATURE_TIMEOUT_MS = 20_000;
 

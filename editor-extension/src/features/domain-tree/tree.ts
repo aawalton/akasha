@@ -1,5 +1,5 @@
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter.ts';
+import { filterTree, textMatches } from '@akasha/editor-extension/tree-filter';
 import { type DomainNode, type DomainTree, documentPath } from './harness.ts';
 
 const OPEN_COMMAND = 'vscode.open';

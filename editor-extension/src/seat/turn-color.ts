@@ -1,6 +1,6 @@
 import * as path from "node:path"
-import { akashaRoot, repositoryPath, runCommand, commandPath } from "../harness-call.ts"
-import { colorNamed } from "../palette.ts"
+import { akashaRoot, repositoryPath, runCommand, commandPath } from "@akasha/editor-extension/harness-call"
+import { colorNamed } from "@akasha/editor-extension/palette"
 
 const CALL_TIMEOUT_MS = 30_000
 

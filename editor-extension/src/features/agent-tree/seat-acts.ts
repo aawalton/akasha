@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
-import { runOps } from '../../harness-call.ts';
-import { seatTerminalOptions } from '../../seat/editor-group.ts';
+import { runOps } from '@akasha/editor-extension/harness-call';
+import { seatTerminalOptions } from '@akasha/editor-extension/editor-group';
 import { readSeatLookup } from './columns.ts';
 import { attachCommandLine, resumePrompt, type SeatStep } from './toggles.ts';
 import { type ToggleTarget } from './invoked-seat.ts';

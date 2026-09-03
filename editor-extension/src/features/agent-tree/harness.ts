@@ -1,4 +1,4 @@
-import { runCommand, commandPath } from '../../harness-call.ts';
+import { runCommand, commandPath } from '@akasha/editor-extension/harness-call';
 
 const COMMAND_TIMEOUT_MS = 30_000;
 

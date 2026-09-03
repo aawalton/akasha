@@ -1,7 +1,7 @@
 import { readdir, readFile, stat } from 'node:fs/promises';
 import * as path from 'node:path';
 import { z } from 'zod';
-import { runCommand, commandPath } from '../../harness-call.ts';
+import { runCommand, commandPath } from '@akasha/editor-extension/harness-call';
 
 export interface SeatTranscript {
 	readonly agentId: string;

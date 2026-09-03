@@ -1,12 +1,12 @@
 import * as vscode from 'vscode';
-import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
+import { repositoryPath, unreachableMessage } from '@akasha/editor-extension/harness-call';
 import { recordObservation } from '../../seat/observation-store.ts';
 import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
 import { dropDerivers } from '@tools/lib/deriver-hold';
-import { createSettledRefresh } from '../settled-refresh.ts';
+import { createSettledRefresh } from '@akasha/editor-extension/settled-refresh';
 import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColors, readWorkTree } from "./harness.ts"
 import { recolor } from "./colors.ts";
-import { REFRESH_COMMAND, VIEW_ID } from './ids.ts';
+import { REFRESH_COMMAND, VIEW_ID } from '@akasha/editor-extension/work-tree-ids';
 import { createWorkDecorationProvider, createWorkTree } from './tree.ts';
 
 const FEATURE = 'work-tree';

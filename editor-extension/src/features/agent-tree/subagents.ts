@@ -1,8 +1,8 @@
 import * as path from 'node:path';
 import { z } from 'zod';
-import { emptyTail, foldTail, type Tail } from '../../seat/tail-fold.ts';
+import { emptyTail, foldTail, type Tail } from '@akasha/editor-extension/tail-fold';
 import { anchorEnding, type Checkpoint, readCheckpoints, writeCheckpoints } from './subagent-checkpoints.ts';
-import { applyRecord, emptySubagentState, isJsonObject, type RunningSubagent, runningSubagents, type SubagentState } from './subagent-core.ts';
+import { applyRecord, emptySubagentState, isJsonObject, type RunningSubagent, runningSubagents, type SubagentState } from '@akasha/editor-extension/subagent-core';
 
 const TRANSCRIPT_RECORD = z.custom<Record<string, unknown>>(isJsonObject);
 

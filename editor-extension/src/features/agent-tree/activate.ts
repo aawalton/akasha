@@ -1,5 +1,5 @@
 import * as vscode from 'vscode';
-import { unreachableMessage } from '../../harness-call.ts';
+import { unreachableMessage } from '@akasha/editor-extension/harness-call';
 import { recordObservation } from '../../seat/observation-store.ts';
 import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
 import { createColumnMemory, tabInstanceIds } from './columns.ts';
@@ -39,7 +39,7 @@ import {
 	RUN_STOP_COMMAND,
 	SEAT_SETTLE_MS,
 	VIEW_ID,
-} from './ids.ts';
+} from '@akasha/editor-extension/agent-tree-ids';
 
 const FEATURE = 'agent-tree';
 

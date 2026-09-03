@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
-import { describeTerminal, type PidReading, PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids.ts';
-import type { PsRow } from '../../seat/terminal-lookup.ts';
-import { lastAppliedByTerminal, lastColorByTerminal, SILENT_TERMINAL_NAME } from './terminal-marks.ts';
+import { describeTerminal, type PidReading, PROCESS_ID_TIMEOUT_MS } from '@akasha/editor-extension/terminal-pids';
+import type { PsRow } from '@akasha/editor-extension/terminal-lookup';
+import { lastAppliedByTerminal, lastColorByTerminal, SILENT_TERMINAL_NAME } from '@akasha/editor-extension/terminal-marks';
 
 
 export function syncColor(

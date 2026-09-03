@@ -1,7 +1,7 @@
 import * as path from 'node:path';
 import { z } from 'zod';
-import { akashaRoot, runCommand, commandPath } from '../../harness-call.ts';
-import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble.ts';
+import { akashaRoot, runCommand, commandPath } from '@akasha/editor-extension/harness-call';
+import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from '@akasha/editor-extension/page-tree-assemble';
 
 const CALL_TIMEOUT_MS = 60_000;
 

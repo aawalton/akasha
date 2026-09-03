@@ -2,7 +2,7 @@ import { mkdir, open, readFile, rename, writeFile } from 'node:fs/promises';
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { z } from 'zod';
-import type { SubagentState } from './subagent-core.ts';
+import type { SubagentState } from '@akasha/editor-extension/subagent-core';
 
 // WHAT A SEAT'S TRANSCRIPT ALREADY SAID, WRITTEN DOWN SO IT IS SAID ONCE.
 //

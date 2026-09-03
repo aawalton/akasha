@@ -1,12 +1,12 @@
 import * as vscode from 'vscode';
 import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
-import { PROCESS_ID_TIMEOUT_MS, readProcessIds, tally } from '../../seat/terminal-pids.ts';
-import { loadPsRows, loadTmuxClients, seatNameForShellPid } from '../../seat/terminal-lookup.ts';
-import { agentIdsForSeatNames, seatNamesThatExist } from '../../seat/seat-page.ts';
+import { PROCESS_ID_TIMEOUT_MS, readProcessIds, tally } from '@akasha/editor-extension/terminal-pids';
+import { loadPsRows, loadTmuxClients, seatNameForShellPid } from '@akasha/editor-extension/terminal-lookup';
+import { agentIdsForSeatNames, seatNamesThatExist } from '@akasha/editor-extension/seat-page';
 import { readSeatTurnColors, SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
 
 import { syncTerminal } from './sync-terminal.ts';
-import { lastAppliedByTerminal, lastColorByTerminal } from './terminal-marks.ts';
+import { lastAppliedByTerminal, lastColorByTerminal } from '@akasha/editor-extension/terminal-marks';
 
 const FEATURE = 'terminal-rename';
 

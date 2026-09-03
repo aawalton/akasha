@@ -1,5 +1,5 @@
 import * as path from 'node:path';
-import { runCommand, commandPath } from '../../harness-call.ts';
+import { runCommand, commandPath } from '@akasha/editor-extension/harness-call';
 import { rollUp } from './colors.ts';
 import type { WorkColors, WorkNode, WorkTree } from './work-types.ts';
 

@@ -1,5 +1,5 @@
 import type { SlotDef } from './slot-types.ts';
-import { BLUE_HEX, PURPLE_HEX } from './theme.ts';
+import { BLUE_HEX, PURPLE_HEX } from '@akasha/editor-extension/status-bar-theme';
 
 
 function formatUsagePct(v: number | null): string {

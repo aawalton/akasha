@@ -1,4 +1,4 @@
-import type { Entry, ToolCallEntry } from './model.ts';
+import type { Entry, ToolCallEntry } from '@akasha/editor-extension/transcript-model';
 import type { SubagentTranscript } from './sources.ts';
 
 export function escapeHtml(value: string): string {

@@ -1,4 +1,4 @@
-import { PALETTE_NAMES } from '../palette.ts';
+import { PALETTE_NAMES } from '@akasha/editor-extension/palette';
 
 export const TURN_SCHEME_PATH = 'turn';
 

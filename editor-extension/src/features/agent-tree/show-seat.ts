@@ -1,11 +1,11 @@
 import * as vscode from 'vscode';
-import { type ColumnNumber, chooseColumn } from '../../seat/editor-group.ts';
+import { type ColumnNumber, chooseColumn } from '@akasha/editor-extension/editor-group';
 import {
 	type PsRow,
 	seatNameForShellPid,
 	type TmuxClient,
-} from '../../seat/terminal-lookup.ts';
-import { identified, readProcessIds } from '../../seat/terminal-pids.ts';
+} from '@akasha/editor-extension/terminal-lookup';
+import { identified, readProcessIds } from '@akasha/editor-extension/terminal-pids';
 import { groupForTerminal, openColumns, readSeatLookup } from './columns.ts';
 import { columns, forest, output } from './tree-state.ts';
 
