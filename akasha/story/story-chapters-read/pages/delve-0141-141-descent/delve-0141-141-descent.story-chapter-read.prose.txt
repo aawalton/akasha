@@ -1,0 +1,462 @@
+Progression Tracker [0.6.0]marker_1: afterfight [20th Fallow]
+
+marker_2: predelve [21st Fallow]
+
+span: 22.3 hours
+
+Synchronization
+
+Strength: 4.4 -> 5.3 (+0.9)
+
+Focus: 10.1 -> 12.2 (+2.1)
+
+Clarity: 200 -> 203 (+3)
+
+Slots
+
+Accolade
+
+Bonus
+
+4 [2x2]
+
+The Ice Cavern
+
++40 Strength
+
+4 [1x4]
+
+The Halls of Corruption
+
++40 Focus
+
+3
+
+The Lair of Embers
+
++1,000 Heat Resistance
+
+3
+
+We Can’t Just Call It ‘The Lair’
+
++200 Force Resistance
+
+2 [1x2]
+
+The Solar Temple
+
++400 Stamina
+
+2
+
+Southshore Rat Warren
+
++1,000 Health
+
+1
+
+Everdeep Fortress
+
++10 Perception
+
+Known Skill Trees
+
+Tier 0: 144
+
+Tier 1: 144
+
+Tier 2: 144
+
+Tier 3: 135
+
+Tier 4: 0
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,749
+
+22,750
+
+1,644,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+2,780
+
+2,800
+
+400/d
+
+Stamina
+
+999
+
+1,000
+
+500/d
+
+Mana
+
+11,700
+
+11,700
+
+3.0/s
+
+Attributes
+
+200/180
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+9.54
+
+90
+
+10
+
+40
+
+40/40
+
+10.6%
+
+RCV
+
+19.6
+
+40
+
+10
+
+0
+
+30/30
+
+49.0%
+
+END
+
+12
+
+30
+
+10
+
+0
+
+20/20
+
+40.0%
+
+VGR
+
+29
+
+50
+
+10
+
+0
+
+40/40
+
+58.0%
+
+FCS
+
+29.3
+
+120
+
+10
+
+40
+
+70/193
+
+24.4%
+
+CLR
+
+200
+
+200
+
+200
+
+0
+
+0/179
+
+100.0%
+
+PER
+
+8.4
+
+20
+
+10
+
+10
+
+0/0
+
+42.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/1
+
+94.0%
+
+Resistances
+
+1940/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1543.0
+
+0%
+
+COLD
+
+543.0
+
+0%
+
+LIGHT
+
+3.0
+
+0%
+
+DARK
+
+3.0
+
+0%
+
+FORCE
+
+633.0
+
+0%
+
+ARCANE
+
+43.0
+
+0%
+
+CHEMICAL
+
+493.0
+
+0%
+
+MENTAL
+
+3.0
+
+0%
+
+The second chasm was a fully enclosed fissure in the stone, smaller than the crack above. The mineshaft that led down from the surface continued on the other side for only a few dozen meters before being blocked by fallen debris. The fissure itself was passable, though with an uneven floor and walls tight enough in places to make swinging a sword difficult. It was rank eleven for the most part—not that much worse than the lowest point of the first chasm. That said, it was considerably more dangerous because of the cramped conditions and the constant darkness.
+
+Near the far end of the second chasm was another mineshaft—perhaps the same one having looped around, perhaps not. That passage sloped down for a few hundred meters until it came out high on the wall of the third and final chasm, which plummeted down deep. Tallheart had gone down there weeks ago, finding a natural cave system at the bottom that measured rank thirteen with Rain’s depth gauge. The cervidian was convinced that those caves extended deeper still, though he hadn’t explored far. He’d said he could ‘smell the depths down there,’ whatever that meant.
+
+The term ‘depths’ was a catchall that described anything below the surface. When most people used it, however, they usually meant natural caves like those Tallheart had found. The entire planet was supposedly wormed through with tunnels, becoming increasingly complex and interconnected as you went deeper, complete with their own diverse monstrous ecosystems. There was no clear line that defined where the depths began, unlike lairs with their magical boundaries, so people generally specified things using the Guild’s terminology.
+
+Rank thirteen was the transition point between shallow and deep bronze. Shallow silver started at twenty-five, transitioning to deep silver, then to shallow gold, and so forth. That continued all the way to rank one hundred—or so it was said. Outside of legends, nobody had ever made it that far.
+
+Rain, Ameliah, and Tallheart were presently gathered at the mouth of the mineshaft that led to the third chasm, surrounded by the members of Ascension who’d come to see them off. They had already cleared all the monsters from the area, including those that had come up from the tunnel. Fresh evertorches burned along the walls. Now that the Fire Eater had been defeated, Ascension would be keeping this area lit to take some of the pressure off of their defenses above.
+
+All three delvers had heavy packs, though the word ‘pack’ was ill-suited to encompass their disparate burdens. Tallheart had what he called his ‘mobile forge’, being a u-shaped metal frame over his shoulders holding his anvil and various tools in the front, and a miniature smelter-forge hybrid in the back. Rain could feel his own spine compacting just from looking at it. The antlered smith also had what looked like a pair of metal toolboxes, one in either hand. These, Rain knew, were filled with ingots of various metals. It was a wonder that Tallheart wasn’t leaving footprints in the solid stone.
+
+Ameliah’s pack was normal by comparison. It contained food, spare clothing, equipment, potions, water, and so forth—the kind of things you’d expect an adventurer to have. As for Ameliah herself, she was wearing her everyday travel clothing, sans cloak. She’d asked Rain to cut her hair, and he was proud to say that he hadn’t made too much of a mess of it. It hung to her shoulders loosely, short enough to not get in the way without needing to be tied back, which was how she liked it. The only enchanted item she had was her utility knife, which she didn’t use for combat. Her hands were bare, as she was currently specialized as a Fire Mage. The bonuses that she could have gotten from Cryst-level rings were piddly from a silverplate’s perspective anyway.
+
+As for Rain, like Tallheart, he was loaded both front and back. In his case, however, it wasn’t the weight of his packs that was exceptional; it was their bulk. His backpack from yesterday’s combat test had been too small, so he’d gotten a bigger one, and then another just like it to balance himself out. With the bulging packs strapped over his already bulky armor, he felt like some bizarre amalgam of a pack mule and the Michelin man.
+
+The packs were rigged with a single ripcord that he could pull with his non-shield hand at a moment’s notice. As before, that would free him of his burdens, should combat be required. The engineering effort required to get the release to work with two packs instead of one had warranted a name, Rain had decided, so he’d dubbed the completed contraption ‘The Double Gamgee.’
+
+“Oi, Rain, yer sure ye’ve got all ye need?” Kettel asked, grinning. “I think I’ve got a spare pair’a boots I could give ye. Oh! Or some silver candlesticks! Wouldn’t want ta be without those down there. Ye gots ta be ready fer anything! Like a wild travelin’ dinner party!”
+
+Rain laughed. “Thanks, Kettel, I don’t think there’s much chance of that.”
+
+“Oh, I wouldn’t be so sure,” Jamus said, smiling. “The depths are vast. Who is to say what you might find?”
+
+“Mmm,” Tallheart rumbled in agreement.
+
+Rain sighed. “Oh, come on. Not you too.”
+
+“You look like that lizard we fought in the Fells,” Samson said, his arms crossed. “The Corpulent Gill Monitor.”
+
+“He do, don’t he?!” Kettel slapped his thigh, then held out a hand toward Rain like a herald. “Behold! Our brave leader! Rain the Corpulent!” He snorted. “S’got a nice ring to it! Almost as good as the Night Cleaner!”
+
+“I can hurt you,” Rain said flatly.
+
+A sudden explosive laugh from Carten made Rain turn his head. Ameliah had been having a separate conversation with him, Vanna, and Val, and from her smug expression, she’d been the source of Carten’s amusement. Val and Carten glanced at each other as Rain looked over, then at Ameliah. Moments later, both of them broke down completely, giggling like children. Vanna, in contrast, was rolling her eyes so hard that they seemed to be at risk of tumbling free from her skull.
+
+“What did I miss?” Rain asked.
+
+Carten managed to regain control of himself. He fixed Rain with a bearded grin, then jabbed a finger at Ameliah. “She said tha’ she liked tha size’o yer sack!”
+
+Rain did his best to imitate Vanna’s eye-rolling as Carten once more lost his composure. Ameliah can be just as bad as Carten sometimes. I can’t in good conscience encourage this kind of low humor. A bawdy pun? For shame. He shook his head, blushing slightly, but he was smiling when he replied. “Can everyone stop talking about my sack, please?”
+
+This, of course, didn’t help in the slightest. More laughter followed, and Rain patiently waited for it to die down while glaring at Ameliah with a look that said, ‘See what you did?’
+
+Eventually, the laughter did stop, and Jamus reached out to lay a hand on Rain’s shoulder. “You be safe down there, you hear me? And look after Tallheart. You know how he needs minding.”
+
+“I do not require minding,” Tallheart said, triggering another round of chuckles.
+
+“We’ll look out for each other,” Ameliah said. “Don’t worry about us.”
+
+“Mmm,” Tallheart rumbled.
+
+“Still,” Jamus said, turning to Tallheart. “Don’t do anything reckless, my friend. I do not want to lose you.”
+
+Val laughed, gesturing at Kettel. “Just ask yourself what the kid would do, and then don’t do that.”
+
+“Oi!” Kettel yelled.
+
+“You’re not one to talk, Val,” Rain said, raising a hand to show that he was kidding. Mostly. He bit his lip, then glanced over his shoulder at the mineshaft. After taking a breath, he nodded, then returned his attention to the others. “I suppose this is it, then. No goodbyes. We’ll be back within a month. Vanna, until then, you have the bridge.”
+
+“Thank you,” Vanna said. “My first task as acting captain will be to get us a ship so your nautical sayings make sense.”
+
+“Probably wise,” Rain said, nodding sagely before adopting a more serious expression. “We’ll send you a message if we get in trouble or find something worth reporting.”
+
+“Until we get out of range,” Ameliah added.
+
+Rain inclined his head to her. “Right.”
+
+Like almost all system skills, Message was limited to one league—about five kilometers—no matter how much metamagic you had. It didn’t do so well penetrating rock, though, which would bring the range down considerably. Rain had devised a different communication method that wasn’t subject to the system’s limits, but not everyone here knew about that. Operational security and so forth, as it required accolades. Likewise, he didn’t mention what Vanna was to do if they didn’t return within the expected time frame. She already knew.
+
+Rain tightened his fists, thinking of the various other contingency plans he’d put in place. Ascension. Will. Not. Fall.
+
+For all that he’d said no goodbyes, it took them another few minutes to disengage. The three of them walked silently down the mineshaft in the pool of Ameliah’s Lunar Orb, listening to the fading sounds of those they’d left behind.
+
+“Do you think they’ll be okay?” Rain asked, looking at Ameliah.
+
+“They’ll be fine,” Ameliah said, the warmth fading from her tone as if it had been stolen by the pale light.
+
+“But what if—“
+
+“They’ll be fine,” Ameliah repeated more firmly. “They’re as safe as we can make them. If anything, our leaving will help them get stronger.”
+
+“Mmm,” Tallheart said. “A chick only learns to peck when the mother hen leaves the nest.”
+
+“I—what?” Ameliah asked, looking at him. “Is that a cervidian saying?”
+
+“No,” Tallheart said. “My people have no use for chickens. We do not keep them.”
+
+“Huh,” Ameliah said. “I guess I’ve never heard that one.”
+
+Rain smiled, fussing with the clasp of one of the Double Gamgee’s numerous pouches. The talk of chicken was making him hungry all of a sudden. He pulled out a strip of Sakeren Jerky, then gestured with it. “Anyone want anything to eat? I brought snacks.”
+
+“I’m fine,” Ameliah said.
+
+“Mmm,” Tallheart said. “No, thank you.”
+
+“You’re sure?” Rain asked. “I’ve got some of those fried crunchy fern things you like.”
+
+“Later,” Tallheart said.
+
+“Suit yourself,” Rain said through a mouthful of jerky. He pointed down the dark tunnel. “Ameliah, there’s a monster about thirty meters ahead, around the bend.”
+
+“What kind?” Ameliah asked.
+
+“No idea,” Rain said with an unconcerned shrug.
+
+Ameliah frowned, glancing at Rain’s shield.
+
+“It’s not that,” Rain said, shaking his head. “I’ve mostly got a handle on the interference now as long as I remember to focus. It’s just that whatever kind of monster that is, it’s not one I’ve encountered before. It isn’t moving.”
+
+“Okay, stay back,” Ameliah said, sending her light to hover around Rain’s head. She slipped out of her pack, setting it on the ground. “I’ll go deal with it.”
+
+“Hold on, you don’t need to—“ Rain started, but she was already gone. Flames sprung up around her as she dashed forward, filling the tunnel with orange light. The fire almost seemed to be propelling her down the tunnel, though Rain knew Shrouded by Flame did nothing of the sort. She was just that fast. The orange light faded as she rounded the curve in the tunnel, but soon it returned with a vengeance, accompanied by a whump of detonation and a blast of hot air.
+
+Your party has defeated [Lesser Rockshell], Level 9
+
+Your Contribution: 1%
+
+0 Experience Earned
+
+Not long after that, Ameliah appeared back from around the bend, still blazing as she jogged toward them. “There. Problem solved,” she said. “Anything else around?”
+
+Rain shook his head. “What was it?”
+
+Ameliah raised an eyebrow, her fiery cloak going out. “I only got ninety-nine percent. I assumed you got the rest. Didn’t you see a message?”
+
+Rain nodded. “I did, but I have no idea what a Rockshell is.” He stuck the remaining piece of jerky between his teeth, then bent to pick up Ameliah’s pack and offered it to her.
+
+Ameliah shrugged, accepting the pack. “It was some sort of crab thing. I didn’t stop to paint a picture of it.”
+
+“Rockshells are a common creature of the depths,” Tallheart said. “There are many kinds, most with an aspect. What was the exact name?”
+
+“Lesser Rockshell,” Rain said, still chewing.
+
+“Hmm,” Tallheart said. “No aspect. We are fortunate. It seems we will begin in a neutral biome.”
+
+“Whatever,” Ameliah said, turning back to Rain. “Will you be able to sense them now?”
+
+Rain wiggled his hand as the three of them resumed their progress down the tunnel. “Lesser Rockshells specifically, yes. Rockshells as a category, I’m not sure. You didn’t have to run ahead, Ameliah. We could have fought it together. It was only level nine.”
+
+“Yes, and we didn’t know that,” Ameliah said, sounding annoyed. “I’m not taking chances.”
+
+“Fair enough,” Rain said, digging in his pack for another piece of jerky. He wasn’t particularly worried about himself yet, but their supplies were another matter. He might be monster-proof, but the Double Gamgee wasn’t.
+
+He stuffed the piece of meat into his mouth, chewing with enthusiasm as he activated Essence Well to send Ameliah a little mana. Damn, this stuff is good. I hope we find some nice plant monsters for Tallheart down here.
+

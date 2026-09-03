@@ -1,0 +1,716 @@
+Progression Tracker [0.6.0]marker_1: predelve [21st Fallow]
+
+marker_2: welcometothejungle [21st Fallow]
+
+span: 8.4 hours
+
+Synchronization
+
+Strength: 5.3 -> 6.4 (+1.1)
+
+Vigor: 5.8 -> 5.9 (+0.1)
+
+Focus: 12.2 -> 14.6 (+2.4)
+
+Slots
+
+Accolade
+
+Bonus
+
+4 [2x2]
+
+The Ice Cavern
+
++40 Strength
+
+4 [1x4]
+
+The Halls of Corruption
+
++40 Focus
+
+3
+
+The Lair of Embers
+
++1,000 Heat Resistance
+
+3
+
+We Can’t Just Call It ‘The Lair’
+
++200 Force Resistance
+
+2 [1x2]
+
+The Solar Temple
+
++400 Stamina
+
+2
+
+Southshore Rat Warren
+
++1,000 Health
+
+1
+
+Everdeep Fortress
+
++10 Perception
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,749
+
+22,750
+
+1,654,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+2,800
+
+2,800
+
+400/d
+
+Stamina
+
+204
+
+1,000
+
+500/d
+
+Mana
+
+11,666
+
+11,700
+
+3.0/s
+
+Attributes
+
+200/180
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+11.5
+
+90
+
+10
+
+40
+
+40/40
+
+12.8%
+
+RCV
+
+19.6
+
+40
+
+10
+
+0
+
+30/30
+
+49.0%
+
+END
+
+12
+
+30
+
+10
+
+0
+
+20/20
+
+40.0%
+
+VGR
+
+29.5
+
+50
+
+10
+
+0
+
+40/40
+
+59.0%
+
+FCS
+
+35
+
+120
+
+10
+
+40
+
+70/193
+
+29.2%
+
+CLR
+
+200
+
+200
+
+200
+
+0
+
+0/179
+
+100.0%
+
+PER
+
+8.4
+
+20
+
+10
+
+10
+
+0/0
+
+42.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/1
+
+94.0%
+
+Resistances
+
+1940/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1543.0
+
+0%
+
+COLD
+
+543.0
+
+0%
+
+LIGHT
+
+3.0
+
+0%
+
+DARK
+
+3.0
+
+0%
+
+FORCE
+
+633.0
+
+0%
+
+ARCANE
+
+43.0
+
+0%
+
+CHEMICAL
+
+493.0
+
+0%
+
+MENTAL
+
+3.0
+
+0%
+
+1.1 Strength, 0.1 Vigor, and 2.4 Focus in around eight hours? I’m surprised I haven’t been banned by now.
+
+Rain’s smile was visible by the flickering light of an evertorch, jammed into a crack in the tunnel wall. Ameliah’s Lunar Orb hovered up near the ceiling, supplementing the flames with a pale white glow. She and Tallheart were both asleep, or soon to be. Other than the soft sound of their breathing, the passage was deathly silent. Rain’s turn on watch would consist of keeping his ears open and monitoring his Detection macro, which was set to high power and a short interval. Nothing was going to sneak up on him, no matter that he couldn’t see beyond their flickering pool of illumination.
+
+His smile turned to a slight frown as he glanced at his stamina. It was at 204/1,000. That was the real cost of pushing himself with the accolades. The hunger was a mere annoyance by comparison.
+
+I don’t want to ask Ameliah to refill me. One, gaining stamina like that causes soulstrain; two, I’ll never get sync that way; and three, she needs it herself. She’s playing accolade games too.
+
+He shifted slightly, his body already feeling stiff from being immobile. Let me see what I can do here.
+
+With a minor effort, Rain removed the two accolades of the Solar Temple, replacing them with the two from Sharpton’s Delving. In so doing, he traded 400 max stamina—useless at the moment—for 400 stamina regeneration per day. It was unclear what effect, if any, this would have on his sync training, but he’d find out eventually. After some deliberation, he then removed all four of his Focus accolades as well. Just because he hadn’t noticed any side effects from the meteoric rise of his Focus sync, it didn’t mean there weren’t any. He couldn’t rely on his Dynamo status to protect him forever; stupidly-high Clarity only went so far. He’d put them back on after they were done resting.
+
+Taking advantage of the freed slots, he added the two accolades of the Everburn, giving himself yet more stamina regen. They weren’t as efficient as the Sharptons, but there wasn’t anything else he particularly needed at the moment. So the last two slots wouldn’t go to waste, he added a pair of Recovery accolades. They were crap-tier in terms of slot efficiency, but every little bit helped.
+
+Rain sighed.
+
+I should have asked them for their Everdeep Fortress accolades. Those would have been pretty damn handy on watch. I’m not getting much Perception sync, now that I think about it. The special stats must increase slower. That, or I’m not training them properly. Maybe I should try looking with my eyes and hearing with my ears.
+
+Rain smiled as he scanned the darkness, thinking of a certain Braavosi.
+
+Man, it’s such a shame Syrio died in book one. I wonder if Winds of Winter has a release date yet. He snorted softly. Who am I kidding? Doesn’t matter, anyway. It’s not like I’ll ever get to read it.
+
+…
+
+And now I’ve made myself sad.
+
+Rain shook his head, returning his eyes to his interface. I should finish this up.
+
+Detection had been quiet this whole time, as had the tunnel itself, but there was no call to get complacent. As preposterous as it sounded, he was technically responsible for Ameliah and Tallheart’s safety while they slept. That was something he took very seriously.
+
+Am I happy with this?
+
+Slots
+
+Accolade
+
+Bonus
+
+4 [2x2]
+
+The Ice Cavern
+
++40 Strength
+
+3
+
+The Lair of Embers
+
++1,000 Heat Resistance
+
+3
+
+We Can’t Just Call It ‘The Lair’
+
++200 Force Resistance
+
+2 [1x2]
+
+The Fire Well
+
++10 Recovery
+
+2 [1x2]
+
+Sharpton’s Delving
+
++400 S.Regen
+
+2 [1x2]
+
+The Everburn
+
++200 S.Regen
+
+2
+
+Southshore Rat Warren
+
++1,000 Health
+
+1
+
+Everdeep Fortress
+
++10 Perception
+
+Yes, I think I am. Now, for the ring. He shifted his gaze to his status page, then started shuffling points around. It’s high time I started pushing my physical tolerances again. I’ll lose my nice round numbers, but Dozer-me will just have to deal with it.
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,749
+
+22,750
+
+1,654,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+2,800
+
+3,000
+
+700/d
+
+Stamina
+
+205
+
+1,000
+
+1300/d
+
+Mana
+
+5,097
+
+5,100
+
+2.8/s
+
+Attributes
+
+200/180
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+11.5
+
+100
+
+10
+
+40
+
+50/40
+
+12.8%
+
+RCV
+
+12.3
+
+70
+
+10
+
+10
+
+50/30
+
+24.5%
+
+END
+
+12
+
+50
+
+10
+
+0
+
+40/20
+
+40.0%
+
+VGR
+
+29.5
+
+70
+
+10
+
+0
+
+60/40
+
+59.0%
+
+FCS
+
+10
+
+10
+
+10
+
+0
+
+0/193
+
+100.0%
+
+CLR
+
+200
+
+200
+
+200
+
+0
+
+0/179
+
+100.0%
+
+PER
+
+8.4
+
+20
+
+10
+
+10
+
+0/0
+
+42.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/1
+
+94.0%
+
+Resistances
+
+1940/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1545.0
+
+0%
+
+COLD
+
+545.0
+
+0%
+
+LIGHT
+
+5.0
+
+0%
+
+DARK
+
+5.0
+
+0%
+
+FORCE
+
+635.0
+
+0%
+
+ARCANE
+
+45.0
+
+0%
+
+CHEMICAL
+
+495.0
+
+0%
+
+MENTAL
+
+5.0
+
+0%
+
+There, that should do. I won’t regenerate much stamina before third bell, but it’s something. My mana cap is low, too, but that’s fine. If something comes, all I need to do is wake the others up. I could probably fight whatever it was off, but I’d wake them anyway in the process, so there’s no sense worrying about it.
+
+Smiling, he closed his interface, then scanned the darkness again. All remained still and silent. His senses flickered out for a second as Detection pulsed. It, too, found no danger within a hundred meters, and he sighed as his hearing returned.
+
+And now I have nothing to do.
+
+“Come on!” Ameliah yelled, dragging Rain after her by the wrist as she sprinted down the tunnel.
+
+“Slow down!” Rain yelled back.
+
+Ameliah shook her head. She couldn’t slow down, or HE would catch them. The clicking sound of many legs on stone grew louder as their pursuer closed the distance. There was a sharp corner ahead, but she didn’t slow down. Rain screamed in terror as she activated Redirection. There was a shriek of twisting metal, and then she felt Rain’s weight behind her suddenly vanish. In growing horror, she looked down at the arm still held in her hand, then over her shoulder to see Rain crashing into the tunnel wall. Her skill had been disrupted by his armor, and she’d…
+
+Rain gasped as he rebounded from the wall, leaving a bloody smear. His helmet tumbled away as if in slow motion, and he turned to look at her, pain and betrayal in his eyes.
+
+“Rain!” Ameliah screamed, scrambling to reverse her direction, but she found no traction on the stones. Something had gone wrong with her spell. The tunnel was now a shaft, and she could feel the relentless hand of gravity pulling her down.
+
+She was falling.
+
+She clutched Rain’s severed arm to her chest, then used Redirection again. As before, the armor twisted her magic. The spell, instead of sending her back toward him, redoubled the speed of her fall. “No!”
+
+Redirection! Redirection!
+
+With each use, her speed only increased, the walls of the shaft becoming a blur. Purple light blossomed in the darkness below, and she looked down to see a mesh of Arcane magic, like vines of pure energy, stretching from wall to wall. The strands wrapped themselves around her body as she plummeted through them, cocooning her before she crashed into the bottom of the shaft with a heavy thump that blasted the air from her lungs. The clicking sound returned, the gigantic spider mount of her pursuer closing in on her as it ran down the wall. She struggled to rise, but couldn’t. Her arms were pinned to her sides by the webbing, and she could still feel the multiplied gravity trying to crush her into the stones.
+
+“No!” she gasped in terror as a large hairy leg entered her vision. There was a thump as the rider dismounted, his dark leather boots landing right in front of her.
+
+“Nice try,” Anton said, kneeling to grin at her with blood running down his chin. He picked up Rain’s arm from where it had fallen next to her, then bit off a pair of the fingers. His sharpened teeth tore through the metal gauntlet like it was paper. “Leaving him behind as a distraction was a good idea, but I’m so very hungry. You shouldn’t have brought this part with you.” He took another big bite, devouring the rest of Rain’s hand. “I just had to come and get the rest of my meal.” He licked his bloody lips in satisfaction. “Mmm. He was made of such tender meat. I wonder, will you be just as soft, or will you be tough and stringy? I guess I’ll find out.”
+
+Ameliah screamed, closing her eyes and curling in on herself as she felt the bands of magic squeezing her tighter and tighter. No! It’s a dream! Just a dream!
+
+The pressure broke, and she gasped as her eyes shot open. She catapulted herself into a sitting position, her eyes searching the tunnel frantically as her heart pounded in her chest.
+
+“Hey,” Rain said urgently, wrapping his arms around her. He wasn’t wearing his armor, and his body felt warm and comforting. “It’s okay. I’m here. You were just having a nightmare.”
+
+Ameliah sobbed wordlessly, hugging back with all of her strength. There was a sound like snapping wood along with the wet squelch of something warm and hot as it slapped against the side of her neck. She stared at Rain’s heart in horror as it tumbled to the stones, pulped after being forced up and out through his mouth.
+
+She wailed in horror, her eyes opening for real as she thrashed against the entanglement of her blanket. Moments later, she felt her hand crash into something hard with considerable force.
+
+“Oof,” Rain said, falling on his butt with a metallic clank. He shook his head, then pushed himself back up and reached out to her.
+
+Ameliah scrambled away from his hand, getting to her feet. She felt her back press against the tunnel wall, and she froze, her heart hammering in her chest. “Stay back,” she hissed, fighting for breath. “Don’t touch me.”
+
+“Woah,” Rain said, raising his hands, aborting his attempt to follow her. “Shh. It’s okay. You’re awake.” He slipped off his helmet, then set it on the ground carefully before getting to his feet.
+
+Ameliah looked around, spotting Tallheart lying on the stones beneath his own blanket with his eyes closed. Rain approached cautiously, and she didn’t stop him as he brushed her hair away from her face. She locked up once more as he wrapped her in a hug.
+
+“Hey, everything’s fine,” he said, pressing his head against her neck. He pulled back after a moment when she didn’t respond, holding her by the shoulders as he peered into her eyes. “Are you okay?”
+
+Ameliah nodded, slowly beginning to relax. “It was just a dream.” She sighed, then wrapped her arms around his armored back, not squeezing with any real force. She knew how to control her strength. She would never hurt him like that. Never. She clenched her jaw, realizing that she was trembling. It was just a dream.
+
+“Do you want to talk about it?” Rain asked softly as he returned her embrace.
+
+Ameliah would have sighed, but she couldn’t. The force of his hug was crushing, and obviously not because he intended it to be. Ameliah didn’t mind—if anything, she found the pressure soothing, like a heavy blanket—but she had been meaning to talk to him about this for a while. If it meant discussing her own fears, so be it. She inhaled sharply, overpowering his hold on her lungs.
+
+“Rain,” she said with her hard-won air. “You’re crushing me.”
+
+“Shit, sorry!” Rain recoiled as if burned. “I—”
+
+“Shh,” Ameliah hissed. “You’ll wake Tallheart.”
+
+“Mmm,” Tallheart rumbled in agreement from his position on the floor, not opening his eyes, though he was clearly awake. Both of them looked at him and smiled, Ameliah feeling a small measure of her tension drain away.
+
+“Come here,” she said, letting herself sink down the wall. Rain joined her, listening with growing horror on his face as she described her dream in gory detail. Most of it had already faded from her mind, but she remembered enough to paint a vivid picture.
+
+“I…Ameliah. That’s horrible,” Rain said when she was finished. He moved to touch her, then flinched back as if afraid. She had no words to describe how much that small motion hurt her.
+
+Rain didn’t miss her reaction. “Hey, no,” he said quickly, reaching around her shoulder and pulling her close. “I’m not afraid of you. I could never be afraid of you. Now that you’ve got me thinking about it, I’m afraid of myself. I’ve got the ring at max, and my control isn’t anywhere as good as yours.” He shook his head. “I don’t want to hurt you.”
+
+“Mmm,” Tallheart rumbled deeply, sitting up at last. “It is a fear that all awakened must deal with, particularly those who have invested in Strength. Neither of you can truly understand. Not as I do.”
+
+“Yeah,” Rain said, an ashen cast over his features.
+
+Ameliah nodded as Rain released her. Tallheart is so far beyond us there, we might as well be made of reeds. She looked down at her hands. “You need to be careful. Always.”
+
+“Right,” Rain said, making her look up. “World of thick paper.”
+
+“Hmm?” Tallheart asked, tilting his head.
+
+Rain glanced at him. “It’s a reference to a famous scene in a show from my world. A superhero is talking about how fragile everything is and how he always has to be ridiculously careful so he doesn’t hurt someone.”
+
+“A superhero,” Ameliah said, forcing a smile onto her face. “Like Florida Man?”
+

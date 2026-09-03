@@ -1,0 +1,160 @@
+“Holy shit.”
+
+Heat seeped into Rain’s helmet through the eye slit as he stood with his jaw hanging open. He raised the visor, then crinkled his nose as the sickly-sweet air rolled over his face. It had an acidic twang to it, along with a healthy dose of char, but that was nothing compared to what he was seeing. In contrast to all of the tunnels so far, which had been fairly nondescript, what he was seeing now was simply impossible.
+
+The party’s little break at the bottom of the cliff hadn’t lasted long, not even long enough to get to the first song in the Hobbit. While Rain’s narration had been well-received, both Ameliah and Tallheart had been anxious to move on.
+
+In the hours since then, they’d explored the two caves near where they’d climbed down. One of them was a dead end, while the other led upward—obviously not what they were looking for. They’d followed it for a while anyway, just to make sure it didn’t head down again. In the process, they’d run into plenty of monsters, none of which had presented them with any significant difficulty.
+
+Ameliah had lightened up considerably, allowing Rain to fight beside her and Tallheart as they went. Rain wanted to think that his storytelling had had something to do with her change of heart, but he suspected the real reason was that she was starting to feel soulstrain and wanted to save her strength. He’d been periodically refilling her mana with Essence Well since they’d cleared the first chasm that morning, and for all that she’d been limiting herself to just Firebolt and Combustion, the strain was beginning to show. She wouldn’t admit it, of course, but Rain could tell.
+
+Eventually, when it became clear that the cave wasn’t going to go anywhere but up, they’d turned around and backtracked. After returning to the third chasm, they’d explored along its length, finding three more dead-end caves before encountering a promising passage with a steep slope. It was a tight squeeze in a few spots, but Tallheart had become convinced it was the right path after noticing the air getting warmer as they followed it ever downward.
+
+Eventually, Rain had sensed open space ahead of them, so they’d dropped their packs and went to check it out, leaving the torch behind. Open space usually meant a fight, the only greater clue being strategic chest-high walls.
+
+It hadn’t been long before they’d noticed a reddish light creeping into the passage. Detection had then informed Rain of an unknown monster waiting for them, and he’d activated his combat macros in response. The party had slowed to a cautious crawl for the last few meters, and that had brought them to be here.
+
+Looking at this.
+
+“Holy shit.”
+
+“You have already said that,” Tallheart rumbled, standing beside Rain with his arms crossed unconcernedly.
+
+“But, holy shit!” Rain protested, pointing emphatically.
+
+“I agree with Rain,” Ameliah said, peeking her head out of the tunnel’s mouth, then looking up. “Holy shit.”
+
+“Hmph.” Tallheart snorted. He walked forward a few steps into the cavern, then paused, looking back. “I told you it would be like this. It is not my fault you did not believe me.”
+
+Rain shook his head, still staring as he moved to join him. The cavern was enormous—so enormous that there was no way the ceiling should have been able to hold itself up, and yet, it did. That wasn’t what had made Rain.exe crash. It was everything else that was doing that.
+
+Except for a small clearing near where the tunnel came out, the cave was full of gigantic trees—not quite redwood size, but close. They had deeply craggy bark like hardened lava, with slate-gray leaves that formed a dense canopy. The floor was dirt, not stone, sparsely carpeted with dark vegetation that became an impassable-looking tangle at the clearing’s edge.
+
+The walls and the part of the ceiling that Rain could see blazed with light. The stone was covered with ropes of a crimson substance that was almost too brilliant to look at directly. It wasn’t lava—the color was too deep a red. If anything, it seemed alive. Organic. The stuff, whatever it was, was pulsating with a slow, fiery heartbeat. Waves of light traveled along the network, starting from the ground and climbing up the walls, splitting and joining endlessly in a complex, irregular web.
+
+As if what he was seeing wasn’t shocking enough, the Ashen Jungle—as Rain decided to call the biome in that moment—was also alive with sound. He could hear the chirping of birds, the croaking of frogs, and a deep, underlying hum that must have been insects. As he continued gawping, there was a rustling sound, then a crunch as something large moved within the trees.
+
+“Holy shit,” Rain said for the fourth time.
+
+He used Detection, scanning for monsters. The same signal he’d felt before was still there, though not in the direction from which the noise had come. There was another signal as well, further away off to the left. It, too, couldn’t have been the source.
+
+Rain pinged again, for animals this time, then stumbled.
+
+“Are you okay?” Ameliah asked, quickly steadying him. Her words came through as a sequence of numbers of various colors and hues. “What did you sense? Did we stumble into a lair when I wasn’t paying attention?”
+
+“No,” Tallheart said as Rain struggled to recover from the crippling synesthesia. “It is a Heat biome. From the smell, perhaps Chemical as well. Hmm. It is unusually robust.”
+
+“You don’t say,” Rain said thickly, managing to regain his equilibrium. “I’m fine. Detection was just…overwhelming. I shouldn’t have used full power. There are animals everywhere. I don’t—” He shook his head.
+
+His armor was starting to feel cold, the Thermal Regulation enchantment fighting back against the heat. Beads of sweat had broken out across his unprotected forehead. His resistances only prevented damage; they didn’t make things feel comfortable.
+
+Ameliah frowned, releasing Rain now that it was clear he wasn’t going to keel over. “I was expecting burning mushrooms or something. Maybe some moss. Not…this.” She gestured vaguely.
+
+“Mmm,” Tallheart said, pointing at the glowing webbing. “Your moss is there. Common Fire Moss. It mirrors the sun during the day and will darken at night.”
+
+“Hold up,” Rain said, raising a hand. “How does it know what time it is without the sun?”
+
+Tallheart looked at him. “How do you?”
+
+Rain glanced at the clock hovering in the corner of his eye as a part of his HUD. Point.
+
+“How are we going to get through?” Ameliah asked.
+
+Rain shook his head, at a loss. How is something like this even possible? Fire monsters, sure, but animals? And the trees…do they photosynthesize using the light from the moss? No, that just moves the problem. Where is the moss getting its energy from? From the ground, clearly, but enough to glow like that? How did it even get here? Does it just grow spontaneously like that toxic shit in Fel Sadanis? I suppose it must, but then, does that mean the animals spawned like mon—
+
+“Rain!” Ameliah shouted.
+
+“Huh?” Rain said dumbly, tearing his eyes away from the moss to look at her.
+
+“I asked what rank it is,” Ameliah said.
+
+“Oh,” Rain said, wincing. Oops. I got fascinated. Must have failed a save. He raised his shield, checking the depth gauge which he’d strapped to its back along with a few other items he wanted close at hand. “Rank fifteen.”
+
+“Hmm,” Ameliah said to herself. “I should probably change my build. I could power through, but that wouldn’t be efficient. Changing skills is such a pain, though. I need to think about—Look out!“
+
+Rain gasped, having seen the same thing—an orange flash, deep within the trees. A hissing sizzle reached Rain’s ears as an enormous ropey spray of lava blasted through the foliage, coming straight for them.
+
+Reflexively, Rain turned, raising his shield. The lava slammed into him with enough force to push him back, though he kept his footing. The heat was more intense than anything he had ever experienced, but he felt no pain thanks to his resistance. Moments later, he realized that the lava was evaporating into orange light.
+
+It’s a spell! My armor is absorbing the mana! His eyes flicked to his HUD, seeing that his shield’s saturation had jumped by over three thousand points. Oh shit! Ameliah!
+
+Rain turned his head, seeing her with her arms crossed in front of her face. Her clothes were burning, ignited by the molten rock that covered her. Before Rain could even think to activate Refrigerate, Ameliah uncrossed her arms, pointing one of them in the direction of the attack.
+
+“Haa!”
+
+A ball of fire expanded in front of Ameliah’s outstretched palm, growing to the size of a basketball and looking like nothing more than a miniature sun wreathed in flame. With barely any delay, it flew toward the tree line, leaving a trail of fire through the air in its wake. The missile struck one of the trunks, then exploded.
+
+The force of the detonation rattled Rain’s teeth, light shining around his shield as his shadow was cast long into the tunnel behind them.
+
+Ameliah wasn’t done. A second orb followed the first, only a second later, detonating like the first with deafening force.
+
+Refrigerate!
+
+Rain’s mind finally clicked into gear. The lava coating Ameliah had already begun to harden and flake away, revealing less damage to her clothing than Rain had expected. Refrigerate hastened the process, and within a second, Ameliah was free of it, singed, but seemingly unhurt.
+
+“There you are,” she said, stepping forward. “Let’s see if you can resist this.”
+
+Rain dropped Refrigerate, staring at her as three fiery spheres appeared, orbiting her wrist like planets of fire.
+
+Triplicate Casting?
+
+The orbs didn’t launch immediately upon reaching basketball size; instead, they kept growing, the flames raging ever brighter with unstable energy. Then, Ameliah began to chant. Orange light flickered in her eyes, not all of it reflected from the spell at her fingertips.
+
+“Tryrim mi-gon, fyr ji-hen! Tryrim mi-gon, fyr ji-hen! Tryrim mi-gon, fyr ji-hen!”
+
+Rain dropped to a knee, cowering behind his shield like it was the wooden desk meant to protect him from an atomic blast. Triplicate Casting, Overcharge, AND Chanting!? Oh, shit!
+
+Fireball—for that was obviously what the base spell was, though he’d never seen one before—did one part Force damage for every three parts Heat. It wasn’t just a scaled-up Firebolt; it was the magical version of a rocket-propelled grenade. With all of Ameliah’s metamagic, it would actually be more like a cruise missile—and she had just launched three of them.
+
+The blast, when it came a heartbeat later, was beyond devastating. Too late, Rain realized that he’d forgotten to lower his visor. He couldn’t see the impact from behind his shield, but the wind alone was almost enough to flatten him. Had he been standing, he would have been knocked off his feet.
+
+Your party has defeated [Mottled Magma Frog], Level 17
+
+Your Contribution: 5%
+
+0 Experience Earned
+
+There was a crash of a falling tree and the patter of falling dirt, then silence, save for the ringing in Rain’s ears.
+
+He looked up at Ameliah wordlessly, still hiding behind his shield.
+
+“Are you okay?” she asked, frowning at him.
+
+Rain nodded numbly, lowering his shield and letting himself sprawl into a sitting position.
+
+“Tallheart?” Ameliah asked, looking over Rain’s head.
+
+“Hmph,” Tallheart said dismissively. “I am undamaged.”
+
+“Right. Silly of me to ask.” Ameliah sighed, rubbing at her temples. She looked down at her burned clothing. “Tsk, I liked this shirt. I should have used Shrouded by Flame, not just Brace. I haven’t fully reacclimated to this build yet.”
+
+Rain almost missed her words, having been distracted by the blast site. It really did look like there’d been an airstrike. There was a crater and everything. The undergrowth had been uprooted and blasted away, though amazingly, it wasn’t all on fire. Some of it was smoldering, but the flames quickly died away as he watched. Only one of the enormous trees had fallen.
+
+As extreme as the damage was, Rain had honestly been expecting much worse based on the force he’d experienced.
+
+Is this the strength of the depths? I know some stuff is supposed to get stronger, but the plants too? If you can have deepstone, can you have deepwood? Deepdirt?
+
+“Close your mouth,” Ameliah said. “You look like a fish.”
+
+Rain closed his mouth.
+
+Ameliah sighed, then surprised Rain by using his shoulder for support as she lowered herself to sit next to him. She nodded toward the crater. “Why are you so shocked? I mean, sure, Fire Mage is showy, but you said you did the math.”
+
+“I did, but…” Rain shook his head.
+
+Ameliah was level 31, and as a Jack derivative, that meant she had 63 Focus. She was also using all five accolades of the Blackfoot Trench, which gave her a combined +10 to all stats. That worked better for her than pure Focus accolades would have, as the 2.6x multiplier from her legendary class only counted for attributes that were evenly matched. With it applied, her stat totals at the moment were 189.8 across the board.
+
+Fireball was a tier-two AOE spell with an average base damage of 25, increasing to 250 at rank ten. It had 0.75% Focus scaling, which brought the base damage of the spell up to 605.9. Three quarters of that was Heat damage, the rest being Force.
+
+The Heat portion was doubled by Heat Mastery, taking the damage to 1,060.3. Then, Fire Affinity doubled that number, multiplying both damage types. Because of reasons.
+
+Fire Synergy affected both types, too, and it was similar to Aura Synergy in how it worked. Ameliah had 6 Fire-keyword spells in her build right now, all rank 10, so it was another 1.6x. Now, a single Fireball would deal 3,392.9 damage.
+
+Overcharge tripled that, then Triplicate Casting tripled that, and then Chanting tripled THAT, bringing the total damage up to 91,608.3—enough to one-shot Rain, even with his accolades and fancy armor, maybe even twice over.
+
+Rain shook his head, still staring at the crater. And that’s just Fireball, too. One of those six Fire skills she’s got? Yeah. Meteor. Tier 4. How in the name of this world’s dubious gods did she ever lose to the Crimson Swords? Her build aside, the damage limit must have screwed her over. She’d only have needed one good hit to—
+
+Ameliah nudged his shoulder with hers. “Rain, if you’re done staring into space, would you mind refilling my mana?”
+
+Rain blinked, looking at her. He hadn’t missed the strained note in her voice, so he shook his head. “That’s not a good idea.” Fireball isn’t cheap, and the mods add up. The mana cost for that strike wouldn’t have been too crazy, but...
+

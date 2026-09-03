@@ -1,0 +1,462 @@
+Progression Tracker [0.6.0]
+
+marker_1: welcometothejungle [21st Fallow]
+
+marker_2: tarzan [22nd Fallow]
+
+span: 16.2 hours
+
+Tolerance
+
+Strength: 40 -> 42 (+2)
+
+Recovery: 30 -> 32 (+2)
+
+Endurance: 20 -> 21 (+1)
+
+Vigor: 40 -> 43 (+3)
+
+Clarity: 179 -> 181 (+2)
+
+Synchronization
+
+Strength: 6.4 -> 9.1 (+2.7)
+
+Focus: 14.6 -> 16.4 (+1.8)
+
+Slots
+
+Accolade
+
+Bonus
+
+4 [2x2]
+
+The Ice Cavern
+
++40 Strength
+
+4 [1x4]
+
+The Halls of Corruption
+
++40 Focus
+
+3
+
+The Lair of Embers
+
++1,000 Heat Resistance
+
+3
+
+We Can’t Just Call It ‘The Lair’
+
++200 Force Resistance
+
+2
+
+Southshore Rat Warren
+
++1,000 Health
+
+2
+
+Greenfort
+
+50% stronger grip when climbing
+
+1
+
+The Solar Temple
+
++200 Stamina
+
+Total Known Skill Trees
+
+Tier 0: 144
+
+Tier 1: 144
+
+Tier 2: 144
+
+Tier 3: 139
+
+Tier 4: 0
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+12,749
+
+22,750
+
+1,674,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+3,201
+
+3,240
+
+420/d
+
+Stamina
+
+1,219
+
+1,220
+
+530/d
+
+Mana
+
+8,820
+
+8,820
+
+2.9/s
+
+Attributes
+
+200/180
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+16.7
+
+112
+
+10
+
+40
+
+62/42
+
+18.2%
+
+RCV
+
+20.6
+
+42
+
+10
+
+0
+
+32/32
+
+49.0%
+
+END
+
+12.4
+
+51
+
+10
+
+0
+
+41/21
+
+40.0%
+
+VGR
+
+31.3
+
+53
+
+10
+
+0
+
+43/43
+
+59.0%
+
+FCS
+
+23.6
+
+72
+
+10
+
+40
+
+22/193
+
+32.8%
+
+CLR
+
+200
+
+200
+
+200
+
+0
+
+0/181
+
+100.0%
+
+PER
+
+8.4
+
+10
+
+10
+
+0
+
+0/0
+
+84.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/1
+
+94.0%
+
+Resistances
+
+1940/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1545.1
+
+0%
+
+COLD
+
+545.1
+
+0%
+
+LIGHT
+
+5.1
+
+0%
+
+DARK
+
+5.1
+
+0%
+
+FORCE
+
+635.1
+
+0%
+
+ARCANE
+
+45.1
+
+0%
+
+CHEMICAL
+
+495.1
+
+0%
+
+MENTAL
+
+5.1
+
+0%
+
+Rain bounced from foot to foot, swinging his arms to loosen the stiffness that had built up in his muscles overnight. His armor’s enchantments seemed to be constricting him a bit more than usual. The feeling of pressure would fade as the day went on, he hoped, but if not, he was quite used to ignoring all manner of discomforts. He wasn’t going to let it bother him, even if it did make it a bit hard to breathe.
+
+It was presently 7:45 AM, and he, Ameliah, and Tallheart were standing in the clearing at the entrance to the Ashen Jungle. The fire moss was barely glowing, just enough for him to make out the spiderweb pattern in the darkness. Tallheart was setting up his tools next to the mountain of rock he’d excavated the day before, and Ameliah was resting nearby, looking only half awake. Her Lunar Orb floated over her shoulder, lighting the clearing.
+
+In fifteen minutes, they expected the fire moss to blaze back to life, heralding true dawn and the start of the day. By coming down before then, they’d been able to decimate the monster population, as the creatures had been more than willing to swarm out of the trees to their deaths. Refrigerate had been remarkably effective at taking care of the riffraff, and for everything else, there was Fireball.
+
+Both Rain and Ameliah were back at full mana already, but they had decided to keep Tallheart company until the day properly began. The smith wasn’t planning on joining them in their exploration until this afternoon, as digging out their camp had taken longer than he’d planned. He hadn’t had time to build the water filter, and they were starting to run low. Making it would be his first project of the day.
+
+Ameliah yawned adorably, and Rain smiled as he glanced at her. He considered going to sit next to her but discarded the idea. He was too full of nervous energy, despite only getting four hours of sleep. The reason for that was simple: it had worked. The Bastion stood. He’d checked first thing this morning, and though he’d found himself unable to move from where he’d welded his core, that was fine. It was a problem he could solve later. The key thing was that he hadn’t lost his progress. It had even survived his alarm.
+
+Based on Bartum’s description of the system’s daily essence-exchange, Rain had feared that the process would break something. His unplanned unconsciousness had robbed him of the opportunity to push it off, but apparently, he’d been worried for nothing. Either the Bastion had been strong enough to survive it, or the essence-exchange wasn’t nearly as traumatic as he thought.
+
+Emboldened by this fact, Rain had then tested one more potentially destructive event, namely a skill tree unlock. Again, the Bastion had held. As far as Rain could tell, the entire thing was as solid as a rock. He had gotten a foothold at last.
+
+Rain grinned, finished with his warmup. It was time for practice.
+
+Crouching, he prepared himself, making sure that the straps holding his shield to his back were secure. Once he was satisfied, he then jumped as hard as he could. Being unencumbered save for his equipment, his feet made it perhaps a meter off the ground. He frowned as he landed, his legs easily absorbing the impact.
+
+That’s not nearly good enough.
+
+He tried again, and then a few more times, his best jump reaching a meter and a quarter.
+
+No, not nearly good enough. Strength alone isn’t going to cut it.
+
+Having expected this result, he activated Velocity at 25% power, compressing the range to zero.
+
+Velocity (10/10)
+
+61.20% boost to speed for all entities
+
+Range: 0 meters
+
+Cost: 2.5 mp/s
+
+He started swinging his arms again, getting used to the feeling of speed. He hadn’t been using the skill on himself much recently and was out of practice. Carefully, he took a few steps, then began to pace. Faint curls of wind trailed after him, each of his movements more confident than the last. Within a minute, he was walking more or less normally. Satisfied with this, he jumped.
+
+With the aid of the spell, he was able to accelerate himself upward over one and a half times as quickly. The moment his feet left the ground, the magic could do nothing more for him, but the initial velocity he’d built up was enough for his feet to clear the former height of his head.
+
+Still with the spell active, Rain controlled his motions, landing with only a small stumble before he caught himself. Good.
+
+He began hopping about like a rabbit, fine-tuning his control with each attempt. Ameliah, he noticed in the middle of one particularly wild jump, was watching him with some amusement. His distraction proved his undoing, and his foot came down on a rock and his ankle twisted. Rain tumbled, wincing as he landed hard on his ass. When he got back up, he saw that Ameliah was looking away, pretending not to have seen, though the shaking of her shoulders betrayed her as she tried to suppress her laughter.
+
+Rain smiled, dusting himself off.
+
+Time for some real jumps. 100%, here we go.
+
+Velocity (10/10)
+
+244.80% boost to speed for all entities
+
+Range: 0 meters
+
+Cost: 10 mp/s
+
+Crouching down carefully, Rain abandoned caution and kicked off for all that he was worth. He felt a great pressure through the soles of his feet, then gasped in surprise at how quickly the ground fell away. Up and up he flew—fast at first, then slowing as gravity clawed him back down. As the hang time stretched, he began to tumble, and he flailed his arms, trying to control his orientation in preparation for landing. Despite his best efforts, he ended up hitting the ground in a magnificent belly-flop.
+
+Ameliah broke, her laughter sweet to his ears.
+
+He bent one of his legs at the knee, kicking up his foot, then spoke, his words muffled by the dirt filling his helmet. “Nailed it.”
+
+Didn’t hurt. Force Resistance is amazing.
+
+He left the spell on as he got back to his feet, though the mana cost was gradually adding up. The more he practiced, the faster he’d acclimate to the effect, as reflected by his Speed tolerance. That was still only one at present, meaning he could deal with a ten percent boost without difficulty. He was well past that, but it didn’t matter. He didn’t need perfect control; he needed height. By his estimate, that jump had been in the neighborhood of six or seven meters, enough to reach the lowest branches of the enormous trees.
+
+Let’s try that again, shall we?
+
+Rain crouched, readying himself to leap again, but was distracted by a flicker of light from the perimeter of the cavern. He let Velocity fade, Winter replacing it out of habit as he stared.
+
+Starting at the base of the wall, a pulse of crimson light had appeared as if coming up out of the earth. It traced its way up the network of moss like lightning in slow motion, leaving a glowing afterimage in its wake. A second pulse appeared when the first was only halfway up the wall, brighter this time. Pulse after pulse followed, each faster than the last, with the moss fading less in between. Soon, the entire clearing was awash in the light of what passed for day in the Ashen Jungle.
+
+“Wow,” Rain said, shading his eyes against the glare.
+
+Ameliah still had his perception accolade, and his eyes had grown wide to take in as much light as they could in the dim cavern. The change had been too sudden for them to adapt.
+
+“Mmm,” Tallheart said, looking up at the ceiling. “That was one of the most impressive dawns that I have seen in the depths. Ten out of ten. Much like your landing.”
+
+Rain snorted, dusting himself off with Purify. “Saw that, did you?” He smiled. “If you think that was something, can you imagine if I used all my mods? The boost would be almost seven thousand percent. That wasn’t even three hundred.” He tilted his head. “I kinda want to try it.”
+
+“You’d better not,” Ameliah said, getting to her feet. “I don’t want to have to scrape you off the ceiling.”
+
+“Ha,” Rain laughed, waving her away. “No, you’re right.” I mean, hot damn. Assuming a normal jump is like a couple g’s of acceleration, seventy times that is…yeah. Like a car crash or something. I’d lose some health, for sure, even with Force resistance.
+
+“You’re still thinking about it, aren’t you?” Ameliah asked.
+
+“Don’t worry,” Rain said, smiling. “I’m not gonna actually do it. Give me a little credit, will you? I’ll work my way up to it some other time. I prefer my legs unbroken.”
+
+He chuckled to himself. Magic is awesome. And a little scary.
+
+“Well, the sun is out, figuratively speaking,” Ameliah said, fighting off another yawn. She nodded to Tallheart. “You be careful on your own, okay?”
+
+“Mmm,” Tallheart rumbled. “I will be fine. We are not that deep yet, and I have work to do. Depending on what you find, this may be my last chance to enjoy solitude.” He looked at Rain, and the corner of his mouth twitched. “I find it easier to work when I do not have to answer thousands of questions.”
+
+“Hey,” Rain said, feigning affront. “I’ve been good about that.”
+
+Tallheart snorted. “Hmph. It will not last.” He rumbled to himself, clearly in a good mood. “Do not forget to check for metal. I doubt you will find natural adamant, but with enough iron, I can make it. That would change things.”
+
+“I won’t forget,” Rain said, smiling. “I’m a Dynamo. That’s my thing.”
+
+“He means don’t get distracted,” Ameliah said, slipping a coil of rope over her shoulder. Neither she nor Rain would be bringing their packs for this, obviously.
+
+“Yeah, yeah,” Rain said. “That’s my thing too, isn’t it? Don’t worry, Tallheart. If there are any good veins of ore out there, I’ll find them. I added it to my Detection sequence. It’s literally automatic.”
+
+“Good,” Tallheart said, turning back to his anvil. “Go on, then. And be careful.”
+
+Rain nodded. “Right, see you later.” He looked at Ameliah, then smiled. “Ready?”
+
+Ameliah nodded. “Ready.”
+
+The two of them left the smith to his work as they walked to the edge of the clearing. Upon reaching the trees, Rain looked up, spotting a thick branch about five meters off the ground, one of the lowest he could see. He walked over to it, planning his climb.
+
+The jungle was choked with foliage, making travel along the ground difficult, but there was a distinct lack of vines and other things higher up. The truly massive branches he’d noticed the day before didn’t begin until fifty meters or so, stretching from tree to tree like bridges between skyscrapers. Fortunately for their ascent, there were plenty of smaller branches on the younger trees, like the one Ameliah had managed to fell yesterday.
+
+Rain rubbed his hands together in anticipation. He looked back down, then triggered Detection manually, scanning for monsters ahead of the programmed sequence. His search came back negative, so he nodded to Ameliah. “All clear. We’re good to climb.”
+
+“Okay,” she said, rolling her shoulder, then looking up. “Be ready to catch me if I mess this up. Airwalk is tricky.” She looked back at him, seeming to consider. “Actually, no. Your armor makes you harder than the ground. Maybe just get out of the way.”
+
+“Hah,” Rain said.
+
+Ameliah smiled at him, then jumped. She cleared the branch she’d been aiming for effortlessly, not needing anything as fancy as Velocity to assist her. It was only five meters off the ground, after all. She used the branch like a stepping-stone, flinging herself toward a different tree, then kicked off its trunk to send herself higher still. Her new trajectory sent her into open space, which was clearly the plan. As she neared the top of her arc, she jumped off of nothing, like something straight out of a video game. Her double-jump sent her back in the opposite direction, becoming a triple-jump, then a quadruple-jump as she zigzagged her way through the air. Soon enough, she landed adroitly on one of the bridge-like branches, making the motion look casual.
+
+Rain snorted. Not good with Airwalk. Yeah, sure.
+
+Ameliah waved. “Okay, your turn,” she called. She put her hands on her hips. “This should be good!”
+
+Rain smiled, then jumped for the branch with Velocity. His aim was true, and he crashed into it at the peak of his jump, managing to get an arm around it before he fell. A pull-up was no trouble with his current status, and he managed to get a leg over the branch, then clamber atop it with only a small amount of flailing. He searched for his next target, then leaped again, angling for a branch five meters higher on a different tree, one that Ameliah had skipped right over. His aim wasn’t so good this time, and he overshot, his shins slamming into the branch and sending him tumbling head over heels.
+
+“Shit!” was all he had time to say before he landed—head first, naturally.
+
+“Nice!” Ameliah called down, laughing. “I’m ready with the rope whenever.”
+
+“Tch,” Rain said, struggling free of the unfortunate bush that had cushioned his fall. He rolled his shoulders, then turned Velocity up to 150%, planning to just go straight for the second branch. When he jumped this time, he got the height he needed, but his aim was off. He bounced off the tree’s trunk, then tumbled to the ground once more. Ameliah’s continuing laughter didn’t deter him, and he pushed himself back up, ready to try again.
+
+Okay. Come on, Rain. You can do this.
+

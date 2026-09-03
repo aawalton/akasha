@@ -1,0 +1,1074 @@
+Progression Tracker [0.6.0]
+
+marker_1: huh [23rd Fallow]
+
+marker_2: dawn_19 [24th Fallow]
+
+span: 13.9 hours
+
+General Experience Earned
+
+Stamina Use: 211
+
+Mana Use: 17,240
+
+Tolerance
+
+Strength: 47 -> 48 (+1)
+
+Recovery: 33 -> 35 (+2)
+
+Synchronization
+
+Vigor: 5.9 -> 6.2 (+0.3)
+
+Focus: 17.8 -> 18.6 (+0.8)
+
+Perception: 8.4 -> 8.5 (+0.1)
+
+Slots
+
+Accolade
+
+Bonus
+
+4 [2x2]
+
+The Icy Cellar
+
++1,000 Health
+
+4 [1x4]
+
+The Halls of Corruption
+
++40 Focus
+
+3
+
+The Lair of Embers
+
++1,000 Heat Resistance
+
+3
+
+We Can’t Just Call It ‘The Lair’
+
++200 Force Resistance
+
+2
+
+Southshore Rat Warren
+
++1,000 Health
+
+2
+
+Greenfort
+
+50% stronger grip when climbing
+
+1
+
+Everdeep Fortress
+
++10 Perception
+
+1
+
+Sharpton’s Delving
+
++200 S.Regen/day
+
+Total Known Skill Trees
+
+Tier 0: 144
+
+Tier 1: 144
+
+Tier 2: 144
+
+Tier 3: 143
+
+Tier 4: 0
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Dynamo
+
+19
+
+24
+
+10
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+18,218
+
+26,463
+
+1,743,051
+
+1
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+3,521
+
+3,560
+
+530/d
+
+Stamina
+
+871
+
+880
+
+970/d
+
+Mana
+
+7,500
+
+7,500
+
+2.9/s
+
+Attributes
+
+202/182
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+58
+
+78
+
+10
+
+0
+
+68/48
+
+100.0%
+
+RCV
+
+22.1
+
+53
+
+10
+
+0
+
+43/35
+
+49.0%
+
+END
+
+13.2
+
+34
+
+10
+
+0
+
+24/23
+
+40.0%
+
+VGR
+
+35.3
+
+77
+
+10
+
+0
+
+67/47
+
+62.0%
+
+FCS
+
+18.6
+
+50
+
+10
+
+40
+
+0/193
+
+37.2%
+
+CLR
+
+200
+
+200
+
+200
+
+0
+
+0/181
+
+100.0%
+
+PER
+
+8.5
+
+20
+
+10
+
+10
+
+0/0
+
+42.5%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/1
+
+94.0%
+
+Resistances
+
+1940/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1543.4
+
+0%
+
+COLD
+
+543.4
+
+0%
+
+LIGHT
+
+3.4
+
+0%
+
+DARK
+
+3.4
+
+0%
+
+FORCE
+
+633.4
+
+0%
+
+ARCANE
+
+43.4
+
+0%
+
+CHEMICAL
+
+493.4
+
+0%
+
+MENTAL
+
+3.4
+
+0%
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Mana Manipulation (10/10)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 2000.0 mp/s (fcs)
+
+Overcharge (0/10) (+)
+
+Delay cast of an immediate spell to charge it with mana
+
+Charge time reduced by mana manipulation
+
+Boost effect intensity by up to 120%
+
+Maximum mana charge 120%
+
+Requires 5 ranks in Intrinsic Focus
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to mana regen
+
+25.0% of Clarity contributes to mana
+
+Tier 3
+
+Mana Sight (0/10) (+)
+
+Passively perceive mana within the environment
+
+Resolution is 10% of that of mundane optical sight
+
+Activate to perceive mana within entities
+
+Active Cost: 10 mp/s
+
+Compatible with other sensory skills at 10% resolution while activated
+
+Requires 10 ranks in Mana Manipulation
+
+Elemental Refinement (0/10) (+)
+
+Shaping kata for elemental mana
+
+Hidden skill, revealed by meeting requirements
+
+Requires 10 ranks in Mana Manipulation
+
+Requires 10 ranks in Magical Synergy
+
+Tier 4
+
+Locked
+
+Utility Auras
+
+Tier 0
+
+Winter (10/10)
+
+Boost M.Regen by 180% for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/hr
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 18 meters
+
+Cost: 100 mp/min
+
+Spring (0/10) (+)
+
+Boost S.Regen by 18% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/hr
+
+Summer (0/10) (+)
+
+Boost H.Regen by 18% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/hr
+
+Tier 1
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 18 mp/s
+
+Efficiency: 20%
+
+Range: 18 meters
+
+Detection (10/10)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 2.07 mm
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Velocity (10/10)
+
+180.00% boost to speed for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Energy Well (0/10)
+
+Convert mana to stamina and transfer to all entities within range, including user
+
+Transfer Rate: 1.8 sp/s
+
+Efficiency: 20%
+
+Range: 1.8 meters
+
+Requires 5 ranks in Spring
+
+Life Well (0/10)
+
+Convert mana to health and transfer to all entities within range, including user
+
+Transfer Rate: 1.8 hp/s
+
+Efficiency: 20%
+
+Range: 1.8 meters
+
+Requires 5 ranks in Summer
+
+Tier 2
+
+Acuity (0/10) (+)
+
+18.00% boost to physical senses for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Detection
+
+Requires 10 ranks in Essence Well
+
+Precision (0/10)
+
+18.00% boost to physical precision for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Velocity
+
+Requires 10 ranks in Energy Well
+
+Tier 3
+
+Empire of Will (0/10) (+)
+
+Boost Focus by 18 for all entities
+
+Range: 1.8 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Essence Well
+
+Empire of Brawn (0/10)
+
+Boost Strength by 18 for all entities
+
+Range: 1.8 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Life Well
+
+Empire of Grit (0/10)
+
+Boost Endurance by 18 for all entities
+
+Range: 1.8 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Energy Well
+
+Tier 4
+
+Locked
+
+Defensive Auras
+
+Tier 0
+
+Heat Ward (0/10) (+)
+
+Increase heat resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Cold Ward (0/10) (+)
+
+Increase cold resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 1
+
+Mental Ward (0/10) (+)
+
+Increase mental resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Dark Ward (0/10) (+)
+
+Increase dark resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Light Ward (0/10) (+)
+
+Increase light resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (0/10) (+)
+
+Increase chemical resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Arcane Ward (0/10) (+)
+
+Increase arcane resistance by 5.4% for all entities
+
+Range: 1.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (10/10)
+
+Increase physical resistance by 54% for all entities
+
+Range: 18 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Suppression (0/10)
+
+Increase mana costs for all entities by 22.5 mp (fcs)
+
+Range: 1.8 meters
+
+Cost: 1 mp/s
+
+Requires at least 1 rank in an aura of each element
+
+Tier 4
+
+Locked
+
+Offensive Auras
+
+Tier 0
+
+Refrigerate (10/10)
+
+157.50-180.00 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Immolate (10/10)
+
+157.50-180.00 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Tier 1
+
+Radiance (0/10) (+)
+
+15.75-18.00 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Immolate
+
+Shear (0/10) (+)
+
+15.75-18.00 force (fcs) damage per second to entities and environment
+
+Not occluded by mundane materials
+
+Range: 1.8 meters
+
+Cost: 10 mp/s
+
+Requires 15 ranks in Offensive Auras
+
+Shroud (0/10) (+)
+
+15.75-18.00 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Refrigerate
+
+Tier 2
+
+Corrosion (0/10)
+
+15.75-18.00 chemical (fcs) damage per second to entities and environment
+
+Sufficient damage disrupts health regeneration
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Shroud
+
+Requires 10 ranks in Refrigerate
+
+Fulmination (0/10)
+
+15.75-18.00 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Radiance
+
+Requires 10 ranks in Immolate
+
+Tier 3
+
+Discombobulate (0/10)
+
+15.75-18.00 mental (fcs) damage per second to entities
+
+Not occluded by mundane materials
+
+Sufficient damage causes hallucinations
+
+Damage applies to mana instead of health
+
+Range: 1.8 meters
+
+Cost: 5 mp/s
+
+Requires 50 ranks in Offensive Auras
+
+Tier 4
+
+Locked
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (10/10)
+
+Increase all aura output by 1.0% for each rank in any aura
+
+Effective boost: 80.0%
+
+Tier 2
+
+Aura IFF (10/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Prismatic Intent (0/10)
+
+User may maintain 2 auras simultaneously
+
+Requires 10 ranks in Aura Synergy
+
+Requires 1 rank in 15 different auras
+
+Tier 3
+
+Aura Compression (10/10)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 2.0% per meter of compression
+
+Ethereal Aura (0/10) (+)
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 5% resistance to environmental occlusion and absorption
+
+Environment receives 90% aura output
+
+Hidden skill, revealed by meeting requirements
+
+Requires 10 ranks in Mana Manipulation
+
+Requires 10 ranks in Aura IFF
+
+Tier 4
+
+Locked
+
+Rain sat, silent and motionless, staring up at a ceiling of blue panels that only he could see. It was before dawn. Ameliah was asleep beside him, breathing softly, and Tallheart was on watch. Dozer was still sleeping as well, a comfortable ball of contentment in the back of his mind. Rain had set his alarm for an hour before they’d agreed to start the day, as he’d only promised Ameliah that he wouldn’t stay up late. He’d said nothing about waking up early.
+
+He needed the time to review his status properly.
+
+Rain had been taking it easy, merely almost leveling again after a few hours of uneventful walking and a night’s sleep, though technically, some of the experience had come from before he’d raised his cap. Unlike combat experience, experience earned from mana use waited, floating in limbo until it was applied. It was another of those little quirks of the system that irked him to no end and was a major point against the experience-is-essence theory.
+
+Though it sounded a bit crazy, Rain didn’t actually want to level up quickly. He needed to explore his soul first. He had never even seen his paling, let alone the damage to it. Earning too much experience at once was what had broken it before, and if he pushed, he’d likely tear it open again—assuming it had even been fixed, of course. He didn’t know.
+
+No matter how much better he felt physically, doubts still filled his mind. One fact in particular tore at him, like a thorn lodged in his brain. If fixing a paling was as easy as killing a blue, Bartum would have known, and he wouldn’t have kept it a secret.
+
+Helping a non-member raise their cap was against the fundamental philosophy of the Watch, Rain got that, but he was a Custodian. That changed things. If Bartum had been aware that a cap-up would help, he would have said so. The man was trustworthy. He’d even gone to the Watch higher-ups on Rain’s behalf to ask for the knowledge, and it was only after he’d come back that he’d become close-lipped and apologetic. Forbidden to say more. Forbidden.
+
+‘Just kill a blue’ isn’t some vast secret. There has to be something more to it, but I’m not about to subject myself to a full mental scan to find out. I’ve got secrets of my own to protect. Dangerous ones. The Warden is scary enough without her knowing about nukes too.
+
+Rain grimaced, then shook his head. Soul knowledge wasn’t that, he was sure. The Watch’s restrictions on the subject weren’t about protecting the world; they were about staying in control. While it was true that their organization did have the stated goal of standing up for the powerless, they also worked to keep them that way.
+
+The Bank, the Guild, the nobility… They’re all the same. The people in power refuse to share it. It’s infuriating. If I want to upset the status quo, I need to understand souls, and if nobody is going to tell me, I’ll figure it out myself, damn it. I’m not going to be stupid about it, though. When I break my paling again, it’s going to be on purpose, with my eyes open.
+
+Realizing that he’d been staring at his status without seeing it for several minutes, Rain forced himself to relax. He clicked his tongue, then waved the panels away, along with his foolish tadpole dreams.
+
+How about I get to silver first, huh?
+
+Opening a pair of new windows. Rain turned his attention to the more immediate future. He’d be picking a skill later today, the one piece of advancement he was allowing himself. He needed to make sure he didn’t screw it up.
+
+buildnotes_v17.odt
+
+B
+
+U
+
+I
+
+Color
+
+*
+
+Key Assumption
+
+No extra skill points are available by any means
+
+Priority 1: Legendary Dynamo
+
+Reasoning
+
+Duh
+
+Requirements
+
+Pure Clarity – Not a Problem
+
+5 trees with 5 skills at 10
+
+Defensive Auras (DA): 1/5
+
+Offensive Auras (OA): 2/5
+
+Magical Utility (MU): 5/5
+
+Utility Auras (UA): 5/5
+
+Aura Metamagic (AM): 6/5
+
+Bottom Line
+
+Only DA and OA before 26
+
+4 DA
+
+3 OA
+
+All other skills removed from consideration
+
+Priority 2: Prismatic Intent
+
+Reasoning
+
+Constant Winter
+
+Multi-spectral shields
+
+Perpetual Detection
+
+etc.
+
+Requirement
+
+15 unique auras
+
+Will be met if #1 is met
+
+Bottom Line
+
+Take Prismatic Intent at 26
+
+Priority 3: Ethereal Aura
+
+Reasoning
+
+Eliminate mageburn for self and for others
+
+Allow use of combat auras in populated areas
+
+With care! Burning monsters can still light houses on fire!
+
+Requirement
+
+10 Mana Manipulation
+
+Met
+
+10 Aura IFF
+
+Met
+
+Bottom Line
+
+Take Ethereal Aura at 27
+
+Priority 4: Spring
+
+Reasoning
+
+Mass stamina regeneration
+
+Needed for evac of Vestvall to Three Cliffs
+
+We have old people, animals, kids, etc. to think about
+
+Massive benefits for training and party sustain
+
+Requirement
+
+None
+
+Bottom Line
+
+Take Spring after Ethereal Aura
+
+Ameliah offered to take it if I can’t for some reason
+
+Wouldn’t be as strong...
+
+...unless she goes full auras, but then we lose whatever else she could be doing, and I’m not sure how well she’d do with the level of mana required
+
+Priority 5: Unknown Tier-4
+
+Reasoning
+
+Tier 4 is available at level 29 for Rare/Legendary classes
+
+Requirements
+
+100,000 exp to unlock
+
+Unknown skill prerequisites
+
+Bottom Line
+
+Prioritize higher-tier skills within reason
+
+More likely to be tier-4 prerequisites
+
+Priority 6: Summer
+
+Reasoning
+
+Mass passive heal
+
+Unlock Fall
+
+Requirement
+
+None
+
+Bottom Line
+
+Take Summer after Spring
+
+Priority 7: Fall
+
+Reasoning
+
+Reduces/eliminates need for food/water for entities
+
+What about vitamins and minerals?
+
+What about plants and microbes and stuff?
+
+Exact effects unknown
+
+Vital for evacuation to Three Cliffs
+
+We are surviving here because there are monsters to eat
+
+There won’t be monsters on the way
+
+Reduced need of supplies for the company thereafter
+
+Decent chance of unlocking a hidden Imperial Aura
+
+Requirement
+
+10 (presumed) Winter
+

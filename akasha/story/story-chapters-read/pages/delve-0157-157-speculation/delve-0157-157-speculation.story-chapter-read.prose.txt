@@ -1,0 +1,552 @@
+“This sucks,” Rain said tiredly, sweeping at the glittery dirt with his makeshift broom. Dawn had broken fifteen minutes ago. It had been a long, long night. At the moment, he was regretting his suggestion to clean up before going to bed.
+
+“You’re the one that told me to dump Attract,” Ameliah said, standing beside him, sweeping vigorously with a broom of her own. “I could have done all this with a snap of my fingers, but no.”
+
+“Oh, shove off,” Rain said. “It was just as much your idea as it was mine. I didn’t force you to do anything. You could always retake it if you—”
+
+He stopped. There was a low, grating rumble that, tired as he was, it took him a moment to realize was laughter.
+
+“Only humans could complain while sweeping wealth from the ground,” Tallheart said.
+
+“Maybe we wouldn’t be complaining if you were helping,” Ameliah said, puffing a strand of hair out of her face, then leaning on her broom and glaring at him.
+
+Rain nodded, still sweeping. “Yeah, come on, Tallheart. Don’t just stand there. Grab yourself a tree branch.”
+
+“Hmph,” Tallheart said, crossing his arms. “I will make you a sieve. That will be a better use of my skills.”
+
+“Seriously?!” Rain said, stopping. He straightened himself up and pressed a hand to his back in an attempt to relieve a growing kink, then fixed his gaze on the stone-faced smith. “I’ve seen the way you work with wire. Making a sieve will take you all of five minutes.” He grasped his broom again and gave a few demonstratives sweeps. “This is going to take hours.”
+
+“Mmm,” Tallheart said, turning toward his anvil and walking away. “Perhaps you should stop wasting time then.”
+
+un_soul.odt
+
+B
+
+U
+
+I
+
+Color
+
+*
+
+Uncommon Knowledge: The Soul
+
+Warnings
+
+Infohazard
+
+The powers-that-be restrict some aspects of this knowledge
+
+Citation Needed
+
+Contains unverified information
+
+Marked where possible, but this should not be taken as a guarantee
+
+Hard Hat Area
+
+Document is a work in progress
+
+Contains incomplete information or other errors
+
+Capitalization, spelling, and punctuation are not guaranteed
+
+To Do
+
+#todo Link functionality is not implemented yet
+
+Come back and update/fix.
+
+#todo Prove some of this stuff and revise this entire file
+
+See if you can suss out which aspects aren’t restricted, then make a Common Knowledge version for distribution
+
+#todo Think about mind-reader countermeasures
+
+If they can read this, they’ve already cracked English, which means I really don’t need to be careful about what I write in my notes. They’d already know my intent anyway if they can dig in that deeply. If not, can I create defenses of some sort? What is the relationship between the mind and the soul? Damn it, create Uncommon Knowledge: The Mind and link. Also, if you are a mind reader and are reading this right now, could you kindly not?
+
+#todo General Cleanup
+
+See green text in particular
+
+Entity
+
+According to the local definition, an entity is anything with a soul
+
+Sapient entities, such as humans, cervidians, and other rumored/unconfirmed races (see Common Knowledge: Hogwash), have ‘full souls.’
+
+Full souls allow awakening.
+
+Larger, non-sapient entities (animals, animate plants, etc.) have ‘animal souls’ or ‘half souls’
+
+They cannot be awakened
+
+Smaller animals do not count as entities
+
+The line seems to be around the size of a mouse, but there is some blur
+
+See Misc Experiments
+
+Insects and the like aren’t even considered to be ‘alive’ by most people
+
+Monsters have ‘monstrous souls’ or ‘demonic souls’.
+
+It is generally accepted that monsters can neither level nor reproduce
+
+There are rumors to the contrary in both cases
+
+See Common Knowledge: Hogwash
+
+The level of tamed monsters can be increased
+
+See Train Monster
+
+Unclear if their souls are modified to allow this
+
+For swarm monsters, one soul is shared by all physical bodies
+
+Bodies must stay within the domain of the swarm’s soul
+
+Bizarre thought: Humans might be swarms as well!
+
+Symbiotic gut bacteria might count…
+
+#todo Test this...somehow. Or don’t. Priorities.
+
+Domain
+
+The physical space controlled by an entity’s soul
+
+Most noticeable with metal equipment/mana interaction
+
+#todo Create Common Knowledge: Domain
+
+Compile scattered notes concerning skill interactions with domains, such as Flight, Healing Word, etc.
+
+Soulspace
+
+Another plane of existence
+
+Official term not known, if there is one
+
+People that have experienced it describe it as “a void” or “a dark place” but not “THE void” or anything like that.
+
+#todo interview more awakened on this topic.
+
+People are brought to soulspace when receiving accolades
+
+Other methods of visiting soulspace exist, such as the Majistraal Obelisk
+
+System interfaces do function within soulspace, and skills may be activated
+
+Time is accelerated
+
+#todo copy section from Majistraal Obelisk document here, then delete
+
+Geometrically, an MC Escher hellscape
+
+Physical proximity in the real world does seem to correlate somewhat
+
+I was able to see Wallace when our domains overlapped
+
+Speculation: Magic/Skills can have soulspace components
+
+When Wallace used a healing spell, I could see it manifest
+
+Speculation: Watch Reading works by accessing soulspace in some way
+
+Soulform
+
+The form that an entity takes in soulspace
+
+Official term not known, if there is one
+
+Known Examples
+
+Rain: Hologram of Rain (glitchy after soul damage)
+
+Wallace: Red Bubble
+
+#todo experiment idea: enter soul while in physical contact with someone, go to tear, look out into soulspace. Can I see them out there?
+
+#todo anchor stations and tethers so I don’t fall out
+
+#todo move all experiment ideas to Misc Experiments, then sort and prioritize
+
+Some objects appear physically in soulspace
+
+Known Examples
+
+Accolades
+
+Majistraal Obelisk
+
+Inside the Soul
+
+Possible official name: “The Inner Self”
+
+Passing remark from Bartum, who is not an expert on the subject
+
+Accessed through meditation
+
+Various structures exist
+
+Much of the inner reality is defined by the expectations of the entity
+
+#todo Which aspects? What are the limits?
+
+Soul: POV
+
+Within the soul, senses extend from the Point of View
+
+At low essence totals, POV is invisible
+
+As essence is converted, the core forms, growing out of the POV
+
+#todo Is this everyone, or just me?
+
+Immaterial Senses
+
+Defaults to something approximating normal vision
+
+With focus, POV can be split from the current anchor (core/avatar) and moved/expanded/focused
+
+Approaches omniscience within the occupied volume, though at a low resolution
+
+POV reverts to last core/avatar if focus is lost
+
+Disrupted by chaotic essence
+
+Blocked by solid, non-transparent essence
+
+Material Senses
+
+As Immaterial Senses, but less disrupted by chaos
+
+Sight, hearing, taste, etc. function over a greater range, even when fully immersed
+
+Will
+
+POV limits where Will may be applied. See Soul: Will.
+
+Soul: Core
+
+The linkage between the soul and the body
+
+Acknowledged as a “thing” by the Majistraal Obelisk
+
+More generally, the source of an entity’s power
+
+#todo this point is highly speculative
+
+Appears as a glowing gem
+
+Size increases with available pure essence
+
+#todo or with chaos-free volume?
+
+Brightness increases with character level
+
+The Majistraal Obelisk reported ‘core rank’ as a stat
+
+Mine was apparently too low for it to be happy talking to me
+
+Attributes are a property of the core
+
+#todo This is an assumption, prove/disprove
+
+The Majistraal Obelisk attempted to report Focus Sync and had a ‘callback’ error
+
+Core generates (how?) essence (mist), storing in soul for use
+
+Rate corresponding to core size/brightness
+
+#todo Highly speculative. Test.
+
+#todo How is essence used and for what? Is it consumed by spells? What is the relationship to mana? Experiments are already defined in Misc Experiments. Run them and then update this section.
+
+Soul: Avatar
+
+A constructed anchor for the POV
+
+#todo is this just me?
+
+Built from purified essence
+
+Even when not in them, I have limited awareness of valid avatars
+
+Can tell where they are and their condition, but not anything about their surroundings
+
+#todo can I improve this?
+
+Must be ‘lifelike’
+
+See Misc Experiments
+
+Soul: Essence
+
+Essence is the underlying basis of all reality
+
+The notes here pertain to how essence manifests within the soul only
+
+For more, see Uncommon Knowledge: Essence
+
+Forms the bulk substance of the soul
+
+In unmodified form, essence is gaseous
+
+Can be ‘pure’, appearing as white mist
+
+Can be ‘chaotic’, appearing as orange gas
+
+Chaotic essence carries slight elemental aspects of the local zone
+
+Heat/Chem in the Ashen Jungle
+
+The ratio of pure to chaotic essence is known as “fragmentation” according to the Majistraal Obelisk
+
+#todo Verify this assumption somehow. It could have been referring to something else.
+
+My fragmentation was reported as 99%, and this merited a warning
+
+Chaotic essence may be condensed and purified with an effort of will
+
+Limited to 1 unit at a time
+
+See Misc Experiments
+
+Dozer can do this too
+
+#todo How? Actually, Dozer-In-Soul should get its own section, or maybe an entire document. Later.
+
+Pure essence may be shaped into physical form
+
+Modified essence can be hardened/softened/made transparent/liquid, etc.
+
+#todo Just realized. There is sound in my soul, which means there is air, but I didn’t make it, at least, not deliberately. Is it possible to manipulate essence unconsciously? How can I test that? Maybe it is just pure essence, but too diffuse for me to see? Everything in the soul is essence in some form, maybe? Come up with some experiments.
+
+Soul: Will
+
+The force by which elements of the soul may be manipulated
+
+Will correlates to stats in some way, notably Strength, possibly Endurance
+
+See Misc Experiments
+
+Will is limited by free space within the soul
+
+Only at very low levels
+
+Not really a factor anymore with the current size of the Bastion
+
+Exerting Will seems to carry little to no cost
+
+There is some mental fatigue, but more research is needed
+
+Will also allows the physics simulation to be tweaked
+
+Gravity, light, etc. can be modified
+
+The Paling
+
+A protective barrier that surrounds the soul
+
+It is a real thing for sure, not just something specific to me
+
+In Vejik, the term for it is Me’ke-Tar Tek, meaning ‘the barrier which divides’
+
+Followers of Dystees call it the ‘Divine Envelope’
+
+Acknowledged by the Watch
+
+Acknowledged by the Majistraal Obelisk
+
+Regulates essence pressure within the soul
+
+‘Homeostasis’ for whatever level you are supposed to be
+
+Diffusion rate is slow
+
+#todo measure
+
+See The Barnacle Incident
+
+Can be damaged
+
+The Majistraal Obelisk reported “paling integrity” as a stat.
+
+Mine was at 74%
+
+This merited a warning
+
+I suspect it is even lower now, but how low?
+
+#todo test
+
+how?
+
+At 0%...you die?
+
+#todo don’t test
+
+Awakened Palings
+
+The Watch can approximate a person’s power by looking at their paling
+
+See Watch Reading
+
+According to Bartum
+
+Undergoes daily (at true dawn by default) essence exchange
+
+Unawakened Palings
+
+According to Bartum
+
+‘Weak’ and ‘porous’
+
+Do not undergo essence exchange
+
+Speculation: this is the “natural” state of palings
+
+Speculation: the paling is modified by the awakening process
+
+Unawakened are affected by my doom aura
+
+Speculation: unawakened struggle in the depths, starting at high silver or low gold
+
+Ameliah confirmed, though details are vague
+
+See Common Knowledge: The City of Lights
+
+#todo Ask Mahria about this effect. What is her actual cap? Did her mother bring her to the depths for her awakening? Nobles might know too. Samson’s/Lyn’s/Atyl’s families weren’t gold-rank, though. It might also be something you can adapt to. Need to interview more people about this. Vestvall nobles, maybe? Can unawakened get stronger if they live in the depths for an extended time??? Ameliah and TH both say no, but have no proof. I want to believe.
+
+Animal Palings
+
+Unknown appearance to Watch Reading
+
+Unknown essence exchange
+
+Animals don’t seem to be affected by my doom aura
+
+Animals have been observed in the depths, doing just fine in rank-15 essence
+
+Might also have problems deeper, just like people
+
+More research is needed
+
+Monster Palings
+
+Unknown appearance to Watch Reading
+
+#todo kick self for not asking about this when I had the chance
+
+Unknown essence exchange
+
+Monsters seem to be attracted by my damaged soul
+
+Range is much greater than doom aura
+
+#todo update after tonight’s defense; might just have been initial blowout
+
+Monsters weaken in low-rank zones, suggesting:
+
+Leaky palings
+
+High essence consumption
+
+Monsters don’t need food
+
+“Live” off essence?
+
+Essence Exchange
+
+According to Bartum
+
+First, the paling shrinks, expelling essence from the soul (into soulspace?)
+
+Next, the paling expands, drawing in fresh essence (from soulspace?)
+
+Happens daily
+
+Ameliah and I shouldn’t be able to do it at will based on what Bartum knew.
+
+This is therefore likely to be information restricted by the Watch muckety-mucks, or at least uncommon knowledge.
+
+The Watch higher-ups know I can do this, presumably.
+
+I haven’t been murdered/imprisoned, so it can’t be that bad. Still, maybe don’t teach the entirety of Ascension how to do it until you know for sure.
+
+With my damaged paling, Bartum saw significantly more essence expelled when I triggered the process
+
+Like a blowout from the site of the tear
+
+Speculation: the system has some purpose for the exchange process
+
+Beneficial for the soul?
+
+Beneficial for the world?
+
+#todo experiment?
+
+See Uncommon Knowledge: The System
+
+Leveling
+
+Reverses the essence exchange process
+
+Bartum said it looks like ‘in, then out’ instead of ‘out, then in’
+
+Within my soul, I feel pressure build, then essence condenses and rushes into my core
+
+#todo create a document for theories on breaking the level cap
+
+The Damage
+
+This entire section is highly speculative!!!
+
+#todo implement double underline formatting so I can use fewer exclamation points
+
+While I’m at it, strikethrough
+
+#todo move some of this to Uncommon Knowledge: System
+
+#todo clean up this mess after you run some damn experiments, dingus
+
+Key Premise
+
+The system is an artificial construct, complete with bugs!
+
+Locals say that the system:
+
+Was made by the gods to bring order to the primordial chaos
+
+Was made by the Majistraal to train/guide their young
+
+Has always been there since before the Majistraal AND the gods
+
+Other
+
+See Common Knowledge: Hogwash
+
+Supporting Observations
+
+The system provides ‘experience’ as a reward for performing certain actions
+
+Spending mana, stamina, and health
+
+Killing monsters
+
+Using skills
+
+Skill experience is related to general experience, but different in a few ways, see Uncommon Knowledge: Skills
+
+Experience acts as a currency
+
+Can be ‘spent’ to level
+
+Can be ‘spent’ to unlock skill trees
+
+System tracks current balance as well as lifetime spend
+

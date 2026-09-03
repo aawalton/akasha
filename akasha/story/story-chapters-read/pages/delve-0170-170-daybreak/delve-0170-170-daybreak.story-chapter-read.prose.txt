@@ -1,0 +1,602 @@
+Black skeletal fingers closed around the handle of a lever. The shaft of adamant was as tall as Rain’s avatar, protruding from a dais at the center of a platform open to the roiling chaos. Rain squeezed, freeing the clutch, then began gently pulling the lever toward him. Behind him, the hum of high voltage electricity grew, heard without ears, but this sound was soon lost beneath that of rushing wind.
+
+Rain shifted his eyes to the dials set into the console to his left. There was a mechanical click as the lever reached its stop, and he released his grip, the ratchet locking it in place. He watched the dials patiently, waiting until the needles stabilized.
+
+Fan velocity: maximum. Inflow: off the scale. Outflow: the same. Pressure: within tolerance. Vibration: negligible.
+
+Closing his bony fist, Rain turned, stepping down from the dais to walk across the otherwise barren platform. Over the edge, suspended in the chaos by a rugged lattice of adamant spars, hung twelve enormous cylindrical tanks, rising three times Rain’s height. Four of them were already full, their glowing blue contents visible through tall, narrow windows facing the platform. Sloshing could be heard from the next tank in line, already filling from the network of pipes leading from his core.
+
+Raising one fleshless digit, Rain touched the adamant beside the crystalline window, then shaped a scratch into the near-indestructible metal, marking the level of the liquid essence within. Stepping back, he sat, crossing his legs. The fire of his eyes burned out, leaving only empty sockets behind.
+
+In another layer of reality, Rain’s eyes opened.
+
+He clenched a fist again, this time with his bones clad in flesh beneath a layer of metal.
+
+Mana Manipulation
+
+He didn’t hold back. With all the force he could muster, he shoved mana into the Magewell hanging from his neck. The room took on a blueish tint to his eyes, which he knew would be shining with a faint electric glow.
+
+After a few seconds of this, Rain’s reserves ran dry, though the Magewell remained unfilled.
+
+Winter
+
+Again, he didn’t hold back. He was done holding back. His physical senses vanished as ravenous ethereal cold gripped him, gnawing at his bonemarrow. It was nothing.
+
+Character
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo (+)
+
+25
+
+30
+
+EXP
+
+NEXT
+
+TOTAL
+
+63,836
+
+63,837
+
+2,035,829
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+3,594
+
+3,600
+
+600/d
+
+Stamina
+
+745
+
+1,320
+
+1320/d
+
+Mana
+
+64
+
+10,075
+
+43.8/s
+
+Attributes
+
+273/253
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+46.1
+
+80
+
+10
+
+20
+
+50/50
+
+57.7%
+
+RCV
+
+33.6
+
+60
+
+10
+
+0
+
+50/70
+
+56.0%
+
+END
+
+20.2
+
+66
+
+10
+
+5
+
+51/31
+
+44.0%
+
+VGR
+
+109
+
+132
+
+10
+
+0
+
+122/112
+
+89.0%
+
+FCS
+
+44.3
+
+50
+
+10
+
+40
+
+0/198
+
+88.6%
+
+CLR
+
+270
+
+270
+
+270
+
+0
+
+0/181
+
+100.0%
+
+PER
+
+9.6
+
+20
+
+10
+
+10
+
+0/0
+
+48.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/4
+
+94.0%
+
+Rain watched, floating within frozen darkness as the number beside his mana ticked upward, updating once per second.
+
+Mana Manipulation
+
+The number froze, the regeneration listed beside it simultaneously dropping to zero.
+
+Inventory
+
+Slot
+
+Item
+
+Charge
+
+Saturation
+
+Durability
+
+Head
+
+Chest
+
+Legs
+
+Hands
+
+Feet
+
+Offhand
+
+Myriad Plate
+
+Bound
+
+Durability
+
+Hardness [12,047]
+
+500 Heat Resistance
+
+500 Cold Resistance
+
+375 Chem Resistance
+
+350 Force Resistance
+
+5,000 Arcane Resistance
+
+Lightness
+
+Compression
+
+Thermal Regulation [ON]
+
+Tactile Transference [ON]
+
+Facade [ON]
+
+Obfuscation [ON]
+
+Arcane Regeneration [OFF]
+
+Kinetic Conversion
+
+7,802 / 185,500
+
+0 / 154,209
+
+294,991 / 602,044
+
+Ring[0..4]
+
+Malleable Ring
+
+Bound, Unity
+
+273/287 Attributes [˃]
+
+203 / 226
+
+0 / 1,907
+
+102 / 102
+
+Ring[5]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,272
+
+813 / 813
+
+Ring[6]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,278
+
+814 / 814
+
+Ring[7]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,273
+
+816 / 816
+
+Ring[8]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,274
+
+813 / 813
+
+Ring[9]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,271
+
+814 / 814
+
+Amulet
+
+Magewell Amulet
+
+Bound, Unity
+
+Mana Well
+
+100% Import Efficiency
+
+100% Export Efficiency
+
+32,701 / 50,000
+
+0 / 39,211
+
+313 / 313
+
+Mainhand
+
+None
+
+NA
+
+NA
+
+NA
+
+Underwear
+
+Forceweave
+
+NA
+
+NA
+
+NA
+
+Overwear
+
+None
+
+NA
+
+NA
+
+NA
+
+Patiently, Rain watched the charge in the Magewell rise. Seven minutes passed, and then it was full, but Rain didn’t stop. He instead shifted his focus, sending the unending torrent of mana spinning along his arms to fill one ring after another. Once all were full, he spared a brief glance for his armor, then let Mana Manipulation die away, leaving only the deathly chill.
+
+There would be time enough for that, but not yet. Not today.
+
+Closing his inventory, he remained in darkness, waiting as his mana refilled. He felt nothing but the cold. No pain. No hesitancy. No doubt.
+
+Another four minutes passed.
+
+When it was done, his mana overflowing, he let the darkness fall away, taking the cold with it. Instead of opening his eyes, he directed his senses inward. After less than twenty seconds, empty sockets burst into flaming life.
+
+Rain rose, walking forward to the tank and the scratch in the metal he had made. Within the vessel, the liquid was turbulent, but there could be no denying what he saw. Instead of falling, the level had risen slightly.
+
+Stepping back with a skeletal grin, Rain sat once more.
+
+Then he was at the Tear, inhabiting an avatar of an older design. He didn’t linger in it long, hopping from body to body, moving from anchor to anchor, checking the gauges set into the cable mountings. Each one had a needle, showing the current tension, as well as a marker that recorded the maximum since it had last been reset. None had entered the red.
+
+One by one, Rain reset them, then moved on. Once he was finished at the Tear, he checked the dozens of barometers scattered all across his soul.
+
+All was well.
+
+Settling back into his physical body, Rain took a deep breath, then triggered an essence exchange. There was no pain.
+
+He exhaled slowly.
+
+Another twenty seconds passed, and he was back in his soul, checking the cable gauges again. He found that while the stress from the essence exchange had been high, it had been well within tolerance. He wasn’t worried about stress. He was worried about strain. As the tension increased, at some point, even an adamant cable would begin to stretch. Thus far, the needles had always returned to the same starting points.
+
+No, he hadn’t gone too far. He hadn’t gone far enough. He returned to his body, the transition smooth and effortless, then called up more windows.
+
+Progress Report
+
+marker_1: predelve [3060 Fallow 21 09:30]
+
+marker_2: endnight [3060 Breaking 32 15:54]
+
+Span: 43.3 days
+
+Character
+
+Level: 18 -> 25 (+7)
+
+Level Cap: 18 -> 30 (+12)
+
+Total Exp: 1,644,832 -> 2,035,829 (+390,997)
+
+Clarity: 200 -> 270 (+70)
+
+Skills
+
+Arcane Ward: 0 -> 10 (+10)
+
+Mental Ward: 0 -> 1 (+1)
+
+Radiance: 0 -> 10 (+10)
+
+Shroud: 0 -> 10 (+10)
+
+Chemical Ward: 0 -> 5 (+5)
+
+Suppression: 0 -> 5 (+5)
+
+Fulmination: 0 -> 2 (+2)
+
+Tolerance
+
+Strength: 40 -> 50 (+10)
+
+Recovery: 30 -> 70 (+40)
+
+Endurance: 20 -> 31 (+11)
+
+Vigor: 40 -> 112 (+72)
+
+Focus: 193 -> 198 (+5)
+
+Clarity: 179 -> 181 (+2)
+
+Attribute Buff: 180 -> 253 (+73)
+
+Speed: 1 -> 4 (+3)
+
+Synchronization
+
+Strength: 5.3 -> 17.3 (+12.0)
+
+Recovery: 4.9 -> 5.6 (+0.7)
+
+Endurance: 4.0 -> 6.6 (+2.6)
+
+Vigor: 5.8 -> 8.9 (+3.1)
+
+Focus: 12.2 -> 44.3 (+32.1)
+
+Clarity: 203.0 -> 270.0 (+67.0)
+
+Perception: 8.4 -> 9.6 (+1.2)
+
+Skills
+
+Chemical Ward (5/10) Exp: 2122/2200
+
+Increase chemical resistance by 42.675% for all entities
+
+Range: 14.2 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (1/10) Exp: 0/200
+
+Increase mental resistance by 8.535% for all entities
+
+Range: 2.84 meters
+
+Cost: 1 mp/dmg mitigated
+
+Suppression (5/10) Exp: 7490/8800
+
+Increase mana costs for all entities by 177.812 mp (fcs)
+
+Range: 14.2 meters
+
+Cost: 5 mp/s
+
+Fulmination (2/10) Exp: 744/800
+
+49.79-56.90 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 5.69 meters
+
+Cost: 10 mp/s
+
+Realizing that he was still clenching his hand, he loosened his grip, allowing blood to return to his fingers. It had been over a month since he’d entered the depths, and the progress he’d made was remarkable, but it wasn’t remarkable enough.
+
+A woman had died.
+
+She had died because he had been too weak to stop her without taking her life. He had made his peace with the necessity of killing after the first time, but it still hurt. The fact that the death had come at his own hand this time shouldn’t have made a difference, and yet it somehow did. However, despite the anguish that still tore at his heart, he did not regret the action he had taken. It had been right. He only regretted that it had been his only option.
+
+I need to get stronger.
+
+Rain couldn’t rush the repair of his soul any more than he already had. He needed time. Time for his core to work. Time to finish his reinforcement of the Tear. Time to understand.
+
+What he could do was complete the work he’d left lying to the side. Even without reinforcement, his paling was strong enough for that. Provided that he was careful to exchange essence frequently, he could finish training his skills with little fear. He was sure of that now. He would need help to do so, given the skills that he had to train, but there was one that he could take care of independently, and there was no reason to wait.
+
+Rising from his desk, Rain glanced at the door to his bedroom, which was just barely ajar. Ameliah was supposedly sleeping, but through Detection, he knew her to be seated at a table instead. She was trying to pretend otherwise, but he knew she was no more able to rest than he was.
+
+Shaking his head slowly, he looked up at the darkened sky, listening to the heavy rain as it splattered against the ceiling of glass. It was only a few minutes to eighth bell, which would mark the final dusk. In any other circumstance, the people of Vestvall would have donned masks, celebrating Endnight with dancing, feasting, and songs. Then, Daybreak would come, the first day of Promise and the start of the new year. The masks would be tucked away, unneeded, but not forgotten.
+
+Rain didn’t pretend to understand the significance of that ritual, or even whether it was a local tradition or something performed worldwide. He was an outsider, and he hadn’t had the time to ask. He had more questions than there were seconds in the day.
+
+Why is there never enough time?
+
+Ignoring the bone-deep weariness dragging at him, Rain forced his body to move toward the door. He hadn’t slept for well over forty hours now, and he knew there would be no rest for him this night either. Perhaps for many nights to come. Awakened could disregard fatigue, for a time, and he could boost his Endurance if he needed to. Forty hours was nothing. Even in his old life, he could have managed this much. The consequences would come later. He just needed to be alive to deal with them.
+
+Rain stepped over Dozer, the slime entering the room as he left. Neither of them greeted the other, both too focused on their respective missions. The camp was still a hive of activity, people laboring to sort and package the last of the supplies. Rain spoke to no one as he made his way through them, then through gates and out into the downpour.
+
+A line of defenders stood there, surrounding the livestock and the orderly grid of packs prepared for the departure the following morning. As Rain walked out toward them, a woman broke ranks to meet him. Lana.
+
+“Captain,” she greeted him, raising her voice and placing a hand on the hilt of her sword to make a polite bow. She looked tired and miserable, her white cloak drenched from the icy deluge. “Come to join the first shift?”
+
+A bell tolled, marking the coming of true dusk. Howls and chattering shrieks rose from the darkness. Weapons and armor clinked as the defenders readied themselves.
+
+Rain simply shook his head, glancing at Lana as he passed, not having broken his stride. “No,” he said. “I am the first shift.”
+
+Fulmination
+
+Rain felt the hair rising on the back of his neck as he stalked forward, leaving Lana behind as the charge built along the surface of his armor. Occasional discharges arced from plate to plate, tiny flashes of light, sharp against the weak glow of the incandescents on their poles. The sparks became more noticeable as Rain passed fully into darkness, then more noticeable still as he activated his modifiers.
+
+The spell was weak, but it didn’t have to be.
+
+Hearing the monsters approaching, Rain waited. A few more moments passed, and he triggered an essence exchange. When his senses returned, the crackles of lightning were ever so slightly stronger.
+
+Rain raised a hand, then pointed it at the looming darkness, electricity crackling between his fingers as water streamed off of him. Then, he released his grip on the spell’s range. A rippling boom tore through the night, the furious cries of the monsters becoming shrieks of pain as lightning flew from Rain’s outstretched hand, branching through the onrushing horde like the spreading limbs of a colossal tree.
+
+Fulmination was not a targeted spell, but he could make it look that way. It would always jump from him to the nearest target, spreading to others from there. He hoped it would appear like Chain Lightning, if any such spell existed. If the Empire was watching, they’d see a man in metallic armor, calling down magic that should have instantly gone awry and yet did not. They’d see something they did not understand, and that uncertainty would hopefully give them pause.
+
+The system chimed, heralding the death of the first monster, which had taken a relatively long time to succumb to the onslaught, though its cries had stopped the moment the paralysis had frozen its lungs.
+
+Soon, more chimes began to sound, not stopping until Rain muted them. These monsters were freshspawn, too consumed by their instincts to realize that their charge would only end in their doom. The only danger they posed to Rain was indirect, in that they would deplete his company’s stamina if he didn’t step in.
+
+His face set in a grimace, Rain raised a second arm, directing the fury of the storm. He opened his mouth, and then he screamed with awakened lungs, pouring all his rage and pain into the magic that flew from his fingertips.
+
+I will not let Ascension fall!
+
+Sitting alone in the room she shared with Rain, Ameliah rolled her eyes. The echo of Rain’s scream was soon lost beneath the continuing crackle of lightning, the steady drumming of the rain, and the wails of the dying monsters.
+
+And he wonders why people still call him Death Zone.
+

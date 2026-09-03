@@ -1,0 +1,456 @@
+“Sleep,” Ameliah commanded. When Rain nodded, she narrowed her eyes, then pulled the door shut, sealing it firmly behind her.
+
+Rain sighed, letting his head fall back to the pillow. It was surprisingly comfortable, as was the mattress. Both were stuffed with down and quite expensive by commoner standards, but not so much for adventurers. The sheer luxury of it felt bizarre after so long getting by with just a bedroll, but that didn’t stop him from snuggling beneath the blankets.
+
+The soft bed was simply a sign that things were about to change. The camp would become more. It would be a fortress, with the only significant issue being the lack of water in the hills. Even that could be mitigated.
+
+Perhaps a pipeline, or a really deep well, or—
+
+Rain shook his head against the pillow.
+
+I’m doing it again.
+
+He closed his eyes, blocking out the ever-present light.
+
+Furniture is an issue. It creates the possibility of shadows. Taking the bed as an example, it doesn’t have legs, so nothing can spawn under it, but it can still cast a shadow. That was why I wanted two light sources in here, not just one. Also, I need to find a better backup than that oil lamp. I wonder why evertorch juice doesn’t work in—
+
+Rain shook his head again. Stop.
+
+This sequence repeated several times until Rain managed to get a leash on his racing thoughts. It was difficult, and not just because he’d been abusing Focus. He had a lot on his mind. Gradually, he packed his worries away—inspecting each one, comprehending it, and then filing it for later. There was nothing he needed to do right now except sleep. Ameliah was right. He couldn’t do it all in one day. Trying was idiotic. Inefficient. Disorderly.
+
+Rain’s thoughts grew hazy as he sunk further into the mattress.
+
+Dis…order. Disorder…
+
+Rain woke with a groan, opening his eyes to see a dark, cloudy sky through the glass ceiling. His body felt sluggish, and his mind like it had been stuffed with wool.
+
+So basically, back to normal.
+
+Like an old man, he worked himself up into a sitting position, realizing as he did that he was still wearing the same clothes he’d had on when he’d given his speech. He flicked on his HUD, checking the time. That had been eleven hours ago. It was the middle of the night.
+
+A quick blast of Purify took care of his full bladder, which was fortunate, as seconds later there was an unexpected noise that made him jump horribly.
+
+Rain poked his head over the side of the bed, searching for whatever terrifying monster was waiting there to murder him, then relaxed as he saw Ameliah. She’d replaced his bedroll with her own and was snuggled into the crack where the mattress met the floor with her eyes closed. Her hair was draped over her face in a tangled mess, and as Rain watched, she scrunched up her nose, then puffed a few strands of it out of her mouth. After a moment, she sighed deeply, her breathing becoming deep and even once more.
+
+Rain smiled. Beautiful, kind, strong, and now adorable too? She is so far out of my league it’s ridiculous. What does she see in me?
+
+Carefully, he lowered himself back down to his pillow, using Detection to check the camp’s status. Everything seemed to be in order, but he knew that he wouldn’t be able to get back to sleep after resting for as long as he had. That meant he had to find something to occupy him until morning, as he didn’t dare to try and slip free of the room for fear of waking Ameliah. She needed her rest just as much as he did.
+
+Fortunately, there were plenty of things he could work on right here. He raised his hands, summoning a terminal and keyboard as he did, then typed in a pair of commands.
+
+>setmarker softbed
+
+>ptrack vestvall softbed
+
+error: ref
+
+>
+
+Ah. Error: ref, is it?
+
+Rain sighed.
+
+Damn it, me. You couldn’t have made the name more descriptive?
+
+He sighed again.
+
+Well, it wasn’t marker_not_found, so that means… Right. It’s probably because I’m missing the armor. Let’s see here…
+
+Rain’s fingers wiggled for a few minutes.
+
+Progression Tracker [0.5.2]marker_1: vestvall [27th Winternight]
+
+marker_2: softbed [2nd Fallow]
+
+span: 6.62 days
+
+Tolerances
+
+Focus: 114 -> 146 (+32)
+
+Clarity: 163 -> 171 (+8)
+
+Attribute Buff: 171 -> 177 (+6)
+
+Synchronization
+
+Endurance: 37% -> 40% (+3%)
+
+Equipment
+
+[Removed] Dark Revenant’s Armor: -50 Dark Resistance
+
+[Removed] Ascension Cold Tin Ring: -20 Cold Resistance
+
+There we go.
+
+Rain steepled his hands against his chest as he looked over the results shown in the dialog.
+
+Hmm. So the lesson here is: limit break is great for breaking limits. Thirty-two points of Focus tolerance in six days and change? Hot damn.
+
+…
+
+Should I abuse this? Probably not. There could be long-term effects that I don’t know about.
+
+…
+
+Am I gonna abuse it anyway?
+
+…
+
+I really shouldn’t…
+
+Rain snorted softly, laughing at himself.
+
+I’ll talk to Ameliah about it. She has more experience with this kind of thing. Her opinion is more reliable than mine. Anyway, for now, I’ll take it easy. Let’s see what else there is here… Endurance sync got a pretty good boost. All it took was getting completely dumpstered. No recovery sync, though, so that’s confirmation that external healing doesn’t count. No other syncs either…
+
+Rain sighed.
+
+I’ve been slacking. I need to start running in the mornings again, but there’s just so much to do... That’s it, I’m making myself a schedule. Exercise is good for mental health, so I’ll make the time. I can NOT let myself fall apart.
+
+He took a deep breath, then let it out slowly.
+
+I’m going to miss you, Dozer. Character.
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,749
+
+22,750
+
+1,614,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+2,000
+
+2,000
+
+400/d
+
+SP
+
+409
+
+600
+
+500/d
+
+MP
+
+5,100
+
+5,100
+
+2.8/s
+
+Attributes
+
+130/177
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+19
+
+50
+
+10
+
+40/40
+
+38%
+
+RCV
+
+19.6
+
+40
+
+10
+
+30/30
+
+49%
+
+END
+
+12
+
+30
+
+10
+
+20/20
+
+40%
+
+VGR
+
+28.5
+
+50
+
+10
+
+40/40
+
+57%
+
+FCS
+
+10
+
+10
+
+10
+
+0/146
+
+100%
+
+CLR
+
+200
+
+200
+
+200
+
+0/171
+
+100%
+
+Resistances
+
+120/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+23.0
+
+0%
+
+COLD
+
+3.0
+
+0%
+
+LIGHT
+
+3.0
+
+0%
+
+DARK
+
+3.0
+
+0%
+
+FORCE
+
+3.0
+
+0%
+
+ARCANE
+
+3.0
+
+0%
+
+CHEMICAL
+
+103.0
+
+0%
+
+MENTAL
+
+3.0
+
+0%
+
+Rain let his eyes rove over the screen, finding everything more or less as he expected. No error had occurred due to his missing armor. He’d fixed that particular bug in his character display weeks ago.
+
+He clicked his tongue.
+
+I’m going to have to tear this whole thing apart again to make it deal with accolades properly, aren’t I? I still don’t know where to add in the boosts… Do they go to the base attribute, or to the total? The effective? Bah, another problem for later. I need to bind them first…
+
+Rain sighed. He could feel the Heat resistance accolade against his chest, the metal smooth on his skin beneath his shirt. He had wrapped some string around it to make a little harness, then tied it to the same leather cord that held the Malleable Ring.
+
+One thousand resistance is a lot… I still don’t know if accolades cause soulstrain, and I’m starting to reconsider starting with this one. Maybe I should try a smaller one first.
+
+Closing his eyes, he let his head sink deeper into the pillow.
+
+No, it wouldn’t work like that. Tallheart would have warned me if it did. I can’t imagine someone clearing a lair and then having the system melt their brain by jamming an accolade down their throat. Slots are probably the only limitation…
+
+…he said, before reenacting that scene from Scanners.
+
+Rain sighed. I don’t even know if I’ll be able to get into my soul at all right now. I should probably just start there.
+
+Carefully, he pulled the leather cord out through the collar of his shirt, concentrating on maintaining his link to the Malleable Ring. Once the accolade was free, he let it and the ring fall to his chest atop his shirt. As long as the plate wasn’t touching his skin, he wouldn’t end up bonding it accidentally. To hide it from view, he pulled up the covers, figuring that it would be safe enough. Even if he somehow dislodged the blanket and exposed the plate to greedy eyes, nobody was going to get past Ameliah, asleep or not.
+
+Tallheart might be able to manage it. Rain smiled. Dollars to donuts, the Soften Steps accolade is how he’s been sneaking up on people. I’m onto you, bub. Trying to give me one of your accolades without me realizing it. You’re not nearly as sneaky as you think you are.
+
+…
+
+Damn it, I just lost the game.
+
+Rain let his amusement linger for a few moments, then gently pushed it away. More thoughts followed, and Rain shifted his perspective, visualizing them as waves on an ocean wracked by storm. The surface roiled, but the water below was calm—tranquil and undisturbed. That was where he placed himself, floating below the chaos and observing it from below. With each inhale, the surface calmed. With each exhale, he sunk lower, leaving his worldly cares behind.
+
+All of his fears, all of his worries, all of his pain; it would all remain on the surface.
+
+At the bottom, there was nothing but tranquility.
+
+Breathe in.
+
+Breathe out.
+
+A flicker of pride in how much better he’d gotten at this threatened to shatter his focus, but it, too, was merely a wave upon the surface. Just another ripple. It could not disturb him, not down here.
+
+In…
+
+…and out.
+
+In…
+
+…and out.
+
+…
+
+…
+
+…
+
+Chaos.
+
+Immediately, Rain was hurled back into his body, and he gasped as his head leapt from the pillow.
+
+Damn!
+
+He forced himself to relax, listening carefully to Ameliah’s breathing. Thankfully, it didn’t seem like his outburst had woken her, and after taking a few calming breaths, he sighed. That was worse than usual. I was afraid of this. I’m not giving up, though.
+
+Closing his eyes again, he returned his thoughts to the ocean. It took four more attempts, but finally, he managed to break through without succumbing to the insanity. It was only after he’d built the Zero Bastion that he could spare another thought for just how difficult it had been this time. While his soul was always turbulent, the intensity of the chaos varied with his mental state and his mood. Given recent events, even getting this far was an accomplishment.
+
+A spark of pride filled Rain, and the Bastion trembled. The chaos threatened to tear it apart, but Rain resisted, concentrating on a single concept, the same one that had created the Bastion in the first place.
+
+Binary Divide.
+
+Rain clung to that fundamental duality with all of his might. Zero was nothingness. Void. One was everything. Matter. Energy. Light. Feeling. Emotion. One was not chaos. One was what held the chaos at bay. It was a barrier, constructed of the ordered matter of his self. Of his essence.
+
+The trembling stopped.
+
+Rain didn’t loosen his grip. Instead, he tightened it further. In the past, he’d tried expanding his image of the Bastion to include more than just the simple duality of zero and one. He’d failed. The thing the Bastion needed wasn’t a more detailed image. What it needed was simple repetition.
+
+Manipulating the wall of the Bastion, he began to change its shape. From one side, the chaos bulged inward, forming a teardrop intrusion. Larger and larger it grew, inflating like a balloon until it could grow no more, the outer walls shrinking to accommodate it. Rain squeezed, necking it down and then pinching it off completely, leaving a pearl of chaos encapsulated within the bubble of void.
+
+Pearl.
+
+Bastion.
+
+Soul.
+
+A sphere within a sphere within a sphere.
+
+The Bastion trembled, as did the pearl, both essence-barriers beginning to destabilize from the strain. Before either could collapse, Rain shifted his perspective once more, wrapping his consciousness around the pearl.
+
+BINARY DIVIDE!
+
+The tiny bubble split, bursting into space and substance.
+
+The Bastion’s perimeter exploded outward, driven by the pressure of the newly liberated void. It swelled against the chaos like a depth charge pushing back the sea. The outer membrane stretched to its limit, trying to contain it, then beyond. Ragged tears formed, and the expansion halted, then reversed. Before the walls could crash back down to nothingness and drown Rain in chaos, he seized the leftover essence from the second division and hurled it at the walls. With his will, he forced it to merge with them, mending the tears.
+
+The shrinking stopped.
+
+Everything was still once more.
+
+The Bastion held. It was larger now—stronger than it had been before. Volume grew as radius cubed, while surface area grew as radius squared. With two units of essence and two units of void, the mathematics were clear. The Bastion would not fall.
+
+If Rain had had a mouth, he would have smiled. Nailed it! That was easier than I th—
+
+With only the smallest warning, the bubble trembled, then popped.
+
+Rain let out a tired sigh as he found himself in his body once more. Apparently, things hadn’t been quite as stable as he’d thought. If he wanted to think in full sentences inside the Bastion, he clearly had a bit more work to do. Despite the failure, however, this was progress. He’d gotten there once, and the theory was proven. It had been stronger after two repetitions, there was no doubt about that, and if it was stronger after two, then, well…
+
+Time to grind.
+
+Four hundred ninety-five.
+
+…
+
+Four hundred ninety-six.
+
+…
+
+Four hundred ninety-seven.
+
+…
+
+Four hundred ninety-eight.
+
+…
+
+Four hundred ninety-nine.
+
+…
+
+Five hundred.
+
+…
+
+Five hundred and— You know what? No. I’m taking a break.
+
+Rain let his consciousness drift away from the wall, moving toward the center and leaving a swirling trail through the white mist.
+
+Things had changed.
+
+The Bastion was still a sphere, but where before it had been a sphere in concept, now it was a sphere in a much more physical sense.
+
+Geometry was a thing now.
+
+It hadn’t been before, even though Rain had been pretending that it was. In building the Bastion, he was defining his own reality, as insane as that sounded. When his awareness had been subsumed in the chaos, his soul had no dimensionality whatsoever. No center. No edge. No up or down or inside or any of that real-world nonsense. Rain’s mind, however, knew those concepts and brought them along for the ride when he’d begun purifying—for lack of a better word—his essence. He was writing the rules for how his soulscape worked, and the image he’d chosen included geometry. Therefore, it had it.
+
+Had Rain’s consciousness had temples, he would have rubbed at them, massaging away a headache that couldn’t exist without a head. Instead, he settled for a sort-of side-to-side wobble, making the mist swirl and dance.
+

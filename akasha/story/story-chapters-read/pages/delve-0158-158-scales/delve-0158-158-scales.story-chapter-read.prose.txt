@@ -1,0 +1,134 @@
+Ameliah sat against the stone wall, hunched over a padlock grasped tightly in her hand. She was in the island cave, seated between Rain and a thick metal door. That door stood open at the moment, revealing the strongroom that Tallheart had carved into the wall. He was still in there, though doing what, she had no idea, as she couldn’t see him from this angle. It had been quiet for a while, but he hadn’t come back out into the cave proper.
+
+The light of the evertorch jammed into a crack in the wall glinted off the lock as she struggled. Rain had managed to get the thing open four or five times now. She’d managed it several times as well, but never while wearing gauntlets as she was now. It was an excellent way to practice her fine control with them, but it was also incredibly frustrating.
+
+I can’t feel a damn thing.
+
+Removing the pick with a sigh, Ameliah leaned back, resting her head against the wall and letting it flop to the side so she was looking at Rain. “Are you ready yet?”
+
+“Almost,” Rain said, staring off into space. His fingers were wiggling in midair in front of him, a telltale sign that he was working with his interface. “Just making a few last comments in my script. And…there. Okay, I think that should do it.” He turned his head to look at her. “Want the details?”
+
+“Just a summary, please,” Ameliah replied, looking forward again and tugging at the collar of her armor. She felt warm, but it had nothing to do with the temperature. Her equipment had the same Thermal Regulation enchantment that Rain’s did. The problem was that he wasn’t using Winter. She’d grown used to the ethereal chill.
+
+“Summary, right,” Rain said, pausing to think before he continued. “In a nutshell, I’ve got Detection set to fire every 30 seconds using Extend Aura, Aura Focus, and Channel Mastery. The range is 124 meters with that combo, thanks to all my new Aura levels. That should be enough to give us plenty of warning. I’ve got Channel Mastery tuned so Detection uses 5 MP per pulse, and I think I should be able to sustain that indefinitely. I’ll have to check my soul in a little while to be sure. My base regen without Winter is about 16 mana a minute, so that’s plenty. Detection’s resolution won’t be great, and I’m a little worried about Arcane Resistance, but I have to compromise somewhere. I can trigger it manually at higher power as needed, but I really don’t want to overdo it.”
+
+Ameliah smiled. He calls that a summary? “Sounds reasonable,” she said, moderating her tone as she slipped the lock picks back into their leather case. “Can we acknowledge that your idea of ‘not overdoing it’ would make a normal mage spit blood?”
+
+Rain laughed. “Oh, come on. It’s not even that much. Detection’s pretty efficient with the right mods.”
+
+“I still don’t understand how you can use Aura Focus while walking,” Ameliah replied, busy tucking the lock and picks into Rain’s pack, which was sitting beside hers in the middle of the cave floor. She turned, then sat with her legs crossed to face him. “I’d fall flat on my face.”
+
+“You get used to it,” Rain said with a smile. “Falling on your face, that is.”
+
+Ameliah snorted.
+
+“How about you?” Rain asked. “Is there anything else you need to do before we leave?”
+
+Ameliah shrugged. “I still need to free up slots now that I’ve got Arrow Synergy, but I’m not doing that until tonight. I can’t progress in Sharpshooting until I get through Piercing Shot and Endless Quiver, so it’s better to keep the extra Arrows for now. Thanks to Synergy, they’ll add a little extra power to Fire Arrow, at least. They’re mostly useless on their own. The damage just doesn’t compare.”
+
+Rain nodded. “Other than special cases where you’d want the secondary effects, yeah.” He raised his hands in the way that meant he’d summoned his interface again. “Tell me your skill ranks, and I’ll recalculate the elemental damage for Fire Arrow.”
+
+“I already calculated it,” Ameliah said, then stuck her tongue out at him.
+
+Rain blinked, then beamed at her. “I am so proud.”
+
+Ameliah rolled her eyes. “It’s around twenty-two thousand Heat if I use one of Tallheart’s Firebolt Arrows. A third of that if I skip the chant.” She scratched at the corner of her eye, then pulled her adamant-tipped finger away to look at it before flicking it lightly to dislodge the errant eyelash. “I still think it’s strange that Chanting multiplies the enchantment damage, by the way.”
+
+Rain nodded, watching her, still with a goofy smile on his face. “I know, right? As long as you match the enchantment with the Arrow skill, it works.”
+
+“Mmm,” Ameliah said. “It’s common knowledge that you should use elemental weapons with skills of the same element. Not that elemental weapons are easy to come by.”
+
+“Right,” Rain replied. “I think it has to be something about the way weapon skills work. Take the Arrow skills. Arrow Affinity will multiply a Firebolt Arrow’s Heat damage if you use Fire Arrow, but not Stone Arrow. It’s like… Once Fire Arrow triggers, it applies the ‘Arrow’ keyword to whatever Heat damage you already had. Then, the other mods hit in the most beneficial order.”
+
+Ameliah shrugged, not wanting to get into it. “Sounds reasonable. It’s not something I would have spent a lot of time thinking about before I met you. I swear, you’ve infected me with your…math.”
+
+Rain laughed. “You’re welcome. Anyway, what really bugs me is Empowered Mainhand. It multiplies the damage from Fire Arrow, even though it has nothing to do with it, but only if you use an Arrow skill.” He scratched at his beard. “It’s like…the two base damages get added, including the keywords.” His eyes lit up, and he scooted closer to her. “That’s it, isn’t it? Look, 400 Fire-dash-Mainhand damage from the enchantment, plus 146 Fire-dash-Arrow damage from the skill, together is 546 Fire-dash-Arrow-dash-Mainhand damage! If you use Stone Arrow instead of Fire Arrow, though, it doesn’t work! 146 Earth-dash-Arrow, plus 400 Fire-dash-Mainhand is still just 146-Earth-dash-Arrow, plus—“
+
+“Rain,” Ameliah tried to interrupt.
+
+“Just a second,” Rain said, lost entirely in his own world. “It’s different with Fireball, isn’t it? That does Heat and Force damage, but really, they’re Fire-dash-Heat and Fire-dash-Force, separately!” He waved his arms wildly, matching his overexcited tone. “The Arrow skills unify the damage types somehow, but nothing in your Fireball setup does that! They’re treated independently! All the way through to...”
+
+Enough. Ameliah leaned forward, pressing her palm flat against his mouth, careful not to poke him in the eyes with her armored fingers. “Rain,” she said sweetly, rising onto her hands and knees as he turtled his neck, trying to get away. “You’re doing it again.”
+
+The back of Rain’s head bumped into the tunnel wall. He struggled for a moment, attempting to remove her hand, then let his arms fall to his sides, defeated. He sighed as best he could with his mouth covered. Ameliah laughed, releasing him and settling back on her haunches.
+
+“Sorry,” Rain said. He smiled at her, then raised a hand to touch his lips. “That would have been a lot more fun without the gauntlet.”
+
+Ameliah snorted. “Stay focused, please.”
+
+Rain nodded, his smile fading as he lowered his hand. “Anyway, I know we don’t have time for it now, but I still think you should swap one of those extra Arrow Skills for Intrinsic Strength. At least temporarily. Get your health up.”
+
+“I considered it,” Ameliah said. “There’s no point. I can’t heal myself, so I’d have to dump it again before I regenerated enough to make it worth the effort.”
+
+“I’m not sure that’s true,” Rain said stubbornly. “Equipment Mastery is going to take you a while. And besides, I could give you some of my potions.”
+
+Ameliah shook her head. “Eight thousand extra health won’t make a difference, not against something that could break through this.” She rapped her knuckles against her breastplate. “The armor is plenty, even more so with the equipment skills. Stop worrying.”
+
+“I wish I could,” Rain said with a sigh.
+
+Ameliah smiled, laying a hand on his knee. “It will be fine. We’re ready. Now we’re just waiting for Tallheart.”
+
+Tallheart rumbled from within the strongroom, the noise echoing out into the tunnel. “I have been ready,” he said, poking his antlered head out. “For over twenty minutes.” He pointed, and Ameliah followed his finger to Rain’s enormous pack. “Bring that inside. The door will keep it safe until we return.”
+
+“It had better,” she replied. “I still think we should bring the crystal with us. We’ll probably be back tonight, but if the monsters aren’t too bad down there and we find a good spot to camp, it could be a while. This is a lot of Tel we’re talking about.”
+
+“I am not concerned with Tel,” Tallheart said, moving out into the hallway and lifting Rain’s pack himself. “It is GranTel that I require.” He grunted, tossing the Double Gamgee through the open door. It landed with a heavy jangling thump.
+
+“Hey!” Rain shouted, scrambling to his feet.
+
+“It will be safe until we return, provided the torch inside the strongroom does not expire,” Tallheart repeated, heedless of Rain’s reaction. “I have hidden larger caches than this.”
+
+Ameliah nodded, getting to her feet as well. “You already pulled out everything you need, Rain. We can’t afford to be weighed down. I’ll admit it was nice having luxuries, but enough is enough.”
+
+“I’m not arguing that,” Rain said, glaring at Tallheart from within the strongroom. He knelt down, then began fussing with the pack. “Could you be a bit more gentle with my stuff, please?”
+
+“Anything that has broken may be replaced,” Tallheart replied, grasping Rain by the collar of his armor and hoisting him from the ground. He deposited him into the tunnel, ignoring his spluttered protests and ineffectual flailing, then closed the enormous door behind him with his foot. The heavy hinges glided smoothly, and there was a solid clang as the door slammed into its metal frame.
+
+Ameliah covered her mouth, knowing that she shouldn’t laugh.
+
+Another clang followed moments later as Tallheart lowered the heavy bar, then casually bent it into place, sealing the pack inside along with one of their remaining torches. There was a tiny grate in the door near the ceiling so the flames wouldn’t starve, but it was far too small to allow any of the local monsters through.
+
+“Do not concern yourselves with trifles,” Tallheart said, his tone far from amused. He hefted his mobile forge, not bothering to don it before stalking away. “Come. You have wasted enough time.”
+
+Ameliah’s smile faded to a frown. She shared a look with Rain, who seemed to have gotten over his indignation rapidly. Tallheart’s tone had made it clear that he wasn’t just playing around. He was actually annoyed with them.
+
+Rain gave a helpless shrug, then bent, scooping up his helmet. Ameliah did the same, slipping it onto her head. She left the visor up, collecting her bow before following Tallheart. She paused upon reaching the edge of the flickering torchlight, glancing back at Rain. He was scrambling to don her pack, which he’d be carrying for her, as well as the two enormous canteens of water that they were bringing. He appeared to be having trouble with the straps.
+
+She snorted, moving back toward him. “Here, let me help.”
+
+Glancing over her shoulder, she saw that Tallheart was already out of sight, though she could hear him plodding further into the darkness. She shook her head, then returned her attention to Rain, brushing aside his hands so she could adjust the buckles for him.
+
+Her frown deepened as she worked. Tallheart was obviously worried about what had happened to Rain’s soul. Rain was putting on a brave face, but the danger was far from past. Whatever was bothering the cervidian seemed to be more than that, however. If I had to guess, he’s getting anxious about the depth. This has to be hard for him.
+
+Finished with the buckles, she stepped away. “There.”
+
+“Thanks,” Rain said. He grabbed the torch from the wall, then stooped to retrieve his shield, now coated with adamant to match his armor. The canteens clonked softly against his armor as he moved, the sound muffled by the Deepcat fur they’d wrapped them with. Finishing with his shield’s straps, Rain gestured down the tunnel with the torch. “Shall we?”
+
+Ameliah nodded, and the two of them set off at a brisk walk, hurrying after their grumbly friend. By the time they caught up, Tallheart was already standing at the precipice of the shaft, peering down into the depths. He was wearing his forge now, as well as his Darksight artifact. The crystal lenses were glowing pale blue, held by the wire frame supporting them in front of his eyes.
+
+“Oh hey, I haven’t seen those in a while,” Rain said, coming to a stop and gesturing with the torch. “I’ve been meaning to ask you—“
+
+Moving quickly to fulfill her promise, Ameliah snapped her arm up, then slammed Rain’s visor down before he could complete the question.
+
+“Ah!” he shouted, dropping the torch in surprise. Fortunately, it didn’t tumble over the edge.
+
+Ameliah closed her own visor, her voice echoing slightly as she spoke. “Keep your visor down from now on. This is where it gets dangerous.”
+
+“You startled the hell out of me!” Rain said, pressing a hand to his chest.
+
+“Hells,” Tallheart said, and Ameliah aborted her reply in mild surprise.
+
+“What?” Rain asked.
+
+“Hells,” Tallheart repeated, still staring down into the darkness. “Plural.”
+
+“I didn’t mark you as devoted,” Ameliah said, arching an eyebrow.
+
+Tallheart snorted, turning to look at her. “I am not. The gods hold no regard for my people, and I have none for them.” He shook his head, then looked back down at the darkness. “It does not matter what I believe. Rain is speaking common. If he is going to use the expression, he should use it correctly.”
+
+Even with both their helmets closed, Ameliah could tell that Rain wanted to argue, so she waved at him, getting his attention. She then spoke to him in hand code, continuing the conversation where Tallheart couldn’t see. “Stay focused. Don’t bother Tallheart. And besides, he has a point.”
+
+“I suppose,” Rain said aloud, then signed back. “Have you noticed his hand?”
+
+Ameliah arched an eyebrow, then looked to see Tallheart flexing the fingers of his left hand open and closed at his side. She looked back up at Rain, who’d released the grip of his shield so he could form proper sentences.
+
