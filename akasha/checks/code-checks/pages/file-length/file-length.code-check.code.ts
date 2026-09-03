@@ -16,6 +16,8 @@ const TEST = "test"
 
 const ENTRIES = "jsonl"
 
+const RECORDS = "json"
+
 const MARKUP = "xml"
 
 const TEST_RELIEF =
@@ -26,7 +28,7 @@ const MARKUP_RELIEF =
 
 function ceilingFor(path: string): number {
   const held = partedIn(path)?.held
-  if (held === ENTRIES) return ENTRY_CEILING
+  if (held === ENTRIES || held === RECORDS) return ENTRY_CEILING
   if (held === MARKUP) return MARKUP_CEILING
   return CEILING
 }
