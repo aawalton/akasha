@@ -22,5 +22,13 @@ export const lowestInboxCount = {
       invariantKind: "departure",
       statement: "A zero says the inbox reached empty rather than saying nothing was read.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reading of a hundred means a hundred or more, which is where the count stops.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lowest inbox count is captured by trace.",
+    },
   ],
 } as const satisfies NumberProperty

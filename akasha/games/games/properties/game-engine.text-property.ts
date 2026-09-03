@@ -10,4 +10,10 @@ export const gameEngine = {
   definition: "the engine a game is run on",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The engine a game names settles how that game's page draws.",
+    },
+  ],
 } as const satisfies TextProperty
