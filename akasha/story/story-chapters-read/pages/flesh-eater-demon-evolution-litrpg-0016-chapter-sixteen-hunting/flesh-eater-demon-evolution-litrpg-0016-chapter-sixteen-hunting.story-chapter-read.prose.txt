@@ -156,3 +156,52 @@ Jumping straight to business, Pyre pulled up the descriptions of the traits. Int
 
 Trait: Telepathy (Sloth)Allows user to communicate telepathically with a maximum number of targets equal to this trait’s level.A sloth fiend’s telepathy has the longest range among fiends, and that range increases with trait level. However, sloth fiends can only use telepathy on willing targets. The target may sever the telepathic connection at any point.Subtrait Slots: 5
 
+Trait: Elemental Resistance (Sloth)Strengthens user’s resistance against both magical and non-magical fire and cold. The effectiveness of this trait is proportional to its level.Sloth fiends gain additional elemental resistance when standing still.Subtrait Slots: 5
+
+Trait: Regeneration (Sloth)Boosts the user’s self-healing capabilities to a degree proportional with this trait’s level.Sloth fiends regenerate faster when standing still.Subtrait Slots: 4
+
+Pyre quickly read through the three options, and yep, the sloth pick was definitely starting to matter now. All things considered, she thought sloth fiends got the short end of the stick when it came to [Telepathy]. Sure, they apparently had the longest range, but the fact that someone could just decide to block the telepathy at any point noticeably limited its uses. It was still good for communication, especially with allies, but Pyre didn’t exactly have a lot of those, and she didn’t think she’d end up with many, either. She didn’t feel too bad about discarding that pick.
+
+The remaining two traits, on the other hand, seemed to better highlight the sloth fiend’s advertised defensive capabilities. Getting extra shit for standing still sounded like a great deal to Pyre.
+
+She liked both options, but she pretty quickly settled on [Regeneration]. It was more immediately and generally useful, and the sloth subspecies bonus would probably work better for it. If she was in a situation where she was getting pelted with, like, magic fire or something, being able to further reduce damage by standing still would be nice, but she’d still need to move at some point to actually approach the attacker. At that point, the bonus wouldn’t work anymore.
+
+[Regeneration]’s sloth bonus technically had a similar issue to [Elemental Resistance], but the difference was that it was a lot more useful during down time. Plus, better healing was just too good to pass up.
+
+[You have selected the [Regeneration (Sloth)] trait]
+
+Next, Pyre moved on to the new skill she’d gotten. After [Impact Absorption]’s giant wall of text, she was already mentally preparing herself for a long description when she pulled the screen up.
+
+Skill: Basic Weight Manipulation Level 1Once activated, this skill allows the user to manipulate their bodyweight for a duration equal to this skill’s level x 1 second. The degree to which the user’s weight can be manipulated is equal to an X% increase or decrease in the user’s weight where X = this trait’s level x 30. After the skill’s full duration has passed or after the skill is deactivated, the user will return to their regular weight. At Basic proficiency, the user can only manipulate their own body’s weight. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+All things considered, the description length could’ve been a lot worse. It helped that the skill itself was so interesting.
+
+So, right now she could increase or decrease her weight by 30%. The duration made her do a double take at first, but she could probably use the skill to enhance attacks, maybe help her speed if she suddenly had to dodge something. The cooldown was also pretty bad for the skill’s duration, but it would go down with levels. It was still significantly shorter than the cooldown for her other two skills.
+
+Well, assuming nights here didn’t last days or something, she still had a few hours until the sun rose. Seemed like a perfect time to test out the skill. Pyre mentally closed the notifications, then scanned the forest to see if she could find any more animals that hadn’t been scared off yet. Worst case scenario she’d punch a few trees or something.
+
+While she was at it, she put 3 points into strength, 2 into agility to round it out, 2 into constitution, and 3 into magic resistance. She pulled up her current stat sheet and was quite pleased with how it looked. It was funny to think about how empty it had been when she’d first viewed it after waking up.
+
+Name: Pyre [Tier 1]Species: [Lesser Fiend (Sloth), Lvl 12]Class: NoneTitles: Reincarnator, Amnesia, Above-Average Sentience, Cold Blooded, First EvolutionStatsStrength: 85Agility: 50Constitution: 113Magic Resistance: 83Intelligence: 40Points: 0Traits: [Amorphous 3], [Flesh Eater 5], [Scent 3], [Eye Growth 2], [Ossification 3], [Sound Perception 2], [Keratin 1], [Vocalization 2], [Regeneration (Sloth) 1]Skills [3/5]: [Basic Flesh Sculpting 1], [Basic Impact Absorption 1], [Basic Weight Manipulation 1]Subtrait Shards: [Thermal Vision 2/3], [Species Scent 3/4], [Omnivorous 6/10], [Far Sight 1/5], [Scales 1/9], [Vibration Sense 2/7], [Mobile Ears 1/6]Class Shards: [Warrior 5/5], [Ranger 3/5], [Mage 1/5]
+
+Thinking about her awakening brought her mind back to Pax and the soul scan. Her eyes narrowed. Missing most of her soul, huh? She felt like the revelation should hit her more, and it did spark some curiosity—mostly about how the hell her soul got shattered in the first place—but her emotions were still mostly flat. Maybe it was because of the missing soul chunks.
+
+Centuries or decades, Pax had said. A long time for a human. Probably not for a demon, though.
+
+What would even happen when her soul started to reform? Would she get her memories back? She’d probably be able to use magic once it was “whole” enough, which would be cool at least. Would a complete soul remove the hollow feeling that seemed to follow every brief spurt of emotion? Or was that just an inherent part of her being that had nothing to do with the state of her soul.
+
+There was also the problem of how to hunt down those “soul shards” in the first place, if she did decide to go after them. She didn’t know how many there were or where they were, and frankly, she didn’t feel too keen on asking Pax for another deal so quickly. She still found the current one shady as hell.
+
+Maybe she’d wait until after she found whatever object this was before deciding what to do about her soul. If Pax turned out to have been telling the truth about the “not dangerous” part, she’d be more willing to make another deal. In the meantime, she could see if she found any mentions of scattered soul shards on her travels, but she wasn’t going to pressure herself into hunting them down or anything. One thing at a time, she decided.
+
+Pyre contorted her body over to the front of a particularly large tree. It was a normal tree save for maybe its size (its trunk was nearly as thick as her), but it was about to get fucked-up by virtue of being her skill testing punching bag. Too bad for it that she hadn’t found any more animals.
+
+First she’d get the crystals so she could reach her second evolution requirements, then she’d head south and grab whatever the fuck Pax wanted. Then she’d go from there.
+
+Coiling her body back, the demon eyed the thick tree trunk. In one sharp motion, she hurled herself at its center, activating [Weight Manipulation] a second before she made contact.
+
+A flash of heat passed through her. She felt the vague sensation of herself getting heavier before she slammed into the tree with a loud crash. Bark snapped and cracked, the surface of the trunk splitting and folding under the impact.
+
+Another crack, and the entire tree tipped over. It landed hard on the forest floor with an echoing thud. Pyre grinned to herself.
+
+Yeah, she thought. She could work with this.
