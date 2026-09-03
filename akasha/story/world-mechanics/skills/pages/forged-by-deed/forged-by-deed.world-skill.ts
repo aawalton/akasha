@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const forgedByDeed = {
   id: "01a06575-9810-736f-82be-c98ad0c85b83",

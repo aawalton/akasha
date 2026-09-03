@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const gasSight = {
   id: "01a06575-9814-75e7-bff9-96ddcd3f44a1",

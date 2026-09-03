@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const greatCleave = {
   id: "01a06575-9816-719f-95a0-3fe61d8cd3f0",

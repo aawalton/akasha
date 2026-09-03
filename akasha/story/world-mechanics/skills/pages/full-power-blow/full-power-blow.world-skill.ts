@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fullPowerBlow = {
   id: "01a06575-9811-71b7-8ed9-660b38db471a",

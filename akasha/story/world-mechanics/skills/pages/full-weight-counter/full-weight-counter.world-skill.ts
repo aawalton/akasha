@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fullWeightCounter = {
   id: "01a06575-9811-7a78-8f64-a784f255f340",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fleetwindRun = {
   id: "01a06575-980e-7a85-ac0f-ef490c585994",

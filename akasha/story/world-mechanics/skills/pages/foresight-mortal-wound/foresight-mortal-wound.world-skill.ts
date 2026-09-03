@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const foresightMortalWound = {
   id: "01a06575-9810-7202-a8cf-3d3cc3d99b58",

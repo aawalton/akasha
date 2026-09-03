@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const greaterResistancePhysical = {
   id: "01a06575-9817-7324-b5e9-1261d8633347",

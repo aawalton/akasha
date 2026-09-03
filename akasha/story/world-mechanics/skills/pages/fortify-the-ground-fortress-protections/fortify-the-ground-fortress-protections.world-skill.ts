@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fortifyTheGroundFortressProtections = {
   id: "01a06575-9810-7431-86a9-799125f748a4",

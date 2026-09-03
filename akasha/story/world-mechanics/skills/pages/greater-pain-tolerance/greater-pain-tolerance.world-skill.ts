@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const greaterPainTolerance = {
   id: "01a06575-9817-74c1-a64d-3b5fd37bf2b0",

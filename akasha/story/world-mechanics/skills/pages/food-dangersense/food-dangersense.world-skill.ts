@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const foodDangersense = {
   id: "01a06575-980f-726a-a7d7-7f6a60c676c4",

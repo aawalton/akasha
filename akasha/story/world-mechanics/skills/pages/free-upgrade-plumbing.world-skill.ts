@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const freeUpgradePlumbing = {
   id: "01a06575-9810-72fd-9774-a14fbad3ca75",

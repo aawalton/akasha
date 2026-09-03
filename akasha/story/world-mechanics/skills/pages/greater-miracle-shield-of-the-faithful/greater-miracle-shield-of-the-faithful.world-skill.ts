@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const greaterMiracleShieldOfTheFaithful = {
   id: "01a06575-9817-76dd-9f5a-ee102f21ac10",

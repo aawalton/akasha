@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const formALine = {
   id: "01a06575-9810-7601-9dce-28d42b996aa9",

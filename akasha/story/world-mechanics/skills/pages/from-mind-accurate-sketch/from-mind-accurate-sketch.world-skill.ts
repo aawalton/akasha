@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fromMindAccurateSketch = {
   id: "01a06575-9811-7dc0-8137-184147e1442c",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const fourfoldReinforcement = {
   id: "01a06575-9810-77b7-9403-6ee998812df9",

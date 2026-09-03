@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const giftOfTheReclaimerWalledCities = {
   id: "01a06575-9815-78a8-be1f-b979127f1cad",

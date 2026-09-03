@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const freeElbow = {
   id: "01a06575-9810-7182-907a-77a895d620b1",

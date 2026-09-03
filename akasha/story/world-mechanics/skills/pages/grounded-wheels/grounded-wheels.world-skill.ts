@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const groundedWheels = {
   id: "01a06575-9817-7af1-a766-8d80bc02d38b",

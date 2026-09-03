@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const haltAction = {
   id: "01a06575-9818-75e8-9b4d-37b037beadd3",

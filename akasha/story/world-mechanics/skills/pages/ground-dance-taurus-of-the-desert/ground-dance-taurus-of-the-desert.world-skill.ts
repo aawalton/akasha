@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const groundDanceTaurusOfTheDesert = {
   id: "01a06575-9817-73a3-9435-c18e89bbfe07",

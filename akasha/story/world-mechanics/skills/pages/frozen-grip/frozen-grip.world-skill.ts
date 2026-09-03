@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const frozenGrip = {
   id: "01a06575-9811-7ec7-ad5e-dd8ae31d1164",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const gutSense = {
   id: "01a06575-9817-7382-92d0-eebb9744625a",

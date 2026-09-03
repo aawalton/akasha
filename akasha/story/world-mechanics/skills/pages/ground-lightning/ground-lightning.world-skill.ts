@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const groundLightning = {
   id: "01a06575-9817-7651-bd60-6ac92b363b50",

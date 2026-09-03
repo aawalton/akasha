@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const gravityHook = {
   id: "01a06575-9816-71be-b089-9e7c19eb43b8",

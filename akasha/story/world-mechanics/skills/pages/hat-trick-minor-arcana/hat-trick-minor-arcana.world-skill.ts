@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hatTrickMinorArcana = {
   id: "01a06575-9818-70de-8cd8-2712f96e693c",

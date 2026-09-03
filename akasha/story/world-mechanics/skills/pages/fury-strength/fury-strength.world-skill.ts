@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const furyStrength = {
   id: "01a06575-9811-76b7-b662-a30c6d496420",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const foresightCommodities = {
   id: "01a06575-9810-7597-97c2-554ade63378d",

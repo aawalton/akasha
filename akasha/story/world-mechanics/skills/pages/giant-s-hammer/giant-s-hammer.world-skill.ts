@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const giantSHammer = {
   id: "01a06575-9814-7052-a777-a26a0083dea5",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flickerArrow = {
   id: "01a06575-980e-769b-884e-d9d48fc628d0",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const followMyCommandWorm = {
   id: "01a06575-980f-71e4-8078-c77ca3a09eee",

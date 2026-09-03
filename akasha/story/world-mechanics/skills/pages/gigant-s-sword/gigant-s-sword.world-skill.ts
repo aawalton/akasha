@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const gigantSSword = {
   id: "01a06575-9815-73df-89bb-637dbc250320",

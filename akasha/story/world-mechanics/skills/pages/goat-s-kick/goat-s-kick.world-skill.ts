@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const goatSKick = {
   id: "01a06575-9815-7d74-bfcc-a9ae6e3e29df",

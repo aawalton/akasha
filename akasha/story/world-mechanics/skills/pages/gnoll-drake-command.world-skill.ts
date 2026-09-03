@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const gnollDrakeCommand = {
   id: "01a06575-9815-7674-9cd4-42cb87f9d628",

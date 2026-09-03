@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const giantSStab = {
   id: "01a06575-9815-74ae-857d-dab125bd349b",

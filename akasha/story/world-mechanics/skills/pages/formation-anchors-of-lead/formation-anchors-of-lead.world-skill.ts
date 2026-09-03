@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const formationAnchorsOfLead = {
   id: "01a06575-9810-702d-b968-311e15452768",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const freeRefillScentedSoapOfTaima = {
   id: "01a06575-9810-7e53-bead-6784af10d92c",

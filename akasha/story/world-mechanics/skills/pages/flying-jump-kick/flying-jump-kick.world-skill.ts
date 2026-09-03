@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flyingJumpKick = {
   id: "01a06575-980f-753d-a0c3-c08fae2ee35c",

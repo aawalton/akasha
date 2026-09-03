@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const hardenMetal = {
   id: "01a06575-9818-7e58-b60a-cbc7de7e6088",

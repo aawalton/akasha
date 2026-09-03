@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const groundElectricity = {
   id: "01a06575-9817-7ff7-b0cc-6238f0e5149a",

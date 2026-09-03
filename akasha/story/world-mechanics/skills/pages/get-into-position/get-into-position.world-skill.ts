@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const getIntoPosition = {
   id: "01a06575-9814-764f-96a7-6c40c3ce8901",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const guiseOfNeutrality = {
   id: "01a06575-9817-7b92-9a19-558f0345d002",

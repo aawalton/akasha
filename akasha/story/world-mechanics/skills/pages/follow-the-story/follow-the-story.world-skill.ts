@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const followTheStory = {
   id: "01a06575-980f-7d84-a1be-dbb7c25ec74a",

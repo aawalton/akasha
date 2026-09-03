@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flurryOfBlows = {
   id: "01a06575-980f-7493-827a-396445f41510",

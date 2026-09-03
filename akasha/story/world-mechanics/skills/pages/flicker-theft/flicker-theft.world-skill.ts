@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flickerTheft = {
   id: "01a06575-980e-7ecb-b7cc-97a1d3b951f3",

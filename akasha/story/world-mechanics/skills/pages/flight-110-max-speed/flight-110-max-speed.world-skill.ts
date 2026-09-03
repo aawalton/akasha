@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const flight110MaxSpeed = {
   id: "01a06575-980e-794c-9d03-6ee5b5b1c5fe",

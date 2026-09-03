@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const frenzyCuts = {
   id: "01a06575-9811-7baa-8434-7945a2d8320f",

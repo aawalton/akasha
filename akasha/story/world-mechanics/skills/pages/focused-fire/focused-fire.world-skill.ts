@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const focusedFire = {
   id: "01a06575-980f-763e-b1cd-d055db7d5b4f",

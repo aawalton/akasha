@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const halfGiantSStride = {
   id: "01a06575-9818-73b0-ba3c-2dafce95c4b6",

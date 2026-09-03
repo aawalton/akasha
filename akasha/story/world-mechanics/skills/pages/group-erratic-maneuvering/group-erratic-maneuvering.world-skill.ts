@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const groupErraticManeuvering = {
   id: "01a06575-9817-7528-8e6b-44ffc12621e9",

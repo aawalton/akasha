@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const focusOfIre = {
   id: "01a06575-980f-70cf-9f3c-dc0566860ba2",

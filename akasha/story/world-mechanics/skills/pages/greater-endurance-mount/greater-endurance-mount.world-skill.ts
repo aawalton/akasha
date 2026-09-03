@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const greaterEnduranceMount = {
   id: "01a06575-9817-731e-9a6a-d1a1fb552764",

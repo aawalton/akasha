@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const gracefulParry = {
   id: "01a06575-9816-745b-b19c-4e57bf122baf",

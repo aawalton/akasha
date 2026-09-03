@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const freeAscent50Feet = {
   id: "01a06575-9810-7d7e-814b-76e9fd0be007",

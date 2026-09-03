@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const goblinbaneUnitSupremeWeaponProficiencySwords = {
   id: "01a06575-9815-7215-8ac6-cc313c7c8e29",

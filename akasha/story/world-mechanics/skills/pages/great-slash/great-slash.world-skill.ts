@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const greatSlash = {
   id: "01a06575-9816-7e3f-9f28-6bbde3cca87d",
