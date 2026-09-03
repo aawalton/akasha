@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./audit-reading": "./cluster-checks/modules/audit-reading/audit-reading.module.code.ts",
     "./change-walking": "./modules/change-walking/change-walking.module.code.ts",
     "./checking": "./modules/checking/checking.module.code.ts",
     "./judging": "./modules/judging/judging.module.code.ts",

@@ -4,8 +4,6 @@ export const summary =
 import { resolve } from "node:path"
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import { codeRoot } from "@akasha/pages-system/code-root"
-import type { AuditReading } from "@tools/lib/audit-reading"
-import { renderAuditReading, summarizeAudit } from "@tools/lib/audit-reading"
 import { parseArgs } from "@tools/lib/parse-args"
 import {
   ALLOWED_TO_REACH,
@@ -20,6 +18,11 @@ import {
   WRITE_VERBS,
 } from "@tools/lib/tracking-funnel"
 import type { CommandHelp } from "@tools/ops/surface"
+import {
+  type AuditReading,
+  renderAuditReading,
+  summarizeAudit,
+} from "../../modules/audit-reading/audit-reading.module.code.ts"
 
 const SUBJECT = "reaches around the day-place funnel anywhere outside akasha/"
 

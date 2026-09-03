@@ -1,5 +1,6 @@
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
+import { renderAuditReading, summarizeAudit } from "@akasha/checks/audit-reading"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
@@ -11,9 +12,6 @@ import {
 import type { StampedArtifact } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
 import { parseEsoDocApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiDocPath } from "@akasha/temper-eso-paths/eso-paths"
-// The rendering of an audit reading still stands whole under `tools/lib`; the
-// akasha module beside it carries the summary alone.
-import { renderAuditReading, summarizeAudit } from "@tools/lib/audit-reading"
 
 const OPERATIONAL = 3
 
