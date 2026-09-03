@@ -6,8 +6,8 @@ export const probeDup = {
   id: "01a06600-0000-7000-8000-000000000002",
   pageTypeSlug: "text-property",
   slug: "probe-dup",
-  propertySlug: "probe-dup",
-  definition: "a seeded control that proves whether a shared entry file is trimmed 2",
+  propertySlug: "probe-dup-2",
+  definition: "a seeded control proving whether a shared entry file is trimmed 2",
   max: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty
