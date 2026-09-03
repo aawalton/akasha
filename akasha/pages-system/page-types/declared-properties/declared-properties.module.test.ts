@@ -4,7 +4,13 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { valueAt } from "../../pages/value/page-value.module.code.ts"
-import { type Carried, declarationsOf, propertiesOf } from "./declared-properties.module.code.ts"
+import {
+  type Carried,
+  declarationsOf,
+  propertiesIfNamed,
+  propertiesOf,
+  sourceIn,
+} from "./declared-properties.module.code.ts"
 
 const scratch = scratchWorld()
 

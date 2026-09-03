@@ -236,6 +236,17 @@ export function propertiesOf(
   return propertiesFrom(pageTypeSlug, sourceIn(given, pageOf))
 }
 
+// The tolerant reading in the `Of` shape, for a reader asking about a page type it did not pick.
+// `reaching` answers which property a key reaches and takes null for none, so a type whose chain
+// cannot be read reaches nothing there — an answer rather than a refusal, and named as such.
+export function propertiesIfNamedOf(
+  pageTypeSlug: string,
+  given: string | Reading,
+  pageOf: (path: string) => Value | null
+): readonly Carried[] | null {
+  return propertiesIfNamed(pageTypeSlug, sourceIn(given, pageOf))
+}
+
 function schemaAmong(schemas: ReadonlyMap<string, Schema>, said: string): Schema | null {
   const address = addressIn(said)
   if (address.kind === "qualified") {

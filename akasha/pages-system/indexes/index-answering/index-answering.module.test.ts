@@ -100,6 +100,7 @@ function seeded(): string {
   const root = scratch.rootFor("akasha-index-answering-")
   listedFiled(root, MODULE, "held", [{ path: HELD_AT, id: HELD_ID }])
   listedFiled(root, PAGE_TYPE, MODULE, [{ path: TYPE_AT, id: TYPE_ID }])
+  listedFiled(root, PAGE_TYPE, "domain", [{ path: DOMAIN_AT, id: DOMAIN_ID }])
   idFiled(root, HELD_ID, [{ path: HELD_AT, id: HELD_ID }])
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   pathFiled(root, HELD_AT, [{ path: HELD_AT, id: HELD_ID }])

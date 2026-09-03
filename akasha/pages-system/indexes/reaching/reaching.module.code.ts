@@ -77,7 +77,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     const found = carried.get(pageTypeSlug)
     if (found !== undefined) return found
     const made = new Map<string, string>()
-    for (const one of propertiesOf(pageTypeSlug, reading, pageOf)) {
+    for (const one of propertiesIfNamedOf(pageTypeSlug, reading, pageOf) ?? []) {
       made.set(one.key, one.pagePropertySlug)
     }
     carried.set(pageTypeSlug, made)
