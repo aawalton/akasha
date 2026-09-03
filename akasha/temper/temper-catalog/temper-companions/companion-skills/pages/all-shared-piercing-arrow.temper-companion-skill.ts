@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedPiercingArrow = {
-  id: "01a05fd0-1d6f-7b21-9e2c-b0648419bf33",
+  id: "019e668d-c54e-717c-857e-6243e6cc27f5",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-piercing-arrow",
   key: "shared-piercing-arrow",

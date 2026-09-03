@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const ceriaSpringwater = {
-  id: "01a05fda-9347-718d-a5a3-687710c3c5c8",
+  id: "019dda20-9adf-7228-b05e-34eadfba7800",
   pageTypeSlug: "temper-account-character",
   slug: "ceria-springwater",
   title: "Ceria Springwater",

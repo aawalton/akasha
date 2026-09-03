@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const kheltaTheEternal = {
-  id: "01a05fda-9349-715c-8f0a-9174f2f8d62e",
+  id: "019dda20-8f62-7a6f-a9de-662e594f3485",
   pageTypeSlug: "temper-account-character",
   slug: "khelta-the-eternal",
   title: "Khelta the Eternal",

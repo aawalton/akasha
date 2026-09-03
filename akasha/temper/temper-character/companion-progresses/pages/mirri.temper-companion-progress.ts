@@ -1,7 +1,7 @@
 import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
 
 export const mirri = {
-  id: "01a05fd0-d54d-76c6-8c55-71500102f475",
+  id: "019dda20-e3d4-7ab6-b3df-6c2fa1e10f54",
   pageTypeSlug: "temper-companion-progress",
   slug: "mirri",
   title: "Mirri Elendis",

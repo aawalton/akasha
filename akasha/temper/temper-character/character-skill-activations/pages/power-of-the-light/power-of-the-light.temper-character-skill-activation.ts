@@ -1,7 +1,7 @@
 import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.ts"
 
 export const powerOfTheLight = {
-  id: "01a05fda-9351-7f2f-a6fa-e59bec3af8ae",
+  id: "019e646c-c4e7-70ab-a496-c082da9ab7f7",
   pageTypeSlug: "temper-character-skill-activation",
   slug: "power-of-the-light",
   title: "Power of the Light",

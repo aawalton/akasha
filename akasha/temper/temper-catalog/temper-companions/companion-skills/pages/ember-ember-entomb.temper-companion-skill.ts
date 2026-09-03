@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const emberEmberEntomb = {
-  id: "01a05fd0-1d7a-77d7-a256-4885e27eac02",
+  id: "019e6484-385b-73a0-85be-7f18e0d28b36",
   pageTypeSlug: "temper-companion-skill",
   slug: "ember-ember-entomb",
   key: "ember-entomb",

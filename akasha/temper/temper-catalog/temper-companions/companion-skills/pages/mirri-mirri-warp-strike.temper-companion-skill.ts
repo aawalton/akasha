@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const mirriMirriWarpStrike = {
-  id: "01a05fd0-1d81-76c1-a4ab-b9465a126a27",
+  id: "019e6484-3890-7e7f-a758-fe111e6bfedb",
   pageTypeSlug: "temper-companion-skill",
   slug: "mirri-mirri-warp-strike",
   key: "mirri-warp-strike",

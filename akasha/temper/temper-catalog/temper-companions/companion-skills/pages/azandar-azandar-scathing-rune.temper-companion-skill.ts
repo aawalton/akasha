@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const azandarAzandarScathingRune = {
-  id: "01a05fd0-1d75-7e71-b294-134198d39600",
+  id: "019e6484-383b-7cf7-be2d-7d77fc7c221c",
   pageTypeSlug: "temper-companion-skill",
   slug: "azandar-azandar-scathing-rune",
   key: "azandar-scathing-rune",

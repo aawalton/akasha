@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const tanlorinTanlorinExplosiveFortitude = {
-  id: "01a05fd0-1d85-76fa-b6fb-b0c9e1fe69d7",
+  id: "019e6484-38a2-74a4-bf45-812de424b289",
   pageTypeSlug: "temper-companion-skill",
   slug: "tanlorin-tanlorin-explosive-fortitude",
   key: "tanlorin-explosive-fortitude",

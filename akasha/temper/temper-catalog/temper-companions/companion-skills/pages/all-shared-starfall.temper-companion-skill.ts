@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedStarfall = {
-  id: "01a05fd0-1d73-7653-9992-95d24a15e7d4",
+  id: "019e6688-86f6-787b-878e-b7cf86af8bca",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-starfall",
   key: "shared-starfall",

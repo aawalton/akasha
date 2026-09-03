@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const tanlorinTanlorinInternalConflict = {
-  id: "01a05fd0-1d85-7ec3-9bdb-df91fe60dc95",
+  id: "019e6484-38a6-7733-b11c-8f5fa210973b",
   pageTypeSlug: "temper-companion-skill",
   slug: "tanlorin-tanlorin-internal-conflict",
   key: "tanlorin-internal-conflict",

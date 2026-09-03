@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const maviolaEl = {
-  id: "01a05fda-934a-7d35-8bea-0aa0b7d4affc",
+  id: "019dda20-8c7c-772a-9cbd-3ae77bd7c136",
   pageTypeSlug: "temper-account-character",
   slug: "maviola-el",
   title: "Maviola El",

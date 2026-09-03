@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const mirriMirriDynamic = {
-  id: "01a05fd0-1d7f-745f-93d7-17056455e150",
+  id: "019e6484-387d-7e76-835a-f1e88c408de4",
   pageTypeSlug: "temper-companion-skill",
   slug: "mirri-mirri-dynamic",
   key: "mirri-dynamic",

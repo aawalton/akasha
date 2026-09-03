@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const zerithVarZerithVarCrescentScythe = {
-  id: "01a05fd0-1d88-70c9-96b0-ff4c5391bce5",
+  id: "019e6484-38b0-75eb-a72e-958b5897f7f0",
   pageTypeSlug: "temper-companion-skill",
   slug: "zerith-var-zerith-var-crescent-scythe",
   key: "zerith-var-crescent-scythe",

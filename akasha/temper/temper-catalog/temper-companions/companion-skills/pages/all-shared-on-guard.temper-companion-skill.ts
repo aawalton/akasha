@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedOnGuard = {
-  id: "01a05fd0-1d6e-7e80-a0bf-9f172d74cf32",
+  id: "019e668d-c557-7728-ab3a-ab5815a71312",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-on-guard",
   key: "shared-on-guard",

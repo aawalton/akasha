@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const emberEmberQuickFix = {
-  id: "01a05fd0-1d7b-7766-894e-c11343931016",
+  id: "019e6484-385e-7e59-ad59-ee3e62563dae",
   pageTypeSlug: "temper-companion-skill",
   slug: "ember-ember-quick-fix",
   key: "ember-quick-fix",

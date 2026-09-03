@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const betnikhStonetooth = {
-  id: "01a05fcf-26a3-7fb7-ba9f-b3cf8ee21b75",
+  id: "019e2fc6-523f-7d83-99ce-ea4ca4a437ca",
   pageTypeSlug: "temper-guild-trader",
   slug: "betnikh-stonetooth",
   title: "Betnikh: Stonetooth",

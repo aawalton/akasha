@@ -1,7 +1,7 @@
 import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
 
 export const sharpAsNight = {
-  id: "01a05fd0-d54d-7798-817a-baef4b6cfbf8",
+  id: "019dda20-ec83-7e9b-a326-01a95d1160da",
   pageTypeSlug: "temper-companion-progress",
   slug: "sharp-as-night",
   title: "Sharp-as-Night",

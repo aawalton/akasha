@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedSnipingSilver = {
-  id: "01a05fd0-1d71-730f-b392-80cb1940b0d8",
+  id: "019e6688-86f5-7d39-ad04-0ae17a3ce28d",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-sniping-silver",
   key: "shared-sniping-silver",

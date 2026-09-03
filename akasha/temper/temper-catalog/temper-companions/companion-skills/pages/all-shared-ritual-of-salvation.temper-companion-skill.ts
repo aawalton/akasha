@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedRitualOfSalvation = {
-  id: "01a05fd0-1d70-7fbb-8eb2-a8102f482d7e",
+  id: "019e6688-86f3-7a04-b617-8c6c9663ce6a",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-ritual-of-salvation",
   key: "shared-ritual-of-salvation",

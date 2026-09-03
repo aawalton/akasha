@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const sharpAsNightSharpColdSnap = {
-  id: "01a05fd0-1d82-7000-bf25-3b6e9d51161c",
+  id: "019e6484-3894-7797-b1cc-dbeb0fbaa368",
   pageTypeSlug: "temper-companion-skill",
   slug: "sharp-as-night-sharp-cold-snap",
   key: "sharp-cold-snap",

@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const theQuarass = {
-  id: "01a05fda-934e-7b69-95ed-c468cb9a56d2",
+  id: "019dda20-9520-7261-a87f-6f2567dd6020",
   pageTypeSlug: "temper-account-character",
   slug: "the-quarass",
   title: "The Quarass",

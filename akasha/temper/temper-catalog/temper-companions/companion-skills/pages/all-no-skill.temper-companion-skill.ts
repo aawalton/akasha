@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allNoSkill = {
-  id: "01a05fd0-1d69-7a2b-81fd-5e2781b03ff0",
+  id: "019e6451-1209-7d71-83b7-bfc64a8b5914",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-no-skill",
   key: "no-skill",

@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const mirriMirriBloodTransfusion = {
-  id: "01a05fd0-1d7f-7228-a6bc-c8f6dc98f786",
+  id: "019e6484-387c-7710-aeee-ac5010dab342",
   pageTypeSlug: "temper-companion-skill",
   slug: "mirri-mirri-blood-transfusion",
   key: "mirri-blood-transfusion",

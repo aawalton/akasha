@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const azandarAzandarTheTriuneWord = {
-  id: "01a05fd0-1d76-7d75-a398-4184ecf8d5cb",
+  id: "019e6484-3841-7504-a5c3-3e506776506a",
   pageTypeSlug: "temper-companion-skill",
   slug: "azandar-azandar-the-triune-word",
   key: "azandar-the-triune-word",

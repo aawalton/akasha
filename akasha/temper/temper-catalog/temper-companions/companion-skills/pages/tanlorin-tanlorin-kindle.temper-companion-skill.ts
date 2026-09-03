@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const tanlorinTanlorinKindle = {
-  id: "01a05fd0-1d86-7c1e-ad44-c321f9bb8ff3",
+  id: "019e6484-38a7-75c3-a9af-75b71469f204",
   pageTypeSlug: "temper-companion-skill",
   slug: "tanlorin-tanlorin-kindle",
   key: "tanlorin-kindle",

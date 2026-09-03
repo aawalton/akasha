@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const azandarAzandarZoneOfRecuperation = {
-  id: "01a05fd0-1d77-7824-81ee-31fb272e2235",
+  id: "019e6484-3845-7a06-872c-e1a6dc8cb1f4",
   pageTypeSlug: "temper-companion-skill",
   slug: "azandar-azandar-zone-of-recuperation",
   key: "azandar-zone-of-recuperation",

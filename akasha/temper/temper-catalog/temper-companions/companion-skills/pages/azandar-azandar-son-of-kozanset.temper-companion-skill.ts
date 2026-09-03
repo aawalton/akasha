@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const azandarAzandarSonOfKozanset = {
-  id: "01a05fd0-1d76-72a4-88c2-f2e74c5923c8",
+  id: "019e6484-383e-7b59-9075-b41bb85d9916",
   pageTypeSlug: "temper-companion-skill",
   slug: "azandar-azandar-son-of-kozanset",
   key: "azandar-son-of-kozanset",

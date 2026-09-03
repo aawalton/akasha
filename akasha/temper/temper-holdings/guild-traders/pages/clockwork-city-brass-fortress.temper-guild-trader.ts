@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const clockworkCityBrassFortress = {
-  id: "01a05fcf-26a4-7a71-8e7d-a409f86da0c2",
+  id: "019e2fc6-5260-720f-b672-960c848ae7cf",
   pageTypeSlug: "temper-guild-trader",
   slug: "clockwork-city-brass-fortress",
   title: "Clockwork City: Brass Fortress",

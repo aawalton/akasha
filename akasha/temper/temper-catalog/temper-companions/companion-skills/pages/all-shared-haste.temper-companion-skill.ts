@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedHaste = {
-  id: "01a05fd0-1d6d-7a86-bc23-2e76a93a28d6",
+  id: "019e6484-382e-745b-b03a-6268beb1740c",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-haste",
   key: "shared-haste",

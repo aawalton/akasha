@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedFirmness = {
-  id: "01a05fd0-1d6c-7d45-8a90-ece61adbbe15",
+  id: "019e6484-382a-7dbd-8802-313f8d8dcfbf",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-firmness",
   key: "shared-firmness",

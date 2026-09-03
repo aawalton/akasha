@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const azandarAzandarVigorousTentacularEruption = {
-  id: "01a05fd0-1d77-738e-8e45-9a360b817d2f",
+  id: "019e6484-3843-7ef8-96c1-69fd47ca7dae",
   pageTypeSlug: "temper-companion-skill",
   slug: "azandar-azandar-vigorous-tentacular-eruption",
   key: "azandar-vigorous-tentacular-eruption",

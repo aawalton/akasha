@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const theDeathOfMagic = {
-  id: "01a05fda-934d-7998-9a31-3dcef59105ba",
+  id: "019dda20-9231-7c70-937c-8215629e57d1",
   pageTypeSlug: "temper-account-character",
   slug: "the-death-of-magic",
   title: "The Death of Magic",

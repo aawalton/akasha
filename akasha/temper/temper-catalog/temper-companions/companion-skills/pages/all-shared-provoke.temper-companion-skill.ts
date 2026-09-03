@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedProvoke = {
-  id: "01a05fd0-1d6f-7e68-885a-6b0ddbd27f87",
+  id: "019e668d-c558-72bb-83be-19b7b5db6635",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-provoke",
   key: "shared-provoke",

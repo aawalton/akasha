@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const emberEmberHurricaneVisage = {
-  id: "01a05fd0-1d7b-7db8-bf90-00b5e301c6b5",
+  id: "019e6484-385c-7fe5-b2a7-27779712886f",
   pageTypeSlug: "temper-companion-skill",
   slug: "ember-ember-hurricane-visage",
   key: "ember-hurricane-visage",

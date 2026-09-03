@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const zerithVarZerithVarPenanceOfLorkhaj = {
-  id: "01a05fd0-1d88-781f-ba17-0f839cbe1768",
+  id: "019e6484-38b2-734c-a763-1fecdd14d69f",
   pageTypeSlug: "temper-companion-skill",
   slug: "zerith-var-zerith-var-penance-of-lorkhaj",
   key: "zerith-var-penance-of-lorkhaj",

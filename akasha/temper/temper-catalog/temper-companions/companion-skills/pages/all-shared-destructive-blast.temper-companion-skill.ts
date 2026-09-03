@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedDestructiveBlast = {
-  id: "01a05fd0-1d6c-7ad8-9750-383a61abf8f4",
+  id: "019e668d-c552-7c9f-9836-7e129d2978d5",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-destructive-blast",
   key: "shared-destructive-blast",

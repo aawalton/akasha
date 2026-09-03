@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const tanlorinTanlorinHazeOfCinders = {
-  id: "01a05fd0-1d85-783d-acc0-37e555d1bb12",
+  id: "019e6484-38a4-75a3-96be-0f4376392195",
   pageTypeSlug: "temper-companion-skill",
   slug: "tanlorin-tanlorin-haze-of-cinders",
   key: "tanlorin-haze-of-cinders",

@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const isobelIsobelPenetratingStrikes = {
-  id: "01a05fd0-1d7e-7361-a228-1f73533b0118",
+  id: "019e6484-3876-7084-9250-0cf2b301a826",
   pageTypeSlug: "temper-companion-skill",
   slug: "isobel-isobel-penetrating-strikes",
   key: "isobel-penetrating-strikes",

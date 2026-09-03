@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedSkeletalAegis = {
-  id: "01a05fd0-1d71-7532-ba62-6418909468c8",
+  id: "019e6688-86f5-71bd-a87c-0282a2c22291",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-skeletal-aegis",
   key: "shared-skeletal-aegis",

@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const tanlorinTanlorinIgneousArmor = {
-  id: "01a05fd0-1d85-7050-a927-f552313827e3",
+  id: "019e6484-38a5-7607-82f5-b623e4ff3f9b",
   pageTypeSlug: "temper-companion-skill",
   slug: "tanlorin-tanlorin-igneous-armor",
   key: "tanlorin-igneous-armor",

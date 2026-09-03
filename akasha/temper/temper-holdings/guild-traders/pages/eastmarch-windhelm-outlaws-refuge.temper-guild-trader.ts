@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const eastmarchWindhelmOutlawsRefuge = {
-  id: "01a05fcf-26a8-7690-a803-1f7c67152365",
+  id: "019e2fc6-5246-76e2-97d6-c14c92d0bdb9",
   pageTypeSlug: "temper-guild-trader",
   slug: "eastmarch-windhelm-outlaws-refuge",
   title: "Eastmarch: Windhelm Outlaws Refuge",

@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedRejuvenation = {
-  id: "01a05fd0-1d70-7b2c-ad58-883d0d1a2871",
+  id: "019e668d-c55a-7617-a74d-90aee967042b",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-rejuvenation",
   key: "shared-rejuvenation",

@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const mirriMirriTwilightMantle = {
-  id: "01a05fd0-1d81-7605-a8ac-45287e2eceb2",
+  id: "019e6484-388e-7c29-977a-8a29e729a0e4",
   pageTypeSlug: "temper-companion-skill",
   slug: "mirri-mirri-twilight-mantle",
   key: "mirri-twilight-mantle",

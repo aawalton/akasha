@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const isobelIsobelHolyGround = {
-  id: "01a05fd0-1d7e-72cd-9944-0f9f50bfa817",
+  id: "019e6484-3874-74af-87c2-31b60ccb5492",
   pageTypeSlug: "temper-companion-skill",
   slug: "isobel-isobel-holy-ground",
   key: "isobel-holy-ground",

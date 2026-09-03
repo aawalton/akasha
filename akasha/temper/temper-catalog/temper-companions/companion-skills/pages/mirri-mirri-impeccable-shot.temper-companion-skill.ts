@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const mirriMirriImpeccableShot = {
-  id: "01a05fd0-1d80-752c-b32d-6c261ef658c2",
+  id: "019e6484-3881-73a7-96c7-246fb67b1dde",
   pageTypeSlug: "temper-companion-skill",
   slug: "mirri-mirri-impeccable-shot",
   key: "mirri-impeccable-shot",

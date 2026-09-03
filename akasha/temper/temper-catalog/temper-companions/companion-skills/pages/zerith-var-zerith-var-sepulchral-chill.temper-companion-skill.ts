@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const zerithVarZerithVarSepulchralChill = {
-  id: "01a05fd0-1d89-72ce-8c86-c0c81b65347b",
+  id: "019e6484-38b4-7c55-9732-c11e5ed18abb",
   pageTypeSlug: "temper-companion-skill",
   slug: "zerith-var-zerith-var-sepulchral-chill",
   key: "zerith-var-sepulchral-chill",

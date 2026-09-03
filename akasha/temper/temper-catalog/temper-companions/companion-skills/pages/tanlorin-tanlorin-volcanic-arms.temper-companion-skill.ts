@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const tanlorinTanlorinVolcanicArms = {
-  id: "01a05fd0-1d87-7801-a250-d97bba163b31",
+  id: "019e6484-38ab-7217-8c87-e54984d87279",
   pageTypeSlug: "temper-companion-skill",
   slug: "tanlorin-tanlorin-volcanic-arms",
   key: "tanlorin-volcanic-arms",

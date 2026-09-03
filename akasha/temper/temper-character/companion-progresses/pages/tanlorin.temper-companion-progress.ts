@@ -1,7 +1,7 @@
 import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
 
 export const tanlorin = {
-  id: "01a05fd0-d54e-7a2d-9376-388d0a11c2d8",
+  id: "019dda20-f278-7506-8166-eb108c3fcfb1",
   pageTypeSlug: "temper-companion-progress",
   slug: "tanlorin",
   title: "Tanlorin",

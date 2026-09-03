@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const isobelIsobelGallantBlitz = {
-  id: "01a05fd0-1d7e-7a36-a1ea-08b31474d596",
+  id: "019e6484-3872-7a18-a4ac-c005928549a5",
   pageTypeSlug: "temper-companion-skill",
   slug: "isobel-isobel-gallant-blitz",
   key: "isobel-gallant-blitz",

@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const clockworkCitySlagTownOutlawsRefuge = {
-  id: "01a05fcf-26a4-731f-acbf-d7b1384f628a",
+  id: "019e2fc6-5260-7fd3-9728-a4db93949953",
   pageTypeSlug: "temper-guild-trader",
   slug: "clockwork-city-slag-town-outlaws-refuge",
   title: "Clockwork City: Slag Town Outlaws Refuge",

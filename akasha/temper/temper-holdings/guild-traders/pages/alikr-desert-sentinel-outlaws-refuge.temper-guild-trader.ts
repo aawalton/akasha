@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const alikrDesertSentinelOutlawsRefuge = {
-  id: "01a05fcf-26a0-726d-a4a7-c8946c0a1c35",
+  id: "019e2fc6-5231-7bd9-b111-286037023c5f",
   pageTypeSlug: "temper-guild-trader",
   slug: "alikr-desert-sentinel-outlaws-refuge",
   title: "Alik'r Desert: Sentinel Outlaws Refuge",

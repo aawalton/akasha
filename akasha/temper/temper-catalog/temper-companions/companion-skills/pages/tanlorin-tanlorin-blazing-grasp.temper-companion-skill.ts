@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const tanlorinTanlorinBlazingGrasp = {
-  id: "01a05fd0-1d84-7be7-aac0-937493397ab4",
+  id: "019e6484-38a1-7344-ba89-c44e4c636b4e",
   pageTypeSlug: "temper-companion-skill",
   slug: "tanlorin-tanlorin-blazing-grasp",
   key: "tanlorin-blazing-grasp",

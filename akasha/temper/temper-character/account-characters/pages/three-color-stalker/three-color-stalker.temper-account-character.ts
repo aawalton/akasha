@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const threeColorStalker = {
-  id: "01a05fda-934e-7d4a-8f24-2904b2b5bfa0",
+  id: "019dda20-a0b3-7b8b-ae04-dae6143ee548",
   pageTypeSlug: "temper-account-character",
   slug: "three-color-stalker",
   title: "Three-Color Stalker",

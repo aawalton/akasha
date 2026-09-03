@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedVanish = {
-  id: "01a05fd0-1d74-7a86-82ab-098d417db2c7",
+  id: "019e6484-3833-71ac-8a70-d0f4721f424b",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-vanish",
   key: "shared-vanish",

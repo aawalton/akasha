@@ -1,7 +1,7 @@
 import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
 
 export const isobel = {
-  id: "01a05fd0-d54c-7266-a6ba-39a437c1aac0",
+  id: "019dda20-e99a-79f8-8c45-d23fbc988e71",
   pageTypeSlug: "temper-companion-progress",
   slug: "isobel",
   title: "Isobel Veloise",

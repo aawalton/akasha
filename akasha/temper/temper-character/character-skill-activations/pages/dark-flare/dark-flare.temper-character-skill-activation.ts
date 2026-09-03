@@ -1,7 +1,7 @@
 import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.ts"
 
 export const darkFlare = {
-  id: "01a05fda-9350-7daa-a41e-0b7c6a2b7be3",
+  id: "019e646c-c4e9-7d87-8cb4-29b1cb1711e0",
   pageTypeSlug: "temper-character-skill-activation",
   slug: "dark-flare",
   title: "Dark Flare",

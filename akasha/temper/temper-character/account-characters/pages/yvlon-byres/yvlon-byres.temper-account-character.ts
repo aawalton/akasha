@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const yvlonByres = {
-  id: "01a05fda-934f-7988-8b37-db6d2c91d8ad",
+  id: "019dda20-9dc3-7f46-9cf3-b2c53c6b2df9",
   pageTypeSlug: "temper-account-character",
   slug: "yvlon-byres",
   title: "Yvlon Byr\u00e8s",

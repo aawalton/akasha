@@ -1,7 +1,7 @@
 import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.ts"
 
 export const radiantOppression = {
-  id: "01a05fda-9351-7530-898d-2da6f19aad86",
+  id: "019e646c-c4ed-7ba0-8d00-df4d036b4685",
   pageTypeSlug: "temper-character-skill-activation",
   slug: "radiant-oppression",
   title: "Radiant Oppression",

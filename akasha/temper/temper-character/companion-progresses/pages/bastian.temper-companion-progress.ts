@@ -1,7 +1,7 @@
 import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
 
 export const bastian = {
-  id: "01a05fd0-d54c-7670-ae0a-7b0c90bd9c92",
+  id: "019dda20-e0ef-782c-beb0-ff89523344e3",
   pageTypeSlug: "temper-companion-progress",
   slug: "bastian",
   title: "Bastian Hallix",

@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const blackwoodLeyawiinOutlawsRefuge = {
-  id: "01a05fcf-26a3-727f-a39d-c2faa670eb14",
+  id: "019e2fc6-526f-70bc-8c3a-e2dc10dd7440",
   pageTypeSlug: "temper-guild-trader",
   slug: "blackwood-leyawiin-outlaws-refuge",
   title: "Blackwood: Leyawiin Outlaws Refuge",

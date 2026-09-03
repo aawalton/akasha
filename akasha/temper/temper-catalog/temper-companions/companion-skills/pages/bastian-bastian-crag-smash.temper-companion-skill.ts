@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const bastianBastianCragSmash = {
-  id: "01a05fd0-1d78-7548-9d0b-64333fa99771",
+  id: "019e6484-384a-74c6-8e49-515e726ca209",
   pageTypeSlug: "temper-companion-skill",
   slug: "bastian-bastian-crag-smash",
   key: "bastian-crag-smash",

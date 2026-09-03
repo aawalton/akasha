@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const zerithVarZerithVarDarkMoonTotem = {
-  id: "01a05fd0-1d88-7a98-8078-b8574f548dbb",
+  id: "019e6484-38b1-7497-9570-c8c2b004c881",
   pageTypeSlug: "temper-companion-skill",
   slug: "zerith-var-zerith-var-dark-moon-totem",
   key: "zerith-var-dark-moon-totem",

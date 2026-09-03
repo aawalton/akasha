@@ -1,7 +1,7 @@
 import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.ts"
 
 export const reflectiveLight = {
-  id: "01a05fda-9352-7d2f-a4cf-36ee3845621e",
+  id: "019e646c-c4dd-719a-a195-98c26384f1a9",
   pageTypeSlug: "temper-character-skill-activation",
   slug: "reflective-light",
   title: "Reflective Light",

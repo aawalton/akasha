@@ -1,7 +1,7 @@
 import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.ts"
 
 export const solarPrison = {
-  id: "01a05fda-9353-7538-810f-74794ef702c8",
+  id: "019e646c-c4df-7b45-9afc-9ba7522a425d",
   pageTypeSlug: "temper-character-skill-activation",
   slug: "solar-prison",
   title: "Solar Prison",

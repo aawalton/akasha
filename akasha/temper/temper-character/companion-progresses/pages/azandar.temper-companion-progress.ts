@@ -1,7 +1,7 @@
 import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
 
 export const azandar = {
-  id: "01a05fd0-d54b-7078-8883-f66a3ff2d334",
+  id: "019dda20-ef86-78be-bf43-b241b052add2",
   pageTypeSlug: "temper-companion-progress",
   slug: "azandar",
   title: "Azandar",

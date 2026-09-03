@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const mirriMirriShadowSlash = {
-  id: "01a05fd0-1d81-7f0b-9fbe-7a273ea68d29",
+  id: "019e6484-388a-75ec-b19d-139486755ca1",
   pageTypeSlug: "temper-companion-skill",
   slug: "mirri-mirri-shadow-slash",
   key: "mirri-shadow-slash",

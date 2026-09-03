@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const emberEmberSharedWards = {
-  id: "01a05fd0-1d7c-718d-b625-6569dac0293b",
+  id: "019e6484-3863-79ea-ba1a-bcd91761da8a",
   pageTypeSlug: "temper-companion-skill",
   slug: "ember-ember-shared-wards",
   key: "ember-shared-wards",

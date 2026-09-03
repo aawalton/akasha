@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const auridonVulkhelGuardOutlawsRefuge = {
-  id: "01a05fcf-26a1-78ac-b641-748d357cf5d1",
+  id: "019e2fc6-522b-7614-89a4-a28d4e829cc7",
   pageTypeSlug: "temper-guild-trader",
   slug: "auridon-vulkhel-guard-outlaws-refuge",
   title: "Auridon: Vulkhel Guard Outlaws Refuge",

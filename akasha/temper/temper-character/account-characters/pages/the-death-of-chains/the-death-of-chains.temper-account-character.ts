@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const theDeathOfChains = {
-  id: "01a05fda-934d-7615-a4bf-d5efaf704f95",
+  id: "019dda20-7b4d-7e3d-b536-31161341a1eb",
   pageTypeSlug: "temper-account-character",
   slug: "the-death-of-chains",
   title: "The Death of Chains",

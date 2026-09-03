@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedTrickShot = {
-  id: "01a05fd0-1d73-7537-b1c3-a7a0f9820b3c",
+  id: "019e668d-c54f-7900-a1d1-ec06fa221392",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-trick-shot",
   key: "shared-trick-shot",

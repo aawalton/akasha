@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const auridonSkywatch = {
-  id: "01a05fcf-26a1-7d90-af42-76e67a42b472",
+  id: "019e2fc6-5228-79fc-94a1-4792196014a3",
   pageTypeSlug: "temper-guild-trader",
   slug: "auridon-skywatch",
   title: "Auridon: Skywatch",

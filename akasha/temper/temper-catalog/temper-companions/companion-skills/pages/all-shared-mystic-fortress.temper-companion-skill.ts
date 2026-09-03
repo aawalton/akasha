@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedMysticFortress = {
-  id: "01a05fd0-1d6e-71e1-8b06-ddcf36f992d8",
+  id: "019e668d-c559-7ab3-b9b8-563364fdc928",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-mystic-fortress",
   key: "shared-mystic-fortress",

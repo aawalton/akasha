@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedFlow = {
-  id: "01a05fd0-1d6d-72ff-8428-2b0c0e0fb162",
+  id: "019e6484-3830-7a11-bb1e-ef64c85fc414",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-flow",
   key: "shared-flow",

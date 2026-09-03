@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const emberEmberCrystalBlast = {
-  id: "01a05fd0-1d7a-7bd9-b60e-e5f06b1f6cd6",
+  id: "019e6484-3858-70a4-b668-839c1c23b5ae",
   pageTypeSlug: "temper-companion-skill",
   slug: "ember-ember-crystal-blast",
   key: "ember-crystal-blast",

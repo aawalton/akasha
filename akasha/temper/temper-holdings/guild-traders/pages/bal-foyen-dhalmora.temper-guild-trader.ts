@@ -1,7 +1,7 @@
 import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
 
 export const balFoyenDhalmora = {
-  id: "01a05fcf-26a2-72ec-b12c-50d899c1a272",
+  id: "019e2fc6-5253-7d6d-b498-e18754bf676e",
   pageTypeSlug: "temper-guild-trader",
   slug: "bal-foyen-dhalmora",
   title: "Bal Foyen: Dhalmora",

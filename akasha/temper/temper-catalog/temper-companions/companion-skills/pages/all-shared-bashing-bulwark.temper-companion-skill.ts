@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedBashingBulwark = {
-  id: "01a05fd0-1d6b-760f-9d3f-b8a0e6ff00fe",
+  id: "019e668d-c556-7c1b-9e3e-194cd0bcbbec",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-bashing-bulwark",
   key: "shared-bashing-bulwark",

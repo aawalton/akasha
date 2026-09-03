@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const seraphelDuMarquin = {
-  id: "01a05fda-934d-7b72-9e02-bdfe55d41d65",
+  id: "019dda20-7e2b-7e3f-a07e-62a06010184e",
   pageTypeSlug: "temper-account-character",
   slug: "seraphel-du-marquin",
   title: "Seraphel du Marqu\u00edn",

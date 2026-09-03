@@ -1,7 +1,7 @@
 import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
 
 export const nirayicel = {
-  id: "01a05fda-934b-760e-a368-882bb8d3e80f",
+  id: "019dda20-a672-7ca7-bb4c-c533c9c3c754",
   pageTypeSlug: "temper-account-character",
   slug: "nirayicel",
   title: "Nirayicel",

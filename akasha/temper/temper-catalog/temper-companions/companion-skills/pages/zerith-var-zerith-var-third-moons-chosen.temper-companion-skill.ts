@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const zerithVarZerithVarThirdMoonsChosen = {
-  id: "01a05fd0-1d89-748d-9b66-a98cc9f90f49",
+  id: "019e6484-38b7-7438-8c87-ea6e71b14459",
   pageTypeSlug: "temper-companion-skill",
   slug: "zerith-var-zerith-var-third-moons-chosen",
   key: "zerith-var-third-moons-chosen",

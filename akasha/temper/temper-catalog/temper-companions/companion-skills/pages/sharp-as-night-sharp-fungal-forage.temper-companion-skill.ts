@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const sharpAsNightSharpFungalForage = {
-  id: "01a05fd0-1d82-74c4-b856-a852e102b32a",
+  id: "019e6484-3895-7eac-b2bb-26d58c51bdc7",
   pageTypeSlug: "temper-companion-skill",
   slug: "sharp-as-night-sharp-fungal-forage",
   key: "sharp-fungal-forage",

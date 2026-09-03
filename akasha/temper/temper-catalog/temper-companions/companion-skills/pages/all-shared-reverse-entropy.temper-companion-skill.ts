@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedReverseEntropy = {
-  id: "01a05fd0-1d70-712b-ad12-618f566cbfb1",
+  id: "019e6688-86f2-7974-b9a7-518094a485da",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-reverse-entropy",
   key: "shared-reverse-entropy",

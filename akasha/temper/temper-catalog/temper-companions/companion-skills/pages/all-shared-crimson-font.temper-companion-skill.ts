@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedCrimsonFont = {
-  id: "01a05fd0-1d6b-7ca6-8a26-0e5cf2eca65b",
+  id: "019e6688-86f0-77f2-9cee-f65e46f9b17f",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-crimson-font",
   key: "shared-crimson-font",

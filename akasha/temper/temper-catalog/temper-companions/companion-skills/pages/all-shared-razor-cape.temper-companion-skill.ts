@@ -1,7 +1,7 @@
 import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
 
 export const allSharedRazorCape = {
-  id: "01a05fd0-1d6f-7bc1-89c3-3c89ccdf3402",
+  id: "019e668d-c554-7ab0-bb25-58496b8ab4e2",
   pageTypeSlug: "temper-companion-skill",
   slug: "all-shared-razor-cape",
   key: "shared-razor-cape",
