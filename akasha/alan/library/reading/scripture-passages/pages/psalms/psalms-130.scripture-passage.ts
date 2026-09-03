@@ -9,4 +9,6 @@ export const psalms130 = {
   translation: "web",
   position: 8,
   passageText: "txt",
+  status: "not-started",
+  externalId: "psalms130",
 } as const satisfies ScripturePassage

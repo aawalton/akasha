@@ -9,4 +9,6 @@ export const mosiah6 = {
   translation: "book-of-mormon",
   position: 71,
   passageText: "txt",
+  status: "not-started",
+  externalId: "mosiah6",
 } as const satisfies ScripturePassage
