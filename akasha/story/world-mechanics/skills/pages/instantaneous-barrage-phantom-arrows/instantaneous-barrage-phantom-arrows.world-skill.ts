@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const instantaneousBarragePhantomArrows = {
   id: "01a06575-981f-773b-a33b-c9497115ba1f",

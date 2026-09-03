@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lucidDreaming = {
   id: "01a0657d-0241-7b50-841a-aa99e85a3408",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const locateItemScrollOfFeatherfall = {
   id: "01a0657d-0240-721e-b911-fb5795916540",

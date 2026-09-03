@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const kingslayerRounds = {
   id: "01a06575-9821-743b-81f5-6ba0a6c5dff0",

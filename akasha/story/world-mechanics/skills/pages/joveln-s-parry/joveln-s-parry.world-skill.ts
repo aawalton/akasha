@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const jovelnSParry = {
   id: "01a06575-9820-7dfd-90d9-56537202b83d",

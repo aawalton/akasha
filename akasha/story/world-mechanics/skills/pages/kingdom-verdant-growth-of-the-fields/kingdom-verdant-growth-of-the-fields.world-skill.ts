@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const kingdomVerdantGrowthOfTheFields = {
   id: "01a06575-9821-7521-98f7-8096b77217b1",

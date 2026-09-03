@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const keenEyes = {
   id: "01a06575-9821-730f-bd94-a6212ff72697",

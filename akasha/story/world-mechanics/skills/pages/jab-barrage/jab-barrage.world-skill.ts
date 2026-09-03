@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const jabBarrage = {
   id: "01a06575-9820-754f-9e92-6a70c26679e0",

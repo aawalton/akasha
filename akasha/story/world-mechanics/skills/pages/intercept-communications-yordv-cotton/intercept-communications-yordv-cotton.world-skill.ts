@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const interceptCommunicationsYordvCotton = {
   id: "01a06575-9820-78cf-841d-f4106a0f3631",

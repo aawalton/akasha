@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const linkDocuments = {
   id: "01a0657d-0240-7598-9488-46c82a148af4",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const lesserSpeedGolems = {
   id: "01a06575-9823-76bd-bb7a-4c2189929ad0",

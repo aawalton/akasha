@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const longRangeRepair = {
   id: "01a0657d-0240-7e6d-9dc6-f73e95d107a7",

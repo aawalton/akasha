@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const limitedTelepathy = {
   id: "01a0657d-023f-72d2-94ef-68d1b8069107",

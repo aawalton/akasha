@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const launchPalm = {
   id: "01a06575-9822-74a9-a363-9d7c8ca0325f",

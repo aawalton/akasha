@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const intensify = {
   id: "01a06575-9820-70d4-9f81-38c0697fb24f",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lifeshardRound = {
   id: "01a0657d-023a-7857-896c-26e81e61a748",

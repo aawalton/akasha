@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const keepThoseCamerasRolling = {
   id: "01a06575-9821-7229-b580-9ed54468371e",

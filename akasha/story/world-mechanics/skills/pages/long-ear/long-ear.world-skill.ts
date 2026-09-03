@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const longEar = {
   id: "01a0657d-0240-7c6a-83fe-6a13d2050bf5",

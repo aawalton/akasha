@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lawOfTheLucifenHalt = {
   id: "01a06575-9822-7929-890e-d8bae7123e34",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const interceptMissive = {
   id: "01a06575-9820-710f-bb57-cf902179f732",

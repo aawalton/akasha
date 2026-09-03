@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const linkedSkillCombatVanish = {
   id: "01a0657d-0240-7170-a5f9-f5ba4e7747de",

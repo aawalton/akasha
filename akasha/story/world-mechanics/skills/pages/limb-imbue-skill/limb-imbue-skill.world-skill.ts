@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const limbImbueSkill = {
   id: "01a0657d-023f-76da-9a53-8c1b75d268f6",

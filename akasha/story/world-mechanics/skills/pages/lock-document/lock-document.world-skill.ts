@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lockDocument = {
   id: "01a0657d-0240-7fde-b2e2-e62e85713a82",

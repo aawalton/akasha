@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lesserAuthorityBuildings = {
   id: "01a06575-9822-7133-995f-89eb0fccee88",

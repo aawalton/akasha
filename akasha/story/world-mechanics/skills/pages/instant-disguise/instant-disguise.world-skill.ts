@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const instantDisguise = {
   id: "01a06575-981f-708c-a5a9-8f02b63da80e",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lesserDragonbreathArrowLightning = {
   id: "01a06575-9822-7627-bd56-f578b9959188",

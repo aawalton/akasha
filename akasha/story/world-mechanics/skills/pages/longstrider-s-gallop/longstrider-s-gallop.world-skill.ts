@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const longstriderSGallop = {
   id: "01a0657d-0241-7ea2-95d3-e79226f8b434",

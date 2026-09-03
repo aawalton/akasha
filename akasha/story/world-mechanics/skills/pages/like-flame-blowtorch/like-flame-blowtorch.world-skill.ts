@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const likeFlameBlowtorch = {
   id: "01a0657d-023f-7bde-b151-8bd09104cc4c",

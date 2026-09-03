@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const inspiringChorus = {
   id: "01a06575-981f-72db-9904-da51b307a031",

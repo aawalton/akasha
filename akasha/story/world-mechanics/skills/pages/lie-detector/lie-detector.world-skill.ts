@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lieDetector = {
   id: "01a0657d-0239-7123-9a57-8cfd2314c358",

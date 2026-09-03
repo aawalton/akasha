@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const leapingFishCombo = {
   id: "01a06575-9822-7b22-8a35-0d0d6b74cdfa",

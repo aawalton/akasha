@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const interactViewership = {
   id: "01a06575-9820-7ca0-bad6-47bf2c487351",

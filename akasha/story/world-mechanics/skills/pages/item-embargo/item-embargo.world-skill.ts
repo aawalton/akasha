@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const itemEmbargo = {
   id: "01a06575-9820-70a9-836e-ef71e1bf9162",

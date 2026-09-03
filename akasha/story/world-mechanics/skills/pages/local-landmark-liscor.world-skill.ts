@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../world-skill.page-type.ts"
 
 export const localLandmarkLiscor = {
   id: "01a0657d-0240-76bd-a108-cd30ba2d437c",

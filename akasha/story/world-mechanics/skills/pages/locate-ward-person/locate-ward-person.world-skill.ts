@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const locateWardPerson = {
   id: "01a0657d-0240-71fa-9a20-20bb88c86732",

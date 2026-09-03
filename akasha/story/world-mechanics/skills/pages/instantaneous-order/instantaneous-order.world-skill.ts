@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const instantaneousOrder = {
   id: "01a06575-981f-7e05-a677-21b426c88e40",

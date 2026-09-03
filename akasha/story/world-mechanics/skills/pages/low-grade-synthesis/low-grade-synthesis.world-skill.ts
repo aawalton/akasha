@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lowGradeSynthesis = {
   id: "01a0657d-0241-7835-a1d8-adfc828e73b6",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const kitchenTimer = {
   id: "01a06575-9821-7471-9b2e-08179bf60826",

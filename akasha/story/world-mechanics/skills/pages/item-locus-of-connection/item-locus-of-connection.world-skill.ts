@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const itemLocusOfConnection = {
   id: "01a06575-9820-77fc-b6d4-95dcb7f807cd",

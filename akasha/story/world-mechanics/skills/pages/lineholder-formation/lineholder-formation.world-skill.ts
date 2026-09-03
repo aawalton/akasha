@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lineholderFormation = {
   id: "01a0657d-023f-79d9-9aa4-475c6cde5000",

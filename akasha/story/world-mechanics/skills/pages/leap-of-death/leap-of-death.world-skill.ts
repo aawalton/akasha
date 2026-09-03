@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const leapOfDeath = {
   id: "01a06575-9822-76d0-b7de-1ab3e4ee9ea6",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const letSSettleThisWithFists = {
   id: "01a06575-9823-7db1-bb48-147b09a08ad0",

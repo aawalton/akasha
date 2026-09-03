@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lungingStrike = {
   id: "01a0657d-0241-7b01-8d23-dc6608b6c42a",

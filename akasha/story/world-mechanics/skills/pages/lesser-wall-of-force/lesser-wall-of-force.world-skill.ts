@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const lesserWallOfForce = {
   id: "01a06575-9823-7d76-87bc-feaeaba4537a",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const invisibleBolt = {
   id: "01a06575-9820-7501-93b1-ca0715af6095",

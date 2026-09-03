@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.ts"
 
 export const longRangedVolley = {
   id: "01a0657d-0240-70b0-bafb-1957afc2092d",
