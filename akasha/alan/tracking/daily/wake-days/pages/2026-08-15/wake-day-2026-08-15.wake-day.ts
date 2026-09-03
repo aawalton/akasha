@@ -47,7 +47,7 @@ export const wakeDay20260815 = {
   ],
   meals: ["01a0059c-d3bd-78cf-8daf-00416fdafb17"],
   healthPoints: 3.4354,
-  taskPoints: 26,
+  taskPoints: 25,
   wealthPoints: 2.56,
   faithPoints: 1.3125,
   lovePoints: 0.9258,
