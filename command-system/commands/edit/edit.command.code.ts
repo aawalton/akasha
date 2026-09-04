@@ -329,6 +329,6 @@ export async function editing(
   return answer
 }
 
-export function edit(argv: readonly string[], given: Given): Answer {
-  return editing(argv, given, inputIn)
+export async function edit(argv: readonly string[], given: Given): Promise<Answer> {
+  return await editing(argv, given, inputIn)
 }

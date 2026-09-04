@@ -449,6 +449,6 @@ export async function filing(
   return await landedMechanically(given.root, given.calledAs, built.changes, built.message)
 }
 
-export function write(argv: readonly string[], given: Given): Answer {
-  return writing(argv, given, inputIn)
+export async function write(argv: readonly string[], given: Given): Promise<Answer> {
+  return await writing(argv, given, inputIn)
 }

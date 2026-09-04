@@ -31,9 +31,9 @@ export function strayIn(root: string, argv: readonly string[]): readonly string[
   return said
 }
 
-export function tracking(argv: readonly string[], given: Given): Answer {
+export async function tracking(argv: readonly string[], given: Given): Promise<Answer> {
   if (argv.includes(BREAK_GLASS)) return mistaking([NO_GLASS])
   const stray = strayIn(given.root, argv)
   if (stray.length > 0) return mistaking(stray)
-  return filing(argv, given, inputIn)
+  return await filing(argv, given, inputIn)
 }
