@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const icloud = {
   id: "01a06809-e6ee-767a-a4ca-40bb4b0c44c0",
