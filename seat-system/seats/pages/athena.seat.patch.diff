@@ -1,0 +1,13 @@
+diff --git a/commands/move/move.command.test-fixtures.ts b/commands/move/move.command.test-fixtures.ts
+index 90469174a987c4b6d3d90e0d459feb7d9c8a5fe1..283d112b722be24c8e17203c86bca391f67027b9 100644
+--- a/commands/move/move.command.test-fixtures.ts
++++ b/commands/move/move.command.test-fixtures.ts
+@@ -358,7 +358,7 @@ export function bareDir(root: string, path: string): undefined {
+   mkdirSync(join(root, path), { recursive: true })
+ }
+ 
+-const CHECKS_AT = join(import.meta.dir, "../../../checks/code-checks/pages")
++const CHECKS_AT = join(import.meta.dir, "../../checks/code-checks/pages")
+ 
+ const idOf = (said: string): string => `01a04bed-1450-7000-8000-0000000000${said}`
+ 
