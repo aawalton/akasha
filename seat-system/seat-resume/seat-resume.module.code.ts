@@ -24,7 +24,7 @@ import {
   SEAT_MODES,
 } from "@akasha/seat-system/seat-modes"
 import { sweepSupersededAgentTrees } from "@akasha/seat-system/seat-recovery"
-import { help as HELP } from "@akasha/seat-system/seat-resume-help"
+import { HELP } from "@akasha/seat-system/seat-resume-help"
 import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
 import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
 import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"

@@ -1,6 +1,6 @@
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 
-export const help: CommandHelp = {
+export const HELP: CommandHelp = {
   positionals: [
     {
       name: "agent-id",

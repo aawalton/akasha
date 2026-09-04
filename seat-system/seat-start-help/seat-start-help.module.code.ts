@@ -1,7 +1,7 @@
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { DEFAULT_ACCOUNT } from "../seat-launching/seat-launching.module.code.ts"
 
-export const help: CommandHelp = {
+export const HELP: CommandHelp = {
   flags: [
     {
       name: "--start-mode",
