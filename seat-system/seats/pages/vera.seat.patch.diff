@@ -23,3 +23,24 @@ index e8cab7e411c2e402907fa2b7cf4a60a68840f485..6d193b88495b5333b45c9fd6423eef74
  export const SIDE = "akasha/one/held.module.test.ts"
  
  export const SIDE_AT = "akasha/one/deep/held.module.test.ts"
+diff --git a/commands/move/move.command.test.ts b/commands/move/move.command.test.ts
+index 0db0ae1794f37199ae09ef9c6a1b5fa21c9d658a..f8fb3b8f3877f46587ea4cb2b0bc9f83d4c5555f 100644
+--- a/commands/move/move.command.test.ts
++++ b/commands/move/move.command.test.ts
+@@ -18,6 +18,7 @@ import {
+   CODE,
+   carriedMoved,
+   claiming,
++  codeUnindexed,
+   codeWorld,
+   DEEP,
+   DEEPER,
+@@ -172,7 +173,7 @@ test("a file moving in the same act is repointed from its body, not as an import
+ })
+ 
+ test("an unanswerable index refuses the move rather than leaving what imports it dangling", async () => {
+-  const root = codeWorld()
++  const root = codeUnindexed()
+   const was = head(root)
+   const said = await move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
+   expect(why(said)).toContain("could not be answered")
