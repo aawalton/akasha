@@ -62,3 +62,15 @@ export function isCliError(e: unknown): e is CliError | InputError | DataError |
 export function exitCodeForThrowable(err: unknown): number {
   return isCliError(err) ? err.code : EXIT.UNCLASSIFIED
 }
+
+export function inputError(message: string): InputError {
+  return new InputError(message)
+}
+
+export function dataError(message: string): DataError {
+  return new DataError(message)
+}
+
+export function operationalError(message: string): OperationalError {
+  return new OperationalError(message)
+}

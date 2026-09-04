@@ -6,5 +6,10 @@ export const utilsFs = {
   slug: "utils-fs",
   definition: "how a file lands whole and how a path spelled from home is spelled in full",
   manifest: "json",
-  partSlugs: ["module/atomic-write", "module/expand-tilde", "module/missing"],
+  partSlugs: [
+    "module/atomic-write",
+    "module/expand-tilde",
+    "module/missing",
+    "module/read-stdin-or-file",
+  ],
 } as const satisfies WorkspacePackage

@@ -2988,6 +2988,9 @@
     },
     "akasha/utils-fs": {
       "name": "@akasha/utils-fs",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+      },
     },
     "akasha/utils-narrow": {
       "name": "@akasha/utils-narrow",

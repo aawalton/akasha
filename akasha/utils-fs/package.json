@@ -5,6 +5,10 @@
   "exports": {
     "./atomic-write": "./atomic-write/atomic-write.module.code.ts",
     "./expand-tilde": "./expand-tilde/expand-tilde.module.code.ts",
-    "./missing": "./missing/missing.module.code.ts"
+    "./missing": "./missing/missing.module.code.ts",
+    "./read-stdin-or-file": "./read-stdin-or-file/read-stdin-or-file.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*"
   }
 }
