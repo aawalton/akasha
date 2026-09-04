@@ -171,6 +171,7 @@ export const seatSystem = {
     "module/supervisor-config",
     "module/supervisor-console",
     "module/account-terminal",
+    "module/agent-page-reading",
     "module/turn-end-error-death",
     "module/oauth-health-lines",
     "module/supervisor-credentials",
