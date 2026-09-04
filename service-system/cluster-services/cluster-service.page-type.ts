@@ -1,9 +1,9 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Service } from "../services/service.page-type.ts"
+import type { ManifestCode } from "./properties/cluster-service-manifest-code.text-property.ts"
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
-import type { ManifestCode } from "./properties/manifest-code.text-property.ts"
 import type { Namespace } from "./properties/namespace.text-property.ts"
 import type { Replicas } from "./properties/replicas.number-property.ts"
 import type { ResourceKind } from "./properties/resource-kind.text-property.ts"
@@ -82,7 +82,7 @@ export const clusterService = {
     "number-property/container-port",
     "number-property/replicas",
     "text-property/image",
-    "text-property/manifest-code",
+    "text-property/cluster-service-manifest-code",
     "text-property/namespace",
     "text-property/resource-kind",
     "text-property/resource-name",
@@ -96,7 +96,7 @@ export const clusterService = {
     { pagePropertySlug: "replicas", required: false, many: false },
     { pagePropertySlug: "container-port", required: false, many: false },
     { pagePropertySlug: "cluster-service-schedule", required: false, many: false },
-    { pagePropertySlug: "manifest-code", required: true, many: false },
+    { pagePropertySlug: "cluster-service-manifest-code", required: true, many: false },
   ],
   invariants: [
     {
