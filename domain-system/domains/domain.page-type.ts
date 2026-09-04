@@ -111,5 +111,16 @@ export const domain = {
         "A definition or an invariant needs none.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "Single Authority",
+      act: "Bind each claim from exactly one document.",
+      warrant:
+        "Where two documents bind one claim, their disagreement is a contradiction nothing can settle.",
+      aids: [
+        "Never summarise a claim another document binds.",
+        "Delete the old line when you move a claim.",
+      ],
+    },
   ],
 } as const satisfies PageType
