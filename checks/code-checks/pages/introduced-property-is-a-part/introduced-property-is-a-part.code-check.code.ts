@@ -3,7 +3,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { slugIn } from "@akasha/pages-system/page-address"
 import { partedIn as nameParted } from "@akasha/pages-system/page-file-name"
 import { identityOf } from "@akasha/pages-system/page-type-properties"
-import { textAt, type Value } from "@akasha/pages-system/page-value"
+import { slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, pagesTailed } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -52,9 +52,9 @@ export function addressedIn(said: string): string {
 export function introducedIn(one: PageType, shadow: Shadow): readonly string[] {
   const value = one.value
   if (value === null) return []
-  const said = textAt(value, ABOVE)
-  const over = said === null ? null : slugIn(said)
-  const inherited = new Set(over === null ? [] : shadow.index.propertiesOf(over).map(identityOf))
+  const inherited = new Set(
+    slugsIn(value[ABOVE]).flatMap((over) => shadow.index.propertiesOf(over).map(identityOf))
+  )
   const own = shadow.index.declarationsOf(one.slug).filter((each) => each.declaredBy === one.slug)
   const introduced = new Set(
     own.filter((each) => !inherited.has(identityOf(each))).map((each) => each.pagePropertySlug)
