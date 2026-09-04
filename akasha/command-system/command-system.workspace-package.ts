@@ -19,6 +19,8 @@ export const commandSystem = {
     "module/calling",
     "module/command-declaring",
     "module/gated-write",
+    "module/command-failing",
+    "module/argument-narrowing",
     "module/landing",
     "module/cli",
     "module/ops-calling",

@@ -27,7 +27,9 @@
     "./gated-landing": "./gated-landing/gated-landing.module.code.ts",
     "./commit-author": "./commit-author/commit-author.module.code.ts",
     "./harness-landing": "./harness-landing/harness-landing.module.code.ts",
-    "./gated-write": "./gated-write/gated-write.module.code.ts"
+    "./gated-write": "./gated-write/gated-write.module.code.ts",
+    "./command-failing": "./command-failing/command-failing.module.code.ts",
+    "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts"
   },
   "dependencies": {
     "@akasha/seat-system": "workspace:*",
