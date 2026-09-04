@@ -1,15 +1,24 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { said as git } from "@akasha/git/git-running"
 import type { Inside, Reaching, Stated } from "./migration-reach.module.code.ts"
 import {
   blobsIn,
   declaredIn,
   nameOf,
   reachedBy,
+  reachingIn,
   reachSaid,
   statedOf,
   tailOf,
   takeableIn,
 } from "./migration-reach.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const OLD = "019f0f5a-12ab-7117-b622-1c1e718c6017"
 
@@ -229,4 +238,46 @@ test("only the paths reached are takeable, and each is said with why", () => {
   expect(takeableIn(reaches)).toEqual(["pages/one/a.md"])
   expect(reachSaid(reaches)[0]).toContain("reached pages/one/a.md")
   expect(reachSaid(reaches)[1]).toContain("unreached pages/one/b.md")
+})
+
+const A_PAGE = [
+  "export const one = {",
+  `  id: "${NEW}",`,
+  '  pageTypeSlug: "proof",',
+  '  slug: "one",',
+  "}",
+  "",
+].join("\n")
+
+function worldOf(named: Readonly<Record<string, string>>): string {
+  const root = scratch.rootFor("migration-reach-")
+  git(root, ["init", "--quiet"])
+  git(root, ["config", "user.email", "held@nowhere"])
+  git(root, ["config", "user.name", "Held"])
+  for (const [path, body] of Object.entries(named)) {
+    const at = join(root, path)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, body)
+  }
+  if (Object.keys(named).length === 0) return root
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "first"])
+  return root
+}
+
+test("a reading takes in every file git tracks rather than a folder narrowed to by name", () => {
+  const root = worldOf({ "one/a.proof.ts": A_PAGE, "two/b.txt": "held\n" })
+  const tracked = git(root, ["ls-files"])
+    .split("\n")
+    .filter((one) => one !== "")
+    .sort()
+  const reaching = reachingIn(root)
+  expect(tracked).toEqual(["one/a.proof.ts", "two/b.txt"])
+  expect([...reaching.held].sort()).toEqual(tracked)
+  expect(reaching.byId.get(NEW)).toBe("one/a.proof.ts")
+  expect(reaching.byName.get(nameOf("proof", "one"))).toEqual(["one/a.proof.ts"])
+})
+
+test("a root git tracks no file in at all is refused rather than read as reaching nothing", () => {
+  expect(() => reachingIn(worldOf({}))).toThrow()
 })
