@@ -1,3 +1,15 @@
+diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+index 8736b546d787876dc93c4fdff62367739d1e9733..48f63cc8f27477537c024ef5778842fb43fff6b4 100644
+--- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
++++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+@@ -11,6 +11,7 @@ const SLOT_FAMILIES = ["nsubj", "obj", "iobj", "obl", "conj", "appos"]
+ const SLOTS = ["nmod", "root"]
+ const RELATIVE = ["which", "who", "whom", "whose"]
+ const DEMONSTRATIVE = ["this", "that", "these", "those"]
++const SUMMING = ["both", "each", "either", "neither"]
+ const QUANTIFIER = [
+   "all",
+   "any",
 diff --git a/domains/sentence-shapes/closing-count/closing-count.sentence-shape.code.ts b/domains/sentence-shapes/closing-count/closing-count.sentence-shape.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f6fdc4b0ad8d9d5d5804585de715e49a5f32ffaf
