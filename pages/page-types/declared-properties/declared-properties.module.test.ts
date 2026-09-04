@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
-import { valueAt } from "../../pages/value/page-value.module.code.ts"
+import { valueAt } from "../../value/page-value.module.code.ts"
 import {
   type Carried,
   declarationsOf,

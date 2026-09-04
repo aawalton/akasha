@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Car } from "../cars/car.page-type.ts"
 import type { CarYearSlug } from "./properties/car-year-slug.relation-property.ts"
 

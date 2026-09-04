@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Address } from "./properties/address.text-property.ts"
 import type { Collection } from "./properties/collection.relation-property.ts"
 import type { CuisineOrType } from "./properties/cuisine-or-type.text-property.ts"

@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Metric } from "../../../alan/tracking/daily/eso-days/properties/metric.text-property.ts"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Scope } from "../../../temper/temper-progress/progress-things/properties/scope.text-property.ts"
 import type { Description } from "../../../temper/temper-things/properties/description.text-property.ts"
 import type { Threshold } from "./properties/threshold.number-property.ts"

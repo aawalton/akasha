@@ -1,4 +1,4 @@
-import { lowerUuid } from "../../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 export type Address =
   | { readonly kind: "id"; readonly id: string }

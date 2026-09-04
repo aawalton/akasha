@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { lowerUuid } from "../../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import type { Address } from "./page-address.module.code.ts"
 import { addressIn, slugIn } from "./page-address.module.code.ts"
 

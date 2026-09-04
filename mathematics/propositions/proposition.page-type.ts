@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { PropositionKind } from "./properties/proposition-kind.select-property.ts"
 import type { PropositionStatus } from "./properties/proposition-status.select-property.ts"
 import type { Statement } from "./properties/statement.file-property.ts"

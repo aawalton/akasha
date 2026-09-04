@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.ts"
+import type { TextProperty } from "../text-properties/text-property.page-type.ts"
 
 export type Id = string
 

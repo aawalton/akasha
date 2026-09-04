@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { CardPersonaSlug } from "./properties/card-persona-slug.relation-property.ts"
 import type { CardRank } from "./properties/card-rank.number-property.ts"
 import type { CardSlug } from "./properties/card-slug.text-property.ts"

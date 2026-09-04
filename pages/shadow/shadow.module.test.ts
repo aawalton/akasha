@@ -16,7 +16,7 @@ import type { Reading } from "@akasha/indexes/shape"
 import { everythingRead, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
 import { put, there } from "@akasha/testing-system/putting"
 import type { Change } from "../change/change.module.code.ts"
-import { valueAt } from "../pages/value/page-value.module.code.ts"
+import { valueAt } from "../value/page-value.module.code.ts"
 import { type Cast, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
 
 const scratch = scratchWorld()

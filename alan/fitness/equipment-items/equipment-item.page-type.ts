@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { EquipmentAvailable } from "./properties/equipment-available.boolean-property.ts"
 import type { EquipmentCategory } from "./properties/equipment-category.select-property.ts"
 import type { EquipmentConfiguration } from "./properties/equipment-configuration.select-property.ts"

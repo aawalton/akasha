@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Collection } from "../../collection-system/collections/collection.page-type.ts"
-import type { Title } from "../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../pages/properties/title.text-property.ts"
 
 export type Restaurant = Collection & {
   title: Title

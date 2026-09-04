@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { SmsConsentConsent } from "./properties/sms-consent-consent.boolean-property.ts"
 import type { SmsConsentIpAddress } from "./properties/sms-consent-ip-address.text-property.ts"
 import type { SmsConsentPhone } from "./properties/sms-consent-phone.phone-number-property.ts"

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { EndDate } from "./properties/end-date.calendar-date-property.ts"
 import type { LifeThemeParentSlug } from "./properties/life-theme-parent-slug.relation-property.ts"
 import type { LifeThemeStatus } from "./properties/life-theme-status.select-property.ts"

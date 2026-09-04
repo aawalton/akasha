@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
-import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { VoteAverage } from "../properties/vote-average.number-property.ts"
 import type { EpisodeType } from "./properties/episode-type.select-property.ts"
 import type { StillPath } from "./properties/still-path.text-property.ts"

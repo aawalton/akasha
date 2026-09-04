@@ -5,7 +5,7 @@ import { type Answering, answeringOver } from "@akasha/indexes/answering"
 import { settlingOver } from "@akasha/indexes/indexing"
 import type { Filing, Reading } from "@akasha/indexes/shape"
 import type { Change } from "../change/change.module.code.ts"
-import { type Value, valueAt, valueIn } from "../pages/value/page-value.module.code.ts"
+import { type Value, valueAt, valueIn } from "../value/page-value.module.code.ts"
 
 export type Shadow = {
   readonly index: Answering

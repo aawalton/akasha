@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Namespace } from "../cluster-services/properties/namespace.text-property.ts"
 import type { ResourceKind } from "../cluster-services/properties/resource-kind.text-property.ts"
 import type { ResourceName } from "../cluster-services/properties/resource-name.text-property.ts"

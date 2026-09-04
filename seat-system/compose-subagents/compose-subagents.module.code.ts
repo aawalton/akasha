@@ -7,12 +7,12 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { besideAt } from "../../pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   type Listed,
 } from "../../pages/indexes/index-reading/index-reading.module.code.ts"
-import { besideAt } from "../../pages/pages/file-name/page-file-name.module.code.ts"
-import { textAt, type Value, valueAt } from "../../pages/pages/value/page-value.module.code.ts"
+import { textAt, type Value, valueAt } from "../../pages/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "subagent-kind"
 

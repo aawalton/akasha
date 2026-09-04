@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { EstimatedCalories } from "./properties/estimated-calories.number-property.ts"
 import type { FoodEntryNote } from "./properties/food-entry-note.file-property.ts"
 import type { HappenedAt } from "./properties/happened-at.instant-property.ts"

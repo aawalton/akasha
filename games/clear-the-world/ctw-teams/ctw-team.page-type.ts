@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Hex } from "../../../design/colors/properties/hex.text-property.ts"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { CellsCleared } from "./properties/cells-cleared.number-property.ts"
 import type { Craters } from "./properties/craters.number-property.ts"
 import type { HazardsMarked } from "./properties/hazards-marked.number-property.ts"

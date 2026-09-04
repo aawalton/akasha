@@ -1,4 +1,4 @@
-import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { PageType } from "./page-types/page-type.page-type.ts"
 import type { Cover } from "./properties/cover.text-property.ts"
 import type { Id } from "./properties/id.text-property.ts"
 import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
@@ -27,7 +27,31 @@ export const page = {
     { pagePropertySlug: "title", required: false, many: false },
     { pagePropertySlug: "cover", required: false, many: false },
   ],
-  partSlugs: [],
+  partSlugs: [
+    "module/entry-ceiling",
+    "module/markdown-document",
+    "module/markdown-page-at",
+    "module/markdown-page-name",
+    "module/markdown-page-type",
+    "module/page-address",
+    "module/page-beside",
+    "module/page-body",
+    "module/page-entries",
+    "module/page-entry-landing",
+    "module/page-entry-queue",
+    "module/page-entry-writing",
+    "module/page-export-name",
+    "module/page-file-name",
+    "module/page-file-parts",
+    "module/page-secret",
+    "module/page-uncommitted",
+    "module/page-value",
+    "relation-property/page-type-slug",
+    "text-property/cover",
+    "text-property/id",
+    "text-property/slug",
+    "text-property/title",
+  ],
   invariants: [
     {
       invariantKind: "departure",

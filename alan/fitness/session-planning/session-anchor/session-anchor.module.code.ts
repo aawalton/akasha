@@ -1,4 +1,4 @@
-import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Equipment } from "../../exercises/properties/equipment.select-property.ts"
 import type { IsBallistic } from "../../exercises/properties/is-ballistic.boolean-property.ts"
 import type { Laterality } from "../../exercises/properties/laterality.select-property.ts"

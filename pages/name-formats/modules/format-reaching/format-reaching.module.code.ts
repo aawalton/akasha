@@ -1,9 +1,9 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import type { Answering } from "@akasha/indexes/answering"
-import { slugIn } from "../../../pages/address/page-address.module.code.ts"
-import { exportedAs } from "../../../pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../../pages/file-name/page-file-name.module.code.ts"
+import { slugIn } from "../../../address/page-address.module.code.ts"
+import { exportedAs } from "../../../export-name/page-export-name.module.code.ts"
+import { besideAt } from "../../../file-name/page-file-name.module.code.ts"
 import type { Matching } from "../name-matching/name-matching.module.code.ts"
 
 const NAME_FORMAT = "name-format"

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Asks } from "./properties/asks.file-property.ts"
 import type { CoachingConstraintActive } from "./properties/coaching-constraint-active.boolean-property.ts"
 import type { CoachingConstraintKind } from "./properties/coaching-constraint-kind.select-property.ts"

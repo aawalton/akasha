@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
-import { exportedAs } from "../../pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "../../export-name/page-export-name.module.code.ts"
 import { slugFor } from "./page-property-key.module.code.ts"
 
 const CODE = `${import.meta.dir}/page-property-key.module.code.ts`

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { ChessGameSlug } from "./properties/chess-game-slug.relation-property.ts"
 import type { ChessReviewSessionNotes } from "./properties/chess-review-session-notes.file-property.ts"
 import type { ReviewedAt } from "./properties/reviewed-at.instant-property.ts"

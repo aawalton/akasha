@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
-import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Genres } from "../properties/genres.text-property.ts"
 import type { ImdbId } from "../properties/imdb-id.text-property.ts"
 import type { PosterPath } from "../properties/poster-path.text-property.ts"

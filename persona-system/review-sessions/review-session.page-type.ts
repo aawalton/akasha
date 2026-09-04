@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Date as ReviewedOn } from "../../alan/tracking/daily/wake-days/properties/date.text-property.ts"
-import type { Title } from "../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
 import type { ReviewSessionNotes } from "./properties/review-session-notes.file-property.ts"
 import type { SessionPersonaSlug } from "./properties/session-persona-slug.relation-property.ts"

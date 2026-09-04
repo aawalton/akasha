@@ -15,10 +15,10 @@
  */
 
 import { kebabizeKey } from "@akasha/pages-access/file-rows"
+import { partedIn } from "../file-name/page-file-name.module.code.ts"
 import { carried, type Held, type Values } from "../page-carry/page-carry.module.code.ts"
-import { partedIn } from "../pages/file-name/page-file-name.module.code.ts"
-import { wholeValue } from "../pages/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "../pages/value/page-value.module.code.ts"
+import { wholeValue } from "../uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "../value/page-value.module.code.ts"
 
 /** What an akasha page's file is named, as against `.md` for a markdown one. */
 export const AKASHA_PAGE = ".ts"

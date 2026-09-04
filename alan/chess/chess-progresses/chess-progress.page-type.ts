@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
+import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Category } from "../../../temper/temper-things/properties/category.text-property.ts"
 import type { Description } from "../../../temper/temper-things/properties/description.text-property.ts"
 import type { Icon } from "../../../temper/temper-things/properties/icon.text-property.ts"
