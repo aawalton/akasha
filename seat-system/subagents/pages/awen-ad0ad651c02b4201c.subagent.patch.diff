@@ -1,3 +1,21 @@
+diff --git a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts
+index 4b9d65495ef316e562812733668e4fd7fde86b5a..7b1f2e253d574a6932c4fe5dff5601d4bbbd84c4 100644
+--- a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts
++++ b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts
+@@ -59,7 +59,12 @@ async function main(): Promise<void> {
+ 
+   for (const one of reading.orphans) console.log(`${SAID} ORPHAN: ${named(one)}`)
+ 
+-  const wrote = writeMessage({ to: HANDLER, from: SENDER, warrant: "announce", body: signal.text })
++  const wrote = await writeMessage({
++    to: HANDLER,
++    from: SENDER,
++    warrant: "announce",
++    body: signal.text,
++  })
+   if (wrote.kind === "refused") {
+     throw new Error(`${SAID} nothing is waiting for \`${HANDLER}\`: ${wrote.detail}`)
+   }
 diff --git a/seat-system/messaging/message-file/message-file.module.code.ts b/seat-system/messaging/message-file/message-file.module.code.ts
 index e9b3c04edb21fe96b956619a6de79d7935d969b9..a9a475dd6d7d0f5fd68e930091e36429e06fc593 100644
 --- a/seat-system/messaging/message-file/message-file.module.code.ts
