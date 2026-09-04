@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.ts"
 export const aWebAppDeployBuildsOnlyAfterTheRolloutItCannotFinishWithoutOne = {
   id: "01a068fa-ed15-7d9b-b1a7-bd7f4a90a865",
   pageTypeSlug: "finding",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/cluster-operations",
   slug: "a-web-app-deploy-builds-only-after-the-rollout-it-cannot-finish-without-one",
   claim:
     "A web app whose package path moves cannot be deployed at all. `akasha deploy` applies the manifest and waits for the rollout, and only builds after that returns; but the new pod runs `bun run start`, which needs a build the deploy has yet to make. Where a build already sits at the same path in the node's cache the new pod starts and the order is never felt. Where the path is new there is none, the rollout times out, and the deploy exits before its build. Five web apps have yet to come into akasha, and each meets this the first time it is deployed after its move.",

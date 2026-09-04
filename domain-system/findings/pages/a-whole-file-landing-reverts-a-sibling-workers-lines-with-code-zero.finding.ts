@@ -4,7 +4,7 @@ export const aWholeFileLandingRevertsASiblingWorkersLinesWithCodeZero = {
   id: "01a06867-7fc9-7002-8637-7ac5005a541f",
   pageTypeSlug: "finding",
   slug: "a-whole-file-landing-reverts-a-sibling-workers-lines-with-code-zero",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/page-storage",
   claim:
     "`landedMechanically` takes a whole file body, so two workers adding entries to one shared manifest silently revert each other. The second landing carries a body read before the first landed, and writing it whole takes the first worker's lines back out. Both calls answer code 0, both commits stand, and the loss shows in neither. The shared manifests of this migration are exactly where every worker in a lane must write: a package's `exports` block and a workspace package's `part-slugs`.",
   evidence:

@@ -4,7 +4,7 @@ export const aSupervisorsSelfHealCannotAdoptTheCommitThatRepointsItsOwnVerifySte
   id: "01a069c6-9203-79af-ac7f-96debcc2dbb3",
   pageTypeSlug: "finding",
   slug: "a-supervisors-self-heal-cannot-adopt-the-commit-that-repoints-its-own-verify-step",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "A supervisor adopts new code only after its self-heal install exits 0, and that install runs a verify program named by a constant baked into the image it is trying to leave, so a migration that moves the verify program locks every older image out of the commit that repoints it.",
   evidence:

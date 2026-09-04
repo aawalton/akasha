@@ -4,7 +4,7 @@ export const aSyncRunRecordWasAblatedOnAPremiseThatHasSinceTurnedFalse = {
   id: "01a0687b-de90-7001-a005-4c7dd05a8ea1",
   pageTypeSlug: "finding",
   slug: "a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/collection-system",
   claim:
     "A rebuild that ablates behaviour states its reason in the code, and that reason can stop being true without anything failing. `akasha/great-courses/sync-run` records no sync run and says so, on the ground that the record lives outside akasha. The record now lives inside akasha. Two of the three syncs stopped recording runs and nothing reported it, because a sync that records nothing and a sync that records a clean run both exit zero.",
   evidence:

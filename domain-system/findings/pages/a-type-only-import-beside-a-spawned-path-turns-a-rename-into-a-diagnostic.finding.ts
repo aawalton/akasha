@@ -4,7 +4,7 @@ export const aTypeOnlyImportBesideASpawnedPathTurnsARenameIntoADiagnostic = {
   id: "01a06933-69c0-71a1-b8c3-859c283aecec",
   pageTypeSlug: "finding",
   slug: "a-type-only-import-beside-a-spawned-path-turns-a-rename-into-a-diagnostic",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/type-import",
   claim:
     "A type-only import naming the same file a spawn names draws TS2307 when that file moves, and costs the runtime nothing.",
   evidence:
