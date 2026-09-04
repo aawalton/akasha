@@ -2,9 +2,7 @@ import { expect, test } from "bun:test"
 import {
   checkReaches,
   judgedBy,
-  judgedByNothing,
   judgedOver,
-  outsideOf,
   passedOver,
   reachedIn,
 } from "./judged-saying.module.code.ts"
@@ -21,10 +19,8 @@ test("a check reaches a path inside this checkout and no other", () => {
   expect(checkReaches("/etc/one.ts")).toBe(false)
 })
 
-test("the paths a check reached and the paths it did not are read from one rule", () => {
+test("the paths a check reached are read from one rule", () => {
   expect(reachedIn([INSIDE, OUTSIDE, "akasha/two.ts"])).toBe(2)
-  expect(outsideOf([INSIDE, OUTSIDE, "akasha/two.ts"])).toEqual([OUTSIDE])
-  expect(outsideOf([INSIDE])).toEqual([])
 })
 
 test("a dry run names how many checks ran and how many paths they were handed", () => {
@@ -74,11 +70,6 @@ test("a count over a mix says how many of what was asked for was judged", () => 
 })
 
 test("the line naming what no check reached agrees with the count beside it", () => {
-  expect(judgedByNothing([], false)).toEqual([])
-  expect(judgedByNothing([OUTSIDE], false)).toEqual([
-    "no check judges a path outside this checkout, so what these carry went unjudged — ../one.ts",
-  ])
-  expect(judgedByNothing([OUTSIDE], true)[0]).toContain("would go unjudged")
   expect(judgedBy(count, 40, 0, 1).startsWith("no check judges a path outside this checkout")).toBe(
     true
   )

@@ -11,7 +11,6 @@ import {
   troubling,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { judgedByNothing, outsideOf } from "../../judged-saying/judged-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import {
@@ -304,7 +303,6 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
     saying: (said) => [
       ...said.wrote.map((one) => `edited ${one}`),
       ...said.took.map((one) => `took away ${one}`),
-      ...judgedByNothing(outsideOf(changes.map((one) => one.path)), false),
     ],
   }
   return asked
@@ -324,9 +322,7 @@ export function editing(argv: readonly string[], given: Given, piping: Piping): 
       asked.changes.filter((one) => one.body === null).map((one) => one.path)
     )
   }
-  if (answer.code !== 0 || asked.draft !== true) return answer
-  const said = judgedByNothing(outsideOf(asked.changes.map((one) => one.path)), true)
-  return { ...answer, report: [...said, ...answer.report] }
+  return answer
 }
 
 export function edit(argv: readonly string[], given: Given): Answer {

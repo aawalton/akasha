@@ -25,18 +25,8 @@ export function checkReaches(path: string): boolean {
   return !path.startsWith("/") && !path.split("/").includes("..")
 }
 
-export function outsideOf(paths: readonly string[]): readonly string[] {
-  return paths.filter((one) => !checkReaches(one))
-}
-
 export function reachedIn(paths: readonly string[]): number {
   return paths.filter(checkReaches).length
-}
-
-export function judgedByNothing(outside: readonly string[], dry: boolean): readonly string[] {
-  if (outside.length === 0) return []
-  const went = dry ? "would go" : "went"
-  return [`${OUTSIDE_REACH}, so what these carry ${went} unjudged — ${outside.join(", ")}`]
 }
 
 function saidOf(

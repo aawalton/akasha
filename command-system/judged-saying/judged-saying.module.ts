@@ -26,10 +26,6 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A change no check reached is said to be unjudged rather than counted as judged.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Reach is answered before the phase.",
     },
     {

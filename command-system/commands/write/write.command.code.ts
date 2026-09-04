@@ -15,7 +15,6 @@ import {
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
-import { judgedByNothing, outsideOf } from "../../judged-saying/judged-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
@@ -397,7 +396,6 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
   if (troubled !== null) return troubled
 
   const draft = argv.includes(DRAFT)
-  const unjudged = outsideOf(changes.map((one) => one.path))
   const answer = landingAsked(given, {
     changes,
     message:
@@ -409,7 +407,7 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
     dryRun: false,
     glass: glass.glass,
     unmoved: [],
-    saying: (landed) => [...wroteAndTook(landed), ...judgedByNothing(unjudged, false)],
+    saying: (landed) => wroteAndTook(landed),
     draft,
   })
   if (answer.code === 0 && !draft) {
@@ -418,8 +416,7 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
       changes.filter((one) => one.body === null).map((one) => one.path)
     )
   }
-  if (answer.code !== 0 || !draft) return answer
-  return { ...answer, report: [...judgedByNothing(unjudged, true), ...answer.report] }
+  return answer
 }
 
 export function write(argv: readonly string[], given: Given): Answer {
