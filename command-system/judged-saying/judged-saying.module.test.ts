@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   checkReaches,
+  draftSaid,
   judgedBy,
   judgedOver,
   passedOver,
@@ -67,6 +68,22 @@ test("a count over a mix says how many of what was asked for was judged", () => 
   expect(judgedOver(count, 40, 1, 3)).toBe(
     "40 checks judged 1 of the 3 paths the patch would leave, and none refused"
   )
+})
+
+test("a draft nothing refused is counted and says nothing more", () => {
+  expect(draftSaid(count, 2, [INSIDE], [], [])).toEqual([
+    "2 checks judged the 1 path the patch would leave, and none refused",
+  ])
+})
+
+test("a draft a check refused names what refused and says the patch waits on it", () => {
+  const refused = [{ path: INSIDE, reason: "refused for the test" }]
+  expect(draftSaid(count, 2, [INSIDE], refused, ["akasha/two.ts"])).toEqual([
+    "2 checks judged the 1 path the patch would leave, and these refused",
+    "akasha/one.ts — refused for the test",
+    "the patch is judged whole, so it applies once every path it holds passes",
+    "akasha/two.ts carries a conflict — resolve it in the patch before the patch applies",
+  ])
 })
 
 test("the line naming what no check reached agrees with the count beside it", () => {
