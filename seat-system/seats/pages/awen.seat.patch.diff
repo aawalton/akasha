@@ -26,3 +26,18 @@ index 1133e48c95fd3530ad225a9c2475c14af704341b..536e3a213fd0b35dfbadaeec75582928
 +  give()
 +  return held
  }
+diff --git a/file-system/exclusive/exclusive.module.ts b/file-system/exclusive/exclusive.module.ts
+index 268d4c946fabc6f6cd15d7e417a4324fd869ffef..48a6a28abd1281920e9c72108b4786f752694ad9 100644
+--- a/file-system/exclusive/exclusive.module.ts
++++ b/file-system/exclusive/exclusive.module.ts
+@@ -23,6 +23,10 @@ export const exclusive = {
+       invariantKind: "departure",
+       statement: "A turn is given up only by the process whose mark stands in the turn.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An act that settles later keeps the turn until that act settles.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A caller that waited too long is refused rather than acting anyway.",
