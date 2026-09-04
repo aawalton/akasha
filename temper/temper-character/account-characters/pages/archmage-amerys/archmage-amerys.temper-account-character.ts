@@ -5,9 +5,9 @@ export const archmageAmerys = {
   pageTypeSlug: "temper-account-character",
   slug: "archmage-amerys",
   title: "Archmage Amerys",
-  firstName: "Amerys",
-  esoCharacterId: "8796093038720681",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 9,
   completion: "json",
+  esoCharacterId: "8796093038720681",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Amerys",
 } as const satisfies TemperAccountCharacter
