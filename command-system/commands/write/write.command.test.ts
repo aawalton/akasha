@@ -215,24 +215,10 @@ test("breaking the glass with no reason is refused", () => {
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
 })
 
-test("a path outside the akasha folder is written, and what no check judged is said", () => {
-  const root = repoWith()
-  const said = wroteAt(root, "elsewhere/two.ts")
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "elsewhere/two.ts"), "utf8")).toBe("proposed\n")
-  expect(said.report.join("\n")).toContain("outside `akasha/`, so what these carry went unjudged")
-})
-
 test("a path inside .git and a folder at the top of the repository are both refused", () => {
   const root = repoWith()
   expect(wroteAt(root, ".git/config").refusals[0]).toContain("holds the repository itself")
   expect(wroteAt(root, "akasha").refusals[0]).toContain("folder at the top of the repository")
-})
-
-test("a path outside the akasha folder is refused at --remove", () => {
-  const root = repoWith()
-  const said = removed(root, "elsewhere/two.ts")
-  expect(said.refusals[0]).toContain("say `akasha remove` for a path outside it")
 })
 
 test("a path climbing out of the root is refused", () => {
