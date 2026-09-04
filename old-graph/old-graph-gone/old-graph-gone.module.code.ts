@@ -3,7 +3,7 @@ export class OldGraphGone extends Error {}
 export function oldGraphGone(what: string): never {
   throw new OldGraphGone(
     `\`${what}\` asked the old graph, which is gone. Its caller has not been migrated onto ` +
-      `\`@akasha/graph-system\` yet.`
+      `\`@akasha/graph\` yet.`
   )
 }
 

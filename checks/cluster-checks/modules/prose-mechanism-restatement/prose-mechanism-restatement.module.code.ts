@@ -1,5 +1,5 @@
 import { classifyExtension, type FileKind } from "@akasha/code-system/file-kind"
-import { type FileKindNodeType, nodeTypeOf } from "@akasha/graph-system/file-kind-authorship"
+import { type FileKindNodeType, nodeTypeOf } from "@akasha/graph/file-kind-authorship"
 import { blankCode, type CommentSyntax } from "../blank-comments/blank-comments.module.code.ts"
 
 export interface Restatement {

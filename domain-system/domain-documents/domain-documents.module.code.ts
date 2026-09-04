@@ -1,4 +1,4 @@
-import { closure } from "@akasha/graph-system/graph-closure"
+import { closure } from "@akasha/graph/graph-closure"
 import { type Frontmatter, listField, textField } from "@akasha/markdown-pages/frontmatter"
 import { addressOf, slugNamed } from "@akasha/markdown-pages/page-address"
 import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"

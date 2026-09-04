@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/graph-system",
+  "name": "@akasha/graph",
   "private": true,
   "type": "module",
   "exports": {
