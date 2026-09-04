@@ -11,7 +11,7 @@ export const idIsAUuidVersion7 = {
   runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "absence",

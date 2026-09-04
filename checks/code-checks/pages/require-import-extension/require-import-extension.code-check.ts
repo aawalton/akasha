@@ -11,7 +11,7 @@ export const requireImportExtension = {
   runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "constraint",

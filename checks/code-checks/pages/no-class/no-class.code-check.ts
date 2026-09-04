@@ -10,7 +10,7 @@ export const noClass = {
   runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "constraint",

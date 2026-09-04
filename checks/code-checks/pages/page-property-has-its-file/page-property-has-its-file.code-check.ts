@@ -10,7 +10,7 @@ export const pagePropertyHasItsFile = {
   runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "departure",

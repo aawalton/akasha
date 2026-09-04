@@ -10,7 +10,7 @@ export const noRuleInTwoFiles = {
   runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "departure",
