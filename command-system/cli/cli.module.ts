@@ -14,15 +14,33 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer is waited for before anything is printed.",
+      statement: "An answer is waited for before the report is printed.",
     },
     {
       invariantKind: "departure",
-      statement: "What is printed is out before the exit code ends the process.",
+      statement: "The report and the refusals are out before the exit code ends the process.",
     },
     {
       invariantKind: "departure",
-      statement: "What was done is printed apart from what refused the command.",
+      statement: "An answer is written by writes that return before the exit code is given.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A write carrying part of the answer is followed by a write of the bytes left over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A destination refusing bytes for the moment is written to again rather than dropping the bytes left over.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Writing the answer sets no length on the destination beforehand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report is printed apart from the refusals.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +52,7 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit is authored by akasha whatever ran the command.",
+      statement: "A commit names akasha as the author rather than the caller of the command.",
     },
   ],
 } as const satisfies Module
