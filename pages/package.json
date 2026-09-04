@@ -51,7 +51,7 @@
     "./page-formulas": "./formulas/page-formulas.module.code.ts",
     "./page-landing-journal": "./landing-journal/page-landing-journal.module.code.ts",
     "./page-landing-judge": "./landing-judge/page-landing-judge.module.code.ts",
-    "./page-narrow": "./page-narrow/page-narrow.module.code.ts",
+    "./page-narrow": "./narrow/page-narrow.module.code.ts",
     "./page-property": "./page-types/page-properties/page-property.page-type.ts",
     "./page-property-entry": "./page-property-entries/page-property-entry.page-type.ts",
     "./page-property-key": "./page-types/page-properties/key/page-property-key.module.code.ts",
