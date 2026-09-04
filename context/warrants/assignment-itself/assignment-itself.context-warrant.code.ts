@@ -1,6 +1,6 @@
 import { listedAddressed, listedAt } from "@akasha/indexes"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
-import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
+import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const ASSIGNMENT =

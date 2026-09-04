@@ -1,5 +1,5 @@
 import { listedAt } from "@akasha/indexes"
-import { slugStated } from "../../agent-stated/agent-stated.module.code.ts"
+import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PERSONA =
