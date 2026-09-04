@@ -1,0 +1,76 @@
+diff --git a/pages/page-commands/page-secret-acting/page-secret-acting.module.code.ts b/pages/page-commands/page-secret-acting/page-secret-acting.module.code.ts
+index 4ff152abd36fe25c35922f40660df0bd67f079db..51233c8e4cb63f807f2c5d2a343ef6c501b05ac5 100644
+--- a/pages/page-commands/page-secret-acting/page-secret-acting.module.code.ts
++++ b/pages/page-commands/page-secret-acting/page-secret-acting.module.code.ts
+@@ -179,9 +179,9 @@ export async function landedWith(
+   })
+ }
+ 
+-export function caught(run: () => Answer): Answer {
++export async function caught(run: () => Answer | Promise<Answer>): Promise<Answer> {
+   try {
+-    return run()
++    return await run()
+   } catch (thrown) {
+     return { report: [], refusals: [whyOf(thrown), "nothing was written"], code: 3 }
+   }
+diff --git a/pages/page-commands/page-secret-clear/page-secret-clear.command.code.ts b/pages/page-commands/page-secret-clear/page-secret-clear.command.code.ts
+index b08bcea8b9e26237610e9aa9249fc76468a04eb2..22cbb72e6f246556cf00a7d952b9878be279cd57 100644
+--- a/pages/page-commands/page-secret-clear/page-secret-clear.command.code.ts
++++ b/pages/page-commands/page-secret-clear/page-secret-clear.command.code.ts
+@@ -12,8 +12,8 @@ import {
+ 
+ const ACT = "clear"
+ 
+-export function pageSecretClear(argv: readonly string[], given: Given): Answer {
+-  return caught(() => {
++export async function pageSecretClear(argv: readonly string[], given: Given): Promise<Answer> {
++  return await caught(() => {
+     const aimed = aiming(argv, given, [FILE_PATH, KEY, MESSAGE])
+     if ("code" in aimed) return aimed
+     const key = aimed.key as string
+diff --git a/pages/page-commands/page-secret-reveal/page-secret-reveal.command.code.ts b/pages/page-commands/page-secret-reveal/page-secret-reveal.command.code.ts
+index 4f7f6dd0ebfc418a41c440ceadb31b5af3c57322..b19b08d9db972fd32acae38cda75983b4afaadcc 100644
+--- a/pages/page-commands/page-secret-reveal/page-secret-reveal.command.code.ts
++++ b/pages/page-commands/page-secret-reveal/page-secret-reveal.command.code.ts
+@@ -8,8 +8,8 @@ import {
+   wrongData,
+ } from "../page-secret-acting/page-secret-acting.module.code.ts"
+ 
+-export function pageSecretReveal(argv: readonly string[], given: Given): Answer {
+-  return caught(() => {
++export async function pageSecretReveal(argv: readonly string[], given: Given): Promise<Answer> {
++  return await caught(() => {
+     const aimed = aiming(argv, given, [FILE_PATH, KEY])
+     if ("code" in aimed) return aimed
+     const key = aimed.key as string
+diff --git a/pages/page-commands/page-secret-set/page-secret-set.command.code.ts b/pages/page-commands/page-secret-set/page-secret-set.command.code.ts
+index ea68c0aa0926b55dc1fc41af382093b03bac96cd..ab9a215a7823975c07c4b1d57f3461840cd2d79d 100644
+--- a/pages/page-commands/page-secret-set/page-secret-set.command.code.ts
++++ b/pages/page-commands/page-secret-set/page-secret-set.command.code.ts
+@@ -16,8 +16,8 @@ const ACT = "set"
+ 
+ const BARE = "a secret's value is piped in, and nothing is piped in"
+ 
+-export function pageSecretSet(argv: readonly string[], given: Given): Answer {
+-  return caught(() => {
++export async function pageSecretSet(argv: readonly string[], given: Given): Promise<Answer> {
++  return await caught(() => {
+     const aimed = aiming(argv, given, [FILE_PATH, KEY, MESSAGE])
+     if ("code" in aimed) return aimed
+     const key = aimed.key as string
+diff --git a/pages/page-commands/page-secret-show/page-secret-show.command.code.ts b/pages/page-commands/page-secret-show/page-secret-show.command.code.ts
+index 741dc0ef5808e0416f0d63f2d5d5b9e01cb79cfb..470b42a7c91cc2b9f14a14532919e01edf5d1eac 100644
+--- a/pages/page-commands/page-secret-show/page-secret-show.command.code.ts
++++ b/pages/page-commands/page-secret-show/page-secret-show.command.code.ts
+@@ -9,8 +9,8 @@ import {
+ 
+ const NOTHING = "nothing"
+ 
+-export function pageSecretShow(argv: readonly string[], given: Given): Answer {
+-  return caught(() => {
++export async function pageSecretShow(argv: readonly string[], given: Given): Promise<Answer> {
++  return await caught(() => {
+     const aimed = aiming(argv, given, [FILE_PATH])
+     if ("code" in aimed) return aimed
+     const target = aimed.target
