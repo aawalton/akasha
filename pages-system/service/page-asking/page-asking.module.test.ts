@@ -9,7 +9,7 @@ import {
   type Query,
 } from "./page-asking.module.code.ts"
 
-const root = join(import.meta.dir, "..", "..", "..", "..")
+const root = join(import.meta.dir, "..", "..", "..")
 
 function rowsOf(asked: Asked): readonly Record<string, unknown>[] {
   if ("refused" in asked) throw new Error(`refused: ${asked.refused}`)
