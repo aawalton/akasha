@@ -39,6 +39,24 @@ index 49a2af1db7ecaea1e44d482ae5e75aac5dead3f9..195ddd7882694b898ddee1c320b65c85
    ],
    invariants: [
      {
+diff --git a/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts b/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts
+index b3332779a6753c4f99c73d71a4cf91da90cdbd1d..cb6315d91d80685a9995930ded575e1ee98b8ff6 100644
+--- a/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts
++++ b/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts
+@@ -11,6 +11,13 @@ export const domainIsNamedByAParent = {
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
++  measured: {
++    atCommit: "9ef8c16444",
++    onePathMs: 14,
++    onePathBytes: 5767168,
++    wholeTreeMs: 4220,
++    wholeTreeBytes: 302661632,
++  },
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/checks/code-checks/properties/at-commit.text-property.ts b/checks/code-checks/properties/at-commit.text-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..061b94022a98e7d86eb085a290715b7f8689a2be
