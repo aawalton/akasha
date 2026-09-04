@@ -90,17 +90,38 @@ index edac7ada1b51bea9552c0a02b0232ed37078b0af..857bbe8c2f796112f9fe1508039c59f5
    if (where === undefined) return null
    const values = akashaBesideOf(agentId)
 diff --git a/seat-system/seat-akasha-read/seat-akasha-read.module.ts b/seat-system/seat-akasha-read/seat-akasha-read.module.ts
-index 14fefbf9709f49e9c1abc2c65f0556c07b459e0e..aa777cc8bf4fd042ec6d3d74e631b822c880f3d4 100644
+index 14fefbf9709f49e9c1abc2c65f0556c07b459e0e..f905e8addbef1def15dff703af8dec758725f2e4 100644
 --- a/seat-system/seat-akasha-read/seat-akasha-read.module.ts
 +++ b/seat-system/seat-akasha-read/seat-akasha-read.module.ts
-@@ -27,9 +27,5 @@ export const seatAkashaRead = {
-       invariantKind: "departure",
-       statement: "A seat's activity is when what is observed of it was last written.",
+@@ -13,7 +13,7 @@ export const seatAkashaRead = {
      },
--    {
--      invariantKind: "departure",
+     {
+       invariantKind: "departure",
+-      statement: "A title is answered as the seat's slug, since akasha holds none.",
++      statement: "A title is answered as the seat's slug.",
+     },
+     {
+       invariantKind: "departure",
+@@ -21,15 +21,18 @@ export const seatAkashaRead = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seats are named by the index, so no page is opened to find them.",
++      statement: "The seats are named by the index.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat's activity is when what is observed of it was last written.",
++      statement: "No page is opened to find the seats.",
+     },
++<<<<<<< what this change would leave
++=======
+     {
+       invariantKind: "departure",
 -      statement: "A replaced context is answered with its source and the moment it happened.",
--    },
++      statement: "A seat's activity is when what is observed of the seat was last written.",
+     },
++>>>>>>> what HEAD holds
    ],
  } as const satisfies Module
 diff --git a/seat-system/seat-beside/seat-beside.module.code.ts b/seat-system/seat-beside/seat-beside.module.code.ts
@@ -452,7 +473,7 @@ index 14ee003071f3dfa9885c1b72f69f8c395836b985..00000000000000000000000000000000
 -  ],
 -} as const satisfies RecordProperty
 diff --git a/seat-system/seats/seat.page-type.ts b/seat-system/seats/seat.page-type.ts
-index 8d29fdee6a9cd7024720f33ee5a62c5c39b421e2..d94ad28abbc5c37d48fa405b1cfd38ce67f08d4d 100644
+index 8d29fdee6a9cd7024720f33ee5a62c5c39b421e2..8693cb7ceb0328b3c613994131d7733fe1b0e1fb 100644
 --- a/seat-system/seats/seat.page-type.ts
 +++ b/seat-system/seats/seat.page-type.ts
 @@ -1,7 +1,6 @@
@@ -502,3 +523,27 @@ index 8d29fdee6a9cd7024720f33ee5a62c5c39b421e2..d94ad28abbc5c37d48fa405b1cfd38ce
      { pagePropertySlug: "re-exec-ask", required: false, many: false, uncommitted: true },
      {
        pagePropertySlug: "rotated-session-uuid",
+@@ -112,7 +106,7 @@ export const seat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat's attributes can be re-stated without making it another seat.",
++      statement: "Re-stating a seat's attributes leaves the seat the same seat.",
+     },
+     {
+       invariantKind: "departure",
+@@ -120,11 +114,12 @@ export const seat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat states the person who opened it or the seat that spawned it.",
++      statement: "A seat states the person who opened the seat or the seat that spawned the seat.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No seat states both the person who opened it and the seat that spawned it.",
++      statement:
++        "No seat states both the person who opened the seat and the seat that spawned the seat.",
+     },
+   ],
+ } as const satisfies PageType
