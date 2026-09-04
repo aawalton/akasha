@@ -48,6 +48,11 @@ export function assign(target: Record<string, unknown>, key: string, value: unkn
 
 type Runs<T> = (value: unknown, path: ShapePath) => Outcome<T>
 
+export type SomeShape = {
+  readonly run: (value: unknown, path: ShapePath) => Outcome<unknown>
+  readonly acceptsAbsent: boolean
+}
+
 export type Shape<T> = {
   readonly run: Runs<T>
   readonly acceptsAbsent: boolean

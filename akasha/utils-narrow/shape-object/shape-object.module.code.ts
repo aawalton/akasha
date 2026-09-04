@@ -9,10 +9,11 @@ import {
   Shape,
   type ShapeIssue,
   type ShapePath,
+  type SomeShape,
 } from "../shape-core/shape-core.module.code.ts"
 import type { LiteralShape } from "../shape-scalar/shape-scalar.module.code.ts"
 
-export type Fields = { readonly [key: string]: Shape<unknown> }
+export type Fields = { readonly [key: string]: SomeShape }
 
 type Simplify<T> = { [K in keyof T]: T[K] } & {}
 
@@ -50,7 +51,7 @@ function parseFields(
 
   for (const name of declared) {
     const present = Object.hasOwn(value, name)
-    const field = fields[name] as Shape<unknown>
+    const field = fields[name] as SomeShape
     const outcome = field.run(present ? value[name] : undefined, [...path, name])
     if (!outcome.ok) {
       issues.push(...outcome.issues)
@@ -132,9 +133,9 @@ export function array<T>(element: Shape<T>): Shape<T[]> {
   })
 }
 
-type TupleOut<M extends readonly Shape<unknown>[]> = { -readonly [K in keyof M]: Infer<M[K]> }
+type TupleOut<M extends readonly SomeShape[]> = { -readonly [K in keyof M]: Infer<M[K]> }
 
-export function tuple<const M extends readonly Shape<unknown>[]>(items: M): Shape<TupleOut<M>> {
+export function tuple<const M extends readonly SomeShape[]>(items: M): Shape<TupleOut<M>> {
   return Shape((value, path) => {
     if (!Array.isArray(value)) {
       return refused(
@@ -152,7 +153,7 @@ export function tuple<const M extends readonly Shape<unknown>[]>(items: M): Shap
     const issues: ShapeIssue[] = []
     const out: unknown[] = []
     for (let index = 0; index < items.length; index += 1) {
-      const outcome = (items[index] as Shape<unknown>).run(value[index], [...path, index])
+      const outcome = (items[index] as SomeShape).run(value[index], [...path, index])
       if (outcome.ok) out.push(outcome.value)
       else issues.push(...outcome.issues)
     }
@@ -186,9 +187,7 @@ export function record<V>(keys: Shape<string>, values: Shape<V>): Shape<Record<s
   })
 }
 
-export function union<const M extends readonly Shape<unknown>[]>(
-  members: M
-): Shape<Infer<M[number]>> {
+export function union<const M extends readonly SomeShape[]>(members: M): Shape<Infer<M[number]>> {
   return Shape((value, path) => {
     for (const member of members) {
       const outcome = member.run(value, path)
@@ -198,9 +197,9 @@ export function union<const M extends readonly Shape<unknown>[]>(
   })
 }
 
-type Tagged = Shape<unknown> & { readonly fields: Fields }
+type Tagged = SomeShape & { readonly fields: Fields }
 
-function literalIn(marker: Shape<unknown> | undefined): LiteralShape<string> | undefined {
+function literalIn(marker: SomeShape | undefined): LiteralShape<string> | undefined {
   if (marker === undefined) return undefined
   if (!("value" in marker) || typeof marker.value !== "string") return undefined
   return marker as LiteralShape<string>
@@ -210,7 +209,7 @@ export function discriminatedUnion<const M extends readonly Tagged[]>(
   key: string,
   members: M
 ): Shape<Infer<M[number]>> {
-  const byTag = new Map<string, Shape<unknown>>()
+  const byTag = new Map<string, SomeShape>()
   for (const member of members) {
     const marker = literalIn(member.fields[key])
     if (marker === undefined) {
