@@ -9,19 +9,23 @@ index f4e73b8cb6758f41ed08d58024ef572b87203dd0..d0469c9422461bc947a76d542cc89f9e
  let answerTtlMs = 0
  
 diff --git a/pages/query-keys/page-query-keys.module.code.ts b/pages/query-keys/page-query-keys.module.code.ts
-index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..006759ce67f9cee5dea326e77177ed1b48100bac 100644
+index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..2d1ad1d39b05c535d789fde13afe23fb94edaabd 100644
 --- a/pages/query-keys/page-query-keys.module.code.ts
 +++ b/pages/query-keys/page-query-keys.module.code.ts
-@@ -1,6 +1,11 @@
+@@ -1,6 +1,15 @@
 -import type { Carries } from "../page-derive-shape/page-derive-shape.module.code.ts"
 +<<<<<<< what this change would leave
 +import type { Carries } from "../derive-shape/page-derive-shape.module.code.ts"
  import type { PageQuery } from "../page-query-shape/page-query-shape.module.code.ts"
++<<<<<<< what this change would leave
 +=======
 +import type { Carries } from "../page-derive-shape/page-derive-shape.module.code.ts"
 +>>>>>>> what HEAD holds
  import { BODY } from "../page-value-key/page-value-key.module.code.ts"
 +import type { PageQuery } from "../query-shape/page-query-shape.module.code.ts"
++=======
++import { BODY } from "../value-key/page-value-key.module.code.ts"
++>>>>>>> what HEAD holds
  
  export function askedKeys(query: PageQuery): readonly string[] {
    const wanted = new Set<string>(query.keys ?? [])
