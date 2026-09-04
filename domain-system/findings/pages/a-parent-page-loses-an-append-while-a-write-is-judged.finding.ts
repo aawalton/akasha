@@ -4,7 +4,8 @@ export const aParentPageLosesAnAppendWhileAWriteIsJudged = {
   id: "01a05bfa-f627-7000-ad60-970809a9b60e",
   pageTypeSlug: "finding",
   slug: "a-parent-page-loses-an-append-while-a-write-is-judged",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/page-storage",
+
   claim:
     "`akasha write` carries whole file bodies, so two lanes appending to one parent domain page cannot both win. A lane builds its body from the file as it reads it, and any append another lane commits before that write finishes being judged is dropped from the body. Chaining the read and the write into one bash call does not close this: the window is the check run itself, a minute or more, not the moment of reading. Every lane landing a package under `alan-harness` pays repeated retries for it.",
   evidence:

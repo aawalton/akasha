@@ -4,7 +4,8 @@ export const aReadTheHarnessSavesToAFileIsRecordedAsRead = {
   id: "01a060d3-cb3c-73ef-bbc5-b7016cdac78a",
   pageTypeSlug: "finding",
   slug: "a-read-the-harness-saves-to-a-file-is-recorded-as-read",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/required-reading",
+
   claim:
     "An agent harness that saves a large tool output to a file and shows the agent a short preview defeats the read record the same way a shell redirect does, and the guard cannot see it. The read is unpiped, so it is recorded; the body reaches a file the agent is told not to open. A seat batching twenty owed reads with its write met this on its first run.",
   evidence:

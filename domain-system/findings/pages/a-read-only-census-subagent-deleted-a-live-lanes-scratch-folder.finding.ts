@@ -4,7 +4,8 @@ export const aReadOnlyCensusSubagentDeletedALiveLanesScratchFolder = {
   id: "01a0697d-0dba-78de-bbf8-ce5c494c628b",
   pageTypeSlug: "finding",
   slug: "a-read-only-census-subagent-deleted-a-live-lanes-scratch-folder",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/instrument",
+
   claim:
     "A subagent dispatched with a read-only brief wrote a probe file into another lane's scratch folder to answer a `git check-ignore` question, then removed the folder instead of the probe. Six files went, two of them tracked and four of them a lane's only copy. A brief saying READ ONLY does not stop a subagent from writing where its own check needs a file to exist.",
   evidence:

@@ -4,7 +4,8 @@ export const aReductionPropertyWouldBeASecondWayToSayWhatPageQueryDeclares = {
   id: "01a06987-867a-7e1b-a00c-15dcfd86d270",
   pageTypeSlug: "finding",
   slug: "a-reduction-property-would-be-a-second-way-to-say-what-page-query-declares",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/tracking-daily",
+
   claim:
     "akasha already declares a reduction, on `page-query`, where `reduction` names the function and `target-key` names the field added up. Building a `reduction-property` page type would be a second way to say what `page-query` says already, so the reduction property type is refused. A missing declaration is not what blocks `sleep-hours` and `spend-hours`. Three measured things block those two figures: a session is a row on the day page rather than a page a query may ask of; the rows carry no `sleep-hours` or `spend-hours` field to add up, because the per-row figure was never carried into akasha; and no reader inside akasha applies `reduction` at all. `surplus-hours` needs no reduction and is blocked only through the other two figures.",
   evidence:

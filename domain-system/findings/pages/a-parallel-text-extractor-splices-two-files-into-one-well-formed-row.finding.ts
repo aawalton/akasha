@@ -4,7 +4,8 @@ export const aParallelTextExtractorSplicesTwoFilesIntoOneWellFormedRow = {
   id: "01a06751-3543-75b4-bc0b-6a740270b51d",
   pageTypeSlug: "finding",
   slug: "a-parallel-text-extractor-splices-two-files-into-one-well-formed-row",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/instrument",
+
   claim:
     "A field extractor run under `xargs -P` interleaves its parallel writes mid-line, so an index built that way holds rows spliced from two different files. The spliced row is well formed: it carries the right field count and plausible values in every field, so a seeded fault, a field check and a byte comparison all report it clean. Lanes are extracting fields from tens of thousands of files this way while the migration runs, and an index is what a lane decides ablations on.",
   evidence:

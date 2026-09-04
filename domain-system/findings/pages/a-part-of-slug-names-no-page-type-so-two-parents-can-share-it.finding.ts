@@ -4,7 +4,8 @@ export const aPartOfSlugNamesNoPageTypeSoTwoParentsCanShareIt = {
   id: "01a06748-3c02-7000-9b5e-41f7a0c8d233",
   pageTypeSlug: "finding",
   slug: "a-part-of-slug-names-no-page-type-so-two-parents-can-share-it",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/page-edge",
+
   claim:
     "`part-of-slugs` carries a bare slug with no page type in front of it, and a slug is unique only within a page type. 83 slugs are held by more than one of the 26 page types descending from `collection`, one of them by three, and 5,021 `part-of-slugs` entries across akasha name a slug in that set. So 5,021 parent references cannot say from the data alone which page they mean.",
   evidence:

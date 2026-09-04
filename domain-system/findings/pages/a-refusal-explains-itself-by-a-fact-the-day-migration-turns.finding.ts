@@ -4,7 +4,8 @@ export const aRefusalExplainsItselfByAFactTheDayMigrationTurns = {
   id: "01a0608f-82c2-7f86-a40d-fc9823ddec7f",
   pageTypeSlug: "finding",
   slug: "a-refusal-explains-itself-by-a-fact-the-day-migration-turns",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/code",
+
   claim:
     "A refusal or a comment under `akasha/` that explains itself by where a day is kept goes false when `MIGRATED_DAYS` turns while the code it explains stays right, so the next reader repairs the wrong thing. Two were corrected at `b208cd373a`. Three more carry the same idiom word for word over page types this flip does not move, so the shape recurs once per migration rather than once. A cheap check catches that idiom and nothing else in the class.",
   evidence:
