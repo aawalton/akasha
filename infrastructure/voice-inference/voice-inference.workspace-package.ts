@@ -7,7 +7,6 @@ export const voiceInference = {
   definition: "speech turned into text and text turned into speech on one card",
   manifest: "json",
   partSlugs: [
-    "cluster-service/voice-infer",
     "container-recipe/voice-infer-image",
     "python-module/voice-infer-server",
     "python-module/voice-models",
