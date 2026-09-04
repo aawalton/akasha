@@ -1,0 +1,15 @@
+diff --git a/command-system/patching/patching.module.ts b/command-system/patching/patching.module.ts
+index 8826fec9965c32e86b21941531c4411d286ab657..3223814e1775a30df8502367cd71d3a0d0fc9d92 100644
+--- a/command-system/patching/patching.module.ts
++++ b/command-system/patching/patching.module.ts
+@@ -74,6 +74,10 @@ export const patching = {
+       invariantKind: "departure",
+       statement: "A ref over a tree of the bodies a patch leaves is what keeps those blobs.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A commit holding a patch file keeps no blob that patch names.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "One ref keeps every blob one patch names.",
