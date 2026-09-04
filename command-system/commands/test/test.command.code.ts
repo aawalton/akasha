@@ -7,7 +7,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
 
-const INSIDE = "akasha"
+const WHOLE = "."
 
 export const ANSWER_CEILING = 28000
 
@@ -40,15 +40,14 @@ function meaning(argv: readonly string[]): Meant {
 
 export function aiming(paths: readonly string[], given: Given): Aimed {
   const root = resolve(given.root)
-  const bound = join(root, INSIDE)
-  if (paths.length === 0) return { named: [INSIDE], refusals: [] }
+  if (paths.length === 0) return { named: [WHOLE], refusals: [] }
   const named: string[] = []
   const refusals: string[] = []
   const already = new Set<string>()
   for (const one of paths) {
     const absolute = resolve(one.startsWith("/") ? one : join(root, one))
-    if (absolute !== bound && !absolute.startsWith(`${bound}/`)) {
-      refusals.push(`${one} stands outside \`${INSIDE}/\`, and this runs what stands inside it`)
+    if (absolute !== root && !absolute.startsWith(`${root}/`)) {
+      refusals.push(`${one} stands outside the repository, and this runs what stands inside it`)
       continue
     }
     if (!existsSync(absolute)) {
