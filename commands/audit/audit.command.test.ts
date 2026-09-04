@@ -35,6 +35,7 @@ function gathered(slugs: readonly string[], runsOn: readonly Phase[]): readonly 
     (slug): Gathered => ({
       slug,
       page: `${slug}.code-check.ts`,
+      root: ".",
       runsOn,
       isInput: null,
       run: () => [],
