@@ -35,7 +35,7 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement:
-        "A page whose type declares an uncommitted file property claims that property's file beside the page.",
+        "A page whose type gives a file property a default claims that property's file beside the page.",
     },
     {
       invariantKind: "departure",
@@ -48,6 +48,11 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement: "A property whose file is named outright is claimed once rather than twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property a page states and its type defaults is claimed once rather than twice.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +85,15 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties a page type holds in a file is answered under that page type rather than across every page type.",
+        "Which properties a page type holds in a file is answered under that page type alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key reaches the property its page type declares or reaches nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bare declaration name is narrowed across every kind of page property.",
     },
     {
       invariantKind: "departure",

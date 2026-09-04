@@ -27,7 +27,11 @@ export const patch = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch is kept outside the commit.",
+      statement: "A patch file is committed as any other file beside a page is committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Committing a patch file leaves the change that patch draws unlanded.",
     },
     {
       invariantKind: "departure",

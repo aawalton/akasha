@@ -35,7 +35,7 @@ export const dallaDraftIntoAPatch = {
     "A warrant refuses a draft as it refuses a landing.",
     "A patch holding conflicts does not apply.",
     "An agent id carries at most one patch.",
-    "A patch is uncommitted state on the seat and the subagent rather than a page.",
+    "A patch is a file committed beside its agent's page rather than a page.",
     "A patch and its conflicts are stored in the formats git already reads.",
     "A draft is an authored change.",
     "A subagent drafts by default rather than applying.",

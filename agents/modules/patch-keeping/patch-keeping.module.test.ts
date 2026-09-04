@@ -6,7 +6,7 @@ import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "./patch-keepi
 
 const SEAT = "akasha/seat-system/seats/pages/dalla.seat.ts"
 
-const BESIDE = "akasha/seat-system/seat/seats/dalla.seat.patch.uncommitted.diff"
+const BESIDE = "akasha/seat-system/seats/pages/dalla.seat.patch.diff"
 
 const ONE = "diff --git a/a.ts b/a.ts\n"
 

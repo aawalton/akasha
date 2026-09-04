@@ -31,7 +31,7 @@ export const agent = {
       default: "domain/akasha",
     },
     { pagePropertySlug: "principal-seat-name", required: false, many: false },
-    { pagePropertySlug: "patch", required: false, many: false, uncommitted: true, default: "diff" },
+    { pagePropertySlug: "patch", required: false, many: false, default: "diff" },
   ],
   invariants: [
     {

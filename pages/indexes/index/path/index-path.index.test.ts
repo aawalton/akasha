@@ -46,7 +46,7 @@ test("a page whose type declares an uncommitted value claims the file beside it"
   ])
 })
 
-test("a page whose type declares an uncommitted file property claims that file beside it", () => {
+test("a page whose type declares a file property with a default claims that file beside it", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
   const drafting: SidecarsBy = new Map([
@@ -57,11 +57,11 @@ test("a page whose type declares an uncommitted file property claims that file b
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.uncommitted.ts.jsonl", line },
-    { at: "path/a.domain.patch.uncommitted.diff.jsonl", line },
+    { at: "path/a.domain.patch.diff.jsonl", line },
   ])
 })
 
-test("a page states no uncommitted file property, so the page claims it without stating it", () => {
+test("a page stating the property its type defaults claims that file once", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", patch: "diff" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
   const drafting: SidecarsBy = new Map([
@@ -72,7 +72,6 @@ test("a page states no uncommitted file property, so the page claims it without 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.patch.diff.jsonl", line },
-    { at: "path/a.domain.patch.uncommitted.diff.jsonl", line },
   ])
 })
 

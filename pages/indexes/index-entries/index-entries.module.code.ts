@@ -1,6 +1,6 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { secretAt, uncommittedAt, uncommittedBesideAt } from "@akasha/pages-system/page-file-name"
+import { besideAt, secretAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
 import { partsOf } from "@akasha/pages-system/page-file-parts"
 import { slugFor } from "@akasha/pages-system/page-property-key"
 import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
@@ -119,8 +119,7 @@ function declaredIn(value: Value): Sidecars {
     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
     const held = one as Record<string, unknown>
     if (held["secret"] === true) secret = true
-    if (held["uncommitted"] !== true) continue
-    uncommitted = true
+    if (held["uncommitted"] === true) uncommitted = true
     const slug = held[DECLARES]
     const fallback = held[FALLBACK]
     if (typeof slug === "string" && typeof fallback === "string") found.set(slug, fallback)
@@ -190,8 +189,8 @@ export function claimsOf(
   }
   for (const [slug, fallback] of held.besides) {
     if (carried?.get(slug) !== null) continue
-    const beside = uncommittedBesideAt(own, slug, fallback)
-    if (beside !== null) found.push(beside)
+    const beside = besideAt(own, slug, fallback)
+    if (beside !== null && !found.includes(beside)) found.push(beside)
   }
   return found
 }
@@ -240,12 +239,6 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string 
   })
 }
 
-// A KEY IS UNIQUE AMONG THE PROPERTIES ONE PAGE TYPE CARRIES, what it inherits included, and
-// `fileKeysAt` answers across every page type at once. Where two page types carry one key and
-// only one of them holds it in a file, that map says every page carrying the key holds a file:
-// `pathsOf` then builds a sidecar path out of whatever the other page carries under it, and a
-// paragraph of prose becomes a file name longer than the file system takes. This answers under
-// the page type, so a key reaches the property that page type declares or reaches nothing.
 export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | null>>
 
 type Held = {
@@ -254,11 +247,6 @@ type Held = {
   readonly fileName: string | null
 }
 
-// A BARE DECLARATION NAME NARROWS ACROSS EVERY KIND rather than across the file-ish ones alone,
-// as `shapedIn` does. Narrowing over part of the kinds would let a bare name land on a file
-// property where a page property of another kind already carries that name, which is the same
-// bare-key mistake one turn further in. One left is the answer; several is a collision this
-// cannot settle, and it declares neither rather than picking.
 function bareAmong(properties: ReadonlyMap<string, Held>): ReadonlyMap<string, Held | null> {
   const found = new Map<string, Held | null>()
   for (const [named, one] of properties) {

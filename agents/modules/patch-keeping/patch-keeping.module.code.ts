@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { uncommittedBesideAt } from "@akasha/pages-system/page-file-name"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 
 const SLUG = "patch"
 
@@ -10,7 +10,7 @@ const HELD = "diff"
 const WRITING = ".writing"
 
 export function patchAt(page: string): string | null {
-  return uncommittedBesideAt(page, SLUG, HELD)
+  return besideAt(page, SLUG, HELD)
 }
 
 function readAt(full: string): string | null {

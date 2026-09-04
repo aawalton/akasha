@@ -154,7 +154,7 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
     .sort()
 }
 
-const PATCH_SUFFIX = ".subagent.patch.uncommitted.diff"
+const PATCH_SUFFIX = ".subagent.patch.diff"
 
 export function patchesUnder(root: string, seatName: string): readonly string[] {
   const mark = `${seatName}-`
