@@ -4,7 +4,7 @@ export const aPartSlugLandedWithItsPageTypeWarnsThatNoPageTypeCarriesIt = {
   id: "01a0685f-f6ff-70e0-956e-98a8a62bd881",
   pageTypeSlug: "finding",
   slug: "a-part-slug-landed-with-its-page-type-warns-that-no-page-type-carries-it",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     '`landedMechanically` says "the index took less than the whole of this — <file>: `part-slugs` — no `page-type` carries the slug <X>" when the page type X is written in the same batch as the part-slug naming it. The landing is whole and the file is on disk; the index resolves part-slugs before it has taken in that batch\'s new pages. A lane reading that line as a failed landing would ablate nothing and re-land needlessly.',
   evidence:

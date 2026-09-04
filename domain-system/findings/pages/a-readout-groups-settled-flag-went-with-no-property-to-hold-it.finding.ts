@@ -4,7 +4,7 @@ export const aReadoutGroupsSettledFlagWentWithNoPropertyToHoldIt = {
   id: "01a06558-bbb0-7004-bcef-f7db0d5c3629",
   pageTypeSlug: "finding",
   slug: "a-readout-groups-settled-flag-went-with-no-property-to-hold-it",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "The readout groups carried a `settled` flag in markdown that no akasha page carries and no akasha page property declares. The field was dropped across the whole family rather than for one page, so nothing refused it and nothing records that it went. Whoever wants to know which groups were settled has only the backup to read it from.",
   evidence:
