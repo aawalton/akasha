@@ -11,7 +11,6 @@
     "@akasha/browser-test-harness": "workspace:*",
     "@akasha/checkout-version": "workspace:*",
     "@akasha/ci-benchmark": "workspace:*",
-    "@akasha/ci-containers": "workspace:*",
     "@akasha/comfy": "workspace:*",
     "@akasha/day": "workspace:*",
     "@akasha/errors-core": "workspace:*",
