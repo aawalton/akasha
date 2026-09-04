@@ -1,169 +1,33 @@
-diff --git a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts
-index 4b9d65495ef316e562812733668e4fd7fde86b5a..7b1f2e253d574a6932c4fe5dff5601d4bbbd84c4 100644
---- a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts
-+++ b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts
-@@ -59,7 +59,12 @@ async function main(): Promise<void> {
- 
-   for (const one of reading.orphans) console.log(`${SAID} ORPHAN: ${named(one)}`)
- 
--  const wrote = writeMessage({ to: HANDLER, from: SENDER, warrant: "announce", body: signal.text })
-+  const wrote = await writeMessage({
-+    to: HANDLER,
-+    from: SENDER,
-+    warrant: "announce",
-+    body: signal.text,
-+  })
-   if (wrote.kind === "refused") {
-     throw new Error(`${SAID} nothing is waiting for \`${HANDLER}\`: ${wrote.detail}`)
-   }
-diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts
-index 0f3191991a984d4b232f17389d83d98f26abadae..335644c691fe0d4bcbdb939d0498426eb7c7f3b4 100644
---- a/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts
-+++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts
-@@ -18,7 +18,7 @@ function sendOne(one: Standing): string | null {
-   return null
- }
- 
--function main(): number {
-+async function main(): Promise<number> {
-   const root = akashaRoot()
-   const now = Date.now()
-   const held: string[] = []
-diff --git a/rule-population/rule-population-reading/rule-population-reading.module.code.ts b/rule-population/rule-population-reading/rule-population-reading.module.code.ts
-index b77a80f874d996b205a7f98d9e79affc901a6265..97d4232ad54aac4b4fb5fd7cb7718bbe71844651 100644
---- a/rule-population/rule-population-reading/rule-population-reading.module.code.ts
-+++ b/rule-population/rule-population-reading/rule-population-reading.module.code.ts
-@@ -56,8 +56,11 @@ export async function readRulePopulations(log: (line: string) => void): Promise<
-   return { ...notification, repoRoot }
- }
- 
--export function fileReadingFor(reading: SweptReading, log: (line: string) => void): string {
--  const wrote = writeMessage({
-+export async function fileReadingFor(
-+  reading: SweptReading,
-+  log: (line: string) => void
-+): Promise<string> {
-+  const wrote = await writeMessage({
-     to: READER,
-     from: SENDER,
-     warrant: "announce",
-diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts
-index 7f86b1b343e87cf34a8d229681a73c86a0904642..51b3934e2873266614cd8be73d67e485bd9221ea 100644
---- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts
-+++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts
-@@ -30,7 +30,7 @@ async function main(): Promise<void> {
-     return
-   }
- 
--  fileReadingFor(reading, log)
-+  await fileReadingFor(reading, log)
- }
- 
- if (import.meta.main) {
 diff --git a/seat-system/agent-record/agent-record.module.code.ts b/seat-system/agent-record/agent-record.module.code.ts
-index 3a82cd068b5eaf6100bc48bbe8c4c7f8f5efeca0..a11c0b8f8b66b7ff02d4f84a5dd290076dbd6ab2 100644
+index af4863a3f85f42161eb3eab8e8f7fea5d85c863e..845c52b6fd5b156bd50b7c7290f4f778c347aa90 100644
 --- a/seat-system/agent-record/agent-record.module.code.ts
 +++ b/seat-system/agent-record/agent-record.module.code.ts
-@@ -21,12 +21,12 @@ export function readSeatPage(handler: string): SeatReading {
-   }
+@@ -49,11 +49,19 @@ export async function writeAnnouncement(
+   return wrote.id
  }
  
--export function writeAnnouncement(
-+export async function writeAnnouncement(
+-export async function recordToAgent(
++export function recordToAgent(
    handler: string,
    body: string,
    log: (line: string) => void,
    from: string = DEFAULT_SENDER
--): string {
-+): Promise<string> {
-   const seat = readSeatPage(handler)
-   if (seat.kind === "no-page") {
-     throw new Error(
-@@ -40,7 +40,7 @@ export function writeAnnouncement(
-         "addressed by name regardless, and whoever drains it resolves the seat"
-     )
-   }
--  const wrote = writeMessage({ to: handler, from, warrant: "announce", body })
-+  const wrote = await writeMessage({ to: handler, from, warrant: "announce", body })
-   if (wrote.kind === "refused") {
-     throw new Error(
-       `the message to \`${handler}\` was not written, so nothing is waiting: ${wrote.detail}`
-@@ -55,5 +55,5 @@ export function recordToAgent(
-   log: (line: string) => void,
-   from: string = DEFAULT_SENDER
  ): Promise<string> {
--  return Promise.resolve(writeAnnouncement(handler, body, log, from))
++<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +  return writeAnnouncement(handler, body, log, from)
++=======
+   return Promise.resolve(await writeAnnouncement(handler, body, log, from))
++>>>>>>> what HEAD holds
++=======
++  return writeAnnouncement(handler, body, log, from)
++>>>>>>> what HEAD holds
  }
-diff --git a/seat-system/messaging/message-file/message-file.module.code.ts b/seat-system/messaging/message-file/message-file.module.code.ts
-index e9b3c04edb21fe96b956619a6de79d7935d969b9..a9a475dd6d7d0f5fd68e930091e36429e06fc593 100644
---- a/seat-system/messaging/message-file/message-file.module.code.ts
-+++ b/seat-system/messaging/message-file/message-file.module.code.ts
-@@ -112,7 +112,7 @@ export async function writeMessage(stated: {
-   readonly from: string
-   readonly warrant: Warrant
-   readonly body: string
--}): Written {
-+}): Promise<Written> {
-   const refused = recipientRefused(stated.to)
-   if (refused !== null) return { kind: "refused", detail: refused }
-   const unknown = unknownRecipient(stated.to)
-diff --git a/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts b/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts
-index a07c231bc87f32659a013214ec495cb93b73cd60..646869cac4a92a0ae60dd8d8b755887c5a2dede7 100644
---- a/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts
-+++ b/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts
-@@ -32,12 +32,12 @@ export function buildUnrevivableMessageBody(name: string, agentId: string): stri
-   )
- }
- 
--export function messageUnrevivableToKeeper(
-+export async function messageUnrevivableToKeeper(
-   keeper: string,
-   name: string,
-   agentId: string
--): undefined {
--  const wrote = writeMessage({
-+): Promise<undefined> {
-+  const wrote = await writeMessage({
-     to: keeper,
-     from: KEEPER_UNREVIVABLE_SOURCE,
-     warrant: "announce",
-diff --git a/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts b/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
-index 289d2dd362a26d3df0d4ebd75cb9f18df70a3c1d..6220b268f6f5afc6af4cf7f90353c63c4f334983 100644
---- a/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
-+++ b/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
-@@ -56,7 +56,7 @@ export function defaultRecipientResolverDeps(
-       unrevivableReported.add(agentId)
-       try {
-         if (tellSeat === null) await pushKeeperUnrevivableToAlan(name, agentId)
--        else messageUnrevivableToKeeper(tellSeat, name, agentId)
-+        else await messageUnrevivableToKeeper(tellSeat, name, agentId)
-         console.log(
-           `${LOG} recipient-resolver: told ${told} — ${name} (${agentId}) revive did NOT verify`
-         )
 diff --git a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
-index cca23d397a9f518301de10463bc24c407e780fe6..ee34176b6478323c25486f5d0ccb68565343873a 100644
+index 48d63e5d1fde063a699539fe711427f5cd7af42c..ee34176b6478323c25486f5d0ccb68565343873a 100644
 --- a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
 +++ b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
-@@ -23,7 +23,7 @@ export function hasRecentInboundMessage(
-   )
- }
- 
--export function sendMessage(input: {
-+export async function sendMessage(input: {
-   readonly targetAgentId: string
-   readonly userId: string
-   readonly content: string
-@@ -37,7 +37,7 @@ export function sendMessage(input: {
-         "refused rather than written where nobody drains it"
-     )
-   }
--  const wrote = writeMessage({
-+  const wrote = await writeMessage({
-     to: seatName,
-     from: SENDER,
-     warrant: input.warrant.kind === "blocked" ? "blocked" : "announce",
-@@ -48,7 +48,6 @@ export function sendMessage(input: {
+@@ -48,7 +48,6 @@ export async function sendMessage(input: {
        `the message to \`${seatName}\` was not written, so nothing is waiting: ${wrote.detail}`
      )
    }
