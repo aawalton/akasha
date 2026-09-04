@@ -46,3 +46,30 @@ index 4c73eb7c34a4be975a86a9e99e790db98ce91eb6..771c14ae258b106e6ac0c26401852f30
    "anything a run writes, and the command's own help says only that it writes nothing. A",
    "subagent reading that help and reasoning to a read-only run being safe reasons correctly",
    "from what it was told and lands on the wrong answer, so the refusal says the cost outright.",
+diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.test.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.test.ts
+index d530849300ae280ffeaadb237ef0f77d964a62e7..aa2f16d39c94f66c65dfd86a0770ba1594d119b3 100644
+--- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.test.ts
+@@ -52,12 +52,20 @@ test("a seat's narrowed run is let through too", () => {
+ 
+ test("the refusal says what a run costs rather than what a run writes", () => {
+   const err = answerFor(payload("akasha audit", OWN)).err
+-  expect(err).toContain("17 GB")
+-  expect(err).toContain("fifteen minutes")
++  expect(err).toContain("21 GB")
++  expect(err).toContain("eight minutes")
+   expect(err).toContain("what a run COSTS while it holds the machine")
+   expect(err).toContain("--check")
+ })
+ 
++test("the refusal says what narrowing costs rather than denying that narrowing helps", () => {
++  const err = answerFor(payload("akasha audit", OWN)).err
++  expect(err).toContain("--file-path")
++  expect(err).toContain("1.5 GB")
++  expect(err).toContain("0.6 GB")
++  expect(err).toContain("reads who calls rather than what the call asks for")
++})
++
+ test("the refusal names what answers instead", () => {
+   const err = answerFor(payload("akasha audit", OWN)).err
+   expect(err).toContain("akasha test --file-path")
