@@ -21,8 +21,8 @@ import {
   upAlready,
   writeManifests,
 } from "@akasha/service-system/workload-deploying"
-import type { Answer, Given } from "../../../calling/calling.module.code.ts"
-import { refused } from "../../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../command-system/calling/calling.module.code.ts"
 
 const DATA = 2
 const OPERATIONAL = 3

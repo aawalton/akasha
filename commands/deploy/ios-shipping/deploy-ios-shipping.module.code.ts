@@ -5,8 +5,8 @@ import { acquireLocalCutLock, releaseLocalCutLock } from "@akasha/mobile-cli/loc
 import { type MobileApp, resolveApp, shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
 import { runTestflightCut } from "@akasha/mobile-cli/testflight-cut"
 import { codeRoot } from "@akasha/pages-system/code-root"
-import type { Answer } from "../../../calling/calling.module.code.ts"
-import { saidBy } from "../../../fault-saying/fault-saying.module.code.ts"
+import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
+import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

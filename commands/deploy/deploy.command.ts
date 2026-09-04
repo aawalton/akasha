@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const deploy = {
   id: "01a05af7-5996-7002-bc83-446645b7de16",

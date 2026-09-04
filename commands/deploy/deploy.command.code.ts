@@ -1,5 +1,5 @@
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
 import { shipIosApp } from "./ios-shipping/deploy-ios-shipping.module.code.ts"
 import { IOS_APP, kindNamed } from "./kind-reading/deploy-kind-reading.module.code.ts"
 import { putUpWebApp } from "./web-putting-up/deploy-web-putting-up.module.code.ts"
