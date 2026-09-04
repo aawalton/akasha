@@ -6,30 +6,12 @@ import { everyOfType, listedById } from "@akasha/pages-system/index-reading"
 import { uncommittedAt } from "@akasha/pages-system/page-file-name"
 import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
 
-// WHERE A SEAT STANDS IN AKASHA, AND WHERE EACH OF ITS VALUES STANDS ON IT. This holds nothing but
-// that, and imports nothing of the seat libraries, because the two ends of the migration both need
-// it: the writer carries values out through these tables and the readers carry them back in.
-//
-// It is its own file for that reason. The tables sat with the writer, so a reader reaching them
-// pulled in the writer and everything the writer composes a page from — and the presence read,
-// which is the one every other reader stands on, could not reach them at all without a cycle.
-
 export type Beside = Record<string, unknown>
 
 export type Kind = "text" | "number" | "instant"
 
 export type Carried = { readonly at: readonly string[]; readonly kind: Kind }
 
-// What akasha declares of a seat, and where each old key stands there. A key absent from this
-// table reaches the old store alone: nothing checks an uncommitted value, so one written to
-// akasha under a name it does not declare would land and never be caught.
-//
-// `claude-code-session-uuid` is absent because akasha commits it: it stands on the seat's page
-// there, written by the composer, rather than beside it. A value the page carries and the sidecar
-// carries too would drift, and the sidecar is the copy that goes when the page does.
-//
-// `context-replaced` is absent because it alone is carried as a record built from a value and its
-// stamp, which is neither shape this table describes.
 export const CARRIED: Readonly<Record<string, Carried>> = {
   "transcript-path": { at: ["transcriptPath"], kind: "text" },
   "rotated-session-uuid": { at: ["rotatedSessionUuid"], kind: "text" },
@@ -47,15 +29,9 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
 
 export const SUPERVISOR_PROCESS = "supervisor-process"
 
-// The records akasha declares of a seat, and the name each stands under there. A record is carried
-// whole, so it is named here rather than in `CARRIED`, whose entries are single values.
-//
-// THIS IS THE WHOLE TEST, so a record absent from it reaches the old store alone rather than being
-// dropped by a condition written for one key. `turn-working` is absent because akasha declares no
-// such property, and writing it there would land under a name nothing checks: it is carried by
-// adding the property first and a line here second.
 export const RECORDS: Readonly<Record<string, string>> = {
   "turn-pending": "turnPending",
+  "turn-working": "turnWorking",
 }
 
 const PAGE_TYPE = "seat"
@@ -66,13 +42,6 @@ export function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
 }
 
-// Refuses a root that names no seat index at all, and answers for one that does. The listing is
-// taken once per call rather than per seat, because every reader below reaches this.
-//
-// A TRUE EMPTY AND A FAILURE MUST NOT READ ALIKE. A root holding no seat index is a root that
-// cannot be read, so it is refused. A root whose index stands but names no such seat is an answer:
-// that seat really is not there. This is the `Answer Or Refuse` directive the pages system states,
-// and the difference between this failing loudly and failing the way the sweep did.
 function seatsThatExistInAkasha(): ReadonlyMap<string, string> {
   return onceInCall("akasha-seat-path-by-id", () => {
     const root = akashaRoot()
@@ -85,23 +54,16 @@ function seatsThatExistInAkasha(): ReadonlyMap<string, string> {
   })
 }
 
-// The repository-relative path of the seat page carrying this agent's id, or null where akasha
-// stands but holds no such seat.
 export function akashaSeatPathForAgent(agentId: string): string | null {
   if (agentId === "") return null
   const held = seatsThatExistInAkasha().get(agentId)
   if (held !== undefined) return held
-  // The index answers by id across every page type, so a hit is checked to be a seat rather than
-  // trusted for its id alone.
   const one = listedById(akashaRoot(), agentId)
-  return one !== null && one.path.startsWith(SEAT_DIR) ? one.path : null
+  return one?.path.startsWith(SEAT_DIR) === true ? one.path : null
 }
 
 const SEAT_SUFFIX = ".seat.ts"
 
-// A SEAT'S SLUG IS THE NAME ITS PAGE FILE STANDS UNDER, so it is read off the path rather than out
-// of the page. The index answers the path already, and a name that had to open every page would
-// cost the corpus rather than the seat.
 export function akashaSeatSlugOf(agentId: string): string | null {
   const page = akashaSeatPathForAgent(agentId)
   if (page === null) return null
@@ -109,9 +71,6 @@ export function akashaSeatSlugOf(agentId: string): string | null {
   return name.endsWith(SEAT_SUFFIX) ? name.slice(0, -SEAT_SUFFIX.length) : null
 }
 
-// Every seat akasha holds, as the agent's id against the name its page stands under. This is what a
-// walk of the old seat directory turns into: a reader that lists seats rather than asking after one
-// has to list them from both systems, or a seat that stands only in akasha is not there at all.
 export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const [id, path] of seatsThatExistInAkasha()) {
@@ -121,14 +80,12 @@ export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
   return found
 }
 
-// The agent standing in the seat of this name, or null where akasha holds no such seat.
 export function akashaSeatIdForName(name: string): string | null {
   const at = `${SEAT_DIR}${name}${SEAT_SUFFIX}`
   for (const [id, path] of seatsThatExistInAkasha()) if (path === at) return id
   return null
 }
 
-// The values standing beside a seat's page in akasha, under the camelCase keys akasha declares.
 export function akashaBesideOf(agentId: string): Record<string, unknown> | null {
   const page = akashaSeatPathForAgent(agentId)
   if (page === null) return null
@@ -136,9 +93,6 @@ export function akashaBesideOf(agentId: string): Record<string, unknown> | null 
   return held === null ? null : (held as Record<string, unknown>)
 }
 
-// The old store stamps every value it keeps and akasha keeps the value alone, so a value read
-// back from akasha is stamped with the moment its sidecar was last written. That is the newest
-// any value in it can be, which is what a stamp is read for.
 export function besideWrittenAtMs(page: string): number {
   const at = uncommittedAt(page)
   if (at === null) return 0
@@ -146,18 +100,11 @@ export function besideWrittenAtMs(page: string): number {
   return stood === undefined ? 0 : stood.mtimeMs
 }
 
-// The process akasha holds as the seat's supervisor, ready to be judged against /proc. This is here
-// rather than spelled at each caller so the key and the coercion are stated once: a reader that
-// asked for the wrong name would get a clean nothing and read the seat as gone.
 export function akashaHolderProcessOf(agentId: string): string | null {
   const held = akashaValueOf(agentId, SUPERVISOR_PROCESS)
   return typeof held === "string" && held !== "" ? held : null
 }
 
-// One value read straight out of what stands beside a seat in akasha, by the key the old sidecar
-// carried it under. This is here rather than with the other readers so that the presence read can
-// reach it: everything else a seat is read for stands on presence, and presence cannot stand on
-// the writer.
 export function akashaValueOf(agentId: string, key: string): unknown {
   const where = CARRIED[key]
   if (where === undefined) return undefined
