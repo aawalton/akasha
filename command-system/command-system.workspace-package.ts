@@ -14,6 +14,7 @@ export const commandSystem = {
     "module/format-output",
     "module/payload",
     "page-type/command",
+    "page-type/namespace",
     "page-type/ops-command",
     "list/ops-namespaces-to-review",
     "module/calling",
