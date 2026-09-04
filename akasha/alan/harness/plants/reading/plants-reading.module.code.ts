@@ -3,7 +3,10 @@ import { asking } from "@akasha/pages-system-service/asking"
 import type { Asking } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { fetchPlantGrams } from "@akasha/readout-system/upkeep-plants"
-import { wakeDayOf, wakeDayWindow } from "@tools/lib/wake-day"
+import {
+  wakeDayOf,
+  wakeDayWindow,
+} from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
 export const READOUT_PAGE =
   "akasha/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
