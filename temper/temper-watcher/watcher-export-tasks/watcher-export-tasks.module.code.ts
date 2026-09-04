@@ -196,7 +196,7 @@ export async function runExportTasks(
 
   const rows = await collect({
     pageTypeSlug: TASK_PAGE_TYPE_SLUG,
-    where: [{ key: "account", eq: userId }],
+    where: [{ key: "accountPage", eq: userId }],
     pageSize: ROWS_PER_READ,
   })
   const tasks = rows.filter((row) => typeof row.id === "string")
