@@ -82,8 +82,23 @@ function intoOf(words: readonly string[]): string | null {
   return null
 }
 
+function pastRedirects(words: readonly string[]): readonly string[] {
+  const kept: string[] = []
+  for (let at = 0; at < words.length; at += 1) {
+    const word = words[at]
+    if (word === undefined) continue
+    const said = REDIRECT.exec(word)
+    if (said === null) {
+      kept.push(word)
+      continue
+    }
+    if ((said[1] ?? "") === "") at += 1
+  }
+  return kept
+}
+
 function operandsOf(words: readonly string[]): readonly string[] {
-  return words.slice(1).filter((one) => !one.startsWith("-"))
+  return pastRedirects(words.slice(1)).filter((one) => !one.startsWith("-"))
 }
 
 export function editsInPlace(words: readonly string[]): boolean {
@@ -275,15 +290,23 @@ function refusingAProgram(tool: string, shown: string, index: boolean): string {
 export function refusalFor(command: string, from: string, root: string): string | null {
   const here = settled(root)
   const guarded = guardedIn(here)
-  for (const landing of landingsIn(command)) {
+  const landings = landingsIn(command)
+  const programs = programLandingsIn(command)
+  for (const landing of landings) {
     const at = settled(resolve(from, landing.at))
-    if (insideOf(guarded.pages, at)) return refusing(landing.how, landing.at, false)
     if (insideOf(guarded.index, at)) return refusing(landing.how, landing.at, true)
   }
-  for (const landing of programLandingsIn(command)) {
+  for (const landing of programs) {
+    const at = settled(resolve(from, landing.at))
+    if (insideOf(guarded.index, at)) return refusingAProgram(landing.how, landing.at, true)
+  }
+  for (const landing of landings) {
+    const at = settled(resolve(from, landing.at))
+    if (insideOf(guarded.pages, at)) return refusing(landing.how, landing.at, false)
+  }
+  for (const landing of programs) {
     const at = settled(resolve(from, landing.at))
     if (insideOf(guarded.pages, at)) return refusingAProgram(landing.how, landing.at, false)
-    if (insideOf(guarded.index, at)) return refusingAProgram(landing.how, landing.at, true)
   }
   return null
 }

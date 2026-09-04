@@ -108,7 +108,38 @@ test("an awk reading akasha without writing it stands", () => {
 })
 
 test("an in-place edit outside the guarded roots stands", () => {
-  expect(said("perl -pi -e 's/a/b/' /var/tmp/x")).toBeNull()
+  expect(said("perl -pi /var/tmp/edit.pl /var/tmp/x")).toBeNull()
+})
+
+test("a redirect is no operand of the call it is written beside", () => {
+  expect(said("rm -f /var/tmp/x 2>/dev/null")).toBeNull()
+  expect(said("rm -f /var/tmp/x 2> /var/tmp/err")).toBeNull()
+  expect(said("mkdir -p /var/tmp/held 2>/dev/null")).toBeNull()
+  expect(said("touch /var/tmp/x 2>&1")).toBeNull()
+  expect(said("cp /var/tmp/a /var/tmp/b 2>/dev/null")).toBeNull()
+  expect(said("tee /var/tmp/a 2>/dev/null")).toBeNull()
+})
+
+test("a redirect in a heredoc body is no landing either", () => {
+  expect(said("cat > /var/tmp/x.sh <<'SH'\nrm -f /var/tmp/y 2>/dev/null\nSH")).toBeNull()
+})
+
+test("a write inside akasha is refused past a redirect written beside it", () => {
+  expect(said("echo hi > akasha/held.domain.ts 2>/dev/null")).toContain(INSIDE)
+  expect(said("echo hi >> akasha/held.domain.ts 2>&1")).toContain(INSIDE)
+  expect(said("tee akasha/held.domain.ts 2>/dev/null")).toContain(INSIDE)
+  expect(said("sed -i 's/a/b/' akasha/held.domain.ts 2>/dev/null")).toContain(INSIDE)
+  expect(said("cp /var/tmp/x akasha/held.domain.ts 2>/dev/null")).toContain(INSIDE)
+  expect(said("mv /var/tmp/x akasha/held.domain.ts 2>&1")).toContain(INSIDE)
+  expect(said("rm -f akasha/held.domain.ts 2>/dev/null")).toContain(INSIDE)
+  expect(said("cat > akasha/held.domain.ts <<'EOF'\nhi\nEOF")).toContain(INSIDE)
+})
+
+test("a redirect at the end no longer hides the target of a copy", () => {
+  expect(landingsIn("cp /var/tmp/x akasha/held.domain.ts 2>/dev/null")).toEqual([
+    { at: "akasha/held.domain.ts", how: "cp" },
+    { at: "/dev/null", how: "a redirect" },
+  ])
 })
 
 test("a tee landing inside akasha is refused", () => {
