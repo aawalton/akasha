@@ -1175,7 +1175,7 @@
     "pages/indexes": {
       "name": "@akasha/indexes",
     },
-    "pages/page-commands": {
+    "pages/commands": {
       "name": "@akasha/page-commands",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -3113,7 +3113,7 @@
 
     "@akasha/object-store": ["@akasha/object-store@workspace:object-store"],
 
-    "@akasha/page-commands": ["@akasha/page-commands@workspace:pages/page-commands"],
+    "@akasha/page-commands": ["@akasha/page-commands@workspace:pages/commands"],
 
     "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/pages-access"],
 
