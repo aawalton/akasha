@@ -45,6 +45,7 @@ export const claudeAccount = {
     "module/claude-account-identity",
     "module/claude-account-making",
     "module/claude-account-marking",
+    "module/claude-account-alias-snapshot",
     "module/claude-account-alias-sync",
     "module/claude-account-measuring",
     "module/claude-account-oauth",

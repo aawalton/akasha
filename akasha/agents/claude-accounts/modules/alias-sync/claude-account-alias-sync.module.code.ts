@@ -1,6 +1,9 @@
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
-import { ACCOUNT_ALIAS_SNAPSHOT_PATH, syncAliasSnapshotFromPages } from "@tools/lib/alias-snapshot"
+import {
+  ACCOUNT_ALIAS_SNAPSHOT_PATH,
+  syncAliasSnapshotFromPages,
+} from "../alias-snapshot/claude-account-alias-snapshot.module.code.ts"
 
 export const HELP: CommandHelp = {
   flags: [],
