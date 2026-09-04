@@ -47,13 +47,11 @@ export const idlePersonaCard = {
     "number-property/seat-index",
     "number-property/stars",
     "number-property/train-cost",
-    "relation-property/persona-slug",
     "select-property/lock-state",
     "text-property/card-slug",
     "text-property/cover-image-id",
     "text-property/images",
     "text-property/player-id",
-    "text-property/title",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -82,7 +80,7 @@ export const idlePersonaCard = {
     },
     {
       invariantKind: "departure",
-      statement: "The card alone is no name: every player holds a card of every name.",
+      statement: "The card alone is no name.",
     },
     {
       invariantKind: "departure",

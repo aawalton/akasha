@@ -13,7 +13,6 @@ export const kiCollectionTemplate = {
   definition: "a collection of Ki's, held apart from Alan's",
   pluralSlug: "ki-collection-templates",
   extendsSlug: "page-type/collection-external",
-  partSlugs: ["text-property/title"],
   properties: [{ pagePropertySlug: "title", required: true, many: false }],
   invariants: [
     {
@@ -26,7 +25,7 @@ export const kiCollectionTemplate = {
     },
     {
       invariantKind: "departure",
-      statement: "Ki scores a collection with a number and grades it with a letter.",
+      statement: "Ki scores a collection with a number and grades that collection with a letter.",
     },
     {
       invariantKind: "gap",

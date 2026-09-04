@@ -30,9 +30,7 @@ export const appearanceExperiment = {
     "file-property/eye-read",
     "file-property/felt-read",
     "file-property/what-tried",
-    "relation-property/persona-slug",
     "select-property/appearance-verdict",
-    "text-property/title",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -50,7 +48,7 @@ export const appearanceExperiment = {
     },
     {
       invariantKind: "departure",
-      statement: "An experiment names the persona who read it, not Alan, whose experiment it is.",
+      statement: "An experiment names the persona who read the experiment rather than Alan.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +57,8 @@ export const appearanceExperiment = {
     },
     {
       invariantKind: "departure",
-      statement: "An experiment ends in a verdict of keeping it, tweaking it, or dropping it.",
+      statement:
+        "An experiment ends in a verdict of keeping or tweaking or dropping the appearance.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +66,8 @@ export const appearanceExperiment = {
     },
     {
       invariantKind: "departure",
-      statement: "Each reading is held in a file beside the experiment rather than in it.",
+      statement:
+        "Each reading is held in a file beside the experiment rather than inside the experiment page.",
     },
   ],
 } as const satisfies PageType

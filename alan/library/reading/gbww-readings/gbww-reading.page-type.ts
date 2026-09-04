@@ -35,7 +35,6 @@ export const gbwwReading = {
     "text-property/gbww-plan-key",
     "text-property/gbww-section",
     "text-property/gbww-work",
-    "text-property/title",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -55,7 +54,7 @@ export const gbwwReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading stands where the plan puts it, by year and by number in that year.",
+      statement: "A reading stands where the plan puts the reading.",
     },
     {
       invariantKind: "departure",

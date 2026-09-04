@@ -25,7 +25,6 @@ export const scripturePassage = {
     "file-property/passage-text",
     "select-property/scripture-translation",
     "text-property/scripture-book",
-    "text-property/title",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
@@ -50,11 +49,12 @@ export const scripturePassage = {
     {
       invariantKind: "departure",
       statement:
-        "A passage names a rendering only where the record the passage came from names one.",
+        "A passage names a rendering only where the record the passage came from names a rendering.",
     },
     {
       invariantKind: "departure",
-      statement: "A passage sits in the folder named for the book of scripture it stands in.",
+      statement:
+        "A passage sits in the folder named for the book of scripture the passage stands in.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const scripturePassage = {
     },
     {
       invariantKind: "gap",
-      statement: "The collection a passage is part of stands as no page, so a passage names none.",
+      statement: "The collection a passage is part of stands as no page.",
     },
   ],
 } as const satisfies PageType

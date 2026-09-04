@@ -15,7 +15,7 @@ export const bookSeries = {
   definition: "a shelf holding the books of one work",
   pluralSlug: "book-series",
   extendsSlug: "page-type/collection-external",
-  partSlugs: ["select-property/maturity-rating", "text-property/title"],
+  partSlugs: ["select-property/maturity-rating"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "maturity-rating", required: false, many: false },
@@ -23,7 +23,7 @@ export const bookSeries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A series holds books alone, so a series states no length of its own.",
+      statement: "A series holds books alone.",
     },
     {
       invariantKind: "departure",

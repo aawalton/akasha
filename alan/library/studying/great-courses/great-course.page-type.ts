@@ -13,16 +13,15 @@ export const greatCourse = {
   definition: "one course Alan is taught by",
   pluralSlug: "great-courses",
   extendsSlug: "page-type/collection-external",
-  partSlugs: ["text-property/title"],
   properties: [{ pagePropertySlug: "title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A course states the minutes it runs to and the minutes Alan has watched.",
+      statement: "A course states the minutes the course runs to and the minutes Alan has watched.",
     },
     {
       invariantKind: "departure",
-      statement: "A course names every shelf it sits on, the shelf of all of them among them.",
+      statement: "A course names every shelf the course sits on.",
     },
     {
       invariantKind: "departure",

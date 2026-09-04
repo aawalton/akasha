@@ -21,7 +21,6 @@ export const subagentKind = {
     "file-property/subagent-prompt",
     "subagent-kind/explore",
     "subagent-kind/general-purpose",
-    "text-property/dispatched-as",
   ],
   properties: [
     { pagePropertySlug: "dispatched-as", required: true, many: false },
@@ -31,7 +30,7 @@ export const subagentKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Any number of subagents run from one kind at once.",
+      statement: "Subagents run from a single kind at the same time.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +46,8 @@ export const subagentKind = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind stating no model runs on the model of the seat that dispatched it.",
+      statement:
+        "A kind stating no model runs on the model of the seat that dispatched the subagent.",
     },
     {
       invariantKind: "gap",

@@ -13,16 +13,15 @@ export const franchise = {
   definition: "the shows and films that share one world",
   pluralSlug: "franchises",
   extendsSlug: "page-type/collection-external",
-  partSlugs: ["text-property/title"],
   properties: [{ pagePropertySlug: "title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A franchise holds nothing of its own beyond its name and where it was read from.",
+      statement: "A franchise holds a name and the provider the name was read from.",
     },
     {
       invariantKind: "departure",
-      statement: "A franchise the provider gives no id to states none.",
+      statement: "A franchise the provider gives no id to leaves the id unstated.",
     },
   ],
 } as const satisfies PageType

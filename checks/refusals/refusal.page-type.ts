@@ -16,7 +16,7 @@ export const refusal = {
   pluralSlug: "refusals",
   extendsSlug: "page-type/page",
   mortal: true,
-  partSlugs: ["text-property/refusal-text", "text-property/title"],
+  partSlugs: ["text-property/refusal-text"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "refusal-text", required: true, many: false },
@@ -28,7 +28,7 @@ export const refusal = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal goes when the instrument printing it goes.",
+      statement: "A refusal goes when the instrument printing that refusal goes.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,8 @@ export const refusal = {
     },
     {
       invariantKind: "departure",
-      statement: "The holes a refusal marks are read off its text rather than listed beside it.",
+      statement:
+        "The holes a refusal marks are read off the refusal's own text rather than listed beside that text.",
     },
     {
       invariantKind: "departure",
