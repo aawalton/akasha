@@ -168,17 +168,17 @@ check("an exception naming a package that is not there refuses and writes nothin
 
 check("a call naming no package, no rule, or a rule that is no rule is refused", async () => {
   const root = repo(["three"], CONFIG_TEXT)
-  expect(await lintException(["--rule", "suspicious/x"], given(root)).refusals[0]).toContain(
+  expect((await lintException(["--rule", "suspicious/x"], given(root))).refusals[0]).toContain(
     "names no --package-path"
   )
-  expect(await lintException(["--package-path", "three"], given(root)).refusals[0]).toContain(
+  expect((await lintException(["--package-path", "three"], given(root))).refusals[0]).toContain(
     "is given 0 times"
   )
   expect(
-    await lintException(["--rule", "suspicious", "--package-path", "three"], given(root))
+    (await lintException(["--rule", "suspicious", "--package-path", "three"], given(root)))
       .refusals[0]
   ).toContain("names no rule")
-  expect(await lintException(["--write"], given(root)).refusals[0]).toContain(
+  expect((await lintException(["--write"], given(root))).refusals[0]).toContain(
     "`--write` is no flag"
   )
 })
