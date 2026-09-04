@@ -39,40 +39,34 @@ index 8033e8f84671d2e0cabf5e3f06b64310ad27ca15..c837b4418432b7aa0e396c243d1cf9b3
    process.exit(said.code)
  }
 diff --git a/command-system/cli/cli.module.ts b/command-system/cli/cli.module.ts
-index 65933b9439497df723ac230a550c8b37e655eb69..638a59f0215dca4705b5f0b0d340b04453e4bfe0 100644
+index 65933b9439497df723ac230a550c8b37e655eb69..99e5a60a85244695d2e1b45b6de3eb2e57a6186e 100644
 --- a/command-system/cli/cli.module.ts
 +++ b/command-system/cli/cli.module.ts
-@@ -20,9 +20,43 @@ export const cli = {
-       invariantKind: "departure",
-       statement: "What is printed is out before the exit code ends the process.",
+@@ -14,15 +14,33 @@ export const cli = {
      },
-+    {
-+      invariantKind: "departure",
+     {
+       invariantKind: "departure",
+-      statement: "An answer is waited for before anything is printed.",
++      statement: "An answer is waited for before the report is printed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is printed is out before the exit code ends the process.",
++      statement: "The report and the refusals are out before the exit code ends the process.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What was done is printed apart from what refused the command.",
 +      statement: "An answer is written by writes that return before the exit code is given.",
 +    },
 +    {
 +      invariantKind: "departure",
 +      statement:
-+<<<<<<< what this change would leave
-+        "A write taking less than the whole answer is followed by a write of what is left.",
-+=======
 +        "A write carrying part of the answer is followed by a write of the bytes left over.",
-+>>>>>>> what HEAD holds
 +    },
 +    {
 +      invariantKind: "departure",
 +      statement:
-+<<<<<<< what this change would leave
-+        "A destination with no room for more at the moment is written to again rather than dropping the rest.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "Nothing sizes the destination to the answer before the answer is written.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "What was done is printed apart from what refused the command.",
-+=======
 +        "A destination refusing bytes for the moment is written to again rather than dropping the bytes left over.",
 +    },
 +    {
@@ -82,11 +76,10 @@ index 65933b9439497df723ac230a550c8b37e655eb69..638a59f0215dca4705b5f0b0d340b044
 +    {
 +      invariantKind: "departure",
 +      statement: "The report is printed apart from the refusals.",
-+>>>>>>> what HEAD holds
      },
      {
        invariantKind: "departure",
-@@ -34,7 +68,7 @@ export const cli = {
+@@ -34,7 +52,7 @@ export const cli = {
      },
      {
        invariantKind: "departure",
