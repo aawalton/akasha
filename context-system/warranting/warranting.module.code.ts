@@ -84,7 +84,7 @@ export type Owing = {
 
 export type Known = {
   readonly types: ReadonlySet<string>
-  readonly above: () => ReadonlyMap<string, string>
+  readonly above: () => ReadonlyMap<string, readonly string[]>
 }
 
 export type Knowing = () => Known
@@ -117,7 +117,7 @@ const loadFrom = createRequire(import.meta.url)
 
 export function knowingIn(root: string): Knowing {
   let known: Known | null = null
-  let above: ReadonlyMap<string, string> | null = null
+  let above: ReadonlyMap<string, readonly string[]> | null = null
   return () =>
     (known ??= {
       types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]),

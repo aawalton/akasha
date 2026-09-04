@@ -14,16 +14,28 @@ function saidIn(value: Value | null, key: string): string | null {
   return typeof said === "string" && said !== "" ? said : null
 }
 
+function namedAbove(value: Value | null): readonly string[] {
+  if (value === null) return []
+  const said = value[EXTENDS]
+  if (typeof said === "string") return said === "" ? [] : [slugOf(said)]
+  if (!Array.isArray(said)) return []
+  const named: string[] = []
+  for (const one of said) {
+    if (typeof one === "string" && one !== "") named.push(slugOf(one))
+  }
+  return named
+}
+
 export function listedAbove(
   given: Reading,
   pageOf: (path: string) => Value | null
-): ReadonlyMap<string, string> {
-  const above = new Map<string, string>()
+): ReadonlyMap<string, readonly string[]> {
+  const above = new Map<string, readonly string[]>()
   for (const one of everyOfType(given, PAGE_TYPE)) {
     const value = pageOf(one.path)
     const slug = saidIn(value, SLUG)
-    const said = saidIn(value, EXTENDS)
-    if (slug !== null && said !== null) above.set(slug, slugOf(said))
+    const named = namedAbove(value)
+    if (slug !== null && named.length > 0) above.set(slug, named)
   }
   return above
 }
@@ -37,8 +49,8 @@ export function kindsUnder(
   const under = new Set<string>([slug])
   for (;;) {
     let grew = false
-    for (const [held, parent] of above) {
-      if (!under.has(held) && under.has(parent)) {
+    for (const [held, parents] of above) {
+      if (!under.has(held) && parents.some((one) => under.has(one))) {
         under.add(held)
         grew = true
       }

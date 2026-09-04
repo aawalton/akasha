@@ -14,19 +14,22 @@ export function typeSlugOf(path: string, types: ReadonlySet<string>): string | n
 
 export function filePageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {
   const known = knowing()
-  let here = typeSlugOf(path, known.types)
-  if (here === null) return []
+  const first = typeSlugOf(path, known.types)
+  if (first === null) return []
   const found: Warrant[] = []
   const walked = new Set<string>()
   const above = known.above()
-  while (here !== null && !walked.has(here)) {
+  const waiting: string[] = [first]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const here = waiting[at]
+    if (here === undefined || walked.has(here)) continue
     walked.add(here)
     const listed = listedAt(root, PAGE_TYPE, here)[0]
     const oid = listed === undefined ? null : blobAt(root, listed.path)
     if (listed !== undefined && oid !== null) {
       found.push({ path: listed.path, oid, owed: TYPE })
     }
-    here = above.get(here) ?? null
+    for (const one of above.get(here) ?? []) waiting.push(one)
   }
   return found
 }
