@@ -10,7 +10,7 @@ export const typecheck = {
   test: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "--file-path <path>", takes: "a file or folder under `akasha/` the compiler judges" },
+    { said: "--file-path <path>", takes: "a file or folder in the repository the compiler judges" },
     {
       said: "--seeded",
       takes: "a fault put into each file named, in memory alone, to show the run sees the file",
@@ -27,11 +27,11 @@ export const typecheck = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run reaches no file outside the akasha folder.",
+      statement: "A run reaches no file outside this repository.",
     },
     {
       invariantKind: "departure",
-      statement: "A run judges the files named and the files importing them.",
+      statement: "A run judges the files named and every file importing those files.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A run says in its answer that it judged the files named rather than the folder.",
+      statement: "A run answers with the files judged rather than with the whole folder.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run finds is said as an audit says it.",
+      statement: "What a run finds is said as an audit says the same finding.",
     },
     {
       invariantKind: "departure",
