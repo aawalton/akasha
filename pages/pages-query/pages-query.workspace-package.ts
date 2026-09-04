@@ -4,7 +4,7 @@ export const pagesQuery = {
   id: "01a05aec-eaaa-785b-b175-87946b2c2eb7",
   pageTypeSlug: "workspace-package",
   slug: "pages-query",
-  definition: "the page store reached over HTTP by what runs outside it",
+  definition: "the page store reached over HTTP",
   manifest: "json",
   partSlugs: [
     "module/store-page-asking",
