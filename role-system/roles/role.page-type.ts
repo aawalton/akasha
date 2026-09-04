@@ -32,6 +32,11 @@ export const role = {
       invariantKind: "departure",
       statement: "A seat started with an on-call role starts on call.",
     },
+    {
+      invariantKind: "upkeep",
+      statement:
+        "Every figure an agent holds as true was taken after the last change to what the figure measures.",
+    },
   ],
   directives: [
     {

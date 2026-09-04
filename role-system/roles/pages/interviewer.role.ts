@@ -15,5 +15,13 @@ export const interviewer = {
       invariantKind: "departure",
       statement: "This role writes domains and never the record.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What lands a change during an interview is a subagent rather than a second seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Changes land continuously through an interview rather than at the end.",
+    },
   ],
 } as const satisfies Role

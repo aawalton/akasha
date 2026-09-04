@@ -58,5 +58,14 @@ export const agent = {
       invariantKind: "departure",
       statement: "An agent drafts into one patch rather than into a patch for each change.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An agent works at a terminal or at a seat with no terminal or inside another agent's turn.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every act an agent leaves for later has a reminder set for that act.",
+    },
   ],
 } as const satisfies PageType

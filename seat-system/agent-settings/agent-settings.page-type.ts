@@ -45,6 +45,15 @@ export const agentSettings = {
       statement: "A page here says what one program reads rather than what every program reads.",
     },
     {
+      invariantKind: "departure",
+      statement: "One path writes a seat's client configuration.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which command launched a seat does not change the path writing that configuration.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing inside akasha reads these documents yet.",
     },
