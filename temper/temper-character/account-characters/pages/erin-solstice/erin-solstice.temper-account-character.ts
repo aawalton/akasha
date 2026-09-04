@@ -5,9 +5,9 @@ export const erinSolstice = {
   pageTypeSlug: "temper-account-character",
   slug: "erin-solstice",
   title: "Erin Solstice",
-  firstName: "Erin",
-  esoCharacterId: "8796093022338107",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 1,
   completion: "json",
+  esoCharacterId: "8796093022338107",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Erin",
 } as const satisfies TemperAccountCharacter
