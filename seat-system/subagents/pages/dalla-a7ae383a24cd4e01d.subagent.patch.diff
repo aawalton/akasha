@@ -1,0 +1,51 @@
+diff --git a/command-system/manifest-locking/manifest-locking.module.ts b/command-system/manifest-locking/manifest-locking.module.ts
+index 085a33ac2099775a8cb0ba8f9db2e562979ece0e..75d041451860ea071ae6f1c1ee219a9f2545e2ff 100644
+--- a/command-system/manifest-locking/manifest-locking.module.ts
++++ b/command-system/manifest-locking/manifest-locking.module.ts
+@@ -87,6 +87,27 @@ export const manifestLocking = {
+       statement:
+         "A lockfile the install makes again says the commit carries one its manifests do not warrant.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "An install takes away a link under `node_modules` reaching a folder no manifest names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A link under a scope folder is reached as one directly under `node_modules` is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A link reaching a folder that is there is left alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder under `node_modules` that is no link is left alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What an install took away is said alongside the install.",
++    },
+     {
+       invariantKind: "gap",
+       statement: "A landing whose lockfile could not be made is answered for by the audit.",
+diff --git a/commands/remove/remove.command.ts b/commands/remove/remove.command.ts
+index 344f78d7a24a576f1913699c30540673e18fb7a8..bf3b0e45780f835bd77b6b533bbed17e6625a872 100644
+--- a/commands/remove/remove.command.ts
++++ b/commands/remove/remove.command.ts
+@@ -39,6 +39,14 @@ export const remove = {
+       invariantKind: "departure",
+       statement: "A path that is not there is already gone rather than refused.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A link reaching nothing is a path that is there rather than one already gone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A link is taken away rather than what the link reaches.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A removal forgets every agent's reading of every path the removal takes.",
