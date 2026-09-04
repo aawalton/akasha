@@ -124,7 +124,7 @@ export function insideOf(change: Change): Change {
 }
 
 function pagedInside(path: string, shadow: Shadow): boolean {
-  return insideAkasha(path) && pageNamed(path, pageTypesFor(shadow))
+  return pageNamed(path, pageTypesFor(shadow))
 }
 
 export const PAGES: Selector<Paged> = {
