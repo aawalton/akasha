@@ -4,7 +4,7 @@ export const fourWebAppsEachCarryTheirOwnCopyOfTheErrorRoute = {
   id: "01a05f89-67a1-7da3-a1d3-8828abd8e1e7",
   pageTypeSlug: "finding",
   slug: "four-web-apps-each-carry-their-own-copy-of-the-error-route",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "page-type/router-app",
   claim:
     "smilingjenny raised error reports her own site never answered: her root renders the capture installer, but no api/errors route was registered, so every report met a 404. Answering her makes a fourth copy of one route, three apps carrying a byte-identical file and alanwalton's differing only by the Capacitor CORS headers Jenny needs too.",
   evidence:

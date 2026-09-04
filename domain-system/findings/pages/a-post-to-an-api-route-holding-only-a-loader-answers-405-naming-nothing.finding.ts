@@ -4,7 +4,7 @@ export const aPostToAnApiRouteHoldingOnlyALoaderAnswers405NamingNothing = {
   id: "01a06233-591a-7e50-a81b-b072230c7baa",
   pageTypeSlug: "finding",
   slug: "a-post-to-an-api-route-holding-only-a-loader-answers-405-naming-nothing",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "router-app/alan-web",
   claim:
     'A POST to an api route of Alan\'s site that declares only a `loader` answers 405 with the body `{"message":"Unexpected Server Error"}`, naming neither the path nor the method nor what is wrong. React Router raises this before any module of ours is entered, so no route can answer it from inside itself. Forty-two of the declared api routes answer this way. `/api/health` is one of them, and it is the second address a probe from this repository reached on 2026-09-02.',
   evidence:

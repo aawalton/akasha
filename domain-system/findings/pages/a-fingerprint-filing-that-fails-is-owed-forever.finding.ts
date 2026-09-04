@@ -4,7 +4,7 @@ export const aFingerprintFilingThatFailsIsOwedForever = {
   id: "01a060d1-4042-7000-bc74-5b8e6d0d5d0c",
   pageTypeSlug: "finding",
   slug: "a-fingerprint-filing-that-fails-is-owed-forever",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "workspace-package/mobile-cli",
   claim:
     "The fingerprint a build is known by is filed by the run that makes it, and a filing that fails is owed forever. `runTestflightCut` files one after every upload that succeeds, inside a catch that prints a warning and lets the run exit 0, and the function it calls has one caller, so nothing files one afterwards. Build 199's was rebuilt by hand, its `cut-at` copied off Apple rather than read from a clock.",
   evidence:

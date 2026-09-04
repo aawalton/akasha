@@ -4,7 +4,7 @@ export const theAkashaToolchainIsCompiledIntoAlansPhone = {
   id: "01a05d44-6b21-7a03-8c5e-4f9d20e17b38",
   pageTypeSlug: "finding",
   slug: "the-akasha-toolchain-is-compiled-into-alans-phone",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "router-app/alan-web-capacitor",
   claim:
     "Sixty-one node-only modules are compiled into Alan's iOS app, and the build that ships them exits 0.",
   evidence:

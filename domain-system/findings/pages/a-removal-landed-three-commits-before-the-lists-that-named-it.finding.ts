@@ -4,7 +4,7 @@ export const aRemovalLandedThreeCommitsBeforeTheListsThatNamedIt = {
   id: "01a06224-a9c9-7bb9-82e0-44f1d426aa7c",
   pageTypeSlug: "finding",
   slug: "a-removal-landed-three-commits-before-the-lists-that-named-it",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "page-type/ios-component",
   claim:
     "Over 843f0c91f4..00b181666b, three commits on main named two iOS components whose files had already gone, so the alanwalton widget extension could not have built across that span. The only guard against a component named and missing runs on a Mac at build time, so a lane bisecting that range meets a Swift failure with nothing local to explain it.",
   evidence:

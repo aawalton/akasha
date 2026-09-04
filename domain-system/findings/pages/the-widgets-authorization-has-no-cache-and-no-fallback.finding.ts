@@ -4,7 +4,7 @@ export const theWidgetsAuthorizationHasNoCacheAndNoFallback = {
   id: "01a05d5b-2c40-7b17-9e42-8a3c61f04d72",
   pageTypeSlug: "finding",
   slug: "the-widgets-authorization-has-no-cache-and-no-fallback",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "ios-app/alanwalton",
   claim:
     "The widget's reading tolerates 45 minutes of workstation downtime and its authorization tolerates none.",
   evidence:

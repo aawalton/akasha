@@ -4,7 +4,7 @@ export const alansTileRouteRefusesJennysCredentialByDesignRatherThanByAge = {
   id: "01a05ce0-05f3-746e-ad0b-41025105eb09",
   pageTypeSlug: "finding",
   slug: "alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "router-app/alan-web",
   claim:
     "The two tile routes shared their answering but never their admission. Jenny admits her ring on one shared secret in a header. Alan admits his on a per-device secret resolving to a person, then a route-access grant. So the copy collapsed onto a handed-in guard rather than a handed-in secret. A shared secret presented to Alan's tile route is refused at HEAD as much as in production, and no deploy turns that 401 into a 503: it is what his route is for rather than what its build is behind on.",
   evidence:

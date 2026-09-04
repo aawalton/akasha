@@ -4,7 +4,7 @@ export const theStatusBarAnswersFromTheCheckoutBeforeItAsksTheService = {
   id: "01a0627b-4a11-7c30-9d55-3f81ba0e77c4",
   pageTypeSlug: "finding",
   slug: "the-status-bar-answers-from-the-checkout-before-it-asks-the-service",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/status-bar",
   claim:
     "The code editor's status bar is a second reader of the same pages, and it answers from this workstation's checkout before the service is ever asked. The service is reached only when the checkout refuses with one particular suffix, so a checkout answering wrongly takes the same road as one answering rightly. It is answering wrongly now: the inboxes tile is drawn from five markdown pages where the deployed tile serves three.",
   evidence:

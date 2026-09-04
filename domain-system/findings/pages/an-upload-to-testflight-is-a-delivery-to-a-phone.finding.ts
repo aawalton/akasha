@@ -4,7 +4,7 @@ export const anUploadToTestflightIsADeliveryToAPhone = {
   id: "01a060cc-1999-7000-b3d7-8a03e8260a7c",
   pageTypeSlug: "finding",
   slug: "an-upload-to-testflight-is-a-delivery-to-a-phone",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "workspace-package/mobile-cli",
   claim:
     "Uploading a build to TestFlight delivers it to a tester's phone with no further act. Each of the three apps has one beta group, internal, with `hasAccessToAllBuilds` true, and every build reads `autoNotifyEnabled` true, so App Store Connect distributes and notifies on its own once processing ends. `deploy-testflight` only ever GETs from App Store Connect, so it neither distributes nor can decline to. Its one lever is `--no-upload`.",
   evidence:

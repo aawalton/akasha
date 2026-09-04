@@ -4,7 +4,7 @@ export const theRunningBuildDecidesOnPresenceAndDiscardsTheDomainItMeasured = {
   id: "01a05d7f-5b89-7fe7-b08c-7bed34cf1975",
   pageTypeSlug: "finding",
   slug: "the-running-build-decides-on-presence-and-discards-the-domain-it-measured",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "ios-app/alanwalton",
   claim:
     "Alan's running build decides whether to mint a device secret from presence alone, discarding the keychain domain its own native layer measures, so a secret in the app-private domain satisfies the app forever while the widget extension's read of it is refused. The tree no longer does this; the phone does, until a build carrying the change reaches it.",
   evidence:
