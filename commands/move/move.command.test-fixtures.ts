@@ -126,6 +126,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
     "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n"
   )
   rebuiltIn(root, TREE)
+  for (const path of Object.keys(named)) importFiled(root, path, [])
   admitting(root)
   return root
 }
@@ -174,6 +175,12 @@ export function told(said: Answer): string {
 
 export function codeWorld(named: Readonly<Record<string, string>> = {}): string {
   return repoWith({ [HOLDER]: CODE, [TARGET]: OTHER, ...named })
+}
+
+export function codeUnindexed(): string {
+  const root = codeWorld()
+  indexTakenFrom(root)
+  return root
 }
 
 export const SIDE = "akasha/one/held.module.test.ts"

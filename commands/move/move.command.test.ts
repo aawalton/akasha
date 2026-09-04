@@ -18,6 +18,7 @@ import {
   CODE,
   carriedMoved,
   claiming,
+  codeUnindexed,
   codeWorld,
   DEEP,
   DEEPER,
@@ -172,7 +173,7 @@ test("a file moving in the same act is repointed from its body, not as an import
 })
 
 test("an unanswerable index refuses the move rather than leaving what imports it dangling", async () => {
-  const root = codeWorld()
+  const root = codeUnindexed()
   const was = head(root)
   const said = await move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
   expect(why(said)).toContain("could not be answered")
