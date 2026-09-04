@@ -40,9 +40,9 @@ export type Writer = {
   readonly writing: (asked: Asked) => Promise<Wrote>
 }
 
-const UNDER = "akasha/"
-
 const ABOVE = ".."
+
+const PARTED_BY = "/"
 
 const WRITTEN_BY = "Written-by: "
 
@@ -72,10 +72,10 @@ export function refusalIn(asked: Asked): string | null {
   const paths = pathsIn(asked)
   if (paths.length === 0) return "a write carries at least one path"
   for (const one of paths) {
-    if (!one.startsWith(UNDER)) {
-      return `\`${one}\` stands outside \`${UNDER}\`, and this answers for akasha alone`
+    if (one === "" || one.startsWith(PARTED_BY)) {
+      return `\`${one}\` is no path inside the repository, and this writes what the repository holds`
     }
-    if (one.split("/").includes(ABOVE)) return `\`${one}\` reaches above the root`
+    if (one.split(PARTED_BY).includes(ABOVE)) return `\`${one}\` reaches above the root`
   }
   return null
 }
