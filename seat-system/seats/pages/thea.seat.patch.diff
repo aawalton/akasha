@@ -1,0 +1,15 @@
+diff --git a/pages/email-address-properties/email-address-property.page-type.ts b/pages/email-address-properties/email-address-property.page-type.ts
+index cca7e2ea9c8e2cd0e2be4eb4a586a7aa30c98dc3..153e2873772c6e7bd1c38d38a470f85dd67d4136 100644
+--- a/pages/email-address-properties/email-address-property.page-type.ts
++++ b/pages/email-address-properties/email-address-property.page-type.ts
+@@ -15,6 +15,10 @@ export const emailAddressProperty = {
+       invariantKind: "departure",
+       statement: "An address is written in lowercase.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An address holds no whitespace.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An address holds one `@`.",
