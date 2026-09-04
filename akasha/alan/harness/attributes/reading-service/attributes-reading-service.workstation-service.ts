@@ -5,7 +5,7 @@ export const attributesReadingService = {
   pageTypeSlug: "workstation-service",
   slug: "attributes-reading-service",
   definition: "the service taking Alan's six attribute points onto their readouts",
-  runs: ["bun readouts/attributes-reading.ts"],
+  runs: ["bun akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/5",
