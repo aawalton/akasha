@@ -69,11 +69,7 @@ async function landedAcross(
   if (last === undefined) return mistaking(["this act composed no day"])
   const body = new TextEncoder().encode(linesOf(last.rows))
   const rest = landings.slice(0, -1)
-  if (rest.length === 0) {
-    const only = ["--file-path", at(last.held.path), "--message", said]
-    return await filing(only, given, () => ({ bytes: body }))
-  }
-  const scratch = mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
+  const scratch = rest.length === 0 ? "" : mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
   try {
     const argv: string[] = []
     rest.forEach((one, index) => {
@@ -84,17 +80,12 @@ async function landedAcross(
     argv.push("--file-path", at(last.held.path), "--message", said)
     return await filing(argv, given, () => ({ bytes: body }))
   } finally {
-    rmSync(scratch, { recursive: true, force: true })
+    if (scratch !== "") rmSync(scratch, { recursive: true, force: true })
   }
 }
 
-async function landed(
-  held: Held,
-  rows: readonly Row[],
-  said: string,
-  given: Given
-): Promise<Answer> {
-  return await landedAcross([{ held, rows: [...rows] }], said, given)
+function landed(held: Held, rows: readonly Row[], said: string, given: Given): Promise<Answer> {
+  return landedAcross([{ held, rows: [...rows] }], said, given)
 }
 
 function endingIn(
