@@ -7,6 +7,11 @@ export const inbox = {
   definition: "the inboxes Alan keeps at empty",
   pluralSlug: "inboxes",
   partSlugs: [
+    "module/email-entry-writing",
+    "module/inbox-count-polling",
+    "module/inbox-count-tick",
+    "module/inbox-count-writing",
+    "module/inbox-keys",
     "module/inbox-reading",
     "module/inbox-tracking-polling",
     "page-type/email-rule-agent",
@@ -48,11 +53,11 @@ export const inbox = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan's own email rules live here.",
+      statement: "Alan's own email rules belong here.",
     },
     {
       invariantKind: "departure",
-      statement: "The folder an email rule sits in is whose that rule is.",
+      statement: "The folder an email rule is in says whose rule it is.",
     },
   ],
   directives: [
