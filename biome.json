@@ -12,7 +12,7 @@
       "**/*.tsx",
       "**/*.js",
       "**/*.jsx",
-      "akasha/**/*.css",
+      "**/*.css",
       "!**/node_modules",
       "!**/.next",
       "!**/out",
@@ -114,7 +114,7 @@
       }
     },
     {
-      "includes": ["akasha/pages-system/pages-core/**"],
+      "includes": ["pages-system/pages-core/**"],
       "linter": {
         "rules": {
           "style": {
@@ -140,9 +140,11 @@
     {
       "includes": [
         "temper/*-addon/src/**/data/**",
-        "akasha/temper/temper-lorebooks/lorebooks-book-data*/**",
-        "akasha/temper/temper-lorebooks/lorebooks-library-data*/**",
-        "akasha/temper/temper-lorebooks/lorebooks-shalidor-locations*/**", "akasha/temper/temper-lib-treasure/**", "akasha/temper/temper-navigation-addon/**"
+        "temper/temper-lorebooks/lorebooks-book-data*/**",
+        "temper/temper-lorebooks/lorebooks-library-data*/**",
+        "temper/temper-lorebooks/lorebooks-shalidor-locations*/**",
+        "temper/temper-lib-treasure/**",
+        "temper/temper-navigation-addon/**"
       ],
       "linter": {
         "rules": {
