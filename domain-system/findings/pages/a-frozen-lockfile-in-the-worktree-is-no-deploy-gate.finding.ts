@@ -4,7 +4,7 @@ export const aFrozenLockfileInTheWorktreeIsNoDeployGate = {
   id: "01a05b85-cb42-72ba-82e1-5d4ae017005d",
   pageTypeSlug: "finding",
   slug: "a-frozen-lockfile-in-the-worktree-is-no-deploy-gate",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/checks",
   claim:
     "Running `bun install --frozen-lockfile` in this worktree says nothing about whether a deploy will start. Seven whole-scope symlinks in `node_modules` point into the source tree, so a package under one of those scopes resolves whether or not its manifest is tracked. An untracked manifest passes every local check while the install the pod runs against the tracked tree fails. The check that reads as the deploy gate is the one that cannot see the fault the deploy meets.",
   evidence:

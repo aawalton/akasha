@@ -4,7 +4,7 @@ export const aFriendsAccountNameIsReadAndThenUndefinedIsAddedInstead = {
   id: "01a06193-53eb-7b9a-9cee-ba20437ab44e",
   pageTypeSlug: "finding",
   slug: "a-friends-account-name-is-read-and-then-undefined-is-added-instead",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/temper",
   claim:
     "The port-to-friend name list is given a friend's character name and then `undefined` where the friend's account name belongs. The account name is read on the line above and thrown away. The guild loop ten lines up adds both names, so the friend loop is the odd one out. This is in the temper source as much as in akasha, so it ships today rather than arriving with the migration.",
   evidence:

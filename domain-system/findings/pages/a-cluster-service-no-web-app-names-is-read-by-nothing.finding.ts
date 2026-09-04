@@ -4,7 +4,7 @@ export const aClusterServiceNoWebAppNamesIsReadByNothing = {
   id: "01a06587-c73c-7b40-9f21-6c1a7e0b8d34",
   pageTypeSlug: "finding",
   slug: "a-cluster-service-no-web-app-names-is-read-by-nothing",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/cluster-service",
   claim:
     "Every reader of a cluster service page enters through a web app page, so the new calendar-sync page states a whole CronJob that no akasha code path reaches. What puts that CronJob up is the CI workflow template, which reads no page at all.",
   evidence:

@@ -4,7 +4,7 @@ export const addingARouteToAlanWebCostsTheRouteTablesOwnComment = {
   id: "01a06858-8cfa-7520-8959-a7bb74383314",
   pageTypeSlug: "finding",
   slug: "adding-a-route-to-alan-web-costs-the-route-tables-own-comment",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "router-app/alan-web",
   claim:
     "A route added to Alan's site cannot be a file under `akasha/alan/web/routes/`, because no page claims one and `file-has-its-page` refuses it. It lands as a module beside the app instead. Registering it carries `routes.ts`, which `no-code-comments` then judges, so the table's own comment about where the api catch-all ranks had to go. Its usual home, `alan-web.router-app.ts`, cannot be carried: its `module/push-registration-sync` part narrows to two pages.",
   evidence:

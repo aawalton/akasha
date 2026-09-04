@@ -4,7 +4,7 @@ export const aFilePropertyIsFoundByAnExactPageTypeSlugRatherThanByWhatItExtends 
   id: "01a06942-877b-7cc7-b288-3ca4ebcc3f7e",
   pageTypeSlug: "finding",
   slug: "a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/pages-system",
   claim:
     "A page property is held in a file only where its property page states a `fileName` or its page type slug is exactly `file-property` or `page-property-entry`. The test is a string match that does not follow `extendsSlug`, so a new page type extending `file-property` would be invisible to the index: no beside-file path would be built for it, `page-property-has-its-file` would ask for nothing and `file-has-its-page` would refuse the carrier as claimed by no page. `named-file-property` escapes this only because it carries a `fileName`. This is why the two icon carriers were declared as plain `file-property` pages rather than under a page type of their own, which would have read as the tidier shape and would have landed a carrier no page claims.",
   evidence:

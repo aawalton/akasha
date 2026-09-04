@@ -4,7 +4,7 @@ export const aDataBesideFileIsHeldToTheCodeCeiling = {
   id: "01a06572-ebf1-7540-92e1-a2aae921d3af",
   pageTypeSlug: "finding",
   slug: "a-data-beside-file-is-held-to-the-code-ceiling",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/checks",
   claim:
     "A file property held as `json` is judged against the 15,000 byte code ceiling, so a data blob beside a page cannot land through the gate however small the page is.",
   evidence:

@@ -4,7 +4,7 @@ export const aConcurrentMechanicalLandingWroteBackOverARepointAndBothLandingsRep
   id: "01a0695a-9ecc-77de-ba27-f9b8488a5a3c",
   pageTypeSlug: "finding",
   slug: "a-concurrent-mechanical-landing-wrote-back-over-a-repoint-and-both-landings-reported-success",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/command-system",
   claim:
     "Two lanes landed `tools/lib/model-gateway/main.ts` ninety-nine seconds apart. The second had read its body before the first landed, so its change carried the whole earlier body with it and undid two import lines it never meant to touch. For about three minutes the live gateway entry named two files that had been removed, and any gateway spawned in that window would have died at import. Both landings answered `code: 0` with no refusal, and neither lane was told. A mechanical landing has no freshness gate: `movedOnDisk` is reached only from the command road, so nothing compares what you read against what is on disk. Read the path again immediately before composing a mechanical body for a file another lane may hold, and read it back off disk after landing rather than checking only that the path exists.",
   evidence:
