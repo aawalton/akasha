@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A page type takes its properties from more than one type.",
       workingMemory:
-        "The last parent named decides where two declare one property. `many: true` and the 441 values land in one batch or not at all, page-matches-its-type refusing a single value declared many and a list declared single alike; that batch only writes over files already there, so it lands mechanically. The tree is green over 120319 files, so no glass is owed. Expand over the descent path is three files: page-type-descent listedAbove, warranting's Known.above, and the file-page-type warrant.",
+        "Expand landed the descent path at a8b49fb5 and slugsIn at a137f9f3, which reads one page name or a list in one place so no reader grows its own branch. Twelve readers are left: reaching, index-entries, declared-properties, page-type-inheritance, property-carrying, file-page-type-config, pages-access/page-type, page-asking, page-tree, page-tree-assemble, the domain command and introduced-property-is-a-part. A tree shows no DAG, so page-tree needs a rule; first parent is the proposal.",
     },
     {
       statement: "A property states the calculation that fills it.",
@@ -51,6 +51,8 @@ export const nimueComputedProperties = {
   ],
   constraints: [
     "A computed property extends a module and a page property both.",
+    "Where two parents declare one property, the last one named decides.",
+    "`many: true` and the 441 values a page type states land in one batch or not at all.",
     "A calculation is a function exported from the computed property's own code file.",
     "One computed property type carries every calculation rather than one type for each shape.",
     "A calculation reaches only what its shape hands it.",
