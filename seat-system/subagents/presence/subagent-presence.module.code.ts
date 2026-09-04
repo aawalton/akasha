@@ -150,10 +150,26 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
     .sort()
 }
 
+const PATCH_SUFFIX = ".subagent.patch.uncommitted.diff"
+
+export function patchesUnder(root: string, seatName: string): readonly string[] {
+  const mark = `${seatName}-`
+  let names: readonly string[]
+  try {
+    names = readdirSync(join(root, SUBAGENTS_AT))
+  } catch {
+    return []
+  }
+  return names
+    .filter((one) => one.startsWith(mark) && one.endsWith(PATCH_SUFFIX))
+    .map((one) => `${SUBAGENTS_AT}/${one.slice(0, -PATCH_SUFFIX.length)}${SUFFIX}`)
+    .sort()
+}
+
 export function tookUnder(root: string, seatName: string, why: string): boolean {
+  tookInUnder(root, seatName, patchesUnder(root, seatName))
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return true
-  tookInUnder(root, seatName, paths)
   const gone = handed(
     root,
     paths.map((path) => ({ path, body: null })),
