@@ -68,7 +68,6 @@ export const seat = {
     "record-property/turn-pending",
     "record-property/turn-working",
     "relation-property/person-slug",
-    "relation-property/persona-slug",
     "relation-property/requested-action",
     "relation-property/role-slug",
     "relation-property/seat-persona-slug",
