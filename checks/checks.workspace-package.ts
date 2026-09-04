@@ -17,6 +17,7 @@ export const checks = {
     "module/check-scratch",
     "module/checking",
     "module/change-walking",
+    "module/check-cost",
     "module/run-cost",
     "module/shape-saying",
   ],
