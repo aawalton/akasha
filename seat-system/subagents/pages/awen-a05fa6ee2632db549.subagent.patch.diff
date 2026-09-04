@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
-index 1c6d775bb548d76e6302adc481c45f050199ffb6..2dd035ed66cbdf44304f4965a2b3952144e3b17b 100644
+index 1c6d775bb548d76e6302adc481c45f050199ffb6..5e6ddf18bae96f1a218983d44eb229c171e35115 100644
 --- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
 +++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
 @@ -4,9 +4,9 @@ import { servedOf } from "@akasha/code-system/code-typing"
@@ -59,6 +59,12 @@ index 1c6d775bb548d76e6302adc481c45f050199ffb6..2dd035ed66cbdf44304f4965a2b39521
      const key = `${one.path}\n${one.reason}`
      if (seen.has(key)) continue
      seen.add(key)
+@@ -131,4 +133,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+   return said
+ }
+ 
+-export const typescript7 = input(BUILT, refusalsIn)
++export const typescript7 = inputAsync(BUILT, refusalsIn)
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
 index 68f0684863f2d5920eb4ea2d9cf4ed49db7cb8c7..c783af7ab779558298f8c83b857c2bc135ad49fa 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
