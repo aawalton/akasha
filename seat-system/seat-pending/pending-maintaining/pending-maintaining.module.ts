@@ -53,6 +53,19 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A transcript settles for its own stretch rather than the one a store settles for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript settles for the shorter stretch of the two.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This writes into no transcript folder, so a transcript run triggers no other.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What is written is one component.",
     },
     {

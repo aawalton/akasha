@@ -11,7 +11,9 @@ import {
   type SeatPending,
 } from "../pending-from-files/pending-from-files.module.code.ts"
 
-const SETTLE_MS = 250
+const STORE_SETTLE_MS = 250
+
+const TRANSCRIPT_SETTLE_MS = 25
 
 const TRANSCRIPT_KEY = "transcript-path"
 
@@ -45,18 +47,19 @@ function fromFiles(): number {
   }
 }
 
-let settling: ReturnType<typeof setTimeout> | null = null
-
-function nudge(): boolean {
-  if (settling !== null) clearTimeout(settling)
-  settling = setTimeout(() => {
-    settling = null
-    fromFiles()
-  }, SETTLE_MS)
-  return true
+function settled(settleMs: number): () => boolean {
+  let settling: ReturnType<typeof setTimeout> | null = null
+  return () => {
+    if (settling !== null) clearTimeout(settling)
+    settling = setTimeout(() => {
+      settling = null
+      fromFiles()
+    }, settleMs)
+    return true
+  }
 }
 
-function follow(dir: string, deep: boolean): boolean {
+function follow(dir: string, deep: boolean, nudge: () => boolean): boolean {
   try {
     watch(dir, { recursive: deep }, () => {
       nudge()
@@ -71,20 +74,22 @@ function follow(dir: string, deep: boolean): boolean {
 function main(argv: readonly string[]): number {
   fromFiles()
   if (argv.includes("--once")) return 0
-  let standing = 0
+  let followed = 0
+  const nudgeStores = settled(STORE_SETTLE_MS)
+  const nudgeTranscripts = settled(TRANSCRIPT_SETTLE_MS)
   for (const dir of storesWatched()) {
-    if (follow(dir, true)) standing += 1
+    if (follow(dir, true, nudgeStores)) followed += 1
   }
   for (const dir of transcriptsWatched()) {
-    if (follow(dir, false)) standing += 1
+    if (follow(dir, false, nudgeTranscripts)) followed += 1
   }
-  if (standing === 0) {
+  if (followed === 0) {
     process.stderr.write(
       "maintain-seat-pending: no store could be followed, so nothing would reach it\n"
     )
     return 1
   }
-  process.stderr.write(`maintain-seat-pending: following ${String(standing)} store(s)\n`)
+  process.stderr.write(`maintain-seat-pending: following ${String(followed)} folder(s)\n`)
   return 0
 }
 
