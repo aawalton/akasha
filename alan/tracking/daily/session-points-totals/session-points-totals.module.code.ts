@@ -6,14 +6,12 @@ import {
   numberOf,
   SOURCE_POINTS_FIELD,
   textOf,
-  WRITER,
 } from "../day-scan-window/day-scan-window.module.code.ts"
 import {
   type PersonaDayTarget,
   patchPersonaDayField,
 } from "../persona-day-points/persona-day-points.module.code.ts"
 import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
-import { landTotalPoints } from "../persona-total-landing/persona-total-landing.module.code.ts"
 import {
   PersonaSessionRowSchema,
   planPersonaSessionWrite,
@@ -92,11 +90,7 @@ export async function writeSessionPointsTotalForPersona(
   const personaRaw = await personaFor(spec.personaSlug)
   const persona = personaRaw === undefined ? null : PersonaSessionRowSchema.parse(personaRaw)
 
-  const { patches, outcomes } = planPersonaSessionWrite(total, persona)
-  for (const patch of patches) {
-    const landed = await landTotalPoints(patch.pageTypeSlug, patch.slug, patch.totalPoints, WRITER)
-    if (!landed.ok) throw new Error(`the ${patch.slug} session total went unwritten: ${landed.why}`)
-  }
+  const { outcomes } = planPersonaSessionWrite(total, persona)
 
   return { outcomes, undeclared: null }
 }
