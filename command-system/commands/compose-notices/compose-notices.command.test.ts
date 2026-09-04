@@ -14,8 +14,7 @@ import {
   saidOf,
 } from "./compose-notices.command.code.ts"
 
-// The checkout this test file sits in: <root>/akasha/command-system/commands/compose-notices.
-const ROOT = resolve(import.meta.dir, "../../../..")
+const ROOT = resolve(import.meta.dir, "../../..")
 
 function givenIn(root: string): Given {
   return { root, calledAs: "akasha compose-notices", from: root, writer: null, agentId: null }
@@ -111,10 +110,7 @@ test("what is said is indented two spaces", () => {
   expect(saidOf({ one: "a" })).toBe('{\n  "one": "a"\n}')
 })
 
-// THIS ARM IS WHAT PROVES THE REACH. Everything above drives a seeded folder or a bare string, so
-// it would be green with the notices folder named wrong or an @akasha specifier misspelt. This one
-// calls the command against the real checkout, so a bad name fails it.
-test("the happy answer parses as the JSON the editor's revive reads", () => {
+test("the happy answer parses as the JSON the editor's revive reads, out of the real checkout", () => {
   const said = composeNotices([], givenIn(ROOT))
 
   expect(said.refusals).toEqual([])
