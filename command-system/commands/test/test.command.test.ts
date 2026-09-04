@@ -28,11 +28,11 @@ function given(root: string): Given {
   return { root, calledAs: "akasha test", from: root, writer: null, agentId: null }
 }
 
-check("a path outside the akasha folder is refused, and nothing is run", () => {
+check("a path outside the repository is refused, and nothing is run", () => {
   const root = repo({ "one.test.ts": PASSES })
-  const said = aiming(["tools/one.test.ts"], given(root))
+  const said = aiming(["../one.test.ts"], given(root))
   expect(said.named).toEqual([])
-  expect(said.refusals[0]).toContain("stands outside `akasha/`")
+  expect(said.refusals[0]).toContain("outside the repository")
 })
 
 check("every spelling of a path outside the folder is refused the same", () => {
@@ -42,9 +42,9 @@ check("every spelling of a path outside the folder is refused the same", () => {
   }
 })
 
-check("a run named nothing runs the whole akasha folder", () => {
+check("a run named nothing runs the whole checkout", () => {
   const root = repo({ "one.test.ts": PASSES })
-  expect(aiming([], given(root)).named).toEqual(["akasha"])
+  expect(aiming([], given(root)).named).toEqual(["."])
 })
 
 check("a path that is not there is refused rather than run", () => {
@@ -76,7 +76,7 @@ check("a folder holding no test is refused rather than reported as a pass", () =
   const root = repo({ "held.ts": "export const held = 1\n" })
   const said = test([], given(root))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("no file under `akasha` is a test")
+  expect(said.refusals[0]).toContain("no file under `.` is a test")
 })
 
 check("an output past what one answer holds keeps its end, where the summary stands", () => {
