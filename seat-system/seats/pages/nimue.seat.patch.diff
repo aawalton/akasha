@@ -88,7 +88,7 @@ index 0000000000000000000000000000000000000000..cf9c9fa93c8447e10dbb5135b4effdd6
 +  ],
 +} as const satisfies PageType
 diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
-index 57475c4b2813f5cac0cf0d0cb33862717194f939..7e97d09c50d19a4b0eee26c2c4e90f02905735d2 100644
+index 57475c4b2813f5cac0cf0d0cb33862717194f939..0d0235d5296c60f6f00d1d66c9362030ee4ca1b0 100644
 --- a/pages/pages.workspace-package.ts
 +++ b/pages/pages.workspace-package.ts
 @@ -32,6 +32,7 @@ export const pages = {
@@ -99,3 +99,12 @@ index 57475c4b2813f5cac0cf0d0cb33862717194f939..7e97d09c50d19a4b0eee26c2c4e90f02
      "page-type/boolean-property",
      "page-type/instant-property",
      "page-type/relation-property",
+@@ -101,7 +102,7 @@ export const pages = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What makes a file a page is the page type its name carries.",
++      statement: "A file is a page because the file's name carries a page type.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
