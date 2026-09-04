@@ -123,6 +123,19 @@ index 7efa09ff99f4b2701bf624c764f1e9969e01d106..fb8beadd8951f38668e81ea007bd5e82
    } catch (thrown) {
      const detail = thrown instanceof Error ? thrown.message : String(thrown)
      process.stderr.write(`${seatName}'s page in akasha stands: ${detail}\n`)
+diff --git a/seat-system/seat-running/seat-running.module.code.ts b/seat-system/seat-running/seat-running.module.code.ts
+index 6a4cb59ffc040488e403fc5214feea784425dbaa..da4b9e78e6d1f851b63c8940016c89997fea9bd2 100644
+--- a/seat-system/seat-running/seat-running.module.code.ts
++++ b/seat-system/seat-running/seat-running.module.code.ts
+@@ -255,7 +255,7 @@ export async function run(argv: readonly string[]): Promise<void> {
+       principal,
+       registration: args.registration,
+     }
+-    const page = writeSeatPage(statedNow(agent, standing, said), seatName, args.parentName)
++    const page = await writeSeatPage(statedNow(agent, standing, said), seatName, args.parentName)
+     if (page.kind === "refused") {
+       stop([
+         `${akashaSeatRelPath(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,
 diff --git a/seat-system/stop-seat/stop-seat.module.code.ts b/seat-system/stop-seat/stop-seat.module.code.ts
 index e05ed19100317411e7e5a99f525aa416fc4895b2..13f1f071f13e6cc4fd5b19fb7e63a7aa4511b90c 100644
 --- a/seat-system/stop-seat/stop-seat.module.code.ts
