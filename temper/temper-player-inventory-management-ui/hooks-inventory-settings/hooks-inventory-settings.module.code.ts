@@ -36,10 +36,6 @@ interface SettingsBlob {
   [key: string]: unknown
 }
 
-function isString(value: unknown): value is string {
-  return typeof value === "string"
-}
-
 function asSettingsBlob(value: unknown): SettingsBlob {
   return (isRecord(value) ? value : {}) as SettingsBlob
 }
@@ -66,20 +62,16 @@ function useSettingsBlob() {
   const rawWrite = useCallback(
     async (next: SettingsBlob) => {
       if (userId == null) return
-      const handle = playerRow?.handle
-      const profileMetadata = playerRow?.profileMetadata
       await runUpsert({
         pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
         where: [{ key: "title", eq: userId }],
         set: {
           title: userId,
-          handle: isString(handle) ? handle : null,
-          profileMetadata: isRecord(profileMetadata) ? profileMetadata : {},
           settings: asJson(next),
         },
       })
     },
-    [runUpsert, userId, playerRow]
+    [runUpsert, userId]
   )
 
   const write = useSingleFlight(rawWrite)
