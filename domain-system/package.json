@@ -6,7 +6,6 @@
     "./domain": "./domains/domain.page-type.ts",
     "./domain-slug": "./domains/properties/domain-slug.relation-property.ts",
     "./initiative-slug": "./initiatives/properties/initiative-slug.relation-property.ts",
-    "./persona-slug": "./initiatives/properties/persona-slug.relation-property.ts",
     "./domain-documents": "./domain-documents/domain-documents.module.code.ts",
     "./domain-reading": "./domain-reading/domain-reading.module.code.ts"
   }
