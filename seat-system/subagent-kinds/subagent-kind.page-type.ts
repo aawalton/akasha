@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Model } from "../seats/properties/model.text-property.ts"
-import type { DispatchedAs } from "../subagents/properties/dispatched-as.text-property.ts"
+import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 import type { SubagentPrompt } from "./properties/subagent-prompt.file-property.ts"
 
 export type SubagentKind = Domain & {
@@ -21,6 +21,7 @@ export const subagentKind = {
     "file-property/subagent-prompt",
     "subagent-kind/explore",
     "subagent-kind/general-purpose",
+    "text-property/dispatched-as",
   ],
   properties: [
     { pagePropertySlug: "dispatched-as", required: true, many: false },

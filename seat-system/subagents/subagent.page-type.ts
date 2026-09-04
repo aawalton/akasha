@@ -1,8 +1,8 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Agent } from "../../agents/agent.page-type.ts"
 import type { PrincipalSeatName } from "../seats/properties/principal-seat-name.relation-property.ts"
+import type { DispatchedAs } from "../subagent-kinds/properties/dispatched-as.text-property.ts"
 import type { AgentId } from "./properties/agent-id.text-property.ts"
-import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 
 export type Subagent = Agent & {
   principalSeatName: PrincipalSeatName
@@ -18,7 +18,7 @@ export const subagent = {
   pluralSlug: "subagents",
   extendsSlug: "page-type/agent",
   mortal: true,
-  partSlugs: ["text-property/agent-id", "text-property/dispatched-as"],
+  partSlugs: ["text-property/agent-id"],
   properties: [
     { pagePropertySlug: "principal-seat-name", required: true, many: false },
     { pagePropertySlug: "dispatched-as", required: true, many: false },
