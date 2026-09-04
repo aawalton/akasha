@@ -1,6 +1,10 @@
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 import { pageQueryTimeIn } from "@akasha/pages-core/view/page-query-times"
-import { dayAfter, WAKE_DAY, type Woke } from "./wake-day.ts"
+import {
+  dayAfter,
+  WAKE_DAY,
+  type Woke,
+} from "../../akasha/alan/tracking/daily/day-opening/day-opening.module.code.ts"
 
 export function compare(left: string, right: string): number {
   const a = Number(left)

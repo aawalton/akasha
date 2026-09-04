@@ -30,6 +30,7 @@ export const trackingDaily = {
     "module/task-points",
     "module/strength-points",
     "module/topic-words",
+    "module/day-opening",
   ],
   invariants: [
     {

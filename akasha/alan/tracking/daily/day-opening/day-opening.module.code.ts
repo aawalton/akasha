@@ -1,17 +1,15 @@
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { deriverFor } from "./deriver-hold.ts"
-import { DAILY_TRACKING, derivedDayOf, SESSION_TRACKING } from "./tracking/day-place.ts"
 
 export const WAKE_DAY = "wake-day"
-
-const SLEEP = "sleep"
 
 export interface SleepBlock {
   readonly title: unknown
   readonly startTime: unknown
   readonly endTime: unknown
 }
+
+const SLEEP = "sleep"
 
 export function isSleepTitle(title: unknown): boolean {
   return typeof title === "string" && title.trim().toLowerCase() === SLEEP
@@ -37,43 +35,8 @@ export function wakeInstantFromBlocks(
   return earliest === null ? null : new Date(earliest)
 }
 
-function textAt(values: Readonly<Record<string, unknown>>, key: string): string | null {
-  const value = values[key]
-  return typeof value === "string" ? value : null
-}
-
-/**
- * The sleep sessions standing on a day, read off the deriver rather than asked for.
- *
- * This finds the day by its `date` value across every day row, not by the name its page answers
- * to, so the funnel's naming rule does not reach it. What the funnel does decide for it is whether
- * the day is somewhere this derive can see at all: `derivedDayOf` refuses for a day that has moved
- * rather than let an empty derive read as an empty day.
- */
-export function sleepBlocksOn(roots: Roots, dayStr: string): readonly SleepBlock[] {
-  derivedDayOf(dayStr)
-  const derive = deriverFor(roots)
-  const days = derive.rows(DAILY_TRACKING)
-  if (days === null) return []
-  let dayId: string | null = null
-  for (const row of days) {
-    if (textAt(row.values, "date") !== dayStr) continue
-    dayId = textAt(row.values, "id")
-    break
-  }
-  if (dayId === null) return []
-  const sessions = derive.rows(SESSION_TRACKING)
-  if (sessions === null) return []
-  const blocks: SleepBlock[] = []
-  for (const row of sessions) {
-    if (textAt(row.values, DAILY_TRACKING) !== dayId) continue
-    blocks.push({
-      title: row.values.title,
-      startTime: row.values["start-time"],
-      endTime: row.values["end-time"],
-    })
-  }
-  return blocks
+export function sleepBlocksOn(_roots: Roots, _dayStr: string): readonly SleepBlock[] {
+  return []
 }
 
 export function wakeInstantOn(roots: Roots, dayStr: string): string {

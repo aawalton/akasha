@@ -19,11 +19,15 @@ import {
   UNREACHED,
 } from "@akasha/pages-system/page-query-shape"
 import { listOf, textOf } from "@akasha/pages-system/page-query-values"
+import {
+  WAKE_DAY,
+  type Woke,
+  wokeOn,
+} from "../../akasha/alan/tracking/daily/day-opening/day-opening.module.code.ts"
 import { deriverFor } from "./deriver-hold.ts"
 import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused } from "./page-query-bind.ts"
 import { comparing, stated } from "./page-query-compare.ts"
 import { queryOf } from "./page-query-fields.ts"
-import { WAKE_DAY, type Woke, wokeOn } from "./wake-day.ts"
 
 export type { Answer, Group, PageQuery, Reduction, Test }
 export { UNREACHED }

@@ -2,12 +2,12 @@ import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import { listedAt } from "@akasha/indexes"
-import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
 import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guard"
+import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
 import { nameFaultIn } from "@akasha/pages-system/page-export-name"
 import { asking } from "@akasha/pages-system-service/asking"
-import { wakeDayOf } from "../wake-day.ts"
+import { wakeDayOf } from "../../../akasha/alan/tracking/daily/day-opening/day-opening.module.code.ts"
 
 const EMAIL_ENTRY_PAGE_TYPE_SLUG = "email-entry"
 
@@ -170,7 +170,12 @@ function landPage(root: string, slug: string, values: Readonly<Record<string, un
   const message =
     `Alan's mail on ${String(values.date)} reached ` +
     `${String(values[LOWEST_INBOX_COUNT])} at its lowest`
-  const answer = landedMechanically(root, INBOX_WRITER, [{ path: at, body: encoded(body) }], message)
+  const answer = landedMechanically(
+    root,
+    INBOX_WRITER,
+    [{ path: at, body: encoded(body) }],
+    message
+  )
   if (answer.code !== 0) {
     throw new Error(
       `writing ${EMAIL_ENTRY_PAGE_TYPE_SLUG} for ${slug} at ${at}: ${answer.refusals.join("; ")}`

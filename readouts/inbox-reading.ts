@@ -41,8 +41,8 @@ import { lowestIn, mailOn } from "@akasha/readout-system/inboxes-email"
 import { tasksIn } from "@akasha/readout-system/inboxes-tasks"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { statedAt } from "@akasha/readout-system/readout-tier"
+import { wakeDayOf } from "../akasha/alan/tracking/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../tools/lib/tracking/day-place.ts"
-import { wakeDayOf } from "../tools/lib/wake-day.ts"
 
 const READOUTS = "akasha/readout-system/readouts/pages"
 

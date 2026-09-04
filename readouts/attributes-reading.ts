@@ -50,8 +50,11 @@ import { strengthIn } from "@akasha/readout-system/attribute-strength"
 import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
+import {
+  wakeDayOf,
+  wakeDayWindow,
+} from "../akasha/alan/tracking/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate, sessionsOfDay } from "../tools/lib/tracking/day-place.ts"
-import { wakeDayOf, wakeDayWindow } from "../tools/lib/wake-day.ts"
 import { askingIn } from "./plants-reading.ts"
 
 const READOUTS = "akasha/readout-system/readouts/pages"

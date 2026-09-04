@@ -1,6 +1,6 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
-import { wakeDayWindow } from "@tools/lib/wake-day"
+import { wakeDayWindow } from "../day-opening/day-opening.module.code.ts"
 import { numberOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
