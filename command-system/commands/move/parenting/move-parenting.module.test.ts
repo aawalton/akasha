@@ -25,6 +25,10 @@ const THERE = "akasha/two/held/held.module.ts"
 
 const NOWHERE = "akasha/nowhere/held/held.module.ts"
 
+const STRAY = "akasha/one/stray/stray.module.ts"
+
+const STRAY_AT = "akasha/two/stray/stray.module.ts"
+
 function idFor(slug: string): string {
   const held = [...slug].reduce((sum, one) => (sum * 31 + one.charCodeAt(0)) % 0xffffffff, 7)
   return `01a04bed-1450-7000-8000-${held.toString(16).padStart(12, "0")}`
@@ -63,8 +67,9 @@ function built(): string {
       }),
       [AT]: paged("one", "workspace-package", { partSlugs: ["module/held"] }),
       [HELD]: paged("held", "module"),
+      [STRAY]: paged("stray", "module"),
       "akasha/two/two.workspace-package.ts": paged("two", "workspace-package", {
-        partSlugs: ["module/other"],
+        partSlugs: ["module/other", "module/stray"],
       }),
       "akasha/two/other/other.module.ts": paged("other", "module"),
     })
@@ -116,6 +121,12 @@ test("a page arriving where no page holds the folder is refused rather than left
 
 test("a page carried within the one folder changes no parts", () => {
   const said = parenting(world(), HELD, "akasha/one/held/renamed.module.ts")
+  expect(refusedIn(said)).toBe("")
+  expect(partedIn(said)).toEqual([])
+})
+
+test("a page the holder of where it arrives already names changes no parts", () => {
+  const said = parenting(world(), STRAY, STRAY_AT)
   expect(refusedIn(said)).toBe("")
   expect(partedIn(said)).toEqual([])
 })
