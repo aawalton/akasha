@@ -1,5 +1,5 @@
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
-index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..6ce8074f86051880005ecc65aa590b224147b723 100644
+index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..68f0684863f2d5920eb4ea2d9cf4ed49db7cb8c7 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
 +++ b/checks/modules/change-walking/change-walking.module.code.ts
 @@ -8,7 +8,7 @@ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
@@ -42,3 +42,19 @@ index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..6ce8074f86051880005ecc65aa590b22
  export function input<T>(selector: Selector<T>, run: Running): Bounded {
    const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
    const stated: Stated = { isInput: selector.isInput }
+@@ -174,6 +191,15 @@ export function overEachText(
+   return overEach(textNamed, found)
+ }
+ 
++export function overEachTextAsync(
++  found: (path: string, text: string) => Promise<readonly string[]>
++): (given: Body) => Promise<readonly string[]> {
++  return async (given) => {
++    if (!textNamed(given.path)) return []
++    return await found(given.path, bodyOf(given))
++  }
++}
++
+ export function overEachBody(
+   found: (path: string, text: string) => readonly string[]
+ ): (given: Body) => readonly string[] {
