@@ -20,6 +20,7 @@ export const workflowLanguage = {
     "module/checksum-hash",
     "module/deploy",
     "module/kubectl-apply",
+    "module/manifest-path",
     "module/pod-selection",
     "module/rbac-apply",
     "module/retry-transient-ddl",

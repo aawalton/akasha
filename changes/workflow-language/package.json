@@ -10,6 +10,7 @@
     "./images": "./images/images.module.code.ts",
     "./inputs-hash": "./inputs-hash/inputs-hash.module.code.ts",
     "./kubectl-apply": "./kubectl-apply/kubectl-apply.module.code.ts",
+    "./manifest-path": "./manifest-path/manifest-path.module.code.ts",
     "./pod-selection": "./pod-selection/pod-selection.module.code.ts",
     "./rbac-apply": "./rbac-apply/rbac-apply.module.code.ts",
     "./rbac-types": "./rbac-types/rbac-types.module.code.ts",
@@ -27,6 +28,7 @@
   },
   "dependencies": {
     "@akasha/indexes": "workspace:*",
+    "@akasha/k8s-synth": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/pages-system-service": "workspace:*",
     "zod": "^4.3.6"

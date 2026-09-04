@@ -494,6 +494,7 @@
       "name": "@akasha/workflow-language",
       "dependencies": {
         "@akasha/indexes": "workspace:*",
+        "@akasha/k8s-synth": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "zod": "^4.3.6",
