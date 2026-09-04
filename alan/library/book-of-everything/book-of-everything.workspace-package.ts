@@ -36,7 +36,11 @@ export const bookOfEverything = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic names the topic above it rather than sitting in that topic's folder.",
+      statement: "A topic names the topic above rather than sitting in that topic's folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How far Alan has mastered each part of the map is kept with the part.",
     },
   ],
 } as const satisfies WorkspacePackage
