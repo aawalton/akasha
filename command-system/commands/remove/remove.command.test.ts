@@ -209,7 +209,7 @@ test("a folder at the top of the repository is refused, and so is a path inside 
   const root = repoWith({ [HELD]: BODY, [OUTSIDE]: BODY })
   expect((await removing(root, naming("temper"))).refusals[0]).toContain("at the top of the")
   expect((await removing(root, naming("akasha"))).code).toBe(1)
-  expect(await removing(root, naming(".git/config")).refusals[0]).toContain("`.git/`")
+  expect((await removing(root, naming(".git/config"))).refusals[0]).toContain("`.git/`")
   expect(git(root, ["ls-files"]).trim()).toBe(`${HELD}\n${OUTSIDE}`)
 })
 
