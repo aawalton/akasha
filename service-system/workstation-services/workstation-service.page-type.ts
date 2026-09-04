@@ -52,8 +52,6 @@ export const workstationService = {
     "text-property/wants",
     "workstation-service/alan-email-worker",
     "workstation-service/apns-push-notifier",
-    "workstation-service/ci-container-dispatcher",
-    "workstation-service/ci-container-reaper",
     "workstation-service/claude-account-upkeep-service",
     "workstation-service/claude-account-upkeep-stall",
     "workstation-service/dcgm-exporter",
