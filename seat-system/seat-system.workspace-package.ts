@@ -107,8 +107,6 @@ export const seatSystem = {
     "page-type/seat",
     "page-type/seat-conditions",
     "page-type/seat-log-day",
-    "page-type/seat-turn-end-decision",
-    "page-type/seat-turn-end-reading-case",
     "page-type/seat-turn-state",
     "page-type/subagent",
     "page-type/supervisor-action",

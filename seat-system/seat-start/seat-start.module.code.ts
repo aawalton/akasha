@@ -28,7 +28,6 @@ import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refus
 import { type StatedIdentity, spawnSeat } from "@akasha/seat-system/spawn-seat"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
-import { setTurnState } from "@akasha/seat-system/turn-records"
 import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
 import {
   composeSeatName,
@@ -199,9 +198,6 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
         "refused here rather than launched blank."
     )
   }
-
-  setTurnState(agentId, "idle")
-
   await launchSeatUnderTmux({ name, agentId, account, prompt: "", mode: startMode })
 
   if (json) {

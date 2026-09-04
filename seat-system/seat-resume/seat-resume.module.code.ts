@@ -28,7 +28,6 @@ import { HELP } from "@akasha/seat-system/seat-resume-help"
 import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
 import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
 import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"
-import { setTurnState } from "@akasha/seat-system/turn-records"
 import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
 import { shape } from "@akasha/utils-narrow/shape"
 import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
@@ -220,8 +219,6 @@ export default async function seatResume(args: readonly string[]): Promise<void>
     const standing = seatRecord(target)?.name ?? null
     if (standing !== null) await holdSeatPaneOpen(standing)
     const taken = await takeoverSeat(target)
-    setTurnState(taken.agentId, "idle")
-
     if (!parsed.boolean("--no-launch")) {
       if (taken.name === null) {
         throw dataError(

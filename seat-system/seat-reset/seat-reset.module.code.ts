@@ -9,7 +9,6 @@ import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
 import { HELP } from "@akasha/seat-system/seat-reset-help"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import { A_RESET, stopSeat } from "@akasha/seat-system/stop-seat"
-import { setTurnState } from "@akasha/seat-system/turn-records"
 import { composeSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "../seat-flex/seat-flex.module.code.ts"
 import {
@@ -151,9 +150,6 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
         `reads it as running — ${unstated.join("; ")}\n`
     )
   }
-
-  setTurnState(fresh, "idle")
-
   await launchSeatUnderTmux({
     name,
     agentId: fresh,

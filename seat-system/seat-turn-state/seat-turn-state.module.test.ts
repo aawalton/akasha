@@ -11,11 +11,8 @@ const ON = { value: true, at: AT } as const
 function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
   return {
     presence: "present" as SeatPresence,
-    stamped: null,
-    source: null,
     pending: { "live-subagent": OFF },
     working: { activeTurn: false },
-    reading: null,
     ...over,
   }
 }
@@ -23,11 +20,8 @@ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
 test("a seat holding no record at all is stopped", () => {
   const read = readSeatTurn({
     presence: "present",
-    stamped: null,
-    source: null,
     pending: {},
     working: {},
-    reading: null,
   })
 
   expect(read.state).toBe("stopped")
@@ -68,8 +62,4 @@ test("a seat waiting on something is waiting, and names what for", () => {
 
 test("a seat waiting on nothing is idle rather than waiting", () => {
   expect(readSeatTurn(kept()).state).toBe("idle")
-})
-
-test("a seat stamped stopped is stopped", () => {
-  expect(readSeatTurn(kept({ stamped: { value: "stopped", at: AT } })).state).toBe("stopped")
 })
