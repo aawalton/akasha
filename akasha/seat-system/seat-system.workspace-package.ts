@@ -334,6 +334,7 @@ export const seatSystem = {
     "module/launch-flags",
     "module/tool-access",
     "module/message-file-watch",
+    "module/message-file",
     "module/run-supervisor",
     "module/seat-call",
     "module/seat-running",
