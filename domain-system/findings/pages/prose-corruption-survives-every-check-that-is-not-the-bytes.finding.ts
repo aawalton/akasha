@@ -4,7 +4,7 @@ export const proseCorruptionSurvivesEveryCheckThatIsNotTheBytes = {
   id: "01a065c4-8f21-7000-b3d4-2c9a7e50d118",
   pageTypeSlug: "finding",
   slug: "prose-corruption-survives-every-check-that-is-not-the-bytes",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "One landed chapter had seven U+2714 HEAVY CHECK MARKs turned into U+221A SQUARE ROOTs. Both characters are three bytes, so the file was exactly the length it should have been, and no check short of comparing the bytes could have found it.",
   evidence:
