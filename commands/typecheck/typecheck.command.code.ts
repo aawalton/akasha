@@ -7,9 +7,9 @@ import type { Change } from "@akasha/pages-system/change"
 import { shadowAsked } from "@akasha/pages-system/shadow"
 import { counted } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
-import { aiming } from "../../command-system/commands/test/test.command.code.ts"
 import { oneLine, whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 import { ANSWER_CEILING, heldTo } from "../audit/audit.command.code.ts"
+import { aiming } from "../test/test.command.code.ts"
 
 const FILE_PATH = "--file-path"
 

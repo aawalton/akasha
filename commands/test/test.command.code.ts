@@ -3,7 +3,7 @@ import { join, relative, resolve } from "node:path"
 import { textIn } from "@akasha/code-system/body-text"
 import type { Summary, Verdict } from "@akasha/code-system/code-tests"
 import { ranOver, testsUnder } from "@akasha/code-system/code-tests"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
 
