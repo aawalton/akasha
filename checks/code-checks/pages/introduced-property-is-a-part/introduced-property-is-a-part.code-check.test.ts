@@ -234,10 +234,10 @@ test("what a page type declares and parts is read off its body", () => {
   expect([...partedIn({})]).toEqual([])
 })
 
-test("only a page-type page inside the akasha folder is named", () => {
-  expect(typeNamedIn("akasha/a/b/check.page-type.ts")).toBe("check")
-  expect(typeNamedIn("akasha/held.domain.ts")).toBeNull()
-  expect(typeNamedIn("pages/held.page-type.ts")).toBeNull()
+test("a page-type page is named wherever it sits, and no other page is", () => {
+  expect(typeNamedIn("a/b/check.page-type.ts")).toBe("check")
+  expect(typeNamedIn("pages/held.page-type.ts")).toBe("held")
+  expect(typeNamedIn("held.domain.ts")).toBeNull()
 })
 
 const BOTH: readonly string[] = ["one", "two"]
