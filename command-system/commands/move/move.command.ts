@@ -36,7 +36,7 @@ export const move = {
     "a folder you name carries every file git holds under it, each keeping its place beneath it.",
     "a file git is told to ignore goes as a sidecar rather than as folder contents.",
     "the files naming what moves are repointed in the same commit.",
-    "a tracked file outside `akasha/` spelling a path that moves is repointed with it.",
+    "any tracked file spelling a path that moves is repointed with it, once and only once.",
     "an agent settings document a live seat watches is rewritten once the move has landed.",
     "one that would not take the rewrite is named, and the move lands rather than refusing.",
     "one reaching in by a relative path is repointed where that path resolves to what moves.",
@@ -250,25 +250,28 @@ export const move = {
     },
     {
       invariantKind: "constraint",
-      statement: "The index carries the `akasha/` folder alone.",
+      statement: "The index carries the pages rather than every file git tracks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tracked file spelling a path that moves is repointed in the same commit.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A tracked file outside `akasha/` spelling a path that moves is repointed in the same commit.",
+        "Which files beyond the index spell a path that moves is answered by searching what git tracks.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which files outside `akasha/` spell a path that moves is answered by searching what git tracks.",
+      statement: "A file beyond the index is repointed where a body spells that path itself.",
     },
     {
       invariantKind: "departure",
-      statement: "A path outside `akasha/` is repointed where a body spells that path itself.",
+      statement: "A relative path resolving to a path that moved is repointed.",
     },
     {
-      invariantKind: "departure",
-      statement: "A relative path outside `akasha/` resolving to a path that moved is repointed.",
+      invariantKind: "absence",
+      statement: "A file the index already repointed is not repointed a second time.",
     },
     {
       invariantKind: "departure",
@@ -285,8 +288,7 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The files outside `akasha/` that were repointed are reported apart from those inside.",
+      statement: "The files beyond the index that were repointed are reported apart from the rest.",
     },
     {
       invariantKind: "departure",

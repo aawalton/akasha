@@ -15,7 +15,7 @@ export const moveResettling = {
     },
     {
       invariantKind: "constraint",
-      statement: "A settings document sits outside `akasha/`.",
+      statement: "A settings document sits outside this repository.",
     },
     {
       invariantKind: "constraint",
