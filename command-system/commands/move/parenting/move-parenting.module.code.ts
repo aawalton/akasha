@@ -16,8 +16,6 @@ const DOMAIN = "domain"
 
 const PAGE_TYPE = "page-type"
 
-const PACKAGE = "workspace-package"
-
 const PLURAL_SLUG = "pluralSlug"
 
 const HELD_FOLDERS = new Set(["modules", "pages", "properties", "scripts"])
@@ -207,13 +205,12 @@ function pluralOf(placing: Placing, one: Holder): string | null {
   return typeof said === "string" && said !== "" ? said : null
 }
 
-export function pairedIn(placing: Placing, held: readonly Holder[]): readonly Holder[] {
-  const [one, two] = held
-  if (one === undefined || held.length > 2) return []
-  if (two === undefined) return [one]
-  if (two.pageType === PACKAGE && two.slug === pluralOf(placing, one)) return [one, two]
-  if (one.pageType === PACKAGE && one.slug === pluralOf(placing, two)) return [two, one]
-  return []
+export function holdingIn(placing: Placing, held: readonly Holder[]): readonly Holder[] {
+  if (held.length < 2) return held
+  const kept = held.filter(
+    (one) => !held.some((two) => two.at !== one.at && holdsPart(placing, two, [one.address]))
+  )
+  return kept.length === 1 ? kept : []
 }
 
 function namesOf(placing: Placing, held: readonly Holder[]): readonly string[] {
@@ -231,10 +228,10 @@ export function holdersFor(placing: Placing, folder: string, moved: string): Hel
       return { unheld: crossed.join(", ") }
     }
     const held = pagesIn(placing, at).filter((one) => one.at !== moved)
-    const paired = pairedIn(placing, held)
+    const holding = holdingIn(placing, held)
     const named = basename(at)
-    const grouping = HELD_FOLDERS.has(named) && !namesOf(placing, paired).includes(named)
-    if (!grouping && paired.length > 0) return { holders: paired }
+    const grouping = HELD_FOLDERS.has(named) && !namesOf(placing, holding).includes(named)
+    if (!grouping && holding.length > 0) return { holders: holding }
     crossed.push(at)
     at = dirname(at)
     if (at === HERE) at = ROOT
