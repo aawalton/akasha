@@ -150,6 +150,26 @@ export function declaredOf(one: Carried, page: Value | undefined, on: string): D
   }
 }
 
+function lastSegment(said: string): string {
+  const at = said.lastIndexOf("/")
+  return at === -1 ? said : said.slice(at + 1)
+}
+
+export function ownerFor(root: string, held: Held, pageTypeSlug: string): string | null {
+  const seen = new Set<string>()
+  let at: string | null = pageTypeSlug
+  while (at !== null && at !== "" && !seen.has(at)) {
+    seen.add(at)
+    const page = pagesOfType(root, held, PAGE_TYPE).get(at)
+    if (page === undefined) return null
+    const owner = textAt(page, "ownerSlug")
+    if (owner !== null && owner !== "") return lastSegment(owner)
+    const above = textAt(page, "extendsSlug")
+    at = above === null || above === "" ? null : lastSegment(above)
+  }
+  return null
+}
+
 export function shaping(root: string, pageTypeSlug: string): Shaped {
   if (listedAt(root, PAGE_TYPE, pageTypeSlug).length === 0) return { shape: null }
   try {
@@ -166,7 +186,7 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
       shape: {
         pageType: pageTypeSlug,
         pageTypeId: own === undefined ? "" : (textAt(own, "id") ?? ""),
-        ownerSlug: null,
+        ownerSlug: ownerFor(root, held, pageTypeSlug),
         declarations,
       },
     }
