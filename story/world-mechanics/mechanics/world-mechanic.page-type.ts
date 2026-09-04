@@ -30,7 +30,6 @@ export const worldMechanic = {
     "number-property/paragraph",
     "number-property/reference-level",
     "page-property-entry/references",
-    "relation-property/world-slug",
     "text-property/aliases",
     "text-property/chapter-slug",
     "text-property/claimed-by-slug",

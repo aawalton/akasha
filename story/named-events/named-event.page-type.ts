@@ -35,7 +35,6 @@ export const namedEvent = {
     "number-property/evidence-beat",
     "number-property/event-first-chapter",
     "number-property/event-last-chapter",
-    "relation-property/world-slug",
     "select-property/named-event-kind",
     "text-property/event-aliases",
     "text-property/evidence-chapter",
