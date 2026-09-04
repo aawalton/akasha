@@ -2,7 +2,6 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Definition } from "./properties/definition.text-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
-import type { DomainSettled } from "./properties/domain-settled.boolean-property.ts"
 import type { Expands } from "./properties/expands.boolean-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"
 import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
@@ -14,14 +13,12 @@ export type Domain = Page & {
   partSlugs?: PartSlugs
   invariants?: Invariants
   directives?: Directives
-  settled?: DomainSettled
   expands?: Expands
 }
 
 export const domain = {
   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
   partSlugs: [
-    "boolean-property/domain-settled",
     "boolean-property/expands",
     "domain/domain-championing",
     "domain/domain-parent",
@@ -50,7 +47,6 @@ export const domain = {
     { pagePropertySlug: "part-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "invariants", required: false, many: true, max: null },
     { pagePropertySlug: "directives", required: false, many: true, max: null },
-    { pagePropertySlug: "domain-settled", required: false, many: false },
     { pagePropertySlug: "expands", required: false, many: false },
   ],
   invariants: [

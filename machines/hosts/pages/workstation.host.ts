@@ -6,5 +6,4 @@ export const workstation = {
   slug: "workstation",
   definition: "Alan's Linux desktop",
   title: "Workstation",
-  settled: true,
 } as const satisfies Host

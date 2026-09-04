@@ -6,5 +6,4 @@ export const macbook = {
   slug: "macbook",
   definition: "Alan's Apple laptop",
   title: "MacBook",
-  settled: true,
 } as const satisfies Host

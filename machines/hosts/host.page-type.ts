@@ -1,11 +1,9 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Settled } from "./properties/settled.boolean-property.ts"
 
 export type Host = Domain & {
   title: Title
-  settled?: Settled
 }
 
 export const host = {
@@ -16,7 +14,6 @@ export const host = {
   pluralSlug: "hosts",
   extendsSlug: "page-type/domain",
   partSlugs: [
-    "boolean-property/settled",
     "host/macbook",
     "host/node-01",
     "host/node-02",
@@ -26,18 +23,23 @@ export const host = {
     "host/node-06",
     "host/workstation",
   ],
-  properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "settled", required: false, many: false },
-  ],
+  properties: [{ pagePropertySlug: "title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a node's configuration is declared; every other machine is set up by hand.",
+      statement: "Only a node's configuration is declared.",
     },
     {
       invariantKind: "departure",
-      statement: "A host is a domain, so what it is stands in its definition as well as its title.",
+      statement: "Every other machine is set up by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host is a domain.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host's definition and its title alike say what the host is.",
     },
   ],
 } as const satisfies PageType
