@@ -22,15 +22,17 @@ dist/
 
 
 # Declarations tsc emits beside the .ts they came from. Hand-written
-# declarations live under types/ or in the trees named below, and none of those
-# hold an emitted one.
+# declarations live under types/, carry the type-declaration page suffix, or sit
+# in the trees named below, and none of those hold an emitted one. A rule here
+# matches a path from the repository root, so a rule anchored on a folder the
+# flatten dissolved matches nothing and drops every file that rule kept.
 *.d.ts
 !**/types/**/*.d.ts
 !checks-system/**/*.d.ts
-!lua-compiler/**/*.d.ts
+!**/lua-compiler/**/*.d.ts
 !patches/**/*.d.ts
 !temper/*-addon/**/*.d.ts
-!akasha/**/*.d.ts
+!**/*.type-declaration.d.ts
 
 # Scratch an agent writes to land a migration and then abandons. Two reached
 # commits before this rule existed, both inside akasha/, so the leak is real
@@ -41,7 +43,7 @@ dist/
 # of their own naming it; web-capacitor carries none, so its 18 woff2 font files were
 # untracked and unignored at once — invisible to an audit that judges what the index
 # names, and carrying a NUL byte each the moment a `git add -A` brought them in.
-akasha/alan/web-capacitor/build/
+alan/web-capacitor/build/
 
 # Kubernetes manifests synthesized from their TypeScript source.
 *.generated.yaml
