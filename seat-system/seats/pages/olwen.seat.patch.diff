@@ -1,0 +1,30 @@
+diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+index c7c95eea6af409dbb43862a70196005613a7c0a8..1069ee1d405c3c90497ab73e08ab33fb06bf6d61 100644
+--- a/domains/domain.page-type.ts
++++ b/domains/domain.page-type.ts
+@@ -18,7 +18,24 @@ export type Domain = Page & {
+ 
+ export const domain = {
+   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
+-  partSlugs: [],
++  partSlugs: [
++    "boolean-property/expands",
++    "domain/domain-championing",
++    "domain/domain-parent",
++    "record-property/directives",
++    "record-property/invariants",
++    "relation-property/directive-kind",
++    "relation-property/domain-slug",
++    "relation-property/invariant-kind",
++    "relation-property/part-slugs",
++    "text-property/act",
++    "text-property/aids",
++    "text-property/definition",
++    "text-property/invariant-statement",
++    "text-property/name",
++    "text-property/plural-slug",
++    "text-property/warrant",
++  ],
+   pageTypeSlug: "page-type",
+   slug: "domain",
+   definition: "a bounded area of concern",
