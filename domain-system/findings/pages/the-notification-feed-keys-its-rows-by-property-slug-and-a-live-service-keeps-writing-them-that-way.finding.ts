@@ -4,7 +4,7 @@ export const theNotificationFeedKeysItsRowsByPropertySlugAndALiveServiceKeepsWri
   id: "01a06904-251e-7f7d-bfd7-68efab8795a5",
   pageTypeSlug: "finding",
   slug: "the-notification-feed-keys-its-rows-by-property-slug-and-a-live-service-keeps-writing-them-that-way",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/alan-harness",
   claim:
     'An entry row is read under the camelCase of its property slug, not under the slug itself. `tools/lib/push-notification/feed.ts:9-14` argues the opposite in a comment and writes `"sent-at"` at :106, so all 2,334 rows of `alan.notification-feed.notifications.jsonl` are refused for stating a key the entry declares nothing under. The rows cannot be repaired on their own: `surplus-fall-notifier.service` is running and appends another kebab row whenever it has something to say, so a rewrite would look repaired until the next notification.',
   evidence:

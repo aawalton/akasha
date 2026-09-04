@@ -4,7 +4,7 @@ export const theNoSignalRuleIsKeptAtTheReaderAndUnsayableAtTheWriter = {
   id: "01a0676a-4d21-7b3c-9e08-4f2a1c7db550",
   pageTypeSlug: "finding",
   slug: "the-no-signal-rule-is-kept-at-the-reader-and-unsayable-at-the-writer",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/tracking-daily",
   claim:
     "Alan's inbox domain declares that a count nothing can be read for is shown as no signal rather than as a zero. The readout keeps that rule. The writers cannot say it: the tracking funnel strips null before composing, and the patch beneath keeps the last number. A blind query answered a confident zero instead, and a latch fastened it onto two of Alan's days.",
   evidence:
