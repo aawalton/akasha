@@ -4,14 +4,14 @@ export const tool = {
 } as const
 
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
+import { CONDUCT_RELATIVE_PATH } from "@akasha/seat-system/turn-end-conduct"
 import {
   DEFAULT_READING_MODEL,
   DEFAULT_TIMEOUT_MS,
   exitCodeFor,
   readingFor,
-} from "./lib/turn-end-reading.ts"
-import { CONDUCT_RELATIVE_PATH } from "./lib/turn-end-reading-conduct.ts"
+} from "@akasha/seat-system/turn-end-reading"
+import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
 
 const HELP = `bun tools/turn-end-reading.ts — read one turn end against what annoys its principal
 
