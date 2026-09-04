@@ -331,7 +331,7 @@ export function generating(root: string, generator: string): string {
     typing(
       THING_ID,
       "thing",
-      "null",
+      "[]",
       '{ pagePropertySlug: "held", required: true, many: false },' +
         ' { pagePropertySlug: "page-type-slug", required: true, many: false },' +
         ' { pagePropertySlug: "slug", required: true, many: false }'
@@ -355,18 +355,13 @@ export const ALPHA_AT = "akasha/alpha.page-type.ts"
 
 const BOTH = '{ pagePropertySlug: "page-type-slug" }'
 
-export const WAS_ALPHA = typing(THING_ID, "alpha", "null", BOTH)
+export const WAS_ALPHA = typing(THING_ID, "alpha", "[]", BOTH)
 
 export const BETA_AT = "akasha/beta.page-type.ts"
 
-export const NOW_BETA = typing(
-  GENERATED_ID,
-  "beta",
-  "null",
-  `${BOTH}, { pagePropertySlug: "note" }`
-)
+export const NOW_BETA = typing(GENERATED_ID, "beta", "[]", `${BOTH}, { pagePropertySlug: "note" }`)
 
-export const NOW_ALPHA = typing(THING_ID, "alpha", '"page-type/beta"', BOTH)
+export const NOW_ALPHA = typing(THING_ID, "alpha", '["page-type/beta"]', BOTH)
 
 const PAGE_TYPE_ID = "01a0540d-0000-7000-8000-000000000020"
 
@@ -375,14 +370,14 @@ const ROOT_ID = "01a0540d-0000-7000-8000-000000000021"
 function grounding(root: string): undefined {
   const pageAt = "akasha/page.page-type.ts"
   const held = '{ pagePropertySlug: "id" }, { pagePropertySlug: "slug" }'
-  put(root, pageAt, typing(ROOT_ID, "page", "null", held))
+  put(root, pageAt, typing(ROOT_ID, "page", "[]", held))
   schemaFiledFor(root, "text-property", "id")
   listedFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
   const typeAt = "akasha/page-type.page-type.ts"
   const declares =
     '{ pagePropertySlug: "extends-slug" }, { pagePropertySlug: "page-type-slug" }' +
     ', { pagePropertySlug: "properties", many: true, max: null }'
-  put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '"page-type/page"', declares))
+  put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '["page-type/page"]', declares))
   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
   schemaFiledFor(root, "relation-property", "extends-slug")
   schemaFiledFor(root, "relation-property", "page-type-slug")

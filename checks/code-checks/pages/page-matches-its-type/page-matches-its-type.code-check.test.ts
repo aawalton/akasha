@@ -350,7 +350,7 @@ test("a page stating what a page type the change puts above its own declares is 
 test("a page type the change carries is read as the change leaves it", () => {
   const root = scratch.rootFor("akasha-carried-")
   seeded(root)
-  const narrowing = { [HELD_AT]: typing(HELD_ID, "held", '"page-type/page"', NARROWED) }
+  const narrowing = { [HELD_AT]: typing(HELD_ID, "held", '["page-type/page"]', NARROWED) }
   expect(landing(root, { ...narrowing, [ONE_HELD_AT]: ONE_HELD }, {})).toEqual([
     { path: ONE_HELD_AT, reason: "does not state `name`, which `page-type/held` requires" },
   ])
