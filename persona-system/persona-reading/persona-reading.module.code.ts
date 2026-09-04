@@ -28,7 +28,7 @@ export interface Persona {
   readonly cover: string | null
 }
 
-function valueOf(root: string, path: string): Value {
+function loadedFrom(root: string, path: string): Value {
   let held: Value | null
   try {
     held = valueAt(path, root)
@@ -55,7 +55,7 @@ function portraitIn(path: string, value: Value): string | null {
 }
 
 function personaFrom(root: string, standing: Listed): Persona {
-  const value = valueOf(root, standing.path)
+  const value = loadedFrom(root, standing.path)
   const slug = textAt(value, "slug")
   if (slug === null) {
     throw new Error(`${standing.path} is a persona page and states no slug, so nothing names her`)
@@ -78,17 +78,6 @@ function personaFrom(root: string, standing: Listed): Persona {
     voiceReferenceSha256: textAt(value, "voiceReferenceSha256"),
     cover: textAt(value, "cover"),
   }
-}
-
-// Who champions what, read from the persona pages that stand. A persona names the one domain
-// she champions, so the map is that edge inverted: the domain's slug to her slug.
-export function championsStanding(root: string): ReadonlyMap<string, string> {
-  const held = new Map<string, string>()
-  for (const one of personasStanding(root)) {
-    if (one.championedDomainSlug === null) continue
-    held.set(one.championedDomainSlug, one.slug)
-  }
-  return held
 }
 
 export function personasStanding(root: string): readonly Persona[] {
@@ -130,7 +119,7 @@ export function lastMessagedAt(root: string, persona: Persona): string | null {
 
 const LAST_MESSAGED_AT_MAX = 24
 
-export function keepLastMessagedAt(root: string, persona: Persona, at: Date): void {
+export function keepLastMessagedAt(root: string, persona: Persona, at: Date): undefined {
   const said = at.toISOString()
   if (said.length > LAST_MESSAGED_AT_MAX) {
     throw new Error(
