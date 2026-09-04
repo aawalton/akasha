@@ -1,10 +1,7 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { ColorSlug } from "../../readout-system/readouts/properties/color-slug.text-property.ts"
 
-export type SeatTurnState = Domain & {
-  colorSlug: ColorSlug
-}
+export type SeatTurnState = Domain
 
 export const seatTurnState = {
   id: "01a06924-e882-736f-8cac-465ef2b5d799",
@@ -18,9 +15,7 @@ export const seatTurnState = {
     "seat-turn-state/idle-pending",
     "seat-turn-state/stopped",
     "seat-turn-state/working",
-    "text-property/color-slug",
   ],
-  properties: [{ pagePropertySlug: "color-slug", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,7 +27,7 @@ export const seatTurnState = {
     },
     {
       invariantKind: "departure",
-      statement: "Every turn state names a color, a stopped one included.",
+      statement: "Every turn state names a color.",
     },
     {
       invariantKind: "departure",
