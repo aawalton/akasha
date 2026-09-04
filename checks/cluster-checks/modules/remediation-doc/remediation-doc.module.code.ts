@@ -4,7 +4,9 @@ function RemediationDoc(path: string): RemediationDoc {
   return path as RemediationDoc
 }
 
-type RepoDocPath = `akasha/${string}`
+// A path into the repository names a folder at the root and something under it. `string` is
+// assignable to neither part, so a value not known at the type is still refused here.
+type RepoDocPath = `${string}/${string}`
 
 type NotMarkdown<S extends string> = S extends `${string}.md` ? never : S
 
