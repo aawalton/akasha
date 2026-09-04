@@ -49,6 +49,14 @@ export const remove = {
     },
     {
       invariantKind: "departure",
+      statement: "A file git does not track is taken off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file git does not track is taken off the disk under a folder git ignores too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A removal forgets every agent's reading of every path the removal takes.",
     },
     {

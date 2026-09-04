@@ -94,7 +94,16 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "A link under a scope folder is reached as one directly under `node_modules` is.",
+      statement:
+        "A link inside a folder under `node_modules` is reached as one directly under `node_modules` is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder holding a link is reached whether or not the folder names a scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No link deeper than one folder below `node_modules` is reached.",
     },
     {
       invariantKind: "departure",
