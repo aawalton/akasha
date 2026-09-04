@@ -6,8 +6,6 @@ import {
   TEXTS,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
-const INSIDE = "akasha/"
-
 const ONLY = "a file inside akasha exports only the names it declared itself"
 
 type Found = {
@@ -77,7 +75,6 @@ function reasonFor(one: Found): string {
 }
 
 function refusalsIn(path: string, text: string): readonly string[] {
-  if (!path.startsWith(INSIDE)) return []
   return reExportsIn(path, text).map(reasonFor)
 }
 
