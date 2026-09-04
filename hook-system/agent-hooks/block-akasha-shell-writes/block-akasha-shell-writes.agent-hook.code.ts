@@ -1,5 +1,7 @@
-import { resolve } from "node:path"
+import { lstatSync } from "node:fs"
+import { basename, dirname, join, resolve } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
+import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import {
   basenameOf,
@@ -26,6 +28,8 @@ const ONTO_THE_LAST = new Set(["cp", "mv", "install", "ln"])
 const ONTO_EVERY_ONE = new Set(["tee", "truncate", "touch"])
 
 const TAKING_AWAY = new Set(["rm", "rmdir"])
+
+const FOLLOWING = new Set(["", ".", ".."])
 
 const MAKING = new Set(["mkdir"])
 
@@ -287,6 +291,34 @@ function refusingAProgram(tool: string, shown: string, index: boolean): string {
   ].join("\n")
 }
 
+export function namesTheLink(shown: string): boolean {
+  return !FOLLOWING.has(shown.slice(shown.lastIndexOf("/") + 1))
+}
+
+function aLink(at: string): boolean {
+  return lstatSync(at, { throwIfNoEntry: false })?.isSymbolicLink() ?? false
+}
+
+function landedAt(from: string, landing: Landing): string {
+  const spelled = resolve(from, landing.at)
+  if (TAKING_AWAY.has(landing.how) && namesTheLink(landing.at)) {
+    const atTheLink = join(settled(dirname(spelled)), basename(spelled))
+    if (aLink(atTheLink)) return atTheLink
+  }
+  return settled(spelled)
+}
+
+type Judged = {
+  readonly landing: Landing
+  readonly at: string
+  readonly program: boolean
+}
+
+function refusalOf(one: Judged): string {
+  if (one.program) return refusingAProgram(one.landing.how, one.landing.at, false)
+  return refusing(one.landing.how, one.landing.at, false)
+}
+
 export function refusalFor(command: string, from: string, root: string): string | null {
   const here = settled(root)
   const guarded = guardedIn(here)
@@ -300,13 +332,23 @@ export function refusalFor(command: string, from: string, root: string): string 
     const at = settled(resolve(from, landing.at))
     if (insideOf(guarded.index, at)) return refusingAProgram(landing.how, landing.at, true)
   }
+  const judged: Judged[] = []
   for (const landing of landings) {
-    const at = settled(resolve(from, landing.at))
-    if (insideOf(guarded.pages, at)) return refusing(landing.how, landing.at, false)
+    const at = landedAt(from, landing)
+    if (insideOf(guarded.pages, at)) judged.push({ landing, at, program: false })
   }
   for (const landing of programs) {
     const at = settled(resolve(from, landing.at))
-    if (insideOf(guarded.pages, at)) return refusingAProgram(landing.how, landing.at, false)
+    if (insideOf(guarded.pages, at)) judged.push({ landing, at, program: true })
+  }
+  if (judged.length === 0) return null
+  const ignored = gitIgnoring(
+    here,
+    judged.map((one) => one.at)
+  )
+  for (const one of judged) {
+    if (ignored?.has(one.at) === true) continue
+    return refusalOf(one)
   }
   return null
 }
