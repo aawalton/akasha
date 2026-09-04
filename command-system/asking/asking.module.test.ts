@@ -31,8 +31,6 @@ import {
 
 afterAll(scratch.sweep)
 
-const CHECKED = { slug: "change-checked", runsChecks: true, runsWarrants: false }
-
 test("a report that could not be built leaves the landing standing, and says so", async () => {
   const root = repoWith()
   const was = headOf(root)
@@ -189,31 +187,6 @@ test("a landing made by a program runs no check and says so in the commit", () =
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
     "Checks-bypassed: a `change-mechanical` change runs no check"
   )
-})
-
-test("a kind running the checks runs them", () => {
-  const root = repoWith()
-  checking(root, "refuses", REFUSES_CODE)
-  const said = wrote(root, ["--message", "held"], PROPOSED, {
-    ...givenIn(root),
-    agentId: null,
-    changeKind: CHECKED,
-  })
-  expect(said.code).toBe(3)
-  expect(said.refusals.join("\n")).toContain("refused for the test")
-  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-})
-
-test("a kind running the checks lands what they pass", () => {
-  const root = repoWith()
-  const said = wrote(root, ["--message", "held"], PROPOSED, {
-    ...givenIn(root),
-    agentId: null,
-    changeKind: CHECKED,
-  })
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
 })
 
 test("a landing made by a program is told apart from a glass that was broken", () => {

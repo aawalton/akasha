@@ -1,9 +1,8 @@
 import { existsSync, readdirSync, readFileSync, rmdirSync } from "node:fs"
 import { dirname, join, relative, resolve, sep } from "node:path"
-import type { Held } from "@akasha/command-system/asking"
+import { type Held, landedMechanically } from "@akasha/command-system/asking"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
-import { landingFor } from "../checked-landing/migration-checked-landing.module.code.ts"
 
 const FILES = 200
 
@@ -230,7 +229,7 @@ export function migrationLanded(root: string, asked: Migration): Migrated {
     saying(`migration ${asked.subject}: nothing landed, and every body was left composed`)
     return { landed: [], batches: [], refused: [], mistaken, swept: [], halted: null, code: 1 }
   }
-  const landing = asked.landing ?? landingFor(root, asked.composed)
+  const landing = asked.landing ?? landedMechanically
   const halts = asked.haltAfter ?? HALTS
   const batches = batchesOf(asked.composed, asked.files ?? FILES, asked.bytes ?? BYTES)
   const said: Said[] = []

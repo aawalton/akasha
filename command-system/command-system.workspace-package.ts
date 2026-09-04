@@ -28,7 +28,6 @@ export const commandSystem = {
     "module/cli",
     "module/ops-calling",
     "module/asking",
-    "module/checked-landing",
     "module/commit-reading",
     "module/committing",
     "module/differing",

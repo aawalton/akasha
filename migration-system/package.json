@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./migration-checked-landing": "./checked-landing/migration-checked-landing.module.code.ts",
     "./migration-landing": "./landing/migration-landing.module.code.ts",
     "./migration-reach": "./reach/migration-reach.module.code.ts"
   },

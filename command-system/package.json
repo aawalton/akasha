@@ -9,7 +9,6 @@
     "./payload": "./payload/payload.module.code.ts",
     "./asking": "./asking/asking.module.code.ts",
     "./asking/testing": "./asking/asking.module.test-fixtures.ts",
-    "./checked-landing": "./checked-landing/checked-landing.module.code.ts",
     "./cli": "./cli/cli.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
     "./command": "./commands/command.page-type.ts",
