@@ -55,7 +55,7 @@ export const wanderingInnSyncing = {
       statement: "A run that only says what it would file is not recorded as a run.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "Chapters are filed by reaching the pages data directly, as code on the workstation must, rather than through the pages system service.",
     },

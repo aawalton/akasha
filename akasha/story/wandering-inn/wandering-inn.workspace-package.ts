@@ -24,11 +24,7 @@ export const wanderingInn = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes to the page store.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "The code filing these chapters is still outside akasha.",
+      statement: "Nothing here reaches the page store over the network.",
     },
   ],
 } as const satisfies WorkspacePackage

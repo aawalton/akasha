@@ -1,27 +1,37 @@
+import { landedMechanically } from "@akasha/command-system/asking"
+import type { FileEdit } from "@akasha/command-system/landing"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { besideAt } from "@akasha/pages-system/page-file-name"
+import type { Value } from "@akasha/pages-system/page-value"
+import { asking } from "@akasha/pages-system-service/asking"
+import { composedFor } from "@akasha/pages-system-service/composing"
 import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
-import { askComposed, pageLanding } from "@tools/lib/page-query-client"
 import {
   CHAPTER_PAGE_TYPE,
-  chapterPageName,
+  chapterPageSlug,
   chapterSlugOf,
   publishedDayOf,
   STORY_PAGE_TYPE,
   STORY_SLUG,
 } from "../chapter/chapter.module.code.ts"
 
-const WRITER = "wandering-inn-sync"
+const CALLED_AS = "wandering-inn-sync"
+const PROSE = "prose"
+const TXT = "txt"
+const WORDS = "words"
+const BYTES = new TextEncoder()
 
 export class FilingRefused extends Error {}
 
-export async function assertStoryStands(): Promise<void> {
-  const asked = await askComposed({
-    "page-type": STORY_PAGE_TYPE,
+export function assertStoryStands(): undefined {
+  const asked = asking(akashaRoot(), {
+    pageTypeSlug: STORY_PAGE_TYPE,
     where: { slug: { is: STORY_SLUG } },
     keys: ["slug"],
     limit: 2,
   })
-  if (!asked.ok) {
-    throw new FilingRefused(`${STORY_PAGE_TYPE}/${STORY_SLUG} went unread: ${asked.why}`)
+  if ("refused" in asked) {
+    throw new FilingRefused(`${STORY_PAGE_TYPE}/${STORY_SLUG} went unread: ${asked.refused}`)
   }
   if (asked.rows.length === 0) {
     throw new FilingRefused(
@@ -34,21 +44,21 @@ export async function assertStoryStands(): Promise<void> {
   }
 }
 
-export async function filedChapterLinks(): Promise<ReadonlySet<string>> {
-  const asked = await askComposed({
-    "page-type": CHAPTER_PAGE_TYPE,
-    where: { partOf: { is: STORY_SLUG } },
-    keys: ["link"],
+export function filedChapterLinks(): ReadonlySet<string> {
+  const asked = asking(akashaRoot(), {
+    pageTypeSlug: CHAPTER_PAGE_TYPE,
+    where: { partOfSlugs: { has: STORY_SLUG } },
+    keys: ["externalLink"],
   })
-  if (!asked.ok) {
+  if ("refused" in asked) {
     throw new FilingRefused(
       `the chapters already filed could not be read, so every chapter the table of contents ` +
-        `names would read as new and be filed a second time: ${asked.why}`
+        `names would read as new and be filed a second time: ${asked.refused}`
     )
   }
   const links = new Set<string>()
   for (const row of asked.rows) {
-    const link = row.values["link"]
+    const link = row["externalLink"]
     if (typeof link === "string" && link !== "") links.add(link)
   }
   if (links.size === 0) {
@@ -68,25 +78,42 @@ export interface Filing {
   readonly text: string
 }
 
-export async function fileChapter(chapter: Filing): Promise<string> {
-  const slug = chapterSlugOf(chapter.title)
-  const values: Record<string, string | number> = {
+export function fileChapter(chapter: Filing): string {
+  const root = akashaRoot()
+  const slug = chapterPageSlug(chapter.position, chapterSlugOf(chapter.title))
+  const values: Value = {
     title: chapter.title,
-    slug,
-    partOf: STORY_SLUG,
+    partOfSlugs: [STORY_SLUG],
     position: chapter.position,
     ownLength: countChapterWords(chapter.text),
-    unit: "words",
-    link: chapter.url,
-    body: chapter.text,
+    unitSlug: WORDS,
+    externalLink: chapter.url,
+    prose: TXT,
   }
   const day = publishedDayOf(chapter.url)
-  if (day !== null) values.publishedAt = day
+  if (day !== null) values["publishedAt"] = day
 
-  const name = chapterPageName(chapter.position, slug)
-  const landed = await pageLanding("write", CHAPTER_PAGE_TYPE, name, values, WRITER)
-  if (!landed.ok) {
-    throw new FilingRefused(`${CHAPTER_PAGE_TYPE}/${name} did not land: ${landed.why}`)
+  const composed = composedFor(root, { pageTypeSlug: CHAPTER_PAGE_TYPE, slug, values })
+  if ("refused" in composed) {
+    throw new FilingRefused(
+      `${CHAPTER_PAGE_TYPE}/${slug} was composed by nothing: ${composed.refused}`
+    )
   }
-  return landed.at
+  const beside = besideAt(composed.put.path, PROSE, TXT)
+  if (beside === null) {
+    throw new FilingRefused(
+      `${composed.put.path} is no page file, so its prose has no name beside it`
+    )
+  }
+  const changes: readonly FileEdit[] = [
+    { path: composed.put.path, body: BYTES.encode(composed.put.content) },
+    { path: beside, body: BYTES.encode(chapter.text) },
+  ]
+  const answer = landedMechanically(root, CALLED_AS, changes, `file ${CHAPTER_PAGE_TYPE}/${slug}`)
+  if (answer.code !== 0) {
+    throw new FilingRefused(
+      `${CHAPTER_PAGE_TYPE}/${slug} did not land: ${answer.refusals.join("; ")}`
+    )
+  }
+  return composed.put.path
 }

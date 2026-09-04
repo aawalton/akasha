@@ -9,6 +9,10 @@ export const syncRunRecording = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A run is a row among the sync's own runs rather than a page of its own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run is recorded as running before the sync it records is started.",
     },
     {

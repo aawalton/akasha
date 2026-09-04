@@ -1,8 +1,7 @@
 export const STORY_SLUG = "the-wandering-inn"
-export const STORY_PAGE_TYPE = "story-read-wandering-inn"
-export const CHAPTER_PAGE_TYPE = "story-chapter-wandering-inn"
+export const STORY_PAGE_TYPE = "story-read"
+export const CHAPTER_PAGE_TYPE = "story-chapter-read"
 
-const WORLD_SLUG = "wandering-inn"
 const POSITION_DIGITS = 4
 
 const TRAILING_NAV_RE = /\n[^\S\n]*(?:Previous Chapter(?:\s*Next Chapter)?|Next Chapter)\s*$/
@@ -35,9 +34,9 @@ export function chapterSlugOf(title: string): string {
   )
 }
 
-export function chapterPageName(position: number, slug: string): string {
+export function chapterPageSlug(position: number, slug: string): string {
   const at = String(position).padStart(POSITION_DIGITS, "0")
-  return `${STORY_SLUG}/${WORLD_SLUG}/${STORY_SLUG}/chapters/${at}-${slug}`
+  return `${STORY_SLUG}-${at}-${slug}`
 }
 
 export function isPatronTitle(title: string): boolean {

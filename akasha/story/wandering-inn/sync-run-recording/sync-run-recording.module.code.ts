@@ -1,11 +1,24 @@
-import { askComposed, patchPage, rowLanding } from "@tools/lib/page-query-client"
+import { landedMechanically } from "@akasha/command-system/asking"
+import type { FileEdit } from "@akasha/command-system/landing"
+import { listedAt } from "@akasha/indexes"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { entriesAt } from "@akasha/pages-system/page-entries"
+import { besideAt } from "@akasha/pages-system/page-file-name"
+import type { Value } from "@akasha/pages-system/page-value"
 
 const SYNC_PAGE_TYPE = "sync"
-const RUN_PAGE_TYPE = "sync-run"
-const WRITER = "sync-run-tracker"
+const SYNC_RUNS = "sync-runs"
+const JSONL = "jsonl"
+const CALLED_AS = "sync-run-tracker"
+
+const RUNNING = "running"
+const FAILED = "failed"
+const SUCCESS = "success"
 
 const STALE_AFTER_MS = 7 * 60 * 60 * 1000
-const MESSAGE_CEILING = 2000
+const MESSAGE_CEILING = 500
+const NEWLINE = "\n"
+const BYTES = new TextEncoder()
 
 export interface RunCounts {
   readonly created: number
@@ -16,47 +29,83 @@ export interface RunCounts {
 
 type Stated = Record<string, string | number>
 
-function unreached(thrown: unknown): { readonly ok: false; readonly why: string } {
-  return { ok: false, why: String(thrown) }
+type Filed = {
+  readonly page: string
+  readonly runs: readonly Value[]
 }
 
-async function stateRun(
-  source: string,
-  values: Stated,
-  act: "write-row" | "patch-row"
-): Promise<void> {
-  const landed = await rowLanding(act, RUN_PAGE_TYPE, source, values, WRITER).catch(unreached)
-  if (!landed.ok) console.log(`  the run record did not land: ${landed.why}`)
+function said(what: string): undefined {
+  console.log(`  ${what}`)
 }
 
-async function stateSync(source: string, values: Stated): Promise<void> {
-  const landed = await patchPage(SYNC_PAGE_TYPE, source, values, WRITER).catch(unreached)
-  if (!landed.ok) console.log(`  the sync page did not take the run: ${landed.why}`)
+function filedFor(root: string, source: string): Filed | null {
+  const listed = listedAt(root, SYNC_PAGE_TYPE, source)
+  const page = listed.length === 1 ? listed[0]?.path : undefined
+  if (page === undefined) {
+    said(`${SYNC_PAGE_TYPE}/${source} names ${listed.length} pages, so no run is recorded`)
+    return null
+  }
+  const read = entriesAt(root, page, SYNC_RUNS, JSONL)
+  if ("refused" in read) {
+    said(`the runs already filed went unread, so no run is recorded: ${read.refused}`)
+    return null
+  }
+  return { page, runs: read.entries }
 }
 
-async function failStaleRun(source: string, startedAtMs: number): Promise<void> {
-  const asked = await askComposed({
-    "page-type": SYNC_PAGE_TYPE,
-    where: { slug: { is: source } },
-    keys: ["running-run", "running-since-at"],
-  })
-  if (!asked.ok || asked.rows.length !== 1) return
-  const values = asked.rows[0]?.values ?? {}
-  const held = values["running-run"]
-  if (typeof held !== "string" || held === "") return
-  const since = values["running-since-at"]
+function landed(root: string, page: string, runs: readonly Value[], message: string): undefined {
+  const at = besideAt(page, SYNC_RUNS, JSONL)
+  if (at === null) {
+    said(`'${page}' is no page file, so its ${SYNC_RUNS} have no name beside it`)
+    return
+  }
+  let text = ""
+  for (const one of runs) text += `${JSON.stringify(one)}${NEWLINE}`
+  const changes: readonly FileEdit[] = [{ path: at, body: BYTES.encode(text) }]
+  const answer = landedMechanically(root, CALLED_AS, changes, message)
+  if (answer.code !== 0) said(`the run record did not land: ${answer.refusals.join("; ")}`)
+}
+
+function stale(one: Value, startedAtMs: number): boolean {
+  if (one["runStatus"] !== RUNNING) return false
+  const since = one["runStartedAt"]
   const sinceMs = typeof since === "string" ? Date.parse(since) : Number.NaN
-  if (!Number.isNaN(sinceMs) && sinceMs >= startedAtMs - STALE_AFTER_MS) return
-  console.log(`  an earlier run (${held}) never said how it ended; recording it as failed`)
-  await stateRun(
-    source,
-    {
-      id: held,
-      status: "failed",
-      "completed-at": new Date(startedAtMs).toISOString(),
-      "error-message": "stale: the process ended before it recorded completion",
-    },
-    "patch-row"
+  return Number.isNaN(sinceMs) || sinceMs < startedAtMs - STALE_AFTER_MS
+}
+
+function settledStale(runs: readonly Value[], startedAtMs: number): readonly Value[] {
+  return runs.map((one) => {
+    if (!stale(one, startedAtMs)) return one
+    said(`an earlier run never said how it ended; recording it as failed`)
+    return {
+      ...one,
+      runStatus: FAILED,
+      runCompletedAt: new Date(startedAtMs).toISOString(),
+      runErrorMessage: "stale: the process ended before it recorded completion",
+    }
+  })
+}
+
+function settledInto(runs: readonly Value[], startedAt: string, set: Stated): readonly Value[] {
+  let found = false
+  const held = runs.map((one) => {
+    if (one["runStartedAt"] !== startedAt || one["runStatus"] !== RUNNING) return one
+    found = true
+    return { ...one, ...set }
+  })
+  if (found) return held
+  return [...held, { runStartedAt: startedAt, ...set }]
+}
+
+function settling(source: string, startedAt: string, set: Stated): undefined {
+  const root = akashaRoot()
+  const filed = filedFor(root, source)
+  if (filed === null) return
+  landed(
+    root,
+    filed.page,
+    settledInto(filed.runs, startedAt, set),
+    `${source} settles its run as ${String(set["runStatus"])}`
   )
 }
 
@@ -67,40 +116,34 @@ export async function recordingRun(
   const startedAtMs = Date.now()
   const startedAt = new Date(startedAtMs).toISOString()
 
-  await failStaleRun(source, startedAtMs).catch((thrown) => {
-    console.log(`  whether an earlier run is still open went unread: ${String(thrown)}`)
-  })
-
-  const runId = Bun.randomUUIDv7()
-  await stateRun(
-    source,
-    { id: runId, source, status: "running", "started-at": startedAt },
-    "write-row"
-  )
-  await stateSync(source, { "running-run": runId, "running-since-at": startedAt })
+  const root = akashaRoot()
+  const filed = filedFor(root, source)
+  if (filed !== null) {
+    landed(
+      root,
+      filed.page,
+      [...settledStale(filed.runs, startedAtMs), { runStartedAt: startedAt, runStatus: RUNNING }],
+      `${source} opens a run`
+    )
+  }
 
   let settled = false
-  const finish = async (set: Stated): Promise<void> => {
+  const finish = (set: Stated): undefined => {
     settled = true
-    await stateRun(source, { id: runId, ...set }, "patch-row")
-    await stateSync(source, { "running-run": "", "running-since-at": "" })
+    settling(source, startedAt, set)
   }
 
   const onSignal = (signal: string, code: number): undefined => {
     if (settled) return
     settled = true
     const endedMs = Date.now()
-    void stateRun(
-      source,
-      {
-        id: runId,
-        status: "failed",
-        "completed-at": new Date(endedMs).toISOString(),
-        "duration-ms": endedMs - startedAtMs,
-        "error-message": `terminated by ${signal} before completion`,
-      },
-      "patch-row"
-    ).finally(() => process.exit(code))
+    settling(source, startedAt, {
+      runStatus: FAILED,
+      runCompletedAt: new Date(endedMs).toISOString(),
+      durationMs: endedMs - startedAtMs,
+      runErrorMessage: `terminated by ${signal} before completion`,
+    })
+    process.exit(code)
   }
   const onSigterm = (): undefined => onSignal("SIGTERM", 143)
   const onSigint = (): undefined => onSignal("SIGINT", 130)
@@ -113,26 +156,26 @@ export async function recordingRun(
       counts = await sync()
     } catch (thrown) {
       const endedMs = Date.now()
-      await finish({
-        status: "failed",
-        "completed-at": new Date(endedMs).toISOString(),
-        "duration-ms": endedMs - startedAtMs,
-        "error-message": String(thrown).slice(0, MESSAGE_CEILING),
+      finish({
+        runStatus: FAILED,
+        runCompletedAt: new Date(endedMs).toISOString(),
+        durationMs: endedMs - startedAtMs,
+        runErrorMessage: String(thrown).slice(0, MESSAGE_CEILING),
       })
       throw thrown
     }
 
     const endedMs = Date.now()
-    await finish({
-      status: counts.failed > 0 ? "failed" : "success",
-      "completed-at": new Date(endedMs).toISOString(),
-      "duration-ms": endedMs - startedAtMs,
-      "created-count": counts.created,
-      "updated-count": counts.updated,
-      "skipped-count": counts.skipped,
-      "failed-count": counts.failed,
+    finish({
+      runStatus: counts.failed > 0 ? FAILED : SUCCESS,
+      runCompletedAt: new Date(endedMs).toISOString(),
+      durationMs: endedMs - startedAtMs,
+      createdCount: counts.created,
+      updatedCount: counts.updated,
+      skippedCount: counts.skipped,
+      failedCount: counts.failed,
       ...(counts.failed > 0
-        ? { "error-message": `the sync filed ${counts.failed} chapter(s) as failed` }
+        ? { runErrorMessage: `the sync filed ${counts.failed} chapter(s) as failed` }
         : {}),
     })
     return counts

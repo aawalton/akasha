@@ -66,7 +66,7 @@ async function takeChapter(
     return
   }
 
-  const where = await fileChapter({ position: listed.position, title, url, text })
+  const where = fileChapter({ position: listed.position, title, url, text })
   console.log(`  ${at} chapter ${listed.position}: filed "${title}" at ${where}`)
   tally.created += 1
 }
@@ -78,9 +78,9 @@ export async function syncWanderingInn(argv: readonly string[]): Promise<RunCoun
   const site = await openSite()
   const tally: Tally = { created: 0, skipped: 0, failed: 0 }
   try {
-    await assertStoryStands()
+    assertStoryStands()
 
-    const filed = await filedChapterLinks()
+    const filed = filedChapterLinks()
     console.log(`${filed.size} chapter(s) already filed`)
 
     const listed = await site.readContents()

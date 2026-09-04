@@ -10,8 +10,11 @@
     "./wandering-inn-syncing": "./wandering-inn-syncing/wandering-inn-syncing.module.code.ts"
   },
   "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages-system-service": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
-    "@tools/lib": "workspace:*",
     "playwright-core": "1.61.1"
   }
 }

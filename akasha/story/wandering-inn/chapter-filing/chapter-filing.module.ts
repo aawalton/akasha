@@ -33,7 +33,11 @@ export const chapterFiling = {
       statement: "A chapter whose url states no day is filed without one rather than refused.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
+      statement: "A chapter's prose is landed in the file beside its page rather than in the page.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Chapters are filed by reaching the pages data directly, as code on the workstation must, rather than through the pages system service.",
     },
