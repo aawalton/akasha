@@ -29,13 +29,13 @@ export function akashaSubagentPathsOf(
   return pathsUnder(root, seatName).map((one) => `${root}/${one}`)
 }
 
-export function removeAkashaSubagentPagesOf(
+export async function removeAkashaSubagentPagesOf(
   seatName: string,
   why: string,
   roots: Roots = resolveRoots()
-): Outcome {
+): Promise<Outcome> {
   const root = rootFor(roots, AKASHA)
   if (pathsUnder(root, seatName).length === 0) return { kind: "unchanged" }
-  if (tookUnder(root, seatName, why)) return { kind: "removed" }
+  if (await tookUnder(root, seatName, why)) return { kind: "removed" }
   return { kind: "refused", detail: `the subagent pages under ${seatName} did not go` }
 }
