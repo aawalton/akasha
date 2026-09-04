@@ -10,5 +10,4 @@ export const aelwyn20260802 = {
   sourcePoints: 87,
   valueSlug: "health",
   strengthVolume: 0,
-  activeCalories: 87,
 } as const satisfies PersonaDay
