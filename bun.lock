@@ -527,9 +527,9 @@
     "akasha/changes/workflow-language": {
       "name": "@akasha/workflow-language",
       "dependencies": {
-        "@akasha/markdown-pages": "workspace:*",
+        "@akasha/indexes": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
+        "@akasha/pages-system-service": "workspace:*",
         "zod": "^4.3.6",
       },
     },

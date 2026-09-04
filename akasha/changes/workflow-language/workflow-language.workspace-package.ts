@@ -42,9 +42,5 @@ export const workflowLanguage = {
       invariantKind: "departure",
       statement: "An image a step runs is named here rather than written into the step.",
     },
-    {
-      invariantKind: "gap",
-      statement: "What gathers the declarations stands outside akasha, on the old page query.",
-    },
   ],
 } as const satisfies WorkspacePackage

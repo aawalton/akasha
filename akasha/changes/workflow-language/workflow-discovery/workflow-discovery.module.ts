@@ -13,12 +13,15 @@ export const workflowDiscovery = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page outside the akasha tree is refused, that tree alone being held at a commit.",
+      statement: "A page's file is found by that page's id in the tree's index.",
     },
     {
       invariantKind: "departure",
-      statement: "A declaration stated as a function is called with the code root it runs over.",
+      statement: "A declaration is the file standing beside its page's own file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration stated as a function is called with the code root of the run.",
     },
     {
       invariantKind: "departure",

@@ -1,8 +1,7 @@
-import { attachmentPathFor } from "@akasha/markdown-pages/attachment-file"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { listedById } from "@akasha/indexes"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 import { canonicalize } from "@akasha/pages-system/repo-path"
-import { answer } from "@tools/lib/page-query"
+import { asking, type Row } from "@akasha/pages-system-service/asking"
 import type {
   DiscoveredWorkflow,
   Workflow,
@@ -13,10 +12,11 @@ export const WORKFLOW_TEMPLATE_PAGE_TYPE = "workflow-template"
 export const DECLARATION_KEY = "declaration"
 export const DECLARATION_EXTENSION = "ts"
 
+const ID_KEY = "id"
 const SLUG_KEY = "slug"
-const KIND_KEY = "kind"
+const KIND_KEY = "workflowKind"
 
-const REPO = "akasha"
+const PAGE_KEYS: readonly string[] = [ID_KEY, SLUG_KEY, KIND_KEY]
 
 const EVERY_KIND: Readonly<Record<WorkflowKind, true>> = {
   preparation: true,
@@ -41,32 +41,13 @@ export interface DeclarationContext {
   readonly codeRoot: string
 }
 
-function textIn(values: Readonly<Record<string, unknown>>, key: string): string | null {
-  const held = values[key]
+function textIn(row: Row, key: string): string | null {
+  const held = row[key]
   return typeof held === "string" && held !== "" ? held : null
 }
 
-function relPathOf(at: string): string {
-  const cut = at.indexOf(":")
-  const repo = cut === -1 ? "" : at.slice(0, cut)
-  const relPath = cut === -1 ? "" : at.slice(cut + 1)
-  if (relPath === "") {
-    throw new Error(
-      `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page stands at \`${at}\`, which does not read as \`<repo>:<path>\``
-    )
-  }
-  if (repo !== REPO) {
-    throw new Error(
-      `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page stands at \`${at}\`, in \`${repo}\` rather than ` +
-        `\`${REPO}\`; only the \`${REPO}\` tree is held at a commit here, so this page would be ` +
-        "read as it stands now rather than as it stood at that commit"
-    )
-  }
-  return relPath
-}
-
-function kindOf(values: Readonly<Record<string, unknown>>, at: string): WorkflowKind {
-  const stated = textIn(values, KIND_KEY)
+function kindOf(row: Row, at: string): WorkflowKind {
+  const stated = textIn(row, KIND_KEY)
   if (stated === null) {
     throw new Error(
       `\`${at}\` states no \`${KIND_KEY}\`, and a workflow takes its kind from its page`
@@ -78,30 +59,47 @@ function kindOf(values: Readonly<Record<string, unknown>>, at: string): Workflow
   return stated as WorkflowKind
 }
 
-export function rootedAt(root: string): Roots {
-  return { ...resolveRoots(), akasha: canonicalize(root) }
+function relPathOf(root: string, row: Row): string {
+  const id = textIn(row, ID_KEY)
+  if (id === null) {
+    throw new Error(
+      `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page answers no \`${ID_KEY}\`, and a page's file is ` +
+        "found by its id"
+    )
+  }
+  const listed = listedById(root, id)
+  if (listed === null) {
+    throw new Error(
+      `the index at \`${root}\` carries \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page \`${id}\` but ` +
+        "names no file for it, so what that page declares cannot be read"
+    )
+  }
+  return listed.path
 }
 
 export function workflowPages(root: string): readonly WorkflowPage[] {
-  const roots = rootedAt(root)
-  const asked = answer(roots, {
-    pageType: WORKFLOW_TEMPLATE_PAGE_TYPE,
-    keys: [SLUG_KEY, KIND_KEY],
-  })
-  if (asked === null) {
+  const at = canonicalize(root)
+  const asked = asking(at, { pageTypeSlug: WORKFLOW_TEMPLATE_PAGE_TYPE, keys: PAGE_KEYS })
+  if ("refused" in asked) {
     throw new Error(
-      `the tree at \`${rootFor(roots, AKASHA)}\` names no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page type ` +
-        "whose pages are files, so no workflow stands to be run"
+      `the tree at \`${at}\` answers no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page, so no workflow ` +
+        `stands to be run: ${asked.refused}`
     )
   }
   return asked.rows.map((row) => {
-    const relPath = relPathOf(row.at)
-    const sourcePath = attachmentPathFor(relPath, DECLARATION_KEY, DECLARATION_EXTENSION)
+    const relPath = relPathOf(at, row)
+    const sourcePath = besideAt(relPath, DECLARATION_KEY, DECLARATION_EXTENSION)
+    if (sourcePath === null) {
+      throw new Error(
+        `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page stands at \`${relPath}\`, which is no ` +
+          "TypeScript file, so nothing stands beside it to declare a workflow"
+      )
+    }
     return {
-      slug: textIn(row.values, SLUG_KEY) ?? relPath,
-      kind: kindOf(row.values, row.at),
+      slug: textIn(row, SLUG_KEY) ?? relPath,
+      kind: kindOf(row, relPath),
       sourcePath,
-      declarationPath: `${rootFor(roots, AKASHA)}/${sourcePath}`,
+      declarationPath: `${at}/${sourcePath}`,
     }
   })
 }
