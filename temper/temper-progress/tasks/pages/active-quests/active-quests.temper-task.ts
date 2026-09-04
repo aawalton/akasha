@@ -6,8 +6,8 @@ export const activeQuests = {
   slug: "active-quests",
   title: "Active Quests",
   icon: "file-text",
+  completionCardId: "active-quests",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "all_characters",
   priority: "p3",
-  completionCardId: "active-quests",
 } as const satisfies TemperTask
