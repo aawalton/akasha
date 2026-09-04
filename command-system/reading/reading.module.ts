@@ -116,6 +116,23 @@ export const reading = {
       statement: "A removal forgets the reading of what went for every agent.",
     },
     {
+      invariantKind: "departure",
+      statement: "A read whose output would not reach the agent is refused and leaves no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Output going to a pipe or to `/dev/null` does not reach the agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Output going to a file the shell that called it did not already have does not reach the agent.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A file goes unjudged where the calling shell's own output cannot be read.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing stands in the record that did not reach the agent.",
     },
