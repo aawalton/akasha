@@ -24,7 +24,7 @@
         "**/*.ts"
       ]
     },
-    "pages/pages-core": {
+    "pages/core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

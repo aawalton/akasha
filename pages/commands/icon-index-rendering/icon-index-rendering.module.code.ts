@@ -1,7 +1,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 
-export const GENERATED_AT = "pages/pages-core/generated"
+export const GENERATED_AT = "pages/core/generated"
 
 export const AGGREGATE = "icon-search-index"
 
