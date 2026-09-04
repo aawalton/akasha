@@ -1,0 +1,20 @@
+diff --git a/required-reading/required-reading.domain.ts b/required-reading/required-reading.domain.ts
+index d8c3074a0f4e1437ec5e3a0c5264517813163b9f..ba7455fbc38b184a78ced4faa2531f64a5631c15 100644
+--- a/required-reading/required-reading.domain.ts
++++ b/required-reading/required-reading.domain.ts
+@@ -6,15 +6,6 @@ export const requiredReading = {
+   slug: "required-reading",
+   definition: "the reading an agent cannot skip",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Required reading is a declared reading and everything that reading names in turn.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A document may require a second document that requires the first back.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing outside akasha asks an agent what the agent has read.",

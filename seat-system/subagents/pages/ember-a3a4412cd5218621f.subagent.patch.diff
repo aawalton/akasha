@@ -1,0 +1,1798 @@
+diff --git a/temper/temper-watcher/watcher-dispatch/watcher-dispatch.module.ts b/temper/temper-watcher/watcher-dispatch/watcher-dispatch.module.ts
+index 194bee7f46614a360207368233e57578d23e2eae..b041a4920643dde013ff589139923572ba4576fd 100644
+--- a/temper/temper-watcher/watcher-dispatch/watcher-dispatch.module.ts
++++ b/temper/temper-watcher/watcher-dispatch/watcher-dispatch.module.ts
+@@ -22,7 +22,7 @@ export const watcherDispatch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The supabase reader is handed in by the caller.",
++      statement: "The signed-in reader is handed in by the caller.",
+     },
+     {
+       invariantKind: "departure",
+@@ -60,7 +60,7 @@ export const watcherDispatch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The account a run is reported under is read from the supabase reader.",
++      statement: "The account a run is reported under is read from the signed-in reader.",
+     },
+     {
+       invariantKind: "absence",
+@@ -72,7 +72,7 @@ export const watcherDispatch = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reaches for a shared supabase client.",
++      statement: "Nothing here reaches for a shared signed-in reader.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/temper/temper-watcher/watcher-main/watcher-main.module.code.ts b/temper/temper-watcher/watcher-main/watcher-main.module.code.ts
+index 420560ad495300c1ba467c646783ec4252d7ae16..3032063524365e9645e62a0994773a4253a82a70 100644
+--- a/temper/temper-watcher/watcher-main/watcher-main.module.code.ts
++++ b/temper/temper-watcher/watcher-main/watcher-main.module.code.ts
+@@ -1,10 +1,6 @@
+ import { existsSync, unwatchFile, watchFile } from "node:fs"
+ import { basename } from "node:path"
+-import {
+-  type Authenticated,
+-  type PersistedSession,
+-  serverUrlFromEnv,
+-} from "../watcher-auth/watcher-auth.module.code.ts"
++import { serverUrlFromEnv } from "../watcher-auth/watcher-auth.module.code.ts"
+ import {
+   buildConfig as buildConfigFromDisk,
+   sourcePathFor,
+@@ -24,6 +20,7 @@ import { writeFileAtomicWithRetry } from "../watcher-retry/watcher-retry.module.
+ import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
+ import { isSourceRuntime } from "../watcher-runtime/watcher-runtime.module.code.ts"
+ import { hashContent } from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
++import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+ import {
+   looksStructurallyComplete,
+   matchesSnapshot,
+@@ -43,33 +40,12 @@ export const HOURLY_UPDATE_CHECK_MS = 60 * 60_000
+ 
+ const WATCHED_NAME = /^Temper(.+)\.lua$/
+ 
+-export type Authenticate = () => Promise<Authenticated>
+-
+-export interface SessionUser {
+-  readonly id: string
+-  readonly email?: string | null
+-}
+-
+-export interface SessionAnswer {
+-  readonly data: { readonly user: SessionUser | null }
+-  readonly error: { readonly message: string } | null
+-}
+-
+-export type SetSessionAnswer = Pick<SessionAnswer, "error">
+-
+ export interface Logs {
+   readonly log: (message: string) => undefined
+   readonly logError: (message: string) => undefined
+ }
+ 
+-export interface WatcherSession {
+-  readonly auth: {
+-    readonly getUser: () => Promise<SessionAnswer>
+-    readonly setSession: (tokens: PersistedSession) => Promise<SetSessionAnswer>
+-  }
+-}
+-
+-export type OpenSession = () => Promise<WatcherSession>
++export type OpenSession = () => Promise<SignedInReader>
+ 
+ export type Dispatching = (ask: DispatchAsk) => Promise<DispatchAnswer>
+ 
+@@ -247,7 +223,6 @@ export async function syncInventoryAtStart(sync: InventorySync): Promise<undefin
+ 
+ export interface WatcherStartOptions extends Partial<Logs> {
+   readonly repoDir: string
+-  readonly authenticate: Authenticate
+   readonly openSession: OpenSession
+   readonly dispatch: Dispatching
+   readonly report: Reporting
+@@ -290,31 +265,14 @@ export async function startWatcher(options: WatcherStartOptions): Promise<Watche
+   if (!fromSource) updating.cleanupOldExe()
+ 
+   const session = await options.openSession()
+-  let answer = await session.auth.getUser()
+-  let serverUrl: string
+-  if (answer.error != null || answer.data.user == null) {
+-    log(`No valid session (${answer.error?.message ?? "no user"}). Starting authentication...`)
+-    const authenticated = await options.authenticate()
+-    serverUrl = authenticated.serverUrl
+-    const set = await session.auth.setSession({
+-      access_token: authenticated.session.access_token,
+-      refresh_token: authenticated.session.refresh_token,
+-    })
+-    if (set.error != null) {
+-      logError(`setSession failed: ${set.error.message}`)
+-      return { kind: "exit", code: 1, reason: "set-session-failed" }
+-    }
+-    answer = await session.auth.getUser()
+-    if (answer.error != null || answer.data.user == null) {
+-      logError(`Authentication failed: ${answer.error?.message ?? "no user"}`)
+-      return { kind: "exit", code: 1, reason: "authentication-failed" }
+-    }
+-    log("Authentication successful!")
+-  } else {
+-    serverUrl = (options.serverUrl ?? serverUrlFromEnv)()
+-    const user = answer.data.user
+-    log(`Session validated (${user.email ?? user.id})`)
++  const answer = await session.auth.getUser()
++  const user = answer.data.user
++  if (answer.error != null || user == null) {
++    logError(`No valid session (${answer.error?.message ?? "no user"}).`)
++    return { kind: "exit", code: 1, reason: "no-valid-session" }
+   }
++  const serverUrl = (options.serverUrl ?? serverUrlFromEnv)()
++  log(`Session validated (${user.id})`)
+ 
+   const wtToken = (options.resolveToken ?? resolveWatcherToken)()
+ 
+diff --git a/temper/temper-watcher/watcher-main/watcher-main.module.test-fixtures.ts b/temper/temper-watcher/watcher-main/watcher-main.module.test-fixtures.ts
+index eb66b069538cc58ebae638107b1f2cb7f0a85746..6816430c61446f31eb187dfbf9680391dff66a5a 100644
+--- a/temper/temper-watcher/watcher-main/watcher-main.module.test-fixtures.ts
++++ b/temper/temper-watcher/watcher-main/watcher-main.module.test-fixtures.ts
+@@ -4,12 +4,12 @@ import type {
+   DispatchHandlerArgs,
+ } from "../watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
+ import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
++import type { SignedInAnswer } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+ import { initialFileState } from "../watcher-state/watcher-state.module.code.ts"
+ import {
+   type Dispatching,
+   type InventorySync,
+   type OpenSession,
+-  type SessionAnswer,
+   startWatcher,
+   type UpdateAttempt,
+   type UpdateCheck,
+@@ -78,7 +78,7 @@ export function updating(check: UpdateCheck, over: Partial<Updating> = {}): Upda
+   }
+ }
+ 
+-export function answerOf(user: { id: string; email?: string | null } | null): SessionAnswer {
++export function answerOf(user: { id: string } | null): SignedInAnswer {
+   return { data: { user }, error: user === null ? { message: "no session" } : null }
+ }
+ 
+@@ -128,10 +128,7 @@ export function checksInTurn(
+   )
+ }
+ 
+-export function sessionOf(
+-  answers: readonly SessionAnswer[],
+-  setError: { message: string } | null = null
+-): OpenSession {
++export function sessionOf(answers: readonly SignedInAnswer[]): OpenSession {
+   let asked = 0
+   return () =>
+     Promise.resolve({
+@@ -142,7 +139,6 @@ export function sessionOf(
+           if (answer === undefined) throw new Error("no answer was prepared")
+           return Promise.resolve(answer)
+         },
+-        setSession: () => Promise.resolve({ error: setError }),
+       },
+     })
+ }
+@@ -200,16 +196,10 @@ export function options(said: Said, over: Partial<WatcherStartOptions> = {}): Wa
+   return {
+     repoDir: `${SCRATCH_AT}/watcher-main-repo`,
+     serverUrl: () => "https://server.test",
+-    authenticate: () =>
+-      Promise.resolve({
+-        serverUrl: "https://authed.test",
+-        session: { access_token: "a", refresh_token: "r" },
+-      }),
+     openSession: () =>
+       Promise.resolve({
+         auth: {
+-          getUser: () => Promise.resolve(answerOf({ id: "u1", email: "alan@example.test" })),
+-          setSession: () => Promise.resolve({ error: null }),
++          getUser: () => Promise.resolve(answerOf({ id: "u1" })),
+         },
+       }),
+     dispatch: dispatched(),
+diff --git a/temper/temper-watcher/watcher-main/watcher-main.module.test.ts b/temper/temper-watcher/watcher-main/watcher-main.module.test.ts
+index daa988a2b296ee7105acf17024dd9ac33dd2937a..d79bcd30668034546f03ee6f24479c952fbc8f4f 100644
+--- a/temper/temper-watcher/watcher-main/watcher-main.module.test.ts
++++ b/temper/temper-watcher/watcher-main/watcher-main.module.test.ts
+@@ -247,28 +247,20 @@ test("no file to watch asks to exit rather than exiting", async () => {
+   expect(said.error).toEqual(["No files found to watch. Asking to exit."])
+ })
+ 
+-test("a session that will not be set asks to exit rather than exiting", async () => {
+-  const { said, start } = await startWith({
+-    openSession: sessionOf([answerOf(null)], { message: "bad token" }),
+-  })
+-  expect(start).toEqual({ kind: "exit", code: 1, reason: "set-session-failed" })
+-  expect(said.error).toEqual(["setSession failed: bad token"])
+-})
+-
+-test("a session still carrying no user after authentication asks to exit", async () => {
++test("a session naming no account asks to exit rather than signing anyone in", async () => {
+   const { said, start } = await startWith({
+     openSession: sessionOf([answerOf(null)]),
+   })
+-  expect(start).toEqual({ kind: "exit", code: 1, reason: "authentication-failed" })
+-  expect(said.error).toEqual(["Authentication failed: no session"])
++  expect(start).toEqual({ kind: "exit", code: 1, reason: "no-valid-session" })
++  expect(said.error).toEqual(["No valid session (no session)."])
+ })
+ 
+-test("a session with no user starts authentication", async () => {
+-  const { said } = await startWith({
+-    openSession: sessionOf([answerOf(null), answerOf({ id: "u2" })]),
++test("a session refusing nothing and naming nobody asks to exit", async () => {
++  const { said, start } = await startWith({
++    openSession: sessionOf([{ data: { user: null }, error: null }]),
+   })
+-  expect(said.info[1]).toBe("No valid session (no session). Starting authentication...")
+-  expect(said.info[2]).toBe("Authentication successful!")
++  expect(start).toEqual({ kind: "exit", code: 1, reason: "no-valid-session" })
++  expect(said.error).toEqual(["No valid session (no user)."])
+ })
+ 
+ test("a config that will not build asks to exit rather than exiting", async () => {
+@@ -314,15 +306,8 @@ test("a checkout git cannot read reports itself as dev", async () => {
+   expect(said.info[0]).toBe("Temper SavedVariables Watcher vdev starting")
+ })
+ 
+-test("a valid session is reported by the email it carries", async () => {
++test("a valid session is reported by the account it names", async () => {
+   const { said } = await startWith()
+-  expect(said.info).toContain("Session validated (alan@example.test)")
+-})
+-
+-test("a valid session carrying no email is reported by its user id", async () => {
+-  const { said } = await startWith({
+-    openSession: sessionOf([answerOf({ id: "u1", email: null })]),
+-  })
+   expect(said.info).toContain("Session validated (u1)")
+ })
+ 
+diff --git a/temper/temper-watcher/watcher-main/watcher-main.module.ts b/temper/temper-watcher/watcher-main/watcher-main.module.ts
+index 103e45744bab948962657742bb767cd036d25525..94837a7ce57d2bbc8be0a22d47855223171feea5 100644
+--- a/temper/temper-watcher/watcher-main/watcher-main.module.ts
++++ b/temper/temper-watcher/watcher-main/watcher-main.module.ts
+@@ -107,6 +107,10 @@ export const watcherMain = {
+       invariantKind: "departure",
+       statement: "Stopping leaves the process running.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A session naming no account answers an exit rather than signing anyone in.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+@@ -138,7 +142,7 @@ export const watcherMain = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The worker module hands this one a supabase session.",
++      statement: "The worker module hands this one the session the account is read from.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-watcher/watcher-session-file/watcher-session-file.module.code.ts b/temper/temper-watcher/watcher-session-file/watcher-session-file.module.code.ts
+deleted file mode 100644
+index 8c82443b478bdb529faee0dba2272d119df56922..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-session-file/watcher-session-file.module.code.ts
++++ /dev/null
+@@ -1,130 +0,0 @@
+-import { existsSync, mkdirSync, readFileSync } from "node:fs"
+-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+-import { z } from "zod"
+-import { type PathOpts, watcherConfigDir } from "../watcher-paths/watcher-paths.module.code.ts"
+-
+-export const SESSION_STORAGE_KEY = "temper-watcher-session"
+-
+-export const CONFIG_FILE_NAME = "config.json"
+-
+-export const CONFIG_FILE_MODE = 0o600
+-
+-const CONFIG_SHAPE = z
+-  .object({
+-    [SESSION_STORAGE_KEY]: z.string().optional(),
+-    serverUrl: z.string().optional(),
+-  })
+-  .passthrough()
+-
+-export interface SessionConfig {
+-  "temper-watcher-session"?: string
+-  serverUrl: string
+-}
+-
+-export interface ConfigStore {
+-  readonly dir: () => string
+-  readonly exists: (path: string) => boolean
+-  readonly readText: (path: string) => string
+-  readonly makeDir: (path: string) => undefined
+-  readonly writeText: (path: string, body: string) => undefined
+-}
+-
+-export interface KeyedStore {
+-  readonly getItem: (key: string) => string | null
+-  readonly setItem: (key: string, value: string) => undefined
+-  readonly removeItem: (key: string) => undefined
+-}
+-
+-export function configPathIn(dir: string): string {
+-  return `${dir}/${CONFIG_FILE_NAME}`
+-}
+-
+-export function diskConfigStore(opts?: PathOpts): ConfigStore {
+-  return {
+-    dir: () => watcherConfigDir(opts),
+-    exists: (path) => existsSync(path),
+-    readText: (path) => readFileSync(path, "utf-8"),
+-    makeDir: (path) => {
+-      mkdirSync(path, { recursive: true })
+-      return
+-    },
+-    writeText: (path, body) => writeFileAtomicSync(path, body, { mode: CONFIG_FILE_MODE }),
+-  }
+-}
+-
+-export function getConfigPath(store: ConfigStore = diskConfigStore()): string {
+-  return configPathIn(store.dir())
+-}
+-
+-function heldAt(store: ConfigStore, path: string): Record<string, unknown> | null {
+-  if (!store.exists(path)) return null
+-  try {
+-    return CONFIG_SHAPE.parse(JSON.parse(store.readText(path)))
+-  } catch {
+-    return null
+-  }
+-}
+-
+-function writeAll(store: ConfigStore, body: Readonly<Record<string, unknown>>): undefined {
+-  const dir = store.dir()
+-  if (!store.exists(dir)) store.makeDir(dir)
+-  store.writeText(configPathIn(dir), JSON.stringify(body, null, 2))
+-  return
+-}
+-
+-function mergeInto(store: ConfigStore, updates: Readonly<Record<string, unknown>>): undefined {
+-  const held = heldAt(store, configPathIn(store.dir())) ?? {}
+-  return writeAll(store, { ...held, ...updates })
+-}
+-
+-export function loadConfig(
+-  fallbackServerUrl: string,
+-  store: ConfigStore = diskConfigStore()
+-): SessionConfig | null {
+-  const held = heldAt(store, configPathIn(store.dir()))
+-  if (held === null) return null
+-  const session = held[SESSION_STORAGE_KEY]
+-  const serverUrl = held.serverUrl
+-  return {
+-    [SESSION_STORAGE_KEY]: typeof session === "string" ? session : undefined,
+-    serverUrl: typeof serverUrl === "string" ? serverUrl : fallbackServerUrl,
+-  }
+-}
+-
+-export function saveConfig(
+-  updates: Partial<SessionConfig>,
+-  store: ConfigStore = diskConfigStore()
+-): undefined {
+-  return mergeInto(store, updates)
+-}
+-
+-export function readConfigKey(key: string, store: ConfigStore = diskConfigStore()): string | null {
+-  const held = heldAt(store, configPathIn(store.dir()))
+-  const value = held?.[key]
+-  return typeof value === "string" ? value : null
+-}
+-
+-export function writeConfigKey(
+-  key: string,
+-  value: string,
+-  store: ConfigStore = diskConfigStore()
+-): undefined {
+-  return mergeInto(store, { [key]: value })
+-}
+-
+-export function removeConfigKey(key: string, store: ConfigStore = diskConfigStore()): undefined {
+-  const held = heldAt(store, configPathIn(store.dir()))
+-  if (held === null) return
+-  if (!(key in held)) return
+-  const rest: Record<string, unknown> = { ...held }
+-  delete rest[key]
+-  return writeAll(store, rest)
+-}
+-
+-export function sessionFileStore(store: ConfigStore = diskConfigStore()): KeyedStore {
+-  return {
+-    getItem: (key) => readConfigKey(key, store),
+-    setItem: (key, value) => writeConfigKey(key, value, store),
+-    removeItem: (key) => removeConfigKey(key, store),
+-  }
+-}
+diff --git a/temper/temper-watcher/watcher-session-file/watcher-session-file.module.test.ts b/temper/temper-watcher/watcher-session-file/watcher-session-file.module.test.ts
+deleted file mode 100644
+index 46868a5cbfb51587a3ffb5817334540b6312bd2f..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-session-file/watcher-session-file.module.test.ts
++++ /dev/null
+@@ -1,238 +0,0 @@
+-import { describe, expect, test } from "bun:test"
+-import { existsSync, mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
+-import {
+-  CONFIG_FILE_MODE,
+-  type ConfigStore,
+-  configPathIn,
+-  diskConfigStore,
+-  getConfigPath,
+-  loadConfig,
+-  readConfigKey,
+-  removeConfigKey,
+-  SESSION_STORAGE_KEY,
+-  saveConfig,
+-  sessionFileStore,
+-  writeConfigKey,
+-} from "./watcher-session-file.module.code.ts"
+-
+-const SCRATCH_AT = "/var/tmp"
+-const SERVER = "https://tempereso.com"
+-
+-function fakeStore(seed?: string) {
+-  const dir = `${SCRATCH_AT}/watcher-session-file-nowhere`
+-  const files = new Map<string, string>()
+-  const made: string[] = []
+-  if (seed !== undefined) {
+-    files.set(configPathIn(dir), seed)
+-    made.push(dir)
+-  }
+-  const store: ConfigStore = {
+-    dir: () => dir,
+-    exists: (path) => files.has(path) || made.includes(path),
+-    readText: (path) => files.get(path) ?? "",
+-    makeDir: (path) => {
+-      made.push(path)
+-      return
+-    },
+-    writeText: (path, body) => {
+-      files.set(path, body)
+-      return
+-    },
+-  }
+-  return { dir, store, files, made, bytes: () => files.get(configPathIn(dir)) }
+-}
+-
+-describe("what the legacy module was observed to produce", () => {
+-  test("the session key is the one already written into config files", () => {
+-    expect(SESSION_STORAGE_KEY).toBe("temper-watcher-session")
+-  })
+-
+-  test("the config file sits directly under the config directory", () => {
+-    const { store, dir } = fakeStore()
+-    expect(getConfigPath(store)).toBe(`${dir}/config.json`)
+-  })
+-
+-  test("a config file that is not there reads as no config", () => {
+-    expect(loadConfig(SERVER, fakeStore().store)).toBeNull()
+-  })
+-
+-  test("a first save writes two spaces of indent and no trailing newline", () => {
+-    const f = fakeStore()
+-    saveConfig({ [SESSION_STORAGE_KEY]: "sess-1" }, f.store)
+-    expect(f.bytes()).toBe('{\n  "temper-watcher-session": "sess-1"\n}')
+-  })
+-
+-  test("a later save merges into what the file already held", () => {
+-    const f = fakeStore('{\n  "temper-watcher-session": "sess-1"\n}')
+-    saveConfig({ serverUrl: "https://other.test" }, f.store)
+-    expect(f.bytes()).toBe(
+-      '{\n  "temper-watcher-session": "sess-1",\n  "serverUrl": "https://other.test"\n}'
+-    )
+-  })
+-
+-  test("a read fills in the server address the file left out", () => {
+-    const f = fakeStore('{"temper-watcher-session":"sess-1"}')
+-    expect(loadConfig(SERVER, f.store)).toEqual({
+-      "temper-watcher-session": "sess-1",
+-      serverUrl: SERVER,
+-    })
+-  })
+-
+-  test("a read always carries the session key even where the file holds none", () => {
+-    const f = fakeStore('{"extra":1}')
+-    expect(Object.keys(loadConfig(SERVER, f.store) ?? {})).toEqual([
+-      "temper-watcher-session",
+-      "serverUrl",
+-    ])
+-  })
+-
+-  test("a key the watcher does not know is left out of a read", () => {
+-    const f = fakeStore('{"extra":1,"nested":{"a":2}}')
+-    expect(loadConfig(SERVER, f.store)).toEqual({
+-      "temper-watcher-session": undefined,
+-      serverUrl: SERVER,
+-    })
+-  })
+-
+-  test("a key the watcher does not know is kept on a write", () => {
+-    const f = fakeStore('{"extra":1,"nested":{"a":2}}')
+-    saveConfig({ serverUrl: "https://z.test" }, f.store)
+-    expect(f.bytes()).toBe(
+-      '{\n  "extra": 1,\n  "nested": {\n    "a": 2\n  },\n  "serverUrl": "https://z.test"\n}'
+-    )
+-  })
+-
+-  test.each([
+-    ["text that is no json", "not json at all"],
+-    ["an empty file", ""],
+-    ["a json array", "[]"],
+-    ["a server address that is no string", '{"serverUrl":5}'],
+-  ])("%s reads as no config", (_name, body) => {
+-    expect(loadConfig(SERVER, fakeStore(body).store)).toBeNull()
+-  })
+-
+-  test("a save over a file that will not parse drops what would not parse", () => {
+-    const f = fakeStore("not json at all")
+-    saveConfig({ [SESSION_STORAGE_KEY]: "sess-2" }, f.store)
+-    expect(f.bytes()).toBe('{\n  "temper-watcher-session": "sess-2"\n}')
+-  })
+-})
+-
+-describe("what this recreation was written to mean", () => {
+-  test("the directory is made only where the directory is not there", () => {
+-    const bare = fakeStore()
+-    saveConfig({ serverUrl: SERVER }, bare.store)
+-    expect(bare.made).toEqual([bare.dir])
+-
+-    const seeded = fakeStore("{}")
+-    saveConfig({ serverUrl: SERVER }, seeded.store)
+-    expect(seeded.made).toEqual([seeded.dir])
+-  })
+-
+-  test("no read or write here reaches a path the caller did not name", () => {
+-    const f = fakeStore()
+-    saveConfig({ [SESSION_STORAGE_KEY]: "s" }, f.store)
+-    expect([...f.files.keys()]).toEqual([configPathIn(f.dir)])
+-  })
+-
+-  test("a key held as a string is answered", () => {
+-    const f = fakeStore('{"temper-watcher-session":"sess-1"}')
+-    expect(readConfigKey(SESSION_STORAGE_KEY, f.store)).toBe("sess-1")
+-  })
+-
+-  test("a key the file does not hold is answered as nothing", () => {
+-    expect(readConfigKey(SESSION_STORAGE_KEY, fakeStore("{}").store)).toBeNull()
+-    expect(readConfigKey(SESSION_STORAGE_KEY, fakeStore().store)).toBeNull()
+-  })
+-
+-  test("a key held as something other than a string is answered as nothing", () => {
+-    const f = fakeStore('{"extra":7}')
+-    expect(readConfigKey("extra", f.store)).toBeNull()
+-  })
+-
+-  test("a key written by itself lands beside the keys already held", () => {
+-    const f = fakeStore('{"serverUrl":"https://z.test"}')
+-    writeConfigKey(SESSION_STORAGE_KEY, "sess-9", f.store)
+-    expect(f.bytes()).toBe(
+-      '{\n  "serverUrl": "https://z.test",\n  "temper-watcher-session": "sess-9"\n}'
+-    )
+-  })
+-
+-  test("a key taken away leaves every other key where it was", () => {
+-    const f = fakeStore('{"temper-watcher-session":"sess-1","serverUrl":"https://z.test"}')
+-    removeConfigKey(SESSION_STORAGE_KEY, f.store)
+-    expect(f.bytes()).toBe('{\n  "serverUrl": "https://z.test"\n}')
+-  })
+-
+-  test("taking away a key the file does not hold writes nothing", () => {
+-    const f = fakeStore('{"serverUrl":"https://z.test"}')
+-    removeConfigKey(SESSION_STORAGE_KEY, f.store)
+-    expect(f.bytes()).toBe('{"serverUrl":"https://z.test"}')
+-  })
+-
+-  test("taking a key from a config file that is not there makes no file", () => {
+-    const f = fakeStore()
+-    removeConfigKey(SESSION_STORAGE_KEY, f.store)
+-    expect([...f.files.keys()]).toEqual([])
+-    expect(f.made).toEqual([])
+-  })
+-
+-  test("the keyed store gets and sets and removes through the same file", () => {
+-    const f = fakeStore()
+-    const keyed = sessionFileStore(f.store)
+-    expect(keyed.getItem(SESSION_STORAGE_KEY)).toBeNull()
+-    keyed.setItem(SESSION_STORAGE_KEY, '{"access_token":"a"}')
+-    expect(keyed.getItem(SESSION_STORAGE_KEY)).toBe('{"access_token":"a"}')
+-    keyed.removeItem(SESSION_STORAGE_KEY)
+-    expect(keyed.getItem(SESSION_STORAGE_KEY)).toBeNull()
+-    expect(f.bytes()).toBe("{}")
+-  })
+-})
+-
+-describe("the store the watcher uses when the caller hands in none", () => {
+-  test("a config file lands readable by its owner alone", () => {
+-    const dir = mkdtempSync(`${SCRATCH_AT}/watcher-session-file-`)
+-    try {
+-      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
+-      expect(getConfigPath(store)).toBe(`${dir}/config.json`)
+-      expect(loadConfig(SERVER, store)).toBeNull()
+-
+-      saveConfig({ [SESSION_STORAGE_KEY]: "sess-1" }, store)
+-      const path = getConfigPath(store)
+-      expect(readFileSync(path, "utf-8")).toBe('{\n  "temper-watcher-session": "sess-1"\n}')
+-      expect(statSync(path).mode & 0o777).toBe(CONFIG_FILE_MODE)
+-      expect(loadConfig(SERVER, store)).toEqual({
+-        "temper-watcher-session": "sess-1",
+-        serverUrl: SERVER,
+-      })
+-    } finally {
+-      rmSync(dir, { recursive: true, force: true })
+-    }
+-  })
+-
+-  test("a config directory that is not there yet is made on the first save", () => {
+-    const parent = mkdtempSync(`${SCRATCH_AT}/watcher-session-file-`)
+-    const dir = `${parent}/deeper/still`
+-    try {
+-      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
+-      expect(existsSync(dir)).toBe(false)
+-      saveConfig({ serverUrl: SERVER }, store)
+-      expect(readFileSync(getConfigPath(store), "utf-8")).toBe(
+-        '{\n  "serverUrl": "https://tempereso.com"\n}'
+-      )
+-    } finally {
+-      rmSync(parent, { recursive: true, force: true })
+-    }
+-  })
+-
+-  test("a config file left half written by hand reads as no config", () => {
+-    const dir = mkdtempSync(`${SCRATCH_AT}/watcher-session-file-`)
+-    try {
+-      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
+-      writeFileSync(configPathIn(dir), '{"temper-watcher-session":')
+-      expect(loadConfig(SERVER, store)).toBeNull()
+-    } finally {
+-      rmSync(dir, { recursive: true, force: true })
+-    }
+-  })
+-})
+diff --git a/temper/temper-watcher/watcher-session-file/watcher-session-file.module.ts b/temper/temper-watcher/watcher-session-file/watcher-session-file.module.ts
+deleted file mode 100644
+index 287a622439e8d85a25e15d20b2ec40d9ec720a4a..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-session-file/watcher-session-file.module.ts
++++ /dev/null
+@@ -1,101 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const watcherSessionFile = {
+-  id: "01a063d7-9fc3-7c30-8d80-51b599238c83",
+-  pageTypeSlug: "module",
+-  slug: "watcher-session-file",
+-  definition: "the json file holding what the watcher must remember between runs",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Reading and writing the config file goes through a store the caller may hand in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The directory the config file sits in comes from the watcher paths module.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The directory the config file sits in is named rather than read off the file path.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The directory is made only where the directory is not there already.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The config file is readable by its owner alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The config file lands whole or not at all.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The config file is written with two spaces of indent.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The config file ends without a newline.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A config file that will not parse reads as no config.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A config file that is not there reads as no config.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key of the config file the watcher does not know is kept on a write.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key of the config file the watcher does not know is left out of a read.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A read carries the session key even where the config file holds no session.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A read fills in the server address the config file left out.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The server address filled in is handed in by the caller.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One key is read and written and taken away without the whole config being typed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key held as anything other than a string reads as no value.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Taking away a key the config file does not hold writes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Taking a key from a config file that is not there makes no config file.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the environment.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here decides which directory the watcher keeps its files in.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads what a stored session means.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.code.ts b/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.code.ts
+deleted file mode 100644
+index c77ba81e4349dbe4d6313a5722a7ab2f1d9e6c4e..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.code.ts
++++ /dev/null
+@@ -1,192 +0,0 @@
+-import type { SupabaseUserClient } from "@akasha/supabase-client/user-client"
+-import { z } from "zod"
+-import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
+-import {
+-  SUPABASE_ANON_KEY,
+-  SUPABASE_URL,
+-} from "../watcher-supabase-url/watcher-supabase-url.module.code.ts"
+-
+-const SESSION_SHAPE_SCHEMA = z.object({
+-  access_token: z.string(),
+-  refresh_token: z.string(),
+-  expires_at: z.number(),
+-})
+-
+-export function isValidSessionBlob(raw: string | null | undefined): boolean {
+-  if (raw == null || raw === "") return false
+-  try {
+-    return SESSION_SHAPE_SCHEMA.safeParse(JSON.parse(raw)).success
+-  } catch {
+-    return false
+-  }
+-}
+-
+-export type WatcherSupabaseClient = SupabaseUserClient
+-
+-export interface SessionStore {
+-  readonly getItem: (key: string) => string | null
+-  readonly setItem: (key: string, value: string) => undefined
+-  readonly removeItem: (key: string) => undefined
+-}
+-
+-export function sessionStoreFor(store: SessionStore, storageKey: string): SessionStore {
+-  return {
+-    getItem(key: string): string | null {
+-      if (key !== storageKey) return null
+-      const raw = store.getItem(storageKey)
+-      return isValidSessionBlob(raw) ? raw : null
+-    },
+-    setItem(key: string, value: string): undefined {
+-      if (key !== storageKey) return undefined
+-      return store.setItem(storageKey, value)
+-    },
+-    removeItem(key: string): undefined {
+-      if (key !== storageKey) return undefined
+-      return store.removeItem(storageKey)
+-    },
+-  }
+-}
+-
+-export interface SessionTokens {
+-  readonly access_token: string
+-  readonly refresh_token: string
+-}
+-
+-export interface SessionSetter {
+-  readonly setSession: (tokens: SessionTokens) => Promise<{ error: { message: string } | null }>
+-}
+-
+-export interface AuthEvents {
+-  readonly onAuthStateChange: (listener: (event: string) => undefined) => unknown
+-}
+-
+-export interface SessionClient {
+-  readonly auth: SessionSetter & AuthEvents
+-}
+-
+-export type RenewalOutcome =
+-  | { readonly kind: "ignored" }
+-  | { readonly kind: "renewed" }
+-  | { readonly kind: "failed"; readonly reason: string }
+-
+-export interface RenewalDeps {
+-  readonly authenticate: () => Promise<{ session: SessionTokens }>
+-  readonly setter: SessionSetter
+-  readonly onOutcome?: (outcome: RenewalOutcome) => undefined
+-  readonly log?: (message: string) => undefined
+-  readonly logError?: (message: string) => undefined
+-}
+-
+-export async function renewSession(deps: RenewalDeps): Promise<RenewalOutcome> {
+-  const say = deps.log ?? log
+-  const complain = deps.logError ?? logError
+-  try {
+-    const { session } = await deps.authenticate()
+-    const { error } = await deps.setter.setSession({
+-      access_token: session.access_token,
+-      refresh_token: session.refresh_token,
+-    })
+-    if (error) {
+-      complain(`Re-authentication failed: ${error.message}`)
+-      return { kind: "failed", reason: error.message }
+-    }
+-    say("Re-authentication successful.")
+-    return { kind: "renewed" }
+-  } catch (err) {
+-    const reason = err instanceof Error ? err.message : String(err)
+-    complain(`Re-authentication failed: ${reason}`)
+-    return { kind: "failed", reason }
+-  }
+-}
+-
+-export function signedOutListener(deps: RenewalDeps): (event: string) => Promise<RenewalOutcome> {
+-  let renewing = false
+-  return async (event: string): Promise<RenewalOutcome> => {
+-    if (event !== "SIGNED_OUT" || renewing) return { kind: "ignored" }
+-    renewing = true
+-    const complain = deps.logError ?? logError
+-    complain("Session ended (SIGNED_OUT). Re-running auth flow...")
+-    try {
+-      const outcome = await renewSession(deps)
+-      deps.onOutcome?.(outcome)
+-      return outcome
+-    } finally {
+-      renewing = false
+-    }
+-  }
+-}
+-
+-export interface SupabaseClientHolder<Client extends SessionClient = WatcherSupabaseClient> {
+-  client: Client | null
+-}
+-
+-export function newSupabaseClientHolder<
+-  Client extends SessionClient = WatcherSupabaseClient,
+->(): SupabaseClientHolder<Client> {
+-  return { client: null }
+-}
+-
+-export interface ClientOptions {
+-  readonly storage: SessionStore
+-  readonly storageKey: string
+-}
+-
+-export interface SupabaseClientDeps<Client extends SessionClient = WatcherSupabaseClient> {
+-  readonly makeClient: (url: string, anonKey: string, options: ClientOptions) => Client
+-  readonly store: SessionStore
+-  readonly storageKey: string
+-  readonly authenticate: () => Promise<{ session: SessionTokens }>
+-  readonly onOutcome?: (outcome: RenewalOutcome) => undefined
+-  readonly url?: string
+-  readonly anonKey?: string
+-  readonly log?: (message: string) => undefined
+-  readonly logError?: (message: string) => undefined
+-}
+-
+-function startSupabaseClient<Client extends SessionClient>(
+-  holder: SupabaseClientHolder<Client>,
+-  deps: SupabaseClientDeps<Client>
+-): Client {
+-  const anonKey = deps.anonKey ?? SUPABASE_ANON_KEY
+-  if (anonKey === "") {
+-    throw new Error(
+-      "Supabase anon key is not set. The watcher build must bake in __SUPABASE_ANON_KEY__."
+-    )
+-  }
+-  const instance = deps.makeClient(deps.url ?? SUPABASE_URL, anonKey, {
+-    storage: sessionStoreFor(deps.store, deps.storageKey),
+-    storageKey: deps.storageKey,
+-  })
+-  const listener = signedOutListener({
+-    authenticate: deps.authenticate,
+-    setter: instance.auth,
+-    onOutcome: deps.onOutcome,
+-    log: deps.log,
+-    logError: deps.logError,
+-  })
+-  instance.auth.onAuthStateChange((event: string): undefined => {
+-    void listener(event)
+-    return undefined
+-  })
+-  holder.client = instance
+-  return instance
+-}
+-
+-export async function initSupabaseClient<Client extends SessionClient>(
+-  holder: SupabaseClientHolder<Client>,
+-  deps: SupabaseClientDeps<Client>
+-): Promise<Client> {
+-  const ready = holder.client
+-  if (ready !== null) return ready
+-  return startSupabaseClient(holder, deps)
+-}
+-
+-export function getSupabaseClient<Client extends SessionClient>(
+-  holder: SupabaseClientHolder<Client>
+-): Client {
+-  const ready = holder.client
+-  if (ready === null) {
+-    throw new Error("getSupabaseClient: client not initialized. Call initSupabaseClient() first.")
+-  }
+-  return ready
+-}
+diff --git a/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.test.ts b/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.test.ts
+deleted file mode 100644
+index 2c185f671d10e69a8ee892496c49d160df16760d..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.test.ts
++++ /dev/null
+@@ -1,397 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  getSupabaseClient,
+-  initSupabaseClient,
+-  isValidSessionBlob,
+-  newSupabaseClientHolder,
+-  type RenewalOutcome,
+-  renewSession,
+-  type SessionStore,
+-  type SessionTokens,
+-  sessionStoreFor,
+-  signedOutListener,
+-} from "./watcher-supabase-session.module.code.ts"
+-
+-const TOKENS: SessionTokens = { access_token: "a", refresh_token: "r" }
+-const BLOB = '{"access_token":"a","refresh_token":"r","expires_at":1}'
+-const KEY = "temper-watcher-session"
+-
+-function memoryStore(): SessionStore & { readonly held: Map<string, string> } {
+-  const held = new Map<string, string>()
+-  return {
+-    held,
+-    getItem: (key) => held.get(key) ?? null,
+-    setItem: (key, value) => {
+-      held.set(key, value)
+-      return undefined
+-    },
+-    removeItem: (key) => {
+-      held.delete(key)
+-      return undefined
+-    },
+-  }
+-}
+-
+-function fakeClient() {
+-  const listeners: Array<(event: string) => undefined> = []
+-  const setCalls: SessionTokens[] = []
+-  return {
+-    listeners,
+-    setCalls,
+-    auth: {
+-      setSession: (tokens: SessionTokens): Promise<{ error: { message: string } | null }> => {
+-        setCalls.push(tokens)
+-        return Promise.resolve({ error: null })
+-      },
+-      onAuthStateChange: (listener: (event: string) => undefined): undefined => {
+-        listeners.push(listener)
+-        return undefined
+-      },
+-    },
+-  }
+-}
+-
+-test("a full supabase-js session blob is a session", () => {
+-  const raw = JSON.stringify({
+-    access_token: "a",
+-    refresh_token: "r",
+-    expires_at: 1234567890,
+-    expires_in: 3600,
+-    token_type: "bearer",
+-    user: { id: "u" },
+-  })
+-  expect(isValidSessionBlob(raw)).toBe(true)
+-})
+-
+-test("the three required keys alone are a session", () => {
+-  expect(isValidSessionBlob(BLOB)).toBe(true)
+-})
+-
+-test("a blob missing a required key is no session", () => {
+-  expect(isValidSessionBlob('{"access_token":"a","refresh_token":"r"}')).toBe(false)
+-  expect(isValidSessionBlob('{"refresh_token":"r","expires_at":1}')).toBe(false)
+-  expect(isValidSessionBlob('{"access_token":"a","expires_at":1}')).toBe(false)
+-  expect(isValidSessionBlob("{}")).toBe(false)
+-})
+-
+-test("nothing at all is no session", () => {
+-  expect(isValidSessionBlob(null)).toBe(false)
+-  expect(isValidSessionBlob(undefined)).toBe(false)
+-})
+-
+-test("empty text is no session", () => {
+-  expect(isValidSessionBlob("")).toBe(false)
+-  expect(isValidSessionBlob("   ")).toBe(false)
+-})
+-
+-test("text that is no JSON is no session", () => {
+-  expect(isValidSessionBlob("{not json")).toBe(false)
+-  expect(isValidSessionBlob('{"access_token":"a"')).toBe(false)
+-})
+-
+-test("a JSON value that is no object is no session", () => {
+-  expect(isValidSessionBlob("null")).toBe(false)
+-  expect(isValidSessionBlob("42")).toBe(false)
+-  expect(isValidSessionBlob('"a string"')).toBe(false)
+-  expect(isValidSessionBlob("[1,2,3]")).toBe(false)
+-})
+-
+-test("a required key of the wrong sort is no session", () => {
+-  expect(isValidSessionBlob('{"access_token":"a","refresh_token":"r","expires_at":"1"}')).toBe(
+-    false
+-  )
+-  expect(isValidSessionBlob('{"access_token":1,"refresh_token":"r","expires_at":1}')).toBe(false)
+-  expect(isValidSessionBlob('{"access_token":null,"refresh_token":"r","expires_at":1}')).toBe(false)
+-  expect(isValidSessionBlob('{"access_token":"a","refresh_token":1,"expires_at":1}')).toBe(false)
+-  expect(isValidSessionBlob('{"access_token":"a","refresh_token":null,"expires_at":1}')).toBe(false)
+-})
+-
+-test("an empty token, a zero expiry and a fractional expiry are all still a session", () => {
+-  expect(isValidSessionBlob('{"access_token":"","refresh_token":"","expires_at":0}')).toBe(true)
+-  expect(isValidSessionBlob('{"access_token":"a","refresh_token":"r","expires_at":-5}')).toBe(true)
+-  expect(isValidSessionBlob('{"access_token":"a","refresh_token":"r","expires_at":1.5}')).toBe(true)
+-})
+-
+-test("whitespace around a session blob leaves the blob a session", () => {
+-  expect(isValidSessionBlob(` ${BLOB} `)).toBe(true)
+-})
+-
+-test("the store answers the key it was handed and no other", () => {
+-  const inner = memoryStore()
+-  inner.held.set("k", BLOB)
+-  const guarded = sessionStoreFor(inner, "k")
+-  expect(guarded.getItem("k")).toBe(BLOB)
+-  expect(guarded.getItem("other")).toBe(null)
+-})
+-
+-test("the store answers nothing where the blob's shape does not fit", () => {
+-  const inner = memoryStore()
+-  inner.held.set("k", '{"access_token":"a"}')
+-  expect(sessionStoreFor(inner, "k").getItem("k")).toBe(null)
+-})
+-
+-test("the store answers nothing where the key holds nothing", () => {
+-  expect(sessionStoreFor(memoryStore(), "k").getItem("k")).toBe(null)
+-})
+-
+-test("a write under the key handed in reaches the store under that key", () => {
+-  const inner = memoryStore()
+-  const guarded = sessionStoreFor(inner, "k")
+-  guarded.setItem("k", BLOB)
+-  expect(inner.held.get("k")).toBe(BLOB)
+-  expect(guarded.getItem("k")).toBe(BLOB)
+-})
+-
+-test("a write under another key reaches the store not at all", () => {
+-  const inner = memoryStore()
+-  sessionStoreFor(inner, "k").setItem("other", BLOB)
+-  expect(inner.held.size).toBe(0)
+-})
+-
+-test("a removal under the key handed in empties the store", () => {
+-  const inner = memoryStore()
+-  inner.held.set("k", BLOB)
+-  sessionStoreFor(inner, "k").removeItem("k")
+-  expect(inner.held.has("k")).toBe(false)
+-})
+-
+-test("a removal under another key leaves the store alone", () => {
+-  const inner = memoryStore()
+-  inner.held.set("k", BLOB)
+-  sessionStoreFor(inner, "k").removeItem("other")
+-  expect(inner.held.get("k")).toBe(BLOB)
+-})
+-
+-test("a renewal that lands sets the session and says so", async () => {
+-  const said: string[] = []
+-  const client = fakeClient()
+-  const outcome = await renewSession({
+-    authenticate: () => Promise.resolve({ session: TOKENS }),
+-    setter: client.auth,
+-    log: (m) => {
+-      said.push(m)
+-      return undefined
+-    },
+-    logError: (m) => {
+-      said.push(m)
+-      return undefined
+-    },
+-  })
+-  expect(outcome).toEqual({ kind: "renewed" })
+-  expect(client.setCalls).toEqual([TOKENS])
+-  expect(said).toEqual(["Re-authentication successful."])
+-})
+-
+-test("a renewal the setter refuses is reported as failed", async () => {
+-  const said: string[] = []
+-  const outcome = await renewSession({
+-    authenticate: () => Promise.resolve({ session: TOKENS }),
+-    setter: { setSession: () => Promise.resolve({ error: { message: "bad token" } }) },
+-    logError: (m) => {
+-      said.push(m)
+-      return undefined
+-    },
+-  })
+-  expect(outcome).toEqual({ kind: "failed", reason: "bad token" })
+-  expect(said).toEqual(["Re-authentication failed: bad token"])
+-})
+-
+-test("a renewal that throws is reported as failed", async () => {
+-  const said: string[] = []
+-  const outcome = await renewSession({
+-    authenticate: () => Promise.reject(new Error("no browser")),
+-    setter: fakeClient().auth,
+-    logError: (m) => {
+-      said.push(m)
+-      return undefined
+-    },
+-  })
+-  expect(outcome).toEqual({ kind: "failed", reason: "no browser" })
+-  expect(said).toEqual(["Re-authentication failed: no browser"])
+-})
+-
+-test("a renewal thrown as something other than an error still reads as failed", async () => {
+-  const outcome = await renewSession({
+-    authenticate: () => Promise.reject("plain text"),
+-    setter: fakeClient().auth,
+-    logError: () => undefined,
+-  })
+-  expect(outcome).toEqual({ kind: "failed", reason: "plain text" })
+-})
+-
+-test("an event other than a sign-out is left alone", async () => {
+-  const client = fakeClient()
+-  const listener = signedOutListener({
+-    authenticate: () => Promise.resolve({ session: TOKENS }),
+-    setter: client.auth,
+-    logError: () => undefined,
+-  })
+-  expect(await listener("TOKEN_REFRESHED")).toEqual({ kind: "ignored" })
+-  expect(client.setCalls).toEqual([])
+-})
+-
+-test("a sign-out says the session ended before renewing", async () => {
+-  const said: string[] = []
+-  const listener = signedOutListener({
+-    authenticate: () => Promise.resolve({ session: TOKENS }),
+-    setter: fakeClient().auth,
+-    log: () => undefined,
+-    logError: (m) => {
+-      said.push(m)
+-      return undefined
+-    },
+-  })
+-  await listener("SIGNED_OUT")
+-  expect(said).toEqual(["Session ended (SIGNED_OUT). Re-running auth flow..."])
+-})
+-
+-test("a second sign-out arriving mid-renewal is left alone", async () => {
+-  let starts = 0
+-  const listener = signedOutListener({
+-    authenticate: () => {
+-      starts += 1
+-      return Promise.resolve({ session: TOKENS })
+-    },
+-    setter: fakeClient().auth,
+-    log: () => undefined,
+-    logError: () => undefined,
+-  })
+-  const first = listener("SIGNED_OUT")
+-  expect(await listener("SIGNED_OUT")).toEqual({ kind: "ignored" })
+-  expect(await first).toEqual({ kind: "renewed" })
+-  await listener("SIGNED_OUT")
+-  expect(starts).toBe(2)
+-})
+-
+-test("a failed renewal reaches the caller rather than ending the process", async () => {
+-  const seen: RenewalOutcome[] = []
+-  const listener = signedOutListener({
+-    authenticate: () => Promise.reject(new Error("no browser")),
+-    setter: fakeClient().auth,
+-    onOutcome: (outcome) => {
+-      seen.push(outcome)
+-      return undefined
+-    },
+-    logError: () => undefined,
+-  })
+-  await listener("SIGNED_OUT")
+-  expect(seen).toEqual([{ kind: "failed", reason: "no browser" }])
+-})
+-
+-type Fake = ReturnType<typeof fakeClient>
+-
+-function deps(client: Fake) {
+-  return {
+-    makeClient: () => client,
+-    store: memoryStore(),
+-    storageKey: KEY,
+-    authenticate: () => Promise.resolve({ session: TOKENS }),
+-    anonKey: "anon",
+-    url: "https://example.invalid",
+-    log: () => undefined,
+-    logError: () => undefined,
+-  }
+-}
+-
+-test("a holder starts out holding nothing, and answering it throws", () => {
+-  const holder = newSupabaseClientHolder<Fake>()
+-  expect(holder.client).toBe(null)
+-  expect(() => getSupabaseClient(holder)).toThrow(
+-    "getSupabaseClient: client not initialized. Call initSupabaseClient() first."
+-  )
+-})
+-
+-test("a started holder hands the client back", async () => {
+-  const client = fakeClient()
+-  const holder = newSupabaseClientHolder<Fake>()
+-  expect(await initSupabaseClient(holder, deps(client))).toBe(client)
+-  expect(getSupabaseClient(holder)).toBe(client)
+-})
+-
+-test("a second start hands back the client the first start made", async () => {
+-  const client = fakeClient()
+-  const holder = newSupabaseClientHolder<Fake>()
+-  const one = deps(client)
+-  await initSupabaseClient(holder, one)
+-  expect(await initSupabaseClient(holder, one)).toBe(client)
+-  const [a, b] = await Promise.all([
+-    initSupabaseClient(holder, one),
+-    initSupabaseClient(holder, one),
+-  ])
+-  expect(a).toBe(client)
+-  expect(b).toBe(client)
+-  expect(client.listeners.length).toBe(1)
+-})
+-
+-test("an empty anonymous key is refused as none baked in", async () => {
+-  const holder = newSupabaseClientHolder<Fake>()
+-  await expect(initSupabaseClient(holder, { ...deps(fakeClient()), anonKey: "" })).rejects.toThrow(
+-    "Supabase anon key is not set. The watcher build must bake in __SUPABASE_ANON_KEY__."
+-  )
+-})
+-
+-test("a start that threw leaves the holder ready to start afresh", async () => {
+-  const client = fakeClient()
+-  const holder = newSupabaseClientHolder<Fake>()
+-  await initSupabaseClient(holder, { ...deps(client), anonKey: "" }).catch(() => undefined)
+-  expect(holder.client).toBe(null)
+-  expect(await initSupabaseClient(holder, deps(client))).toBe(client)
+-})
+-
+-test("the started client is handed the address, the key and the storage key", async () => {
+-  const client = fakeClient()
+-  const holder = newSupabaseClientHolder<Fake>()
+-  const seen: Array<{ url: string; key: string; storageKey: string }> = []
+-  await initSupabaseClient(holder, {
+-    ...deps(client),
+-    makeClient: (url, anonKey, options) => {
+-      seen.push({ url, key: anonKey, storageKey: options.storageKey })
+-      return client
+-    },
+-  })
+-  expect(seen).toEqual([{ url: "https://example.invalid", key: "anon", storageKey: KEY }])
+-})
+-
+-test("the storage the client is handed guards the caller's key", async () => {
+-  const client = fakeClient()
+-  const holder = newSupabaseClientHolder<Fake>()
+-  const inner = memoryStore()
+-  inner.held.set(KEY, BLOB)
+-  const handed: SessionStore[] = []
+-  await initSupabaseClient(holder, {
+-    ...deps(client),
+-    store: inner,
+-    makeClient: (_url, _anonKey, options) => {
+-      handed.push(options.storage)
+-      return client
+-    },
+-  })
+-  const storage = handed[0]
+-  expect(storage).toBeDefined()
+-  expect(storage?.getItem(KEY)).toBe(BLOB)
+-  expect(storage?.getItem("something-else")).toBe(null)
+-})
+-
+-test("a sign-out on the started client renews the session", async () => {
+-  const client = fakeClient()
+-  const holder = newSupabaseClientHolder<Fake>()
+-  const seen: RenewalOutcome[] = []
+-  let settle: () => void = () => undefined
+-  const settled = new Promise<void>((resolve) => {
+-    settle = resolve
+-  })
+-  await initSupabaseClient(holder, {
+-    ...deps(client),
+-    onOutcome: (outcome) => {
+-      seen.push(outcome)
+-      settle()
+-      return undefined
+-    },
+-  })
+-  const listener = client.listeners[0]
+-  expect(listener).toBeDefined()
+-  listener?.("SIGNED_OUT")
+-  await settled
+-  expect(seen).toEqual([{ kind: "renewed" }])
+-  expect(client.setCalls).toEqual([TOKENS])
+-})
+diff --git a/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.ts b/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.ts
+deleted file mode 100644
+index 343a6949792f587dc4c1380df6018844c9409935..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-supabase-session/watcher-supabase-session.module.ts
++++ /dev/null
+@@ -1,110 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const watcherSupabaseSession = {
+-  id: "01a063c7-b050-740f-b53f-4554b3cfc269",
+-  pageTypeSlug: "module",
+-  slug: "watcher-supabase-session",
+-  definition:
+-    "the Supabase client the watcher worker holds and the stored session the client signs in with",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A caller holds the Supabase client in a value the caller made.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No Supabase client is held at module level.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A second start hands back the client the first start made.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A start that threw leaves the holder empty.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Asking a holder that holds no client throws.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Nothing in making the Supabase client waits on anything.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A failed re-authentication is handed to the caller rather than ending the run.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here ends the process.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The store the session is kept in is handed in rather than opened here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The key the session is kept under is handed in rather than named here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key other than the one handed in is answered as nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key other than the one handed in is left unwritten.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A stored blob whose shape does not fit is answered as no session.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session blob carries an access token.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session blob carries a refresh token.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session blob carries an expiry written as a number.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session blob carrying keys beyond the three required is still a session.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One sign-out at a time is re-authenticated.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An event other than a sign-out is left alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Signing in afresh is handed in as a function rather than imported.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The maker of the Supabase client is handed in as a function rather than imported.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An empty anonymous key is refused as no key baked into the build.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No key is written here.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No test here makes a real Supabase client.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.code.ts b/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.code.ts
+deleted file mode 100644
+index 08b9b4faceecf6a4fffe8dad0432d7c4bf9e68a8..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.code.ts
++++ /dev/null
+@@ -1,14 +0,0 @@
+-import { z } from "zod"
+-
+-declare const __SUPABASE_URL__: string
+-declare const __SUPABASE_ANON_KEY__: string
+-
+-export const SUPABASE_URL =
+-  typeof __SUPABASE_URL__ !== "undefined" && __SUPABASE_URL__ !== ""
+-    ? __SUPABASE_URL__
+-    : z.string().default("https://supabase.alanwalton.com").parse(process.env.SUPABASE_URL)
+-
+-export const SUPABASE_ANON_KEY =
+-  typeof __SUPABASE_ANON_KEY__ !== "undefined" && __SUPABASE_ANON_KEY__ !== ""
+-    ? __SUPABASE_ANON_KEY__
+-    : z.string().default("").parse(process.env.SUPABASE_ANON_KEY)
+diff --git a/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.test.ts b/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.test.ts
+deleted file mode 100644
+index 217cc1438e18e5da86d89c68b4f495750e438121..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.test.ts
++++ /dev/null
+@@ -1,16 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { SUPABASE_ANON_KEY, SUPABASE_URL } from "./watcher-supabase-url.module.code.ts"
+-
+-test("a worker running from source reads an address from somewhere", () => {
+-  expect(typeof SUPABASE_URL).toBe("string")
+-  expect(SUPABASE_URL.length).toBeGreaterThan(0)
+-})
+-
+-test("the address read from source is the environment's or the fallback", () => {
+-  expect(SUPABASE_URL).toBe(process.env.SUPABASE_URL ?? "https://supabase.alanwalton.com")
+-})
+-
+-test("an anonymous key is always some text, empty where none is set", () => {
+-  expect(typeof SUPABASE_ANON_KEY).toBe("string")
+-  expect(SUPABASE_ANON_KEY).toBe(process.env.SUPABASE_ANON_KEY ?? "")
+-})
+diff --git a/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.ts b/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.ts
+deleted file mode 100644
+index 2a250379c7e553636505863e63e427ebc7a1d42d..0000000000000000000000000000000000000000
+--- a/temper/temper-watcher/watcher-supabase-url/watcher-supabase-url.module.ts
++++ /dev/null
+@@ -1,48 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const watcherSupabaseUrl = {
+-  id: "01a06370-eddf-75e8-9dfd-6168b1faa1fc",
+-  pageTypeSlug: "module",
+-  slug: "watcher-supabase-url",
+-  definition: "the supabase address and anonymous key the watcher worker reaches the web with",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A compiled worker carries the address the build put in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The address is put in at build time by the bundler rather than read at run time.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An address put in as an empty string counts as none put in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A worker running from source reads the environment.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An unset address falls back to the address temper is served from.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An unset anonymous key falls back to an empty string.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "The bundler replaces a bare name rather than a path.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "Moving this file does not change what the bundler puts in.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No test here reaches the branch the bundler puts in.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts
+index deeb3851c308b51ec337686b99ee254b9310a340..2811f6378f786ef75ae9ff0a913059ff7a732518 100644
+--- a/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts
++++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts
+@@ -1,6 +1,4 @@
+ import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+-import { createClient } from "@akasha/supabase-client/user-client"
+-import { authenticate } from "../watcher-auth/watcher-auth.module.code.ts"
+ import { dispatch } from "../watcher-dispatch/watcher-dispatch.module.code.ts"
+ import {
+   type DispatchAnswer,
+@@ -17,15 +15,12 @@ import {
+ } from "../watcher-main/watcher-main.module.code.ts"
+ import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
+ import { reportRunOutcome } from "../watcher-run-reporting/watcher-run-reporting.module.code.ts"
+-import {
+-  SESSION_STORAGE_KEY,
+-  sessionFileStore,
+-} from "../watcher-session-file/watcher-session-file.module.code.ts"
+-import {
+-  initSupabaseClient,
+-  newSupabaseClientHolder,
+-  type WatcherSupabaseClient,
+-} from "../watcher-supabase-session/watcher-supabase-session.module.code.ts"
++import type {
++  SignedInAnswer,
++  SignedInReader,
++} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
++import { resolveWatcherToken } from "../watcher-token/watcher-token.module.code.ts"
++import { validateWatcherToken } from "../watcher-token-check/watcher-token-check.module.code.ts"
+ import {
+   checkForUpdate,
+   cleanupOldExe,
+@@ -52,21 +47,38 @@ export function uploadQueue(): (run: () => Promise<void>) => undefined {
+   }
+ }
+ 
+-export function openWatcherSession(): () => Promise<WatcherSupabaseClient> {
+-  const holder = newSupabaseClientHolder()
+-  return () =>
+-    initSupabaseClient(holder, {
+-      makeClient: (url, anonKey, options) => createClient(url, anonKey, options),
+-      store: sessionFileStore(),
+-      storageKey: SESSION_STORAGE_KEY,
+-      authenticate,
+-      log,
+-      logError,
+-    })
++export const NO_ACCOUNT_FOR_TOKEN = "the watcher token matched no enrolment naming an account"
++
++export type WatcherTokenRead = () => string
++
++export type WatcherTokenCheck = (token: unknown) => Promise<{ accountPageId: string } | null>
++
++export async function tokenSessionAnswer(
++  readToken: WatcherTokenRead,
++  checkToken: WatcherTokenCheck
++): Promise<SignedInAnswer> {
++  try {
++    const validated = await checkToken(readToken())
++    if (validated === null) {
++      return { data: { user: null }, error: { message: NO_ACCOUNT_FOR_TOKEN } }
++    }
++    return { data: { user: { id: validated.accountPageId } }, error: null }
++  } catch (thrown) {
++    const message = thrown instanceof Error ? thrown.message : String(thrown)
++    return { data: { user: null }, error: { message } }
++  }
++}
++
++export async function openTokenSession(
++  readToken: WatcherTokenRead = resolveWatcherToken,
++  checkToken: WatcherTokenCheck = validateWatcherToken
++): Promise<SignedInReader> {
++  const answer = await tokenSessionAnswer(readToken, checkToken)
++  return { auth: { getUser: () => Promise.resolve(answer) } }
+ }
+ 
+ export function dispatchingThrough(
+-  reader: () => WatcherSupabaseClient
++  reader: () => SignedInReader
+ ): (ask: DispatchAsk) => Promise<DispatchAnswer> {
+   return async (ask) =>
+     dispatch(ask.fileType, ask.content, ask.token, ask.serverUrl, {
+@@ -80,7 +92,7 @@ export function dispatchingThrough(
+ }
+ 
+ export function reportingThrough(
+-  reader: () => WatcherSupabaseClient
++  reader: () => SignedInReader
+ ): (operations: readonly SyncOperation[]) => Promise<void> {
+   return (operations) =>
+     reportRunOutcome(operations, {
+@@ -110,13 +122,11 @@ export function sessionHold<Client>(): SessionHold<Client> {
+ }
+ 
+ export async function runWorker(exit: (code: number) => never): Promise<WatcherStart> {
+-  const openSession = openWatcherSession()
+-  const session = sessionHold<WatcherSupabaseClient>()
++  const session = sessionHold<SignedInReader>()
+ 
+   const started = await startWatcher({
+     repoDir: akashaRoot(),
+-    authenticate: () => authenticate(),
+-    openSession: () => session.hold(openSession),
++    openSession: () => session.hold(() => openTokenSession()),
+     dispatch: dispatchingThrough(session.take),
+     report: reportingThrough(session.take),
+     makeDispatchHandler,
+diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.test.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.test.ts
+index 2827c3d7d595be28f7403ec07d59aead1a6d0d3c..2041f4e4d3d635fdee90f2c839b2ded71f4588d9 100644
+--- a/temper/temper-watcher/watcher-worker/watcher-worker.module.test.ts
++++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.test.ts
+@@ -2,12 +2,65 @@ import { expect, test } from "bun:test"
+ import { SOURCE_UPDATE_EXIT_CODE } from "../watcher-updating/watcher-updating.module.code.ts"
+ import {
+   dispatchingThrough,
++  NO_ACCOUNT_FOR_TOKEN,
++  openTokenSession,
+   SESSION_NOT_OPEN,
+   sessionHold,
+   uploadQueue,
+   WATCHER_UPDATING,
+ } from "./watcher-worker.module.code.ts"
+ 
++const A_TOKEN = `wt_${"0".repeat(64)}`
++
++test("a token the store matches opens a session naming the account the enrolment names", async () => {
++  const session = await openTokenSession(
++    () => A_TOKEN,
++    () => Promise.resolve({ accountPageId: "account-1" })
++  )
++  expect(await session.auth.getUser()).toEqual({
++    data: { user: { id: "account-1" } },
++    error: null,
++  })
++})
++
++test("a token the store matches to no enrolment opens a session carrying no user", async () => {
++  const session = await openTokenSession(
++    () => A_TOKEN,
++    () => Promise.resolve(null)
++  )
++  expect(await session.auth.getUser()).toEqual({
++    data: { user: null },
++    error: { message: NO_ACCOUNT_FOR_TOKEN },
++  })
++})
++
++test("a token that will not read opens a session carrying what went wrong", async () => {
++  const session = await openTokenSession(
++    () => {
++      throw new Error("TEMPER_WATCHER_TOKEN is not set")
++    },
++    () => Promise.resolve({ accountPageId: "account-1" })
++  )
++  expect(await session.auth.getUser()).toEqual({
++    data: { user: null },
++    error: { message: "TEMPER_WATCHER_TOKEN is not set" },
++  })
++})
++
++test("the token is checked once however often the session is asked", async () => {
++  let checked = 0
++  const session = await openTokenSession(
++    () => A_TOKEN,
++    () => {
++      checked += 1
++      return Promise.resolve({ accountPageId: "account-1" })
++    }
++  )
++  await session.auth.getUser()
++  await session.auth.getUser()
++  expect(checked).toBe(1)
++})
++
+ test("the upload queue runs each upload after the one before it ends", async () => {
+   const order: string[] = []
+   const enqueue = uploadQueue()
+diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+index 1c14e074a100d1608426359b4486078822dac4b4..ab3ffedd315575ba2876bf61e61c7e549e3f3071 100644
+--- a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
++++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+@@ -52,6 +52,30 @@ export const watcherWorker = {
+       invariantKind: "departure",
+       statement: "The account a run outcome is reported under is read off the open session.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The session is the watcher's enrolment token checked against the page store.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The account the session names is the account that enrolment names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A token the store matches to no enrolment answers a session carrying no user.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A token that will not read answers a session carrying no user.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The token is checked once rather than on every ask.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here signs anyone in through a browser.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here decides what the watcher does with a file it read.",

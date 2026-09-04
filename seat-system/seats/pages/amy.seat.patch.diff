@@ -1,0 +1,139 @@
+diff --git a/command-system/outside-naming/outside-naming.module.code.ts b/command-system/outside-naming/outside-naming.module.code.ts
+index 4c2e7a38778a7e5a456b2641e0a8095c4d4ad809..84c44b96bec2457fe8a7480b689922225b0c1605 100644
+--- a/command-system/outside-naming/outside-naming.module.code.ts
++++ b/command-system/outside-naming/outside-naming.module.code.ts
+@@ -15,10 +15,14 @@ const PARTED_BY = "/"
+ 
+ const FOUND_NOTHING = 1
+ 
+-const AT_MOST = 60000
+-
+ const REACHED_AT_MOST = 20000
+ 
++const THREADS_AT_MOST = "grep.threads=4"
++
++const PATTERNS_FROM = "-f"
++
++const OVER_INPUT = "-"
++
+ const AS_WRITTEN = "-F"
+ 
+ const AS_PATTERN = "-E"
+@@ -93,7 +97,7 @@ export function endedFor(name: string): string {
+ 
+ export function batchedIn(
+   said: readonly string[],
+-  atMost: number = AT_MOST
++  atMost: number = REACHED_AT_MOST
+ ): readonly (readonly string[])[] {
+   const batches: string[][] = []
+   let held: string[] = []
+@@ -112,22 +116,35 @@ export function batchedIn(
+ }
+ 
+ function foundBy(root: string, base: string, how: string, said: readonly string[]): Found {
++  if (said.length === 0) return { paths: [] }
++  const done = ran(
++    argvFor(root, [
++      "-c",
++      THREADS_AT_MOST,
++      "grep",
++      "-l",
++      "-I",
++      "-z",
++      how,
++      PATTERNS_FROM,
++      OVER_INPUT,
++      base,
++      "--",
++    ]),
++    { stdin: new TextEncoder().encode(`${said.join("\n")}\n`) }
++  )
++  if (done.code === FOUND_NOTHING) return { paths: [] }
++  if (done.code !== 0) {
++    return {
++      refusal:
++        "git could not say which tracked files carry what was asked after, so nothing was " +
++        `judged — ${done.err.trim()}`,
++    }
++  }
+   const paths: string[] = []
+   const held = `${base}:`
+-  for (const batch of batchedIn(said)) {
+-    const asked = batch.flatMap((one) => ["-e", one])
+-    const done = ran(argvFor(root, ["grep", "-l", "-I", "-z", how, ...asked, base, "--"]))
+-    if (done.code === FOUND_NOTHING) continue
+-    if (done.code !== 0) {
+-      return {
+-        refusal:
+-          "git could not say which tracked files carry what was asked after, so nothing was " +
+-          `judged — ${done.err.trim()}`,
+-      }
+-    }
+-    for (const one of done.out.split("\0")) {
+-      if (one.startsWith(held)) paths.push(one.slice(held.length))
+-    }
++  for (const one of done.out.split("\0")) {
++    if (one.startsWith(held)) paths.push(one.slice(held.length))
+   }
+   return { paths: [...new Set(paths)].sort() }
+ }
+@@ -139,13 +156,8 @@ export function namedTracked(root: string, base: string, named: readonly string[
+ 
+ export function reachedTracked(root: string, base: string, parts: readonly string[]): Found {
+   if (parts.length === 0) return { paths: [] }
+-  const paths: string[] = []
+-  for (const batch of batchedIn(parts, REACHED_AT_MOST)) {
+-    const found = foundBy(root, base, AS_PATTERN, reachesFor(batch))
+-    if ("refusal" in found) return found
+-    paths.push(...found.paths)
+-  }
+-  return { paths: [...new Set(paths)].sort() }
++  const patterns = batchedIn(parts, REACHED_AT_MOST).flatMap((batch) => reachesFor(batch))
++  return foundBy(root, base, AS_PATTERN, patterns)
+ }
+ 
+ export function spelledTracked(root: string, base: string, spelled: readonly string[]): Found {
+diff --git a/command-system/outside-naming/outside-naming.module.test.ts b/command-system/outside-naming/outside-naming.module.test.ts
+index 5f1da7235545a584c498c9615823307d1d80544b..420a31ec8be539c11a5eeb41cfb7a96f5419fd8d 100644
+--- a/command-system/outside-naming/outside-naming.module.test.ts
++++ b/command-system/outside-naming/outside-naming.module.test.ts
+@@ -116,7 +116,7 @@ test("a character a pattern would read as a pattern is looked for as that charac
+   expect("paths" in found ? found.paths : ["it refused"]).toEqual([])
+ })
+ 
+-test("more names than one command line carries are asked for over more calls", () => {
++test("the parts joined into one pattern are bounded", () => {
+   const many = Array.from({ length: 20000 }, (_at, index) => `part-of-a-path-${index}`)
+   const batches = batchedIn(many)
+   expect(batches.length).toBeGreaterThan(1)
+diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
+index bef30c84954a97b11d97e45e4b1a3461f9364c58..dc05392dfa022956e2f18fbddcd43581035b3d27 100644
+--- a/command-system/outside-naming/outside-naming.module.ts
++++ b/command-system/outside-naming/outside-naming.module.ts
+@@ -22,11 +22,23 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "More names than one command line carries are asked for over more calls.",
++      statement: "Every name is asked after in one search.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What every call found is answered as one answer with each path said once.",
++      statement: "The names one search asks after reach git through what git reads in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A search runs on no more than four threads.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parts joined into one pattern are bounded.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What a search found is answered with each path said once.",
+     },
+     {
+       invariantKind: "departure",

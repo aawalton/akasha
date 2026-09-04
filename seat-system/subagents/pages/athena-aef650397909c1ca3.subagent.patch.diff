@@ -1,0 +1,13 @@
+diff --git a/context-system/context-warrants/file-itself/file-itself.context-warrant.code.ts b/context-system/context-warrants/file-itself/file-itself.context-warrant.code.ts
+index 225b5866ae55f0d2f3fb835d1bff3bf50f7c293e..210fb25f09897d1f75c8923a83e883cbc51ee351 100644
+--- a/context-system/context-warrants/file-itself/file-itself.context-warrant.code.ts
++++ b/context-system/context-warrants/file-itself/file-itself.context-warrant.code.ts
+@@ -1,7 +1,7 @@
+ import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
+ 
+ export const ITSELF =
+-  "A write replaces the body standing there, and what is replaced is read first."
++  "A file answers for the body it holds, and that body is read before the file is changed."
+ 
+ export function fileItself(root: string, path: string): readonly Warrant[] {
+   const oid = blobAt(root, path)
