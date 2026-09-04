@@ -29,6 +29,20 @@ index 89312568c155d7df346020e3380776263c5aa43b..02b98a089ce0efab13a3b33f3931fd59
      },
      {
        invariantKind: "departure",
+diff --git a/pages/change/change.module.ts b/pages/change/change.module.ts
+index 1aeb73c07f05a79af0102e86766445d7b0cabaa8..463c6c99d0a3e81964932752fcc1f3511b37e8b3 100644
+--- a/pages/change/change.module.ts
++++ b/pages/change/change.module.ts
+@@ -22,7 +22,8 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path it never touched reads the base commit through both.",
++      statement:
++        "A path the change never touched reads the base commit through `before` and `after`.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
 index b2d8e92651af3d58419795d88b20d5c0aadc6265..8caef750d0be476d6ce783aa1a31bf2689d8f442 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
