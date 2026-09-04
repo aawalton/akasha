@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const domainTree = {
   id: "01a06936-1ef0-76c1-a12f-33eb7a0e5a10",

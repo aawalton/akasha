@@ -4,7 +4,7 @@ import { akashaRoot, runCommand } from "../harness-call/harness-call.module.code
 
 const COMMAND = "domain-tree"
 
-const COMMAND_AT = "command-system/commands/domain-tree/domain-tree.command.code.ts"
+const COMMAND_AT = "commands/domain-tree/domain-tree.command.code.ts"
 
 const CALL_TIMEOUT_MS = 30_000
 
