@@ -1,0 +1,59 @@
+diff --git a/alan/relating/relationships/pages/steve-baumann/steve-baumann.relationship.ts b/alan/relating/relationships/pages/steve-baumann/steve-baumann.relationship.ts
+index 37c3aad7e9588b9bc6d023a4efb901926a38138f..87891b6bf73c82c6b3aa075e7051b67dc1a1c2be 100644
+--- a/alan/relating/relationships/pages/steve-baumann/steve-baumann.relationship.ts
++++ b/alan/relating/relationships/pages/steve-baumann/steve-baumann.relationship.ts
+@@ -6,5 +6,5 @@ export const steveBaumann = {
+   slug: "steve-baumann",
+   title: "Steve Baumann",
+   relationshipCurrentCircle: "acquaintances",
+-  email: "steveb@fairwaymc.com",
++  email: " Ada@Example.com",
+ } as const satisfies Relationship
+diff --git a/collection-system/royal-road-accounts/pages/alan/alan.royal-road-account.ts b/collection-system/royal-road-accounts/pages/alan/alan.royal-road-account.ts
+index 9d086f9a6a000d15188f2ded915e53e231f35f19..82fd6d1f2df3da42a82bb6d1c5261d95071d8975 100644
+--- a/collection-system/royal-road-accounts/pages/alan/alan.royal-road-account.ts
++++ b/collection-system/royal-road-accounts/pages/alan/alan.royal-road-account.ts
+@@ -4,5 +4,5 @@ export const alan = {
+   id: "01a01257-3e4f-7000-a256-37b02dd285cb",
+   pageTypeSlug: "royal-road-account",
+   slug: "alan",
+-  email: "aawalton@gmail.com",
++  email: " Ada@Example.com",
+ } as const satisfies RoyalRoadAccount
+diff --git a/person-system/people/email/gmail-mailboxes/pages/aawalton/aawalton.gmail-mailbox.ts b/person-system/people/email/gmail-mailboxes/pages/aawalton/aawalton.gmail-mailbox.ts
+index b6ec8c595654523c0f0ec7c593a195947491a50b..4c89ee02a516657e5f5cede5947260414d96da1f 100644
+--- a/person-system/people/email/gmail-mailboxes/pages/aawalton/aawalton.gmail-mailbox.ts
++++ b/person-system/people/email/gmail-mailboxes/pages/aawalton/aawalton.gmail-mailbox.ts
+@@ -5,6 +5,6 @@ export const aawalton = {
+   pageTypeSlug: "gmail-mailbox",
+   slug: "aawalton",
+   title: "aawalton",
+-  email: "aawalton@gmail.com",
++  email: " Ada@Example.com",
+   processedMessages: "jsonl",
+ } as const satisfies GmailMailbox
+diff --git a/person-system/people/pages/alan.person.ts b/person-system/people/pages/alan.person.ts
+index 9c45681ab0aa62b1e6f0ad7b71a37f829c9da7ec..036c8fb548b1749bb3376701694a0dcd364a8cbd 100644
+--- a/person-system/people/pages/alan.person.ts
++++ b/person-system/people/pages/alan.person.ts
+@@ -7,6 +7,6 @@ export const alan = {
+   definition: "the person this system answers to",
+   answeredBy: "amy",
+   phone: "+16085122510",
+-  email: "aawalton@gmail.com",
++  email: " Ada@Example.com",
+   supabaseAuthUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+ } as const satisfies Person
+diff --git a/persona-system/personas/thea/thea.persona.ts b/persona-system/personas/thea/thea.persona.ts
+index 7902ce615c997a2657192b36e25b129a501bab47..74665fabd99427b0e6ad5d26f79321232f5fa249 100644
+--- a/persona-system/personas/thea/thea.persona.ts
++++ b/persona-system/personas/thea/thea.persona.ts
+@@ -13,7 +13,7 @@ export const thea = {
+   roleSlug: "definer",
+   valueSlug: "wealth",
+   origin: "greek",
+-  email: "thea@alanwalton.com",
++  email: " Ada@Example.com",
+   voiceInstruction:
+     "A woman's voice in a warm medium-LOW register, sun-warmed and unhurried, with an audible smile; fond and open-air, easy morning warmth; she speaks with settled calm and lets her words land, never breathy, never squeaky.",
+   voiceReferenceSha256: "f5d12fa73bd7c06dd5739c55a4f045d0d1e579360d5e4ca38ab79e83aac36b70",
