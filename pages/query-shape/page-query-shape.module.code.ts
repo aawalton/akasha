@@ -1,4 +1,4 @@
-import type { Row } from "../page-derive-shape/page-derive-shape.module.code.ts"
+import type { Row } from "../derive-shape/page-derive-shape.module.code.ts"
 
 export const UNREACHED = "names no page type whose pages are files"
 
