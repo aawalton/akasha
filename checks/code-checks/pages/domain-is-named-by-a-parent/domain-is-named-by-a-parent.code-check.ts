@@ -4,10 +4,10 @@ export const domainIsNamedByAParent = {
   id: "01a04d5f-c731-7000-9066-3abf317a1d58",
   pageTypeSlug: "code-check",
   slug: "domain-is-named-by-a-parent",
-  definition: "the check refusing a domain that no other page names among its parts",
+  definition: "the check refusing a domain the whole does not reach by exactly one chain of parts",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -78,8 +78,16 @@ export const domainIsNamedByAParent = {
         "Those parts are looked for in the withdrawn body rather than among the change's own pages.",
     },
     {
-      invariantKind: "gap",
-      statement: "Every page beneath `domain` is reached by reading down from `akasha`.",
+      invariantKind: "departure",
+      statement: "A page no page names among its parts is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page more than one page names among its parts is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose parents loop rather than reaching `domain/akasha` is refused.",
     },
     {
       invariantKind: "upkeep",
