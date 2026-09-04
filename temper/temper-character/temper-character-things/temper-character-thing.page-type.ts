@@ -1,9 +1,11 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { Completion } from "./properties/completion.file-property.ts"
+import type { TargetBuildId } from "./properties/target-build-id.text-property.ts"
 
 export type TemperCharacterThing = TemperThing & {
   completion?: Completion
+  targetBuildId?: TargetBuildId
 }
 
 export const temperCharacterThing = {
@@ -14,7 +16,10 @@ export const temperCharacterThing = {
   pluralSlug: "temper-character-things",
   extendsSlug: "page-type/temper-thing",
   partSlugs: ["file-property/completion", "text-property/target-build-id"],
-  properties: [{ pagePropertySlug: "completion", required: false, many: false }],
+  properties: [
+    { pagePropertySlug: "completion", required: false, many: false },
+    { pagePropertySlug: "target-build-id", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

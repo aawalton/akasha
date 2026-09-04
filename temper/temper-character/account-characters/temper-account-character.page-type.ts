@@ -1,5 +1,4 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TargetBuildId } from "../temper-character-things/properties/target-build-id.text-property.ts"
 import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { FirstName } from "./properties/first-name.text-property.ts"
 import type { LiveBuildId } from "./properties/live-build-id.text-property.ts"
@@ -7,7 +6,6 @@ import type { LiveBuildId } from "./properties/live-build-id.text-property.ts"
 export type TemperAccountCharacter = TemperCharacterThing & {
   firstName?: FirstName
   liveBuildId?: LiveBuildId
-  targetBuildId?: TargetBuildId
 }
 
 export const temperAccountCharacter = {
@@ -23,7 +21,6 @@ export const temperAccountCharacter = {
     { pagePropertySlug: "account-page", required: true, many: false },
     { pagePropertySlug: "first-name", required: false, many: false },
     { pagePropertySlug: "live-build-id", required: false, many: false },
-    { pagePropertySlug: "target-build-id", required: false, many: false },
   ],
   invariants: [
     {
