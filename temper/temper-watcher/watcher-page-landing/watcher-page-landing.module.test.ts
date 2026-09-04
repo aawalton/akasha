@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
-import type { Landing, Tried } from "./watcher-page-landing.module.code.ts"
+import type { Landing, ReadPages, Tried } from "./watcher-page-landing.module.code.ts"
 import {
+  besidePathOf,
+  besidePathsFor,
   closingFor,
   contentIn,
   exportNameFor,
@@ -11,6 +13,7 @@ import {
   LANDING_ATTEMPTS,
   LANDING_PAUSE_MS,
   landOverAttempts,
+  noPagePathWhy,
   PAGE_LANDING_WRITER,
   pageBodyFor,
   pagePathIn,
@@ -266,4 +269,68 @@ test("waiting answers once the milliseconds asked for have gone", async () => {
   const before = Date.now()
   expect(await waitFor(5)).toBeUndefined()
   expect(Date.now() - before).toBeGreaterThanOrEqual(4)
+})
+
+const HOUR_PAGE = `${HOURS}/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts`
+
+function pagesAnswering(paths: readonly string[], unplaced: readonly string[] = []): ReadPages {
+  return async () => ({
+    ok: true,
+    at: "c1",
+    bodies: paths.map((path) => ({ path, content: "" })),
+    unplaced: [...unplaced],
+  })
+}
+
+test("a beside path is the page path with the page ending swapped for the property's", () => {
+  expect(besidePathOf(HOUR_PAGE, "completion", "json")).toBe(
+    `${HOURS}/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.completion.json`
+  )
+  expect(besidePathOf("pages/azandar.temper-companion-progress.ts", "completion", "json")).toBe(
+    "pages/azandar.temper-companion-progress.completion.json"
+  )
+})
+
+test("a path that is no page file has no beside path", () => {
+  expect(besidePathOf("pages/azandar.temper-companion-progress.json", "completion", "json")).toBe(
+    null
+  )
+  expect(besidePathOf("", "completion", "json")).toBe(null)
+})
+
+test("beside paths come back against the slugs they were asked for", async () => {
+  const found = await besidePathsFor(
+    pagesAnswering(["pages/a.thing.ts", "pages/b.thing.ts"]),
+    "thing",
+    ["a", "b"],
+    "completion",
+    "json"
+  )
+  expect([...found]).toEqual([
+    ["a", "pages/a.thing.completion.json"],
+    ["b", "pages/b.thing.completion.json"],
+  ])
+})
+
+test("a slug the pages placed no file for is refused rather than skipped", async () => {
+  await expect(
+    besidePathsFor(pagesAnswering(["pages/a.thing.ts"], ["thing/b"]), "thing", ["a", "b"], "c", "j")
+  ).rejects.toThrow(noPagePathWhy("thing", "a, b"))
+})
+
+test("a read that did not answer is refused with what the store said", async () => {
+  const refusing: ReadPages = async () => ({ ok: false, why: "the store was unreachable" })
+  await expect(besidePathsFor(refusing, "thing", ["a"], "c", "j")).rejects.toThrow(
+    "the store was unreachable"
+  )
+})
+
+test("no slug asks the pages nothing", async () => {
+  let asked = 0
+  const counting: ReadPages = async () => {
+    asked += 1
+    return { ok: true, at: "c1", bodies: [], unplaced: [] }
+  }
+  expect([...(await besidePathsFor(counting, "thing", [], "c", "j"))]).toEqual([])
+  expect(asked).toBe(0)
 })

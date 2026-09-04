@@ -30,6 +30,26 @@ export const watcherPageLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A file kept beside a page takes the page path with the ending swapped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path that is no page file gives back nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every slug of one page type is asked of the pages in one read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug the pages placed no file for is refused rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read naming no slug leaves the pages unasked.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The export a page body declares is named for the slug in lower camel case.",
     },
     {

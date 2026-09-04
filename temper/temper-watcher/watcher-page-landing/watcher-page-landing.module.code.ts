@@ -1,4 +1,4 @@
-import { readFiles, removeFiles, writeFiles } from "@akasha/pages-query"
+import { readFiles, type readPages, removeFiles, writeFiles } from "@akasha/pages-query"
 
 export const PAGE_LANDING_WRITER = "temper watcher <watcher@alanwalton.com>"
 
@@ -6,7 +6,11 @@ export const LANDING_ATTEMPTS = 4
 
 export const LANDING_PAUSE_MS = 1_500
 
+const PAGE_ENDING = ".ts"
+
 export type ReadFiles = typeof readFiles
+
+export type ReadPages = typeof readPages
 
 export type WriteFiles = typeof writeFiles
 
@@ -87,6 +91,38 @@ export function rowsPathIn(
   property: string
 ): string {
   return `${folder}/${slug}/${slug}.${pageTypeSlug}.${property}.jsonl`
+}
+
+export function besidePathOf(pagePath: string, property: string, ending: string): string | null {
+  if (!pagePath.endsWith(PAGE_ENDING)) return null
+  return `${pagePath.slice(0, -PAGE_ENDING.length)}.${property}.${ending}`
+}
+
+export function noPagePathWhy(pageTypeSlug: string, named: string): string {
+  return `the ${pageTypeSlug} pages named by ${named} gave back no path to put a file beside`
+}
+
+export async function besidePathsFor(
+  read: ReadPages,
+  pageTypeSlug: string,
+  slugs: readonly string[],
+  property: string,
+  ending: string
+): Promise<ReadonlyMap<string, string>> {
+  const beside = new Map<string, string>()
+  if (slugs.length === 0) return beside
+  const named = slugs.join(", ")
+  const found = await read(slugs.map((slug) => ({ pageTypeSlug, slug })))
+  if (!found.ok) throw new Error(`${noPagePathWhy(pageTypeSlug, named)}: ${found.why}`)
+  if (found.unplaced.length > 0 || found.bodies.length !== slugs.length) {
+    throw new Error(noPagePathWhy(pageTypeSlug, named))
+  }
+  for (const [at, slug] of slugs.entries()) {
+    const path = besidePathOf(found.bodies[at]?.path ?? "", property, ending)
+    if (path === null) throw new Error(noPagePathWhy(pageTypeSlug, slug))
+    beside.set(slug, path)
+  }
+  return beside
 }
 
 export function exportNameFor(slug: string): string {

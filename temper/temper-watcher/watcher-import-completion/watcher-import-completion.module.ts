@@ -19,7 +19,39 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
-      statement: "A completion reaches a page as JSON text rather than as a record.",
+      statement: "A completion travels as the file beside its page rather than as a page property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A completion file holds the merged completion as JSON.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The path a completion file takes is derived from the path the pages answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page beside no completion file carries no stored completion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A completion file holding no JSON object is refused rather than merged from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A completion equal to what its file holds lands nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page beside a completion file this import made is told that file's ending.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every completion file of one page type is read in one read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every completion file of one page type lands in one write.",
     },
     {
       invariantKind: "departure",
@@ -49,6 +81,18 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
+      statement: "A caller may hand in what answers a page's path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may hand in what reads the files beside pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may hand in what writes the files beside pages.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A caller may hand in what logs.",
     },
     {
@@ -66,6 +110,14 @@ export const watcherImportCompletion = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads lua.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No completion body reaches the set an upsert carries.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder holding a page is named here.",
     },
   ],
 } as const satisfies Module
