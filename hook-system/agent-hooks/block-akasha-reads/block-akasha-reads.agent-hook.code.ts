@@ -1,4 +1,4 @@
-import { join, resolve } from "node:path"
+import { resolve } from "node:path"
 import { ranAsHook } from "../../hook-answer/hook-answer.module.code.ts"
 import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
@@ -7,10 +7,8 @@ const HOOK = "block-akasha-reads"
 
 const FILE_PATH = "file_path"
 
-const PAGES = "akasha"
-
 export const SCOPE: readonly string[] = [
-  "block-akasha-reads refuses a Read landing inside the akasha folder, and stands aside",
+  "block-akasha-reads refuses a Read landing anywhere inside this checkout, and stands aside",
   "everywhere else.",
   "",
   "WHY. A write is refused for changing a file the record does not show the agent has read, and",
@@ -22,7 +20,7 @@ export const SCOPE: readonly string[] = [
   "so no shell reads it: there is no quoting, no substitution and nothing to parse, and therefore",
   "no second spelling of a path to miss. The path is resolved against the directory the call was",
   "made in, `.` and `..` are folded away, and every link on it is followed. What comes out is",
-  "compared against the akasha folder resolved the same way.",
+  "compared against the checkout root resolved the same way.",
   "",
   "NOT REACHED. Each of these stands outside the class, and is not a hole inside it:",
   "  - Grep and Glob. A search is not a read: it shows what matched, never a body this hook could",
@@ -43,7 +41,7 @@ export const SCOPE: readonly string[] = [
 
 export function refusalFor(shown: string): string {
   return [
-    `${HOOK}: Read reaches \`${shown}\`, inside the akasha folder.`,
+    `${HOOK}: Read reaches \`${shown}\`, inside this checkout.`,
     "The akasha command reads that folder, and records the read. Only a read it records counts,",
     "and a write is refused for changing a file the record does not show you have read.",
     "",
@@ -68,7 +66,7 @@ export function refusalIn(filePath: string, from: string, root: string): string 
   if (filePath.trim() === "") return null
   const here = settled(root)
   const at = settled(resolve(from, filePath))
-  return insideOf(settled(join(here, PAGES)), at) ? refusalFor(shownIn(here, at)) : null
+  return insideOf(settled(here), at) ? refusalFor(shownIn(here, at)) : null
 }
 
 export async function ran(): Promise<number> {
