@@ -47,6 +47,7 @@ export const pageType = {
     "boolean-property/show-reading-progress",
     "boolean-property/uncommitted",
     "number-property/next-seq",
+    "page-type/page-property",
     "record-property/audio-media",
     "record-property/child-collection",
     "record-property/collection-header",

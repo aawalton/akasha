@@ -29,7 +29,6 @@ export const pages = {
     "page-type/nav",
     "page-type/page",
     "page-type/page-type",
-    "page-type/page-property",
     "page-type/text-property",
     "page-type/number-property",
     "page-type/formula-property",
