@@ -1,0 +1,17 @@
+diff --git a/domains/findings/pages/control/a-new-unique-property-costs-the-gate-minutes.finding.ts b/domains/findings/pages/control/a-new-unique-property-costs-the-gate-minutes.finding.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..16cfb8b32bc3b216c31bf870274f7544edb4b4fa
+--- /dev/null
++++ b/domains/findings/pages/control/a-new-unique-property-costs-the-gate-minutes.finding.ts
+@@ -0,0 +1,11 @@
++import type { Finding } from "../../finding.page-type.ts"
++
++export const aNewUniquePropertyCostsTheGateMinutes = {
++  id: "01a06e11-0000-7000-8000-000000000001",
++  pageTypeSlug: "finding",
++  slug: "a-new-unique-property-costs-the-gate-minutes",
++  domainSlug: "workspace-package/checks",
++  claim: "This page is a seeded control and carries a slug another finding already carries.",
++  evidence:
++    "It was drafted to find out whether the gate refuses a second page at one slug, because a check answering `none refused` says nothing until it has been watched refusing something. It is dropped rather than landed.",
++} as const satisfies Finding
