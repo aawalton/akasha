@@ -1,12 +1,22 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Agent } from "../../agents/agent.page-type.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
+import type { ContextReplaced } from "./properties/context-replaced.record-property.ts"
+import type { ContextTokens } from "./properties/context-tokens.number-property.ts"
+import type { Model } from "./properties/model.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
+import type { Proxy as SeatProxy } from "./properties/proxy.record-property.ts"
+import type { ReExecAsk } from "./properties/re-exec-ask.text-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
+import type { Request } from "./properties/request.record-property.ts"
 import type { RoleSlug } from "./properties/role-slug.relation-property.ts"
+import type { RotatedSessionUuid } from "./properties/rotated-session-uuid.text-property.ts"
 import type { SeatPersonaSlug } from "./properties/seat-persona-slug.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
+import type { SupervisorProcess } from "./properties/supervisor-process.process-property.ts"
+import type { TranscriptPath } from "./properties/transcript-path.text-property.ts"
+import type { TurnPending } from "./properties/turn-pending.record-property.ts"
 import type { TurnWorking } from "./properties/turn-working.record-property.ts"
 
 export type Seat = Agent & {
@@ -18,6 +28,16 @@ export type Seat = Agent & {
   registrationAccount: RegistrationAccount
   claudeCodeSessionUuid?: ClaudeCodeSessionUuid
   turnWorking?: TurnWorking
+  transcriptPath?: TranscriptPath
+  supervisorProcess?: SupervisorProcess
+  proxy?: SeatProxy
+  model?: Model
+  contextTokens?: ContextTokens
+  turnPending?: TurnPending
+  request?: Request
+  contextReplaced?: ContextReplaced
+  reExecAsk?: ReExecAsk
+  rotatedSessionUuid?: RotatedSessionUuid
 }
 
 export const seat = {

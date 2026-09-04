@@ -2,10 +2,12 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { ResourceName } from "../cluster-services/properties/resource-name.text-property.ts"
 import type { ResourceKey } from "./properties/resource-key.text-property.ts"
+import type { SecretValue } from "./properties/secret-value.text-property.ts"
 
 export type Secret = Page & {
   resourceName: ResourceName
   resourceKey: ResourceKey
+  value?: SecretValue
 }
 
 export const secret = {

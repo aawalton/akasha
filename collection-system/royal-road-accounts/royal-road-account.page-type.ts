@@ -1,9 +1,11 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { RoyalRoadPassword } from "./properties/royal-road-password.text-property.ts"
 import type { RoyalRoadUsername } from "./properties/royal-road-username.email-address-property.ts"
 
 export type RoyalRoadAccount = Page & {
   username: RoyalRoadUsername
+  password?: RoyalRoadPassword
 }
 
 export const royalRoadAccount = {
