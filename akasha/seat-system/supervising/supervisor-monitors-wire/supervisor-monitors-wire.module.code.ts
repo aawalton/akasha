@@ -1,3 +1,4 @@
+import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { pollSupervisorFileVersion } from "@akasha/seat-system/supervisor-file-version"
 import { buildHeartbeatMonitor } from "@akasha/seat-system/supervisor-heartbeat"
@@ -8,7 +9,6 @@ import { handleVersionUpdate } from "@akasha/seat-system/supervisor-self-heal"
 import { SUPERVISOR_SCRIPT } from "@akasha/seat-system/supervisor-self-heal-state"
 import { getAgentActionHandler, getOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { startWaitResumeMonitor } from "@akasha/seat-system/supervisor-wait-resume"
-import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import { startLimitResumeMonitor } from "../supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { startProxyLivenessMonitor } from "../supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
 

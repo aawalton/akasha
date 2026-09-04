@@ -2,13 +2,8 @@ import { createHash } from "node:crypto"
 import { readFileSync, realpathSync, statSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
 
-const ENTRYPOINT_REL =
-  "../../akasha/agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
+const ENTRYPOINT_REL = "../proxy-entry/proxy-entry.module.code.ts"
 
-// An import is a statement, so the keyword opening one stands at the head of its line. Anchoring
-// there is what keeps a specifier QUOTED INSIDE A BODY out of the closure: `seat-page-akasha.ts`
-// composes a seat page whose first line is an import, and read as one it named a file in `tools/`
-// that has never existed, which crashed every supervisor boot rather than leaving the hash short.
 const SPECIFIER = /^[^\S\n]*(?:import|export)\b[^;'"`]*?["']([^"']+)["']/gm
 
 function realOrGiven(path: string): string {
@@ -24,7 +19,7 @@ function libDir(): string {
 }
 
 function instructionsRoot(): string {
-  return resolve(libDir(), "..", "..")
+  return resolve(libDir(), "..", "..", "..", "..", "..", "..")
 }
 
 export function modelGatewayEntrypoint(): string {
@@ -57,11 +52,6 @@ function isFileAt(absolute: string): boolean {
   }
 }
 
-// Most of this repository writes a relative import with its `.ts` on, and hundreds of them leave it
-// off, which the runtime resolves either way. So this walk resolves it the same way rather than
-// refusing: the extension as written, then `<specifier>.ts`, then `<specifier>/index.ts`. A
-// specifier none of those find is still refused, because a member the walk cannot name leaves the
-// hash short and a gateway edit under it stops respawning anything.
 function resolveImport(root: string, specifier: string, fromAbsolute: string): string {
   const at = resolve(dirname(fromAbsolute), specifier)
   for (const candidate of [at, `${at}.ts`, `${at}/index.ts`]) {

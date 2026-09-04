@@ -1,3 +1,4 @@
+import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
 import { reconcileAgentBootFiles, resolveClaudeHandoff } from "@akasha/seat-system/supervisor-adopt"
 import { selectAccountAndWriteCredential } from "@akasha/seat-system/supervisor-agent"
@@ -25,7 +26,6 @@ import {
   setRestoreConsoleHandle,
 } from "@akasha/seat-system/supervisor-state"
 import { shape } from "@akasha/utils-narrow/shape"
-import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import { toolRestrictions } from "../../tool-access/tool-access.module.code.ts"
 import type {
   InteractiveBootArgs,

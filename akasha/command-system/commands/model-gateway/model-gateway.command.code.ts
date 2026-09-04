@@ -1,3 +1,4 @@
+import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import { type LiveProxySeat, liveProxySeats, seatsNewestFirst } from "@akasha/agents/proxy-seats"
 import {
   describeAckTimeout,
@@ -8,7 +9,6 @@ import { planSeatResolution, resolveSeatTarget } from "@akasha/seat-system/seat-
 import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
 import { seatsPresent } from "@akasha/seat-system/seat-roster"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
-import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"

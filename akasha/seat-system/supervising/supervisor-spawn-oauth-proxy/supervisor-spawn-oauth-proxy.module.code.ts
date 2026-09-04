@@ -1,5 +1,6 @@
 import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
+import { modelGatewayEntrypoint } from "@akasha/agents/gateway-tree-version"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import type { ProxyAdoptionRuleSource } from "@akasha/seat-system/supervisor-proxy-adoption-rule"
 import { stopByPid, stopProxyIfOwned } from "@akasha/seat-system/supervisor-proxy-ownership"
@@ -10,7 +11,6 @@ import {
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
 import { pidsListeningOn, portIsHeld } from "@akasha/utils-process/port-holding"
 import { readProcEnvVar } from "@akasha/utils-process/proc-environ"
-import { modelGatewayEntrypoint } from "@tools/lib/model-gateway-tree-version"
 import {
   type OAuthProxyState,
   readProxyState,

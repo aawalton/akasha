@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./anthropic-error-envelope": "./models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts",
+    "./gateway-tree-version": "./models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts",
     "./capacity-classification": "./models/gateway/modules/capacity-classification/capacity-classification.module.code.ts",
     "./claude-account-credential-file": "./claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts",
     "./claude-account-credential-push": "./claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts",

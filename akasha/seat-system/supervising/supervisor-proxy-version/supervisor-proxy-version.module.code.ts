@@ -1,3 +1,4 @@
+import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import {
   respawnOAuthProxy,
   type SpawnOAuthProxyArgs,
@@ -5,7 +6,6 @@ import {
 } from "@akasha/seat-system/supervisor-spawn-oauth-proxy"
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
-import { computeModelGatewayTreeVersion } from "@tools/lib/model-gateway-tree-version"
 import {
   type OAuthProxyState,
   readProxyState,
