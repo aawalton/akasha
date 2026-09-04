@@ -50,7 +50,7 @@ function aboveIn(stated: StatedConfig): readonly string[] {
 
 test("a page type naming one parent as a string still climbs the chain it always did", async () => {
   const fake = fakeOver({
-    leaf: typed("leaf", "page-type/mid", null),
+    leaf: typed("leaf", ["page-type/mid"], null),
     mid: typed("mid", "root", null),
     root: typed("root", null, { said: "root" }),
   })
@@ -65,7 +65,7 @@ test("a parent named as a one-item list is read as the same parent a bare string
     root: typed("root", null, { said: "root" }),
   })
   const bare = fakeOver({
-    leaf: typed("leaf", "page-type/root", null),
+    leaf: typed("leaf", ["page-type/root"], null),
     root: typed("root", null, { said: "root" }),
   })
   const overList = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, listed.deps)
@@ -77,7 +77,7 @@ test("a parent named as a one-item list is read as the same parent a bare string
 
 test("the parents a page type names are answered as a list whether one or many are named", async () => {
   const fake = fakeOver({
-    one: typed("one", "page-type/up", null),
+    one: typed("one", ["page-type/up"], null),
     two: typed("two", ["page-type/up", "over"], null),
     none: typed("none", null, null),
   })

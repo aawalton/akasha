@@ -19,17 +19,16 @@ function aboveIn(root: string): ReadonlyMap<string, readonly string[]> {
   return listedAbove(readingIn(root), (path) => valueAt(path, root))
 }
 
-function namedIn(above: string | readonly string[]): string | readonly string[] {
-  if (typeof above === "string") return `page-type/${above}`
+function namedIn(above: readonly string[]): readonly string[] {
   return above.map((one) => `page-type/${one}`)
 }
 
-function typed(root: string, slug: string, above: string | readonly string[] | null): undefined {
+function typed(root: string, slug: string, above: readonly string[] | null): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
-  const said = above === null ? "null" : JSON.stringify(namedIn(above))
+  const said = above === null ? "[]" : JSON.stringify(namedIn(above))
   writeFileSync(
     page,
     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`
@@ -44,21 +43,21 @@ test("a page type stands under itself", () => {
 
 test("a page type naming a parent stands under it", () => {
   const root = scratch.rootFor("akasha-descent-")
-  typed(root, "module", "domain")
+  typed(root, "module", ["domain"])
   expect(underIn(root, "domain").has("module")).toBe(true)
 })
 
 test("descent reaches as deep as the page types go", () => {
   const root = scratch.rootFor("akasha-descent-")
-  typed(root, "module", "domain")
-  typed(root, "check", "module")
-  typed(root, "folder-shape", "check")
+  typed(root, "module", ["domain"])
+  typed(root, "check", ["module"])
+  typed(root, "folder-shape", ["check"])
   expect([...underIn(root, "domain")].sort()).toEqual(["check", "domain", "folder-shape", "module"])
 })
 
 test("a page type standing outside is left out", () => {
   const root = scratch.rootFor("akasha-descent-")
-  typed(root, "finding", "page")
+  typed(root, "finding", ["page"])
   expect(underIn(root, "domain").has("finding")).toBe(false)
 })
 
@@ -70,8 +69,8 @@ test("a page type naming no parent is read as standing above nothing", () => {
 
 test("a page type naming two parents stands under both", () => {
   const root = scratch.rootFor("akasha-descent-")
-  typed(root, "module", "domain")
-  typed(root, "page-property", "page")
+  typed(root, "module", ["domain"])
+  typed(root, "page-property", ["page"])
   typed(root, "computed-property", ["module", "page-property"])
   expect(underIn(root, "domain").has("computed-property")).toBe(true)
   expect(underIn(root, "page").has("computed-property")).toBe(true)
@@ -85,7 +84,7 @@ test("both parents a page type names are read in the order it names them", () =>
 
 test("a page type reaching one parent it names stands under that one", () => {
   const root = scratch.rootFor("akasha-descent-")
-  typed(root, "module", "domain")
+  typed(root, "module", ["domain"])
   typed(root, "computed-property", ["module", "nothing-holds-this"])
   expect(underIn(root, "domain").has("computed-property")).toBe(true)
 })

@@ -65,8 +65,8 @@ test("a key holding no list, or a list holding what is not text, is answered as 
   expect(textsAt({}, "binds")).toBe(null)
 })
 
-test("one page name is answered as a list of the one slug it names", () => {
-  expect(slugsIn("page-type/module")).toEqual(["module"])
+test("one page name standing alone is answered as nothing, a list being the shape", () => {
+  expect(slugsIn("page-type/module")).toEqual([])
 })
 
 test("a list of page names is answered as their slugs, in the order named", () => {

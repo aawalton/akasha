@@ -16,16 +16,15 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function named(above: string | readonly string[] | null): string {
-  if (above === null) return "null"
-  if (typeof above === "string") return JSON.stringify(`page-type/${above}`)
+function named(above: readonly string[] | null): string {
+  if (above === null) return "[]"
   return JSON.stringify(above.map((one) => `page-type/${one}`))
 }
 
 function typed(
   root: string,
   slug: string,
-  above: string | readonly string[] | null,
+  above: readonly string[] | null,
   declared: readonly Record<string, unknown>[]
 ): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
@@ -94,10 +93,13 @@ test("a page type carries what every type above it declares, its own coming firs
   propertied(root, "text-property", "definition", "definition")
   propertied(root, "text-property", "plural-slug", "plural-slug")
   typed(root, "page", null, [{ pagePropertySlug: "slug", required: true, many: false }])
-  typed(root, "domain", "page", [{ pagePropertySlug: "definition", required: true, many: false }])
-  typed(root, "page-type", "domain", [
-    { pagePropertySlug: "plural-slug", required: true, many: false },
-  ])
+  typed(root, "domain", ["page"], [{ pagePropertySlug: "definition", required: true, many: false }])
+  typed(
+    root,
+    "page-type",
+    ["domain"],
+    [{ pagePropertySlug: "plural-slug", required: true, many: false }]
+  )
 
   expect(carriedBy(root, "page-type").map((one) => [one.key, one.declaredBy])).toEqual([
     ["pluralSlug", "page-type"],
@@ -112,9 +114,12 @@ test("the nearest declaration binds, and a further one for the property is passe
   typed(root, "domain", null, [
     { pagePropertySlug: "properties", required: false, many: true, max: null },
   ])
-  typed(root, "page-type", "domain", [
-    { pagePropertySlug: "properties", required: true, many: true, max: 20 },
-  ])
+  typed(
+    root,
+    "page-type",
+    ["domain"],
+    [{ pagePropertySlug: "properties", required: true, many: true, max: 20 }]
+  )
 
   const carried = carriedBy(root, "page-type")
 
@@ -157,9 +162,12 @@ test("one slug under two page types is two properties, each binding on its own",
   typed(root, "domain", null, [
     { pagePropertySlug: "number-property/foo", required: false, many: false },
   ])
-  typed(root, "page-type", "domain", [
-    { pagePropertySlug: "text-property/foo", required: true, many: false },
-  ])
+  typed(
+    root,
+    "page-type",
+    ["domain"],
+    [{ pagePropertySlug: "text-property/foo", required: true, many: false }]
+  )
 
   expect(carriedBy(root, "page-type").map((one) => [one.pageTypeSlug, one.key])).toEqual([
     ["text-property", "fooText"],
@@ -171,9 +179,12 @@ test("a declaration restating an inherited property qualified binds once, the ne
   const root = rootAt()
   propertied(root, "text-property", "definition", "definition")
   typed(root, "domain", null, [{ pagePropertySlug: "definition", required: false, many: false }])
-  typed(root, "page-type", "domain", [
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
-  ])
+  typed(
+    root,
+    "page-type",
+    ["domain"],
+    [{ pagePropertySlug: "text-property/definition", required: true, many: false }]
+  )
 
   const carried = carriedBy(root, "page-type")
 
@@ -185,8 +196,8 @@ test("a declaration restating an inherited property qualified binds once, the ne
 test("a page type standing above itself is walked once rather than forever", () => {
   const root = rootAt()
   propertied(root, "text-property", "slug", "slug")
-  typed(root, "a", "b", [{ pagePropertySlug: "slug", required: true, many: false }])
-  typed(root, "b", "a", [])
+  typed(root, "a", ["b"], [{ pagePropertySlug: "slug", required: true, many: false }])
+  typed(root, "b", ["a"], [])
 
   expect(carriedBy(root, "a").map((one) => one.key)).toEqual(["slug"])
 })
@@ -210,9 +221,12 @@ test("every declaration is answered, the shadowed one standing beside the one th
   typed(root, "domain", null, [
     { pagePropertySlug: "properties", required: false, many: true, max: null },
   ])
-  typed(root, "page-type", "domain", [
-    { pagePropertySlug: "properties", required: true, many: true, max: 20 },
-  ])
+  typed(
+    root,
+    "page-type",
+    ["domain"],
+    [{ pagePropertySlug: "properties", required: true, many: true, max: 20 }]
+  )
 
   expect(declaredIn(root, "page-type").map((one) => [one.declaredBy, one.key, one.max])).toEqual([
     ["page-type", "properties", 20],
@@ -224,9 +238,12 @@ test("a shadowed declaration keeps the required it states, not the one that bind
   const root = rootAt()
   propertied(root, "text-property", "definition", "definition")
   typed(root, "domain", null, [{ pagePropertySlug: "definition", required: false, many: false }])
-  typed(root, "page-type", "domain", [
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
-  ])
+  typed(
+    root,
+    "page-type",
+    ["domain"],
+    [{ pagePropertySlug: "text-property/definition", required: true, many: false }]
+  )
 
   expect(declaredIn(root, "page-type").map((one) => one.required)).toEqual([true, false])
 })
@@ -247,12 +264,18 @@ test("what binds is the first of the declarations, and the rest are answered her
   propertied(root, "text-property", "definition", "definition")
   propertied(root, "text-property", "plural-slug", "plural-slug")
   typed(root, "page", null, [{ pagePropertySlug: "definition", required: false, many: false }])
-  typed(root, "domain", "page", [
-    { pagePropertySlug: "text-property/definition", required: true, many: false },
-  ])
-  typed(root, "page-type", "domain", [
-    { pagePropertySlug: "plural-slug", required: true, many: false },
-  ])
+  typed(
+    root,
+    "domain",
+    ["page"],
+    [{ pagePropertySlug: "text-property/definition", required: true, many: false }]
+  )
+  typed(
+    root,
+    "page-type",
+    ["domain"],
+    [{ pagePropertySlug: "plural-slug", required: true, many: false }]
+  )
 
   expect(declaredIn(root, "page-type").map((one) => one.declaredBy)).toEqual([
     "page-type",
@@ -315,7 +338,7 @@ test("a type one step up binds over one two steps up, though the further was nam
   const root = rootAt()
   propertied(root, "text-property", "definition", "definition")
   typed(root, "page", null, [{ pagePropertySlug: "definition", required: false, many: false }])
-  typed(root, "page-property", "page", [])
+  typed(root, "page-property", ["page"], [])
   typed(root, "module", null, [{ pagePropertySlug: "definition", required: true, many: false }])
   typed(root, "computed-property", ["module", "page-property"], [])
 
@@ -365,8 +388,13 @@ test("the types above are read level by level, and each type's own are taken in 
   propertied(root, "text-property", "formula", "formula")
   typed(root, "domain", null, [{ pagePropertySlug: "definition", required: true, many: false }])
   typed(root, "page", null, [{ pagePropertySlug: "slug", required: true, many: false }])
-  typed(root, "module", "domain", [{ pagePropertySlug: "code", required: true, many: false }])
-  typed(root, "page-property", "page", [{ pagePropertySlug: "many", required: true, many: false }])
+  typed(root, "module", ["domain"], [{ pagePropertySlug: "code", required: true, many: false }])
+  typed(
+    root,
+    "page-property",
+    ["page"],
+    [{ pagePropertySlug: "many", required: true, many: false }]
+  )
   typed(
     root,
     "computed-property",

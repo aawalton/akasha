@@ -4,30 +4,26 @@ import {
   resolveDescendantPageTypeIds,
 } from "./page-type-inheritance.module.code.ts"
 
-function typed(
-  id: string,
-  slug: string,
-  above: string | readonly string[] | null
-): PageTypeForInheritance {
+function typed(id: string, slug: string, above: readonly string[] | null): PageTypeForInheritance {
   return { _id: id, properties: { slug, extendsSlug: above } }
 }
 
 test("a page type descends from the one it names as the page type it extends", () => {
-  const types = [typed("1", "page", null), typed("2", "domain", "page-type/page")]
+  const types = [typed("1", "page", null), typed("2", ["domain", "page-type/page"])]
 
   expect([...resolveDescendantPageTypeIds(types, "1")].sort()).toEqual(["1", "2"])
 })
 
 test("a parent named by slug alone is read as one named with its page type is", () => {
-  const types = [typed("1", "page", null), typed("2", "domain", "page")]
+  const types = [typed("1", "page", null), typed("2", ["domain", "page"])]
 
   expect([...resolveDescendantPageTypeIds(types, "1")].sort()).toEqual(["1", "2"])
 })
 
 test("a page type naming two parents descends from each of them", () => {
   const types = [
-    typed("1", "module", "page-type/domain"),
-    typed("2", "page-property", "page-type/page"),
+    typed("1", "module", ["page-type/domain"]),
+    typed("2", "page-property", ["page-type/page"]),
     typed("3", "computed-property", ["page-type/module", "page-type/page-property"]),
   ]
 
@@ -51,15 +47,15 @@ test("the parent a page type reaches nothing through is left out of the answer",
 test("a ring among page types is answered rather than followed round", () => {
   const types = [
     typed("1", "target", null),
-    typed("2", "a", "page-type/b"),
-    typed("3", "b", "page-type/a"),
+    typed("2", "a", ["page-type/b"]),
+    typed("3", "b", ["page-type/a"]),
   ]
 
   expect([...resolveDescendantPageTypeIds(types, "1")]).toEqual(["1"])
 })
 
 test("a page type naming a parent no page type here holds descends from nothing", () => {
-  const types = [typed("1", "target", null), typed("2", "orphan", "page-type/gone")]
+  const types = [typed("1", "target", null), typed("2", ["orphan", "page-type/gone"])]
 
   expect([...resolveDescendantPageTypeIds(types, "1")]).toEqual(["1"])
 })
