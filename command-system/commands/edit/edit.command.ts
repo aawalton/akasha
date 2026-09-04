@@ -14,7 +14,7 @@ export const edit = {
     { said: "--file-path <path>", takes: "the file to change, anywhere in the repository" },
     { said: "--old-file <file>", takes: "a file holding the passage to replace" },
     { said: "--new-file <file>", takes: "a file holding what that passage becomes" },
-    { said: "--remove <path>", takes: "a path under `akasha/` to take away" },
+    { said: "--remove <path>", takes: "a path in the repository to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
@@ -28,10 +28,7 @@ export const edit = {
     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
     "the marker blocks repeat, and each is worked in the order stated.",
     "the files standing beside a path given to --remove go with it.",
-    "a path outside `akasha/` is changed too, and no check judges one, which the answer says.",
-    "a path outside `akasha/` is warranted by nothing, so no reading of it is owed.",
     "a file has to be what this call read it as, wherever in the repository that file is.",
-    "--remove takes a path under `akasha/` alone — say `akasha remove` for one outside it.",
     "--draft gates the change as a landing does, then keeps it in the patch beside this agent's page.",
   ],
   invariants: [
@@ -107,24 +104,11 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement: "No check judges a path outside the `akasha` folder.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path no check judged is named in the answer.",
     },
     {
       invariantKind: "departure",
       statement: "A substitution naming no passage is refused wherever the path is.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A path outside the `akasha` folder is warranted by nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A path outside the `akasha` folder is overwritten only from the body the writer read.",
     },
     {
       invariantKind: "departure",
