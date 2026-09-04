@@ -43,6 +43,11 @@ export const athenaCommandsAtTheRoot = {
       workingMemory:
         "18 ops commands sit under `command-system/ops-commands/pages`, 8 seat and 7 tracking among them, plus claude-account-sync-aliases, exercise-digest, mobile-widget-emit and page-unlanded. Alan ruled these do not go to the root: they are reviewed and many removed, and only akasha commands sit at the root. `command-system/ops-calling` is a second dispatcher, `block-ops-cli` bars an agent from calling one, and `seat-system/seat-fleet-restart` calls one.",
     },
+    {
+      statement: "Nothing names a command by its path.",
+      workingMemory:
+        "Every hazard in carrying 42 commands to the root was a path spelling. The mover repoints what contains a path: `ROOTED_AT` in calling, two `COMMAND_AT` in editor-extension, a dynamic import in command-server, `CODE_AT` and `PAGE_AT` in index.command.test.ts. It cannot repoint arithmetic, which never spells a path: `import.meta.dir` with `../../..` broke compose-notices, read and move, and ios-app passed 12 tests with a root above the checkout.",
+    },
   ],
   constraints: [
     "Nothing under `checks/` changes here. Alan holds checks and check tests.",
