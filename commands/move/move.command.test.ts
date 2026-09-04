@@ -291,7 +291,7 @@ test("a dry run names the pairs it would carry, sidecars and all", async () => {
   expect(report).toContain("stand beside what you named and would go with it")
   expect(report).toContain(`${HOLDER} to ${DEEPER}`)
   expect(report).toContain(`${SIDE} to ${SIDE_AT}`)
-  expect(report).toContain("none were repointed")
+  expect(report).toContain("no file naming what moved needed repointing")
 })
 
 test("a dry run over a move the checks refuse reports it and carries nothing", async () => {

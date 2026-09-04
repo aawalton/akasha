@@ -125,6 +125,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
     join(root, ".git/info/exclude"),
     "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n"
   )
+  rebuiltIn(root, TREE)
   admitting(root)
   return root
 }
