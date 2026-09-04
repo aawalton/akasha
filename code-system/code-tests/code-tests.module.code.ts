@@ -11,7 +11,7 @@ import {
   symlinkSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, isAbsolute, join, relative, sep } from "node:path"
+import { dirname, isAbsolute, join, relative } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { filedInto } from "@akasha/indexes/indexing"
 import type { Filing } from "@akasha/indexes/shape"
@@ -49,8 +49,6 @@ const MODULES = "node_modules"
 const SCOPE = "@"
 
 const OUT = ".."
-
-const JUDGED = "akasha"
 
 const MANIFEST = "package.json"
 
@@ -164,7 +162,7 @@ export function verdictOf(code: number, output: string, expected: number): Verdi
 function withinOf(real: string, at: string): string | null {
   const inside = relative(real, realpathSync(at))
   if (inside.startsWith(OUT) || isAbsolute(inside)) return null
-  return inside === "" || inside.split(sep)[0] === JUDGED ? inside : null
+  return inside
 }
 
 function linkedInto(
