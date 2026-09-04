@@ -48,6 +48,11 @@ test("a file that spells no day and takes no verb is not a finding", () => {
 // composed its own `daily-tracking` query. Nothing in the file spelled a day. It was found by
 // hand. The import lines below are the ones it carried before it was repaired, and the export map
 // is the one `akasha/readout-system/package.json` really states.
+// The file itself was carried into akasha on 2026-09-03 and now lives at
+// `akasha/alan/harness/surplus/reading/surplus-reading.module.code.ts`, so the path keyed below
+// names no file on disk. It stays spelled the old way on purpose: `NOT_WEIGHED_TREES` holds
+// `akasha` out of the population, so a fixture keyed on the carried path would assert a finding
+// `filesUnder` can never produce, and the last test in this file exists to deny exactly that.
 const PRE_REPAIR_SURPLUS_READING = `import { getEsoDayStr } from "@akasha/day/eso-day"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { fetchSurplusHours } from "@akasha/readout-system/upkeep-surplus"
