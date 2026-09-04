@@ -46,7 +46,7 @@ export const HELP: CommandHelp = {
   examples: [
     "ops seat reset athena-worker",
     "ops seat reset 019ec7c0 --json",
-    "ops seat reset agent-harness-worker --start-mode headless",
+    "ops seat reset akasha-worker --start-mode headless",
     "ops seat reset '#12832' --force",
   ],
 }

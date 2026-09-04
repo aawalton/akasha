@@ -108,7 +108,7 @@ export const HELP: CommandHelp = {
   examples: [
     "ops seat start --persona athena --principal alan",
     "ops seat start --start-mode headless --domain page-query-language --role worker --prompt 'carry the page-query-language initiative'",
-    "ops seat start --start-mode headless --domain agent-harness --role worker --flex flex-1 --prompt-file ./prompt.txt",
+    "ops seat start --start-mode headless --domain akasha --role worker --flex flex-1 --prompt-file ./prompt.txt",
     "ops seat start --start-mode headless --domain game-design --role game-master --prompt-file ./prompt.txt --anthropic-base-url http://100.64.0.2:11434/ --model hf.co/TheDrummer/Cydonia-24B-v4.3-GGUF:Q5_K_M --anthropic-auth-token ollama",
   ],
 }
