@@ -9,4 +9,5 @@ export const manifest = {
   propertySlug: "manifest",
   definition: "what a package states about itself",
   fileName: "package.json",
+  runsFileLength: false,
 } as const satisfies NamedFileProperty
