@@ -6,6 +6,7 @@ import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
 import type { NextSeq } from "./properties/next-seq.number-property.ts"
+import type { OwnerSlug } from "./properties/owner-slug.relation-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
 import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
 import type { Sequence } from "./properties/sequence.record-property.ts"
@@ -20,6 +21,7 @@ export type PageType = Domain & {
   mediaConfig?: MediaConfig
   sequence?: Sequence
   nextSeq?: NextSeq
+  ownerSlug?: OwnerSlug
   runsTabooCheck?: RunsTabooCheck
 }
 
@@ -58,6 +60,7 @@ export const pageType = {
     "relation-property/child-type",
     "relation-property/extends-slug",
     "relation-property/loaded-by-slug",
+    "relation-property/owner-slug",
     "relation-property/page-property-slug",
     "text-property/body-property-id",
     "text-property/child-relation",
@@ -86,6 +89,7 @@ export const pageType = {
     { pagePropertySlug: "sequence", required: false, many: false },
     { pagePropertySlug: "runs-taboo-check", required: false, many: false },
     { pagePropertySlug: "next-seq", required: false, many: false },
+    { pagePropertySlug: "owner-slug", required: false, many: false },
   ],
   invariants: [
     {
