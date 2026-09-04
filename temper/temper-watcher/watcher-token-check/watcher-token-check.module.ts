@@ -33,5 +33,21 @@ export const watcherTokenCheck = {
       invariantKind: "departure",
       statement: "A bookkeeping write that fails does not decide authentication.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "Every key this module selects is a key the enrolment's page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property that is uncommitted or secret counts as declared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The keys a page type declares are gathered by walking what it extends.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An empty answer from the page types is a broken instrument.",
+    },
   ],
 } as const satisfies Module

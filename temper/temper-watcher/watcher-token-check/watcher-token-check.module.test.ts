@@ -145,26 +145,18 @@ describe("validateWatcherToken grants access", () => {
 })
 
 describe("the keys this module selects are keys the page type declares", () => {
-  // The defect this guards was `select: [..., "accountUserId"]` against a page
-  // type that declares no such property: the read came back undefined, the guard
-  // turned every caller away, and nothing said so. `propertiesOf` walks the
-  // `extendsSlug` chain and reads the `properties:` arrays, so a property that is
-  // uncommitted or secret — absent from the page type's `export type` alias —
-  // still counts as declared.
   const declared = new Set(
-    shadowAt(join(import.meta.dir, "..", "..", "..", ".."))
+    shadowAt(join(import.meta.dir, "..", "..", ".."))
       .index.propertiesOf(TEMPER_WATCHER_ENROLMENT_SLUG)
       .map((one) => one.key)
   )
 
   test("the instrument is alive: the page type declares the properties it is known to", () => {
-    // A dead instrument answers an empty set, and every check below would then
-    // pass vacuously. These are read off the page type's own `properties:` array.
     expect(declared.has("tokenHash")).toBe(true)
-    expect(declared.has("token")).toBe(true) // secret, so absent from the alias
-    expect(declared.has("tokenLastUsedAt")).toBe(true) // uncommitted, likewise
-    expect(declared.has("title")).toBe(true) // inherited from temper-thing
-    expect(declared.has("id")).toBe(true) // inherited from page
+    expect(declared.has("token")).toBe(true)
+    expect(declared.has("tokenLastUsedAt")).toBe(true)
+    expect(declared.has("title")).toBe(true)
+    expect(declared.has("id")).toBe(true)
   })
 
   test("every selected key is declared", () => {
