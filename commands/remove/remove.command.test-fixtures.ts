@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { lstatSync, mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { admitting } from "@akasha/testing-system/minting"
@@ -35,6 +35,23 @@ export function emptyIn(root: string, path: string): undefined {
 export function looseIn(root: string, path: string): undefined {
   emptyIn(root, path)
   writeFileSync(join(root, path, "stray.txt"), BODY)
+}
+
+export function linkIn(root: string, path: string, to: string): undefined {
+  const at = join(root, path)
+  mkdirSync(join(at, ".."), { recursive: true })
+  symlinkSync(to, at)
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "a link is there"])
+}
+
+export function linkThere(root: string, path: string): boolean {
+  try {
+    lstatSync(join(root, path))
+    return true
+  } catch {
+    return false
+  }
 }
 
 export async function removing(root: string, argv: readonly string[]): Promise<Answer> {
@@ -119,6 +136,10 @@ export function fileIn(root: string, path: string): string {
 export const AGENT = "01a04bed-1461-7364-8579-6799d5aa8ea0"
 
 export const GONE = "akasha/one/nowhere.ts"
+
+export const DANGLING = "akasha/one/dangling.txt"
+
+export const REACHING = "akasha/one/reaching.txt"
 
 export const REFUSED_ENDS = "--file-path takes a path, and none follows it"
 

@@ -9,6 +9,7 @@ import {
   AGENT,
   BESIDE,
   BODY,
+  DANGLING,
   DEEP,
   emptyIn,
   fileIn,
@@ -20,6 +21,8 @@ import {
   head,
   KEPT,
   KEPT_WAY,
+  linkIn,
+  linkThere,
   looseIn,
   MANIFEST,
   MOVED_MANIFEST,
@@ -29,6 +32,7 @@ import {
   OUTSIDE,
   PACKAGE_WITH_WAYS,
   PACKAGE_WITHOUT_GONE,
+  REACHING,
   REFUSED_ENDS,
   REFUSED_FLAGGED,
   REFUSED_UNKNOWN,
@@ -89,6 +93,28 @@ test("naming a path already gone forgets its reading and commits nothing", async
   expect(readingIn(root, AGENT, GONE)).toBeNull()
   expect(there(root, HELD)).toBe(true)
   expect(head(root)).toBe(was)
+})
+
+test("a link reaching nothing is taken away rather than answered as already gone", async () => {
+  const root = repoWith({ [HELD]: BODY })
+  linkIn(root, DANGLING, "nowhere.txt")
+  const said = await removing(root, naming(DANGLING))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(reportOf(said)).toContain(`${DANGLING} taken away`)
+  expect(reportOf(said)).not.toContain("was already gone")
+  expect(linkThere(root, DANGLING)).toBe(false)
+})
+
+test("a link is taken away and the file that link reached is left as it is", async () => {
+  const root = repoWith({ [HELD]: BODY })
+  linkIn(root, REACHING, "held.module.ts")
+  const said = await removing(root, naming(REACHING))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(reportOf(said)).toContain(`${REACHING} taken away`)
+  expect(linkThere(root, REACHING)).toBe(false)
+  expect(there(root, HELD)).toBe(true)
 })
 
 test("a directory opens onto every tracked file under it", async () => {

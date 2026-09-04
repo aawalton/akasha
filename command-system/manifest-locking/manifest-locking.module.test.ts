@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, lstatSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
@@ -186,6 +186,54 @@ test("a lockfile the install makes again says the commit carries one its manifes
   const put = installedIn(root)
   expect(put.said).toEqual([])
   expect(put.wrong[0]).toContain(LOCK)
+})
+
+function linkThere(at: string): boolean {
+  try {
+    lstatSync(at)
+    return true
+  } catch {
+    return false
+  }
+}
+
+function strandedLink(root: string, path: string): string {
+  const at = join(root, MODULES, path)
+  mkdirSync(join(at, ".."), { recursive: true })
+  symlinkSync(join(root, "held", "nowhere"), at)
+  return at
+}
+
+test("an install takes away a link under node_modules reaching a folder no manifest names", () => {
+  const root = world(true)
+  const scoped = strandedLink(root, "@held/stranded")
+  const flat = strandedLink(root, "stranded")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(scoped)).toBe(false)
+  expect(linkThere(flat)).toBe(false)
+  expect(put.said.join("\n")).toContain("@held/stranded, stranded")
+})
+
+test("an install leaves a link under node_modules reaching a folder that is there", () => {
+  const root = world(true)
+  const link = join(root, MODULES, "@held", "one")
+  expect(existsSync(link)).toBe(true)
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(link)).toBe(true)
+  expect(put.said.join("\n")).not.toContain("reached a folder no")
+})
+
+test("an install leaves a folder under node_modules that is no link", () => {
+  const root = world(true)
+  const flat = join(root, MODULES, "real")
+  const scoped = join(root, MODULES, "@held", "real")
+  for (const one of [flat, scoped]) mkdirSync(one, { recursive: true })
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(existsSync(flat)).toBe(true)
+  expect(existsSync(scoped)).toBe(true)
 })
 
 test("a manifest going takes the lockfile with it, as one arriving does", () => {
