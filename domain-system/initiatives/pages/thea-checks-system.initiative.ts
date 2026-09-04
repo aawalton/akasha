@@ -15,5 +15,11 @@ export const theaChecksSystem = {
     { statement: "The old system carries no check." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
     { statement: "No gap invariant is written on checks-system or any part beneath it." },
+    {
+      statement: "Every check is clean.",
+      workingMemory:
+        "Six steps for each check: 1 the failure category the check prevents, 2 the file set the check covers, 3 the cost of a full-repo run, 4 whether a patch run does only the minimum, 5 the cost of the limited run, 6 whether the check is green. The order is alphabetical over `akasha audit --check`, 44 checks in all. Cursor: declarations-agree is closed, and the next check is domain-is-named-by-a-parent, at step 1.",
+    },
   ],
+  constraints: ["Each check takes one turn per step, and no turn carries two steps."],
 } as const satisfies Initiative
