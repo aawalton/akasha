@@ -12,13 +12,19 @@ export const ANSWER_CEILING = 28000
 
 const CHECK = "--check"
 
+const FILE_PATH = "--file-path"
+
 const AUDIT = "audit"
 
 const NOTHING_RUNS =
   "no check runs at audit, so nothing would judge the folder and a clean answer would mean nothing"
 
+const NOTHING_TAKES =
+  "no check takes a file named as input, so nothing judged it and a clean answer would mean nothing"
+
 export type Meant = {
   readonly only: readonly string[]
+  readonly paths: readonly string[]
   readonly refusal: string | null
 }
 
@@ -27,25 +33,41 @@ export type Narrowed = {
   readonly refusals: readonly string[]
 }
 
+export type Over = {
+  readonly change: Change
+  readonly refusals: readonly string[]
+}
+
+function heldFor(one: string, only: string[], paths: string[]): string[] | null {
+  if (one === CHECK) return only
+  if (one === FILE_PATH) return paths
+  return null
+}
+
 export function meaning(argv: readonly string[]): Meant {
-  const refused = (said: string): Meant => ({ only: [], refusal: said })
+  const refused = (said: string): Meant => ({ only: [], paths: [], refusal: said })
   const only: string[] = []
+  const paths: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at] ?? ""
-    if (one === CHECK) {
-      const value = argv[at + 1]
-      if (value === undefined) return refused(`${CHECK} names a check, and nothing followed it`)
-      if (only.includes(value)) return refused(`\`${value}\` is named more than once`)
-      only.push(value)
-      at += 1
-      continue
+    const held = heldFor(one, only, paths)
+    if (held === null) {
+      return refused(
+        `\`${one}\` is not an argument this takes — \`${CHECK} <slug>\` narrows which checks ` +
+          `run and \`${FILE_PATH} <path>\` narrows which files they see`
+      )
     }
-    return refused(
-      `\`${one}\` is not an argument this takes — an audit judges every file the index names, ` +
-        `and only \`${CHECK} <slug>\` narrows which checks see them`
-    )
+    const value = argv[at + 1]
+    if (value === undefined) {
+      return refused(
+        `${one} names ${one === CHECK ? "a check" : "a path"}, and nothing followed it`
+      )
+    }
+    if (held.includes(value)) return refused(`\`${value}\` is named more than once`)
+    held.push(value)
+    at += 1
   }
-  return { only, refusal: null }
+  return { only, paths, refusal: null }
 }
 
 export function narrowedTo(
@@ -71,9 +93,42 @@ export function narrowedTo(
   return { checks, refusals }
 }
 
+export function underOf(named: readonly string[], one: string): readonly string[] {
+  const held = one.endsWith("/") ? one.slice(0, -1) : one
+  if (named.includes(held)) return [held]
+  return named.filter((two) => two.startsWith(`${held}/`))
+}
+
+export function narrowedOver(change: Change, paths: readonly string[]): Over {
+  if (paths.length === 0) return { change, refusals: [] }
+  const refusals: string[] = []
+  const held = new Set<string>()
+  for (const one of paths) {
+    const found = underOf(change.changed, one)
+    if (found.length === 0) {
+      refusals.push(
+        `\`${one}\` is no file the index names, and no folder holding a file the index names`
+      )
+      continue
+    }
+    for (const two of found) held.add(two)
+  }
+  return { change: { ...change, changed: [...held].sort() }, refusals }
+}
+
 export function leftOutOf(atAudit: readonly Gathered[], ran: readonly Gathered[]): number {
   const slugs = new Set(ran.map((one) => one.slug))
   return atAudit.filter((one) => !slugs.has(one.slug)).length
+}
+
+export function notAnAuditIn(leftOut: number, judged: number, named: number): readonly string[] {
+  const said: string[] = []
+  if (leftOut > 0) said.push(`the ${counted(leftOut, "check")} it left out judged nothing`)
+  if (judged < named) {
+    said.push(`it judged ${counted(judged, "file")} of the ${named} the index names`)
+  }
+  if (said.length === 0) return []
+  return [`this is not an audit — ${said.join(", and ")}`]
 }
 
 export function heldTo(said: readonly string[], ceiling: number): readonly string[] {
@@ -93,20 +148,19 @@ export function heldTo(said: readonly string[], ceiling: number): readonly strin
   return held
 }
 
-export function judgedOver(judging: Judging, change: Change, leftOut: number): Answer {
+export function judgedOver(judging: Judging, change: Change, also: readonly string[]): Answer {
   if (judging.named.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
+  let takenBy: readonly string[]
   let said: readonly Judged[]
   try {
+    takenBy = judging.checksFor(change)
     said = judging.over(change)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
-  const woke = judging.checksFor(change).length
-  const over = `${counted(woke, "check")} judged ${counted(change.changed.length, "file")}`
-  const also =
-    leftOut > 0
-      ? [`this is not an audit — the ${counted(leftOut, "check")} it left out judged nothing`]
-      : []
+  if (takenBy.length === 0) return { report: [], refusals: [NOTHING_TAKES], code: 3 }
+  const held = counted(takenBy.length, "check")
+  const over = `${held} judged ${counted(change.changed.length, "file")}`
   if (said.length === 0) {
     return { report: [`${over}, and none refused`, ...also], refusals: [], code: 0 }
   }
@@ -137,6 +191,13 @@ export function audit(argv: readonly string[], given: Given): Answer {
   }
   const atAudit = checksAt(every, AUDIT)
   const narrowed = narrowedTo(every, atAudit, meant.only)
-  if (narrowed.refusals.length > 0) return { report: [], refusals: [...narrowed.refusals], code: 1 }
-  return judgedOver(judgingBy(narrowed.checks), change, leftOutOf(atAudit, narrowed.checks))
+  const over = narrowedOver(change, meant.paths)
+  const refusals = [...narrowed.refusals, ...over.refusals]
+  if (refusals.length > 0) return { report: [], refusals, code: 1 }
+  const also = notAnAuditIn(
+    leftOutOf(atAudit, narrowed.checks),
+    over.change.changed.length,
+    change.changed.length
+  )
+  return judgedOver(judgingBy(narrowed.checks), over.change, also)
 }

@@ -10,13 +10,20 @@ export const audit = {
   changeKindSlug: "change-none",
   taking: [
     { said: "--check <slug>", takes: "a check to run on its own even where it runs at no audit" },
+    {
+      said: "--file-path <path>",
+      takes: "a file or folder the checks judge in place of every file the index names",
+    },
   ],
   helpNotes: [
-    "--check repeats, so several checks run in one call.",
+    "--check and --file-path each repeat, so several checks and several paths narrow one call.",
     "named nothing, every check that runs at audit judges every file the index names.",
-    "--check narrows which checks run and never which files they see, and a run it narrows says in its answer that it is not an audit.",
+    "--check narrows which checks run and --file-path narrows which files those checks see, and a narrowed run says in its answer that the run is not an audit.",
+    "a folder named by --file-path means every file the index names under that folder.",
+    "a run where no named file is a check's input is refused rather than answered clean.",
+    "a run narrowed by --file-path says nothing about the files that run did not judge.",
     "it writes nothing, and holds nothing still while it runs.",
-    "one run peaks near 17 GB for about fifteen minutes, and --check narrows checks rather than files, so a narrowed run costs what a whole one costs.",
+    "one whole run peaks near 17 GB for about fifteen minutes, and a run narrowed by --check alone costs what a whole run costs.",
     "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
   ],
   invariants: [
@@ -26,11 +33,11 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement: "No argument narrows which files an audit sees.",
+      statement: "A run narrowed to named checks says in its answer that the run is not an audit.",
     },
     {
       invariantKind: "departure",
-      statement: "A run narrowed to named checks says in its answer that the run is not an audit.",
+      statement: "A run narrowed to named files says in its answer that the run is not an audit.",
     },
     {
       invariantKind: "departure",
@@ -43,6 +50,19 @@ export const audit = {
     {
       invariantKind: "departure",
       statement: "A slug naming no check is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path naming no file the index names and no folder holding a file the index names is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder named means every file the index names under that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run no check takes input from is refused rather than answered clean.",
     },
     {
       invariantKind: "departure",
