@@ -1,0 +1,26 @@
+diff --git a/seat-system/messages-agent-tools/messages-agent-tools.module.code.ts b/seat-system/messages-agent-tools/messages-agent-tools.module.code.ts
+index c4b48546b37b97110c9ab1ad361071b189b01789..fd9d9c6edd1d8eac949c6c82b8ca7564fda7ece2 100644
+--- a/seat-system/messages-agent-tools/messages-agent-tools.module.code.ts
++++ b/seat-system/messages-agent-tools/messages-agent-tools.module.code.ts
+@@ -93,7 +93,7 @@ export async function startChannelListener(
+ 
+   const witness = startDeliveryWitness({
+     agentId,
+-    advance: async (messageId) => takeMessage(to, messageId).kind !== "refused",
++    advance: async (messageId) => (await takeMessage(to, messageId)).kind !== "refused",
+     currentTranscriptPath: (id) => transcriptOf(id)?.value ?? null,
+     heartbeatMs: WITNESS_HEARTBEAT_MS,
+   })
+diff --git a/seat-system/seat-inbox/seat-inbox.module.code.ts b/seat-system/seat-inbox/seat-inbox.module.code.ts
+index 26d1f0a896b3a09e1fa39207df382521f44309bf..364ed637e6ff0c78cb1d1cd09c3c2ecba7731b10 100644
+--- a/seat-system/seat-inbox/seat-inbox.module.code.ts
++++ b/seat-system/seat-inbox/seat-inbox.module.code.ts
+@@ -84,7 +84,7 @@ export default async function agentInbox(args: readonly string[]): Promise<void>
+   if (!peek) {
+     for (const message of listed) {
+       if (message.claimedAtMs !== null && !all) continue
+-      const taken = takeMessage(to, message.id)
++      const taken = await takeMessage(to, message.id)
+       if (taken.kind === "refused") {
+         process.stderr.write(`${message.id} stands: ${taken.detail}\n`)
+       }
