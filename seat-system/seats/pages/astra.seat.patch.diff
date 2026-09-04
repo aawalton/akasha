@@ -1,0 +1,12 @@
+diff --git a/pages/one-of-properties/one-of-property.page-type.ts b/pages/one-of-properties/one-of-property.page-type.ts
+index 760a8b2c9276d460422fbad4bbf680884721f544..a9b9f4434b696eb7e7c6bc78bcb8f2f83a6690e5 100644
+--- a/pages/one-of-properties/one-of-property.page-type.ts
++++ b/pages/one-of-properties/one-of-property.page-type.ts
+@@ -1,6 +1,6 @@
+-import type { MemberSlugs } from "../page-properties/properties/member-slugs.relation-property.ts"
+ import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
+ import type { PageType } from "../page-types/page-type.page-type.ts"
++import type { MemberSlugs } from "./properties/member-slugs.relation-property.ts"
+ 
+ export type OneOfProperty = PageProperty & {
+   memberSlugs: MemberSlugs
