@@ -3,7 +3,7 @@ import { agentPathOf } from "@akasha/context-system/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt as textIn, valueAt } from "@akasha/pages-system/page-value"
-import { applied } from "../../applying/applying.module.code.ts"
+import { applied } from "../../command-system/applying/applying.module.code.ts"
 import {
   BREAK_GLASS,
   bypassedIn,
@@ -12,21 +12,8 @@ import {
   mistaking,
   textAt,
   textOf,
-} from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import {
-  DROPPED,
-  droppedPatch,
-  rebasedOnto,
-  resolved,
-} from "../../drafting/drafting.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
-import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
-import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
-import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
-import type { Piping } from "../../piping/piping.module.code.ts"
-import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
+} from "../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import {
   CONTENT_FILE,
   FILE_PATH,
@@ -38,7 +25,30 @@ import {
   pathAt,
   unknownIn,
   valuesOf,
-} from "../write/write.command.code.ts"
+} from "../../command-system/commands/write/write.command.code.ts"
+import {
+  DROPPED,
+  droppedPatch,
+  rebasedOnto,
+  resolved,
+} from "../../command-system/drafting/drafting.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
+import { gateBuilt, NO_GATE } from "../../command-system/gate-building/gate-building.module.code.ts"
+import { baseOf, changeOf } from "../../command-system/landing/landing.module.code.ts"
+import { formattedSaid } from "../../command-system/landing-saying/landing-saying.module.code.ts"
+import {
+  added,
+  type Blobs,
+  blobsIn,
+  deleted,
+} from "../../command-system/patching/patching.module.code.ts"
+import type { Piping } from "../../command-system/piping/piping.module.code.ts"
+import {
+  inputIn,
+  markingIn,
+  pipedIn,
+  RUNS_SAID,
+} from "../../command-system/piping/piping.module.code.ts"
 
 export const APPLY = "apply"
 

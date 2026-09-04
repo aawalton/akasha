@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const patch = {
   id: "01a06455-7c20-7b41-8e93-2f5a7d0c1e84",
