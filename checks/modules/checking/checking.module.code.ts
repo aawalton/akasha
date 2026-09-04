@@ -216,11 +216,19 @@ export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
       const shadow = shadowAsked(change)
       const said: Judged[] = []
       for (const one of checksFor(left, change, shadow)) {
+        const before = taken()
+        const found: Judged[] = []
         try {
-          said.push(...(await one.run(change, shadow)))
+          found.push(...(await one.run(change, shadow)))
         } catch (thrown) {
-          said.push(threw(one, thrown))
+          found.push(threw(one, thrown))
         }
+        recordCost(
+          one.root,
+          one.page,
+          costOf(before, taken(), phase, one.slug, change.changed.length, found.length)
+        )
+        said.push(...found)
       }
       return said
     },
