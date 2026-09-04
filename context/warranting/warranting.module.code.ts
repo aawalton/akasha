@@ -27,8 +27,7 @@ const READ_CALL = "akasha read --file-path"
 const REACH = [
   "LET THE OUTPUT REACH YOU. A read is refused and records nothing where its output goes to a",
   "pipe, to /dev/null, or into a file this redirect alone opened, because what the record says",
-  "is that the body reached you. Sending stderr to that same file is read and recorded, so",
-  "`> out.txt 2>&1` counts as read whether or not you open out.txt.",
+  "is that the body reached you.",
   "ONE ANSWER HOLDS 28000 BYTES and breaks no file partway, so a call naming more than it can",
   "answer comes back with an opening run of the files, names the rest as left unread, and exits 0",
   "either way. Only what came back is recorded, so go by what this refusal still asks for rather",
