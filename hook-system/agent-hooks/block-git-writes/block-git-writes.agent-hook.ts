@@ -12,12 +12,7 @@ export const blockGitWrites = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A git write is refused unless the call names its paths and every path sits outside `akasha/`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Only the paths after `--` bound a call.",
+      statement: "A git write is refused unless the call carries a flag that writes nothing.",
     },
     {
       invariantKind: "departure",
@@ -26,16 +21,19 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A refusal names the bounded form of the call for a write that reaches no akasha path.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An akasha command stands aside here and commits for itself.",
     },
     {
       invariantKind: "departure",
       statement: "A prefix that only runs the call behind it does not hide a git write from this.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No pathspec on the line lets a git write through.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A refusal prescribes no bounded form of the call it refused.",
     },
     {
       invariantKind: "absence",
@@ -60,6 +58,11 @@ export const blockGitWrites = {
     {
       invariantKind: "absence",
       statement: "`block-destructive-git` refuses every form of `restore`.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The repository root is the akasha folder, so every path it tracks is akasha content.",
     },
     {
       invariantKind: "constraint",

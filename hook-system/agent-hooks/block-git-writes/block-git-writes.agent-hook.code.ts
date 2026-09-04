@@ -6,17 +6,14 @@ import { RUNS_ANOTHER } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-git-writes"
 
-const PATHS = "--"
-
-const INSIDE = "akasha"
-
-const UNBOUNDED: readonly string[] = [".", "..", "./", "/", "*"]
-
 const COMMANDS = [
   "Land akasha content with the akasha commands, which commit for themselves:",
   "  akasha write, akasha edit, akasha move, akasha remove",
   "Say `akasha --help` for what each takes.",
 ]
+
+const EVERY_PATH =
+  "Every path this repository tracks is akasha content, so no pathspec bounds a call."
 
 const OVER_ACTS = new Map<string, readonly string[]>([
   [
@@ -25,41 +22,36 @@ const OVER_ACTS = new Map<string, readonly string[]>([
       "`git commit` writes tracked content into a commit.",
       "A commit carrying akasha content leaves the akasha index behind HEAD, and every agent",
       "here loses the gate until someone puts it back.",
+      EVERY_PATH,
       "",
       ...COMMANDS,
-      "",
-      "For a commit reaching nothing under `akasha/`, name its paths after `--`:",
-      `  git commit -m "<why>" ${PATHS} <path> <path>`,
     ],
   ],
   [
     "add",
     [
       "`git add` writes tracked content into the index, and the next commit carries it.",
+      EVERY_PATH,
       "",
       ...COMMANDS,
-      "",
-      "To stage paths reaching nothing under `akasha/`, name them after `--`:",
-      `  git add ${PATHS} <path> <path>`,
     ],
   ],
   [
     "mv",
     [
       "`git mv` moves a tracked file and stages the move.",
+      EVERY_PATH,
       "",
       "To move an akasha file, use `akasha move`.",
       "Say `akasha --help` for what it takes.",
-      "",
-      "To move paths reaching nothing under `akasha/`, name them after `--`:",
-      `  git mv ${PATHS} <from> <to>`,
     ],
   ],
   [
     "apply",
     [
       "`git apply` writes whatever the patch names.",
-      "A patch names its paths inside itself, which this hook does not read, so no `--` bounds it.",
+      "A patch names its paths inside itself, which this hook does not read, and every path it",
+      "could name is akasha content.",
       "",
       ...COMMANDS,
       "",
@@ -70,14 +62,13 @@ const OVER_ACTS = new Map<string, readonly string[]>([
     "am",
     [
       "`git am` applies a patch and commits it.",
-      "A patch names its paths inside itself, which this hook does not read, so no `--` bounds it.",
+      "A patch names its paths inside itself, which this hook does not read, and every path it",
+      "could name is akasha content.",
       "",
       ...COMMANDS,
     ],
   ],
 ])
-
-const BOUNDABLE: readonly string[] = ["commit", "add", "mv"]
 
 const READ_ONLY = new Map<string, readonly string[]>([
   ["commit", []],
@@ -89,15 +80,15 @@ const READ_ONLY = new Map<string, readonly string[]>([
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses five git acts: commit, add, mv, apply, am.`,
-  "A call is let through only when it names paths after `--` and every one of them stands",
-  "outside the akasha folder, or when it carries a flag that writes nothing.",
+  "A call is let through only when it carries a flag that writes nothing.",
   "",
   "WHERE THE RULE COMES FROM: what a git write reaches is not on the command line.",
   "`git commit` with no pathspec commits what is staged, and what is staged is in the index.",
-  "So the line has to prove the call cannot reach akasha, and the only proof a line carries",
-  "is an explicit pathspec. Everything else is refused.",
+  "So the line has to prove the call cannot reach akasha, and no line can. This repository's",
+  "root is the akasha folder, so every path it tracks is akasha content and a pathspec naming",
+  "one names akasha content too. There is nothing left for a pathspec to prove.",
   "`apply` and `am` name a patch file, and the paths a patch writes are inside the patch.",
-  "This does not read the patch, so those two are never bounded.",
+  "This does not read the patch, and refuses the call either way.",
   "",
   "READS LET THROUGH, measured against this hook:",
   "  add --dry-run, mv --dry-run",
@@ -121,15 +112,11 @@ export const SCOPE: readonly string[] = [
   "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  every writer that is not git — `cp`, `mv`, a redirect, `sed -i`, an editor, a test",
   "",
-  "WHAT `--` DOES AND DOES NOT PROVE:",
-  "  It bounds a call by the paths it names, never by where the call runs.",
-  `  \`git -C /elsewhere commit ${PATHS} one.ts\` is let through, and \`/elsewhere\` is not read.`,
+  "WHERE THE CALL RUNS IS NEVER READ:",
+  "  An act is judged by the act it is, never by the paths behind it or the place it runs in.",
+  "  `git -C /elsewhere commit` is refused, and `/elsewhere` is not read.",
   "  A call in another repository is refused the same as one here, and `-C` is read only far",
-  "    enough to find the act behind it.",
-  "  A path is judged by its own words. A segment `akasha` means inside.",
-  "  `../akasha/one.ts` and `.` and `*` and a pathspec magic word are read as unbounded.",
-  "  An absolute path into this repository carries an `akasha` segment for the repository's",
-  "    own directory, so it reads as inside and is refused. That is over-refusal, not a gap.",
+  "    enough to find the act behind it. That is over-refusal, not a gap.",
   "",
   "A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER, with its own flags, the value a",
   "flag of its own takes, and the number it takes of its own:",
@@ -145,8 +132,8 @@ export const SCOPE: readonly string[] = [
   "  block-destructive-git refuses every form of all three, at every path, so naming them",
   "  again would add no refused call — only a second reason for a call already refused, and a",
   "  second redirect for a reader to choose between.",
-  "  `git commit --amend` is refused here when it is unbounded, and by block-destructive-git",
-  "  always. Both refusals are true. Neither of them says the call is safe.",
+  "  `git commit --amend` is refused here, and by block-destructive-git as well.",
+  "  Both refusals are true. Neither of them says the call is safe.",
   "",
   "The absence of an act from this list is NOT a finding that it is safe. It is unexamined.",
   "Do not close a gap here by adding the act. A denylist over an open hazard family teaches",
@@ -158,29 +145,11 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-export function outsideAkasha(path: string): boolean {
-  if (path === "") return false
-  if (UNBOUNDED.includes(path)) return false
-  if (path.startsWith("..")) return false
-  if (path.startsWith(":")) return false
-  if (path.includes("*")) return false
-  return !path.split("/").includes(INSIDE)
-}
-
-export function bounded(rest: readonly string[]): boolean {
-  const at = rest.indexOf(PATHS)
-  if (at === -1) return false
-  const paths = rest.slice(at + 1)
-  if (paths.length === 0) return false
-  return paths.every(outsideAkasha)
-}
-
 export function refusalFor(call: GitCall): string | null {
   const over = OVER_ACTS.get(call.act)
   if (over === undefined) return null
   const reads = READ_ONLY.get(call.act) ?? []
   if (call.rest.some((word) => reads.includes(word))) return null
-  if (BOUNDABLE.includes(call.act) && bounded(call.rest)) return null
   return toldOf(HOOK, over)
 }
 

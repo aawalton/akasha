@@ -2,13 +2,7 @@ import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { ran } from "@akasha/utils-run/running"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
-import {
-  bounded,
-  outsideAkasha,
-  refusalFor,
-  refusalIn,
-  SCOPE,
-} from "./block-git-writes.agent-hook.code.ts"
+import { refusalFor, refusalIn, SCOPE } from "./block-git-writes.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 
@@ -33,30 +27,22 @@ test("every act it names is refused when the call names no paths", () => {
   }
 })
 
-test("a call bounded by paths outside the akasha folder is stood aside from", () => {
-  expect(refusalIn('git commit -m "one" -- tools/one.ts')).toBeNull()
-  expect(refusalIn("git add -- tools/one.ts tools/two.ts")).toBeNull()
-  expect(refusalIn("git mv -- tools/one.ts tools/two.ts")).toBeNull()
+test("a call naming its paths after `--` is refused too, whatever those paths are", () => {
+  expect(refusalIn('git commit -m "one" -- tools/one.ts')).not.toBeNull()
+  expect(refusalIn("git add -- tools/one.ts tools/two.ts")).not.toBeNull()
+  expect(refusalIn("git mv -- tools/one.ts tools/two.ts")).not.toBeNull()
 })
 
-test("a call bounded by a path inside the akasha folder is refused", () => {
-  expect(refusalIn('git commit -m "one" -- akasha/one.ts')).not.toBeNull()
-  expect(refusalIn("git add -- akasha")).not.toBeNull()
-  expect(refusalIn("git add -- tools/one.ts akasha/two.ts")).not.toBeNull()
-  expect(refusalIn("git mv -- akasha/one.ts akasha/two.ts")).not.toBeNull()
+test("a path that reads as outside this repository bounds nothing either", () => {
+  expect(refusalIn("git add -- /elsewhere/one.ts")).not.toBeNull()
+  expect(refusalIn("git commit -m one -- ../sibling/two.ts")).not.toBeNull()
+  expect(refusalIn("git -C /elsewhere commit -m one -- one.ts")).not.toBeNull()
 })
 
-test("a path is judged segment by segment, so a name merely containing akasha is outside", () => {
-  expect(outsideAkasha("tools/akasha-notes.ts")).toBe(true)
-  expect(outsideAkasha("akasha/one.ts")).toBe(false)
-  expect(outsideAkasha("akasha")).toBe(false)
-  expect(outsideAkasha("/repo/akasha/one.ts")).toBe(false)
-})
-
-test("a path that could climb or spread does not bound a call", () => {
-  for (const path of [".", "..", "./", "/", "*", "../akasha/one.ts", "tools/*", ":/", ":!akasha"]) {
-    expect(outsideAkasha(path)).toBe(false)
-  }
+test("a refusal says why no pathspec bounds a call here", () => {
+  expect(refusalIn("git add -- tools/one.ts")).toContain(
+    "Every path this repository tracks is akasha content"
+  )
 })
 
 test("a whole-tree pathspec after the separator does not let the call through", () => {
@@ -65,13 +51,12 @@ test("a whole-tree pathspec after the separator does not let the call through", 
   expect(refusalIn("git add -- '*'")).not.toBeNull()
 })
 
-test("paths before the separator do not bound a call, so a flag's value is never read as one", () => {
+test("paths before the separator do not let a call through either", () => {
   expect(refusalIn("git add tools/one.ts")).not.toBeNull()
   expect(refusalIn("git commit -m one tools/one.ts")).not.toBeNull()
 })
 
-test("a separator with nothing after it bounds nothing", () => {
-  expect(bounded(["--"])).toBe(false)
+test("a separator with nothing after it is refused", () => {
   expect(refusalIn("git add --")).not.toBeNull()
 })
 
@@ -81,7 +66,7 @@ test("a bare add of everything is refused", () => {
   expect(refusalIn("git add -u")).not.toBeNull()
 })
 
-test("a patch is never bounded, and the refusal says why", () => {
+test("a patch names its paths inside itself, and the refusal says so", () => {
   const said = refusalIn("git apply -- tools/one.patch") ?? ""
   expect(said).toContain("names its paths inside itself")
   expect(refusalIn("git am -- tools/one.patch")).not.toBeNull()
@@ -125,10 +110,13 @@ test("a move refusal names the move command and where to read its flags", () => 
   expect(said).toContain("Say `akasha --help` for what it takes.")
 })
 
-test("a refusal names the bounded form of the call for a write that reaches no akasha path", () => {
-  expect(refusalIn("git commit")).toContain('git commit -m "<why>" -- <path> <path>')
-  expect(refusalIn("git add .")).toContain("git add -- <path> <path>")
-  expect(refusalIn("git mv one two")).toContain("git mv -- <from> <to>")
+test("no refusal prescribes a form of the call this hook would refuse anyway", () => {
+  for (const command of ["git commit", "git add .", "git mv one two", "git apply one.patch"]) {
+    const said = refusalIn(command) ?? ""
+    expect(said).not.toContain("after `--`")
+    expect(said).not.toContain("-- <path>")
+    expect(said).not.toContain("-- <from>")
+  }
 })
 
 test("every refusal names the hook that made it", () => {
@@ -167,14 +155,15 @@ test("a prefix that only runs the call does not hide it", () => {
     "stdbuf -oL git apply one.patch",
     "time git am one.patch",
     "command git commit",
+    'timeout 900 git commit -m "one" -- tools/one.ts',
   ]) {
     expect(refusalIn(one)).not.toBeNull()
   }
 })
 
-test("a prefix around a bounded call is let through", () => {
-  expect(refusalIn('timeout 900 git commit -m "one" -- tools/one.ts')).toBeNull()
+test("a prefix around a read is let through", () => {
   expect(refusalIn("timeout 900 git status")).toBeNull()
+  expect(refusalIn("timeout 900 git add --dry-run .")).toBeNull()
 })
 
 test("sudo, an assignment and a path to git do not hide the call", () => {
@@ -203,7 +192,7 @@ test("an empty command is stood aside from", () => {
 
 test("refusalFor judges one call, and reads no other word on the line", () => {
   expect(refusalFor({ act: "commit", rest: [] })).not.toBeNull()
-  expect(refusalFor({ act: "commit", rest: ["--", "tools/one.ts"] })).toBeNull()
+  expect(refusalFor({ act: "commit", rest: ["--", "tools/one.ts"] })).not.toBeNull()
   expect(refusalFor({ act: "status", rest: [] })).toBeNull()
 })
 
@@ -223,8 +212,11 @@ test("the scope says which acts it leaves to the other hook, and why", () => {
   expect(said).toContain("second reason for a call already refused")
 })
 
-test("the scope names the over-refusal an absolute path into this repository causes", () => {
-  expect(SCOPE.join("\n")).toContain("That is over-refusal, not a gap.")
+test("the scope says no pathspec bounds a call, and prescribes none", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("There is nothing left for a pathspec to prove.")
+  expect(said).toContain("That is over-refusal, not a gap.")
+  expect(said).not.toContain("is let through only when it names paths")
 })
 
 test("the scope names the prefixes it steps over and says that list samples a class too", () => {
@@ -240,6 +232,14 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
   expect((said as { reason: string }).reason).toContain("akasha")
+})
+
+test("the hook refuses a bounded call on stdin too", () => {
+  const done = ran(["bun", SCRIPT], {
+    stdin: Buffer.from(payloadOf("git add -- tools/one.ts")),
+  })
+  expect(done.code).toBe(2)
+  expect(done.out).toContain("block-git-writes refused this call.")
 })
 
 test("the hook stands aside on stdin for a call it does not name", () => {
