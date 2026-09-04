@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const roleSystem = {
   id: "01a053b2-2c20-7d34-ac84-bace7277929a",

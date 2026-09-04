@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const claudeCode = {
   id: "01a065b0-2100-7a41-9c02-3e5197d4b91f",

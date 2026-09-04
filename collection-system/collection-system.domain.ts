@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const collectionSystem = {
   id: "01a063de-2c60-7005-8e4e-6c1a17240b50",

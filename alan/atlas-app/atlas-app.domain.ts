@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const atlasApp = {
   id: "01a0673a-bc3a-7000-b348-2c5b74b7e901",

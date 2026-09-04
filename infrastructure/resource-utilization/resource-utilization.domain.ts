@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const resourceUtilization = {
   id: "01a0675b-16f9-7b95-9d7f-cd041a034eab",

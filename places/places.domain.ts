@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const places = {
   id: "01a06590-0000-7000-8000-000000000201",

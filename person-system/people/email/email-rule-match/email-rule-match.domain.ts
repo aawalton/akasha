@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../../domains/domain.page-type.ts"
 
 export const emailRuleMatch = {
   id: "01a0675b-16e8-7e4f-aec4-53ce7ef4bf2d",

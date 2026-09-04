@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const zImageTurbo = {
   id: "01a06553-a9b6-7dda-a90b-f47bdd7d29c8",

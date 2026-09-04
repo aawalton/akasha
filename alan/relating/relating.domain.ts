@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const relating = {
   id: "01a0658f-90a6-7faf-883a-b68b1891fd70",

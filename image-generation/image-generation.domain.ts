@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const imageGeneration = {
   id: "01a06553-a9b6-7281-9f32-c3201ea4a802",

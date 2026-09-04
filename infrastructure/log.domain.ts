@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const log = {
   id: "01a0658b-0f02-79a4-861b-f04b48ab54ce",

@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const quote = {
   id: "01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f",

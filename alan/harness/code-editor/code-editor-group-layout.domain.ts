@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const codeEditorGroupLayout = {
   id: "01a0675b-16db-7c58-93b5-c4cb07d8defe",

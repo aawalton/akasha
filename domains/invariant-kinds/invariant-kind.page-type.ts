@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { Domain } from "../domain.page-type.ts"
 import type { InvariantGroupSlug } from "./properties/invariant-group-slug.relation-property.ts"
 
 export type InvariantKind = Domain & {

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const clearTheWorld = {
   id: "01a06579-e4f7-7351-8560-e330582149a8",

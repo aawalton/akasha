@@ -1,4 +1,4 @@
-import type { Domain } from "./domain.page-type.ts"
+import type { Domain } from "../domain.page-type.ts"
 
 export const domainChampioning = {
   id: "01a0675b-16de-790e-8eea-52afc2046700",

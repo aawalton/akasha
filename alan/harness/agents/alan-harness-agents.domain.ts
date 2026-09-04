@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const alanHarnessAgents = {
   id: "01a0658a-e55d-7426-897d-78820e337523",

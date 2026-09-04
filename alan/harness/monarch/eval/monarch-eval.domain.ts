@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../../domains/domain.page-type.ts"
 
 export const monarchEval = {
   id: "01a0686a-c033-fae1-cb98-55decd42b2c4",

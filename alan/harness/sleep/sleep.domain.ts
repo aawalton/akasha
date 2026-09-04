@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const sleep = {
   id: "01a06220-ef8c-735b-b8a1-1cb4507d71b0",

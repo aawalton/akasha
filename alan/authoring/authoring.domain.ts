@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const authoring = {
   id: "01a0657d-b91d-7000-a1e5-8f2537828ffb",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const alanHarnessStoplights = {
   id: "01a0655b-9cdd-7169-bede-e916a8a6bd42",

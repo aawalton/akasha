@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const instrument = {
   id: "01a06591-583b-7ae3-907a-e718596a3661",

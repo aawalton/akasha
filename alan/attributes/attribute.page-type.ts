@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/page-types/page-type.page-type.ts"
 import type { LifetimePoints } from "./properties/lifetime-points.number-property.ts"
 import type { PointUnit } from "./properties/point-unit.text-property.ts"

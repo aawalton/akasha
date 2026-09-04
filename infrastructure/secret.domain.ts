@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const secret = {
   id: "01a0658b-0f02-7e04-9f41-f50f0f067218",

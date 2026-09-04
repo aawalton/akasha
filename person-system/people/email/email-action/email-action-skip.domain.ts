@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../../domains/domain.page-type.ts"
 
 export const emailActionSkip = {
   id: "01a0675b-16e5-72ee-95ac-98cc467b6b00",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const storyEngine = {
   id: "01a06280-e122-7ba3-844e-c8a0f133106d",

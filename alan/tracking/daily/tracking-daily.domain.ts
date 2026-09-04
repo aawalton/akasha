@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const trackingDaily = {
   id: "01a062dc-1b7f-7c99-a886-e67035171fdf",

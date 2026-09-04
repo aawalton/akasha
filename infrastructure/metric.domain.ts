@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const metric = {
   id: "01a0658b-0f02-7858-82a5-11f7915cb90f",

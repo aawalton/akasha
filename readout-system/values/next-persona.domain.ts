@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const nextPersona = {
   id: "01a0675b-16f5-7408-b0ed-fa0f0deb0b3a",

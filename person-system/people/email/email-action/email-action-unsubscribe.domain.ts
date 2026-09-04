@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../../../domains/domain.page-type.ts"
 
 export const emailActionUnsubscribe = {
   id: "01a0675b-16e6-7f0b-8d21-99bb1fc872bc",

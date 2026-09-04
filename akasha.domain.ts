@@ -1,4 +1,4 @@
-import type { Domain } from "./domains/domains/domain.page-type.ts"
+import type { Domain } from "./domains/domain.page-type.ts"
 
 export const akasha = {
   id: "01a049e9-651c-7000-b6c1-0d4d87c8b4c5",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const clusterOperations = {
   id: "01a06865-abff-7010-adce-58aea93b2f89",

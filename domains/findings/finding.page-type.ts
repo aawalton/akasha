@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { DomainSlug } from "../domains/properties/domain-slug.relation-property.ts"
+import type { DomainSlug } from "../properties/domain-slug.relation-property.ts"
 import type { Claim } from "./properties/claim.text-property.ts"
 import type { Evidence } from "./properties/evidence.text-property.ts"
 
