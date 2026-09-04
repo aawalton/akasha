@@ -268,6 +268,10 @@ export const move = {
     },
     {
       invariantKind: "departure",
+      statement: "A body a move carries is repointed where that body spells a path that moved.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A relative path resolving to a path that moved is repointed.",
     },
     {
