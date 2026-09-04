@@ -47,7 +47,6 @@
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
-        "@akasha/utils-run": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@akasha/wan": "workspace:*",
