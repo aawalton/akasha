@@ -1,6 +1,6 @@
 import { isRecord } from "@akasha/utils-narrow/is-record"
+import { validateWatcherToken } from "../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import { MINE_NAME, MINED_QUEST_PAGE_TYPE } from "../mined-item-rows/mined-item-rows.module.code.ts"
-import { validateWatcherToken } from "../watcher-token-check/watcher-token-check.module.code.ts"
 import type { Route } from "./+types/api.watcher.upsert-mined-quests"
 
 const MAX_QUESTS_PER_REQUEST = 1000

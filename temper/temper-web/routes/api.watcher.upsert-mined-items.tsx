@@ -1,7 +1,7 @@
 import type { SetBonusEntry } from "@akasha/temper-items-core/item-tooltip-types"
 import { isRecord } from "@akasha/utils-narrow/is-record"
+import { validateWatcherToken } from "../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import { MINE_NAME, MINED_ITEM_PAGE_TYPE } from "../mined-item-rows/mined-item-rows.module.code.ts"
-import { validateWatcherToken } from "../watcher-token-check/watcher-token-check.module.code.ts"
 import type { Route } from "./+types/api.watcher.upsert-mined-items"
 
 const MAX_ITEMS_PER_REQUEST = 1000

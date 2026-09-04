@@ -1,5 +1,5 @@
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import { validateWatcherToken } from "../watcher-token-check/watcher-token-check.module.code.ts"
+import { validateWatcherToken } from "../../temper-watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import type { Route } from "./+types/api.watcher.upsert-listings"
 
 const MAX_LISTINGS_PER_REQUEST = 100
