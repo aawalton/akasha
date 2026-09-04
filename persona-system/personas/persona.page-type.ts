@@ -3,7 +3,7 @@ import type { PageType } from "@akasha/pages-system/page-type"
 import type { Phone } from "@akasha/person-system/phone"
 import type { RoleSlug } from "@akasha/seat-system/role-slug"
 import type { Appearance } from "./properties/appearance.file-property.ts"
-import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
+import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.relation-property.ts"
 import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
 import type { History } from "./properties/history.text-property.ts"
@@ -97,9 +97,9 @@ export const persona = {
     "persona/vera",
     "persona/zadi",
     "persona/zeli",
+    "relation-property/championed-domain-slug",
     "relation-property/origin",
     "relation-property/role-slug",
-    "text-property/championed-domain-slug",
     "text-property/history",
     "text-property/last-messaged-at",
     "text-property/purpose",
