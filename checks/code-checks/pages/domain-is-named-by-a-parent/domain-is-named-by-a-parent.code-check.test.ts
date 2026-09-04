@@ -266,7 +266,10 @@ test("the slug is the file's first part and the page type the part after it", ()
     slug: "index-relation",
   })
   expect(namedUnder("akasha/held.module.code.ts", kinds)).toBeNull()
-  expect(namedUnder("held.domain.ts", kinds)).toBeNull()
+  expect(namedUnder("held.domain.ts", kinds)).toEqual({
+    pageTypeSlug: "domain",
+    slug: "held",
+  })
 })
 
 test("a slug never carries a dot, so `a.b.domain.ts` names a section rather than a domain", () => {
