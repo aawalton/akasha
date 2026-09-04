@@ -46,3 +46,16 @@ index 2a2030e740573562ba917c5630d6cfca173401ab..1be8a4f2159df5f53df44c511ca9e8ff
  import type { PageType } from "../page-types/page-type.page-type.ts"
  
  export type UrlProperty = PageProperty & {
+diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
+index 80692489d22a89f2138b7f7f8bfc157105842c25..daebce705f8eff03365bf44acab96b07526acb76 100644
+--- a/pages/views/view.page-type.ts
++++ b/pages/views/view.page-type.ts
+@@ -1,7 +1,7 @@
+ import type { Page } from "@akasha/pages-system/page"
+ import type { PageType } from "@akasha/pages-system/page-type"
+-import type { Narrows } from "../page-queries/properties/narrows.record-property.ts"
+ import type { Title } from "../properties/title.text-property.ts"
++import type { Narrows } from "../queries/properties/narrows.record-property.ts"
+ import type { AlwaysShowProperties } from "./properties/always-show-properties.text-property.ts"
+ import type { GalleryCardSize } from "./properties/gallery-card-size.select-property.ts"
+ import type { GalleryCoverSource } from "./properties/gallery-cover-source.text-property.ts"
