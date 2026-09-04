@@ -206,8 +206,9 @@ export function partedFor(
   if (target.holders.some((one) => holdsPart(placing, one, named))) return NOTHING
   const before = holdersFor({ ...placing, moved: EMPTY }, dirname(from), from)
   if ("unheld" in before) return { refusals: [unheldSaid(from, address, before.unheld)] }
-  const leaving = before.holders.find((one) => holdsPart(placing, one, named))
-  if (leaving === undefined) return { refusals: [outOf(from, address, before.holders)] }
+  const found = before.holders.find((one) => holdsPart(placing, one, named))
+  if (found === undefined) return { refusals: [outOf(from, address, before.holders)] }
+  const leaving = { ...found, at: placing.moved.get(found.was) ?? found.at }
   if (target.holders.some((one) => one.was === leaving.was)) return NOTHING
   const joining = target.holders[0]
   if (joining === undefined || target.holders.length > 1) {
