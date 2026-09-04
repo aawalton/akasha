@@ -7,7 +7,7 @@ export const namespace = {
   id: "01a06c7c-54b5-712b-b4a2-9ada10279dff",
   pageTypeSlug: "page-type",
   slug: "namespace",
-  definition: "a domain gathering the commands whose slugs open with its own",
+  definition: "a domain gathering the commands whose slugs open with its own and a hyphen",
   pluralSlug: "namespaces",
   extendsSlug: "page-type/domain",
   invariants: [
@@ -17,11 +17,12 @@ export const namespace = {
     },
     {
       invariantKind: "departure",
-      statement: "A command's slug opens with the slug of its namespace.",
+      statement: "A command's slug opens with the slug of its namespace and a hyphen.",
     },
     {
       invariantKind: "departure",
-      statement: "A namespace under another namespace opens its own slug with that one's.",
+      statement:
+        "A namespace under another namespace opens its own slug with that one's and a hyphen.",
     },
     {
       invariantKind: "departure",
