@@ -5,7 +5,7 @@ import { listedFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
 import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
 
-const root = join(import.meta.dir, "..", "..", "..", "..")
+const root = join(import.meta.dir, "..", "..", "..")
 
 const QUIET_ID = "01a05fd3-71b8-7c04-8a6e-3f19d4470b55"
 
@@ -78,7 +78,7 @@ test("the build script is the shell file beside the page the app names", () => {
 
 test("what is delivered carries the app's package and every shared directory", () => {
   const held = planned("alanwalton")
-  expect(held.shellPath).toBe("akasha/code-system/ios-apps/pages/alanwalton")
+  expect(held.shellPath).toBe("code-system/ios-apps/pages/alanwalton")
   expect(held.deliverPaths).toContain(held.shellPath)
   for (const one of SHARED_PATHS) expect(held.deliverPaths).toContain(one)
 })
@@ -118,7 +118,7 @@ test("every component the shipped program names is handed to the seam", () => {
 
 test("what stages an app's site and where that site is built from are read off its page", () => {
   const held = planned("alanwalton").staging
-  expect(held?.sourcePath).toBe("akasha/alan/web-capacitor")
+  expect(held?.sourcePath).toBe("alan/web-capacitor")
   expect(held?.scriptPath).toEndWith("stage-app/alanwalton-stage-app.shell-script.shell.sh")
 })
 
