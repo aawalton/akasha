@@ -25,7 +25,7 @@
     "./headscale-constants": "./headscale-constants/headscale-constants.module.code.ts",
     "./headscale-rbac": "./headscale-rbac/headscale-rbac.module.code.ts",
     "./headscale-statefulsets": "./headscale-statefulsets/headscale-statefulsets.module.code.ts",
-    "./kube-state-metrics-manifests": "./kube-state-metrics-manifests/kube-state-metrics-manifests.module.code.ts",
+    "./kube-state-metrics-manifests": "./kube-state-metrics-manifests/kube-state-metrics-manifests.manifest.code.ts",
     "./kubectl-permissions": "./kubectl-permissions/kubectl-permissions.module.code.ts",
     "./kubepods-oom-constants": "./kubepods-oom-constants/kubepods-oom-constants.module.code.ts",
     "./loki-rbac": "./loki-rbac/loki-rbac.module.code.ts",

@@ -32,7 +32,7 @@ export const clusterManifests = {
     "module/headscale-constants",
     "module/headscale-rbac",
     "module/headscale-statefulsets",
-    "module/kube-state-metrics-manifests",
+    "manifest/kube-state-metrics-manifests",
     "module/kubectl-permissions",
     "module/kubepods-oom-constants",
     "module/loki-rbac",
