@@ -29,6 +29,71 @@ index 8be318803cf22d2d9f2fcb287b9a7ff704f0f93d..9d7018099c021f30c35fd38dd7dd9211
 -  return outcomeOf(tookSeat(root, seatName, stopReason))
 +  return outcomeOf(await tookSeat(root, seatName, stopReason))
  }
+diff --git a/seat-system/seat-page-beat/seat-page-beat.module.code.ts b/seat-system/seat-page-beat/seat-page-beat.module.code.ts
+index 4d88573f1cbd500d0cf4f647ecb888b03a61d964..87caa202278a89020e63e3976542f584baa7fa4d 100644
+--- a/seat-system/seat-page-beat/seat-page-beat.module.code.ts
++++ b/seat-system/seat-page-beat/seat-page-beat.module.code.ts
+@@ -49,12 +49,12 @@ export function statedForPage(
+   return running === null ? stood : { ...stood, session: running }
+ }
+ 
+-export function beat(argv: readonly string[]): BeatReport {
++export async function beat(argv: readonly string[]): Promise<BeatReport> {
+   const agentId = valueOf(argv, "--agent")
+   if (agentId === null) fail("--agent names the seat this writes for")
+ 
+   const stopReason = valueOf(argv, "--remove")
+-  if (stopReason !== null) return { outcome: removeSeatPage(agentId, stopReason), seat: null }
++  if (stopReason !== null) return { outcome: await removeSeatPage(agentId, stopReason), seat: null }
+ 
+   const roots = resolveRoots()
+   const seat = composedNameOf(agentId) ?? nameFromHistory(agentId, roots)
+@@ -72,7 +72,7 @@ export function beat(argv: readonly string[]): BeatReport {
+     const running = sessionRecordOf(sessionId)
+     if (running === null) return { outcome: { kind: "unchanged" }, seat }
+     keepSession(agentId, running.value)
+-    return { outcome: writeSeatPage({ ...statedOf(agentId), session: running }, seat), seat }
++    return { outcome: await writeSeatPage({ ...statedOf(agentId), session: running }, seat), seat }
+   }
+ 
+   const transcriptPath = valueOf(argv, "--transcript")
+@@ -80,12 +80,15 @@ export function beat(argv: readonly string[]): BeatReport {
+     const watching = transcriptRecordOf(transcriptPath)
+     if (watching === null) return { outcome: { kind: "unchanged" }, seat }
+     keepTranscript(agentId, watching.value)
+-    return { outcome: writeSeatPage({ ...statedOf(agentId), transcript: watching }, seat), seat }
++    return {
++      outcome: await writeSeatPage({ ...statedOf(agentId), transcript: watching }, seat),
++      seat,
++    }
+   }
+ 
+   if (argv.includes("--clear-rotation")) {
+     if (rotatedOf(agentId) === null) return { outcome: { kind: "unchanged" }, seat }
+-    return { outcome: writeSeatPage({ ...statedOf(agentId), rotated: null }, seat), seat }
++    return { outcome: await writeSeatPage({ ...statedOf(agentId), rotated: null }, seat), seat }
+   }
+ 
+   const stated = fallBackToHistory(
+@@ -98,15 +101,15 @@ export function beat(argv: readonly string[]): BeatReport {
+     seat,
+     roots
+   )
+-  const outcome = writeSeatPage(stated, seat)
++  const outcome = await writeSeatPage(stated, seat)
+   if (outcome.kind !== "unstated") return { outcome, seat }
+   const above = parentFromHistory(agentId, roots)
+   if (above === null) return { outcome, seat }
+-  return { outcome: writeSeatPage(stated, seat, above), seat }
++  return { outcome: await writeSeatPage(stated, seat, above), seat }
+ }
+ 
+ if (import.meta.main) {
+-  const report = beat(process.argv.slice(2))
++  const report = await beat(process.argv.slice(2))
+   process.stdout.write(`${JSON.stringify(report)}\n`)
+   if (report.outcome.kind === "refused") process.exitCode = 1
+ }
 diff --git a/seat-system/seat-page-writing/seat-page-writing.module.code.ts b/seat-system/seat-page-writing/seat-page-writing.module.code.ts
 index 7efa09ff99f4b2701bf624c764f1e9969e01d106..fb8beadd8951f38668e81ea007bd5e82bce69bed 100644
 --- a/seat-system/seat-page-writing/seat-page-writing.module.code.ts
