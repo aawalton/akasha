@@ -7,15 +7,6 @@ export const requiredReading = {
   definition: "the reading an agent cannot skip",
   invariants: [
     {
-      invariantKind: "departure",
-      statement:
-        "Required reading is a declared reading and everything that reading names in turn.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A document may require a second document that requires the first back.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing outside akasha asks an agent what the agent has read.",
     },
