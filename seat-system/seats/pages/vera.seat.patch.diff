@@ -1,0 +1,25 @@
+diff --git a/commands/move/move.command.test-fixtures.ts b/commands/move/move.command.test-fixtures.ts
+index e8cab7e411c2e402907fa2b7cf4a60a68840f485..6d193b88495b5333b45c9fd6423eef743e3c1221 100644
+--- a/commands/move/move.command.test-fixtures.ts
++++ b/commands/move/move.command.test-fixtures.ts
+@@ -126,6 +126,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
+     "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n"
+   )
+   rebuiltIn(root, TREE)
++  for (const path of Object.keys(named)) importFiled(root, path, [])
+   admitting(root)
+   return root
+ }
+@@ -176,6 +177,12 @@ export function codeWorld(named: Readonly<Record<string, string>> = {}): string
+   return repoWith({ [HOLDER]: CODE, [TARGET]: OTHER, ...named })
+ }
+ 
++export function codeUnindexed(): string {
++  const root = codeWorld()
++  indexTakenFrom(root)
++  return root
++}
++
+ export const SIDE = "akasha/one/held.module.test.ts"
+ 
+ export const SIDE_AT = "akasha/one/deep/held.module.test.ts"
