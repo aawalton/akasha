@@ -4,7 +4,7 @@ export const olwenDomainCleanup = {
   id: "01a06d80-f837-7845-8ef8-bfccd653aab4",
   pageTypeSlug: "initiative",
   slug: "olwen-domain-cleanup",
-  domainSlug: "workspace-package/domain-system",
+  domainSlug: "workspace-package/domains",
   personaSlug: "olwen",
   constraints: [
     "The folder is named `domains/`, the plural, as `pages/` is named for `page`. Alan settled this against `domain/`.",

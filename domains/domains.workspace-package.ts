@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const domainSystem = {
+export const domains = {
   id: "01a04a26-9105-7001-a1cc-60a031152982",
   pageTypeSlug: "workspace-package",
-  slug: "domain-system",
+  slug: "domains",
   definition: "how we define how things should be",
   manifest: "json",
   partSlugs: [

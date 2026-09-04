@@ -4,7 +4,7 @@ export const rynTrainedParser = {
   id: "01a06d30-4bca-74a1-b610-dcc27a519d56",
   pageTypeSlug: "initiative",
   slug: "ryn-trained-parser",
-  domainSlug: "workspace-package/domain-system",
+  domainSlug: "workspace-package/domains",
   personaSlug: "ryn",
   intents: [
     {

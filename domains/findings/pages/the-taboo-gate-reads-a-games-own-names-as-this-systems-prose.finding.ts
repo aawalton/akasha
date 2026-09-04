@@ -4,7 +4,7 @@ export const theTabooGateReadsAGamesOwnNamesAsThisSystemsProse = {
   id: "01a06271-8a44-7002-a1f6-83d9e0b4c527",
   pageTypeSlug: "finding",
   slug: "the-taboo-gate-reads-a-games-own-names-as-this-systems-prose",
-  domainSlug: "workspace-package/domain-system",
+  domainSlug: "workspace-package/domains",
   claim:
     "A taboo term reaches into an entry row's data, where a word is another system's name rather than this system's prose. Landing 4,027 recipe names tripped five terms — door, dormant, floor, slice and stand — on furnishing names such as `Apocrypha Door, Stone`. No such name can be reworded, because the game chose the name. Clearing the gate means reading five pages and judging each sense, which costs the same whether a change adds one row or a hundred thousand.",
   evidence:
