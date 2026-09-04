@@ -1,6 +1,10 @@
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { manifestPath } from "@akasha/workflow-language/manifest-path"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
 import { workflow } from "@akasha/workflow-language/workflow"
+
+const TAILNET_EGRESS_SYNTH =
+  "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts"
 
 export default workflow("tailnet-egress", {
   kind: "foundation",
@@ -10,7 +14,7 @@ export default workflow("tailnet-egress", {
     kubectlApply({
       name: "tailnet-egress-apply-namespace",
       namespace: "tailnet-egress",
-      files: "infra/k8s/src/tailnet-egress/generated/namespace.generated.yaml",
+      files: manifestPath(TAILNET_EGRESS_SYNTH, "namespace"),
       serverSide: true,
     }),
     applyRbac({
@@ -21,14 +25,14 @@ export default workflow("tailnet-egress", {
     kubectlApply({
       name: "tailnet-egress-apply-network-policy",
       namespace: "tailnet-egress",
-      files: "infra/k8s/src/tailnet-egress/generated/network-policy.generated.yaml",
+      files: manifestPath(TAILNET_EGRESS_SYNTH, "network-policy"),
       serverSide: true,
     }),
     {
       ...kubectlApply({
         name: "tailnet-egress-apply-deployment",
         namespace: "tailnet-egress",
-        files: "infra/k8s/src/tailnet-egress/generated/deployment.generated.yaml",
+        files: manifestPath(TAILNET_EGRESS_SYNTH, "deployment"),
         serverSide: true,
       }),
       dependsOn: [
@@ -41,7 +45,7 @@ export default workflow("tailnet-egress", {
       ...kubectlApply({
         name: "tailnet-egress-apply-service",
         namespace: "tailnet-egress",
-        files: "infra/k8s/src/tailnet-egress/generated/service.generated.yaml",
+        files: manifestPath(TAILNET_EGRESS_SYNTH, "service"),
         serverSide: true,
       }),
       dependsOn: ["tailnet-egress-apply-namespace"],

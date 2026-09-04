@@ -1,5 +1,9 @@
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+import { manifestPath } from "@akasha/workflow-language/manifest-path"
 import { workflow } from "@akasha/workflow-language/workflow"
+
+const APP_NAMESPACES_SYNTH =
+  "infrastructure/cluster-manifests/app-namespaces-synth/app-namespaces-synth.module.code.ts"
 
 export default workflow("app-namespaces", {
   kind: "foundation",
@@ -9,7 +13,7 @@ export default workflow("app-namespaces", {
     kubectlApply({
       name: "app-namespaces-apply",
       namespace: "app-namespaces",
-      files: "infra/k8s/src/app-namespaces/generated/namespaces.generated.yaml",
+      files: manifestPath(APP_NAMESPACES_SYNTH, "namespaces"),
       serverSide: true,
     }),
   ],
