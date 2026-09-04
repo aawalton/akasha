@@ -1,0 +1,105 @@
+diff --git a/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts b/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts
+index 29fc3b3f36df8abe7b25a8f7029a6cd6fab0de77..a572baad32492fc6e030d37f6255f79c825b0f34 100644
+--- a/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts
++++ b/alan/fitness/exercise-access/free-exercise-row/free-exercise-row.module.ts
+@@ -10,7 +10,7 @@ export const freeExerciseRow = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A row stating no muscle, instruction or image states an empty list of each.",
++      statement: "A row states an empty list for a muscle, instruction or image it does not name.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
+index 8be03a39cc0f6f4e77dbd6f7faa6d2530553325e..fff6086953fea8425668bbbbd42ddb85b5a47b6b 100644
+--- a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
++++ b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
+@@ -28,7 +28,7 @@ export const monarchRuleDates = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A floor at or after its ceiling is refused, because no day satisfies both.",
++      statement: "A floor at or after its ceiling is refused.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
+index 57ff36119426903286e66184422961062e580e1a..cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679 100644
+--- a/commands/calendar/calendar.command.ts
++++ b/commands/calendar/calendar.command.ts
+@@ -88,7 +88,7 @@ export const calendar = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An event is named in place or as a flag rather than as both.",
++      statement: "An event named in place and as a flag is refused.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/drive/drive.command.ts b/commands/drive/drive.command.ts
+index fa9b0d81b82087c655bdac702912f6ab47981705..f1ba2aeea59b446a0585a3994cf570611fd9e24e 100644
+--- a/commands/drive/drive.command.ts
++++ b/commands/drive/drive.command.ts
+@@ -47,7 +47,7 @@ export const drive = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file is named in place or as a flag rather than as both.",
++      statement: "A file named in place and as a flag is refused.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/icloud/icloud.command.ts b/commands/icloud/icloud.command.ts
+index e16126f6ca04d10a27fa5e9fca3abd03fce98cf0..3dfd3a535b62bb45f4a5288e04bf8627d1deb65d 100644
+--- a/commands/icloud/icloud.command.ts
++++ b/commands/icloud/icloud.command.ts
+@@ -33,7 +33,7 @@ export const icloud = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An album is named in place or as a flag rather than as both.",
++      statement: "An album named in place and as a flag is refused.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/move/move.command.ts b/commands/move/move.command.ts
+index d4dc1cf82df81f842b8723559c29dd4e6d93a2dd..e32206a53ebdfa1c1c3ff3c9ef07a02df4ef246d 100644
+--- a/commands/move/move.command.ts
++++ b/commands/move/move.command.ts
+@@ -302,7 +302,8 @@ export const move = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path two pages claim leaves what names it unread rather than read from either.",
++      statement:
++        "A path two pages claim leaves what names it unread rather than read from one of those pages.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index 8450b85de478d1e374d20596bbebbc02c1915ec0..f113872fb56985b1273972415776fe1911ee0eed 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -144,7 +144,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A landing says how many files were carried rather than naming each.",
++      statement: "A landing says how many files were carried rather than naming the files.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/wan/wan.command.ts b/commands/wan/wan.command.ts
+index 226108efbc897f91c5b393e5bcd3ec5846454102..6356978f04d0be3b90f2cc5fb42520c777bf4030 100644
+--- a/commands/wan/wan.command.ts
++++ b/commands/wan/wan.command.ts
+@@ -84,7 +84,7 @@ export const wan = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A generate names a first frame or a last frame or both.",
++      statement: "A generate naming neither a first frame nor a last frame is refused.",
+     },
+     {
+       invariantKind: "departure",
