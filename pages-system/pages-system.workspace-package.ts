@@ -85,16 +85,4 @@ export const pagesSystem = {
       statement: "What makes a file a page is the page type its name carries.",
     },
   ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Answer Or Refuse",
-      act: "Refuse where you cannot answer, rather than answering as though there were nothing.",
-      warrant: "A true empty and a failure read alike, and only one of them is a fault.",
-      aids: [
-        "Never read a missing source as an empty one.",
-        "Never let a failed write return like a done one.",
-      ],
-    },
-  ],
 } as const satisfies WorkspacePackage
