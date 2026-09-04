@@ -15,13 +15,9 @@ const PARTED_BY = "/"
 
 const FOUND_NOTHING = 1
 
+const AT_MOST = 60000
+
 const REACHED_AT_MOST = 20000
-
-const THREADS_AT_MOST = "grep.threads=4"
-
-const PATTERNS_FROM = "-f"
-
-const OVER_INPUT = "-"
 
 const AS_WRITTEN = "-F"
 
@@ -97,7 +93,7 @@ export function endedFor(name: string): string {
 
 export function batchedIn(
   said: readonly string[],
-  atMost: number = REACHED_AT_MOST
+  atMost: number = AT_MOST
 ): readonly (readonly string[])[] {
   const batches: string[][] = []
   let held: string[] = []
@@ -116,35 +112,22 @@ export function batchedIn(
 }
 
 function foundBy(root: string, base: string, how: string, said: readonly string[]): Found {
-  if (said.length === 0) return { paths: [] }
-  const done = ran(
-    argvFor(root, [
-      "-c",
-      THREADS_AT_MOST,
-      "grep",
-      "-l",
-      "-I",
-      "-z",
-      how,
-      PATTERNS_FROM,
-      OVER_INPUT,
-      base,
-      "--",
-    ]),
-    { stdin: new TextEncoder().encode(`${said.join("\n")}\n`) }
-  )
-  if (done.code === FOUND_NOTHING) return { paths: [] }
-  if (done.code !== 0) {
-    return {
-      refusal:
-        "git could not say which tracked files carry what was asked after, so nothing was " +
-        `judged — ${done.err.trim()}`,
-    }
-  }
   const paths: string[] = []
   const held = `${base}:`
-  for (const one of done.out.split("\0")) {
-    if (one.startsWith(held)) paths.push(one.slice(held.length))
+  for (const batch of batchedIn(said)) {
+    const asked = batch.flatMap((one) => ["-e", one])
+    const done = ran(argvFor(root, ["grep", "-l", "-I", "-z", how, ...asked, base, "--"]))
+    if (done.code === FOUND_NOTHING) continue
+    if (done.code !== 0) {
+      return {
+        refusal:
+          "git could not say which tracked files carry what was asked after, so nothing was " +
+          `judged — ${done.err.trim()}`,
+      }
+    }
+    for (const one of done.out.split("\0")) {
+      if (one.startsWith(held)) paths.push(one.slice(held.length))
+    }
   }
   return { paths: [...new Set(paths)].sort() }
 }
@@ -156,8 +139,13 @@ export function namedTracked(root: string, base: string, named: readonly string[
 
 export function reachedTracked(root: string, base: string, parts: readonly string[]): Found {
   if (parts.length === 0) return { paths: [] }
-  const patterns = batchedIn(parts, REACHED_AT_MOST).flatMap((batch) => reachesFor(batch))
-  return foundBy(root, base, AS_PATTERN, patterns)
+  const paths: string[] = []
+  for (const batch of batchedIn(parts, REACHED_AT_MOST)) {
+    const found = foundBy(root, base, AS_PATTERN, reachesFor(batch))
+    if ("refusal" in found) return found
+    paths.push(...found.paths)
+  }
+  return { paths: [...new Set(paths)].sort() }
 }
 
 export function spelledTracked(root: string, base: string, spelled: readonly string[]): Found {
