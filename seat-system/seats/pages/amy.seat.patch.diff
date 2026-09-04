@@ -1,0 +1,262 @@
+diff --git a/seat-system/agent-turn-drawn/agent-turn-drawn.module.code.ts b/seat-system/agent-turn-drawn/agent-turn-drawn.module.code.ts
+index b3e8c46c3745cd63f9048e29699c8b0eb5cdf8ad..3589b6f84a9407bf5b1d582cd284d76d2e623e77 100644
+--- a/seat-system/agent-turn-drawn/agent-turn-drawn.module.code.ts
++++ b/seat-system/agent-turn-drawn/agent-turn-drawn.module.code.ts
+@@ -1,9 +1,10 @@
+-import { agentStands, agentTurnStateOf } from "../agent-turn-state/agent-turn-state.module.code.ts"
++import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
+ import { colorOfState } from "../seat-turn-color/seat-turn-color.module.code.ts"
++import { seatTurnStateOf } from "../seat-turn-state/seat-turn-state.module.code.ts"
+ 
+ export function colorDrawnFor(agent: string): string | null {
+-  if (!agentStands(agent)) return null
+-  return colorOfState(agentTurnStateOf(agent).state)
++  if (seatNameForAgent(agent) === null) return null
++  return colorOfState(seatTurnStateOf(agent).state)
+ }
+ 
+ export function colorsOf(
+diff --git a/seat-system/agent-turn-state/agent-turn-state.module.code.ts b/seat-system/agent-turn-state/agent-turn-state.module.code.ts
+deleted file mode 100644
+index aa1a4a582e616cf102cec05dc6c51de0270841e9..0000000000000000000000000000000000000000
+--- a/seat-system/agent-turn-state/agent-turn-state.module.code.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
+-import {
+-  type SeatTurnReading,
+-  seatTurnStateOf,
+-} from "../seat-turn-state/seat-turn-state.module.code.ts"
+-import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
+-import { subagentStands, subagentTurnOf } from "../subagent-turn/subagent-turn.module.code.ts"
+-
+-export function agentTurnStateOf(agent: string): SeatTurnReading {
+-  return seatAbove(agent) === null ? seatTurnStateOf(agent) : subagentTurnOf(agent)
+-}
+-
+-export function agentStands(agent: string): boolean {
+-  return seatAbove(agent) === null ? seatNameForAgent(agent) !== null : subagentStands(agent)
+-}
+diff --git a/seat-system/agent-turn-state/agent-turn-state.module.ts b/seat-system/agent-turn-state/agent-turn-state.module.ts
+deleted file mode 100644
+index 7c0b60245e4dbd023ee146709e2dcf1c1f37418e..0000000000000000000000000000000000000000
+--- a/seat-system/agent-turn-state/agent-turn-state.module.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const agentTurnState = {
+-  id: "01a0695a-d2ea-7bab-afe4-27cd562f970b",
+-  pageTypeSlug: "module",
+-  slug: "agent-turn-state",
+-  definition:
+-    "an agent's turn state read as a seat's or a subagent's, by whether a seat is above it",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/seat-system/package.json b/seat-system/package.json
+index 73bf3eee1371ccad1d89816e13dad053f0f16431..489bada3a80841fa71c49a2b654d8f20426ba516 100644
+--- a/seat-system/package.json
++++ b/seat-system/package.json
+@@ -21,14 +21,12 @@
+     "./subagent-guard": "./subagent-guard/subagent-guard.module.code.ts",
+     "./subagent-page": "./subagent-page/subagent-page.module.code.ts",
+     "./subagent-page-akasha": "./subagent-page-akasha/subagent-page-akasha.module.code.ts",
+-    "./subagent-page-read": "./subagent-page-read/subagent-page-read.module.code.ts",
+     "./takeover-seat": "./takeover-seat/takeover-seat.module.code.ts",
+     "./transcript-materialize": "./transcript-materialize/transcript-materialize.module.code.ts",
+     "./agent-io-probe": "./agent-io-probe/agent-io-probe.module.code.ts",
+     "./agent-name-bind": "./agent-name-bind/agent-name-bind.module.code.ts",
+     "./agent-record": "./agent-record/agent-record.module.code.ts",
+     "./agent-turn-drawn": "./agent-turn-drawn/agent-turn-drawn.module.code.ts",
+-    "./agent-turn-state": "./agent-turn-state/agent-turn-state.module.code.ts",
+     "./claude-launch-args": "./claude-launch-args/claude-launch-args.module.code.ts",
+     "./messages-agent-tools": "./messages-agent-tools/messages-agent-tools.module.code.ts",
+     "./proc-scan": "./proc-scan/proc-scan.module.code.ts",
+@@ -62,7 +60,6 @@
+     "./seat-turn-state": "./seat-turn-state/seat-turn-state.module.code.ts",
+     "./seat-work": "./seat-work/seat-work.module.code.ts",
+     "./spawn-guard": "./spawn-guard/spawn-guard.module.code.ts",
+-    "./subagent-turn": "./subagent-turn/subagent-turn.module.code.ts",
+     "./typing-minutes": "./typing-minutes/typing-minutes.module.code.ts",
+     "./wake-armed-specs": "./wake-armed-specs/wake-armed-specs.module.code.ts",
+     "./work-tree-drawn": "./work-tree-drawn/work-tree-drawn.module.code.ts",
+diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
+index 9f010cb7fb9c9b9d3a0e47f1654501ca672b919d..181f77e12f540f1d8a6600244968c3ab76d4b40c 100644
+--- a/seat-system/seat-system.workspace-package.ts
++++ b/seat-system/seat-system.workspace-package.ts
+@@ -30,14 +30,12 @@ export const seatSystem = {
+     "module/subagent-guard",
+     "module/subagent-page",
+     "module/subagent-page-akasha",
+-    "module/subagent-page-read",
+     "module/takeover-seat",
+     "module/transcript-materialize",
+     "module/agent-io-probe",
+     "module/agent-name-bind",
+     "module/agent-record",
+     "module/agent-turn-drawn",
+-    "module/agent-turn-state",
+     "module/claude-launch-args",
+     "module/messages-agent-tools",
+     "module/proc-scan",
+@@ -70,7 +68,6 @@ export const seatSystem = {
+     "module/seat-turn-state",
+     "module/seat-work",
+     "module/spawn-guard",
+-    "module/subagent-turn",
+     "module/typing-minutes",
+     "module/wake-armed-specs",
+     "module/work-tree-drawn",
+diff --git a/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts b/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts
+index 90945a402de785e8751d83f4864ca2b9e6e301de..4b4099bf27cde4e87f2f57b6b83cb1491ea6514f 100644
+--- a/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts
++++ b/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts
+@@ -2,21 +2,11 @@ import type { Outcome } from "@akasha/command-system/gated-write"
+ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+ import type { Roots } from "@akasha/pages-system/markdown-page-at"
+ import {
+-  pathOf,
+   pathsUnder,
+   SUBAGENTS_AT,
+-  slugOf,
+   tookUnder,
+ } from "../subagents/presence/subagent-presence.module.code.ts"
+ 
+-export function akashaSubagentSlug(seatName: string, own: string): string {
+-  return slugOf(seatName, own)
+-}
+-
+-export function akashaSubagentRelPath(slug: string): string {
+-  return pathOf(slug)
+-}
+-
+ export function akashaSubagentsDirIn(root: string): string {
+   return `${root}/${SUBAGENTS_AT}`
+ }
+diff --git a/seat-system/subagent-page-read/subagent-page-read.module.code.ts b/seat-system/subagent-page-read/subagent-page-read.module.code.ts
+deleted file mode 100644
+index 6089ac0d314631666767b2383eb2ba48dd4b6528..0000000000000000000000000000000000000000
+--- a/seat-system/subagent-page-read/subagent-page-read.module.code.ts
++++ /dev/null
+@@ -1,32 +0,0 @@
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
+-import { seatAbove, subagentUnder } from "../subagent-naming/subagent-naming.module.code.ts"
+-import {
+-  akashaSubagentPathsOf,
+-  akashaSubagentRelPath,
+-  akashaSubagentSlug,
+-} from "../subagent-page-akasha/subagent-page-akasha.module.code.ts"
+-
+-export const SUBAGENT_PAGE_TYPE = "subagent"
+-
+-export const SUBAGENT_PAGE_SUFFIX = ".subagent.ts"
+-
+-export function subagentSeatName(agent: string): string | null {
+-  const seat = seatAbove(agent)
+-  return seat === null ? null : seatNameForAgent(seat)
+-}
+-
+-export function subagentPageRelPath(seatName: string, own: string): string {
+-  return akashaSubagentRelPath(akashaSubagentSlug(seatName, own))
+-}
+-
+-export function subagentPagePathFor(agent: string): string | null {
+-  const own = subagentUnder(agent)
+-  const seatName = subagentSeatName(agent)
+-  if (own === null || seatName === null) return null
+-  return `${rootFor(resolveRoots(), AKASHA)}/${subagentPageRelPath(seatName, own)}`
+-}
+-
+-export function standingPagePathsOf(seatName: string): readonly string[] {
+-  return akashaSubagentPathsOf(seatName)
+-}
+diff --git a/seat-system/subagent-page-read/subagent-page-read.module.ts b/seat-system/subagent-page-read/subagent-page-read.module.ts
+deleted file mode 100644
+index 7d1b339ec8bfe5824a3076e4d284a861f2702a8c..0000000000000000000000000000000000000000
+--- a/seat-system/subagent-page-read/subagent-page-read.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const subagentPageRead = {
+-  id: "01a06983-278f-7cc8-a3dc-157b5d8d2c2a",
+-  pageTypeSlug: "module",
+-  slug: "subagent-page-read",
+-  definition: "a subagent's page, and the seat standing above it",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/seat-system/subagent-page/subagent-page.module.code.ts b/seat-system/subagent-page/subagent-page.module.code.ts
+index 8da8db6a441e08115aa8b1cc25f84bfb05e29b5b..0c9e1a2c85719a05c074acd326035c48712ae4b2 100644
+--- a/seat-system/subagent-page/subagent-page.module.code.ts
++++ b/seat-system/subagent-page/subagent-page.module.code.ts
+@@ -4,8 +4,10 @@ import { partedIn } from "@akasha/pages-system/page-file-name"
+ import { textAt, valueAt } from "@akasha/pages-system/page-value"
+ import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
+ import type { StandingSubagent } from "../subagent-guard/subagent-guard.module.code.ts"
+-import { removeAkashaSubagentPagesOf } from "../subagent-page-akasha/subagent-page-akasha.module.code.ts"
+-import { standingPagePathsOf } from "../subagent-page-read/subagent-page-read.module.code.ts"
++import {
++  akashaSubagentPathsOf,
++  removeAkashaSubagentPagesOf,
++} from "../subagent-page-akasha/subagent-page-akasha.module.code.ts"
+ 
+ const KIND = "dispatchedAs"
+ 
+@@ -32,7 +34,7 @@ export function standingSubagentsOf(seat: string): readonly StandingSubagent[] {
+   const seatName = seatNameForAgent(seat)
+   if (seatName === null) return []
+   const root = rootFor(resolveRoots(), AKASHA)
+-  return standingPagePathsOf(seatName).map((absolute) => ({
++  return akashaSubagentPathsOf(seatName).map((absolute) => ({
+     name: namedAt(absolute),
+     dispatchedAs: kindAt(absolute, root),
+   }))
+diff --git a/seat-system/subagent-turn/subagent-turn.module.code.ts b/seat-system/subagent-turn/subagent-turn.module.code.ts
+deleted file mode 100644
+index 079ed3b64e4612054ab67a14b734602f3e2bffc3..0000000000000000000000000000000000000000
+--- a/seat-system/subagent-turn/subagent-turn.module.code.ts
++++ /dev/null
+@@ -1,27 +0,0 @@
+-import { existsSync } from "node:fs"
+-import {
+-  type SeatTurnReading,
+-  type SeatTurnState,
+-  seatTurnStateOf,
+-} from "../seat-turn-state/seat-turn-state.module.code.ts"
+-import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
+-import { subagentPagePathFor } from "../subagent-page-read/subagent-page-read.module.code.ts"
+-
+-const SEAT_GONE: SeatTurnState = "stopped"
+-
+-export function subagentStands(agent: string): boolean {
+-  const page = subagentPagePathFor(agent)
+-  return page !== null && existsSync(page)
+-}
+-
+-export function readSubagentTurn(stands: boolean, above: SeatTurnState): SeatTurnReading {
+-  if (!stands) return { state: "stopped", waitingOn: null }
+-  if (above === SEAT_GONE) return { state: "stopped", waitingOn: null }
+-  return { state: "working", waitingOn: null }
+-}
+-
+-export function subagentTurnOf(agent: string): SeatTurnReading {
+-  const seat = seatAbove(agent)
+-  const above = seat === null ? SEAT_GONE : seatTurnStateOf(seat).state
+-  return readSubagentTurn(subagentStands(agent), above)
+-}
+diff --git a/seat-system/subagent-turn/subagent-turn.module.ts b/seat-system/subagent-turn/subagent-turn.module.ts
+deleted file mode 100644
+index 3512d3caab68376ca3ab7bf88645e14403a33f46..0000000000000000000000000000000000000000
+--- a/seat-system/subagent-turn/subagent-turn.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const subagentTurn = {
+-  id: "01a0695a-d2ea-7346-92de-7df1ec356ad5",
+-  pageTypeSlug: "module",
+-  slug: "subagent-turn",
+-  definition: "a subagent working while its page is there and the seat above it is not stopped",
+-  code: "ts",
+-} as const satisfies Module
