@@ -4,7 +4,7 @@ import { join } from "node:path"
 
 const HERE = import.meta.dir
 
-const REPO = join(HERE, "..", "..", "..")
+const REPO = join(HERE, "..", "..", "..", "..", "..")
 
 const CORPUS = join(REPO, "pages", "daily-tracking")
 
@@ -21,7 +21,7 @@ const reached: Reached[] = []
 
 const landed = { ok: true as const, at: "reached-nothing" }
 
-mock.module(join(HERE, "..", "page-query-client.ts"), () => ({
+mock.module("@tools/lib/page-query-client", () => ({
   askComposed: () => Promise.resolve({ ok: true, rows: [], n: 0, unfound: [] }),
   askTaking: () => Promise.resolve({ ok: true, rows: [], n: 0, unfound: [] }),
   pageLanding: (act: string, pageType: string, name: string) => {
@@ -46,7 +46,7 @@ mock.module(join(HERE, "..", "page-query-client.ts"), () => ({
   },
 }))
 
-mock.module(join(HERE, "akasha-day.ts"), () => ({
+mock.module("../akasha-day/akasha-day.module.code.ts", () => ({
   landAkashaDayPage: (act: string, name: string) => {
     reached.push({ verb: "landAkashaDayPage", act, pageType: "akasha", name })
     return Promise.resolve(landed)
@@ -72,7 +72,7 @@ const {
   landDayPage,
   landSessionRow,
   sessionRowAt,
-} = await import("./day-place.ts")
+} = await import("./day-place.module.code.ts")
 
 /**
  * The markdown days still on disk, which is none and stays none.

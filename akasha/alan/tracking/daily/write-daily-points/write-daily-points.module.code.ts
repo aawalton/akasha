@@ -1,4 +1,4 @@
-import { DAILY_TRACKING, dayByDate, landDayPage } from "@tools/lib/tracking/day-place"
+import { DAILY_TRACKING, dayByDate, landDayPage } from "../day-place/day-place.module.code.ts"
 
 export type WriteOutcome = "patched" | "created"
 

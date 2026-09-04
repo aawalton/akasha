@@ -1,5 +1,5 @@
-import type { Page } from "../../../akasha/alan/tracking/daily/day-narrow-types/day-narrow-types.module.code.ts"
-import { inputError, operationalError } from "../exit.ts"
+import { inputError, operationalError } from "@tools/lib/exit"
+import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import {
   dayByDate,
   dayById,
@@ -7,13 +7,13 @@ import {
   openSession,
   sessionsBefore,
   sessionsOfDay,
-} from "./day-place.ts"
-import { displayTitle, fieldStr } from "./format.ts"
+} from "../day-place/day-place.module.code.ts"
+import { displayTitle, fieldStr } from "../tracking-format/tracking-format.module.code.ts"
 // A type and nothing else. Every read below is asked of the funnel, so this file no longer takes
 // anything off `./pages.ts` that reaches the page store, and a caller of it is not reaching one
 // either — which is what `lib/inbox-tracking/persist.ts` and `./sessions.ts` were counted for while
 // this module still held a client of its own.
-import type { PageAccessClient } from "./pages.ts"
+import type { PageAccessClient } from "../tracking-pages/tracking-pages.module.code.ts"
 
 const PRIOR_SCAN_LIMIT = 5
 

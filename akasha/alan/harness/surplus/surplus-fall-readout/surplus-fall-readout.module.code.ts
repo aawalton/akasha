@@ -3,7 +3,7 @@ import { askingFor } from "@akasha/pages-system-service/calling"
 import { climbs, rungsIn } from "@akasha/readout-system/readout-tier"
 import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
-import { dayValuesByDate } from "@tools/lib/tracking/day-place"
+import { dayValuesByDate } from "../../../tracking/daily/day-place/day-place.module.code.ts"
 import { onTheWorkstation } from "../../notifications/push-device-tokens/push-device-tokens.module.code.ts"
 import { isTierColor, type Rung } from "../surplus-fall-tier/surplus-fall-tier.module.code.ts"
 

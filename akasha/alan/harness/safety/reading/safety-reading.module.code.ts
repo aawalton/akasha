@@ -1,6 +1,6 @@
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { levelIn } from "@akasha/readout-system/upkeep-safety"
-import { openSession } from "@tools/lib/tracking/day-place"
+import { openSession } from "../../../tracking/daily/day-place/day-place.module.code.ts"
 
 export const READOUT_PAGE =
   "akasha/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"

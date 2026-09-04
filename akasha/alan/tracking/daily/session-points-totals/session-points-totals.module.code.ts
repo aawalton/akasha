@@ -1,7 +1,7 @@
 import { getEsoDayWindow } from "@akasha/day/eso-day"
 import { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
-import { allSessions, sessionPropertyUndeclared } from "@tools/lib/tracking/day-place"
 import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
+import { allSessions, sessionPropertyUndeclared } from "../day-place/day-place.module.code.ts"
 import {
   numberOf,
   SOURCE_POINTS_FIELD,

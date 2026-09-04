@@ -119,13 +119,13 @@ test("the repaired shape, asking the funnel for its day, is not a finding", () =
     corpusOfFixture(
       {
         "tools/lib/page-query-client.ts": CLIENT,
-        "tools/lib/tracking/day-place.ts":
+        "akasha/alan/tracking/daily/day-place/day-place.module.code.ts":
           'import { askComposed } from "../page-query-client.ts"\n' +
           'export const DAILY_TRACKING = "daily-tracking"\n' +
           "export async function askDayByDate(dayStr: string) { return askComposed() }\n",
         "readouts/surplus-reading.ts":
           'import { surplusIn } from "@akasha/readout-system/upkeep-surplus"\n' +
-          'import { askDayByDate } from "../tools/lib/tracking/day-place.ts"\n' +
+          'import { askDayByDate } from "../akasha/alan/tracking/daily/day-place/day-place.module.code.ts"\n' +
           "export async function takeReading(dayStr: string) {\n" +
           "  return surplusIn(await askDayByDate(dayStr))\n}\n",
       },
@@ -212,7 +212,7 @@ test("the naming closure does not travel through the funnel itself", () => {
   const reading = readingOf(
     corpusOfFixture({
       "tools/lib/page-query-client.ts": CLIENT,
-      "tools/lib/tracking/day-place.ts":
+      "akasha/alan/tracking/daily/day-place/day-place.module.code.ts":
         'export const DAILY_TRACKING = "daily-tracking"\n' +
         "export function dayPlaceOf(dayStr: string) { return dayStr }\n",
       "tools/lib/asks-the-funnel.ts":

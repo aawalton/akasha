@@ -1,6 +1,9 @@
 import { type Dirent, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { DAILY_TRACKING, SESSION_TRACKING } from "./tracking/day-place.ts"
+import {
+  DAILY_TRACKING,
+  SESSION_TRACKING,
+} from "../../akasha/alan/tracking/daily/day-place/day-place.module.code.ts"
 
 /**
  * The population: every TypeScript file in the repository outside `akasha/`.
@@ -58,10 +61,7 @@ export const FUNNEL_DIRS = ["tools/lib/tracking", "tools/commands/tracking"] as 
  * both page types, so a naming closure that travelled through it would make a namer of every
  * caller the funnel has, which is the whole point of having one.
  */
-export const ALLOWED_TO_REACH = [
-  "tools/lib/tracking/day-place.ts",
-  "tools/lib/tracking/activities.ts",
-] as const
+export const ALLOWED_TO_REACH = [] as const
 
 /**
  * The scanner itself, which spells every verb and page type below as a literal.
@@ -124,7 +124,7 @@ export const CLIENT_ROADS = [
 
 export const CLIENT_PACKAGES = ["@akasha/pages-system-service"] as const
 
-export const NAMES_THE_FUNNEL = "tools/lib/tracking/day-place.ts"
+export const NAMES_THE_FUNNEL = "akasha/alan/tracking/daily/day-place/day-place.module.code.ts"
 
 /** The names the funnel exports for the two day page types. */
 export const DAY_CONSTANTS = ["DAILY_TRACKING", "SESSION_TRACKING"] as const

@@ -5,7 +5,7 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { TRACKING_DAY } from "@akasha/pages-system/page-query-day"
 import type { Given } from "@akasha/pages-system/page-query-request"
 import type { PageQuery, Test } from "@akasha/pages-system/page-query-shape"
-import { dayNameOf } from "./tracking/day-place.ts"
+import { dayNameOf } from "../../akasha/alan/tracking/daily/day-place/day-place.module.code.ts"
 
 export type { Given }
 

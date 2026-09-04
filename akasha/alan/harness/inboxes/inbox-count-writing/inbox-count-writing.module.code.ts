@@ -1,5 +1,9 @@
-import { askDayByDate, DAILY_TRACKING, landDayPage } from "@tools/lib/tracking/day-place"
-import { resolveOrCreateDaily } from "@tools/lib/tracking/resolve"
+import {
+  askDayByDate,
+  DAILY_TRACKING,
+  landDayPage,
+} from "../../../tracking/daily/day-place/day-place.module.code.ts"
+import { resolveOrCreateDaily } from "../../../tracking/daily/tracking-resolve/tracking-resolve.module.code.ts"
 import {
   INBOX_WRITER,
   type PersistOutcome,

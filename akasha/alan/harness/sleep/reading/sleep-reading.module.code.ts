@@ -1,7 +1,7 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
-import { askDayByDate } from "@tools/lib/tracking/day-place"
+import { askDayByDate } from "../../../tracking/daily/day-place/day-place.module.code.ts"
 
 export const READOUT_PAGE =
   "akasha/readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"

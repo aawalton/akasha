@@ -27,18 +27,18 @@ import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { entriesIn } from "@akasha/pages-system/page-entries"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { valueAt } from "@akasha/pages-system/page-value"
-import {
-  composedFor,
-  type Put,
-} from "../../../akasha/pages-system/service/page-composing/page-composing.module.code.ts"
+import type { Landed } from "@tools/lib/page-query-client"
 import {
   AKASHA_DAY_PAGE_TYPE,
   COMPLETED_TASKS_SLUG,
   ENTRY_EXTENSION,
   SESSIONS_SLUG,
-} from "../../daily-tracking-migration/shape.ts"
-import type { Landed } from "../page-query-client.ts"
-import { camelizeKey } from "./keys.ts"
+} from "../../../../../tools/daily-tracking-migration/shape.ts"
+import {
+  composedFor,
+  type Put,
+} from "../../../../pages-system/service/page-composing/page-composing.module.code.ts"
+import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>
 

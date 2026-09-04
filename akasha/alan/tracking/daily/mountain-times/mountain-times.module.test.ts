@@ -1,5 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import { getMountainEveningDayStr, mtWallHm, mtWallToInstant } from "./mountain-times.ts"
+import {
+  getMountainEveningDayStr,
+  mtWallHm,
+  mtWallToInstant,
+} from "./mountain-times.module.code.ts"
 
 /**
  * The two instants US Mountain changes offset at in 2026, worked out by hand from the rule this

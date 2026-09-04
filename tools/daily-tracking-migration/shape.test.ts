@@ -1,5 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import { AKASHA, dayNameIn, dayOfName, MARKDOWN } from "../lib/tracking/day-place.ts"
+import {
+  AKASHA,
+  dayNameIn,
+  dayOfName,
+  MARKDOWN,
+} from "../../akasha/alan/tracking/daily/day-place/day-place.module.code.ts"
 
 /**
  * A day's name goes out and comes back, and the two stores never spell one day alike.

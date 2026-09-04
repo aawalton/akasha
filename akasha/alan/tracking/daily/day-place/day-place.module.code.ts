@@ -1,8 +1,7 @@
 import { kebabisedRow } from "@akasha/pages-system/akasha-page-values"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
-import type { Page } from "../../../akasha/alan/tracking/daily/day-narrow-types/day-narrow-types.module.code.ts"
-import { dataError } from "../exit.ts"
+import { dataError } from "@tools/lib/exit"
 import {
   type Answered,
   type AnsweredRow,
@@ -10,10 +9,11 @@ import {
   pageLanding,
   removeRow,
   rowLanding,
-} from "../page-query-client.ts"
-import { landAkashaDayPage, landAkashaSessionRow } from "./akasha-day.ts"
-import { camelizeKey } from "./keys.ts"
-import { pageOf } from "./pages.ts"
+} from "@tools/lib/page-query-client"
+import { landAkashaDayPage, landAkashaSessionRow } from "../akasha-day/akasha-day.module.code.ts"
+import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
+import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
+import { pageOf } from "../tracking-pages/tracking-pages.module.code.ts"
 
 export const DAILY_TRACKING = "daily-tracking"
 

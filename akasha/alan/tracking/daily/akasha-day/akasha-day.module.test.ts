@@ -2,7 +2,13 @@ import { describe, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { camelised, camelisedRow, rowsBeside, rowsText, turnedRows } from "./akasha-day.ts"
+import {
+  camelised,
+  camelisedRow,
+  rowsBeside,
+  rowsText,
+  turnedRows,
+} from "./akasha-day.module.code.ts"
 
 const PAGE =
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts"
@@ -87,7 +93,11 @@ describe("the rows a file beside a page holds", () => {
         root,
         "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl"
       )
-      Bun.spawnSync(["mkdir", "-p", join(root, "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05")])
+      Bun.spawnSync([
+        "mkdir",
+        "-p",
+        join(root, "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05"),
+      ])
       writeFileSync(at, rowsText(HELD))
       expect(rowsBeside(root, PAGE, "sessions")).toEqual(HELD)
     } finally {

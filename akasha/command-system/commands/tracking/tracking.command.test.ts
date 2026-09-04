@@ -43,7 +43,10 @@ test("a path beside the food entries rather than under them is a stray", () => {
 })
 
 test("a path outside akasha altogether is a stray", () => {
-  expect(strayIn(ROOT, ["--remove", "tools/lib/tracking/akasha-day.ts"]).length).toBe(1)
+  expect(
+    strayIn(ROOT, ["--remove", "akasha/alan/tracking/daily/akasha-day/akasha-day.module.code.ts"])
+      .length
+  ).toBe(1)
 })
 
 test("a value belonging to another flag is not read as a path", () => {
