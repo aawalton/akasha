@@ -1,5 +1,5 @@
 diff --git a/commands/move/move.command.code.ts b/commands/move/move.command.code.ts
-index 34bf3b55e05584e6de9448cf1aafc138aeed7c7c..2f005b09edbe1b7582a2998cf6409bf8b9de21fc 100644
+index 34bf3b55e05584e6de9448cf1aafc138aeed7c7c..5f67bf3cb6656b1e962c9df5041d527e5a539a33 100644
 --- a/commands/move/move.command.code.ts
 +++ b/commands/move/move.command.code.ts
 @@ -55,7 +55,6 @@ type Sided = {
@@ -18,22 +18,25 @@ index 34bf3b55e05584e6de9448cf1aafc138aeed7c7c..2f005b09edbe1b7582a2998cf6409bf8
    report.push(...outsideSaid(reached.outside, reached.reaching, dry))
    report.push(...parentingSaid(reached.parented, dry))
    if (reached.parented.unread !== null) report.push(reached.parented.unread)
-@@ -281,11 +279,10 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+@@ -281,11 +279,13 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
      changes.push({ path: one.from, body: null })
    }
    const reading = importingOf(root, moved)
 -  const naming = new Set<string>("importers" in reading ? reading.importers : [])
-+  if ("unread" in reading) return answering([], [reading.unread], 1)
-+  const naming = new Set<string>(reading.importers)
-   for (const path of addressing.keys()) naming.add(path)
+-  for (const path of addressing.keys()) naming.add(path)
 -  if ("importers" in reading) {
 -    for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
--  }
++  if ("unread" in reading) {
++    const why = `${reading.unread} and nothing moved — \`akasha index refresh\` answers this`
++    return answering([], [why], 1)
+   }
++  const naming = new Set<string>(reading.importers)
++  for (const path of addressing.keys()) naming.add(path)
 +  for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
    const repointing: string[] = []
    for (const one of manifesting) {
      if (moved.has(one.at)) continue
-@@ -343,7 +340,6 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+@@ -343,7 +343,6 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
    carries.push(...outside.carries)
    const reached: Reached = {
      repointed: repointing,
