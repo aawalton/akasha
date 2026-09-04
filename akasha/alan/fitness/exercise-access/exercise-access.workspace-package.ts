@@ -11,6 +11,7 @@ export const exerciseAccess = {
     "module/custom-exercise-features",
     "module/day-of-week",
     "module/exercise-choosing",
+    "module/exercise-digest",
     "module/exercise-finding",
     "module/exercise-load-model",
     "module/exercise-rows",

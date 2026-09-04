@@ -1,17 +1,14 @@
-export const summary =
-  "Pre-session coaching digest over pages: equipment, per-movement last/best/target, last session, mobility + trend, constraints (--focus defaults to today's scheduled focus)"
-
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { InputError } from "@akasha/errors-core/exit-code"
-import { chosenIn } from "@akasha/exercise-access/exercise-choosing"
-import { FOCUS_OPTIONS } from "@akasha/exercise-access/exercise-vocabulary"
-import { readBodyweight } from "@akasha/exercise-access/selection-policy"
-import type { SetLine } from "@akasha/exercise-access/set-history"
-import { targetSaid } from "@akasha/exercise-access/set-target"
-import { trainingDigest } from "@akasha/exercise-access/training-digest"
+import { chosenIn } from "../exercise-choosing/exercise-choosing.module.code.ts"
+import { FOCUS_OPTIONS } from "../exercise-vocabulary/exercise-vocabulary.module.code.ts"
+import { readBodyweight } from "../selection-policy/selection-policy.module.code.ts"
+import type { SetLine } from "../set-history/set-history.module.code.ts"
+import { targetSaid } from "../set-target/set-target.module.code.ts"
+import { trainingDigest } from "../training-digest/training-digest.module.code.ts"
 
-export const help: CommandHelp = {
+export const HELP: CommandHelp = {
   flags: [
     {
       name: "--focus",
@@ -101,3 +98,5 @@ export default async function exerciseDigest(args: readonly string[]): Promise<v
 
   process.stdout.write(out)
 }
+
+export const help = HELP

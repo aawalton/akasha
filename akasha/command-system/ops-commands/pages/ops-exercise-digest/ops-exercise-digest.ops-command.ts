@@ -7,6 +7,7 @@ export const opsExerciseDigest = {
   definition:
     "the pre-session coaching digest for one focus, read whole from pages and printed as one block.",
   opsPath: "exercise digest",
-  opsEntryFile: "tools/commands/exercise/digest.ts",
+  opsEntryFile:
+    "akasha/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand
