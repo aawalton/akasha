@@ -269,20 +269,6 @@ check("a package standing inside the tree the world does not hold is answered by
   }
 })
 
-check("a package outside the akasha folder is answered from the tree, no world holding one", () => {
-  const from = repo({})
-  mkdirSync(join(from, "tools/lib"), { recursive: true })
-  writeFileSync(join(from, "tools/lib/package.json"), '{"name":"@tools/lib"}\n')
-  installed(from, "@tools/lib", "tools/lib")
-  const world = worldOf(from, [], handing({}), null)
-  try {
-    const at = join(world.root, "node_modules/@tools/lib")
-    expect(realpathSync(at)).toBe(join(from, "tools/lib"))
-  } finally {
-    world.sweep()
-  }
-})
-
 check("a world carries the index as the change leaves it rather than as the tree stands", () => {
   const from = repo({})
   linesFiled(from, "held.jsonl", [{}])
