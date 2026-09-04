@@ -79,8 +79,8 @@ export async function writeNotification(
     link: input.link ?? null,
     kind: input.kind ?? null,
     source: input.source ?? null,
-    "sent-at": sentAt,
-    "read-at": null,
+    "sentAt": sentAt,
+    "readAt": null,
   })
   await made.queue.flushed()
   const refused = made.queue.refused()
@@ -107,16 +107,16 @@ function everyRow(): readonly Held[] {
 
 export async function readNotificationsAfter(sentAfter: string): Promise<readonly Notification[]> {
   const kept = everyRow().filter((held) => {
-    const at = held.row["sent-at"]
+    const at = held.row["sentAt"]
     return typeof at === "string" && at >= sentAfter
   })
   const sorted = [...kept].sort((one, two) =>
-    String(one.row["sent-at"]).localeCompare(String(two.row["sent-at"]))
+    String(one.row["sentAt"]).localeCompare(String(two.row["sentAt"]))
   )
   const read: Notification[] = []
   for (const held of sorted.slice(0, NOTIFICATIONS_AT_ONCE)) {
     const id = textIn(held.row, "id")
-    const sentAt = textIn(held.row, "sent-at")
+    const sentAt = textIn(held.row, "sentAt")
     if (id === null || sentAt === null) continue
     read.push({
       id,
@@ -139,11 +139,11 @@ export interface Sourced {
 export async function newestOfKind(kind: string, atOnce: number): Promise<readonly Sourced[]> {
   const kept = everyRow().filter((held) => held.row["kind"] === kind)
   const sorted = [...kept].sort((one, two) =>
-    String(two.row["sent-at"]).localeCompare(String(one.row["sent-at"]))
+    String(two.row["sentAt"]).localeCompare(String(one.row["sentAt"]))
   )
   const read: Sourced[] = []
   for (const held of sorted.slice(0, atOnce)) {
-    const sentAt = textIn(held.row, "sent-at")
+    const sentAt = textIn(held.row, "sentAt")
     if (sentAt === null) continue
     read.push({ source: textIn(held.row, "source"), sentAt })
   }
@@ -153,7 +153,7 @@ export async function newestOfKind(kind: string, atOnce: number): Promise<readon
 export async function newestNotificationAt(): Promise<string | null> {
   let newest: string | null = null
   for (const held of everyRow()) {
-    const at = held.row["sent-at"]
+    const at = held.row["sentAt"]
     if (typeof at !== "string" || at === "") continue
     if (newest === null || at > newest) newest = at
   }
