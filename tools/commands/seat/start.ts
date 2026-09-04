@@ -23,6 +23,7 @@ import { refuseHeldName } from "@akasha/seat-system/seat-name-held-refusal"
 import { refuseParentless } from "@akasha/seat-system/seat-parentless-refusal"
 import { composedNameOf } from "@akasha/seat-system/seat-rename"
 import { compositionOf, decideSpawnName } from "@akasha/seat-system/seat-spawn-name-decide"
+import { help } from "@akasha/seat-system/seat-start-help"
 import { resolveStatedIdentity } from "@akasha/seat-system/seat-stated-identity"
 import { refuseStatedName } from "@akasha/seat-system/seat-stated-name-refusal"
 import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refusal"
@@ -40,7 +41,6 @@ import {
 import { defaultFor } from "../../../akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-import { help } from "../../lib/seat-start-help.ts"
 
 export { help }
 

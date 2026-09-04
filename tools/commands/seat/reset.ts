@@ -8,6 +8,7 @@ import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
 import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
+import { help } from "@akasha/seat-system/seat-reset-help"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import { A_RESET, stopSeat } from "@akasha/seat-system/stop-seat"
 import { setTurnState } from "@akasha/seat-system/turn-records"
@@ -24,7 +25,6 @@ import {
   statedOf,
 } from "../../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
-import { help } from "../../lib/seat-reset-help.ts"
 
 export { help }
 

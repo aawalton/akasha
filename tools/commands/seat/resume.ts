@@ -10,6 +10,11 @@ import {
 } from "@akasha/seat-system/launch-seat-tmux"
 import { resumeSeat } from "@akasha/seat-system/resume-seat"
 import { liveResumeVerifySleep, resumeAndVerify } from "@akasha/seat-system/resume-verify"
+import {
+  describeAckTimeout,
+  setRequestedAction,
+  waitForActionCleared,
+} from "@akasha/seat-system/seat-action"
 import { seatRecord } from "@akasha/seat-system/seat-facts"
 import { resolveSeatTargetFromFlagOrEnv } from "@akasha/seat-system/seat-handle"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
@@ -20,6 +25,7 @@ import {
   SEAT_MODES,
 } from "@akasha/seat-system/seat-modes"
 import { sweepSupersededAgentTrees } from "@akasha/seat-system/seat-recovery"
+import { help } from "@akasha/seat-system/seat-resume-help"
 import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
 import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
 import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"
@@ -28,12 +34,6 @@ import { shape } from "@akasha/utils-narrow/shape"
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-import {
-  describeAckTimeout,
-  setRequestedAction,
-  waitForActionCleared,
-} from "../../lib/seat-action.ts"
-import { help } from "../../lib/seat-resume-help.ts"
 
 export { help }
 

@@ -9,7 +9,6 @@ if [ -z "$SESSION_ID" ]; then
 fi
 
 REPO=$(cd "$(dirname "$(readlink -f -- "${BASH_SOURCE[0]}")")/../../../../.." && pwd -P)
-TOOLS="$REPO/tools"
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
 
 # A SESSION UUID IS ALL THIS IS GIVEN, and `seat-reading` takes it as readily as an agent id. It
@@ -23,4 +22,4 @@ if [ -z "$AGENT_ID" ]; then
   exit 0
 fi
 
-"$BUN_BIN" "$TOOLS/lib/seat-usage-show.ts" "$AGENT_ID"
+"$BUN_BIN" "$REPO/akasha/seat-system/seat-usage-show/seat-usage-show.module.code.ts" "$AGENT_ID"
