@@ -17,6 +17,10 @@ export const emailAddressProperty = {
     },
     {
       invariantKind: "departure",
+      statement: "An address holds no whitespace.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An address holds one `@`.",
     },
     {
