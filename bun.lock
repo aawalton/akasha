@@ -80,7 +80,7 @@
         "typescript": "5.9.3",
       },
     },
-    "akasha/agents": {
+    "agents": {
       "name": "@akasha/agents",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -90,7 +90,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/alan/atlas-web": {
+    "alan/atlas-web": {
       "name": "@akasha/alanwalton-atlas-web",
       "version": "0.1.0",
       "dependencies": {
@@ -142,7 +142,7 @@
         "vite": "^8.0.3",
       },
     },
-    "akasha/alan/chess": {
+    "alan/chess": {
       "name": "@akasha/chess-core",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -156,14 +156,14 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/alan/eso/eso-wallpapers": {
+    "alan/eso/eso-wallpapers": {
       "name": "@akasha/eso-wallpapers",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/alan/fitness/commands": {
+    "alan/fitness/commands": {
       "name": "@akasha/exercise-commands",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -176,7 +176,7 @@
         "@akasha/session-planning": "workspace:*",
       },
     },
-    "akasha/alan/fitness/exercise-access": {
+    "alan/fitness/exercise-access": {
       "name": "@akasha/exercise-access",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -185,7 +185,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/alan/fitness/session-planning": {
+    "alan/fitness/session-planning": {
       "name": "@akasha/session-planning",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -195,14 +195,14 @@
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/alan/library/book-of-everything": {
+    "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
         "@akasha/indexes": "workspace:*",
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/alan/library/book-of-everything/commands": {
+    "alan/library/book-of-everything/commands": {
       "name": "@akasha/book-of-everything-commands",
       "dependencies": {
         "@akasha/book-of-everything": "workspace:*",
@@ -212,7 +212,7 @@
         "@akasha/pages-system-service": "workspace:*",
       },
     },
-    "akasha/alan/library/reading": {
+    "alan/library/reading": {
       "name": "@akasha/reading",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
@@ -220,7 +220,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/alan/music/choosing": {
+    "alan/music/choosing": {
       "name": "@akasha/music-choosing",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -229,7 +229,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/alan/music/commands": {
+    "alan/music/commands": {
       "name": "@akasha/music-commands",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -243,7 +243,7 @@
         "@akasha/utils-sync": "workspace:*",
       },
     },
-    "akasha/alan/music/spotify": {
+    "alan/music/spotify": {
       "name": "@akasha/spotify",
       "bin": {
         "spotify-auth": "./auth-cli/spotify-auth-cli.module.code.ts",
@@ -253,7 +253,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/alan/web": {
+    "alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
         "@akasha/chess-core": "workspace:*",
@@ -343,7 +343,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/alan/web-capacitor": {
+    "alan/web-capacitor": {
       "name": "@akasha/alanwalton-web-capacitor",
       "version": "0.1.0",
       "dependencies": {
@@ -380,7 +380,7 @@
         "vite": "^8.0.3",
       },
     },
-    "akasha/archive-of-worlds/archive-of-worlds-web": {
+    "archive-of-worlds/archive-of-worlds-web": {
       "name": "@akasha/archive-of-worlds-web",
       "version": "0.1.0",
       "dependencies": {
@@ -422,7 +422,7 @@
         "vite": "^8.0.3",
       },
     },
-    "akasha/audhdalan/audhdalan-web": {
+    "audhdalan/audhdalan-web": {
       "name": "@akasha/audhdalan-web",
       "version": "0.1.0",
       "dependencies": {
@@ -457,7 +457,7 @@
         "vite": "^8.0.3",
       },
     },
-    "akasha/browser/browser-commands": {
+    "browser/browser-commands": {
       "name": "@akasha/browser-commands",
       "dependencies": {
         "@akasha/browser-test-harness": "workspace:*",
@@ -471,10 +471,10 @@
         "playwright-core": "1.61.1",
       },
     },
-    "akasha/browser/launch-env": {
+    "browser/launch-env": {
       "name": "@akasha/browser-launch-env",
     },
-    "akasha/browser/test-harness": {
+    "browser/test-harness": {
       "name": "@akasha/browser-test-harness",
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
@@ -486,20 +486,20 @@
         "playwright-core": "1.61.1",
       },
     },
-    "akasha/calendar-sync": {
+    "calendar-sync": {
       "name": "@akasha/calendar-sync",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/changes/pipeline-orchestration": {
+    "changes/pipeline-orchestration": {
       "name": "@akasha/pipeline-orchestration",
       "dependencies": {
         "@akasha/pages-system": "workspace:*",
         "@akasha/workflow-selection": "workspace:*",
       },
     },
-    "akasha/changes/pipeline-sweep": {
+    "changes/pipeline-sweep": {
       "name": "@akasha/pipeline-sweep",
       "dependencies": {
         "@akasha/ci-containers": "workspace:*",
@@ -508,7 +508,7 @@
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/changes/test-fanout": {
+    "changes/test-fanout": {
       "name": "@akasha/test-fanout",
       "dependencies": {
         "@akasha/checks": "workspace:*",
@@ -518,7 +518,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/changes/workflow-language": {
+    "changes/workflow-language": {
       "name": "@akasha/workflow-language",
       "dependencies": {
         "@akasha/indexes": "workspace:*",
@@ -527,7 +527,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/changes/workflow-selection": {
+    "changes/workflow-selection": {
       "name": "@akasha/workflow-selection",
       "dependencies": {
         "@akasha/git": "workspace:*",
@@ -536,7 +536,7 @@
         "@akasha/workflow-language": "workspace:*",
       },
     },
-    "akasha/checks": {
+    "checks": {
       "name": "@akasha/checks",
       "dependencies": {
         "@akasha/dockerfiles": "workspace:*",
@@ -547,13 +547,13 @@
         "yaml": "^2.8.1",
       },
     },
-    "akasha/code-system": {
+    "code-system": {
       "name": "@akasha/code-system",
       "dependencies": {
         "typescript": "5.9.3",
       },
     },
-    "akasha/code-system/ios-apps/pages/alanwalton": {
+    "code-system/ios-apps/pages/alanwalton": {
       "name": "@alanwalton/native-shell",
       "version": "0.0.1",
       "dependencies": {
@@ -568,11 +568,11 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "akasha/code-system/ios-apps/pages/atlas": {
+    "code-system/ios-apps/pages/atlas": {
       "name": "@alanwalton/atlas-native-shell",
       "version": "0.0.1",
     },
-    "akasha/code-system/ios-apps/pages/smilingjenny": {
+    "code-system/ios-apps/pages/smilingjenny": {
       "name": "@smilingjenny/native-shell",
       "version": "0.0.1",
       "dependencies": {
@@ -584,14 +584,14 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "akasha/collection-system/royal-road": {
+    "collection-system/royal-road": {
       "name": "@akasha/royal-road",
       "dependencies": {
         "@akasha/markdown-pages": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
       },
     },
-    "akasha/command-system": {
+    "command-system": {
       "name": "@akasha/command-system",
       "dependencies": {
         "@akasha/agents": "workspace:*",
@@ -605,16 +605,16 @@
         "typescript": "5.9.3",
       },
     },
-    "akasha/context-system": {
+    "context-system": {
       "name": "@akasha/context-system",
     },
-    "akasha/day": {
+    "day": {
       "name": "@akasha/day",
       "dependencies": {
         "@akasha/digit-padding": "workspace:*",
       },
     },
-    "akasha/design/badges": {
+    "design/badges": {
       "name": "@akasha/design-badges",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
@@ -627,7 +627,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/design/forms": {
+    "design/forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -645,7 +645,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/design/layout": {
+    "design/layout": {
       "name": "@akasha/design-layout",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
@@ -659,7 +659,7 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "akasha/design/patterns": {
+    "design/patterns": {
       "name": "@akasha/design-patterns",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
@@ -681,7 +681,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/design/primitives": {
+    "design/primitives": {
       "name": "@akasha/design-primitives",
       "dependencies": {
         "class-variance-authority": "^0.7.1",
@@ -722,7 +722,7 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "akasha/design/system": {
+    "design/system": {
       "name": "@akasha/design-system",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
@@ -742,19 +742,19 @@
         "tailwindcss": "^4.0",
       },
     },
-    "akasha/design/tokens": {
+    "design/tokens": {
       "name": "@akasha/design-tokens",
     },
-    "akasha/digit-padding": {
+    "digit-padding": {
       "name": "@akasha/digit-padding",
     },
-    "akasha/domain-system": {
+    "domain-system": {
       "name": "@akasha/domain-system",
     },
-    "akasha/domain-system/plain-language": {
+    "domain-system/plain-language": {
       "name": "@akasha/plain-language",
     },
-    "akasha/editor-extension": {
+    "editor-extension": {
       "name": "@akasha/editor-extension",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
@@ -769,21 +769,21 @@
         "vscode",
       ],
     },
-    "akasha/editor-extension/ops-extension": {
+    "editor-extension/ops-extension": {
       "name": "ops",
       "version": "0.1.0",
       "dependencies": {
         "@akasha/editor-extension": "workspace:*",
       },
     },
-    "akasha/editor-extension/vscode-typings": {
+    "editor-extension/vscode-typings": {
       "name": "@types/vscode",
       "version": "1.110.0",
     },
-    "akasha/email-inbound": {
+    "email-inbound": {
       "name": "@akasha/email-inbound",
     },
-    "akasha/email-watch": {
+    "email-watch": {
       "name": "@akasha/email-watch",
       "dependencies": {
         "@akasha/google-email": "workspace:*",
@@ -792,7 +792,7 @@
         "@akasha/seat-system": "workspace:*",
       },
     },
-    "akasha/errors-client": {
+    "errors-client": {
       "name": "@akasha/errors-client",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -801,25 +801,25 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/errors-core": {
+    "errors-core": {
       "name": "@akasha/errors-core",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/file-page-identity": {
+    "file-page-identity": {
       "name": "@akasha/file-page-identity",
     },
-    "akasha/file-system": {
+    "file-system": {
       "name": "@akasha/file-system",
     },
-    "akasha/geo-io": {
+    "geo-io": {
       "name": "@akasha/geo-io",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/git": {
+    "git": {
       "name": "@akasha/git",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -827,7 +827,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/git-transport": {
+    "git-transport": {
       "name": "@akasha/git-transport",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
@@ -835,7 +835,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/google/calendar": {
+    "google/calendar": {
       "name": "@akasha/google-calendar",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -845,7 +845,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/google/drive": {
+    "google/drive": {
       "name": "@akasha/google-drive",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -855,7 +855,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/google/email": {
+    "google/email": {
       "name": "@akasha/google-email",
       "dependencies": {
         "@akasha/email-inbound": "workspace:*",
@@ -866,24 +866,24 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/google/oauth": {
+    "google/oauth": {
       "name": "@akasha/google-oauth",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/graph-system": {
+    "graph-system": {
       "name": "@akasha/graph-system",
     },
-    "akasha/great-courses": {
+    "great-courses": {
       "name": "@akasha/great-courses",
       "dependencies": {
         "@akasha/pages-query": "workspace:*",
         "jsdom": "^28.1.0",
       },
     },
-    "akasha/health-samples-access": {
+    "health-samples-access": {
       "name": "@akasha/health-samples-access",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -891,7 +891,7 @@
         "@akasha/pages-system-service": "workspace:*",
       },
     },
-    "akasha/health-samples-day": {
+    "health-samples-day": {
       "name": "@akasha/health-samples-day",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -900,7 +900,7 @@
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/health-samples-import": {
+    "health-samples-import": {
       "name": "@akasha/health-samples-import",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
@@ -909,26 +909,26 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/hook-system": {
+    "hook-system": {
       "name": "@akasha/hook-system",
     },
-    "akasha/icloud-photos": {
+    "icloud-photos": {
       "name": "@akasha/icloud-photos",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/id-minting": {
+    "id-minting": {
       "name": "@akasha/id-minting",
     },
-    "akasha/idle-system": {
+    "idle-system": {
       "name": "@akasha/idle-system",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/imessage": {
+    "imessage": {
       "name": "@akasha/imessage",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -938,14 +938,14 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/analysis-complexity": {
+    "infrastructure/analysis-complexity": {
       "name": "@akasha/analysis-complexity",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "typescript": "^5.9.3",
       },
     },
-    "akasha/infrastructure/auth-proxy": {
+    "infrastructure/auth-proxy": {
       "name": "@akasha/auth-proxy",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
@@ -953,7 +953,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/backup-retention": {
+    "infrastructure/backup-retention": {
       "name": "@akasha/backup-retention",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
@@ -961,7 +961,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/ci-benchmark": {
+    "infrastructure/ci-benchmark": {
       "name": "@akasha/ci-benchmark",
       "dependencies": {
         "@akasha/ci-containers": "workspace:*",
@@ -974,7 +974,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/ci-containers": {
+    "infrastructure/ci-containers": {
       "name": "@akasha/ci-containers",
       "dependencies": {
         "@akasha/cluster-api": "workspace:*",
@@ -982,14 +982,14 @@
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/infrastructure/cluster-api": {
+    "infrastructure/cluster-api": {
       "name": "@akasha/cluster-api",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/cluster-manifests": {
+    "infrastructure/cluster-manifests": {
       "name": "@akasha/cluster-manifests",
       "dependencies": {
         "@akasha/k8s-synth": "workspace:*",
@@ -1001,7 +1001,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/cluster-provisioning/talos": {
+    "infrastructure/cluster-provisioning/talos": {
       "name": "@akasha/talos",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -1011,10 +1011,10 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/comfy": {
+    "infrastructure/comfy": {
       "name": "@akasha/comfy",
     },
-    "akasha/infrastructure/commands": {
+    "infrastructure/commands": {
       "name": "@akasha/pipeline-commands",
       "dependencies": {
         "@akasha/ci-benchmark": "workspace:*",
@@ -1029,7 +1029,7 @@
         "@akasha/workflow-language": "workspace:*",
       },
     },
-    "akasha/infrastructure/dockerfiles": {
+    "infrastructure/dockerfiles": {
       "name": "@akasha/dockerfiles",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
@@ -1037,10 +1037,10 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/eso-rig": {
+    "infrastructure/eso-rig": {
       "name": "@akasha/eso-rig",
     },
-    "akasha/infrastructure/inference-clients": {
+    "infrastructure/inference-clients": {
       "name": "@akasha/inference-clients",
       "dependencies": {
         "@akasha/comfy": "workspace:*",
@@ -1048,7 +1048,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/inference-commands": {
+    "infrastructure/inference-commands": {
       "name": "@akasha/inference-commands",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -1060,7 +1060,7 @@
         "@akasha/upscale": "workspace:*",
       },
     },
-    "akasha/infrastructure/inference-pool": {
+    "infrastructure/inference-pool": {
       "name": "@akasha/inference-pool",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -1070,7 +1070,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/inference-runs": {
+    "infrastructure/inference-runs": {
       "name": "@akasha/inference-runs",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -1081,7 +1081,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/infrastructure-commands": {
+    "infrastructure/infrastructure-commands": {
       "name": "@akasha/infrastructure-commands",
       "dependencies": {
         "@akasha/cluster-manifests": "workspace:*",
@@ -1089,13 +1089,13 @@
         "@akasha/talos": "workspace:*",
       },
     },
-    "akasha/infrastructure/k8s-synth": {
+    "infrastructure/k8s-synth": {
       "name": "@akasha/k8s-synth",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/k8s-types": {
+    "infrastructure/k8s-types": {
       "name": "@akasha/k8s-types",
       "dependencies": {
         "@akasha/utils-run": "workspace:*",
@@ -1103,25 +1103,25 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/loki-service": {
+    "infrastructure/loki-service": {
       "name": "@akasha/loki-service",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
       },
     },
-    "akasha/infrastructure/postgres-annual-dump": {
+    "infrastructure/postgres-annual-dump": {
       "name": "@akasha/postgres-annual-dump",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
       },
     },
-    "akasha/infrastructure/seaweedfs": {
+    "infrastructure/seaweedfs": {
       "name": "@akasha/seaweedfs",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
       },
     },
-    "akasha/infrastructure/upscale": {
+    "infrastructure/upscale": {
       "name": "@akasha/upscale",
       "dependencies": {
         "@akasha/cluster-api": "workspace:*",
@@ -1132,13 +1132,13 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/voice-inference": {
+    "infrastructure/voice-inference": {
       "name": "@akasha/voice-inference",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
       },
     },
-    "akasha/infrastructure/wan": {
+    "infrastructure/wan": {
       "name": "@akasha/wan",
       "dependencies": {
         "@akasha/comfy": "workspace:*",
@@ -1147,13 +1147,13 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/infrastructure/zimage": {
+    "infrastructure/zimage": {
       "name": "@akasha/zimage",
       "dependencies": {
         "@akasha/comfy": "workspace:*",
       },
     },
-    "akasha/language-design/lua-compiler": {
+    "language-design/lua-compiler": {
       "name": "@akasha/lua-compiler",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
@@ -1167,10 +1167,10 @@
         "typescript": "5.9.3",
       },
     },
-    "akasha/location-traces-access": {
+    "location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
-    "akasha/markdown-pages": {
+    "markdown-pages": {
       "name": "@akasha/markdown-pages",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -1185,7 +1185,7 @@
         "yaml": "^2.8.1",
       },
     },
-    "akasha/migration-system": {
+    "migration-system": {
       "name": "@akasha/migration-system",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -1194,7 +1194,7 @@
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/mobile-cli": {
+    "mobile-cli": {
       "name": "@akasha/mobile-cli",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -1212,7 +1212,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/mobile-commands": {
+    "mobile-commands": {
       "name": "@akasha/mobile-commands",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -1223,26 +1223,26 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/named-for": {
+    "named-for": {
       "name": "@akasha/named-for",
     },
-    "akasha/object-store": {
+    "object-store": {
       "name": "@akasha/object-store",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/old-graph": {
+    "old-graph": {
       "name": "@akasha/old-graph",
     },
-    "akasha/pages-system": {
+    "pages-system": {
       "name": "@akasha/pages-system",
     },
-    "akasha/pages-system/indexes": {
+    "pages-system/indexes": {
       "name": "@akasha/indexes",
     },
-    "akasha/pages-system/page-commands": {
+    "pages-system/page-commands": {
       "name": "@akasha/page-commands",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -1250,7 +1250,7 @@
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/pages-system/pages-access": {
+    "pages-system/pages-access": {
       "name": "@akasha/pages-access",
       "dependencies": {
         "@akasha/file-page-identity": "workspace:*",
@@ -1263,7 +1263,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/pages-system/pages-core": {
+    "pages-system/pages-core": {
       "name": "@akasha/pages-core",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -1275,19 +1275,19 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/pages-system/pages-formula": {
+    "pages-system/pages-formula": {
       "name": "@akasha/pages-formula",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/pages-system/pages-query": {
+    "pages-system/pages-query": {
       "name": "@akasha/pages-query",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/pages-system/pages-ui": {
+    "pages-system/pages-ui": {
       "name": "@akasha/pages-ui",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
@@ -1314,7 +1314,7 @@
         "react-router": ">=7",
       },
     },
-    "akasha/pages-system/pages-ui-store": {
+    "pages-system/pages-ui-store": {
       "name": "@akasha/pages-ui-store",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -1329,7 +1329,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/pages-system/pages-ui/components": {
+    "pages-system/pages-ui/components": {
       "name": "@akasha/pages-ui-components",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -1357,13 +1357,13 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/pages-system/pages-url": {
+    "pages-system/pages-url": {
       "name": "@akasha/pages-url",
     },
-    "akasha/pages-system/service": {
+    "pages-system/service": {
       "name": "@akasha/pages-system-service",
     },
-    "akasha/person-system": {
+    "person-system": {
       "name": "@akasha/person-system",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
@@ -1377,13 +1377,13 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/persona-system": {
+    "persona-system": {
       "name": "@akasha/persona-system",
       "dependencies": {
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "akasha/personas-core": {
+    "personas-core": {
       "name": "@akasha/personas-core",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
@@ -1391,7 +1391,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/readout-system": {
+    "readout-system": {
       "name": "@akasha/readout-system",
       "dependencies": {
         "@akasha/pages-system-service": "workspace:*",
@@ -1401,7 +1401,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/recurrence": {
+    "recurrence": {
       "name": "@akasha/recurrence",
       "dependencies": {
         "@akasha/digit-padding": "workspace:*",
@@ -1409,7 +1409,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/reminder-system": {
+    "reminder-system": {
       "name": "@akasha/reminder-system",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -1419,7 +1419,7 @@
         "@akasha/utils-run": "workspace:*",
       },
     },
-    "akasha/rule-population": {
+    "rule-population": {
       "name": "@akasha/rule-population",
       "dependencies": {
         "@akasha/checks": "workspace:*",
@@ -1427,10 +1427,10 @@
         "@akasha/seat-system": "workspace:*",
       },
     },
-    "akasha/rules-engine": {
+    "rules-engine": {
       "name": "@akasha/rules-engine",
     },
-    "akasha/seat-system": {
+    "seat-system": {
       "name": "@akasha/seat-system",
       "dependencies": {
         "@akasha/agents": "workspace:*",
@@ -1443,7 +1443,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/service-system": {
+    "service-system": {
       "name": "@akasha/service-system",
       "dependencies": {
         "@akasha/cluster-manifests": "workspace:*",
@@ -1458,10 +1458,10 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/shell": {
+    "shell": {
       "name": "@akasha/shell",
     },
-    "akasha/smilingjenny/smilingjenny-web": {
+    "smilingjenny/smilingjenny-web": {
       "name": "@akasha/smilingjenny-web",
       "version": "0.1.0",
       "dependencies": {
@@ -1499,13 +1499,13 @@
         "vite": "^8.0.3",
       },
     },
-    "akasha/sms-access": {
+    "sms-access": {
       "name": "@akasha/sms-access",
       "dependencies": {
         "@akasha/sms-core": "workspace:*",
       },
     },
-    "akasha/sms-core": {
+    "sms-core": {
       "name": "@akasha/sms-core",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -1513,21 +1513,21 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/ssh-access": {
+    "ssh-access": {
       "name": "@akasha/ssh-access",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
       },
     },
-    "akasha/status-bar-access": {
+    "status-bar-access": {
       "name": "@akasha/status-bar-access",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/health-samples-day": "workspace:*",
       },
     },
-    "akasha/story/engine/core": {
+    "story/engine/core": {
       "name": "@akasha/story-engine-core",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
@@ -1535,7 +1535,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/story/tower": {
+    "story/tower": {
       "name": "@akasha/story-tower",
       "dependencies": {
         "@akasha/story-engine-core": "workspace:*",
@@ -1545,16 +1545,16 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/story/tower/core": {
+    "story/tower/core": {
       "name": "@akasha/story-tower-core",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/story/tower/engine": {
+    "story/tower/engine": {
       "name": "@akasha/story-tower-engine",
     },
-    "akasha/story/ui": {
+    "story/ui": {
       "name": "@akasha/story-ui",
       "dependencies": {
         "@akasha/design-patterns": "workspace:*",
@@ -1572,7 +1572,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/story/wandering-inn": {
+    "story/wandering-inn": {
       "name": "@akasha/wandering-inn",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -1583,20 +1583,20 @@
         "playwright-core": "1.61.1",
       },
     },
-    "akasha/supabase-auth": {
+    "supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
     },
-    "akasha/supabase-client": {
+    "supabase-client": {
       "name": "@akasha/supabase-client",
       "dependencies": {
         "@supabase/supabase-js": "^2.104.0",
       },
     },
-    "akasha/supabase-rr": {
+    "supabase-rr": {
       "name": "@akasha/supabase-rr",
       "dependencies": {
         "@akasha/pages-url": "workspace:*",
@@ -1611,7 +1611,7 @@
         "react-router": ">=7",
       },
     },
-    "akasha/supabase-server": {
+    "supabase-server": {
       "name": "@akasha/supabase-server",
       "dependencies": {
         "@akasha/supabase-auth": "workspace:*",
@@ -1619,7 +1619,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-addon-build": {
+    "temper/temper-addon-build": {
       "name": "@akasha/temper-addon-build",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -1632,7 +1632,7 @@
         "typescript": "5.9.3",
       },
     },
-    "akasha/temper/temper-addon-data": {
+    "temper/temper-addon-data": {
       "name": "@akasha/temper-addon-data",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -1661,7 +1661,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-addon-generators": {
+    "temper/temper-addon-generators": {
       "name": "@akasha/temper-addon-generators",
       "dependencies": {
         "@akasha/temper-companions-core": "workspace:*",
@@ -1671,16 +1671,16 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-addon-init": {
+    "temper/temper-addon-init": {
       "name": "@akasha/temper-addon-init",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-addon-library-types": {
+    "temper/temper-addon-library-types": {
       "name": "@akasha/temper-addon-library-types",
     },
-    "akasha/temper/temper-addons-resolve": {
+    "temper/temper-addons-resolve": {
       "name": "@akasha/temper-addons-resolve",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -1689,13 +1689,13 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-alchemy": {
+    "temper/temper-alchemy": {
       "name": "@akasha/temper-alchemy",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
       },
     },
-    "akasha/temper/temper-antiquities-addon": {
+    "temper/temper-antiquities-addon": {
       "name": "@akasha/temper-antiquities-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -1704,14 +1704,14 @@
         "@akasha/temper-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-bit-codec": {
+    "temper/temper-bit-codec": {
       "name": "@akasha/temper-bit-codec",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-build-codec": {
+    "temper/temper-build-codec": {
       "name": "@akasha/temper-build-codec",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -1731,7 +1731,7 @@
         "@akasha/temper-skill-lines": "workspace:*",
       },
     },
-    "akasha/temper/temper-build-deploy-checks": {
+    "temper/temper-build-deploy-checks": {
       "name": "@akasha/temper-build-deploy-checks",
       "dependencies": {
         "@akasha/temper-addons-resolve": "workspace:*",
@@ -1742,10 +1742,10 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-build-hash": {
+    "temper/temper-build-hash": {
       "name": "@akasha/temper-build-hash",
     },
-    "akasha/temper/temper-build-metadata": {
+    "temper/temper-build-metadata": {
       "name": "@akasha/temper-build-metadata",
       "dependencies": {
         "@akasha/temper-character-build": "workspace:*",
@@ -1753,17 +1753,17 @@
         "@akasha/temper-companions-core": "workspace:*",
       },
     },
-    "akasha/temper/temper-build-support": {
+    "temper/temper-build-support": {
       "name": "@akasha/temper-build-support",
       "dependencies": {
         "@akasha/pages-url": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
       },
     },
-    "akasha/temper/temper-capture-datamining": {
+    "temper/temper-capture-datamining": {
       "name": "@akasha/temper-capture-datamining",
     },
-    "akasha/temper/temper-capture-datamining-addon": {
+    "temper/temper-capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -1772,7 +1772,7 @@
         "@akasha/temper-capture-writer": "workspace:*",
       },
     },
-    "akasha/temper/temper-capture-datamining-reader": {
+    "temper/temper-capture-datamining-reader": {
       "name": "@akasha/temper-capture-datamining-reader",
       "dependencies": {
         "@akasha/temper-capture-datamining": "workspace:*",
@@ -1782,29 +1782,29 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-capture-descriptor": {
+    "temper/temper-capture-descriptor": {
       "name": "@akasha/temper-capture-descriptor",
     },
-    "akasha/temper/temper-capture-errors": {
+    "temper/temper-capture-errors": {
       "name": "@akasha/temper-capture-errors",
     },
-    "akasha/temper/temper-capture-host": {
+    "temper/temper-capture-host": {
       "name": "@akasha/temper-capture-host",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-capture-perf": {
+    "temper/temper-capture-perf": {
       "name": "@akasha/temper-capture-perf",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-capture-sales": {
+    "temper/temper-capture-sales": {
       "name": "@akasha/temper-capture-sales",
     },
-    "akasha/temper/temper-capture-sales-addon": {
+    "temper/temper-capture-sales-addon": {
       "name": "@akasha/temper-capture-sales-addon",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -1813,10 +1813,10 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-capture-shapes": {
+    "temper/temper-capture-shapes": {
       "name": "@akasha/temper-capture-shapes",
     },
-    "akasha/temper/temper-capture-writer": {
+    "temper/temper-capture-writer": {
       "name": "@akasha/temper-capture-writer",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -1826,7 +1826,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-catalog-addon": {
+    "temper/temper-catalog-addon": {
       "name": "@akasha/temper-catalog-addon",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -1835,10 +1835,10 @@
         "@akasha/temper-game-catalog-capture-addon": "workspace:*",
       },
     },
-    "akasha/temper/temper-catalog-core": {
+    "temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
     },
-    "akasha/temper/temper-catalog-host": {
+    "temper/temper-catalog-host": {
       "name": "@akasha/temper-catalog-host",
       "dependencies": {
         "@akasha/temper-saved-variables": "workspace:*",
@@ -1846,7 +1846,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-catalog-side-file": {
+    "temper/temper-catalog-side-file": {
       "name": "@akasha/temper-catalog-side-file",
       "dependencies": {
         "@akasha/temper-eso-paths": "workspace:*",
@@ -1854,14 +1854,14 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-champion-points": {
+    "temper/temper-champion-points": {
       "name": "@akasha/temper-champion-points",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-character-build": {
+    "temper/temper-character-build": {
       "name": "@akasha/temper-character-build",
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
@@ -1879,7 +1879,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-character-skills": {
+    "temper/temper-character-skills": {
       "name": "@akasha/temper-character-skills",
       "dependencies": {
         "@akasha/temper-characters-equipment": "workspace:*",
@@ -1892,7 +1892,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-character-sources": {
+    "temper/temper-character-sources": {
       "name": "@akasha/temper-character-sources",
       "dependencies": {
         "@akasha/temper-characters-equipment": "workspace:*",
@@ -1900,7 +1900,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-characters-addon": {
+    "temper/temper-characters-addon": {
       "name": "@akasha/temper-characters-addon",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
@@ -1917,7 +1917,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-characters-capture-addon": {
+    "temper/temper-characters-capture-addon": {
       "name": "@akasha/temper-characters-capture-addon",
       "dependencies": {
         "@akasha/temper-bit-codec": "workspace:*",
@@ -1928,7 +1928,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-characters-character-ui": {
+    "temper/temper-characters-character-ui": {
       "name": "@akasha/temper-characters-character-ui",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -1942,7 +1942,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-characters-equipment": {
+    "temper/temper-characters-equipment": {
       "name": "@akasha/temper-characters-equipment",
       "dependencies": {
         "@akasha/temper-equipment": "workspace:*",
@@ -1951,7 +1951,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-characters-equipment-ui": {
+    "temper/temper-characters-equipment-ui": {
       "name": "@akasha/temper-characters-equipment-ui",
       "dependencies": {
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -1960,7 +1960,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-characters-skills-morphs-addon": {
+    "temper/temper-characters-skills-morphs-addon": {
       "name": "@akasha/temper-characters-skills-morphs-addon",
       "dependencies": {
         "@akasha/temper-characters-capture-addon": "workspace:*",
@@ -1970,7 +1970,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-characters-stats": {
+    "temper/temper-characters-stats": {
       "name": "@akasha/temper-characters-stats",
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
@@ -1988,14 +1988,14 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-classes": {
+    "temper/temper-classes": {
       "name": "@akasha/temper-classes",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-collections-addon": {
+    "temper/temper-collections-addon": {
       "name": "@akasha/temper-collections-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2006,7 +2006,7 @@
         "@akasha/temper-skyshards": "workspace:*",
       },
     },
-    "akasha/temper/temper-combat-addon": {
+    "temper/temper-combat-addon": {
       "name": "@akasha/temper-combat-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2016,7 +2016,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-commands": {
+    "temper/temper-commands": {
       "name": "@akasha/temper-commands",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -2048,7 +2048,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-community-addons": {
+    "temper/temper-community-addons": {
       "name": "@akasha/temper-community-addons",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -2058,7 +2058,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-companion-codec": {
+    "temper/temper-companion-codec": {
       "name": "@akasha/temper-companion-codec",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -2070,7 +2070,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-companions-addon": {
+    "temper/temper-companions-addon": {
       "name": "@akasha/temper-companions-addon",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
@@ -2084,7 +2084,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-companions-core": {
+    "temper/temper-companions-core": {
       "name": "@akasha/temper-companions-core",
       "dependencies": {
         "@akasha/temper-character-sources": "workspace:*",
@@ -2095,7 +2095,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-companions-ui": {
+    "temper/temper-companions-ui": {
       "name": "@akasha/temper-companions-ui",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -2108,7 +2108,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-completion": {
+    "temper/temper-completion": {
       "name": "@akasha/temper-completion",
       "dependencies": {
         "@akasha/temper-capture-host": "workspace:*",
@@ -2116,7 +2116,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-completion-import": {
+    "temper/temper-completion-import": {
       "name": "@akasha/temper-completion-import",
       "dependencies": {
         "@akasha/temper-completion": "workspace:*",
@@ -2125,7 +2125,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-crafting-addon": {
+    "temper/temper-crafting-addon": {
       "name": "@akasha/temper-crafting-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2134,16 +2134,16 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-dungeon-champions": {
+    "temper/temper-dungeon-champions": {
       "name": "@akasha/temper-dungeon-champions",
       "dependencies": {
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-dungeons": {
+    "temper/temper-dungeons": {
       "name": "@akasha/temper-dungeons",
     },
-    "akasha/temper/temper-equipment": {
+    "temper/temper-equipment": {
       "name": "@akasha/temper-equipment",
       "dependencies": {
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -2151,13 +2151,13 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-equipment-kinds": {
+    "temper/temper-equipment-kinds": {
       "name": "@akasha/temper-equipment-kinds",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-errors-addon": {
+    "temper/temper-errors-addon": {
       "name": "@akasha/temper-errors-addon",
       "dependencies": {
         "@akasha/temper-capture-errors": "workspace:*",
@@ -2165,7 +2165,7 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-errors-triage": {
+    "temper/temper-errors-triage": {
       "name": "@akasha/temper-errors-triage",
       "dependencies": {
         "@akasha/temper-capture-errors": "workspace:*",
@@ -2175,22 +2175,22 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-eso-paths": {
+    "temper/temper-eso-paths": {
       "name": "@akasha/temper-eso-paths",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-eso-types": {
+    "temper/temper-eso-types": {
       "name": "@akasha/temper-eso-types",
     },
-    "akasha/temper/temper-eso-typings": {
+    "temper/temper-eso-typings": {
       "name": "@akasha/temper-eso-typings",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-events-addon": {
+    "temper/temper-events-addon": {
       "name": "@akasha/temper-events-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2199,17 +2199,17 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-explain": {
+    "temper/temper-explain": {
       "name": "@akasha/temper-explain",
     },
-    "akasha/temper/temper-formula-framework": {
+    "temper/temper-formula-framework": {
       "name": "@akasha/temper-formula-framework",
       "dependencies": {
         "@akasha/day": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-game-catalog-capture-addon": {
+    "temper/temper-game-catalog-capture-addon": {
       "name": "@akasha/temper-game-catalog-capture-addon",
       "dependencies": {
         "@akasha/temper-capture-shapes": "workspace:*",
@@ -2220,7 +2220,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-game-catalog-capture-host": {
+    "temper/temper-game-catalog-capture-host": {
       "name": "@akasha/temper-game-catalog-capture-host",
       "dependencies": {
         "@akasha/temper-capture-host": "workspace:*",
@@ -2228,7 +2228,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-housing-addon": {
+    "temper/temper-housing-addon": {
       "name": "@akasha/temper-housing-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2239,7 +2239,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-hud-addon": {
+    "temper/temper-hud-addon": {
       "name": "@akasha/temper-hud-addon",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
@@ -2251,16 +2251,16 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-hud-components": {
+    "temper/temper-hud-components": {
       "name": "@akasha/temper-hud-components",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-hud-window": {
+    "temper/temper-hud-window": {
       "name": "@akasha/temper-hud-window",
     },
-    "akasha/temper/temper-interface-addon": {
+    "temper/temper-interface-addon": {
       "name": "@akasha/temper-interface-addon",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -2269,14 +2269,14 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-inventory-automation": {
+    "temper/temper-inventory-automation": {
       "name": "@akasha/temper-inventory-automation",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-item-browser": {
+    "temper/temper-item-browser": {
       "name": "@akasha/temper-item-browser",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -2285,7 +2285,7 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-items-addon": {
+    "temper/temper-items-addon": {
       "name": "@akasha/temper-items-addon",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
@@ -2309,7 +2309,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-items-core": {
+    "temper/temper-items-core": {
       "name": "@akasha/temper-items-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
@@ -2324,7 +2324,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-items-filters-addon": {
+    "temper/temper-items-filters-addon": {
       "name": "@akasha/temper-items-filters-addon",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
@@ -2333,7 +2333,7 @@
         "@akasha/temper-items-rules-eval": "workspace:*",
       },
     },
-    "akasha/temper/temper-items-filters-core": {
+    "temper/temper-items-filters-core": {
       "name": "@akasha/temper-items-filters-core",
       "dependencies": {
         "@akasha/temper-companions-core": "workspace:*",
@@ -2344,7 +2344,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-items-rules-core": {
+    "temper/temper-items-rules-core": {
       "name": "@akasha/temper-items-rules-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
@@ -2357,14 +2357,14 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-items-rules-eval": {
+    "temper/temper-items-rules-eval": {
       "name": "@akasha/temper-items-rules-eval",
       "dependencies": {
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
       },
     },
-    "akasha/temper/temper-items-rules-matcher": {
+    "temper/temper-items-rules-matcher": {
       "name": "@akasha/temper-items-rules-matcher",
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
@@ -2382,7 +2382,7 @@
         "fast-check": "^4.5.3",
       },
     },
-    "akasha/temper/temper-items-rules-routing": {
+    "temper/temper-items-rules-routing": {
       "name": "@akasha/temper-items-rules-routing",
       "dependencies": {
         "@akasha/temper-items-core": "workspace:*",
@@ -2392,7 +2392,7 @@
         "fast-check": "^4.5.3",
       },
     },
-    "akasha/temper/temper-items-rules-routing-core": {
+    "temper/temper-items-rules-routing-core": {
       "name": "@akasha/temper-items-rules-routing-core",
       "dependencies": {
         "@akasha/temper-items-core": "workspace:*",
@@ -2400,53 +2400,53 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-keybinder-addon": {
+    "temper/temper-keybinder-addon": {
       "name": "@akasha/temper-keybinder-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-lib-addon-keybinds": {
+    "temper/temper-lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
     },
-    "akasha/temper/temper-lib-addon-menu": {
+    "temper/temper-lib-addon-menu": {
       "name": "@akasha/temper-lib-addon-menu",
     },
-    "akasha/temper/temper-lib-addon-menu-order-list-box": {
+    "temper/temper-lib-addon-menu-order-list-box": {
       "name": "@akasha/temper-lib-addon-menu-order-list-box",
     },
-    "akasha/temper/temper-lib-alchemy-station": {
+    "temper/temper-lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
     },
-    "akasha/temper/temper-lib-async": {
+    "temper/temper-lib-async": {
       "name": "@akasha/temper-lib-async",
     },
-    "akasha/temper/temper-lib-character-knowledge": {
+    "temper/temper-lib-character-knowledge": {
       "name": "@akasha/temper-lib-character-knowledge",
       "dependencies": {
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-lib-chat-message": {
+    "temper/temper-lib-chat-message": {
       "name": "@akasha/temper-lib-chat-message",
     },
-    "akasha/temper/temper-lib-custom-menu": {
+    "temper/temper-lib-custom-menu": {
       "name": "@akasha/temper-lib-custom-menu",
     },
-    "akasha/temper/temper-lib-data-encode": {
+    "temper/temper-lib-data-encode": {
       "name": "@akasha/temper-lib-data-encode",
     },
-    "akasha/temper/temper-lib-debug-logger": {
+    "temper/temper-lib-debug-logger": {
       "name": "@akasha/temper-lib-debug-logger",
     },
-    "akasha/temper/temper-lib-extended-journal": {
+    "temper/temper-lib-extended-journal": {
       "name": "@akasha/temper-lib-extended-journal",
     },
-    "akasha/temper/temper-lib-gps": {
+    "temper/temper-lib-gps": {
       "name": "@akasha/temper-lib-gps",
     },
-    "akasha/temper/temper-lib-histoire": {
+    "temper/temper-lib-histoire": {
       "name": "@akasha/temper-lib-histoire",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -2454,55 +2454,55 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-lib-main-menu": {
+    "temper/temper-lib-main-menu": {
       "name": "@akasha/temper-lib-main-menu",
     },
-    "akasha/temper/temper-lib-map-data": {
+    "temper/temper-lib-map-data": {
       "name": "@akasha/temper-lib-map-data",
     },
-    "akasha/temper/temper-lib-map-ping": {
+    "temper/temper-lib-map-ping": {
       "name": "@akasha/temper-lib-map-ping",
     },
-    "akasha/temper/temper-lib-map-pins": {
+    "temper/temper-lib-map-pins": {
       "name": "@akasha/temper-lib-map-pins",
     },
-    "akasha/temper/temper-lib-media-provider": {
+    "temper/temper-lib-media-provider": {
       "name": "@akasha/temper-lib-media-provider",
     },
-    "akasha/temper/temper-lib-notification": {
+    "temper/temper-lib-notification": {
       "name": "@akasha/temper-lib-notification",
     },
-    "akasha/temper/temper-lib-price": {
+    "temper/temper-lib-price": {
       "name": "@akasha/temper-lib-price",
     },
-    "akasha/temper/temper-lib-saved-vars": {
+    "temper/temper-lib-saved-vars": {
       "name": "@akasha/temper-lib-saved-vars",
     },
-    "akasha/temper/temper-lib-scrollable-menu": {
+    "temper/temper-lib-scrollable-menu": {
       "name": "@akasha/temper-lib-scrollable-menu",
     },
-    "akasha/temper/temper-lib-sets": {
+    "temper/temper-lib-sets": {
       "name": "@akasha/temper-lib-sets",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-lib-shifter-box": {
+    "temper/temper-lib-shifter-box": {
       "name": "@akasha/temper-lib-shifter-box",
     },
-    "akasha/temper/temper-lib-slash-commander": {
+    "temper/temper-lib-slash-commander": {
       "name": "@akasha/temper-lib-slash-commander",
     },
-    "akasha/temper/temper-lib-table-functions": {
+    "temper/temper-lib-table-functions": {
       "name": "@akasha/temper-lib-table-functions",
     },
-    "akasha/temper/temper-lib-treasure": {
+    "temper/temper-lib-treasure": {
       "name": "@akasha/temper-lib-treasure",
     },
-    "akasha/temper/temper-lib-zone": {
+    "temper/temper-lib-zone": {
       "name": "@akasha/temper-lib-zone",
     },
-    "akasha/temper/temper-lorebooks": {
+    "temper/temper-lorebooks": {
       "name": "@akasha/temper-lorebooks",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -2510,7 +2510,7 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-lost-treasure": {
+    "temper/temper-lost-treasure": {
       "name": "@akasha/temper-lost-treasure",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -2518,19 +2518,19 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-lua-runner": {
+    "temper/temper-lua-runner": {
       "name": "@akasha/temper-lua-runner",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-narrow": {
+    "temper/temper-narrow": {
       "name": "@akasha/temper-narrow",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-navigation-addon": {
+    "temper/temper-navigation-addon": {
       "name": "@akasha/temper-navigation-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2539,7 +2539,7 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-player-completion": {
+    "temper/temper-player-completion": {
       "name": "@akasha/temper-player-completion",
       "dependencies": {
         "@akasha/temper-champion-points": "workspace:*",
@@ -2559,7 +2559,7 @@
         "fast-check": "^4.5.3",
       },
     },
-    "akasha/temper/temper-player-completion-skills-morphs-ui": {
+    "temper/temper-player-completion-skills-morphs-ui": {
       "name": "@akasha/temper-player-completion-skills-morphs-ui",
       "dependencies": {
         "@akasha/design-patterns": "workspace:*",
@@ -2574,7 +2574,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-player-completion-state": {
+    "temper/temper-player-completion-state": {
       "name": "@akasha/temper-player-completion-state",
       "dependencies": {
         "@akasha/temper-completion": "workspace:*",
@@ -2582,7 +2582,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-player-completion-ui": {
+    "temper/temper-player-completion-ui": {
       "name": "@akasha/temper-player-completion-ui",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
@@ -2598,7 +2598,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-player-economics-ui": {
+    "temper/temper-player-economics-ui": {
       "name": "@akasha/temper-player-economics-ui",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
@@ -2625,7 +2625,7 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-player-inventory-management-ui": {
+    "temper/temper-player-inventory-management-ui": {
       "name": "@akasha/temper-player-inventory-management-ui",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
@@ -2659,7 +2659,7 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-player-profile": {
+    "temper/temper-player-profile": {
       "name": "@akasha/temper-player-profile",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -2671,7 +2671,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/temper/temper-quests-addon": {
+    "temper/temper-quests-addon": {
       "name": "@akasha/temper-quests-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2680,27 +2680,27 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-quests-trace": {
+    "temper/temper-quests-trace": {
       "name": "@akasha/temper-quests-trace",
       "dependencies": {
         "@akasha/temper-saved-variables": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-races": {
+    "temper/temper-races": {
       "name": "@akasha/temper-races",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-saved-variables": {
+    "temper/temper-saved-variables": {
       "name": "@akasha/temper-saved-variables",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-saved-vars-migration": {
+    "temper/temper-saved-vars-migration": {
       "name": "@akasha/temper-saved-vars-migration",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -2708,7 +2708,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-selector-addon": {
+    "temper/temper-selector-addon": {
       "name": "@akasha/temper-selector-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2716,30 +2716,30 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-settings-panel": {
+    "temper/temper-settings-panel": {
       "name": "@akasha/temper-settings-panel",
     },
-    "akasha/temper/temper-shopping": {
+    "temper/temper-shopping": {
       "name": "@akasha/temper-shopping",
       "dependencies": {
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-skill-kinds": {
+    "temper/temper-skill-kinds": {
       "name": "@akasha/temper-skill-kinds",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-skill-lines": {
+    "temper/temper-skill-lines": {
       "name": "@akasha/temper-skill-lines",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-skill-morphs": {
+    "temper/temper-skill-morphs": {
       "name": "@akasha/temper-skill-morphs",
       "dependencies": {
         "@akasha/temper-character-skills": "workspace:*",
@@ -2747,7 +2747,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-skill-morphs-access": {
+    "temper/temper-skill-morphs-access": {
       "name": "@akasha/temper-skill-morphs-access",
       "dependencies": {
         "@akasha/temper-character-skills": "workspace:*",
@@ -2758,20 +2758,20 @@
         "@akasha/temper-skill-morphs": "workspace:*",
       },
     },
-    "akasha/temper/temper-skill-point-finder": {
+    "temper/temper-skill-point-finder": {
       "name": "@akasha/temper-skill-point-finder",
       "dependencies": {
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "akasha/temper/temper-skyshards": {
+    "temper/temper-skyshards": {
       "name": "@akasha/temper-skyshards",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-trading-addon": {
+    "temper/temper-trading-addon": {
       "name": "@akasha/temper-trading-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -2786,7 +2786,7 @@
         "@akasha/temper-trading-post": "workspace:*",
       },
     },
-    "akasha/temper/temper-trading-listings": {
+    "temper/temper-trading-listings": {
       "name": "@akasha/temper-trading-listings",
       "dependencies": {
         "@akasha/temper-capture-host": "workspace:*",
@@ -2795,26 +2795,26 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-trading-post": {
+    "temper/temper-trading-post": {
       "name": "@akasha/temper-trading-post",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "akasha/temper/temper-trading-pricing": {
+    "temper/temper-trading-pricing": {
       "name": "@akasha/temper-trading-pricing",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-trading-pricing-client": {
+    "temper/temper-trading-pricing-client": {
       "name": "@akasha/temper-trading-pricing-client",
       "dependencies": {
         "@akasha/temper-trading-pricing": "workspace:*",
       },
     },
-    "akasha/temper/temper-upstream-data": {
+    "temper/temper-upstream-data": {
       "name": "@akasha/temper-upstream-data",
       "dependencies": {
         "@akasha/git": "workspace:*",
@@ -2823,7 +2823,7 @@
         "@akasha/utils-run": "workspace:*",
       },
     },
-    "akasha/temper/temper-watcher": {
+    "temper/temper-watcher": {
       "name": "@akasha/temper-watcher",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -2866,7 +2866,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/temper/temper-web": {
+    "temper/temper-web": {
       "name": "@akasha/temper-web",
       "version": "0.1.0",
       "dependencies": {
@@ -2961,7 +2961,7 @@
         "tailwindcss": "^4.0",
       },
     },
-    "akasha/testing-system": {
+    "testing-system": {
       "name": "@akasha/testing-system",
       "dependencies": {
         "@happy-dom/global-registrator": "^20.8.3",
@@ -2972,61 +2972,61 @@
         "react-dom": "^19",
       },
     },
-    "akasha/utils-fs": {
+    "utils-fs": {
       "name": "@akasha/utils-fs",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
       },
     },
-    "akasha/utils-narrow": {
+    "utils-narrow": {
       "name": "@akasha/utils-narrow",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/utils-process": {
+    "utils-process": {
       "name": "@akasha/utils-process",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/utils-run": {
+    "utils-run": {
       "name": "@akasha/utils-run",
     },
-    "akasha/utils-sync": {
+    "utils-sync": {
       "name": "@akasha/utils-sync",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/utils-system": {
+    "utils-system": {
       "name": "@akasha/utils-system",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/verdict": {
+    "verdict": {
       "name": "@akasha/verdict",
     },
-    "akasha/version/checkout": {
+    "version/checkout": {
       "name": "@akasha/checkout-version",
       "dependencies": {
         "@akasha/git": "workspace:*",
         "zod": "^4.3.6",
       },
     },
-    "akasha/version/web-build": {
+    "version/web-build": {
       "name": "@akasha/web-build-version",
     },
-    "akasha/voice-core": {
+    "voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/web-page-answers": {
+    "web-page-answers": {
       "name": "@akasha/web-page-answers",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -3035,13 +3035,13 @@
         "lucide-react": "^0.576.0",
       },
     },
-    "akasha/web-security-headers": {
+    "web-security-headers": {
       "name": "@akasha/web-security-headers",
     },
-    "akasha/web-static-assets": {
+    "web-static-assets": {
       "name": "@akasha/web-static-assets",
     },
-    "akasha/workspace-paths": {
+    "workspace-paths": {
       "name": "@akasha/workspace-paths",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
@@ -3063,607 +3063,607 @@
   "packages": {
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
 
-    "@akasha/agents": ["@akasha/agents@workspace:akasha/agents"],
+    "@akasha/agents": ["@akasha/agents@workspace:agents"],
 
-    "@akasha/alanwalton-atlas-web": ["@akasha/alanwalton-atlas-web@workspace:akasha/alan/atlas-web"],
+    "@akasha/alanwalton-atlas-web": ["@akasha/alanwalton-atlas-web@workspace:alan/atlas-web"],
 
-    "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:akasha/alan/web"],
+    "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:alan/web"],
 
-    "@akasha/alanwalton-web-capacitor": ["@akasha/alanwalton-web-capacitor@workspace:akasha/alan/web-capacitor"],
+    "@akasha/alanwalton-web-capacitor": ["@akasha/alanwalton-web-capacitor@workspace:alan/web-capacitor"],
 
-    "@akasha/analysis-complexity": ["@akasha/analysis-complexity@workspace:akasha/infrastructure/analysis-complexity"],
+    "@akasha/analysis-complexity": ["@akasha/analysis-complexity@workspace:infrastructure/analysis-complexity"],
 
-    "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:akasha/archive-of-worlds/archive-of-worlds-web"],
+    "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:archive-of-worlds/archive-of-worlds-web"],
 
-    "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:akasha/audhdalan/audhdalan-web"],
+    "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:audhdalan/audhdalan-web"],
 
-    "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:akasha/infrastructure/auth-proxy"],
+    "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/auth-proxy"],
 
-    "@akasha/backup-retention": ["@akasha/backup-retention@workspace:akasha/infrastructure/backup-retention"],
+    "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/backup-retention"],
 
-    "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:akasha/alan/library/book-of-everything"],
+    "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:alan/library/book-of-everything"],
 
-    "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:akasha/alan/library/book-of-everything/commands"],
+    "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:alan/library/book-of-everything/commands"],
 
-    "@akasha/browser-commands": ["@akasha/browser-commands@workspace:akasha/browser/browser-commands"],
+    "@akasha/browser-commands": ["@akasha/browser-commands@workspace:browser/browser-commands"],
 
-    "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:akasha/browser/launch-env"],
+    "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:browser/launch-env"],
 
-    "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:akasha/browser/test-harness"],
+    "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:browser/test-harness"],
 
-    "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:akasha/calendar-sync"],
+    "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:calendar-sync"],
 
-    "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
+    "@akasha/checkout-version": ["@akasha/checkout-version@workspace:version/checkout"],
 
-    "@akasha/checks": ["@akasha/checks@workspace:akasha/checks"],
+    "@akasha/checks": ["@akasha/checks@workspace:checks"],
 
-    "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/alan/chess"],
+    "@akasha/chess-core": ["@akasha/chess-core@workspace:alan/chess"],
 
-    "@akasha/ci-benchmark": ["@akasha/ci-benchmark@workspace:akasha/infrastructure/ci-benchmark"],
+    "@akasha/ci-benchmark": ["@akasha/ci-benchmark@workspace:infrastructure/ci-benchmark"],
 
-    "@akasha/ci-containers": ["@akasha/ci-containers@workspace:akasha/infrastructure/ci-containers"],
+    "@akasha/ci-containers": ["@akasha/ci-containers@workspace:infrastructure/ci-containers"],
 
-    "@akasha/cluster-api": ["@akasha/cluster-api@workspace:akasha/infrastructure/cluster-api"],
+    "@akasha/cluster-api": ["@akasha/cluster-api@workspace:infrastructure/cluster-api"],
 
-    "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:akasha/infrastructure/cluster-manifests"],
+    "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster-manifests"],
 
-    "@akasha/code-system": ["@akasha/code-system@workspace:akasha/code-system"],
+    "@akasha/code-system": ["@akasha/code-system@workspace:code-system"],
 
-    "@akasha/comfy": ["@akasha/comfy@workspace:akasha/infrastructure/comfy"],
+    "@akasha/comfy": ["@akasha/comfy@workspace:infrastructure/comfy"],
 
-    "@akasha/command-system": ["@akasha/command-system@workspace:akasha/command-system"],
+    "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 
-    "@akasha/context-system": ["@akasha/context-system@workspace:akasha/context-system"],
+    "@akasha/context-system": ["@akasha/context-system@workspace:context-system"],
 
-    "@akasha/day": ["@akasha/day@workspace:akasha/day"],
+    "@akasha/day": ["@akasha/day@workspace:day"],
 
-    "@akasha/design-badges": ["@akasha/design-badges@workspace:akasha/design/badges"],
+    "@akasha/design-badges": ["@akasha/design-badges@workspace:design/badges"],
 
-    "@akasha/design-forms": ["@akasha/design-forms@workspace:akasha/design/forms"],
+    "@akasha/design-forms": ["@akasha/design-forms@workspace:design/forms"],
 
-    "@akasha/design-layout": ["@akasha/design-layout@workspace:akasha/design/layout"],
+    "@akasha/design-layout": ["@akasha/design-layout@workspace:design/layout"],
 
-    "@akasha/design-patterns": ["@akasha/design-patterns@workspace:akasha/design/patterns"],
+    "@akasha/design-patterns": ["@akasha/design-patterns@workspace:design/patterns"],
 
-    "@akasha/design-primitives": ["@akasha/design-primitives@workspace:akasha/design/primitives"],
+    "@akasha/design-primitives": ["@akasha/design-primitives@workspace:design/primitives"],
 
-    "@akasha/design-system": ["@akasha/design-system@workspace:akasha/design/system"],
+    "@akasha/design-system": ["@akasha/design-system@workspace:design/system"],
 
-    "@akasha/design-tokens": ["@akasha/design-tokens@workspace:akasha/design/tokens"],
+    "@akasha/design-tokens": ["@akasha/design-tokens@workspace:design/tokens"],
 
-    "@akasha/digit-padding": ["@akasha/digit-padding@workspace:akasha/digit-padding"],
+    "@akasha/digit-padding": ["@akasha/digit-padding@workspace:digit-padding"],
 
-    "@akasha/dockerfiles": ["@akasha/dockerfiles@workspace:akasha/infrastructure/dockerfiles"],
+    "@akasha/dockerfiles": ["@akasha/dockerfiles@workspace:infrastructure/dockerfiles"],
 
-    "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
+    "@akasha/domain-system": ["@akasha/domain-system@workspace:domain-system"],
 
-    "@akasha/editor-extension": ["@akasha/editor-extension@workspace:akasha/editor-extension"],
+    "@akasha/editor-extension": ["@akasha/editor-extension@workspace:editor-extension"],
 
-    "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
+    "@akasha/email-inbound": ["@akasha/email-inbound@workspace:email-inbound"],
 
-    "@akasha/email-watch": ["@akasha/email-watch@workspace:akasha/email-watch"],
+    "@akasha/email-watch": ["@akasha/email-watch@workspace:email-watch"],
 
-    "@akasha/errors-client": ["@akasha/errors-client@workspace:akasha/errors-client"],
+    "@akasha/errors-client": ["@akasha/errors-client@workspace:errors-client"],
 
-    "@akasha/errors-core": ["@akasha/errors-core@workspace:akasha/errors-core"],
+    "@akasha/errors-core": ["@akasha/errors-core@workspace:errors-core"],
 
-    "@akasha/eso-rig": ["@akasha/eso-rig@workspace:akasha/infrastructure/eso-rig"],
+    "@akasha/eso-rig": ["@akasha/eso-rig@workspace:infrastructure/eso-rig"],
 
-    "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:akasha/alan/eso/eso-wallpapers"],
+    "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:alan/eso/eso-wallpapers"],
 
-    "@akasha/exercise-access": ["@akasha/exercise-access@workspace:akasha/alan/fitness/exercise-access"],
+    "@akasha/exercise-access": ["@akasha/exercise-access@workspace:alan/fitness/exercise-access"],
 
-    "@akasha/exercise-commands": ["@akasha/exercise-commands@workspace:akasha/alan/fitness/commands"],
+    "@akasha/exercise-commands": ["@akasha/exercise-commands@workspace:alan/fitness/commands"],
 
-    "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:akasha/file-page-identity"],
+    "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:file-page-identity"],
 
-    "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
+    "@akasha/file-system": ["@akasha/file-system@workspace:file-system"],
 
-    "@akasha/geo-io": ["@akasha/geo-io@workspace:akasha/geo-io"],
+    "@akasha/geo-io": ["@akasha/geo-io@workspace:geo-io"],
 
-    "@akasha/git": ["@akasha/git@workspace:akasha/git"],
+    "@akasha/git": ["@akasha/git@workspace:git"],
 
-    "@akasha/git-transport": ["@akasha/git-transport@workspace:akasha/git-transport"],
+    "@akasha/git-transport": ["@akasha/git-transport@workspace:git-transport"],
 
-    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:akasha/google/calendar"],
+    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:google/calendar"],
 
-    "@akasha/google-drive": ["@akasha/google-drive@workspace:akasha/google/drive"],
+    "@akasha/google-drive": ["@akasha/google-drive@workspace:google/drive"],
 
-    "@akasha/google-email": ["@akasha/google-email@workspace:akasha/google/email"],
+    "@akasha/google-email": ["@akasha/google-email@workspace:google/email"],
 
-    "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google/oauth"],
+    "@akasha/google-oauth": ["@akasha/google-oauth@workspace:google/oauth"],
 
-    "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
+    "@akasha/graph-system": ["@akasha/graph-system@workspace:graph-system"],
 
-    "@akasha/great-courses": ["@akasha/great-courses@workspace:akasha/great-courses"],
+    "@akasha/great-courses": ["@akasha/great-courses@workspace:great-courses"],
 
-    "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:akasha/health-samples-access"],
+    "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:health-samples-access"],
 
-    "@akasha/health-samples-day": ["@akasha/health-samples-day@workspace:akasha/health-samples-day"],
+    "@akasha/health-samples-day": ["@akasha/health-samples-day@workspace:health-samples-day"],
 
-    "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:akasha/health-samples-import"],
+    "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:health-samples-import"],
 
-    "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
+    "@akasha/hook-system": ["@akasha/hook-system@workspace:hook-system"],
 
-    "@akasha/icloud-photos": ["@akasha/icloud-photos@workspace:akasha/icloud-photos"],
+    "@akasha/icloud-photos": ["@akasha/icloud-photos@workspace:icloud-photos"],
 
-    "@akasha/id-minting": ["@akasha/id-minting@workspace:akasha/id-minting"],
+    "@akasha/id-minting": ["@akasha/id-minting@workspace:id-minting"],
 
-    "@akasha/idle-system": ["@akasha/idle-system@workspace:akasha/idle-system"],
+    "@akasha/idle-system": ["@akasha/idle-system@workspace:idle-system"],
 
-    "@akasha/imessage": ["@akasha/imessage@workspace:akasha/imessage"],
+    "@akasha/imessage": ["@akasha/imessage@workspace:imessage"],
 
-    "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
+    "@akasha/indexes": ["@akasha/indexes@workspace:pages-system/indexes"],
 
-    "@akasha/inference-clients": ["@akasha/inference-clients@workspace:akasha/infrastructure/inference-clients"],
+    "@akasha/inference-clients": ["@akasha/inference-clients@workspace:infrastructure/inference-clients"],
 
-    "@akasha/inference-commands": ["@akasha/inference-commands@workspace:akasha/infrastructure/inference-commands"],
+    "@akasha/inference-commands": ["@akasha/inference-commands@workspace:infrastructure/inference-commands"],
 
-    "@akasha/inference-pool": ["@akasha/inference-pool@workspace:akasha/infrastructure/inference-pool"],
+    "@akasha/inference-pool": ["@akasha/inference-pool@workspace:infrastructure/inference-pool"],
 
-    "@akasha/inference-runs": ["@akasha/inference-runs@workspace:akasha/infrastructure/inference-runs"],
+    "@akasha/inference-runs": ["@akasha/inference-runs@workspace:infrastructure/inference-runs"],
 
-    "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:akasha/infrastructure/infrastructure-commands"],
+    "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:infrastructure/infrastructure-commands"],
 
-    "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:akasha/infrastructure/k8s-synth"],
+    "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:infrastructure/k8s-synth"],
 
-    "@akasha/k8s-types": ["@akasha/k8s-types@workspace:akasha/infrastructure/k8s-types"],
+    "@akasha/k8s-types": ["@akasha/k8s-types@workspace:infrastructure/k8s-types"],
 
-    "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
+    "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:location-traces-access"],
 
-    "@akasha/loki-service": ["@akasha/loki-service@workspace:akasha/infrastructure/loki-service"],
+    "@akasha/loki-service": ["@akasha/loki-service@workspace:infrastructure/loki-service"],
 
-    "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:akasha/language-design/lua-compiler"],
+    "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
 
-    "@akasha/markdown-pages": ["@akasha/markdown-pages@workspace:akasha/markdown-pages"],
+    "@akasha/markdown-pages": ["@akasha/markdown-pages@workspace:markdown-pages"],
 
-    "@akasha/migration-system": ["@akasha/migration-system@workspace:akasha/migration-system"],
+    "@akasha/migration-system": ["@akasha/migration-system@workspace:migration-system"],
 
-    "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
+    "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:mobile-cli"],
 
-    "@akasha/mobile-commands": ["@akasha/mobile-commands@workspace:akasha/mobile-commands"],
+    "@akasha/mobile-commands": ["@akasha/mobile-commands@workspace:mobile-commands"],
 
-    "@akasha/music-choosing": ["@akasha/music-choosing@workspace:akasha/alan/music/choosing"],
+    "@akasha/music-choosing": ["@akasha/music-choosing@workspace:alan/music/choosing"],
 
-    "@akasha/music-commands": ["@akasha/music-commands@workspace:akasha/alan/music/commands"],
+    "@akasha/music-commands": ["@akasha/music-commands@workspace:alan/music/commands"],
 
-    "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
+    "@akasha/named-for": ["@akasha/named-for@workspace:named-for"],
 
-    "@akasha/object-store": ["@akasha/object-store@workspace:akasha/object-store"],
+    "@akasha/object-store": ["@akasha/object-store@workspace:object-store"],
 
-    "@akasha/old-graph": ["@akasha/old-graph@workspace:akasha/old-graph"],
+    "@akasha/old-graph": ["@akasha/old-graph@workspace:old-graph"],
 
-    "@akasha/page-commands": ["@akasha/page-commands@workspace:akasha/pages-system/page-commands"],
+    "@akasha/page-commands": ["@akasha/page-commands@workspace:pages-system/page-commands"],
 
-    "@akasha/pages-access": ["@akasha/pages-access@workspace:akasha/pages-system/pages-access"],
+    "@akasha/pages-access": ["@akasha/pages-access@workspace:pages-system/pages-access"],
 
-    "@akasha/pages-core": ["@akasha/pages-core@workspace:akasha/pages-system/pages-core"],
+    "@akasha/pages-core": ["@akasha/pages-core@workspace:pages-system/pages-core"],
 
-    "@akasha/pages-formula": ["@akasha/pages-formula@workspace:akasha/pages-system/pages-formula"],
+    "@akasha/pages-formula": ["@akasha/pages-formula@workspace:pages-system/pages-formula"],
 
-    "@akasha/pages-query": ["@akasha/pages-query@workspace:akasha/pages-system/pages-query"],
+    "@akasha/pages-query": ["@akasha/pages-query@workspace:pages-system/pages-query"],
 
-    "@akasha/pages-system": ["@akasha/pages-system@workspace:akasha/pages-system"],
+    "@akasha/pages-system": ["@akasha/pages-system@workspace:pages-system"],
 
-    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:akasha/pages-system/service"],
+    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:pages-system/service"],
 
-    "@akasha/pages-ui": ["@akasha/pages-ui@workspace:akasha/pages-system/pages-ui"],
+    "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages-system/pages-ui"],
 
-    "@akasha/pages-ui-components": ["@akasha/pages-ui-components@workspace:akasha/pages-system/pages-ui/components"],
+    "@akasha/pages-ui-components": ["@akasha/pages-ui-components@workspace:pages-system/pages-ui/components"],
 
-    "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:akasha/pages-system/pages-ui-store"],
+    "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages-system/pages-ui-store"],
 
-    "@akasha/pages-url": ["@akasha/pages-url@workspace:akasha/pages-system/pages-url"],
+    "@akasha/pages-url": ["@akasha/pages-url@workspace:pages-system/pages-url"],
 
-    "@akasha/person-system": ["@akasha/person-system@workspace:akasha/person-system"],
+    "@akasha/person-system": ["@akasha/person-system@workspace:person-system"],
 
-    "@akasha/persona-system": ["@akasha/persona-system@workspace:akasha/persona-system"],
+    "@akasha/persona-system": ["@akasha/persona-system@workspace:persona-system"],
 
-    "@akasha/personas-core": ["@akasha/personas-core@workspace:akasha/personas-core"],
+    "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
 
-    "@akasha/pipeline-commands": ["@akasha/pipeline-commands@workspace:akasha/infrastructure/commands"],
+    "@akasha/pipeline-commands": ["@akasha/pipeline-commands@workspace:infrastructure/commands"],
 
-    "@akasha/pipeline-orchestration": ["@akasha/pipeline-orchestration@workspace:akasha/changes/pipeline-orchestration"],
+    "@akasha/pipeline-orchestration": ["@akasha/pipeline-orchestration@workspace:changes/pipeline-orchestration"],
 
-    "@akasha/pipeline-sweep": ["@akasha/pipeline-sweep@workspace:akasha/changes/pipeline-sweep"],
+    "@akasha/pipeline-sweep": ["@akasha/pipeline-sweep@workspace:changes/pipeline-sweep"],
 
-    "@akasha/plain-language": ["@akasha/plain-language@workspace:akasha/domain-system/plain-language"],
+    "@akasha/plain-language": ["@akasha/plain-language@workspace:domain-system/plain-language"],
 
-    "@akasha/postgres-annual-dump": ["@akasha/postgres-annual-dump@workspace:akasha/infrastructure/postgres-annual-dump"],
+    "@akasha/postgres-annual-dump": ["@akasha/postgres-annual-dump@workspace:infrastructure/postgres-annual-dump"],
 
-    "@akasha/reading": ["@akasha/reading@workspace:akasha/alan/library/reading"],
+    "@akasha/reading": ["@akasha/reading@workspace:alan/library/reading"],
 
-    "@akasha/readout-system": ["@akasha/readout-system@workspace:akasha/readout-system"],
+    "@akasha/readout-system": ["@akasha/readout-system@workspace:readout-system"],
 
-    "@akasha/recurrence": ["@akasha/recurrence@workspace:akasha/recurrence"],
+    "@akasha/recurrence": ["@akasha/recurrence@workspace:recurrence"],
 
-    "@akasha/reminder-system": ["@akasha/reminder-system@workspace:akasha/reminder-system"],
+    "@akasha/reminder-system": ["@akasha/reminder-system@workspace:reminder-system"],
 
-    "@akasha/royal-road": ["@akasha/royal-road@workspace:akasha/collection-system/royal-road"],
+    "@akasha/royal-road": ["@akasha/royal-road@workspace:collection-system/royal-road"],
 
-    "@akasha/rule-population": ["@akasha/rule-population@workspace:akasha/rule-population"],
+    "@akasha/rule-population": ["@akasha/rule-population@workspace:rule-population"],
 
-    "@akasha/rules-engine": ["@akasha/rules-engine@workspace:akasha/rules-engine"],
+    "@akasha/rules-engine": ["@akasha/rules-engine@workspace:rules-engine"],
 
-    "@akasha/seat-system": ["@akasha/seat-system@workspace:akasha/seat-system"],
+    "@akasha/seat-system": ["@akasha/seat-system@workspace:seat-system"],
 
-    "@akasha/seaweedfs": ["@akasha/seaweedfs@workspace:akasha/infrastructure/seaweedfs"],
+    "@akasha/seaweedfs": ["@akasha/seaweedfs@workspace:infrastructure/seaweedfs"],
 
-    "@akasha/service-system": ["@akasha/service-system@workspace:akasha/service-system"],
+    "@akasha/service-system": ["@akasha/service-system@workspace:service-system"],
 
-    "@akasha/session-planning": ["@akasha/session-planning@workspace:akasha/alan/fitness/session-planning"],
+    "@akasha/session-planning": ["@akasha/session-planning@workspace:alan/fitness/session-planning"],
 
-    "@akasha/shell": ["@akasha/shell@workspace:akasha/shell"],
+    "@akasha/shell": ["@akasha/shell@workspace:shell"],
 
-    "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:akasha/smilingjenny/smilingjenny-web"],
+    "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/smilingjenny-web"],
 
-    "@akasha/sms-access": ["@akasha/sms-access@workspace:akasha/sms-access"],
+    "@akasha/sms-access": ["@akasha/sms-access@workspace:sms-access"],
 
-    "@akasha/sms-core": ["@akasha/sms-core@workspace:akasha/sms-core"],
+    "@akasha/sms-core": ["@akasha/sms-core@workspace:sms-core"],
 
-    "@akasha/spotify": ["@akasha/spotify@workspace:akasha/alan/music/spotify"],
+    "@akasha/spotify": ["@akasha/spotify@workspace:alan/music/spotify"],
 
-    "@akasha/ssh-access": ["@akasha/ssh-access@workspace:akasha/ssh-access"],
+    "@akasha/ssh-access": ["@akasha/ssh-access@workspace:ssh-access"],
 
-    "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:akasha/status-bar-access"],
+    "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:status-bar-access"],
 
-    "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:akasha/story/engine/core"],
+    "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
-    "@akasha/story-tower": ["@akasha/story-tower@workspace:akasha/story/tower"],
+    "@akasha/story-tower": ["@akasha/story-tower@workspace:story/tower"],
 
-    "@akasha/story-tower-core": ["@akasha/story-tower-core@workspace:akasha/story/tower/core"],
+    "@akasha/story-tower-core": ["@akasha/story-tower-core@workspace:story/tower/core"],
 
-    "@akasha/story-tower-engine": ["@akasha/story-tower-engine@workspace:akasha/story/tower/engine"],
+    "@akasha/story-tower-engine": ["@akasha/story-tower-engine@workspace:story/tower/engine"],
 
-    "@akasha/story-ui": ["@akasha/story-ui@workspace:akasha/story/ui"],
+    "@akasha/story-ui": ["@akasha/story-ui@workspace:story/ui"],
 
-    "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:akasha/supabase-auth"],
+    "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:supabase-auth"],
 
-    "@akasha/supabase-client": ["@akasha/supabase-client@workspace:akasha/supabase-client"],
+    "@akasha/supabase-client": ["@akasha/supabase-client@workspace:supabase-client"],
 
-    "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:akasha/supabase-rr"],
+    "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:supabase-rr"],
 
-    "@akasha/supabase-server": ["@akasha/supabase-server@workspace:akasha/supabase-server"],
+    "@akasha/supabase-server": ["@akasha/supabase-server@workspace:supabase-server"],
 
-    "@akasha/talos": ["@akasha/talos@workspace:akasha/infrastructure/cluster-provisioning/talos"],
+    "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster-provisioning/talos"],
 
-    "@akasha/temper-addon-build": ["@akasha/temper-addon-build@workspace:akasha/temper/temper-addon-build"],
+    "@akasha/temper-addon-build": ["@akasha/temper-addon-build@workspace:temper/temper-addon-build"],
 
-    "@akasha/temper-addon-data": ["@akasha/temper-addon-data@workspace:akasha/temper/temper-addon-data"],
+    "@akasha/temper-addon-data": ["@akasha/temper-addon-data@workspace:temper/temper-addon-data"],
 
-    "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:akasha/temper/temper-addon-generators"],
+    "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:temper/temper-addon-generators"],
 
-    "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:akasha/temper/temper-addon-init"],
+    "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:temper/temper-addon-init"],
 
-    "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:akasha/temper/temper-addon-library-types"],
+    "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/temper-addon-library-types"],
 
-    "@akasha/temper-addons-resolve": ["@akasha/temper-addons-resolve@workspace:akasha/temper/temper-addons-resolve"],
+    "@akasha/temper-addons-resolve": ["@akasha/temper-addons-resolve@workspace:temper/temper-addons-resolve"],
 
-    "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:akasha/temper/temper-alchemy"],
+    "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:temper/temper-alchemy"],
 
-    "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:akasha/temper/temper-antiquities-addon"],
+    "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/temper-antiquities-addon"],
 
-    "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:akasha/temper/temper-bit-codec"],
+    "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:temper/temper-bit-codec"],
 
-    "@akasha/temper-build-codec": ["@akasha/temper-build-codec@workspace:akasha/temper/temper-build-codec"],
+    "@akasha/temper-build-codec": ["@akasha/temper-build-codec@workspace:temper/temper-build-codec"],
 
-    "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:akasha/temper/temper-build-deploy-checks"],
+    "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:temper/temper-build-deploy-checks"],
 
-    "@akasha/temper-build-hash": ["@akasha/temper-build-hash@workspace:akasha/temper/temper-build-hash"],
+    "@akasha/temper-build-hash": ["@akasha/temper-build-hash@workspace:temper/temper-build-hash"],
 
-    "@akasha/temper-build-metadata": ["@akasha/temper-build-metadata@workspace:akasha/temper/temper-build-metadata"],
+    "@akasha/temper-build-metadata": ["@akasha/temper-build-metadata@workspace:temper/temper-build-metadata"],
 
-    "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:akasha/temper/temper-build-support"],
+    "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:temper/temper-build-support"],
 
-    "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:akasha/temper/temper-capture-datamining"],
+    "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:temper/temper-capture-datamining"],
 
-    "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:akasha/temper/temper-capture-datamining-addon"],
+    "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/temper-capture-datamining-addon"],
 
-    "@akasha/temper-capture-datamining-reader": ["@akasha/temper-capture-datamining-reader@workspace:akasha/temper/temper-capture-datamining-reader"],
+    "@akasha/temper-capture-datamining-reader": ["@akasha/temper-capture-datamining-reader@workspace:temper/temper-capture-datamining-reader"],
 
-    "@akasha/temper-capture-descriptor": ["@akasha/temper-capture-descriptor@workspace:akasha/temper/temper-capture-descriptor"],
+    "@akasha/temper-capture-descriptor": ["@akasha/temper-capture-descriptor@workspace:temper/temper-capture-descriptor"],
 
-    "@akasha/temper-capture-errors": ["@akasha/temper-capture-errors@workspace:akasha/temper/temper-capture-errors"],
+    "@akasha/temper-capture-errors": ["@akasha/temper-capture-errors@workspace:temper/temper-capture-errors"],
 
-    "@akasha/temper-capture-host": ["@akasha/temper-capture-host@workspace:akasha/temper/temper-capture-host"],
+    "@akasha/temper-capture-host": ["@akasha/temper-capture-host@workspace:temper/temper-capture-host"],
 
-    "@akasha/temper-capture-perf": ["@akasha/temper-capture-perf@workspace:akasha/temper/temper-capture-perf"],
+    "@akasha/temper-capture-perf": ["@akasha/temper-capture-perf@workspace:temper/temper-capture-perf"],
 
-    "@akasha/temper-capture-sales": ["@akasha/temper-capture-sales@workspace:akasha/temper/temper-capture-sales"],
+    "@akasha/temper-capture-sales": ["@akasha/temper-capture-sales@workspace:temper/temper-capture-sales"],
 
-    "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:akasha/temper/temper-capture-sales-addon"],
+    "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/temper-capture-sales-addon"],
 
-    "@akasha/temper-capture-shapes": ["@akasha/temper-capture-shapes@workspace:akasha/temper/temper-capture-shapes"],
+    "@akasha/temper-capture-shapes": ["@akasha/temper-capture-shapes@workspace:temper/temper-capture-shapes"],
 
-    "@akasha/temper-capture-writer": ["@akasha/temper-capture-writer@workspace:akasha/temper/temper-capture-writer"],
+    "@akasha/temper-capture-writer": ["@akasha/temper-capture-writer@workspace:temper/temper-capture-writer"],
 
-    "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:akasha/temper/temper-catalog-addon"],
+    "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/temper-catalog-addon"],
 
-    "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:akasha/temper/temper-catalog-core"],
+    "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/temper-catalog-core"],
 
-    "@akasha/temper-catalog-host": ["@akasha/temper-catalog-host@workspace:akasha/temper/temper-catalog-host"],
+    "@akasha/temper-catalog-host": ["@akasha/temper-catalog-host@workspace:temper/temper-catalog-host"],
 
-    "@akasha/temper-catalog-side-file": ["@akasha/temper-catalog-side-file@workspace:akasha/temper/temper-catalog-side-file"],
+    "@akasha/temper-catalog-side-file": ["@akasha/temper-catalog-side-file@workspace:temper/temper-catalog-side-file"],
 
-    "@akasha/temper-champion-points": ["@akasha/temper-champion-points@workspace:akasha/temper/temper-champion-points"],
+    "@akasha/temper-champion-points": ["@akasha/temper-champion-points@workspace:temper/temper-champion-points"],
 
-    "@akasha/temper-character-build": ["@akasha/temper-character-build@workspace:akasha/temper/temper-character-build"],
+    "@akasha/temper-character-build": ["@akasha/temper-character-build@workspace:temper/temper-character-build"],
 
-    "@akasha/temper-character-skills": ["@akasha/temper-character-skills@workspace:akasha/temper/temper-character-skills"],
+    "@akasha/temper-character-skills": ["@akasha/temper-character-skills@workspace:temper/temper-character-skills"],
 
-    "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:akasha/temper/temper-character-sources"],
+    "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:temper/temper-character-sources"],
 
-    "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:akasha/temper/temper-characters-addon"],
+    "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/temper-characters-addon"],
 
-    "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:akasha/temper/temper-characters-capture-addon"],
+    "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:temper/temper-characters-capture-addon"],
 
-    "@akasha/temper-characters-character-ui": ["@akasha/temper-characters-character-ui@workspace:akasha/temper/temper-characters-character-ui"],
+    "@akasha/temper-characters-character-ui": ["@akasha/temper-characters-character-ui@workspace:temper/temper-characters-character-ui"],
 
-    "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:akasha/temper/temper-characters-equipment"],
+    "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:temper/temper-characters-equipment"],
 
-    "@akasha/temper-characters-equipment-ui": ["@akasha/temper-characters-equipment-ui@workspace:akasha/temper/temper-characters-equipment-ui"],
+    "@akasha/temper-characters-equipment-ui": ["@akasha/temper-characters-equipment-ui@workspace:temper/temper-characters-equipment-ui"],
 
-    "@akasha/temper-characters-skills-morphs-addon": ["@akasha/temper-characters-skills-morphs-addon@workspace:akasha/temper/temper-characters-skills-morphs-addon"],
+    "@akasha/temper-characters-skills-morphs-addon": ["@akasha/temper-characters-skills-morphs-addon@workspace:temper/temper-characters-skills-morphs-addon"],
 
-    "@akasha/temper-characters-stats": ["@akasha/temper-characters-stats@workspace:akasha/temper/temper-characters-stats"],
+    "@akasha/temper-characters-stats": ["@akasha/temper-characters-stats@workspace:temper/temper-characters-stats"],
 
-    "@akasha/temper-classes": ["@akasha/temper-classes@workspace:akasha/temper/temper-classes"],
+    "@akasha/temper-classes": ["@akasha/temper-classes@workspace:temper/temper-classes"],
 
-    "@akasha/temper-collections-addon": ["@akasha/temper-collections-addon@workspace:akasha/temper/temper-collections-addon"],
+    "@akasha/temper-collections-addon": ["@akasha/temper-collections-addon@workspace:temper/temper-collections-addon"],
 
-    "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:akasha/temper/temper-combat-addon"],
+    "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:temper/temper-combat-addon"],
 
-    "@akasha/temper-commands": ["@akasha/temper-commands@workspace:akasha/temper/temper-commands"],
+    "@akasha/temper-commands": ["@akasha/temper-commands@workspace:temper/temper-commands"],
 
-    "@akasha/temper-community-addons": ["@akasha/temper-community-addons@workspace:akasha/temper/temper-community-addons"],
+    "@akasha/temper-community-addons": ["@akasha/temper-community-addons@workspace:temper/temper-community-addons"],
 
-    "@akasha/temper-companion-codec": ["@akasha/temper-companion-codec@workspace:akasha/temper/temper-companion-codec"],
+    "@akasha/temper-companion-codec": ["@akasha/temper-companion-codec@workspace:temper/temper-companion-codec"],
 
-    "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:akasha/temper/temper-companions-addon"],
+    "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/temper-companions-addon"],
 
-    "@akasha/temper-companions-core": ["@akasha/temper-companions-core@workspace:akasha/temper/temper-companions-core"],
+    "@akasha/temper-companions-core": ["@akasha/temper-companions-core@workspace:temper/temper-companions-core"],
 
-    "@akasha/temper-companions-ui": ["@akasha/temper-companions-ui@workspace:akasha/temper/temper-companions-ui"],
+    "@akasha/temper-companions-ui": ["@akasha/temper-companions-ui@workspace:temper/temper-companions-ui"],
 
-    "@akasha/temper-completion": ["@akasha/temper-completion@workspace:akasha/temper/temper-completion"],
+    "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/temper-completion"],
 
-    "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:akasha/temper/temper-completion-import"],
+    "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:temper/temper-completion-import"],
 
-    "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:akasha/temper/temper-crafting-addon"],
+    "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/temper-crafting-addon"],
 
-    "@akasha/temper-dungeon-champions": ["@akasha/temper-dungeon-champions@workspace:akasha/temper/temper-dungeon-champions"],
+    "@akasha/temper-dungeon-champions": ["@akasha/temper-dungeon-champions@workspace:temper/temper-dungeon-champions"],
 
-    "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:akasha/temper/temper-dungeons"],
+    "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:temper/temper-dungeons"],
 
-    "@akasha/temper-equipment": ["@akasha/temper-equipment@workspace:akasha/temper/temper-equipment"],
+    "@akasha/temper-equipment": ["@akasha/temper-equipment@workspace:temper/temper-equipment"],
 
-    "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:akasha/temper/temper-equipment-kinds"],
+    "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:temper/temper-equipment-kinds"],
 
-    "@akasha/temper-errors-addon": ["@akasha/temper-errors-addon@workspace:akasha/temper/temper-errors-addon"],
+    "@akasha/temper-errors-addon": ["@akasha/temper-errors-addon@workspace:temper/temper-errors-addon"],
 
-    "@akasha/temper-errors-triage": ["@akasha/temper-errors-triage@workspace:akasha/temper/temper-errors-triage"],
+    "@akasha/temper-errors-triage": ["@akasha/temper-errors-triage@workspace:temper/temper-errors-triage"],
 
-    "@akasha/temper-eso-paths": ["@akasha/temper-eso-paths@workspace:akasha/temper/temper-eso-paths"],
+    "@akasha/temper-eso-paths": ["@akasha/temper-eso-paths@workspace:temper/temper-eso-paths"],
 
-    "@akasha/temper-eso-types": ["@akasha/temper-eso-types@workspace:akasha/temper/temper-eso-types"],
+    "@akasha/temper-eso-types": ["@akasha/temper-eso-types@workspace:temper/temper-eso-types"],
 
-    "@akasha/temper-eso-typings": ["@akasha/temper-eso-typings@workspace:akasha/temper/temper-eso-typings"],
+    "@akasha/temper-eso-typings": ["@akasha/temper-eso-typings@workspace:temper/temper-eso-typings"],
 
-    "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:akasha/temper/temper-events-addon"],
+    "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:temper/temper-events-addon"],
 
-    "@akasha/temper-explain": ["@akasha/temper-explain@workspace:akasha/temper/temper-explain"],
+    "@akasha/temper-explain": ["@akasha/temper-explain@workspace:temper/temper-explain"],
 
-    "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:akasha/temper/temper-formula-framework"],
+    "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/temper-formula-framework"],
 
-    "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:akasha/temper/temper-game-catalog-capture-addon"],
+    "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:temper/temper-game-catalog-capture-addon"],
 
-    "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:akasha/temper/temper-game-catalog-capture-host"],
+    "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:temper/temper-game-catalog-capture-host"],
 
-    "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:akasha/temper/temper-housing-addon"],
+    "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:temper/temper-housing-addon"],
 
-    "@akasha/temper-hud-addon": ["@akasha/temper-hud-addon@workspace:akasha/temper/temper-hud-addon"],
+    "@akasha/temper-hud-addon": ["@akasha/temper-hud-addon@workspace:temper/temper-hud-addon"],
 
-    "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:akasha/temper/temper-hud-components"],
+    "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:temper/temper-hud-components"],
 
-    "@akasha/temper-hud-window": ["@akasha/temper-hud-window@workspace:akasha/temper/temper-hud-window"],
+    "@akasha/temper-hud-window": ["@akasha/temper-hud-window@workspace:temper/temper-hud-window"],
 
-    "@akasha/temper-interface-addon": ["@akasha/temper-interface-addon@workspace:akasha/temper/temper-interface-addon"],
+    "@akasha/temper-interface-addon": ["@akasha/temper-interface-addon@workspace:temper/temper-interface-addon"],
 
-    "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
+    "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:temper/temper-inventory-automation"],
 
-    "@akasha/temper-item-browser": ["@akasha/temper-item-browser@workspace:akasha/temper/temper-item-browser"],
+    "@akasha/temper-item-browser": ["@akasha/temper-item-browser@workspace:temper/temper-item-browser"],
 
-    "@akasha/temper-items-addon": ["@akasha/temper-items-addon@workspace:akasha/temper/temper-items-addon"],
+    "@akasha/temper-items-addon": ["@akasha/temper-items-addon@workspace:temper/temper-items-addon"],
 
-    "@akasha/temper-items-core": ["@akasha/temper-items-core@workspace:akasha/temper/temper-items-core"],
+    "@akasha/temper-items-core": ["@akasha/temper-items-core@workspace:temper/temper-items-core"],
 
-    "@akasha/temper-items-filters-addon": ["@akasha/temper-items-filters-addon@workspace:akasha/temper/temper-items-filters-addon"],
+    "@akasha/temper-items-filters-addon": ["@akasha/temper-items-filters-addon@workspace:temper/temper-items-filters-addon"],
 
-    "@akasha/temper-items-filters-core": ["@akasha/temper-items-filters-core@workspace:akasha/temper/temper-items-filters-core"],
+    "@akasha/temper-items-filters-core": ["@akasha/temper-items-filters-core@workspace:temper/temper-items-filters-core"],
 
-    "@akasha/temper-items-rules-core": ["@akasha/temper-items-rules-core@workspace:akasha/temper/temper-items-rules-core"],
+    "@akasha/temper-items-rules-core": ["@akasha/temper-items-rules-core@workspace:temper/temper-items-rules-core"],
 
-    "@akasha/temper-items-rules-eval": ["@akasha/temper-items-rules-eval@workspace:akasha/temper/temper-items-rules-eval"],
+    "@akasha/temper-items-rules-eval": ["@akasha/temper-items-rules-eval@workspace:temper/temper-items-rules-eval"],
 
-    "@akasha/temper-items-rules-matcher": ["@akasha/temper-items-rules-matcher@workspace:akasha/temper/temper-items-rules-matcher"],
+    "@akasha/temper-items-rules-matcher": ["@akasha/temper-items-rules-matcher@workspace:temper/temper-items-rules-matcher"],
 
-    "@akasha/temper-items-rules-routing": ["@akasha/temper-items-rules-routing@workspace:akasha/temper/temper-items-rules-routing"],
+    "@akasha/temper-items-rules-routing": ["@akasha/temper-items-rules-routing@workspace:temper/temper-items-rules-routing"],
 
-    "@akasha/temper-items-rules-routing-core": ["@akasha/temper-items-rules-routing-core@workspace:akasha/temper/temper-items-rules-routing-core"],
+    "@akasha/temper-items-rules-routing-core": ["@akasha/temper-items-rules-routing-core@workspace:temper/temper-items-rules-routing-core"],
 
-    "@akasha/temper-keybinder-addon": ["@akasha/temper-keybinder-addon@workspace:akasha/temper/temper-keybinder-addon"],
+    "@akasha/temper-keybinder-addon": ["@akasha/temper-keybinder-addon@workspace:temper/temper-keybinder-addon"],
 
-    "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
+    "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:temper/temper-lib-addon-keybinds"],
 
-    "@akasha/temper-lib-addon-menu": ["@akasha/temper-lib-addon-menu@workspace:akasha/temper/temper-lib-addon-menu"],
+    "@akasha/temper-lib-addon-menu": ["@akasha/temper-lib-addon-menu@workspace:temper/temper-lib-addon-menu"],
 
-    "@akasha/temper-lib-addon-menu-order-list-box": ["@akasha/temper-lib-addon-menu-order-list-box@workspace:akasha/temper/temper-lib-addon-menu-order-list-box"],
+    "@akasha/temper-lib-addon-menu-order-list-box": ["@akasha/temper-lib-addon-menu-order-list-box@workspace:temper/temper-lib-addon-menu-order-list-box"],
 
-    "@akasha/temper-lib-alchemy-station": ["@akasha/temper-lib-alchemy-station@workspace:akasha/temper/temper-lib-alchemy-station"],
+    "@akasha/temper-lib-alchemy-station": ["@akasha/temper-lib-alchemy-station@workspace:temper/temper-lib-alchemy-station"],
 
-    "@akasha/temper-lib-async": ["@akasha/temper-lib-async@workspace:akasha/temper/temper-lib-async"],
+    "@akasha/temper-lib-async": ["@akasha/temper-lib-async@workspace:temper/temper-lib-async"],
 
-    "@akasha/temper-lib-character-knowledge": ["@akasha/temper-lib-character-knowledge@workspace:akasha/temper/temper-lib-character-knowledge"],
+    "@akasha/temper-lib-character-knowledge": ["@akasha/temper-lib-character-knowledge@workspace:temper/temper-lib-character-knowledge"],
 
-    "@akasha/temper-lib-chat-message": ["@akasha/temper-lib-chat-message@workspace:akasha/temper/temper-lib-chat-message"],
+    "@akasha/temper-lib-chat-message": ["@akasha/temper-lib-chat-message@workspace:temper/temper-lib-chat-message"],
 
-    "@akasha/temper-lib-custom-menu": ["@akasha/temper-lib-custom-menu@workspace:akasha/temper/temper-lib-custom-menu"],
+    "@akasha/temper-lib-custom-menu": ["@akasha/temper-lib-custom-menu@workspace:temper/temper-lib-custom-menu"],
 
-    "@akasha/temper-lib-data-encode": ["@akasha/temper-lib-data-encode@workspace:akasha/temper/temper-lib-data-encode"],
+    "@akasha/temper-lib-data-encode": ["@akasha/temper-lib-data-encode@workspace:temper/temper-lib-data-encode"],
 
-    "@akasha/temper-lib-debug-logger": ["@akasha/temper-lib-debug-logger@workspace:akasha/temper/temper-lib-debug-logger"],
+    "@akasha/temper-lib-debug-logger": ["@akasha/temper-lib-debug-logger@workspace:temper/temper-lib-debug-logger"],
 
-    "@akasha/temper-lib-extended-journal": ["@akasha/temper-lib-extended-journal@workspace:akasha/temper/temper-lib-extended-journal"],
+    "@akasha/temper-lib-extended-journal": ["@akasha/temper-lib-extended-journal@workspace:temper/temper-lib-extended-journal"],
 
-    "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:akasha/temper/temper-lib-gps"],
+    "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:temper/temper-lib-gps"],
 
-    "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:akasha/temper/temper-lib-histoire"],
+    "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:temper/temper-lib-histoire"],
 
-    "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:akasha/temper/temper-lib-main-menu"],
+    "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:temper/temper-lib-main-menu"],
 
-    "@akasha/temper-lib-map-data": ["@akasha/temper-lib-map-data@workspace:akasha/temper/temper-lib-map-data"],
+    "@akasha/temper-lib-map-data": ["@akasha/temper-lib-map-data@workspace:temper/temper-lib-map-data"],
 
-    "@akasha/temper-lib-map-ping": ["@akasha/temper-lib-map-ping@workspace:akasha/temper/temper-lib-map-ping"],
+    "@akasha/temper-lib-map-ping": ["@akasha/temper-lib-map-ping@workspace:temper/temper-lib-map-ping"],
 
-    "@akasha/temper-lib-map-pins": ["@akasha/temper-lib-map-pins@workspace:akasha/temper/temper-lib-map-pins"],
+    "@akasha/temper-lib-map-pins": ["@akasha/temper-lib-map-pins@workspace:temper/temper-lib-map-pins"],
 
-    "@akasha/temper-lib-media-provider": ["@akasha/temper-lib-media-provider@workspace:akasha/temper/temper-lib-media-provider"],
+    "@akasha/temper-lib-media-provider": ["@akasha/temper-lib-media-provider@workspace:temper/temper-lib-media-provider"],
 
-    "@akasha/temper-lib-notification": ["@akasha/temper-lib-notification@workspace:akasha/temper/temper-lib-notification"],
+    "@akasha/temper-lib-notification": ["@akasha/temper-lib-notification@workspace:temper/temper-lib-notification"],
 
-    "@akasha/temper-lib-price": ["@akasha/temper-lib-price@workspace:akasha/temper/temper-lib-price"],
+    "@akasha/temper-lib-price": ["@akasha/temper-lib-price@workspace:temper/temper-lib-price"],
 
-    "@akasha/temper-lib-saved-vars": ["@akasha/temper-lib-saved-vars@workspace:akasha/temper/temper-lib-saved-vars"],
+    "@akasha/temper-lib-saved-vars": ["@akasha/temper-lib-saved-vars@workspace:temper/temper-lib-saved-vars"],
 
-    "@akasha/temper-lib-scrollable-menu": ["@akasha/temper-lib-scrollable-menu@workspace:akasha/temper/temper-lib-scrollable-menu"],
+    "@akasha/temper-lib-scrollable-menu": ["@akasha/temper-lib-scrollable-menu@workspace:temper/temper-lib-scrollable-menu"],
 
-    "@akasha/temper-lib-sets": ["@akasha/temper-lib-sets@workspace:akasha/temper/temper-lib-sets"],
+    "@akasha/temper-lib-sets": ["@akasha/temper-lib-sets@workspace:temper/temper-lib-sets"],
 
-    "@akasha/temper-lib-shifter-box": ["@akasha/temper-lib-shifter-box@workspace:akasha/temper/temper-lib-shifter-box"],
+    "@akasha/temper-lib-shifter-box": ["@akasha/temper-lib-shifter-box@workspace:temper/temper-lib-shifter-box"],
 
-    "@akasha/temper-lib-slash-commander": ["@akasha/temper-lib-slash-commander@workspace:akasha/temper/temper-lib-slash-commander"],
+    "@akasha/temper-lib-slash-commander": ["@akasha/temper-lib-slash-commander@workspace:temper/temper-lib-slash-commander"],
 
-    "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:akasha/temper/temper-lib-table-functions"],
+    "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:temper/temper-lib-table-functions"],
 
-    "@akasha/temper-lib-treasure": ["@akasha/temper-lib-treasure@workspace:akasha/temper/temper-lib-treasure"],
+    "@akasha/temper-lib-treasure": ["@akasha/temper-lib-treasure@workspace:temper/temper-lib-treasure"],
 
-    "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:akasha/temper/temper-lib-zone"],
+    "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/temper-lib-zone"],
 
-    "@akasha/temper-lorebooks": ["@akasha/temper-lorebooks@workspace:akasha/temper/temper-lorebooks"],
+    "@akasha/temper-lorebooks": ["@akasha/temper-lorebooks@workspace:temper/temper-lorebooks"],
 
-    "@akasha/temper-lost-treasure": ["@akasha/temper-lost-treasure@workspace:akasha/temper/temper-lost-treasure"],
+    "@akasha/temper-lost-treasure": ["@akasha/temper-lost-treasure@workspace:temper/temper-lost-treasure"],
 
-    "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:akasha/temper/temper-lua-runner"],
+    "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:temper/temper-lua-runner"],
 
-    "@akasha/temper-narrow": ["@akasha/temper-narrow@workspace:akasha/temper/temper-narrow"],
+    "@akasha/temper-narrow": ["@akasha/temper-narrow@workspace:temper/temper-narrow"],
 
-    "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:akasha/temper/temper-navigation-addon"],
+    "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:temper/temper-navigation-addon"],
 
-    "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:akasha/temper/temper-player-completion"],
+    "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:temper/temper-player-completion"],
 
-    "@akasha/temper-player-completion-skills-morphs-ui": ["@akasha/temper-player-completion-skills-morphs-ui@workspace:akasha/temper/temper-player-completion-skills-morphs-ui"],
+    "@akasha/temper-player-completion-skills-morphs-ui": ["@akasha/temper-player-completion-skills-morphs-ui@workspace:temper/temper-player-completion-skills-morphs-ui"],
 
-    "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:akasha/temper/temper-player-completion-state"],
+    "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:temper/temper-player-completion-state"],
 
-    "@akasha/temper-player-completion-ui": ["@akasha/temper-player-completion-ui@workspace:akasha/temper/temper-player-completion-ui"],
+    "@akasha/temper-player-completion-ui": ["@akasha/temper-player-completion-ui@workspace:temper/temper-player-completion-ui"],
 
-    "@akasha/temper-player-economics-ui": ["@akasha/temper-player-economics-ui@workspace:akasha/temper/temper-player-economics-ui"],
+    "@akasha/temper-player-economics-ui": ["@akasha/temper-player-economics-ui@workspace:temper/temper-player-economics-ui"],
 
-    "@akasha/temper-player-inventory-management-ui": ["@akasha/temper-player-inventory-management-ui@workspace:akasha/temper/temper-player-inventory-management-ui"],
+    "@akasha/temper-player-inventory-management-ui": ["@akasha/temper-player-inventory-management-ui@workspace:temper/temper-player-inventory-management-ui"],
 
-    "@akasha/temper-player-profile": ["@akasha/temper-player-profile@workspace:akasha/temper/temper-player-profile"],
+    "@akasha/temper-player-profile": ["@akasha/temper-player-profile@workspace:temper/temper-player-profile"],
 
-    "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:akasha/temper/temper-quests-addon"],
+    "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/temper-quests-addon"],
 
-    "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:akasha/temper/temper-quests-trace"],
+    "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:temper/temper-quests-trace"],
 
-    "@akasha/temper-races": ["@akasha/temper-races@workspace:akasha/temper/temper-races"],
+    "@akasha/temper-races": ["@akasha/temper-races@workspace:temper/temper-races"],
 
-    "@akasha/temper-saved-variables": ["@akasha/temper-saved-variables@workspace:akasha/temper/temper-saved-variables"],
+    "@akasha/temper-saved-variables": ["@akasha/temper-saved-variables@workspace:temper/temper-saved-variables"],
 
-    "@akasha/temper-saved-vars-migration": ["@akasha/temper-saved-vars-migration@workspace:akasha/temper/temper-saved-vars-migration"],
+    "@akasha/temper-saved-vars-migration": ["@akasha/temper-saved-vars-migration@workspace:temper/temper-saved-vars-migration"],
 
-    "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:akasha/temper/temper-selector-addon"],
+    "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/temper-selector-addon"],
 
-    "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:akasha/temper/temper-settings-panel"],
+    "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:temper/temper-settings-panel"],
 
-    "@akasha/temper-shopping": ["@akasha/temper-shopping@workspace:akasha/temper/temper-shopping"],
+    "@akasha/temper-shopping": ["@akasha/temper-shopping@workspace:temper/temper-shopping"],
 
-    "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:akasha/temper/temper-skill-kinds"],
+    "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/temper-skill-kinds"],
 
-    "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:akasha/temper/temper-skill-lines"],
+    "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:temper/temper-skill-lines"],
 
-    "@akasha/temper-skill-morphs": ["@akasha/temper-skill-morphs@workspace:akasha/temper/temper-skill-morphs"],
+    "@akasha/temper-skill-morphs": ["@akasha/temper-skill-morphs@workspace:temper/temper-skill-morphs"],
 
-    "@akasha/temper-skill-morphs-access": ["@akasha/temper-skill-morphs-access@workspace:akasha/temper/temper-skill-morphs-access"],
+    "@akasha/temper-skill-morphs-access": ["@akasha/temper-skill-morphs-access@workspace:temper/temper-skill-morphs-access"],
 
-    "@akasha/temper-skill-point-finder": ["@akasha/temper-skill-point-finder@workspace:akasha/temper/temper-skill-point-finder"],
+    "@akasha/temper-skill-point-finder": ["@akasha/temper-skill-point-finder@workspace:temper/temper-skill-point-finder"],
 
-    "@akasha/temper-skyshards": ["@akasha/temper-skyshards@workspace:akasha/temper/temper-skyshards"],
+    "@akasha/temper-skyshards": ["@akasha/temper-skyshards@workspace:temper/temper-skyshards"],
 
-    "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:akasha/temper/temper-trading-addon"],
+    "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/temper-trading-addon"],
 
-    "@akasha/temper-trading-listings": ["@akasha/temper-trading-listings@workspace:akasha/temper/temper-trading-listings"],
+    "@akasha/temper-trading-listings": ["@akasha/temper-trading-listings@workspace:temper/temper-trading-listings"],
 
-    "@akasha/temper-trading-post": ["@akasha/temper-trading-post@workspace:akasha/temper/temper-trading-post"],
+    "@akasha/temper-trading-post": ["@akasha/temper-trading-post@workspace:temper/temper-trading-post"],
 
-    "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:akasha/temper/temper-trading-pricing"],
+    "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:temper/temper-trading-pricing"],
 
-    "@akasha/temper-trading-pricing-client": ["@akasha/temper-trading-pricing-client@workspace:akasha/temper/temper-trading-pricing-client"],
+    "@akasha/temper-trading-pricing-client": ["@akasha/temper-trading-pricing-client@workspace:temper/temper-trading-pricing-client"],
 
-    "@akasha/temper-upstream-data": ["@akasha/temper-upstream-data@workspace:akasha/temper/temper-upstream-data"],
+    "@akasha/temper-upstream-data": ["@akasha/temper-upstream-data@workspace:temper/temper-upstream-data"],
 
-    "@akasha/temper-watcher": ["@akasha/temper-watcher@workspace:akasha/temper/temper-watcher"],
+    "@akasha/temper-watcher": ["@akasha/temper-watcher@workspace:temper/temper-watcher"],
 
-    "@akasha/temper-web": ["@akasha/temper-web@workspace:akasha/temper/temper-web"],
+    "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/temper-web"],
 
-    "@akasha/test-fanout": ["@akasha/test-fanout@workspace:akasha/changes/test-fanout"],
+    "@akasha/test-fanout": ["@akasha/test-fanout@workspace:changes/test-fanout"],
 
-    "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
+    "@akasha/testing-system": ["@akasha/testing-system@workspace:testing-system"],
 
-    "@akasha/upscale": ["@akasha/upscale@workspace:akasha/infrastructure/upscale"],
+    "@akasha/upscale": ["@akasha/upscale@workspace:infrastructure/upscale"],
 
-    "@akasha/utils-fs": ["@akasha/utils-fs@workspace:akasha/utils-fs"],
+    "@akasha/utils-fs": ["@akasha/utils-fs@workspace:utils-fs"],
 
-    "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:akasha/utils-narrow"],
+    "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils-narrow"],
 
-    "@akasha/utils-process": ["@akasha/utils-process@workspace:akasha/utils-process"],
+    "@akasha/utils-process": ["@akasha/utils-process@workspace:utils-process"],
 
-    "@akasha/utils-run": ["@akasha/utils-run@workspace:akasha/utils-run"],
+    "@akasha/utils-run": ["@akasha/utils-run@workspace:utils-run"],
 
-    "@akasha/utils-sync": ["@akasha/utils-sync@workspace:akasha/utils-sync"],
+    "@akasha/utils-sync": ["@akasha/utils-sync@workspace:utils-sync"],
 
-    "@akasha/utils-system": ["@akasha/utils-system@workspace:akasha/utils-system"],
+    "@akasha/utils-system": ["@akasha/utils-system@workspace:utils-system"],
 
-    "@akasha/verdict": ["@akasha/verdict@workspace:akasha/verdict"],
+    "@akasha/verdict": ["@akasha/verdict@workspace:verdict"],
 
-    "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
+    "@akasha/voice-core": ["@akasha/voice-core@workspace:voice-core"],
 
-    "@akasha/voice-inference": ["@akasha/voice-inference@workspace:akasha/infrastructure/voice-inference"],
+    "@akasha/voice-inference": ["@akasha/voice-inference@workspace:infrastructure/voice-inference"],
 
-    "@akasha/wan": ["@akasha/wan@workspace:akasha/infrastructure/wan"],
+    "@akasha/wan": ["@akasha/wan@workspace:infrastructure/wan"],
 
-    "@akasha/wandering-inn": ["@akasha/wandering-inn@workspace:akasha/story/wandering-inn"],
+    "@akasha/wandering-inn": ["@akasha/wandering-inn@workspace:story/wandering-inn"],
 
-    "@akasha/web-build-version": ["@akasha/web-build-version@workspace:akasha/version/web-build"],
+    "@akasha/web-build-version": ["@akasha/web-build-version@workspace:version/web-build"],
 
-    "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:akasha/web-page-answers"],
+    "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:web-page-answers"],
 
-    "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:akasha/web-security-headers"],
+    "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:web-security-headers"],
 
-    "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:akasha/web-static-assets"],
+    "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:web-static-assets"],
 
-    "@akasha/workflow-language": ["@akasha/workflow-language@workspace:akasha/changes/workflow-language"],
+    "@akasha/workflow-language": ["@akasha/workflow-language@workspace:changes/workflow-language"],
 
-    "@akasha/workflow-selection": ["@akasha/workflow-selection@workspace:akasha/changes/workflow-selection"],
+    "@akasha/workflow-selection": ["@akasha/workflow-selection@workspace:changes/workflow-selection"],
 
-    "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:akasha/workspace-paths"],
+    "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:workspace-paths"],
 
-    "@akasha/zimage": ["@akasha/zimage@workspace:akasha/infrastructure/zimage"],
+    "@akasha/zimage": ["@akasha/zimage@workspace:infrastructure/zimage"],
 
-    "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:akasha/code-system/ios-apps/pages/atlas"],
+    "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 
-    "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:akasha/code-system/ios-apps/pages/alanwalton"],
+    "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:code-system/ios-apps/pages/alanwalton"],
 
     "@asamuzakjp/css-color": ["@asamuzakjp/css-color@5.1.11", "", { "dependencies": { "@asamuzakjp/generational-cache": "^1.0.1", "@csstools/css-calc": "^3.2.0", "@csstools/css-color-parser": "^4.1.0", "@csstools/css-parser-algorithms": "^4.0.0", "@csstools/css-tokenizer": "^4.0.0" } }, "sha512-KVw6qIiCTUQhByfTd78h2yD1/00waTmm9uy/R7Ck/ctUyAPj+AEDLkQIdJW0T8+qGgj3j5bpNKK7Q3G+LedJWg=="],
 
@@ -4125,7 +4125,7 @@
 
     "@rollup/rollup-win32-x64-msvc": ["@rollup/rollup-win32-x64-msvc@4.63.0", "", { "os": "win32", "cpu": "x64" }, "sha512-hncn90N4sOky0L2LKE5oESKLbxCPeVo4eLA2LSMoDzM+879ml4WSr+Rr4DWknNIVVvS1Hirkc9hx02W6YxS8rQ=="],
 
-    "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:akasha/code-system/ios-apps/pages/smilingjenny"],
+    "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:code-system/ios-apps/pages/smilingjenny"],
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
@@ -4227,7 +4227,7 @@
 
     "@types/unist": ["@types/unist@3.0.3", "", {}, "sha512-ko/gIFJRv177XgZsZcBwnqJN5x/Gien8qNOn0D5bQU/zAzVf9Zt3BlcUiLqhV9y4ARk0GbT3tnUiPNgnTXzc/Q=="],
 
-    "@types/vscode": ["@types/vscode@workspace:akasha/editor-extension/vscode-typings"],
+    "@types/vscode": ["@types/vscode@workspace:editor-extension/vscode-typings"],
 
     "@types/whatwg-mimetype": ["@types/whatwg-mimetype@3.0.2", "", {}, "sha512-c2AKvDT8ToxLIOUlN51gTiHXflsfIFisS4pO7pDPoKouJCESkhZnEy623gwP9laCy5lnLDAw1vAzu2vM2YLOrA=="],
 
@@ -4839,7 +4839,7 @@
 
     "open": ["open@8.4.2", "", { "dependencies": { "define-lazy-prop": "^2.0.0", "is-docker": "^2.1.1", "is-wsl": "^2.2.0" } }, "sha512-7x81NCL719oNbsq/3mh+hVrAWmFuEYUqrq/Iw3kUzH8ReypT9QQ0BLoJS7/G9k6N81XjW4qHWtjWwe/9eLy1EQ=="],
 
-    "ops": ["ops@workspace:akasha/editor-extension/ops-extension"],
+    "ops": ["ops@workspace:editor-extension/ops-extension"],
 
     "p-map": ["p-map@7.0.6", "", {}, "sha512-I4Prw6ivkd6p8PiYR1tXASOAOBzIJwu0TB7fqaX0c/8c3QAehNYmX57EijyGGGBt3c/BIowGwV03RVBtXvHEVg=="],
 

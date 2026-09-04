@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "workspaces": [
-    "akasha/**"
+    "**"
   ],
   "dependencies": {
     "@akasha/analysis-complexity": "workspace:*",
@@ -82,7 +82,7 @@
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",
-    "clean:stale-folders": "bun akasha/workspace-paths/stale-folders/stale-folders.module.code.ts"
+    "clean:stale-folders": "bun workspace-paths/stale-folders/stale-folders.module.code.ts"
   },
   "trustedDependencies": [
     "@biomejs/biome",

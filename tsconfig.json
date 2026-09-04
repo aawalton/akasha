@@ -1,16 +1,16 @@
 {
   "references": [
     {
-      "path": "./akasha/temper/temper-web"
+      "path": "./temper/temper-web"
     },
     {
-      "path": "./akasha/smilingjenny/smilingjenny-web"
+      "path": "./smilingjenny/smilingjenny-web"
     },
     {
-      "path": "./akasha/archive-of-worlds/archive-of-worlds-web"
+      "path": "./archive-of-worlds/archive-of-worlds-web"
     },
     {
-      "path": "./akasha/audhdalan/audhdalan-web"
+      "path": "./audhdalan/audhdalan-web"
     }
   ],
   "files": []

@@ -1,0 +1,1 @@
+var e=null;function t(t){e=t}function n(){return e===null?null:`u-${e}--`}function r(e){let t=n();return t===null?null:`${t}${e}`}var i=/^[0-9a-f]{40}$/;function a(e){return typeof e==`string`&&i.test(e)?e:null}export{r as n,t as r,a as t};
