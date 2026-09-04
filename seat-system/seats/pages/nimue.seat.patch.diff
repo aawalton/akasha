@@ -574,6 +574,37 @@ index 5d823c5d6a8e18e9351b4ab19716b6b7dd41be18..ba69c3244f51dfdce111275ddc53232a
  
  const scratch = scratchWorld()
  
+diff --git a/pages/page-types/properties/extends-slug.relation-property.ts b/pages/page-types/properties/extends-slug.relation-property.ts
+index d724b204ca2ab8994cba9332e8bd77eb4cb1b504..80bd3c3d7e5ab3afe757c6934aa8a07b26763cc7 100644
+--- a/pages/page-types/properties/extends-slug.relation-property.ts
++++ b/pages/page-types/properties/extends-slug.relation-property.ts
+@@ -8,6 +8,25 @@ export const extendsSlug = {
+   pageTypeSlug: "relation-property",
+   slug: "extends-slug",
+   propertySlug: "extends-slug",
+-  definition: "the type a type takes its properties from",
++  definition: "a type a type takes its properties from",
+   targetPageTypeSlug: "page-type/page-type",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A type takes its properties from every type this names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Where two of them declare one property, the nearer type decides.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Where both are equally near, the last named decides, so reordering changes what the type declares.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A type naming none of them states an empty list rather than nothing.",
++    },
++  ],
+ } as const satisfies RelationProperty
 diff --git a/pages/service/page-asking/page-asking.module.test.ts b/pages/service/page-asking/page-asking.module.test.ts
 index c9ba6c357c28e780649cd7b1d8a3373283eb35b2..ba8a3cf678c0b78abcb35a8bf9143517c448e31b 100644
 --- a/pages/service/page-asking/page-asking.module.test.ts
