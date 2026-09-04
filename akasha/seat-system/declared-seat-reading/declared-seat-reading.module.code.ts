@@ -1,20 +1,20 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { SeatDocument } from "@akasha/seat-system/seat-attribute"
 import {
   type Documents,
   declaredPathReading,
   requiredReadingClosure,
-} from "../../akasha/domain-system/domain-documents/domain-documents.module.code.ts"
-import { personaAt } from "../../akasha/persona-system/persona-reading/persona-reading.module.code.ts"
-import { FLEET } from "../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+} from "../../domain-system/domain-documents/domain-documents.module.code.ts"
+import { personaAt } from "../../persona-system/persona-reading/persona-reading.module.code.ts"
+import { FLEET } from "../../seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ATTRIBUTES,
   type Attributes,
   type Claimant,
   type Mode,
-} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
-import { initiativePlaceOf } from "../../akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
+} from "../../seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { initiativePlaceOf } from "../../seat-system/seat-initiative/seat-initiative.module.code.ts"
+import type { SeatDocument } from "../seat-attribute/seat-attribute.module.code.ts"
 
 export interface Warranted {
   readonly claimant: Claimant

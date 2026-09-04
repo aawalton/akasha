@@ -6,11 +6,11 @@ import { slugNamed } from "@akasha/markdown-pages/page-address"
 import { domainKinds, domainKindTest } from "@akasha/markdown-pages/page-types"
 import { registryOf } from "@akasha/markdown-pages/property-registry"
 import { AKASHA, isDirty } from "@akasha/pages-system/checkout-roots"
-import { listDocuments } from "../../akasha/checks/modules/check-view/check-view.module.code.ts"
+import { listDocuments } from "../../checks/modules/check-view/check-view.module.code.ts"
 import {
   DOMAIN_SLUG_KEY,
   type Documents,
-} from "../../akasha/domain-system/domain-documents/domain-documents.module.code.ts"
+} from "../../domain-system/domain-documents/domain-documents.module.code.ts"
 
 export function documentsOnDemand(root: string): Documents {
   const parsed = new Map<string, Frontmatter | null>()

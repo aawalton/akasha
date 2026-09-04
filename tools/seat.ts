@@ -1,6 +1,7 @@
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatId } from "@akasha/seat-system/read-record"
 import { handlerDerives, personaIsHers, refuseAnswering } from "@akasha/seat-system/seat-answering"
+import { type Args, parseArgs } from "@akasha/seat-system/seat-args"
 import { attributeFor } from "@akasha/seat-system/seat-attribute"
 import { defaultLines } from "@akasha/seat-system/seat-defaults"
 import { SEAT_HELP } from "@akasha/seat-system/seat-help"
@@ -8,6 +9,7 @@ import { nameStanding } from "@akasha/seat-system/seat-name-stands"
 import { nameableFrom, nameableStated } from "@akasha/seat-system/seat-nameable"
 import { writeSeatPage } from "@akasha/seat-system/seat-page-writing"
 import { composedNameOf, followName } from "@akasha/seat-system/seat-rename"
+import { showLines, statedLines } from "@akasha/seat-system/seat-show"
 import {
   composeSeatName,
   personPrincipals,
@@ -39,8 +41,6 @@ import {
 } from "../akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { statedNow } from "../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import { fail } from "./lib/command.ts"
-import { type Args, parseArgs } from "./lib/seat-args.ts"
-import { showLines, statedLines } from "./lib/seat-show.ts"
 
 export async function run(argv: readonly string[]): Promise<void> {
   if (argv.includes("--help") || argv.includes("-h")) {

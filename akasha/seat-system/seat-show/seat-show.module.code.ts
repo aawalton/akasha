@@ -1,35 +1,35 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { documentNamed } from "@akasha/seat-system/seat-attribute"
-import { pendingLines, pendingOf } from "@akasha/seat-system/seat-turn-pending"
-import { seatTurnStateLine, seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
-import {
-  turnEndReadingLine,
-  turnEndReadingOf,
-  turnPendingSourceLine,
-  turnPendingSourceOf,
-} from "@akasha/seat-system/turn-records"
-import { workingLines, workingOf } from "@akasha/seat-system/turn-working"
+import { fail } from "@tools/lib/command"
 import {
   ATTRIBUTES,
   type Attributes,
   type Mode,
   type ModeRecord,
   ownAttributesOf,
-} from "../../akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
-import { flexLine } from "../../akasha/seat-system/seat-flex/seat-flex.module.code.ts"
-import { initiativeLine } from "../../akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
-import { onCallLine } from "../../akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
-import { seatNameForAgent } from "../../akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
-import { principalLine } from "../../akasha/seat-system/seat-principal/seat-principal.module.code.ts"
-import { registrationAccountLine } from "../../akasha/seat-system/seat-registration-account/seat-registration-account.module.code.ts"
+} from "../../seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { flexLine } from "../../seat-system/seat-flex/seat-flex.module.code.ts"
+import { initiativeLine } from "../../seat-system/seat-initiative/seat-initiative.module.code.ts"
+import { onCallLine } from "../../seat-system/seat-on-call/seat-on-call.module.code.ts"
+import { seatNameForAgent } from "../../seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { principalLine } from "../../seat-system/seat-principal/seat-principal.module.code.ts"
+import { registrationAccountLine } from "../../seat-system/seat-registration-account/seat-registration-account.module.code.ts"
+import { type Stated, statedOf } from "../../seat-system/seat-stated/seat-stated.module.code.ts"
+import { declaredSeatReading } from "../declared-seat-reading/declared-seat-reading.module.code.ts"
+import { documentsOnDemand } from "../documents-on-demand/documents-on-demand.module.code.ts"
+import type { Args } from "../seat-args/seat-args.module.code.ts"
+import { documentNamed } from "../seat-attribute/seat-attribute.module.code.ts"
 import {
-  type Stated,
-  statedOf,
-} from "../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
-import { fail } from "./command.ts"
-import { declaredSeatReading } from "./declared-seat-reading.ts"
-import { documentsOnDemand } from "./documents-on-demand.ts"
-import type { Args } from "./seat-args.ts"
+  turnEndReadingLine,
+  turnEndReadingOf,
+  turnPendingSourceLine,
+  turnPendingSourceOf,
+} from "../seat-turn/turn-records/turn-records.module.code.ts"
+import { workingLines, workingOf } from "../seat-turn/turn-working/turn-working.module.code.ts"
+import { pendingLines, pendingOf } from "../seat-turn-pending/seat-turn-pending.module.code.ts"
+import {
+  seatTurnStateLine,
+  seatTurnStateOf,
+} from "../seat-turn-state/seat-turn-state.module.code.ts"
 
 export function showLines(agent: string, args: Args): readonly string[] {
   const setting = [
