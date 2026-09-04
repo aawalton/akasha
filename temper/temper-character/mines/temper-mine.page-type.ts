@@ -52,7 +52,6 @@ export const temperMine = {
     "text-property/enchant-description",
     "text-property/enchant-header",
     "text-property/flavor-text",
-    "text-property/item-name",
     "text-property/set-name",
     "text-property/trait-description",
   ],
