@@ -1,9 +1,9 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { ALAN_PERSON } from "@tools/lib/notify"
 import {
   newestOfKind,
   writeNotification,
 } from "../../notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts"
+import { ALAN_PERSON } from "../../notification-feeds/notifying/notifying.module.code.ts"
 import {
   type Readout,
   readReading,

@@ -1,7 +1,10 @@
 import { readFileSync, writeFileSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { emitReading } from "@akasha/verdict/reading-channel"
-import { ALAN_PERSON, notify } from "@tools/lib/notify"
+import {
+  ALAN_PERSON,
+  notify,
+} from "../../../../alan/harness/notification-feeds/notifying/notifying.module.code.ts"
 import {
   type AccountReading,
   readingsIn,

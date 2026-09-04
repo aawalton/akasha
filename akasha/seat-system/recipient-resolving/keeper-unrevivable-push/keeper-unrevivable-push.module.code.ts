@@ -1,5 +1,9 @@
 import { writeMessage } from "@tools/lib/message-file"
-import { ALAN_PERSON, type NotifyInput, notify } from "@tools/lib/notify"
+import type { NotifyInput } from "../../../alan/harness/notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts"
+import {
+  ALAN_PERSON,
+  notify,
+} from "../../../alan/harness/notification-feeds/notifying/notifying.module.code.ts"
 
 const KEEPER_UNREVIVABLE_KIND = "keeper-unrevivable"
 const KEEPER_UNREVIVABLE_SOURCE = "supervisor"

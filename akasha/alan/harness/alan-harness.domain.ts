@@ -64,6 +64,7 @@ export const alanHarness = {
     "domain/alanwalton-ios-notification",
     "page-type/notification-feed",
     "module/notification-feed-rows",
+    "module/notifying",
     "domain/money",
     "page-type/calendar-event",
     "page-type/calendar-event-source",
