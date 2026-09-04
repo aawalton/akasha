@@ -490,16 +490,6 @@
         "zod": "^4.3.6",
       },
     },
-    "changes/test-fanout": {
-      "name": "@akasha/test-fanout",
-      "dependencies": {
-        "@akasha/checks": "workspace:*",
-        "@akasha/old-graph": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@akasha/verdict": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "changes/workflow-language": {
       "name": "@akasha/workflow-language",
       "dependencies": {
@@ -1181,9 +1171,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
-    },
-    "old-graph": {
-      "name": "@akasha/old-graph",
     },
     "pages-system": {
       "name": "@akasha/pages-system",
@@ -3178,8 +3165,6 @@
 
     "@akasha/object-store": ["@akasha/object-store@workspace:object-store"],
 
-    "@akasha/old-graph": ["@akasha/old-graph@workspace:old-graph"],
-
     "@akasha/page-commands": ["@akasha/page-commands@workspace:pages-system/page-commands"],
 
     "@akasha/pages-access": ["@akasha/pages-access@workspace:pages-system/pages-access"],
@@ -3557,8 +3542,6 @@
     "@akasha/temper-watcher": ["@akasha/temper-watcher@workspace:temper/temper-watcher"],
 
     "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/temper-web"],
-
-    "@akasha/test-fanout": ["@akasha/test-fanout@workspace:changes/test-fanout"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:testing-system"],
 

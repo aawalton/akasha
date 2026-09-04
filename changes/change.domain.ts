@@ -9,7 +9,6 @@ export const change = {
   partSlugs: [
     "page-type/workflow-template",
     "page-type/change-kind",
-    "workspace-package/test-fanout",
     "workspace-package/workflow-language",
   ],
   invariants: [
