@@ -84,7 +84,7 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "A generate names a first frame or a last frame or both.",
+      statement: "A generate naming neither a first frame nor a last frame is refused.",
     },
     {
       invariantKind: "departure",

@@ -88,7 +88,7 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "An event is named in place or as a flag rather than as both.",
+      statement: "An event named in place and as a flag is refused.",
     },
     {
       invariantKind: "departure",

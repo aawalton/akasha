@@ -47,7 +47,7 @@ export const drive = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is named in place or as a flag rather than as both.",
+      statement: "A file named in place and as a flag is refused.",
     },
     {
       invariantKind: "departure",

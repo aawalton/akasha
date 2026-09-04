@@ -28,7 +28,7 @@ export const monarchRuleDates = {
     },
     {
       invariantKind: "departure",
-      statement: "A floor at or after its ceiling is refused, because no day satisfies both.",
+      statement: "A floor at or after its ceiling is refused.",
     },
     {
       invariantKind: "departure",

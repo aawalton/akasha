@@ -33,7 +33,7 @@ export const icloud = {
     },
     {
       invariantKind: "departure",
-      statement: "An album is named in place or as a flag rather than as both.",
+      statement: "An album named in place and as a flag is refused.",
     },
     {
       invariantKind: "departure",

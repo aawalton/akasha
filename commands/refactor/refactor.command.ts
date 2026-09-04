@@ -144,7 +144,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing says how many files were carried rather than naming each.",
+      statement: "A landing says how many files were carried rather than naming the files.",
     },
     {
       invariantKind: "departure",

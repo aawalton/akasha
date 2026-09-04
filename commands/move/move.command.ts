@@ -302,7 +302,8 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A path two pages claim leaves what names it unread rather than read from either.",
+      statement:
+        "A path two pages claim leaves what names it unread rather than read from one of those pages.",
     },
     {
       invariantKind: "departure",
