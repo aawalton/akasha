@@ -73,3 +73,22 @@ index d530849300ae280ffeaadb237ef0f77d964a62e7..aa2f16d39c94f66c65dfd86a0770ba15
  test("the refusal names what answers instead", () => {
    const err = answerFor(payload("akasha audit", OWN)).err
    expect(err).toContain("akasha test --file-path")
+diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
+index 48a5683633c689ef580b275e8e8e826d695705b8..368f67c19fea14b6a7c70cfd611dcb0326865245 100644
+--- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
++++ b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
+@@ -37,6 +37,14 @@ export const blockSubagentAudit = {
+       invariantKind: "departure",
+       statement: "A run narrowed to named checks is refused as a whole one is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run narrowed to named paths is refused as a whole one is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What a run costs is said as a figure measured rather than as a figure supposed.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Every akasha command but `audit` is no business of this hook.",
