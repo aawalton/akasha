@@ -8,25 +8,19 @@ export const amySeatTurnReading = {
   personaSlug: "amy",
   intents: [
     {
-      statement: "A seat whose session has ended is drawn in the text color.",
-      workingMemory:
-        "Nothing ever stamps a seat stopped, because `turnStateOf` in turn-records returns null unconditionally, leaving the `stamped` branch of `readSeatTurn` dead. A seat holding no record at all already reads stopped through `!tookATurn`, which is why one seat of fourteen draws text today. No stub needs reviving: `seat-presence-read` answers whether the process a seat names is live, and agent-turn-state already wraps that reading.",
-    },
-    {
-      statement: "A seat with a turn start still to come is drawn in blue.",
-      workingMemory:
-        "`compacting` reaches blue as of 12acdc5b, but a hook binds an agent only from its next spawn, so no running seat shows it yet. Of the other components, `running-task` is written by nothing across all fourteen seats, while `open-question` is written by three seats and is absent from TURN_PENDING_COMPONENTS, so it is read and dropped. One of those two is a real bug and which one is unknown.",
-    },
-    {
-      statement: "Every component a seat's turn is read from is written by something.",
-    },
-    {
       statement: "Every value written beside a seat is read by something.",
+      workingMemory:
+        "The turn-working record carries activeTurn, scannedTo, openShells and openAgents, and each is read. The pending record carries four components after owed went at a446b230. Nothing has audited the rest of what sits beside a seat.",
     },
     {
       statement: "A seat's turn state is read from no stub.",
       workingMemory:
-        "`turnStateOf`, `turnPendingSourceOf` and `turnEndReadingOf` in turn-records each return null unconditionally, and their setters do nothing. `workingOf` was the fourth of them and reads the transcript as of 3705f463.",
+        "`turnStateOf`, `turnPendingSourceOf` and `turnEndReadingOf` in turn-records each return null unconditionally, and their setters do nothing. `workingOf` was the fourth and reads the transcript as of 3705f463. The fifth was `readOwed`, taken away at a446b230 rather than filled, because `decideOwed` returned the owed verdict for no input it admits.",
+    },
+    {
+      statement: "A turn state is drawn within the time the code-editor domain allows.",
+      workingMemory:
+        "Measured at 547c20b2: an append reaches the seat's sidecar in 267ms median over four pairs, and the panel adds a 25ms debounce and an 11ms read, so green lands near 300ms against a budget of 100ms. Tightening the 250ms settle was refused: the service writes into a folder it watches, so it re-triggers itself, and that loop already costs 3.6% of a core. A transcript watch in the panel reaches 36ms, and wants transcript paths the extension cannot reach today.",
     },
     {
       statement: "A turn state that is a kind of another turn state is drawn under it.",
@@ -36,18 +30,25 @@ export const amySeatTurnReading = {
     {
       statement: "A subagent's turn state is read from what the subagent is doing.",
       workingMemory:
-        "Left until the seats are right, at Alan's direction. `subagentTurnOf` reads whether the page named for the subagent is there. The reading is to be cached uncommitted on the subagent record, as it now is on the seat.",
+        "Left until the seats are right, at Alan's direction. The transcript now names every live subagent by id, paired from an async launch to the notification naming it, so the page-presence reading `subagentTurnOf` uses is no longer the only source. Page presence leaked: athena carried seven pages against two live agents.",
+    },
+    {
+      statement: "A word means one thing across the systems a seat is read from.",
+      workingMemory:
+        "The word owed carried four unrelated meanings. Three are gone from seat-system. What is left is `Warrant.owed` in context-system, live and working, and `Outcome.owed` in verdict, read by nothing since the deletion of its only consumer. Two implementations of what a writer must have read sit apart: context-system/warranting keyed on path and oid, and seat-system/declared-seat-reading keyed on claimant and slug, sharing a vocabulary and no code.",
     },
   ],
   constraints: [
     "Working means a seat is mid-turn: given a prompt and not yet finished answering, including a long tool call with no request open.",
     "Stopped is drawn only where something has gone wrong, so stopped carries no color of its own.",
     "A compacting seat is not drawn yellow, and blue is allowed for one.",
+    "Green takes priority over blue.",
+    "A live background command and a live subagent are kept apart in the data.",
     "The reading is cached uncommitted on the seat and subagent records.",
     "Alan approved the PreCompact and PostCompact hooks and no others.",
     "A run may write, the invariant that a run writes nothing having been dropped.",
     "A body is composed under a directory named for the session, because every seat shares /tmp.",
-    "The order is stopped, then blue for seats, then subagents.",
     "Each piece is made clean and correct and performant before the next piece is taken up.",
+    "A reader keeping a cursor needs that cursor cleared when its rules change, because a landing does not reach what was already read past.",
   ],
 } as const satisfies Initiative
