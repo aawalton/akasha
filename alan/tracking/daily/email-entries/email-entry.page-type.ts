@@ -17,7 +17,7 @@ export const emailEntry = {
   definition: "how Alan's mail stood over one day",
   pluralSlug: "email-entries",
   extendsSlug: "page-type/page",
-  partSlugs: ["number-property/lowest-inbox-count", "text-property/date"],
+  partSlugs: ["number-property/lowest-inbox-count"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "date", required: true, many: false },

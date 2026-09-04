@@ -10,7 +10,6 @@ export const listens = {
   definition: "every play Alan finished on a day, one to a line",
   partSlugs: [
     "boolean-property/first-listen",
-    "instant-property/played-at",
     "number-property/minutes",
     "number-property/new-music-minutes",
     "text-property/play-key",

@@ -29,7 +29,6 @@ export const esoDay = {
     "page-property-entry/health-samples",
     "page-property-entry/listens",
     "text-property/eso-day",
-    "text-property/metric",
     "text-property/source-name",
     "text-property/surplus-tier-said",
   ],

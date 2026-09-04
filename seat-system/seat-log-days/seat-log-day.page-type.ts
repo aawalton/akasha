@@ -20,12 +20,7 @@ export const seatLogDay = {
   pluralSlug: "seat-log-days",
   extendsSlug: "page-type/page",
   mortal: true,
-  partSlugs: [
-    "file-property/lines",
-    "relation-property/source-slug",
-    "text-property/date",
-    "text-property/seat-name",
-  ],
+  partSlugs: ["file-property/lines", "relation-property/source-slug", "text-property/seat-name"],
   properties: [
     { pagePropertySlug: "source-slug", required: true, many: false },
     { pagePropertySlug: "seat-name", required: true, many: false },
