@@ -1,0 +1,34 @@
+diff --git a/pages/akasha-page-values/akasha-page-values.module.code.ts b/pages/akasha-page-values/akasha-page-values.module.code.ts
+index 9cae8925e1b71e7746d8089e08ddc5f646bd80dc..e805edc23dc270f7e364acd3e4f8e17ed4fb6eac 100644
+--- a/pages/akasha-page-values/akasha-page-values.module.code.ts
++++ b/pages/akasha-page-values/akasha-page-values.module.code.ts
+@@ -15,8 +15,8 @@
+  */
+ 
+ import { kebabizeKey } from "@akasha/pages-access/file-rows"
++import { carried, type Held, type Values } from "../carry/page-carry.module.code.ts"
+ import { partedIn } from "../file-name/page-file-name.module.code.ts"
+-import { carried, type Held, type Values } from "../page-carry/page-carry.module.code.ts"
+ import { wholeValue } from "../uncommitted/page-uncommitted.module.code.ts"
+ import { valueAt } from "../value/page-value.module.code.ts"
+ 
+diff --git a/pages/derive-shape/page-derive-shape.module.code.ts b/pages/derive-shape/page-derive-shape.module.code.ts
+index 9d8b21bec8552b582cc419df94b51b1a4ccd3ff5..2ecc304d107e4b9427a083fc95ee50489c7bbe3b 100644
+--- a/pages/derive-shape/page-derive-shape.module.code.ts
++++ b/pages/derive-shape/page-derive-shape.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { Values } from "../page-carry/page-carry.module.code.ts"
++import type { Values } from "../carry/page-carry.module.code.ts"
+ 
+ export const WALK_BOUND = 64
+ 
+diff --git a/pages/query-values/page-query-values.module.code.ts b/pages/query-values/page-query-values.module.code.ts
+index 868b39b7f13bec5356f05dd39e44b068c9763353..43cdf537bf53a69e4ed47c3113f91db8d7459f9a 100644
+--- a/pages/query-values/page-query-values.module.code.ts
++++ b/pages/query-values/page-query-values.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { Values } from "../page-carry/page-carry.module.code.ts"
++import type { Values } from "../carry/page-carry.module.code.ts"
+ 
+ export function textOf(values: Values, key: string): string | null {
+   const value = values[key]
