@@ -1,4 +1,8 @@
-import { apnsSenderFromEnv } from "@tools/lib/push-notification/apns"
+import {
+  sleptUntilStopped,
+  stopsOnSignal,
+} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+import { apnsSenderFromEnv } from "../apns-sending/apns-sending.module.code.ts"
 import {
   LOG,
   openState,
@@ -6,11 +10,7 @@ import {
   TICK_CEILING_MS,
   TICK_MS,
   WORKER_NAME,
-} from "@tools/lib/push-notification/tick"
-import {
-  sleptUntilStopped,
-  stopsOnSignal,
-} from "../../../../service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "../push-notifier-tick/push-notifier-tick.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

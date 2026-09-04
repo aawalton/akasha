@@ -2,7 +2,7 @@ import { operationalError } from "@tools/lib/exit"
 import {
   type PollAndPersistSummary,
   pollAndPersist,
-} from "@tools/lib/inbox-tracking/poll-and-persist"
+} from "../inbox-count-tick/inbox-count-tick.module.code.ts"
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2)
