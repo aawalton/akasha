@@ -170,6 +170,8 @@ export const seatSystem = {
     "module/supervisor-clear-rebind-wire",
     "module/supervisor-config",
     "module/supervisor-console",
+    "module/account-terminal",
+    "module/turn-end-error-death",
     "module/oauth-health-lines",
     "module/supervisor-credentials",
     "module/supervisor-decide",
