@@ -1,10 +1,14 @@
-import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
+import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { formattingIn } from "../asking/asking.module.code.ts"
-import { type Bodies, rebasedOnto } from "../drafting/drafting.module.code.ts"
+import {
+  APPLIED,
+  type Bodies,
+  droppedPatch,
+  rebasedOnto,
+} from "../drafting/drafting.module.code.ts"
 import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
-import { dropBlobs } from "../patching/patching.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
 const BYTES = new TextEncoder()
@@ -98,8 +102,7 @@ export async function applied(
   const done = await landing(root, formatting.changes, message, judging, writer, head, asRead, [])
   if ("refusals" in done) return done
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
-  dropPatch(root, page)
-  dropBlobs(root, at)
+  droppedPatch(root, page, APPLIED)
   return {
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),

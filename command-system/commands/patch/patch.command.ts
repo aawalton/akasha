@@ -28,6 +28,8 @@ export const patch = {
     "an apply the checks refuse leaves the patch to be worked on further.",
     "--break-the-glass applies the patch with no check run, and the reason is said in the commit.",
     "a patch applied or dropped takes the ref keeping its blobs with it.",
+    "a patch file is committed as it is drafted into, and what it draws is landed only by an apply.",
+    "a call finding no patch beside a subagent's page names the seat that draft would have gone to.",
     "a patch outlives a context replacement, which takes away every reading the agent held.",
     "a conflict the rebase leaves is carried into the patch for the agent to resolve.",
     "a read says the body at HEAD, so a show is what says the body the patch would leave.",
@@ -75,6 +77,15 @@ export const patch = {
     {
       invariantKind: "departure",
       statement: "A drop where no patch is kept is no fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call finding no patch says where a subagent's draft goes when the subagent stops.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer names the seat holding what this subagent drafted before.",
     },
     {
       invariantKind: "departure",

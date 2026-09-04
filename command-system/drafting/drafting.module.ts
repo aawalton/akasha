@@ -147,8 +147,24 @@ export const drafting = {
       statement: "Nothing here writes into the worktree.",
     },
     {
+      invariantKind: "departure",
+      statement: "A patch file written or taken away is committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit message says what became of the patch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch file is committed under the hold a landing takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit that will not land leaves the draft as the draft is.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here commits.",
+      statement: "No check judges the body of a patch file.",
     },
   ],
 } as const satisfies Module

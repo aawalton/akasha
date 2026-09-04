@@ -99,6 +99,10 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "The patch file going is committed apart from the commit the apply lands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch the gate refused is left where the patch is.",
     },
     {

@@ -1,6 +1,8 @@
-import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
+import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { agentPathOf } from "@akasha/context-system/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
+import { partedIn } from "@akasha/pages-system/page-file-name"
+import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { applied } from "../../applying/applying.module.code.ts"
 import {
   BREAK_GLASS,
@@ -12,18 +14,17 @@ import {
   textOf,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { rebasedOnto, resolved } from "../../drafting/drafting.module.code.ts"
+import {
+  DROPPED,
+  droppedPatch,
+  rebasedOnto,
+  resolved,
+} from "../../drafting/drafting.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
 import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
-import {
-  added,
-  type Blobs,
-  blobsIn,
-  deleted,
-  dropBlobs,
-} from "../../patching/patching.module.code.ts"
+import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
 import {
@@ -60,6 +61,23 @@ const BARE: readonly string[] = []
 const BYTES = new TextEncoder()
 
 const NONE = "nothing is drafted here, so no patch is kept"
+
+const SUBAGENT = "subagent"
+
+const SEAT_KEY = "principalSeatName"
+
+function seatOver(root: string, page: string): string | null {
+  const said = partedIn(page)
+  if (said === null || said.pageType !== SUBAGENT) return null
+  const value = valueAt(page, root)
+  return value === null ? null : textAt(value, SEAT_KEY)
+}
+
+function noneSaid(root: string, page: string): string {
+  const seat = seatOver(root, page)
+  if (seat === null) return NONE
+  return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
+}
 
 const NO_PAGE = "this call names no agent whose page a patch would be kept beside"
 
@@ -110,7 +128,7 @@ function onePathIn(
 
 export function showing(root: string, page: string): Answer {
   const held = patchIn(root, page)
-  if (held === null) return { report: [NONE], refusals: [], code: 0 }
+  if (held === null) return { report: [noneSaid(root, page)], refusals: [], code: 0 }
   const said = rebasedOnto(root, headOf(root), held)
   const moved = "why" in said ? [] : said.moved
   const clashed = "why" in said ? [] : said.clashed
@@ -138,7 +156,7 @@ export function showingBody(root: string, page: string, argv: readonly string[])
   const named = onePathIn(root, argv, SHOWING)
   if ("refusals" in named) return mistaking(named.refusals)
   const held = patchIn(root, page)
-  if (held === null) return { report: [NONE], refusals: [], code: 0 }
+  if (held === null) return { report: [noneSaid(root, page)], refusals: [], code: 0 }
   const said = rebasedOnto(root, headOf(root), held)
   if ("why" in said) {
     return { report: [], refusals: [`${NO_REBASE} — ${said.why}`], code: 2 }
@@ -154,10 +172,9 @@ export function showingBody(root: string, page: string, argv: readonly string[])
 export function dropping(root: string, page: string): Answer {
   const at = patchAt(page)
   if (at === null || patchIn(root, page) === null) {
-    return { report: [NONE], refusals: [], code: 0 }
+    return { report: [noneSaid(root, page)], refusals: [], code: 0 }
   }
-  dropPatch(root, page)
-  dropBlobs(root, at)
+  droppedPatch(root, page, DROPPED)
   return { report: [`the patch kept at ${at} is taken away`], refusals: [], code: 0 }
 }
 
@@ -215,7 +232,7 @@ export async function resolving(
   if (unknown.length > 0) return mistaking(unknown)
   const named = onePathIn(given.root, argv, RESOLVING)
   if ("refusals" in named) return mistaking(named.refusals)
-  if (patchIn(given.root, page) === null) return mistaking([NONE])
+  if (patchIn(given.root, page) === null) return mistaking([noneSaid(given.root, page)])
   const held = bodyIn(given, argv, named.path, piping)
   if ("refusals" in held) return mistaking(held.refusals)
   const built = gateBuilt(given.root)
@@ -267,7 +284,7 @@ export async function applying(
   const glass = glassIn(argv, APPLYING)
   if ("refusals" in glass) return mistaking(glass.refusals)
   const broken = glass.glass
-  if (patchIn(given.root, page) === null) return mistaking([NONE])
+  if (patchIn(given.root, page) === null) return mistaking([noneSaid(given.root, page)])
   const built = gateBuilt(given.root)
   if (broken === null && !("gate" in built)) {
     return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }

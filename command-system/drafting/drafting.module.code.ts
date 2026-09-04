@@ -1,7 +1,11 @@
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import { dropPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { clashing, mergedOnto } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+import { committed } from "../committing/committing.module.code.ts"
+import { holding } from "../holding/holding.module.code.ts"
 import {
   blobsIn,
   bodyOf,
@@ -18,6 +22,12 @@ const BYTES = new TextEncoder()
 const NO_PAGE = "a path that is no page keeps no patch"
 
 const NOT_HELD = "the patch carries no body at"
+
+const DRAFTED = "is drafted into; the change it draws is not landed"
+
+export const APPLIED = "goes; the patch it held is applied"
+
+export const DROPPED = "goes; the patch it held is dropped"
 
 export type Draft = {
   readonly path: string
@@ -56,6 +66,24 @@ function bytesOf(held: string | null): Uint8Array | null {
 
 function headOf(root: string): string {
   return gitSaid(root, ["rev-parse", "HEAD"]).trim()
+}
+
+function committedPatch(root: string, at: string, why: string): undefined {
+  const there = existsSync(join(root, at))
+  try {
+    holding(root, () => {
+      committed(root, there ? [at] : [], there ? [] : [at], `${at} ${why}`, null)
+    })
+  } catch {}
+}
+
+export function droppedPatch(root: string, page: string, why: string): boolean {
+  const at = patchAt(page)
+  if (at === null) return false
+  dropPatch(root, page)
+  dropBlobs(root, at)
+  committedPatch(root, at, why)
+  return true
 }
 
 function merged(
@@ -160,7 +188,9 @@ export function drafted(root: string, page: string, drafts: readonly Draft[]): D
     answer = kept
     return kept.patch
   })
-  return took ? answer : { why: NO_PAGE }
+  if (!took) return { why: NO_PAGE }
+  if (!("why" in answer)) committedPatch(root, at, DRAFTED)
+  return answer
 }
 
 function draftsOf(held: Bodies): readonly Draft[] {
@@ -176,8 +206,7 @@ export function tookIn(root: string, page: string, from: string): Drafted {
   if ("why" in said) return said
   const took = drafted(root, page, draftsOf(said.held))
   if ("why" in took) return took
-  dropPatch(root, from)
-  dropBlobs(root, at)
+  droppedPatch(root, from, `goes; the patch it held went to ${page}`)
   return took
 }
 
@@ -203,5 +232,7 @@ export function resolved(root: string, page: string, path: string, body: string)
     answer = kept
     return kept.patch
   })
-  return took ? answer : { why: NO_PAGE }
+  if (!took) return { why: NO_PAGE }
+  if (!("why" in answer)) committedPatch(root, at, DRAFTED)
+  return answer
 }
