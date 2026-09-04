@@ -4,7 +4,7 @@ export const mergingTheTwoLandingLocksLetsTheHarnessStealALiveAkashaHold = {
   id: "01a06578-445f-77c8-8f2a-4cdb8a31a9fd",
   pageTypeSlug: "finding",
   slug: "merging-the-two-landing-locks-lets-the-harness-steal-a-live-akasha-hold",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/git",
   claim:
     "The harness landing lock and the akasha landing lock sit in one `.git` folder under different names, so a rename is all that parts them. A rename alone would not be safe. The harness reads a lock's mark with `Number` over the whole line, and the akasha mark carries two fields, so the harness would read a live akasha hold as unheld and delete it.",
   evidence:
