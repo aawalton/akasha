@@ -23,7 +23,6 @@
     "yaml": "^2.8.1",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
-    "@tools/lib": "workspace:*",
     "typescript": "5.9.3"
   }
 }

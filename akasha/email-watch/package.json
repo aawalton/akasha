@@ -13,7 +13,6 @@
     "@akasha/seat-system": "workspace:*",
     "@akasha/google-email": "workspace:*",
     "@akasha/pages-system": "workspace:*",
-    "@akasha/rules-engine": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/rules-engine": "workspace:*"
   }
 }

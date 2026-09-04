@@ -175,7 +175,6 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/session-planning": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/alan/fitness/exercise-access": {
@@ -184,7 +183,6 @@
         "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -469,7 +467,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-client": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
       "optionalDependencies": {
         "playwright-core": "1.61.1",
@@ -484,7 +481,6 @@
         "@akasha/browser-launch-env": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
-        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
       "optionalDependencies": {
@@ -502,7 +498,6 @@
       "dependencies": {
         "@akasha/pages-system": "workspace:*",
         "@akasha/workflow-selection": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/changes/pipeline-sweep": {
@@ -512,7 +507,6 @@
         "@akasha/file-system": "workspace:*",
         "@akasha/markdown-pages": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/changes/test-fanout": {
@@ -541,7 +535,6 @@
         "@akasha/old-graph": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/checks": {
@@ -551,7 +544,6 @@
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
-        "@tools/lib": "workspace:*",
         "typescript": "5.9.3",
         "yaml": "^2.8.1",
       },
@@ -801,7 +793,6 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/errors-client": {
@@ -875,7 +866,6 @@
         "@akasha/google-oauth": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
-        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -983,7 +973,6 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
-        "@tools/lib": "workspace:*",
         "yaml": "^2.8.1",
         "zod": "^4.3.6",
       },
@@ -994,7 +983,6 @@
         "@akasha/cluster-api": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/infrastructure/cluster-api": {
@@ -1042,7 +1030,6 @@
         "@akasha/service-system": "workspace:*",
         "@akasha/test-fanout": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/infrastructure/dockerfiles": {
@@ -1145,7 +1132,6 @@
         "@akasha/k8s-types": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1226,7 +1212,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-run": "workspace:*",
-        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1399,7 +1384,6 @@
       "name": "@akasha/persona-system",
       "dependencies": {
         "@akasha/pages-system": "workspace:*",
-        "@tools/lib": "workspace:*",
       },
     },
     "akasha/personas-core": {
@@ -1474,7 +1458,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
-        "@tools/lib": "workspace:*",
         "cdk8s": "^2.70.60",
         "zod": "^4.3.6",
       },
@@ -2063,7 +2046,6 @@
         "@akasha/temper-watcher": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-run": "workspace:*",
-        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },

@@ -9,8 +9,7 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-client": "workspace:*",
-    "@akasha/supabase-server": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/supabase-server": "workspace:*"
   },
   "optionalDependencies": {
     "playwright-core": "1.61.1"

@@ -17,7 +17,6 @@
     "@akasha/browser-launch-env": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
-    "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   },
   "optionalDependencies": {

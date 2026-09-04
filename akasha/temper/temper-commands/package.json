@@ -43,7 +43,6 @@
     "@akasha/temper-upstream-data": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils-run": "workspace:*",
-    "@tools/lib": "workspace:*",
     "zod": "^4.3.6",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages-query": "workspace:*",

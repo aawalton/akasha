@@ -24,7 +24,6 @@
     "@akasha/git": "workspace:*",
     "@akasha/old-graph": "workspace:*",
     "@akasha/utils-run": "workspace:*",
-    "@akasha/workflow-language": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/workflow-language": "workspace:*"
   }
 }

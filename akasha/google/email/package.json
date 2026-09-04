@@ -27,7 +27,6 @@
     "@googleapis/gmail": "^17.0.0",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   }
 }

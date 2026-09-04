@@ -20,7 +20,6 @@
     "@akasha/ci-containers": "workspace:*",
     "@akasha/file-system": "workspace:*",
     "@akasha/markdown-pages": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/pages-system": "workspace:*"
   }
 }

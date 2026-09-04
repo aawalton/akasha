@@ -19,7 +19,6 @@
     "@akasha/pages-system": "workspace:*",
     "@akasha/pipeline-sweep": "workspace:*",
     "@akasha/service-system": "workspace:*",
-    "@akasha/workflow-language": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/workflow-language": "workspace:*"
   }
 }

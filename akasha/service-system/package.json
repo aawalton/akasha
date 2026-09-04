@@ -32,7 +32,6 @@
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
-    "@tools/lib": "workspace:*",
     "cdk8s": "^2.70.60",
     "zod": "^4.3.6"
   }
