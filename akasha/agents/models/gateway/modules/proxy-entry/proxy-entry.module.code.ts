@@ -1,5 +1,6 @@
 import { join } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { logWriter } from "@akasha/seat-system/log-day-writing"
 import { seatNameForAgent } from "@akasha/seat-system/seat-presence-read"
 import { clearProxyState, writeProxyStateQuietly } from "@akasha/seat-system/seat-proxy-state"
 import {
@@ -9,7 +10,6 @@ import {
   redirectConsoleToSink,
 } from "@akasha/seat-system/supervisor-console"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
-import { logWriter } from "@tools/lib/log-append"
 import { type ProcessDoors, runGatewayProcess } from "../proxy-process/proxy-process.module.code.ts"
 import { SURFACE, startOAuthProxy } from "../proxy-serving/proxy-serving.module.code.ts"
 import { transportLogFlushed } from "../transport-log/transport-log.module.code.ts"
