@@ -4,7 +4,7 @@ export const theEmailActionsDomainAndTheCodeRuleFormatDisagreeOnWhatAnActionIs =
   id: "01a06860-54a2-7916-9071-3590c29dee10",
   pageTypeSlug: "finding",
   slug: "the-email-actions-domain-and-the-code-rule-format-disagree-on-what-an-action-is",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/email",
   claim:
     "`akasha/person-system/people/email/email-action/email-action.domain.ts` models archiving, forwarding and skipping as three of its five actions. The 54 code rules do not. Filing is a key of its own holding `archive` or `skip`, forwarding is `forward-to-slug` naming a person, and `actions` admits only `notify` and `unsubscribe`. They were landed on the format's shape rather than the domain's, because that is what the data is.",
   evidence:

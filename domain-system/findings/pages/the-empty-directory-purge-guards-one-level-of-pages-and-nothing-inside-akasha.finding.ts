@@ -4,7 +4,7 @@ export const theEmptyDirectoryPurgeGuardsOneLevelOfPagesAndNothingInsideAkasha =
   id: "01a0676e-24d9-782c-838e-decc5ccee783",
   pageTypeSlug: "finding",
   slug: "the-empty-directory-purge-guards-one-level-of-pages-and-nothing-inside-akasha",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "repos-empty-dir-purge excluded exactly one level under a repository's pages folder and nothing else, so every directory under akasha/ was fair game, and it deleted upward for up to twenty rounds. It ran once on the night of 2026-09-03, 00:26:02 to 00:26:40, and took 178 directories. Which 178 cannot be recovered: the script pipes find's -print into wc -l, so the count reaches the log and the paths are thrown away. It is now stopped and disabled.",
   evidence:

@@ -4,7 +4,7 @@ export const theFitnessFamilyIsNotACollectionFamily = {
   id: "01a0683c-6004-7a82-857d-de5840717392",
   pageTypeSlug: "finding",
   slug: "the-fitness-family-is-not-a-collection-family",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/fitness",
   claim:
     '`exercise` reads `extendsSlug: "page-type/page"` because it is not a collection, rather than because the collection-type withdrawal passed it by. It was never one of the 32 collection-type pages that withdrawal took, and none of its 884 pages carries a collection field. Extending `collection` would typecheck, since all 13 of its properties are optional, so the only thing against it is merit.',
   evidence:
