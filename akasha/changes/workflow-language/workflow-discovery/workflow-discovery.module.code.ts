@@ -2,12 +2,12 @@ import { attachmentPathFor } from "@akasha/markdown-pages/attachment-file"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize } from "@akasha/pages-system/repo-path"
+import { answer } from "@tools/lib/page-query"
 import type {
   DiscoveredWorkflow,
   Workflow,
   WorkflowKind,
-} from "@akasha/workflow-language/workflow-types"
-import { answer } from "../page-query.ts"
+} from "../workflow-types/workflow-types.module.code.ts"
 
 export const WORKFLOW_TEMPLATE_PAGE_TYPE = "workflow-template"
 export const DECLARATION_KEY = "declaration"

@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@akasha/ci-containers": "workspace:*",
+    "yaml": "^2.8.1",
     "@akasha/git": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "@akasha/pages-system": "workspace:*",

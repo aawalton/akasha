@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "@akasha/dockerfiles": "workspace:*",
+    "@akasha/workspace-paths": "workspace:*",
+    "yaml": "^2.8.1",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@tools/lib": "workspace:*",

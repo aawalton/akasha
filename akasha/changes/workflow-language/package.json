@@ -22,9 +22,13 @@
     "./step": "./step/step.module.code.ts",
     "./verify-rollout": "./verify-rollout/verify-rollout.module.code.ts",
     "./workflow": "./workflow/workflow.module.code.ts",
+    "./workflow-discovery": "./workflow-discovery/workflow-discovery.module.code.ts",
     "./workflow-types": "./workflow-types/workflow-types.module.code.ts"
   },
   "dependencies": {
+    "@akasha/markdown-pages": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   }
 }

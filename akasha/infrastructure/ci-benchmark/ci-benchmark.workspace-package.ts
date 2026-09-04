@@ -9,6 +9,7 @@ export const ciBenchmark = {
   partSlugs: [
     "module/benchmark-aggregate",
     "module/benchmark-job",
+    "module/instructions-tree-dependencies",
     "module/benchmark-margin-sweep",
     "module/benchmark-outer-core",
     "module/benchmark-outer-render",

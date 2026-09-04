@@ -22,12 +22,12 @@ import {
   computeInputsHashAtCommit,
   makeDegradedInputsGraphError,
 } from "@akasha/workflow-language/inputs-hash"
+import { discoverWorkflows } from "@akasha/workflow-language/workflow-discovery"
 import type {
   CIContext,
   DiscoveredWorkflow,
   WorkflowKind,
 } from "@akasha/workflow-language/workflow-types"
-import { discoverWorkflows } from "@tools/lib/workflow-dsl/discovery"
 import {
   intersectWithTreePaths,
   listCommitTreePaths,

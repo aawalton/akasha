@@ -1,6 +1,6 @@
-import type { Page } from "../daily-tracking/tracking-types.ts"
-import { askComposed } from "../page-query-client.ts"
+import type { Page } from "../../../akasha/alan/tracking/daily/day-narrow-types/day-narrow-types.module.code.ts"
 import { dataError } from "../exit.ts"
+import { askComposed } from "../page-query-client.ts"
 import { camelizeKey } from "./keys.ts"
 
 export type PageAccessClient = unknown

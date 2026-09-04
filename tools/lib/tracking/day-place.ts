@@ -1,7 +1,7 @@
 import { kebabisedRow } from "@akasha/pages-system/akasha-page-values"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
-import type { Page } from "../daily-tracking/tracking-types.ts"
+import type { Page } from "../../../akasha/alan/tracking/daily/day-narrow-types/day-narrow-types.module.code.ts"
 import { dataError } from "../exit.ts"
 import {
   type Answered,

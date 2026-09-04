@@ -8,8 +8,8 @@ import {
   type AstGrepWorkspace,
   parseRuleDoc,
   planAstGrepWatch,
-} from "../../../akasha/checks/cluster-checks/modules/ast-grep-rules/ast-grep-rules.module.code.ts"
-import { findFiles } from "../../../akasha/checks/cluster-checks/modules/file-finding/file-finding.module.code.ts"
+} from "../ast-grep-rules/ast-grep-rules.module.code.ts"
+import { findFiles } from "../file-finding/file-finding.module.code.ts"
 
 const sgconfigSchema = z.looseObject({ ruleDirs: z.array(z.string()).default([]) })
 const packageJsonSchema = z.looseObject({ name: z.string().optional() })

@@ -75,6 +75,7 @@ export const clusterCheck = {
     "cluster-check/widget-payload-shape-mirror",
     "cluster-check/workspaces-mainseam",
     "module/app-build-packages",
+    "module/ast-grep-configs",
     "module/ast-grep-rules",
     "module/audit-reading",
     "module/blank-comments",

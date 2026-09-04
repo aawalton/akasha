@@ -23,7 +23,8 @@ const CLONE_TIMEOUT_SECONDS = 120
 
 const INSTALL_TIMEOUT_SECONDS = 600
 
-const DEPENDENCIES_PROBE = "tools/lib/instructions-tree/dependencies.ts"
+const DEPENDENCIES_PROBE =
+  "akasha/infrastructure/ci-benchmark/instructions-tree-dependencies/instructions-tree-dependencies.module.code.ts"
 
 const RUNNER_PATH =
   "akasha/infrastructure/ci-benchmark/benchmark-running/benchmark-running.module.code.ts"

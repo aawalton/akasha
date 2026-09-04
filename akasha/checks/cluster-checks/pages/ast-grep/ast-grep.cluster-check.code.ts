@@ -5,7 +5,7 @@ import { z } from "zod"
 import {
   discoverSgconfigs,
   readAstGrepRules,
-} from "../../../../../tools/lib/check-workflow/check-configs-ast-grep"
+} from "../../modules/ast-grep-configs/ast-grep-configs.module.code.ts"
 import {
   type AstGrepFinding,
   type AstGrepViolation,

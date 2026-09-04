@@ -1,5 +1,5 @@
+import { discoverWorkflows } from "@akasha/workflow-language/workflow-discovery"
 import type { Step, Workflow } from "@akasha/workflow-language/workflow-types"
-import { discoverWorkflows } from "@tools/lib/workflow-dsl/discovery"
 import { z } from "zod"
 import {
   COLD_STAGE_STEP_NAMES,

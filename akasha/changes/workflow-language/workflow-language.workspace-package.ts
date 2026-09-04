@@ -8,6 +8,7 @@ export const workflowLanguage = {
   manifest: "json",
   partSlugs: [
     "module/workflow-types",
+    "module/workflow-discovery",
     "module/step",
     "module/workflow",
     "module/secrets",

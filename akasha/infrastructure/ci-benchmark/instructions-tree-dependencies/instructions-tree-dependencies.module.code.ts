@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { parse as parseYaml } from "yaml"
 import { z } from "zod"
 
-const TREE_ROOT = realpathSync(join(import.meta.dir, "..", "..", ".."))
+const TREE_ROOT = realpathSync(join(import.meta.dir, "..", "..", "..", ".."))
 
 const NAMED_IN_A_FAULT = 8
 
@@ -46,7 +46,7 @@ export function loadsFromTheTree(): boolean {
   return shape.safeParse(parseYaml("landed: true")).success
 }
 
-async function main(): Promise<void> {
+async function main(): Promise<undefined> {
   const manifestPath = join(TREE_ROOT, "package.json")
   const manifest = (await Bun.file(manifestPath).json()) as Manifest
   const names = declaredPackages(manifest)
@@ -74,6 +74,7 @@ async function main(): Promise<void> {
   console.log(
     `instructions tree at ${TREE_ROOT}: all ${String(names.length)} declared packages stand in it, and it runs`
   )
+  return undefined
 }
 
 if (import.meta.main) await main()
