@@ -4,7 +4,8 @@ export const aCheckedLandingCannotAddAnExportsEntryBecauseItsTestArmResolvesAgai
   id: "01a06974-c192-752c-a279-dabdb5086fd3",
   pageTypeSlug: "finding",
   slug: "a-checked-landing-cannot-add-an-exports-entry-because-its-test-arm-resolves-against-disk",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/akasha-check",
+
   claim:
     "A carriage that adds a subpath to a package manifest cannot land through `landedChecked`, and one of the three reasons is not a defect anyone put there. The checked road runs the tests of the files it judges, and a test run resolves imports against the disk while the manifest change exists only in the landing's overlay — so a test importing the new subpath cannot load, and is counted as not run. Landing 31 modules into `@akasha/seat-system` drew `4 of the 5 test files named ran`. The other two reasons are ordinary: `akasha/seat-system/package.json` is over the 15,000-byte file ceiling before any edit, and the checks judge a whole file rather than your change, so carried bodies bring their own `no-void-return` and `no-double-cast` refusals and files you merely repoint bring theirs.",
   evidence:

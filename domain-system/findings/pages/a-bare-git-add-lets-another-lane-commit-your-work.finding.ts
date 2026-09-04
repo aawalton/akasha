@@ -4,7 +4,8 @@ export const aBareGitAddLetsAnotherLaneCommitYourWork = {
   id: "01a05e65-7b6f-72ae-8f02-a81ff4d330fc",
   pageTypeSlug: "finding",
   slug: "a-bare-git-add-lets-another-lane-commit-your-work",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
+
   claim:
     "Staging with `git add` and committing in a second call leaves the content staged in the shared index between the two. With several lanes committing minutes apart, another lane's commit picks the staged files up and carries them under its own message. The work lands, correct, attributed to a change it has nothing to do with.",
   evidence:

@@ -4,7 +4,8 @@ export const aCheckRefusingNulBytesIsWhatKeepsTheIconsOutside = {
   id: "01a06591-3502-7158-bab5-ff0707b010c1",
   pageTypeSlug: "finding",
   slug: "a-check-refusing-nul-bytes-is-what-keeps-the-icons-outside",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/akasha-check",
+
   claim:
     "`no-raw-nul-bytes` is what keeps both icons outside akasha, rather than anything about where akasha sits. It refuses any file carrying a NUL byte and is narrowed to `akasha/`, so putting a picture outside that folder is what makes it legal. Nothing else objects: the beside-file grammar, the length ceiling and the page-property machinery all hold a binary. Moving akasha to the repo root leaves an app icon nowhere legal, since every file will be in akasha and every file must be claimed by a page.",
   evidence:

@@ -4,7 +4,8 @@ export const aBrokenReaderMakesAFalseCorrectionLookMeasured = {
   id: "01a06269-cf78-7c34-a574-5caac80ebf94",
   pageTypeSlug: "finding",
   slug: "a-broken-reader-makes-a-false-correction-look-measured",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/instrument",
+
   claim:
     "A correction checked with an instrument its checker wrote is only as sound as that instrument, and nothing checks the instrument. A reader whose character class excluded both quote characters halted at the first apostrophe in a double-quoted value and answered 197 of 2000 for a property holding 1987. The false correction that licensed would have been indistinguishable from a true one when sent.",
   evidence:

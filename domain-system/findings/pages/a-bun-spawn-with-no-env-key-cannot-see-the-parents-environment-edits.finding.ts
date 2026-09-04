@@ -4,7 +4,8 @@ export const aBunSpawnWithNoEnvKeyCannotSeeTheParentsEnvironmentEdits = {
   id: "01a06a0c-072d-70fb-b905-da25fbb6f92a",
   pageTypeSlug: "finding",
   slug: "a-bun-spawn-with-no-env-key-cannot-see-the-parents-environment-edits",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/instrument",
+
   claim:
     "A control that seeds a fault by assigning to `process.env` and then spawning a child through `Bun.spawn` without an `env` key never reaches the child, so the arm passes and reads as agreement rather than as a dead instrument.",
   evidence:

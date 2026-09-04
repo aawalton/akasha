@@ -4,7 +4,8 @@ export const aBarredWordInsideANameIsNoEvidenceTheBarredSenseIsMeant = {
   id: "01a064f1-4842-7e6a-815d-8904f6d8ce99",
   pageTypeSlug: "finding",
   slug: "a-barred-word-inside-a-name-is-no-evidence-the-barred-sense-is-meant",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/taboo-term",
+
   claim:
     "A taboo term page states a kept sense beside the barred one and a pattern carrying lookarounds. So a barred word inside a name is no evidence the barred sense is meant. Two renames proposed in one afternoon were already permitted by the pages themselves and one of them would have moved a landed module away from the two that follow it. Reading the page costs a grep and a needless rename changes working code.",
   evidence:

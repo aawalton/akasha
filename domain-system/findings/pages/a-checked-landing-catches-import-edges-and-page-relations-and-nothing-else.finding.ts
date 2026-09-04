@@ -4,7 +4,8 @@ export const aCheckedLandingCatchesImportEdgesAndPageRelationsAndNothingElse = {
   id: "01a068ac-b09e-7fb7-87e4-b1b196a33d0d",
   pageTypeSlug: "finding",
   slug: "a-checked-landing-catches-import-edges-and-page-relations-and-nothing-else",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/akasha-check",
+
   claim:
     "A migration landing that runs the checks refuses a direct importer and refuses a page a manifest names by slug, and it does not refuse a reader that reaches an ablated file through an imported constant. I seeded that third shape deliberately and the ablation landed with a clean stamp. A landing believed to catch indirect readers is more dangerous than the mechanical one, because a clean stamp buys confidence where the bypass line at least announced itself. Anyone adopting this must be told the boundary: import edges and page-to-page slug relations, and nothing else.",
   evidence:

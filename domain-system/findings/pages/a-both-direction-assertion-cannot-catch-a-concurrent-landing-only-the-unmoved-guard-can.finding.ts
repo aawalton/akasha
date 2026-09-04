@@ -4,7 +4,8 @@ export const aBothDirectionAssertionCannotCatchAConcurrentLandingOnlyTheUnmovedG
   id: "01a069c3-dceb-7be9-b7f4-f043b470b404",
   pageTypeSlug: "finding",
   slug: "a-both-direction-assertion-cannot-catch-a-concurrent-landing-only-the-unmoved-guard-can",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/command-system",
+
   claim:
     "A carry deleted five `partSlugs` entries that had landed 14 seconds earlier, and it had done everything the record asks: it spliced rather than re-emitted, it asserted both directions, and it passed `unmoved`. My first version of this finding said `unmoved` was the guard that catches this. The lane measured otherwise and it is right. `unmoved` fires on the fault it is written against — a seeded one-byte-stale `was` answers `code: 3` with its refusal — but it is a CHECK, run before the lock. `alsoUnmoved` reads the disk at `asking.module.code.ts:195`, reached through `judged()` at `landing.module.code.ts:389`; the write is at `:418`, inside `holding(root, ...)` at `:411`. The lock wait sits between them, and under this swarm it is the widest part of the window. No guard a lane can reach closes it. Only reading your own diff afterwards catches it.",
   evidence:
