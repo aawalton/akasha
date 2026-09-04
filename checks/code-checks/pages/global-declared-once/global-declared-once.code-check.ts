@@ -4,7 +4,7 @@ export const globalDeclaredOnce = {
   id: "01a061ca-2484-773a-8dc7-e6a08fe588f9",
   pageTypeSlug: "code-check",
   slug: "global-declared-once",
-  definition: "the check refusing a global name a module body and a declaration file both declare",
+  definition: "the check refusing a global name a declaration file and another file both declare",
   code: "ts",
   test: "ts",
   runsOnPatch: false,
@@ -62,6 +62,14 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
+      statement: "A name two declaration files declare is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is reported against the file whose path sorts later.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal against a module the change leaves untouched says so.",
     },
     {
@@ -74,7 +82,7 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "absence",
-      statement: "Two declaration files declaring one name are not judged here.",
+      statement: "Two module bodies declaring one name are not judged here.",
     },
     {
       invariantKind: "absence",
