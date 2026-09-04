@@ -4,7 +4,7 @@ export const aMechanicalLandingsAnswerCarriesNoWroteOrCommitSoALogReadsItAsANoOp
   id: "01a0683f-9beb-7167-b042-0d7b4a75afe8",
   pageTypeSlug: "finding",
   slug: "a-mechanical-landings-answer-carries-no-wrote-or-commit-so-a-log-reads-it-as-a-no-op",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/command-system",
   claim:
     "`landedMechanically` answers `{ report, refusals, code }` and nothing else. `code` is the signal of refusal and it is trustworthy. The trap is the other way round: a lane that logs `answer.wrote` or `answer.commit` reads `undefined`, and `?? []` or `?? null` turns that into `wrote: 0` and `commit: null` beside `code: 0`. A landing that wrote 42 files and committed them reports as a no-op, and a lane that believes its own log re-lands.",
   evidence:

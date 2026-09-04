@@ -4,7 +4,7 @@ export const amendDeclaresStartAndEndAndReadsNeither = {
   id: "01a06916-18af-76b7-bf1a-f655d5d20fdf",
   pageTypeSlug: "finding",
   slug: "amend-declares-start-and-end-and-reads-neither",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "command/track",
   claim:
     "`akasha track session amend` is declared to take `--start` and `--end` on its page and reads neither: a dry run with `--start 05:00` or `--end 23:00` answers the row unchanged while `--title` and `--safety` move it. `--leave-gap` is declared beside them and has no reader at all. The old `ops tracking edit` moved a block's start and end, so this is the second flag the removal 4e38106b6d took without a replacement, found only by diffing every flag act by act.",
   evidence:

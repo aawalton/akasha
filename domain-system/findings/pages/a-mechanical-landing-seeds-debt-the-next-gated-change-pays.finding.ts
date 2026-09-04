@@ -4,7 +4,7 @@ export const aMechanicalLandingSeedsDebtTheNextGatedChangePays = {
   id: "01a06589-26a4-71e2-8163-d08bf490ceae",
   pageTypeSlug: "finding",
   slug: "a-mechanical-landing-seeds-debt-the-next-gated-change-pays",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "router-app/alan-web",
   claim:
     "A file landed mechanically enters akasha unjudged, and the gate then refuses the next agent-authored change to it on debt that agent did not write. The debt is invisible until someone tries a gated edit, and the cheapest way out is another mechanical landing, so the file is never judged and the debt compounds. Migrating a package by mechanical batch therefore hands every later toucher of that package a choice between paying for someone else's file or bypassing the gate again.",
   evidence:

@@ -4,7 +4,7 @@ export const aMechanicalLandingRewritesAFunctionExpressionIntoAnArrowThatCannotB
   id: "01a06959-659e-7e89-9a8b-bce7deaa69d0",
   pageTypeSlug: "finding",
   slug: "a-mechanical-landing-rewrites-a-function-expression-into-an-arrow-that-cannot-be-constructed",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/code-system",
   claim:
     "`landedMechanically` does not only format what it lands, it applies lint fixes, and one of them changes behaviour. A `function () {}` handed in as the target of a `new Proxy(...)` lands as `() => {}`. An arrow function is no constructor, so `new` through that proxy throws `TypeError: not a constructor` where it used to answer. The landing reports this as `formatted ... as it landed — what stands there is not what was handed in`, which reads as whitespace. A change-mechanical landing runs no check, so nothing else looks.",
   evidence:
