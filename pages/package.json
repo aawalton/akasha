@@ -41,7 +41,7 @@
     "./page-address": "./address/page-address.module.code.ts",
     "./page-beside": "./beside/page-beside.module.code.ts",
     "./page-body": "./body/page-body.module.code.ts",
-    "./page-carry": "./page-carry/page-carry.module.code.ts",
+    "./page-carry": "./carry/page-carry.module.code.ts",
     "./page-derive-shape": "./derive-shape/page-derive-shape.module.code.ts",
     "./page-entries": "./entries/page-entries.module.code.ts",
     "./page-entry-queue": "./entry-queue/page-entry-queue.module.code.ts",
