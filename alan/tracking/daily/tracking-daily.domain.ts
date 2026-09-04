@@ -29,7 +29,6 @@ export const trackingDaily = {
     "module/session-points-totals",
     "module/points-source-writer",
     "module/health-total-population",
-    "module/health-total-points",
     "module/write-daily-points",
     "module/day-active-calories",
     "module/nutrition-grams",
