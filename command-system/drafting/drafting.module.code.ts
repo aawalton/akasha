@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { dropPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { clashing, mergedOnto } from "../body-merging/body-merging.module.code.ts"
+import { clashing, mergedOnto, sameBody } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
@@ -14,10 +14,6 @@ import {
   keepBlobs,
   patchOf,
 } from "../patching/patching.module.code.ts"
-
-const TEXT = new TextDecoder()
-
-const BYTES = new TextEncoder()
 
 const NO_PAGE = "a path that is no page keeps no patch"
 
@@ -37,8 +33,8 @@ export const DROPPED = "goes; the patch it held is dropped"
 
 export type Draft = {
   readonly path: string
-  readonly was: string | null
-  readonly body: string | null
+  readonly was: Uint8Array | null
+  readonly body: Uint8Array | null
 }
 
 export type Kept = { readonly patch: string | null; readonly clashed: readonly string[] }
@@ -47,7 +43,7 @@ export type Drafted = Kept | { readonly why: string }
 
 export type Bodies = ReadonlyMap<
   string,
-  { readonly was: string | null; readonly body: string | null }
+  { readonly was: Uint8Array | null; readonly body: Uint8Array | null }
 >
 
 export type Rebased = {
@@ -58,17 +54,9 @@ export type Rebased = {
 
 export type Would = { readonly held: Bodies } | { readonly why: string }
 
-type Held = Map<string, { readonly was: string | null; readonly body: string | null }>
+type Held = Map<string, { readonly was: Uint8Array | null; readonly body: Uint8Array | null }>
 
 type Worked = { readonly held: Held } | { readonly why: string }
-
-function textOf(held: Uint8Array | null): string | null {
-  return held === null ? null : TEXT.decode(held)
-}
-
-function bytesOf(held: string | null): Uint8Array | null {
-  return held === null ? null : BYTES.encode(held)
-}
 
 function headOf(root: string): string {
   return gitSaid(root, ["rev-parse", "HEAD"]).trim()
@@ -93,14 +81,13 @@ export function droppedPatch(root: string, page: string, why: string): boolean {
 }
 
 function merged(
-  base: string | null,
-  mine: string | null,
-  theirs: string | null
-): { readonly body: string | null } | { readonly why: string } {
-  const said = mergedOnto(bytesOf(base), bytesOf(mine), bytesOf(theirs))
-  if (!("why" in said)) return { body: textOf(said.body) }
-  const marked = textOf(said.marked ?? null)
-  return marked === null ? { why: said.why } : { body: marked }
+  base: Uint8Array | null,
+  mine: Uint8Array | null,
+  theirs: Uint8Array | null
+): { readonly body: Uint8Array | null } | { readonly why: string } {
+  const said = mergedOnto(base, mine, theirs)
+  if (!("why" in said)) return { body: said.body }
+  return said.marked === undefined ? { why: said.why } : { body: said.marked }
 }
 
 function clashedIn(held: Bodies): readonly string[] {
@@ -151,16 +138,15 @@ export function rebasedOnto(
   const moved: string[] = []
   for (const [where, one] of carried) {
     let path = where
-    let body = bodyAt(root, head, where)
-    if (body === null && one.was !== null) {
+    let now = bodyAt(root, head, where)
+    if (now === null && one.was !== null) {
       path = followed(root, head, where)
       if (path !== where) {
         if (carried.has(path)) return { why: `${where} ${TWO_SIDES} ${path}` }
-        body = bodyAt(root, head, path)
+        now = bodyAt(root, head, path)
       }
     }
-    const now = textOf(body)
-    if (now !== one.was) moved.push(path)
+    if (!sameBody(now, one.was)) moved.push(path)
     const said = merged(one.was, one.body, now)
     if ("why" in said) return { why: `${path} — ${said.why}` }
     next.set(path, { was: now, body: said.body })
@@ -248,7 +234,7 @@ export function tookIn(root: string, page: string, from: string): Drafted {
   return took
 }
 
-export function resolved(root: string, page: string, path: string, body: string): Drafted {
+export function resolved(root: string, page: string, path: string, body: Uint8Array): Drafted {
   const at = patchAt(page)
   if (at === null) return { why: NO_PAGE }
   const head = headOf(root)

@@ -36,7 +36,9 @@ async function indexed(): Promise<string> {
 }
 
 function drafting(root: string): undefined {
-  expect("why" in drafted(root, PAGE, [{ path: PAGE, was: A, body: MORE }])).toBe(false)
+  expect("why" in drafted(root, PAGE, [{ path: PAGE, was: bytes(A), body: bytes(MORE) }])).toBe(
+    false
+  )
 }
 
 function refs(root: string): string {
@@ -99,7 +101,9 @@ test("a reading wiped away is recorded again for a path that did not move", asyn
 test("a patch carrying a conflict does not apply", async () => {
   const root = pagesRepo()
   const marked = `${A}${CLASH_MARK}\nheld\n`
-  expect("why" in drafted(root, PAGE, [{ path: PAGE, was: A, body: marked }])).toBe(false)
+  expect("why" in drafted(root, PAGE, [{ path: PAGE, was: bytes(A), body: bytes(marked) }])).toBe(
+    false
+  )
   const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
   expect("refusals" in said).toBe(true)
   expect(said).toEqual({

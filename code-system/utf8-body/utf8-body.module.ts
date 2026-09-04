@@ -16,6 +16,10 @@ export const utf8Body = {
       statement: "Bytes that are not text say nothing rather than a replacement character.",
     },
     {
+      invariantKind: "departure",
+      statement: "Bytes holding a zero byte spell no text.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A caller wanting those bytes read anyway reaches for a decoder that is lenient.",
     },

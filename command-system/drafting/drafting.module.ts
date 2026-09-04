@@ -14,6 +14,10 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement: "A body is carried as the bytes it is rather than as text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The patch is rebased onto the commit at HEAD before a change is folded in.",
     },
     {

@@ -11,8 +11,6 @@ import {
 import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
-const BYTES = new TextEncoder()
-
 const NO_PAGE = "a path that is no page keeps no patch"
 
 const NO_PATCH = "no patch is kept for this agent, so nothing is there to apply"
@@ -28,12 +26,8 @@ export type Applied = {
   readonly commit: string | null
 }
 
-function bytesOf(body: string | null): Uint8Array | null {
-  return body === null ? null : BYTES.encode(body)
-}
-
 function editsOf(held: Bodies): readonly FileEdit[] {
-  return [...held].map(([path, one]) => ({ path, body: bytesOf(one.body) }))
+  return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 
 export function warrantedAgain(
@@ -45,7 +39,7 @@ export function warrantedAgain(
   const again: string[] = []
   for (const [path, one] of held) {
     if (moved.includes(path) || one.was === null) continue
-    const oid = blobIdOf(BYTES.encode(one.was))
+    const oid = blobIdOf(one.was)
     recordRead(root, agentId, { path, oid, seenAt: Date.now(), mechanicalOid: null })
     again.push(path)
   }

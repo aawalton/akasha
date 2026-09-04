@@ -22,6 +22,8 @@ const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=
 
 const BYTES = new TextEncoder()
 
+const NOT_TEXT = new Uint8Array([0xff, 0xfe, 0x01, 0x02])
+
 const scratch = scratchWorld()
 
 afterAll(() => {
@@ -44,7 +46,8 @@ async function landing(root: string, body: string): Promise<undefined> {
 }
 
 function drafting(root: string): undefined {
-  expect("why" in drafted(root, PAGE, [{ path: ONE, was: WAS, body: NOW }])).toBe(false)
+  const draft = [{ path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) }]
+  expect("why" in drafted(root, PAGE, draft)).toBe(false)
 }
 
 function refs(root: string): string {
@@ -165,6 +168,24 @@ test("a resolve naming no path is refused", async () => {
   const said = await resolving(given(root), PAGE, [], piped("held\n"))
   expect(said.code).toBe(1)
   expect(said.refusals.join("\n")).toContain("names the path to act on")
+})
+
+test("a body that is not text is said as bytes rather than shown", async () => {
+  const root = await repo()
+  const draft = [{ path: TWO, was: null, body: NOT_TEXT }]
+  expect("why" in drafted(root, PAGE, draft)).toBe(false)
+  const said = showingBody(root, PAGE, ["--file-path", TWO])
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain("bytes that are not text")
+})
+
+test("a body piped in to a resolve that is not text is refused", async () => {
+  const root = await repo()
+  drafting(root)
+  const at = ["--file-path", ONE]
+  const said = await resolving(given(root), PAGE, at, () => ({ bytes: NOT_TEXT }))
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("\n")).toContain("is not text")
 })
 
 test("a drop takes the patch and the ref keeping its blobs away", async () => {

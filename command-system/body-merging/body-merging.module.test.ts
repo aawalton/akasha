@@ -123,6 +123,22 @@ test("bytes that are not text are refused rather than merged", () => {
   })
 })
 
+test("bytes holding no zero that spell no text are refused rather than merged", () => {
+  const base = new Uint8Array([0xff, 0xfe, 1])
+  const mine = new Uint8Array([0xff, 0xfe, 2])
+  const theirs = new Uint8Array([0xff, 0xfe, 3])
+  expect(mergedOnto(base, mine, theirs)).toEqual({
+    why: "it is not text, so it cannot be merged line by line",
+  })
+})
+
+test("a body this change left alone is answered as what HEAD holds, text or not", () => {
+  const base = new Uint8Array([0xff, 0xfe, 1])
+  const theirs = new Uint8Array([0xff, 0xfe, 2])
+  expect(mergedOnto(base, base, theirs)).toEqual({ body: theirs })
+  expect(textOf(mergedOnto(bodyOf("one\n"), bodyOf("one\n"), bodyOf("two\n")))).toBe("two\n")
+})
+
 test("a body with no closing newline merges where the changes are apart", () => {
   const base = bodyOf("one\ntwo\nthree\nfour\nfive")
   const mine = bodyOf("ONE\ntwo\nthree\nfour\nfive")
@@ -144,7 +160,7 @@ test("a line conflict answers with the body git marked as well as with why", () 
   expect(marked).toContain("MINE")
   expect(marked).toContain("THEIRS")
   expect(marked).toContain(CLASH_MARK)
-  expect(clashing(marked)).toBe(true)
+  expect(clashing(bodyOf(marked))).toBe(true)
 })
 
 test("a conflict that is no line conflict answers with why alone", () => {
@@ -152,6 +168,6 @@ test("a conflict that is no line conflict answers with why alone", () => {
 })
 
 test("a body carrying no mark is carrying no conflict", () => {
-  expect(clashing("one\ntwo\n")).toBe(false)
+  expect(clashing(bodyOf("one\ntwo\n"))).toBe(false)
   expect(clashing(null)).toBe(false)
 })

@@ -111,6 +111,10 @@ function clashSaid(path: string): string {
   return `${path} carries a conflict — resolve it in the patch before the patch applies`
 }
 
+function notTextSaid(path: string, many: number): string {
+  return `${path} is ${String(many)} bytes that are not text, so no body is shown for it`
+}
+
 function linesOf(body: string): readonly string[] {
   const held = body.split("\n")
   return held.at(-1) === "" ? held.slice(0, -1) : held
@@ -176,7 +180,11 @@ export function showingBody(root: string, page: string, argv: readonly string[])
   if (one.body === null) {
     return { report: [`the patch takes ${named.path} away`], refusals: [], code: 0 }
   }
-  return { report: linesOf(one.body), refusals: [], code: 0 }
+  const body = textOf(one.body)
+  if (body === null) {
+    return { report: [notTextSaid(named.path, one.body.length)], refusals: [], code: 0 }
+  }
+  return { report: linesOf(body), refusals: [], code: 0 }
 }
 
 export function dropping(root: string, page: string): Answer {
@@ -265,7 +273,7 @@ export async function resolving(
       code: 3,
     }
   }
-  const body = textOf(formatting.changes[0]?.body ?? new Uint8Array()) ?? held.body
+  const body = formatting.changes[0]?.body ?? BYTES.encode(held.body)
   const said = resolved(given.root, page, named.path, body)
   if ("why" in said) return { report: [], refusals: [said.why], code: 2 }
   return {

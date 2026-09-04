@@ -2,12 +2,18 @@ const STRICT = new TextDecoder("utf-8", { fatal: true })
 
 const LEADING = 8
 
+const NOT_TEXT = 0
+
 export function decodeUtf8(bytes: Uint8Array): string | null {
   try {
     return STRICT.decode(bytes)
   } catch {
     return null
   }
+}
+
+export function spellsText(bytes: Uint8Array): boolean {
+  return !bytes.includes(NOT_TEXT) && decodeUtf8(bytes) !== null
 }
 
 export function leadingBytes(bytes: Uint8Array): string {

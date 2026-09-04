@@ -64,6 +64,22 @@ export const patching = {
     },
     {
       invariantKind: "departure",
+      statement: "A path is read from the header the entry for that path opens with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body spelling no text is drawn in git's own format for bytes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body spelling text is drawn as a diff the lines are read from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch is text whatever the bodies it draws hold.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The scratch index is swept whether the patch was built or refused.",
     },
     {

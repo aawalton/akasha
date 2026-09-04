@@ -327,6 +327,17 @@ test("a body that is not text lands as the bytes it is", async () => {
   expect([...readFileSync(join(root, "akasha/two.bin"))]).toEqual([0xff, 0xfe, 0x01, 0x02])
 })
 
+test("a body that is text lands as the bytes it is, multi-byte and all", async () => {
+  const root = repoWith()
+  const raw = bytes("h\u00e9llo \u2014 \u65e5\u672c\nsecond\n")
+  const drafted = await writing(["--file-path", "akasha/two.txt"], givenIn(root), () => ({
+    bytes: raw,
+  }))
+  const said = await applied(root, drafted)
+  expect(said.code).toBe(0)
+  expect([...readFileSync(join(root, "akasha/two.txt"))]).toEqual([...raw])
+})
+
 test("a change asking for what already stands commits nothing and says so", async () => {
   const root = repoWith()
   const was = headOf(root)

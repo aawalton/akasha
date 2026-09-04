@@ -78,6 +78,18 @@ export const bodyMerging = {
       statement: "Bytes that are not text are refused rather than merged line by line.",
     },
     {
+      invariantKind: "departure",
+      statement: "Bytes spelling no text are bytes that hold a zero byte or decode as none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body a change left as it was is answered as the body HEAD holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body spelling no text is carrying no conflict.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a repository.",
     },

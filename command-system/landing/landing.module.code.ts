@@ -64,13 +64,8 @@ const AGAIN_DRAFTED = "nothing was drafted — read them again against what stan
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
 
-const BYTES = new TextEncoder()
-
 function editsOf(held: Bodies): readonly FileEdit[] {
-  return [...held].map(([path, one]) => ({
-    path,
-    body: one.body === null ? null : BYTES.encode(one.body),
-  }))
+  return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 
 export function baseOf(root: string): string {
@@ -288,8 +283,8 @@ function draftsOf(root: string, base: string, changes: readonly FileEdit[]): rea
   const before = beforeOf(root, base, changes)
   return changes.map((one) => ({
     path: one.path,
-    was: textOf(before.get(one.path) ?? null),
-    body: textOf(one.body),
+    was: before.get(one.path) ?? null,
+    body: one.body,
   }))
 }
 
