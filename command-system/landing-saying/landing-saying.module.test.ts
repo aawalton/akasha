@@ -9,7 +9,7 @@ import {
   pathsOf,
   type Reported,
   reported,
-  wroteAndTook,
+  type Saying,
 } from "./landing-saying.module.code.ts"
 
 const count = (many: number, one: string): string => `${many} ${one}${many === 1 ? "" : "s"}`
@@ -32,18 +32,20 @@ const DRAFTED: Drafted = {
   refused: [],
 }
 
+const PLAINLY: Saying = (said) => [
+  ...said.wrote.map((one) => `wrote ${one}`),
+  ...said.took.map((one) => `took away ${one}`),
+]
+
 const OVER: Reported = {
-  saying: wroteAndTook,
+  saying: PLAINLY,
+  plainly: PLAINLY,
   changes: [{ path: "akasha/two.ts", body: null }],
   bypassed: null,
   broken: null,
   checks: 1,
   aside: [],
 }
-
-test("a report names what a landing wrote and what it took away", () => {
-  expect(wroteAndTook(LANDED)).toEqual(["wrote akasha/two.ts", "took away akasha/one.ts"])
-})
 
 test("a report opens with what the caller asked to have said of the landing", () => {
   const said = reported(count, LANDED, { ...OVER, saying: () => ["said by the caller"] })

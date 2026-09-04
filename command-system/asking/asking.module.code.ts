@@ -7,15 +7,9 @@ import { agentPathOf } from "@akasha/context-system/warranting"
 import { nameFaultIn } from "@akasha/pages-system/page-export-name"
 import { isMissing } from "@akasha/utils-fs/missing"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
-import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import {
-  draftSaid,
-  judgedBy,
-  passedOver,
-  reachedIn,
-} from "../judged-saying/judged-saying.module.code.ts"
+import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
 import type {
   Drafted,
   FileCarry,
@@ -25,12 +19,20 @@ import type {
 } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
 import {
+  draftedSaid,
+  filledSaid,
+  formattedSaid,
+  pathsOf,
+  reported,
+  type Saying,
+} from "../landing-saying/landing-saying.module.code.ts"
+import {
   installingIn,
   lockingFor,
   sameBytes,
 } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
-import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
+import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
@@ -47,8 +49,6 @@ export type Held = {
   readonly path: string
   readonly was: Uint8Array
 }
-
-export type Saying = (said: Landed) => readonly string[]
 
 export type Asked = {
   readonly changes: readonly FileEdit[]
@@ -89,20 +89,6 @@ export function formattingIn(root: string, changes: readonly FileEdit[]): Format
     formatted.push(one.path)
   }
   return { changes: held, formatted }
-}
-
-export function formattedSaid(paths: readonly string[]): readonly string[] {
-  return paths.map(
-    (one) => `formatted ${one} as it landed — what stands there is not what was handed in`
-  )
-}
-
-export function filledSaid(filled: readonly Filled[]): readonly string[] {
-  return filled.map(
-    (one) =>
-      `worked out ${one.keys.map((key) => `\`${key}\``).join(", ")} for ${one.path} as it landed` +
-      ` — ${one.why}`
-  )
 }
 
 export function mistaking(said: readonly string[]): Answer {
@@ -243,62 +229,6 @@ export function counted(many: number, one: string): string {
   return `${many} ${one}${many === 1 ? "" : "s"}`
 }
 
-function pathsOf(changes: readonly FileEdit[]): readonly string[] {
-  return changes.map((one) => one.path)
-}
-
-export function committedLine(said: Landed): string {
-  if (said.commit === null) return "nothing was committed — what was asked for already stands"
-  if (said.commit === UNNAMED) return "committed — the commit could not be named"
-  return `committed as ${said.commit}`
-}
-
-function reportOf(
-  said: Landed,
-  asked: Asked,
-  bypass: Bypass | null,
-  broken: string | null,
-  checks: number,
-  aside: readonly string[]
-): readonly string[] {
-  const found = [...asked.saying(said)]
-  found.push(...aside)
-  if (bypass === null) {
-    const paths = pathsOf(asked.changes)
-    found.push(judgedBy(counted, checks, reachedIn(paths), paths.length))
-  } else {
-    found.push(bypass.said)
-    if (broken !== null) {
-      found.push(
-        `the checks could not be loaded from ${CHECKING_AT} either, so none could have run — ${broken}`
-      )
-    }
-  }
-  found.push(...said.noted.map((one) => `the index took less than the whole of this — ${one}`))
-  found.push(committedLine(said))
-  return found
-}
-
-function reported(
-  said: Landed,
-  asked: Asked,
-  bypass: Bypass | null,
-  broken: string | null,
-  checks: number,
-  aside: readonly string[]
-): readonly string[] {
-  try {
-    return reportOf(said, asked, bypass, broken, checks, aside)
-  } catch (thrown) {
-    return [
-      ...wroteAndTook(said),
-      ...aside,
-      committedLine(said),
-      `the report could not be built — ${whyOf(thrown)}`,
-    ]
-  }
-}
-
 async function reporting(
   root: string,
   asked: Asked,
@@ -352,22 +282,6 @@ export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly R
   return held
 }
 
-function draftedSaid(
-  said: Drafted,
-  at: string | null,
-  aside: readonly string[],
-  checks: number
-): readonly string[] {
-  return [
-    ...aside,
-    ...said.drafted.map((one) => `drafted ${one}`),
-    ...draftSaid(counted, checks, said.judged, said.refused, said.clashed),
-    said.patch === null
-      ? "the patch was worked out to nothing and taken away"
-      : `the patch is kept at ${at ?? "the page of the agent that asked"} against ${said.base}`,
-  ]
-}
-
 async function draftingAsked(
   given: Given,
   asked: Asked,
@@ -400,7 +314,7 @@ async function draftingAsked(
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   return {
-    report: draftedSaid(said, patchAt(page), aside, gate.named.length),
+    report: draftedSaid(counted, said, patchAt(page), aside, gate.named.length),
     refusals: [],
     code: 0,
   }
@@ -460,7 +374,15 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   recordLanded(given, formatting.changes)
   const put = installingIn(given.root, held.changes)
   return {
-    report: reported(said, held, bypass, broken, gate.named.length, [...aside, ...put.said]),
+    report: reported(counted, said, {
+      saying: held.saying,
+      plainly: wroteAndTook,
+      changes: held.changes,
+      bypassed: bypass === null ? null : bypass.said,
+      broken,
+      checks: gate.named.length,
+      aside: [...aside, ...put.said],
+    }),
     refusals: put.wrong,
     code: put.wrong.length === 0 ? 0 : 3,
   }

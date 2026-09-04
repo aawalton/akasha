@@ -10,6 +10,7 @@ export type Saying = (said: Landed) => readonly string[]
 
 export type Reported = {
   readonly saying: Saying
+  readonly plainly: Saying
   readonly changes: readonly FileEdit[]
   readonly bypassed: string | null
   readonly broken: string | null
@@ -29,10 +30,6 @@ export function filledSaid(filled: readonly Filled[]): readonly string[] {
       `worked out ${one.keys.map((key) => `\`${key}\``).join(", ")} for ${one.path} as it landed` +
       ` — ${one.why}`
   )
-}
-
-export function wroteAndTook(said: Landed): readonly string[] {
-  return [...said.wrote.map((one) => `wrote ${one}`), ...said.took.map((one) => `took away ${one}`)]
 }
 
 export function pathsOf(changes: readonly FileEdit[]): readonly string[] {
@@ -69,7 +66,7 @@ export function reported(count: Counting, said: Landed, over: Reported): readonl
     return reportOf(count, said, over)
   } catch (thrown) {
     return [
-      ...wroteAndTook(said),
+      ...over.plainly(said),
       ...over.aside,
       committedLine(said),
       `the report could not be built — ${whyOf(thrown)}`,

@@ -5,9 +5,8 @@ import { listedTakenFrom } from "@akasha/indexes/testing"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { write } from "../commands/write/write.command.code.ts"
-import { UNNAMED } from "../committing/committing.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
-import { committedLine, landingAsked, MECHANICAL, NO_CHECKS } from "./asking.module.code.ts"
+import { landingAsked, MECHANICAL, NO_CHECKS } from "./asking.module.code.ts"
 import {
   asking,
   BROKEN,
@@ -92,17 +91,6 @@ test("a landing that threw before its commit puts back what it wrote", async () 
   expect(said.refusals.join("\n")).toContain("what was written was put back")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(git(root, ["ls-tree", "--name-only", "HEAD", "akasha/two.ts"]).trim()).toBe("")
-})
-
-test("a commit that could not be named is said to stand rather than said to be nothing", () => {
-  const held = { base: "held", wrote: ["akasha/two.ts"], took: [], noted: [], cleared: [] }
-  expect(committedLine({ ...held, commit: UNNAMED })).toBe(
-    "committed — the commit could not be named"
-  )
-  expect(committedLine({ ...held, commit: "c0ffee" })).toBe("committed as c0ffee")
-  expect(committedLine({ ...held, commit: null })).toBe(
-    "nothing was committed — what was asked for already stands"
-  )
 })
 
 test("checks that will not load refuse the change, and nothing reaches the disk", () => {

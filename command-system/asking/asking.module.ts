@@ -19,10 +19,6 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "Why a report could not be built is said in the report.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A landing that threw is answered as operational rather than as unclassified.",
     },
     {
@@ -63,10 +59,6 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "What a draft left is named in the report as what was drafted.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path the patch carries a conflict at is named in the report as well.",
     },
     {
@@ -93,10 +85,6 @@ export const asking = {
     {
       invariantKind: "departure",
       statement: "A body of any other kind reaches the gate as the caller handed the body in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body that landed other than as it was handed in is named in the report.",
     },
     {
       invariantKind: "departure",

@@ -5,7 +5,6 @@ import { applied } from "../../applying/applying.module.code.ts"
 import {
   BREAK_GLASS,
   bypassedIn,
-  formattedSaid,
   formattingIn,
   glassSaid,
   mistaking,
@@ -17,6 +16,7 @@ import { rebasedOnto, resolved } from "../../drafting/drafting.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
 import {
   added,
   type Blobs,

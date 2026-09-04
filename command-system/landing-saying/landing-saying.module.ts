@@ -50,6 +50,10 @@ export const landingSaying = {
       statement: "Where a draft's patch is kept is named in the report.",
     },
     {
+      invariantKind: "departure",
+      statement: "What a landing says of itself is handed in rather than reached for.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },
