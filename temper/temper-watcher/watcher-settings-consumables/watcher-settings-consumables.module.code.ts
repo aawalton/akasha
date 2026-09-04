@@ -41,7 +41,7 @@ const PAGE_INVENTORY_ROWS: InventoryRowReader = {
   latestSnapshot: async (userId) => {
     const { rows } = await getPages({
       pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
-      where: [{ key: "userId", eq: userId }],
+      where: [{ key: "accountPage", eq: userId }],
       order: [{ by: "capturedAt", dir: "desc" }],
       select: SNAPSHOT_KEYS,
       limit: 1,
