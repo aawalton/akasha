@@ -1,16 +1,12 @@
 import { readdirSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
 import { listedByPath, readingIn } from "@akasha/indexes"
 import type { Reading } from "@akasha/indexes/shape"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { kindsUnder } from "@akasha/pages-system/page-type-descent"
 import type { Value } from "@akasha/pages-system/page-value"
-import ts from "typescript"
 import { counted } from "../../../asking/asking.module.code.ts"
-import { splicedIn } from "../../refactor/type-renaming/type-renaming.module.code.ts"
-
-const PART_SLUGS = "partSlugs"
+import { PART_SLUGS, withoutPart, withPart } from "../listing/move-listing.module.code.ts"
 
 const DOMAIN = "domain"
 
@@ -31,109 +27,10 @@ export const PARENT_SPELLING =
   "folder to another leaves the parts of the page it was under and joins the parts of the page " +
   "it arrives under"
 
-export type Item = { readonly text: string; readonly start: number; readonly end: number }
-
-export type Listing = { readonly open: number; readonly items: readonly Item[] }
-
-function keyOf(one: ts.ObjectLiteralElementLike): string | null {
-  if (!ts.isPropertyAssignment(one)) return null
-  return ts.isIdentifier(one.name) || ts.isStringLiteral(one.name) ? one.name.text : null
-}
-
-function listedIn(source: ts.SourceFile, array: ts.ArrayLiteralExpression): Listing | null {
-  const items: Item[] = []
-  for (const element of array.elements) {
-    if (!ts.isStringLiteral(element)) return null
-    items.push({ text: element.text, start: element.getStart(source), end: element.getEnd() })
-  }
-  return { open: array.getStart(source) + 1, items }
-}
-
-export function listingIn(path: string, text: string): Listing | null {
-  const source = parsedAs(path, text)
-  for (const statement of source.statements) {
-    if (!ts.isVariableStatement(statement)) continue
-    for (const one of statement.declarationList.declarations) {
-      if (one.initializer === undefined) continue
-      const held = literalOf(one.initializer)
-      if (held === null) continue
-      for (const property of held.properties) {
-        if (keyOf(property) !== PART_SLUGS || !ts.isPropertyAssignment(property)) continue
-        const array = property.initializer
-        return ts.isArrayLiteralExpression(array) ? listedIn(source, array) : null
-      }
-      return null
-    }
-  }
-  return null
-}
-
-function blank(said: string | undefined): boolean {
-  return said === " " || said === "\t"
-}
-
-function lineOpen(text: string, at: number): number {
-  let start = at
-  while (start > 0 && text[start - 1] !== "\n") start -= 1
-  return start
-}
-
-function indentAt(text: string, at: number): string | null {
-  const said = text.slice(lineOpen(text, at), at)
-  return said.trim() === "" ? said : null
-}
-
-export function withoutPart(path: string, text: string, named: readonly string[]): string | null {
-  const listing = listingIn(path, text)
-  if (listing === null) return null
-  const item = listing.items.find((one) => named.includes(one.text))
-  if (item === undefined) return null
-  let end = item.end
-  while (blank(text[end])) end += 1
-  const comma = text[end] === ","
-  if (comma) end += 1
-  let start = item.start
-  if (comma) {
-    while (blank(text[end])) end += 1
-  } else {
-    let back = item.start
-    while (back > 0 && blank(text[back - 1])) back -= 1
-    if (text[back - 1] === ",") start = back - 1
-  }
-  const open = lineOpen(text, start)
-  if (open > 0 && indentAt(text, start) !== null) start = open - 1
-  return splicedIn(text, [[{ start, end }, ""]])
-}
-
-function spliced(text: string, at: number, said: string): string {
-  return splicedIn(text, [[{ start: at, end: at }, said]])
-}
-
-function afterLast(text: string, last: Item, said: string): string {
-  const indent = indentAt(text, last.start)
-  if (indent === null) return spliced(text, last.end, `, ${said}`)
-  let end = last.end
-  while (blank(text[end])) end += 1
-  if (text[end] === ",") end += 1
-  return spliced(text, end, `\n${indent}${said},`)
-}
-
-export function withPart(path: string, text: string, address: string): string | null {
-  const listing = listingIn(path, text)
-  if (listing === null) return null
-  if (listing.items.some((one) => one.text === address)) return text
-  const said = JSON.stringify(address)
-  const after = listing.items.find((one) => one.text > address)
-  if (after !== undefined) {
-    const indent = indentAt(text, after.start)
-    if (indent === null) return spliced(text, after.start, `${said}, `)
-    return spliced(text, lineOpen(text, after.start), `${indent}${said},\n`)
-  }
-  const last = listing.items[listing.items.length - 1]
-  if (last !== undefined) return afterLast(text, last, said)
-  const outer = indentAt(text, lineOpen(text, listing.open)) ?? ""
-  return spliced(text, listing.open, `\n${outer}  ${said},\n${outer}`)
-}
+export const KEPT_SPELLING =
+  "holding the folder a page sits in is how a parent is usually found rather than what makes " +
+  "one, so a page arriving where no page holds keeps the parent naming it and is still named " +
+  "by exactly one page"
 
 export type Holder = {
   readonly at: string
@@ -253,11 +150,21 @@ export type Parenting = {
   readonly joining: Holder
 }
 
-const NOTHING: Parented = { parentings: [], unread: null }
+const NOTHING: Parented = { parentings: [], keepings: [], unread: null }
 
-export type Parented =
-  | { readonly parentings: readonly Parenting[]; readonly unread: string | null }
-  | { readonly refusals: readonly string[] }
+export type Keeping = {
+  readonly address: string
+  readonly folder: string
+  readonly crossed: string
+}
+
+export type Parting = {
+  readonly parentings: readonly Parenting[]
+  readonly keepings: readonly Keeping[]
+  readonly unread: string | null
+}
+
+export type Parented = Parting | { readonly refusals: readonly string[] }
 
 function unheldSaid(path: string, address: string, crossed: string, side: string): string {
   return (
@@ -294,7 +201,8 @@ export function partedFor(
   const named = was === null ? [address] : [address, `${was.pageType}/${was.slug}`]
   const target = holdersFor(placing, dirname(to), to)
   if ("unheld" in target) {
-    return { refusals: [unheldSaid(to, address, target.unheld, "would arrive in")] }
+    const kept = { address, folder: dirname(to), crossed: target.unheld }
+    return { parentings: [], keepings: [kept], unread: null }
   }
   if (target.holders.some((one) => holdsPart(placing, one, named))) return NOTHING
   const before = holdersFor({ ...placing, moved: EMPTY }, dirname(from), from)
@@ -311,7 +219,8 @@ export function partedFor(
       ],
     }
   }
-  return { parentings: [{ path: to, address, named, leaving, joining }], unread: null }
+  const one = { path: to, address, named, leaving, joining }
+  return { parentings: [one], keepings: [], unread: null }
 }
 
 export type Edited = { readonly path: string; readonly was: string; readonly text: string }
@@ -364,13 +273,18 @@ export function parentedOver(
   const under = kindsUnder(DOMAIN, reading, valueAt)
   const refusals: string[] = []
   const parentings: Parenting[] = []
+  const keepings: Keeping[] = []
   for (const one of sides) {
     const said = partedFor(placing, under, one.from, one.to)
     if (said === null) continue
-    if ("refusals" in said) refusals.push(...said.refusals)
-    else parentings.push(...said.parentings)
+    if ("refusals" in said) {
+      refusals.push(...said.refusals)
+      continue
+    }
+    parentings.push(...said.parentings)
+    keepings.push(...said.keepings)
   }
-  return refusals.length > 0 ? { refusals } : { parentings, unread: null }
+  return refusals.length > 0 ? { refusals } : { parentings, keepings, unread: null }
 }
 
 export function parentingOver(
@@ -383,12 +297,23 @@ export function parentingOver(
     return parentedOver(root, sides, moved, valueAt)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
-    return { parentings: [], unread: `${why}, so no page's parts were changed` }
+    return { parentings: [], keepings: [], unread: `${why}, so no page's parts were changed` }
   }
 }
 
-export function parentingSaid(held: readonly Parenting[], dry: boolean): readonly string[] {
-  if (held.length === 0) return ["no page carried here changed the page holding it"]
+function keptSaid(one: Keeping, dry: boolean): string {
+  return (
+    `\`${one.address}\` ${dry ? "would keep" : "kept"} the parent it has, since no page's own ` +
+    `file is in ${one.crossed} or in any folder above them up to the repository root, so no page ` +
+    `holds \`${one.folder}\`, where it ${dry ? "would arrive" : "arrived"}`
+  )
+}
+
+export function parentingSaid(parted: Parting, dry: boolean): readonly string[] {
+  const kept = parted.keepings.map((one) => keptSaid(one, dry))
+  if (kept.length > 0) kept.push(KEPT_SPELLING)
+  const held = parted.parentings
+  if (held.length === 0) return ["no page carried here changed the page holding it", ...kept]
   const said = [
     `${counted(held.length, "page")} ${dry ? "would change" : "changed"} the page holding ` +
       `${held.length === 1 ? "it" : "them"}`,
@@ -400,5 +325,5 @@ export function parentingSaid(held: readonly Parenting[], dry: boolean): readonl
     )
   }
   said.push(PARENT_SPELLING)
-  return said
+  return [...said, ...kept]
 }

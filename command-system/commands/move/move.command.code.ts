@@ -22,7 +22,7 @@ import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts
 import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
 import { importingOf, namingOf, spellingOf } from "./naming/move-naming.module.code.ts"
 import { outsideIn, outsideSaid } from "./outside/move-outside.module.code.ts"
-import type { Parenting } from "./parenting/move-parenting.module.code.ts"
+import type { Parting } from "./parenting/move-parenting.module.code.ts"
 import { editedFor, parentingOver, parentingSaid } from "./parenting/move-parenting.module.code.ts"
 import type { Renaming, Unrepointed } from "./renaming/move-renaming.module.code.ts"
 import {
@@ -56,8 +56,7 @@ type Reached = {
   readonly outside: readonly string[]
   readonly reaching: readonly string[]
   readonly left: readonly Unrepointed[]
-  readonly parented: readonly Parenting[]
-  readonly unparented: string | null
+  readonly parented: Parting
 }
 
 function sidedIn(
@@ -189,7 +188,7 @@ function carrying(
   if (reached.unread !== null) report.push(reached.unread)
   report.push(...outsideSaid(reached.outside, reached.reaching, dry))
   report.push(...parentingSaid(reached.parented, dry))
-  if (reached.unparented !== null) report.push(reached.unparented)
+  if (reached.parented.unread !== null) report.push(reached.parented.unread)
   return report
 }
 
@@ -345,8 +344,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     outside: outside.paths,
     reaching: outside.reaching,
     left,
-    parented: parented.parentings,
-    unparented: parented.unread,
+    parented,
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`

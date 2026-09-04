@@ -12,6 +12,7 @@ export const move = {
   changeKindSlug: "change-mechanical",
   partSlugs: [
     "module/move-arguing",
+    "module/move-listing",
     "module/move-manifesting",
     "module/move-naming",
     "module/move-outside",
@@ -47,6 +48,7 @@ export const move = {
     "a package folder that moves is reached again where it arrives, before anything is judged.",
     "a value beside a renamed page named for its old slug is renamed with it.",
     "a spelling of the old slug it cannot judge to be an address is named rather than changed.",
+    "a page arriving where no page holds keeps the parent it has, and the answer says so.",
     "a path is read against the repository root, wherever the call was made.",
   ],
   invariants: [

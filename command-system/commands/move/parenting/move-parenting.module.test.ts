@@ -2,22 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { listedFiled } from "@akasha/indexes/testing"
 import { valueAt } from "@akasha/pages-system/page-value"
 import { rebuilt, repoWith, scratch } from "../move.command.test-fixtures.ts"
-import { parentingOver, withoutPart, withPart } from "./move-parenting.module.code.ts"
+import { parentingOver, parentingSaid } from "./move-parenting.module.code.ts"
 
 afterAll(scratch.sweep)
 
 const AT = "akasha/one/one.workspace-package.ts"
-
-const LIST = `export const one = {
-  id: "01a04bed-1450-7000-8000-0000000000a1",
-  pageTypeSlug: "workspace-package",
-  slug: "one",
-  partSlugs: [
-    "module/alpha",
-    "module/gamma",
-  ],
-}
-`
 
 const HELD = "akasha/one/held/held.module.ts"
 
@@ -25,9 +14,19 @@ const THERE = "akasha/two/held/held.module.ts"
 
 const NOWHERE = "akasha/nowhere/held/held.module.ts"
 
+const NOWHERE_FOLDER = "akasha/nowhere/held"
+
+const CROSSED = "akasha/nowhere/held, akasha/nowhere, akasha"
+
 const STRAY = "akasha/one/stray/stray.module.ts"
 
 const STRAY_AT = "akasha/two/stray/stray.module.ts"
+
+const STRAY_NOWHERE = "akasha/nowhere/stray/stray.module.ts"
+
+const ORPHAN = "akasha/nowhere/orphan/orphan.module.ts"
+
+const ORPHAN_AT = "akasha/two/orphan/orphan.module.ts"
 
 function idFor(slug: string): string {
   const held = [...slug].reduce((sum, one) => (sum * 31 + one.charCodeAt(0)) % 0xffffffff, 7)
@@ -68,6 +67,7 @@ function built(): string {
       [AT]: paged("one", "workspace-package", { partSlugs: ["module/held"] }),
       [HELD]: paged("held", "module"),
       [STRAY]: paged("stray", "module"),
+      [ORPHAN]: paged("orphan", "module"),
       "akasha/two/two.workspace-package.ts": paged("two", "workspace-package", {
         partSlugs: ["module/other", "module/stray"],
       }),
@@ -89,25 +89,14 @@ function partedIn(said: ReturnType<typeof parentingOver>): readonly (readonly st
   return said.parentings.map((one) => [one.address, one.leaving.at, one.joining.at])
 }
 
-test("a part is added where its spelling sorts, on a line of its own", () => {
-  expect(withPart(AT, LIST, "module/beta")).toContain('"module/alpha",\n    "module/beta",\n')
-})
+function keptIn(said: ReturnType<typeof parentingOver>): readonly (readonly string[])[] {
+  if ("refusals" in said) return []
+  return said.keepings.map((one) => [one.address, one.folder])
+}
 
-test("a part sorting past every one named is added after the last", () => {
-  expect(withPart(AT, LIST, "module/zeta")).toContain('"module/gamma",\n    "module/zeta",\n')
-})
-
-test("a part already named is left where it is rather than named twice", () => {
-  expect(withPart(AT, LIST, "module/alpha")).toBe(LIST)
-})
-
-test("a part taken out takes its whole line with it", () => {
-  expect(withoutPart(AT, LIST, ["module/alpha"])).toContain('partSlugs: [\n    "module/gamma",')
-})
-
-test("a part no list names is answered as nothing rather than as an unchanged list", () => {
-  expect(withoutPart(AT, LIST, ["module/nothing"])).toBe(null)
-})
+function toldIn(said: ReturnType<typeof parentingOver>): string {
+  return "refusals" in said ? "" : parentingSaid(said, true).join("\n")
+}
 
 test("a page carried between packages leaves the parts of one and joins the parts of the other", () => {
   const said = parenting(world(), HELD, THERE)
@@ -115,8 +104,29 @@ test("a page carried between packages leaves the parts of one and joins the part
   expect(partedIn(said)).toEqual([["module/held", AT, "akasha/two/two.workspace-package.ts"]])
 })
 
-test("a page arriving where no page holds the folder is refused rather than left unnamed", () => {
-  expect(refusedIn(parenting(world(), HELD, NOWHERE))).toContain("akasha/nowhere/held")
+test("a page arriving where no page holds the folder keeps the parent it has", () => {
+  const said = parenting(world(), HELD, NOWHERE)
+  expect(refusedIn(said)).toBe("")
+  expect(partedIn(said)).toEqual([])
+  expect(keptIn(said)).toEqual([["module/held", NOWHERE_FOLDER]])
+})
+
+test("a page left under the parent it has is named in the answer with why", () => {
+  const told = toldIn(parenting(world(), HELD, NOWHERE))
+  expect(told).toContain("`module/held` would keep the parent it has")
+  expect(told).toContain(CROSSED)
+  expect(told).toContain(`no page holds \`${NOWHERE_FOLDER}\``)
+})
+
+test("a page left under the parent it has is asked nothing of the page holding where it was", () => {
+  const said = parenting(world(), STRAY, STRAY_NOWHERE)
+  expect(refusedIn(said)).toBe("")
+  expect(keptIn(said)).toEqual([["module/stray", "akasha/nowhere/stray"]])
+})
+
+test("a page carried out of a folder no page holds is refused rather than carried", () => {
+  const said = parenting(world(), ORPHAN, ORPHAN_AT)
+  expect(refusedIn(said)).toContain("was in a folder no page holds")
 })
 
 test("a page carried within the one folder changes no parts", () => {

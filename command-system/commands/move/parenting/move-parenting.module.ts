@@ -34,7 +34,16 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
-      statement: "A destination no page holds is refused rather than carried to.",
+      statement: "A destination no page holds leaves the carried page's parent as it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page left under the parent it has is named in the answer with why.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page left under the parent it has is asked nothing of the page holding where it was.",
     },
     {
       invariantKind: "departure",
@@ -72,18 +81,6 @@ export const moveParenting = {
     {
       invariantKind: "departure",
       statement: "What a folder holds is read as the move leaves it rather than as it is now.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A part is added in the place its spelling sorts to.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A part taken out takes its line with it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A part already named is named once rather than twice.",
     },
     {
       invariantKind: "departure",
