@@ -117,10 +117,6 @@ export const collection = {
     },
     {
       invariantKind: "departure",
-      statement: "A collection is part of more than one collection.",
-    },
-    {
-      invariantKind: "departure",
       statement: "No collection is part of itself however far the chain of parts runs.",
     },
     {
