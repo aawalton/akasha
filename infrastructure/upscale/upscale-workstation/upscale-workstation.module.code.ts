@@ -4,14 +4,7 @@ import { OperationalError } from "@akasha/errors-core/exit-code"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 function upscaleScriptPath(slug: string): string {
-  return join(
-    akashaRoot(),
-    "akasha",
-    "infrastructure",
-    "upscale",
-    slug,
-    `${slug}.shell-script.shell.sh`
-  )
+  return join(akashaRoot(), "infrastructure", "upscale", slug, `${slug}.shell-script.shell.sh`)
 }
 
 async function runUpscaleScript(slug: string, args: readonly string[]): Promise<void> {
