@@ -6,5 +6,5 @@ export const markDavies = {
   slug: "mark-davies",
   title: "Mark Davies",
   relationshipCurrentCircle: "acquaintances",
-  relationshipEmail: "mark_davies@byu.edu",
+  email: "mark_davies@byu.edu",
 } as const satisfies Relationship

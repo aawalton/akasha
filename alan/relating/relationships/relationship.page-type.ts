@@ -27,7 +27,7 @@ export type Relationship = Page & {
   relationshipCompany?: RelationshipCompany
   relationshipConnection?: RelationshipConnection
   relationshipCurrentCircle?: RelationshipCurrentCircle
-  relationshipEmail?: RelationshipEmail
+  email?: RelationshipEmail
   relationshipImpact?: RelationshipImpact
   relationshipInterest?: RelationshipInterest
   relationshipLinkedinUrl?: RelationshipLinkedinUrl

@@ -8,7 +8,7 @@ export const chrisWilson = {
   relationshipCommitment: 4,
   relationshipConnection: 3,
   relationshipCurrentCircle: "acquaintances",
-  relationshipEmail: "hansoloz@byu.net",
+  email: "hansoloz@byu.net",
   relationshipImpact: 3,
   relationshipInterest: 3,
 } as const satisfies Relationship

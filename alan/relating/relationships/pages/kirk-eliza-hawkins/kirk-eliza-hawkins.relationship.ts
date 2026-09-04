@@ -8,7 +8,7 @@ export const kirkElizaHawkins = {
   relationshipCommitment: 4,
   relationshipConnection: 3,
   relationshipCurrentCircle: "acquaintances",
-  relationshipEmail: "drs.hawkins@gmail.com",
+  email: "drs.hawkins@gmail.com",
   relationshipImpact: 3,
   relationshipInterest: 3,
   relationshipPhone: "+18017094721",

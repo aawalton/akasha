@@ -8,7 +8,7 @@ export const davidMelissaEggertsen = {
   relationshipCommitment: 5,
   relationshipConnection: 5,
   relationshipCurrentCircle: "affiliates",
-  relationshipEmail: "deggertsen@gmail.com",
+  email: "deggertsen@gmail.com",
   relationshipImpact: 5,
   relationshipInterest: 4,
   relationshipLinkedinUrl: "https://www.linkedin.com/in/deggertsen",

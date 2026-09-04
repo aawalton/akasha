@@ -9,7 +9,7 @@ export const ryanSeamons = {
   relationshipCompany: "Latitude Games",
   relationshipConnection: 4,
   relationshipCurrentCircle: "confidants",
-  relationshipEmail: "ryan@latitude.io",
+  email: "ryan@latitude.io",
   relationshipImpact: 5,
   relationshipInterest: 3,
   relationshipMetAt:

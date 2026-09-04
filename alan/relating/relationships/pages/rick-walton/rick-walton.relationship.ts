@@ -8,7 +8,7 @@ export const rickWalton = {
   relationshipCommitment: 3,
   relationshipConnection: 3,
   relationshipCurrentCircle: "deceased",
-  relationshipEmail: "rick@rickwalton.com",
+  email: "rick@rickwalton.com",
   relationshipImpact: 5,
   relationshipInterest: 4,
   relationshipLinkedinUrl: "https://www.linkedin.com/in/rick-walton-1458ab41",

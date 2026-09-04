@@ -6,6 +6,6 @@ export const jamesDensmore = {
   slug: "james-densmore",
   title: "James Densmore",
   relationshipCurrentCircle: "community",
-  relationshipEmail: "jdensmore1@gmail.com",
+  email: "jdensmore1@gmail.com",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/jamesdensmore",
 } as const satisfies Relationship

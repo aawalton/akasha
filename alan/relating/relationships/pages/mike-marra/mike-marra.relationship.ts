@@ -5,6 +5,6 @@ export const mikeMarra = {
   pageTypeSlug: "relationship",
   slug: "mike-marra",
   title: "Mike Marra",
-  relationshipEmail: "mmarra0624@gmail.com",
+  email: "mmarra0624@gmail.com",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/mike-marra-47247979",
 } as const satisfies Relationship

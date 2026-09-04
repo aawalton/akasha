@@ -10,7 +10,7 @@ export const jenniferWalton = {
   relationshipCommitment: 5,
   relationshipConnection: 5,
   relationshipCurrentCircle: "pair-bond",
-  relationshipEmail: "smilingjenny@gmail.com",
+  email: "smilingjenny@gmail.com",
   relationshipImpact: 5,
   relationshipInterest: 5,
   relationshipLinkedinUrl: "https://www.linkedin.com/in/jennifer-walton-aa33919",

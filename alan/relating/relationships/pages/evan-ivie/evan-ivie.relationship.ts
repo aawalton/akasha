@@ -8,7 +8,7 @@ export const evanIvie = {
   relationshipCommitment: 5,
   relationshipConnection: 4,
   relationshipCurrentCircle: "deceased",
-  relationshipEmail: "evan@ivies.org",
+  email: "evan@ivies.org",
   relationshipImpact: 5,
   relationshipInterest: 4,
   relationshipLinkedinUrl: "https://www.linkedin.com/in/evan-ivie-0852795",
