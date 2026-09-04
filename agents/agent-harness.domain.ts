@@ -68,17 +68,4 @@ export const agentHarness = {
         "What a row means is settled by the harness rather than by the code writing the row.",
     },
   ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Headroom",
-      act: "Never report that a part is close to its bound as a defect, in your own words or in an instrument's.",
-      warrant:
-        "A bound makes the next write push something out, so a part just under one is the bound working.",
-      aids: [
-        "Say how close a part is to a bound only if asked.",
-        "Never propose raising a bound a part came near.",
-      ],
-    },
-  ],
 } as const satisfies Domain
