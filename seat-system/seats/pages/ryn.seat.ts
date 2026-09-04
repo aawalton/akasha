@@ -11,4 +11,5 @@ export const ryn = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "658167ef-bae7-4e7f-b441-12f62294e594",
 } as const satisfies Seat
