@@ -1,17 +1,14 @@
-export const summary =
-  "Drain your own mailbox: list and take the messages standing in your directory (--peek, --all, --json)"
-
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { seatNameForAgent } from "@akasha/seat-system/messages-agent-tools"
 import { seatRecord } from "@akasha/seat-system/seat-facts"
 import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
-import { dataError, inputError } from "../../lib/exit.ts"
-import { type Message, messagesTo, takeMessage } from "../../lib/message-file.ts"
+import { dataError, inputError } from "@tools/lib/exit"
+import { type Message, messagesTo, takeMessage } from "@tools/lib/message-file"
 
 const BODY_CAP = 2000
 
-export const help: CommandHelp = {
+export const HELP: CommandHelp = {
   positionals: [
     {
       name: "agent-id",
@@ -105,3 +102,5 @@ export default async function agentInbox(args: readonly string[]): Promise<void>
   if (listed.length === 0) return
   process.stdout.write(`${listed.map(tsvLine).join("\n")}\n`)
 }
+
+export const help = HELP

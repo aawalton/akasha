@@ -1,6 +1,3 @@
-export const summary =
-  "Start a seat: create it under a name, state what it is, and launch it where asked"
-
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
@@ -23,7 +20,7 @@ import { refuseHeldName } from "@akasha/seat-system/seat-name-held-refusal"
 import { refuseParentless } from "@akasha/seat-system/seat-parentless-refusal"
 import { composedNameOf } from "@akasha/seat-system/seat-rename"
 import { compositionOf, decideSpawnName } from "@akasha/seat-system/seat-spawn-name-decide"
-import { help } from "@akasha/seat-system/seat-start-help"
+import { help as HELP } from "@akasha/seat-system/seat-start-help"
 import { resolveStatedIdentity } from "@akasha/seat-system/seat-stated-identity"
 import { refuseStatedName } from "@akasha/seat-system/seat-stated-name-refusal"
 import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refusal"
@@ -31,18 +28,16 @@ import { type StatedIdentity, spawnSeat } from "@akasha/seat-system/spawn-seat"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
 import { setTurnState } from "@akasha/seat-system/turn-records"
+import { dataError, inputError } from "@tools/lib/exit"
+import { readStdinOrFile } from "@tools/lib/read-stdin-or-file"
 import {
   composeSeatName,
   FLEET,
   FLEX,
   personaDefaultsOf,
   principals,
-} from "../../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { defaultFor } from "../../../akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
-import { dataError, inputError } from "../../lib/exit.ts"
-import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-
-export { help }
+} from "../compose-seat-name/compose-seat-name.module.code.ts"
+import { defaultFor } from "../seat-resolve/seat-resolve.module.code.ts"
 
 async function readFlexFlag(raw: string | undefined): Promise<string | null> {
   if (raw === undefined) return null
@@ -215,3 +210,5 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   }
   process.stdout.write(`${agentId}\n`)
 }
+
+export const help = HELP

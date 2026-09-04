@@ -1,14 +1,8 @@
-export const summary =
-  "Rebuild the local account-alias snapshot from the account pages (drift repair / fresh-workstation materialize)"
-
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
-import {
-  ACCOUNT_ALIAS_SNAPSHOT_PATH,
-  syncAliasSnapshotFromPages,
-} from "../../lib/alias-snapshot.ts"
+import { ACCOUNT_ALIAS_SNAPSHOT_PATH, syncAliasSnapshotFromPages } from "@tools/lib/alias-snapshot"
 
-export const help: CommandHelp = {
+export const HELP: CommandHelp = {
   flags: [],
   examples: ["ops claude-account sync-aliases"],
 }
@@ -22,3 +16,5 @@ export default async function claudeAccountSyncAliases(args: readonly string[]):
       entries.map((e) => `  c${e.aliasIndex}  ${e.account}\n`).join("")
   )
 }
+
+export const help = HELP

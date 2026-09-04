@@ -7,6 +7,6 @@ export const opsSeatInbox = {
   definition:
     "the inbound messages addressed to one agent, marked read as they are listed unless --peek.",
   opsPath: "seat inbox",
-  opsEntryFile: "tools/commands/seat/inbox.ts",
+  opsEntryFile: "akasha/seat-system/seat-inbox/seat-inbox.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

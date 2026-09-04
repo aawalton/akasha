@@ -1,6 +1,3 @@
-export const summary =
-  "Reset a seat: take the agent out of it and sit a new one down holding every declaration it states"
-
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { killSeatSession, launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
@@ -8,25 +5,19 @@ import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
 import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
 import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
 import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
-import { help } from "@akasha/seat-system/seat-reset-help"
+import { help as HELP } from "@akasha/seat-system/seat-reset-help"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import { A_RESET, stopSeat } from "@akasha/seat-system/stop-seat"
 import { setTurnState } from "@akasha/seat-system/turn-records"
-import { composeSeatName } from "../../../akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { flexInName } from "../../../akasha/seat-system/seat-flex/seat-flex.module.code.ts"
+import { dataError, inputError } from "@tools/lib/exit"
+import { composeSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
+import { flexInName } from "../seat-flex/seat-flex.module.code.ts"
 import {
   type SeatFromHistory,
   seatFromHistory,
-} from "../../../akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
-import { principalSeatNameOf } from "../../../akasha/seat-system/seat-principal/seat-principal.module.code.ts"
-import {
-  pageWouldCompose,
-  type Stated,
-  statedOf,
-} from "../../../akasha/seat-system/seat-stated/seat-stated.module.code.ts"
-import { dataError, inputError } from "../../lib/exit.ts"
-
-export { help }
+} from "../seat-page-history/seat-page-history.module.code.ts"
+import { principalSeatNameOf } from "../seat-principal/seat-principal.module.code.ts"
+import { pageWouldCompose, type Stated, statedOf } from "../seat-stated/seat-stated.module.code.ts"
 
 interface Kept {
   readonly persona: string | null
@@ -177,3 +168,5 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
   }
   process.stdout.write(`${fresh}\t${name}\t${mode}\n`)
 }
+
+export const help = HELP

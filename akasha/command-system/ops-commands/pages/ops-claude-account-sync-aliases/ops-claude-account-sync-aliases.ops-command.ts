@@ -6,6 +6,7 @@ export const opsClaudeAccountSyncAliases = {
   slug: "ops-claude-account-sync-aliases",
   definition: "the local alias snapshot rewritten from the account pages.",
   opsPath: "claude-account sync-aliases",
-  opsEntryFile: "tools/commands/claude-account/sync-aliases.ts",
+  opsEntryFile:
+    "akasha/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

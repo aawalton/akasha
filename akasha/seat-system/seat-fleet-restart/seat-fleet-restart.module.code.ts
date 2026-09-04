@@ -1,12 +1,10 @@
-export const summary =
-  "Cycle every seat whose client started before the settings standing now, so a registration change reaches the running fleet"
-
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatsPresent } from "@akasha/seat-system/seat-roster"
-import { operationalError } from "../../../lib/exit.ts"
+import { ran } from "@akasha/utils-run/running"
+import { operationalError } from "@tools/lib/exit"
 
 const SETTINGS =
   "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"
@@ -19,7 +17,7 @@ const PROC = "/proc"
 
 const DIGITS = /^\d+$/
 
-export const help: CommandHelp = {
+export const HELP: CommandHelp = {
   flags: [
     { name: "--dry-run", description: "Name what is stale and cycle none of it" },
     { name: "--json", description: "Emit JSON records instead of the TSV summary" },
@@ -32,13 +30,11 @@ export const help: CommandHelp = {
 }
 
 function settingsSettledAtMs(): number | null {
-  const proc = Bun.spawnSync(["git", "log", "-1", "--format=%ct", "--", SETTINGS], {
+  const done = ran(["git", "log", "-1", "--format=%ct", "--", SETTINGS], {
     cwd: rootFor(resolveRoots(), AKASHA),
-    stdout: "pipe",
-    stderr: "ignore",
   })
-  if ((proc.exitCode ?? 1) !== 0) return null
-  const seconds = Number(new TextDecoder().decode(proc.stdout).trim())
+  if (done.code !== 0) return null
+  const seconds = Number(done.out.trim())
   return Number.isFinite(seconds) && seconds > 0 ? seconds * 1000 : null
 }
 
@@ -72,19 +68,13 @@ function readFleet(settledAtMs: number): readonly Reading[] {
 }
 
 function cycle(name: string): string {
-  const proc = Bun.spawnSync(
-    [process.execPath, `${akashaRoot()}/${DISPATCHER}`, "seat", "resume", name],
-    {
-      stdout: "pipe",
-      stderr: "pipe",
-    }
-  )
-  const said = new TextDecoder().decode(proc.stdout).trim()
-  if ((proc.exitCode ?? 1) !== 0) {
-    const why = new TextDecoder().decode(proc.stderr).trim()
-    return `refused: ${why === "" ? said : why}`
+  const done = ran([process.execPath, `${akashaRoot()}/${DISPATCHER}`, "seat", "resume", name])
+  const answered = done.out.trim()
+  if (done.code !== 0) {
+    const why = done.err.trim()
+    return `refused: ${why === "" ? answered : why}`
   }
-  const columns = said.split("\n")[0]?.split("\t") ?? []
+  const columns = answered.split("\n")[0]?.split("\t") ?? []
   return columns[columns.length - 1] ?? "restarted"
 }
 
@@ -135,3 +125,5 @@ export default async function seatFleetRestart(args: readonly string[]): Promise
       `${unreadable === 0 ? "" : `; ${unreadable} whose client could not be read, left alone`}\n`
   )
 }
+
+export const help = HELP

@@ -288,7 +288,9 @@ test("the live seat resume vector reaches the file its page names, and that file
   const found = opsMatchIn(documents, ["seat", "resume", "01a0-one", "--verify", "--json"])
   expect(found?.document.path).toEqual(["seat", "resume"])
   expect(found?.rest).toEqual(["01a0-one", "--verify", "--json"])
-  expect(found?.document.entryFile).toBe("tools/commands/seat/resume.ts")
+  expect(found?.document.entryFile).toBe(
+    "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
+  )
   const at = found === null ? null : opsEntryAt(root, found.document)
   expect(at).not.toBeNull()
   expect(readFileSync(at ?? "", "utf8")).toMatch(/^export default\b/m)

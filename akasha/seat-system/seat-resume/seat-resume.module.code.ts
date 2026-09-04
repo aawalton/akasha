@@ -1,5 +1,3 @@
-export const summary = "Bring a seat back on the session it was bound to, live or stopped"
-
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
 import {
@@ -25,17 +23,15 @@ import {
   SEAT_MODES,
 } from "@akasha/seat-system/seat-modes"
 import { sweepSupersededAgentTrees } from "@akasha/seat-system/seat-recovery"
-import { help } from "@akasha/seat-system/seat-resume-help"
+import { help as HELP } from "@akasha/seat-system/seat-resume-help"
 import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
 import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
 import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"
 import { setTurnState } from "@akasha/seat-system/turn-records"
 import { shape } from "@akasha/utils-narrow/shape"
-import { parseWindowDuration } from "../../lib/active-core.ts"
-import { dataError, inputError, operationalError } from "../../lib/exit.ts"
-import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-
-export { help }
+import { parseWindowDuration } from "@tools/lib/active-core"
+import { dataError, inputError, operationalError } from "@tools/lib/exit"
+import { readStdinOrFile } from "@tools/lib/read-stdin-or-file"
 
 const DEFAULT_VERIFY_GRACE_MS = 30_000
 
@@ -153,8 +149,6 @@ async function cycleInPlace(
   await setRequestedAction(agentId, { action: now ? "restart-now" : "restart" })
   const outcome = await waitForActionCleared(agentId)
   if (outcome.ok) {
-    // A gated restart clears the moment it is ARMED, not when it has fired, so there is no new
-    // supervisor to sweep behind yet and nothing that can honestly be called restarted.
     const status = now ? "restarted" : SELF_STATUS
     if (now) {
       await sweepSupersededAgentTrees(agentId, seatRecord(agentId)?.supervisorPid ?? undefined)
@@ -223,9 +217,6 @@ export default async function seatResume(args: readonly string[]): Promise<void>
     }
     const target = await resolveTakeoverTarget(named)
     refuseWhereSubagentsWork(target, force)
-    // BEFORE THE TAKEOVER, because the takeover stops the supervisor and the supervisor is the
-    // pane's own process. Held open, the pane outlives that stop and the session, the window and
-    // every attached terminal stand for the new supervisor to start in.
     const standing = seatRecord(target)?.name ?? null
     if (standing !== null) await holdSeatPaneOpen(standing)
     const taken = await takeoverSeat(target)
@@ -246,10 +237,6 @@ export default async function seatResume(args: readonly string[]): Promise<void>
         mode: startMode,
         resumeSessionId: taken.sessionId,
       }
-      // IN PLACE WHERE THERE IS A SESSION TO STAND IN. Killing the session and building a new one
-      // under the same name takes every attached client with it, so the seat comes back detached
-      // rather than in the terminal it was being watched from. A kill is what a seat holding no
-      // session gets, because there is then nothing to respawn into.
       if (!(await respawnSeatUnderTmux(seatLaunch))) {
         await killSeatSession(taken.name)
         await launchSeatUnderTmux(seatLaunch)
@@ -299,3 +286,5 @@ export default async function seatResume(args: readonly string[]): Promise<void>
 
   await relaunch(relaunchInput)
 }
+
+export const help = HELP
