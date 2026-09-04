@@ -126,7 +126,7 @@ test("a top folder holding nothing goes, and one inside `.git` never does", asyn
   emptyIn(root, ".git/empty")
   expect((await removing(root, naming("husk"))).code).toBe(0)
   expect(there(root, "husk")).toBe(false)
-  expect(await removing(root, naming(".git/empty")).refusals[0]).toContain(
+  expect((await removing(root, naming(".git/empty"))).refusals[0]).toContain(
     "holds the repository itself"
   )
   expect(there(root, ".git/empty")).toBe(true)
