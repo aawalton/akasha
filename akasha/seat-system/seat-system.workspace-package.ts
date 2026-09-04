@@ -332,6 +332,8 @@ export const seatSystem = {
     "module/tool-access",
     "module/message-file-watch",
     "module/run-supervisor",
+    "module/seat-call",
+    "module/seat-running",
     "module/seat-turn-color",
   ],
   invariants: [
