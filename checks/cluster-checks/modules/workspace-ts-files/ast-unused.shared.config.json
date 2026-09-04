@@ -40,7 +40,7 @@
         "**/*.ts"
       ]
     },
-    "pages/pages-ui-store": {
+    "pages/ui-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

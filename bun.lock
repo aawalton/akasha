@@ -1247,7 +1247,7 @@
         "react-router": ">=7",
       },
     },
-    "pages/pages-ui-store": {
+    "pages/ui-store": {
       "name": "@akasha/pages-ui-store",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -3133,7 +3133,7 @@
 
     "@akasha/pages-ui-components": ["@akasha/pages-ui-components@workspace:pages/pages-ui/components"],
 
-    "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages/pages-ui-store"],
+    "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages/ui-store"],
 
     "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/url"],
 
