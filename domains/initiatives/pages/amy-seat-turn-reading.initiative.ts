@@ -27,11 +27,6 @@ export const amySeatTurnReading = {
       workingMemory:
         "The hierarchy repair, putting idle-pending under idle. The work is kept at bbbbff89ae and can be cherry-picked once two defects already on seat-turn-state.page-type.ts are fixed.",
     },
-    {
-      statement: "A subagent's turn state is read from what the subagent is doing.",
-      workingMemory:
-        "Left until the seats are right, at Alan's direction. The transcript now names every live subagent by id, paired from an async launch to the notification naming it, so the page-presence reading `subagentTurnOf` uses is no longer the only source. Page presence leaked: athena carried seven pages against two live agents.",
-    },
   ],
   constraints: [
     "Working means a seat is mid-turn: given a prompt and not yet finished answering, including a long tool call with no request open.",
@@ -46,6 +41,8 @@ export const amySeatTurnReading = {
     "Each piece is made clean and correct and performant before the next piece is taken up.",
     "The word owed is settled: three meanings went from seat-system at a446b230, and the orphan on Outcome went at 700957ae. What is left is Warrant.owed in context-system, which is the live one.",
     "One implementation reads what a writer must have read: context/warranting, declared-seat-reading having been ablated at 9bc44a50.",
+    "A subagent's turn state is read in editor-extension/subagent-core, which folds that subagent's own transcript.",
+    "The akasha reading of a subagent turn went at 54584c35, no id carrying a double hyphen ever reaching it.",
     "A reader keeping a cursor needs that cursor cleared when its rules change, because a landing does not reach what was already read past.",
   ],
 } as const satisfies Initiative
