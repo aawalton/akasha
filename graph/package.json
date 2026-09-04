@@ -4,8 +4,8 @@
   "type": "module",
   "exports": {
     "./file-kind-authorship": "./file-kind-authorship/file-kind-authorship.module.code.ts",
-    "./graph-asking": "./graph-asking/graph-asking.module.code.ts",
-    "./import-edge": "./graph-edges/pages/import-edge.graph-edge.ts",
-    "./graph-closure": "./graph-closure/graph-closure.module.code.ts"
+    "./graph-asking": "./asking/graph-asking.module.code.ts",
+    "./import-edge": "./edges/pages/import-edge.graph-edge.ts",
+    "./graph-closure": "./closure/graph-closure.module.code.ts"
   }
 }
