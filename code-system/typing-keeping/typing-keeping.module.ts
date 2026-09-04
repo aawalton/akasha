@@ -21,7 +21,11 @@ export const typingKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run keeps is named for how many roots the program was built over.",
+      statement: "What a run keeps is the one file the workspace page declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name carrying how many roots a run had would collide across unlike programs.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +37,7 @@ export const typingKeeping = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes inside the akasha folder.",
+      statement: "Nothing here writes a file the commit carries.",
     },
   ],
 } as const satisfies Module

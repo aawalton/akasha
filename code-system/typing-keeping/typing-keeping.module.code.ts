@@ -4,9 +4,7 @@ import { dirname, join } from "node:path"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import type ts from "typescript"
 
-const CACHED = "node_modules/.cache/akasha/typing-keeping"
-
-const BUILT = ".tsbuildinfo"
+const BUILT = "tsconfig.tsbuildinfo"
 
 export function versionOf(text: string): string {
   return createHash("sha256").update(text).digest("hex")
@@ -21,8 +19,6 @@ export function writtenTo(path: string, text: string): undefined {
   writeFileAtomicSync(path, text)
 }
 
-export function buildInfoAt(root: string, roots: readonly string[]): string {
-  let width = 0
-  for (let held = roots.length; held > 1; held = Math.floor(held / 2)) width += 1
-  return join(root, CACHED, `roots-${width}${BUILT}`)
+export function buildInfoAt(root: string): string {
+  return join(root, BUILT)
 }
