@@ -1,4 +1,4 @@
-import type { PageProperty } from "../page-properties/page-property.page-type.ts"
+import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
 
 export type EmailAddressProperty = PageProperty

@@ -1,4 +1,4 @@
-import type { PageProperty } from "../page-properties/page-property.page-type.ts"
+import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
 import type { SelectValues } from "./properties/select-values.text-property.ts"
 
