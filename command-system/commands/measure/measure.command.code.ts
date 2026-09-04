@@ -1,11 +1,7 @@
 import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
 import { notesOf, refreshAll } from "@akasha/agents/claude-account-refreshing"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import {
-  akashaUnder,
-  countsIn,
-  linesOf as repoLinesOf,
-} from "./repo-measuring/repo-measuring.module.code.ts"
+import { countsIn, linesOf as repoLinesOf } from "./repo-measuring/repo-measuring.module.code.ts"
 
 const CLAUDE_ACCOUNTS = "claude-accounts"
 
@@ -39,17 +35,6 @@ async function measureClaudeAccounts(given: Given): Promise<Answer> {
 }
 
 function measureRepo(given: Given): Answer {
-  if (!akashaUnder(given.root)) {
-    return {
-      report: [],
-      refusals: [
-        `no akasha folder stands under \`${given.root}\`, and the share is what has arrived over ` +
-          "everything there is to arrive, so a checkout without one is not a migration measured " +
-          "at none",
-      ],
-      code: 2,
-    }
-  }
   return { report: [...repoLinesOf(countsIn(given.root))], refusals: [], code: 0 }
 }
 
