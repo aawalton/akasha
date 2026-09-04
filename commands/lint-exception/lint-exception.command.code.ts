@@ -7,9 +7,8 @@ import {
   mistaking,
   textOf,
   wroteAndTook,
-} from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+} from "../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import {
   glassIn,
   MESSAGE,
@@ -17,7 +16,8 @@ import {
   messageIn,
   unknownIn,
   valuesOf,
-} from "../write/write.command.code.ts"
+} from "../../command-system/commands/write/write.command.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 export const PACKAGE_PATH = "--package-path"
 

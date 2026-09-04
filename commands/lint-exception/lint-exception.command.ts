@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const lintException = {
   id: "01a061ac-d13d-7bc1-ae1e-51a3c62b00da",

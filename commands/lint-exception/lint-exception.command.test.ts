@@ -1,8 +1,8 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import type { Ruled } from "./lint-exception.command.code.ts"
 import {
   agreeing,
