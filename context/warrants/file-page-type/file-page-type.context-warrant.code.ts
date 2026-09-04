@@ -1,10 +1,6 @@
 import { listedAt } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages-system/page-file-name"
-import {
-  blobAt,
-  type Knowing,
-  type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
+import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const TYPE = "A page answers to its type, and to every type that one extends."
 

@@ -1,7 +1,7 @@
 import { valuesOfType } from "@akasha/indexes"
 import { type Carried, carryingOf, heldBeside } from "@akasha/indexes/property-carrying"
 import type { Value } from "@akasha/pages-system/page-value"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const ITSELF =
   "A file answers for the body it holds, and that body is read before the file is changed."

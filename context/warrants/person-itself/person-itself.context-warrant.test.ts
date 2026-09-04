@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
-import { unreadIn } from "../../modules/warranting/warranting.module.code.ts"
+import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import {
   pathsOf,
   personListed,

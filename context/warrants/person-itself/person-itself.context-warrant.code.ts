@@ -1,6 +1,6 @@
 import { listedAt } from "@akasha/indexes"
 import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PERSON =
   "A seat is held by the person it states, and that person is read before the seat is changed."

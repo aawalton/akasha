@@ -7,11 +7,7 @@ import {
   pageOf,
   partedIn,
 } from "@akasha/pages-system/page-file-name"
-import {
-  blobAt,
-  type Knowing,
-  type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
+import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PAGE =
   "A property's file answers to the page it stands beside, and that page states the property it holds."

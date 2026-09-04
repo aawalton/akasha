@@ -6,7 +6,7 @@ import {
   type Changing,
   type Knowing,
   type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
+} from "../../warranting/warranting.module.code.ts"
 
 const TERM = "taboo-term"
 

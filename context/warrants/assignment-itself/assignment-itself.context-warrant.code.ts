@@ -1,7 +1,7 @@
 import { listedAddressed, listedAt } from "@akasha/indexes"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const ASSIGNMENT =
   "A seat answers for the assignment it states, and that assignment is read before the seat is changed."

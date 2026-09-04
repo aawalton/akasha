@@ -4,11 +4,7 @@ import { join } from "node:path"
 import { recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
-import {
-  knowingIn,
-  unreadIn,
-  type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
+import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import {
   pageTypeListed,
   pathsOf,
