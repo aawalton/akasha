@@ -99,7 +99,6 @@ export const persona = {
     "persona/zeli",
     "relation-property/championed-domain-slug",
     "relation-property/origin",
-    "relation-property/role-slug",
     "text-property/history",
     "text-property/last-messaged-at",
     "text-property/purpose",

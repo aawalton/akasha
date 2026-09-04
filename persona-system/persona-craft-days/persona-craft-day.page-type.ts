@@ -36,12 +36,8 @@ export const personaCraftDay = {
     "number-property/green-day",
     "number-property/improvement-count",
     "number-property/new-persona-count",
-    "relation-property/persona-slug",
     "relation-property/personas-crafted-slugs",
-    "text-property/date",
-    "text-property/icon",
     "text-property/title",
-    "text-property/value-slug",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

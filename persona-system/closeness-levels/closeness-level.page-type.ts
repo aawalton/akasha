@@ -33,6 +33,7 @@ export const closenessLevel = {
     "number-property/days-to-here",
     "number-property/days-to-next",
     "number-property/level",
+    "number-property/relationship-level",
     "text-property/pose",
     "text-property/stage",
     "text-property/wardrobe",
