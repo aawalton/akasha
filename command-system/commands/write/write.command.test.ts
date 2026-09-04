@@ -106,7 +106,7 @@ test("a mechanical write drafts nothing, so it lands charged to no agent", async
   const root = repoWith()
   const said = await filing(
     ["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)],
-    { ...givenIn(root), agentId: null },
+    { ...givenIn(root), agentId: null, changeKind: MECHANICAL },
     () => ({ tty: true })
   )
   expect(said.refusals).toEqual([])

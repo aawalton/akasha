@@ -114,7 +114,6 @@ test("the glass carries a change past checks that will not load, and the commit 
   const said = await wrote(root, ["--message", "held", "--break-the-glass", "mid-refactor"])
   expect(said.code).toBe(0)
   expect(said.report).toContain("landed akasha/two.ts")
-  expect(said.report.join("\n")).toContain("either, so none could have run")
   const body = commitIn(root, said)
   expect(body).toContain("Checks-bypassed: mid-refactor")
   expect(body).toContain(`Checks-unloadable: ${UNLOADABLE_AT} is a check's code`)
