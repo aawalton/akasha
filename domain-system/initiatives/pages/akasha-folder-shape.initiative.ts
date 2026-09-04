@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape` answers 1238 refusals over 121356 files, and one answer holds 109 of them, so the list is worked lex-ordered in tranches. A narrowed run costs what a whole one does, near 17 GB for about fifteen minutes, so fixes are batched rather than measured one at a time.",
+        "`akasha audit --check folder-matches-a-shape` answers 961 refusals over 120410 files, and one answer holds what fits in 28000 bytes, so the list is worked lex-ordered in tranches. That narrowed run costs 1.5 GB and 12 seconds, and adding `--file-path` brings it to 0.6 GB and 3 seconds, so a fix is measured where it lands rather than batched. A whole audit is the run that costs 21 GB and eight minutes.",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",

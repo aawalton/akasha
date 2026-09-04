@@ -52,10 +52,18 @@ test("a seat's narrowed run is let through too", () => {
 
 test("the refusal says what a run costs rather than what a run writes", () => {
   const err = answerFor(payload("akasha audit", OWN)).err
-  expect(err).toContain("17 GB")
-  expect(err).toContain("fifteen minutes")
+  expect(err).toContain("21 GB")
+  expect(err).toContain("eight minutes")
   expect(err).toContain("what a run COSTS while it holds the machine")
   expect(err).toContain("--check")
+})
+
+test("the refusal says what narrowing costs rather than denying that narrowing helps", () => {
+  const err = answerFor(payload("akasha audit", OWN)).err
+  expect(err).toContain("--file-path")
+  expect(err).toContain("1.5 GB")
+  expect(err).toContain("0.6 GB")
+  expect(err).toContain("reads who calls rather than what the call asks for")
 })
 
 test("the refusal names what answers instead", () => {

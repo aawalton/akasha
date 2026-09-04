@@ -38,6 +38,14 @@ export const blockSubagentAudit = {
       statement: "A run narrowed to named checks is refused as a whole one is.",
     },
     {
+      invariantKind: "departure",
+      statement: "A run narrowed to named paths is refused as a whole one is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a run costs is said as a figure measured rather than as a figure supposed.",
+    },
+    {
       invariantKind: "absence",
       statement: "Every akasha command but `audit` is no business of this hook.",
     },

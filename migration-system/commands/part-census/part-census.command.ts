@@ -18,7 +18,7 @@ export const partCensus = {
     "this is the backstop for the mechanical road: a mechanical landing runs no check, and this reads the whole tree for the one fault that road lands most.",
     "the predicate is that the parts are a spanning tree: every page under `domain` but `domain/akasha` is a part of exactly one page above it.",
     "the check reads one change. this reads every page, so a fault landed before the check existed is found too.",
-    "it costs about half a second and a third of a gigabyte in one process, against `akasha audit` at fifteen minutes and seventeen gigabytes.",
+    "it costs about half a second and a third of a gigabyte in one process, against `akasha audit` at eight minutes and twenty-one gigabytes.",
     "clear a page no page names by adding the page's `<page type>/<slug>` to the `partSlugs` of the page above it.",
     "clear a page more than one page names by taking that address out of the `partSlugs` of every page naming it but one.",
     "a page named in a manifest landed before the page took its id reads as unnamed until that manifest lands again.",
