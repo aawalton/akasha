@@ -6,7 +6,6 @@ export const trackingSessionTracking = {
   slug: "tracking-session-tracking",
   title: "Session Tracking",
   navSlug: "tracking",
-  drawsSlug: "session-tracking",
   viewPlace: 0,
   layout: "table",
   viewSorts: [{ key: "start-time", descending: true }],
