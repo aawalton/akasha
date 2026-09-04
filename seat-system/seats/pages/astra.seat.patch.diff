@@ -10,3 +10,14 @@ index 8fae0ab744ce839f8c3005591edc9b1a8b5433ce..6f67f520822b2e72456beca3ba5b4aa8
  
  export type NamePlace = Domain & {
    nameFormatSlug: NameFormatSlug | null
+diff --git a/pages/number-properties/number-property.page-type.ts b/pages/number-properties/number-property.page-type.ts
+index 0eb83207fac01f18c8171500b8c7f0c1a2749fa0..cc4dc75802bb5984d75cdc4b41414dcbe6d735cc 100644
+--- a/pages/number-properties/number-property.page-type.ts
++++ b/pages/number-properties/number-property.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Max } from "../page-properties/properties/max.number-property.ts"
+ import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
++import type { Max } from "../page-types/page-properties/properties/max.number-property.ts"
+ import type { PageType } from "../page-types/page-type.page-type.ts"
+ 
+ export type NumberProperty = PageProperty & {
