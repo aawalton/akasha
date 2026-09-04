@@ -9,7 +9,10 @@ import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { askDayByDate, sessionsOfDay } from "@tools/lib/tracking/day-place"
-import { wakeDayOf, wakeDayWindow } from "@tools/lib/wake-day"
+import {
+  wakeDayOf,
+  wakeDayWindow,
+} from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 
 const READOUTS = "akasha/readout-system/readouts/pages"
