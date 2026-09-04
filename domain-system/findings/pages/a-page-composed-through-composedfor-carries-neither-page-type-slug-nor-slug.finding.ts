@@ -4,7 +4,7 @@ export const aPageComposedThroughComposedforCarriesNeitherPageTypeSlugNorSlug = 
   id: "01a06881-344f-7000-8927-0012711fb717",
   pageTypeSlug: "finding",
   slug: "a-page-composed-through-composedfor-carries-neither-page-type-slug-nor-slug",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/pages-system-service",
   claim:
     "A page written through `composedFor` carries neither `pageTypeSlug` nor `slug`, though the page page-type declares both required, so the index never files it and the next command asking for it is answered that it does not stand. No page in the checkout carries the defect today; it is latent in the writer.",
   evidence:
