@@ -58,3 +58,15 @@ index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..68f0684863f2d5920eb4ea2d9cf4ed49
  export function overEachBody(
    found: (path: string, text: string) => readonly string[]
  ): (given: Body) => readonly string[] {
+diff --git a/domains/plain-language/shape-reading/shape-reading.module.code.ts b/domains/plain-language/shape-reading/shape-reading.module.code.ts
+index 3bb87eb78a9203651dc5c0b65b6f9c7d95bce982..fa9bd873533d6300525db0ba41f2204592aa0f70 100644
+--- a/domains/plain-language/shape-reading/shape-reading.module.code.ts
++++ b/domains/plain-language/shape-reading/shape-reading.module.code.ts
+@@ -5,6 +5,7 @@ const SHAPE_TYPE = "01a05da1-60fc-76ca-8503-b43deb6d5f53"
+ 
+ export type Shape = {
+   readonly slug: string
++  readonly path: string
+   readonly definition: string
+   readonly allowed: boolean | null
+   readonly reason: string | null
