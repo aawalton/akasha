@@ -62,7 +62,7 @@ export async function stopSeat(input: StopSeatInput): Promise<SeatStopped> {
   })
   if (guard.kind === "reject") throw inputError(guard.reason)
 
-  removeSubagentPagesOf(agentId, saying.ended)
+  await removeSubagentPagesOf(agentId, saying.ended)
 
   const livePids = liveAgentPidsFromProc(scanProcEntries().entries)
   const target = decideKillTarget({
