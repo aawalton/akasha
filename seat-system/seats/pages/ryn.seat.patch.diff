@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index 8736b546d787876dc93c4fdff62367739d1e9733..48f63cc8f27477537c024ef5778842fb43fff6b4 100644
+index 8736b546d787876dc93c4fdff62367739d1e9733..d5ea281265659120d4613fddd73fe73170f54c44 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -11,6 +11,7 @@ const SLOT_FAMILIES = ["nsubj", "obj", "iobj", "obl", "conj", "appos"]
@@ -10,6 +10,17 @@ index 8736b546d787876dc93c4fdff62367739d1e9733..48f63cc8f27477537c024ef5778842fb
  const QUANTIFIER = [
    "all",
    "any",
+@@ -50,6 +51,10 @@ export function isDemonstrative(token: DepToken): boolean {
+   return DEMONSTRATIVE.includes(lower(token))
+ }
+ 
++export function isSummingCount(token: DepToken): boolean {
++  return SUMMING.includes(lower(token))
++}
++
+ export function isQuantifier(token: DepToken): boolean {
+   return QUANTIFIER.includes(lower(token))
+ }
 diff --git a/domains/sentence-shapes/closing-count/closing-count.sentence-shape.code.ts b/domains/sentence-shapes/closing-count/closing-count.sentence-shape.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f6fdc4b0ad8d9d5d5804585de715e49a5f32ffaf
