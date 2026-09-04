@@ -10,6 +10,7 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages-system": "workspace:*",
+    "@akasha/seat-system": "workspace:*",
     "@akasha/utils-run": "workspace:*"
   }
 }

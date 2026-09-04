@@ -9,6 +9,6 @@
   "dependencies": {
     "@akasha/checks": "workspace:*",
     "@akasha/pages-system": "workspace:*",
-    "@tools/lib": "workspace:*"
+    "@akasha/seat-system": "workspace:*"
   }
 }
