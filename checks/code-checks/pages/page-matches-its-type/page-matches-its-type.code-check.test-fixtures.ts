@@ -78,7 +78,7 @@ const SHAPES: readonly Value[] = [
     slug: "page-type",
     extendsSlug: ["page-type/page"],
     properties: [
-      { pagePropertySlug: "extends-slug", required: false, many: false },
+      { pagePropertySlug: "extends-slug", required: false, many: true, max: null },
       { pagePropertySlug: "page-type-slug", required: false, many: false },
       { pagePropertySlug: "properties", required: false, many: true, max: null },
     ],
@@ -375,7 +375,7 @@ function grounding(root: string): undefined {
   listedFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
   const typeAt = "akasha/page-type.page-type.ts"
   const declares =
-    '{ pagePropertySlug: "extends-slug" }, { pagePropertySlug: "page-type-slug" }' +
+    '{ pagePropertySlug: "extends-slug", many: true, max: null }, { pagePropertySlug: "page-type-slug" }' +
     ', { pagePropertySlug: "properties", many: true, max: null }'
   put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '["page-type/page"]', declares))
   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
