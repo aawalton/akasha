@@ -1,4 +1,3 @@
-
 const terminalAccounts = new Set<string>()
 
 export function markAccountTerminal(account: string): boolean {

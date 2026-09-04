@@ -12,11 +12,11 @@ import {
 } from "@akasha/seat-system/supervisor-wait-resume-answer"
 import { WAIT_MAX_MS, waitMs } from "@akasha/seat-system/supervisor-wait-resume-decide"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
+import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
-} from "@tools/lib/classify-turn-end-error-death"
-import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
+} from "../turn-end-error-death/turn-end-error-death.module.code.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 
