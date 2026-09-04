@@ -12,6 +12,8 @@ const HELD = "akasha/one/held/held.module.ts"
 
 const THERE = "akasha/two/held/held.module.ts"
 
+const RENAMED = "akasha/one/uno.workspace-package.ts"
+
 const NOWHERE = "akasha/nowhere/held/held.module.ts"
 
 const NOWHERE_FOLDER = "akasha/nowhere/held"
@@ -80,6 +82,14 @@ function parenting(root: string, from: string, to: string): ReturnType<typeof pa
   return parentingOver(root, [{ from, to }], new Map([[from, to]]), (path) => valueAt(path, root))
 }
 
+function parentingAll(
+  root: string,
+  pairs: readonly { readonly from: string; readonly to: string }[]
+): ReturnType<typeof parentingOver> {
+  const moved = new Map(pairs.map((one) => [one.from, one.to]))
+  return parentingOver(root, pairs, moved, (path) => valueAt(path, root))
+}
+
 function refusedIn(said: ReturnType<typeof parentingOver>): string {
   return "refusals" in said ? said.refusals.join("\n") : ""
 }
@@ -127,6 +137,15 @@ test("a page left under the parent it has is asked nothing of the page holding w
 test("a page carried out of a folder no page holds is refused rather than carried", () => {
   const said = parenting(world(), ORPHAN, ORPHAN_AT)
   expect(refusedIn(said)).toContain("was in a folder no page holds")
+})
+
+test("a page losing a part while it is itself carried is named where it arrives", () => {
+  const root = world()
+  const said = parentingAll(root, [
+    { from: HELD, to: THERE },
+    { from: AT, to: RENAMED },
+  ])
+  expect(partedIn(said)).toEqual([["module/held", RENAMED, "akasha/two/two.workspace-package.ts"]])
 })
 
 test("a page carried within the one folder changes no parts", () => {
