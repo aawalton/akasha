@@ -6,6 +6,7 @@ export const plants = {
   slug: "plants",
   definition: "the whole plants Alan has eaten since he rose",
   partSlugs: [
+    "module/plants-reading",
     "readout/upkeep-plants",
     "workstation-service/plants-reading-service",
     "workstation-service/plants-relay-service",
