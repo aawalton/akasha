@@ -92,14 +92,14 @@ test("a file is carried to its new path, the old path goes, and the page's id is
   expect(said.report[0]).toBe(`${HELD} moved to ${THREE}`)
   expect(told(said)).not.toContain("wrote ")
   expect(said.report.at(-1)).toStartWith("committed as ")
-  expect(told(said)).toContain("no file outside")
+  expect(told(said)).toContain("no further file spelled what moved by its path")
 })
 
-test("a file outside akasha naming a moved folder is repointed and a near name is not", () => {
+test("a file the index does not carry naming a moved folder is repointed and a near name is not", () => {
   const { root, said } = outsideMoved()
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, LOCK)).toBe(RELOCKED)
-  expect(told(said)).toContain(`outside \`akasha/\` naming what moved was repointed — ${LOCK}`)
+  expect(told(said)).toContain(`spelling what moved by its path was repointed — ${LOCK}`)
 })
 
 test("a page's sidecars go with it without being named", () => {

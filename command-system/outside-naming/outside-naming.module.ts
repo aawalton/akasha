@@ -4,7 +4,7 @@ export const outsideNaming = {
   id: "01a05f2c-6eb9-79ac-8d42-8c7a796c1ece",
   pageTypeSlug: "module",
   slug: "outside-naming",
-  definition: "a tracked file outside the akasha folder found by what it names and respelled",
+  definition: "a tracked file found by what it names and respelled",
   code: "ts",
   test: "ts",
   invariants: [
@@ -14,7 +14,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What the search covers is limited by the caller rather than here.",
+      statement: "The search covers every file the commit tracks.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A path under the akasha folder is left out of a respelling.",
+      statement: "A path the caller already respelled is left out of a respelling.",
     },
     {
       invariantKind: "departure",

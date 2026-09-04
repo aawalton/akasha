@@ -4,15 +4,13 @@ export const moveOutside = {
   id: "01a05f06-c7a5-7dd1-8ddd-a9cfa93cc222",
   pageTypeSlug: "module",
   slug: "move-outside",
-  definition:
-    "a tracked file outside the akasha folder respelled to name where a moved path arrived",
+  definition: "a tracked file respelled to name where a moved path arrived",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Which files outside `akasha/` name a path that moved is answered by `outside-naming`.",
+      statement: "Which files spell a path that moved is answered by `outside-naming`.",
     },
     {
       invariantKind: "departure",

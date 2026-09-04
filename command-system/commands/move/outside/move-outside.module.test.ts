@@ -85,16 +85,16 @@ test("a body git reads as binary is left out of the search and out of the change
   expect(told(said)).not.toContain(BINARY)
 })
 
-test("a dry run outside the akasha folder writes nothing and names what it would repoint", () => {
+test("a dry run writes nothing and names what it would repoint by its path", () => {
   const root = outsideWorld()
   const said = move([...FOLDER_PAIR, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, LOCK)).toBe(LOCKED)
-  expect(told(said)).toContain(`outside \`akasha/\` naming what moved would be repointed — ${LOCK}`)
+  expect(told(said)).toContain(`spelling what moved by its path would be repointed — ${LOCK}`)
 })
 
-test("finding nothing outside the akasha folder is said as plainly as finding something", () => {
-  expect(outsideSaid([], [], false)[0]).toBe("no file outside `akasha/` named what moved")
+test("finding no further file is said as plainly as finding something", () => {
+  expect(outsideSaid([], [], false)[0]).toBe("no further file spelled what moved by its path")
   expect(outsideSaid([LOCK], [], true)[0]).toContain(`would be repointed — ${LOCK}`)
   expect(outsideSaid([], [], false)[1]).toContain("is left alone")
 })

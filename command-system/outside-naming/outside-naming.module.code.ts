@@ -3,8 +3,6 @@ import { ran } from "@akasha/utils-run/running"
 import { textOf } from "../asking/asking.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 
-export const INSIDE = "akasha/"
-
 const SEGMENT = /[A-Za-z0-9._-]/
 
 const LEADING = /[A-Za-z0-9._@/-]/
@@ -42,7 +40,7 @@ export type Respelt = {
 
 export type Respelling = (path: string, text: string) => string
 
-export type Outside = { readonly respelt: readonly Respelt[] } | { readonly refusal: string }
+export type Respellings = { readonly respelt: readonly Respelt[] } | { readonly refusal: string }
 
 export function boundedAt(text: string, at: number, was: string): boolean {
   const before = at === 0 ? "" : text.slice(at - 1, at)
@@ -112,20 +110,12 @@ export function batchedIn(
   return batches
 }
 
-function foundBy(
-  root: string,
-  base: string,
-  how: string,
-  said: readonly string[],
-  limits: readonly string[]
-): Found {
+function foundBy(root: string, base: string, how: string, said: readonly string[]): Found {
   const paths: string[] = []
   const held = `${base}:`
   for (const batch of batchedIn(said)) {
     const asked = batch.flatMap((one) => ["-e", one])
-    const done = ran(
-      argvFor(root, ["grep", "-l", "-I", "-z", how, ...asked, base, "--", ...limits])
-    )
+    const done = ran(argvFor(root, ["grep", "-l", "-I", "-z", how, ...asked, base, "--"]))
     if (done.code === FOUND_NOTHING) continue
     if (done.code !== 0) {
       return {
@@ -141,52 +131,39 @@ function foundBy(
   return { paths: [...new Set(paths)].sort() }
 }
 
-export function namedTracked(
-  root: string,
-  base: string,
-  named: readonly string[],
-  limits: readonly string[]
-): Found {
+export function namedTracked(root: string, base: string, named: readonly string[]): Found {
   if (named.length === 0) return { paths: [] }
-  return foundBy(root, base, AS_WRITTEN, named, limits)
+  return foundBy(root, base, AS_WRITTEN, named)
 }
 
-export function reachedTracked(
-  root: string,
-  base: string,
-  parts: readonly string[],
-  limits: readonly string[]
-): Found {
+export function reachedTracked(root: string, base: string, parts: readonly string[]): Found {
   if (parts.length === 0) return { paths: [] }
   const paths: string[] = []
   for (const batch of batchedIn(parts, REACHED_AT_MOST)) {
-    const found = foundBy(root, base, AS_PATTERN, reachesFor(batch), limits)
+    const found = foundBy(root, base, AS_PATTERN, reachesFor(batch))
     if ("refusal" in found) return found
     paths.push(...found.paths)
   }
   return { paths: [...new Set(paths)].sort() }
 }
 
-export function spelledTracked(
-  root: string,
-  base: string,
-  spelled: readonly string[],
-  limits: readonly string[]
-): Found {
+export function spelledTracked(root: string, base: string, spelled: readonly string[]): Found {
   if (spelled.length === 0) return { paths: [] }
-  return foundBy(root, base, AS_PATTERN, spelled.map(endedFor), limits)
+  return foundBy(root, base, AS_PATTERN, spelled.map(endedFor))
 }
 
-export function outsideRespelt(
+export function spelledRespelt(
   root: string,
   base: string,
   named: readonly string[],
-  respelling: Respelling
-): Outside {
-  const found = namedTracked(root, base, named, [`:(exclude)${INSIDE}`])
+  respelling: Respelling,
+  already: ReadonlySet<string>
+): Respellings {
+  const found = namedTracked(root, base, named)
   if ("refusal" in found) return found
   const respelt: Respelt[] = []
   for (const path of found.paths) {
+    if (already.has(path)) continue
     const held = bodyAt(root, base, path)
     if (held === null) continue
     const was = textOf(held)

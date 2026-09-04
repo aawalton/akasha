@@ -4,11 +4,7 @@ import { counted } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"
 import { baseOf } from "../../../landing/landing.module.code.ts"
-import {
-  INSIDE,
-  outsideRespelt,
-  respeltNames,
-} from "../../../outside-naming/outside-naming.module.code.ts"
+import { respeltNames, spelledRespelt } from "../../../outside-naming/outside-naming.module.code.ts"
 import { nameIn, reachedOver } from "../../../package-linking/package-linking.module.code.ts"
 import { bodyTextOf, respelledLanded, were } from "../landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
@@ -25,8 +21,8 @@ const CODE = [".ts", ".tsx"]
 const QUOTED = /"([^"\\]*)"/g
 
 const OUTSIDE =
-  `the index carries \`${INSIDE}\` alone, so a file outside that folder naming this package is ` +
-  "found by searching what git tracks rather than by the index"
+  "a file the index does not carry is found by searching what git tracks, so a file naming this " +
+  "package is respelled whether or not the index knows it"
 
 export type Packaging = {
   readonly was: string
@@ -57,7 +53,7 @@ export function packagingFor(
     if (named === was) at = path
   }
   if (at === null) {
-    return { refused: `no manifest under \`akasha/\` calls its package \`${was}\`` }
+    return { refused: `no manifest calls its package \`${was}\`` }
   }
   return { packaging: { was, now, at, folder: at.slice(0, -(MANIFEST.length + 1)) } }
 }
@@ -94,9 +90,18 @@ export function packageRespelt(text: string, was: string, now: string): string {
   return respeltNames(text, new Map([[was, now]]))
 }
 
-export function outsidePackage(root: string, base: string, one: Packaging): Outside {
-  const found = outsideRespelt(root, base, [one.was], (_path, text) =>
-    packageRespelt(text, one.was, one.now)
+export function outsidePackage(
+  root: string,
+  base: string,
+  one: Packaging,
+  already: ReadonlySet<string>
+): Outside {
+  const found = spelledRespelt(
+    root,
+    base,
+    [one.was],
+    (_path, text) => packageRespelt(text, one.was, one.now),
+    already
   )
   if ("refusal" in found) return found
   return { said: new Map(found.respelt.map((held) => [held.path, held.text])) }
@@ -133,8 +138,8 @@ export function packageSaying(
       `${were(paths.length, dry)} respelled`,
     ...(dry ? paths.map((path) => `  ${path}`) : []),
     outside.length === 0
-      ? `no file outside \`${INSIDE}\` named the package`
-      : `${counted(outside.length, "file")} outside \`${INSIDE}\` naming the package ` +
+      ? "no further file named the package"
+      : `${counted(outside.length, "file")} naming the package the index does not carry ` +
         `${were(outside.length, dry)} respelled`,
     ...(dry ? outside.map((path) => `  ${path}`) : []),
     OUTSIDE,
@@ -163,7 +168,7 @@ export function packageLanded(
   const asked = packagingFor(manifests, from, to)
   if ("refused" in asked) return answering([], [asked.refused], 1)
   const inside = renamingOver(asked.packaging, paths, bodyText)
-  const outside = outsidePackage(root, base, asked.packaging)
+  const outside = outsidePackage(root, base, asked.packaging, new Set(inside.keys()))
   if ("refusal" in outside) return answering([], [outside.refusal], 1)
   const said = new Map([...inside, ...outside.said])
   const named = [...outside.said.keys()].sort()

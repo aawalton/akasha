@@ -168,16 +168,16 @@ test("the folder a lockfile files a workspace under is left alone", () => {
   )
 })
 
-test("an answer says how many files outside the akasha folder were respelled", () => {
+test("an answer says how many files the index does not carry were respelled", () => {
   const said = packageSaying(PACKAGING, new Map(), ["tools/lib/held.ts"], true)
   expect(said.join("\n")).toContain(
-    "1 file outside `akasha/` naming the package would be respelled"
+    "1 file naming the package the index does not carry would be respelled"
   )
 })
 
-test("an answer naming no file outside the akasha folder says so", () => {
+test("an answer naming no further file says so", () => {
   const said = packageSaying(PACKAGING, new Map(), [], false)
-  expect(said).toContain("no file outside `akasha/` named the package")
+  expect(said).toContain("no further file named the package")
 })
 
 test("an answer says the files outside the akasha folder were looked for", () => {

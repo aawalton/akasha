@@ -3,9 +3,8 @@ import { counted } from "../../../asking/asking.module.code.ts"
 import type { FileEdit } from "../../../landing/landing.module.code.ts"
 import type { Placed } from "../../../outside-naming/outside-naming.module.code.ts"
 import {
-  INSIDE,
   namesIn,
-  outsideRespelt,
+  spelledRespelt,
   splicedOver,
 } from "../../../outside-naming/outside-naming.module.code.ts"
 import type { Carry } from "../../../reading/reading.module.code.ts"
@@ -18,9 +17,9 @@ const CLIMBS = ".."
 const UNDER = "/"
 
 export const OUTSIDE_SPELLING =
-  `a path that moved is looked for outside \`${INSIDE}\` as the path itself and as a relative ` +
-  "reach resolved against the folder of the file carrying that reach, so a body naming what moved " +
-  "by any other spelling is left alone"
+  "a path that moved is looked for as the path itself and as a relative reach resolved against " +
+  "the folder of the file carrying that reach, so a body naming what moved by any other spelling " +
+  "is left alone"
 
 export type Outside = {
   readonly paths: readonly string[]
@@ -85,10 +84,15 @@ export function repointedText(
 export function outsideIn(
   root: string,
   base: string,
-  moved: ReadonlyMap<string, string>
+  moved: ReadonlyMap<string, string>,
+  already: ReadonlySet<string>
 ): Outside | { readonly refusal: string } {
-  const found = outsideRespelt(root, base, [...moved.keys()], (path, text) =>
-    repointedText(path, text, moved)
+  const found = spelledRespelt(
+    root,
+    base,
+    [...moved.keys()],
+    (path, text) => repointedText(path, text, moved),
+    already
   )
   if ("refusal" in found) return found
   const paths: string[] = []
@@ -110,10 +114,10 @@ export function outsideSaid(
   dry: boolean
 ): readonly string[] {
   if (paths.length === 0) {
-    return [`no file outside \`${INSIDE}\` named what moved`, OUTSIDE_SPELLING]
+    return ["no further file spelled what moved by its path", OUTSIDE_SPELLING]
   }
   const said = [
-    `${counted(paths.length, "file")} outside \`${INSIDE}\` naming what moved ` +
+    `${counted(paths.length, "file")} spelling what moved by its path ` +
       `${dry ? "would be" : "was"} repointed — ${paths.join(", ")}`,
   ]
   if (reaching.length > 0) {

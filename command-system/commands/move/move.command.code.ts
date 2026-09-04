@@ -307,7 +307,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   }
   const left = unrepointedIn(renamings, moved, () => everyPath(root), changes, bodyText)
   const named = new Map([...spread.folders.map((one) => [one.from, one.to] as const), ...moved])
-  const outside = outsideIn(root, base, named)
+  const outside = outsideIn(root, base, named, new Set(changes.map((one) => one.path)))
   if ("refusal" in outside) return answering([], [outside.refusal], 1)
   changes.push(...outside.changes)
   carries.push(...outside.carries)

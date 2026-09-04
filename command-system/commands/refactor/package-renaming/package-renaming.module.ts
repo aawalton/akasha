@@ -14,7 +14,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name no manifest under the akasha folder carries is refused.",
+      statement: "A name no manifest carries is refused.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The manifests read are the ones the index names under the akasha folder.",
+      statement: "The manifests read are the ones the index names.",
     },
     {
       invariantKind: "departure",
@@ -70,18 +70,20 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which files outside the akasha folder name the package is answered by `outside-naming`.",
+      statement: "Which files name the package is answered by `outside-naming`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tracked file naming the package is respelled in the same commit.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A tracked file outside the akasha folder naming the package is respelled in the same commit.",
+        "A file the index does not carry is respelled at the name itself rather than through the parser.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A file outside the akasha folder is respelled at the name itself rather than through the parser.",
+      invariantKind: "absence",
+      statement: "A file the index already respelled is not respelled a second time.",
     },
     {
       invariantKind: "departure",
@@ -93,11 +95,11 @@ export const packageRenaming = {
     },
     {
       invariantKind: "absence",
-      statement: "A longer package name this one only opens is left alone outside as inside.",
+      statement: "A longer package name this one only opens is left alone wherever it stands.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer says how many files outside the akasha folder were respelled.",
+      statement: "An answer says how many files the index does not carry were respelled.",
     },
     {
       invariantKind: "departure",
