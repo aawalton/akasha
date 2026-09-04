@@ -7,7 +7,7 @@ export const identifierNamesOnePage = {
   definition: "the check refusing a page carrying an identifier another page already carries",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
