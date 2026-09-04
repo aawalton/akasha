@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { bindsFor, LOOPBACK, portFor, serversFor } from "./page-listening.module.code.ts"
 
-const ROOT = join(import.meta.dir, "..", "..", "..", "..")
+const ROOT = join(import.meta.dir, "..", "..", "..")
 
 function onlyOne() {
   const bound = serversFor({ root: ROOT, port: 0, binds: [LOOPBACK] })
