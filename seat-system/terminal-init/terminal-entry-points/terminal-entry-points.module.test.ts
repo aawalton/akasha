@@ -40,6 +40,6 @@ describe("the commands a terminal reaches", () => {
   })
 
   test("name the old ops entry point while its acts are still carried there", () => {
-    expect(OPS).toBe("~/repos/akasha/akasha/command-system/ops-calling/ops-calling.module.code.ts")
+    expect(OPS).toBe("~/repos/akasha/command-system/ops-calling/ops-calling.module.code.ts")
   })
 })
