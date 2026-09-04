@@ -1,5 +1,5 @@
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { z } from "zod"
-import { getEsoDayStr } from "../eso-day.ts"
 import { inputError } from "../exit.ts"
 import { requireMatchPositional } from "../narrow.ts"
 import { mtWallToInstant } from "./mountain-times.ts"

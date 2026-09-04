@@ -3,7 +3,7 @@ export const summary =
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
-import { getEsoDayStr } from "../../lib/eso-day.ts"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { inputError } from "../../lib/exit.ts"
 import { strengthPoints } from "../../lib/tracking-pillars.ts"
 

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { getEsoDayStr } from "../eso-day.ts"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { EXIT, exitCodeOf } from "../exit.ts"
 import { mtWallHm } from "./mountain-times.ts"
 import { esoDayOf, parseDayFlag, parseInstantFlag } from "./session-time.ts"

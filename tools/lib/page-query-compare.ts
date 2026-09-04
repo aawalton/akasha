@@ -1,11 +1,12 @@
+import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 import { pageQueryTimeIn } from "@akasha/pages-core/view/page-query-times"
-import { getEsoDayStr, getEsoDayWindow } from "./eso-day.ts"
 import { dayAfter, WAKE_DAY, type Woke } from "./wake-day.ts"
 
 export function compare(left: string, right: string): number {
   const a = Number(left)
   const b = Number(right)
-  const numeric = left.trim() !== "" && right.trim() !== "" && Number.isFinite(a) && Number.isFinite(b)
+  const numeric =
+    left.trim() !== "" && right.trim() !== "" && Number.isFinite(a) && Number.isFinite(b)
   if (numeric) return a === b ? 0 : a < b ? -1 : 1
   return left < right ? -1 : left > right ? 1 : 0
 }

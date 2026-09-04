@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "../eso-day.ts"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { INBOX_KEYS, type InboxKey } from "./keys.ts"
 import { type PersistOutcome, persistInboxCounts } from "./persist.ts"
 import { type PollLogger, pollInboxCounts } from "./poll.ts"
