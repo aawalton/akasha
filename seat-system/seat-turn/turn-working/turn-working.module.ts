@@ -4,25 +4,50 @@ export const turnWorking = {
   id: "01a0687b-3c85-7000-b60f-9d7b8c037697",
   pageTypeSlug: "module",
   slug: "turn-working",
-  definition: "whether a seat is part way through a turn or having its context compacted",
+  definition: "whether a seat is part way through a turn, read from the last answer it wrote",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat is working where any one of its working components is on.",
+      statement: "A seat is working where its last answer did not end the turn.",
     },
     {
       invariantKind: "departure",
-      statement: "Unread is not off, and the two are told apart.",
+      statement: "Unread is not off.",
     },
     {
       invariantKind: "departure",
-      statement: "A component akasha declares no property for is unread rather than off.",
+      statement: "An unread seat and a seat that is not working are told apart.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An answer is looked for in the tail of a transcript rather than in the whole transcript.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tail widens until an answer is found or the whole transcript has been read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line the tail's edge severed is dropped rather than read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript no longer than when it was last read is not read again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The byte a transcript was read to is kept beside the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading kept in an unknown shape is unread.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads or writes a seat's page.",
+      statement: "No hook is asked what a seat is doing.",
     },
   ],
 } as const satisfies Module
