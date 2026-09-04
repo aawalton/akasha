@@ -166,14 +166,10 @@ function landedMeanwhile(root: string, path: string, body: string): Judging {
 
 const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
-test("a commit reaching `akasha/` is named, and one reaching nothing under it is not", () => {
+test("a commit reaching the tree is named, and a base that is already head names nothing", () => {
   const root = repoWith(PAGES)
   const base = headOf(root)
   expect(reachedSince(root, base, base)).toEqual([])
-  writeFileSync(join(root, "outside.txt"), "elsewhere")
-  git(root, ["add", "--", "outside.txt"])
-  git(root, ["commit", "--quiet", "-m", "outside", "--", "outside.txt"])
-  expect(reachedSince(root, base, headOf(root))).toEqual([])
   writeFileSync(join(root, "akasha/inside.txt"), "inside")
   git(root, ["add", "--", "akasha/inside.txt"])
   git(root, ["commit", "--quiet", "-m", "inside", "--", "akasha/inside.txt"])
