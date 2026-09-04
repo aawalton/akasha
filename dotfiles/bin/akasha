@@ -2,17 +2,27 @@
 #
 # The `akasha` name on PATH, resolving into the repository the dispatcher stands in.
 #
-# The dispatcher stands at `akasha/command-system/cli/cli.module.code.ts`, inside the akasha folder
+# The dispatcher stands at `command-system/cli/cli.module.code.ts`, inside the akasha folder
 # itself, so a change to what `akasha` says or refuses is live on the commit that makes it, with
 # no build and no deploy in between. This file is the only part of the name that lives outside
 # that folder, and it does nothing but name it: an akasha file imports nothing from out here.
+#
+# The akasha folder is becoming the repository root, so the dispatcher stands one directory
+# higher after that move than before it. Both places are named below and the first that holds the
+# file wins, so this name keeps working across the move rather than dying in the middle of it.
 
 set -euo pipefail
 
-dispatcher="${AKASHA_ROOT:-$HOME/repos/akasha}/akasha/command-system/cli/cli.module.code.ts"
+root="${AKASHA_ROOT:-$HOME/repos/akasha}"
+within="$root/akasha/command-system/cli/cli.module.code.ts"
+reparented="$root/command-system/cli/cli.module.code.ts"
 
-if [[ ! -f $dispatcher ]]; then
-  echo "akasha: no dispatcher at $dispatcher — set AKASHA_ROOT to an akasha checkout" >&2
+if [[ -f $within ]]; then
+  dispatcher="$within"
+elif [[ -f $reparented ]]; then
+  dispatcher="$reparented"
+else
+  echo "akasha: no dispatcher at $within or $reparented — set AKASHA_ROOT to an akasha checkout" >&2
   exit 70
 fi
 
