@@ -398,11 +398,6 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
     ])
   }
-  if (asked.dryRun && asked.draft === true) {
-    return mistaking([
-      `${DRAFT} keeps what a change would leave and ${DRY_RUN} keeps nothing, so together they keep nothing`,
-    ])
-  }
   let minted: Minted
   try {
     minted = mintingOnto(given.root, asked.changes)

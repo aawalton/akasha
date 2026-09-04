@@ -47,11 +47,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft and a dry run name two answers.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A caller naming a draft and a dry run together is refused.",
+      statement: "A command that drafts takes no dry run flag.",
     },
     {
       invariantKind: "departure",
