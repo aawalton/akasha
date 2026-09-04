@@ -57,3 +57,30 @@ index 1d453ed76679f801f8f2eb715ce690349b2ab2e7..f7b1167a0d46643ffaaa93d7bfb416e5
    if (loose.length === 0) return null
    const named = loose.slice(0, SHOWN).join(", ")
    const more = loose.length > SHOWN ? `, and ${loose.length - SHOWN} more` : ""
+diff --git a/pages/indexes/index-stamp/index-stamp.module.test.ts b/pages/indexes/index-stamp/index-stamp.module.test.ts
+index ba69c3244f51dfdce111275ddc53232a1734afb9..226db71d79ee8353e501ce35abfe4bb342f93d5f 100644
+--- a/pages/indexes/index-stamp/index-stamp.module.test.ts
++++ b/pages/indexes/index-stamp/index-stamp.module.test.ts
+@@ -76,6 +76,22 @@ test("a commit made by hand the index was never settled over is stale", () => {
+   expect(staleFor(repo, indexAt(repo))).toMatch(/akasha\/b\.ts/)
+ })
+ 
++test("a commit of a path the caller says does not matter is fresh, and one that does is stale", () => {
++  const repo = repoAt()
++  const head = committed(repo, `${TREE}/a.ts`, "export const a = 1\n")
++  stampKept(indexAt(repo), { commit: head, tree: TREE, settled: [] })
++  committed(repo, `${TREE}/one.seat.patch.diff`, "a draft no import reaches\n")
++
++  const code = (path: string): boolean => path.endsWith(".ts") || path.endsWith(".tsx")
++
++  expect(staleFor(repo, indexAt(repo))).toMatch(/one\.seat\.patch\.diff/)
++  expect(staleFor(repo, indexAt(repo), code)).toBe(null)
++
++  committed(repo, `${TREE}/b.ts`, "export const b = 2\n")
++
++  expect(staleFor(repo, indexAt(repo), code)).toMatch(/akasha\/b\.ts/)
++})
++
+ test("a commit of a path the settle named is fresh", () => {
+   const repo = repoAt()
+   const head = committed(repo, `${TREE}/a.ts`, "export const a = 1\n")
