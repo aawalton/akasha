@@ -57,10 +57,10 @@ function titlesIn(root: string): readonly string[] {
     .map((one) => (JSON.parse(one) as { title: string }).title)
 }
 
-test("a stretch logged lands the day's rows under no agent id and no reading", () => {
+test("a stretch logged lands the day's rows under no agent id and no reading", async () => {
   const root = dayRepo()
   const was = baseOf(root)
-  const said = track(
+  const said = await track(
     ["session", "log", "--day", DAY, "--title", "Held", "--start", "15:00", "--end", "16:00"],
     servingIn(root)
   )
@@ -71,10 +71,10 @@ test("a stretch logged lands the day's rows under no agent id and no reading", (
   expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe(`Log Held on ${DAY}`)
 })
 
-test("a stretch dropped lands the day's rows under no agent id and no reading", () => {
+test("a stretch dropped lands the day's rows under no agent id and no reading", async () => {
   const root = dayRepo()
   const was = baseOf(root)
-  const said = track(["session", "drop", "--day", DAY, "--id", SLEPT], servingIn(root))
+  const said = await track(["session", "drop", "--day", DAY, "--id", SLEPT], servingIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, ROWS_AT), "utf8")).toBe("\n")

@@ -98,10 +98,10 @@ test("a stray path is refused before anything is composed", () => {
   expect(said.refusals).toEqual([outsideTracked("akasha/alan/alan.person.ts")])
 })
 
-test("a day and the rows beside it land in one commit under no agent id and no reading", () => {
+test("a day and the rows beside it land in one commit under no agent id and no reading", async () => {
   const root = repoWith({ [AT]: BEFORE })
   const was = baseOf(root)
-  const said = tracking(
+  const said = await tracking(
     [
       "--file-path",
       AT,
@@ -124,10 +124,10 @@ test("a day and the rows beside it land in one commit under no agent id and no r
   expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held")
 })
 
-test("a food entry lands under no agent id and no reading", () => {
+test("a food entry lands under no agent id and no reading", async () => {
   const root = repoWith({ [AT]: BEFORE })
   const was = baseOf(root)
-  const said = tracking(
+  const said = await tracking(
     [
       "--file-path",
       FOOD_AT,
