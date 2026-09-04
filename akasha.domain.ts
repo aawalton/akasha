@@ -48,7 +48,7 @@ export const akasha = {
     "workspace-package/file-page-identity",
     "workspace-package/checkout-version",
     "domain/temper",
-    "domain/story-engine",
+    "domain/story",
     "domain/browser",
     "domain/google",
     "domain/collection-system",

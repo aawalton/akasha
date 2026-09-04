@@ -1,44 +1,41 @@
 import type { Domain } from "../domain-system/domains/domain.page-type.ts"
 
-export const storyEngine = {
-  id: "01a06280-e122-7ba3-844e-c8a0f133106d",
+export const story = {
+  id: "01a06d72-54b4-7352-b7db-4c705f35a431",
   pageTypeSlug: "domain",
-  slug: "story-engine",
+  slug: "story",
   definition: "worlds and their stories, kept true to each other",
   partSlugs: [
+    "domain/story-engine",
+    "domain/narrative-story-turn-promotion",
+    "domain/tower",
+    "domain/ui",
+    "domain/wandering-inn",
+    "domain/world-mechanics",
+    "workspace-package/story-engine-core",
+    "page-type/game",
+    "page-type/gm-doctrine-pack",
+    "page-type/named-event",
+    "page-type/story-build",
     "page-type/story-chapter-played",
     "page-type/story-chapter-read",
     "page-type/story-chapter-written",
+    "page-type/story-decision",
+    "page-type/story-design",
+    "page-type/story-design-note",
     "page-type/story-element-played",
     "page-type/story-played",
     "page-type/story-read",
     "page-type/story-turn-played",
+    "page-type/story-wiki-entry",
     "page-type/story-written",
     "page-type/world",
     "page-type/world-character",
-    "page-type/story-design",
-    "page-type/story-design-note",
-    "page-type/story-wiki-entry",
-    "page-type/story-build",
-    "page-type/story-decision",
-    "page-type/named-event",
-    "page-type/gm-doctrine-pack",
-    "page-type/game",
-    "domain/world-mechanics",
-    "workspace-package/story-engine-core",
-    "domain/ui",
-    "domain/tower",
-    "domain/wandering-inn",
-    "domain/narrative-story-turn-promotion",
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "How a story is meant to read is kept apart from what the story says.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No deployed code names one story or one world.",
     },
     {
       invariantKind: "departure",
@@ -69,10 +66,6 @@ export const storyEngine = {
     {
       invariantKind: "departure",
       statement: "A sketch a story has told becomes lore.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Every word a game master is served changes without a deploy.",
     },
   ],
 } as const satisfies Domain
