@@ -1183,7 +1183,7 @@
     "pages/indexes": {
       "name": "@akasha/indexes",
     },
-    "pages/pages-access": {
+    "pages/access": {
       "name": "@akasha/pages-access",
       "dependencies": {
         "@akasha/file-page-identity": "workspace:*",
@@ -3117,7 +3117,7 @@
 
     "@akasha/page-commands": ["@akasha/page-commands@workspace:pages/commands"],
 
-    "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/pages-access"],
+    "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/access"],
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:pages/pages-core"],
 

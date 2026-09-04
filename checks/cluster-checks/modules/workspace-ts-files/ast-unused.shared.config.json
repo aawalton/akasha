@@ -16,7 +16,7 @@
         "**/*.ts"
       ]
     },
-    "pages/pages-access": {
+    "pages/access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
