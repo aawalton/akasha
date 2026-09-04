@@ -1,4 +1,7 @@
-import { everyRecipient, messagesTo } from "@tools/lib/message-file"
+import {
+  everyRecipient,
+  messagesTo,
+} from "../../messaging/message-file/message-file.module.code.ts"
 import { readOwed } from "../../owed-reading/owed-reading.module.code.ts"
 import { principalSeatIdOf } from "../../seat-principal/seat-principal.module.code.ts"
 import { seatsPresent } from "../../seat-roster/seat-roster.module.code.ts"

@@ -1,5 +1,9 @@
 import { basename } from "node:path"
-import { claimMessage, releaseClaim, takeMessage } from "@tools/lib/message-file"
+import {
+  claimMessage,
+  releaseClaim,
+  takeMessage,
+} from "../messaging/message-file/message-file.module.code.ts"
 import { watchMessagesTo } from "../messaging/message-file-watch/message-file-watch.module.code.ts"
 import { startDeliveryWitness } from "../messaging/messages-delivery-witness/messages-delivery-witness.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"

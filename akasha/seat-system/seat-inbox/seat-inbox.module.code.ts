@@ -4,7 +4,11 @@ import { dataError, inputError } from "@akasha/errors-core/exit-code"
 import { seatNameForAgent } from "@akasha/seat-system/messages-agent-tools"
 import { seatRecord } from "@akasha/seat-system/seat-facts"
 import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
-import { type Message, messagesTo, takeMessage } from "@tools/lib/message-file"
+import {
+  type Message,
+  messagesTo,
+  takeMessage,
+} from "../messaging/message-file/message-file.module.code.ts"
 
 const BODY_CAP = 2000
 

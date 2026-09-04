@@ -1,4 +1,4 @@
-import { writeMessage } from "@tools/lib/message-file"
+import { writeMessage } from "../messaging/message-file/message-file.module.code.ts"
 import { akashaSeatIdForName } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const DEFAULT_SENDER = "service"

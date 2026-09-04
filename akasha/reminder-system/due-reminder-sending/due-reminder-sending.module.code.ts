@@ -7,7 +7,7 @@ import {
   type Standing,
   tookReminder,
 } from "@akasha/reminder-system/reminder-sending"
-import { writeMessage } from "@tools/lib/message-file"
+import { writeMessage } from "@akasha/seat-system/message-file"
 
 function sendOne(one: Standing): string | null {
   const written = writeMessage({ to: one.to, from: one.from, warrant: "announce", body: one.text })

@@ -5,7 +5,7 @@ import {
   messageDirRelPath,
   recipientRefused,
   unclaimedTo,
-} from "@tools/lib/message-file"
+} from "../message-file/message-file.module.code.ts"
 
 const BACKSTOP_MS = 5_000
 

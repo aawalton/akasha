@@ -1,7 +1,7 @@
 import type { AuditReading } from "@akasha/checks/audit-reading"
 import { BLIND_SPOTS, gatherRulePopulations } from "@akasha/checks/rule-population-audit"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { writeMessage } from "@tools/lib/message-file"
+import { writeMessage } from "@akasha/seat-system/message-file"
 import {
   buildRulePopulationNotification,
   type EmptyRuleLine,

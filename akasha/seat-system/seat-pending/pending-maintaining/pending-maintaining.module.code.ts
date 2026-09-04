@@ -1,7 +1,7 @@
 import { watch } from "node:fs"
 import { join } from "node:path"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { messagesDirRelPath } from "@tools/lib/message-file"
+import { messagesDirRelPath } from "../../messaging/message-file/message-file.module.code.ts"
 import { akashaSeatsDirIn } from "../../seat-page-akasha/seat-page-akasha.module.code.ts"
 import { setPending } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
 import {
