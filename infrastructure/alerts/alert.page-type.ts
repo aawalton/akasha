@@ -47,7 +47,7 @@ export const alert = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An alert says what is wrong rather than what raised it.",
+      statement: "An alert says what is wrong rather than what raised the alert.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,8 @@ export const alert = {
     },
     {
       invariantKind: "departure",
-      statement: "An alert names the area answering for it or the person answering for it.",
+      statement:
+        "An alert names the area answering for the alert or the person answering for the alert.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +91,7 @@ export const alert = {
     },
     {
       invariantKind: "upkeep",
-      statement: "Every alert that fires is either acted on or repaired.",
+      statement: "An alert that fires is acted on or repaired.",
     },
     {
       invariantKind: "gap",
@@ -115,19 +116,6 @@ export const alert = {
     {
       invariantKind: "gap",
       statement: "An alert is matched from the event stream by the condition the alert names.",
-    },
-  ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Direct To Alan",
-      act: "Push to Alan's phone only where every seat that would escalate is downstream of the failure.",
-      warrant:
-        "He stops reading a phone that fires for what a seat could handle, so the real alert lands unread.",
-      aids: [
-        "Never push because the failure looks severe.",
-        "Never route to a seat the failure takes down.",
-      ],
     },
   ],
 } as const satisfies PageType
