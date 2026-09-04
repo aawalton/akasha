@@ -8,7 +8,7 @@ import { scratchWorld } from "../../command-system/scratching/scratching.module.
 import { iosApp, readIn } from "./ios-app.command.code.ts"
 import { iosApp as page } from "./ios-app.command.ts"
 
-const root = join(import.meta.dir, "..", "..", "..")
+const root = join(import.meta.dir, "..", "..")
 
 const QUIET_ID = "01a05fd2-4c1e-7a3e-9b70-2c6a5d81f4e2"
 

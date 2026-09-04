@@ -14,7 +14,7 @@ import {
   saidOf,
 } from "./compose-notices.command.code.ts"
 
-const ROOT = resolve(import.meta.dir, "../../..")
+const ROOT = resolve(import.meta.dir, "../..")
 
 function givenIn(root: string): Given {
   return { root, calledAs: "akasha compose-notices", from: root, writer: null, agentId: null }
