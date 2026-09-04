@@ -135,12 +135,12 @@ test("the artist page and a song page are composed from the works", async () => 
   expect(found.said.songsLyricsUnread).toBe(0)
   expect(found.said.artistSlug).toBe(ARTIST_SLUG)
 
-  const artistAt = `akasha/alan/music/catalog/artists/pages/${ARTIST_SLUG}/${ARTIST_SLUG}.artist.ts`
-  const firstAt = `akasha/alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.ts`
+  const artistAt = `alan/music/catalog/artists/pages/${ARTIST_SLUG}/${ARTIST_SLUG}.artist.ts`
+  const firstAt = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.ts`
   expect(pathsOf(found)).toContain(artistAt)
   expect(pathsOf(found)).toContain(firstAt)
   expect(pathsOf(found)).toContain(
-    `akasha/alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.lyrics.txt`
+    `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.lyrics.txt`
   )
 
   const artistBody = bodyAt(found, artistAt)
@@ -170,7 +170,7 @@ test("an artist filed under no work is read from their recordings", async () => 
   )
   expect(found.said.derivedFrom).toBe("recordings")
   expect(found.said.songsWritten).toBe(2)
-  const liveAt = `akasha/alan/music/catalog/songs/pages/${ARTIST_SLUG}-bare-probe-live/${ARTIST_SLUG}-bare-probe-live.song.ts`
+  const liveAt = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-bare-probe-live/${ARTIST_SLUG}-bare-probe-live.song.ts`
   expect(bodyAt(found, liveAt)).toContain(`songType: "derivative"`)
 })
 
