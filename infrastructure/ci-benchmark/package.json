@@ -27,7 +27,6 @@
     "./toolchain-manifest": "./toolchain-manifest/toolchain-manifest.module.code.ts"
   },
   "dependencies": {
-    "@akasha/ci-containers": "workspace:*",
     "yaml": "^2.8.1",
     "@akasha/git": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
