@@ -71,6 +71,7 @@ export const codeCheck = {
     "code-check/invariant-statement-is-plain",
     "code-check/tests-pass",
     "code-check/typecheck",
+    "code-check/typescript-7",
   ],
   extendsSlug: "page-type/module",
   loadedBySlug: "module/checking",
