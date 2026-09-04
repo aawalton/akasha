@@ -1,8 +1,8 @@
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { TargetBuildId } from "../temper-character-things/properties/target-build-id.text-property.ts"
 import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { FirstName } from "./properties/first-name.text-property.ts"
 import type { LiveBuildId } from "./properties/live-build-id.text-property.ts"
-import type { TargetBuildId } from "./properties/target-build-id.text-property.ts"
 
 export type TemperAccountCharacter = TemperCharacterThing & {
   firstName?: FirstName
@@ -17,11 +17,7 @@ export const temperAccountCharacter = {
   definition: "one character on an account",
   pluralSlug: "temper-account-characters",
   extendsSlug: "page-type/temper-character-thing",
-  partSlugs: [
-    "text-property/first-name",
-    "text-property/live-build-id",
-    "text-property/target-build-id",
-  ],
+  partSlugs: ["text-property/first-name", "text-property/live-build-id"],
   properties: [
     { pagePropertySlug: "eso-character-id", required: true, many: false },
     { pagePropertySlug: "account-page", required: true, many: false },

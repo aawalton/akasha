@@ -13,7 +13,7 @@ export const temperCharacterThing = {
   definition: "anything about one player and the characters that player owns",
   pluralSlug: "temper-character-things",
   extendsSlug: "page-type/temper-thing",
-  partSlugs: ["file-property/completion"],
+  partSlugs: ["file-property/completion", "text-property/target-build-id"],
   properties: [{ pagePropertySlug: "completion", required: false, many: false }],
   invariants: [
     {
