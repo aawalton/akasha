@@ -1,5 +1,5 @@
 import { getPages } from "@akasha/pages-access/get"
-import { collectPages } from "@akasha/pages-access/iterate"
+import { readFiles, readPages } from "@akasha/pages-query"
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import { computeItemStock } from "@akasha/temper-items-core/compute-item-stock"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
@@ -12,14 +12,23 @@ import {
   compileConsumableStock as consumableStockOf,
   compileWantedConsumables as wantedConsumablesOf,
 } from "@akasha/temper-items-rules-matcher/rule-matcher-context-knowledge"
-import { inventorySnapshotName } from "../watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
+import type {
+  ReadFiles,
+  ReadPages,
+} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+import {
+  besidePathsFor,
+  contentIn,
+} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 import { readCharactersWithTargetBuilds } from "../watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
-const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
-const CHUNK_PAGE_SIZE = 1000
 
-const SNAPSHOT_KEYS = ["id", "chunkCount"]
+export const DATA_PROPERTY = "data"
+
+export const DATA_ENDING = "json"
+
+const SNAPSHOT_KEYS = ["id", "slug"]
 
 export interface TargetBuildCharacter {
   esoCharacterId: string
@@ -34,7 +43,30 @@ export type InventoryRow = Record<string, unknown>
 
 export interface InventoryRowReader {
   latestSnapshot: (userId: string) => Promise<InventoryRow | undefined>
-  chunksOf: (snapshotName: string) => Promise<readonly InventoryRow[]>
+  dataOf: (slug: string) => Promise<string | null>
+}
+
+export async function snapshotDataOf(
+  slug: string,
+  pages: ReadPages = readPages,
+  files: ReadFiles = readFiles
+): Promise<string | null> {
+  const beside = await besidePathsFor(
+    pages,
+    INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
+    [slug],
+    DATA_PROPERTY,
+    DATA_ENDING
+  )
+  const path = beside.get(slug)
+  if (path === undefined) return null
+  const found = await files([path])
+  if (!found.ok) {
+    throw new Error(
+      `the data file beside ${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${slug} went unread: ${found.why}`
+    )
+  }
+  return contentIn(found.bodies, path)
 }
 
 const PAGE_INVENTORY_ROWS: InventoryRowReader = {
@@ -48,14 +80,7 @@ const PAGE_INVENTORY_ROWS: InventoryRowReader = {
     })
     return rows[0]
   },
-  chunksOf: async (snapshotName) =>
-    collectPages({
-      pageTypeSlug: INVENTORY_CHUNK_PAGE_TYPE_SLUG,
-      where: [{ key: "inventory", eq: snapshotName }],
-      order: [{ by: "chunkIndex", dir: "asc" }],
-      select: ["id", "chunkIndex", "inventory", "data"],
-      pageSize: CHUNK_PAGE_SIZE,
-    }),
+  dataOf: (slug) => snapshotDataOf(slug),
 }
 
 export async function compileCharacterPriority(
@@ -105,19 +130,8 @@ export async function compileWantedConsumables(
 export type InventoryReadFailure =
   | { readonly kind: "no-snapshot" }
   | { readonly kind: "snapshot-has-no-id" }
-  | { readonly kind: "snapshot-has-no-timestamp"; readonly snapshotId: string }
-  | { readonly kind: "no-chunks"; readonly snapshotId: string }
-  | {
-      readonly kind: "chunk-count-mismatch"
-      readonly snapshotId: string
-      readonly declared: number
-      readonly found: number
-    }
-  | {
-      readonly kind: "chunk-not-text"
-      readonly snapshotId: string
-      readonly chunkIndexes: readonly number[]
-    }
+  | { readonly kind: "snapshot-has-no-slug"; readonly snapshotId: string }
+  | { readonly kind: "no-data"; readonly snapshotId: string; readonly slug: string }
   | {
       readonly kind: "json-parse-failed"
       readonly snapshotId: string
@@ -136,25 +150,16 @@ const FAILURE_DESCRIPTIONS: {
 } = {
   "no-snapshot": () => "no inventory snapshot exists for this user yet",
   "snapshot-has-no-id": () => "the latest inventory snapshot row carries no id",
-  "snapshot-has-no-timestamp": (failure) =>
-    `inventory snapshot ${failure.snapshotId} states no data-timestamp, so its chunks cannot be named`,
-  "no-chunks": (failure) => `inventory snapshot ${failure.snapshotId} has no chunk rows`,
-  "chunk-count-mismatch": (failure) =>
-    `inventory snapshot ${failure.snapshotId} declares ${failure.declared} chunk(s) but ${failure.found} are readable — the snapshot is mid-write or was truncated`,
-  "chunk-not-text": (failure) =>
-    `inventory snapshot ${failure.snapshotId} has non-text data in chunk(s) ${failure.chunkIndexes.join(", ")}`,
+  "snapshot-has-no-slug": (failure) =>
+    `inventory snapshot ${failure.snapshotId} states no slug, so its data file cannot be found`,
+  "no-data": (failure) =>
+    `inventory snapshot ${failure.snapshotId} has no data file beside ${failure.slug} — the snapshot is mid-write or was truncated`,
   "json-parse-failed": (failure) =>
-    `inventory snapshot ${failure.snapshotId} reassembled to ${failure.bytes} byte(s) that are not valid JSON: ${failure.message}`,
+    `inventory snapshot ${failure.snapshotId} holds ${failure.bytes} byte(s) that are not valid JSON: ${failure.message}`,
 }
 
 export function describeInventoryReadFailure(failure: InventoryReadFailure): string {
   return FAILURE_DESCRIPTIONS[failure.kind](failure as never)
-}
-
-function chunkText(value: unknown): string | undefined {
-  if (typeof value === "string") return value
-  if (value === null || value === undefined) return undefined
-  return JSON.stringify(value)
 }
 
 export async function readLatestInventory(
@@ -169,36 +174,16 @@ export async function readLatestInventory(
     return { ok: false, failure: { kind: "snapshot-has-no-id" } }
   }
 
-  const dataTimestamp = snapshot.dataTimestamp
-  if (typeof dataTimestamp !== "number") {
-    return { ok: false, failure: { kind: "snapshot-has-no-timestamp", snapshotId } }
+  const slug = snapshot.slug
+  if (typeof slug !== "string") {
+    return { ok: false, failure: { kind: "snapshot-has-no-slug", snapshotId } }
   }
 
-  const chunks = await rows.chunksOf(inventorySnapshotName(dataTimestamp))
-  if (chunks.length === 0) return { ok: false, failure: { kind: "no-chunks", snapshotId } }
+  const data = await rows.dataOf(slug)
+  if (data === null) return { ok: false, failure: { kind: "no-data", snapshotId, slug } }
 
-  const declared = snapshot.chunkCount
-  if (typeof declared === "number" && declared !== chunks.length) {
-    return {
-      ok: false,
-      failure: {
-        kind: "chunk-count-mismatch",
-        snapshotId,
-        declared,
-        found: chunks.length,
-      },
-    }
-  }
-
-  const texts = chunks.map((chunk) => chunkText(chunk.data))
-  const chunkIndexes = texts.flatMap((text, index) => (text === undefined ? [index] : []))
-  if (chunkIndexes.length > 0) {
-    return { ok: false, failure: { kind: "chunk-not-text", snapshotId, chunkIndexes } }
-  }
-
-  const combined = texts.join("")
   try {
-    const db: InventoryDatabase = JSON.parse(combined)
+    const db: InventoryDatabase = JSON.parse(data)
     return { ok: true, db }
   } catch (err) {
     return {
@@ -206,7 +191,7 @@ export async function readLatestInventory(
       failure: {
         kind: "json-parse-failed",
         snapshotId,
-        bytes: combined.length,
+        bytes: data.length,
         message: err instanceof Error ? err.message : String(err),
       },
     }

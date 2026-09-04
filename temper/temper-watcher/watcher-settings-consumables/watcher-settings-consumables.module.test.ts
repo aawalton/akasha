@@ -6,6 +6,10 @@ import type {
 } from "@akasha/temper-items-core/inventory-types"
 import { computeBuyShortfall } from "@akasha/temper-items-rules-core/buy-rule-eval"
 import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type {
+  ReadFiles,
+  ReadPages,
+} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   type BuyStock,
   compileBuyStock,
@@ -17,6 +21,7 @@ import {
   type InventoryRow,
   type InventoryRowReader,
   readLatestInventory,
+  snapshotDataOf,
   toRuleSettings,
 } from "./watcher-settings-consumables.module.code.ts"
 
@@ -81,14 +86,22 @@ const HOLDINGS: InventoryDatabase = {
   meta: { displayName: "someone", worldName: "PC-EU", lastFullScan: 0 },
 }
 
-const SNAPSHOT_TIMESTAMP = 1739000000000
+const SNAPSHOT_SLUG = "at-2025-02-08-07-33-20"
 
-function readerOver(
-  snapshot: InventoryRow | undefined,
-  chunks: readonly InventoryRow[]
-): InventoryRowReader {
-  return { latestSnapshot: async () => snapshot, chunksOf: async () => chunks }
+const SNAPSHOT_PAGE_PATH = `pages/${SNAPSHOT_SLUG}/${SNAPSHOT_SLUG}.temper-inventory-snapshot.ts`
+
+const SNAPSHOT_DATA_PATH = `pages/${SNAPSHOT_SLUG}/${SNAPSHOT_SLUG}.temper-inventory-snapshot.data.json`
+
+function readerOver(snapshot: InventoryRow | undefined, data: string | null): InventoryRowReader {
+  return { latestSnapshot: async () => snapshot, dataOf: async () => data }
 }
+
+const snapshotPages: ReadPages = async () => ({
+  ok: true,
+  at: "c1",
+  bodies: [{ path: SNAPSHOT_PAGE_PATH, content: "" }],
+  unplaced: [],
+})
 
 test("character priority is the order the characters are read in", async () => {
   expect(await compileCharacterPriority("u1", readCharacters)).toEqual(["111", "222", "333", "444"])
@@ -164,29 +177,14 @@ test("each read failure is described", () => {
   expect(describeInventoryReadFailure({ kind: "snapshot-has-no-id" })).toBe(
     "the latest inventory snapshot row carries no id"
   )
-  expect(
-    describeInventoryReadFailure({ kind: "snapshot-has-no-timestamp", snapshotId: "snap-1" })
-  ).toBe("inventory snapshot snap-1 states no data-timestamp, so its chunks cannot be named")
-  expect(describeInventoryReadFailure({ kind: "no-chunks", snapshotId: "snap-1" })).toBe(
-    "inventory snapshot snap-1 has no chunk rows"
+  expect(describeInventoryReadFailure({ kind: "snapshot-has-no-slug", snapshotId: "snap-1" })).toBe(
+    "inventory snapshot snap-1 states no slug, so its data file cannot be found"
   )
   expect(
-    describeInventoryReadFailure({
-      kind: "chunk-count-mismatch",
-      snapshotId: "snap-1",
-      declared: 4,
-      found: 3,
-    })
+    describeInventoryReadFailure({ kind: "no-data", snapshotId: "snap-1", slug: SNAPSHOT_SLUG })
   ).toBe(
-    "inventory snapshot snap-1 declares 4 chunk(s) but 3 are readable — the snapshot is mid-write or was truncated"
+    `inventory snapshot snap-1 has no data file beside ${SNAPSHOT_SLUG} — the snapshot is mid-write or was truncated`
   )
-  expect(
-    describeInventoryReadFailure({
-      kind: "chunk-not-text",
-      snapshotId: "snap-1",
-      chunkIndexes: [1, 3],
-    })
-  ).toBe("inventory snapshot snap-1 has non-text data in chunk(s) 1, 3")
   expect(
     describeInventoryReadFailure({
       kind: "json-parse-failed",
@@ -195,7 +193,7 @@ test("each read failure is described", () => {
       message: "Unexpected end of JSON input",
     })
   ).toBe(
-    "inventory snapshot snap-1 reassembled to 12 byte(s) that are not valid JSON: Unexpected end of JSON input"
+    "inventory snapshot snap-1 holds 12 byte(s) that are not valid JSON: Unexpected end of JSON input"
   )
 })
 
@@ -219,82 +217,51 @@ test("settings marked version 2 are answered unchanged", () => {
 })
 
 test("a user with no snapshot is a no-snapshot failure", async () => {
-  expect(await readLatestInventory("u1", readerOver(undefined, []))).toEqual({
+  expect(await readLatestInventory("u1", readerOver(undefined, null))).toEqual({
     ok: false,
     failure: { kind: "no-snapshot" },
   })
 })
 
 test("a snapshot row with no id is its own failure", async () => {
-  expect(await readLatestInventory("u1", readerOver({ dataTimestamp: 1 }, []))).toEqual({
+  expect(await readLatestInventory("u1", readerOver({ slug: SNAPSHOT_SLUG }, null))).toEqual({
     ok: false,
     failure: { kind: "snapshot-has-no-id" },
   })
 })
 
-test("a snapshot with no data-timestamp cannot name its chunks", async () => {
-  expect(await readLatestInventory("u1", readerOver({ id: "snap-1" }, []))).toEqual({
+test("a snapshot with no slug cannot say where its data file is", async () => {
+  expect(await readLatestInventory("u1", readerOver({ id: "snap-1" }, null))).toEqual({
     ok: false,
-    failure: { kind: "snapshot-has-no-timestamp", snapshotId: "snap-1" },
+    failure: { kind: "snapshot-has-no-slug", snapshotId: "snap-1" },
   })
 })
 
-test("chunks are asked for under the name the data-timestamp gives", async () => {
+test("the data is asked for under the snapshot's own slug", async () => {
   let asked = ""
   await readLatestInventory("u1", {
-    latestSnapshot: async () => ({ id: "snap-1", dataTimestamp: SNAPSHOT_TIMESTAMP }),
-    chunksOf: async (snapshotName) => {
-      asked = snapshotName
-      return []
+    latestSnapshot: async () => ({ id: "snap-1", slug: SNAPSHOT_SLUG }),
+    dataOf: async (slug) => {
+      asked = slug
+      return null
     },
   })
-  expect(asked).toBe("2025-02-08-07-33-20")
+  expect(asked).toBe(SNAPSHOT_SLUG)
 })
 
-test("a snapshot with no chunk rows is a failure", async () => {
+test("a snapshot with no data file beside it is a failure naming the slug", async () => {
   expect(
-    await readLatestInventory(
-      "u1",
-      readerOver({ id: "snap-1", dataTimestamp: SNAPSHOT_TIMESTAMP }, [])
-    )
-  ).toEqual({ ok: false, failure: { kind: "no-chunks", snapshotId: "snap-1" } })
-})
-
-test("a chunk count the rows do not match is a failure naming both counts", async () => {
-  expect(
-    await readLatestInventory(
-      "u1",
-      readerOver({ id: "snap-1", dataTimestamp: SNAPSHOT_TIMESTAMP, chunkCount: 4 }, [
-        { data: "{}" },
-      ])
-    )
+    await readLatestInventory("u1", readerOver({ id: "snap-1", slug: SNAPSHOT_SLUG }, null))
   ).toEqual({
     ok: false,
-    failure: { kind: "chunk-count-mismatch", snapshotId: "snap-1", declared: 4, found: 1 },
+    failure: { kind: "no-data", snapshotId: "snap-1", slug: SNAPSHOT_SLUG },
   })
 })
 
-test("a chunk holding neither text nor an object is named by its index", async () => {
-  expect(
-    await readLatestInventory(
-      "u1",
-      readerOver({ id: "snap-1", dataTimestamp: SNAPSHOT_TIMESTAMP }, [
-        { data: "{" },
-        { data: null },
-        { data: "}" },
-        { data: undefined },
-      ])
-    )
-  ).toEqual({
-    ok: false,
-    failure: { kind: "chunk-not-text", snapshotId: "snap-1", chunkIndexes: [1, 3] },
-  })
-})
-
-test("chunks that do not reassemble to JSON are a failure counting the bytes", async () => {
+test("data that is not JSON is a failure counting the bytes", async () => {
   const read = await readLatestInventory(
     "u1",
-    readerOver({ id: "snap-1", dataTimestamp: SNAPSHOT_TIMESTAMP }, [{ data: '{"locations":' }])
+    readerOver({ id: "snap-1", slug: SNAPSHOT_SLUG }, '{"locations":')
   )
   expect(read.ok).toBe(false)
   if (read.ok) return
@@ -310,16 +277,40 @@ const EMPTY_DATABASE: InventoryDatabase = {
   meta: { displayName: "someone", worldName: "PC-EU", lastFullScan: 0 },
 }
 
-test("chunks are joined in the order they are read and parsed as one database", async () => {
+test("the whole data file parses as one database", async () => {
   expect(
     await readLatestInventory(
       "u1",
-      readerOver({ id: "snap-1", dataTimestamp: SNAPSHOT_TIMESTAMP, chunkCount: 2 }, [
-        { data: '{"locations":{},"meta":{"displayName":"someone",' },
-        { data: '"worldName":"PC-EU","lastFullScan":0}}' },
-      ])
+      readerOver({ id: "snap-1", slug: SNAPSHOT_SLUG }, JSON.stringify(EMPTY_DATABASE))
     )
   ).toEqual({ ok: true, db: EMPTY_DATABASE })
+})
+
+test("the data comes from the file beside the snapshot's own page", async () => {
+  let asked: readonly string[] = []
+  const files: ReadFiles = async (paths) => {
+    asked = paths
+    return {
+      ok: true,
+      at: "c1",
+      bodies: [{ path: SNAPSHOT_DATA_PATH, content: '{"locations":{}}' }],
+      unplaced: [],
+    }
+  }
+  expect(await snapshotDataOf(SNAPSHOT_SLUG, snapshotPages, files)).toBe('{"locations":{}}')
+  expect(asked).toEqual([SNAPSHOT_DATA_PATH])
+})
+
+test("a beside path the store holds no body for reads as no data", async () => {
+  const files: ReadFiles = async () => ({ ok: true, at: "c1", bodies: [], unplaced: [] })
+  expect(await snapshotDataOf(SNAPSHOT_SLUG, snapshotPages, files)).toBe(null)
+})
+
+test("a store that refuses the data file is refused with what it said", async () => {
+  const files: ReadFiles = async () => ({ ok: false, why: "the store was unreachable" })
+  await expect(snapshotDataOf(SNAPSHOT_SLUG, snapshotPages, files)).rejects.toThrow(
+    "the store was unreachable"
+  )
 })
 
 const BUY_ITEM = 4000
@@ -339,19 +330,16 @@ const SPREAD: InventoryDatabase = {
 }
 
 const MID_WRITE: InventoryReadFailure = {
-  kind: "chunk-count-mismatch",
+  kind: "no-data",
   snapshotId: "snap-1",
-  declared: 12,
-  found: 9,
+  slug: SNAPSHOT_SLUG,
 }
 
 const EVERY_FAILURE: readonly InventoryReadFailure[] = [
   { kind: "no-snapshot" },
   { kind: "snapshot-has-no-id" },
-  { kind: "snapshot-has-no-timestamp", snapshotId: "snap-1" },
-  { kind: "no-chunks", snapshotId: "snap-1" },
+  { kind: "snapshot-has-no-slug", snapshotId: "snap-1" },
   MID_WRITE,
-  { kind: "chunk-not-text", snapshotId: "snap-1", chunkIndexes: [3, 4] },
   { kind: "json-parse-failed", snapshotId: "snap-1", bytes: 41230, message: "bad" },
 ]
 
@@ -396,13 +384,4 @@ test("a failed read collapses 3996 held across eleven characters and the bank to
   const failed = compileBuyStock({ ok: false, failure: MID_WRITE }, new Set([BUY_ITEM]))
   expect(heldTotal(failed, BUY_ITEM)).toBe(0)
   expect(computeBuyShortfall(BUY_TARGET, LIVE_BACKPACK + heldTotal(failed, BUY_ITEM))).toBe(3800)
-})
-
-test("a chunk holding an object rather than text is written back out as JSON", async () => {
-  expect(
-    await readLatestInventory(
-      "u1",
-      readerOver({ id: "snap-1", dataTimestamp: SNAPSHOT_TIMESTAMP }, [{ data: EMPTY_DATABASE }])
-    )
-  ).toEqual({ ok: true, db: EMPTY_DATABASE })
 })
