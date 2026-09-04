@@ -166,7 +166,7 @@ index d31adb8c87570057f1769f463b9f1b898c4e53e0..8c6b20eee0204288dd02cca9d088097a
 +  found(given.root, given.path, given.text, shadow.index)
  )
 diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
-index 46b1a349d8becb0147a8e29a32840c02147d38a0..2b725a72a1eeedbea8435baf19370c76091e459e 100644
+index 46b1a349d8becb0147a8e29a32840c02147d38a0..59917e3c6b33813f40cf955af3510681183303c0 100644
 --- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
 +++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
 @@ -3,11 +3,10 @@ import { readFileSync } from "node:fs"
@@ -191,6 +191,63 @@ index 46b1a349d8becb0147a8e29a32840c02147d38a0..2b725a72a1eeedbea8435baf19370c76
  
  const given = bodiesAt(ROOT, AT)
  
+@@ -237,33 +236,40 @@ test("the check refuses neither of its own code files though each spells the wor
+   }
+ })
+ 
+-test("a statement the grammar reads is let through", () => {
++test("a statement no refused shape matches is let through", async () => {
+   const body = paged(JSON.stringify("A page is one TypeScript file."))
+-  expect(judged(given(body))).toEqual([])
++  expect(await judged(given(body))).toEqual([])
+ })
+ 
+-test("a statement written in a refused shape names that shape", () => {
++test("a statement written in a refused shape names that shape", async () => {
+   const body = paged(JSON.stringify("It is read from the index."))
+-  const said = judged(given(body))
++  const said = await judged(given(body))
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("line 3")
+   expect(said[0]).toContain("`lone-pronoun`")
+   expect(said[0]).toContain("say the same fact in the plainest words")
+ })
+ 
+-test("a statement no shape of the grammar reads is passed over", () => {
++test("a count closing a statement over its own list names `closing-count`", async () => {
++  const body = paged(JSON.stringify("A pass either writes or checks rather than doing both."))
++  const said = await judged(given(body))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("`closing-count`")
++})
++
++test("a statement the parser makes nothing of is passed over", async () => {
+   const body = paged(JSON.stringify("A page is one TypeScript file whenever whenever."))
+-  expect(judged(given(body))).toEqual([])
++  expect(await judged(given(body))).toEqual([])
+ })
+ 
+-test("a statement refused for a mark is not judged against the grammar too", () => {
++test("a statement refused for a mark is not judged against the shapes too", async () => {
+   const body = paged(JSON.stringify("It is read, so the index answers."))
+-  const said = judged(given(body))
++  const said = await judged(given(body))
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("joins a second fact")
+ })
+ 
+-test("a directive is passed over where an invariant is judged", () => {
++test("a directive is passed over where an invariant is judged", async () => {
+   const body = [
+     "export const held = {",
+     "  directives: [",
+@@ -276,5 +282,5 @@ test("a directive is passed over where an invariant is judged", () => {
+     "}",
+     "",
+   ].join("\n")
+-  expect(judged(given(body))).toEqual([])
++  expect(await judged(given(body))).toEqual([])
+ })
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
 index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..68f0684863f2d5920eb4ea2d9cf4ed49db7cb8c7 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
