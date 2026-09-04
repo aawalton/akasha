@@ -4,7 +4,7 @@ export const nothingGatedRenamesAFileBesideAPage = {
   id: "01a06741-b245-7433-b6eb-5946a81e1857",
   pageTypeSlug: "finding",
   slug: "nothing-gated-renames-a-file-beside-a-page",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/command-system",
   claim:
     "No gated command renames a file sitting beside a page. A key rename carries no file by its own account, a move refuses anything that is not a page's own file, and a hook refuses `git mv`. So renaming a property key always strands the beside-files named for it, and the only route through is `landedMechanically`, which judges nothing.",
   evidence:

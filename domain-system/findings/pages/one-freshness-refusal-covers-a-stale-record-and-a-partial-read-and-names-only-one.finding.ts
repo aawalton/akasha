@@ -4,7 +4,7 @@ export const oneFreshnessRefusalCoversAStaleRecordAndAPartialReadAndNamesOnlyOne
   id: "01a068f5-7f47-7ff0-bebd-59b45ef78c63",
   pageTypeSlug: "finding",
   slug: "one-freshness-refusal-covers-a-stale-record-and-a-partial-read-and-names-only-one",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/command-system",
   claim:
     "The moved-on-disk refusal at landing.module.code.ts:280 has two causes and its wording names only the first, so the remedy it implies is wrong half the time. `sameBody` at reading.module.code.ts:118-121 returns false on either of two grounds: the recorded body differs from the disk, or `partly(held)` is true, which holds whenever the reading carries a `readThrough` and is therefore true for any file delivered in runs rather than whole. The first is cleared by reading the file again. The second is not, because reading again in runs records another partial reading; it is cleared only by taking the body whole. The refusal says the disk disagrees with what was read, which describes the first cause and misdescribes the second as disagreement when the real defect is incompleteness.",
   evidence:
