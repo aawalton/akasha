@@ -1,4 +1,4 @@
-import { inputError, operationalError } from "@tools/lib/exit"
+import { inputError, operationalError } from "@akasha/errors-core/exit-code"
 import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import {
   dayByDate,

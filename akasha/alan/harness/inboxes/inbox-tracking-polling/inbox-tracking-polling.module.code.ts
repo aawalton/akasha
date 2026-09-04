@@ -1,4 +1,4 @@
-import { operationalError } from "@tools/lib/exit"
+import { operationalError } from "@akasha/errors-core/exit-code"
 import {
   type PollAndPersistSummary,
   pollAndPersist,

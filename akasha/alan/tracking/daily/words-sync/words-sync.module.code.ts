@@ -3,7 +3,7 @@ export const summary = "Recompute a day's wisdomWords and intelligenceWords from
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { inputError } from "@tools/lib/exit"
+import { inputError } from "@akasha/errors-core/exit-code"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
 

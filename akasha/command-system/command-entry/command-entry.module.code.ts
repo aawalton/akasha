@@ -1,4 +1,4 @@
-import { EXIT } from "@tools/lib/exit"
+import { EXIT } from "@akasha/errors-core/exit-code"
 import { opsInvocationOf, opsSpelling } from "../ops-invocation/ops-invocation.module.code.ts"
 
 function refuseDirectCommandRun(entryPath: string): undefined {

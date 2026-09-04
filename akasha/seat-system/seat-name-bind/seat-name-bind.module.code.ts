@@ -1,4 +1,4 @@
-import { inputError } from "@tools/lib/exit"
+import { inputError } from "@akasha/errors-core/exit-code"
 import { gatherAgentNameBindInput } from "../agent-name-bind/agent-name-bind.module.code.ts"
 import { seatByName } from "../seat-by-name/seat-by-name.module.code.ts"
 import { isValidSeatName } from "../seat-handle/seat-handle.module.code.ts"

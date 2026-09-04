@@ -3,7 +3,7 @@ export const summary =
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
-import { dataError } from "@tools/lib/exit"
+import { dataError } from "@akasha/errors-core/exit-code"
 
 export const help: CommandHelp = {
   flags: [

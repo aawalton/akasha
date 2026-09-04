@@ -1451,7 +1451,9 @@
     "akasha/seat-system": {
       "name": "@akasha/seat-system",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",
         "@tools/lib": "workspace:*",

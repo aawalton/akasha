@@ -1,10 +1,10 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
+import { operationalError } from "@akasha/errors-core/exit-code"
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatsPresent } from "@akasha/seat-system/seat-roster"
 import { ran } from "@akasha/utils-run/running"
-import { operationalError } from "@tools/lib/exit"
 
 const SETTINGS =
   "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"

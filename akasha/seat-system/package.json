@@ -263,7 +263,9 @@
     "./seat-turn-color": "./seat-turn-color/seat-turn-color.module.code.ts"
   },
   "dependencies": {
+    "@akasha/errors-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
+    "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-system": "workspace:*",
     "@tools/lib": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",

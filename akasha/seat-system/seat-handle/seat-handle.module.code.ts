@@ -1,4 +1,4 @@
-import { dataError, inputError } from "@tools/lib/exit"
+import { dataError, inputError } from "@akasha/errors-core/exit-code"
 import { type Seated, seatRoster, seatsStanding } from "../seat-roster/seat-roster.module.code.ts"
 
 const UUID_HEX_LEN = 32

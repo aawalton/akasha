@@ -1,4 +1,4 @@
-import { dataError, operationalError } from "@tools/lib/exit"
+import { dataError, operationalError } from "@akasha/errors-core/exit-code"
 import {
   type LaunchSeatOpts,
   type LaunchSeatResult,

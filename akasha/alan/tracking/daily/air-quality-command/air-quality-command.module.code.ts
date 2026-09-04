@@ -3,7 +3,7 @@ export const summary =
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
-import { inputError } from "@tools/lib/exit"
+import { inputError } from "@akasha/errors-core/exit-code"
 import {
   assessOutdoor,
   LOCATION_PRESETS,

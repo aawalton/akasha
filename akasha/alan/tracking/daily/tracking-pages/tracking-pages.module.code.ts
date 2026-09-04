@@ -1,4 +1,4 @@
-import { dataError } from "@tools/lib/exit"
+import { dataError } from "@akasha/errors-core/exit-code"
 import { askComposed } from "@tools/lib/page-query-client"
 import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"

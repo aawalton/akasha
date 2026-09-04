@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
+import { inputError } from "@akasha/errors-core/exit-code"
 import { expandTilde } from "@akasha/utils-fs/expand-tilde"
-import { inputError } from "@tools/lib/exit"
 import "../command-entry/command-entry.module.code.ts"
 import type { CommandHelp, HelpFlag } from "@akasha/command-system/command-declaring"
 import {
