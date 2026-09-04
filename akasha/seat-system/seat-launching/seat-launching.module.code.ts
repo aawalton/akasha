@@ -6,7 +6,7 @@ export const TMUX_HISTORY_LIMIT = "50000"
 
 export const PTY_PROXY_REL = "akasha/seat-system/pty-proxy/pty-proxy.module.code.ts"
 
-export const SUPERVISOR_REL = "tools/run-supervisor.ts"
+export const SUPERVISOR_REL = "akasha/seat-system/run-supervisor/run-supervisor.module.code.ts"
 
 export const SEAT_MODE_INTERACTIVE = "interactive"
 

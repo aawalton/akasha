@@ -123,7 +123,7 @@ test("the supervisor is reached through the pty proxy", () => {
     "--",
     "bun",
     "run",
-    "/repos/akasha/tools/run-supervisor.ts",
+    "/repos/akasha/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
   ])
 })
 
@@ -159,7 +159,7 @@ test("a supervisor command line carries the agent id and the account", () => {
     "--",
     "bun",
     "run",
-    "/repos/akasha/tools/run-supervisor.ts",
+    "/repos/akasha/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
     "--agent-id",
     "athena-a2de5a24130090204",
     "-a",
@@ -274,7 +274,7 @@ test("the whole launch is composed from the seat alone", () => {
     "--",
     "bun",
     "run",
-    "/repos/akasha/tools/run-supervisor.ts",
+    "/repos/akasha/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
     "--headless",
     "--agent-id",
     "athena-a2de5a24130090204",
