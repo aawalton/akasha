@@ -1,3 +1,5 @@
+import { slugsIn } from "@akasha/pages-system/page-value"
+
 export interface QueryRow {
   readonly at: string
   readonly values: Readonly<Record<string, string | readonly string[] | null>>
@@ -25,6 +27,8 @@ export interface PageAnswers {
 
 const NO_PARENT = "none"
 
+const TYPE_ID = "type"
+
 const ON_TYPE = "page-type"
 
 const ON_PROPERTY_TYPE = "page-property-type"
@@ -36,7 +40,7 @@ const VOCABULARY_LABEL = "page property types"
 interface TypeRow {
   readonly slug: string
   readonly at: string
-  readonly extendsSlug: string | null
+  readonly extendsSlugs: readonly string[]
 }
 
 interface PropertyRow {
@@ -130,12 +134,13 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
     if (slug === null) {
       continue
     }
-    const named = textOf(row, "extends-slug")
-    types.set(slug, {
-      slug,
-      at: atOf(row),
-      extendsSlug: named === null || named === NO_PARENT ? null : named,
-    })
+    const at = atOf(row)
+    const held = types.get(slug)
+    const above = held?.extendsSlugs ?? []
+    const named = slugsIn(row.values["extends-slug"]).filter(
+      (one) => one !== NO_PARENT && !above.includes(one)
+    )
+    types.set(slug, { slug, at: held?.at ?? at, extendsSlugs: [...above, ...named] })
   }
 
   const definedOn = new Map<string, PropertyRow[]>()
@@ -169,37 +174,44 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
   }
 
   const children = new Map<string, string[]>()
+  const firstAbove = new Map<string, string>()
   const rootSlugs: string[] = []
   for (const row of [...types.values()].sort((a, b) => byText(a.slug, b.slug))) {
-    const parent = row.extendsSlug
-    if (parent === null) {
+    if (row.extendsSlugs.length === 0) {
       rootSlugs.push(row.slug)
       continue
     }
-    if (parent === row.slug || !types.has(parent)) {
-      continue
+    const above = row.extendsSlugs.filter((one) => one !== row.slug && types.has(one))
+    const [first] = above
+    if (first !== undefined) {
+      firstAbove.set(row.slug, first)
     }
-    children.set(parent, [...(children.get(parent) ?? []), row.slug])
+    for (const parent of above) {
+      children.set(parent, [...(children.get(parent) ?? []), row.slug])
+    }
   }
 
-  const seen = new Set<string>()
-  const build = (slug: string): PageNode => {
-    seen.add(slug)
+  const reached = new Set<string>()
+  const build = (slug: string, id: string, own: boolean, opened: readonly string[]): PageNode => {
+    reached.add(slug)
     const row = types.get(slug) as TypeRow
-    const props = propertiesNode(
-      `type/${slug}/properties`,
-      definedOn.get(`${ON_TYPE}/${slug}`) ?? []
-    )
-    const kids = (children.get(slug) ?? []).filter((one) => !seen.has(one)).map(build)
+    const props = propertiesNode(`${id}/properties`, definedOn.get(`${ON_TYPE}/${slug}`) ?? [])
+    const under = [...opened, slug]
+    const kids = (children.get(slug) ?? [])
+      .filter((one) => !under.includes(one))
+      .map((one) => {
+        const bare = own && firstAbove.get(one) === slug
+        return build(one, bare ? `${TYPE_ID}/${one}` : `${id}/${one}`, bare, under)
+      })
     return {
-      id: `type/${slug}`,
+      id,
       label: slug,
       at: row.at,
       detail: null,
       children: props === null ? kids : [props, ...kids],
     }
   }
-  const typeRoots = rootSlugs.map(build)
+  const typeRoots = rootSlugs.map((slug) => build(slug, `${TYPE_ID}/${slug}`, true, []))
 
   const vocabulary: PageNode = {
     id: VOCABULARY_ID,
@@ -231,12 +243,12 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
   }
 
   const drawn = new Set([
-    ...[...seen].map((slug) => `${ON_TYPE}/${slug}`),
+    ...[...reached].map((slug) => `${ON_TYPE}/${slug}`),
     ...propertyTypes.map((row) => `${ON_PROPERTY_TYPE}/${row.typeSlug}`),
   ])
   const unreached = [
     ...new Set([
-      ...[...types.keys()].filter((slug) => !seen.has(slug)).map((slug) => `${ON_TYPE}/${slug}`),
+      ...[...types.keys()].filter((slug) => !reached.has(slug)).map((slug) => `${ON_TYPE}/${slug}`),
       ...[...definedOn.keys()].filter((slug) => !drawn.has(slug)),
     ]),
   ].sort(byText)

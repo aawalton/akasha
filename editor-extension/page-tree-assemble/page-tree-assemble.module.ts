@@ -6,6 +6,7 @@ export const pageTreeAssemble = {
   slug: "page-tree-assemble",
   definition: "the tree of page types and page property types a page query answer is turned into",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",
@@ -51,6 +52,39 @@ export const pageTreeAssemble = {
       invariantKind: "departure",
       statement:
         "An unreached name is an owner no answer held rather than an owner the lookup missed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type names any number of types above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type naming two types above it is drawn once under each of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The drawing under the first type a page type names above it keeps the id `type/<slug>`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A later drawing takes its id from the parent it hangs under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Everything under a later drawing takes its id from that drawing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type already open above the one being drawn is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ring among the types above ends the descent.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A second drawing of a type is no reason to leave that type out.",
     },
     {
       invariantKind: "departure",
