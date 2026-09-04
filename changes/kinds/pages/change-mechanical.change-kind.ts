@@ -14,7 +14,7 @@ export const changeMechanical = {
     },
     {
       invariantKind: "absence",
-      statement: "A mechanical change does not rewrite authored prose.",
+      statement: "A mechanical change is not authored prose.",
     },
 
     {
