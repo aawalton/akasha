@@ -12,14 +12,13 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "Taking one in is the same three-way merge a draft is: HEAD is the base, the principal's patch is ours, the subagent's is theirs, and what conflicts lands in the principal's conflicts. The patch also keeps the agent ids it has taken in, cleared when it applies or is dropped, so the warrant refusing the next draft can say why reads are owed on files the principal never touched.",
     },
-    {
-      statement: "A draft says what the checks would refuse and refuses nothing.",
-      workingMemory:
-        "A draft refuses today: `draftingAsked` hands `landing` the gate a landing gets, and a refusal returns before the patch is written. The whole folded patch is judged rather than the call alone, so a patch holding one failing path takes no further draft. The dry run's `reporting` is the shape wanted: it runs the gate, says what it says, writes nothing. This comes before the default flips, since a default that refuses wedges any agent whose patch holds a half-finished state.",
-    },
     { statement: "A drafting command takes no dry run flag." },
     { statement: "The glass is broken only where a patch applies." },
-    { statement: "Drafting is what write and edit do when nothing says otherwise." },
+    {
+      statement: "Drafting is what write and edit do when nothing says otherwise.",
+      workingMemory:
+        "The blocker is gone: a draft says what the checks refused and keeps the change either way, so flipping the default no longer wedges an agent whose patch holds a half-finished state. What is left is the flag. `landingAsked` forks on `held.draft === true` at one line, and `write` and `edit` each declare `--draft` in `taking` and in `BARE`. The glass intent lands with this one: once every authored change goes through a patch, `--break-the-glass` belongs on `patch apply` alone.",
+    },
     {
       statement: "A body reaches write and edit on the command line rather than in a file.",
       workingMemory:
