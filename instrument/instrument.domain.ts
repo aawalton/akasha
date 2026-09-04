@@ -104,17 +104,6 @@ export const instrument = {
     },
     {
       directiveKind: "rule",
-      name: "Painful Or Worse",
-      act: "Take an instrument to Alan before landing one whose run takes more than five minutes.",
-      warrant:
-        "Whoever writes it never waits for it; everyone after does, and nothing charges the wait back.",
-      aids: [
-        "Time the run rather than guessing at it.",
-        "Approval holds for that instrument at that cost.",
-      ],
-    },
-    {
-      directiveKind: "rule",
       name: "Population",
       act: "State the population size where an instrument reports, and fail where it could not look at one.",
       warrant:
