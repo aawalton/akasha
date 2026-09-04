@@ -1,0 +1,33 @@
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..1a0591bb28ccce70fa270d682b7b197bb86df533 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -8,7 +8,7 @@ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+ import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
+ import type { Shadow } from "@akasha/pages-system/shadow"
+ import { isMissing } from "@akasha/utils-fs/missing"
+-import type { Judged, Running } from "../judging/judging.module.code.ts"
++import type { AnyRunning, Judged, Running } from "../judging/judging.module.code.ts"
+ 
+ export type Body = {
+   readonly root: string
+@@ -40,7 +40,7 @@ export type Stated = {
+   readonly isInput: Input
+ }
+ 
+-export type Bounded = Running & Stated
++export type Bounded = AnyRunning & Stated
+ 
+ const TS = "ts"
+ 
+@@ -152,8 +152,8 @@ export function judgingEach<T extends { readonly path: string }>(
+   return Object.assign(run, stated)
+ }
+ 
+-export function input<T>(selector: Selector<T>, run: Running): Bounded {
+-  const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
++export function input<T>(selector: Selector<T>, run: AnyRunning): Bounded {
++  const bound = (change: Change, shadow: Shadow): ReturnType<AnyRunning> => run(change, shadow)
+   const stated: Stated = { isInput: selector.isInput }
+   return Object.assign(bound, stated)
+ }
