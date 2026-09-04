@@ -1,7 +1,10 @@
 import { readFileSync } from "node:fs"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
-import type { HookRegistration } from "@tools/lib/akasha-hooks"
-import { hooksFrom, hooksMerged } from "@tools/lib/akasha-hooks"
+import {
+  type HookRegistration,
+  hooksFrom,
+  hooksMerged,
+} from "../agent-hook-registration/agent-hook-registration.module.code.ts"
 
 const SETTINGS_AT = new URL(
   "../../agent-settings/pages/agents/agents.agent-settings.harness-settings.json",
