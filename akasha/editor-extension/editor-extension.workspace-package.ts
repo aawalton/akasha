@@ -42,8 +42,6 @@ export const editorExtension = {
     "module/editor-layout-panel",
     "module/observation-merging",
     "module/observation-store",
-    "module/observation-writer-main",
-    "module/observation-writing",
     "module/seat-observations",
     "module/seat-turn-colors",
     "module/status-bar-drawing",
