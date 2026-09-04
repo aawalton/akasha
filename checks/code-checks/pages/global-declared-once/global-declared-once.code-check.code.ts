@@ -44,6 +44,11 @@ export type Stated = {
   readonly line: number
 }
 
+type Clash = {
+  readonly one: Stated
+  readonly held: Stated
+}
+
 const MERGING: ReadonlySet<Kind> = new Set<Kind>(["interface", "namespace", "function"])
 
 export function keyOf(one: Stated): string {
@@ -140,24 +145,35 @@ export function reasonFor(one: Stated, held: Stated, carried: boolean): string {
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shared = new Map<string, Stated>()
   const inside: Stated[] = []
+  const clashes: Clash[] = []
   for (const path of readingIn(change, shadow)) {
     const text = textIn(change, path)
     if (text === null) continue
     const declares = path.endsWith(DECLARED)
     if (!declares && !text.includes(SPELT)) continue
     for (const one of statedIn(path, text)) {
-      if (!declares) inside.push(one)
-      else if (!shared.has(keyOf(one))) shared.set(keyOf(one), one)
+      if (!declares) {
+        inside.push(one)
+        continue
+      }
+      const held = shared.get(keyOf(one))
+      if (held === undefined) {
+        shared.set(keyOf(one), one)
+        continue
+      }
+      if (!mergedBy(one, held)) clashes.push({ one, held })
     }
   }
-  const carried = new Set(change.changed)
-  const said: Judged[] = []
   for (const one of inside) {
     const held = shared.get(keyOf(one))
     if (held === undefined || mergedBy(one, held)) continue
-    said.push({ path: one.path, reason: reasonFor(one, held, carried.has(one.path)) })
+    clashes.push({ one, held })
   }
-  return said
+  const carried = new Set(change.changed)
+  return clashes.map(({ one, held }) => ({
+    path: one.path,
+    reason: reasonFor(one, held, carried.has(one.path)),
+  }))
 }
 
 const GLOBALS: Selector<Body> = {
