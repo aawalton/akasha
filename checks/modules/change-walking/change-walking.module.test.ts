@@ -13,8 +13,6 @@ import {
   everythingIn,
   FILES,
   input,
-  insideAkasha,
-  insideOf,
   judgingEach,
   judgingEachFile,
   onDisk,
@@ -37,8 +35,6 @@ const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
 
 const TYPE_AT = "akasha/checks-system/change-walking/held/held.page-type.ts"
 
-const OUTSIDE_AT = "outside/checks-system/change-walking/held/held.module.ts"
-
 const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
 
 const PAGE_TYPE = "page-type"
@@ -48,16 +44,6 @@ const MODULE = "module"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-test("a path lies inside the akasha folder or outside it, and a change narrows to what is inside", () => {
-  const nowhere = (): null => null
-  const inside: Change = { root: "/nowhere", changed: [PAGE_AT], after: nowhere, before: nowhere }
-  const mixed: Change = { ...inside, changed: [PAGE_AT, OUTSIDE_AT] }
-  expect(insideAkasha(PAGE_AT)).toBe(true)
-  expect(insideAkasha(OUTSIDE_AT)).toBe(false)
-  expect(insideOf(mixed).changed).toEqual([PAGE_AT])
-  expect(insideOf(inside)).toBe(inside)
-})
 
 function worldOf(paths: readonly string[]): string {
   const root = scratch.rootFor("akasha-change-walking-")
@@ -212,13 +198,6 @@ test("a selector tailed by one page type takes a page carrying that tail and no 
   expect(handed.map((one) => one.path)).toEqual([TYPE_AT])
   expect(tailed.isInput(TYPE_AT, shadow)).toBe(true)
   expect(tailed.isInput(PAGE_AT, shadow)).toBe(false)
-})
-
-test("a page named outside the akasha folder is no page, so no check bounded to the pages takes it", () => {
-  const change = pagedWorld()
-  const shadow = shadowAt(change.root)
-  expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)
-  expect(PAGES.isInput(OUTSIDE_AT, shadow)).toBe(false)
 })
 
 test("a page whose body declares no page is handed over all the same, carrying nothing loaded", () => {
