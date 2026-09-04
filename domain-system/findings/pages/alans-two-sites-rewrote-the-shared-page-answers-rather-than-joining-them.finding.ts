@@ -4,7 +4,7 @@ export const alansTwoSitesRewroteTheSharedPageAnswersRatherThanJoiningThem = {
   id: "01a0658e-a221-72d8-824a-9086ea7dd713",
   pageTypeSlug: "finding",
   slug: "alans-two-sites-rewrote-the-shared-page-answers-rather-than-joining-them",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/web-page-answers",
   claim:
     "web-page-answers was made to be the one place the four page answers live, and the two sites that migrated after it wrote their own copies instead. Archive of worlds joined the package and holds none of its own, so the four answers are written out in three places rather than one.",
   evidence:

@@ -4,7 +4,7 @@ export const akashaServiceInstallAllPlansToRemoveEveryUnitWhenTheIndexReadsEmpty
   id: "01a0687d-883f-7001-a150-b9ed1b85868b",
   pageTypeSlug: "finding",
   slug: "akasha-service-install-all-plans-to-remove-every-unit-when-the-index-reads-empty",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/service-system",
   claim:
     "`akasha service install --all` plans to remove every unit it owns when the service index reads empty, because an empty read is not a refusal and `planFor` treats 'nothing should stand' and 'nothing was read' as the same state. The guard that told them apart stood in `tools/lib/service-project.ts` and did not come across.",
   evidence:

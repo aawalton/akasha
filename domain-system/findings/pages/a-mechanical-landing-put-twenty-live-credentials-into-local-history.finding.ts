@@ -4,7 +4,7 @@ export const aMechanicalLandingPutTwentyLiveCredentialsIntoLocalHistory = {
   id: "01a06558-bbb0-7006-9f2c-4b1e77d3a081",
   pageTypeSlug: "finding",
   slug: "a-mechanical-landing-put-twenty-live-credentials-into-local-history",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "`landedMechanically` force-adds a path git is told to ignore, so a migration carried `.env.local` and its twenty live credentials into a commit that is an ancestor of HEAD. Untracking the file afterwards left the blob reachable. Nothing has left this machine and no remote branch holds it, so the whole exposure is one local repository — but a push before this is settled publishes every one of the twenty.",
   evidence:

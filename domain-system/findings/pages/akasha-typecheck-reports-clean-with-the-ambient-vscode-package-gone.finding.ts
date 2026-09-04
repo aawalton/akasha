@@ -4,7 +4,7 @@ export const akashaTypecheckReportsCleanWithTheAmbientVscodePackageGone = {
   id: "01a0697d-0dba-7d65-97e2-3ca4f040079d",
   pageTypeSlug: "finding",
   slug: "akasha-typecheck-reports-clean-with-the-ambient-vscode-package-gone",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/instrument",
   claim:
     "`akasha typecheck --file-path` answered 'judged 4 files and none refused' for a file whose first line is `import type * as vscode from \"vscode\"` while `node_modules/@types/vscode` did not exist. The compiler run directly on the same import answers TS2307. So the command is blind to an unresolvable ambient package, and a clean answer from it does not establish that the editor extension compiles.",
   evidence:
