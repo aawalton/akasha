@@ -11,3 +11,16 @@ index 2095f80b2def43f3fd0052c728325409e72f01d7..df19bf6377813902e22e5fc91368713d
  
  export const RETRY_BACKOFF_MS: readonly number[] = [10_000, 30_000]
  
+diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+index 95aa133780cdf6772ba6b5466341e0cf2e10daa9..90840eed4d0f6676503e6de5c8d5228ab74c4d7a 100644
+--- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
++++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+@@ -18,7 +18,7 @@ export const claudeAccountUpkeep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A minute passes between one account and the next.",
++      statement: "Two seconds pass between one account and the next.",
+     },
+     {
+       invariantKind: "departure",
