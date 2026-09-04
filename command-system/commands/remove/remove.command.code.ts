@@ -11,7 +11,6 @@ import type { Asked } from "../../asking/asking.module.code.ts"
 import { BREAK_GLASS, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
-import { checkReaches, judgedByNothing } from "../../judged-saying/judged-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
@@ -26,7 +25,6 @@ import {
   pathAt,
 } from "../write/write.command.code.ts"
 import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifesting.module.code.ts"
-import { leftNaming, leftNamingSaid } from "./naming/remove-naming.module.code.ts"
 import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {
   listEntrySpan,
@@ -91,8 +89,6 @@ type Opened = {
   readonly opened: readonly string[]
   readonly under: readonly string[]
   readonly gone: readonly string[]
-  readonly outside: readonly string[]
-  readonly outsideUnder: readonly string[]
 }
 
 function openedIn(
@@ -103,8 +99,6 @@ function openedIn(
   const opened: string[] = []
   const under: string[] = []
   const gone: string[] = []
-  const outside: string[] = []
-  const outsideUnder: string[] = []
   const seen = new Set<string>()
   for (const one of named) {
     const path = pathAt(root, one)
@@ -127,7 +121,6 @@ function openedIn(
       gone.push(path)
       continue
     }
-    if (!checkReaches(path)) outside.push(path)
     if (statSync(at).isFile()) {
       opened.push(path)
       continue
@@ -152,11 +145,10 @@ function openedIn(
       seen.add(file)
       opened.push(file)
       under.push(file)
-      if (!checkReaches(file)) outsideUnder.push(file)
     }
   }
   if (refusals.length > 0) return { refusals }
-  return { opened, under, gone, outside, outsideUnder }
+  return { opened, under, gone }
 }
 
 export type Naming = {
@@ -321,19 +313,11 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const root = resolve(given.root)
   const held = openedIn(root, read.named)
   if ("refusals" in held) return answering([], held.refusals, 1)
-  const beside = besideAll(root, held.opened.filter(checkReaches))
+  const beside = besideAll(root, held.opened)
   const paths = [...held.opened, ...beside].sort()
   const gone = [...held.gone].sort()
   const already = alreadyGone(gone)
   const base = baseOf(root)
-  const naming = leftNaming(
-    root,
-    base,
-    held.outside,
-    held.outsideUnder,
-    new Set([...paths, ...gone])
-  )
-  if ("refusal" in naming) return answering([], [naming.refusal], 1)
   if (paths.length === 0) {
     dropReadings(root, gone)
     return answering(
@@ -364,8 +348,6 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...landed.took.map((one) => `${one} taken away`),
       ...already,
       ...wentWith(held.under, beside, landed.cleared),
-      ...judgedByNothing(held.outside, false),
-      ...leftNamingSaid(held.outside, naming),
       ...mend.closed,
       ...mend.left,
       ...workspacingSaid(spread),

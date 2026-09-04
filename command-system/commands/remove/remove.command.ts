@@ -9,7 +9,7 @@ export const remove = {
   test: "ts",
   testFixtures: "ts",
   changeKindSlug: "change-mechanical",
-  partSlugs: ["module/remove-manifesting", "module/remove-naming", "module/remove-workspacing"],
+  partSlugs: ["module/remove-manifesting", "module/remove-workspacing"],
   taking: [
     { said: "--file-path <path>", takes: "a path anywhere in the repository to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
@@ -19,15 +19,11 @@ export const remove = {
   helpNotes: [
     "--file-path repeats, so several paths go in one commit.",
     "a directory named takes away every file git holds under it.",
-    "the files beside what you name under `akasha/` go with it.",
-    "a path outside `akasha/` goes too, and no check judges one, which the answer says.",
+    "the files beside what you name go with it.",
     "a folder at the top of the repository is refused — name what is inside it.",
     "a page going is taken out of every list that named it, in the same commit.",
     "a name held on its own rather than as a list entry is reported and left alone.",
     "a name in code rather than in a page property is neither found nor reported.",
-    "what a tracked file left behind still names is reported, and nothing here repoints it.",
-    "a file is named for spelling a whole path that goes or a package name a manifest that goes declares.",
-    "a wider sweep for the last part of each path is reported apart, and most of it is unrelated.",
     "a way into a package is dropped where the removal takes the file that way in lands on.",
     "the root manifest stops naming a workspace this empties, and the lockfile is made again.",
     "a root manifest another commit moved while this ran refuses the removal rather than being written over.",
@@ -81,31 +77,6 @@ export const remove = {
     {
       invariantKind: "departure",
       statement: "A folder at the top of the repository is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "No check judges a path outside the `akasha` folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path no check judged is named in the answer.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A file beside a path outside the `akasha` folder is left alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What still names a path outside the `akasha` folder that goes is reported.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file spelling a whole path that goes is reported apart from what a wider sweep reached.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A search that could not run refuses the removal.",
     },
     {
       invariantKind: "absence",
