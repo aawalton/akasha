@@ -36,15 +36,21 @@ index e6c728537b9f25ee90f9d47e0822dc66c968b361..0055e4715ce9abf18921202a30c81793
  export const TEST_SAYS =
    "a test is either the value the key must hold, or a map stating `is`, `in`, `not-in`, `has`, `contains`, `ends-with`, `empty`, `at-or-after` or `before`"
 diff --git a/pages/query-reduce/page-query-reduce.module.code.ts b/pages/query-reduce/page-query-reduce.module.code.ts
-index 101b2bda68280cdbe9402bad163d2dc47c4ecb0a..9174f8ce096f8fdf3f162121903206ff045ce11d 100644
+index 101b2bda68280cdbe9402bad163d2dc47c4ecb0a..b6adb34ba261ee1344839d281e043422a51e8339 100644
 --- a/pages/query-reduce/page-query-reduce.module.code.ts
 +++ b/pages/query-reduce/page-query-reduce.module.code.ts
-@@ -1,4 +1,4 @@
+@@ -1,5 +1,10 @@
 -import type { Row } from "../page-derive-shape/page-derive-shape.module.code.ts"
++<<<<<<< what this change would leave
 +import type { Row } from "../derive-shape/page-derive-shape.module.code.ts"
  import type { PageQuery } from "../page-query-shape/page-query-shape.module.code.ts"
++=======
++import type { Row } from "../page-derive-shape/page-derive-shape.module.code.ts"
++import type { PageQuery } from "../query-shape/page-query-shape.module.code.ts"
++>>>>>>> what HEAD holds
  
  const NUMBER = "number"
+ 
 diff --git a/pages/query-shape/page-query-shape.module.code.ts b/pages/query-shape/page-query-shape.module.code.ts
 index bbc7afba040111d40fbd4784b0eaec3592f7e503..c79a77abb048c7270a60c5df1bc7dc7bb2e73fc9 100644
 --- a/pages/query-shape/page-query-shape.module.code.ts
