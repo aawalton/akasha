@@ -31,6 +31,7 @@ import {
   LINE,
   NUL,
   PAGE,
+  pageRepo,
   pagesRepo,
   REFUSES,
   repoWith,
@@ -356,7 +357,7 @@ test("a carry that will not go puts back the ones that went and commits nothing"
 })
 
 test("a change drafted is kept in the patch and reaches no file and no commit", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A })
+  const root = pageRepo()
   const was = baseOf(root)
   const change = [{ path: "new.txt", body: bytes("proposed") }]
   const said = landing(root, change, "held", ADMITS, null, null, [], [], DRAFT)
@@ -366,10 +367,13 @@ test("a change drafted is kept in the patch and reaches no file and no commit", 
   expect(baseOf(root)).toBe(was)
 })
 
-test("a draft is refused by the checks that refuse a landing, and keeps no patch", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A })
-  const change = [{ path: "new.txt", body: bytes("proposed") }]
-  const said = landing(root, change, "held", REFUSES, null, null, [], [], DRAFT)
-  expect("refusals" in said).toBe(true)
-  expect(patchIn(root, PAGE)).toBeNull()
+test("a check refusing a draft says so over the whole patch and refuses nothing", () => {
+  const root = pageRepo()
+  const a = [{ path: "one.txt", body: bytes("first") }]
+  landing(root, a, "held", ADMITS, null, null, [], [], DRAFT)
+  const b = [{ path: "two.txt", body: bytes("second") }]
+  const said = landing(root, b, "held", REFUSES, null, null, [], [], DRAFT)
+  const refused = "refusals" in said ? [] : said.refused.map((one) => one.path)
+  expect(refused).toEqual(["one.txt", "two.txt"])
+  expect(patchIn(root, PAGE) ?? "").toContain("+second")
 })

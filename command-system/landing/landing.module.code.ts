@@ -55,6 +55,7 @@ export type Drafted = {
   readonly patch: string | null
   readonly clashed: readonly string[]
   readonly judged: readonly string[]
+  readonly refused: readonly Judged[]
 }
 
 const AGAIN_WRITTEN = "nothing was written — read them again against what stands now"
@@ -62,9 +63,6 @@ const AGAIN_WRITTEN = "nothing was written — read them again against what stan
 const AGAIN_DRAFTED = "nothing was drafted — read them again against what stands now"
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
-
-const JUDGED_WHOLE =
-  "nothing was drafted — the patch is judged whole, so every path the patch holds must pass"
 
 const BYTES = new TextEncoder()
 
@@ -302,7 +300,8 @@ function draftedBy(
   named: string | null,
   asRead: readonly AsRead[],
   drafts: readonly Draft[],
-  paths: readonly string[]
+  paths: readonly string[],
+  refused: readonly Judged[]
 ): Drafted | Refused {
   const base = baseOf(root)
   const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
@@ -315,6 +314,7 @@ function draftedBy(
     patch: said.patch,
     clashed: said.clashed,
     judged: paths,
+    refused,
   }
 }
 
@@ -387,16 +387,6 @@ export function landing(
     edits = editsOf(held.held)
   }
   const said = judged(judging, changeOf(root, { base: judgedAt, edits }))
-  if (said.length > 0) {
-    return {
-      refusals: [
-        ...said.map((one) => `${one.path} — ${one.reason}`),
-        drafting === null
-          ? `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`
-          : JUDGED_WHOLE,
-      ],
-    }
-  }
   if (drafting !== null) {
     return draftedBy(
       root,
@@ -405,8 +395,17 @@ export function landing(
       named,
       asRead,
       drafts,
-      edits.map((one) => one.path).sort()
+      edits.map((one) => one.path).sort(),
+      said
     )
+  }
+  if (said.length > 0) {
+    return {
+      refusals: [
+        ...said.map((one) => `${one.path} — ${one.reason}`),
+        `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
+      ],
+    }
   }
   return holding(root, () => {
     const base = baseOf(root)

@@ -61,6 +61,10 @@ export const ID = "01a04e11-0000-7000-8000-000000000001"
 
 export const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
 
+export function pageRepo(): string {
+  return repoWith({ [PAGE]: A })
+}
+
 function typed(
   said: string,
   slug: string,
