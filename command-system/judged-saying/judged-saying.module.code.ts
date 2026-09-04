@@ -4,7 +4,9 @@ export const OUTSIDE_REACH = "no check judges a path outside this checkout"
 
 const NO_PHASE = "no check runs at this phase"
 
-const REFUSED = ", and none refused"
+const NONE_REFUSED = ", and none refused"
+
+const THESE_REFUSED = ", and these refused"
 
 const ASKED = "asked for"
 
@@ -17,9 +19,13 @@ type Said = {
 
 const OVER: Said = { of: ASKED, went: "would go", did: "passed over", tail: "" }
 
-const LANDED: Said = { of: ASKED, went: "landed", did: "judged", tail: REFUSED }
+const LANDED: Said = { of: ASKED, went: "landed", did: "judged", tail: NONE_REFUSED }
 
-const DRAFTED: Said = { of: "the patch would leave", went: "went", did: "judged", tail: REFUSED }
+const LEFT = "the patch would leave"
+
+const DRAFTED: Said = { of: LEFT, went: "went", did: "judged", tail: NONE_REFUSED }
+
+const REFUSING: Said = { of: LEFT, went: "went", did: "judged", tail: THESE_REFUSED }
 
 export function checkReaches(path: string): boolean {
   return !path.startsWith("/") && !path.split("/").includes("..")
@@ -53,4 +59,13 @@ export function judgedBy(count: Counting, checks: number, judged: number, asked:
 
 export function judgedOver(count: Counting, checks: number, judged: number, asked: number): string {
   return saidOf(count, checks, judged, asked, DRAFTED)
+}
+
+export function refusedOver(
+  count: Counting,
+  checks: number,
+  judged: number,
+  asked: number
+): string {
+  return saidOf(count, checks, judged, asked, REFUSING)
 }
