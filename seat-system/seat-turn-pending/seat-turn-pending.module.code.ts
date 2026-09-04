@@ -10,6 +10,7 @@ export const PENDING_KEY = "turn-pending"
 
 export const TURN_PENDING_COMPONENTS = [
   "running-task",
+  "compacting",
   "live-child",
   "send-in-flight",
   "owed",
@@ -36,12 +37,6 @@ function camelOf(slug: string): string {
   return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
 }
 
-// AKASHA HOLDS WHAT A FIELD SAYS AND NOT THE MOMENT IT WAS READ, so every field is stamped with the
-// moment the seat's sidecar there was last written. That is the newest any of them can be.
-//
-// Nothing decides anything on a stamp. `anyPendingRead` asks whether a field stands at all and
-// `pendingOn` asks what it says; the one place the stamp is read is the line `seat show` prints. So
-// what is lost by reading here rather than beside the old page is one rendered time.
 export function pendingOf(agent: string): TurnPending {
   if (agent === "") return {}
   const held = akashaObservedOf(agent)?.[PENDING_KEY]
@@ -62,23 +57,13 @@ export function pendingOf(agent: string): TurnPending {
 export function setPending(
   agent: string,
   values: Partial<Record<TurnPendingComponent, boolean>>
-): void {
-  if (agent === "") return
+): boolean {
+  if (agent === "") return false
   const seatName = seatNameForAgent(agent)
-  if (seatName === null) return
+  if (seatName === null) return false
   const page = seatName
   const at = Date.now()
   const standing = pendingOf(agent)
-  // THE WHOLE RECORD IS HANDED OVER RATHER THAN THE FIELDS THAT CHANGED. Both stores are written
-  // from this one call and they merge at different depths: the old store merges within the key and
-  // keeps what it is not told about, akasha merges at the top of the page and replaces the record
-  // whole. Handing over the fields that changed alone meant something had to put the other fields
-  // back before akasha saw them, and what did that was a read of the old store — which is the one
-  // thing that has to go before a seat can stop being written outside akasha.
-  //
-  // Nothing has to put them back now, because they were never taken away. A field that did not
-  // change is carried at the stamp it already held, so the record says when each field was last
-  // read rather than when this write happened.
   const whole: Record<string, PendingRecord> = { ...standing }
   let changed = false
   for (const component of TURN_PENDING_COMPONENTS) {
@@ -88,11 +73,12 @@ export function setPending(
     whole[component] = { value, at }
     changed = true
   }
-  if (!changed) return
+  if (!changed) return false
   try {
     keepBesideUnder(page, PENDING_KEY, whole)
+    return true
   } catch {
-    return
+    return false
   }
 }
 

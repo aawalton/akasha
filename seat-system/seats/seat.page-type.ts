@@ -30,6 +30,7 @@ export const seat = {
   mortal: true,
   partSlugs: [
     "boolean-property/active-turn",
+    "boolean-property/compacting",
     "boolean-property/live-child",
     "boolean-property/on-call",
     "boolean-property/owed",
