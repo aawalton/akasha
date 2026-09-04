@@ -58,7 +58,7 @@ export const temperWatcher = {
     "module/watcher-export-settings",
     "module/watcher-export-tasks",
     "module/watcher-updating",
-    "module/watcher-auth",
+    "module/watcher-server-url",
     "module/watcher-dispatch-handling",
     "module/watcher-dispatch",
     "module/watcher-main",

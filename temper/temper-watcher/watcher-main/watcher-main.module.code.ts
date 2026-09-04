@@ -1,6 +1,5 @@
 import { existsSync, unwatchFile, watchFile } from "node:fs"
 import { basename } from "node:path"
-import { serverUrlFromEnv } from "../watcher-auth/watcher-auth.module.code.ts"
 import {
   buildConfig as buildConfigFromDisk,
   sourcePathFor,
@@ -20,6 +19,7 @@ import { writeFileAtomicWithRetry } from "../watcher-retry/watcher-retry.module.
 import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import { isSourceRuntime } from "../watcher-runtime/watcher-runtime.module.code.ts"
 import { hashContent } from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+import { serverUrlFromEnv } from "../watcher-server-url/watcher-server-url.module.code.ts"
 import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   looksStructurallyComplete,

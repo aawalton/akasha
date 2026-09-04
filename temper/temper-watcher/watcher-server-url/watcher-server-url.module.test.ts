@@ -14,7 +14,7 @@ import {
   signInLinkUrl,
   timedOutMessage,
   WAITING_MESSAGE,
-} from "./watcher-auth.module.code.ts"
+} from "./watcher-server-url.module.code.ts"
 
 const STATE = "0123456789abcdef"
 const SERVER = "https://tempereso.com"

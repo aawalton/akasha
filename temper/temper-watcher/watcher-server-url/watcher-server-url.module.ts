@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const watcherAuth = {
+export const watcherServerUrl = {
   id: "01a063c7-b010-7ea2-b91f-d479e832a8a3",
   pageTypeSlug: "module",
-  slug: "watcher-auth",
+  slug: "watcher-server-url",
   definition: "how Alan signs the watcher in through a browser",
   code: "ts",
   test: "ts",
