@@ -21,9 +21,9 @@ import {
 } from "@akasha/wan/wan-extend-graph"
 import { buildI2vGraph } from "@akasha/wan/wan-i2v-graph"
 import { parseSizeOrNull } from "@akasha/wan/wan-size"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 const GENERATE = "generate"
 

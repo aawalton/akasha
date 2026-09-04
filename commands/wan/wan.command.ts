@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const wan = {
   id: "01a0680a-9cbf-72f6-b77c-23229fe219ca",

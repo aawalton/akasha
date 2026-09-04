@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../calling/calling.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
 import { at, readIn, wan } from "./wan.command.code.ts"
 
 function given(root: string): Given {
