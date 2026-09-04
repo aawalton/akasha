@@ -84,3 +84,16 @@ index a07c231bc87f32659a013214ec495cb93b73cd60..646869cac4a92a0ae60dd8d8b755887c
      to: keeper,
      from: KEEPER_UNREVIVABLE_SOURCE,
      warrant: "announce",
+diff --git a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
+index cca23d397a9f518301de10463bc24c407e780fe6..2881cee44f9f640b09cc627f043327f9abd6bbf7 100644
+--- a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
++++ b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
+@@ -23,7 +23,7 @@ export function hasRecentInboundMessage(
+   )
+ }
+ 
+-export function sendMessage(input: {
++export async function sendMessage(input: {
+   readonly targetAgentId: string
+   readonly userId: string
+   readonly content: string
