@@ -20,6 +20,11 @@ export const theaChecksSystem = {
     { statement: "The old system carries no check." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
     { statement: "No gap invariant is written on checks-system or any part beneath it." },
+    {
+      statement: "Every page property is in a properties folder for the page type defining it.",
+      workingMemory:
+        "Found while making the parts a spanning tree: the folder holding a property's file and the page type introducing that property disagree in real cases. `category-slug` sits under `monarch-months` while `category-rule` introduces the property; `effect-type` and `metric-id` sit under `temper-catalog-things` while `temper-companion-trait` introduces both. `introduced-property-is-a-part` judges the declaration and says outright that the folder is not judged. No check judges the folder.",
+    },
   ],
   constraints: ["Each check takes one turn per step, and no turn carries two steps."],
 } as const satisfies Initiative
