@@ -8,6 +8,7 @@
     "./shapes": "./shape-reading/shape-reading.module.code.ts",
     "./words": "./word-classing/word-classing.module.code.ts",
     "./dependency-graph": "./dependency-graph/dependency-graph.module.code.ts",
-    "./word-tokenizing": "./word-tokenizing/word-tokenizing.module.code.ts"
+    "./word-tokenizing": "./word-tokenizing/word-tokenizing.module.code.ts",
+    "./shape-predicate": "./shape-predicate/shape-predicate.module.code.ts"
   }
 }

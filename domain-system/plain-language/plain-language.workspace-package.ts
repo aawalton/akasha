@@ -13,6 +13,7 @@ export const plainLanguage = {
     "module/plain-grammar",
     "module/dependency-graph",
     "module/word-tokenizing",
+    "module/shape-predicate",
   ],
   invariants: [
     {
