@@ -29,7 +29,8 @@ export const edit = {
     "the marker blocks repeat, and each is worked in the order stated.",
     "the files standing beside a path given to --remove go with it.",
     "a file has to be what this call read it as, wherever in the repository that file is.",
-    "--draft gates the change as a landing does, then keeps it in the patch beside this agent's page.",
+    "--draft keeps the change in the patch beside this agent's page rather than landing it.",
+    "a draft is warranted as a landing is, and says what the checks refused without refusing.",
   ],
   invariants: [
     {

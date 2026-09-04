@@ -26,7 +26,8 @@ export const write = {
     "a folder at the top of the repository is refused — name what is inside it.",
     "the files standing beside a path given to --remove go with it.",
     "a folder left holding nothing by what --remove takes is cleared off the disk.",
-    "--draft gates the change as a landing does, then keeps it in the patch beside this agent's page.",
+    "--draft keeps the change in the patch beside this agent's page rather than landing it.",
+    "a draft is warranted as a landing is, and says what the checks refused without refusing.",
     "a drafted change is rebased onto HEAD every time the patch is drafted into again.",
   ],
   invariants: [

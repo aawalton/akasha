@@ -14,6 +14,22 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
+      statement: "A draft answers with what the checks refused rather than with a refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count over a draft says whether a check refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count over a draft a check refused leads into what refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch a check refused applies once the paths that patch holds pass.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A count of what was judged names the paths a check reached.",
     },
     {

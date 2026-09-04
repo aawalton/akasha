@@ -31,7 +31,15 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft is gated as a landing is gated.",
+      statement: "A draft runs the checks a landing runs and the warrants a landing runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A warrant refuses a draft as a warrant refuses a landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check refusing says so in the report and the draft is kept either way.",
     },
     {
       invariantKind: "departure",
@@ -68,6 +76,10 @@ export const asking = {
     {
       invariantKind: "departure",
       statement: "A draft says how many paths the patch would leave were judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft names each path a check refused with the reason that check gave.",
     },
     {
       invariantKind: "departure",
@@ -158,24 +170,25 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose slug names no export refuses the change it was handed in with.",
+      statement: "A page whose slug names no export refuses the change carrying that page.",
     },
     {
       invariantKind: "departure",
-      statement: "That refusal stands with the minting rather than among the checks.",
+      statement: "That refusal is made with the minting rather than among the checks.",
     },
     {
       invariantKind: "departure",
-      statement: "A change kind running no check is held to it too.",
+      statement: "A change kind running no check is held to that refusal too.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A body is judged for it only where its file is named for the slug the body states.",
+        "An export name is judged only where a body's file is named for the slug that body states.",
     },
     {
       invariantKind: "absence",
-      statement: "A body holding a page's text in a template is no page and is judged as none.",
+      statement:
+        "A body holding a page's text in a template is no page and is judged for no export name.",
     },
     {
       invariantKind: "gap",

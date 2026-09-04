@@ -231,6 +231,14 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A check refusing over a draft is answered rather than refusing the draft.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft a check refused is kept in the patch as a draft no check refused is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A draft is held to the bodies its writer read as a landing is.",
     },
     {
