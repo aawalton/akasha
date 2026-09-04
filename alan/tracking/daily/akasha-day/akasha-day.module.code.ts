@@ -45,19 +45,6 @@ const ID = "id"
 
 const AKASHA_REPO = "akasha"
 
-/**
- * The verb this funnel writes through, which is not `akasha write`.
- *
- * `write` is `change-authored`: its page names that kind, the kind runs the warrants, and the
- * warrants ask the read record what this process read. A daemon has no read record and can never
- * have one — its `AGENT_ID` names no seat, and where one is fabricated the record it builds is
- * invalidated by its own write, because the row file it is about to write is among the paths the
- * warrant asks it to have read.
- *
- * `tracking` is `change-checked`: composed by a program, owing no reading, and judged by every check
- * that judges a write. The kind is named on the command's page rather than on this call, so nothing
- * here can ask for it and nothing here can widen it.
- */
 const TRACKING = "tracking"
 
 /** The property each kind of row beside a day is declared under. */
