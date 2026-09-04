@@ -33,8 +33,6 @@ export const CONTENT_FILE = "--content-file"
 
 export const REMOVE = "--remove"
 
-const AKASHA = "akasha"
-
 const GIT_DIR = ".git"
 
 const PARTED_BY = "/"
@@ -63,19 +61,6 @@ export function pathAt(root: string, said: string): string | null {
   const rel = relative(resolve(root), full)
   if (rel === "" || isAbsolute(rel) || rel.startsWith("..")) return null
   return rel
-}
-
-export function pathInside(root: string, said: string): string | null {
-  const rel = pathAt(root, said)
-  if (rel === null || !rel.startsWith(`${AKASHA}/`)) return null
-  return rel
-}
-
-export function outside(said: string): string {
-  return (
-    `${said} is not under \`${AKASHA}/\` — a removal here carries the files beside a page, ` +
-    "so say `akasha remove` for a path outside it"
-  )
 }
 
 export function offRepo(said: string): string {
@@ -219,9 +204,9 @@ export function removingIn(
   const mistaken: string[] = []
   const wrong: string[] = []
   for (const one of removals) {
-    const path = pathInside(given.root, one)
+    const path = pathAt(given.root, one)
     if (path === null) {
-      mistaken.push(outside(one))
+      mistaken.push(offRepo(one))
       continue
     }
     if (seen.has(path)) {
