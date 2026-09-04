@@ -1459,7 +1459,7 @@
         "@akasha/health-samples-day": "workspace:*",
       },
     },
-    "story/engine/core": {
+    "story/story-engine-core": {
       "name": "@akasha/story-engine-core",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
@@ -3181,7 +3181,7 @@
 
     "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:status-bar-access"],
 
-    "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
+    "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/story-engine-core"],
 
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:supabase-auth"],
 
