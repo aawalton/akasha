@@ -5,7 +5,7 @@ export const astra = {
   pageTypeSlug: "seat",
   slug: "astra",
   personaSlug: "astra",
-  assignmentSlug: "workspace-package/pages-system",
+  assignmentSlug: "initiative/astra-pages-cleanup",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
