@@ -8,6 +8,11 @@ export const nimueComputedProperties = {
   personaSlug: "nimue",
   intents: [
     {
+      statement: "A page type takes its properties from more than one type.",
+      workingMemory:
+        "441 page type files each state one extendsSlug and each becomes a list. The readers that matter are pages-core/schema/page-type-inheritance, page-types/descent, page-types/declared-properties, indexes/property-carrying, and carriedBy in index-entries, which climbs the chain to settle which file properties a page type carries. Three more readers are in markdown-pages and leave anyway. Unsettled: what happens where two parents declare one property differently.",
+    },
+    {
       statement: "A property states the calculation that fills it.",
       workingMemory:
         "The surface is settled. One export named `work`, typed `Work<Page, Held>`, taking `(page, reach)`. The page hands over stored and computed reads alike, `page.faithPoints` and `page.faithLevel` written the same way, the computed ones lazy getters over the synchronous index. `pages/formula-properties/formula-property.page-type.ts` is what this generalises, and `code-system/modules/module.page-type.ts` hands over code, test and test-fixtures.",
