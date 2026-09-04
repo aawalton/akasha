@@ -5,9 +5,9 @@ export const valeterisa = {
   pageTypeSlug: "temper-account-character",
   slug: "valeterisa",
   title: "Valeterisa",
-  firstName: "Valeterisa",
-  esoCharacterId: "8796093025191233",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 7,
   completion: "json",
+  esoCharacterId: "8796093025191233",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Valeterisa",
 } as const satisfies TemperAccountCharacter
