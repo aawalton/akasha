@@ -72,6 +72,7 @@ export const pagesSystem = {
     "module/shadow",
     "module/akasha-page-values",
     "module/live-store-write-guard",
+    "module/test-run-marking",
     "workspace-package/page-commands",
   ],
   invariants: [

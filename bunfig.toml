@@ -1,7 +1,7 @@
 [test]
 preload = [
   "@akasha/testing-system/dom-guard-setting",
-  "./tools/lib/live-store-write-guard-preload.ts",
+  "@akasha/pages-system/test-run-marking",
 ]
 
 [test.reporter]

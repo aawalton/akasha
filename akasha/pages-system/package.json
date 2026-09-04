@@ -82,6 +82,7 @@
     "./text-property": "./text-properties/text-property.page-type.ts",
     "./url-property": "./url-properties/url-property.page-type.ts",
     "./live-store-write-guard": "./live-store-write-guard/live-store-write-guard.module.code.ts",
+    "./test-run-marking": "./test-run-marking/test-run-marking.module.code.ts",
     "./markdown-property": "./markdown-property/markdown-property.module.code.ts",
     "./markdown-property-stated": "./markdown-property-stated/markdown-property-stated.module.code.ts",
     "./akasha-page-values": "./akasha-page-values/akasha-page-values.module.code.ts",
