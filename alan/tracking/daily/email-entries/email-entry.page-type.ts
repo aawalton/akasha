@@ -26,11 +26,15 @@ export const emailEntry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every day is written down, whether or not the inbox ever reached empty.",
+      statement: "Every day is written down.",
     },
     {
       invariantKind: "departure",
-      statement: "One entry holds one day, and the day the entry is of is the day it names.",
+      statement: "One entry holds one day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day an entry is of is the day the entry names.",
     },
     {
       invariantKind: "departure",
@@ -46,8 +50,11 @@ export const emailEntry = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The tracking entry this stands under has yet to move in, so the entry extends a page directly.",
+      statement: "The tracking entry an email entry sits under has yet to move in.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An email entry extends a page directly.",
     },
   ],
 } as const satisfies PageType

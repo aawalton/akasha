@@ -38,7 +38,7 @@ export const kiBook = {
     },
     {
       invariantKind: "departure",
-      statement: "A book of Ki's names everyone else credited with writing it.",
+      statement: "A book of Ki's names everyone else credited with writing the book.",
     },
   ],
 } as const satisfies PageType
