@@ -8,20 +8,19 @@ export const domainChampioning = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "Every domain has exactly one champion, and every champion exactly one domain.",
+      statement: "Every domain has a champion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No two personas champion one domain.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "A domain naming a persona is championed by her rather than by whoever champions its parent.",
+      statement: "A domain no persona names takes the champion of the domain above.",
     },
     {
-      invariantKind: "gap",
-      statement: "A champion answers for a domain, and any agent may change it without asking her.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Championing descends the parent tree from wherever a persona is named.",
+      invariantKind: "departure",
+      statement: "Any agent may change a domain without asking that domain's champion.",
     },
   ],
 } as const satisfies Domain
