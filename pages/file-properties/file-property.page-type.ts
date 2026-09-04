@@ -1,8 +1,10 @@
 import type { PageProperty } from "../page-properties/page-property.page-type.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { MachineWritten } from "./properties/machine-written.boolean-property.ts"
 import type { RunsFileLength } from "./properties/runs-file-length.boolean-property.ts"
 
 export type FileProperty = PageProperty & {
+  machineWritten?: MachineWritten
   runsFileLength?: RunsFileLength
 }
 
@@ -12,9 +14,12 @@ export const fileProperty = {
   slug: "file-property",
   definition: "a page property held in its own file",
   pluralSlug: "file-properties",
-  partSlugs: ["boolean-property/runs-file-length"],
+  partSlugs: ["boolean-property/machine-written", "boolean-property/runs-file-length"],
   extendsSlug: "page-type/page-property",
-  properties: [{ pagePropertySlug: "runs-file-length", required: false, many: false }],
+  properties: [
+    { pagePropertySlug: "machine-written", required: false, many: false },
+    { pagePropertySlug: "runs-file-length", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

@@ -21,6 +21,18 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
+      statement: "A file a machine writes warrants nothing of itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which files a machine writes is read from the properties naming them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that cannot answer leaves every file warranting itself.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whatever else warrants the file stands unchanged.",
     },
     {
