@@ -1,14 +1,12 @@
 import type { RecordProperty } from "@akasha/pages-system/record-property"
 import type { Compacting } from "./compacting.boolean-property.ts"
-import type { LiveChild } from "./live-child.boolean-property.ts"
+import type { LiveSubagent } from "./live-subagent.boolean-property.ts"
 import type { Owed } from "./owed.boolean-property.ts"
-import type { RunningTask } from "./running-task.boolean-property.ts"
 import type { SendInFlight } from "./send-in-flight.boolean-property.ts"
 
 export type TurnPending = {
-  runningTask: RunningTask
   compacting: Compacting
-  liveChild: LiveChild
+  liveSubagent: LiveSubagent
   sendInFlight: SendInFlight
   owed: Owed
 }
@@ -20,9 +18,8 @@ export const turnPending = {
   propertySlug: "turn-pending",
   definition: "what a seat is waiting on before its turn is done",
   properties: [
-    { pagePropertySlug: "running-task", required: true, many: false },
     { pagePropertySlug: "compacting", required: true, many: false },
-    { pagePropertySlug: "live-child", required: true, many: false },
+    { pagePropertySlug: "live-subagent", required: true, many: false },
     { pagePropertySlug: "send-in-flight", required: true, many: false },
     { pagePropertySlug: "owed", required: true, many: false },
   ],

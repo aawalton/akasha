@@ -9,7 +9,7 @@ export const pendingFromFiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One roster pass answers the live-child component for every seat at once.",
+      statement: "One reading of the roster answers the live-subagent component for every seat.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,11 @@ export const pendingFromFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A child counts against its principal only while its turn is still to come.",
+      statement: "A seat has a live subagent while a subagent page is there under that seat.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page outliving the subagent named on the page reads as a live subagent.",
     },
     {
       invariantKind: "absence",

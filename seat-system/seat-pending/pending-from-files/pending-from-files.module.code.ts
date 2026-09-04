@@ -1,15 +1,12 @@
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import {
   everyRecipient,
   messagesTo,
 } from "../../messaging/message-file/message-file.module.code.ts"
 import { readOwed } from "../../owed-reading/owed-reading.module.code.ts"
-import { principalSeatIdOf } from "../../seat-principal/seat-principal.module.code.ts"
 import { seatsPresent } from "../../seat-roster/seat-roster.module.code.ts"
 import type { TurnPendingComponent } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
-import {
-  seatTurnStateOf,
-  turnStillToCome,
-} from "../../seat-turn-state/seat-turn-state.module.code.ts"
+import { pathsUnder } from "../../subagents/presence/subagent-presence.module.code.ts"
 
 export interface SeatPending {
   readonly seat: string
@@ -28,15 +25,9 @@ export function sendersStandingBlocked(): ReadonlySet<string> {
   return found
 }
 
-export function childrenByPrincipal(): ReadonlyMap<string, number> {
-  const found = new Map<string, number>()
-  for (const one of seatsPresent()) {
-    const principal = principalSeatIdOf(one.id)
-    if (principal === null) continue
-    if (!turnStillToCome(seatTurnStateOf(one.id).state)) continue
-    found.set(principal, (found.get(principal) ?? 0) + 1)
-  }
-  return found
+export function subagentsUnder(seatName: string | null): number {
+  if (seatName === null || seatName === "") return 0
+  return pathsUnder(akashaRoot(), seatName).length
 }
 
 function standsOwed(): boolean {
@@ -45,11 +36,10 @@ function standsOwed(): boolean {
 
 export function pendingFromFiles(): readonly SeatPending[] {
   const blocked = sendersStandingBlocked()
-  const children = childrenByPrincipal()
   return seatsPresent().map((one) => ({
     seat: one.id,
     values: {
-      "live-child": (children.get(one.id) ?? 0) > 0,
+      "live-subagent": subagentsUnder(one.name) > 0,
       "send-in-flight": one.name !== null && blocked.has(one.name),
       owed: standsOwed(),
     },

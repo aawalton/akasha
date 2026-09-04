@@ -31,10 +31,9 @@ export const seat = {
   partSlugs: [
     "boolean-property/active-turn",
     "boolean-property/compacting",
-    "boolean-property/live-child",
+    "boolean-property/live-subagent",
     "boolean-property/on-call",
     "boolean-property/owed",
-    "boolean-property/running-task",
     "boolean-property/send-in-flight",
     "instant-property/context-replaced-at",
     "instant-property/restart-armed-at",

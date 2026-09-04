@@ -9,9 +9,8 @@ import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.modul
 export const PENDING_KEY = "turn-pending"
 
 export const TURN_PENDING_COMPONENTS = [
-  "running-task",
   "compacting",
-  "live-child",
+  "live-subagent",
   "send-in-flight",
   "owed",
 ] as const

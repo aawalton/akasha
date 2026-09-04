@@ -13,7 +13,7 @@ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
     presence: "present" as SeatPresence,
     stamped: null,
     source: null,
-    pending: { "running-task": OFF },
+    pending: { "live-subagent": OFF },
     working: { activeTurn: false },
     reading: null,
     ...over,
@@ -38,7 +38,7 @@ test("a seat whose process is gone is stopped whatever the records say", () => {
   expect(readSeatTurn(kept({ presence: "absent", working: { activeTurn: true } })).state).toBe(
     "stopped"
   )
-  expect(readSeatTurn(kept({ presence: "absent", pending: { "running-task": ON } })).state).toBe(
+  expect(readSeatTurn(kept({ presence: "absent", pending: { "live-subagent": ON } })).state).toBe(
     "stopped"
   )
 })
@@ -52,7 +52,7 @@ test("a seat whose process cannot be read is not stopped for being unreadable", 
 
 test("a working seat is read as working before what the seat waits on is read", () => {
   const read = readSeatTurn(
-    kept({ working: { activeTurn: true }, pending: { "running-task": ON } })
+    kept({ working: { activeTurn: true }, pending: { "live-subagent": ON } })
   )
 
   expect(read.state).toBe("working")
