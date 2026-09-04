@@ -37,6 +37,10 @@ export const seatStating = {
       statement: "A slug no page type carries is addressed as a domain.",
     },
     {
+      invariantKind: "departure",
+      statement: "An assignment naming a page type that carries its slug is not addressed again.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A slug two page types carry cannot be addressed from the slug alone.",
     },

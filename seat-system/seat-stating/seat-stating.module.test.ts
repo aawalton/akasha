@@ -84,6 +84,11 @@ test("a slug two page types carry is addressed under the kind looked in first", 
   expect(assignmentAddressOf("akasha-migration", ROOT)).toBe("domain/akasha-migration")
 })
 
+test("an assignment naming a page type that carries its slug is not addressed again", () => {
+  expect(assignmentAddressOf("persona/akasha", ROOT)).toBe("persona/akasha")
+  expect(assignmentAddressOf("akasha", ROOT)).toBe("domain/akasha")
+})
+
 test("an assignment the page addresses keeps the page type that page names", () => {
   expect(assignmentStatedIn("initiative/akasha-migration", "akasha-migration")).toBe(
     "initiative/akasha-migration"

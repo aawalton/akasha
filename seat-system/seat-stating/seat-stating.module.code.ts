@@ -39,7 +39,13 @@ export function assignedKinds(root: string): readonly string[] {
 }
 
 export function assignmentAddressOf(named: string, root: string): string {
-  for (const kind of assignedKinds(root)) {
+  const kinds = assignedKinds(root)
+  const at = named.indexOf(ADDRESSED)
+  if (at > 0) {
+    const kind = named.slice(0, at)
+    if (kinds.includes(kind) && listedAt(root, kind, named.slice(at + 1)).length > 0) return named
+  }
+  for (const kind of kinds) {
     if (listedAt(root, kind, named).length > 0) return `${kind}/${named}`
   }
   return `${DOMAIN}/${named}`
