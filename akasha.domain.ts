@@ -80,14 +80,6 @@ export const akasha = {
 
     {
       invariantKind: "departure",
-      statement: "The akasha system is the `akasha` subfolder in the `akasha` repo.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The files outside akasha have yet to move in.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Code and data are text.",
     },
     {
