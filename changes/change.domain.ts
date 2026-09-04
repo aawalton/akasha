@@ -47,5 +47,15 @@ export const change = {
         "A command that lands names its own paths for the same reason.",
       ],
     },
+    {
+      directiveKind: "principle",
+      name: "Land In Pieces",
+      act: "Split a change into landings that each stand on their own.",
+      warrant: "A change too large to gather in one sitting is stale before it lands.",
+      aids: [
+        "Make the reader take both shapes first.",
+        "Keep it whole only where half would read wrong.",
+      ],
+    },
   ],
 } as const satisfies Domain
