@@ -13,7 +13,7 @@ export const syncRunRecording = {
     },
     {
       invariantKind: "departure",
-      statement: "A run is recorded as running before the sync it records is started.",
+      statement: "A run is recorded as running before the sync that run records is started.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const syncRunRecording = {
     },
     {
       invariantKind: "departure",
-      statement: "A run that failed an item is a failed run however much else it filed.",
+      statement: "A run that failed an item is a failed run however much else the run filed.",
     },
     {
       invariantKind: "departure",
@@ -39,8 +39,11 @@ export const syncRunRecording = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "This is reached by the wandering inn sync alone, and the great courses and royal road syncs record no run at all.",
+      statement: "Run recording is reached by the wandering inn sync alone.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The great courses and royal road syncs record no run.",
     },
   ],
 } as const satisfies Module

@@ -9,7 +9,7 @@ export const wanderingInnSyncing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The story the chapters are filed under stands before any chapter is read.",
+      statement: "The story the chapters are filed under is there before any chapter is read.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const wanderingInnSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A chapter marked as patron early access, by its title or by what stands on its page, is left.",
+        "A chapter marked as patron early access by its title or by its page body is left.",
     },
     {
       invariantKind: "departure",
@@ -27,8 +27,12 @@ export const wanderingInnSyncing = {
     },
     {
       invariantKind: "departure",
+      statement: "A chapter's title is the page's own title where the page carries a title.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A chapter's title is taken from the page's own title where the page states one, and from the contents listing otherwise.",
+        "A chapter's title is the contents listing's title where the page carries no title.",
     },
     {
       invariantKind: "departure",
@@ -44,20 +48,11 @@ export const wanderingInnSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A run that failed a chapter is a failed run however much else it filed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A run that files nothing is still recorded as a run that happened.",
     },
     {
       invariantKind: "departure",
-      statement: "A run that only says what it would file is not recorded as a run.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Chapters are filed by reaching the pages data directly, as code on the workstation must, rather than through the pages system service.",
+      statement: "A run that only says what the run would file is not recorded as a run.",
     },
   ],
 } as const satisfies Module

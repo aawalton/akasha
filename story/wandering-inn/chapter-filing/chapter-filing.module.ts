@@ -9,11 +9,11 @@ export const chapterFiling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The story a chapter is filed under stands before any chapter is filed.",
+      statement: "The story a chapter is filed under is there before any chapter is filed.",
     },
     {
       invariantKind: "departure",
-      statement: "Exactly one page stands at the story's slug, and two are refused as one is.",
+      statement: "Exactly one page sits at the story's slug.",
     },
     {
       invariantKind: "departure",
@@ -21,8 +21,7 @@ export const chapterFiling = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An answer holding no chapter at all is a broken read rather than an empty shelf, and is refused.",
+      statement: "An answer holding no chapter is a broken read rather than an empty shelf.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +29,7 @@ export const chapterFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter whose url states no day is filed without one rather than refused.",
+      statement: "A chapter whose url states no day is filed without a day rather than refused.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +38,7 @@ export const chapterFiling = {
     {
       invariantKind: "departure",
       statement:
-        "Chapters are filed by reaching the pages data directly, as code on the workstation must, rather than through the pages system service.",
+        "Chapters are filed by reaching the pages data directly rather than through the pages system service.",
     },
   ],
 } as const satisfies Module
