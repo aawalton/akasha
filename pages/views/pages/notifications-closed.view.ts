@@ -6,7 +6,6 @@ export const notificationsClosed = {
   slug: "notifications-closed",
   title: "Closed",
   navSlug: "notifications",
-  drawsSlug: "notification",
   viewPlace: 1,
   layout: "list",
   viewSorts: [{ key: "sent-at", descending: true }],

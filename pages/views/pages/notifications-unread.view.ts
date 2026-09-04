@@ -6,7 +6,6 @@ export const notificationsUnread = {
   slug: "notifications-unread",
   title: "Unread",
   navSlug: "notifications",
-  drawsSlug: "notification",
   viewPlace: 0,
   layout: "list",
   narrows: [{ key: "cover", comparison: "empty", values: ["false"] }],
