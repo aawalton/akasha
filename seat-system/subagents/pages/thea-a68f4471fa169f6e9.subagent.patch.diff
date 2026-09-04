@@ -1,0 +1,30 @@
+diff --git a/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts b/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts
+index 6d151f44e9749382ee4709dc6d49b86acb3e53f0..10fa8060ea41d70a4e98d627ae867808de2b46c0 100644
+--- a/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts
+@@ -44,10 +44,6 @@ interface TextureControl {
+   GetColor: () => LuaMultiReturn<[r: number, g: number, b: number, a: number]>
+ }
+ 
+-interface EditControl {
+-  SelectAll: () => void
+-}
+-
+ declare function zo_min(...values: number[]): number
+ declare function zo_max(...values: number[]): number
+ 
+diff --git a/temper/temper-eso-types/eso-world-map-window/eso-world-map-window.type-declaration.d.ts b/temper/temper-eso-types/eso-world-map-window/eso-world-map-window.type-declaration.d.ts
+index 6cc90e93eb715db1df1d5b509fdc178d8fcdd39d..c98941f9e29095333dd356f02ccb33565bb2ae6d 100644
+--- a/temper/temper-eso-types/eso-world-map-window/eso-world-map-window.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-world-map-window/eso-world-map-window.type-declaration.d.ts
+@@ -2,10 +2,6 @@ interface Control {
+   SetClampedToScreenInsets: (left: number, top: number, right: number, bottom: number) => void
+ }
+ 
+-interface FontObject {
+-  GetFontInfo: () => LuaMultiReturn<[face: string, size: number, option: string]>
+-}
+-
+ declare const CreateFont: (this: void, name: string, definition: string) => FontObject
+ 
+ declare const GetWindowManager: (this: void) => WindowManager
