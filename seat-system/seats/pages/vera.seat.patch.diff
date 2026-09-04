@@ -1,0 +1,188 @@
+diff --git a/context/modules/agent-stated/agent-stated.module.test.ts b/context/modules/agent-stated/agent-stated.module.test.ts
+index c4de062fa95525552f69c9db97eec7fca01606db..3925580b249947a6eb2db6c703e3c495bae31373 100644
+--- a/context/modules/agent-stated/agent-stated.module.test.ts
++++ b/context/modules/agent-stated/agent-stated.module.test.ts
+@@ -1,7 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { writing } from "@akasha/command-system/scratching/testing"
+-import { seatListed } from "../../warranting/warranting.module.test-fixtures.ts"
++import { seatListed } from "../warranting/warranting.module.test-fixtures.ts"
+ import { slugStated, typeStated } from "./agent-stated.module.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts b/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
+index 56449328fd037ea16f7a3ec31b29efca2a243416..b748b23f344b7e24825289ed8b3a54674a5d4b49 100644
+--- a/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
++++ b/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
+@@ -12,7 +12,7 @@ import {
+   seatListed,
+   typedListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { ASSIGNMENT, assignmentItself, WITHIN } from "./assignment-itself.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
+index 4383e3a14d3c527835282890985cb7295b2c9e90..2088b546f69f53b33675ee6963548b5281e58114 100644
+--- a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
++++ b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
+@@ -13,7 +13,7 @@ import {
+   seatListed,
+   typedListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { ABOVE, domainAncestors } from "./domain-ancestors.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/file-domain/file-domain.context-warrant.test.ts b/context/warrants/file-domain/file-domain.context-warrant.test.ts
+index fb074d26d3808d3febd81463a202d748c3d1cbc3..ce8a1669db7d2981137e09bc3e71bb88fa012fd3 100644
+--- a/context/warrants/file-domain/file-domain.context-warrant.test.ts
++++ b/context/warrants/file-domain/file-domain.context-warrant.test.ts
+@@ -12,7 +12,7 @@ import {
+   namesPart,
+   pathsOf,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { fileDomain, WHOLE } from "./file-domain.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/file-import/file-import.context-warrant.test.ts b/context/warrants/file-import/file-import.context-warrant.test.ts
+index 64a449dbc5cbe1b564a79f07695bbc9f1bbd8bb8..735372160e1f5dc64ddd5aa0ef2e06f951f42560 100644
+--- a/context/warrants/file-import/file-import.context-warrant.test.ts
++++ b/context/warrants/file-import/file-import.context-warrant.test.ts
+@@ -8,7 +8,10 @@ import { importIn } from "@akasha/indexes/import"
+ import { entriesFiled, importsTakenFrom, pathFiled, schemaFiled } from "@akasha/indexes/testing"
+ import { mintedId } from "@akasha/testing-system/minting"
+ import { unreadIn, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+-import { pathsOf, warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
++import {
++  pathsOf,
++  warrantsSeeded,
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { fileImport, IMPORTED, importedIn } from "./file-import.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+index fb332ae69ffee46e3aaca97f22ddb5d6917e82d8..5a706b4ca09440547b2366bf2921c3b28712e9f1 100644
+--- a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
++++ b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+@@ -14,7 +14,7 @@ import {
+   pageTypeListed,
+   pathsOf,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
+index ad52476d83a2315a3044dc248b1562b47fdc31f2..e67b7b54ba18fd9935f6437a215847e0685a6fcb 100644
+--- a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
++++ b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
+@@ -7,7 +7,7 @@ import { writing } from "@akasha/command-system/scratching/testing"
+ import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
+ import { mintedId } from "@akasha/testing-system/minting"
+ import { blobAt, knowingIn, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+-import { pathsOf } from "../../warranting/warranting.module.test-fixtures.ts"
++import { pathsOf } from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { filePropertyFile, PAGE, PROPERTY } from "./file-property-file.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/file-property/file-property.context-warrant.test.ts b/context/warrants/file-property/file-property.context-warrant.test.ts
+index 0fd9a078d0c22c598efad54df008a24d6964e595..7c0e59470a99e5a6d86a2678b7b929b7ca925ae7 100644
+--- a/context/warrants/file-property/file-property.context-warrant.test.ts
++++ b/context/warrants/file-property/file-property.context-warrant.test.ts
+@@ -11,7 +11,10 @@ import {
+   unreadIn,
+   type Warrant,
+ } from "../../modules/warranting/warranting.module.code.ts"
+-import { pathsOf, warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
++import {
++  pathsOf,
++  warrantsSeeded,
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { fileProperty, PROPERTY } from "./file-property.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
+index 7763ab834a8222121e2a7a401c3e6da5e740c920..fbf429724148e0ead68b0298d4e47f5a3a2feb86 100644
+--- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
++++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
+@@ -11,7 +11,7 @@ import {
+   pathsOf,
+   seatListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { initiativeAncestors, UNDER } from "./initiative-ancestors.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/person-itself/person-itself.context-warrant.test.ts b/context/warrants/person-itself/person-itself.context-warrant.test.ts
+index 5975e3fc83e4d999379e0a8bfe4a79be407c7058..d37a00dbc78285b52c18f42514b918719b37c300 100644
+--- a/context/warrants/person-itself/person-itself.context-warrant.test.ts
++++ b/context/warrants/person-itself/person-itself.context-warrant.test.ts
+@@ -10,7 +10,7 @@ import {
+   personListed,
+   seatListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { PERSON, personItself } from "./person-itself.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/persona-itself/persona-itself.context-warrant.test.ts b/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
+index 4ecab9df7bff39853a31407d4631e7a267f6fcbe..3e60794ceceb6b98cd471f75c0b3a917f7c30cff 100644
+--- a/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
++++ b/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
+@@ -10,7 +10,7 @@ import {
+   personaListed,
+   seatListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { PERSONA, personaItself } from "./persona-itself.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
+index 0b26a03b163498fed609134c2e2f8bdea5060d52..9bd06f555a760448993eaba392e46341e877bdab 100644
+--- a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
++++ b/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
+@@ -15,7 +15,7 @@ import {
+   personaListed,
+   seatListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { PERSONA_TYPE, personaPageType } from "./persona-page-type.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/role-itself/role-itself.context-warrant.test.ts b/context/warrants/role-itself/role-itself.context-warrant.test.ts
+index 31133b2efcbae597c162dbf80569c27985ce5e75..17fb527546fab97ef81e7f49deecf92af6abb345 100644
+--- a/context/warrants/role-itself/role-itself.context-warrant.test.ts
++++ b/context/warrants/role-itself/role-itself.context-warrant.test.ts
+@@ -10,7 +10,7 @@ import {
+   roleListed,
+   seatListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { ROLE, roleItself } from "./role-itself.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
+diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts b/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
+index da8692a1fa8d4750703b75576d807d21d4402245..4d20fa970f363cc25b704e00efad44e9bd700d9e 100644
+--- a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
++++ b/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
+@@ -15,7 +15,7 @@ import {
+   roleListed,
+   seatListed,
+   warrantsSeeded,
+-} from "../../warranting/warranting.module.test-fixtures.ts"
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+ import { ROLE_TYPE, rolePageType } from "./role-page-type.context-warrant.code.ts"
+ 
+ const scratch = scratchWorld()
