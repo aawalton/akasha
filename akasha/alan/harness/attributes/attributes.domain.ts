@@ -6,6 +6,7 @@ export const attributes = {
   slug: "attributes",
   definition: "the points Alan's daily upkeep habits earned him on a day",
   partSlugs: [
+    "module/attributes-reading",
     "workstation-service/attributes-reading-service",
     "workstation-service/attributes-relay-service",
   ],
