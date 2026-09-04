@@ -62,7 +62,7 @@
     "./page-query-reduce": "./query-reduce/page-query-reduce.module.code.ts",
     "./page-query-request": "./query-request/page-query-request.module.code.ts",
     "./page-query-shape": "./query-shape/page-query-shape.module.code.ts",
-    "./page-query-values": "./page-query-values/page-query-values.module.code.ts",
+    "./page-query-values": "./query-values/page-query-values.module.code.ts",
     "./page-secret": "./secret/page-secret.module.code.ts",
     "./page-type": "./page-types/page-type.page-type.ts",
     "./page-type-descent": "./page-types/descent/page-type-descent.module.code.ts",
