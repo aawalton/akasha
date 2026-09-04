@@ -1,3 +1,16 @@
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..50098a62d46ac4bb6daadedf5648be83b1e57792 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -8,7 +8,7 @@ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+ import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
+ import type { Shadow } from "@akasha/pages-system/shadow"
+ import { isMissing } from "@akasha/utils-fs/missing"
+-import type { Judged, Running } from "../judging/judging.module.code.ts"
++import type { AnyRunning, Judged, Running } from "../judging/judging.module.code.ts"
+ 
+ export type Body = {
+   readonly root: string
 diff --git a/checks/modules/judging/judging.module.code.ts b/checks/modules/judging/judging.module.code.ts
 index 36d65a989a5d546f8bbc16b5a4feadd8a04fa2d1..a63ca082e6ad73dd079f3f6f8e8c00f710eb70de 100644
 --- a/checks/modules/judging/judging.module.code.ts
