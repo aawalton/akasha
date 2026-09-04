@@ -6,7 +6,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Shadow, shadowAsked } from "@akasha/pages-system/shadow"
-import { type Input, insideOf } from "../change-walking/change-walking.module.code.ts"
+import type { Input } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Judging, Running } from "../judging/judging.module.code.ts"
 import { modelChecksIn } from "../model-running/model-running.module.code.ts"
 
@@ -197,12 +197,8 @@ function threw(one: Gathered, thrown: unknown): Judged {
 export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
-    checksFor: (given) => {
-      const change = insideOf(given)
-      return checksFor(every, change, shadowAsked(change)).map((one) => one.slug)
-    },
-    over: (given) => {
-      const change = insideOf(given)
+    checksFor: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
+    over: (change) => {
       const left = checksLeftBy(every, change)
       const first = every[0]
       if (left.length === 0 && first !== undefined) {
