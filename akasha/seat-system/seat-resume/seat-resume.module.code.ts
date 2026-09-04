@@ -31,7 +31,7 @@ import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeove
 import { setTurnState } from "@akasha/seat-system/turn-records"
 import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
 import { shape } from "@akasha/utils-narrow/shape"
-import { parseWindowDuration } from "@tools/lib/active-core"
+import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
 
 const DEFAULT_VERIFY_GRACE_MS = 30_000
 

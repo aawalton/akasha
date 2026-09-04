@@ -1,5 +1,5 @@
 import { everyRecipient, messagesTo } from "@tools/lib/message-file"
-import { readOwed } from "@tools/lib/owed-read"
+import { readOwed } from "../../owed-reading/owed-reading.module.code.ts"
 import { principalSeatIdOf } from "../../seat-principal/seat-principal.module.code.ts"
 import { seatsPresent } from "../../seat-roster/seat-roster.module.code.ts"
 import type { TurnPendingComponent } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
