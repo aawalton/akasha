@@ -1,4 +1,4 @@
-import { type LogicalModel, toWireId } from "@tools/lib/model-vocab"
+import { type LogicalModel, toWireId } from "@akasha/agents/model-vocab"
 import { conductIn } from "../turn-end-conduct/turn-end-conduct.module.code.ts"
 import {
   evidenceFrom,

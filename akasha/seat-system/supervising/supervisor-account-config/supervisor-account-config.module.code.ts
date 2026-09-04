@@ -1,4 +1,4 @@
-import { parseModel, toCliAlias } from "@tools/lib/model-vocab"
+import { parseModel, toCliAlias } from "@akasha/agents/model-vocab"
 import { readSeatConditions } from "../../seat-conditions-reading/seat-conditions-reading.module.code.ts"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 

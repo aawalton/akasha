@@ -82,7 +82,7 @@ export const extendedContextModel = {
     },
     {
       invariantKind: "gap",
-      statement: "The marker is spelled here rather than read off `tools/lib/model-vocab.ts`.",
+      statement: "The marker is spelled here rather than read off `@akasha/agents/model-vocab`.",
     },
   ],
 } as const satisfies Module
