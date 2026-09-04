@@ -8,7 +8,6 @@ import type { DomainSettled } from "./properties/domain-settled.boolean-property
 import type { Expands } from "./properties/expands.boolean-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"
 import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
-import type { PersonaChampionSlug } from "./properties/persona-champion-slug.relation-property.ts"
 import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
 
 export type Domain = Page & {
@@ -21,7 +20,6 @@ export type Domain = Page & {
   sequenceSlugs?: DomainSequenceSlugs
   settled?: DomainSettled
   expands?: Expands
-  personaChampionSlug?: PersonaChampionSlug
 }
 
 export const domain = {
@@ -63,7 +61,6 @@ export const domain = {
     { pagePropertySlug: "domain-sequence-slugs", required: false, many: true, max: 20 },
     { pagePropertySlug: "domain-settled", required: false, many: false },
     { pagePropertySlug: "expands", required: false, many: false },
-    { pagePropertySlug: "persona-champion-slug", required: false, many: false },
   ],
   invariants: [
     {
