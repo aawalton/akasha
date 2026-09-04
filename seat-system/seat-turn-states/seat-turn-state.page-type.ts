@@ -16,7 +16,6 @@ export const seatTurnState = {
   partSlugs: [
     "relation-property/turn-state-color-slug",
     "seat-turn-state/idle",
-    "seat-turn-state/idle-pending",
     "seat-turn-state/stopped",
     "seat-turn-state/working",
   ],
