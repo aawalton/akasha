@@ -35,3 +35,23 @@ index 63491ff779b633042959a0614012d753f6997a23..4597a0e7b26f2fc220f8307ae620978d
          properties: declares.map((one) => ({ pagePropertySlug: one })),
        },
      },
+diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
+index b332607e44a95b14b5475b8a607076c27c853e73..62b29ee347a52c1b423265613cd7a542264fe358 100644
+--- a/checks/modules/check-scratch/check-scratch.module.ts
++++ b/checks/modules/check-scratch/check-scratch.module.ts
+@@ -57,6 +57,15 @@ export const checkScratch = {
+       invariantKind: "absence",
+       statement: "No test is written here.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "What a page type declares is read from its value, so typing one files that value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type files the types above it as a list, empty where it names none.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "What stands here is stood up by the check tests that reach for what is here.",
