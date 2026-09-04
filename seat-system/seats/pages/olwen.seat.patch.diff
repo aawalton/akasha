@@ -1,0 +1,14 @@
+diff --git a/pages/indexes/index-reading/index-reading.module.ts b/pages/indexes/index-reading/index-reading.module.ts
+index bb9f4e614d19675bdba6eb5c5ce66874c32a2714..75e43c219ec1b84dab7e27eeb6b274e0ed3970b5 100644
+--- a/pages/indexes/index-reading/index-reading.module.ts
++++ b/pages/indexes/index-reading/index-reading.module.ts
+@@ -75,7 +75,8 @@ export const indexReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What imports a file is refused when the index does not describe HEAD.",
++      statement:
++        "What imports a file is refused when the index and HEAD differ in a path that makes an edge.",
+     },
+     {
+       invariantKind: "departure",
