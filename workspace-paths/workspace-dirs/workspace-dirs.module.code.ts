@@ -10,15 +10,20 @@ const ONE_SUFFIX = "/*"
 
 const DEEP_SUFFIX = "/**"
 
+const DEEP_ALONE = "**"
+
+const HIDDEN = "."
+
 const LINKED_FOLDER = "node_modules"
 
 function unsupported(entry: string): Error {
   return new Error(
-    `listWorkspaceDirs: unsupported workspaces glob "${entry}" — only trailing "/*" and "/**" segments are expanded today`
+    `listWorkspaceDirs: unsupported workspaces glob "${entry}" — only a bare "**" and trailing "/*" and "/**" segments are expanded today`
   )
 }
 
 function deepPrefixIn(entry: string): string | null {
+  if (entry === DEEP_ALONE) return ""
   if (!entry.endsWith(DEEP_SUFFIX)) return null
   const prefix = entry.slice(0, -DEEP_SUFFIX.length)
   if (prefix.includes("*")) throw unsupported(entry)
@@ -36,13 +41,17 @@ function parseTrailingStarGlob(entry: string): { prefix: string; depth: number }
   return { prefix, depth }
 }
 
+function walkedInto(name: string): boolean {
+  return name !== LINKED_FOLDER && !name.startsWith(HIDDEN)
+}
+
 function foldersBelow(repoRoot: string, prefix: string): readonly string[] {
   const found: string[] = []
   const abs = join(repoRoot, prefix)
   if (!existsSync(abs)) return found
   for (const child of readdirSync(abs, { withFileTypes: true })) {
-    if (!child.isDirectory() || child.name === LINKED_FOLDER) continue
-    const rel = `${prefix}/${child.name}`
+    if (!child.isDirectory() || !walkedInto(child.name)) continue
+    const rel = prefix === "" ? child.name : `${prefix}/${child.name}`
     found.push(rel)
     found.push(...foldersBelow(repoRoot, rel))
   }
@@ -76,6 +85,7 @@ function workspaceGlobCovers(entry: string, relPath: string): boolean {
   if (!entry.includes("*")) return false
   const deep = deepPrefixIn(entry)
   if (deep !== null) {
+    if (deep === "") return relPath !== ""
     const under = `${deep}/`
     return relPath.startsWith(under) && relPath.slice(under.length) !== ""
   }

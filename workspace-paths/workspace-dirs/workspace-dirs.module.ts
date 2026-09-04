@@ -19,6 +19,10 @@ export const workspaceDirs = {
     },
     {
       invariantKind: "departure",
+      statement: "A doubled star carrying no prefix is expanded from the repository root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A glob of any other shape is thrown on.",
     },
     {
@@ -28,6 +32,10 @@ export const workspaceDirs = {
     {
       invariantKind: "departure",
       statement: "A folder of linked packages is left out of a doubled star expansion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder whose name opens with a dot is left out of a doubled star expansion.",
     },
   ],
 } as const satisfies Module

@@ -75,3 +75,36 @@ test("a single star covers only a path one folder down", () => {
   expect(isCoveredByWorkspaceGlob(["infra/*"], "infra/scripts")).toBe(true)
   expect(isCoveredByWorkspaceGlob(["infra/*"], "infra/scripts/src")).toBe(false)
 })
+
+test("a doubled star carrying no prefix is expanded from the repository root", () => {
+  const root = rootWith(["**"])
+  packageAt(root, "temper")
+  packageAt(root, "temper/temper-lib-table-functions")
+  packageAt(root, "language-design/lua-compiler")
+  expect(listWorkspaceDirs(root)).toEqual([
+    "language-design/lua-compiler",
+    "temper",
+    "temper/temper-lib-table-functions",
+  ])
+})
+
+test("a doubled star carrying no prefix leaves out a folder whose name opens with a dot", () => {
+  const root = rootWith(["**"])
+  packageAt(root, "temper")
+  packageAt(root, ".git/data/one")
+  packageAt(root, "temper/.cache/two")
+  expect(listWorkspaceDirs(root)).toEqual(["temper"])
+})
+
+test("a doubled star carrying no prefix leaves out the folder of linked packages", () => {
+  const root = rootWith(["**"])
+  packageAt(root, "temper")
+  packageAt(root, "node_modules/@akasha/temper-lib-async")
+  expect(listWorkspaceDirs(root)).toEqual(["temper"])
+})
+
+test("a doubled star carrying no prefix covers every path below the root", () => {
+  expect(isCoveredByWorkspaceGlob(["**"], "temper")).toBe(true)
+  expect(isCoveredByWorkspaceGlob(["**"], "temper/temper-lib-async")).toBe(true)
+  expect(isCoveredByWorkspaceGlob(["**"], "")).toBe(false)
+})
