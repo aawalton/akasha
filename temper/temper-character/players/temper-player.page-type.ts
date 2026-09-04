@@ -1,10 +1,12 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { CompletionVisibility } from "./properties/completion-visibility.text-property.ts"
+import type { PlayerHandle } from "./properties/player-handle.text-property.ts"
 import type { Settings } from "./properties/settings.file-property.ts"
 
 export type TemperPlayer = TemperCharacterThing & {
   completionVisibility: CompletionVisibility
+  handle?: PlayerHandle
   settings?: Settings
 }
 
@@ -18,10 +20,11 @@ export const temperPlayer = {
   partSlugs: [
     "file-property/settings",
     "text-property/completion-visibility",
-    "text-property/handle",
+    "text-property/player-handle",
   ],
   properties: [
     { pagePropertySlug: "completion-visibility", required: true, many: false },
+    { pagePropertySlug: "player-handle", required: false, many: false },
     { pagePropertySlug: "settings", required: false, many: false },
   ],
 } as const satisfies PageType
