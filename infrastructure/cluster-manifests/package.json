@@ -37,7 +37,7 @@
     "./pgbouncer-exporter-manifests": "./pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts",
     "./pgbouncer-rbac": "./pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
     "./pod-janitor-rbac": "./pod-janitor-rbac/pod-janitor-rbac.module.code.ts",
-    "./postgres-exporter-manifests": "./postgres-exporter-manifests/postgres-exporter-manifests.module.code.ts",
+    "./postgres-exporter-manifests": "./postgres-exporter-manifests/postgres-exporter-manifests.manifest.code.ts",
     "./postgres-rbac": "./postgres-rbac/postgres-rbac.module.code.ts",
     "./postgrest-rbac": "./postgrest-rbac/postgrest-rbac.module.code.ts",
     "./prometheus-constants": "./prometheus-constants/prometheus-constants.module.code.ts",

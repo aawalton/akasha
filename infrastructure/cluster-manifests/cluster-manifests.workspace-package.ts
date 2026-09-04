@@ -46,7 +46,7 @@ export const clusterManifests = {
     "manifest/pgbouncer-exporter-manifests",
     "module/pgbouncer-rbac",
     "module/pod-janitor-rbac",
-    "module/postgres-exporter-manifests",
+    "manifest/postgres-exporter-manifests",
     "module/postgres-rbac",
     "module/postgrest-rbac",
     "module/prometheus-config",
