@@ -13,6 +13,7 @@ export type CodeCheck = Module & {
   runsOnWorktree: RunsOnWorktree
   runsOnDeploy: RunsOnDeploy
   runsOnAudit: RunsOnAudit
+  entries?: Entries
 }
 
 export const codeCheck = {
