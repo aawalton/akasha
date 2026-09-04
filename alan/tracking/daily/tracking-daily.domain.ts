@@ -41,7 +41,6 @@ export const trackingDaily = {
     "module/air-quality-command",
     "module/cardio-sync",
     "module/nutrition-sync",
-    "module/recompute-totals",
     "module/strength-sync",
     "module/task-sync",
     "module/words-sync",
