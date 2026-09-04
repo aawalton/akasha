@@ -278,6 +278,7 @@ export const seatSystem = {
     "module/supervisor-proxy-liveness",
     "module/alert-recipient-decide",
     "module/blocked-principal-decide",
+    "module/compose-boot",
     "module/domain-lead-decide",
     "module/seat-wake-match-decide",
     "module/seat-wake-rules",
@@ -323,6 +324,7 @@ export const seatSystem = {
     "module/launch-flags",
     "module/tool-access",
     "module/message-file-watch",
+    "module/run-supervisor",
     "module/seat-turn-color",
   ],
   invariants: [
