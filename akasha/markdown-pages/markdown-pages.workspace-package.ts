@@ -25,6 +25,7 @@ export const markdownPages = {
     "module/markdown-page-commit-queue",
     "module/markdown-page-compare",
     "module/markdown-page-declared",
+    "module/markdown-deriver-hold",
     "module/markdown-page-derive",
     "module/markdown-page-derive-backing",
     "module/markdown-page-derive-formula",

@@ -11,11 +11,11 @@ interface HeldDeriver {
 
 const held = new Map<string, HeldDeriver>()
 
-export function holdDerivers(ttlMs: number): void {
+export function holdDerivers(ttlMs: number): undefined {
   deriverTtlMs = ttlMs
 }
 
-export function dropDerivers(): void {
+export function dropDerivers(): undefined {
   held.clear()
 }
 

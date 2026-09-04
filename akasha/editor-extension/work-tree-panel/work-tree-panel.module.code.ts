@@ -1,4 +1,4 @@
-import { dropDerivers } from "@tools/lib/deriver-hold"
+import { dropDerivers } from "@akasha/markdown-pages/deriver-hold"
 import * as vscode from "vscode"
 import { repositoryPath, unreachableMessage } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"

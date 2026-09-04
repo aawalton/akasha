@@ -1,3 +1,4 @@
+import { dropDerivers } from "@akasha/markdown-pages/deriver-hold"
 import { comparedResponse } from "@akasha/markdown-pages/page-compare"
 import { patchRows, removeRow, writeRows } from "@akasha/markdown-pages/page-rows-write"
 import {
@@ -21,7 +22,6 @@ import {
   said,
 } from "@akasha/pages-system/page-query-request"
 import { reaching, revived } from "@akasha/seat-system/message-reach-write"
-import { dropDerivers } from "./deriver-hold.ts"
 
 export const WRITE_ROUTE =
   /^\/(write-row|patch-row|remove-row|write|patch-if|patch-state|patch|remove)\/([a-z0-9-]+)\/(.+)$/
