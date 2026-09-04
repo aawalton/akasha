@@ -8,7 +8,7 @@ export const noIndexPathSpelled = {
     "the check refusing a file outside the indexes folder that spells a path into the index",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

@@ -8,7 +8,7 @@ export const manifestNamesWhatIsReached = {
     "the check holding a package's dependencies and the packages its own code reaches to one set",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

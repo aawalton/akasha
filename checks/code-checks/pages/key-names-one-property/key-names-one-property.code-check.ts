@@ -9,7 +9,7 @@ export const keyNamesOneProperty = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,

@@ -7,7 +7,7 @@ export const restatementNarrowsSomething = {
   definition: "the check refusing a restatement of an inherited property that narrows nothing",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

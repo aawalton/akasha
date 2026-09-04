@@ -9,7 +9,7 @@ export const relationResolves = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

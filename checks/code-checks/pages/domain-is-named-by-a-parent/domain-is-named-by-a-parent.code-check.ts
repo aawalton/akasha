@@ -7,7 +7,7 @@ export const domainIsNamedByAParent = {
   definition: "the check refusing a domain that no other page names among its parts",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,

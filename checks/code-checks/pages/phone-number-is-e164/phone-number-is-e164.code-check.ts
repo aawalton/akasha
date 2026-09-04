@@ -7,7 +7,7 @@ export const phoneNumberIsE164 = {
   definition: "the check refusing a phone number that is not written in E.164",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

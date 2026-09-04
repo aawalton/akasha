@@ -7,7 +7,7 @@ export const identifierMatchesItsPlace = {
   definition: "the check refusing a declared name not written in the format its place states",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

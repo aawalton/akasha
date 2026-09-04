@@ -7,7 +7,7 @@ export const noTmp = {
   definition: "the check refusing a reach for /tmp, where no scratch of ours stands",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

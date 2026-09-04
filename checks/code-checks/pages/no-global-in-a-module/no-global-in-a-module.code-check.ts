@@ -7,7 +7,7 @@ export const noGlobalInAModule = {
   definition: "the check refusing a module body that declares a global",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

@@ -7,7 +7,7 @@ export const declarationsAgree = {
   definition: "the check refusing a declaration file another declaration file contradicts",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

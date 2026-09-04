@@ -7,7 +7,7 @@ export const noSecondSpellingOfANameFormat = {
   definition: "the check refusing a regex spelling the shape a name format states",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

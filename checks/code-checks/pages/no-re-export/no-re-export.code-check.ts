@@ -7,7 +7,7 @@ export const noReExport = {
   definition: "the check refusing a file that exports a name it did not declare itself",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,

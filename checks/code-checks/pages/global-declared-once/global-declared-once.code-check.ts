@@ -7,7 +7,7 @@ export const globalDeclaredOnce = {
   definition: "the check refusing a global name a module body and a declaration file both declare",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: true,
