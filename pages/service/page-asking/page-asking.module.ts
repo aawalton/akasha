@@ -172,8 +172,8 @@ export const pageAsking = {
       statement: "A name that is no page type is shaped as nothing rather than refused.",
     },
     {
-      invariantKind: "absence",
-      statement: "A shape states no owner.",
+      invariantKind: "departure",
+      statement: "A shape states the owner the nearest page type above it names.",
     },
     {
       invariantKind: "absence",
