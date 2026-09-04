@@ -4,7 +4,7 @@ export const twoTierVocabulariesStandAndTheNarrowerOneRefusesTheWiderScale = {
   id: "01a0687b-de90-7002-9871-fd234bf619aa",
   pageTypeSlug: "finding",
   slug: "two-tier-vocabularies-stand-and-the-narrower-one-refuses-the-wider-scale",
-  domainSlug: "domain/tracking-daily",
+  domainSlug: "domain/surplus",
   claim:
     "`tools/lib/surplus-fall/tier.ts` and `akasha/readout-system/readout-tier` are the same vocabulary rebuilt with different membership: five tier colours against six. Both are live and read the same akasha `readout-scale` pages. The narrower one does not misplace a rung it does not know — it throws — so the surplus-fall notifier fails closed on any scale that states an orange rung, and one such scale already stands.",
   evidence:
