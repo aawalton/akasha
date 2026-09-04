@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
-index 1c6d775bb548d76e6302adc481c45f050199ffb6..e1785e5f87384e7d64f34a49284e763cc1165172 100644
+index 1c6d775bb548d76e6302adc481c45f050199ffb6..e1dc72307b58b3a46ad0011b01b0a03793908d64 100644
 --- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
 +++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
 @@ -4,7 +4,7 @@ import { servedOf } from "@akasha/code-system/code-typing"
@@ -20,6 +20,42 @@ index 1c6d775bb548d76e6302adc481c45f050199ffb6..e1785e5f87384e7d64f34a49284e763c
    const roots = rootsOf(change, shadow.index)
    if (roots.length === 0) return []
    const root = resolve(change.root)
+@@ -99,27 +99,29 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
+     fs: { readFile, fileExists: (name) => (name === at ? true : undefined) },
+   })
+   try {
+-    const project = api.updateSnapshot({ openProjects: [at] }).getProject(at)
++    const snapshot = await api.updateSnapshot({ openProjects: [at] })
++    const project = await snapshot.getProject(at)
+     if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
+     const found: Found[] = []
++    const program = await project.program
+     for (const one of roots) {
+       const file = join(root, one)
+-      for (const said of project.program.getSyntacticDiagnostics(file))
++      for (const said of await program.getSyntacticDiagnostics(file))
+         found.push(foundOf(root, said))
+-      for (const said of project.program.getSemanticDiagnostics(file))
++      for (const said of await program.getSemanticDiagnostics(file))
+         found.push(foundOf(root, said))
+     }
+     return found
+   } finally {
+-    api.close()
++    await api.close()
+   }
+ }
+ 
+-function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
++async function refusalsIn(change: Change, shadow: Shadow): Promise<readonly Judged[]> {
+   const changed = new Set(change.changed)
+   const seen = new Set<string>()
+   const said: Judged[] = []
+-  for (const one of foundIn(change, shadow)) {
++  for (const one of await foundIn(change, shadow)) {
+     const key = `${one.path}\n${one.reason}`
+     if (seen.has(key)) continue
+     seen.add(key)
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
 index 68f0684863f2d5920eb4ea2d9cf4ed49db7cb8c7..c783af7ab779558298f8c83b857c2bc135ad49fa 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
