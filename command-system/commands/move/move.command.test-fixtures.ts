@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { warrantsSeeded } from "@akasha/context-system/warranting/testing"
+import { warrantsSeeded } from "@akasha/context/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedAt, namersOf } from "@akasha/indexes"
 import {

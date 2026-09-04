@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { warrantedIn } from "@akasha/context-system/warranting"
+import { warrantedIn } from "@akasha/context/warranting"
 import { bytesAt, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "../../differing/differing.module.code.ts"

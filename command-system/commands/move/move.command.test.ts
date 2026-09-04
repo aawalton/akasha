@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { unreadIn } from "@akasha/context-system/warranting"
+import { unreadIn } from "@akasha/context/warranting"
 import { refusing } from "@akasha/testing-system/minting"
 import { there } from "@akasha/testing-system/putting"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"

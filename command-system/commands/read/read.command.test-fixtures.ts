@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { SEEDED_AT } from "@akasha/context-system/warranting/testing"
+import { SEEDED_AT } from "@akasha/context/warranting/testing"
 import { listedFiled } from "@akasha/indexes/testing"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { mintedId } from "@akasha/testing-system/minting"

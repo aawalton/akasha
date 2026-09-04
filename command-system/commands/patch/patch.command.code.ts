@@ -1,5 +1,5 @@
 import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
-import { agentPathOf } from "@akasha/context-system/warranting"
+import { agentPathOf } from "@akasha/context/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { applied } from "../../applying/applying.module.code.ts"
 import {

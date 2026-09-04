@@ -10,7 +10,7 @@ export const veraContextCleanup = {
     {
       statement: "All context files are organized in the context/ folder.",
       workingMemory:
-        'The folder and the package are both named `context-system` today, so this intent asks for the rename the graph package took from `graph-system` to `graph`. Nothing outside holds a context page: the one file elsewhere spelling `pageTypeSlug: "context-warrant"` is `read.command.test-fixtures.ts`, which builds a warrant for a test rather than standing as one. Eight files across `command-system` import `@akasha/context-system`.',
+        'The folder and the package are both named `context-system` today, so this intent asks for the rename the graph package took from `graph-system` to `graph`. Nothing outside holds a context page: the one file elsewhere spelling `pageTypeSlug: "context-warrant"` is `read.command.test-fixtures.ts`, which builds a warrant for a test rather than standing as one. Eight files across `command-system` import `@akasha/context`.',
     },
     {
       statement: "The context folder tree passes the folder-matches-a-shape check.",

@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/context-system",
+  "name": "@akasha/context",
   "private": true,
   "type": "module",
   "exports": {

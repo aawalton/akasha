@@ -571,7 +571,7 @@
       },
     },
     "context": {
-      "name": "@akasha/context-system",
+      "name": "@akasha/context",
     },
     "day": {
       "name": "@akasha/day",
@@ -2995,7 +2995,7 @@
 
     "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 
-    "@akasha/context-system": ["@akasha/context-system@workspace:context"],
+    "@akasha/context": ["@akasha/context@workspace:context"],
 
     "@akasha/day": ["@akasha/day@workspace:day"],
 
