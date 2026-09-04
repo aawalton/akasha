@@ -4,7 +4,7 @@ export const mostWaysIntoPagesUiComponentsAreTakenOnlyFromInside = {
   id: "01a06243-3095-710f-bb2f-2d677b6ae0d8",
   pageTypeSlug: "finding",
   slug: "most-ways-into-pages-ui-components-are-taken-only-from-inside",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/components",
   claim:
     "A subpath pattern cannot land in akasha, so patterns cannot relieve `@akasha/pages-ui-components`. `package-manifest` reads a pattern target as an ordinary one and `manifest-lands-on-a-file` then asks that target to be a file, so `./view-engine/*` is refused for landing on a literal `*`. The weight sits elsewhere: 127 of the manifest's 144 ways in are reached only from inside the package, and those lines are 12,170 of its 14,570 bytes.",
   evidence:
