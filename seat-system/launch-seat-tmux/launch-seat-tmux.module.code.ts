@@ -145,10 +145,10 @@ export async function holdSeatPaneOpen(name: string): Promise<boolean> {
   return true
 }
 
-function sweepSubagentPagesOf(agentId: string): undefined {
+async function sweepSubagentPagesOf(agentId: string): Promise<undefined> {
   let why: string
   try {
-    const swept = removeSubagentPagesOf(agentId, "was started again")
+    const swept = await removeSubagentPagesOf(agentId, "was started again")
     if (swept.kind !== "refused") return
     why = swept.detail
   } catch (cause) {
@@ -165,7 +165,7 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
   if (!(await sessionHolds(name))) return false
   const pane = await paneOf(name)
   if (pane === null) return false
-  sweepSubagentPagesOf(opts.agentId)
+  await sweepSubagentPagesOf(opts.agentId)
 
   const cmd = buildSupervisorCmd(akashaRoot(), opts)
   const line = shellQuoted([...envScrubArgv(), `AGENT_ID=${opts.agentId}`, ...cmd])
@@ -216,7 +216,7 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
     )
   }
 
-  sweepSubagentPagesOf(opts.agentId)
+  await sweepSubagentPagesOf(opts.agentId)
 
   const scopeUnit = (await serverIsUp()) ? null : `tmux-seat-${name}-${Date.now()}`
   const cmd = buildSupervisorCmd(akashaRoot(), opts)
