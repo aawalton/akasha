@@ -1,11 +1,8 @@
+import { slugIn } from "../../../address/page-address.module.code.ts"
+
 export interface PageTypeForInheritance {
   readonly _id: string
   readonly properties?: Record<string, unknown>
-}
-
-function slugAbove(named: string): string {
-  const at = named.indexOf("/")
-  return at === -1 ? named : named.slice(at + 1)
 }
 
 function parentIdsOf(
@@ -17,7 +14,9 @@ function parentIdsOf(
   const found: string[] = []
   for (const one of named) {
     if (typeof one !== "string" || one === "") continue
-    const parentId = idBySlug.get(slugAbove(one))
+    const bare = slugIn(one)
+    if (bare === null) continue
+    const parentId = idBySlug.get(bare)
     if (parentId !== undefined) found.push(parentId)
   }
   return found
