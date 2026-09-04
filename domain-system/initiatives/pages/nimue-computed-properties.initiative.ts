@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A page type takes its properties from more than one type.",
       workingMemory:
-        "Expand landed at a8b49fb5 descent, a137f9f3 slugsIn, b2c53bc3 reaching. Left: index-entries, declared-properties, page-type-inheritance, property-carrying, file-page-type-config, pages-access/page-type, page-asking, introduced-property-is-a-part, the domain command, page-tree and page-tree-assemble. declarationsIfNamed carries the resolution: each parent in turn last-named first, breadth first, and boundOver keeps the first it meets. None of the 441 names a parent by id.",
+        "Expand landed: a8b49fb5 descent, a137f9f3 slugsIn, b2c53bc3 reaching, 262f6b72 page-type-inheritance, ac111e27 declared-properties, afdaed5e and c0c9c3c9 the page tree. Left: index-entries, property-carrying, file-page-type-config, page-asking, introduced-property-is-a-part and the domain command. pages-access/page-type needs none, passing the value through untyped. 443 page types, of which 441 name a parent, none by id.",
     },
     {
       statement: "A property states the calculation that fills it.",
