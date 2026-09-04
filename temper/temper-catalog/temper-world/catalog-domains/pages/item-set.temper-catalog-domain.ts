@@ -8,7 +8,7 @@ export const itemSet = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-04T14:52:37.915Z",
+  capturedAt: "2026-09-04T15:07:54.583Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
