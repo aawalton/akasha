@@ -69,7 +69,7 @@ function runOf(first: number, count: number): string {
 // as an old_string and a new_string. The substitution is done here and the whole body lands
 // mechanically: a program composes this body rather than authoring it, so it owes no read record,
 // and the caller holds the seq lock across the landing either way.
-function advance(source: SeqSource, first: number, count: number): Advance {
+async function advance(source: SeqSource, first: number, count: number): Promise<Advance> {
   const root = rootFor(resolveRoots(), AKASHA)
   const was = `${NEXT_SEQ_KEY}: ${first}`
   const now = `${NEXT_SEQ_KEY}: ${first + count}`
@@ -88,7 +88,7 @@ function advance(source: SeqSource, first: number, count: number): Advance {
         "counter is advanced only where it stands exactly once",
     }
   }
-  const landed = landBodies(
+  const landed = await landBodies(
     {
       repo: AKASHA,
       writer: WRITER,
@@ -107,10 +107,10 @@ export function takeSeqsOf(source: SeqSource, count: number): number {
     )
   }
   const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
-  return exclusively(`${absolute}${ALLOCATING}`, () => {
+  return exclusively(`${absolute}${ALLOCATING}`, async () => {
     const stoodChanged = uncommitted(source.pageTypeRelPath)
     const first = readNextSeqOf(source)
-    const run = advance(source, first, count)
+    const run = await advance(source, first, count)
     if (run.code === 0) return first
     if (!stoodChanged && uncommitted(source.pageTypeRelPath)) {
       throw new Error(

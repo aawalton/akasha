@@ -192,7 +192,7 @@ export type Doors = {
 
 export const DOORS: Doors = { push: PUSH_DOORS }
 
-export function pinnedIn(
+export async function pinnedIn(
   root: string,
   given: {
     readonly slug: string
@@ -205,7 +205,7 @@ export function pinnedIn(
   doors: Doors,
   reading: Reading,
   pageOf: PageOf
-): Pinned {
+): Promise<Pinned> {
   const { slug } = given
   let at: PinStage = "clear"
   const refused = (why: string): Pinned => ({ kind: "refused", slug, at, why })
@@ -228,7 +228,7 @@ export function pinnedIn(
     }
 
     at = "credential"
-    const pushed = pushedIn(
+    const pushed = await pushedIn(
       root,
       {
         slug,

@@ -107,7 +107,7 @@ function unknownRecipient(to: string): string | null {
   )
 }
 
-export function writeMessage(stated: {
+export async function writeMessage(stated: {
   readonly to: string
   readonly from: string
   readonly warrant: Warrant
@@ -143,7 +143,7 @@ export function writeMessage(stated: {
         `the only place read here, so nothing would ever drain it`,
     }
   }
-  const landed = landBodies(
+  const landed = await landBodies(
     { repo: AKASHA, writer: WRITER, message: `message to ${stated.to} from ${stated.from}` },
     [{ relPath: composed.put.path, body: composed.put.content }]
   )
@@ -301,7 +301,7 @@ export function releaseClaim(to: string, id: string): undefined {
   besideGone(akashaRoot(), heldAt(to, id))
 }
 
-export function takeMessage(to: string, id: string): Taken {
+export async function takeMessage(to: string, id: string): Promise<Taken> {
   const root = akashaRoot()
   const held = heldAt(to, id)
   const absolute = `${root}/${held.relPath}`
@@ -309,7 +309,7 @@ export function takeMessage(to: string, id: string): Taken {
     besideGone(root, held)
     return { kind: "gone" }
   }
-  const taken = landRemovals(
+  const taken = await landRemovals(
     {
       repo: AKASHA,
       writer: WRITER,

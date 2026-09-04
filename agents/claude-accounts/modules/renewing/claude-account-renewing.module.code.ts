@@ -120,7 +120,7 @@ export async function renewedIn(args: {
     const said = parsed.data
     const expiresAtMs = doors.now() + said.expires_in * MS_A_SECOND
 
-    const push = pushedIn(
+    const push = await pushedIn(
       root,
       {
         slug,

@@ -100,7 +100,7 @@ test("a message says the subject, the count, and which batch it is", () => {
   expect(messageFor("proof", 2, 7, 200)).toBe("migration: proof — 200 files (batch 2 of 7)")
 })
 
-test("one path composed twice is refused before anything lands", () => {
+test("one path composed twice is refused before anything lands", async () => {
   expect(
     mistakenIn([
       { path: "one.ts", body: "a" },
@@ -108,7 +108,7 @@ test("one path composed twice is refused before anything lands", () => {
     ])
   ).toEqual(["one.ts is composed twice, and one landing writes a path once"])
   const held = takingDown([])
-  const said = migrationLanded("/root", {
+  const said = await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: [
@@ -125,9 +125,9 @@ test("an absolute path is refused before anything lands", () => {
   expect(mistakenIn([{ path: "/one/two.ts", body: "a" }])[0]).toContain("absolute path")
 })
 
-test("every batch lands and what landed is answered whole", () => {
+test("every batch lands and what landed is answered whole", async () => {
   const held = takingDown([])
-  const said = migrationLanded("/root", {
+  const said = await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: composedOf(5),
@@ -140,9 +140,9 @@ test("every batch lands and what landed is answered whole", () => {
   expect(held.said[0]).toBe("migration: one — 2 files (batch 1 of 3)")
 })
 
-test("a body composed as nothing lands as a removal", () => {
+test("a body composed as nothing lands as a removal", async () => {
   const held = takingDown([])
-  migrationLanded("/root", {
+  await migrationLanded("/root", {
     calledAs: "test",
     subject: "gone",
     composed: [{ path: "pages/one/a.md", body: null }],
@@ -151,9 +151,9 @@ test("a body composed as nothing lands as a removal", () => {
   expect(held.asked[0]).toEqual([{ path: "pages/one/a.md", body: null }])
 })
 
-test("a batch refused leaves the batches before it landed", () => {
+test("a batch refused leaves the batches before it landed", async () => {
   const held = takingDown([LANDED, REFUSED, LANDED])
-  const said = migrationLanded("/root", {
+  const said = await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: composedOf(6),
@@ -167,9 +167,9 @@ test("a batch refused leaves the batches before it landed", () => {
   expect(said.code).toBe(1)
 })
 
-test("three batches refused stop the migration and say so", () => {
+test("three batches refused stop the migration and say so", async () => {
   const held = takingDown([REFUSED, REFUSED, REFUSED, LANDED])
-  const said = migrationLanded("/root", {
+  const said = await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: composedOf(8),
@@ -181,9 +181,9 @@ test("three batches refused stop the migration and say so", () => {
   expect(said.halted).toContain("3 of 4 batches were refused")
 })
 
-test("a batch that landed does not clear the count of those refused", () => {
+test("a batch that landed does not clear the count of those refused", async () => {
   const held = takingDown([REFUSED, REFUSED, LANDED, REFUSED, REFUSED])
-  const said = migrationLanded("/root", {
+  const said = await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: composedOf(10),
@@ -196,10 +196,10 @@ test("a batch that landed does not clear the count of those refused", () => {
   expect(said.refused.length).toBe(3)
 })
 
-test("a refused batch is said to a caller that reads nothing back", () => {
+test("a refused batch is said to a caller that reads nothing back", async () => {
   const held = takingDown([LANDED, REFUSED, LANDED])
   const told = heard()
-  migrationLanded("/root", {
+  await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: composedOf(6),
@@ -211,10 +211,10 @@ test("a refused batch is said to a caller that reads nothing back", () => {
   expect(told.lines.some((one) => one.includes("this migration is partial"))).toBe(true)
 })
 
-test("a migration every batch of which lands says nothing", () => {
+test("a migration every batch of which lands says nothing", async () => {
   const held = takingDown([])
   const told = heard()
-  migrationLanded("/root", {
+  await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: composedOf(4),
@@ -225,9 +225,9 @@ test("a migration every batch of which lands says nothing", () => {
   expect(told.lines).toEqual([])
 })
 
-test("a body composed twice is said as well as answered", () => {
+test("a body composed twice is said as well as answered", async () => {
   const told = heard()
-  migrationLanded("/root", {
+  await migrationLanded("/root", {
     calledAs: "test",
     subject: "one",
     composed: [

@@ -23,12 +23,12 @@ const UNCALLED: Landing = () => {
   throw new Error("the landing was called")
 }
 
-function refusedFor(given: {
+async function refusedFor(given: {
   readonly slug: string
   readonly email: string
   readonly aliasIndex: number
 }): string {
-  const made = madeIn(ROOT, { ...given, id: ID }, UNCALLED, UNREAD)
+  const made = await madeIn(ROOT, { ...given, id: ID }, UNCALLED, UNREAD)
   expect(made.kind).toBe("refused")
   return made.kind === "refused" ? made.why : ""
 }
@@ -76,78 +76,78 @@ export const cSeven = {
 })
 
 describe("madeIn", () => {
-  test("a name the account shape refuses is refused before anything is read or landed", () => {
-    expect(refusedFor({ slug: "C1", email: "a@b.co", aliasIndex: 1 })).toBe(
+  test("a name the account shape refuses is refused before anything is read or landed", async () => {
+    expect(await refusedFor({ slug: "C1", email: "a@b.co", aliasIndex: 1 })).toBe(
       "`C1` is not an account name this writes a path from"
     )
-    expect(refusedFor({ slug: "-c1", email: "a@b.co", aliasIndex: 1 })).toBe(
+    expect(await refusedFor({ slug: "-c1", email: "a@b.co", aliasIndex: 1 })).toBe(
       "`-c1` is not an account name this writes a path from"
     )
-    expect(refusedFor({ slug: "", email: "a@b.co", aliasIndex: 1 })).toBe(
+    expect(await refusedFor({ slug: "", email: "a@b.co", aliasIndex: 1 })).toBe(
       "`` is not an account name this writes a path from"
     )
-    expect(refusedFor({ slug: "c 1", email: "a@b.co", aliasIndex: 1 })).toBe(
+    expect(await refusedFor({ slug: "c 1", email: "a@b.co", aliasIndex: 1 })).toBe(
       "`c 1` is not an account name this writes a path from"
     )
   })
 
-  test("an underscore and a dash are both account names a path is written from", () => {
-    expect(refusedFor({ slug: "c_1", email: "nope", aliasIndex: 1 })).toBe(
+  test("an underscore and a dash are both account names a path is written from", async () => {
+    expect(await refusedFor({ slug: "c_1", email: "nope", aliasIndex: 1 })).toBe(
       "`nope` is not an address this writes onto one frontmatter line"
     )
-    expect(refusedFor({ slug: "c-1", email: "nope", aliasIndex: 1 })).toBe(
+    expect(await refusedFor({ slug: "c-1", email: "nope", aliasIndex: 1 })).toBe(
       "`nope` is not an address this writes onto one frontmatter line"
     )
   })
 
-  test("an address the address shape refuses is refused", () => {
-    expect(refusedFor({ slug: "c1", email: "", aliasIndex: 1 })).toBe(
+  test("an address the address shape refuses is refused", async () => {
+    expect(await refusedFor({ slug: "c1", email: "", aliasIndex: 1 })).toBe(
       "`` is not an address this writes onto one frontmatter line"
     )
-    expect(refusedFor({ slug: "c1", email: "a b@c.co", aliasIndex: 1 })).toBe(
+    expect(await refusedFor({ slug: "c1", email: "a b@c.co", aliasIndex: 1 })).toBe(
       "`a b@c.co` is not an address this writes onto one frontmatter line"
     )
-    expect(refusedFor({ slug: "c1", email: "@b.co", aliasIndex: 1 })).toBe(
+    expect(await refusedFor({ slug: "c1", email: "@b.co", aliasIndex: 1 })).toBe(
       "`@b.co` is not an address this writes onto one frontmatter line"
     )
   })
 
-  test("an alias slot that is no whole number from 1 up is refused", () => {
-    expect(refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: 0 })).toBe(
+  test("an alias slot that is no whole number from 1 up is refused", async () => {
+    expect(await refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: 0 })).toBe(
       "`0` is not a c-alias slot, which is a whole number from 1 up"
     )
-    expect(refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: -1 })).toBe(
+    expect(await refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: -1 })).toBe(
       "`-1` is not a c-alias slot, which is a whole number from 1 up"
     )
-    expect(refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: 1.5 })).toBe(
+    expect(await refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: 1.5 })).toBe(
       "`1.5` is not a c-alias slot, which is a whole number from 1 up"
     )
-    expect(refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: Number.NaN })).toBe(
+    expect(await refusedFor({ slug: "c1", email: "a@b.co", aliasIndex: Number.NaN })).toBe(
       "`NaN` is not a c-alias slot, which is a whole number from 1 up"
     )
   })
 
-  test("the name is weighed before the address and the address before the alias slot", () => {
-    expect(refusedFor({ slug: "C1", email: "nope", aliasIndex: 0 })).toBe(
+  test("the name is weighed before the address and the address before the alias slot", async () => {
+    expect(await refusedFor({ slug: "C1", email: "nope", aliasIndex: 0 })).toBe(
       "`C1` is not an account name this writes a path from"
     )
-    expect(refusedFor({ slug: "c1", email: "nope", aliasIndex: 0 })).toBe(
+    expect(await refusedFor({ slug: "c1", email: "nope", aliasIndex: 0 })).toBe(
       "`nope` is not an address this writes onto one frontmatter line"
     )
   })
 
-  test("a refusal names the account it was asked about", () => {
-    const made = madeIn(ROOT, { slug: "c1", email: "nope", aliasIndex: 1 }, UNCALLED, UNREAD)
+  test("a refusal names the account it was asked about", async () => {
+    const made = await madeIn(ROOT, { slug: "c1", email: "nope", aliasIndex: 1 }, UNCALLED, UNREAD)
     expect(made.slug).toBe("c1")
   })
 
-  test("nothing here throws", () => {
+  test("nothing here throws", async () => {
     expect(() =>
-      madeIn(ROOT, { slug: "C1", email: "nope", aliasIndex: 0 }, UNCALLED, UNREAD)
+      await madeIn(ROOT, { slug: "C1", email: "nope", aliasIndex: 0 }, UNCALLED, UNREAD)
     ).not.toThrow()
     // Every door of this reading throws, and the make answers rather than letting one out.
     expect(() =>
-      madeIn(ROOT, { slug: "c1", email: "a@b.co", aliasIndex: 1 }, UNCALLED, UNREAD)
+      await madeIn(ROOT, { slug: "c1", email: "a@b.co", aliasIndex: 1 }, UNCALLED, UNREAD)
     ).not.toThrow()
   })
 })

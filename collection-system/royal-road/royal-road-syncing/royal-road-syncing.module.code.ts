@@ -239,7 +239,7 @@ async function syncStory(
   }
 }
 
-export function landInBatches(bodies: readonly GatedBody[], counts: Counts): void {
+export async function landInBatches(bodies: readonly GatedBody[], counts: Counts): Promise<void> {
   for (let at = 0; at < bodies.length; at += BATCH_CEILING) {
     const batch = bodies.slice(at, at + BATCH_CEILING)
     const act: GatedAct = {
@@ -248,7 +248,7 @@ export function landInBatches(bodies: readonly GatedBody[], counts: Counts): voi
       message: `royal road sync ${batch.length} file(s)`,
       root: ROOT,
     }
-    const landed = landBodies(act, batch)
+    const landed = await landBodies(act, batch)
     if (!landed.ok) {
       counts.refused += batch.length
       console.log(`  refused ${batch.length} file(s): ${landed.why}`)
@@ -286,7 +286,7 @@ export async function main(argv: readonly string[]): Promise<number> {
   if (landing.length === 0) {
     console.log("nothing to land")
   } else if (argv.includes("--commit")) {
-    landInBatches(landing, counts)
+    await landInBatches(landing, counts)
   } else {
     console.log(
       `${landing.length} file(s) composed and not landed; pass --commit to put them through the write command`

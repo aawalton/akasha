@@ -64,8 +64,11 @@ function removeLines(root: string, relPath: string): void {
 
 // A daemon composes this removal rather than authoring it, so it lands mechanically, in process,
 // owing no read record. The sidecar beside each page is gitignored and goes separately, after.
-function removePages(relPaths: readonly string[], root: string): { code: number; output: string } {
-  const landed = landRemovals(
+async function removePages(
+  relPaths: readonly string[],
+  root: string
+): Promise<{ code: number; output: string }> {
+  const landed = await landRemovals(
     {
       repo: AKASHA,
       writer: WRITER,
@@ -86,7 +89,7 @@ function keepDaysFrom(argv: readonly string[]): number | null {
   return Number.isFinite(days) && days >= 0 ? days : null
 }
 
-function main(argv: readonly string[]): number {
+async function main(argv: readonly string[]): Promise<number> {
   const keepDays = keepDaysFrom(argv)
   if (keepDays === null) {
     process.stderr.write("--keep-days takes a count of days, zero or more\n")
@@ -115,7 +118,7 @@ function main(argv: readonly string[]): number {
 
   const held: string[] = []
   const taken: DayFacts[] = []
-  const together = removePages(
+  const together = await removePages(
     rotate.map((one) => one.relPath),
     root
   )
@@ -123,7 +126,7 @@ function main(argv: readonly string[]): number {
     taken.push(...rotate)
   } else {
     for (const one of rotate) {
-      const alone = removePages([one.relPath], root)
+      const alone = await removePages([one.relPath], root)
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }
@@ -145,4 +148,4 @@ function main(argv: readonly string[]): number {
   return held.length === 0 ? 0 : 1
 }
 
-if (import.meta.main) process.exit(main(process.argv.slice(2)))
+if (import.meta.main) process.exit(await main(process.argv.slice(2)))

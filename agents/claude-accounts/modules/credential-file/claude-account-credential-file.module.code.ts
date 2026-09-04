@@ -257,7 +257,7 @@ export async function filePushedTo(args: {
       throw new Error(message)
     }
     case "match": {
-      const pushed = pushedIn(
+      const pushed = await pushedIn(
         root,
         {
           slug,
@@ -279,7 +279,7 @@ export async function filePushedTo(args: {
     case "pin":
     case "rebind": {
       const previousUuid = decision.kind === "rebind" ? decision.previousUuid : null
-      const pinned = pinnedIn(
+      const pinned = await pinnedIn(
         root,
         {
           slug,
@@ -383,7 +383,7 @@ export function fileWatched(args: {
     if (curr.mtimeMs === lastPushedMtime) return
 
     if (debounceTimer !== null) clearTimeout(debounceTimer)
-    debounceTimer = setTimeout(() => {
+    debounceTimer = setTimeout(async () => {
       debounceTimer = null
       const slug = slugOf()
       if (slug === "") return
@@ -399,7 +399,7 @@ export function fileWatched(args: {
         }
       }
 
-      void fileChanged({
+      void (await fileChanged({
         dir,
         slug,
         prevObservedExpiresAt: lastObservedExpiresAt,
@@ -414,7 +414,7 @@ export function fileWatched(args: {
             `${logPrefix} Credential watch push skipped for ${slug} (terminal error — re-auth required)`
           )
         }
-      })
+      }))
     }, PUSH_DEBOUNCE_MS)
   }
 
