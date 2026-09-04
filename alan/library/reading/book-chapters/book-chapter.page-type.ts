@@ -15,7 +15,7 @@ export const bookChapter = {
   definition: "one instalment of a book Alan reads",
   pluralSlug: "book-chapters",
   extendsSlug: "page-type/collection",
-  partSlugs: ["file-property/chapter-text", "text-property/title"],
+  partSlugs: ["file-property/chapter-text"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "chapter-text", required: true, many: false },

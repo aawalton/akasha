@@ -35,7 +35,6 @@ export const book = {
     "text-property/isbn",
     "text-property/isbn13",
     "text-property/publisher",
-    "text-property/title",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
