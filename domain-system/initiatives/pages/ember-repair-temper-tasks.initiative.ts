@@ -45,7 +45,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "The watcher updates itself to the source revision it is told to run.",
       workingMemory:
-        "Every start logs `Source update to b8f20f22 not applied (target-not-fetched)`. Untouched so far.",
+        "The served target is b8f20f229df857590e8c51accd468fcd3f52be79, which is in neither this checkout nor the 2026-09-02 backup, so the flatten orphaned it and no fetch brings it. The watcher reads its own HEAD right, logging ve3eda7280a at 19:06:36Z. That target is version.txt baked into the watcher image at /build and copied in by temper-web's init container, so it names the commit that image was built at. The run carries on either way, so this is noise rather than an outage.",
     },
   ],
   constraints: [
