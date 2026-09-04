@@ -7,7 +7,7 @@ export const emailAddressIsWellFormed = {
   definition: "the check refusing a stated email address that is not well formed",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
