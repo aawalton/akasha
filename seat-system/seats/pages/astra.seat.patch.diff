@@ -12,6 +12,16 @@ index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..4eca50c36b54b016d6f861db2c924152
  
  export function askedKeys(query: PageQuery): readonly string[] {
    const wanted = new Set<string>(query.keys ?? [])
+diff --git a/pages/query-narrow/page-query-narrow.module.code.ts b/pages/query-narrow/page-query-narrow.module.code.ts
+index e6c728537b9f25ee90f9d47e0822dc66c968b361..0055e4715ce9abf18921202a30c81793968cf1ef 100644
+--- a/pages/query-narrow/page-query-narrow.module.code.ts
++++ b/pages/query-narrow/page-query-narrow.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { Test } from "../page-query-shape/page-query-shape.module.code.ts"
++import type { Test } from "../query-shape/page-query-shape.module.code.ts"
+ 
+ export const TEST_SAYS =
+   "a test is either the value the key must hold, or a map stating `is`, `in`, `not-in`, `has`, `contains`, `ends-with`, `empty`, `at-or-after` or `before`"
 diff --git a/pages/query-reduce/page-query-reduce.module.code.ts b/pages/query-reduce/page-query-reduce.module.code.ts
 index 101b2bda68280cdbe9402bad163d2dc47c4ecb0a..f7f3b6e0baa83bf910fd223d4a6de0da25f0f64b 100644
 --- a/pages/query-reduce/page-query-reduce.module.code.ts
