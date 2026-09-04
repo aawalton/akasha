@@ -1,6 +1,8 @@
 import { put } from "@akasha/testing-system/putting"
-import { repoAt } from "../../asking/asking.module.test-fixtures.ts"
+import { applied, repoAt } from "../../asking/asking.module.test-fixtures.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import { edit } from "./edit.command.code.ts"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -25,6 +27,14 @@ export const givenIn = (root: string) => ({
   writer: null,
   agentId: AGENT,
 })
+
+export async function edited(
+  root: string,
+  argv: readonly string[],
+  given: Given = givenIn(root)
+): Promise<Answer> {
+  return await applied(root, await edit(argv, given), argv, given)
+}
 
 export function stating(root: string, name: string, was: string, now: string): readonly string[] {
   return ["--old-file", put(root, `${name}.old`, was), "--new-file", put(root, `${name}.new`, now)]
