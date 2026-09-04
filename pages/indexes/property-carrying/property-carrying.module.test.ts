@@ -32,6 +32,8 @@ const ONE = idOf("5")
 
 const TWO = idOf("6")
 
+const OTHER = idOf("8")
+
 function pageAt(slug: string, kind: string): string {
   return `akasha/${slug}.${kind}.ts`
 }
@@ -94,6 +96,35 @@ test("a property is carried by the pages of every type beneath the one declaring
   const said = carryingOf(root, "held")
   expect("carrying" in said ? said.carrying.map((one) => one.path) : []).toEqual([
     "akasha/one.thing.ts",
+    "akasha/two.deeper.ts",
+  ])
+})
+
+function extendingBoth(root: string): undefined {
+  filed(root, "other", "page-type", OTHER)
+  filed(root, "deeper", "page-type", DEEPER)
+  extending(root, THING, DEEPER, pageAt("deeper", "page-type"))
+  extending(root, OTHER, DEEPER, pageAt("deeper", "page-type"))
+  listedFiled(root, "deeper", "two", [{ path: "akasha/two.deeper.ts", id: TWO }])
+}
+
+test("a page type naming two page types above it carries what the first of them declares", () => {
+  const root = rooted()
+  extendingBoth(root)
+  declares(root, HELD, THING, pageAt("thing", "page-type"))
+  const said = carryingOf(root, "held")
+  expect("carrying" in said ? said.carrying.map((one) => one.path) : []).toEqual([
+    "akasha/one.thing.ts",
+    "akasha/two.deeper.ts",
+  ])
+})
+
+test("a page type naming two page types above it carries what the second of them declares", () => {
+  const root = rooted()
+  extendingBoth(root)
+  declares(root, HELD, OTHER, pageAt("other", "page-type"))
+  const said = carryingOf(root, "held")
+  expect("carrying" in said ? said.carrying.map((one) => one.path) : []).toEqual([
     "akasha/two.deeper.ts",
   ])
 })
