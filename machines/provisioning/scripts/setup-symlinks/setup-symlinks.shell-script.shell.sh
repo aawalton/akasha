@@ -28,7 +28,6 @@ link "$FILES/git-global-ignore.provisioned-file.content.conf"  "$HOME/.config/gi
 link "$FILES/repos-editor-settings.provisioned-file.content.json" "$REPOS/.vscode/settings.json"
 
 echo "Setting up the launchers on PATH..."
-link "$AKASHA_ROOT/dotfiles/bin/ops"    "$HOME/.local/bin/ops"
 link "$AKASHA_ROOT/dotfiles/bin/akasha" "$HOME/.local/bin/akasha"
 link "$SCRIPTS/rg/rg.shell-script.shell.sh"                         "$HOME/.local/bin/rg"
 link "$SCRIPTS/find-session/find-session.shell-script.shell.sh"     "$HOME/.local/bin/find-session"
