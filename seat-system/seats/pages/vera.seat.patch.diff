@@ -1,0 +1,25 @@
+diff --git a/commands/move/move.command.test-fixtures.ts b/commands/move/move.command.test-fixtures.ts
+index 283d112b722be24c8e17203c86bca391f67027b9..e8cab7e411c2e402907fa2b7cf4a60a68840f485 100644
+--- a/commands/move/move.command.test-fixtures.ts
++++ b/commands/move/move.command.test-fixtures.ts
+@@ -125,6 +125,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
+     join(root, ".git/info/exclude"),
+     "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n"
+   )
++  rebuiltIn(root, TREE)
+   admitting(root)
+   return root
+ }
+diff --git a/commands/move/move.command.test.ts b/commands/move/move.command.test.ts
+index 77cef65313457e32140636ac99cdc331504d422b..0db0ae1794f37199ae09ef9c6a1b5fa21c9d658a 100644
+--- a/commands/move/move.command.test.ts
++++ b/commands/move/move.command.test.ts
+@@ -291,7 +291,7 @@ test("a dry run names the pairs it would carry, sidecars and all", async () => {
+   expect(report).toContain("stand beside what you named and would go with it")
+   expect(report).toContain(`${HOLDER} to ${DEEPER}`)
+   expect(report).toContain(`${SIDE} to ${SIDE_AT}`)
+-  expect(report).toContain("none were repointed")
++  expect(report).toContain("no file naming what moved needed repointing")
+ })
+ 
+ test("a dry run over a move the checks refuse reports it and carries nothing", async () => {
