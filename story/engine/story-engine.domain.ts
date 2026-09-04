@@ -5,6 +5,7 @@ export const storyEngine = {
   pageTypeSlug: "domain",
   slug: "story-engine",
   definition: "the code a story is played through",
+  partSlugs: ["workspace-package/story-engine-core"],
   invariants: [
     {
       invariantKind: "absence",
