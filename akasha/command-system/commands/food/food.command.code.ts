@@ -7,7 +7,6 @@ import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { Value } from "@akasha/pages-system/page-value"
 import { asking } from "@akasha/pages-system-service/asking"
 import { composedFor } from "@akasha/pages-system-service/composing"
-import type { Landed } from "@tools/lib/page-query-client"
 import { rootOf, written } from "../../../alan/tracking/daily/akasha-day/akasha-day.module.code.ts"
 import { wakeDayOf } from "../../../alan/tracking/daily/day-opening/day-opening.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -84,6 +83,10 @@ export type Read = Logged | { readonly refused: readonly string[] }
 interface NutritionPoints {
   readonly rollupNutritionForDay: (dayStr: string) => Promise<unknown>
 }
+
+type Landed =
+  | { readonly ok: true; readonly at: string }
+  | { readonly ok: false; readonly why: string }
 
 function acts(): string {
   return ACTS.join("`, `")
