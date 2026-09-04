@@ -20,7 +20,7 @@ export NEXT_PUBLIC_API_ORIGIN="https://alanwalton.com"
 export NEXT_PUBLIC_BUILD_SHA="${NEXT_PUBLIC_BUILD_SHA:-$(git -C "${web_dir}" rev-parse HEAD)}"
 for _var in NEXT_PUBLIC_API_ORIGIN NEXT_PUBLIC_SUPABASE_URL NEXT_PUBLIC_SUPABASE_ANON_KEY NEXT_PUBLIC_BUILD_SHA; do
   if [[ -z "${!_var:-}" ]]; then
-    echo "[stage-app] ERROR: ${_var} is empty — the bundle would ship with an un-inlined client env (compiles to undefined). Set it (script export, or akasha/alan/web/.env.local for the SUPABASE_* pair) before staging." >&2
+    echo "[stage-app] ERROR: ${_var} is empty — the bundle would ship with an un-inlined client env (compiles to undefined). Set it (script export, or alan/web/.env.local for the SUPABASE_* pair) before staging." >&2
     exit 1
   fi
 done
