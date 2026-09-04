@@ -26,7 +26,7 @@ export const personaImage = {
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "image-persona-slug", required: true, many: false },
     { pagePropertySlug: "image-path", required: false, many: false },
     { pagePropertySlug: "image-root", required: false, many: false },
   ],
