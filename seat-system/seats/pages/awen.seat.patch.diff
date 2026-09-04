@@ -1,0 +1,13 @@
+diff --git a/code-system/code-typing/code-typing.module.code.ts b/code-system/code-typing/code-typing.module.code.ts
+index 4dbc4873535da8dc11fd36f7b44237157e7708a1..f312102ec4f69a9f2725b7a13a2b1cf743d68215 100644
+--- a/code-system/code-typing/code-typing.module.code.ts
++++ b/code-system/code-typing/code-typing.module.code.ts
+@@ -11,6 +11,8 @@ const PACKAGES = "node_modules"
+ 
+ const MANIFEST = "package.json"
+ 
++const PROBE_ONLY = 1
++
+ export const SETTINGS: ts.CompilerOptions = {
+   noEmit: true,
+   strict: true,
