@@ -34,8 +34,11 @@ export const temperWatcher = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Repeated starts are counted over no window, so a watcher failing all night keeps on.",
+      statement: "Repeated starts are counted over no window.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A watcher failing all night keeps on.",
     },
   ],
 } as const satisfies WorkstationService
