@@ -9,8 +9,6 @@ import { input, pagesTailed } from "../../../modules/change-walking/change-walki
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
-const INSIDE = "akasha/"
-
 const PAGE_TYPE = "page-type"
 
 const DECLARED = "properties"
@@ -30,7 +28,6 @@ export type PageType = {
 }
 
 export function typeNamedIn(path: string): string | null {
-  if (!path.startsWith(INSIDE)) return null
   const said = nameParted(path)
   if (said === null || said.sections.length > 0 || said.pageType !== PAGE_TYPE) return null
   return said.slug
