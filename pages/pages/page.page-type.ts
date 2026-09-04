@@ -3,11 +3,13 @@ import type { Cover } from "./properties/cover.text-property.ts"
 import type { Id } from "./properties/id.text-property.ts"
 import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
 import type { Slug } from "./properties/slug.text-property.ts"
+import type { Title } from "./properties/title.text-property.ts"
 
 export type Page = {
   id: Id
   pageTypeSlug: PageTypeSlug
   slug: Slug
+  title?: Title
   cover?: Cover
 }
 
@@ -22,6 +24,7 @@ export const page = {
     { pagePropertySlug: "id", required: true, many: false },
     { pagePropertySlug: "page-type-slug", required: true, many: false },
     { pagePropertySlug: "slug", required: true, many: false },
+    { pagePropertySlug: "title", required: false, many: false },
     { pagePropertySlug: "cover", required: false, many: false },
   ],
   partSlugs: [
