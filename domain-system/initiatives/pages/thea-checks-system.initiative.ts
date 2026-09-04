@@ -25,6 +25,11 @@ export const theaChecksSystem = {
       workingMemory:
         "Found while making the parts a spanning tree: the folder holding a property's file and the page type introducing that property disagree in real cases. `category-slug` sits under `monarch-months` while `category-rule` introduces the property; `effect-type` and `metric-id` sit under `temper-catalog-things` while `temper-companion-trait` introduces both. `introduced-property-is-a-part` judges the declaration and says outright that the folder is not judged. No check judges the folder.",
     },
+    {
+      statement: "No persona and no value carries a stored lifetime points total.",
+      workingMemory:
+        "Alan ruled the figures wrong and confusing: aelwyn holds 50,909 against a computed 22,537, unsettled. Retire leaf-first — command `ops tracking recompute-totals`, then `recompute-totals`, `health-total-points`, `landTotalPoints` out of `session-points-totals`, `persona-total-landing`. Then the field off `session-points-compute` and `persona-recipe-rows`, 3 persona views, `persona-all`, 10 persona pages, 6 value pages, the declarations on `persona` and `value`, the property page, and the finding.",
+    },
   ],
   constraints: ["Each check takes one turn per step, and no turn carries two steps."],
 } as const satisfies Initiative
