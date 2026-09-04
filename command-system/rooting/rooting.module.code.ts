@@ -1,7 +1,17 @@
-const MARK = "/akasha/"
+import { existsSync } from "node:fs"
+import { dirname, join, resolve } from "node:path"
+
+export const MARKED = "akasha.domain.ts"
 
 export function rootOf(at: string): string {
-  const cut = `${at}/`.lastIndexOf(MARK)
-  if (cut === -1) throw new Error(`${at} stands under no akasha folder`)
-  return at.slice(0, cut + MARK.length - 1)
+  let held = resolve(at)
+  let up = dirname(held)
+  while (!existsSync(join(held, MARKED))) {
+    if (up === held) {
+      throw new Error(`${at} is under no akasha folder holding ${MARKED}`)
+    }
+    held = up
+    up = dirname(held)
+  }
+  return held
 }

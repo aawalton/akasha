@@ -1,11 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { idFiled, listedFiled } from "@akasha/indexes/testing"
 import { AUTHOR } from "../committing/committing.module.code.ts"
+import { MARKED } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { answering, INPUT, OK, outsideOf, saidOf, UNCLASSIFIED } from "./cli.module.code.ts"
-
-const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
 
 const COMMAND = "command"
 
@@ -17,6 +18,12 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
+const STANDING = scratch.rootFor("akasha-cli-")
+
+writeFileSync(join(STANDING, MARKED), "")
+
+const AT = join(STANDING, "command-system/cli.module.code.ts")
+
 test("a stated root wins over where the dispatcher stands", () => {
   const said = outsideOf({ AKASHA_ROOT: "/elsewhere" }, AT, "/nowhere")
   expect(said.root).toBe("/elsewhere")
@@ -24,7 +31,7 @@ test("a stated root wins over where the dispatcher stands", () => {
 
 test("an empty stated root is treated as none stated", () => {
   const said = outsideOf({ AKASHA_ROOT: "" }, AT, "/nowhere")
-  expect(said.root).toBe("/somewhere")
+  expect(said.root).toBe(STANDING)
 })
 
 test("a commit is authored by akasha when nothing states a writer", () => {

@@ -4,26 +4,31 @@ export const rooting = {
   id: "01a04f5a-6229-7bed-be21-ddab3550449e",
   pageTypeSlug: "module",
   slug: "rooting",
-  definition: "the akasha checkout a file stands in, which is the akasha folder itself",
+  definition: "the akasha checkout a file is in, which is the akasha folder itself",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The root is read off the path rather than counted.",
+      statement:
+        "The root is the nearest folder at or above a path holding the akasha domain page.",
     },
     {
       invariantKind: "departure",
-      statement: "The last `akasha` in a path marks the folder.",
+      statement: "A root is found on the disk rather than read off the spelling of a path.",
     },
     {
       invariantKind: "departure",
-      statement: "The `akasha` folder is the repository root, not a folder inside it.",
+      statement: "A folder's name says nothing about whether that folder is a root.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path standing outside any `akasha` folder is refused rather than answered with a wrong root.",
+        "A path outside every `akasha` folder is refused rather than answered with a wrong root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name of the file marking a root is said here alone.",
     },
   ],
 } as const satisfies Module
