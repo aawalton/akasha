@@ -76,6 +76,22 @@ test("a commit made by hand the index was never settled over is stale", () => {
   expect(staleFor(repo, indexAt(repo))).toMatch(/akasha\/b\.ts/)
 })
 
+test("a commit of a path the caller says does not matter is fresh, and one that does is stale", () => {
+  const repo = repoAt()
+  const head = committed(repo, `${TREE}/a.ts`, "export const a = 1\n")
+  stampKept(indexAt(repo), { commit: head, tree: TREE, settled: [] })
+  committed(repo, `${TREE}/one.seat.patch.diff`, "a draft no import reaches\n")
+
+  const code = (path: string): boolean => path.endsWith(".ts") || path.endsWith(".tsx")
+
+  expect(staleFor(repo, indexAt(repo))).toMatch(/one\.seat\.patch\.diff/)
+  expect(staleFor(repo, indexAt(repo), code)).toBe(null)
+
+  committed(repo, `${TREE}/b.ts`, "export const b = 2\n")
+
+  expect(staleFor(repo, indexAt(repo), code)).toMatch(/akasha\/b\.ts/)
+})
+
 test("a commit of a path the settle named is fresh", () => {
   const repo = repoAt()
   const head = committed(repo, `${TREE}/a.ts`, "export const a = 1\n")

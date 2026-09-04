@@ -110,7 +110,14 @@ function looseIn(held: Stamp, changed: readonly string[]): readonly string[] {
   return changed.filter((one) => !settled.has(one))
 }
 
-export function staleFor(repo: string, at: string): string | null {
+// A caller asking one section of the index is made stale by a path that section is built from
+// and by no other. `mattering` is how the caller says which those are, and the caller hands in
+// the same predicate the section's builder holds, so the guard and the build cannot drift apart.
+export function staleFor(
+  repo: string,
+  at: string,
+  mattering: (path: string) => boolean = () => true
+): string | null {
   const held = stampIn(at)
   if (held === null) return "the index names no commit it was built from"
   const head = headOf(repo)
@@ -119,7 +126,7 @@ export function staleFor(repo: string, at: string): string | null {
   if (changed === null) {
     return `the index was built from \`${shortly(held.commit)}\`, which this repository does not hold`
   }
-  const loose = looseIn(held, changed)
+  const loose = looseIn(held, changed).filter(mattering)
   if (loose.length === 0) return null
   const named = loose.slice(0, SHOWN).join(", ")
   const more = loose.length > SHOWN ? `, and ${loose.length - SHOWN} more` : ""
