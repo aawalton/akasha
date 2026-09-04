@@ -233,7 +233,7 @@ test("checks standing but none at a phase leaves that phase empty rather than re
   const root = rootWith([{ slug: "admits-all", runsOn: [], body: ADMITS_ALL }])
   const every = checksIn(root)
   expect(every.map((one) => one.slug)).toEqual(["admits-all"])
-  expect(judgingBy(checksAt(every, "patch")).named).toEqual([])
+  expect(judgingBy(checksAt(every, "patch"), "patch").named).toEqual([])
 })
 
 test("one shadow is cast over the change and handed to every check that runs", async () => {
