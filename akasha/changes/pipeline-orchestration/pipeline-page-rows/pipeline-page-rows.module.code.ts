@@ -1,23 +1,24 @@
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import type { Row } from "@akasha/pages-system/page-derive-shape"
-import { type PageQuery, UNREACHED } from "@akasha/pages-system/page-query-shape"
-import { answer } from "@tools/lib/page-query"
+import { asking, type Query, type Row } from "@akasha/pages-system-service/asking"
 import { LOG } from "../orchestrator-log/orchestrator-log.module.code.ts"
 
-export function rowsOf(roots: Roots, query: PageQuery): readonly Row[] {
-  const found = answer(roots, query)
-  if (found === null) throw new Error(`${LOG} \`${query.pageType}\` ${UNREACHED}`)
-  return found.rows
+export function rowsOf(roots: Roots, query: Query): readonly Row[] {
+  const asked = asking(rootFor(roots, AKASHA), query)
+  if ("refused" in asked) {
+    throw new Error(`${LOG} \`${query.pageTypeSlug}\` went unread: ${asked.refused}`)
+  }
+  return asked.rows
 }
 
 export function seqIn(row: Row, key: string): number | null {
-  const one = row.values[key]
+  const one = row[key]
   if (typeof one !== "string" || !/^\d+$/.test(one)) return null
   const seq = Number.parseInt(one, 10)
   return Number.isSafeInteger(seq) && seq > 0 ? seq : null
 }
 
 export function textIn(row: Row, key: string): string | null {
-  const one = row.values[key]
+  const one = row[key]
   return typeof one === "string" && one.trim() !== "" ? one : null
 }

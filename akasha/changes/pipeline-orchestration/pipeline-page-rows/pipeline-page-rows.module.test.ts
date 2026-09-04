@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Row } from "@akasha/pages-system/page-derive-shape"
+import type { Row } from "@akasha/pages-system-service/asking"
 import { seqIn, textIn } from "./pipeline-page-rows.module.code.ts"
 
 function rowOf(values: Record<string, unknown>): Row {
-  return { values } as unknown as Row
+  return values
 }
 
 test("a run of digits standing for a whole number above nothing is a sequence number", () => {

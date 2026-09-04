@@ -23,9 +23,9 @@ const BRANCH = "branch"
 
 const NAME = "name"
 
-const PIPELINE_SEQ = "pipeline-seq"
+const PIPELINE_SEQ = "pipelineSeq"
 
-const WORKFLOW_SEQ = "workflow-seq"
+const WORKFLOW_SEQ = "workflowSeq"
 
 const WAITING_ON = "answering failures a later pipeline cured"
 
@@ -56,7 +56,7 @@ export interface BranchResolutionResult {
 
 function readPipelines(roots: Roots): readonly PipelineFacts[] {
   const out: PipelineFacts[] = []
-  for (const row of rowsOf(roots, { pageType: "pipeline", keys: [SEQ, BRANCH, STATUS] })) {
+  for (const row of rowsOf(roots, { pageTypeSlug: "pipeline", keys: [SEQ, BRANCH, STATUS] })) {
     const seq = seqIn(row, SEQ)
     const branch = textIn(row, BRANCH)
     const status = textIn(row, STATUS)
@@ -68,7 +68,7 @@ function readPipelines(roots: Roots): readonly PipelineFacts[] {
 
 function readWorkflows(roots: Roots): readonly WorkflowFacts[] {
   const out: WorkflowFacts[] = []
-  const rows = rowsOf(roots, { pageType: "workflow", keys: [SEQ, NAME, STATUS, PIPELINE_SEQ] })
+  const rows = rowsOf(roots, { pageTypeSlug: "workflow", keys: [SEQ, NAME, STATUS, PIPELINE_SEQ] })
   for (const row of rows) {
     const seq = seqIn(row, SEQ)
     if (seq === null) continue
@@ -84,7 +84,7 @@ function readWorkflows(roots: Roots): readonly WorkflowFacts[] {
 
 function readSteps(roots: Roots): readonly StepFacts[] {
   const out: StepFacts[] = []
-  for (const row of rowsOf(roots, { pageType: "step", keys: [SEQ, STATUS, WORKFLOW_SEQ] })) {
+  for (const row of rowsOf(roots, { pageTypeSlug: "step", keys: [SEQ, STATUS, WORKFLOW_SEQ] })) {
     const seq = seqIn(row, SEQ)
     if (seq === null) continue
     out.push({ seq, status: textIn(row, STATUS), workflowSeq: seqIn(row, WORKFLOW_SEQ) })
@@ -122,7 +122,7 @@ function patchedPage(
   pageType: string,
   seq: number,
   values: Readonly<Record<string, Value>>
-): void {
+): undefined {
   if (patchPage(roots, pageType, String(seq), values) === null) {
     throw new Error(`${LOG} \`${pageType}\` #${seq} names no file to write`)
   }
@@ -133,7 +133,7 @@ function patchedState(
   pageType: string,
   seq: number,
   values: Readonly<Record<string, unknown>>
-): void {
+): undefined {
   if (patchState(roots, pageType, String(seq), values) === null) {
     throw new Error(`${LOG} \`${pageType}\` #${seq} names no sidecar to write`)
   }

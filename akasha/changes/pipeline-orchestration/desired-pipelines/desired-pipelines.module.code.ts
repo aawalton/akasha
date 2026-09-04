@@ -10,7 +10,7 @@ const SEQ = "seq"
 
 const STATUS = "status"
 
-const PIPELINE_SEQ = "pipeline-seq"
+const PIPELINE_SEQ = "pipelineSeq"
 
 export interface HealingPipeline {
   readonly seq: number
@@ -28,8 +28,8 @@ function pipelineSeqsUnder(
   statuses: readonly string[]
 ): readonly number[] {
   const rows = rowsOf(roots, {
-    pageType,
-    where: [{ key: STATUS, in: statuses }],
+    pageTypeSlug: pageType,
+    where: { [STATUS]: { in: statuses } },
     keys: [PIPELINE_SEQ],
   })
   const out: number[] = []
@@ -43,8 +43,8 @@ function pipelineSeqsUnder(
 export function loadDesiredPipelines(roots: Roots): DesiredPipelines {
   const seqs = new Set<number>()
   const own = rowsOf(roots, {
-    pageType: "pipeline",
-    where: [{ key: STATUS, in: NON_TERMINAL_PIPELINE_STATUSES }],
+    pageTypeSlug: "pipeline",
+    where: { [STATUS]: { in: NON_TERMINAL_PIPELINE_STATUSES } },
     keys: [SEQ],
   })
   for (const row of own) {
@@ -61,8 +61,8 @@ export function loadDesiredPipelines(roots: Roots): DesiredPipelines {
 
   const held = new Map<number, string | null>()
   for (const row of rowsOf(roots, {
-    pageType: "pipeline",
-    where: [{ key: SEQ, in: owing.map(String) }],
+    pageTypeSlug: "pipeline",
+    where: { [SEQ]: { in: owing.map(String) } },
     keys: [SEQ, STATUS],
   })) {
     const seq = seqIn(row, SEQ)
