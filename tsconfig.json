@@ -1,17 +1,3 @@
 {
-  "references": [
-    {
-      "path": "./temper/temper-web"
-    },
-    {
-      "path": "./smilingjenny/smilingjenny-web"
-    },
-    {
-      "path": "./archive-of-worlds/archive-of-worlds-web"
-    },
-    {
-      "path": "./audhdalan/audhdalan-web"
-    }
-  ],
   "files": []
 }
