@@ -49,6 +49,7 @@ export const claudeAccount = {
     "module/claude-account-measuring",
     "module/claude-account-oauth",
     "module/claude-account-pacing",
+    "module/claude-account-usage",
     "module/claude-account-reading",
     "module/claude-account-refreshing",
     "module/claude-account-renewing",

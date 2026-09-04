@@ -1,4 +1,3 @@
-
 import { z } from "zod"
 
 const COLON_DEF_RE = /function\s+[A-Za-z_][A-Za-z0-9_]*\s*:\s*([A-Za-z_][A-Za-z0-9_]*)\s*\(/g

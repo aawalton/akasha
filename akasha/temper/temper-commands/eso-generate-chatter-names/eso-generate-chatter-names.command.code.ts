@@ -8,7 +8,7 @@ import { codeRoot } from "@akasha/pages-system/code-root"
 // The rendering of the registry still stands under `tools/lib`, so it is reached
 // by the name that package's manifest gives it rather than by a path climbing
 // out of akasha.
-import { chatterNamesModule } from "@tools/lib/eso-chatter-names"
+import { chatterNamesModule } from "../eso-chatter-names/eso-chatter-names.module.code.ts"
 
 const DATA = 2
 

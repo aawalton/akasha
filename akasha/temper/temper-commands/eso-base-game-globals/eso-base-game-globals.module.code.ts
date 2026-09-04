@@ -1,4 +1,3 @@
-
 import { z } from "zod"
 
 const GLOBAL_ASSIGN_RE = /^[ \t]*([A-Za-z_][A-Za-z0-9_]*)[ \t]*=[^=]/gm

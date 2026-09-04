@@ -1,4 +1,3 @@
-
 export interface ChatterNamesModule {
   readonly chatter: readonly string[]
   readonly interaction: readonly string[]

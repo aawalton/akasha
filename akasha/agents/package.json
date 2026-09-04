@@ -7,6 +7,7 @@
     "./capacity-classification": "./models/gateway/modules/capacity-classification/capacity-classification.module.code.ts",
     "./claude-account-credential-file": "./claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts",
     "./claude-account-credential-push": "./claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts",
+    "./claude-account-usage": "./claude-accounts/modules/usage/claude-account-usage.module.code.ts",
     "./claude-account-health": "./claude-accounts/modules/health/claude-account-health.module.code.ts",
     "./claude-account-identity": "./claude-accounts/modules/identity/claude-account-identity.module.code.ts",
     "./claude-account-making": "./claude-accounts/modules/making/claude-account-making.module.code.ts",

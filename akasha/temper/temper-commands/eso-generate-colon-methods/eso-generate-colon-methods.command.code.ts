@@ -16,7 +16,7 @@ import { collectLuaFiles } from "@akasha/temper-eso-paths/lua-files"
 // manifest gives them rather than by a path climbing out of akasha.
 import type { SeriesSpec } from "@tools/lib/akasha-name-series"
 import { byteLength, renderSeries, stageSeries } from "@tools/lib/akasha-name-series"
-import { extractColonMethodNames } from "@tools/lib/eso-colon-methods"
+import { extractColonMethodNames } from "../eso-colon-methods/eso-colon-methods.module.code.ts"
 
 const DATA = 2
 
