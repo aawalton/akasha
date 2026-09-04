@@ -12,7 +12,7 @@ export const bookChapter = {
   id: "01a0658d-fe50-7001-976d-fd0d35660d1d",
   pageTypeSlug: "page-type",
   slug: "book-chapter",
-  definition: "one instalment of a book Alan reads",
+  definition: "one instalment of a book",
   pluralSlug: "book-chapters",
   extendsSlug: "page-type/collection",
   partSlugs: ["file-property/chapter-text"],

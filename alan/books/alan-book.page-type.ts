@@ -16,6 +16,10 @@ export const alanBook = {
   properties: [{ pagePropertySlug: "title", required: true, many: false }],
   invariants: [
     {
+      invariantKind: "departure",
+      statement: "A book Alan is writing is read by nobody else while he writes it.",
+    },
+    {
       invariantKind: "absence",
       statement: "A book Alan writes states nothing a publisher assigns.",
     },
