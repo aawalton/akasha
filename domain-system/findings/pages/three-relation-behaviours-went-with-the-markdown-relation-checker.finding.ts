@@ -4,7 +4,7 @@ export const threeRelationBehavioursWentWithTheMarkdownRelationChecker = {
   id: "01a06864-c80e-798f-be3c-b4247c4cdb48",
   pageTypeSlug: "finding",
   slug: "three-relation-behaviours-went-with-the-markdown-relation-checker",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/pages-system",
   claim:
     "`page/relation/relation.ts` was ablated in 23df25da on a reading of its successors as carrying it, and the reading was too generous. Most of it did carry, into `pages-access/file-relation` and `indexes/reaching` and the `relation-resolves` code check. Three behaviours did not: address-pointing, what value a candidate page bears for a points mode other than slug, and the refusal that withholds a whole relation verdict when the sweep could not read every page. Nothing read the file, so nothing broke; what is lost is the statement of the gap, which this restores.",
   evidence:

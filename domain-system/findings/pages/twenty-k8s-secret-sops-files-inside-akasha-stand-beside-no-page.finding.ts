@@ -4,7 +4,7 @@ export const twentyK8sSecretSopsFilesInsideAkashaStandBesideNoPage = {
   id: "01a0683c-3c7f-7b37-b3ea-b6a2644934c4",
   pageTypeSlug: "finding",
   slug: "twenty-k8s-secret-sops-files-inside-akasha-stand-beside-no-page",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/secret",
   claim:
     "Every one of the twenty `*.k8s-secret.sops.yaml` files inside akasha stands beside no page. There is no `k8s-secret` page type and no `*.k8s-secret.ts` anywhere in the tree, so nothing declares which of their keys are secret, `akasha page-secret-show` cannot be pointed at them, and a folder sweep that keys on pages would take twenty encrypted credentials away without a page refusing.",
   evidence:

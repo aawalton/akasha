@@ -4,7 +4,7 @@ export const threeReachersOfTheSameClusterApiServerNowStandInsideAkasha = {
   id: "01a06861-24c9-7018-94ad-01664cdb5226",
   pageTypeSlug: "finding",
   slug: "three-reachers-of-the-same-cluster-api-server-now-stand-inside-akasha",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/infrastructure",
   claim:
     "Three separate readers of PIPELINE_SA_TOKEN, K8S_API_BASE and K8S_CA_CERT_B64 now stand inside akasha, each caching its own config and building its own request against the same api server. They are near duplicates rather than duplicates: what differs is how a call that does not answer in time ends, and one of those differences is load-bearing for a live daemon. Collapsing them is worth doing and is not free, so it is recorded rather than done.",
   evidence:

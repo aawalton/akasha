@@ -4,7 +4,7 @@ export const threePageTypeSlugsAkashaAsksOfAreCarriedAsEntriesInstead = {
   id: "01a0685e-2c64-7914-aa25-120fd892474c",
   pageTypeSlug: "finding",
   slug: "three-page-type-slugs-akasha-asks-of-are-carried-as-entries-instead",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/temper",
   claim:
     "Three page-type slugs akasha's own code asks of — temper-mined-item, temper-mined-quest and temper-completed-task — carry no page type in akasha, because what each named now stands as a page-property entry beside a parent page rather than as a page of its own. Their old markdown definitions were ablated on that match, so the queries, the view and the resolvers naming them ask of a slug nothing answers to and want repointing at the page that carries the entries.",
   evidence:
