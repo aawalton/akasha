@@ -4,7 +4,6 @@
   "type": "module",
   "workspaces": [
     "akasha/**",
-    "tools/lib"
   ],
   "dependencies": {
     "@akasha/analysis-complexity": "workspace:*",
