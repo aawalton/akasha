@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 
 export const completionRing = {
   id: "01a0655b-9cdd-7e64-82e6-36eae889890f",

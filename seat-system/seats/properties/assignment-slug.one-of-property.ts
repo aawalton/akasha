@@ -1,5 +1,5 @@
-import type { DomainSlug } from "@akasha/domain-system/domain-slug"
-import type { InitiativeSlug } from "@akasha/domain-system/initiative-slug"
+import type { DomainSlug } from "@akasha/domains/domain-slug"
+import type { InitiativeSlug } from "@akasha/domains/initiative-slug"
 import type { OneOfProperty } from "@akasha/pages-system/one-of-property"
 
 export type AssignmentSlug = DomainSlug | InitiativeSlug

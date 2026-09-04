@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 
 export const naming = {
   id: "01a05341-b9a9-7d68-88b3-142e3e3ecd4d",

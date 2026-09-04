@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Code } from "./properties/code.file-property.ts"
 import type { Test } from "./properties/test.file-property.ts"

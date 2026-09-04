@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { NameFormatSlug } from "../page-properties/properties/name-format-slug.relation-property.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
 

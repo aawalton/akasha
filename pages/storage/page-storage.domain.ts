@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 
 export const pageStorage = {
   id: "01a06558-53dd-7ac7-8fdc-e45804c712aa",

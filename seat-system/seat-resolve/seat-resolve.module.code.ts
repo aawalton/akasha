@@ -6,8 +6,8 @@ import {
   type Documents,
   domainNamed,
   slugsIn,
-} from "@akasha/domain-system/domain-documents"
-import { domainsRead } from "@akasha/domain-system/domain-reading"
+} from "@akasha/domains/domain-documents"
+import { domainsRead } from "@akasha/domains/domain-reading"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { diskFileTree } from "@akasha/markdown-pages/file-tree"
 import { type Frontmatter, parseFrontmatter } from "@akasha/markdown-pages/frontmatter"

@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 
 export const readoutColor = {
   id: "01a0655b-9cdd-71e6-ac89-7f0145ea6ea3",

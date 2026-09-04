@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 
 export const oid = {
   id: "01a06815-ceaf-7127-8234-36c9903aec73",

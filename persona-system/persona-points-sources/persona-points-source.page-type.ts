@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { PointsSourceAggregate } from "./properties/points-source-aggregate.text-property.ts"
 import type { PointsSourceKind } from "./properties/points-source-kind.text-property.ts"

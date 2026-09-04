@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/domain-system",
+  "name": "@akasha/domains",
   "private": true,
   "type": "module",
   "exports": {

@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Description } from "../../temper/temper-things/properties/description.text-property.ts"
 import type { GroupSlugs } from "../readouts/properties/group-slugs.relation-property.ts"

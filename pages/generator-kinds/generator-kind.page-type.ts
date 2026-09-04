@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "../page-types/page-type.page-type.ts"
 import type { AfterChecks } from "./properties/after-checks.boolean-property.ts"
 

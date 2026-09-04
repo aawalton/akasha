@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { BuildCommand } from "./properties/build-command.text-property.ts"
 import type { ClusterServiceSlugs } from "./properties/cluster-service-slugs.relation-property.ts"

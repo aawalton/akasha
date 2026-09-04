@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 
 export const stoplight = {
   id: "01a0655b-9cdc-7c65-845c-0fcbf73b73dc",

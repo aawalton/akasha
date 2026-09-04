@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Lua50Config } from "./properties/lua50-config.named-file-property.ts"
 import type { UniversalConfig } from "./properties/universal-config.named-file-property.ts"

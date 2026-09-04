@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Model } from "../seats/properties/model.text-property.ts"
 import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"

@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 
 export const seatDeclaration = {
   id: "01a0658d-c92f-7bc5-aac8-847d02086752",

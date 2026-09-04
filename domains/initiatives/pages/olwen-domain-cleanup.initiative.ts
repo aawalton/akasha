@@ -14,7 +14,7 @@ export const olwenDomainCleanup = {
     {
       statement: "All domain files are organized in the domains/ folder.",
       workingMemory:
-        "The carry is measured and refuses nothing: 709 files, 4 ignored sidecars, 43 emptied folders cleared, 186 files repointed that name what moved and 7 that spell its path, `bun.lock` among them. `move` read `<page>.<property>.uncommitted.<ext>` as committed until `uncommittedHeld` at 970f4ccd. The orphaned `persona-slug` and its way in went at f2136f0a. 83 files spell `@akasha/domain-system` over 5 ways in, and 185 reach in by relative path, 171 of those to `domains/domain.page-type.ts`.",
+        "The carry is measured and refuses nothing: 709 files, 4 ignored sidecars, 43 emptied folders cleared, 186 files repointed that name what moved and 7 that spell its path, `bun.lock` among them. `move` read `<page>.<property>.uncommitted.<ext>` as committed until `uncommittedHeld` at 970f4ccd. The orphaned `persona-slug` and its way in went at f2136f0a. 83 files spell `@akasha/domains` over 5 ways in, and 185 reach in by relative path, 171 of those to `domains/domain.page-type.ts`.",
     },
     {
       statement: "The domains/ folder passes the folder-matches-a-shape check.",

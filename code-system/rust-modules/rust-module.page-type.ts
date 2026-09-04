@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Rust } from "./properties/rust.file-property.ts"
 import type { RustModuleName } from "./properties/rust-module-name.text-property.ts"

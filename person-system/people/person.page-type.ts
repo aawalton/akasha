@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { EmailAddress } from "@akasha/persona-system/email-address"
 import type { AnsweredBy } from "./properties/answered-by.relation-property.ts"

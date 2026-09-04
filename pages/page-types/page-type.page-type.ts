@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domain-system/domain"
+import type { Domain } from "@akasha/domains/domain"
 import type { PluralSlug } from "../../domains/properties/plural-slug.text-property.ts"
 import type { DetailConfig } from "./properties/detail-config.record-property.ts"
 import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"

@@ -715,7 +715,7 @@
       "name": "@akasha/digit-padding",
     },
     "domains": {
-      "name": "@akasha/domain-system",
+      "name": "@akasha/domains",
     },
     "domains/plain-language": {
       "name": "@akasha/plain-language",
@@ -3017,7 +3017,7 @@
 
     "@akasha/dockerfiles": ["@akasha/dockerfiles@workspace:infrastructure/dockerfiles"],
 
-    "@akasha/domain-system": ["@akasha/domain-system@workspace:domains"],
+    "@akasha/domains": ["@akasha/domains@workspace:domains"],
 
     "@akasha/editor-extension": ["@akasha/editor-extension@workspace:editor-extension"],
 
