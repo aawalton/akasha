@@ -502,10 +502,10 @@ index dd03174ce87276b6eac5bcb6b84bd3fae0322e89..2c99a75d217c6c2d29a8e15f2aa28d58
  })
  
  test("an address to the page type is rewritten in the form it was written in", () => {
-diff --git a/context/modules/warranting/warranting.module.test-fixtures.ts b/context/modules/warranting/warranting.module.test-fixtures.ts
-index e745197dbafdef979d9162024d7f721541acd673..449abb5b20ccc09c9fedc7e9929e9ebb542c3694 100644
---- a/context/modules/warranting/warranting.module.test-fixtures.ts
-+++ b/context/modules/warranting/warranting.module.test-fixtures.ts
+diff --git a/context/warranting/warranting.module.test-fixtures.ts b/context/warranting/warranting.module.test-fixtures.ts
+index 8b61224e112e377b261969ec63088ba588924f64..341fd02917661009a3be6fbc317b25e27e1dce56 100644
+--- a/context/warranting/warranting.module.test-fixtures.ts
++++ b/context/warranting/warranting.module.test-fixtures.ts
 @@ -236,7 +236,7 @@ export function roleListed(root: string, slug: string): Listed {
  export function pageTypeListed(root: string, slug: string, above: string | null): string {
    const id = mintedId(`type-${slug}`)
