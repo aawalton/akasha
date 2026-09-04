@@ -338,8 +338,10 @@ export const RESPELT = `export const runs = "bun akasha/far/one/held.module.ts"
 export const under = "what akasha/far/one/deep holds"
 `
 
-export function carriedSpelling(): string {
-  return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [SPELLER]: SPELT }))
+export function carriedMoved(): { readonly root: string; readonly said: Answer } {
+  const held = { [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [SPELLER]: SPELT }
+  const root = rebuilt(repoWith(held))
+  return { root, said: move(FOLDER_PAIR, givenIn(root)) }
 }
 
 export function folderWorld(): string {
