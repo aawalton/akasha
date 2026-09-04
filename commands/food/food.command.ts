@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const food = {
   id: "01a06809-250b-7ec1-99ac-2150ec2c5f74",
