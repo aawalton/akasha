@@ -23,7 +23,6 @@
     "./watcher-settings-lua-block": "./watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts",
     "./watcher-settings-normalize": "./watcher-settings-normalize/watcher-settings-normalize.module.code.ts",
     "./watcher-version": "./watcher-version/watcher-version.module.code.ts",
-    "./watcher-supabase-url": "./watcher-supabase-url/watcher-supabase-url.module.code.ts",
     "./watcher-error-cursor": "./watcher-error-cursor/watcher-error-cursor.module.code.ts",
     "./watcher-run-observing": "./watcher-run-observing/watcher-run-observing.module.code.ts",
     "./watcher-token": "./watcher-token/watcher-token.module.code.ts",
@@ -58,8 +57,6 @@
     "./watcher-auth": "./watcher-auth/watcher-auth.module.code.ts",
     "./watcher-dispatch-handling": "./watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts",
     "./watcher-dispatch": "./watcher-dispatch/watcher-dispatch.module.code.ts",
-    "./watcher-supabase-session": "./watcher-supabase-session/watcher-supabase-session.module.code.ts",
-    "./watcher-session-file": "./watcher-session-file/watcher-session-file.module.code.ts",
     "./watcher-main": "./watcher-main/watcher-main.module.code.ts"
   },
   "dependencies": {
@@ -71,7 +68,6 @@
     "@akasha/pages-system": "workspace:*",
     "@akasha/pages-system-service": "workspace:*",
     "@akasha/recurrence": "workspace:*",
-    "@akasha/supabase-client": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-build-codec": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",

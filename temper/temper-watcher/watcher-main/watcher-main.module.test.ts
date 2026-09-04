@@ -247,28 +247,20 @@ test("no file to watch asks to exit rather than exiting", async () => {
   expect(said.error).toEqual(["No files found to watch. Asking to exit."])
 })
 
-test("a session that will not be set asks to exit rather than exiting", async () => {
-  const { said, start } = await startWith({
-    openSession: sessionOf([answerOf(null)], { message: "bad token" }),
-  })
-  expect(start).toEqual({ kind: "exit", code: 1, reason: "set-session-failed" })
-  expect(said.error).toEqual(["setSession failed: bad token"])
-})
-
-test("a session still carrying no user after authentication asks to exit", async () => {
+test("a session naming no account asks to exit rather than signing anyone in", async () => {
   const { said, start } = await startWith({
     openSession: sessionOf([answerOf(null)]),
   })
-  expect(start).toEqual({ kind: "exit", code: 1, reason: "authentication-failed" })
-  expect(said.error).toEqual(["Authentication failed: no session"])
+  expect(start).toEqual({ kind: "exit", code: 1, reason: "no-valid-session" })
+  expect(said.error).toEqual(["No valid session (no session)."])
 })
 
-test("a session with no user starts authentication", async () => {
-  const { said } = await startWith({
-    openSession: sessionOf([answerOf(null), answerOf({ id: "u2" })]),
+test("a session refusing nothing and naming nobody asks to exit", async () => {
+  const { said, start } = await startWith({
+    openSession: sessionOf([{ data: { user: null }, error: null }]),
   })
-  expect(said.info[1]).toBe("No valid session (no session). Starting authentication...")
-  expect(said.info[2]).toBe("Authentication successful!")
+  expect(start).toEqual({ kind: "exit", code: 1, reason: "no-valid-session" })
+  expect(said.error).toEqual(["No valid session (no user)."])
 })
 
 test("a config that will not build asks to exit rather than exiting", async () => {
@@ -314,15 +306,8 @@ test("a checkout git cannot read reports itself as dev", async () => {
   expect(said.info[0]).toBe("Temper SavedVariables Watcher vdev starting")
 })
 
-test("a valid session is reported by the email it carries", async () => {
+test("a valid session is reported by the account it names", async () => {
   const { said } = await startWith()
-  expect(said.info).toContain("Session validated (alan@example.test)")
-})
-
-test("a valid session carrying no email is reported by its user id", async () => {
-  const { said } = await startWith({
-    openSession: sessionOf([answerOf({ id: "u1", email: null })]),
-  })
   expect(said.info).toContain("Session validated (u1)")
 })
 

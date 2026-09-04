@@ -2,11 +2,64 @@ import { expect, test } from "bun:test"
 import { SOURCE_UPDATE_EXIT_CODE } from "../watcher-updating/watcher-updating.module.code.ts"
 import {
   dispatchingThrough,
+  NO_ACCOUNT_FOR_TOKEN,
+  openTokenSession,
   SESSION_NOT_OPEN,
   sessionHold,
   uploadQueue,
   WATCHER_UPDATING,
 } from "./watcher-worker.module.code.ts"
+
+const A_TOKEN = `wt_${"0".repeat(64)}`
+
+test("a token the store matches opens a session naming the account the enrolment names", async () => {
+  const session = await openTokenSession(
+    () => A_TOKEN,
+    () => Promise.resolve({ accountPageId: "account-1" })
+  )
+  expect(await session.auth.getUser()).toEqual({
+    data: { user: { id: "account-1" } },
+    error: null,
+  })
+})
+
+test("a token the store matches to no enrolment opens a session carrying no user", async () => {
+  const session = await openTokenSession(
+    () => A_TOKEN,
+    () => Promise.resolve(null)
+  )
+  expect(await session.auth.getUser()).toEqual({
+    data: { user: null },
+    error: { message: NO_ACCOUNT_FOR_TOKEN },
+  })
+})
+
+test("a token that will not read opens a session carrying what went wrong", async () => {
+  const session = await openTokenSession(
+    () => {
+      throw new Error("TEMPER_WATCHER_TOKEN is not set")
+    },
+    () => Promise.resolve({ accountPageId: "account-1" })
+  )
+  expect(await session.auth.getUser()).toEqual({
+    data: { user: null },
+    error: { message: "TEMPER_WATCHER_TOKEN is not set" },
+  })
+})
+
+test("the token is checked once however often the session is asked", async () => {
+  let checked = 0
+  const session = await openTokenSession(
+    () => A_TOKEN,
+    () => {
+      checked += 1
+      return Promise.resolve({ accountPageId: "account-1" })
+    }
+  )
+  await session.auth.getUser()
+  await session.auth.getUser()
+  expect(checked).toBe(1)
+})
 
 test("the upload queue runs each upload after the one before it ends", async () => {
   const order: string[] = []

@@ -1,6 +1,4 @@
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { createClient } from "@akasha/supabase-client/user-client"
-import { authenticate } from "../watcher-auth/watcher-auth.module.code.ts"
 import { dispatch } from "../watcher-dispatch/watcher-dispatch.module.code.ts"
 import {
   type DispatchAnswer,
@@ -17,15 +15,12 @@ import {
 } from "../watcher-main/watcher-main.module.code.ts"
 import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import { reportRunOutcome } from "../watcher-run-reporting/watcher-run-reporting.module.code.ts"
-import {
-  SESSION_STORAGE_KEY,
-  sessionFileStore,
-} from "../watcher-session-file/watcher-session-file.module.code.ts"
-import {
-  initSupabaseClient,
-  newSupabaseClientHolder,
-  type WatcherSupabaseClient,
-} from "../watcher-supabase-session/watcher-supabase-session.module.code.ts"
+import type {
+  SignedInAnswer,
+  SignedInReader,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { resolveWatcherToken } from "../watcher-token/watcher-token.module.code.ts"
+import { validateWatcherToken } from "../watcher-token-check/watcher-token-check.module.code.ts"
 import {
   checkForUpdate,
   cleanupOldExe,
@@ -52,21 +47,38 @@ export function uploadQueue(): (run: () => Promise<void>) => undefined {
   }
 }
 
-export function openWatcherSession(): () => Promise<WatcherSupabaseClient> {
-  const holder = newSupabaseClientHolder()
-  return () =>
-    initSupabaseClient(holder, {
-      makeClient: (url, anonKey, options) => createClient(url, anonKey, options),
-      store: sessionFileStore(),
-      storageKey: SESSION_STORAGE_KEY,
-      authenticate,
-      log,
-      logError,
-    })
+export const NO_ACCOUNT_FOR_TOKEN = "the watcher token matched no enrolment naming an account"
+
+export type WatcherTokenRead = () => string
+
+export type WatcherTokenCheck = (token: unknown) => Promise<{ accountPageId: string } | null>
+
+export async function tokenSessionAnswer(
+  readToken: WatcherTokenRead,
+  checkToken: WatcherTokenCheck
+): Promise<SignedInAnswer> {
+  try {
+    const validated = await checkToken(readToken())
+    if (validated === null) {
+      return { data: { user: null }, error: { message: NO_ACCOUNT_FOR_TOKEN } }
+    }
+    return { data: { user: { id: validated.accountPageId } }, error: null }
+  } catch (thrown) {
+    const message = thrown instanceof Error ? thrown.message : String(thrown)
+    return { data: { user: null }, error: { message } }
+  }
+}
+
+export async function openTokenSession(
+  readToken: WatcherTokenRead = resolveWatcherToken,
+  checkToken: WatcherTokenCheck = validateWatcherToken
+): Promise<SignedInReader> {
+  const answer = await tokenSessionAnswer(readToken, checkToken)
+  return { auth: { getUser: () => Promise.resolve(answer) } }
 }
 
 export function dispatchingThrough(
-  reader: () => WatcherSupabaseClient
+  reader: () => SignedInReader
 ): (ask: DispatchAsk) => Promise<DispatchAnswer> {
   return async (ask) =>
     dispatch(ask.fileType, ask.content, ask.token, ask.serverUrl, {
@@ -80,7 +92,7 @@ export function dispatchingThrough(
 }
 
 export function reportingThrough(
-  reader: () => WatcherSupabaseClient
+  reader: () => SignedInReader
 ): (operations: readonly SyncOperation[]) => Promise<void> {
   return (operations) =>
     reportRunOutcome(operations, {
@@ -110,13 +122,11 @@ export function sessionHold<Client>(): SessionHold<Client> {
 }
 
 export async function runWorker(exit: (code: number) => never): Promise<WatcherStart> {
-  const openSession = openWatcherSession()
-  const session = sessionHold<WatcherSupabaseClient>()
+  const session = sessionHold<SignedInReader>()
 
   const started = await startWatcher({
     repoDir: akashaRoot(),
-    authenticate: () => authenticate(),
-    openSession: () => session.hold(openSession),
+    openSession: () => session.hold(() => openTokenSession()),
     dispatch: dispatchingThrough(session.take),
     report: reportingThrough(session.take),
     makeDispatchHandler,

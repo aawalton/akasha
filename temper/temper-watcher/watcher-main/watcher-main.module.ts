@@ -109,6 +109,10 @@ export const watcherMain = {
     },
     {
       invariantKind: "departure",
+      statement: "A session naming no account answers an exit rather than signing anyone in.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The server address is read from the environment only where a session is already valid.",
     },
@@ -138,7 +142,7 @@ export const watcherMain = {
     },
     {
       invariantKind: "departure",
-      statement: "The worker module hands this one a supabase session.",
+      statement: "The worker module hands this one the session the account is read from.",
     },
     {
       invariantKind: "departure",

@@ -22,7 +22,7 @@ export const watcherDispatch = {
     },
     {
       invariantKind: "departure",
-      statement: "The supabase reader is handed in by the caller.",
+      statement: "The signed-in reader is handed in by the caller.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,7 @@ export const watcherDispatch = {
     },
     {
       invariantKind: "departure",
-      statement: "The account a run is reported under is read from the supabase reader.",
+      statement: "The account a run is reported under is read from the signed-in reader.",
     },
     {
       invariantKind: "absence",
@@ -72,7 +72,7 @@ export const watcherDispatch = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches for a shared supabase client.",
+      statement: "Nothing here reaches for a shared signed-in reader.",
     },
   ],
 } as const satisfies Module

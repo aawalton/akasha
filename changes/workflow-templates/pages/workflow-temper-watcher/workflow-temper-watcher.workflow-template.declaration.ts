@@ -5,9 +5,6 @@ import { workflow } from "@akasha/workflow-language/workflow"
 
 const PUBLIC_BUN = "debian:bookworm-slim"
 
-const NEXT_PUBLIC_SUPABASE_ANON_KEY =
-  "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImpMOTJyQVNpV0lqMTd6M2cifQ.eyJpc3MiOiJodHRwczovL3N1cGFiYXNlLmFsYW53YWx0b24uY29tL2F1dGgvdjEiLCJyZWYiOiJhbGFud2FsdG9uLXBnMTgiLCJyb2xlIjoiYW5vbiIsImlhdCI6MTc3Njg3MTUwNiwiZXhwIjoyMDkyMjMxNTA2fQ.hxSMOLkfCZf3Z8hu9VgzszHOxLktt8tAx96QNrXvFML4JofiEyY0DWjFH7rhNYG6dIFZBeg-HVon2OXSniYJte1e6Imxb1CEUQUQFHzTsD8D_Rjw3WUBgHQLd9UdL-RAVj4HExqJ-kT8B37TwzgkeJYwnVg51xhj_Q0uF6atKXlitvkB3sgHQAw1zIxFq6BkJ1XwEKEOJrl_PkIO_o-zvDcTqXKbAIGGmZy9yJ7fP6TlQS6WOi21caLSeenzi63NYalhlVHb2QVGyDgiq2hIc2VAEhaIbc_m50GlYMGGJsDccKJ-gYIY3r-BearbsvFFgQFViHniQ8t2TSpuU4QqFQ"
-
 const INTERNAL_REGISTRY = "registry.registry.svc.cluster.local:5000"
 const IMAGE_NAME = "cluster/temper-watcher"
 
@@ -24,7 +21,6 @@ export default workflow("temper-watcher", {
         tag: (ci) => `${REGISTRY}/${IMAGE_NAME}:${ci.inputsHash}`,
         buildArgs: {
           COMMIT_SHA: (ci) => ci.commitSha,
-          NEXT_PUBLIC_SUPABASE_ANON_KEY,
         },
       }),
       skipIfTagExists: (ci) => `${REGISTRY}/${IMAGE_NAME}:${ci.inputsHash}`,

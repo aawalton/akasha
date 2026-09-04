@@ -1,10 +1,6 @@
 import { existsSync, unwatchFile, watchFile } from "node:fs"
 import { basename } from "node:path"
-import {
-  type Authenticated,
-  type PersistedSession,
-  serverUrlFromEnv,
-} from "../watcher-auth/watcher-auth.module.code.ts"
+import { serverUrlFromEnv } from "../watcher-auth/watcher-auth.module.code.ts"
 import {
   buildConfig as buildConfigFromDisk,
   sourcePathFor,
@@ -24,6 +20,7 @@ import { writeFileAtomicWithRetry } from "../watcher-retry/watcher-retry.module.
 import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import { isSourceRuntime } from "../watcher-runtime/watcher-runtime.module.code.ts"
 import { hashContent } from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   looksStructurallyComplete,
   matchesSnapshot,
@@ -43,33 +40,12 @@ export const HOURLY_UPDATE_CHECK_MS = 60 * 60_000
 
 const WATCHED_NAME = /^Temper(.+)\.lua$/
 
-export type Authenticate = () => Promise<Authenticated>
-
-export interface SessionUser {
-  readonly id: string
-  readonly email?: string | null
-}
-
-export interface SessionAnswer {
-  readonly data: { readonly user: SessionUser | null }
-  readonly error: { readonly message: string } | null
-}
-
-export type SetSessionAnswer = Pick<SessionAnswer, "error">
-
 export interface Logs {
   readonly log: (message: string) => undefined
   readonly logError: (message: string) => undefined
 }
 
-export interface WatcherSession {
-  readonly auth: {
-    readonly getUser: () => Promise<SessionAnswer>
-    readonly setSession: (tokens: PersistedSession) => Promise<SetSessionAnswer>
-  }
-}
-
-export type OpenSession = () => Promise<WatcherSession>
+export type OpenSession = () => Promise<SignedInReader>
 
 export type Dispatching = (ask: DispatchAsk) => Promise<DispatchAnswer>
 
@@ -247,7 +223,6 @@ export async function syncInventoryAtStart(sync: InventorySync): Promise<undefin
 
 export interface WatcherStartOptions extends Partial<Logs> {
   readonly repoDir: string
-  readonly authenticate: Authenticate
   readonly openSession: OpenSession
   readonly dispatch: Dispatching
   readonly report: Reporting
@@ -290,31 +265,14 @@ export async function startWatcher(options: WatcherStartOptions): Promise<Watche
   if (!fromSource) updating.cleanupOldExe()
 
   const session = await options.openSession()
-  let answer = await session.auth.getUser()
-  let serverUrl: string
-  if (answer.error != null || answer.data.user == null) {
-    log(`No valid session (${answer.error?.message ?? "no user"}). Starting authentication...`)
-    const authenticated = await options.authenticate()
-    serverUrl = authenticated.serverUrl
-    const set = await session.auth.setSession({
-      access_token: authenticated.session.access_token,
-      refresh_token: authenticated.session.refresh_token,
-    })
-    if (set.error != null) {
-      logError(`setSession failed: ${set.error.message}`)
-      return { kind: "exit", code: 1, reason: "set-session-failed" }
-    }
-    answer = await session.auth.getUser()
-    if (answer.error != null || answer.data.user == null) {
-      logError(`Authentication failed: ${answer.error?.message ?? "no user"}`)
-      return { kind: "exit", code: 1, reason: "authentication-failed" }
-    }
-    log("Authentication successful!")
-  } else {
-    serverUrl = (options.serverUrl ?? serverUrlFromEnv)()
-    const user = answer.data.user
-    log(`Session validated (${user.email ?? user.id})`)
+  const answer = await session.auth.getUser()
+  const user = answer.data.user
+  if (answer.error != null || user == null) {
+    logError(`No valid session (${answer.error?.message ?? "no user"}).`)
+    return { kind: "exit", code: 1, reason: "no-valid-session" }
   }
+  const serverUrl = (options.serverUrl ?? serverUrlFromEnv)()
+  log(`Session validated (${user.id})`)
 
   const wtToken = (options.resolveToken ?? resolveWatcherToken)()
 

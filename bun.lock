@@ -2718,7 +2718,6 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/recurrence": "workspace:*",
-        "@akasha/supabase-client": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",

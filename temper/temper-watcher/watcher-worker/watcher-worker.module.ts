@@ -53,6 +53,30 @@ export const watcherWorker = {
       statement: "The account a run outcome is reported under is read off the open session.",
     },
     {
+      invariantKind: "departure",
+      statement: "The session is the watcher's enrolment token checked against the page store.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The account the session names is the account that enrolment names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A token the store matches to no enrolment answers a session carrying no user.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A token that will not read answers a session carrying no user.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The token is checked once rather than on every ask.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here signs anyone in through a browser.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here decides what the watcher does with a file it read.",
     },

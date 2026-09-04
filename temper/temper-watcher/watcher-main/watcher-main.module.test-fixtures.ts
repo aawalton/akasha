@@ -4,12 +4,12 @@ import type {
   DispatchHandlerArgs,
 } from "../watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
 import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
+import type { SignedInAnswer } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { initialFileState } from "../watcher-state/watcher-state.module.code.ts"
 import {
   type Dispatching,
   type InventorySync,
   type OpenSession,
-  type SessionAnswer,
   startWatcher,
   type UpdateAttempt,
   type UpdateCheck,
@@ -78,7 +78,7 @@ export function updating(check: UpdateCheck, over: Partial<Updating> = {}): Upda
   }
 }
 
-export function answerOf(user: { id: string; email?: string | null } | null): SessionAnswer {
+export function answerOf(user: { id: string } | null): SignedInAnswer {
   return { data: { user }, error: user === null ? { message: "no session" } : null }
 }
 
@@ -128,10 +128,7 @@ export function checksInTurn(
   )
 }
 
-export function sessionOf(
-  answers: readonly SessionAnswer[],
-  setError: { message: string } | null = null
-): OpenSession {
+export function sessionOf(answers: readonly SignedInAnswer[]): OpenSession {
   let asked = 0
   return () =>
     Promise.resolve({
@@ -142,7 +139,6 @@ export function sessionOf(
           if (answer === undefined) throw new Error("no answer was prepared")
           return Promise.resolve(answer)
         },
-        setSession: () => Promise.resolve({ error: setError }),
       },
     })
 }
@@ -200,16 +196,10 @@ export function options(said: Said, over: Partial<WatcherStartOptions> = {}): Wa
   return {
     repoDir: `${SCRATCH_AT}/watcher-main-repo`,
     serverUrl: () => "https://server.test",
-    authenticate: () =>
-      Promise.resolve({
-        serverUrl: "https://authed.test",
-        session: { access_token: "a", refresh_token: "r" },
-      }),
     openSession: () =>
       Promise.resolve({
         auth: {
-          getUser: () => Promise.resolve(answerOf({ id: "u1", email: "alan@example.test" })),
-          setSession: () => Promise.resolve({ error: null }),
+          getUser: () => Promise.resolve(answerOf({ id: "u1" })),
         },
       }),
     dispatch: dispatched(),
