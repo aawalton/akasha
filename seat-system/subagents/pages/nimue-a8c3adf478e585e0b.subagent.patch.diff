@@ -1,0 +1,380 @@
+diff --git a/pages/pages-access/file-page-type-config/file-page-type-config.module.code.ts b/pages/pages-access/file-page-type-config/file-page-type-config.module.code.ts
+index cb8b8f9ad1537fd5da92648db448a8e134219329..e938da674025abcaf0da66e8c74dd59f1f05b65b 100644
+--- a/pages/pages-access/file-page-type-config/file-page-type-config.module.code.ts
++++ b/pages/pages-access/file-page-type-config/file-page-type-config.module.code.ts
+@@ -1,6 +1,6 @@
+ import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
+ import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
+-import { slugIn } from "@akasha/pages-system/page-address"
++import { slugsIn } from "@akasha/pages-system/page-value"
+ import type { Asked, Query } from "@akasha/pages-system-service/asking"
+ import { askingFor } from "@akasha/pages-system-service/calling"
+ import { z } from "zod"
+@@ -23,7 +23,7 @@ export type StatedConfig =
+       readonly asked: true
+       readonly stands: boolean
+       readonly value: unknown
+-      readonly extendsSlug: string | null
++      readonly extendsSlugs: readonly string[]
+     }
+   | { readonly asked: false; readonly why: string }
+ 
+@@ -37,9 +37,8 @@ function opened(held: unknown): unknown {
+   }
+ }
+ 
+-function slugAbove(named: unknown): string | null {
+-  if (typeof named !== "string" || named === "") return null
+-  return slugIn(named) ?? named
++function lastNamedFirst(named: readonly string[]): readonly string[] {
++  return [...named].reverse()
+ }
+ 
+ export async function statedConfigValue(
+@@ -55,13 +54,12 @@ export async function statedConfigValue(
+   })
+   if ("refused" in asked) return { asked: false, why: asked.refused }
+   const row = asked.rows[0]
+-  if (row === undefined) return { asked: true, stands: false, value: null, extendsSlug: null }
+-  const extendsSlug = row[EXTENDS_SLUG]
++  if (row === undefined) return { asked: true, stands: false, value: null, extendsSlugs: [] }
+   return {
+     asked: true,
+     stands: true,
+     value: opened(row[key]),
+-    extendsSlug: slugAbove(extendsSlug),
++    extendsSlugs: slugsIn(row[EXTENDS_SLUG]),
+   }
+ }
+ 
+@@ -70,18 +68,19 @@ export async function nearestConfigValue(
+   key: string,
+   deps: FilePageTypeConfigDeps = LIVE_PAGE_TYPE_CONFIG
+ ): Promise<StatedConfig> {
+-  const seen: string[] = []
+-  let at: string | null = pageTypeSlug
+-  for (let step = 0; at !== null && step < EXTENDS_CEILING; step += 1) {
+-    if (seen.includes(at)) break
+-    seen.push(at)
+-    const stated: StatedConfig = await statedConfigValue(at, key, deps)
++  const seen = new Set<string>()
++  const waiting: string[] = [pageTypeSlug]
++  for (let at = 0; at < waiting.length && seen.size < EXTENDS_CEILING; at += 1) {
++    const here = waiting[at]
++    if (here === undefined || seen.has(here)) continue
++    seen.add(here)
++    const stated: StatedConfig = await statedConfigValue(here, key, deps)
+     if (!stated.asked) return stated
+-    if (!stated.stands) break
++    if (!stated.stands) continue
+     if (stated.value !== null) return stated
+-    at = stated.extendsSlug
++    for (const above of lastNamedFirst(stated.extendsSlugs)) waiting.push(above)
+   }
+-  return { asked: true, stands: false, value: null, extendsSlug: null }
++  return { asked: true, stands: false, value: null, extendsSlugs: [] }
+ }
+ 
+ export function reached(stated: StatedConfig, what: string): unknown {
+@@ -110,12 +109,16 @@ export async function fileMediaConfig(
+ function inheritsFrom(
+   slug: string,
+   declares: ReadonlySet<string>,
+-  extendsOf: ReadonlyMap<string, string | null>
++  extendsOf: ReadonlyMap<string, readonly string[]>
+ ): boolean {
+-  let at: string | null | undefined = slug
+-  for (let step = 0; at != null && step < EXTENDS_CEILING; step += 1) {
+-    if (declares.has(at)) return true
+-    at = extendsOf.get(at) ?? null
++  const seen = new Set<string>()
++  const waiting: string[] = [slug]
++  for (let at = 0; at < waiting.length && seen.size < EXTENDS_CEILING; at += 1) {
++    const here = waiting[at]
++    if (here === undefined || seen.has(here)) continue
++    seen.add(here)
++    if (declares.has(here)) return true
++    for (const above of lastNamedFirst(extendsOf.get(here) ?? [])) waiting.push(above)
+   }
+   return false
+ }
+@@ -132,13 +135,12 @@ export async function fileMediaPageTypeSlugs(
+       `fileMediaPageTypeSlugs: the pages did not answer, so no page type can be said to render media; an empty set would read as a tree where nothing does (${asked.refused})`
+     )
+   }
+-  const extendsOf = new Map<string, string | null>()
++  const extendsOf = new Map<string, readonly string[]>()
+   const declares = new Set<string>()
+   for (const row of asked.rows) {
+     const slug = row.slug
+     if (typeof slug !== "string" || slug === "") continue
+-    const above = row[EXTENDS_SLUG]
+-    extendsOf.set(slug, slugAbove(above))
++    extendsOf.set(slug, slugsIn(row[EXTENDS_SLUG]))
+     if (opened(row[MEDIA_CONFIG_KEY]) !== null) declares.add(slug)
+   }
+   const kin = new Set<string>()
+diff --git a/pages/pages-access/file-page-type-config/file-page-type-config.module.test.ts b/pages/pages-access/file-page-type-config/file-page-type-config.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9ae0a8aed8be63ac482673b1c42eaf3600ee69f7
+--- /dev/null
++++ b/pages/pages-access/file-page-type-config/file-page-type-config.module.test.ts
+@@ -0,0 +1,201 @@
++import { expect, test } from "bun:test"
++import type { Asked, Query, Row } from "@akasha/pages-system-service/asking"
++import {
++  type FilePageTypeConfigDeps,
++  fileMediaPageTypeSlugs,
++  MEDIA_CONFIG_KEY,
++  nearestConfigValue,
++  SEQUENCE_CONFIG_KEY,
++  type StatedConfig,
++  statedConfigValue,
++} from "./file-page-type-config.module.code.ts"
++
++type Store = Readonly<Record<string, Row>>
++
++type Fake = {
++  readonly deps: FilePageTypeConfigDeps
++  readonly asked: readonly string[]
++}
++
++function fakeOver(store: Store): Fake {
++  const asked: string[] = []
++  const deps: FilePageTypeConfigDeps = {
++    ask: (query: Query): Promise<Asked> => {
++      const named = query.where?.slug?.is
++      if (named === undefined) return Promise.resolve({ rows: Object.values(store) })
++      asked.push(named)
++      const row = store[named]
++      return Promise.resolve({ rows: row === undefined ? [] : [row] })
++    },
++  }
++  return { deps, asked }
++}
++
++function typed(slug: string, above: unknown, said: unknown): Row {
++  const row: Record<string, unknown> = { slug }
++  if (above !== null) row.extendsSlug = above
++  if (said !== null) row[SEQUENCE_CONFIG_KEY] = said
++  return row
++}
++
++function answered(stated: StatedConfig): { readonly stands: boolean; readonly value: unknown } {
++  if (!stated.asked) throw new Error(`the fake store refused: ${stated.why}`)
++  return { stands: stated.stands, value: stated.value }
++}
++
++function aboveIn(stated: StatedConfig): readonly string[] {
++  if (!stated.asked) throw new Error(`the fake store refused: ${stated.why}`)
++  return stated.extendsSlugs
++}
++
++test("a page type naming one parent as a string still climbs the chain it always did", async () => {
++  const fake = fakeOver({
++    leaf: typed("leaf", "page-type/mid", null),
++    mid: typed("mid", "root", null),
++    root: typed("root", null, { said: "root" }),
++  })
++  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated).value).toEqual({ said: "root" })
++  expect(fake.asked).toEqual(["leaf", "mid", "root"])
++})
++
++test("a parent named as a one-item list is read as the same parent a bare string names", async () => {
++  const listed = fakeOver({
++    leaf: typed("leaf", ["page-type/root"], null),
++    root: typed("root", null, { said: "root" }),
++  })
++  const bare = fakeOver({
++    leaf: typed("leaf", "page-type/root", null),
++    root: typed("root", null, { said: "root" }),
++  })
++  const overList = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, listed.deps)
++  const overString = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, bare.deps)
++  expect(answered(overList).value).toEqual({ said: "root" })
++  expect(answered(overString).value).toEqual({ said: "root" })
++  expect(listed.asked).toEqual(bare.asked)
++})
++
++test("the parents a page type names are answered as a list whether one or many are named", async () => {
++  const fake = fakeOver({
++    one: typed("one", "page-type/up", null),
++    two: typed("two", ["page-type/up", "over"], null),
++    none: typed("none", null, null),
++  })
++  expect(aboveIn(await statedConfigValue("one", SEQUENCE_CONFIG_KEY, fake.deps))).toEqual(["up"])
++  expect(aboveIn(await statedConfigValue("two", SEQUENCE_CONFIG_KEY, fake.deps))).toEqual([
++    "up",
++    "over",
++  ])
++  expect(aboveIn(await statedConfigValue("none", SEQUENCE_CONFIG_KEY, fake.deps))).toEqual([])
++})
++
++test("of two parents the nearer states the key, and the deeper ancestor is never asked", async () => {
++  const fake = fakeOver({
++    leaf: typed("leaf", ["one", "two"], null),
++    one: typed("one", null, { said: "one" }),
++    two: typed("two", ["far"], null),
++    far: typed("far", null, { said: "far" }),
++  })
++  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated).value).toEqual({ said: "one" })
++  expect(fake.asked).toEqual(["leaf", "two", "one"])
++})
++
++test("where two parents are equally near and both state the key, the last named wins", async () => {
++  const fake = fakeOver({
++    leaf: typed("leaf", ["one", "two"], null),
++    one: typed("one", null, { said: "one" }),
++    two: typed("two", null, { said: "two" }),
++  })
++  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated).value).toEqual({ said: "two" })
++  expect(fake.asked).toEqual(["leaf", "two"])
++})
++
++test("where two grandparents are equally near, the last named of the last named wins", async () => {
++  const fake = fakeOver({
++    leaf: typed("leaf", ["one", "two"], null),
++    one: typed("one", ["a", "b"], null),
++    two: typed("two", ["c", "d"], null),
++    a: typed("a", null, { said: "a" }),
++    b: typed("b", null, { said: "b" }),
++    c: typed("c", null, { said: "c" }),
++    d: typed("d", null, { said: "d" }),
++  })
++  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated).value).toEqual({ said: "d" })
++  expect(fake.asked).toEqual(["leaf", "two", "one", "d"])
++})
++
++test("a ring of page types is walked once round and answered as stating nothing", async () => {
++  const fake = fakeOver({
++    a: typed("a", ["b"], null),
++    b: typed("b", ["c"], null),
++    c: typed("c", ["a"], null),
++  })
++  const stated = await nearestConfigValue("a", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated)).toEqual({ stands: false, value: null })
++  expect(fake.asked).toEqual(["a", "b", "c"])
++})
++
++test("a ring one member of which states the key is answered from that member", async () => {
++  const fake = fakeOver({
++    a: typed("a", ["b"], null),
++    b: typed("b", ["c"], null),
++    c: typed("c", ["a"], { said: "c" }),
++  })
++  const stated = await nearestConfigValue("a", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated).value).toEqual({ said: "c" })
++  expect(fake.asked).toEqual(["a", "b", "c"])
++})
++
++test("a page type whose parents state nothing is answered as stating nothing", async () => {
++  const fake = fakeOver({
++    leaf: typed("leaf", ["one", "two"], null),
++    one: typed("one", null, null),
++    two: typed("two", null, null),
++  })
++  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated)).toEqual({ stands: false, value: null })
++  expect(fake.asked).toEqual(["leaf", "two", "one"])
++})
++
++test("a parent naming no page type here stops that branch rather than the whole search", async () => {
++  const fake = fakeOver({
++    leaf: typed("leaf", ["two", "gone"], null),
++    two: typed("two", null, { said: "two" }),
++  })
++  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated).value).toEqual({ said: "two" })
++  expect(fake.asked).toEqual(["leaf", "gone", "two"])
++})
++
++test("a refusal from the pages is carried back rather than read as stating nothing", async () => {
++  const deps: FilePageTypeConfigDeps = { ask: () => Promise.resolve({ refused: "no index" }) }
++  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, deps)
++  expect(stated.asked).toBe(false)
++  expect(() => answered(stated)).toThrow("no index")
++})
++
++test("no more than twenty page types are asked, however far the search reaches", async () => {
++  const store: Record<string, Row> = {}
++  for (let step = 0; step < 40; step += 1) {
++    const said = step === 30 ? { said: "deep" } : null
++    store[`up${step}`] = typed(`up${step}`, step === 39 ? null : [`up${step + 1}`], said)
++  }
++  const fake = fakeOver(store)
++  const stated = await nearestConfigValue("up0", SEQUENCE_CONFIG_KEY, fake.deps)
++  expect(answered(stated)).toEqual({ stands: false, value: null })
++  expect(fake.asked.length).toBe(20)
++})
++
++test("a page type reaches a media config through either of the parents it names", async () => {
++  const fake = fakeOver({
++    plain: { slug: "plain" },
++    shown: { slug: "shown", [MEDIA_CONFIG_KEY]: { renderer: "image" } },
++    leaf: { slug: "leaf", extendsSlug: ["plain", "shown"] },
++    only: { slug: "only", extendsSlug: ["plain"] },
++  })
++  const kin = await fileMediaPageTypeSlugs(fake.deps)
++  expect([...kin].sort()).toEqual(["leaf", "shown"])
++})
+diff --git a/pages/pages-access/file-page-type-config/file-page-type-config.module.ts b/pages/pages-access/file-page-type-config/file-page-type-config.module.ts
+index e41ca7967faf1852e3ea218f25cc86d0a3bd482f..f94161a9aad3b64893ae1c3bcb6ac17c28ca142f 100644
+--- a/pages/pages-access/file-page-type-config/file-page-type-config.module.ts
++++ b/pages/pages-access/file-page-type-config/file-page-type-config.module.ts
+@@ -6,6 +6,7 @@ export const filePageTypeConfig = {
+   slug: "file-page-type-config",
+   definition: "what a file-backed page type states about how its pages are shown",
+   code: "ts",
++  test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -18,11 +19,28 @@ export const filePageTypeConfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key a page type states nothing under is asked of the page type above.",
++      statement: "A page type names one page type above it or several.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Twenty page types up the descent is as far as a key is followed.",
++      statement: "A key a page type states nothing under is asked of the page types above it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The page types above are asked a level at a time, the nearest level first.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key is answered from the nearest page type above that states it.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Where two page types above state a key and are equally near, the one named last is answered from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Twenty page types is as many as are asked before a key is given up on.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +48,12 @@ export const filePageTypeConfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The page type above is reached by the slug ending the address naming it.",
++      statement:
++        "A name above that is no page type here ends that one branch rather than the search.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type above is reached by the slug ending the address naming it.",
+     },
+     {
+       invariantKind: "departure",
