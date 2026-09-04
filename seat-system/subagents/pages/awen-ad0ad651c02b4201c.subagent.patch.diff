@@ -1,0 +1,13 @@
+diff --git a/seat-system/messaging/message-file/message-file.module.code.ts b/seat-system/messaging/message-file/message-file.module.code.ts
+index e9b3c04edb21fe96b956619a6de79d7935d969b9..a9a475dd6d7d0f5fd68e930091e36429e06fc593 100644
+--- a/seat-system/messaging/message-file/message-file.module.code.ts
++++ b/seat-system/messaging/message-file/message-file.module.code.ts
+@@ -112,7 +112,7 @@ export async function writeMessage(stated: {
+   readonly from: string
+   readonly warrant: Warrant
+   readonly body: string
+-}): Written {
++}): Promise<Written> {
+   const refused = recipientRefused(stated.to)
+   if (refused !== null) return { kind: "refused", detail: refused }
+   const unknown = unknownRecipient(stated.to)
