@@ -16,6 +16,24 @@ index 4b9d65495ef316e562812733668e4fd7fde86b5a..7b1f2e253d574a6932c4fe5dff5601d4
    if (wrote.kind === "refused") {
      throw new Error(`${SAID} nothing is waiting for \`${HANDLER}\`: ${wrote.detail}`)
    }
+diff --git a/rule-population/rule-population-reading/rule-population-reading.module.code.ts b/rule-population/rule-population-reading/rule-population-reading.module.code.ts
+index b77a80f874d996b205a7f98d9e79affc901a6265..97d4232ad54aac4b4fb5fd7cb7718bbe71844651 100644
+--- a/rule-population/rule-population-reading/rule-population-reading.module.code.ts
++++ b/rule-population/rule-population-reading/rule-population-reading.module.code.ts
+@@ -56,8 +56,11 @@ export async function readRulePopulations(log: (line: string) => void): Promise<
+   return { ...notification, repoRoot }
+ }
+ 
+-export function fileReadingFor(reading: SweptReading, log: (line: string) => void): string {
+-  const wrote = writeMessage({
++export async function fileReadingFor(
++  reading: SweptReading,
++  log: (line: string) => void
++): Promise<string> {
++  const wrote = await writeMessage({
+     to: READER,
+     from: SENDER,
+     warrant: "announce",
 diff --git a/seat-system/agent-record/agent-record.module.code.ts b/seat-system/agent-record/agent-record.module.code.ts
 index 3a82cd068b5eaf6100bc48bbe8c4c7f8f5efeca0..a11c0b8f8b66b7ff02d4f84a5dd290076dbd6ab2 100644
 --- a/seat-system/agent-record/agent-record.module.code.ts
