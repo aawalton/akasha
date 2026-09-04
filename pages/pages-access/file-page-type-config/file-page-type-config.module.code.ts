@@ -1,6 +1,6 @@
 import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
-import { slugIn } from "@akasha/pages-system/page-address"
+import { slugsIn } from "@akasha/pages-system/page-value"
 import type { Asked, Query } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
 import { z } from "zod"
@@ -23,7 +23,7 @@ export type StatedConfig =
       readonly asked: true
       readonly stands: boolean
       readonly value: unknown
-      readonly extendsSlug: string | null
+      readonly extendsSlugs: readonly string[]
     }
   | { readonly asked: false; readonly why: string }
 
@@ -37,9 +37,8 @@ function opened(held: unknown): unknown {
   }
 }
 
-function slugAbove(named: unknown): string | null {
-  if (typeof named !== "string" || named === "") return null
-  return slugIn(named) ?? named
+function lastNamedFirst(named: readonly string[]): readonly string[] {
+  return [...named].reverse()
 }
 
 export async function statedConfigValue(
@@ -55,13 +54,12 @@ export async function statedConfigValue(
   })
   if ("refused" in asked) return { asked: false, why: asked.refused }
   const row = asked.rows[0]
-  if (row === undefined) return { asked: true, stands: false, value: null, extendsSlug: null }
-  const extendsSlug = row[EXTENDS_SLUG]
+  if (row === undefined) return { asked: true, stands: false, value: null, extendsSlugs: [] }
   return {
     asked: true,
     stands: true,
     value: opened(row[key]),
-    extendsSlug: slugAbove(extendsSlug),
+    extendsSlugs: slugsIn(row[EXTENDS_SLUG]),
   }
 }
 
@@ -70,18 +68,19 @@ export async function nearestConfigValue(
   key: string,
   deps: FilePageTypeConfigDeps = LIVE_PAGE_TYPE_CONFIG
 ): Promise<StatedConfig> {
-  const seen: string[] = []
-  let at: string | null = pageTypeSlug
-  for (let step = 0; at !== null && step < EXTENDS_CEILING; step += 1) {
-    if (seen.includes(at)) break
-    seen.push(at)
-    const stated: StatedConfig = await statedConfigValue(at, key, deps)
+  const seen = new Set<string>()
+  const waiting: string[] = [pageTypeSlug]
+  for (let at = 0; at < waiting.length && seen.size < EXTENDS_CEILING; at += 1) {
+    const here = waiting[at]
+    if (here === undefined || seen.has(here)) continue
+    seen.add(here)
+    const stated: StatedConfig = await statedConfigValue(here, key, deps)
     if (!stated.asked) return stated
-    if (!stated.stands) break
+    if (!stated.stands) continue
     if (stated.value !== null) return stated
-    at = stated.extendsSlug
+    for (const above of lastNamedFirst(stated.extendsSlugs)) waiting.push(above)
   }
-  return { asked: true, stands: false, value: null, extendsSlug: null }
+  return { asked: true, stands: false, value: null, extendsSlugs: [] }
 }
 
 export function reached(stated: StatedConfig, what: string): unknown {
@@ -110,12 +109,16 @@ export async function fileMediaConfig(
 function inheritsFrom(
   slug: string,
   declares: ReadonlySet<string>,
-  extendsOf: ReadonlyMap<string, string | null>
+  extendsOf: ReadonlyMap<string, readonly string[]>
 ): boolean {
-  let at: string | null | undefined = slug
-  for (let step = 0; at != null && step < EXTENDS_CEILING; step += 1) {
-    if (declares.has(at)) return true
-    at = extendsOf.get(at) ?? null
+  const seen = new Set<string>()
+  const waiting: string[] = [slug]
+  for (let at = 0; at < waiting.length && seen.size < EXTENDS_CEILING; at += 1) {
+    const here = waiting[at]
+    if (here === undefined || seen.has(here)) continue
+    seen.add(here)
+    if (declares.has(here)) return true
+    for (const above of lastNamedFirst(extendsOf.get(here) ?? [])) waiting.push(above)
   }
   return false
 }
@@ -132,13 +135,12 @@ export async function fileMediaPageTypeSlugs(
       `fileMediaPageTypeSlugs: the pages did not answer, so no page type can be said to render media; an empty set would read as a tree where nothing does (${asked.refused})`
     )
   }
-  const extendsOf = new Map<string, string | null>()
+  const extendsOf = new Map<string, readonly string[]>()
   const declares = new Set<string>()
   for (const row of asked.rows) {
     const slug = row.slug
     if (typeof slug !== "string" || slug === "") continue
-    const above = row[EXTENDS_SLUG]
-    extendsOf.set(slug, slugAbove(above))
+    extendsOf.set(slug, slugsIn(row[EXTENDS_SLUG]))
     if (opened(row[MEDIA_CONFIG_KEY]) !== null) declares.add(slug)
   }
   const kin = new Set<string>()

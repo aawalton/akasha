@@ -6,6 +6,7 @@ export const filePageTypeConfig = {
   slug: "file-page-type-config",
   definition: "what a file-backed page type states about how its pages are shown",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -18,11 +19,28 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A key a page type states nothing under is asked of the page type above.",
+      statement: "A page type names one page type above it or several.",
     },
     {
       invariantKind: "departure",
-      statement: "Twenty page types up the descent is as far as a key is followed.",
+      statement: "A key a page type states nothing under is asked of the page types above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page types above are asked a level at a time, the nearest level first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key is answered from the nearest page type above that states it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Where two page types above state a key and are equally near, the one named last is answered from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Twenty page types is as many as are asked before a key is given up on.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +48,12 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "The page type above is reached by the slug ending the address naming it.",
+      statement:
+        "A name above that is no page type here ends that one branch rather than the search.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type above is reached by the slug ending the address naming it.",
     },
     {
       invariantKind: "departure",
