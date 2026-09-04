@@ -74,6 +74,18 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "The commit taking that page away says the patch went to the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That commit names the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose patch went nowhere is taken away with no seat named.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A sweep finds a patch by the patch file rather than by the page.",
     },
     {

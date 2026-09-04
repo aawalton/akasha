@@ -130,12 +130,13 @@ export function took(root: string, seatName: string, own: string): boolean {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   if (!existsSync(join(root, at))) return true
-  tookInUnder(root, seatName, [at])
-  const gone = handed(
-    root,
-    [{ path: at, body: null }],
-    `${slug} is done, so its page goes; what it was is in this repository's history`
-  )
+  const went = tookInUnder(root, seatName, [at])
+  const said =
+    went.length === 0
+      ? `${slug} is done, so its page goes; what it was is in this repository's history`
+      : `${slug} is done, so its page goes; the patch it drafted went to the ${seatName} seat,` +
+        ` which holds that draft now`
+  const gone = handed(root, [{ path: at, body: null }], said)
   if (gone) dropReadings(root, [at])
   return gone
 }
