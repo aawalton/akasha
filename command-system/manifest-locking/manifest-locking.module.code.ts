@@ -1,5 +1,14 @@
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import {
+  existsSync,
+  lstatSync,
+  mkdirSync,
+  mkdtempSync,
+  readdirSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
+import { dirname, join, relative } from "node:path"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
 import { holding } from "../holding/holding.module.code.ts"
@@ -28,6 +37,10 @@ const BUN = "bun"
 const LOCKFILE_ONLY = ["install", "--lockfile-only"]
 
 const INSTALL = ["install"]
+
+const MODULES = "node_modules"
+
+const SCOPE = "@"
 
 export const LOCKING_SPELLING =
   `the lockfile is made again from the manifests the base commit tracks with this change worked ` +
@@ -153,6 +166,40 @@ function lockAt(root: string): Uint8Array | null {
   }
 }
 
+function isStranded(at: string): boolean {
+  try {
+    if (!lstatSync(at).isSymbolicLink()) return false
+  } catch {
+    return false
+  }
+  return !existsSync(at)
+}
+
+function strandedIn(root: string): readonly string[] {
+  const modules = join(root, MODULES)
+  const took: string[] = []
+  const walk = (dir: string, scoped: boolean): undefined => {
+    let names: readonly string[]
+    try {
+      names = readdirSync(dir)
+    } catch {
+      return
+    }
+    for (const name of names) {
+      const one = join(dir, name)
+      if (scoped && name.startsWith(SCOPE)) {
+        walk(one, false)
+        continue
+      }
+      if (!isStranded(one)) continue
+      rmSync(one)
+      took.push(relative(modules, one))
+    }
+  }
+  walk(modules, true)
+  return took.sort()
+}
+
 export function installedIn(root: string): Installing {
   const was = lockAt(root)
   const took = ran([BUN, ...INSTALL], { cwd: root })
@@ -177,10 +224,17 @@ export function installedIn(root: string): Installing {
       ],
     }
   }
+  const stranded = strandedIn(root)
   return {
     said: [
       `the checkout was installed onto this commit, so what the workspace reaches its packages ` +
         `through follows the \`${MANIFEST}\` this change carries`,
+      ...(stranded.length === 0
+        ? []
+        : [
+            `${stranded.length} link(s) under \`${MODULES}\` reached a folder no \`${MANIFEST}\` ` +
+              `names any more, so they are taken away — ${stranded.join(", ")}`,
+          ]),
     ],
     wrong: [],
   }

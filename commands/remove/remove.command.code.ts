@@ -138,11 +138,11 @@ function openedIn(
       bare.push(path)
       continue
     }
-    if (!existsSync(at)) {
+    if (!thereAt(at)) {
       gone.push(path)
       continue
     }
-    if (statSync(at).isFile()) {
+    if (!existsSync(at) || statSync(at).isFile()) {
       opened.push(path)
       continue
     }
@@ -291,6 +291,16 @@ export function unnamingFor(root: string, going: readonly string[]): Unnaming {
           `removal went ahead alone — ${why instanceof Error ? why.message : String(why)}`,
       ],
     }
+  }
+}
+
+function thereAt(at: string): boolean {
+  if (existsSync(at)) return true
+  try {
+    lstatSync(at)
+    return true
+  } catch {
+    return false
   }
 }
 
