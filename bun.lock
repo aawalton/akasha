@@ -718,6 +718,9 @@
     },
     "domain-system/plain-language": {
       "name": "@akasha/plain-language",
+      "dependencies": {
+        "onnxruntime-node": "1.29.0",
+      },
     },
     "editor-extension": {
       "name": "@akasha/editor-extension",

@@ -14,6 +14,8 @@ export const plainLanguage = {
     "module/dependency-graph",
     "module/word-tokenizing",
     "module/shape-predicate",
+    "module/onnx-parsing",
+    "page-type/parser-model",
   ],
   invariants: [
     {
