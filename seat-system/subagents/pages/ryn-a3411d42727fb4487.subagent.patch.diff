@@ -15,3 +15,17 @@ index 612fa36686fc91245ec1fb157cb6862fc26df1bf..8087938bcdeaede211370298f7ba4693
      },
      {
        invariantKind: "departure",
+diff --git a/commands/track/session-rows/session-rows.module.ts b/commands/track/session-rows/session-rows.module.ts
+index 89312568c155d7df346020e3380776263c5aa43b..02b98a089ce0efab13a3b33f3931fd598cf5e3c5 100644
+--- a/commands/track/session-rows/session-rows.module.ts
++++ b/commands/track/session-rows/session-rows.module.ts
+@@ -49,7 +49,8 @@ export const sessionRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An alias more than one relationship carries tags neither.",
++      statement:
++        "An alias more than one relationship carries tags the stretch with no relationship.",
+     },
+     {
+       invariantKind: "departure",
