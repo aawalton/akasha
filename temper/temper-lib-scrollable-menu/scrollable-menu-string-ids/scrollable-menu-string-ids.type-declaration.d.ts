@@ -1,0 +1,5 @@
+declare const SI_COMBO_BOX_MAX_SELECTIONS_REACHED_ALERT: number
+declare const SI_QUICKSLOTS_EMPTY: number
+declare const SI_SCREEN_NARRATION_NEW_ICON_NARRATION: number
+declare const SI_SORT_FILTER_LIST_NO_RESULTS: number
+declare const SI_STATS_CLEAR_ALL_ATTRIBUTES_BUTTON: number
