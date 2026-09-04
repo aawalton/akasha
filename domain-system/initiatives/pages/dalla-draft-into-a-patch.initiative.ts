@@ -8,11 +8,10 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "Drafting is what write and edit do when nothing says otherwise.",
+      statement: "The glass is broken only where a patch applies.",
       workingMemory:
-        "The blocker is gone: a draft says what the checks refused and keeps the change either way, so flipping the default no longer wedges an agent whose patch holds a half-finished state. What is left is the flag. `landingAsked` forks on `held.draft === true` at one line, and `write` and `edit` each declare `--draft` in `taking` and in `BARE`. The glass intent lands with this one: once every authored change goes through a patch, `--break-the-glass` belongs on `patch apply` alone.",
+        "`patch apply` takes `--break-the-glass` already. What is left is taking it off `write` and `edit`, which still name `BREAK_GLASS` in `VALUED` and still build a `Bypass` from it. Breaking the glass at a draft buys nothing, because a draft lands nothing, and the checks that matter run where the patch applies. Wait for the suites to come onto the drafting contract before touching those two files again.",
     },
-    { statement: "The glass is broken only where a patch applies." },
     {
       statement: "A rename landing under an open patch leaves that patch coherent.",
       workingMemory:
