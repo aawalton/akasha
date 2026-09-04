@@ -1,8 +1,6 @@
 import { spawnSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import { shape } from "@akasha/utils-narrow/shape"
 
 const LOG = "[spawn-settings]"
@@ -60,7 +58,10 @@ const EXIT_DATA = 2
 
 const MOST = 32 * 1024 * 1024
 
-const AGENT_SETTINGS_AT = join(rootOf(import.meta.dir), "tools/agent-settings.ts")
+const AGENT_SETTINGS_AT = new URL(
+  "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts",
+  import.meta.url
+).pathname
 
 const liveAsk: AskAgentSettings = async () => {
   const ran = spawnSync(process.execPath, [AGENT_SETTINGS_AT], {
