@@ -12,3 +12,15 @@ index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..4eca50c36b54b016d6f861db2c924152
  
  export function askedKeys(query: PageQuery): readonly string[] {
    const wanted = new Set<string>(query.keys ?? [])
+diff --git a/pages/query-reduce/page-query-reduce.module.code.ts b/pages/query-reduce/page-query-reduce.module.code.ts
+index 101b2bda68280cdbe9402bad163d2dc47c4ecb0a..f7f3b6e0baa83bf910fd223d4a6de0da25f0f64b 100644
+--- a/pages/query-reduce/page-query-reduce.module.code.ts
++++ b/pages/query-reduce/page-query-reduce.module.code.ts
+@@ -1,5 +1,5 @@
+-import type { Row } from "../page-derive-shape/page-derive-shape.module.code.ts"
+-import type { PageQuery } from "../page-query-shape/page-query-shape.module.code.ts"
++import type { Row } from "../derive-shape/page-derive-shape.module.code.ts"
++import type { PageQuery } from "../query-shape/page-query-shape.module.code.ts"
+ 
+ const NUMBER = "number"
+ 
