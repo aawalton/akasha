@@ -1,0 +1,96 @@
+diff --git a/pages/indexes/index-entries/index-entries.module.code.ts b/pages/indexes/index-entries/index-entries.module.code.ts
+index 78e15c775bea21bb18932d423d5d8fa6fec497d8..804561e605d4b1455f866078d819590315a0ae6b 100644
+--- a/pages/indexes/index-entries/index-entries.module.code.ts
++++ b/pages/indexes/index-entries/index-entries.module.code.ts
+@@ -3,7 +3,7 @@ import { exportedAs } from "@akasha/pages-system/page-export-name"
+ import { besideAt, secretAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
+ import { partsOf } from "@akasha/pages-system/page-file-parts"
+ import { slugFor } from "@akasha/pages-system/page-property-key"
+-import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
++import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
+ import { indexIdentity } from "../index/identity/index-identity.index.ts"
+ import { indexSchema } from "../index/schema/index-schema.index.ts"
+ import { answered, readingIn, valuesOfType } from "../index-reading/index-reading.module.code.ts"
+@@ -107,6 +107,8 @@ const DECLARED = "properties"
+ 
+ const DECLARES = "pagePropertySlug"
+ 
++const EXTENDS = "extendsSlug"
++
+ const FALLBACK = "default"
+ 
+ function declaredIn(value: Value): Sidecars {
+@@ -129,14 +131,14 @@ function declaredIn(value: Value): Sidecars {
+ 
+ export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
+   const own = new Map<string, Sidecars>()
+-  const above = new Map<string, string>()
++  const above = new Map<string, readonly string[]>()
+   for (const value of values) {
+     if (textAt(value, "pageTypeSlug") !== PAGE_TYPE) continue
+     const slug = textAt(value, "slug")
+     if (slug === null) continue
+     own.set(slug, declaredIn(value))
+-    const extended = slugAt(value, "extendsSlug")
+-    if (extended !== null) above.set(slug, extended)
++    const extended = slugsIn(value[EXTENDS])
++    if (extended.length > 0) above.set(slug, extended)
+   }
+   const found = new Map<string, Sidecars>()
+   for (const slug of own.keys()) {
+@@ -144,8 +146,10 @@ export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
+     let uncommitted = false
+     const beside = new Map<string, string>()
+     const walked = new Set<string>()
+-    let here: string | undefined = slug
+-    while (here !== undefined && !walked.has(here)) {
++    const waiting: string[] = [slug]
++    for (let at = 0; at < waiting.length; at += 1) {
++      const here = waiting[at]
++      if (here === undefined || walked.has(here)) continue
+       walked.add(here)
+       const held = own.get(here)
+       if (held?.secret === true) secret = true
+@@ -153,7 +157,7 @@ export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
+       for (const [key, fallback] of held?.besides ?? []) {
+         if (!beside.has(key)) beside.set(key, fallback)
+       }
+-      here = above.get(here)
++      for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
+     }
+     found.set(slug, { secret, uncommitted, besides: beside })
+   }
+@@ -284,17 +288,19 @@ function carriedBy(
+   types: ReadonlyMap<string, Value>
+ ): FilePropertiesBy {
+   const bare = bareAmong(properties)
+-  const above = new Map<string, string>()
++  const above = new Map<string, readonly string[]>()
+   for (const [slug, value] of types) {
+-    const up = slugAt(value, "extendsSlug")
+-    if (up !== null) above.set(slug, up)
++    const up = slugsIn(value[EXTENDS])
++    if (up.length > 0) above.set(slug, up)
+   }
+   const found = new Map<string, ReadonlyMap<string, string | null>>()
+   for (const slug of types.keys()) {
+     const held = new Map<string, string | null>()
+     const walked = new Set<string>()
+-    let here: string | undefined = slug
+-    while (here !== undefined && !walked.has(here)) {
++    const waiting: string[] = [slug]
++    for (let at = 0; at < waiting.length; at += 1) {
++      const here = waiting[at]
++      if (here === undefined || walked.has(here)) continue
+       walked.add(here)
+       const declared = types.get(here)?.[DECLARED]
+       for (const one of Array.isArray(declared) ? declared : []) {
+@@ -306,7 +312,7 @@ function carriedBy(
+         if (hit.fileName === null && !besides(hit.pageTypeSlug)) continue
+         if (!held.has(hit.propertySlug)) held.set(hit.propertySlug, hit.fileName)
+       }
+-      here = above.get(here)
++      for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
+     }
+     found.set(slug, held)
+   }
