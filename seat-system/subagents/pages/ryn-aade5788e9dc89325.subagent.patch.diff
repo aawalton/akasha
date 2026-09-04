@@ -1,0 +1,79 @@
+diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
+index 5d537604d45c75e9352e861177c326f237ca9058..cd544e4bd3516f4a9ca9576921182eef965b9981 100644
+--- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
++++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
+@@ -23,7 +23,7 @@ export const mobilityStanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading is stated as text, as a number, or as both.",
++      statement: "A reading is stated as text, as a number, or as text and a number together.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts b/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts
+index 3e63b3a81879cd439c858fb8ee0fc09e58619527..5802f68e208f2f5dc3748ed20734b6a6b063e6e1 100644
+--- a/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts
++++ b/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts
+@@ -21,7 +21,7 @@ export const patternGroups = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A pattern belongs to no region where it trains both or neither.",
++      statement: "A pattern belongs to no region unless it trains that region and no other.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
+index cd3d48b9cc42f89a119e1f881649287d776f2f88..9d5ebc056a2f9205c09cc3c5d87bdbe963540a2b 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
+@@ -27,7 +27,7 @@ export const noAngleBracketCast = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One wrapping another is refused once for each.",
++      statement: "One assertion wrapping another is refused once for each assertion.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/instrument/instrument.domain.ts b/instrument/instrument.domain.ts
+index 4d6b6f54b7bdefef17c147d7b6ab2ff099dbbe40..b06cfdbb377e3ed7acc3491f3198904272279698 100644
+--- a/instrument/instrument.domain.ts
++++ b/instrument/instrument.domain.ts
+@@ -65,7 +65,7 @@ export const instrument = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run held to more than one cost has a budget for each.",
++      statement: "A run held to more than one cost has a budget for each cost.",
+     },
+   ],
+   directives: [
+diff --git a/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts b/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
+index ffd9ada170c02e4944c9790ca967531784e48775..83619000b275fbcf18015201a3b36d0ba3330059 100644
+--- a/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
++++ b/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
+@@ -44,7 +44,8 @@ export const temperGearThing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A key two gear page types both carry is declared here rather than in each.",
++      statement:
++        "A key two gear page types both carry is declared here rather than in each page type.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-keybinder-addon/keybinder-filter/keybinder-filter.module.ts b/temper/temper-keybinder-addon/keybinder-filter/keybinder-filter.module.ts
+index 183ad3b72a6560579e3240ed3f0e2d99a5de334e..0806eee549461662568647ec3b76cdbb05bc1cb5 100644
+--- a/temper/temper-keybinder-addon/keybinder-filter/keybinder-filter.module.ts
++++ b/temper/temper-keybinder-addon/keybinder-filter/keybinder-filter.module.ts
+@@ -10,7 +10,7 @@ export const keybinderFilter = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The list is rebuilt a fifth of a second after the last keystroke rather than on each.",
++        "The list is rebuilt a fifth of a second after the last keystroke rather than on every keystroke.",
+     },
+     {
+       invariantKind: "departure",
