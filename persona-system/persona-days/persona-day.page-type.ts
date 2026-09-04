@@ -8,15 +8,15 @@ import type { SleepPoints } from "../../alan/tracking/daily/wake-days/properties
 import type { StrengthPoints } from "../../alan/tracking/daily/wake-days/properties/strength-points.number-property.ts"
 import type { StrengthVolume } from "../../alan/tracking/daily/wake-days/properties/strength-volume.number-property.ts"
 import type { TaskPoints } from "../../alan/tracking/daily/wake-days/properties/task-points.number-property.ts"
-import type { PersonaSlug } from "../../domain-system/initiatives/properties/persona-slug.relation-property.ts"
 import type { GreenDayPoints } from "../personas/properties/green-day-points.number-property.ts"
 import type { ValueSlug } from "../personas/properties/value-slug.text-property.ts"
 import type { BytePoints } from "./properties/byte-points.number-property.ts"
+import type { DayPersonaSlug } from "./properties/day-persona-slug.relation-property.ts"
 import type { SourcePoints } from "./properties/source-points.number-property.ts"
 import type { SourceTotalSnapshot } from "./properties/source-total-snapshot.number-property.ts"
 
 export type PersonaDay = Page & {
-  personaSlug: PersonaSlug
+  personaSlug: DayPersonaSlug
   date: TrackedDate
   greenDayPoints: GreenDayPoints
   sourcePoints: SourcePoints
@@ -46,6 +46,7 @@ export const personaDay = {
     "formula-property/green-day-fraction",
     "formula-property/green-day-rung",
     "formula-property/points",
+    "relation-property/day-persona-slug",
   ],
   properties: [
     { pagePropertySlug: "persona-slug", required: true, many: false },
