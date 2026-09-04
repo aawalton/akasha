@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { said as git } from "@akasha/git/git-running"
 import { put } from "@akasha/testing-system/putting"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { measure } from "./measure.command.code.ts"
 
 const scratch = scratchWorld()
