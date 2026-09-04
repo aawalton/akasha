@@ -6,7 +6,7 @@ export const locationTracesAccess = {
   slug: "location-traces-access",
   definition: "the shape one recorded place is carried in, and the refusal a batch of places meets",
   manifest: "json",
-  partSlugs: ["module/trace-shape", "module/trace-rows", "module/trace-insert"],
+  partSlugs: ["module/trace-shape", "module/trace-insert"],
   invariants: [
     {
       invariantKind: "absence",
