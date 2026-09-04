@@ -34,9 +34,9 @@ export type Found = { readonly path: string }
 
 export type Placing = (root: string, pageTypeSlug: string, slug: string) => readonly Found[]
 
-const UNDER = "akasha/"
-
 const ABOVE = ".."
+
+const PARTED_BY = "/"
 
 export const placing: Placing = listedAt
 
@@ -61,10 +61,10 @@ export function refusalIn(asked: Asked): string | null {
     return "a read carries at least one path or one page"
   }
   for (const one of paths) {
-    if (!one.startsWith(UNDER)) {
-      return `\`${one}\` stands outside \`${UNDER}\`, and this answers for akasha alone`
+    if (one === "" || one.startsWith(PARTED_BY)) {
+      return `\`${one}\` is no path inside the repository, and this reads what the repository holds`
     }
-    if (one.split("/").includes(ABOVE)) return `\`${one}\` reaches above the root`
+    if (one.split(PARTED_BY).includes(ABOVE)) return `\`${one}\` reaches above the root`
     const withheld = withheldIn(one)
     if (withheld !== null) return withheld
   }
