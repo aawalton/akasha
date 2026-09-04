@@ -3,8 +3,6 @@ import { z } from "zod"
 import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { numberOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
-export const PERSONA_PAGE_TYPE_SLUG = "persona"
-
 export const PersonaSessionRowSchema = z
   .object({
     id: z.string(),
@@ -12,24 +10,15 @@ export const PersonaSessionRowSchema = z
     title: z.string().optional(),
     valueSlug: z.string().optional(),
     greenDayPoints: z.number().optional(),
-    totalPoints: z.number().optional(),
   })
   .passthrough()
 
 export interface SessionTotalsOutcome {
   readonly personaTitle: string
   readonly total: number
-  readonly personaWritten: boolean
-}
-
-export interface SessionPointsPatch {
-  readonly pageTypeSlug: typeof PERSONA_PAGE_TYPE_SLUG
-  readonly slug: string
-  readonly totalPoints: number
 }
 
 export interface SessionPointsPlan {
-  readonly patches: readonly SessionPointsPatch[]
   readonly outcomes: readonly SessionTotalsOutcome[]
 }
 
@@ -37,33 +26,23 @@ export function planSessionPointsWrites(
   total: number,
   personas: readonly z.infer<typeof PersonaSessionRowSchema>[]
 ): SessionPointsPlan {
-  const patches: SessionPointsPatch[] = []
   const outcomes: SessionTotalsOutcome[] = []
 
   for (const persona of personas) {
-    const personaWrite = decideSessionTotalWrite(persona.totalPoints, total)
-    if (personaWrite !== null) {
-      patches.push({
-        pageTypeSlug: PERSONA_PAGE_TYPE_SLUG,
-        slug: persona.slug ?? persona.id,
-        totalPoints: personaWrite,
-      })
-    }
     outcomes.push({
       personaTitle: persona.title ?? persona.id,
       total,
-      personaWritten: personaWrite !== null,
     })
   }
 
-  return { patches, outcomes }
+  return { outcomes }
 }
 
 export function planPersonaSessionWrite(
   total: number,
   persona: z.infer<typeof PersonaSessionRowSchema> | null
 ): SessionPointsPlan {
-  if (persona === null) return { patches: [], outcomes: [] }
+  if (persona === null) return { outcomes: [] }
   return planSessionPointsWrites(total, [persona])
 }
 
@@ -129,8 +108,4 @@ export function discoverActiveSessionDays(
     if (sum > 0) active.push(dayStr)
   }
   return active.sort()
-}
-
-export function decideSessionTotalWrite(stored: number | undefined, total: number): number | null {
-  return stored === total ? null : total
 }
