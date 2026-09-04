@@ -3,6 +3,14 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { getCommitTreeSha } from "@akasha/git/tree-sha"
 import {
+  type PopulationEntry,
+  type SeedFile,
+  type SeedSource,
+  seedFilesFor,
+} from "@akasha/old-graph/old-graph-queries"
+import { buildSnapshot } from "@akasha/old-graph/old-graph-snapshots"
+import type { Graph, NodeId } from "@akasha/old-graph/old-graph-types"
+import {
   commitSha40,
   type InputsHash12,
   inputsHash12,
@@ -19,10 +27,6 @@ import type {
   DiscoveredWorkflow,
   WorkflowKind,
 } from "@akasha/workflow-language/workflow-types"
-import type { PopulationEntry } from "@tools/lib/graph/queries/membership"
-import { type SeedFile, type SeedSource, seedFilesFor } from "@tools/lib/graph/queries/seed-files"
-import { buildSnapshot } from "@tools/lib/graph/snapshot"
-import type { Graph, NodeId } from "@tools/lib/graph/types"
 import { discoverWorkflows } from "@tools/lib/workflow-dsl/discovery"
 import {
   intersectWithTreePaths,

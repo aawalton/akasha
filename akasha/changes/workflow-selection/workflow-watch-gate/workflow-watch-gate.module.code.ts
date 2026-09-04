@@ -2,7 +2,7 @@ import {
   type ClosureMembership,
   MEMBERSHIP_ALL,
   resolveClosureMembership,
-} from "@tools/lib/graph/queries/membership"
+} from "@akasha/old-graph/old-graph-queries"
 import { closureIntersectsChangedFiles } from "../closure-reach/closure-reach.module.code.ts"
 import type {
   PipelineConfig,

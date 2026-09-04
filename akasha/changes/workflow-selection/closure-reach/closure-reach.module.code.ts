@@ -3,8 +3,8 @@ import {
   type ClosureSeeds,
   membershipCoversPath,
   resolveClosureMembership,
-} from "@tools/lib/graph/queries/membership"
-import type { Graph } from "@tools/lib/graph/types"
+} from "@akasha/old-graph/old-graph-queries"
+import type { Graph } from "@akasha/old-graph/old-graph-types"
 
 const CODE_REPO = "code"
 

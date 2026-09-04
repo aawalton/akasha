@@ -1,5 +1,5 @@
-import type { PopulationEntry } from "@tools/lib/graph/queries/membership"
-import type { Graph, NodeId } from "@tools/lib/graph/types"
+import type { PopulationEntry } from "@akasha/old-graph/old-graph-queries"
+import type { Graph, NodeId } from "@akasha/old-graph/old-graph-types"
 import type {
   PipelineEntity,
   WorkflowEntity,

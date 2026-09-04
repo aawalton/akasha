@@ -1,4 +1,4 @@
-import { MEMBERSHIP_ALL, membershipCoversPath } from "@tools/lib/graph/queries/membership"
+import { MEMBERSHIP_ALL, membershipCoversPath } from "@akasha/old-graph/old-graph-queries"
 import {
   TERMINAL_PIPELINE_STATUSES,
   TERMINAL_WORKFLOW_STATUSES,

@@ -1,5 +1,5 @@
+import type { PopulationEntry } from "@akasha/old-graph/old-graph-queries"
 import type { Row } from "@akasha/pages-system/page-derive-shape"
-import type { PopulationEntry } from "@tools/lib/graph/queries/membership"
 import { listOf, textOf } from "../ci-page-row-reads/ci-page-row-reads.module.code.ts"
 import type {
   PipelineConfig,
