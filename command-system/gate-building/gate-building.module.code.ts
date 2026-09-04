@@ -56,7 +56,7 @@ export type Built = { readonly gate: Judging } | { readonly broken: string }
 type Checking = {
   readonly checksIn: (root: string) => readonly unknown[]
   readonly checksAt: (every: readonly unknown[], phase: string) => readonly unknown[]
-  readonly judgingBy: (every: readonly unknown[]) => Judging
+  readonly judgingBy: (every: readonly unknown[], phase: string) => Judging
 }
 
 function checkingLoaded(): Checking {
