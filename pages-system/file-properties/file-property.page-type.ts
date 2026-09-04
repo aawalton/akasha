@@ -1,7 +1,10 @@
 import type { PageProperty } from "../page-properties/page-property.page-type.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { RunsFileLength } from "./properties/runs-file-length.boolean-property.ts"
 
-export type FileProperty = PageProperty
+export type FileProperty = PageProperty & {
+  runsFileLength?: RunsFileLength
+}
 
 export const fileProperty = {
   id: "01a04dff-9d7d-7487-9a08-2485e897542f",
@@ -9,7 +12,9 @@ export const fileProperty = {
   slug: "file-property",
   definition: "a page property held in its own file",
   pluralSlug: "file-properties",
+  partSlugs: ["boolean-property/runs-file-length"],
   extendsSlug: "page-type/page-property",
+  properties: [{ pagePropertySlug: "runs-file-length", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",
@@ -21,7 +26,7 @@ export const fileProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A file property's value is loaded only where it is asked for by name.",
+      statement: "A file property's value is loaded only where that value is asked for by name.",
     },
     {
       invariantKind: "absence",

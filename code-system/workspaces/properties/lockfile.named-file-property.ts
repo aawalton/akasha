@@ -9,4 +9,5 @@ export const lockfile = {
   propertySlug: "lockfile",
   definition: "what the package manager resolved every dependency to",
   fileName: "bun.lock",
+  runsFileLength: false,
 } as const satisfies NamedFileProperty
