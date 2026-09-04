@@ -70,9 +70,7 @@ interface LsmComboBoxOptions {
 }
 
 interface ComboBoxBase extends ZoComboBoxInstance {
-  owner?: unknown
   m_comboBox?: unknown
-  options?: LsmComboBoxOptions
   updatedOptions?: Record<string, unknown>
   isContextMenu?: boolean
 }
