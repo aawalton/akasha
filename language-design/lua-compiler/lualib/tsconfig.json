@@ -12,6 +12,13 @@
   "tstl": {
     "luaLibImport": "none"
   },
-  "include": ["src/*.ts", "src/*.d.ts", "src/universal/**/*.ts"],
+  "include": [
+    "src/*.ts",
+    "src/universal/**/*.ts",
+    "../eso-sandbox/eso-sandbox.type-declaration.d.ts",
+    "../language-extensions/language-extensions.type-declaration.d.ts",
+    "../performance-global/performance-global.type-declaration.d.ts",
+    "../sparse-array/sparse-array.type-declaration.d.ts"
+  ],
   "exclude": ["src/**/*.test.ts"]
 }
