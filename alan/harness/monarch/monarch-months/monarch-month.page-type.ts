@@ -25,7 +25,6 @@ export const monarchMonth = {
     "instant-property/monarch-updated-at",
     "number-property/amount",
     "page-property-entry/transactions",
-    "relation-property/category-slug",
     "relation-property/tag-slugs",
     "select-property/category-source",
     "text-property/account-name",
@@ -46,8 +45,11 @@ export const monarchMonth = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A month past the trusted period is closed, and nothing Monarch reports moves a row into or out of it.",
+      statement: "A month past the trusted period is closed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing Monarch reports moves a row into or out of a closed month.",
     },
     {
       invariantKind: "departure",
@@ -55,8 +57,11 @@ export const monarchMonth = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A month states what it covers and nothing else, every word about the money standing on the transactions beside it.",
+      statement: "A month states what it covers and nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every word about the money is carried by the transactions beside the month.",
     },
   ],
 } as const satisfies PageType
