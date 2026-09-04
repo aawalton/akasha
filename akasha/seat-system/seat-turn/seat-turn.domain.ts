@@ -10,6 +10,7 @@ export const seatTurn = {
     "module/turn-end-conduct",
     "module/turn-end-evidence",
     "module/turn-end-prompt",
+    "module/turn-end-read-command",
     "module/turn-end-reading",
     "module/turn-records",
     "module/turn-working",
