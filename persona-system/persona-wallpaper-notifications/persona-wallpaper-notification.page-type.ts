@@ -20,7 +20,7 @@ export const personaWallpaperNotification = {
   partSlugs: ["relation-property/notification-persona-slug"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "notification-persona-slug", required: true, many: false },
     { pagePropertySlug: "relationship-level", required: true, many: false },
   ],
   invariants: [
