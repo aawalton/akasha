@@ -3,8 +3,11 @@ import { agentPathOf } from "@akasha/context-system/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { applied } from "../../applying/applying.module.code.ts"
 import {
+  BREAK_GLASS,
+  bypassedIn,
   formattedSaid,
   formattingIn,
+  glassSaid,
   mistaking,
   textAt,
   textOf,
@@ -12,7 +15,7 @@ import {
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { rebasedOnto, resolved } from "../../drafting/drafting.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
+import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
 import {
   added,
@@ -26,6 +29,7 @@ import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.modu
 import {
   CONTENT_FILE,
   FILE_PATH,
+  glassIn,
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
@@ -45,7 +49,7 @@ export const RESOLVE = "resolve"
 
 const ACTS = [APPLY, DROP, SHOW, RESOLVE]
 
-const APPLYING = [MESSAGE, MESSAGE_FILE]
+const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const SHOWING = [FILE_PATH]
 
@@ -256,19 +260,25 @@ export function applying(given: Given, page: string, argv: readonly string[]): A
   if (unknown.length > 0) return mistaking(unknown)
   const message = messageIn(argv, APPLYING)
   if ("refusals" in message) return mistaking(message.refusals)
+  const glass = glassIn(argv, APPLYING)
+  if ("refusals" in glass) return mistaking(glass.refusals)
+  const broken = glass.glass
   if (patchIn(given.root, page) === null) return mistaking([NONE])
   const built = gateBuilt(given.root)
-  if (!("gate" in built)) {
+  if (broken === null && !("gate" in built)) {
     return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
   }
-  const why = message.message ?? WHY
+  const gate = broken === null && "gate" in built ? built.gate : NO_GATE
+  const said0 = message.message ?? WHY
+  const why = broken === null ? said0 : bypassedIn(said0, broken)
   try {
-    const said = applied(given.root, page, given.agentId, why, built.gate, given.writer)
+    const said = applied(given.root, page, given.agentId, why, gate, given.writer)
     if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
     return {
       report: [
         ...said.landed.map((one) => `landed ${one}`),
         ...formattedSaid(said.formatted),
+        ...(broken === null ? [] : [glassSaid(broken)]),
         said.commit === null
           ? "nothing was committed — the tree already holds what the patch asked for"
           : `committed as ${said.commit}`,

@@ -209,11 +209,16 @@ type Bypass = {
   readonly said: string
 }
 
+export function glassSaid(reason: string): string {
+  return `no check ran — the glass was broken for: ${reason}`
+}
+
+export function bypassedIn(message: string, reason: string): string {
+  return `${message}\n\nChecks-bypassed: ${reason}`
+}
+
 function bypassIn(given: Given, asked: Asked): Bypass | null {
-  if (asked.glass !== null) {
-    const said = `no check ran — the glass was broken for: ${asked.glass}`
-    return { reason: asked.glass, said }
-  }
+  if (asked.glass !== null) return { reason: asked.glass, said: glassSaid(asked.glass) }
   const kind = given.changeKind
   if (kind === undefined || kind.runsChecks) return null
   const said = `a \`${kind.slug}\` change ${NO_CHECKS}`
@@ -222,7 +227,7 @@ function bypassIn(given: Given, asked: Asked): Bypass | null {
 
 function messageWith(asked: Asked, bypass: Bypass | null, broken: string | null): string {
   if (bypass === null) return asked.message
-  const held = `${asked.message}\n\nChecks-bypassed: ${bypass.reason}`
+  const held = bypassedIn(asked.message, bypass.reason)
   return broken === null ? held : `${held}\nChecks-unloadable: ${broken}`
 }
 
