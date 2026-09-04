@@ -1,5 +1,7 @@
 import { mkdirSync, mkdtempSync, readFileSync, realpathSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
+import type { SeriesSpec } from "@akasha/code-system/name-series"
+import { byteLength, renderSeries, stageSeries } from "@akasha/code-system/name-series"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
@@ -11,11 +13,6 @@ import {
 } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiSourceDir } from "@akasha/temper-eso-paths/eso-paths"
 import { collectLuaFiles } from "@akasha/temper-eso-paths/lua-files"
-// The name extraction, the Lua walk and the dividing of a census into runs still
-// stand under `tools/lib`, so they are reached by the name that package's
-// manifest gives them rather than by a path climbing out of akasha.
-import type { SeriesSpec } from "@tools/lib/akasha-name-series"
-import { byteLength, renderSeries, stageSeries } from "@tools/lib/akasha-name-series"
 import {
   extractGlobalNames,
   extractStringIdNames,
