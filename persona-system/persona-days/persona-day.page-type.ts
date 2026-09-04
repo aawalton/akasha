@@ -1,6 +1,5 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { ActiveCalories } from "../../alan/tracking/daily/wake-days/properties/active-calories.number-property.ts"
 import type { BreathingPoints } from "../../alan/tracking/daily/wake-days/properties/breathing-points.number-property.ts"
 import type { CardioPoints } from "../../alan/tracking/daily/wake-days/properties/cardio-points.number-property.ts"
 import type { Date as TrackedDate } from "../../alan/tracking/daily/wake-days/properties/date.text-property.ts"
@@ -30,7 +29,6 @@ export type PersonaDay = Page & {
   cardioPoints?: CardioPoints
   nutritionPoints?: NutritionPoints
   breathingPoints?: BreathingPoints
-  activeCalories?: ActiveCalories
   bytePoints?: BytePoints
 }
 
@@ -63,7 +61,6 @@ export const personaDay = {
     { pagePropertySlug: "cardio-points", required: false, many: false },
     { pagePropertySlug: "nutrition-points", required: false, many: false },
     { pagePropertySlug: "breathing-points", required: false, many: false },
-    { pagePropertySlug: "active-calories", required: false, many: false },
     { pagePropertySlug: "byte-points", required: false, many: false },
     { pagePropertySlug: "points", required: false, many: false },
     { pagePropertySlug: "green-day-fraction", required: false, many: false },
