@@ -12,6 +12,19 @@ index 5018e8e772860eb9ba14f6ed903cc7a20bea9dea..24b5159d62c0e2ab29882999ec02167f
      "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
    ],
    invariants: [
+diff --git a/commands/typecheck/typecheck.command.ts b/commands/typecheck/typecheck.command.ts
+index d6f4639e3951f93702b6212a7f7efe12c8d3d3cf..76319c5cd722afa85c63160278625be8b1efb276 100644
+--- a/commands/typecheck/typecheck.command.ts
++++ b/commands/typecheck/typecheck.command.ts
+@@ -21,7 +21,7 @@ export const typecheck = {
+     "named nothing, it refuses — `akasha audit --check typecheck` is what judges the folder.",
+     "it judges the files named and every file importing them, and says nothing about the rest of the folder.",
+     "a program made of the files named is not the program made of the folder, so a fault standing in the folder can stand outside what this sees.",
+-    "it runs the check an audit runs, over the files named alone, in seconds and near a gigabyte rather than fifteen minutes and seventeen.",
++    "it runs the check an audit runs, over the files named alone, in seconds and near a gigabyte rather than eight minutes and twenty-one.",
+     "nothing is written — this says what the compiler found and fixes none of it.",
+   ],
+   invariants: [
 diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts
 index 4c73eb7c34a4be975a86a9e99e790db98ce91eb6..771c14ae258b106e6ac0c26401852f30d5a1c4ec 100644
 --- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts
