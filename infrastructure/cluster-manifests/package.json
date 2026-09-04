@@ -51,7 +51,7 @@
     "./rbac-profiles": "./rbac-profiles/rbac-profiles.module.code.ts",
     "./rbac-yaml": "./rbac-yaml/rbac-yaml.module.code.ts",
     "./registry-constants": "./registry-constants/registry-constants.module.code.ts",
-    "./registry-gc-manifests": "./registry-gc-manifests/registry-gc-manifests.module.code.ts",
+    "./registry-gc-manifests": "./registry-gc-manifests/registry-gc-manifests.manifest.code.ts",
     "./seaweedfs-rbac": "./seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
     "./smilingjenny-web-rbac": "./smilingjenny-web-rbac/smilingjenny-web-rbac.module.code.ts",
     "./supabase-realtime-rbac": "./supabase-realtime-rbac/supabase-realtime-rbac.module.code.ts",
