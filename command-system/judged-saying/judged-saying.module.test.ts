@@ -13,12 +13,12 @@ const count = (many: number, one: string): string => `${many} ${one}${many === 1
 
 const INSIDE = "akasha/one.ts"
 
-const OUTSIDE = "temper/one.ts"
+const OUTSIDE = "../one.ts"
 
-test("a check reaches under the akasha folder and no other", () => {
+test("a check reaches a path inside this checkout and no other", () => {
   expect(checkReaches(INSIDE)).toBe(true)
   expect(checkReaches(OUTSIDE)).toBe(false)
-  expect(checkReaches("akashanot/one.ts")).toBe(false)
+  expect(checkReaches("/etc/one.ts")).toBe(false)
 })
 
 test("the paths a check reached and the paths it did not are read from one rule", () => {
@@ -53,13 +53,13 @@ test("a draft names how many paths the patch would leave were judged", () => {
 
 test("a count over paths no check reached says nothing was judged rather than counting them", () => {
   expect(judgedBy(count, 40, 0, 1)).toBe(
-    "no check judges a path outside `akasha/`, so the 1 path asked for landed unjudged"
+    "no check judges a path outside this checkout, so the 1 path asked for landed unjudged"
   )
   expect(passedOver(count, 0, 0, 1)).toBe(
-    "no check judges a path outside `akasha/`, so the 1 path asked for would go unjudged"
+    "no check judges a path outside this checkout, so the 1 path asked for would go unjudged"
   )
   expect(judgedOver(count, 40, 0, 2)).toBe(
-    "no check judges a path outside `akasha/`, so the 2 paths the patch would leave went unjudged"
+    "no check judges a path outside this checkout, so the 2 paths the patch would leave went unjudged"
   )
 })
 
@@ -76,10 +76,10 @@ test("a count over a mix says how many of what was asked for was judged", () => 
 test("the line naming what no check reached agrees with the count beside it", () => {
   expect(judgedByNothing([], false)).toEqual([])
   expect(judgedByNothing([OUTSIDE], false)).toEqual([
-    "no check judges a path outside `akasha/`, so what these carry went unjudged — temper/one.ts",
+    "no check judges a path outside this checkout, so what these carry went unjudged — ../one.ts",
   ])
   expect(judgedByNothing([OUTSIDE], true)[0]).toContain("would go unjudged")
-  expect(judgedBy(count, 40, 0, 1).startsWith("no check judges a path outside `akasha/`")).toBe(
+  expect(judgedBy(count, 40, 0, 1).startsWith("no check judges a path outside this checkout")).toBe(
     true
   )
 })
