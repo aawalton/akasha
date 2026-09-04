@@ -1,7 +1,7 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { inputError } from "../exit.ts"
-import { requireMatchPositional } from "../narrow.ts"
 import { mtWallToInstant } from "./mountain-times.ts"
 
 const HOUR = z.coerce.number().int().min(0).max(23)

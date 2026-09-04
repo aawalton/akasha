@@ -1,4 +1,4 @@
-import { requireGet } from "@tools/lib/narrow"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import type { StepNode, StepStatus } from "../bootstrap-dsl/bootstrap-dsl.module.code.ts"
 
 export function getDispatchableSteps(

@@ -1,4 +1,5 @@
 import { getCommitTreeSha } from "@akasha/git/tree-sha"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import {
   commitSha40,
   type InputsHash12,
@@ -8,7 +9,6 @@ import {
 } from "@akasha/workflow-language/ci-identifiers"
 import { computeInputsHash } from "@akasha/workflow-language/inputs-hash"
 import type { CIContext, Workflow } from "@akasha/workflow-language/workflow-types"
-import { requireGet } from "@tools/lib/narrow"
 import {
   dslStepToConfig,
   dslStepToNode,
