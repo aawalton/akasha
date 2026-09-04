@@ -119,14 +119,14 @@ export const givenIn = (root: string) => ({
 
 export const bodyIn = (root: string): string => put(root, "body.txt", PROPOSED)
 
-export function wrote(
+export async function wrote(
   root: string,
   said: readonly string[],
   body: string = PROPOSED,
   given: Given = givenIn(root)
-): Answer {
+): Promise<Answer> {
   const from = put(root, "body.txt", body)
-  return write(["--file-path", TWO_AT, "--content-file", from, ...said], given)
+  return await write(["--file-path", TWO_AT, "--content-file", from, ...said], given)
 }
 
 export function asking(over: Partial<Asked>): Asked {
