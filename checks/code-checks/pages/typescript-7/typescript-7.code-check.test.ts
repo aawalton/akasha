@@ -1,7 +1,27 @@
-import { describe, expect, test } from "bun:test"
-import { configOf, servingOf, typesIn } from "./typescript-7.code-check.code.ts"
+import { afterAll, describe, expect, test } from "bun:test"
+import type { Change } from "@akasha/pages-system/change"
+import { shadowFor } from "@akasha/pages-system/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { change, generating, scratch } from "../typecheck/typecheck.code-check.test-fixtures.ts"
+import { configOf, servingOf, typescript7, typesIn } from "./typescript-7.code-check.code.ts"
 
 const ROOT = "/var/home/walton/repos/akasha"
+
+const THING_AT = "akasha/one.thing.ts"
+
+const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
+
+const WHOLE = `${READS_ITS_TYPE}export const one = { held: "h", slug: "one" } as const satisfies Thing\n`
+
+const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
+
+afterAll(scratch.sweep)
+
+async function judged(one: Change): Promise<readonly Judged[]> {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return await typescript7(one, cast.shadow)
+}
 
 describe("the settings the program is built from", () => {
   test("name every ambient type the packages folder holds", () => {
@@ -39,5 +59,18 @@ describe("what the compiler is served", () => {
 
   test("leaves a path outside the checkout to the disk", () => {
     expect(serving("/etc/hostname")).toBeUndefined()
+  })
+})
+
+describe("what this compiler finds in a change", () => {
+  test("a body the change breaks is refused at the path the break is at", async () => {
+    const said = await judged(change(generating({}), { [THING_AT]: WRONG }))
+    expect(said.length).toBeGreaterThan(0)
+    expect(said[0]?.path).toBe(THING_AT)
+    expect(said[0]?.reason).toContain("TS")
+  })
+
+  test("a body the change leaves whole is refused for nothing", async () => {
+    expect(await judged(change(generating({}), { [THING_AT]: WHOLE }))).toEqual([])
   })
 })
