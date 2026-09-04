@@ -37,7 +37,6 @@ export const domain = {
     "relation-property/domain-slug",
     "relation-property/invariant-kind",
     "relation-property/part-slugs",
-    "relation-property/persona-champion-slug",
     "text-property/act",
     "text-property/aids",
     "text-property/definition",
