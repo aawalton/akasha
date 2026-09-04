@@ -17,6 +17,7 @@ export const patch = {
     { said: "--content-file <file>", takes: "a file the body for a resolve is read from" },
     { said: "--message <text>", takes: "what the commit an apply makes is for" },
     { said: "--message-file <file>", takes: "a file that message is read from" },
+    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
   ],
   helpNotes: [
     "a call naming no act says what the patch holds and changes nothing.",
@@ -25,6 +26,7 @@ export const patch = {
     "a path the patch and HEAD hold alike was read when it was drafted, so no fresh read is asked for.",
     "a path that moved under the patch is refused until the agent reads what moved there.",
     "an apply the checks refuse leaves the patch to be worked on further.",
+    "--break-the-glass applies the patch with no check run, and the reason is said in the commit.",
     "a patch applied or dropped takes the ref keeping its blobs with it.",
     "a patch outlives a context replacement, which takes away every reading the agent held.",
     "a conflict the rebase leaves is carried into the patch for the agent to resolve.",
@@ -89,6 +91,22 @@ export const patch = {
     {
       invariantKind: "departure",
       statement: "A show rebases the patch onto the commit at HEAD before saying a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply naming `--break-the-glass` runs no check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reason the glass was broken is said in the commit an apply makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply naming the glass says in the report that no check ran.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Checks that will not load stop an apply unless the glass is broken.",
     },
     {
       invariantKind: "departure",
