@@ -27,9 +27,9 @@ import {
 } from "@akasha/service-system/dev-server-stating"
 import { resolveWorktreePath } from "@akasha/service-system/dev-server-worktree"
 import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 export const BOOTSTRAP = "bootstrap"
 

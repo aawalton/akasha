@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const devServer = {
   id: "01a06809-250b-78b0-b853-abd5d686eb05",
