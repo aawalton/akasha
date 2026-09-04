@@ -1,9 +1,9 @@
-
 import { createHash } from "node:crypto"
 import { readFileSync, realpathSync, statSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
 
-const ENTRYPOINT_REL = "model-gateway/main.ts"
+const ENTRYPOINT_REL =
+  "../../akasha/agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
 
 // An import is a statement, so the keyword opening one stands at the head of its line. Anchoring
 // there is what keeps a specifier QUOTED INSIDE A BODY out of the closure: `seat-page-akasha.ts`
@@ -98,7 +98,9 @@ export function collectVersionTreeFilesFrom(root: string, entrypoint: string): r
 
 export function computeVersionTreeHashFrom(root: string, entrypoint: string): string {
   const perFileLines = collectVersionTreeFilesFrom(root, entrypoint).map((rel) => {
-    const hash = createHash("sha256").update(readFileSync(join(root, rel))).digest("hex")
+    const hash = createHash("sha256")
+      .update(readFileSync(join(root, rel)))
+      .digest("hex")
     return `${hash}  ${rel}`
   })
   return createHash("sha256")
