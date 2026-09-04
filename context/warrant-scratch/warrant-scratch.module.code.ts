@@ -61,12 +61,7 @@ export function personListed(root: string, slug: string): Listed {
 }
 
 export function personaListed(root: string, slug: string): Listed {
-  return pageListed(
-    root,
-    `persona-system/persona/${slug}/${slug}.persona.ts`,
-    "persona",
-    slug
-  )
+  return pageListed(root, `persona-system/persona/${slug}/${slug}.persona.ts`, "persona", slug)
 }
 
 export function roleListed(root: string, slug: string): Listed {

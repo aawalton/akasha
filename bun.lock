@@ -570,7 +570,7 @@
         "typescript": "5.9.3",
       },
     },
-    "context-system": {
+    "context": {
       "name": "@akasha/context-system",
     },
     "day": {
@@ -2995,7 +2995,7 @@
 
     "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 
-    "@akasha/context-system": ["@akasha/context-system@workspace:context-system"],
+    "@akasha/context-system": ["@akasha/context-system@workspace:context"],
 
     "@akasha/day": ["@akasha/day@workspace:day"],
 

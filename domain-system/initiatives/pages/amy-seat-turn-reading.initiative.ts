@@ -45,7 +45,7 @@ export const amySeatTurnReading = {
     "A body is composed under a directory named for the session, because every seat shares /tmp.",
     "Each piece is made clean and correct and performant before the next piece is taken up.",
     "The word owed is settled: three meanings went from seat-system at a446b230, and the orphan on Outcome went at 700957ae. What is left is Warrant.owed in context-system, which is the live one.",
-    "One implementation reads what a writer must have read: context-system/warranting, declared-seat-reading having been ablated at 9bc44a50.",
+    "One implementation reads what a writer must have read: context/warranting, declared-seat-reading having been ablated at 9bc44a50.",
     "A reader keeping a cursor needs that cursor cleared when its rules change, because a landing does not reach what was already read past.",
   ],
 } as const satisfies Initiative

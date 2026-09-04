@@ -182,7 +182,7 @@ const CONTEXT_WARRANT = "context-warrant"
 
 const PAGE_TYPE_SLUG = "page-type"
 
-const BESIDE = join(import.meta.dir, "../../../context-system/context-warrants")
+const BESIDE = join(import.meta.dir, "../../../context/warrants")
 
 export const THING = "akasha/one/held.thing.ts"
 

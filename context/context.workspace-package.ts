@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const contextSystem = {
+export const context = {
   id: "01a04f50-2a7e-7000-a43d-22ce4657c379",
   pageTypeSlug: "workspace-package",
-  slug: "context-system",
+  slug: "context",
   definition: "what a change requires its writer to have read",
   manifest: "json",
   partSlugs: [

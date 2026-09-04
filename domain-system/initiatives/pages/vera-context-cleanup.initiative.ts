@@ -4,7 +4,7 @@ export const veraContextCleanup = {
   id: "01a06d62-864e-7da2-8e20-813302d6a5fd",
   pageTypeSlug: "initiative",
   slug: "vera-context-cleanup",
-  domainSlug: "workspace-package/context-system",
+  domainSlug: "workspace-package/context",
   personaSlug: "vera",
   intents: [
     {
