@@ -93,7 +93,7 @@ export async function startChannelListener(
 
   const witness = startDeliveryWitness({
     agentId,
-    advance: async (messageId) => takeMessage(to, messageId).kind !== "refused",
+    advance: async (messageId) => (await takeMessage(to, messageId)).kind !== "refused",
     currentTranscriptPath: (id) => transcriptOf(id)?.value ?? null,
     heartbeatMs: WITNESS_HEARTBEAT_MS,
   })

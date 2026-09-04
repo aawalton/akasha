@@ -84,7 +84,7 @@ export default async function agentInbox(args: readonly string[]): Promise<void>
   if (!peek) {
     for (const message of listed) {
       if (message.claimedAtMs !== null && !all) continue
-      const taken = takeMessage(to, message.id)
+      const taken = await takeMessage(to, message.id)
       if (taken.kind === "refused") {
         process.stderr.write(`${message.id} stands: ${taken.detail}\n`)
       }
