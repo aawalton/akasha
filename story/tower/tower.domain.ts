@@ -8,7 +8,7 @@ export const tower = {
   partSlugs: [
     "domain/core",
     "domain/engine",
-    "module/tower-page-slugs",
+    "module/page-slugs",
     "module/combat-mapping",
     "module/roll-payload",
     "module/plan-archive",

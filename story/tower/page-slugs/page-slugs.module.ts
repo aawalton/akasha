@@ -1,9 +1,9 @@
 import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
-export const towerPageSlugs = {
+export const pageSlugs = {
   id: "01a05bc6-fa4a-700c-928f-9eea89b4ecad",
   pageTypeSlug: "module",
-  slug: "tower-page-slugs",
+  slug: "page-slugs",
   definition: "the slugs the tower's own pages stand under",
   code: "ts",
   invariants: [
