@@ -28,6 +28,15 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
+export function emptyIn(root: string, path: string): undefined {
+  mkdirSync(join(root, path), { recursive: true })
+}
+
+export function looseIn(root: string, path: string): undefined {
+  emptyIn(root, path)
+  writeFileSync(join(root, path, "stray.txt"), BODY)
+}
+
 export function removing(root: string, argv: readonly string[]): Answer {
   return remove(argv, givenIn(root))
 }

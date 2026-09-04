@@ -1,4 +1,4 @@
-import { existsSync, readFileSync, statSync } from "node:fs"
+import { existsSync, lstatSync, readdirSync, readFileSync, rmdirSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { parsedAs } from "@akasha/code-system/code-source"
 import { namersOf, readingIn } from "@akasha/indexes"
@@ -17,6 +17,7 @@ import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
   barredIn,
   FILE_PATH,
+  GIT_DIR,
   glassIn,
   MESSAGE,
   MESSAGE_FILE,
@@ -85,10 +86,23 @@ export function trackedUnder(root: string, path: string): readonly string[] | nu
   }
 }
 
+export function bareUnder(at: string): readonly string[] | null {
+  const held: string[] = []
+  for (const entry of readdirSync(at, { withFileTypes: true })) {
+    if (!entry.isDirectory()) return null
+    const under = bareUnder(join(at, entry.name))
+    if (under === null) return null
+    held.push(...under)
+  }
+  held.push(at)
+  return held
+}
+
 type Opened = {
   readonly opened: readonly string[]
   readonly under: readonly string[]
   readonly gone: readonly string[]
+  readonly bare: readonly string[]
 }
 
 function openedIn(
@@ -99,6 +113,7 @@ function openedIn(
   const opened: string[] = []
   const under: string[] = []
   const gone: string[] = []
+  const bare: string[] = []
   const seen = new Set<string>()
   for (const one of named) {
     const path = pathAt(root, one)
@@ -106,8 +121,11 @@ function openedIn(
       refusals.push(offRepo(one))
       continue
     }
+    const at = join(root, path)
+    const inGit = path === GIT_DIR || path.startsWith(`${GIT_DIR}/`)
+    const empty = !inGit && existsSync(at) && lstatSync(at).isDirectory() ? bareUnder(at) : null
     const barred = barredIn(root, path)
-    if (barred !== null) {
+    if (barred !== null && empty === null) {
       refusals.push(barred)
       continue
     }
@@ -116,7 +134,10 @@ function openedIn(
       continue
     }
     seen.add(path)
-    const at = join(root, path)
+    if (empty !== null) {
+      bare.push(path)
+      continue
+    }
     if (!existsSync(at)) {
       gone.push(path)
       continue
@@ -135,8 +156,8 @@ function openedIn(
     }
     if (held.length === 0) {
       refusals.push(
-        `${path} is a directory git holds no file under — a removal takes what the repository ` +
-          "holds, so this would take nothing"
+        `${path} holds files git does not track — a removal takes what the repository holds, ` +
+          "so this would take nothing and leave those files where they stand"
       )
       continue
     }
@@ -148,7 +169,7 @@ function openedIn(
     }
   }
   if (refusals.length > 0) return { refusals }
-  return { opened, under, gone }
+  return { opened, under, gone, bare }
 }
 
 export type Naming = {
@@ -300,6 +321,39 @@ function wentWith(
   return report
 }
 
+type Swept = {
+  readonly cleared: readonly string[]
+  readonly refusals: readonly string[]
+}
+
+function sweeping(root: string, bare: readonly string[]): Swept {
+  const cleared: string[] = []
+  const refusals: string[] = []
+  for (const path of bare) {
+    const under = bareUnder(join(root, path))
+    if (under === null) {
+      refusals.push(`${path} took a file while this ran, so it was left where it stands`)
+      continue
+    }
+    try {
+      for (const one of under) rmdirSync(one)
+      cleared.push(path)
+    } catch (why) {
+      refusals.push(
+        `${path} holds nothing and still could not be taken away — ` +
+          `${why instanceof Error ? why.message : String(why)}`
+      )
+    }
+  }
+  return { cleared, refusals }
+}
+
+function bareSaid(cleared: readonly string[]): readonly string[] {
+  return cleared.map(
+    (one) => `${one} held nothing, so it went and git had nothing to commit for it`
+  )
+}
+
 export function remove(argv: readonly string[], given: Given): Answer {
   const read = namedIn(argv)
   if ("refused" in read) return answering([], [read.refused], 1)
@@ -320,10 +374,15 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const base = baseOf(root)
   if (paths.length === 0) {
     dropReadings(root, gone)
+    const only = sweeping(root, held.bare)
+    if (only.refusals.length > 0) return answering([], only.refusals, 1)
     return answering(
       [
         ...already,
-        "nothing stood to be taken away, so nothing was written and nothing was committed",
+        ...bareSaid(only.cleared),
+        ...(only.cleared.length > 0
+          ? []
+          : ["nothing stood to be taken away, so nothing was written and nothing was committed"]),
       ],
       [],
       0
@@ -355,6 +414,9 @@ export function remove(argv: readonly string[], given: Given): Answer {
     ],
   }
   const said = landingAsked({ ...given, root }, asked)
-  if (said.code === 0) dropReadings(root, [...paths, ...gone])
-  return said
+  if (said.code !== 0) return said
+  dropReadings(root, [...paths, ...gone])
+  const swept = sweeping(root, held.bare)
+  if (swept.refusals.length > 0) return answering(said.report, swept.refusals, 1)
+  return answering([...said.report, ...bareSaid(swept.cleared)], [], 0)
 }

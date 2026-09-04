@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "@akasha/testing-system/minting"
 import { put, there } from "@akasha/testing-system/putting"
@@ -10,6 +10,7 @@ import {
   BESIDE,
   BODY,
   DEEP,
+  emptyIn,
   fileIn,
   GONE,
   GONE_WAY,
@@ -19,6 +20,7 @@ import {
   head,
   KEPT,
   KEPT_WAY,
+  looseIn,
   MANIFEST,
   MOVED_MANIFEST,
   manifested,
@@ -97,13 +99,35 @@ test("a directory opens onto every tracked file under it", () => {
   expect(reportOf(said)).toContain("stood under a directory you named")
 })
 
-test("a directory holding no tracked file is refused", () => {
+test("a directory holding only files git does not track is refused", () => {
   const root = repoWith({ [HELD]: BODY })
-  mkdirSync(join(root, "akasha/empty"), { recursive: true })
-  const said = removing(root, naming("akasha/empty"))
+  looseIn(root, "akasha/loose")
+  const said = removing(root, naming("akasha/loose"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("git holds no file under")
-  expect(there(root, "akasha/empty")).toBe(true)
+  expect(said.refusals[0]).toContain("holds files git does not track")
+  expect(there(root, "akasha/loose/stray.txt")).toBe(true)
+})
+
+test("a directory holding nothing at all goes, and nothing is committed", () => {
+  const root = repoWith({ [HELD]: BODY })
+  const was = head(root)
+  emptyIn(root, "akasha/empty/deeper")
+  const said = removing(root, naming("akasha/empty"))
+  expect(said.refusals).toEqual([])
+  expect(there(root, "akasha/empty")).toBe(false)
+  expect(reportOf(said)).toContain("held nothing")
+  expect(head(root)).toBe(was)
+  expect(there(root, HELD)).toBe(true)
+})
+
+test("a top folder holding nothing goes, and one inside `.git` never does", () => {
+  const root = repoWith({ [HELD]: BODY })
+  emptyIn(root, "husk")
+  emptyIn(root, ".git/empty")
+  expect(removing(root, naming("husk")).code).toBe(0)
+  expect(there(root, "husk")).toBe(false)
+  expect(removing(root, naming(".git/empty")).refusals[0]).toContain("holds the repository itself")
+  expect(there(root, ".git/empty")).toBe(true)
 })
 
 test("a page's sidecars go with it without being named", () => {
@@ -133,14 +157,24 @@ test("a directory the removal leaves empty goes with it", () => {
 
 test("a refused removal leaves nothing behind, and takes none of the paths it could have taken", () => {
   const root = repoWith({ [HELD]: BODY, [BESIDE]: BODY })
-  mkdirSync(join(root, "akasha/empty"), { recursive: true })
+  looseIn(root, "akasha/loose")
   const was = head(root)
-  const said = removing(root, naming(HELD, "akasha/empty"))
+  const said = removing(root, naming(HELD, "akasha/loose"))
   expect(said.code).toBe(1)
   expect(there(root, HELD)).toBe(true)
   expect(there(root, BESIDE)).toBe(true)
-  expect(there(root, "akasha/empty")).toBe(true)
+  expect(there(root, "akasha/loose")).toBe(true)
   expect(head(root)).toBe(was)
+})
+
+test("a check refusing the removal leaves an empty directory it would have cleared", () => {
+  const root = repoWith({ [HELD]: BODY })
+  emptyIn(root, "akasha/empty")
+  refusing(root)
+  const said = removing(root, naming(HELD, "akasha/empty"))
+  expect(said.code).toBe(3)
+  expect(there(root, HELD)).toBe(true)
+  expect(there(root, "akasha/empty")).toBe(true)
 })
 
 test("a check that refuses a deletion stops the removal, and nothing is taken away", () => {

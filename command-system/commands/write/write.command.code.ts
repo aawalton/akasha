@@ -31,7 +31,7 @@ export const CONTENT_FILE = "--content-file"
 
 export const REMOVE = "--remove"
 
-const GIT_DIR = ".git"
+export const GIT_DIR = ".git"
 
 const PARTED_BY = "/"
 
