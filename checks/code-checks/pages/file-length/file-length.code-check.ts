@@ -61,5 +61,22 @@ export const fileLength = {
       statement:
         "A refusal for a test file names the `test-fixtures` file standing beside that test file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A property saying its files are not judged for length lets those files off.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property lets a file off only where a page carrying that property sits in the file's folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file of that name in another folder is held to the ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which files a machine writes is a question of its own, asked elsewhere.",
+    },
   ],
 } as const satisfies CodeCheck

@@ -1,4 +1,4 @@
-import { basename } from "node:path"
+import { type Carried, heldBeside, type Naming } from "@akasha/indexes/property-carrying"
 import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { partedIn, sectionedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
@@ -36,8 +36,6 @@ const NAMED_FILE_PROPERTY = "named-file-property"
 
 const RUNS = "runsFileLength"
 
-const FILE_NAME = "fileName"
-
 const TEST_RELIEF =
   "a module carries one test, and what sets it up stands beside it in `test-fixtures`"
 
@@ -47,30 +45,25 @@ const MARKUP_RELIEF =
 const PROSE_RELIEF =
   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
 
-const EXEMPT = new WeakMap<Shadow, ReadonlySet<string>>()
+const NAMING = new WeakMap<Shadow, readonly Naming[]>()
 
-export function exemptNamesFrom(values: Iterable<Value | null>): ReadonlySet<string> {
-  const made = new Set<string>()
-  for (const value of values) {
-    if (value === null || value[RUNS] !== false) continue
-    const named = value[FILE_NAME]
-    if (typeof named === "string" && named !== "") made.add(named)
-  }
-  return made
+export function heldOff(value: Value): boolean {
+  return value[RUNS] === false
 }
 
-function exemptNamesIn(shadow: Shadow): ReadonlySet<string> {
-  const found = EXEMPT.get(shadow)
+function namingIn(shadow: Shadow): readonly Naming[] {
+  const found = NAMING.get(shadow)
   if (found !== undefined) return found
-  const made = exemptNamesFrom(
-    shadow.index.everyOfType(NAMED_FILE_PROPERTY).map((listed) => shadow.pageOf(listed.path))
-  )
-  EXEMPT.set(shadow, made)
+  const made = shadow.index
+    .everyOfType(NAMED_FILE_PROPERTY)
+    .map((listed) => ({ path: listed.path, value: shadow.pageOf(listed.path) }))
+  NAMING.set(shadow, made)
   return made
 }
 
-function exemptIn(given: Body, shadow: Shadow): boolean {
-  return exemptNamesIn(shadow).has(basename(given.path))
+export function exemptIn(path: string, shadow: Shadow): boolean {
+  const carrying = (named: string): Carried => shadow.index.carryingOf(named)
+  return heldBeside(path, namingIn(shadow), heldOff, carrying)
 }
 
 function ceilingFor(path: string): number {
@@ -105,5 +98,5 @@ export function reasonsIn(given: Body): readonly string[] {
 }
 
 export const fileLength = judgingEach(FILES, (given, shadow) =>
-  exemptIn(given, shadow) ? [] : reasonsIn(given)
+  exemptIn(given.path, shadow) ? [] : reasonsIn(given)
 )

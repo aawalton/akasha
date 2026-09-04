@@ -1,9 +1,23 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { writing } from "@akasha/command-system/scratching/testing"
+import {
+  idFiled,
+  listedFiled,
+  relationFiled,
+  schemaFiled,
+  valueAlsoFiled,
+} from "@akasha/indexes/testing"
 import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
+import type { Value } from "@akasha/pages-system/page-value"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import { bodiesIn } from "@akasha/testing-system/bodying"
+import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   CEILING,
-  exemptNamesFrom,
+  exemptIn,
+  fileLength,
+  heldOff,
   MARKUP_CEILING,
   PROSE_CEILING,
   reasonsIn,
@@ -190,15 +204,97 @@ test("the widest prose ceiling is wider than markup and narrower than an entry f
   expect(WHOLE_PROSE_CEILING).toBeLessThan(ENTRY_CEILING)
 })
 
-test("a property saying false exempts every file it holds, named by that property", () => {
-  const held = exemptNamesFrom([{ runsFileLength: false, fileName: "bun.lock" }])
-  expect([...held]).toEqual(["bun.lock"])
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const LOCKFILE = "bun.lock"
+
+const NAMED = "named-file-property"
+
+const PROPERTY_AT = "akasha/lockfile.named-file-property.ts"
+
+const PROPERTY_ID = "01a06d55-0000-7000-8000-00000000000a"
+
+const TYPE_AT = "akasha/workspace.page-type.ts"
+
+const TYPE_ID = "01a06d55-0000-7000-8000-00000000000b"
+
+const OWNER_AT = "one.workspace.ts"
+
+const OWNER_ID = "01a06d55-0000-7000-8000-00000000000c"
+
+const ELSEWHERE = "node_modules/one/bun.lock"
+
+function seeded(value: Value): string {
+  const root = scratch.rootFor("akasha-file-length-")
+  listedFiled(root, NAMED, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
+  idFiled(root, PROPERTY_ID, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
+  schemaFiled(root, NAMED, "lockfile", [
+    {
+      pageTypeSlug: NAMED,
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "lockfile",
+      propertySlug: "lockfile",
+      fileName: LOCKFILE,
+    },
+  ])
+  valueAlsoFiled(root, NAMED, [{ path: PROPERTY_AT, value }])
+  listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])
+  idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  listedFiled(root, "workspace", "one", [{ path: OWNER_AT, id: OWNER_ID }])
+  relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  return root
+}
+
+function letOff(): string {
+  return seeded({ fileName: LOCKFILE, runsFileLength: false })
+}
+
+test("a property saying false is the one this check lets off", () => {
+  expect(heldOff({ runsFileLength: false, fileName: LOCKFILE })).toBe(true)
 })
 
-test("a property saying nothing is judged, so it exempts no file", () => {
-  expect([...exemptNamesFrom([{ fileName: "bun.lock" }])]).toEqual([])
+test("a property saying nothing is judged", () => {
+  expect(heldOff({ fileName: LOCKFILE })).toBe(false)
 })
 
-test("a property saying true is judged, so it exempts no file", () => {
-  expect([...exemptNamesFrom([{ runsFileLength: true, fileName: "bun.lock" }])]).toEqual([])
+test("a property saying true is judged", () => {
+  expect(heldOff({ runsFileLength: true, fileName: LOCKFILE })).toBe(false)
+})
+
+test("a file beside the page carrying the property saying false is let off the ceiling", () => {
+  expect(exemptIn(LOCKFILE, shadowAt(letOff()))).toBe(true)
+})
+
+test("a file of that name in another folder is held to the ceiling", () => {
+  expect(exemptIn(ELSEWHERE, shadowAt(letOff()))).toBe(false)
+})
+
+test("a file beside the page that no property names is held to the ceiling", () => {
+  expect(exemptIn("package.json", shadowAt(letOff()))).toBe(false)
+})
+
+test("a property saying nothing leaves the file it names held to the ceiling", () => {
+  expect(exemptIn(LOCKFILE, shadowAt(seeded({ fileName: LOCKFILE })))).toBe(false)
+})
+
+test("a property saying true leaves the file it names held to the ceiling", () => {
+  const root = seeded({ fileName: LOCKFILE, runsFileLength: true })
+  expect(exemptIn(LOCKFILE, shadowAt(root))).toBe(false)
+})
+
+test("a property naming no file leaves every file held to the ceiling", () => {
+  expect(exemptIn(LOCKFILE, shadowAt(seeded({ runsFileLength: false })))).toBe(false)
+})
+
+test("the check lets off the file beside the page and refuses the one elsewhere", () => {
+  const root = letOff()
+  const over = "a".repeat(CEILING + 1)
+  writing(root, LOCKFILE, over)
+  writing(root, ELSEWHERE, over)
+  const both = onDisk(root)
+  const change = { root, changed: [LOCKFILE, ELSEWHERE], before: both, after: both }
+  expect(fileLength(change, shadowAt(root)).map((one) => one.path)).toEqual([ELSEWHERE])
 })
