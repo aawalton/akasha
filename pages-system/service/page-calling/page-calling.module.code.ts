@@ -76,6 +76,25 @@ const fetchThrough: Fetcher = (url, init) => fetch(url, init)
 
 type Sent = { readonly said: unknown } | { readonly refused: string }
 
+type Taken = { readonly held: unknown } | { readonly unreadable: string }
+
+export function bytesSaid(answered: Response): string {
+  const length = answered.headers.get("content-length")
+  return length === null || length === "" ? "body of a length nothing stated" : `${length} bytes`
+}
+
+async function takenFrom(answered: Response): Promise<Taken> {
+  try {
+    const held: unknown = await answered.json()
+    return { held }
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return {
+      unreadable: `the pages answered ${answered.status}, and the ${bytesSaid(answered)} that came back would not read as JSON: ${why}`,
+    }
+  }
+}
+
 async function sentTo(
   at: string,
   body: unknown,
@@ -92,10 +111,11 @@ async function sentTo(
         body: JSON.stringify(body),
         signal: AbortSignal.timeout(ceiling),
       })
-      const held: unknown = await answered.json().catch(() => null)
-      const refused = refusedIn(held)
+      const got = await takenFrom(answered)
+      if ("unreadable" in got) return { refused: got.unreadable }
+      const refused = refusedIn(got.held)
       if (refused !== null) return { refused }
-      if (answered.ok) return { said: held }
+      if (answered.ok) return { said: got.held }
       why = `the pages answered ${answered.status}`
     } catch (thrown) {
       why = thrown instanceof Error ? thrown.message : String(thrown)
