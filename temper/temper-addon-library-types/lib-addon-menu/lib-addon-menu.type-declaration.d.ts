@@ -166,6 +166,10 @@ type LamControlData =
   | LamDividerData
   | LamCustomData
 
+interface LamReferenceDropdownControl extends Control {
+  dropdown: { GetControl: () => Control }
+}
+
 interface LibAddonMenu2 {
   RegisterAddonPanel: (addonId: string, panelData: LamPanelData) => Control
   RegisterOptionControls: (addonId: string, optionsTable: LamControlData[]) => void

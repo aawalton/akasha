@@ -1,7 +1,3 @@
-interface LamReferenceDropdownControl extends Control {
-  dropdown: { GetControl: () => Control }
-}
-
 declare const previewpinTextureUnknown: LamReferenceDropdownControl
 
 declare const previewpinTextureOther: LamReferenceDropdownControl
