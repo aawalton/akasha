@@ -1,5 +1,5 @@
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
-index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..50098a62d46ac4bb6daadedf5648be83b1e57792 100644
+index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..4e6f8211940ef89e67e2c7a57f1d2aa4bf3a6637 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
 +++ b/checks/modules/change-walking/change-walking.module.code.ts
 @@ -8,7 +8,7 @@ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
@@ -11,6 +11,15 @@ index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..50098a62d46ac4bb6daadedf5648be83
  
  export type Body = {
    readonly root: string
+@@ -40,7 +40,7 @@ export type Stated = {
+   readonly isInput: Input
+ }
+ 
+-export type Bounded = Running & Stated
++export type Bounded = AnyRunning & Stated
+ 
+ const TS = "ts"
+ 
 diff --git a/checks/modules/judging/judging.module.code.ts b/checks/modules/judging/judging.module.code.ts
 index 36d65a989a5d546f8bbc16b5a4feadd8a04fa2d1..a63ca082e6ad73dd079f3f6f8e8c00f710eb70de 100644
 --- a/checks/modules/judging/judging.module.code.ts
