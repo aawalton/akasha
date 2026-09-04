@@ -16,8 +16,8 @@ const ACT = "set"
 
 const BARE = "a secret's value is piped in, and nothing is piped in"
 
-export function pageSecretSet(argv: readonly string[], given: Given): Answer {
-  return caught(() => {
+export async function pageSecretSet(argv: readonly string[], given: Given): Promise<Answer> {
+  return await caught(() => {
     const aimed = aiming(argv, given, [FILE_PATH, KEY, MESSAGE])
     if ("code" in aimed) return aimed
     const key = aimed.key as string

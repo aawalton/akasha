@@ -179,9 +179,9 @@ export async function landedWith(
   })
 }
 
-export function caught(run: () => Answer): Answer {
+export async function caught(run: () => Answer | Promise<Answer>): Promise<Answer> {
   try {
-    return run()
+    return await run()
   } catch (thrown) {
     return { report: [], refusals: [whyOf(thrown), "nothing was written"], code: 3 }
   }

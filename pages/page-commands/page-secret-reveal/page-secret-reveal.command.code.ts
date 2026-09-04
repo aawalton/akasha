@@ -8,8 +8,8 @@ import {
   wrongData,
 } from "../page-secret-acting/page-secret-acting.module.code.ts"
 
-export function pageSecretReveal(argv: readonly string[], given: Given): Answer {
-  return caught(() => {
+export async function pageSecretReveal(argv: readonly string[], given: Given): Promise<Answer> {
+  return await caught(() => {
     const aimed = aiming(argv, given, [FILE_PATH, KEY])
     if ("code" in aimed) return aimed
     const key = aimed.key as string

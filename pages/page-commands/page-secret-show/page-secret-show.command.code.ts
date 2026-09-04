@@ -9,8 +9,8 @@ import {
 
 const NOTHING = "nothing"
 
-export function pageSecretShow(argv: readonly string[], given: Given): Answer {
-  return caught(() => {
+export async function pageSecretShow(argv: readonly string[], given: Given): Promise<Answer> {
+  return await caught(() => {
     const aimed = aiming(argv, given, [FILE_PATH])
     if ("code" in aimed) return aimed
     const target = aimed.target
