@@ -1,8 +1,8 @@
 diff --git a/seat-system/agent-record/agent-record.module.code.ts b/seat-system/agent-record/agent-record.module.code.ts
-index af4863a3f85f42161eb3eab8e8f7fea5d85c863e..845c52b6fd5b156bd50b7c7290f4f778c347aa90 100644
+index af4863a3f85f42161eb3eab8e8f7fea5d85c863e..a11c0b8f8b66b7ff02d4f84a5dd290076dbd6ab2 100644
 --- a/seat-system/agent-record/agent-record.module.code.ts
 +++ b/seat-system/agent-record/agent-record.module.code.ts
-@@ -49,11 +49,19 @@ export async function writeAnnouncement(
+@@ -49,11 +49,11 @@ export async function writeAnnouncement(
    return wrote.id
  }
  
@@ -13,15 +13,8 @@ index af4863a3f85f42161eb3eab8e8f7fea5d85c863e..845c52b6fd5b156bd50b7c7290f4f778
    log: (line: string) => void,
    from: string = DEFAULT_SENDER
  ): Promise<string> {
-+<<<<<<< what this change would leave
-+<<<<<<< what this change would leave
+-  return Promise.resolve(await writeAnnouncement(handler, body, log, from))
 +  return writeAnnouncement(handler, body, log, from)
-+=======
-   return Promise.resolve(await writeAnnouncement(handler, body, log, from))
-+>>>>>>> what HEAD holds
-+=======
-+  return writeAnnouncement(handler, body, log, from)
-+>>>>>>> what HEAD holds
  }
 diff --git a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
 index 48d63e5d1fde063a699539fe711427f5cd7af42c..ee34176b6478323c25486f5d0ccb68565343873a 100644
