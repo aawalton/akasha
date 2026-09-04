@@ -6,7 +6,7 @@ import { tasksIn } from "@akasha/readout-system/inboxes-tasks"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { statedAt } from "@akasha/readout-system/readout-tier"
 import { askDayByDate } from "@tools/lib/tracking/day-place"
-import { wakeDayOf } from "@tools/lib/wake-day"
+import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
 const READOUTS = "akasha/readout-system/readouts/pages"
 
