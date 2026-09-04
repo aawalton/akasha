@@ -8,8 +8,6 @@ import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const INSIDE = "akasha/"
-
 const TS = ".ts"
 
 export function pagesTouchedBy(
@@ -19,11 +17,8 @@ export function pagesTouchedBy(
 ): readonly string[] {
   const found = new Set<string>()
   for (const path of change.changed) {
-    if (!path.startsWith(INSIDE)) continue
     if (pageNamed(path, pageTypes)) found.add(path)
-    for (const one of index.listedByPath(path)) {
-      if (one.path.startsWith(INSIDE)) found.add(one.path)
-    }
+    for (const one of index.listedByPath(path)) found.add(one.path)
   }
   return [...found].sort()
 }
