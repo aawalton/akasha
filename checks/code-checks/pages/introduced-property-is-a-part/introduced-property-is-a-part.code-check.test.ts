@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
-import { shadowFor } from "@akasha/pages-system/shadow"
+import { type Shadow, shadowFor } from "@akasha/pages-system/shadow"
 import {
   declaring,
   landing,
@@ -13,7 +13,9 @@ import {
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   declaresIn,
+  introducedIn,
   introducedPropertyIsAPart,
+  type PageType,
   partedIn,
   typeNamedIn,
 } from "./introduced-property-is-a-part.code-check.code.ts"
@@ -34,13 +36,20 @@ function pathFor(slug: string): string {
   return `akasha/${slug}.page-type.ts`
 }
 
+function abovedIn(above: string | readonly string[] | null): string {
+  if (above === null) return ""
+  const named =
+    typeof above === "string" ? `page-type/${above}` : above.map((one) => `page-type/${one}`)
+  return `, extendsSlug: ${JSON.stringify(named)}`
+}
+
 function stated(
   slug: string,
-  above: string | null,
+  above: string | readonly string[] | null,
   declares: readonly string[],
   parts: readonly string[]
 ): string {
-  const said = above === null ? "" : `, extendsSlug: ${JSON.stringify(`page-type/${above}`)}`
+  const said = abovedIn(above)
   const declared = declares.map((one) => ({ pagePropertySlug: one }))
   return (
     `export const held = { id: ${JSON.stringify(`id-${slug}`)}, pageTypeSlug: "page-type", ` +
@@ -52,7 +61,7 @@ function stated(
 function typed(
   root: string,
   slug: string,
-  above: string | null,
+  above: string | readonly string[] | null,
   declares: readonly string[],
   parts: readonly string[]
 ): undefined {
@@ -74,17 +83,21 @@ function rooted(): string {
 
 function bytesOf(
   slug: string,
-  above: string | null,
+  above: string | readonly string[] | null,
   declares: readonly string[],
   parts: readonly string[]
 ): Uint8Array {
   return new TextEncoder().encode(stated(slug, above, declares, parts))
 }
 
-function judged(change: Change): readonly Judged[] {
+function shadowed(change: Change): Shadow {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  return introducedPropertyIsAPart(change, cast.shadow)
+  return cast.shadow
+}
+
+function judged(change: Change): readonly Judged[] {
+  return introducedPropertyIsAPart(change, shadowed(change))
 }
 
 test("a page type naming the property it introduces among its parts is let through", () => {
@@ -225,4 +238,46 @@ test("only a page-type page inside the akasha folder is named", () => {
   expect(typeNamedIn("akasha/a/b/check.page-type.ts")).toBe("check")
   expect(typeNamedIn("akasha/held.domain.ts")).toBeNull()
   expect(typeNamedIn("pages/held.page-type.ts")).toBeNull()
+})
+
+const BOTH: readonly string[] = ["one", "two"]
+
+test("a property either page type above declares is inherited, not introduced", () => {
+  const root = rooted()
+  typed(root, "one", null, ["mine"], [`${TEXT}/mine`])
+  typed(root, "two", null, ["its"], [`${TEXT}/its`])
+  const change = landing(root, {
+    [pathFor("under")]: bytesOf("under", BOTH, ["mine", "its", "foo"], []),
+  })
+  const shadow = shadowed(change)
+  const under: PageType = {
+    slug: "under",
+    path: pathFor("under"),
+    value: shadow.pageOf(pathFor("under")),
+  }
+  expect(introducedIn(under, shadow)).toEqual(["foo"])
+})
+
+test("a page type inheriting through the second name above it hides no introducer", () => {
+  const root = rooted()
+  typed(root, "one", null, ["its"], [`${TEXT}/its`])
+  typed(root, "two", null, ["mine"], [])
+  const said = judged(landing(root, { [pathFor("under")]: bytesOf("under", BOTH, ["mine"], []) }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("two"))
+  expect(said[0]?.reason).toContain("`mine`")
+  expect(said[0]?.reason).toContain("`two`")
+})
+
+test("a page type naming two above it is refused naming the property and itself", () => {
+  const root = rooted()
+  typed(root, "one", null, ["its"], [`${TEXT}/its`])
+  typed(root, "two", null, ["shared"], [`${TEXT}/shared`])
+  const said = judged(landing(root, { [pathFor("under")]: bytesOf("under", BOTH, ["mine"], []) }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("under"))
+  expect(said[0]?.reason).toBe(
+    "introduces `mine` and does not name it among its parts — a property stands under the page " +
+      "type introducing it, and `under` is the only one that does"
+  )
 })
