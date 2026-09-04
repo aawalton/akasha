@@ -1,0 +1,146 @@
+diff --git a/google/calendar/calendar-auth/calendar-auth.module.code.ts b/google/calendar/calendar-auth/calendar-auth.module.code.ts
+index 44fd8a7d93ade62202167d6ded361445f700a640..d4b03234dd0e3e38d68788916b71b1057c0b0be2 100644
+--- a/google/calendar/calendar-auth/calendar-auth.module.code.ts
++++ b/google/calendar/calendar-auth/calendar-auth.module.code.ts
+@@ -1,3 +1,4 @@
++import { makeGoogleOauthClient } from "@akasha/google-oauth/oauth-client"
+ import { auth } from "@googleapis/calendar"
+ import {
+   CALENDAR_SCOPE,
+@@ -19,8 +20,5 @@ export function makeAuthClient(): CalendarAuthClient {
+ }
+ 
+ export function makeOAuthClient(): CalendarOauthClient {
+-  const { clientId, clientSecret, refreshToken } = readCalendarOauthCredentials()
+-  const client = new auth.OAuth2({ clientId, clientSecret })
+-  client.setCredentials({ refresh_token: refreshToken })
+-  return client
++  return makeGoogleOauthClient(auth.OAuth2, readCalendarOauthCredentials())
+ }
+diff --git a/google/drive/drive-auth/drive-auth.module.code.ts b/google/drive/drive-auth/drive-auth.module.code.ts
+index 933bee98940f07528f372a5c2819e642447ab903..b2ee21930206b1996971c6c577640cbeaa67e84d 100644
+--- a/google/drive/drive-auth/drive-auth.module.code.ts
++++ b/google/drive/drive-auth/drive-auth.module.code.ts
+@@ -1,11 +1,9 @@
++import { makeGoogleOauthClient } from "@akasha/google-oauth/oauth-client"
+ import { auth } from "@googleapis/drive"
+ import { readDriveCredentials } from "../drive-credentials/drive-credentials.module.code.ts"
+ 
+ export type DriveAuthClient = InstanceType<typeof auth.OAuth2>
+ 
+ export function makeAuthClient(): DriveAuthClient {
+-  const { clientId, clientSecret, refreshToken } = readDriveCredentials()
+-  const client = new auth.OAuth2({ clientId, clientSecret })
+-  client.setCredentials({ refresh_token: refreshToken })
+-  return client
++  return makeGoogleOauthClient(auth.OAuth2, readDriveCredentials())
+ }
+diff --git a/google/email/gmail-auth/gmail-auth.module.code.ts b/google/email/gmail-auth/gmail-auth.module.code.ts
+index 48ed2892a57dc382c4bb73d8ccf766338b2534b0..34e6798c1c3a7da2763c0418b5e1ff2e03031e13 100644
+--- a/google/email/gmail-auth/gmail-auth.module.code.ts
++++ b/google/email/gmail-auth/gmail-auth.module.code.ts
+@@ -1,11 +1,9 @@
++import { makeGoogleOauthClient } from "@akasha/google-oauth/oauth-client"
+ import { auth } from "@googleapis/gmail"
+ import { readGmailCredentials } from "../gmail-credentials/gmail-credentials.module.code.ts"
+ 
+ export type GmailAuthClient = InstanceType<typeof auth.OAuth2>
+ 
+ export function makeAuthClient(): GmailAuthClient {
+-  const { clientId, clientSecret, refreshToken } = readGmailCredentials()
+-  const client = new auth.OAuth2({ clientId, clientSecret })
+-  client.setCredentials({ refresh_token: refreshToken })
+-  return client
++  return makeGoogleOauthClient(auth.OAuth2, readGmailCredentials())
+ }
+diff --git a/google/oauth/google-oauth.workspace-package.ts b/google/oauth/google-oauth.workspace-package.ts
+index e722fb00b0156517f328a487cb46638376f2f7f9..53618f9254d5cc101ea667dc86c59880b257ff21 100644
+--- a/google/oauth/google-oauth.workspace-package.ts
++++ b/google/oauth/google-oauth.workspace-package.ts
+@@ -6,7 +6,12 @@ export const googleOauth = {
+   slug: "google-oauth",
+   definition: "the one Google desktop app Alan's calendar, mail and drive all consent through",
+   manifest: "json",
+-  partSlugs: ["module/oauth-callback", "module/oauth-app-credentials", "module/oauth-consent"],
++  partSlugs: [
++    "module/oauth-callback",
++    "module/oauth-app-credentials",
++    "module/oauth-client",
++    "module/oauth-consent",
++  ],
+   invariants: [
+     {
+       invariantKind: "absence",
+diff --git a/google/oauth/oauth-client/oauth-client.module.code.ts b/google/oauth/oauth-client/oauth-client.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f4f1535a692cb40fcb8e9bcbc5915591ed093f3c
+--- /dev/null
++++ b/google/oauth/oauth-client/oauth-client.module.code.ts
+@@ -0,0 +1,26 @@
++export interface GoogleOauthRefreshCredentials {
++  readonly clientId: string
++  readonly clientSecret: string
++  readonly refreshToken: string
++}
++
++export interface GoogleOauthClientLike {
++  setCredentials: (credentials: { readonly refresh_token: string }) => void
++}
++
++export type GoogleOauthClientMaker<Client extends GoogleOauthClientLike> = new (options: {
++  readonly clientId: string
++  readonly clientSecret: string
++}) => Client
++
++export function makeGoogleOauthClient<Client extends GoogleOauthClientLike>(
++  oauth2: GoogleOauthClientMaker<Client>,
++  credentials: GoogleOauthRefreshCredentials
++): Client {
++  const client = new oauth2({
++    clientId: credentials.clientId,
++    clientSecret: credentials.clientSecret,
++  })
++  client.setCredentials({ refresh_token: credentials.refreshToken })
++  return client
++}
+diff --git a/google/oauth/oauth-client/oauth-client.module.ts b/google/oauth/oauth-client/oauth-client.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4de2efd7c67a5395414bdf3582cef850ddfc02db
+--- /dev/null
++++ b/google/oauth/oauth-client/oauth-client.module.ts
+@@ -0,0 +1,23 @@
++import type { Module } from "../../../code-system/modules/module.page-type.ts"
++
++export const oauthClient = {
++  id: "01a06d16-f135-7230-acd8-d3d66ea08433",
++  pageTypeSlug: "module",
++  slug: "oauth-client",
++  definition: "the Google OAuth client built out of the OAuth2 the caller hands in",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The OAuth2 handed in is the type the client comes back as.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No `@googleapis` package is reached from here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refresh token is set on the client before the client is handed back.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/google/oauth/package.json b/google/oauth/package.json
+index ab63d07fbbd496e5fab43bbd630a5f6c0049c126..69c06f19d6b155a81c4eb6b323859cbaf5fe22ac 100644
+--- a/google/oauth/package.json
++++ b/google/oauth/package.json
+@@ -5,6 +5,7 @@
+   "exports": {
+     "./oauth-callback": "./oauth-callback/oauth-callback.module.code.ts",
+     "./oauth-app-credentials": "./oauth-app-credentials/oauth-app-credentials.module.code.ts",
++    "./oauth-client": "./oauth-client/oauth-client.module.code.ts",
+     "./oauth-consent": "./oauth-consent/oauth-consent.module.code.ts"
+   },
+   "dependencies": {
