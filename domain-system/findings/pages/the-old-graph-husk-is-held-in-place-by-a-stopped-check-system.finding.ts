@@ -4,7 +4,7 @@ export const theOldGraphHuskIsHeldInPlaceByAStoppedCheckSystem = {
   id: "01a0655b-c1e8-73d6-8cba-cde62fbfb408",
   pageTypeSlug: "finding",
   slug: "the-old-graph-husk-is-held-in-place-by-a-stopped-check-system",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "Nothing under `tools/lib/graph` can migrate into `akasha/graph-system`. The old graph was deleted before this migration began: 26 of its files are tombstones throwing `OldGraphGone`, and the rest only declare node and edge kinds for the graph that went. `akasha/graph-system` replaced that vocabulary with one node kind and two edge kinds, so no caller can be repointed. What holds the husk in the tree is `infra/cluster-checks`, which judges nothing now and no agent holds.",
   evidence:

@@ -4,7 +4,7 @@ export const theProductTaxonomyOfTheOldDictionaryHasNoAkashaCounterpartAndNeeded
   id: "01a0658c-e78f-7b49-aa6a-d388ed05f4ab",
   pageTypeSlug: "finding",
   slug: "the-product-taxonomy-of-the-old-dictionary-has-no-akasha-counterpart-and-needed-none",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "The 38 `products` pages of `pages/domain` reconcile without one new akasha domain. Five grouping nodes were deleted rather than landed: `products`, `supported-products`, `internal-products`, `discontinued-products` and `temper-data`. They group by who a product is kept working for and by how a record travels, and akasha groups neither. Whether Clear the World is discontinued is now recorded nowhere.",
   evidence:

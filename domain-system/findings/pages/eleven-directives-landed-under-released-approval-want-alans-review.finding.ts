@@ -4,7 +4,7 @@ export const elevenDirectivesLandedUnderReleasedApprovalWantAlansReview = {
   id: "01a06599-4683-774e-9284-8011b2fb7561",
   pageTypeSlug: "finding",
   slug: "eleven-directives-landed-under-released-approval-want-alans-review",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "Eleven directives were added to five akasha pages while reconciling the old domain-system pages, each covered by an Alan Approves directive whose approval the migration initiative releases. Every one is a rule Alan had already written on a `pages/domain` page that akasha carried nowhere, reworded only to fit the act, warrant and aids shape. None is new policy, but all eleven bind every reader of those pages and want his review.",
   evidence:

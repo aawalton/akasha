@@ -4,7 +4,7 @@ export const aWildcardManifestOnPageWouldFreeSeventyFilesAndHideTheDependency = 
   id: "01a06742-4483-7a0b-a19e-898050b16097",
   pageTypeSlug: "finding",
   slug: "a-wildcard-manifest-on-page-would-free-seventy-files-and-hide-the-dependency",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "Giving the repo-root `page/` a manifest naming wildcard exports would make all 70 `tools/` files it blocks movable at once, with no repoint, no new module and nothing deleted. The route is real and was declined: it would carry akasha's dependency on a tree marked for removal across the line while hiding it from the check that exists to see it.",
   evidence:

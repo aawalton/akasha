@@ -4,7 +4,7 @@ export const theAlertPageTypeTookADirectiveAlanHasNotApproved = {
   id: "01a0685e-a3ab-73d9-a3b2-5401f6e91018",
   pageTypeSlug: "finding",
   slug: "the-alert-page-type-took-a-directive-alan-has-not-approved",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "`akasha/infrastructure/alerts/alert.page-type.ts` now carries the directive Direct To Alan, carried over from the old `pages/page-type/alert.page-type.md` rather than newly authored. The Alan Approves Directives rule on the domain page type covers it, and the migration released that approval, so it landed unreviewed. Review the wording with Alan.",
   evidence:

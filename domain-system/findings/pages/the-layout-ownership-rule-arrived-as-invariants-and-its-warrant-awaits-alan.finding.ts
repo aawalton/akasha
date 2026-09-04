@@ -4,7 +4,7 @@ export const theLayoutOwnershipRuleArrivedAsInvariantsAndItsWarrantAwaitsAlan = 
   id: "01a0675c-b782-7128-85d9-0ed99531985d",
   pageTypeSlug: "finding",
   slug: "the-layout-ownership-rule-arrived-as-invariants-and-its-warrant-awaits-alan",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "The `design-system` domain page in `pages/domain` carried one directive, Layout Ownership, that no page inside akasha held. Its act and both its aids landed as three invariants on `akasha/design/system/design-system.workspace-package.ts`, so nothing is lost, but a directive binds every reader and needs Alan's approval. Whether Layout Ownership belongs back as a directive rather than as three invariants is his call.",
   evidence:

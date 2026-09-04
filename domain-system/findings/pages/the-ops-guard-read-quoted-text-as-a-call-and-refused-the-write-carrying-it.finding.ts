@@ -4,7 +4,7 @@ export const theOpsGuardReadQuotedTextAsACallAndRefusedTheWriteCarryingIt = {
   id: "01a06863-1006-7c5f-991c-569d7b44c5fa",
   pageTypeSlug: "finding",
   slug: "the-ops-guard-read-quoted-text-as-a-call-and-refused-the-write-carrying-it",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "`block-ops-cli` was the one hook `agents.agent-settings.harness-settings.json` named by hand, and the only entry under its `PreToolUse`. It carried its own copy of the segment cut, which did not dequote, so a write whose body held the word at the head of a line was read as a call and refused. It now stands as an agent hook page under `akasha/hook-system/agent-hooks/`, judging through `shell-calls`, and the hand-written registration is gone. `tools/hooks/block-ops-cli.ts` was NOT taken away with it: all five live settings snapshots name that path, so it stands one cycle more and goes once none does. This is a hook the `Alan Approves Hooks` directive on `agent-hook.page-type.ts` covers, landed directly under constraint 7 and filed here to review with Alan.",
   evidence:

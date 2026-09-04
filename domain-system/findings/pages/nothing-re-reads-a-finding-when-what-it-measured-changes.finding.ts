@@ -4,7 +4,7 @@ export const nothingReReadsAFindingWhenWhatItMeasuredChanges = {
   id: "01a06805-5e7c-79ee-b761-a3b095945c03",
   pageTypeSlug: "finding",
   slug: "nothing-re-reads-a-finding-when-what-it-measured-changes",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "Three findings went stale in one night, each with a right datum and a reading that rotted beneath it, two of them inviting destructive or wasted work. A finding is more exposed to this than an invariant, because it holds a measurement taken at a moment rather than a rule, and the world moves under a measurement by design. `invariants.record-property.ts` carries `Move When It Turns` for invariants. Findings have none and want one. Proposed, for Alan to weigh, on `finding.page-type.ts`.",
   evidence:

@@ -4,7 +4,7 @@ export const smokeSurvivesAsAShellScriptAndAReportFieldRatherThanAsAKindOfTest =
   id: "01a068ea-b511-7ea0-8a6c-eb3c0c5dfbb2",
   pageTypeSlug: "finding",
   slug: "smoke-survives-as-a-shell-script-and-a-report-field-rather-than-as-a-kind-of-test",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "`test-smoke` and `upscale-smoke` are not the same referent, so removing `test-smoke` in 25e1016422 was right and nothing is owed. The old page defined a smoke test as one whose case is run through what is already deployed, and separated it from other tests by two design lines: it leaves its marks on the system it questions, and it answers for the path it exercised alone. `upscale-smoke.shell-script.ts` matches the first half and refutes the second, because every probe in its shell body runs under `podman run --rm` and asserts rather than writes, so it leaves no marks at all. `pipeline-benchmark.command.ts:55` uses smoke as the name of a field on a report, not as a kind of test. akasha has the practice without the taxonomy, and needs no page for the taxonomy.",
   evidence:

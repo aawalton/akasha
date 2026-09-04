@@ -4,7 +4,7 @@ export const aClusterCheckPageTypeLandedWithADirectiveAlanHasNotApproved = {
   id: "01a0680e-6672-7910-a2ca-4d1102cfd5d1",
   pageTypeSlug: "finding",
   slug: "a-cluster-check-page-type-landed-with-a-directive-alan-has-not-approved",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "The `cluster-check` page type landed carrying a directive named Counted Or Held, which the Alan Approves Directives rule on `page-type/domain` covers and Alan has not approved in its new form. It is the old markdown page type's rule carried across word for word rather than a rule written here, but carrying a rule across is still landing one.",
   evidence:

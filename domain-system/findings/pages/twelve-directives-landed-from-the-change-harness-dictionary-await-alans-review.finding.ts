@@ -4,7 +4,7 @@ export const twelveDirectivesLandedFromTheChangeHarnessDictionaryAwaitAlansRevie
   id: "01a06599-8902-76db-a64f-7cfee04052c0",
   pageTypeSlug: "finding",
   slug: "twelve-directives-landed-from-the-change-harness-dictionary-await-alans-review",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "Twelve directives were carried out of `pages/domain` into akasha under the migration's released approvals, and each is owed a review with Alan against `Alan Approves Directives`: seven on `domain/test`, four on the new `domain/instrument`, one on `domain/akasha-check`. Each restates a block Alan had already approved in the old markdown, but the wording moved and `Painful Or Worse` changed its measure.",
   evidence:
