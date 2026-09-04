@@ -8,8 +8,8 @@ import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { nameOf, seatPathForName, supervisorOf } from "@akasha/seat-system/seat-reading"
 import { type Stopped, stopping } from "@akasha/seat-system/seat-stopping"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

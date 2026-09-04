@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { holderIn, nameOf } from "@akasha/seat-system/seat-reading"
-import type { Given } from "../../calling/calling.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
 import { seat } from "./seat.command.code.ts"
 
 function given(root: string): Given {
