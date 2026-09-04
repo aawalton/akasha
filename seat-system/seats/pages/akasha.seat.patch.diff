@@ -48,6 +48,18 @@ index 65d0b5e0dbb00208d47007b0cf09e10074167b4e..af24f5e92cf97fe50a2caa53f1b3a6a0
    }
    return held
  }
+diff --git a/pages/page-types/page-properties/properties/unique.relation-property.ts b/pages/page-types/page-properties/properties/unique.relation-property.ts
+index 5f3b904fc5d9d931f6c0e5131ac20db838731f23..61ac64ae492ebf63d4c67ebb4642cbe5ddfa5c17 100644
+--- a/pages/page-types/page-properties/properties/unique.relation-property.ts
++++ b/pages/page-types/page-properties/properties/unique.relation-property.ts
+@@ -1,6 +1,6 @@
+ import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.ts"
+ 
+-export type Unique = "always" | "page-type"
++export type Unique = "always" | "page-type" | "part-of"
+ 
+ export const unique = {
+   id: "01a04edd-897d-7695-8047-3d1c855b750f",
 diff --git a/pages/unique-kinds/pages/part-of.unique-kind.ts b/pages/unique-kinds/pages/part-of.unique-kind.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..af5e9ed43420601905335e84b7dd866e074300f0
