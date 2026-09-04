@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { typed } from "@akasha/code-system/code-typing"
 import { addressIn } from "@akasha/pages-system/page-address"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
@@ -177,7 +178,7 @@ export function importersOf(
   reading: Reading
 ): readonly string[] {
   const asked = `which files import \`${path}\``
-  const why = root === null ? null : staleFor(root, indexIn(root))
+  const why = root === null ? null : staleFor(root, indexIn(root), typed)
   if (why !== null) throw new Error(`${asked} could not be answered — ${why}`)
   const under = join(IMPORT, AT_PATH)
   return answered(reading, under, asked, (held) => importersIn(held, path))
