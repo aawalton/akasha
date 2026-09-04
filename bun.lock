@@ -1172,9 +1172,6 @@
     "pages": {
       "name": "@akasha/pages-system",
     },
-    "pages/indexes": {
-      "name": "@akasha/indexes",
-    },
     "pages/commands": {
       "name": "@akasha/page-commands",
       "dependencies": {
@@ -1182,6 +1179,9 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/pages-system": "workspace:*",
       },
+    },
+    "pages/indexes": {
+      "name": "@akasha/indexes",
     },
     "pages/pages-access": {
       "name": "@akasha/pages-access",
