@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domains/domain.page-type.ts"
 
 export const runCost = {
   id: "01a06860-a0ef-7619-8f93-c450df9427ad",

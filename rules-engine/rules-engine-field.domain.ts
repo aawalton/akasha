@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const rulesEngineField = {
   id: "01a06600-0000-7000-8000-000000000002",

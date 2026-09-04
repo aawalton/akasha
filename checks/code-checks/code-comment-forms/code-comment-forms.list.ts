@@ -1,4 +1,4 @@
-import type { List } from "../../../domain-system/lists/list.page-type.ts"
+import type { List } from "../../../domains/lists/list.page-type.ts"
 
 export const codeCommentForms = {
   id: "01a06862-a02e-7a14-ace4-e8e871253c5c",

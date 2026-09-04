@@ -1,7 +1,7 @@
 
 # The dependency graph
 
-> How work flows through Alan's five foundational layers, drawn out on 2026-08-11 as a dependency graph rather than a sequence. Records what each layer is used for in his own words, why the five are numbered (dependency order, with the domain-system/agent-harness tie broken by which can bootstrap on a lighter harness), and the two consequences he drew — why harness-in-instructions is critical, and a parallel initiative he could define for alan-harness.
+> How work flows through Alan's five foundational layers, drawn out on 2026-08-11 as a dependency graph rather than a sequence. Records what each layer is used for in his own words, why the five are numbered (dependency order, with the domains/agent-harness tie broken by which can bootstrap on a lighter harness), and the two consequences he drew — why harness-in-instructions is critical, and a parallel initiative he could define for alan-harness.
 
 > Lets talk about how work flows through the foundational layers and see what we can learn.
 

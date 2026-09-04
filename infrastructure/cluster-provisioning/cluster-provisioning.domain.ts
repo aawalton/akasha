@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domains/domain.page-type.ts"
 
 export const clusterProvisioning = {
   id: "01a0675b-16d9-7eab-a110-f106ca00dad1",

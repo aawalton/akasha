@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const audhdalan = {
   id: "01a06558-c2cc-7000-8cc9-fca361852367",

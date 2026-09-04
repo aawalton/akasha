@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const containerRegistry = {
   id: "01a0658b-0f02-7e11-9293-61be7a832920",

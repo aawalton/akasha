@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domains/domain.page-type.ts"
 
 export const mcp = {
   id: "01a065a0-1408-780c-8dcb-6f6ea9f7d7fd",

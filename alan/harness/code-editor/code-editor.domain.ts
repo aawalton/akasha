@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domains/domain.page-type.ts"
 
 export const codeEditor = {
   id: "01a0658a-e55d-7059-8f58-e3521a432370",

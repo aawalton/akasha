@@ -16,7 +16,7 @@ This book is where I work out what to improve next and why. It is not a product 
 
 **I cap concurrency by hand, at two scales.** A child concurrency of three under one parent project, so a flooding workstream cannot destabilize everything else; and one session per persona, which — each persona owning one domain — is one line of change per area. Neither is recorded anywhere the system can read: both are held at the moment I start something. → [005](chapters/005-the-pipeline.md)
 
-**The five layers are a dependency graph, not a sequence**, and they are numbered in dependency order. The domain-system/agent-harness tie is broken by bootstrap cost: domain-system is simple and interactive enough to start on a lighter harness. → [006](chapters/006-the-dependency-graph.md)
+**The five layers are a dependency graph, not a sequence**, and they are numbered in dependency order. The domains/agent-harness tie is broken by bootstrap cost: domain-system is simple and interactive enough to start on a lighter harness. → [006](chapters/006-the-dependency-graph.md)
 
 **Stability is prevention plus recoverability**, and they trade. On my workstation the code-repo machinery hurts recoverability to buy prevention that is not worth much there. → [007](chapters/007-stability.md)
 

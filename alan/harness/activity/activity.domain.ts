@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domains/domain.page-type.ts"
 
 export const activity = {
   id: "01a06222-9828-776f-bc9a-0f3774308c14",

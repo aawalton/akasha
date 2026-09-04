@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../../../../domains/domains/domain.page-type.ts"
 
 export const claudeCodeSessionStorePath = {
   id: "01a065b0-2104-7f7d-be86-1cd42797ac84",

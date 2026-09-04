@@ -1,4 +1,4 @@
-import type { List } from "../../domain-system/lists/list.page-type.ts"
+import type { List } from "../../domains/lists/list.page-type.ts"
 
 export const opsNamespacesToReview = {
   id: "01a06862-a02e-7d77-87c9-7087ceac7ed7",

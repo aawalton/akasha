@@ -214,7 +214,7 @@ export function domainListed(root: string, slug: string): Listed {
 export function initiativeListed(root: string, slug: string, stated = ""): Listed {
   return pageListed(
     root,
-    `domain-system/initiative/initiatives/${slug}.initiative.ts`,
+    `domains/initiative/initiatives/${slug}.initiative.ts`,
     "initiative",
     slug,
     stated

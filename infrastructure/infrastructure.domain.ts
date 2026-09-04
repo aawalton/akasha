@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const infrastructure = {
   id: "01a0658b-0f02-735b-af6a-28559398ee59",

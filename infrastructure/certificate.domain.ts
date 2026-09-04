@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const certificate = {
   id: "01a0658b-0f02-7cc7-a170-0193d5a4bc1d",

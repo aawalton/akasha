@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const archiveOfWorlds = {
   id: "01a06582-2736-7dc0-bf64-089e264753bf",

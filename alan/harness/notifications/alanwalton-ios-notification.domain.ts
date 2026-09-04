@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domains/domain.page-type.ts"
 
 export const alanwaltonIosNotification = {
   id: "01a0675b-16d5-73ec-b556-2248facf0650",

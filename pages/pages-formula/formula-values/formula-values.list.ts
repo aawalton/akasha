@@ -1,4 +1,4 @@
-import type { List } from "../../../domain-system/lists/list.page-type.ts"
+import type { List } from "../../../domains/lists/list.page-type.ts"
 
 export const formulaValues = {
   id: "01a044c8-4d47-7000-8da5-ba970e366a7a",

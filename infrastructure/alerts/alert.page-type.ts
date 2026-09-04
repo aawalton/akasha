@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Definition } from "../../domain-system/domains/properties/definition.text-property.ts"
+import type { Definition } from "../../domains/domains/properties/definition.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.relation-property.ts"
 import type { AlertDescription } from "./properties/alert-description.file-property.ts"

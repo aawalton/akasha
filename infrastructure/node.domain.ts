@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const node = {
   id: "01a0675b-16f6-70fc-b7f0-5a700f512e86",

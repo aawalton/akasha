@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domains/domain.page-type.ts"
 
 export const personaDayScore = {
   id: "01a0675b-16f7-7934-860f-30346687b95a",

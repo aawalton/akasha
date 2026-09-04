@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domains/domain.page-type.ts"
 
 export const worldLore = {
   id: "01a0673a-bc3a-7004-90d5-e9a0b0103626",

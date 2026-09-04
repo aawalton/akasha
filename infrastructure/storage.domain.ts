@@ -1,4 +1,4 @@
-import type { Domain } from "../domain-system/domains/domain.page-type.ts"
+import type { Domain } from "../domains/domains/domain.page-type.ts"
 
 export const storage = {
   id: "01a0658b-0f02-7644-863a-eb9b17536f55",

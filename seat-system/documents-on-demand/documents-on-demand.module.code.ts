@@ -10,7 +10,7 @@ import { listDocuments } from "../../checks/modules/check-view/check-view.module
 import {
   DOMAIN_SLUG_KEY,
   type Documents,
-} from "../../domain-system/domain-documents/domain-documents.module.code.ts"
+} from "../../domains/domain-documents/domain-documents.module.code.ts"
 
 export function documentsOnDemand(root: string): Documents {
   const parsed = new Map<string, Frontmatter | null>()

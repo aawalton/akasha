@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Definition } from "../../../../domain-system/domains/properties/definition.text-property.ts"
+import type { Definition } from "../../../../domains/domains/properties/definition.text-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { MonarchId } from "./properties/monarch-id.text-property.ts"
 

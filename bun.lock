@@ -717,7 +717,7 @@
     "domain-system": {
       "name": "@akasha/domain-system",
     },
-    "domain-system/plain-language": {
+    "domains/plain-language": {
       "name": "@akasha/plain-language",
       "dependencies": {
         "onnxruntime-node": "1.29.0",
@@ -3141,7 +3141,7 @@
 
     "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
 
-    "@akasha/plain-language": ["@akasha/plain-language@workspace:domain-system/plain-language"],
+    "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
 
     "@akasha/postgres-annual-dump": ["@akasha/postgres-annual-dump@workspace:infrastructure/postgres-annual-dump"],
 
