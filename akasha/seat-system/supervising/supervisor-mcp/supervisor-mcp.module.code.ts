@@ -24,7 +24,8 @@ import { computeMcpConfigContent } from "../../claude-launch-args/claude-launch-
 
 const LOG = "[supervisor-mcp]"
 
-const EXPORT_SCRIPT_RELPATH = "tools/playwright-storage-state.ts"
+const EXPORT_CLI_RELPATH = "akasha/command-system/cli/cli.module.code.ts"
+const EXPORT_COMMAND = "browser-test-storage-state"
 const REFRESH_TIMEOUT_MS = 10_000
 const EXPORT_TIMEOUT_MS = 180_000
 
@@ -84,9 +85,9 @@ function atomicWriteStorageState(path: string, contents: string): undefined {
 }
 
 async function runExportScript(): Promise<undefined> {
-  const scriptPath = `${ownRepoRoot()}/${EXPORT_SCRIPT_RELPATH}`
-  console.log(`${LOG} re-exporting playwright storage state via ${EXPORT_SCRIPT_RELPATH}`)
-  const proc = Bun.spawn(["bun", scriptPath], {
+  const cliPath = `${ownRepoRoot()}/${EXPORT_CLI_RELPATH}`
+  console.log(`${LOG} re-exporting playwright storage state via \`akasha ${EXPORT_COMMAND}\``)
+  const proc = Bun.spawn(["bun", cliPath, EXPORT_COMMAND], {
     stdout: "pipe",
     stderr: "pipe",
     timeout: EXPORT_TIMEOUT_MS,
@@ -100,10 +101,10 @@ async function runExportScript(): Promise<undefined> {
     throw new Error(
       `${LOG} storage-state re-export failed (exit ${exitCode}). ` +
         `The browser MCP cannot be seeded with an authenticated session. ` +
-        `Fix and re-run: bun ${EXPORT_SCRIPT_RELPATH} ` +
+        `Fix and re-run: akasha ${EXPORT_COMMAND} ` +
         `(requires BROWSER_TEST_URL / BROWSER_TEST_EMAIL / BROWSER_TEST_PASSWORD / ` +
-        `SUPABASE_URL / SUPABASE_ANON_KEY in ~/.secrets.env). ` +
-        `Script output: ${stdout.slice(-500)} ${stderr.slice(-500)}`
+        `SUPABASE_URL / SUPABASE_ANON_KEY / SUPABASE_SERVICE_ROLE_KEY in ~/.secrets.env). ` +
+        `Command output: ${stdout.slice(-500)} ${stderr.slice(-500)}`
     )
   }
 }
