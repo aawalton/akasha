@@ -15,7 +15,11 @@ export const temperPlayer = {
   definition: "the person behind an account, and how that person has asked temper to behave",
   pluralSlug: "temper-players",
   extendsSlug: ["page-type/temper-character-thing"],
-  partSlugs: ["file-property/settings", "text-property/completion-visibility"],
+  partSlugs: [
+    "file-property/settings",
+    "text-property/completion-visibility",
+    "text-property/handle",
+  ],
   properties: [
     { pagePropertySlug: "completion-visibility", required: true, many: false },
     { pagePropertySlug: "settings", required: false, many: false },
