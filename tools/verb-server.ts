@@ -50,6 +50,21 @@ Verbs: ${VERBS_SERVED.join(", ")}
   --help  This.
 `
 
+// HOW AN AKASHA COMMAND'S ANSWER IS SAID, for both roads that answer one. Said the way every verb
+// says it, so the caller's short-read guard keeps working: `sayAnswer` states the byte count on
+// stderr before writing the answer on stdout, and `whole` in the editor's harness refuses an
+// answer whose arrival disagrees with what was said. A command that returns no line at all says
+// nothing, which is what a refusal is.
+function answerSaid(answer: {
+  readonly report: readonly string[]
+  readonly refusals: readonly string[]
+  readonly code: number
+}): number {
+  for (const one of answer.refusals) process.stderr.write(`${one}\n`)
+  if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
+  return answer.code
+}
+
 type Verb = (argv: readonly string[]) => number | Promise<number>
 
 // The verbs answered here, loaded rather than spawned. A verb is in this table only once its
@@ -67,7 +82,26 @@ type Verb = (argv: readonly string[]) => number | Promise<number>
 // two expensive trees. `domain-tree` and `page-tree` stay off it for that reason — they are worth
 // the startup of a child of their own, because paying it is what keeps them out of everyone's way.
 const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Verb }>>> = {
-  "agent-turn-colors": () => import("./agent-turn-colors.ts"),
+  "agent-turn-colors": async () => {
+    const { agentTurnColors } = await import(
+      "../akasha/command-system/commands/agent-turn-colors/agent-turn-colors.command.code.ts"
+    )
+    const { akashaRoot } = await import("@akasha/pages-system/checkout-roots")
+    return {
+      main: (argv) => {
+        const at = akashaRoot()
+        return answerSaid(
+          agentTurnColors(argv, {
+            root: at,
+            calledAs: "akasha",
+            from: at,
+            writer: null,
+            agentId: null,
+          })
+        )
+      },
+    }
+  },
 }
 
 // THE VERBS THAT ARE AKASHA COMMANDS RATHER THAN FILES UNDER `tools/`. Each is answered by
@@ -101,13 +135,7 @@ async function commanded(verb: string, argv: readonly string[]): Promise<number>
     writer: null,
     agentId: null,
   })
-  for (const one of answer.refusals) process.stderr.write(`${one}\n`)
-  // Said the way every verb says it, so the caller's short-read guard keeps working across the
-  // move: `sayAnswer` states the byte count on stderr before writing the answer on stdout, and
-  // `whole` in the editor's harness refuses an answer whose arrival disagrees with what was said.
-  // A command that returns no line at all says nothing, which is what a refusal is.
-  if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
-  return answer.code
+  return answerSaid(answer)
 }
 
 // WHAT KEEPS THE TWO LISTS FROM DRIFTING APART. What this server can load and what the caller
