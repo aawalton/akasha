@@ -3,24 +3,30 @@ export interface PageTypeForInheritance {
   readonly properties?: Record<string, unknown>
 }
 
-function parentIdOf(
+function slugAbove(named: string): string {
+  const at = named.indexOf("/")
+  return at === -1 ? named : named.slice(at + 1)
+}
+
+function parentIdsOf(
   pt: PageTypeForInheritance,
   idBySlug: ReadonlyMap<string, string>
-): string | undefined {
-  const extendsSlug = pt.properties?.extendsSlug
-  if (typeof extendsSlug === "string" && extendsSlug.length > 0) {
-    const byExtendsSlug = idBySlug.get(extendsSlug)
-    if (byExtendsSlug !== undefined) return byExtendsSlug
+): readonly string[] {
+  const said = pt.properties?.extendsSlug
+  const named = typeof said === "string" ? [said] : Array.isArray(said) ? said : []
+  const found: string[] = []
+  for (const one of named) {
+    if (typeof one !== "string" || one === "") continue
+    const parentId = idBySlug.get(slugAbove(one))
+    if (parentId !== undefined) found.push(parentId)
   }
-  return undefined
+  return found
 }
 
 export function resolveDescendantPageTypeIds(
   pageTypes: ReadonlyArray<PageTypeForInheritance>,
   targetId: string
 ): Set<string> {
-  const descendants = new Set<string>([targetId])
-
   const idBySlug = new Map<string, string>()
   for (const pt of pageTypes) {
     const slug = pt.properties?.slug
@@ -29,51 +35,36 @@ export function resolveDescendantPageTypeIds(
     }
   }
 
-  const parentOf = new Map<string, string>()
+  const parentsOf = new Map<string, readonly string[]>()
   for (const pt of pageTypes) {
-    const parentId = parentIdOf(pt, idBySlug)
-    if (parentId !== undefined) parentOf.set(pt._id, parentId)
+    const parentIds = parentIdsOf(pt, idBySlug)
+    if (parentIds.length > 0) parentsOf.set(pt._id, parentIds)
   }
 
   const reachesTarget = new Set<string>([targetId])
   const doesNotReach = new Set<string>()
 
+  const reaches = (id: string, opened: Set<string>): boolean => {
+    if (reachesTarget.has(id)) return true
+    if (doesNotReach.has(id)) return false
+    if (opened.has(id)) return false
+    opened.add(id)
+    let found = false
+    for (const parentId of parentsOf.get(id) ?? []) {
+      if (reaches(parentId, opened)) {
+        found = true
+        break
+      }
+    }
+    opened.delete(id)
+    if (found) reachesTarget.add(id)
+    else doesNotReach.add(id)
+    return found
+  }
+
+  const descendants = new Set<string>([targetId])
   for (const pt of pageTypes) {
-    if (descendants.has(pt._id)) continue
-
-    const walk: string[] = []
-    const visited = new Set<string>()
-    let cursor: string | undefined = pt._id
-    let verdict: "reaches" | "miss" | "cycle" = "miss"
-
-    while (cursor !== undefined) {
-      if (reachesTarget.has(cursor)) {
-        verdict = "reaches"
-        break
-      }
-      if (doesNotReach.has(cursor)) {
-        verdict = "miss"
-        break
-      }
-      if (visited.has(cursor)) {
-        verdict = "cycle"
-        break
-      }
-      visited.add(cursor)
-      walk.push(cursor)
-      cursor = parentOf.get(cursor)
-    }
-
-    if (verdict === "reaches") {
-      for (const id of walk) {
-        descendants.add(id)
-        reachesTarget.add(id)
-      }
-    } else {
-      for (const id of walk) {
-        doesNotReach.add(id)
-      }
-    }
+    if (reaches(pt._id, new Set<string>())) descendants.add(pt._id)
   }
 
   return descendants
