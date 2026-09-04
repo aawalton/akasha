@@ -1,0 +1,37 @@
+diff --git a/checks/modules/check-scratch/check-scratch.module.code.ts b/checks/modules/check-scratch/check-scratch.module.code.ts
+index 63491ff779b633042959a0614012d753f6997a23..4597a0e7b26f2fc220f8307ae620978d595238b2 100644
+--- a/checks/modules/check-scratch/check-scratch.module.code.ts
++++ b/checks/modules/check-scratch/check-scratch.module.code.ts
+@@ -47,13 +47,12 @@ export function typed(
+   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
+   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
+   mkdirSync(join(root, TYPES_AT), { recursive: true })
+-  const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
++  const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
+   writeFileSync(
+     join(root, path),
+     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
+       ` properties: [${declared(declares)}] }\n`
+   )
+-  // what a page type declares is read from its value, so a world that types one files it
+   valueAlsoFiled(root, PAGE_TYPE, [
+     {
+       path,
+@@ -61,7 +60,7 @@ export function typed(
+         id: `id-${slug}`,
+         pageTypeSlug: PAGE_TYPE,
+         slug,
+-        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
++        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
+         properties: declares.map((one) => ({ pagePropertySlug: one })),
+       },
+     },
+@@ -120,7 +119,7 @@ export function carrying(
+         id: `id-${slug}`,
+         pageTypeSlug: PAGE_TYPE,
+         slug,
+-        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
++        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
+         properties: declares.map((one) => ({ pagePropertySlug: one })),
+       },
+     },
