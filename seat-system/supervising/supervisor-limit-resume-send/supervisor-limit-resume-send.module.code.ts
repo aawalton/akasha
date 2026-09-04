@@ -48,7 +48,6 @@ export async function sendMessage(input: {
       `the message to \`${seatName}\` was not written, so nothing is waiting: ${wrote.detail}`
     )
   }
-  return Promise.resolve()
 }
 
 export const USER_SOURCE = "user"

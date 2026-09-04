@@ -49,11 +49,11 @@ export async function writeAnnouncement(
   return wrote.id
 }
 
-export async function recordToAgent(
+export function recordToAgent(
   handler: string,
   body: string,
   log: (line: string) => void,
   from: string = DEFAULT_SENDER
 ): Promise<string> {
-  return Promise.resolve(await writeAnnouncement(handler, body, log, from))
+  return writeAnnouncement(handler, body, log, from)
 }
