@@ -3,6 +3,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { namedUnder, pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Value, valueIn } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Paged, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
@@ -20,6 +21,27 @@ function theWhole(path: string): boolean {
   const said = partedIn(path)
   if (said === null || said.sections.length > 0) return false
   return said.pageType === DOMAIN && said.slug === THE_WHOLE
+}
+
+const kindsHeld = new WeakMap<Shadow, ReadonlySet<string>>()
+
+function kindsFor(shadow: Shadow): ReadonlySet<string> {
+  const held = kindsHeld.get(shadow)
+  if (held !== undefined) return held
+  const found = shadow.index.kindsUnder(DOMAIN)
+  kindsHeld.set(shadow, found)
+  return found
+}
+
+function underDomain(path: string, shadow: Shadow): boolean {
+  return namedUnder(path, kindsFor(shadow)) !== null
+}
+
+const UNDER_DOMAIN: Selector<Paged> = {
+  named: "pages under domain",
+  isInput: (path, shadow) => PAGES.isInput(path, shadow) && underDomain(path, shadow),
+  from: (change, shadow) =>
+    PAGES.from(change, shadow).filter((one) => underDomain(one.path, shadow)),
 }
 
 function partsOf(value: Value | null): readonly string[] {
@@ -67,7 +89,7 @@ function loops(shadow: Shadow, from: string): boolean {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = shadow.index.kindsUnder(DOMAIN)
+  const under = kindsFor(shadow)
   const pageTypes = shadow.index.pageTypesIn()
   const known = shadow.index.knownIn()
   const said: Judged[] = []
@@ -105,4 +127,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export const domainIsNamedByAParent = input(PAGES, refusalsIn)
+export const domainIsNamedByAParent = input(UNDER_DOMAIN, refusalsIn)
