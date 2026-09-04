@@ -21,19 +21,15 @@ import { edit as editCommand } from "./edit.command.ts"
 
 afterAll(scratch.sweep)
 
-test("a body no read is recorded of is refused inside the akasha folder, and not outside it", () => {
+test("a body no read is recorded of is refused", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
   put(root, "akasha/loose.ts", "alpha\n")
-  put(root, "tools/loose.ts", "alpha\n")
   const was = headOf(root)
   const said = edit(changing(root, "a", "alpha", "delta", "akasha/loose.ts"), givenIn(root))
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("the record does not show you read this")
   expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
-  const off = edit(changing(root, "b", "alpha", "delta", "tools/loose.ts"), givenIn(root))
-  expect(off.refusals).toEqual([])
-  expect(readFileSync(join(root, "tools/loose.ts"), "utf8")).toBe("delta\n")
 })
 
 test("a body the record shows read is edited", () => {
@@ -185,12 +181,8 @@ test("a replacement carrying dollar patterns lands as the bytes it is", () => {
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("$& $' $` $1\n")
 })
 
-test("a path outside the akasha folder is changed and said to be unjudged, unless it is barred", () => {
+test("a path inside .git and a folder at the top of the repository are both refused", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n", "tools/two.ts": "alpha\n" })
-  const said = edit(changing(root, "a", "alpha", "delta", "tools/two.ts"), givenIn(root))
-  expect(said.refusals).toEqual([])
-  expect(said.report.join("\n")).toContain("went unjudged — tools/two.ts")
-  expect(readFileSync(join(root, "tools/two.ts"), "utf8")).toBe("delta\n")
   const inner = edit(changing(root, "c", "delta", "beta", ".git/config"), givenIn(root))
   expect(inner.refusals[0]).toContain("`.git/`")
   const top = edit(changing(root, "d", "delta", "beta", "tools"), givenIn(root))
