@@ -10,8 +10,6 @@ const UNREADABLE = 5
 
 const REFUSED = 2
 
-const PAGES = "akasha"
-
 const HOLD = "/var/tmp"
 
 const UNNAMED = "unnamed"
@@ -25,8 +23,8 @@ const NOTEBOOK_EDIT = "NotebookEdit"
 export const JUDGED: readonly string[] = [WRITE, EDIT, NOTEBOOK_EDIT]
 
 export const SCOPE: readonly string[] = [
-  "block-akasha-edits refuses Write, Edit and NotebookEdit landing inside the akasha folder or",
-  `inside \`${dataAt()}\`, and stands aside everywhere else.`,
+  "block-akasha-edits refuses Write, Edit and NotebookEdit landing anywhere inside this",
+  "checkout, and stands aside everywhere else.",
   "",
   "CLOSED over the tools it judges. Each of these three carries its target as a path in the",
   "structured tool input — `file_path`, and `notebook_path` for NotebookEdit. No shell reads it, so",
@@ -72,7 +70,7 @@ export function holdingIn(agentId: string): string {
 }
 
 export function guardedIn(root: string): Guarded {
-  return { pages: settled(join(root, PAGES)), index: settled(dataIn(root)) }
+  return { pages: settled(root), index: settled(dataIn(root)) }
 }
 
 function fieldOf(held: unknown, name: string): unknown {
@@ -104,18 +102,18 @@ export function askedIn(raw: string): Asked | null {
 function refusingPages(toolName: string, shown: string, name: string, held: string): string {
   if (toolName === NOTEBOOK_EDIT) {
     return [
-      `${HOOK_NAME}: NotebookEdit lands on \`${shown}\`, inside the akasha folder.`,
-      "There is no akasha command for a notebook, and the akasha folder holds none.",
+      `${HOOK_NAME}: NotebookEdit lands on \`${shown}\`, inside this checkout.`,
+      "There is no akasha command for a notebook, and this checkout holds none.",
     ].join("\n")
   }
-  const commands = "The akasha commands write that folder — they check the change and commit it."
+  const commands = "The akasha commands write this checkout — they check the change and commit it."
   const why = '--message "<what this change is for>"'
-  const bound = `only \`${PAGES}/\` and \`${dataAt()}\` are refused here.`
+  const bound = `nothing outside this checkout is refused here, and \`${HOLD}\` stands outside it.`
   if (toolName === EDIT) {
     const was = join(held, `${HOOK_NAME}-${name}.old`)
     const now = join(held, `${HOOK_NAME}-${name}.new`)
     return [
-      `${HOOK_NAME}: Edit lands on \`${shown}\`, inside the akasha folder.`,
+      `${HOOK_NAME}: Edit lands on \`${shown}\`, inside this checkout.`,
       commands,
       "",
       `Put the text you are replacing in ${was}, and the text replacing it in ${now}, then run:`,
@@ -127,7 +125,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
   }
   const body = join(held, `${HOOK_NAME}-${name}`)
   return [
-    `${HOOK_NAME}: Write lands on \`${shown}\`, inside the akasha folder.`,
+    `${HOOK_NAME}: Write lands on \`${shown}\`, inside this checkout.`,
     commands,
     "",
     `Put the whole new body in ${body}, then run:`,
@@ -141,7 +139,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
 function refusingIndex(toolName: string, shown: string): string {
   return [
     `${HOOK_NAME}: ${toolName} lands on \`${shown}\`, inside the akasha index.`,
-    `\`${dataAt()}\` holds the index, and is guarded as the akasha folder is.`,
+    `\`${dataAt()}\` holds the index, and is guarded as the rest of the checkout is.`,
     "The pages and the index are two halves of one store, so a hand-written index puts",
     "them out of step. Rebuild it instead:",
     "",
@@ -161,10 +159,10 @@ export function refusalFor(
   const at = settled(resolve(from, asked.filePath))
   const here = settled(root)
   const guarded = guardedIn(here)
+  if (insideOf(guarded.index, at)) return refusingIndex(asked.toolName, shownIn(here, at))
   if (insideOf(guarded.pages, at)) {
     return refusingPages(asked.toolName, shownIn(here, at), basename(at), held)
   }
-  if (insideOf(guarded.index, at)) return refusingIndex(asked.toolName, shownIn(here, at))
   return null
 }
 
