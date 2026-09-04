@@ -4,7 +4,7 @@ export const repointingRunSupervisorToAPackageSpecifierCutItsWatchedFileSetFrom4
   id: "01a0698b-7ad6-7001-9489-1649ad9661ac",
   pageTypeSlug: "finding",
   slug: "repointing-run-supervisor-to-a-package-specifier-cut-its-watched-file-set-from-42-to-2",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "A supervisor re-execs itself when the digest over its file set changes, and `importGraph` builds that set by following relative `from` specifiers only. `tools/run-supervisor.ts` reached 42 files through a single relative import, `./lib/session-watch.ts`, which reached akasha by `../../akasha/...` paths; its four sibling imports were already package specifiers and contributed nothing. Carrying `session-watch` into `@akasha/seat-system` and repointing that one line cut the watched set to 2. Nothing warns: the digest still computes, still holds steady and still delivers, over almost nothing. This is the last relative doorway closing rather than a new defect, so every remaining flat carriage into a package specifier narrows it no further — but a supervisor now no longer restarts when the seat code it runs changes.",
   evidence:
