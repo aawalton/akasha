@@ -7,7 +7,7 @@ export const agents = {
   definition: "an agent and what puts its work to a model",
   manifest: "json",
   partSlugs: [
-    "domain/agent-harness",
+    "domain/claude-code",
     "domain/model",
     "module/patch-keeping",
     "page-type/agent",

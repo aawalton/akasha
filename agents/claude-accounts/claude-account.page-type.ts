@@ -39,6 +39,8 @@ export const claudeAccount = {
     "instant-property/terminal-alerted-at",
     "instant-property/terminal-at",
     "instant-property/usage-read-at",
+    "module/account-upkeep-running",
+    "module/account-upkeep-stall-reading",
     "module/claude-account-credential-file",
     "module/claude-account-credential-push",
     "module/claude-account-health",
