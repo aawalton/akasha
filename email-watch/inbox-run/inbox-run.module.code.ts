@@ -50,10 +50,10 @@ function record(entry: Record<string, unknown>): undefined {
 
 function addressOfPerson(slug: string, root: string): string {
   const person = personOr(root, slug)
-  if (person.emailAddress === null) {
+  if (person.email === null) {
     throw new Error(`${slug} carries no email address on ${person.path}`)
   }
-  return person.emailAddress
+  return person.email
 }
 
 export function untoldClaims(): readonly Claim[] {

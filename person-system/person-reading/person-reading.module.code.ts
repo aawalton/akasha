@@ -10,7 +10,7 @@ export interface Person {
   readonly definition: string | null
   readonly answeredBy: string | null
   readonly phone: string | null
-  readonly emailAddress: string | null
+  readonly email: string | null
   readonly supabaseAuthUserId: string | null
 }
 
@@ -43,7 +43,7 @@ function personFrom(root: string, standing: Listed): Person {
     definition: textAt(value, "definition"),
     answeredBy: textAt(value, "answeredBy"),
     phone: textAt(value, "phone"),
-    emailAddress: textAt(value, "emailAddress"),
+    email: textAt(value, "email"),
     supabaseAuthUserId: textAt(value, "supabaseAuthUserId"),
   }
 }

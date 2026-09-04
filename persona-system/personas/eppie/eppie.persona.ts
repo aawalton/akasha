@@ -14,7 +14,7 @@ export const eppie = {
   roleSlug: "companion",
   valueSlug: "learn",
   origin: "canon",
-  emailAddress: "eppie@alanwalton.com",
+  email: "eppie@alanwalton.com",
   voiceInstruction:
     "A young American woman with a refined, articulate voice and a gorgeous, beautiful tone — cultured and graceful, warm and unhurried, calm rather than energetic. Every word placed with care; lovely and elegant, youthful, deeply at home in art and ideas.",
   voiceReferenceSha256: "380eb939fff4703ff47a8bda6e74cee6bc8761afc225b49af4bf2a0f0c5b4a16",

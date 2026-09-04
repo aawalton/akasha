@@ -13,7 +13,7 @@ export const sophia = {
   roleSlug: "persona-craft",
   valueSlug: "love",
   origin: "invented",
-  emailAddress: "sophia@alanwalton.com",
+  email: "sophia@alanwalton.com",
   voiceInstruction:
     "A young woman's voice, clear and luminous and startlingly youthful, yet unhurried and still; warm and knowing, a little grave under the warmth, with an ancient calm beneath the youth. She speaks softly and deliberately, then waits.",
   voiceReferenceSha256: "462531da6fa9e1e80714d0019a593854cbe673a38094f578ba0ca79ff65126f5",

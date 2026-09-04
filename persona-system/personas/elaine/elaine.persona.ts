@@ -14,7 +14,7 @@ export const elaine = {
   roleSlug: "coach",
   valueSlug: "health",
   origin: "canon",
-  emailAddress: "elaine@alanwalton.com",
+  email: "elaine@alanwalton.com",
   voiceInstruction:
     "A warm American woman with a deep, low, chesty alto voice — rich and full and grounded, distinctly low-pitched, never high, never girlish — yet bright and sunny and bouncy in spirit, talking quick and lively with dawn-morning energy and a playful, dry-witted grin you can hear. Low and warm in tone but light and upbeat in mood; never shrill, never flat.",
   voiceReferenceSha256: "a7e6ccfb52fa33bfcc74daf012a37f2546a7bc630bc0ea162124729dca10f296",

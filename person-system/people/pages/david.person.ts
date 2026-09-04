@@ -7,5 +7,5 @@ export const david = {
   definition: "David Eggertsen, Alan's friend since childhood",
   answeredBy: "amy",
   phone: "+14355720344",
-  emailAddress: "deggertsen@gmail.com",
+  email: "deggertsen@gmail.com",
 } as const satisfies Person

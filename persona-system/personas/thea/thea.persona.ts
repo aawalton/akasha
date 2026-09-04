@@ -13,7 +13,7 @@ export const thea = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "greek",
-  emailAddress: "thea@alanwalton.com",
+  email: "thea@alanwalton.com",
   voiceInstruction:
     "A woman's voice in a warm medium-LOW register, sun-warmed and unhurried, with an audible smile; fond and open-air, easy morning warmth; she speaks with settled calm and lets her words land, never breathy, never squeaky.",
   voiceReferenceSha256: "f5d12fa73bd7c06dd5739c55a4f045d0d1e579360d5e4ca38ab79e83aac36b70",

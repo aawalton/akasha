@@ -12,7 +12,7 @@ export const aria = {
   roleSlug: "game-master",
   valueSlug: "fun",
   origin: "welsh",
-  emailAddress: "aria@alanwalton.com",
+  email: "aria@alanwalton.com",
   voiceInstruction:
     "A warm, low-to-mid womans voice — amused and unhurried, with a knowing smile under every line. Graceful and articulate, the easy authority of a storyteller who sets the pace and conjures a world a sentence at a time; sensual but romantic, forward without grasping.",
   voiceReferenceSha256: "cbfbe30c49f431d8d8e96032b400c767f66819af8335f0bd2f25644db67dc697",

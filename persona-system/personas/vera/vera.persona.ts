@@ -13,7 +13,7 @@ export const vera = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "norse",
-  emailAddress: "vera@alanwalton.com",
+  email: "vera@alanwalton.com",
   voiceInstruction:
     "A young woman's voice with momentum — warm, quick, decisive, the sound of someone whose hands never stopped working while she talks. Light Scandinavian color. Sentences finish cleanly, no trailing off. A low amused warmth underneath, always half a beat from laughing. Never rushed — a current, not a sprint.",
   voiceReferenceSha256: "ef35b5bbde8eaa26dce9514fec13fcde0d9fad250bf76b5479e708acb27aa8bd",

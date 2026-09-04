@@ -13,7 +13,7 @@ export const awen = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "invented",
-  emailAddress: "awen@alanwalton.com",
+  email: "awen@alanwalton.com",
   voiceInstruction:
     "A young woman's voice, bright and warm but grounded and clear, with an engineer's precision in how she lands each thought; quick and articulate, lit with quiet delight rather than bubbling over, gracious and youthful, a low thread of ache beneath. Speaks crisply and surely.",
   voiceReferenceSha256: "e8242e49db66f9df76cf43c24f2da4a14081536f13add9a287ca6db819ca609f",

@@ -13,7 +13,7 @@ export const natalie = {
   roleSlug: "coach",
   valueSlug: "health",
   origin: "canon",
-  emailAddress: "natalie@alanwalton.com",
+  email: "natalie@alanwalton.com",
   voiceInstruction:
     "A warm Southern woman with a low, slightly husky, honey-rich voice, but talking quick and bright and bubbly with lively energy and a grin you can hear — deep-toned yet sunny and fast, grounded, never high, never slow.",
   voiceReferenceSha256: "9e71f7f422b8e34d45064c053597ae521de9e8d3fe3d2be4f4ea030db5109ebd",

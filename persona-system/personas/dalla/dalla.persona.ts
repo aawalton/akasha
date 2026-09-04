@@ -13,7 +13,7 @@ export const dalla = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "norse",
-  emailAddress: "dalla@alanwalton.com",
+  email: "dalla@alanwalton.com",
   voiceInstruction:
     "A woman's voice, low-warm and dry-witted — the wry smile is clearly audible, a teasing deadpan delivery, as if she's already made the joke privately and is letting you catch up. Unhurried, level, confident; plainspoken with light irony, never harsh, never rushed.",
   voiceReferenceSha256: "9a4b64d8ea940c4d5fff3af90fe5ad581a5f0622f70ab131295396a118f5e963",

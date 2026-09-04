@@ -22,7 +22,7 @@ export type Persona = Domain & {
   roleSlug?: RoleSlug
   valueSlug?: ValueSlug
   origin?: Origin
-  emailAddress?: EmailAddress
+  email?: EmailAddress
   phone?: Phone
   championedDomainSlug?: ChampionedDomainSlug
   greenDayPoints?: GreenDayPoints

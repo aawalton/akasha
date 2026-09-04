@@ -54,7 +54,7 @@ export const personasCovers = {
     "default-model",
     "detail-config",
     "earning-narrative",
-    "email-address",
+    "email",
     "family",
     "favorited-at",
     "glance",

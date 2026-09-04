@@ -45,7 +45,7 @@ export const personasNotEmpty = {
     "detail-config",
     "championed-domain-slug",
     "earning-narrative",
-    "email-address",
+    "email",
     "family",
     "favorited-at",
     "glance",

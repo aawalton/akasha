@@ -19,7 +19,7 @@ export interface Persona {
   readonly roleSlug: string | null
   readonly valueSlug: string | null
   readonly origin: string | null
-  readonly emailAddress: string | null
+  readonly email: string | null
   readonly championedDomainSlug: string | null
   readonly greenDayPoints: number | null
   readonly history: string | null
@@ -70,7 +70,7 @@ function personaFrom(root: string, standing: Listed): Persona {
     roleSlug: textAt(value, "roleSlug"),
     valueSlug: textAt(value, "valueSlug"),
     origin: textAt(value, "origin"),
-    emailAddress: textAt(value, "emailAddress"),
+    email: textAt(value, "email"),
     championedDomainSlug: textAt(value, "championedDomainSlug"),
     greenDayPoints: numberAt(value, "greenDayPoints"),
     history: textAt(value, "history"),

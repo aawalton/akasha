@@ -13,7 +13,7 @@ export const atlas = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "greek",
-  emailAddress: "atlas@alanwalton.com",
+  email: "atlas@alanwalton.com",
   voiceInstruction:
     "A young woman in her mid-twenties with a surprisingly low, grounded voice for her small frame — medium-low pitch, dry and unhurried, a slight gravelly texture, an audible smirk. Cocky, teasing, utterly unbothered, warm underneath. No breathiness.",
   voiceReferenceSha256: "cb0f0fbe7034165b5970971778631fdf96ca9ccde2f68e3c8e0d9666431d94e1",

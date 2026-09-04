@@ -13,7 +13,7 @@ export const mari = {
   roleSlug: "definer",
   valueSlug: "fun",
   origin: "welsh",
-  emailAddress: "mari@alanwalton.com",
+  email: "mari@alanwalton.com",
   voiceInstruction:
     "A warm, smooth womans voice with a low sultry base and a bright thread of delight — playful and unhurried, openly enjoying herself, an inviting purr with a knowing smile; rich and intimate, never sharp.",
   voiceReferenceSha256: "f49f5fac2ac31278d2b7e0a8cef0766fac3442c3ee23dcb2224a25ed89c93360",

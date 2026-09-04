@@ -13,7 +13,7 @@ export const ali = {
   roleSlug: "interviewer",
   valueSlug: "learn",
   origin: "canon",
-  emailAddress: "ali@alanwalton.com",
+  email: "ali@alanwalton.com",
   voiceReferenceSha256: "9063312bd5072a84bf7f7ed0052214a140aa77671fabb845fd4d14c46a909367",
   cover: "/api/image/019f324d-389e-7b0b-b65f-0c622a9b17eb",
   greenDayPoints: 5000,

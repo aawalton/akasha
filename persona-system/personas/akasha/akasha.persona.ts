@@ -10,7 +10,7 @@ export const akasha = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "sanskrit",
-  emailAddress: "akasha@alanwalton.com",
+  email: "akasha@alanwalton.com",
   voiceInstruction:
     "A young woman's voice, low and spacious and unhurried, with air around every word; quiet and carrying rather than loud, warm without brightness, settled like someone who has been listening far longer than she has been speaking. She says a thing, and then says it again more plainly.",
   history:

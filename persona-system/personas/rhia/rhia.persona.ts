@@ -13,7 +13,7 @@ export const rhia = {
   roleSlug: "definer",
   valueSlug: "learn",
   origin: "welsh",
-  emailAddress: "rhia@alanwalton.com",
+  email: "rhia@alanwalton.com",
   voiceInstruction:
     "A young Welsh woman, low-pitched and quiet, unhurried and precise — a chronicler's careful diction, every word deliberately placed. A soft Welsh lilt with a faint constant musicality under the speech, as if she is almost singing without knowing it. Warm but measured; reading aloud to one person in a silent candlelit library.",
   voiceReferenceSha256: "9a59053c31595fd9185a755b59e35d76784be9ea285114de1f3c46fea1909ab9",

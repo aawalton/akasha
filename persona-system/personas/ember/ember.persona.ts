@@ -14,7 +14,7 @@ export const ember = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "greek",
-  emailAddress: "ember@alanwalton.com",
+  email: "ember@alanwalton.com",
   voiceInstruction:
     "A playful kittenish young woman's voice, light and bright with a mischievous meow-like lilt, trilling and curling her words, quick teasing rhythm that melts into an audible purr at phrase ends, sweet with a smoky edge.",
   voiceReferenceSha256: "448cf40b21944488c89ad6b017d013d0bd0ddc62e313c73065ea7790a7d7aac2",

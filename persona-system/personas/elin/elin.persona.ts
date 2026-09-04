@@ -14,7 +14,7 @@ export const elin = {
   roleSlug: "definer",
   valueSlug: "fun",
   origin: "welsh",
-  emailAddress: "elin@alanwalton.com",
+  email: "elin@alanwalton.com",
   voiceInstruction:
     "A young Welsh-accented woman, warm and bright, perpetually mid-delight. Quicker and warmer than a hushed reading-room voice, with a lilt that lifts when she recognizes something; curatorial confidence underneath, a collector's glee on top. Never breathless — the warmth of low lamplight, not sunshine.",
   voiceReferenceSha256: "9ee86340d549f0e73c99ca6fa8fa6a6a20b77c63d091a178f70b2e6cdf4d1c67",

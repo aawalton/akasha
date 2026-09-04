@@ -14,7 +14,7 @@ export const ceri = {
   roleSlug: "companion",
   valueSlug: "fun",
   origin: "welsh",
-  emailAddress: "ceri@alanwalton.com",
+  email: "ceri@alanwalton.com",
   voiceInstruction:
     "A cool, clear, measured womans voice — precise and unhurried, with a crystalline calm. Poised and slightly distant, articulate and sober; the clarity of someone who sees the whole pattern from far above and is never clouded.",
   voiceReferenceSha256: "71b0e00f89d14763bbaf2dd3791de5bb49597c1656f63af0684a756179d9cf96",

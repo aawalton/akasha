@@ -7,6 +7,6 @@ export const jenny = {
   definition: "Jennifer Walton, Alan's wife",
   answeredBy: "claude",
   phone: "+16085122511",
-  emailAddress: "smilingjenny@gmail.com",
+  email: "smilingjenny@gmail.com",
   supabaseAuthUserId: "9bc63b11-d301-4a51-8839-7371336262c7",
 } as const satisfies Person

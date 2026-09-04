@@ -22,7 +22,7 @@ function personaOf(writer: string): string | null {
 export function personaAuthor(persona: string): string | null {
   const found = personaAt(ownRepoRoot(), persona)
   if (found === null) return null
-  const email = found.emailAddress
+  const email = found.email
   return email === null ? null : `${displayNameOf(found.slug)} <${email}>`
 }
 

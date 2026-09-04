@@ -5,6 +5,6 @@ export const aawalton = {
   pageTypeSlug: "gmail-mailbox",
   slug: "aawalton",
   title: "aawalton",
-  emailAddress: "aawalton@gmail.com",
+  email: "aawalton@gmail.com",
   processedMessages: "jsonl",
 } as const satisfies GmailMailbox

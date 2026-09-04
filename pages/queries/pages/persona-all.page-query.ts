@@ -14,7 +14,7 @@ export const personaAll = {
     "value-slug",
     "green-day-points",
     "last-messaged-at",
-    "email-address",
+    "email",
     "voice-reference-sha256",
   ],
 } as const satisfies PageQuery

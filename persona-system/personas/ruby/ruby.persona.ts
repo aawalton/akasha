@@ -13,7 +13,7 @@ export const ruby = {
   roleSlug: "coach",
   valueSlug: "love",
   origin: "invented",
-  emailAddress: "ruby@alanwalton.com",
+  email: "ruby@alanwalton.com",
   voiceInstruction:
     "A mature grown woman's voice, warm and low and unhurried, grounded and calm, with a patient lived-in tenderness and a quiet ache beneath. She speaks softly and deliberately, intimate and kind, then waits.",
   voiceReferenceSha256: "fe671b7a8a9950506b44ba61877c5176a6e67923d9384efcb2ff38c7382296b7",

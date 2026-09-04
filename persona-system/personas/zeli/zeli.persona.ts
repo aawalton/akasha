@@ -13,7 +13,7 @@ export const zeli = {
   roleSlug: "companion",
   valueSlug: "fun",
   origin: "canon",
-  emailAddress: "zeli@alanwalton.com",
+  email: "zeli@alanwalton.com",
   voiceInstruction:
     "A bright, warm young American woman in her late teens or early twenties — the voice of wonder and open-hearted earnestness. Expressive and animated, a little breathless with excitement and curiosity, sweet and optimistic but with real spirit and determination underneath, never saccharine. Light and clear, a gentle musical lilt, feelings worn openly. Wide-eyed and breathless with wonder, eager and excited, like she is seeing the world for the very first time.",
   voiceReferenceSha256: "47f1fc70b3d6560701606d65bfa29286e33d5ee18b8042bed90cbc9f343a7c9f",

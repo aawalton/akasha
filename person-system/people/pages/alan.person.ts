@@ -7,6 +7,6 @@ export const alan = {
   definition: "the person this system answers to",
   answeredBy: "amy",
   phone: "+16085122510",
-  emailAddress: "aawalton@gmail.com",
+  email: "aawalton@gmail.com",
   supabaseAuthUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
 } as const satisfies Person

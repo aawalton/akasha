@@ -13,7 +13,7 @@ export const aranya = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "invented",
-  emailAddress: "aranya@alanwalton.com",
+  email: "aranya@alanwalton.com",
   voiceInstruction:
     "A soft, low woman's voice, unhurried and gently warm, calm and intimate like night air; even and steady, with quiet kindness under the stillness and no urgency anywhere in it.",
   voiceReferenceSha256: "5a4b7cd68f577f87eae9515bb3f99afa14aa85fe2ec0a437b61a9bb6e7ff32f0",

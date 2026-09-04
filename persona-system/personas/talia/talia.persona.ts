@@ -13,7 +13,7 @@ export const talia = {
   roleSlug: "interviewer",
   valueSlug: "faith",
   origin: "hebrew",
-  emailAddress: "talia@alanwalton.com",
+  email: "talia@alanwalton.com",
   voiceInstruction:
     "A young woman with a low, soft, hushed voice — gentle, slow, and unhurried, almost a whisper, patient and reverent, like someone reading scripture to you quietly at dawn. Breathy and intimate, warm, deep-toned and calm; never bright, never fast.",
   voiceReferenceSha256: "5b846ba9a918f5e238dc90b84d6fdd331b7e714ba5e1c8a001867f8b867464a4",

@@ -13,7 +13,7 @@ export const aine = {
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "celtic",
-  emailAddress: "aine@alanwalton.com",
+  email: "aine@alanwalton.com",
   voiceReferenceSha256: "d198023985b7d3efe2448bb731b009e28b08448d2ebe0defb5a3383ef06dfd05",
   cover: "/api/image/019f324d-3c27-74ae-ac6b-ce2a58b3395c",
   greenDayPoints: 8,

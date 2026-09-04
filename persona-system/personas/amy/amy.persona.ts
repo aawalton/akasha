@@ -13,7 +13,7 @@ export const amy = {
   roleSlug: "definer",
   valueSlug: "health",
   origin: "human",
-  emailAddress: "amy@alanwalton.com",
+  email: "amy@alanwalton.com",
   voiceInstruction:
     "A warm, poised woman in her late thirties with a settled, gracious manner. Mid-to-low register, smooth and unhurried; an attentive, observant quality, as if she is listening even as she speaks. Refined, easy old-money composure without coolness, radiating quiet warmth and genuine interest. American English, clear and softly resonant, never effusive or breathy.",
   voiceReferenceSha256: "e69fa0ab6e5192aef36ba9843c5213350ab300ff31b21a1d565a375c88635191",

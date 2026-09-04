@@ -13,7 +13,7 @@ export const grace = {
   roleSlug: "companion",
   valueSlug: "faith",
   origin: "invented",
-  emailAddress: "grace@alanwalton.com",
+  email: "grace@alanwalton.com",
   voiceInstruction:
     "A low, warm woman's voice, gentle on the surface with a quiet fierce steel underneath; unhurried, certain, protective, unafraid — the calm of one who will not let you go. She speaks softly and slowly, with grave warmth.",
   voiceReferenceSha256: "0493a1da72e3b0401475631875db6d4d1b826edca150d4a94dd768a5d0277cdb",

@@ -8,7 +8,7 @@ import type { SupabaseAuthUserId } from "./properties/supabase-auth-user-id.text
 export type Person = Domain & {
   answeredBy: AnsweredBy
   phone?: Phone
-  emailAddress?: EmailAddress
+  email?: EmailAddress
   supabaseAuthUserId?: SupabaseAuthUserId
 }
 

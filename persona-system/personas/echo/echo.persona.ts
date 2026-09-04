@@ -13,7 +13,7 @@ export const echo = {
   roleSlug: "definer",
   valueSlug: "fun",
   origin: "greek",
-  emailAddress: "echo@alanwalton.com",
+  email: "echo@alanwalton.com",
   voiceInstruction:
     "A young woman in her mid-twenties with a warm low-mid voice — a professional audiobook narrator's control, unhurried and close-mic intimate, with a faint audible smile. Clear, unrushed articulation that gives every word a shape. Calm stillness around the sound, like a quiet room at night. Listening warmth, not breathy, not perky.",
   voiceReferenceSha256: "5c86f628e8e3dd923fbaa2f327cdf618c762b128f94d32975b2b9c25d5387c5c",

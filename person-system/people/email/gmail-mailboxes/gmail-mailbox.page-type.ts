@@ -6,7 +6,7 @@ import type { ProcessedMessages } from "./properties/processed-messages.page-pro
 
 export type GmailMailbox = Page & {
   title: Title
-  emailAddress: EmailAddress
+  email: EmailAddress
   processedMessages?: ProcessedMessages
 }
 
