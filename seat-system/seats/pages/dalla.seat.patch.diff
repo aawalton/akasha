@@ -1,0 +1,82 @@
+diff --git a/command-system/commands/edit/edit.command.code.ts b/command-system/commands/edit/edit.command.code.ts
+index 6f24cedeea929055a72bf034fb6ebc445a11b42c..5ca295647bdc7eacd0fb0494412e7553d3e8b634 100644
+--- a/command-system/commands/edit/edit.command.code.ts
++++ b/command-system/commands/edit/edit.command.code.ts
+@@ -296,7 +296,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
+       ),
+     dryRun: false,
+     draft: true,
+-    glass: glass.glass,
++    glass: null,
+     unmoved,
+     saying: (said) => [
+       ...said.wrote.map((one) => `edited ${one}`),
+diff --git a/command-system/commands/edit/edit.command.ts b/command-system/commands/edit/edit.command.ts
+index 13bd3fbb0a52162451b9a1d376fc6295e940f849..bddd7648f2cba451355816fb66fdcf07be89585c 100644
+--- a/command-system/commands/edit/edit.command.ts
++++ b/command-system/commands/edit/edit.command.ts
+@@ -17,7 +17,7 @@ export const edit = {
+     { said: "--remove <path>", takes: "a path in the repository to take away" },
+     { said: "--message <text>", takes: "what the commit is for" },
+     { said: "--message-file <file>", takes: "a file the commit message is read from" },
+-    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
++    { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
+   ],
+   helpNotes: [
+     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
+diff --git a/command-system/commands/write/write.command.code.ts b/command-system/commands/write/write.command.code.ts
+index 4fa7ed163f7292273dfc5e11bfd24e5ef60ffba1..d7fe9171473c21b3aab5c1b65aefd31159ced49a 100644
+--- a/command-system/commands/write/write.command.code.ts
++++ b/command-system/commands/write/write.command.code.ts
+@@ -306,7 +306,6 @@ function readIn(argv: readonly string[]): Read {
+ export type Built = {
+   readonly changes: readonly FileEdit[]
+   readonly message: string
+-  readonly glass: string | null
+ }
+ 
+ export function builtIn(argv: readonly string[], given: Given, piping: Piping): Built | Answer {
+@@ -407,7 +406,6 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping):
+         "write",
+         changes.map((one) => one.path)
+       ),
+-    glass: glass.glass,
+   }
+ }
+ 
+@@ -422,7 +420,7 @@ export async function writing(
+     changes: built.changes,
+     message: built.message,
+     dryRun: false,
+-    glass: built.glass,
++    glass: null,
+     unmoved: [],
+     saying: (landed) => wroteAndTook(landed),
+     draft: true,
+diff --git a/command-system/commands/write/write.command.ts b/command-system/commands/write/write.command.ts
+index a7cf0a255b7c3499dabec50efd7e6a87e75bdea0..786839bd64aa2f35041e9f4928a95fee94e2cb0a 100644
+--- a/command-system/commands/write/write.command.ts
++++ b/command-system/commands/write/write.command.ts
+@@ -15,7 +15,7 @@ export const write = {
+     { said: "--remove <path>", takes: "a path in the repository to take away" },
+     { said: "--message <text>", takes: "what the commit is for" },
+     { said: "--message-file <file>", takes: "a file the commit message is read from" },
+-    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
++    { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
+   ],
+   helpNotes: [
+     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
+@@ -90,12 +90,7 @@ export const write = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "`--break-the-glass` passes the warrants as `--break-the-glass` passes the checks.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The reason the glass was broken stands in the commit.",
++      statement: "`--break-the-glass` passes the warrants and leaves every check to the apply.",
+     },
+     {
+       invariantKind: "departure",
