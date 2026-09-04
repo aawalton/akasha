@@ -1,5 +1,8 @@
+import { basename } from "node:path"
 import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { partedIn, sectionedIn } from "@akasha/pages-system/page-file-name"
+import type { Value } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   FILES,
@@ -29,6 +32,12 @@ const TEXT = "txt"
 
 const WHOLE_PROSE = "prose"
 
+const NAMED_FILE_PROPERTY = "named-file-property"
+
+const RUNS = "runsFileLength"
+
+const FILE_NAME = "fileName"
+
 const TEST_RELIEF =
   "a module carries one test, and what sets it up stands beside it in `test-fixtures`"
 
@@ -37,6 +46,32 @@ const MARKUP_RELIEF =
 
 const PROSE_RELIEF =
   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
+
+const EXEMPT = new WeakMap<Shadow, ReadonlySet<string>>()
+
+export function exemptNamesFrom(values: Iterable<Value | null>): ReadonlySet<string> {
+  const made = new Set<string>()
+  for (const value of values) {
+    if (value === null || value[RUNS] !== false) continue
+    const named = value[FILE_NAME]
+    if (typeof named === "string" && named !== "") made.add(named)
+  }
+  return made
+}
+
+function exemptNamesIn(shadow: Shadow): ReadonlySet<string> {
+  const found = EXEMPT.get(shadow)
+  if (found !== undefined) return found
+  const made = exemptNamesFrom(
+    shadow.index.everyOfType(NAMED_FILE_PROPERTY).map((listed) => shadow.pageOf(listed.path))
+  )
+  EXEMPT.set(shadow, made)
+  return made
+}
+
+function exemptIn(given: Body, shadow: Shadow): boolean {
+  return exemptNamesIn(shadow).has(basename(given.path))
+}
 
 function ceilingFor(path: string): number {
   const said = partedIn(path)
@@ -69,4 +104,6 @@ export function reasonsIn(given: Body): readonly string[] {
   return relief === null ? [said] : [`${said} — ${relief}`]
 }
 
-export const fileLength = judgingEach(FILES, reasonsIn)
+export const fileLength = judgingEach(FILES, (given, shadow) =>
+  exemptIn(given, shadow) ? [] : reasonsIn(given)
+)

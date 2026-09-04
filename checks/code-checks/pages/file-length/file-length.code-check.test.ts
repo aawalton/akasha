@@ -3,6 +3,7 @@ import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { bodiesIn } from "@akasha/testing-system/bodying"
 import {
   CEILING,
+  exemptNamesFrom,
   MARKUP_CEILING,
   PROSE_CEILING,
   reasonsIn,
@@ -187,4 +188,17 @@ test("prose under another property keeps the narrower ceiling, so the wider one 
 test("the widest prose ceiling is wider than markup and narrower than an entry file", () => {
   expect(WHOLE_PROSE_CEILING).toBeGreaterThan(PROSE_CEILING)
   expect(WHOLE_PROSE_CEILING).toBeLessThan(ENTRY_CEILING)
+})
+
+test("a property saying false exempts every file it holds, named by that property", () => {
+  const held = exemptNamesFrom([{ runsFileLength: false, fileName: "bun.lock" }])
+  expect([...held]).toEqual(["bun.lock"])
+})
+
+test("a property saying nothing is judged, so it exempts no file", () => {
+  expect([...exemptNamesFrom([{ fileName: "bun.lock" }])]).toEqual([])
+})
+
+test("a property saying true is judged, so it exempts no file", () => {
+  expect([...exemptNamesFrom([{ runsFileLength: true, fileName: "bun.lock" }])]).toEqual([])
 })
