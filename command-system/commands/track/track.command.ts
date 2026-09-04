@@ -6,6 +6,7 @@ export const track = {
   slug: "track",
   definition: "the command acting on the sessions one of Alan's days is made of",
   code: "ts",
+  test: "ts",
   changeKindSlug: "change-mechanical",
   partSlugs: ["module/session-leveling", "module/session-rows", "module/waking"],
   taking: [
