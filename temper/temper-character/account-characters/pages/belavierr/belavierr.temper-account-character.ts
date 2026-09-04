@@ -5,9 +5,9 @@ export const belavierr = {
   pageTypeSlug: "temper-account-character",
   slug: "belavierr",
   title: "Belavierr",
-  firstName: "Belavierr",
-  esoCharacterId: "8796093063486895",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 18,
   completion: "json",
+  esoCharacterId: "8796093063486895",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Belavierr",
 } as const satisfies TemperAccountCharacter
