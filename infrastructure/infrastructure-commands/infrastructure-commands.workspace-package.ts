@@ -16,6 +16,7 @@ export const infrastructureCommands = {
     "command/talos-kubeconfig",
     "command/talos-remote-install",
     "command/talos-secrets-gen",
+    "command/tests-triage-fanout",
   ],
   invariants: [
     {
