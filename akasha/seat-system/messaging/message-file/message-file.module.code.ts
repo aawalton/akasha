@@ -263,14 +263,6 @@ export function everyRecipient(): readonly string[] {
   return [...held].sort()
 }
 
-export function messagesFrom(from: string): readonly Message[] {
-  const held: Message[] = []
-  for (const to of everyRecipient()) {
-    for (const one of messagesTo(to)) if (one.from === from) held.push(one)
-  }
-  return held
-}
-
 export function claimedBefore(to: string, beforeMs: number): readonly Message[] {
   return messagesTo(to).filter((one) => one.claimedAtMs !== null && one.claimedAtMs < beforeMs)
 }
