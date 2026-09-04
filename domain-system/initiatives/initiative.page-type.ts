@@ -33,7 +33,7 @@ export const initiative = {
   extendsSlug: "page-type/page",
   properties: [
     { pagePropertySlug: "domain-slug", required: true, many: false },
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "initiative-persona-slug", required: true, many: false },
     { pagePropertySlug: "parent-slug", required: false, many: false },
     { pagePropertySlug: "intents", required: false, many: true, max: null },
     { pagePropertySlug: "constraints", required: false, many: true, max: 30 },
