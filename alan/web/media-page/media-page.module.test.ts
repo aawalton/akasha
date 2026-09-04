@@ -29,6 +29,9 @@ mock.module("@akasha/pages-system-service/calling", () => ({
     return { rows: wanted == null ? rows : rows.filter((one) => one.slug === wanted) }
   },
   originOf: () => "http://stub",
+  shapeFor: async (pageTypeSlug: string) => ({
+    refused: `the media page test stands in for no shape, and \`${pageTypeSlug}\` was asked for one`,
+  }),
 }))
 
 mock.module("@akasha/supabase-rr/auth-server", () => ({
