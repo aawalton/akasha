@@ -42,9 +42,12 @@ const A_RUN =
   "A body longer than one answer holds comes back a run of lines at a time, and answers a write once the whole body has reached you."
 
 const DECIDING =
-  "NAMING DECISION — not a reading to clear, and it may mean renaming what your change writes."
+  "NAMING DECISION — reading the term's page clears this, and it may mean renaming what your change writes."
 
-const DECIDE = "Decide what you meant, then read the page stating it to answer this:"
+const DECIDE = [
+  "Nothing here judges the sense you meant, so this read clears the gate whether you reword or not.",
+  "Read the page, decide what you meant, and reword where you meant a sense the term bars:",
+].join("\n")
 
 const PAGE_TYPE = "page-type"
 
@@ -127,18 +130,6 @@ export function fromTabooTerm(warrant: Warrant): boolean {
 }
 
 export function notReadOf(warrant: Warrant): string {
-  if (fromTabooTerm(warrant)) {
-    return [
-      DECIDING,
-      `${warrant.path} states the term.`,
-      warrant.owed,
-      DECIDE,
-      "",
-      `  ${READ_CALL} ${warrant.path}`,
-      "",
-      REACH,
-    ].join("\n")
-  }
   return [
     `${warrant.path} — the record does not show you read this.`,
     warrant.owed,
@@ -150,24 +141,18 @@ export function notReadOf(warrant: Warrant): string {
   ].join("\n")
 }
 
+function movedSaid(warrant: Warrant, held: string): string {
+  return `Your record holds ${held}, and ${warrant.oid} stands there now.`
+}
+
+function farSaid(reach: number): string {
+  return `Your record holds line ${reach} as how far this body has reached you.`
+}
+
 export function movedOf(warrant: Warrant, held: string): string {
-  const moved = `Your record holds ${held}, and ${warrant.oid} stands there now.`
-  if (fromTabooTerm(warrant)) {
-    return [
-      DECIDING,
-      `${warrant.path} states the term, and it has changed since you read it.`,
-      moved,
-      warrant.owed,
-      DECIDE,
-      "",
-      `  ${READ_CALL} ${warrant.path}`,
-      "",
-      SHORTER,
-    ].join("\n")
-  }
   return [
     `${warrant.path} — you read this, and it has changed since.`,
-    moved,
+    movedSaid(warrant, held),
     warrant.owed,
     "It is read again here:",
     "",
@@ -178,23 +163,9 @@ export function movedOf(warrant: Warrant, held: string): string {
 }
 
 export function partlyOf(warrant: Warrant, reach: number): string {
-  const far = `Your record holds line ${reach} as how far this body has reached you.`
-  if (fromTabooTerm(warrant)) {
-    return [
-      DECIDING,
-      `${warrant.path} states the term, and part of it has reached you.`,
-      far,
-      warrant.owed,
-      DECIDE,
-      "",
-      `  ${READ_CALL} ${warrant.path}`,
-      "",
-      A_RUN,
-    ].join("\n")
-  }
   return [
     `${warrant.path} — part of this reached you, and the rest has not.`,
-    far,
+    farSaid(reach),
     warrant.owed,
     "The run after it is read here:",
     "",
@@ -204,7 +175,41 @@ export function partlyOf(warrant: Warrant, reach: number): string {
   ].join("\n")
 }
 
+function tabooSaid(owing: Owing): { readonly said: readonly string[]; readonly note: string } {
+  const warrant = owing.warrant
+  const reach = reachOf(owing.reach)
+  if (reach !== null) {
+    return {
+      said: [`${warrant.path} states the term, and part of it has reached you.`, farSaid(reach)],
+      note: A_RUN,
+    }
+  }
+  if (owing.held === null) return { said: [`${warrant.path} states the term.`], note: REACH }
+  return {
+    said: [
+      `${warrant.path} states the term, and it has changed since you read it.`,
+      movedSaid(warrant, owing.held),
+    ],
+    note: SHORTER,
+  }
+}
+
+export function tabooOf(owing: Owing): string {
+  const { said, note } = tabooSaid(owing)
+  return [
+    DECIDING,
+    ...said,
+    owing.warrant.owed,
+    DECIDE,
+    "",
+    `  ${READ_CALL} ${owing.warrant.path}`,
+    "",
+    note,
+  ].join("\n")
+}
+
 export function sayingOf(owing: Owing): string {
+  if (fromTabooTerm(owing.warrant)) return tabooOf(owing)
   const reach = reachOf(owing.reach)
   if (reach !== null) return partlyOf(owing.warrant, reach)
   return owing.held === null ? notReadOf(owing.warrant) : movedOf(owing.warrant, owing.held)

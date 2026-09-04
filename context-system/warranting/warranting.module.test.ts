@@ -20,6 +20,7 @@ import {
   A,
   AGENT,
   B,
+  CLEARS,
   chainOf,
   DECIDING,
   NOT_READ,
@@ -33,6 +34,7 @@ import {
   SUB_AT,
   subaged,
   TERM_AT,
+  UNDER,
   warrantingStated,
   X,
   Y,
@@ -41,8 +43,6 @@ import {
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-const UNDER = `${AGENT}${SUBAGENT_MARK}suba`
 
 function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string {
   const root = scratch.rootFor("akasha-warranting-")
@@ -407,11 +407,12 @@ test("a warrant owed of a taboo term is said before every warrant that is not", 
   ])
 })
 
-test("what is said of a taboo term names it rather than a reading to clear", () => {
+test("what is said of a taboo term names the read that clears it", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [TERM_AT] }) }])
   const said = unreadIn(root, AGENT, [A])[0]
   expect(said?.split("\n")[1]).toBe(`${TERM_AT} states the term.`)
   expect(said).not.toContain(NOT_READ)
+  expect(said).toContain(CLEARS)
   expect(said).toContain(`akasha read --file-path ${TERM_AT}`)
   readAt(root, AGENT, TERM_AT, "gone")
   const moved = unreadIn(root, AGENT, [A])[0]

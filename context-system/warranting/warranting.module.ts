@@ -121,8 +121,12 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
+      statement: "What is said of a taboo term asks the writer for a decision about the change.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "What is said of a taboo term names a decision about the change rather than a reading to clear.",
+        "What is said of a taboo term names reading that term's page as what clears the warrant.",
     },
     {
       invariantKind: "departure",

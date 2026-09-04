@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { recordRead } from "@akasha/command-system/reading"
+import { recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { dataAt } from "@akasha/file-system/data-place"
@@ -80,6 +80,8 @@ export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 export const OTHER = "01a04ee0-3078-7000-9069-000000000000"
 
+export const UNDER = `${AGENT}${SUBAGENT_MARK}suba`
+
 export const PATH = "akasha/thing/thing.module.ts"
 
 export const A = "akasha/one/a.ts"
@@ -93,7 +95,10 @@ export const Y = "akasha/one/y.ts"
 export const TERM_AT = "akasha/one/word.taboo-term.ts"
 
 export const DECIDING =
-  "NAMING DECISION — not a reading to clear, and it may mean renaming what your change writes."
+  "NAMING DECISION — reading the term's page clears this, and it may mean renaming what your change writes."
+
+export const CLEARS =
+  "Nothing here judges the sense you meant, so this read clears the gate whether you reword or not."
 
 export const NOT_READ = " — the record does not show you read this."
 
