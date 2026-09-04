@@ -25,7 +25,6 @@ export const initiative = {
     "relation-property/initiative-persona-slug",
     "relation-property/initiative-slug",
     "relation-property/parent-slug",
-    "relation-property/persona-slug",
     "text-property/constraints",
     "text-property/intent-statement",
     "text-property/working-memory",
