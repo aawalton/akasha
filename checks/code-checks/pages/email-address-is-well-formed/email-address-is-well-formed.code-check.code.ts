@@ -14,6 +14,8 @@ const AT = "@"
 
 const LONGEST = 254
 
+const WHITESPACE = /\s/
+
 const DIVIDES = `the \`${AT}\` divides the mailbox from the domain it stands at`
 
 export type Keyed = {
@@ -30,6 +32,9 @@ export function whyRefused(propertySlug: string, said: string): string | null {
       `${states} an address of ${said.length} characters, and an address reaching ` +
       `${LONGEST} characters is the longest there is`
     )
+  }
+  if (WHITESPACE.test(said)) {
+    return `${states} \`${said}\`, which holds whitespace, and an address holds none`
   }
   if (said !== said.toLowerCase()) {
     return `${states} \`${said}\`, and an address is written in lowercase`
