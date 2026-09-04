@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { rmSync } from "node:fs"
+import { join } from "node:path"
 import { patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
@@ -12,6 +14,8 @@ const THEIRS = "akasha/seat-system/subagents/pages/tester-a1.subagent.ts"
 const ONE = "akasha/one.page.ts"
 const TWO = "akasha/two.page.ts"
 const TEN = "a\nb\nc\nd\ne\nf\ng\nh\ni\nj\n"
+const MOVED = "akasha/moved/one.page.ts"
+const FAR = "akasha/far/one.page.ts"
 const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
 
 const scratch = scratchWorld()
@@ -25,6 +29,13 @@ function landed(root: string, bodies: Readonly<Record<string, string>>): undefin
   for (const path of paths) writing(root, path, bodies[path] ?? "")
   gitSaid(root, ["add", "--", ...paths])
   gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", ...paths])
+}
+
+function renamed(root: string, from: string, to: string, body: string): undefined {
+  rmSync(join(root, from))
+  writing(root, to, body)
+  gitSaid(root, ["add", "-A", "--", from, to])
+  gitSaid(root, [...WHO, "commit", "-q", "-m", "moved", "--", from, to])
 }
 
 function repoAt(): string {
@@ -224,6 +235,56 @@ test("a blob the patch names outlives a pruning of unreachable objects", () => {
   expect(refs(root)).not.toBe("")
   gitSaid(root, ["gc", "--prune=now", "-q"])
   expect(draftedBody(root, ONE)).toBe(body)
+})
+
+test("a path renamed under the patch is drafted at the path the rename left it at", () => {
+  const root = repoAt()
+  const body = swapped(TEN, "b", "B")
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body }])
+  renamed(root, ONE, MOVED, TEN)
+  const said = drafted(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(draftedBody(root, MOVED)).toBe(body)
+  expect(draftedBody(root, ONE)).toBeNull()
+})
+
+test("a rename that also moved the body is merged onto what the patch drafted", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  renamed(root, ONE, MOVED, swapped(TEN, "j", "J"))
+  const said = drafted(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(draftedBody(root, MOVED)).toBe(swapped(swapped(TEN, "b", "B"), "j", "J"))
+})
+
+test("a rename of a path already renamed is followed to the last path", () => {
+  const root = repoAt()
+  const body = swapped(TEN, "b", "B")
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body }])
+  renamed(root, ONE, MOVED, TEN)
+  renamed(root, MOVED, FAR, TEN)
+  const said = wouldHold(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect([...said.held.keys()]).toEqual([FAR])
+  expect(said.held.get(FAR)?.body).toBe(body)
+})
+
+test("a body at a path the rename left is resolved there", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  renamed(root, ONE, MOVED, TEN)
+  const said = resolved(root, PAGE, MOVED, swapped(TEN, "b", "R"))
+  if ("why" in said) throw new Error(said.why)
+  expect(draftedBody(root, MOVED)).toBe(swapped(TEN, "b", "R"))
+})
+
+test("a rename onto a path the patch already carries refuses the rebase", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
+  renamed(root, ONE, TWO, TEN)
+  const said = drafted(root, PAGE, [])
+  expect("why" in said ? said.why : "").toContain(TWO)
 })
 
 test("a path that is no page keeps no patch", () => {
