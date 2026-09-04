@@ -1,8 +1,17 @@
 import { readFileSync } from "node:fs"
 import { dirname, join, normalize } from "node:path"
+import type { Naming } from "@akasha/code-system/code-specifier"
+import { reachesIn, reachingOver } from "@akasha/code-system/package-manifest"
 import { AGENT_SETTINGS_PATH } from "@akasha/seat-system/supervisor-spawn-settings"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 
-const RELATIVE_IMPORT = /from\s+"(\.[^"]*)"/g
+const SPECIFIER = /from\s+"([^"]*)"/g
+
+const MANIFEST = "package.json"
+
+const WORKSPACES = "workspaces"
+
+const NAMING_NONE: Naming = new Map()
 
 const UNREADABLE = "\u0000unreadable"
 
@@ -14,9 +23,78 @@ export function readTextOrNull(path: string): string | null {
   }
 }
 
+function climbFrom(entry: string): readonly string[] {
+  const climbing: string[] = []
+  let at = dirname(normalize(entry))
+  while (!climbing.includes(at)) {
+    climbing.push(at)
+    at = dirname(at)
+  }
+  return climbing
+}
+
+export function namesWorkspaces(text: string): boolean {
+  let read: unknown
+  try {
+    read = JSON.parse(text)
+  } catch {
+    return false
+  }
+  if (read === null || typeof read !== "object") return false
+  return Array.isArray((read as Record<string, unknown>)[WORKSPACES])
+}
+
+export function repoRootOf(
+  entry: string,
+  read: (path: string) => string | null = readTextOrNull
+): string | null {
+  for (const at of climbFrom(entry)) {
+    const text = read(join(at, MANIFEST))
+    if (text !== null && namesWorkspaces(text)) return at
+  }
+  return null
+}
+
+export function workspaceNaming(
+  root: string,
+  read: (path: string) => string | null = readTextOrNull
+): Naming {
+  let dirs: readonly string[]
+  try {
+    dirs = listWorkspaceDirs(root)
+  } catch {
+    return NAMING_NONE
+  }
+  const found: ReadonlyMap<string, string>[] = []
+  for (const dir of dirs) {
+    const at = join(root, dir)
+    const text = read(join(at, MANIFEST))
+    if (text !== null) found.push(reachesIn(at, text))
+  }
+  return reachingOver(found)
+}
+
+let held: { readonly root: string; readonly said: Naming } | null = null
+
+function namingFrom(entry: string): Naming {
+  const root = repoRootOf(entry)
+  if (root === null) return NAMING_NONE
+  if (held !== null && held.root === root) return held.said
+  const said = workspaceNaming(root)
+  held = { root, said }
+  return said
+}
+
+export function landsAt(here: string, specifier: string, naming: Naming): string | null {
+  if (specifier.startsWith(".")) return normalize(join(dirname(here), specifier))
+  const named = naming.get(specifier)
+  return named === undefined ? null : normalize(named)
+}
+
 export function importGraph(
   entry: string,
-  read: (path: string) => string | null
+  read: (path: string) => string | null,
+  naming: Naming = namingFrom(entry)
 ): readonly string[] {
   const seen = new Set<string>()
   const reached: string[] = []
@@ -28,10 +106,11 @@ export function importGraph(
     const text = read(here)
     if (text === null) continue
     reached.push(here)
-    for (const found of text.matchAll(RELATIVE_IMPORT)) {
+    for (const found of text.matchAll(SPECIFIER)) {
       const specifier = found[1]
       if (specifier === undefined) continue
-      stack.push(normalize(join(dirname(here), specifier)))
+      const next = landsAt(here, specifier, naming)
+      if (next !== null) stack.push(next)
     }
   }
   return reached.sort()
@@ -41,9 +120,10 @@ export const SUPERVISOR_DATA_FILES: readonly string[] = [AGENT_SETTINGS_PATH]
 
 export function supervisorFileSet(
   entry: string,
-  read: (path: string) => string | null = readTextOrNull
+  read: (path: string) => string | null = readTextOrNull,
+  naming: Naming = namingFrom(entry)
 ): readonly string[] {
-  const reached = importGraph(entry, read)
+  const reached = importGraph(entry, read, naming)
   if (reached.length === 0) return []
   return [...reached, ...SUPERVISOR_DATA_FILES].sort()
 }

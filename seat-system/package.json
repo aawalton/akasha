@@ -255,11 +255,13 @@
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",
+    "@akasha/code-system": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-system": "workspace:*",
+    "@akasha/workspace-paths": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "zod": "^4.3.6"
   }
