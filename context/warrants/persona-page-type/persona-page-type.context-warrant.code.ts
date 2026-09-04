@@ -1,6 +1,6 @@
 import { listedAt } from "@akasha/indexes"
 import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-import type { Knowing, Warrant } from "../../warranting/warranting.module.code.ts"
+import type { Knowing, Warrant } from "../../modules/warranting/warranting.module.code.ts"
 import { filePageType } from "../file-page-type/file-page-type.context-warrant.code.ts"
 
 export const PERSONA_TYPE =
