@@ -5,9 +5,9 @@ export const rafaemaColoseuvia = {
   pageTypeSlug: "temper-account-character",
   slug: "rafaema-coloseuvia",
   title: "Rafaema Coloseuvia",
-  firstName: "Rafaema",
-  esoCharacterId: "8796093041077699",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 8,
   completion: "json",
+  esoCharacterId: "8796093041077699",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Rafaema",
 } as const satisfies TemperAccountCharacter
