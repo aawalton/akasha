@@ -11,20 +11,8 @@ export const personasNotes = {
   layout: "notes",
   viewSorts: [{ key: "title", descending: false }],
   groupSorts: [{ key: "role-slug", descending: false }],
-  visibleProperties: [
-    "level",
-    "percent-progress",
-    "total-points",
-    "last-messaged-at",
-    "value-slug",
-  ],
-  alwaysShowProperties: [
-    "level",
-    "percent-progress",
-    "total-points",
-    "last-messaged-at",
-    "value-slug",
-  ],
+  visibleProperties: ["level", "percent-progress", "last-messaged-at", "value-slug"],
+  alwaysShowProperties: ["level", "percent-progress", "last-messaged-at", "value-slug"],
   hiddenPropertiesOrder: [
     "created-at",
     "do",
