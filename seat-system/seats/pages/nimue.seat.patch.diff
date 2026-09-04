@@ -1,0 +1,26 @@
+diff --git a/agents/agent.page-type.ts b/agents/agent.page-type.ts
+index ea8a55f5b123939e1d08f452a3d9c2333c61bd30..75b75881b107b99ea1f1905cf5419134c185959c 100644
+--- a/agents/agent.page-type.ts
++++ b/agents/agent.page-type.ts
+@@ -16,7 +16,7 @@ export const agent = {
+   slug: "agent",
+   definition: "one an agent id names, working from a seat or under one",
+   pluralSlug: "agents",
+-  extendsSlug: "page-type/page",
++  extendsSlug: ["page-type/page"],
+   mortal: true,
+   partSlugs: [
+     "file-property/patch",
+diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
+index 1cba1be3070979e00f6b87f295e72cbda873775d..9a006da6c7b944d70478cce9e09042d6a1da8d93 100644
+--- a/agents/claude-accounts/claude-account.page-type.ts
++++ b/agents/claude-accounts/claude-account.page-type.ts
+@@ -56,7 +56,7 @@ export const claudeAccount = {
+   slug: "claude-account",
+   definition: "one Anthropic subscription that calls are made on",
+   pluralSlug: "claude-accounts",
+-  extendsSlug: "page-type/page",
++  extendsSlug: ["page-type/page"],
+   partSlugs: [
+     "command/claude-account-add",
+     "command/claude-account-re-enable",
