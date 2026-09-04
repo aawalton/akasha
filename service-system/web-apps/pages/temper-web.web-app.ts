@@ -5,7 +5,7 @@ export const temperWeb = {
   pageTypeSlug: "web-app",
   slug: "temper-web",
   definition: "the parts of Temper that run in a browser",
-  sourceDirectory: "akasha/temper/temper-web",
+  sourceDirectory: "temper/temper-web",
   buildCommand: "bun run build",
   clusterServiceSlugs: ["temper-web"],
   hostnames: ["tempereso.com", "www.tempereso.com"],

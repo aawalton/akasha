@@ -16,7 +16,7 @@ const EXIT_DATA = 2
 
 const HELP = `supervisor-agent-settings — print the fleet's agent settings document
 
-Prints \`akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository verbatim, as JSON on stdout, with the hooks akasha declares merged into it. This is
+Prints \`seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository verbatim, as JSON on stdout, with the hooks akasha declares merged into it. This is
 how a module elsewhere in this repository reaches that document: it is edited here and live on
 the commit, so nothing over there opens it by path.
 

@@ -31,7 +31,7 @@ const PER_SET_SURFACE = `${LIB_SETS_SRC}tooltips/veteran-breakdown.ts`
 const VETERAN_API_FILE = `${LIB_SETS_SRC}core/api-perfected-veteran-set.ts`
 
 const SELF_SOURCE =
-  "akasha/checks/cluster-checks/modules/check-lib-sets-per-piece-difficulty-boundary/check-lib-sets-per-piece-difficulty-boundary.module.code.ts"
+  "checks/cluster-checks/modules/check-lib-sets-per-piece-difficulty-boundary/check-lib-sets-per-piece-difficulty-boundary.module.code.ts"
 const SELF_TEST =
   "infra/cluster-checks/src/checks/check-lib-sets-per-piece-difficulty-boundary.unit.test.ts"
 const SELF_EXCLUDED: ReadonlySet<string> = new Set([SELF_SOURCE, SELF_TEST])

@@ -12,7 +12,7 @@ import { refused } from "../../calling/calling.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
-const SEAT_DIR = "akasha/seat-system/seats/pages/"
+const SEAT_DIR = "seat-system/seats/pages/"
 
 const SUPERVISOR = "supervisor"
 

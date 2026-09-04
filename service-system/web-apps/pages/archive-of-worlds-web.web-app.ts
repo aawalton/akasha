@@ -5,7 +5,7 @@ export const archiveOfWorldsWeb = {
   pageTypeSlug: "web-app",
   slug: "archive-of-worlds-web",
   definition: "the site published original stories are read on",
-  sourceDirectory: "akasha/archive-of-worlds/archive-of-worlds-web",
+  sourceDirectory: "archive-of-worlds/archive-of-worlds-web",
   buildCommand: "bun run build",
   clusterServiceSlugs: ["archive-of-worlds-web"],
   hostnames: ["archiveofworlds.app"],

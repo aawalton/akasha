@@ -31,7 +31,7 @@ import { notices } from "../compose-notices/compose-notices.module.code.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"
 const WAIT_NUDGE_NOTICE = "wait-resume-nudge"
-const NOTICE_OWNER = "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
+const NOTICE_OWNER = "seat-system/compose-notices/compose-notices.module.code.ts"
 
 function requireNotice(all: Readonly<Record<string, string>>, key: string): string {
   const text = all[key]

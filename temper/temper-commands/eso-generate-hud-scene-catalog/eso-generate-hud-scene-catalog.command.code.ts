@@ -20,7 +20,7 @@ const CODE_ROOT_FLAG = "--code-root"
 
 const DOC_REL = "ESOUIDocumentation.txt"
 
-const CATALOG_DIR = "akasha/temper/temper-hud-components"
+const CATALOG_DIR = "temper/temper-hud-components"
 
 // Nothing under akasha/ may exceed this, and no kind of file is exempt.
 const AKASHA_FILE_CEILING = 15000

@@ -6,7 +6,7 @@ export const opsSeatFleetRestart = {
   slug: "ops-seat-fleet-restart",
   definition: "every seat whose client started before the settings standing now, cycled onto them.",
   opsPath: "seat fleet restart",
-  opsEntryFile: "akasha/seat-system/seat-fleet-restart/seat-fleet-restart.module.code.ts",
+  opsEntryFile: "seat-system/seat-fleet-restart/seat-fleet-restart.module.code.ts",
   opsHelp: "txt",
   invariants: [
     {

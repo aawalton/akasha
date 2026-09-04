@@ -5,7 +5,7 @@ export const alanwaltonWeb = {
   pageTypeSlug: "web-app",
   slug: "alanwalton-web",
   definition: "Alan's command center on the web",
-  sourceDirectory: "akasha/alan/web",
+  sourceDirectory: "alan/web",
   buildCommand: "bun run build",
   clusterServiceSlugs: ["alanwalton-web"],
   hostnames: [

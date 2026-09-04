@@ -37,7 +37,7 @@ const SCAN_PATTERNS = ["**/*.ts", "**/*.tsx", "**/*.sh", "**/*.bash"] as const
 
 const SEAWEEDFS_DEFECT_FIXTURE: readonly ChecksumAnnotationScanFile[] = [
   {
-    path: "akasha/infrastructure/seaweedfs/seaweedfs-deployments/seaweedfs-deployments.module.code.ts",
+    path: "infrastructure/seaweedfs/seaweedfs-deployments/seaweedfs-deployments.module.code.ts",
     content: `export function s3GatewayDeploymentYaml(): string {
   return toYaml({
     spec: {
@@ -61,7 +61,7 @@ const SEAWEEDFS_DEFECT_FIXTURE: readonly ChecksumAnnotationScanFile[] = [
   },
 ]
 
-const SEAWEEDFS_FIXTURE_PACKAGE_ROOTS = ["akasha/infrastructure/seaweedfs"] as const
+const SEAWEEDFS_FIXTURE_PACKAGE_ROOTS = ["infrastructure/seaweedfs"] as const
 
 const TEMPLATE_DIR = "pages/workflow-template"
 

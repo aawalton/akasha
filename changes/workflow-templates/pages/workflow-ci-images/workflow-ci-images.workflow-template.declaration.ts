@@ -15,7 +15,7 @@ const INTERNAL_REGISTRY = "registry.registry.svc.cluster.local:5000"
 const buildImageStep = (svc: string) => ({
   ...buildkitBuild({
     name: `ci-images-build-${svc}-image`,
-    context: "akasha/infrastructure/dockerfiles",
+    context: "infrastructure/dockerfiles",
     filename: `Dockerfile.${svc}`,
     tag: (ci) => `${REGISTRY}/cluster/${svc}:${ci.inputsHash}`,
     image: PUBLIC_BUILDKIT,
@@ -39,7 +39,7 @@ export default workflow("ci-images", {
           "set -e",
           ...CI_IMAGE_SERVICES.map(
             (svc) =>
-              `bun ${ci.workspace}/akasha/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service ${svc}`
+              `bun ${ci.workspace}/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service ${svc}`
           ),
         ],
         environment: { HUSKY: "0" },

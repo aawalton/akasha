@@ -14,7 +14,7 @@ export default workflow("auth-proxy", {
     kubectlApply({
       name: "auth-proxy-apply-namespace",
       namespace: "auth-proxy",
-      files: "akasha/infrastructure/auth-proxy/generated/namespace.generated.yaml",
+      files: "infrastructure/auth-proxy/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -22,7 +22,7 @@ export default workflow("auth-proxy", {
       ...applyRbac({
         name: "auth-proxy-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/auth-proxy-rbac/auth-proxy-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/auth-proxy-rbac/auth-proxy-rbac.module.code.ts",
       }),
       dependsOn: ["auth-proxy-apply-namespace"],
     },
@@ -35,7 +35,7 @@ export default workflow("auth-proxy", {
         commands: (ci) => [
           "set -e",
 
-          `bun ${ci.workspace}/akasha/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --app auth-proxy`,
+          `bun ${ci.workspace}/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --app auth-proxy`,
         ],
         environment: { HUSKY: "0" },
         backendOptions: {
@@ -49,7 +49,7 @@ export default workflow("auth-proxy", {
       ...buildkitBuild({
         name: "auth-proxy-build",
         context: "",
-        dockerfile: "akasha/infrastructure/auth-proxy",
+        dockerfile: "infrastructure/auth-proxy",
         tag: (ci) => `${REGISTRY}/infra/auth-proxy:${ci.inputsHash}`,
         cache: false,
       }),
@@ -61,7 +61,7 @@ export default workflow("auth-proxy", {
       ...kubectlApply({
         name: "auth-proxy-apply-deployment",
         namespace: "auth-proxy",
-        files: "akasha/infrastructure/auth-proxy/generated/deployment.generated.yaml",
+        files: "infrastructure/auth-proxy/generated/deployment.generated.yaml",
         serverSide: true,
         imageSubstitution: {
           placeholder: "MUST_BE_SET_BY_DEPLOY",
@@ -75,7 +75,7 @@ export default workflow("auth-proxy", {
       ...kubectlApply({
         name: "auth-proxy-apply-service",
         namespace: "auth-proxy",
-        files: "akasha/infrastructure/auth-proxy/generated/service.generated.yaml",
+        files: "infrastructure/auth-proxy/generated/service.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["auth-proxy-apply-namespace"],

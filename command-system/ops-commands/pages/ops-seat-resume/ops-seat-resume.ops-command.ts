@@ -6,6 +6,6 @@ export const opsSeatResume = {
   slug: "ops-seat-resume",
   definition: "a seat put back on its bound session, live or stopped.",
   opsPath: "seat resume",
-  opsEntryFile: "akasha/seat-system/seat-resume/seat-resume.module.code.ts",
+  opsEntryFile: "seat-system/seat-resume/seat-resume.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

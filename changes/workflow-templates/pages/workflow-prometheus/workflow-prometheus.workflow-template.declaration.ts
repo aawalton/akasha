@@ -27,7 +27,7 @@ export default workflow("prometheus", {
       ...applyRbac({
         name: "prometheus-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/prometheus-rbac/prometheus-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/prometheus-rbac/prometheus-rbac.module.code.ts",
       }),
       dependsOn: ["prometheus-apply-namespace"],
     },
@@ -44,7 +44,7 @@ export default workflow("prometheus", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/prometheus/prometheus.k8s-secret.sops.yaml)`,
+          `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/prometheus/prometheus.k8s-secret.sops.yaml)`,
           `echo "$DECRYPTED" | kubectl apply --dry-run=client -n prometheus -f -`,
           `echo "$DECRYPTED" | kubectl apply -n prometheus -f -`,
         ],
@@ -67,7 +67,7 @@ export default workflow("prometheus", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/prometheus/alertmanager-config.k8s-secret.sops.yaml)`,
+          `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/prometheus/alertmanager-config.k8s-secret.sops.yaml)`,
           `echo "$DECRYPTED" | kubectl apply --dry-run=client -n prometheus -f -`,
           `echo "$DECRYPTED" | kubectl apply -n prometheus -f -`,
         ],

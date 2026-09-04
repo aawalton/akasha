@@ -4,7 +4,7 @@ import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { shape } from "@akasha/utils-narrow/shape"
 
 const DECLARED =
-  "akasha/seat-system/agent-settings/pages/launch-flags/launch-flags.agent-settings.harness-settings.json"
+  "seat-system/agent-settings/pages/launch-flags/launch-flags.agent-settings.harness-settings.json"
 
 const Declaration = shape.object({
   always: shape.array(shape.string()),

@@ -8,7 +8,7 @@ import { HOME_DIR } from "../supervisor-config/supervisor-config.module.code.ts"
 export type { McpServerConfig }
 
 const DECLARED =
-  "akasha/seat-system/agent-settings/pages/mcp-servers/mcp-servers.agent-settings.harness-settings.json"
+  "seat-system/agent-settings/pages/mcp-servers/mcp-servers.agent-settings.harness-settings.json"
 
 const INSTRUCTIONS_TOKEN = "$INSTRUCTIONS"
 

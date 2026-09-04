@@ -12,7 +12,7 @@ const DAY_MS = 86_400_000
 
 const WRITER = "log-day-sweeper"
 
-const DAYS_AT = "akasha/seat-system/seat-log-days/pages"
+const DAYS_AT = "seat-system/seat-log-days/pages"
 
 const PAGE_SUFFIX = ".seat-log-day.ts"
 

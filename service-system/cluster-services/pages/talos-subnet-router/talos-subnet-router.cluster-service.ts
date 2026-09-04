@@ -11,5 +11,5 @@ export const talosSubnetRouter = {
   image: "tailscale/tailscale:v1.98.10",
   replicas: 1,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

@@ -8,14 +8,14 @@ import { statedAt } from "@akasha/readout-system/readout-tier"
 import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../tracking/daily/day-place/day-place.module.code.ts"
 
-const READOUTS = "akasha/readout-system/readouts/pages"
+const READOUTS = "readout-system/readouts/pages"
 
 export const EMAIL_PAGE = `${READOUTS}/inboxes-email/inboxes-email.readout.ts`
 
 export const TASKS_PAGE = `${READOUTS}/inboxes-tasks/inboxes-tasks.readout.ts`
 
 export const TEMPER_TASKS_PAGE =
-  "akasha/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"
+  "temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"
 
 const TEMPER_TASKS_KEY = "inbox-temper-tasks"
 

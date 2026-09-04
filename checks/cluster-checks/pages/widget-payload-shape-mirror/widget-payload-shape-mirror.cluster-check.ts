@@ -7,5 +7,5 @@ export const widgetPayloadShapeMirror = {
   definition:
     "the check refusing a mirrored iOS widget payload missing a field its wire vocabulary names",
   code: "ts",
-  dispatchNodeTypes: [{ nodeKind: "swift-file", under: "akasha/code-system/ios-components/pages" }],
+  dispatchNodeTypes: [{ nodeKind: "swift-file", under: "code-system/ios-components/pages" }],
 } as const satisfies ClusterCheck

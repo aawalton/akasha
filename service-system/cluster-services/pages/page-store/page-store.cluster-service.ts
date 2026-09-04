@@ -12,7 +12,7 @@ export const pageStore = {
   replicas: 1,
   containerPort: 8787,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts",
   invariants: [
     {
       invariantKind: "departure",

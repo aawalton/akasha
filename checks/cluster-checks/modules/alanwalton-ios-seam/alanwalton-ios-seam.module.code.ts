@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from "node:fs"
 // Relative to the checkout `getRepoRoot` names, and written the way
 // `discoverRepoFiles` writes it: a caller matches these against that listing, and a
 // path spelled to reach the same file by another route matches none of it.
-const AKASHA = "akasha/code-system/ios-apps"
+const AKASHA = "code-system/ios-apps"
 
 // Alan's own seam parts, and the parts every shell shares. A sourced part is
 // found by slug in one of these, so which of the two it stands in is not

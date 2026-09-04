@@ -30,7 +30,7 @@ export default workflow("ci", {
       name: "ci-apply-pipeline-secrets",
       namespace: "ci",
       secretFile:
-        "akasha/infrastructure/cluster-manifests/cluster-secrets/pipeline-engine.k8s-secret.sops.yaml",
+        "infrastructure/cluster-manifests/cluster-secrets/pipeline-engine.k8s-secret.sops.yaml",
     }),
   ],
 })

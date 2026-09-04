@@ -64,7 +64,7 @@ const TS = "ts"
 
 export const ROOTED = "index"
 
-export const ROOTED_AT = "akasha/command-system/commands/index/index.command.ts"
+export const ROOTED_AT = "command-system/commands/index/index.command.ts"
 
 const loadFrom = createRequire(import.meta.url)
 

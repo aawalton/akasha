@@ -12,5 +12,5 @@ export const pgbouncerExporter = {
   replicas: 1,
   containerPort: 9127,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/pgbouncer-exporter/pgbouncer-exporter.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/pgbouncer-exporter/pgbouncer-exporter.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

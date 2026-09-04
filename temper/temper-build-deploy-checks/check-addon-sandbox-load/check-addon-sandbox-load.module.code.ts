@@ -181,7 +181,7 @@ function stringIdAssertionFor(file: string, distRoot: string | null): StringIdAs
 }
 
 const CHECK_SCRIPT =
-  "akasha/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.code.ts"
+  "temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.code.ts"
 
 export interface AddonSandboxLoadOptions {
   readonly singleFile: string | null

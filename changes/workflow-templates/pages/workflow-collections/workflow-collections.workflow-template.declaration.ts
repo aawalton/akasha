@@ -13,13 +13,13 @@ export const workflows = [
       applyRbac({
         name: "collections-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/collections-rbac/collections-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/collections-rbac/collections-rbac.module.code.ts",
       }),
       sopsDecryptApply({
         name: "collections-infra-apply-secrets",
         namespace: "collections",
         secretFile:
-          "akasha/infrastructure/cluster-manifests/cluster-secrets/collections.k8s-secret.sops.yaml",
+          "infrastructure/cluster-manifests/cluster-secrets/collections.k8s-secret.sops.yaml",
       }),
       {
         ...step({

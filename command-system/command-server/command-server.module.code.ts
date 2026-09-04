@@ -10,7 +10,7 @@ import {
 } from "../commands-served/commands-served.module.code.ts"
 import { duringOneCall } from "../during-call/during-call.module.code.ts"
 
-const HERE = "akasha/command-system/command-server/command-server.module.code.ts"
+const HERE = "command-system/command-server/command-server.module.code.ts"
 
 const HELP = `bun ${HERE} — answer commands over a pipe, so a caller pays bun's startup once
 
@@ -31,7 +31,7 @@ Commands: ${COMMANDS_SERVED.join(", ")}
   --help  This.
 `
 
-const COMMANDS_AT = "akasha/command-system/commands"
+const COMMANDS_AT = "command-system/commands"
 
 async function commandFile(command: string): Promise<string> {
   const at = join(COMMANDS_AT, command, `${command}.command.code.ts`)

@@ -19,7 +19,7 @@ export default workflow("alanwalton-calendar-sync", {
         image: IMAGES.CI,
         cache: false,
         preCommands: (ci) => [
-          `bun ${ci.workspace}/akasha/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service alanwalton-calendar-sync`,
+          `bun ${ci.workspace}/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service alanwalton-calendar-sync`,
         ],
       }),
       skipIfTagExists: (ci) => `${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}`,

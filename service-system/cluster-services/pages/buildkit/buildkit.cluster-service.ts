@@ -12,5 +12,5 @@ export const buildkit = {
   replicas: 1,
   containerPort: 1234,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

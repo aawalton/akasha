@@ -6,7 +6,7 @@ import type { Stated } from "../seat-stated/seat-stated.module.code.ts"
 import type { SeatStated, Stating } from "../seat-stating/seat-stating.module.code.ts"
 import { statedSeat, tookSeat } from "../seat-stating/seat-stating.module.code.ts"
 
-const DIR = "akasha/seat-system/seats/pages"
+const DIR = "seat-system/seats/pages"
 
 const SUFFIX = ".seat.ts"
 

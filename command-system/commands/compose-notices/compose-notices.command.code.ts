@@ -3,7 +3,7 @@ import { isAbsolute, resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 
-export const NOTICES = "akasha/seat-system/notices/pages"
+export const NOTICES = "seat-system/notices/pages"
 
 export const OUT = "--out"
 

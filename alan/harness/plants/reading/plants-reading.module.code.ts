@@ -9,7 +9,7 @@ import {
 } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
 export const READOUT_PAGE =
-  "akasha/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
+  "readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
 
 export function askingIn(root: string): Asking {
   return async (query) => {

@@ -12,5 +12,5 @@ export const gotrue = {
   replicas: 1,
   containerPort: 9999,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/gotrue/gotrue.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/gotrue/gotrue.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

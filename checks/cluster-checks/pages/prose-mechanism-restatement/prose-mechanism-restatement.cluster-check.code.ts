@@ -32,7 +32,7 @@ if (import.meta.main) refuseRetired()
 
 const PREFIX = "[prose-mechanism-restatement]"
 const RATCHET_REL =
-  "akasha/checks/cluster-checks/pages/prose-mechanism-restatement/prose-mechanism-restatement.ratchet.json"
+  "checks/cluster-checks/pages/prose-mechanism-restatement/prose-mechanism-restatement.ratchet.json"
 const RATCHET_SCHEMA = z.object({ accepted: z.array(z.string()) }).strict()
 
 const BOUND = [

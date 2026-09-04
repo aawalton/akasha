@@ -22,7 +22,7 @@ import {
   writingFor,
 } from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 
-const FOLDER = "akasha/temper/temper-progress/completed-days/pages"
+const FOLDER = "temper/temper-progress/completed-days/pages"
 
 const ROWS_PROPERTY = "completions"
 

@@ -40,7 +40,7 @@ const PULL_REGISTRY = "registry.registry.svc.cluster.local:5000"
 
 const DEFAULT_PUSH_REGISTRY = "192.168.68.87:30500"
 
-const TAG_FILE = "akasha/temper/temper-web/deploy/addon-bundle-image.ts"
+const TAG_FILE = "temper/temper-web/deploy/addon-bundle-image.ts"
 
 const SHA_PLACEHOLDER = "0".repeat(40)
 

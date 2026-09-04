@@ -25,7 +25,7 @@ if (import.meta.main) refuseRetired()
 const PREFIX = "[client-env-inlined]"
 
 const DEFINE_SOURCES = [
-  "akasha/supabase-rr/client-env-define/client-env-define.module.code.ts",
+  "supabase-rr/client-env-define/client-env-define.module.code.ts",
   "akasha/web-build-sha/build-sha/build-sha.module.code.ts",
 ] as const
 

@@ -20,7 +20,7 @@ if (import.meta.main) refuseRetired()
 const PREFIX = "[service-dockerfiles-gitignored]"
 
 const REGISTRY_REL =
-  "akasha/infrastructure/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+  "infrastructure/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 
 interface Violation {
   service: string

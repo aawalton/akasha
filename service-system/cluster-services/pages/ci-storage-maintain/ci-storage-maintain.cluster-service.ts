@@ -10,5 +10,5 @@ export const ciStorageMaintain = {
   resourceName: "ci-storage-maintain",
   image: "alpine:3.21",
   manifestCode:
-    "akasha/service-system/cluster-services/pages/ci-storage-maintain/ci-storage-maintain.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/ci-storage-maintain/ci-storage-maintain.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

@@ -11,5 +11,5 @@ export const ciStorageAdmin = {
   image: "alpine:3.21",
   replicas: 1,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/ci-storage-admin/ci-storage-admin.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/ci-storage-admin/ci-storage-admin.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

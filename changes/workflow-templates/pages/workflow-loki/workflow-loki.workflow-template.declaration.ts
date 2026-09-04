@@ -19,14 +19,14 @@ export default workflow("loki", {
     kubectlApply({
       name: "loki-apply-namespace",
       namespace: "loki",
-      files: "akasha/infrastructure/loki-service/loki/generated/namespace.generated.yaml",
+      files: "infrastructure/loki-service/loki/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
     {
       ...applyRbac({
         name: "loki-apply-rbac",
-        rbacFile: "akasha/infrastructure/cluster-manifests/loki-rbac/loki-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/loki-rbac/loki-rbac.module.code.ts",
       }),
       dependsOn: ["loki-apply-namespace"],
     },

@@ -58,12 +58,12 @@ export const royalRoadSyncing = {
     {
       invariantKind: "gap",
       statement:
-        "Stories are read from the store the stories now stand in, which is `akasha/story/stories-read/pages` rather than `pages/story-read-royal-road`.",
+        "Stories are read from the store the stories now stand in, which is `story/stories-read/pages` rather than `pages/story-read-royal-road`.",
     },
     {
       invariantKind: "gap",
       statement:
-        "Chapters are filed into the store the chapters now stand in, which is `akasha/story/story-chapters-read/pages` rather than `pages/story-chapter-royal-road`.",
+        "Chapters are filed into the store the chapters now stand in, which is `story/story-chapters-read/pages` rather than `pages/story-chapter-royal-road`.",
     },
   ],
 } as const satisfies Module

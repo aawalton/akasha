@@ -27,7 +27,7 @@ import {
 if (import.meta.main) refuseRetired()
 
 const PREFIX = "[eso-live-dir-candidate-order]"
-const TS_SOURCE = "akasha/temper/temper-eso-paths/eso-paths/eso-paths.module.code.ts"
+const TS_SOURCE = "temper/temper-eso-paths/eso-paths/eso-paths.module.code.ts"
 const RUST_CRATE = "temper-watcher/tray"
 const RUST_CRATE_ROOT = `${RUST_CRATE}/src/main.rs`
 const RUST_FN = "resolve_saved_vars_dir"

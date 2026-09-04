@@ -18,7 +18,7 @@ import {
 } from "../../../tracking/daily/day-place/day-place.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 
-const READOUTS = "akasha/readout-system/readouts/pages"
+const READOUTS = "readout-system/readouts/pages"
 
 export const STRENGTH_PAGE = `${READOUTS}/attribute-strength/attribute-strength.readout.ts`
 

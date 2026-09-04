@@ -2,8 +2,8 @@ import { join } from "node:path"
 
 export const DISCOVERY_GLOBS: readonly string[] = [
   "**/*.cluster-service.code.attachment.ts",
-  "akasha/infrastructure/cluster-manifests/*-synth/*-synth.module.code.ts",
-  "akasha/infrastructure/upscale/*-synth/*-synth.module.code.ts",
+  "infrastructure/cluster-manifests/*-synth/*-synth.module.code.ts",
+  "infrastructure/upscale/*-synth/*-synth.module.code.ts",
   "infra/k8s/*/*/k8s/synth.ts",
   "infra/*/k8s/synth.ts",
   "infra/*/*/k8s/synth.ts",

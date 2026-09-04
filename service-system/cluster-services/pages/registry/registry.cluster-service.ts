@@ -12,5 +12,5 @@ export const registry = {
   replicas: 1,
   containerPort: 5000,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/registry/registry.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/registry/registry.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

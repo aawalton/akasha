@@ -12,18 +12,18 @@ export const workflows = [
       applyRbac({
         name: "audhdalan-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/audhdalan-web-rbac/audhdalan-web-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/audhdalan-web-rbac/audhdalan-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "audhdalan-infra-apply-service",
         namespace: "audhdalan",
-        files: "akasha/audhdalan/audhdalan-web/generated/web-service.generated.yaml",
+        files: "audhdalan/audhdalan-web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
         name: "audhdalan-infra-apply-secrets",
         namespace: "audhdalan",
-        secretFile: "akasha/audhdalan/audhdalan-web/deploy/secrets.sops.yaml",
+        secretFile: "audhdalan/audhdalan-web/deploy/secrets.sops.yaml",
       }),
     ],
   }),

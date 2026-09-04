@@ -12,7 +12,7 @@ import type { Match, Outcome, Rule } from "../rules/monarch-rules.module.code.ts
  * service for them: the categorization ring runs under a workstation timer, where no service
  * stands, so a rule that could only be read over HTTP could not be read at all.
  */
-const RULES = "akasha/alan/harness/monarch/category-rules"
+const RULES = "alan/harness/monarch/category-rules"
 
 interface Kind {
   readonly kind: string

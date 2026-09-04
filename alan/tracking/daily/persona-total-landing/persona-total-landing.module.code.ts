@@ -9,7 +9,7 @@ const CLOSING = "} as const satisfies Persona"
 const TOTAL_LINE = /^ {2}totalPoints: -?\d+(?:\.\d+)?,$/m
 
 export function personaPagePath(slug: string): string {
-  return `akasha/persona-system/personas/${slug}/${slug}.persona.ts`
+  return `persona-system/personas/${slug}/${slug}.persona.ts`
 }
 
 export function personaBodyWithTotal(body: string, totalPoints: number): string | null {

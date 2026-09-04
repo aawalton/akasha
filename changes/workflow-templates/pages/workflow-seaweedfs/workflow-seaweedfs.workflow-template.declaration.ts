@@ -12,11 +12,11 @@ const SKIP_CHECK = [
   'if [ "$CURRENT_HASH" = "$CONTENT_HASH" ]; then echo "Content hash unchanged, skipping"; exit 0; fi',
 ]
 
-const MASTER = "akasha/infrastructure/seaweedfs/master/generated"
-const VOLUME = "akasha/infrastructure/seaweedfs/volume/generated"
-const FILER = "akasha/infrastructure/seaweedfs/filer/generated"
-const S3_GATEWAY = "akasha/infrastructure/seaweedfs/s3-gateway/generated"
-const ETCD_SNAPSHOT = "akasha/infrastructure/seaweedfs/etcd-snapshot/generated"
+const MASTER = "infrastructure/seaweedfs/master/generated"
+const VOLUME = "infrastructure/seaweedfs/volume/generated"
+const FILER = "infrastructure/seaweedfs/filer/generated"
+const S3_GATEWAY = "infrastructure/seaweedfs/s3-gateway/generated"
+const ETCD_SNAPSHOT = "infrastructure/seaweedfs/etcd-snapshot/generated"
 
 const foundationSeaweedfs = workflow("seaweedfs", {
   kind: "foundation",
@@ -34,7 +34,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...applyRbac({
         name: "seaweedfs-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },
@@ -288,7 +288,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
         name: "seaweedfs-apply-etcd-talosconfig",
         namespace: "seaweedfs",
         secretFile:
-          "akasha/infrastructure/seaweedfs/etcd-snapshot/etcd-snapshot.k8s-secret.sops.yaml",
+          "infrastructure/seaweedfs/etcd-snapshot/etcd-snapshot.k8s-secret.sops.yaml",
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },

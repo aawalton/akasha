@@ -9,9 +9,9 @@ import { uncommittedPartAt } from "@akasha/pages-system/page-file-parts"
 
 const CALLED_AS = "log-day-writing"
 
-const SOURCES_AT = "akasha/seat-system/log-sources/pages"
+const SOURCES_AT = "seat-system/log-sources/pages"
 
-const DAYS_AT = "akasha/seat-system/seat-log-days/pages"
+const DAYS_AT = "seat-system/seat-log-days/pages"
 
 const LINES_KEY = "lines"
 

@@ -11,5 +11,5 @@ export const gfsPromoter = {
   image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
   schedule: "17 2 * * *",
   manifestCode:
-    "akasha/infrastructure/backup-retention/gfs-promoter/gfs-promoter.cluster-service.code.attachment.ts",
+    "infrastructure/backup-retention/gfs-promoter/gfs-promoter.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

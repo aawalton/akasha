@@ -4,7 +4,7 @@ import { array, num, object, str } from "../shape/monarch-shape.module.code.ts"
 
 const REPO = `${import.meta.dir}/../../../../..`
 const EVIDENCE = `${import.meta.dir}/../evidence/monarch-evidence.module.code.ts`
-const RELATIVE = "akasha/alan/harness/monarch/evidence/monarch-evidence.module.code.ts"
+const RELATIVE = "alan/harness/monarch/evidence/monarch-evidence.module.code.ts"
 
 export const ALLOWED_TOOLS = [`Bash(bun ${EVIDENCE}:*)`, `Bash(bun ${RELATIVE}:*)`]
 

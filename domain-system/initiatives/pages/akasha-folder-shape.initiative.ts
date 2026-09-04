@@ -10,12 +10,12 @@ export const akashaFolderShape = {
     {
       statement: "The akasha subfolder has a clean folder shape.",
       workingMemory:
-        "Two folders named `supabase` hold no supabase code. `akasha/pages-system/pages-ui/supabase` is 30 files of page and view shaping, reached by 15 `./supabase/*` export keys. `shared/pages-ui/src/supabase` is 26 files outside akasha whose only supabase reach is one auth call. Renaming either folder repoints its export targets already, but the export keys and the importers naming them wait on package renaming. Alan says the shape before it is written into the check.",
+        "Two folders named `supabase` hold no supabase code. `pages-system/pages-ui/supabase` is 30 files of page and view shaping, reached by 15 `./supabase/*` export keys. `shared/pages-ui/src/supabase` is 26 files outside akasha whose only supabase reach is one auth call. Renaming either folder repoints its export targets already, but the export keys and the importers naming them wait on package renaming. Alan says the shape before it is written into the check.",
     },
     {
       statement: "Every folder under `akasha/` has a domain page saying what it gathers.",
       workingMemory:
-        "`akasha/story` and `akasha/story/engine` hold folders and no page, which the `folders-only` shape allows. `akasha/alan` carries `alan.domain.ts` and `akasha/story` carries nothing, so the tree is read down through pages in one place and through the filesystem in another. The `folders-only` shape already holds a gap saying a folder of folders wants judging by which folders it holds.",
+        "`akasha/story` and `story/engine` hold folders and no page, which the `folders-only` shape allows. `akasha/alan` carries `alan.domain.ts` and `akasha/story` carries nothing, so the tree is read down through pages in one place and through the filesystem in another. The `folders-only` shape already holds a gap saying a folder of folders wants judging by which folders it holds.",
     },
     {
       statement:

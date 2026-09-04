@@ -10,7 +10,7 @@ export const AKASHA = rootFor(roots, AKASHA_REPO)
 const MONTH_TYPE = "monarch-month"
 
 /** Every Monarch page family stands under this one folder inside akasha. */
-const MONARCH = "akasha/alan/harness/monarch"
+const MONARCH = "alan/harness/monarch"
 
 export const MONTHS_FOLDER = `${MONARCH}/monarch-months/pages`
 export const HOLDING_FOLDER = `${MONARCH}/monarch-holdings/pages`
@@ -24,7 +24,7 @@ export const MERCHANT_FOLDER = `${MONARCH}/monarch-merchants/pages`
  * One line of the `transactions` entry file standing beside a month page.
  *
  * The keys are the entry shape's own, declared at
- * `akasha/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
+ * `alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
  * They are camel because a page property is read by its key rather than by its slug.
  */
 export interface TransactionLine {

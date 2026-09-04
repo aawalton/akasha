@@ -24,11 +24,11 @@ export type LevelsReading =
 
 export const SESSION = "session"
 
-export const DAYS_AT = "akasha/alan/tracking/daily/wake-days/pages"
+export const DAYS_AT = "alan/tracking/daily/wake-days/pages"
 
-export const ACTIVITIES_AT = "akasha/alan/tracking/session-activities/pages"
+export const ACTIVITIES_AT = "alan/tracking/session-activities/pages"
 
-export const RELATIONSHIPS_AT = "akasha/alan/relating/relationships/pages"
+export const RELATIONSHIPS_AT = "alan/relating/relationships/pages"
 
 export const TITLE = "--title"
 export const AT = "--at"

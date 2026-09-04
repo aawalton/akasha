@@ -26,11 +26,11 @@ const TEMPER_WATCHER_IMAGE =
 
 const WATCHER_IMAGE_SOURCE_DIR = "/build"
 
-const WATCHER_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/akasha/temper/temper-web/watcher`
+const WATCHER_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/temper/temper-web/watcher`
 
 const ADDONS_IMAGE_SOURCE_DIR = "/bundle"
 
-const ADDONS_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/akasha/temper/temper-web/addons`
+const ADDONS_DEST_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/temper/temper-web/addons`
 
 const RESOURCE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -150,7 +150,7 @@ function webDeploymentYaml(): string {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("akasha/temper/temper-web"),
+              workingDir: orchestratorCacheEntrypointPath("temper/temper-web"),
               command: ["bun", "run", "start"],
               ports: [{ containerPort: 3000, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],

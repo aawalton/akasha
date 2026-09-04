@@ -108,7 +108,7 @@ export function camelised(values: Values): Record<string, unknown> {
  * `page-property-entry` that page names for it, and judge every line against the properties that
  * entry declares — the file parses as one JSON object to a line, every required property is there,
  * no key is one the entry does not declare, and `id` is a uuid. `entriesIn` in
- * `akasha/pages-system/pages/entries` already parses; the declaration is already on the entry
+ * `pages-system/pages/entries` already parses; the declaration is already on the entry
  * page; nothing puts the two together. Until it does, camelising here is what keeps a row readable
  * rather than what makes it right.
  *

@@ -8,5 +8,5 @@ export const opsPageUnlanded = {
     "every page written to a repository whose commit has not landed, with the writer that wrote it.",
   opsPath: "page unlanded",
   opsEntryFile:
-    "akasha/markdown-pages/markdown-page-unlanded/markdown-page-unlanded.module.code.ts",
+    "markdown-pages/markdown-page-unlanded/markdown-page-unlanded.module.code.ts",
 } as const satisfies OpsCommand

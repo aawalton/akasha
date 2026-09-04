@@ -2,7 +2,7 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 
 /** Every page this renders belongs under here, one folder per page, named for its slug. */
-export const GENERATED_AT = "akasha/pages-system/pages-core/generated"
+export const GENERATED_AT = "pages-system/pages-core/generated"
 
 /** The slug of the page that reassembles the shards. Nothing outside imports a shard. */
 export const AGGREGATE = "icon-search-index"

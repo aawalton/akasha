@@ -25,7 +25,7 @@ if (import.meta.main) refuseRetired()
 const PREFIX = "[verdict-emitter-chokepoint]"
 const CHECK_SCRIPTS_DIR = "packages/infra/checks/src/checks"
 const CONFIG_FILE =
-  "akasha/checks/cluster-checks/pages/verdict-emitter-chokepoint/verdict-emitter-chokepoint.config.json"
+  "checks/cluster-checks/pages/verdict-emitter-chokepoint/verdict-emitter-chokepoint.config.json"
 
 const CONFIG_SCHEMA = z
   .object({ bypass: z.record(z.string(), z.enum(BYPASS_PREDICATES)).optional() })

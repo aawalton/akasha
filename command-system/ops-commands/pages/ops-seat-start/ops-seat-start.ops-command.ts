@@ -6,6 +6,6 @@ export const opsSeatStart = {
   slug: "ops-seat-start",
   definition: "a seat created under a name, with its process started here or left to the caller.",
   opsPath: "seat start",
-  opsEntryFile: "akasha/seat-system/seat-start/seat-start.module.code.ts",
+  opsEntryFile: "seat-system/seat-start/seat-start.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

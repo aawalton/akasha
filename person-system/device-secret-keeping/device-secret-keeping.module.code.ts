@@ -21,7 +21,7 @@ export const DEVICE_SECRET_HEADER = "X-Device-Secret"
 
 export const DEVICE_SECRET_RANDOM_BYTES = 32
 
-export const DEVICE_SECRETS_FOLDER = "akasha/person-system/device-secrets/pages"
+export const DEVICE_SECRETS_FOLDER = "person-system/device-secrets/pages"
 
 export const DEVICE_SECRET_WRITER = "alanwalton web <web@alanwalton.com>"
 

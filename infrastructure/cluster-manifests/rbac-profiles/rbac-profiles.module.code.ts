@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import type { NamespaceProfile } from "@akasha/workflow-language/rbac-types"
 
-export const RBAC_GLOB = "akasha/infrastructure/cluster-manifests/*-rbac/*-rbac.module.code.ts"
+export const RBAC_GLOB = "infrastructure/cluster-manifests/*-rbac/*-rbac.module.code.ts"
 
 export interface RbacProfileSource {
   readonly path: string

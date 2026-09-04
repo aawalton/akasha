@@ -25,7 +25,7 @@ const CODE_ROOT_FLAG = "--code-root"
 
 const STAGE_FLAG = "--stage"
 
-const GENERATED_DIR_REL = "akasha/temper/temper-build-deploy-checks/generated"
+const GENERATED_DIR_REL = "temper/temper-build-deploy-checks/generated"
 
 const STEM = "eso-colon-methods"
 

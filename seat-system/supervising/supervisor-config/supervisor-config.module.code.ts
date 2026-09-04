@@ -43,12 +43,12 @@ export function assertBootFiles(files: readonly BootFile[]): undefined {
     } catch (err) {
       const reason = err instanceof Error ? err.message : String(err)
       throw new Error(
-        `${noun} not found at ${path} (${reason}). ${consequence} Run \`bash ${REPO_ROOT}/akasha/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh\` to create the symlink, then retry.`
+        `${noun} not found at ${path} (${reason}). ${consequence} Run \`bash ${REPO_ROOT}/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh\` to create the symlink, then retry.`
       )
     }
     if (!isFile) {
       throw new Error(
-        `${noun} at ${path} is not a regular file. ${consequence} Inspect it manually and re-run \`bash ${REPO_ROOT}/akasha/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh\` if needed.`
+        `${noun} at ${path} is not a regular file. ${consequence} Inspect it manually and re-run \`bash ${REPO_ROOT}/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh\` if needed.`
       )
     }
   }

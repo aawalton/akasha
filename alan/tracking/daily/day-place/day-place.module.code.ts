@@ -152,7 +152,7 @@ export function dropSessionRow(dayStr: string, named: string, writer: string): P
  *
  * These three readers asked `daily-tracking` of the markdown query engine until this. They were
  * already reading the akasha pages when they did: `pages/page-type/daily-tracking.page-type.md`
- * names a glob over `akasha/alan/tracking/daily/wake-days` in its `files:`, so the deriver scanned
+ * names a glob over `alan/tracking/daily/wake-days` in its `files:`, so the deriver scanned
  * the very same 135 files and `kebabisedRow` turned their camel keys back to kebab on the way out.
  * The page type name was the last thing about a day that was still markdown, and one declaration
  * file was holding eight workstation readings up.

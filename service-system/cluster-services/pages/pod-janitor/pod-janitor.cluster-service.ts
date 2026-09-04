@@ -11,5 +11,5 @@ export const podJanitor = {
   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
   schedule: "0 */6 * * *",
   manifestCode:
-    "akasha/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

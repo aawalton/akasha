@@ -4,7 +4,7 @@ import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { z } from "zod"
 
 export const TERRITORY_MAP_PATH =
-  "akasha/checks/cluster-checks/modules/territory-map/territory-map.json"
+  "checks/cluster-checks/modules/territory-map/territory-map.json"
 
 const TerritoryNodeSchema = z
   .object({

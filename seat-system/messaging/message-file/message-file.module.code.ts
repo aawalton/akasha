@@ -22,7 +22,7 @@ const PAGE_TYPE = "message"
 
 const WRITER = "message-file-writer"
 
-const PAGES_AT = "akasha/seat-system/messages/pages"
+const PAGES_AT = "seat-system/messages/pages"
 
 const PAGE_EXT = `.${PAGE_TYPE}.ts`
 

@@ -11,7 +11,7 @@ import {
 
 const COMMAND = "page-tree"
 
-const COMMAND_AT = "akasha/command-system/commands/page-tree/page-tree.command.code.ts"
+const COMMAND_AT = "command-system/commands/page-tree/page-tree.command.code.ts"
 
 const CALL_TIMEOUT_MS = 60_000
 

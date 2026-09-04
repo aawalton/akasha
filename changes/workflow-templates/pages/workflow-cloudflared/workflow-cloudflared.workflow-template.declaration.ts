@@ -21,13 +21,13 @@ export default workflow("cloudflared", {
     applyRbac({
       name: "cloudflared-apply-rbac",
       rbacFile:
-        "akasha/infrastructure/cluster-manifests/cloudflared-rbac/cloudflared-rbac.module.code.ts",
+        "infrastructure/cluster-manifests/cloudflared-rbac/cloudflared-rbac.module.code.ts",
     }),
     sopsDecryptApply({
       name: "cloudflared-apply-secret",
       namespace: "cloudflared",
       secretFile:
-        "akasha/service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml",
+        "service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml",
     }),
     step({
       name: "cloudflared-generate-and-apply-config",
@@ -37,7 +37,7 @@ export default workflow("cloudflared", {
         "set -e",
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches live configmap — skipping"; exit 0; fi`,
-        `bun ${ci.workspace}/akasha/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
+        `bun ${ci.workspace}/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
         "kubectl apply -f /tmp/cloudflared-configmap.yaml",
       ],
       dependsOn: [
@@ -69,7 +69,7 @@ export default workflow("cloudflared", {
         }),
         ...checksumHashCommands({
           variable: "CREDS_HASH",
-          read: `sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml`,
+          read: `sops -d ${ci.workspace}/service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml`,
           subject: "cloudflared.k8s-secret.sops.yaml",
         }),
         `sed "s|checksum/config:.*|checksum/config: \\"$\{CONFIG_HASH}\\"|" ${ci.workspace}/infra/k8s/src/cloudflared/generated/deployment.generated.yaml \\`,
@@ -98,9 +98,9 @@ export default workflow("cloudflared", {
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches — DNS already synced"; exit 0; fi`,
 
-        `bun ${ci.workspace}/akasha/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
-        `_DEPLOY_LIB_DIR=${ci.workspace}/akasha/infrastructure/cluster-operations/deploy-functions`,
-        `. ${ci.workspace}/akasha/infrastructure/cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
+        `bun ${ci.workspace}/infrastructure/cluster-manifests/tunnel-config/tunnel-config.module.code.ts > /tmp/cloudflared-configmap.yaml`,
+        `_DEPLOY_LIB_DIR=${ci.workspace}/infrastructure/cluster-operations/deploy-functions`,
+        `. ${ci.workspace}/infrastructure/cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
         "mkdir -p /tmp/.cloudflare",
         'echo "${CLOUDFLARE_API_TOKEN}" > /tmp/.cloudflare/api-token',
         "TUNNEL_ID=$(grep '^[[:space:]]*tunnel:' /tmp/cloudflared-configmap.yaml | awk '{print $2}')",
@@ -126,11 +126,11 @@ export default workflow("cloudflared", {
         "set -e",
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
         `if [ "$LIVE_HASH" = "${ci.inputsHash}" ]; then echo "[skip] Content hash ${ci.inputsHash} matches — A records already synced"; exit 0; fi`,
-        `_DEPLOY_LIB_DIR=${ci.workspace}/akasha/infrastructure/cluster-operations/deploy-functions`,
-        `. ${ci.workspace}/akasha/infrastructure/cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
+        `_DEPLOY_LIB_DIR=${ci.workspace}/infrastructure/cluster-operations/deploy-functions`,
+        `. ${ci.workspace}/infrastructure/cluster-operations/deploy-functions/deploy-functions.shell-script.shell.sh`,
         "mkdir -p /tmp/.cloudflare",
         'echo "${CLOUDFLARE_API_TOKEN}" > /tmp/.cloudflare/api-token',
-        `jq -r '.[] | select(.hostname) | "\\(.hostname) \\(.host)"' ${ci.workspace}/akasha/infrastructure/cluster-operations/nodes.json | while IFS=" " read -r h ip; do add_dns_a_record "$h" "$ip"; done`,
+        `jq -r '.[] | select(.hostname) | "\\(.hostname) \\(.host)"' ${ci.workspace}/infrastructure/cluster-operations/nodes.json | while IFS=" " read -r h ip; do add_dns_a_record "$h" "$ip"; done`,
       ],
       dependsOn: ["cloudflared-generate-and-apply-config"],
       backendOptions: {

@@ -8,7 +8,7 @@ import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 
-export const SUBAGENTS_AT = "akasha/seat-system/subagents/pages"
+export const SUBAGENTS_AT = "seat-system/subagents/pages"
 
 export const WRITING = "write"
 

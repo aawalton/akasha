@@ -43,7 +43,7 @@ const REMEDIATION_DOC = remediationHint(
 )
 
 const REGISTRY =
-  "akasha/checks/cluster-checks/modules/codegen-type-identity-pairs/codegen-type-identity-pairs.module.code.ts"
+  "checks/cluster-checks/modules/codegen-type-identity-pairs/codegen-type-identity-pairs.module.code.ts"
 
 const OWN_REPO_FROM_HERE = "../../../../.."
 

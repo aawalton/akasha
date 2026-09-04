@@ -15,7 +15,7 @@ export default workflow("metallb", {
   steps: [
     applyRbac({
       name: "metallb-apply-rbac",
-      rbacFile: "akasha/infrastructure/cluster-manifests/metallb-rbac/metallb-rbac.module.code.ts",
+      rbacFile: "infrastructure/cluster-manifests/metallb-rbac/metallb-rbac.module.code.ts",
     }),
     {
       ...step({

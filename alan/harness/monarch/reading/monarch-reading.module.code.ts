@@ -4,7 +4,7 @@ import { keepReading } from "../../../../readout-system/readout-reading/readout-
 import { fetchRingCountsFromMonarch } from "../../../../readout-system/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
 
 export const READOUT_PAGE =
-  "akasha/readout-system/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
+  "readout-system/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
 
 export const COOKIE_NAME = "MONARCH_COOKIE"
 

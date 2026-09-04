@@ -7,7 +7,7 @@ const KILL_CEILING_MS = 10_000
 const REFUSED_EXIT = 2
 const NAMED_AT_MOST = 5
 const OWN_ENTRY =
-  "akasha/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts"
+  "service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts"
 
 export type Wrapping = {
   readonly root: string

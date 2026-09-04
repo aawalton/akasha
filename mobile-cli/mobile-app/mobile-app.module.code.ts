@@ -29,7 +29,7 @@ export const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
 export const DEFAULT_APP_SLUG = "alanwalton"
 
-const APPS_FOLDER = "akasha/code-system/ios-apps/pages"
+const APPS_FOLDER = "code-system/ios-apps/pages"
 
 const PAGE_SUFFIX = ".ios-app.ts"
 

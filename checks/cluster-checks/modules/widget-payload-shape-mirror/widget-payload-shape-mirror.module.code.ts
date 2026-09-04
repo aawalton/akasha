@@ -19,7 +19,7 @@ export interface PayloadMirror {
 }
 
 const READOUTS = "../akasha/readouts"
-const ROUTES = "akasha/alan/web/routes"
+const ROUTES = "alan/web/routes"
 
 const RESPONSE_BODY = "return Response.json("
 
@@ -33,7 +33,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "Categorization",
     canonical: {
-      file: "akasha/readout-system/readout-body/readout-body.module.code.ts",
+      file: "readout-system/readout-body/readout-body.module.code.ts",
       anchor: "export type RingCounts = {",
       kind: "members",
     },
@@ -42,7 +42,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "BacklogScale",
     canonical: {
-      file: "akasha/readout-system/readout-body/readout-body.module.code.ts",
+      file: "readout-system/readout-body/readout-body.module.code.ts",
       anchor: "export type RingScale = {",
       kind: "members",
     },
@@ -143,7 +143,7 @@ export interface ShapeMirrorMember {
 }
 
 const MIRRORS_FILE =
-  "akasha/checks/cluster-checks/modules/widget-payload-shape-mirror/widget-payload-shape-mirror.module.code.ts"
+  "checks/cluster-checks/modules/widget-payload-shape-mirror/widget-payload-shape-mirror.module.code.ts"
 
 export function shapeMirrorMembers(args: {
   readonly swiftSources: ReadonlyMap<string, string>

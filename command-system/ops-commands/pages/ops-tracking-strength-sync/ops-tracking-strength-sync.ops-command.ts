@@ -6,6 +6,6 @@ export const opsTrackingStrengthSync = {
   slug: "ops-tracking-strength-sync",
   definition: "rewriting one day's strength volume from the workouts recorded against it.",
   opsPath: "tracking strength-sync",
-  opsEntryFile: "akasha/alan/tracking/daily/strength-sync/strength-sync.module.code.ts",
+  opsEntryFile: "alan/tracking/daily/strength-sync/strength-sync.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

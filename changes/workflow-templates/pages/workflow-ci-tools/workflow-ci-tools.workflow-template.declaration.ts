@@ -12,7 +12,7 @@ export default workflow("ci-tools", {
       name: "ci-tools-apply-ci-namespace",
       namespace: "ci",
       files:
-        "akasha/infrastructure/cluster-manifests/ci-namespace-synth/generated/namespace.generated.yaml",
+        "infrastructure/cluster-manifests/ci-namespace-synth/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 

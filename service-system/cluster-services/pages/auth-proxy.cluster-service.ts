@@ -11,5 +11,5 @@ export const authProxy = {
   image: "registry.registry.svc.cluster.local:5000/infra/auth-proxy",
   replicas: 2,
   containerPort: 3080,
-  manifestCode: "akasha/infrastructure/auth-proxy/auth-proxy.cluster-service.code.attachment.ts",
+  manifestCode: "infrastructure/auth-proxy/auth-proxy.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

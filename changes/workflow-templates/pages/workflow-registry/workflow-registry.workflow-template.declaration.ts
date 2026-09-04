@@ -46,7 +46,7 @@ export default workflow("registry", {
         name: "registry-apply-tls",
         namespace: "registry",
         secretFile:
-          "akasha/service-system/cluster-services/pages/registry/registry-tls.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/registry/registry-tls.k8s-secret.sops.yaml",
       }),
       dependsOn: ["registry-apply"],
     },

@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 
-const REPO_RELATIVE_CA = "akasha/infrastructure/cluster-provisioning/generate-certs/ca.crt"
+const REPO_RELATIVE_CA = "infrastructure/cluster-provisioning/generate-certs/ca.crt"
 
 export function registryCaPath(): string {
   const explicit = process.env.CLUSTER_CA_PATH

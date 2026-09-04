@@ -11,5 +11,5 @@ export const seaweedfsPruneSessions = {
   image: "rclone/rclone:1.74.3",
   schedule: "24 5 * * *",
   manifestCode:
-    "akasha/infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.cluster-service.code.attachment.ts",
+    "infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

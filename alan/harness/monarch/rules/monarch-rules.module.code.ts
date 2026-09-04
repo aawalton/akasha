@@ -14,7 +14,7 @@ import {
 /**
  * What a rule page states it tests, as the pages carry it since the rules moved into akasha.
  * The keys and comparisons are the two select properties' own values, declared at
- * `akasha/alan/harness/monarch/category-rules/properties/match-key.select-property.ts` and
+ * `alan/harness/monarch/category-rules/properties/match-key.select-property.ts` and
  * `.../match-comparison.select-property.ts`. A page holding a word outside these lists is refused
  * rather than skipped, so a select property gaining a value here is a loud failure.
  */

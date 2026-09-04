@@ -32,7 +32,7 @@ const EXEMPT_SEGMENTS: ReadonlySet<string> = new Set([
   "tstl",
 ])
 
-const DESIGN_HOME_PREFIXES = ["shared/design-", "akasha/design/"]
+const DESIGN_HOME_PREFIXES = ["shared/design-", "design/"]
 
 // A shell's www/ holds what a build put there — a staged SPA bundle for one shell, a
 // copied boot page for the other — and neither is authored. Matched under ios-apps

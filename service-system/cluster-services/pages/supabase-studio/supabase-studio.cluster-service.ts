@@ -12,5 +12,5 @@ export const supabaseStudio = {
   replicas: 1,
   containerPort: 3000,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/supabase-studio/supabase-studio.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/supabase-studio/supabase-studio.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

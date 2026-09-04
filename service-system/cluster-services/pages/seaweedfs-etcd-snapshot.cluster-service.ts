@@ -11,5 +11,5 @@ export const seaweedfsEtcdSnapshot = {
   image: "ghcr.io/siderolabs/talosctl:v1.12.9",
   schedule: "17 3 * * *",
   manifestCode:
-    "akasha/infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.cluster-service.code.attachment.ts",
+    "infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

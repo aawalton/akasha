@@ -7,5 +7,5 @@ export const opsSeatBoot = {
   definition:
     "a seat's system prompt: who it is, and the one read that loads what its declarations bind it to.",
   opsPath: "seat boot",
-  opsEntryFile: "akasha/seat-system/compose-boot/compose-boot.module.code.ts",
+  opsEntryFile: "seat-system/compose-boot/compose-boot.module.code.ts",
 } as const satisfies OpsCommand

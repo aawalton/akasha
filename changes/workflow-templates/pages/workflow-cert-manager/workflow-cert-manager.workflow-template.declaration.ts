@@ -17,14 +17,14 @@ export default workflow("cert-manager", {
     applyRbac({
       name: "cert-manager-apply-rbac",
       rbacFile:
-        "akasha/infrastructure/cluster-manifests/cert-manager-rbac/cert-manager-rbac.module.code.ts",
+        "infrastructure/cluster-manifests/cert-manager-rbac/cert-manager-rbac.module.code.ts",
     }),
     {
       ...sopsDecryptApply({
         name: "cert-manager-apply-cloudflare-token",
         namespace: "cert-manager",
         secretFile:
-          "akasha/infrastructure/cluster-manifests/cluster-secrets/cloudflare-api-token.k8s-secret.sops.yaml",
+          "infrastructure/cluster-manifests/cluster-secrets/cloudflare-api-token.k8s-secret.sops.yaml",
       }),
       dependsOn: ["cert-manager-apply-rbac"],
     },

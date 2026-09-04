@@ -11,5 +11,5 @@ export const alanwaltonWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifestCode: "akasha/alan/web/alanwalton-web.cluster-service.code.attachment.ts",
+  manifestCode: "alan/web/alanwalton-web.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

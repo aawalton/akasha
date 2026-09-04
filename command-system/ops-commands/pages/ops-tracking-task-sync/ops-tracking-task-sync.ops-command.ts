@@ -6,6 +6,6 @@ export const opsTrackingTaskSync = {
   slug: "ops-tracking-task-sync",
   definition: "rewriting one day's task figure from the Health tasks completed in it.",
   opsPath: "tracking task-sync",
-  opsEntryFile: "akasha/alan/tracking/daily/task-sync/task-sync.module.code.ts",
+  opsEntryFile: "alan/tracking/daily/task-sync/task-sync.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

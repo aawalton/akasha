@@ -2,7 +2,7 @@ import { existsSync, renameSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const LOG = "[boot-prompt]"
-const COMPOSE_RELPATH = "akasha/seat-system/compose-boot/compose-boot.module.code.ts"
+const COMPOSE_RELPATH = "seat-system/compose-boot/compose-boot.module.code.ts"
 
 const COMPOSE_CEILING_MS = 30_000
 

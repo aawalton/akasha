@@ -12,19 +12,19 @@ export const workflows = [
       applyRbac({
         name: "archive-of-worlds-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/archive-of-worlds-web-rbac/archive-of-worlds-web-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/archive-of-worlds-web-rbac/archive-of-worlds-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "archive-of-worlds-infra-apply-service",
         namespace: "archive-of-worlds",
         files:
-          "akasha/archive-of-worlds/archive-of-worlds-web/generated/web-service.generated.yaml",
+          "archive-of-worlds/archive-of-worlds-web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
         name: "archive-of-worlds-infra-apply-secrets",
         namespace: "archive-of-worlds",
-        secretFile: "akasha/archive-of-worlds/archive-of-worlds-web/deploy/secrets.sops.yaml",
+        secretFile: "archive-of-worlds/archive-of-worlds-web/deploy/secrets.sops.yaml",
       }),
     ],
   }),

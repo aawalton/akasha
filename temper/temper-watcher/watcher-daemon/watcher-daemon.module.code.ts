@@ -27,7 +27,7 @@ export const WORKER_LOG = "watcher.log"
 export const ROLLED_LOG = "watcher.1.log"
 
 export const WORKER_ENTRY =
-  "akasha/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts"
+  "temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts"
 
 export function stateFilePath(): string {
   return join(watcherConfigDir(), STATE_FILE)

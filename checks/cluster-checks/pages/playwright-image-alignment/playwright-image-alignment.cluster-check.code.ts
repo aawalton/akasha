@@ -27,7 +27,7 @@ const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
 const DEP_TYPES = ["dependencies", "devDependencies", "optionalDependencies"] as const
 
 const MIRROR_SCRIPT =
-  "akasha/infrastructure/cluster-operations/mirror-base-images/mirror-base-images.shell-script.shell.sh"
+  "infrastructure/cluster-operations/mirror-base-images/mirror-base-images.shell-script.shell.sh"
 const LOCKFILE = "bun.lock"
 
 type SourceKind = "package-json" | "lockfile" | "dockerfile-extensions" | "mirror-list"

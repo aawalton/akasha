@@ -13,5 +13,5 @@ export const headscale = {
   replicas: 1,
   containerPort: 8443,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

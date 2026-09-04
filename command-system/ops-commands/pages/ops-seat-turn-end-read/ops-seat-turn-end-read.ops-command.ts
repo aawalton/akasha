@@ -8,5 +8,5 @@ export const opsSeatTurnEndRead = {
     "one ended turn read by a model for whether its ending will annoy the seat's principal.",
   opsPath: "seat turn-end read",
   opsEntryFile:
-    "akasha/seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.code.ts",
+    "seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.code.ts",
 } as const satisfies OpsCommand

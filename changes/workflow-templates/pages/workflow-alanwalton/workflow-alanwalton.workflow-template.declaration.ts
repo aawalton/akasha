@@ -14,18 +14,18 @@ export const workflows = [
       applyRbac({
         name: "alanwalton-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/alanwalton-web-rbac/alanwalton-web-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/alanwalton-web-rbac/alanwalton-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "alanwalton-infra-apply-service",
         namespace: "alanwalton",
-        files: "akasha/alan/web/generated/web-service.generated.yaml",
+        files: "alan/web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
         name: "alanwalton-infra-apply-secrets",
         namespace: "alanwalton",
-        secretFile: "akasha/alan/web/deploy/secrets.sops.yaml",
+        secretFile: "alan/web/deploy/secrets.sops.yaml",
       }),
       step({
         name: "alanwalton-mirror-s3-creds",

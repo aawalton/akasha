@@ -5,7 +5,7 @@ import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
 
 const DISPATCHER = "command-system/cli/cli.module.code.ts"
 
-const DISPATCHER_AT = "akasha/command-system/cli/"
+const DISPATCHER_AT = "command-system/cli/"
 
 const COMMAND = "akasha"
 

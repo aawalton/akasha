@@ -62,7 +62,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...applyRbac({
         name: "postgres-apply-cnpg-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts",
       }),
       dependsOn: ["postgres-apply-namespace"],
     },
@@ -72,13 +72,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
         name: "postgres-apply-cnpg-secret",
         namespace: "postgres",
         secretFile:
-          "akasha/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -90,13 +90,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
         name: "postgres-apply-grafana-ro-secret",
         namespace: "postgres",
         secretFile:
-          "akasha/service-system/cluster-services/pages/postgres-cnpg/grafana-ro-password.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/postgres-cnpg/grafana-ro-password.k8s-secret.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/postgres-cnpg/grafana-ro-password.k8s-secret.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/postgres-cnpg/grafana-ro-password.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -108,13 +108,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
         name: "postgres-apply-agent-adhoc-secret",
         namespace: "postgres",
         secretFile:
-          "akasha/service-system/cluster-services/pages/postgres-cnpg/agent-adhoc-password.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/postgres-cnpg/agent-adhoc-password.k8s-secret.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/postgres-cnpg/agent-adhoc-password.k8s-secret.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/postgres-cnpg/agent-adhoc-password.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -172,12 +172,12 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...buildkitBuild({
         name: "postgres-gfs-promoter-build-image",
         context: ".",
-        dockerfile: "akasha/infrastructure/backup-retention",
+        dockerfile: "infrastructure/backup-retention",
         tag: GFS_PROMOTER_IMAGE_TAG,
         cache: false,
         image: IMAGES.CI,
         preCommands: (ci) => [
-          `bun ${ci.workspace}/akasha/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service gfs-promoter`,
+          `bun ${ci.workspace}/infrastructure/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts --service gfs-promoter`,
         ],
       }),
       skipIfTagExists: () => GFS_PROMOTER_IMAGE_TAG,
@@ -254,8 +254,8 @@ function annualDumpSteps(skipCheck: readonly string[]): readonly Step[] {
     {
       ...buildkitBuild({
         name: "postgres-annual-dump-build-image",
-        context: "akasha/infrastructure/postgres-annual-dump",
-        dockerfile: "akasha/infrastructure/postgres-annual-dump/postgres-annual-dump-image",
+        context: "infrastructure/postgres-annual-dump",
+        dockerfile: "infrastructure/postgres-annual-dump/postgres-annual-dump-image",
         filename: "Containerfile",
         tag: ANNUAL_DUMP_IMAGE_TAG,
         cache: false,
@@ -324,13 +324,13 @@ const foundationPostgres = workflow("postgres", {
         name: "postgres-apply-secrets",
         namespace: "postgres",
         secretFile:
-          "akasha/service-system/cluster-services/pages/postgres-cnpg/postgres.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/postgres-cnpg/postgres.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/postgres-cnpg/postgres.k8s-secret.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/postgres-cnpg/postgres.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],

@@ -21,7 +21,7 @@ export const CODEGEN_IDENTITY_BLIND_SPOTS: readonly CodegenIdentityBlindSpot[] =
   },
 ]
 
-export const INSTRUCTIONS_MIRROR_DIR = "akasha/temper/temper-addon-generators"
+export const INSTRUCTIONS_MIRROR_DIR = "temper/temper-addon-generators"
 
 const RULES_CORE = "temper/game-items-rules-core/src"
 const ADDON_RULE_TYPES = "temper/game-items-addon/src/generated/rule-types.generated.ts"
@@ -30,15 +30,15 @@ const GEN = INSTRUCTIONS_MIRROR_DIR
 function gen(slug: string): string {
   return `${GEN}/${slug}/${slug}.module.code.ts`
 }
-const COMPANIONS_CORE = "akasha/temper/temper-companions-core"
-const SKILL_KINDS = "akasha/temper/temper-skill-kinds"
-const CHARACTER_SOURCES = "akasha/temper/temper-character-sources"
-const SKILL_LINES_SNAP = "akasha/temper/temper-skill-lines/skill-line-category-data"
-const EQUIPMENT_KINDS = "akasha/temper/temper-equipment-kinds"
+const COMPANIONS_CORE = "temper/temper-companions-core"
+const SKILL_KINDS = "temper/temper-skill-kinds"
+const CHARACTER_SOURCES = "temper/temper-character-sources"
+const SKILL_LINES_SNAP = "temper/temper-skill-lines/skill-line-category-data"
+const EQUIPMENT_KINDS = "temper/temper-equipment-kinds"
 const SKILL_POINT_SOURCES =
-  "akasha/temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
+  "temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
 const PUBLIC_DUNGEON_SOURCES =
-  "akasha/temper/temper-player-completion/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
+  "temper/temper-player-completion/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
 
 export const MIRROR_GENERATORS: ReadonlyMap<string, CodegenIdentityRemedy> = new Map([
   [ADDON_RULE_TYPES, { repo: "instructions", file: gen("rule-types") }],

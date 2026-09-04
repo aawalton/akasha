@@ -12,5 +12,5 @@ export const grafana = {
   replicas: 1,
   containerPort: 3000,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

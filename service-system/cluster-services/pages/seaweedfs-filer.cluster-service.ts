@@ -12,5 +12,5 @@ export const seaweedfsFiler = {
   replicas: 1,
   containerPort: 8888,
   manifestCode:
-    "akasha/infrastructure/seaweedfs/filer/seaweedfs-filer.cluster-service.code.attachment.ts",
+    "infrastructure/seaweedfs/filer/seaweedfs-filer.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

@@ -12,5 +12,5 @@ export const archiveOfWorldsWeb = {
   replicas: 1,
   containerPort: 3000,
   manifestCode:
-    "akasha/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.cluster-service.code.attachment.ts",
+    "archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

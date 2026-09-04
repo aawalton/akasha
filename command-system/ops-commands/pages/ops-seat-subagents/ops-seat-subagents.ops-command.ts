@@ -6,5 +6,5 @@ export const opsSeatSubagents = {
   slug: "ops-seat-subagents",
   definition: "every subagent kind that stands, as the JSON map `--agents` takes.",
   opsPath: "seat subagents",
-  opsEntryFile: "akasha/seat-system/compose-subagents/compose-subagents.module.code.ts",
+  opsEntryFile: "seat-system/compose-subagents/compose-subagents.module.code.ts",
 } as const satisfies OpsCommand

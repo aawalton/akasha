@@ -7,5 +7,5 @@ export const opsMobileWidgetEmit = {
   definition:
     "one iOS widget's Swift emitted from its page, diffed against the Swift in the code repository.",
   opsPath: "mobile widget-emit",
-  opsEntryFile: "akasha/command-system/ios-widget-emit/ios-widget-emit.module.code.ts",
+  opsEntryFile: "command-system/ios-widget-emit/ios-widget-emit.module.code.ts",
 } as const satisfies OpsCommand

@@ -11,7 +11,7 @@ export const esoRig = {
   image: "registry.registry.svc.cluster.local:5000/cluster/eso-rig:serving",
   replicas: 0,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts",
   invariants: [
     {
       invariantKind: "departure",

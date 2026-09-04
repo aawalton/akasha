@@ -1,7 +1,7 @@
 import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 
 export const CONDUCT_RELATIVE_PATH =
-  "akasha/alan/harness/agents/annoyance/alan-harness-agents-annoyance.domain.ts"
+  "alan/harness/agents/annoyance/alan-harness-agents-annoyance.domain.ts"
 
 const DEFINITION = "definition"
 

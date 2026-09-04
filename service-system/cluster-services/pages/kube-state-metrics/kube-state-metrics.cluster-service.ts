@@ -12,5 +12,5 @@ export const kubeStateMetrics = {
   replicas: 1,
   containerPort: 8080,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

@@ -19,7 +19,7 @@ export default workflow("eso-rig", {
       name: "eso-rig-apply-namespace",
       namespace: "eso-rig",
       files:
-        "akasha/service-system/cluster-services/pages/eso-rig/generated/namespace.generated.yaml",
+        "service-system/cluster-services/pages/eso-rig/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -27,7 +27,7 @@ export default workflow("eso-rig", {
       ...applyRbac({
         name: "eso-rig-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/eso-rig-rbac/eso-rig-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/eso-rig-rbac/eso-rig-rbac.module.code.ts",
       }),
       dependsOn: ["eso-rig-apply-namespace"],
     },

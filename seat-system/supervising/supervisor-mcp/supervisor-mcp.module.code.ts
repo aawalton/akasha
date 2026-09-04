@@ -24,7 +24,7 @@ import { computeMcpConfigContent } from "../../claude-launch-args/claude-launch-
 
 const LOG = "[supervisor-mcp]"
 
-const EXPORT_CLI_RELPATH = "akasha/command-system/cli/cli.module.code.ts"
+const EXPORT_CLI_RELPATH = "command-system/cli/cli.module.code.ts"
 const EXPORT_COMMAND = "browser-test-storage-state"
 const REFRESH_TIMEOUT_MS = 10_000
 const EXPORT_TIMEOUT_MS = 180_000

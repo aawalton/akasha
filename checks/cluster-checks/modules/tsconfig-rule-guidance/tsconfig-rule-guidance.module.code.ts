@@ -5,7 +5,7 @@ export interface RuleGuidance {
 }
 
 export const ALLOWLIST_FILE =
-  "akasha/checks/cluster-checks/modules/check-tsconfig-allowlists/check-tsconfig-allowlists.module.code.ts"
+  "checks/cluster-checks/modules/check-tsconfig-allowlists/check-tsconfig-allowlists.module.code.ts"
 
 export const RULE_GUIDANCE: Readonly<Record<string, RuleGuidance>> = {
   extends: {

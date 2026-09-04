@@ -6,6 +6,6 @@ export const opsTrackingNutritionSync = {
   slug: "ops-tracking-nutrition-sync",
   definition: "rewriting one day's nutrition figure from the food rows logged against it.",
   opsPath: "tracking nutrition-sync",
-  opsEntryFile: "akasha/alan/tracking/daily/nutrition-sync/nutrition-sync.module.code.ts",
+  opsEntryFile: "alan/tracking/daily/nutrition-sync/nutrition-sync.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

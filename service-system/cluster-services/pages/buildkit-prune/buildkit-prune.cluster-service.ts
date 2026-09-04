@@ -11,5 +11,5 @@ export const buildkitPrune = {
   image: "moby/buildkit:v0.28.0",
   schedule: "0 4 * * 0",
   manifestCode:
-    "akasha/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

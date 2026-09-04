@@ -10,7 +10,7 @@ import {
   writing,
 } from "../write/write.command.code.ts"
 
-export const DAYS_AT = "akasha/alan/tracking/daily/wake-days/pages/"
+export const DAYS_AT = "alan/tracking/daily/wake-days/pages/"
 
 /**
  * The food entries, which a program composes exactly as it composes a day.
@@ -21,7 +21,7 @@ export const DAYS_AT = "akasha/alan/tracking/daily/wake-days/pages/"
  * An entry is a page now, and this is the road it takes: nothing writes under `akasha/` but
  * akasha's own commands, and `write` asks for a reading no program has done.
  */
-export const FOOD_ENTRIES_AT = "akasha/alan/tracking/food-entries/pages/"
+export const FOOD_ENTRIES_AT = "alan/tracking/food-entries/pages/"
 
 /** Every tree this lands under, each holding pages a program composed. */
 export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]

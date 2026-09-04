@@ -49,7 +49,7 @@ export function domainListed(root: string, slug: string): Listed {
 export function initiativeListed(root: string, slug: string, stated = ""): Listed {
   return pageListed(
     root,
-    `akasha/domain-system/initiative/initiatives/${slug}.initiative.ts`,
+    `domain-system/initiative/initiatives/${slug}.initiative.ts`,
     "initiative",
     slug,
     stated
@@ -57,20 +57,20 @@ export function initiativeListed(root: string, slug: string, stated = ""): Liste
 }
 
 export function personListed(root: string, slug: string): Listed {
-  return pageListed(root, `akasha/person-system/person/people/${slug}.person.ts`, "person", slug)
+  return pageListed(root, `person-system/person/people/${slug}.person.ts`, "person", slug)
 }
 
 export function personaListed(root: string, slug: string): Listed {
   return pageListed(
     root,
-    `akasha/persona-system/persona/${slug}/${slug}.persona.ts`,
+    `persona-system/persona/${slug}/${slug}.persona.ts`,
     "persona",
     slug
   )
 }
 
 export function roleListed(root: string, slug: string): Listed {
-  return pageListed(root, `akasha/role-system/role/roles/${slug}.role.ts`, "role", slug)
+  return pageListed(root, `role-system/role/roles/${slug}.role.ts`, "role", slug)
 }
 
 export function pageTypeListed(root: string, slug: string, above: string | null): string {
@@ -87,7 +87,7 @@ export function pageTypeListed(root: string, slug: string, above: string | null)
 }
 
 export function seatListed(root: string, slug: string, stated: string): string {
-  const path = `akasha/seat-system/seat/seats/${slug}.seat.ts`
+  const path = `seat-system/seat/seats/${slug}.seat.ts`
   writing(root, path, `export const ${exportedAs(slug)} = { ${stated} }\n`)
   return path
 }

@@ -11,5 +11,5 @@ export const temperWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifestCode: "akasha/temper/temper-web/temper-web.cluster-service.code.attachment.ts",
+  manifestCode: "temper/temper-web/temper-web.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

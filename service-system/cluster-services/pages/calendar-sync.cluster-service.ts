@@ -10,5 +10,5 @@ export const calendarSync = {
   resourceName: "calendar-sync",
   image: "registry.registry.svc.cluster.local:5000/alanwalton/alanwalton-calendar-sync",
   schedule: "40 8 * * *",
-  manifestCode: "akasha/calendar-sync/calendar-sync.cluster-service.code.attachment.ts",
+  manifestCode: "calendar-sync/calendar-sync.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

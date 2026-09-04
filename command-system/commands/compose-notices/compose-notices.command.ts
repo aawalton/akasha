@@ -11,7 +11,7 @@ export const composeNotices = {
   taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
   helpNotes: [
     "it prints one JSON object of notice slug to composed text, and nothing else.",
-    "every notice page under `akasha/seat-system/notices/pages` is rendered, keyed by its file name.",
+    "every notice page under `seat-system/notices/pages` is rendered, keyed by its file name.",
     "callers ask for a notice by slug, so a page renamed there is a notice one of them no longer finds.",
     "nothing says so before a fleet meets it: the check that did went with an orphaned folder and has no successor yet.",
     "wrapping is the author's convenience and not part of the text.",

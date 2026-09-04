@@ -12,5 +12,5 @@ export const seaweedfsS3Gateway = {
   replicas: 1,
   containerPort: 8333,
   manifestCode:
-    "akasha/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.cluster-service.code.attachment.ts",
+    "infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

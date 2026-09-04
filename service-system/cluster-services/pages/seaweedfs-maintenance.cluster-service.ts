@@ -11,5 +11,5 @@ export const seaweedfsMaintenance = {
   image: "chrislusf/seaweedfs:3.73",
   schedule: "43 6 * * 0",
   manifestCode:
-    "akasha/infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.cluster-service.code.attachment.ts",
+    "infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

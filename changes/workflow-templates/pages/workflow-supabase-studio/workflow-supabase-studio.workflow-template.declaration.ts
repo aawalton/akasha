@@ -26,7 +26,7 @@ export default workflow("supabase-studio", {
       ...applyRbac({
         name: "supabase-studio-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/supabase-studio-rbac/supabase-studio-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/supabase-studio-rbac/supabase-studio-rbac.module.code.ts",
       }),
       dependsOn: ["supabase-studio-apply-namespace"],
     },

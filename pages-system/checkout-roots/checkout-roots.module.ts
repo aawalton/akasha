@@ -10,7 +10,7 @@ export const checkoutRoots = {
     {
       invariantKind: "departure",
       statement:
-        "A checkout is found by the `akasha/infrastructure/repos/pages` folder inside a checkout.",
+        "A checkout is found by the `infrastructure/repos/pages` folder inside a checkout.",
     },
     {
       invariantKind: "stopgap",

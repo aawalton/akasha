@@ -12,7 +12,7 @@ const ACCOUNT_SHAPE = /^[a-z][a-z0-9-]*$/
 
 const EMAIL_SHAPE = /^\S+@\S+$/
 
-export const PAGES_AT = "akasha/agents/claude-accounts/pages"
+export const PAGES_AT = "agents/claude-accounts/pages"
 
 export type Read =
   | { readonly account: string; readonly email: string; readonly alias: number | null }

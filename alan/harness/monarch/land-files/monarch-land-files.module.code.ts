@@ -211,7 +211,7 @@ export function merged(
 
 /**
  * The keys an entry states, in the order the entry shape declares them, at
- * `akasha/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
+ * `alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
  * A line is written in this order however it was built, so a resync that changes nothing
  * rewrites nothing.
  */

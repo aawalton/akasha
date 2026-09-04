@@ -40,7 +40,7 @@ export function quotedAt(line: string, at: number): boolean {
   return open !== null
 }
 
-const PACKAGE = "akasha/editor-extension/ops-extension"
+const PACKAGE = "editor-extension/ops-extension"
 
 const MANIFEST = "package.json"
 

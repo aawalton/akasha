@@ -11,5 +11,5 @@ export const seaweedfsBackupLongtail = {
   image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
   schedule: "17 4 * * *",
   manifestCode:
-    "akasha/infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.cluster-service.code.attachment.ts",
+    "infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

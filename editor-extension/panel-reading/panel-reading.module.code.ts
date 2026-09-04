@@ -12,10 +12,10 @@ import { dirname, join } from "node:path"
 import { ran } from "@akasha/utils-run/running"
 
 export const ENTRY =
-  "akasha/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
+  "editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
 
 export const STUB =
-  "akasha/editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs"
+  "editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs"
 
 const REACHED = /(?<!['"`])\bvscode\d*\.([A-Za-z_][A-Za-z0-9_]*)/g
 

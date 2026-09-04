@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
-const COMPILER_PACKAGE = "akasha/language-design/lua-compiler"
+const COMPILER_PACKAGE = "language-design/lua-compiler"
 
 const COMPILER_ENTRY = "tstl-cli/tstl-cli.module.code.ts"
 

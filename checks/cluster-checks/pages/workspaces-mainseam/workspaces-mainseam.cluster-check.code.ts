@@ -25,7 +25,7 @@ import {
 if (import.meta.main) refuseRetired()
 
 const PREFIX = "[workspaces-mainseam]"
-const SEAM_PATH = "akasha/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
+const SEAM_PATH = "workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
 
 function readMainSeamSource(repoRoot: string): string {
   execFileSync(

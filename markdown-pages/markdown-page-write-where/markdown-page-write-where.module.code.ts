@@ -38,7 +38,7 @@ export interface Where {
  * answers the empty text for a `.ts` name, so it was false for every one of Alan's 133 moved days
  * before the name was ever compared; `statesSlug` then read a frontmatter block a TypeScript page
  * does not carry. Nothing was found, and the fallback built a name ending `.md` under a folder
- * taken from the type's `.ts` place — `akasha/alan/daily-tracking/day-2026-03-05.daily-tracking.md`,
+ * taken from the type's `.ts` place — `alan/daily-tracking/day-2026-03-05.daily-tracking.md`,
  * a file that is not on disk and that nothing may write, since a page under `akasha/` lands through
  * `akasha write` alone. Fourteen callers took that path for the day.
  *

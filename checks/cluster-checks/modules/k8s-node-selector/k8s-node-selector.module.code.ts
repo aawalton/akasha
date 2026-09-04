@@ -54,7 +54,7 @@ function isAcceptedSelectorKey(key: string): boolean {
 }
 
 const NODE_NAME_ALLOW: ReadonlySet<string> = new Set([
-  "akasha/infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
+  "infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
   "infra/voice-infer/generated/deployment.generated.yaml",
 ])
 
@@ -112,7 +112,7 @@ export function evaluateManifestNode(attrs: ManifestNodeAttrs): readonly Violati
 }
 
 const TS_LITERAL_ALLOW: ReadonlySet<string> = new Set([
-  "akasha/infrastructure/k8s-types/hostnames/hostnames.module.code.ts",
+  "infrastructure/k8s-types/hostnames/hostnames.module.code.ts",
 ])
 
 const TS_LITERAL_RE =

@@ -61,7 +61,7 @@ export const editorPageSweeping = {
     {
       invariantKind: "gap",
       statement:
-        "The pages swept are the editor pages standing under `akasha/alan/harness/code-editor`, which state a process and hold pages of their own, rather than the markdown pages under `pages/`, which no longer stand.",
+        "The pages swept are the editor pages standing under `alan/harness/code-editor`, which state a process and hold pages of their own, rather than the markdown pages under `pages/`, which no longer stand.",
     },
   ],
 } as const satisfies Module

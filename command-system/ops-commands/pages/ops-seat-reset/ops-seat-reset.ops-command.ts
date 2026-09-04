@@ -7,6 +7,6 @@ export const opsSeatReset = {
   definition:
     "a new agent minted into a named seat, holding every declaration the one it replaces stated.",
   opsPath: "seat reset",
-  opsEntryFile: "akasha/seat-system/seat-reset/seat-reset.module.code.ts",
+  opsEntryFile: "seat-system/seat-reset/seat-reset.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

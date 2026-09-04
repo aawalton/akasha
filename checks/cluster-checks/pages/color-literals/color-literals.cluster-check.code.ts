@@ -36,8 +36,8 @@ const FLAG_SPEC = {
 } as const
 
 const CLOSURE_WIDENING_PATHS = [
-  "akasha/checks/cluster-checks/modules/color-literal-scan/color-literal-scan.module.code.ts",
-  "akasha/checks/cluster-checks/modules/color-literal-grants/color-literal-grants.module.code.ts",
+  "checks/cluster-checks/modules/color-literal-scan/color-literal-scan.module.code.ts",
+  "checks/cluster-checks/modules/color-literal-grants/color-literal-grants.module.code.ts",
   "infra/cluster-checks/src/checks/check-color-literals.ts",
 ]
 

@@ -27,7 +27,7 @@ export default workflow("gotrue", {
     {
       ...applyRbac({
         name: "gotrue-apply-rbac",
-        rbacFile: "akasha/infrastructure/cluster-manifests/gotrue-rbac/gotrue-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/gotrue-rbac/gotrue-rbac.module.code.ts",
       }),
       dependsOn: ["gotrue-apply-namespace"],
     },
@@ -37,13 +37,13 @@ export default workflow("gotrue", {
         name: "gotrue-apply-supabase-auth-admin-secrets",
         namespace: "postgres",
         secretFile:
-          "akasha/service-system/cluster-services/pages/gotrue/supabase-auth-admin.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/gotrue/supabase-auth-admin.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/gotrue/supabase-auth-admin.k8s-secret.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/gotrue/supabase-auth-admin.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],

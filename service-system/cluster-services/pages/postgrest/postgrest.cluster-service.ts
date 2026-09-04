@@ -12,5 +12,5 @@ export const postgrest = {
   replicas: 2,
   containerPort: 3000,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

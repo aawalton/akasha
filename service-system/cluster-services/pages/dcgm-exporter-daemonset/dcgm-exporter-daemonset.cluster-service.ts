@@ -11,5 +11,5 @@ export const dcgmExporterDaemonset = {
   image: "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
   containerPort: 9400,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

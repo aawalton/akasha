@@ -19,7 +19,7 @@ const CHECK = "code-check"
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 
-const CHECK_TYPE_AT = "akasha/checks/code-checks/code-check.page-type.ts"
+const CHECK_TYPE_AT = "checks/code-checks/code-check.page-type.ts"
 
 const MINTED_FROM = "sha256"
 

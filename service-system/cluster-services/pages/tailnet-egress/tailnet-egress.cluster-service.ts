@@ -12,5 +12,5 @@ export const tailnetEgress = {
   replicas: 1,
   containerPort: 1055,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

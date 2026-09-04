@@ -5,7 +5,7 @@ import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import { readFirstLineAsPort } from "@akasha/seat-system/supervisor-proxy-port-line"
 
 export const ENTRY_REL =
-  "akasha/agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
+  "agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
 
 export const STDERR_LOG = "oauth-proxy.stderr.log"
 

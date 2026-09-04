@@ -12,5 +12,5 @@ export const voiceInfer = {
   replicas: 1,
   containerPort: 8080,
   manifestCode:
-    "akasha/infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
+    "infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

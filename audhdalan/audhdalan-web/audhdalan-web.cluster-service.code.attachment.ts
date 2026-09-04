@@ -67,7 +67,7 @@ function webDeploymentYaml(): string {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("akasha/audhdalan/audhdalan-web"),
+              workingDir: orchestratorCacheEntrypointPath("audhdalan/audhdalan-web"),
               command: ["bun", "run", "start"],
               ports: [{ containerPort: 3000, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],

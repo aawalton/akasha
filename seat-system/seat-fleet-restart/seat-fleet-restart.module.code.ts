@@ -7,9 +7,9 @@ import { seatsPresent } from "@akasha/seat-system/seat-roster"
 import { ran } from "@akasha/utils-run/running"
 
 const SETTINGS =
-  "akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"
+  "seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json"
 
-const DISPATCHER = "akasha/command-system/ops-calling/ops-calling.module.code.ts"
+const DISPATCHER = "command-system/ops-calling/ops-calling.module.code.ts"
 
 const CLIENT_MARK = "agent-settings"
 

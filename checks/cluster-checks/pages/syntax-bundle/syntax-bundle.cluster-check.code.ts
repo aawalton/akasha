@@ -49,7 +49,7 @@ function toolExit(message: string): never {
   return exitOnToolError({ error: new Error(message), prefix: PREFIX })
 }
 
-const WIDENING_PATHS = ["packages/infra/checks/", "akasha/pages-system/pages-core/"]
+const WIDENING_PATHS = ["packages/infra/checks/", "pages-system/pages-core/"]
 
 async function main(): Promise<never> {
   let flags: {

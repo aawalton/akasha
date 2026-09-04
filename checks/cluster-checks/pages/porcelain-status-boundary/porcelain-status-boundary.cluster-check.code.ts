@@ -39,7 +39,7 @@ const ACT_REQUIRED: Record<PorcelainBoundaryViolation["kind"], string> = {
 const BOUNDARY_PATHS = ["infra/git-porcelain/", "infra/git-cli/src/lib/porcelain-status.ts"]
 
 const RULE_PATHS = [
-  "akasha/checks/cluster-checks/modules/porcelain-status-boundary/porcelain-status-boundary.module.code.ts",
+  "checks/cluster-checks/modules/porcelain-status-boundary/porcelain-status-boundary.module.code.ts",
   "infra/cluster-checks/src/checks/check-porcelain-status-boundary.ts",
 ]
 

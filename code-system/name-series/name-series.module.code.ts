@@ -6,7 +6,7 @@ export const AKASHA_FILE_CEILING_BYTES = 15_000
 
 export const RUN_LINE_BUDGET_BYTES = 13_501
 
-const MODULE_PAGE_TYPE_REL = "akasha/code-system/modules/module.page-type.ts"
+const MODULE_PAGE_TYPE_REL = "code-system/modules/module.page-type.ts"
 
 const encoder = new TextEncoder()
 

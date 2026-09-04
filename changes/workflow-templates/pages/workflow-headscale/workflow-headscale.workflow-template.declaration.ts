@@ -27,13 +27,13 @@ export default workflow("headscale", {
     applyRbac({
       name: "headscale-apply-rbac",
       rbacFile:
-        "akasha/infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
+        "infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
     }),
     sopsDecryptApply({
       name: "headscale-apply-secret",
       namespace: "headscale",
       secretFile:
-        "akasha/service-system/cluster-services/pages/headscale/headscale.k8s-secret.sops.yaml",
+        "service-system/cluster-services/pages/headscale/headscale.k8s-secret.sops.yaml",
     }),
     kubectlApply({
       name: "headscale-apply-configmap",

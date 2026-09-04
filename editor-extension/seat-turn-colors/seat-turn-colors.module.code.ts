@@ -13,7 +13,7 @@ const MAX_BUFFER = 4 * 1024 * 1024
 
 const COMMAND = "agent-turn-colors"
 
-const AKASHA_SEAT_DIR = "akasha/seat-system/seats/pages"
+const AKASHA_SEAT_DIR = "seat-system/seats/pages"
 
 export const SEAT_SIDECAR_GLOB = "*.uncommitted.ts"
 

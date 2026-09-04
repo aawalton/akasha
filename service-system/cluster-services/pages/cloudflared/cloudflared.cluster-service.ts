@@ -12,5 +12,5 @@ export const cloudflared = {
   replicas: 2,
   containerPort: 2000,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

@@ -13,7 +13,7 @@ import { seatPathForName, supervisorAlive } from "../seat-reading/seat-reading.m
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 
-const SUBAGENTS_AT = "akasha/seat-system/subagents/pages"
+const SUBAGENTS_AT = "seat-system/subagents/pages"
 
 const AGENT_ID = "AGENT_ID"
 

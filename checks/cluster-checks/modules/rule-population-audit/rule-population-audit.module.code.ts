@@ -24,7 +24,7 @@ export const SKIPS_EVERYTHING = `${CANARY_PREFIX}skips-every-file`
 export const WEIGHS_EVERYTHING = `${CANARY_PREFIX}weighs-every-file`
 
 const SCANNER_REGISTRY =
-  "akasha/checks/cluster-checks/modules/scanner-registry/scanner-registry.module.code.ts"
+  "checks/cluster-checks/modules/scanner-registry/scanner-registry.module.code.ts"
 
 const CANARY_ENTRIES: readonly SyntaxScannerEntry[] = [
   {

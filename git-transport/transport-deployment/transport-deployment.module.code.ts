@@ -99,7 +99,7 @@ export function deploymentYaml(): string {
               command: [
                 "bun",
                 "--watch",
-                "akasha/git-transport/transport-serving/transport-serving.module.code.ts",
+                "git-transport/transport-serving/transport-serving.module.code.ts",
               ],
               ports: [
                 {

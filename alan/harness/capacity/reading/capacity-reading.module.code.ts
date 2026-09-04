@@ -7,7 +7,7 @@ import {
 } from "../../../tracking/daily/day-place/day-place.module.code.ts"
 
 export const READOUT_PAGE =
-  "akasha/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
+  "readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
 
 const HEALTH_CAPACITY_HOURS = "health-capacity-hours"
 

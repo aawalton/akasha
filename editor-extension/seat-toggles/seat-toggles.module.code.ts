@@ -3,7 +3,7 @@ import { z } from "zod"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { askHarnessFile } from "../harness-json/harness-json.module.code.ts"
 
-const COMPOSE_NOTICES_AT = "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
+const COMPOSE_NOTICES_AT = "seat-system/compose-notices/compose-notices.module.code.ts"
 
 import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
 

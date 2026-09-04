@@ -11,7 +11,7 @@ export const TIER_RANK_BY_TIER: Readonly<Record<TemperTier, number>> = {
 const TEMPER_PREFIX = "temper/"
 
 export const TEMPER_COMPOSITION_ROOTS: readonly string[] = [
-  "akasha/temper/temper-web",
+  "temper/temper-web",
   "temper/addons",
 ]
 

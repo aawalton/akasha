@@ -12,7 +12,7 @@ const RETRY_PAUSE_MS = 2_000
 
 const ROUNDS = 8
 
-const HELP = `bun ~/repos/akasha/git/push-repo/push-repo.module.code.ts — carry this repository's commits to its remote
+const HELP = `bun ~/repos/git/push-repo/push-repo.module.code.ts — carry this repository's commits to its remote
 
 The gated write commands hand off to this and return, because a write is durable at its
 commit and nothing an agent runs should wait on a remote. It is started detached, so its
@@ -29,7 +29,7 @@ nothing is waiting on this one and a server-side hook can hold a push open for f
 than a person would sit through.
 
 Usage:
-  bun ~/repos/akasha/git/push-repo/push-repo.module.code.ts [--root <path>]
+  bun ~/repos/git/push-repo/push-repo.module.code.ts [--root <path>]
 
 Flags:
   --root <path>  The checkout to push. Defaults to the working directory.

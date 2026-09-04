@@ -10,7 +10,7 @@ export const workflows = [
       kubectlApply({
         name: "alanwalton-atlas-foundation-apply-service",
         namespace: "alanwalton",
-        files: "akasha/alan/atlas-web/generated/atlas-service.generated.yaml",
+        files: "alan/atlas-web/generated/atlas-service.generated.yaml",
         serverSide: true,
       }),
     ],

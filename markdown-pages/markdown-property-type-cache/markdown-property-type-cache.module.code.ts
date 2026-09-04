@@ -17,20 +17,20 @@ const VERSION = 5
 const CACHE_AT = ".git/pages/resolved/page-type"
 
 export const CODE_AT: readonly string[] = [
-  "akasha/code-system/shape-progress",
-  "akasha/command-system/during-call",
-  "akasha/file-system/answer-keeping",
-  "akasha/file-system/answer-mark",
-  "akasha/file-system/exclusive",
+  "code-system/shape-progress",
+  "command-system/during-call",
+  "file-system/answer-keeping",
+  "file-system/answer-mark",
+  "file-system/exclusive",
   "akasha/markdown-pages",
-  "akasha/pages-system/checkout-roots",
-  "akasha/pages-system/pages/markdown-document",
-  "akasha/pages-system/pages/markdown-page-at",
-  "akasha/pages-system/pages/markdown-page-name",
-  "akasha/pages-system/pages/markdown-page-type",
-  "akasha/pages-system/repo-path",
-  "akasha/utils-fs/atomic-write",
-  "akasha/utils-fs/missing",
+  "pages-system/checkout-roots",
+  "pages-system/pages/markdown-document",
+  "pages-system/pages/markdown-page-at",
+  "pages-system/pages/markdown-page-name",
+  "pages-system/pages/markdown-page-type",
+  "pages-system/repo-path",
+  "utils-fs/atomic-write",
+  "utils-fs/missing",
   "repo",
 ]
 

@@ -9,8 +9,8 @@
  * page under `akasha/` spells its keys camel.
  *
  * The two jsonl sidecars become `page-property-entry` properties. That page type is landed
- * (`akasha/pages-system/page-property-entries/page-property-entry.page-type.ts`) and its read path
- * is landed (`akasha/pages-system/pages/entries/page-entries.module.code.ts`). A page states
+ * (`pages-system/page-property-entries/page-property-entry.page-type.ts`) and its read path
+ * is landed (`pages-system/pages/entries/page-entries.module.code.ts`). A page states
  * such a property as the extension of the file beside it — `sessions: "jsonl"` — and `besideAt` in
  * `page-file-name.module.code.ts` builds that file's name as the page's path with the extension
  * dropped, then the property slug, then what the file holds. For a page at
@@ -54,7 +54,7 @@ export const DAY_PAGE_TYPE = "daily-tracking"
 
 /**
  * The page type a day is in AKASHA, declared at
- * `akasha/alan/tracking/daily/wake-days/wake-day.page-type.ts`, which states `slug: "wake-day"` and
+ * `alan/tracking/daily/wake-days/wake-day.page-type.ts`, which states `slug: "wake-day"` and
  * `pluralSlug: "wake-days"`.
  *
  * The two names are kept apart because the akasha pages system service answers for the pages

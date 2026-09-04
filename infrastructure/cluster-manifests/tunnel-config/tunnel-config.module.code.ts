@@ -8,7 +8,7 @@ import { discoverTunnelRoutes } from "../tunnel-route-discovery/tunnel-route-dis
 const REPO_ROOT = join(import.meta.dirname, "../../../..")
 const HEADER_PATH = join(
   REPO_ROOT,
-  "akasha/service-system/cluster-services/pages/cloudflared/config-header.yaml"
+  "service-system/cluster-services/pages/cloudflared/config-header.yaml"
 )
 
 const LABELS = {

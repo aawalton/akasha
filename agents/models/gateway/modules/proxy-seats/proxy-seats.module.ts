@@ -70,7 +70,7 @@ export const proxySeats = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here reaches `akasha/utils-process/pid-signal` for the liveness test.",
+      statement: "Nothing here reaches `utils-process/pid-signal` for the liveness test.",
     },
   ],
 } as const satisfies Module

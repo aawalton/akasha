@@ -12,5 +12,5 @@ export const postgresCnpg = {
     "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1",
   replicas: 2,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

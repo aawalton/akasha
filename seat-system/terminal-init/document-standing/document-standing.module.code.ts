@@ -4,9 +4,9 @@ import { personasStanding } from "@akasha/persona-system/persona-reading"
 
 export const SLUG_MARK = "<slug>"
 
-export const PERSONA_FALLBACK = `akasha/persona-system/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
+export const PERSONA_FALLBACK = `persona-system/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
 
-export const PERSON_FALLBACK = `akasha/person-system/people/pages/${SLUG_MARK}.person.ts`
+export const PERSON_FALLBACK = `person-system/people/pages/${SLUG_MARK}.person.ts`
 
 export interface Named {
   readonly slug: string

@@ -12,5 +12,5 @@ export const smilingjennyWeb = {
   replicas: 1,
   containerPort: 3000,
   manifestCode:
-    "akasha/smilingjenny/smilingjenny-web/smilingjenny-web.cluster-service.code.attachment.ts",
+    "smilingjenny/smilingjenny-web/smilingjenny-web.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

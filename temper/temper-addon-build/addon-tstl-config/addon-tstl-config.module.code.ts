@@ -25,8 +25,8 @@ const CODE_UNDER = `**/*${CODE_SUFFIX}`
 const OWN_DECLARATIONS_UNDER = "**/*.d.ts"
 
 const DECLARATIONS_UNDER = [
-  "akasha/temper/temper-eso-types/**/*.d.ts",
-  "akasha/temper/temper-addon-library-types/**/*.d.ts",
+  "temper/temper-eso-types/**/*.d.ts",
+  "temper/temper-addon-library-types/**/*.d.ts",
 ] as const
 
 const WORKSPACE_MARK = "workspace:"

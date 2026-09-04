@@ -28,13 +28,13 @@ const TIMEZONE_SUCCESS_MESSAGE =
   "No timezone-handling violations in the TypeScript this gate reads. Hour-offset arithmetic is judged only inside the ESO zone-domain paths, and formula strings on pages rows are read by nothing — see this check's header."
 
 const ALLOWLISTED_HELPERS: ReadonlySet<string> = new Set([
-  "akasha/alan/tracking/daily/mountain-times/mountain-times.module.code.ts",
-  "akasha/temper/temper-dungeons/eso-reset/eso-reset.module.code.ts",
+  "alan/tracking/daily/mountain-times/mountain-times.module.code.ts",
+  "temper/temper-dungeons/eso-reset/eso-reset.module.code.ts",
 ])
 
 const ESO_DOMAIN_PREFIXES: readonly string[] = [
-  "akasha/day/",
-  "akasha/recurrence/",
+  "day/",
+  "recurrence/",
   "shared/tasks/",
   "temper/",
 ]

@@ -30,8 +30,8 @@ if (import.meta.main) refuseRetired()
 
 const PREFIX = "[design-tokens]"
 
-const TOKENS_CSS_REL = "akasha/design/system/token-values/token-values.stylesheet.styles.css"
-const TOKENS_PKG_REL = "akasha/design/tokens"
+const TOKENS_CSS_REL = "design/system/token-values/token-values.stylesheet.styles.css"
+const TOKENS_PKG_REL = "design/tokens"
 
 const READ_MODULES: readonly string[] = ["surface-color", "semantic-color", "text-color"]
 

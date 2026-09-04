@@ -11,5 +11,5 @@ export const gitTransport = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifestCode: "akasha/git-transport/git-transport.cluster-service.code.attachment.ts",
+  manifestCode: "git-transport/git-transport.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

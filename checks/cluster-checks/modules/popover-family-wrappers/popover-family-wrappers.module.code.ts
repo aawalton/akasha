@@ -4,7 +4,7 @@ import { requireMatchPositional } from "@akasha/utils-narrow/require-match-posit
 import ts from "typescript"
 import { z } from "zod"
 
-const PRIMITIVES_PACKAGE_DIR = "akasha/design/primitives"
+const PRIMITIVES_PACKAGE_DIR = "design/primitives"
 const PRIMITIVES_PACKAGE_NAME = "@akasha/design-primitives"
 const COMPONENT_ENDING = ".module.code.tsx"
 

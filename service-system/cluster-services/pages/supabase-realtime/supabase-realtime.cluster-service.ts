@@ -12,5 +12,5 @@ export const supabaseRealtime = {
   replicas: 1,
   containerPort: 4000,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

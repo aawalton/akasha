@@ -23,7 +23,7 @@ if (import.meta.main) refuseRetired()
 
 const PREFIX = "[harness-credential-script-text]"
 
-const HARNESS_PREFIX = "akasha/browser/test-harness/"
+const HARNESS_PREFIX = "browser/test-harness/"
 
 function inScope(rel: string): boolean {
   if (rel.endsWith(".d.ts")) return false

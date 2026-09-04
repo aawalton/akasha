@@ -5,7 +5,7 @@ import { z } from "zod"
 // directories are gone: what was left in them — Info.plist, Widget.entitlements —
 // stands beside an akasha ios-program page now.
 export const WIDGET_SOURCE_GLOBS: readonly string[] = [
-  "../akasha/code-system/ios-components/pages/**/*.swift",
+  "../code-system/ios-components/pages/**/*.swift",
 ]
 
 export const WIDGET_SOURCE_GLOB = WIDGET_SOURCE_GLOBS.join(" and ")
@@ -18,7 +18,7 @@ export const SPACING_SWIFT_BASENAME = "spacing.ios-component.swift.swift"
 // check reads — a narrower glob returns fewer files and reports nothing about it.
 export const WIDGET_SEAM_GLOBS: readonly string[] = [
   "../akasha/native-shell/*/scripts/apply-ios-seam.sh",
-  "../akasha/code-system/ios-apps/pages/*/scripts/ios-seam/*.shell-script.shell.sh",
+  "../code-system/ios-apps/pages/*/scripts/ios-seam/*.shell-script.shell.sh",
 ]
 
 export const WIDGET_SEAM_GLOB = WIDGET_SEAM_GLOBS.join(" and ")

@@ -15,26 +15,26 @@ export interface RolePair {
 export const ROLE_PAIRS: readonly RolePair[] = [
   {
     axis: "root-hosts",
-    appFile: "akasha/alan/web/root.tsx",
-    capacitorFile: "akasha/alan/web-capacitor/root.tsx",
+    appFile: "alan/web/root.tsx",
+    capacitorFile: "alan/web-capacitor/root.tsx",
     mode: "jsx-components",
   },
   {
     axis: "provider-graph",
-    appFile: "akasha/alan/web/routes/_app-layout.tsx",
-    capacitorFile: "akasha/alan/web-capacitor/routes/app-layout.tsx",
+    appFile: "alan/web/routes/_app-layout.tsx",
+    capacitorFile: "alan/web-capacitor/routes/app-layout.tsx",
     mode: "jsx-components",
   },
   {
     axis: "routes",
-    appFile: "akasha/alan/web/routes.ts",
-    capacitorFile: "akasha/alan/web-capacitor/routes.ts",
+    appFile: "alan/web/routes.ts",
+    capacitorFile: "alan/web-capacitor/routes.ts",
     mode: "route-paths",
   },
   {
     axis: "render-targets",
-    appFile: "akasha/alan/web/routes/page-detail.tsx",
-    capacitorFile: "akasha/alan/web-capacitor/routes/page-detail.tsx",
+    appFile: "alan/web/routes/page-detail.tsx",
+    capacitorFile: "alan/web-capacitor/routes/page-detail.tsx",
     mode: "jsx-components",
   },
 ]

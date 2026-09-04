@@ -106,7 +106,7 @@ function main(): never {
       header:
         "Cross-boundary contract schema(s) asserted by a .strict() Zod schema that no typecheck compares against its producer, read by a test in a CI-excluded class. The rule: a contract a CI-excluded test asserts is typechecked against the code producing it, so drift fails on a rung CI runs",
       remediationDoc: repoDoc(
-        "akasha/checks/cluster-checks/modules/cli-json-contract-coupling/cli-json-contract-coupling.module.code.ts"
+        "checks/cluster-checks/modules/cli-json-contract-coupling/cli-json-contract-coupling.module.code.ts"
       ),
       successMessage: `OK — ${population.examined.length} CI-excluded test files scanned and ${moduleSchemas.size} imported module(s) opened, no uncoupled contracts.`,
       formatViolation: (violation) =>

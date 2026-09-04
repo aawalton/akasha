@@ -83,7 +83,7 @@ function deploymentYaml(): string {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("akasha/alan/atlas-web"),
+              workingDir: orchestratorCacheEntrypointPath("alan/atlas-web"),
               command: ["bun", "run", "start"],
               ports: [{ containerPort: 3000, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],

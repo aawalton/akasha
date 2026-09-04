@@ -5,7 +5,7 @@ import { partAt } from "@akasha/pages-system/page-file-parts"
 import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
 import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
 
-const MINE_PAGE = "akasha/temper/temper-character/mines/pages/eso/eso.temper-mine.ts"
+const MINE_PAGE = "temper/temper-character/mines/pages/eso/eso.temper-mine.ts"
 
 const ITEMS = "items"
 

@@ -11,7 +11,7 @@ export const loki = {
   image: "grafana/loki:3.1.0",
   replicas: 1,
   containerPort: 3100,
-  manifestCode: "akasha/infrastructure/loki-service/loki/loki.cluster-service.code.attachment.ts",
+  manifestCode: "infrastructure/loki-service/loki/loki.cluster-service.code.attachment.ts",
   invariants: [
     {
       invariantKind: "departure",

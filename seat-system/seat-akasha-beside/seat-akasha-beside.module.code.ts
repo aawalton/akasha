@@ -60,7 +60,7 @@ export const RECORDS: Readonly<Record<string, string>> = {
 
 const PAGE_TYPE = "seat"
 
-const SEAT_DIR = "akasha/seat-system/seats/pages/"
+const SEAT_DIR = "seat-system/seats/pages/"
 
 export function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)

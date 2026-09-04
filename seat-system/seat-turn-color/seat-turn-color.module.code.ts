@@ -14,7 +14,7 @@ import type { SeatTurnState } from "../seat-turn-state/seat-turn-state.module.co
  * from one long-lived process and a color rewritten under it is the color it must next answer.
  */
 
-const PAGES_AT = "akasha/seat-system/seat-turn-states/pages"
+const PAGES_AT = "seat-system/seat-turn-states/pages"
 
 const PAGE_SUFFIX = ".seat-turn-state.ts"
 

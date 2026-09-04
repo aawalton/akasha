@@ -27,7 +27,7 @@ export default workflow("grafana", {
       ...applyRbac({
         name: "grafana-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/grafana-rbac/grafana-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/grafana-rbac/grafana-rbac.module.code.ts",
       }),
       dependsOn: ["grafana-apply-namespace"],
     },
@@ -44,7 +44,7 @@ export default workflow("grafana", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/grafana/grafana.k8s-secret.sops.yaml)`,
+          `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/grafana/grafana.k8s-secret.sops.yaml)`,
           `echo "$DECRYPTED" | kubectl apply --dry-run=client -n grafana -f -`,
           `echo "$DECRYPTED" | kubectl apply -n grafana -f -`,
         ],
@@ -93,7 +93,7 @@ export default workflow("grafana", {
           }),
           ...checksumHashCommands({
             variable: "SECRET_HASH",
-            read: `sops -d ${ci.workspace}/akasha/service-system/cluster-services/pages/grafana/grafana.k8s-secret.sops.yaml`,
+            read: `sops -d ${ci.workspace}/service-system/cluster-services/pages/grafana/grafana.k8s-secret.sops.yaml`,
             subject: "grafana.k8s-secret.sops.yaml",
           }),
           'sed "s|checksum/config:.*|checksum/config: \\"${GRAFANA_HASH}\\"|" infra/k8s/src/grafana/generated/deployment.generated.yaml \\',

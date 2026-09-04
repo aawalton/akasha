@@ -11,5 +11,5 @@ export const nodeExporterDaemonset = {
   image: "prom/node-exporter:v1.8.2",
   containerPort: 9100,
   manifestCode:
-    "akasha/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts",
+    "service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

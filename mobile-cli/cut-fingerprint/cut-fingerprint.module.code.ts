@@ -11,7 +11,7 @@ export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
 export const CUT_WRITER = "akasha deploy"
 
 /** Every `mobile-cut` page stands in a folder of its own beneath this one, inside akasha. */
-export const CUTS_FOLDER = "akasha/mobile-cli/mobile-cuts/pages"
+export const CUTS_FOLDER = "mobile-cli/mobile-cuts/pages"
 
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
 

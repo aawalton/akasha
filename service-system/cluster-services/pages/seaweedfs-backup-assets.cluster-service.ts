@@ -11,5 +11,5 @@ export const seaweedfsBackupAssets = {
   image: "rclone/rclone:1.74.3",
   schedule: "5 5 * * *",
   manifestCode:
-    "akasha/infrastructure/seaweedfs/backup-assets/seaweedfs-backup-assets.cluster-service.code.attachment.ts",
+    "infrastructure/seaweedfs/backup-assets/seaweedfs-backup-assets.cluster-service.code.attachment.ts",
 } as const satisfies ClusterService

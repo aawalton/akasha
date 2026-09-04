@@ -22,9 +22,9 @@ export function opsPath(): string {
   return path.join(akashaRoot(), "dotfiles", "bin", "ops")
 }
 
-const COMMANDS_AT = "akasha/command-system/commands"
+const COMMANDS_AT = "command-system/commands"
 
-const SERVER_AT = "akasha/command-system/command-server/command-server.module.code.ts"
+const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
 
 export function commandPath(command: string): string {
   return path.join(akashaRoot(), COMMANDS_AT, command, `${command}.command.code.ts`)

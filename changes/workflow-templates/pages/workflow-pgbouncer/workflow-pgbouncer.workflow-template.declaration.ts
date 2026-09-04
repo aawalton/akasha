@@ -27,7 +27,7 @@ export default workflow("pgbouncer", {
       ...applyRbac({
         name: "pgbouncer-apply-rbac",
         rbacFile:
-          "akasha/infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
+          "infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -37,7 +37,7 @@ export default workflow("pgbouncer", {
         name: "pgbouncer-apply-tls",
         namespace: "pgbouncer",
         secretFile:
-          "akasha/service-system/cluster-services/pages/pgbouncer/tls.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/pgbouncer/tls.k8s-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -47,7 +47,7 @@ export default workflow("pgbouncer", {
         name: "pgbouncer-apply-auth",
         namespace: "pgbouncer",
         secretFile:
-          "akasha/service-system/cluster-services/pages/pgbouncer/auth.k8s-secret.sops.yaml",
+          "service-system/cluster-services/pages/pgbouncer/auth.k8s-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
