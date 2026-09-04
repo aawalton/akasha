@@ -119,11 +119,11 @@ test("the supervisor is reached through the pty proxy", () => {
   expect(supervisorEntryArgv(ROOT)).toEqual([
     "bun",
     "run",
-    "/repos/akasha/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
+    "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
     "--",
     "bun",
     "run",
-    "/repos/akasha/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
+    "/repos/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
   ])
 })
 
@@ -155,11 +155,11 @@ test("a supervisor command line carries the agent id and the account", () => {
   expect(supervisorArgv(ROOT, asked())).toEqual([
     "bun",
     "run",
-    "/repos/akasha/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
+    "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
     "--",
     "bun",
     "run",
-    "/repos/akasha/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
+    "/repos/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
     "--agent-id",
     "athena-a2de5a24130090204",
     "-a",
@@ -270,11 +270,11 @@ test("the whole launch is composed from the seat alone", () => {
     "AGENT_ID=athena-a2de5a24130090204",
     "bun",
     "run",
-    "/repos/akasha/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
+    "/repos/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts",
     "--",
     "bun",
     "run",
-    "/repos/akasha/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
+    "/repos/akasha/seat-system/run-supervisor/run-supervisor.module.code.ts",
     "--headless",
     "--agent-id",
     "athena-a2de5a24130090204",
