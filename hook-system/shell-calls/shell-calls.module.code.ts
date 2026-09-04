@@ -4,7 +4,7 @@ const DOUBLE_QUOTED = /"([^"]*)"/g
 
 const BARE_WORD = /^[^\s|;&<>()`$]+$/
 
-const SEPARATOR = /[|;&]{1,2}/g
+const SEPARATOR = /(?<!>)[|;&]{1,2}(?!>)/g
 
 const LEADING_SPACE = /^\s+/
 

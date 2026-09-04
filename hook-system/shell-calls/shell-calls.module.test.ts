@@ -49,6 +49,19 @@ test("a separator cuts one line into segments", () => {
   expect(segmentsOf("cd one && git reset --hard")).toEqual(["cd one ", "git reset --hard"])
 })
 
+test("a descriptor duplicated onto another cuts nothing", () => {
+  expect(segmentsOf("cp one two 2>&1")).toEqual(["cp one two 2>&1"])
+  expect(segmentsOf("cp one two >&2")).toEqual(["cp one two >&2"])
+})
+
+test("a descriptor duplicated onto another still cuts at the pipe after it", () => {
+  expect(segmentsOf("cp one two 2>&1 | head -3")).toEqual(["cp one two 2>&1 ", "head -3"])
+})
+
+test("both descriptors sent to one file cuts nothing", () => {
+  expect(segmentsOf("cp one two &>log")).toEqual(["cp one two &>log"])
+})
+
 test("leading space on a segment is taken off", () => {
   expect(segmentsOf("   git stash")).toEqual(["git stash"])
 })
