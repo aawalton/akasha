@@ -6,7 +6,7 @@ import type { PropertyDefinition } from "../page-type-config/page-type-config.mo
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
   const canonical = camelizeKey(key)
-  return definitions.find((one) => one.id === canonical)?.key ?? kebabizeKey(key)
+  return definitions.some((one) => one.id === canonical) ? canonical : kebabizeKey(key)
 }
 
 export function fieldFor(key: string, definitions: readonly PropertyDefinition[]): string {
