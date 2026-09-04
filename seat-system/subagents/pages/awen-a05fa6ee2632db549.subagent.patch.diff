@@ -1,5 +1,5 @@
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
-index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..4e6f8211940ef89e67e2c7a57f1d2aa4bf3a6637 100644
+index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..4aceb2cfcb70ac67a723239e28457f655b4c970e 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
 +++ b/checks/modules/change-walking/change-walking.module.code.ts
 @@ -8,7 +8,7 @@ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
@@ -20,6 +20,18 @@ index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..4e6f8211940ef89e67e2c7a57f1d2aa4
  
  const TS = "ts"
  
+@@ -152,8 +152,9 @@ export function judgingEach<T extends { readonly path: string }>(
+   return Object.assign(run, stated)
+ }
+ 
+-export function input<T>(selector: Selector<T>, run: Running): Bounded {
+-  const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
++export function input<T>(selector: Selector<T>, run: AnyRunning): Bounded {
++  const bound = (change: Change, shadow: Shadow): readonly Judged[] | Promise<readonly Judged[]> =>
++    run(change, shadow)
+   const stated: Stated = { isInput: selector.isInput }
+   return Object.assign(bound, stated)
+ }
 diff --git a/checks/modules/judging/judging.module.code.ts b/checks/modules/judging/judging.module.code.ts
 index 36d65a989a5d546f8bbc16b5a4feadd8a04fa2d1..a63ca082e6ad73dd079f3f6f8e8c00f710eb70de 100644
 --- a/checks/modules/judging/judging.module.code.ts
