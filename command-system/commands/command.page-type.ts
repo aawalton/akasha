@@ -60,6 +60,7 @@ export const command = {
     "command/move",
     "command/page-tree",
     "command/patch",
+    "command/push",
     "command/read",
     "command/refactor",
     "command/remove",
