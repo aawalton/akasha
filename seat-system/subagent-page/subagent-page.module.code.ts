@@ -11,10 +11,10 @@ const KIND = "dispatchedAs"
 
 const UNSTATED = "unstated"
 
-export function removeSubagentPagesOf(seat: string, why: string): Outcome {
+export async function removeSubagentPagesOf(seat: string, why: string): Promise<Outcome> {
   const seatName = seatNameForAgent(seat)
   if (seatName === null) return { kind: "unchanged" }
-  return removeAkashaSubagentPagesOf(seatName, why)
+  return await removeAkashaSubagentPagesOf(seatName, why)
 }
 
 function namedAt(absolute: string): string {
