@@ -6,6 +6,8 @@ import { writerIn } from "../reading/reading.module.code.ts"
 
 const PERSONA_SLUG_KEY = "persona-slug"
 
+const PERSONA_SLUG_PROPERTY = "seat-persona-slug"
+
 export const CLAUDE_AUTHOR = "Claude <noreply@anthropic.com>"
 
 // THE PERSONA A COMMIT IS AUTHORED AS IS READ FROM AKASHA. This opened the seat's old page and took
@@ -42,7 +44,7 @@ export function personaAuthor(persona: string): string | null {
 // is.
 function defaultPersona(): string | null {
   for (const one of seat.properties) {
-    if (one.pagePropertySlug !== PERSONA_SLUG_KEY) continue
+    if (one.pagePropertySlug !== PERSONA_SLUG_PROPERTY) continue
     const value: unknown = "default" in one ? one.default : undefined
     return typeof value === "string" ? value : null
   }
