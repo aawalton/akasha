@@ -1,7 +1,8 @@
-import { existsSync } from "node:fs"
+import { existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Holder } from "@akasha/file-system/lock-holder"
 import { alive } from "@akasha/file-system/lock-holder"
+import { told } from "@akasha/git/git-running"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
@@ -98,11 +99,16 @@ async function stoppedBy(given: Given, rest: readonly string[]): Promise<Answer>
     )
   }
   const page = seatPathForName(name)
-  if (!existsSync(join(given.root, page))) {
-    return refused(
-      `no seat named \`${name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
-      2
-    )
+  const at = join(given.root, page)
+  if (!existsSync(at)) {
+    const held = told(given.root, ["show", `HEAD:${page}`])
+    if (held === null) {
+      return refused(
+        `no seat named \`${name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
+        2
+      )
+    }
+    writeFileSync(at, held)
   }
   const value = valueAt(page, given.root)
   const agentId = value === null ? null : textAt(value, ID)
