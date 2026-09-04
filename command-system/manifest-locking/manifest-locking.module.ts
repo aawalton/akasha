@@ -88,6 +88,27 @@ export const manifestLocking = {
         "A lockfile the install makes again says the commit carries one its manifests do not warrant.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "An install takes away a link under `node_modules` reaching a folder no manifest names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link under a scope folder is reached as one directly under `node_modules` is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link reaching a folder that is there is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder under `node_modules` that is no link is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What an install took away is said alongside the install.",
+    },
+    {
       invariantKind: "gap",
       statement: "A landing whose lockfile could not be made is answered for by the audit.",
     },

@@ -41,6 +41,14 @@ export const remove = {
     },
     {
       invariantKind: "departure",
+      statement: "A link reaching nothing is a path that is there rather than one already gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link is taken away rather than what the link reaches.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A removal forgets every agent's reading of every path the removal takes.",
     },
     {
