@@ -123,7 +123,7 @@ export function salePageValues(userId: string, action: SaleUpsert): Record<strin
     accountPage: userId,
     saleId: action.saleId,
     title: action.itemName,
-    itemName: action.itemName,
+    name: action.itemName,
     salePrice: action.salePrice,
     tax: action.tax,
     netPayout: action.netPayout,

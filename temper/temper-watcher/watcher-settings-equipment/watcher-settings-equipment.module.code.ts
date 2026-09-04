@@ -96,7 +96,7 @@ async function readCharacterRows(userId: string, reader: PageReader): Promise<Ch
     if (esoCharacterId === undefined) continue
     named.push({
       esoCharacterId,
-      sortOrder: countOf(row.sortOrder),
+      sortOrder: countOf(row.displayOrder),
       targetBuildId: textOf(row.targetBuildId),
       liveBuildId: textOf(row.liveBuildId),
     })
@@ -117,7 +117,7 @@ async function readCompanionRows(userId: string, reader: PageReader): Promise<Co
     if (companionId === undefined) continue
     named.push({
       companionId,
-      sortOrder: countOf(row.sortOrder),
+      sortOrder: countOf(row.displayOrder),
       targetBuildId: textOf(row.targetBuildId),
     })
   }

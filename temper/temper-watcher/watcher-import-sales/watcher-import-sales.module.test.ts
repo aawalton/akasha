@@ -193,7 +193,7 @@ test("a sale missing every optional field is written without those keys", () => 
     accountPage: "user-1",
     saleId: "bare",
     title: "",
-    itemName: "",
+    name: "",
     salePrice: 0,
     tax: 0,
     netPayout: 0,

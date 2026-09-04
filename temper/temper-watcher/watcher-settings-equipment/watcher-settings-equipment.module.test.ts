@@ -20,21 +20,21 @@ const ROWS: Record<string, PageValues[]> = {
     {
       esoCharacterId: "char-late",
       accountPage: "u1",
-      sortOrder: 5,
+      displayOrder: 5,
       targetBuildId: "b1",
       liveBuildId: "b2",
     },
-    { esoCharacterId: "char-early", accountPage: "u1", sortOrder: 1, targetBuildId: "b1" },
+    { esoCharacterId: "char-early", accountPage: "u1", displayOrder: 1, targetBuildId: "b1" },
     { esoCharacterId: "char-unsorted", accountPage: "u1", targetBuildId: "missing-build" },
-    { esoCharacterId: 42, accountPage: "u1", sortOrder: 0 },
+    { esoCharacterId: 42, accountPage: "u1", displayOrder: 0 },
   ],
   [CHARACTER_BUILD_PAGE_TYPE_SLUG]: [
     { id: "b1", buildHash: CHARACTER_BUILD_HASH },
     { id: "b2", buildHash: "not-a-real-hash" },
   ],
   [COMPANION_PAGE_TYPE_SLUG]: [
-    { companionId: "bastian", accountPage: "u1", sortOrder: 2, targetBuildId: "cb1" },
-    { companionId: "mirri", accountPage: "u1", sortOrder: 1, targetBuildId: "cb-missing" },
+    { companionId: "bastian", accountPage: "u1", displayOrder: 2, targetBuildId: "cb1" },
+    { companionId: "mirri", accountPage: "u1", displayOrder: 1, targetBuildId: "cb-missing" },
   ],
   [COMPANION_BUILD_PAGE_TYPE_SLUG]: [{ id: "cb1", buildHash: COMPANION_BUILD_HASH }],
 }

@@ -72,7 +72,7 @@ test("stored counts higher than the incoming ones reach the pages unlowered", as
   const it = seat({
     "temper-account": [{ id: "acc1", title: "user-1", completion: { skillPointsSpent: 99 } }],
     "temper-account-character": [
-      { id: "ch1", esoCharacterId: "111", sortOrder: 7, completion: { questsDone: 9 } },
+      { id: "ch1", esoCharacterId: "111", displayOrder: 7, completion: { questsDone: 9 } },
     ],
     "temper-companion-progress": [
       { id: "co1", companionId: "bastian", completion: { rapport: 8 } },
@@ -80,19 +80,19 @@ test("stored counts higher than the incoming ones reach the pages unlowered", as
   })
   await runImportCompletion(WITH_STORED, it.deps)
   expect(sets(it.writes)).toEqual([
-    '{"userId":"user-1","title":"user-1","completion":"{\\"skillPointsSpent\\":99}"}',
-    '{"userId":"user-1","accountPage":"user-1","esoCharacterId":"111","title":"Vex","completion":"{\\"questsDone\\":9}"}',
-    '{"userId":"user-1","accountPage":"user-1","companionId":"bastian","completion":"{\\"rapport\\":8}"}',
+    '{"title":"user-1","completion":"{\\"skillPointsSpent\\":99}"}',
+    '{"accountPage":"user-1","esoCharacterId":"111","title":"Vex","completion":"{\\"questsDone\\":9}"}',
+    '{"accountPage":"user-1","companionId":"bastian","completion":"{\\"rapport\\":8}"}',
   ])
 })
 
 test("a character page already carrying an order keeps that order", async () => {
   const it = seat({
-    "temper-account-character": [{ id: "ch1", esoCharacterId: "111", sortOrder: 7 }],
+    "temper-account-character": [{ id: "ch1", esoCharacterId: "111", displayOrder: 7 }],
   })
   await runImportCompletion(CHARACTERS_ONLY, it.deps)
   expect(sets(it.writes)[1]).toBe(
-    '{"userId":"user-1","accountPage":"user-1","esoCharacterId":"111","title":"Vex","completion":"{\\"questsDone\\":5}"}'
+    '{"accountPage":"user-1","esoCharacterId":"111","title":"Vex","completion":"{\\"questsDone\\":5}"}'
   )
 })
 
@@ -100,8 +100,8 @@ test("a character page carrying no order takes the order the addon wrote", async
   const it = seat()
   await runImportCompletion(CHARACTERS_ONLY, it.deps)
   expect(sets(it.writes)).toEqual([
-    '{"userId":"user-1","title":"user-1"}',
-    '{"userId":"user-1","accountPage":"user-1","esoCharacterId":"111","title":"Vex","sortOrder":2,"completion":"{\\"questsDone\\":5}"}',
+    '{"title":"user-1"}',
+    '{"accountPage":"user-1","esoCharacterId":"111","title":"Vex","displayOrder":2,"completion":"{\\"questsDone\\":5}"}',
   ])
 })
 
@@ -117,7 +117,7 @@ test("account, then characters, then companions is the order the pages are read 
     },
     {
       pageTypeSlug: "temper-account-character",
-      select: ["id", "title", "esoCharacterId", "sortOrder", "completion"],
+      select: ["id", "title", "esoCharacterId", "displayOrder", "completion"],
       limit: 1000,
     },
     {
@@ -153,7 +153,7 @@ test("the caller may hand in what names the signed-in user", async () => {
     signedInUserId: async () => "user-2",
   })
   expect(outcome.accountPageId).toBe("page-temper-account")
-  expect(sets(it.writes)[0]).toBe('{"userId":"user-2","title":"user-2"}')
+  expect(sets(it.writes)[0]).toBe('{"title":"user-2"}')
 })
 
 test("every merge that held a field back names its subject in the outcome", async () => {

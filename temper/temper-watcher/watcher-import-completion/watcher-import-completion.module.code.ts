@@ -162,7 +162,6 @@ export async function runImportCompletion(
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
     where: [{ key: "title", eq: userId }],
     set: {
-      userId,
       title: userId,
       ...(mergedAccount === undefined ? {} : { completion: JSON.stringify(mergedAccount) }),
     },
@@ -179,7 +178,7 @@ export async function runImportCompletion(
   report("--- Characters ---")
   const characterRead = await read({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
-    select: ["id", "title", "esoCharacterId", "sortOrder", "completion"],
+    select: ["id", "title", "esoCharacterId", "displayOrder", "completion"],
     limit: CHILD_ROW_LIMIT,
   })
   const sortOrderAlreadySet = new Set<string>()
@@ -188,7 +187,7 @@ export async function runImportCompletion(
     const attributes = asRecord(row) ?? {}
     const esoCharacterId = attributes.esoCharacterId
     if (typeof esoCharacterId !== "string") continue
-    if (typeof attributes.sortOrder === "number") sortOrderAlreadySet.add(esoCharacterId)
+    if (typeof attributes.displayOrder === "number") sortOrderAlreadySet.add(esoCharacterId)
     const stored = storedCompletion<CharacterCompletion>(attributes)
     if (stored !== undefined) storedByEsoCharacterId.set(esoCharacterId, stored)
   }
@@ -205,12 +204,11 @@ export async function runImportCompletion(
       pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
       where: [{ key: "esoCharacterId", eq: esoCharacterId }],
       set: {
-        userId,
         accountPage: userId,
         esoCharacterId,
         title: name,
         ...(priorityOrder !== undefined && !sortOrderAlreadySet.has(esoCharacterId)
-          ? { sortOrder: priorityOrder }
+          ? { displayOrder: priorityOrder }
           : {}),
         completion: JSON.stringify(merged),
       },
@@ -257,7 +255,6 @@ export async function runImportCompletion(
       pageTypeSlug: COMPANION_PAGE_TYPE_SLUG,
       where: [{ key: "companionId", eq: companionId }],
       set: {
-        userId,
         accountPage: userId,
         companionId,
         completion: JSON.stringify(merged),
