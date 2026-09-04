@@ -141,7 +141,8 @@ export const clusterCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster check states the image it runs in only where the default will not do.",
+      statement:
+        "A cluster check states the image the check runs in only where the default will not do.",
     },
     {
       invariantKind: "gap",
@@ -150,19 +151,6 @@ export const clusterCheck = {
     {
       invariantKind: "gap",
       statement: "The dispatch a cluster check states is what wakes that check.",
-    },
-  ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Counted Or Held",
-      act: "State a least count for a check's subject and what it rests on, or hold the check.",
-      warrant:
-        "A subject that empties reads exactly like a clean repo, and nothing reports the difference.",
-      aids: [
-        "What it rests on, a later hand must keep true.",
-        "A check cannot see what it should have matched.",
-      ],
     },
   ],
 } as const satisfies PageType
