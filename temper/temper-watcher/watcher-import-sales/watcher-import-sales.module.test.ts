@@ -189,7 +189,6 @@ test("a sale missing every optional field is written without those keys", () => 
     netPayout: 0,
   }
   expect(salePageValues("user-1", action)).toEqual({
-    userId: "user-1",
     slug: "sale-bare",
     accountPage: "user-1",
     saleId: "bare",
@@ -269,7 +268,7 @@ test("the caller's user id is taken over the one the session would answer", asyn
     actions: [{ saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 }],
   }
   await writeSaleImportPlan(plan, SIGNED_OUT, { userId: "stated-user", upsert })
-  expect(calls[1]?.set).toMatchObject({ accountPage: "stated-user", userId: "stated-user" })
+  expect(calls[1]?.set).toMatchObject({ accountPage: "stated-user" })
 })
 
 test("the run reports how many sales the capture held", async () => {

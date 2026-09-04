@@ -155,7 +155,7 @@ async function writeCompanionProgressPages(userId: string, upsert: PageUpsert): 
         { key: "accountPage", eq: userId },
         { key: "companionId", eq: companionId },
       ],
-      set: { userId, accountPage: userId, companionId },
+      set: { accountPage: userId, companionId },
       select: ["id"],
     })
   }

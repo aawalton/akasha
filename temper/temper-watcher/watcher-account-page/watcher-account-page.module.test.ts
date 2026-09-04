@@ -18,7 +18,7 @@ test("an account page is found by its title and made where absent", async () => 
     {
       pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
       where: [{ key: "title", eq: "@alan" }],
-      set: { userId: "@alan", title: "@alan" },
+      set: { title: "@alan" },
       select: ["id"],
     },
   ])

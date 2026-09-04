@@ -232,7 +232,7 @@ test("the account page is upserted before any character page", async () => {
     {
       pageTypeSlug: "temper-account",
       where: [{ key: "title", eq: "@alan" }],
-      set: { userId: "@alan", title: "@alan" },
+      set: { title: "@alan" },
       select: ["id"],
     },
     {
@@ -242,7 +242,6 @@ test("the account page is upserted before any character page", async () => {
         { key: "esoCharacterId", eq: "12345" },
       ],
       set: {
-        userId: "@alan",
         accountPage: "@alan",
         esoCharacterId: "12345",
         title: "Shalidor",

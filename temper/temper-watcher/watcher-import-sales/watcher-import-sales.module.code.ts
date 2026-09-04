@@ -119,7 +119,6 @@ export function saleSoldAtIso(soldAt: number): string {
 
 export function salePageValues(userId: string, action: SaleUpsert): Record<string, Json> {
   return {
-    userId,
     slug: saleSlug(action.saleId),
     accountPage: userId,
     saleId: action.saleId,

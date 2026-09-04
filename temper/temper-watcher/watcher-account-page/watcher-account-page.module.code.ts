@@ -11,7 +11,7 @@ export async function resolveAccountPageId(
   const row = await upsert({
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
     where: [{ key: "title", eq: userId }],
-    set: { userId, title: userId },
+    set: { title: userId },
     select: ["id"],
   })
   const id = row.id

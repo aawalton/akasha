@@ -186,7 +186,6 @@ export async function executeCharacterImportPlan(
         { key: "esoCharacterId", eq: action.esoCharacterId },
       ],
       set: {
-        userId,
         accountPage: userId,
         esoCharacterId: action.esoCharacterId,
         title: action.characterName,
