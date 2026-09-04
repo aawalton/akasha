@@ -16,6 +16,19 @@ index 4b9d65495ef316e562812733668e4fd7fde86b5a..7b1f2e253d574a6932c4fe5dff5601d4
    if (wrote.kind === "refused") {
      throw new Error(`${SAID} nothing is waiting for \`${HANDLER}\`: ${wrote.detail}`)
    }
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts
+index 0f3191991a984d4b232f17389d83d98f26abadae..335644c691fe0d4bcbdb939d0498426eb7c7f3b4 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts
+@@ -18,7 +18,7 @@ function sendOne(one: Standing): string | null {
+   return null
+ }
+ 
+-function main(): number {
++async function main(): Promise<number> {
+   const root = akashaRoot()
+   const now = Date.now()
+   const held: string[] = []
 diff --git a/rule-population/rule-population-reading/rule-population-reading.module.code.ts b/rule-population/rule-population-reading/rule-population-reading.module.code.ts
 index b77a80f874d996b205a7f98d9e79affc901a6265..97d4232ad54aac4b4fb5fd7cb7718bbe71844651 100644
 --- a/rule-population/rule-population-reading/rule-population-reading.module.code.ts
