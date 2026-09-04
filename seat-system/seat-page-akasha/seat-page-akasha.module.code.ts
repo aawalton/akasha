@@ -46,17 +46,21 @@ function outcomeOf(said: Stating): Outcome {
   return said
 }
 
-export function writeAkashaSeatPage(
+export async function writeAkashaSeatPage(
   stated: Stated,
   seatName: string,
   roots: Roots,
   parentName: string | null = null
-): Outcome {
+): Promise<Outcome> {
   const root = rootFor(roots, AKASHA)
-  return outcomeOf(statedSeat(root, seatStatedFrom(stated, parentName), seatName))
+  return outcomeOf(await statedSeat(root, seatStatedFrom(stated, parentName), seatName))
 }
 
-export function removeAkashaSeatPage(seatName: string, roots: Roots, stopReason: string): Outcome {
+export async function removeAkashaSeatPage(
+  seatName: string,
+  roots: Roots,
+  stopReason: string
+): Promise<Outcome> {
   const root = rootFor(roots, AKASHA)
-  return outcomeOf(tookSeat(root, seatName, stopReason))
+  return outcomeOf(await tookSeat(root, seatName, stopReason))
 }

@@ -255,7 +255,7 @@ export async function run(argv: readonly string[]): Promise<void> {
       principal,
       registration: args.registration,
     }
-    const page = writeSeatPage(statedNow(agent, standing, said), seatName, args.parentName)
+    const page = await writeSeatPage(statedNow(agent, standing, said), seatName, args.parentName)
     if (page.kind === "refused") {
       stop([
         `${akashaSeatRelPath(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,

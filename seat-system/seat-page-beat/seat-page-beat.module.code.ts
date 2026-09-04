@@ -49,12 +49,12 @@ export function statedForPage(
   return running === null ? stood : { ...stood, session: running }
 }
 
-export function beat(argv: readonly string[]): BeatReport {
+export async function beat(argv: readonly string[]): Promise<BeatReport> {
   const agentId = valueOf(argv, "--agent")
   if (agentId === null) fail("--agent names the seat this writes for")
 
   const stopReason = valueOf(argv, "--remove")
-  if (stopReason !== null) return { outcome: removeSeatPage(agentId, stopReason), seat: null }
+  if (stopReason !== null) return { outcome: await removeSeatPage(agentId, stopReason), seat: null }
 
   const roots = resolveRoots()
   const seat = composedNameOf(agentId) ?? nameFromHistory(agentId, roots)
@@ -72,7 +72,7 @@ export function beat(argv: readonly string[]): BeatReport {
     const running = sessionRecordOf(sessionId)
     if (running === null) return { outcome: { kind: "unchanged" }, seat }
     keepSession(agentId, running.value)
-    return { outcome: writeSeatPage({ ...statedOf(agentId), session: running }, seat), seat }
+    return { outcome: await writeSeatPage({ ...statedOf(agentId), session: running }, seat), seat }
   }
 
   const transcriptPath = valueOf(argv, "--transcript")
@@ -80,12 +80,15 @@ export function beat(argv: readonly string[]): BeatReport {
     const watching = transcriptRecordOf(transcriptPath)
     if (watching === null) return { outcome: { kind: "unchanged" }, seat }
     keepTranscript(agentId, watching.value)
-    return { outcome: writeSeatPage({ ...statedOf(agentId), transcript: watching }, seat), seat }
+    return {
+      outcome: await writeSeatPage({ ...statedOf(agentId), transcript: watching }, seat),
+      seat,
+    }
   }
 
   if (argv.includes("--clear-rotation")) {
     if (rotatedOf(agentId) === null) return { outcome: { kind: "unchanged" }, seat }
-    return { outcome: writeSeatPage({ ...statedOf(agentId), rotated: null }, seat), seat }
+    return { outcome: await writeSeatPage({ ...statedOf(agentId), rotated: null }, seat), seat }
   }
 
   const stated = fallBackToHistory(
@@ -98,15 +101,15 @@ export function beat(argv: readonly string[]): BeatReport {
     seat,
     roots
   )
-  const outcome = writeSeatPage(stated, seat)
+  const outcome = await writeSeatPage(stated, seat)
   if (outcome.kind !== "unstated") return { outcome, seat }
   const above = parentFromHistory(agentId, roots)
   if (above === null) return { outcome, seat }
-  return { outcome: writeSeatPage(stated, seat, above), seat }
+  return { outcome: await writeSeatPage(stated, seat, above), seat }
 }
 
 if (import.meta.main) {
-  const report = beat(process.argv.slice(2))
+  const report = await beat(process.argv.slice(2))
   process.stdout.write(`${JSON.stringify(report)}\n`)
   if (report.outcome.kind === "refused") process.exitCode = 1
 }

@@ -75,7 +75,7 @@ export async function stopSeat(input: StopSeatInput): Promise<SeatStopped> {
   switch (target.kind) {
     case "signal": {
       const outcome = await ending(target.pids)
-      if (outcome.allGone) removeSeatPage(agentId, `${saying.took} reached it`)
+      if (outcome.allGone) await removeSeatPage(agentId, `${saying.took} reached it`)
       return {
         agentId,
         name,
@@ -86,7 +86,7 @@ export async function stopSeat(input: StopSeatInput): Promise<SeatStopped> {
     }
     case "session": {
       const ended = await killSeatSession(target.name)
-      removeSeatPage(
+      await removeSeatPage(
         agentId,
         ended ? `${saying.took} ended its session` : "no session stood for it"
       )
@@ -99,7 +99,7 @@ export async function stopSeat(input: StopSeatInput): Promise<SeatStopped> {
       }
     }
     case "reconcile":
-      removeSeatPage(agentId, "no live supervisor stood for it")
+      await removeSeatPage(agentId, "no live supervisor stood for it")
       return { agentId, name, pid: null, signaled: false, status: "reconciled" }
   }
 }
