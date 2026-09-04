@@ -29,3 +29,32 @@ index 8be318803cf22d2d9f2fcb287b9a7ff704f0f93d..9d7018099c021f30c35fd38dd7dd9211
 -  return outcomeOf(tookSeat(root, seatName, stopReason))
 +  return outcomeOf(await tookSeat(root, seatName, stopReason))
  }
+diff --git a/seat-system/seat-page-writing/seat-page-writing.module.code.ts b/seat-system/seat-page-writing/seat-page-writing.module.code.ts
+index 7efa09ff99f4b2701bf624c764f1e9969e01d106..fb8beadd8951f38668e81ea007bd5e82bce69bed 100644
+--- a/seat-system/seat-page-writing/seat-page-writing.module.code.ts
++++ b/seat-system/seat-page-writing/seat-page-writing.module.code.ts
+@@ -7,19 +7,19 @@ import {
+ } from "../seat-page-akasha/seat-page-akasha.module.code.ts"
+ import type { Stated } from "../seat-stated/seat-stated.module.code.ts"
+ 
+-export function writeSeatPage(
++export async function writeSeatPage(
+   stated: Stated,
+   seatName: string,
+   parentName: string | null = null
+-): Outcome {
+-  return writeAkashaSeatPage(stated, seatName, resolveRoots(), parentName)
++): Promise<Outcome> {
++  return await writeAkashaSeatPage(stated, seatName, resolveRoots(), parentName)
+ }
+ 
+-export function removeSeatPage(agent: string, stopReason: string): Outcome {
++export async function removeSeatPage(agent: string, stopReason: string): Promise<Outcome> {
+   const seatName = akashaSeatSlugOf(agent)
+   if (seatName === null) return { kind: "unchanged" }
+   try {
+-    return removeAkashaSeatPage(seatName, resolveRoots(), stopReason)
++    return await removeAkashaSeatPage(seatName, resolveRoots(), stopReason)
+   } catch (thrown) {
+     const detail = thrown instanceof Error ? thrown.message : String(thrown)
+     process.stderr.write(`${seatName}'s page in akasha stands: ${detail}\n`)
