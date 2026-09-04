@@ -9,11 +9,14 @@ import { readingIn } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { valueAt } from "@akasha/pages-system/page-value"
 import type { ProxyAdoptionRuleSource } from "@akasha/seat-system/supervisor-proxy-adoption-rule"
-import { reportOAuthRecovered, reportTerminalOAuthError } from "@tools/lib/agent-health-write"
 import {
   isAccountTerminal,
   markAccountTerminal,
 } from "../account-terminal/account-terminal.module.code.ts"
+import {
+  reportOAuthRecovered,
+  reportTerminalOAuthError,
+} from "../oauth-health-lines/oauth-health-lines.module.code.ts"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import {

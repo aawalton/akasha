@@ -32,5 +32,6 @@ export const serviceSystem = {
     "module/dev-server-recording",
     "module/dev-server-env-writing",
     "module/dev-server-worktree",
+    "module/change-branch-worktree",
   ],
 } as const satisfies WorkspacePackage

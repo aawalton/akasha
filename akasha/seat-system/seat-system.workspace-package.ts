@@ -162,6 +162,7 @@ export const seatSystem = {
     "module/supervisor-clear-rebind-wire",
     "module/supervisor-config",
     "module/supervisor-console",
+    "module/oauth-health-lines",
     "module/supervisor-credentials",
     "module/supervisor-decide",
     "module/supervisor-decide-payload",
