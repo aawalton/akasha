@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const agentTurnColors = {
   id: "01a0693c-9b24-7a22-8c27-03b9194b117e",

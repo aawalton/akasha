@@ -58,7 +58,7 @@ type Ran = (argv: readonly string[]) => number | Promise<number>
 const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Ran }>>> = {
   "agent-turn-colors": async () => {
     const { agentTurnColors } = await import(
-      "../commands/agent-turn-colors/agent-turn-colors.command.code.ts"
+      "../../commands/agent-turn-colors/agent-turn-colors.command.code.ts"
     )
     const { akashaRoot } = await import("@akasha/pages-system/checkout-roots")
     return {
