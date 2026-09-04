@@ -1,8 +1,8 @@
 import { put } from "@akasha/testing-system/putting"
-import { applied, repoAt } from "../../asking/asking.module.test-fixtures.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import type { Piping } from "../../piping/piping.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import { applied, repoAt } from "../../command-system/asking/asking.module.test-fixtures.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import type { Piping } from "../../command-system/piping/piping.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { edit, editing } from "./edit.command.code.ts"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"

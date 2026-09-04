@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import type { Asked, Held } from "../../asking/asking.module.code.ts"
+import type { Asked, Held } from "../../command-system/asking/asking.module.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
@@ -8,19 +8,8 @@ import {
   textAt,
   textOf,
   troubling,
-} from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import type { FileEdit } from "../../landing/landing.module.code.ts"
-import type { Piping } from "../../piping/piping.module.code.ts"
-import {
-  inputIn,
-  MARK_NEW,
-  MARK_OLD,
-  MARK_SPLIT,
-  PIPED,
-  passagesIn,
-  pipedIn,
-} from "../../piping/piping.module.code.ts"
+} from "../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import {
   barredIn,
   besideTaken,
@@ -36,7 +25,18 @@ import {
   removingIn,
   unknownIn,
   unwarrantedIn,
-} from "../write/write.command.code.ts"
+} from "../../command-system/commands/write/write.command.code.ts"
+import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
+import type { Piping } from "../../command-system/piping/piping.module.code.ts"
+import {
+  inputIn,
+  MARK_NEW,
+  MARK_OLD,
+  MARK_SPLIT,
+  PIPED,
+  passagesIn,
+  pipedIn,
+} from "../../command-system/piping/piping.module.code.ts"
 
 const OLD_FILE = "--old-file"
 

@@ -5,9 +5,13 @@ import { said as git } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { landingAsked } from "../../asking/asking.module.code.ts"
-import { checking, commitIn, heldIn } from "../../asking/asking.module.test-fixtures.ts"
-import { baseOf as headOf } from "../../landing/landing.module.code.ts"
+import { landingAsked } from "../../command-system/asking/asking.module.code.ts"
+import {
+  checking,
+  commitIn,
+  heldIn,
+} from "../../command-system/asking/asking.module.test-fixtures.ts"
+import { baseOf as headOf } from "../../command-system/landing/landing.module.code.ts"
 import { askedIn, edit, editing } from "./edit.command.code.ts"
 import {
   changing,

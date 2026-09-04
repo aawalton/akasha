@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const edit = {
   id: "01a04beb-8a88-7a89-bcb5-4e546b75afbd",
