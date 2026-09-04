@@ -15,7 +15,7 @@ export const awenStoryCleanup = {
     {
       statement: "The story/ tree passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape --file-path story` answers 45 refusals over 60893 files. 34 are under `story/world-mechanics`, where each mechanic folder is named for a short plural like `skills` rather than `world-skills`, what its page type calls its folder. 18 are a `pages` folder holding bare page files; a `pages` folder holding one folder per page passes. The rest are `story` itself, holding two domain pages, and the package folders `engine`, `engine/core`, `tower` and `ui`.",
+        "`folder-matches-a-shape` over `story` answers 20 refusals, down from 45. 17 are a `pages` folder mixing bare page files with per-page folders; either alone passes, and Alan has not said which. `story` wants the name `story-engine`, and a plural slug of `story` would not help, since 11 sibling folders open with `story-`. `story/story-engine-core` refuses by that same rule, and renaming it rewrites 23 imports outside story/. `story/world-mechanics/mechanics` wants its parent's name.",
     },
   ],
 } as const satisfies Initiative
