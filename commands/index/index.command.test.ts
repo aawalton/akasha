@@ -18,18 +18,18 @@ import {
 import { id as idPage } from "@akasha/pages-system/page/id"
 import { slug as slugPage } from "@akasha/pages-system/page/slug"
 import { textProperty } from "@akasha/pages-system/text-property"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { calling } from "../../calling/calling.module.code.ts"
-import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
+import { calling } from "../../command-system/calling/calling.module.code.ts"
+import { DATA, INPUT, OK, OPERATIONAL } from "../../command-system/cli/cli.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { index, readIn } from "./index.command.code.ts"
 import { index as indexCommand } from "./index.command.ts"
 
 const TREE = "."
 
-const CODE_AT = "command-system/commands/index/index.command.code.ts"
+const CODE_AT = "commands/index/index.command.code.ts"
 
-const PAGE_AT = "command-system/commands/index/index.command.ts"
+const PAGE_AT = "commands/index/index.command.ts"
 
 const LOCK_AT = ".git/akasha-landing.lock"
 

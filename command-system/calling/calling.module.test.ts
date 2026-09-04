@@ -238,7 +238,7 @@ test("a command answering later is waited for rather than handed back as it stan
   expect(said.report[1]).toBe("akasha held")
 })
 
-const ROOTED_AT = "command-system/commands/index/index.command.ts"
+const ROOTED_AT = "commands/index/index.command.ts"
 
 function rooted(root: string): undefined {
   const at = join(root, ROOTED_AT)
