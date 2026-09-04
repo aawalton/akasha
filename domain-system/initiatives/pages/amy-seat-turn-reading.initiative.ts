@@ -15,7 +15,7 @@ export const amySeatTurnReading = {
     {
       statement: "A seat's turn state is read from no stub.",
       workingMemory:
-        "`turnStateOf`, `turnPendingSourceOf` and `turnEndReadingOf` in turn-records each return null unconditionally, and their setters do nothing. `workingOf` was the fourth and reads the transcript as of 3705f463. The fifth was `readOwed`, taken away at a446b230 rather than filled, because `decideOwed` returned the owed verdict for no input it admits.",
+        "`turnStateOf`, `turnPendingSourceOf` and `turnEndReadingOf` in turn-records each return null unconditionally, and their setters do nothing. `workingOf` was the fourth and reads the transcript as of 3705f463. The fifth was `readOwed`, taken away at a446b230 rather than filled, because `decideOwed` returned the owed verdict for no input it admits. Three remain.",
     },
     {
       statement: "A turn state is drawn within the time the code-editor domain allows.",
@@ -32,11 +32,6 @@ export const amySeatTurnReading = {
       workingMemory:
         "Left until the seats are right, at Alan's direction. The transcript now names every live subagent by id, paired from an async launch to the notification naming it, so the page-presence reading `subagentTurnOf` uses is no longer the only source. Page presence leaked: athena carried seven pages against two live agents.",
     },
-    {
-      statement: "A word means one thing across the systems a seat is read from.",
-      workingMemory:
-        "The word owed carried four unrelated meanings. Three are gone from seat-system. What is left is `Warrant.owed` in context-system, live and working, and `Outcome.owed` in verdict, read by nothing since the deletion of its only consumer. Two implementations of what a writer must have read sit apart: context-system/warranting keyed on path and oid, and seat-system/declared-seat-reading keyed on claimant and slug, sharing a vocabulary and no code.",
-    },
   ],
   constraints: [
     "Working means a seat is mid-turn: given a prompt and not yet finished answering, including a long tool call with no request open.",
@@ -49,6 +44,8 @@ export const amySeatTurnReading = {
     "A run may write, the invariant that a run writes nothing having been dropped.",
     "A body is composed under a directory named for the session, because every seat shares /tmp.",
     "Each piece is made clean and correct and performant before the next piece is taken up.",
+    "The word owed is settled: three meanings went from seat-system at a446b230, and the orphan on Outcome went at 700957ae. What is left is Warrant.owed in context-system, which is the live one.",
+    "One implementation reads what a writer must have read: context-system/warranting, declared-seat-reading having been ablated at 9bc44a50.",
     "A reader keeping a cursor needs that cursor cleared when its rules change, because a landing does not reach what was already read past.",
   ],
 } as const satisfies Initiative
