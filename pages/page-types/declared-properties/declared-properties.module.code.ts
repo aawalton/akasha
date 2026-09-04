@@ -3,7 +3,13 @@ import type { Identifier } from "@akasha/indexes/entries"
 import type { Reading } from "@akasha/indexes/shape"
 import { addressIn, slugIn } from "../../address/page-address.module.code.ts"
 import { exportedAs } from "../../export-name/page-export-name.module.code.ts"
-import { numberAt, slugAt, textAt, type Value } from "../../value/page-value.module.code.ts"
+import {
+  numberAt,
+  slugAt,
+  slugsIn,
+  textAt,
+  type Value,
+} from "../../value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -39,19 +45,6 @@ export function identityOf(one: Carried): string {
   return `${one.pageTypeSlug}/${one.pagePropertySlug}`
 }
 
-// SEVERAL PATHS UNDER ONE KEY IS NOT AN ABSENCE. This asked `listed.length === 1` and answered null
-// for everything else, so a key listed twice read exactly like a key listed not at all: the walk in
-// `declarationsFrom` broke and the page type came back carrying nothing. Measured 2026-09-03:
-// `.git/data/index/identity/page-type/slug/story-read.jsonl` and its `story-chapter-read` sibling
-// each held two lines with the SAME id, the second naming a bare root path that `e46fe627c0` had
-// already deleted, and `identity/page/id/<id>.jsonl` held the same pair again — 4 files out of
-// 143,510. Both page types answered 0 properties while declaring 6 and 7, and the map built through
-// them dropped the `prose` sidecars on both and `chronology-anchors` on one.
-//
-// A listing no reader can open is no candidate, so the paths are read and the ones answering
-// nothing are dropped. One left is the answer. Several left is a collision this cannot settle, and
-// it refuses rather than picking, because picking would be a wrong answer nothing outside could
-// see. None left is answered as absent, which `declarationsFrom` refuses on its own account.
 export function pageAt(
   given: string | Reading,
   pageTypeSlug: string,
@@ -62,22 +55,6 @@ export function pageAt(
   if (listed.length === 0) return null
   const one = listed.length === 1 ? listed[0] : undefined
   if (one !== undefined) return pageOf(one.path)
-  // TWO LINES ARE TWO DIFFERENT THINGS, and only one of them is this module's to answer.
-  //
-  // One page listed at several paths carries ONE id on every line, which is what an index that
-  // outlived a file it listed leaves behind: `story-read` and `story-chapter-read` each held the
-  // live path and a bare root path already deleted. A listing no reader can open is no candidate
-  // there, so the paths are read and the ones answering nothing are dropped, and what is left is
-  // the page.
-  //
-  // Several DIFFERENT pages sharing one slug under one kind carry different ids, and that is a
-  // separate fault with a separate repair — 21 identity files carry it, `text-property/genre` and
-  // `relation-property/world-slug` among them, and it is mended by deleting or moving one of the
-  // pages rather than by anything here. This answered null for that before and answers null for it
-  // still: six callers reach `Answering.pageAt` for a kind of their choosing and are shaped for
-  // `Value | null`, and `page-matches-its-type` asks it for every property a page declares. A
-  // refusal there took two audit checks down while the collision it named was already known and
-  // already left alone by the commit that wrote it, `ccfcb6d983`.
   const read = listed.flatMap((each) => {
     const value = pageOf(each.path)
     return value === null ? [] : [{ id: each.id, value }]
@@ -140,52 +117,41 @@ export function carriedIn(
   )
 }
 
-// A CHAIN THAT CANNOT BE READ REFUSES RATHER THAN ANSWERING EMPTY. The walk used to break at the
-// first page type it could not read and return what it had, which for a first slug that would not
-// resolve was `[]` — the very answer a page type declaring nothing gives. No caller could tell the
-// two apart, so a corrupt index degraded to "declares nothing" and every property of the type went
-// missing quietly. The pages-system says it outright: refuse where you cannot answer, and never
-// read a missing source as an empty one.
-//
-// TWO READINGS, and the tolerant one is named rather than accidental. `declarationsIfNamed` answers
-// null where the chain cannot be read, and the indexer asks that one because the set it rebuilds
-// from is partial by its nature: `rebuiltFrom` walks pages while the types those pages name may not
-// have been read yet, so a refusal there would refuse the rebuild itself. Every other caller asks
-// `declarationsFrom`, which refuses. What was one silent answer is now a loud one and a quiet one
-// that says in its own name which it is.
 export function declarationsIfNamed(
   pageTypeSlug: string,
   source: Source
 ): readonly Carried[] | null {
   const carried: Carried[] = []
   const walked = new Set<string>()
-  let here: string | null = pageTypeSlug
-  while (here !== null && !walked.has(here)) {
-    const own: string = here
+  const waiting: string[] = [pageTypeSlug]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const own = waiting[at]
+    if (own === undefined || walked.has(own)) continue
     walked.add(own)
     const value = source.pageTypeAt(own)
     if (value === null) return null
     carried.push(...carriedFrom(value, source, own))
-    const above = textAt(value, EXTENDS)
-    here = above === null ? null : slugIn(above)
+    for (const above of [...slugsIn(value[EXTENDS])].reverse()) waiting.push(above)
   }
   return carried
 }
 
 function unreadable(pageTypeSlug: string, source: Source): string {
-  const walked: string[] = []
-  let here: string | null = pageTypeSlug
-  while (here !== null && !walked.includes(here)) {
-    const own: string = here
-    walked.push(own)
+  const walked = new Set<string>()
+  const waiting: (readonly string[])[] = [[pageTypeSlug]]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const route = waiting[at]
+    if (route === undefined) continue
+    const own = route[route.length - 1]
+    if (own === undefined || walked.has(own)) continue
+    walked.add(own)
     const value = source.pageTypeAt(own)
     if (value === null) {
       return own === pageTypeSlug
         ? `\`${pageTypeSlug}\` names no page type here, so what it carries cannot be read`
-        : `\`${pageTypeSlug}\` reaches \`${own}\` by extending, through ${walked.join(" -> ")}, and \`${own}\` names no page type here`
+        : `\`${pageTypeSlug}\` reaches \`${own}\` by extending, through ${route.join(" -> ")}, and \`${own}\` names no page type here`
     }
-    const above = textAt(value, EXTENDS)
-    here = above === null ? null : slugIn(above)
+    for (const above of [...slugsIn(value[EXTENDS])].reverse()) waiting.push([...route, above])
   }
   return `\`${pageTypeSlug}\` cannot be read here`
 }
@@ -248,9 +214,6 @@ export function propertiesOf(
   return propertiesFrom(pageTypeSlug, sourceIn(given, pageOf))
 }
 
-// The tolerant reading in the `Of` shape, for a reader asking about a page type it did not pick.
-// `reaching` answers which property a key reaches and takes null for none, so a type whose chain
-// cannot be read reaches nothing there — an answer rather than a refusal, and named as such.
 export function propertiesIfNamedOf(
   pageTypeSlug: string,
   given: string | Reading,

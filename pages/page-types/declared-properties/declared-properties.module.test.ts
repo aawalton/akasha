@@ -16,17 +16,23 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
+function named(above: string | readonly string[] | null): string {
+  if (above === null) return "null"
+  if (typeof above === "string") return JSON.stringify(`page-type/${above}`)
+  return JSON.stringify(above.map((one) => `page-type/${one}`))
+}
+
 function typed(
   root: string,
   slug: string,
-  above: string | null,
+  above: string | readonly string[] | null,
   declared: readonly Record<string, unknown>[]
 ): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
-  const said = above === null ? "null" : JSON.stringify(`page-type/${above}`)
+  const said = named(above)
   writeFileSync(
     page,
     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
@@ -189,10 +195,6 @@ test("a page type the index does not name is refused by name rather than answere
   const root = rootAt()
   typed(root, "held", null, [])
 
-  // This answered `[]`, which is what a page type declaring nothing answers too, so no caller
-  // could tell a page type that is not there from one carrying no properties. Two page types
-  // really were reading as empty on that account: their identity file held a second line naming
-  // a path already deleted, and the walk broke on it without a word.
   expect(() => carriedBy(root, "nowhere")).toThrow("`nowhere` names no page type here")
   expect(
     propertiesIfNamed(
@@ -287,4 +289,96 @@ test("secret and uncommitted are separate, and one declaration may carry both", 
   expect(carried).toHaveLength(1)
   expect(carried[0]?.uncommitted).toBe(true)
   expect(carried[0]?.secret).toBe(true)
+})
+
+test("where two types above are equally near, the one named last binds", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  typed(root, "module", null, [{ pagePropertySlug: "definition", required: false, many: false }])
+  typed(root, "page-property", null, [
+    { pagePropertySlug: "definition", required: true, many: false },
+  ])
+  typed(root, "computed-property", ["module", "page-property"], [])
+
+  const carried = carriedBy(root, "computed-property")
+
+  expect(carried).toHaveLength(1)
+  expect(carried[0]?.declaredBy).toBe("page-property")
+  expect(carried[0]?.required).toBe(true)
+  expect(declaredIn(root, "computed-property").map((one) => one.declaredBy)).toEqual([
+    "page-property",
+    "module",
+  ])
+})
+
+test("a type one step up binds over one two steps up, though the further was named later", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  typed(root, "page", null, [{ pagePropertySlug: "definition", required: false, many: false }])
+  typed(root, "page-property", "page", [])
+  typed(root, "module", null, [{ pagePropertySlug: "definition", required: true, many: false }])
+  typed(root, "computed-property", ["module", "page-property"], [])
+
+  const carried = carriedBy(root, "computed-property")
+
+  expect(carried).toHaveLength(1)
+  expect(carried[0]?.declaredBy).toBe("module")
+  expect(carried[0]?.required).toBe(true)
+  expect(declaredIn(root, "computed-property").map((one) => one.declaredBy)).toEqual([
+    "module",
+    "page",
+  ])
+})
+
+test("what a page type declares itself binds over both of the types it names above", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  typed(root, "module", null, [{ pagePropertySlug: "definition", required: false, many: false }])
+  typed(root, "page-property", null, [
+    { pagePropertySlug: "definition", required: false, many: false },
+  ])
+  typed(
+    root,
+    "computed-property",
+    ["module", "page-property"],
+    [{ pagePropertySlug: "definition", required: true, many: false }]
+  )
+
+  const carried = carriedBy(root, "computed-property")
+
+  expect(carried).toHaveLength(1)
+  expect(carried[0]?.declaredBy).toBe("computed-property")
+  expect(carried[0]?.required).toBe(true)
+  expect(declaredIn(root, "computed-property").map((one) => one.declaredBy)).toEqual([
+    "computed-property",
+    "page-property",
+    "module",
+  ])
+})
+
+test("the types above are read level by level, and each type's own are taken in reverse", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  propertied(root, "text-property", "slug", "slug")
+  propertied(root, "text-property", "code", "code")
+  propertied(root, "text-property", "many", "many")
+  propertied(root, "text-property", "formula", "formula")
+  typed(root, "domain", null, [{ pagePropertySlug: "definition", required: true, many: false }])
+  typed(root, "page", null, [{ pagePropertySlug: "slug", required: true, many: false }])
+  typed(root, "module", "domain", [{ pagePropertySlug: "code", required: true, many: false }])
+  typed(root, "page-property", "page", [{ pagePropertySlug: "many", required: true, many: false }])
+  typed(
+    root,
+    "computed-property",
+    ["module", "page-property"],
+    [{ pagePropertySlug: "formula", required: true, many: false }]
+  )
+
+  expect(declaredIn(root, "computed-property").map((one) => one.declaredBy)).toEqual([
+    "computed-property",
+    "page-property",
+    "module",
+    "page",
+    "domain",
+  ])
 })

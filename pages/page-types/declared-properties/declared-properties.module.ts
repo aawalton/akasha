@@ -40,6 +40,40 @@ export const declaredProperties = {
       statement: "A field is declared by the record property carrying the field.",
     },
     {
+      invariantKind: "departure",
+      statement: "The declaration from the type named last binds where two are equally near.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type that cannot be read is refused by name rather than answered as declaring nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal says a route of extending that reaches the type that cannot be read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading answering nothing where a type cannot be read says so in its own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type listed at several paths is read from the listings that answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listing opening nothing is no candidate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Several listings carrying one id are answered as one page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Several listings carrying different ids are answered as no page rather than settled here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges what this module gathers.",
     },
