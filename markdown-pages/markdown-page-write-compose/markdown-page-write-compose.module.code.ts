@@ -41,19 +41,19 @@ export function withId(
 
 const PAGE_SEQ = "seq"
 
-function mintedSeq(roots: Roots, pageType: string): number | undefined {
+async function mintedSeq(roots: Roots, pageType: string): Promise<number | undefined> {
   const relPath = pageTypePathIn(rootFor(roots, AKASHA), pageType)
   if (!statesNextSeq(rootFor(roots, AKASHA), relPath)) return undefined
-  return takeSeqOf({ pageTypeRelPath: relPath, noun: pageType })
+  return await takeSeqOf({ pageTypeRelPath: relPath, noun: pageType })
 }
 
-export function withSeq(
+export async function withSeq(
   roots: Roots,
   pageType: string,
   front: Readonly<Record<string, Rendered>>,
   text: string
-): Record<string, Rendered> {
-  const held = statedIn(text)[PAGE_SEQ] ?? front[PAGE_SEQ] ?? mintedSeq(roots, pageType)
+): Promise<Record<string, Rendered>> {
+  const held = statedIn(text)[PAGE_SEQ] ?? front[PAGE_SEQ] ?? (await mintedSeq(roots, pageType))
   if (held === undefined) return { ...front }
   const rest = { ...front }
   delete rest[PAGE_SEQ]

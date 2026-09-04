@@ -73,10 +73,10 @@ export function goneIn(roots: Roots): readonly Named[] {
   return sweepIn(roots).gone
 }
 
-function remove(roots: Roots, gone: readonly Named[]): readonly string[] {
+async function remove(roots: Roots, gone: readonly Named[]): Promise<readonly string[]> {
   const refusals: string[] = []
   for (const one of gone) {
-    const taken = removePage(roots, one.pageType, one.name, WRITER)
+    const taken = await removePage(roots, one.pageType, one.name, WRITER)
     if (taken === null) refusals.push(`${one.pageType}/${one.name}: no page type this removes`)
     else if (taken.refused !== undefined)
       refusals.push(`${one.pageType}/${one.name}: ${taken.refused}`)
@@ -96,7 +96,7 @@ if (import.meta.main) {
     console.log(said)
     process.exit(uncertain.length === 0 ? 0 : 1)
   }
-  const refusals = remove(roots, gone)
+  const refusals = await remove(roots, gone)
   if (refusals.length > 0) {
     console.error(refusals.join("\n"))
     process.exit(1)

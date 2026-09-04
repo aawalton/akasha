@@ -127,25 +127,25 @@ function clearAttachments(tree: FileTree, pageType: string, at: Where): readonly
   return gone
 }
 
-export function writePage(
+export async function writePage(
   roots: Roots,
   pageType: string,
   name: string,
   values: Readonly<Record<string, Value>>,
   by?: string
-): Written | null {
+): Promise<Written | null> {
   const tree = diskFileTree(roots)
   const at = whereFor(roots, pageType, name, tree)
   if (at === null) return null
   const split = splitValues(roots, pageType, values, tree)
   const alongside = landAttachments(at, split.attachments)
-  const took = landOne(at, pageType, "write", name, by, {
+  const took = await landOne(at, pageType, "write", name, by, {
     composing: [
       {
         relPath: at.relPath,
-        compose: (standing) => {
+        compose: async (standing) => {
           const held = standing ?? ""
-          const front = withId(withSeq(roots, pageType, split.front, held), held, at)
+          const front = withId(await withSeq(roots, pageType, split.front, held), held, at)
           return `${frontOf(tree, pageType, front)}${split.body ?? ""}`
         },
       },
@@ -156,20 +156,20 @@ export function writePage(
   return { ...at, commitError: took.commitError }
 }
 
-export function patchPage(
+export async function patchPage(
   roots: Roots,
   pageType: string,
   name: string,
   values: Readonly<Record<string, Value>>,
   by?: string,
   clear: readonly string[] = []
-): Written | null {
+): Promise<Written | null> {
   const tree = diskFileTree(roots)
   const at = whereFor(roots, pageType, name, tree)
   if (at === null) return null
   const split = splitValues(roots, pageType, values, tree)
   const alongside = landAttachments(at, split.attachments)
-  const took = landOne(at, pageType, "patch", name, by, {
+  const took = await landOne(at, pageType, "patch", name, by, {
     composing: [
       {
         relPath: at.relPath,
@@ -225,19 +225,19 @@ function stateLanded(
   return at
 }
 
-export function removePage(
+export async function removePage(
   roots: Roots,
   pageType: string,
   name: string,
   by?: string
-): Written | null {
+): Promise<Written | null> {
   const tree = diskFileTree(roots)
   const at = whereFor(roots, pageType, name, tree)
   if (at === null) return null
   removeUncommitted(at.path)
   const cleared = clearAttachments(tree, pageType, at)
   const rows = clearRows(tree, pageType, at)
-  const landing = landOne(at, pageType, "remove", name, by, {
+  const landing = await landOne(at, pageType, "remove", name, by, {
     removing: [at.relPath],
     alongside: [...cleared, ...rows.map((one) => one.at)],
   })

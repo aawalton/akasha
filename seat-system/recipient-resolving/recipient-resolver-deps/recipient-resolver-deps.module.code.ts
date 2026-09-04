@@ -22,10 +22,10 @@ import { wakeCommsInput } from "../wake-comms-input/wake-comms-input.module.code
 export const toCommsInput = (m: InboundMessageRow): CommsInput =>
   wakeCommsInput({ senderAgentId: m.sender_agent_id, source: m.source, content: m.content })
 
-export function defaultRecipientResolverDeps(
+export async function defaultRecipientResolverDeps(
   signal: AbortSignal,
   config: RecipientResolverConfig
-): Omit<RecipientResolverTickDeps, "specs"> {
+): Promise<Omit<RecipientResolverTickDeps, "specs">> {
   const unrevivableReported = new Set<string>()
   const deps: Omit<RecipientResolverTickDeps, "specs"> = {
     resolveAgent: async (name): Promise<RecipientResolverAgentRow | null> =>
@@ -56,7 +56,7 @@ export function defaultRecipientResolverDeps(
       unrevivableReported.add(agentId)
       try {
         if (tellSeat === null) await pushKeeperUnrevivableToAlan(name, agentId)
-        else messageUnrevivableToKeeper(tellSeat, name, agentId)
+        else await messageUnrevivableToKeeper(tellSeat, name, agentId)
         console.log(
           `${LOG} recipient-resolver: told ${told} — ${name} (${agentId}) revive did NOT verify`
         )

@@ -67,17 +67,17 @@ export type Took = {
   readonly commitError: string | null
 }
 
-export function landOne(
+export async function landOne(
   at: Where,
   pageType: string,
   act: string,
   name: string,
   by: string | undefined,
   more: Omit<Landings, "repo" | "root" | "message" | "commit">
-): Took {
+): Promise<Took> {
   refuseALiveTestWrite(at.root, `${act} ${pageType}/${name}`, "`landOne`")
   try {
-    const landed = landFiles({
+    const landed = await landFiles({
       repo: at.repo,
       root: at.root,
       message: messageFor(pageType, act, name, by),

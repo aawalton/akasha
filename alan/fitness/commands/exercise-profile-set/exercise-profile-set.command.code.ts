@@ -16,14 +16,14 @@ const BODYWEIGHT = "--bodyweight"
 
 const SHAPE = { valued: [BODYWEIGHT], switches: [JSON_SAID] }
 
-export function exerciseProfileSet(argv: readonly string[] = []): Answer {
+export async function exerciseProfileSet(argv: readonly string[] = []): Promise<Answer> {
   const said = wordsIn(argv, SHAPE)
   if ("refused" in said) return refusedBy(said.refused)
   const bodyweight = decimalIn(said, BODYWEIGHT)
   if (typeof bodyweight === "object") return refusedBy(bodyweight.refused)
   let at: string
   try {
-    at = writeBodyweight(bodyweight)
+    at = await writeBodyweight(bodyweight)
   } catch (thrown) {
     return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)], DATA)
   }

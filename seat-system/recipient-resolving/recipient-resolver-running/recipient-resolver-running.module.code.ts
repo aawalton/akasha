@@ -17,7 +17,7 @@ async function main(): Promise<void> {
 
   const config = resolveRecipientResolverConfig()
 
-  const effects = defaultRecipientResolverDeps(ac.signal, config)
+  const effects = await defaultRecipientResolverDeps(ac.signal, config)
 
   console.log(recipientResolverConfigBanner(config))
   console.log(
@@ -43,7 +43,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  await main().catch(async (err) => {
     console.error("recipient-resolver fatal:", err)
     process.exit(1)
   })

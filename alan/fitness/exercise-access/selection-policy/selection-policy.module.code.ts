@@ -94,8 +94,8 @@ export function readBodyweight(): number {
   return number(only(PROFILE), PROFILE, "bodyweight")
 }
 
-export function writeBodyweight(bodyweight: number): string {
-  const written = patchPage(resolveRoots(), PROFILE, PROFILE, { bodyweight })
+export async function writeBodyweight(bodyweight: number): Promise<string> {
+  const written = await patchPage(resolveRoots(), PROFILE, PROFILE, { bodyweight })
   if (written === null) throw new Error(`\`${PROFILE}\` names no page type whose pages are files`)
   if (written.commitError !== null) throw new Error(written.commitError)
   return written.relPath

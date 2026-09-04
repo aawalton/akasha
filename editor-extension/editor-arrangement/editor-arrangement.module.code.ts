@@ -182,21 +182,21 @@ export function alreadyStands(
   return Object.entries(page.values).every(([key, value]) => same(stated[key], value))
 }
 
-function landed(roots: Roots, page: Landing): string | null {
-  const wrote = writePage(roots, page.pageType, page.name, page.values, WRITER)
+async function landed(roots: Roots, page: Landing): Promise<string | null> {
+  const wrote = await writePage(roots, page.pageType, page.name, page.values, WRITER)
   if (wrote === null) return `\`${page.pageType}\` is not a page type this service writes`
   if (wrote.refused !== undefined) return wrote.refused
   return wrote.commitError
 }
 
-function taken(roots: Roots, one: Named): string | null {
-  const gone = removePage(roots, one.pageType, one.name, WRITER)
+async function taken(roots: Roots, one: Named): Promise<string | null> {
+  const gone = await removePage(roots, one.pageType, one.name, WRITER)
   if (gone === null) return `\`${one.pageType}\` is not a page type this service writes`
   if (gone.refused !== undefined) return gone.refused
   return gone.commitError
 }
 
-export function landArrangement(roots: Roots, arrangement: Arrangement): Outcome {
+export async function landArrangement(roots: Roots, arrangement: Arrangement): Promise<Outcome> {
   const pages = pagesFor(arrangement)
   const tree = diskFileTree(roots)
   const gone = goneFor(roots, arrangement, pages, tree)
@@ -204,12 +204,12 @@ export function landArrangement(roots: Roots, arrangement: Arrangement): Outcome
   let wrote = 0
   for (const page of pages) {
     if (alreadyStands(roots, page, tree)) continue
-    const why = landed(roots, page)
+    const why = await landed(roots, page)
     if (why === null) wrote += 1
     else refusals.push(`${page.pageType}/${page.name}: ${why}`)
   }
   for (const one of gone) {
-    const why = taken(roots, one)
+    const why = await taken(roots, one)
     if (why !== null) refusals.push(`${one.pageType}/${one.name}: ${why}`)
   }
   return refusals.length > 0
@@ -217,12 +217,12 @@ export function landArrangement(roots: Roots, arrangement: Arrangement): Outcome
     : { kind: "written", wrote, took: gone.length }
 }
 
-export function arrangedResponse(
+export async function arrangedResponse(
   roots: Roots,
   parsed: unknown
-): { readonly body: unknown; readonly status: number } {
+): Promise<{ readonly body: unknown; readonly status: number }> {
   if (!isArrangement(parsed)) return { body: { error: ARRANGES }, status: 400 }
-  const outcome = landArrangement(roots, parsed)
+  const outcome = await landArrangement(roots, parsed)
   if (outcome.kind === "refused") {
     return {
       body: { error: `the gates refused what this arrangement would land:\n${outcome.detail}` },

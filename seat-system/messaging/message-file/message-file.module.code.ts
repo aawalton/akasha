@@ -112,7 +112,7 @@ export async function writeMessage(stated: {
   readonly from: string
   readonly warrant: Warrant
   readonly body: string
-}): Written {
+}): Promise<Written> {
   const refused = recipientRefused(stated.to)
   if (refused !== null) return { kind: "refused", detail: refused }
   const unknown = unknownRecipient(stated.to)

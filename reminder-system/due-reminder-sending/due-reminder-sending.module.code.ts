@@ -9,8 +9,13 @@ import {
 } from "@akasha/reminder-system/reminder-sending"
 import { writeMessage } from "@akasha/seat-system/message-file"
 
-function sendOne(one: Standing): string | null {
-  const written = writeMessage({ to: one.to, from: one.from, warrant: "announce", body: one.text })
+async function sendOne(one: Standing): Promise<string | null> {
+  const written = await writeMessage({
+    to: one.to,
+    from: one.from,
+    warrant: "announce",
+    body: one.text,
+  })
   if (written.kind === "refused") {
     return `${one.path} came due and its message was refused: ${written.detail}`
   }
@@ -18,7 +23,7 @@ function sendOne(one: Standing): string | null {
   return null
 }
 
-function main(): number {
+async function main(): Promise<number> {
   const root = akashaRoot()
   const now = Date.now()
   const held: string[] = []
@@ -44,7 +49,7 @@ function main(): number {
       continue
     }
     if (nextMs > now) continue
-    const refused = sendOne(one)
+    const refused = await sendOne(one)
     if (refused !== null) {
       held.push(refused)
       continue
@@ -67,4 +72,4 @@ function main(): number {
   return held.length === 0 ? 0 : 1
 }
 
-if (import.meta.main) process.exit(main())
+if (import.meta.main) process.exit(await main())

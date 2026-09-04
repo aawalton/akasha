@@ -100,14 +100,14 @@ async function advance(source: SeqSource, first: number, count: number): Promise
   return landed.ok ? { code: 0, output: "" } : { code: 1, output: landed.why }
 }
 
-export function takeSeqsOf(source: SeqSource, count: number): number {
+export async function takeSeqsOf(source: SeqSource, count: number): Promise<number> {
   if (!Number.isInteger(count) || count <= 0) {
     throw new Error(
       `no ${source.noun} seq was taken: a run of ${count} is not a whole number above zero`
     )
   }
   const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
-  return exclusively(`${absolute}${ALLOCATING}`, async () => {
+  return await exclusively(`${absolute}${ALLOCATING}`, async () => {
     const stoodChanged = uncommitted(source.pageTypeRelPath)
     const first = readNextSeqOf(source)
     const run = await advance(source, first, count)
@@ -130,6 +130,6 @@ export function takeSeqsOf(source: SeqSource, count: number): number {
   })
 }
 
-export function takeSeqOf(source: SeqSource): number {
-  return takeSeqsOf(source, 1)
+export async function takeSeqOf(source: SeqSource): Promise<number> {
+  return await takeSeqsOf(source, 1)
 }

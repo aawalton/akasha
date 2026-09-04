@@ -21,12 +21,12 @@ export function readSeatPage(handler: string): SeatReading {
   }
 }
 
-export function writeAnnouncement(
+export async function writeAnnouncement(
   handler: string,
   body: string,
   log: (line: string) => void,
   from: string = DEFAULT_SENDER
-): string {
+): Promise<string> {
   const seat = readSeatPage(handler)
   if (seat.kind === "no-page") {
     throw new Error(
@@ -40,7 +40,7 @@ export function writeAnnouncement(
         "addressed by name regardless, and whoever drains it resolves the seat"
     )
   }
-  const wrote = writeMessage({ to: handler, from, warrant: "announce", body })
+  const wrote = await writeMessage({ to: handler, from, warrant: "announce", body })
   if (wrote.kind === "refused") {
     throw new Error(
       `the message to \`${handler}\` was not written, so nothing is waiting: ${wrote.detail}`
@@ -49,11 +49,11 @@ export function writeAnnouncement(
   return wrote.id
 }
 
-export function recordToAgent(
+export async function recordToAgent(
   handler: string,
   body: string,
   log: (line: string) => void,
   from: string = DEFAULT_SENDER
 ): Promise<string> {
-  return Promise.resolve(writeAnnouncement(handler, body, log, from))
+  return Promise.resolve(await writeAnnouncement(handler, body, log, from))
 }

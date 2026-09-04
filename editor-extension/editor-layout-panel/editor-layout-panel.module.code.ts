@@ -73,7 +73,10 @@ async function write(trigger: string): Promise<undefined> {
 async function writePages(groups: readonly LayoutGroup[], trigger: string): Promise<void> {
   const arrangement = arrangementFrom(groups, windowProcess)
   try {
-    const { body, status } = arrangedResponse(rootsHere(), JSON.parse(JSON.stringify(arrangement)))
+    const { body, status } = await arrangedResponse(
+      rootsHere(),
+      JSON.parse(JSON.stringify(arrangement))
+    )
     output.appendLine(`[${trigger}] pages: ${status} ${JSON.stringify(body)}`)
   } catch (err) {
     output.appendLine(`[${trigger}] pages failed: ${String(err)}`)

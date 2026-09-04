@@ -56,8 +56,11 @@ export async function readRulePopulations(log: (line: string) => void): Promise<
   return { ...notification, repoRoot }
 }
 
-export function fileReadingFor(reading: SweptReading, log: (line: string) => void): string {
-  const wrote = writeMessage({
+export async function fileReadingFor(
+  reading: SweptReading,
+  log: (line: string) => void
+): Promise<string> {
+  const wrote = await writeMessage({
     to: READER,
     from: SENDER,
     warrant: "announce",

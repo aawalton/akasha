@@ -23,7 +23,7 @@ export function hasRecentInboundMessage(
   )
 }
 
-export function sendMessage(input: {
+export async function sendMessage(input: {
   readonly targetAgentId: string
   readonly userId: string
   readonly content: string
@@ -37,7 +37,7 @@ export function sendMessage(input: {
         "refused rather than written where nobody drains it"
     )
   }
-  const wrote = writeMessage({
+  const wrote = await writeMessage({
     to: seatName,
     from: SENDER,
     warrant: input.warrant.kind === "blocked" ? "blocked" : "announce",

@@ -55,7 +55,9 @@ export class LandingRefused extends Error {}
 
 export type Commit = (root: string, named: readonly string[], message: string) => string | null
 
-export type Compose = (before: string | null) => string | Uint8Array | null
+export type Compose = (
+  before: string | null
+) => string | Uint8Array | null | Promise<string | Uint8Array | null>
 
 export interface Composing {
   readonly relPath: string
@@ -143,7 +145,7 @@ export function put(absolute: string, body: string | Uint8Array): void {
   }
 }
 
-export function landFiles(one: Landings): Landed {
+export async function landFiles(one: Landings): Promise<Landed> {
   const root = one.root
   const message = one.message
   const entries = one.entries ?? []
@@ -191,9 +193,9 @@ export function landFiles(one: Landings): Landed {
     mkdirSync(dirname(absolute), { recursive: true })
     let body: string | Uint8Array | null = null
     try {
-      body = exclusively(absolute, () => {
+      body = await exclusively(absolute, async () => {
         const before = existsSync(absolute) ? readFileSync(absolute, "utf8") : null
-        const made = entry.compose(before)
+        const made = await entry.compose(before)
         if (made === null) return null
         if (typeof made === "string" && before === made) return null
         put(absolute, made)
@@ -284,7 +286,7 @@ export interface Target {
   readonly root: string
 }
 
-export function land(
+export async function land(
   where: Target,
   entries: readonly Landing[],
   message: string,
@@ -295,7 +297,7 @@ export function land(
   goneElsewhere: readonly string[] = [],
   repointedElsewhere: ReadonlyMap<string, string> = new Map(),
   glass: string | null = null
-): Landed | null {
+): Promise<Landed | null> {
   const { repo, root } = where
   akashaGated(repo, root, entries, removing, carrying, goneElsewhere, repointedElsewhere, glass)
   const taken =
@@ -324,7 +326,7 @@ export function land(
     )
     return null
   }
-  const landed = landFiles({
+  const landed = await landFiles({
     repo,
     root,
     entries,

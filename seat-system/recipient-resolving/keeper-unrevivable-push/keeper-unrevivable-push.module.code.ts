@@ -32,12 +32,12 @@ export function buildUnrevivableMessageBody(name: string, agentId: string): stri
   )
 }
 
-export function messageUnrevivableToKeeper(
+export async function messageUnrevivableToKeeper(
   keeper: string,
   name: string,
   agentId: string
-): undefined {
-  const wrote = writeMessage({
+): Promise<undefined> {
+  const wrote = await writeMessage({
     to: keeper,
     from: KEEPER_UNREVIVABLE_SOURCE,
     warrant: "announce",

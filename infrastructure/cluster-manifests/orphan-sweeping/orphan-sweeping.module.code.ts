@@ -59,7 +59,12 @@ async function main(): Promise<void> {
 
   for (const one of reading.orphans) console.log(`${SAID} ORPHAN: ${named(one)}`)
 
-  const wrote = writeMessage({ to: HANDLER, from: SENDER, warrant: "announce", body: signal.text })
+  const wrote = await writeMessage({
+    to: HANDLER,
+    from: SENDER,
+    warrant: "announce",
+    body: signal.text,
+  })
   if (wrote.kind === "refused") {
     throw new Error(`${SAID} nothing is waiting for \`${HANDLER}\`: ${wrote.detail}`)
   }
@@ -67,7 +72,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  await main().catch(async (err) => {
     console.error(`${SAID} fatal:`, err instanceof Error ? err.message : err)
     process.exit(1)
   })

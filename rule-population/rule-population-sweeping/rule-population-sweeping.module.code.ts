@@ -30,11 +30,11 @@ async function main(): Promise<void> {
     return
   }
 
-  fileReadingFor(reading, log)
+  await fileReadingFor(reading, log)
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  await main().catch(async (err) => {
     console.error(`${LOG} fatal:`, err instanceof Error ? err.message : err)
     process.exit(1)
   })
