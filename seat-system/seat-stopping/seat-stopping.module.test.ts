@@ -173,11 +173,11 @@ test("a page taken away is forgotten by whoever read it", async () => {
 test("a reading is kept where the page it names did not go", async () => {
   const world = scratchWorld()
   try {
-    const root = seatedRoot(world.rootFor("seat-stopping-"))
-    const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, HELD_AT), "utf8")))
+    const root = world.rootFor("seat-stopping-unlanded-")
+    writing(root, HELD_AT, HELD_BODY)
+    const oid = blobIdOf(new TextEncoder().encode(HELD_BODY))
     recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, mechanicalOid: null })
-    gitIn(root, ["config", "user.email", ""])
-    gitIn(root, ["config", "user.name", ""])
+    expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
     let went: boolean
     try {
       went = await took(givenIn(root), [HELD_AT], "athena was stopped, so its page goes")
