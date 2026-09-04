@@ -172,7 +172,9 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
   const root = resolve(change.root)
   const keys = [...waitingKeys(shadow)]
   const read = bodiesOf(change, mintingIn(change, keys, shadow.index))
-  const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
+  const named = [
+    ...new Set([...everyCompiledIn(change, shadow.index), ...declaringIn(change, shadow.index)]),
+  ]
   const program = programOver(root, named, read)
   const held = new Map<string, ts.SourceFile>()
   for (const file of program.getSourceFiles()) {
