@@ -4,7 +4,7 @@ export const theSweepAndTheSelectorDisagreeAboutCanceled = {
   id: "01a0686c-e937-7009-a6ba-01923255c66e",
   pageTypeSlug: "finding",
   slug: "the-sweep-and-the-selector-disagree-about-canceled",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/change",
   claim:
     "Two status vocabularies for the same pipeline, workflow and step pages stand in the repo, and they disagree about one word. Every terminal set in `@akasha/workflow-selection/ci-status-vocabulary` holds `canceled`; none of the sweep's does. Folding the sweep onto the wider vocabulary would be a behaviour change to a live daemon dressed as a tidy, so the sweep's own sets were carried across unchanged and the disagreement is recorded instead of resolved.",
   evidence:
