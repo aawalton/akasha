@@ -63,7 +63,6 @@ export const view = {
     "number-property/view-place",
     "record-property/group-sorts",
     "record-property/view-sorts",
-    "relation-property/draws-slug",
     "relation-property/nav-slug",
     "select-property/gallery-card-size",
     "select-property/group-granularity",
