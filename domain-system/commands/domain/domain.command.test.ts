@@ -168,12 +168,17 @@ test("a domain open above the point being drawn is marked rather than drawn agai
   ])
 })
 
-function typed(root: string, slug: string, above: readonly string[] | null): undefined {
+function namedIn(above: string | readonly string[]): string | readonly string[] {
+  if (typeof above === "string") return `page-type/${above}`
+  return above.map((one) => `page-type/${one}`)
+}
+
+function typed(root: string, slug: string, above: string | readonly string[] | null): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
-  const named = above === null ? null : above.map((one) => `page-type/${one}`)
+  const named = above === null ? null : namedIn(above)
   writeFileSync(
     page,
     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
@@ -185,7 +190,7 @@ test("a page type naming one type above it is a kind of domain as it always was"
   const root = scratch.rootFor("akasha-domain-")
   typed(root, "domain", null)
   typed(root, "page", null)
-  typed(root, "module", ["domain"])
+  typed(root, "module", "domain")
 
   const kinds = kindsUnderDomain(root)
 
@@ -196,10 +201,10 @@ test("a page type naming two types above it is a kind of domain where either of 
   const root = scratch.rootFor("akasha-domain-")
   typed(root, "domain", null)
   typed(root, "page", null)
-  typed(root, "module", ["domain"])
-  typed(root, "page-property", ["page"])
+  typed(root, "module", "domain")
+  typed(root, "page-property", "page")
   typed(root, "computed-property", ["page-property", "module"])
-  typed(root, "faith-points", ["computed-property"])
+  typed(root, "faith-points", "computed-property")
 
   const kinds = kindsUnderDomain(root)
 
