@@ -1,0 +1,37 @@
+diff --git a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+index a434ee70a48593bd4ce98d268ada3e1db5eb74f5..4d4cbb158e04f6682e0289f1708e1bdb32b0a33b 100644
+--- a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
++++ b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+@@ -4,7 +4,7 @@ export const globalDeclaredOnce = {
+   id: "01a061ca-2484-773a-8dc7-e6a08fe588f9",
+   pageTypeSlug: "code-check",
+   slug: "global-declared-once",
+-  definition: "the check refusing a global name a module body and a declaration file both declare",
++  definition: "the check refusing a global name a declaration file and another file both declare",
+   code: "ts",
+   test: "ts",
+   runsOnPatch: false,
+@@ -60,6 +60,14 @@ export const globalDeclaredOnce = {
+       invariantKind: "departure",
+       statement: "A refusal is reported against the module rather than against the shared set.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A name two declaration files declare is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That refusal is reported against the file whose path sorts later.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A refusal against a module the change leaves untouched says so.",
+@@ -74,7 +82,7 @@ export const globalDeclaredOnce = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Two declaration files declaring one name are not judged here.",
++      statement: "Two module bodies declaring one name are not judged here.",
+     },
+     {
+       invariantKind: "absence",
