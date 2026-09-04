@@ -1,15 +1,18 @@
 #!/usr/bin/env bun
 
 import { writeSync } from "node:fs"
-import { applySttySane, TERMINAL_MODE_RESET } from "@akasha/seat-system/supervisor-terminal"
-import { createTypingMinuteRecorder } from "@akasha/seat-system/typing-minutes"
-import { type BunPtyTerminal, spawnPty } from "./bun-pty.ts"
+import { type BunPtyTerminal, spawnPty } from "../bun-pty/bun-pty.module.code.ts"
 import {
   createRisingEdgeDetector,
   DEV_CHANNEL_MARKER,
   INJECT_DELAY_MS,
-} from "./pty-proxy-detector.ts"
-import { createTerminalDeathController } from "./pty-terminal-death.ts"
+} from "../pty-proxy-detector/pty-proxy-detector.module.code.ts"
+import { createTerminalDeathController } from "../pty-terminal-death/pty-terminal-death.module.code.ts"
+import {
+  applySttySane,
+  TERMINAL_MODE_RESET,
+} from "../supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
+import { createTypingMinuteRecorder } from "../typing-minutes/typing-minutes.module.code.ts"
 
 const TERMINAL_DEATH_GRACE_MS = 15_000
 
@@ -31,7 +34,7 @@ function restoreTerminal(): undefined {
   applySttySane()
 }
 
-async function main(): Promise<number> {
+export async function proxiedTerminal(): Promise<number> {
   let command = process.argv.slice(2)
   if (command[0] === "--") command = command.slice(1)
   if (command.length === 0) {
@@ -132,6 +135,8 @@ async function main(): Promise<number> {
   return code
 }
 
-const code = await main()
-restoreTerminal()
-process.exit(code)
+if (import.meta.main) {
+  const code = await proxiedTerminal()
+  restoreTerminal()
+  process.exit(code)
+}

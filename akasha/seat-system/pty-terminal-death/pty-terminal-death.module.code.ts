@@ -1,4 +1,3 @@
-
 export interface TerminalDeathEffects {
   sigtermChild: () => void
   sigkillChild: () => void
@@ -11,7 +10,9 @@ export interface TerminalDeathController {
   onChildExited: () => void
 }
 
-export function createTerminalDeathController(effects: TerminalDeathEffects): TerminalDeathController {
+export function createTerminalDeathController(
+  effects: TerminalDeathEffects
+): TerminalDeathController {
   let armed = false
   let exited = false
   let cancelBackstop: (() => void) | undefined

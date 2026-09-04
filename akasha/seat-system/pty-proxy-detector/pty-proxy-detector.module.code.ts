@@ -1,4 +1,3 @@
-
 export interface RisingEdgeDetector {
   push: (chunk: Uint8Array) => boolean
 }

@@ -14,7 +14,9 @@ describe("a client opened on one account", () => {
   })
 
   test("is reached through the pty proxy rather than run directly", () => {
-    expect(said).toContain('bun run "$_root/tools/lib/pty-proxy.ts" -- bun run')
+    expect(said).toContain(
+      'bun run "$_root/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts" -- bun run'
+    )
   })
 
   test("resets the terminal and ends with what the client ended with", () => {

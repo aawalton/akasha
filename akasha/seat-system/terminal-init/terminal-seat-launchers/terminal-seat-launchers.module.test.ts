@@ -39,7 +39,9 @@ describe("a session", () => {
 
 describe("the launch", () => {
   test("is composed from the same recipe a program launching a seat uses", () => {
-    expect(launching).toContain('bun run "$_root/tools/lib/pty-proxy.ts" -- bun run')
+    expect(launching).toContain(
+      'bun run "$_root/akasha/seat-system/pty-proxy/pty-proxy.module.code.ts" -- bun run'
+    )
     expect(launching).toContain("env -u TMUX -u TMUX_PANE")
     expect(launching).toContain("systemd-run --user --scope --collect --quiet")
     expect(launching).toContain("set-option -g status off")

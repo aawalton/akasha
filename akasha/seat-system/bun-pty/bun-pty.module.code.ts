@@ -1,4 +1,3 @@
-
 export interface BunPtyTerminal {
   write: (data: string | Uint8Array) => number
   resize: (cols: number, rows: number) => void
