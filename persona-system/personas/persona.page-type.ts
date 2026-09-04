@@ -52,7 +52,6 @@ export const persona = {
     "file-property/appearance",
     "file-property/portrait",
     "number-property/green-day-points",
-    "number-property/total-points",
     "persona/abby",
     "persona/aelwyn",
     "persona/aine",
