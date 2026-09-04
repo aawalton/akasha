@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "Nothing in pages-system carries a calculation today. `pages-system/page-queries` states `reduction` and `targetKey` and sums a key a page already holds, so a key nothing writes sums to nothing rather than refusing. Start from `pages-system/page-properties/page-property.page-type.ts` and `code-system/modules/module.page-type.ts`, which the new type extends both of.",
+        "`pages-system/formula-properties/formula-property.page-type.ts` already does the formula case, so this generalises rather than starts. It states `holds` and a `formula` string. What is missing is rollup and aggregate, and a calculation that is a function rather than text. Start from `pages-system/page-properties/page-property.page-type.ts` and `code-system/modules/module.page-type.ts`, which the new type extends both of.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
@@ -18,14 +18,19 @@ export const nimueComputedProperties = {
         "The point of the sub-types is control of inputs. A rollup, an aggregate and a formula each hand their function a different shape, and the function reaches only what its shape hands it. Unsettled: whether the shape is enforced by the type alone or by a check as well.",
     },
     {
+      statement: "No calculation is written as an expression the system parses.",
+      workingMemory:
+        "`pages-system/page-formulas` parses text like `case({faith-points} >= 2 -> 4, otherwise -> 0)` and `({active-calories} ?? 0) + ({strength-calories} ?? 0)`. wake-day carries sixteen formula properties: six *-level, six *-stoplight, stoplights, total-level, activity-calories, strength-calories. `pages-system/service/page-asking` imports the parser, and `alan/tracking/daily/day-figures` has no code importer. All sixteen are carried to functions before the parser goes.",
+    },
+    {
       statement: "Sleep hours and surplus hours answer from a calculation.",
       workingMemory:
-        "`wake-day` declares no sleep-hours, spend-hours or surplus-hours, and 0 of 136 day pages carries one. `pages-system/page-queries/pages/sleep-hours-on-day.page-query.ts` sums sleep-hours over wake-day. The markdown deriver computed these at query time; the migration took it away without moving the arithmetic, and `alan/tracking/daily/day-place/day-place.module.code.ts` lines 169-176 names sixteen such keys. Last true answer Sep 3 06:45, dark since 06:50 at commit fb018236ed.",
+        "`wake-day` declares no sleep-hours, spend-hours or surplus-hours and no formula property for them, while every other key of the sixteen has one. `surplusIn` short-circuits on `heldNothing` before it reads surplus-hours, so the reading is null rather than 0. Settle first whether a day answers the same through the store's page-asking, which applies formulas, as through day-place's local asking, which shows no formula step.",
     },
     {
       statement: "No page query sums a key no page type declares.",
       workingMemory:
-        "Sixteen keys are named at day-place.module.code.ts:169-176 and only three are diagnosed here. The rest are uncounted. A check refusing a query whose target key no page type declares would have caught all sixteen at the migration rather than one reading at a time.",
+        "Two page queries name wake-day for keys it does not declare: activity-calories-on-day and surplus-hours-on-day. The census found an inversion: the ten keys with no code reader are the ten wake-day declares, and the three with live readers are the three it does not. The views tracking-value-levels and tracking-value-points draw the levels and stoplights.",
     },
   ],
   constraints: [
