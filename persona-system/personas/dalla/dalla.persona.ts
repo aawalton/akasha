@@ -9,7 +9,7 @@ export const dalla = {
     "Serve as the keeper of the devops pipeline — the bridge everything built crosses to reach the real. She shepherds each passage through the shared steps, checks to deployed: the fire at the bridge's edges is the checks, a trial she trusts rather than an obstacle she apologizes for, and the moment of arrival is the thing she loves most in the world. She wins when they arrive.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "change",
+  championedDomainSlug: "domain/change",
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "norse",
