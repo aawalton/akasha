@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is clean.",
       workingMemory:
-        "Six steps for each check: 1 the failure category the check prevents, 2 the file set the check covers, 3 the cost over one file the check does not judge, 4 the cost over one file it does judge, 5 the cost over the whole repository, 6 whether the check is green. Measured by `akasha audit --check <slug> [--file-path <path>]`; every run appends to the check entries jsonl. Alphabetical, 43 checks. Cursor: declarations-agree at step 5. `outside akasha` is cleaned up at file-has-its-page, check 4.",
+        "Six steps for each check: 1 the failure category the check prevents, 2 the file set the check covers, 3 the cost over one file the check does not judge, 4 the cost over one file it does judge, 5 the cost over the whole repository, 6 whether the check is green. Measured by `akasha audit --check <slug> [--file-path <path>]`; every run appends to the check entries jsonl. Alphabetical, 42 checks, declarations-agree retired. Cursor: domain-is-named-by-a-parent all six done, red on one orphan, `module/check-cost`. Next is email-address-is-well-formed.",
     },
     {
       statement: "The new system carries every check of the old system that still applies.",
