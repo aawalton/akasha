@@ -8,7 +8,7 @@ export const checking7151339290 = {
   definition: "money the family holds, standing in a checking account",
   monarchId: "193792761164339290",
   accountDisplayName: "Checking (...7151)",
-  currentBalance: 19713.77,
+  currentBalance: 22562.26,
   accountType: "depository",
   asset: true,
   accountActive: true,
