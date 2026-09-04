@@ -10,17 +10,14 @@ import type { Asked } from "../../command-system/asking/asking.module.code.ts"
 import { counted, landingAsked, textOf } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import { answering } from "../../command-system/calling/calling.module.code.ts"
-import { move } from "../../command-system/commands/move/move.command.code.ts"
-import {
-  importingOf,
-  spellingOf,
-} from "../../command-system/commands/move/naming/move-naming.module.code.ts"
-import { repointed } from "../../command-system/commands/move/repointing/move-repointing.module.code.ts"
 import { bodyAt } from "../../command-system/commit-reading/commit-reading.module.code.ts"
 import type { FileCarry, FileEdit } from "../../command-system/landing/landing.module.code.ts"
 import { baseOf } from "../../command-system/landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../command-system/reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../command-system/reading/reading.module.code.ts"
+import { move } from "../move/move.command.code.ts"
+import { importingOf, spellingOf } from "../move/naming/move-naming.module.code.ts"
+import { repointed } from "../move/repointing/move-repointing.module.code.ts"
 import { glassIn, messageIn } from "../write/write.command.code.ts"
 import {
   AT,

@@ -1,14 +1,14 @@
 import { dirname, join, relative } from "node:path"
-import { counted } from "../../../asking/asking.module.code.ts"
-import type { FileEdit } from "../../../landing/landing.module.code.ts"
-import type { Placed } from "../../../outside-naming/outside-naming.module.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
+import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import type { Placed } from "../../../command-system/outside-naming/outside-naming.module.code.ts"
 import {
   namesIn,
   spelledRespelt,
   splicedOver,
-} from "../../../outside-naming/outside-naming.module.code.ts"
-import type { Carry } from "../../../reading/reading.module.code.ts"
-import { blobIdOf } from "../../../reading/reading.module.code.ts"
+} from "../../../command-system/outside-naming/outside-naming.module.code.ts"
+import type { Carry } from "../../../command-system/reading/reading.module.code.ts"
+import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
 
 const HERE = "."
 

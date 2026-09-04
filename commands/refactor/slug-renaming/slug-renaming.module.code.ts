@@ -1,7 +1,7 @@
 import { basename, dirname, join } from "node:path"
 import type { Listed } from "@akasha/indexes"
 import { addressIn } from "@akasha/pages-system/page-address"
-import { besideRenamed } from "../../../command-system/commands/move/renaming/move-renaming.module.code.ts"
+import { besideRenamed } from "../../move/renaming/move-renaming.module.code.ts"
 import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
 import { FROM, TO } from "../arguing/refactor-arguing.module.code.ts"
 

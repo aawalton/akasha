@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const move = {
   id: "01a04bed-1450-7dca-b1b5-ce3ca9f6ecaf",

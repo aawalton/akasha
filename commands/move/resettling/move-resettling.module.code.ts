@@ -1,9 +1,12 @@
 import type { Dirent } from "node:fs"
 import { readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { counted } from "../../../asking/asking.module.code.ts"
-import type { Placed } from "../../../outside-naming/outside-naming.module.code.ts"
-import { boundedAt, splicedOver } from "../../../outside-naming/outside-naming.module.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
+import type { Placed } from "../../../command-system/outside-naming/outside-naming.module.code.ts"
+import {
+  boundedAt,
+  splicedOver,
+} from "../../../command-system/outside-naming/outside-naming.module.code.ts"
 
 export const STEM = "agent-settings-"
 

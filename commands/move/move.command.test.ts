@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { unreadIn } from "@akasha/context/warranting"
 import { refusing } from "@akasha/testing-system/minting"
 import { there } from "@akasha/testing-system/putting"
-import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
+import { blobIdOf, readingIn } from "../../command-system/reading/reading.module.code.ts"
 import { pairsIn } from "./arguing/move-arguing.module.code.ts"
 import { move } from "./move.command.code.ts"
 import {

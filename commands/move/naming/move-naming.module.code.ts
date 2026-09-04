@@ -2,8 +2,8 @@ import { basename } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
 import type { Listed } from "@akasha/indexes"
 import { everyPath, importersOf, listedByPath, readingIn } from "@akasha/indexes"
-import { textOf } from "../../../asking/asking.module.code.ts"
-import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
+import { textOf } from "../../../command-system/asking/asking.module.code.ts"
+import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
 
 export type Naming = { readonly held: Listed | null } | { readonly unread: string }
 

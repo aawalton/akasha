@@ -5,7 +5,7 @@ import type { Reading } from "@akasha/indexes/shape"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { kindsUnder } from "@akasha/pages-system/page-type-descent"
 import type { Value } from "@akasha/pages-system/page-value"
-import { counted } from "../../../asking/asking.module.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
 import { PART_SLUGS, withoutPart, withPart } from "../listing/move-listing.module.code.ts"
 
 const DOMAIN = "domain"

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   foldersOf,
   namedUnder,
