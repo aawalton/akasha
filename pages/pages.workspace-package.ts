@@ -32,6 +32,7 @@ export const pages = {
     "page-type/text-property",
     "page-type/number-property",
     "page-type/formula-property",
+    "page-type/computed-property",
     "page-type/boolean-property",
     "page-type/instant-property",
     "page-type/relation-property",
@@ -101,7 +102,7 @@ export const pages = {
     },
     {
       invariantKind: "departure",
-      statement: "What makes a file a page is the page type its name carries.",
+      statement: "A page is a file whose name carries a page type.",
     },
   ],
 } as const satisfies WorkspacePackage
