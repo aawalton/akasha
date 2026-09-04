@@ -203,5 +203,5 @@ export async function audit(argv: readonly string[], given: Given): Promise<Answ
     over.change.changed.length,
     change.changed.length
   )
-  return await judgedOver(judgingBy(narrowed.checks), over.change, also)
+  return await judgedOver(judgingBy(narrowed.checks, "audit"), over.change, also)
 }
