@@ -1,0 +1,254 @@
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1c6d775bb548d76e6302adc481c45f050199ffb6
+--- /dev/null
++++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
+@@ -0,0 +1,134 @@
++import { readdirSync } from "node:fs"
++import { join, resolve } from "node:path"
++import { servedOf } from "@akasha/code-system/code-typing"
++import { waitingKeys } from "@akasha/indexes/generated-properties"
++import type { Change } from "@akasha/pages-system/change"
++import type { Shadow } from "@akasha/pages-system/shadow"
++import { API } from "typescript-7/unstable/sync"
++import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
++import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
++import type { Judged } from "../../../modules/judging/judging.module.code.ts"
++import type { Found } from "../typecheck/typecheck.code-check.code.ts"
++import {
++  bodiesOf,
++  builtFrom,
++  declaringIn,
++  mintingIn,
++  rootsOf,
++} from "../typecheck/typecheck.code-check.code.ts"
++
++const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
++
++const CONFIG_NAME = "tsconfig.typescript-7.json"
++
++const TYPES_AT = "node_modules/@types"
++
++const FIRST_LINE = 1
++
++const SETTINGS = {
++  noEmit: true,
++  strict: true,
++  noUncheckedIndexedAccess: true,
++  allowImportingTsExtensions: true,
++  module: "preserve",
++  moduleResolution: "bundler",
++  target: "esnext",
++  skipLibCheck: true,
++  jsx: "react-jsx",
++} as const
++
++const BUILT: Selector<Body> = {
++  named: "the bodies the program is built from",
++  isInput: (path) => builtFrom(path),
++  from: (change, shadow) => FILES.from(change, shadow).filter((one) => builtFrom(one.path)),
++}
++
++export function typesIn(root: string): readonly string[] {
++  try {
++    return readdirSync(join(root, TYPES_AT)).sort()
++  } catch {
++    return []
++  }
++}
++
++export function configOf(root: string, named: readonly string[]): string {
++  return JSON.stringify({ compilerOptions: { ...SETTINGS, types: typesIn(root) }, files: named })
++}
++
++export function servingOf(
++  root: string,
++  at: string,
++  config: string,
++  read: (path: string) => string | undefined
++): (name: string) => string | null | undefined {
++  return (name) => {
++    if (name === at) return config
++    if (servedOf(root, resolve(name)) === null) return undefined
++    const body = read(name)
++    return body === undefined ? null : body
++  }
++}
++
++export function foundOf(root: string, said: Diagnosed): Found {
++  const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName))
++  const line = (said.startPosition?.line ?? 0) + FIRST_LINE
++  return {
++    path: at ?? said.fileName ?? "",
++    reason: `line ${line}: TS${said.code}: ${said.text}`,
++  }
++}
++
++type Diagnosed = {
++  readonly fileName?: string
++  readonly code: number
++  readonly text: string
++  readonly startPosition?: { readonly line: number }
++}
++
++export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
++  const roots = rootsOf(change, shadow.index)
++  if (roots.length === 0) return []
++  const root = resolve(change.root)
++  const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
++  const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
++  const at = join(root, CONFIG_NAME)
++  const config = configOf(root, named)
++  const readFile = servingOf(root, at, config, read)
++  const api = new API({
++    cwd: root,
++    fs: { readFile, fileExists: (name) => (name === at ? true : undefined) },
++  })
++  try {
++    const project = api.updateSnapshot({ openProjects: [at] }).getProject(at)
++    if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
++    const found: Found[] = []
++    for (const one of roots) {
++      const file = join(root, one)
++      for (const said of project.program.getSyntacticDiagnostics(file))
++        found.push(foundOf(root, said))
++      for (const said of project.program.getSemanticDiagnostics(file))
++        found.push(foundOf(root, said))
++    }
++    return found
++  } finally {
++    api.close()
++  }
++}
++
++function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
++  const changed = new Set(change.changed)
++  const seen = new Set<string>()
++  const said: Judged[] = []
++  for (const one of foundIn(change, shadow)) {
++    const key = `${one.path}\n${one.reason}`
++    if (seen.has(key)) continue
++    seen.add(key)
++    said.push({
++      path: one.path,
++      reason: changed.has(one.path) ? one.reason : `${one.reason} — ${ELSEWHERE}`,
++    })
++  }
++  return said
++}
++
++export const typescript7 = input(BUILT, refusalsIn)
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..084af2fcb326026de1155bfd8bd6bc2ce19eda75
+--- /dev/null
++++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts
+@@ -0,0 +1,43 @@
++import { describe, expect, test } from "bun:test"
++import { configOf, servingOf, typesIn } from "./typescript-7.code-check.code.ts"
++
++const ROOT = "/var/home/walton/repos/akasha"
++
++describe("the settings the program is built from", () => {
++  test("name every ambient type the packages folder holds", () => {
++    const held = typesIn(ROOT)
++    expect(held.length).toBeGreaterThan(0)
++    expect(held).toContain("bun")
++  })
++
++  test("carry the files judged", () => {
++    const said: { compilerOptions: { types: string[] }; files: string[] } = JSON.parse(
++      configOf(ROOT, ["one.ts", "two.ts"])
++    )
++    expect(said.files).toEqual(["one.ts", "two.ts"])
++    expect(said.compilerOptions.types).toContain("bun")
++  })
++})
++
++describe("what the compiler is served", () => {
++  const at = `${ROOT}/tsconfig.typescript-7.json`
++  const serving = servingOf(ROOT, at, "{}", (path) =>
++    path.endsWith("held.ts") ? "export const held = 1" : undefined
++  )
++
++  test("answers the config at the path it was named by", () => {
++    expect(serving(at)).toBe("{}")
++  })
++
++  test("answers a body the change carries", () => {
++    expect(serving(`${ROOT}/held.ts`)).toBe("export const held = 1")
++  })
++
++  test("answers a path the change takes away as absent rather than as unknown", () => {
++    expect(serving(`${ROOT}/gone.ts`)).toBeNull()
++  })
++
++  test("leaves a path outside the checkout to the disk", () => {
++    expect(serving("/etc/hostname")).toBeUndefined()
++  })
++})
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a136de0f83f6ff94646a1aeaa5ac99665aee4fb6
+--- /dev/null
++++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
+@@ -0,0 +1,59 @@
++import type { CodeCheck } from "../../code-check.page-type.ts"
++
++export const typescript7 = {
++  id: "01a06e16-d565-7880-8b91-34da07e9196f",
++  pageTypeSlug: "code-check",
++  slug: "typescript-7",
++  definition: "the check refusing TypeScript that does not compile, judged by TypeScript 7",
++  code: "ts",
++  test: "ts",
++  runsOnPatch: false,
++  runsOnWorktree: false,
++  runsOnDeploy: false,
++  runsOnAudit: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "What this judges is what `typecheck` judges, by another compiler.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The files judged are the change and every file that imports the change however far.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The program is built over the files judged and the declarations alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body is read from what the check is handed rather than from the disk.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A path the change takes away is answered as absent rather than read from the disk.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "This compiler draws in no ambient types the settings do not name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The settings name every ambient type the packages folder holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The config the program is built from is served to the compiler rather than written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing of what this run worked out is kept for the next.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "This is beside `typecheck` while the two are compared rather than in its place.",
++    },
++  ],
++} as const satisfies CodeCheck
