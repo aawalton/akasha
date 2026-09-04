@@ -1,4 +1,4 @@
-import type { Values } from "../page-carry/page-carry.module.code.ts"
+import type { Values } from "../carry/page-carry.module.code.ts"
 
 export function textOf(values: Values, key: string): string | null {
   const value = values[key]
