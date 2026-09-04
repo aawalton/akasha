@@ -24,6 +24,8 @@ const ONE = "01a058ff-0000-7001-8000-000000000001"
 
 const DOMAIN = "@example.com"
 
+const TAB = String.fromCodePoint(9)
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -96,6 +98,41 @@ test("an address stating no domain after the `@` is refused", () => {
 
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("no domain")
+})
+
+test("an address padded before the mailbox is refused", () => {
+  const said = judging(` ada${DOMAIN}`)
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("holds whitespace")
+})
+
+test("an address padded after the domain is refused", () => {
+  const said = judging(`ada${DOMAIN} `)
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("holds whitespace")
+})
+
+test("an address holding a space inside the mailbox is refused", () => {
+  const said = judging(`ada ada${DOMAIN}`)
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("holds whitespace")
+})
+
+test("an address holding a tab is refused", () => {
+  const said = judging(`ada${TAB}${DOMAIN}`)
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("holds whitespace")
+})
+
+test("a padded address is refused for its whitespace rather than for its case", () => {
+  const said = judging(` Ada${DOMAIN}`)
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("holds whitespace")
 })
 
 test("an address of 254 characters is let through", () => {
