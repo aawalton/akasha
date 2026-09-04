@@ -6,34 +6,34 @@ import {
   inAliasOrder,
 } from "./terminal-bash.module.code.ts"
 
-const accounts: readonly AliasEntry[] = [
+const ACCOUNTS: readonly AliasEntry[] = [
   { account: "ctw", aliasIndex: 3 },
   { account: "aawalton", aliasIndex: 1 },
   { account: "aow", aliasIndex: 2 },
 ]
 
-const said = generateBashInit(accounts)
+const said = generateBashInit(ACCOUNTS)
 
 describe("the launchers", () => {
   test("stand in the order of the alias indexes rather than of the slugs", () => {
-    expect(inAliasOrder(accounts).map((one) => one.account)).toEqual(["aawalton", "aow", "ctw"])
+    expect(inAliasOrder(ACCOUNTS).map((one) => one.account)).toEqual(["aawalton", "aow", "ctw"])
     expect(said.indexOf("c1() {")).toBeLessThan(said.indexOf("c2() {"))
     expect(said.indexOf("c2() {")).toBeLessThan(said.indexOf("c3() {"))
   })
 
   test("are one per account, named for the alias index that account carries", () => {
-    for (const { account, aliasIndex } of accounts) {
+    for (const { account, aliasIndex } of ACCOUNTS) {
       expect(said).toContain(`c${String(aliasIndex)}() {`)
       expect(said).toContain(`-a ${account}`)
     }
   })
 
   test("are named in the order the set defines them", () => {
-    expect(functionNames(accounts)).toEqual(["cu", "c1", "c2", "c3", "cna", "sn", "sr"])
+    expect(functionNames(ACCOUNTS)).toEqual(["cu", "c1", "c2", "c3", "cna", "sn", "sr"])
   })
 
   test("each reload the whole set before dispatching", () => {
-    for (const name of functionNames(accounts)) {
+    for (const name of functionNames(ACCOUNTS)) {
       expect(said).toContain(`${name}() {\n  _akasha_reload\n  _akasha_fn_${name} "$@"\n}`)
     }
   })
@@ -43,7 +43,7 @@ describe("the set", () => {
   test("unaliases every name that was once an alias before defining it", () => {
     const at = said.indexOf("unalias ")
     expect(at).toBeGreaterThanOrEqual(0)
-    for (const name of functionNames(accounts)) {
+    for (const name of functionNames(ACCOUNTS)) {
       expect(said.slice(at, said.indexOf("\n", at))).toContain(name)
       expect(at).toBeLessThan(said.indexOf(`${name}() {`))
     }
@@ -54,11 +54,9 @@ describe("the set", () => {
     expect(said).toContain("alias gs='git status'")
   })
 
-  // MIGRATION ONLY, added 2026-09-03 — akasha-migration constraint 16. Delete this test and
-  // put `alias gp='git push'` back when the migration is done.
-  test("composes no alias that pushes, while the migration runs", () => {
+  test("pushes through the one command that pushes rather than through git", () => {
+    expect(said).toContain("alias gp='akasha push'")
     expect(said).not.toContain("git push")
-    expect(said).toContain("gp is off for the akasha migration")
   })
 
   test("carries the seat launch step and the editor terminal trap", () => {
