@@ -93,3 +93,81 @@ index d33836dcfd600ad6324de084b8ef405abcc97730..be134426702fa41a6ac550054ee41931
  export function asking(over: Partial<Asked>): Asked {
    return {
      changes: [{ path: TWO_AT, body: bytes(PROPOSED) }],
+diff --git a/command-system/commands/edit/edit.command.test-fixtures.ts b/command-system/commands/edit/edit.command.test-fixtures.ts
+index b0c2045d49c007166ece11ddc3f08540c7d52fea..63679903f0a78a86eb7990fc563072d0868de27a 100644
+--- a/command-system/commands/edit/edit.command.test-fixtures.ts
++++ b/command-system/commands/edit/edit.command.test-fixtures.ts
+@@ -1,6 +1,8 @@
+ import { put } from "@akasha/testing-system/putting"
+-import { repoAt } from "../../asking/asking.module.test-fixtures.ts"
++import { applied, repoAt } from "../../asking/asking.module.test-fixtures.ts"
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
++import { edit } from "./edit.command.code.ts"
+ 
+ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+ 
+@@ -26,6 +28,14 @@ export const givenIn = (root: string) => ({
+   agentId: AGENT,
+ })
+ 
++export async function edited(
++  root: string,
++  argv: readonly string[],
++  given: Given = givenIn(root)
++): Promise<Answer> {
++  return await applied(root, await edit(argv, given), argv, given)
++}
++
+ export function stating(root: string, name: string, was: string, now: string): readonly string[] {
+   return ["--old-file", put(root, `${name}.old`, was), "--new-file", put(root, `${name}.new`, now)]
+ }
+diff --git a/command-system/commands/write/write.command.test-fixtures.ts b/command-system/commands/write/write.command.test-fixtures.ts
+index e7762859222e1dd3d463d6fef9f75da8f0e89826..7f0554c663070da1f1bfc16e8261eb59e374dc81 100644
+--- a/command-system/commands/write/write.command.test-fixtures.ts
++++ b/command-system/commands/write/write.command.test-fixtures.ts
+@@ -1,7 +1,7 @@
+ import { said as gitIn } from "@akasha/git/git-running"
+ import { bytesOf } from "@akasha/testing-system/bodying"
+ import { put } from "@akasha/testing-system/putting"
+-import { bodyIn, givenIn, repoAt } from "../../asking/asking.module.test-fixtures.ts"
++import { applied, bodyIn, givenIn, repoAt } from "../../asking/asking.module.test-fixtures.ts"
+ import type { Answer } from "../../calling/calling.module.code.ts"
+ import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
+ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+@@ -17,7 +17,7 @@ export function repoWith(
+   return repoAt(scratch.rootFor("akasha-write-"), named)
+ }
+ 
+-export async function wroteAt(
++export async function draftedAt(
+   root: string,
+   path: string,
+   said: readonly string[] = []
+@@ -25,15 +25,24 @@ export async function wroteAt(
+   return await write(["--file-path", path, "--content-file", bodyIn(root), ...said], givenIn(root))
+ }
+ 
++export async function wroteAt(
++  root: string,
++  path: string,
++  said: readonly string[] = []
++): Promise<Answer> {
++  return await applied(root, await draftedAt(root, path, said), said)
++}
++
+ export async function removed(root: string, path: string): Promise<Answer> {
+-  return await write(["--remove", path], givenIn(root))
++  return await applied(root, await write(["--remove", path], givenIn(root)))
+ }
+ 
+ export async function wroteAndRemoved(root: string, path: string, gone: string): Promise<Answer> {
+-  return await write(
++  const said = await write(
+     ["--file-path", path, "--content-file", bodyIn(root), "--remove", gone],
+     givenIn(root)
+   )
++  return await applied(root, said)
+ }
+ 
+ export function alsoCommitted(root: string, path: string, body: string): string {
