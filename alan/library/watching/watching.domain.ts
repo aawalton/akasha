@@ -6,6 +6,7 @@ export const watching = {
   slug: "watching",
   definition: "the shows and films Alan watches",
   partSlugs: [
+    "number-property/vote-average",
     "page-type/episode",
     "page-type/fandom",
     "page-type/fandom-collection",
@@ -14,6 +15,10 @@ export const watching = {
     "page-type/season",
     "page-type/show",
     "page-type/show-collection",
+    "select-property/production-status",
+    "text-property/genres",
+    "text-property/imdb-id",
+    "text-property/poster-path",
   ],
   invariants: [
     {

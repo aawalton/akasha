@@ -23,14 +23,7 @@ export const movie = {
   definition: "a story told in one sitting",
   pluralSlug: "movies",
   extendsSlug: "page-type/collection-external",
-  partSlugs: [
-    "number-property/vote-average",
-    "select-property/production-status",
-    "text-property/genres",
-    "text-property/imdb-id",
-    "text-property/poster-path",
-    "text-property/title",
-  ],
+  partSlugs: [],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "genres", required: false, many: true, max: null },

@@ -19,12 +19,7 @@ export const episode = {
   definition: "one instalment of a season",
   pluralSlug: "episodes",
   extendsSlug: "page-type/collection-external",
-  partSlugs: [
-    "number-property/vote-average",
-    "select-property/episode-type",
-    "text-property/still-path",
-    "text-property/title",
-  ],
+  partSlugs: ["select-property/episode-type", "text-property/still-path"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "episode-type", required: false, many: false },

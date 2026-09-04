@@ -17,7 +17,7 @@ export const season = {
   definition: "one run of a show's episodes",
   pluralSlug: "seasons",
   extendsSlug: "page-type/collection-external",
-  partSlugs: ["number-property/vote-average", "text-property/poster-path", "text-property/title"],
+  partSlugs: [],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "poster-path", required: false, many: false },

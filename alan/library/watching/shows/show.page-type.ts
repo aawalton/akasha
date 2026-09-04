@@ -25,15 +25,7 @@ export const show = {
   definition: "a story told in episodes over seasons",
   pluralSlug: "shows",
   extendsSlug: "page-type/collection-external",
-  partSlugs: [
-    "calendar-date-property/last-air-date",
-    "number-property/vote-average",
-    "select-property/production-status",
-    "text-property/genres",
-    "text-property/imdb-id",
-    "text-property/poster-path",
-    "text-property/title",
-  ],
+  partSlugs: ["calendar-date-property/last-air-date"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "genres", required: false, many: true, max: null },
