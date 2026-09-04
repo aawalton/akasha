@@ -1,5 +1,6 @@
 import type { PageType } from "./page-types/page-type.page-type.ts"
 import type { Cover } from "./properties/cover.text-property.ts"
+import type { Description } from "./properties/description.text-property.ts"
 import type { Id } from "./properties/id.text-property.ts"
 import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
 import type { Slug } from "./properties/slug.text-property.ts"
@@ -10,6 +11,7 @@ export type Page = {
   pageTypeSlug: PageTypeSlug
   slug: Slug
   title?: Title
+  description?: Description
   cover?: Cover
 }
 
@@ -25,11 +27,13 @@ export const page = {
     { pagePropertySlug: "page-type-slug", required: true, many: false },
     { pagePropertySlug: "slug", required: true, many: false },
     { pagePropertySlug: "title", required: false, many: false },
+    { pagePropertySlug: "description", required: false, many: false },
     { pagePropertySlug: "cover", required: false, many: false },
   ],
   partSlugs: [
     "relation-property/page-type-slug",
     "text-property/cover",
+    "text-property/description",
     "text-property/id",
     "text-property/slug",
     "text-property/title",
@@ -70,7 +74,7 @@ export const page = {
     {
       invariantKind: "departure",
       statement:
-        "An identity replaced for being no uuid version 7 keeps the last eight hex of the old one.",
+        "An identity replaced for being no uuid version 7 keeps the old identity's last eight hex.",
     },
     {
       invariantKind: "departure",
@@ -86,11 +90,11 @@ export const page = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Loading a page's file declares its value and does nothing else.",
+      statement: "Loading a page's file declares that page's value and runs no code.",
     },
     {
       invariantKind: "gap",
-      statement: "A page file that does more than declare its value does not land.",
+      statement: "A page file that runs code beyond the value declaration does not land.",
     },
   ],
 } as const satisfies PageType

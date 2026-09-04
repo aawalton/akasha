@@ -54,7 +54,6 @@ export const pages = {
     "page-type/generator-kind",
     "page-type/unique-kind",
     "page-type/page-query",
-    "text-property/description",
     "workspace-package/indexes",
     "workspace-package/pages-query",
     "workspace-package/pages-system-service",

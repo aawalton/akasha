@@ -1,6 +1,5 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { AccountPage } from "./properties/account-page.text-property.ts"
 import type { Category } from "./properties/category.text-property.ts"
@@ -15,7 +14,6 @@ import type { Parent } from "./properties/parent.text-property.ts"
 export type TemperThing = Page & {
   title: Title
   key?: Key
-  description?: Description
   icon?: Icon
   displayOrder?: DisplayOrder
   accountPage?: AccountPage
@@ -49,7 +47,6 @@ export const temperThing = {
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "key", required: false, many: false },
-    { pagePropertySlug: "description", required: false, many: false },
     { pagePropertySlug: "icon", required: false, many: false },
     { pagePropertySlug: "display-order", required: false, many: false },
     { pagePropertySlug: "account-page", required: false, many: false },
@@ -62,7 +59,8 @@ export const temperThing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every page type temper carries extends this one or a page type extending it.",
+      statement:
+        "Every page type temper carries extends temper-thing or a page type extending temper-thing.",
     },
     {
       invariantKind: "departure",
