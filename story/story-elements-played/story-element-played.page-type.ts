@@ -55,8 +55,11 @@ export const storyElementPlayed = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An element's five faculties on its page are what holds across the whole story, and what changes turn by turn is beside the page.",
+      statement: "An element's five faculties on its page are what holds across the whole story.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What changes turn by turn sits beside the element's page.",
     },
     {
       invariantKind: "departure",
@@ -64,17 +67,27 @@ export const storyElementPlayed = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An element states at every turn what it would do, whether or not the story took it.",
+      statement: "An element states at every turn what the element would do.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A setting element's knowing is the story's true state, which every other element's knowing is free to differ from.",
+      statement: "An element states a turn whether or not the story takes that turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A setting element's knowing is the story's true state.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Another element's knowing is free to differ from the story's true state.",
     },
     {
       invariantKind: "gap",
-      statement: "No program plays an element; an agent writes each turn by hand.",
+      statement: "No program plays an element.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An agent writes each turn by hand.",
     },
   ],
 } as const satisfies PageType

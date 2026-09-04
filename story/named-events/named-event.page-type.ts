@@ -56,16 +56,19 @@ export const namedEvent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An event's own words for itself are its aliases, and the story uses any of them.",
+      statement: "An event's own words for itself are its aliases.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where the chapters an event spans are known, they bound every date read against it.",
+      statement: "The story names an event by any alias the event carries.",
     },
     {
       invariantKind: "departure",
-      statement: "An event names the world it happened in.",
+      statement: "The chapters an event spans bound every date read against that event.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An event names the world the event happened in.",
     },
   ],
 } as const satisfies PageType
