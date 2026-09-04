@@ -1,0 +1,36 @@
+diff --git a/context/context.workspace-package.ts b/context/context.workspace-package.ts
+index 02eabd44aac814c24f6a9af283db3a7c3d375edd..937fe3a4ea7b1a4f303b877dc41f7b1571357232 100644
+--- a/context/context.workspace-package.ts
++++ b/context/context.workspace-package.ts
+@@ -21,12 +21,8 @@ export const context = {
+       statement: "Every warrant a change owes is stated by a page of its own.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement: "What a change owes is worked out from the warrant pages.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "No file names the warrants by hand.",
+-    },
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
+index 20bc5ca4041aafac55f25af94632f1dfa025aeaf..3d33dfaea5b18eba6feef454e4be686ec2747128 100644
+--- a/context/warrants/context-warrant.page-type.ts
++++ b/context/warrants/context-warrant.page-type.ts
+@@ -80,11 +80,11 @@ export const contextWarrant = {
+       statement: "A warrant takes and gives paths under the root the warrant was given.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement: "Every warrant that runs is a page here.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement: "No file names a warrant by hand.",
+     },
+   ],
