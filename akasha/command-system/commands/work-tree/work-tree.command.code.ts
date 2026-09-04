@@ -1,9 +1,8 @@
 import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
-import { drawnNow } from "@akasha/seat-system/work-tree-drawn"
-import { type Drawn, type Node, render, workTree as treeOf, walk } from "@tools/lib/work-tree"
+import { type InitiativeRow, initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
+import { type Drawn, drawnNow } from "@akasha/seat-system/work-tree-drawn"
 
 export const JSON_OUT = "--json"
 
@@ -12,6 +11,19 @@ export const COUNTS = "--counts"
 export const COLORS = "--colors"
 
 const FLAGS = [JSON_OUT, COUNTS, COLORS]
+
+const NOTHING_DRAWN: Drawn = { byInitiative: new Map() }
+
+export interface Node {
+  readonly kind: "initiative"
+  readonly key: string
+  readonly label: string
+  readonly relPath: string | null
+  readonly detail: string | null
+  readonly note: string | null
+  readonly color: string | null
+  readonly children: readonly Node[]
+}
 
 export type Shown = "tree" | "json" | "counts" | "colors"
 
@@ -42,18 +54,111 @@ export function colorsSaid(repo: string, drawn: Drawn): string {
   return JSON.stringify({ repo, byInitiative: Object.fromEntries(drawn.byInitiative) })
 }
 
-export function treeIn(root: string): readonly Node[] {
-  return treeOf(
-    {
-      initiatives: initiativesDrawn(root).map((one) => ({
-        slug: one.slug,
-        relPath: one.path,
-        parent: one.parent,
-        persona: one.persona,
-      })),
-    },
-    drawnNow()
+function byKey(a: Node, b: Node): number {
+  return a.key.localeCompare(b.key, "en", { numeric: true })
+}
+
+function sorted(nodes: readonly Node[]): readonly Node[] {
+  return [...nodes].sort(byKey)
+}
+
+function rootedness<T extends { readonly parent: string | null }>(
+  rows: ReadonlyMap<string, T>
+): ReadonlyMap<string, string | null> {
+  const settled = new Map<string, string | null>()
+  for (const [key, row] of rows) {
+    const declared = row.parent
+    if (declared === null || !rows.has(declared)) {
+      settled.set(key, null)
+      continue
+    }
+    const open = new Set<string>([key])
+    let at: string | null = declared
+    let cyclic = false
+    while (at !== null) {
+      const above = rows.get(at)
+      if (above === undefined) break
+      if (open.has(at)) {
+        cyclic = true
+        break
+      }
+      open.add(at)
+      at = above.parent
+    }
+    settled.set(key, cyclic ? null : declared)
+  }
+  return settled
+}
+
+function rootNote(
+  declared: string | null,
+  effective: string | null,
+  rows: ReadonlyMap<string, unknown>
+): string | null {
+  if (declared === null || effective !== null) return null
+  return rows.has(declared)
+    ? `drawn as a root: its parent chain through ${declared} closes on itself`
+    : `drawn as a root: it names parent ${declared}, which has no document`
+}
+
+function nodeOf(
+  row: InitiativeRow,
+  parents: ReadonlyMap<string, string | null>,
+  children: ReadonlyMap<string, readonly string[]>,
+  rows: ReadonlyMap<string, InitiativeRow>,
+  drawn: Drawn
+): Node {
+  return {
+    kind: "initiative",
+    key: row.slug,
+    label: row.slug,
+    relPath: row.path,
+    detail: row.persona,
+    note: rootNote(row.parent, parents.get(row.slug) ?? null, rows),
+    color: drawn.byInitiative.get(row.slug) ?? null,
+    children: sorted(
+      (children.get(row.slug) ?? []).flatMap((slug) => {
+        const below = rows.get(slug)
+        return below === undefined ? [] : [nodeOf(below, parents, children, rows, drawn)]
+      })
+    ),
+  }
+}
+
+export function treeOf(
+  initiatives: readonly InitiativeRow[],
+  drawn: Drawn = NOTHING_DRAWN
+): readonly Node[] {
+  const bySlug = new Map(initiatives.map((one) => [one.slug, one]))
+  const parents = rootedness(bySlug)
+  const children = new Map<string, string[]>()
+  for (const [slug, parent] of parents) {
+    if (parent === null) continue
+    const under = children.get(parent)
+    if (under === undefined) children.set(parent, [slug])
+    else under.push(slug)
+  }
+  return sorted(
+    initiatives
+      .filter((one) => parents.get(one.slug) === null)
+      .map((one) => nodeOf(one, parents, children, bySlug, drawn))
   )
+}
+
+export function walk(nodes: readonly Node[]): readonly Node[] {
+  return nodes.flatMap((one) => [one, ...walk(one.children)])
+}
+
+export function render(nodes: readonly Node[], depth = 0): readonly string[] {
+  return nodes.flatMap((one) => {
+    const detail = one.detail === null ? "" : `  — ${one.detail}`
+    const note = one.note === null ? "" : `  [${one.note}]`
+    return [`${"  ".repeat(depth)}${one.label}${detail}${note}`, ...render(one.children, depth + 1)]
+  })
+}
+
+export function treeIn(root: string): readonly Node[] {
+  return treeOf(initiativesDrawn(root), drawnNow())
 }
 
 function said(root: string, shown: Shown): Answer {

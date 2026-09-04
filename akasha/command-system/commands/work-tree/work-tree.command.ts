@@ -19,6 +19,7 @@ export const workTree = {
     "an initiative is keyed by the slug it declares rather than by the name of its file.",
     "nothing is stored: the tree is composed from the pages at the moment of asking.",
     "an initiative whose parent names a page that is not there is drawn as a root rather than lost with its children.",
+    "an initiative whose parent chain closes into a cycle is drawn as a root in the same way.",
     "a color is the turn state of a seat standing on that initiative, and a row several seats state takes the liveliest of them.",
     "an initiative no seat stands on carries no color.",
     "`--colors` opens no initiative page, so a caller repainting rows pays none of the walk the whole tree costs.",
@@ -30,7 +31,8 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative is keyed by the slug it declares rather than by its file name.",
+      statement:
+        "An initiative is keyed by the slug the initiative declares rather than by the file name.",
     },
     {
       invariantKind: "departure",
@@ -39,15 +41,27 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "Each word names what to print, and a call naming two of them is refused.",
+      statement: "An initiative whose parent chain closes into a cycle is drawn as a root.",
     },
     {
       invariantKind: "departure",
-      statement: "A word said twice names one thing rather than two.",
+      statement: "Each word names what to print.",
     },
     {
       invariantKind: "departure",
-      statement: "The colors are read from the seat pages alone, opening no initiative.",
+      statement: "A call naming two words is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word said twice names one thing rather than two things.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The colors are read from the seat pages alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Reading the colors opens no initiative page.",
     },
     {
       invariantKind: "departure",

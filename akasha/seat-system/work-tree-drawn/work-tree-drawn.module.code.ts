@@ -1,6 +1,9 @@
-import type { Drawn } from "@tools/lib/work-tree"
 import { colorOfState } from "../seat-turn-color/seat-turn-color.module.code.ts"
 import { seatWorkNow } from "../seat-work/seat-work.module.code.ts"
+
+export interface Drawn {
+  readonly byInitiative: ReadonlyMap<string, string>
+}
 
 export function drawnNow(): Drawn {
   const work = seatWorkNow()
