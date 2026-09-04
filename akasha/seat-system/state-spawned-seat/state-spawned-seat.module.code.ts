@@ -32,7 +32,7 @@ async function callSeat(payload: Record<string, unknown>, agentId: string): Prom
   let proc: ReturnType<typeof Bun.spawn>
   try {
     proc = Bun.spawn({
-      cmd: ["bun", `${akashaRoot()}/tools/seat-call.ts`],
+      cmd: ["bun", `${akashaRoot()}/akasha/seat-system/seat-call/seat-call.module.code.ts`],
       stdin: new TextEncoder().encode(JSON.stringify(payload)),
       stdout: "pipe",
       stderr: "pipe",
