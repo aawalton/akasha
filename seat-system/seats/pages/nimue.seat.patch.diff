@@ -55,6 +55,19 @@ index b332607e44a95b14b5475b8a607076c27c853e73..62b29ee347a52c1b423265613cd7a542
      {
        invariantKind: "absence",
        statement: "What stands here is stood up by the check tests that reach for what is here.",
+diff --git a/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts b/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
+index 159ab844a0cfa0e226f15766b7dc9eafc10e5914..f2913d59194a1029411ddf8e7c677db6a55f3f34 100644
+--- a/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
++++ b/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
+@@ -10,7 +10,7 @@ function parentIdsOf(
+   idBySlug: ReadonlyMap<string, string>
+ ): readonly string[] {
+   const said = pt.properties?.extendsSlug
+-  const named = typeof said === "string" ? [said] : Array.isArray(said) ? said : []
++  const named = Array.isArray(said) ? said : []
+   const found: string[] = []
+   for (const one of named) {
+     if (typeof one !== "string" || one === "") continue
 diff --git a/pages/value/page-value.module.code.ts b/pages/value/page-value.module.code.ts
 index 72e7287ccc024837e8cc987890f5c3b43aad1d91..9dbb493f6d57041c99dbea284a1a5694bb711cc2 100644
 --- a/pages/value/page-value.module.code.ts
