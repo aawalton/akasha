@@ -4,7 +4,8 @@ export const turnWorking = {
   id: "01a0687b-3c85-7000-b60f-9d7b8c037697",
   pageTypeSlug: "module",
   slug: "turn-working",
-  definition: "whether a seat is part way through a turn, read from the last answer it wrote",
+  definition:
+    "what one read of a seat's transcript says about the turn and the tasks still running",
   code: "ts",
   test: "ts",
   invariants: [
@@ -30,16 +31,7 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An answer is looked for in the tail of a transcript rather than in the whole transcript.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The tail widens until an answer is found or the whole transcript has been read.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line the tail's edge severed is dropped rather than read.",
+      statement: "A transcript is read forward from the byte the transcript was last read to.",
     },
     {
       invariantKind: "departure",
@@ -47,15 +39,56 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
+      statement: "A transcript shorter than when it was last read is read from its first byte.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read ends at the last line end rather than part way through a line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stretch of transcript holding no answer leaves the turn reading unchanged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The byte a transcript was read to is kept beside the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A background command and a subagent each start a task the transcript names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent awaited within the turn starting the subagent is no task.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A task is live from the record starting the task until the notification naming the task.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A task started again after its notification is live again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which tasks are live is kept beside the seat.",
     },
     {
       invariantKind: "departure",
       statement: "A reading kept in an unknown shape is unread.",
     },
     {
+      invariantKind: "gap",
+      statement: "A task started before the first read of a transcript is live to nothing here.",
+    },
+    {
       invariantKind: "absence",
       statement: "No hook is asked what a seat is doing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No process is read to find a task.",
     },
   ],
 } as const satisfies Module
