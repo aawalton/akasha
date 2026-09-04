@@ -18,9 +18,9 @@ export const emberRepairTemperTasks = {
         "The characters dispatch runs characters, then completion, then tasks, then the characters config, and stops at the first failure, which is why one fault hid the next. It reaches completion now and stops there on the file-property write.",
     },
     {
-      statement: "A page carrying a file property of any size is written rather than refused.",
+      statement: "The completion the game reports reaches the file beside the account page.",
       workingMemory:
-        "upsertPage on temper-account with its 1.46 MB completion refuses with `ENAMETOOLONG: name too long, open`, naming no path. The throw is below file-write:251, which only relays it, and the write travels over the service to page-writing. Delegated.",
+        "upsertPage carries no file body in either direction, by design: page-composing states that a value under a file-property key names that file's ending, and getPage on `completion` answers the four characters `json`. So import-completion merged against nothing and the write refused. A guard now refuses that value before the write and says why. Whether upsertPage should carry file bodies, or the watcher should write the side file itself, is Alan's to settle.",
     },
     {
       statement: "Reading one page costs bytes in proportion to that page.",
@@ -30,7 +30,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
-        "page-calling now answers a body it cannot read as a refusal naming the status, the byte count and the parser's own message, and it no longer retries such a body. The ENAMETOOLONG refusal still names no path.",
+        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write carried. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and carries comments the no-code-comments check refuses, so any edit there trips every one of them at once. That file wants a length remediation first.",
     },
     {
       statement: "The watcher proves who it is by its enrolment token alone.",
