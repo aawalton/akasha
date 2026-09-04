@@ -84,6 +84,10 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
+      statement: "A page losing a part while the move carries it is named where it arrives.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page holding where a part arrives and stating no parts is refused.",
     },
     {
