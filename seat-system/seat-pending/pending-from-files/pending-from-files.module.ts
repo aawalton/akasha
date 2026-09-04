@@ -9,7 +9,8 @@ export const pendingFromFiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One reading of the roster answers the live-subagent component for every seat.",
+      statement:
+        "One reading of a seat's transcript answers the live-shell and live-subagent components.",
     },
     {
       invariantKind: "departure",
@@ -18,11 +19,11 @@ export const pendingFromFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat has a live subagent while a subagent page is there under that seat.",
+      statement: "A live background command is a component apart from a live subagent.",
     },
     {
-      invariantKind: "gap",
-      statement: "A page outliving the subagent named on the page reads as a live subagent.",
+      invariantKind: "absence",
+      statement: "No page under a seat is counted to find a live subagent.",
     },
     {
       invariantKind: "absence",

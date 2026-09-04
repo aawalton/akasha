@@ -31,6 +31,7 @@ export const seat = {
   partSlugs: [
     "boolean-property/active-turn",
     "boolean-property/compacting",
+    "boolean-property/live-shell",
     "boolean-property/live-subagent",
     "boolean-property/on-call",
     "boolean-property/owed",

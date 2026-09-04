@@ -1,12 +1,15 @@
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import {
   everyRecipient,
   messagesTo,
 } from "../../messaging/message-file/message-file.module.code.ts"
 import { readOwed } from "../../owed-reading/owed-reading.module.code.ts"
 import { seatsPresent } from "../../seat-roster/seat-roster.module.code.ts"
+import {
+  anyLiveShell,
+  anyLiveSubagent,
+  workingOf,
+} from "../../seat-turn/turn-working/turn-working.module.code.ts"
 import type { TurnPendingComponent } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
-import { pathsUnder } from "../../subagents/presence/subagent-presence.module.code.ts"
 
 export interface SeatPending {
   readonly seat: string
@@ -25,23 +28,22 @@ export function sendersStandingBlocked(): ReadonlySet<string> {
   return found
 }
 
-export function subagentsUnder(seatName: string | null): number {
-  if (seatName === null || seatName === "") return 0
-  return pathsUnder(akashaRoot(), seatName).length
-}
-
 function standsOwed(): boolean {
   return readOwed() === "owed"
 }
 
 export function pendingFromFiles(): readonly SeatPending[] {
   const blocked = sendersStandingBlocked()
-  return seatsPresent().map((one) => ({
-    seat: one.id,
-    values: {
-      "live-subagent": subagentsUnder(one.name) > 0,
-      "send-in-flight": one.name !== null && blocked.has(one.name),
-      owed: standsOwed(),
-    },
-  }))
+  return seatsPresent().map((one) => {
+    const working = workingOf(one.id)
+    return {
+      seat: one.id,
+      values: {
+        "live-shell": anyLiveShell(working),
+        "live-subagent": anyLiveSubagent(working),
+        "send-in-flight": one.name !== null && blocked.has(one.name),
+        owed: standsOwed(),
+      },
+    }
+  })
 }

@@ -10,6 +10,7 @@ export const PENDING_KEY = "turn-pending"
 
 export const TURN_PENDING_COMPONENTS = [
   "compacting",
+  "live-shell",
   "live-subagent",
   "send-in-flight",
   "owed",
