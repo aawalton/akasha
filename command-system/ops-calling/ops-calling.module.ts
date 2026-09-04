@@ -58,11 +58,35 @@ export const opsCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "What runs a command is handed to it rather than reached from it.",
+      statement: "What runs a command is handed in rather than reached from the command.",
     },
     {
       invariantKind: "absence",
       statement: "No folder is scanned for a command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a command writes reaches the dispatcher's own stream with nothing between.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No child stands between a command's writing and the consumer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No pipe carries a command's writing to the consumer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No copy of that writing is taken on the way.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A live service builds the words `seat resume`.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Misrouting `seat resume` costs a seat.",
     },
     {
       invariantKind: "gap",

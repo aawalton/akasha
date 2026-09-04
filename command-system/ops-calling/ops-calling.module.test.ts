@@ -47,9 +47,7 @@ const PAGE_UNLANDED: CommandDocument = {
   summary: "name what has not landed",
 }
 
-// A FILE THAT REACHES NOTHING OUTSIDE ITSELF, so it imports from a scratch folder where no
-// workspace package resolves. What it writes goes straight to `process.stdout`.
-const BODY_HERE =
+const BODY_IMPORTING_NOTHING =
   "export default async function ran(args) {\n" +
   '  process.stdout.write(`here ${args.join(" ")}\\n`)\n' +
   "}\n"
@@ -154,7 +152,7 @@ test("the listing names every command under the prefix", () => {
 
 test("a file declaring a default export runs in the dispatcher's own process", async () => {
   const root = scratch.rootFor("ops-here-")
-  const at = fileAt(root, SEAT_RESUME.entryFile, BODY_HERE)
+  const at = fileAt(root, SEAT_RESUME.entryFile, BODY_IMPORTING_NOTHING)
   const watched = watchedWorld(root, [SEAT_RESUME])
 
   const wrote: string[] = []
@@ -173,8 +171,7 @@ test("a file declaring a default export runs in the dispatcher's own process", a
   expect(ending).toEqual({ ended: "done" })
   expect(watched.childRuns).toEqual([])
   expect(watched.imports).toEqual([at])
-  // WHAT THE COMMAND WROTE WENT TO THE DISPATCHER'S OWN STREAM, with nothing between it and the
-  // consumer: no child, no pipe, no copy. That is what a seam here would take away.
+  expect(watched.childRuns).toEqual([])
   expect(wrote).toEqual(["here 01a0-one --json\n"])
 })
 
@@ -217,7 +214,7 @@ test("what a command running here throws says which kind of thing went wrong", a
     [new Error("said nothing about itself"), EXIT.UNCLASSIFIED],
   ]
   const root = scratch.rootFor("ops-threw-")
-  fileAt(root, SEAT_RESUME.entryFile, BODY_HERE)
+  fileAt(root, SEAT_RESUME.entryFile, BODY_IMPORTING_NOTHING)
   for (const [thrown, code] of kinds) {
     const watched = watchedWorld(root, [SEAT_RESUME], EXIT.OK, throwing(thrown))
     const ending = await opsAnswered(["seat", "resume"], watched.world)
@@ -280,17 +277,13 @@ test("a write to a consumer that has closed is let go and anything else is not",
   expect(() => listeners[0]?.(other)).toThrow("write EACCES")
 })
 
-// THE LIVE VECTOR. `recipient-resolver-revive` builds exactly these words for a running service,
-// so this is the one command a mistake in the routing would cost a seat.
-test("the live seat resume vector reaches the file its page names, and that file runs here", () => {
+test("the seat resume vector a live service builds reaches the file its page names", () => {
   const root = akashaRoot()
   const documents = opsDocumentsIn(root)
   const found = opsMatchIn(documents, ["seat", "resume", "01a0-one", "--verify", "--json"])
   expect(found?.document.path).toEqual(["seat", "resume"])
   expect(found?.rest).toEqual(["01a0-one", "--verify", "--json"])
-  expect(found?.document.entryFile).toBe(
-    "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
-  )
+  expect(found?.document.entryFile).toBe("seat-system/seat-resume/seat-resume.module.code.ts")
   const at = found === null ? null : opsEntryAt(root, found.document)
   expect(at).not.toBeNull()
   expect(readFileSync(at ?? "", "utf8")).toMatch(/^export default\b/m)
