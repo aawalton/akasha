@@ -290,14 +290,15 @@ export function partedFor(
   if (said === null || !ownFile(placing, from) || !under.has(said.pageType)) return null
   if (dirname(from) === dirname(to)) return null
   const address = `${said.pageType}/${said.slug}`
-  const before = holdersFor({ ...placing, moved: EMPTY }, dirname(from), from)
-  if ("unheld" in before) return { refusals: [unheldSaid(from, address, before.unheld, "was in")] }
+  const was = partedIn(from)
+  const named = was === null ? [address] : [address, `${was.pageType}/${was.slug}`]
   const target = holdersFor(placing, dirname(to), to)
   if ("unheld" in target) {
     return { refusals: [unheldSaid(to, address, target.unheld, "would arrive in")] }
   }
-  const was = partedIn(from)
-  const named = was === null ? [address] : [address, `${was.pageType}/${was.slug}`]
+  if (target.holders.some((one) => holdsPart(placing, one, named))) return NOTHING
+  const before = holdersFor({ ...placing, moved: EMPTY }, dirname(from), from)
+  if ("unheld" in before) return { refusals: [unheldSaid(from, address, before.unheld, "was in")] }
   const leaving = before.holders.find((one) => holdsPart(placing, one, named))
   if (leaving === undefined) return { refusals: [outOf(from, address, before.holders)] }
   if (target.holders.some((one) => one.was === leaving.was)) return NOTHING
