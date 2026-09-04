@@ -1,0 +1,14 @@
+diff --git a/pages/query-keys/page-query-keys.module.code.ts b/pages/query-keys/page-query-keys.module.code.ts
+index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..4eca50c36b54b016d6f861db2c9241522225d9a7 100644
+--- a/pages/query-keys/page-query-keys.module.code.ts
++++ b/pages/query-keys/page-query-keys.module.code.ts
+@@ -1,6 +1,6 @@
+-import type { Carries } from "../page-derive-shape/page-derive-shape.module.code.ts"
+-import type { PageQuery } from "../page-query-shape/page-query-shape.module.code.ts"
+-import { BODY } from "../page-value-key/page-value-key.module.code.ts"
++import type { Carries } from "../derive-shape/page-derive-shape.module.code.ts"
++import type { PageQuery } from "../query-shape/page-query-shape.module.code.ts"
++import { BODY } from "../value-key/page-value-key.module.code.ts"
+ 
+ export function askedKeys(query: PageQuery): readonly string[] {
+   const wanted = new Set<string>(query.keys ?? [])
