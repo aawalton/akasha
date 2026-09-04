@@ -7,8 +7,6 @@ const TS = ".ts"
 
 const TSX = ".tsx"
 
-const INSIDE = "akasha/"
-
 const PACKAGES = "node_modules"
 
 const MANIFEST = "package.json"
@@ -46,8 +44,12 @@ export function typed(path: string): boolean {
   return path.endsWith(TS) || path.endsWith(TSX)
 }
 
+function packaged(rel: string): boolean {
+  return rel === PACKAGES || rel.startsWith(`${PACKAGES}/`) || rel.includes(`/${PACKAGES}/`)
+}
+
 export function compiled(path: string): boolean {
-  return typed(path) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
+  return typed(path) && !packaged(path)
 }
 
 export function manifested(path: string): boolean {
@@ -58,8 +60,7 @@ export function insideOf(root: string, at: string): string | null {
   if (!typed(at)) return null
   if (at.includes(`/${PACKAGES}/`)) return null
   if (!at.startsWith(`${root}/`)) return null
-  const rel = at.slice(root.length + 1)
-  return rel.startsWith(INSIDE) ? rel : null
+  return at.slice(root.length + 1)
 }
 
 const LINKED = new Map<string, string>()
@@ -93,8 +94,7 @@ export function manifestOf(root: string, at: string): string | null {
   const real = linkedOf(root, at)
   if (!real.startsWith(`${root}/`)) return null
   const rel = real.slice(root.length + 1)
-  if (rel.includes(`/${PACKAGES}/`)) return null
-  return rel.startsWith(INSIDE) ? rel : null
+  return packaged(rel) ? null : rel
 }
 
 export function servedOf(root: string, at: string): string | null {
