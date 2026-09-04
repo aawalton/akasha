@@ -1,8 +1,6 @@
 export type Counting = (many: number, one: string) => string
 
-export const REACHED = "akasha/"
-
-export const OUTSIDE_REACH = `no check judges a path outside \`${REACHED}\``
+export const OUTSIDE_REACH = "no check judges a path outside this checkout"
 
 const NO_PHASE = "no check runs at this phase"
 
