@@ -30,7 +30,7 @@ interface InventoryTabProps {
 
 export function InventoryTab({ active }: InventoryTabProps) {
   const userId = useUserId()
-  const { inventory, isLoading, isError, dataTimestamp } = useInventory(userId)
+  const { inventory, isLoading, isError, capturedAt } = useInventory(userId)
   const { managedSet, updateManagedGuildBanks } = useManagedGuildBanks()
 
   const guildBanks = useMemo(() => (inventory ? extractGuildBankKeys(inventory) : []), [inventory])
@@ -38,7 +38,7 @@ export function InventoryTab({ active }: InventoryTabProps) {
   const state = resolveGuildBankListState({
     isLoading,
     isError,
-    hasSnapshot: dataTimestamp !== null,
+    hasSnapshot: capturedAt !== null,
     hasInventory: inventory !== null,
     guildBankCount: guildBanks.length,
   })

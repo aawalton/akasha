@@ -30,10 +30,12 @@ type InventoryImportState =
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
 
+const MS_PER_SECOND = 1000
+
 function toExistingSnapshotRow(row: Record<string, unknown>): ExistingSnapshotRow {
   return {
     id: typeof row.id === "string" ? row.id : "",
-    dataTimestamp: typeof row.dataTimestamp === "number" ? row.dataTimestamp : null,
+    capturedAt: typeof row.capturedAt === "string" ? row.capturedAt : null,
   }
 }
 
@@ -56,8 +58,8 @@ export function useInventoryImport(userId: string | null) {
       userId != null
         ? [{ key: "accountPage", eq: userId }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
-    order: [{ by: "dataTimestamp", dir: "desc" }],
-    select: ["id", "dataTimestamp"],
+    order: [{ by: "capturedAt", dir: "desc" }],
+    select: ["id", "capturedAt"],
     limit: 100,
   })
   const snapshotRowsRef = useRef(snapshotRows)
@@ -138,14 +140,15 @@ export function useInventoryImport(userId: string | null) {
 
       const totalValue = computeInventoryTotalValue(inventoryData)
       const lastFullScan = inventoryData.meta.lastFullScan
-      const dataTimestamp = lastFullScan > 0 ? lastFullScan * 1000 : Date.now()
+      const scannedMs = lastFullScan > 0 ? lastFullScan * MS_PER_SECOND : Date.now()
+      const capturedAt = new Date(scannedMs).toISOString()
       const encoded = JSON.stringify(inventoryData)
       const payloads = shardInventoryJson(encoded)
       const chunkCount = payloads.length
 
       try {
         const snapshotPlan = planSnapshotImport(snapshotRowsRef.current.map(toExistingSnapshotRow))
-        const snapshotSet = { accountPage: userId, dataTimestamp, totalValue, chunkCount }
+        const snapshotSet = { accountPage: userId, capturedAt, totalValue, chunkCount }
         let snapshotId: string
         if (snapshotPlan.targetSnapshotId != null) {
           const snapshot = await runUpsertRef.current({

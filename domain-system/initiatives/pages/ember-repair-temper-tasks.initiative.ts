@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:
-        "Met: temper-task narrowed on `account`; `userId` set on four temper page types; `sortOrder` where temper states `display-order`; `itemName` where temper-sale states `name`. Open: settings-equipment reads `targetBuildId` off temper-companion-progress, export-tasks reads `pgId` and `dueTime` off temper-task, settings-consumables orders by `dataTimestamp`. None of the four is declared. A query naming one throws, a property access on one reads undefined, so half the class is silent.",
+        "Met: temper-task narrowed on `account`; `userId` set on four temper page types; `sortOrder` where temper states `display-order`; `itemName` where temper-sale states `name`; `capturedAt` across the watcher and the inventory UI. Open: settings-equipment reads `targetBuildId` off temper-companion-progress, export-tasks reads `pgId` and `dueTime` off temper-task. Neither is declared. A query naming one throws, a property access on one reads undefined, so half the class is silent.",
     },
     {
       statement: "A task the web holds reaches the characters config the game reads.",

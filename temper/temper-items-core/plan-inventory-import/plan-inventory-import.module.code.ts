@@ -1,6 +1,6 @@
 export interface ExistingSnapshotRow {
   id: string
-  dataTimestamp: number | null
+  capturedAt: string | null
 }
 
 export interface SnapshotImportPlan {
@@ -9,9 +9,9 @@ export interface SnapshotImportPlan {
 }
 
 function compareSnapshotsNewestFirst(a: ExistingSnapshotRow, b: ExistingSnapshotRow): number {
-  const at = a.dataTimestamp ?? Number.NEGATIVE_INFINITY
-  const bt = b.dataTimestamp ?? Number.NEGATIVE_INFINITY
-  if (at !== bt) return bt - at
+  const at = a.capturedAt ?? ""
+  const bt = b.capturedAt ?? ""
+  if (at !== bt) return at < bt ? 1 : -1
   if (a.id < b.id) return 1
   if (a.id > b.id) return -1
   return 0

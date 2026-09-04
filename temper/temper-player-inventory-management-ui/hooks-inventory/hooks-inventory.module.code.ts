@@ -13,7 +13,7 @@ const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
 
 interface InventorySnapshotRow {
   id: string
-  dataTimestamp: number
+  capturedAt: string
   totalValue: number
   chunkCount: number
 }
@@ -29,7 +29,7 @@ function readNumber(value: unknown): number | undefined {
 function mapSnapshotRow(row: Record<string, unknown>): InventorySnapshotRow {
   return {
     id: readString(row.id) ?? "",
-    dataTimestamp: readNumber(row.dataTimestamp) ?? 0,
+    capturedAt: readString(row.capturedAt) ?? "",
     totalValue: readNumber(row.totalValue) ?? 0,
     chunkCount: readNumber(row.chunkCount) ?? 0,
   }
@@ -42,7 +42,7 @@ export function useInventory(userId: string | null) {
       userId != null
         ? [{ key: "accountPage", eq: userId }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
-    order: [{ by: "dataTimestamp", dir: "desc" }],
+    order: [{ by: "capturedAt", dir: "desc" }],
     limit: 1,
   })
   const snapshot = snapshotRead.rows[0] ? mapSnapshotRow(snapshotRead.rows[0]) : null
@@ -71,7 +71,7 @@ export function useInventory(userId: string | null) {
   return {
     inventory,
     totalValue: snapshot?.totalValue ?? null,
-    dataTimestamp: snapshot?.dataTimestamp ?? null,
+    capturedAt: snapshot?.capturedAt ?? null,
     isLoading: snapshotRead.isLoading || (snapshot != null && chunksLoading),
     isError: snapshotRead.error !== null,
     error: snapshotRead.error,

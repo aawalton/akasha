@@ -187,8 +187,7 @@ export async function runImportInventory(
   const inventory = parseInventoryContent(content)
   const counts = countInventory(inventory)
   const totalValue = computeInventoryTotalValue(inventory)
-  const dataTimestamp = scanTimestampOf(inventory, now())
-  const capturedAt = capturedAtOf(dataTimestamp)
+  const capturedAt = capturedAtOf(scanTimestampOf(inventory, now()))
   const chunkCount = shardInventoryJson(JSON.stringify(inventory)).length
 
   const opening = scanLines(counts, capturedAt, totalValue, inventory.meta.priceSource, chunkCount)
@@ -230,6 +229,6 @@ export async function runImportInventory(
     )
   }
 
-  const snapshotName = inventorySnapshotName(dataTimestamp)
+  const snapshotName = inventorySnapshotName(capturedAt)
   for (const line of filedLines(capturedAt, landed, snapshotName, chunkCount)) say(line)
 }

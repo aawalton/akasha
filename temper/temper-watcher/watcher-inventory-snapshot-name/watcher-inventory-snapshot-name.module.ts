@@ -14,6 +14,10 @@ export const watcherInventorySnapshotName = {
     },
     {
       invariantKind: "departure",
+      statement: "That moment is read as the instant a reading states rather than as a count.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name holds nothing finer than whole seconds.",
     },
     {
