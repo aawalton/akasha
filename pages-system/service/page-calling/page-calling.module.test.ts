@@ -5,6 +5,7 @@ import {
   ATTEMPTS,
   askingFor,
   backoffFor,
+  bytesSaid,
   type Fetcher,
   originOf,
   READ_AT as READS,
@@ -20,6 +21,16 @@ function answering(status: number, body: unknown): Fetcher {
   return () => Promise.resolve(new Response(JSON.stringify(body), { status }))
 }
 
+const GARBLED = '{"rows":[{"id":"one"'
+
+function garbling(status: number, body: string, headers: Record<string, string> = {}): Fetcher {
+  return () => Promise.resolve(new Response(body, { status, headers }))
+}
+
+function whyOf(said: unknown): string {
+  return refusedIn(said) ?? ""
+}
+
 function counting(said: Fetcher): { readonly fetcher: Fetcher; readonly spent: () => number } {
   let spent = 0
   return {
@@ -30,6 +41,39 @@ function counting(said: Fetcher): { readonly fetcher: Fetcher; readonly spent: (
     spent: () => spent,
   }
 }
+
+test("an answer that is no object is refused rather than read into", async () => {
+  const said = await askingFor({ pageTypeSlug: "role" }, answering(200, null), neverNaps)
+  expect(whyOf(said)).toContain("no rows can be read out of")
+})
+
+test("a body that will not read as JSON is refused rather than answered as nothing", async () => {
+  const said = await askingFor({ pageTypeSlug: "role" }, garbling(200, GARBLED), neverNaps)
+  expect("rows" in said).toBe(false)
+  expect(whyOf(said)).toContain("would not read as JSON")
+})
+
+test("a refusal over a body that will not read carries what the parser said", async () => {
+  const said = await askingFor({ pageTypeSlug: "role" }, garbling(200, GARBLED), neverNaps)
+  expect(whyOf(said).split("would not read as JSON: ")[1]).toBeTruthy()
+})
+
+test("a refusal over a body that will not read names how many bytes came back", async () => {
+  const headers = { "content-length": String(GARBLED.length) }
+  const said = await askingFor({ pageTypeSlug: "role" }, garbling(200, GARBLED, headers), neverNaps)
+  expect(whyOf(said)).toContain(`${GARBLED.length} bytes`)
+})
+
+test("a body whose length nothing states is refused without a byte count made up", () => {
+  expect(bytesSaid(new Response(GARBLED))).toBe("body of a length nothing stated")
+  expect(bytesSaid(new Response(GARBLED, { headers: { "content-length": "20" } }))).toBe("20 bytes")
+})
+
+test("a body that will not read as JSON is not tried again", async () => {
+  const held = counting(garbling(200, GARBLED))
+  await askingFor({ pageTypeSlug: "role" }, held.fetcher, neverNaps)
+  expect(held.spent()).toBe(1)
+})
 
 test("the paths this calls are the paths the service answers at", () => {
   expect([ASKS, READS, WRITES]).toEqual([ASK_AT, READ_AT, WRITE_AT])
