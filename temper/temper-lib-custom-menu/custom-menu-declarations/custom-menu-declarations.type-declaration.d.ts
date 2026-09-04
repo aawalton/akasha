@@ -45,16 +45,7 @@ interface Control {
   GetDrawLayer: () => number
   GetDrawTier: () => number
   GetDrawLevel: () => number
-  GetOwningWindow: () => Control
   SetClampedToScreen: (clamped: boolean) => void
-}
-
-interface LabelControl {
-  SetMaxLineCount: (count: number) => void
-}
-
-interface TextureControl {
-  SetAddressMode: (mode: number) => void
 }
 
 interface TooltipControl {

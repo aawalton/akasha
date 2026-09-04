@@ -228,8 +228,6 @@ interface TemperCraftingButton extends ButtonControl {
 }
 
 interface ButtonControl {
-  SetNormalFontColor: (r: number, g: number, b: number, a: number) => undefined
-  SetMouseOverFontColor: (r: number, g: number, b: number, a: number) => undefined
   SetHorizontalAlignment: (alignment: number) => undefined
   SetVerticalAlignment: (alignment: number) => undefined
 }
