@@ -39,10 +39,10 @@ index 8033e8f84671d2e0cabf5e3f06b64310ad27ca15..c837b4418432b7aa0e396c243d1cf9b3
    process.exit(said.code)
  }
 diff --git a/command-system/cli/cli.module.ts b/command-system/cli/cli.module.ts
-index 65933b9439497df723ac230a550c8b37e655eb69..24b4bf8369b85a58832c293b01a467dfe4e88ca2 100644
+index 65933b9439497df723ac230a550c8b37e655eb69..638a59f0215dca4705b5f0b0d340b04453e4bfe0 100644
 --- a/command-system/cli/cli.module.ts
 +++ b/command-system/cli/cli.module.ts
-@@ -20,6 +20,24 @@ export const cli = {
+@@ -20,9 +20,43 @@ export const cli = {
        invariantKind: "departure",
        statement: "What is printed is out before the exit code ends the process.",
      },
@@ -53,11 +53,16 @@ index 65933b9439497df723ac230a550c8b37e655eb69..24b4bf8369b85a58832c293b01a467df
 +    {
 +      invariantKind: "departure",
 +      statement:
++<<<<<<< what this change would leave
 +        "A write taking less than the whole answer is followed by a write of what is left.",
++=======
++        "A write carrying part of the answer is followed by a write of the bytes left over.",
++>>>>>>> what HEAD holds
 +    },
 +    {
 +      invariantKind: "departure",
 +      statement:
++<<<<<<< what this change would leave
 +        "A destination with no room for more at the moment is written to again rather than dropping the rest.",
 +    },
 +    {
@@ -67,3 +72,26 @@ index 65933b9439497df723ac230a550c8b37e655eb69..24b4bf8369b85a58832c293b01a467df
      {
        invariantKind: "departure",
        statement: "What was done is printed apart from what refused the command.",
++=======
++        "A destination refusing bytes for the moment is written to again rather than dropping the bytes left over.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Writing the answer sets no length on the destination beforehand.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The report is printed apart from the refusals.",
++>>>>>>> what HEAD holds
+     },
+     {
+       invariantKind: "departure",
+@@ -34,7 +68,7 @@ export const cli = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A commit is authored by akasha whatever ran the command.",
++      statement: "A commit names akasha as the author rather than the caller of the command.",
+     },
+   ],
+ } as const satisfies Module
