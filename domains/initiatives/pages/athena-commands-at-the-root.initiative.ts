@@ -41,7 +41,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "There are no remaining ops cli commands.",
       workingMemory:
-        "18 ops commands sit under `command-system/ops-commands/pages`, 8 seat and 7 tracking among them, plus claude-account-sync-aliases, exercise-digest, mobile-widget-emit and page-unlanded. `command-system/ops-calling` dispatches them, 18 files import `ops-command.page-type.ts`, `hook-system/agent-hooks/block-ops-cli` bars an agent from calling one, and `seat-system/seat-fleet-restart` calls one. None has moved: the 42 commands now at the root are every `command` page and no `ops-command`.",
+        "18 ops commands sit under `command-system/ops-commands/pages`, 8 seat and 7 tracking among them, plus claude-account-sync-aliases, exercise-digest, mobile-widget-emit and page-unlanded. Alan ruled these do not go to the root: they are reviewed and many removed, and only akasha commands sit at the root. `command-system/ops-calling` is a second dispatcher, `block-ops-cli` bars an agent from calling one, and `seat-system/seat-fleet-restart` calls one.",
     },
   ],
   constraints: [
