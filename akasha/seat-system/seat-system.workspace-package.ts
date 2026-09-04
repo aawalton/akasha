@@ -265,6 +265,7 @@ export const seatSystem = {
     "module/message-to-start",
     "module/message-reach-write",
     "module/messages-agent-id",
+    "module/messages-mcp",
     "module/messages-console-stdout-guard",
     "module/messages-delivery-witness",
     "module/supervisor-limit-resume-answer",

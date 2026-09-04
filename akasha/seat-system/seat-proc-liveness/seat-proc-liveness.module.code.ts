@@ -5,7 +5,7 @@ const CLAUDE_CHILD_CMDLINE_RE = /\bclaude\b.*--dangerously-skip-permissions/
 const SUPERVISOR_CMDLINE_RE = /^(?:\S*\/)?bun\b.*supervisor\.ts/
 
 const SEAT_INFRA_CMDLINE_RE =
-  /packages\/agents\/(?:oauth-proxy\/src\/main|messages\/mcp)\.ts\b|\bmessages-mcp\.ts\b|\bmodel-gateway\/main\.ts\b/
+  /packages\/agents\/(?:oauth-proxy\/src\/main|messages\/mcp)\.ts\b|\bmessages-mcp(?:\.module\.code)?\.ts\b|\bmodel-gateway\/main\.ts\b/
 
 export function isSupervisorCmdline(cmdline: string): boolean {
   return SUPERVISOR_CMDLINE_RE.test(cmdline)

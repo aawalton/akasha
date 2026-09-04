@@ -1,14 +1,14 @@
-import "@akasha/seat-system/messages-console-stdout-guard"
+import "../messages-console-stdout-guard/messages-console-stdout-guard.module.code.ts"
 
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { getAgentId } from "@akasha/seat-system/messages-agent-id"
-import { type ChannelServer, startChannelListener } from "@akasha/seat-system/messages-agent-tools"
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
+import { startChannelListener } from "../../messages-agent-tools/messages-agent-tools.module.code.ts"
+import { getAgentId } from "../messages-agent-id/messages-agent-id.module.code.ts"
 
-function loadSecrets(): void {
+function loadSecrets(): undefined {
   try {
     const content = readFileSync(join(homedir(), ".secrets.env"), "utf-8")
     for (const line of content.split("\n")) {

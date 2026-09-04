@@ -1447,6 +1447,7 @@
       "dependencies": {
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils-system": "workspace:*",
+        "@modelcontextprotocol/sdk": "^1.30.0",
         "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
