@@ -11,6 +11,8 @@ export const plainLanguage = {
     "module/phrase-parsing",
     "module/shape-reading",
     "module/plain-grammar",
+    "module/dependency-graph",
+    "module/word-tokenizing",
   ],
   invariants: [
     {
@@ -27,11 +29,15 @@ export const plainLanguage = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here is trained.",
+      statement: "Nothing here says what a sentence means.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here says what a sentence means.",
+      invariantKind: "departure",
+      statement: "A trained model commits to one tree rather than ranking several trees.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A statement is read alone rather than beside the statements sharing its file.",
     },
   ],
 } as const satisfies WorkspacePackage
