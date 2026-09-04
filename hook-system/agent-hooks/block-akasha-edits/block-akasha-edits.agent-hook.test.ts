@@ -23,7 +23,6 @@ function repo(): string {
   mkdirSync(join(root, "akasha/hook-system"), { recursive: true })
   mkdirSync(join(root, dataAt("index", "identity")), { recursive: true })
   mkdirSync(join(root, "tools"), { recursive: true })
-  mkdirSync(join(root, "akasha-other"), { recursive: true })
   writeFileSync(join(root, "akasha/held.ts"), "held\n")
   return root
 }
@@ -48,7 +47,7 @@ test("every spelling of one path inside akasha is the same refusal", () => {
   for (const one of forms) {
     const said = judged(root, one)
     expect(said).not.toBeNull()
-    expect(said).toContain("inside the akasha folder")
+    expect(said).toContain("inside this checkout")
     expect(said).toContain("--file-path akasha/held.ts")
   }
 })
@@ -79,10 +78,11 @@ test("the repository root reached through a symlink is the same root", () => {
   expect(said).toContain("--file-path akasha/held.ts")
 })
 
-test("a sibling folder whose name starts with the root's name is stood aside", () => {
+test("a folder beside the checkout whose name opens with the checkout's own is left alone", () => {
   const root = repo()
-  expect(judged(root, "akasha-other/held.ts")).toBeNull()
-  expect(judged(root, join(root, "akasha-other/held.ts"))).toBeNull()
+  const beside = `${root}-other`
+  mkdirSync(beside, { recursive: true })
+  expect(judged(root, join(beside, "held.ts"))).toBeNull()
 })
 
 test("a temp file outside the guarded roots is written as usual", () => {
@@ -100,15 +100,17 @@ test("a path under `.git/data` is refused, and names the one repair", () => {
   expect(said).toContain(`\`${dataAt()}\` holds the index`)
 })
 
-test("`.git` outside `.git/data` is not guarded here", () => {
+test("`.git` outside `.git/data` is refused as the checkout rather than as the index", () => {
   const root = repo()
-  expect(judged(root, join(".git", "config"))).toBeNull()
+  const said = judged(root, join(".git", "config"))
+  expect(said).toContain("inside this checkout")
+  expect(said).not.toContain("inside the akasha index")
 })
 
 test("a relative path is resolved against the working directory the call was made in", () => {
   const root = repo()
   expect(judged(root, "held.ts", join(root, "akasha"))).toContain("--file-path akasha/held.ts")
-  expect(judged(root, "held.ts", join(root, "tools"))).toBeNull()
+  expect(judged(root, "held.ts", "/var/tmp")).toBeNull()
 })
 
 test("a call stating no working directory falls back to the one given", () => {
@@ -116,7 +118,7 @@ test("a call stating no working directory falls back to the one given", () => {
   expect(
     refusalFor(asking("Write", "held.ts", ""), root, join(root, "akasha"), HELD)
   ).not.toBeNull()
-  expect(refusalFor(asking("Write", "held.ts", ""), root, join(root, "tools"), HELD)).toBeNull()
+  expect(refusalFor(asking("Write", "held.ts", ""), root, "/var/tmp", HELD)).toBeNull()
 })
 
 test("a call carrying no path is stood aside", () => {
@@ -162,14 +164,14 @@ test("Edit names the edit command with both files filled in", () => {
 test("the refusal names the akasha commands rather than a word for them", () => {
   const root = repo()
   const said = judged(root, "akasha/held.ts") ?? ""
-  expect(said).toContain("The akasha commands write that folder")
+  expect(said).toContain("The akasha commands write this checkout")
   expect(said).not.toContain("the door")
 })
 
-test("the refusal bounds itself by naming both guarded roots", () => {
+test("the refusal bounds itself by naming what it does not reach", () => {
   const root = repo()
   const said = judged(root, "akasha/held.ts") ?? ""
-  expect(said).toContain(`only \`akasha/\` and \`${dataAt()}\` are refused here.`)
+  expect(said).toContain("nothing outside this checkout is refused here")
 })
 
 test("NotebookEdit is refused plainly, and names no command", () => {
