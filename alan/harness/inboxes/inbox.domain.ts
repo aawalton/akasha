@@ -14,8 +14,6 @@ export const inbox = {
     "module/inbox-keys",
     "module/inbox-reading",
     "module/inbox-tracking-polling",
-    "page-type/email-rule-agent",
-    "page-type/email-rule-code",
     "readout/inboxes-email",
     "readout/inboxes-tasks",
     "workstation-service/inbox-reading-service",
