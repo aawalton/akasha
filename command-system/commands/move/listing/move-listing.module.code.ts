@@ -1,6 +1,6 @@
 import { literalOf, parsedAs } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import { splicedIn } from "../../refactor/type-renaming/type-renaming.module.code.ts"
+import { splicedIn } from "../../../../commands/refactor/type-renaming/type-renaming.module.code.ts"
 
 export const PART_SLUGS = "partSlugs"
 
