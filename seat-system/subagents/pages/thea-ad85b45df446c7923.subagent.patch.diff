@@ -1,0 +1,154 @@
+diff --git a/checks/code-checks/properties/at-commit.text-property.ts b/checks/code-checks/properties/at-commit.text-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..061b94022a98e7d86eb085a290715b7f8689a2be
+--- /dev/null
++++ b/checks/code-checks/properties/at-commit.text-property.ts
+@@ -0,0 +1,23 @@
++import type { TextProperty } from "@akasha/pages-system/text-property"
++
++export type AtCommit = string
++
++export const atCommit = {
++  id: "01a06e1e-6a56-7cbe-8bd6-f948c5fa7646",
++  pageTypeSlug: "text-property",
++  slug: "at-commit",
++  propertySlug: "at-commit",
++  definition: "the commit a check's code was at when the figures beside this were taken",
++  max: 40,
++  nameFormatSlug: null,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The commit named is the last one that touched the code measured.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A commit later than that one would read as figures fresher than they are.",
++    },
++  ],
++} as const satisfies TextProperty
+diff --git a/checks/code-checks/properties/measured.record-property.ts b/checks/code-checks/properties/measured.record-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6e5174e96608d7138cc9d3ee5342e1aa0abdef66
+--- /dev/null
++++ b/checks/code-checks/properties/measured.record-property.ts
+@@ -0,0 +1,47 @@
++import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { AtCommit } from "./at-commit.text-property.ts"
++import type { OnePathBytes } from "./one-path-bytes.number-property.ts"
++import type { OnePathMs } from "./one-path-ms.number-property.ts"
++import type { WholeTreeBytes } from "./whole-tree-bytes.number-property.ts"
++import type { WholeTreeMs } from "./whole-tree-ms.number-property.ts"
++
++export type Measured = {
++  atCommit: AtCommit
++  onePathMs: OnePathMs
++  onePathBytes: OnePathBytes
++  wholeTreeMs: WholeTreeMs
++  wholeTreeBytes: WholeTreeBytes
++}
++
++export const measured = {
++  id: "01a06e1e-6a54-7ff3-8b90-3148cfb8cafd",
++  pageTypeSlug: "record-property",
++  slug: "measured",
++  propertySlug: "measured",
++  definition: "what one run of a check cost, and the commit it was measured at",
++  properties: [
++    { pagePropertySlug: "at-commit", required: true, many: false },
++    { pagePropertySlug: "one-path-ms", required: true, many: false },
++    { pagePropertySlug: "one-path-bytes", required: true, many: false },
++    { pagePropertySlug: "whole-tree-ms", required: true, many: false },
++    { pagePropertySlug: "whole-tree-bytes", required: true, many: false },
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A figure here is one run rather than a mean over several runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A figure here is undone by a change to the code the figure was measured over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The commit that code was at is recorded beside the figures it gave.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here says whether the commit recorded is the newest one.",
++    },
++  ],
++} as const satisfies RecordProperty
+diff --git a/checks/code-checks/properties/one-path-bytes.number-property.ts b/checks/code-checks/properties/one-path-bytes.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..342b55fb43c47816241c10c4e645c4296c7ce98e
+--- /dev/null
++++ b/checks/code-checks/properties/one-path-bytes.number-property.ts
+@@ -0,0 +1,12 @@
++import type { NumberProperty } from "@akasha/pages-system/number-property"
++
++export type OnePathBytes = number
++
++export const onePathBytes = {
++  id: "01a06e1e-6a56-7049-9853-9bf1ffc42d61",
++  pageTypeSlug: "number-property",
++  slug: "one-path-bytes",
++  propertySlug: "one-path-bytes",
++  definition: "bytes one run added over one file the check judges",
++  max: null,
++} as const satisfies NumberProperty
+diff --git a/checks/code-checks/properties/one-path-ms.number-property.ts b/checks/code-checks/properties/one-path-ms.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7f5caa2f3b2a27a09d47b2833488803bfd677f28
+--- /dev/null
++++ b/checks/code-checks/properties/one-path-ms.number-property.ts
+@@ -0,0 +1,12 @@
++import type { NumberProperty } from "@akasha/pages-system/number-property"
++
++export type OnePathMs = number
++
++export const onePathMs = {
++  id: "01a06e1e-6a56-777e-982a-f3d5486f2e30",
++  pageTypeSlug: "number-property",
++  slug: "one-path-ms",
++  propertySlug: "one-path-ms",
++  definition: "wall milliseconds one run took over one file the check judges",
++  max: null,
++} as const satisfies NumberProperty
+diff --git a/checks/code-checks/properties/whole-tree-bytes.number-property.ts b/checks/code-checks/properties/whole-tree-bytes.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a2bdd03127d2ad7a3dfcdc708ee84a80512841cb
+--- /dev/null
++++ b/checks/code-checks/properties/whole-tree-bytes.number-property.ts
+@@ -0,0 +1,12 @@
++import type { NumberProperty } from "@akasha/pages-system/number-property"
++
++export type WholeTreeBytes = number
++
++export const wholeTreeBytes = {
++  id: "01a06e1e-6a57-7e13-b6b4-413d79d07bd0",
++  pageTypeSlug: "number-property",
++  slug: "whole-tree-bytes",
++  propertySlug: "whole-tree-bytes",
++  definition: "bytes one run added over every file the index names",
++  max: null,
++} as const satisfies NumberProperty
+diff --git a/checks/code-checks/properties/whole-tree-ms.number-property.ts b/checks/code-checks/properties/whole-tree-ms.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b7522de4b2b4861a636cf76e39b9160a4425180
+--- /dev/null
++++ b/checks/code-checks/properties/whole-tree-ms.number-property.ts
+@@ -0,0 +1,12 @@
++import type { NumberProperty } from "@akasha/pages-system/number-property"
++
++export type WholeTreeMs = number
++
++export const wholeTreeMs = {
++  id: "01a06e1e-6a56-779d-b67a-05bbf4bd3868",
++  pageTypeSlug: "number-property",
++  slug: "whole-tree-ms",
++  propertySlug: "whole-tree-ms",
++  definition: "wall milliseconds one run took over every file the index names",
++  max: null,
++} as const satisfies NumberProperty
