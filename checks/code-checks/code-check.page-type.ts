@@ -1,6 +1,7 @@
 import type { Module } from "@akasha/code-system/module"
 import type { Test } from "@akasha/code-system/module/test"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { Entries } from "./properties/entries.file-property.ts"
 import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"
 import type { RunsOnDeploy } from "./properties/runs-on-deploy.boolean-property.ts"
 import type { RunsOnPatch } from "./properties/runs-on-patch.boolean-property.ts"
