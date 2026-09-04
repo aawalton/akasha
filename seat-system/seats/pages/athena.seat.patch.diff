@@ -1,0 +1,13 @@
+diff --git a/commands/read/read.command.test-fixtures.ts b/commands/read/read.command.test-fixtures.ts
+index b221810c03bbfb5ac5d0bfc4232812fc8a976406..2d93d0ad16ed606cc8f321992301e50d607c9815 100644
+--- a/commands/read/read.command.test-fixtures.ts
++++ b/commands/read/read.command.test-fixtures.ts
+@@ -182,7 +182,7 @@ const CONTEXT_WARRANT = "context-warrant"
+ 
+ const PAGE_TYPE_SLUG = "page-type"
+ 
+-const BESIDE = join(import.meta.dir, "../../../context/warrants")
++const BESIDE = join(import.meta.dir, "../../context/warrants")
+ 
+ export const THING = "akasha/one/held.thing.ts"
+ 
