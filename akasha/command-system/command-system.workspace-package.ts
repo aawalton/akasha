@@ -57,6 +57,7 @@ export const commandSystem = {
     "module/gated-landing",
     "module/harness-landing",
     "module/commands-served",
+    "module/command-server",
   ],
   invariants: [
     {
