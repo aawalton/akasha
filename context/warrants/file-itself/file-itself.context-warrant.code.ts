@@ -1,5 +1,5 @@
-import { basename } from "node:path"
 import { valuesOfType } from "@akasha/indexes"
+import { type Carried, carryingOf, heldBeside } from "@akasha/indexes/property-carrying"
 import type { Value } from "@akasha/pages-system/page-value"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
@@ -10,28 +10,21 @@ const NAMED = "named-file-property"
 
 const WRITTEN = "machineWritten"
 
-const FILE_NAME = "fileName"
-
-export function writtenNamesFrom(values: Iterable<Value | null>): ReadonlySet<string> {
-  const made = new Set<string>()
-  for (const value of values) {
-    if (value === null || value[WRITTEN] !== true) continue
-    const named = value[FILE_NAME]
-    if (typeof named === "string" && named !== "") made.add(named)
-  }
-  return made
+export function machineWrote(value: Value): boolean {
+  return value[WRITTEN] === true
 }
 
-export function writtenNamesIn(root: string): ReadonlySet<string> {
+export function writtenBeside(root: string, path: string): boolean {
   try {
-    return writtenNamesFrom(valuesOfType(root, NAMED).map((one) => one.value))
+    const carrying = (named: string): Carried => carryingOf(root, named)
+    return heldBeside(path, valuesOfType(root, NAMED), machineWrote, carrying)
   } catch {
-    return new Set<string>()
+    return false
   }
 }
 
 export function fileItself(root: string, path: string): readonly Warrant[] {
-  if (writtenNamesIn(root).has(basename(path))) return []
+  if (writtenBeside(root, path)) return []
   const oid = blobAt(root, path)
   return oid === null ? [] : [{ path, oid: oid, owed: ITSELF }]
 }

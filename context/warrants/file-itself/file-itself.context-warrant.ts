@@ -29,6 +29,14 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
+      statement: "A property reaches the folder of a page carrying that property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file of that name in another folder warrants itself.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index that cannot answer leaves every file warranting itself.",
     },
     {
