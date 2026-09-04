@@ -44,7 +44,8 @@ export const temperGearThing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key two gear page types both carry is declared here rather than in each.",
+      statement:
+        "A key two gear page types both carry is declared here rather than in each page type.",
     },
     {
       invariantKind: "departure",

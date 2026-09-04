@@ -10,7 +10,7 @@ export const keybinderFilter = {
     {
       invariantKind: "departure",
       statement:
-        "The list is rebuilt a fifth of a second after the last keystroke rather than on each.",
+        "The list is rebuilt a fifth of a second after the last keystroke rather than on every keystroke.",
     },
     {
       invariantKind: "departure",

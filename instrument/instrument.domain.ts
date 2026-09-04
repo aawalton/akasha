@@ -65,7 +65,7 @@ export const instrument = {
     },
     {
       invariantKind: "departure",
-      statement: "A run held to more than one cost has a budget for each.",
+      statement: "A run held to more than one cost has a budget for each cost.",
     },
   ],
   directives: [

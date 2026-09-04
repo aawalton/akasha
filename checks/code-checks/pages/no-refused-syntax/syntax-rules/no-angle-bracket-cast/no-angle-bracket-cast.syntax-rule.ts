@@ -27,7 +27,7 @@ export const noAngleBracketCast = {
     },
     {
       invariantKind: "departure",
-      statement: "One wrapping another is refused once for each.",
+      statement: "One assertion wrapping another is refused once for each assertion.",
     },
     {
       invariantKind: "departure",

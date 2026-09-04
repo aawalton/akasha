@@ -23,7 +23,7 @@ export const mobilityStanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading is stated as text, as a number, or as both.",
+      statement: "A reading is stated as text, as a number, or as text and a number together.",
     },
     {
       invariantKind: "departure",
