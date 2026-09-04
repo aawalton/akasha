@@ -4,7 +4,7 @@ export const theSeatWorktreeFlowIsGoneWhileWorktreesThemselvesAreLoadBearing = {
   id: "01a065f0-4a10-7d33-8b57-6e2f9a4c8b31",
   pageTypeSlug: "finding",
   slug: "the-seat-worktree-flow-is-gone-while-worktrees-themselves-are-load-bearing",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "What died with the ops worktree commands is the seat worktree flow, not worktrees. Git worktrees are created and removed by live akasha code today, in the CI preparation workflow and in mobile-cli. Anyone ruling on a worktree page by the deleted commands alone will delete a true statement. One such statement now has no akasha page that can hold it: Bun does not resolve modules upward from a worktree into the host repo's `node_modules`, which is why CI symlinks one per worktree.",
   evidence:
