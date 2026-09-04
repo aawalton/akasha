@@ -10,6 +10,7 @@ import {
   secretNamed,
   uncommittedAt,
   uncommittedBesideAt,
+  uncommittedHeld,
   uncommittedNamed,
 } from "./page-file-name.module.code.ts"
 import {
@@ -344,6 +345,15 @@ test("a values sidecar carries the one section, so a second section is no values
   expect(secretNamed("akasha/one/dalla.seat.sops.yaml")).toBe(true)
   expect(uncommittedNamed("akasha/one/dalla.seat.patch.uncommitted.patch")).toBe(false)
   expect(secretNamed("akasha/one/dalla.seat.patch.sops.yaml")).toBe(false)
+})
+
+test("a file is outside the commit as a values sidecar or as a property sectioned that way", () => {
+  expect(uncommittedHeld("akasha/one/dalla.seat.uncommitted.ts")).toBe(true)
+  expect(uncommittedHeld("akasha/one/dalla.seat.patch.uncommitted.patch")).toBe(true)
+  expect(uncommittedHeld("akasha/one/file-length.check.ts")).toBe(false)
+  expect(uncommittedHeld("akasha/one/file-length.check.code.ts")).toBe(false)
+  expect(uncommittedHeld("akasha/one/held.uncommitted.ts")).toBe(false)
+  expect(uncommittedHeld("akasha/one/notes.txt")).toBe(false)
 })
 
 test("a file property is held uncommitted under its own slug and then `uncommitted`", () => {
