@@ -1,0 +1,56 @@
+diff --git a/bun.lock b/bun.lock
+index 7964f29789ef8fed250d4e4133aa95e8676fe122..b940ad27c7b91aeb276ce0b9c63a4cca807e05b1 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -77,6 +77,7 @@
+         "@typescript/native-preview": "7.0.0-dev.20260626.1",
+         "fast-check": "^4.5.3",
+         "typescript": "5.9.3",
++        "typescript-7": "npm:typescript@7.1.0-dev.20260904.1",
+       },
+     },
+     "agents": {
+@@ -4110,6 +4111,20 @@
+ 
+     "@typescript/native-preview-win32-x64": ["@typescript/native-preview-win32-x64@7.0.0-dev.20260626.1", "", { "os": "win32", "cpu": "x64" }, "sha512-Iuf5nqTY4m5kxEvraDpieEf0XS6gDdjBBkw3g74pseznhpMeDFzgRvVCbSaf2pdjBNGugZbiBDVTEOclmD9cjA=="],
+ 
++    "@typescript/typescript-darwin-arm64": ["@typescript/typescript-darwin-arm64@7.1.0-dev.20260904.1", "", { "os": "darwin", "cpu": "arm64" }, "sha512-Lu45MVhqxD4guUqR0f8yJckWp8Qn11d01yX5p4bf9jN5KuLaq+7opjuLaK5O6140DcfC6eDgn8KsBlmJHr/UpA=="],
++
++    "@typescript/typescript-darwin-x64": ["@typescript/typescript-darwin-x64@7.1.0-dev.20260904.1", "", { "os": "darwin", "cpu": "x64" }, "sha512-+F5eaVCnGJ6fBFTen6kcCMRRDfBj+a3IxS3L8o9s4LgIPBC0E8+3MmSX+esj0ig76xqIj+a/xqnfcGFS3MfJaA=="],
++
++    "@typescript/typescript-linux-arm": ["@typescript/typescript-linux-arm@7.1.0-dev.20260904.1", "", { "os": "linux", "cpu": "arm" }, "sha512-l17Z9fLwuPPnD2bW8XRv3h9OtUifwB74o6Kf5NBZB3YR8hx+AWnNI38uJJfRHSnJ8jcLu10w8thMOmcjAUBo5w=="],
++
++    "@typescript/typescript-linux-arm64": ["@typescript/typescript-linux-arm64@7.1.0-dev.20260904.1", "", { "os": "linux", "cpu": "arm64" }, "sha512-o/PuEVYXF9rEOnnh7uC7Dbk9ApcO/gOkh+HdyMl3AIg9faG/GR0bFy+wwMZepDSxSbXNiKBpG0znJyNYugzB5A=="],
++
++    "@typescript/typescript-linux-x64": ["@typescript/typescript-linux-x64@7.1.0-dev.20260904.1", "", { "os": "linux", "cpu": "x64" }, "sha512-a5G9uYnIZYVEtL+qAaqq6xgXcUT7eFC428i/RgC0/Q6Ci2fIZleN1udi9zrYfYZfHHnPbwHMFwbwG2m6dceInw=="],
++
++    "@typescript/typescript-win32-arm64": ["@typescript/typescript-win32-arm64@7.1.0-dev.20260904.1", "", { "os": "win32", "cpu": "arm64" }, "sha512-pz2MjkpnsSQQ3Yp5FclUQ3qeoC3iaGDPdod5rXZgctbckV/EAwJtMDU2Ef8aPerH9th3VEz0CDVSQXQ7zzK1vQ=="],
++
++    "@typescript/typescript-win32-x64": ["@typescript/typescript-win32-x64@7.1.0-dev.20260904.1", "", { "os": "win32", "cpu": "x64" }, "sha512-nEzz24HWiR79tVBMkHFrs6x4wpk1IAg2SdozlZT7tvW4ywPboTMD7o3E4gjk24PSEUYJkEk1MKzG5PBBNBTGVg=="],
++
+     "@ungap/structured-clone": ["@ungap/structured-clone@1.3.4", "", {}, "sha512-JL+CF0GeLHyPWI0rXu7UnxgiuOm9UQWzadi0OYOJNhNO2q6EZElpwlgXkNkfU1PzANDHq3YcwKVZprdvS+BrbQ=="],
+ 
+     "@vscode/ripgrep": ["@vscode/ripgrep@1.18.0", "", { "optionalDependencies": { "@vscode/ripgrep-darwin-arm64": "1.18.0", "@vscode/ripgrep-darwin-x64": "1.18.0", "@vscode/ripgrep-linux-arm": "1.18.0", "@vscode/ripgrep-linux-arm64": "1.18.0", "@vscode/ripgrep-linux-ia32": "1.18.0", "@vscode/ripgrep-linux-ppc64": "1.18.0", "@vscode/ripgrep-linux-riscv64": "1.18.0", "@vscode/ripgrep-linux-s390x": "1.18.0", "@vscode/ripgrep-linux-x64": "1.18.0", "@vscode/ripgrep-win32-arm64": "1.18.0", "@vscode/ripgrep-win32-ia32": "1.18.0", "@vscode/ripgrep-win32-x64": "1.18.0" } }, "sha512-ns5lWe44tSfbTMbVUsyB+I1819PVSw4AdpgK0RNkzfWfwy6+3IUNSxwSrfTno1/oWaS/hERNz+XLWVyga2aJBQ=="],
+@@ -4982,6 +4997,8 @@
+ 
+     "typescript": ["typescript@5.9.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw=="],
+ 
++    "typescript-7": ["typescript@7.1.0-dev.20260904.1", "", { "optionalDependencies": { "@typescript/typescript-darwin-arm64": "7.1.0-dev.20260904.1", "@typescript/typescript-darwin-x64": "7.1.0-dev.20260904.1", "@typescript/typescript-linux-arm": "7.1.0-dev.20260904.1", "@typescript/typescript-linux-arm64": "7.1.0-dev.20260904.1", "@typescript/typescript-linux-x64": "7.1.0-dev.20260904.1", "@typescript/typescript-win32-arm64": "7.1.0-dev.20260904.1", "@typescript/typescript-win32-x64": "7.1.0-dev.20260904.1" }, "bin": { "tsc": "bin/tsc" } }, "sha512-ZB6llWSHvUdTIF3ruGXjsMU6By1f018AG6cd540g6Lq5UVjecYNyTa/CpYeOaNnK1CjzUK4Ub9wZe7hg3ecW5A=="],
++
+     "undici": ["undici@7.29.0", "", {}, "sha512-IDxfleLmmbSskfWSUATiN1nfn2rDuvnMOqb5CWR92iIfojA0Ud+ulOAAEQ57LPr9rWmsreUyf5lwyao+7GNNVw=="],
+ 
+     "undici-types": ["undici-types@7.24.6", "", {}, "sha512-WRNW+sJgj5OBN4/0JpHFqtqzhpbnV0GuB+OozA9gCL7a993SmU+1JBZCzLNxYsbMfIeDL+lTsphD5jN5N+n0zg=="],
+diff --git a/package.json b/package.json
+index 177e47f998abb5a60769a4e086ca73e8bb4b95a1..fb8d0da54604090fdeab7f96336f481bf543c710 100644
+--- a/package.json
++++ b/package.json
+@@ -77,7 +77,8 @@
+     "@types/vscode": "workspace:*",
+     "@typescript/native-preview": "7.0.0-dev.20260626.1",
+     "fast-check": "^4.5.3",
+-    "typescript": "5.9.3"
++    "typescript": "5.9.3",
++    "typescript-7": "npm:typescript@7.1.0-dev.20260904.1"
+   },
+   "scripts": {
+     "typecheck": "bunx @typescript/native-preview -b",
