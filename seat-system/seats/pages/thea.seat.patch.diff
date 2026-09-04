@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
+index bc358a6fad84cea11c9cec9a00723532576ee860..6f2480ca96b90057c25e24ff9d218fafd173a0cb 100644
+--- a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
++++ b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
+@@ -7,7 +7,7 @@ export const emailAddressIsWellFormed = {
+   definition: "the check refusing a stated email address that is not well formed",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
