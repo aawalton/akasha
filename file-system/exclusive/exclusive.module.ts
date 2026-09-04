@@ -25,6 +25,10 @@ export const exclusive = {
     },
     {
       invariantKind: "departure",
+      statement: "An act that settles later keeps the turn until that act settles.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A caller that waited too long is refused rather than acting anyway.",
     },
   ],
