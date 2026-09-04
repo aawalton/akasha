@@ -6,6 +6,7 @@ export const opsTrackingActivitySet = {
   slug: "ops-tracking-activity-set",
   definition: "the default difficulty a title rates at, written into the activity catalog.",
   opsPath: "tracking activity-set",
-  opsEntryFile: "tools/commands/tracking/activity-set.ts",
+  opsEntryFile:
+    "akasha/alan/tracking/session-activities/activity-default/activity-default.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand
