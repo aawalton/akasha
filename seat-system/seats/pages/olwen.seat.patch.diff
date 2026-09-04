@@ -1,0 +1,25 @@
+diff --git a/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts b/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts
+index 2a1f59b23bf6be00912c8a57e5d5d92fd5fd1793..5aa13f101b1f010653f92801b70e052555f0e117 100644
+--- a/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts
++++ b/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts
+@@ -9,17 +9,18 @@ export const olwenDomainCleanup = {
+   constraints: [
+     "The folder is named `domains/`, the plural, as `pages/` is named for `page`. Alan settled this against `domain/`.",
+     "`purpose` is re-slugged `domain-purpose` and takes a folder of its own, as `domain-championing` and `domain-parent` do.",
++    "The five `domain-*` folders keep their names against `openingWith`, as `pages/` carries 8 of that refusal unremediated. Alan settled this against renaming them.",
+   ],
+   intents: [
+     {
+       statement: "All domain files are organized in the domains/ folder.",
+       workingMemory:
+-        "The carry is measured and refuses nothing: 709 files, 4 ignored sidecars, 43 emptied folders cleared, 186 files repointed that name what moved and 7 that spell its path, `bun.lock` among them. `move` read `<page>.<property>.uncommitted.<ext>` as committed until `uncommittedHeld` at 970f4ccd. The orphaned `persona-slug` and its way in went at f2136f0a. 83 files spell `@akasha/domains` over 5 ways in, and 185 reach in by relative path, 171 of those to `domains/domain.page-type.ts`.",
++        "`domains/` holds all of it at fc05dced9d and `domain-system/` holds nothing. The domain page type sits at the root beside the package at 96b98dfe and c62a9c52, pairing as `page` does with `pages`. 83 spellings of `@akasha/domain-system` became `@akasha/domains` at ba41d858. A resolver probe answers for the live names and refuses the retired one and a nonsense one, and a stale node_modules link had been masking the retired name.",
+     },
+     {
+       statement: "The domains/ folder passes the folder-matches-a-shape check.",
+       workingMemory:
+-        "`purpose` is `domain-purpose` in a folder of its own at 397c678e, so the root holds one page and the carry's parenting refusal is gone. Of the 4 shape refusals, 2 are left: `domains/` holds 3 pages, and `plain-language/parser-models/pages` reads `compact-parser` as no domain. `commands/` clears when Athena's move lands. After the carry `openingWith` fires on `domain-documents`, `domain-reading`, `domain-championing` and `domain-parent`, wanting `documents`, `reading`, `championing` and `parent`.",
++        "7 refusals stand. 5 are `openingWith` on the `domain-*` folders, which Alan took over renaming them. The root and `domains/commands` clear together once the `domain` command reaches `commands/domain`, which another agent is landing command by command. Typecheck cannot judge any of this: `importersOf` throws whenever the index is behind HEAD, and under this many agents it always is.",
+     },
+   ],
+ } as const satisfies Initiative
