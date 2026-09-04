@@ -20,7 +20,6 @@ export const personasCore = {
     "module/points-source-coherence",
     "module/points-source-declarers",
     "module/render-prompt",
-    "module/totals",
     "module/voice-spec",
     "module/wallpaper-backfill-classify",
     "module/wallpaper-backfill-execute",

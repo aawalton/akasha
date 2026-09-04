@@ -16,7 +16,6 @@
     "./points-source-coherence": "./points-source-coherence/points-source-coherence.module.code.ts",
     "./points-source-declarers": "./points-source-declarers/points-source-declarers.module.code.ts",
     "./render-prompt": "./render-prompt/render-prompt.module.code.ts",
-    "./totals": "./totals/totals.module.code.ts",
     "./voice-spec": "./voice-spec/voice-spec.module.code.ts",
     "./wallpaper-backfill-classify": "./wallpaper-backfill-classify/wallpaper-backfill-classify.module.code.ts",
     "./wallpaper-backfill-execute": "./wallpaper-backfill-execute/wallpaper-backfill-execute.module.code.ts",
