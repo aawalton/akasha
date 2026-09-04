@@ -87,14 +87,14 @@ test("the refusal names every tree this lands under", () => {
   expect(said).toContain(FOOD_ENTRIES_AT)
 })
 
-test("the glass is no flag this takes", () => {
-  const said = tracking(["--file-path", AT, "--break-the-glass", "because"], givenIn())
+test("the glass is no flag this takes", async () => {
+  const said = await tracking(["--file-path", AT, "--break-the-glass", "because"], givenIn())
   expect(said.refusals).toEqual([NO_GLASS])
   expect(said.code).toBe(1)
 })
 
-test("a stray path is refused before anything is composed", () => {
-  const said = tracking(["--file-path", "akasha/alan/alan.person.ts"], givenIn())
+test("a stray path is refused before anything is composed", async () => {
+  const said = await tracking(["--file-path", "akasha/alan/alan.person.ts"], givenIn())
   expect(said.refusals).toEqual([outsideTracked("akasha/alan/alan.person.ts")])
 })
 
