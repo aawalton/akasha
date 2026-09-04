@@ -46,7 +46,18 @@ mock.module("@tools/lib/page-query-client", () => ({
   },
 }))
 
+/**
+ * The two landings this file watches, over the rest of the module as it really is.
+ *
+ * `mock.module` replaces a module for the whole test process, not for this file, so a stub
+ * holding only these two names took every other export of `akasha-day` away from
+ * `akasha-day.module.test.ts` when the two ran together. Spreading the real module first
+ * leaves `rowsBeside` and its siblings standing.
+ */
+const realAkashaDay = await import("../akasha-day/akasha-day.module.code.ts")
+
 mock.module("../akasha-day/akasha-day.module.code.ts", () => ({
+  ...realAkashaDay,
   landAkashaDayPage: (act: string, name: string) => {
     reached.push({ verb: "landAkashaDayPage", act, pageType: "akasha", name })
     return Promise.resolve(landed)
