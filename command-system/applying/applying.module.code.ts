@@ -2,7 +2,6 @@ import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { formattingIn } from "../asking/asking.module.code.ts"
-import { INSIDE } from "../change-freshness/change-freshness.module.code.ts"
 import { type Bodies, rebasedOnto } from "../drafting/drafting.module.code.ts"
 import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
 import { dropBlobs } from "../patching/patching.module.code.ts"
@@ -25,10 +24,6 @@ export type Applied = {
   readonly commit: string | null
 }
 
-function warranted(path: string): boolean {
-  return path.startsWith(`${INSIDE}/`)
-}
-
 function bytesOf(body: string | null): Uint8Array | null {
   return body === null ? null : BYTES.encode(body)
 }
@@ -45,7 +40,7 @@ export function warrantedAgain(
 ): readonly string[] {
   const again: string[] = []
   for (const [path, one] of held) {
-    if (moved.includes(path) || one.was === null || !warranted(path)) continue
+    if (moved.includes(path) || one.was === null) continue
     const oid = blobIdOf(BYTES.encode(one.was))
     recordRead(root, agentId, { path, oid, seenAt: Date.now(), mechanicalOid: null })
     again.push(path)
@@ -56,7 +51,6 @@ export function warrantedAgain(
 function asReadOf(root: string, agentId: string, held: Bodies): readonly Reading[] {
   const out: Reading[] = []
   for (const path of held.keys()) {
-    if (!warranted(path)) continue
     const seen = readingIn(root, agentId, path)
     if (seen !== null) out.push(seen)
   }
@@ -65,7 +59,7 @@ function asReadOf(root: string, agentId: string, held: Bodies): readonly Reading
 
 function recordedAsLanded(root: string, agentId: string, changes: readonly FileEdit[]): undefined {
   for (const one of changes) {
-    if (one.body === null || !warranted(one.path)) continue
+    if (one.body === null) continue
     recordRead(root, agentId, {
       path: one.path,
       oid: blobIdOf(one.body),
