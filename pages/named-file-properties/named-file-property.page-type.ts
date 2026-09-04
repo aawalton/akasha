@@ -1,5 +1,5 @@
 import type { FileProperty } from "../file-properties/file-property.page-type.ts"
-import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.ts"
 import type { FileName } from "./properties/file-name.text-property.ts"
 
 export type NamedFileProperty = FileProperty & {

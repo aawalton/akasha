@@ -1,5 +1,5 @@
-import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
-import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.ts"
 import type { MachineWritten } from "./properties/machine-written.boolean-property.ts"
 import type { RunsFileLength } from "./properties/runs-file-length.boolean-property.ts"
 

@@ -1,10 +1,10 @@
-import type { PageType } from "./page-types/page-type.page-type.ts"
 import type { Cover } from "./properties/cover.text-property.ts"
 import type { Description } from "./properties/description.text-property.ts"
 import type { Id } from "./properties/id.text-property.ts"
 import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
 import type { Slug } from "./properties/slug.text-property.ts"
 import type { Title } from "./properties/title.text-property.ts"
+import type { PageType } from "./types/page-type.page-type.ts"
 
 export type Page = {
   id: Id

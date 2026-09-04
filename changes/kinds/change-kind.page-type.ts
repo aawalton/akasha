@@ -1,5 +1,5 @@
 import type { Domain } from "../../domains/domain.page-type.ts"
-import type { PageType } from "../../pages/page-types/page-type.page-type.ts"
+import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
 import type { RunsWarrants } from "./properties/runs-warrants.boolean-property.ts"
 

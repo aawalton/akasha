@@ -1,5 +1,5 @@
-import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
-import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.ts"
 import type { TargetPageTypeSlug } from "./properties/target-page-type-slug.relation-property.ts"
 
 export type RelationProperty = PageProperty & {

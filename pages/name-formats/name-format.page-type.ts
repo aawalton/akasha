@@ -1,5 +1,5 @@
 import type { Module } from "@akasha/code-system/module"
-import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.ts"
 
 export type NameFormat = Module
 

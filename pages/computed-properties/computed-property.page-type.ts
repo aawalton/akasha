@@ -1,7 +1,7 @@
 import type { Module } from "@akasha/code-system/module"
 import type { Holds } from "../formula-properties/properties/holds.select-property.ts"
-import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
-import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.ts"
 
 export type ComputedProperty = Module &
   PageProperty & {

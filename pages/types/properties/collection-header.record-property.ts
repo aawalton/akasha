@@ -1,5 +1,5 @@
-import type { List } from "../../page-types/page-properties/page-property.page-type.ts"
 import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+import type { List } from "../page-properties/page-property.page-type.ts"
 import type { HeaderFields } from "./header-fields.text-property.ts"
 import type { HeaderShowCover } from "./header-show-cover.boolean-property.ts"
 

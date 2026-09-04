@@ -1,5 +1,5 @@
-import type { List } from "../../page-types/page-properties/page-property.page-type.ts"
 import type { TextProperty } from "../../text-properties/text-property.page-type.ts"
+import type { List } from "../../types/page-properties/page-property.page-type.ts"
 
 export type CountByKey = string
 export type CountBy = List<CountByKey>
