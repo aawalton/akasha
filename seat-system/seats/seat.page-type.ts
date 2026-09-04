@@ -34,7 +34,6 @@ export const seat = {
     "boolean-property/live-shell",
     "boolean-property/live-subagent",
     "boolean-property/on-call",
-    "boolean-property/owed",
     "boolean-property/send-in-flight",
     "instant-property/context-replaced-at",
     "instant-property/restart-armed-at",

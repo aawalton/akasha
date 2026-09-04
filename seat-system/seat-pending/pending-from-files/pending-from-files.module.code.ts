@@ -2,7 +2,6 @@ import {
   everyRecipient,
   messagesTo,
 } from "../../messaging/message-file/message-file.module.code.ts"
-import { readOwed } from "../../owed-reading/owed-reading.module.code.ts"
 import { seatsPresent } from "../../seat-roster/seat-roster.module.code.ts"
 import {
   anyLiveShell,
@@ -28,10 +27,6 @@ export function sendersStandingBlocked(): ReadonlySet<string> {
   return found
 }
 
-function standsOwed(): boolean {
-  return readOwed() === "owed"
-}
-
 export function pendingFromFiles(): readonly SeatPending[] {
   const blocked = sendersStandingBlocked()
   return seatsPresent().map((one) => {
@@ -42,7 +37,6 @@ export function pendingFromFiles(): readonly SeatPending[] {
         "live-shell": anyLiveShell(working),
         "live-subagent": anyLiveSubagent(working),
         "send-in-flight": one.name !== null && blocked.has(one.name),
-        owed: standsOwed(),
       },
     }
   })

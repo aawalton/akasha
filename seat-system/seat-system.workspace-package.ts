@@ -8,7 +8,6 @@ export const seatSystem = {
   manifest: "json",
   partSlugs: [
     "module/kill-target-plan",
-    "module/owed-reading",
     "module/window-duration",
     "module/launch-seat-tmux",
     "module/bun-pty",

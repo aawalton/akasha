@@ -13,7 +13,6 @@ export const TURN_PENDING_COMPONENTS = [
   "live-shell",
   "live-subagent",
   "send-in-flight",
-  "owed",
 ] as const
 
 export type TurnPendingComponent = (typeof TURN_PENDING_COMPONENTS)[number]
