@@ -28,7 +28,11 @@ export const secret = {
     },
     {
       invariantKind: "departure",
-      statement: "One page holds one value, and a resource of many keys is that many pages.",
+      statement: "One page holds one value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource of many keys is that many pages.",
     },
     {
       invariantKind: "departure",
