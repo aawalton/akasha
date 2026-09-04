@@ -60,13 +60,13 @@ function piped(body: string): Piping {
 }
 
 test("a word this command carries no act for is refused", async () => {
-  const said = patch(["frobnicate"], given(await repo()))
+  const said = await patch(["frobnicate"], given(await repo()))
   expect(said.code).toBe(1)
   expect(said.refusals.join("\n")).toContain("is no act of")
 })
 
 test("an agent naming no page is refused", async () => {
-  const said = patch([], given(await repo()))
+  const said = await patch([], given(await repo()))
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
 })
