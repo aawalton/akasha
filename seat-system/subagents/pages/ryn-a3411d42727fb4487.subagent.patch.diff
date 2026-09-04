@@ -1,0 +1,17 @@
+diff --git a/commands/dev-server/dev-server.command.ts b/commands/dev-server/dev-server.command.ts
+index 612fa36686fc91245ec1fb157cb6862fc26df1bf..8087938bcdeaede211370298f7ba46937398f017 100644
+--- a/commands/dev-server/dev-server.command.ts
++++ b/commands/dev-server/dev-server.command.ts
+@@ -63,7 +63,11 @@ export const devServer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stop names one server or every server tracked, never both.",
++      statement: "A stop names one server or every server tracked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A stop naming one server and every server tracked at once is refused.",
+     },
+     {
+       invariantKind: "departure",
