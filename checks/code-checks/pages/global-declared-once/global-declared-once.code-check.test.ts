@@ -16,17 +16,23 @@ afterAll(scratch.sweep)
 
 const SHARED_AT = "akasha/shared.type-declaration.d.ts"
 
+const OTHER_AT = "akasha/other.type-declaration.d.ts"
+
 const MODULE_AT = "akasha/one.module.code.ts"
 
 const SHARED_ID = "01a06110-0000-7000-8000-00000000e001"
 
 const MODULE_ID = "01a06110-0000-7000-8000-00000000e002"
 
+const OTHER_ID = "01a06110-0000-7000-8000-00000000e003"
+
 const HOLDS_VALUE = "declare const HELD: number\n"
 
 const HOLDS_TYPE = "interface Held {\n  one: number\n}\n"
 
 const HOLDS_MEMBER = "interface Held {\n  two: string\n}\n"
+
+const HOLDS_ALIAS = "type HELD = string\n"
 
 const APART = "declare const OTHER: string\n"
 
@@ -45,6 +51,13 @@ function staging(shared: string, held: string): string {
   return root
 }
 
+function sharing(first: string, second: string): string {
+  const root = staged({ [OTHER_AT]: first, [SHARED_AT]: second })
+  pathFiled(root, OTHER_AT, [{ path: OTHER_AT, id: OTHER_ID }])
+  pathFiled(root, SHARED_AT, [{ path: SHARED_AT, id: SHARED_ID }])
+  return root
+}
+
 function judged(given: Change): readonly Judged[] {
   const cast = shadowFor(given)
   if ("refused" in cast) throw new Error(cast.refused)
@@ -54,6 +67,10 @@ function judged(given: Change): readonly Judged[] {
 function over(shared: string, inside: string): readonly Judged[] {
   const held = globally(indented(inside))
   return judged(change(staging(shared, held), { [MODULE_AT]: held }))
+}
+
+function across(first: string, second: string): readonly Judged[] {
+  return judged(change(sharing(first, second), { [SHARED_AT]: second }))
 }
 
 function reasoned(said: readonly Judged[]): string {
@@ -99,6 +116,40 @@ test("a member the shared set declares apart from the module's is refused nothin
 
 test("a value and a type spelt alike are two names", () => {
   expect(over(HOLDS_VALUE, "interface HELD {\n  one: number\n}\n")).toEqual([])
+})
+
+test("a value name two declaration files both declare is refused", () => {
+  const said = across(HOLDS_VALUE, HOLDS_VALUE)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("`HELD` is declared at")
+})
+
+test("a refusal two declaration files earn is reported against the later of the two", () => {
+  const said = across(HOLDS_VALUE, HOLDS_VALUE)
+  expect(said[0]?.path).toBe(SHARED_AT)
+  expect(reasoned(said)).toContain(OTHER_AT)
+})
+
+test("a declaration file declaring a name no other declaration file declares is refused nothing", () => {
+  expect(across(APART, HOLDS_VALUE)).toEqual([])
+})
+
+test("an interface two declaration files both declare is refused nothing", () => {
+  expect(across(HOLDS_TYPE, HOLDS_TYPE.replace("one: number", "three: boolean"))).toEqual([])
+})
+
+test("a member two declaration files both declare is refused", () => {
+  const said = across(HOLDS_TYPE, HOLDS_TYPE)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("`Held.one` is declared at")
+})
+
+test("a member two declaration files declare is refused though the two spell one type", () => {
+  expect(reasoned(across(HOLDS_TYPE, HOLDS_TYPE))).toContain("while the two spell one type")
+})
+
+test("a value and a type two declaration files declare alike are two names", () => {
+  expect(across(HOLDS_VALUE, HOLDS_ALIAS)).toEqual([])
 })
 
 test("a refusal against a module the change leaves untouched says so", () => {
