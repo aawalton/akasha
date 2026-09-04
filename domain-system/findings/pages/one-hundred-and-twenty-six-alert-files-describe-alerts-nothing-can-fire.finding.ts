@@ -4,7 +4,7 @@ export const oneHundredAndTwentySixAlertFilesDescribeAlertsNothingCanFire = {
   id: "01a0655a-5fb1-7298-b1e8-62b8380ab1d2",
   pageTypeSlug: "finding",
   slug: "one-hundred-and-twenty-six-alert-files-describe-alerts-nothing-can-fire",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/alert",
   claim:
     "`pages/alert` holds 65 alert pages and 61 description attachments, and no alert any of them names can fire, because the Prometheus this repository deploys is given an empty rule set. Their one reader is a CLI nothing in the repository invokes. This is the shape `forty-two-refusal-documents-reach-no-instrument` found, one folder over and whole rather than in part.",
   evidence:
