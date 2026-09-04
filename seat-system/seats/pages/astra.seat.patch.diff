@@ -21,6 +21,20 @@ index 0eb83207fac01f18c8171500b8c7f0c1a2749fa0..cc4dc75802bb5984d75cdc4b41414dcb
  import type { PageType } from "../page-types/page-type.page-type.ts"
  
  export type NumberProperty = PageProperty & {
+diff --git a/pages/page-types/properties/properties.record-property.ts b/pages/page-types/properties/properties.record-property.ts
+index fa009859cf07e464b48da330153566501c323b79..3537aa0e902b6e3815163aae95b7870eb7bc14d0 100644
+--- a/pages/page-types/properties/properties.record-property.ts
++++ b/pages/page-types/properties/properties.record-property.ts
+@@ -1,7 +1,7 @@
+-import type { Max } from "../../page-properties/properties/max.number-property.ts"
+-import type { Total } from "../../page-properties/properties/total.number-property.ts"
+ import type { List } from "../../page-types/page-properties/page-property.page-type.ts"
+ import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
++import type { Max } from "../page-properties/properties/max.number-property.ts"
++import type { Total } from "../page-properties/properties/total.number-property.ts"
+ import type { DefaultValue } from "./default-value.text-property.ts"
+ import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
+ import type { Required } from "./required.boolean-property.ts"
 diff --git a/pages/url-properties/url-property.page-type.ts b/pages/url-properties/url-property.page-type.ts
 index 2a2030e740573562ba917c5630d6cfca173401ab..1be8a4f2159df5f53df44c511ca9e8ffb006c6de 100644
 --- a/pages/url-properties/url-property.page-type.ts
