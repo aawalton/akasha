@@ -27,6 +27,7 @@ export const agentHook = {
     "agent-hook/block-subagent-audit",
     "agent-hook/clear-reads-on-context-replaced",
     "agent-hook/name-subagent",
+    "agent-hook/state-compacting",
     "agent-hook/state-subagent",
     "page-type/inference-hook",
     "text-property/over-tools",
