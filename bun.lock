@@ -1214,7 +1214,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "pages/pages-query": {
+    "pages/query": {
       "name": "@akasha/pages-query",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
@@ -3123,7 +3123,7 @@
 
     "@akasha/pages-formula": ["@akasha/pages-formula@workspace:pages/formula"],
 
-    "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/pages-query"],
+    "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/query"],
 
     "@akasha/pages-system": ["@akasha/pages-system@workspace:pages"],
 
