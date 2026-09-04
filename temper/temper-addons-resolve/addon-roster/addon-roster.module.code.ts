@@ -9,7 +9,7 @@ import {
   repoRelOf,
 } from "../workspace-closure/workspace-closure.module.code.ts"
 
-const DEFAULT_REPO_ROOT = resolve(import.meta.dir, "..", "..", "..", "..")
+const DEFAULT_REPO_ROOT = resolve(import.meta.dir, "..", "..", "..")
 
 export const ADDONS_REL_ROOT = "temper/addons"
 

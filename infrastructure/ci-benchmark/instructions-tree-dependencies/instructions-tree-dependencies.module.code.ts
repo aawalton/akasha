@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { parse as parseYaml } from "yaml"
 import { z } from "zod"
 
-const TREE_ROOT = realpathSync(join(import.meta.dir, "..", "..", "..", ".."))
+const TREE_ROOT = realpathSync(join(import.meta.dir, "..", "..", ".."))
 
 const NAMED_IN_A_FAULT = 8
 
