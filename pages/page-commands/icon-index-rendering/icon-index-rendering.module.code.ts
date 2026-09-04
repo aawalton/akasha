@@ -1,18 +1,14 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 
-/** Every page this renders belongs under here, one folder per page, named for its slug. */
-export const GENERATED_AT = "pages-system/pages-core/generated"
+export const GENERATED_AT = "pages/pages-core/generated"
 
-/** The slug of the page that reassembles the shards. Nothing outside imports a shard. */
 export const AGGREGATE = "icon-search-index"
 
 const INDEX_STEM = "entries"
 
 const PASCAL_STEM = "pascal-to-kebab"
 
-/** A write refuses a file at this many bytes, and it judges the body AFTER formatting it.
- *  Nothing here sees the formatted body, so this is a floor rather than the gate itself. */
 const REFUSED_AT_BYTES = 15_000
 
 export type Budget = {
@@ -20,9 +16,6 @@ export type Budget = {
   readonly reserve: number
 }
 
-/** Formatting explodes an entries line written long onto one line per keyword, up to about
- *  half again, so what an entries shard is packed against leaves room for that growth. The
- *  pascal bodies are already one short pair per line and land byte for byte as written. */
 const INDEX_BUDGET: Budget = { bytes: 8_000, reserve: 0 }
 
 const PASCAL_BUDGET: Budget = { bytes: 12_000, reserve: 512 }
@@ -39,7 +32,6 @@ export type Entry = {
   readonly keywords: readonly string[]
 }
 
-/** One page: the code body, and the page file declaring the page that body belongs to. */
 export type Staged = {
   readonly slug: string
   readonly definition: string
@@ -80,7 +72,6 @@ export function kebabToPascal(name: string): string {
     .join("")
 }
 
-/** The export name a page file carries, which is its slug in camel. */
 export function kebabToCamel(slug: string): string {
   const [head, ...rest] = slug.split("-")
   return (head ?? "") + rest.map((one) => kebabToPascal(one)).join("")
@@ -90,8 +81,6 @@ export function bytesIn(text: string): number {
   return new TextEncoder().encode(text).length
 }
 
-/** Fills shards with whole lines, opening a new one before the running total would reach
- *  the budget. Every shard holds at least one line, however long that line is. */
 export function packed(lines: readonly string[], budget: Budget): readonly (readonly string[])[] {
   const shards: string[][] = []
   let holding: string[] = []
@@ -134,8 +123,6 @@ export function pageAtOf(slug: string): string {
   return join(folderOf(slug), `${slug}.module.ts`)
 }
 
-/** A page's identity is a uuid v7 that does not change when anything else about the page
- *  does, so a shard that stood before keeps the id it had and only a new one is given one. */
 export function idFor(root: string, slug: string): string {
   const at = resolve(root, pageAtOf(slug))
   if (existsSync(at)) {
@@ -183,8 +170,6 @@ function pascalShard(lines: readonly string[], at: number): Staged {
   }
 }
 
-/** The one page anything outside this folder imports. It reaches its shards by the path
- *  each shard's code stands at, which is a sibling folder named for that shard's slug. */
 export function aggregate(indexShards: number, pascalShards: number): Staged {
   const overIndex = <T>(f: (at: number) => T): T[] =>
     Array.from({ length: indexShards }, (_unused, at) => f(at))
@@ -219,9 +204,6 @@ export function aggregate(indexShards: number, pascalShards: number): Staged {
   }
 }
 
-/** A shard holds at least one line however long it is, so a single line past the budget is
- *  the one thing packing cannot absorb — which is what one icon's keywords growing without
- *  bound would look like. Everything else the budget covers. */
 export function overlong(lines: readonly string[], budget: Budget, what: string): string | null {
   for (const line of lines) {
     const size = bytesIn(line)
@@ -291,9 +273,6 @@ export function rendered(
   return past.length > 0 ? { refused: past } : { pages }
 }
 
-/** The shard slugs standing in the checkout now, whether or not this run keeps them. A
- *  release with fewer icons packs into fewer shards, and the ones no longer reached have
- *  to go rather than sit unimported. */
 export function standingIn(root: string): readonly string[] {
   const at = resolve(root, GENERATED_AT)
   if (!existsSync(at)) return []
