@@ -35,6 +35,18 @@ index fa009859cf07e464b48da330153566501c323b79..3537aa0e902b6e3815163aae95b7870e
  import type { DefaultValue } from "./default-value.text-property.ts"
  import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
  import type { Required } from "./required.boolean-property.ts"
+diff --git a/pages/relation-properties/relation-property.page-type.ts b/pages/relation-properties/relation-property.page-type.ts
+index 914b9316d4a7e50e84ee77673aa2e22687583da8..7a549bd15e6e5ddb1a94437bff71c30a79ae1139 100644
+--- a/pages/relation-properties/relation-property.page-type.ts
++++ b/pages/relation-properties/relation-property.page-type.ts
+@@ -1,6 +1,6 @@
+-import type { TargetPageTypeSlug } from "../page-properties/properties/target-page-type-slug.relation-property.ts"
+ import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
+ import type { PageType } from "../page-types/page-type.page-type.ts"
++import type { TargetPageTypeSlug } from "./properties/target-page-type-slug.relation-property.ts"
+ 
+ export type RelationProperty = PageProperty & {
+   targetPageTypeSlug: TargetPageTypeSlug
 diff --git a/pages/url-properties/url-property.page-type.ts b/pages/url-properties/url-property.page-type.ts
 index 2a2030e740573562ba917c5630d6cfca173401ab..1be8a4f2159df5f53df44c511ca9e8ffb006c6de 100644
 --- a/pages/url-properties/url-property.page-type.ts
