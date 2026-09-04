@@ -1,0 +1,38 @@
+diff --git a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.code.ts b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.code.ts
+index f8f55482f005ab81ff6d11a21de10130d0008503..62a15ebf0e8329397851a8b3ea0f6e090c16d915 100644
+--- a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.code.ts
++++ b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.code.ts
+@@ -14,6 +14,8 @@ const AT = "@"
+ 
+ const LONGEST = 254
+ 
++const WHITESPACE = /\s/
++
+ const DIVIDES = `the \`${AT}\` divides the mailbox from the domain it stands at`
+ 
+ export type Keyed = {
+@@ -31,6 +33,9 @@ export function whyRefused(propertySlug: string, said: string): string | null {
+       `${LONGEST} characters is the longest there is`
+     )
+   }
++  if (WHITESPACE.test(said)) {
++    return `${states} \`${said}\`, which holds whitespace, and an address holds none`
++  }
+   if (said !== said.toLowerCase()) {
+     return `${states} \`${said}\`, and an address is written in lowercase`
+   }
+diff --git a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
+index 6f2480ca96b90057c25e24ff9d218fafd173a0cb..1126c1004a1dc9807db80c584d431aac13e48649 100644
+--- a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
++++ b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
+@@ -21,6 +21,10 @@ export const emailAddressIsWellFormed = {
+       invariantKind: "departure",
+       statement: "An address is written in lowercase.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An address holds no whitespace.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An address holds one `@`.",
