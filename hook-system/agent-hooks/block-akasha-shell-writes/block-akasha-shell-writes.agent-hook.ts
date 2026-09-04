@@ -42,21 +42,51 @@ export const blockAkashaShellWrites = {
     {
       invariantKind: "departure",
       statement:
-        "A command that makes, replaces or takes a file away is judged on every path it names.",
+        "A command that makes or takes away a file is judged on every path the command names.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A prefix that only runs the call behind it does not hide the call from this hook.",
+        "A prefix that only runs the call behind the prefix does not hide the call from this hook.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A program's own text is not read, so a read through it is not parted from a write.",
+      statement: "A program's own text is not read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read through a program is not parted from a write through the program.",
     },
     {
       invariantKind: "departure",
       statement: "An interpreter is judged on every path the call handing it a program names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A removal naming a symlink itself is judged where the link is rather than where the link points.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path naming a symlink itself ends in the symlink's own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing the repository ignores is not guarded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing inside the index is judged where the path points.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing inside the index is guarded even where the repository ignores that landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What the repository ignores is asked only over a landing that would otherwise be refused.",
     },
     {
       invariantKind: "constraint",
@@ -68,7 +98,7 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "gap",
-      statement: "A call another program builds is hidden from this hook as `sh -c` hides one.",
+      statement: "A call another program builds is hidden from this hook as `sh -c` hides a call.",
     },
     {
       invariantKind: "gap",
