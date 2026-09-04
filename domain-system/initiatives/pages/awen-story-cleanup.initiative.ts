@@ -15,7 +15,7 @@ export const awenStoryCleanup = {
     {
       statement: "The story/ tree passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "`folder-matches-a-shape` over `story` answers 20 refusals, down from 45. 17 are a `pages` folder mixing bare page files with per-page folders; either alone passes, and Alan has not said which. `story` wants the name `story-engine`, and a plural slug of `story` would not help, since 11 sibling folders open with `story-`. `story/engine/core` refuses by that same rule, and renaming it rewrites 23 imports outside story/. `story/world-mechanics/mechanics` wants its parent's name.",
+        "`folder-matches-a-shape` over `story` answers 29 refusals. 10 are a folder still opening with the `story-` the domain above it says; `builds` and `chapters-played` are renamed, and `story-chapters-read` holds 37866 files and outgrew the workstation mid-move. 18 are a `pages` folder mixing bare page files with per-page folders; either alone passes, and Alan has not said which. `story/world-mechanics/mechanics` wants the name its parent folder already has.",
     },
   ],
 } as const satisfies Initiative
