@@ -2,7 +2,6 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Definition } from "./properties/definition.text-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
-import type { DomainColorSlug } from "./properties/domain-color-slug.relation-property.ts"
 import type { DomainSequenceSlugs } from "./properties/domain-sequence-slugs.relation-property.ts"
 import type { DomainSettled } from "./properties/domain-settled.boolean-property.ts"
 import type { Expands } from "./properties/expands.boolean-property.ts"
@@ -16,7 +15,6 @@ export type Domain = Page & {
   partSlugs?: PartSlugs
   invariants?: Invariants
   directives?: Directives
-  colorSlug?: DomainColorSlug
   sequenceSlugs?: DomainSequenceSlugs
   settled?: DomainSettled
   expands?: Expands
@@ -32,7 +30,6 @@ export const domain = {
     "record-property/directives",
     "record-property/invariants",
     "relation-property/directive-kind",
-    "relation-property/domain-color-slug",
     "relation-property/domain-sequence-slugs",
     "relation-property/domain-slug",
     "relation-property/invariant-kind",
@@ -56,7 +53,6 @@ export const domain = {
     { pagePropertySlug: "part-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "invariants", required: false, many: true, max: null },
     { pagePropertySlug: "directives", required: false, many: true, max: null },
-    { pagePropertySlug: "domain-color-slug", required: false, many: false },
     { pagePropertySlug: "domain-sequence-slugs", required: false, many: true, max: 20 },
     { pagePropertySlug: "domain-settled", required: false, many: false },
     { pagePropertySlug: "expands", required: false, many: false },

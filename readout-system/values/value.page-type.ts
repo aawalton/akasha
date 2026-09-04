@@ -10,10 +10,12 @@ import type { QuerySlug } from "../readouts/properties/query-slug.text-property.
 import type { Enabled } from "../readouts/properties/readout-enabled.boolean-property.ts"
 import type { ScaleSlug } from "../readouts/properties/scale-slug.relation-property.ts"
 import type { Unit } from "../readouts/properties/unit.text-property.ts"
+import type { ValueColorSlug } from "./properties/value-color-slug.relation-property.ts"
 
 export type Value = Domain & {
   label: Label
   description?: Description
+  colorSlug?: ValueColorSlug
   place: Place
   unit?: Unit
   scaleSlug?: ScaleSlug
@@ -31,6 +33,7 @@ export const value = {
   definition: "what a person is spending their life on",
   pluralSlug: "values",
   partSlugs: [
+    "relation-property/value-color-slug",
     "value/faith",
     "value/fun",
     "value/health",
@@ -43,6 +46,7 @@ export const value = {
   properties: [
     { pagePropertySlug: "label", required: true, many: false },
     { pagePropertySlug: "description", required: false, many: false },
+    { pagePropertySlug: "value-color-slug", required: false, many: false },
     { pagePropertySlug: "place", required: true, many: false },
     { pagePropertySlug: "unit", required: false, many: false },
     { pagePropertySlug: "scale-slug", required: false, many: false },
