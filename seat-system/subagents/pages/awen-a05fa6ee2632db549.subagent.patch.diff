@@ -1,0 +1,17 @@
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index 68f0684863f2d5920eb4ea2d9cf4ed49db7cb8c7..c783af7ab779558298f8c83b857c2bc135ad49fa 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -175,6 +175,12 @@ export function input<T>(selector: Selector<T>, run: Running): Bounded {
+   return Object.assign(bound, stated)
+ }
+ 
++export function inputAsync<T>(selector: Selector<T>, run: RunningAsync): BoundedAsync {
++  const bound = (change: Change, shadow: Shadow): Promise<readonly Judged[]> => run(change, shadow)
++  const stated: Stated = { isInput: selector.isInput }
++  return Object.assign(bound, stated)
++}
++
+ function overEach(
+   taken: (path: string) => boolean,
+   found: (path: string, text: string) => readonly string[]
