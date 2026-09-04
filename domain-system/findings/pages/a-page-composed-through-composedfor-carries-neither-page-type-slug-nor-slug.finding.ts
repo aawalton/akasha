@@ -1,6 +1,6 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const aPageComposedThroughComposedForCarriesNeitherPageTypeSlugNorSlug = {
+export const aPageComposedThroughComposedforCarriesNeitherPageTypeSlugNorSlug = {
   id: "01a06881-344f-7000-8927-0012711fb717",
   pageTypeSlug: "finding",
   slug: "a-page-composed-through-composedfor-carries-neither-page-type-slug-nor-slug",
