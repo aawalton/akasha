@@ -63,6 +63,7 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     kind("02", "page-property", "page-type/page"),
     kind("03", "relation-property", "page-type/page-property"),
     kind("04", "file-property", "page-type/page-property"),
+    kind("05", "domain", "page-type/page"),
     kind("06", "page-type", "page-type/page"),
     kind("07", "thing", "page-type/page", ["names", "held-code", "only-thing"]),
     kind("08", "mark", "page-type/page", ["names", "mark-code"]),
