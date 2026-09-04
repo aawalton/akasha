@@ -114,8 +114,10 @@ export function tookInUnder(
   if (!existsSync(join(root, page))) return []
   const took: string[] = []
   for (const at of paths) {
-    const said = tookIn(root, page, at)
-    if (!("why" in said)) took.push(at)
+    try {
+      const said = tookIn(root, page, at)
+      if (!("why" in said)) took.push(at)
+    } catch {}
   }
   return took
 }
