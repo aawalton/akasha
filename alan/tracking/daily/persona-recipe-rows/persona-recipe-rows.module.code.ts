@@ -5,7 +5,7 @@ import { numberOf, textOf } from "../day-scan-window/day-scan-window.module.code
 const PERSONA_PAGE_TYPE_SLUG = "persona"
 const POINTS_SOURCE_PAGE_TYPE_SLUG = "persona-points-source"
 
-const PERSONA_KEYS = ["id", "slug", "cover", "valueSlug", "greenDayPoints", "totalPoints"] as const
+const PERSONA_KEYS = ["id", "slug", "cover", "valueSlug", "greenDayPoints"] as const
 
 const SOURCE_KEYS = {
   kind: "pointsSourceKind",
@@ -71,7 +71,6 @@ export async function personaRecipeRows(): Promise<readonly Readonly<Record<stri
     const slug = textOf(row.slug)
     if (id === undefined || slug === undefined) continue
     const greenDayPoints = numberOf(row.greenDayPoints)
-    const totalPoints = numberOf(row.totalPoints)
     const valueSlug = textOf(row.valueSlug)
     out.push({
       id,
@@ -79,7 +78,6 @@ export async function personaRecipeRows(): Promise<readonly Readonly<Record<stri
       title: slug,
       ...(valueSlug === undefined ? {} : { valueSlug }),
       ...(greenDayPoints === undefined ? {} : { greenDayPoints }),
-      ...(totalPoints === undefined ? {} : { totalPoints }),
       ...(sourceByPersona.get(slug) ?? {}),
     })
   }
