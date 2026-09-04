@@ -206,6 +206,7 @@ interface SceneFragment {
 interface Scene {
   readonly name: string
   IsShowing: () => boolean
+  HasFragment: (this: unknown, fragment: SceneFragment) => boolean
   AddFragment: (fragment: SceneFragment) => void
   RemoveFragment: (fragment: SceneFragment) => void
   RegisterCallback: (event: string, callback: (oldState: number, newState: number) => void) => void
@@ -213,6 +214,7 @@ interface Scene {
 
 interface SceneManager {
   readonly currentScene: Scene
+  scenes: Record<string, Scene | undefined>
   GetCurrentScene: (this: SceneManager) => Scene
   SetInUIMode: (inUIMode: boolean) => void
   GetScene: (sceneName: string) => Scene

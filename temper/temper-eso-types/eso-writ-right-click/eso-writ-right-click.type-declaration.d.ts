@@ -1,7 +1,3 @@
-interface SceneManager {
-  GetCurrentScene: (this: SceneManager) => Scene
-}
-
 interface EsoGamepadInventoryInfo {
   dataSource?: { bagId: number; slotIndex: number }
 }

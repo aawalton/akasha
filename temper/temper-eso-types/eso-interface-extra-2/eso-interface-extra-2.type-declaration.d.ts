@@ -219,20 +219,11 @@ declare const zo_iconTextFormatNoSpace: (
   inheritColor?: boolean
 ) => string
 
-interface SceneManager {
-  scenes: Record<string, Scene | undefined>
-}
-
 interface EndInWorldInteractionsFragment {
   OnShown: (this: EndInWorldInteractionsFragment) => undefined
 }
 
 declare const TREASURE_MAP_INVENTORY_SCENE: Scene
-
-interface Scene {
-  HasFragment: (this: unknown, fragment: SceneFragment) => boolean
-  IsShowing: (this: unknown) => boolean
-}
 
 declare const FRAME_TARGET_CENTERED_FRAGMENT: SceneFragment
 

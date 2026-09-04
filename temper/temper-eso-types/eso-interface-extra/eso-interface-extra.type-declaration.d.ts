@@ -24,12 +24,7 @@ interface ZO_RecentMessagesStatic {
 declare const ZO_RecentMessages: ZO_RecentMessagesStatic
 
 interface Scene {
-  HasFragment: (this: unknown, fragment: SceneFragment) => boolean
   toRestore?: SceneFragment[] | boolean
-}
-
-interface SceneManager {
-  scenes: Record<string, Scene | undefined>
 }
 
 declare const FRAME_PLAYER_FRAGMENT: SceneFragment
