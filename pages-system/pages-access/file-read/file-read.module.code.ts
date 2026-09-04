@@ -7,6 +7,7 @@ import { type CursorPayload, decodeCursor, encodeCursor } from "../cursor/cursor
 import {
   askableNarrows,
   declaredAs,
+  declares,
   fieldFor,
   matches,
   narrowing,
@@ -262,7 +263,9 @@ function keysWanted(args: GetFilePagesArgs, order: PageOrder): readonly string[]
   const definitions = args.shape.definitions
   const wanted = new Set<string>(["id", "slug", "title"])
   for (const key of select) wanted.add(declaredAs(key, definitions))
-  for (const step of order) wanted.add(declaredAs(step.by, definitions))
+  for (const step of order) {
+    if (declares(step.by, definitions)) wanted.add(declaredAs(step.by, definitions))
+  }
   narrowedKeys(args.where ?? [], wanted, definitions)
   return [...wanted]
 }
