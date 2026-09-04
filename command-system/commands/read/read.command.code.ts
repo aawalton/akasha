@@ -35,8 +35,6 @@ const FULL = "--full"
 
 const SEAT = "--seat"
 
-const INSIDE = "akasha"
-
 const LEADING = 8
 
 const MOVED = "it changed since you read it"
@@ -124,15 +122,14 @@ function meaning(argv: readonly string[]): Meant {
 
 function aiming(paths: readonly string[], given: Given): Aimed {
   const root = resolve(given.root)
-  const bound = join(root, INSIDE)
   const targets: Target[] = []
   const refusals: string[] = []
   const already = new Set<string>()
   for (const named of paths) {
     const absolute = resolve(named.startsWith("/") ? named : join(root, named))
-    if (absolute !== bound && !absolute.startsWith(`${bound}/`)) {
+    if (absolute !== root && !absolute.startsWith(`${root}/`)) {
       refusals.push(
-        `${named} stands outside \`${INSIDE}/\` — a path is read against the repository root, ` +
+        `${named} stands outside the repository — a path is read against the repository root, ` +
           "and this reads what stands inside it"
       )
       continue
@@ -149,13 +146,12 @@ function aiming(paths: readonly string[], given: Given): Aimed {
 
 export function spreading(targets: readonly Target[], given: Given): readonly Target[] {
   const root = resolve(given.root)
-  const bound = join(root, INSIDE)
   const said = new Map<string, string>()
   for (const one of targets) said.set(relative(root, one.absolute), one.named)
   const held: Target[] = []
   for (const at of warrantedIn(root, [...said.keys()])) {
     const absolute = join(root, at)
-    if (absolute !== bound && !absolute.startsWith(`${bound}/`)) continue
+    if (absolute !== root && !absolute.startsWith(`${root}/`)) continue
     held.push({ named: said.get(at) ?? at, absolute })
   }
   return held
