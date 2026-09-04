@@ -1,6 +1,7 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
 import type { CharacterSortOrder } from "./properties/character-sort-order.number-property.ts"
+import type { DueTime } from "./properties/due-time.calendar-time-property.ts"
 import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
 import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.ts"
 import type { PendingSync } from "./properties/pending-sync.boolean-property.ts"
@@ -10,6 +11,7 @@ import type { ProgressTotal } from "./properties/progress-total.number-property.
 
 export type TemperTask = TemperProgressThing & {
   characterSortOrder?: CharacterSortOrder
+  dueTime?: DueTime
   effectiveCharacter?: EffectiveCharacter
   lastCompletedAt?: LastCompletedAt
   pendingSync?: PendingSync
@@ -27,6 +29,7 @@ export const temperTask = {
   extendsSlug: "page-type/temper-progress-thing",
   partSlugs: [
     "boolean-property/pending-sync",
+    "calendar-time-property/due-time",
     "instant-property/last-completed-at",
     "number-property/character-sort-order",
     "number-property/progress-current",
@@ -39,6 +42,7 @@ export const temperTask = {
     { pagePropertySlug: "account-page", required: true, many: false },
     { pagePropertySlug: "scope", required: true, many: false },
     { pagePropertySlug: "priority", required: true, many: false },
+    { pagePropertySlug: "calendar-time-property/due-time", required: false, many: false },
     { pagePropertySlug: "effective-character", required: false, many: false },
     { pagePropertySlug: "last-completed-at", required: false, many: false },
     { pagePropertySlug: "progress", required: false, many: false },
