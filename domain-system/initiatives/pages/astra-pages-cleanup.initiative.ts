@@ -15,7 +15,7 @@ export const astraPagesCleanup = {
     {
       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "Baselined at `26895c4a`: `pages/` itself passes, and 65 children refuse. 30 open with `page-` or `pages-` and want the prefix stripped from the folder name alone. 31 hold no page of their own, all inside `pages-core`, `pages-ui` and `pages-ui-store`, which is a want of pages rather than of names. The remaining 4 are `indexes/index`, `pages-ui/components`, `service` and `service/workstation-services`. `page-properties` strips to `properties`, which `page` fills, so `page-property` becomes a part of `page-type`.",
+        "Baselined at `26895c4a`: `pages/` itself passes, and 65 children refuse. 30 open with `page-` or `pages-` and want the prefix stripped from the folder name alone. 31 hold no page of their own, all under `pages-core`, `pages-ui` and `pages-ui-store`, which wants pages rather than names. The other 4 are `indexes/index`, `pages-ui/components`, `service` and `service/workstation-services`.",
     },
   ],
 } as const satisfies Initiative
