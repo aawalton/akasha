@@ -56,6 +56,7 @@ export const commandSystem = {
     "module/commit-author",
     "module/gated-landing",
     "module/harness-landing",
+    "module/commands-served",
   ],
   invariants: [
     {
