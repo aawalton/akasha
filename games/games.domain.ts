@@ -6,7 +6,6 @@ export const games = {
   slug: "games",
   definition: "the games and what each game is made of",
   partSlugs: [
-    "page-type/game",
     "domain/clear-the-world",
     "domain/game-design",
     "page-type/idle-game",

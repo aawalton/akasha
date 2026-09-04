@@ -23,6 +23,7 @@ export const storyEngine = {
     "page-type/story-decision",
     "page-type/named-event",
     "page-type/gm-doctrine-pack",
+    "page-type/game",
     "domain/world-mechanics",
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
@@ -33,18 +34,6 @@ export const storyEngine = {
     "domain/narrative-story-turn-promotion",
   ],
   invariants: [
-    {
-      invariantKind: "upkeep",
-      statement: "Every world the story engine keeps is a page in akasha.",
-    },
-    {
-      invariantKind: "upkeep",
-      statement: "Every story the story engine keeps is a page in akasha.",
-    },
-    {
-      invariantKind: "upkeep",
-      statement: "Every part of a story the story engine keeps is a page in akasha.",
-    },
     {
       invariantKind: "departure",
       statement: "How a story is meant to read is kept apart from what the story says.",
