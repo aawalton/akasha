@@ -40,6 +40,7 @@ export const pages = {
     "page-type/one-of-property",
     "page-type/url-property",
     "page-type/calendar-date-property",
+    "page-type/calendar-time-property",
     "page-type/select-property",
     "page-type/rank-property",
     "page-type/page-property-entry",
