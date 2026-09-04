@@ -7,7 +7,7 @@ export const tracking = {
   definition: "the pages and row files of Alan's tracking, composed by a program and landed",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "--file-path <path>", takes: "a path under the tracked trees to write" },
     { said: "--content-file <file>", takes: "the body that lands at the --file-path before it" },
