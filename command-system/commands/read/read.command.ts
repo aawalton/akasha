@@ -12,7 +12,7 @@ export const read = {
   changeKindSlug: "change-none",
   partSlugs: ["module/long-body"],
   taking: [
-    { said: "--file-path <path>", takes: "a file under `akasha/` to read" },
+    { said: "--file-path <path>", takes: "a file in the repository to read" },
     { said: "--full", takes: "the whole body, whatever your record holds" },
   ],
   helpNotes: [
@@ -116,7 +116,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A read reaches no file outside the akasha folder.",
+      statement: "A read reaches no file outside this repository.",
     },
     {
       invariantKind: "departure",

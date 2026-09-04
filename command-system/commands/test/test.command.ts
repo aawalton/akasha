@@ -9,21 +9,21 @@ export const test = {
   test: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "--file-path <path>", takes: "a file or folder under `akasha/` whose tests run" },
+    { said: "--file-path <path>", takes: "a file or folder in the repository whose tests run" },
   ],
   helpNotes: [
     "--file-path repeats, so several paths run in one call.",
-    "named nothing, it runs every test under `akasha/`.",
+    "named nothing, it runs every test in the repository.",
     "a run takes no filter for which tests inside a file run.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run reaches no test outside the akasha folder.",
+      statement: "A run reaches no test outside this repository.",
     },
     {
       invariantKind: "departure",
-      statement: "A run named nothing runs every test under the akasha folder.",
+      statement: "A run named nothing runs every test in this repository.",
     },
     {
       invariantKind: "departure",

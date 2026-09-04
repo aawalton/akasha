@@ -9,7 +9,10 @@ export const index = {
   test: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "refresh", takes: "build the index over `akasha/` as it stands and put it in place" },
+    {
+      said: "refresh",
+      takes: "build the index over the repository as it stands and put it in place",
+    },
     { said: "--dry-run", takes: "say what the rebuild would change and put nothing in place" },
     { said: "--unlanded", takes: "build over paths standing apart from HEAD" },
   ],
@@ -28,7 +31,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is built over `akasha/` as the akasha folder stands.",
+      statement: "The index is built over the repository as the repository stands.",
     },
     {
       invariantKind: "departure",
