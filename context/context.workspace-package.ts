@@ -21,12 +21,8 @@ export const context = {
       statement: "Every warrant a change owes is stated by a page of its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "What a change owes is worked out from the warrant pages.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No file names the warrants by hand.",
     },
   ],
 } as const satisfies WorkspacePackage

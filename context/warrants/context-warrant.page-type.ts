@@ -80,11 +80,11 @@ export const contextWarrant = {
       statement: "A warrant takes and gives paths under the root the warrant was given.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Every warrant that runs is a page here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "No file names a warrant by hand.",
     },
   ],
