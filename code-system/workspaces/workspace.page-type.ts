@@ -52,6 +52,12 @@ export const workspace = {
     { pagePropertySlug: "secrets-config", required: true, many: false },
     { pagePropertySlug: "typescript-base-config", required: true, many: false },
     { pagePropertySlug: "typescript-config", required: true, many: false },
+    {
+      pagePropertySlug: "typescript-build-info",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
     { pagePropertySlug: "workspace-git-ignore", required: true, many: false },
   ],
   invariants: [
