@@ -125,14 +125,14 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
     join(root, ".git/info/exclude"),
     "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n"
   )
-  rebuiltIn(root, TREE)
-  for (const path of Object.keys(named)) importFiled(root, path, [])
-  admitting(root)
-  return root
+  return rebuilt(root)
 }
+
+const IMPORTS_NONE = "akasha/one/imports-none.module.ts"
 
 export function rebuilt(root: string): string {
   rebuiltIn(root, TREE)
+  importFiled(root, IMPORTS_NONE, [])
   admitting(root)
   return root
 }
