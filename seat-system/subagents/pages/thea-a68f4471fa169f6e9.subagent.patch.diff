@@ -1,0 +1,15 @@
+diff --git a/temper/temper-eso-types/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts b/temper/temper-eso-types/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts
+index 469570cb178628e67f382f3b8a844c5c5f0fe337..3ba59e5ea9f8cb734f144536c8d32a999d3ba865 100644
+--- a/temper/temper-eso-types/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts
+@@ -43,10 +43,6 @@ declare const ZO_WorldMapFiltersImperialPvPContainerScrollChild: Control | undef
+ declare const ZO_WorldMapFiltersImperialPvPCheckBox1: Control | undefined
+ declare const ZO_WorldMapFiltersImperialPvPComboBox1: Control | undefined
+ 
+-interface MapPin {
+-  GetPinTypeAndTag: () => LuaMultiReturn<[pinTypeId: number, pinTag: unknown]>
+-}
+-
+ declare const SI_GAMEPAD_PLAYER_PROGERSS_BAR_UNKNOWN_ZONE: number
+ declare const SI_SPECIALIZEDITEMTYPE213: number
+ declare const SI_ZONECOMPLETIONTYPE12: number
