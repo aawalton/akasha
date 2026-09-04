@@ -37,7 +37,7 @@ export const CODE_DIRS: readonly string[] = [
   "file-system/answer-keeping",
   "file-system/answer-mark",
   "file-system/exclusive",
-  "akasha/markdown-pages",
+  "markdown-pages",
   "pages-system/checkout-roots",
   "pages-system/pages/markdown-document",
   "pages-system/pages/markdown-page-at",

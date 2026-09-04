@@ -37,7 +37,7 @@ const RAW_MATCH_OR_NULL = z.array(z.string()).min(2).nullable()
  * for a tree nobody asked about.
  */
 function committedAt(): string {
-  return resolve(codeRoot(), "akasha/temper", EQUIPMENT_MAPPINGS)
+  return resolve(codeRoot(), "temper", EQUIPMENT_MAPPINGS)
 }
 
 function parseEntriesBody(content: string, label: string): string | null {

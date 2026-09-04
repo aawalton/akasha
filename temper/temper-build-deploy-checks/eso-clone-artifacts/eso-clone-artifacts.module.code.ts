@@ -6,7 +6,7 @@ import {
 } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import type { StampedArtifact } from "../eso-doc-api-version/eso-doc-api-version.module.code.ts"
 
-export const WALK_ROOT = "akasha/temper"
+export const WALK_ROOT = "temper"
 
 const SKIP_DIRS = new Set(["node_modules", "dist", ".git"])
 

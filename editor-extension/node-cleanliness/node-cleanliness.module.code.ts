@@ -44,7 +44,7 @@ const PACKAGE = "editor-extension/ops-extension"
 
 const MANIFEST = "package.json"
 
-const MODULES_UNDER = "akasha/editor-extension"
+const MODULES_UNDER = "editor-extension"
 
 const SOURCES = "**/*.module.code.ts"
 
