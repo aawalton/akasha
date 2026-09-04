@@ -84,6 +84,19 @@ index a07c231bc87f32659a013214ec495cb93b73cd60..646869cac4a92a0ae60dd8d8b755887c
      to: keeper,
      from: KEEPER_UNREVIVABLE_SOURCE,
      warrant: "announce",
+diff --git a/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts b/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
+index 289d2dd362a26d3df0d4ebd75cb9f18df70a3c1d..6220b268f6f5afc6af4cf7f90353c63c4f334983 100644
+--- a/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
++++ b/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
+@@ -56,7 +56,7 @@ export function defaultRecipientResolverDeps(
+       unrevivableReported.add(agentId)
+       try {
+         if (tellSeat === null) await pushKeeperUnrevivableToAlan(name, agentId)
+-        else messageUnrevivableToKeeper(tellSeat, name, agentId)
++        else await messageUnrevivableToKeeper(tellSeat, name, agentId)
+         console.log(
+           `${LOG} recipient-resolver: told ${told} — ${name} (${agentId}) revive did NOT verify`
+         )
 diff --git a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
 index cca23d397a9f518301de10463bc24c407e780fe6..ee34176b6478323c25486f5d0ccb68565343873a 100644
 --- a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
