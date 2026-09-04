@@ -10,7 +10,8 @@ export const anchorTier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tier is how close the wording pins the moment rather than how sure it is.",
+      statement:
+        "A tier is how close the wording pins the moment rather than how sure the wording is.",
     },
     {
       invariantKind: "departure",

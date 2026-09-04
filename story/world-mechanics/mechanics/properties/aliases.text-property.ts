@@ -14,7 +14,8 @@ export const aliases = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An alias is written as the text writes it rather than as a slug is written.",
+      statement:
+        "An alias is written as the text writes the alias rather than as a slug is written.",
     },
   ],
 } as const satisfies TextProperty

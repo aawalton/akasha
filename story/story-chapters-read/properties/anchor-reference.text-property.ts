@@ -14,7 +14,7 @@ export const anchorReference = {
     {
       invariantKind: "departure",
       statement:
-        "A reference is the chapter's start, the scene before, an absolute date, or a named event.",
+        "A reference is the chapter's start or the scene before or an absolute date or a named event.",
     },
     {
       invariantKind: "departure",

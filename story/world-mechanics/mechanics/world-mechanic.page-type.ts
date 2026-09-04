@@ -65,7 +65,7 @@ export const worldMechanic = {
     },
     {
       invariantKind: "departure",
-      statement: "One name is two mechanics where two kinds carry it.",
+      statement: "A name two kinds carry is two mechanics rather than a single mechanic.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,8 @@ export const worldMechanic = {
     },
     {
       invariantKind: "departure",
-      statement: "Where the text shows an evolution the reference beside it carries that place.",
+      statement:
+        "Where the text shows an evolution the reference beside the evolution carries that place.",
     },
     {
       invariantKind: "departure",

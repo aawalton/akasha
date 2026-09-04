@@ -15,7 +15,7 @@ export const markedReadAt = {
     },
     {
       invariantKind: "departure",
-      statement: "A collection whose source was never told states no moment it was told at.",
+      statement: "A collection whose source was never told states no moment of telling.",
     },
   ],
 } as const satisfies InstantProperty

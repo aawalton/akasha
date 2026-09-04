@@ -13,7 +13,7 @@ export const anchorLexeme = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A lexeme is the chapter's own words rather than a reading of them.",
+      statement: "A lexeme is the chapter's own words rather than a reading of those words.",
     },
   ],
 } as const satisfies TextProperty

@@ -27,7 +27,7 @@ export const chronologyAnchors = {
     },
     {
       invariantKind: "departure",
-      statement: "An anchor carries the words that date it so the reading can be checked.",
+      statement: "An anchor carries the words that date the anchor.",
     },
     {
       invariantKind: "departure",

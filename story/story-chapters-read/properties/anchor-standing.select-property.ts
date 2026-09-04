@@ -14,7 +14,7 @@ export const anchorStanding = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a claimed anchor names who claimed it.",
+      statement: "Only a claimed anchor names who claimed the anchor.",
     },
   ],
 } as const satisfies SelectProperty

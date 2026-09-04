@@ -31,11 +31,15 @@ export const references = {
     },
     {
       invariantKind: "departure",
-      statement: "The wording is the text's own, which the mechanic's title need not match.",
+      statement: "The wording is the text's own.",
     },
     {
       invariantKind: "departure",
-      statement: "A reference naming no holder is one the text gave to nobody.",
+      statement: "The mechanic's title need not match the wording.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reference naming no holder is a reference the text attributed to no character.",
     },
     {
       invariantKind: "departure",
