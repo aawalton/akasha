@@ -405,7 +405,7 @@ test("an uncommitted file that will not carry leaves the one carried before it w
   const was = head(root)
   let code = -1
   try {
-    code = await move(NESTED, givenIn(root)).code
+    code = (await move(NESTED, givenIn(root))).code
   } catch {
     code = -2
   }
