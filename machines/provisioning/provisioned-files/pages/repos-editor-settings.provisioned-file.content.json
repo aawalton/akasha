@@ -15,6 +15,10 @@
     "**/node_modules": true,
     "akasha-backup-*": true
   },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "akasha-backup-*/**": true
+  },
   "terminal.integrated.mouseWheelScrollSensitivity": 3,
   "terminal.integrated.gpuAcceleration": "off",
   "terminal.integrated.initialHint": false,
