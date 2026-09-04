@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
-import { seatListed } from "../../warranting/warranting.module.test-fixtures.ts"
+import { seatListed } from "../warranting/warranting.module.test-fixtures.ts"
 import { slugStated, typeStated } from "./agent-stated.module.code.ts"
 
 const scratch = scratchWorld()

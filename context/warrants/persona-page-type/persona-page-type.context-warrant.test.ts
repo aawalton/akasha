@@ -15,7 +15,7 @@ import {
   personaListed,
   seatListed,
   warrantsSeeded,
-} from "../../warranting/warranting.module.test-fixtures.ts"
+} from "../../modules/warranting/warranting.module.test-fixtures.ts"
 import { PERSONA_TYPE, personaPageType } from "./persona-page-type.context-warrant.code.ts"
 
 const scratch = scratchWorld()

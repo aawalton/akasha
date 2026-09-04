@@ -10,7 +10,7 @@ import {
   personaListed,
   seatListed,
   warrantsSeeded,
-} from "../../warranting/warranting.module.test-fixtures.ts"
+} from "../../modules/warranting/warranting.module.test-fixtures.ts"
 import { PERSONA, personaItself } from "./persona-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()

@@ -15,7 +15,7 @@ import {
   roleListed,
   seatListed,
   warrantsSeeded,
-} from "../../warranting/warranting.module.test-fixtures.ts"
+} from "../../modules/warranting/warranting.module.test-fixtures.ts"
 import { ROLE_TYPE, rolePageType } from "./role-page-type.context-warrant.code.ts"
 
 const scratch = scratchWorld()

@@ -12,7 +12,7 @@ import {
   seatListed,
   typedListed,
   warrantsSeeded,
-} from "../../warranting/warranting.module.test-fixtures.ts"
+} from "../../modules/warranting/warranting.module.test-fixtures.ts"
 import { ASSIGNMENT, assignmentItself, WITHIN } from "./assignment-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()

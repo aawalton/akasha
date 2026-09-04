@@ -14,7 +14,7 @@ import {
   pageTypeListed,
   pathsOf,
   warrantsSeeded,
-} from "../../warranting/warranting.module.test-fixtures.ts"
+} from "../../modules/warranting/warranting.module.test-fixtures.ts"
 import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
 
 const scratch = scratchWorld()

@@ -13,7 +13,7 @@ import {
   seatListed,
   typedListed,
   warrantsSeeded,
-} from "../../warranting/warranting.module.test-fixtures.ts"
+} from "../../modules/warranting/warranting.module.test-fixtures.ts"
 import { ABOVE, domainAncestors } from "./domain-ancestors.context-warrant.code.ts"
 
 const scratch = scratchWorld()

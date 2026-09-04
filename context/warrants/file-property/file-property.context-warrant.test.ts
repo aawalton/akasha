@@ -11,7 +11,10 @@ import {
   unreadIn,
   type Warrant,
 } from "../../modules/warranting/warranting.module.code.ts"
-import { pathsOf, warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
+import {
+  pathsOf,
+  warrantsSeeded,
+} from "../../modules/warranting/warranting.module.test-fixtures.ts"
 import { fileProperty, PROPERTY } from "./file-property.context-warrant.code.ts"
 
 const scratch = scratchWorld()
