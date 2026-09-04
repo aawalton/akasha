@@ -40,3 +40,16 @@ index ceb2990732976382ad81e1cc00e9901ff6a2adc0..d8b84a7b336b17764a21f33dc8aa5c3b
    aProperty("3", "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
    aProperty("4", "domain-slug", "relation-property", { targetPageTypeSlug: "domain" }),
    aProperty("6", "code", "file-property"),
+diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
+index f551eb6241504bd77854d211bce8756d8bffe3b2..14655b12f1c5e4bb3f6a03c2ef36117150f77dce 100644
+--- a/pages/shadow/shadow.module.test.ts
++++ b/pages/shadow/shadow.module.test.ts
+@@ -193,7 +193,7 @@ function naming(unique: string | null): Held {
+ function seededNaming(): string {
+   const repo = scratch.rootFor("akasha-naming-")
+   for (const [at, value] of PAGES) put(repo, join(AKASHA, at), bodyOf(value))
+-  const [namingAt, named] = aType("1", "domain", "page", ["name"])
++  const [namingAt, named] = aType("1", "domain", ["page"], ["name"])
+   put(repo, join(AKASHA, namingAt), bodyOf(named))
+   put(repo, join(AKASHA, NAME_AT), bodyOf(naming("always")))
+   put(repo, join(AKASHA, SHARED_AT), bodyOf(SHARED))
