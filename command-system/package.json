@@ -8,6 +8,7 @@
     "./format-output": "./format-output/format-output.module.code.ts",
     "./payload": "./payload/payload.module.code.ts",
     "./asking": "./asking/asking.module.code.ts",
+    "./asking/testing": "./asking/asking.module.test-fixtures.ts",
     "./checked-landing": "./checked-landing/checked-landing.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
     "./command": "./commands/command.page-type.ts",
@@ -31,7 +32,8 @@
     "./gated-write": "./gated-write/gated-write.module.code.ts",
     "./command-failing": "./command-failing/command-failing.module.code.ts",
     "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts",
-    "./commands-served": "./commands-served/commands-served.module.code.ts"
+    "./commands-served": "./commands-served/commands-served.module.code.ts",
+    "./write": "./commands/write/write.command.code.ts"
   },
   "dependencies": {
     "@akasha/seat-system": "workspace:*",
