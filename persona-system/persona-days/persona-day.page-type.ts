@@ -49,7 +49,7 @@ export const personaDay = {
     "relation-property/day-persona-slug",
   ],
   properties: [
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "day-persona-slug", required: true, many: false },
     { pagePropertySlug: "date", required: true, many: false },
     { pagePropertySlug: "green-day-points", required: true, many: false },
     { pagePropertySlug: "source-points", required: true, many: false },
