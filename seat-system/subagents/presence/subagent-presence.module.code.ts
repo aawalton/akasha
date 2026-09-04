@@ -84,16 +84,16 @@ async function handed(
   changes: readonly FileEdit[],
   message: string
 ): Promise<boolean> {
-  return (await landedMechanically(root, CALLED_AS, changes, message).code) === 0
+  return (await landedMechanically(root, CALLED_AS, changes, message)).code === 0
 }
 
-export function wrote(
+export async function wrote(
   root: string,
   seatName: string,
   seatId: string,
   own: string,
   dispatchedAs: string
-): boolean {
+): Promise<boolean> {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   if (existsSync(join(root, at))) return true
@@ -102,7 +102,11 @@ export function wrote(
   const body = new TextEncoder().encode(
     bodyOf(slug, seatName, assignmentSlug, dispatchedAs, agentIdOf(seatId, own))
   )
-  return handed(root, [{ path: at, body }], `${slug}: a subagent states the agent id it acts under`)
+  return await handed(
+    root,
+    [{ path: at, body }],
+    `${slug}: a subagent states the agent id it acts under`
+  )
 }
 
 export function seatPathOf(seatName: string): string {
@@ -126,7 +130,7 @@ export function tookInUnder(
   return took
 }
 
-export function took(root: string, seatName: string, own: string): boolean {
+export async function took(root: string, seatName: string, own: string): Promise<boolean> {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   if (!existsSync(join(root, at))) return true
@@ -136,7 +140,7 @@ export function took(root: string, seatName: string, own: string): boolean {
       ? `${slug} is done, so its page goes; what it was is in this repository's history`
       : `${slug} is done, so its page goes; the patch it drafted went to the ${seatName} seat,` +
         ` which holds that draft now`
-  const gone = handed(root, [{ path: at, body: null }], said)
+  const gone = await handed(root, [{ path: at, body: null }], said)
   if (gone) dropReadings(root, [at])
   return gone
 }
@@ -171,11 +175,11 @@ export function patchesUnder(root: string, seatName: string): readonly string[] 
     .sort()
 }
 
-export function tookUnder(root: string, seatName: string, why: string): boolean {
+export async function tookUnder(root: string, seatName: string, why: string): Promise<boolean> {
   tookInUnder(root, seatName, patchesUnder(root, seatName))
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return true
-  const gone = handed(
+  const gone = await handed(
     root,
     paths.map((path) => ({ path, body: null })),
     `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`
@@ -207,7 +211,7 @@ export function takingDown(root: string, seatName: string, own: string): undefin
   asking(root, [TAKING, seatName, own])
 }
 
-export function ran(argv: readonly string[]): number {
+export async function ran(argv: readonly string[]): Promise<number> {
   const root = argv[2]
   const act = argv[3]
   const seatName = argv[4]
@@ -219,12 +223,12 @@ export function ran(argv: readonly string[]): number {
   if (act === WRITING) {
     if (dispatchedAs === undefined || dispatchedAs === "") return 1
     if (seatId === undefined || seatId === "") return 1
-    return wrote(root, seatName, seatId, own, dispatchedAs) ? 0 : 1
+    return (await wrote(root, seatName, seatId, own, dispatchedAs)) ? 0 : 1
   }
-  if (act === TAKING) return took(root, seatName, own) ? 0 : 1
+  if (act === TAKING) return (await took(root, seatName, own)) ? 0 : 1
   return 1
 }
 
 if (import.meta.main) {
-  process.exit(ran(Bun.argv))
+  process.exit(await ran(Bun.argv))
 }
