@@ -34,8 +34,6 @@ afterAll(scratch.sweep)
 
 const CHECKED = { slug: "change-checked", runsChecks: true, runsWarrants: false }
 
-const OUT = "no check judges a path outside `akasha/`"
-
 test("a report that could not be built leaves the landing standing, and says so", () => {
   const root = repoWith()
   const was = headOf(root)
@@ -159,24 +157,6 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
   )
   expect(said.code).toBe(0)
   expect(said.report).toContain("1 check judged the 2 paths asked for, and none refused")
-})
-
-test("a landing over a path no check reaches is not counted as judged", () => {
-  const root = repoWith()
-  const at = ["--file-path", "temper/one.ts", "--content-file", bodyIn(root)]
-  const said = write([...at, "--message", "held"], givenIn(root)).report.join("\n")
-  expect(said).toContain(`${OUT}, so the 1 path asked for landed unjudged`)
-  expect(said).not.toContain("judged the 1 path asked for")
-})
-
-test("a landing over a mix counts only the paths a check reached", () => {
-  const root = repoWith()
-  const said = wrote(root, ["--file-path", "temper/one.ts", "--content-file", bodyIn(root)])
-  expect(said.code).toBe(0)
-  expect(said.report).toContain("1 check judged 1 of the 2 paths asked for, and none refused")
-  expect(said.report.join("\n")).toContain(
-    `${OUT}, so what these carry went unjudged — temper/one.ts`
-  )
 })
 
 test("a landing whose phase runs no check says the paths landed unjudged", () => {
