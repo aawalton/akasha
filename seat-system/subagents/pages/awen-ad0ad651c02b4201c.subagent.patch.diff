@@ -17,7 +17,7 @@ index 4b9d65495ef316e562812733668e4fd7fde86b5a..7b1f2e253d574a6932c4fe5dff5601d4
      throw new Error(`${SAID} nothing is waiting for \`${HANDLER}\`: ${wrote.detail}`)
    }
 diff --git a/seat-system/agent-record/agent-record.module.code.ts b/seat-system/agent-record/agent-record.module.code.ts
-index 3a82cd068b5eaf6100bc48bbe8c4c7f8f5efeca0..a81a1c1f3d3e7a44828e85f84db083209a10919a 100644
+index 3a82cd068b5eaf6100bc48bbe8c4c7f8f5efeca0..a11c0b8f8b66b7ff02d4f84a5dd290076dbd6ab2 100644
 --- a/seat-system/agent-record/agent-record.module.code.ts
 +++ b/seat-system/agent-record/agent-record.module.code.ts
 @@ -21,12 +21,12 @@ export function readSeatPage(handler: string): SeatReading {
@@ -44,6 +44,13 @@ index 3a82cd068b5eaf6100bc48bbe8c4c7f8f5efeca0..a81a1c1f3d3e7a44828e85f84db08320
    if (wrote.kind === "refused") {
      throw new Error(
        `the message to \`${handler}\` was not written, so nothing is waiting: ${wrote.detail}`
+@@ -55,5 +55,5 @@ export function recordToAgent(
+   log: (line: string) => void,
+   from: string = DEFAULT_SENDER
+ ): Promise<string> {
+-  return Promise.resolve(writeAnnouncement(handler, body, log, from))
++  return writeAnnouncement(handler, body, log, from)
+ }
 diff --git a/seat-system/messaging/message-file/message-file.module.code.ts b/seat-system/messaging/message-file/message-file.module.code.ts
 index e9b3c04edb21fe96b956619a6de79d7935d969b9..a9a475dd6d7d0f5fd68e930091e36429e06fc593 100644
 --- a/seat-system/messaging/message-file/message-file.module.code.ts
