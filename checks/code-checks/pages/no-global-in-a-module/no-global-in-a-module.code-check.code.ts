@@ -9,7 +9,7 @@ const DECLARED = ".d.ts"
 const GLOBAL = "global"
 
 const WHY =
-  "A global name is declared in a declaration file. `declarations-agree` compiles every `.d.ts` akasha holds as one program and catches a disagreement between any two, and nothing at all reads a `declare global` block in a module body."
+  "A global name is declared in a declaration file. `global-declared-once` compares the names the declaration files declare against one another and against each `declare global` block a module body holds. It compares no module body against another module body, so a name declared here is judged against part of the tree rather than against all of it."
 
 const HOW =
   "Lift the block into a `.d.ts` beside this file, where each `const` becomes `declare const`, and turn the module page into a type-declaration page."
