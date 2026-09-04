@@ -4,7 +4,7 @@ export const theMarkdownUncommittedStoreRefusesAnAkashaPageForAFalseReason = {
   id: "01a060be-c946-7000-bd83-c2b0e1427c09",
   pageTypeSlug: "finding",
   slug: "the-markdown-uncommitted-store-refuses-an-akasha-page-for-a-false-reason",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/markdown-pages",
   claim:
     "`uncommittedPathFor` in akasha/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts:18-23 refuses a `.ts` path saying it is not a page. The refusal is right and the reason is false: it is a page, and this is the markdown store alone. Copying the repair `ecd965656f` made to the identical shape in akasha/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts would answer `.uncommitted.yaml` for a day that has moved, and write a file akasha does not read beside all 133 of them.",
   evidence:

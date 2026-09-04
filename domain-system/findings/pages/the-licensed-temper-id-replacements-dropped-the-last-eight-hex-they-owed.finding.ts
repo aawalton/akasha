@@ -4,7 +4,7 @@ export const theLicensedTemperIdReplacementsDroppedTheLastEightHexTheyOwed = {
   id: "01a0659d-67fa-71f8-88ab-4225834b7522",
   pageTypeSlug: "finding",
   slug: "the-licensed-temper-id-replacements-dropped-the-last-eight-hex-they-owed",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/temper",
   claim:
     "1,048 temper pages held a uuid version 5 rather than a version 7, so `page.page-type.ts` licensed replacing their ids. The replacements kept none of the last eight hex that same page type says a licensed replacement keeps. These 1,048 ids are licensed but incorrect. Nothing in the repository references them, so correcting them costs 1,048 rewrites and breaks nothing, whenever anyone judges it worth doing.",
   evidence:
