@@ -9,18 +9,27 @@ export const typescriptBuildInfo = {
   propertySlug: "typescript-build-info",
   definition: "what TypeScript already worked out about this tree, kept between runs",
   fileName: "tsconfig.tsbuildinfo",
+  runsFileLength: false,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One file holds what the whole workspace is known to be.",
+      statement: "One file holds the type state TypeScript worked out for the whole workspace.",
     },
     {
       invariantKind: "departure",
-      statement: "A run reads what an earlier run left and rechecks only what changed.",
+      statement: "A run reads the type state an earlier run left.",
     },
     {
       invariantKind: "departure",
-      statement: "A run over a change that never lands writes here, and a later run corrects it.",
+      statement: "A run rechecks only the files that changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run over a change that never lands writes to this file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A later run corrects that writing.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +37,7 @@ export const typescriptBuildInfo = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing about which files a change reached is held here.",
+      statement: "This file holds no record of the files a change reached.",
     },
   ],
 } as const satisfies NamedFileProperty
