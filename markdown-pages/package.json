@@ -68,8 +68,6 @@
     "./page-write-commit": "./markdown-page-write-commit/markdown-page-write-commit.module.code.ts",
     "./page-write-compose": "./markdown-page-write-compose/markdown-page-write-compose.module.code.ts",
     "./page-write": "./markdown-page-write/markdown-page-write.module.code.ts",
-    "./page-compare": "./markdown-page-compare/markdown-page-compare.module.code.ts",
-    "./page-rows-write": "./markdown-page-rows-write/markdown-page-rows-write.module.code.ts",
     "./deriver-hold": "./markdown-deriver-hold/markdown-deriver-hold.module.code.ts",
     "./page-derive": "./markdown-page-derive/markdown-page-derive.module.code.ts"
   },
