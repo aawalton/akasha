@@ -926,15 +926,6 @@
     },
     "infrastructure/ci-benchmark": {
       "name": "@akasha/ci-benchmark",
-      "dependencies": {
-        "@akasha/git": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
-        "yaml": "^2.8.1",
-        "zod": "^4.3.6",
-      },
     },
     "infrastructure/cluster-api": {
       "name": "@akasha/cluster-api",
