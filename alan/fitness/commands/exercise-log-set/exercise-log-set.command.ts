@@ -6,7 +6,7 @@ export const exerciseLogSet = {
   slug: "exercise-log-set",
   definition: "the command writing down one set Alan performed in the session that is open",
   code: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "<exercise>", takes: "the movement the set was of, named as the first word" },
     {
@@ -48,7 +48,11 @@ export const exerciseLogSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A set carries reps, and the weight and the effort may be left out.",
+      statement: "A set carries reps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A set's weight and effort may be left out.",
     },
   ],
 } as const satisfies Command

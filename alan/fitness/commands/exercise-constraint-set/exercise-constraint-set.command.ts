@@ -6,7 +6,7 @@ export const exerciseConstraintSet = {
   slug: "exercise-constraint-set",
   definition: "the command recording a standing limit or cue the coach programs within",
   code: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     {
       said: "--title <headline>",

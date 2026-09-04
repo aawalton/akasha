@@ -7,7 +7,7 @@ export const musicCapture = {
   definition: "the command filing what Alan played on Spotify onto the ESO days he played it in",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "--dry-run", takes: "say what would land and write nothing" },
     { said: "--json", takes: "give what was filed as JSON rather than as rows" },

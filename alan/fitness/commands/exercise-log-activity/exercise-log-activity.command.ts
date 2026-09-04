@@ -7,7 +7,7 @@ export const exerciseLogActivity = {
   definition:
     "the command writing down one stretch of cardio or mobility, timed rather than repped",
   code: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "<exercise>", takes: "the movement the stretch was of, named as the first word" },
     {

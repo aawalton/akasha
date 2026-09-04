@@ -6,7 +6,7 @@ export const exerciseAdd = {
   slug: "exercise-add",
   definition: "the command putting a movement of Alan's own into the catalog",
   code: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "<title>", takes: "the name of the movement, said as the first word" },
     { said: "--title <title>", takes: "the name of the movement" },
@@ -42,7 +42,11 @@ export const exerciseAdd = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement made here carries no external id, so the sync passes over it.",
+      statement: "A movement made here carries no external id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The sync passes over a movement carrying no external id.",
     },
     {
       invariantKind: "departure",

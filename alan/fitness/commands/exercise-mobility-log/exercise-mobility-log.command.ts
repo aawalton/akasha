@@ -6,7 +6,7 @@ export const exerciseMobilityLog = {
   slug: "exercise-mobility-log",
   definition: "the command writing down one measurement of how far a joint moved",
   code: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "--metric <metric>", takes: "which measurement was taken" },
     { said: "--value <text>", takes: "the human read of it, which always stands" },
@@ -35,7 +35,7 @@ export const exerciseMobilityLog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is named for its metric, its day and its side.",
+      statement: "A reading is named for its metric and its day and its side.",
     },
     {
       invariantKind: "departure",

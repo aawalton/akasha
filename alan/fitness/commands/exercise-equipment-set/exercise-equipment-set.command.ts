@@ -6,7 +6,7 @@ export const exerciseEquipmentSet = {
   slug: "exercise-equipment-set",
   definition: "the command recording a piece of kit, what it loads to and whether Alan owns it",
   code: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "<title>", takes: "the name of the piece, said as the first word" },
     { said: "--title <name>", takes: "the name of the piece, which is what it is reached by" },

@@ -7,7 +7,7 @@ export const musicImportArtist = {
   definition: "the command bringing an artist and every song of theirs in from MusicBrainz",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "<name>", takes: "the artist to look for, said as `--name` is said" },
     { said: "--name <name>", takes: "the artist to look for by name" },

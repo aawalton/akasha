@@ -7,7 +7,7 @@ export const musicRate = {
   definition: "the command recording Alan's grade and what he said onto a song or an artist",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-checked",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "--target <artist|song>", takes: "which sort of page the grade is recorded onto" },
     { said: "--slug <slug>", takes: "the artist or song page the grade is recorded onto" },
