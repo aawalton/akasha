@@ -4,7 +4,7 @@ export const nothingHasEverKeptALocationTrace = {
   id: "01a060c1-6704-7000-b68c-9da42e6042d5",
   pageTypeSlug: "finding",
   slug: "nothing-has-ever-kept-a-location-trace",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/location-traces-access",
   claim:
     "Not one location trace has ever been kept, in any store. `public.location_traces` took zero inserts across its whole life while `health_samples` took 819,479, and no `.location-traces.jsonl` file has ever existed. The move onto the page store also dropped the storage Alan chose in July — a dedicated table, explicitly not the pages tier — without restating it, and the writer's own refusal comment now points the next reader back onto the pages tier.",
   evidence:
