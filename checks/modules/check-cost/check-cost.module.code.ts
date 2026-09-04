@@ -1,5 +1,5 @@
 import { Buffer } from "node:buffer"
-import { appendFileSync, existsSync, readFileSync, statSync } from "node:fs"
+import { appendFileSync, existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { uncommittedPartAt } from "@akasha/pages-system/page-file-parts"
@@ -16,6 +16,14 @@ const A_MILLION = 1_000_000
 
 const KIB = 1024
 
+const CLEAR_REFS = "/proc/self/clear_refs"
+
+const HIWATER_RESET = "5"
+
+const STAT = "/proc/self/stat"
+
+const STATUS = "/proc/self/status"
+
 export type Cost = {
   readonly ranAt: string
   readonly phase: string
@@ -23,8 +31,10 @@ export type Cost = {
   readonly wallMs: number
   readonly cpuSeconds: number
   readonly childCpuSeconds: number
-  readonly peakBytesAdded: number
   readonly peakBytes: number
+  readonly residentBeforeBytes: number
+  readonly peakAddedBytes: number
+  readonly peakMeasured: boolean
   readonly pathsJudged: number
   readonly refusals: number
 }
@@ -33,6 +43,8 @@ export type Taken = {
   readonly cpu: number
   readonly childCpu: number
   readonly peak: number
+  readonly resident: number
+  readonly measured: boolean
   readonly at: number
 }
 
@@ -54,32 +66,58 @@ export function childSecondsIn(stat: string): number {
   return (user + system) / TICKS_A_SECOND
 }
 
-export function peakBytesIn(status: string): number {
+export function bytesIn(status: string, named: string): number {
   for (const line of status.split("\n")) {
-    if (!line.startsWith("VmHWM:")) continue
+    if (!line.startsWith(`${named}:`)) continue
     const found = /(\d+)/.exec(line)
-    if (found === null) return 0
-    return Number(found[1]) * KIB
+    return found === null ? 0 : Number(found[1]) * KIB
   }
   return 0
 }
 
 function childSeconds(): number {
-  const stat = textAt("/proc/self/stat")
+  const stat = textAt(STAT)
   return stat === null ? 0 : childSecondsIn(stat)
 }
 
-function peakBytes(): number {
-  const status = textAt("/proc/self/status")
-  return status === null ? 0 : peakBytesIn(status)
+function marksNow(): { readonly peak: number; readonly resident: number } {
+  const status = textAt(STATUS)
+  if (status === null) return { peak: 0, resident: 0 }
+  return { peak: bytesIn(status, "VmHWM"), resident: bytesIn(status, "VmRSS") }
 }
 
-export function taken(): Taken {
+export function peakForgotten(): boolean {
+  try {
+    writeFileSync(CLEAR_REFS, HIWATER_RESET)
+    return true
+  } catch {
+    return false
+  }
+}
+
+export function opening(): Taken {
+  const measured = peakForgotten()
+  const marks = marksNow()
   const used = process.cpuUsage()
   return {
     cpu: (used.user + used.system) / A_MILLION,
     childCpu: childSeconds(),
-    peak: peakBytes(),
+    peak: marks.peak,
+    resident: marks.resident,
+    measured,
+    at: Date.now(),
+  }
+}
+
+export function closing(): Taken {
+  const marks = marksNow()
+  const used = process.cpuUsage()
+  return {
+    cpu: (used.user + used.system) / A_MILLION,
+    childCpu: childSeconds(),
+    peak: marks.peak,
+    resident: marks.resident,
+    measured: true,
     at: Date.now(),
   }
 }
@@ -99,8 +137,10 @@ export function costOf(
     wallMs: after.at - before.at,
     cpuSeconds: Number((after.cpu - before.cpu).toFixed(3)),
     childCpuSeconds: Number((after.childCpu - before.childCpu).toFixed(3)),
-    peakBytesAdded: Math.max(after.peak - before.peak, 0),
     peakBytes: after.peak,
+    residentBeforeBytes: before.resident,
+    peakAddedBytes: Math.max(after.peak - before.resident, 0),
+    peakMeasured: before.measured,
     pathsJudged,
     refusals,
   }

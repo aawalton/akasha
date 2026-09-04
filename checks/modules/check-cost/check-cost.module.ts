@@ -21,7 +21,21 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The memory a run added is the rise in the high-water mark at `VmHWM`.",
+      statement:
+        "The high-water mark is forgotten before a run, so the mark after it is that run's own peak.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A peak read from a mark no run forgot measures the record rather than the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A line states whether the mark was forgotten, so a proxy is never read as a measurement.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a run added is its peak over what was resident when the run opened.",
     },
     {
       invariantKind: "departure",
@@ -46,6 +60,10 @@ export const checkCost = {
     {
       invariantKind: "gap",
       statement: "The peak memory a reaped child reached is read nowhere here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A run's peak carries what earlier runs left resident.",
     },
     {
       invariantKind: "gap",
