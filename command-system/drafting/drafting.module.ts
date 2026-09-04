@@ -27,6 +27,28 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A path the commit at HEAD holds nothing at is followed to the path a rename left that body at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path followed through a rename is followed again through the next rename.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body drafted at a path renamed away is merged onto the body at the path the rename left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away by no rename refuses the rebase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename reaching a path the patch already carries a body at refuses the rebase.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that moved under a draft is merged rather than overwritten.",
     },
     {
