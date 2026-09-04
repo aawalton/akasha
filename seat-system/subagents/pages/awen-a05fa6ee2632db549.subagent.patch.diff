@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
-index 1c6d775bb548d76e6302adc481c45f050199ffb6..4629ecfb580d5b93a3b357600dae956b876c980b 100644
+index 1c6d775bb548d76e6302adc481c45f050199ffb6..e1785e5f87384e7d64f34a49284e763cc1165172 100644
 --- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
 +++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
 @@ -4,7 +4,7 @@ import { servedOf } from "@akasha/code-system/code-typing"
@@ -11,6 +11,15 @@ index 1c6d775bb548d76e6302adc481c45f050199ffb6..4629ecfb580d5b93a3b357600dae956b
  import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
  import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
  import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+@@ -85,7 +85,7 @@ type Diagnosed = {
+   readonly startPosition?: { readonly line: number }
+ }
+ 
+-export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
++export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
+   const roots = rootsOf(change, shadow.index)
+   if (roots.length === 0) return []
+   const root = resolve(change.root)
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
 index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..4aceb2cfcb70ac67a723239e28457f655b4c970e 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
