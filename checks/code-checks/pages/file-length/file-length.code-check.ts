@@ -26,18 +26,6 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "A lockfile is held to a byte ceiling wider than a prose file's ceiling.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A lockfile carries the `lock` extension.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "The package manager rather than akasha decides how large a lockfile is.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A markup file is held to a byte ceiling wider than a code file's ceiling.",
     },
     {
@@ -72,11 +60,6 @@ export const fileLength = {
       invariantKind: "departure",
       statement:
         "A refusal for a test file names the `test-fixtures` file standing beside that test file.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A refusal for a lockfile names what a lockfile that large says about the workspace.",
     },
   ],
 } as const satisfies CodeCheck
