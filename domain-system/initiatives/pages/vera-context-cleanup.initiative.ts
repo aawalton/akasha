@@ -10,7 +10,7 @@ export const veraContextCleanup = {
     {
       statement: "All context files are organized in the context/ folder.",
       workingMemory:
-        'The folder and the package are both named `context-system` today, so this intent asks for the rename the graph package took from `graph-system` to `graph`. Nothing outside holds a context page: the one file elsewhere spelling `pageTypeSlug: "context-warrant"` is `read.command.test-fixtures.ts`, which builds a warrant for a test rather than standing as one. Eight files across `command-system` import `@akasha/context`.',
+        "Met at 362c3d16 and 4f2448cf: the folder, the page slug and the package name are all `context`, and `bun install` settled the lockfile. Three places still spell `context-system` and each is right to: a made-up domain in `domain-ancestors.context-warrant.test.ts`, prose in a finding measured 2026-09-02, and one line of amy's `amy-seat-turn-reading` working memory, which is hers to mend.",
     },
     {
       statement: "The context folder tree passes the folder-matches-a-shape check.",
