@@ -4,7 +4,7 @@ const PATH_ENV =
   "%h/.bun/bin:%h/.local/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin"
 const CHECKOUT = "%h/repos/akasha"
 const WRAPPER_RUNS =
-  "bun akasha/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts"
+  "bun service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts"
 const SIGTERM_EXIT = 143
 const DEFAULT_RESTART = "always"
 const DEFAULT_TARGET = "default.target"

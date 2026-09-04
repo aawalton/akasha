@@ -193,7 +193,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f akasha/infrastructure/backup-retention/gfs-promoter/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infrastructure/backup-retention/gfs-promoter/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -238,7 +238,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f akasha/infrastructure/backup-retention/seaweedfs-backup-longtail/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infrastructure/backup-retention/seaweedfs-backup-longtail/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -273,7 +273,7 @@ function annualDumpSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f akasha/infrastructure/postgres-annual-dump/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infrastructure/postgres-annual-dump/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },

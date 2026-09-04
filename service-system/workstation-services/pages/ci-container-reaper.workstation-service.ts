@@ -5,7 +5,7 @@ export const ciContainerReaper = {
   pageTypeSlug: "workstation-service",
   slug: "ci-container-reaper",
   definition: "the service clearing finished step containers off the cluster",
-  runs: ["bun akasha/changes/steps/container-reaping/container-reaping.module.code.ts"],
+  runs: ["bun changes/steps/container-reaping/container-reaping.module.code.ts"],
   enabled: true,
   needsSecrets: true,
   systemd: {

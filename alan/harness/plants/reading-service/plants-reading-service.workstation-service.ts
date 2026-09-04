@@ -5,7 +5,7 @@ export const plantsReadingService = {
   pageTypeSlug: "workstation-service",
   slug: "plants-reading-service",
   definition: "the service taking Alan's plant grams onto its readout",
-  runs: ["bun akasha/alan/harness/plants/reading/plants-reading.module.code.ts"],
+  runs: ["bun alan/harness/plants/reading/plants-reading.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/5",

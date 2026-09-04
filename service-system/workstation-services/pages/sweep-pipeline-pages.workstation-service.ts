@@ -7,7 +7,7 @@ export const sweepPipelinePages = {
   definition:
     "the service carrying every unfinished pipeline, workflow and step to its next status",
   runs: [
-    "bun akasha/changes/pipelines/pipeline-page-sweeping/pipeline-page-sweeping.module.code.ts",
+    "bun changes/pipelines/pipeline-page-sweeping/pipeline-page-sweeping.module.code.ts",
   ],
   enabled: true,
   needsSecrets: true,

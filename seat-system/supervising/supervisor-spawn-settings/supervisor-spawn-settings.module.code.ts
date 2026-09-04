@@ -110,7 +110,7 @@ function warnAbsent(reason: string): undefined {
     `${LOG} agent settings NOT loaded: \`${AGENT_SETTINGS_COMMAND}\` — ${reason}.\n` +
       `${LOG} this spawn carries only the per-spawn overrides; every key the ` +
       `document declares (hooks, env, permissions, fastMode, statusLine) is inert ` +
-      `for it. Restore akasha/seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json.`
+      `for it. Restore seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json.`
   )
 }
 

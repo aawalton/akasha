@@ -6,7 +6,7 @@ export const ciContainerDispatcher = {
   slug: "ci-container-dispatcher",
   definition: "the service placing a step waiting to be dispatched into a container on the cluster",
   runs: [
-    "env CI_STICKY_PINNING_ENABLED=1 bun akasha/changes/steps/container-dispatching/container-dispatching.module.code.ts",
+    "env CI_STICKY_PINNING_ENABLED=1 bun changes/steps/container-dispatching/container-dispatching.module.code.ts",
   ],
   enabled: true,
   needsSecrets: true,

@@ -18,7 +18,7 @@ Wrapping is the author's convenience and not part of the text: the lines of a pa
 are joined with a space, and a blank line between paragraphs survives as one.
 
 Usage:
-  bun akasha/seat-system/compose-notices/compose-notices.module.code.ts [--out <path>]
+  bun seat-system/compose-notices/compose-notices.module.code.ts [--out <path>]
 
 Flags:
   --out <path>   Write there rather than to stdout.

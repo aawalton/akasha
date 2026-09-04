@@ -5,7 +5,7 @@ export const capacityReadingService = {
   pageTypeSlug: "workstation-service",
   slug: "capacity-reading-service",
   definition: "the service taking Alan's capacity hours onto its readout",
-  runs: ["bun akasha/alan/harness/capacity/reading/capacity-reading.module.code.ts"],
+  runs: ["bun alan/harness/capacity/reading/capacity-reading.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/5",

@@ -41,7 +41,7 @@ export default workflow("eso-rig", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n eso-rig -f akasha/service-system/cluster-services/pages/eso-rig/generated/deployment.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n eso-rig -f service-system/cluster-services/pages/eso-rig/generated/deployment.generated.yaml",
           ...verifyRolloutCommands({
             namespace: "eso-rig",
             deployment: "eso-rig",

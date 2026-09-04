@@ -15,7 +15,7 @@ function fail(message: string): never {
 }
 
 const HELP = [
-  "bun akasha/command-system/ios-widget-emit/ios-widget-emit.module.code.ts — one iOS widget's Swift, from its document",
+  "bun command-system/ios-widget-emit/ios-widget-emit.module.code.ts — one iOS widget's Swift, from its document",
   "",
   "Reads the `ios-widget` document named, and nothing but what that document names: its app for",
   "the extension directory, its readout display for the groups drawn, each group's readouts for",
@@ -31,7 +31,7 @@ const HELP = [
   "by name rather than emitted wrong; the strip and grid forms are not written yet.",
   "",
   "Usage:",
-  "  bun akasha/command-system/ios-widget-emit/ios-widget-emit.module.code.ts <widget-slug>... [--diff] [--write]",
+  "  bun command-system/ios-widget-emit/ios-widget-emit.module.code.ts <widget-slug>... [--diff] [--write]",
   "",
   "  <widget-slug>  an `ios-widget` document under `domains/ios-widgets/`, by slug; several are",
   "                 read in one act. There is no emit-everything form: a widget this cannot yet",

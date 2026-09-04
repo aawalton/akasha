@@ -5,7 +5,7 @@ export const activityReadingService = {
   pageTypeSlug: "workstation-service",
   slug: "activity-reading-service",
   definition: "the service taking Alan's activity calories onto its readout",
-  runs: ["bun akasha/alan/harness/activity/reading/activity-reading.module.code.ts"],
+  runs: ["bun alan/harness/activity/reading/activity-reading.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/5",

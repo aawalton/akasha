@@ -5,7 +5,7 @@ export const surplusReadingService = {
   pageTypeSlug: "workstation-service",
   slug: "surplus-reading-service",
   definition: "the service taking Alan's surplus hours onto its readout",
-  runs: ["bun akasha/alan/harness/surplus/reading/surplus-reading.module.code.ts"],
+  runs: ["bun alan/harness/surplus/reading/surplus-reading.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/5",

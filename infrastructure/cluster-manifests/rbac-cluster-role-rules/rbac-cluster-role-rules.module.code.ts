@@ -21,7 +21,7 @@ export const clusterRoleRules: ReadonlyArray<(Rule | NonResourceRule) & { commen
   },
   {
     comment:
-      "Cluster-scoped RBAC — locked to known resources only (prevents privilege escalation)\n  # create: resourceNames can't restrict it, so it's in a separate rule below\n  # list: resourceNames can't restrict collection verbs, omitted intentionally\n  #\n  # Every name a synth.ts the discovery globs reach (the DISCOVERY_GLOBS in\n  # akasha/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.code.ts) emits as a\n  # ClusterRole or ClusterRoleBinding MUST appear here, otherwise the\n  # second-and-onward server-side-apply (a patch op) 403s — first-time\n  # apply succeeds via the unrestricted create rule below, masking the\n  # gap until the next deploy. Enforced by `ops check-rbac-cluster-resource-names`.",
+      "Cluster-scoped RBAC — locked to known resources only (prevents privilege escalation)\n  # create: resourceNames can't restrict it, so it's in a separate rule below\n  # list: resourceNames can't restrict collection verbs, omitted intentionally\n  #\n  # Every name a synth.ts the discovery globs reach (the DISCOVERY_GLOBS in\n  # infrastructure/k8s-synth/synth-discovery/synth-discovery.module.code.ts) emits as a\n  # ClusterRole or ClusterRoleBinding MUST appear here, otherwise the\n  # second-and-onward server-side-apply (a patch op) 403s — first-time\n  # apply succeeds via the unrestricted create rule below, masking the\n  # gap until the next deploy. Enforced by `ops check-rbac-cluster-resource-names`.",
     apiGroups: ["rbac.authorization.k8s.io"],
     resources: ["clusterroles", "clusterrolebindings"],
     verbs: ["get", "update", "patch"],
@@ -160,7 +160,7 @@ export const clusterRoleRules: ReadonlyArray<(Rule | NonResourceRule) & { commen
   },
   {
     comment:
-      "get is required by the surge branch of pod selection\n  # (akasha/changes/workflow-language/pod-selection/pod-selection.module.code.ts): with more than one Running\n  # pod it reads each ReplicaSet BY NAME to roll it up to its owning Deployment,\n  # and refuses to act on a pod it cannot prove belongs to the rollout. Reading\n  # a named object needs `get`, which `list` does not confer. That call falls\n  # back to an empty string on any error, so a 403 there read as an unset\n  # ownerReference rather than as a denial — added under #18632, when\n  # `ops check-rbac-pipelines` first modelled `rs` and reported the gap.",
+      "get is required by the surge branch of pod selection\n  # (changes/workflow-language/pod-selection/pod-selection.module.code.ts): with more than one Running\n  # pod it reads each ReplicaSet BY NAME to roll it up to its owning Deployment,\n  # and refuses to act on a pod it cannot prove belongs to the rollout. Reading\n  # a named object needs `get`, which `list` does not confer. That call falls\n  # back to an empty string on any error, so a 403 there read as an unset\n  # ownerReference rather than as a denial — added under #18632, when\n  # `ops check-rbac-pipelines` first modelled `rs` and reported the gap.",
     apiGroups: ["apps"],
     resources: ["replicasets"],
     verbs: ["get", "list", "watch"],
@@ -251,14 +251,14 @@ export const clusterRoleRules: ReadonlyArray<(Rule | NonResourceRule) & { commen
   },
   {
     comment:
-      "Escalation prevention: the postgres namespace Role (akasha/infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the CloudNativePG `Cluster` CR (#11608) and the daily\n  # `ScheduledBackup` CR (#11723) so pipeline-engine can apply them. The CNPG\n  # operator itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CRs.",
+      "Escalation prevention: the postgres namespace Role (infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the CloudNativePG `Cluster` CR (#11608) and the daily\n  # `ScheduledBackup` CR (#11723) so pipeline-engine can apply them. The CNPG\n  # operator itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CRs.",
     apiGroups: ["postgresql.cnpg.io"],
     resources: ["clusters", "scheduledbackups"],
     verbs: ["get", "list", "watch", "create", "update", "patch"],
   },
   {
     comment:
-      "Escalation prevention: the postgres namespace Role (akasha/infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the Barman Cloud `ObjectStore` CR so pipeline-engine\n  # can apply the postgres-cnpg backup destination (#11723). The Barman Cloud\n  # plugin itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CR.",
+      "Escalation prevention: the postgres namespace Role (infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts)\n  # grants write verbs on the Barman Cloud `ObjectStore` CR so pipeline-engine\n  # can apply the postgres-cnpg backup destination (#11723). The Barman Cloud\n  # plugin itself is installed under admin kubeconfig — pipeline-engine only\n  # manages the CR.",
     apiGroups: ["barmancloud.cnpg.io"],
     resources: ["objectstores"],
     verbs: ["get", "list", "watch", "create", "update", "patch"],

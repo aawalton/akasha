@@ -44,7 +44,7 @@ what lands in the map. A kind's prompt is the whole of what its subagent starts 
 stands in the \`${PROMPT_SLUG}\` file beside the page rather than in the page.
 
 Usage:
-  bun akasha/seat-system/compose-subagents/compose-subagents.module.code.ts [--out <path>]
+  bun seat-system/compose-subagents/compose-subagents.module.code.ts [--out <path>]
 
 Flags:
   --out <path>   Write there rather than to stdout.

@@ -6,7 +6,7 @@ export const orphanedResourcesSweep = {
   slug: "orphaned-resources-sweep",
   definition: "the service saying which live cluster resources no source manifest accounts for",
   runs: [
-    "bun akasha/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts",
+    "bun infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts",
   ],
   enabled: true,
   needsSecrets: true,

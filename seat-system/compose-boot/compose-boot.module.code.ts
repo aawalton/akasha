@@ -25,7 +25,7 @@ A seat stating nothing composes to nothing and exits 0. Nothing here refuses: th
 feeds a spawn, and a seat that does not start is worse than one carrying less.
 
 Usage:
-  bun akasha/seat-system/compose-boot/compose-boot.module.code.ts --agent <id> [--out <path>]
+  bun seat-system/compose-boot/compose-boot.module.code.ts --agent <id> [--out <path>]
 
 Flags:
   --agent <id>   Whose attributes to read.

@@ -6,9 +6,9 @@ export const inboxRelayService = {
   slug: "inbox-relay-service",
   definition: "the service carrying the inbox counts to the site that shows them",
   runs: [
-    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts https://alanwalton.com",
-    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts https://alanwalton.com",
-    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts https://alanwalton.com",
+    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts https://alanwalton.com",
+    "-bun readout-system/readout-relay/readout-relay.module.code.ts readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts https://alanwalton.com",
+    "-bun readout-system/readout-relay/readout-relay.module.code.ts temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts https://alanwalton.com",
   ],
   enabled: true,
   needsSecrets: true,

@@ -53,7 +53,7 @@ export function preloadRemedy(
   const headline = `${workspace}: ${files.length} component test file(s) and ${bunfig} does not register a happy-dom preload.`
   const cost =
     '    Without it every render throws a bare "ReferenceError: document is not defined" out of @testing-library/react.'
-  const reference = "    See akasha/alan/web/bunfig.toml for a reference."
+  const reference = "    See alan/web/bunfig.toml for a reference."
   const edit = bunfigExists
     ? [`    Add ${entry} to the [test] preload array in ${bunfig}:`]
     : [

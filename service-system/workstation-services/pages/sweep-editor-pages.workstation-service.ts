@@ -6,7 +6,7 @@ export const sweepEditorPages = {
   slug: "sweep-editor-pages",
   definition: "the service removing every editor page whose window or terminal is gone",
   runs: [
-    "bun akasha/alan/harness/code-editor/editor-page-sweeping/editor-page-sweeping.module.code.ts --remove",
+    "bun alan/harness/code-editor/editor-page-sweeping/editor-page-sweeping.module.code.ts --remove",
   ],
   enabled: true,
   systemd: {

@@ -58,7 +58,7 @@ export default workflow("loki", {
         environment: { HOME: "/tmp" },
         commands: [
           "set -e",
-          "kubectl apply --server-side --force-conflicts -f akasha/infrastructure/loki-service/promtail/generated/promtail-rbac.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infrastructure/loki-service/promtail/generated/promtail-rbac.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -76,8 +76,8 @@ export default workflow("loki", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n loki -f akasha/infrastructure/loki-service/loki/generated/configmap.generated.yaml",
-          "kubectl apply --server-side --force-conflicts -n loki -f akasha/infrastructure/loki-service/loki/generated/service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n loki -f infrastructure/loki-service/loki/generated/configmap.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n loki -f infrastructure/loki-service/loki/generated/service.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -103,7 +103,7 @@ export default workflow("loki", {
             read: "kubectl get secret loki-s3-creds -n loki -o jsonpath='{.data.access_key}{.data.secret_key}'",
             subject: "loki-s3-creds",
           }),
-          'sed -e "s|checksum/config:.*|checksum/config: \\"${LOKI_HASH}\\"|" -e "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${S3_CREDS_HASH}\\"|" akasha/infrastructure/loki-service/loki/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n loki -f -',
+          'sed -e "s|checksum/config:.*|checksum/config: \\"${LOKI_HASH}\\"|" -e "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${S3_CREDS_HASH}\\"|" infrastructure/loki-service/loki/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n loki -f -',
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -121,13 +121,13 @@ export default workflow("loki", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n loki -f akasha/infrastructure/loki-service/promtail/generated/promtail-configmap.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n loki -f infrastructure/loki-service/promtail/generated/promtail-configmap.generated.yaml",
           ...checksumHashCommands({
             variable: "PROMTAIL_HASH",
-            read: "cat akasha/infrastructure/loki-service/promtail/generated/promtail-configmap.generated.yaml",
+            read: "cat infrastructure/loki-service/promtail/generated/promtail-configmap.generated.yaml",
             subject: "promtail-configmap.generated.yaml",
           }),
-          'sed "s|checksum/config:.*|checksum/config: \\"${PROMTAIL_HASH}\\"|" akasha/infrastructure/loki-service/promtail/generated/promtail-daemonset.generated.yaml | kubectl apply --server-side --force-conflicts -n loki -f -',
+          'sed "s|checksum/config:.*|checksum/config: \\"${PROMTAIL_HASH}\\"|" infrastructure/loki-service/promtail/generated/promtail-daemonset.generated.yaml | kubectl apply --server-side --force-conflicts -n loki -f -',
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },

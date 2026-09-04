@@ -12,7 +12,7 @@ export const TOKEN_URL = "https://accounts.spotify.com/api/token"
 const EXPIRY_BUFFER_MS = 60_000
 
 const NOT_AUTHORIZED =
-  "spotify: no token is stored — give consent first with `bun run akasha/alan/music/spotify/auth-cli/spotify-auth-cli.module.code.ts`"
+  "spotify: no token is stored — give consent first with `bun run alan/music/spotify/auth-cli/spotify-auth-cli.module.code.ts`"
 
 export const tokenResponseSchema = z
   .object({

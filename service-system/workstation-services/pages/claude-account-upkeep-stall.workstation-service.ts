@@ -6,7 +6,7 @@ export const claudeAccountUpkeepStall = {
   slug: "claude-account-upkeep-stall",
   definition: "the service ruling on whether Claude account upkeep has stalled and telling Alan",
   runs: [
-    "timeout 120 bun akasha/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts --notify",
+    "timeout 120 bun agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts --notify",
   ],
   enabled: true,
   systemd: {

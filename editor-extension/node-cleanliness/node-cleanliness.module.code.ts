@@ -5,7 +5,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { ran } from "@akasha/utils-run/running"
 
-const HELP = `bun akasha/editor-extension/node-cleanliness/node-cleanliness.module.code.ts
+const HELP = `bun editor-extension/node-cleanliness/node-cleanliness.module.code.ts
 
 Refuses a bun-only global in what the editor's extension host loads. What is judged, what is
 carried, and where that stops is stated on the module page beside this file.

@@ -203,7 +203,7 @@ scrape_configs:
           - cert-manager.cert-manager.svc.cluster.local:9402
 
   # SeaweedFS master/volume/filer — native weed Prometheus metrics on :9327
-  # (the -metricsPort flag, enabled in akasha/infrastructure/seaweedfs/seaweedfs-deployments/seaweedfs-deployments.module.code.ts;
+  # (the -metricsPort flag, enabled in infrastructure/seaweedfs/seaweedfs-deployments/seaweedfs-deployments.module.code.ts;
   # off by default). SeaweedFS is the backup substrate, so
   # its liveness deserves a direct scrape witness rather than the 26h-delayed
   # backup-staleness inference downstream (#14277). One static target per

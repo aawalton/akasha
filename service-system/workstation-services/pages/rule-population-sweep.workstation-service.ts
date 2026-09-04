@@ -6,7 +6,7 @@ export const rulePopulationSweep = {
   slug: "rule-population-sweep",
   definition: "the service reading what every enforcement rule weighed and filing it for `dalla`",
   runs: [
-    "bun akasha/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts",
+    "bun rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts",
   ],
   enabled: true,
   systemd: {

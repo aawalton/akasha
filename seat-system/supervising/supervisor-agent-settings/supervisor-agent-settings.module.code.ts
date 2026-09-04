@@ -21,7 +21,7 @@ how a module elsewhere in this repository reaches that document: it is edited he
 the commit, so nothing over there opens it by path.
 
 Usage:
-  bun akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts
+  bun seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts
 
 Flags:
   --help, -h  Print this and exit 0.

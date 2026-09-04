@@ -2,7 +2,7 @@
 
 import { type Drawn, type DrawnRow, drawn } from "../panel-reading/panel-reading.module.code.ts"
 
-const HELP = `bun akasha/editor-extension/panel-judging/panel-judging.module.code.ts
+const HELP = `bun editor-extension/panel-judging/panel-judging.module.code.ts
 
 Refuses a panel that draws nothing. What each surface is asked for, and what is pinned rather
 than counted, is stated on the module page beside this file.

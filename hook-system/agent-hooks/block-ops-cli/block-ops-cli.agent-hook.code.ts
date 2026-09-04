@@ -52,7 +52,7 @@ export const SCOPE: readonly string[] = [
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  `ops` run through npx, bunx or another runner, which none of the ops entry points is",
   "    published for",
-  "  `bun akasha/command-system/ops-calling/ops-calling.module.code.ts`, which names the",
+  "  `bun command-system/ops-calling/ops-calling.module.code.ts`, which names the",
   "    dispatcher's file rather than the command",
   "  a call another program builds — `sh -c`, `xargs`, `make`, a script file",
   "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",

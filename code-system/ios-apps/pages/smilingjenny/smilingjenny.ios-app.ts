@@ -17,7 +17,7 @@ export const smilingjenny = {
   macBuildLockDir: "$HOME/.appstoreconnect/deploy-testflight-smilingjenny.lock",
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-smilingjenny",
   marketingVersion: "1.0",
-  nativeShellRepoPath: "akasha:akasha/code-system/ios-apps/pages/smilingjenny",
+  nativeShellRepoPath: "akasha:code-system/ios-apps/pages/smilingjenny",
   webEntry: "html",
   widgetBundleId: "me.smilingjenny.app.widgets",
   widgetProfileName: "smilingjenny widget App Store",

@@ -5,7 +5,7 @@ export const ciOrchestrator = {
   pageTypeSlug: "workstation-service",
   slug: "ci-orchestrator",
   definition: "the service answering a pipeline whose failure a later run cured",
-  runs: ["bun akasha/changes/pipelines/pipeline-driving/pipeline-driving.module.code.ts"],
+  runs: ["bun changes/pipelines/pipeline-driving/pipeline-driving.module.code.ts"],
   enabled: false,
   systemd: {
     restartDelaySeconds: 10,

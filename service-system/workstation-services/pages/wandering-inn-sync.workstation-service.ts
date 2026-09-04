@@ -6,7 +6,7 @@ export const wanderingInnSync = {
   slug: "wandering-inn-sync",
   definition: "the service filing each new Wandering Inn chapter as a page",
   runs: [
-    "flock -n /var/tmp/wandering-inn-sync.lock bun akasha/story/wandering-inn/wandering-inn-syncing/wandering-inn-syncing.module.code.ts",
+    "flock -n /var/tmp/wandering-inn-sync.lock bun story/wandering-inn/wandering-inn-syncing/wandering-inn-syncing.module.code.ts",
   ],
   enabled: true,
   needsSecrets: false,

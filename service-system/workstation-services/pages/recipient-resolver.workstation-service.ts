@@ -7,7 +7,7 @@ export const recipientResolver = {
   definition:
     "the service resolving each message's recipient and seating an agent in the seat named",
   runs: [
-    "bun akasha/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
+    "bun seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
   ],
   enabled: true,
   systemd: {

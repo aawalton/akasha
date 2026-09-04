@@ -196,7 +196,7 @@ async function account(text: string, from: string, to: string, limit: number): P
 }
 
 export const USAGE = [
-  "bun akasha/alan/harness/monarch/evidence/monarch-evidence.module.code.ts <lookup> — read-only evidence about transactions",
+  "bun alan/harness/monarch/evidence/monarch-evidence.module.code.ts <lookup> — read-only evidence about transactions",
   "",
   "  transaction <id>",
   "      the row itself",

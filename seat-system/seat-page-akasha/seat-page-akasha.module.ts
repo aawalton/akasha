@@ -9,7 +9,7 @@ export const seatPageAkasha = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every seat page sits under akasha/seat-system/seats/pages.",
+      statement: "Every seat page sits under seat-system/seats/pages.",
     },
     {
       invariantKind: "departure",

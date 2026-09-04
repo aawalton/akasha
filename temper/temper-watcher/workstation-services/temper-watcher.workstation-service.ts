@@ -5,7 +5,7 @@ export const temperWatcher = {
   pageTypeSlug: "workstation-service",
   slug: "temper-watcher",
   definition: "the service carrying what Alan does in the game across to the web",
-  runs: ["bun akasha/temper/temper-watcher/watcher-running/watcher-running.module.code.ts"],
+  runs: ["bun temper/temper-watcher/watcher-running/watcher-running.module.code.ts"],
   enabled: false,
   systemd: {
     restart: "on-failure",

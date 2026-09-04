@@ -124,7 +124,7 @@ function main(): never {
       format: flags.json ? "json" : "human",
       prefix: PREFIX,
       header:
-        "Hand-rolled color literals outside design-system tokens. The rule is Standardized Palette: reference a design-system token, or obtain an Alan grant and record it against the literal in COLOR_LITERAL_ALLOWLIST in akasha/checks/cluster-checks/modules/color-literal-grants/color-literal-grants.module.code.ts",
+        "Hand-rolled color literals outside design-system tokens. The rule is Standardized Palette: reference a design-system token, or obtain an Alan grant and record it against the literal in COLOR_LITERAL_ALLOWLIST in checks/cluster-checks/modules/color-literal-grants/color-literal-grants.module.code.ts",
       successMessage: "No unexempted hand-rolled color literals.",
       formatViolation: (v) => `${v.file}:${v.line} — ${v.value}`,
     },

@@ -5,7 +5,7 @@ export const safetyReadingService = {
   pageTypeSlug: "workstation-service",
   slug: "safety-reading-service",
   definition: "the service taking Alan's safety level onto its readout",
-  runs: ["bun akasha/alan/harness/safety/reading/safety-reading.module.code.ts"],
+  runs: ["bun alan/harness/safety/reading/safety-reading.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:0/5",

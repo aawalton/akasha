@@ -6,7 +6,7 @@ export const sweepLogDays = {
   slug: "sweep-log-days",
   definition: "the service removing every log day past the window a log is kept for",
   runs: [
-    "bun akasha/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts --remove",
+    "bun seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts --remove",
   ],
   enabled: true,
   systemd: {
