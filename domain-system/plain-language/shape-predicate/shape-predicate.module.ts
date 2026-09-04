@@ -4,7 +4,7 @@ export const shapePredicate = {
   id: "01a06d15-c08a-7cb9-a166-2c8d5553765b",
   pageTypeSlug: "module",
   slug: "shape-predicate",
-  definition: "the form every sentence shape's predicate over a dependency tree takes",
+  definition: "what every sentence shape's predicate over a dependency tree is written against",
   code: "ts",
   invariants: [
     {
@@ -26,6 +26,10 @@ export const shapePredicate = {
     {
       invariantKind: "departure",
       statement: "A token is named by the number the parser gave that token.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word class every predicate reads is named here rather than in each predicate.",
     },
     {
       invariantKind: "absence",

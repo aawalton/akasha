@@ -6,6 +6,7 @@ export const lonePronoun = {
   slug: "lone-pronoun",
   definition: "a pronoun used where a noun would be",
   allowed: false,
-  rules: ["NP -> PRON"],
+  code: "ts",
+  test: "ts",
   reason: "Resolving a pronoun costs a reader a step that naming the thing does not.",
 } as const satisfies SentenceShape

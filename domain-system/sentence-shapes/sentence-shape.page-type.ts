@@ -1,13 +1,12 @@
-import type { Page } from "@akasha/pages-system/page"
+import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Definition } from "../domains/properties/definition.text-property.ts"
 import type { Allowed } from "./properties/allowed.boolean-property.ts"
 import type { Reason } from "./properties/reason.text-property.ts"
 import type { Rules } from "./properties/rules.text-property.ts"
 import type { ShapePattern } from "./properties/shape-pattern.text-property.ts"
 
-export type SentenceShape = Page & {
-  definition: Definition
+export type SentenceShape = Module & {
+  test: NonNullable<Module["test"]>
   allowed?: Allowed
   rules?: readonly Rules[]
   pattern?: ShapePattern
@@ -20,15 +19,19 @@ export const sentenceShape = {
   slug: "sentence-shape",
   definition: "one shape a sentence takes, and whether akasha writes in it",
   pluralSlug: "sentence-shapes",
-  extendsSlug: "page-type/page",
+  extendsSlug: "page-type/module",
   partSlugs: [
     "boolean-property/allowed",
-    "text-property/shape-pattern",
     "text-property/reason",
     "text-property/rules",
+    "text-property/shape-pattern",
+    "sentence-shape/lone-determiner",
+    "sentence-shape/lone-pronoun",
+    "sentence-shape/lone-quantifier",
+    "sentence-shape/partitive-quantifier",
   ],
   properties: [
-    { pagePropertySlug: "definition", required: true, many: false },
+    { pagePropertySlug: "test", required: true, many: false },
     { pagePropertySlug: "allowed", required: false, many: false },
     { pagePropertySlug: "rules", required: false, many: true, max: null },
     { pagePropertySlug: "shape-pattern", required: false, many: false },
@@ -41,24 +44,16 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A shape is found by the predicate the shape's own code holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A predicate reads the dependency tree rather than the words themselves.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "The grammar parses a refused shape stating rules so a refusal can name that shape.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A shape states rules or a pattern.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A shape no grammar rule can hold states a pattern.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A shape stating a pattern is refused rather than admitted.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A pattern is read before the grammar is read.",
+        "A shape's test names a sentence the predicate finds and a sentence the predicate passes over.",
     },
     {
       invariantKind: "departure",
@@ -78,10 +73,6 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape is written down once it is parsed rather than once it is decided.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A shape is weighed by the load the shape costs a reader rather than by how the shape reads.",
     },
@@ -90,12 +81,24 @@ export const sentenceShape = {
       statement: "A shape no rewrite beats is not thereby allowed.",
     },
     {
-      invariantKind: "departure",
-      statement: "A refused shape is reached again through the shapes that rebuild its rules.",
-    },
-    {
       invariantKind: "absence",
       statement: "A shape says nothing about what a sentence means.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The check reads the predicate every refused shape holds.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The rules and the pattern are kept until the grammar those two fed goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No shape states rules.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The grammar built from rules refuses nothing.",
     },
   ],
   directives: [

@@ -6,6 +6,7 @@ export const loneQuantifier = {
   slug: "lone-quantifier",
   definition: "a quantifier used where a noun would be",
   allowed: false,
-  rules: ["NP -> QUANT"],
+  code: "ts",
+  test: "ts",
   reason: "A quantifier makes a reader find what it counts where naming it does not.",
 } as const satisfies SentenceShape

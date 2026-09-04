@@ -6,6 +6,7 @@ export const loneDeterminer = {
   slug: "lone-determiner",
   definition: "a demonstrative used where a noun would be",
   allowed: false,
-  rules: ["NP -> DEM"],
+  code: "ts",
+  test: "ts",
   reason: "A demonstrative makes a reader look up which page they are on.",
 } as const satisfies SentenceShape
