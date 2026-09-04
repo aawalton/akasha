@@ -1,10 +1,11 @@
+import { spawnSync } from "node:child_process"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { everyPath, readingIn } from "@akasha/indexes"
+import { everyPath } from "@akasha/indexes"
 import type { Answering } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages-system/change"
-import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+import { pageNamed, partedIn, uncommittedHeld } from "@akasha/pages-system/page-file-name"
 import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { isMissing } from "@akasha/utils-fs/missing"
@@ -239,9 +240,35 @@ export function everyFileOf(index: Answering): readonly string[] {
   return filedOnce(index.everyPath())
 }
 
+const WALK_CEILING = 512 * 1024 * 1024
+
+const VENDORED = "node_modules"
+
+function walked(root: string, asked: readonly string[]): readonly string[] {
+  const ran = spawnSync("git", ["-C", root, "ls-files", "-z", "--exclude-standard", ...asked], {
+    encoding: "utf-8",
+    maxBuffer: WALK_CEILING,
+  })
+  if (ran.error !== undefined) throw ran.error
+  if (ran.status !== 0) {
+    throw new Error(`the tree at ${root} could not be walked — ${ran.stderr.trim()}`)
+  }
+  return ran.stdout.split("\0").filter((one) => one !== "")
+}
+
+function heldThough(path: string): boolean {
+  return uncommittedHeld(path) && !path.split("/").includes(VENDORED)
+}
+
+function everyFileInside(root: string): readonly string[] {
+  const kept = walked(root, ["--cached", "--others"])
+  const held = walked(root, ["--others", "--ignored"]).filter(heldThough)
+  return filedOnce([...kept, ...held])
+}
+
 export function everythingIn(root: string): Change {
   const both = onDisk(root)
-  return { root, changed: everyFileIn(readingIn(root)), before: both, after: both }
+  return { root, changed: everyFileInside(root), before: both, after: both }
 }
 
 export function onDisk(root: string): (path: string) => Uint8Array | null {

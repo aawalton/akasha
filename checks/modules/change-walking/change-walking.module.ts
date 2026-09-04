@@ -46,6 +46,24 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A walk over everything takes what is in the tree rather than what the index names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file git leaves out of the tree is walked only where its name holds the reserved section `uncommitted`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An installed dependency is walked by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root that is no tree refuses the walk rather than taking nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body is opened rather than looked for and then opened.",
     },
     {
