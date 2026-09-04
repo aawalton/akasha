@@ -10,7 +10,7 @@ export const awenStoryCleanup = {
     {
       statement: "All story engine and story content files are organized in the story/ folder.",
       workingMemory:
-        "The one displaced tree is `games/games`: the `game` page type, 29 properties, 8 game pages and 56 payload files, claimed by `domain/games`. `game` is a story Alan plays through with a persona running the other side, and `story/engine/core/game-url` hard-codes its slug; no import crosses either way, though `games/idle-games` takes one property. `alan/world-lore` and `alan/narrative-production` are story domains under `alan`. All 17 page types and six packages are already under `story/`.",
+        "The one displaced tree is `story/games`: the `game` page type, 29 properties, 8 game pages and 56 payload files, claimed by `domain/games`. `game` is a story Alan plays through with a persona running the other side, and `story/engine/core/game-url` hard-codes its slug; no import crosses either way, though `games/idle-games` takes one property. `alan/world-lore` and `alan/narrative-production` are story domains under `alan`. All 17 page types and six packages are already under `story/`.",
     },
     {
       statement: "The story/ tree passes the `folder-matches-a-shape` check.",

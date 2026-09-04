@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { LastViewedAt } from "../../alan/tracking/daily/wake-days/properties/last-viewed-at.instant-property.ts"
 import type { Collection } from "../../collection-system/collections/collection.page-type.ts"
-import type { GameEngine } from "../games/properties/game-engine.text-property.ts"
+import type { GameEngine } from "../../story/games/properties/game-engine.text-property.ts"
 import type { FavoritedAt } from "./properties/favorited-at.instant-property.ts"
 
 export type IdleGame = Collection & {
