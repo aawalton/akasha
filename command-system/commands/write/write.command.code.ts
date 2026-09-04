@@ -11,7 +11,6 @@ import {
   textAt,
   textOf,
   troubling,
-  warranted,
   wroteAndTook,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -51,7 +50,7 @@ export function unwarrantedIn(
   return owedIn(
     given.root,
     given.agentId,
-    changes.map((one) => one.path).filter(warranted),
+    changes.map((one) => one.path),
     changingOf(given.root, changes)
   )
 }
