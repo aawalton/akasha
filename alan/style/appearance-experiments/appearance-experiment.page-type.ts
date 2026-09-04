@@ -1,16 +1,16 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { PersonaSlug } from "../../../domain-system/initiatives/properties/persona-slug.relation-property.ts"
 import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
 import type { AppearanceExperimentDay } from "./properties/appearance-experiment-day.calendar-date-property.ts"
 import type { AppearanceVerdict } from "./properties/appearance-verdict.select-property.ts"
+import type { ExperimentPersonaSlug } from "./properties/experiment-persona-slug.relation-property.ts"
 import type { EyeRead } from "./properties/eye-read.file-property.ts"
 import type { FeltRead } from "./properties/felt-read.file-property.ts"
 import type { WhatTried } from "./properties/what-tried.file-property.ts"
 
 export type AppearanceExperiment = Page & {
   title: Title
-  personaSlug: PersonaSlug
+  personaSlug: ExperimentPersonaSlug
   date: AppearanceExperimentDay
   verdict: AppearanceVerdict
   whatTried: WhatTried
@@ -30,6 +30,7 @@ export const appearanceExperiment = {
     "file-property/eye-read",
     "file-property/felt-read",
     "file-property/what-tried",
+    "relation-property/experiment-persona-slug",
     "select-property/appearance-verdict",
   ],
   properties: [

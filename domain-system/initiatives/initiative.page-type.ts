@@ -2,13 +2,13 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { DomainSlug } from "../domains/properties/domain-slug.relation-property.ts"
 import type { Constraints } from "./properties/constraints.text-property.ts"
+import type { InitiativePersonaSlug } from "./properties/initiative-persona-slug.relation-property.ts"
 import type { Intents } from "./properties/intents.record-property.ts"
 import type { ParentSlug } from "./properties/parent-slug.relation-property.ts"
-import type { PersonaSlug } from "./properties/persona-slug.relation-property.ts"
 
 export type Initiative = Page & {
   domainSlug: DomainSlug
-  personaSlug: PersonaSlug
+  personaSlug: InitiativePersonaSlug
   parentSlug?: ParentSlug
   intents?: Intents
   constraints?: readonly Constraints[]
@@ -22,6 +22,7 @@ export const initiative = {
   pluralSlug: "initiatives",
   partSlugs: [
     "record-property/intents",
+    "relation-property/initiative-persona-slug",
     "relation-property/initiative-slug",
     "relation-property/parent-slug",
     "relation-property/persona-slug",

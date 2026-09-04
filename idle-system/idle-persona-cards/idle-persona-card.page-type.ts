@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { PersonaSlug } from "../../domain-system/initiatives/properties/persona-slug.relation-property.ts"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { CardPersonaSlug } from "./properties/card-persona-slug.relation-property.ts"
 import type { CardRank } from "./properties/card-rank.number-property.ts"
 import type { CardSlug } from "./properties/card-slug.text-property.ts"
 import type { CoverImageId } from "./properties/cover-image-id.text-property.ts"
@@ -26,7 +26,7 @@ export type IdlePersonaCard = Page & {
   lockState: LockState
   lockEligible: LockEligible
   specializeLocked: SpecializeLocked
-  personaSlug?: PersonaSlug
+  personaSlug?: CardPersonaSlug
   coverImageId?: CoverImageId
   images?: Images
   seatIndex?: SeatIndex
@@ -47,6 +47,7 @@ export const idlePersonaCard = {
     "number-property/seat-index",
     "number-property/stars",
     "number-property/train-cost",
+    "relation-property/card-persona-slug",
     "select-property/lock-state",
     "text-property/card-slug",
     "text-property/cover-image-id",
