@@ -1,4 +1,8 @@
-import { normalizeRecord, type ToolResult, transcriptLineSchema } from "./transcript-records.ts"
+import {
+  normalizeRecord,
+  type ToolResult,
+  transcriptLineSchema,
+} from "../transcript-records/transcript-records.module.code.ts"
 
 export const FINAL_TEXT_CHARS = 4000
 

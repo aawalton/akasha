@@ -1,6 +1,10 @@
-import { type LogicalModel, toWireId } from "./model-vocab.ts"
-import { conductIn } from "./turn-end-reading-conduct.ts"
-import { evidenceFrom, readTail, type TurnEvidence } from "./turn-end-reading-evidence.ts"
+import { type LogicalModel, toWireId } from "@tools/lib/model-vocab"
+import { conductIn } from "../turn-end-conduct/turn-end-conduct.module.code.ts"
+import {
+  evidenceFrom,
+  readTail,
+  type TurnEvidence,
+} from "../turn-end-evidence/turn-end-evidence.module.code.ts"
 import {
   buildReadingInstructions,
   buildReadingUser,
@@ -8,7 +12,7 @@ import {
   parseAnswer,
   READER_IDENTITY,
   type ReaderAnswer,
-} from "./turn-end-reading-prompt.ts"
+} from "../turn-end-prompt/turn-end-prompt.module.code.ts"
 
 export const DEFAULT_READING_MODEL: LogicalModel = "sonnet"
 
