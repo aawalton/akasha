@@ -119,6 +119,56 @@ index 90851ff381dd83d045ce63074c6bcc00a8747c4b..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies PageType
+diff --git a/seat-system/seat-turn-end-reading-cases/properties/case-final-message.text-property.ts b/seat-system/seat-turn-end-reading-cases/properties/case-final-message.text-property.ts
+deleted file mode 100644
+index 4729e41b9dca82651964a2ebf11fdf2976771ba0..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn-end-reading-cases/properties/case-final-message.text-property.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
+-
+-export type CaseFinalMessage = string
+-
+-export const caseFinalMessage = {
+-  id: "01a06861-1918-79b0-8713-38951cab9147",
+-  pageTypeSlug: "text-property",
+-  slug: "case-final-message",
+-  propertySlug: "case-final-message",
+-  definition: "the last thing a seat said before the turn the case keeps ended",
+-  max: 5000,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A final message is the evidence a reading weighs rather than a summary of it.",
+-    },
+-  ],
+-} as const satisfies TextProperty
+diff --git a/seat-system/seat-turn-end-reading-cases/properties/case-prompt.text-property.ts b/seat-system/seat-turn-end-reading-cases/properties/case-prompt.text-property.ts
+deleted file mode 100644
+index 30697e45787ac6977db06cd43283d7b1a25e3f02..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn-end-reading-cases/properties/case-prompt.text-property.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
+-
+-export type CasePrompt = string
+-
+-export const casePrompt = {
+-  id: "01a06861-1917-78bb-86d3-15aa907963ad",
+-  pageTypeSlug: "text-property",
+-  slug: "case-prompt",
+-  propertySlug: "case-prompt",
+-  definition: "the words a turn end was handed before the answer it is owed was settled",
+-  max: 2000,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A prompt is kept whole, so the case replays from itself.",
+-    },
+-  ],
+-} as const satisfies TextProperty
 diff --git a/seat-system/seat-turn-end-reading-cases/seat-turn-end-reading-case.page-type.ts b/seat-system/seat-turn-end-reading-cases/seat-turn-end-reading-case.page-type.ts
 deleted file mode 100644
 index b972ba8ecad3be93983da68cf297502e4aafd771..0000000000000000000000000000000000000000
