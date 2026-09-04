@@ -9,18 +9,3 @@ interface LscSubCommand {
 interface LscRegisteredCommand {
   RegisterSubCommand: (this: LscRegisteredCommand) => LscSubCommand
 }
-
-interface LibSlashCommander {
-  Register: ((
-    this: LibSlashCommander,
-    alias: string,
-    callback: (this: void) => void,
-    description: string
-  ) => LscCommand) &
-    ((
-      this: LibSlashCommander,
-      slash: string,
-      callback: (this: void, arg: string) => void,
-      description: string
-    ) => LscRegisteredCommand)
-}
