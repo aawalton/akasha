@@ -3,6 +3,7 @@ export const tool = {
   path: "seat turn-end read",
 } as const
 
+import { LOGICAL_MODELS, type LogicalModel } from "@akasha/agents/model-vocab"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { CONDUCT_RELATIVE_PATH } from "@akasha/seat-system/turn-end-conduct"
 import {
@@ -11,7 +12,6 @@ import {
   exitCodeFor,
   readingFor,
 } from "@akasha/seat-system/turn-end-reading"
-import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
 
 const HELP = `bun tools/turn-end-reading.ts — read one turn end against what annoys its principal
 
