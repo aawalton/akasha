@@ -69,6 +69,15 @@ export function servingOf(
   }
 }
 
+export function existingOf(
+  served: (name: string) => string | null | undefined
+): (name: string) => boolean | undefined {
+  return (name) => {
+    const body = served(name)
+    return body === undefined ? undefined : body !== null
+  }
+}
+
 export function foundOf(root: string, said: Diagnosed): Found {
   const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName))
   const line = (said.startPosition?.line ?? 0) + FIRST_LINE
@@ -96,7 +105,7 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly 
   const readFile = servingOf(root, at, config, read)
   const api = new API({
     cwd: root,
-    fs: { readFile, fileExists: (name) => (name === at ? true : undefined) },
+    fs: { readFile, fileExists: existingOf(readFile) },
   })
   try {
     const snapshot = await api.updateSnapshot({ openProjects: [at] })
