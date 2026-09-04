@@ -190,7 +190,7 @@ export const THING_TYPE = "akasha/kind/thing.page-type.ts"
 
 export const PAGE_TYPE = "akasha/kind/page.page-type.ts"
 
-export const STRAY = "agent/elsewhere.ts"
+export const STRAY = "../elsewhere.ts"
 
 export type Planted = {
   readonly slug: string
@@ -214,13 +214,7 @@ export function thingRoot(): string {
 }
 
 export function strayRoot(): string {
-  return rootWarranting(
-    [
-      { at: THING, body: "one\n" },
-      { at: STRAY, body: "two\n" },
-    ],
-    [straying("says-away", "saysAway", STRAY)]
-  )
+  return rootWarranting([{ at: THING, body: "one\n" }], [straying("says-away", "saysAway", STRAY)])
 }
 
 export function leftIn(report: readonly string[]): readonly string[] {
