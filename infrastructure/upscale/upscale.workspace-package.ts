@@ -11,7 +11,7 @@ export const upscale = {
     "container-recipe/upscale-image",
     "module/upscale-bench-synth",
     "module/upscale-cluster",
-    "module/upscale-serving-job",
+    "manifest/upscale-serving-job",
     "module/upscale-workstation",
     "python-module/upscale-srpo-graph",
     "shell-script/upscale-bench-runner",
