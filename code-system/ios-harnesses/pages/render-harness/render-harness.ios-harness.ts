@@ -6,16 +6,6 @@ export const renderHarness = {
   slug: "render-harness",
   definition: "the program that draws an app's tiles on a simulator",
   main: "swift",
-  partSlugs: [
-    "ios-harness/render-harness-cases",
-    "ios-harness/render-harness-cases-categorize",
-    "ios-harness/render-harness-cases-safety",
-    "ios-harness/render-harness-cases-surplus",
-    "ios-harness/render-harness-cases-wide",
-    "ios-harness/render-harness-families",
-    "ios-harness/render-harness-rendering",
-    "ios-harness/render-harness-views",
-  ],
   invariants: [
     {
       invariantKind: "departure",

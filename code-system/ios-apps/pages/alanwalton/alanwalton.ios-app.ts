@@ -28,9 +28,6 @@ export const alanwalton = {
   widgetBundleId: "com.alanwalton.app.widgets",
   widgetProfileName: "alanwalton widget App Store",
   partSlugs: [
-    "ios-program/alanwalton-app",
-    "ios-program/alanwalton-decode-harness",
-    "ios-program/alanwalton-widget",
     "shell-script/alanwalton-apns-forwarding",
     "shell-script/alanwalton-app-entitlements",
     "shell-script/alanwalton-app-icon",

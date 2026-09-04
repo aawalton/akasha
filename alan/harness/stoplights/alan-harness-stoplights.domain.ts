@@ -5,13 +5,7 @@ export const alanHarnessStoplights = {
   pageTypeSlug: "domain",
   slug: "alan-harness-stoplights",
   definition: "how Alan knows what to do next",
-  partSlugs: [
-    "readout-group/upkeep",
-    "readout-group/attributes",
-    "readout-group/inboxes",
-    "readout-group/values",
-    "module/attribute-stoplights",
-  ],
+  partSlugs: ["module/attribute-stoplights"],
   invariants: [
     {
       invariantKind: "gap",

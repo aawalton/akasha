@@ -22,9 +22,6 @@ export const smilingjenny = {
   widgetBundleId: "me.smilingjenny.app.widgets",
   widgetProfileName: "smilingjenny widget App Store",
   partSlugs: [
-    "ios-program/smilingjenny-app",
-    "ios-program/smilingjenny-decode-harness",
-    "ios-program/smilingjenny-widget",
     "shell-script/smilingjenny-app-entitlements",
     "shell-script/smilingjenny-decode-harness-run",
     "shell-script/smilingjenny-ios-add",
