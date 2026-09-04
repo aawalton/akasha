@@ -95,6 +95,13 @@ export function rootsOf(change: Change, index: Answering): readonly string[] {
   return held.filter((one) => !routed(one, folders))
 }
 
+export function everyCompiledIn(change: Change, index: Answering): readonly string[] {
+  const folders = routingIn(index)
+  return index
+    .everyPath()
+    .filter((one) => compiled(one) && change.after(one) !== null && !routed(one, folders))
+}
+
 export function declaringIn(change: Change, index: Answering): readonly string[] {
   const held = index.everyPath()
   return held.filter((one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null)
