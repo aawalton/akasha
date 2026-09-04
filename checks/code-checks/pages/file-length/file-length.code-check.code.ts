@@ -9,13 +9,13 @@ import {
 
 export const CEILING = 15000
 
-export { ENTRY_CEILING }
-
 export const MARKUP_CEILING = 128 * 1024
 
 export const PROSE_CEILING = 128 * 1024
 
 export const WHOLE_PROSE_CEILING = 512 * 1024
+
+export const LOCKFILE_CEILING = 4 * 1024 * 1024
 
 const TEST = "test"
 
@@ -31,16 +31,23 @@ const TEXT = "txt"
 
 const WHOLE_PROSE = "prose"
 
+const LOCKFILE_ENDING = ".lock"
+
 const TEST_RELIEF =
   "a module carries one test, and what sets it up stands beside it in `test-fixtures`"
 
 const MARKUP_RELIEF =
   "an addon names every XML document the game loads, so divide this one at a top-level element"
 
+const LOCKFILE_RELIEF =
+  "the package manager writes a lockfile whole, so one this large says the workspace " +
+  "resolves more than it should"
+
 const PROSE_RELIEF =
   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
 
 function ceilingFor(path: string): number {
+  if (path.endsWith(LOCKFILE_ENDING)) return LOCKFILE_CEILING
   const said = partedIn(path)
   if (said === null) return CEILING
   const held = said.held
@@ -53,6 +60,7 @@ function ceilingFor(path: string): number {
 }
 
 function reliefFor(path: string): string | null {
+  if (path.endsWith(LOCKFILE_ENDING)) return LOCKFILE_RELIEF
   const said = partedIn(path)
   if (said === null) return null
   if (said.held === MARKUP) return MARKUP_RELIEF

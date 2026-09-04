@@ -1,8 +1,9 @@
 import { expect, test } from "bun:test"
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { bodiesIn } from "@akasha/testing-system/bodying"
 import {
   CEILING,
-  ENTRY_CEILING,
+  LOCKFILE_CEILING,
   MARKUP_CEILING,
   PROSE_CEILING,
   reasonsIn,
@@ -12,6 +13,8 @@ import {
 const ROOT = "/repo"
 
 const ENTRY = "akasha/day.wake-day.completed-tasks.jsonl"
+
+const LOCKFILE = "akasha/bun.lock"
 
 const MARKUP = "akasha/panel.eso-interface.markup.xml"
 
@@ -187,4 +190,32 @@ test("prose under another property keeps the narrower ceiling, so the wider one 
 test("the widest prose ceiling is wider than markup and narrower than an entry file", () => {
   expect(WHOLE_PROSE_CEILING).toBeGreaterThan(PROSE_CEILING)
   expect(WHOLE_PROSE_CEILING).toBeLessThan(ENTRY_CEILING)
+})
+
+test("the lockfile ceiling sits between the widest prose ceiling and the entry ceiling", () => {
+  expect(LOCKFILE_CEILING).toBeGreaterThan(WHOLE_PROSE_CEILING)
+  expect(LOCKFILE_CEILING).toBeLessThan(ENTRY_CEILING)
+})
+
+test("a lockfile at its own ceiling is let through", () => {
+  expect(reasonsIn(given(LOCKFILE, sized(LOCKFILE_CEILING)))).toEqual([])
+})
+
+test("a lockfile over its own ceiling is refused, and the reason names that ceiling", () => {
+  const said = reasonsIn(given(LOCKFILE, sized(LOCKFILE_CEILING + 1)))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("4,194,304 byte ceiling")
+})
+
+test("a refusal for a lockfile names what a lockfile that large says about the workspace", () => {
+  const said = reasonsIn(given(LOCKFILE, sized(LOCKFILE_CEILING + 1)))
+  expect(said[0]).toContain("resolves more than it should")
+})
+
+test("a lockfile akasha reads no page name in keeps the lockfile ceiling", () => {
+  expect(reasonsIn(given(LOCKFILE, sized(CEILING + 1)))).toEqual([])
+})
+
+test("the wider lockfile ceiling reaches the `lock` extension alone", () => {
+  expect(reasonsIn(given("akasha/held.lock.ts", sized(CEILING + 1)))).toHaveLength(1)
 })
