@@ -40,7 +40,6 @@
     "@akasha/indexes": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/seat-system": "workspace:*",
-    "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   }
 }

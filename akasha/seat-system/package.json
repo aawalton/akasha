@@ -271,7 +271,6 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-system": "workspace:*",
-    "@tools/lib": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "zod": "^4.3.6"
   }

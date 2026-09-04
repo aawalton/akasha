@@ -41,7 +41,6 @@
     "@akasha/inference-runs": "workspace:*",
     "@akasha/wan": "workspace:*",
     "@akasha/zimage": "workspace:*",
-    "@tools/lib": "workspace:*",
     "typescript": "5.9.3"
   }
 }
