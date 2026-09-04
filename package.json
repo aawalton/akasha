@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "workspaces": [
-    "akasha/**",
+    "akasha/**"
   ],
   "dependencies": {
     "@akasha/analysis-complexity": "workspace:*",
