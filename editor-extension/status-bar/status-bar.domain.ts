@@ -5,15 +5,6 @@ export const statusBar = {
   pageTypeSlug: "domain",
   slug: "status-bar",
   definition: "a strip of readings Alan keeps in view while he works",
-  partSlugs: [
-    "module/status-bar-panel",
-    "module/status-bar-drawing",
-    "module/status-bar-slots",
-    "module/status-bar-slot-types",
-    "module/status-bar-legends",
-    "module/status-bar-theme",
-    "module/status-bar-usage",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -21,7 +12,7 @@ export const statusBar = {
     },
     {
       invariantKind: "absence",
-      statement: "The status bar counts nothing, so no two items can disagree.",
+      statement: "The status bar counts nothing.",
     },
   ],
 } as const satisfies Domain
