@@ -64,3 +64,23 @@ index e9b3c04edb21fe96b956619a6de79d7935d969b9..a9a475dd6d7d0f5fd68e930091e36429
    const refused = recipientRefused(stated.to)
    if (refused !== null) return { kind: "refused", detail: refused }
    const unknown = unknownRecipient(stated.to)
+diff --git a/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts b/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts
+index a07c231bc87f32659a013214ec495cb93b73cd60..646869cac4a92a0ae60dd8d8b755887c5a2dede7 100644
+--- a/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts
++++ b/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts
+@@ -32,12 +32,12 @@ export function buildUnrevivableMessageBody(name: string, agentId: string): stri
+   )
+ }
+ 
+-export function messageUnrevivableToKeeper(
++export async function messageUnrevivableToKeeper(
+   keeper: string,
+   name: string,
+   agentId: string
+-): undefined {
+-  const wrote = writeMessage({
++): Promise<undefined> {
++  const wrote = await writeMessage({
+     to: keeper,
+     from: KEEPER_UNREVIVABLE_SOURCE,
+     warrant: "announce",
