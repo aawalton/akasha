@@ -11,7 +11,7 @@ export const domainChampioning = {
       statement: "Every domain has a champion.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "stopgap",
       statement: "No two personas champion one domain.",
     },
     {
