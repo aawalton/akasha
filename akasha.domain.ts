@@ -70,6 +70,7 @@ export const akasha = {
     "domain/ki",
     "workspace-package/markdown-pages",
     "workspace-package/mobile-commands",
+    "workspace/akasha-workspace",
   ],
   invariants: [
     {

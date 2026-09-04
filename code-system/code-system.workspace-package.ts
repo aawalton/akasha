@@ -28,6 +28,7 @@ export const codeSystem = {
     "page-type/stylesheet",
     "page-type/type-declaration",
     "page-type/workspace-package",
+    "page-type/workspace",
     "module/body-text",
     "module/file-kind",
     "module/file-kind-bytes",
