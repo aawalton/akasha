@@ -18,7 +18,7 @@ export const subagent = {
   pluralSlug: "subagents",
   extendsSlug: "page-type/agent",
   mortal: true,
-  partSlugs: ["text-property/agent-id"],
+  partSlugs: ["relation-property/subagent-kind", "text-property/agent-id"],
   properties: [
     { pagePropertySlug: "principal-seat-name", required: true, many: false },
     { pagePropertySlug: "dispatched-as", required: true, many: false },
