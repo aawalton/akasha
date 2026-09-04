@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const complexity = {
   id: "01a0680b-94d1-745a-98c7-ad24f22fec92",

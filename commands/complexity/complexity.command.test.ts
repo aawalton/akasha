@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import type { Given } from "../../calling/calling.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
 import { complexity, readIn, summaryOf } from "./complexity.command.code.ts"
 
 const OWN = join(import.meta.dir, "complexity.command.code.ts")
