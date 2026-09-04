@@ -40,7 +40,7 @@ export const upscale = {
     },
     {
       invariantKind: "departure",
-      statement: "A run goes to a cluster GPU or to the workstation's own, never to both.",
+      statement: "A run goes either to a cluster GPU or to the workstation's own.",
     },
   ],
 } as const satisfies WorkspacePackage

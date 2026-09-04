@@ -11,7 +11,7 @@ export const fileKindAuthorship = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file kind is authored or serialized and never both.",
+      statement: "A file kind is either authored or serialized.",
     },
     {
       invariantKind: "departure",

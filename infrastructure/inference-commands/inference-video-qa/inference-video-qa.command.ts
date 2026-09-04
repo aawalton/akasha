@@ -29,7 +29,11 @@ export const inferenceVideoQa = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A clip or a directory of frames is named, never both and never neither.",
+      statement: "A clip or a directory of frames is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A clip and a directory of frames are never named together.",
     },
     {
       invariantKind: "departure",

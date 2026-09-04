@@ -9,11 +9,11 @@ export const operatorClassification = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A token is an operator, an operand, or counted as neither.",
+      statement: "A token is an operator, an operand, or uncounted.",
     },
     {
       invariantKind: "departure",
-      statement: "Trivia and the end of a file are counted as neither.",
+      statement: "Trivia and the end of a file are counted as neither an operator nor an operand.",
     },
   ],
 } as const satisfies Module

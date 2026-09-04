@@ -13,7 +13,7 @@ export const synthManifests = {
     },
     {
       invariantKind: "departure",
-      statement: "A pass either writes or checks rather than doing both.",
+      statement: "A pass either writes or checks.",
     },
   ],
 } as const satisfies Module

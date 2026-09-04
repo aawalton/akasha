@@ -34,7 +34,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The parts one call asks after share a pattern rather than taking one each.",
+      statement: "The parts one call asks after share one pattern.",
     },
     {
       invariantKind: "departure",
