@@ -13,6 +13,7 @@
     "./command": "./commands/command.page-type.ts",
     "./command-declaring": "./command-declaring/command-declaring.module.code.ts",
     "./committing": "./committing/committing.module.code.ts",
+    "./drafting": "./drafting/drafting.module.code.ts",
     "./during-call": "./during-call/during-call.module.code.ts",
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./holding": "./holding/holding.module.code.ts",

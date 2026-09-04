@@ -1,6 +1,7 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
+import { tookIn } from "@akasha/command-system/drafting"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { dropReadings, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { listedAt, listedById } from "@akasha/indexes"
@@ -9,6 +10,8 @@ import { partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"
+
+export const SEATS_AT = "seat-system/seats/pages"
 
 export const WRITING = "write"
 
@@ -98,10 +101,30 @@ export function wrote(
   return handed(root, [{ path: at, body }], `${slug}: a subagent states the agent id it acts under`)
 }
 
+export function seatPathOf(seatName: string): string {
+  return `${SEATS_AT}/${seatName}.seat.ts`
+}
+
+export function tookInUnder(
+  root: string,
+  seatName: string,
+  paths: readonly string[]
+): readonly string[] {
+  const page = seatPathOf(seatName)
+  if (!existsSync(join(root, page))) return []
+  const took: string[] = []
+  for (const at of paths) {
+    const said = tookIn(root, page, at)
+    if (!("why" in said)) took.push(at)
+  }
+  return took
+}
+
 export function took(root: string, seatName: string, own: string): boolean {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   if (!existsSync(join(root, at))) return true
+  tookInUnder(root, seatName, [at])
   const gone = handed(
     root,
     [{ path: at, body: null }],
@@ -128,6 +151,7 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
 export function tookUnder(root: string, seatName: string, why: string): boolean {
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return true
+  tookInUnder(root, seatName, paths)
   const gone = handed(
     root,
     paths.map((path) => ({ path, body: null })),

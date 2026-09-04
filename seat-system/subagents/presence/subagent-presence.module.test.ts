@@ -69,7 +69,7 @@ test("an agent id keeps a mark a slug would collapse", () => {
 })
 
 test("a page sits under the subagents folder named for its slug", () => {
-  expect(pathOf("akasha-abc")).toBe("akasha/seat-system/subagents/pages/akasha-abc.subagent.ts")
+  expect(pathOf("akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
 })
 
 test("a body states the type and slug and seat and assignment and kind and agent id", () => {
