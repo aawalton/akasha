@@ -1,0 +1,15 @@
+diff --git a/collection-system/collections/collection.page-type.ts b/collection-system/collections/collection.page-type.ts
+index 23eaecd75900020c781124e36d7eade4303b41e9..3e2c6f9af22e9a1fda6dc9aecab3e6c3f514f00e 100644
+--- a/collection-system/collections/collection.page-type.ts
++++ b/collection-system/collections/collection.page-type.ts
+@@ -115,10 +115,6 @@ export const collection = {
+       invariantKind: "departure",
+       statement: "The parts of a collection are themselves collections.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A collection is part of more than one collection.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "No collection is part of itself however far the chain of parts runs.",
