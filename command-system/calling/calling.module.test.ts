@@ -121,16 +121,26 @@ test("a name carried by more than one command is refused rather than chosen betw
   expect(said.refusals[0]).toContain("names more than one")
 })
 
-test("several leading words are joined, and the longest name a command carries is read", async () => {
+test("the walk goes as deep as the words offer, through levels carrying no command", async () => {
   const root = rootWith([
-    { slug: "track", body: ANSWERS },
-    { slug: "track-session", body: ANSWERS },
-    { slug: "track-session-open", body: ANSWERS },
+    { slug: "a", body: ANSWERS },
+    { slug: "a-b-c-d-e", body: ANSWERS },
   ])
-  const said = await calling(["track", "session", "open", "at", "noon"], { ...OUTSIDE, root })
+  const said = await calling(["a", "b", "c", "d", "e", "f"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("at noon")
-  expect(said.report[1]).toBe("akasha track-session-open")
+  expect(said.report[0]).toBe("f")
+  expect(said.report[1]).toBe("akasha a-b-c-d-e")
+})
+
+test("the deepest level a command is at is read, not a shallower one", async () => {
+  const root = rootWith([
+    { slug: "a", body: ANSWERS },
+    { slug: "a-b", body: ANSWERS },
+    { slug: "a-b-c", body: ANSWERS },
+  ])
+  const said = await calling(["a", "b", "c", "d"], { ...OUTSIDE, root })
+  expect(said.report[0]).toBe("d")
+  expect(said.report[1]).toBe("akasha a-b-c")
 })
 
 test("a shorter name is read where the longer one is carried by no command", async () => {
@@ -141,7 +151,7 @@ test("a shorter name is read where the longer one is carried by no command", asy
   expect(said.report[1]).toBe("akasha track")
 })
 
-test("a name between the longest and the first is read where the longest is carried", async () => {
+test("a level above the deepest is read where nothing deeper is reached", async () => {
   const root = rootWith([
     { slug: "track", body: ANSWERS },
     { slug: "track-session", body: ANSWERS },
@@ -170,22 +180,18 @@ test("no run of leading words naming a command is refused under the first word",
   expect(said.refusals[0]).toContain("`track` is no command akasha carries")
 })
 
-test("a name four words long is looked for", async () => {
-  const root = rootWith([{ slug: "a-b-c-d", body: ANSWERS }])
-  const said = await calling(["a", "b", "c", "d", "e"], { ...OUTSIDE, root })
+test("a word steps a whole level, so a longer word reaches no command below", async () => {
+  const root = rootWith([
+    { slug: "track", body: ANSWERS },
+    { slug: "track-session", body: ANSWERS },
+  ])
+  const said = await calling(["track", "sessions"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("e")
-  expect(said.report[1]).toBe("akasha a-b-c-d")
+  expect(said.report[0]).toBe("sessions")
+  expect(said.report[1]).toBe("akasha track")
 })
 
-test("a name five words long is not looked for", async () => {
-  const root = rootWith([{ slug: "a-b-c-d-e", body: ANSWERS }])
-  const said = await calling(["a", "b", "c", "d", "e"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("`a` is no command akasha carries")
-})
-
-test("the words joined into a name end at the first word that could be no slug", () => {
+test("the words walked down end at the first word that could be no slug", () => {
   expect(wordsIn(["music", "now", "playing"])).toEqual(["music", "now", "playing"])
   expect(wordsIn(["read", "--file-path", "one"])).toEqual(["read"])
   expect(wordsIn(["read", "-h"])).toEqual(["read"])
@@ -193,7 +199,7 @@ test("the words joined into a name end at the first word that could be no slug",
   expect(wordsIn(["read", "One"])).toEqual(["read"])
   expect(wordsIn(["Read"])).toEqual([])
   expect(wordsIn([])).toEqual([])
-  expect(wordsIn(["a", "b", "c", "d", "e"])).toEqual(["a", "b", "c", "d"])
+  expect(wordsIn(["a", "b", "c", "d", "e"])).toEqual(["a", "b", "c", "d", "e"])
 })
 
 test("a command page whose code answers to nothing callable is refused", async () => {

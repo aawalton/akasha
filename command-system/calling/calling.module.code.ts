@@ -62,9 +62,9 @@ const CODE = "code"
 
 const TS = "ts"
 
-const MOST_WORDS = 4
-
 const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
+
+const UNDER = "-"
 
 export const ROOTED = "index"
 
@@ -294,24 +294,29 @@ type Reached = {
 export function wordsIn(argv: readonly string[]): readonly string[] {
   const words: string[] = []
   for (const one of argv) {
-    if (words.length === MOST_WORDS || !WORD.test(one)) break
+    if (!WORD.test(one)) break
     words.push(one)
   }
   return words
 }
 
-function namedIn(root: string, argv: readonly string[]): Reached | null {
+function below(named: string, word: string): string {
+  return named === "" ? word : `${named}${UNDER}${word}`
+}
+
+function walkedIn(root: string, argv: readonly string[]): Reached | null {
   const type = commandSlugIn(root)
   if (type === null) return null
-  const words = wordsIn(argv)
-  let held = words.length
-  while (held > 0) {
-    const named = words.slice(0, held).join("-")
+  let named = ""
+  let held = 0
+  let reached: Reached | null = null
+  for (const word of wordsIn(argv)) {
+    named = below(named, word)
+    held = held + 1
     const found = listedAt(root, type, named)
-    if (found.length > 0) return { named, held, found }
-    held = held - 1
+    if (found.length > 0) reached = { named, held, found }
   }
-  return null
+  return reached
 }
 
 export async function calling(argv: readonly string[], outside: Outside): Promise<Answer> {
@@ -335,7 +340,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   if (named === undefined) {
     return carried(() => `${outside.calledAs} takes a command, and none was named.`)
   }
-  const reached = namedIn(root, argv)
+  const reached = walkedIn(root, argv)
   const first = reached === null ? undefined : reached.found[0]
   if (reached === null || first === undefined) {
     return carried((unread) =>

@@ -29,31 +29,37 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A name is the leading words of the command line joined with a hyphen.",
+      statement: "Each leading word of the command line steps one level down the command tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A word that could be no part of a slug ends the name before that word.",
+      statement: "A level's name is the words walked down to that level joined with a hyphen.",
     },
     {
       invariantKind: "departure",
-      statement: "A name is at most four words long.",
+      statement: "A word that could be no part of a slug ends the walk before that word.",
     },
     {
       invariantKind: "departure",
-      statement: "The longest name a command carries is the name read.",
+      statement: "The deepest level the walk reaches a command at is the command called.",
     },
     {
       invariantKind: "departure",
-      statement: "A shorter name is read only where the longer name is carried by no command.",
+      statement: "A level carrying no command is walked through rather than ending the walk.",
     },
     {
       invariantKind: "departure",
-      statement: "The words past the name are the arguments the command is handed.",
+      statement:
+        "The words past the level a command sits at are the arguments the command is handed.",
     },
     {
       invariantKind: "departure",
-      statement: "Naming a command costs at most four reads of the index.",
+      statement:
+        "How deep the walk goes is bounded by the words the line offers rather than by a count.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming a command costs one read of the index for each level walked.",
     },
     {
       invariantKind: "departure",
