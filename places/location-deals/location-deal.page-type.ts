@@ -38,7 +38,6 @@ export const locationDeal = {
   partSlugs: [
     "boolean-property/struck-out",
     "number-property/uses-used",
-    "relation-property/collection",
     "relation-property/locations",
     "select-property/use-limit",
     "text-property/deal-key",
@@ -65,7 +64,7 @@ export const locationDeal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A deal names every place it is redeemable at.",
+      statement: "A deal names every place the deal is redeemable at.",
     },
     {
       invariantKind: "departure",

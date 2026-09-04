@@ -17,7 +17,7 @@ export const gmailMailbox = {
   definition: "one Gmail account the system reads mail from",
   pluralSlug: "gmail-mailboxes",
   extendsSlug: "page-type/page",
-  partSlugs: ["email-address-property/email-address", "page-property-entry/processed-messages"],
+  partSlugs: ["page-property-entry/processed-messages"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "email-address", required: true, many: false },
@@ -35,7 +35,7 @@ export const gmailMailbox = {
     {
       invariantKind: "gap",
       statement:
-        "The address stands under the address a person sends and receives at rather than under a key of its own.",
+        "The address stands under the address a person sends and receives at rather than a key of its own.",
     },
   ],
 } as const satisfies PageType

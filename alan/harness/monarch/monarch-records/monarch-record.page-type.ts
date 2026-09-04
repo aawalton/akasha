@@ -17,7 +17,7 @@ export const monarchRecord = {
   definition: "one thing Monarch keeps about the household's money",
   pluralSlug: "monarch-records",
   extendsSlug: "page-type/page",
-  partSlugs: ["text-property/monarch-id", "text-property/title", "text-property/definition"],
+  partSlugs: ["text-property/monarch-id"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "monarch-id", required: false, many: false },
@@ -34,11 +34,11 @@ export const monarchRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A daily sync rewrites a record's figures and no instruction names them.",
+      statement: "A daily sync rewrites a record's figures and no instruction names the figures.",
     },
     {
       invariantKind: "departure",
-      statement: "A title is written as Monarch writes it, ampersand and apostrophe and all.",
+      statement: "A title is written as Monarch writes the title.",
     },
   ],
 } as const satisfies PageType
