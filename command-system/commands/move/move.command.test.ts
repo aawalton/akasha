@@ -247,11 +247,11 @@ test("a destination that already stands is refused", () => {
   expect(bodyIn(root, THREE)).toBe(OTHER)
 })
 
-test("a side standing outside the akasha folder is refused", () => {
+test("a side outside the repository is refused", () => {
   const root = heldPage()
-  const said = move(["--from", HELD, "--to", "elsewhere/held.module.ts"], givenIn(root))
+  const said = move(["--from", HELD, "--to", "../held.module.ts"], givenIn(root))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("is not under `akasha/`")
+  expect(said.refusals[0]).toContain("is no path inside the repository")
 })
 
 test("naming no pair is refused rather than committed empty", () => {
@@ -355,7 +355,7 @@ test("a path is read against the repository root, wherever the call was made", (
   const said = move(PAIR, { ...givenIn(root), from: join(root, "akasha/one") })
   expect(said.refusals).toEqual([])
   expect(there(root, THREE)).toBe(true)
-  const out = move(["--from", HELD, "--to", "one/held.module.ts"], givenIn(root))
+  const out = move(["--from", HELD, "--to", "../held.module.ts"], givenIn(root))
   expect(out.refusals[0]).toContain("read against the repository root")
 })
 
