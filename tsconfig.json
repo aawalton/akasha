@@ -11,9 +11,6 @@
     },
     {
       "path": "./akasha/audhdalan/audhdalan-web"
-    },
-    {
-      "path": "./tools"
     }
   ],
   "files": []
