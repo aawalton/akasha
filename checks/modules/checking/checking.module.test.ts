@@ -378,7 +378,10 @@ test(
 )
 
 test("a check carrying no guard of its own takes no path outside the akasha folder", async () => {
-  const gate = judgingBy(checksIn(ROOT).filter((one) => one.slug === SHAPED))
+  const gate = judgingBy(
+    checksIn(ROOT).filter((one) => one.slug === SHAPED),
+    "patch"
+  )
   expect(gate.named).toEqual([SHAPED])
   expect(gate.checksFor(over([OUTSIDE_AT]))).toEqual([])
   expect(await gate.over(over([OUTSIDE_AT]))).toEqual([])
