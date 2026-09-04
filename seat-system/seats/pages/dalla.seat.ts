@@ -5,7 +5,7 @@ export const dalla = {
   pageTypeSlug: "seat",
   slug: "dalla",
   personaSlug: "dalla",
-  assignmentSlug: "domain/change",
+  assignmentSlug: "initiative/dalla-draft-into-a-patch",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
