@@ -17,16 +17,20 @@ export function repoWith(
   return repoAt(scratch.rootFor("akasha-write-"), named)
 }
 
-export function wroteAt(root: string, path: string, said: readonly string[] = []): Answer {
-  return write(["--file-path", path, "--content-file", bodyIn(root), ...said], givenIn(root))
+export async function wroteAt(
+  root: string,
+  path: string,
+  said: readonly string[] = []
+): Promise<Answer> {
+  return await write(["--file-path", path, "--content-file", bodyIn(root), ...said], givenIn(root))
 }
 
-export function removed(root: string, path: string): Answer {
-  return write(["--remove", path], givenIn(root))
+export async function removed(root: string, path: string): Promise<Answer> {
+  return await write(["--remove", path], givenIn(root))
 }
 
-export function wroteAndRemoved(root: string, path: string, gone: string): Answer {
-  return write(
+export async function wroteAndRemoved(root: string, path: string, gone: string): Promise<Answer> {
+  return await write(
     ["--file-path", path, "--content-file", bodyIn(root), "--remove", gone],
     givenIn(root)
   )
