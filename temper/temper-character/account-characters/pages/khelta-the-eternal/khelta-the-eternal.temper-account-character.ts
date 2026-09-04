@@ -5,9 +5,9 @@ export const kheltaTheEternal = {
   pageTypeSlug: "temper-account-character",
   slug: "khelta-the-eternal",
   title: "Khelta the Eternal",
-  firstName: "Khelta",
-  esoCharacterId: "8796093063486855",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 17,
   completion: "json",
+  esoCharacterId: "8796093063486855",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Khelta",
 } as const satisfies TemperAccountCharacter
