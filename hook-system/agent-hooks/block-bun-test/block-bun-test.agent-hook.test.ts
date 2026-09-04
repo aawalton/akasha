@@ -5,7 +5,7 @@ import { ran } from "@akasha/utils-run/running"
 import { guarding } from "../../hook-answer/hook-answer.module.code.ts"
 import { judging } from "../../hook-judging/hook-judging.module.code.ts"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
-import { filtersOf, reachesAkasha, refusalIn, SCOPE } from "./block-bun-test.agent-hook.code.ts"
+import { refusalIn, SCOPE } from "./block-bun-test.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-bun-test.agent-hook.code.ts")
 
@@ -13,23 +13,24 @@ const ROOT = rootOf(import.meta.path)
 
 const judged = judging(refusalIn, ROOT)
 
-test("a run naming no path is refused, and says what it would reach", () => {
+test("a run naming no path is refused, and names the command that runs the tests", () => {
   const said = judged("bun test") ?? ""
-  expect(said).toContain("naming no path runs every test in this repository")
+  expect(said).toContain("a run naming no path reaches every one of them")
   expect(said).toContain("akasha test")
 })
 
-test("a flag is no path, so a run carrying only flags is still unbounded", () => {
-  for (const one of ["bun test --timeout 5000", "bun test -t held", "bun test --bail"]) {
-    expect(judged(one)).toContain("naming no path")
-  }
-})
-
-test("a run reaching the akasha folder is refused, and names the command that runs it", () => {
-  const said = judged("bun test akasha/") ?? ""
+test("a run naming a path is refused too, and says why the path bounds nothing", () => {
+  const said = judged("bun test hook-system/agent-hooks") ?? ""
   expect(said).toContain("runs the akasha tests outside the akasha commands")
+  expect(said).toContain("Every test file in this repository is an akasha test")
   expect(said).toContain("akasha test --file-path <path>")
   expect(said).toContain("Say `akasha test --help` for what it takes.")
+})
+
+test("a flag changes nothing, because no word after the act is read", () => {
+  for (const one of ["bun test --timeout 5000", "bun test -t held", "bun test --bail"]) {
+    expect(judged(one)).not.toBeNull()
+  }
 })
 
 test("every refusal names the hook that made it", () => {
@@ -42,19 +43,16 @@ test("every spelling of a path reaching akasha is refused", () => {
   }
 })
 
-test("a run naming only paths outside the akasha folder is let through", () => {
-  for (const one of ["shared/design-system", "tools/lib", "infra/k8s/one.test.ts"]) {
-    expect(judged(`bun test ${one}`)).toBeNull()
+test("a path naming no akasha segment is refused as well, which is what closed the gate", () => {
+  for (const one of ["shared/design-system", "tools/lib", "infra/k8s/one.test.ts", "."]) {
+    expect(judged(`bun test ${one}`)).not.toBeNull()
   }
-})
-
-test("one path reaching akasha refuses a run that names others beside it", () => {
-  expect(judged("bun test shared/one akasha/two")).not.toBeNull()
 })
 
 test("a run outside the repository this hook stands in is let through", () => {
   expect(judged("bun test", "/var/tmp/probe")).toBeNull()
   expect(judged("bun test akasha/", "/var/tmp/probe")).toBeNull()
+  expect(judged("bun test shared/one", "/var/tmp/probe")).toBeNull()
 })
 
 test("a run stating no working directory is judged as though it ran here", () => {
@@ -64,22 +62,7 @@ test("a run stating no working directory is judged as though it ran here", () =>
 
 test("a folder whose name starts with the root's name is outside it", () => {
   expect(guarding(`${ROOT}-other`, ROOT)).toBe(false)
-  expect(guarding(join(ROOT, "akasha"), ROOT)).toBe(true)
-})
-
-test("a word standing for everything bounds nothing", () => {
-  for (const one of [".", "..", "./", "/", "*"]) expect(reachesAkasha(one)).toBe(true)
-})
-
-test("a path outside the folder reaches nothing here", () => {
-  expect(reachesAkasha("shared/one")).toBe(false)
-  expect(reachesAkasha("akasha-other/one")).toBe(false)
-})
-
-test("a flag's value is never read as a path", () => {
-  expect(filtersOf(["--timeout", "5000"])).toEqual([])
-  expect(filtersOf(["-t", "held", "shared/one"])).toEqual(["shared/one"])
-  expect(filtersOf(["--coverage", "shared/one"])).toEqual(["shared/one"])
+  expect(guarding(join(ROOT, "hook-system"), ROOT)).toBe(true)
 })
 
 test("a prefix that only runs the call does not hide it", () => {
@@ -92,13 +75,13 @@ test("a prefix that only runs the call does not hide it", () => {
     "time bun test",
     "command bun test",
     "timeout 900 bun test akasha/",
+    "timeout 900 bun test shared/one",
   ]) {
     expect(judged(one)).not.toBeNull()
   }
 })
 
-test("a prefix around a run bounded outside the akasha folder is let through", () => {
-  expect(judged("timeout 900 bun test shared/one")).toBeNull()
+test("a prefix this does not name hides the call behind it", () => {
   expect(judged("timeout 900 echo bun test")).toBeNull()
 })
 
@@ -127,13 +110,20 @@ test("an act inside a quoted run is not read as a call", () => {
   expect(judged('echo "bun test"')).toBeNull()
 })
 
-test("the scope names the class it cannot close and the gap it carries", () => {
+test("the scope names the class it cannot close and says no form is let through", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("NOT REACHED")
   expect(said).toContain("is NOT a finding that it is safe")
   expect(said).toContain("`bun run test`")
-  expect(said).toContain("a gap, not a rule")
+  expect(said).toContain("There is no form of it this lets through.")
   expect(said).toContain("WHERE THE CALL RUNS")
+})
+
+test("the scope prescribes no path, because a path bounds nothing", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("There is nothing left for a path to prove")
+  expect(said).toContain("No word after `test` is read at all.")
+  expect(said).not.toContain("naming only paths outside the akasha folder is let through")
 })
 
 test("the scope names the prefixes it steps over and says that list samples a class too", () => {
@@ -151,8 +141,14 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   expect((said as { reason: string }).reason).toContain("akasha test")
 })
 
-test("the hook stands aside on stdin for a run outside the akasha folder", () => {
+test("the hook refuses a run naming a path on stdin too", () => {
   const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun test shared/one", ROOT)) })
+  expect(done.code).toBe(2)
+  expect(done.out).toContain("block-bun-test refused this call.")
+})
+
+test("the hook stands aside on stdin for an act it does not name", () => {
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun run build", ROOT)) })
   expect(done.code).toBe(0)
   expect(done.out).toBe("")
 })

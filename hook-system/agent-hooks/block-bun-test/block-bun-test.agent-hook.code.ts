@@ -13,60 +13,32 @@ const HOOK = "block-bun-test"
 
 const RUNS = "test"
 
-const INSIDE = "akasha"
-
 const HELP = "Say `akasha test --help` for what it takes."
 
-const EVERYWHERE: readonly string[] = [".", "..", "./", "/", "*"]
-
-const VALUED: readonly string[] = [
-  "-t",
-  "--test-name-pattern",
-  "--timeout",
-  "--reporter",
-  "--reporter-outfile",
-  "--coverage-reporter",
-  "--coverage-dir",
-  "--concurrency",
-]
-
-const UNBOUNDED = [
-  "`bun test` naming no path runs every test in this repository.",
-  "What a run reaches is not on the command line, so the line has to say what the run is for.",
-  "",
-  `  under \`${INSIDE}/\`:  akasha test`,
-  "  anywhere else:    bun test <path>, naming what it runs",
-  "",
-  HELP,
-]
-
-const REACHING = [
-  "`bun test` reaching `akasha/` runs the akasha tests outside the akasha commands.",
+const REFUSED = [
+  "`bun test` runs the akasha tests outside the akasha commands.",
+  "Every test file in this repository is an akasha test, so no path bounds a run away from",
+  "them, and a run naming no path reaches every one of them.",
   "`akasha test` counts the test files standing under what it was named and refuses a run that",
   "reached fewer, and it reads the verdict from what the run printed rather than from the exit",
   "code, which a suite leaking a handle makes non-zero on a run where nothing failed.",
   "",
-  "  akasha test                     every test under `akasha/`",
+  "  akasha test                     every test in this repository",
   "  akasha test --file-path <path>  the tests under one path",
   "",
   HELP,
 ]
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses two forms of one act, \`bun test\`:`,
-  "  naming no path, which runs every test in this repository",
-  "  naming a path that reaches the akasha folder, which the akasha commands run instead",
-  "A call naming only paths outside the akasha folder is let through.",
+  `${HOOK} refuses one act, \`bun test\`, in every form it is written in.`,
+  "A path on the line changes nothing. There is no form of it this lets through.",
   "",
   "WHERE THE RULE COMES FROM: what `bun test` runs is not what it is handed.",
-  "Handed nothing it runs every test file it can find, and thousands of them stand outside the",
-  "akasha folder. So the line has to say what the run is for, and a line that says nothing is",
-  "refused. This is the same shape as an unbounded `git commit`, and for the same reason.",
-  "",
-  "WHAT A PATH DOES AND DOES NOT PROVE:",
-  "  A path is judged by its own words. A segment `akasha` means inside.",
-  "  `.` and `..` and `*` are read as naming everything, so they bound nothing.",
-  "  A flag's value is never read as a path, so `--timeout 5000` bounds no call.",
+  "Handed nothing it runs every test file it can find. Every test file it can find here is an",
+  "akasha test, because this repository's root is the akasha folder, so a path narrows a run",
+  "to fewer akasha tests rather than to none. There is nothing left for a path to prove, and",
+  "the akasha commands run these tests. This is the same shape as `git commit`, and for the",
+  "same reason.",
   "",
   "WHERE THE CALL RUNS:",
   "  The repository this guards is the one this hook's own file stands in.",
@@ -74,6 +46,7 @@ export const SCOPE: readonly string[] = [
   "    akasha folder is tested as usual. A second worktree of this repository is not guarded",
   "    from here either, which is the same bound `block-akasha-edits` carries.",
   "  A call stating no working directory is judged as though it ran here.",
+  "  That place is the one thing read besides the act. No word after `test` is read at all.",
   "",
   "A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER, with its own flags, the value a",
   "flag of its own takes, and the number it takes of its own:",
@@ -87,9 +60,6 @@ export const SCOPE: readonly string[] = [
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  `bun run test`, and every package script that reaches a test runner",
   "  `bunx`, `npm test`, `node --test`, `vitest`, `jest`, `make` — every runner that is not this",
-  "  a filter naming no `akasha` segment that still reaches akasha, because a bun filter matches",
-  "    anywhere in a path: `bun test command-system` reaches akasha and is let through. That is",
-  "    a gap, not a rule, and it is why this guard cannot close its class.",
   "  a call another program builds — `sh -c`, `xargs bun`, `make`, a script file",
   "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  an act inside a quoted run, which the dequoting step takes out before the cut",
@@ -106,33 +76,8 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-export function reachesAkasha(filter: string): boolean {
-  if (filter === "") return true
-  if (EVERYWHERE.includes(filter)) return true
-  if (filter.startsWith("..")) return true
-  return filter.split("/").includes(INSIDE)
-}
-
-export function filtersOf(rest: readonly string[]): readonly string[] {
-  const held: string[] = []
-  let at = 0
-  while (at < rest.length) {
-    const one = rest[at] ?? ""
-    if (VALUED.includes(one)) {
-      at += 2
-      continue
-    }
-    if (!one.startsWith("-")) held.push(one)
-    at += 1
-  }
-  return held
-}
-
 export function refusalFor(call: BunCall): string | null {
-  if (call.act !== RUNS) return null
-  const filters = filtersOf(call.rest)
-  if (filters.length === 0) return toldOf(HOOK, UNBOUNDED)
-  return filters.some(reachesAkasha) ? toldOf(HOOK, REACHING) : null
+  return call.act === RUNS ? toldOf(HOOK, REFUSED) : null
 }
 
 export function refusalIn(command: string, from: string, root: string): string | null {

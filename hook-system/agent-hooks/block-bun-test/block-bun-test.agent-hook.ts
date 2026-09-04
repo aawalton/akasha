@@ -4,7 +4,7 @@ export const blockBunTest = {
   id: "01a04eab-d4f8-7000-9dec-eba229399731",
   pageTypeSlug: "agent-hook",
   slug: "block-bun-test",
-  definition: "a refusal of the bun test calls naming nothing or reaching the akasha folder",
+  definition: "a refusal of every bun test call made inside the akasha checkout",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -12,7 +12,7 @@ export const blockBunTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A `bun test` naming no path runs every test there is and is refused.",
+      statement: "A `bun test` made inside the checkout is refused whatever paths it names.",
     },
     {
       invariantKind: "departure",
@@ -20,15 +20,11 @@ export const blockBunTest = {
     },
     {
       invariantKind: "departure",
-      statement: "A `bun test` naming only paths outside the akasha folder is let through.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag's value is never read as a path.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A prefix that only runs the call behind it does not hide a `bun test` from this.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No word after the act is read.",
     },
     {
       invariantKind: "absence",
@@ -40,8 +36,9 @@ export const blockBunTest = {
         "What `bun test` runs is a filter over every test file rather than a path `bun test` is handed.",
     },
     {
-      invariantKind: "gap",
-      statement: "A filter naming no akasha segment still reaches akasha and is let through.",
+      invariantKind: "constraint",
+      statement:
+        "The repository root is the akasha folder, so every test file it holds is an akasha test.",
     },
   ],
 } as const satisfies AgentHook
