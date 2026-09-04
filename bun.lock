@@ -1290,7 +1290,7 @@
         "react": "^18 || ^19",
       },
     },
-    "pages/pages-url": {
+    "pages/url": {
       "name": "@akasha/pages-url",
     },
     "pages/service": {
@@ -3135,7 +3135,7 @@
 
     "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages/pages-ui-store"],
 
-    "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/pages-url"],
+    "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/url"],
 
     "@akasha/person-system": ["@akasha/person-system@workspace:person-system"],
 

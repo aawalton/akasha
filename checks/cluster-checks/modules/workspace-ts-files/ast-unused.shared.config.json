@@ -32,7 +32,7 @@
         "**/*.ts"
       ]
     },
-    "pages/pages-url": {
+    "pages/url": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
