@@ -25,7 +25,6 @@ import type { VisibleProperties } from "./properties/visible-properties.text-pro
 export type View = Page & {
   title: Title
   navSlug: NavSlug
-  drawsSlug?: DrawsSlug
   viewPredicate?: ViewPredicate
   viewPlace?: ViewPlace
   layout?: Layout
