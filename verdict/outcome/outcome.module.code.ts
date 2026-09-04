@@ -15,24 +15,17 @@ export interface Outcome {
   readonly detail: string
   readonly messages: readonly string[]
   readonly population?: Population
-  readonly owed?: readonly string[]
   readonly elapsedMs?: number
   readonly bandReplaced?: OutcomeVerdict
 }
 
-export function judge(
-  name: string,
-  detail: string,
-  messages: readonly string[],
-  owed: readonly string[] = []
-): Outcome {
-  const judged: Outcome = {
+export function judge(name: string, detail: string, messages: readonly string[]): Outcome {
+  return {
     name,
     verdict: messages.length === 0 ? "pass" : "fail",
     detail,
     messages,
   }
-  return owed.length === 0 ? judged : { ...judged, owed }
 }
 
 export function advise(name: string, detail: string, notices: readonly string[]): Outcome {
