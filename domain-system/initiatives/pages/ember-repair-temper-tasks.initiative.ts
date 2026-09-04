@@ -15,12 +15,17 @@ export const emberRepairTemperTasks = {
     {
       statement: "A task the web holds reaches the characters config the game reads.",
       workingMemory:
-        "The characters dispatch runs characters, then completion, then tasks, then the characters config, and stops at the first failure, which is why one fault hid the next. It reaches completion now and stops there on the file-property write.",
+        "Met at 15:31:53Z: `characters synced, completion synced, tasks synced, charactersConfig synced`. TemperCharactersConfig.lua is 13,412 bytes over 386 lines and names 14 tasks. The dispatch runs characters, then completion, then tasks, then the config, and stops at the first failure, which is why one fault hid the next for so long.",
     },
     {
       statement: "The completion the game reports reaches the file beside the account page.",
       workingMemory:
-        "upsertPage carries no file body in either direction, by design: page-composing states that a value under a file-property key names that file's ending, and getPage on `completion` answers the four characters `json`. So import-completion merged against nothing and the write refused. A guard now refuses that value before the write and says why. Whether upsertPage should carry file bodies, or the watcher should write the side file itself, is Alan's to settle.",
+        "Met. upsertPage carries no file body either way, by design: a value under a file-property key names that file's ending, and getPage on `completion` answers the four characters `json`. import-completion takes each page path from readPages, swaps the trailing `.ts` for `.completion.json`, reads with readFiles and lands with writeFiles. Commits ac1e875a3f and 81523f727d carried 21 files, and the forward merge had something to merge against at last: 19 of 20 characters kept fields the save had lost.",
+    },
+    {
+      statement: "The watcher reaches every page over the service rather than over the checkout.",
+      workingMemory:
+        "Met on both roads. readFiles and writeFiles post to /read and /write. upsertPage and getPages read as a file road from their names alone, but pages-access/file-write imports the service's asking, reading and writing clients, so they take the same hop: a refusal at 15:21:53Z named four attempts on http://page-store.page-store.svc.cluster.local:8787/ask. What writesOverServer() picks is which client answers, not whether one is reached.",
     },
     {
       statement: "Reading one page costs bytes in proportion to that page.",
@@ -30,7 +35,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
-        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write carried. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and carries comments the no-code-comments check refuses, so any edit there trips every one of them at once. That file wants a length remediation first.",
+        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write carried. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and carries comments the no-code-comments check refuses.",
     },
     {
       statement: "The watcher proves who it is by its enrolment token alone.",
