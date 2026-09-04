@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { loadedFrom, textsAt, valueAt, valueIn } from "./page-value.module.code.ts"
+import { loadedFrom, slugsIn, textsAt, valueAt, valueIn } from "./page-value.module.code.ts"
 
 const A = "01a04b79-0000-7000-8000-00000000000a"
 
@@ -63,4 +63,26 @@ test("a key holding no list, or a list holding what is not text, is answered as 
   expect(textsAt({ binds: "127.0.0.1" }, "binds")).toBe(null)
   expect(textsAt({ binds: [8787] }, "binds")).toBe(null)
   expect(textsAt({}, "binds")).toBe(null)
+})
+
+test("one page name is answered as a list of the one slug it names", () => {
+  expect(slugsIn("page-type/module")).toEqual(["module"])
+})
+
+test("a list of page names is answered as their slugs, in the order named", () => {
+  expect(slugsIn(["page-type/module", "page-type/page-property"])).toEqual([
+    "module",
+    "page-property",
+  ])
+})
+
+test("a key naming no page is answered as an empty list rather than as nothing", () => {
+  expect(slugsIn(null)).toEqual([])
+  expect(slugsIn(undefined)).toEqual([])
+  expect(slugsIn("")).toEqual([])
+  expect(slugsIn([])).toEqual([])
+})
+
+test("what is no page name is left out of the list rather than refusing the rest", () => {
+  expect(slugsIn(["page-type/module", 8787, "", "page-type/page"])).toEqual(["module", "page"])
 })

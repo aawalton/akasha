@@ -95,3 +95,13 @@ export function slugAt(value: Value, key: string): string | null {
   const named = textAt(value, key)
   return named === null ? null : slugOf(named)
 }
+
+export function slugsIn(said: unknown): readonly string[] {
+  if (typeof said === "string") return said === "" ? [] : [slugOf(said)]
+  if (!Array.isArray(said)) return []
+  const named: string[] = []
+  for (const one of said) {
+    if (typeof one === "string" && one !== "") named.push(slugOf(one))
+  }
+  return named
+}

@@ -37,6 +37,10 @@ export const pageValue = {
       statement: "A value naming a page by page type and slug is read here for its slug alone.",
     },
     {
+      invariantKind: "departure",
+      statement: "A key naming one page or a list of them is read here as a list of slugs.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },

@@ -1,6 +1,6 @@
 import { everyOfType } from "@akasha/indexes"
 import type { Reading } from "@akasha/indexes/shape"
-import { slugOf, type Value } from "../../pages/value/page-value.module.code.ts"
+import { slugsIn, type Value } from "../../pages/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -15,15 +15,7 @@ function saidIn(value: Value | null, key: string): string | null {
 }
 
 function namedAbove(value: Value | null): readonly string[] {
-  if (value === null) return []
-  const said = value[EXTENDS]
-  if (typeof said === "string") return said === "" ? [] : [slugOf(said)]
-  if (!Array.isArray(said)) return []
-  const named: string[] = []
-  for (const one of said) {
-    if (typeof one === "string" && one !== "") named.push(slugOf(one))
-  }
-  return named
+  return value === null ? [] : slugsIn(value[EXTENDS])
 }
 
 export function listedAbove(
