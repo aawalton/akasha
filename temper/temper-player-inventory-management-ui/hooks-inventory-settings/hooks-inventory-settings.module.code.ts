@@ -53,7 +53,7 @@ function useSettingsBlob() {
   const { rows } = usePagesSupabase({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where:
-      userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
+      userId != null ? [{ key: "title", eq: userId }] : [{ key: "title", eq: NEVER_MATCH_VALUE }],
     limit: 1,
   })
   const playerRow = rows[0]
@@ -72,7 +72,6 @@ function useSettingsBlob() {
         pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
         where: [{ key: "title", eq: userId }],
         set: {
-          userId,
           title: userId,
           handle: isString(handle) ? handle : null,
           profileMetadata: isRecord(profileMetadata) ? profileMetadata : {},

@@ -53,7 +53,9 @@ export function useInventoryImport(userId: string | null) {
   const { rows: snapshotRows } = usePagesSupabase({
     pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
     where:
-      userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
+      userId != null
+        ? [{ key: "accountPage", eq: userId }]
+        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "dataTimestamp", dir: "desc" }],
     select: ["id", "dataTimestamp"],
     limit: 100,
@@ -66,7 +68,9 @@ export function useInventoryImport(userId: string | null) {
   const { rows: chunkRows } = usePagesSupabase({
     pageTypeSlug: INVENTORY_CHUNK_PAGE_TYPE_SLUG,
     where:
-      userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
+      userId != null
+        ? [{ key: "accountPage", eq: userId }]
+        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     select: ["id", "inventory", "chunkIndex"],
     limit: 1000,
   })
@@ -141,7 +145,7 @@ export function useInventoryImport(userId: string | null) {
 
       try {
         const snapshotPlan = planSnapshotImport(snapshotRowsRef.current.map(toExistingSnapshotRow))
-        const snapshotSet = { userId, dataTimestamp, totalValue, chunkCount, version: "v1" }
+        const snapshotSet = { accountPage: userId, dataTimestamp, totalValue, chunkCount }
         let snapshotId: string
         if (snapshotPlan.targetSnapshotId != null) {
           const snapshot = await runUpsertRef.current({
@@ -187,7 +191,7 @@ export function useInventoryImport(userId: string | null) {
               { key: "inventory", eq: snapshotId },
               { key: "chunkIndex", eq: index },
             ],
-            set: { userId, inventory: snapshotId, chunkIndex: index, data },
+            set: { accountPage: userId, inventory: snapshotId, chunkIndex: index, data },
           })
         }
 
