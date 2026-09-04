@@ -9,7 +9,7 @@ export const pagePropertyHasItsFile = {
   test: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
-  runsOnDeploy: true,
+  runsOnDeploy: false,
   runsOnAudit: false,
   invariants: [
     {

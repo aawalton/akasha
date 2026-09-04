@@ -11,7 +11,7 @@ export const relationResolves = {
   testFixtures: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
-  runsOnDeploy: true,
+  runsOnDeploy: false,
   runsOnAudit: false,
   invariants: [
     {

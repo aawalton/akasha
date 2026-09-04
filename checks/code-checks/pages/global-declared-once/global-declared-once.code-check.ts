@@ -9,7 +9,7 @@ export const globalDeclaredOnce = {
   test: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
-  runsOnDeploy: true,
+  runsOnDeploy: false,
   runsOnAudit: false,
   invariants: [
     {

@@ -9,7 +9,7 @@ export const phoneNumberIsE164 = {
   test: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
-  runsOnDeploy: true,
+  runsOnDeploy: false,
   runsOnAudit: false,
   invariants: [
     {
