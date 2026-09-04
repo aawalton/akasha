@@ -14,9 +14,9 @@ import { holding, LOCK_AT } from "./holding.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
 
-const HOLDING_AT = join(HERE, "akasha/command-system/holding/holding.module.code.ts")
+const HOLDING_AT = join(HERE, "command-system/holding/holding.module.code.ts")
 
-const LANDING_AT = join(HERE, "akasha/command-system/landing/landing.module.code.ts")
+const LANDING_AT = join(HERE, "command-system/landing/landing.module.code.ts")
 
 const scratch = scratchWorld()
 
