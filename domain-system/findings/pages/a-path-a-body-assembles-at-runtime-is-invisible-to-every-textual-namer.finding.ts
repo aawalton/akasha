@@ -4,7 +4,7 @@ export const aPathABodyAssemblesAtRuntimeIsInvisibleToEveryTextualNamer = {
   id: "01a06285-94dc-71f1-b8f2-3dc54b8a9601",
   pageTypeSlug: "finding",
   slug: "a-path-a-body-assembles-at-runtime-is-invisible-to-every-textual-namer",
-  domainSlug: "module/remove-naming",
+  domainSlug: "workspace-package/command-system",
   claim:
     "A namer that searches tracked bodies for a path finds only the bodies that spell it. A body assembling the path from pieces reaches the folder and is not found, so a removal reported as named by nothing can break a check. The break falls inside a path part rather than at a separator, so no prefix or suffix of the path recovers it and no widening of the search will. What answers such a reach is running the consumers, not searching harder. Two temper folders cannot be taken away for exactly this.",
   evidence:
