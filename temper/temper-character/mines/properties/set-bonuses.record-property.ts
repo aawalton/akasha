@@ -1,6 +1,6 @@
 import type { List } from "@akasha/pages-system/page-property"
 import type { RecordProperty } from "@akasha/pages-system/record-property"
-import type { Description } from "../../../temper-things/properties/description.text-property.ts"
+import type { Description } from "../../../../pages/properties/description.text-property.ts"
 import type { IsPerfected } from "./is-perfected.boolean-property.ts"
 import type { NumRequired } from "./num-required.number-property.ts"
 

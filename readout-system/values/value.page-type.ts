@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Description } from "../../temper/temper-things/properties/description.text-property.ts"
+import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { GroupSlugs } from "../readouts/properties/group-slugs.relation-property.ts"
 import type { Label } from "../readouts/properties/label.text-property.ts"
 import type { Place } from "../readouts/properties/place.number-property.ts"

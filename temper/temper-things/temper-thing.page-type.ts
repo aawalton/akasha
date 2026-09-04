@@ -1,11 +1,11 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { AccountPage } from "./properties/account-page.text-property.ts"
 import type { Category } from "./properties/category.text-property.ts"
 import type { CategoryId } from "./properties/category-id.text-property.ts"
 import type { CompanionId } from "./properties/companion-id.text-property.ts"
-import type { Description } from "./properties/description.text-property.ts"
 import type { DisplayOrder } from "./properties/display-order.number-property.ts"
 import type { EsoCharacterId } from "./properties/eso-character-id.text-property.ts"
 import type { Icon } from "./properties/icon.text-property.ts"
@@ -40,7 +40,6 @@ export const temperThing = {
     "text-property/category",
     "text-property/category-id",
     "text-property/companion-id",
-    "text-property/description",
     "text-property/eso-character-id",
     "text-property/icon",
     "text-property/key",

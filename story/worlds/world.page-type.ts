@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Description } from "../../temper/temper-things/properties/description.text-property.ts"
 import type { CharacterReadings } from "./properties/character-readings.page-property-entry.ts"
 import type { MechanicReadings } from "./properties/mechanic-readings.page-property-entry.ts"
 
