@@ -326,6 +326,22 @@ export function reachMoved(): { readonly root: string; readonly said: Answer } {
   return { root, said: move(FOLDER_PAIR, givenIn(root)) }
 }
 
+export const SPELLER = "akasha/one/speller.module.code.ts"
+
+export const SPELLER_AT = "akasha/far/one/speller.module.code.ts"
+
+export const SPELT = `export const runs = "bun akasha/one/held.module.ts"
+export const under = "what akasha/one/deep holds"
+`
+
+export const RESPELT = `export const runs = "bun akasha/far/one/held.module.ts"
+export const under = "what akasha/far/one/deep holds"
+`
+
+export function carriedSpelling(): string {
+  return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [SPELLER]: SPELT }))
+}
+
 export function folderWorld(): string {
   return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [NESTED_HELD]: OTHER, [TARGET]: OTHER }))
 }
