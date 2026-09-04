@@ -7,7 +7,7 @@
     "./chapter-filing": "./chapter-filing/chapter-filing.module.code.ts",
     "./site": "./site/site.module.code.ts",
     "./sync-run-recording": "./sync-run-recording/sync-run-recording.module.code.ts",
-    "./wandering-inn-syncing": "./syncing/wandering-inn-syncing.module.code.ts"
+    "./wandering-inn-syncing": "./syncing/syncing.module.code.ts"
   },
   "dependencies": {
     "@akasha/command-system": "workspace:*",

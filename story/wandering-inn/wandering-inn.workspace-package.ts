@@ -11,7 +11,7 @@ export const wanderingInn = {
     "module/chapter-filing",
     "module/site",
     "module/sync-run-recording",
-    "module/wandering-inn-syncing",
+    "module/syncing",
   ],
   invariants: [
     {
