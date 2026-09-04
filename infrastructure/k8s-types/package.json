@@ -8,6 +8,7 @@
     "./hostnames-ci-enrollment": "./hostnames-ci-enrollment/hostnames-ci-enrollment.module.code.ts",
     "./k8s-manifest-scanner": "./k8s-manifest-scanner/k8s-manifest-scanner.module.code.ts",
     "./labels": "./labels/labels.module.code.ts",
+    "./manifest": "./manifests/manifest.page-type.ts",
     "./orchestrator-cache": "./orchestrator-cache/orchestrator-cache.module.code.ts",
     "./orchestrator-cache-helpers": "./orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts",
     "./orchestrator-cache-locations": "./orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts",
