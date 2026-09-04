@@ -125,21 +125,27 @@ async function handed(
   message: string
 ): Promise<boolean> {
   return (
-    (await landingAsked(given, {
-      changes,
-      message,
-      dryRun: false,
-      glass: null,
-      unmoved: [],
-      saying: wroteAndTook,
-    }).code) === 0
+    (
+      await landingAsked(given, {
+        changes,
+        message,
+        dryRun: false,
+        glass: null,
+        unmoved: [],
+        saying: wroteAndTook,
+      })
+    ).code === 0
   )
 }
 
-export function took(given: Given, paths: readonly string[], message: string): boolean {
+export async function took(
+  given: Given,
+  paths: readonly string[],
+  message: string
+): Promise<boolean> {
   const here = paths.filter((one) => existsSync(join(given.root, one)))
   if (here.length === 0) return true
-  const gone = handed(
+  const gone = await handed(
     given,
     here.map((path) => ({ path, body: null })),
     message
@@ -170,7 +176,7 @@ export async function stopping(
   const guard = subagentGuard({ working, seatAlive, force, seatName: name })
   if (guard.kind === "refuse") return { refused: guard.said }
 
-  took(
+  await took(
     given,
     working.map((one) => one.path),
     `${name} is stopped, so what it dispatched goes with it`
@@ -181,7 +187,7 @@ export async function stopping(
     const ended = await ending(target.pids)
     if (ended.allGone) {
       removeUncommitted(given.root, page)
-      took(given, [page], `${name} was stopped, so the page it held goes`)
+      await took(given, [page], `${name} was stopped, so the page it held goes`)
     }
     return {
       stopped: { name, pids: target.pids, signalled: ended.asked, how: "ended" },
@@ -190,7 +196,7 @@ export async function stopping(
   if (target.kind === "session") {
     const ended = await endedSession(target.name)
     removeUncommitted(given.root, page)
-    took(
+    await took(
       given,
       [page],
       ended
@@ -202,6 +208,6 @@ export async function stopping(
     }
   }
   removeUncommitted(given.root, page)
-  took(given, [page], `no process and no session were left for ${name}`)
+  await took(given, [page], `no process and no session were left for ${name}`)
   return { stopped: { name, pids: [], signalled: false, how: "reconciled" } }
 }
