@@ -1,0 +1,13 @@
+diff --git a/domain-system/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domain-system/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 30022ff869e12dfd5aa0742b6c3c5d16d5a1b12f..cf396500098ece20c31d464353dd9f08c2989458 100644
+--- a/domain-system/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domain-system/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -15,7 +15,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "A rename landing under an open patch leaves that patch coherent.",
+       workingMemory:
+-        "Drafting as the default makes this urgent, because every agent will hold an open patch and a rename lands under many at once. `rebasedOnto` reads `bodyAt(root, head, path)` for each path a patch holds, and a path renamed away reads as nothing, so the merge sees theirs taken away against ours changed. The patch keeps the body at the dead path and applying would put that file back there. Read off the code rather than run.",
++        "What was read off the code was wrong. The merge did not keep the body at the dead path: `mergedOnto` saw theirs as nothing and refused, and `rebasedOnto` handed that refusal to every caller, so draft, resolve and apply all refused alike and a rename bricked a patch that only `patch drop` got out of. `rebasedOnto` now follows a path gone from HEAD to the path a rename left it at, hop by hop for a chain, reading `git log --diff-filter=D` for the commit that took the path away and `git diff-tree -M` for the pair. What is left: `patch` lists the paths the stored patch file carries rather than the paths the rebase reaches, so a bare `akasha patch` names the dead path until the next draft rewrites the file; and a path deleted rather than renamed still refuses with no way to resolve.",
+     },
+     {
+       statement: "A body reaches write and edit on the command line rather than in a file.",
