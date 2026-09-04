@@ -19,7 +19,7 @@ const BUN = join(homedir(), ".bun", "bin", "bun")
 
 const SERVER = join(import.meta.dir, "command-server.module.code.ts")
 
-const WORKING_PAGE = "akasha/seat-system/seat-turn-states/pages/working.seat-turn-state.ts"
+const WORKING_PAGE = "seat-system/seat-turn-states/pages/working.seat-turn-state.ts"
 
 const ASK_MS = 20_000
 
