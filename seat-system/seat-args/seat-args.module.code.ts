@@ -20,7 +20,6 @@ export interface Args {
   readonly principal: Principal | null
   readonly onCall: boolean
   readonly takeLiveName: boolean
-  readonly show: boolean
   readonly resolve: boolean
   readonly name: boolean
   readonly fromHistory: boolean
@@ -39,7 +38,6 @@ export function parseArgs(argv: readonly string[]): Args {
   let principal: Principal | null = null
   let onCall = false
   let takeLiveName = false
-  let show = false
   let resolve = false
   let name = false
   let fromHistory = false
@@ -77,7 +75,6 @@ export function parseArgs(argv: readonly string[]): Args {
       if (which === undefined) fail(`\`${named}\` is no key — one of: ${DECLARATIONS.join(", ")}`)
       clear.push(which)
     } else if (arg === "--token") tokens.push(value())
-    else if (arg === "--show") show = true
     else if (arg === "--resolve") resolve = true
     else if (arg === "--name") name = true
     else if (arg === "--from-history") fromHistory = true
@@ -103,7 +100,6 @@ export function parseArgs(argv: readonly string[]): Args {
     flex,
     tokens,
     clear,
-    show,
     resolve,
     name,
     fromHistory,

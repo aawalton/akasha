@@ -39,8 +39,6 @@
     "./seat-by-name": "./seat-by-name/seat-by-name.module.code.ts",
     "./seat-control": "./seat-control/seat-control.module.code.ts",
     "./seat-args": "./seat-args/seat-args.module.code.ts",
-    "./seat-show": "./seat-show/seat-show.module.code.ts",
-    "./declared-seat-reading": "./declared-seat-reading/declared-seat-reading.module.code.ts",
     "./documents-on-demand": "./documents-on-demand/documents-on-demand.module.code.ts",
     "./seat-action": "./seat-action/seat-action.module.code.ts",
     "./agent-page-reading": "./agent-page-reading/agent-page-reading.module.code.ts",

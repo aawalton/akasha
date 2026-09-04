@@ -19,7 +19,6 @@ const VALUES: readonly (readonly [string, string])[] = [
 const PRESENT: readonly (readonly [string, string])[] = [
   ["resolve", "--resolve"],
   ["name", "--name"],
-  ["show", "--show"],
   ["default", "--default"],
   ["onCall", "--on-call"],
 ]

@@ -53,7 +53,6 @@ Usage:
   bun tools/seat.ts --agent <uuid> --flex flex-2
   bun tools/seat.ts --principal alan
   bun tools/seat.ts --on-call
-  bun tools/seat.ts --show
   bun tools/seat.ts --name --persona <slug> --role <slug>
   bun tools/seat.ts --resolve --token <slug> --token <slug>
   bun tools/seat.ts --resolve --persona <slug> --domain <slug>
@@ -104,7 +103,6 @@ Flags:
                     rather than defaulted into.
   --clear <key>     Unset one key. Repeatable. One of: ${DECLARATIONS.join(", ")}.
   --mode <mode>     Who can hear this seat. One of: ${MODES.join(", ")}.
-  --show            Print what this seat states, and exit.
   --name            Print the name these attributes SPELL and exit, writing nothing and
                     reaching no store. What a spawn asks before it has a row.
   --resolve         Resolve the attributes named above and PRINT them, one \`<slot>=<slug>\`

@@ -10,7 +10,6 @@ import { nameStanding } from "@akasha/seat-system/seat-name-stands"
 import { nameableFrom, nameableStated } from "@akasha/seat-system/seat-nameable"
 import { writeSeatPage } from "@akasha/seat-system/seat-page-writing"
 import { composedNameOf, followName } from "@akasha/seat-system/seat-rename"
-import { showLines, statedLines } from "@akasha/seat-system/seat-show"
 import {
   composeSeatName,
   personPrincipals,
@@ -89,11 +88,6 @@ export async function run(argv: readonly string[]): Promise<void> {
       "neither AGENT_ID nor CLAUDE_CODE_SESSION_ID is set, so nothing stated could be attributed to you — " +
         "set one, or name it with --agent"
     )
-  }
-
-  if (args.show) {
-    process.stdout.write(showLines(agent, args).join("\n") + "\n")
-    return
   }
 
   const set: Partial<Record<Declaration, string>> = { ...args.set }
@@ -183,14 +177,12 @@ export async function run(argv: readonly string[]): Promise<void> {
     !onCall
   if (named.length === 0 && quiet) {
     if (args.asDefault) {
-      process.stdout.write([...notes, `seat:   ${agent}`, ...statedLines(agent)].join("\n") + "\n")
+      process.stdout.write([...notes, `seat:   ${agent}`].join("\n") + "\n")
       return
     }
     process.stderr.write(
-      [
-        ...notes,
-        "error: nothing to state — name at least one attribute or --mode, or --show what stands",
-      ].join("\n") + "\n"
+      [...notes, "error: nothing to state — name at least one attribute or --mode"].join("\n") +
+        "\n"
     )
     process.exit(1)
   }
@@ -285,9 +277,8 @@ export async function run(argv: readonly string[]): Promise<void> {
       ...notes,
       ...cleared,
       `seat:   ${agent}`,
-      ...statedLines(agent),
       "",
-      "Read every document above; until you do, an armed gate refuses everything but Read, Grep and Glob.",
+      "An armed gate names what you must read, and refuses everything but Read, Grep and Glob until you have.",
     ].join("\n") + "\n"
   )
 }
