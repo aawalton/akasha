@@ -4,7 +4,7 @@ export const checkTsconfigCertifiesNothingOver197Of200 = {
   id: "01a05d4f-1b20-7001-b8a2-77c4e0d95af1",
   pageTypeSlug: "finding",
   slug: "check-tsconfig-certifies-nothing-over-197-of-200",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "`check-tsconfig` runs again but still gates nothing: its population is bounded at a least count of 200 workspace tsconfigs and only 197 arrive, so it exits 2 with NO VERDICT and `localStatusForCheckExit` reads that as skip. Lowering the least count changes what the check refuses rather than whether it runs, so it is Alan's call under Alan Approves Checks, and this lane left the number as it was.",
   evidence:
