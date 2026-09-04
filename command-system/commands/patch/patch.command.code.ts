@@ -2,7 +2,7 @@ import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { agentPathOf } from "@akasha/context-system/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages-system/page-file-name"
-import { textAt, valueAt } from "@akasha/pages-system/page-value"
+import { textAt as textIn, valueAt } from "@akasha/pages-system/page-value"
 import { applied } from "../../applying/applying.module.code.ts"
 import {
   BREAK_GLASS,
@@ -70,7 +70,7 @@ function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)
   if (said === null || said.pageType !== SUBAGENT) return null
   const value = valueAt(page, root)
-  return value === null ? null : textAt(value, SEAT_KEY)
+  return value === null ? null : textIn(value, SEAT_KEY)
 }
 
 function noneSaid(root: string, page: string): string {
