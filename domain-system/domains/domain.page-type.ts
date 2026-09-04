@@ -10,7 +10,6 @@ import type { Invariants } from "./properties/invariants.record-property.ts"
 import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
 import type { PersonaChampionSlug } from "./properties/persona-champion-slug.relation-property.ts"
 import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
-import type { RequiredReadingSlugs } from "./properties/required-reading-slugs.relation-property.ts"
 
 export type Domain = Page & {
   definition: Definition
@@ -23,7 +22,6 @@ export type Domain = Page & {
   settled?: DomainSettled
   expands?: Expands
   personaChampionSlug?: PersonaChampionSlug
-  requiredReadingSlugs?: RequiredReadingSlugs
 }
 
 export const domain = {
@@ -67,7 +65,6 @@ export const domain = {
     { pagePropertySlug: "domain-settled", required: false, many: false },
     { pagePropertySlug: "expands", required: false, many: false },
     { pagePropertySlug: "persona-champion-slug", required: false, many: false },
-    { pagePropertySlug: "required-reading-slugs", required: false, many: true, max: 20 },
   ],
   invariants: [
     {
