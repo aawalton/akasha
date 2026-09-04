@@ -1,5 +1,5 @@
 interface Performance {
-  now(this: void): number
+  now: (this: void) => number
 }
 
 declare const performance: Performance

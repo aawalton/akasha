@@ -153,6 +153,10 @@ export const luaCompiler = {
     "module/visitors-binary-expression",
     "module/visitors-class",
     "module/visitors-visitors",
+    "type-declaration/eso-sandbox",
+    "type-declaration/language-extensions",
+    "type-declaration/performance-global",
+    "type-declaration/sparse-array",
     "type-declaration/typescript-internals",
   ],
 } as const satisfies WorkspacePackage

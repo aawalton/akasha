@@ -108,9 +108,9 @@ declare const LuaSet: (new <T extends AnyNotNil = AnyNotNil>() => LuaSet<T>) &
   LuaExtension<"TableNew">
 
 interface ObjectConstructor {
-  keys<K extends AnyNotNil>(o: LuaPairsIterable<K, unknown> | LuaPairsKeyIterable<K>): K[]
+  keys: <K extends AnyNotNil>(o: LuaPairsIterable<K, unknown> | LuaPairsKeyIterable<K>) => K[]
 
-  values<V>(o: LuaPairsIterable<AnyNotNil, V>): V[]
+  values: <V>(o: LuaPairsIterable<AnyNotNil, V>) => V[]
 
-  entries<K extends AnyNotNil, V>(o: LuaPairsIterable<K, V>): Array<[K, V]>
+  entries: <K extends AnyNotNil, V>(o: LuaPairsIterable<K, V>) => Array<[K, V]>
 }
