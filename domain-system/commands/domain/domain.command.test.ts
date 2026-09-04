@@ -1,4 +1,8 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { listedFiled } from "@akasha/indexes/testing"
 import {
   AT_DOMAIN,
   DAG,
@@ -6,7 +10,6 @@ import {
   DESCENT,
   domainsIn,
   heldBy,
-  kindsUnder,
   kindsUnderDomain,
   PATHS,
   readIn,
@@ -18,6 +21,10 @@ import {
 import { domain as domainCommand } from "./domain.command.ts"
 
 const ROOT = new URL("../../../", import.meta.url).pathname.replace(/\/$/, "")
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function refusalsOf(argv: readonly string[]): readonly string[] {
   const read = readIn(argv)
@@ -117,12 +124,6 @@ test("the page says it writes nothing and takes both acts", () => {
   expect(said).toContain(DECLARATIONS)
 })
 
-function typesOf(
-  said: Readonly<Record<string, string | readonly string[] | null>>
-): ReadonlyMap<string, Record<string, unknown>> {
-  return new Map(Object.entries(said).map(([slug, above]) => [slug, { slug, extendsSlug: above }]))
-}
-
 function standingOf(
   said: Readonly<Record<string, readonly string[]>>
 ): ReadonlyMap<string, Standing> {
@@ -130,69 +131,6 @@ function standingOf(
     Object.entries(said).map(([slug, parts]) => [slug, { slug, path: `${slug}.domain.ts`, parts }])
   )
 }
-
-test("a page type naming one type above it is a kind of domain as it always was", () => {
-  const kinds = kindsUnder(
-    typesOf({
-      domain: null,
-      page: null,
-      module: "page-type/domain",
-      command: "page-type/module",
-      property: "page-type/page",
-    })
-  )
-
-  expect([...kinds].sort()).toEqual(["command", "domain", "module"])
-})
-
-test("a page type naming two types above it is a kind of domain where either of them is", () => {
-  const kinds = kindsUnder(
-    typesOf({
-      domain: null,
-      page: null,
-      module: "page-type/domain",
-      held: ["page-type/page", "page-type/module"],
-      beside: ["page-type/module", "page-type/page"],
-    })
-  )
-
-  expect([...kinds].sort()).toEqual(["beside", "domain", "held", "module"])
-})
-
-test("a page type naming two types above it, neither of them under domain, is left out", () => {
-  const kinds = kindsUnder(
-    typesOf({
-      domain: null,
-      page: null,
-      property: "page-type/page",
-      held: ["page-type/page", "page-type/property"],
-    })
-  )
-
-  expect([...kinds].sort()).toEqual(["domain"])
-})
-
-test("a type below one reached through a list is a kind of domain too", () => {
-  const kinds = kindsUnder(
-    typesOf({
-      domain: null,
-      page: null,
-      held: ["page-type/page", "page-type/domain"],
-      under: "page-type/held",
-      deeper: ["page-type/under"],
-    })
-  )
-
-  expect([...kinds].sort()).toEqual(["deeper", "domain", "held", "under"])
-})
-
-test("a ring among the types above is answered rather than walked forever", () => {
-  const kinds = kindsUnder(
-    typesOf({ domain: null, one: ["page-type/two"], two: ["page-type/one"] })
-  )
-
-  expect([...kinds].sort()).toEqual(["domain"])
-})
 
 test("a domain held by two domains is drawn under each of them", () => {
   const domains = standingOf({ one: ["held"], two: ["held"], held: ["under"], under: [] })
@@ -228,4 +166,42 @@ test("a domain open above the point being drawn is marked rather than drawn agai
     "    beside",
     "      held  — already open above here",
   ])
+})
+
+function typed(root: string, slug: string, above: readonly string[] | null): undefined {
+  const path = `akasha/held/${slug}.page-type.ts`
+  listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+  const page = join(root, path)
+  mkdirSync(dirname(page), { recursive: true })
+  const named = above === null ? null : above.map((one) => `page-type/${one}`)
+  writeFileSync(
+    page,
+    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
+  )
+  return undefined
+}
+
+test("a page type naming one type above it is a kind of domain as it always was", () => {
+  const root = scratch.rootFor("akasha-domain-")
+  typed(root, "domain", null)
+  typed(root, "page", null)
+  typed(root, "module", ["domain"])
+
+  const kinds = kindsUnderDomain(root)
+
+  expect([...kinds].sort()).toEqual(["domain", "module"])
+})
+
+test("a page type naming two types above it is a kind of domain where either of them is", () => {
+  const root = scratch.rootFor("akasha-domain-")
+  typed(root, "domain", null)
+  typed(root, "page", null)
+  typed(root, "module", ["domain"])
+  typed(root, "page-property", ["page"])
+  typed(root, "computed-property", ["page-property", "module"])
+  typed(root, "faith-points", ["computed-property"])
+
+  const kinds = kindsUnderDomain(root)
+
+  expect([...kinds].sort()).toEqual(["computed-property", "domain", "faith-points", "module"])
 })

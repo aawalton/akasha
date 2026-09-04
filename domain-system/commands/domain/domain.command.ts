@@ -89,6 +89,10 @@ export const domain = {
       statement: "A page type is a kind of domain where any type it names above it is.",
     },
     {
+      invariantKind: "absence",
+      statement: "Nothing here walks the types a page type names above it.",
+    },
+    {
       invariantKind: "departure",
       statement: "A domain open above the point being drawn is marked rather than drawn again.",
     },
