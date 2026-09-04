@@ -11,4 +11,5 @@ export const olwen = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "51c59201-ce92-4cab-b846-333a3d8c97e6",
 } as const satisfies Seat
