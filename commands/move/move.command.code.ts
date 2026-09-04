@@ -55,7 +55,6 @@ type Sided = {
 
 type Reached = {
   readonly repointed: readonly string[]
-  readonly unread: string | null
   readonly outside: readonly string[]
   readonly reaching: readonly string[]
   readonly left: readonly Unrepointed[]
@@ -188,7 +187,6 @@ function carrying(
     )
   }
   report.push(...unrepointedSaid(reached.left, dry))
-  if (reached.unread !== null) report.push(reached.unread)
   report.push(...outsideSaid(reached.outside, reached.reaching, dry))
   report.push(...parentingSaid(reached.parented, dry))
   if (reached.parented.unread !== null) report.push(reached.parented.unread)
@@ -281,11 +279,13 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
     changes.push({ path: one.from, body: null })
   }
   const reading = importingOf(root, moved)
-  const naming = new Set<string>("importers" in reading ? reading.importers : [])
-  for (const path of addressing.keys()) naming.add(path)
-  if ("importers" in reading) {
-    for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
+  if ("unread" in reading) {
+    const why = `${reading.unread} and nothing moved — \`akasha index refresh\` answers this`
+    return answering([], [why], 1)
   }
+  const naming = new Set<string>(reading.importers)
+  for (const path of addressing.keys()) naming.add(path)
+  for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
   const repointing: string[] = []
   for (const one of manifesting) {
     if (moved.has(one.at)) continue
@@ -343,7 +343,6 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
   carries.push(...outside.carries)
   const reached: Reached = {
     repointed: repointing,
-    unread: "unread" in reading ? reading.unread : null,
     outside: outside.paths,
     reaching: outside.reaching,
     left,

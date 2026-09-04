@@ -171,13 +171,15 @@ test("a file moving in the same act is repointed from its body, not as an import
   expect(told(said)).toContain("no file naming what moved needed repointing")
 })
 
-test("an unanswerable index leaves the importers as they stand and says so", async () => {
+test("an unanswerable index refuses the move rather than leaving what imports it dangling", async () => {
   const root = codeWorld()
+  const was = head(root)
   const said = await move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
-  expect(said.refusals).toEqual([])
+  expect(why(said)).toContain("could not be answered")
+  expect(why(said)).toContain("akasha index refresh")
+  expect(there(root, TARGET)).toBe(true)
   expect(bodyIn(root, HOLDER)).toBe(CODE)
-  expect(told(said)).toContain("could not be answered")
-  expect(told(said)).toContain("none were repointed")
+  expect(head(root)).toBe(was)
 })
 
 test("a rename restates its slug, repoints what names it, and names what it left", async () => {
