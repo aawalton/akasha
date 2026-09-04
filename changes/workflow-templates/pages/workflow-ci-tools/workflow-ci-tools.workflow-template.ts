@@ -7,5 +7,5 @@ export const workflowCiTools = {
   title: "Workflow ci tools",
   workflowKind: "foundation",
   declaration: "ts",
-  clusterServiceSlugs: ["ci-storage-admin", "ci-storage-maintain"],
+  clusterServiceSlugs: [],
 } as const satisfies WorkflowTemplate

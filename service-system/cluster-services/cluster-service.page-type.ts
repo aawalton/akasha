@@ -40,8 +40,6 @@ export const clusterService = {
     "cluster-service/auth-proxy",
     "cluster-service/buildkit",
     "cluster-service/buildkit-prune",
-    "cluster-service/ci-storage-admin",
-    "cluster-service/ci-storage-maintain",
     "cluster-service/cloudflared",
     "cluster-service/dcgm-exporter-daemonset",
     "cluster-service/ddns-headscale",
