@@ -36,7 +36,7 @@ const ANSWER_WITHIN_MS = 16_000
 // seen, so it is worth naming beside the kinds that are drawn.
 const PAGE_TYPE_SUFFIX = ".page-type.ts"
 
-const CORPUS_GLOB = "akasha/**/*.ts"
+const CORPUS_GLOB = "**/*.ts"
 
 let output: vscode.OutputChannel
 

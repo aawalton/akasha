@@ -14,10 +14,10 @@ const FIELDS: readonly Field[] = [
 ]
 
 export const EMAIL_RULE_PATH =
-  /^akasha\/(?<holder>[a-z0-9-]+)\/harness\/inboxes\/email-rules\/email-rule-(?<kind>agent|code)s\/pages\/(?<slug>[a-z0-9-]+)\.email-rule-\k<kind>\.ts$/
+  /^(?<holder>[a-z0-9-]+)\/harness\/inboxes\/email-rules\/email-rule-(?<kind>agent|code)s\/pages\/(?<slug>[a-z0-9-]+)\.email-rule-\k<kind>\.ts$/
 
 export function ruleFolderIn(person: string, kind: EmailRuleKind): string {
-  return `akasha/${person}/harness/inboxes/email-rules/email-rule-${kind}s/pages`
+  return `${person}/harness/inboxes/email-rules/email-rule-${kind}s/pages`
 }
 
 export function ruleFileSuffix(kind: EmailRuleKind): string {

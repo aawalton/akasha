@@ -22,7 +22,7 @@ const FEATURE = "work-tree"
 
 const SETTLE_MS = 2_000
 
-const CORPUS_GLOB = "akasha/**/*.initiative.ts"
+const CORPUS_GLOB = "**/*.initiative.ts"
 
 // A REPAINT IS CHEAP AND A SEAT MOVES OFTEN, so the quiet a seat's write waits through is short
 // enough that a turn changing color is drawn while Alan is still looking at what set it off.
