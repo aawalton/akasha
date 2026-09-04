@@ -20,6 +20,7 @@ export type Workspace = Domain & {
   secretsConfig: SecretsConfig
   typescriptBaseConfig: TypescriptBaseConfig
   typescriptConfig: TypescriptConfig
+  typescriptBuildInfo?: TypescriptBuildInfo
   workspaceGitIgnore: WorkspaceGitIgnore
 }
 
