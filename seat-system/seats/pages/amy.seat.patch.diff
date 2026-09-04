@@ -1,0 +1,51 @@
+diff --git a/seat-system/package.json b/seat-system/package.json
+index 489bada3a80841fa71c49a2b654d8f20426ba516..4b06624ed8f4a679ea26917b8961b01bd5578c12 100644
+--- a/seat-system/package.json
++++ b/seat-system/package.json
+@@ -239,12 +239,6 @@
+     "./supervisor-wait-resume-answer": "./supervising/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts",
+     "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
+     "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
+-    "./transcript-records": "./seat-turn/transcript-records/transcript-records.module.code.ts",
+-    "./turn-end-conduct": "./seat-turn/turn-end-conduct/turn-end-conduct.module.code.ts",
+-    "./turn-end-evidence": "./seat-turn/turn-end-evidence/turn-end-evidence.module.code.ts",
+-    "./turn-end-prompt": "./seat-turn/turn-end-prompt/turn-end-prompt.module.code.ts",
+-    "./turn-end-reading": "./seat-turn/turn-end-reading/turn-end-reading.module.code.ts",
+-    "./turn-records": "./seat-turn/turn-records/turn-records.module.code.ts",
+     "./turn-working": "./seat-turn/turn-working/turn-working.module.code.ts",
+     "./seat-proc-key": "./seat-proc-key/seat-proc-key.module.code.ts",
+     "./seat-akasha-beside": "./seat-akasha-beside/seat-akasha-beside.module.code.ts",
+diff --git a/seat-system/seat-record/seat-record.module.code.ts b/seat-system/seat-record/seat-record.module.code.ts
+index 08646eee4c8e6027e580f732b9c38a5266421b62..e82c20dc8e2a707ec4c5a6fb0634dd3dea2911ad 100644
+--- a/seat-system/seat-record/seat-record.module.code.ts
++++ b/seat-system/seat-record/seat-record.module.code.ts
+@@ -42,22 +42,14 @@ export function seatRecordOf(agent: string, key: string): SeatRecord | null {
+   return akashaSeatRecordOf(agent, key)
+ }
+ 
+-// FIVE KEYS REACH HERE THAT AKASHA CARRIES NOTHING FOR, AND THEY ARE NAMED RATHER THAN SAID:
+-// `turn-state`, `turn-end-reading`, `turn-pending-source`, `claude-code-session-uuid` and
+-// `turn-working`. Each used to land in the old store and be read back out of it. Their reads have
+-// answered null since the reads moved to akasha, so sealing the write made an existing loss
+-// visible rather than causing one.
++// A KEY AKASHA CARRIES NOTHING FOR IS REFUSED AT `keepBeside` RATHER THAN HERE, AND RATHER THAN
++// BEING DROPPED. Saying it at the write is wrong: these are written every beat by every seat, so a
++// line per refusal is a line per seat per beat, and this runs inside a live agent's terminal where
++// stderr is that agent's screen.
+ //
+-// SAYING IT AT THE WRITE WAS WRONG AND WAS TAKEN BACK OUT WITHIN THE HOUR. These are written every
+-// beat by every seat, so a refusal per write is not a report, it is one line per seat per beat —
+-// and this runs inside a live agent's terminal, where stderr is that agent's screen. It printed
+-// into astra's prompt while she was working. A diagnostic that interrupts eleven people to tell
+-// them something already known and written down costs more than the silence it replaces.
+-//
+-// So the refusal stands where it belongs, at `keepBeside`, which refuses a key akasha does not
+-// carry instead of dropping it. A caller here gets its quiet return, because no caller can do
+-// anything about it; what carries a key is a declaration on the seat page type, which is a change
+-// to make once and not a thing to discover at runtime.
++// A caller here gets its quiet return, because no caller can do anything about it; what carries a
++// key is a declaration on the seat page type, which is a change to make once rather than a thing to
++// discover at run time.
+ export function keepSeatRecord(
+   agent: string,
+   key: string,
