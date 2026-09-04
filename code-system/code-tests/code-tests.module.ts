@@ -101,6 +101,10 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A file holding one page property is answered with the tests beside that page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test is written in `.ts` or in `.tsx`.",
     },
     {

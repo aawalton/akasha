@@ -28,7 +28,11 @@ const HELD: readonly string[] = ["ts", "tsx"]
 
 const SUFFIXES: readonly string[] = HELD.map((one) => `.${TEST}.${one}`)
 
-const CODINGS: readonly string[] = HELD.map((one) => `.${CODE}.${one}`)
+const FIXTURES = `${TEST}-fixtures`
+
+const BESIDES: readonly string[] = [CODE, FIXTURES].flatMap((slug) =>
+  HELD.map((one) => `.${slug}.${one}`)
+)
 
 const RUNNER = "bun"
 
@@ -118,8 +122,8 @@ export function testsUnder(absolute: string): number {
 
 export function testsBesideOf(path: string): readonly string[] {
   if (testNamed(path)) return [path]
-  const coding = CODINGS.find((one) => path.endsWith(one))
-  const page = coding === undefined ? path : `${path.slice(0, -coding.length)}${TS}`
+  const part = BESIDES.find((one) => path.endsWith(one))
+  const page = part === undefined ? path : `${path.slice(0, -part.length)}${TS}`
   const found: string[] = []
   for (const one of HELD) {
     const beside = besideAt(page, TEST, one)

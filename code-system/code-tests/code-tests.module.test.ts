@@ -84,12 +84,14 @@ check("a test written with JSX is counted as readily as one written without", ()
 })
 
 check(
-  "a code file, its page and its test all answer the tests that could stand beside them",
+  "a code file, its page and its fixtures all answer the tests that could sit beside them",
   () => {
     const both = ["akasha/one/held.module.test.ts", "akasha/one/held.module.test.tsx"]
     expect(testsBesideOf("akasha/one/held.module.code.ts")).toEqual(both)
     expect(testsBesideOf("akasha/one/held.module.ts")).toEqual(both)
     expect(testsBesideOf("akasha/one/held.module.code.tsx")).toEqual(both)
+    expect(testsBesideOf("akasha/one/held.module.test-fixtures.ts")).toEqual(both)
+    expect(testsBesideOf("akasha/one/held.module.test-fixtures.tsx")).toEqual(both)
   }
 )
 
