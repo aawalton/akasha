@@ -10,18 +10,23 @@ import {
   BESIDE,
   BODY,
   DEEP,
+  fileIn,
   GONE,
+  GONE_WAY,
   git,
   givenIn,
   HELD,
   head,
   KEPT,
+  KEPT_WAY,
   MANIFEST,
   MOVED_MANIFEST,
   manifested,
   manifestIn,
   naming,
   OUTSIDE,
+  PACKAGE_WITH_WAYS,
+  PACKAGE_WITHOUT_GONE,
   REFUSED_ENDS,
   REFUSED_FLAGGED,
   REFUSED_UNKNOWN,
@@ -30,6 +35,7 @@ import {
   reportOf,
   repoWith,
   scratch,
+  WAYS_IN,
   WORKSPACE,
 } from "./remove.command.test-fixtures.ts"
 import { remove as removeCommand } from "./remove.command.ts"
@@ -169,6 +175,31 @@ test("a folder at the top of the repository is refused, and so is a path inside 
   expect(removing(root, naming("akasha")).code).toBe(1)
   expect(removing(root, naming(".git/config")).refusals[0]).toContain("`.git/`")
   expect(git(root, ["ls-files"]).trim()).toBe(`${HELD}\n${OUTSIDE}`)
+})
+
+test("a way into a package is dropped where the removal takes the file it lands on", () => {
+  const root = repoWith({
+    [HELD]: BODY,
+    [WAYS_IN]: PACKAGE_WITH_WAYS,
+    [KEPT_WAY]: BODY,
+    [GONE_WAY]: BODY,
+  })
+  const said = removing(root, naming("temper/one/gone"))
+  expect(said.refusals).toEqual([])
+  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITHOUT_GONE)
+  expect(reportOf(said)).toContain("stopped naming 1 way in")
+})
+
+test("a way into a package whose file the removal leaves keeps its place", () => {
+  const root = repoWith({
+    [HELD]: BODY,
+    [WAYS_IN]: PACKAGE_WITH_WAYS,
+    [KEPT_WAY]: BODY,
+    [GONE_WAY]: BODY,
+  })
+  const said = removing(root, naming(HELD))
+  expect(said.refusals).toEqual([])
+  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITH_WAYS)
 })
 
 test("naming no path is refused rather than committed empty", () => {

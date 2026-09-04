@@ -80,6 +80,33 @@ export const MOVED_MANIFEST = ROOT_MANIFEST.replace(
   `"${WORKSPACE}",\n    "temper/two"`
 )
 
+export const WAYS_IN = "temper/one/package.json"
+
+export const KEPT_WAY = "temper/one/kept/kept.module.code.ts"
+
+export const GONE_WAY = "temper/one/gone/gone.module.code.ts"
+
+export const PACKAGE_WITH_WAYS = `{
+  "name": "@held/one",
+  "exports": {
+    "./gone": "./gone/gone.module.code.ts",
+    "./kept": "./kept/kept.module.code.ts"
+  }
+}
+`
+
+export const PACKAGE_WITHOUT_GONE = `{
+  "name": "@held/one",
+  "exports": {
+    "./kept": "./kept/kept.module.code.ts"
+  }
+}
+`
+
+export function fileIn(root: string, path: string): string {
+  return readFileSync(join(root, path), "utf8")
+}
+
 export const AGENT = "01a04bed-1461-7364-8579-6799d5aa8ea0"
 
 export const GONE = "akasha/one/nowhere.ts"
