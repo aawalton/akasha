@@ -11,10 +11,10 @@ export const hirelingMails = {
   esoCharacterId: "8796093022338107",
   scope: "character",
   priority: "p3",
-  dueDate: "2026-08-28",
+  dueDate: "2026-09-05",
   displayOrder: 4,
   completionCardId: "hireling-mails",
-  lastCompletedAt: "2026-08-27T13:01:38.000Z",
+  lastCompletedAt: "2026-09-04T15:32:43.000Z",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
 } as const satisfies TemperTask
