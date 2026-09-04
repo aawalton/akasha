@@ -31,6 +31,7 @@
     "./lua-module": "./lua-modules/lua-module.page-type.ts",
     "./lua-runtime-library": "./lua-runtime-libraries/lua-runtime-library.page-type.ts",
     "./module": "./modules/module.page-type.ts",
+    "./name-series": "./name-series/name-series.module.code.ts",
     "./module/test": "./modules/properties/test.file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
     "./python-module": "./python-modules/python-module.page-type.ts",
