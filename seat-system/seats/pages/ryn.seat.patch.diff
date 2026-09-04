@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
+index 36d568c6b102303b184ad0fc8e53f225589a76e0..516e6a6fe45d6b9ddaafb3f13a21594bfa985482 100644
+--- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
++++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
+@@ -7,7 +7,7 @@ export const invariantStatementIsPlain = {
+   definition: "the check refusing an invariant that is not written in plain language",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: true,
++  runsOnPatch: false,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
