@@ -48,3 +48,17 @@ index 65d0b5e0dbb00208d47007b0cf09e10074167b4e..af24f5e92cf97fe50a2caa53f1b3a6a0
    }
    return held
  }
+diff --git a/pages/unique-kinds/pages/part-of.unique-kind.ts b/pages/unique-kinds/pages/part-of.unique-kind.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..af5e9ed43420601905335e84b7dd866e074300f0
+--- /dev/null
++++ b/pages/unique-kinds/pages/part-of.unique-kind.ts
+@@ -0,0 +1,8 @@
++import type { UniqueKind } from "../unique-kind.page-type.ts"
++
++export const partOf = {
++  id: "01a06e67-b235-7f0c-bf4b-da0ea1868950",
++  pageTypeSlug: "unique-kind",
++  slug: "part-of",
++  definition: "the value is unique among the pages part of one collection",
++} as const satisfies UniqueKind
