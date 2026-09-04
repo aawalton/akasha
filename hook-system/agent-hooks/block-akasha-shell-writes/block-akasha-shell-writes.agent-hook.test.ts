@@ -1,9 +1,14 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import { indexNamed } from "@akasha/indexes"
+import { ran } from "@akasha/utils-run/running"
 import {
   editsInPlace,
   landingsIn,
+  namesTheLink,
   pathsSpelledIn,
   programHandedIn,
   programsIn,
@@ -311,4 +316,70 @@ test("a call past a heredoc delimiter is another call", () => {
   expect(
     said("python3 <<'EOF'\nprint(1)\nEOF\nakasha test --file-path akasha/hook-system")
   ).toBeNull()
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function worldAt(): string {
+  const root = realpathSync(scratch.rootFor("block-akasha-shell-writes-"))
+  mkdirSync(join(root, "graph"), { recursive: true })
+  writeFileSync(join(root, "graph", "held.domain.ts"), "held\n")
+  mkdirSync(join(root, "node_modules", "@akasha"), { recursive: true })
+  writeFileSync(join(root, ".gitignore"), "node_modules/\n")
+  symlinkSync("../../graph", join(root, "node_modules", "@akasha", "graph-system"))
+  symlinkSync("graph", join(root, "graph-link"))
+  symlinkSync(indexNamed(), join(root, "index-link"))
+  ran(["git", "init", "-q", root])
+  return root
+}
+
+const WORLD = worldAt()
+
+function saidThere(command: string): string | null {
+  return refusalFor(command, WORLD, WORLD)
+}
+
+test("a trailing separator names no link", () => {
+  expect(namesTheLink("node_modules/@akasha/graph-system")).toBe(true)
+  expect(namesTheLink("node_modules/@akasha/graph-system/")).toBe(false)
+  expect(namesTheLink("node_modules/@akasha/graph-system/.")).toBe(false)
+  expect(namesTheLink("node_modules/@akasha/graph-system/..")).toBe(false)
+})
+
+test("a removal naming a link the repository ignores is let through", () => {
+  expect(saidThere("rm node_modules/@akasha/graph-system")).toBeNull()
+  expect(saidThere("rm -rf node_modules/@akasha/graph-system")).toBeNull()
+})
+
+test("a removal reaching past a trailing separator is refused", () => {
+  expect(saidThere("rm -rf node_modules/@akasha/graph-system/")).toContain(INSIDE)
+})
+
+test("a removal naming a link the repository tracks is refused", () => {
+  expect(saidThere("rm graph-link")).toContain(INSIDE)
+})
+
+test("a removal naming what a link points at is refused", () => {
+  expect(saidThere("rm graph/held.domain.ts")).toContain(INSIDE)
+})
+
+test("a write landing where the repository ignores is let through", () => {
+  expect(saidThere("echo hi > node_modules/held.txt")).toBeNull()
+  expect(saidThere("touch node_modules/@akasha/held.txt")).toBeNull()
+  expect(saidThere("python3 -c \"open('node_modules/held.txt','w')\"")).toBeNull()
+})
+
+test("a landing the repository ignores hides no landing beside it", () => {
+  expect(saidThere("touch node_modules/held.txt graph/held.domain.ts")).toContain(INSIDE)
+})
+
+test("the index is guarded where the repository ignores nothing", () => {
+  expect(saidThere(`echo hi > ${indexNamed()}/held.jsonl`)).toContain(REBUILD)
+  expect(saidThere(`rm ${indexNamed()}/held.jsonl`)).toContain(REBUILD)
+})
+
+test("a removal naming a link into the index is judged where the link points", () => {
+  expect(saidThere("rm index-link")).toContain(REBUILD)
 })
