@@ -6,9 +6,9 @@ import { basename, dirname, isAbsolute, join, resolve } from "node:path"
 import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
 import { buildModelGraph } from "@akasha/zimage/zimage-graph"
 import { MODEL_IDS, MODELS, toModelId } from "@akasha/zimage/zimage-models"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 const GENERATE = "generate"
 
