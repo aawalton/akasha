@@ -3,11 +3,10 @@ import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { shadowAt } from "@akasha/pages-system/shadow"
-import { grammarsIn } from "@akasha/plain-language"
 import { bodiesAt } from "@akasha/testing-system/bodying"
 import {
   reasonsIn,
-  reasonsWith,
+  reasonsShaped,
   splitAt,
   statementsIn,
 } from "./invariant-statement-is-plain.code-check.code.ts"
@@ -25,7 +24,7 @@ const OWN: readonly string[] = [
 
 const REPO_AT = rootOf(import.meta.dir)
 
-const judged = reasonsWith(grammarsIn(shadowAt(REPO_AT).index))
+const judged = reasonsShaped(REPO_AT, shadowAt(REPO_AT).index)
 
 const given = bodiesAt(ROOT, AT)
 
@@ -237,33 +236,40 @@ test("the check refuses neither of its own code files though each spells the wor
   }
 })
 
-test("a statement the grammar reads is let through", () => {
+test("a statement no refused shape matches is let through", async () => {
   const body = paged(JSON.stringify("A page is one TypeScript file."))
-  expect(judged(given(body))).toEqual([])
+  expect(await judged(given(body))).toEqual([])
 })
 
-test("a statement written in a refused shape names that shape", () => {
+test("a statement written in a refused shape names that shape", async () => {
   const body = paged(JSON.stringify("It is read from the index."))
-  const said = judged(given(body))
+  const said = await judged(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 3")
   expect(said[0]).toContain("`lone-pronoun`")
   expect(said[0]).toContain("say the same fact in the plainest words")
 })
 
-test("a statement no shape of the grammar reads is passed over", () => {
-  const body = paged(JSON.stringify("A page is one TypeScript file whenever whenever."))
-  expect(judged(given(body))).toEqual([])
+test("a count closing a statement over its own list names `closing-count`", async () => {
+  const body = paged(JSON.stringify("A pass either writes or checks rather than doing both."))
+  const said = await judged(given(body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`closing-count`")
 })
 
-test("a statement refused for a mark is not judged against the grammar too", () => {
+test("a statement the parser makes nothing of is passed over", async () => {
+  const body = paged(JSON.stringify("A page is one TypeScript file whenever whenever."))
+  expect(await judged(given(body))).toEqual([])
+})
+
+test("a statement refused for a mark is not judged against the shapes too", async () => {
   const body = paged(JSON.stringify("It is read, so the index answers."))
-  const said = judged(given(body))
+  const said = await judged(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("joins a second fact")
 })
 
-test("a directive is passed over where an invariant is judged", () => {
+test("a directive is passed over where an invariant is judged", async () => {
   const body = [
     "export const held = {",
     "  directives: [",
@@ -276,5 +282,5 @@ test("a directive is passed over where an invariant is judged", () => {
     "}",
     "",
   ].join("\n")
-  expect(judged(given(body))).toEqual([])
+  expect(await judged(given(body))).toEqual([])
 })

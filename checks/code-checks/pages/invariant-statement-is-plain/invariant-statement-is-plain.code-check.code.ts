@@ -1,10 +1,17 @@
+import { join } from "node:path"
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
-import { type Grammars, grammarsIn, plainlyBy, scanned } from "@akasha/plain-language"
+import type { Answering } from "@akasha/indexes/answering"
+import { scanned } from "@akasha/plain-language"
+import { makeSentence } from "@akasha/plain-language/dependency-graph"
+import { loadParser } from "@akasha/plain-language/onnx-parsing"
+import type { ShapePredicate } from "@akasha/plain-language/shape-predicate"
+import { shapesIn } from "@akasha/plain-language/shapes"
 import ts from "typescript"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
-  judgingEach,
+  judgingEachAsync,
   overEachText,
+  overEachTextAsync,
   TEXTS,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
@@ -22,6 +29,10 @@ const TRAILING = /[\s,;:—]+$/
 
 const LEADING = /^[\s,;:—.]+/
 
+const PAGE_ENDING = ".ts"
+
+const CODE_ENDING = ".code.ts"
+
 export type Stated = {
   readonly line: number
   readonly text: string
@@ -35,6 +46,12 @@ export type Split = {
   readonly mark: string
   readonly first: string
   readonly second: string
+}
+
+type Refused = {
+  readonly slug: string
+  readonly reason: string | null
+  readonly run: ShapePredicate
 }
 
 function joinedIn(node: ts.Expression): string | null {
@@ -120,38 +137,100 @@ function sayingOf(split: Split): string {
   )
 }
 
-export function refusalOf(one: Stated, grammars: Grammars): string | null {
-  const said = plainlyBy(grammars, one.text)
-  if (said.plain) return null
-  if (said.shape === null) return null
-  return (
-    `line ${one.line} is written in \`${said.shape}\`, a shape akasha refuses\n` +
-    `  ${said.reason ?? ""}\n` +
-    `  ${one.text}\n` +
-    "  say the same fact in the plainest words that keep it."
-  )
+function exportedAs(slug: string): string {
+  return slug.replace(/-(.)/g, (_whole, one: string) => one.toUpperCase())
 }
 
-function found(path: string, text: string, grammars: Grammars | null): readonly string[] {
+const REFUSED = new WeakMap<Answering, Promise<readonly Refused[]>>()
+
+async function refusedFrom(root: string, index: Answering): Promise<readonly Refused[]> {
+  const found: Refused[] = []
+  for (const shape of shapesIn(index)) {
+    if (shape.allowed !== false) continue
+    const at = join(root, `${shape.path.slice(0, -PAGE_ENDING.length)}${CODE_ENDING}`)
+    const held = (await import(at)) as Record<string, unknown>
+    const run = held[exportedAs(shape.slug)]
+    if (typeof run !== "function") continue
+    found.push({ slug: shape.slug, reason: shape.reason, run: run as ShapePredicate })
+  }
+  return found
+}
+
+function refusedIn(root: string, index: Answering): Promise<readonly Refused[]> {
+  const held = REFUSED.get(index)
+  if (held !== undefined) return held
+  const made = refusedFrom(root, index)
+  REFUSED.set(index, made)
+  return made
+}
+
+let PARSER: ReturnType<typeof loadParser> | null = null
+
+function parserHeld(): ReturnType<typeof loadParser> {
+  PARSER ??= loadParser()
+  return PARSER
+}
+
+async function shapedOf(one: Stated, refused: readonly Refused[]): Promise<string | null> {
+  if (refused.length === 0) return null
+  const parser = await parserHeld()
+  const parsed = await parser.parse(one.text)
+  const first = parsed[0]
+  if (first === undefined) return null
+  const sentence = makeSentence(first)
+  for (const shape of refused) {
+    if (shape.run(sentence).length === 0) continue
+    return (
+      `line ${one.line} is written in \`${shape.slug}\`, a shape akasha refuses\n` +
+      `  ${shape.reason ?? ""}\n` +
+      `  ${one.text}\n` +
+      "  say the same fact in the plainest words that keep it."
+    )
+  }
+  return null
+}
+
+function marked(path: string, text: string): readonly string[] {
   const said: string[] = []
   for (const one of statementsIn(path, text)) {
+    const split = splitAt(one)
+    if (split !== null) said.push(sayingOf(split))
+  }
+  return said
+}
+
+async function found(
+  root: string,
+  path: string,
+  text: string,
+  index: Answering
+): Promise<readonly string[]> {
+  const every = statementsIn(path, text)
+  if (every.length === 0) return []
+  const said: string[] = []
+  let refused: readonly Refused[] | null = null
+  for (const one of every) {
     const split = splitAt(one)
     if (split !== null) {
       said.push(sayingOf(split))
       continue
     }
-    const refused = grammars === null ? null : refusalOf(one, grammars)
-    if (refused !== null) said.push(refused)
+    refused ??= await refusedIn(root, index)
+    const shaped = await shapedOf(one, refused)
+    if (shaped !== null) said.push(shaped)
   }
   return said
 }
 
-export const reasonsIn = overEachText((path, text) => found(path, text, null))
+export const reasonsIn = overEachText(marked)
 
-export function reasonsWith(grammars: Grammars): (given: Body) => readonly string[] {
-  return overEachText((path, text) => found(path, text, grammars))
+export function reasonsShaped(
+  root: string,
+  index: Answering
+): (given: Body) => Promise<readonly string[]> {
+  return overEachTextAsync((path, text) => found(root, path, text, index))
 }
 
-export const invariantStatementIsPlain = judgingEach(TEXTS, (given, shadow) =>
-  found(given.path, given.text, grammarsIn(shadow.index))
+export const invariantStatementIsPlain = judgingEachAsync(TEXTS, (given, shadow) =>
+  found(given.root, given.path, given.text, shadow.index)
 )

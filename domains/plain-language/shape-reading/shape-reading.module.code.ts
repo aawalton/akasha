@@ -5,6 +5,7 @@ const SHAPE_TYPE = "01a05da1-60fc-76ca-8503-b43deb6d5f53"
 
 export type Shape = {
   readonly slug: string
+  readonly path: string
   readonly definition: string
   readonly allowed: boolean | null
   readonly reason: string | null
@@ -35,6 +36,7 @@ function shapeIn(index: Answering, pageTypeSlug: string, path: string): Shape {
   const allowed = value.allowed
   return {
     slug: said.slug,
+    path,
     definition: textIn(value, "definition") ?? "",
     allowed: typeof allowed === "boolean" ? allowed : null,
     reason: textIn(value, "reason"),

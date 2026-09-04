@@ -8,7 +8,7 @@ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { isMissing } from "@akasha/utils-fs/missing"
-import type { Judged, Running } from "../judging/judging.module.code.ts"
+import type { Judged, Running, RunningAsync } from "../judging/judging.module.code.ts"
 
 export type Body = {
   readonly root: string
@@ -41,6 +41,8 @@ export type Stated = {
 }
 
 export type Bounded = Running & Stated
+
+export type BoundedAsync = RunningAsync & Stated
 
 const TS = "ts"
 
@@ -152,6 +154,21 @@ export function judgingEach<T extends { readonly path: string }>(
   return Object.assign(run, stated)
 }
 
+export function judgingEachAsync<T extends { readonly path: string }>(
+  selector: Selector<T>,
+  judge: (given: T, shadow: Shadow) => Promise<readonly string[]>
+): BoundedAsync {
+  const run = async (change: Change, shadow: Shadow): Promise<readonly Judged[]> => {
+    const said: Judged[] = []
+    for (const given of selector.from(change, shadow)) {
+      for (const reason of await judge(given, shadow)) said.push({ path: given.path, reason })
+    }
+    return said
+  }
+  const stated: Stated = { isInput: selector.isInput }
+  return Object.assign(run, stated)
+}
+
 export function input<T>(selector: Selector<T>, run: Running): Bounded {
   const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
   const stated: Stated = { isInput: selector.isInput }
@@ -172,6 +189,15 @@ export function overEachText(
   found: (path: string, text: string) => readonly string[]
 ): (given: Body) => readonly string[] {
   return overEach(textNamed, found)
+}
+
+export function overEachTextAsync(
+  found: (path: string, text: string) => Promise<readonly string[]>
+): (given: Body) => Promise<readonly string[]> {
+  return async (given) => {
+    if (!textNamed(given.path)) return []
+    return await found(given.path, bodyOf(given))
+  }
 }
 
 export function overEachBody(
