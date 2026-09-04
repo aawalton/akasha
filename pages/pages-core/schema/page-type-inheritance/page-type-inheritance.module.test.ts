@@ -9,13 +9,13 @@ function typed(id: string, slug: string, above: readonly string[] | null): PageT
 }
 
 test("a page type descends from the one it names as the page type it extends", () => {
-  const types = [typed("1", "page", null), typed("2", ["domain", "page-type/page"])]
+  const types = [typed("1", "page", null), typed("2", "domain", ["page-type/page"])]
 
   expect([...resolveDescendantPageTypeIds(types, "1")].sort()).toEqual(["1", "2"])
 })
 
 test("a parent named by slug alone is read as one named with its page type is", () => {
-  const types = [typed("1", "page", null), typed("2", ["domain", "page"])]
+  const types = [typed("1", "page", null), typed("2", "domain", ["page"])]
 
   expect([...resolveDescendantPageTypeIds(types, "1")].sort()).toEqual(["1", "2"])
 })

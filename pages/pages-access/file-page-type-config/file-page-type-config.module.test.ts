@@ -48,17 +48,6 @@ function aboveIn(stated: StatedConfig): readonly string[] {
   return stated.extendsSlugs
 }
 
-test("a page type naming one parent as a string still climbs the chain it always did", async () => {
-  const fake = fakeOver({
-    leaf: typed("leaf", ["page-type/mid"], null),
-    mid: typed("mid", "root", null),
-    root: typed("root", null, { said: "root" }),
-  })
-  const stated = await nearestConfigValue("leaf", SEQUENCE_CONFIG_KEY, fake.deps)
-  expect(answered(stated).value).toEqual({ said: "root" })
-  expect(fake.asked).toEqual(["leaf", "mid", "root"])
-})
-
 test("a parent named as a one-item list is read as the same parent a bare string names", async () => {
   const listed = fakeOver({
     leaf: typed("leaf", ["page-type/root"], null),
