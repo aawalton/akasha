@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const workTree = {
   id: "01a06866-8b85-79cd-a698-d3fa3f18a57b",
