@@ -85,7 +85,7 @@ index a07c231bc87f32659a013214ec495cb93b73cd60..646869cac4a92a0ae60dd8d8b755887c
      from: KEEPER_UNREVIVABLE_SOURCE,
      warrant: "announce",
 diff --git a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
-index cca23d397a9f518301de10463bc24c407e780fe6..48d63e5d1fde063a699539fe711427f5cd7af42c 100644
+index cca23d397a9f518301de10463bc24c407e780fe6..ee34176b6478323c25486f5d0ccb68565343873a 100644
 --- a/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
 +++ b/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts
 @@ -23,7 +23,7 @@ export function hasRecentInboundMessage(
@@ -106,3 +106,11 @@ index cca23d397a9f518301de10463bc24c407e780fe6..48d63e5d1fde063a699539fe711427f5
      to: seatName,
      from: SENDER,
      warrant: input.warrant.kind === "blocked" ? "blocked" : "announce",
+@@ -48,7 +48,6 @@ export function sendMessage(input: {
+       `the message to \`${seatName}\` was not written, so nothing is waiting: ${wrote.detail}`
+     )
+   }
+-  return Promise.resolve()
+ }
+ 
+ export const USER_SOURCE = "user"
