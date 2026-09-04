@@ -88,5 +88,5 @@ test("a frames act naming a clip that is not there answers against the data", as
 
 test("a relative path is read against the root rather than the calling folder", () => {
   expect(at(given("/repo"), "clips/one.mp4")).toBe("/repo/clips/one.mp4")
-  expect(at(given("/repo"), "/tmp/one.mp4")).toBe("/tmp/one.mp4")
+  expect(at(given("/repo"), "/var/tmp/one.mp4")).toBe("/var/tmp/one.mp4")
 })

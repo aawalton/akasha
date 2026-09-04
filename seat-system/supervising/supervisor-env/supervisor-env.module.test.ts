@@ -10,7 +10,7 @@ import {
 const BASE = {
   agentId: "a",
   sessionId: "s",
-  configDir: "/tmp/config",
+  configDir: "/var/tmp/config",
   headless: true,
   subagentSpawnDepth: "2",
   toolTimeout: "60000",
@@ -94,6 +94,6 @@ test("the agent, session and config directory are always stated", () => {
   const held = buildSupervisorEnv({ ...BASE, baseEnv: {} })
   expect(held.AGENT_ID).toBe("a")
   expect(held.SESSION_ID).toBe("s")
-  expect(held.CLAUDE_CONFIG_DIR).toBe("/tmp/config")
+  expect(held.CLAUDE_CONFIG_DIR).toBe("/var/tmp/config")
   expect(held.SUPERVISOR_PID).toBeUndefined()
 })

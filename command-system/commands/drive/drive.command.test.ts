@@ -42,7 +42,7 @@ test("a flag it does not take is refused", () => {
 })
 
 test("a flag another act takes is refused under this one", () => {
-  expect(refusedBy(["auth", "login", "--out", "/tmp"])[0]).toContain("--out")
+  expect(refusedBy(["auth", "login", "--out", "/var/tmp"])[0]).toContain("--out")
 })
 
 test("a flag with no value after it is refused", () => {
