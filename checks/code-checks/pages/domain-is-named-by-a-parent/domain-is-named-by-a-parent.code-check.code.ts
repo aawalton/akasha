@@ -6,8 +6,6 @@ import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const INSIDE = "akasha/"
-
 const DOMAIN = "domain"
 
 const PART_SLUGS = "part-slugs"
@@ -53,7 +51,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     said.push({ path, reason: reasonFor(shown) })
   }
   for (const path of change.changed) {
-    if (!path.startsWith(INSIDE) || !pageNamed(path, pageTypes)) continue
+    if (!pageNamed(path, pageTypes)) continue
     for (const shown of partsWere(change, path)) {
       const reached = reaches(shown, DOMAIN, known)
       if (!("id" in reached)) continue
