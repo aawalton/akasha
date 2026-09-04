@@ -42,22 +42,14 @@ export function seatRecordOf(agent: string, key: string): SeatRecord | null {
   return akashaSeatRecordOf(agent, key)
 }
 
-// FIVE KEYS REACH HERE THAT AKASHA CARRIES NOTHING FOR, AND THEY ARE NAMED RATHER THAN SAID:
-// `turn-state`, `turn-end-reading`, `turn-pending-source`, `claude-code-session-uuid` and
-// `turn-working`. Each used to land in the old store and be read back out of it. Their reads have
-// answered null since the reads moved to akasha, so sealing the write made an existing loss
-// visible rather than causing one.
+// A KEY AKASHA CARRIES NOTHING FOR IS REFUSED AT `keepBeside` RATHER THAN HERE, AND RATHER THAN
+// BEING DROPPED. Saying it at the write is wrong: these are written every beat by every seat, so a
+// line per refusal is a line per seat per beat, and this runs inside a live agent's terminal where
+// stderr is that agent's screen.
 //
-// SAYING IT AT THE WRITE WAS WRONG AND WAS TAKEN BACK OUT WITHIN THE HOUR. These are written every
-// beat by every seat, so a refusal per write is not a report, it is one line per seat per beat —
-// and this runs inside a live agent's terminal, where stderr is that agent's screen. It printed
-// into astra's prompt while she was working. A diagnostic that interrupts eleven people to tell
-// them something already known and written down costs more than the silence it replaces.
-//
-// So the refusal stands where it belongs, at `keepBeside`, which refuses a key akasha does not
-// carry instead of dropping it. A caller here gets its quiet return, because no caller can do
-// anything about it; what carries a key is a declaration on the seat page type, which is a change
-// to make once and not a thing to discover at runtime.
+// A caller here gets its quiet return, because no caller can do anything about it; what carries a
+// key is a declaration on the seat page type, which is a change to make once rather than a thing to
+// discover at run time.
 export function keepSeatRecord(
   agent: string,
   key: string,
