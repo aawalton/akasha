@@ -1,0 +1,40 @@
+diff --git a/command-system/cli/cli.module.code.ts b/command-system/cli/cli.module.code.ts
+index 8033e8f84671d2e0cabf5e3f06b64310ad27ca15..c837b4418432b7aa0e396c243d1cf9b3bcab6534 100644
+--- a/command-system/cli/cli.module.code.ts
++++ b/command-system/cli/cli.module.code.ts
+@@ -1,3 +1,5 @@
++import { Buffer } from "node:buffer"
++import { writeSync } from "node:fs"
+ import { resolve } from "node:path"
+ import type { Answer, Outside } from "../calling/calling.module.code.ts"
+ import { calling } from "../calling/calling.module.code.ts"
+@@ -56,14 +58,22 @@ export async function answering(
+   }
+ }
+ 
++export function spilled(fd: number, lines: readonly string[]): undefined {
++  if (lines.length === 0) return
++  const bytes = Buffer.from(lines.map((one) => `${one}\n`).join(""))
++  let gone = 0
++  while (gone < bytes.length) {
++    try {
++      gone += writeSync(fd, bytes, gone)
++    } catch (thrown) {
++      if ((thrown as { code?: string }).code !== "EAGAIN") throw thrown
++    }
++  }
++}
++
+ if (import.meta.main) {
+   const said = await answering(process.argv.slice(2), process.env, import.meta.path, process.cwd())
+-  // A PIPE TAKES AN ANSWER IN PIECES, and `process.exit` gives up whatever has not left yet, so a
+-  // large answer reaching a piped reader ended at a 64 KiB boundary. Measured: the 985,937-byte
+-  // `page-tree` answer came back short in 5 runs of 8 through a pipe and was whole every time into
+-  // a file, and a probe of one line that size lost bytes 6 times in 6. `Bun.write` is awaited, so
+-  // what is printed is out before the code is given, and the code still ends the process at once.
+-  if (said.out.length > 0) await Bun.write(Bun.stdout, said.out.map((one) => `${one}\n`).join(""))
+-  if (said.err.length > 0) await Bun.write(Bun.stderr, said.err.map((one) => `${one}\n`).join(""))
++  spilled(1, said.out)
++  spilled(2, said.err)
+   process.exit(said.code)
+ }
