@@ -8,7 +8,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/temper/temper-web": {
+    "temper/temper-web": {
       "entry": [
         "*.{ts,tsx}",
         "routes/**/*.{ts,tsx}",

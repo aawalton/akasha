@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "akasha/smilingjenny/smilingjenny-web": {
+    "smilingjenny/smilingjenny-web": {
       "entry": [
         "*.{ts,tsx}",
         "routes/**/*.{ts,tsx}",

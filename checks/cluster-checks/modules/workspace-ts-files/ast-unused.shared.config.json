@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "akasha/design/layout": {
+    "design/layout": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -8,7 +8,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "akasha/object-store": {
+    "object-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -16,7 +16,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/pages-system/pages-access": {
+    "pages-system/pages-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -24,7 +24,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/pages-system/pages-core": {
+    "pages-system/pages-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -32,7 +32,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/pages-system/pages-url": {
+    "pages-system/pages-url": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -40,7 +40,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/pages-system/pages-ui-store": {
+    "pages-system/pages-ui-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -48,7 +48,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/status-bar-access": {
+    "status-bar-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -56,7 +56,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/utils-narrow": {
+    "utils-narrow": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -64,7 +64,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/utils-sync": {
+    "utils-sync": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -72,7 +72,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/testing-system": {
+    "testing-system": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
