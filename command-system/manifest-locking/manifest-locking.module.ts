@@ -4,7 +4,8 @@ export const manifestLocking = {
   id: "01a0628d-2f09-7f63-8d3a-27494e9ec287",
   pageTypeSlug: "module",
   slug: "manifest-locking",
-  definition: "the lockfile a landing's manifests warrant, made again and carried by that landing",
+  definition:
+    "the lockfile a landing's manifests warrant, and the install pointing the workspace at them",
   code: "ts",
   test: "ts",
   invariants: [
@@ -38,7 +39,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "absence",
-      statement: "The worktree is read for nothing here.",
+      statement: "The lockfile is made with the worktree read for nothing.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +59,33 @@ export const manifestLocking = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes into the repository or commits.",
+      statement: "Nothing here commits.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An install is what points the workspace at the folders its manifests name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing carrying a manifest installs the checkout onto the commit it landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing carrying no manifest installs nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The install runs under the hold a landing takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An install that fails leaves the commit made and says the tree reaches nothing until it runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A lockfile the install makes again says the commit carries one its manifests do not warrant.",
     },
     {
       invariantKind: "gap",

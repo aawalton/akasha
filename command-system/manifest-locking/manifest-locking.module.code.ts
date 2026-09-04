@@ -2,6 +2,7 @@ import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "nod
 import { dirname, join } from "node:path"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
+import { holding } from "../holding/holding.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const MANIFEST = "package.json"
@@ -25,6 +26,8 @@ const TAR = "tar"
 const BUN = "bun"
 
 const LOCKFILE_ONLY = ["install", "--lockfile-only"]
+
+const INSTALL = ["install"]
 
 export const LOCKING_SPELLING =
   `the lockfile is made again from the manifests the base commit tracks with this change worked ` +
@@ -125,6 +128,75 @@ export function lockingFor(root: string, base: string, changes: readonly FileEdi
       said: [
         `\`${LOCK}\` could not be looked at for this change, so the lockfile went unchanged — ` +
           `${thrown instanceof Error ? thrown.message : String(thrown)}`,
+      ],
+    }
+  }
+}
+
+export const INSTALL_SPELLING =
+  `the lockfile is made without an install, so what the workspace reaches its packages through ` +
+  `still points at the folders the manifests named before, and a landing carrying a ` +
+  `\`${MANIFEST}\` installs the checkout under the hold to move it`
+
+export type Installing = {
+  readonly said: readonly string[]
+  readonly wrong: readonly string[]
+}
+
+export const NOTHING_INSTALLED: Installing = { said: [], wrong: [] }
+
+function lockAt(root: string): Uint8Array | null {
+  try {
+    return readFileSync(join(root, LOCK))
+  } catch {
+    return null
+  }
+}
+
+export function installedIn(root: string): Installing {
+  const was = lockAt(root)
+  const took = ran([BUN, ...INSTALL], { cwd: root })
+  const spelt = [BUN, ...INSTALL].join(" ")
+  if (took.code !== 0) {
+    return {
+      said: [],
+      wrong: [
+        `the commit was made and the checkout would not install onto it, so nothing in the tree ` +
+          `resolves until \`${spelt}\` runs and answers — ${took.err.trim()}`,
+        INSTALL_SPELLING,
+      ],
+    }
+  }
+  if (!sameBytes(was, lockAt(root))) {
+    return {
+      said: [],
+      wrong: [
+        `the commit was made and installing it made \`${LOCK}\` again, so the lockfile that ` +
+          `commit carries is not the one its manifests warrant — land \`${LOCK}\` as it now is`,
+        INSTALL_SPELLING,
+      ],
+    }
+  }
+  return {
+    said: [
+      `the checkout was installed onto this commit, so what the workspace reaches its packages ` +
+        `through follows the \`${MANIFEST}\` this change carries`,
+    ],
+    wrong: [],
+  }
+}
+
+export function installingIn(root: string, changes: readonly FileEdit[]): Installing {
+  if (manifestsIn(changes).length === 0) return NOTHING_INSTALLED
+  try {
+    return holding(root, () => installedIn(root))
+  } catch (thrown) {
+    return {
+      said: [],
+      wrong: [
+        `the commit was made and the checkout could not be installed onto it — ` +
+          `${thrown instanceof Error ? thrown.message : String(thrown)}`,
+        INSTALL_SPELLING,
       ],
     }
   }

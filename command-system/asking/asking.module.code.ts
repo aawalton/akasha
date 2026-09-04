@@ -24,7 +24,11 @@ import type {
   Refused,
 } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
-import { lockingFor, sameBytes } from "../manifest-locking/manifest-locking.module.code.ts"
+import {
+  installingIn,
+  lockingFor,
+  sameBytes,
+} from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
@@ -449,10 +453,11 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   recordLanded(given, formatting.changes)
+  const put = installingIn(given.root, held.changes)
   return {
-    report: reported(said, held, bypass, broken, gate.named.length, aside),
-    refusals: [],
-    code: 0,
+    report: reported(said, held, bypass, broken, gate.named.length, [...aside, ...put.said]),
+    refusals: put.wrong,
+    code: put.wrong.length === 0 ? 0 : 3,
   }
 }
 

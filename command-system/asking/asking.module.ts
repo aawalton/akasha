@@ -117,6 +117,20 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A change carrying a package manifest installs the checkout onto the commit it landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The install runs after the commit rather than before the gate.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing the install would not follow is answered as operational with the commit named.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body the caller asked for is recorded as read by whoever landed that body.",
     },
     {
