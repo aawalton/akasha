@@ -60,7 +60,7 @@ export const toDo = {
     { pagePropertySlug: "to-do-category", required: false, many: false },
     { pagePropertySlug: "difficulty", required: false, many: false },
     { pagePropertySlug: "to-do-due-date", required: false, many: false },
-    { pagePropertySlug: "due-time", required: false, many: false },
+    { pagePropertySlug: "text-property/due-time", required: false, many: false },
     { pagePropertySlug: "link", required: false, many: false },
     { pagePropertySlug: "to-do-priority", required: true, many: false },
     { pagePropertySlug: "to-do-recurrence", required: false, many: false },
