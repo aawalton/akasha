@@ -1,16 +1,19 @@
 diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
-index 1c6d775bb548d76e6302adc481c45f050199ffb6..e1dc72307b58b3a46ad0011b01b0a03793908d64 100644
+index 1c6d775bb548d76e6302adc481c45f050199ffb6..2dd035ed66cbdf44304f4965a2b3952144e3b17b 100644
 --- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
 +++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
-@@ -4,7 +4,7 @@ import { servedOf } from "@akasha/code-system/code-typing"
+@@ -4,9 +4,9 @@ import { servedOf } from "@akasha/code-system/code-typing"
  import { waitingKeys } from "@akasha/indexes/generated-properties"
  import type { Change } from "@akasha/pages-system/change"
  import type { Shadow } from "@akasha/pages-system/shadow"
 -import { API } from "typescript-7/unstable/sync"
 +import { API } from "typescript-7/unstable/async"
  import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
- import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
+-import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
++import { FILES, inputAsync } from "../../../modules/change-walking/change-walking.module.code.ts"
  import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+ import type { Found } from "../typecheck/typecheck.code-check.code.ts"
+ import {
 @@ -85,7 +85,7 @@ type Diagnosed = {
    readonly startPosition?: { readonly line: number }
  }
