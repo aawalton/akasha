@@ -23,7 +23,6 @@ export const trackingDaily = {
     "module/air-quality",
     "module/air-quality-fetch",
     "module/persona-recipe-rows",
-    "module/persona-total-landing",
     "module/session-points-compute",
     "module/persona-day-points",
     "module/session-points-totals",
