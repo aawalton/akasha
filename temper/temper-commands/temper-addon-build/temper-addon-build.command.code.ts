@@ -5,7 +5,7 @@ import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
 import { TSCONFIG_NAME, tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
-import { tstlCommand, tstlRoot } from "@akasha/temper-addon-build/lua-build-command"
+import { COMPILER_ENTRY, tstlCommand, tstlRoot } from "@akasha/temper-addon-build/lua-build-command"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { ran, shown } from "@akasha/utils-run/running"
@@ -16,7 +16,6 @@ const FAILED = 3
 
 const ADDONS_UNDER = "temper/addons"
 const DIST_UNDER = "dist"
-const COMPILER_ENTRY = "src/cli/tstl.ts"
 const BUNDLE_SUFFIX = ".lua"
 const SAYS_ERROR = "error TS"
 const CEILING_MS = 60 * 60 * 1000

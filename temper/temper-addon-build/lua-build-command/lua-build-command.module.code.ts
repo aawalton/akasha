@@ -3,7 +3,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 
 const COMPILER_PACKAGE = "language-design/lua-compiler"
 
-const COMPILER_ENTRY = "tstl-cli/tstl-cli.module.code.ts"
+export const COMPILER_ENTRY = "tstl-cli/tstl-cli.module.code.ts"
 
 const PLUGIN_FILES = [
   "tstl-plugin-tstl-no-truthy-numbers/tstl-plugin-tstl-no-truthy-numbers.module.code.ts",
