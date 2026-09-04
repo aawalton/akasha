@@ -1,6 +1,6 @@
-import type { Max } from "../../page-properties/properties/max.number-property.ts"
-import type { Total } from "../../page-properties/properties/total.number-property.ts"
 import type { List } from "../../page-types/page-properties/page-property.page-type.ts"
+import type { Max } from "../../page-types/page-properties/properties/max.number-property.ts"
+import type { Total } from "../../page-types/page-properties/properties/total.number-property.ts"
 import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
 import type { DefaultValue } from "./default-value.text-property.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"

@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Narrows } from "../page-queries/properties/narrows.record-property.ts"
 import type { Title } from "../properties/title.text-property.ts"
+import type { Narrows } from "../queries/properties/narrows.record-property.ts"
 import type { AlwaysShowProperties } from "./properties/always-show-properties.text-property.ts"
 import type { GalleryCardSize } from "./properties/gallery-card-size.select-property.ts"
 import type { GalleryCoverSource } from "./properties/gallery-cover-source.text-property.ts"

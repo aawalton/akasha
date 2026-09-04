@@ -1,7 +1,7 @@
-import type { Max } from "../page-properties/properties/max.number-property.ts"
-import type { NameFormatSlug } from "../page-properties/properties/name-format-slug.relation-property.ts"
 import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
+import type { Max } from "../page-types/page-properties/properties/max.number-property.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { NameFormatSlug } from "./properties/name-format-slug.relation-property.ts"
 
 export type TextProperty = PageProperty & {
   max: Max
