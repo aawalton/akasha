@@ -37,6 +37,7 @@ export const workspace = {
     "named-file-property/lockfile",
     "named-file-property/secrets-config",
     "named-file-property/typescript-base-config",
+    "named-file-property/typescript-build-info",
     "named-file-property/typescript-config",
     "named-file-property/workspace-git-ignore",
     "named-file-property/workspace-manifest",
