@@ -1,5 +1,5 @@
 {
   "no_build_step": true,
   "no_default_build_args": true,
-  "runtime_cmd": ["bun", "run", "--cwd", "akasha/calendar-sync", "run-sync/run-sync.module.code.ts"]
+  "runtime_cmd": ["bun", "run", "--cwd", "calendar-sync", "run-sync/run-sync.module.code.ts"]
 }

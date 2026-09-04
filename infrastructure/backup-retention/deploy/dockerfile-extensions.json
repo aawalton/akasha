@@ -9,6 +9,6 @@
     "--",
     "bun",
     "run",
-    "akasha/infrastructure/backup-retention/promote-keeps/promote-keeps.module.code.ts"
+    "infrastructure/backup-retention/promote-keeps/promote-keeps.module.code.ts"
   ]
 }

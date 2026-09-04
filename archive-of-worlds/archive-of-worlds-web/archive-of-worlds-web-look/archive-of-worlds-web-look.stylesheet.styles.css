@@ -7,4 +7,4 @@
 @source "../../../design/forms/**/*.{ts,tsx}";
 @source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";
-@source "../../../akasha/pages-system/pages-ui/**/*.{ts,tsx}";
+@source "../../../pages-system/pages-ui/**/*.{ts,tsx}";

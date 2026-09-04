@@ -3,6 +3,6 @@
   "runtime_cmd": [
     "bun",
     "run",
-    "akasha/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.code.ts"
+    "infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.code.ts"
   ]
 }
