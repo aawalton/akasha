@@ -13,7 +13,7 @@ const HERE = rootOf(import.meta.path)
 
 const WARRANTS_IN = "context/warrants"
 
-const WARRANTING_IN = "context/modules/warranting"
+const WARRANTING_IN = "context/warranting"
 
 const CONTEXT_WARRANT = "context-warrant"
 
