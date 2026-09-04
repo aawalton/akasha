@@ -47,13 +47,12 @@ export function typed(
   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, TYPES_AT), { recursive: true })
-  const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
+  const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
   writeFileSync(
     join(root, path),
     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
       ` properties: [${declared(declares)}] }\n`
   )
-  // what a page type declares is read from its value, so a world that types one files it
   valueAlsoFiled(root, PAGE_TYPE, [
     {
       path,
@@ -61,7 +60,7 @@ export function typed(
         id: `id-${slug}`,
         pageTypeSlug: PAGE_TYPE,
         slug,
-        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
+        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
         properties: declares.map((one) => ({ pagePropertySlug: one })),
       },
     },
@@ -120,7 +119,7 @@ export function carrying(
         id: `id-${slug}`,
         pageTypeSlug: PAGE_TYPE,
         slug,
-        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
+        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
         properties: declares.map((one) => ({ pagePropertySlug: one })),
       },
     },

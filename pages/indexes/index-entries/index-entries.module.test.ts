@@ -278,11 +278,11 @@ test("a page type carries what every page type above it declares", () => {
       id: "2",
       pageTypeSlug: "page-type",
       slug: "module",
-      extendsSlug: "page-type/domain",
+      extendsSlug: ["page-type/domain"],
       properties: [{ pagePropertySlug: "code" }],
     },
     { id: "3", pageTypeSlug: "page-type", slug: "domain", properties: [] },
-    { id: "4", pageTypeSlug: "page-type", slug: "index", extendsSlug: "page-type/module" },
+    { id: "4", pageTypeSlug: "page-type", slug: "index", extendsSlug: ["page-type/module"] },
   ]
 
   const said = filePropertiesIn(values)
@@ -395,7 +395,7 @@ test("a property two page types above declare is taken from the nearer of them",
       slug: "near",
       properties: [{ pagePropertySlug: "named-file-property/near-manifest" }],
     },
-    { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: "page-type/far" },
+    { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: ["page-type/far"] },
     {
       id: "d",
       pageTypeSlug: "page-type",

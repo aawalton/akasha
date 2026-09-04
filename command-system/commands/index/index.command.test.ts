@@ -74,7 +74,7 @@ const PAGES: Readonly<Record<string, string>> = {
     id: TYPE_ID,
     pageTypeSlug: "page-type",
     slug: "domain",
-    extendsSlug: "page-type/page",
+    extendsSlug: ["page-type/page"],
   }),
   "text-property.page-type.ts": bodyOf(textProperty),
   "id.text-property.ts": bodyOf(idPage),

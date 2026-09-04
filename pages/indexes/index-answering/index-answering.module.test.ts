@@ -82,7 +82,7 @@ const TYPE_VALUE: Value = {
   id: TYPE_ID,
   pageTypeSlug: PAGE_TYPE,
   slug: MODULE,
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: SLUG, required: true, many: false }],
 }
 

@@ -51,7 +51,7 @@ test("a page type standing under domain is a kind that is drawn", () => {
     "page-type",
     "module",
     KIND,
-    'export const held = { slug: "module", extendsSlug: "page-type/domain" }\n'
+    'export const held = { slug: "module", extendsSlug: ["page-type/domain"] }\n'
   )
   const kinds = kindsUnderDomain(root)
   expect(kinds.has("domain")).toBe(true)
@@ -65,14 +65,14 @@ test("a page type standing under one that stands under domain is drawn too", () 
     "page-type",
     "module",
     KIND,
-    'export const held = { slug: "module", extendsSlug: "page-type/domain" }\n'
+    'export const held = { slug: "module", extendsSlug: ["page-type/domain"] }\n'
   )
   filing(
     root,
     "page-type",
     "check",
     TWO,
-    'export const held = { slug: "check", extendsSlug: "page-type/module" }\n'
+    'export const held = { slug: "check", extendsSlug: ["page-type/module"] }\n'
   )
   expect(kindsUnderDomain(root).has("check")).toBe(true)
 })
@@ -84,7 +84,7 @@ test("a page type standing outside domain is no kind of this panel", () => {
     "page-type",
     "finding",
     KIND,
-    'export const held = { slug: "finding", extendsSlug: "page-type/page" }\n'
+    'export const held = { slug: "finding", extendsSlug: ["page-type/page"] }\n'
   )
   expect(kindsUnderDomain(root).has("finding")).toBe(false)
 })

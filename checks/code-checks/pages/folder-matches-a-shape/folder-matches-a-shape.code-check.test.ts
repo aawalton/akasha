@@ -217,7 +217,7 @@ function rooted(): string {
     "page-type",
     "page",
     `export const it = { id: "${idFor(5)}", slug: "page", pageTypeSlug: "page-type",` +
-      ` extendsSlug: null, properties: ${declares} }\n`
+      ` extendsSlug: [], properties: ${declares} }\n`
   )
   for (const [n, slug] of [
     [2, "page-type"],
@@ -231,7 +231,7 @@ function rooted(): string {
       "page-type",
       slug,
       `export const it = { id: "${idFor(n)}", slug: "${slug}", pageTypeSlug: "page-type",` +
-        ' extendsSlug: "page-type/page" }\n'
+        ' extendsSlug: ["page-type/page"] }\n'
     )
   }
   return root
@@ -260,7 +260,7 @@ test("a page of a page type the change itself adds is a page, not a stray", () =
   const root = rooted()
   const said = judged(
     arriving(root, {
-      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(10)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: null }\n`,
+      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(10)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
       "akasha/b/x.probe.ts": `export const x = { id: "${idFor(11)}", slug: "x", pageTypeSlug: "probe" }\n`,
     })
   )
@@ -272,7 +272,7 @@ test("a file standing beside a page through a file property the change adds is n
   const said = judged(
     arriving(root, {
       "akasha/b/notes.file-property.ts": `export const notes = { id: "${idFor(20)}", slug: "notes", pageTypeSlug: "file-property", propertySlug: "notes" }\n`,
-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(21)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, notes: "ts" }\n`,
+      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(21)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [], notes: "ts" }\n`,
       "akasha/b/one.page-type.notes.ts": "export const held = 1\n",
     })
   )
@@ -287,7 +287,7 @@ test("a file a page claims under the name its property states is no stray", () =
   carrying(root, "page-type", ["manifest"], "page")
   const said = judged(
     arriving(root, {
-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(30)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, manifest: "json" }\n`,
+      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(30)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [], manifest: "json" }\n`,
       "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
     })
   )
@@ -299,7 +299,7 @@ test("a file no page claims is a stray still, though its name is one a property 
   declaring(root, "manifest", MANIFEST)
   const said = judged(
     arriving(root, {
-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(31)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null }\n`,
+      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(31)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
       "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
     })
   )
@@ -315,7 +315,7 @@ test("a name no property states is a stray though a page claims the path", () =>
   pathFiled(root, path, [{ path: page, id: idFor(32) }])
   const said = judged(
     arriving(root, {
-      [page]: `export const one = { id: "${idFor(32)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null }\n`,
+      [page]: `export const one = { id: "${idFor(32)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
       [path]: "read me\n",
     })
   )
@@ -352,7 +352,7 @@ test("a shape judging no folder is never loaded", () => {
   pathFiled(root, beside, [{ path: shape, id: idFor(40) }])
   const said = judged(
     arriving(root, {
-      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(41)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: null }\n`,
+      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(41)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
     })
   )
   expect(said).toEqual([])

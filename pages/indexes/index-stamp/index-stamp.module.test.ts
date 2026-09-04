@@ -17,7 +17,7 @@ import {
 const NOWHERE = "0000000000000000000000000000000000000000"
 
 const A_PAGE =
-  'export const it = { id: "01a04de3-0000-7000-8000-00000000000a", pageTypeSlug: "page-type", slug: "a", extendsSlug: null } as const\n'
+  'export const it = { id: "01a04de3-0000-7000-8000-00000000000a", pageTypeSlug: "page-type", slug: "a", extendsSlug: [] } as const\n'
 
 const scratch = scratchWorld()
 

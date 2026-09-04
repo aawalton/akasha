@@ -198,9 +198,10 @@ export type Planted = {
   readonly code: string
 }
 
-export const THING_BODY = 'export const thing = { slug: "thing", extendsSlug: "page-type/page" }\n'
+export const THING_BODY =
+  'export const thing = { slug: "thing", extendsSlug: ["page-type/page"] }\n'
 
-export const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: null }\n'
+export const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: [] }\n'
 
 const TYPES: readonly { readonly slug: string; readonly at: string; readonly body: string }[] = [
   { slug: "thing", at: THING_TYPE, body: THING_BODY },

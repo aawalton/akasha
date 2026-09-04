@@ -104,7 +104,7 @@ export function naming(
 const PAGE_ID = "01a04d99-71ca-7e06-9000-000000000000"
 
 const PAGE_DECLARES =
-  ', extendsSlug: null, properties: [{ pagePropertySlug: "id", required: true, many: false }' +
+  ', extendsSlug: [], properties: [{ pagePropertySlug: "id", required: true, many: false }' +
   ', { pagePropertySlug: "slug", required: true, many: false }]'
 
 export function rooted(carrying: boolean = true): string {

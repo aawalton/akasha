@@ -257,7 +257,7 @@ test("a property of a page type the change itself adds is judged too", () => {
     landing(root, {
       "akasha/measure-property.page-type.ts": new TextEncoder().encode(
         `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
-          `slug: "measure-property", extendsSlug: "page-type/page-property" }\n`
+          `slug: "measure-property", extendsSlug: ["page-type/page-property"] }\n`
       ),
       [pathFor("measure-property", "held")]: body("measure-property", "held", ONE),
     })

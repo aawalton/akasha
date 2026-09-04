@@ -45,7 +45,7 @@ const PAGE_TYPE_AT = "akasha/page-type.page-type.ts"
 
 const PAGE_TYPE_BODY =
   `export const held = { id: "${TYPE_ID}", pageTypeSlug: "page-type", slug: "page-type",` +
-  ' extendsSlug: null, properties: [{ pagePropertySlug: "id", required: true, many: false },' +
+  ' extendsSlug: [], properties: [{ pagePropertySlug: "id", required: true, many: false },' +
   ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
 
 function property(

@@ -91,7 +91,7 @@ const KNOWN: Shaped = {
 }
 
 test("an address is found under the key stating it", () => {
-  const value = { partSlugs: ["page-type/seat"], extendsSlug: "seat" }
+  const value = { partSlugs: ["page-type/seat"], extendsSlug: ["seat"] }
   expect(addressedIn(value, KNOWN, SEAT_ID)).toEqual([
     { key: "partSlugs", named: "page-type/seat" },
     { key: "extendsSlug", named: "seat" },
@@ -110,7 +110,7 @@ test("the page type a page is states no address, a rename restating it by its ke
 })
 
 test("an address naming a page reaching somebody else is not this rename's", () => {
-  expect(addressedIn({ extendsSlug: "page-type/seat" }, KNOWN, VERA_ID)).toEqual([])
+  expect(addressedIn({ extendsSlug: ["page-type/seat"] }, KNOWN, VERA_ID)).toEqual([])
 })
 
 test("an address to the page type is rewritten in the form it was written in", () => {

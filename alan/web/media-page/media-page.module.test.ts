@@ -4,14 +4,14 @@ const PAGE_ID = "019db5f4-063c-710f-a432-4c822d31915a"
 
 const MEDIA_ROW = {
   slug: "story-chapter",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mediaConfig: {
     audio: { sourcePropertyId: "body", renderer: "tts", variantAxis: "narrator" },
     image: { renderer: "z-image-turbo" },
   },
 }
-const HEIR_ROW = { slug: "story-chapter-written", extendsSlug: "page-type/story-chapter" }
-const PLAIN_ROW = { slug: "page", extendsSlug: null }
+const HEIR_ROW = { slug: "story-chapter-written", extendsSlug: ["page-type/story-chapter"] }
+const PLAIN_ROW = { slug: "page", extendsSlug: [] }
 
 let storeAnswers = true
 

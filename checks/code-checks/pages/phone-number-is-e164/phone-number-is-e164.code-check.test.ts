@@ -149,7 +149,7 @@ test("a page type the change itself puts under `phone-number-property` is judged
   const root = rooted()
   const above = bytesOf(
     `export const held = { id: ${JSON.stringify(MOBILE)}, pageTypeSlug: "page-type", ` +
-      `slug: "mobile-number-property", extendsSlug: "page-type/phone-number-property" }\n`
+      `slug: "mobile-number-property", extendsSlug: ["page-type/phone-number-property"] }\n`
   )
   const said = judged(root, { [MOBILE_AT]: above, [AT]: person('mobile: "6085122510"') })
   expect(said.map((one) => one.path)).toEqual([AT])

@@ -10,7 +10,7 @@ function parentIdsOf(
   idBySlug: ReadonlyMap<string, string>
 ): readonly string[] {
   const said = pt.properties?.extendsSlug
-  const named = typeof said === "string" ? [said] : Array.isArray(said) ? said : []
+  const named = Array.isArray(said) ? said : []
   const found: string[] = []
   for (const one of named) {
     if (typeof one !== "string" || one === "") continue

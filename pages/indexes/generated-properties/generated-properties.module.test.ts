@@ -55,7 +55,7 @@ function typed(root: string, slug: string, declares: readonly string[]): undefin
     root,
     at,
     `export const held = { id: "${ID}", pageTypeSlug: "page-type", slug: "${slug}",` +
-      ` extendsSlug: null, properties: [${carried}] }\n`
+      ` extendsSlug: [], properties: [${carried}] }\n`
   )
   filed(root, `identity/page-type/slug/${slug}.jsonl`, { path: at, id: ID })
 }

@@ -58,6 +58,15 @@ export const checkScratch = {
       statement: "No test is written here.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "What a page type declares is read from its value, so typing one files that value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type files the types above it as a list, empty where it names none.",
+    },
+    {
       invariantKind: "absence",
       statement: "What stands here is stood up by the check tests that reach for what is here.",
     },

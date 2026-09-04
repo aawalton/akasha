@@ -20,14 +20,14 @@ const TYPES: readonly Valued[] = [
     path: "one/thing.page-type.ts",
     value: {
       slug: "thing",
-      extendsSlug: "page-type/page",
+      extendsSlug: ["page-type/page"],
       properties: [
         { pagePropertySlug: "title", required: true, many: false },
         { pagePropertySlug: "note", required: false, many: true, max: 3 },
       ],
     },
   },
-  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: null } },
+  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: [] } },
 ]
 
 const PROPERTIES = new Map<string, readonly Valued[]>([
@@ -157,7 +157,7 @@ test("a property pointing at a page type is drawn as pointing at it", () => {
       path: "one/held.page-type.ts",
       value: {
         slug: "held",
-        extendsSlug: null,
+        extendsSlug: [],
         properties: [{ pagePropertySlug: "title", required: true, many: false }],
       },
     },
@@ -205,8 +205,8 @@ const ABOVE_TWO: readonly Valued[] = [
     path: "one/held.page-type.ts",
     value: { slug: "held", extendsSlug: ["page-type/module", "page-type/page-property"] },
   },
-  { path: "one/module.page-type.ts", value: { slug: "module", extendsSlug: "page-type/page" } },
-  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: null } },
+  { path: "one/module.page-type.ts", value: { slug: "module", extendsSlug: ["page-type/page"] } },
+  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: [] } },
 ]
 
 test("a page type naming two types above it is answered on one row for each", () => {
@@ -230,13 +230,13 @@ test("a page type naming one type above it is answered on the one row it always 
 
 test("a kind of property is reached through any of the types above it", () => {
   const types = new Map<string, Record<string, unknown>>([
-    ["module", { slug: "module", extendsSlug: "page-type/page" }],
-    ["page-property", { slug: "page-property", extendsSlug: "page-type/page" }],
+    ["module", { slug: "module", extendsSlug: ["page-type/page"] }],
+    ["page-property", { slug: "page-property", extendsSlug: ["page-type/page"] }],
     [
       "computed-property",
       { slug: "computed-property", extendsSlug: ["page-type/module", "page-type/page-property"] },
     ],
-    ["faith-points", { slug: "faith-points", extendsSlug: "page-type/computed-property" }],
+    ["faith-points", { slug: "faith-points", extendsSlug: ["page-type/computed-property"] }],
   ])
 
   expect([...propertyKindsIn(types)].sort()).toEqual(["computed-property", "faith-points"])

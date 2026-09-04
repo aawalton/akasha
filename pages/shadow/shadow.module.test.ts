@@ -88,7 +88,7 @@ const CHANGES: readonly FileEdit[] = [
     id: idOf("t"),
     pageTypeSlug: "page-type",
     slug: "tag",
-    extendsSlug: "page-type/domain",
+    extendsSlug: ["page-type/domain"],
   }),
   aChange("h.tag.ts", { id: idOf("h"), pageTypeSlug: "tag", slug: "h", note: "domain/b" }),
 ]

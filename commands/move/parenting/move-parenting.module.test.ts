@@ -56,15 +56,15 @@ function built(): string {
     repoWith({
       "akasha/domain.page-type.ts": paged("domain", "page-type", {
         pluralSlug: "domains",
-        extendsSlug: null,
+        extendsSlug: [],
       }),
       "akasha/module.page-type.ts": paged("module", "page-type", {
         pluralSlug: "modules",
-        extendsSlug: "page-type/domain",
+        extendsSlug: ["page-type/domain"],
       }),
       "akasha/workspace-package.page-type.ts": paged("workspace-package", "page-type", {
         pluralSlug: "workspace-packages",
-        extendsSlug: "page-type/domain",
+        extendsSlug: ["page-type/domain"],
       }),
       [AT]: paged("one", "workspace-package", { partSlugs: ["module/held"] }),
       [HELD]: paged("held", "module"),

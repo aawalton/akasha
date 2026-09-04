@@ -273,7 +273,7 @@ test("a page of a page type the change itself adds is judged too", () => {
     landing(root, {
       "akasha/module.page-type.ts": new TextEncoder().encode(
         `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
-          `slug: "module", extendsSlug: "page-type/domain" }\n`
+          `slug: "module", extendsSlug: ["page-type/domain"] }\n`
       ),
       [pathFor("module", "held")]: body("module", "held", ONE),
     })

@@ -60,13 +60,13 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     id: "1",
     pageTypeSlug: "page-type",
     slug: "domain",
-    extendsSlug: "page",
+    extendsSlug: ["page"],
   })
   page("module.page-type.ts", {
     id: "2",
     pageTypeSlug: "page-type",
     slug: "module",
-    extendsSlug: "domain",
+    extendsSlug: ["domain"],
   })
   page("parts.record-property.ts", {
     id: "3",

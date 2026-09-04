@@ -37,7 +37,7 @@ test("the owner is read from the second page type above where the first states n
 test("the owner is taken from the nearer of the page types above", () => {
   const held = typesHeld({
     under: { extendsSlug: ["page-type/close", "page-type/apart"] },
-    close: { extendsSlug: "page-type/distant" },
+    close: { extendsSlug: ["page-type/distant"] },
     apart: { ownerSlug: "apart-owner" },
     distant: { ownerSlug: "distant-owner" },
   })

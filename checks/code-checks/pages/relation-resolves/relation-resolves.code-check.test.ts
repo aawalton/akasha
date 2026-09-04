@@ -367,7 +367,7 @@ const R_ID = "01a04d99-71ca-7e06-8000-00000000000d"
 test("a page type the change introduces admits a page named through it", () => {
   const root = rooted()
   const bodies = {
-    [P]: stating(P_ID, "probe", "page-type", ', extendsSlug: "page-type/domain"'),
+    [P]: stating(P_ID, "probe", "page-type", ', extendsSlug: ["page-type/domain"]'),
     [X]: stating(X_ID, "x", "probe"),
     [A]: stating(A_ID, "a", "note", ', domainSlug: "probe/x"'),
   }

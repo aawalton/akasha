@@ -200,7 +200,7 @@ test("two pages of a page type the change itself adds carrying one slug are refu
     landing(root, {
       [pathFor("page-type", "widget")]: bytesOf(
         `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: "page-type", ` +
-          'slug: "widget", extendsSlug: "page-type/page" }\n'
+          'slug: "widget", extendsSlug: ["page-type/page"] }\n'
       ),
       [pathFor("widget", "one")]: body("widget", "held", ONE),
       [pathFor("widget", "two")]: body("widget", "held", TWO),

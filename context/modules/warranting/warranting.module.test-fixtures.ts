@@ -236,7 +236,7 @@ export function roleListed(root: string, slug: string): Listed {
 export function pageTypeListed(root: string, slug: string, above: string | null): string {
   const id = mintedId(`type-${slug}`)
   const path = `akasha/${slug}/${slug}.page-type.ts`
-  const said = above === null ? "" : `, extendsSlug: "page-type/${above}"`
+  const said = above === null ? "" : `, extendsSlug: ["page-type/${above}"]`
   writing(
     root,
     path,
