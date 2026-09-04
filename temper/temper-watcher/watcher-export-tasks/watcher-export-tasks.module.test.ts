@@ -51,7 +51,7 @@ const LEGACY_CONTENT = `TemperCharacters_SavedVariables =
             {
                 ["tasks"] =
                 {
-                    ["task-pg-7"] =
+                    ["row-id-1"] =
                     {
                         ["title"] = "Daily writs",
                         ["description"] = nil,
@@ -108,7 +108,7 @@ TemperCharactersConfig =
     },
     ["tasks"] =
     {
-        ["task-pg-7"] =
+        ["row-id-1"] =
         {
             ["title"] = "Daily writs",
             ["description"] = nil,
@@ -177,13 +177,12 @@ const WRITTEN_HASH = "sha-of-what-was-wanted"
 const TASK_ROWS: readonly Page[] = [
   asPage({
     id: "row-id-1",
-    pgId: "task-pg-7",
     title: "Daily writs",
     rruleRule: "FREQ=DAILY",
     dueDate: "2026-01-02",
     scope: "character",
     character: "char-page-a",
-    sortOrder: 3,
+    displayOrder: 3,
     priority: "high",
     completionCardId: "daily-writs",
     completionItemPath: ["alchemy", 2],
@@ -349,14 +348,14 @@ test("only a task awaiting sync is marked back, and every task is named", async 
 })
 
 test("a task row carrying no page id is left out", async () => {
-  const seam = recording([asPage({ pgId: "no-id-at-all" })], [])
+  const seam = recording([asPage({ title: "no id at all" })], [])
   const result = await runExportTasks(CONTENT, SUPABASE, seam.options)
   expect(result.modified).toBe(false)
   expect(seam.said).toEqual(["No tasks to export."])
 })
 
-test("a task is keyed by its pgId where it has one and by its page id otherwise", () => {
-  expect(taskKey(asPage({ id: "row-id-1", pgId: "task-pg-7" }))).toBe("task-pg-7")
+test("a task is keyed by its page id", () => {
+  expect(taskKey(asPage({ id: "row-id-1" }))).toBe("row-id-1")
   expect(taskKey(asPage({ id: "row-id-2" }))).toBe("row-id-2")
 })
 

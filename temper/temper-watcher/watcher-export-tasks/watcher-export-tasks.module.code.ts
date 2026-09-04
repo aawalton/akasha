@@ -94,11 +94,11 @@ export function itemPathAt(
 }
 
 export function taskKey(row: Page): string {
-  return stringAt(row, "pgId") ?? row.id
+  return row.id
 }
 
 export function taskDataFrom(row: Page, esoCharacterId: string | null): TaskData {
-  const sortOrder = row.sortOrder
+  const sortOrder = row.displayOrder
   return {
     title: stringAt(row, "title") ?? "",
     description: stringAt(row, "description"),
@@ -142,7 +142,7 @@ export async function completionOverridesByEsoCharacter(
 ): Promise<Record<string, CompletionOverride[]>> {
   const rows = await collect({
     pageTypeSlug: COMPLETION_OVERRIDE_PAGE_TYPE_SLUG,
-    where: [{ key: "userId", eq: userId }],
+    where: [{ key: "accountPage", eq: userId }],
     pageSize: ROWS_PER_READ,
   })
 
