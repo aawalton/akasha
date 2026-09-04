@@ -43,6 +43,7 @@
     "./declared-seat-reading": "./declared-seat-reading/declared-seat-reading.module.code.ts",
     "./documents-on-demand": "./documents-on-demand/documents-on-demand.module.code.ts",
     "./seat-action": "./seat-action/seat-action.module.code.ts",
+    "./agent-page-reading": "./agent-page-reading/agent-page-reading.module.code.ts",
     "./seat-forest": "./seat-forest/seat-forest.module.code.ts",
     "./seat-conditions-reading": "./seat-conditions-reading/seat-conditions-reading.module.code.ts",
     "./seat-reset-help": "./seat-reset-help/seat-reset-help.module.code.ts",
