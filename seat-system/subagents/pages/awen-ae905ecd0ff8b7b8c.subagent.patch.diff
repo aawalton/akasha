@@ -1,0 +1,20 @@
+diff --git a/command-system/commands/patch/patch.command.test.ts b/command-system/commands/patch/patch.command.test.ts
+index 41490d7cbded565c7e85eda82191aecfde1876a3..7422f6c6e9fdd997a8494f36f4ac0d20ab4c82b0 100644
+--- a/command-system/commands/patch/patch.command.test.ts
++++ b/command-system/commands/patch/patch.command.test.ts
+@@ -60,13 +60,13 @@ function piped(body: string): Piping {
+ }
+ 
+ test("a word this command carries no act for is refused", async () => {
+-  const said = patch(["frobnicate"], given(await repo()))
++  const said = await patch(["frobnicate"], given(await repo()))
+   expect(said.code).toBe(1)
+   expect(said.refusals.join("\n")).toContain("is no act of")
+ })
+ 
+ test("an agent naming no page is refused", async () => {
+-  const said = patch([], given(await repo()))
++  const said = await patch([], given(await repo()))
+   expect(said.code).toBe(1)
+   expect(said.report).toEqual([])
+ })
