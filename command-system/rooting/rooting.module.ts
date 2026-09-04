@@ -4,7 +4,7 @@ export const rooting = {
   id: "01a04f5a-6229-7bed-be21-ddab3550449e",
   pageTypeSlug: "module",
   slug: "rooting",
-  definition: "the akasha checkout a file is in, which is the akasha folder itself",
+  definition: "the akasha checkout a file is in, found by walking up to its domain page",
   code: "ts",
   test: "ts",
   invariants: [

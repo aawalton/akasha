@@ -109,11 +109,11 @@ export const lintException = {
     },
     {
       invariantKind: "constraint",
-      statement: "The linter's config sits outside the akasha folder.",
+      statement: "The linter's config sits at the root of this repository.",
     },
     {
       invariantKind: "constraint",
-      statement: "A check under akasha is handed no path outside the akasha folder.",
+      statement: "A check is handed no path outside this repository.",
     },
     {
       invariantKind: "gap",

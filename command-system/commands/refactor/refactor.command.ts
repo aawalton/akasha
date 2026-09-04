@@ -46,7 +46,7 @@ export const refactor = {
     "a plural is stated rather than worked out, so it is asked for rather than guessed.",
     "a package rename takes the name it carries now and the name it becomes.",
     "a package rename moves no folder and changes no page's slug.",
-    "a tracked file outside the akasha folder naming a renamed package is respelled with it.",
+    "a tracked file the index does not carry naming a renamed package is respelled too.",
     "`page-type` itself is refused, being the tail every page type's own file carries.",
     "a page slug rename takes the address a page is at, since a slug alone reaches no page.",
     "a page slug rename carries the page's own file and the files beside it to the new name.",

@@ -48,7 +48,7 @@ export const moveArguing = {
     },
     {
       invariantKind: "absence",
-      statement: "Whether a path is under the akasha folder is judged elsewhere.",
+      statement: "Whether a path is in the repository is judged elsewhere.",
     },
   ],
 } as const satisfies Module

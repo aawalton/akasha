@@ -34,12 +34,12 @@ export const changeFreshness = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit reaching nothing under `akasha/` can change no verdict.",
+      statement: "A commit reaching nothing this repository holds can change no verdict.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What reached `akasha/` between two commits and will not read at all is taken as having reached it.",
+        "A path that changed between two commits and will not read is taken as having changed.",
     },
   ],
 } as const satisfies Module

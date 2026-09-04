@@ -134,15 +134,15 @@ export const asking = {
     },
     {
       invariantKind: "constraint",
-      statement: "A reading is taken of what is under `akasha/` alone.",
+      statement: "A reading is taken of what this repository holds alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A path outside `akasha/` is recorded as read by nobody.",
+      statement: "A path outside this repository is recorded as read by nobody.",
     },
     {
       invariantKind: "departure",
-      statement: "A path outside `akasha/` is held to no reading of the caller's.",
+      statement: "A path outside this repository is held to no reading of the caller's.",
     },
     {
       invariantKind: "departure",

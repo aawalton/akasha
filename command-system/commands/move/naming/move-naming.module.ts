@@ -4,7 +4,7 @@ export const moveNaming = {
   id: "01a06310-8e44-7798-ae4b-af7b4b182be8",
   pageTypeSlug: "module",
   slug: "move-naming",
-  definition: "the tracked files under the akasha folder that name a path a move is carrying",
+  definition: "the tracked files that name a path a move is carrying",
   code: "ts",
   test: "ts",
   invariants: [

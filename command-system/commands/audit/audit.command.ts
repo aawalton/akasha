@@ -4,7 +4,7 @@ export const audit = {
   id: "01a04fba-6d24-7935-80d4-8a1433dc03d4",
   pageTypeSlug: "command",
   slug: "audit",
-  definition: "every check that runs at audit, over every file the akasha folder holds",
+  definition: "every check that runs at audit, over every file this repository holds",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
