@@ -313,9 +313,10 @@ export function claimMessage(to: string, id: string, atMs: number = Date.now()):
   return true
 }
 
-export function releaseClaim(to: string, id: string): void {
-  const root = akashaRoot()
-  const held = heldAt(to, id)
+// THE SIDECAR IS DROPPED FOR THE STORE ALREADY RESOLVED. `heldAt` answers by what is on disk,
+// so calling it again after the page has gone resolves to the other store and drops the wrong
+// file, leaving the sidecar of the message just read behind for good.
+function besideGone(root: string, held: { readonly relPath: string; readonly page: boolean }) {
   if (held.page) {
     removeBesidePage(root, held.relPath)
     return
@@ -323,12 +324,16 @@ export function releaseClaim(to: string, id: string): void {
   removeBesideMarkdown(`${root}/${held.relPath}`)
 }
 
+export function releaseClaim(to: string, id: string): void {
+  besideGone(akashaRoot(), heldAt(to, id))
+}
+
 export function takeMessage(to: string, id: string): Taken {
   const root = akashaRoot()
   const held = heldAt(to, id)
   const absolute = `${root}/${held.relPath}`
   if (!existsSync(absolute)) {
-    releaseClaim(to, id)
+    besideGone(root, held)
     return { kind: "gone" }
   }
   const taken = landRemovals(
@@ -340,6 +345,6 @@ export function takeMessage(to: string, id: string): Taken {
     [held.relPath]
   )
   if (!taken.ok) return { kind: "refused", detail: whyRefused(taken.why) }
-  releaseClaim(to, id)
+  besideGone(root, held)
   return { kind: "taken" }
 }
