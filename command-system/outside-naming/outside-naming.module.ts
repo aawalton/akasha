@@ -22,11 +22,23 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "More names than one command line carries are asked for over more calls.",
+      statement: "Every name is asked after in one search.",
     },
     {
       invariantKind: "departure",
-      statement: "What every call found is answered as one answer with each path said once.",
+      statement: "The names one search asks after reach git through what git reads in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A search runs on no more than four threads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The parts joined into one pattern are bounded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a search found is answered with each path said once.",
     },
     {
       invariantKind: "departure",

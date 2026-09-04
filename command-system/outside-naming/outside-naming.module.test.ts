@@ -116,7 +116,7 @@ test("a character a pattern would read as a pattern is looked for as that charac
   expect("paths" in found ? found.paths : ["it refused"]).toEqual([])
 })
 
-test("more names than one command line carries are asked for over more calls", () => {
+test("the parts joined into one pattern are bounded", () => {
   const many = Array.from({ length: 20000 }, (_at, index) => `part-of-a-path-${index}`)
   const batches = batchedIn(many)
   expect(batches.length).toBeGreaterThan(1)
