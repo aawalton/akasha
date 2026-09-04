@@ -1,0 +1,82 @@
+diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
+index bef30c84954a97b11d97e45e4b1a3461f9364c58..51e3b33da596d7acd89f67f119b89fe1815b5117 100644
+--- a/command-system/outside-naming/outside-naming.module.ts
++++ b/command-system/outside-naming/outside-naming.module.ts
+@@ -34,7 +34,7 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The parts one call asks after share a pattern rather than taking one each.",
++      statement: "The parts one call asks after share one pattern.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/graph/file-kind-authorship/file-kind-authorship.module.ts b/graph/file-kind-authorship/file-kind-authorship.module.ts
+index 4806cd87bc5636f8b97b6548899a6eca1c008be5..35891768ff9834779b79164ad4d67983cbe37bdc 100644
+--- a/graph/file-kind-authorship/file-kind-authorship.module.ts
++++ b/graph/file-kind-authorship/file-kind-authorship.module.ts
+@@ -11,7 +11,7 @@ export const fileKindAuthorship = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A file kind is authored or serialized and never both.",
++      statement: "A file kind is either authored or serialized.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts b/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
+index f314d187ed464ec76145363203abd9732ed76705..306fa9b0cf7915af917509e2215dcde796cc972c 100644
+--- a/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
++++ b/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
+@@ -9,7 +9,7 @@ export const operatorClassification = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A token is an operator, an operand, or counted as neither.",
++      statement: "A token is an operator, an operand, or uncounted.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+index 60146063f084a225f72b0b1d1e436ac8944f69ed..830968b42921da1b6dba0eaf9fa59e016632b1be 100644
+--- a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
++++ b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+@@ -29,7 +29,11 @@ export const inferenceVideoQa = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A clip or a directory of frames is named, never both and never neither.",
++      statement: "A clip or a directory of frames is named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A clip and a directory of frames are never named together.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts b/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts
+index d4a4ed39313de639221a446ed07233b91d476c95..27bc1a1f0b6e3e2855b32fbd6042f3720fac6ada 100644
+--- a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts
++++ b/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts
+@@ -13,7 +13,7 @@ export const synthManifests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pass either writes or checks rather than doing both.",
++      statement: "A pass either writes or checks.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/infrastructure/upscale/upscale.workspace-package.ts b/infrastructure/upscale/upscale.workspace-package.ts
+index 284248fc3551fa78ac71f5d75d92f4d341ea0571..b3971f66e347eb024ba6d3e1a916788f03e1f529 100644
+--- a/infrastructure/upscale/upscale.workspace-package.ts
++++ b/infrastructure/upscale/upscale.workspace-package.ts
+@@ -40,7 +40,7 @@ export const upscale = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run goes to a cluster GPU or to the workstation's own, never to both.",
++      statement: "A run goes either to a cluster GPU or to the workstation's own.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
