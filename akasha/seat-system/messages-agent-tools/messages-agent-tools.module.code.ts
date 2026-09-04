@@ -1,4 +1,3 @@
-import { basename } from "node:path"
 import {
   claimMessage,
   releaseClaim,
@@ -8,8 +7,6 @@ import { watchMessagesTo } from "../messaging/message-file-watch/message-file-wa
 import { startDeliveryWitness } from "../messaging/messages-delivery-witness/messages-delivery-witness.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import { transcriptOf } from "../seat-transcript-path/seat-transcript-path.module.code.ts"
-
-const PAGE_SUFFIX = ".md"
 
 const WITNESS_HEARTBEAT_MS = 30_000
 
