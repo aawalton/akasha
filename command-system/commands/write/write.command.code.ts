@@ -444,8 +444,7 @@ export async function filing(
   given: Given,
   piping: Piping
 ): Promise<Answer> {
-  const { changeKind, ...bare } = given
-  const built = builtIn(argv, bare, piping)
+  const built = builtIn(argv, given, piping)
   if ("code" in built) return built
   return await landedMechanically(given.root, given.calledAs, built.changes, built.message)
 }
