@@ -1,5 +1,4 @@
 import type { Domain } from "@akasha/domain-system/domain"
-import type { PersonaSlug } from "@akasha/domain-system/persona-slug"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { PointsSourceAggregate } from "./properties/points-source-aggregate.text-property.ts"
 import type { PointsSourceKind } from "./properties/points-source-kind.text-property.ts"
@@ -8,9 +7,10 @@ import type { PointsSourcePathPrefix } from "./properties/points-source-path-pre
 import type { PointsSourcePointField } from "./properties/points-source-point-field.text-property.ts"
 import type { PointsSourceReadings } from "./properties/points-source-readings.text-property.ts"
 import type { PointsSourceWeightField } from "./properties/points-source-weight-field.text-property.ts"
+import type { SourcePersonaSlug } from "./properties/source-persona-slug.relation-property.ts"
 
 export type PersonaPointsSource = Domain & {
-  personaSlug: PersonaSlug
+  personaSlug: SourcePersonaSlug
   kind: PointsSourceKind
   marker?: PointsSourceMarker
   aggregate?: PointsSourceAggregate
@@ -28,6 +28,7 @@ export const personaPointsSource = {
   pluralSlug: "persona-points-sources",
   extendsSlug: "page-type/domain",
   partSlugs: [
+    "relation-property/source-persona-slug",
     "text-property/points-source-kind",
     "text-property/points-source-marker",
     "text-property/points-source-aggregate",
