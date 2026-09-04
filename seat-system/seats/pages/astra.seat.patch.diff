@@ -1,3 +1,13 @@
+diff --git a/pages/query-hold/page-query-hold.module.code.ts b/pages/query-hold/page-query-hold.module.code.ts
+index f4e73b8cb6758f41ed08d58024ef572b87203dd0..d0469c9422461bc947a76d542cc89f9e65cbe148 100644
+--- a/pages/query-hold/page-query-hold.module.code.ts
++++ b/pages/query-hold/page-query-hold.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { Said } from "../page-query-request/page-query-request.module.code.ts"
++import type { Said } from "../query-request/page-query-request.module.code.ts"
+ 
+ let answerTtlMs = 0
+ 
 diff --git a/pages/query-keys/page-query-keys.module.code.ts b/pages/query-keys/page-query-keys.module.code.ts
 index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..63092fb719e5297710d7d960f356280a0fcaea62 100644
 --- a/pages/query-keys/page-query-keys.module.code.ts
