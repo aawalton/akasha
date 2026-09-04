@@ -3,8 +3,8 @@ import { sessionProjectDir } from "./supervisor-session-project-dir.module.code.
 
 describe("sessionProjectDir", () => {
   test("names the directory under the config directory it is handed", () => {
-    expect(sessionProjectDir("/var/tmp", "/somewhere/.claude")).toBe(
-      `/somewhere/.claude/projects/${require("node:fs").realpathSync("/var/tmp").replaceAll("/", "-")}`
+    expect(sessionProjectDir("/tmp", "/somewhere/.claude")).toBe(
+      `/somewhere/.claude/projects/${require("node:fs").realpathSync("/tmp").replaceAll("/", "-")}`
     )
   })
 

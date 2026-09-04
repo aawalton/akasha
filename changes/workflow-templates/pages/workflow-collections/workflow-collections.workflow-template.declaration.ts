@@ -25,7 +25,7 @@ export const workflows = [
         ...step({
           name: "collections-mirror-s3-creds",
           image: IMAGES.CI,
-          environment: { HOME: "/var/tmp" },
+          environment: { HOME: "/tmp" },
           commands: [
             "set -e",
             "kubectl get secret seaweedfs-creds -n seaweedfs -o json | " +

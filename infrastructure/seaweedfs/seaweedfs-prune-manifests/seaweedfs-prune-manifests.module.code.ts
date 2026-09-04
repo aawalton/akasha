@@ -25,7 +25,7 @@ function secretEnv(name: string, secretName: string, key: string) {
 
 function rcloneEnv() {
   return [
-    { name: "HOME", value: "/var/tmp" },
+    { name: "HOME", value: "/tmp" },
     { name: "RCLONE_CONFIG_SRC_TYPE", value: "s3" },
     { name: "RCLONE_CONFIG_SRC_PROVIDER", value: "Other" },
     { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: S3_GATEWAY_ENDPOINT },
@@ -90,7 +90,7 @@ export function pruneSessionsCronJobYaml(): string {
                     allowPrivilegeEscalation: false,
                     capabilities: { drop: ["ALL"] },
                   },
-                  volumeMounts: [{ name: "tmp", mountPath: "/var/tmp" }],
+                  volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
                 },
               ],
               volumes: [{ name: "tmp", emptyDir: { sizeLimit: "256Mi" } }],

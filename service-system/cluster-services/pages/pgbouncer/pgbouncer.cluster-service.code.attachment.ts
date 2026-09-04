@@ -125,7 +125,7 @@ function deploymentYaml(): string {
                   subPath: "userlist.txt",
                   readOnly: true,
                 },
-                { name: "tmp", mountPath: "/var/tmp" },
+                { name: "tmp", mountPath: "/tmp" },
                 { name: "run", mountPath: "/run" },
               ],
               readinessProbe: {

@@ -115,7 +115,7 @@ export function deploymentYaml(): string {
               volumeMounts: [
                 { name: "config", mountPath: "/etc/loki" },
                 { name: "data", mountPath: "/loki" },
-                { name: "tmp", mountPath: "/var/tmp" },
+                { name: "tmp", mountPath: "/tmp" },
               ],
             },
           ],

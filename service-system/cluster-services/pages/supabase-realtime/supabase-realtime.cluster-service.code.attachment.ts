@@ -271,7 +271,7 @@ function deploymentYaml(): string {
                   add: ["SETUID", "SETGID", "AUDIT_WRITE"],
                 },
               },
-              volumeMounts: [{ name: "tmp", mountPath: "/var/tmp" }],
+              volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
               readinessProbe: {
                 httpGet: { path: "/healthcheck", port: 4000 },
                 initialDelaySeconds: 10,

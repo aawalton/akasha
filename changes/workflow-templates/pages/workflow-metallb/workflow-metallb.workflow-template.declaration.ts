@@ -21,7 +21,7 @@ export default workflow("metallb", {
       ...step({
         name: "metallb-apply-ip-pool",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -38,7 +38,7 @@ export default workflow("metallb", {
       ...step({
         name: "metallb-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap metallb-pipeline-state -n metallb-system --dry-run=client -o yaml | kubectl apply -f -",

@@ -14,8 +14,8 @@ export const LOG = "[local]"
 function getAgentCacheDir(): string {
   const cacheDir = shape.string().optional().parse(process.env.AGENT_CACHE_DIR)
   if (cacheDir != null) return cacheDir
-  const home = shape.string().default("/var/tmp").parse(process.env.HOME)
-  return home === "/var/tmp" ? "/data/agent-cache" : home
+  const home = shape.string().default("/tmp").parse(process.env.HOME)
+  return home === "/tmp" ? "/data/agent-cache" : home
 }
 
 function getAgentCachePaths(baseDir: string) {

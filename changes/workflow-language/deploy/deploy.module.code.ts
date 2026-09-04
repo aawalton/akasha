@@ -34,7 +34,7 @@ export function deploySetImage(config: DeploySetImageConfig): Step {
   return {
     name,
     image: IMAGES.KUBECTL,
-    environment: { HOME: "/var/tmp" },
+    environment: { HOME: "/tmp" },
     commands,
     backendOptions: {
       kubernetes: { serviceAccountName: "pipeline-engine" },

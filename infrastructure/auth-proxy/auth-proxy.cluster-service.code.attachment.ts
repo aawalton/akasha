@@ -197,7 +197,7 @@ function deploymentYaml(): string {
                 },
                 { name: "CORS_PATH_PREFIXES", value: "/auth/v1" },
               ],
-              volumeMounts: [{ name: "tmp", mountPath: "/var/tmp" }],
+              volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
               resources: {
                 requests: { cpu: "50m", memory: "2Gi" },
                 limits: { cpu: "500m", memory: "2Gi" },

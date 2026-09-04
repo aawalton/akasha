@@ -146,7 +146,7 @@ function cronjobYaml(): string {
                       image: JANITOR_IMAGE,
                       command: ["/bin/sh", "-c", JANITOR_SCRIPT],
                       env: [
-                        { name: "HOME", value: "/var/tmp" },
+                        { name: "HOME", value: "/tmp" },
                         { name: "MIN_AGE_SECONDS", value: DEFAULT_MIN_AGE_SECONDS },
                       ],
                       resources: {
@@ -160,7 +160,7 @@ function cronjobYaml(): string {
                         allowPrivilegeEscalation: false,
                         capabilities: { drop: ["ALL"] },
                       },
-                      volumeMounts: [{ name: "tmp", mountPath: "/var/tmp" }],
+                      volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
                     },
                   ],
                   volumes: [{ name: "tmp", emptyDir: {} }],

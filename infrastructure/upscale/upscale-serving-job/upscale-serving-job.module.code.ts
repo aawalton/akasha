@@ -46,7 +46,7 @@ export function buildUpscaleServingJob(params: UpscaleServingJobParams) {
   const blocksToSwap = params.blocksToSwap ?? DEFAULT_BLOCKS_TO_SWAP
 
   const env: readonly EnvVar[] = [
-    { name: "HOME", value: "/var/tmp" },
+    { name: "HOME", value: "/tmp" },
     { name: "SEAWEEDFS_S3_ENDPOINT", value: S3_ENDPOINT },
     {
       name: "SEAWEEDFS_ACCESS_KEY",

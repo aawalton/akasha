@@ -30,7 +30,7 @@ export default workflow("alanwalton-calendar-sync", {
       image: IMAGES.KUBECTL,
       dependsOn: ["alanwalton-calendar-sync-build"],
       when: [{ status: "success", branch: "main", event: "push" }],
-      environment: { HOME: "/var/tmp" },
+      environment: { HOME: "/tmp" },
       commands: (ci) => [
         "set -e",
         `sed "s|MUST_BE_SET_BY_DEPLOY_SCRIPT|${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}|g" calendar-sync/generated/cronjob.generated.yaml | kubectl apply --server-side --force-conflicts -n alanwalton -f -`,

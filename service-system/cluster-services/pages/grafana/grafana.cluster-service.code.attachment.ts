@@ -237,7 +237,7 @@ function deploymentYaml(): string {
                   mountPath: "/var/lib/grafana/dashboards",
                   readOnly: true,
                 },
-                { name: "tmp", mountPath: "/var/tmp" },
+                { name: "tmp", mountPath: "/tmp" },
                 { name: "log", mountPath: "/var/log/grafana" },
               ],
             },

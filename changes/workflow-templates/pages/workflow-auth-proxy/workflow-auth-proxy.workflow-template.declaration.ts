@@ -21,7 +21,8 @@ export default workflow("auth-proxy", {
     {
       ...applyRbac({
         name: "auth-proxy-apply-rbac",
-        rbacFile: "infrastructure/cluster-manifests/auth-proxy-rbac/auth-proxy-rbac.module.code.ts",
+        rbacFile:
+          "infrastructure/cluster-manifests/auth-proxy-rbac/auth-proxy-rbac.module.code.ts",
       }),
       dependsOn: ["auth-proxy-apply-namespace"],
     },
@@ -96,7 +97,7 @@ export default workflow("auth-proxy", {
         name: "auth-proxy-stamp-content-hash",
         image: IMAGES.KUBECTL,
 
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap auth-proxy-pipeline-state -n auth-proxy --dry-run=client -o yaml | kubectl apply -f -",

@@ -43,7 +43,7 @@ export default workflow("voice-infer", {
       ...step({
         name: "voice-infer-mirror-s3-creds",
         image: IMAGES.CI,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: ["set -e", MIRROR_S3_CREDS_CMD],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -56,7 +56,7 @@ export default workflow("voice-infer", {
       ...step({
         name: "voice-infer-apply-service",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -74,7 +74,7 @@ export default workflow("voice-infer", {
       ...step({
         name: "voice-infer-apply-deployment",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: () => [
           "set -e",
           ...checksumHashCommands({
@@ -100,7 +100,7 @@ export default workflow("voice-infer", {
       ...step({
         name: "voice-infer-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap voice-infer-pipeline-state -n voice --dry-run=client -o yaml | kubectl apply -f -",

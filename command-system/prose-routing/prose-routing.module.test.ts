@@ -50,7 +50,7 @@ test("saying both a flag and its route says one thing twice, and is refused", ()
   ])
   const both = new Map<string, string | readonly string[] | true>([
     ["--body", "said"],
-    ["--body-file", "/var/tmp/said"],
+    ["--body-file", "/tmp/said"],
   ])
   expect(() => planProseRouteReads(synthesized, both)).toThrow("cannot be set both as")
 })
@@ -59,8 +59,8 @@ test("a route said once is planned, and a route left unsaid is not", () => {
   const { synthesized } = expandProseRoutes([
     { name: "--body", argLabel: "<text>", valueShape: "prose" },
   ])
-  expect(planProseRouteReads(synthesized, new Map([["--body-file", "/var/tmp/one"]]))).toEqual([
-    { routeFlag: "--body-file", proseFlag: "--body", valueShape: "prose", paths: ["/var/tmp/one"] },
+  expect(planProseRouteReads(synthesized, new Map([["--body-file", "/tmp/one"]]))).toEqual([
+    { routeFlag: "--body-file", proseFlag: "--body", valueShape: "prose", paths: ["/tmp/one"] },
   ])
   expect(planProseRouteReads(synthesized, new Map())).toEqual([])
 })

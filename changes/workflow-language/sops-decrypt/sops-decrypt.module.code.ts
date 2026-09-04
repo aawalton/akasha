@@ -14,7 +14,7 @@ export function sopsDecryptApply(config: SopsDecryptApplyConfig): Step {
     name,
     image: IMAGES.CI,
     environment: {
-      HOME: "/var/tmp",
+      HOME: "/tmp",
       SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
     },
     commands: (ci: CIContext) => [

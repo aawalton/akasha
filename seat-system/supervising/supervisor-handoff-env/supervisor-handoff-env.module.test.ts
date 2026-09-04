@@ -17,7 +17,7 @@ const WHOLE = {
   pid: asPid(4242),
   processId: "p",
   account: "aawalton",
-  configDir: "/var/tmp/config",
+  configDir: "/tmp/config",
   agentId: "a",
   sessionId: "s",
 }

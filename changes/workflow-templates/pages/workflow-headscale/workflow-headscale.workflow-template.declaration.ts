@@ -26,12 +26,14 @@ export default workflow("headscale", {
     }),
     applyRbac({
       name: "headscale-apply-rbac",
-      rbacFile: "infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
+      rbacFile:
+        "infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
     }),
     sopsDecryptApply({
       name: "headscale-apply-secret",
       namespace: "headscale",
-      secretFile: "service-system/cluster-services/pages/headscale/headscale.k8s-secret.sops.yaml",
+      secretFile:
+        "service-system/cluster-services/pages/headscale/headscale.k8s-secret.sops.yaml",
     }),
     kubectlApply({
       name: "headscale-apply-configmap",
@@ -55,7 +57,7 @@ export default workflow("headscale", {
       ...step({
         name: "headscale-mirror-s3-creds",
         image: IMAGES.CI,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: ["set -e", MIRROR_S3_CREDS_CMD],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -73,7 +75,7 @@ export default workflow("headscale", {
       ...step({
         name: "headscale-wait-for-certificate",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: [
           "set -e",
           "kubectl wait --for=condition=Ready --timeout=180s -n headscale certificate/headscale-tls",
@@ -100,7 +102,7 @@ export default workflow("headscale", {
       ...step({
         name: "headscale-apply-statefulset",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           ...checksumHashCommands({
@@ -127,7 +129,7 @@ export default workflow("headscale", {
       ...step({
         name: "headscale-wait-for-rollout",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: [
           "set -e",
           "kubectl rollout status statefulset/headscale -n headscale --timeout=180s",

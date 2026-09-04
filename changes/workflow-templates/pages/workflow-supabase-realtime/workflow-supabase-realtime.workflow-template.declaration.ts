@@ -75,7 +75,7 @@ export default workflow("supabase-realtime", {
       ...step({
         name: "supabase-realtime-ensure-admin-role",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -161,7 +161,7 @@ export default workflow("supabase-realtime", {
         name: "supabase-realtime-apply-realtime-manifests",
         image: IMAGES.CI,
         environment: {
-          HOME: "/var/tmp",
+          HOME: "/tmp",
           SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
         },
         commands: (ci) => [
@@ -193,7 +193,7 @@ export default workflow("supabase-realtime", {
         name: "supabase-realtime-bootstrap-tenant",
         image: IMAGES.CI,
         environment: {
-          HOME: "/var/tmp",
+          HOME: "/tmp",
           REALTIME_URL: "http://realtime.supabase-realtime.svc.cluster.local:4000",
         },
         commands: (ci) => [
@@ -213,7 +213,7 @@ export default workflow("supabase-realtime", {
       ...step({
         name: "supabase-realtime-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/var/tmp" },
+        environment: { HOME: "/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap supabase-realtime-pipeline-state -n supabase-realtime --dry-run=client -o yaml | kubectl apply -f -",

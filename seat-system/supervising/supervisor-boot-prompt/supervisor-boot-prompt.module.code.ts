@@ -24,7 +24,7 @@ export async function materializeBootPrompt(
     console.log(`${LOG} ${verb} is not there; spawning with no authored prompt`)
     return null
   }
-  const target = `${opts?.tmpDir ?? "/var/tmp"}/agent-boot-prompt-${agentId}.md`
+  const target = `${opts?.tmpDir ?? "/tmp"}/agent-boot-prompt-${agentId}.md`
   const tmp = `${target}.tmp-${process.pid}`
   try {
     const proc = Bun.spawn({

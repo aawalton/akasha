@@ -86,7 +86,7 @@ function deploymentYaml(): string {
               ports: [{ name: "http-proxy", containerPort: PROXY_PORT, protocol: "TCP" }],
               volumeMounts: [
                 { name: "state", mountPath: "/var/lib/tailscale" },
-                { name: "tmp", mountPath: "/var/tmp" },
+                { name: "tmp", mountPath: "/tmp" },
                 { name: "run", mountPath: "/run" },
               ],
               resources: {
