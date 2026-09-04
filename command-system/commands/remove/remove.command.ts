@@ -21,6 +21,7 @@ export const remove = {
     "a directory named takes away every file git holds under it.",
     "the files beside what you name go with it.",
     "a folder at the top of the repository is refused — name what is inside it.",
+    "a directory holding nothing at all goes, and git commits nothing for it.",
     "a page going is taken out of every list that named it, in the same commit.",
     "a name held on its own rather than as a list entry is reported and left alone.",
     "a name in code rather than in a page property is neither found nor reported.",
@@ -64,7 +65,19 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory holding no tracked file is refused.",
+      statement: "A directory holding only files git does not track is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory holding nothing at all is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is committed for a directory that held nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory holding nothing goes only once every other named path has landed.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +89,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder at the top of the repository is refused.",
+      statement: "A folder at the top of the repository is refused unless it holds nothing.",
     },
     {
       invariantKind: "absence",
