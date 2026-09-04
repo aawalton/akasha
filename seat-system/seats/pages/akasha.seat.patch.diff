@@ -25,6 +25,19 @@ index d6f4639e3951f93702b6212a7f7efe12c8d3d3cf..76319c5cd722afa85c63160278625be8
      "nothing is written — this says what the compiler found and fixes none of it.",
    ],
    invariants: [
+diff --git a/domain-system/initiatives/pages/akasha-folder-shape.initiative.ts b/domain-system/initiatives/pages/akasha-folder-shape.initiative.ts
+index 3fd7478786e7fd47d45abbfb36906c294e96d037..d189c839bfe3f6c5a46426f6af10ce763f8c8e10 100644
+--- a/domain-system/initiatives/pages/akasha-folder-shape.initiative.ts
++++ b/domain-system/initiatives/pages/akasha-folder-shape.initiative.ts
+@@ -10,7 +10,7 @@ export const akashaFolderShape = {
+     {
+       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
+       workingMemory:
+-        "`akasha audit --check folder-matches-a-shape` answers 1238 refusals over 121356 files, and one answer holds 109 of them, so the list is worked lex-ordered in tranches. A narrowed run costs what a whole one does, near 17 GB for about fifteen minutes, so fixes are batched rather than measured one at a time.",
++        "`akasha audit --check folder-matches-a-shape` answers 961 refusals over 120410 files, and one answer holds what fits in 28000 bytes, so the list is worked lex-ordered in tranches. That narrowed run costs 1.5 GB and 12 seconds, and adding `--file-path` brings it to 0.6 GB and 3 seconds, so a fix is measured where it lands rather than batched. A whole audit is the run that costs 21 GB and eight minutes.",
+     },
+     {
+       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
 diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts
 index 4c73eb7c34a4be975a86a9e99e790db98ce91eb6..771c14ae258b106e6ac0c26401852f30d5a1c4ec 100644
 --- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts
