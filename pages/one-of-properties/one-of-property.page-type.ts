@@ -1,6 +1,6 @@
-import type { MemberSlugs } from "../page-properties/properties/member-slugs.relation-property.ts"
 import type { PageProperty } from "../page-types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../page-types/page-type.page-type.ts"
+import type { MemberSlugs } from "./properties/member-slugs.relation-property.ts"
 
 export type OneOfProperty = PageProperty & {
   memberSlugs: MemberSlugs
