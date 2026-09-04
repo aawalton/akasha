@@ -275,7 +275,7 @@ test("pages carrying no property that declares a unique are refused rather than 
   const tree = heldAt()
   const root = heldAt()
   for (const [at, value] of [
-    aType("9", "text-property", "page-property"),
+    aType("9", "text-property", ["page-property"]),
     aProperty("8", "note", "text-property"),
   ])
     put(tree, at, bodyOf(value))
@@ -297,7 +297,7 @@ test("a settle over pages declaring no unique is refused rather than filed empty
 test("a world carrying a page and declaring no property at all is refused", () => {
   const tree = heldAt()
   const root = heldAt()
-  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", "page")[1]))
+  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
   put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
 
   expect(() => rebuiltFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
@@ -305,7 +305,7 @@ test("a world carrying a page and declaring no property at all is refused", () =
 
 test("a rebuild takes away an entry no page carries", () => {
   const { tree, root } = bare()
-  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", "page")[1]))
+  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
   put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
   rebuiltFrom(tree, root, tree)
 

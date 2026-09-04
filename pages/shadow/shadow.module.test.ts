@@ -193,7 +193,7 @@ function naming(unique: string | null): Held {
 function seededNaming(): string {
   const repo = scratch.rootFor("akasha-naming-")
   for (const [at, value] of PAGES) put(repo, join(AKASHA, at), bodyOf(value))
-  const [namingAt, named] = aType("1", "domain", "page", ["name"])
+  const [namingAt, named] = aType("1", "domain", ["page"], ["name"])
   put(repo, join(AKASHA, namingAt), bodyOf(named))
   put(repo, join(AKASHA, NAME_AT), bodyOf(naming("always")))
   put(repo, join(AKASHA, SHARED_AT), bodyOf(SHARED))
