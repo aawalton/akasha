@@ -1,14 +1,14 @@
 import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { ChangeKindSlug } from "./properties/change-kind-slug.relation-property.ts"
-import type { HelpEnvVars } from "./properties/help-env-vars.record-property.ts"
-import type { HelpExamples } from "./properties/help-examples.text-property.ts"
-import type { HelpExclusions } from "./properties/help-exclusions.record-property.ts"
-import type { HelpExits } from "./properties/help-exits.record-property.ts"
-import type { HelpFlags } from "./properties/help-flags.record-property.ts"
-import type { HelpNotes } from "./properties/help-notes.text-property.ts"
-import type { HelpPositionals } from "./properties/help-positionals.record-property.ts"
-import type { Taking } from "./properties/taking.record-property.ts"
+import type { ChangeKindSlug } from "../../commands/properties/change-kind-slug.relation-property.ts"
+import type { HelpEnvVars } from "../../commands/properties/help-env-vars.record-property.ts"
+import type { HelpExamples } from "../../commands/properties/help-examples.text-property.ts"
+import type { HelpExclusions } from "../../commands/properties/help-exclusions.record-property.ts"
+import type { HelpExits } from "../../commands/properties/help-exits.record-property.ts"
+import type { HelpFlags } from "../../commands/properties/help-flags.record-property.ts"
+import type { HelpNotes } from "../../commands/properties/help-notes.text-property.ts"
+import type { HelpPositionals } from "../../commands/properties/help-positionals.record-property.ts"
+import type { Taking } from "../../commands/properties/taking.record-property.ts"
 
 export type Command = Module & {
   changeKindSlug: ChangeKindSlug
