@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const elaine = {
   id: "01a06809-250b-7e17-b028-ed7c9e003f14",

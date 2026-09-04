@@ -4,9 +4,9 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "@akasha/health-samples-import/health-snapshot"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 export const HEALTH_SNAPSHOT = "health-snapshot"
 
