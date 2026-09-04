@@ -1,9 +1,10 @@
-import { agentStands, agentTurnStateOf } from "../agent-turn-state/agent-turn-state.module.code.ts"
+import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import { colorOfState } from "../seat-turn-color/seat-turn-color.module.code.ts"
+import { seatTurnStateOf } from "../seat-turn-state/seat-turn-state.module.code.ts"
 
 export function colorDrawnFor(agent: string): string | null {
-  if (!agentStands(agent)) return null
-  return colorOfState(agentTurnStateOf(agent).state)
+  if (seatNameForAgent(agent) === null) return null
+  return colorOfState(seatTurnStateOf(agent).state)
 }
 
 export function colorsOf(

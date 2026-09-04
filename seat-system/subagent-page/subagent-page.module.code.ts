@@ -4,8 +4,10 @@ import { partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import type { StandingSubagent } from "../subagent-guard/subagent-guard.module.code.ts"
-import { removeAkashaSubagentPagesOf } from "../subagent-page-akasha/subagent-page-akasha.module.code.ts"
-import { standingPagePathsOf } from "../subagent-page-read/subagent-page-read.module.code.ts"
+import {
+  akashaSubagentPathsOf,
+  removeAkashaSubagentPagesOf,
+} from "../subagent-page-akasha/subagent-page-akasha.module.code.ts"
 
 const KIND = "dispatchedAs"
 
@@ -32,7 +34,7 @@ export function standingSubagentsOf(seat: string): readonly StandingSubagent[] {
   const seatName = seatNameForAgent(seat)
   if (seatName === null) return []
   const root = rootFor(resolveRoots(), AKASHA)
-  return standingPagePathsOf(seatName).map((absolute) => ({
+  return akashaSubagentPathsOf(seatName).map((absolute) => ({
     name: namedAt(absolute),
     dispatchedAs: kindAt(absolute, root),
   }))

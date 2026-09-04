@@ -2,20 +2,10 @@ import type { Outcome } from "@akasha/command-system/gated-write"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
-  pathOf,
   pathsUnder,
   SUBAGENTS_AT,
-  slugOf,
   tookUnder,
 } from "../subagents/presence/subagent-presence.module.code.ts"
-
-export function akashaSubagentSlug(seatName: string, own: string): string {
-  return slugOf(seatName, own)
-}
-
-export function akashaSubagentRelPath(slug: string): string {
-  return pathOf(slug)
-}
 
 export function akashaSubagentsDirIn(root: string): string {
   return `${root}/${SUBAGENTS_AT}`
