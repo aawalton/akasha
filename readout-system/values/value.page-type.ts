@@ -1,8 +1,6 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TotalPoints } from "../../persona-system/personas/properties/total-points.number-property.ts"
 import type { Description } from "../../temper/temper-things/properties/description.text-property.ts"
-import type { ColorSlug } from "../readouts/properties/color-slug.text-property.ts"
 import type { GroupSlugs } from "../readouts/properties/group-slugs.relation-property.ts"
 import type { Label } from "../readouts/properties/label.text-property.ts"
 import type { Place } from "../readouts/properties/place.number-property.ts"
@@ -16,7 +14,6 @@ import type { Unit } from "../readouts/properties/unit.text-property.ts"
 export type Value = Domain & {
   label: Label
   description?: Description
-  colorSlug?: ColorSlug
   place: Place
   unit?: Unit
   scaleSlug?: ScaleSlug
@@ -24,7 +21,6 @@ export type Value = Domain & {
   querySlug?: QuerySlug
   queryKey?: QueryKey
   queryArgument?: QueryArgument
-  totalPoints?: TotalPoints
   enabled?: Enabled
 }
 
@@ -35,7 +31,6 @@ export const value = {
   definition: "what a person is spending their life on",
   pluralSlug: "values",
   partSlugs: [
-    "number-property/total-points",
     "value/faith",
     "value/fun",
     "value/health",
@@ -48,7 +43,6 @@ export const value = {
   properties: [
     { pagePropertySlug: "label", required: true, many: false },
     { pagePropertySlug: "description", required: false, many: false },
-    { pagePropertySlug: "color-slug", required: false, many: false },
     { pagePropertySlug: "place", required: true, many: false },
     { pagePropertySlug: "unit", required: false, many: false },
     { pagePropertySlug: "scale-slug", required: false, many: false },
@@ -56,7 +50,6 @@ export const value = {
     { pagePropertySlug: "query-slug", required: false, many: false },
     { pagePropertySlug: "query-key", required: false, many: false },
     { pagePropertySlug: "query-argument", required: false, many: false },
-    { pagePropertySlug: "total-points", required: false, many: false },
     { pagePropertySlug: "readout-enabled", required: false, many: false, default: "true" },
   ],
   invariants: [
