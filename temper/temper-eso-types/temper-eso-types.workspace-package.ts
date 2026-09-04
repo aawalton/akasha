@@ -75,7 +75,6 @@ export const temperEsoTypes = {
     "type-declaration/eso-writ-tooltip",
     "type-declaration/tstl-eso-sandbox",
     "type-declaration/tstl-language-extensions",
-    "type-declaration/tstl-performance-global",
     "type-declaration/eso-interface-extra",
     "type-declaration/eso-interface-extra-2",
     "type-declaration/eso-interface-extra-3",
