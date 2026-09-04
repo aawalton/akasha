@@ -73,7 +73,7 @@ export const storyEngine = {
     {
       invariantKind: "departure",
       statement:
-        "Which of read, written and played a chapter is settles which page type the chapter is.",
+        "Whether a chapter is read or written or played settles which page type the chapter is.",
     },
     {
       invariantKind: "departure",
@@ -90,19 +90,6 @@ export const storyEngine = {
     {
       invariantKind: "gap",
       statement: "Every word a game master is served changes without a deploy.",
-    },
-  ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Alan Approves Lore",
-      act: "Change lore only at Alan's asking; a sketch is yours to change.",
-      warrant:
-        "A chapter read before its lore changed goes false, and nothing re-reads that chapter.",
-      aids: [
-        "New lore that makes a chapter false is a change.",
-        "Take a clash between two pieces of lore to Alan.",
-      ],
     },
   ],
 } as const satisfies Domain
