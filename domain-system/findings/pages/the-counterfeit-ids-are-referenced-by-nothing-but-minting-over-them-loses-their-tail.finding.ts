@@ -1,10 +1,10 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const theTwentyTwoCounterfeitIdsAreReferencedByNothingButMintingOverThemLosesTheirTail = {
+export const theCounterfeitIdsAreReferencedByNothingButMintingOverThemLosesTheirTail = {
   id: "01a0693d-4877-7433-a13c-80bde78b5004",
   pageTypeSlug: "finding",
   slug: "the-counterfeit-ids-are-referenced-by-nothing-but-minting-over-them-loses-their-tail",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/pages-system",
   claim:
     "None of the 22 hand-stated page ids is referenced anywhere, yet replacing one by omitting `id` breaks the rule that a replaced identity keeps the last eight hex of the old one.",
   evidence:
