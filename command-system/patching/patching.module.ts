@@ -76,6 +76,10 @@ export const patching = {
     },
     {
       invariantKind: "departure",
+      statement: "A commit holding a patch file keeps no blob that patch names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One ref keeps every blob one patch names.",
     },
     {
