@@ -16,6 +16,7 @@ export type Phase = "patch" | "worktree" | "deploy" | "audit"
 export type Gathered = {
   readonly slug: string
   readonly page: string
+  readonly root: string
   readonly runsOn: readonly Phase[]
   readonly isInput: Input | null
   readonly run: AnyRunning
