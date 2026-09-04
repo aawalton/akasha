@@ -36,10 +36,6 @@ function idleIn(): SeatTurnReading {
   return { state: "idle", waitingOn: null }
 }
 
-export function turnStillToCome(state: SeatTurnState): boolean {
-  return state === "working" || state === "idle-pending"
-}
-
 export function tookATurn(kept: SeatTurnRecords): boolean {
   return anyPendingRead(kept.pending) || anyWorkingRead(kept.working)
 }
@@ -66,10 +62,4 @@ export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
 
 export function seatTurnStateOf(agent: string): SeatTurnReading {
   return readSeatTurn(seatTurnRecordsOf(agent))
-}
-
-export function seatTurnStateLine(reading: SeatTurnReading): string {
-  const said =
-    reading.waitingOn === null ? reading.state : `${reading.state} on ${reading.waitingOn}`
-  return `  ${"state".padEnd(8)} ${said}`
 }

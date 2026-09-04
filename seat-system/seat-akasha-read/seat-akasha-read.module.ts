@@ -13,7 +13,7 @@ export const seatAkashaRead = {
     },
     {
       invariantKind: "departure",
-      statement: "A title is answered as the seat's slug, since akasha holds none.",
+      statement: "A title is answered as the seat's slug.",
     },
     {
       invariantKind: "departure",
@@ -21,15 +21,16 @@ export const seatAkashaRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The seats are named by the index, so no page is opened to find them.",
+      statement: "The seats are named by the index.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat's activity is when what is observed of it was last written.",
+      statement: "No page is opened to find the seats.",
     },
     {
       invariantKind: "departure",
-      statement: "A replaced context is answered with its source and the moment it happened.",
+      statement:
+        "A seat's activity is the moment the values observed of the seat were last written.",
     },
   ],
 } as const satisfies Module

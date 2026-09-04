@@ -10,11 +10,11 @@ import {
 } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import type { SeatRecord } from "../seat-record/seat-record.module.code.ts"
 
-// What is observed of a seat stands beside its page in akasha. Reaching it through the old page
-// is what the sweep broke: taking that page away orphaned a sidecar that was still standing, and
+// What is observed of a seat sits beside its page in akasha. Reaching it through the old page
+// is what the sweep broke: taking that page away orphaned a sidecar that was still there, and
 // every reader below it answered nothing rather than saying it could not look.
 //
-// Where a seat stands and where each of its values stands on it are held in `seat-akasha-beside`,
+// Where a seat sits and where each of its values sits on it are held in `seat-akasha-beside`,
 // which the writer reaches too. What is here is the reading of those values back into the shapes
 // the old system's readers take.
 
@@ -33,7 +33,7 @@ function saidAsText(held: unknown): string | null {
   return null
 }
 
-// What a seat STATES, as against what is observed of it, and where each old key stands in akasha.
+// What a seat STATES, as against what is observed of it, and where each old key sits in akasha.
 // The old readers ask by the keys the markdown frontmatter carried, so a page read from akasha is
 // answered under those names rather than akasha's own.
 //
@@ -63,7 +63,7 @@ const TITLE = "title"
 const SLUG = "slug"
 
 // ONE SEAT'S VALUES, CARRIED FROM AKASHA'S NAMES BACK TO THE OLD PAGE'S. This takes the value
-// rather than the seat, so a body read from anywhere is answered the same way — the page standing
+// rather than the seat, so a body read from anywhere is answered the same way — the page sitting
 // now, or the one a commit still holds after a stop took the file away.
 export function underOldKeys(held: Record<string, unknown>): Record<string, unknown> {
   const values: Record<string, unknown> = {}
@@ -78,8 +78,8 @@ export function underOldKeys(held: Record<string, unknown>): Record<string, unkn
   return values
 }
 
-// What a seat states in akasha, under the keys the old page carried. Null where akasha stands and
-// holds no such seat; refuses a root that names no seat index at all.
+// What a seat states in akasha, under the keys the old page carried. Null where akasha holds no
+// such seat; refuses a root that names no seat index at all.
 export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | null {
   const page = akashaSeatPathForAgent(agentId)
   if (page === null) return null
@@ -132,9 +132,6 @@ function asOldKind(held: unknown, kind: string): unknown {
 // `RECORDS` walked the other way, so a reader that took the raw sidecar can take this instead
 // without learning akasha's names. What akasha does not carry is absent here rather than null,
 // which lets a caller lay the old sidecar over the top and have a value it holds win.
-//
-// `context-replaced` is left out: it is the one key the old store stamps and reads back as a pair,
-// and `akashaSeatRecordOf` answers it in that shape already.
 export function akashaObservedOf(agentId: string): Record<string, unknown> | null {
   const values = akashaBesideOf(agentId)
   if (values === null) return null
@@ -150,32 +147,10 @@ export function akashaObservedOf(agentId: string): Record<string, unknown> | nul
   return held
 }
 
-const REPLACED = "context-replaced"
-
-// WHAT A SEAT CAME BY ITS CONTEXT AND WHEN ARE BOTH THE VALUE, so this one is read from the record
-// akasha holds rather than from the sidecar's mtime. Every other key here is a bare value whose
-// stamp is only ever "when the sidecar was last written", which is the newest it can be. This one's
-// stamp is the moment of the event, and `epoch.ts` hands it to the read record as the cutoff before
-// which a seat's reads no longer count. Taking the mtime would move that cutoff forward on every
-// beat and read the whole fleet as having read nothing.
-function replacedIn(values: Record<string, unknown>): SeatRecord | null {
-  const held = values["contextReplaced"]
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
-  const { source, at } = held as { source?: unknown; at?: unknown }
-  if (typeof source !== "string" || source === "") return null
-  if (typeof at !== "string") return null
-  const ms = Date.parse(at)
-  return Number.isFinite(ms) ? { value: source, at: ms } : null
-}
-
 // One value a seat carries, read from akasha under the old system's key and returned in the shape
 // the old store's readers take. The mapping is `CARRIED`, walked the other way, so a key akasha
 // does not carry answers null here rather than guessing at a name for it.
 export function akashaSeatRecordOf(agentId: string, key: string): SeatRecord | null {
-  if (key === REPLACED) {
-    const values = akashaBesideOf(agentId)
-    return values === null ? null : replacedIn(values)
-  }
   const where = CARRIED[key]
   if (where === undefined) return null
   const values = akashaBesideOf(agentId)

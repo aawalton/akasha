@@ -1,7 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Agent } from "../../agents/agent.page-type.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
-import type { ContextReplaced } from "./properties/context-replaced.record-property.ts"
 import type { ContextTokens } from "./properties/context-tokens.number-property.ts"
 import type { Model } from "./properties/model.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
@@ -35,7 +34,6 @@ export type Seat = Agent & {
   contextTokens?: ContextTokens
   turnPending?: TurnPending
   request?: Request
-  contextReplaced?: ContextReplaced
   reExecAsk?: ReExecAsk
   rotatedSessionUuid?: RotatedSessionUuid
 }
@@ -55,14 +53,12 @@ export const seat = {
     "boolean-property/live-subagent",
     "boolean-property/on-call",
     "boolean-property/send-in-flight",
-    "instant-property/context-replaced-at",
     "instant-property/restart-armed-at",
     "number-property/context-tokens",
     "number-property/proxy-port",
     "number-property/scanned-to",
     "process-property/proxy-process",
     "process-property/supervisor-process",
-    "record-property/context-replaced",
     "record-property/proxy",
     "record-property/request",
     "record-property/turn-pending",
@@ -72,7 +68,6 @@ export const seat = {
     "relation-property/role-slug",
     "relation-property/seat-persona-slug",
     "text-property/claude-code-session-uuid",
-    "text-property/context-replaced-source",
     "text-property/interrupt-message",
     "text-property/model",
     "text-property/open-agents",
@@ -100,7 +95,6 @@ export const seat = {
     { pagePropertySlug: "turn-pending", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "turn-working", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "request", required: false, many: false, uncommitted: true },
-    { pagePropertySlug: "context-replaced", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "re-exec-ask", required: false, many: false, uncommitted: true },
     {
       pagePropertySlug: "rotated-session-uuid",
@@ -112,7 +106,7 @@ export const seat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's attributes can be re-stated without making it another seat.",
+      statement: "Re-stating a seat's attributes leaves the seat the same seat.",
     },
     {
       invariantKind: "departure",
@@ -120,11 +114,12 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat states the person who opened it or the seat that spawned it.",
+      statement: "A seat states the person who opened the seat or the seat that spawned the seat.",
     },
     {
       invariantKind: "departure",
-      statement: "No seat states both the person who opened it and the seat that spawned it.",
+      statement:
+        "No seat states both the person who opened the seat and the seat that spawned the seat.",
     },
   ],
 } as const satisfies PageType

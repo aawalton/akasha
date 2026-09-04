@@ -1,7 +1,3 @@
-import {
-  akashaSeatPathForAgent,
-  besideWrittenAtMs,
-} from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
 import { keepBesideUnder } from "../seat-beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
@@ -17,9 +13,12 @@ export const TURN_PENDING_COMPONENTS = [
 
 export type TurnPendingComponent = (typeof TURN_PENDING_COMPONENTS)[number]
 
+// WHAT IS KEPT OF A COMPONENT IS THE BOOLEAN. There was a stamp beside it once, and it never left
+// this process: the write strips a `{ value, at }` down to the value, and akasha declares no field
+// to land the stamp in. What came back was the sidecar's own mtime put back on, which says when the
+// file was last written rather than when the component changed.
 export interface PendingRecord {
   readonly value: boolean
-  readonly at: number
 }
 
 export type TurnPending = Partial<Record<TurnPendingComponent, PendingRecord>>
@@ -42,13 +41,11 @@ export function pendingOf(agent: string): TurnPending {
   if (held === null || held === undefined || typeof held !== "object" || Array.isArray(held)) {
     return {}
   }
-  const page = akashaSeatPathForAgent(agent)
-  const at = page === null ? 0 : besideWrittenAtMs(page)
   const said = held as Record<string, unknown>
   const found: Record<string, PendingRecord> = {}
   for (const component of TURN_PENDING_COMPONENTS) {
     const value = said[camelOf(component)]
-    if (typeof value === "boolean") found[component] = { value, at }
+    if (typeof value === "boolean") found[component] = { value }
   }
   return found
 }
@@ -61,15 +58,14 @@ export function setPending(
   const seatName = seatNameForAgent(agent)
   if (seatName === null) return false
   const page = seatName
-  const at = Date.now()
-  const standing = pendingOf(agent)
-  const whole: Record<string, PendingRecord> = { ...standing }
+  const kept = pendingOf(agent)
+  const whole: Record<string, PendingRecord> = { ...kept }
   let changed = false
   for (const component of TURN_PENDING_COMPONENTS) {
     const value = values[component]
     if (typeof value !== "boolean") continue
-    if (standing[component]?.value === value) continue
-    whole[component] = { value, at }
+    if (kept[component]?.value === value) continue
+    whole[component] = { value }
     changed = true
   }
   if (!changed) return false
@@ -79,15 +75,4 @@ export function setPending(
   } catch {
     return false
   }
-}
-
-export function pendingLines(pending: TurnPending): readonly string[] {
-  return TURN_PENDING_COMPONENTS.map((one) => {
-    const recorded = pending[one]
-    const said =
-      recorded === undefined
-        ? "— unread"
-        : `${recorded.value ? "on" : "off"} (read ${new Date(recorded.at).toISOString()})`
-    return `  ${one.padEnd(15)} ${said}`
-  })
 }

@@ -10,7 +10,6 @@ import {
   taskStartedIn,
   taskStoppedIn,
   turnEnded,
-  workingLines,
   workingOf,
 } from "./turn-working.module.code.ts"
 
@@ -77,7 +76,7 @@ test("a stretch holding neither a prompt nor an answer answers nothing", () => {
   expect(scanRecords("", {}).answer).toBeNull()
 })
 
-test("a line that will not parse is passed over", () => {
+test("a line that will not parse is stepped over", () => {
   expect(scanRecords(`${ENDED}\nba`, {}).answer?.stopReason).toBe("end_turn")
 })
 
@@ -161,6 +160,4 @@ test("a reading kept in a shape this does not know is unread", () => {
 
 test("a seat akasha holds nothing for is unread", () => {
   expect(workingOf("")).toEqual({})
-  expect(workingLines({})[0]?.includes("unread")).toBe(true)
-  expect(workingLines({}).some((one) => one.includes("none"))).toBe(true)
 })

@@ -24,24 +24,12 @@ import { akashaSeatRelPath } from "../seat-page-akasha/seat-page-akasha.module.c
 
 export type { Beside, Carried, Kind } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
-// The one key whose stamp is half the fact rather than the moment of writing, so it is carried as a
-// record holding both halves. It was an instant alone until the 31st, which threw the source away:
-// `hold-seat-words.ts` renders that word into what a seat is told, `epoch.ts` and `read-record.ts`
-// each branch on it, and nothing re-derives how a context was come by once the moment has passed.
-const REPLACED = "context-replaced"
-
 function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
   const rec = held as Record<string, unknown>
   const keys = Object.keys(rec)
   if (keys.length === 2 && keys.includes("value") && keys.includes("at")) return rec["value"]
   return held
-}
-
-function stampOf(held: unknown): number | null {
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
-  const at = (held as Record<string, unknown>)["at"]
-  return typeof at === "number" && Number.isFinite(at) ? at : null
 }
 
 function asKind(held: unknown, kind: Kind): unknown {
@@ -66,16 +54,6 @@ function carriedFrom(values: Beside): Beside | null {
     const record = RECORDS[key]
     if (record !== undefined) {
       held[record] = value
-      any = true
-      continue
-    }
-    if (key === REPLACED) {
-      const stamp = stampOf(value)
-      const source = bare(value)
-      held["contextReplaced"] =
-        typeof source !== "string" || source === "" || stamp === null
-          ? null
-          : { source, at: new Date(stamp).toISOString() }
       any = true
       continue
     }
@@ -126,7 +104,7 @@ function akashaPageOf(page: string): string | null {
 // so a refused write costs a beat rather than the supervisor.
 function inAkasha(page: string, values: Beside): void {
   const unknown = Object.keys(values).filter(
-    (key) => CARRIED[key] === undefined && RECORDS[key] === undefined && key !== REPLACED
+    (key) => CARRIED[key] === undefined && RECORDS[key] === undefined
   )
   if (unknown.length > 0) {
     throw new Error(
@@ -141,7 +119,7 @@ function inAkasha(page: string, values: Beside): void {
   const at = akashaPageOf(page)
   if (at === null) {
     throw new Error(
-      `no page in akasha stands for the seat ${seatNamed(page)}, so what is observed of it has ` +
+      `no page in akasha names the seat ${seatNamed(page)}, so what is observed of it has ` +
         "nowhere to be written. This used to be a silent return, when the old store was still taking the write."
     )
   }
@@ -182,7 +160,7 @@ export function keepBesideUnder(page: string, key: string, values: Beside): void
   inAkasha(page, { [key]: under })
 }
 
-// Only a key standing at the top of the page in akasha can be taken away on its own. A field of a
+// Only a key held at the top of the page in akasha can be taken away on its own. A field of a
 // record goes with the record, and nothing drops one.
 export function dropBeside(page: string, keys: readonly string[]): void {
   const gone = keys.flatMap((key) => {
@@ -195,14 +173,14 @@ export function dropBeside(page: string, keys: readonly string[]): void {
   dropAkasha(rootFor(resolveRoots(), AKASHA), at, gone)
 }
 
-// WHAT STANDS BESIDE A PAGE GOES WITH THE PAGE. A sidecar outliving its page is
+// WHAT SITS BESIDE A PAGE GOES WITH THE PAGE. A sidecar outliving its page is
 // what the outage was made of, and akasha states the rule of itself: the gate refuses a file no
 // page claims.
 //
-// This waited on the session moving onto the page. While what a seat was bound to stood beside it
+// This waited on the session moving onto the page. While what a seat was bound to sat beside it
 // and nowhere else, taking akasha's sidecar was forgetting rather than tidying — it would have
 // left a swept seat with nothing to come back on. Committed, the session outlives both sidecars,
-// and everything still standing beside a seat can be observed again by watching it for a few
+// and everything still sitting beside a seat can be observed again by watching it for a few
 // seconds. So there is nothing left here worth keeping past the page.
 //
 // The seat is named rather than the page looked up, so this does not turn on whether the akasha
@@ -211,16 +189,14 @@ export function dropBeside(page: string, keys: readonly string[]): void {
 // WHAT THIS THROWS IS STILL CAUGHT, UNLIKE THE WRITES ABOVE. A lost write leaves a value saying
 // something false about a seat that is running. A lost removal leaves a sidecar beside a page that
 // has gone, which the gate names on the next read and a walk sweeps after. Its callers are taking
-// pages away in a loop, and aborting that loop over one of them would leave the rest standing.
+// pages away in a loop, and aborting that loop over one of them would leave the rest in place.
 export function removeBeside(page: string): void {
   try {
     removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(seatNamed(page)))
   } catch (thrown) {
     process.stderr.write(
-      `what was observed of ${seatNamed(page)} is gone, and what was observed of it in akasha stands: ` +
+      `what was observed of ${seatNamed(page)} is gone, and what was observed of it in akasha remains: ` +
         `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
     )
   }
 }
-
-export const besideForTests = { carriedFrom }

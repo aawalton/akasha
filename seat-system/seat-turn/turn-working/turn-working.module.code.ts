@@ -241,17 +241,3 @@ export function workingOf(agent: string): TurnWorking {
   keepWorking(agent, read)
   return read
 }
-
-export function workingLines(working: TurnWorking): readonly string[] {
-  const said =
-    working.activeTurn === undefined
-      ? "— unread"
-      : `${working.activeTurn ? "on" : "off"} (read to byte ${working.scannedTo ?? 0})`
-  const shells = working.openShells ?? []
-  const agents = working.openAgents ?? []
-  return [
-    `  ${"active-turn".padEnd(15)} ${said}`,
-    `  ${"live-shell".padEnd(15)} ${shells.length === 0 ? "none" : shells.join(", ")}`,
-    `  ${"live-subagent".padEnd(15)} ${agents.length === 0 ? "none" : agents.join(", ")}`,
-  ]
-}
