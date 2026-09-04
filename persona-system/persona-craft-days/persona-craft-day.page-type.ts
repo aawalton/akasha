@@ -41,7 +41,7 @@ export const personaCraftDay = {
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "craft-day-persona-slug", required: true, many: false },
     { pagePropertySlug: "date", required: true, many: false },
     { pagePropertySlug: "value-slug", required: true, many: false },
     { pagePropertySlug: "icon", required: false, many: false },
