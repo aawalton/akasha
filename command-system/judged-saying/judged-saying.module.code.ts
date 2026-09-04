@@ -1,3 +1,5 @@
+import type { Judged } from "@akasha/checks/judging"
+
 export type Counting = (many: number, one: string) => string
 
 export const OUTSIDE_REACH = "no check judges a path outside this checkout"
@@ -9,6 +11,10 @@ const NONE_REFUSED = ", and none refused"
 const THESE_REFUSED = ", and these refused"
 
 const ASKED = "asked for"
+
+const CLASHED = " carries a conflict — resolve it in the patch before the patch applies"
+
+const HOLDS_BACK = "the patch is judged whole, so it applies once every path it holds passes"
 
 type Said = {
   readonly of: string
@@ -68,4 +74,19 @@ export function refusedOver(
   asked: number
 ): string {
   return saidOf(count, checks, judged, asked, REFUSING)
+}
+
+export function draftSaid(
+  count: Counting,
+  checks: number,
+  judged: readonly string[],
+  refused: readonly Judged[],
+  clashed: readonly string[]
+): readonly string[] {
+  const over = refused.length === 0 ? judgedOver : refusedOver
+  const said = [over(count, checks, reachedIn(judged), judged.length)]
+  if (refused.length > 0) {
+    said.push(...refused.map((one) => `${one.path} — ${one.reason}`), HOLDS_BACK)
+  }
+  return [...said, ...clashed.map((one) => `${one}${CLASHED}`)]
 }

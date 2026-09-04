@@ -5,13 +5,14 @@ import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
 import { agentPathOf } from "@akasha/context-system/warranting"
 import { nameFaultIn } from "@akasha/pages-system/page-export-name"
+import { isMissing } from "@akasha/utils-fs/missing"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import {
+  draftSaid,
   judgedBy,
-  judgedOver,
   passedOver,
   reachedIn,
 } from "../judged-saying/judged-saying.module.code.ts"
@@ -23,7 +24,7 @@ import type {
   Refused,
 } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
-import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
+import { lockingFor, sameBytes } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
@@ -37,8 +38,6 @@ export const DRAFT = "--draft"
 const NOTHING = "nothing was judged and nothing was written"
 
 export const NO_CHECKS = "runs no check, so this landing was judged by none"
-
-const ABSENT: ReadonlySet<string> = new Set(["ENOENT", "ENOTDIR"])
 
 export type Held = {
   readonly path: string
@@ -117,17 +116,11 @@ export type Reached =
   | { readonly absent: true }
   | { readonly unreadable: string }
 
-function absentIn(thrown: unknown): boolean {
-  if (typeof thrown !== "object" || thrown === null || !("code" in thrown)) return false
-  const code = thrown.code
-  return typeof code === "string" && ABSENT.has(code)
-}
-
 export function bytesAt(at: string): Reached {
   try {
     return { bytes: readFileSync(at) }
   } catch (thrown) {
-    return absentIn(thrown) ? { absent: true } : { unreadable: whyOf(thrown) }
+    return isMissing(thrown) ? { absent: true } : { unreadable: whyOf(thrown) }
   }
 }
 
@@ -174,14 +167,6 @@ export function unexportableIn(changes: readonly FileEdit[]): readonly string[] 
     if (fault !== null) said.push(`${one.path} — ${fault}. ${REMEDY}`)
   }
   return said
-}
-
-function sameBytes(one: Uint8Array, two: Uint8Array): boolean {
-  if (one.byteLength !== two.byteLength) return false
-  for (let at = 0; at < one.byteLength; at += 1) {
-    if (one[at] !== two[at]) return false
-  }
-  return true
 }
 
 function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
@@ -362,10 +347,7 @@ function draftedSaid(
   return [
     ...aside,
     ...said.drafted.map((one) => `drafted ${one}`),
-    judgedOver(counted, checks, reachedIn(said.judged), said.judged.length),
-    ...said.clashed.map(
-      (one) => `${one} carries a conflict — resolve it in the patch before the patch applies`
-    ),
+    ...draftSaid(counted, checks, said.judged, said.refused, said.clashed),
     said.patch === null
       ? "the patch was worked out to nothing and taken away"
       : `the patch is kept at ${at ?? "the page of the agent that asked"} against ${said.base}`,
