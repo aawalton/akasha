@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const lint = {
   id: "01a04edb-5f33-7000-9f46-2381be320a7b",

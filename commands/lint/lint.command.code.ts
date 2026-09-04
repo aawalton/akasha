@@ -1,8 +1,8 @@
 import { resolve } from "node:path"
 import type { Found } from "@akasha/code-system/code-lint"
 import { lintedOver } from "@akasha/code-system/code-lint"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { aiming, bounded } from "../test/test.command.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { aiming, bounded } from "../../command-system/commands/test/test.command.code.ts"
 
 const FILE_PATH = "--file-path"
 
