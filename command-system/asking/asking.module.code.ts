@@ -40,8 +40,6 @@ export const DRY_RUN = "--dry-run"
 
 export const BREAK_GLASS = "--break-the-glass"
 
-export const DRAFT = "--draft"
-
 const NOTHING = "nothing was judged and nothing was written"
 
 export const NO_CHECKS = "runs no check, so this landing was judged by none"
@@ -271,7 +269,7 @@ async function draftingAsked(
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null) {
     return mistaking([
-      `${DRAFT} keeps a patch beside the page of the agent drafting it, and this call names no such page`,
+      "a patch is kept beside the page of the agent drafting it, and this call names no such page",
     ])
   }
   let said: Drafted | Refused

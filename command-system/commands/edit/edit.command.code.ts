@@ -3,7 +3,6 @@ import type { Asked, Held } from "../../asking/asking.module.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
-  DRAFT,
   landingAsked,
   mistaking,
   textAt,
@@ -22,7 +21,6 @@ import {
   passagesIn,
   pipedIn,
 } from "../../piping/piping.module.code.ts"
-import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
   barredIn,
   besideTaken,
@@ -46,7 +44,7 @@ const NEW_FILE = "--new-file"
 
 const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE = [DRAFT]
+const BARE: readonly string[] = []
 
 type Stated = {
   readonly old: string
@@ -297,7 +295,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
         changes.map((one) => one.path)
       ),
     dryRun: false,
-    draft: argv.includes(DRAFT),
+    draft: true,
     glass: glass.glass,
     unmoved,
     saying: (said) => [
@@ -319,14 +317,7 @@ export async function editing(
 ): Promise<Answer> {
   const asked = askedWith(argv, given, piping)
   if (!("changes" in asked)) return asked
-  const answer = await landingAsked(given, asked)
-  if (answer.code === 0 && asked.draft !== true) {
-    dropReadings(
-      given.root,
-      asked.changes.filter((one) => one.body === null).map((one) => one.path)
-    )
-  }
-  return answer
+  return await landingAsked(given, asked)
 }
 
 export async function edit(argv: readonly string[], given: Given): Promise<Answer> {

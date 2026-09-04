@@ -31,7 +31,10 @@ const TAKE_AWAY = [
   HELP,
 ]
 
-const SAY_AGAIN = ["To change what a commit says, land another one with `akasha write`.", HELP]
+const SAY_AGAIN = [
+  "To change what a commit says, draft another with `akasha write` and `akasha patch apply`.",
+  HELP,
+]
 
 const OVER_ACTS = new Map<string, readonly string[]>([
   [

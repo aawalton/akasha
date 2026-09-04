@@ -5,7 +5,6 @@ import { besideAll } from "@akasha/pages-system/page-beside"
 import {
   BREAK_GLASS,
   bytesAt,
-  DRAFT,
   landedMechanically,
   landingAsked,
   mistaking,
@@ -20,7 +19,6 @@ import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
-import { dropReadings } from "../../reading/reading.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 
@@ -38,7 +36,7 @@ const PARTED_BY = "/"
 
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE = [DRAFT]
+const BARE: readonly string[] = []
 
 export function unwarrantedIn(
   given: Given,
@@ -420,23 +418,15 @@ export async function writing(
 ): Promise<Answer> {
   const built = builtIn(argv, given, piping)
   if ("code" in built) return built
-  const draft = argv.includes(DRAFT)
-  const answer = await landingAsked(given, {
+  return await landingAsked(given, {
     changes: built.changes,
     message: built.message,
     dryRun: false,
     glass: built.glass,
     unmoved: [],
     saying: (landed) => wroteAndTook(landed),
-    draft,
+    draft: true,
   })
-  if (answer.code === 0 && !draft) {
-    dropReadings(
-      given.root,
-      built.changes.filter((one) => one.body === null).map((one) => one.path)
-    )
-  }
-  return answer
 }
 
 export async function filing(

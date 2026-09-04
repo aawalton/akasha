@@ -18,7 +18,6 @@ export const edit = {
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
-    { said: "--draft", takes: "keep what would land in this agent's patch rather than landing it" },
   ],
   helpNotes: [
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
@@ -29,7 +28,7 @@ export const edit = {
     "the marker blocks repeat, and each is worked in the order stated.",
     "the files standing beside a path given to --remove go with it.",
     "a file has to be what this call read it as, wherever in the repository that file is.",
-    "--draft keeps the change in the patch beside this agent's page rather than landing it.",
+    "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
     "a draft is warranted as a landing is, and says what the checks refused without refusing.",
   ],
   invariants: [
@@ -113,7 +112,7 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming `--draft` keeps a patch rather than writing a body onto the tree.",
+      statement: "An edit keeps a patch rather than writing a body onto the tree.",
     },
     {
       invariantKind: "departure",

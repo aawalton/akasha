@@ -16,7 +16,6 @@ export const write = {
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
-    { said: "--draft", takes: "keep what would land in this agent's patch rather than landing it" },
   ],
   helpNotes: [
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
@@ -26,7 +25,7 @@ export const write = {
     "a folder at the top of the repository is refused — name what is inside it.",
     "the files standing beside a path given to --remove go with it.",
     "a folder left holding nothing by what --remove takes is cleared off the disk.",
-    "--draft keeps the change in the patch beside this agent's page rather than landing it.",
+    "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
     "a draft is warranted as a landing is, and says what the checks refused without refusing.",
     "a drafted change is rebased onto HEAD every time the patch is drafted into again.",
   ],
@@ -146,7 +145,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming `--draft` keeps a patch rather than writing a body onto the tree.",
+      statement: "A write keeps a patch rather than writing a body onto the tree.",
     },
     {
       invariantKind: "departure",

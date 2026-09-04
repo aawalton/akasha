@@ -7,7 +7,7 @@ import { RUNS_ANOTHER } from "../../shell-calls/shell-calls.module.code.ts"
 const HOOK = "block-git-writes"
 
 const COMMANDS = [
-  "Land akasha content with the akasha commands, which commit for themselves:",
+  "Land akasha content with the akasha commands, which write no body onto the tree by hand:",
   "  akasha write, akasha edit, akasha move, akasha remove",
   "Say `akasha --help` for what each takes.",
 ]
