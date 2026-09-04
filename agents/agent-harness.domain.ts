@@ -70,17 +70,6 @@ export const agentHarness = {
   ],
   directives: [
     {
-      directiveKind: "principle",
-      name: "Fast Correction",
-      act: "Buy the harness's reliability by fixing real cases fast, not by adding gates ahead of them.",
-      warrant:
-        "A change here reaches every seat on the commit, so a fault is cheap to fix; a gate is paid forever.",
-      aids: [
-        "Never answer a fault you fixed with a new gate.",
-        "Never hold a fix back to design a better one.",
-      ],
-    },
-    {
       directiveKind: "rule",
       name: "Headroom",
       act: "Never report that a part is close to its bound as a defect, in your own words or in an instrument's.",
