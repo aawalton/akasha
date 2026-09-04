@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import type { SubagentPage } from "@akasha/seat-system/agent-page-reading"
 import type { ForestRow } from "@akasha/seat-system/seat-forest"
 import type { SeatTurnReading, SeatTurnState } from "@akasha/seat-system/seat-turn-state"
-import type { SubagentPage } from "@tools/lib/agent-pages"
 import {
   agentForest,
   type ForestSaid,
