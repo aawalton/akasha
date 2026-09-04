@@ -2,6 +2,7 @@ import type { Module } from "@akasha/code-system/module"
 import type { Test } from "@akasha/code-system/module/test"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Entries } from "./properties/entries.file-property.ts"
+import type { Measured } from "./properties/measured.record-property.ts"
 import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"
 import type { RunsOnDeploy } from "./properties/runs-on-deploy.boolean-property.ts"
 import type { RunsOnPatch } from "./properties/runs-on-patch.boolean-property.ts"
@@ -14,6 +15,7 @@ export type CodeCheck = Module & {
   runsOnDeploy: RunsOnDeploy
   runsOnAudit: RunsOnAudit
   entries?: Entries
+  measured?: Measured
 }
 
 export const codeCheck = {
@@ -29,6 +31,12 @@ export const codeCheck = {
     "boolean-property/runs-on-patch",
     "boolean-property/runs-on-worktree",
     "file-property/entries",
+    "record-property/measured",
+    "text-property/at-commit",
+    "number-property/one-path-ms",
+    "number-property/one-path-bytes",
+    "number-property/whole-tree-ms",
+    "number-property/whole-tree-bytes",
     "code-check/domain-is-named-by-a-parent",
     "code-check/email-address-is-well-formed",
     "code-check/file-has-its-page",
@@ -88,6 +96,7 @@ export const codeCheck = {
       uncommitted: true,
       default: "jsonl",
     },
+    { pagePropertySlug: "measured", required: false, many: false },
   ],
   invariants: [
     {

@@ -11,6 +11,13 @@ export const domainIsNamedByAParent = {
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
+  measured: {
+    atCommit: "9ef8c16444",
+    onePathMs: 14,
+    onePathBytes: 5767168,
+    wholeTreeMs: 4220,
+    wholeTreeBytes: 302661632,
+  },
   invariants: [
     {
       invariantKind: "departure",
