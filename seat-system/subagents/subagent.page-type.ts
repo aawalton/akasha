@@ -3,10 +3,12 @@ import type { Agent } from "../../agents/agent.page-type.ts"
 import type { PrincipalSeatName } from "../seats/properties/principal-seat-name.relation-property.ts"
 import type { DispatchedAs } from "../subagent-kinds/properties/dispatched-as.text-property.ts"
 import type { AgentId } from "./properties/agent-id.text-property.ts"
+import type { SubagentKind } from "./properties/subagent-kind.relation-property.ts"
 
 export type Subagent = Agent & {
   principalSeatName: PrincipalSeatName
-  dispatchedAs: DispatchedAs
+  dispatchedAs?: DispatchedAs
+  subagentKind?: SubagentKind
   agentId: AgentId
 }
 
@@ -21,7 +23,8 @@ export const subagent = {
   partSlugs: ["relation-property/subagent-kind", "text-property/agent-id"],
   properties: [
     { pagePropertySlug: "principal-seat-name", required: true, many: false },
-    { pagePropertySlug: "dispatched-as", required: true, many: false },
+    { pagePropertySlug: "dispatched-as", required: false, many: false },
+    { pagePropertySlug: "subagent-kind", required: false, many: false },
     { pagePropertySlug: "agent-id", required: true, many: false },
   ],
   invariants: [
