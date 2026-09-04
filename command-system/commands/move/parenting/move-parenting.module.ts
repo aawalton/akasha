@@ -54,6 +54,11 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page the holder of where it arrives already names is asked nothing of its source.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page carried within one folder changes no parts.",
     },
     {
