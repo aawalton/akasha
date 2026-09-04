@@ -83,7 +83,7 @@ test("a comma list of checkpoints is refused", async () => {
       "--output",
       "/var/tmp/a.png",
       "--lora-paths",
-      "/var/tmp/one.safetensors,/tmp/two.safetensors",
+      "/var/tmp/one.safetensors,/var/tmp/two.safetensors",
     ],
     given("/nowhere")
   )
