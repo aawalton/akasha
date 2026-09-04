@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, partly, readingIn, sameBody } from "../../reading/reading.module.code.ts"
+import {
+  blobIdOf,
+  partly,
+  readingIn,
+  sameBody,
+} from "../../command-system/reading/reading.module.code.ts"
 import { ANSWER_CEILING, costOf, NO_AGENT, readWith } from "./read.command.code.ts"
 import {
   AGENT,
