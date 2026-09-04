@@ -7,6 +7,14 @@
     "terminalEditor": false
   },
   "explorer.confirmDragAndDrop": false,
+  "files.exclude": {
+    "**/node_modules": true,
+    "akasha-backup-*": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "akasha-backup-*": true
+  },
   "terminal.integrated.mouseWheelScrollSensitivity": 3,
   "terminal.integrated.gpuAcceleration": "off",
   "terminal.integrated.initialHint": false,
