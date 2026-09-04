@@ -56,3 +56,20 @@ index b2d8e92651af3d58419795d88b20d5c0aadc6265..8caef750d0be476d6ce783aa1a31bf26
      },
      {
        invariantKind: "departure",
+diff --git a/pages/views/properties/view-predicate.text-property.ts b/pages/views/properties/view-predicate.text-property.ts
+index 6b8846551671d27b3fc247a02e3ff76d92591d21..f448064d6d5f14d1f44d64da96c7445014b852c8 100644
+--- a/pages/views/properties/view-predicate.text-property.ts
++++ b/pages/views/properties/view-predicate.text-property.ts
+@@ -13,7 +13,11 @@ export const viewPredicate = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A view names a predicate instead of a page type, never both.",
++      statement: "A view names a predicate instead of a page type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A view naming a predicate and a page type at once is refused.",
+     },
+   ],
+ } as const satisfies TextProperty
