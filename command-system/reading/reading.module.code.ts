@@ -177,16 +177,29 @@ function same(one: Opening, other: Opening): boolean {
   return one.dev === other.dev && one.ino === other.ino
 }
 
-export function discardedBy(out: Opening, said: Opening, nowhere: Opening): Discard | null {
+export function discardedBy(
+  out: Opening,
+  inherited: Opening | null,
+  nowhere: Opening
+): Discard | null {
   if (same(out, nowhere)) return "/dev/null"
   if (out.isFIFO()) return "a pipe"
   if (!out.isFile()) return null
-  return said.isFile() && same(out, said) ? null : "a file only this redirect opened"
+  if (inherited === null) return null
+  return same(out, inherited) ? null : "a file only this redirect opened"
+}
+
+export function inheritedOut(ppid: number): Opening | null {
+  try {
+    return statSync(`/proc/${ppid}/fd/1`)
+  } catch {
+    return null
+  }
 }
 
 export function discarded(): Discard | null {
   try {
-    return discardedBy(fstatSync(1), fstatSync(2), statSync("/dev/null"))
+    return discardedBy(fstatSync(1), inheritedOut(process.ppid), statSync("/dev/null"))
   } catch {
     return null
   }
