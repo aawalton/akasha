@@ -4,7 +4,7 @@ export const theGatewaySpawnPathIsNotGatedByTheFleetSwapSoAFreshSpawnTakesTheNew
   id: "01a069c7-5233-720d-a874-e16a2f71b44f",
   pageTypeSlug: "finding",
   slug: "the-gateway-spawn-path-is-not-gated-by-the-fleet-swap-so-a-fresh-spawn-takes-the-new-entry",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/model-gateway",
   claim:
     'Auto-swap being disarmed does not hold a cut-over entry point back. `handleProxyVersionUpdate` only stops a running gateway being replaced; `spawnFreshProxy` resolves its path through `modelGatewayEntrypoint()` at the moment it spawns. So a seat that arrives, or a gateway that dies, starts the akasha entry at once rather than at a fleet swap. The disarmed swap bounds how fast the fleet turns over, not whether it turns over at all, and a lane reading `adopt-with-drift` as "nothing changes until someone runs the swap" has the wrong half of the mechanism.',
   evidence:

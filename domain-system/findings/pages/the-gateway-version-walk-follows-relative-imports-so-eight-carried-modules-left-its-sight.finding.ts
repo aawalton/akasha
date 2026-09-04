@@ -4,7 +4,7 @@ export const theGatewayVersionWalkFollowsRelativeImportsSoEightCarriedModulesLef
   id: "01a0695a-9ecc-7bee-acb5-748712c9d07a",
   pageTypeSlug: "finding",
   slug: "the-gateway-version-walk-follows-relative-imports-so-eight-carried-modules-left-its-sight",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/model-gateway",
   claim:
     "`collectVersionTreeFilesFrom` follows relative specifiers alone. Inside `tools/lib` that reached everything, because the seat chain was one flat folder. Carried into akasha the same chain crosses eight package boundaries, and akasha names those with `@akasha/...`, which that traversal does not follow. So the gateway boot block now measures 84 files with `tools/` at zero, honestly, while the process opens 209. The eight are `check-view`, `run-cost`, `domain-documents`, `domain-reading`, `graph-closure`, `person-reading`, `persona-reading` and `gated-write`: an edit to any of them no longer changes the version stamp, so no supervisor respawns its gateway for it. This is a small addition to a large hole that was already there, and the flip of `ENTRYPOINT_REL` inherits both.",
   evidence:
