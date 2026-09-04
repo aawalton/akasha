@@ -17,13 +17,20 @@ const ANSWER_ENDED = "end_turn"
 
 const ANSWER_RECORD = "assistant"
 
+const ASKED_RECORD = "user"
+
 export interface TurnWorking {
   readonly activeTurn?: boolean
   readonly scannedTo?: number
 }
 
 export interface Answer {
+  readonly kind: string
   readonly stopReason: string | null
+}
+
+export function turnEnded(answer: Answer): boolean {
+  return answer.kind === ANSWER_RECORD && answer.stopReason === ANSWER_ENDED
 }
 
 export function anyWorking(working: TurnWorking): boolean {
@@ -75,13 +82,14 @@ export function lastAnswerIn(text: string, fromFirstByte: boolean): Answer | nul
     }
     if (said === null || typeof said !== "object") continue
     const record = said as { type?: unknown; message?: unknown }
-    if (record.type !== ANSWER_RECORD) continue
+    const kind = record.type
+    if (kind !== ANSWER_RECORD && kind !== ASKED_RECORD) continue
     const message = record.message
     const reason =
       message !== null && typeof message === "object"
         ? (message as { stop_reason?: unknown }).stop_reason
         : null
-    return { stopReason: typeof reason === "string" ? reason : null }
+    return { kind, stopReason: typeof reason === "string" ? reason : null }
   }
   return null
 }
@@ -128,7 +136,7 @@ export function workingOf(agent: string): TurnWorking {
   const replaced = scannedTo !== undefined && size < scannedTo
   const found = answerAtTail(path, size, replaced)
   if (found === null) return held
-  const activeTurn = found.stopReason !== ANSWER_ENDED
+  const activeTurn = !turnEnded(found)
   if (held.activeTurn === activeTurn && scannedTo === size) return held
   const read: TurnWorking = { activeTurn, scannedTo: size }
   keepWorking(agent, read)

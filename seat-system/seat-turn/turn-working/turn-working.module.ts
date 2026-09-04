@@ -10,7 +10,15 @@ export const turnWorking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat is working where its last answer did not end the turn.",
+      statement: "A seat is working until an answer ends its turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prompt with nothing answering it yet is a turn still to finish.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record that is neither a prompt nor an answer neither starts nor ends a turn.",
     },
     {
       invariantKind: "departure",
