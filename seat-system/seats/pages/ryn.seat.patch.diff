@@ -146,3 +146,15 @@ index 0000000000000000000000000000000000000000..867f973b19ae1b336eb2920da3f03c01
 +  test: "ts",
 +  reason: "A closing count sends a reader back over the list to learn what the count covers.",
 +} as const satisfies SentenceShape
+diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
+index 6cab70805921f4099185b24e7286a017ad01eb7a..fff55b238db580f50a81f6b211c528e1ce34af12 100644
+--- a/domains/sentence-shapes/sentence-shape.page-type.ts
++++ b/domains/sentence-shapes/sentence-shape.page-type.ts
+@@ -25,6 +25,7 @@ export const sentenceShape = {
+     "text-property/reason",
+     "text-property/rules",
+     "text-property/shape-pattern",
++    "sentence-shape/closing-count",
+     "sentence-shape/lone-determiner",
+     "sentence-shape/lone-pronoun",
+     "sentence-shape/lone-quantifier",
