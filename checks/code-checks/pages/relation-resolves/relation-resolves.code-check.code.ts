@@ -13,8 +13,6 @@ import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const INSIDE = "akasha/"
-
 export type Carried = {
   readonly path: string
   readonly value: Value
@@ -29,7 +27,7 @@ export function valueFor(change: Change, path: string): Value | null {
 export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): readonly Carried[] {
   const found: Carried[] = []
   for (const path of change.changed) {
-    if (!path.startsWith(INSIDE) || !pageNamed(path, pageTypes)) continue
+    if (!pageNamed(path, pageTypes)) continue
     const value = valueFor(change, path)
     if (value !== null) found.push({ path, value })
   }
