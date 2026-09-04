@@ -17,7 +17,7 @@ let patchCalls: unknown[] = []
 
 function unreached(name: string): () => never {
   return () => {
-    throw new Error(`watcher-auth.unit.test: ${name} is not stubbed and must not be reached`)
+    throw new Error(`watcher-token-check: ${name} is not stubbed and must not be reached`)
   }
 }
 
