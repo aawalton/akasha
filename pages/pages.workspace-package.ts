@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const pagesSystem = {
+export const pages = {
   id: "01a04a26-9105-7000-ab9a-ee74f7657636",
   pageTypeSlug: "workspace-package",
-  slug: "pages-system",
+  slug: "pages",
   definition: "how we keep track of things",
   manifest: "json",
   partSlugs: [

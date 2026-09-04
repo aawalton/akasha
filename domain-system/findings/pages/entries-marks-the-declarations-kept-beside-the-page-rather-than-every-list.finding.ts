@@ -4,7 +4,7 @@ export const entriesMarksTheDeclarationsKeptBesideThePageRatherThanEveryList = {
   id: "01a05f81-c595-7001-9953-21eae3b70cd9",
   pageTypeSlug: "finding",
   slug: "entries-marks-the-declarations-kept-beside-the-page-rather-than-every-list",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "The intent saying a declaration carrying many values says `entries` reads two ways, and the narrower reading was taken: `entries` marks the declarations whose values are kept beside the page rather than every declaration carrying more than one value.",
   evidence:

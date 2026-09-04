@@ -4,7 +4,7 @@ export const aPageQueryHoldsTheLoopWhileItReads = {
   id: "01a05ab8-fce9-7775-97fa-12c758702008",
   pageTypeSlug: "finding",
   slug: "a-page-query-holds-the-loop-while-it-reads",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "A page query is answered to completion before the next one starts. Answering reads a whole index file and parses every line of it without yielding once, so no two answers are ever in progress at once. This finding first said the opposite, that answers overlap, and that was an artifact of the instrument rather than anything the server did. The cost is small today and grows with the pages of one page type. Whether the read path should stop holding the loop has not been decided.",
   evidence:

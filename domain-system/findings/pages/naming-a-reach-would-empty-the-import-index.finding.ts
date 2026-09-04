@@ -4,7 +4,7 @@ export const namingAReachWouldEmptyTheImportIndex = {
   id: "01a05ad9-3b73-787f-ab20-ed7c86112b62",
   pageTypeSlug: "finding",
   slug: "naming-a-reach-would-empty-the-import-index",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "This was true when filed at 20:43 and was answered within the hour. The index filed an edge only for a specifier opening with a dot, so rewriting the akasha imports that reach past a package edge to the names their manifests state would have blinded the required reading gate, the folder shape check and the repointing a move does. `347d2776cc` gave `landingOf` a naming and `f62007f1b6` made the index file an edge for a package specifier; the rewrite followed at 22:14 and 22:23.",
   evidence:

@@ -4,7 +4,7 @@ export const readingOnePageValueLoadsEveryPageValue = {
   id: "01a062bd-d92d-7c9a-b63b-84835f2307fc",
   pageTypeSlug: "finding",
   slug: "reading-one-page-value-loads-every-page-value",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "Reading one page's value loads every page's value in the repository. shadow.pageOf is the single-page value reader every check calls, and its first call builds a map over the whole tree. The identity index answers one slug in one small read, but the value index keeps one file for each page type rather than one for each page, so no single-page value read exists to call instead. The design is declared rather than accidental, so mending it changes a stated invariant.",
   evidence:

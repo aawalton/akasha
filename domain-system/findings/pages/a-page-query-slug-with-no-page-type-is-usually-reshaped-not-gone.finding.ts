@@ -4,7 +4,7 @@ export const aPageQuerySlugWithNoPageTypeIsUsuallyReshapedNotGone = {
   id: "01a06a3c-7100-7000-9f2b-4d1c8e37a501",
   pageTypeSlug: "finding",
   slug: "a-page-query-slug-with-no-page-type-is-usually-reshaped-not-gone",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "Twenty-five of the 104 page queries name an `asksOfSlug` no akasha page type declares, and none of the twenty-five names a concept that is gone. Five are renames onto a live page type, three of which landed. Seventeen name a concept that carried into akasha as a page-property-entry or a file-property beside a parent page, so no page type will ever answer them. Five are drawn by live views and belong to a family another lane is moving. Counting akasha references to the slug does not sort these: a reshaped concept drops its old slug entirely, so it scores zero exactly as a vanished one would.",
   evidence:

@@ -4,7 +4,7 @@ export const aPageLandedOverHttpWithoutTheCli = {
   id: "01a05ac1-a1d0-719b-9fbf-0e1c9fa7c997",
   pageTypeSlug: "finding",
   slug: "a-page-landed-over-http-without-the-cli",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "This page was written by a POST to the page store rather than by the akasha command line. Nothing typed it into the worktree and no check judged it. The service wrote it, indexed it and committed it in one go, authored by the writer the request named.",
   evidence:

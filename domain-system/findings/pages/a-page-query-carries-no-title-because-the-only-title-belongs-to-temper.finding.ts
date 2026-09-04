@@ -4,7 +4,7 @@ export const aPageQueryCarriesNoTitleBecauseTheOnlyTitleBelongsToTemper = {
   id: "01a06423-1b7c-7000-9f2a-4c81d5e0a377",
   pageTypeSlug: "finding",
   slug: "a-page-query-carries-no-title-because-the-only-title-belongs-to-temper",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "The `page-query` page type landed without a title, which loses wording that about 17 of the 104 queries carry and their slugs do not. The call was taken in Alan's absence because both alternatives were worse: a second text property slugged `title` cannot exist, and reusing the one that does would point the pages system at a leaf product package.",
   evidence:

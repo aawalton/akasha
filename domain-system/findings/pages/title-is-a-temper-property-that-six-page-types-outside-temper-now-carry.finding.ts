@@ -4,7 +4,7 @@ export const titleIsATemperPropertyThatSixPageTypesOutsideTemperNowCarry = {
   id: "01a0657f-0c53-7005-b16b-a77c67c1f12e",
   pageTypeSlug: "finding",
   slug: "title-is-a-temper-property-that-six-page-types-outside-temper-now-carry",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "`text-property/title` is the only title property a page may carry, and it sits at `akasha/temper/temper-things/properties/title.text-property.ts`. The Monarch records, the merchants, the category rules, the views, the navs, the collection types and the workflow templates all carry a title, so seven page types outside temper now import a property out of temper's folder.",
   evidence:

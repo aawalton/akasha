@@ -4,7 +4,7 @@ export const removingAModulePageLeavesItsCodeAndItsTestBehind = {
   id: "01a060be-c946-7004-9123-bd06975b62f1",
   pageTypeSlug: "finding",
   slug: "removing-a-module-page-leaves-its-code-and-its-test-behind",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "`sidecarsOf` in akasha/markdown-pages/markdown-sidecar/markdown-sidecar.module.code.ts now carries a page's rows, attachment, uncommitted file and sops file for a page of either kind, but it names those tails one by one. akasha's own `besideOf` answers any file property whatever it holds, so a module page's `.module.code.ts` and `.module.test.ts` are files of it that the removal and move commands still leave behind.",
   evidence:

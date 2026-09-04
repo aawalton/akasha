@@ -4,7 +4,7 @@ export const aViewStatesItsOwnQuestionWherePageQueryHoldsOne = {
   id: "01a0657f-0c53-7003-ad50-0bc349c83571",
   pageTypeSlug: "finding",
   slug: "a-view-states-its-own-question-where-page-query-holds-one",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "`page-query` says that a query holds nothing about how its answer is shown, which reads as though a view would name a query and add only the showing. The 59 views migrated do not: each states its own narrows and sorts inline. They were migrated as they stand, because the code that draws them reads those fields off the view.",
   evidence:

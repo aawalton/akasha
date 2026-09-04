@@ -4,7 +4,7 @@ export const aCountReturnedBesideRowsDescribesTheAnswerRatherThanTheQuestion = {
   id: "01a06761-7580-7000-83cc-8330d9da7223",
   pageTypeSlug: "finding",
   slug: "a-count-returned-beside-rows-describes-the-answer-rather-than-the-question",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "Where a query's limit is passed down to the store, the count answered beside the rows counts what was returned rather than what matched. A caller comparing that count against the rows it received compares a number against itself, so a guard written that way reports no truncation however long it runs. The one signal left is that the rows exactly fill the limit, and that cannot tell a whole answer from a short one, so it is a reason to refuse rather than to answer.",
   evidence:

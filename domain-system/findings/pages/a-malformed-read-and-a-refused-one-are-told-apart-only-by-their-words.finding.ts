@@ -4,7 +4,7 @@ export const aMalformedReadAndARefusedOneAreToldApartOnlyByTheirWords = {
   id: "01a05bd2-dd42-769e-a5b9-31df5dcfe3ee",
   pageTypeSlug: "finding",
   slug: "a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "The page store answers a malformed read and a refused one with the same 400, so a check that names the payload key wrongly reads exactly like the guard working. Whoever verifies the secret guard by status code alone gets a green having tested nothing.",
   evidence:

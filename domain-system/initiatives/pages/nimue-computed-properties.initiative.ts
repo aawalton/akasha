@@ -4,7 +4,7 @@ export const nimueComputedProperties = {
   id: "01a06d12-61e3-7c20-b357-a7a04f16e903",
   pageTypeSlug: "initiative",
   slug: "nimue-computed-properties",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   personaSlug: "nimue",
   intents: [
     {

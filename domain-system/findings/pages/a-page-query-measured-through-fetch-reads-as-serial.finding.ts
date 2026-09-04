@@ -4,7 +4,7 @@ export const aPageQueryMeasuredThroughFetchReadsAsSerial = {
   id: "01a05aef-b3e7-7975-9971-2d8e5926c826",
   pageTypeSlug: "finding",
   slug: "a-page-query-measured-through-fetch-reads-as-serial",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "Addressing the page store by the literal `127.0.0.1` makes a burst of questions come back in the order it was sent; addressing the same server by `localhost` shuffles the order its connections are accepted. Bun opens a connection per request either way, so this is not keep-alive pooling. Either way the position an answer comes back at measures the order connections were accepted rather than whether the server overlapped, so it is no measure of concurrency at all.",
   evidence:

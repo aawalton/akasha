@@ -4,7 +4,7 @@ export const thePageTypeRegistryReadsMarkdownAlone = {
   id: "01a05ce0-2436-7001-9201-bece3500f208",
   pageTypeSlug: "finding",
   slug: "the-page-type-registry-reads-markdown-alone",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "The page type registry ingests markdown page-type pages alone, so every page type now declared in TypeScript under akasha is absent from it, and relations-resolve refuses 2616 relations naming pages that all stand on disk.",
   evidence:

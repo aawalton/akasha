@@ -4,7 +4,7 @@ export const aMarkdownPagesIdIsDerivedAndATypescriptPagesIdIsMinted = {
   id: "01a0612e-dead-7d4f-b2fc-b2eb111e10ae",
   pageTypeSlug: "finding",
   slug: "a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "A new page's id comes from one of two places depending on the kind of file it is, and nothing anywhere says so. A markdown page takes a uuid version 5 worked out from its own address, `repo:relPath`. An akasha TypeScript page takes a minted version 7, and that minter cannot reach a markdown page at all. Neither wrong choice is refused: the version 7 check reads TypeScript only, and the name format judges the shape while naming version and variant as no concern of its own.",
   evidence:

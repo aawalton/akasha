@@ -4,7 +4,7 @@ export const thePageTypeRegistryGapIsDuplicateDeclarationsRatherThanMissingTypes
   id: "01a06104-5116-7230-ab56-82f0dc1cd4a9",
   pageTypeSlug: "finding",
   slug: "the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "`registryOf` resolves 372 markdown page types and none of the 192 `*.page-type.ts` files, which reads as 192 types absent. It is not: 117 of those slugs already resolve from a markdown declaration and only 75 are genuinely absent. The 117 are one page type declared twice, the two halves disagreeing about where its pages are, so unioning the sets would not add types — it would pick a winner for 117 slugs, and pick differently in first-wins and last-wins readers of one process.",
   evidence:

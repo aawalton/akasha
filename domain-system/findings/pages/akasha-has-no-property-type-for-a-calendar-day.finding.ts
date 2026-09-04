@@ -4,7 +4,7 @@ export const akashaHasNoPropertyTypeForACalendarDay = {
   id: "01a05fc7-f920-7cdd-b946-5864f6b6665d",
   pageTypeSlug: "finding",
   slug: "akasha-has-no-property-type-for-a-calendar-day",
-  domainSlug: "workspace-package/pages-system",
+  domainSlug: "workspace-package/pages",
   claim:
     "A page property holding a calendar day has nowhere to land. An instant property must close its slug with `-at` and carry a time to the millisecond, and a day carries neither, so a day is written as text and nothing judges it.",
   evidence:
