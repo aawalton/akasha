@@ -15,4 +15,14 @@ export const relationProperty = {
   partSlugs: ["relation-property/target-page-type-slug"],
   extendsSlug: "page-type/page-property",
   properties: [{ pagePropertySlug: "target-page-type-slug", required: true, many: false }],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A relation is the edge rather than the page the edge reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two edges meaning different things are two relations though both reach one type.",
+    },
+  ],
 } as const satisfies PageType
