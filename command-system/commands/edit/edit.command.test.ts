@@ -6,11 +6,13 @@ import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { landingAsked } from "../../asking/asking.module.code.ts"
-import { checking } from "../../asking/asking.module.test-fixtures.ts"
+import { checking, commitIn, heldIn } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
 import { askedIn, edit, editing } from "./edit.command.code.ts"
 import {
   changing,
+  edited,
+  editedIn,
   givenIn,
   MARKS,
   repoWith,
@@ -42,10 +44,11 @@ test("a body the record shows read is edited", async () => {
 test("the glass broken edits a body the record does not show read", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
   put(root, "akasha/loose.ts", "alpha\n")
-  const said = await edit(
-    [...changing(root, "a", "alpha", "delta", "akasha/loose.ts"), "--break-the-glass", "held"],
-    givenIn(root)
-  )
+  const said = await edited(root, [
+    ...changing(root, "a", "alpha", "delta", "akasha/loose.ts"),
+    "--break-the-glass",
+    "held",
+  ])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("delta\n")
@@ -63,22 +66,19 @@ test("an edit charged to no agent is refused whole", async () => {
 
 test("a stated substitution is worked into a whole body and landed", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\nbeta\ngamma\n" })
-  const said = await edit(
-    [...changing(root, "a", "beta", "delta"), "--message", "held"],
-    givenIn(root)
-  )
+  const said = await edited(root, [...changing(root, "a", "beta", "delta"), "--message", "held"])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\ndelta\ngamma\n")
-  expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held")
+  expect(commitIn(root, said, "%s").trim()).toBe("held")
 })
 
 test("substitutions against one file are worked in order, each against what the one before left", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const said = await edit(
-    [...changing(root, "a", "alpha", "beta"), ...stating(root, "b", "beta", "gamma")],
-    givenIn(root)
-  )
+  const said = await edited(root, [
+    ...changing(root, "a", "alpha", "beta"),
+    ...stating(root, "b", "beta", "gamma"),
+  ])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("gamma\n")
 })
@@ -110,15 +110,14 @@ test("a substitution matching more than once is refused before any check runs", 
   expect(headOf(root)).toBe(was)
 })
 
-test("a refused change writes nothing and moves no head", async () => {
+test("a refused change writes nothing and lands nothing", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
   checking(root, "refuses", REFUSES_CODE)
-  const was = headOf(root)
-  const said = await edit(changing(root, "a", "alpha", "delta"), givenIn(root))
+  const said = await edited(root, changing(root, "a", "alpha", "delta"))
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
-  expect(headOf(root)).toBe(was)
+  expect(heldIn(root, "akasha/one.ts")).toBe("alpha\n")
 })
 
 test("a path that is not there is refused", async () => {
@@ -179,7 +178,7 @@ test("what an edit hands landing carries the bytes it read for each file it chan
 
 test("a replacement carrying dollar patterns lands as the bytes it is", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const said = await edit(changing(root, "a", "alpha", "$& $' $` $1"), givenIn(root))
+  const said = await edited(root, changing(root, "a", "alpha", "$& $' $` $1"))
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("$& $' $` $1\n")
 })
@@ -227,10 +226,10 @@ test("marker blocks piped in state the substitutions, worked in the order stated
   const one = "<<<<<<< old\nbeta\n=======\ndelta\n>>>>>>> new\n"
   const two = "<<<<<<< old\ndelta\n=======\ngamma\n>>>>>>> new\n"
   const piped = () => ({ bytes: bytes(one + two) })
-  const said = await editing(["--file-path", "akasha/one.ts"], givenIn(root), piped)
+  const said = await editedIn(root, ["--file-path", "akasha/one.ts"], piped)
   expect(said.refusals).toEqual([])
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\ngamma\n")
-  const also = await editing(changing(root, "a", "gamma", "delta"), givenIn(root), piped)
+  const also = await editedIn(root, changing(root, "a", "gamma", "delta"), piped)
   expect(also.refusals).toEqual([])
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\ndelta\n")
 })
@@ -245,21 +244,16 @@ test("an empty passage names no place and is refused", async () => {
 test("breaking the glass runs no check and says so in the commit", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
   checking(root, "refuses", REFUSES_CODE)
-  const said = await edit(
-    [
-      ...changing(root, "a", "alpha", "delta"),
-      "--message",
-      "held",
-      "--break-the-glass",
-      "the checks are themselves broken",
-    ],
-    givenIn(root)
-  )
+  const said = await edited(root, [
+    ...changing(root, "a", "alpha", "delta"),
+    "--message",
+    "held",
+    "--break-the-glass",
+    "the checks are themselves broken",
+  ])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("delta\n")
-  expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
-    "Checks-bypassed: the checks are themselves broken"
-  )
+  expect(commitIn(root, said)).toContain("Checks-bypassed: the checks are themselves broken")
 })
 
 test("one path named twice by one call is refused", async () => {
@@ -291,14 +285,14 @@ test("several files are one act, refused whole when one of them cannot be worked
 test("a substitution and a removal land as one commit", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n", "akasha/two.ts": "beta\n" })
   const held = changing(root, "a", "alpha", "delta")
-  const said = await edit([...held, "--remove", "akasha/two.ts"], givenIn(root))
-  expect(said.report.join("\n")).toContain("took away akasha/two.ts")
+  const said = await edited(root, [...held, "--remove", "akasha/two.ts"])
+  expect(said.report.join("\n")).toContain("landed akasha/two.ts")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("delta\n")
 })
 
 test("a removal alone lands, and what stands beside it goes with it", async () => {
   const root = repoWith({ "akasha/a.module.ts": "a\n", "akasha/a.module.code.ts": "b\n" })
-  const said = await edit(["--remove", "akasha/a.module.ts"], givenIn(root))
+  const said = await edited(root, ["--remove", "akasha/a.module.ts"])
   expect(said.code).toBe(0)
   expect(existsSync(join(root, "akasha/a.module.code.ts"))).toBe(false)
 })

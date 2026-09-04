@@ -2,17 +2,19 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listedTakenFrom } from "@akasha/indexes/testing"
+import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { write } from "../commands/write/write.command.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
-import { landingAsked, MECHANICAL, NO_CHECKS } from "./asking.module.code.ts"
+import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
   asking,
   BROKEN,
   blocked,
   bodyIn,
   checking,
+  commitIn,
   git,
   givenIn,
   LOOSE,
@@ -25,8 +27,10 @@ import {
   repoWithTheFormatter,
   scratch,
   TIDY,
+  treeHolds,
   UNLOADABLE_AT,
   wrote,
+  wroteWith,
 } from "./asking.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -109,9 +113,9 @@ test("the glass carries a change past checks that will not load, and the commit 
   const root = repoNoCheckLoads()
   const said = await wrote(root, ["--message", "held", "--break-the-glass", "mid-refactor"])
   expect(said.code).toBe(0)
-  expect(said.report).toContain("wrote akasha/two.ts")
+  expect(said.report).toContain("landed akasha/two.ts")
   expect(said.report.join("\n")).toContain("either, so none could have run")
-  const body = git(root, ["log", "-1", "--pretty=%B"])
+  const body = commitIn(root, said)
   expect(body).toContain("Checks-bypassed: mid-refactor")
   expect(body).toContain(`Checks-unloadable: ${UNLOADABLE_AT} is a check's code`)
 })
@@ -119,12 +123,11 @@ test("the glass carries a change past checks that will not load, and the commit 
 test("a check is handed a removal, and can refuse it", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   checking(root, "refuses-taking", REFUSES_TAKING)
-  const was = headOf(root)
-  const said = await write(["--remove", "akasha/two.ts", "--message", "held"], givenIn(root))
+  const said = await wroteWith(root, ["--remove", "akasha/two.ts", "--message", "held"])
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("akasha/two.ts — a check judged this going away")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(true)
-  expect(headOf(root)).toBe(was)
+  expect(treeHolds(root, "akasha/two.ts")).toBe(true)
 })
 
 test("that same check lets a written body through, so it refuses the going and not the arriving", async () => {
@@ -145,7 +148,9 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
     givenIn(root)
   )
   expect(said.code).toBe(0)
-  expect(said.report).toContain("1 check judged the 2 paths asked for, and none refused")
+  expect(said.report).toContain(
+    "1 check judged the 2 paths the patch would leave, and none refused"
+  )
 })
 
 test("a landing whose phase runs no check says the paths landed unjudged", async () => {
@@ -155,7 +160,7 @@ test("a landing whose phase runs no check says the paths landed unjudged", async
   const said = await wrote(root, ["--message", "held"])
   expect(said.code).toBe(0)
   expect(said.report).toContain(
-    "no check runs at this phase, so the 1 path asked for landed unjudged"
+    "no check runs at this phase, so the 1 path the patch would leave went unjudged"
   )
 })
 
@@ -170,18 +175,15 @@ test("breaking the glass runs no check and says so in the commit", async () => {
   ])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
-  expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
-    "Checks-bypassed: the checks are themselves broken"
-  )
+  expect(commitIn(root, said)).toContain("Checks-bypassed: the checks are themselves broken")
 })
+
+const PROGRAM = [{ path: "akasha/two.ts", body: bytes(PROPOSED) }]
 
 test("a landing made by a program runs no check and says so in the commit", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const said = await wrote(root, ["--message", "held"], PROPOSED, {
-    ...givenIn(root),
-    changeKind: MECHANICAL,
-  })
+  const said = await landedMechanically(root, "akasha write", PROGRAM, "held")
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
@@ -191,10 +193,7 @@ test("a landing made by a program runs no check and says so in the commit", asyn
 
 test("a landing made by a program is told apart from a glass that was broken", async () => {
   const root = repoWith()
-  const said = await wrote(root, ["--message", "held"], PROPOSED, {
-    ...givenIn(root),
-    changeKind: MECHANICAL,
-  })
+  const said = await landedMechanically(root, "akasha write", PROGRAM, "held")
   expect(said.code).toBe(0)
   expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
@@ -231,16 +230,16 @@ test("a removal is carried through the formatter untouched, and nothing is said 
     "akasha/one.ts": "committed\n",
     "akasha/two.ts": "committed\n",
   })
-  const said = await write(["--remove", "akasha/two.ts", "--message", "held"], givenIn(root))
+  const said = await wroteWith(root, ["--remove", "akasha/two.ts", "--message", "held"])
   expect(said.code).toBe(0)
-  expect(said.report).toContain("took away akasha/two.ts")
+  expect(said.report).toContain("landed akasha/two.ts")
   expect(said.report).not.toContain(REFORMATTED)
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
 })
 
 test("a folder left holding nothing by a removal is cleared off the disk", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/deep/two.ts": "committed\n" })
-  const said = await write(["--remove", "akasha/deep/two.ts", "--message", "held"], givenIn(root))
+  const said = await wroteWith(root, ["--remove", "akasha/deep/two.ts", "--message", "held"])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(existsSync(join(root, "akasha/deep/two.ts"))).toBe(false)
@@ -251,7 +250,7 @@ test("a folder left holding nothing by a removal is cleared off the disk", async
 test("a folder still holding a file git does not track is kept by a removal", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/deep/two.ts": "committed\n" })
   put(root, "akasha/deep/unsaid.txt", "work in progress\n")
-  const said = await write(["--remove", "akasha/deep/two.ts", "--message", "held"], givenIn(root))
+  const said = await wroteWith(root, ["--remove", "akasha/deep/two.ts", "--message", "held"])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(existsSync(join(root, "akasha/deep/two.ts"))).toBe(false)

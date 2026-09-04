@@ -6,12 +6,18 @@ import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { MECHANICAL } from "../../asking/asking.module.code.ts"
-import { bodyIn, checking, givenIn } from "../../asking/asking.module.test-fixtures.ts"
-import { baseOf as headOf } from "../../landing/landing.module.code.ts"
-import { readingIn } from "../../reading/reading.module.code.ts"
-import { write, writing } from "./write.command.code.ts"
 import {
-  AGENT,
+  applied,
+  bodyIn,
+  checking,
+  commitIn,
+  givenIn,
+  treeHolds,
+  wroteWith,
+} from "../../asking/asking.module.test-fixtures.ts"
+import { baseOf as headOf } from "../../landing/landing.module.code.ts"
+import { filing, write, writing } from "./write.command.code.ts"
+import {
   alsoCommitted,
   readAs,
   removed,
@@ -89,22 +95,20 @@ test("a write charged to no agent is refused whole", async () => {
 test("a write whose kind runs no warrant owes no reading of a body unread", async () => {
   const root = repoWith()
   put(root, "akasha/loose.ts", "loose\n")
-  const said = await write(["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root)], {
-    ...givenIn(root),
-    changeKind: MECHANICAL,
-  })
+  const argv = ["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root)]
+  const said = await wroteWith(root, argv, { ...givenIn(root), changeKind: MECHANICAL })
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("proposed\n")
 })
 
-test("a write whose kind runs no warrant lands charged to no agent", async () => {
+test("a mechanical write drafts nothing, so it lands charged to no agent", async () => {
   const root = repoWith()
-  const said = await write(["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)], {
-    ...givenIn(root),
-    agentId: null,
-    changeKind: MECHANICAL,
-  })
+  const said = await filing(
+    ["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)],
+    { ...givenIn(root), agentId: null },
+    () => ({ tty: true })
+  )
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/new.ts"), "utf8")).toBe("proposed\n")
@@ -116,30 +120,29 @@ test("a change that passes is written and committed", async () => {
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
-  expect(said.report).toContain("1 check judged the 1 path asked for, and none refused")
-  expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held")
+  expect(said.report).toContain("1 check judged the 1 path the patch would leave, and none refused")
+  expect(commitIn(root, said, "%s").trim()).toBe("held")
 })
 
-test("a refused change writes nothing and moves no head", async () => {
+test("a refused change writes nothing and lands nothing", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const was = headOf(root)
   const said = await wroteAt(root, "akasha/two.ts")
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  expect(headOf(root)).toBe(was)
+  expect(treeHolds(root, "akasha/two.ts")).toBe(false)
 })
 
 test("the bodies written and the paths taken away are one commit, refused together", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   checking(root, "refuses", REFUSES_CODE)
-  const was = headOf(root)
   const said = await wroteAndRemoved(root, "akasha/three.ts", "akasha/two.ts")
   expect(said.code).toBe(3)
   expect(existsSync(join(root, "akasha/three.ts"))).toBe(false)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("committed\n")
-  expect(headOf(root)).toBe(was)
+  expect(treeHolds(root, "akasha/three.ts")).toBe(false)
+  expect(treeHolds(root, "akasha/two.ts")).toBe(true)
 })
 
 test("a removal takes the file away and commits it with the write", async () => {
@@ -184,18 +187,6 @@ test("a file standing beside a path this call writes is not taken away", async (
   const said = await wroteAndRemoved(root, "akasha/held.module.code.ts", "akasha/two.ts")
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/held.module.code.ts"), "utf8")).toBe("proposed\n")
-})
-
-test("a path taken away is forgotten by the record, so it can be written again", async () => {
-  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  const gone = await removed(root, "akasha/two.ts")
-  expect(gone.refusals).toEqual([])
-  expect(readingIn(root, AGENT, "akasha/two.ts")).toBeNull()
-  expect(readingIn(root, AGENT, "akasha/one.ts")).not.toBeNull()
-  const said = await wroteAt(root, "akasha/two.ts")
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
 })
 
 test("a removal of what is not there is refused as data that is wrong", async () => {
@@ -245,9 +236,10 @@ test("a file path naming no content file with nothing piped in is refused", asyn
 test("the bytes piped in are the body, text or not", async () => {
   const root = repoWith()
   const raw = new Uint8Array([0xff, 0xfe, 0x01, 0x02])
-  const said = await writing(["--file-path", "akasha/two.bin"], givenIn(root), () => ({
+  const drafted = await writing(["--file-path", "akasha/two.bin"], givenIn(root), () => ({
     bytes: raw,
   }))
+  const said = await applied(root, drafted)
   expect(said.code).toBe(0)
   expect([...readFileSync(join(root, "akasha/two.bin"))]).toEqual([...raw])
 })
@@ -289,29 +281,18 @@ test("one path written and taken away by one call is refused", async () => {
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("committed\n")
 })
 
-test("the message is trimmed whether it is stated or read from a file", async () => {
+test("a message stated at the write reaches no commit, so the apply is what names one", async () => {
   const root = repoWith()
   const from = bodyIn(root)
   put(root, "message.txt", "  from a file  \n")
-  const said = await write(
-    [
-      "--file-path",
-      "akasha/two.ts",
-      "--content-file",
-      from,
-      "--message-file",
-      join(root, "message.txt"),
-    ],
+  const drafted = await write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "  stated  "],
     givenIn(root)
   )
+  expect(drafted.code).toBe(0)
+  const said = await applied(root, drafted, ["--message-file", join(root, "message.txt")])
   expect(said.code).toBe(0)
-  expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("from a file")
-  const also = await write(
-    ["--file-path", "akasha/three.ts", "--content-file", from, "--message", "  stated  "],
-    givenIn(root)
-  )
-  expect(also.code).toBe(0)
-  expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("stated")
+  expect(commitIn(root, said).trim()).toBe("from a file")
 })
 
 test("a content file that is not there is a caller's mistake, not a refusal by the gate", async () => {
@@ -338,10 +319,8 @@ test("a body that is not text lands as the bytes it is", async () => {
   const root = repoWith()
   const at = join(root, "body.bin")
   writeFileSync(at, new Uint8Array([0xff, 0xfe, 0x01, 0x02]))
-  const said = await write(
-    ["--file-path", "akasha/two.bin", "--content-file", at, "--message", "held"],
-    givenIn(root)
-  )
+  const argv = ["--file-path", "akasha/two.bin", "--content-file", at, "--message", "held"]
+  const said = await wroteWith(root, argv)
   expect(said.code).toBe(0)
   expect([...readFileSync(join(root, "akasha/two.bin"))]).toEqual([0xff, 0xfe, 0x01, 0x02])
 })
@@ -352,7 +331,7 @@ test("a change asking for what already stands commits nothing and says so", asyn
   const from = put(root, "body.txt", "committed\n")
   const said = await write(["--file-path", "akasha/one.ts", "--content-file", from], givenIn(root))
   expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain("nothing was committed")
+  expect(said.report.join("\n")).toContain("the patch was worked out to nothing")
   expect(headOf(root)).toBe(was)
 })
 

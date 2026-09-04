@@ -124,6 +124,14 @@ export const givenIn = (root: string) => ({
 
 export const bodyIn = (root: string): string => put(root, "body.txt", PROPOSED)
 
+export function heldIn(root: string, path: string): string {
+  return git(root, ["show", `HEAD:${path}`])
+}
+
+export function treeHolds(root: string, path: string): boolean {
+  return git(root, ["ls-tree", "--name-only", "HEAD", path]).trim() === path
+}
+
 const APPLYING = ["--message", "--message-file", "--break-the-glass"]
 
 const COMMITTED = "committed as "
@@ -143,7 +151,8 @@ export async function applied(
   given: Given = givenIn(root)
 ): Promise<Answer> {
   if (said.code !== 0) return said
-  return await patch(["apply", ...applyingIn(argv)], given)
+  const then = await patch(["apply", ...applyingIn(argv)], given)
+  return { report: [...said.report, ...then.report], refusals: then.refusals, code: then.code }
 }
 
 export async function wroteWith(

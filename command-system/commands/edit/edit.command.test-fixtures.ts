@@ -1,8 +1,9 @@
 import { put } from "@akasha/testing-system/putting"
 import { applied, repoAt } from "../../asking/asking.module.test-fixtures.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import type { Piping } from "../../piping/piping.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { edit } from "./edit.command.code.ts"
+import { edit, editing } from "./edit.command.code.ts"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -34,6 +35,15 @@ export async function edited(
   given: Given = givenIn(root)
 ): Promise<Answer> {
   return await applied(root, await edit(argv, given), argv, given)
+}
+
+export async function editedIn(
+  root: string,
+  argv: readonly string[],
+  piping: Piping,
+  given: Given = givenIn(root)
+): Promise<Answer> {
+  return await applied(root, await editing(argv, given, piping), argv, given)
 }
 
 export function stating(root: string, name: string, was: string, now: string): readonly string[] {
