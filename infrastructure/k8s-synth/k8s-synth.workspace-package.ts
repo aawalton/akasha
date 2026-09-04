@@ -17,7 +17,7 @@ export const k8sSynth = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A generated manifest is committed rather than made at deploy time.",
+      statement: "A generated manifest is written by the synth run rather than committed.",
     },
     {
       invariantKind: "departure",

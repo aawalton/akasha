@@ -4,11 +4,6 @@ export const DISCOVERY_GLOBS: readonly string[] = [
   "**/*.cluster-service.code.attachment.ts",
   "infrastructure/cluster-manifests/*-synth/*-synth.module.code.ts",
   "infrastructure/upscale/*-synth/*-synth.module.code.ts",
-  "infra/k8s/*/*/k8s/synth.ts",
-  "infra/*/k8s/synth.ts",
-  "infra/*/*/k8s/synth.ts",
-  "*/*/deploy/k8s/synth.ts",
-  "*/*/*/deploy/k8s/synth.ts",
 ]
 
 const NON_IDENTIFIER_COMPONENTS: ReadonlySet<string> = new Set(["k8s", "deploy", "src", "synth.ts"])
