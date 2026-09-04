@@ -8,5 +8,4 @@ export const errors = {
   icon: "bug",
   navPlace: 2,
   appSlug: "alanwalton",
-  navParent: "pipelines",
 } as const satisfies Nav
