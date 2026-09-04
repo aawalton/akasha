@@ -7,6 +7,7 @@ import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
 import type { RoleSlug } from "./properties/role-slug.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
+import type { TurnWorking } from "./properties/turn-working.record-property.ts"
 
 export type Seat = Agent & {
   personaSlug: PersonaSlug
@@ -16,6 +17,7 @@ export type Seat = Agent & {
   onCall: OnCall
   registrationAccount: RegistrationAccount
   claudeCodeSessionUuid?: ClaudeCodeSessionUuid
+  turnWorking?: TurnWorking
 }
 
 export const seat = {
@@ -27,6 +29,7 @@ export const seat = {
   extendsSlug: "page-type/agent",
   mortal: true,
   partSlugs: [
+    "boolean-property/active-turn",
     "boolean-property/live-child",
     "boolean-property/on-call",
     "boolean-property/owed",
@@ -36,12 +39,14 @@ export const seat = {
     "instant-property/restart-armed-at",
     "number-property/context-tokens",
     "number-property/proxy-port",
+    "number-property/scanned-to",
     "process-property/proxy-process",
     "process-property/supervisor-process",
     "record-property/context-replaced",
     "record-property/proxy",
     "record-property/request",
     "record-property/turn-pending",
+    "record-property/turn-working",
     "relation-property/person-slug",
     "relation-property/requested-action",
     "relation-property/role-slug",
@@ -70,6 +75,7 @@ export const seat = {
     { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "context-tokens", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "turn-pending", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "turn-working", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "request", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "context-replaced", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "re-exec-ask", required: false, many: false, uncommitted: true },
