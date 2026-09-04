@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const agentForest = {
   id: "01a0693a-d9ea-7709-822c-183271014440",
