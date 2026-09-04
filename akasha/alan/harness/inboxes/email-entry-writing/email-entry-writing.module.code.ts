@@ -7,7 +7,7 @@ import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guar
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
 import { nameFaultIn } from "@akasha/pages-system/page-export-name"
 import { asking } from "@akasha/pages-system-service/asking"
-import { wakeDayOf } from "@tools/lib/wake-day"
+import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
 const EMAIL_ENTRY_PAGE_TYPE_SLUG = "email-entry"
 
