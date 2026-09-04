@@ -6,18 +6,36 @@ import { placeDirOf } from "@akasha/markdown-pages/page-types"
 import {
   patchUncommitted,
   readUncommitted,
-  removeUncommitted,
+  removeUncommitted as removeBesideMarkdown,
 } from "@akasha/markdown-pages/uncommitted"
 import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
+import {
+  mergeUncommitted,
+  removeUncommitted as removeBesidePage,
+  uncommittedIn,
+} from "@akasha/pages-system/page-uncommitted"
+import { valueAt } from "@akasha/pages-system/page-value"
+import { composedFor } from "@akasha/pages-system-service/composing"
 import { akashaSeatIdForName } from "../../akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"
 
+const WRITER = "message-file-writer"
+
+// WHERE A MESSAGE IS WRITTEN NOW. A message is a page under the akasha `message` page type,
+// named for the last twelve hex of its id behind the page type slug, because a uuid's camelCase
+// form opens with a digit and no `export const` may be declared under such a name.
+const PAGES_AT = "akasha/seat-system/messages/pages"
+
+const PAGE_EXT = `.${PAGE_TYPE}.ts`
+
+const CLAIMED_AT_KEY = "claimedAt"
+
+// WHERE A MESSAGE WAS WRITTEN BEFORE. Read still, never written, so that no message already
+// waiting is lost while the two stores both hold mail. This goes once the old store is empty.
 const MESSAGES = placeDirOf(PAGE_TYPE)
 
 const PAGE_SUFFIX = `.${PAGE_TYPE}${MARKDOWN}`
-
-const WRITER = "message-file-writer"
 
 const CLAIMED_AT = "claimed-at"
 
@@ -51,37 +69,28 @@ export function recipientRefused(to: string): string | null {
   return null
 }
 
+// THE STORE WATCHED IS THE STORE READ. Both of these name a directory handed to `fs.watch` by
+// message-file-watch and pending-maintaining. They answer where a message is written now, so a
+// watch fires on the store a message actually arrives in.
 export function messagesDirRelPath(): string {
-  return MESSAGES
+  return PAGES_AT
 }
 
-export function messageDirRelPath(to: string): string {
-  return `${MESSAGES}/${to}`
+export function messageDirRelPath(_to: string): string {
+  return PAGES_AT
 }
 
-export function messageRelPath(to: string, id: string): string {
-  return `${messageDirRelPath(to)}/${id}${PAGE_SUFFIX}`
+export function slugForId(id: string): string {
+  return `${PAGE_TYPE}-${id.slice(-12)}`
 }
 
-export function composeMessage(stated: {
-  readonly slug: string
-  readonly to: string
-  readonly from: string
-  readonly warrant: Warrant
-  readonly body: string
-}): string {
-  const body = stated.body.endsWith("\n") ? stated.body : `${stated.body}\n`
-  return [
-    "---",
-    `page-type-slug: ${PAGE_TYPE}`,
-    `slug: ${stated.slug}`,
-    `to: ${stated.to}`,
-    `from: ${stated.from}`,
-    `warrant: ${stated.warrant}`,
-    "---",
-    "",
-    body,
-  ].join("\n")
+export function messageRelPath(_to: string, id: string): string {
+  const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : slugForId(id)
+  return `${PAGES_AT}/${stem}${PAGE_EXT}`
+}
+
+export function markdownRelPath(to: string, id: string): string {
+  return `${MESSAGES}/${to}/${id}${PAGE_SUFFIX}`
 }
 
 const FAILED = /^\s*\[[a-z-]+\]\s+fail\b/
@@ -91,25 +100,10 @@ export function whyRefused(report: string): string {
   return (failed.length === 0 ? report.trim() : failed.join("; ")).trim()
 }
 
-// A DELIVERY THAT MAKES ITS OWN DESTINATION CANNOT FAIL. `recipientRefused` bars a path and a
-// dot and then takes any name at all, and the write below creates the directory it addresses. So
-// a misspelled recipient was not a failed send: it was a new mailbox holding one message, and the
-// caller was answered `written` with an id.
-//
-// That has already happened, measured 2026-09-02: `pages/message/` holds 68 messages nobody
-// drained, in three directories no seat has ever been named for —
-// `change-harness-cluster-operator` 39 (addressed by itself), `domain-archivist-review-documents`
-// 28 (from `supervisor`), `amy-alan-handler` 1 (from `service`) — the newest of them 2026-08-27.
-// Both directories named for a seat hold nothing, because a seat drains what it is sent.
-//
-// The predicate was already written and already reasoned, at `agent-record.ts:writeAnnouncement`,
-// which refuses `no seat currently holds the name` rather than writing where nobody drains it. It
-// guarded one caller of seven. It belongs here, under all of them.
-//
-// THE THIRD ANSWER IS THE POINT, and it is `agent-record.ts`'s own: a seat that is not there and
-// a place where no seat can be read must not read alike. Where the seat index cannot be read at
-// all, this writes rather than refusing — refusing there would take every message in the tree
-// down with one unreadable checkout, which is a worse failure than the one being fixed.
+// A DELIVERY THAT MAKES ITS OWN DESTINATION CANNOT FAIL, so a misspelled recipient was not a
+// failed send but a new mailbox holding one message. Where the seat index cannot be read at all
+// this writes rather than refusing: refusing there would take every message in the tree down with
+// one unreadable checkout, which is a worse failure than the one being answered.
 function unknownRecipient(to: string): string | null {
   let known: boolean
   try {
@@ -136,24 +130,80 @@ export function writeMessage(stated: {
   const unknown = unknownRecipient(stated.to)
   if (unknown !== null) return { kind: "refused", detail: unknown }
   const id = Bun.randomUUIDv7()
-  const relPath = messageRelPath(stated.to, id)
+  const slug = slugForId(id)
+  const root = akashaRoot()
+  const body = stated.body.endsWith("\n") ? stated.body : `${stated.body}\n`
+  const composed = composedFor(root, {
+    pageTypeSlug: PAGE_TYPE,
+    slug,
+    values: {
+      id,
+      pageTypeSlug: PAGE_TYPE,
+      slug,
+      to: stated.to,
+      from: stated.from,
+      warrant: stated.warrant,
+      body,
+    },
+  })
+  if ("refused" in composed) return { kind: "refused", detail: composed.refused }
+  if (!composed.put.path.startsWith(`${PAGES_AT}/`)) {
+    return {
+      kind: "refused",
+      detail:
+        `a message page would land at ${composed.put.path}, outside ${PAGES_AT}, which is ` +
+        `the only place read here, so nothing would ever drain it`,
+    }
+  }
   const landed = landBodies(
     { repo: AKASHA, writer: WRITER, message: `message to ${stated.to} from ${stated.from}` },
-    [{ relPath, body: composeMessage({ ...stated, slug: id }) }]
+    [{ relPath: composed.put.path, body: composed.put.content }]
   )
   return landed.ok
-    ? { kind: "written", id, relPath }
+    ? { kind: "written", id: slug, relPath: composed.put.path }
     : { kind: "refused", detail: whyRefused(landed.why) }
 }
 
-function claimedAtMsOf(absolute: string): number | null {
-  const held = readUncommitted(absolute)?.[CLAIMED_AT]
-  if (typeof held !== "string") return null
-  const ms = Date.parse(held)
+function msOf(said: unknown): number | null {
+  if (typeof said !== "string") return null
+  const ms = Date.parse(said)
   return Number.isFinite(ms) ? ms : null
 }
 
-function messageAt(to: string, id: string, absolute: string): Message | null {
+function pageMessages(): readonly Message[] {
+  const root = akashaRoot()
+  let names: readonly string[]
+  try {
+    names = readdirSync(`${root}/${PAGES_AT}`)
+  } catch {
+    return []
+  }
+  const held: Message[] = []
+  for (const name of names) {
+    if (!name.endsWith(PAGE_EXT)) continue
+    const relPath = `${PAGES_AT}/${name}`
+    let value
+    try {
+      value = valueAt(relPath, root)
+    } catch {
+      continue
+    }
+    if (value === null || value === undefined) continue
+    const stated = value["warrant"]
+    held.push({
+      id: name.slice(0, -PAGE_EXT.length),
+      to: typeof value["to"] === "string" ? value["to"] : "",
+      from: typeof value["from"] === "string" ? value["from"] : "",
+      warrant: stated === "blocked" ? "blocked" : "announce",
+      body: typeof value["body"] === "string" ? value["body"] : "",
+      claimedAtMs: msOf(uncommittedIn(root, relPath)?.[CLAIMED_AT_KEY]),
+      relPath,
+    })
+  }
+  return held
+}
+
+function markdownMessageAt(to: string, id: string, absolute: string): Message | null {
   let text: string
   try {
     text = readFileSync(absolute, "utf8")
@@ -162,24 +212,20 @@ function messageAt(to: string, id: string, absolute: string): Message | null {
   }
   const parsed = parseFrontmatter(text)
   const fields = Object.fromEntries(parsed.fields)
-  const from = typeof fields.from === "string" ? fields.from : ""
   const stated = typeof fields.warrant === "string" ? fields.warrant : ""
-  const warrant: Warrant = stated === "blocked" ? "blocked" : "announce"
-  const body = text.replace(/\r\n/g, "\n").split("\n").slice(parsed.lineCount).join("\n")
   return {
     id,
     to,
-    from,
-    warrant,
-    body,
-    claimedAtMs: claimedAtMsOf(absolute),
-    relPath: messageRelPath(to, id),
+    from: typeof fields.from === "string" ? fields.from : "",
+    warrant: stated === "blocked" ? "blocked" : "announce",
+    body: text.replace(/\r\n/g, "\n").split("\n").slice(parsed.lineCount).join("\n"),
+    claimedAtMs: msOf(readUncommitted(absolute)?.[CLAIMED_AT]),
+    relPath: markdownRelPath(to, id),
   }
 }
 
-export function messagesTo(to: string): readonly Message[] {
-  if (recipientRefused(to) !== null) return []
-  const dir = `${akashaRoot()}/${messageDirRelPath(to)}`
+function markdownMessagesTo(to: string): readonly Message[] {
+  const dir = `${akashaRoot()}/${MESSAGES}/${to}`
   let names: readonly string[]
   try {
     names = readdirSync(dir)
@@ -189,9 +235,17 @@ export function messagesTo(to: string): readonly Message[] {
   const held: Message[] = []
   for (const name of names) {
     if (!name.endsWith(PAGE_SUFFIX)) continue
-    const one = messageAt(to, name.slice(0, -PAGE_SUFFIX.length), `${dir}/${name}`)
+    const one = markdownMessageAt(to, name.slice(0, -PAGE_SUFFIX.length), `${dir}/${name}`)
     if (one !== null) held.push(one)
   }
+  return held
+}
+
+// BOTH STORES ARE DRAINED. A message waiting in the old store is delivered as it always was, so
+// moving where a message is written loses nobody's mail.
+export function messagesTo(to: string): readonly Message[] {
+  if (recipientRefused(to) !== null) return []
+  const held = [...pageMessages().filter((one) => one.to === to), ...markdownMessagesTo(to)]
   return held.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0))
 }
 
@@ -199,7 +253,7 @@ export function unclaimedTo(to: string): readonly Message[] {
   return messagesTo(to).filter((one) => one.claimedAtMs === null)
 }
 
-export function everyRecipient(): readonly string[] {
+function markdownRecipients(): readonly string[] {
   const dir = `${akashaRoot()}/${MESSAGES}`
   let names: readonly string[]
   try {
@@ -207,16 +261,20 @@ export function everyRecipient(): readonly string[] {
   } catch {
     return []
   }
-  return names
-    .filter((name) => {
-      if (recipientRefused(name) !== null) return false
-      try {
-        return statSync(`${dir}/${name}`).isDirectory()
-      } catch {
-        return false
-      }
-    })
-    .sort()
+  return names.filter((name) => {
+    if (recipientRefused(name) !== null) return false
+    try {
+      return statSync(`${dir}/${name}`).isDirectory()
+    } catch {
+      return false
+    }
+  })
+}
+
+export function everyRecipient(): readonly string[] {
+  const held = new Set<string>(markdownRecipients())
+  for (const one of pageMessages()) if (one.to !== "") held.add(one.to)
+  return [...held].sort()
 }
 
 export function messagesFrom(from: string): readonly Message[] {
@@ -231,23 +289,46 @@ export function claimedBefore(to: string, beforeMs: number): readonly Message[] 
   return messagesTo(to).filter((one) => one.claimedAtMs !== null && one.claimedAtMs < beforeMs)
 }
 
+// WHICH STORE HOLDS IT is answered by the page file being there, never by the shape of the id,
+// so a stem that could be read either way is still resolved by what is on disk.
+function heldAt(to: string, id: string): { readonly relPath: string; readonly page: boolean } {
+  const asPage = messageRelPath(to, id)
+  if (existsSync(`${akashaRoot()}/${asPage}`)) return { relPath: asPage, page: true }
+  return { relPath: markdownRelPath(to, id), page: false }
+}
+
 export function claimMessage(to: string, id: string, atMs: number = Date.now()): boolean {
-  const absolute = `${akashaRoot()}/${messageRelPath(to, id)}`
+  const root = akashaRoot()
+  const held = heldAt(to, id)
+  const absolute = `${root}/${held.relPath}`
   if (!existsSync(absolute)) return false
-  if (claimedAtMsOf(absolute) !== null) return false
-  patchUncommitted(absolute, { [CLAIMED_AT]: new Date(atMs).toISOString() })
+  const said = new Date(atMs).toISOString()
+  if (held.page) {
+    if (msOf(uncommittedIn(root, held.relPath)?.[CLAIMED_AT_KEY]) !== null) return false
+    mergeUncommitted(root, held.relPath, { [CLAIMED_AT_KEY]: said })
+    return true
+  }
+  if (msOf(readUncommitted(absolute)?.[CLAIMED_AT]) !== null) return false
+  patchUncommitted(absolute, { [CLAIMED_AT]: said })
   return true
 }
 
 export function releaseClaim(to: string, id: string): void {
-  removeUncommitted(`${akashaRoot()}/${messageRelPath(to, id)}`)
+  const root = akashaRoot()
+  const held = heldAt(to, id)
+  if (held.page) {
+    removeBesidePage(root, held.relPath)
+    return
+  }
+  removeBesideMarkdown(`${root}/${held.relPath}`)
 }
 
 export function takeMessage(to: string, id: string): Taken {
-  const relPath = messageRelPath(to, id)
-  const absolute = `${akashaRoot()}/${relPath}`
+  const root = akashaRoot()
+  const held = heldAt(to, id)
+  const absolute = `${root}/${held.relPath}`
   if (!existsSync(absolute)) {
-    removeUncommitted(absolute)
+    releaseClaim(to, id)
     return { kind: "gone" }
   }
   const taken = landRemovals(
@@ -256,9 +337,9 @@ export function takeMessage(to: string, id: string): Taken {
       writer: WRITER,
       message: `message to ${to} is read, and read is the file's absence`,
     },
-    [relPath]
+    [held.relPath]
   )
   if (!taken.ok) return { kind: "refused", detail: whyRefused(taken.why) }
-  removeUncommitted(absolute)
+  releaseClaim(to, id)
   return { kind: "taken" }
 }
