@@ -5,8 +5,6 @@ import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const INSIDE = "akasha/"
-
 const PHONE_NUMBER = "phone-number-property"
 
 const PLUS = "+"
@@ -85,7 +83,6 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   }
   const judged: Judged[] = []
   for (const path of change.changed) {
-    if (!path.startsWith(INSIDE)) continue
     if (!pageNamed(path, pageTypes)) continue
     const value = shadow.pageOf(path)
     if (value === null) continue
