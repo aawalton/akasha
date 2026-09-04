@@ -81,6 +81,13 @@ export const codeCheck = {
     { pagePropertySlug: "runs-on-worktree", required: true, many: false },
     { pagePropertySlug: "runs-on-deploy", required: true, many: false },
     { pagePropertySlug: "runs-on-audit", required: true, many: false },
+    {
+      pagePropertySlug: "entries",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   invariants: [
     {
