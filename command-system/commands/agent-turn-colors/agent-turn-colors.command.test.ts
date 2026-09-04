@@ -24,11 +24,8 @@ function givenIn(): Given {
   }
 }
 
-const WORKING_PAGE = "akasha/seat-system/seat-turn-states/pages/working.seat-turn-state.ts"
+const WORKING_PAGE = "seat-system/seat-turn-states/pages/working.seat-turn-state.ts"
 
-// A root of our own, holding the one page `--state working` reads. It sits under `/var/tmp` and
-// not under `/tmp`: `/tmp` here is a tmpfs whose inode ceiling this workstation has reached twice,
-// and a fixture that cannot be written reads as a broken command rather than as a full disk.
 function rootWith(color: string): string {
   const at = mkdtempSync(join("/var/tmp", "agent-turn-colors-test-"))
   mkdirSync(join(at, dirname(WORKING_PAGE)), { recursive: true })
@@ -36,8 +33,6 @@ function rootWith(color: string): string {
   return at
 }
 
-// The page as the color reader loads one: the body is transpiled and evaluated, and the type
-// import a landed page carries is erased before that, so a root of our own needs no node_modules.
 function colorIn(at: string, color: string): undefined {
   writeFileSync(
     join(at, WORKING_PAGE),
@@ -117,9 +112,6 @@ test("a word this does not take refuses as a fault in the call", () => {
   expect(said.refusals[0]).toContain("`--json`")
 })
 
-// THIS ARM IS WHAT PROVES `@tools/lib/agent-turn-drawn` RESOLVES. Every arm above drives a seeded
-// reader or no reader at all, so all of them would pass with that specifier misspelt into a module
-// that is not there — no test would load it. This one takes the agent road, which reaches it.
 test("an id no seat ever held is left out rather than refused", () => {
   const said = agentTurnColors(["01a00000-0000-7000-8000-00000000000a"], givenIn())
 
@@ -128,10 +120,6 @@ test("an id no seat ever held is left out rather than refused", () => {
   expect(JSON.parse(said.report[0] ?? "")).toEqual({ colors: {} })
 })
 
-// THE WHOLE POINT OF THE VERB SERVER, AND THE ARM THAT WOULD CATCH A CACHE. The server answers
-// this from one long-lived process, so a color rewritten under that process is the color the next
-// ask must answer. This drives the real reader against a root of its own and rewrites the page
-// between the two calls. It also proves `@tools/lib/seat-turn-color` resolves.
 test("a color rewritten under this command is the color it next answers", () => {
   const root = rootWith("chartreuse")
   const was = process.env["AKASHA_ROOT"]
@@ -153,9 +141,6 @@ test("a color rewritten under this command is the color it next answers", () => 
   }
 })
 
-// THE CONTROL FOR THE ARM ABOVE, because a comparison that cannot fail is worse than none. A
-// reader that keeps its first answer passes the same two calls and answers the old color twice,
-// so this shows the comparison the arm above makes is one a kept value does not survive.
 test("a reader keeping its answer says the old color, which that comparison catches", () => {
   const said: Record<string, string> = { working: "chartreuse" }
   let held: string | null = null

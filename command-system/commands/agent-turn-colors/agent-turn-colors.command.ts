@@ -7,7 +7,7 @@ export const agentTurnColors = {
   definition: "the color each named agent, or each named turn state, is drawn in",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "<agent id>", takes: "an agent to answer for, said as a bare word. Repeatable." },
     {
@@ -52,8 +52,11 @@ export const agentTurnColors = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "That page is read again on every call, so a color rewritten under this is answered.",
+      statement: "A turn state's page is read again on every call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A color rewritten under a held-open server is the color the next call answers.",
     },
     {
       invariantKind: "departure",
@@ -72,8 +75,8 @@ export const agentTurnColors = {
       statement: "Nothing here reaches a database.",
     },
     {
-      invariantKind: "absence",
-      statement: "A run writes nothing.",
+      invariantKind: "departure",
+      statement: "A run keeps beside each seat what its transcript was read to say.",
     },
   ],
 } as const satisfies Command
