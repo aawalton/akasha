@@ -1,0 +1,22 @@
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..3de856aab3f16ab6175c81f30daff88099703a14 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -8,7 +8,7 @@ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+ import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
+ import type { Shadow } from "@akasha/pages-system/shadow"
+ import { isMissing } from "@akasha/utils-fs/missing"
+-import type { Judged, Running } from "../judging/judging.module.code.ts"
++import type { Judged, Running, RunningAsync } from "../judging/judging.module.code.ts"
+ 
+ export type Body = {
+   readonly root: string
+@@ -42,6 +42,8 @@ export type Stated = {
+ 
+ export type Bounded = Running & Stated
+ 
++export type BoundedAsync = RunningAsync & Stated
++
+ const TS = "ts"
+ 
+ const TSX = "tsx"
