@@ -55,3 +55,15 @@ index b332607e44a95b14b5475b8a607076c27c853e73..62b29ee347a52c1b423265613cd7a542
      {
        invariantKind: "absence",
        statement: "What stands here is stood up by the check tests that reach for what is here.",
+diff --git a/pages/value/page-value.module.code.ts b/pages/value/page-value.module.code.ts
+index 72e7287ccc024837e8cc987890f5c3b43aad1d91..9dbb493f6d57041c99dbea284a1a5694bb711cc2 100644
+--- a/pages/value/page-value.module.code.ts
++++ b/pages/value/page-value.module.code.ts
+@@ -97,7 +97,6 @@ export function slugAt(value: Value, key: string): string | null {
+ }
+ 
+ export function slugsIn(said: unknown): readonly string[] {
+-  if (typeof said === "string") return said === "" ? [] : [slugOf(said)]
+   if (!Array.isArray(said)) return []
+   const named: string[] = []
+   for (const one of said) {
