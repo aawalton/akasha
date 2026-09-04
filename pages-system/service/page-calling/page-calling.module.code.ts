@@ -125,6 +125,11 @@ async function sentTo(
   return { refused: `${why} — ${ATTEMPTS} attempts reached ${originOf()}${at}` }
 }
 
+function objectIn(said: unknown): Readonly<Record<string, unknown>> | null {
+  if (said === null || typeof said !== "object" || Array.isArray(said)) return null
+  return said as Readonly<Record<string, unknown>>
+}
+
 export async function askingFor(
   query: Query,
   fetcher: Fetcher = fetchThrough,
@@ -132,7 +137,11 @@ export async function askingFor(
 ): Promise<Rows> {
   const held = await sentTo(ASK_AT, query, ASK_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
-  const rows = (held.said as { readonly rows?: unknown }).rows
+  const said = objectIn(held.said)
+  if (said === null) {
+    return { refused: "the pages answered a question with something no rows can be read out of" }
+  }
+  const rows = said.rows
   if (!Array.isArray(rows)) return { refused: "the pages answered a question with no rows" }
   return { rows: rows as readonly Row[] }
 }
@@ -144,7 +153,11 @@ export async function shapeFor(
 ): Promise<Shaped> {
   const held = await sentTo(SHAPE_AT, { pageTypeSlug }, ASK_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
-  const shape = (held.said as { readonly shape?: unknown }).shape
+  const said = objectIn(held.said)
+  if (said === null) {
+    return { refused: "the pages answered a shape with something no shape can be read out of" }
+  }
+  const shape = said.shape
   if (shape === undefined) return { refused: "the pages answered a shape holding no shape" }
   if (shape !== null && (typeof shape !== "object" || Array.isArray(shape))) {
     return { refused: "the pages answered a shape that states no page type" }
@@ -159,7 +172,10 @@ export async function readingFor(
 ): Promise<Read> {
   const held = await sentTo(READ_AT, sought, ASK_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
-  const said = held.said as { readonly at?: unknown; readonly bodies?: unknown }
+  const said = objectIn(held.said)
+  if (said === null) {
+    return { refused: "the pages answered a read with something no bodies can be read out of" }
+  }
   if (typeof said.at !== "string" || !Array.isArray(said.bodies)) {
     return { refused: "the pages answered a read naming no commit and no bodies" }
   }
@@ -173,7 +189,10 @@ export async function writingFor(
 ): Promise<Wrote> {
   const held = await sentTo(WRITE_AT, asked, WRITE_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
-  const said = held.said as { readonly wrote?: unknown }
+  const said = objectIn(held.said)
+  if (said === null) {
+    return { refused: "the pages answered a write with something no commit can be read out of" }
+  }
   if (!Array.isArray(said.wrote)) {
     return { refused: "the pages answered a write saying nothing about what it wrote" }
   }
