@@ -15,11 +15,11 @@ import {
 const ROOT = "/var/home/walton/repos/akasha"
 
 const ASKED: Asked = {
-  agentId: "gateway-start-test",
+  agentId: "model-gateway-start-test",
   logDir: null,
   port: 0,
-  account: "gateway-start",
-  version: "gateway-start",
+  account: "model-gateway-start",
+  version: "model-gateway-start",
   keep: false,
   budgetMs: 1000,
 }
@@ -46,7 +46,7 @@ function seamsWith(seat: string | null, port: number | Error, kept: { value: boo
 
 test("the entry named is the akasha gateway entry under the root given", () => {
   expect(entryIn(ROOT)).toBe(`${ROOT}/${ENTRY_REL}`)
-  expect(ENTRY_REL.startsWith("akasha/")).toBe(true)
+  expect(ENTRY_REL.startsWith("agents/models/gateway/")).toBe(true)
 })
 
 test("an agent id made here carries the prefix that says what made it", () => {

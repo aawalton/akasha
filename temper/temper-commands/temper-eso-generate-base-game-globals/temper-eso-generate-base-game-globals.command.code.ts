@@ -20,7 +20,7 @@ import {
 
 const DATA = 2
 
-const SELF = "akasha eso-generate-base-game-globals"
+const SELF = "akasha temper-eso-generate-base-game-globals"
 
 const ESO_ROOT_FLAG = "--eso-root"
 
@@ -38,7 +38,7 @@ const SCRATCH_PARENT = "/var/tmp"
 
 const STAGE_PREFIX = "eso-base-game-string-ids-stage-"
 
-function valueOf(argv: readonly string[], flag: string): string | undefined {
+function saidFor(argv: readonly string[], flag: string): string | undefined {
   for (let at = 0; at < argv.length; at += 1) {
     if (argv[at] === flag) return argv[at + 1]
   }
@@ -56,7 +56,7 @@ function stagingAt(named: string | undefined): string {
 }
 
 export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): Answer {
-  const namedCheckout = valueOf(argv, CODE_ROOT_FLAG)
+  const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
 
   let checkout: string
   try {
@@ -68,7 +68,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
     )
   }
 
-  const namedRoot = valueOf(argv, ESO_ROOT_FLAG)
+  const namedRoot = saidFor(argv, ESO_ROOT_FLAG)
   const esoRoot = namedRoot === undefined ? esouiSourceDir() : resolve(namedRoot)
   try {
     if (!statSync(esoRoot).isDirectory()) {
@@ -133,7 +133,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
     checkout,
     spec,
     pages,
-    stagingAt(valueOf(argv, STAGE_FLAG)),
+    stagingAt(saidFor(argv, STAGE_FLAG)),
     `write the base-game string-id census from the ~/esoui clone at API ${String(apiVersion)}`
   )
 

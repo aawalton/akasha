@@ -53,7 +53,7 @@ export function askedOf(argv: readonly string[], at: number, salt: number): Aske
       keep = true
       continue
     }
-    if (!TAKES_ONE.has(word)) return `\`${word}\` is nothing \`akasha gateway-start\` takes`
+    if (!TAKES_ONE.has(word)) return `\`${word}\` is nothing \`akasha model-gateway-start\` takes`
     const said = argv[one + 1]
     if (said === undefined) return `\`${word}\` takes a value and none came after it`
     one += 1

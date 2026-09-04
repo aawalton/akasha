@@ -4,16 +4,15 @@ import { seatNameForAgent } from "@akasha/seat-system/seat-presence-read"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import { readFirstLineAsPort } from "@akasha/seat-system/supervisor-proxy-port-line"
 
-export const ENTRY_REL =
-  "agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
+export const ENTRY_REL = "agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
 
 export const STDERR_LOG = "oauth-proxy.stderr.log"
 
-export const AGENT_PREFIX = "gateway-start-"
+export const AGENT_PREFIX = "model-gateway-start-"
 
-export const NAMED_ACCOUNT = "gateway-start"
+export const NAMED_ACCOUNT = "model-gateway-start"
 
-export const NAMED_VERSION = "gateway-start"
+export const NAMED_VERSION = "model-gateway-start"
 
 export const PORT_BUDGET_MS = 10_000
 

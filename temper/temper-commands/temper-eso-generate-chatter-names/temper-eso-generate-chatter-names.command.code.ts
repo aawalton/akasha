@@ -5,16 +5,13 @@ import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages-system/code-root"
-// The rendering of the registry still stands under `tools/lib`, so it is reached
-// by the name that package's manifest gives it rather than by a path climbing
-// out of akasha.
 import { chatterNamesModule } from "../eso-chatter-names/eso-chatter-names.module.code.ts"
 
 const DATA = 2
 
 const FAILED = 3
 
-const SELF = "akasha eso-generate-chatter-names"
+const SELF = "akasha temper-eso-generate-chatter-names"
 
 const CODE_ROOT_FLAG = "--code-root"
 
@@ -22,7 +19,7 @@ const SOURCE_REL = "temper/addons/types/eso/generated/enums.d.ts"
 
 const OUT_REL = "temper/player-quests-addon/src/generated/chatter-names.generated.ts"
 
-function valueOf(argv: readonly string[], flag: string): string | undefined {
+function saidFor(argv: readonly string[], flag: string): string | undefined {
   for (let at = 0; at < argv.length; at += 1) {
     if (argv[at] === flag) return argv[at + 1]
   }
@@ -34,7 +31,7 @@ function saidShort(thrown: unknown): string {
 }
 
 export async function temperEsoGenerateChatterNames(argv: readonly string[] = []): Promise<Answer> {
-  const named = valueOf(argv, CODE_ROOT_FLAG)
+  const named = saidFor(argv, CODE_ROOT_FLAG)
 
   let root: string
   try {
@@ -53,7 +50,7 @@ export async function temperEsoGenerateChatterNames(argv: readonly string[] = []
   } catch (thrown) {
     return refused(
       `${sourcePath} is what this registry is drawn from and it is not there — ` +
-        "`akasha eso-generate-typings` is what writes it — " +
+        "`akasha temper-eso-generate-typings` is what writes it — " +
         saidShort(thrown),
       DATA
     )

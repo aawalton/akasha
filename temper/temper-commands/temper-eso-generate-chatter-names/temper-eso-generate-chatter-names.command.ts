@@ -16,7 +16,7 @@ export const temperEsoGenerateChatterNames = {
   ],
   helpNotes: [
     "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
-    "the source is the enum declaration file `eso-generate-typings` writes, so the registry covers what those declarations opted into and nothing the game declares outside them; widening it is regenerating the declarations first.",
+    "the source is the enum declaration file `temper-eso-generate-typings` writes, so the registry covers what those declarations opted into; widening the registry means regenerating the declarations.",
     "reading the declarations rather than the clone is what lets this answer on a workstation carrying no clone.",
     "a registry naming no constant of either kind refuses the call, because an empty registry reads to the trace as a clean answer.",
     "the trace resolves a code to a name by reading each global on its own rather than by walking the globals table, which would taint the game's call stack.",
@@ -32,7 +32,7 @@ export const temperEsoGenerateChatterNames = {
     },
     {
       invariantKind: "departure",
-      statement: "The written file names the command that wrote it.",
+      statement: "The written file names the command that wrote the file.",
     },
     {
       invariantKind: "departure",

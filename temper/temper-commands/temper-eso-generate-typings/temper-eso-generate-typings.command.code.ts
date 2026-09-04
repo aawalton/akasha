@@ -29,7 +29,7 @@ const DATA = 2
 
 const FAILED = 3
 
-const SELF = "akasha eso-generate-typings"
+const SELF = "akasha temper-eso-generate-typings"
 
 const CODE_ROOT_FLAG = "--code-root"
 
@@ -41,7 +41,7 @@ const INDEX_BODY = `/// <reference path="./enums.d.ts" />
 /// <reference path="./objects.d.ts" />
 `
 
-function valueOf(argv: readonly string[], flag: string): string | undefined {
+function saidFor(argv: readonly string[], flag: string): string | undefined {
   for (let at = 0; at < argv.length; at += 1) {
     if (argv[at] === flag) return argv[at + 1]
   }
@@ -53,7 +53,7 @@ function saidShort(thrown: unknown): string {
 }
 
 export async function temperEsoGenerateTypings(argv: readonly string[] = []): Promise<Answer> {
-  const named = valueOf(argv, CODE_ROOT_FLAG)
+  const named = saidFor(argv, CODE_ROOT_FLAG)
 
   let root: string
   try {
