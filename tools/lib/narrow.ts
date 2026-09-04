@@ -1,5 +1,3 @@
-
-import { z } from "zod"
 import { fail } from "./command.ts"
 
 export type Narrow<T> = (value: unknown, path: string) => T
@@ -41,42 +39,4 @@ export function oneOf<T extends string>(value: unknown, path: string, allowed: r
 
 export function maybe<T>(value: unknown, path: string, parse: Narrow<T>): T | null {
   return value === undefined || value === null ? null : parse(value, path)
-}
-
-export function requireGet<K, V>(map: ReadonlyMap<K, V>, key: K, label?: string): V {
-  for (const [k, v] of map) {
-    if (sameValueZero(k, key)) return v
-  }
-  throw new Error(
-    `requireGet: missing key ${String(key)}${label !== undefined ? ` in ${label}` : ""}`
-  )
-}
-
-function sameValueZero<T>(a: T, b: T): boolean {
-  if (a === b) return true
-  return typeof a === "number" && typeof b === "number" && Number.isNaN(a) && Number.isNaN(b)
-}
-
-const RAW_MATCH_SCHEMA = z.array(z.string()).min(1)
-
-export function requireMatchPositional<T extends z.ZodType>(
-  re: RegExp,
-  schema: T,
-  input: string,
-  label?: string
-): z.infer<T> {
-  let raw: readonly string[]
-  try {
-    raw = RAW_MATCH_SCHEMA.parse(re.exec(input))
-  } catch {
-    throw new Error(
-      `requireMatchPositional: no match for ${re}${label !== undefined ? ` in ${label}` : ""}`
-    )
-  }
-  return schema.parse(raw.slice(1))
-}
-
-export function assertNever(value: never): never {
-  const rendered = typeof value === "string" ? value : JSON.stringify(value)
-  throw new Error(`assertNever: unhandled variant ${rendered}`)
 }
