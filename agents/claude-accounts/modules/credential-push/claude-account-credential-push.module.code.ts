@@ -172,14 +172,14 @@ function merged(kept: ReadonlyMap<string, string>, next: Map<string, string>): b
   return kept.size === next.size && [...next].every(([key, value]) => kept.get(key) === value)
 }
 
-export function pushedIn(
+export async function pushedIn(
   root: string,
   credential: Credential,
   doors: Doors,
   given: Reading,
   pageOf: PageOf,
   routing?: Routing
-): Push {
+): Promise<Push> {
   const { slug } = credential
   try {
     if (!SLUG_SHAPE.test(slug)) {
@@ -238,7 +238,7 @@ export function pushedIn(
 
     const composed = doors.cipherMade(root, page, next)
     if (composed.text === null) return refusedFor(slug, composed.why)
-    const landed = doors.landing(
+    const landed = await doors.landing(
       root,
       CALLED_AS,
       [{ path: sidecar, body: new TextEncoder().encode(composed.text) }],

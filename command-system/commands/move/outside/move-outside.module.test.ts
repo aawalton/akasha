@@ -65,29 +65,29 @@ test("a body naming nothing that moved comes back as that body was", () => {
   expect(repointedText(LOCK, LOCKED, new Map())).toBe(LOCKED)
 })
 
-test("a file outside akasha reaching in by a relative path is repointed by a move", () => {
-  const { root, said } = reachMoved()
+test("a file outside akasha reaching in by a relative path is repointed by a move", async () => {
+  const { root, said } = await reachMoved()
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, REACHER)).toBe(REACHED)
 })
 
-test("what reached in by a relative path is told apart from what spelled the path whole", () => {
-  const { said } = reachMoved()
+test("what reached in by a relative path is told apart from what spelled the path whole", async () => {
+  const { said } = await reachMoved()
   expect(told(said)).toContain(
     `reached in by a relative path rather than by the path itself — ${REACHER}`
   )
 })
 
-test("a body git reads as binary is left out of the search and out of the change", () => {
-  const { root, said } = outsideMoved()
+test("a body git reads as binary is left out of the search and out of the change", async () => {
+  const { root, said } = await outsideMoved()
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, BINARY)).toBe(BINARY_BODY)
   expect(told(said)).not.toContain(BINARY)
 })
 
-test("a dry run writes nothing and names what it would repoint by its path", () => {
+test("a dry run writes nothing and names what it would repoint by its path", async () => {
   const root = outsideWorld()
-  const said = move([...FOLDER_PAIR, "--dry-run"], givenIn(root))
+  const said = await move([...FOLDER_PAIR, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, LOCK)).toBe(LOCKED)
   expect(told(said)).toContain(`spelling what moved by its path would be repointed — ${LOCK}`)

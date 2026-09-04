@@ -298,9 +298,9 @@ export function outsideWorld(): string {
   )
 }
 
-export function outsideMoved(): { readonly root: string; readonly said: Answer } {
+export async function outsideMoved(): Promise<{ readonly root: string; readonly said: Answer }> {
   const root = outsideWorld()
-  return { root, said: move(FOLDER_PAIR, givenIn(root)) }
+  return { root, said: await move(FOLDER_PAIR, givenIn(root)) }
 }
 
 export const REACHER = "tools/lib/reach.ts"
@@ -321,9 +321,9 @@ export function reachWorld(): string {
   return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [REACHER]: REACHES }))
 }
 
-export function reachMoved(): { readonly root: string; readonly said: Answer } {
+export async function reachMoved(): Promise<{ readonly root: string; readonly said: Answer }> {
   const root = reachWorld()
-  return { root, said: move(FOLDER_PAIR, givenIn(root)) }
+  return { root, said: await move(FOLDER_PAIR, givenIn(root)) }
 }
 
 export const SPELLER = "akasha/one/speller.module.code.ts"
@@ -338,10 +338,10 @@ export const RESPELT = `export const runs = "bun akasha/far/one/held.module.ts"
 export const under = "what akasha/far/one/deep holds"
 `
 
-export function carriedMoved(): { readonly root: string; readonly said: Answer } {
+export async function carriedMoved(): Promise<{ readonly root: string; readonly said: Answer }> {
   const held = { [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [SPELLER]: SPELT }
   const root = rebuilt(repoWith(held))
-  return { root, said: move(FOLDER_PAIR, givenIn(root)) }
+  return { root, said: await move(FOLDER_PAIR, givenIn(root)) }
 }
 
 export function folderWorld(): string {
@@ -487,17 +487,17 @@ function seenIn(root: string): string {
   return readFileSync(join(root, SEEN), "utf8")
 }
 
-export function linkWatched(): readonly [string, string] {
+export async function linkWatched(): Promise<readonly [string, string]> {
   const root = rebuilt(repoWith({ [HELD]: PAGE, [MANIFEST]: MANIFEST_BODY }))
   watching(root)
   const pair = ["--from", MANIFEST, "--to", MANIFEST_AT]
-  move([...pair, "--dry-run"], givenIn(root))
+  await move([...pair, "--dry-run"], givenIn(root))
   const dry = seenIn(root)
-  move(pair, givenIn(root))
+  await move(pair, givenIn(root))
   return [dry, seenIn(root)]
 }
 
-export function renamed(): { readonly root: string; readonly said: Answer } {
+export async function renamed(): Promise<{ readonly root: string; readonly said: Answer }> {
   const root = renaming()
-  return { root, said: move(SLUG_RENAME, givenIn(root)) }
+  return { root, said: await move(SLUG_RENAME, givenIn(root)) }
 }

@@ -40,9 +40,9 @@ function bodyOf(root: string, path: string): string {
   return readFileSync(join(root, path), "utf8")
 }
 
-test("every occurrence in one file is replaced", () => {
+test("every occurrence in one file is replaced", async () => {
   const root = repoWith({ "akasha/one.ts": '"@here/a"\n"@here/b"\n"@here/c"\n' })
-  const said = replace(
+  const said = await replace(
     ["--file-path", "akasha/one.ts", ...stating(root, "a", "@here", "@there")],
     givenIn(root)
   )
@@ -51,12 +51,12 @@ test("every occurrence in one file is replaced", () => {
   expect(bodyOf(root, "akasha/one.ts")).toBe('"@there/a"\n"@there/b"\n"@there/c"\n')
 })
 
-test("several files named by one call are replaced in one commit", () => {
+test("several files named by one call are replaced in one commit", async () => {
   const root = repoWith({
     "akasha/one.ts": '"@here/a"\n"@here/b"\n',
     "akasha/two.ts": '"@here/c"\n',
   })
-  const said = replace(
+  const said = await replace(
     [
       "--file-path",
       "akasha/one.ts",
@@ -74,10 +74,10 @@ test("several files named by one call are replaced in one commit", () => {
   expect(said.report.join("\n")).toContain("committed as")
 })
 
-test("a file named that holds the passage nowhere refuses the whole call", () => {
+test("a file named that holds the passage nowhere refuses the whole call", async () => {
   const root = repoWith({ "akasha/one.ts": '"@here/a"\n', "akasha/two.ts": "beta\n" })
   const was = headOf(root)
-  const said = replace(
+  const said = await replace(
     [
       "--file-path",
       "akasha/one.ts",
@@ -94,13 +94,13 @@ test("a file named that holds the passage nowhere refuses the whole call", () =>
   expect(headOf(root)).toBe(was)
 })
 
-test("`--dry-run` reports what each file holds and what they hold together, and changes nothing", () => {
+test("`--dry-run` reports what each file holds and what they hold together, and changes nothing", async () => {
   const root = repoWith({
     "akasha/one.ts": '"@here/a"\n"@here/b"\n',
     "akasha/two.ts": "beta\n",
   })
   const was = headOf(root)
-  const said = replace(
+  const said = await replace(
     [
       "--file-path",
       "akasha/one.ts",
@@ -120,25 +120,25 @@ test("`--dry-run` reports what each file holds and what they hold together, and 
   expect(headOf(root)).toBe(was)
 })
 
-test("a call naming no --file-path is refused", () => {
+test("a call naming no --file-path is refused", async () => {
   const root = repoWith({ "akasha/one.ts": '"@here/a"\n' })
-  const said = replace(stating(root, "a", "@here", "@there"), givenIn(root))
+  const said = await replace(stating(root, "a", "@here", "@there"), givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names no --file-path")
   expect(bodyOf(root, "akasha/one.ts")).toBe('"@here/a"\n')
 })
 
-test("a passage piped in between the markers states the replacement", () => {
+test("a passage piped in between the markers states the replacement", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\nbeta\nalpha\n" })
   const piped = () => ({ bytes: bytes("<<<<<<< old\nalpha\n=======\ndelta\n>>>>>>> new\n") })
-  const said = replacing(["--file-path", "akasha/one.ts"], givenIn(root), piped)
+  const said = await replacing(["--file-path", "akasha/one.ts"], givenIn(root), piped)
   expect(said.refusals).toEqual([])
   expect(bodyOf(root, "akasha/one.ts")).toBe("delta\nbeta\ndelta\n")
 })
 
-test("a replacement carrying dollar patterns lands as the bytes it is", () => {
+test("a replacement carrying dollar patterns lands as the bytes it is", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\nalpha\n" })
-  const said = replace(
+  const said = await replace(
     ["--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "$& $' $` $1")],
     givenIn(root)
   )
@@ -146,9 +146,9 @@ test("a replacement carrying dollar patterns lands as the bytes it is", () => {
   expect(bodyOf(root, "akasha/one.ts")).toBe("$& $' $` $1\n$& $' $` $1\n")
 })
 
-test("a passage is matched as bytes rather than as a pattern", () => {
+test("a passage is matched as bytes rather than as a pattern", async () => {
   const root = repoWith({ "akasha/one.ts": "a.c\nabc\n" })
-  const said = replace(
+  const said = await replace(
     ["--file-path", "akasha/one.ts", ...stating(root, "a", "a.c", "held")],
     givenIn(root)
   )
@@ -156,9 +156,9 @@ test("a passage is matched as bytes rather than as a pattern", () => {
   expect(bodyOf(root, "akasha/one.ts")).toBe("held\nabc\n")
 })
 
-test("one path named more than once by a call is refused", () => {
+test("one path named more than once by a call is refused", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const said = replace(
+  const said = await replace(
     [
       "--file-path",
       "akasha/one.ts",
@@ -172,9 +172,9 @@ test("one path named more than once by a call is refused", () => {
   expect(said.refusals[0]).toContain("named more than once")
 })
 
-test("a path that is not there is refused", () => {
+test("a path that is not there is refused", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const said = replace(
+  const said = await replace(
     ["--file-path", "akasha/nowhere.ts", ...stating(root, "a", "alpha", "delta")],
     givenIn(root)
   )
@@ -182,9 +182,9 @@ test("a path that is not there is refused", () => {
   expect(said.refusals[0]).toContain("is not there")
 })
 
-test("an empty passage names no place and is refused", () => {
+test("an empty passage names no place and is refused", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const said = replace(
+  const said = await replace(
     ["--file-path", "akasha/one.ts", ...stating(root, "a", "", "delta")],
     givenIn(root)
   )
@@ -192,9 +192,9 @@ test("an empty passage names no place and is refused", () => {
   expect(said.refusals[0]).toContain("names no place")
 })
 
-test("an old file closed by no new file is refused", () => {
+test("an old file closed by no new file is refused", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const said = replace(
+  const said = await replace(
     ["--file-path", "akasha/one.ts", "--old-file", put(root, "a.old", "alpha")],
     givenIn(root)
   )
@@ -202,10 +202,10 @@ test("an old file closed by no new file is refused", () => {
   expect(said.refusals[0]).toContain("closed by no --new-file")
 })
 
-test("every flag this command's page shows is a flag it takes", () => {
+test("every flag this command's page shows is a flag it takes", async () => {
   const given = givenIn("/nowhere")
   for (const one of replaceCommand.taking) {
-    const said = replace([one.said.split(" ")[0] ?? ""], given)
+    const said = await replace([one.said.split(" ")[0] ?? ""], given)
     expect(said.refusals.join(" ")).not.toContain("this takes")
   }
 })

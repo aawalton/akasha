@@ -221,7 +221,7 @@ export function readBack(root: string, composed: readonly Composed[]): ReadBack 
   return { matched, moved, missing, lingering }
 }
 
-export function migrationLanded(root: string, asked: Migration): Migrated {
+export async function migrationLanded(root: string, asked: Migration): Promise<Migrated> {
   const saying = asked.saying ?? toStandardError
   const mistaken = mistakenIn(asked.composed)
   if (mistaken.length > 0) {
@@ -242,7 +242,7 @@ export function migrationLanded(root: string, asked: Migration): Migrated {
     const paths = held.map((one) => one.path)
     const message = messageFor(asked.subject, at, batches.length, held.length)
     const batch: Batch = { at, of: batches.length, paths, message }
-    const answer = landing(root, asked.calledAs, held.map(editOf), message, heldIn(held))
+    const answer = await landing(root, asked.calledAs, held.map(editOf), message, heldIn(held))
     const one: Said = { batch, code: answer.code, said: sayingOf(answer) }
     said.push(one)
     if (answer.code === LANDED) {

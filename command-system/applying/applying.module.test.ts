@@ -28,10 +28,10 @@ afterAll(() => {
   scratch.sweep()
 })
 
-function indexed(): string {
+async function indexed(): Promise<string> {
   const root = repoWith({ "seed.txt": "held" })
-  landing(root, CARRIED, "held", ADMITS)
-  landing(root, [{ path: PAGE, body: bytes(A) }], "held", ADMITS)
+  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, [{ path: PAGE, body: bytes(A) }], "held", ADMITS)
   return root
 }
 
@@ -47,60 +47,60 @@ function headOid(root: string, path: string): string {
   return gitSaid(root, ["rev-parse", `HEAD:${path}`]).trim()
 }
 
-test("a patch applied lands its bodies and takes the patch away", () => {
-  const root = indexed()
+test("a patch applied lands its bodies and takes the patch away", async () => {
+  const root = await indexed()
   drafting(root)
-  const said = applied(root, PAGE, AGENT, "applied", ADMITS, null)
+  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(patchIn(root, PAGE)).toBeNull()
   expect(refs(root)).toBe("")
 })
 
-test("a patch applied answers which of its bodies the formatter moved", () => {
-  const root = indexed()
+test("a patch applied answers which of its bodies the formatter moved", async () => {
+  const root = await indexed()
   drafting(root)
-  const said = applied(root, PAGE, AGENT, "applied", ADMITS, null)
+  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(said.formatted).toEqual([])
   expect(said.landed).toEqual([PAGE])
 })
 
-test("a body applied is recorded as read by the agent that applied it", () => {
-  const root = indexed()
+test("a body applied is recorded as read by the agent that applied it", async () => {
+  const root = await indexed()
   drafting(root)
-  expect("refusals" in applied(root, PAGE, AGENT, "applied", ADMITS, null)).toBe(false)
+  expect("refusals" in (await applied(root, PAGE, AGENT, "applied", ADMITS, null))).toBe(false)
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
-test("an apply the gate refused leaves the patch where the patch is", () => {
+test("an apply the gate refused leaves the patch where the patch is", async () => {
   const root = pagesRepo()
   drafting(root)
-  const said = applied(root, PAGE, AGENT, "applied", REFUSES, null)
+  const said = await applied(root, PAGE, AGENT, "applied", REFUSES, null)
   expect("refusals" in said).toBe(true)
   expect(patchIn(root, PAGE)).not.toBeNull()
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(A)
 })
 
-test("no patch kept is nothing to apply", () => {
-  const said = applied(pagesRepo(), PAGE, AGENT, "applied", ADMITS, null)
+test("no patch kept is nothing to apply", async () => {
+  const said = await applied(pagesRepo(), PAGE, AGENT, "applied", ADMITS, null)
   expect("refusals" in said).toBe(true)
 })
 
-test("a reading wiped away is recorded again for a path that did not move", () => {
+test("a reading wiped away is recorded again for a path that did not move", async () => {
   const root = pagesRepo()
   drafting(root)
   expect(readingIn(root, AGENT, PAGE)).toBeNull()
-  applied(root, PAGE, AGENT, "applied", REFUSES, null)
+  await applied(root, PAGE, AGENT, "applied", REFUSES, null)
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
-test("a patch carrying a conflict does not apply", () => {
+test("a patch carrying a conflict does not apply", async () => {
   const root = pagesRepo()
   const marked = `${A}${CLASH_MARK}\nheld\n`
   expect("why" in drafted(root, PAGE, [{ path: PAGE, was: A, body: marked }])).toBe(false)
-  const said = applied(root, PAGE, AGENT, "applied", ADMITS, null)
+  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
   expect("refusals" in said).toBe(true)
   expect(said).toEqual({
     refusals: [
@@ -111,12 +111,12 @@ test("a patch carrying a conflict does not apply", () => {
   expect(patchIn(root, PAGE)).not.toBeNull()
 })
 
-test("a path the patch moved under has no reading recorded", () => {
+test("a path the patch moved under has no reading recorded", async () => {
   const root = pagesRepo()
   drafting(root)
   writeFileSync(join(root, PAGE), `// first\n${A}`)
   gitSaid(root, ["add", "--", PAGE])
   gitSaid(root, ["commit", "-q", "-m", "moved", "--", PAGE])
-  applied(root, PAGE, AGENT, "applied", REFUSES, null)
+  await applied(root, PAGE, AGENT, "applied", REFUSES, null)
   expect(readingIn(root, AGENT, PAGE)).toBeNull()
 })

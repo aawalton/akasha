@@ -266,6 +266,6 @@ export async function replacing(
   return await landingAsked(given, asked)
 }
 
-export function replace(argv: readonly string[], given: Given): Answer {
-  return replacing(argv, given, inputIn)
+export async function replace(argv: readonly string[], given: Given): Promise<Answer> {
+  return await replacing(argv, given, inputIn)
 }

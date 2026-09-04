@@ -79,7 +79,7 @@ export function accountPageText(given: {
   ].join("\n")
 }
 
-export function madeIn(
+export async function madeIn(
   root: string,
   given: {
     readonly slug: string
@@ -89,7 +89,7 @@ export function madeIn(
   },
   landing: Landing,
   reading: Reading
-): Made {
+): Promise<Made> {
   const { slug } = given
   try {
     if (!ACCOUNT_SHAPE.test(slug)) {
@@ -119,7 +119,7 @@ export function madeIn(
     const path = accountPagePathIn(reading, slug)
     const id = given.id ?? Bun.randomUUIDv7()
     const text = accountPageText({ slug, email: given.email, aliasIndex: given.aliasIndex, id })
-    const answer = landing(
+    const answer = await landing(
       root,
       CALLED_AS,
       [{ path, body: new TextEncoder().encode(text) }],

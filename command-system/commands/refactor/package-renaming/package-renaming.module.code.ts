@@ -147,7 +147,7 @@ export function packageSaying(
   ]
 }
 
-export function packageLanded(
+export async function packageLanded(
   given: Given,
   root: string,
   from: string,
@@ -155,7 +155,7 @@ export function packageLanded(
   dryRun: boolean,
   argv: readonly string[],
   flags: readonly string[]
-): Answer {
+): Promise<Answer> {
   const base = baseOf(root)
   const bodyText = bodyTextOf(root, base)
   const paths = everyPath(root)
@@ -174,7 +174,7 @@ export function packageLanded(
   const named = [...outside.said.keys()].sort()
   const clear = reachedOver(root, [{ name: asked.packaging.now, folder: asked.packaging.folder }])
   try {
-    const landing = respelledLanded(
+    const landing = await respelledLanded(
       given,
       root,
       said,

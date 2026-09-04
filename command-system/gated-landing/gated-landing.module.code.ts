@@ -50,19 +50,19 @@ async function landing(act: GatedAct, changes: readonly Change[]): Promise<Lande
   return { ok: true, sha: shaIn(said.report.join("\n")), unpushed: null }
 }
 
-export function landBodies(
+export async function landBodies(
   act: GatedAct,
   bodies: readonly GatedBody[],
   removing: readonly string[] = []
-): Landed {
-  return landing(act, [
+): Promise<Landed> {
+  return await landing(act, [
     ...bodies.map((one) => ({ path: one.relPath, body: new TextEncoder().encode(one.body) })),
     ...removing.map((relPath) => ({ path: relPath, body: null })),
   ])
 }
 
-export function landRemovals(act: GatedAct, relPaths: readonly string[]): Landed {
-  return landing(
+export async function landRemovals(act: GatedAct, relPaths: readonly string[]): Promise<Landed> {
+  return await landing(
     act,
     relPaths.map((relPath) => ({ path: relPath, body: null }))
   )

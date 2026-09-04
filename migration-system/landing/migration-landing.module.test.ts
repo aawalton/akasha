@@ -44,12 +44,12 @@ function takingDown(answers: readonly Answer[]): {
   const asked: FileEdit[][] = []
   const said: string[] = []
   let at = 0
-  const landing: Landing = (
+  const landing: Landing = async (
     _root: string,
     _calledAs: string,
     changes: readonly FileEdit[],
     message: string
-  ): Answer => {
+  ): Promise<Answer> => {
     asked.push([...changes])
     said.push(message)
     const answer = answers[at] ?? LANDED

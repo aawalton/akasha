@@ -58,7 +58,11 @@ type Landing = { readonly held: Held; readonly rows: Row[] }
 
 type Ending = Landing & { readonly stretch: Row }
 
-function landedAcross(landings: readonly Landing[], said: string, given: Given): Answer {
+async function landedAcross(
+  landings: readonly Landing[],
+  said: string,
+  given: Given
+): Promise<Answer> {
   const at = (path: string): string =>
     path.startsWith(given.root) ? path.slice(given.root.length).replace(/^\//, "") : path
   const last = landings[landings.length - 1]
@@ -67,7 +71,7 @@ function landedAcross(landings: readonly Landing[], said: string, given: Given):
   const rest = landings.slice(0, -1)
   if (rest.length === 0) {
     const only = ["--file-path", at(last.held.path), "--message", said]
-    return filing(only, given, () => ({ bytes: body }))
+    return await filing(only, given, () => ({ bytes: body }))
   }
   const scratch = mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
   try {
@@ -78,14 +82,19 @@ function landedAcross(landings: readonly Landing[], said: string, given: Given):
       argv.push("--file-path", at(one.held.path), "--content-file", beside)
     })
     argv.push("--file-path", at(last.held.path), "--message", said)
-    return filing(argv, given, () => ({ bytes: body }))
+    return await filing(argv, given, () => ({ bytes: body }))
   } finally {
     rmSync(scratch, { recursive: true, force: true })
   }
 }
 
-function landed(held: Held, rows: readonly Row[], said: string, given: Given): Answer {
-  return landedAcross([{ held, rows: [...rows] }], said, given)
+async function landed(
+  held: Held,
+  rows: readonly Row[],
+  said: string,
+  given: Given
+): Promise<Answer> {
+  return await landedAcross([{ held, rows: [...rows] }], said, given)
 }
 
 function endingIn(
@@ -120,7 +129,7 @@ function movedInto(root: string, from: Ending, ended: string): Landing | string 
   return { held: target, rows }
 }
 
-export function track(argv: readonly string[], given: Given): Answer {
+export async function track(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const noun = argv[0]
   if (noun !== SESSION) {
@@ -182,7 +191,7 @@ export function track(argv: readonly string[], given: Given): Answer {
     const faults = faultsIn(rows, held.page)
     if (faults.length > 0) return mistaking(faults)
     if (rest.includes(DRY_RUN)) return telling(shownOf([found]))
-    return landed(held, rows, `Amend ${title} on ${day}`, given)
+    return await landed(held, rows, `Amend ${title} on ${day}`, given)
   }
 
   if (act === "file") {
@@ -252,7 +261,7 @@ export function track(argv: readonly string[], given: Given): Answer {
     const faults = [...refusals, ...faultsIn(made, held.page)]
     if (faults.length > 0) return mistaking(faults)
     if (rest.includes(DRY_RUN)) return telling(shownOf(made))
-    return landed(held, made, `File ${String(made.length)} stretches on ${day}`, given)
+    return await landed(held, made, `File ${String(made.length)} stretches on ${day}`, given)
   }
 
   if (act === "drop") {
@@ -268,7 +277,7 @@ export function track(argv: readonly string[], given: Given): Answer {
     const faults = faultsIn(rows, held.page)
     if (faults.length > 0) return mistaking(faults)
     if (rest.includes(DRY_RUN)) return telling(shownOf(rows))
-    return landed(held, rows, `Drop ${found.title} on ${day}`, given)
+    return await landed(held, rows, `Drop ${found.title} on ${day}`, given)
   }
 
   if (act === "split") {
@@ -302,7 +311,7 @@ export function track(argv: readonly string[], given: Given): Answer {
     const faults = faultsIn(rows, held.page)
     if (faults.length > 0) return mistaking(faults)
     if (rest.includes(DRY_RUN)) return telling(shownOf([found, next]))
-    return landed(held, rows, `Split ${found.title} on ${day}`, given)
+    return await landed(held, rows, `Split ${found.title} on ${day}`, given)
   }
 
   if (act === "close" || act === "switch") {
@@ -341,7 +350,7 @@ export function track(argv: readonly string[], given: Given): Answer {
       home === found
         ? `${doing} on ${home.held.day}`
         : `${doing} on ${home.held.day}, and the sleep it ends opens that day`
-    return landedAcross(landings, said, given)
+    return await landedAcross(landings, said, given)
   }
 
   if (act === "open" || act === "log") {
@@ -377,7 +386,7 @@ export function track(argv: readonly string[], given: Given): Answer {
     const faults = faultsIn(rows, held.page)
     if (faults.length > 0) return mistaking(faults)
     if (rest.includes(DRY_RUN)) return telling(shownOf([one]))
-    return landed(held, rows, `${act === "log" ? "Log" : "Open"} ${title} on ${day}`, given)
+    return await landed(held, rows, `${act === "log" ? "Log" : "Open"} ${title} on ${day}`, given)
   }
 
   return refused(`\`${act}\` carries no act yet`, 1)

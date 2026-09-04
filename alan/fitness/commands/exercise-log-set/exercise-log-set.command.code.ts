@@ -61,8 +61,8 @@ export async function exerciseLogSet(argv: readonly string[], given: Given): Pro
   if ("refused" in rpe) return refused(rpe.refused, INPUT)
   const note = proseIn(said, NOTE)
   if ("refused" in note) return refused(note.refused, INPUT)
-  const setNumber = countIn(SET_NUMBER, said.held.get(SET_NUMBER))
-  if ("refused" in setNumber) return refused(setNumber.refused, INPUT)
+  const askedNumber = countIn(SET_NUMBER, said.held.get(SET_NUMBER))
+  if ("refused" in askedNumber) return refused(askedNumber.refused, INPUT)
   const warmup = said.bare.has(WARMUP)
   const json = said.bare.has(JSON_SAID)
 
@@ -86,7 +86,7 @@ export async function exerciseLogSet(argv: readonly string[], given: Given): Pro
   })
   if ("unread" in already) return refused(already.unread, DATA)
   const setNumber =
-    setNumber.number ??
+    askedNumber.number ??
     nextSetNumber(
       already.rows.map((row) => numberIn(row, "setNumber")).filter((one) => one !== undefined)
     )

@@ -84,9 +84,9 @@ import { move as moveCommand } from "./move.command.ts"
 
 afterAll(scratch.sweep)
 
-test("a file is carried to its new path, the old path goes, and the page's id is untouched", () => {
+test("a file is carried to its new path, the old path goes, and the page's id is untouched", async () => {
   const root = heldIndexed()
-  const said = move(PAIR, givenIn(root))
+  const said = await move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(there(root, HELD)).toBe(false)
@@ -98,22 +98,22 @@ test("a file is carried to its new path, the old path goes, and the page's id is
   expect(told(said)).toContain("no further file spelled what moved by its path")
 })
 
-test("a file the index does not carry naming a moved folder is repointed and a near name is not", () => {
-  const { root, said } = outsideMoved()
+test("a file the index does not carry naming a moved folder is repointed and a near name is not", async () => {
+  const { root, said } = await outsideMoved()
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, LOCK)).toBe(RELOCKED)
   expect(told(said)).toContain(`spelling what moved by its path was repointed — ${LOCK}`)
 })
 
-test("a file a move carries is repointed where its body spells a path that moved", () => {
-  const { root, said } = carriedMoved()
+test("a file a move carries is repointed where its body spells a path that moved", async () => {
+  const { root, said } = await carriedMoved()
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, SPELLER_AT)).toBe(RESPELT)
 })
 
-test("a page's sidecars go with it without being named", () => {
+test("a page's sidecars go with it without being named", async () => {
   const root = rebuilt(sidecarWorld())
-  const said = move(["--from", HELD, "--to", DEEP], givenIn(root))
+  const said = await move(["--from", HELD, "--to", DEEP], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(there(root, DEEPER)).toBe(true)
   expect(there(root, SIDE_AT)).toBe(true)
@@ -121,29 +121,29 @@ test("a page's sidecars go with it without being named", () => {
   expect(told(said)).toContain("stood beside what you named")
 })
 
-test("a moved body's relative specifier is repointed and a package one is not", () => {
+test("a moved body's relative specifier is repointed and a package one is not", async () => {
   const root = codeWorld()
-  const said = move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
+  const said = await move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
   expect(said.refusals).toEqual([])
   const now = bodyIn(root, DEEPER)
   expect(now).toContain('from "../../two/other.module.code.ts"')
   expect(now).toContain('import ts from "typescript"')
 })
 
-test("what imports or spells what moved is repointed, and a dry run writes none", () => {
+test("what imports or spells what moved is repointed, and a dry run writes none", async () => {
   const root = spellingWorld()
-  expect(told(move([...CARRY, "--dry-run"], givenIn(root)))).toContain(REPOINTED)
+  expect(told(await move([...CARRY, "--dry-run"], givenIn(root)))).toContain(REPOINTED)
   expect(bodyIn(root, NAMER)).toBe(SPELLS)
-  const said = move(CARRY, givenIn(root))
+  const said = await move(CARRY, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, HOLDER)).toContain('from "../four/other.module.code.ts"')
   expect(bodyIn(root, NAMER)).toBe(`export const at = "${ARRIVES}"\n`)
 })
 
-test("a reading carries to the new path, and the write it warranted is not refused", () => {
+test("a reading carries to the new path, and the write it warranted is not refused", async () => {
   const root = codeWorld()
   held(root, HOLDER, CODE)
-  const said = move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
+  const said = await move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
   expect(said.refusals).toEqual([])
   const now = readingIn(root, AGENT, DEEPER)
   expect(now?.oid).toBe(blobIdOf(new TextEncoder().encode(CODE)))
@@ -152,36 +152,36 @@ test("a reading carries to the new path, and the write it warranted is not refus
   expect(unreadIn(root, AGENT, [DEEPER])).toEqual([])
 })
 
-test("a dry run carries no reading anywhere", () => {
+test("a dry run carries no reading anywhere", async () => {
   const root = codeWorld()
   held(root, HOLDER, CODE)
-  const said = move(["--from", HOLDER, "--to", DEEPER, "--dry-run"], givenIn(root))
+  const said = await move(["--from", HOLDER, "--to", DEEPER, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(readingIn(root, AGENT, DEEPER)).toBeNull()
   expect(readingIn(root, AGENT, HOLDER)?.mechanicalOid).toBeNull()
 })
 
-test("a file moving in the same act is repointed from its body, not as an importer", () => {
+test("a file moving in the same act is repointed from its body, not as an importer", async () => {
   const root = codeWorld()
   importing(root, TARGET, [HOLDER])
   const carry = ["--from", TARGET, "--to", ARRIVES, "--from", HOLDER, "--to", DEEPER]
-  const said = move(carry, givenIn(root))
+  const said = await move(carry, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, DEEPER)).toContain('from "../../four/other.module.code.ts"')
   expect(told(said)).toContain("no file naming what moved needed repointing")
 })
 
-test("an unanswerable index leaves the importers as they stand and says so", () => {
+test("an unanswerable index leaves the importers as they stand and says so", async () => {
   const root = codeWorld()
-  const said = move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
+  const said = await move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, HOLDER)).toBe(CODE)
   expect(told(said)).toContain("could not be answered")
   expect(told(said)).toContain("none were repointed")
 })
 
-test("a rename restates its slug, repoints what names it, and names what it left", () => {
-  const { root, said } = renamed()
+test("a rename restates its slug, repoints what names it, and names what it left", async () => {
+  const { root, said } = await renamed()
   expect(said.refusals).toEqual([])
   expect(there(root, THING)).toBe(false)
   const now = renamedText(root)
@@ -199,18 +199,21 @@ test("a rename restates its slug, repoints what names it, and names what it left
   expect(bodyIn(root, THING_BESIDE[1] ?? "")).toContain("const renamed")
 })
 
-test("a page type's slug is not renamed here", () => {
+test("a page type's slug is not renamed here", async () => {
   const root = renaming()
-  const said = move(["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"], givenIn(root))
+  const said = await move(
+    ["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"],
+    givenIn(root)
+  )
   expect(said.code).toBe(1)
   expect(why(said)).toContain("a page type's slug")
   expect(there(root, THING_TYPE)).toBe(true)
 })
 
-test("a rename leaving an edge naming nobody is refused and lands nothing", () => {
+test("a rename leaving an edge naming nobody is refused and lands nothing", async () => {
   const root = renaming('"thin" + "g/held"')
   const was = head(root)
-  const said = move(SLUG_RENAME, givenIn(root))
+  const said = await move(SLUG_RENAME, givenIn(root))
   expect(said.code).toBe(3)
   expect(why(said)).toContain("no `thing` carries the slug `held`")
   expect(there(root, THING)).toBe(true)
@@ -218,19 +221,19 @@ test("a rename leaving an edge naming nobody is refused and lands nothing", () =
   expect(head(root)).toBe(was)
 })
 
-test("a rename the index cannot answer for is refused", () => {
+test("a rename the index cannot answer for is refused", async () => {
   const root = heldUnindexed()
-  expect(why(move(RENAME, givenIn(root)))).toContain("could not be answered")
+  expect(why(await move(RENAME, givenIn(root)))).toContain("could not be answered")
   claiming(root, HELD, [AAAA, "01a04bed-1450-7000-8000-00000000dddd"])
-  expect(why(move(RENAME, givenIn(root)))).toContain("the index answers 2 pages")
+  expect(why(await move(RENAME, givenIn(root)))).toContain("the index answers 2 pages")
   expect(there(root, HELD)).toBe(true)
 })
 
-test("a refused move leaves nothing behind", () => {
+test("a refused move leaves nothing behind", async () => {
   const root = besideWorld()
   refusing(root)
   const was = head(root)
-  const said = move(PAIR, givenIn(root))
+  const said = await move(PAIR, givenIn(root))
   expect(said.code).toBe(3)
   expect(why(said)).toContain("refused for the test")
   expect(there(root, HELD)).toBe(true)
@@ -240,33 +243,33 @@ test("a refused move leaves nothing behind", () => {
   expect(head(root)).toBe(was)
 })
 
-test("a path that is not there is refused", () => {
+test("a path that is not there is refused", async () => {
   const root = heldPage()
-  const said = move(MISSING, givenIn(root))
+  const said = await move(MISSING, givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not there")
   expect(there(root, "akasha/three")).toBe(false)
 })
 
-test("a destination that already stands is refused", () => {
+test("a destination that already stands is refused", async () => {
   const root = takenWorld()
-  const said = move(PAIR, givenIn(root))
+  const said = await move(PAIR, givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("already stands")
   expect(bodyIn(root, THREE)).toBe(OTHER)
 })
 
-test("naming no pair is refused rather than committed empty", () => {
+test("naming no pair is refused rather than committed empty", async () => {
   const root = heldPage()
-  const said = move([], givenIn(root))
+  const said = await move([], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("name at least one pair")
 })
 
-test("a dry run gates and writes nothing at all", () => {
+test("a dry run gates and writes nothing at all", async () => {
   const root = heldPage()
   const was = head(root)
-  const said = move([...PAIR, "--dry-run"], givenIn(root))
+  const said = await move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(told(said)).toContain("nothing was written")
   expect(there(root, "akasha/three")).toBe(false)
@@ -274,13 +277,13 @@ test("a dry run gates and writes nothing at all", () => {
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
 })
 
-test("a package is reached again while the checks judge a move, and a dry run reaches none", () => {
-  expect(linkWatched()).toEqual(["gone", "linked"])
+test("a package is reached again while the checks judge a move, and a dry run reaches none", async () => {
+  expect(await linkWatched()).toEqual(["gone", "linked"])
 })
 
-test("a dry run names the pairs it would carry, sidecars and all", () => {
+test("a dry run names the pairs it would carry, sidecars and all", async () => {
   const root = sidecarWorld()
-  const said = move(["--from", HELD, "--to", DEEP, "--dry-run"], givenIn(root))
+  const said = await move(["--from", HELD, "--to", DEEP, "--dry-run"], givenIn(root))
   const report = told(said)
   expect(report).toContain(`${HELD} would move to ${DEEP}`)
   expect(report).toContain("stand beside what you named and would go with it")
@@ -289,27 +292,27 @@ test("a dry run names the pairs it would carry, sidecars and all", () => {
   expect(report).toContain("none were repointed")
 })
 
-test("a dry run over a move the checks refuse reports it and carries nothing", () => {
+test("a dry run over a move the checks refuse reports it and carries nothing", async () => {
   const root = heldPage()
   refusing(root)
-  const said = move([...PAIR, "--dry-run"], givenIn(root))
+  const said = await move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.code).toBe(3)
   expect(why(said)).toContain("refused for the test")
   expect(there(root, "akasha/three")).toBe(false)
   expect(there(root, HELD)).toBe(true)
 })
 
-test("breaking the glass carries a move the checks refuse, and only breaking it does", () => {
+test("breaking the glass carries a move the checks refuse, and only breaking it does", async () => {
   const root = heldIndexed()
   refusing(root)
   const was = head(root)
-  const gated = move(SAYING, givenIn(root))
+  const gated = await move(SAYING, givenIn(root))
   expect(gated.code).toBe(3)
   expect(why(gated)).toContain("refused for the test")
   expect(there(root, THREE)).toBe(false)
   expect(head(root)).toBe(was)
 
-  const said = move(GLASSED, givenIn(root))
+  const said = await move(GLASSED, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(told(said)).toContain("no check ran — the glass was broken for: the check is wrong")
@@ -320,44 +323,44 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   )
 })
 
-test("breaking the glass with no reason, or alongside a dry run, is refused", () => {
+test("breaking the glass with no reason, or alongside a dry run, is refused", async () => {
   const root = heldPage()
-  const ends = move([...PAIR, "--break-the-glass"], givenIn(root))
+  const ends = await move([...PAIR, "--break-the-glass"], givenIn(root))
   expect(ends.code).toBe(1)
   expect(ends.refusals[0]).toContain("needs a value, and the line ends")
-  const empty = move([...PAIR, "--break-the-glass", "  "], givenIn(root))
+  const empty = await move([...PAIR, "--break-the-glass", "  "], givenIn(root))
   expect(empty.code).toBe(1)
   expect(empty.refusals[0]).toContain("no check is to run, and this one is empty")
-  const both = move([...PAIR, "--break-the-glass", "no time", "--dry-run"], givenIn(root))
+  const both = await move([...PAIR, "--break-the-glass", "no time", "--dry-run"], givenIn(root))
   expect(both.code).toBe(1)
   expect(both.refusals[0]).toContain("runs none, so together they report nothing")
   expect(there(root, "akasha/three")).toBe(false)
 })
 
-test("a message is read from a file and trimmed, and stated twice over or empty is refused", () => {
+test("a message is read from a file and trimmed, and stated twice over or empty is refused", async () => {
   const root = heldIndexed()
   const at = join(root, "message.txt")
   writeFileSync(at, "carried by a file\n")
-  const both = move([...PAIR, "--message", "carried", "--message-file", at], givenIn(root))
+  const both = await move([...PAIR, "--message", "carried", "--message-file", at], givenIn(root))
   expect(both.code).toBe(1)
   expect(why(both)).toContain("both are given")
   writeFileSync(at, "   \n")
-  const empty = move([...PAIR, "--message-file", at], givenIn(root))
+  const empty = await move([...PAIR, "--message-file", at], givenIn(root))
   expect(empty.code).toBe(1)
   expect(empty.refusals[0]).toContain("the message given is empty")
   expect(there(root, "akasha/three")).toBe(false)
   writeFileSync(at, "  carried by a file  \n")
-  const said = move([...PAIR, "--message-file", at], givenIn(root))
+  const said = await move([...PAIR, "--message-file", at], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("carried by a file")
 })
 
-test("a path is read against the repository root, wherever the call was made", () => {
+test("a path is read against the repository root, wherever the call was made", async () => {
   const root = heldIndexed()
-  const said = move(PAIR, { ...givenIn(root), from: join(root, "akasha/one") })
+  const said = await move(PAIR, { ...givenIn(root), from: join(root, "akasha/one") })
   expect(said.refusals).toEqual([])
   expect(there(root, THREE)).toBe(true)
-  const out = move(["--from", HELD, "--to", "../held.module.ts"], givenIn(root))
+  const out = await move(["--from", HELD, "--to", "../held.module.ts"], givenIn(root))
   expect(out.refusals[0]).toContain("read against the repository root")
 })
 
@@ -368,9 +371,9 @@ test("every flag the surface shows is a flag this takes", () => {
   }
 })
 
-test("a page holding uncommitted values is carried, and that file goes with it", () => {
+test("a page holding uncommitted values is carried, and that file goes with it", async () => {
   const root = oneUnsaid()
-  const said = move(PAIR, givenIn(root))
+  const said = await move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(there(root, UNSAID)).toBe(false)
@@ -378,18 +381,18 @@ test("a page holding uncommitted values is carried, and that file goes with it",
   expect(told(said)).toContain(`${UNSAID} to ${UNSAID_AT}`)
 })
 
-test("the commit a move lands carries no path holding uncommitted values", () => {
+test("the commit a move lands carries no path holding uncommitted values", async () => {
   const root = oneUnsaid()
-  const said = move(PAIR, givenIn(root))
+  const said = await move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   const shown = git(root, ["diff-tree", "--no-commit-id", "--name-only", "-r", "HEAD"])
   expect(shown.trim().split("\n").sort()).toEqual([HELD, THREE].sort())
   expect(git(root, ["ls-files"]).trim().split("\n")).toEqual([...VOCABULARY, THREE].sort())
 })
 
-test("two pages each holding uncommitted values carry both of those files with them", () => {
+test("two pages each holding uncommitted values carry both of those files with them", async () => {
   const root = twoUnsaid()
-  const said = move(BOTH, givenIn(root))
+  const said = await move(BOTH, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(there(root, UNSAID)).toBe(false)
   expect(there(root, SECOND_UNSAID)).toBe(false)
@@ -397,12 +400,12 @@ test("two pages each holding uncommitted values carry both of those files with t
   expect(bodyIn(root, SECOND_UNSAID_AT)).toBe(VALUES)
 })
 
-test("an uncommitted file that will not carry leaves the one carried before it where it stood", () => {
+test("an uncommitted file that will not carry leaves the one carried before it where it stood", async () => {
   const root = twoUnsaid()
   const was = head(root)
   let code = -1
   try {
-    code = move(NESTED, givenIn(root)).code
+    code = await move(NESTED, givenIn(root)).code
   } catch {
     code = -2
   }

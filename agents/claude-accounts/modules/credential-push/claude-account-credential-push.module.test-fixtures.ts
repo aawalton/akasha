@@ -86,7 +86,7 @@ export function sopsIn(said: Partial<Doors> = {}): Sops {
       return text === undefined ? null : valuesOf(text)
     },
     cipherMade: (root, page, values) => ({ text: cipherText(root, page, values), why: "" }),
-    landing: (root, calledAs, changes, message): Answer => {
+    landing: async (root, calledAs, changes, message): Promise<Answer> => {
       landed.push(`${calledAs} ${message}`)
       for (const one of changes) held.set(join(root, one.path), textOf(one))
       return { report: [], refusals: [], code: 0 }
@@ -112,14 +112,14 @@ export function seeded(
 }
 
 export function silentLanding(sops: Sops): Doors["landing"] {
-  return (root, calledAs, changes, message) => {
+  return async (root, calledAs, changes, message) => {
     sops.landed.push(`${calledAs} ${message} ${root} ${changes.length}`)
     return { report: [], refusals: [], code: 0 }
   }
 }
 
 export function crossedLanding(sops: Sops): Doors["landing"] {
-  return (root, calledAs, changes, message) => {
+  return async (root, calledAs, changes, message) => {
     sops.landed.push(`${calledAs} ${message}`)
     const crossed = new Map([
       [ACCESS_KEY, "fake-access-token-something-else"],
@@ -132,15 +132,15 @@ export function crossedLanding(sops: Sops): Doors["landing"] {
 }
 
 export function spoilingLanding(sops: Sops, at: string): Doors["landing"] {
-  return (root, calledAs, changes, message) => {
-    const said = sops.doors.landing(root, calledAs, changes, message)
+  return async (root, calledAs, changes, message) => {
+    const said = await sops.doors.landing(root, calledAs, changes, message)
     writeFileSync(join(root, at), "this is not a page body\n")
     return said
   }
 }
 
 export function refusingLanding(refusals: readonly string[]): Doors["landing"] {
-  return (root, calledAs, changes, message) => ({
+  return async (root, calledAs, changes, message) => ({
     report: [`${calledAs} ${message} ${root} ${changes.length}`],
     refusals,
     code: 1,

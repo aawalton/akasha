@@ -108,9 +108,9 @@ test("a sidecar git is told to ignore draws no refusal, being no file left behin
   expect("refusals" in opened(root, FOLDER, FOLDER_AT)).toBe(false)
 })
 
-test("a folder carries the sidecar git is told to ignore to the folder it arrives in", () => {
+test("a folder carries the sidecar git is told to ignore to the folder it arrives in", async () => {
   const root = folderUnsaid()
-  const said = move(FOLDER_PAIR, givenIn(root))
+  const said = await move(FOLDER_PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(there(root, UNSAID)).toBe(false)
   expect(bodyIn(root, UNSAID_UNDER)).toBe(VALUES)
@@ -172,10 +172,10 @@ test("a spread carrying no folder says nothing at all", () => {
   expect(spreadSaid({ pairs: [], under: new Set(), folders: [] }, 0, [], false)).toEqual([])
 })
 
-test("a folder named for a move carries every file under it and lands as one commit", () => {
+test("a folder named for a move carries every file under it and lands as one commit", async () => {
   const root = folderWorld()
   const was = head(root)
-  const said = move(FOLDER_PAIR, givenIn(root))
+  const said = await move(FOLDER_PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe(`${FOLDER} moved to ${FOLDER_AT}`)
   expect(told(said)).toContain("3 files under a folder you named went with it")
@@ -188,10 +188,10 @@ test("a folder named for a move carries every file under it and lands as one com
   expect(git(root, ["rev-list", "--count", `${was}..HEAD`]).trim()).toBe("1")
 })
 
-test("a dry run over a folder names it and carries nothing", () => {
+test("a dry run over a folder names it and carries nothing", async () => {
   const root = folderWorld()
   const was = head(root)
-  const said = move([...FOLDER_PAIR, "--dry-run"], givenIn(root))
+  const said = await move([...FOLDER_PAIR, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(told(said)).toContain(`${FOLDER} would move to ${FOLDER_AT}`)
   expect(told(said)).toContain("under a folder you named would go with it")

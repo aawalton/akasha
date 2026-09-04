@@ -155,9 +155,9 @@ check("more than one override turning the rule off is refused rather than chosen
   expect(working(doubled, parsed(doubled), APPROXIMATE, ["a/**"])).toHaveProperty("refusals")
 })
 
-check("an exception naming a package that is not there refuses and writes nothing", () => {
+check("an exception naming a package that is not there refuses and writes nothing", async () => {
   const root = repo(["three"], CONFIG_TEXT)
-  const said = lintException(
+  const said = await lintException(
     ["--rule", "suspicious/noApproximativeNumericConstant", "--package-path", "nowhere"],
     given(root)
   )
@@ -166,23 +166,26 @@ check("an exception naming a package that is not there refuses and writes nothin
   expect(said.refusals.join("\n")).toContain("names nothing that is there")
 })
 
-check("a call naming no package, no rule, or a rule that is no rule is refused", () => {
+check("a call naming no package, no rule, or a rule that is no rule is refused", async () => {
   const root = repo(["three"], CONFIG_TEXT)
-  expect(lintException(["--rule", "suspicious/x"], given(root)).refusals[0]).toContain(
+  expect(await lintException(["--rule", "suspicious/x"], given(root)).refusals[0]).toContain(
     "names no --package-path"
   )
-  expect(lintException(["--package-path", "three"], given(root)).refusals[0]).toContain(
+  expect(await lintException(["--package-path", "three"], given(root)).refusals[0]).toContain(
     "is given 0 times"
   )
   expect(
-    lintException(["--rule", "suspicious", "--package-path", "three"], given(root)).refusals[0]
+    await lintException(["--rule", "suspicious", "--package-path", "three"], given(root))
+      .refusals[0]
   ).toContain("names no rule")
-  expect(lintException(["--write"], given(root)).refusals[0]).toContain("`--write` is no flag")
+  expect(await lintException(["--write"], given(root)).refusals[0]).toContain(
+    "`--write` is no flag"
+  )
 })
 
-check("a config that does not parse is refused rather than rewritten", () => {
+check("a config that does not parse is refused rather than rewritten", async () => {
   const root = repo(["three"], "{ not json")
-  const said = lintException(
+  const said = await lintException(
     ["--rule", "suspicious/noApproximativeNumericConstant", "--package-path", "three"],
     given(root)
   )

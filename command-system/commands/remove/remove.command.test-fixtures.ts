@@ -37,8 +37,8 @@ export function looseIn(root: string, path: string): undefined {
   writeFileSync(join(root, path, "stray.txt"), BODY)
 }
 
-export function removing(root: string, argv: readonly string[]): Answer {
-  return remove(argv, givenIn(root))
+export async function removing(root: string, argv: readonly string[]): Promise<Answer> {
+  return await remove(argv, givenIn(root))
 }
 
 export function givenIn(root: string): Given {

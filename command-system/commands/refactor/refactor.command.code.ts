@@ -256,16 +256,16 @@ function keySaying(one: Keying, respelling: Respelling, dry: boolean): readonly 
   ]
 }
 
-export function keyLanded(
+export async function keyLanded(
   given: Given,
   root: string,
   one: Keying,
   dryRun: boolean,
   argv: readonly string[]
-): Answer {
+): Promise<Answer> {
   const made = respellingFor(root, readingIn(root), one, bodyTextOf(root, baseOf(root)))
   if ("refused" in made) return answering([], [made.refused], 1)
-  return respelledLanded(
+  return await respelledLanded(
     given,
     root,
     made.respelling.changes,
@@ -277,14 +277,14 @@ export function keyLanded(
   )
 }
 
-export function tokenLanded(
+export async function tokenLanded(
   given: Given,
   root: string,
   one: Tokening,
   dryRun: boolean,
   argv: readonly string[],
   inStrings: boolean
-): Answer {
+): Promise<Answer> {
   const every = everyPath(root).filter(compiled)
   const reached = reachingInto([one.path], [IMPORT], shadowAt(root).index, compiled)
   const made = bindingFor(
@@ -294,7 +294,7 @@ export function tokenLanded(
     bodyTextOf(root, baseOf(root))
   )
   if ("refused" in made) return answering([], [made.refused], 1)
-  return respelledLanded(
+  return await respelledLanded(
     given,
     root,
     made.binding.changes,
@@ -306,7 +306,7 @@ export function tokenLanded(
   )
 }
 
-export function refactor(argv: readonly string[], given: Given): Answer {
+export async function refactor(argv: readonly string[], given: Given): Promise<Answer> {
   const [act, namespace, ...rest] = argv
   if (act === undefined) {
     return answering(
@@ -353,7 +353,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
     }
     const asked = tokeningFor(at, from, to, read.said.get(LINE))
     if ("refused" in asked) return answering([], [asked.refused], 1)
-    return tokenLanded(given, root, asked.tokening, read.dryRun, argv, read.inStrings)
+    return await tokenLanded(given, root, asked.tokening, read.dryRun, argv, read.inStrings)
   }
   if (namespace === PACKAGE) {
     if (from === undefined || to === undefined) {
@@ -363,7 +363,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
     if (read.said.has(PLURAL)) {
       return answering([], [`${PLURAL} names a page type's plural, and a package carries none`], 1)
     }
-    return packageLanded(given, root, from, to, read.dryRun, argv, VALUED)
+    return await packageLanded(given, root, from, to, read.dryRun, argv, VALUED)
   }
   if (namespace === PAGE_SLUG) {
     if (from === undefined || to === undefined) {
@@ -375,7 +375,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
     }
     const asked = pairFor(from, to, (slug, said) => listedAt(root, slug, said))
     if ("refused" in asked) return answering([], [asked.refused], 1)
-    return move(passedOn(asked.pair, to, rest), given)
+    return await move(passedOn(asked.pair, to, rest), given)
   }
   if (namespace === PROPERTY_SLUG) {
     if (from === undefined || to === undefined) {
@@ -390,7 +390,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
     }
     const keyed = keyingFor(readingIn(root), from, to)
     if ("refused" in keyed) return answering([], [keyed.refused], 1)
-    return keyLanded(given, root, keyed.keying, read.dryRun, argv)
+    return await keyLanded(given, root, keyed.keying, read.dryRun, argv)
   }
   const plural = read.said.get(PLURAL)
   if (from === undefined || to === undefined || plural === undefined) {
@@ -403,5 +403,5 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   const base = baseOf(root)
   const asked = renamingFor(root, from, to, plural, bodyTextOf(root, base))
   if ("refused" in asked) return answering([], [asked.refused], 1)
-  return landed(given, root, asked.renaming, read.dryRun, argv)
+  return await landed(given, root, asked.renaming, read.dryRun, argv)
 }
