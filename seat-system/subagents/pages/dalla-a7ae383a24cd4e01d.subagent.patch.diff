@@ -1,0 +1,126 @@
+diff --git a/command-system/manifest-locking/manifest-locking.module.code.ts b/command-system/manifest-locking/manifest-locking.module.code.ts
+index dbacf5c8d98645d7e32001f2c41f15fead5fcf59..6580c63c3659aede7609a16c4fe4cd81295b59c8 100644
+--- a/command-system/manifest-locking/manifest-locking.module.code.ts
++++ b/command-system/manifest-locking/manifest-locking.module.code.ts
+@@ -1,5 +1,14 @@
+-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+-import { dirname, join } from "node:path"
++import {
++  existsSync,
++  lstatSync,
++  mkdirSync,
++  mkdtempSync,
++  readdirSync,
++  readFileSync,
++  rmSync,
++  writeFileSync,
++} from "node:fs"
++import { dirname, join, relative } from "node:path"
+ import { argvFor } from "@akasha/git/git-running"
+ import { ran } from "@akasha/utils-run/running"
+ import { holding } from "../holding/holding.module.code.ts"
+@@ -29,6 +38,10 @@ const LOCKFILE_ONLY = ["install", "--lockfile-only"]
+ 
+ const INSTALL = ["install"]
+ 
++const MODULES = "node_modules"
++
++const SCOPE = "@"
++
+ export const LOCKING_SPELLING =
+   `the lockfile is made again from the manifests the base commit tracks with this change worked ` +
+   `into them, so a change touching no \`${MANIFEST}\` is left alone and a change carrying its own ` +
+@@ -153,6 +166,40 @@ function lockAt(root: string): Uint8Array | null {
+   }
+ }
+ 
++function isStranded(at: string): boolean {
++  try {
++    if (!lstatSync(at).isSymbolicLink()) return false
++  } catch {
++    return false
++  }
++  return !existsSync(at)
++}
++
++function strandedIn(root: string): readonly string[] {
++  const modules = join(root, MODULES)
++  const took: string[] = []
++  const walk = (dir: string, scoped: boolean): undefined => {
++    let names: readonly string[]
++    try {
++      names = readdirSync(dir)
++    } catch {
++      return
++    }
++    for (const name of names) {
++      const one = join(dir, name)
++      if (scoped && name.startsWith(SCOPE)) {
++        walk(one, false)
++        continue
++      }
++      if (!isStranded(one)) continue
++      rmSync(one)
++      took.push(relative(modules, one))
++    }
++  }
++  walk(modules, true)
++  return took.sort()
++}
++
+ export function installedIn(root: string): Installing {
+   const was = lockAt(root)
+   const took = ran([BUN, ...INSTALL], { cwd: root })
+@@ -177,10 +224,17 @@ export function installedIn(root: string): Installing {
+       ],
+     }
+   }
++  const stranded = strandedIn(root)
+   return {
+     said: [
+       `the checkout was installed onto this commit, so what the workspace reaches its packages ` +
+         `through follows the \`${MANIFEST}\` this change carries`,
++      ...(stranded.length === 0
++        ? []
++        : [
++            `${stranded.length} link(s) under \`${MODULES}\` reached a folder no \`${MANIFEST}\` ` +
++              `names any more, so they are taken away — ${stranded.join(", ")}`,
++          ]),
+     ],
+     wrong: [],
+   }
+diff --git a/commands/remove/remove.command.code.ts b/commands/remove/remove.command.code.ts
+index f8f3b4d071bf31eee13afcca490700d85ed7dde9..0a3abc3d063f4cce717314e3521a0e678f0a5763 100644
+--- a/commands/remove/remove.command.code.ts
++++ b/commands/remove/remove.command.code.ts
+@@ -138,11 +138,11 @@ function openedIn(
+       bare.push(path)
+       continue
+     }
+-    if (!existsSync(at)) {
++    if (!thereAt(at)) {
+       gone.push(path)
+       continue
+     }
+-    if (statSync(at).isFile()) {
++    if (!existsSync(at) || statSync(at).isFile()) {
+       opened.push(path)
+       continue
+     }
+@@ -294,6 +294,16 @@ export function unnamingFor(root: string, going: readonly string[]): Unnaming {
+   }
+ }
+ 
++function thereAt(at: string): boolean {
++  if (existsSync(at)) return true
++  try {
++    lstatSync(at)
++    return true
++  } catch {
++    return false
++  }
++}
++
+ function alreadyGone(gone: readonly string[]): readonly string[] {
+   return gone.map(
+     (one) =>
