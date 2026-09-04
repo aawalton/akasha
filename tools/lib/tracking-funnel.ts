@@ -43,11 +43,7 @@ export const POPULATION_SAID = "the checkout outside akasha/"
  * the funnel's own folders the literal means what the rule says it means; outside them the reach
  * rule below carries the weight, and it is precise because it asks what the file does as well.
  */
-export const FUNNEL_DIRS = [
-  "tools/lib/tracking",
-  "tools/commands/tracking",
-  "tools/lib/inbox-tracking",
-] as const
+export const FUNNEL_DIRS = ["tools/lib/tracking", "tools/commands/tracking"] as const
 
 /**
  * The files permitted to reach the page store while naming a day.
@@ -65,7 +61,6 @@ export const FUNNEL_DIRS = [
 export const ALLOWED_TO_REACH = [
   "tools/lib/tracking/day-place.ts",
   "tools/lib/tracking/activities.ts",
-  "tools/lib/inbox-tracking/email-entry.ts",
 ] as const
 
 /**
@@ -1090,8 +1085,7 @@ function verbsTaken(imports: Imports, road: Road): readonly Took[] {
  *
  * It does not travel through a module that itself names a day, because that module is already a
  * finding of its own and the fix belongs there rather than at everyone who calls it — otherwise
- * `tools/lib/inbox-tracking/persist.ts`, which asks `askDayByDate` exactly as it should, is refused
- * for calling `resolve.ts`. One per file, because a barrel hands out a dozen names and the file
+ * a file that asks `askDayByDate` exactly as it should is refused for what it calls. One per file, because a barrel hands out a dozen names and the file
  * reaches the store once.
  */
 function carriedBy(imports: Imports, road: Road, namers: ReadonlyMap<string, Named>): Took | null {
