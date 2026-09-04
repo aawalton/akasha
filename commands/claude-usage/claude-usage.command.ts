@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const claudeUsage = {
   id: "01a06934-eccc-7acc-a89a-a79d59b633d6",
