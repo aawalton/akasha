@@ -154,7 +154,7 @@ export function readingOf(root: string, textOf: (path: string) => string | null)
 export function programOver(root: string, roots: readonly string[], read: Reading): ts.Program {
   const built = ts.createIncrementalProgram({
     rootNames: roots.map((one) => join(root, one)),
-    options: { ...SETTINGS, tsBuildInfoFile: buildInfoAt(root, roots) },
+    options: { ...SETTINGS, tsBuildInfoFile: buildInfoAt(root) },
     host: hostOver(root, read, roots),
   })
   built.getSemanticDiagnostics()
