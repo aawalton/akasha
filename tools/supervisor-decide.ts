@@ -26,12 +26,12 @@ import {
   decideWaitResume,
   type WaitResumeDecision,
 } from "@akasha/seat-system/supervisor-wait-resume-decide"
-import { notices } from "./compose-notices.ts"
+import { notices } from "../akasha/seat-system/compose-notices/compose-notices.module.code.ts"
 import { fail } from "./lib/command.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"
 const WAIT_NUDGE_NOTICE = "wait-resume-nudge"
-const NOTICE_OWNER = "tools/compose-notices.ts"
+const NOTICE_OWNER = "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
 
 function requireNotice(all: Readonly<Record<string, string>>, key: string): string {
   const text = all[key]
