@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theCalendarSyncCronjobNamesAPathThatMoved = {
+  id: "01a05c3b-6f06-7000-ad9a-02c6ffb7fa50",
+  pageTypeSlug: "finding",
+  slug: "the-calendar-sync-cronjob-names-a-path-that-moved",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "The calendar sync CronJob running in the cluster now names a path that no longer stands. I moved its code to `akasha/calendar-sync` and repointed the two run paths, but the standing ruling tonight is not to deploy, so the built image and the applied CronJob still name `alanwalton/calendar-sync/src/run-sync.ts`. The next run of the deployed job fails until someone rebuilds and applies. The call I took: land the move and leave the deploy for whoever lifts the ruling.",
+  evidence:
+    "The two run paths changed at c18342d545: the CronJob `command` in `alanwalton/calendar-sync/calendar-sync.cluster-service.code.attachment.ts` and `runtime_cmd` in `alanwalton/calendar-sync/deploy/dockerfile-extensions.json` both now read `--cwd akasha/calendar-sync run-sync/run-sync.module.code.ts`. I regenerated `generated/cronjob.generated.yaml` with `bun infra/k8s-synth/src/manifests.ts --pkg calendar-sync` and confirmed the command array; that file is ignored by `.gitignore` line 40 and comes back from the attachment at deploy time.\n\nNothing else in the deploy path moved, so `infra/scripts/src/generate-dockerfiles-registry.ts` line 15 and the workflow template attachment are untouched: the `deploy/` folder and the `generated/` folder they read stay in the old place. `manifest-code.text-property.ts` line 20 carries the stopgap that the file a cluster service names stands outside akasha, and no package under `akasha/` holds a deploy folder or an attachment.\n\nWhat wants Alan, or whoever lifts the ruling: one image build and one `kubectl apply` of the regenerated CronJob. Until then the job is broken on its next 08:40 run. It writes calendar event pages, so the cost of the gap is stale library events rather than lost data.\n\nA modelling gap stands behind this. `calendar-sync.cluster-service.md` is still old-format markdown, because `akasha/service-system/cluster-service/` holds six pages that are all Deployments and its page type requires `replicas` and `container-port`. A CronJob carries neither. Modelling one is real work nobody has done, and I did not do it tonight rather than guess at a shape.",
+} as const satisfies Finding
