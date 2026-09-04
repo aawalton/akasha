@@ -4,7 +4,7 @@ export const aSchemaEntryLineIsSharedSoTakingOnePageStrandsAnother = {
   id: "01a068ae-4447-7c82-b77d-6bfbe97069e0",
   pageTypeSlug: "finding",
   slug: "a-schema-entry-line-is-shared-so-taking-one-page-strands-another",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/indexes",
   claim:
     "No multi-line schema entry file was dropped rather than trimmed. Trimming works, in four of four real cases. The real defect is that a schema entry file is named for a page's slug and holds a record carrying no page path, so two pages agreeing on all six fields collapse to one line serving both, and taking either page away takes the line the other still needs. A shared line with no count of who leans on it, not a file deleted instead of edited.",
   evidence:
