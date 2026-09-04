@@ -65,7 +65,7 @@ export const idlePersonaCard = {
     { pagePropertySlug: "lock-state", required: true, many: false },
     { pagePropertySlug: "lock-eligible", required: true, many: false },
     { pagePropertySlug: "specialize-locked", required: true, many: false },
-    { pagePropertySlug: "persona-slug", required: false, many: false },
+    { pagePropertySlug: "card-persona-slug", required: false, many: false },
     { pagePropertySlug: "cover-image-id", required: false, many: false },
     { pagePropertySlug: "images", required: false, many: true, max: null },
     { pagePropertySlug: "seat-index", required: false, many: false },
