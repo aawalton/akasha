@@ -11,4 +11,5 @@ export const thea = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "0f60fee8-feb0-4ee6-9e1d-4cecd0bc9a9f",
 } as const satisfies Seat
