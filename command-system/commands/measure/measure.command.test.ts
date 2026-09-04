@@ -70,7 +70,12 @@ test("`repo` counts the files the checkout holds", async () => {
 
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
-  expect(said.report).toEqual(["repo 2"])
+  expect(said.report).toEqual([
+    "type   files  lines",
+    "ts         2      2",
+    "",
+    "total      2      2",
+  ])
 })
 
 test("a checkout git cannot list throws rather than counting none", () => {
