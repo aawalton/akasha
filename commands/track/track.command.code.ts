@@ -1,11 +1,11 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readMountainWallTime } from "@akasha/day/mountain-wall"
-import { mistaking } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { SCRATCH_AT } from "../../scratching/scratching.module.code.ts"
-import { filing } from "../write/write.command.code.ts"
+import { mistaking } from "../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { filing } from "../../command-system/commands/write/write.command.code.ts"
+import { SCRATCH_AT } from "../../command-system/scratching/scratching.module.code.ts"
 import {
   difficultyForTitle,
   readDifficulty,
