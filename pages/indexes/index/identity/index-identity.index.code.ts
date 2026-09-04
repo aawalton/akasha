@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import type { Identifying } from "@akasha/pages-system/page-type-properties"
-import { textAt, type Value } from "@akasha/pages-system/page-value"
+import { textAt, textsAt, type Value } from "@akasha/pages-system/page-value"
 import { type Entry, under } from "../../index-entries/index-entries.module.code.ts"
 import { indexIdentity } from "./index-identity.index.ts"
 
@@ -10,7 +10,25 @@ const ENDING = ".jsonl"
 
 const ALWAYS = "always"
 
+const PAGE_TYPE = "page-type"
+
+const PART_OF = "part-of"
+
 const PAGE = "page"
+
+const PART_OF_SLUGS = "partOfSlugs"
+
+function slugIn(address: string): string {
+  const at = address.lastIndexOf("/")
+  return at === -1 ? address : address.slice(at + 1)
+}
+
+function scopesFor(reach: string, value: Value, pageTypeSlug: string): readonly string[] {
+  if (reach === ALWAYS) return [PAGE]
+  if (reach === PAGE_TYPE) return [pageTypeSlug]
+  if (reach === PART_OF) return (textsAt(value, PART_OF_SLUGS) ?? []).map(slugIn)
+  throw new Error(`\`${reach}\` is no reach a page is filed under`)
+}
 
 export type Filed = {
   readonly scope: string
@@ -33,7 +51,9 @@ export function filedIn(
     const found = value[one.key]
     if (typeof found !== "string" && typeof found !== "number") continue
     const said = String(found)
-    held.push({ scope: one.reach === ALWAYS ? PAGE : pageTypeSlug, propertySlug, said })
+    for (const scope of scopesFor(one.reach, value, pageTypeSlug)) {
+      held.push({ scope, propertySlug, said })
+    }
   }
   return held
 }

@@ -9,7 +9,7 @@ export const uniqueKind = {
   slug: "unique-kind",
   definition: "which reach a property's value is unique across",
   pluralSlug: "unique-kinds",
-  partSlugs: ["unique-kind/always", "unique-kind/page-type"],
+  partSlugs: ["unique-kind/always", "unique-kind/page-type", "unique-kind/part-of"],
   extendsSlug: ["page-type/domain"],
   invariants: [
     {
