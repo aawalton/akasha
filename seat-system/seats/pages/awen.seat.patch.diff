@@ -1,0 +1,20 @@
+diff --git a/domains/initiatives/pages/awen-story-cleanup.initiative.ts b/domains/initiatives/pages/awen-story-cleanup.initiative.ts
+index da9ad2f927592e604e7200ff0ef2e18f51f9c669..7c984a9b6c27213ff2d0dd5b26b6d64873c4cb9a 100644
+--- a/domains/initiatives/pages/awen-story-cleanup.initiative.ts
++++ b/domains/initiatives/pages/awen-story-cleanup.initiative.ts
+@@ -17,5 +17,15 @@ export const awenStoryCleanup = {
+       workingMemory:
+         "`folder-matches-a-shape` over `story` answers 29 refusals. 10 are a folder still opening with the `story-` the domain above it says; `builds` and `chapters-played` are renamed, and `story-chapters-read` holds 37866 files and outgrew the workstation mid-move. 18 are a `pages` folder mixing bare page files with per-page folders; either alone passes, and Alan has not said which. `story/world-mechanics/mechanics` wants the name its parent folder already has.",
+     },
++    {
++      statement: "Typechecking a small patch costs a small patch's worth of memory.",
++      workingMemory:
++        "One changed path cost 7.88GB and 15.1s, and costs about 1.0GB and 2.8s now. Two separate wastes: the program was built over every indexed file however few paths changed, and it asked for diagnostics with no file named, so it checked all 80967 and threw all but the roots away. Roots are now the change plus its importer closure, and `programKeptOver` is taken only where the change leaves the whole folder compiling — that path has still never run, so it is untested. About 370MB of the check's overhead is unexplained; I guessed the eager body reads were it and was wrong, they were 90MB. `typecheck` runs at patch phase alone, so a plain `akasha audit` skips it, and 3 of about 39 checks run on patch at all.",
++    },
++    {
++      statement: "The compiler judging a patch is the fastest one that gives the same verdict.",
++      workingMemory:
++        "`typescript-7` is a second check beside `typecheck`, on `typescript@7.1.0-dev.20260904.1` aliased as `typescript-7`. Measured directly, the two find the same 234 diagnostics over the whole workspace, TS7 in 15.9s and 5.29GB against TS5's 56.8s and 6.35GB. Turned on at patch phase it threw on every landing at `syncChannel.js:131:34`, reading `stdout._handle.fd` off a stdout the gate's child does not give it; a throw counts as a refusal, so it refused 3 patches `typecheck` passed and refused the change turning it off, which took the glass. Its verdicts were never wrong — the sync API never reached one. It is off at every phase again. Judging it through `akasha audit --check` is no way round this: 11 of 11 runs threw on a stale index, because `index refresh --unlanded` holds the landing lock for minutes and HEAD moves under the run. TS7 also draws in no ambient types unasked, so the served config names every package under `node_modules/@types` where TS5 auto-includes all 34, and it throws on a root that does not exist where TS5 ignores one.",
++    },
+   ],
+ } as const satisfies Initiative
