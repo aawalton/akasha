@@ -7,7 +7,7 @@ export const track = {
   definition: "the command acting on the sessions one of Alan's days is made of",
   code: "ts",
   changeKindSlug: "change-checked",
-  partSlugs: ["module/session-leveling", "module/session-rows"],
+  partSlugs: ["module/session-leveling", "module/session-rows", "module/waking"],
   taking: [
     { said: "session", takes: "what to act on, which is one stretch of time a day was spent in" },
     { said: "open", takes: "the act, which is to begin a stretch where none is open" },
@@ -60,6 +60,7 @@ export const track = {
     "show prints each stretch's id in what it says to a reader, which is where an id to address by comes from.",
     "amend moves the stretches on either side to keep the day contiguous, and --leave-gap leaves them alone.",
     "drop leaves the gap it makes behind unless --mend is said.",
+    "a sleep switch ends moves to the day it woke into, and the next stretch opens that day.",
     "--relationship names a relationship by its id or by its title, and amend replaces what a stretch carried rather than adding to it.",
     "a title carrying one of a relationship's aliases tags the stretch with that relationship, with no flag said, and what --relationship names is kept beside it.",
     "an alias more than one relationship carries tags neither, and says nothing about it, since no act that writes stops to ask.",
@@ -80,16 +81,8 @@ export const track = {
       statement: "A wall time this command takes or says is a US Mountain time.",
     },
     {
-      invariantKind: "absence",
-      statement: "No other clock is read here.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here rolls a day over at an evening hour.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here labels a day by an Eastern hour.",
+      invariantKind: "departure",
+      statement: "The day a sleep woke into is named by the ESO reset at six in New York.",
     },
     {
       invariantKind: "departure",
@@ -214,6 +207,30 @@ export const track = {
     },
     {
       invariantKind: "departure",
+      statement: "A `switch` finding no stretch open takes the open stretch of the day before.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The stretch a `switch` takes from the day before is a sleep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sleep a `switch` ends moves to the day that sleep woke into.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The stretch a `switch` begins opens the day that sleep woke into.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two days one act changes land as one commit.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A `close` moves no sleep.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A `close` ends the open stretch.",
     },
     {
@@ -242,11 +259,11 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "An `amend` replaces what a stretch carried rather than adding to it.",
+      statement: "An `amend` replaces what a stretch carried rather than adding to the stretch.",
     },
     {
       invariantKind: "departure",
-      statement: "A `split` carries the relationships of the stretch it parts.",
+      statement: "Both halves a `split` makes carry the relationships of the stretch parted.",
     },
     {
       invariantKind: "departure",
@@ -262,7 +279,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "A title is read for aliases by every act that sets one.",
+      statement: "An act that sets a title reads that title for aliases.",
     },
     {
       invariantKind: "departure",

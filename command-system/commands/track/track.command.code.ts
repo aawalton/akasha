@@ -1,8 +1,10 @@
-import { readFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { readMountainWallTime } from "@akasha/day/mountain-wall"
 import { mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
+import { SCRATCH_AT } from "../../scratching/scratching.module.code.ts"
 import { writing } from "../write/write.command.code.ts"
 import {
   difficultyForTitle,
@@ -46,17 +48,76 @@ import {
   UNBUILT,
   VALUED,
 } from "./session-rows/session-rows.module.code.ts"
+import { dayBefore, sleeping, wokeInto } from "./waking/waking.module.code.ts"
 
 function telling(lines: string): Answer {
   return { report: lines === "" ? [] : [lines], refusals: [], code: 0 }
 }
 
+type Landing = { readonly held: Held; readonly rows: Row[] }
+
+type Ending = Landing & { readonly stretch: Row }
+
+function landedAcross(landings: readonly Landing[], said: string, given: Given): Answer {
+  const at = (path: string): string =>
+    path.startsWith(given.root) ? path.slice(given.root.length).replace(/^\//, "") : path
+  const last = landings[landings.length - 1]
+  if (last === undefined) return mistaking(["this act composed no day"])
+  const body = new TextEncoder().encode(linesOf(last.rows))
+  const rest = landings.slice(0, -1)
+  if (rest.length === 0) {
+    const only = ["--file-path", at(last.held.path), "--message", said]
+    return writing(only, given, () => ({ bytes: body }))
+  }
+  const scratch = mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
+  try {
+    const argv: string[] = []
+    rest.forEach((one, index) => {
+      const beside = join(scratch, `day-${String(index)}`)
+      writeFileSync(beside, linesOf(one.rows))
+      argv.push("--file-path", at(one.held.path), "--content-file", beside)
+    })
+    argv.push("--file-path", at(last.held.path), "--message", said)
+    return writing(argv, given, () => ({ bytes: body }))
+  } finally {
+    rmSync(scratch, { recursive: true, force: true })
+  }
+}
+
 function landed(held: Held, rows: readonly Row[], said: string, given: Given): Answer {
-  const body = new TextEncoder().encode(linesOf(rows))
-  const at = held.path.startsWith(given.root)
-    ? held.path.slice(given.root.length).replace(/^\//, "")
-    : held.path
-  return writing(["--file-path", at, "--message", said], given, () => ({ bytes: body }))
+  return landedAcross([{ held, rows: [...rows] }], said, given)
+}
+
+function endingIn(
+  root: string,
+  day: string,
+  held: Held,
+  rows: Row[],
+  act: string
+): Ending | string {
+  const open = openIn(rows)
+  if (open !== null) return { held, rows, stretch: open }
+  if (act === "switch") {
+    const before = heldFor(root, dayBefore(day))
+    if (typeof before !== "string") {
+      const beforeRows = before.rows.map((one) => ({ ...one }))
+      const found = openIn(beforeRows)
+      if (found !== null && sleeping(found.title)) {
+        return { held: before, rows: beforeRows, stretch: found }
+      }
+    }
+  }
+  return "this day carries no open stretch to end"
+}
+
+function movedInto(root: string, from: Ending, ended: string): Landing | string {
+  const target = heldFor(root, wokeInto(ended))
+  if (typeof target === "string") return target
+  const rows = target.rows.map((one) => ({ ...one }))
+  from.rows.splice(from.rows.indexOf(from.stretch), 1)
+  rows.push({ ...from.stretch, dailyTracking: target.page })
+  rows.sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
+  return { held: target, rows }
 }
 
 export function track(argv: readonly string[], given: Given): Answer {
@@ -245,31 +306,42 @@ export function track(argv: readonly string[], given: Given): Answer {
   }
 
   if (act === "close" || act === "switch") {
-    if (open === null) return mistaking(["this day carries no open stretch to end"])
+    const found = endingIn(given.root, day, held, rows, act)
+    if (typeof found === "string") return mistaking([found])
     const ended = instantIn(rest, AT, now)
     if (ended === null) return mistaking([sayingFor(rest, AT, now)])
-    if (new Date(ended).getTime() <= new Date(open.startTime).getTime()) {
+    if (new Date(ended).getTime() <= new Date(found.stretch.startTime).getTime()) {
       return mistaking(["a stretch cannot end at or before it began"])
     }
-    open.endTime = ended
+    found.stretch.endTime = ended
+    const woke =
+      act === "switch" && sleeping(found.stretch.title) ? wokeInto(ended) : found.held.day
+    const home = woke === found.held.day ? found : movedInto(given.root, found, ended)
+    if (typeof home === "string") return mistaking([home])
     if (act === "switch") {
       const title = saidFor(rest, TITLE)
       if (title === null) return mistaking([`${TITLE} names what the next stretch is called`])
-      const levels = levelsFor(rest, title, open, activities)
+      const levels = levelsFor(rest, title, found.stretch, activities)
       if (levels.read === "refused") return mistaking(levels.refusals)
-      rows.push({
+      home.rows.push({
         id: mintedAt(now),
         title,
         startTime: ended,
-        dailyTracking: held.page,
+        dailyTracking: home.held.page,
         ...levels.levels,
         ...taggingOf(taggedFor(stated, title, [], known)),
       })
     }
-    const faults = faultsIn(rows, held.page)
+    const landings = home === found ? [found] : [found, home]
+    const faults = landings.flatMap((one) => faultsIn(one.rows, one.held.page))
     if (faults.length > 0) return mistaking(faults)
-    if (rest.includes(DRY_RUN)) return telling(shownOf(rows.slice(-2)))
-    return landed(held, rows, `${act === "switch" ? "Switch" : "Close"} on ${day}`, given)
+    if (rest.includes(DRY_RUN)) return telling(shownOf(home.rows.slice(-2)))
+    const doing = act === "switch" ? "Switch" : "Close"
+    const said =
+      home === found
+        ? `${doing} on ${home.held.day}`
+        : `${doing} on ${home.held.day}, and the sleep it ends opens that day`
+    return landedAcross(landings, said, given)
   }
 
   if (act === "open" || act === "log") {
