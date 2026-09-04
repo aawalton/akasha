@@ -1,7 +1,5 @@
 import { basename } from "node:path"
 
-const INSIDE = "akasha/"
-
 const SEGMENT = /^[a-z0-9-]+$/
 
 const HELD_PART = /^[a-z0-9]+$/
@@ -71,7 +69,6 @@ export function pageOf(said: Parted): string {
 }
 
 export function namedUnder(path: string, under: ReadonlySet<string>): Slugged | null {
-  if (!path.startsWith(INSIDE)) return null
   const said = partedIn(path)
   if (said === null || said.sections.length > 0) return null
   if (!under.has(said.pageType)) return null
