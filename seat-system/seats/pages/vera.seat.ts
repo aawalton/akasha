@@ -5,7 +5,7 @@ export const vera = {
   pageTypeSlug: "seat",
   slug: "vera",
   personaSlug: "vera",
-  assignmentSlug: "initiative/vera-graph-cleanup",
+  assignmentSlug: "workspace-package/graph",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
