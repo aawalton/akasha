@@ -61,6 +61,23 @@ export const propertyCarrying = {
       statement: "A name no page property carries is refused rather than answered with no pages.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A file is beside a property naming it where a page carrying that property sits in the file's folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file in another folder is beside nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the file is named decides nothing on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which properties naming a file are meant is the caller's to say.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page body is read.",
     },

@@ -1,4 +1,6 @@
+import { basename, dirname } from "node:path"
 import { partedIn } from "@akasha/pages-system/page-file-name"
+import type { Value } from "@akasha/pages-system/page-value"
 import {
   everyOfType,
   idsNaming,
@@ -16,6 +18,8 @@ const EXTENDS = "extends-slug"
 const PAGE_TYPE = "page-type"
 
 const RECORD_PROPERTY = "record-property"
+
+const FILE_NAME = "fileName"
 
 export type Carrying = {
   readonly pageTypeSlug: string
@@ -105,4 +109,31 @@ export function carryingOf(given: string | Reading, named: string): Carried {
   }
   take(listed.id, null)
   return { carrying: ordered(found) }
+}
+
+export type Naming = {
+  readonly path: string
+  readonly value: Value | null
+}
+
+export function heldBeside(
+  path: string,
+  naming: Iterable<Naming>,
+  wanted: (value: Value) => boolean,
+  carriedBy: (named: string) => Carried
+): boolean {
+  const folder = dirname(path)
+  const name = basename(path)
+  for (const one of naming) {
+    const value = one.value
+    if (value === null || !wanted(value)) continue
+    const named = value[FILE_NAME]
+    if (typeof named !== "string" || named !== name) continue
+    const said = partedIn(one.path)
+    if (said === null || said.sections.length > 0) continue
+    const held = carriedBy(`${said.pageType}/${said.slug}`)
+    if ("refused" in held) continue
+    if (held.carrying.some((two) => dirname(two.path) === folder)) return true
+  }
+  return false
 }

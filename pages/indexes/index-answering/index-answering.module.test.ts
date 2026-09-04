@@ -35,7 +35,7 @@ import {
   schemaFiled,
 } from "../index-reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
-import { declaringOf } from "../property-carrying/property-carrying.module.code.ts"
+import { carryingOf, declaringOf } from "../property-carrying/property-carrying.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 import { answeringOver } from "./index-answering.module.code.ts"
 
@@ -90,9 +90,6 @@ const DOMAIN_AT = "akasha/held/domain.page-type.ts"
 
 const DOMAIN_ID = "01a04a4a-0000-7000-8000-0000000000d0"
 
-// `module` extends `domain`, and the walk reading what a page type carries reads its parent too.
-// The parent went unseeded here and the walk used to break quietly on it; it refuses now, so the
-// fixture names the page type it always said it extended.
 const DOMAIN_VALUE: Value = { id: DOMAIN_ID, pageTypeSlug: PAGE_TYPE, slug: "domain" }
 
 function pageOf(path: string): Value | null {
@@ -122,6 +119,7 @@ test("every question answers what the reader beneath it answers with the reading
   const reading = readingIn(root)
   const index = answeringOver(reading, root, pageOf)
   expect(index.carriedIn(TYPE_VALUE, MODULE)).toEqual(carriedIn(TYPE_VALUE, reading, MODULE))
+  expect(index.carryingOf(SLUG)).toEqual(carryingOf(reading, SLUG))
   expect(index.declarationsOf(MODULE)).toEqual(declarationsOf(MODULE, reading, pageOf))
   expect(index.declaringOf(SLUG_ID)).toEqual(declaringOf(reading, SLUG_ID))
   expect(index.everyOfType(MODULE)).toEqual(everyOfType(reading, MODULE))

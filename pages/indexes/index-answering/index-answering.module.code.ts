@@ -39,13 +39,19 @@ import {
   typeSlugOf,
 } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
-import { type Declaring, declaringOf } from "../property-carrying/property-carrying.module.code.ts"
+import {
+  carryingOf,
+  type Declaring,
+  declaringOf,
+  type Carried as Reached,
+} from "../property-carrying/property-carrying.module.code.ts"
 import { knownIn, type Shaped } from "../reaching/reaching.module.code.ts"
 
 export type PageOf = (path: string) => Value | null
 
 export type Answering = {
   readonly carriedIn: (value: Value, declaredBy: string) => readonly Carried[]
+  readonly carryingOf: (named: string) => Reached
   readonly declarationsOf: (pageTypeSlug: string) => readonly Carried[]
   readonly declaringOf: (id: string) => readonly Declaring[]
   readonly entryShapesAt: () => ReadonlySet<string>
@@ -65,9 +71,6 @@ export type Answering = {
   readonly pageAt: (pageTypeSlug: string, slug: string) => Value | null
   readonly pageTypesIn: () => ReadonlySet<string>
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
-  // The tolerant reading, for a caller whose population comes from files rather than from what
-  // this index lists. It answers null where the page type cannot be read, which propertiesOf
-  // refuses over.
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
   readonly schemaAt: () => ReadonlyMap<string, Filed>
   readonly sidecarsAt: () => SidecarsBy
@@ -80,6 +83,7 @@ export type Answering = {
 export function answeringOver(reading: Reading, root: string | null, pageOf: PageOf): Answering {
   return {
     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
+    carryingOf: (named) => carryingOf(reading, named),
     declarationsOf: (pageTypeSlug) => declarationsOf(pageTypeSlug, reading, pageOf),
     declaringOf: (id) => declaringOf(reading, id),
     entryShapesAt: () => entryShapesAt(reading),

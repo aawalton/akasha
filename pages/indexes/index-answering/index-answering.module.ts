@@ -58,6 +58,19 @@ export const indexAnswering = {
       statement: "An answer here is what the reader beneath answers with that reading.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A caller whose pages come from files rather than from the index asks the tolerant reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tolerant reading answers nothing for a page type it cannot read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reading beside it refuses over that same page type.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },

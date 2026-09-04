@@ -1,12 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import type { Value } from "@akasha/pages-system/page-value"
 import {
   idFiled,
   listedFiled,
   relationFiled,
   schemaFiled,
 } from "../index-reading/index-reading.module.test-fixtures.ts"
-import { carryingOf } from "./property-carrying.module.code.ts"
+import {
+  type Carried,
+  carryingOf,
+  heldBeside,
+  type Naming,
+} from "./property-carrying.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -139,4 +145,72 @@ test("the answer is read with no page body standing anywhere", () => {
   declares(root, HELD, THING, pageAt("thing", "page-type"))
   const said = carryingOf(root, "held")
   expect("carrying" in said ? said.carrying.length : 0).toBe(1)
+})
+
+const NAMING: Naming = {
+  path: "akasha/lockfile.named-file-property.ts",
+  value: { fileName: "bun.lock", said: true },
+}
+
+const OWNER = "akasha-workspace.workspace.ts"
+
+function saidTrue(value: Value): boolean {
+  return value.said === true
+}
+
+function saidNever(): boolean {
+  return false
+}
+
+function carryingAt(at: string): (named: string) => Carried {
+  return (named) =>
+    named === "named-file-property/lockfile"
+      ? { carrying: [{ pageTypeSlug: "workspace", path: at, id: ONE, within: null }] }
+      : { refused: "no page property carries that slug" }
+}
+
+function refusing(): Carried {
+  return { refused: "no page property carries that slug" }
+}
+
+test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {
+  expect(heldBeside("bun.lock", [NAMING], saidTrue, carryingAt(OWNER))).toBe(true)
+})
+
+test("a file named the same in another folder is beside nothing", () => {
+  expect(heldBeside("node_modules/one/bun.lock", [NAMING], saidTrue, carryingAt(OWNER))).toBe(false)
+})
+
+test("a page carrying the property from another folder holds no file beside it", () => {
+  expect(heldBeside("bun.lock", [NAMING], saidTrue, carryingAt("deep/down/one.workspace.ts"))).toBe(
+    false
+  )
+})
+
+test("a property the caller does not ask for holds nothing beside it", () => {
+  expect(heldBeside("bun.lock", [NAMING], saidNever, carryingAt(OWNER))).toBe(false)
+})
+
+test("a property naming another file holds nothing beside it", () => {
+  expect(heldBeside("package.json", [NAMING], saidTrue, carryingAt(OWNER))).toBe(false)
+})
+
+test("a property carrying no value holds nothing beside it", () => {
+  const none: Naming = { path: NAMING.path, value: null }
+  expect(heldBeside("bun.lock", [none], saidTrue, carryingAt(OWNER))).toBe(false)
+})
+
+test("a name the carrying refuses holds nothing beside it", () => {
+  expect(heldBeside("bun.lock", [NAMING], saidTrue, refusing)).toBe(false)
+})
+
+test("the folder a file is beside is the one the index says the carrying page sits in", () => {
+  const root = rooted()
+  declares(root, HELD, THING, pageAt("thing", "page-type"))
+  const naming: readonly Naming[] = [
+    { path: pageAt("held", "text-property"), value: { fileName: "bun.lock", said: true } },
+  ]
+  const carrying = (named: string): Carried => carryingOf(root, named)
+  expect(heldBeside("akasha/bun.lock", naming, saidTrue, carrying)).toBe(true)
+  expect(heldBeside("bun.lock", naming, saidTrue, carrying)).toBe(false)
 })
