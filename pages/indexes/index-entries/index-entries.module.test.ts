@@ -11,6 +11,7 @@ import {
   filePropertiesOver,
   pathsOf,
   schemaAt,
+  sidecarsIn,
   uniquePropertiesAt,
 } from "./index-entries.module.code.ts"
 import { A, grounded, scratch } from "./index-entries.module.test-fixtures.ts"
@@ -347,4 +348,117 @@ test("what each page type holds in a file is answered off the index carrying no 
   const reading = readingAt(root)
 
   expect(filePropertiesAt(reading)).toEqual(filePropertiesOver(reading, []))
+})
+
+function manifest(slug: string, fileName: string): Record<string, unknown> {
+  return { id: slug, pageTypeSlug: "named-file-property", slug, propertySlug: "manifest", fileName }
+}
+
+test("a page type naming two page types above it carries what each of them declares", () => {
+  const values = [
+    { id: "1", pageTypeSlug: "file-property", slug: "alpha", propertySlug: "alpha" },
+    { id: "2", pageTypeSlug: "file-property", slug: "beta", propertySlug: "beta" },
+    {
+      id: "3",
+      pageTypeSlug: "page-type",
+      slug: "one",
+      properties: [{ pagePropertySlug: "alpha" }],
+    },
+    { id: "4", pageTypeSlug: "page-type", slug: "two", properties: [{ pagePropertySlug: "beta" }] },
+    {
+      id: "5",
+      pageTypeSlug: "page-type",
+      slug: "both",
+      extendsSlug: ["page-type/one", "page-type/two"],
+    },
+  ]
+
+  expect([...(filePropertiesIn(values).get("both") ?? [])]).toEqual([
+    ["beta", null],
+    ["alpha", null],
+  ])
+})
+
+test("a property two page types above declare is taken from the nearer of them", () => {
+  const values = [
+    manifest("near-manifest", "near.json"),
+    manifest("far-manifest", "far.json"),
+    {
+      id: "a",
+      pageTypeSlug: "page-type",
+      slug: "far",
+      properties: [{ pagePropertySlug: "named-file-property/far-manifest" }],
+    },
+    {
+      id: "b",
+      pageTypeSlug: "page-type",
+      slug: "near",
+      properties: [{ pagePropertySlug: "named-file-property/near-manifest" }],
+    },
+    { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: "page-type/far" },
+    {
+      id: "d",
+      pageTypeSlug: "page-type",
+      slug: "leaf",
+      extendsSlug: ["page-type/near", "page-type/mid"],
+    },
+  ]
+
+  expect([...(filePropertiesIn(values).get("leaf") ?? [])]).toEqual([["manifest", "near.json"]])
+})
+
+test("a property two page types equally near declare is taken from the last one named", () => {
+  const values = [
+    manifest("first-manifest", "first.json"),
+    manifest("second-manifest", "second.json"),
+    {
+      id: "a",
+      pageTypeSlug: "page-type",
+      slug: "first-parent",
+      properties: [{ pagePropertySlug: "named-file-property/first-manifest" }],
+    },
+    {
+      id: "b",
+      pageTypeSlug: "page-type",
+      slug: "second-parent",
+      properties: [{ pagePropertySlug: "named-file-property/second-manifest" }],
+    },
+    {
+      id: "c",
+      pageTypeSlug: "page-type",
+      slug: "leaf",
+      extendsSlug: ["page-type/first-parent", "page-type/second-parent"],
+    },
+  ]
+
+  expect([...(filePropertiesIn(values).get("leaf") ?? [])]).toEqual([["manifest", "second.json"]])
+})
+
+test("the files beside a page are read from every page type above it", () => {
+  const values = [
+    {
+      id: "1",
+      pageTypeSlug: "page-type",
+      slug: "one",
+      properties: [{ secret: true }, { pagePropertySlug: "patch", default: "one-default" }],
+    },
+    {
+      id: "2",
+      pageTypeSlug: "page-type",
+      slug: "two",
+      properties: [{ uncommitted: true }, { pagePropertySlug: "patch", default: "two-default" }],
+    },
+    {
+      id: "3",
+      pageTypeSlug: "page-type",
+      slug: "both",
+      extendsSlug: ["page-type/one", "page-type/two"],
+    },
+  ]
+
+  const said = sidecarsIn(values).get("both")
+
+  expect(said?.secret).toBe(true)
+  expect(said?.uncommitted).toBe(true)
+  expect([...(said?.besides ?? [])]).toEqual([["patch", "two-default"]])
 })
