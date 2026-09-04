@@ -43,10 +43,6 @@ declare const ZO_WorldMapFiltersImperialPvPContainerScrollChild: Control | undef
 declare const ZO_WorldMapFiltersImperialPvPCheckBox1: Control | undefined
 declare const ZO_WorldMapFiltersImperialPvPComboBox1: Control | undefined
 
-interface MapPin {
-  GetPinTypeAndTag: () => LuaMultiReturn<[pinTypeId: number, pinTag: unknown]>
-}
-
 declare const SI_GAMEPAD_PLAYER_PROGERSS_BAR_UNKNOWN_ZONE: number
 declare const SI_SPECIALIZEDITEMTYPE213: number
 declare const SI_ZONECOMPLETIONTYPE12: number
