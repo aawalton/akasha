@@ -40,6 +40,37 @@ index ceb2990732976382ad81e1cc00e9901ff6a2adc0..d8b84a7b336b17764a21f33dc8aa5c3b
    aProperty("3", "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
    aProperty("4", "domain-slug", "relation-property", { targetPageTypeSlug: "domain" }),
    aProperty("6", "code", "file-property"),
+diff --git a/pages/indexes/indexing/indexing.module.test.ts b/pages/indexes/indexing/indexing.module.test.ts
+index 5637c6d7e9bd45c57d42a7d746d8ca2c97d3b9d5..00e831f76158b31cfde457a4993df7a17fad8e1d 100644
+--- a/pages/indexes/indexing/indexing.module.test.ts
++++ b/pages/indexes/indexing/indexing.module.test.ts
+@@ -275,7 +275,7 @@ test("pages carrying no property that declares a unique are refused rather than
+   const tree = heldAt()
+   const root = heldAt()
+   for (const [at, value] of [
+-    aType("9", "text-property", "page-property"),
++    aType("9", "text-property", ["page-property"]),
+     aProperty("8", "note", "text-property"),
+   ])
+     put(tree, at, bodyOf(value))
+@@ -297,7 +297,7 @@ test("a settle over pages declaring no unique is refused rather than filed empty
+ test("a world carrying a page and declaring no property at all is refused", () => {
+   const tree = heldAt()
+   const root = heldAt()
+-  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", "page")[1]))
++  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
+   put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+ 
+   expect(() => rebuiltFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
+@@ -305,7 +305,7 @@ test("a world carrying a page and declaring no property at all is refused", () =
+ 
+ test("a rebuild takes away an entry no page carries", () => {
+   const { tree, root } = bare()
+-  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", "page")[1]))
++  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
+   put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+   rebuiltFrom(tree, root, tree)
+ 
 diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
 index f551eb6241504bd77854d211bce8756d8bffe3b2..14655b12f1c5e4bb3f6a03c2ef36117150f77dce 100644
 --- a/pages/shadow/shadow.module.test.ts
