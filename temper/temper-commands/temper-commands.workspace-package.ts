@@ -98,7 +98,6 @@ export const temperCommands = {
     "module/eso-base-game-globals",
     "module/eso-chatter-names",
     "module/eso-colon-methods",
-    "module/code-outside-akasha",
     "module/inventory-rule-calling",
     "module/bank-profile-reading",
     "module/bank-trace-reading",
