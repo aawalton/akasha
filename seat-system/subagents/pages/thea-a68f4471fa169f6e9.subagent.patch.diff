@@ -1,0 +1,21 @@
+diff --git a/temper/temper-eso-types/eso-api-3/eso-api-3.type-declaration.d.ts b/temper/temper-eso-types/eso-api-3/eso-api-3.type-declaration.d.ts
+index a279dab4a8df839dd363811bfa7217bd99218a79..7c0dfe03307e004672e1d483982a40b1c44b7768 100644
+--- a/temper/temper-eso-types/eso-api-3/eso-api-3.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-api-3/eso-api-3.type-declaration.d.ts
+@@ -138,16 +138,6 @@ interface DlwcKeybindButtonGroup {
+   alignment: number
+   [index: number]: DlwcKeybindButtonEntry
+ }
+-interface KeybindStripObject {
+-  AddKeybindButtonGroup: ((this: KeybindStripObject, descriptor: DlwcKeybindButtonGroup) => void) &
+-    ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
+-  RemoveKeybindButtonGroup: ((
+-    this: KeybindStripObject,
+-    descriptor: DlwcKeybindButtonGroup
+-  ) => void) &
+-    ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
+-}
+-
+ interface ZoAlphaAnimation {
+   FadeOut: (this: ZoAlphaAnimation, duration: number, delay: number) => void
+ }
