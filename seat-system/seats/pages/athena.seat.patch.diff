@@ -1,5 +1,5 @@
 diff --git a/command-system/manifest-locking/manifest-locking.module.code.ts b/command-system/manifest-locking/manifest-locking.module.code.ts
-index 4647934c804696eb0242069da79201fb31a34ccb..87b68b13695f57c0a975ad95c0019abed9d423ab 100644
+index 4647934c804696eb0242069da79201fb31a34ccb..dbacf5c8d98645d7e32001f2c41f15fead5fcf59 100644
 --- a/command-system/manifest-locking/manifest-locking.module.code.ts
 +++ b/command-system/manifest-locking/manifest-locking.module.code.ts
 @@ -1,4 +1,4 @@
@@ -8,3 +8,11 @@ index 4647934c804696eb0242069da79201fb31a34ccb..87b68b13695f57c0a975ad95c0019abe
  import { dirname, join } from "node:path"
  import { argvFor } from "@akasha/git/git-running"
  import { ran } from "@akasha/utils-run/running"
+@@ -188,6 +188,7 @@ export function installedIn(root: string): Installing {
+ 
+ export function installingIn(root: string, changes: readonly FileEdit[]): Installing {
+   if (manifestsIn(changes).length === 0) return NOTHING_INSTALLED
++  if (!existsSync(join(root, MANIFEST))) return NOTHING_INSTALLED
+   try {
+     return holding(root, () => installedIn(root))
+   } catch (thrown) {
