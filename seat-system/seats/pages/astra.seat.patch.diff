@@ -1,14 +1,10 @@
-diff --git a/pages/akasha-page-values/akasha-page-values.module.code.ts b/pages/akasha-page-values/akasha-page-values.module.code.ts
-index 9cae8925e1b71e7746d8089e08ddc5f646bd80dc..e805edc23dc270f7e364acd3e4f8e17ed4fb6eac 100644
---- a/pages/akasha-page-values/akasha-page-values.module.code.ts
-+++ b/pages/akasha-page-values/akasha-page-values.module.code.ts
-@@ -15,8 +15,8 @@
-  */
- 
- import { kebabizeKey } from "@akasha/pages-access/file-rows"
-+import { carried, type Held, type Values } from "../carry/page-carry.module.code.ts"
- import { partedIn } from "../file-name/page-file-name.module.code.ts"
--import { carried, type Held, type Values } from "../page-carry/page-carry.module.code.ts"
- import { wholeValue } from "../uncommitted/page-uncommitted.module.code.ts"
- import { valueAt } from "../value/page-value.module.code.ts"
+diff --git a/pages/query-keys/page-query-keys.module.code.ts b/pages/query-keys/page-query-keys.module.code.ts
+index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..63092fb719e5297710d7d960f356280a0fcaea62 100644
+--- a/pages/query-keys/page-query-keys.module.code.ts
++++ b/pages/query-keys/page-query-keys.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { Carries } from "../page-derive-shape/page-derive-shape.module.code.ts"
++import type { Carries } from "../derive-shape/page-derive-shape.module.code.ts"
+ import type { PageQuery } from "../page-query-shape/page-query-shape.module.code.ts"
+ import { BODY } from "../page-value-key/page-value-key.module.code.ts"
  
