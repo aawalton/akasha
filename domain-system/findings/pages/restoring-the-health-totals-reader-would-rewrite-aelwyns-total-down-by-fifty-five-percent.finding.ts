@@ -4,7 +4,7 @@ export const restoringTheHealthTotalsReaderWouldRewriteAelwynsTotalDownByFiftyFi
   id: "01a06a1a-449e-7000-839d-ef1cbf461375",
   pageTypeSlug: "finding",
   slug: "restoring-the-health-totals-reader-would-rewrite-aelwyns-total-down-by-fifty-five-percent",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/tracking-daily",
   claim:
     "`readHealthPersonaTotals` threw on every call while it asked the markdown road, so nothing has written a health persona total for as long as that road has been down. It answers again now that it asks the checkout, and the first thing it says is that aelwyn's computed total is 22,537.40 against the 50,909.80 her page carries. `writeHealthTotalPoints` would land the lower figure over the higher one on the next run. The read is not short: aelwyn has 86 persona-day files on disk and the reader sums 86 rows, and an `in` filter and a hand filter over all 2,079 persona-days answer the same 86 rows and the same 18,271.90 raw points. So the gap is between what the days now hold and what the persona page has carried since the reader last worked, rather than between what the reader can see and what there is.",
   evidence:
