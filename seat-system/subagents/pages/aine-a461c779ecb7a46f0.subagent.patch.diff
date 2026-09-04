@@ -303,10 +303,14 @@ index 90a13597c96ab79561cffbb4e8f545d32801a43c..0797185c09b37666976cddb9866fa9af
    const absent = await hashFileSet(["/nowhere/one"])
    const other = await hashFileSet(["/nowhere/two"])
 diff --git a/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts b/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
-index f6a45d6bbbc79dc47a1ff4262ded68b308b0732d..cc7ab5cbe33b5399b2c64c156e2702335cabdb17 100644
+index f6a45d6bbbc79dc47a1ff4262ded68b308b0732d..a218ca5f0bc16ba1fe8b5cb9a6587c10f18c4085 100644
 --- a/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
 +++ b/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
-@@ -9,7 +9,21 @@ export const supervisorFileVersion = {
+@@ -6,10 +6,25 @@ export const supervisorFileVersion = {
+   slug: "supervisor-file-version",
+   definition: "the hash of every file a running supervisor was built from",
+   code: "ts",
++  test: "ts",
    invariants: [
      {
        invariantKind: "departure",
