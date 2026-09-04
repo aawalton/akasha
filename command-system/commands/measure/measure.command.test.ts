@@ -29,11 +29,26 @@ test("a subject this does not measure is refused by name", async () => {
   expect(said.refusals[0]).toContain("`seats`")
 })
 
-test("one call measures one subject", async () => {
+test("an act this does not take is refused by name", async () => {
   const said = await measure(["claude-accounts", "repo"], given("/repo"))
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("one subject")
+  expect(said.refusals[0]).toContain("`repo`")
+  expect(said.refusals[0]).toContain("no act this takes")
+})
+
+test("a subject carrying no act is refused the word after it", async () => {
+  const said = await measure(["repo", "cost"], given("/repo"))
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("carries no act")
+})
+
+test("one call names one act", async () => {
+  const said = await measure(["claude-accounts", "cost", "cost"], given("/repo"))
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("one act")
 })
 
 test("the subject read is the first word", async () => {
@@ -43,7 +58,7 @@ test("the subject read is the first word", async () => {
   expect(said.refusals[0]).toContain("`--claude-accounts`")
 })
 
-test("`repo` counts the checkout and what has arrived in akasha", async () => {
+test("`repo` counts the files the checkout holds", async () => {
   const root = scratch.rootFor("measure-repo-")
   git(root, ["init", "--quiet"])
   put(root, ".git/info/exclude", "node_modules/\n")
@@ -55,16 +70,11 @@ test("`repo` counts the checkout and what has arrived in akasha", async () => {
 
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
-  expect(said.report).toEqual(["akasha      1", "repo        2", "share  50.00%"])
+  expect(said.report).toEqual(["repo 2"])
 })
 
-test("a checkout holding no akasha folder is refused rather than measured at none", async () => {
+test("a checkout git cannot list throws rather than counting none", () => {
   const root = scratch.rootFor("measure-repo-bare-")
-  put(root, "tools/one.ts", "one\n")
 
-  const said = await measure(["repo"], given(root))
-
-  expect(said.code).toBe(2)
-  expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("no akasha folder")
+  expect(() => measure(["repo"], given(root))).toThrow()
 })
