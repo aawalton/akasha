@@ -7,7 +7,7 @@ export const typescript7 = {
   definition: "the check refusing TypeScript that does not compile, judged by TypeScript 7",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
