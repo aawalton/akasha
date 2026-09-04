@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A page type takes its properties from more than one type.",
       workingMemory:
-        "441 page type files each state one extendsSlug and each becomes a list. The readers that matter are pages-core/schema/page-type-inheritance, page-types/descent, page-types/declared-properties, indexes/property-carrying, and carriedBy in index-entries, which climbs the chain to settle which file properties a page type carries. Three more readers are in markdown-pages and leave anyway. Unsettled: what happens where two parents declare one property differently.",
+        "The last parent named decides where two declare one property. `many: true` and the 441 values land in one batch or not at all, page-matches-its-type refusing a single value declared many and a list declared single alike; that batch only writes over files already there, so it lands mechanically. The tree is green over 120319 files, so no glass is owed. Expand over the descent path is three files: page-type-descent listedAbove, warranting's Known.above, and the file-page-type warrant.",
     },
     {
       statement: "A property states the calculation that fills it.",
