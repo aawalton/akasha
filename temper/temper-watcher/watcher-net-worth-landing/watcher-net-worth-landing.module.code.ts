@@ -43,8 +43,8 @@ export type ReadingValues = {
   readonly excludedGuildBankValue?: number | undefined
 }
 
-export function capturedAtOf(dataTimestamp: number): string {
-  return new Date(dataTimestamp).toISOString()
+export function capturedAtOf(epochMs: number): string {
+  return new Date(epochMs).toISOString()
 }
 
 export function netWorthHourSlug(capturedAt: string): string {
