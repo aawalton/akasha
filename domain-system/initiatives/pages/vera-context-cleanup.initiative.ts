@@ -15,7 +15,7 @@ export const veraContextCleanup = {
     {
       statement: "The context folder tree passes the folder-matches-a-shape check.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape --file-path context-system` answers 60 files and none refused, so this holds today and the rename is what puts it at risk. Under a parent named `context`, `context-warrants` would open with the name of the page above it and want to be `warrants`. The other three folders, `agent-stated`, `warranting` and `warrant-scratch`, are untouched by it.",
+        "`akasha audit --check folder-matches-a-shape --file-path context` answers none refused. `context-warrants` became `warrants` in the move that renamed the package, so the stutter the rename would have made never landed. `warrant-scratch` has since folded into the fixtures beside `warranting`, being test scaffolding rather than a module, leaving `agent-stated`, `warranting` and `warrants`.",
     },
   ],
 } as const satisfies Initiative
