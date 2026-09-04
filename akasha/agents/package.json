@@ -27,6 +27,7 @@
     "./hold-registry": "./models/gateway/modules/hold-registry/hold-registry.module.code.ts",
     "./idle-timeout": "./models/gateway/modules/idle-timeout/idle-timeout.module.code.ts",
     "./keepalive": "./models/gateway/modules/keepalive/keepalive.module.code.ts",
+    "./model-vocab": "./models/modules/model-vocab/model-vocab.module.code.ts",
     "./oauth-effects": "./models/gateway/modules/oauth-effects/oauth-effects.module.code.ts",
     "./oauth-types": "./models/gateway/modules/oauth-types/oauth-types.module.code.ts",
     "./patch-keeping": "./patch-keeping/patch-keeping.module.code.ts",

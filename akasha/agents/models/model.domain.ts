@@ -9,6 +9,7 @@ export const model = {
   partSlugs: [
     "domain/model-gateway",
     "module/model-asking",
+    "module/model-vocab",
     "page-type/model-family",
     "page-type/model-test",
   ],
