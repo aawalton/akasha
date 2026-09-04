@@ -1,11 +1,3 @@
-import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
-import { removePage } from "@akasha/markdown-pages/page-write"
-import { whereFor } from "@akasha/markdown-pages/page-write-where"
-import { registryOf } from "@akasha/markdown-pages/property-registry"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { frontmatterOf } from "@akasha/seat-system/seat-presence-read"
-import { type SeatPresence, statedProcessPresence } from "@akasha/seat-system/seat-proc-key"
 import {
   GROUP,
   type Named,
@@ -14,7 +6,15 @@ import {
   TERMINAL,
   WINDOW,
   WRITER,
-} from "@tools/lib/editor-arrangement"
+} from "@akasha/editor-extension/editor-arrangement"
+import { diskFileTree, type FileTree } from "@akasha/markdown-pages/file-tree"
+import { removePage } from "@akasha/markdown-pages/page-write"
+import { whereFor } from "@akasha/markdown-pages/page-write-where"
+import { registryOf } from "@akasha/markdown-pages/property-registry"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { frontmatterOf } from "@akasha/seat-system/seat-presence-read"
+import { type SeatPresence, statedProcessPresence } from "@akasha/seat-system/seat-proc-key"
 
 function processPresence(
   roots: Roots,

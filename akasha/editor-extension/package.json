@@ -20,6 +20,7 @@
     "./command-server-client": "./command-server-client/command-server-client.module.code.ts",
     "./domain-tree-ids": "./domain-tree-ids/domain-tree-ids.module.code.ts",
     "./domain-tree-panel": "./domain-tree-panel/domain-tree-panel.module.code.ts",
+    "./editor-arrangement": "./editor-arrangement/editor-arrangement.module.code.ts",
     "./editor-group": "./editor-group/editor-group.module.code.ts",
     "./editor-layout-panel": "./editor-layout-panel/editor-layout-panel.module.code.ts",
     "./group-stoplights": "./group-stoplights/group-stoplights.module.code.ts",

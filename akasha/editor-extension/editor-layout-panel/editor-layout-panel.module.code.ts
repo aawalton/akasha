@@ -1,7 +1,7 @@
 import { deferCommits } from "@akasha/markdown-pages/page-commit-queue"
 import { rootsHere } from "@akasha/pages-system/checkout-roots"
-import { arrangedResponse } from "@tools/lib/editor-arrangement"
 import * as vscode from "vscode"
+import { arrangedResponse } from "../editor-arrangement/editor-arrangement.module.code.ts"
 import {
   arrangementFrom,
   type LayoutGroup,
