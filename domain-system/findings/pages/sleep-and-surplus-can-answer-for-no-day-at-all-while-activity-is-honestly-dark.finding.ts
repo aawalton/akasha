@@ -4,7 +4,7 @@ export const sleepAndSurplusCanAnswerForNoDayAtAllWhileActivityIsHonestlyDark = 
   id: "01a069c1-2d21-77cd-9907-b1be775ad279",
   pageTypeSlug: "finding",
   slug: "sleep-and-surplus-can-answer-for-no-day-at-all-while-activity-is-honestly-dark",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/alan-readouts",
   claim:
     "Three reading services are in systemd `failed` state and the reason is not the same for all three. Measured over all 135 wake-day pages: `activityIn` answers a number on 77 of them, so activity is honestly dark today and its silence is right. `sleepIn` and `surplusIn` answer on 0 of 135. The keys each reads, `sleep-hours` and `spend-hours`, are present on 0 of 135 days, while the reducers themselves are sighted — seeded rows answer 7.25 and 6. So those two tiles cannot light for any day, past or present, and their exit 2 reports an absent reading where the truth is a reader no data can satisfy. It is not a key-spelling fault: today's row carries 28 keys, 28 kebab and 0 camel, so `kebabisedRow` is doing its work on the day arm. Separately and independently, exit 2 meaning `nothing to report` reaching systemd as `failed` is a signalling mismatch on all eight readings.",
   evidence:

@@ -4,7 +4,7 @@ export const theAkashaGatewayEntryWritesNoTransportRowBecauseNoLogPathReachesIt 
   id: "01a06985-0000-7000-9a01-6d6733e1a002",
   pageTypeSlug: "finding",
   slug: "the-akasha-gateway-entry-writes-no-transport-row-because-no-log-path-reaches-it",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/model-gateway",
   claim:
     "The akasha gateway takes its transport log destination as `logAt`, a page path or a call answering one, and `SURFACE` carries none. `optionsFor` in `proxy-process` hands the boot settings' log directory on as `getLogDir` and nothing turns that into a `logAt`, so `buildStreamObserver` returns early and no transport row is written. The tools entry does write them: `transport-log.ts` keys a `logWriter` on the agent id taken from the log directory's own name and lands rows on a seat-log-day page under the property `lines`. The akasha module lands them through `queueAt` under the property `transport`, which is a different destination rather than the same one spelt differently, so this is a design decision nobody has taken rather than a wire nobody has joined. Any cutover of the entry point stops transport rows until it is taken.",
   evidence:

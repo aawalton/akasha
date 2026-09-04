@@ -4,7 +4,7 @@ export const theAkashaDeployPathPlacesNoSecret = {
   id: "01a0683e-687e-75c1-bc1c-c1ce4c45dc1b",
   pageTypeSlug: "finding",
   slug: "the-akasha-deploy-path-places-no-secret",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/secret",
   claim:
     "The deploy path inside akasha applies manifests without ever placing the secrets those manifests demand. `deploy-system/secret/secret.ts` did that work outside akasha and has no counterpart inside it, so a cluster service whose pods read a Secret deploys against whatever the cluster already holds. The old `deploy()` placed secrets between opening the namespace and applying the rest; `putUp` applies straight through.",
   evidence:
