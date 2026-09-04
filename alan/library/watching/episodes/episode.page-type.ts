@@ -34,7 +34,7 @@ export const episode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An episode is watched or not; there is no part way through one.",
+      statement: "An episode is watched or not.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const episode = {
     },
     {
       invariantKind: "departure",
-      statement: "An episode states the minutes it runs to.",
+      statement: "An episode states the minutes the episode runs to.",
     },
   ],
 } as const satisfies PageType

@@ -42,7 +42,7 @@ export const movie = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A film states the minutes it runs to.",
+      statement: "A film states the minutes the film runs to.",
     },
     {
       invariantKind: "departure",

@@ -18,7 +18,15 @@ export const watching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A show sits under a franchise, a season under a show, an episode under a season.",
+      statement: "A show sits under a franchise.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A season sits under a show.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An episode sits under a season.",
     },
     {
       invariantKind: "departure",
