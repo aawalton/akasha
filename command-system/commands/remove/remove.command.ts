@@ -9,7 +9,7 @@ export const remove = {
   test: "ts",
   testFixtures: "ts",
   changeKindSlug: "change-mechanical",
-  partSlugs: ["module/remove-naming", "module/remove-workspacing"],
+  partSlugs: ["module/remove-manifesting", "module/remove-naming", "module/remove-workspacing"],
   taking: [
     { said: "--file-path <path>", takes: "a path anywhere in the repository to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
@@ -28,6 +28,7 @@ export const remove = {
     "what a tracked file left behind still names is reported, and nothing here repoints it.",
     "a file is named for spelling a whole path that goes or a package name a manifest that goes declares.",
     "a wider sweep for the last part of each path is reported apart, and most of it is unrelated.",
+    "a way into a package is dropped where the removal takes the file that way in lands on.",
     "the root manifest stops naming a workspace this empties, and the lockfile is made again.",
     "a root manifest another commit moved while this ran refuses the removal rather than being written over.",
   ],

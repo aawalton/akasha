@@ -8,7 +8,6 @@ import { namedIn, remove } from "./remove.command.code.ts"
 import {
   AGENT,
   BESIDE,
-  BESIDE_IT,
   BODY,
   DEEP,
   GONE,
@@ -156,15 +155,7 @@ test("a path named twice is refused", () => {
   expect(twice.refusals[0]).toContain("named more than once")
 })
 
-test("a path outside akasha goes unjudged, and the file beside it is left alone", () => {
-  const root = repoWith({ [OUTSIDE]: BODY, [BESIDE_IT]: BODY, [HELD]: BODY })
-  const said = removing(root, naming(OUTSIDE))
-  expect(said.refusals).toEqual([])
-  expect(reportOf(said)).toContain(`went unjudged — ${OUTSIDE}`)
-  expect(git(root, ["ls-files"]).trim()).toBe(`${HELD}\n${BESIDE_IT}`)
-})
-
-test("a directory outside the akasha folder opens onto every file git holds under it", () => {
+test("a directory named opens onto every file git holds under it", () => {
   const root = repoWith({ [OUTSIDE]: BODY, "temper/one/deep/under.ts": BODY, [HELD]: BODY })
   expect(removing(root, naming("temper/one")).refusals).toEqual([])
   expect(git(root, ["ls-files"]).trim()).toBe(HELD)

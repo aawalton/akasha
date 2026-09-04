@@ -25,6 +25,7 @@ import {
   offRepo,
   pathAt,
 } from "../write/write.command.code.ts"
+import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifesting.module.code.ts"
 import { leftNaming, leftNamingSaid } from "./naming/remove-naming.module.code.ts"
 import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {
@@ -346,17 +347,19 @@ export function remove(argv: readonly string[], given: Given): Answer {
   }
   const mend = unnamingFor(root, paths)
   const spread = workspacingFor(root, base, new Set(paths))
+  const ways = manifestingFor(root, base, new Set(paths))
   const changes: readonly FileEdit[] = [
     ...paths.map((path) => ({ path, body: null })),
     ...mend.edits,
     ...spread.edits,
+    ...ways.edits,
   ]
   const asked: Asked = {
     changes,
     message: stated.message ?? `remove ${paths.join(", ")}`,
     dryRun: false,
     glass: glass.glass,
-    unmoved: spread.unmoved,
+    unmoved: [...spread.unmoved, ...ways.unmoved],
     saying: (landed) => [
       ...landed.took.map((one) => `${one} taken away`),
       ...already,
@@ -366,6 +369,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...mend.closed,
       ...mend.left,
       ...workspacingSaid(spread),
+      ...manifestingSaid(ways),
     ],
   }
   const said = landingAsked({ ...given, root }, asked)
