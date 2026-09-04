@@ -83,7 +83,7 @@ export const seat = {
     "text-property/transcript-path",
   ],
   properties: [
-    { pagePropertySlug: "persona-slug", required: true, many: false, default: "claude" },
+    { pagePropertySlug: "seat-persona-slug", required: true, many: false, default: "claude" },
     { pagePropertySlug: "role-slug", required: true, many: false, default: "worker" },
     { pagePropertySlug: "person-slug", required: false, many: false },
     { pagePropertySlug: "start-mode", required: true, many: false },
