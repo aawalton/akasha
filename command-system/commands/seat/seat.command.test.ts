@@ -65,7 +65,7 @@ test("a name no seat holds a page for is a data refusal, apart from a word it do
 })
 
 test("a name is read off the page path", () => {
-  expect(nameOf("akasha/seat-system/seats/pages/athena.seat.ts")).toBe("athena")
+  expect(nameOf("seat-system/seats/pages/athena.seat.ts")).toBe("athena")
 })
 
 test("a process is its pid and the start time joined by a hyphen", () => {
