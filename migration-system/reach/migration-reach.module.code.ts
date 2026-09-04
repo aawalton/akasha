@@ -2,7 +2,9 @@ import { readFileSync } from "node:fs"
 import { told } from "@akasha/git/git-running"
 import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
 
-const INSIDE = "akasha/"
+const NOTHING_TRACKED =
+  "git listed no tracked file at all under the root swept, so every path would read as unreached " +
+  "for a reason that is not about the files judged"
 
 const TAIL = 8
 
@@ -128,7 +130,7 @@ function linesOf(said: string | null): readonly string[] {
 
 export function reachingIn(root: string): Reaching {
   const at = told(root, ["rev-parse", "HEAD"])?.trim() ?? ""
-  const named = told(root, ["grep", "-I", "-E", DECLARING, "--", INSIDE])
+  const named = told(root, ["grep", "-I", "-E", DECLARING, "--"])
   const pages = declaredIn(linesOf(named))
   const byId = new Map<string, string>()
   const byTail = new Map<string, string[]>()
@@ -148,7 +150,9 @@ export function reachingIn(root: string): Reaching {
       pushed(byName, nameOf(one.pageTypeSlug, one.slug), one.path)
     }
   }
-  const byBlob = blobsIn(linesOf(told(root, ["ls-files", "-s", "--", INSIDE])))
+  const staged = linesOf(told(root, ["ls-files", "-s", "--"]))
+  if (staged.length === 0) throw new Error(NOTHING_TRACKED)
+  const byBlob = blobsIn(staged)
   for (const paths of byBlob.values()) for (const one of paths) held.add(one)
   const bodyOf = (path: string): string => bodyIn(root, path)
   return { root, at, pages, byId, byTail, byName, byBlob, byType, held, bodyOf }
@@ -238,7 +242,7 @@ export function fieldFound(
 export function regroupedIn(root: string, stated: Stated): readonly string[] {
   const one = stated.fields[0]
   if (one === undefined) return []
-  const said = told(root, ["grep", "-I", "-l", "-F", one, "--", INSIDE])
+  const said = told(root, ["grep", "-I", "-l", "-F", one, "--"])
   return said === null ? [] : said.split("\n").filter((line) => line !== "")
 }
 
