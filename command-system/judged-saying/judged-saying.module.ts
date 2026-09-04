@@ -10,7 +10,7 @@ export const judgedSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A check reaches a path under the akasha folder and no other.",
+      statement: "A check reaches a path inside this checkout and no other.",
     },
     {
       invariantKind: "departure",
