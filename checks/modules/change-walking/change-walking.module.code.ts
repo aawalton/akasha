@@ -175,6 +175,12 @@ export function input<T>(selector: Selector<T>, run: Running): Bounded {
   return Object.assign(bound, stated)
 }
 
+export function inputAsync<T>(selector: Selector<T>, run: RunningAsync): BoundedAsync {
+  const bound = (change: Change, shadow: Shadow): Promise<readonly Judged[]> => run(change, shadow)
+  const stated: Stated = { isInput: selector.isInput }
+  return Object.assign(bound, stated)
+}
+
 function overEach(
   taken: (path: string) => boolean,
   found: (path: string, text: string) => readonly string[]

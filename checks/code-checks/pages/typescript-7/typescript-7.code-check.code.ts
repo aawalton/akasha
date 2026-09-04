@@ -4,9 +4,9 @@ import { servedOf } from "@akasha/code-system/code-typing"
 import { waitingKeys } from "@akasha/indexes/generated-properties"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
-import { API } from "typescript-7/unstable/sync"
+import { API } from "typescript-7/unstable/async"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
+import { FILES, inputAsync } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Found } from "../typecheck/typecheck.code-check.code.ts"
 import {
@@ -85,7 +85,7 @@ type Diagnosed = {
   readonly startPosition?: { readonly line: number }
 }
 
-export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
+export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
   const roots = rootsOf(change, shadow.index)
   if (roots.length === 0) return []
   const root = resolve(change.root)
@@ -99,27 +99,28 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
     fs: { readFile, fileExists: (name) => (name === at ? true : undefined) },
   })
   try {
-    const project = api.updateSnapshot({ openProjects: [at] }).getProject(at)
+    const snapshot = await api.updateSnapshot({ openProjects: [at] })
+    const project = await snapshot.getProject(at)
     if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
     const found: Found[] = []
+    const program = await project.program
     for (const one of roots) {
       const file = join(root, one)
-      for (const said of project.program.getSyntacticDiagnostics(file))
+      for (const said of await program.getSyntacticDiagnostics(file))
         found.push(foundOf(root, said))
-      for (const said of project.program.getSemanticDiagnostics(file))
-        found.push(foundOf(root, said))
+      for (const said of await program.getSemanticDiagnostics(file)) found.push(foundOf(root, said))
     }
     return found
   } finally {
-    api.close()
+    await api.close()
   }
 }
 
-function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+async function refusalsIn(change: Change, shadow: Shadow): Promise<readonly Judged[]> {
   const changed = new Set(change.changed)
   const seen = new Set<string>()
   const said: Judged[] = []
-  for (const one of foundIn(change, shadow)) {
+  for (const one of await foundIn(change, shadow)) {
     const key = `${one.path}\n${one.reason}`
     if (seen.has(key)) continue
     seen.add(key)
@@ -131,4 +132,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export const typescript7 = input(BUILT, refusalsIn)
+export const typescript7 = inputAsync(BUILT, refusalsIn)
