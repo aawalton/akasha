@@ -14,12 +14,12 @@ export const olwenDomainCleanup = {
     {
       statement: "All domain files are organized in the domains/ folder.",
       workingMemory:
-        "`domain-system/` is 716 files in 13 children and 2 packages; every child is a declared part and nothing domain-specific is outside it. 83 files spell `@akasha/domain-system` over 5 used subpath exports; `./persona-slug` has none, and the property it names is imported nowhere, a duplicate of `initiative-persona-slug`. 185 files outside reach in by relative path, 171 to `domains/domain.page-type.ts`, against the invariant that a file outside a package reaches it only where its manifest names.",
+        "The carry is measured and refuses nothing: 709 files, 4 ignored sidecars, 43 emptied folders cleared, 186 files repointed that name what moved and 7 that spell its path, `bun.lock` among them. `move` read `<page>.<property>.uncommitted.<ext>` as committed until `uncommittedHeld` at 970f4ccd. The orphaned `persona-slug` and its way in went at f2136f0a. 83 files spell `@akasha/domain-system` over 5 ways in, and 185 reach in by relative path, 171 of those to `domains/domain.page-type.ts`.",
     },
     {
       statement: "The domains/ folder passes the folder-matches-a-shape check.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape --file-path domain-system` judges 717 files and answers 4 refusals. The shape is `pages/`'s: `domain.page-type.ts` beside the package re-slugged `domains`. `pairedIn` admits that pair and joins their parts, so the 12 sibling children keep passing. `purpose.domain.ts` then wants a folder. `openingWith` fires first, so `domain-documents`, `domain-reading`, `domain-championing` and `domain-parent` want `documents`, `reading`, `championing` and `parent`.",
+        "`purpose` is `domain-purpose` in a folder of its own at 397c678e, so the root holds one page and the carry's parenting refusal is gone. Of the 4 shape refusals, 2 are left: `domains/` holds 3 pages, and `plain-language/parser-models/pages` reads `compact-parser` as no domain. `commands/` clears when Athena's move lands. After the carry `openingWith` fires on `domain-documents`, `domain-reading`, `domain-championing` and `domain-parent`, wanting `documents`, `reading`, `championing` and `parent`.",
     },
   ],
 } as const satisfies Initiative
