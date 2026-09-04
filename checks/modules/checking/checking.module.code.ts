@@ -203,7 +203,7 @@ function threw(one: Gathered, thrown: unknown): Judged {
   }
 }
 
-export function judgingBy(every: readonly Gathered[]): Judging {
+export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
   return {
     named: every.map((one) => one.slug),
     checksFor: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
