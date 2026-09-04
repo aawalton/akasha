@@ -40,11 +40,11 @@ check("the seeded flag is read wherever it stands among the paths", () => {
   expect(said.paths).toEqual(["akasha/one.ts"])
 })
 
-check("a path outside the akasha folder is refused, and nothing is judged", () => {
+check("a path outside the repository is refused, and nothing is judged", () => {
   const root = staged({ "akasha/one.ts": CLEAN })
-  const said = typecheck(["--file-path", "tools/one.ts"], given(root))
+  const said = typecheck(["--file-path", "../one.ts"], given(root))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("stands outside `akasha/`")
+  expect(said.refusals[0]).toContain("outside the repository")
 })
 
 check("a file the folder does not compile is refused rather than read clean", () => {
