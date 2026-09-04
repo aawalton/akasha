@@ -11,8 +11,8 @@ import { valuesOver } from "@akasha/pages-system/page-value"
 import ts from "typescript"
 import type { Spot } from "../../../../commands/refactor/type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../../../../commands/refactor/type-renaming/type-renaming.module.code.ts"
+import { namesStill } from "../../../../commands/refactor/type-respelling/type-respelling.module.code.ts"
 import { counted } from "../../../asking/asking.module.code.ts"
-import { namesStill } from "../../refactor/type-respelling/type-respelling.module.code.ts"
 
 const SLUG = "slug"
 
