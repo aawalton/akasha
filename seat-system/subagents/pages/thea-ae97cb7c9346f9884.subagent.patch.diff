@@ -53,3 +53,125 @@ index c783af7ab779558298f8c83b857c2bc135ad49fa..137bba0a8819a13693382c98ca6ce58f
  }
  
  export function onDisk(root: string): (path: string) => Uint8Array | null {
+diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
+index 46e50f0d9024c43a4c09ad2c496c0a4481efa984..d906ff417d9a79b1bdcc3155ca3fcef38e89cd22 100644
+--- a/checks/modules/change-walking/change-walking.module.test.ts
++++ b/checks/modules/change-walking/change-walking.module.test.ts
+@@ -1,6 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
++import { execFileSync } from "node:child_process"
+ import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
+-import { join } from "node:path"
++import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { readingIn } from "@akasha/indexes"
+ import { answeringOver } from "@akasha/indexes/answering"
+@@ -35,6 +36,16 @@ const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
+ 
+ const TYPE_AT = "akasha/checks-system/change-walking/held/held.page-type.ts"
+ 
++const STRAY_AT = "akasha/checks-system/change-walking/held/stray.ts"
++
++const KEPT_AT = "akasha/checks-system/change-walking/held/held.module.entries.uncommitted.jsonl"
++
++const BUILT_AT = "akasha/checks-system/change-walking/held/held.module.code.d.ts"
++
++const VENDORED_AT = "node_modules/held/held.module.uncommitted.ts"
++
++const IGNORING = "*.uncommitted.*\n*.d.ts\nnode_modules/\n"
++
+ const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
+ 
+ const PAGE_TYPE = "page-type"
+@@ -45,16 +56,31 @@ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
++function bodyAt(root: string, path: string, body: string): undefined {
++  const at = join(root, path)
++  mkdirSync(dirname(at), { recursive: true })
++  writeFileSync(at, body)
++  return undefined
++}
++
+ function worldOf(paths: readonly string[]): string {
+   const root = scratch.rootFor("akasha-change-walking-")
+   for (const path of paths) {
+-    mkdirSync(join(root, path.slice(0, path.lastIndexOf("/"))), { recursive: true })
+-    writeFileSync(join(root, path), `export const held = "${path}"\n`)
++    bodyAt(root, path, `export const held = "${path}"\n`)
+     pathFiled(root, path, [{ path: PAGE_AT, id: HELD_ID }])
+   }
+   return root
+ }
+ 
++function treeWorld(): string {
++  const root = worldOf([PAGE_AT, CODE_AT])
++  bodyAt(root, ".gitignore", IGNORING)
++  for (const path of [STRAY_AT, KEPT_AT, BUILT_AT, VENDORED_AT]) bodyAt(root, path, "held\n")
++  execFileSync("git", ["-C", root, "init", "-q"], { stdio: "ignore" })
++  execFileSync("git", ["-C", root, "add", "-A"], { stdio: "ignore" })
++  return root
++}
++
+ function mixedWorld(): Change {
+   const root = scratch.rootFor("akasha-selecting-")
+   writeFileSync(join(root, "here.ts"), "here")
+@@ -299,19 +325,52 @@ test("a walk reads no page module to work out what stands, so a page it cannot l
+   expect(everyFileIn(readingIn(root))).toContain(CODE_AT)
+ })
+ 
+-test("a walk over everything reads the body of every file it takes", () => {
+-  const root = worldOf([PAGE_AT, CODE_AT])
++test("a walk over everything reads the body of every file it takes, before it and after it", () => {
++  const root = treeWorld()
+   const change = everythingIn(root)
+   expect(change.root).toBe(root)
+-  expect(change.changed).toEqual([CODE_AT, PAGE_AT])
+-  for (const path of change.changed) expect(change.after(path)).not.toBeNull()
++  expect(change.changed).toContain(CODE_AT)
++  for (const path of change.changed) {
++    expect(change.after(path)).not.toBeNull()
++    expect(change.before(path)).not.toBeNull()
++  }
++})
++
++test("a walk over everything takes a file in the tree that no page claims", () => {
++  expect(everythingIn(treeWorld()).changed).toContain(STRAY_AT)
++})
++
++test("a walk over everything takes a file holding uncommitted page data, which git ignores", () => {
++  expect(everythingIn(treeWorld()).changed).toContain(KEPT_AT)
++})
++
++test("a walk over everything leaves out the build output git ignores, taking the source beside it", () => {
++  const changed = everythingIn(treeWorld()).changed
++  expect(changed).toContain(CODE_AT)
++  expect(changed).not.toContain(BUILT_AT)
++})
++
++test("a walk over everything leaves out an installed dependency, whatever its name holds", () => {
++  const changed = everythingIn(treeWorld()).changed
++  expect(changed).toContain(KEPT_AT)
++  expect(changed).not.toContain(VENDORED_AT)
++})
++
++test("a walk over everything reads no index, so a path the tree does not hold is left out", () => {
++  const root = treeWorld()
++  pathFiled(root, GONE_AT, [{ path: PAGE_AT, id: HELD_ID }])
++  expect(everyFileIn(readingIn(root))).toContain(GONE_AT)
++  expect(everythingIn(root).changed).not.toContain(GONE_AT)
++})
++
++test("a root that is no tree at all refuses the walk rather than taking nothing", () => {
++  expect(() => everythingIn(scratch.rootFor("akasha-no-tree-"))).toThrow("could not be walked")
+ })
+ 
+ test("an index standing nowhere cannot answer which files stand, so it refuses rather than taking nothing", () => {
+   const root = worldOf([PAGE_AT])
+   indexTakenFrom(root)
+   expect(() => everyFileIn(readingIn(root))).toThrow("could not be answered")
+-  expect(() => everythingIn(root)).toThrow("is not an index naming none")
+ })
+ 
+ test("a path directory gone from an index that stands is a true empty rather than a refusal", () => {
