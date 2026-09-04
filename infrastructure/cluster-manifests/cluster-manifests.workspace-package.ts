@@ -51,7 +51,7 @@ export const clusterManifests = {
     "module/postgrest-rbac",
     "module/prometheus-config",
     "module/prometheus-constants",
-    "module/prometheus-manifests",
+    "manifest/prometheus-manifests",
     "module/prometheus-rbac",
     "module/query-perf-constants",
     "module/query-perf-queries",

@@ -41,7 +41,7 @@
     "./postgres-rbac": "./postgres-rbac/postgres-rbac.module.code.ts",
     "./postgrest-rbac": "./postgrest-rbac/postgrest-rbac.module.code.ts",
     "./prometheus-constants": "./prometheus-constants/prometheus-constants.module.code.ts",
-    "./prometheus-manifests": "./prometheus-manifests/prometheus-manifests.module.code.ts",
+    "./prometheus-manifests": "./prometheus-manifests/prometheus-manifests.manifest.code.ts",
     "./prometheus-rbac": "./prometheus-rbac/prometheus-rbac.module.code.ts",
     "./query-perf-constants": "./query-perf-constants/query-perf-constants.module.code.ts",
     "./rbac-cluster-role-rules": "./rbac-cluster-role-rules/rbac-cluster-role-rules.module.code.ts",
