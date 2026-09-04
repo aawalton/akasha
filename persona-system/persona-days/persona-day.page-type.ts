@@ -91,10 +91,6 @@ export const personaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona's total points are her lifetime figure rather than a sum of her days.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A wake day names by identity the persona days recorded against that wake day.",
     },
     {
