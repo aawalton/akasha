@@ -81,6 +81,22 @@ export const domain = {
       statement: "A tree or a subject holding nothing refuses rather than answering empty.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page type names any number of types above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type is a kind of domain where any type it names above it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain open above the point being drawn is marked rather than drawn again.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A domain drawn elsewhere is no domain open above the point being drawn.",
+    },
+    {
       invariantKind: "absence",
       statement: "A run writes nothing.",
     },

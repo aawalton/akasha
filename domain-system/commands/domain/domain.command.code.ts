@@ -2,6 +2,7 @@ import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { valuesOfType } from "@akasha/indexes"
+import { slugsIn } from "@akasha/pages-system/page-value"
 
 export const DAG = "dag"
 
@@ -143,25 +144,35 @@ function textIn(value: Record<string, unknown>, key: string): string | null {
   return typeof said === "string" && said !== "" ? said : null
 }
 
-export function kindsUnderDomain(root: string): ReadonlySet<string> {
-  const above = new Map<string, string>()
-  for (const one of valuesOfType(root, PAGE_TYPE)) {
-    const value = one.value as Record<string, unknown>
-    const slug = textIn(value, SLUG)
-    const said = textIn(value, EXTENDS)
-    if (slug !== null && said !== null) above.set(slug, slugOf(said))
+export function kindsUnder(
+  types: ReadonlyMap<string, Record<string, unknown>>
+): ReadonlySet<string> {
+  const above = new Map<string, readonly string[]>()
+  for (const [slug, value] of types) {
+    const named = slugsIn(value[EXTENDS])
+    if (named.length > 0) above.set(slug, named)
   }
   const under = new Set<string>([DOMAIN_TYPE])
   for (;;) {
     let grew = false
-    for (const [held, parent] of above) {
-      if (!under.has(held) && under.has(parent)) {
+    for (const [held, parents] of above) {
+      if (!under.has(held) && parents.some((parent) => under.has(parent))) {
         under.add(held)
         grew = true
       }
     }
     if (!grew) return under
   }
+}
+
+export function kindsUnderDomain(root: string): ReadonlySet<string> {
+  const types = new Map<string, Record<string, unknown>>()
+  for (const one of valuesOfType(root, PAGE_TYPE)) {
+    const value = one.value as Record<string, unknown>
+    const slug = textIn(value, SLUG)
+    if (slug !== null) types.set(slug, value)
+  }
+  return kindsUnder(types)
 }
 
 function partsOf(value: Record<string, unknown>): readonly string[] {
@@ -230,6 +241,16 @@ function descend(
   return undefined
 }
 
+export function treeLines(
+  from: readonly string[],
+  domains: ReadonlyMap<string, Standing>,
+  paths: boolean
+): readonly string[] {
+  const lines: string[] = []
+  for (const slug of from) descend(slug, 0, new Set(), domains, paths, lines)
+  return lines
+}
+
 function ascend(
   slug: string,
   domains: ReadonlyMap<string, Standing>,
@@ -279,9 +300,7 @@ export function dagLines(wanted: Wanted, root: string): readonly string[] {
           .filter((one) => (holders.get(one.slug) ?? []).length === 0)
           .map((one) => one.slug)
           .sort((one, two) => one.localeCompare(two))
-  const lines: string[] = []
-  for (const slug of from) descend(slug, 0, new Set(), domains, wanted.paths, lines)
-  return lines
+  return treeLines(from, domains, wanted.paths)
 }
 
 export function declarationLines(wanted: Wanted, root: string): readonly string[] {

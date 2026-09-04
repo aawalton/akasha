@@ -6,10 +6,13 @@ import {
   DESCENT,
   domainsIn,
   heldBy,
+  kindsUnder,
   kindsUnderDomain,
   PATHS,
   readIn,
+  type Standing,
   SUBJECT,
+  treeLines,
   UP,
 } from "./domain.command.code.ts"
 import { domain as domainCommand } from "./domain.command.ts"
@@ -112,4 +115,117 @@ test("the page says it writes nothing and takes both acts", () => {
   const said = domainCommand.taking.map((one) => one.said)
   expect(said).toContain(DAG)
   expect(said).toContain(DECLARATIONS)
+})
+
+function typesOf(
+  said: Readonly<Record<string, string | readonly string[] | null>>
+): ReadonlyMap<string, Record<string, unknown>> {
+  return new Map(Object.entries(said).map(([slug, above]) => [slug, { slug, extendsSlug: above }]))
+}
+
+function standingOf(
+  said: Readonly<Record<string, readonly string[]>>
+): ReadonlyMap<string, Standing> {
+  return new Map(
+    Object.entries(said).map(([slug, parts]) => [slug, { slug, path: `${slug}.domain.ts`, parts }])
+  )
+}
+
+test("a page type naming one type above it is a kind of domain as it always was", () => {
+  const kinds = kindsUnder(
+    typesOf({
+      domain: null,
+      page: null,
+      module: "page-type/domain",
+      command: "page-type/module",
+      property: "page-type/page",
+    })
+  )
+
+  expect([...kinds].sort()).toEqual(["command", "domain", "module"])
+})
+
+test("a page type naming two types above it is a kind of domain where either of them is", () => {
+  const kinds = kindsUnder(
+    typesOf({
+      domain: null,
+      page: null,
+      module: "page-type/domain",
+      held: ["page-type/page", "page-type/module"],
+      beside: ["page-type/module", "page-type/page"],
+    })
+  )
+
+  expect([...kinds].sort()).toEqual(["beside", "domain", "held", "module"])
+})
+
+test("a page type naming two types above it, neither of them under domain, is left out", () => {
+  const kinds = kindsUnder(
+    typesOf({
+      domain: null,
+      page: null,
+      property: "page-type/page",
+      held: ["page-type/page", "page-type/property"],
+    })
+  )
+
+  expect([...kinds].sort()).toEqual(["domain"])
+})
+
+test("a type below one reached through a list is a kind of domain too", () => {
+  const kinds = kindsUnder(
+    typesOf({
+      domain: null,
+      page: null,
+      held: ["page-type/page", "page-type/domain"],
+      under: "page-type/held",
+      deeper: ["page-type/under"],
+    })
+  )
+
+  expect([...kinds].sort()).toEqual(["deeper", "domain", "held", "under"])
+})
+
+test("a ring among the types above is answered rather than walked forever", () => {
+  const kinds = kindsUnder(
+    typesOf({ domain: null, one: ["page-type/two"], two: ["page-type/one"] })
+  )
+
+  expect([...kinds].sort()).toEqual(["domain"])
+})
+
+test("a domain held by two domains is drawn under each of them", () => {
+  const domains = standingOf({ one: ["held"], two: ["held"], held: ["under"], under: [] })
+
+  expect(treeLines(["one", "two"], domains, false)).toEqual([
+    "one",
+    "  held",
+    "    under",
+    "two",
+    "  held",
+    "    under",
+  ])
+})
+
+test("a domain drawn a second time beside the first is no domain already open", () => {
+  const domains = standingOf({ root: ["one", "two"], one: ["held"], two: ["held"], held: [] })
+
+  expect(treeLines(["root"], domains, false)).toEqual([
+    "root",
+    "  one",
+    "    held",
+    "  two",
+    "    held",
+  ])
+})
+
+test("a domain open above the point being drawn is marked rather than drawn again", () => {
+  const domains = standingOf({ root: ["held"], held: ["beside"], beside: ["held"] })
+
+  expect(treeLines(["root"], domains, false)).toEqual([
+    "root",
+    "  held",
+    "    beside",
+    "      held  — already open above here",
+  ])
 })
