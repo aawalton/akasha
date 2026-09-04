@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { Narrows } from "../page-queries/properties/narrows.record-property.ts"
+import type { Title } from "../pages/properties/title.text-property.ts"
 import type { AlwaysShowProperties } from "./properties/always-show-properties.text-property.ts"
 import type { DrawsSlug } from "./properties/draws-slug.relation-property.ts"
 import type { GalleryCardSize } from "./properties/gallery-card-size.select-property.ts"

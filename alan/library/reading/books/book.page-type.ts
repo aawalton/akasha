@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
-import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
 import type { BookKind } from "./properties/book-kind.select-property.ts"
 import type { Isbn } from "./properties/isbn.text-property.ts"
 import type { Isbn13 } from "./properties/isbn13.text-property.ts"

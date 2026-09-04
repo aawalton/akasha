@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Seq } from "../../alan/tracking/daily/wake-days/properties/seq.number-property.ts"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
 import type { EventAliases } from "./properties/event-aliases.text-property.ts"
 import type { EventFirstChapter } from "./properties/event-first-chapter.number-property.ts"

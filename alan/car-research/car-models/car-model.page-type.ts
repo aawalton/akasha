@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { Car } from "../cars/car.page-type.ts"
 import type { BodyStyle } from "./properties/body-style.text-property.ts"
 import type { CarMakeSlug } from "./properties/car-make-slug.relation-property.ts"

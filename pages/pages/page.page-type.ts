@@ -47,6 +47,7 @@ export const page = {
     "text-property/cover",
     "text-property/id",
     "text-property/slug",
+    "text-property/title",
   ],
   invariants: [
     {

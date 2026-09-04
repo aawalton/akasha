@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { AppearanceExperimentDay } from "./properties/appearance-experiment-day.calendar-date-property.ts"
 import type { AppearanceVerdict } from "./properties/appearance-verdict.select-property.ts"
 import type { ExperimentPersonaSlug } from "./properties/experiment-persona-slug.relation-property.ts"

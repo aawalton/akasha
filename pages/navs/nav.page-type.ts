@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../pages/properties/title.text-property.ts"
 import type { BackHref } from "./properties/back-href.text-property.ts"
 import type { DrawCost } from "./properties/draw-cost.number-property.ts"
 import type { MobilePinOrder } from "./properties/mobile-pin-order.number-property.ts"

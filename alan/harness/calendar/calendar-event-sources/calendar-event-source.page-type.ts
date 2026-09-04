@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
 import type { CalendarSourceBaseUrl } from "./properties/calendar-source-base-url.url-property.ts"
 import type { CalendarSourceColor } from "./properties/calendar-source-color.text-property.ts"
 import type { CalendarSourceDetailUrlTemplate } from "./properties/calendar-source-detail-url-template.text-property.ts"

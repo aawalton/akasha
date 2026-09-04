@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { Collection } from "../locations/properties/collection.relation-property.ts"
 import type { DealKey } from "./properties/deal-key.text-property.ts"
 import type { FinePrint } from "./properties/fine-print.text-property.ts"

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { ConnectionActivityAttn } from "./properties/connection-activity-attn.number-property.ts"
 import type { ConnectionActivityAttractiveness } from "./properties/connection-activity-attractiveness.number-property.ts"
 import type { ConnectionActivityCategory } from "./properties/connection-activity-category.select-property.ts"

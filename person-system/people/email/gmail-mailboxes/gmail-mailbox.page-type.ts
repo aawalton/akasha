@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { EmailAddress } from "@akasha/persona-system/email-address"
-import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
 import type { ProcessedMessages } from "./properties/processed-messages.page-property-entry.ts"
 
 export type GmailMailbox = Page & {

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { RelationshipDepositDate } from "./properties/relationship-deposit-date.calendar-date-property.ts"
 import type { RelationshipDepositPersonaSlug } from "./properties/relationship-deposit-persona-slug.relation-property.ts"
 import type { RelationshipDepositRelationshipSlug } from "./properties/relationship-deposit-relationship-slug.relation-property.ts"

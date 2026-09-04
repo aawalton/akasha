@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { Hex } from "./properties/hex.text-property.ts"
 
 export type Color = Page & {

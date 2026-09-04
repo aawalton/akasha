@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
 import type { ArcStructure } from "./properties/arc-structure.text-property.ts"

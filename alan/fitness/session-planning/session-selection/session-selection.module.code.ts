@@ -1,5 +1,5 @@
 import type { GoalWeights, SelectionPolicy } from "@akasha/exercise-access/selection-policy"
-import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
 import type { IsBallistic } from "../../exercises/properties/is-ballistic.boolean-property.ts"
 import type { Laterality } from "../../exercises/properties/laterality.select-property.ts"
 import type { MovementPattern } from "../../exercises/properties/movement-pattern.select-property.ts"

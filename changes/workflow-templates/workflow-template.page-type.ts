@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { Declaration } from "./properties/declaration.file-property.ts"
 import type { WorkflowClusterServiceSlugs } from "./properties/workflow-cluster-service-slugs.relation-property.ts"
 import type { WorkflowKind } from "./properties/workflow-kind.select-property.ts"

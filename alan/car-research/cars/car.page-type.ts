@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { ExclusionReason } from "./properties/exclusion-reason.text-property.ts"
 import type { ShortList } from "./properties/short-list.boolean-property.ts"
 import type { Sources } from "./properties/sources.text-property.ts"

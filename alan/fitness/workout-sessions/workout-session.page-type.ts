@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { ScheduleDaySlug } from "./properties/schedule-day-slug.relation-property.ts"
 import type { WorkoutSessionCompletedAt } from "./properties/workout-session-completed-at.instant-property.ts"
 import type { WorkoutSessionDate } from "./properties/workout-session-date.calendar-date-property.ts"

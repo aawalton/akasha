@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Collection } from "../../collection-system/collections/collection.page-type.ts"
 import type { OwnLength } from "../../collection-system/collections/properties/own-length.number-property.ts"
-import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 
 export type StoryChapterWritten = Collection & {

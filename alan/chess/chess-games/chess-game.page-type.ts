@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { ExternalId } from "../../../collection-system/collection-externals/properties/external-id.text-property.ts"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { PlayedAt } from "../../tracking/daily/eso-days/properties/played-at.instant-property.ts"
 import type { ChessBlack } from "./properties/chess-black.text-property.ts"
 import type { ChessCollection } from "./properties/chess-collection.text-property.ts"

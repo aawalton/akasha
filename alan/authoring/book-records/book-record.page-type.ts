@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Definition } from "../../../domain-system/domains/properties/definition.text-property.ts"
-import type { Title } from "../../../temper/temper-things/properties/title.text-property.ts"
+import type { Title } from "../../../pages/pages/properties/title.text-property.ts"
 import type { KeptBy } from "./properties/kept-by.text-property.ts"
 import type { RecordBookSlug } from "./properties/record-book-slug.text-property.ts"
 import type { RecordBrief } from "./properties/record-brief.text-property.ts"
