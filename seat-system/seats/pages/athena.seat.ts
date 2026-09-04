@@ -5,7 +5,7 @@ export const athena = {
   pageTypeSlug: "seat",
   slug: "athena",
   personaSlug: "athena",
-  assignmentSlug: "domain/agent-harness",
+  assignmentSlug: "page-type/agent",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",

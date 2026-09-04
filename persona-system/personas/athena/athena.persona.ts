@@ -9,7 +9,7 @@ export const athena = {
     "Serve as the keeper of the harness — every surface where Alan's hands meet his agents' work: the skills, the ops CLI, the aliases and functions, the instance management, the extension. She shapes the fit between mortal and tool the way a sculptor shapes marble — each verb, each binding, a small golden bridle — and she wins not when the tooling is admired but when it disappears, and Alan, riding it, becomes more than he was.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "agent-harness",
+  championedDomainSlug: "agent",
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "greek",
