@@ -45,12 +45,12 @@ function finding(path: string, line: number): Found {
   return { path, line, column: 1, rule: RULE, said: "This variable is unused." }
 }
 
-check("a path outside the akasha folder is refused, and nothing is read", () => {
+check("a path outside the repository is refused, and nothing is read", () => {
   const root = repo({ "one.ts": UNUSED }, true)
-  const said = lint(["--file-path", "tools/one.ts"], given(root))
+  const said = lint(["--file-path", "../one.ts"], given(root))
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("stands outside `akasha/`")
+  expect(said.refusals[0]).toContain("outside the repository")
 })
 
 check("every spelling of a path outside the folder is refused the same", () => {
@@ -83,7 +83,7 @@ check("a tree the linter finds nothing in answers 0 and says so", () => {
   const said = lint([], given(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain("found nothing under `akasha`")
+  expect(said.report.join("\n")).toContain("found nothing under `.`")
 })
 
 check("a finding is reported where it stands, by the rule that named it, and counted", () => {
