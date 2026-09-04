@@ -35,7 +35,7 @@ export const appearanceExperiment = {
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "experiment-persona-slug", required: true, many: false },
     { pagePropertySlug: "appearance-experiment-day", required: true, many: false },
     { pagePropertySlug: "appearance-verdict", required: true, many: false },
     { pagePropertySlug: "what-tried", required: true, many: false },
