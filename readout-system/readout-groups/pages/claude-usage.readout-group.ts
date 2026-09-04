@@ -11,12 +11,6 @@ export const claudeUsage = {
     "readout/weekly-back",
     "readout/weekly-ends",
   ],
-  sequenceSlugs: [
-    "readout/weekly-usage",
-    "readout/five-hour-back",
-    "readout/weekly-back",
-    "readout/weekly-ends",
-  ],
   sortOrder: "place",
   invariants: [
     {

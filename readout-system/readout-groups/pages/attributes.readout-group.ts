@@ -13,13 +13,5 @@ export const attributes = {
     "readout/attribute-intelligence",
     "readout/attribute-charisma",
   ],
-  sequenceSlugs: [
-    "readout/attribute-strength",
-    "readout/attribute-endurance",
-    "readout/attribute-constitution",
-    "readout/attribute-wisdom",
-    "readout/attribute-intelligence",
-    "readout/attribute-charisma",
-  ],
   sortOrder: "place",
 } as const satisfies ReadoutGroup
