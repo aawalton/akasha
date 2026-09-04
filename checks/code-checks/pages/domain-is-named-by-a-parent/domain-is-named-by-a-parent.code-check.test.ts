@@ -103,6 +103,43 @@ test("pages naming each other in a ring are refused for looping, though each has
   expect(said[0]?.reason).toContain("loop rather than reaching `domain/akasha`")
 })
 
+test("two pages climbing into one ring are each refused, the second from what the first settled", () => {
+  const root = rooted()
+  filing(root, "domain", "below-one", ONE)
+  filing(root, "domain", "below-two", TWO)
+  edging(root, ONE, "part-slugs", UP, pathFor("domain", "above-one"))
+  edging(root, TWO, "part-slugs", UP, pathFor("domain", "above-one"))
+  edging(root, UP, "part-slugs", NEW, pathFor("domain", "above-two"))
+  edging(root, NEW, "part-slugs", UP, pathFor("domain", "above-one"))
+  const said = judged(
+    landing(root, {
+      [pathFor("domain", "below-one")]: body("domain", "below-one", ONE),
+      [pathFor("domain", "below-two")]: body("domain", "below-two", TWO),
+    })
+  )
+  expect(said.map((filed) => filed.path)).toEqual([
+    pathFor("domain", "below-one"),
+    pathFor("domain", "below-two"),
+  ])
+  for (const one of said) expect(one.reason).toContain("loop rather than reaching `domain/akasha`")
+})
+
+test("two pages climbing one chain that ends above them are each let through", () => {
+  const root = rooted()
+  filing(root, "domain", "below-one", ONE)
+  filing(root, "domain", "below-two", TWO)
+  edging(root, ONE, "part-slugs", UP, pathFor("domain", "above-one"))
+  edging(root, TWO, "part-slugs", UP, pathFor("domain", "above-one"))
+  edging(root, UP, "part-slugs", NEW, pathFor("domain", "above-two"))
+  const said = judged(
+    landing(root, {
+      [pathFor("domain", "below-one")]: body("domain", "below-one", ONE),
+      [pathFor("domain", "below-two")]: body("domain", "below-two", TWO),
+    })
+  )
+  expect(said).toEqual([])
+})
+
 test("a sound tree three deep is refused by neither the shared reason nor the loop one", () => {
   const root = rooted()
   filing(root, "domain", "akasha", UP)
