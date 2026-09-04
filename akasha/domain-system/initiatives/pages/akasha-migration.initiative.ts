@@ -10,7 +10,7 @@ export const akashaMigration = {
     {
       statement: "All files in the akasha repo are in the akasha subfolder.",
       workingMemory:
-        "73 outside akasha at 18:27, from 69,894 at dispatch, and nine of those are root config files that stay: tools 49, pages 13, dotfiles 2. MEASURED: readouts and tools/commands are gone entirely, and the remaining tools mass is one import island around tools/lib page-query and tracking, held by day-place.ts. A stale whole-file write silently dropped five partSlugs another lane had added 31 seconds earlier, so read your own diff after landing; a code 0 is not proof.",
+        "33 outside akasha at 19:01, from 69,894 at dispatch, and nine of those are root config that stays: tools 22, dotfiles 2. Gone whole: readouts, pages, tools/commands, tools/ops, tools/lib/tracking, model-gateway. What is left is one import island of seven page-query files, message-file with thirteen readers, and small leaves. MEASURED: the editor harness assembles tools/<verb>.ts for five verbs that now stand inside akasha, which no import census can see.",
     },
     {
       statement: "Alan's own records are akasha pages.",
