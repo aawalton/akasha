@@ -15,7 +15,12 @@ export const astraPagesCleanup = {
     {
       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        'With `pages/` named `["page","pages"]`, stage one refuses every child opening with `page-` or `pages-` — 30 folders today. `namingOver` strips the prefix: `page-types` becomes `types`, `pages-ui` becomes `ui`. Folder names only; slugs and npm names are untouched. One collision: `page-properties` strips to `properties`, the folder `page`\'s own id, slug and cover already fill. Nesting `page-property` under `page-type` clears it, since nothing strips against `page-type`.',
+        'With `pages/` named `["page","pages"]`, stage one refuses every child opening with `page-` or `pages-` — 30 folders today. `namingOver` strips the prefix: `page-types` becomes `types`, `pages-ui` becomes `ui`. Folder names only; slugs and npm names remain. One collision: `page-properties` strips to `properties`, which `page` fills with id, slug and cover. Alan settled it: `page-property` becomes a part of `page-type`, at `pages/types/page-properties/`.',
+    },
+    {
+      statement: "A command renames a workspace package and repoints every name reaching it.",
+      workingMemory:
+        "Alan asked for `akasha refactor rename package`. It carries what `move` leaves: the manifest `name`, the 3274 `@akasha/pages-system` occurrences in 2596 files, and the 33 package.json dependency keys `move` says it never carries. `move` already renames a page slug and repoints its addressers, so the open question is whether this is a sibling command or `move` one layer up. It runs last, once the shape is green.",
     },
   ],
 } as const satisfies Initiative
