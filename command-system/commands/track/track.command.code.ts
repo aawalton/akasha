@@ -5,7 +5,7 @@ import { mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { SCRATCH_AT } from "../../scratching/scratching.module.code.ts"
-import { writing } from "../write/write.command.code.ts"
+import { filing } from "../write/write.command.code.ts"
 import {
   difficultyForTitle,
   readDifficulty,
@@ -67,7 +67,7 @@ function landedAcross(landings: readonly Landing[], said: string, given: Given):
   const rest = landings.slice(0, -1)
   if (rest.length === 0) {
     const only = ["--file-path", at(last.held.path), "--message", said]
-    return writing(only, given, () => ({ bytes: body }))
+    return filing(only, given, () => ({ bytes: body }))
   }
   const scratch = mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
   try {
@@ -78,7 +78,7 @@ function landedAcross(landings: readonly Landing[], said: string, given: Given):
       argv.push("--file-path", at(one.held.path), "--content-file", beside)
     })
     argv.push("--file-path", at(last.held.path), "--message", said)
-    return writing(argv, given, () => ({ bytes: body }))
+    return filing(argv, given, () => ({ bytes: body }))
   } finally {
     rmSync(scratch, { recursive: true, force: true })
   }

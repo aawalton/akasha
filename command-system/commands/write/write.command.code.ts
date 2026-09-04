@@ -6,6 +6,7 @@ import {
   BREAK_GLASS,
   bytesAt,
   DRAFT,
+  landedMechanically,
   landingAsked,
   mistaking,
   textAt,
@@ -304,7 +305,13 @@ function readIn(argv: readonly string[]): Read {
   return { pairs, removals, refusals }
 }
 
-export function writing(argv: readonly string[], given: Given, piping: Piping): Answer {
+export type Built = {
+  readonly changes: readonly FileEdit[]
+  readonly message: string
+  readonly glass: string | null
+}
+
+export function builtIn(argv: readonly string[], given: Given, piping: Piping): Built | Answer {
   const unknown = unknownIn(argv, VALUED, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv)
@@ -394,9 +401,7 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
-
-  const draft = argv.includes(DRAFT)
-  const answer = landingAsked(given, {
+  return {
     changes,
     message:
       said.message ??
@@ -404,8 +409,19 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
         "write",
         changes.map((one) => one.path)
       ),
-    dryRun: false,
     glass: glass.glass,
+  }
+}
+
+export function writing(argv: readonly string[], given: Given, piping: Piping): Answer {
+  const built = builtIn(argv, given, piping)
+  if ("code" in built) return built
+  const draft = argv.includes(DRAFT)
+  const answer = landingAsked(given, {
+    changes: built.changes,
+    message: built.message,
+    dryRun: false,
+    glass: built.glass,
     unmoved: [],
     saying: (landed) => wroteAndTook(landed),
     draft,
@@ -413,10 +429,16 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
   if (answer.code === 0 && !draft) {
     dropReadings(
       given.root,
-      changes.filter((one) => one.body === null).map((one) => one.path)
+      built.changes.filter((one) => one.body === null).map((one) => one.path)
     )
   }
   return answer
+}
+
+export function filing(argv: readonly string[], given: Given, piping: Piping): Answer {
+  const built = builtIn(argv, given, piping)
+  if ("code" in built) return built
+  return landedMechanically(given.root, given.calledAs, built.changes, built.message)
 }
 
 export function write(argv: readonly string[], given: Given): Answer {
