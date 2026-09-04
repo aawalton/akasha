@@ -1,0 +1,77 @@
+diff --git a/temper/temper-eso-types/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts b/temper/temper-eso-types/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts
+index daf874261d852c8b83d21d901d4cf8351bfd298b..bf6c5f5075d8907ea214382d17905e2aeae0a16f 100644
+--- a/temper/temper-eso-types/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts
+@@ -219,21 +219,12 @@ declare const zo_iconTextFormatNoSpace: (
+   inheritColor?: boolean
+ ) => string
+ 
+-interface SceneManager {
+-  scenes: Record<string, Scene | undefined>
+-}
+-
+ interface EndInWorldInteractionsFragment {
+   OnShown: (this: EndInWorldInteractionsFragment) => undefined
+ }
+ 
+ declare const TREASURE_MAP_INVENTORY_SCENE: Scene
+ 
+-interface Scene {
+-  HasFragment: (this: unknown, fragment: SceneFragment) => boolean
+-  IsShowing: (this: unknown) => boolean
+-}
+-
+ declare const FRAME_TARGET_CENTERED_FRAGMENT: SceneFragment
+ 
+ declare const LOOT_WINDOW: {
+diff --git a/temper/temper-eso-types/eso-interface-extra/eso-interface-extra.type-declaration.d.ts b/temper/temper-eso-types/eso-interface-extra/eso-interface-extra.type-declaration.d.ts
+index 3f8f35538d07e6f488ee34e53d0c0751436e48fa..2b099e5ebe3b09f67479cbc08d0916d71dd11e3e 100644
+--- a/temper/temper-eso-types/eso-interface-extra/eso-interface-extra.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-interface-extra/eso-interface-extra.type-declaration.d.ts
+@@ -24,14 +24,9 @@ interface ZO_RecentMessagesStatic {
+ declare const ZO_RecentMessages: ZO_RecentMessagesStatic
+ 
+ interface Scene {
+-  HasFragment: (this: unknown, fragment: SceneFragment) => boolean
+   toRestore?: SceneFragment[] | boolean
+ }
+ 
+-interface SceneManager {
+-  scenes: Record<string, Scene | undefined>
+-}
+-
+ declare const FRAME_PLAYER_FRAGMENT: SceneFragment
+ declare const FRAME_EMOTE_FRAGMENT_INVENTORY: SceneFragment
+ declare const FRAME_EMOTE_FRAGMENT_SKILLS: SceneFragment
+diff --git a/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts b/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts
+index 314e02cada3bc8d11f6f6990d8714663de28e0c5..bbf3cb3565e9d1e2e82e92428b6b044474f3d4c3 100644
+--- a/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts
+@@ -206,6 +206,7 @@ interface SceneFragment {
+ interface Scene {
+   readonly name: string
+   IsShowing: () => boolean
++  HasFragment: (this: unknown, fragment: SceneFragment) => boolean
+   AddFragment: (fragment: SceneFragment) => void
+   RemoveFragment: (fragment: SceneFragment) => void
+   RegisterCallback: (event: string, callback: (oldState: number, newState: number) => void) => void
+@@ -213,6 +214,7 @@ interface Scene {
+ 
+ interface SceneManager {
+   readonly currentScene: Scene
++  scenes: Record<string, Scene | undefined>
+   GetCurrentScene: (this: SceneManager) => Scene
+   SetInUIMode: (inUIMode: boolean) => void
+   GetScene: (sceneName: string) => Scene
+diff --git a/temper/temper-eso-types/eso-writ-right-click/eso-writ-right-click.type-declaration.d.ts b/temper/temper-eso-types/eso-writ-right-click/eso-writ-right-click.type-declaration.d.ts
+index 8eb7e984996b7cf07d0e6d3556b27d213d5c59b0..ba429842fd1acb9665c066e4303779a6b5571f0e 100644
+--- a/temper/temper-eso-types/eso-writ-right-click/eso-writ-right-click.type-declaration.d.ts
++++ b/temper/temper-eso-types/eso-writ-right-click/eso-writ-right-click.type-declaration.d.ts
+@@ -1,7 +1,3 @@
+-interface SceneManager {
+-  GetCurrentScene: (this: SceneManager) => Scene
+-}
+-
+ interface EsoGamepadInventoryInfo {
+   dataSource?: { bagId: number; slotIndex: number }
+ }
