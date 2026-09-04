@@ -1,8 +1,8 @@
 import { dirname } from "node:path"
 import ts from "typescript"
-import { counted, type Held, textOf } from "../../../asking/asking.module.code.ts"
-import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
-import type { FileEdit } from "../../../landing/landing.module.code.ts"
+import { counted, type Held, textOf } from "../../../command-system/asking/asking.module.code.ts"
+import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
+import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import { listEntrySpan, type Span } from "../workspacing/remove-workspacing.module.code.ts"
 
 const MANIFEST = "package.json"

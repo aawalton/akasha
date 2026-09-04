@@ -3,7 +3,7 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "@akasha/testing-system/minting"
 import { put, there } from "@akasha/testing-system/putting"
-import { readingIn, recordRead } from "../../reading/reading.module.code.ts"
+import { readingIn, recordRead } from "../../command-system/reading/reading.module.code.ts"
 import { namedIn, remove } from "./remove.command.code.ts"
 import {
   AGENT,

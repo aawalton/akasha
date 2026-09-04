@@ -2,9 +2,9 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { admitting } from "@akasha/testing-system/minting"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { baseOf } from "../../landing/landing.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { baseOf } from "../../command-system/landing/landing.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { remove } from "./remove.command.code.ts"
 
 export const scratch = scratchWorld()

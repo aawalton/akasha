@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const remove = {
   id: "01a04bed-1461-7364-8579-6799d5aa8ea0",

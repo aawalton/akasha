@@ -3,8 +3,8 @@ import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
-import { baseOf } from "../../../landing/landing.module.code.ts"
-import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   emptiedBy,
   NO_WORKSPACING,

@@ -7,13 +7,10 @@ import { besideAll } from "@akasha/pages-system/page-beside"
 import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import { said as saying } from "@akasha/utils-run/running"
 import ts from "typescript"
-import type { Asked } from "../../asking/asking.module.code.ts"
-import { BREAK_GLASS, landingAsked } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { answering } from "../../calling/calling.module.code.ts"
-import type { FileEdit } from "../../landing/landing.module.code.ts"
-import { baseOf } from "../../landing/landing.module.code.ts"
-import { dropReadings } from "../../reading/reading.module.code.ts"
+import type { Asked } from "../../command-system/asking/asking.module.code.ts"
+import { BREAK_GLASS, landingAsked } from "../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { answering } from "../../command-system/calling/calling.module.code.ts"
 import {
   barredIn,
   FILE_PATH,
@@ -24,7 +21,10 @@ import {
   messageIn,
   offRepo,
   pathAt,
-} from "../write/write.command.code.ts"
+} from "../../command-system/commands/write/write.command.code.ts"
+import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
+import { baseOf } from "../../command-system/landing/landing.module.code.ts"
+import { dropReadings } from "../../command-system/reading/reading.module.code.ts"
 import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifesting.module.code.ts"
 import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {
