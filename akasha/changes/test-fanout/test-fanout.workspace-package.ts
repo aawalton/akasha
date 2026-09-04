@@ -7,6 +7,7 @@ export const testFanout = {
   definition: "one test type run across every workspace bearing it, and the failures charged back",
   manifest: "json",
   partSlugs: [
+    "module/bun-exit-gating",
     "module/fanout-failure-attribution",
     "module/reverse-reachability-artifact",
     "module/test-reverse-reachability",
@@ -27,7 +28,7 @@ export const testFanout = {
     {
       invariantKind: "departure",
       statement:
-        "A shard that crashed under batch load is run again alone before it is called a failure.",
+        "A shard that crashed under batch load is run again alone before the shard is called a failure.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +37,7 @@ export const testFanout = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading the map cannot place runs its full test set rather than none.",
+      statement: "A reading the map cannot place runs its full test set.",
     },
     {
       invariantKind: "departure",

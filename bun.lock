@@ -521,7 +521,6 @@
         "@akasha/old-graph": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/verdict": "workspace:*",
-        "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
     },

@@ -15,29 +15,31 @@ export const triageFanoutLog = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal is a failure, because a run that executed no test proves nothing.",
+      statement: "A refusal is a failure.",
     },
     {
       invariantKind: "departure",
-      statement: "A failure with no fail line to name still names a finding rather than none.",
+      statement: "A failure with no fail line to name still names a finding.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A failure that was seen exits one and a log that cannot be read exits two, so the two are told apart.",
+      statement: "A failure that was seen exits with status `1`.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Loki rows are read as rows and put back in timestamp order before they are weighed.",
+      statement: "A log that cannot be read exits with status `2`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Loki rows are put back in timestamp order before the rows are weighed.",
     },
     {
       invariantKind: "departure",
       statement: "Input that is not Loki rows is weighed as the plain lines it is.",
     },
     {
-      invariantKind: "gap",
-      statement: "What reads a bun run's own summary out of the log stands outside akasha.",
+      invariantKind: "departure",
+      statement: "The triage's answer is stated in the verdict shape the rest of akasha reads.",
     },
   ],
 } as const satisfies Module

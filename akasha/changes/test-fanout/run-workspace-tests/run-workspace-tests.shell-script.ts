@@ -10,8 +10,7 @@ export const runWorkspaceTests = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A run that was told no bearing roots is refused, because it cannot prune the workspaces nested under it.",
+      statement: "A run that was told no bearing root is refused.",
     },
     {
       invariantKind: "departure",
@@ -20,13 +19,11 @@ export const runWorkspaceTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Enumerating no eligible test file where the map said there were some is a refusal.",
+      statement: "Enumerating no eligible test file where the map named a test file is a refusal.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Selecting no test file because nothing changed reaches it is a pass rather than a refusal.",
+      statement: "A workspace that no changed file reaches passes rather than refusing.",
     },
     {
       invariantKind: "departure",
@@ -34,8 +31,7 @@ export const runWorkspaceTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every line a shard prints carries that shard's name, because the shards share one stdout.",
+      statement: "Every line a shard prints carries that shard's name.",
     },
     {
       invariantKind: "departure",
@@ -46,10 +42,6 @@ export const runWorkspaceTests = {
       invariantKind: "departure",
       statement:
         "A crash under batch load is recorded for an isolated re-run rather than failing here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The checkout the helpers stand in is found by walking up to the lockfile.",
     },
   ],
 } as const satisfies ShellScript

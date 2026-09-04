@@ -2,8 +2,8 @@
 
 import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import type { Verdict, VerdictFinding } from "@akasha/verdict/verdict-shape"
-import { parseBunSummary } from "@tools/lib/gate-bun-exit"
 import { z } from "zod"
+import { parseBunSummary } from "../bun-exit-gating/bun-exit-gating.module.code.ts"
 import {
   attributionFor,
   type FailLine,
@@ -41,10 +41,6 @@ export interface FanoutEvidence {
   readonly complete: boolean
 }
 
-/**
- * The triage's answer is an ordinary verdict over the log, so it is stated in the verdict shape
- * the rest of akasha reads rather than in a shape of its own.
- */
 export type FanoutTriageResult = Verdict<FanoutSubject, FanoutEvidence>
 
 export function sawFailure(evidence: FanoutEvidence): boolean {

@@ -5,18 +5,6 @@ set -e
 SCRIPT_DIR="$(cd -- "$(dirname -- "$(readlink -f -- "${BASH_SOURCE[0]}")")" && pwd -P)"
 FANOUT_DIR="$(dirname -- "$SCRIPT_DIR")"
 
-# gate-bun-exit.ts still stands outside akasha, under tools/lib, so this needs the checkout
-# root rather than a path relative to this script. Walk up to the lockfile that marks it.
-CHECKOUT_ROOT="$FANOUT_DIR"
-while [ "$CHECKOUT_ROOT" != "/" ] && [ ! -f "$CHECKOUT_ROOT/bun.lock" ]; do
-  CHECKOUT_ROOT="$(dirname -- "$CHECKOUT_ROOT")"
-done
-if [ ! -f "$CHECKOUT_ROOT/bun.lock" ]; then
-  echo "[run-workspace-tests] no bun.lock stands above ${FANOUT_DIR}, so the checkout this script's helpers live in is unknown — refusing" >&2
-  exit 1
-fi
-LIB_DIR="${CHECKOUT_ROOT}/tools/lib"
-
 WORKSPACE_ROOT="$1"
 PKG_ROOT="$2"
 INPUTS_HASH="$3"
@@ -67,7 +55,7 @@ run_bun_test_gated() {
   printf '%s\n' "$files" | xargs bun test "${BUN_TEST_ARGS[@]}" 2>&1 | tee "$out" |
     tag_producer_lines
   rc="${PIPESTATUS[1]}"
-  bun "${LIB_DIR}/gate-bun-exit.ts" \
+  bun "${FANOUT_DIR}/bun-exit-gating/bun-exit-gating.module.code.ts" \
     --exit-code "$rc" --output-file "$out" --expected-files "$expected"
   rc="$?"
   set -e
