@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
 import type { Valued } from "@akasha/indexes"
-import { answersFrom, pageAnswers, pageTree, refusalsIn } from "./page-tree.command.code.ts"
+import {
+  answersFrom,
+  pageAnswers,
+  pageTree,
+  propertyKindsIn,
+  refusalsIn,
+} from "./page-tree.command.code.ts"
 
 const ROOT = "/nowhere"
 
@@ -192,4 +198,55 @@ test("an index that is not there refuses as an operational fault", () => {
 
 test("the root the answer is read from is the one it was given", () => {
   expect(() => pageAnswers("/nowhere-at-all")).toThrow()
+})
+
+const ABOVE_TWO: readonly Valued[] = [
+  {
+    path: "one/held.page-type.ts",
+    value: { slug: "held", extendsSlug: ["page-type/module", "page-type/page-property"] },
+  },
+  { path: "one/module.page-type.ts", value: { slug: "module", extendsSlug: "page-type/page" } },
+  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: null } },
+]
+
+test("a page type naming two types above it is answered on one row for each", () => {
+  expect(answersFrom(ABOVE_TWO, new Map()).types).toEqual([
+    { at: "akasha:one/held.page-type.ts", values: { slug: "held", "extends-slug": "module" } },
+    {
+      at: "akasha:one/held.page-type.ts",
+      values: { slug: "held", "extends-slug": "page-property" },
+    },
+    { at: "akasha:one/module.page-type.ts", values: { slug: "module", "extends-slug": "page" } },
+    { at: "akasha:one/page.page-type.ts", values: { slug: "page", "extends-slug": null } },
+  ])
+})
+
+test("a page type naming one type above it is answered on the one row it always was", () => {
+  expect(answersFrom(TYPES, PROPERTIES).types.map((one) => one.values["extends-slug"])).toEqual([
+    "page",
+    null,
+  ])
+})
+
+test("a kind of property is reached through any of the types above it", () => {
+  const types = new Map<string, Record<string, unknown>>([
+    ["module", { slug: "module", extendsSlug: "page-type/page" }],
+    ["page-property", { slug: "page-property", extendsSlug: "page-type/page" }],
+    [
+      "computed-property",
+      { slug: "computed-property", extendsSlug: ["page-type/module", "page-type/page-property"] },
+    ],
+    ["faith-points", { slug: "faith-points", extendsSlug: "page-type/computed-property" }],
+  ])
+
+  expect([...propertyKindsIn(types)].sort()).toEqual(["computed-property", "faith-points"])
+})
+
+test("a ring among the types above is answered rather than walked forever", () => {
+  const types = new Map<string, Record<string, unknown>>([
+    ["one", { slug: "one", extendsSlug: ["page-type/two"] }],
+    ["two", { slug: "two", extendsSlug: ["page-type/one"] }],
+  ])
+
+  expect([...propertyKindsIn(types)]).toEqual([])
 })

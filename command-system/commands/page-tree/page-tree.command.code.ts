@@ -7,7 +7,7 @@ import { writerIn } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
-import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
+import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 
 const PROPERTY_ROOT = "page-property"
 
@@ -56,51 +56,48 @@ function declarationsIn(value: Value): readonly Declaration[] {
   const found: Declaration[] = []
   for (const one of held) {
     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
-    const named = (one as Record<string, unknown>)["pagePropertySlug"]
+    const said = one as Record<string, unknown>
+    const named = said["pagePropertySlug"]
     if (typeof named !== "string") continue
-    found.push(one as unknown as Declaration)
+    const bound = said["max"]
+    found.push({
+      pagePropertySlug: named,
+      required: said["required"] === true,
+      many: said["many"] === true,
+      max: typeof bound === "number" ? bound : null,
+    })
   }
   return found
 }
 
-// WHICH PAGE TYPES ARE KINDS OF PROPERTY, walked down `extendsSlug` from `page-property` rather
-// than read off a list here. `named-file-property` extends `file-property` rather than the root,
-// so a list of the root's children would miss it, and a new kind added tomorrow would be missed
-// the same way.
-function propertyKindsIn(types: ReadonlyMap<string, Value>): ReadonlySet<string> {
+function reachesProperty(slug: string, types: ReadonlyMap<string, Value>): boolean {
+  const walked = new Set<string>()
+  const ahead: string[] = [slug]
+  for (;;) {
+    const at = ahead.pop()
+    if (at === undefined) return false
+    if (at === PROPERTY_ROOT) return true
+    if (walked.has(at)) continue
+    walked.add(at)
+    const above = types.get(at)
+    if (above !== undefined) ahead.push(...slugsIn(above["extendsSlug"]))
+  }
+}
+
+export function propertyKindsIn(types: ReadonlyMap<string, Value>): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const [slug, value] of types) {
-    const walked = new Set<string>()
-    let at: string | null = slug
-    while (at !== null && !walked.has(at)) {
-      if (at === PROPERTY_ROOT) {
-        if (slug !== PROPERTY_ROOT) found.add(slug)
-        break
-      }
-      walked.add(at)
-      const above: Value | undefined = types.get(at)
-      at = above === undefined ? null : slugAt(above, "extendsSlug")
-    }
+  for (const slug of types.keys()) {
+    if (slug !== PROPERTY_ROOT && reachesProperty(slug, types)) found.add(slug)
   }
   return found
 }
 
-// A PROPERTY'S NAME AS THIS TREE WRITES IT, bare where one page carries the slug and `kind/slug`
-// where two do, so the tree shows the shorter name wherever the shorter name is unambiguous. This
-// says how a property is named here and not which names reach it — `reachOver` says that.
 function namingOver(held: readonly Held[]): (kind: string, slug: string) => string {
   const carried = new Map<string, number>()
   for (const one of held) carried.set(one.slug, (carried.get(one.slug) ?? 0) + 1)
   return (kind, slug) => ((carried.get(slug) ?? 0) > 1 ? `${kind}/${slug}` : slug)
 }
 
-// EITHER NAME REACHES A PROPERTY, the bare slug or `kind/slug`, which is the grammar `reaches`
-// already holds every other relation value to. What broke here was keying what is accepted off
-// how many pages carry the slug today: a declaration is written qualified while the slug is
-// doubled, and a later landing that drops the double leaves that name written and still correct.
-// So every landing that de-duplicated a property slug made each declaration naming it a refusal
-// here, and the count grew with the cleanup rather than with any bad declaration. A qualified
-// name that narrows to two pages is refused rather than resolved to one of them.
 function reachOver(held: readonly Held[]): (named: string) => Held | undefined {
   const byBare = new Map<string, Held>()
   for (const one of held) if (!byBare.has(one.slug)) byBare.set(one.slug, one)
@@ -120,11 +117,6 @@ function baseOf(kind: string): string {
   return kind.endsWith(SUFFIX) ? kind.slice(0, -SUFFIX.length) : kind
 }
 
-// THE TYPE DRAWN BESIDE A PROPERTY rather than above it, as an expression over the kinds: the kind
-// a property is, what it points at where it points at something, the bound where the declaration
-// carries one, and `| none` where the declaration does not require it. The declaring page type
-// holds `many`, `max` and `required`; the property page holds the rest. So this takes both, and a
-// property declared twice under different bounds says so under each type that declares it.
 function typeOf(one: Held, said: Declaration): string {
   const target = slugAt(one.value, "targetPageTypeSlug")
   const format = slugAt(one.value, "nameFormatSlug")
@@ -172,10 +164,13 @@ export function answersFrom(
   for (const one of pageTypes) {
     const slug = textAt(one.value, "slug")
     if (slug === null) continue
-    types.push({
-      at: atOf(one.path),
-      values: { slug, "extends-slug": slugAt(one.value, "extendsSlug") ?? NO_PARENT },
-    })
+    const at = atOf(one.path)
+    const above = slugsIn(one.value["extendsSlug"])
+    if (above.length === 0) {
+      types.push({ at, values: { slug, "extends-slug": NO_PARENT } })
+      continue
+    }
+    for (const parent of above) types.push({ at, values: { slug, "extends-slug": parent } })
   }
 
   const drawn: Row[] = []
@@ -219,11 +214,6 @@ export function answersFrom(
     )
   }
 
-  // NO DOMAIN ROWS, because the group had no counterpart here. In the markdown corpus a domain page
-  // slugged `page-property-type-<kind>` said where a kind's node opens a document; in akasha a kind
-  // is a page type, so `types` already carries the path of the page defining it and the tree opens
-  // a kind node from there. The group was answered empty for as long as it stood, and inventing a
-  // domain slug to fill it would have put a page slug in this answer that no page carries.
   return { types, properties: drawn, propertyTypes }
 }
 
@@ -256,10 +246,6 @@ export function pageTree(argv: readonly string[], given: Given): Answer {
   }
 }
 
-// SPAWNED AS A CHILD OF ITS OWN rather than asked of the held-open verb server, because reading the
-// whole index costs enough that a call standing behind this one waits on it: a read measured at
-// 12ms alone took 2402ms behind this tree and the domain tree. So this file answers when it is the
-// file that was run, filling what it is given the way the command line fills it.
 if (import.meta.main) {
   const stated = process.env["AKASHA_ROOT"]
   const said = process.env["AKASHA_WRITER"]
