@@ -22,7 +22,7 @@ const LANDED: Said = { of: ASKED, went: "landed", did: "judged", tail: REFUSED }
 const DRAFTED: Said = { of: "the patch would leave", went: "went", did: "judged", tail: REFUSED }
 
 export function checkReaches(path: string): boolean {
-  return path.startsWith(REACHED)
+  return !path.startsWith("/") && !path.split("/").includes("..")
 }
 
 export function outsideOf(paths: readonly string[]): readonly string[] {
