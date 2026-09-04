@@ -25,7 +25,6 @@ export const temperCatalogDomain = {
   extendsSlug: "page-type/temper-catalog-thing",
   partSlugs: [
     "boolean-property/dormant",
-    "instant-property/captured-at",
     "number-property/generator-ran-for-manifest-api-version",
     "number-property/manifest-api-version",
     "text-property/api-version",

@@ -15,7 +15,7 @@ export const temperHoldingsThing = {
   definition: "a reading of what an account holds",
   pluralSlug: "temper-holdings-things",
   extendsSlug: "page-type/temper-thing",
-  partSlugs: ["instant-property/captured-at", "number-property/total-value"],
+  partSlugs: ["number-property/total-value"],
   properties: [
     { pagePropertySlug: "captured-at", required: false, many: false },
     { pagePropertySlug: "total-value", required: false, many: false },

@@ -33,7 +33,6 @@ export const temperSale = {
   extendsSlug: "page-type/temper-thing",
   partSlugs: [
     "instant-property/sold-at",
-    "number-property/item-id",
     "number-property/net-payout",
     "number-property/sale-price",
     "number-property/sale-quantity",

@@ -7,6 +7,7 @@ export const temperWorld = {
   definition: "the places of Tamriel and the people who live in them",
   pluralSlug: "temper-worlds",
   partSlugs: [
+    "instant-property/captured-at",
     "page-type/temper-alliance",
     "page-type/temper-catalog-domain",
     "page-type/temper-dungeon",

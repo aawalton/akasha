@@ -82,7 +82,6 @@ export const temperInventorySnapshot = {
     "text-property/collectible-link",
     "text-property/cooldown-key",
     "text-property/currency-scope",
-    "text-property/eso-display-name",
     "text-property/furnishing-key",
     "text-property/furniture-category",
     "text-property/item-link",
