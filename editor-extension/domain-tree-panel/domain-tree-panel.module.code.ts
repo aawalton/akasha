@@ -19,7 +19,7 @@ const FEATURE = "domain-tree"
 const SETTLE_MS = 2_000
 
 // THE LONGEST A WRITE MAY WAIT TO BE ANSWERED, and the ceiling the demanded quiet backs off to.
-// Measured over 420s of this worktree at load 30-51, `akasha/**/*.ts` took 295 distinct mtimes —
+// Measured over 420s of this worktree at load 30-51, `**/*.ts` took 295 distinct mtimes —
 // 42 writes a minute — of which 66 gaps ran past the 2000ms settle, so the panel read 9.6 times a
 // minute. Almost none of that is Alan: 234 of those 318 writes were `.uncommitted.ts` sidecars of
 // other agents, and 11 could have moved a row at all.
