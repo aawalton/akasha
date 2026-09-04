@@ -44,10 +44,6 @@ interface TextureControl {
   GetColor: () => LuaMultiReturn<[r: number, g: number, b: number, a: number]>
 }
 
-interface EditControl {
-  SelectAll: () => void
-}
-
 declare function zo_min(...values: number[]): number
 declare function zo_max(...values: number[]): number
 

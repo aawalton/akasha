@@ -2,10 +2,6 @@ interface Control {
   SetClampedToScreenInsets: (left: number, top: number, right: number, bottom: number) => void
 }
 
-interface FontObject {
-  GetFontInfo: () => LuaMultiReturn<[face: string, size: number, option: string]>
-}
-
 declare const CreateFont: (this: void, name: string, definition: string) => FontObject
 
 declare const GetWindowManager: (this: void) => WindowManager
