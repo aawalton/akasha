@@ -10,8 +10,6 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const INSIDE = "akasha/"
-
 const SHOWN = 3
 
 const ITSELF = "no module under akasha imports its way back around to itself"
@@ -50,7 +48,7 @@ export function reachedIn(at: string, text: string): readonly string[] {
 }
 
 export function reachingIn(change: Change): ReadonlyMap<string, readonly string[]> {
-  const held = new Set(change.changed.filter((one) => one.startsWith(INSIDE) && textNamed(one)))
+  const held = new Set(change.changed.filter((one) => textNamed(one)))
   const found = new Map<string, readonly string[]>()
   for (const path of [...held].sort()) {
     const text = textIn(change, path)
