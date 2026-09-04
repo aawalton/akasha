@@ -63,25 +63,19 @@ test("naming no file is a caller mistake and nothing is read", () => {
   expect(said.refusals[0]).toContain("--file-path names a file to read")
 })
 
-test("a path outside akasha is refused rather than read", () => {
-  const root = rootWith([
-    { at: HELD, body: "one\n" },
-    { at: "agent/elsewhere.ts", body: "two\n" },
-  ])
-  const said = read(["--file-path", "agent/elsewhere.ts"], givenFor(root))
+test("a path outside the repository is refused rather than read", () => {
+  const root = rootWith([{ at: HELD, body: "one\n" }])
+  const said = read(["--file-path", "../elsewhere.ts"], givenFor(root))
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("stands outside `akasha/`")
+  expect(said.refusals[0]).toContain("outside the repository")
 })
 
-test("an absolute path inside akasha is read, and one outside it is not", () => {
-  const root = rootWith([
-    { at: HELD, body: "one\n" },
-    { at: "agent/elsewhere.ts", body: "two\n" },
-  ])
+test("an absolute path inside the repository is read, and one outside it is not", () => {
+  const root = rootWith([{ at: HELD, body: "one\n" }])
   const inside = read(["--file-path", join(root, HELD)], givenFor(root))
   expect(inside.code).toBe(0)
-  const outside = read(["--file-path", join(root, "agent/elsewhere.ts")], givenFor(root))
+  const outside = read(["--file-path", join(root, "../elsewhere.ts")], givenFor(root))
   expect(outside.code).toBe(1)
 })
 
@@ -89,7 +83,7 @@ test("a path is read against the repository root, wherever the call was made", (
   const root = heldRoot()
   const away = { ...givenFor(root), from: join(root, "akasha/one") }
   expect(read(["--file-path", HELD], away).code).toBe(0)
-  expect(read(["--file-path", "held.ts"], away).refusals[0]).toContain("the repository root")
+  expect(read(["--file-path", "held.ts"], away).refusals[0]).toContain("names no file")
 })
 
 test("a file that is not there is a caller mistake, and the rest are still read", () => {
@@ -326,7 +320,7 @@ test("a file warranted and named both comes back once, and --full expands the sa
   expect(wholeIn(read(["--full", "--file-path", THING], givenFor(root)).report).length).toBe(3)
 })
 
-test("a warrant naming a file outside the akasha folder reaches no read", () => {
+test("a warrant naming a file outside the repository reaches no read", () => {
   const said = read(["--file-path", THING], givenFor(strayRoot())).report.join("\n")
   expect(said).not.toContain(STRAY)
 })
