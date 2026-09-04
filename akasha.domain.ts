@@ -20,7 +20,7 @@ export const akasha = {
     "workspace-package/shell",
     "workspace-package/pages-system",
     "workspace-package/domain-system",
-    "workspace-package/graph-system",
+    "workspace-package/graph",
     "workspace-package/old-graph",
     "domain/type",
     "domain/change",

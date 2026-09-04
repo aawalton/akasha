@@ -4,7 +4,7 @@ export const someLoadsCannotBeDeclared = {
   id: "01a0533f-2c7d-7823-85dd-490c3514530f",
   pageTypeSlug: "finding",
   slug: "some-loads-cannot-be-declared",
-  domainSlug: "workspace-package/graph-system",
+  domainSlug: "workspace-package/graph",
   claim:
     "Six page types now say which module loads their pages, and the graph works that edge out from the saying. Three loads stand outside it. One is handed its path and can load any page of any type, so saying it would give one module an edge to every page there is. One loads a file it wrote and then deleted, which never stood among the pages at all. Two name what they load in a written string the reader does not follow.",
   evidence:

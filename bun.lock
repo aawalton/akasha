@@ -846,7 +846,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "graph-system": {
+    "graph": {
       "name": "@akasha/graph-system",
     },
     "great-courses": {
@@ -3120,7 +3120,7 @@
 
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:google/oauth"],
 
-    "@akasha/graph-system": ["@akasha/graph-system@workspace:graph-system"],
+    "@akasha/graph-system": ["@akasha/graph-system@workspace:graph"],
 
     "@akasha/great-courses": ["@akasha/great-courses@workspace:great-courses"],
 

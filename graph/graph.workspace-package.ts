@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const graphSystem = {
+export const graph = {
   id: "01a04fcf-588c-7772-afed-357ed2e459d4",
   pageTypeSlug: "workspace-package",
-  slug: "graph-system",
+  slug: "graph",
   definition: "what follows from the pages, and what each answer rests on",
   manifest: "json",
   partSlugs: [

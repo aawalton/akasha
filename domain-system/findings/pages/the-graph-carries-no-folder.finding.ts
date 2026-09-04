@@ -4,7 +4,7 @@ export const theGraphCarriesNoFolder = {
   id: "01a05047-6045-7290-9b78-252f18c4e51b",
   pageTypeSlug: "finding",
   slug: "the-graph-carries-no-folder",
-  domainSlug: "workspace-package/graph-system",
+  domainSlug: "workspace-package/graph",
   claim:
     "The graph carries no folder node and no edge for what a folder holds, so folder questions are answered by arithmetic over the path instead. One check works out both the near and the far reach of a folder by hand and joins each against the import edge, and the type it answers with carries two facts no shape reads.",
   evidence:
