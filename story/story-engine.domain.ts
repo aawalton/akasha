@@ -54,10 +54,6 @@ export const storyEngine = {
       statement: "No deployed code names one story or one world.",
     },
     {
-      invariantKind: "absence",
-      statement: "No story engine code sits outside `akasha/story`.",
-    },
-    {
       invariantKind: "departure",
       statement:
         "A message wrapped whole in square brackets speaks to the game master rather than acts in the world.",
