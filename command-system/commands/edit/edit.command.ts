@@ -17,7 +17,7 @@ export const edit = {
     { said: "--remove <path>", takes: "a path in the repository to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
-    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
+    { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
   ],
   helpNotes: [
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",

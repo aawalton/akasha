@@ -306,7 +306,6 @@ function readIn(argv: readonly string[]): Read {
 export type Built = {
   readonly changes: readonly FileEdit[]
   readonly message: string
-  readonly glass: string | null
 }
 
 export function builtIn(argv: readonly string[], given: Given, piping: Piping): Built | Answer {
@@ -407,7 +406,6 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
         "write",
         changes.map((one) => one.path)
       ),
-    glass: glass.glass,
   }
 }
 
@@ -422,7 +420,7 @@ export async function writing(
     changes: built.changes,
     message: built.message,
     dryRun: false,
-    glass: built.glass,
+    glass: null,
     unmoved: [],
     saying: (landed) => wroteAndTook(landed),
     draft: true,

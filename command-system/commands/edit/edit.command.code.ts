@@ -296,7 +296,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
       ),
     dryRun: false,
     draft: true,
-    glass: glass.glass,
+    glass: null,
     unmoved,
     saying: (said) => [
       ...said.wrote.map((one) => `edited ${one}`),

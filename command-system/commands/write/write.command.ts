@@ -15,7 +15,7 @@ export const write = {
     { said: "--remove <path>", takes: "a path in the repository to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
-    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
+    { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
   ],
   helpNotes: [
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
@@ -90,12 +90,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`--break-the-glass` passes the warrants as `--break-the-glass` passes the checks.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The reason the glass was broken stands in the commit.",
+      statement: "`--break-the-glass` passes the warrants and leaves every check to the apply.",
     },
     {
       invariantKind: "departure",
