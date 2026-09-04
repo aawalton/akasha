@@ -117,7 +117,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (run === null) {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
-    found.push({ slug, page: path, runsOn, isInput: inputIn(run), run })
+    found.push({ slug, page: path, root, runsOn, isInput: inputIn(run), run })
   }
   for (const one of modelChecksIn(root)) {
     const runsOn: Phase[] = []
