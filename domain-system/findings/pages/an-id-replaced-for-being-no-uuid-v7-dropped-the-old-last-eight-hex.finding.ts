@@ -4,7 +4,7 @@ export const anIdReplacedForBeingNoUuidV7DroppedTheOldLastEightHex = {
   id: "01a0685f-3f4b-7484-8994-7ecbd125e58e",
   pageTypeSlug: "finding",
   slug: "an-id-replaced-for-being-no-uuid-v7-dropped-the-old-last-eight-hex",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/page",
   claim:
     '`page.page-type.ts` carries the departure "An identity replaced for being no uuid version 7 keeps the last eight hex of the old one." Two page types already landed in akasha replaced a non-v7 predecessor id and kept none of it, so the tie back to the page the identity belonged to is gone from the file and recoverable only from the ablated markdown in git.',
   evidence:

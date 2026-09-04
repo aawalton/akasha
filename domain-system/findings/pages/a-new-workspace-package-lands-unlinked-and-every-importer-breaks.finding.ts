@@ -4,7 +4,7 @@ export const aNewWorkspacePackageLandsUnlinkedAndEveryImporterBreaks = {
   id: "01a0686c-e937-700a-a93a-c212c99a378e",
   pageTypeSlug: "finding",
   slug: "a-new-workspace-package-lands-unlinked-and-every-importer-breaks",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/command-system",
   claim:
     "`landedMechanically` makes `bun.lock` again beside a `package.json` it carries, and it does not run an install, so a workspace package landing for the first time gets no `node_modules/@akasha/<name>` link. Every file repointed onto that package in the same commit stops resolving the moment the commit lands. The landing reports success and the lockfile is correct; only the symlink is missing.",
   evidence:

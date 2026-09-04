@@ -4,7 +4,7 @@ export const aPageFileNameBreaksEveryCallerThatRunsTheFileByItsOldName = {
   id: "01a06838-5a67-75b5-a964-08137a2afc7e",
   pageTypeSlug: "finding",
   slug: "a-page-file-name-breaks-every-caller-that-runs-the-file-by-its-old-name",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/inference-pool",
   claim:
     "Carrying a runnable file into akasha renames it, because a page file is named `<slug>.<page-type>.<language>.<ext>`. Repointing a caller's directory string is therefore not enough: a caller that spawns the file by its old base name still breaks, and the break is silent at every check the migration runs, because no import resolves it and no type refers to it. The seven inference services are the measured case, but the shape is general to every shell script and python module the migration carries.",
   evidence:
