@@ -5,8 +5,8 @@ export const tool = {
 
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { fail } from "@tools/lib/command"
 import {
   everyOfType,
   type Listed,

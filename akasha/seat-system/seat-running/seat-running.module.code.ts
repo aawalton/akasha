@@ -1,3 +1,4 @@
+import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatId } from "@akasha/seat-system/read-record"
 import { handlerDerives, personaIsHers, refuseAnswering } from "@akasha/seat-system/seat-answering"
@@ -10,7 +11,6 @@ import { nameableFrom, nameableStated } from "@akasha/seat-system/seat-nameable"
 import { writeSeatPage } from "@akasha/seat-system/seat-page-writing"
 import { composedNameOf, followName } from "@akasha/seat-system/seat-rename"
 import { showLines, statedLines } from "@akasha/seat-system/seat-show"
-import { fail } from "@tools/lib/command"
 import {
   composeSeatName,
   personPrincipals,

@@ -1,3 +1,5 @@
+import { arr, bool, maybe, num, obj, str } from "@akasha/command-system/argument-narrowing"
+import { fail } from "@akasha/command-system/command-failing"
 import {
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
@@ -17,8 +19,6 @@ import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
 } from "@akasha/seat-system/supervisor-self-heal-jitter-decide"
-import { fail } from "@tools/lib/command"
-import { arr, bool, maybe, num, obj, str } from "@tools/lib/narrow"
 import {
   classifyChildExit,
   collapseChildExitStatus,

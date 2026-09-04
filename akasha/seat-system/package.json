@@ -263,6 +263,7 @@
     "./seat-turn-color": "./seat-turn-color/seat-turn-color.module.code.ts"
   },
   "dependencies": {
+    "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",

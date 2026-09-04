@@ -1,3 +1,4 @@
+import { arr, bool, maybe, num, obj, oneOf, str } from "@akasha/command-system/argument-narrowing"
 import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
@@ -8,7 +9,6 @@ import type { RemoteControlSeatQuestion } from "@akasha/seat-system/supervisor-r
 import type { RestartNowEvent } from "@akasha/seat-system/supervisor-restart-notice-decide"
 import type { UncertainBlockSeat } from "@akasha/seat-system/supervisor-uncertain-wait-decide"
 import type { WaitResumeInput } from "@akasha/seat-system/supervisor-wait-resume-decide"
-import { arr, bool, maybe, num, obj, oneOf, str } from "@tools/lib/narrow"
 
 export function parseUncertainWait(value: unknown, path: string): UncertainBlockSeat[] {
   return arr(value, path).map((entry, at) => {

@@ -1450,6 +1450,7 @@
     "akasha/seat-system": {
       "name": "@akasha/seat-system",
       "dependencies": {
+        "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils-fs": "workspace:*",

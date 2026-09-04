@@ -1,5 +1,5 @@
 import { writeFileSync } from "node:fs"
-import { fail } from "@tools/lib/command"
+import { fail } from "@akasha/command-system/command-failing"
 import {
   ATTRIBUTES,
   type Attributes,

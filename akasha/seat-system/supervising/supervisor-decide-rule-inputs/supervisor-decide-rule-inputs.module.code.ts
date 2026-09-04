@@ -1,9 +1,9 @@
+import { bool, maybe, num, obj, oneOf, str } from "@akasha/command-system/argument-narrowing"
 import type { IdleObservation } from "@akasha/seat-system/supervisor-idle-decide"
 import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,
 } from "@akasha/seat-system/supervisor-proxy-liveness-decide"
-import { bool, maybe, num, obj, oneOf, str } from "@tools/lib/narrow"
 import type {
   ChildExitClassification,
   ChildExitObservation,
