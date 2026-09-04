@@ -81,7 +81,7 @@ export function indexingLoaded(): Keeping {
 export function gateBuilt(root: string): Built {
   try {
     const held = checkingLoaded()
-    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), PATCH)) }
+    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), PATCH), PATCH) }
   } catch (thrown) {
     return { broken: whyOf(thrown) }
   }
