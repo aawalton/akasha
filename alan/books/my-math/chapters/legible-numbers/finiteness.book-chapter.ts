@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../library/reading/book-chapters/book-chapter.page-type.ts"
 
 export const finiteness = {
   id: "01a06594-c68e-7011-93aa-6503b1220d97",

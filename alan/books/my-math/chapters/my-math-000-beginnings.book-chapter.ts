@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../library/reading/book-chapters/book-chapter.page-type.ts"
 
 export const myMath000Beginnings = {
   id: "01a06594-c68e-700e-9219-31c312a83692",

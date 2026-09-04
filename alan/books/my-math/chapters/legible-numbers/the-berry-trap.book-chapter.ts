@@ -1,4 +1,4 @@
-import type { BookChapter } from "../../../book-chapter.page-type.ts"
+import type { BookChapter } from "../../../../library/reading/book-chapters/book-chapter.page-type.ts"
 
 export const theBerryTrap = {
   id: "01a06594-c68e-7015-8832-15be56d3632d",
