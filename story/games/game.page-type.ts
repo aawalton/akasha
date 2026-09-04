@@ -144,7 +144,8 @@ export const game = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A game's turns, rolls and world sit in files beside the game rather than in it.",
+      statement:
+        "What a game is made of sits in files beside the game's page rather than inside the page.",
     },
     {
       invariantKind: "departure",
@@ -152,7 +153,7 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A game's rows are committed, because they are the play rather than a log of it.",
+      statement: "A game's rows are committed.",
     },
     {
       invariantKind: "departure",
@@ -160,15 +161,15 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A game weighing its mechanics at nothing settles an action by none.",
+      statement: "A game weighing its mechanics at zero settles an action by no formula.",
     },
     {
       invariantKind: "departure",
-      statement: "The premise and tone here are Alan's own words for the game he asked for.",
+      statement: "A game's premise and tone are Alan's own words for the game Alan asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "A game is keyed on its external id, so a game read twice is one game.",
+      statement: "A game is keyed on its external id.",
     },
     {
       invariantKind: "departure",
@@ -176,8 +177,7 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A game character is one a player runs, apart from the entities the game itself runs.",
+      statement: "A game character is one a player runs rather than one the game runs.",
     },
     {
       invariantKind: "departure",
@@ -190,7 +190,11 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A turn is numbered within its game, and that number is what orders the play.",
+      statement: "A turn is numbered within its game.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn's number orders the play.",
     },
     {
       invariantKind: "departure",
@@ -198,12 +202,11 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A roll carries the hash of the roll before it, so a run is checkable from either end.",
+      statement: "A roll carries the hash of the previous roll.",
     },
     {
       invariantKind: "departure",
-      statement: "A seed is settled before its roll is asked for, never after.",
+      statement: "A seed is settled before its roll is asked for.",
     },
     {
       invariantKind: "departure",
@@ -216,8 +219,11 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A design entry is settled before the play that uses it, and what the play discloses beats what the design intended.",
+      statement: "A design entry is settled before the play using that entry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the play discloses beats what the design intended.",
     },
   ],
 } as const satisfies PageType
