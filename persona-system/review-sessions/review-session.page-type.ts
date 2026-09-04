@@ -21,13 +21,7 @@ export const reviewSession = {
   definition: "one pass a persona made over the part of Alan's life she watches",
   pluralSlug: "review-sessions",
   extendsSlug: "page-type/page",
-  partSlugs: [
-    "file-property/review-session-notes",
-    "relation-property/persona-slug",
-    "text-property/date",
-    "text-property/icon",
-    "text-property/title",
-  ],
+  partSlugs: ["file-property/review-session-notes"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "persona-slug", required: true, many: false },
@@ -38,23 +32,24 @@ export const reviewSession = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One persona looking once on one day is one session.",
+      statement: "A persona looking on a day has a single review session.",
     },
     {
       invariantKind: "departure",
-      statement: "A session names the persona who looked rather than what she looked at.",
+      statement: "A session names the persona who looked rather than what that persona looked at.",
     },
     {
       invariantKind: "departure",
-      statement: "A session's slug joins what was looked over to the day it was looked over on.",
+      statement: "A session's slug joins what was looked over to the day of the looking.",
     },
     {
       invariantKind: "departure",
-      statement: "A session's notes are a file beside the session rather than in it.",
+      statement:
+        "A session's notes are a file beside the session rather than inside the session page.",
     },
     {
       invariantKind: "gap",
-      statement: "A session names the part of Alan's life it passed over.",
+      statement: "A session names the part of Alan's life the session passed over.",
     },
   ],
 } as const satisfies PageType

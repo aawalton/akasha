@@ -19,12 +19,7 @@ export const personaImage = {
   definition: "a picture a persona is drawn as",
   pluralSlug: "persona-images",
   extendsSlug: "page-type/page",
-  partSlugs: [
-    "relation-property/persona-slug",
-    "text-property/image-path",
-    "text-property/image-root",
-    "text-property/title",
-  ],
+  partSlugs: ["text-property/image-path", "text-property/image-root"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "persona-slug", required: true, many: false },
@@ -42,7 +37,7 @@ export const personaImage = {
     },
     {
       invariantKind: "departure",
-      statement: "A record naming no path is one whose picture is kept under its own identity.",
+      statement: "A record naming no path keeps its picture under the record's own identity.",
     },
     {
       invariantKind: "absence",

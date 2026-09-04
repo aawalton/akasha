@@ -17,11 +17,6 @@ export const personaWallpaperNotification = {
   definition: "word to Alan that a persona reached a rung and was hung there",
   pluralSlug: "persona-wallpaper-notifications",
   extendsSlug: "page-type/page",
-  partSlugs: [
-    "number-property/relationship-level",
-    "relation-property/persona-slug",
-    "text-property/title",
-  ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "persona-slug", required: true, many: false },
@@ -30,7 +25,7 @@ export const personaWallpaperNotification = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The page standing is the whole of what it records.",
+      statement: "The page standing is the whole of what the page records.",
     },
     {
       invariantKind: "departure",

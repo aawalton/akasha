@@ -21,13 +21,6 @@ export const personaWallpaper = {
   definition: "the picture a persona was hung on Alan's glass as",
   pluralSlug: "persona-wallpapers",
   extendsSlug: "page-type/persona-image",
-  partSlugs: [
-    "number-property/relationship-level",
-    "text-property/description",
-    "text-property/eso-day",
-    "text-property/stage",
-    "text-property/value-slug",
-  ],
   properties: [
     { pagePropertySlug: "relationship-level", required: false, many: false },
     { pagePropertySlug: "stage", required: false, many: false },
@@ -42,7 +35,8 @@ export const personaWallpaper = {
     },
     {
       invariantKind: "departure",
-      statement: "A wallpaper is slugged by the persona, the rung and the moment it was drawn.",
+      statement:
+        "A wallpaper's slug joins the persona to the rung and to the moment of the drawing.",
     },
     {
       invariantKind: "departure",

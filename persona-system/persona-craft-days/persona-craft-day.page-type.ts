@@ -37,7 +37,6 @@ export const personaCraftDay = {
     "number-property/improvement-count",
     "number-property/new-persona-count",
     "relation-property/personas-crafted-slugs",
-    "text-property/title",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

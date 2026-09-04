@@ -42,24 +42,12 @@ export const personaDay = {
   pluralSlug: "persona-days",
   extendsSlug: "page-type/page",
   partSlugs: [
-    "number-property/active-calories",
-    "number-property/breathing-points",
     "number-property/byte-points",
-    "number-property/cardio-points",
-    "number-property/green-day-points",
-    "number-property/nutrition-points",
-    "number-property/sleep-points",
     "number-property/source-points",
     "number-property/source-total-snapshot",
-    "number-property/strength-points",
-    "number-property/strength-volume",
-    "number-property/task-points",
     "formula-property/green-day-fraction",
     "formula-property/green-day-rung",
     "formula-property/points",
-    "relation-property/persona-slug",
-    "text-property/date",
-    "text-property/value-slug",
   ],
   properties: [
     { pagePropertySlug: "persona-slug", required: true, many: false },
@@ -109,12 +97,11 @@ export const personaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A wake day names the persona days recorded against it by their identities.",
+      statement: "A wake day names by identity the persona days recorded against that wake day.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An identity here is what Alan's history is keyed by, so it outlives every rewrite.",
+      statement: "An identity here is what Alan's history is keyed by.",
     },
   ],
 } as const satisfies PageType
