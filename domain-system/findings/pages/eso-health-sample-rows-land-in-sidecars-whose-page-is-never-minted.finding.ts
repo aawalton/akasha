@@ -4,7 +4,7 @@ export const esoHealthSampleRowsLandInSidecarsWhosePageIsNeverMinted = {
   id: "01a06a44-1c30-7a10-9f52-3b7c8e0d4411",
   pageTypeSlug: "finding",
   slug: "eso-health-sample-rows-land-in-sidecars-whose-page-is-never-minted",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/tracking-daily",
   claim:
     "Five `health-samples.jsonl` sidecars under `akasha/alan/` hold 251 rows of Alan's ESO health tracking with no page beside them, each alone in its folder, so the rows are unreachable. The migration did not do this: the owning paths never existed in git history, and the 2026-09-02 backup shows the same orphan state for the two dates it covers. The writer lands rows without minting the page.",
   evidence:

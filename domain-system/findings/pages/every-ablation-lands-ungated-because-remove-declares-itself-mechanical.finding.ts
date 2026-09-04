@@ -4,7 +4,7 @@ export const everyAblationLandsUngatedBecauseRemoveDeclaresItselfMechanical = {
   id: "01a06897-0778-7408-8c0d-a451b79b1f20",
   pageTypeSlug: "finding",
   slug: "every-ablation-lands-ungated-because-remove-declares-itself-mechanical",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/change",
   claim:
     '`akasha remove` declares `changeKindSlug: "change-mechanical"`, a kind that runs no check and no warrant, so every ablation the swarm lands is judged by nothing — and an ablation is the one change most able to break a consumer.',
   evidence:

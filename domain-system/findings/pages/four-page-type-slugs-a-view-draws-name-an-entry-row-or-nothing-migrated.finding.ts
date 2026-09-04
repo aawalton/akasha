@@ -4,7 +4,7 @@ export const fourPageTypeSlugsAViewDrawsNameAnEntryRowOrNothingMigrated = {
   id: "01a0693b-1f13-7fb8-91e3-274e12ad091c",
   pageTypeSlug: "finding",
   slug: "four-page-type-slugs-a-view-draws-name-an-entry-row-or-nothing-migrated",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/page-edge",
   claim:
     "Five of the eight refused `draws-slug` edges cannot be mended by naming a different page type, and three of them cannot be mended at all in the shape they are written. `notification`, `session-tracking` and `temper-completed-task` each migrated into a page-property entry beside a parent page rather than into a page type, and a view draws pages of a page type, so no value of `draws-slug` is right for them. `workflow` was never migrated, while live code goes on asking for it. Page types that would resolve exist beside all four and every one of them is the wrong page.",
   evidence:

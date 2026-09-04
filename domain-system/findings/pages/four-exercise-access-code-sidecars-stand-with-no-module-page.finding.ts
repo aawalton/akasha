@@ -4,7 +4,7 @@ export const fourExerciseAccessCodeSidecarsStandWithNoModulePage = {
   id: "01a06860-bf1f-7201-b9e1-5f59c232de83",
   pageTypeSlug: "finding",
   slug: "four-exercise-access-code-sidecars-stand-with-no-module-page",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/fitness",
   claim:
     "`equipment-kit`, `movement-scoring`, `set-progression` and `slot-templates` reached `akasha/alan/fitness/exercise-access/` as a `.module.code.ts` with no `.module.ts` beside it. The other eleven modules in that folder each carry a page, so a code file with no page is the odd shape there rather than the convention. Nothing states what these four are for, what they depart from, or that their code is TypeScript.",
   evidence:
