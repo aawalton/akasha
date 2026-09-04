@@ -4,7 +4,7 @@ export const theUnitWriterEmitsSixOfTheTwentySystemdOptionsAPageMayState = {
   id: "01a0683c-3c7e-779a-bfbd-806b17862fdc",
   pageTypeSlug: "finding",
   slug: "the-unit-writer-emits-six-of-the-twenty-systemd-options-a-page-may-state",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/workstation-service",
   claim:
     "A workstation-service page may state twenty systemd options and the installer emits six. The reader drops the other fourteen before the writer sees them, so a page stating `after`, `wants`, `partOf`, `wantedBy`, `stops`, `successExitStatus`, `restartForceExitStatus`, `startLimitIntervalSeconds`, `killMode`, `nice`, `stopTimeoutSeconds`, `bootDelaySeconds`, `intervalSeconds` or `accuracySeconds` gets a unit saying none of them. Four services carried in today state options that will not reach their units.",
   evidence:

@@ -4,7 +4,7 @@ export const threeDomainToolsWereTakenAwayAsCarriedAndAkashaCarriesNone = {
   id: "01a0686e-3530-753e-a135-6e8de4cbed12",
   pageTypeSlug: "finding",
   slug: "three-domain-tools-were-taken-away-as-carried-and-akasha-carries-none",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "`9b4a045e32` took away `tools/dag.ts`, `tools/declarations.ts` and `tools/unreached.ts` under a message saying sixty-eight ops commands were now carried into akasha as domain commands among others. Akasha carries no domain command. `akasha` lists 218 lines and none of them names a dag, a declaration or anything unreached, and no file under `akasha/` names the slug `domain-dag`, `domain-declarations` or `domain-unreached`. One successor is in flight and uncommitted, `lane-loose-tmp.uncommitted/domain-dag.command.code.ts`; the other two have no successor anywhere, in flight or landed. All three are recoverable from git blobs.",
   evidence:

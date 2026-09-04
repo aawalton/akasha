@@ -4,7 +4,7 @@ export const theUnmovedComparisonIsOutsideTheLockAndTheWriteIsInside = {
   id: "01a069d0-2ec6-7a51-bcc0-0687f8f41700",
   pageTypeSlug: "finding",
   slug: "the-unmoved-comparison-is-outside-the-lock-and-the-write-is-inside",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/command-system",
   claim:
     "`unmoved` closes the read-to-check window and not the check-to-write one. `judged()` runs the disk comparison at `landing.module.code.ts:389`, `holding` takes the lock at `:411` and `wroteOnto` writes at `:418`, so the lock wait sits between the comparison and the write. The one in-lock guard, `unfresh(..., asRead, ...)` at `:413`, reads `asReadIn`, which answers `[]` whenever `agentId === null` — the value both `landedMechanically` and `landedChecked` give. The in-lock machinery is wired to a record neither road keeps, so a `code: 0` is not evidence that nothing was reverted.",
   evidence:
