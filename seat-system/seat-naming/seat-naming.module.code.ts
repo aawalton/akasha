@@ -8,7 +8,7 @@ export const FLEX = /^flex-(?:0|[1-9]\d*)$/
 
 const FLEX_HELD = /(?:^|-)(flex-(?:0|[1-9]\d*))(?:-|$)/
 
-const PERSONA_SLUG = "persona-slug"
+const PERSONA_SLUG_PROPERTY = "seat-persona-slug"
 
 const NAMED_BY_PERSONA: readonly string[] = ["alan"]
 
@@ -31,7 +31,7 @@ export type SeatNaming = {
 
 function startingPersona(): string | null {
   for (const declared of seat.properties) {
-    if (declared.pagePropertySlug !== PERSONA_SLUG) continue
+    if (declared.pagePropertySlug !== PERSONA_SLUG_PROPERTY) continue
     return "default" in declared ? declared.default : null
   }
   return null
