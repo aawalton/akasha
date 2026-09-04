@@ -6,6 +6,7 @@ import type { DockerIgnore } from "./properties/docker-ignore.named-file-propert
 import type { Lockfile } from "./properties/lockfile.named-file-property.ts"
 import type { SecretsConfig } from "./properties/secrets-config.named-file-property.ts"
 import type { TypescriptBaseConfig } from "./properties/typescript-base-config.named-file-property.ts"
+import type { TypescriptBuildInfo } from "./properties/typescript-build-info.named-file-property.ts"
 import type { TypescriptConfig } from "./properties/typescript-config.named-file-property.ts"
 import type { WorkspaceGitIgnore } from "./properties/workspace-git-ignore.named-file-property.ts"
 import type { WorkspaceManifest } from "./properties/workspace-manifest.named-file-property.ts"
