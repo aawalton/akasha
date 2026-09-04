@@ -4,7 +4,7 @@ import { besideOf } from "@akasha/pages-system/page-beside"
 import { said as saying } from "@akasha/utils-run/running"
 import { counted } from "../../../asking/asking.module.code.ts"
 import { trackedUnder } from "../../remove/remove.command.code.ts"
-import { pathInside } from "../../write/write.command.code.ts"
+import { pathAt } from "../../write/write.command.code.ts"
 
 export type Pair = {
   readonly from: string
@@ -79,8 +79,8 @@ function sidecarsIn(root: string, held: readonly string[]): ReadonlySet<string> 
 }
 
 function folderIn(root: string, one: Pair): { readonly from: string; readonly to: string } | null {
-  const from = pathInside(root, one.from)
-  const to = pathInside(root, one.to)
+  const from = pathAt(root, one.from)
+  const to = pathAt(root, one.to)
   if (from === null || to === null) return null
   const at = join(root, from)
   if (!existsSync(at) || statSync(at).isFile()) return null
