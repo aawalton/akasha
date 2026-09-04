@@ -34,7 +34,14 @@ test("a service stating no schedule is simple, wanted by the default target, and
   expect(text).toContain("Type=simple")
   expect(text).toContain("Restart=always")
   expect(text).toContain("WantedBy=default.target")
-  expect(text).toContain("SuccessExitStatus=143")
+  expect(text).toContain(`SuccessExitStatus=143 ${RESTART_EXIT}`)
+})
+
+test("a wrapper restart for a changed file counts as a success rather than a failure", () => {
+  expect(serviceUnitText(pageOf({}))).toContain(`SuccessExitStatus=143 ${RESTART_EXIT}`)
+  const bare = serviceUnitText(pageOf({ runs: ["/usr/bin/node-exporter"] }))
+  expect(bare).toContain("SuccessExitStatus=143\n")
+  expect(bare).not.toContain(`SuccessExitStatus=143 ${RESTART_EXIT}`)
 })
 
 test("the unit names the page it was written from", () => {

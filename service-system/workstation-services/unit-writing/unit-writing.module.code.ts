@@ -100,8 +100,9 @@ export function serviceUnitText(given: Service): string {
     if (stated?.restartDelaySeconds !== undefined) {
       lines.push(`RestartSec=${stated.restartDelaySeconds}`)
     }
-    lines.push(`SuccessExitStatus=${SIGTERM_EXIT}`)
-    if (isWrapped(given)) lines.push(`RestartForceExitStatus=${RESTART_EXIT}`)
+    const wraps = isWrapped(given)
+    lines.push(`SuccessExitStatus=${wraps ? `${SIGTERM_EXIT} ${RESTART_EXIT}` : SIGTERM_EXIT}`)
+    if (wraps) lines.push(`RestartForceExitStatus=${RESTART_EXIT}`)
     lines.push("", "[Install]", `WantedBy=${DEFAULT_TARGET}`)
   }
 
