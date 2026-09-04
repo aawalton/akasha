@@ -91,6 +91,10 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
+      statement: "The program is built over the files judged and the declarations alone.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A diagnostic against a file the change did not touch is reported once against that file.",
     },

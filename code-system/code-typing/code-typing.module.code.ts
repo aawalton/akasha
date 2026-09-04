@@ -152,6 +152,14 @@ export function readingOf(root: string, textOf: (path: string) => string | null)
 }
 
 export function programOver(root: string, roots: readonly string[], read: Reading): ts.Program {
+  return ts.createProgram({
+    rootNames: roots.map((one) => join(root, one)),
+    options: SETTINGS,
+    host: hostOver(root, read, roots),
+  })
+}
+
+export function programKeptOver(root: string, roots: readonly string[], read: Reading): ts.Program {
   const built = ts.createIncrementalProgram({
     rootNames: roots.map((one) => join(root, one)),
     options: { ...SETTINGS, tsBuildInfoFile: buildInfoAt(root) },
@@ -163,11 +171,7 @@ export function programOver(root: string, roots: readonly string[], read: Readin
 }
 
 export function typingOver(root: string, roots: readonly string[], read: Reading): Typing {
-  const program = ts.createProgram({
-    rootNames: roots.map((one) => join(root, one)),
-    options: SETTINGS,
-    host: hostOver(root, read, roots),
-  })
+  const program = programOver(root, roots, read)
   return {
     program,
     checker: program.getTypeChecker(),

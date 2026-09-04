@@ -6,6 +6,7 @@ import {
   insideOf,
   linkedOf,
   manifested,
+  programKeptOver,
   programOver,
   readingOf,
 } from "@akasha/code-system/code-typing"
@@ -172,10 +173,10 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
   const root = resolve(change.root)
   const keys = [...waitingKeys(shadow)]
   const read = bodiesOf(change, mintingIn(change, keys, shadow.index))
-  const named = [
-    ...new Set([...everyCompiledIn(change, shadow.index), ...declaringIn(change, shadow.index)]),
-  ]
-  const program = programOver(root, named, read)
+  const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
+  const naming = new Set(named)
+  const whole = everyCompiledIn(change, shadow.index).every((one) => naming.has(one))
+  const program = whole ? programKeptOver(root, named, read) : programOver(root, named, read)
   const held = new Map<string, ts.SourceFile>()
   for (const file of program.getSourceFiles()) {
     const at = insideOf(root, resolve(file.fileName))

@@ -153,7 +153,11 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A program built to be checked against is checked as the program is built.",
+      statement: "A program that keeps what the checker said is checked as the program is built.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A program built over some of the bodies keeps nothing.",
     },
     {
       invariantKind: "departure",
