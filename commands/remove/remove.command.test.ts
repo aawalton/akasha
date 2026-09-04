@@ -24,6 +24,7 @@ import {
   linkIn,
   linkThere,
   looseIn,
+  looseLinkIn,
   MANIFEST,
   MOVED_MANIFEST,
   manifested,
@@ -115,6 +116,18 @@ test("a link is taken away and the file that link reached is left as it is", asy
   expect(reportOf(said)).toContain(`${REACHING} taken away`)
   expect(linkThere(root, REACHING)).toBe(false)
   expect(there(root, HELD)).toBe(true)
+})
+
+test("a link reaching nothing that git does not track is taken off the disk", async () => {
+  const root = repoWith({ [HELD]: BODY, ".gitignore": "node_modules\n" })
+  const at = "node_modules/@held/stranded"
+  looseLinkIn(root, at, "nowhere")
+  const was = head(root)
+  const said = await removing(root, naming(at))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(linkThere(root, at)).toBe(false)
+  expect(head(root)).toBe(was)
 })
 
 test("a directory opens onto every tracked file under it", async () => {

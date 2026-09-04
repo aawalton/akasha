@@ -225,6 +225,33 @@ test("an install leaves a link under node_modules reaching a folder that is ther
   expect(put.said.join("\n")).not.toContain("reached a folder no")
 })
 
+test("an install takes away a link at the top of node_modules whose name is a scope", () => {
+  const root = world(true)
+  const at = strandedLink(root, "@collections")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(at)).toBe(false)
+  expect(put.said.join("\n")).toContain("@collections")
+})
+
+test("an install takes away a link inside a folder under node_modules that is no scope", () => {
+  const root = world(true)
+  const at = strandedLink(root, ".bin/held-runner")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(at)).toBe(false)
+  expect(put.said.join("\n")).toContain(".bin/held-runner")
+})
+
+test("an install leaves a link inside a package's own node_modules alone", () => {
+  const root = world(true)
+  const at = strandedLink(root, "held-pkg/node_modules/deeper")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(at)).toBe(true)
+  expect(put.said.join("\n")).not.toContain("deeper")
+})
+
 test("an install leaves a folder under node_modules that is no link", () => {
   const root = world(true)
   const flat = join(root, MODULES, "real")

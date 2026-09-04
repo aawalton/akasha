@@ -37,10 +37,14 @@ export function looseIn(root: string, path: string): undefined {
   writeFileSync(join(root, path, "stray.txt"), BODY)
 }
 
-export function linkIn(root: string, path: string, to: string): undefined {
+export function looseLinkIn(root: string, path: string, to: string): undefined {
   const at = join(root, path)
   mkdirSync(join(at, ".."), { recursive: true })
   symlinkSync(to, at)
+}
+
+export function linkIn(root: string, path: string, to: string): undefined {
+  looseLinkIn(root, path, to)
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "a link is there"])
 }
