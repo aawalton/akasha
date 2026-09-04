@@ -67,7 +67,7 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "Naming a command costs the same amount at any size.",
+      statement: "Naming a command costs the same amount however many commands there are.",
     },
     {
       invariantKind: "departure",

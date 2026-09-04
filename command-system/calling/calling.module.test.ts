@@ -2,8 +2,16 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { idFiled, idTakenFrom, listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
+import {
+  calling,
+  commandsIn,
+  HELP,
+  HELP_SHORT,
+  type Surface,
+  wordsIn,
+} from "./calling.module.code.ts"
 
 const COMMAND = "command"
 
@@ -51,7 +59,7 @@ function rootWith(
         : `, taking: ${JSON.stringify(one.surface.taking)}, helpNotes: ${JSON.stringify(one.surface.helpNotes)}`
     writeFileSync(
       join(root, at),
-      `export const ${one.slug} = { slug: "${one.slug}"${stated}${shown} }\n`
+      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${stated}${shown} }\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
@@ -113,6 +121,81 @@ test("a name carried by more than one command is refused rather than chosen betw
   expect(said.refusals[0]).toContain("names more than one")
 })
 
+test("several leading words are joined, and the longest name a command carries is read", async () => {
+  const root = rootWith([
+    { slug: "track", body: ANSWERS },
+    { slug: "track-session", body: ANSWERS },
+    { slug: "track-session-open", body: ANSWERS },
+  ])
+  const said = await calling(["track", "session", "open", "at", "noon"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("at noon")
+  expect(said.report[1]).toBe("akasha track-session-open")
+})
+
+test("a shorter name is read where the longer one is carried by no command", async () => {
+  const root = rootWith([{ slug: "track", body: ANSWERS }])
+  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("session open")
+  expect(said.report[1]).toBe("akasha track")
+})
+
+test("a name between the longest and the first is read where the longest is carried", async () => {
+  const root = rootWith([
+    { slug: "track", body: ANSWERS },
+    { slug: "track-session", body: ANSWERS },
+  ])
+  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("open")
+  expect(said.report[1]).toBe("akasha track-session")
+})
+
+test("a joined name carried by more than one command is refused rather than shortened", async () => {
+  const root = rootWith([
+    { slug: "track", body: ANSWERS },
+    { slug: "track-session", body: ANSWERS, also: "akasha/elsewhere/track-session.command.ts" },
+  ])
+  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`track-session` is carried by 2 commands")
+  expect(said.refusals[0]).toContain("names more than one")
+})
+
+test("no run of leading words naming a command is refused under the first word", async () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`track` is no command akasha carries")
+})
+
+test("a name four words long is looked for", async () => {
+  const root = rootWith([{ slug: "a-b-c-d", body: ANSWERS }])
+  const said = await calling(["a", "b", "c", "d", "e"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("e")
+  expect(said.report[1]).toBe("akasha a-b-c-d")
+})
+
+test("a name five words long is not looked for", async () => {
+  const root = rootWith([{ slug: "a-b-c-d-e", body: ANSWERS }])
+  const said = await calling(["a", "b", "c", "d", "e"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`a` is no command akasha carries")
+})
+
+test("the words joined into a name end at the first word that could be no slug", () => {
+  expect(wordsIn(["music", "now", "playing"])).toEqual(["music", "now", "playing"])
+  expect(wordsIn(["read", "--file-path", "one"])).toEqual(["read"])
+  expect(wordsIn(["read", "-h"])).toEqual(["read"])
+  expect(wordsIn(["read", "one/two.ts"])).toEqual(["read"])
+  expect(wordsIn(["read", "One"])).toEqual(["read"])
+  expect(wordsIn(["Read"])).toEqual([])
+  expect(wordsIn([])).toEqual([])
+  expect(wordsIn(["a", "b", "c", "d", "e"])).toEqual(["a", "b", "c", "d"])
+})
+
 test("a command page whose code answers to nothing callable is refused", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS_NOTHING }])
   const said = await calling(["held"], { ...OUTSIDE, root })
@@ -149,7 +232,7 @@ test("a command answering later is waited for rather than handed back as it stan
   expect(said.report[1]).toBe("akasha held")
 })
 
-const ROOTED_AT = "akasha/command-system/commands/index/index.command.ts"
+const ROOTED_AT = "command-system/commands/index/index.command.ts"
 
 function rooted(root: string): undefined {
   const at = join(root, ROOTED_AT)

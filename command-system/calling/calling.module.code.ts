@@ -62,6 +62,10 @@ const CODE = "code"
 
 const TS = "ts"
 
+const MOST_WORDS = 4
+
+const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
+
 export const ROOTED = "index"
 
 export const ROOTED_AT = "command-system/commands/index/index.command.ts"
@@ -281,15 +285,44 @@ function helping(root: string, outside: Outside): Answer {
   return { report, refusals: [], code: 0 }
 }
 
+type Reached = {
+  readonly named: string
+  readonly held: number
+  readonly found: readonly { readonly path: string }[]
+}
+
+export function wordsIn(argv: readonly string[]): readonly string[] {
+  const words: string[] = []
+  for (const one of argv) {
+    if (words.length === MOST_WORDS || !WORD.test(one)) break
+    words.push(one)
+  }
+  return words
+}
+
+function namedIn(root: string, argv: readonly string[]): Reached | null {
+  const type = commandSlugIn(root)
+  if (type === null) return null
+  const words = wordsIn(argv)
+  let held = words.length
+  while (held > 0) {
+    const named = words.slice(0, held).join("-")
+    const found = listedAt(root, type, named)
+    if (found.length > 0) return { named, held, found }
+    held = held - 1
+  }
+  return null
+}
+
 export async function calling(argv: readonly string[], outside: Outside): Promise<Answer> {
   const root = resolve(outside.root)
   const named = argv[0]
   if (named === HELP || named === HELP_SHORT) return helping(root, outside)
   if (named === ROOTED) return answeredBy(named, ROOTED_AT, root, argv.slice(1), outside)
-  const every = everyIn(root)
-  const unread = unreadIn(root, outside.calledAs)
-  const carried = (said: string): Answer => {
-    const held = [said]
+  const carried = (saying: (unread: string | null) => string): Answer => {
+    const every = everyIn(root)
+    const unread = unreadIn(root, outside.calledAs)
+    const held = [saying(unread)]
     if (unread !== null) held.push(unread)
     if (every.length > 0) {
       held.push(
@@ -300,23 +333,23 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     return refusing(held.join(" "))
   }
   if (named === undefined) {
-    return carried(`${outside.calledAs} takes a command, and none was named.`)
+    return carried(() => `${outside.calledAs} takes a command, and none was named.`)
   }
-  const type = commandSlugIn(root)
-  const found = type === null ? [] : listedAt(root, type, named)
-  const first = found[0]
-  if (first === undefined) {
-    return carried(
+  const reached = namedIn(root, argv)
+  const first = reached === null ? undefined : reached.found[0]
+  if (reached === null || first === undefined) {
+    return carried((unread) =>
       unread === null
         ? `\`${named}\` is no command akasha carries.`
         : `\`${named}\` was looked for and not read.`
     )
   }
-  if (found.length > 1) {
-    const among = found.map((one) => `  ${one.path}`).join("\n")
+  if (reached.found.length > 1) {
+    const among = reached.found.map((one) => `  ${one.path}`).join("\n")
     return refusing(
-      `\`${named}\` is carried by ${found.length} commands, so this names more than one:\n${among}`
+      `\`${reached.named}\` is carried by ${reached.found.length} commands, ` +
+        `so this names more than one:\n${among}`
     )
   }
-  return answeredBy(named, first.path, root, argv.slice(1), outside)
+  return answeredBy(reached.named, first.path, root, argv.slice(reached.held), outside)
 }

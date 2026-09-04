@@ -29,11 +29,43 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "A name is the leading words of the command line joined with a hyphen.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word that could be no part of a slug ends the name before that word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is at most four words long.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The longest name a command carries is the name read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shorter name is read only where the longer name is carried by no command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words past the name are the arguments the command is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming a command costs at most four reads of the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name carried by more than one command is refused rather than chosen between.",
     },
     {
       invariantKind: "departure",
       statement: "A name no command carries is answered with the commands there are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the commands there are is read only where a name was not answered.",
     },
     {
       invariantKind: "departure",
