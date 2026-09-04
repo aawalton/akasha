@@ -291,7 +291,6 @@ export const temperWeb = {
     "module/watcher-run-status-card",
     "module/watcher-sync-status",
     "module/watcher-sync-status-card",
-    "module/watcher-token-check",
     "module/weapon-bar-panel-card",
     "module/weapon-card",
     "module/zone-completion-progress-panel-card",

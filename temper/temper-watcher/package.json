@@ -27,6 +27,7 @@
     "./watcher-error-cursor": "./watcher-error-cursor/watcher-error-cursor.module.code.ts",
     "./watcher-run-observing": "./watcher-run-observing/watcher-run-observing.module.code.ts",
     "./watcher-token": "./watcher-token/watcher-token.module.code.ts",
+    "./watcher-token-check": "./watcher-token-check/watcher-token-check.module.code.ts",
     "./watcher-config": "./watcher-config/watcher-config.module.code.ts",
     "./watcher-config-file": "./watcher-config-file/watcher-config-file.module.code.ts",
     "./watcher-account-page": "./watcher-account-page/watcher-account-page.module.code.ts",

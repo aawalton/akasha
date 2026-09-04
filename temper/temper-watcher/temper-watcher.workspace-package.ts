@@ -31,6 +31,7 @@ export const temperWatcher = {
     "module/watcher-error-cursor",
     "module/watcher-run-observing",
     "module/watcher-token",
+    "module/watcher-token-check",
     "module/watcher-config",
     "module/watcher-config-file",
     "module/watcher-account-page",
