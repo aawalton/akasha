@@ -52,6 +52,7 @@ export const nimueComputedProperties = {
   constraints: [
     "A computed property extends a module and a page property both.",
     "Where two parents declare one property, the last one named decides.",
+    "A page type with two parents shows under each, so a tree shows that type twice.",
     "`many: true` and the 441 values a page type states land in one batch or not at all.",
     "A calculation is a function exported from the computed property's own code file.",
     "One computed property type carries every calculation rather than one type for each shape.",
