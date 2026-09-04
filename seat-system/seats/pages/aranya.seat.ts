@@ -5,7 +5,7 @@ export const aranya = {
   pageTypeSlug: "seat",
   slug: "aranya",
   personaSlug: "aranya",
-  assignmentSlug: "domain/infrastructure",
+  assignmentSlug: "initiative/aranya-cluster-cleanup",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
