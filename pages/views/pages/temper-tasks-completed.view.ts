@@ -6,7 +6,6 @@ export const temperTasksCompleted = {
   slug: "temper-tasks-completed",
   title: "Completed",
   navSlug: "temper-tasks",
-  drawsSlug: "temper-completed-task",
   viewPlace: 3,
   viewSorts: [{ key: "updated-at", descending: true }],
   pageSize: 12,
