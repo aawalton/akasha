@@ -19,8 +19,6 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Running } from "../../../modules/judging/judging.module.code.ts"
 
-const INSIDE = "akasha/"
-
 const UNDER = "_"
 
 const DECLARED = ".d.ts"
@@ -288,11 +286,11 @@ export function placesIn(
 }
 
 const refusalsIn: Running = (change, shadow) => {
-  const wanted = change.changed.some((one) => one.startsWith(INSIDE) && textNamed(one))
+  const wanted = change.changed.some((one) => textNamed(one))
   if (!wanted) return []
   const places = placesIn(change.root, shadow.index, shadow.codeAt)
   return overEachFile(change, (given) => {
-    if (!given.path.startsWith(INSIDE) || !textNamed(given.path)) return []
+    if (!textNamed(given.path)) return []
     return refusedIn(given.path, bodyOf(given), places)
   })
 }
