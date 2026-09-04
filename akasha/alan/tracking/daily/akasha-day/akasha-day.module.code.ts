@@ -27,11 +27,8 @@ import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { entriesIn } from "@akasha/pages-system/page-entries"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { valueAt } from "@akasha/pages-system/page-value"
-import type { Landed } from "@tools/lib/page-query-client"
-import {
-  composedFor,
-  type Put,
-} from "../../../../pages-system/service/page-composing/page-composing.module.code.ts"
+import { composedFor, type Put } from "@akasha/pages-system-service/composing"
+import type { Landed } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 import {
   AKASHA_DAY_PAGE_TYPE,

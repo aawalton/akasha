@@ -6,4 +6,26 @@ export const personaDayPoints = {
   slug: "persona-day-points",
   definition: "one persona's day, landed where that day is kept",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The day is asked of the checkout this code runs in.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches the pages system service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day already written is read whole before a new body is composed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing here is mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key is written camel.",
+    },
+  ],
 } as const satisfies Module

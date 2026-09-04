@@ -1,9 +1,14 @@
+import { landedMechanically } from "@akasha/command-system/asking"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guard"
+import { asking } from "@akasha/pages-system-service/asking"
+import { composedFor } from "@akasha/pages-system-service/composing"
 import { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
-import { askComposed, pageLanding } from "@tools/lib/page-query-client"
 import { z } from "zod"
 import type { WriteOutcome } from "../day-narrow-types/day-narrow-types.module.code.ts"
-import { kebabKey, WRITER } from "../day-scan-window/day-scan-window.module.code.ts"
+import { WRITER } from "../day-scan-window/day-scan-window.module.code.ts"
 import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
+import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
 export const PERSONA_DAY_PAGE_TYPE_SLUG = "persona-day"
 
@@ -50,19 +55,23 @@ export function personaDaySlug(personaSlug: string, dayStr: string): string {
   return `${personaSlug}-${dayStr}`
 }
 
-async function personaDayStands(personaSlug: string, dayStr: string): Promise<boolean> {
-  const asked = await askComposed({
-    "page-type": PERSONA_DAY_PAGE_TYPE_SLUG,
-    keys: ["persona-slug", "date"],
-    where: { "persona-slug": { is: personaSlug }, date: { is: dayStr } },
+function checkoutRoot(): string {
+  return rootFor(resolveRoots(), AKASHA)
+}
+
+function personaDayHeld(root: string, named: string): Readonly<Record<string, unknown>> | null {
+  const asked = asking(root, {
+    pageTypeSlug: PERSONA_DAY_PAGE_TYPE_SLUG,
+    where: { slug: { is: named } },
     limit: 1,
-  })
-  if (!asked.ok) {
+  } as never)
+  if ("refused" in asked) {
     throw new Error(
-      `personaDayStands: whether \`${personaDaySlug(personaSlug, dayStr)}\` is already written could not be read, so nothing is written over: ${asked.why}`
+      `whether the persona day \`${named}\` is already written could not be read, so nothing is ` +
+        `written over: ${asked.refused}`
     )
   }
-  return asked.rows.length > 0
+  return (asked.rows[0] as Readonly<Record<string, unknown>> | undefined) ?? null
 }
 
 async function patchPersonaDayFields(
@@ -70,26 +79,49 @@ async function patchPersonaDayFields(
   fields: Readonly<Record<string, number>>,
   persona: PersonaDayTarget
 ): Promise<WriteOutcome> {
-  const stood = await personaDayStands(persona.slug, dayStr)
+  const root = checkoutRoot()
   const named = personaDaySlug(persona.slug, dayStr)
-  const values: Record<string, string | number> = {
+  const held = personaDayHeld(root, named)
+  const values: Record<string, unknown> = {
+    ...(held ?? {}),
+    pageTypeSlug: PERSONA_DAY_PAGE_TYPE_SLUG,
     slug: named,
-    "persona-slug": persona.slug,
+    personaSlug: persona.slug,
     date: dayStr,
-    "green-day-points": persona.greenDayPoints,
+    greenDayPoints: persona.greenDayPoints,
   }
-  if (persona.valueSlug !== undefined) values["value-slug"] = persona.valueSlug
-  if (!stood) {
+  if (persona.valueSlug !== undefined) values["valueSlug"] = persona.valueSlug
+  if (held === null) {
     values["id"] = Bun.randomUUIDv7()
-    values["source-points"] = 0
+    values["sourcePoints"] = 0
   }
-  for (const [key, value] of Object.entries(fields)) values[kebabKey(key)] = value
+  for (const [key, value] of Object.entries(fields)) values[camelizeKey(key)] = value
 
-  const landed = await pageLanding("patch", PERSONA_DAY_PAGE_TYPE_SLUG, named, values, WRITER)
-  if (!landed.ok) {
-    throw new Error(`the persona day \`${named}\` did not land: ${landed.why}`)
+  const composed = composedFor(root, {
+    pageTypeSlug: PERSONA_DAY_PAGE_TYPE_SLUG,
+    slug: named,
+    values,
+  })
+  if ("refused" in composed) {
+    throw new Error(`the persona day \`${named}\` did not compose: ${composed.refused}`)
   }
-  return stood ? "patched" : "created"
+  if (composed.kept !== null) {
+    throw new Error(
+      `\`${PERSONA_DAY_PAGE_TYPE_SLUG}\` declares a property kept outside the commit and this ` +
+        `writes none; ${composed.kept.path} would carry ${Object.keys(composed.kept.values).join(", ")}`
+    )
+  }
+  refuseALiveTestWrite(root, `write ${PERSONA_DAY_PAGE_TYPE_SLUG}/${named}`, "`patchPersonaDay`")
+  const landed = landedMechanically(
+    root,
+    WRITER,
+    [{ path: composed.put.path, body: new TextEncoder().encode(composed.put.content) }],
+    `${WRITER}: the persona day ${named}`
+  )
+  if (landed.code !== 0) {
+    throw new Error(`the persona day \`${named}\` did not land: ${landed.refusals.join("; ")}`)
+  }
+  return held === null ? "created" : "patched"
 }
 
 export async function patchPersonaDayField(

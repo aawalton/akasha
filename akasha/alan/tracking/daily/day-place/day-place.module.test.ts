@@ -17,34 +17,9 @@ interface Reached {
   readonly name: string
 }
 
-const reached: Reached[] = []
+const REACHED: Reached[] = []
 
-const landed = { ok: true as const, at: "reached-nothing" }
-
-mock.module("@tools/lib/page-query-client", () => ({
-  askComposed: () => Promise.resolve({ ok: true, rows: [], n: 0, unfound: [] }),
-  askTaking: () => Promise.resolve({ ok: true, rows: [], n: 0, unfound: [] }),
-  pageLanding: (act: string, pageType: string, name: string) => {
-    reached.push({ verb: "pageLanding", act, pageType, name })
-    return Promise.resolve(landed)
-  },
-  patchPage: (pageType: string, name: string) => {
-    reached.push({ verb: "patchPage", act: "patch", pageType, name })
-    return Promise.resolve(landed)
-  },
-  rowLanding: (act: string, pageType: string, name: string) => {
-    reached.push({ verb: "rowLanding", act, pageType, name })
-    return Promise.resolve(landed)
-  },
-  rowsLanding: (act: string, pageType: string, name: string) => {
-    reached.push({ verb: "rowsLanding", act, pageType, name })
-    return Promise.resolve(landed)
-  },
-  removeRow: (pageType: string, name: string) => {
-    reached.push({ verb: "removeRow", act: "remove-row", pageType, name })
-    return Promise.resolve(landed)
-  },
-}))
+const LANDED = { ok: true as const, at: "reached-nothing" }
 
 /**
  * The two landings this file watches, over the rest of the module as it really is.
@@ -53,25 +28,28 @@ mock.module("@tools/lib/page-query-client", () => ({
  * holding only these two names took every other export of `akasha-day` away from
  * `akasha-day.module.test.ts` when the two ran together. Spreading the real module first
  * leaves `rowsBeside` and its siblings standing.
+ *
+ * A second mock sat beside this one, over `@tools/lib/page-query-client`, and it is gone with the
+ * markdown store's client. Nothing here needs to stub a store the funnel no longer reaches, and a
+ * mock of a module that does not resolve is a mock nothing could ever call.
  */
 const realAkashaDay = await import("../akasha-day/akasha-day.module.code.ts")
 
 mock.module("../akasha-day/akasha-day.module.code.ts", () => ({
   ...realAkashaDay,
   landAkashaDayPage: (act: string, name: string) => {
-    reached.push({ verb: "landAkashaDayPage", act, pageType: "akasha", name })
-    return Promise.resolve(landed)
+    REACHED.push({ verb: "landAkashaDayPage", act, pageType: "akasha", name })
+    return Promise.resolve(LANDED)
   },
   landAkashaSessionRow: (act: string, name: string) => {
-    reached.push({ verb: "landAkashaSessionRow", act, pageType: "akasha", name })
-    return Promise.resolve(landed)
+    REACHED.push({ verb: "landAkashaSessionRow", act, pageType: "akasha", name })
+    return Promise.resolve(LANDED)
   },
 }))
 
 const {
   AKASHA,
   DAILY_TRACKING,
-  MARKDOWN,
   SESSION_TRACKING,
   dayNameIn,
   dayNameOf,
@@ -138,7 +116,6 @@ describe("where a day is kept", () => {
 
   test("an akasha day is named with its date prefixed, and the name reads back", () => {
     expect(dayNameIn(AKASHA, "2026-03-05")).toBe("wake-day-2026-03-05")
-    expect(dayNameIn(MARKDOWN, "2026-03-05")).toBe("2026-03-05")
     expect(dayOfName("wake-day-2026-03-05")).toBe("2026-03-05")
     expect(dayOfName("2026-03-05")).toBe("2026-03-05")
   })
@@ -146,25 +123,6 @@ describe("where a day is kept", () => {
 
 describe("create, edit and delete agree on where a day is", () => {
   const day = "2026-03-05"
-
-  test("markdown: one page type, one name, for every act", () => {
-    const acts = [dayPageAt(MARKDOWN, "patch", day), dayPageAt(MARKDOWN, "write", day)]
-    for (const at of acts) {
-      expect(at.place).toBe(MARKDOWN)
-      expect(at.pageType).toBe(DAILY_TRACKING)
-      expect(at.name).toBe(day)
-    }
-    const rows = [
-      sessionRowAt(MARKDOWN, "write-row", day),
-      sessionRowAt(MARKDOWN, "patch-row", day),
-      sessionRowAt(MARKDOWN, "remove-row", day),
-    ]
-    for (const at of rows) {
-      expect(at.place).toBe(MARKDOWN)
-      expect(at.pageType).toBe(SESSION_TRACKING)
-      expect(at.name).toBe(day)
-    }
-  })
 
   test("akasha: one page type, one name, for every act, and the name is prefixed", () => {
     const name = `wake-day-${day}`
@@ -186,21 +144,20 @@ describe("create, edit and delete agree on where a day is", () => {
     }
   })
 
-  test("a derived read is let through in both halves, because the derive reads both", () => {
-    expect(() => derivedDayIn(MARKDOWN, day)).not.toThrow()
+  test("a derived read is let through, because the derive reads where the day is kept", () => {
     expect(() => derivedDayIn(AKASHA, day)).not.toThrow()
   })
 })
 
 describe("what reaches the file layer", () => {
   test("a day nothing has heard of reaches the akasha half and never the old place", async () => {
-    reached.length = 0
+    REACHED.length = 0
     await landDayPage("patch", UNNAMED_DAY, { date: UNNAMED_DAY }, "ops-tracking")
     await landSessionRow("write-row", UNNAMED_DAY, { id: "one" }, "ops-tracking")
     await landSessionRow("patch-row", UNNAMED_DAY, { id: "one" }, "ops-tracking")
     await dropSessionRow(UNNAMED_DAY, "one", "ops-tracking")
     const name = `wake-day-${UNNAMED_DAY}`
-    expect(reached).toEqual([
+    expect(REACHED).toEqual([
       { verb: "landAkashaDayPage", act: "patch", pageType: "akasha", name },
       { verb: "landAkashaSessionRow", act: "write-row", pageType: "akasha", name },
       { verb: "landAkashaSessionRow", act: "patch-row", pageType: "akasha", name },
@@ -211,34 +168,34 @@ describe("what reaches the file layer", () => {
   /**
    * The old place is reached by nothing, which is the claim the markdown half being gone rests on.
    *
-   * Naming the verbs rather than counting them is the point: a write that slipped through to
-   * `pageLanding` would land a `.daily-tracking.md` file that no reader of Alan's days now looks
-   * at, and it would look like a successful write from every side.
+   * Naming the verbs rather than counting them is the point. This guarded a branch until the branch
+   * went; it guards the absence of one now, and it would fire the day anyone puts a second road back
+   * under these three calls without saying so here.
    */
-  test("no day and no session row reaches the markdown verbs", async () => {
-    reached.length = 0
+  test("no day and no session row reaches any verb but the two akasha ones", async () => {
+    REACHED.length = 0
     for (const day of ["2026-03-05", UNNAMED_DAY, UNNAMED_NEXT]) {
       await landDayPage("write", day, { date: day }, "ops-tracking")
       await landSessionRow("write-row", day, { id: "one" }, "ops-tracking")
       await dropSessionRow(day, "one", "ops-tracking")
     }
-    expect(reached).toHaveLength(9)
-    expect(reached.filter((one) => one.pageType === "akasha")).toHaveLength(9)
-    for (const one of reached) {
+    expect(REACHED).toHaveLength(9)
+    expect(REACHED.filter((one) => one.pageType === "akasha")).toHaveLength(9)
+    for (const one of REACHED) {
       expect(["landAkashaDayPage", "landAkashaSessionRow"]).toContain(one.verb)
     }
   })
 })
 
 /**
- * A day's name goes out and comes back, and the two stores never spell one day alike.
+ * A day's name goes out and comes back.
  *
  * This began as a guard that the migration's own prefix agreed with the name every reader asks
  * for. That prefix is gone: `convert.ts` was deleted once all 133 days had moved, and
  * `SLUG_PREFIX` went with it, so there is no second speller left to disagree with. What the
  * guard was for has been met by removing the thing it guarded against.
  *
- * What is still worth holding is the funnel's own arithmetic. `dayNameIn` spells a day for a
+ * What is still worth holding is the funnel's own arithmetic. `dayNameIn` spells a day for the
  * store and `dayOfName` takes the day back out of the name. A break in that pair says nothing
  * when it happens: a query for a name no page answers to comes back empty rather than refusing,
  * so Alan's tiles would read zero on a day he tracked and his points would be summed from
@@ -250,22 +207,16 @@ describe("what reaches the file layer", () => {
 const DAYS: readonly string[] = ["2026-01-01", "2026-03-05", "2026-08-31", "2026-12-31"]
 
 describe("the funnel's day names", () => {
-  test("a markdown day is named by its bare date", () => {
-    for (const day of DAYS) {
-      expect(dayNameIn(MARKDOWN, day)).toBe(day)
-    }
-  })
-
   test("the funnel takes back the day from the name it spelled", () => {
     for (const day of DAYS) {
       expect(dayOfName(dayNameIn(AKASHA, day))).toBe(day)
-      expect(dayOfName(dayNameIn(MARKDOWN, day))).toBe(day)
     }
   })
 
-  test("the two stores never spell one day alike", () => {
+  test("a day is spelled by the prefix and never by its bare date", () => {
     for (const day of DAYS) {
-      expect(dayNameIn(AKASHA, day)).not.toBe(dayNameIn(MARKDOWN, day))
+      expect(dayNameIn(AKASHA, day)).not.toBe(day)
+      expect(dayNameIn(AKASHA, day)).toBe(`wake-day-${day}`)
     }
   })
 })

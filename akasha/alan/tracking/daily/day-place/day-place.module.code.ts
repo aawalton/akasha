@@ -1,17 +1,14 @@
 import { dataError } from "@akasha/errors-core/exit-code"
 import { kebabisedRow } from "@akasha/pages-system/akasha-page-values"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
-import {
-  type Answered,
-  type AnsweredRow,
-  type Landed,
-  pageLanding,
-  removeRow,
-  rowLanding,
-} from "@tools/lib/page-query-client"
 import { landAkashaDayPage, landAkashaSessionRow } from "../akasha-day/akasha-day.module.code.ts"
-import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
+import type {
+  Answered,
+  AnsweredRow,
+  Landed,
+  Page,
+} from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 import { pageOf } from "../tracking-pages/tracking-pages.module.code.ts"
 
@@ -19,11 +16,16 @@ export const DAILY_TRACKING = "daily-tracking"
 
 export const SESSION_TRACKING = "session-tracking"
 
-export const MARKDOWN = "markdown"
-
 export const AKASHA = "akasha"
 
-export type DayPlace = typeof MARKDOWN | typeof AKASHA
+/**
+ * The one place a day is kept.
+ *
+ * This was two places while the markdown half was there. That half is gone, so the union is one
+ * member and every reach that used to branch on it goes straight through. What the type still buys
+ * is the funnel: a caller that names a place is a caller that asked here.
+ */
+export type DayPlace = typeof AKASHA
 
 export type DayAct = "write" | "patch"
 
@@ -38,7 +40,8 @@ export type SessionAct = "write-row" | "patch-row" | "remove-row"
  * would write a new day to the old place after that day had already moved — two files for one day,
  * each holding half of it, and nothing saying which is the day.
  *
- * Every day has moved, so this answers `akasha` outright. What stood here until it did was
+ * Every day has moved, so this answers `akasha` outright, and no second answer is left for it to
+ * give. What stood here until it did was
  * `MIGRATED_DAYS`, a set naming the 133 days already carried across, and a day it did not name was
  * answered `markdown`. That set could only ever be right for the day it was last edited on: it
  * named up to 2026-09-01 while the day being tracked was 2026-09-02, so today's day was written to
@@ -58,13 +61,12 @@ export function dayPlaceOf(_dayStr: string): DayPlace {
 /**
  * The name a day's page answers to, and the day that name is for.
  *
- * A markdown day is named by its date, so both of these are the date itself. An akasha day is to be
- * named `wake-day-2026-03-05`, because `20260305` is no identifier and a bare date reads as a number.
- * Both directions live here so that the day a session says it is beside and the day a writer names
- * are read by one rule rather than two.
+ * An akasha day is named `wake-day-2026-03-05`, because `20260305` is no identifier and a bare date
+ * reads as a number. Both directions live here so that the day a session says it is beside and the
+ * day a writer names are read by one rule rather than two.
  */
-export function dayNameIn(place: DayPlace, dayStr: string): string {
-  return place === AKASHA ? `wake-day-${dayStr}` : dayStr
+export function dayNameIn(_place: DayPlace, dayStr: string): string {
+  return `wake-day-${dayStr}`
 }
 
 export function dayNameOf(dayStr: string): string {
@@ -115,10 +117,9 @@ export function derivedDayOf(dayStr: string): void {
 /**
  * The day page, landed where the day is kept.
  *
- * The two halves take different roads because they are different acts. A markdown day is a file this
- * process writes and commits itself, through `pageLanding`. An akasha day is composed and handed to
- * `akasha write`, because nothing writes under `akasha/` but akasha's own verb. What they share is
- * this call: no reach above here knows which road its day took.
+ * A day is composed and handed to `akasha tracking`, because nothing writes under `akasha/` but
+ * akasha's own verb. The second road here, `pageLanding` into the markdown store, went when that
+ * store went, so a day the funnel has never heard of goes where every other day goes.
  */
 export function landDayPage(
   act: DayAct,
@@ -127,8 +128,7 @@ export function landDayPage(
   writer: string
 ): Promise<Landed> {
   const at = dayPageAt(dayPlaceOf(dayStr), act, dayStr)
-  if (at.place === AKASHA) return landAkashaDayPage(act, at.name, values, writer)
-  return pageLanding(act, at.pageType, at.name, values, writer)
+  return landAkashaDayPage(act, at.name, values, writer)
 }
 
 export function landSessionRow(
@@ -138,19 +138,13 @@ export function landSessionRow(
   writer: string
 ): Promise<Landed> {
   const at = sessionRowAt(dayPlaceOf(dayStr), act, dayStr)
-  if (at.place === AKASHA) {
-    const id = values["id"]
-    return landAkashaSessionRow(act, at.name, values, typeof id === "string" ? id : "", writer)
-  }
-  return rowLanding(act, at.pageType, at.name, values, writer)
+  const id = values["id"]
+  return landAkashaSessionRow(act, at.name, values, typeof id === "string" ? id : "", writer)
 }
 
 export function dropSessionRow(dayStr: string, named: string, writer: string): Promise<Landed> {
   const at = sessionRowAt(dayPlaceOf(dayStr), "remove-row", dayStr)
-  if (at.place === AKASHA) {
-    return landAkashaSessionRow("remove-row", at.name, {}, named, writer)
-  }
-  return removeRow(at.pageType, at.name, named, writer)
+  return landAkashaSessionRow("remove-row", at.name, {}, named, writer)
 }
 
 /**
@@ -313,9 +307,8 @@ const COMPLETION_KEYS = ["toDoSlug", "completedAt", "valueSlug"] as const
 const ENTRY_PROPERTY = "page-property-entry"
 
 function checkoutRoot(): string {
-  const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
-  const root = roots[AKASHA]
-  if (root === undefined || root === "") {
+  const root = rootFor(resolveRoots(), AKASHA_REPO)
+  if (root === "") {
     throw dataError("no akasha checkout stands here, so no stretch of Alan's day can be read")
   }
   return root

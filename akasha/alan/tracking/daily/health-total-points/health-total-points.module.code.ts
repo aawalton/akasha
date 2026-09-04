@@ -1,6 +1,8 @@
 import { loadActiveCaloriesByDay } from "@akasha/health-samples-day/active-calories"
+import { kebabisedRow } from "@akasha/pages-system/akasha-page-values"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { asking } from "@akasha/pages-system-service/asking"
 import { decideTotalPointsWrite as decideTotalPointsWriteBridge } from "@akasha/personas-core/totals"
-import { askComposed } from "@tools/lib/page-query-client"
 import { z } from "zod"
 import { numberOf, textOf, WRITER } from "../day-scan-window/day-scan-window.module.code.ts"
 import {
@@ -11,6 +13,7 @@ import {
 import { CARDIO_PERSONA_TITLE } from "../persona-day-points/persona-day-points.module.code.ts"
 import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
 import { landTotalPoints } from "../persona-total-landing/persona-total-landing.module.code.ts"
+import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
 const decideTotalPointsWrite = decideTotalPointsWriteBridge as (
   stored: number | undefined,
@@ -113,6 +116,18 @@ function slugOf(p: z.infer<typeof PersonaRowSchema>): string {
   return (p.slug ?? p.title ?? "").toLowerCase()
 }
 
+function personaDayRows(
+  personaSlugs: readonly string[]
+): readonly Readonly<Record<string, unknown>>[] {
+  const asked = asking(rootFor(resolveRoots(), AKASHA), {
+    pageTypeSlug: PERSONA_DAY_PAGE_TYPE_SLUG,
+    where: { [camelizeKey(PERSONA_SLUG_KEY)]: { in: personaSlugs } },
+    keys: [PERSONA_SLUG_KEY, DATE_KEY, ACTIVE_CALORIES_KEY, POINTS_KEY].map(camelizeKey),
+  } as never)
+  if ("refused" in asked) throw new Error(`health totals: ${asked.refused}`)
+  return asked.rows.map((one) => kebabisedRow(one as Readonly<Record<string, unknown>>))
+}
+
 export interface HealthPersonaTotalReading {
   readonly personaId: string
   readonly personaTitle: string
@@ -136,20 +151,7 @@ export async function readHealthPersonaTotals(): Promise<readonly HealthPersonaT
     )
   }
 
-  const asked = await askComposed({
-    "page-type": PERSONA_DAY_PAGE_TYPE_SLUG,
-    where: { [PERSONA_SLUG_KEY]: { in: healthPersonas.map((p) => slugOf(p)) } },
-    keys: [PERSONA_SLUG_KEY, DATE_KEY, ACTIVE_CALORIES_KEY, POINTS_KEY],
-  })
-  if (!asked.ok) throw new Error(`health totals: ${asked.why}`)
-  const { n, rows } = asked
-  if (rows.length !== n) {
-    throw new Error(
-      `health totals: the ${PERSONA_DAY_PAGE_TYPE_SLUG} read came back with ${rows.length} of ` +
-        `${n} page(s), so any total summed from it would be low; nothing here writes a partial sum`
-    )
-  }
-  const progressRows = rows.map((row) => row.values)
+  const progressRows = personaDayRows(healthPersonas.map((p) => slugOf(p)))
 
   const derivedActiveCalories = await loadDerivedActiveCalories(progressRows)
   const rowsWithCardio = withDerivedActiveCalories(

@@ -4,6 +4,6 @@ export const trackingPages = {
   id: "01a069d3-579d-7d0c-a6f6-992140abdd20",
   pageTypeSlug: "module",
   slug: "tracking-pages",
-  definition: "asking the page store for one tracking page by name",
+  definition: "the values of one tracking page read as the narrow page its readers take",
   code: "ts",
 } as const satisfies Module

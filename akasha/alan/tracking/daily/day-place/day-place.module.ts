@@ -6,4 +6,5 @@ export const dayPlace = {
   slug: "day-place",
   definition: "where one of Alan's days is kept, and the one road every reader takes to reach it",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
