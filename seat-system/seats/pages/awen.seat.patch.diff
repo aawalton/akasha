@@ -1,0 +1,28 @@
+diff --git a/file-system/exclusive/exclusive.module.code.ts b/file-system/exclusive/exclusive.module.code.ts
+index 1133e48c95fd3530ad225a9c2475c14af704341b..536e3a213fd0b35dfbadaeec755829286a1289cb 100644
+--- a/file-system/exclusive/exclusive.module.code.ts
++++ b/file-system/exclusive/exclusive.module.code.ts
+@@ -69,9 +69,20 @@ export function exclusively<T>(path: string, act: () => T, waitMs: number = WAIT
+     if (abandoned(lock, file) && broke(lock, markIn(file))) continue
+     pause(SPIN_MS + Math.floor(Math.random() * SPIN_MS))
+   }
+-  try {
+-    return act()
+-  } finally {
++  const give = (): undefined => {
+     if (markIn(file) === mine) rmSync(lock, { recursive: true, force: true })
+   }
++  let held: T
++  try {
++    held = act()
++  } catch (failed) {
++    give()
++    throw failed
++  }
++  // An act that settles later returns the moment it first waits, and giving the turn up there
++  // would leave the rest of that act running with the path open to anyone. The turn is given up
++  // when such an act settles instead, so it spans the whole act either way.
++  if (held instanceof Promise) return held.finally(give) as T
++  give()
++  return held
+ }
