@@ -82,6 +82,8 @@ export function fileChapter(chapter: Filing): string {
   const root = akashaRoot()
   const slug = chapterPageSlug(chapter.position, chapterSlugOf(chapter.title))
   const values: Value = {
+    pageTypeSlug: CHAPTER_PAGE_TYPE,
+    slug,
     title: chapter.title,
     partOfSlugs: [STORY_SLUG],
     position: chapter.position,
