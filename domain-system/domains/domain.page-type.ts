@@ -40,7 +40,6 @@ export const domain = {
     "relation-property/invariant-kind",
     "relation-property/part-slugs",
     "relation-property/persona-champion-slug",
-    "relation-property/required-reading-slugs",
     "text-property/act",
     "text-property/aids",
     "text-property/definition",
