@@ -2,7 +2,7 @@ import { afterAll, test as check, expect } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratch, staged } from "@akasha/checks/typecheck/testing"
-import type { Given } from "../../calling/calling.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
 import {
   filesUnder,
   meaning,

@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const typecheck = {
   id: "01a06919-54ac-7a54-b45f-918762988e17",
