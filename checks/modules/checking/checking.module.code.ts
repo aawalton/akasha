@@ -226,7 +226,7 @@ export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
         recordCost(
           one.root,
           one.page,
-          costOf(before, taken(), phase, one.slug, change.changed.length, found.length)
+          costOf(before, closing(), phase, one.slug, change.changed.length, found.length)
         )
         said.push(...found)
       }
