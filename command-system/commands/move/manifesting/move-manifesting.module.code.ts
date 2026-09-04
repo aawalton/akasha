@@ -4,9 +4,7 @@ const MANIFEST = "package.json"
 
 const EXPORTS = "exports"
 
-const AKASHA = "akasha"
-
-const INSIDE = `${AKASHA}/`
+const HERE = "."
 
 const OPENING = "./"
 
@@ -28,13 +26,13 @@ export function manifestsOver(
 ): readonly Manifesting[] {
   const found = new Map<string, Manifesting>()
   for (const path of moved.keys()) {
-    let dir = dirname(path)
-    while (dir === AKASHA || dir.startsWith(INSIDE)) {
+    let dir: string | null = dirname(path)
+    while (dir !== null) {
       const at = join(dir, MANIFEST)
       if (!found.has(at) && there(at)) {
         found.set(at, { at, folder: dir, arriving: dirname(moved.get(at) ?? at) })
       }
-      dir = dirname(dir)
+      dir = dir === HERE ? null : dirname(dir)
     }
   }
   return [...found.values()].sort((one, two) => (one.at < two.at ? -1 : 1))
@@ -45,7 +43,7 @@ type Landing = { readonly said: string } | { readonly gone: true }
 function landingFor(held: Manifesting, value: string, moved: ReadonlyMap<string, string>): Landing {
   const was = join(held.folder, value)
   const arrived = moved.get(was) ?? was
-  const under = `${held.arriving}/`
+  const under = held.arriving === HERE ? "" : `${held.arriving}/`
   if (!arrived.startsWith(under)) return { gone: true }
   return { said: `${OPENING}${arrived.slice(under.length)}` }
 }
