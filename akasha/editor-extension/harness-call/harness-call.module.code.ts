@@ -4,7 +4,7 @@ import * as os from "node:os"
 import * as path from "node:path"
 import { promisify } from "node:util"
 import { answerBytesSaid } from "@akasha/command-system/answer-bytes"
-import { isServed } from "@tools/lib/verb-served"
+import { isServed } from "@akasha/command-system/commands-served"
 import {
   askServed,
   type Serving,
