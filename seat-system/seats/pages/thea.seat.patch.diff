@@ -1,0 +1,7 @@
+diff --git a/checks/code-checks/pages/file-has-its-page/stray-probe.txt b/checks/code-checks/pages/file-has-its-page/stray-probe.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..a30a6a30ca0b6afb7b4b28cfdfa46f14cb467958
+--- /dev/null
++++ b/checks/code-checks/pages/file-has-its-page/stray-probe.txt
+@@ -0,0 +1 @@
++a file no page claims
