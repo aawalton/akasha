@@ -1,0 +1,100 @@
+diff --git a/pages/akasha-page-values/akasha-page-values.module.ts b/pages/akasha-page-values/akasha-page-values.module.ts
+index 2655735c086490771c5282338c05c6f7ce0b4bec..900bc236227a095ed55478a5f1d5d10964fb5c6f 100644
+--- a/pages/akasha-page-values/akasha-page-values.module.ts
++++ b/pages/akasha-page-values/akasha-page-values.module.ts
+@@ -21,7 +21,7 @@ export const akashaPageValues = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A slug and a page type are taken off the file name only where the body states neither.",
++        "A slug and a page type are taken off the file name only where the body states no slug and no page type.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/query-shape/page-query-shape.module.ts b/pages/query-shape/page-query-shape.module.ts
+index 9c2e2d762ff328ef3bbf21599976a960403813c3..1fbfe763f1c76a793716239a1e1d0197d57de02a 100644
+--- a/pages/query-shape/page-query-shape.module.ts
++++ b/pages/query-shape/page-query-shape.module.ts
+@@ -13,7 +13,11 @@ export const pageQueryShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A query either counts by properties or reduces one, and the shape allows both.",
++      statement: "A query either counts by properties or reduces one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The shape allows a query stating both a count by properties and a reduction.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/service/page-reading/page-reading.module.ts b/pages/service/page-reading/page-reading.module.ts
+index 627bce2248cb0280d33da594032c1b34fb41b274..514937053f6b3c9e1ab200706fa7d7b213f45570 100644
+--- a/pages/service/page-reading/page-reading.module.ts
++++ b/pages/service/page-reading/page-reading.module.ts
+@@ -70,7 +70,7 @@ export const pageReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bodies of one read come back through one git process rather than one each.",
++      statement: "The bodies of one read come back through one git process.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-resolve/seat-resolve.module.ts b/seat-system/seat-resolve/seat-resolve.module.ts
+index ea4e492257ab9d727cbe93fb636305b95c451cfb..24b8399b1a7493fc0e8aba4316f61fb9d4f2eb57 100644
+--- a/seat-system/seat-resolve/seat-resolve.module.ts
++++ b/seat-system/seat-resolve/seat-resolve.module.ts
+@@ -21,7 +21,7 @@ export const seatResolve = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A slot stated twice is refused rather than resolved to either.",
++      statement: "A slot stated twice is refused.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seats/seat.page-type.ts b/seat-system/seats/seat.page-type.ts
+index 0fdc0dcd71edf4d8703a352abd6c6e5adbc03142..8d29fdee6a9cd7024720f33ee5a62c5c39b421e2 100644
+--- a/seat-system/seats/seat.page-type.ts
++++ b/seat-system/seats/seat.page-type.ts
+@@ -120,8 +120,11 @@ export const seat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A seat states the person who opened it or the seat that spawned it rather than both.",
++      statement: "A seat states the person who opened it or the seat that spawned it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No seat states both the person who opened it and the seat that spawned it.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/service-system/workstation-services/file-following/file-following.module.ts b/service-system/workstation-services/file-following/file-following.module.ts
+index 47ad990aa44021d4c1f52e6f0f7823b478833e18..3d80c516574ee5e5dfc6534b68a501ca82ad4973 100644
+--- a/service-system/workstation-services/file-following/file-following.module.ts
++++ b/service-system/workstation-services/file-following/file-following.module.ts
+@@ -31,7 +31,7 @@ export const fileFollowing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Word comes once for a burst of changes rather than once for each.",
++      statement: "Word comes once for a burst of changes rather than once for every change.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-addon-build/addon-metadata-files/addon-metadata-files.module.ts b/temper/temper-addon-build/addon-metadata-files/addon-metadata-files.module.ts
+index 3213b7063614e79ddbdd67b411f5cda1177ea5db..fbca704e098119891d53eaaf06915823aab32ae1 100644
+--- a/temper/temper-addon-build/addon-metadata-files/addon-metadata-files.module.ts
++++ b/temper/temper-addon-build/addon-metadata-files/addon-metadata-files.module.ts
+@@ -38,7 +38,7 @@ export const addonMetadataFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Markup and Lua are reached by one rule rather than by a rule each.",
++      statement: "Markup and Lua are reached by one rule.",
+     },
+     {
+       invariantKind: "constraint",
