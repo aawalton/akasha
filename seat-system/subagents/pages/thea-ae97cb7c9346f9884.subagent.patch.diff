@@ -175,3 +175,32 @@ index 46e50f0d9024c43a4c09ad2c496c0a4481efa984..d906ff417d9a79b1bdcc3155ca3fcef3
  })
  
  test("a path directory gone from an index that stands is a true empty rather than a refusal", () => {
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index dd84d173852d597f428a18b1876c5ce668258fc3..8330360b1d34e6e5b770df87a572a43486a61ecf 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -44,6 +44,24 @@ export const changeWalking = {
+       invariantKind: "departure",
+       statement: "A path standing at nothing reads as nothing rather than as unreadable.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A walk over everything takes what is in the tree rather than what the index names.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A file git leaves out of the tree is walked only where its name holds the reserved section `uncommitted`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An installed dependency is walked by nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A root that is no tree refuses the walk rather than taking nothing.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A body is opened rather than looked for and then opened.",
