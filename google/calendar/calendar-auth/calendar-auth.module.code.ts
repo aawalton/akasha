@@ -1,3 +1,4 @@
+import { makeGoogleOauthClient } from "@akasha/google-oauth/oauth-client"
 import { auth } from "@googleapis/calendar"
 import {
   CALENDAR_SCOPE,
@@ -19,8 +20,5 @@ export function makeAuthClient(): CalendarAuthClient {
 }
 
 export function makeOAuthClient(): CalendarOauthClient {
-  const { clientId, clientSecret, refreshToken } = readCalendarOauthCredentials()
-  const client = new auth.OAuth2({ clientId, clientSecret })
-  client.setCredentials({ refresh_token: refreshToken })
-  return client
+  return makeGoogleOauthClient(auth.OAuth2, readCalendarOauthCredentials())
 }
