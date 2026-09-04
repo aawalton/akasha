@@ -662,6 +662,19 @@ index d724b204ca2ab8994cba9332e8bd77eb4cb1b504..80bd3c3d7e5ab3afe757c6934aa8a07b
 +    },
 +  ],
  } as const satisfies RelationProperty
+diff --git a/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts b/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
+index 159ab844a0cfa0e226f15766b7dc9eafc10e5914..f2913d59194a1029411ddf8e7c677db6a55f3f34 100644
+--- a/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
++++ b/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
+@@ -10,7 +10,7 @@ function parentIdsOf(
+   idBySlug: ReadonlyMap<string, string>
+ ): readonly string[] {
+   const said = pt.properties?.extendsSlug
+-  const named = typeof said === "string" ? [said] : Array.isArray(said) ? said : []
++  const named = Array.isArray(said) ? said : []
+   const found: string[] = []
+   for (const one of named) {
+     if (typeof one !== "string" || one === "") continue
 diff --git a/pages/service/page-asking/page-asking.module.test.ts b/pages/service/page-asking/page-asking.module.test.ts
 index c9ba6c357c28e780649cd7b1d8a3373283eb35b2..ba8a3cf678c0b78abcb35a8bf9143517c448e31b 100644
 --- a/pages/service/page-asking/page-asking.module.test.ts
