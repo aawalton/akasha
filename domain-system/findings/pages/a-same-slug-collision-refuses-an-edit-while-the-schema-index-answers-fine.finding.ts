@@ -4,7 +4,7 @@ export const aSameSlugCollisionRefusesAnEditWhileTheSchemaIndexAnswersFine = {
   id: "01a068bd-995c-7bea-9427-54436916a6bf",
   pageTypeSlug: "finding",
   slug: "a-same-slug-collision-refuses-an-edit-while-the-schema-index-answers-fine",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/indexes",
   claim:
     "Two property pages sharing both slug and kind refuse an EDIT through the identity index while the schema index answers the same name fine, so the failure surfaces as a refusal on a page whose content is correct and names neither offending page. `schemaAt` keys on `pageTypeSlug/slug`, so a second page of one kind and slug overwrites the first and collapses to one entry; the identity index keeps a line for each and refuses the narrowing.",
   evidence:
