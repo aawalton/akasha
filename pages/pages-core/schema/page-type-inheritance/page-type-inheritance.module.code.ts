@@ -12,8 +12,6 @@ function parentIdOf(
     const byExtendsSlug = idBySlug.get(extendsSlug)
     if (byExtendsSlug !== undefined) return byExtendsSlug
   }
-  const parent = pt.properties?.extendsPageTypeId
-  if (typeof parent === "string" && parent.length > 0) return parent
   return undefined
 }
 
