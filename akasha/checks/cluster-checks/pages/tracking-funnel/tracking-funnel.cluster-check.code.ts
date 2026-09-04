@@ -7,6 +7,11 @@ import { parseArgs } from "@akasha/command-system/parse-args"
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import { codeRoot } from "@akasha/pages-system/code-root"
 import {
+  type AuditReading,
+  renderAuditReading,
+  summarizeAudit,
+} from "../../modules/audit-reading/audit-reading.module.code.ts"
+import {
   ALLOWED_TO_REACH,
   type Bypass,
   corpusOf,
@@ -17,12 +22,7 @@ import {
   type Reading,
   readingOf,
   WRITE_VERBS,
-} from "@tools/lib/tracking-funnel"
-import {
-  type AuditReading,
-  renderAuditReading,
-  summarizeAudit,
-} from "../../modules/audit-reading/audit-reading.module.code.ts"
+} from "../../modules/tracking-funnel-reading/tracking-funnel-reading.module.code.ts"
 
 const SUBJECT = "reaches around the day-place funnel anywhere outside akasha/"
 
@@ -126,7 +126,7 @@ export default function trackingFunnel(args: readonly string[]): void {
     `${String(placesOf(reading.bypasses).length)} file(s) reach around ` +
       `${NAMES_THE_FUNNEL}, the one thing that says where a day is kept. Land the write or ` +
       "ask the read through it, or say here why this reach is one the funnel does not govern by " +
-      "naming the file in `ALLOWED_TO_REACH` in tools/lib/tracking-funnel.ts."
+      "naming the file in `ALLOWED_TO_REACH` in akasha/checks/cluster-checks/modules/tracking-funnel-reading/tracking-funnel-reading.module.code.ts."
   )
 }
 

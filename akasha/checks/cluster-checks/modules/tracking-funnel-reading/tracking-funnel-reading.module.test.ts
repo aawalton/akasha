@@ -5,7 +5,7 @@
 // is a rule strong enough to make a namer of half the tree, and the fixture that proves it does
 // not is worth as much as the two that prove it does.
 import { expect, test } from "bun:test"
-import { type Corpus, readingOf } from "./tracking-funnel.ts"
+import { type Corpus, readingOf } from "./tracking-funnel-reading.module.code.ts"
 
 /**
  * A checkout in memory. `files` is the population; `outside` is in the checkout and read for its

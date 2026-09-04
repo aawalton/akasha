@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import {
   DAILY_TRACKING,
   SESSION_TRACKING,
-} from "../../akasha/alan/tracking/daily/day-place/day-place.module.code.ts"
+} from "../../../../alan/tracking/daily/day-place/day-place.module.code.ts"
 
 /**
  * The population: every TypeScript file in the repository outside `akasha/`.

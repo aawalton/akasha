@@ -77,6 +77,7 @@ export const clusterCheck = {
     "module/app-build-packages",
     "module/ast-grep-configs",
     "module/ast-grep-rules",
+    "module/tracking-funnel-reading",
     "module/audit-reading",
     "module/blank-comments",
     "module/checksum-annotation-pairing",
