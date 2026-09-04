@@ -117,6 +117,13 @@ export function taskEndedIn(body: string): string | null {
   return id === "" ? null : id
 }
 
+export function taskStoppedIn(said: unknown): string | null {
+  if (said === null || typeof said !== "object") return null
+  const record = said as { task_id?: unknown; task_type?: unknown }
+  if (typeof record.task_id !== "string" || record.task_id === "") return null
+  return typeof record.task_type === "string" ? record.task_id : null
+}
+
 function bodyOf(record: { message?: unknown; content?: unknown }): string {
   if (typeof record.content === "string") return record.content
   const message = record.message
@@ -160,7 +167,7 @@ export function scanRecords(text: string, was: TurnWorking): TurnScan {
       if (began.kind === SHELL_TASK) shells.add(began.id)
       else agents.add(began.id)
     }
-    const done = taskEndedIn(bodyOf(record))
+    const done = taskEndedIn(bodyOf(record)) ?? taskStoppedIn(record.toolUseResult)
     if (done !== null) {
       shells.delete(done)
       agents.delete(done)

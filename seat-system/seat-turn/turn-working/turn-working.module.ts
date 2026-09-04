@@ -68,6 +68,10 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
+      statement: "A task the seat stopped is live no longer.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A task started again after its notification is live again.",
     },
     {

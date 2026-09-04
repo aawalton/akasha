@@ -8,6 +8,7 @@ import {
   scanRecords,
   taskEndedIn,
   taskStartedIn,
+  taskStoppedIn,
   turnEnded,
   workingLines,
   workingOf,
@@ -127,6 +128,22 @@ test("a task started again after its notification is live again", () => {
   const found = scanRecords(`${AGENT_BEGAN}\n${AGENT_DONE}\n${AGENT_BEGAN}`, {})
 
   expect(found.openAgents).toEqual(["a0720858045309f22"])
+})
+
+const AGENT_STOPPED =
+  '{"type":"user","toolUseResult":{"message":"Successfully stopped task: a0720858045309f22 (Census)","task_id":"a0720858045309f22","task_type":"local_agent","command":"c"}}'
+
+test("a stop names the task the stop ends", () => {
+  expect(taskStoppedIn({ task_id: "b4mfbpvps", task_type: "local_bash" })).toBe("b4mfbpvps")
+  expect(taskStoppedIn({ task_id: "b4mfbpvps" })).toBeNull()
+  expect(taskStoppedIn({ backgroundTaskId: "b4mfbpvps" })).toBeNull()
+})
+
+test("a task the seat stopped is live no longer", () => {
+  const found = scanRecords(`${AGENT_BEGAN}\n${AGENT_STOPPED}`, {})
+
+  expect(found.openAgents).toEqual([])
+  expect(anyLiveSubagent(found)).toBe(false)
 })
 
 test("a reading kept in a shape this does not know is unread", () => {
