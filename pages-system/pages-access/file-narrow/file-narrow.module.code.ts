@@ -14,6 +14,10 @@ export function fieldFor(key: string, definitions: readonly PropertyDefinition[]
   return definitions.some((one) => one.id === canonical) ? canonical : key
 }
 
+export function declares(key: string, definitions: readonly PropertyDefinition[]): boolean {
+  return definitions.some((one) => one.id === camelizeKey(key))
+}
+
 function textOf(value: unknown): string | null {
   if (value === null || value === undefined) return null
   if (typeof value === "string") return value
