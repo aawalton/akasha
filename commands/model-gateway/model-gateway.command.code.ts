@@ -9,9 +9,9 @@ import { planSeatResolution, resolveSeatTarget } from "@akasha/seat-system/seat-
 import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
 import { seatsPresent } from "@akasha/seat-system/seat-roster"
 import { pidAliveOrRefuse } from "@akasha/utils-process/pid-signal"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 const STATUS = "status"
 
