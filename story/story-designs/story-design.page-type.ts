@@ -65,8 +65,6 @@ export const storyDesign = {
   extendsSlug: "page-type/page",
   runsTabooCheck: false,
   partSlugs: [
-    "file-property/prose",
-    "relation-property/world-slug",
     "text-property/story-premise",
     "text-property/story-genre",
     "text-property/story-tone",

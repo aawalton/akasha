@@ -29,9 +29,6 @@ export const storyDecision = {
   extendsSlug: "page-type/page",
   runsTabooCheck: false,
   partSlugs: [
-    "file-property/prose",
-    "number-property/chapter-number",
-    "relation-property/world-slug",
     "select-property/decision-type",
     "text-property/chosen",
     "text-property/decision-effect",

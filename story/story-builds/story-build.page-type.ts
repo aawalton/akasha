@@ -27,10 +27,7 @@ export const storyBuild = {
   extendsSlug: "page-type/page",
   runsTabooCheck: false,
   partSlugs: [
-    "file-property/prose",
     "number-property/build-level",
-    "number-property/chapter-number",
-    "relation-property/world-slug",
     "text-property/class-name",
     "text-property/game-system",
   ],
