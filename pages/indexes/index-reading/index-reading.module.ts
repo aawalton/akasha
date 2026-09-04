@@ -75,7 +75,8 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What imports a file is refused when the index does not describe HEAD.",
+      statement:
+        "What imports a file is refused when the index and HEAD differ in a path that makes an edge.",
     },
     {
       invariantKind: "departure",

@@ -116,7 +116,7 @@ export const indexes = {
     },
     {
       invariantKind: "gap",
-      statement: "Only what imports a file is refused when the index does not describe HEAD.",
+      statement: "Only what imports a file is refused, and only for a path that makes an edge.",
     },
     {
       invariantKind: "gap",
