@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
 
-export const storyUi = {
+export const ui = {
   id: "01a0628e-a5db-710f-96c6-55f3f7b2427a",
-  pageTypeSlug: "workspace-package",
-  slug: "story-ui",
+  pageTypeSlug: "domain",
+  slug: "ui",
   definition: "one game session shaped for the browser a player reads it in",
-  manifest: "json",
   partSlugs: [
     "module/alert-controls",
     "module/alert-notification",
@@ -38,4 +37,4 @@ export const storyUi = {
     "module/system-choice-card",
     "module/system-window-card",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

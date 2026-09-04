@@ -1467,54 +1467,6 @@
         "zod": "^4.3.6",
       },
     },
-    "story/tower": {
-      "name": "@akasha/story-tower",
-      "dependencies": {
-        "@akasha/story-engine-core": "workspace:*",
-        "@akasha/story-tower-core": "workspace:*",
-        "@akasha/story-tower-engine": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "story/tower/core": {
-      "name": "@akasha/story-tower-core",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
-    "story/tower/engine": {
-      "name": "@akasha/story-tower-engine",
-    },
-    "story/ui": {
-      "name": "@akasha/story-ui",
-      "dependencies": {
-        "@akasha/design-patterns": "workspace:*",
-        "@akasha/design-primitives": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-ui": "workspace:*",
-        "@akasha/pages-ui-components": "workspace:*",
-        "@akasha/pages-url": "workspace:*",
-        "@akasha/story-engine-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "lucide-react": ">=0.400",
-        "react": "^18 || ^19",
-      },
-    },
-    "story/wandering-inn": {
-      "name": "@akasha/wandering-inn",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
-        "@akasha/story-engine-core": "workspace:*",
-        "playwright-core": "1.61.1",
-      },
-    },
     "supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
@@ -3231,14 +3183,6 @@
 
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
-    "@akasha/story-tower": ["@akasha/story-tower@workspace:story/tower"],
-
-    "@akasha/story-tower-core": ["@akasha/story-tower-core@workspace:story/tower/core"],
-
-    "@akasha/story-tower-engine": ["@akasha/story-tower-engine@workspace:story/tower/engine"],
-
-    "@akasha/story-ui": ["@akasha/story-ui@workspace:story/ui"],
-
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:supabase-auth"],
 
     "@akasha/supabase-client": ["@akasha/supabase-client@workspace:supabase-client"],
@@ -3562,8 +3506,6 @@
     "@akasha/voice-inference": ["@akasha/voice-inference@workspace:infrastructure/voice-inference"],
 
     "@akasha/wan": ["@akasha/wan@workspace:infrastructure/wan"],
-
-    "@akasha/wandering-inn": ["@akasha/wandering-inn@workspace:story/wandering-inn"],
 
     "@akasha/web-build-version": ["@akasha/web-build-version@workspace:version/web-build"],
 

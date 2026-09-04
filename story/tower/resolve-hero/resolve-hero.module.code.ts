@@ -4,7 +4,7 @@ import {
   type ChapterEntry,
   type Illustration,
   parseIllustrations,
-} from "@akasha/story-tower-core/tower-state"
+} from "../core/tower-state/tower-state.module.code.ts"
 
 export async function loadIllustrations(statePath: string): Promise<readonly Illustration[]> {
   const path = join(dirname(statePath), "illustrations.json")

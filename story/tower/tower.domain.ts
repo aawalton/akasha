@@ -1,12 +1,13 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
 
-export const storyTower = {
+export const tower = {
   id: "01a05bc6-fa4a-700a-99c7-cbcfb62ed5ee",
-  pageTypeSlug: "workspace-package",
-  slug: "story-tower",
+  pageTypeSlug: "domain",
+  slug: "tower",
   definition: "a tower game's chapters, rolls and combatants as its saved story holds them",
-  manifest: "json",
   partSlugs: [
+    "domain/core",
+    "domain/engine",
     "module/tower-page-slugs",
     "module/combat-mapping",
     "module/roll-payload",
@@ -29,4 +30,4 @@ export const storyTower = {
       statement: "A saved game is read by the shapes story-tower-core states.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

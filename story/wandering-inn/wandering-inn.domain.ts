@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
 
 export const wanderingInn = {
   id: "01a06578-5721-7000-ac18-7acf6bd4ad0b",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "wandering-inn",
   definition: "The Wandering Inn as a website read for its chapters",
-  manifest: "json",
   partSlugs: [
     "module/chapter",
     "module/chapter-filing",
@@ -27,4 +26,4 @@ export const wanderingInn = {
       statement: "Nothing here reaches the page store over the network.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

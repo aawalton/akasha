@@ -1,10 +1,14 @@
-import { chapterTitleOf, isPatronTitle, strippedOfTrailingNav } from "@akasha/wandering-inn/chapter"
-import { type ListedChapter, openSite, type Site } from "@akasha/wandering-inn/site"
+import {
+  chapterTitleOf,
+  isPatronTitle,
+  strippedOfTrailingNav,
+} from "../chapter/chapter.module.code.ts"
 import {
   assertStoryStands,
   fileChapter,
   filedChapterLinks,
 } from "../chapter-filing/chapter-filing.module.code.ts"
+import { type ListedChapter, openSite, type Site } from "../site/site.module.code.ts"
 import {
   type RunCounts,
   recordingRun,

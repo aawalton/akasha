@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domain-system/domains/domain.page-type.ts"
 
-export const storyTowerEngine = {
+export const engine = {
   id: "01a05bc6-fa4a-7005-8f08-d59b290679dd",
-  pageTypeSlug: "workspace-package",
-  slug: "story-tower-engine",
+  pageTypeSlug: "domain",
+  slug: "engine",
   definition: "how one attack in a tower game is worked out from two sheets and a seed",
-  manifest: "json",
   partSlugs: ["module/combat-types", "module/derive", "module/rng", "module/resolve-action"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const storyTowerEngine = {
       statement: "An attack answers with a line describing itself.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

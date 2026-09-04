@@ -1,11 +1,11 @@
+import { z } from "zod"
 import {
   CharacterSkillSchema,
   type GameCharacterSheet,
-} from "@akasha/story-tower-core/character-schema"
-import type { FloorEnemy } from "@akasha/story-tower-core/floor-schema"
-import type { Hud } from "@akasha/story-tower-core/revealed-sheet"
-import type { Sheet as CombatSheet } from "@akasha/story-tower-engine/combat-types"
-import { z } from "zod"
+} from "../core/character-schema/character-schema.module.code.ts"
+import type { FloorEnemy } from "../core/floor-schema/floor-schema.module.code.ts"
+import type { Hud } from "../core/revealed-sheet/revealed-sheet.module.code.ts"
+import type { Sheet as CombatSheet } from "../engine/combat-types/combat-types.module.code.ts"
 
 export type PersistedCombatant = GameCharacterSheet | FloorEnemy
 
