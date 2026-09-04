@@ -100,7 +100,6 @@
     "./eso-writ-tooltip": "./eso-writ-tooltip/eso-writ-tooltip.type-declaration.d.ts",
     "./tstl-eso-sandbox": "./tstl-eso-sandbox/tstl-eso-sandbox.type-declaration.d.ts",
     "./tstl-language-extensions": "./tstl-language-extensions/tstl-language-extensions.type-declaration.d.ts",
-    "./tstl-lua-length": "./tstl-lua-length/tstl-lua-length.type-declaration.d.ts",
-    "./tstl-performance-global": "./tstl-performance-global/tstl-performance-global.type-declaration.d.ts"
+    "./tstl-lua-length": "./tstl-lua-length/tstl-lua-length.type-declaration.d.ts"
   }
 }
