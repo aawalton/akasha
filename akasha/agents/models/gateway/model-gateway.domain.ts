@@ -6,6 +6,7 @@ export const modelGateway = {
   slug: "model-gateway",
   definition: "what sits between an agent and the model it is asking",
   partSlugs: [
+    "command/gateway-start",
     "module/account-picker",
     "module/account-walk",
     "module/anthropic-error-envelope",
@@ -40,6 +41,7 @@ export const modelGateway = {
     "module/proxy-entry",
     "module/proxy-headers",
     "module/proxy-process",
+    "module/proxy-run",
     "module/proxy-seats",
     "module/proxy-serving",
     "module/proxy-start",
