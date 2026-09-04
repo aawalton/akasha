@@ -29,9 +29,9 @@ const LANDED = { ok: true as const, at: "reached-nothing" }
  * `akasha-day.module.test.ts` when the two ran together. Spreading the real module first
  * leaves `rowsBeside` and its siblings standing.
  *
- * A second mock sat beside this one, over `@tools/lib/page-query-client`, and it is gone with the
- * markdown store's client. Nothing here needs to stub a store the funnel no longer reaches, and a
- * mock of a module that does not resolve is a mock nothing could ever call.
+ * A second mock sat beside this one, over the markdown store's client, and it is gone with that
+ * client. Nothing here needs to stub a store the funnel no longer reaches, and a mock of a module
+ * that does not resolve is a mock nothing could ever call.
  */
 const realAkashaDay = await import("../akasha-day/akasha-day.module.code.ts")
 
