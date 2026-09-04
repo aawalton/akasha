@@ -1,0 +1,12 @@
+diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
+index 3a555d65f12c70571dcf8c0d10aa4163480ebf48..77d2e724419fbc7bb3efe252e4c83e398d6a8ad4 100644
+--- a/checks/checks.workspace-package.ts
++++ b/checks/checks.workspace-package.ts
+@@ -17,6 +17,7 @@ export const checks = {
+     "module/check-scratch",
+     "module/checking",
+     "module/change-walking",
++    "module/check-cost",
+     "module/run-cost",
+     "module/shape-saying",
+   ],
