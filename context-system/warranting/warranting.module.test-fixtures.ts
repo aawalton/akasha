@@ -10,9 +10,9 @@ import { mintedId } from "@akasha/testing-system/minting"
 
 const HERE = rootOf(import.meta.path)
 
-const WARRANTS_IN = "akasha/context-system/context-warrants"
+const WARRANTS_IN = "context-system/context-warrants"
 
-const WARRANTING_IN = "akasha/context-system/warranting"
+const WARRANTING_IN = "context-system/warranting"
 
 const CONTEXT_WARRANT = "context-warrant"
 
