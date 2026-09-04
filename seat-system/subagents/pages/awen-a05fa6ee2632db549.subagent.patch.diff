@@ -1,0 +1,16 @@
+diff --git a/checks/modules/judging/judging.module.code.ts b/checks/modules/judging/judging.module.code.ts
+index 36d65a989a5d546f8bbc16b5a4feadd8a04fa2d1..a63ca082e6ad73dd079f3f6f8e8c00f710eb70de 100644
+--- a/checks/modules/judging/judging.module.code.ts
++++ b/checks/modules/judging/judging.module.code.ts
+@@ -11,7 +11,10 @@ export type Running = (change: Change, shadow: Shadow) => readonly Judged[]
+ 
+ export type RunningAsync = (change: Change, shadow: Shadow) => Promise<readonly Judged[]>
+ 
+-export type AnyRunning = Running | RunningAsync
++export type AnyRunning = (
++  change: Change,
++  shadow: Shadow
++) => readonly Judged[] | Promise<readonly Judged[]>
+ 
+ export type Judging = {
+   readonly named: readonly string[]
