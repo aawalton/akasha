@@ -37,6 +37,7 @@ export const commandSystem = {
     "module/gate-building",
     "module/holding",
     "module/judged-saying",
+    "module/landing-saying",
     "module/piping",
     "module/reading",
     "module/searching",

@@ -19,6 +19,7 @@
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./holding": "./holding/holding.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",
+    "./landing-saying": "./landing-saying/landing-saying.module.code.ts",
     "./piping": "./piping/piping.module.code.ts",
     "./prose-routing": "./prose-routing/prose-routing.module.code.ts",
     "./reading": "./reading/reading.module.code.ts",
