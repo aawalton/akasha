@@ -1,14 +1,14 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Date as ReviewedOn } from "../../alan/tracking/daily/wake-days/properties/date.text-property.ts"
-import type { PersonaSlug } from "../../domain-system/initiatives/properties/persona-slug.relation-property.ts"
 import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
 import type { ReviewSessionNotes } from "./properties/review-session-notes.file-property.ts"
+import type { SessionPersonaSlug } from "./properties/session-persona-slug.relation-property.ts"
 
 export type ReviewSession = Page & {
   title: Title
-  personaSlug: PersonaSlug
+  personaSlug: SessionPersonaSlug
   date: ReviewedOn
   notes: ReviewSessionNotes
   icon?: Icon
@@ -21,7 +21,7 @@ export const reviewSession = {
   definition: "one pass a persona made over the part of Alan's life she watches",
   pluralSlug: "review-sessions",
   extendsSlug: "page-type/page",
-  partSlugs: ["file-property/review-session-notes"],
+  partSlugs: ["file-property/review-session-notes", "relation-property/session-persona-slug"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "persona-slug", required: true, many: false },
