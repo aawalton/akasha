@@ -46,6 +46,7 @@ export function boundedAt(text: string, at: number, was: string): boolean {
   const before = at === 0 ? "" : text.slice(at - 1, at)
   const after = text.slice(at + was.length, at + was.length + 1)
   if (before !== "" && LEADING.test(before)) return false
+  if (!was.includes(PARTED_BY)) return after === PARTED_BY
   return after === "" || !SEGMENT.test(after)
 }
 

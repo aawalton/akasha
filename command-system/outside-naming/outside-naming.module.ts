@@ -51,6 +51,10 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A name holding no slash is respelled only where a slash goes on under that name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A character a pattern would read as a pattern is looked for as that character.",
     },
     {

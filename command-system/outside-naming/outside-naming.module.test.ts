@@ -54,6 +54,19 @@ test("a name a path character leads and a name a package name leads are left alo
   expect(said).toBe('xakasha/one "@akasha/one" "repo/akasha/one" "akasha/far/one"')
 })
 
+test("a name holding no slash is respelled only where a slash goes on under that name", () => {
+  const named = new Map([["one-system", "first"]])
+  const held = '"one-system/held" "one-system" one-system, one-system-other'
+  const want = '"first/held" "one-system" one-system, one-system-other'
+  expect(respeltNames(held, named)).toBe(want)
+})
+
+test("a name a page states as a relation rather than a place is left alone", () => {
+  const named = new Map([["one-system", "first"]])
+  const held = `  championedDomainSlug: "one-system",\n`
+  expect(respeltNames(held, named)).toBe(held)
+})
+
 test("the longest name matching at one place is the name written back", () => {
   const named = new Map([...NAMED, ["akasha/one/held.ts", "akasha/far/held.ts"]])
   expect(respeltNames('"akasha/one/held.ts"', named)).toBe('"akasha/far/held.ts"')
