@@ -10,7 +10,7 @@ export const astraPagesCleanup = {
     {
       statement: "All pages-specific files are organized in the pages/ folder.",
       workingMemory:
-        "`pages-system/` holds 1619 files in 689 folders and 11 nested packages. `packageIn` in `a-page-type-with-its-parts` demands the paired package's slug equal the page type's `pluralSlug`, so the package is re-slugged `pages` and `page.page-type.ts` hoists out of `pages-system/pages/` to sit beside it. Resolution is by manifest `name` under a `**` workspace glob, never by folder path, so the folder moves without touching the 3274 `@akasha/pages-system` occurrences in 2596 files.",
+        "`pages/` holds 1619 files in 689 folders and 11 nested packages. `packageIn` in `a-page-type-with-its-parts` demands the paired package's slug equal the page type's `pluralSlug`, so the package is re-slugged `pages` and `page.page-type.ts` hoists out of `pages/pages/` to sit beside it. Resolution is by manifest `name` under a `**` workspace glob, never by folder path, so the folder moves without touching the 3274 `@akasha/pages-system` occurrences in 2596 files.",
     },
     {
       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",

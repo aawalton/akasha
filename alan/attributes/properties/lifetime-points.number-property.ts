@@ -1,4 +1,4 @@
-import type { NumberProperty } from "../../../pages-system/number-properties/number-property.page-type.ts"
+import type { NumberProperty } from "../../../pages/number-properties/number-property.page-type.ts"
 
 export type LifetimePoints = number
 

@@ -1167,10 +1167,10 @@
     "pages-system": {
       "name": "@akasha/pages-system",
     },
-    "pages-system/indexes": {
+    "pages/indexes": {
       "name": "@akasha/indexes",
     },
-    "pages-system/page-commands": {
+    "pages/page-commands": {
       "name": "@akasha/page-commands",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
@@ -1178,7 +1178,7 @@
         "@akasha/pages-system": "workspace:*",
       },
     },
-    "pages-system/pages-access": {
+    "pages/pages-access": {
       "name": "@akasha/pages-access",
       "dependencies": {
         "@akasha/file-page-identity": "workspace:*",
@@ -1191,7 +1191,7 @@
         "zod": "^4.3.6",
       },
     },
-    "pages-system/pages-core": {
+    "pages/pages-core": {
       "name": "@akasha/pages-core",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -1203,19 +1203,19 @@
         "zod": "^4.3.6",
       },
     },
-    "pages-system/pages-formula": {
+    "pages/pages-formula": {
       "name": "@akasha/pages-formula",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "pages-system/pages-query": {
+    "pages/pages-query": {
       "name": "@akasha/pages-query",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "pages-system/pages-ui": {
+    "pages/pages-ui": {
       "name": "@akasha/pages-ui",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
@@ -1242,7 +1242,7 @@
         "react-router": ">=7",
       },
     },
-    "pages-system/pages-ui-store": {
+    "pages/pages-ui-store": {
       "name": "@akasha/pages-ui-store",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
@@ -1257,7 +1257,7 @@
         "react": "^18 || ^19",
       },
     },
-    "pages-system/pages-ui/components": {
+    "pages/pages-ui/components": {
       "name": "@akasha/pages-ui-components",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -1285,10 +1285,10 @@
         "react": "^18 || ^19",
       },
     },
-    "pages-system/pages-url": {
+    "pages/pages-url": {
       "name": "@akasha/pages-url",
     },
-    "pages-system/service": {
+    "pages/service": {
       "name": "@akasha/pages-system-service",
     },
     "person-system": {
@@ -3119,7 +3119,7 @@
 
     "@akasha/imessage": ["@akasha/imessage@workspace:imessage"],
 
-    "@akasha/indexes": ["@akasha/indexes@workspace:pages-system/indexes"],
+    "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 
     "@akasha/inference-clients": ["@akasha/inference-clients@workspace:infrastructure/inference-clients"],
 
@@ -3157,27 +3157,27 @@
 
     "@akasha/object-store": ["@akasha/object-store@workspace:object-store"],
 
-    "@akasha/page-commands": ["@akasha/page-commands@workspace:pages-system/page-commands"],
+    "@akasha/page-commands": ["@akasha/page-commands@workspace:pages/page-commands"],
 
-    "@akasha/pages-access": ["@akasha/pages-access@workspace:pages-system/pages-access"],
+    "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/pages-access"],
 
-    "@akasha/pages-core": ["@akasha/pages-core@workspace:pages-system/pages-core"],
+    "@akasha/pages-core": ["@akasha/pages-core@workspace:pages/pages-core"],
 
-    "@akasha/pages-formula": ["@akasha/pages-formula@workspace:pages-system/pages-formula"],
+    "@akasha/pages-formula": ["@akasha/pages-formula@workspace:pages/pages-formula"],
 
-    "@akasha/pages-query": ["@akasha/pages-query@workspace:pages-system/pages-query"],
+    "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/pages-query"],
 
     "@akasha/pages-system": ["@akasha/pages-system@workspace:pages-system"],
 
-    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:pages-system/service"],
+    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:pages/service"],
 
-    "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages-system/pages-ui"],
+    "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/pages-ui"],
 
-    "@akasha/pages-ui-components": ["@akasha/pages-ui-components@workspace:pages-system/pages-ui/components"],
+    "@akasha/pages-ui-components": ["@akasha/pages-ui-components@workspace:pages/pages-ui/components"],
 
-    "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages-system/pages-ui-store"],
+    "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages/pages-ui-store"],
 
-    "@akasha/pages-url": ["@akasha/pages-url@workspace:pages-system/pages-url"],
+    "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/pages-url"],
 
     "@akasha/person-system": ["@akasha/person-system@workspace:person-system"],
 

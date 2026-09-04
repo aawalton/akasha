@@ -2,9 +2,9 @@ import {
   everyOfType,
   idsNaming,
   typeSlugOf,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { partedIn } from "../../pages-system/pages/file-name/page-file-name.module.code.ts"
-import { valueAt } from "../../pages-system/pages/value/page-value.module.code.ts"
+} from "../../pages/indexes/index-reading/index-reading.module.code.ts"
+import { partedIn } from "../../pages/pages/file-name/page-file-name.module.code.ts"
+import { valueAt } from "../../pages/pages/value/page-value.module.code.ts"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 

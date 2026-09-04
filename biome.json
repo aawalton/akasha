@@ -114,7 +114,7 @@
       }
     },
     {
-      "includes": ["pages-system/pages-core/**"],
+      "includes": ["pages/pages-core/**"],
       "linter": {
         "rules": {
           "style": {

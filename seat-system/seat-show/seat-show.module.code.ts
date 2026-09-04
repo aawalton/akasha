@@ -1,23 +1,23 @@
 import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { declaredSeatReading } from "../declared-seat-reading/declared-seat-reading.module.code.ts"
+import { documentsOnDemand } from "../documents-on-demand/documents-on-demand.module.code.ts"
+import type { Args } from "../seat-args/seat-args.module.code.ts"
+import { documentNamed } from "../seat-attribute/seat-attribute.module.code.ts"
 import {
   ATTRIBUTES,
   type Attributes,
   type Mode,
   type ModeRecord,
   ownAttributesOf,
-} from "../../seat-system/seat-attributes/seat-attributes.module.code.ts"
-import { flexLine } from "../../seat-system/seat-flex/seat-flex.module.code.ts"
-import { initiativeLine } from "../../seat-system/seat-initiative/seat-initiative.module.code.ts"
-import { onCallLine } from "../../seat-system/seat-on-call/seat-on-call.module.code.ts"
-import { seatNameForAgent } from "../../seat-system/seat-presence-read/seat-presence-read.module.code.ts"
-import { principalLine } from "../../seat-system/seat-principal/seat-principal.module.code.ts"
-import { registrationAccountLine } from "../../seat-system/seat-registration-account/seat-registration-account.module.code.ts"
-import { type Stated, statedOf } from "../../seat-system/seat-stated/seat-stated.module.code.ts"
-import { declaredSeatReading } from "../declared-seat-reading/declared-seat-reading.module.code.ts"
-import { documentsOnDemand } from "../documents-on-demand/documents-on-demand.module.code.ts"
-import type { Args } from "../seat-args/seat-args.module.code.ts"
-import { documentNamed } from "../seat-attribute/seat-attribute.module.code.ts"
+} from "../seat-attributes/seat-attributes.module.code.ts"
+import { flexLine } from "../seat-flex/seat-flex.module.code.ts"
+import { initiativeLine } from "../seat-initiative/seat-initiative.module.code.ts"
+import { onCallLine } from "../seat-on-call/seat-on-call.module.code.ts"
+import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
+import { principalLine } from "../seat-principal/seat-principal.module.code.ts"
+import { registrationAccountLine } from "../seat-registration-account/seat-registration-account.module.code.ts"
+import { type Stated, statedOf } from "../seat-stated/seat-stated.module.code.ts"
 import {
   turnEndReadingLine,
   turnEndReadingOf,

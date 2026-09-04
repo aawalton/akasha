@@ -11,7 +11,7 @@ const SUFFIX = ".json"
 
 // What the kept answers are allowed to stand in on disk. Answers worked out from different states
 // stand beside one another rather than replacing each other, so nothing in the writing path takes
-// an old state away and the set is bounded from outside it. pages-system/page-answer-sweeping bounds
+// an old state away and the set is bounded from outside it. pages/page-answer-sweeping bounds
 // it in time, hourly, by taking away what has gone unused for a day. This bounds it in bytes,
 // because time alone is no bound when the churn is unbounded: a whole state's answers measured
 // 1.24MB in this checkout and a busy hour laid down 20.9MB of them, which is around 500MB in the

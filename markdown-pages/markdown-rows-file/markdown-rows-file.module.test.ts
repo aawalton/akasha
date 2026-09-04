@@ -13,7 +13,7 @@ import {
   rowsNamingOf,
   rowsPartOf,
   rowsPartsOf,
-} from "../markdown-rows-file/markdown-rows-file.module.code.ts"
+} from "./markdown-rows-file.module.code.ts"
 
 const MARKDOWN_DAY = "pages/daily-tracking/2026-03-05.daily-tracking.md"
 

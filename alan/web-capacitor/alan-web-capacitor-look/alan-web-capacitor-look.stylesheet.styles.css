@@ -21,6 +21,6 @@
 @source "../../../design/forms/**/*.{ts,tsx}";
 @source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";
-@source "../../../pages-system/pages-ui/**/*.{ts,tsx}";
+@source "../../../pages/pages-ui/**/*.{ts,tsx}";
 @source "../../web/**/*.{ts,tsx}";
 @source "../**/*.{ts,tsx}";

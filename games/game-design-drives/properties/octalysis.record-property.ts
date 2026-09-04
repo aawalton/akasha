@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../../pages-system/record-properties/record-property.page-type.ts"
+import type { RecordProperty } from "../../../pages/record-properties/record-property.page-type.ts"
 import type { OctalysisDefinition } from "./octalysis-definition.text-property.ts"
 import type { OctalysisName } from "./octalysis-name.text-property.ts"
 import type { OctalysisNumber } from "./octalysis-number.number-property.ts"

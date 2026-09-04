@@ -9,8 +9,8 @@
  * page under `akasha/` spells its keys camel.
  *
  * The two jsonl sidecars become `page-property-entry` properties. That page type is landed
- * (`pages-system/page-property-entries/page-property-entry.page-type.ts`) and its read path
- * is landed (`pages-system/pages/entries/page-entries.module.code.ts`). A page states
+ * (`pages/page-property-entries/page-property-entry.page-type.ts`) and its read path
+ * is landed (`pages/pages/entries/page-entries.module.code.ts`). A page states
  * such a property as the extension of the file beside it — `sessions: "jsonl"` — and `besideAt` in
  * `page-file-name.module.code.ts` builds that file's name as the page's path with the extension
  * dropped, then the property slug, then what the file holds. For a page at

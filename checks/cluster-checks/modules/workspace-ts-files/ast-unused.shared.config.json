@@ -16,7 +16,7 @@
         "**/*.ts"
       ]
     },
-    "pages-system/pages-access": {
+    "pages/pages-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -24,7 +24,7 @@
         "**/*.ts"
       ]
     },
-    "pages-system/pages-core": {
+    "pages/pages-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -32,7 +32,7 @@
         "**/*.ts"
       ]
     },
-    "pages-system/pages-url": {
+    "pages/pages-url": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -40,7 +40,7 @@
         "**/*.ts"
       ]
     },
-    "pages-system/pages-ui-store": {
+    "pages/pages-ui-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

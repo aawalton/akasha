@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../../pages-system/boolean-properties/boolean-property.page-type.ts"
+import type { BooleanProperty } from "../../../pages/boolean-properties/boolean-property.page-type.ts"
 
 export type RunsChecks = boolean
 

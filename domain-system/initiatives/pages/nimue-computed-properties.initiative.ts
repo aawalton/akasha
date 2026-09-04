@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "`pages-system/formula-properties/formula-property.page-type.ts` already does the formula case, so this generalises rather than starts. It states `holds` and a `formula` string. What is missing is rollup and aggregate, and a calculation that is a function rather than text. Start from `pages-system/page-properties/page-property.page-type.ts` and `code-system/modules/module.page-type.ts`, which the new type extends both of.",
+        "`pages/formula-properties/formula-property.page-type.ts` already does the formula case, so this generalises rather than starts. It states `holds` and a `formula` string. What is missing is rollup and aggregate, and a calculation that is a function rather than text. Start from `pages/page-properties/page-property.page-type.ts` and `code-system/modules/module.page-type.ts`, which the new type extends both of.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
@@ -20,7 +20,7 @@ export const nimueComputedProperties = {
     {
       statement: "No calculation is written as an expression the system parses.",
       workingMemory:
-        "`pages-system/page-formulas` parses text like `case({faith-points} >= 2 -> 4, otherwise -> 0)` and `({active-calories} ?? 0) + ({strength-calories} ?? 0)`. wake-day carries sixteen formula properties: six *-level, six *-stoplight, stoplights, total-level, activity-calories, strength-calories. `pages-system/service/page-asking` imports the parser, and `alan/tracking/daily/day-figures` has no code importer. All sixteen are carried to functions before the parser goes.",
+        "`pages/page-formulas` parses text like `case({faith-points} >= 2 -> 4, otherwise -> 0)` and `({active-calories} ?? 0) + ({strength-calories} ?? 0)`. wake-day carries sixteen formula properties: six *-level, six *-stoplight, stoplights, total-level, activity-calories, strength-calories. `pages/service/page-asking` imports the parser, and `alan/tracking/daily/day-figures` has no code importer. All sixteen are carried to functions before the parser goes.",
     },
     {
       statement: "Sleep hours and surplus hours answer from a calculation.",

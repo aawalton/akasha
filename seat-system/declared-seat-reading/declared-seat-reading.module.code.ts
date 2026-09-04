@@ -5,15 +5,15 @@ import {
   declaredPathReading,
 } from "../../domain-system/domain-documents/domain-documents.module.code.ts"
 import { personaAt } from "../../persona-system/persona-reading/persona-reading.module.code.ts"
-import { FLEET } from "../../seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import { FLEET } from "../compose-seat-name/compose-seat-name.module.code.ts"
+import type { SeatDocument } from "../seat-attribute/seat-attribute.module.code.ts"
 import {
   ATTRIBUTES,
   type Attributes,
   type Claimant,
   type Mode,
-} from "../../seat-system/seat-attributes/seat-attributes.module.code.ts"
-import { initiativePlaceOf } from "../../seat-system/seat-initiative/seat-initiative.module.code.ts"
-import type { SeatDocument } from "../seat-attribute/seat-attribute.module.code.ts"
+} from "../seat-attributes/seat-attributes.module.code.ts"
+import { initiativePlaceOf } from "../seat-initiative/seat-initiative.module.code.ts"
 
 export interface Warranted {
   readonly claimant: Claimant

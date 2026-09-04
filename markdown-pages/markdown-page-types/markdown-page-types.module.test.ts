@@ -1,9 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  claimant,
-  type PageType,
-  typeSlotOf,
-} from "../markdown-page-types/markdown-page-types.module.code.ts"
+import { claimant, type PageType, typeSlotOf } from "./markdown-page-types.module.code.ts"
 
 function typeNamed(slug: string): PageType {
   return {

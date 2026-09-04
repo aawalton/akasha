@@ -3,10 +3,10 @@ import {
   idsNaming,
   type Listed,
   readingIn,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { kindsUnder } from "../../pages-system/page-types/descent/page-type-descent.module.code.ts"
-import { partedIn } from "../../pages-system/pages/file-name/page-file-name.module.code.ts"
-import { type Value, valueAt } from "../../pages-system/pages/value/page-value.module.code.ts"
+} from "../../pages/indexes/index-reading/index-reading.module.code.ts"
+import { kindsUnder } from "../../pages/page-types/descent/page-type-descent.module.code.ts"
+import { partedIn } from "../../pages/pages/file-name/page-file-name.module.code.ts"
+import { type Value, valueAt } from "../../pages/pages/value/page-value.module.code.ts"
 
 const DOMAIN = "domain"
 

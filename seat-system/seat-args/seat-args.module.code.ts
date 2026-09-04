@@ -1,9 +1,6 @@
 import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import {
-  type Principal,
-  principals,
-} from "../../seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import { type Principal, principals } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ASSIGNMENTS,
   ATTRIBUTES,
@@ -11,7 +8,7 @@ import {
   type Declaration,
   MODES,
   type Mode,
-} from "../../seat-system/seat-attributes/seat-attributes.module.code.ts"
+} from "../seat-attributes/seat-attributes.module.code.ts"
 
 export interface Args {
   readonly set: Partial<Record<Declaration, string>>

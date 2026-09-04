@@ -6,7 +6,7 @@ import {
   TEXTS,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
-const INDEXES = "pages-system/indexes/"
+const INDEXES = "pages/indexes/"
 
 const AT = indexNamed()
 

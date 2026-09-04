@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../../pages-system/text-properties/text-property.page-type.ts"
+import type { TextProperty } from "../../../pages/text-properties/text-property.page-type.ts"
 
 export type OctalysisDefinition = string
 

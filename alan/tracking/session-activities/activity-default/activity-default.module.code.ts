@@ -7,7 +7,7 @@ import { pageStem } from "@akasha/named-for/page-stem"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import { readDifficulty } from "../../../../command-system/commands/track/session-leveling/session-leveling.module.code.ts"
-import { composedFor } from "../../../../pages-system/service/page-composing/page-composing.module.code.ts"
+import { composedFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
 
 export const summary =
   "Set an activity's default difficulty, which is what a session whose title names it rates at"
