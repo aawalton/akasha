@@ -292,7 +292,9 @@ test("a check whose input could not be answered runs, its neighbour taken as it 
     "input-throws",
     "input-ts",
   ])
-  expect((await judgingBy(every).over(overMd)).map((one) => one.reason)).toEqual(["woke anyway"])
+  expect((await judgingBy(every, "patch").over(overMd)).map((one) => one.reason)).toEqual([
+    "woke anyway",
+  ])
 })
 
 test("a check a changed path is input to runs, and judges every path in the change", async () => {
