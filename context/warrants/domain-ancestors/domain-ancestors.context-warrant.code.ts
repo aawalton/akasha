@@ -1,7 +1,7 @@
 import { idsNaming, type Listed, listedAddressed, listedAt, listedById } from "@akasha/indexes"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const ABOVE =
   "A seat answers for one domain, and every domain that one is a part of is read before the seat is changed."

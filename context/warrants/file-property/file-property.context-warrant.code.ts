@@ -4,7 +4,11 @@ import { listedAt, schemaOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { slugFor } from "@akasha/pages-system/page-property-key"
-import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
+import {
+  blobAt,
+  type Knowing,
+  type Warrant,
+} from "../../modules/warranting/warranting.module.code.ts"
 
 export const PROPERTY =
   "A page states each property as the page defining it shapes it, and that page is read first."

@@ -7,7 +7,7 @@ import {
 import { typed } from "@akasha/code-system/code-typing"
 import { listedByPath } from "@akasha/indexes"
 import { bodiesAt, reachingFor } from "@akasha/indexes/package-reaching"
-import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const IMPORTED =
   "A file leans on every file it imports, and what an import is held to is said on its page."

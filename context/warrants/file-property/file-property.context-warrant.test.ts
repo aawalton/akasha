@@ -6,7 +6,11 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { mintedId } from "@akasha/testing-system/minting"
-import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
+import {
+  knowingIn,
+  unreadIn,
+  type Warrant,
+} from "../../modules/warranting/warranting.module.code.ts"
 import { pathsOf, warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileProperty, PROPERTY } from "./file-property.context-warrant.code.ts"
 
