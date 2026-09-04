@@ -290,6 +290,43 @@ index b5fe3a54dad422bc5b6ea6c8943fa6fe7c4f68dc..c241eecd207928c0279b1729a0c3095c
      [X]: stating(X_ID, "x", "probe"),
      [A]: stating(A_ID, "a", "note", ', domainSlug: "probe/x"'),
    }
+diff --git a/checks/modules/check-scratch/check-scratch.module.code.ts b/checks/modules/check-scratch/check-scratch.module.code.ts
+index 63491ff779b633042959a0614012d753f6997a23..4597a0e7b26f2fc220f8307ae620978d595238b2 100644
+--- a/checks/modules/check-scratch/check-scratch.module.code.ts
++++ b/checks/modules/check-scratch/check-scratch.module.code.ts
+@@ -47,13 +47,12 @@ export function typed(
+   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
+   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
+   mkdirSync(join(root, TYPES_AT), { recursive: true })
+-  const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
++  const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
+   writeFileSync(
+     join(root, path),
+     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
+       ` properties: [${declared(declares)}] }\n`
+   )
+-  // what a page type declares is read from its value, so a world that types one files it
+   valueAlsoFiled(root, PAGE_TYPE, [
+     {
+       path,
+@@ -61,7 +60,7 @@ export function typed(
+         id: `id-${slug}`,
+         pageTypeSlug: PAGE_TYPE,
+         slug,
+-        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
++        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
+         properties: declares.map((one) => ({ pagePropertySlug: one })),
+       },
+     },
+@@ -120,7 +119,7 @@ export function carrying(
+         id: `id-${slug}`,
+         pageTypeSlug: PAGE_TYPE,
+         slug,
+-        extendsSlug: above === null ? null : `${PAGE_TYPE}/${above}`,
++        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
+         properties: declares.map((one) => ({ pagePropertySlug: one })),
+       },
+     },
 diff --git a/command-system/commands/index/index.command.test.ts b/command-system/commands/index/index.command.test.ts
 index 666a931e9a5493a9b7a8375b90a79160819fc18e..bcd51a8dd7ffa287b7e0df6f44e4eb349f2afdc9 100644
 --- a/command-system/commands/index/index.command.test.ts
@@ -398,7 +435,7 @@ index 554b384f76cd7d2fccd70efe1d244dde09463e7f..c3c3ff932ecf47a2a9df42f61b0ee0cd
  
  function property(
 diff --git a/commands/read/read.command.test-fixtures.ts b/commands/read/read.command.test-fixtures.ts
-index b221810c03bbfb5ac5d0bfc4232812fc8a976406..43c2d8f73095745a45e87e6ec3d2f9a661f6928b 100644
+index 2d93d0ad16ed606cc8f321992301e50d607c9815..be0c632a133f8c102d61cb0822bd2a8804ddae45 100644
 --- a/commands/read/read.command.test-fixtures.ts
 +++ b/commands/read/read.command.test-fixtures.ts
 @@ -198,9 +198,10 @@ export type Planted = {
