@@ -38,7 +38,7 @@ export const addonMetadataFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "Markup and Lua are reached by one rule rather than by a rule each.",
+      statement: "Markup and Lua are reached by one rule.",
     },
     {
       invariantKind: "constraint",

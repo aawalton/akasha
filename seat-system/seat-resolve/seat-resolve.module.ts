@@ -21,7 +21,7 @@ export const seatResolve = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot stated twice is refused rather than resolved to either.",
+      statement: "A slot stated twice is refused.",
     },
     {
       invariantKind: "departure",

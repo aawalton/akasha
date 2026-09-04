@@ -21,7 +21,7 @@ export const akashaPageValues = {
     {
       invariantKind: "departure",
       statement:
-        "A slug and a page type are taken off the file name only where the body states neither.",
+        "A slug and a page type are taken off the file name only where the body states no slug and no page type.",
     },
     {
       invariantKind: "departure",

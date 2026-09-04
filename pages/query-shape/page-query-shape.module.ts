@@ -13,7 +13,11 @@ export const pageQueryShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A query either counts by properties or reduces one, and the shape allows both.",
+      statement: "A query either counts by properties or reduces one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shape allows a query stating both a count by properties and a reduction.",
     },
     {
       invariantKind: "departure",

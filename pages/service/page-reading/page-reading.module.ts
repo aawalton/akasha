@@ -70,7 +70,7 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies of one read come back through one git process rather than one each.",
+      statement: "The bodies of one read come back through one git process.",
     },
     {
       invariantKind: "departure",

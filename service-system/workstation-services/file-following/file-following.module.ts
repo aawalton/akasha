@@ -31,7 +31,7 @@ export const fileFollowing = {
     },
     {
       invariantKind: "departure",
-      statement: "Word comes once for a burst of changes rather than once for each.",
+      statement: "Word comes once for a burst of changes rather than once for every change.",
     },
     {
       invariantKind: "departure",

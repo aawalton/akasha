@@ -120,8 +120,11 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A seat states the person who opened it or the seat that spawned it rather than both.",
+      statement: "A seat states the person who opened it or the seat that spawned it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No seat states both the person who opened it and the seat that spawned it.",
     },
   ],
 } as const satisfies PageType
