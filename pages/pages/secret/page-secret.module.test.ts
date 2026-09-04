@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
+import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { dataIn } from "@akasha/file-system/data-place"
 import {
@@ -21,7 +22,7 @@ const PAGE = "akasha/one/aine.claude-account.ts"
 
 const BESIDE = "akasha/one/aine.claude-account.sops.yaml"
 
-const REPO = join(dirname(import.meta.path), "..", "..", "..", "..")
+const REPO = rootOf(import.meta.dir)
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-secret-")
