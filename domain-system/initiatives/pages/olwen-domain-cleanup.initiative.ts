@@ -8,7 +8,7 @@ export const olwenDomainCleanup = {
   personaSlug: "olwen",
   constraints: [
     "The folder is named `domains/`, the plural, as `pages/` is named for `page`. Alan settled this against `domain/`.",
-    "`purpose` is re-slugged `domain-purpose` and takes a folder of its own, as `domain-championing` and `domain-parent` do.",
+    "`purpose` is re-slugged `domain-purpose` and stands in a folder of its own, as `domain-championing` and `domain-parent` do.",
   ],
   intents: [
     {
