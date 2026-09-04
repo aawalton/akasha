@@ -38,6 +38,11 @@ export const athenaCommandsAtTheRoot = {
       workingMemory:
         "Reading a term's page clears it for every later change, for any file, because `owingOf` owes nothing while the record holds that page at its current blob. Alan ruled this intended: answering a warrant by when something was read is barred, so a re-owed warrant would have no escape. The refusal text contradicted itself and was fixed at 2356754c61. What is left is telling the writer without refusing, and no such channel exists: `troubling` turns any non-empty array into refusals.",
     },
+    {
+      statement: "There are no remaining ops cli commands.",
+      workingMemory:
+        "18 ops commands sit under `command-system/ops-commands/pages`, 8 seat and 7 tracking among them, plus claude-account-sync-aliases, exercise-digest, mobile-widget-emit and page-unlanded. `command-system/ops-calling` dispatches them, 18 files import `ops-command.page-type.ts`, `hook-system/agent-hooks/block-ops-cli` bars an agent from calling one, and `seat-system/seat-fleet-restart` calls one. None has moved: the 42 commands now at the root are every `command` page and no `ops-command`.",
+    },
   ],
   constraints: [
     "Nothing under `checks/` changes here. Alan holds checks and check tests.",
