@@ -1,4 +1,4 @@
-import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
@@ -188,6 +188,7 @@ export function installedIn(root: string): Installing {
 
 export function installingIn(root: string, changes: readonly FileEdit[]): Installing {
   if (manifestsIn(changes).length === 0) return NOTHING_INSTALLED
+  if (!existsSync(join(root, MANIFEST))) return NOTHING_INSTALLED
   try {
     return holding(root, () => installedIn(root))
   } catch (thrown) {
