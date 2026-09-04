@@ -9,8 +9,11 @@ export const iconIndexRendering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An icon's keywords are its name's words, its tags, its aliases and its categories.",
+      statement: "An icon's keywords hold every word its name is split into.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An icon's keywords hold every tag and alias and category the icon states.",
     },
     {
       invariantKind: "departure",
@@ -36,6 +39,10 @@ export const iconIndexRendering = {
     {
       invariantKind: "departure",
       statement: "The page anything outside imports reaches its shards by the path each stands at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shard no longer reached is taken away rather than left unimported.",
     },
     {
       invariantKind: "absence",
