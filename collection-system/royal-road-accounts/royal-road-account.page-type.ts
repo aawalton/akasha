@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { RoyalRoadUsername } from "./properties/royal-road-email.email-address-property.ts"
 import type { RoyalRoadPassword } from "./properties/royal-road-password.text-property.ts"
-import type { RoyalRoadUsername } from "./properties/royal-road-username.email-address-property.ts"
 
 export type RoyalRoadAccount = Page & {
   username: RoyalRoadUsername
@@ -15,9 +15,9 @@ export const royalRoadAccount = {
   definition: "the login the Royal Road sync reads Alan's follow list from",
   pluralSlug: "royal-road-accounts",
   extendsSlug: ["page-type/page"],
-  partSlugs: ["email-address-property/royal-road-username", "text-property/royal-road-password"],
+  partSlugs: ["email-address-property/royal-road-email", "text-property/royal-road-password"],
   properties: [
-    { pagePropertySlug: "royal-road-username", required: true, many: false },
+    { pagePropertySlug: "royal-road-email", required: true, many: false },
     { pagePropertySlug: "royal-road-password", required: true, many: false, secret: true },
   ],
   invariants: [

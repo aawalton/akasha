@@ -2,10 +2,10 @@ import type { EmailAddressProperty } from "@akasha/pages-system/email-address-pr
 
 export type RoyalRoadUsername = string
 
-export const royalRoadUsername = {
+export const royalRoadEmail = {
   id: "01a0685d-b81f-79bb-a097-70cc1e0610d2",
   pageTypeSlug: "email-address-property",
-  slug: "royal-road-username",
+  slug: "royal-road-email",
   propertySlug: "username",
   definition: "the address a Royal Road account signs in as",
 } as const satisfies EmailAddressProperty
