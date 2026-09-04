@@ -4,7 +4,7 @@ export const aSimulatedScenesTurnHoldsAProposedActRatherThanTheActTheStoryTook =
   id: "01a06832-e09f-7167-ab00-0355b6444941",
   pageTypeSlug: "finding",
   slug: "a-simulated-scenes-turn-holds-a-proposed-act-rather-than-the-act-the-story-took",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/narrative-story-turn-promotion",
   claim:
     'A simulated scene records, at every turn, what each element would do, and the story takes only some of it. Abby\'s turn-1 act in `coffee-shop-date` was the line "We made it," and the chapter never says it; Alan\'s "this is good," from the same turn is what landed. So a turn\'s `do` is a proposal, not the act. Reading these files as a transcript overcounts what happened.',
   evidence:
