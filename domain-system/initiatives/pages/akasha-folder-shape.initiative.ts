@@ -8,11 +8,6 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
-      statement: "A persona's championed domain is a relation that resolves.",
-      workingMemory:
-        "`championed-domain-slug` is a text property, so nothing repoints it when a domain's slug changes and nothing refuses it when it names no page. Mari's persona names `arousal`, which no page carries. The property's own page already holds the gap saying this is a relation to a domain.",
-    },
-    {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
         "`akasha audit --check folder-matches-a-shape` answers 1238 refusals over 121356 files, and one answer holds 109 of them, so the list is worked lex-ordered in tranches. A narrowed run costs what a whole one does, near 17 GB for about fifteen minutes, so fixes are batched rather than measured one at a time.",
