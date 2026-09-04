@@ -10,18 +10,23 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "`pages/formula-properties/formula-property.page-type.ts` already does the formula case, so this generalises rather than starts. It states `holds` and a `formula` string and extends page-property alone. `code-system/modules/module.page-type.ts` carries exactly code, test and test-fixtures, so extending it hands over the three file properties rather than declaring them. Start from `pages/page-properties/page-property.page-type.ts`.",
+        "The surface is settled. One export named `work`, typed `Work<Page, Held>`, taking `(page, reach)`. The page hands over stored and computed reads alike, `page.faithPoints` and `page.faithLevel` written the same way, the computed ones lazy getters over the synchronous index. `pages/formula-properties/formula-property.page-type.ts` is what this generalises, and `code-system/modules/module.page-type.ts` hands over code, test and test-fixtures.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
       workingMemory:
-        "The point of the sub-types is control of inputs. A rollup, an aggregate and a formula each hand their function a different shape, and the function reaches only what its shape hands it.",
+        "One shape rather than three. A same-page read needs no surface at all, the page type already declaring every key and typing it, which is why all sixteen existing formulas need nothing but `page`. A cross-page read goes through `reach.target<T>(slug)`, answering the same lazily worked page so hops compose. A generated slug-to-type registry would make that generic inferrable without one call site changing.",
     },
     {
       statement:
         "A check refuses a calculation reaching outside its shape or answering twice over.",
       workingMemory:
-        "Two guarantees the expression language gave for nothing. formula-property carries `A formula answers the same over one page however often the formula is asked`, which an expression cannot break and a function can by reading a clock or a network. And a signature settles what is handed in rather than what a code file imports. This check judges both the imports of a computed property's code file and its purity. Whether one type with three signatures is enough depends on this check.",
+        "Two guarantees the expression language gave for nothing: a function can read a clock or a network, and a signature settles what is handed in rather than what a code file imports. The check judges the imports of a computed property's code file, that its one export is named `work` and matches `Work<Page, Held>`, and that `holds` agrees with the return type.",
+    },
+    {
+      statement: "A cycle among calculations is refused by name rather than run.",
+      workingMemory:
+        "Transitive computed properties are supported, so one page's calculation may read another's and that one may read back. The evaluator carries a stack of pageId#propertySlug frames, entering a lazy getter pushes one, and a frame already there is the ring. Refuse in the shape `unworked` already uses at page-asking line 263: name the key, name the fault, then name every key darkened by it.",
     },
     {
       statement: "No calculation is written as an expression the system parses.",
@@ -42,8 +47,13 @@ export const nimueComputedProperties = {
   constraints: [
     "A computed property extends a module and a page property both.",
     "A calculation is a function exported from the computed property's own code file.",
-    "Rollup, aggregate and formula are each a computed property type of their own, each with its own function shape.",
+    "One computed property type carries every calculation rather than one type for each shape.",
     "A calculation reaches only what its shape hands it.",
+    "A rollup writes a stored value, so a rollup is no computed property and is not this work.",
+    "Following a relation backwards is out of scope, so a calculation reaches forward alone.",
+    "A stored read and a computed read are written the same way on the page handed in.",
+    "A fault of the evaluator is repaired in the evaluator rather than handed to whoever writes a calculation.",
+    "A page file may state no value for a computed property, so what is stored and what is worked are two types.",
     "Activity is not part of this work: its keys are declared and written, and its silence is an outage.",
   ],
 } as const satisfies Initiative
