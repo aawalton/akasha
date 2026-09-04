@@ -43,23 +43,23 @@ export const observationStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller naming its own fetch starts no child and disposes of none.",
+      statement: "A store writes through the fetch its caller named and through no other road.",
     },
     {
       invariantKind: "departure",
-      statement: "A store naming no fetch writes through a bun child of its own.",
+      statement: "A store naming no fetch holds its observations and writes nowhere.",
     },
     {
       invariantKind: "departure",
-      statement: "The child is started at the first write rather than at activation.",
+      statement: "A store that writes nowhere settles nothing and starts no timer.",
     },
     {
       invariantKind: "departure",
-      statement: "Disposing asks for the last write before letting the writer go.",
+      statement: "Disposing asks for the last write.",
     },
     {
       invariantKind: "departure",
-      statement: "Everything recorded inside the last settle lands before the writer is let go.",
+      statement: "Everything recorded inside the last settle lands before disposing returns.",
     },
     {
       invariantKind: "departure",
@@ -76,6 +76,10 @@ export const observationStore = {
     {
       invariantKind: "absence",
       statement: "Nothing here defers a commit.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No child process is started here.",
     },
   ],
 } as const satisfies Module

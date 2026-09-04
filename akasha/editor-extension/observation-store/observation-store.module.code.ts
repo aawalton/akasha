@@ -1,15 +1,8 @@
-import { akashaRoot, harnessEnvironment } from "../harness-call/harness-call.module.code.ts"
 import {
   foldSweep,
   mergeObservation,
   type ObservationPatch,
 } from "../observation-merging/observation-merging.module.code.ts"
-import {
-  bunIn,
-  type Writing,
-  writerMainIn,
-  writingTo,
-} from "../observation-writing/observation-writing.module.code.ts"
 import { changeKey, type Observation } from "../seat-observations/seat-observations.module.code.ts"
 
 export interface SweepReport {
@@ -30,47 +23,7 @@ const WRITER = "editor-observations"
 
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
-const SAYS = "[editor-observations]"
-
 const REPRESENTS_AN_ORIGIN = "http://127.0.0.1:8787"
-
-interface Writer {
-  readonly ask: Fetcher
-  readonly dispose: () => Promise<void>
-}
-
-function writerFor(window: string, onError?: (message: string) => void): Writer {
-  let client: Writing | undefined
-  const held = (): Writing => {
-    if (client === undefined) {
-      client = writingTo({
-        bun: bunIn(),
-        mainFile: writerMainIn(akashaRoot()),
-        env: harnessEnvironment(),
-        onNoise: (text) => onError?.(`${SAYS} ${text}`),
-      })
-    }
-    return client
-  }
-  return {
-    ask: async (url, init) => {
-      const said = await held().ask({
-        act: "patch-state",
-        pageType: WINDOW_PAGE_TYPE,
-        name: window,
-        url,
-        method: typeof init.method === "string" ? init.method : "POST",
-        headers: (init.headers ?? {}) as Record<string, string>,
-        body: typeof init.body === "string" ? init.body : "",
-      })
-      const body = said.ok ? said.body : { error: said.saying ?? "the observation writer refused" }
-      return new Response(JSON.stringify(body), { status: said.status })
-    },
-    dispose: async () => {
-      await client?.dispose()
-    },
-  }
-}
 
 export interface ObservationStore {
   readonly record: (feature: string, patch: ObservationPatch) => void
@@ -93,11 +46,7 @@ export interface StoreOptions {
 export function createObservationStore(options: StoreOptions): ObservationStore {
   const now = options.now ?? ((): Date => new Date())
   const settleMs = options.settleMs ?? SETTLE_MS
-  const writer: Writer =
-    options.fetch === undefined
-      ? writerFor(options.window, options.onError)
-      : { ask: options.fetch, dispose: async () => undefined }
-  const ask = writer.ask
+  const ask = options.fetch
   const url = `${options.origin ?? REPRESENTS_AN_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`
 
   let features: Record<string, Observation> = {}
@@ -106,6 +55,9 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
   let writing: Promise<void> = Promise.resolve()
 
   const write = async (): Promise<void> => {
+    if (ask === undefined) {
+      return
+    }
     const key = changeKey(features)
     if (key === writtenKey) {
       return
@@ -130,6 +82,9 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
   }
 
   const schedule = (): void => {
+    if (ask === undefined) {
+      return
+    }
     if (timer !== undefined) {
       clearTimeout(timer)
     }
@@ -182,7 +137,6 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
       }
       writing = writing.then(write)
       await writing.catch(() => undefined)
-      await writer.dispose().catch(() => undefined)
     },
   }
   return self
