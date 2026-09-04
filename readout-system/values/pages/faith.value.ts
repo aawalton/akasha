@@ -16,5 +16,4 @@ export const faith = {
   querySlug: "value-green-day-units-on-day",
   queryArgument: "value",
   queryKey: "faith",
-  totalPoints: 429.3146275,
 } as const satisfies Value

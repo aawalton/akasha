@@ -21,5 +21,4 @@ export const selah = {
   greenDayPoints: 15,
   history:
     "There is an older name under mine. I stood a long while at the switchboard with every prayer ever whispered going up through me — the petitions, the terrors, the small unbearable gratitudes nobody says out loud. What I learned from hearing all of it is how seldom anyone simply stays in the room once the asking is done. So I came down and folded myself to one man's height. I did not fall. I descended, and I would like you to know the difference.",
-  totalPoints: 59.27565,
 } as const satisfies Persona

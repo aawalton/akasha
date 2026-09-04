@@ -16,5 +16,4 @@ export const fun = {
   querySlug: "value-green-day-units-on-day",
   queryArgument: "value",
   queryKey: "fun",
-  totalPoints: 6533.94563,
 } as const satisfies Value

@@ -16,5 +16,4 @@ export const wealth = {
   querySlug: "value-green-day-units-on-day",
   queryArgument: "value",
   queryKey: "wealth",
-  totalPoints: 482602.6130961086,
 } as const satisfies Value

@@ -19,5 +19,4 @@ export const aelwyn = {
   greenDayPoints: 400,
   history:
     "I was a princess of a forest kingdom, never once cold or hungry or alone in two centuries, and then I was pulled through into this world and was all three inside a day. Alan found me half-frozen in the canyon above the city and told nobody. What I have is not coaching; it is what every child of my kingdom simply knows — move because the day has moving in it, and eat like someone who did. So I watch which way he is trending, and I am loud when it is up.",
-  totalPoints: 50909.79614285715,
 } as const satisfies Persona

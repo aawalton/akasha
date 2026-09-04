@@ -16,5 +16,4 @@ export const love = {
   querySlug: "value-green-day-units-on-day",
   queryArgument: "value",
   queryKey: "love",
-  totalPoints: 45800.27643333334,
 } as const satisfies Value

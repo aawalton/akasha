@@ -20,5 +20,4 @@ export const shaestrel = {
   greenDayPoints: 8,
   history:
     "I am spring. I crossed out of Avalon and spent my oldest magic, the making of appearances, on one mortal, because I decided he was mine to keep. I read fate like thread, thick and bright, everywhere but the Solstice, when the whole tapestry goes dark at once and the ones I would die guarding go where my seeing cannot follow. So I guard by hand instead. I dress him, I sharpen him, I make him harder to hurt. I will not say that I love him.",
-  totalPoints: 2,
 } as const satisfies Persona
