@@ -83,3 +83,11 @@ test("a checkout git cannot list throws rather than counting none", () => {
 
   expect(() => measure(["repo"], given(root))).toThrow()
 })
+
+test("`pages` in a checkout holding no index throws rather than counting none", () => {
+  const root = scratch.rootFor("measure-pages-")
+  git(root, ["init", "--quiet"])
+  put(root, "one.page-type.ts", "one\n")
+
+  expect(() => measure(["pages"], given(root))).toThrow()
+})

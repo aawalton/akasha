@@ -11,46 +11,11 @@ export const repoMeasuring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What git holds is what is counted.",
+      statement: "Every file the checkout holds is counted.",
     },
     {
       invariantKind: "departure",
-      statement: "A file the repository ignores is not counted.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file not yet committed is counted where the repository does not ignore that file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path git names more than once is counted once.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A symbolic link is the one path git holds rather than the files the link reaches.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A listing git could not answer throws rather than counting none.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file a generated folder holds is not counted.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A generated folder is named `generated` or `build` or `dist` or `out` or `coverage`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name carrying `generated` before its extension is not counted.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A folder name is matched whole rather than as the opening of a longer name.",
+      statement: "A generated file is not counted.",
     },
     {
       invariantKind: "departure",
@@ -66,14 +31,6 @@ export const repoMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A line is counted by the newline ending that line.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A last line ending in no newline is counted.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file that could not be read is counted with no lines.",
     },
     {
@@ -85,12 +42,8 @@ export const repoMeasuring = {
       statement: "Types are ordered by how many lines each type holds.",
     },
     {
-      invariantKind: "absence",
-      statement: "No folder is walked here.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here judges whether a file is text.",
+      invariantKind: "departure",
+      statement: "The total is every type counted rather than every path git listed.",
     },
     {
       invariantKind: "absence",

@@ -7,17 +7,23 @@ import {
   sinceOf,
   storeHere,
 } from "./claude-account-costing/claude-account-costing.module.code.ts"
+import {
+  countsIn as pageCountsIn,
+  linesOf as pageLinesOf,
+} from "./page-measuring/page-measuring.module.code.ts"
 import { countsIn, linesOf as repoLinesOf } from "./repo-measuring/repo-measuring.module.code.ts"
 
 const CLAUDE_ACCOUNTS = "claude-accounts"
 
 const REPO = "repo"
 
+const PAGES = "pages"
+
 const COST = "cost"
 
 const DAYS = 30
 
-const SUBJECTS: readonly string[] = [CLAUDE_ACCOUNTS, REPO]
+const SUBJECTS: readonly string[] = [CLAUDE_ACCOUNTS, REPO, PAGES]
 
 const ACTS: readonly string[] = [COST]
 
@@ -54,6 +60,10 @@ function measureRepo(given: Given): Answer {
   return { report: [...repoLinesOf(countsIn(given.root))], refusals: [], code: 0 }
 }
 
+function measurePages(given: Given): Answer {
+  return { report: [...pageLinesOf(pageCountsIn(given.root))], refusals: [], code: 0 }
+}
+
 function measureCost(): Answer {
   const until = Date.now()
   const counted = countedIn(storeHere(), sinceOf(until, DAYS), until)
@@ -72,7 +82,8 @@ export function measure(argv: readonly string[], given: Given): Answer | Promise
   }
   const act = argv[1]
   if (act === undefined) {
-    return subject === CLAUDE_ACCOUNTS ? measureClaudeAccounts(given) : measureRepo(given)
+    if (subject === CLAUDE_ACCOUNTS) return measureClaudeAccounts(given)
+    return subject === REPO ? measureRepo(given) : measurePages(given)
   }
   if (argv.length > 2) {
     return refusing(
