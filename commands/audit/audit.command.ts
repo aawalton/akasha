@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const audit = {
   id: "01a04fba-6d24-7935-80d4-8a1433dc03d4",
