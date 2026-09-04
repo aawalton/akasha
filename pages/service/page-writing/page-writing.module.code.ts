@@ -137,14 +137,14 @@ export function tidiedIn(root: string, changes: readonly FileEdit[]): readonly F
   })
 }
 
-export function landedIn(root: string, batch: readonly Asked[]): Wrote {
+export async function landedIn(root: string, batch: readonly Asked[]): Promise<Wrote> {
   const first = batch[0]
   if (first === undefined) return { refused: "a batch carries at least one write" }
   try {
     const kept = keptIn(batch)
     const changes = latestIn(batch)
     if (changes.length === 0) return { commit: null, wrote: beside(root, kept), took: [] }
-    const said = landing(
+    const said = await landing(
       root,
       tidiedIn(root, changes),
       messageIn(batch),
@@ -180,11 +180,11 @@ export function batchIn<T extends Held>(
 export function writerFor(given: Writing): Writer {
   let waiting: Waiting[] = []
   let running = false
-  const settling = (): undefined => {
+  const settling = async (): Promise<undefined> => {
     while (waiting.length > 0) {
       const taken = batchIn(waiting)
       waiting = [...taken.rest]
-      const wrote = landedIn(
+      const wrote = await landedIn(
         given.root,
         taken.batch.map((one) => one.asked)
       )
