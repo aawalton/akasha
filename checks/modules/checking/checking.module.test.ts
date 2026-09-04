@@ -146,7 +146,7 @@ test("a phase takes only the checks that state it", () => {
 
 test("the check a change takes away no longer refuses the change taking it", async () => {
   const root = rootWith(BOTH_CHECKS)
-  const gate = judgingBy(checksIn(root))
+  const gate = judgingBy(checksIn(root), "patch")
   const change = taking(root, [checkAt(REFUSES), checkCodeAt(REFUSES)])
   expect(gate.named).toEqual([ADMITS, REFUSES])
   expect(gate.checksFor(change)).toEqual([ADMITS])
@@ -156,7 +156,7 @@ test("the check a change takes away no longer refuses the change taking it", asy
 test("a check the change leaves still judges the change taking its neighbour away", async () => {
   const root = rootWith(BOTH_CHECKS)
   const gone = [checkAt(ADMITS), checkCodeAt(ADMITS)]
-  const gate = judgingBy(checksIn(root))
+  const gate = judgingBy(checksIn(root), "patch")
   expect(gate.checksFor(taking(root, gone))).toEqual([REFUSES])
   expect((await gate.over(taking(root, gone))).map((one) => one.path)).toEqual(gone)
 })
@@ -334,7 +334,7 @@ test("`checksFor` names the checks that ran and `named` names every check the ga
   writeFileSync(join(root, ONE_MD), "one")
   writeFileSync(join(root, TWO_TS), "two")
   const held = onDisk(root)
-  const gate = judgingBy(checksIn(root))
+  const gate = judgingBy(checksIn(root), "patch")
   const overMd = { root, changed: [ONE_MD], after: held, before: held }
   const overBoth = { root, changed: [ONE_MD, TWO_TS], after: held, before: held }
   expect(gate.named).toEqual(["input-ts", "refuses-all"])
