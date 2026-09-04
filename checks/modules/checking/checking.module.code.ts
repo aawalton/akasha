@@ -123,7 +123,14 @@ export function checksIn(root: string): readonly Gathered[] {
     const runsOn: Phase[] = []
     if (one.onPatch > 0) runsOn.push("patch")
     if (one.onAudit > 0) runsOn.push("audit")
-    found.push({ slug: one.slug, page: one.page, runsOn, isInput: inputIn(one.run), run: one.run })
+    found.push({
+      slug: one.slug,
+      page: one.page,
+      root,
+      runsOn,
+      isInput: inputIn(one.run),
+      run: one.run,
+    })
   }
   if (found.length === 0) {
     throw new Error(
