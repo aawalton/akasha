@@ -443,7 +443,7 @@ export function renaming(names = '"thing/held"'): string {
     [BETA]: thingPage("beta", idOf("12"), '"held"'),
     [GAMMA]: thingPage("gamma", idOf("13"), '"thing/alpha"'),
   })
-  rebuiltIn(root, TREE)
+  rebuilt(root)
   for (const slug of ["relation-resolves", "page-named-as-stated"]) judging(root, slug)
   admitting(root)
   return root
