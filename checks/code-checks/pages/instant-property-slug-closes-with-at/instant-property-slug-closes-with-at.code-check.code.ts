@@ -10,8 +10,6 @@ import {
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { pageIn } from "../page-named-as-stated/page-named-as-stated.code-check.code.ts"
 
-const INSIDE = "akasha/"
-
 const INSTANT_PROPERTY = "instant-property"
 
 const CLOSING = "-at"
@@ -25,7 +23,6 @@ function reasonFor(pageTypeSlug: string, slug: string): string {
 }
 
 function found(path: string, text: string, under: ReadonlySet<string>): readonly string[] {
-  if (!path.startsWith(INSIDE)) return []
   const stated = pageIn(path, text)
   if (stated === null || !under.has(stated.pageTypeSlug)) return []
   if (stated.slug.endsWith(CLOSING)) return []
