@@ -14,6 +14,23 @@ test("an act this does not carry is refused with the ones it does", async () => 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("`reshape` is no act this carries")
   expect(said.refusals[0]).toContain("`rename`")
+  expect(said.refusals[0]).toContain("`retype`")
+})
+
+test("a retype takes the address a page is at and the page type it becomes", async () => {
+  const said = await refactor(["retype", "--from", "module/one"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("a retype takes --from and --to")
+})
+
+test("a retype takes no plural, no line and no respelling inside strings", async () => {
+  const said = ["--from", "module/one", "--to", "manifest"]
+  const plural = await refactor(["retype", ...said, "--plural", "n"], GIVEN)
+  expect(plural.refusals[0]).toContain("--plural")
+  const line = await refactor(["retype", ...said, "--line", "3"], GIVEN)
+  expect(line.refusals[0]).toBe("only a name rename takes --line")
+  const strings = await refactor(["retype", ...said, "--in-strings"], GIVEN)
+  expect(strings.refusals[0]).toBe("only a name rename takes --in-strings")
 })
 
 test("naming no act is refused with what to say", async () => {

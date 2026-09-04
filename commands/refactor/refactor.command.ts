@@ -11,6 +11,7 @@ export const refactor = {
   partSlugs: [
     "module/key-respelling",
     "module/package-renaming",
+    "module/page-retyping",
     "module/refactor-arguing",
     "module/refactor-landing",
     "module/slug-renaming",
@@ -24,6 +25,7 @@ export const refactor = {
     { said: "rename page-type", takes: "the act, and the namespace it is worked over" },
     { said: "rename property-slug", takes: "the act, and the namespace it is worked over" },
     { said: "rename token", takes: "the act, and the namespace it is worked over" },
+    { said: "retype", takes: "the act, which is worked over one page and takes no namespace" },
     {
       said: "--from <name>",
       takes: "a page type's slug, a page's address, a property's address, or a name a body carries",
@@ -62,6 +64,12 @@ export const refactor = {
     "a refusal for a name declared more than once names each line --line would take.",
     "--in-strings respells the name inside strings as well as where the checker resolves it.",
     "a distinctive name is safe to respell in a string, and a plain word standing in prose is not.",
+    "a retype names no namespace, since the page it takes already says which page type it is.",
+    "a retype takes the address a page is at and the slug of the page type it becomes.",
+    "a retype carries the page's own file and every file beside it to the new tail.",
+    "a body beside a retyped page is carried rather than read.",
+    "a key the new page type reads no property by refuses the retype and is named.",
+    "the type a retyped page satisfies is imported the way any other file importing it would.",
   ],
   invariants: [
     {
@@ -230,6 +238,46 @@ export const refactor = {
     {
       invariantKind: "absence",
       statement: "A package rename changes no page's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A retype names no namespace.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A retype carries the page's own file and every file beside that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file a retype carries arrives under the tail of the page type it becomes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body beside a retyped page is carried rather than rewritten.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A retyped page's own body states the page type it becomes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The type a retyped page satisfies is the one its new page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page already of the page type named refuses the retype.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page type it becomes reads no property by refuses the retype.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address naming a retyped page under its old page type is repointed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A retype changes no page's slug.",
     },
   ],
 } as const satisfies Command

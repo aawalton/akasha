@@ -32,6 +32,7 @@ import type { Keying, Respelling } from "./key-respelling/key-respelling.module.
 import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
 import { bodyTextOf, respelledLanded, were } from "./landing/refactor-landing.module.code.ts"
 import { packageLanded } from "./package-renaming/package-renaming.module.code.ts"
+import { retypeLanded } from "./page-retyping/page-retyping.module.code.ts"
 import { pairFor, passedOn } from "./slug-renaming/slug-renaming.module.code.ts"
 import type { Tokening } from "./token-renaming/token-renaming.module.code.ts"
 import {
@@ -58,6 +59,8 @@ import {
 } from "./type-respelling/type-respelling.module.code.ts"
 
 const RENAME = "rename"
+
+const RETYPE = "retype"
 
 const PAGE_TYPE = "page-type"
 
@@ -306,8 +309,34 @@ export async function tokenLanded(
   )
 }
 
+async function retyping(
+  given: Given,
+  said: readonly string[],
+  argv: readonly string[]
+): Promise<Answer> {
+  const read = flagsIn(said)
+  if ("refused" in read) return answering([], [read.refused], 1)
+  const only = read.inStrings
+    ? IN_STRINGS
+    : read.said.has(LINE)
+      ? LINE
+      : read.said.has(AT)
+        ? AT
+        : null
+  if (only !== null) return answering([], [`only a name rename takes ${only}`], 1)
+  if (read.said.has(PLURAL)) {
+    return answering([], [`${PLURAL} names a page type's plural, and a retype names none`], 1)
+  }
+  const from = read.said.get(FROM)
+  const to = read.said.get(TO)
+  if (from === undefined || to === undefined) {
+    return answering([], [`a retype takes ${FROM} and ${TO}, and one of them was not said`], 1)
+  }
+  return await retypeLanded(given, resolve(given.root), from, to, read.dryRun, argv, VALUED)
+}
+
 export async function refactor(argv: readonly string[], given: Given): Promise<Answer> {
-  const [act, namespace, ...rest] = argv
+  const [act, ...said] = argv
   if (act === undefined) {
     return answering(
       [],
@@ -315,9 +344,15 @@ export async function refactor(argv: readonly string[], given: Given): Promise<A
       1
     )
   }
+  if (act === RETYPE) return await retyping(given, said, argv)
   if (act !== RENAME) {
-    return answering([], [`\`${act}\` is no act this carries — it carries \`${RENAME}\``], 1)
+    return answering(
+      [],
+      [`\`${act}\` is no act this carries — it carries \`${RENAME}\` and \`${RETYPE}\``],
+      1
+    )
   }
+  const [namespace, ...rest] = said
   if (
     namespace !== PAGE_TYPE &&
     namespace !== PAGE_SLUG &&
