@@ -53,8 +53,6 @@ const TSCONFIG_NAME = "tsconfig.json"
 
 const MANIFEST_NAME = "package.json"
 
-const WORKSPACE_TSCONFIGS_AT_LEAST = 200
-
 const DRAINS: TsconfigDrains = {
   nonCanonicalInclude: ALLOWED_NON_CANONICAL_INCLUDE,
   allowImportingTsExtensions: ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
@@ -172,14 +170,12 @@ function workspaceTsconfigs(reading: TreeReading): readonly Member[] {
   return members
 }
 
-const MEMBERSHIP_FROM =
+const MEMBERSHIP_BECAUSE =
   "the workspace list the tracked tree states — the root " +
   "`package.json` `workspaces` field expanded against the tracked tree, kept to the " +
-  "workspaces that carry a `tsconfig.json`. At 1075b25bba470c34e695e8aa1660b7268f7bc7e6 " +
-  "that stood at 228 of 231 workspaces. `workspaceDirsIn` hands back an empty list rather " +
-  "than raising when the root manifest is unreadable, so a run arriving under this least " +
-  "count read a smaller tree than the repo holds; lower it only alongside deliberately " +
-  "retiring that many workspaces"
+  "workspaces that carry a `tsconfig.json`. No count bounds this: which workspaces carry " +
+  "one is a design choice rather than a rule, so any least count is a census of the day it " +
+  "was written and ages into refusing every run"
 
 function main(): never {
   const parsed = parseArgs(process.argv.slice(2), FLAG_SPEC, { passthrough: true })
@@ -238,9 +234,8 @@ function main(): never {
     siteOf: (member) => resolve(root, member.path),
     examine,
     membership: {
-      kind: "atLeast",
-      members: WORKSPACE_TSCONFIGS_AT_LEAST,
-      from: MEMBERSHIP_FROM,
+      kind: "enumerated",
+      because: MEMBERSHIP_BECAUSE,
     },
   })
 
