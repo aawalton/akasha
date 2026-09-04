@@ -11,9 +11,9 @@ import {
 } from "@akasha/health-samples-import/health-import-run"
 import { MACBOOK } from "@akasha/health-samples-import/laptop-host"
 import { streamSshLines } from "@akasha/ssh-access/ssh-reach"
-import type { Answer } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { saidBy } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { saidBy } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 
