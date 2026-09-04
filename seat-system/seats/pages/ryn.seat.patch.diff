@@ -166,7 +166,7 @@ index d31adb8c87570057f1769f463b9f1b898c4e53e0..8c6b20eee0204288dd02cca9d088097a
 +  found(given.root, given.path, given.text, shadow.index)
  )
 diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
-index 46b1a349d8becb0147a8e29a32840c02147d38a0..6964061672ac9cf139f22d826e970c300b6fe126 100644
+index 46b1a349d8becb0147a8e29a32840c02147d38a0..2b725a72a1eeedbea8435baf19370c76091e459e 100644
 --- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
 +++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
 @@ -3,11 +3,10 @@ import { readFileSync } from "node:fs"
@@ -182,6 +182,15 @@ index 46b1a349d8becb0147a8e29a32840c02147d38a0..6964061672ac9cf139f22d826e970c30
    splitAt,
    statementsIn,
  } from "./invariant-statement-is-plain.code-check.code.ts"
+@@ -25,7 +24,7 @@ const OWN: readonly string[] = [
+ 
+ const REPO_AT = rootOf(import.meta.dir)
+ 
+-const judged = reasonsWith(grammarsIn(shadowAt(REPO_AT).index))
++const judged = reasonsShaped(REPO_AT, shadowAt(REPO_AT).index)
+ 
+ const given = bodiesAt(ROOT, AT)
+ 
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
 index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..68f0684863f2d5920eb4ea2d9cf4ed49db7cb8c7 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
