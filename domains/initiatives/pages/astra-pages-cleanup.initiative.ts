@@ -15,7 +15,7 @@ export const astraPagesCleanup = {
     {
       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "Baselined at `26895c4a`: `pages/` itself passes, and 65 children refuse. 30 open with `page-` or `pages-` and want the prefix stripped from the folder name alone. 31 hold no page of their own, all under `pages-core`, `pages-ui` and `pages-ui-store`, which wants pages rather than names. The other 4 are `indexes/index`, `pages-ui/components`, `service` and `service/workstation-services`.",
+        "Baselined at `fe16e223`: 37 children refuse, down from 65. Every rename is landed. What is left is one family, not a naming job: 31 folders hold no page of their own, and the 6 above them refuse only because those folders are parts they cannot declare. They sit under `core`, `ui`, `ui-store`, `indexes/index` and `system-service`. Closing this wants ~31 pages written.",
     },
   ],
 } as const satisfies Initiative
