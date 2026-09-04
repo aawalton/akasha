@@ -260,7 +260,8 @@
     "./launch-flags": "./launch-flags/launch-flags.module.code.ts",
     "./tool-access": "./tool-access/tool-access.module.code.ts",
     "./message-file-watch": "./messaging/message-file-watch/message-file-watch.module.code.ts",
-    "./seat-turn-color": "./seat-turn-color/seat-turn-color.module.code.ts"
+    "./seat-turn-color": "./seat-turn-color/seat-turn-color.module.code.ts",
+    "./log-day-writing": "./seat-log-days/log-day-writing/log-day-writing.module.code.ts"
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",
