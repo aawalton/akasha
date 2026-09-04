@@ -15,7 +15,7 @@ import {
   writeIn,
 } from "./page-serving.module.code.ts"
 
-const ROOT = join(import.meta.dir, "..", "..", "..", "..")
+const ROOT = join(import.meta.dir, "..", "..", "..")
 
 const TOLD: Asked[] = []
 
@@ -285,11 +285,11 @@ test("a read carrying neither a path nor a page is refused", async () => {
   expect(String((await bodyOf(answered)).refused)).toContain("at least one path")
 })
 
-test("a read of a path outside akasha is refused", async () => {
+test("a read of a path that is no path inside the repository is refused", async () => {
   const root = repoWith("one")
-  const answered = await answering(over(root), asking({ paths: ["tools/a.ts"] }, READ_AT))
+  const answered = await answering(over(root), asking({ paths: ["/tools/a.ts"] }, READ_AT))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("outside")
+  expect(String((await bodyOf(answered)).refused)).toContain("no path inside the repository")
 })
 
 test("paths that are not strings are refused", () => {
@@ -350,9 +350,7 @@ test("a write may carry pages rather than bodies", async () => {
   const answered = await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
   expect(answered.status).toBe(200)
   const told = TOLD[TOLD.length - 1]
-  expect(told?.puts?.[0]?.path).toBe(
-    "akasha/person-system/device-tokens/pages/held-one.device-token.ts"
-  )
+  expect(told?.puts?.[0]?.path).toBe("person-system/device-tokens/pages/held-one.device-token.ts")
 })
 
 test("which values a page carried commit is read from its page type", async () => {

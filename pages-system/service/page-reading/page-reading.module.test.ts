@@ -42,8 +42,8 @@ test("a read carrying neither a path nor a page is refused", () => {
   expect(refusalIn({})).toContain("at least one path")
 })
 
-test("a path outside akasha is refused", () => {
-  expect(refusalIn({ paths: ["tools/a.ts"] })).toContain("outside")
+test("a path that is no path inside the repository is refused", () => {
+  expect(refusalIn({ paths: ["/tools/a.ts"] })).toContain("no path inside the repository")
 })
 
 test("a path reaching above the root is refused", () => {
