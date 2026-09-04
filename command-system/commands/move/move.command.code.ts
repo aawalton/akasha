@@ -13,6 +13,7 @@ import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import { wouldClear } from "../../folder-clearing/folder-clearing.module.code.ts"
 import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
+import { respeltNames } from "../../outside-naming/outside-naming.module.code.ts"
 import { linkingsIn, reachedOver } from "../../package-linking/package-linking.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
@@ -210,6 +211,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   if ("refusals" in sided) return answering([], sided.refusals, 1)
   const gone = sided.sides.map((one) => one.from)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
+  const named = new Map([...spread.folders.map((one) => [one.from, one.to] as const), ...moved])
   const bodyText = (path: string): string | null => {
     const bytes = bodyAt(root, base, path)
     return bytes === null ? null : textOf(bytes)
@@ -256,7 +258,7 @@ export function move(argv: readonly string[], given: Given): Answer {
         2
       )
     }
-    const said = repointed(one.from, one.to, text, moved)
+    const said = respeltNames(repointed(one.from, one.to, text, moved), named)
     let next = respelled(one.to, said, addressing.get(one.from) ?? NOTHING_SAID)
     const renaming = one.renaming
     if (renaming !== null && !one.named) {
@@ -305,7 +307,7 @@ export function move(argv: readonly string[], given: Given): Answer {
         2
       )
     }
-    const said = repointed(path, path, text, moved)
+    const said = respeltNames(repointed(path, path, text, moved), named)
     const next = respelled(path, said, addressing.get(path) ?? NOTHING_SAID)
     if (next === text) continue
     repointing.push(path)
@@ -333,7 +335,6 @@ export function move(argv: readonly string[], given: Given): Answer {
     changes.push({ path: one.path, body, carried: true })
   }
   const left = unrepointedIn(renamings, moved, () => everyPath(root), changes, bodyText)
-  const named = new Map([...spread.folders.map((one) => [one.from, one.to] as const), ...moved])
   const outside = outsideIn(root, base, named, new Set(changes.map((one) => one.path)))
   if ("refusal" in outside) return answering([], [outside.refusal], 1)
   changes.push(...outside.changes)
