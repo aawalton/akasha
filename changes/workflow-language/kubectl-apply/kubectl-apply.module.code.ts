@@ -42,7 +42,7 @@ function buildApplyStep(
   return {
     name,
     image: IMAGES.KUBECTL,
-    environment: { HOME: "/tmp" },
+    environment: { HOME: "/var/tmp" },
     commands: (ci: CIContext) => {
       const resolvedTag = imageSubstitution
         ? typeof imageSubstitution.tag === "function"

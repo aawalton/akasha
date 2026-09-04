@@ -38,7 +38,7 @@ function secretEnv(name: string, secretName: string, key: string) {
 
 function rcloneEnv() {
   return [
-    { name: "HOME", value: "/tmp" },
+    { name: "HOME", value: "/var/tmp" },
     { name: "RCLONE_CONFIG_DST_TYPE", value: "s3" },
     { name: "RCLONE_CONFIG_DST_PROVIDER", value: "Other" },
     { name: "RCLONE_CONFIG_DST_ENDPOINT", value: S3_ENDPOINT },
@@ -115,12 +115,12 @@ export function etcdSnapshotCronJobYaml(): string {
                   args: ["etcd", "snapshot", SNAPSHOT_PATH, "-e", TARGET_NODE, "-n", TARGET_NODE],
                   env: [
                     { name: "TALOSCONFIG", value: TALOSCONFIG_PATH },
-                    { name: "HOME", value: "/tmp" },
+                    { name: "HOME", value: "/var/tmp" },
                   ],
                   volumeMounts: [
                     { name: "talosconfig", mountPath: "/talos", readOnly: true },
                     { name: "snapshot", mountPath: "/snapshot" },
-                    { name: "tmp", mountPath: "/tmp" },
+                    { name: "tmp", mountPath: "/var/tmp" },
                   ],
                   securityContext: HARDENED_SECURITY_CONTEXT,
                   resources: CONTAINER_RESOURCES,
@@ -134,7 +134,7 @@ export function etcdSnapshotCronJobYaml(): string {
                   env: rcloneEnv(),
                   volumeMounts: [
                     { name: "snapshot", mountPath: "/snapshot", readOnly: true },
-                    { name: "tmp", mountPath: "/tmp" },
+                    { name: "tmp", mountPath: "/var/tmp" },
                   ],
                   securityContext: HARDENED_SECURITY_CONTEXT,
                   resources: CONTAINER_RESOURCES,

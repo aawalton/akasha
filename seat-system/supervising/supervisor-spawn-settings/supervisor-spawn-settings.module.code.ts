@@ -124,7 +124,7 @@ export async function materializeSpawnSettings(
   const payload = composeSpawnSettings(base.kind === "loaded" ? base.settings : null, overrides)
   const contents = JSON.stringify(payload)
   const digest = createHash("sha256").update(contents).digest("hex").slice(0, 16)
-  const target = `${opts?.tmpDir ?? "/tmp"}/agent-settings-${digest}.json`
+  const target = `${opts?.tmpDir ?? "/var/tmp"}/agent-settings-${digest}.json`
 
   if (!existsSync(target)) {
     const tmp = `${target}.tmp-${process.pid}`

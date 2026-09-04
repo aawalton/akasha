@@ -20,8 +20,7 @@ export default workflow("cloudflared", {
     }),
     applyRbac({
       name: "cloudflared-apply-rbac",
-      rbacFile:
-        "infrastructure/cluster-manifests/cloudflared-rbac/cloudflared-rbac.module.code.ts",
+      rbacFile: "infrastructure/cluster-manifests/cloudflared-rbac/cloudflared-rbac.module.code.ts",
     }),
     sopsDecryptApply({
       name: "cloudflared-apply-secret",
@@ -32,7 +31,7 @@ export default workflow("cloudflared", {
     step({
       name: "cloudflared-generate-and-apply-config",
       image: IMAGES.CI,
-      environment: { HOME: "/tmp", HUSKY: "0" },
+      environment: { HOME: "/var/tmp", HUSKY: "0" },
       commands: (ci) => [
         "set -e",
         `LIVE_HASH=$(kubectl get configmap cloudflared-config -n cloudflared -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || true)`,
@@ -56,7 +55,7 @@ export default workflow("cloudflared", {
       name: "cloudflared-apply-deployment",
       image: IMAGES.CI,
       environment: {
-        HOME: "/tmp",
+        HOME: "/var/tmp",
         HUSKY: "0",
         SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
       },
@@ -89,7 +88,7 @@ export default workflow("cloudflared", {
       image: IMAGES.CI,
       shell: ["/ci-storage/tools/bash", "-c"],
       environment: {
-        HOME: "/tmp",
+        HOME: "/var/tmp",
         HUSKY: "0",
         CLOUDFLARE_API_TOKEN: secret(SECRETS.CLOUDFLARE_API_TOKEN),
       },
@@ -119,7 +118,7 @@ export default workflow("cloudflared", {
       image: IMAGES.CI,
       shell: ["/ci-storage/tools/bash", "-c"],
       environment: {
-        HOME: "/tmp",
+        HOME: "/var/tmp",
         CLOUDFLARE_API_TOKEN: secret(SECRETS.CLOUDFLARE_API_TOKEN),
       },
       commands: (ci) => [
@@ -141,7 +140,7 @@ export default workflow("cloudflared", {
       name: "cloudflared-stamp-content-hash",
       image: IMAGES.KUBECTL,
 
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: (ci) => [
         `kubectl annotate configmap cloudflared-config -n cloudflared pipeline.alanwalton.com/content-hash=${ci.inputsHash} --overwrite`,
       ],

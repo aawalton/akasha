@@ -29,8 +29,7 @@ export default workflow("postgrest", {
     {
       ...applyRbac({
         name: "postgrest-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/postgrest-rbac/postgrest-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/postgrest-rbac/postgrest-rbac.module.code.ts",
       }),
       dependsOn: ["postgrest-apply-namespace"],
     },
@@ -75,7 +74,7 @@ export default workflow("postgrest", {
       ...step({
         name: "postgrest-ensure-authenticator-role",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -155,7 +154,7 @@ export default workflow("postgrest", {
         name: "postgrest-apply-manifests",
         image: IMAGES.CI,
         environment: {
-          HOME: "/tmp",
+          HOME: "/var/tmp",
           SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
         },
         commands: (ci) => [
@@ -186,7 +185,7 @@ export default workflow("postgrest", {
       ...step({
         name: "postgrest-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap postgrest-pipeline-state -n postgrest --dry-run=client -o yaml | kubectl apply -f -",

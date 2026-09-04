@@ -29,7 +29,7 @@ export default workflow("pod-janitor", {
       ...step({
         name: "pod-janitor-apply",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           "kubectl apply --server-side --force-conflicts -f infra/k8s/src/pod-janitor/generated/cronjob.generated.yaml",

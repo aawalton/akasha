@@ -16,7 +16,7 @@ const primitivesBootstrap = workflow("primitives", {
       name: "primitives-apply-runtime-class",
       image: IMAGES.KUBECTL_PUBLIC,
 
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: [
         "set -e",
         `kubectl apply --server-side --force-conflicts -f ${RUNTIME_CLASS_MANIFEST}`,
@@ -29,7 +29,7 @@ const primitivesBootstrap = workflow("primitives", {
       name: "primitives-apply-nvidia",
       image: IMAGES.KUBECTL_PUBLIC,
 
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: ["set -e", `kubectl apply --server-side --force-conflicts -f ${NVIDIA_MANIFEST}`],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },

@@ -39,7 +39,7 @@ const LITESTREAM_VOLUME_MOUNTS = [
     subPath: "litestream.yml",
     readOnly: true,
   },
-  { name: "tmp", mountPath: "/tmp" },
+  { name: "tmp", mountPath: "/var/tmp" },
 ]
 
 export function statefulsetYaml(): string {
@@ -228,7 +228,7 @@ export function subnetRouterDeploymentYaml(): string {
               ],
               volumeMounts: [
                 { name: "state", mountPath: "/var/lib/tailscale" },
-                { name: "tmp", mountPath: "/tmp" },
+                { name: "tmp", mountPath: "/var/tmp" },
                 { name: "run", mountPath: "/run" },
               ],
               resources: {

@@ -74,7 +74,7 @@ export function deploymentYaml(): string {
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
               command: ["sh", "-c", INIT_BARE_REPO_SCRIPT],
-              env: [{ name: "HOME", value: "/tmp" }],
+              env: [{ name: "HOME", value: "/var/tmp" }],
               envFrom: [{ secretRef: { name: "git-transport-secrets" } }],
               volumeMounts: [ssdMount],
               resources: {
@@ -115,7 +115,7 @@ export function deploymentYaml(): string {
                   name: "GIT_TRANSPORT_CLONE_URL",
                   value: "http://git-transport.git.svc.cluster.local:3000",
                 },
-                { name: "HOME", value: "/tmp" },
+                { name: "HOME", value: "/var/tmp" },
               ],
               envFrom: [{ secretRef: { name: "git-transport-secrets" } }],
               volumeMounts: [...sourceCacheMounts, ssdMount],

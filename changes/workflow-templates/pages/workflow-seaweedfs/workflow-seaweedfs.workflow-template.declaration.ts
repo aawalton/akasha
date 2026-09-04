@@ -33,8 +33,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
     {
       ...applyRbac({
         name: "seaweedfs-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },
@@ -43,7 +42,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-apply-pv",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           `kubectl apply --server-side --force-conflicts -f ${MASTER}/pv.generated.yaml`,
@@ -69,7 +68,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-ensure-creds-secret",
         image: IMAGES.CI,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           "if kubectl get secret seaweedfs-creds -n seaweedfs >/dev/null 2>&1; then",
@@ -99,7 +98,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-apply-services",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${MASTER}/service.generated.yaml`,
@@ -118,7 +117,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-apply-master",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -144,7 +143,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-apply-volume",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -166,7 +165,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-apply-filer",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -188,7 +187,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-apply-s3-gateway",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: () => [
           "set -e",
           ...checksumHashCommands({
@@ -214,7 +213,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-ensure-bucket",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => {
           const jobName = `seaweedfs-ensure-bucket-${ci.inputsHash.slice(0, 8)}`
           const filerBase = "http://filer.seaweedfs.svc.cluster.local:8888/buckets"
@@ -262,7 +261,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-apply-backup-pv",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           `kubectl apply --server-side --force-conflicts -f ${MASTER}/backup-pv.generated.yaml`,
@@ -287,8 +286,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...sopsDecryptApply({
         name: "seaweedfs-apply-etcd-talosconfig",
         namespace: "seaweedfs",
-        secretFile:
-          "infrastructure/seaweedfs/etcd-snapshot/etcd-snapshot.k8s-secret.sops.yaml",
+        secretFile: "infrastructure/seaweedfs/etcd-snapshot/etcd-snapshot.k8s-secret.sops.yaml",
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },
@@ -310,7 +308,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...step({
         name: "seaweedfs-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap seaweedfs-pipeline-state -n seaweedfs --dry-run=client -o yaml | kubectl apply -f -",

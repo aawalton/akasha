@@ -54,7 +54,7 @@ export default workflow("gotrue", {
       ...step({
         name: "gotrue-ensure-auth-schema",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -135,7 +135,7 @@ export default workflow("gotrue", {
       ...step({
         name: "gotrue-apply-manifests",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -155,7 +155,7 @@ export default workflow("gotrue", {
       ...step({
         name: "gotrue-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap gotrue-pipeline-state -n gotrue --dry-run=client -o yaml | kubectl apply -f -",

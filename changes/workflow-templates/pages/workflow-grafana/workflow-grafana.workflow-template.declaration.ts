@@ -26,8 +26,7 @@ export default workflow("grafana", {
     {
       ...applyRbac({
         name: "grafana-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/grafana-rbac/grafana-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/grafana-rbac/grafana-rbac.module.code.ts",
       }),
       dependsOn: ["grafana-apply-namespace"],
     },
@@ -37,7 +36,7 @@ export default workflow("grafana", {
         name: "grafana-apply-secrets",
         image: IMAGES.CI,
         environment: {
-          HOME: "/tmp",
+          HOME: "/var/tmp",
           SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
         },
         commands: (ci) => [
@@ -59,7 +58,7 @@ export default workflow("grafana", {
       ...step({
         name: "grafana-apply-configmaps",
         image: IMAGES.CI,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -79,7 +78,7 @@ export default workflow("grafana", {
         name: "grafana-apply-manifests",
         image: IMAGES.CI,
         environment: {
-          HOME: "/tmp",
+          HOME: "/var/tmp",
           SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
         },
         commands: (ci) => [
@@ -113,7 +112,7 @@ export default workflow("grafana", {
         name: "grafana-stamp-content-hash",
         image: IMAGES.KUBECTL,
 
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap grafana-pipeline-state -n grafana --dry-run=client -o yaml | kubectl apply -f -",

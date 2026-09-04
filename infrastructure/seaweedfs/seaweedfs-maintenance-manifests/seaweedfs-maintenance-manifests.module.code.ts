@@ -70,7 +70,7 @@ export function maintenanceCronJobYaml(): string {
                   name: "weed-maintenance",
                   image: IMAGE,
                   command: ["/bin/sh", "-c", maintenanceScript()],
-                  env: [{ name: "HOME", value: "/tmp" }],
+                  env: [{ name: "HOME", value: "/var/tmp" }],
                   resources: {
                     requests: { cpu: "100m", memory: "256Mi" },
                     limits: { memory: "256Mi" },
@@ -82,7 +82,7 @@ export function maintenanceCronJobYaml(): string {
                     allowPrivilegeEscalation: false,
                     capabilities: { drop: ["ALL"] },
                   },
-                  volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
+                  volumeMounts: [{ name: "tmp", mountPath: "/var/tmp" }],
                 },
               ],
               volumes: [{ name: "tmp", emptyDir: { sizeLimit: "256Mi" } }],

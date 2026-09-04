@@ -32,7 +32,7 @@ export default workflow("cert-manager", {
       ...step({
         name: "cert-manager-apply-cluster-issuer",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -49,7 +49,7 @@ export default workflow("cert-manager", {
       ...step({
         name: "cert-manager-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap cert-manager-pipeline-state -n cert-manager --dry-run=client -o yaml | kubectl apply -f -",

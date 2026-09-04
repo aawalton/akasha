@@ -61,7 +61,7 @@ export default function synth(): readonly { readonly name: string; readonly yaml
                       imagePullPolicy: "Always",
                       command: ["bash", "/runner/bench-runner.sh"],
                       env: [
-                        { name: "HOME", value: "/tmp" },
+                        { name: "HOME", value: "/var/tmp" },
                         { name: "SEAWEEDFS_S3_ENDPOINT", value: S3_ENDPOINT },
                         {
                           name: "SEAWEEDFS_ACCESS_KEY",

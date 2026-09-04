@@ -12,7 +12,7 @@ export function applyRbac(config: ApplyRbacConfig): Step {
   return {
     name,
     image: IMAGES.CI,
-    environment: { HOME: "/tmp" },
+    environment: { HOME: "/var/tmp" },
     commands: [
       "set -e",
       `[ -n "$AKASHA_ROOT" ] || { echo "ERROR: applying ${rbacFile} needs AKASHA_ROOT, and this step container was given none, so the profiles it would grant cannot be read" >&2; exit 1; }`,

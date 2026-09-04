@@ -39,7 +39,7 @@ export function deploySourceSync(config: DeploySourceSyncConfig): Step {
   return {
     name,
     image: IMAGES.KUBECTL,
-    environment: { HOME: "/tmp" },
+    environment: { HOME: "/var/tmp" },
     commands,
     backendOptions: {
       kubernetes: { serviceAccountName: "pipeline-engine" },

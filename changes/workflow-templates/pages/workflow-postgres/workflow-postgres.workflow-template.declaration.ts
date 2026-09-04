@@ -24,7 +24,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-mirror-s3-creds",
         image: IMAGES.CI,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: () => [
           "set -e",
           "kubectl get secret seaweedfs-creds -n seaweedfs -o json | " +
@@ -44,7 +44,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-apply-objectstore",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -61,8 +61,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
     {
       ...applyRbac({
         name: "postgres-apply-cnpg-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/postgres-rbac/postgres-rbac.module.code.ts",
       }),
       dependsOn: ["postgres-apply-namespace"],
     },
@@ -125,7 +124,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-apply-cnpg-cluster",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -150,7 +149,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-apply-scheduledbackup",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -188,7 +187,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-apply-gfs-promoter",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -211,7 +210,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-mirror-longtail-db",
         image: IMAGES.CI,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -233,7 +232,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-apply-backup-longtail",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -268,7 +267,7 @@ function annualDumpSteps(skipCheck: readonly string[]): readonly Step[] {
       ...step({
         name: "postgres-apply-annual-dump",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -305,7 +304,7 @@ const foundationPostgres = workflow("postgres", {
       ...step({
         name: "postgres-apply-pv",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -354,7 +353,7 @@ const foundationPostgres = workflow("postgres", {
       ...step({
         name: "postgres-apply-service",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -375,7 +374,7 @@ const foundationPostgres = workflow("postgres", {
       ...step({
         name: "postgres-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap postgres-pipeline-state -n postgres --dry-run=client -o yaml | kubectl apply -f -",

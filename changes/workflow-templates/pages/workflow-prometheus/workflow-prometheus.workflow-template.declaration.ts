@@ -26,8 +26,7 @@ export default workflow("prometheus", {
     {
       ...applyRbac({
         name: "prometheus-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/prometheus-rbac/prometheus-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/prometheus-rbac/prometheus-rbac.module.code.ts",
       }),
       dependsOn: ["prometheus-apply-namespace"],
     },
@@ -37,7 +36,7 @@ export default workflow("prometheus", {
         name: "prometheus-apply-secrets",
         image: IMAGES.CI,
         environment: {
-          HOME: "/tmp",
+          HOME: "/var/tmp",
           SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
         },
         commands: (ci) => [
@@ -60,7 +59,7 @@ export default workflow("prometheus", {
         name: "prometheus-apply-alertmanager-config",
         image: IMAGES.CI,
         environment: {
-          HOME: "/tmp",
+          HOME: "/var/tmp",
           SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
         },
         commands: (ci) => [
@@ -82,7 +81,7 @@ export default workflow("prometheus", {
       ...step({
         name: "prometheus-apply-configmaps",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -101,7 +100,7 @@ export default workflow("prometheus", {
       ...step({
         name: "prometheus-apply-app-rbac",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -119,7 +118,7 @@ export default workflow("prometheus", {
       ...step({
         name: "prometheus-apply-manifests",
         image: IMAGES.CI,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -191,7 +190,7 @@ export default workflow("prometheus", {
         name: "prometheus-stamp-content-hash",
         image: IMAGES.KUBECTL,
 
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap prometheus-pipeline-state -n prometheus --dry-run=client -o yaml | kubectl apply -f -",

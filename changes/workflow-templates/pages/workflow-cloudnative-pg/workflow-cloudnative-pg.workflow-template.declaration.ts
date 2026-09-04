@@ -16,7 +16,7 @@ export default workflow("cloudnative-pg", {
     step({
       name: "cloudnative-pg-apply-namespace",
       image: IMAGES.KUBECTL,
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
@@ -39,7 +39,7 @@ export default workflow("cloudnative-pg", {
       ...step({
         name: "cloudnative-pg-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap cloudnative-pg-pipeline-state -n cnpg-system --dry-run=client -o yaml | kubectl apply -f -",

@@ -35,7 +35,7 @@ export default workflow("supabase-studio", {
       ...step({
         name: "supabase-studio-apply-manifests",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -59,7 +59,7 @@ export default workflow("supabase-studio", {
       ...step({
         name: "supabase-studio-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap supabase-studio-pipeline-state -n supabase-studio --dry-run=client -o yaml | kubectl apply -f -",

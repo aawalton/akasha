@@ -26,8 +26,7 @@ export default workflow("pgbouncer", {
     {
       ...applyRbac({
         name: "pgbouncer-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -36,8 +35,7 @@ export default workflow("pgbouncer", {
       ...sopsDecryptApply({
         name: "pgbouncer-apply-tls",
         namespace: "pgbouncer",
-        secretFile:
-          "service-system/cluster-services/pages/pgbouncer/tls.k8s-secret.sops.yaml",
+        secretFile: "service-system/cluster-services/pages/pgbouncer/tls.k8s-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -46,8 +44,7 @@ export default workflow("pgbouncer", {
       ...sopsDecryptApply({
         name: "pgbouncer-apply-auth",
         namespace: "pgbouncer",
-        secretFile:
-          "service-system/cluster-services/pages/pgbouncer/auth.k8s-secret.sops.yaml",
+        secretFile: "service-system/cluster-services/pages/pgbouncer/auth.k8s-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -56,7 +53,7 @@ export default workflow("pgbouncer", {
       ...step({
         name: "pgbouncer-apply-manifests",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -78,7 +75,7 @@ export default workflow("pgbouncer", {
         name: "pgbouncer-wait-for",
         image: IMAGES.KUBECTL,
 
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           ...verifyRolloutCommands({ namespace: "pgbouncer", deployment: "pgbouncer" }),
@@ -96,7 +93,7 @@ export default workflow("pgbouncer", {
         name: "pgbouncer-stamp-content-hash",
         image: IMAGES.KUBECTL,
 
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap pgbouncer-pipeline-state -n pgbouncer --dry-run=client -o yaml | kubectl apply -f -",

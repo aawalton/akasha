@@ -14,7 +14,7 @@ export default workflow("registry", {
     step({
       name: "registry-apply-namespaces",
       image: PUBLIC_KUBECTL,
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: [
         "set -e",
         "kubectl apply --server-side --force-conflicts -f infra/k8s/src/registry/generated/namespace.generated.yaml",
@@ -26,7 +26,7 @@ export default workflow("registry", {
     step({
       name: "registry-apply",
       image: PUBLIC_KUBECTL,
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: [
         "set -e",
         "kubectl apply --server-side --force-conflicts -f infra/k8s/src/registry/generated/pv.generated.yaml",

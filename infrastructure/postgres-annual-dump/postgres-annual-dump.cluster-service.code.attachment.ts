@@ -47,7 +47,7 @@ function cronjobYaml(): string {
                   imagePullPolicy: "Always",
                   command: ["/usr/local/bin/annual-dump.sh"],
                   env: [
-                    { name: "HOME", value: "/tmp" },
+                    { name: "HOME", value: "/var/tmp" },
                     {
                       name: "PGHOST",
                       value: "postgres.postgres.svc.cluster.local",
@@ -85,7 +85,7 @@ function cronjobYaml(): string {
                       },
                     },
                   ],
-                  volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
+                  volumeMounts: [{ name: "tmp", mountPath: "/var/tmp" }],
                   securityContext: {
                     runAsNonRoot: true,
                     runAsUser: 1000,

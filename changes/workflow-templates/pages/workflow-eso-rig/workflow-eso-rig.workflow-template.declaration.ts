@@ -18,16 +18,14 @@ export default workflow("eso-rig", {
     kubectlApply({
       name: "eso-rig-apply-namespace",
       namespace: "eso-rig",
-      files:
-        "service-system/cluster-services/pages/eso-rig/generated/namespace.generated.yaml",
+      files: "service-system/cluster-services/pages/eso-rig/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
     {
       ...applyRbac({
         name: "eso-rig-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/eso-rig-rbac/eso-rig-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/eso-rig-rbac/eso-rig-rbac.module.code.ts",
       }),
       dependsOn: ["eso-rig-apply-namespace"],
     },
@@ -36,7 +34,7 @@ export default workflow("eso-rig", {
       ...step({
         name: "eso-rig-apply-manifests",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -59,7 +57,7 @@ export default workflow("eso-rig", {
       ...step({
         name: "eso-rig-stamp-content-hash",
         image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap eso-rig-pipeline-state -n eso-rig --dry-run=client -o yaml | kubectl apply -f -",

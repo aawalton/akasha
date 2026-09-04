@@ -311,7 +311,7 @@ export function cronjobGcYaml(): string {
                         allowPrivilegeEscalation: false,
                         capabilities: { drop: ["ALL"] },
                       },
-                      volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
+                      volumeMounts: [{ name: "tmp", mountPath: "/var/tmp" }],
                     },
                   ],
                   volumes: [{ name: "tmp", emptyDir: {} }],

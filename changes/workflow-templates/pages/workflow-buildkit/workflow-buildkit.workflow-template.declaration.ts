@@ -14,7 +14,7 @@ export default workflow("buildkit", {
     step({
       name: "buildkit-apply-namespace",
       image: PUBLIC_KUBECTL,
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: [
         "set -e",
         "kubectl apply --server-side --force-conflicts -f infra/k8s/src/buildkit/generated/namespace.generated.yaml",
@@ -27,7 +27,7 @@ export default workflow("buildkit", {
       name: "buildkit-apply",
       image: PUBLIC_KUBECTL,
       shell: ["/ci-storage/tools/bash", "-c"],
-      environment: { HOME: "/tmp" },
+      environment: { HOME: "/var/tmp" },
       commands: [
         "set -e",
         "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/generated/configmap.generated.yaml",

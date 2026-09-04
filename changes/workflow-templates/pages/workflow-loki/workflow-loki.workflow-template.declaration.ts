@@ -35,7 +35,7 @@ export default workflow("loki", {
       ...step({
         name: "loki-mirror-s3-creds",
         image: IMAGES.CI,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           "kubectl get secret seaweedfs-creds -n seaweedfs -o json | " +
@@ -55,7 +55,7 @@ export default workflow("loki", {
       ...step({
         name: "loki-apply-promtail-rbac",
         image: IMAGES.KUBECTL_PUBLIC,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           "kubectl apply --server-side --force-conflicts -f infrastructure/loki-service/promtail/generated/promtail-rbac.generated.yaml",
@@ -71,7 +71,7 @@ export default workflow("loki", {
       ...step({
         name: "loki-apply-config",
         image: IMAGES.KUBECTL_PUBLIC,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -90,7 +90,7 @@ export default workflow("loki", {
       ...step({
         name: "loki-apply-deployment",
         image: IMAGES.KUBECTL_PUBLIC,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: () => [
           "set -e",
           ...checksumHashCommands({
@@ -116,7 +116,7 @@ export default workflow("loki", {
       ...step({
         name: "loki-apply-promtail",
         image: IMAGES.KUBECTL_PUBLIC,
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
@@ -141,7 +141,7 @@ export default workflow("loki", {
         name: "loki-wait-for",
         image: IMAGES.KUBECTL_PUBLIC,
 
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: [
           "set -e",
           ...verifyRolloutCommands({ namespace: "loki", deployment: "loki" }),
@@ -159,7 +159,7 @@ export default workflow("loki", {
         name: "loki-stamp-content-hash",
         image: IMAGES.KUBECTL_PUBLIC,
 
-        environment: { HOME: "/tmp" },
+        environment: { HOME: "/var/tmp" },
         commands: (ci) => [
           "set -e",
           "kubectl create configmap loki-pipeline-state -n loki --dry-run=client -o yaml | kubectl apply -f -",
