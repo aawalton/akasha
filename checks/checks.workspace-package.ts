@@ -23,19 +23,6 @@ export const checks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Checks reach no further than the akasha folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path outside the akasha folder is passed over rather than refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Every check is handed the change narrowed to the akasha folder before the check runs.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A change is judged before the change reaches disk.",
     },
     {

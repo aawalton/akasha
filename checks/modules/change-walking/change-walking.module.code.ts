@@ -42,8 +42,6 @@ export type Stated = {
 
 export type Bounded = Running & Stated
 
-const INSIDE = "akasha/"
-
 const TS = "ts"
 
 const TSX = "tsx"
@@ -112,16 +110,6 @@ function textsBy(named: string, taken: (path: string) => boolean): Selector<Text
 export const TEXTS: Selector<Text> = textsBy("texts", textNamed)
 
 export const BODIES: Selector<Text> = textsBy("bodies read as text", bodyNamed)
-
-export function insideAkasha(path: string): boolean {
-  return path.startsWith(INSIDE)
-}
-
-export function insideOf(change: Change): Change {
-  const changed = change.changed.filter(insideAkasha)
-  if (changed.length === change.changed.length) return change
-  return { ...change, changed }
-}
 
 function pagedInside(path: string, shadow: Shadow): boolean {
   return pageNamed(path, pageTypesFor(shadow))

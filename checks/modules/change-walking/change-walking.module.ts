@@ -34,14 +34,6 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A change narrowed here carries the paths inside the akasha folder and no other.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change carrying nothing outside that folder is narrowed to itself.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A check judging a path the change takes away walks the change itself.",
     },
     {
