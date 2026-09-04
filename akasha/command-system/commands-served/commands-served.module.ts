@@ -31,6 +31,15 @@ export const commandsServed = {
     },
     {
       invariantKind: "departure",
+      statement: "An import throwing in the node host takes the editor's activation down.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A short lease lets a test watch a turnover in a second rather than half a minute.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A server dies on a clock rather than trusting a watcher over the edits a lane makes.",
     },
