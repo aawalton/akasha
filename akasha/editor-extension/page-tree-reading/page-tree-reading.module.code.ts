@@ -1,6 +1,6 @@
 import * as path from "node:path"
 import { z } from "zod"
-import { akashaRoot, commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+import { akashaRoot, runCommand } from "../harness-call/harness-call.module.code.ts"
 import {
   assemblePageTree,
   type PageAnswers,
@@ -10,6 +10,8 @@ import {
 } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
 
 const COMMAND = "page-tree"
+
+const COMMAND_AT = "akasha/command-system/commands/page-tree/page-tree.command.code.ts"
 
 const CALL_TIMEOUT_MS = 60_000
 
@@ -74,7 +76,7 @@ export function readPageAnswers(answered: unknown): PageAnswers {
 }
 
 export async function readPageTree(): Promise<PageTree> {
-  const stdout = await runCommand(commandPath(COMMAND), [], {
+  const stdout = await runCommand(path.join(akashaRoot(), COMMAND_AT), [], {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })

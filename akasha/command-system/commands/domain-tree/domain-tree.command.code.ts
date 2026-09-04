@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { sayAnswer } from "@akasha/command-system/answer-bytes"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { AUTHOR } from "@akasha/command-system/committing"
 import { whyOf } from "@akasha/command-system/fault-saying"
@@ -61,7 +62,7 @@ function outsideHere(): Given {
 
 if (import.meta.main) {
   const answer = domainTree(process.argv.slice(2), outsideHere())
-  for (const one of answer.report) process.stdout.write(`${one}\n`)
+  if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
   for (const one of answer.refusals) process.stderr.write(`${one}\n`)
   process.exitCode = answer.code
 }

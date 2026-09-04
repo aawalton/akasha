@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { sayAnswer } from "@akasha/command-system/answer-bytes"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { AUTHOR } from "@akasha/command-system/committing"
 import { whyOf } from "@akasha/command-system/fault-saying"
@@ -269,7 +270,7 @@ if (import.meta.main) {
     writer: said === undefined || said === "" ? AUTHOR : said,
     agentId: writerIn(process.env),
   })
-  for (const one of answer.report) process.stdout.write(`${one}\n`)
+  if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
   for (const one of answer.refusals) process.stderr.write(`${one}\n`)
   process.exitCode = answer.code
 }
