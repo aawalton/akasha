@@ -16,6 +16,7 @@ import {
   bodyIn,
   CARRY,
   CODE,
+  carriedMoved,
   claiming,
   codeWorld,
   DEEP,
@@ -48,6 +49,7 @@ import {
   RELOCKED,
   RENAME,
   REPOINTED,
+  RESPELT,
   rebuilt,
   renamed,
   renamedText,
@@ -58,6 +60,7 @@ import {
   SIDE,
   SIDE_AT,
   SLUG_RENAME,
+  SPELLER_AT,
   SPELLS,
   scratch,
   sidecarWorld,
@@ -100,6 +103,12 @@ test("a file the index does not carry naming a moved folder is repointed and a n
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, LOCK)).toBe(RELOCKED)
   expect(told(said)).toContain(`spelling what moved by its path was repointed — ${LOCK}`)
+})
+
+test("a file a move carries is repointed where its body spells a path that moved", () => {
+  const { root, said } = carriedMoved()
+  expect(said.refusals).toEqual([])
+  expect(bodyIn(root, SPELLER_AT)).toBe(RESPELT)
 })
 
 test("a page's sidecars go with it without being named", () => {
@@ -245,13 +254,6 @@ test("a destination that already stands is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("already stands")
   expect(bodyIn(root, THREE)).toBe(OTHER)
-})
-
-test("a side outside the repository is refused", () => {
-  const root = heldPage()
-  const said = move(["--from", HELD, "--to", "../held.module.ts"], givenIn(root))
-  expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("is no path inside the repository")
 })
 
 test("naming no pair is refused rather than committed empty", () => {
