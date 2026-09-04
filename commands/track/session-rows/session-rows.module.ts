@@ -49,7 +49,8 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "An alias more than one relationship carries tags neither.",
+      statement:
+        "An alias more than one relationship carries tags the stretch with no relationship.",
     },
     {
       invariantKind: "departure",

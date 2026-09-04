@@ -63,7 +63,11 @@ export const devServer = {
     },
     {
       invariantKind: "departure",
-      statement: "A stop names one server or every server tracked, never both.",
+      statement: "A stop names one server or every server tracked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop naming one server and every server tracked at once is refused.",
     },
     {
       invariantKind: "departure",

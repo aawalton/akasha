@@ -30,7 +30,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "What differs between two indexes is read by walking both.",
+      statement: "What differs between two indexes is read by walking the two indexes.",
     },
     {
       invariantKind: "departure",

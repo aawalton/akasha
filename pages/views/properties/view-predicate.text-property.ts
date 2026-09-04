@@ -13,7 +13,11 @@ export const viewPredicate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A view names a predicate instead of a page type, never both.",
+      statement: "A view names a predicate instead of a page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A view naming a predicate and a page type at once is refused.",
     },
   ],
 } as const satisfies TextProperty

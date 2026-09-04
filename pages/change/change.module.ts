@@ -22,7 +22,8 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A path it never touched reads the base commit through both.",
+      statement:
+        "A path the change never touched reads the base commit through `before` and `after`.",
     },
     {
       invariantKind: "departure",
