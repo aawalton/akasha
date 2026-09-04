@@ -1,0 +1,13 @@
+diff --git a/agents/claude-accounts/modules/making/claude-account-making.module.test.ts b/agents/claude-accounts/modules/making/claude-account-making.module.test.ts
+index 53d71c43be741309556fdc3641712bcd13df8289..b31ceb67a226fef4b7852936980f18433a611250 100644
+--- a/agents/claude-accounts/modules/making/claude-account-making.module.test.ts
++++ b/agents/claude-accounts/modules/making/claude-account-making.module.test.ts
+@@ -27,7 +27,7 @@ async function refusedFor(given: {
+   readonly slug: string
+   readonly email: string
+   readonly aliasIndex: number
+-}): string {
++}): Promise<string> {
+   const made = await madeIn(ROOT, { ...given, id: ID }, UNCALLED, UNREAD)
+   expect(made.kind).toBe("refused")
+   return made.kind === "refused" ? made.why : ""
