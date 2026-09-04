@@ -9,15 +9,22 @@ index f4e73b8cb6758f41ed08d58024ef572b87203dd0..d0469c9422461bc947a76d542cc89f9e
  let answerTtlMs = 0
  
 diff --git a/pages/query-keys/page-query-keys.module.code.ts b/pages/query-keys/page-query-keys.module.code.ts
-index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..63092fb719e5297710d7d960f356280a0fcaea62 100644
+index f53e345b0c1ce1b342fbecb0fc1c6fdc8fcf0202..006759ce67f9cee5dea326e77177ed1b48100bac 100644
 --- a/pages/query-keys/page-query-keys.module.code.ts
 +++ b/pages/query-keys/page-query-keys.module.code.ts
-@@ -1,4 +1,4 @@
+@@ -1,6 +1,11 @@
 -import type { Carries } from "../page-derive-shape/page-derive-shape.module.code.ts"
++<<<<<<< what this change would leave
 +import type { Carries } from "../derive-shape/page-derive-shape.module.code.ts"
  import type { PageQuery } from "../page-query-shape/page-query-shape.module.code.ts"
++=======
++import type { Carries } from "../page-derive-shape/page-derive-shape.module.code.ts"
++>>>>>>> what HEAD holds
  import { BODY } from "../page-value-key/page-value-key.module.code.ts"
++import type { PageQuery } from "../query-shape/page-query-shape.module.code.ts"
  
+ export function askedKeys(query: PageQuery): readonly string[] {
+   const wanted = new Set<string>(query.keys ?? [])
 diff --git a/pages/query-reduce/page-query-reduce.module.code.ts b/pages/query-reduce/page-query-reduce.module.code.ts
 index 101b2bda68280cdbe9402bad163d2dc47c4ecb0a..9174f8ce096f8fdf3f162121903206ff045ce11d 100644
 --- a/pages/query-reduce/page-query-reduce.module.code.ts
