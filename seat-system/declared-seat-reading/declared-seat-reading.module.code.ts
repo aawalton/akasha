@@ -3,7 +3,6 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
   type Documents,
   declaredPathReading,
-  requiredReadingClosure,
 } from "../../domain-system/domain-documents/domain-documents.module.code.ts"
 import { personaAt } from "../../persona-system/persona-reading/persona-reading.module.code.ts"
 import { FLEET } from "../../seat-system/compose-seat-name/compose-seat-name.module.code.ts"
@@ -82,17 +81,12 @@ export function modeWarrant(
   return at === null ? null : withAncestry(at, root, docs)
 }
 
-export function withRequired(
-  documents: readonly SeatDocument[] | null,
-  root: string,
-  docs: Documents
+export function distinct(
+  documents: readonly SeatDocument[] | null
 ): readonly SeatDocument[] | null {
   if (documents === null) return null
-  const here = documents.filter((one) => one.root === root).map((one) => one.relPath)
   const whole = new Map<string, SeatDocument>()
   for (const one of documents) whole.set(`${one.root}/${one.relPath}`, one)
-  for (const relPath of requiredReadingClosure(here, docs))
-    whole.set(`${root}/${relPath}`, { root, relPath })
   return [...whole.values()]
 }
 
@@ -119,31 +113,23 @@ export function declaredSeatReading(
       slot === "persona"
         ? personaWarrant(one.slug, root, docs)
         : domainWarrant(one.slug, root, docs)
-    out.push({ claimant: slot, slug: one.slug, documents: withRequired(found, root, docs) })
+    out.push({ claimant: slot, slug: one.slug, documents: distinct(found) })
   }
   if (stated.initiative !== null) {
     const found = initiativeWarrant(stated.initiative, roots, docs)
-    out.push({
-      claimant: "initiative",
-      slug: stated.initiative,
-      documents: withRequired(found, root, docs),
-    })
+    out.push({ claimant: "initiative", slug: stated.initiative, documents: distinct(found) })
   }
   if (stated.onCall) {
     const found = onCallWarrant(root, docs)
-    out.push({ claimant: "on-call", slug: "on-call", documents: withRequired(found, root, docs) })
+    out.push({ claimant: "on-call", slug: "on-call", documents: distinct(found) })
   }
   if (stated.principal !== null) {
     const found = principalWarrant(stated.principal, root, docs)
-    out.push({
-      claimant: "principal",
-      slug: stated.principal,
-      documents: withRequired(found, root, docs),
-    })
+    out.push({ claimant: "principal", slug: stated.principal, documents: distinct(found) })
   }
   if (stated.mode !== null) {
     const found = modeWarrant(stated.mode, root, docs)
-    out.push({ claimant: "mode", slug: stated.mode, documents: withRequired(found, root, docs) })
+    out.push({ claimant: "mode", slug: stated.mode, documents: distinct(found) })
   }
   return out
 }
