@@ -24,7 +24,7 @@ export const reviewSession = {
   partSlugs: ["file-property/review-session-notes", "relation-property/session-persona-slug"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "session-persona-slug", required: true, many: false },
     { pagePropertySlug: "date", required: true, many: false },
     { pagePropertySlug: "review-session-notes", required: true, many: false },
     { pagePropertySlug: "icon", required: false, many: false },
