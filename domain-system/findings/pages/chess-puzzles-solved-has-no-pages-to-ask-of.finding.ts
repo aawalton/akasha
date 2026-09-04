@@ -4,7 +4,7 @@ export const chessPuzzlesSolvedHasNoPagesToAskOf = {
   id: "01a06582-bd62-7e66-a5f0-c6b5a55b8487",
   pageTypeSlug: "finding",
   slug: "chess-puzzles-solved-has-no-pages-to-ask-of",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/chess-puzzle-set",
   claim:
     "`chess-puzzles-solved` asks of page type `chess-puzzle` and narrows on key `solved`, and no page of that page type exists. The 5,063 Lichess puzzles are rows in one jsonl beside the `lichess` chess-puzzle-set page, so that query answers nothing until each puzzle is a page of its own.",
   evidence:

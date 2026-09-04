@@ -4,7 +4,7 @@ export const emailUnsubscribeLostItsDryRunWhenItCarriedIntoAkasha = {
   id: "01a06864-e359-7001-a1c4-4175fb6d05c3",
   pageTypeSlug: "finding",
   slug: "email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "command/email-unsubscribe",
   claim:
     "The carried `email-unsubscribe` command always fires, where the old ops command could be asked to say what it would do and stop, so the only rehearsal for an irreversible act is gone.",
   evidence:

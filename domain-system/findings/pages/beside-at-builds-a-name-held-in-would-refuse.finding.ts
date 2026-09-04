@@ -4,7 +4,7 @@ export const besideAtBuildsANameHeldInWouldRefuse = {
   id: "01a06739-87e7-720a-bdd8-5dcb5d41e88a",
   pageTypeSlug: "finding",
   slug: "beside-at-builds-a-name-held-in-would-refuse",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "module/page-file-name",
   claim:
     "`besideAt` composes a beside-file name without applying `HELD_PART`, the character class its own module applies when reading such a name apart. Its module page declares that what the builders put together and what `heldIn` takes apart are one rule. A value that could never be an extension therefore becomes one, and the git reader downstream throws where it would otherwise have judged.",
   evidence:

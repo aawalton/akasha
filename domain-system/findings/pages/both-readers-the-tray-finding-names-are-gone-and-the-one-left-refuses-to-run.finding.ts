@@ -4,7 +4,7 @@ export const bothReadersTheTrayFindingNamesAreGoneAndTheOneLeftRefusesToRun = {
   id: "01a06959-7fcb-7ccd-8a1d-94ddf6a1aec6",
   pageTypeSlug: "finding",
   slug: "both-readers-the-tray-finding-names-are-gone-and-the-one-left-refuses-to-run",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "cluster-check/eso-live-dir-candidate-order",
   claim:
     'The finding the-tray-crate-moved-and-two-readers-of-its-old-path-were-left-behind names two readers, and neither file is on disk any more. The one surviving reader of `temper-watcher/tray` is the akasha copy of that same check, and it refuses to run before it reaches the path, so nothing breaks today. Its last paragraph is also overtaken: the icon did move into akasha, the page carries `icon: "json"` with the carrier beside it, and the `crate-icon-path` property is gone. What is left is one dead literal in a file kept for its history.',
   evidence:

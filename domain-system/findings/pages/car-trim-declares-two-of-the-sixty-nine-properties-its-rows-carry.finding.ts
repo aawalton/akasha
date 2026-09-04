@@ -4,7 +4,7 @@ export const carTrimDeclaresTwoOfTheSixtyNinePropertiesItsRowsCarry = {
   id: "01a06827-645d-791d-b81c-809e00242a4f",
   pageTypeSlug: "finding",
   slug: "car-trim-declares-two-of-the-sixty-nine-properties-its-rows-carry",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/car-trim",
   claim:
     "The `car-trim` page type landed declaring `title` and `car-year-slug` only, because the other 67 of its properties have no page in akasha yet. The data is already inside akasha: 1,103 trim rows across 44 `*.car-make.trims.jsonl` sidecars carry those fields today, typed by nothing. Landing the 67 `pages/page-property-definition/car-trim-*` files as property pages does not finish the job — each has to be named in `car-trim`'s `partSlugs` and `properties` too, or the rows stay untyped and the omission reads as a deliberately narrow page type rather than as unfinished work.",
   evidence:
