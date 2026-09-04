@@ -13,7 +13,6 @@ export const personaAll = {
     "cover",
     "value-slug",
     "green-day-points",
-    "total-points",
     "last-messaged-at",
     "email-address",
     "voice-reference-sha256",
