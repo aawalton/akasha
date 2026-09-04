@@ -76,16 +76,29 @@ function loopReason(shown: string): string {
   )
 }
 
-function loops(shadow: Shadow, from: string): boolean {
+function loops(shadow: Shadow, settled: Map<string, boolean>, from: string): boolean {
+  const climbing: string[] = []
   const seen = new Set<string>()
   let at = from
+  let ended = true
   for (;;) {
-    if (seen.has(at)) return true
+    const known = settled.get(at)
+    if (known !== undefined) {
+      ended = known
+      break
+    }
+    if (seen.has(at)) break
     seen.add(at)
+    climbing.push(at)
     const above = shadow.index.idsNaming(at, PART_SLUGS)[0]
-    if (above === undefined) return false
+    if (above === undefined) {
+      ended = false
+      break
+    }
     at = above
   }
+  for (const one of climbing) settled.set(one, ended)
+  return ended
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
@@ -94,6 +107,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const known = shadow.index.knownIn()
   const said: Judged[] = []
   const judged = new Set<string>()
+  const settled = new Map<string, boolean>()
   const judge = (path: string, id: string, shown: string): undefined => {
     if (judged.has(path)) return
     judged.add(path)
@@ -106,7 +120,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       said.push({ path, reason: sharedReason(shown, namers.length) })
       return
     }
-    if (loops(shadow, id)) said.push({ path, reason: loopReason(shown) })
+    if (loops(shadow, settled, id)) said.push({ path, reason: loopReason(shown) })
   }
   for (const path of change.changed) {
     if (!pageNamed(path, pageTypes)) continue
