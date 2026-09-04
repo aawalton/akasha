@@ -8,34 +8,28 @@ export const filePropertyDefs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
-      statement: "Every question here refuses.",
+      invariantKind: "departure",
+      statement: "What a page type declares is asked of `@akasha/pages-system-service`.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "`@akasha/pages-system-service` answers no question about what a page type declares.",
+      statement: "An empty list is never answered for a page type that is there.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A refusal names `@akasha/pages-system/page-type-properties` as what reads properties off the index.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "An empty list is never answered.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "An empty list would read as a page type declaring no property.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "These refusals are the only thing holding a read that crosses accounts.",
+      statement: "A page type nothing carries is answered as null rather than as an empty list.",
     },
     {
       invariantKind: "departure",
-      statement: "Answering a shape here re-arms every narrow a stripped key had disarmed.",
+      statement: "A shape answered once is held for every later question.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape refused is asked for again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape carries the property naming the account a page belongs to.",
     },
   ],
 } as const satisfies Module

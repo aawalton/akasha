@@ -1,3 +1,8 @@
+import { shapeFor } from "@akasha/pages-system-service/calling"
+import { isRecord } from "@akasha/utils-narrow/is-record"
+import type { Json } from "@akasha/utils-narrow/json-value"
+import { z } from "zod"
+import { camelizeKey } from "../file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
@@ -21,42 +26,98 @@ export type PageTypeShape = {
   readonly declarations: readonly Declaration[]
 }
 
-const NO_SHAPE =
-  "`@akasha/pages-system-service` answers a question with rows and answers no question about what a page type declares. There is no shape to read, so which properties a page type carries, what each one is typed as, and which of them name other pages are all unknown here. An empty list would read as a page type declaring nothing."
+const asked = new Map<string, Promise<PageTypeShape | null>>()
 
-const BELONGS =
-  "What a page type declares is read from the index by `@akasha/pages-system/page-type-properties`, which is where `@akasha/pages-system-service` reads it."
+export function forgetAskedShapes(): undefined {
+  asked.clear()
+}
 
-// BEFORE YOU LIFT THIS THROW, READ
-// `finding/lifting-the-shape-tombstone-uncovers-a-read-that-crosses-accounts`.
-//
-// Every `getPage` and `getPages` in `@akasha/pages-access/get` reaches this
-// function through `fileShapeOf` and dies here, before any narrow is evaluated.
-// That is currently the only thing stopping a read that crosses accounts.
-//
-// `askableNarrow` (file-narrow.module.code.ts:100-104) strips a `userId`
-// condition instead of lowering it, because `userId` is in
-// `SETTLED_BY_THE_REPO` and every producer of a shape sets `ownerSlug: null`.
-// `getFilePages` then uses the stripped `where` for both the service query and
-// the local re-filter, so the scoping does not fail to match — it stops
-// existing, and every account's rows come back. Measured: `where userId`
-// keeps 2 of 2 rows across two accounts where `where accountPage` keeps 1.
-//
-// Answering a shape here re-arms every such narrow at once. Give the shape a
-// real `ownerSlug`, or repoint the callers onto the key the page type declares,
-// before or in the same change that lifts this.
+async function read(pageTypeSlug: string): Promise<PageTypeShape | null> {
+  const got = await shapeFor(pageTypeSlug)
+  if ("refused" in got) {
+    throw new Error(
+      `shapeAsked(${pageTypeSlug}): the pages answered no shape, so this reader holds no property definitions to report; an empty list would read as a page type that declares nothing (${got.refused})`
+    )
+  }
+  return got.shape === null ? null : (got.shape as PageTypeShape)
+}
+
 export async function shapeAsked(pageTypeSlug: string): Promise<PageTypeShape | null> {
-  throw new Error(`shapeAsked(${pageTypeSlug}): ${NO_SHAPE} ${BELONGS}`)
+  const asking = asked.get(pageTypeSlug)
+  if (asking !== undefined) return asking
+  const started = read(pageTypeSlug)
+  asked.set(pageTypeSlug, started)
+  started.catch(() => {
+    if (asked.get(pageTypeSlug) === started) asked.delete(pageTypeSlug)
+  })
+  return started
+}
+
+type SelectOption = { readonly id: string; readonly label: string }
+
+function labelled(id: string, held: unknown): SelectOption {
+  if (isRecord(held)) {
+    const label = held.label
+    if (typeof label === "string" && label !== "") return { id, label }
+  }
+  return { id, label: id }
+}
+
+function mapped(value: string): unknown {
+  try {
+    return z.unknown().parse(JSON.parse(value))
+  } catch {
+    return null
+  }
+}
+
+function optionsFrom(value: unknown): readonly SelectOption[] | null {
+  if (Array.isArray(value)) {
+    const listed = value
+      .filter((one): one is string => typeof one === "string" && one !== "")
+      .map((one) => ({ id: one, label: one }))
+    return listed.length === 0 ? null : listed
+  }
+  const held = typeof value === "string" ? mapped(value) : value
+  if (!isRecord(held)) return null
+  const named = Object.entries(held).map(([id, one]) => labelled(id, one))
+  return named.length === 0 ? null : named
+}
+
+function definitionOf(one: Declaration): PropertyDefinition {
+  const config: Record<string, Json> = {}
+  const options = optionsFrom(one.values)
+  if (options !== null) config.options = options.map((each) => ({ ...each }))
+  const stated = Object.keys(config).length !== 0
+  return {
+    id: camelizeKey(one.key),
+    key: one.key,
+    title: one.title,
+    type: one.type,
+    pageId: one.pageId,
+    ...(stated ? { config } : {}),
+  }
 }
 
 export async function filePropertyDefinitions(
   pageTypeSlug: string
 ): Promise<readonly PropertyDefinition[]> {
-  throw new Error(`filePropertyDefinitions(${pageTypeSlug}): ${NO_SHAPE} ${BELONGS}`)
+  const shape = await shapeAsked(pageTypeSlug)
+  if (shape === null) return []
+  const taken = new Set<string>()
+  const defs: PropertyDefinition[] = []
+  for (const one of shape.declarations) {
+    const canonical = camelizeKey(one.key)
+    if (taken.has(canonical)) continue
+    taken.add(canonical)
+    defs.push(definitionOf(one))
+  }
+  return defs
 }
 
 export async function fileRelationDeclarations(
   pageTypeSlug: string
 ): Promise<readonly Declaration[] | null> {
-  throw new Error(`fileRelationDeclarations(${pageTypeSlug}): ${NO_SHAPE} ${BELONGS}`)
+  const shape = await shapeAsked(pageTypeSlug).catch(() => null)
+  return shape === null ? null : shape.declarations
 }
