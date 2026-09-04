@@ -1,0 +1,42 @@
+diff --git a/pages/indexes/indexing/indexing.module.test-fixtures.ts b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+index ceb2990732976382ad81e1cc00e9901ff6a2adc0..d8b84a7b336b17764a21f33dc8aa5c3b4e77a6d9 100644
+--- a/pages/indexes/indexing/indexing.module.test-fixtures.ts
++++ b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+@@ -130,7 +130,7 @@ export type Named = readonly [string, Held]
+ export function aType(
+   id: string,
+   slug: string,
+-  extendsSlug: string | null,
++  extendsSlug: readonly string[],
+   declares: readonly string[] = []
+ ): Named {
+   const properties = declares.map((one) => ({
+@@ -152,20 +152,20 @@ export function thePage(value: Held): Named {
+ export const NOTE = aProperty("8", "note", "relation-property", { targetPageTypeSlug: "domain" })
+ 
+ export const IDENTIFIERS: readonly Named[] = [
+-  aType("0", "page", null, ["id", "slug"]),
+-  aType("12", "page-type", "page"),
+-  aType("5", "page-property", "page"),
+-  aType("9", "text-property", "page-property"),
+-  aType("10", "relation-property", "page-property"),
+-  aType("1", "domain", "page"),
+-  aType("2", "module", "domain", ["code", "test"]),
++  aType("0", "page", [], ["id", "slug"]),
++  aType("12", "page-type", ["page"]),
++  aType("5", "page-property", ["page"]),
++  aType("9", "text-property", ["page-property"]),
++  aType("10", "relation-property", ["page-property"]),
++  aType("1", "domain", ["page"]),
++  aType("2", "module", ["domain"], ["code", "test"]),
+   thePage(idPage),
+   thePage(slugPage),
+ ]
+ 
+ export const VOCABULARY: readonly Named[] = [
+   ...IDENTIFIERS,
+-  aType("11", "file-property", "page-property"),
++  aType("11", "file-property", ["page-property"]),
+   aProperty("3", "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
+   aProperty("4", "domain-slug", "relation-property", { targetPageTypeSlug: "domain" }),
+   aProperty("6", "code", "file-property"),
