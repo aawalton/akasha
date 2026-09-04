@@ -1,4 +1,3 @@
-import type { PersonaSlug } from "@akasha/domain-system/persona-slug"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Agent } from "../../agents/agent.page-type.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
@@ -6,11 +5,12 @@ import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
 import type { RoleSlug } from "./properties/role-slug.relation-property.ts"
+import type { SeatPersonaSlug } from "./properties/seat-persona-slug.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
 import type { TurnWorking } from "./properties/turn-working.record-property.ts"
 
 export type Seat = Agent & {
-  personaSlug: PersonaSlug
+  personaSlug: SeatPersonaSlug
   roleSlug: RoleSlug
   personSlug?: PersonSlug
   startMode: StartMode
@@ -50,6 +50,7 @@ export const seat = {
     "relation-property/person-slug",
     "relation-property/requested-action",
     "relation-property/role-slug",
+    "relation-property/seat-persona-slug",
     "text-property/claude-code-session-uuid",
     "text-property/context-replaced-source",
     "text-property/interrupt-message",
