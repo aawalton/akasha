@@ -358,7 +358,7 @@ export function bareDir(root: string, path: string): undefined {
   mkdirSync(join(root, path), { recursive: true })
 }
 
-const CHECKS_AT = join(import.meta.dir, "../../../checks/code-checks/pages")
+const CHECKS_AT = join(import.meta.dir, "../../checks/code-checks/pages")
 
 const idOf = (said: string): string => `01a04bed-1450-7000-8000-0000000000${said}`
 
