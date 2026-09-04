@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const loki = {
   id: "01a06809-250b-7ab3-b9ac-5e00cfbba4ec",

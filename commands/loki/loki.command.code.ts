@@ -11,9 +11,9 @@ import {
   parseLokiPositiveInt,
 } from "@akasha/service-system/loki-log-fetching"
 import { commitSha40, inputsHash12 } from "@akasha/workflow-language/ci-identifiers"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 export const LOGS = "logs"
 
