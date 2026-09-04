@@ -4,7 +4,7 @@ export const aRelationTargetReadByBareSlugAnswersForTheOtherPropertyOfThatName =
   id: "01a0693b-1f13-7065-ace9-f21ed3eb3d48",
   pageTypeSlug: "finding",
   slug: "a-relation-target-read-by-bare-slug-answers-for-the-other-property-of-that-name",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/indexes",
   claim:
     "`reaching` resolves a page's key to a relation target through the property page's bare slug, so where two property pages of different kinds carry one slug and one of them is a relation, every page whose own declaration is the other one has a relation edge attempted against a value that names no page. 125 temper inventory snapshots were refused this way: their `locations: \"jsonl\"` names a rows file beside the page, and the index read it as naming `location` pages. The four other keys claimed by both a relation and a non-relation property escape it only because their two property pages carry different slugs. Giving the rows declaration a slug of its own mends the one instance and leaves the mechanism as it was.",
   evidence:
