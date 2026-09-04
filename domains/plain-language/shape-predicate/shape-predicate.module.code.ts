@@ -11,6 +11,7 @@ const SLOT_FAMILIES = ["nsubj", "obj", "iobj", "obl", "conj", "appos"]
 const SLOTS = ["nmod", "root"]
 const RELATIVE = ["which", "who", "whom", "whose"]
 const DEMONSTRATIVE = ["this", "that", "these", "those"]
+const SUMMING = ["both", "each", "either", "neither"]
 const QUANTIFIER = [
   "all",
   "any",
@@ -48,6 +49,10 @@ export function isRelative(sentence: DepSentence, token: DepToken): boolean {
 
 export function isDemonstrative(token: DepToken): boolean {
   return DEMONSTRATIVE.includes(lower(token))
+}
+
+export function isSummingCount(token: DepToken): boolean {
+  return SUMMING.includes(lower(token))
 }
 
 export function isQuantifier(token: DepToken): boolean {

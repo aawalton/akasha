@@ -25,6 +25,7 @@ export const sentenceShape = {
     "text-property/reason",
     "text-property/rules",
     "text-property/shape-pattern",
+    "sentence-shape/closing-count",
     "sentence-shape/lone-determiner",
     "sentence-shape/lone-pronoun",
     "sentence-shape/lone-quantifier",
