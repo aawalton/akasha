@@ -11,7 +11,7 @@ const THING_AT = "akasha/one.thing.ts"
 
 const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
 
-const WHOLE = `${READS_ITS_TYPE}export const one = { held: "h", slug: "one" } as const satisfies Thing\n`
+const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const satisfies Thing\n`
 
 const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
 
@@ -71,6 +71,6 @@ describe("what this compiler finds in a change", () => {
   })
 
   test("a body the change leaves whole is refused for nothing", async () => {
-    expect(await judged(change(generating({}), { [THING_AT]: WHOLE }))).toEqual([])
+    expect(await judged(change(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
   })
 })
