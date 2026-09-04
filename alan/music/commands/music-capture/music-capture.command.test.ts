@@ -26,7 +26,7 @@ import {
 
 const ROOT = rootOf(import.meta.dir)
 
-const DAYS = "akasha/alan/tracking/daily/eso-days/pages"
+const DAYS = "alan/tracking/daily/eso-days/pages"
 
 const FILED_DAY = `${DAYS}/2026-08-21/eso-day-2026-08-21.eso-day`
 
