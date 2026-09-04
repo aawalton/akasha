@@ -18,7 +18,7 @@ export const kiBook = {
   slug: "ki-book",
   definition: "one edition of a book Ki keeps",
   pluralSlug: "ki-books",
-  extendsSlug: "page-type/ki-collection-template",
+  extendsSlug: ["page-type/ki-collection-template"],
   partSlugs: [],
   properties: [
     { pagePropertySlug: "isbn", required: false, many: false },

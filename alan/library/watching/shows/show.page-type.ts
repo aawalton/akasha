@@ -24,7 +24,7 @@ export const show = {
   slug: "show",
   definition: "a story told in episodes over seasons",
   pluralSlug: "shows",
-  extendsSlug: "page-type/collection-external",
+  extendsSlug: ["page-type/collection-external"],
   partSlugs: ["calendar-date-property/last-air-date"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

@@ -52,7 +52,7 @@ export const connectionActivity = {
   slug: "connection-activity",
   definition: "one way Alan spends time with someone, and what an hour of it is worth to him",
   pluralSlug: "connection-activities",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/connection-activity-repeatable",
     "number-property/connection-activity-attn",

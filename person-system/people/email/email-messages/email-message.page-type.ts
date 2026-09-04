@@ -9,7 +9,7 @@ export const emailMessage = {
   slug: "email-message",
   definition: "one piece of mail in a person's account",
   pluralSlug: "email-messages",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

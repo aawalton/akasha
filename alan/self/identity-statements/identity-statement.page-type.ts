@@ -36,7 +36,7 @@ export const identityStatement = {
   slug: "identity-statement",
   definition: "one sentence Alan means to become true of him",
   pluralSlug: "identity-statements",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "number-property/identity-statement-level",
     "relation-property/identity-statement-value-slug",

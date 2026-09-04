@@ -12,7 +12,7 @@ export const sync = {
   slug: "sync",
   definition: "one outside place this system pulls from, and how each pull went",
   pluralSlug: "syncs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "page-property-entry/sync-runs",
     "instant-property/run-started-at",

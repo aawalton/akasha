@@ -19,7 +19,7 @@ export const sentenceShape = {
   slug: "sentence-shape",
   definition: "one shape a sentence takes, and whether akasha writes in it",
   pluralSlug: "sentence-shapes",
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   partSlugs: [
     "boolean-property/allowed",
     "text-property/reason",

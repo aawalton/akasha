@@ -9,6 +9,6 @@ export const worldEnchantment = {
   slug: "world-enchantment",
   definition: "a power worked into a made thing",
   pluralSlug: "world-enchantments",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

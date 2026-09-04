@@ -14,7 +14,7 @@ export const attribute = {
   slug: "attribute",
   definition: "a capacity Alan builds through a daily habit",
   pluralSlug: "attributes",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   partSlugs: [
     "attribute/charisma",
     "attribute/constitution",

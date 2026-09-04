@@ -20,7 +20,7 @@ export const foodEntry = {
   slug: "food-entry",
   definition: "one thing Alan ate, written down",
   pluralSlug: "food-entries",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/food-entry-note",
     "instant-property/happened-at",

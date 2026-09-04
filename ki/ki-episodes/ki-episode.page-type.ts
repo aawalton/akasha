@@ -9,7 +9,7 @@ export const kiEpisode = {
   slug: "ki-episode",
   definition: "one instalment of a season Ki watches",
   pluralSlug: "ki-episodes",
-  extendsSlug: "page-type/ki-collection-template",
+  extendsSlug: ["page-type/ki-collection-template"],
   invariants: [
     {
       invariantKind: "departure",

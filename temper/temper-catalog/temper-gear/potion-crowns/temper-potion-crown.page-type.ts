@@ -9,7 +9,7 @@ export const temperPotionCrown = {
   slug: "temper-potion-crown",
   definition: "a drink bought from the crown store",
   pluralSlug: "temper-potion-crowns",
-  extendsSlug: "page-type/temper-gear-thing",
+  extendsSlug: ["page-type/temper-gear-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "description", required: true, many: false },

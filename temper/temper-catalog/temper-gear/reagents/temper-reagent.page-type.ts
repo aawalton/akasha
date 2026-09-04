@@ -12,7 +12,7 @@ export const temperReagent = {
   slug: "temper-reagent",
   definition: "a plant or part brewed into a drink",
   pluralSlug: "temper-reagents",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["text-property/alchemy-effects"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },

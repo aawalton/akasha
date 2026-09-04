@@ -21,7 +21,7 @@ export const shellScript = {
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "shell", required: true, many: false },
     { pagePropertySlug: "sourced", required: true, many: false },

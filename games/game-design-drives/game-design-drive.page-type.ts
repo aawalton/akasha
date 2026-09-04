@@ -12,7 +12,7 @@ export const gameDesignDrive = {
   slug: "game-design-drive",
   definition: "what makes a person want to act",
   pluralSlug: "game-design-drives",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   partSlugs: [
     "game-design-drive/game-design-drive-collection",
     "game-design-drive/game-design-drive-connection",

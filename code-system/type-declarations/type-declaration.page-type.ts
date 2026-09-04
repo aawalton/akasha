@@ -13,7 +13,7 @@ export const typeDeclaration = {
   definition: "types a compiler reads about code it does not hold",
   pluralSlug: "type-declarations",
   partSlugs: ["file-property/ambient-types"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "ambient-types", required: true, many: false }],
   invariants: [
     {

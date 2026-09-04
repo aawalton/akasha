@@ -26,7 +26,7 @@ export const personaPointsSource = {
   slug: "persona-points-source",
   definition: "the thing a persona's points are counted from",
   pluralSlug: "persona-points-sources",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   partSlugs: [
     "relation-property/source-persona-slug",
     "text-property/points-source-kind",

@@ -21,7 +21,7 @@ export const invariantKind = {
     "invariant-kind/upkeep",
     "relation-property/invariant-group-slug",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "invariant-group-slug", required: true, many: false }],
   invariants: [
     {

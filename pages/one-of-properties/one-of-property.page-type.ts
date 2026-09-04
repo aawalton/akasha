@@ -13,7 +13,7 @@ export const oneOfProperty = {
   definition: "a page property holding a value one of its members holds",
   pluralSlug: "one-of-properties",
   partSlugs: ["relation-property/member-slugs"],
-  extendsSlug: "page-type/page-property",
+  extendsSlug: ["page-type/page-property"],
   properties: [{ pagePropertySlug: "member-slugs", required: true, many: true, max: null }],
   invariants: [
     {

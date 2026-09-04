@@ -9,6 +9,6 @@ export const worldClass = {
   slug: "world-class",
   definition: "what a character is, that they get better at by being it",
   pluralSlug: "world-classes",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

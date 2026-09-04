@@ -9,5 +9,5 @@ export const temperAffixScript = {
   slug: "temper-affix-script",
   definition: "the script naming the bonus a scribed skill grants",
   pluralSlug: "temper-affix-scripts",
-  extendsSlug: "page-type/temper-script",
+  extendsSlug: ["page-type/temper-script"],
 } as const satisfies PageType

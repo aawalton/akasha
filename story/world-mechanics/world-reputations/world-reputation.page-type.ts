@@ -9,6 +9,6 @@ export const worldReputation = {
   slug: "world-reputation",
   definition: "how a people stand toward a character",
   pluralSlug: "world-reputations",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

@@ -38,7 +38,7 @@ export const contextWarrant = {
     "context-warrant/role-itself",
     "context-warrant/role-page-type",
   ],
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   loadedBySlug: "module/warranting",
   properties: [
     { pagePropertySlug: "test", required: true, many: false },

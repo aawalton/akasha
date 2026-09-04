@@ -12,7 +12,7 @@ export const temperPotionCrafted = {
   slug: "temper-potion-crafted",
   definition: "a drink brewed from reagents",
   pluralSlug: "temper-potion-crafteds",
-  extendsSlug: "page-type/temper-gear-thing",
+  extendsSlug: ["page-type/temper-gear-thing"],
   partSlugs: ["record-property/recipes", "text-property/reagent-names"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },

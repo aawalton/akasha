@@ -16,7 +16,7 @@ export const secret = {
   slug: "secret",
   definition: "one secret value under a name of its own",
   pluralSlug: "secrets",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["text-property/resource-key", "text-property/secret-value"],
   properties: [
     { pagePropertySlug: "resource-name", required: true, many: false },

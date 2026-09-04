@@ -9,6 +9,6 @@ export const worldBoon = {
   slug: "world-boon",
   definition: "a gift a people or a power grants a character",
   pluralSlug: "world-boons",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

@@ -10,7 +10,7 @@ export const graphNode = {
   definition: "a thing the graph can name",
   partSlugs: ["graph-node/file"],
   pluralSlug: "graph-nodes",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

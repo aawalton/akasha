@@ -99,7 +99,7 @@ export const command = {
     "text-property/said",
     "text-property/takes",
   ],
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",
   properties: [
     { pagePropertySlug: "change-kind-slug", required: true, many: false },

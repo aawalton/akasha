@@ -9,6 +9,6 @@ export const worldReligion = {
   slug: "world-religion",
   definition: "a shared worship a character belongs to",
   pluralSlug: "world-religions",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

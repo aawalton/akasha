@@ -30,7 +30,7 @@ export const seatConditions = {
   slug: "seat-conditions",
   definition: "what a seat settles for an agent before the agent starts working there",
   pluralSlug: "seat-conditions-documents",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/extended-context-available",
     "number-property/auto-compact-window",

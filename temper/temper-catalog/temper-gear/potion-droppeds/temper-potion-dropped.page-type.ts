@@ -9,7 +9,7 @@ export const temperPotionDropped = {
   slug: "temper-potion-dropped",
   definition: "a drink found in the world rather than brewed",
   pluralSlug: "temper-potion-droppeds",
-  extendsSlug: "page-type/temper-gear-thing",
+  extendsSlug: ["page-type/temper-gear-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "description", required: true, many: false },

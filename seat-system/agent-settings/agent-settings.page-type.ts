@@ -21,7 +21,7 @@ export const agentSettings = {
     "agent-settings/tool-access",
     "file-property/harness-settings",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "harness-settings", required: true, many: false }],
   invariants: [
     {

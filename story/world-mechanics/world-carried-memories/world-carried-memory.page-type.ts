@@ -9,6 +9,6 @@ export const worldCarriedMemory = {
   slug: "world-carried-memory",
   definition: "someone else's remembered life, carried by a character",
   pluralSlug: "world-carried-memories",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

@@ -34,7 +34,7 @@ export const setLog = {
   slug: "set-log",
   definition: "one set Alan performed, as it was recorded",
   pluralSlug: "set-logs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/is-warmup",
     "number-property/distance",

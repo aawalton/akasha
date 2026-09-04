@@ -32,7 +32,7 @@ export const temperThing = {
   slug: "temper-thing",
   definition: "anything temper keeps a page for",
   pluralSlug: "temper-things",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   ownerSlug: "account-page",
   partSlugs: [
     "number-property/display-order",

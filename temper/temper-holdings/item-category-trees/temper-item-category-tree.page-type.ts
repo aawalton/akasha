@@ -32,7 +32,7 @@ export const temperItemCategoryTree = {
   slug: "temper-item-category-tree",
   definition: "a branch of the tree an inventory is sorted into",
   pluralSlug: "temper-item-category-trees",
-  extendsSlug: "page-type/temper-thing",
+  extendsSlug: ["page-type/temper-thing"],
   partSlugs: [
     "number-property/armor-types",
     "number-property/equip-types",

@@ -12,7 +12,7 @@ export const host = {
   slug: "host",
   definition: "a place the system runs programs",
   pluralSlug: "hosts",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   partSlugs: [
     "host/macbook",
     "host/node-01",

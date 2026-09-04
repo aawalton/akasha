@@ -12,7 +12,7 @@ import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-prope
 import type { Sequence } from "./properties/sequence.record-property.ts"
 
 export type PageType = Domain & {
-  extendsSlug: ExtendsSlug | null
+  extendsSlug: readonly ExtendsSlug[]
   properties?: Properties
   mortal?: Mortal
   pluralSlug: PluralSlug
@@ -77,9 +77,9 @@ export const pageType = {
     "text-property/sequence-group-by",
     "text-property/sequence-order-by",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "extends-slug", required: true, many: false },
+    { pagePropertySlug: "extends-slug", required: true, many: true, max: null },
     { pagePropertySlug: "properties", required: false, many: true, max: null },
     { pagePropertySlug: "mortal", required: false, many: false },
     { pagePropertySlug: "plural-slug", required: true, many: false },

@@ -6,7 +6,7 @@ export const seatTurnEndDecision = {
   slug: "seat-turn-end-decision",
   definition: "one ruling on whether an agent may go idle",
   pluralSlug: "seat-turn-end-decisions",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const temperComparisonOp = {
   slug: "temper-comparison-op",
   definition: "a way of comparing a number an item rule reads",
   pluralSlug: "temper-comparison-ops",
-  extendsSlug: "page-type/temper-progress-thing",
+  extendsSlug: ["page-type/temper-progress-thing"],
   properties: [{ pagePropertySlug: "key", required: true, many: false }],
   invariants: [
     {

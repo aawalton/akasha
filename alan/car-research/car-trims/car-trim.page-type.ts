@@ -14,7 +14,7 @@ export const carTrim = {
   slug: "car-trim",
   definition: "one specification a model year is sold in",
   pluralSlug: "car-trims",
-  extendsSlug: "page-type/car",
+  extendsSlug: ["page-type/car"],
   partSlugs: ["relation-property/car-year-slug"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

@@ -24,7 +24,7 @@ export const equipmentItem = {
   slug: "equipment-item",
   definition: "a piece of kit Alan can load a movement with",
   pluralSlug: "equipment-items",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/equipment-available",
     "boolean-property/equipment-item-available",

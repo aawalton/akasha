@@ -12,7 +12,7 @@ export const temperCompanionJewelrySlot = {
   slug: "temper-companion-jewelry-slot",
   definition: "a place a companion wears one piece of jewelry",
   pluralSlug: "temper-companion-jewelry-slots",
-  extendsSlug: "page-type/temper-companion-thing",
+  extendsSlug: ["page-type/temper-companion-thing"],
   partSlugs: ["text-property/slot-category"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },

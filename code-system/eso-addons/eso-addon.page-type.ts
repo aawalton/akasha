@@ -33,7 +33,7 @@ export const esoAddon = {
     "relation-property/eso-interface-slugs",
     "relation-property/lua-module-slugs",
   ],
-  extendsSlug: "page-type/workspace-package",
+  extendsSlug: ["page-type/workspace-package"],
   properties: [
     { pagePropertySlug: "addon-manifest", required: true, many: false },
     { pagePropertySlug: "bundle-entry-slug", required: false, many: false },

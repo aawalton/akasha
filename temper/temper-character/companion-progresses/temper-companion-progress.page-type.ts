@@ -9,7 +9,7 @@ export const temperCompanionProgress = {
   slug: "temper-companion-progress",
   definition: "how far a companion has come with one account",
   pluralSlug: "temper-companion-progresses",
-  extendsSlug: "page-type/temper-character-thing",
+  extendsSlug: ["page-type/temper-character-thing"],
   properties: [
     { pagePropertySlug: "companion-id", required: true, many: false },
     { pagePropertySlug: "account-page", required: true, many: false },

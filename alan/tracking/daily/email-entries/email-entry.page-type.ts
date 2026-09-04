@@ -16,7 +16,7 @@ export const emailEntry = {
   slug: "email-entry",
   definition: "how Alan's mail stood over one day",
   pluralSlug: "email-entries",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["number-property/lowest-inbox-count"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

@@ -9,7 +9,7 @@ export const trackingField = {
   slug: "tracking-field",
   definition: "one aspect of Alan that takes a value each time it is observed",
   pluralSlug: "tracking-fields",
-  extendsSlug: "page-type/page-property",
+  extendsSlug: ["page-type/page-property"],
   invariants: [
     {
       invariantKind: "departure",

@@ -22,7 +22,7 @@ export const temperGearThing = {
   slug: "temper-gear-thing",
   definition: "anything a character wears, wields or brews",
   pluralSlug: "temper-gear-things",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/potion-seconds",
     "text-property/buff-id",

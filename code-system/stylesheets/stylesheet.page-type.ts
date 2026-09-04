@@ -13,7 +13,7 @@ export const stylesheet = {
   definition: "the rules a browser dresses something by",
   pluralSlug: "stylesheets",
   partSlugs: ["file-property/styles"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "styles", required: true, many: false }],
   invariants: [
     {

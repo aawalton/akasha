@@ -18,7 +18,7 @@ export const storyDesignNote = {
   slug: "story-design-note",
   definition: "one document worked out while a story's design was being settled",
   pluralSlug: "story-design-notes",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: ["text-property/note-subject"],
   properties: [

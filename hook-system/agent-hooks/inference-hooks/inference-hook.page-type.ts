@@ -7,7 +7,7 @@ export const inferenceHook = {
   slug: "inference-hook",
   definition: "an agent hook that asks a model",
   pluralSlug: "inference-hooks",
-  extendsSlug: "page-type/agent-hook",
+  extendsSlug: ["page-type/agent-hook"],
   invariants: [
     {
       invariantKind: "gap",

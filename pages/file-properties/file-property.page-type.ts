@@ -15,7 +15,7 @@ export const fileProperty = {
   definition: "a page property held in its own file",
   pluralSlug: "file-properties",
   partSlugs: ["boolean-property/machine-written", "boolean-property/runs-file-length"],
-  extendsSlug: "page-type/page-property",
+  extendsSlug: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "machine-written", required: false, many: false },
     { pagePropertySlug: "runs-file-length", required: false, many: false },

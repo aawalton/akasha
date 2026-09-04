@@ -9,7 +9,7 @@ export const temperWeaponTrait = {
   slug: "temper-weapon-trait",
   definition: "a property a weapon is worked with",
   pluralSlug: "temper-weapon-traits",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "display-order", required: true, many: false },

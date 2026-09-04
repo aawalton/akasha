@@ -32,7 +32,7 @@ export const carMake = {
   slug: "car-make",
   definition: "a company that builds cars",
   pluralSlug: "car-makes",
-  extendsSlug: "page-type/car",
+  extendsSlug: ["page-type/car"],
   partSlugs: [
     "file-property/trims",
     "number-property/founding-year",

@@ -6,7 +6,7 @@ export const rulesEngineRuleSet = {
   slug: "rules-engine-rule-set",
   definition: "one set of rules, run and proven together",
   pluralSlug: "rules-engine-rule-sets",
-  extendsSlug: "page-type/page-type",
+  extendsSlug: ["page-type/page-type"],
   properties: [],
   invariants: [
     {

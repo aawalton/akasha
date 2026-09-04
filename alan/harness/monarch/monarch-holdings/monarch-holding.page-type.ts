@@ -22,7 +22,7 @@ export const monarchHolding = {
   slug: "monarch-holding",
   definition: "how much of one investment an account holds",
   pluralSlug: "monarch-holdings",
-  extendsSlug: "page-type/monarch-record",
+  extendsSlug: ["page-type/monarch-record"],
   partSlugs: [
     "number-property/cost-basis",
     "number-property/holding-value",

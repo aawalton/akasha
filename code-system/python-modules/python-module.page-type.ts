@@ -13,7 +13,7 @@ export const pythonModule = {
   definition: "code in the Python language",
   pluralSlug: "python-modules",
   partSlugs: ["file-property/python"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "python", required: true, many: false }],
   invariants: [
     {

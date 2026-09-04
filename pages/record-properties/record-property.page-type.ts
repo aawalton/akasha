@@ -12,6 +12,6 @@ export const recordProperty = {
   slug: "record-property",
   definition: "a page property holding named fields",
   pluralSlug: "record-properties",
-  extendsSlug: "page-type/page-property",
+  extendsSlug: ["page-type/page-property"],
   properties: [{ pagePropertySlug: "properties", required: true, many: true, max: null }],
 } as const satisfies PageType

@@ -16,7 +16,7 @@ export const storyChapterPlayed = {
   slug: "story-chapter-played",
   definition: "a chapter of a story nobody wrote",
   pluralSlug: "story-chapters-played",
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

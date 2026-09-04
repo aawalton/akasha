@@ -9,7 +9,7 @@ export const idleSave = {
   slug: "idle-save",
   definition: "where one player's idle game stands",
   pluralSlug: "idle-saves",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

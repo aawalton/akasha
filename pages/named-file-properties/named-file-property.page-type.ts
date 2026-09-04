@@ -13,7 +13,7 @@ export const namedFileProperty = {
   definition: "a page property held in a file whose name is stated",
   pluralSlug: "named-file-properties",
   partSlugs: ["text-property/file-name"],
-  extendsSlug: "page-type/file-property",
+  extendsSlug: ["page-type/file-property"],
   properties: [{ pagePropertySlug: "file-name", required: true, many: false }],
   invariants: [
     {

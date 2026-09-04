@@ -20,7 +20,7 @@ export const unit = {
     "unit/seconds",
     "unit/words",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "words", required: true, many: false }],
   invariants: [
     {

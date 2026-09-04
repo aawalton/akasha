@@ -14,7 +14,7 @@ export const refusal = {
   slug: "refusal",
   definition: "the words printed when an instrument refuses",
   pluralSlug: "refusals",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   partSlugs: ["text-property/refusal-text"],
   properties: [

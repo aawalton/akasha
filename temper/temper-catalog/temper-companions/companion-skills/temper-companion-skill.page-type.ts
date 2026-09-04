@@ -22,7 +22,7 @@ export const temperCompanionSkill = {
   slug: "temper-companion-skill",
   definition: "an ability a companion slots",
   pluralSlug: "temper-companion-skills",
-  extendsSlug: "page-type/temper-companion-thing",
+  extendsSlug: ["page-type/temper-companion-thing"],
   partSlugs: [
     "boolean-property/augment-delay",
     "boolean-property/initial-tick",

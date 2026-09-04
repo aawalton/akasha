@@ -18,7 +18,7 @@ export const characterBuild = {
   slug: "character-build",
   definition: "one saved arrangement of a character's gear, skills and stats",
   pluralSlug: "character-builds",
-  extendsSlug: "page-type/temper-character-thing",
+  extendsSlug: ["page-type/temper-character-thing"],
   partSlugs: [
     "number-property/build-target-count",
     "select-property/build-visibility",

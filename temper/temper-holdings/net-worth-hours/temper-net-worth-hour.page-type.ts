@@ -12,7 +12,7 @@ export const temperNetWorthHour = {
   slug: "temper-net-worth-hour",
   definition: "one hour of readings of what an account was worth",
   pluralSlug: "temper-net-worth-hours",
-  extendsSlug: "page-type/temper-holdings-thing",
+  extendsSlug: ["page-type/temper-holdings-thing"],
   partSlugs: [
     "number-property/currency-gold-value",
     "number-property/excluded-guild-bank-value",

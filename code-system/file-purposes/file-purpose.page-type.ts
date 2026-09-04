@@ -10,7 +10,7 @@ export const filePurpose = {
   definition: "what a file is for, told by its name ending rather than its format",
   pluralSlug: "file-purposes",
   partSlugs: ["file-purpose/test-ts", "file-purpose/test-tsx"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [],
   invariants: [
     {

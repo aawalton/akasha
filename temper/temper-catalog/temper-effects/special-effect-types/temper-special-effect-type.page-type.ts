@@ -9,6 +9,6 @@ export const temperSpecialEffectType = {
   slug: "temper-special-effect-type",
   definition: "a kind of effect written as an act rather than as a number",
   pluralSlug: "temper-special-effect-types",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [{ pagePropertySlug: "key", required: true, many: false }],
 } as const satisfies PageType

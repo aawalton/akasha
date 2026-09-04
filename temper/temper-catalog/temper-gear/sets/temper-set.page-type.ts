@@ -20,7 +20,7 @@ export const temperSet = {
   slug: "temper-set",
   definition: "a run of pieces giving more the more of them are worn",
   pluralSlug: "temper-sets",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/bonus-count",
     "number-property/eso-set-id",

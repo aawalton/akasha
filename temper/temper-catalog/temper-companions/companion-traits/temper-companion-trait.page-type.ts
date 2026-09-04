@@ -16,7 +16,7 @@ export const temperCompanionTrait = {
   slug: "temper-companion-trait",
   definition: "a property a piece of companion equipment is worked with",
   pluralSlug: "temper-companion-traits",
-  extendsSlug: "page-type/temper-companion-thing",
+  extendsSlug: ["page-type/temper-companion-thing"],
   partSlugs: [
     "boolean-property/is-reduction",
     "text-property/effect-type",

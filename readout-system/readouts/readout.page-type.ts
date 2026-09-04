@@ -74,7 +74,7 @@ export const readout = {
     "text-property/unit",
     "text-property/wire-key",
   ],
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   properties: [
     { pagePropertySlug: "label", required: true, many: false },
     { pagePropertySlug: "unit", required: false, many: false },

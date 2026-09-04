@@ -9,5 +9,5 @@ export const trackingEntrySession = {
   slug: "tracking-entry-session",
   definition: "a tracking entry for something that ran from one moment to another",
   pluralSlug: "tracking-entry-sessions",
-  extendsSlug: "page-type/tracking-entry",
+  extendsSlug: ["page-type/tracking-entry"],
 } as const satisfies PageType

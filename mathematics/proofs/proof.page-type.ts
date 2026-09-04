@@ -20,7 +20,7 @@ export const proof = {
   slug: "proof",
   definition: "one attempt at deriving a proposition in the formal system",
   pluralSlug: "proofs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/derivation",
     "number-property/attempt",

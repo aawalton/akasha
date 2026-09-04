@@ -16,7 +16,7 @@ export const temperSkillLine = {
   slug: "temper-skill-line",
   definition: "a track of skills a character raises together",
   pluralSlug: "temper-skill-lines",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/eso-skill-line-id",
     "number-property/max-rank",

@@ -16,7 +16,7 @@ export const idleGame = {
   slug: "idle-game",
   definition: "a game Alan plays where the cards are his personas",
   pluralSlug: "idle-games",
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   detailConfig: {
     display: "game",
   },

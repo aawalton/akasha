@@ -12,7 +12,7 @@ export const temperAchievementCategory = {
   slug: "temper-achievement-category",
   definition: "one heading the game files a player's achievements under",
   pluralSlug: "temper-achievement-categories",
-  extendsSlug: "page-type/temper-pursuit-thing",
+  extendsSlug: ["page-type/temper-pursuit-thing"],
   partSlugs: [
     "number-property/achievement-points",
     "number-property/eso-achievement-id",

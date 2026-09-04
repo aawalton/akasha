@@ -30,7 +30,7 @@ export const namedEvent = {
   slug: "named-event",
   definition: "something happening once in a story that its people afterwards date other things by",
   pluralSlug: "named-events",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "number-property/evidence-beat",
     "number-property/event-first-chapter",

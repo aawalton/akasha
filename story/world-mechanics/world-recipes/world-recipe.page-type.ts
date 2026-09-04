@@ -9,6 +9,6 @@ export const worldRecipe = {
   slug: "world-recipe",
   definition: "something a character knows how to make",
   pluralSlug: "world-recipes",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

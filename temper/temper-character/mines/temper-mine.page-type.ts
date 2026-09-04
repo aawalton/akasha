@@ -14,7 +14,7 @@ export const temperMine = {
   slug: "temper-mine",
   definition: "one sweep of what the game itself would tell temper about",
   pluralSlug: "temper-mines",
-  extendsSlug: "page-type/temper-character-thing",
+  extendsSlug: ["page-type/temper-character-thing"],
   partSlugs: [
     "boolean-property/has-on-use-ability",
     "boolean-property/has-set",

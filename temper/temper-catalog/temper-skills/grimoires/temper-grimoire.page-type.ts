@@ -18,7 +18,7 @@ export const temperGrimoire = {
   slug: "temper-grimoire",
   definition: "a book a character scribes a skill from",
   pluralSlug: "temper-grimoires",
-  extendsSlug: "page-type/temper-scribing-thing",
+  extendsSlug: ["page-type/temper-scribing-thing"],
   partSlugs: [
     "page-property-entry/affix-scripts",
     "page-property-entry/signature-scripts",

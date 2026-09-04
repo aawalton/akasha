@@ -9,6 +9,6 @@ export const worldQuest = {
   slug: "world-quest",
   definition: "a piece of work the world sets a character",
   pluralSlug: "world-quests",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

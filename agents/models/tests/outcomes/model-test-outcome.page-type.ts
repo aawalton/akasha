@@ -16,7 +16,7 @@ export const modelTestOutcome = {
     "model-test-outcome/positive-true",
     "model-test-outcome/positive-truthy",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

@@ -28,7 +28,7 @@ export const question = {
   slug: "question",
   definition: "something a persona put to Alan that only Alan can settle",
   pluralSlug: "questions",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/question-context",
     "instant-property/question-closed-at",

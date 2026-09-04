@@ -9,6 +9,6 @@ export const worldLegacy = {
   slug: "world-legacy",
   definition: "an ability a character inherits from whoever held it before",
   pluralSlug: "world-legacies",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

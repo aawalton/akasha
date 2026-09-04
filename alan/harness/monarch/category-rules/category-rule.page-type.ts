@@ -20,7 +20,7 @@ export const categoryRule = {
   slug: "category-rule",
   definition: "a written rule deciding what a transaction counts as",
   pluralSlug: "category-rules",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "number-property/counterpart-within-days",
     "record-property/matches",

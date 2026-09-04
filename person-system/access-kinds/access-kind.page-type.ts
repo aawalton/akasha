@@ -15,5 +15,5 @@ export const accessKind = {
     "access-kind/page-type",
     "access-kind/route",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
 } as const satisfies PageType

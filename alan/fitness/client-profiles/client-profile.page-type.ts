@@ -14,7 +14,7 @@ export const clientProfile = {
   slug: "client-profile",
   definition: "what the coach knows about the body she is training",
   pluralSlug: "client-profiles",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["number-property/bodyweight"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

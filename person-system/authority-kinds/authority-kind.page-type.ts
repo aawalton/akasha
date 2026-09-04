@@ -16,5 +16,5 @@ export const authorityKind = {
     "authority-kind/page-data",
     "authority-kind/page-schema",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
 } as const satisfies PageType

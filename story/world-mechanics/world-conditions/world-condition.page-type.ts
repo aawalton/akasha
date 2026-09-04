@@ -9,6 +9,6 @@ export const worldCondition = {
   slug: "world-condition",
   definition: "a change the world makes to a character, that stays with them",
   pluralSlug: "world-conditions",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

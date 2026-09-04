@@ -13,7 +13,7 @@ export const generatorKind = {
   definition: "how a property's value is worked out when its page is created",
   pluralSlug: "generator-kinds",
   partSlugs: ["boolean-property/after-checks", "generator-kind/uuid-v7"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "after-checks", required: true, many: false }],
   invariants: [
     {

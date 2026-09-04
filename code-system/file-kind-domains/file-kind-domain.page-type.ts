@@ -9,7 +9,7 @@ export const fileKindDomain = {
   slug: "file-kind-domain",
   definition: "one kind of file, told by the name a file carries",
   pluralSlug: "file-kind-domains",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [],
   invariants: [
     {

@@ -12,7 +12,7 @@ export const temperCompletionCategory = {
   slug: "temper-completion-category",
   definition: "one node of the tree completion is counted in",
   pluralSlug: "temper-completion-categories",
-  extendsSlug: "page-type/temper-progress-thing",
+  extendsSlug: ["page-type/temper-progress-thing"],
   partSlugs: ["text-property/tab"],
   properties: [
     { pagePropertySlug: "node-id", required: true, many: false },

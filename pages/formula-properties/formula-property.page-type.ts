@@ -14,7 +14,7 @@ export const formulaProperty = {
   slug: "formula-property",
   definition: "a page property worked out from the others",
   pluralSlug: "formula-properties",
-  extendsSlug: "page-type/page-property",
+  extendsSlug: ["page-type/page-property"],
   partSlugs: ["select-property/holds", "text-property/formula"],
   properties: [
     { pagePropertySlug: "formula", required: true, many: false },

@@ -13,7 +13,7 @@ export const manifest = {
   definition: "the Kubernetes resources a thing is applied as",
   pluralSlug: "manifests",
   partSlugs: ["file-property/manifest-code"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "manifest-code", required: true, many: false }],
   invariants: [
     {

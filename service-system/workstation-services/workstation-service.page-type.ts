@@ -22,7 +22,7 @@ export const workstationService = {
   slug: "workstation-service",
   definition: "a service the workstation runs",
   pluralSlug: "workstation-services",
-  extendsSlug: "page-type/service",
+  extendsSlug: ["page-type/service"],
   partSlugs: [
     "boolean-property/catch-up",
     "boolean-property/enabled",

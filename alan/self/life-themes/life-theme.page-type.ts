@@ -22,7 +22,7 @@ export const lifeTheme = {
   slug: "life-theme",
   definition: "a stretch of Alan's life given over to one of his values",
   pluralSlug: "life-themes",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/end-date",
     "calendar-date-property/start-date",

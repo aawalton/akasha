@@ -62,7 +62,7 @@ export const storyDesign = {
   slug: "story-design",
   definition: "how a story is meant to read, settled before the story is read",
   pluralSlug: "story-designs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "text-property/story-premise",

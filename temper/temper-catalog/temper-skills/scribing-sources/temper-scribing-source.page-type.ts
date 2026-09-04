@@ -16,7 +16,7 @@ export const temperScribingSource = {
   slug: "temper-scribing-source",
   definition: "a run of content the scripts are earned from",
   pluralSlug: "temper-scribing-sources",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/achievement-id",
     "page-property-entry/tier-achievements",

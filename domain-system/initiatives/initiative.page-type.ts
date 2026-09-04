@@ -29,7 +29,7 @@ export const initiative = {
     "text-property/intent-statement",
     "text-property/working-memory",
   ],
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   properties: [
     { pagePropertySlug: "domain-slug", required: true, many: false },
     { pagePropertySlug: "initiative-persona-slug", required: true, many: false },

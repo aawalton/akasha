@@ -9,7 +9,7 @@ export const codeEditorGroupTab = {
   slug: "code-editor-group-tab",
   definition: "a single open item within a group",
   pluralSlug: "code-editor-group-tabs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   invariants: [
     {

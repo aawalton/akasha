@@ -50,7 +50,7 @@ export const computer = {
   slug: "computer",
   definition: "one machine Alan owns, and what it is worth running",
   pluralSlug: "computers",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/purchase-date",
     "number-property/cost",

@@ -18,7 +18,7 @@ export const proposition = {
   slug: "proposition",
   definition: "one statement in the formal system Alan is building",
   pluralSlug: "propositions",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/statement",
     "select-property/proposition-kind",

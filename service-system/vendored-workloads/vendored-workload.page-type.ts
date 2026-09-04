@@ -18,7 +18,7 @@ export const vendoredWorkload = {
   slug: "vendored-workload",
   definition: "a workload the cluster runs that this repository writes no manifest for",
   pluralSlug: "vendored-workloads",
-  extendsSlug: "page-type/service",
+  extendsSlug: ["page-type/service"],
   partSlugs: [
     "vendored-workload/barman-cloud",
     "vendored-workload/cert-manager-cainjector",

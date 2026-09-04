@@ -10,7 +10,7 @@ export const invariantGroup = {
   definition: "the standing an invariant has",
   pluralSlug: "invariant-groups",
   partSlugs: ["invariant-group/condition", "invariant-group/design", "invariant-group/intent"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

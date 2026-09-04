@@ -22,7 +22,7 @@ export const allAboutAlanTopic = {
   slug: "all-about-alan-topic",
   definition: "one topic about Alan",
   pluralSlug: "all-about-alan-topics",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "relation-property/topic-parent-slugs",
     "relation-property/topic-related-slugs",

@@ -16,7 +16,7 @@ export const smsDiscard = {
   slug: "sms-discard",
   definition: "one inbound text message that was thrown away, and why",
   pluralSlug: "sms-discards",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "instant-property/sms-discard-discarded-at",
     "text-property/sms-discard-reason",

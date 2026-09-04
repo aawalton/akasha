@@ -22,7 +22,7 @@ export const modelCheck = {
     "number-property/patch-runs",
     "relation-property/model-test-slugs",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "model-test-slugs", required: true, many: true, max: null },
     { pagePropertySlug: "patch-runs", required: true, many: false },

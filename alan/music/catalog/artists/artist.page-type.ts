@@ -16,7 +16,7 @@ export const artist = {
   slug: "artist",
   definition: "a musician whose work Alan keeps",
   pluralSlug: "artists",
-  extendsSlug: "page-type/collection-external",
+  extendsSlug: ["page-type/collection-external"],
   partSlugs: ["file-property/reaction", "text-property/artist-genre"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

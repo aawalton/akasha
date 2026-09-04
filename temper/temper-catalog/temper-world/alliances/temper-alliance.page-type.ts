@@ -12,7 +12,7 @@ export const temperAlliance = {
   slug: "temper-alliance",
   definition: "a faction the players of Tamriel are divided among",
   pluralSlug: "temper-alliances",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-alliance-id"],
   properties: [{ pagePropertySlug: "eso-alliance-id", required: true, many: false }],
 } as const satisfies PageType

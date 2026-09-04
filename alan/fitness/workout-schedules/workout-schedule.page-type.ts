@@ -16,7 +16,7 @@ export const workoutSchedule = {
   slug: "workout-schedule",
   definition: "a rotation of training days Alan works through",
   pluralSlug: "workout-schedules",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/workout-schedule-active",
     "text-property/workout-schedule-description",

@@ -18,7 +18,7 @@ export const deviceSecret = {
   slug: "device-secret",
   definition: "the credential one device presents in place of a session",
   pluralSlug: "device-secrets",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "instant-property/device-secret-revoked-at",
     "text-property/device-secret-device-id",

@@ -9,5 +9,5 @@ export const temperWeaponBar = {
   slug: "temper-weapon-bar",
   definition: "one of the two rows a character slots weapons into",
   pluralSlug: "temper-weapon-bars",
-  extendsSlug: "page-type/temper-character-thing",
+  extendsSlug: ["page-type/temper-character-thing"],
 } as const satisfies PageType

@@ -9,7 +9,7 @@ export const syncRun = {
   slug: "sync-run",
   definition: "one pull from one outside place",
   pluralSlug: "sync-runs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const kiFranchise = {
   slug: "ki-franchise",
   definition: "the shows and movies Ki watches that share one world",
   pluralSlug: "ki-franchises",
-  extendsSlug: "page-type/ki-collection-template",
+  extendsSlug: ["page-type/ki-collection-template"],
   invariants: [
     {
       invariantKind: "departure",

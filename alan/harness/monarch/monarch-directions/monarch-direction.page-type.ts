@@ -14,7 +14,7 @@ export const monarchDirection = {
   slug: "monarch-direction",
   definition: "what an agent settling a transaction is told to weigh, and where it applies",
   pluralSlug: "monarch-directions",
-  extendsSlug: "page-type/monarch-record",
+  extendsSlug: ["page-type/monarch-record"],
   partSlugs: ["text-property/applies-when", "text-property/directs"],
   properties: [
     { pagePropertySlug: "applies-when", required: true, many: false },

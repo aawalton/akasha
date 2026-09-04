@@ -20,7 +20,7 @@ export const ctwAchievement = {
   slug: "ctw-achievement",
   definition: "one mark a player of Clear the World earns by passing a threshold",
   pluralSlug: "ctw-achievements",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: ["number-property/threshold", "text-property/metric"],
   properties: [

@@ -14,7 +14,7 @@ export const monarchTag = {
   slug: "monarch-tag",
   definition: "a label applied to a transaction",
   pluralSlug: "monarch-tags",
-  extendsSlug: "page-type/monarch-record",
+  extendsSlug: ["page-type/monarch-record"],
   partSlugs: ["number-property/tag-place", "text-property/tag-colour"],
   properties: [
     { pagePropertySlug: "tag-colour", required: true, many: false },

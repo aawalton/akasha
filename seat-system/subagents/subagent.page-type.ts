@@ -18,7 +18,7 @@ export const subagent = {
   slug: "subagent",
   definition: "an agent a seat runs with the Agent tool",
   pluralSlug: "subagents",
-  extendsSlug: "page-type/agent",
+  extendsSlug: ["page-type/agent"],
   mortal: true,
   partSlugs: ["relation-property/subagent-kind", "text-property/agent-id"],
   properties: [

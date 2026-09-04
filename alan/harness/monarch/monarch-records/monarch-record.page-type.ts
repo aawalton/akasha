@@ -16,7 +16,7 @@ export const monarchRecord = {
   slug: "monarch-record",
   definition: "one thing Monarch keeps about the household's money",
   pluralSlug: "monarch-records",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["text-property/monarch-id"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

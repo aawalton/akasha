@@ -28,7 +28,7 @@ export const temperProgressThing = {
   slug: "temper-progress-thing",
   definition: "anything temper keeps a page for about what is done and what is left",
   pluralSlug: "temper-progress-things",
-  extendsSlug: "page-type/temper-thing",
+  extendsSlug: ["page-type/temper-thing"],
   partSlugs: [
     "boolean-property/rrule-anchor-from-completion",
     "text-property/character",

@@ -14,7 +14,7 @@ export const monarchCategory = {
   slug: "monarch-category",
   definition: "what a transaction counts as, from groceries to salary",
   pluralSlug: "monarch-categories",
-  extendsSlug: "page-type/monarch-record",
+  extendsSlug: ["page-type/monarch-record"],
   partSlugs: ["select-property/category-group-type", "text-property/category-group"],
   properties: [
     { pagePropertySlug: "category-group", required: false, many: false },

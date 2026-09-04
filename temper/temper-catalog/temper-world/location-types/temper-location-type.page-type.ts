@@ -9,7 +9,7 @@ export const temperLocationType = {
   slug: "temper-location-type",
   definition: "a sort of place a character's things are held",
   pluralSlug: "temper-location-types",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "display-order", required: true, many: false },

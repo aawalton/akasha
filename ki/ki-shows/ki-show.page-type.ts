@@ -9,7 +9,7 @@ export const kiShow = {
   slug: "ki-show",
   definition: "a story Ki watches in episodes over seasons",
   pluralSlug: "ki-shows",
-  extendsSlug: "page-type/ki-collection-template",
+  extendsSlug: ["page-type/ki-collection-template"],
   invariants: [
     {
       invariantKind: "departure",

@@ -46,7 +46,7 @@ export const relationship = {
   slug: "relationship",
   definition: "one person in Alan's life, and how close they stand",
   pluralSlug: "relationships",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/relationship-sms-allowed",
     "email-address-property/relationship-email",

@@ -18,7 +18,7 @@ export const carYear = {
   slug: "car-year",
   definition: "one model year of a nameplate",
   pluralSlug: "car-years",
-  extendsSlug: "page-type/car",
+  extendsSlug: ["page-type/car"],
   partSlugs: [
     "number-property/model-year",
     "relation-property/car-model-slug",

@@ -14,7 +14,7 @@ export const supervisorAction = {
     "supervisor-action/restart-now",
     "supervisor-action/swap-proxy",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

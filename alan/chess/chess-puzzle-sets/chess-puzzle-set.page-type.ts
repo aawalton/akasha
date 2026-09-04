@@ -14,7 +14,7 @@ export const chessPuzzleSet = {
   slug: "chess-puzzle-set",
   definition: "a body of chess puzzles taken from one place",
   pluralSlug: "chess-puzzle-sets",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "boolean-property/solved",

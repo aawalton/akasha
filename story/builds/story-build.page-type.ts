@@ -24,7 +24,7 @@ export const storyBuild = {
   slug: "story-build",
   definition: "what a played character's numbers are at one chapter",
   pluralSlug: "story-builds",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "number-property/build-level",

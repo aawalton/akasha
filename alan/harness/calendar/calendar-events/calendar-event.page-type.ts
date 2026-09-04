@@ -27,7 +27,7 @@ export const calendarEvent = {
     "url-property/calendar-event-image-url",
     "url-property/calendar-event-registration-url",
   ],
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

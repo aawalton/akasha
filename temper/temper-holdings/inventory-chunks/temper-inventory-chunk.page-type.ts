@@ -16,7 +16,7 @@ export const temperInventoryChunk = {
   slug: "temper-inventory-chunk",
   definition: "one piece of the JSON a reading of an inventory was written as",
   pluralSlug: "temper-inventory-chunks",
-  extendsSlug: "page-type/temper-thing",
+  extendsSlug: ["page-type/temper-thing"],
   partSlugs: [
     "number-property/byte-count",
     "number-property/chunk-index",

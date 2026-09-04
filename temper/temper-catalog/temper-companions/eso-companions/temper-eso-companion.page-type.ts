@@ -20,7 +20,7 @@ export const temperEsoCompanion = {
   slug: "temper-eso-companion",
   definition: "a companion The Elder Scrolls Online itself names",
   pluralSlug: "temper-eso-companions",
-  extendsSlug: "page-type/temper-companion-thing",
+  extendsSlug: ["page-type/temper-companion-thing"],
   partSlugs: [
     "number-property/eso-companion-id",
     "page-property-entry/passive-effects",

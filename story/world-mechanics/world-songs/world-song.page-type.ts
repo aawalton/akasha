@@ -9,6 +9,6 @@ export const worldSong = {
   slug: "world-song",
   definition: "an ability a character works by singing",
   pluralSlug: "world-songs",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

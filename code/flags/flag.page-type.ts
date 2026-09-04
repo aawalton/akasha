@@ -9,7 +9,7 @@ export const flag = {
   slug: "flag",
   definition: "a switch held outside the code that reads it",
   pluralSlug: "flags",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

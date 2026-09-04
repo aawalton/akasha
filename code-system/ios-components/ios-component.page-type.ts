@@ -40,7 +40,7 @@ export const iosComponent = {
     "ios-component/tier",
     "file-property/swift",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "swift", required: true, many: false }],
   invariants: [
     {

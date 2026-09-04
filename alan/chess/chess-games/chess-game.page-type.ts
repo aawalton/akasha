@@ -56,7 +56,7 @@ export const chessGame = {
   slug: "chess-game",
   definition: "one game of chess played out to its end",
   pluralSlug: "chess-games",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   detailConfig: {
     display: "chess-review",

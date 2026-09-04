@@ -38,7 +38,7 @@ export const personaDay = {
   slug: "persona-day",
   definition: "what one persona earned on one day",
   pluralSlug: "persona-days",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "number-property/byte-points",
     "number-property/source-points",

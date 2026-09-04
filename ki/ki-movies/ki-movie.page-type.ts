@@ -9,7 +9,7 @@ export const kiMovie = {
   slug: "ki-movie",
   definition: "a story Ki watches in one sitting",
   pluralSlug: "ki-movies",
-  extendsSlug: "page-type/ki-collection-template",
+  extendsSlug: ["page-type/ki-collection-template"],
   invariants: [
     {
       invariantKind: "departure",

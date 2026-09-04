@@ -13,7 +13,7 @@ export const certificateAuthority = {
   definition: "who signs the certificates a set of names is trusted on",
   pluralSlug: "certificate-authorities",
   partSlugs: ["named-file-property/authority-certificate"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "authority-certificate", required: true, many: false }],
   invariants: [
     {

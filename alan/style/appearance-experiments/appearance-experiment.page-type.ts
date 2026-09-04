@@ -24,7 +24,7 @@ export const appearanceExperiment = {
   slug: "appearance-experiment",
   definition: "one thing Alan tried wearing and how it read",
   pluralSlug: "appearance-experiments",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/appearance-experiment-day",
     "file-property/eye-read",

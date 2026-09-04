@@ -9,7 +9,7 @@ export const trackingEntryDate = {
   slug: "tracking-entry-date",
   definition: "a tracking entry for something true of a whole day",
   pluralSlug: "tracking-entry-dates",
-  extendsSlug: "page-type/tracking-entry",
+  extendsSlug: ["page-type/tracking-entry"],
   invariants: [
     {
       invariantKind: "departure",

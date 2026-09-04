@@ -9,7 +9,7 @@ export const codeEditorTerminal = {
   slug: "code-editor-terminal",
   definition: "a terminal the editor is running",
   pluralSlug: "code-editor-terminals",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   invariants: [
     {

@@ -12,7 +12,7 @@ export const personaCoverImage = {
   slug: "persona-cover-image",
   definition: "the picture a persona is shown by at a rung of closeness",
   pluralSlug: "persona-cover-images",
-  extendsSlug: "page-type/persona-image",
+  extendsSlug: ["page-type/persona-image"],
   partSlugs: [],
   properties: [{ pagePropertySlug: "relationship-level", required: true, many: false }],
   invariants: [

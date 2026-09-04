@@ -81,7 +81,7 @@ export const codeCheck = {
     "code-check/typecheck",
     "code-check/typescript-7",
   ],
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   loadedBySlug: "module/checking",
   properties: [
     { pagePropertySlug: "test", required: true, many: false },

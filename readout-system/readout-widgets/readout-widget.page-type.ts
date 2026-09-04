@@ -53,7 +53,7 @@ export const readoutWidget = {
     "text-property/kind",
     "text-property/opens",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "relation-property/app-slug", required: true, many: false },
     { pagePropertySlug: "component-slug", required: true, many: false },

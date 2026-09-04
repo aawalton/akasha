@@ -12,7 +12,7 @@ export const temperResearchLine = {
   slug: "temper-research-line",
   definition: "one shape of item a player researches traits on",
   pluralSlug: "temper-research-lines",
-  extendsSlug: "page-type/temper-pursuit-thing",
+  extendsSlug: ["page-type/temper-pursuit-thing"],
   partSlugs: [
     "number-property/trait-index",
     "page-property-entry/traits",

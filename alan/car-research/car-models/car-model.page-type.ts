@@ -26,7 +26,7 @@ export const carModel = {
   slug: "car-model",
   definition: "a nameplate a make builds",
   pluralSlug: "car-models",
-  extendsSlug: "page-type/car",
+  extendsSlug: ["page-type/car"],
   partSlugs: [
     "relation-property/car-make-slug",
     "text-property/body-style",

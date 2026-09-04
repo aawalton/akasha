@@ -34,7 +34,7 @@ export const song = {
   slug: "song",
   definition: "a piece of music Alan keeps",
   pluralSlug: "songs",
-  extendsSlug: "page-type/collection-external",
+  extendsSlug: ["page-type/collection-external"],
   partSlugs: [
     "boolean-property/performed",
     "file-property/insights",

@@ -22,7 +22,7 @@ export const monarchAccount = {
   slug: "monarch-account",
   definition: "one balance, whether it is money held or money owed",
   pluralSlug: "monarch-accounts",
-  extendsSlug: "page-type/monarch-record",
+  extendsSlug: ["page-type/monarch-record"],
   partSlugs: [
     "boolean-property/account-active",
     "boolean-property/account-hidden",

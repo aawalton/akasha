@@ -20,7 +20,7 @@ export const storyWikiEntry = {
   slug: "story-wiki-entry",
   definition: "what a story has established about one of the things in it",
   pluralSlug: "story-wiki-entries",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: ["number-property/chapter-number", "select-property/wiki-kind"],
   properties: [

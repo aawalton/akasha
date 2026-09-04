@@ -26,7 +26,7 @@ export const storyElementPlayed = {
   slug: "story-element-played",
   definition: "one thing a story nobody wrote was played out of",
   pluralSlug: "story-elements-played",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "file-property/turn-states",

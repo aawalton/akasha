@@ -64,7 +64,7 @@ export const exercise = {
   slug: "exercise",
   definition: "one movement Alan can be programmed to perform",
   pluralSlug: "exercises",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/is-ballistic",
     "boolean-property/trains-lengthened-range",

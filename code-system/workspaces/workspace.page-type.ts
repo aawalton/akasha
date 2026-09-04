@@ -42,7 +42,7 @@ export const workspace = {
     "named-file-property/workspace-git-ignore",
     "named-file-property/workspace-manifest",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "workspace-manifest", required: true, many: false },
     { pagePropertySlug: "lockfile", required: true, many: false },

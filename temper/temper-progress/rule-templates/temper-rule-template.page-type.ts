@@ -22,7 +22,7 @@ export const temperRuleTemplate = {
   slug: "temper-rule-template",
   definition: "a ready-made rule for what to do with an item",
   pluralSlug: "temper-rule-templates",
-  extendsSlug: "page-type/temper-progress-thing",
+  extendsSlug: ["page-type/temper-progress-thing"],
   partSlugs: [
     "boolean-property/active",
     "page-property-entry/conditions",

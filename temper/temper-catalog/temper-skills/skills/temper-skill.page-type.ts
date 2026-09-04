@@ -26,7 +26,7 @@ export const temperSkill = {
   slug: "temper-skill",
   definition: "something a character does, learned from a skill line",
   pluralSlug: "temper-skills",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "boolean-property/is-morph",
     "number-property/eso-skill-id",

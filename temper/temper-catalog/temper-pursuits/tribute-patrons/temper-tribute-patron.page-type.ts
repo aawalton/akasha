@@ -14,7 +14,7 @@ export const temperTributePatron = {
   slug: "temper-tribute-patron",
   definition: "a patron a Tales of Tribute deck is built around",
   pluralSlug: "temper-tribute-patrons",
-  extendsSlug: "page-type/temper-pursuit-thing",
+  extendsSlug: ["page-type/temper-pursuit-thing"],
   partSlugs: [
     "number-property/card-index",
     "number-property/eso-patron-id",

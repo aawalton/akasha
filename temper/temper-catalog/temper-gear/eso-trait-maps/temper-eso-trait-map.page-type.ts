@@ -16,7 +16,7 @@ export const temperEsoTraitMap = {
   slug: "temper-eso-trait-map",
   definition: "the number the game holds for one trait on one kind of piece",
   pluralSlug: "temper-eso-trait-maps",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/eso-trait-num",
     "text-property/trait-family",

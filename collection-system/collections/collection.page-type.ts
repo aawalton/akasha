@@ -78,7 +78,7 @@ export const collection = {
     "text-property/collection-description",
     "text-property/collection-tags",
   ],
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   properties: [
     { pagePropertySlug: "collection-author", required: false, many: false },
     { pagePropertySlug: "collection-completed-at", required: false, many: false },

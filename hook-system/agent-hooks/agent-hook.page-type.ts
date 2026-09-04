@@ -33,7 +33,7 @@ export const agentHook = {
     "text-property/over-tools",
     "text-property/runs-at",
   ],
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   properties: [
     { pagePropertySlug: "runs-at", required: true, many: true, max: null },
     { pagePropertySlug: "over-tools", required: false, many: true, max: null },

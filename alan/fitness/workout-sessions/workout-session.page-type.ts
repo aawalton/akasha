@@ -22,7 +22,7 @@ export const workoutSession = {
   slug: "workout-session",
   definition: "one occasion Alan trained",
   pluralSlug: "workout-sessions",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/workout-session-date",
     "instant-property/workout-session-completed-at",

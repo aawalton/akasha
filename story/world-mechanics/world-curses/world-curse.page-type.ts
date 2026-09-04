@@ -9,6 +9,6 @@ export const worldCurse = {
   slug: "world-curse",
   definition: "a lasting harm somebody lays on a character",
   pluralSlug: "world-curses",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

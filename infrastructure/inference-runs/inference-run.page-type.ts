@@ -7,7 +7,7 @@ export const inferenceRun = {
   slug: "inference-run",
   definition: "one loading of a model to make something, and how it went",
   pluralSlug: "inference-runs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

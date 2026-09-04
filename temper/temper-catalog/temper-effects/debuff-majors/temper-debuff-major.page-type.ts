@@ -9,7 +9,7 @@ export const temperDebuffMajor = {
   slug: "temper-debuff-major",
   definition: "a harmful effect the game names Major",
   pluralSlug: "temper-debuff-majors",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "description", required: true, many: false },

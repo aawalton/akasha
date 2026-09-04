@@ -22,7 +22,7 @@ export const bookRecord = {
   slug: "book-record",
   definition: "one record kept about a book Alan is writing",
   pluralSlug: "book-records",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "file-property/writing",

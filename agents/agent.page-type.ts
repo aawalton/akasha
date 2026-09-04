@@ -16,7 +16,7 @@ export const agent = {
   slug: "agent",
   definition: "one an agent id names, working from a seat or under one",
   pluralSlug: "agents",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   partSlugs: [
     "file-property/patch",

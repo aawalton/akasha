@@ -16,7 +16,7 @@ export const allAboutAlanModel = {
   slug: "all-about-alan-model",
   definition: "one computation of a mechanism in Alan",
   pluralSlug: "all-about-alan-models",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["file-property/simulation"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

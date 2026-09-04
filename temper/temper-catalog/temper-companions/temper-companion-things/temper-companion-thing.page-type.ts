@@ -12,7 +12,7 @@ export const temperCompanionThing = {
   slug: "temper-companion-thing",
   definition: "anything the companion side of the catalog keeps a page for",
   pluralSlug: "temper-companion-things",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/equip-type"],
   properties: [{ pagePropertySlug: "equip-type", required: false, many: false }],
   invariants: [

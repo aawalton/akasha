@@ -32,7 +32,7 @@ export const temperCatalogThing = {
   slug: "temper-catalog-thing",
   definition: "anything the game itself holds that temper mirrors a page for",
   pluralSlug: "temper-catalog-things",
-  extendsSlug: "page-type/temper-thing",
+  extendsSlug: ["page-type/temper-thing"],
   partSlugs: [
     "boolean-property/available",
     "boolean-property/is-two-handed",

@@ -12,7 +12,7 @@ export const temperPursuitThing = {
   slug: "temper-pursuit-thing",
   definition: "one node of a catalog the game shows a player's progress against",
   pluralSlug: "temper-pursuit-things",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-collectible-id"],
   properties: [{ pagePropertySlug: "eso-collectible-id", required: false, many: false }],
   invariants: [

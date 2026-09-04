@@ -9,7 +9,7 @@ export const kiBookSeries = {
   slug: "ki-book-series",
   definition: "the books Ki keeps that carry one story in order",
   pluralSlug: "ki-book-series",
-  extendsSlug: "page-type/ki-collection-template",
+  extendsSlug: ["page-type/ki-collection-template"],
   invariants: [
     {
       invariantKind: "departure",

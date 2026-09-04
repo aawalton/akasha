@@ -16,7 +16,7 @@ export const temperEsoPlayerEquipmentConstant = {
   slug: "temper-eso-player-equipment-constant",
   definition: "the number the game holds for one gear value",
   pluralSlug: "temper-eso-player-equipment-constants",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/eso-num",
     "text-property/constant-family",

@@ -9,7 +9,7 @@ export const codeEditorWindow = {
   slug: "code-editor-window",
   definition: "one open window of the editor",
   pluralSlug: "code-editor-windows",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   invariants: [
     {

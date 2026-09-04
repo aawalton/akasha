@@ -28,7 +28,7 @@ export const nav = {
   slug: "nav",
   definition: "one item in an app's navigation, and the views beneath it",
   pluralSlug: "navs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/show-count-badge",
     "number-property/draw-cost",

@@ -12,7 +12,7 @@ export const emailRuleAgent = {
   slug: "email-rule-agent",
   definition: "an email rule an agent carries out",
   pluralSlug: "email-rule-agents",
-  extendsSlug: "page-type/email-rule",
+  extendsSlug: ["page-type/email-rule"],
   partSlugs: ["text-property/email-rule-judgement"],
   properties: [{ pagePropertySlug: "email-rule-judgement", required: true, many: false }],
   invariants: [

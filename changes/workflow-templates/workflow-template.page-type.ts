@@ -18,7 +18,7 @@ export const workflowTemplate = {
   slug: "workflow-template",
   definition: "a named group of steps a run carries out",
   pluralSlug: "workflow-templates",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/declaration",
     "relation-property/workflow-cluster-service-slugs",

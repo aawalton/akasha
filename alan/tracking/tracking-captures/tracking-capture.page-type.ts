@@ -9,7 +9,7 @@ export const trackingCapture = {
   slug: "tracking-capture",
   definition: "how something Alan did comes to be an entry",
   pluralSlug: "tracking-captures",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

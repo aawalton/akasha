@@ -30,7 +30,7 @@ export const personaCraftDay = {
   slug: "persona-craft-day",
   definition: "what the persona who makes personas did on one day",
   pluralSlug: "persona-craft-days",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "number-property/advance-count",
     "number-property/green-day",

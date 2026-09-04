@@ -18,7 +18,7 @@ export const deviceToken = {
   slug: "device-token",
   definition: "where Apple delivers a push for one app on one device",
   pluralSlug: "device-tokens",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   partSlugs: [
     "instant-property/device-token-last-seen-at",

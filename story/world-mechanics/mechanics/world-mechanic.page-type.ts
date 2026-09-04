@@ -22,7 +22,7 @@ export const worldMechanic = {
   slug: "world-mechanic",
   definition: "one thing a world does the same way every time",
   pluralSlug: "world-mechanics",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "boolean-property/claimed",

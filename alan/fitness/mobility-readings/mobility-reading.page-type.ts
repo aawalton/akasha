@@ -26,7 +26,7 @@ export const mobilityReading = {
   slug: "mobility-reading",
   definition: "one measurement of how far a joint moved on a day",
   pluralSlug: "mobility-readings",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/mobility-reading-date",
     "number-property/mobility-reading-value-num",

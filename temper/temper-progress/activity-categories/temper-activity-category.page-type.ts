@@ -12,7 +12,7 @@ export const temperActivityCategory = {
   slug: "temper-activity-category",
   definition: "a sort of thing there is to do in the game",
   pluralSlug: "temper-activity-categories",
-  extendsSlug: "page-type/temper-progress-thing",
+  extendsSlug: ["page-type/temper-progress-thing"],
   partSlugs: ["text-property/badge-variant"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },

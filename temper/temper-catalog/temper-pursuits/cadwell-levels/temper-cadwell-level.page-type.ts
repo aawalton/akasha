@@ -12,7 +12,7 @@ export const temperCadwellLevel = {
   slug: "temper-cadwell-level",
   definition: "one tier of Cadwell's Almanac a player works through",
   pluralSlug: "temper-cadwell-levels",
-  extendsSlug: "page-type/temper-pursuit-thing",
+  extendsSlug: ["page-type/temper-pursuit-thing"],
   partSlugs: [
     "number-property/stop-index",
     "number-property/zone-index",

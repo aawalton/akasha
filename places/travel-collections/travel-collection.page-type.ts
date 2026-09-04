@@ -12,6 +12,6 @@ export const travelCollection = {
   slug: "travel-collection",
   definition: "a shelf of places Alan means to travel to",
   pluralSlug: "travel-collections",
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   properties: [{ pagePropertySlug: "title", required: true, many: false }],
 } as const satisfies PageType

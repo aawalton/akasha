@@ -9,7 +9,7 @@ export const categoryRuleCode = {
   slug: "category-rule-code",
   definition: "a category rule its clauses alone carry out",
   pluralSlug: "category-rule-codes",
-  extendsSlug: "page-type/category-rule",
+  extendsSlug: ["page-type/category-rule"],
   invariants: [
     {
       invariantKind: "departure",

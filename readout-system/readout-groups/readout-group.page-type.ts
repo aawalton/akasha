@@ -24,7 +24,7 @@ export const readoutGroup = {
     "readout-group/values",
     "text-property/sort-order",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "sort-order", required: false, many: false, default: "label" }],
   invariants: [
     {

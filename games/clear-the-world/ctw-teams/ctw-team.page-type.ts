@@ -22,7 +22,7 @@ export const ctwTeam = {
   slug: "ctw-team",
   definition: "one demining organisation a player of Clear the World plays as",
   pluralSlug: "ctw-teams",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "number-property/cells-cleared",
     "number-property/craters",

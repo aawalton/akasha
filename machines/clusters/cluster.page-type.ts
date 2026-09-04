@@ -10,7 +10,7 @@ export const cluster = {
   definition: "the machines in Alan's home lab",
   pluralSlug: "clusters",
   partSlugs: ["cluster/main"],
-  extendsSlug: "page-type/host",
+  extendsSlug: ["page-type/host"],
   invariants: [
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const temperAntiquityCategory = {
   slug: "temper-antiquity-category",
   definition: "a grouping the game files antiquity lore under",
   pluralSlug: "temper-antiquity-categories",
-  extendsSlug: "page-type/temper-pursuit-thing",
+  extendsSlug: ["page-type/temper-pursuit-thing"],
   partSlugs: [
     "number-property/eso-antiquity-category-id",
     "number-property/eso-antiquity-id",

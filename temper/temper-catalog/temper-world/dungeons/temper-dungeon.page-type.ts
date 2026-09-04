@@ -16,7 +16,7 @@ export const temperDungeon = {
   slug: "temper-dungeon",
   definition: "a group instance a party fights through together",
   pluralSlug: "temper-dungeons",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/rotation-position",
     "relation-property/quest-giver",

@@ -18,7 +18,7 @@ export const world = {
   slug: "world",
   definition: "a made-up somewhere",
   pluralSlug: "worlds",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "page-property-entry/character-readings",

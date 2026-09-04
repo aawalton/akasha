@@ -18,7 +18,7 @@ export const car = {
   slug: "car",
   definition: "one level of a maker's catalogue, as Alan weighed buying from it",
   pluralSlug: "cars",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/short-list",
     "text-property/exclusion-reason",

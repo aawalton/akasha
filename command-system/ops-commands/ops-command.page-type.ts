@@ -32,7 +32,7 @@ export const opsCommand = {
   slug: "ops-command",
   definition: "a command of the old ops CLI, with the help one call prints",
   pluralSlug: "ops-commands",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["file-property/ops-help", "text-property/ops-entry-file", "text-property/ops-path"],
   properties: [
     { pagePropertySlug: "definition", required: true, many: false },

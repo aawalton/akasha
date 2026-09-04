@@ -9,6 +9,6 @@ export const worldMiracle = {
   slug: "world-miracle",
   definition: "an ability a character works from faith rather than magic",
   pluralSlug: "world-miracles",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

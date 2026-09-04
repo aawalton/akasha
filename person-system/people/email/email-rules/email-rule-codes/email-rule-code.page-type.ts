@@ -18,7 +18,7 @@ export const emailRuleCode = {
   slug: "email-rule-code",
   definition: "an email rule its own clauses carry out",
   pluralSlug: "email-rule-codes",
-  extendsSlug: "page-type/email-rule",
+  extendsSlug: ["page-type/email-rule"],
   partSlugs: [
     "relation-property/email-rule-code-forward-to-slug",
     "select-property/email-rule-code-actions",

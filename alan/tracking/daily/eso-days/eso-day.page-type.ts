@@ -20,7 +20,7 @@ export const esoDay = {
   slug: "eso-day",
   definition: "what was measured about one of Alan's ESO days",
   pluralSlug: "eso-days",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "instant-property/arrived-at",
     "instant-property/ended-at",

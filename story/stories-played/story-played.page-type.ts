@@ -16,7 +16,7 @@ export const storyPlayed = {
   slug: "story-played",
   definition: "a story nobody wrote",
   pluralSlug: "stories-played",
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   runsTabooCheck: false,
   partSlugs: ["file-property/prose", "relation-property/world-slug"],
   properties: [

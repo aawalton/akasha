@@ -9,6 +9,6 @@ export const temperCompanionPassiveMetric = {
   slug: "temper-companion-passive-metric",
   definition: "a number a companion passive moves",
   pluralSlug: "temper-companion-passive-metrics",
-  extendsSlug: "page-type/temper-companion-thing",
+  extendsSlug: ["page-type/temper-companion-thing"],
   properties: [{ pagePropertySlug: "key", required: true, many: false }],
 } as const satisfies PageType

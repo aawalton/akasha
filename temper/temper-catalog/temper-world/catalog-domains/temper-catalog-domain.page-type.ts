@@ -22,7 +22,7 @@ export const temperCatalogDomain = {
   slug: "temper-catalog-domain",
   definition: "one area of the game a capture mirrors",
   pluralSlug: "temper-catalog-domains",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "boolean-property/dormant",
     "number-property/generator-ran-for-manifest-api-version",

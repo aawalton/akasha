@@ -9,6 +9,6 @@ export const temperCompanionRole = {
   slug: "temper-companion-role",
   definition: "a mix of parts one companion plays at once",
   pluralSlug: "temper-companion-roles",
-  extendsSlug: "page-type/temper-companion-thing",
+  extendsSlug: ["page-type/temper-companion-thing"],
   properties: [{ pagePropertySlug: "key", required: true, many: false }],
 } as const satisfies PageType

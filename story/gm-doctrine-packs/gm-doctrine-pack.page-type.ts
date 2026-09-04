@@ -20,7 +20,7 @@ export const gmDoctrinePack = {
   slug: "gm-doctrine-pack",
   definition: "the rulings a game master runs every game by",
   pluralSlug: "gm-doctrine-packs",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "file-property/gate-dimensions",

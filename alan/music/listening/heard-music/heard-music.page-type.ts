@@ -14,7 +14,7 @@ export const heardMusic = {
   slug: "heard-music",
   definition: "every track one person has heard",
   pluralSlug: "heard-music",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["page-property-entry/tracks"],
   properties: [
     { pagePropertySlug: "person-slug", required: true, many: false },

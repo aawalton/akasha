@@ -38,7 +38,7 @@ export const iosProgram = {
     "text-property/profile-name",
     "text-property/target-name",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "bundle-id", required: false, many: false },
     { pagePropertySlug: "component-slugs", required: false, many: true, max: null },

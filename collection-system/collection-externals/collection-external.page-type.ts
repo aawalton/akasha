@@ -24,7 +24,7 @@ export const collectionExternal = {
     "text-property/source",
     "url-property/external-link",
   ],
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   properties: [
     { pagePropertySlug: "external-id", required: false, many: false },
     { pagePropertySlug: "external-link", required: false, many: false },

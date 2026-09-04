@@ -14,7 +14,7 @@ export const emailRule = {
   slug: "email-rule",
   definition: "what to do with some of a person's mail",
   pluralSlug: "email-rules",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "record-property/email-rule-matches",
     "select-property/email-rule-match-comparison",

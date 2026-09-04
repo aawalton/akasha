@@ -30,7 +30,7 @@ export const error = {
   slug: "error",
   definition: "one fault a client met, gathered under the fingerprint the fault hashes to",
   pluralSlug: "errors",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   partSlugs: [
     "instant-property/error-first-seen-at",

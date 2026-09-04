@@ -16,7 +16,7 @@ export const temperMotifStyle = {
   slug: "temper-motif-style",
   definition: "a crafting style a piece is made in the look of",
   pluralSlug: "temper-motif-styles",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: [
     "number-property/collection-index",
     "text-property/drop-sources",

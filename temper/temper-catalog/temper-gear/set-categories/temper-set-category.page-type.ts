@@ -9,7 +9,7 @@ export const temperSetCategory = {
   slug: "temper-set-category",
   definition: "where a set is got from",
   pluralSlug: "temper-set-categories",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "display-order", required: true, many: false },

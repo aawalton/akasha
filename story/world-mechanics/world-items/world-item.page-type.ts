@@ -9,6 +9,6 @@ export const worldItem = {
   slug: "world-item",
   definition: "a thing a character carries, that does something on its own",
   pluralSlug: "world-items",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

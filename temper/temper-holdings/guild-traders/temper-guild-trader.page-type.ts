@@ -12,7 +12,7 @@ export const temperGuildTrader = {
   slug: "temper-guild-trader",
   definition: "a kiosk a guild rents to sell from",
   pluralSlug: "temper-guild-traders",
-  extendsSlug: "page-type/temper-thing",
+  extendsSlug: ["page-type/temper-thing"],
   partSlugs: ["number-property/kiosk-id"],
   properties: [{ pagePropertySlug: "kiosk-id", required: true, many: false }],
 } as const satisfies PageType

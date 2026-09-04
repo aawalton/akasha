@@ -16,7 +16,7 @@ export const gmailMailbox = {
   slug: "gmail-mailbox",
   definition: "one Gmail account the system reads mail from",
   pluralSlug: "gmail-mailboxes",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["page-property-entry/processed-messages"],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },

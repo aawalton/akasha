@@ -14,7 +14,7 @@ export const temperCompletedDay = {
   slug: "temper-completed-day",
   definition: "one day of tasks already marked done",
   pluralSlug: "temper-completed-days",
-  extendsSlug: "page-type/temper-progress-thing",
+  extendsSlug: ["page-type/temper-progress-thing"],
   partSlugs: [
     "instant-property/completed-at",
     "page-property-entry/completions",

@@ -9,6 +9,6 @@ export const worldAspect = {
   slug: "world-aspect",
   definition: "a change the world makes to what a character is made of",
   pluralSlug: "world-aspects",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

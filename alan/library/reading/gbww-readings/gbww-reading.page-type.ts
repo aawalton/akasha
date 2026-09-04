@@ -26,7 +26,7 @@ export const gbwwReading = {
   slug: "gbww-reading",
   definition: "one reading on the Great Books of the Western World ten-year plan",
   pluralSlug: "gbww-readings",
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   partSlugs: [
     "number-property/gbww-plan-year",
     "number-property/gbww-reading-number",

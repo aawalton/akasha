@@ -26,7 +26,7 @@ export const alert = {
   slug: "alert",
   definition: "a condition on the system somebody is told about",
   pluralSlug: "alerts",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/alert-description",
     "relation-property/alert-persona-slug",

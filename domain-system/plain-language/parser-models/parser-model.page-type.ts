@@ -18,7 +18,7 @@ export const parserModel = {
   slug: "parser-model",
   definition: "a trained parser the code loads to read a sentence",
   pluralSlug: "parser-models",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/model-manifest",
     "file-property/parser-weights",

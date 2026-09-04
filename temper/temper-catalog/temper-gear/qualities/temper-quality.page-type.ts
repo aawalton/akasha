@@ -9,7 +9,7 @@ export const temperQuality = {
   slug: "temper-quality",
   definition: "the grade a piece is made at",
   pluralSlug: "temper-qualities",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "display-order", required: true, many: false },

@@ -42,7 +42,7 @@ export const value = {
     "value/wealth",
     "domain/next-persona",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "label", required: true, many: false },
     { pagePropertySlug: "description", required: false, many: false },

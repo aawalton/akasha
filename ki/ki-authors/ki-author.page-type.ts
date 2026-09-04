@@ -9,5 +9,5 @@ export const kiAuthor = {
   slug: "ki-author",
   definition: "someone who wrote a book Ki keeps",
   pluralSlug: "ki-authors",
-  extendsSlug: "page-type/ki-collection-template",
+  extendsSlug: ["page-type/ki-collection-template"],
 } as const satisfies PageType

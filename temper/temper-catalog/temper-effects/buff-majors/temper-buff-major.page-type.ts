@@ -9,7 +9,7 @@ export const temperBuffMajor = {
   slug: "temper-buff-major",
   definition: "a helpful effect the game names Major",
   pluralSlug: "temper-buff-majors",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "description", required: true, many: false },

@@ -22,7 +22,7 @@ export const worldCharacter = {
   slug: "world-character",
   definition: "somebody a world's story follows",
   pluralSlug: "world-characters",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "number-property/event-count",

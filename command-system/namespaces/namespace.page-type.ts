@@ -9,7 +9,7 @@ export const namespace = {
   slug: "namespace",
   definition: "a domain gathering the commands whose slugs open with its own and a hyphen",
   pluralSlug: "namespaces",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

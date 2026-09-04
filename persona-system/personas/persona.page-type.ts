@@ -38,7 +38,7 @@ export const persona = {
   slug: "persona",
   definition: "a part of Alan's life personified as someone who answers for it",
   pluralSlug: "personas",
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   detailConfig: {
     display: "persona",
     frame: {

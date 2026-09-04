@@ -17,7 +17,7 @@ export const module = {
   definition: "code reached by importing it",
   pluralSlug: "modules",
   partSlugs: ["file-property/code", "file-property/test", "file-property/test-fixtures"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "code", required: true, many: false },
     { pagePropertySlug: "test", required: false, many: false },

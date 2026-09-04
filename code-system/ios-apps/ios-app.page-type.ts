@@ -88,7 +88,7 @@ export const iosApp = {
     "text-property/widget-bundle-id",
     "text-property/widget-profile-name",
   ],
-  extendsSlug: "page-type/workspace-package",
+  extendsSlug: ["page-type/workspace-package"],
   properties: [
     { pagePropertySlug: "app-profile-name", required: true, many: false },
     { pagePropertySlug: "asc-capabilities", required: false, many: true, max: null },

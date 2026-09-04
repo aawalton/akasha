@@ -40,7 +40,7 @@ export const selectionPolicy = {
   slug: "selection-policy",
   definition: "the numbers the coach picks and bounds a session by",
   pluralSlug: "selection-policies",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "number-property/anchor-block-weeks",
     "number-property/anchor-escape-rpe-ceiling",

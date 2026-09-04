@@ -9,6 +9,6 @@ export const worldSpell = {
   slug: "world-spell",
   definition: "an ability a character works from the magic around them",
   pluralSlug: "world-spells",
-  extendsSlug: "page-type/world-mechanic",
+  extendsSlug: ["page-type/world-mechanic"],
   runsTabooCheck: false,
 } as const satisfies PageType

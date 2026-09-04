@@ -20,7 +20,7 @@ export const scripturePassage = {
   slug: "scripture-passage",
   definition: "one chapter of scripture Alan reads",
   pluralSlug: "scripture-passages",
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   partSlugs: [
     "file-property/passage-text",
     "select-property/scripture-translation",

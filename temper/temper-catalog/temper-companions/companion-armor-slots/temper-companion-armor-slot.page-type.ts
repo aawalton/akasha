@@ -9,7 +9,7 @@ export const temperCompanionArmorSlot = {
   slug: "temper-companion-armor-slot",
   definition: "a place a companion wears one piece of armor",
   pluralSlug: "temper-companion-armor-slots",
-  extendsSlug: "page-type/temper-companion-thing",
+  extendsSlug: ["page-type/temper-companion-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "equip-type", required: true, many: false },

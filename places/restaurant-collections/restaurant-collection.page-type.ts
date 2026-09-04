@@ -12,6 +12,6 @@ export const restaurantCollection = {
   slug: "restaurant-collection",
   definition: "a shelf of restaurants Alan keeps together",
   pluralSlug: "restaurant-collections",
-  extendsSlug: "page-type/collection",
+  extendsSlug: ["page-type/collection"],
   properties: [{ pagePropertySlug: "title", required: true, many: false }],
 } as const satisfies PageType

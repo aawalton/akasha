@@ -19,6 +19,6 @@ export const modelFamily = {
     "model-family/sonnet",
     "text-property/model-name",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "model-name", required: true, many: false }],
 } as const satisfies PageType

@@ -16,7 +16,7 @@ export const temperPoisonEffect = {
   slug: "temper-poison-effect",
   definition: "one effect a reagent lends what it is brewed into",
   pluralSlug: "temper-poison-effects",
-  extendsSlug: "page-type/temper-gear-thing",
+  extendsSlug: ["page-type/temper-gear-thing"],
   partSlugs: [
     "boolean-property/is-positive",
     "number-property/cooldown",

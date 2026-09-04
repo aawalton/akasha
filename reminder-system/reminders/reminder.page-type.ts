@@ -20,7 +20,7 @@ export const reminder = {
   slug: "reminder",
   definition: "words sent to somebody at the times the words name",
   pluralSlug: "reminders",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   mortal: true,
   partSlugs: [
     "instant-property/next-at",

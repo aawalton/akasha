@@ -20,5 +20,5 @@ export const originKind = {
     "origin-kind/sanskrit",
     "origin-kind/welsh",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
 } as const satisfies PageType

@@ -14,7 +14,7 @@ export const temperQuestGiver = {
   slug: "temper-quest-giver",
   definition: "a character handing out the pledges of a day",
   pluralSlug: "temper-quest-givers",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/cycle-length", "text-property/epoch"],
   properties: [
     { pagePropertySlug: "cycle-length", required: true, many: false },

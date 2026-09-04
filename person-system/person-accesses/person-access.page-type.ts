@@ -18,7 +18,7 @@ export const personAccess = {
   slug: "person-access",
   definition: "what a person may reach in the system",
   pluralSlug: "person-accesses",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "relation-property/person-access-kind",
     "relation-property/person-access-person-slug",

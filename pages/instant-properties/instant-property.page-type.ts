@@ -9,7 +9,7 @@ export const instantProperty = {
   slug: "instant-property",
   definition: "a page property holding a single point in time",
   pluralSlug: "instant-properties",
-  extendsSlug: "page-type/page-property",
+  extendsSlug: ["page-type/page-property"],
   invariants: [
     {
       invariantKind: "departure",

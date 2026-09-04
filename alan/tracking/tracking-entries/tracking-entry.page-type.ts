@@ -9,7 +9,7 @@ export const trackingEntry = {
   slug: "tracking-entry",
   definition: "one set of field values written down together",
   pluralSlug: "tracking-entries",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

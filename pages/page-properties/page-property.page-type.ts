@@ -26,7 +26,7 @@ export const pageProperty = {
     "relation-property/unique",
     "text-property/property-slug",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "property-slug", required: true, many: false },
     { pagePropertySlug: "generator", required: false, many: false },

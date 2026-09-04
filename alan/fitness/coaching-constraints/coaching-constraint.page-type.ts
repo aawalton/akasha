@@ -22,7 +22,7 @@ export const coachingConstraint = {
   slug: "coaching-constraint",
   definition: "a standing limit or cue the coach programs within",
   pluralSlug: "coaching-constraints",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "boolean-property/coaching-constraint-active",
     "file-property/asks",

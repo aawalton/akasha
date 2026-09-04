@@ -23,7 +23,7 @@ export const nameFormat = {
     "name-format/upper-snake-case",
     "name-format/upper-uuid",
   ],
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   loadedBySlug: "module/format-reaching",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
   invariants: [

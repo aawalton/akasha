@@ -9,5 +9,5 @@ export const temperCharacterRole = {
   slug: "temper-character-role",
   definition: "the part a character plays in a group",
   pluralSlug: "temper-character-roles",
-  extendsSlug: "page-type/temper-character-thing",
+  extendsSlug: ["page-type/temper-character-thing"],
 } as const satisfies PageType

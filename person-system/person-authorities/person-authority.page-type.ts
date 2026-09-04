@@ -16,7 +16,7 @@ export const personAuthority = {
   slug: "person-authority",
   definition: "what a person may cause the system to do",
   pluralSlug: "person-authorities",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "relation-property/person-authority-kind",
     "relation-property/person-authority-person-slug",

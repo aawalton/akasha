@@ -13,7 +13,7 @@ export const workspacePackage = {
   definition: "a domain the workspace installs as one",
   pluralSlug: "workspace-packages",
   partSlugs: ["named-file-property/manifest"],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [{ pagePropertySlug: "manifest", required: true, many: false }],
   invariants: [
     {

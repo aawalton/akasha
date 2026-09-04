@@ -44,7 +44,7 @@ export const provisionedFile = {
     "text-property/install-path",
     "text-property/reload-with",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "content", required: true, many: false },
     { pagePropertySlug: "placed-by", required: true, many: false },

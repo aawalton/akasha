@@ -14,7 +14,7 @@ export const telnyxAccount = {
   slug: "telnyx-account",
   definition: "the account the system sends texts through",
   pluralSlug: "telnyx-accounts",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "phone-number-property/telnyx-account-from-number",
     "text-property/telnyx-account-api-key",

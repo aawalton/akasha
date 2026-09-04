@@ -9,7 +9,7 @@ export const temperArmorSlot = {
   slug: "temper-armor-slot",
   definition: "a place on the body a piece of armor is worn",
   pluralSlug: "temper-armor-slots",
-  extendsSlug: "page-type/temper-catalog-thing",
+  extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "display-order", required: true, many: false },

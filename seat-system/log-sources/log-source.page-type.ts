@@ -9,7 +9,7 @@ export const logSource = {
   slug: "log-source",
   definition: "a stream of console lines the processes behind a seat write",
   pluralSlug: "log-sources",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

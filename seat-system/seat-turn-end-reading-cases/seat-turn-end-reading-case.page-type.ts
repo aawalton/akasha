@@ -14,7 +14,7 @@ export const seatTurnEndReadingCase = {
   slug: "seat-turn-end-reading-case",
   definition: "one turn end kept beside the answer the turn end is owed",
   pluralSlug: "seat-turn-end-reading-cases",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: ["text-property/case-final-message", "text-property/case-prompt"],
   properties: [
     { pagePropertySlug: "case-prompt", required: true, many: false },

@@ -24,7 +24,7 @@ export const clusterCheck = {
   slug: "cluster-check",
   definition: "a check too slow to run beside the work, run over the whole tree",
   pluralSlug: "cluster-checks",
-  extendsSlug: "page-type/module",
+  extendsSlug: ["page-type/module"],
   partSlugs: [
     "boolean-property/always-run",
     "boolean-property/tree-sha",

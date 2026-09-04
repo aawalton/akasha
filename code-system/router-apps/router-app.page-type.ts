@@ -25,7 +25,7 @@ export const routerApp = {
     "named-file-property/server-entry",
     "type-declaration/vite-client",
   ],
-  extendsSlug: "page-type/workspace-package",
+  extendsSlug: ["page-type/workspace-package"],
   properties: [
     { pagePropertySlug: "root-route", required: true, many: false },
     { pagePropertySlug: "route-table", required: true, many: false },

@@ -18,7 +18,7 @@ export const chessReviewSession = {
   slug: "chess-review-session",
   definition: "one game stepped through move by move with the coach",
   pluralSlug: "chess-review-sessions",
-  extendsSlug: "page-type/page",
+  extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/chess-review-session-notes",
     "instant-property/reviewed-at",

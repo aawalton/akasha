@@ -20,7 +20,7 @@ export const personaWallpaper = {
   slug: "persona-wallpaper",
   definition: "the picture a persona was hung on Alan's glass as",
   pluralSlug: "persona-wallpapers",
-  extendsSlug: "page-type/persona-image",
+  extendsSlug: ["page-type/persona-image"],
   properties: [
     { pagePropertySlug: "relationship-level", required: false, many: false },
     { pagePropertySlug: "stage", required: false, many: false },
