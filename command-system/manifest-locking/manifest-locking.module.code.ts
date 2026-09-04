@@ -40,8 +40,6 @@ const INSTALL = ["install"]
 
 const MODULES = "node_modules"
 
-const SCOPE = "@"
-
 export const LOCKING_SPELLING =
   `the lockfile is made again from the manifests the base commit tracks with this change worked ` +
   `into them, so a change touching no \`${MANIFEST}\` is left alone and a change carrying its own ` +
@@ -175,10 +173,18 @@ function isStranded(at: string): boolean {
   return !existsSync(at)
 }
 
+function isFolder(at: string): boolean {
+  try {
+    return lstatSync(at).isDirectory()
+  } catch {
+    return false
+  }
+}
+
 function strandedIn(root: string): readonly string[] {
   const modules = join(root, MODULES)
   const took: string[] = []
-  const walk = (dir: string, scoped: boolean): undefined => {
+  const walk = (dir: string, deeper: boolean): undefined => {
     let names: readonly string[]
     try {
       names = readdirSync(dir)
@@ -187,13 +193,12 @@ function strandedIn(root: string): readonly string[] {
     }
     for (const name of names) {
       const one = join(dir, name)
-      if (scoped && name.startsWith(SCOPE)) {
-        walk(one, false)
+      if (isStranded(one)) {
+        rmSync(one)
+        took.push(relative(modules, one))
         continue
       }
-      if (!isStranded(one)) continue
-      rmSync(one)
-      took.push(relative(modules, one))
+      if (deeper && isFolder(one)) walk(one, false)
     }
   }
   walk(modules, true)
