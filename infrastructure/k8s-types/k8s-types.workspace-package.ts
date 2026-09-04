@@ -19,5 +19,6 @@ export const k8sTypes = {
     "module/orchestrator-cache-helpers",
     "module/orchestrator-cache-locations",
     "module/secret-checksum",
+    "page-type/manifest",
   ],
 } as const satisfies WorkspacePackage
