@@ -22,8 +22,16 @@ export function opsPath(): string {
   return path.join(akashaRoot(), "dotfiles", "bin", "ops")
 }
 
+const COMMANDS_AT = "akasha/command-system/commands"
+
+const SERVER_AT = "akasha/command-system/command-server/command-server.module.code.ts"
+
 export function commandPath(command: string): string {
-  return path.join(akashaRoot(), "tools", `${command}.ts`)
+  return path.join(akashaRoot(), COMMANDS_AT, command, `${command}.command.code.ts`)
+}
+
+export function serverPath(): string {
+  return path.join(akashaRoot(), SERVER_AT)
 }
 
 const BUN_DIRECTORIES = [path.join(os.homedir(), ".bun", "bin")]
@@ -110,8 +118,6 @@ export function repositoryPath(repo: string): string {
   }
 }
 
-const SERVER_COMMAND = "verb-server"
-
 const SERVER_START_TIMEOUT_MS = 15_000
 
 let served: Serving | undefined
@@ -127,7 +133,7 @@ function servedClient(): Serving {
   if (served === undefined) {
     served = servingFrom({
       bun: path.join(bunDirectory(), "bun"),
-      serverFile: commandPath(SERVER_COMMAND),
+      serverFile: serverPath(),
       env: harnessEnvironment(),
       startTimeoutMs: SERVER_START_TIMEOUT_MS,
       onNoise: (text) => noise?.(text),
@@ -142,8 +148,11 @@ export function disposeCommandServer(): undefined {
   return undefined
 }
 
+const CARRIED = /\.(?:command|module)\.code\.ts$/
+
 export function commandNamed(commandFile: string): string {
-  return path.basename(commandFile).replace(/\.ts$/, "")
+  const named = path.basename(commandFile)
+  return CARRIED.test(named) ? named.replace(CARRIED, "") : named.replace(/\.ts$/, "")
 }
 
 export async function runCommand(

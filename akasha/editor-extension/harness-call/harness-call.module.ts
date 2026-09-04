@@ -43,9 +43,13 @@ export const harnessCall = {
       statement: "A command the server answers is never also spawned as a child.",
     },
     {
+      invariantKind: "departure",
+      statement: "A command's file is named beside the command's page rather than assembled.",
+    },
+    {
       invariantKind: "constraint",
       statement:
-        "A command file outside the harness tools folder is spawned rather than asked of the server.",
+        "A command file outside the akasha commands folder is spawned rather than asked of the server.",
     },
     {
       invariantKind: "departure",
