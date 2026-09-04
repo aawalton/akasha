@@ -50,6 +50,11 @@ const ONE_EACH = new Map<string, readonly string[]>([
 
 const HALF = new Map<string, readonly string[]>([[NAMED, [WHOLE]]])
 
+const RINGING = new Map<string, readonly string[]>([
+  [NAMED, [UNNAMED]],
+  [UNNAMED, [NAMED]],
+])
+
 const TWICE = new Map<string, readonly string[]>([
   [NAMED, [WHOLE, UNNAMED]],
   [UNNAMED, [WHOLE]],
@@ -109,4 +114,29 @@ test("the census says how many pages more than one page names", () => {
 
 test("a page no page names is faulted as well", () => {
   expect(faultedIn(censusIn(namingOf(PAGES, HALF)))).toBe(true)
+})
+
+test("a ring of pages naming each other is seen though each has exactly one parent", () => {
+  const census = censusIn(namingOf(PAGES, RINGING))
+  expect(census.unnamed).toEqual([])
+  expect(census.shared).toEqual([])
+  expect(census.looping.map((one) => one.shown)).toEqual(["one/module-one", "two/module-two"])
+  expect(faultedIn(census)).toBe(true)
+})
+
+test("a page reached by descending from the whole is not looping", () => {
+  const census = censusIn(namingOf(PAGES, ONE_EACH))
+  expect(census.looping).toEqual([])
+  expect(faultedIn(census)).toBe(false)
+})
+
+test("a page adrift because the page above it is unnamed is answered once", () => {
+  const census = censusIn(namingOf(PAGES, HALF))
+  expect(census.looping).toEqual([])
+})
+
+test("the census says how many pages loop rather than reaching the whole", () => {
+  const said = censusSaid(censusIn(namingOf(PAGES, RINGING)))
+  expect(said[4]).toBe("pages whose parents loop rather than reaching `domain/akasha`: 2")
+  expect(said[5]).toBe("  one/module-one — akasha/one/module-one")
 })
