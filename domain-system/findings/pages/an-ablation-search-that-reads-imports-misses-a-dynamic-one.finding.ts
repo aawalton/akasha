@@ -4,7 +4,7 @@ export const anAblationSearchThatReadsImportsMissesADynamicOne = {
   id: "01a0685d-4b35-701a-8ebd-2164b14035a7",
   pageTypeSlug: "finding",
   slug: "an-ablation-search-that-reads-imports-misses-a-dynamic-one",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/code-audit-ast-unused",
   claim:
     'A file cleared for deletion because nothing names it can still be named, by a dynamic `await import("...")` whose specifier is a string rather than an import. The search that clears a file reads imports, so a dynamic one is a blind spot, and a false negative and a true negative are the same empty result. The deletion then lands quietly: nothing fails to resolve at build time either, because the specifier is only a string until it runs.',
   evidence:

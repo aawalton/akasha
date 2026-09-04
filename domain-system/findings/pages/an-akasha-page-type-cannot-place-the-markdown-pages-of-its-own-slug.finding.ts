@@ -4,7 +4,7 @@ export const anAkashaPageTypeCannotPlaceTheMarkdownPagesOfItsOwnSlug = {
   id: "01a06864-1666-774f-a840-011ab1936569",
   pageTypeSlug: "finding",
   slug: "an-akasha-page-type-cannot-place-the-markdown-pages-of-its-own-slug",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "page-type/finding",
   claim:
     "Landing a page type in akasha does not make its markdown predecessor ablatable. `akasha/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts` builds the old system's page-type registry from `pages/page-type/**` and `pages/rules-engine-rule-set/**` alone, so a page type standing under `akasha/` as TypeScript is invisible to it and `whereFor` in `tools/lib/page-write-where.ts` answers null for every instance page of that slug. The positive per-file match a page type needs before it is ablated is therefore its counterpart in akasha AND no instance page or sidecar row left standing outside.",
   evidence:

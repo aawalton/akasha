@@ -4,7 +4,7 @@ export const aMoveRepointsThePathsThatMovedAndLeavesTheRestFlat = {
   id: "01a0611a-558a-701f-9a7d-aa2cb0a8447c",
   pageTypeSlug: "finding",
   slug: "a-move-repoints-the-paths-that-moved-and-leaves-the-rest-flat",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "command/move",
   claim:
     "`akasha move` repoints a spelling only where that spelling names a file the move carried. A spelling of a path no file sits at is left as it was. In a test naming both a page and a neighbour the page never had, the page is repointed and the neighbour is not, so a folded page is asked for a flat neighbour and the suite goes red after a green gate. The move reports no check ran, so nothing catches it.",
   evidence:
