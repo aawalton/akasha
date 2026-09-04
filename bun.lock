@@ -1220,7 +1220,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "pages/service": {
+    "pages/system-service": {
       "name": "@akasha/pages-system-service",
     },
     "pages/ui": {
@@ -3127,7 +3127,7 @@
 
     "@akasha/pages-system": ["@akasha/pages-system@workspace:pages"],
 
-    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:pages/service"],
+    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:pages/system-service"],
 
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/ui"],
 
