@@ -4,7 +4,7 @@ export const theProvisioningScriptsStillCarryTheirOwnTable = {
   id: "01a06866-fd54-7c00-ba6c-111c5fd11895",
   pageTypeSlug: "finding",
   slug: "the-provisioning-scripts-still-carry-their-own-table",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/provisioning",
   claim:
     "Every file the workstation is set up with is now a provisioned-file page stating where it goes, but setup-symlinks.sh still spells that table out itself rather than reading it from the pages.",
   evidence:

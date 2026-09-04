@@ -4,7 +4,7 @@ export const theReadRecordRunsOnNoTimer = {
   id: "01a0623f-375c-7d09-a6c2-3f730eb3be15",
   pageTypeSlug: "finding",
   slug: "the-read-record-runs-on-no-timer",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/seat-system",
   claim:
     "The read record runs on no timer. A write gate cleared by reads 12 minutes 22 seconds earlier was still admitted, six times the two-minute expiry that `a-read-the-harness-saves-to-a-file-is-recorded-as-read` builds its remedy on. What empties it is a context being replaced, and since `6256fb84d5` this morning only the reader's own. So the dilemma that finding poses is not forced, and the horn it chose loses the bodies.",
   evidence:

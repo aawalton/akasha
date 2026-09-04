@@ -4,7 +4,7 @@ export const thePersonaDayPointsFormulaNamesTwoKeysNoDayCarries = {
   id: "01a0657f-1a2c-7001-8f3a-27d9c5e4b7a8",
   pageTypeSlug: "finding",
   slug: "the-persona-day-points-formula-names-two-keys-no-day-carries",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/persona-day-score",
   claim:
     "A persona day's points sum seven keys. Two of them, `strength-points` and `cardio-points`, have never once been written on a persona day, so both have counted as nothing for every day ever scored. What the days carry instead is `strength-volume` and `active-calories`, which the formula does not name.",
   evidence:

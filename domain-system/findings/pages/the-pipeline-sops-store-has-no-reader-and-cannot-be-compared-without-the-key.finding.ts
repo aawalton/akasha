@@ -4,7 +4,7 @@ export const thePipelineSopsStoreHasNoReaderAndCannotBeComparedWithoutTheKey = {
   id: "01a06865-c012-7006-9e2b-4a7d8c9f0b06",
   pageTypeSlug: "finding",
   slug: "the-pipeline-sops-store-has-no-reader-and-cannot-be-compared-without-the-key",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/secret",
   claim:
     "`pipeline-secrets.sops.yaml` was carried into akasha rather than ablated, and it is probably duplication. Nothing reads it. Its seven keys look to be held by four files that have already landed, but proving that means decrypting both sides, which no lane may do, so it was carried on the reading that a wrong deletion of a credential store costs more than a wrong copy.",
   evidence:
