@@ -60,7 +60,7 @@ const DEFAULT_LOG_PREFIX = "[upkeep]"
 
 const NO_CODE = "unknown"
 
-export const INTER_ACCOUNT_DELAY_MS: number = 60_000
+export const INTER_ACCOUNT_DELAY_MS: number = 2_000
 
 export const RETRY_BACKOFF_MS: readonly number[] = [10_000, 30_000]
 

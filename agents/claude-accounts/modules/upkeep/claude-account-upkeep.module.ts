@@ -18,7 +18,7 @@ export const claudeAccountUpkeep = {
     },
     {
       invariantKind: "departure",
-      statement: "A minute passes between one account and the next.",
+      statement: "Two seconds pass between one account and the next.",
     },
     {
       invariantKind: "departure",
