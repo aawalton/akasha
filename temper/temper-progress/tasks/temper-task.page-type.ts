@@ -3,6 +3,7 @@ import type { TemperProgressThing } from "../progress-things/temper-progress-thi
 import type { CharacterSortOrder } from "./properties/character-sort-order.number-property.ts"
 import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
 import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.ts"
+import type { PendingSync } from "./properties/pending-sync.boolean-property.ts"
 import type { Progress } from "./properties/progress.page-property-entry.ts"
 import type { ProgressCurrent } from "./properties/progress-current.number-property.ts"
 import type { ProgressTotal } from "./properties/progress-total.number-property.ts"
@@ -11,6 +12,7 @@ export type TemperTask = TemperProgressThing & {
   characterSortOrder?: CharacterSortOrder
   effectiveCharacter?: EffectiveCharacter
   lastCompletedAt?: LastCompletedAt
+  pendingSync?: PendingSync
   progress?: Progress
   progressTotal?: ProgressTotal
   progressCurrent?: ProgressCurrent
@@ -24,6 +26,7 @@ export const temperTask = {
   pluralSlug: "temper-tasks",
   extendsSlug: "page-type/temper-progress-thing",
   partSlugs: [
+    "boolean-property/pending-sync",
     "instant-property/last-completed-at",
     "number-property/character-sort-order",
     "number-property/progress-current",
@@ -42,6 +45,7 @@ export const temperTask = {
     { pagePropertySlug: "progress-total", required: false, many: false },
     { pagePropertySlug: "progress-current", required: false, many: false },
     { pagePropertySlug: "character-sort-order", required: false, many: false },
+    { pagePropertySlug: "pending-sync", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
