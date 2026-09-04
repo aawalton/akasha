@@ -1,0 +1,1437 @@
+diff --git a/command-system/ops-commands/pages/ops-seat-turn-end-read/ops-seat-turn-end-read.ops-command.ts b/command-system/ops-commands/pages/ops-seat-turn-end-read/ops-seat-turn-end-read.ops-command.ts
+deleted file mode 100644
+index 347b309dac066df326a13f8ebe770ac648ff4b8f..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-seat-turn-end-read/ops-seat-turn-end-read.ops-command.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { OpsCommand } from "../../ops-command.page-type.ts"
+-
+-export const opsSeatTurnEndRead = {
+-  id: "01a06904-524d-79d6-a47c-e53cfaef82f4",
+-  pageTypeSlug: "ops-command",
+-  slug: "ops-seat-turn-end-read",
+-  definition:
+-    "one ended turn read by a model for whether its ending will annoy the seat's principal.",
+-  opsPath: "seat turn-end read",
+-  opsEntryFile:
+-    "seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.code.ts",
+-} as const satisfies OpsCommand
+diff --git a/seat-system/seat-reset/seat-reset.module.code.ts b/seat-system/seat-reset/seat-reset.module.code.ts
+index 48eb7f9f32a12042a9b361eca7eed46d6e3c64ae..3505b650558240c72295a3abaee81bf5a1a92d9a 100644
+--- a/seat-system/seat-reset/seat-reset.module.code.ts
++++ b/seat-system/seat-reset/seat-reset.module.code.ts
+@@ -9,7 +9,6 @@ import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
+ import { HELP } from "@akasha/seat-system/seat-reset-help"
+ import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
+ import { A_RESET, stopSeat } from "@akasha/seat-system/stop-seat"
+-import { setTurnState } from "@akasha/seat-system/turn-records"
+ import { composeSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
+ import { flexInName } from "../seat-flex/seat-flex.module.code.ts"
+ import {
+@@ -151,9 +150,6 @@ export default async function seatReset(args: readonly string[]): Promise<void>
+         `reads it as running — ${unstated.join("; ")}\n`
+     )
+   }
+-
+-  setTurnState(fresh, "idle")
+-
+   await launchSeatUnderTmux({
+     name,
+     agentId: fresh,
+diff --git a/seat-system/seat-resume/seat-resume.module.code.ts b/seat-system/seat-resume/seat-resume.module.code.ts
+index d8f523f2a88d4f06f4de595909a9b598320dea3c..9249fbea834acf0859335fabe874833345d8be36 100644
+--- a/seat-system/seat-resume/seat-resume.module.code.ts
++++ b/seat-system/seat-resume/seat-resume.module.code.ts
+@@ -28,7 +28,6 @@ import { HELP } from "@akasha/seat-system/seat-resume-help"
+ import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
+ import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
+ import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"
+-import { setTurnState } from "@akasha/seat-system/turn-records"
+ import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
+ import { shape } from "@akasha/utils-narrow/shape"
+ import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
+@@ -220,8 +219,6 @@ export default async function seatResume(args: readonly string[]): Promise<void>
+     const standing = seatRecord(target)?.name ?? null
+     if (standing !== null) await holdSeatPaneOpen(standing)
+     const taken = await takeoverSeat(target)
+-    setTurnState(taken.agentId, "idle")
+-
+     if (!parsed.boolean("--no-launch")) {
+       if (taken.name === null) {
+         throw dataError(
+diff --git a/seat-system/seat-start/seat-start.module.code.ts b/seat-system/seat-start/seat-start.module.code.ts
+index 196764a5d1ca4e5f7054843f756763804f646c35..38775cf889931f63c51de4658fc8bc9eee8be3f9 100644
+--- a/seat-system/seat-start/seat-start.module.code.ts
++++ b/seat-system/seat-start/seat-start.module.code.ts
+@@ -28,7 +28,6 @@ import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refus
+ import { type StatedIdentity, spawnSeat } from "@akasha/seat-system/spawn-seat"
+ import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
+ import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
+-import { setTurnState } from "@akasha/seat-system/turn-records"
+ import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
+ import {
+   composeSeatName,
+@@ -199,9 +198,6 @@ export default async function seatStart(args: readonly string[]): Promise<void>
+         "refused here rather than launched blank."
+     )
+   }
+-
+-  setTurnState(agentId, "idle")
+-
+   await launchSeatUnderTmux({ name, agentId, account, prompt: "", mode: startMode })
+ 
+   if (json) {
+diff --git a/seat-system/seat-turn-end-decisions/seat-turn-end-decision.page-type.ts b/seat-system/seat-turn-end-decisions/seat-turn-end-decision.page-type.ts
+deleted file mode 100644
+index 90851ff381dd83d045ce63074c6bcc00a8747c4b..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn-end-decisions/seat-turn-end-decision.page-type.ts
++++ /dev/null
+@@ -1,32 +0,0 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
+-
+-export const seatTurnEndDecision = {
+-  id: "01a06837-f101-709f-91d8-32682a83f871",
+-  pageTypeSlug: "page-type",
+-  slug: "seat-turn-end-decision",
+-  definition: "one ruling on whether an agent may go idle",
+-  pluralSlug: "seat-turn-end-decisions",
+-  extendsSlug: ["page-type/page"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Every guard's rulings stand together rather than one store to a guard.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A ruling names the guard that made it.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A ruling either allows the turn end or refuses it.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A ruling is kept whether or not the turn end it ruled on was refused.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A turn end guard keeps the ruling the guard made.",
+-    },
+-  ],
+-} as const satisfies PageType
+diff --git a/seat-system/seat-turn-end-reading-cases/properties/case-final-message.text-property.ts b/seat-system/seat-turn-end-reading-cases/properties/case-final-message.text-property.ts
+deleted file mode 100644
+index 4729e41b9dca82651964a2ebf11fdf2976771ba0..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn-end-reading-cases/properties/case-final-message.text-property.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
+-
+-export type CaseFinalMessage = string
+-
+-export const caseFinalMessage = {
+-  id: "01a06861-1918-79b0-8713-38951cab9147",
+-  pageTypeSlug: "text-property",
+-  slug: "case-final-message",
+-  propertySlug: "case-final-message",
+-  definition: "the last thing a seat said before the turn the case keeps ended",
+-  max: 5000,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A final message is the evidence a reading weighs rather than a summary of it.",
+-    },
+-  ],
+-} as const satisfies TextProperty
+diff --git a/seat-system/seat-turn-end-reading-cases/properties/case-prompt.text-property.ts b/seat-system/seat-turn-end-reading-cases/properties/case-prompt.text-property.ts
+deleted file mode 100644
+index 30697e45787ac6977db06cd43283d7b1a25e3f02..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn-end-reading-cases/properties/case-prompt.text-property.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
+-
+-export type CasePrompt = string
+-
+-export const casePrompt = {
+-  id: "01a06861-1917-78bb-86d3-15aa907963ad",
+-  pageTypeSlug: "text-property",
+-  slug: "case-prompt",
+-  propertySlug: "case-prompt",
+-  definition: "the words a turn end was handed before the answer it is owed was settled",
+-  max: 2000,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A prompt is kept whole, so the case replays from itself.",
+-    },
+-  ],
+-} as const satisfies TextProperty
+diff --git a/seat-system/seat-turn-end-reading-cases/seat-turn-end-reading-case.page-type.ts b/seat-system/seat-turn-end-reading-cases/seat-turn-end-reading-case.page-type.ts
+deleted file mode 100644
+index b972ba8ecad3be93983da68cf297502e4aafd771..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn-end-reading-cases/seat-turn-end-reading-case.page-type.ts
++++ /dev/null
+@@ -1,49 +0,0 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
+-import type { CaseFinalMessage } from "./properties/case-final-message.text-property.ts"
+-import type { CasePrompt } from "./properties/case-prompt.text-property.ts"
+-
+-export type SeatTurnEndReadingCase = Page & {
+-  casePrompt: CasePrompt
+-  caseFinalMessage: CaseFinalMessage
+-}
+-
+-export const seatTurnEndReadingCase = {
+-  id: "01a06837-f101-7187-9f0a-b7d087883e40",
+-  pageTypeSlug: "page-type",
+-  slug: "seat-turn-end-reading-case",
+-  definition: "one turn end kept beside the answer the turn end is owed",
+-  pluralSlug: "seat-turn-end-reading-cases",
+-  extendsSlug: ["page-type/page"],
+-  partSlugs: ["text-property/case-final-message", "text-property/case-prompt"],
+-  properties: [
+-    { pagePropertySlug: "case-prompt", required: true, many: false },
+-    { pagePropertySlug: "case-final-message", required: true, many: false },
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A case stands whatever the reading later answers on it.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A case carries the evidence a reading is handed and nothing more.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A case says how the answer it is owed was settled.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A case replays from itself once the transcript it names has rolled away.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A case is owed one verdict rather than the question that reaches it.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The prompt and the final message a case keeps are properties of the case.",
+-    },
+-  ],
+-} as const satisfies PageType
+diff --git a/seat-system/seat-turn-state/seat-turn-state.module.code.ts b/seat-system/seat-turn-state/seat-turn-state.module.code.ts
+index a5214c7ec8b2729a7bd54665b09d1d1a1db892bc..803a4fb833554a5ff672c1921a912cbab5ce0f8a 100644
+--- a/seat-system/seat-turn-state/seat-turn-state.module.code.ts
++++ b/seat-system/seat-turn-state/seat-turn-state.module.code.ts
+@@ -1,11 +1,5 @@
+ import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
+ import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
+-import {
+-  type TurnRecord,
+-  turnEndReadingOf,
+-  turnPendingSourceOf,
+-  turnStateOf,
+-} from "../seat-turn/turn-records/turn-records.module.code.ts"
+ import {
+   anyWorking,
+   anyWorkingRead,
+@@ -19,21 +13,14 @@ import {
+   type TurnPending,
+ } from "../seat-turn-pending/seat-turn-pending.module.code.ts"
+ 
+-export const SEAT_TURN_STAMPS = ["idle", "stopped"] as const
+-
+-export type SeatTurnStamp = (typeof SEAT_TURN_STAMPS)[number]
+-
+ export const SEAT_TURN_STATES = ["working", "idle-pending", "idle", "stopped"] as const
+ 
+ export type SeatTurnState = (typeof SEAT_TURN_STATES)[number]
+ 
+ export interface SeatTurnRecords {
+   readonly presence: SeatPresence
+-  readonly stamped: TurnRecord | null
+-  readonly source: TurnRecord | null
+   readonly pending: TurnPending
+   readonly working: TurnWorking
+-  readonly reading: TurnRecord | null
+ }
+ 
+ export interface SeatTurnReading {
+@@ -41,10 +28,6 @@ export interface SeatTurnReading {
+   readonly waitingOn: string | null
+ }
+ 
+-const NOTHING_ARRANGED = "none"
+-
+-const UNSTAMPED: SeatTurnStamp = "idle"
+-
+ const NO_TURN_TAKEN: SeatTurnState = "stopped"
+ 
+ const GONE: SeatPresence = "absent"
+@@ -57,43 +40,27 @@ export function turnStillToCome(state: SeatTurnState): boolean {
+   return state === "working" || state === "idle-pending"
+ }
+ 
+-export function stampIn(recorded: TurnRecord | null): SeatTurnStamp {
+-  if (recorded === null) return UNSTAMPED
+-  const stood = SEAT_TURN_STAMPS.find((one) => one === recorded.value)
+-  return stood ?? UNSTAMPED
+-}
+-
+ export function tookATurn(kept: SeatTurnRecords): boolean {
+-  if (anyPendingRead(kept.pending)) return true
+-  if (anyWorkingRead(kept.working)) return true
+-  return [kept.stamped, kept.source, kept.reading].some((one) => one !== null)
++  return anyPendingRead(kept.pending) || anyWorkingRead(kept.working)
+ }
+ 
+ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
+   if (!tookATurn(kept)) return { state: NO_TURN_TAKEN, waitingOn: null }
+   if (kept.presence === GONE) return { state: "stopped", waitingOn: null }
+-  if (stampIn(kept.stamped) === "stopped") return { state: "stopped", waitingOn: null }
+   if (anyWorking(kept.working)) return { state: "working", waitingOn: null }
+   if (anyPendingRead(kept.pending)) {
+     const on = pendingOn(kept.pending)
+     if (on.length === 0) return idleIn()
+     return { state: "idle-pending", waitingOn: on.join(", ") }
+   }
+-  const { source } = kept
+-  if (source !== null && source.value !== NOTHING_ARRANGED) {
+-    return { state: "idle-pending", waitingOn: source.value }
+-  }
+   return idleIn()
+ }
+ 
+ export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
+   return {
+     presence: agentPresence(agent),
+-    stamped: turnStateOf(agent),
+-    source: turnPendingSourceOf(agent),
+     pending: pendingOf(agent),
+     working: workingOf(agent),
+-    reading: turnEndReadingOf(agent),
+   }
+ }
+ 
+diff --git a/seat-system/seat-turn-state/seat-turn-state.module.test.ts b/seat-system/seat-turn-state/seat-turn-state.module.test.ts
+index f986f5729a1e6662e8280b9f8183c5067a26a86d..82a81085b92512851375b5dbe88852217b103ad6 100644
+--- a/seat-system/seat-turn-state/seat-turn-state.module.test.ts
++++ b/seat-system/seat-turn-state/seat-turn-state.module.test.ts
+@@ -11,11 +11,8 @@ const ON = { value: true, at: AT } as const
+ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
+   return {
+     presence: "present" as SeatPresence,
+-    stamped: null,
+-    source: null,
+     pending: { "live-subagent": OFF },
+     working: { activeTurn: false },
+-    reading: null,
+     ...over,
+   }
+ }
+@@ -23,11 +20,8 @@ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
+ test("a seat holding no record at all is stopped", () => {
+   const read = readSeatTurn({
+     presence: "present",
+-    stamped: null,
+-    source: null,
+     pending: {},
+     working: {},
+-    reading: null,
+   })
+ 
+   expect(read.state).toBe("stopped")
+@@ -69,7 +63,3 @@ test("a seat waiting on something is waiting, and names what for", () => {
+ test("a seat waiting on nothing is idle rather than waiting", () => {
+   expect(readSeatTurn(kept()).state).toBe("idle")
+ })
+-
+-test("a seat stamped stopped is stopped", () => {
+-  expect(readSeatTurn(kept({ stamped: { value: "stopped", at: AT } })).state).toBe("stopped")
+-})
+diff --git a/seat-system/seat-turn/transcript-records/transcript-records.module.code.ts b/seat-system/seat-turn/transcript-records/transcript-records.module.code.ts
+deleted file mode 100644
+index 928e7f524afd4d717bbdedb7d44a0cd7f8b24361..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/transcript-records/transcript-records.module.code.ts
++++ /dev/null
+@@ -1,181 +0,0 @@
+-import { readdir, stat } from "node:fs/promises"
+-import { homedir } from "node:os"
+-import { basename, join } from "node:path"
+-import { shape } from "@akasha/utils-narrow/shape"
+-
+-export interface ToolUse {
+-  readonly id: string
+-  readonly name: string
+-  readonly input: string
+-}
+-
+-export interface ToolResult {
+-  readonly id: string
+-  readonly text: string
+-  readonly isError: boolean
+-}
+-
+-export interface TranscriptRecord {
+-  readonly kind: "assistant" | "prompt" | "turn-end" | "other"
+-  readonly timestampMs: number | null
+-  readonly stopReason: string | null
+-  readonly endsWithToolUse: boolean
+-  readonly text: string
+-  readonly commands: readonly string[]
+-  readonly toolInputs: readonly string[]
+-  readonly toolUses: readonly ToolUse[]
+-  readonly toolResults: readonly ToolResult[]
+-  readonly startedTaskId: string | null
+-  readonly notifiedTaskIds: readonly string[]
+-}
+-
+-const PROJECTS_ROOT = join(homedir(), ".claude", "projects")
+-
+-const TASK_ID = /<task-id>([^<]+)<\/task-id>/g
+-
+-type Json = Record<string, unknown>
+-
+-const asObject = (v: unknown): Json | null =>
+-  typeof v === "object" && v !== null && !Array.isArray(v) ? (v as Json) : null
+-
+-const asArray = (v: unknown): readonly unknown[] => (Array.isArray(v) ? v : [])
+-
+-function armedWakeId(result: Json | null): string | null {
+-  if (result === null) return null
+-  const bg = result.backgroundTaskId
+-  if (typeof bg === "string" && bg.length > 0) return bg
+-  const agentId = result.agentId
+-  if (result.isAsync === true && typeof agentId === "string" && agentId.length > 0) return agentId
+-  const taskId = result.taskId
+-  if (result.timeoutMs !== undefined && typeof taskId === "string" && taskId.length > 0)
+-    return taskId
+-  return null
+-}
+-
+-function textOf(content: unknown): string {
+-  if (typeof content === "string") return content
+-  return asArray(content)
+-    .map((block) => {
+-      const b = asObject(block)
+-      return b !== null && b.type === "text" && typeof b.text === "string" ? b.text : ""
+-    })
+-    .join(" ")
+-}
+-
+-function resultTextOf(content: unknown): string {
+-  if (typeof content === "string") return content
+-  return asArray(content)
+-    .map((block) => {
+-      const b = asObject(block)
+-      return b !== null && typeof b.text === "string" ? b.text : ""
+-    })
+-    .join(" ")
+-}
+-
+-export const transcriptLineSchema = shape
+-  .object({
+-    type: shape.string().optional(),
+-    subtype: shape.string().optional(),
+-    timestamp: shape.string().optional(),
+-    message: shape.unknown().optional(),
+-    toolUseResult: shape.unknown().optional(),
+-  })
+-  .passthrough()
+-
+-export function normalizeRecord(raw: unknown): TranscriptRecord {
+-  const record = asObject(raw) ?? {}
+-  const message = asObject(record.message)
+-  const timestamp = typeof record.timestamp === "string" ? Date.parse(record.timestamp) : Number.NaN
+-  const notified = [...textOf(message?.content).matchAll(TASK_ID)].flatMap((m) =>
+-    m[1] === undefined ? [] : [m[1]]
+-  )
+-
+-  const base: Omit<TranscriptRecord, "kind"> = {
+-    timestampMs: Number.isNaN(timestamp) ? null : timestamp,
+-    stopReason: null,
+-    endsWithToolUse: false,
+-    text: "",
+-    commands: [],
+-    toolInputs: [],
+-    toolUses: [],
+-    toolResults: [],
+-    startedTaskId: armedWakeId(asObject(record.toolUseResult)),
+-    notifiedTaskIds: notified,
+-  }
+-
+-  if (record.type === "system" && record.subtype === "stop_hook_summary") {
+-    return { ...base, kind: "turn-end" }
+-  }
+-  if (record.type !== "assistant" || message === null) {
+-    const userText = message === null ? "" : textOf(message.content)
+-    const results = asArray(message?.content).flatMap((block) => {
+-      const b = asObject(block)
+-      if (b === null || b.type !== "tool_result") return []
+-      const id = typeof b.tool_use_id === "string" ? b.tool_use_id : ""
+-      return [{ id, text: resultTextOf(b.content), isError: b.is_error === true }]
+-    })
+-    if (record.type === "user" && results.length === 0 && userText.trim().length > 0)
+-      return { ...base, kind: "prompt", text: userText }
+-    return { ...base, kind: "other", toolResults: results }
+-  }
+-
+-  const commands: string[] = []
+-  const toolInputs: string[] = []
+-  const toolUses: ToolUse[] = []
+-  let endsWithToolUse = false
+-  for (const block of asArray(message.content)) {
+-    const b = asObject(block)
+-    if (b === null || b.type !== "tool_use") continue
+-    endsWithToolUse = true
+-    const input = asObject(b.input) ?? {}
+-    if (b.name === "Bash" && typeof input.command === "string") commands.push(input.command)
+-    toolInputs.push(JSON.stringify(input))
+-    toolUses.push({
+-      id: typeof b.id === "string" ? b.id : "",
+-      name: typeof b.name === "string" ? b.name : "tool",
+-      input: JSON.stringify(input),
+-    })
+-  }
+-
+-  return {
+-    ...base,
+-    kind: "assistant",
+-    stopReason: typeof message.stop_reason === "string" ? message.stop_reason : null,
+-    endsWithToolUse,
+-    text: textOf(message.content),
+-    commands,
+-    toolInputs,
+-    toolUses,
+-  }
+-}
+-
+-async function listDir(dir: string) {
+-  try {
+-    return await readdir(dir, { withFileTypes: true, encoding: "utf8" })
+-  } catch {
+-    return []
+-  }
+-}
+-
+-export async function scanTranscripts(
+-  windowStartMs: number
+-): Promise<readonly { sessionId: string; path: string }[]> {
+-  const slugs = (await listDir(PROJECTS_ROOT)).filter((e) => e.isDirectory()).map((e) => e.name)
+-
+-  const out: { sessionId: string; path: string }[] = []
+-  for (const slug of slugs) {
+-    const dir = join(PROJECTS_ROOT, slug)
+-    for (const entry of await listDir(dir)) {
+-      if (!entry.isFile() || !entry.name.endsWith(".jsonl")) continue
+-      const path = join(dir, entry.name)
+-      try {
+-        const st = await stat(path)
+-        if (st.mtimeMs < windowStartMs) continue
+-      } catch {
+-        continue
+-      }
+-      out.push({ sessionId: basename(entry.name, ".jsonl"), path })
+-    }
+-  }
+-  return out
+-}
+diff --git a/seat-system/seat-turn/transcript-records/transcript-records.module.ts b/seat-system/seat-turn/transcript-records/transcript-records.module.ts
+deleted file mode 100644
+index 130aaa4f298d910d4c041651a09563205b90566a..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/transcript-records/transcript-records.module.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const transcriptRecords = {
+-  id: "01a069c7-5c5f-7de1-bc6f-c19d7e47e408",
+-  pageTypeSlug: "module",
+-  slug: "transcript-records",
+-  definition: "one line of an agent transcript read into a record of what it was",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A line that does not parse is read as a record carrying nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tool result is keyed by the id of the use it answers.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/seat-system/seat-turn/turn-end-conduct/turn-end-conduct.module.code.ts b/seat-system/seat-turn/turn-end-conduct/turn-end-conduct.module.code.ts
+deleted file mode 100644
+index 3fa3c460f91259c2cbf1dafd1bbf00ddd994a111..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-conduct/turn-end-conduct.module.code.ts
++++ /dev/null
+@@ -1,54 +0,0 @@
+-import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
+-
+-export const CONDUCT_RELATIVE_PATH =
+-  "alan/harness/agents/annoyance/alan-harness-agents-annoyance.domain.ts"
+-
+-const DEFINITION = "definition"
+-
+-const INVARIANTS = "invariants"
+-
+-const STATEMENT = "statement"
+-
+-function statementsIn(value: Value): readonly string[] {
+-  const held = value[INVARIANTS]
+-  if (!Array.isArray(held)) return []
+-  const said: string[] = []
+-  for (const one of held) {
+-    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+-    const line = textAt(one as Value, STATEMENT)
+-    if (line !== null && line !== "") said.push(line)
+-  }
+-  return said
+-}
+-
+-export function conductFrom(value: Value): string {
+-  const definition = textAt(value, DEFINITION)
+-  const said = definition === null || definition === "" ? [] : [definition]
+-  return [...said, ...statementsIn(value)].join("\n\n").trim()
+-}
+-
+-export function conductIn(root: string): string {
+-  const path = `${root}/${CONDUCT_RELATIVE_PATH}`
+-  let value: Value | null
+-  try {
+-    value = valueAt(CONDUCT_RELATIVE_PATH, root)
+-  } catch (cause) {
+-    throw new Error(
+-      `turn-end-reading: the conduct at ${path} could not be read, so this turn end has nothing ` +
+-        `to be read against: ${cause instanceof Error ? cause.message : String(cause)}`
+-    )
+-  }
+-  if (value === null)
+-    throw new Error(
+-      `turn-end-reading: ${CONDUCT_RELATIVE_PATH} answers to no page value, so this turn end has ` +
+-        "nothing to be read against."
+-    )
+-  const body = conductFrom(value)
+-  if (body === "")
+-    throw new Error(
+-      `turn-end-reading: ${CONDUCT_RELATIVE_PATH} states no definition and no invariant, so it ` +
+-        "says nothing about what annoys its principal. It is the whole of what a reading is " +
+-        "taken against, so no turn end is read without it."
+-    )
+-  return body
+-}
+diff --git a/seat-system/seat-turn/turn-end-conduct/turn-end-conduct.module.ts b/seat-system/seat-turn/turn-end-conduct/turn-end-conduct.module.ts
+deleted file mode 100644
+index 2e7793760d1f25af6d74b3635da64984a3e59ca1..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-conduct/turn-end-conduct.module.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const turnEndConduct = {
+-  id: "01a069c7-5c5f-7e9e-a220-b1c41e495ca8",
+-  pageTypeSlug: "module",
+-  slug: "turn-end-conduct",
+-  definition: "what annoys a seat's principal, read off its domain page at run time",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The conduct is read at run time rather than compiled in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A conduct that says nothing refuses the reading rather than allowing it.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/seat-system/seat-turn/turn-end-evidence/turn-end-evidence.module.code.ts b/seat-system/seat-turn/turn-end-evidence/turn-end-evidence.module.code.ts
+deleted file mode 100644
+index 91357dc8c414d40ba99d60992ce4e32d9662d7b9..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-evidence/turn-end-evidence.module.code.ts
++++ /dev/null
+@@ -1,94 +0,0 @@
+-import {
+-  normalizeRecord,
+-  type ToolResult,
+-  transcriptLineSchema,
+-} from "../transcript-records/transcript-records.module.code.ts"
+-
+-export const FINAL_TEXT_CHARS = 4000
+-
+-export const PROMPT_TEXT_CHARS = 2000
+-
+-export const TRAIL_TURNS = 10
+-
+-export const TRAIL_TEXT_CHARS = 500
+-
+-export const TRAIL_TOOL_CHARS = 200
+-
+-const TAIL_BYTES = 512 * 1024
+-
+-export interface TurnEvidence {
+-  readonly finalText: string
+-  readonly promptText: string | null
+-  readonly pending: boolean
+-  readonly toolCalls: number
+-  readonly trail: readonly string[]
+-}
+-
+-export async function readTail(path: string, tailBytes = TAIL_BYTES): Promise<readonly string[]> {
+-  const file = Bun.file(path)
+-  const size = file.size
+-  if (size === 0) return []
+-  const from = size > tailBytes ? size - tailBytes : 0
+-  const text = await file.slice(from).text()
+-  const lines = text.split("\n").filter((line) => line.trim() !== "")
+-  return from === 0 ? lines : lines.slice(1)
+-}
+-
+-function clip(text: string, chars: number): string {
+-  const flat = text.replace(/\s+/g, " ").trim()
+-  return flat.length <= chars ? flat : `${flat.slice(0, chars)}…`
+-}
+-
+-function resultFor(id: string, results: ReadonlyMap<string, ToolResult>): string {
+-  const found = results.get(id)
+-  if (found === undefined) return "no result recorded"
+-  const said = clip(found.text, TRAIL_TOOL_CHARS)
+-  return said === "" ? "returned nothing" : said
+-}
+-
+-export function evidenceFrom(lines: readonly string[]): TurnEvidence | null {
+-  const records = lines.map((line) => {
+-    try {
+-      return normalizeRecord(transcriptLineSchema.parse(JSON.parse(line)))
+-    } catch {
+-      return normalizeRecord(null)
+-    }
+-  })
+-  let j = records.length - 1
+-  while (j >= 0 && records[j]?.kind !== "assistant") j -= 1
+-  const ended = j >= 0 ? records[j] : undefined
+-  if (ended === undefined || ended.endsWithToolUse) return null
+-  const finalText = ended.text.trim()
+-  if (finalText === "") return null
+-  let k = j - 1
+-  while (k >= 0 && records[k]?.kind !== "prompt") k -= 1
+-  const prompt = k >= 0 ? records[k] : undefined
+-  const from = k >= 0 ? k + 1 : 0
+-
+-  const results = new Map<string, ToolResult>()
+-  for (let i = from; i < records.length; i += 1)
+-    for (const one of records[i]?.toolResults ?? []) results.set(one.id, one)
+-
+-  let toolCalls = 0
+-  const trail: string[] = []
+-  for (let i = from; i <= j; i += 1) {
+-    const record = records[i]
+-    if (record === undefined) continue
+-    toolCalls += record.toolInputs.length
+-    const said = record.text.trim()
+-    if (record.kind === "assistant" && said !== "" && i !== j)
+-      trail.push(`said: ${clip(said, TRAIL_TEXT_CHARS)}`)
+-    for (const use of record.toolUses)
+-      trail.push(
+-        `called ${use.name}(${clip(use.input, TRAIL_TOOL_CHARS)}) → ${resultFor(use.id, results)}`
+-      )
+-  }
+-
+-  return {
+-    finalText: finalText.slice(0, FINAL_TEXT_CHARS),
+-    promptText: prompt === undefined ? null : prompt.text.trim().slice(0, PROMPT_TEXT_CHARS),
+-    pending: false,
+-    toolCalls,
+-    trail: trail.slice(-TRAIL_TURNS),
+-  }
+-}
+diff --git a/seat-system/seat-turn/turn-end-evidence/turn-end-evidence.module.ts b/seat-system/seat-turn/turn-end-evidence/turn-end-evidence.module.ts
+deleted file mode 100644
+index 5712796c4359002338d62c970afa145e7154c8d2..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-evidence/turn-end-evidence.module.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const turnEndEvidence = {
+-  id: "01a069c7-5c5f-7e4e-8806-73cb7b6c74de",
+-  pageTypeSlug: "module",
+-  slug: "turn-end-evidence",
+-  definition: "the tail of a transcript read into what one ended turn did and said",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A turn ending in a tool use is no turn end.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Only the tail of a transcript is read.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/seat-system/seat-turn/turn-end-prompt/turn-end-prompt.module.code.ts b/seat-system/seat-turn/turn-end-prompt/turn-end-prompt.module.code.ts
+deleted file mode 100644
+index 10a718166cc7e14a52f82754b29a606898123962..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-prompt/turn-end-prompt.module.code.ts
++++ /dev/null
+@@ -1,127 +0,0 @@
+-import { shape } from "@akasha/utils-narrow/shape"
+-import type { TurnEvidence } from "../turn-end-evidence/turn-end-evidence.module.code.ts"
+-
+-const streamEventSchema = shape.looseObject({
+-  type: shape.string(),
+-  delta: shape.looseObject({ type: shape.string(), text: shape.string().optional() }).optional(),
+-})
+-
+-const answerSchema = shape.looseObject({
+-  line: shape.string(),
+-  why: shape.string(),
+-  verdict: shape.string(),
+-})
+-
+-export interface ReaderAnswer {
+-  readonly line: string
+-  readonly why: string
+-  readonly verdict: string
+-}
+-
+-export const READER_IDENTITY =
+-  "You read how one turn ended, for an AI agent working in a seat. Its principal is Alan."
+-
+-export function buildReadingInstructions(conduct: string): string {
+-  return [
+-    "Answer one question: will this ending annoy Alan?",
+-    "",
+-    "Everything below is the standing definition of what annoys Alan, read off disk as it",
+-    "stands now. Nothing outside it bears on the answer.",
+-    "",
+-    conduct,
+-    "",
+-    "# Otherwise",
+-    "",
+-    "Allow. Idle is where a seat is entitled to be, whether or not anything is outstanding.",
+-    "",
+-    "Refuse ONLY where one of the lines above says this ending annoys him. Quote that line",
+-    "word for word. Where you cannot quote one, allow: a standard you worked out",
+-    "yourself is not his, and stating one as though it were is the worst thing you can do here.",
+-    "",
+-    "Reply with ONLY a JSON object and no other prose, the keys in this order:",
+-    '{"line": "<the line above you are relying on, word for word, or empty to allow>", ' +
+-      '"why": "<what about this ending annoys him, addressed to the agent as `you`, under 25 ' +
+-      'words>", "verdict": "<allow or refuse>"}',
+-  ].join("\n")
+-}
+-
+-export function wordsIn(text: string): number {
+-  const said = text.trim()
+-  return said === "" ? 0 : said.split(/\s+/).length
+-}
+-
+-export function buildReadingUser(evidence: TurnEvidence): string {
+-  return [
+-    evidence.promptText === null
+-      ? "What started the turn could not be read from the transcript."
+-      : `What the agent was responding to:\n\n${evidence.promptText}`,
+-    "",
+-    evidence.pending
+-      ? "MECHANICAL FACT: when this turn ended, a background task, subagent or monitor armed" +
+-        " during it was still pending, so something WILL report back. This says only what is" +
+-        " still running. It says nothing about who the next act belongs to: a turn can hand the" +
+-        " next act to Alan while its own work is still running."
+-      : "MECHANICAL FACT: when this turn ended, nothing armed during it was still pending, so" +
+-        " nothing will report back on its own. This says only what is still running. It says" +
+-        " nothing about who the next act belongs to.",
+-    "",
+-    evidence.toolCalls === 0
+-      ? "MECHANICAL FACT: this turn made no tool call at all, so everything it produced was" +
+-        " text. Whatever it says about work, it read nothing and changed nothing."
+-      : `MECHANICAL FACT: this turn made ${evidence.toolCalls} tool call(s) before it ended.` +
+-        " This says only that it acted, never whether it finished what it set out to do.",
+-    "",
+-    evidence.trail.length === 0
+-      ? "The agent did nothing in this turn before its last message."
+-      : "What the agent did in this turn, in order, ending at its last act:\n\n" +
+-        evidence.trail.map((one) => `- ${one}`).join("\n"),
+-    "",
+-    `MECHANICAL FACT: the agent's last message — everything after its last tool call, and the` +
+-      ` whole of what Alan sees — is ${String(wordsIn(evidence.finalText))} word(s) long. It` +
+-      ` follows below in full.`,
+-    "",
+-    `How the agent's turn ended (its last message):\n\n${evidence.finalText}`,
+-  ].join("\n")
+-}
+-
+-export function extractStreamText(body: string): string | null {
+-  let text = ""
+-  for (const line of body.split("\n")) {
+-    if (!line.startsWith("data:")) continue
+-    const payload = line.slice("data:".length).trim()
+-    if (payload === "") continue
+-    let parsed: ReturnType<typeof streamEventSchema.safeParse>
+-    try {
+-      parsed = streamEventSchema.safeParse(JSON.parse(payload))
+-    } catch {
+-      continue
+-    }
+-    if (!parsed.success) continue
+-    if (parsed.data.type === "error") return null
+-    if (parsed.data.type !== "content_block_delta") continue
+-    const delta = parsed.data.delta
+-    if (delta !== undefined && delta.type === "text_delta" && delta.text !== undefined)
+-      text += delta.text
+-  }
+-  const said = text.trim()
+-  return said === "" ? null : said
+-}
+-
+-export function parseAnswer(text: string): ReaderAnswer | null {
+-  const fence = shape.array(shape.string()).safeParse(/```(?:json)?\s*([\s\S]*?)```/.exec(text))
+-  const candidate = fence.success ? (fence.data[1] ?? text) : text
+-  const start = candidate.indexOf("{")
+-  const end = candidate.lastIndexOf("}")
+-  if (start === -1 || end === -1 || end < start) return null
+-  try {
+-    const parsed = answerSchema.safeParse(JSON.parse(candidate.slice(start, end + 1)))
+-    if (!parsed.success) return null
+-    return {
+-      line: parsed.data.line.trim(),
+-      why: parsed.data.why.trim(),
+-      verdict: parsed.data.verdict.trim(),
+-    }
+-  } catch {
+-    return null
+-  }
+-}
+diff --git a/seat-system/seat-turn/turn-end-prompt/turn-end-prompt.module.ts b/seat-system/seat-turn/turn-end-prompt/turn-end-prompt.module.ts
+deleted file mode 100644
+index 4507b1ad4280768489bc23a41fdfbd4c5a5c15a6..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-prompt/turn-end-prompt.module.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const turnEndPrompt = {
+-  id: "01a069c7-5c5f-75c4-bb66-9416a01117a8",
+-  pageTypeSlug: "module",
+-  slug: "turn-end-prompt",
+-  definition: "the one question a turn end is put to a model as, and its answer read back",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A mechanical fact is said as what it is rather than as what it means.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer that is not one JSON object is read as no answer.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.code.ts b/seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.code.ts
+deleted file mode 100644
+index 5b4e73679aab8d947ed2a0b75c23cf840719fca7..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.code.ts
++++ /dev/null
+@@ -1,115 +0,0 @@
+-import { LOGICAL_MODELS, type LogicalModel } from "@akasha/agents/model-vocab"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { CONDUCT_RELATIVE_PATH } from "../turn-end-conduct/turn-end-conduct.module.code.ts"
+-import {
+-  DEFAULT_READING_MODEL,
+-  DEFAULT_TIMEOUT_MS,
+-  exitCodeFor,
+-  readingFor,
+-} from "../turn-end-reading/turn-end-reading.module.code.ts"
+-
+-const HELP = `turn-end-read — read one turn end against what annoys its principal
+-
+-Reads the turn that just ended off its transcript and asks a model one question: will this
+-ending annoy Alan? It refuses nothing and starts no seat. Nothing asks for this reading on a
+-turn end: \`ops seat turn-end read\` is the one road to it, and it is typed by hand.
+-
+-ONE QUESTION, NOT A LIST. There is no mode here and no set of named cases to fall into. The
+-whole of what the reading is taken against is \`${CONDUCT_RELATIVE_PATH}\`, read
+-at run time, so editing that domain changes what is refused with no code change and no deploy.
+-
+-THE READING SAYS WHY, AND THE WHY REACHES THE AGENT. A refused turn is told what about its
+-ending will annoy him, in the reading's own words, rather than a canned line chosen from a
+-handle. Where the reading refuses without saying why, the caller falls back to its own text.
+-
+-THE TIER IS THE FAST ONE, AND THAT IS NOT SETTLED. The measurement that picked a slower tier was
+-taken against the question set this replaced, so it says nothing about this prompt. The slower
+-tiers stand at their usage limit, and what this one gets wrong is read off live behaviour rather
+-than off a replay.
+-
+-NOTHING IS CACHED. A turn end is read once, at the stop, and a cache keyed on the turn's own
+-text could only ever hit on a turn already let through.
+-
+-THE ANSWER IS THE EXIT CODE, so no caller has to parse anything to learn what was decided:
+-  0  the ending will not annoy him, or nothing could be settled — let the turn end
+-  3  the ending will annoy him — the caller may refuse
+-Anything else is this command failing rather than answering, and a caller must read it as no
+-answer.
+-
+-Usage:
+-  ops seat turn-end read --transcript <path> [flags]
+-
+-  Default stdout, two lines:
+-    READING: <verdict>
+-    WHY: <what the reading said, or empty>
+-
+-  --transcript <path>  The session transcript to read the ended turn from. Required. Only the
+-                       tail is read: the turn that just ended is the last of it.
+-  --pending            Something armed during the turn is still pending. Passed as the
+-                       mechanical fact rather than settling the turn: a seat can announce its
+-                       own next act while a task that will never wake it is running.
+-  --model <tier>       Which tier reads. Default \`${DEFAULT_READING_MODEL}\`.
+-  --timeout-ms <n>     Abort the call after this long. Default ${DEFAULT_TIMEOUT_MS}. A caller's own
+-                       timeout must sit OUTSIDE this one, or it fires first and the abort
+-                       keeping the answer bounded never runs.
+-  --json               The reading and the evidence it was taken on, as JSON.
+-  --help               This.
+-`
+-
+-const EXIT_INPUT = 1
+-
+-function flagValue(argv: readonly string[], flag: string): string | null {
+-  const at = argv.indexOf(flag)
+-  return at === -1 ? null : (argv[at + 1] ?? "")
+-}
+-
+-function refuse(message: string): number {
+-  process.stderr.write(`refused: ${message}\n`)
+-  return EXIT_INPUT
+-}
+-
+-async function main(argv: readonly string[]): Promise<number> {
+-  if (argv.includes("--help")) {
+-    process.stdout.write(HELP)
+-    return 0
+-  }
+-
+-  const transcript = flagValue(argv, "--transcript")
+-  if (transcript === null || transcript === "")
+-    return refuse("--transcript: required — there is no turn to read without it")
+-
+-  const named = flagValue(argv, "--model")
+-  const model = named ?? DEFAULT_READING_MODEL
+-  if (!LOGICAL_MODELS.includes(model as LogicalModel))
+-    return refuse(`--model: not a tier: "${model}". One of: ${LOGICAL_MODELS.join(", ")}`)
+-
+-  const patience = flagValue(argv, "--timeout-ms")
+-  const timeoutMs = patience === null ? DEFAULT_TIMEOUT_MS : Number(patience)
+-  if (!Number.isFinite(timeoutMs) || timeoutMs <= 0)
+-    return refuse(`--timeout-ms: not a positive number of milliseconds: "${patience}"`)
+-
+-  const reading = await readingFor({
+-    root: rootFor(resolveRoots(), AKASHA),
+-    transcript,
+-    model: model as LogicalModel,
+-    timeoutMs,
+-    pending: argv.includes("--pending"),
+-  })
+-
+-  if (argv.includes("--json")) {
+-    process.stdout.write(
+-      `${JSON.stringify({
+-        reading: reading.label,
+-        why: reading.why,
+-        conduct: CONDUCT_RELATIVE_PATH,
+-        evidence: reading.evidence,
+-        model,
+-      })}\n`
+-    )
+-  } else {
+-    process.stdout.write(`READING: ${reading.label}\nWHY: ${reading.why}\n`)
+-  }
+-  return exitCodeFor(reading.answer)
+-}
+-
+-if (import.meta.main) process.exitCode = await main(process.argv.slice(2))
+diff --git a/seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.ts b/seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.ts
+deleted file mode 100644
+index b5cb190db5a0f1e449c0c94cf7b05286e85ddd04..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-read-command/turn-end-read-command.module.ts
++++ /dev/null
+@@ -1,51 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const turnEndReadCommand = {
+-  id: "01a06a04-6de8-7000-9ee4-55f07980cf2c",
+-  pageTypeSlug: "module",
+-  slug: "turn-end-read-command",
+-  definition: "one turn end read on demand, answered as an exit code",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The ops dispatcher spawns the turn-end read as a program of its own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The path spawned is the one the ops-command page names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A default export would make the dispatcher import the code instead.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An imported command returns no exit code to the caller.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Exit code 0 lets the turn end.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Exit code 3 refuses the turn end.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Any other exit code is a failure rather than an answer.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Nothing invokes the turn-end read when a turn ends.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The one road to the turn-end read is typed by hand.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The reading a turn end is taken through is the turn-end-reading module.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/seat-system/seat-turn/turn-end-reading/turn-end-reading.module.code.ts b/seat-system/seat-turn/turn-end-reading/turn-end-reading.module.code.ts
+deleted file mode 100644
+index d73191f57e31b322aee28354d9212971df605a7b..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-reading/turn-end-reading.module.code.ts
++++ /dev/null
+@@ -1,163 +0,0 @@
+-import { type LogicalModel, toWireId } from "@akasha/agents/model-vocab"
+-import { conductIn } from "../turn-end-conduct/turn-end-conduct.module.code.ts"
+-import {
+-  evidenceFrom,
+-  readTail,
+-  type TurnEvidence,
+-} from "../turn-end-evidence/turn-end-evidence.module.code.ts"
+-import {
+-  buildReadingInstructions,
+-  buildReadingUser,
+-  extractStreamText,
+-  parseAnswer,
+-  READER_IDENTITY,
+-  type ReaderAnswer,
+-} from "../turn-end-prompt/turn-end-prompt.module.code.ts"
+-
+-export const DEFAULT_READING_MODEL: LogicalModel = "sonnet"
+-
+-export const DEFAULT_TIMEOUT_MS = 15_000
+-
+-export const REFUSABLE_EXIT = 3
+-
+-const MAX_TOKENS = 1_000
+-
+-export const READING_VERDICTS = ["allow", "refuse"] as const
+-
+-export type ReadingVerdict = (typeof READING_VERDICTS)[number]
+-
+-export type UnestablishedBasis = "no-final-text" | "unanswered"
+-
+-export type ReadingAnswer =
+-  | {
+-      readonly kind: "read"
+-      readonly verdict: ReadingVerdict
+-      readonly why: string
+-      readonly line: string
+-    }
+-  | { readonly kind: "unestablished"; readonly basis: UnestablishedBasis }
+-
+-export interface Reading {
+-  readonly answer: ReadingAnswer
+-  readonly evidence: TurnEvidence | null
+-  readonly label: string
+-  readonly why: string
+-  readonly line: string
+-}
+-
+-export const UNESTABLISHED_LABEL = "allow:unestablished-"
+-
+-export function quotesConduct(line: string, conduct: string): boolean {
+-  const said = line.trim()
+-  if (said === "") return false
+-  return conduct.includes(said)
+-}
+-
+-export function classifyAnswer(said: ReaderAnswer | null, conduct: string): ReadingAnswer {
+-  if (said === null) return { kind: "unestablished", basis: "unanswered" }
+-  const asked = said.verdict.toLowerCase()
+-  const matched = READING_VERDICTS.find((one) => one === asked)
+-  if (matched === undefined) return { kind: "unestablished", basis: "unanswered" }
+-  if (matched === "refuse" && !quotesConduct(said.line, conduct))
+-    return { kind: "read", verdict: "allow", why: "", line: "" }
+-  return { kind: "read", verdict: matched, why: said.why, line: said.line.trim() }
+-}
+-
+-export function labelOf(answer: ReadingAnswer): string {
+-  return answer.kind === "read" ? answer.verdict : `${UNESTABLISHED_LABEL}${answer.basis}`
+-}
+-
+-export function labelSettled(label: string): boolean {
+-  return !label.startsWith(UNESTABLISHED_LABEL)
+-}
+-
+-export function whyOf(answer: ReadingAnswer): string {
+-  return answer.kind === "read" ? answer.why : ""
+-}
+-
+-export function lineOf(answer: ReadingAnswer): string {
+-  return answer.kind === "read" ? answer.line : ""
+-}
+-
+-export function exitCodeFor(answer: ReadingAnswer): number {
+-  return answer.kind === "read" && answer.verdict === "refuse" ? REFUSABLE_EXIT : 0
+-}
+-
+-export function readingEndpoint(): string {
+-  const baseUrl = process.env.ANTHROPIC_BASE_URL
+-  if (baseUrl === undefined || baseUrl === "")
+-    throw new Error(
+-      "turn-end-reading: ANTHROPIC_BASE_URL names no OAuth proxy, so no turn end can be read. " +
+-        "Every turn end would come back unsettled, which is a reading of this command rather than " +
+-        "of the seat."
+-    )
+-  return baseUrl
+-}
+-
+-async function askReader(args: {
+-  readonly model: LogicalModel
+-  readonly instructions: string
+-  readonly userText: string
+-  readonly timeoutMs: number
+-}): Promise<ReaderAnswer | null> {
+-  try {
+-    const res = await fetch(new URL("/v1/messages", readingEndpoint()), {
+-      method: "POST",
+-      headers: { "content-type": "application/json", "anthropic-version": "2023-06-01" },
+-      body: JSON.stringify({
+-        model: toWireId(args.model),
+-        max_tokens: MAX_TOKENS,
+-        stream: true,
+-        system: [
+-          { type: "text", text: READER_IDENTITY },
+-          { type: "text", text: args.instructions },
+-        ],
+-        messages: [{ role: "user", content: args.userText }],
+-      }),
+-      signal: AbortSignal.timeout(args.timeoutMs),
+-    })
+-    if (!res.ok) return null
+-    const text = extractStreamText(await res.text())
+-    return text === null ? null : parseAnswer(text)
+-  } catch {
+-    return null
+-  }
+-}
+-
+-function settledBy(answer: ReadingAnswer, evidence: TurnEvidence | null): Reading {
+-  return { answer, evidence, label: labelOf(answer), why: whyOf(answer), line: lineOf(answer) }
+-}
+-
+-export async function readingOn(args: {
+-  readonly conduct: string
+-  readonly evidence: TurnEvidence
+-  readonly model: LogicalModel
+-  readonly timeoutMs: number
+-}): Promise<Reading> {
+-  const said = await askReader({
+-    model: args.model,
+-    instructions: buildReadingInstructions(args.conduct),
+-    userText: buildReadingUser(args.evidence),
+-    timeoutMs: args.timeoutMs,
+-  })
+-  return settledBy(classifyAnswer(said, args.conduct), args.evidence)
+-}
+-
+-export async function readingFor(args: {
+-  readonly root: string
+-  readonly transcript: string
+-  readonly model: LogicalModel
+-  readonly timeoutMs: number
+-  readonly pending: boolean
+-}): Promise<Reading> {
+-  const conduct = conductIn(args.root)
+-  const read = evidenceFrom(await readTail(args.transcript))
+-  if (read === null) return settledBy({ kind: "unestablished", basis: "no-final-text" }, null)
+-
+-  return readingOn({
+-    conduct,
+-    evidence: { ...read, pending: args.pending },
+-    model: args.model,
+-    timeoutMs: args.timeoutMs,
+-  })
+-}
+diff --git a/seat-system/seat-turn/turn-end-reading/turn-end-reading.module.ts b/seat-system/seat-turn/turn-end-reading/turn-end-reading.module.ts
+deleted file mode 100644
+index 9f0353c6d8cddc0bd5860962c7272e89a4319f1b..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-end-reading/turn-end-reading.module.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const turnEndReading = {
+-  id: "01a069c7-5c5f-70a5-9a8a-4429e44dc00a",
+-  pageTypeSlug: "module",
+-  slug: "turn-end-reading",
+-  definition: "one ended turn read for whether its ending will annoy the seat's principal",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A reading that cannot settle allows the turn end.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refusal quoting no line of the conduct is read as allowing.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/seat-system/seat-turn/turn-records/turn-records.module.code.ts b/seat-system/seat-turn/turn-records/turn-records.module.code.ts
+deleted file mode 100644
+index 77d7f8fab4e8d9fd4b8b9dd5ee62b2de368ad8b3..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-records/turn-records.module.code.ts
++++ /dev/null
+@@ -1,56 +0,0 @@
+-import type { SeatRecord } from "../../seat-record/seat-record.module.code.ts"
+-
+-export type TurnRecord = SeatRecord
+-
+-// THESE THREE STAND NOWHERE AND SAY SO. Akasha declares no property for any of them, so the write
+-// had nowhere to land once the old store stopped being written; the reads have answered null since
+-// the reads moved to akasha, a step earlier.
+-//
+-// NOTHING WRITES THEM EITHER. `agents.agent-settings.harness-settings.json` registers exactly one
+-// hook, `block-ops-cli`. The two inference hooks that reach `turn-end-decide` — where `stopped` is
+-// the one value any of these ever carries that the readers do not already assume — are
+-// unregistered, as are all six agent hooks. What is left calls `setTurnState(agent, "idle")`, and
+-// `stampIn` reads a missing stamp as `idle` too, so even a landed write would say what its absence
+-// already says.
+-//
+-// So this is not a value being lost. It is a record nobody keeps, described as one.
+-//
+-// IT IS SPELLED OUT HERE RATHER THAN LEFT TO FAIL BENEATH. Left alone, every call went on reaching
+-// `keepBeside`, which now refuses a key akasha carries nothing for — a throw raised and swallowed
+-// once per key per beat per seat. That throw is what leaked into a live agent's terminal when the
+-// refusal was briefly said aloud. A record nobody keeps should cost nothing to not keep.
+-//
+-// The way back is the same for all three: register the hooks, declare the property on the seat page
+-// type in akasha, name it in `CARRIED`, and restore these bodies. The middle step is the one with
+-// no gate on it — see `seat-system`'s upkeep invariant.
+-export function turnEndReadingOf(_agent: string): TurnRecord | null {
+-  return null
+-}
+-
+-export function setTurnEndReading(_agent: string, _value: string): void {}
+-
+-export function turnStateOf(_agent: string): TurnRecord | null {
+-  return null
+-}
+-
+-export function setTurnState(_agent: string, _value: string): void {}
+-
+-export function turnPendingSourceOf(_agent: string): TurnRecord | null {
+-  return null
+-}
+-
+-export function setTurnPendingSource(_agent: string, _value: string): void {}
+-
+-function keptLine(label: string, recorded: TurnRecord | null, absent: string): string {
+-  const said =
+-    recorded === null ? absent : `${recorded.value} (read ${new Date(recorded.at).toISOString()})`
+-  return `  ${label.padEnd(8)} ${said}`
+-}
+-
+-export function turnEndReadingLine(recorded: TurnRecord | null): string {
+-  return keptLine("reading", recorded, "— no turn end read")
+-}
+-
+-export function turnPendingSourceLine(recorded: TurnRecord | null): string {
+-  return keptLine("source", recorded, "— no turn end measured")
+-}
+diff --git a/seat-system/seat-turn/turn-records/turn-records.module.test.ts b/seat-system/seat-turn/turn-records/turn-records.module.test.ts
+deleted file mode 100644
+index 75018b1b8846bccdd90318d9d5583d27d5a8fddc..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-records/turn-records.module.test.ts
++++ /dev/null
+@@ -1,25 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  turnEndReadingLine,
+-  turnEndReadingOf,
+-  turnPendingSourceLine,
+-  turnPendingSourceOf,
+-  turnStateOf,
+-} from "./turn-records.module.code.ts"
+-
+-test("a record akasha declares no property for reads as absent", () => {
+-  expect(turnEndReadingOf("any-agent")).toBeNull()
+-  expect(turnStateOf("any-agent")).toBeNull()
+-  expect(turnPendingSourceOf("any-agent")).toBeNull()
+-})
+-
+-test("an absent record is said in words", () => {
+-  expect(turnEndReadingLine(null)).toContain("no turn end read")
+-  expect(turnPendingSourceLine(null)).toContain("no turn end measured")
+-})
+-
+-test("a record that is there is said with the moment it was read", () => {
+-  const at = Date.parse("2026-09-03T00:00:00.000Z")
+-  expect(turnEndReadingLine({ value: "stopped", at })).toContain("stopped")
+-  expect(turnEndReadingLine({ value: "stopped", at })).toContain("2026-09-03T00:00:00.000Z")
+-})
+diff --git a/seat-system/seat-turn/turn-records/turn-records.module.ts b/seat-system/seat-turn/turn-records/turn-records.module.ts
+deleted file mode 100644
+index 06c63ef1ff5f48fa2074b3aca74664628a9f9c6c..0000000000000000000000000000000000000000
+--- a/seat-system/seat-turn/turn-records/turn-records.module.ts
++++ /dev/null
+@@ -1,30 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const turnRecords = {
+-  id: "01a0687b-3c73-7000-b71b-44f25679016c",
+-  pageTypeSlug: "module",
+-  slug: "turn-records",
+-  definition:
+-    "the turn end reading, the turn state stamp and the turn start source a seat would keep",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A record akasha declares no property for is read as absent rather than thrown on.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A write of a record akasha declares no property for costs nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A record that is absent is said in words rather than left blank.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads or writes a seat's page.",
+-    },
+-  ],
+-} as const satisfies Module
