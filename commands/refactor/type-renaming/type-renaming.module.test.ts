@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { listedFiled, pathFiled } from "@akasha/indexes/testing"
-import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   carriesFor,
   type Renaming,

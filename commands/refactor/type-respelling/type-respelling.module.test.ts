@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import type { Typing } from "@akasha/code-system/code-typing"
 import { insideOf, typingOver } from "@akasha/code-system/code-typing"
 import type { Shaped } from "@akasha/indexes/reaching"
-import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Renaming } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 import {

@@ -9,7 +9,7 @@ import {
   relationFiled,
   schemaFiled,
 } from "@akasha/indexes/testing"
-import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { keyingFor, respellingFor } from "./key-respelling.module.code.ts"
 
 const KEYED = "01a058ed-0000-7000-8000-000000000001"

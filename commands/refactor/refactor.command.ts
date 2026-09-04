@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const refactor = {
   id: "01a0587b-6773-713a-8932-42c28462e9d0",

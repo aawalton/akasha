@@ -1,13 +1,13 @@
-import type { Asked } from "../../../asking/asking.module.code.ts"
-import { landingAsked, textOf } from "../../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../../calling/calling.module.code.ts"
-import { answering } from "../../../calling/calling.module.code.ts"
-import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
-import type { FileEdit } from "../../../landing/landing.module.code.ts"
-import { baseOf } from "../../../landing/landing.module.code.ts"
-import type { Carry } from "../../../reading/reading.module.code.ts"
-import { blobIdOf, carryReadings } from "../../../reading/reading.module.code.ts"
-import { glassIn, messageIn } from "../../write/write.command.code.ts"
+import type { Asked } from "../../../command-system/asking/asking.module.code.ts"
+import { landingAsked, textOf } from "../../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { answering } from "../../../command-system/calling/calling.module.code.ts"
+import { glassIn, messageIn } from "../../../command-system/commands/write/write.command.code.ts"
+import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
+import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import type { Carry } from "../../../command-system/reading/reading.module.code.ts"
+import { blobIdOf, carryReadings } from "../../../command-system/reading/reading.module.code.ts"
 
 const BYTES = new TextEncoder()
 

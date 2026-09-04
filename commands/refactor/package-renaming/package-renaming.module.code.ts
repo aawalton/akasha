@@ -1,11 +1,17 @@
 import { spelledIn } from "@akasha/code-system/code-specifier"
 import { everyPath } from "@akasha/indexes"
-import { counted } from "../../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../../calling/calling.module.code.ts"
-import { answering } from "../../../calling/calling.module.code.ts"
-import { baseOf } from "../../../landing/landing.module.code.ts"
-import { respeltNames, spelledRespelt } from "../../../outside-naming/outside-naming.module.code.ts"
-import { nameIn, reachedOver } from "../../../package-linking/package-linking.module.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { answering } from "../../../command-system/calling/calling.module.code.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import {
+  respeltNames,
+  spelledRespelt,
+} from "../../../command-system/outside-naming/outside-naming.module.code.ts"
+import {
+  nameIn,
+  reachedOver,
+} from "../../../command-system/package-linking/package-linking.module.code.ts"
 import { bodyTextOf, respelledLanded, were } from "../landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { manifest } from "../../../scratching/scratching.module.test-fixtures.ts"
+import { manifest } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   bodyRespeltIn,
   manifestRespeltIn,

@@ -16,7 +16,7 @@ import {
   typingOver,
 } from "@akasha/code-system/code-typing"
 import type ts from "typescript"
-import { counted } from "../../../asking/asking.module.code.ts"
+import { counted } from "../../../command-system/asking/asking.module.code.ts"
 import { were } from "../landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
