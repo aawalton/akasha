@@ -1,0 +1,736 @@
+diff --git a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
+index 5ca4f22c69f9449a6c49be1e629e2c993fab6f5c..ceadf7a6de13c3b9515093b2b35e3d14a486352b 100644
+--- a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
++++ b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
+@@ -20,9 +20,9 @@ export const clusterManifests = {
+     "module/cloudflared-rbac",
+     "module/cloudnative-pg-rbac",
+     "module/cloudnative-pg-synth",
+-    "module/cnpg-cluster",
+-    "module/cnpg-object-store",
+-    "module/cnpg-scheduled-backup",
++    "manifest/cnpg-cluster",
++    "manifest/cnpg-object-store",
++    "manifest/cnpg-scheduled-backup",
+     "module/collections-rbac",
+     "module/eso-rig-rbac",
+     "module/exporter-daemonsets",
+@@ -43,7 +43,7 @@ export const clusterManifests = {
+     "module/orphan-resource-listing",
+     "module/orphan-sweep-notice",
+     "module/orphan-sweeping",
+-    "module/pgbouncer-exporter-manifests",
++    "manifest/pgbouncer-exporter-manifests",
+     "module/pgbouncer-rbac",
+     "module/pod-janitor-rbac",
+     "module/postgres-exporter-manifests",
+diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..53f432e0acb9c459f679378de93c8ff0c8be60b3
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts
+@@ -0,0 +1,113 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
++
++const NAMESPACE = "postgres"
++
++const CNPG_IMAGE =
++  "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1"
++
++const SOURCE = "postgres-legacy"
++
++export function cnpgClusterYaml(): string {
++  return synthOne(NAMESPACE, "postgres-cnpg-cluster", {
++    apiVersion: "postgresql.cnpg.io/v1",
++    kind: "Cluster",
++    metadata: {
++      name: "postgres-cnpg",
++      namespace: NAMESPACE,
++    },
++    spec: {
++      instances: 2,
++      imageName: CNPG_IMAGE,
++      imagePullPolicy: "IfNotPresent",
++
++      enableSuperuserAccess: true,
++      superuserSecret: { name: "postgres-cnpg-superuser" },
++
++      managed: {
++        roles: [
++          {
++            name: "grafana_ro",
++            ensure: "present",
++            login: true,
++            superuser: false,
++            createdb: false,
++            createrole: false,
++            inRoles: ["pg_monitor"],
++            passwordSecret: { name: "grafana-ro-password" },
++          },
++          {
++            name: "agent_adhoc",
++            ensure: "present",
++            login: true,
++            superuser: false,
++            createdb: false,
++            createrole: false,
++            inherit: true,
++            bypassrls: true,
++            inRoles: ["pg_read_all_data"],
++            passwordSecret: { name: "agent-adhoc-password" },
++          },
++        ],
++      },
++
++      bootstrap: { pg_basebackup: { source: SOURCE } },
++      replica: { enabled: false, source: SOURCE },
++      externalClusters: [
++        {
++          name: SOURCE,
++          connectionParameters: {
++            host: "postgres.postgres.svc.cluster.local",
++            port: "5432",
++            user: "postgres",
++            dbname: "postgres",
++            sslmode: "disable",
++          },
++          password: { name: "postgres-cnpg-superuser", key: "password" },
++        },
++      ],
++
++      plugins: [
++        {
++          name: "barman-cloud.cloudnative-pg.io",
++          isWALArchiver: true,
++          parameters: { barmanObjectName: "postgres-cnpg-backup-store" },
++        },
++      ],
++
++      postgresql: {
++        shared_preload_libraries: ["timescaledb", "pg_cron", "pg_net", "pg_stat_statements"],
++        parameters: {
++          shared_buffers: "8GB",
++          effective_cache_size: "18GB",
++          maintenance_work_mem: "2GB",
++          work_mem: "32MB",
++          max_connections: "500",
++          max_wal_senders: "20",
++          max_replication_slots: "32",
++          max_slot_wal_keep_size: "10GB",
++          "cron.database_name": "postgres",
++          "pg_stat_statements.track": "all",
++          idle_in_transaction_session_timeout: "120s",
++          jit: "off",
++        },
++      },
++
++      storage: { size: "100Gi", storageClass: "" },
++      walStorage: { size: "20Gi", storageClass: "" },
++
++      resources: {
++        requests: { memory: "20Gi", cpu: "4" },
++        limits: { memory: "20Gi", cpu: "4" },
++      },
++
++      switchoverDelay: 300,
++
++      affinity: {
++        nodeSelector: workloadClassMemberSelector("database"),
++        enablePodAntiAffinity: true,
++        podAntiAffinityType: "required",
++      },
++    },
++  })
++}
+diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..98a4520a4ea7bd66d82f661b5fb7399e038b005a
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const cnpgCluster = {
++  id: "01a06810-1262-718e-a2b3-5eb33330f9f5",
++  pageTypeSlug: "manifest",
++  slug: "cnpg-cluster",
++  definition: "the managed Postgres cluster and the instances it keeps",
++  code: "ts",
++} as const satisfies Manifest
+diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.code.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.code.ts
+deleted file mode 100644
+index 53f432e0acb9c459f679378de93c8ff0c8be60b3..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.code.ts
++++ /dev/null
+@@ -1,113 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+-
+-const NAMESPACE = "postgres"
+-
+-const CNPG_IMAGE =
+-  "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1"
+-
+-const SOURCE = "postgres-legacy"
+-
+-export function cnpgClusterYaml(): string {
+-  return synthOne(NAMESPACE, "postgres-cnpg-cluster", {
+-    apiVersion: "postgresql.cnpg.io/v1",
+-    kind: "Cluster",
+-    metadata: {
+-      name: "postgres-cnpg",
+-      namespace: NAMESPACE,
+-    },
+-    spec: {
+-      instances: 2,
+-      imageName: CNPG_IMAGE,
+-      imagePullPolicy: "IfNotPresent",
+-
+-      enableSuperuserAccess: true,
+-      superuserSecret: { name: "postgres-cnpg-superuser" },
+-
+-      managed: {
+-        roles: [
+-          {
+-            name: "grafana_ro",
+-            ensure: "present",
+-            login: true,
+-            superuser: false,
+-            createdb: false,
+-            createrole: false,
+-            inRoles: ["pg_monitor"],
+-            passwordSecret: { name: "grafana-ro-password" },
+-          },
+-          {
+-            name: "agent_adhoc",
+-            ensure: "present",
+-            login: true,
+-            superuser: false,
+-            createdb: false,
+-            createrole: false,
+-            inherit: true,
+-            bypassrls: true,
+-            inRoles: ["pg_read_all_data"],
+-            passwordSecret: { name: "agent-adhoc-password" },
+-          },
+-        ],
+-      },
+-
+-      bootstrap: { pg_basebackup: { source: SOURCE } },
+-      replica: { enabled: false, source: SOURCE },
+-      externalClusters: [
+-        {
+-          name: SOURCE,
+-          connectionParameters: {
+-            host: "postgres.postgres.svc.cluster.local",
+-            port: "5432",
+-            user: "postgres",
+-            dbname: "postgres",
+-            sslmode: "disable",
+-          },
+-          password: { name: "postgres-cnpg-superuser", key: "password" },
+-        },
+-      ],
+-
+-      plugins: [
+-        {
+-          name: "barman-cloud.cloudnative-pg.io",
+-          isWALArchiver: true,
+-          parameters: { barmanObjectName: "postgres-cnpg-backup-store" },
+-        },
+-      ],
+-
+-      postgresql: {
+-        shared_preload_libraries: ["timescaledb", "pg_cron", "pg_net", "pg_stat_statements"],
+-        parameters: {
+-          shared_buffers: "8GB",
+-          effective_cache_size: "18GB",
+-          maintenance_work_mem: "2GB",
+-          work_mem: "32MB",
+-          max_connections: "500",
+-          max_wal_senders: "20",
+-          max_replication_slots: "32",
+-          max_slot_wal_keep_size: "10GB",
+-          "cron.database_name": "postgres",
+-          "pg_stat_statements.track": "all",
+-          idle_in_transaction_session_timeout: "120s",
+-          jit: "off",
+-        },
+-      },
+-
+-      storage: { size: "100Gi", storageClass: "" },
+-      walStorage: { size: "20Gi", storageClass: "" },
+-
+-      resources: {
+-        requests: { memory: "20Gi", cpu: "4" },
+-        limits: { memory: "20Gi", cpu: "4" },
+-      },
+-
+-      switchoverDelay: 300,
+-
+-      affinity: {
+-        nodeSelector: workloadClassMemberSelector("database"),
+-        enablePodAntiAffinity: true,
+-        podAntiAffinityType: "required",
+-      },
+-    },
+-  })
+-}
+diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.ts
+deleted file mode 100644
+index 4b6845a36648414d8f41b79a00f5993d12a191f7..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const cnpgCluster = {
+-  id: "01a06810-1262-718e-a2b3-5eb33330f9f5",
+-  pageTypeSlug: "module",
+-  slug: "cnpg-cluster",
+-  definition: "the managed Postgres cluster and the instances it keeps",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.code.ts b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0d3673b627fe9bc3351486ec49a51871c68e7085
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.code.ts
+@@ -0,0 +1,34 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++
++const NAMESPACE = "postgres"
++
++const BACKUP_S3_SECRET = "postgres-cnpg-backup-s3"
++
++export function objectStoreYaml(): string {
++  return synthOne(NAMESPACE, "postgres-cnpg-objectstore", {
++    apiVersion: "barmancloud.cnpg.io/v1",
++    kind: "ObjectStore",
++    metadata: {
++      name: "postgres-cnpg-backup-store",
++      namespace: NAMESPACE,
++    },
++    spec: {
++      configuration: {
++        destinationPath: "s3://postgres-cnpg-backups/",
++        endpointURL: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
++        s3Credentials: {
++          accessKeyId: { name: BACKUP_S3_SECRET, key: "access_key" },
++          secretAccessKey: { name: BACKUP_S3_SECRET, key: "secret_key" },
++        },
++        data: {
++          compression: "gzip",
++          immediateCheckpoint: true,
++          jobs: 1,
++          additionalCommandArgs: ["--min-chunk-size=5MB", "--max-archive-size=5GB"],
++        },
++        wal: { compression: "gzip" },
++      },
++      retentionPolicy: "7d",
++    },
++  })
++}
+diff --git a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.ts b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..25efd1d70c4dabae0f861e59710745a75ffe4f57
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const cnpgObjectStore = {
++  id: "01a06810-1262-7032-8aec-41b84efe28f1",
++  pageTypeSlug: "manifest",
++  slug: "cnpg-object-store",
++  definition: "the bucket the database's backups are written to",
++  code: "ts",
++} as const satisfies Manifest
+diff --git a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.code.ts b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.code.ts
+deleted file mode 100644
+index 0d3673b627fe9bc3351486ec49a51871c68e7085..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.code.ts
++++ /dev/null
+@@ -1,34 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-
+-const NAMESPACE = "postgres"
+-
+-const BACKUP_S3_SECRET = "postgres-cnpg-backup-s3"
+-
+-export function objectStoreYaml(): string {
+-  return synthOne(NAMESPACE, "postgres-cnpg-objectstore", {
+-    apiVersion: "barmancloud.cnpg.io/v1",
+-    kind: "ObjectStore",
+-    metadata: {
+-      name: "postgres-cnpg-backup-store",
+-      namespace: NAMESPACE,
+-    },
+-    spec: {
+-      configuration: {
+-        destinationPath: "s3://postgres-cnpg-backups/",
+-        endpointURL: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
+-        s3Credentials: {
+-          accessKeyId: { name: BACKUP_S3_SECRET, key: "access_key" },
+-          secretAccessKey: { name: BACKUP_S3_SECRET, key: "secret_key" },
+-        },
+-        data: {
+-          compression: "gzip",
+-          immediateCheckpoint: true,
+-          jobs: 1,
+-          additionalCommandArgs: ["--min-chunk-size=5MB", "--max-archive-size=5GB"],
+-        },
+-        wal: { compression: "gzip" },
+-      },
+-      retentionPolicy: "7d",
+-    },
+-  })
+-}
+diff --git a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.ts b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.ts
+deleted file mode 100644
+index 17000cad458f0f4d11e1a8d938beb3746282691d..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const cnpgObjectStore = {
+-  id: "01a06810-1262-7032-8aec-41b84efe28f1",
+-  pageTypeSlug: "module",
+-  slug: "cnpg-object-store",
+-  definition: "the bucket the database's backups are written to",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0888248cbd6bfb21cab39c6faa0db9856cdc711b
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts
+@@ -0,0 +1,22 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++
++const NAMESPACE = "postgres"
++
++export function scheduledBackupYaml(): string {
++  return synthOne(NAMESPACE, "postgres-cnpg-scheduledbackup", {
++    apiVersion: "postgresql.cnpg.io/v1",
++    kind: "ScheduledBackup",
++    metadata: {
++      name: "postgres-cnpg-daily",
++      namespace: NAMESPACE,
++    },
++    spec: {
++      cluster: { name: "postgres-cnpg" },
++      schedule: "0 0 3 * * *",
++      method: "plugin",
++      pluginConfiguration: { name: "barman-cloud.cloudnative-pg.io" },
++      backupOwnerReference: "self",
++      immediate: false,
++    },
++  })
++}
+diff --git a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.ts b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d4ffbfcdbce68b71e803d00140d30ea08a60c65e
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const cnpgScheduledBackup = {
++  id: "01a06810-1262-73c8-bc67-275c9593daf3",
++  pageTypeSlug: "manifest",
++  slug: "cnpg-scheduled-backup",
++  definition: "the daily backup the database operator takes",
++  code: "ts",
++} as const satisfies Manifest
+diff --git a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts
+deleted file mode 100644
+index 0888248cbd6bfb21cab39c6faa0db9856cdc711b..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts
++++ /dev/null
+@@ -1,22 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-
+-const NAMESPACE = "postgres"
+-
+-export function scheduledBackupYaml(): string {
+-  return synthOne(NAMESPACE, "postgres-cnpg-scheduledbackup", {
+-    apiVersion: "postgresql.cnpg.io/v1",
+-    kind: "ScheduledBackup",
+-    metadata: {
+-      name: "postgres-cnpg-daily",
+-      namespace: NAMESPACE,
+-    },
+-    spec: {
+-      cluster: { name: "postgres-cnpg" },
+-      schedule: "0 0 3 * * *",
+-      method: "plugin",
+-      pluginConfiguration: { name: "barman-cloud.cloudnative-pg.io" },
+-      backupOwnerReference: "self",
+-      immediate: false,
+-    },
+-  })
+-}
+diff --git a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts
+deleted file mode 100644
+index 667fea06f9924d0af05b4b0aea82e9aa0c4df20f..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const cnpgScheduledBackup = {
+-  id: "01a06810-1262-73c8-bc67-275c9593daf3",
+-  pageTypeSlug: "module",
+-  slug: "cnpg-scheduled-backup",
+-  definition: "the daily backup the database operator takes",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
+index c34cbddc5c2b882230d3d3f9f5f900f29e29514e..bc131af963d20f39c7af78badf747d92759be370 100644
+--- a/infrastructure/cluster-manifests/package.json
++++ b/infrastructure/cluster-manifests/package.json
+@@ -13,9 +13,9 @@
+     "./ci-namespace-synth": "./ci-namespace-synth/ci-namespace-synth.module.code.ts",
+     "./cloudflared-rbac": "./cloudflared-rbac/cloudflared-rbac.module.code.ts",
+     "./cloudnative-pg-rbac": "./cloudnative-pg-rbac/cloudnative-pg-rbac.module.code.ts",
+-    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.module.code.ts",
+-    "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.module.code.ts",
+-    "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts",
++    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.manifest.code.ts",
++    "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.manifest.code.ts",
++    "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts",
+     "./collections-rbac": "./collections-rbac/collections-rbac.module.code.ts",
+     "./eso-rig-rbac": "./eso-rig-rbac/eso-rig-rbac.module.code.ts",
+     "./exporter-daemonsets": "./exporter-daemonsets/exporter-daemonsets.module.code.ts",
+@@ -34,7 +34,7 @@
+     "./orphan-resource-audit": "./orphan-resource-audit/orphan-resource-audit.module.code.ts",
+     "./orphan-resource-listing": "./orphan-resource-listing/orphan-resource-listing.module.code.ts",
+     "./orphan-sweep-notice": "./orphan-sweep-notice/orphan-sweep-notice.module.code.ts",
+-    "./pgbouncer-exporter-manifests": "./pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts",
++    "./pgbouncer-exporter-manifests": "./pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts",
+     "./pgbouncer-rbac": "./pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
+     "./pod-janitor-rbac": "./pod-janitor-rbac/pod-janitor-rbac.module.code.ts",
+     "./postgres-exporter-manifests": "./postgres-exporter-manifests/postgres-exporter-manifests.module.code.ts",
+diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..42074de4a21137062c9bf94978a4c0203b0f882b
+--- /dev/null
++++ b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts
+@@ -0,0 +1,89 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++import {
++  NAMESPACE,
++  PGBOUNCER_EXPORTER_IMAGE,
++  PGBOUNCER_EXPORTER_LABELS,
++  PGBOUNCER_EXPORTER_SELECTOR_LABELS,
++} from "../prometheus-constants/prometheus-constants.module.code.ts"
++
++export function pgbouncerExporterDeploymentYaml(): string {
++  return synthOne(NAMESPACE, "pgbouncer-exporter-deployment", {
++    apiVersion: "apps/v1",
++    kind: "Deployment",
++    metadata: {
++      name: "pgbouncer-exporter",
++      namespace: NAMESPACE,
++      labels: PGBOUNCER_EXPORTER_LABELS,
++    },
++    spec: {
++      replicas: 1,
++      strategy: { type: "Recreate" },
++      selector: { matchLabels: PGBOUNCER_EXPORTER_SELECTOR_LABELS },
++      template: {
++        metadata: { labels: PGBOUNCER_EXPORTER_LABELS },
++        spec: {
++          containers: [
++            {
++              name: "pgbouncer-exporter",
++              image: PGBOUNCER_EXPORTER_IMAGE,
++              env: [
++                {
++                  name: "PGBOUNCER_EXPORTER_CONNECTION_STRING",
++                  valueFrom: {
++                    secretKeyRef: { name: "prometheus-secrets", key: "PGBOUNCER_STATS_DSN" },
++                  },
++                },
++              ],
++              ports: [{ name: "metrics", containerPort: 9127 }],
++              resources: {
++                requests: { cpu: "10m", memory: "48Mi" },
++                limits: { memory: "48Mi" },
++              },
++              securityContext: {
++                runAsNonRoot: true,
++                runAsUser: 65534,
++                allowPrivilegeEscalation: false,
++                capabilities: { drop: ["ALL"] },
++                readOnlyRootFilesystem: true,
++              },
++              livenessProbe: {
++                httpGet: { path: "/", port: 9127 },
++                initialDelaySeconds: 10,
++                periodSeconds: 10,
++              },
++              readinessProbe: {
++                httpGet: { path: "/", port: 9127 },
++                initialDelaySeconds: 5,
++                periodSeconds: 5,
++              },
++            },
++          ],
++        },
++      },
++    },
++  })
++}
++
++export function pgbouncerExporterServiceYaml(): string {
++  return synthOne(NAMESPACE, "pgbouncer-exporter-service", {
++    apiVersion: "v1",
++    kind: "Service",
++    metadata: {
++      name: "pgbouncer-exporter",
++      namespace: NAMESPACE,
++      labels: PGBOUNCER_EXPORTER_LABELS,
++    },
++    spec: {
++      type: "ClusterIP",
++      selector: PGBOUNCER_EXPORTER_SELECTOR_LABELS,
++      ports: [
++        {
++          name: "metrics",
++          port: 9127,
++          targetPort: "metrics",
++          protocol: "TCP",
++        },
++      ],
++    },
++  })
++}
+diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5757585dce4d0dec88d39809efada1489376b72c
+--- /dev/null
++++ b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const pgbouncerExporterManifests = {
++  id: "01a06810-1263-72f2-a54b-54d681b6293a",
++  pageTypeSlug: "manifest",
++  slug: "pgbouncer-exporter-manifests",
++  definition: "the exporter that publishes the connection pool's state as metrics",
++  code: "ts",
++} as const satisfies Manifest
+diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts
+deleted file mode 100644
+index 42074de4a21137062c9bf94978a4c0203b0f882b..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts
++++ /dev/null
+@@ -1,89 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-import {
+-  NAMESPACE,
+-  PGBOUNCER_EXPORTER_IMAGE,
+-  PGBOUNCER_EXPORTER_LABELS,
+-  PGBOUNCER_EXPORTER_SELECTOR_LABELS,
+-} from "../prometheus-constants/prometheus-constants.module.code.ts"
+-
+-export function pgbouncerExporterDeploymentYaml(): string {
+-  return synthOne(NAMESPACE, "pgbouncer-exporter-deployment", {
+-    apiVersion: "apps/v1",
+-    kind: "Deployment",
+-    metadata: {
+-      name: "pgbouncer-exporter",
+-      namespace: NAMESPACE,
+-      labels: PGBOUNCER_EXPORTER_LABELS,
+-    },
+-    spec: {
+-      replicas: 1,
+-      strategy: { type: "Recreate" },
+-      selector: { matchLabels: PGBOUNCER_EXPORTER_SELECTOR_LABELS },
+-      template: {
+-        metadata: { labels: PGBOUNCER_EXPORTER_LABELS },
+-        spec: {
+-          containers: [
+-            {
+-              name: "pgbouncer-exporter",
+-              image: PGBOUNCER_EXPORTER_IMAGE,
+-              env: [
+-                {
+-                  name: "PGBOUNCER_EXPORTER_CONNECTION_STRING",
+-                  valueFrom: {
+-                    secretKeyRef: { name: "prometheus-secrets", key: "PGBOUNCER_STATS_DSN" },
+-                  },
+-                },
+-              ],
+-              ports: [{ name: "metrics", containerPort: 9127 }],
+-              resources: {
+-                requests: { cpu: "10m", memory: "48Mi" },
+-                limits: { memory: "48Mi" },
+-              },
+-              securityContext: {
+-                runAsNonRoot: true,
+-                runAsUser: 65534,
+-                allowPrivilegeEscalation: false,
+-                capabilities: { drop: ["ALL"] },
+-                readOnlyRootFilesystem: true,
+-              },
+-              livenessProbe: {
+-                httpGet: { path: "/", port: 9127 },
+-                initialDelaySeconds: 10,
+-                periodSeconds: 10,
+-              },
+-              readinessProbe: {
+-                httpGet: { path: "/", port: 9127 },
+-                initialDelaySeconds: 5,
+-                periodSeconds: 5,
+-              },
+-            },
+-          ],
+-        },
+-      },
+-    },
+-  })
+-}
+-
+-export function pgbouncerExporterServiceYaml(): string {
+-  return synthOne(NAMESPACE, "pgbouncer-exporter-service", {
+-    apiVersion: "v1",
+-    kind: "Service",
+-    metadata: {
+-      name: "pgbouncer-exporter",
+-      namespace: NAMESPACE,
+-      labels: PGBOUNCER_EXPORTER_LABELS,
+-    },
+-    spec: {
+-      type: "ClusterIP",
+-      selector: PGBOUNCER_EXPORTER_SELECTOR_LABELS,
+-      ports: [
+-        {
+-          name: "metrics",
+-          port: 9127,
+-          targetPort: "metrics",
+-          protocol: "TCP",
+-        },
+-      ],
+-    },
+-  })
+-}
+diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts
+deleted file mode 100644
+index b6b2f0218d87dd895b30a63ec48498490557b0f5..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const pgbouncerExporterManifests = {
+-  id: "01a06810-1263-72f2-a54b-54d681b6293a",
+-  pageTypeSlug: "module",
+-  slug: "pgbouncer-exporter-manifests",
+-  definition: "the exporter that publishes the connection pool's state as metrics",
+-  code: "ts",
+-} as const satisfies Module
