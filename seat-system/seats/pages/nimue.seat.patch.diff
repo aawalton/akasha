@@ -87,3 +87,15 @@ index 0000000000000000000000000000000000000000..cf9c9fa93c8447e10dbb5135b4effdd6
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
+index 57475c4b2813f5cac0cf0d0cb33862717194f939..7e97d09c50d19a4b0eee26c2c4e90f02905735d2 100644
+--- a/pages/pages.workspace-package.ts
++++ b/pages/pages.workspace-package.ts
+@@ -32,6 +32,7 @@ export const pages = {
+     "page-type/text-property",
+     "page-type/number-property",
+     "page-type/formula-property",
++    "page-type/computed-property",
+     "page-type/boolean-property",
+     "page-type/instant-property",
+     "page-type/relation-property",
