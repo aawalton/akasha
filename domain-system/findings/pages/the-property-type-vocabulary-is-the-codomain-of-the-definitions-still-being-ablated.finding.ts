@@ -4,7 +4,7 @@ export const thePropertyTypeVocabularyIsTheCodomainOfTheDefinitionsStillBeingAbl
   id: "01a06759-4acb-7e78-b1a9-e80c8052496b",
   pageTypeSlug: "finding",
   slug: "the-property-type-vocabulary-is-the-codomain-of-the-definitions-still-being-ablated",
-  domainSlug: "domain/ablation",
+  domainSlug: "workspace-package/pages",
   claim:
     "Twelve of the 26 `pages/page-property-type` entries ablated in a39a3490bc are named by surviving definitions, so the folder lost what the checker still owed. `file`, `none`, `size` and `type` are stated in code again at d01699114a and f29b18abb4; `run-kind` and seven record types resolve to nothing, their field declarations having gone too. Demand must be counted through the checker's own unwrapping, not a match on written `^type:` that counts a wrapper and misses what it wraps.",
   evidence:
