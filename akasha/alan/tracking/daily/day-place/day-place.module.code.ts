@@ -48,8 +48,8 @@ export type SessionAct = "write-row" | "patch-row" | "remove-row"
  * answer changes while nobody is editing this file.
  *
  * The days the set named are in this file's history, and the pages themselves are the record that
- * they moved. `dayStr` is taken and not read, because every caller has a day in hand and the audit
- * in `tools/lib/tracking-funnel.ts` reads a reach as funnelled by its asking here.
+ * they moved. `dayStr` is taken and not read, because every caller has a day in hand and asking
+ * here is what makes a reach funnelled, whether or not the answer turns on the day.
  */
 export function dayPlaceOf(_dayStr: string): DayPlace {
   return AKASHA
