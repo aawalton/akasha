@@ -4,8 +4,8 @@ import { narrowSendUpdates, SEND_UPDATES } from "@akasha/google-calendar/send-up
 import type { EventInput, EventPatch, RsvpStatus } from "@akasha/google-calendar/types"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
 import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 export const AUTH = "auth"
 

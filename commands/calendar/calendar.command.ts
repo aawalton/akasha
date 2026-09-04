@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../command-system/commands/command.page-type.ts"
 
 export const calendar = {
   id: "01a06809-e6ee-7c9b-8778-5da992d3080f",
