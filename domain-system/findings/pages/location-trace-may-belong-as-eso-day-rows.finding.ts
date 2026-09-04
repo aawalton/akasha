@@ -4,7 +4,7 @@ export const locationTraceMayBelongAsEsoDayRows = {
   id: "01a0683c-2a55-7412-8b3f-833d11e93320",
   pageTypeSlug: "finding",
   slug: "location-trace-may-belong-as-eso-day-rows",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/tracking",
   claim:
     "`location-trace` and `health-sample` are the same shape, phone readings filed on an ESO day, and akasha carries them apart. `health-sample` carried as a `page-property-entry` on `eso-day` with live `.jsonl` sidecars. Nothing anywhere carried `location-trace`, so I minted it as a page type to unblock its 16 property definitions. Those 16 may instead belong as the properties of a `location-traces` entry on `eso-day`, which would make the page type a step on the way rather than the destination.",
   evidence:
