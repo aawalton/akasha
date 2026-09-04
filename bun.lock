@@ -1208,7 +1208,7 @@
         "zod": "^4.3.6",
       },
     },
-    "pages/pages-formula": {
+    "pages/formula": {
       "name": "@akasha/pages-formula",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
@@ -3121,7 +3121,7 @@
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:pages/pages-core"],
 
-    "@akasha/pages-formula": ["@akasha/pages-formula@workspace:pages/pages-formula"],
+    "@akasha/pages-formula": ["@akasha/pages-formula@workspace:pages/formula"],
 
     "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/pages-query"],
 
