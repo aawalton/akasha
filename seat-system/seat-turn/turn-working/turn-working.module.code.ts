@@ -212,9 +212,11 @@ export function workingOf(agent: string): TurnWorking {
     return held
   }
   const { scannedTo } = held
-  if (scannedTo === size && held.activeTurn !== undefined) return held
-  const fresh = scannedTo === undefined || size < scannedTo
-  const from = fresh ? 0 : scannedTo
+  if (scannedTo === size && held.activeTurn !== undefined && held.openShells !== undefined) {
+    return held
+  }
+  const fresh = scannedTo === undefined || size < scannedTo || held.openShells === undefined
+  const from = fresh ? 0 : (scannedTo ?? 0)
   const bytes = bytesOf(path, from, size)
   if (bytes === null) return held
   const ends = bytes.lastIndexOf(LINE_END)

@@ -76,11 +76,15 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
+      statement: "A reading kept before tasks were read is read again from the first byte.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading kept in an unknown shape is unread.",
     },
     {
       invariantKind: "gap",
-      statement: "A task started before the first read of a transcript is live to nothing here.",
+      statement: "A task in a replaced transcript is live to nothing here.",
     },
     {
       invariantKind: "absence",
