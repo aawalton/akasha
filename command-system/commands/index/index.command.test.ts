@@ -25,11 +25,11 @@ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { index, readIn } from "./index.command.code.ts"
 import { index as indexCommand } from "./index.command.ts"
 
-const AKASHA = "akasha"
+const TREE = "."
 
-const CODE_AT = "akasha/command-system/commands/index/index.command.code.ts"
+const CODE_AT = "command-system/commands/index/index.command.code.ts"
 
-const PAGE_AT = "akasha/command-system/commands/index/index.command.ts"
+const PAGE_AT = "command-system/commands/index/index.command.ts"
 
 const LOCK_AT = ".git/akasha-landing.lock"
 
@@ -40,6 +40,8 @@ const TYPE_ID = "01a04de1-2000-7000-8000-000000000001"
 const A_ID = "01a04de1-2000-7000-8000-000000000002"
 
 const B_ID = "01a04de1-2000-7000-8000-000000000003"
+
+const ROOT_ID = "01a04de1-2000-7000-8000-000000000004"
 
 const scratch = scratchWorld()
 
@@ -65,20 +67,21 @@ function typed(said: string, slug: string, above: string | null, declares: reado
 }
 
 const PAGES: Readonly<Record<string, string>> = {
-  "akasha/page.page-type.ts": typed("11", "page", null, ["id", "slug"]),
-  "akasha/page-type.page-type.ts": typed("12", "page-type", "page-type/page"),
-  "akasha/page-property.page-type.ts": typed("13", "page-property", "page-type/page"),
-  "akasha/domain.page-type.ts": bodyOf({
+  "page.page-type.ts": typed("11", "page", null, ["id", "slug"]),
+  "page-type.page-type.ts": typed("12", "page-type", "page-type/page"),
+  "page-property.page-type.ts": typed("13", "page-property", "page-type/page"),
+  "domain.page-type.ts": bodyOf({
     id: TYPE_ID,
     pageTypeSlug: "page-type",
     slug: "domain",
     extendsSlug: "page-type/page",
   }),
-  "akasha/text-property.page-type.ts": bodyOf(textProperty),
-  "akasha/id.text-property.ts": bodyOf(idPage),
-  "akasha/slug.text-property.ts": bodyOf(slugPage),
-  "akasha/a.domain.ts": bodyOf({ id: A_ID, pageTypeSlug: "domain", slug: "a" }),
-  "akasha/a.module.code.ts": 'import { held } from "./a.domain.ts"\nexport const one = held\n',
+  "text-property.page-type.ts": bodyOf(textProperty),
+  "id.text-property.ts": bodyOf(idPage),
+  "slug.text-property.ts": bodyOf(slugPage),
+  "akasha.domain.ts": bodyOf({ id: ROOT_ID, pageTypeSlug: "domain", slug: "akasha" }),
+  "a.domain.ts": bodyOf({ id: A_ID, pageTypeSlug: "domain", slug: "a" }),
+  "a.module.code.ts": 'import { held } from "./a.domain.ts"\nexport const one = held\n',
   [PAGE_AT]: bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "index-command" }),
   [CODE_AT]: `export { index } from ${JSON.stringify(REAL)}\n`,
 }
@@ -99,11 +102,11 @@ function repoAt(): string {
 }
 
 function wantedFor(root: string): readonly string[] {
-  return rebuiltApart(root, AKASHA, scratch.rootFor("akasha-wanted-"))
+  return rebuiltApart(root, TREE, scratch.rootFor("akasha-wanted-"))
 }
 
 function seeded(root: string): undefined {
-  rebuiltIn(root, AKASHA)
+  rebuiltIn(root, TREE)
 }
 
 function givenAt(root: string): Given {
@@ -208,7 +211,7 @@ test("a damaged index is put back to what a clean rebuild builds", () => {
   const wanted = wantedFor(root)
   listedTakenFrom(root, "domain", "a")
   listedUnreadableFiled(root, "domain", "gone")
-  importUnreadableFiled(root, `${AKASHA}/a.domain.ts`)
+  importUnreadableFiled(root, "a.domain.ts")
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(everythingFiled(root)).toEqual(wanted)
@@ -227,10 +230,7 @@ test("a worktree standing apart from HEAD is refused, and nothing is put in plac
   const root = repoAt()
   seeded(root)
   const was = everythingFiled(root)
-  writeFileSync(
-    join(root, AKASHA, "b.domain.ts"),
-    bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "b" })
-  )
+  writeFileSync(join(root, "b.domain.ts"), bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "b" }))
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("stands apart from HEAD in 1 path")
@@ -240,15 +240,12 @@ test("a worktree standing apart from HEAD is refused, and nothing is put in plac
 
 test("`--unlanded` builds over the worktree, and the stamp names what stands apart", () => {
   const root = repoAt()
-  writeFileSync(
-    join(root, AKASHA, "b.domain.ts"),
-    bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "b" })
-  )
+  writeFileSync(join(root, "b.domain.ts"), bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "b" }))
   const answer = index(["refresh", "--unlanded"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(listedFiledIn(root, "domain", "b")).toBe(true)
   expect(said(answer)).toContain("stand apart from HEAD and the stamp names them")
-  expect(stampListedIn(root)?.settled).toEqual([`${AKASHA}/b.domain.ts`])
+  expect(stampListedIn(root)?.settled).toEqual(["b.domain.ts"])
 })
 
 test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
@@ -277,18 +274,18 @@ test("a lock nothing alive holds is taken over rather than waited on", () => {
   expect(index(["refresh"], givenAt(root)).code).toBe(OK)
 })
 
-test("a root holding no akasha folder is refused, and the index stands as it was", () => {
+test("a root holding no akasha domain page is refused, and the index remains as it is", () => {
   const root = scratch.rootFor("akasha-refresh-")
   git(root, ["init", "--quiet"])
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(DATA)
-  expect(answer.refusals[0]).toContain("stands under")
+  expect(answer.refusals[0]).toContain("akasha.domain.ts")
   expect(indexThere(root)).toBe(false)
 })
 
 test("a root git does not hold is refused as the command's trouble, not the caller's", () => {
   const root = scratch.rootFor("akasha-refresh-")
-  mkdirSync(join(root, AKASHA), { recursive: true })
+  writeFileSync(join(root, "akasha.domain.ts"), PAGES["akasha.domain.ts"] ?? "")
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.refusals[0]).toContain("no commit could be read")
