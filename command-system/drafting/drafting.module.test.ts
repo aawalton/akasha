@@ -5,9 +5,10 @@ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
 import { blobsIn, bodyOf } from "../patching/patching.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing } from "../scratching/scratching.module.test-fixtures.ts"
-import { drafted, resolved, wouldHold } from "./drafting.module.code.ts"
+import { drafted, resolved, tookIn, wouldHold } from "./drafting.module.code.ts"
 
 const PAGE = "akasha/seat-system/seat/seats/tester.seat.ts"
+const THEIRS = "akasha/seat-system/subagents/pages/tester-a1.subagent.ts"
 const ONE = "akasha/one.page.ts"
 const TWO = "akasha/two.page.ts"
 const TEN = "a\nb\nc\nd\ne\nf\ng\nh\ni\nj\n"
@@ -55,6 +56,33 @@ function clashing(root: string): undefined {
   if ("why" in said) throw new Error(said.why)
   expect(said.clashed).toEqual([ONE])
 }
+
+test("a patch taken in is folded into the patch taking it, and the one it came from goes", () => {
+  const root = repoAt()
+  drafted(root, THEIRS, [{ path: TWO, was: null, body: "fresh\n" }])
+  const said = tookIn(root, PAGE, THEIRS)
+  expect("why" in said).toBe(false)
+  expect(draftedBody(root, TWO)).toBe("fresh\n")
+  expect(patchIn(root, THEIRS)).toBeNull()
+  expect(refs(root)).not.toContain("tester-a1")
+})
+
+test("a path both patches hold is merged rather than written over", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  drafted(root, THEIRS, [{ path: ONE, was: TEN, body: swapped(TEN, "i", "I") }])
+  const said = tookIn(root, PAGE, THEIRS)
+  expect("why" in said ? ["clashed"] : said.clashed).toEqual([])
+  expect(draftedBody(root, ONE)).toBe(swapped(swapped(TEN, "b", "B"), "i", "I"))
+})
+
+test("a take-in from an agent keeping no patch leaves the patch as it was", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  const said = tookIn(root, PAGE, THEIRS)
+  expect("why" in said).toBe(false)
+  expect(draftedBody(root, ONE)).toBe(swapped(TEN, "b", "B"))
+})
 
 test("a change drafted is what the patch leaves at that path", () => {
   const root = repoAt()

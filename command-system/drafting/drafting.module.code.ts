@@ -1,4 +1,4 @@
-import { keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
+import { dropPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { clashing, mergedOnto } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
@@ -161,6 +161,24 @@ export function drafted(root: string, page: string, drafts: readonly Draft[]): D
     return kept.patch
   })
   return took ? answer : { why: NO_PAGE }
+}
+
+function draftsOf(held: Bodies): readonly Draft[] {
+  return [...held].map(([path, one]) => ({ path, was: one.was, body: one.body }))
+}
+
+export function tookIn(root: string, page: string, from: string): Drafted {
+  const at = patchAt(from)
+  if (at === null) return { why: NO_PAGE }
+  const theirs = patchIn(root, from)
+  if (theirs === null) return { patch: patchIn(root, page), clashed: [] }
+  const said = rebasedOnto(root, headOf(root), theirs)
+  if ("why" in said) return said
+  const took = drafted(root, page, draftsOf(said.held))
+  if ("why" in took) return took
+  dropPatch(root, from)
+  dropBlobs(root, at)
+  return took
 }
 
 export function resolved(root: string, page: string, path: string, body: string): Drafted {
