@@ -9,7 +9,7 @@ export const pageMatchesItsType = {
   test: "ts",
   testFixtures: "ts",
   runsOnPatch: false,
-  runsOnWorktree: true,
+  runsOnWorktree: false,
   runsOnDeploy: true,
   runsOnAudit: false,
   invariants: [
