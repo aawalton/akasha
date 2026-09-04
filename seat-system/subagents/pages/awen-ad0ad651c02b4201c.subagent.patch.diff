@@ -34,6 +34,19 @@ index b77a80f874d996b205a7f98d9e79affc901a6265..97d4232ad54aac4b4fb5fd7cb7718bbe
      to: READER,
      from: SENDER,
      warrant: "announce",
+diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts
+index 7f86b1b343e87cf34a8d229681a73c86a0904642..51b3934e2873266614cd8be73d67e485bd9221ea 100644
+--- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts
++++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts
+@@ -30,7 +30,7 @@ async function main(): Promise<void> {
+     return
+   }
+ 
+-  fileReadingFor(reading, log)
++  await fileReadingFor(reading, log)
+ }
+ 
+ if (import.meta.main) {
 diff --git a/seat-system/agent-record/agent-record.module.code.ts b/seat-system/agent-record/agent-record.module.code.ts
 index 3a82cd068b5eaf6100bc48bbe8c4c7f8f5efeca0..a11c0b8f8b66b7ff02d4f84a5dd290076dbd6ab2 100644
 --- a/seat-system/agent-record/agent-record.module.code.ts
