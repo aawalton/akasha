@@ -5,7 +5,6 @@ export const disgardiumTheFinalBattleVolume1 = {
   pageTypeSlug: "book",
   slug: "disgardium-the-final-battle-volume-1",
   title: "Disgardium: The Final Battle Volume 1",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 14,

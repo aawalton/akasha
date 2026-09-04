@@ -5,7 +5,6 @@ export const theScrivenersBones = {
   pageTypeSlug: "book",
   slug: "the-scriveners-bones",
   title: "The Scrivener's Bones",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

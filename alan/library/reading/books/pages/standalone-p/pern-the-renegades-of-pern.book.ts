@@ -5,7 +5,6 @@ export const pernTheRenegadesOfPern = {
   pageTypeSlug: "book",
   slug: "pern-the-renegades-of-pern",
   title: "Pern: The Renegades of Pern",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const evershore = {
   pageTypeSlug: "book",
   slug: "evershore",
   title: "Evershore",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",

@@ -5,7 +5,6 @@ export const theBurnoutGeneration = {
   pageTypeSlug: "book",
   slug: "the-burnout-generation",
   title: "The Burnout Generation",
-  kind: "read",
   status: "not-started",
   author: "Anne Helen Petersen",
   unitSlug: "words",

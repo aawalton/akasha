@@ -5,7 +5,6 @@ export const theViridianGateArchivesTheJadeLord = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-the-jade-lord",
   title: "The Viridian Gate Archives: The Jade Lord",
-  kind: "read",
   status: "completed",
   author: "James A. Hunter",
   unitSlug: "words",

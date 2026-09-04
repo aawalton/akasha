@@ -5,7 +5,6 @@ export const theCompletionistChroniclesImplode = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-implode",
   title: "The Completionist Chronicles: Implode",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

@@ -5,7 +5,6 @@ export const rebornAsADemonicTreeBook1 = {
   pageTypeSlug: "book",
   slug: "reborn-as-a-demonic-tree-book-1",
   title: "Reborn as a Demonic Tree",
-  kind: "read",
   status: "completed",
   author: "XKarnation, Goldcrab, Der-Shing Helmer",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const discworldTheShepherdsCrown = {
   pageTypeSlug: "book",
   slug: "discworld-the-shepherds-crown",
   title: "Discworld: The Shepherd's Crown",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett, Manuel Viciano Delibano, Paul Kidby, Laura Ellen Andersen",
   unitSlug: "words",

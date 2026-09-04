@@ -5,7 +5,6 @@ export const discworldReaperMan = {
   pageTypeSlug: "book",
   slug: "discworld-reaper-man",
   title: "Discworld: Reaper Man",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

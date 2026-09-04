@@ -5,7 +5,6 @@ export const plainAndPreciousThings = {
   pageTypeSlug: "book",
   slug: "plain-and-precious-things",
   title: "Plain and Precious Things",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

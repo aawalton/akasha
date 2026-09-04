@@ -5,7 +5,6 @@ export const theLostFleetValiant = {
   pageTypeSlug: "book",
   slug: "the-lost-fleet-valiant",
   title: "The Lost Fleet: Valiant",
-  kind: "read",
   status: "not-started",
   author: "Jack Campbell",
   unitSlug: "words",

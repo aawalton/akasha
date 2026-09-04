@@ -5,7 +5,6 @@ export const nOrM = {
   pageTypeSlug: "book",
   slug: "n-or-m",
   title: "N or M?",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theHistoryOfJosephSmithByHisMother = {
   pageTypeSlug: "book",
   slug: "the-history-of-joseph-smith-by-his-mother",
   title: "The History of Joseph Smith by His Mother",
-  kind: "read",
   status: "not-started",
   author: "Lucy Mack Smith",
   unitSlug: "words",

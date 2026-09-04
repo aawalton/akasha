@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld29Milton = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-29-milton",
   title: "The Great Books of the Western World 29: Milton",
-  kind: "read",
   status: "not-started",
   author: "Miguel de Cervantes Saavedra",
   unitSlug: "words",

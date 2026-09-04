@@ -5,7 +5,6 @@ export const chalionTheCurseOfChalion = {
   pageTypeSlug: "book",
   slug: "chalion-the-curse-of-chalion",
   title: "Chalion: The Curse of Chalion",
-  kind: "read",
   status: "not-started",
   author: "Lois McMaster Bujold",
   unitSlug: "words",

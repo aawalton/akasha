@@ -5,7 +5,6 @@ export const poetsProgress = {
   pageTypeSlug: "book",
   slug: "poets-progress",
   title: "Poet's Progress",
-  kind: "read",
   status: "not-started",
   author: "Ben Linsey-Bloom, Pamella Linsey",
   unitSlug: "words",

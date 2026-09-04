@@ -5,7 +5,6 @@ export const dreamer = {
   pageTypeSlug: "book",
   slug: "dreamer",
   title: "Dreamer",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Laini Taylor",

@@ -5,7 +5,6 @@ export const artoriansArchivesAlgorithm = {
   pageTypeSlug: "book",
   slug: "artorians-archives-algorithm",
   title: "Artorian's Archives: Algorithm",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 7,

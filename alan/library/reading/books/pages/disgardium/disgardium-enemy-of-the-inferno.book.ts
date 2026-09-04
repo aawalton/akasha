@@ -5,7 +5,6 @@ export const disgardiumEnemyOfTheInferno = {
   pageTypeSlug: "book",
   slug: "disgardium-enemy-of-the-inferno",
   title: "Disgardium: Enemy of the Inferno",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

@@ -5,7 +5,6 @@ export const collectedDiscoursesVolume5 = {
   pageTypeSlug: "book",
   slug: "collected-discourses-volume-5",
   title: "Collected Discourses Volume 5",
-  kind: "read",
   status: "not-started",
   author: "Theodore Parker",
   unitSlug: "words",

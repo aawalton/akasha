@@ -5,7 +5,6 @@ export const theWhisperingCrystalsUnimaginedAdventures = {
   pageTypeSlug: "book",
   slug: "the-whispering-crystals-unimagined-adventures",
   title: "The Whispering Crystals: Unimagined Adventures",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

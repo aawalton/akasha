@@ -5,7 +5,6 @@ export const theScarlettLetter = {
   pageTypeSlug: "book",
   slug: "the-scarlett-letter",
   title: "The Scarlett Letter",
-  kind: "read",
   status: "not-started",
   author: "Nathaniel Hawthorne",
   unitSlug: "words",

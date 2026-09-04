@@ -5,7 +5,6 @@ export const theSystemApocalypseCoastOnFire = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-coast-on-fire",
   title: "The System Apocalypse: Coast on Fire",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

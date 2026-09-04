@@ -5,7 +5,6 @@ export const youAreNowLessDumb = {
   pageTypeSlug: "book",
   slug: "you-are-now-less-dumb",
   title: "You Are Now Less Dumb",
-  kind: "read",
   status: "not-started",
   author: "David McRaney",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const monsterHuntersInternationalMonsterHunterAlpha = {
   pageTypeSlug: "book",
   slug: "monster-hunters-international-monster-hunter-alpha",
   title: "Monster Hunters International: Monster Hunter Alpha",
-  kind: "read",
   status: "not-started",
   author: "Nick Roberts, Greg Kramer",
   unitSlug: "words",

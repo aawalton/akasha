@@ -5,7 +5,6 @@ export const wordsOfRadiance = {
   pageTypeSlug: "book",
   slug: "words-of-radiance",
   title: "Words of Radiance",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

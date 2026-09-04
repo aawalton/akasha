@@ -5,7 +5,6 @@ export const takenAtTheFlood = {
   pageTypeSlug: "book",
   slug: "taken-at-the-flood",
   title: "Taken at the Flood",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

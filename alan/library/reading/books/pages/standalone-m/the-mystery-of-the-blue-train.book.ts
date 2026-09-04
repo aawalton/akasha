@@ -5,7 +5,6 @@ export const theMysteryOfTheBlueTrain = {
   pageTypeSlug: "book",
   slug: "the-mystery-of-the-blue-train",
   title: "The Mystery of the Blue Train",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

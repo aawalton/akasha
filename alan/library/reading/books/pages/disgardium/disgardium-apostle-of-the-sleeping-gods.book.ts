@@ -5,7 +5,6 @@ export const disgardiumApostleOfTheSleepingGods = {
   pageTypeSlug: "book",
   slug: "disgardium-apostle-of-the-sleeping-gods",
   title: "Disgardium: Apostle of the Sleeping Gods",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

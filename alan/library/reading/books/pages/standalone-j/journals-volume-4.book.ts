@@ -5,7 +5,6 @@ export const journalsVolume4 = {
   pageTypeSlug: "book",
   slug: "journals-volume-4",
   title: "Journals Volume 4",
-  kind: "read",
   status: "not-started",
   author: "Charles Ammi Cutter, Library Association",
   unitSlug: "words",

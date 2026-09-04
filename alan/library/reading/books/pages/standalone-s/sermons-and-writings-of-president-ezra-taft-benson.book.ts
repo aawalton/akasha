@@ -5,7 +5,6 @@ export const sermonsAndWritingsOfPresidentEzraTaftBenson = {
   pageTypeSlug: "book",
   slug: "sermons-and-writings-of-president-ezra-taft-benson",
   title: "Sermons and Writings of President Ezra Taft Benson",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

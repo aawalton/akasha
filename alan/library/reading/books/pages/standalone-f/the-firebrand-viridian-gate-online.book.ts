@@ -5,7 +5,6 @@ export const theFirebrandViridianGateOnline = {
   pageTypeSlug: "book",
   slug: "the-firebrand-viridian-gate-online",
   title: "The Firebrand: Viridian Gate Online",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

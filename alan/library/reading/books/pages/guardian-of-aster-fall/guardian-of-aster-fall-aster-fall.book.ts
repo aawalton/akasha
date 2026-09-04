@@ -5,7 +5,6 @@ export const guardianOfAsterFallAsterFall = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-aster-fall",
   title: "Guardian of Aster Fall: Aster Fall",
-  kind: "read",
   status: "completed",
   author: "David North",
   unitSlug: "words",

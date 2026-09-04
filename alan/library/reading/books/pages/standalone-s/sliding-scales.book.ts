@@ -5,7 +5,6 @@ export const slidingScales = {
   pageTypeSlug: "book",
   slug: "sliding-scales",
   title: "Sliding Scales",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

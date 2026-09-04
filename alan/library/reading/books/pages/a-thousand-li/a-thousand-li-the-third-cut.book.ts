@@ -5,7 +5,6 @@ export const aThousandLiTheThirdCut = {
   pageTypeSlug: "book",
   slug: "a-thousand-li-the-third-cut",
   title: "A Thousand Li: The Third Cut",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

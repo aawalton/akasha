@@ -5,7 +5,6 @@ export const documentsVolume13 = {
   pageTypeSlug: "book",
   slug: "documents-volume-13",
   title: "Documents Volume 13",
-  kind: "read",
   status: "not-started",
   author: "Christian K. Heimburger",
   unitSlug: "words",

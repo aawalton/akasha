@@ -5,7 +5,6 @@ export const theSystemApocalypseBrokenCouncil = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-broken-council",
   title: "The System Apocalypse: Broken Council",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 10,

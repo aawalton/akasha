@@ -5,7 +5,6 @@ export const theGoodGuysOneMoreLastTime = {
   pageTypeSlug: "book",
   slug: "the-good-guys-one-more-last-time",
   title: "The Good Guys: One More Last Time",
-  kind: "read",
   status: "completed",
   author: "Bible",
   unitSlug: "words",

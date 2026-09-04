@@ -5,7 +5,6 @@ export const millennialMageBinding = {
   pageTypeSlug: "book",
   slug: "millennial-mage-binding",
   title: "Millennial Mage: Binding",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

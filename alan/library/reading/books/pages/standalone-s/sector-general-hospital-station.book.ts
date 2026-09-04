@@ -5,7 +5,6 @@ export const sectorGeneralHospitalStation = {
   pageTypeSlug: "book",
   slug: "sector-general-hospital-station",
   title: "Sector General: Hospital Station",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

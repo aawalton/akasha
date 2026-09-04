@@ -5,7 +5,6 @@ export const josephExploringTheLifeAndMinistryOfTheProphet = {
   pageTypeSlug: "book",
   slug: "joseph-exploring-the-life-and-ministry-of-the-prophet",
   title: "Joseph: Exploring the Life and Ministry of the Prophet",
-  kind: "read",
   status: "not-started",
   author: "Susan Easton Black",
   unitSlug: "words",

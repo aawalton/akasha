@@ -5,7 +5,6 @@ export const runelordsSonsOfTheOak = {
   pageTypeSlug: "book",
   slug: "runelords-sons-of-the-oak",
   title: "Runelords: Sons of the Oak",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

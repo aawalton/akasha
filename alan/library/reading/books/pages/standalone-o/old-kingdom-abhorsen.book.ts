@@ -5,7 +5,6 @@ export const oldKingdomAbhorsen = {
   pageTypeSlug: "book",
   slug: "old-kingdom-abhorsen",
   title: "Old Kingdom: Abhorsen",
-  kind: "read",
   status: "not-started",
   author: "Garth Nix",
   unitSlug: "words",

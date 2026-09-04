@@ -5,7 +5,6 @@ export const howTheMindWorks = {
   pageTypeSlug: "book",
   slug: "how-the-mind-works",
   title: "How the Mind Works",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Steven Pinker, Mel Foster, 3",

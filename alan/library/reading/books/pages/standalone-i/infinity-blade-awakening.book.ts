@@ -5,7 +5,6 @@ export const infinityBladeAwakening = {
   pageTypeSlug: "book",
   slug: "infinity-blade-awakening",
   title: "Infinity Blade: Awakening",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

@@ -5,7 +5,6 @@ export const theWhisperingCrystalsUndividedWorlds = {
   pageTypeSlug: "book",
   slug: "the-whispering-crystals-undivided-worlds",
   title: "The Whispering Crystals: Undivided Worlds",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

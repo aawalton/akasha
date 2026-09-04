@@ -5,7 +5,6 @@ export const theIntrovertAdvantage = {
   pageTypeSlug: "book",
   slug: "the-introvert-advantage",
   title: "The Introvert Advantage",
-  kind: "read",
   status: "not-started",
   author: "Marti Olsen Laney",
   unitSlug: "words",

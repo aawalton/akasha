@@ -5,7 +5,6 @@ export const daemon = {
   pageTypeSlug: "book",
   slug: "daemon",
   title: "Daemon",
-  kind: "read",
   status: "not-started",
   author: "Daniel Suarez",
   unitSlug: "words",

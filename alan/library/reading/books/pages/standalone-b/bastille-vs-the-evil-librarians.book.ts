@@ -5,7 +5,6 @@ export const bastilleVsTheEvilLibrarians = {
   pageTypeSlug: "book",
   slug: "bastille-vs-the-evil-librarians",
   title: "Bastille vs the Evil Librarians",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

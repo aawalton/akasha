@@ -5,7 +5,6 @@ export const librarySystemResetDamaged = {
   pageTypeSlug: "book",
   slug: "library-system-reset-damaged",
   title: "Library System Reset: Damaged",
-  kind: "read",
   status: "not-started",
   author: "K. T. Hanna",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const guardianOfAsterFallHighArtificer = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-high-artificer",
   title: "Guardian of Aster Fall: High Artificer",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 9,

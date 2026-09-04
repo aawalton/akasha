@@ -5,7 +5,6 @@ export const arcaneAscensionTheSilenceOfUnworthyGods = {
   pageTypeSlug: "book",
   slug: "arcane-ascension-the-silence-of-unworthy-gods",
   title: "Arcane Ascension: The Silence of Unworthy Gods",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

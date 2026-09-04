@@ -5,7 +5,6 @@ export const pernTheChroniclesOfPernFirstFall = {
   pageTypeSlug: "book",
   slug: "pern-the-chronicles-of-pern-first-fall",
   title: "Pern: The Chronicles of Pern: First Fall",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld7AristotleI = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-7-aristotle-i",
   title: "The Great Books of the Western World 7: Aristotle I",
-  kind: "read",
   status: "not-started",
   author: "Aristotle",
   unitSlug: "words",

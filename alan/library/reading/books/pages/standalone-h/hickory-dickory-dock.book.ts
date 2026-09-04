@@ -5,7 +5,6 @@ export const hickoryDickoryDock = {
   pageTypeSlug: "book",
   slug: "hickory-dickory-dock",
   title: "Hickory Dickory Dock",
-  kind: "read",
   status: "not-started",
   author: "Kelly Caswell",
   unitSlug: "words",

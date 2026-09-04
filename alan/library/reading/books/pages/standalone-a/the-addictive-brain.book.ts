@@ -5,7 +5,6 @@ export const theAddictiveBrain = {
   pageTypeSlug: "book",
   slug: "the-addictive-brain",
   title: "The Addictive Brain",
-  kind: "read",
   status: "not-started",
   author: "David K. Miller, Kenneth Blum",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const paradiseLost = {
   pageTypeSlug: "book",
   slug: "paradise-lost",
   title: "Paradise Lost",
-  kind: "read",
   status: "not-started",
   author: "John Milton",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld23ErasmusMontaigne = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-23-erasmus-montaigne",
   title: "The Great Books of the Western World 23: Erasmus, Montaigne",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 23,

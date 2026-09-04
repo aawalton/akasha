@@ -5,7 +5,6 @@ export const dragonHeartLastDayOfTheHuman = {
   pageTypeSlug: "book",
   slug: "dragon-heart-last-day-of-the-human",
   title: "Dragon Heart: Last Day Of The Human",
-  kind: "read",
   status: "not-started",
   author: "Winsor McCay",
   unitSlug: "words",

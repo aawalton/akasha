@@ -5,7 +5,6 @@ export const drive = {
   pageTypeSlug: "book",
   slug: "drive",
   title: "Drive",
-  kind: "read",
   status: "not-started",
   author: "Daniel H. Pink",
   unitSlug: "words",

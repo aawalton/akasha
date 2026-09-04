@@ -5,7 +5,6 @@ export const theIllusionistViridianGateOnlineSharpersCoin = {
   pageTypeSlug: "book",
   slug: "the-illusionist-viridian-gate-online-sharpers-coin",
   title: "The Illusionist: Viridian Gate Online: Sharper's Coin",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

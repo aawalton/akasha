@@ -5,7 +5,6 @@ export const awakenOnlineCrucible = {
   pageTypeSlug: "book",
   slug: "awaken-online-crucible",
   title: "Awaken Online: Crucible",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

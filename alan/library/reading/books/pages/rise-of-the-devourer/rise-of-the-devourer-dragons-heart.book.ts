@@ -5,7 +5,6 @@ export const riseOfTheDevourerDragonsHeart = {
   pageTypeSlug: "book",
   slug: "rise-of-the-devourer-dragons-heart",
   title: "Rise of the Devourer: Dragon's Heart",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

@@ -5,7 +5,6 @@ export const theLegendOfRandidlyGhosthoundBook1 = {
   pageTypeSlug: "book",
   slug: "the-legend-of-randidly-ghosthound-book-1",
   title: "The Legend of Randidly Ghosthound",
-  kind: "read",
   status: "completed",
   author: "Noret Flood",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld20Calvin = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-20-calvin",
   title: "The Great Books of the Western World 20: Calvin",
-  kind: "read",
   status: "not-started",
   author: "Silas Farmer",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const honorHarringtonCrownOfSlaves = {
   pageTypeSlug: "book",
   slug: "honor-harrington-crown-of-slaves",
   title: "Honor Harrington - Crown of Slaves",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 169750,

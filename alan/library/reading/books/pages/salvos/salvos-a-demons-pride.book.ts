@@ -5,7 +5,6 @@ export const salvosADemonsPride = {
   pageTypeSlug: "book",
   slug: "salvos-a-demons-pride",
   title: "Salvos: A Demon's Pride",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

@@ -5,7 +5,6 @@ export const rcnSeriesToClearAwayTheShadows = {
   pageTypeSlug: "book",
   slug: "rcn-series-to-clear-away-the-shadows",
   title: "RCN Series: To Clear Away the Shadows",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

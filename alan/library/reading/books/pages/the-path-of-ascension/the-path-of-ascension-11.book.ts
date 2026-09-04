@@ -5,7 +5,6 @@ export const thePathOfAscension11 = {
   pageTypeSlug: "book",
   slug: "the-path-of-ascension-11",
   title: "The Path of Ascension 11",
-  kind: "read",
   status: "not-started",
   author: "Frederic William Farrar",
   unitSlug: "words",

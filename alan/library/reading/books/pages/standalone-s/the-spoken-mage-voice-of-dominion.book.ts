@@ -5,7 +5,6 @@ export const theSpokenMageVoiceOfDominion = {
   pageTypeSlug: "book",
   slug: "the-spoken-mage-voice-of-dominion",
   title: "The Spoken Mage: Voice of Dominion",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

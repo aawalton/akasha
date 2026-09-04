@@ -5,7 +5,6 @@ export const awakenOnlineTarotEmber = {
   pageTypeSlug: "book",
   slug: "awaken-online-tarot-ember",
   title: "Awaken Online: Tarot: Ember",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

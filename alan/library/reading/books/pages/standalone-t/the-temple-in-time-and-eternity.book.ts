@@ -5,7 +5,6 @@ export const theTempleInTimeAndEternity = {
   pageTypeSlug: "book",
   slug: "the-temple-in-time-and-eternity",
   title: "The Temple in Time and Eternity",
-  kind: "read",
   status: "not-started",
   author: "Donald W. Parry, Stephen David Ricks",
   unitSlug: "words",

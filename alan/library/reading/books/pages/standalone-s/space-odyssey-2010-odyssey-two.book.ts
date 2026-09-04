@@ -5,7 +5,6 @@ export const spaceOdyssey2010OdysseyTwo = {
   pageTypeSlug: "book",
   slug: "space-odyssey-2010-odyssey-two",
   title: "Space Odyssey: 2010: Odyssey Two",
-  kind: "read",
   status: "not-started",
   author: "Arthur C. Clarke",
   unitSlug: "words",

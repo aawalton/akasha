@@ -5,7 +5,6 @@ export const dresdenFilesFoolMoon = {
   pageTypeSlug: "book",
   slug: "dresden-files-fool-moon",
   title: "Dresden Files: Fool Moon",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher, Mark Powers, Chase Conley, Tyler Walpole, James Marsters",
   unitSlug: "words",

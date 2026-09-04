@@ -5,7 +5,6 @@ export const calamity = {
   pageTypeSlug: "book",
   slug: "calamity",
   title: "Calamity",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

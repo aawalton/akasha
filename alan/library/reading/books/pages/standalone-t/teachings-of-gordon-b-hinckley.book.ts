@@ -5,7 +5,6 @@ export const teachingsOfGordonBHinckley = {
   pageTypeSlug: "book",
   slug: "teachings-of-gordon-b-hinckley",
   title: "Teachings of Gordon B. Hinckley",
-  kind: "read",
   status: "not-started",
   author: "Gordon Bitner Hinckley",
   unitSlug: "words",

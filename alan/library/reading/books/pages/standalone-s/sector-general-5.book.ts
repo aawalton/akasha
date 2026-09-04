@@ -5,7 +5,6 @@ export const sectorGeneral5 = {
   pageTypeSlug: "book",
   slug: "sector-general-5",
   title: "Sector General 5",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

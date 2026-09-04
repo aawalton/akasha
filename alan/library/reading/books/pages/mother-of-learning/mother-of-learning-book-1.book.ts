@@ -5,7 +5,6 @@ export const motherOfLearningBook1 = {
   pageTypeSlug: "book",
   slug: "mother-of-learning-book-1",
   title: "Mother of Learning",
-  kind: "read",
   status: "completed",
   author: "Domagoj Kurmaic",
   unitSlug: "words",

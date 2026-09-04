@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsMandateOfHeaven = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-mandate-of-heaven",
   title: "Beneath the Dragoneye Moons: Mandate of Heaven",
-  kind: "read",
   status: "completed",
   author: "Selkie Myth",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const ofOneHeartLookBackAtSodom = {
   pageTypeSlug: "book",
   slug: "of-one-heart-look-back-at-sodom",
   title: "Of One Heart/Look Back at Sodom",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

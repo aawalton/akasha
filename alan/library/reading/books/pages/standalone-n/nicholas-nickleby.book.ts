@@ -5,7 +5,6 @@ export const nicholasNickleby = {
   pageTypeSlug: "book",
   slug: "nicholas-nickleby",
   title: "Nicholas Nickleby",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

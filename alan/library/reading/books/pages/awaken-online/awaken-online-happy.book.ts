@@ -5,7 +5,6 @@ export const awakenOnlineHappy = {
   pageTypeSlug: "book",
   slug: "awaken-online-happy",
   title: "Awaken Online: Happy",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 9,

@@ -5,7 +5,6 @@ export const perfectState = {
   pageTypeSlug: "book",
   slug: "perfect-state",
   title: "Perfect State",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

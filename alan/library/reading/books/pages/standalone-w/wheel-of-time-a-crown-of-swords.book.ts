@@ -5,7 +5,6 @@ export const wheelOfTimeACrownOfSwords = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-a-crown-of-swords",
   title: "Wheel of Time: A Crown of Swords",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

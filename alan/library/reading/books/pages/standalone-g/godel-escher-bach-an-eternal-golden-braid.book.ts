@@ -5,7 +5,6 @@ export const godelEscherBachAnEternalGoldenBraid = {
   pageTypeSlug: "book",
   slug: "godel-escher-bach-an-eternal-golden-braid",
   title: "Godel, Escher, Bach: an Eternal Golden Braid",
-  kind: "read",
   status: "paused",
   author: "Douglas R. Hofstadter",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld36AdamSmith = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-36-adam-smith",
   title: "The Great Books of the Western World 36: Adam Smith",
-  kind: "read",
   status: "not-started",
   author: "William Shakespeare",
   unitSlug: "words",

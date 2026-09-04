@@ -5,7 +5,6 @@ export const theRobotTheCavesOfSteel = {
   pageTypeSlug: "book",
   slug: "the-robot-the-caves-of-steel",
   title: "The Robot: The Caves of Steel",
-  kind: "read",
   status: "not-started",
   author: "Isaac Asimov",
   unitSlug: "words",

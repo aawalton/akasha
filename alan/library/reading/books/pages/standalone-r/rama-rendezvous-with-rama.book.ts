@@ -5,7 +5,6 @@ export const ramaRendezvousWithRama = {
   pageTypeSlug: "book",
   slug: "rama-rendezvous-with-rama",
   title: "Rama: Rendezvous with Rama",
-  kind: "read",
   status: "not-started",
   author: "Arthur C. Clarke",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const davidCopperfield = {
   pageTypeSlug: "book",
   slug: "david-copperfield",
   title: "David Copperfield",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

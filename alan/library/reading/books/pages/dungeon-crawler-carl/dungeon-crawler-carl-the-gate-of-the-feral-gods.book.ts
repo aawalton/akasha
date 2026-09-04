@@ -5,7 +5,6 @@ export const dungeonCrawlerCarlTheGateOfTheFeralGods = {
   pageTypeSlug: "book",
   slug: "dungeon-crawler-carl-the-gate-of-the-feral-gods",
   title: "Dungeon Crawler Carl: The Gate of the Feral Gods",
-  kind: "read",
   status: "not-started",
   author: "Matt Dinniman",
   unitSlug: "words",

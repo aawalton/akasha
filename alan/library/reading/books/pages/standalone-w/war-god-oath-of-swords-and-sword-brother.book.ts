@@ -5,7 +5,6 @@ export const warGodOathOfSwordsAndSwordBrother = {
   pageTypeSlug: "book",
   slug: "war-god-oath-of-swords-and-sword-brother",
   title: "War God: Oath of Swords and Sword Brother",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 128750,

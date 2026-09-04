@@ -5,7 +5,6 @@ export const hyperthief = {
   pageTypeSlug: "book",
   slug: "hyperthief",
   title: "Hyperthief",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",

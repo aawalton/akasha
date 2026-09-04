@@ -5,7 +5,6 @@ export const theLostFleetFearless = {
   pageTypeSlug: "book",
   slug: "the-lost-fleet-fearless",
   title: "The Lost Fleet: Fearless",
-  kind: "read",
   status: "not-started",
   author: "Jack Campbell",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld5620thCenturyNaturalScience = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-56-20th-century-natural-science",
   title: "The Great Books of the Western World 56: 20th Century Natural Science",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 56,

@@ -5,7 +5,6 @@ export const milesVorsokiganACivilCampaign = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-a-civil-campaign",
   title: "Miles Vorsokigan: A Civil Campaign",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

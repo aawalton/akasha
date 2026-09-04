@@ -5,7 +5,6 @@ export const discworldWitchesAbroad = {
   pageTypeSlug: "book",
   slug: "discworld-witches-abroad",
   title: "Discworld: Witches Abroad",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

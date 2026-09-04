@@ -5,7 +5,6 @@ export const orphanStar = {
   pageTypeSlug: "book",
   slug: "orphan-star",
   title: "Orphan Star",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

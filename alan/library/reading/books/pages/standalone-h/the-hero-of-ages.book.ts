@@ -5,7 +5,6 @@ export const theHeroOfAges = {
   pageTypeSlug: "book",
   slug: "the-hero-of-ages",
   title: "The Hero of Ages",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

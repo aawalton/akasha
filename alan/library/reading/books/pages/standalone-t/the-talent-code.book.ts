@@ -5,7 +5,6 @@ export const theTalentCode = {
   pageTypeSlug: "book",
   slug: "the-talent-code",
   title: "The Talent Code",
-  kind: "read",
   status: "not-started",
   author: "Daniel Coyle",
   unitSlug: "words",

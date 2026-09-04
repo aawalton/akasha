@@ -5,7 +5,6 @@ export const rcnSeriesWhatDistantDeeps = {
   pageTypeSlug: "book",
   slug: "rcn-series-what-distant-deeps",
   title: "RCN Series: What Distant Deeps",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 7,

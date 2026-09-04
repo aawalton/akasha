@@ -5,7 +5,6 @@ export const disgardiumHolyWar = {
   pageTypeSlug: "book",
   slug: "disgardium-holy-war",
   title: "Disgardium: Holy War",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

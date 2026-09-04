@@ -5,7 +5,6 @@ export const theGam3EarthsGambit = {
   pageTypeSlug: "book",
   slug: "the-gam3-earths-gambit",
   title: "The Gam3: Earth's Gambit",
-  kind: "read",
   status: "completed",
   author: "Cosimo Yap",
   unitSlug: "words",

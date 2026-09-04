@@ -5,7 +5,6 @@ export const theDarkTalent = {
   pageTypeSlug: "book",
   slug: "the-dark-talent",
   title: "The Dark Talent",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

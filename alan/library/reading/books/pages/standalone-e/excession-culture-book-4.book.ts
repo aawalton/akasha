@@ -5,7 +5,6 @@ export const excessionCultureBook4 = {
   pageTypeSlug: "book",
   slug: "excession-culture-book-4",
   title: "Excession (Culture Book 4)",
-  kind: "read",
   status: "not-started",
   author: "Glover, David",
   unitSlug: "words",

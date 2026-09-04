@@ -5,7 +5,6 @@ export const systemUniverseIndaria = {
   pageTypeSlug: "book",
   slug: "system-universe-indaria",
   title: "System Universe: Indaria",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

@@ -5,7 +5,6 @@ export const appointmentWithDeath = {
   pageTypeSlug: "book",
   slug: "appointment-with-death",
   title: "Appointment with Death",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

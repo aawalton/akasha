@@ -5,7 +5,6 @@ export const markOfTheFool2 = {
   pageTypeSlug: "book",
   slug: "mark-of-the-fool-2",
   title: "Mark of the Fool 2",
-  kind: "read",
   status: "completed",
   author: "Jim Butcher, Mark Powers, Chase Conley, Tyler Walpole, James Marsters",
   unitSlug: "words",

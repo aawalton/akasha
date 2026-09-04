@@ -5,7 +5,6 @@ export const theSmallestPart = {
   pageTypeSlug: "book",
   slug: "the-smallest-part",
   title: "The Smallest Part",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Amy Harmon",

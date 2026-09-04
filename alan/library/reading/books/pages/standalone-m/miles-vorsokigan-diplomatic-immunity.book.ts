@@ -5,7 +5,6 @@ export const milesVorsokiganDiplomaticImmunity = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-diplomatic-immunity",
   title: "Miles Vorsokigan: Diplomatic Immunity",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

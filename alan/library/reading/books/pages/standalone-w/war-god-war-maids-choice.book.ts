@@ -5,7 +5,6 @@ export const warGodWarMaidsChoice = {
   pageTypeSlug: "book",
   slug: "war-god-war-maids-choice",
   title: "War God: War Maid's Choice",
-  kind: "read",
   status: "not-started",
   author: "A. Norman Jeffares",
   unitSlug: "words",

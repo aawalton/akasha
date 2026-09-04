@@ -5,7 +5,6 @@ export const bushidoOnlineFriendsAndFoes = {
   pageTypeSlug: "book",
   slug: "bushido-online-friends-and-foes",
   title: "Bushido Online: Friends and Foes",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

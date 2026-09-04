@@ -5,7 +5,6 @@ export const crucialConversations = {
   pageTypeSlug: "book",
   slug: "crucial-conversations",
   title: "Crucial Conversations",
-  kind: "read",
   status: "not-started",
   author: "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler, Stephen R. Covey",
   unitSlug: "words",

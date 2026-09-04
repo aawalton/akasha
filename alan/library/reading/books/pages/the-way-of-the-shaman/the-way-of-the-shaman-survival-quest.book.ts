@@ -5,7 +5,6 @@ export const theWayOfTheShamanSurvivalQuest = {
   pageTypeSlug: "book",
   slug: "the-way-of-the-shaman-survival-quest",
   title: "The Way of the Shaman: Survival Quest",
-  kind: "read",
   status: "completed",
   author: "Vasily Mahanenko",
   unitSlug: "words",

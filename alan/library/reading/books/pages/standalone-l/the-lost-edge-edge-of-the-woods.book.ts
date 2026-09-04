@@ -5,7 +5,6 @@ export const theLostEdgeEdgeOfTheWoods = {
   pageTypeSlug: "book",
   slug: "the-lost-edge-edge-of-the-woods",
   title: "The Lost Edge: Edge of the Woods",
-  kind: "read",
   status: "not-started",
   author: "William Shakespeare",
   unitSlug: "words",

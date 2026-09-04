@@ -5,7 +5,6 @@ export const theMarriageClinic = {
   pageTypeSlug: "book",
   slug: "the-marriage-clinic",
   title: "The Marriage Clinic",
-  kind: "read",
   status: "not-started",
   author: "John Mordechai Gottman",
   unitSlug: "words",

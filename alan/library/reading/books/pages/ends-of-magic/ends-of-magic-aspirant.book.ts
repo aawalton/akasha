@@ -5,7 +5,6 @@ export const endsOfMagicAspirant = {
   pageTypeSlug: "book",
   slug: "ends-of-magic-aspirant",
   title: "Ends of Magic: Aspirant",
-  kind: "read",
   status: "completed",
   author: "Chad Corrie",
   unitSlug: "words",

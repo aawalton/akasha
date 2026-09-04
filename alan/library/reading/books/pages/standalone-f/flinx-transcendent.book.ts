@@ -5,7 +5,6 @@ export const flinxTranscendent = {
   pageTypeSlug: "book",
   slug: "flinx-transcendent",
   title: "Flinx Transcendent",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

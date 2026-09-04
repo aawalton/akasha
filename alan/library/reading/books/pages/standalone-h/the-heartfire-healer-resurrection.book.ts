@@ -5,7 +5,6 @@ export const theHeartfireHealerResurrection = {
   pageTypeSlug: "book",
   slug: "the-heartfire-healer-resurrection",
   title: "The Heartfire Healer: Resurrection",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

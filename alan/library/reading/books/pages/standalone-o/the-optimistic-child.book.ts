@@ -5,7 +5,6 @@ export const theOptimisticChild = {
   pageTypeSlug: "book",
   slug: "the-optimistic-child",
   title: "The Optimistic Child",
-  kind: "read",
   status: "not-started",
   author: "Martin Elias Pete Seligman",
   unitSlug: "words",

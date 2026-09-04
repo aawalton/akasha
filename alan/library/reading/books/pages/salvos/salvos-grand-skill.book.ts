@@ -5,7 +5,6 @@ export const salvosGrandSkill = {
   pageTypeSlug: "book",
   slug: "salvos-grand-skill",
   title: "Salvos: Grand Skill",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

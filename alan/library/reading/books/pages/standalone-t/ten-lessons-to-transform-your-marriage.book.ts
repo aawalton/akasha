@@ -5,7 +5,6 @@ export const tenLessonsToTransformYourMarriage = {
   pageTypeSlug: "book",
   slug: "ten-lessons-to-transform-your-marriage",
   title: "Ten Lessons to Transform Your Marriage",
-  kind: "read",
   status: "not-started",
   author: "John Mordechai Gottman, Julie Schwartz Gottman, Joan Declaire",
   unitSlug: "words",

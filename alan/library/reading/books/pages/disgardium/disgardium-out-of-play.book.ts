@@ -5,7 +5,6 @@ export const disgardiumOutOfPlay = {
   pageTypeSlug: "book",
   slug: "disgardium-out-of-play",
   title: "Disgardium: Out of Play",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

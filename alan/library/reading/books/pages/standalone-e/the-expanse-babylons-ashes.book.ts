@@ -5,7 +5,6 @@ export const theExpanseBabylonsAshes = {
   pageTypeSlug: "book",
   slug: "the-expanse-babylons-ashes",
   title: "The Expanse: Babylon's Ashes",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

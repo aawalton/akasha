@@ -5,7 +5,6 @@ export const aCaribbeanMystery = {
   pageTypeSlug: "book",
   slug: "a-caribbean-mystery",
   title: "A Caribbean Mystery",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

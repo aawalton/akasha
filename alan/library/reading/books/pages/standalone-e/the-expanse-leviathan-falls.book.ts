@@ -5,7 +5,6 @@ export const theExpanseLeviathanFalls = {
   pageTypeSlug: "book",
   slug: "the-expanse-leviathan-falls",
   title: "The Expanse: Leviathan Falls",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

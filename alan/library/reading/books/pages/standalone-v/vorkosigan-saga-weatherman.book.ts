@@ -5,7 +5,6 @@ export const vorkosiganSagaWeatherman = {
   pageTypeSlug: "book",
   slug: "vorkosigan-saga-weatherman",
   title: "Vorkosigan Saga: Weatherman",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

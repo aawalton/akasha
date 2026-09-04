@@ -5,7 +5,6 @@ export const makingHabitsBreakingHabits = {
   pageTypeSlug: "book",
   slug: "making-habits-breaking-habits",
   title: "Making Habits, Breaking Habits",
-  kind: "read",
   status: "not-started",
   author: "Jeremy Dean",
   unitSlug: "words",

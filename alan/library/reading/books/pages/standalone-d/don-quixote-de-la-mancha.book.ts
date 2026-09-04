@@ -5,7 +5,6 @@ export const donQuixoteDeLaMancha = {
   pageTypeSlug: "book",
   slug: "don-quixote-de-la-mancha",
   title: "Don Quixote de la Mancha",
-  kind: "read",
   status: "not-started",
   author: "Miguel de Cervantes Saavedra",
   unitSlug: "words",

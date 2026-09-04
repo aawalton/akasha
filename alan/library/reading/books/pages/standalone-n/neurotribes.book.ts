@@ -5,7 +5,6 @@ export const neurotribes = {
   pageTypeSlug: "book",
   slug: "neurotribes",
   title: "NeuroTribes",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "Steve Silberman",

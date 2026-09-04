@@ -5,7 +5,6 @@ export const theSystemApocalypseStarsAsunder = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-stars-asunder",
   title: "The System Apocalypse: Stars Asunder",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

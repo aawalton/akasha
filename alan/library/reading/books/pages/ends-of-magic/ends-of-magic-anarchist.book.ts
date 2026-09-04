@@ -5,7 +5,6 @@ export const endsOfMagicAnarchist = {
   pageTypeSlug: "book",
   slug: "ends-of-magic-anarchist",
   title: "Ends of Magic: Anarchist",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

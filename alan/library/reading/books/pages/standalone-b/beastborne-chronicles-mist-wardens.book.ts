@@ -5,7 +5,6 @@ export const beastborneChroniclesMistWardens = {
   pageTypeSlug: "book",
   slug: "beastborne-chronicles-mist-wardens",
   title: "Beastborne Chronicles: Mist Wardens",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

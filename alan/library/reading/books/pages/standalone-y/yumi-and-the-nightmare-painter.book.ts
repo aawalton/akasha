@@ -5,7 +5,6 @@ export const yumiAndTheNightmarePainter = {
   pageTypeSlug: "book",
   slug: "yumi-and-the-nightmare-painter",
   title: "Yumi and the Nightmare Painter",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

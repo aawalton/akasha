@@ -5,7 +5,6 @@ export const theEmperorOfAllMaladies = {
   pageTypeSlug: "book",
   slug: "the-emperor-of-all-maladies",
   title: "The Emperor of All Maladies",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Siddhartha Mukherjee, Nessa Carey",

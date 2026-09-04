@@ -5,7 +5,6 @@ export const theSpiritualBrainScienceAndReligiousExperience = {
   pageTypeSlug: "book",
   slug: "the-spiritual-brain-science-and-religious-experience",
   title: "The Spiritual Brain: Science and Religious Experience",
-  kind: "read",
   status: "not-started",
   author: "Andrew B. Newberg",
   unitSlug: "words",

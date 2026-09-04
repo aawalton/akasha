@@ -5,7 +5,6 @@ export const allTheSkills3 = {
   pageTypeSlug: "book",
   slug: "all-the-skills-3",
   title: "All The Skills 3",
-  kind: "read",
   status: "completed",
   author: "Honour Rae",
   unitSlug: "words",

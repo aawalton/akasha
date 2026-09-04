@@ -5,7 +5,6 @@ export const curtainPoirotsLastCase = {
   pageTypeSlug: "book",
   slug: "curtain-poirots-last-case",
   title: "Curtain: Poirot's Last Case",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

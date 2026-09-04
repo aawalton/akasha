@@ -5,7 +5,6 @@ export const discworldSmallGods = {
   pageTypeSlug: "book",
   slug: "discworld-small-gods",
   title: "Discworld: Small Gods",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett, Ray Friesen",
   unitSlug: "words",

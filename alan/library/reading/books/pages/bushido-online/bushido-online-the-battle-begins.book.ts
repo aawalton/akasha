@@ -5,7 +5,6 @@ export const bushidoOnlineTheBattleBegins = {
   pageTypeSlug: "book",
   slug: "bushido-online-the-battle-begins",
   title: "Bushido Online: the Battle Begins",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

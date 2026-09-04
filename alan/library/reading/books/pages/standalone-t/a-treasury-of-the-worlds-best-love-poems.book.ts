@@ -5,7 +5,6 @@ export const aTreasuryOfTheWorldsBestLovePoems = {
   pageTypeSlug: "book",
   slug: "a-treasury-of-the-worlds-best-love-poems",
   title: "A Treasury of the World's Best Love Poems",
-  kind: "read",
   status: "completed",
   rank: "C",
   unitSlug: "words",

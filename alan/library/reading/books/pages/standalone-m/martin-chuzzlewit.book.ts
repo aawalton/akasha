@@ -5,7 +5,6 @@ export const martinChuzzlewit = {
   pageTypeSlug: "book",
   slug: "martin-chuzzlewit",
   title: "Martin Chuzzlewit",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

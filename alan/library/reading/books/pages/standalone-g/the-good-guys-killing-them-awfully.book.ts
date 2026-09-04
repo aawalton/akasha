@@ -5,7 +5,6 @@ export const theGoodGuysKillingThemAwfully = {
   pageTypeSlug: "book",
   slug: "the-good-guys-killing-them-awfully",
   title: "The Good Guys: Killing Them Awfully",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

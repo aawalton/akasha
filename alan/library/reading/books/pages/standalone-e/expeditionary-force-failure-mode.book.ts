@@ -5,7 +5,6 @@ export const expeditionaryForceFailureMode = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-failure-mode",
   title: "Expeditionary Force: Failure Mode",
-  kind: "read",
   status: "not-started",
   author: "Craig Alanson",
   unitSlug: "words",

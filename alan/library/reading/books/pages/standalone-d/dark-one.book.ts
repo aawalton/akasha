@@ -5,7 +5,6 @@ export const darkOne = {
   pageTypeSlug: "book",
   slug: "dark-one",
   title: "Dark One",
-  kind: "read",
   status: "not-started",
   author: "Michelle McNamara",
   unitSlug: "words",

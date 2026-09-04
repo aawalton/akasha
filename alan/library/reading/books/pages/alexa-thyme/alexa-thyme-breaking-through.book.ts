@@ -5,7 +5,6 @@ export const alexaThymeBreakingThrough = {
   pageTypeSlug: "book",
   slug: "alexa-thyme-breaking-through",
   title: "Alexa Thyme: Breaking Through",
-  kind: "read",
   status: "completed",
   author: "Lykanthropy",
   unitSlug: "words",

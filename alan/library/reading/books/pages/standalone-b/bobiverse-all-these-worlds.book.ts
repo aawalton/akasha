@@ -5,7 +5,6 @@ export const bobiverseAllTheseWorlds = {
   pageTypeSlug: "book",
   slug: "bobiverse-all-these-worlds",
   title: "Bobiverse: All These Worlds",
-  kind: "read",
   status: "not-started",
   author: "Dennis E. Taylor",
   unitSlug: "words",

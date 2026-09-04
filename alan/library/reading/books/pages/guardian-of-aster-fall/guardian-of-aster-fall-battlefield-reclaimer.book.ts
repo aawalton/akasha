@@ -5,7 +5,6 @@ export const guardianOfAsterFallBattlefieldReclaimer = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-battlefield-reclaimer",
   title: "Guardian of Aster Fall: Battlefield Reclaimer",
-  kind: "read",
   status: "completed",
   author: "David North",
   unitSlug: "words",

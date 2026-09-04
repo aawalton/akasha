@@ -5,7 +5,6 @@ export const successfulMarriagesAndFamilies = {
   pageTypeSlug: "book",
   slug: "successful-marriages-and-families",
   title: "Successful Marriages and Families",
-  kind: "read",
   status: "paused",
   author: "Alan J. Hawkins, David C. Dollahite, Thomas Draper",
   unitSlug: "words",

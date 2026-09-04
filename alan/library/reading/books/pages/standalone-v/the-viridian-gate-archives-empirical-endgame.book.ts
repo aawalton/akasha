@@ -5,7 +5,6 @@ export const theViridianGateArchivesEmpiricalEndgame = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-empirical-endgame",
   title: "The Viridian Gate Archives: Empirical Endgame",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

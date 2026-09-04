@@ -5,7 +5,6 @@ export const disgardiumPathOfSpirit = {
   pageTypeSlug: "book",
   slug: "disgardium-path-of-spirit",
   title: "Disgardium: Path of Spirit",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

@@ -5,7 +5,6 @@ export const discworldTheLastHeroADiscworldFable = {
   pageTypeSlug: "book",
   slug: "discworld-the-last-hero-a-discworld-fable",
   title: "Discworld: The Last Hero: A Discworld Fable",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

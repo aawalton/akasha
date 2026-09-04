@@ -5,7 +5,6 @@ export const atBertramsHotel = {
   pageTypeSlug: "book",
   slug: "at-bertrams-hotel",
   title: "At Bertram's Hotel",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

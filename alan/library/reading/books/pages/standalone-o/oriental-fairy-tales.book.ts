@@ -5,7 +5,6 @@ export const orientalFairyTales = {
   pageTypeSlug: "book",
   slug: "oriental-fairy-tales",
   title: "Oriental Fairy Tales",
-  kind: "read",
   status: "not-started",
   author: "Edwin Arnold",
   unitSlug: "words",

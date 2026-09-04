@@ -5,7 +5,6 @@ export const honorHarringtonWorldsOfHonorWhatPriceVictory = {
   pageTypeSlug: "book",
   slug: "honor-harrington-worlds-of-honor-what-price-victory",
   title: "Honor Harrington - Worlds of Honor: What Price Victory?",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

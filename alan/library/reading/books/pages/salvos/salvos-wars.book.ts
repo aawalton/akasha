@@ -5,7 +5,6 @@ export const salvosWars = {
   pageTypeSlug: "book",
   slug: "salvos-wars",
   title: "Salvos: Wars",
-  kind: "read",
   status: "not-started",
   author: "Kimberly Brubaker Bradley",
   unitSlug: "words",

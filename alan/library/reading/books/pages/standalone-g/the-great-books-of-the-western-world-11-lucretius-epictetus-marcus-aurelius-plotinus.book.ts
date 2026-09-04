@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld11LucretiusEpictetusMarcusAureliusPlo
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-11-lucretius-epictetus-marcus-aurelius-plotinus",
   title: "The Great Books of the Western World 11: Lucretius, Epictetus, Marcus Aurelius, Plotinus",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

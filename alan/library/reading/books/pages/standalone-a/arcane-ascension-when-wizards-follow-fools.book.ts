@@ -5,7 +5,6 @@ export const arcaneAscensionWhenWizardsFollowFools = {
   pageTypeSlug: "book",
   slug: "arcane-ascension-when-wizards-follow-fools",
   title: "Arcane Ascension: When Wizards Follow Fools",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

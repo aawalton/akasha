@@ -5,7 +5,6 @@ export const therapyForRelationshipsWithEatingDisorders = {
   pageTypeSlug: "book",
   slug: "therapy-for-relationships-with-eating-disorders",
   title: "Therapy for Relationships with Eating Disorders",
-  kind: "read",
   status: "not-started",
   author: "Kim Lampson",
   unitSlug: "words",

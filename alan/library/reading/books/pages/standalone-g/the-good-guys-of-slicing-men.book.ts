@@ -5,7 +5,6 @@ export const theGoodGuysOfSlicingMen = {
   pageTypeSlug: "book",
   slug: "the-good-guys-of-slicing-men",
   title: "The Good Guys: Of Slicing Men",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 14,

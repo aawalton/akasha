@@ -5,7 +5,6 @@ export const josephSmithRoughStoneRolling = {
   pageTypeSlug: "book",
   slug: "joseph-smith-rough-stone-rolling",
   title: "Joseph Smith Rough Stone Rolling",
-  kind: "read",
   status: "not-started",
   author: "Richard Lyman Bushman",
   unitSlug: "words",

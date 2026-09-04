@@ -5,7 +5,6 @@ export const aThousandLiTheThirdRealm = {
   pageTypeSlug: "book",
   slug: "a-thousand-li-the-third-realm",
   title: "A Thousand Li: The Third Realm",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

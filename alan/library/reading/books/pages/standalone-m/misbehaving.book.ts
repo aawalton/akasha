@@ -5,7 +5,6 @@ export const misbehaving = {
   pageTypeSlug: "book",
   slug: "misbehaving",
   title: "Misbehaving",
-  kind: "read",
   status: "not-started",
   author: "Richard H. Thaler",
   unitSlug: "words",

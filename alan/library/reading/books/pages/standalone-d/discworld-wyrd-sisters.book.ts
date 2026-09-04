@@ -5,7 +5,6 @@ export const discworldWyrdSisters = {
   pageTypeSlug: "book",
   slug: "discworld-wyrd-sisters",
   title: "Discworld: Wyrd Sisters",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

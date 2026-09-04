@@ -5,7 +5,6 @@ export const guardianOfAsterFallAstralThreads = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-astral-threads",
   title: "Guardian of Aster Fall: Astral Threads",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

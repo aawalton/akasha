@@ -5,7 +5,6 @@ export const theDivineDungeonDungeonEternium = {
   pageTypeSlug: "book",
   slug: "the-divine-dungeon-dungeon-eternium",
   title: "The Divine Dungeon: Dungeon Eternium",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

@@ -5,7 +5,6 @@ export const ivanhoe = {
   pageTypeSlug: "book",
   slug: "ivanhoe",
   title: "Ivanhoe",
-  kind: "read",
   status: "not-started",
   author: "Sir Walter Scott",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const aTouchOfPowerSiphon = {
   pageTypeSlug: "book",
   slug: "a-touch-of-power-siphon",
   title: "A Touch of Power: Siphon",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

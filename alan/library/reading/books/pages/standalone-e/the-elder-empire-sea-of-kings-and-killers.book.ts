@@ -5,7 +5,6 @@ export const theElderEmpireSeaOfKingsAndKillers = {
   pageTypeSlug: "book",
   slug: "the-elder-empire-sea-of-kings-and-killers",
   title: "The Elder Empire - Sea: Of Kings and Killers",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

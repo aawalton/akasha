@@ -5,7 +5,6 @@ export const afterTheFuneral = {
   pageTypeSlug: "book",
   slug: "after-the-funeral",
   title: "After the Funeral",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

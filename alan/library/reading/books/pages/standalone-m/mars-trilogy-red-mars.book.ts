@@ -5,7 +5,6 @@ export const marsTrilogyRedMars = {
   pageTypeSlug: "book",
   slug: "mars-trilogy-red-mars",
   title: "Mars Trilogy: Red Mars",
-  kind: "read",
   status: "not-started",
   author: "Kim Stanley Robinson",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const legion = {
   pageTypeSlug: "book",
   slug: "legion",
   title: "Legion",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const worldTreeTrilogyWorldTreeOnline = {
   pageTypeSlug: "book",
   slug: "world-tree-trilogy-world-tree-online",
   title: "World-Tree Trilogy: World-Tree Online",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

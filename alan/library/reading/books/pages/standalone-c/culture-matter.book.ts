@@ -5,7 +5,6 @@ export const cultureMatter = {
   pageTypeSlug: "book",
   slug: "culture-matter",
   title: "Culture: Matter",
-  kind: "read",
   status: "not-started",
   author: "Lawrence E. Harrison, Samuel P. Huntington",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theWayOfTheShamanTheSecretOfTheDarkForest = {
   pageTypeSlug: "book",
   slug: "the-way-of-the-shaman-the-secret-of-the-dark-forest",
   title: "The Way of the Shaman: The Secret of the Dark Forest",
-  kind: "read",
   status: "completed",
   author: "Vasily Mahanenko",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const dragonHeartDwarfCity = {
   pageTypeSlug: "book",
   slug: "dragon-heart-dwarf-city",
   title: "Dragon Heart: Dwarf City",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 14,

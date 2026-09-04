@@ -5,7 +5,6 @@ export const bookOfMormonReferenceCompanion = {
   pageTypeSlug: "book",
   slug: "book-of-mormon-reference-companion",
   title: "Book of Mormon Reference Companion",
-  kind: "read",
   status: "paused",
   author: "Dennis L. Largey",
   unitSlug: "words",

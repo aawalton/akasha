@@ -5,7 +5,6 @@ export const theBodyKeepsTheScore = {
   pageTypeSlug: "book",
   slug: "the-body-keeps-the-score",
   title: "The Body Keeps the Score",
-  kind: "read",
   status: "completed",
   author: "Bessel van der Kolk",
   unitSlug: "words",

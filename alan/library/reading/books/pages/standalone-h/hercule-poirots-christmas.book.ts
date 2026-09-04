@@ -5,7 +5,6 @@ export const herculePoirotsChristmas = {
   pageTypeSlug: "book",
   slug: "hercule-poirots-christmas",
   title: "Hercule Poirot's Christmas",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

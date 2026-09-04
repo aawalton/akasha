@@ -5,7 +5,6 @@ export const vorkosiganSagaTheMountainsOfMourning = {
   pageTypeSlug: "book",
   slug: "vorkosigan-saga-the-mountains-of-mourning",
   title: "Vorkosigan Saga: The Mountains of Mourning",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

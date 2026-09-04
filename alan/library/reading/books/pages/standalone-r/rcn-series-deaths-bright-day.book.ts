@@ -5,7 +5,6 @@ export const rcnSeriesDeathsBrightDay = {
   pageTypeSlug: "book",
   slug: "rcn-series-deaths-bright-day",
   title: "RCN Series: Death's Bright Day",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 10,

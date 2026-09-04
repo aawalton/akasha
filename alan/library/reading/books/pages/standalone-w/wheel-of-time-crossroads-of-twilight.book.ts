@@ -5,7 +5,6 @@ export const wheelOfTimeCrossroadsOfTwilight = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-crossroads-of-twilight",
   title: "Wheel of Time: Crossroads of Twilight",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

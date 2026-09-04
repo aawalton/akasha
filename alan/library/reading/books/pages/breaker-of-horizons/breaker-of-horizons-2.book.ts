@@ -5,7 +5,6 @@ export const breakerOfHorizons2 = {
   pageTypeSlug: "book",
   slug: "breaker-of-horizons-2",
   title: "Breaker of Horizons 2",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

@@ -5,7 +5,6 @@ export const helping = {
   pageTypeSlug: "book",
   slug: "helping",
   title: "Helping",
-  kind: "read",
   status: "not-started",
   author: "Kathryn Stockett, Álvaro Abella Villar, Alvaro Abella",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theBeginningOfInfinity = {
   pageTypeSlug: "book",
   slug: "the-beginning-of-infinity",
   title: "The Beginning of Infinity",
-  kind: "read",
   status: "not-started",
   author: "David Deutsch",
   unitSlug: "words",

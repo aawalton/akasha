@@ -5,7 +5,6 @@ export const blink = {
   pageTypeSlug: "book",
   slug: "blink",
   title: "Blink",
-  kind: "read",
   status: "not-started",
   author: "Malcolm Gladwell",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theCompletionistChroniclesRexusSideQuest = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-rexus-side-quest",
   title: "The Completionist Chronicles: Rexus, Side Quest",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

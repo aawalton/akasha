@@ -5,7 +5,6 @@ export const weaponsAndWieldersSixSacredSwords = {
   pageTypeSlug: "book",
   slug: "weapons-and-wielders-six-sacred-swords",
   title: "Weapons and Wielders: Six Sacred Swords",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

@@ -5,7 +5,6 @@ export const vattasWarTradingInDanger = {
   pageTypeSlug: "book",
   slug: "vattas-war-trading-in-danger",
   title: "Vatta's War: Trading in Danger",
-  kind: "read",
   status: "not-started",
   author: "Elizabeth Moon",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const melodyOfMana5 = {
   pageTypeSlug: "book",
   slug: "melody-of-mana-5",
   title: "Melody of Mana 5",
-  kind: "read",
   status: "completed",
   author: "Wandering Agent",
   unitSlug: "words",

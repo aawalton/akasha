@@ -5,7 +5,6 @@ export const theBadGuysBackToOne = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-back-to-one",
   title: "The Bad Guys: Back to One",
-  kind: "read",
   status: "not-started",
   author: "Graham Moore",
   unitSlug: "words",

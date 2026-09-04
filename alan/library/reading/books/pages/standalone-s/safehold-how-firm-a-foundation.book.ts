@@ -5,7 +5,6 @@ export const safeholdHowFirmAFoundation = {
   pageTypeSlug: "book",
   slug: "safehold-how-firm-a-foundation",
   title: "Safehold: How Firm a Foundation",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

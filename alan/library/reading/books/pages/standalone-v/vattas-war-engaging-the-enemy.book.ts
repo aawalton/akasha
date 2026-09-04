@@ -5,7 +5,6 @@ export const vattasWarEngagingTheEnemy = {
   pageTypeSlug: "book",
   slug: "vattas-war-engaging-the-enemy",
   title: "Vatta's War: Engaging the Enemy",
-  kind: "read",
   status: "not-started",
   author: "Elizabeth Moon",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const forThePowerIsInThem = {
   pageTypeSlug: "book",
   slug: "for-the-power-is-in-them",
   title: '"For the Power Is in Them..."',
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

@@ -5,7 +5,6 @@ export const book1Lifesteal2 = {
   pageTypeSlug: "book",
   slug: "book-1-lifesteal-2",
   title: "1% Lifesteal 2",
-  kind: "read",
   status: "not-started",
   author: "Edward Cuthbert Butler",
   unitSlug: "words",

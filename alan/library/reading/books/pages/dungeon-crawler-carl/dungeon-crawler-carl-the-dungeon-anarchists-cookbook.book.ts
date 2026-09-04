@@ -5,7 +5,6 @@ export const dungeonCrawlerCarlTheDungeonAnarchistsCookbook = {
   pageTypeSlug: "book",
   slug: "dungeon-crawler-carl-the-dungeon-anarchists-cookbook",
   title: "Dungeon Crawler Carl: The Dungeon Anarchist's Cookbook",
-  kind: "read",
   status: "not-started",
   author: "Matt Dinniman",
   unitSlug: "words",

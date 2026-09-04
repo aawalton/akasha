@@ -5,7 +5,6 @@ export const starsight = {
   pageTypeSlug: "book",
   slug: "starsight",
   title: "Starsight",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

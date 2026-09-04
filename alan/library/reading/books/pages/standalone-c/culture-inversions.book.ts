@@ -5,7 +5,6 @@ export const cultureInversions = {
   pageTypeSlug: "book",
   slug: "culture-inversions",
   title: "Culture: Inversions",
-  kind: "read",
   status: "not-started",
   author: "Jennifer Andrews, Arnold E. Davidson, Priscilla Walton",
   unitSlug: "words",

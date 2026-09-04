@@ -5,7 +5,6 @@ export const cinnamonBun5 = {
   pageTypeSlug: "book",
   slug: "cinnamon-bun-5",
   title: "Cinnamon Bun 5",
-  kind: "read",
   status: "not-started",
   author: "Laurie Gilmore",
   unitSlug: "words",

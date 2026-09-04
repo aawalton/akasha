@@ -5,7 +5,6 @@ export const emotionalFirstAid = {
   pageTypeSlug: "book",
   slug: "emotional-first-aid",
   title: "Emotional First Aid",
-  kind: "read",
   status: "not-started",
   author: "Guy Winch",
   unitSlug: "words",

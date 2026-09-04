@@ -5,7 +5,6 @@ export const theCompletionistChroniclesRaze = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-raze",
   title: "The Completionist Chronicles: Raze",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

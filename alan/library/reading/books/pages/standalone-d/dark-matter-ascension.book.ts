@@ -5,7 +5,6 @@ export const darkMatterAscension = {
   pageTypeSlug: "book",
   slug: "dark-matter-ascension",
   title: "Dark Matter Ascension",
-  kind: "read",
   status: "not-started",
   author: "James M. MacDonald",
   unitSlug: "words",

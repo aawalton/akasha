@@ -5,7 +5,6 @@ export const essentialReality = {
   pageTypeSlug: "book",
   slug: "essential-reality",
   title: "Essential Reality",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Jason Fried, David Heinemeier Hansson",

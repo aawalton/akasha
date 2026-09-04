@@ -5,7 +5,6 @@ export const journeyToZion = {
   pageTypeSlug: "book",
   slug: "journey-to-zion",
   title: "Journey to Zion",
-  kind: "read",
   status: "not-started",
   author: "Carol Cornwall Madsen",
   unitSlug: "words",

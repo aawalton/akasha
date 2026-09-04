@@ -5,7 +5,6 @@ export const librarySystemResetRebound = {
   pageTypeSlug: "book",
   slug: "library-system-reset-rebound",
   title: "Library System Reset: Rebound",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

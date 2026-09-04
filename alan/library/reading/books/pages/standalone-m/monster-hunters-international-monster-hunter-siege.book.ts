@@ -5,7 +5,6 @@ export const monsterHuntersInternationalMonsterHunterSiege = {
   pageTypeSlug: "book",
   slug: "monster-hunters-international-monster-hunter-siege",
   title: "Monster Hunters International: Monster Hunter Siege",
-  kind: "read",
   status: "not-started",
   author: "Larry Correia",
   unitSlug: "words",

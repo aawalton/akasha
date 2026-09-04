@@ -5,7 +5,6 @@ export const firstborn = {
   pageTypeSlug: "book",
   slug: "firstborn",
   title: "Firstborn",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Karen Kingsbury",

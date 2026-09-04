@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld44Tocqueville = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-44-tocqueville",
   title: "The Great Books of the Western World 44: Tocqueville",
-  kind: "read",
   status: "not-started",
   author: "Silas Farmer",
   unitSlug: "words",

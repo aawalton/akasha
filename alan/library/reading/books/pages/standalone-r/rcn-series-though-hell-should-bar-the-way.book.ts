@@ -5,7 +5,6 @@ export const rcnSeriesThoughHellShouldBarTheWay = {
   pageTypeSlug: "book",
   slug: "rcn-series-though-hell-should-bar-the-way",
   title: "RCN Series: Though Hell Should Bar the Way",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

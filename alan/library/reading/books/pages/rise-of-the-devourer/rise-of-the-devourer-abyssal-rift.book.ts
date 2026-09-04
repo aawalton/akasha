@@ -5,7 +5,6 @@ export const riseOfTheDevourerAbyssalRift = {
   pageTypeSlug: "book",
   slug: "rise-of-the-devourer-abyssal-rift",
   title: "Rise of the Devourer: Abyssal Rift",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

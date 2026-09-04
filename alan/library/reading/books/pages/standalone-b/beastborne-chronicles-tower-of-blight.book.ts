@@ -5,7 +5,6 @@ export const beastborneChroniclesTowerOfBlight = {
   pageTypeSlug: "book",
   slug: "beastborne-chronicles-tower-of-blight",
   title: "Beastborne Chronicles: Tower of Blight",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

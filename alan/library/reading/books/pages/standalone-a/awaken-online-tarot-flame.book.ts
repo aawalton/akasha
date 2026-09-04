@@ -5,7 +5,6 @@ export const awakenOnlineTarotFlame = {
   pageTypeSlug: "book",
   slug: "awaken-online-tarot-flame",
   title: "Awaken Online: Tarot: Flame",
-  kind: "read",
   status: "completed",
   author: "Travis Bagwell",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const whatMakesLoveLast = {
   pageTypeSlug: "book",
   slug: "what-makes-love-last",
   title: "What Makes Love Last?",
-  kind: "read",
   status: "in-progress",
   author: "John Mordechai Gottman",
   unitSlug: "words",

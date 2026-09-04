@@ -5,7 +5,6 @@ export const awakenOnlineApathy = {
   pageTypeSlug: "book",
   slug: "awaken-online-apathy",
   title: "Awaken Online: Apathy",
-  kind: "read",
   status: "completed",
   author: "Travis Bagwell",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theEverythingParentsGuideToChildrenWithExecutiveFunctioningDisorder
   pageTypeSlug: "book",
   slug: "the-everything-parents-guide-to-children-with-executive-functioning-disorder",
   title: "The Everything Parent's Guide to Children with Executive Functioning Disorder",
-  kind: "read",
   status: "not-started",
   author: "Rebecca Branstetter",
   unitSlug: "words",

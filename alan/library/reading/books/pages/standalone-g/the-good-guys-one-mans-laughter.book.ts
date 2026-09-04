@@ -5,7 +5,6 @@ export const theGoodGuysOneMansLaughter = {
   pageTypeSlug: "book",
   slug: "the-good-guys-one-mans-laughter",
   title: "The Good Guys: One Man's Laughter",
-  kind: "read",
   status: "not-started",
   author: "Winsor McCay",
   unitSlug: "words",

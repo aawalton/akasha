@@ -5,7 +5,6 @@ export const dragonHeartLandOfPain = {
   pageTypeSlug: "book",
   slug: "dragon-heart-land-of-pain",
   title: "Dragon Heart: Land of Pain",
-  kind: "read",
   status: "completed",
   author: "Winsor McCay",
   unitSlug: "words",

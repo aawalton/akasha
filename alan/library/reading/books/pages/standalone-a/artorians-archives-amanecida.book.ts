@@ -5,7 +5,6 @@ export const artoriansArchivesAmanecida = {
   pageTypeSlug: "book",
   slug: "artorians-archives-amanecida",
   title: "Artorian's Archives: Amanecida",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 15,

@@ -5,7 +5,6 @@ export const arcaneAscensionTheTorchThatIgnitesTheStars = {
   pageTypeSlug: "book",
   slug: "arcane-ascension-the-torch-that-ignites-the-stars",
   title: "Arcane Ascension: The Torch that Ignites the Stars",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

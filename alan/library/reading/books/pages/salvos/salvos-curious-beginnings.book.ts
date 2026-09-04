@@ -5,7 +5,6 @@ export const salvosCuriousBeginnings = {
   pageTypeSlug: "book",
   slug: "salvos-curious-beginnings",
   title: "Salvos: Curious Beginnings",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

@@ -5,7 +5,6 @@ export const salvosTheChildMonster = {
   pageTypeSlug: "book",
   slug: "salvos-the-child-monster",
   title: "Salvos: The Child Monster",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

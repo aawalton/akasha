@@ -5,7 +5,6 @@ export const teachingsOfDavidOMckay = {
   pageTypeSlug: "book",
   slug: "teachings-of-david-o-mckay",
   title: "Teachings of David O. McKay",
-  kind: "read",
   status: "not-started",
   author: "David Oman McKay",
   unitSlug: "words",

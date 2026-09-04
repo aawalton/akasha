@@ -5,7 +5,6 @@ export const theDiscipleAsWitness = {
   pageTypeSlug: "book",
   slug: "the-disciple-as-witness",
   title: "The Disciple as Witness",
-  kind: "read",
   status: "not-started",
   author: "Richard Lloyd Anderson, Stephen David Ricks, Donald W. Parry, Andrew H. Hedges",
   unitSlug: "words",

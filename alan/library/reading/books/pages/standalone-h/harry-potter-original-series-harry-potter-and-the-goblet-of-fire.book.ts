@@ -5,7 +5,6 @@ export const harryPotterOriginalSeriesHarryPotterAndTheGobletOfFire = {
   pageTypeSlug: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-goblet-of-fire",
   title: "Harry Potter Original Series: Harry Potter and the Goblet of Fire",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

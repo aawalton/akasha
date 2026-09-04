@@ -5,7 +5,6 @@ export const discworldMonstrousRegiment = {
   pageTypeSlug: "book",
   slug: "discworld-monstrous-regiment",
   title: "Discworld: Monstrous Regiment",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

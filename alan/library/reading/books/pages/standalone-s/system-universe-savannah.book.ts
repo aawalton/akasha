@@ -5,7 +5,6 @@ export const systemUniverseSavannah = {
   pageTypeSlug: "book",
   slug: "system-universe-savannah",
   title: "System Universe: Savannah",
-  kind: "read",
   status: "completed",
   author: "Christopher L. Delgado",
   unitSlug: "words",

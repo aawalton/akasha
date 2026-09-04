@@ -5,7 +5,6 @@ export const swordArtOnline10 = {
   pageTypeSlug: "book",
   slug: "sword-art-online-10",
   title: "Sword Art Online 10",
-  kind: "read",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
   unitSlug: "words",

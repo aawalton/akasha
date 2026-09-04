@@ -5,7 +5,6 @@ export const americaTheLastBestHopeVolume1 = {
   pageTypeSlug: "book",
   slug: "america-the-last-best-hope-volume-1",
   title: "America: The Last Best Hope Volume 1",
-  kind: "read",
   status: "not-started",
   author: "HOLT MCDOUGAL",
   unitSlug: "words",

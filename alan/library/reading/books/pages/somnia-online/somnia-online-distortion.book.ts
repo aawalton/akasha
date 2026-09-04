@@ -5,7 +5,6 @@ export const somniaOnlineDistortion = {
   pageTypeSlug: "book",
   slug: "somnia-online-distortion",
   title: "Somnia Online: Distortion",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

@@ -5,7 +5,6 @@ export const honorHarringtonCrownOfSlavesTorchOfFreedom = {
   pageTypeSlug: "book",
   slug: "honor-harrington-crown-of-slaves-torch-of-freedom",
   title: "Honor Harrington - Crown of Slaves: Torch of Freedom",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

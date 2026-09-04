@@ -5,7 +5,6 @@ export const chalionPaladinOfSouls = {
   pageTypeSlug: "book",
   slug: "chalion-paladin-of-souls",
   title: "Chalion: Paladin of Souls",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

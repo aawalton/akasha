@@ -5,7 +5,6 @@ export const safeholdByHeresiesDistressed = {
   pageTypeSlug: "book",
   slug: "safehold-by-heresies-distressed",
   title: "Safehold: By Heresies Distressed",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

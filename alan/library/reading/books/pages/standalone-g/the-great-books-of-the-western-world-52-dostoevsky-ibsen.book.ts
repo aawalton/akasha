@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld52DostoevskyIbsen = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-52-dostoevsky-ibsen",
   title: "The Great Books of the Western World 52: Dostoevsky, Ibsen",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 52,

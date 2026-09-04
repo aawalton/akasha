@@ -5,7 +5,6 @@ export const chaosSeedsPredators = {
   pageTypeSlug: "book",
   slug: "chaos-seeds-predators",
   title: "Chaos Seeds: Predators",
-  kind: "read",
   status: "completed",
   rank: "C",
   unitSlug: "words",

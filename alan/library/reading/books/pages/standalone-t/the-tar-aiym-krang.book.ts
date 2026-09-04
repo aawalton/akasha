@@ -5,7 +5,6 @@ export const theTarAiymKrang = {
   pageTypeSlug: "book",
   slug: "the-tar-aiym-krang",
   title: "The Tar-Aiym Krang",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const deathInTheClouds = {
   pageTypeSlug: "book",
   slug: "death-in-the-clouds",
   title: "Death in the Clouds",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

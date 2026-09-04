@@ -5,7 +5,6 @@ export const trySofter = {
   pageTypeSlug: "book",
   slug: "try-softer",
   title: "Try Softer",
-  kind: "read",
   status: "not-started",
   author: "Aundi Kolber",
   unitSlug: "words",

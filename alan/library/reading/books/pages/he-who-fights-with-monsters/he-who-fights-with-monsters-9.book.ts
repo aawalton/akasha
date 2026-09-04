@@ -5,7 +5,6 @@ export const heWhoFightsWithMonsters9 = {
   pageTypeSlug: "book",
   slug: "he-who-fights-with-monsters-9",
   title: "He Who Fights with Monsters 9",
-  kind: "read",
   status: "completed",
   author: "Shirtaloon, Travis Deverell",
   unitSlug: "words",

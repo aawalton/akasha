@@ -5,7 +5,6 @@ export const makeItStick = {
   pageTypeSlug: "book",
   slug: "make-it-stick",
   title: "Make It Stick",
-  kind: "read",
   status: "not-started",
   author: "Peter C. Brown, Henry L. Roediger, Mark A. McDaniel",
   unitSlug: "words",

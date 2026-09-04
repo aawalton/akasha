@@ -5,7 +5,6 @@ export const sectorGeneralTheGenocidalHealer = {
   pageTypeSlug: "book",
   slug: "sector-general-the-genocidal-healer",
   title: "Sector General: The Genocidal Healer",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

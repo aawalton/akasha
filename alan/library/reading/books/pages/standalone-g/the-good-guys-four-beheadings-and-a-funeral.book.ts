@@ -5,7 +5,6 @@ export const theGoodGuysFourBeheadingsAndAFuneral = {
   pageTypeSlug: "book",
   slug: "the-good-guys-four-beheadings-and-a-funeral",
   title: "The Good Guys: Four Beheadings and a Funeral",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 9,

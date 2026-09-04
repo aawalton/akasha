@@ -5,7 +5,6 @@ export const earthenContendersUnbelievableHealer = {
   pageTypeSlug: "book",
   slug: "earthen-contenders-unbelievable-healer",
   title: "Earthen Contenders: Unbelievable Healer",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

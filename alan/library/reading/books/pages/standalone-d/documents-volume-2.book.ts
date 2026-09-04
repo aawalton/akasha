@@ -5,7 +5,6 @@ export const documentsVolume2 = {
   pageTypeSlug: "book",
   slug: "documents-volume-2",
   title: "Documents Volume 2",
-  kind: "read",
   status: "not-started",
   author: "Michael P. Johnson",
   unitSlug: "words",

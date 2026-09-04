@@ -5,7 +5,6 @@ export const butForASmallMoment = {
   pageTypeSlug: "book",
   slug: "but-for-a-small-moment",
   title: "But For A Small Moment",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

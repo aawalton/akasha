@@ -5,7 +5,6 @@ export const mistakesWereMadeButNotByMe = {
   pageTypeSlug: "book",
   slug: "mistakes-were-made-but-not-by-me",
   title: "Mistakes Were Made (But Not By Me)",
-  kind: "read",
   status: "not-started",
   author: "Carol Tavris, Elliot Aronson",
   unitSlug: "words",

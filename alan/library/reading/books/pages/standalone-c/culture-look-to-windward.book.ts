@@ -5,7 +5,6 @@ export const cultureLookToWindward = {
   pageTypeSlug: "book",
   slug: "culture-look-to-windward",
   title: "Culture: Look to Windward",
-  kind: "read",
   status: "not-started",
   author: "Iain Banks",
   unitSlug: "words",

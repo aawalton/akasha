@@ -5,7 +5,6 @@ export const teachingsOfHaroldBLee = {
   pageTypeSlug: "book",
   slug: "teachings-of-harold-b-lee",
   title: "Teachings of Harold B. Lee",
-  kind: "read",
   status: "not-started",
   author: "Harold B. Lee",
   unitSlug: "words",

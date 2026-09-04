@@ -5,7 +5,6 @@ export const roadToMastery3 = {
   pageTypeSlug: "book",
   slug: "road-to-mastery-3",
   title: "Road to Mastery 3",
-  kind: "read",
   status: "completed",
   author: "Wallace D. Wattles, Ruth L Miller, Patricia J. Crane, Rick Nichols",
   unitSlug: "words",

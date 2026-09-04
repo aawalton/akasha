@@ -5,7 +5,6 @@ export const scaleAndSeaTrilogyGloamtideGuild = {
   pageTypeSlug: "book",
   slug: "scale-and-sea-trilogy-gloamtide-guild",
   title: "Scale & Sea Trilogy: Gloamtide Guild",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

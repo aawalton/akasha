@@ -5,7 +5,6 @@ export const outOfTheDark = {
   pageTypeSlug: "book",
   slug: "out-of-the-dark",
   title: "Out of the Dark",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

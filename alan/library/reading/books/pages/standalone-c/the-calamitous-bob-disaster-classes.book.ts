@@ -5,7 +5,6 @@ export const theCalamitousBobDisasterClasses = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob-disaster-classes",
   title: "The Calamitous Bob: Disaster Classes",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

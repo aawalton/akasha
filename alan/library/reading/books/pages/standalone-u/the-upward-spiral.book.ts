@@ -5,7 +5,6 @@ export const theUpwardSpiral = {
   pageTypeSlug: "book",
   slug: "the-upward-spiral",
   title: "The Upward Spiral",
-  kind: "read",
   status: "not-started",
   author: "Alex Korb PhD, Daniel J. Siegel MD",
   unitSlug: "words",

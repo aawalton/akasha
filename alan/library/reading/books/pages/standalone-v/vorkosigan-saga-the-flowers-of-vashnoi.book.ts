@@ -5,7 +5,6 @@ export const vorkosiganSagaTheFlowersOfVashnoi = {
   pageTypeSlug: "book",
   slug: "vorkosigan-saga-the-flowers-of-vashnoi",
   title: "Vorkosigan Saga: The Flowers of Vashnoi",
-  kind: "read",
   status: "not-started",
   author: "Lois McMaster Bujold",
   unitSlug: "words",

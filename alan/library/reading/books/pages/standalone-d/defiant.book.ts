@@ -5,7 +5,6 @@ export const defiant = {
   pageTypeSlug: "book",
   slug: "defiant",
   title: "Defiant",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Lynne Graham",

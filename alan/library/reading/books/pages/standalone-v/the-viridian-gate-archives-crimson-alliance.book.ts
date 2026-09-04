@@ -5,7 +5,6 @@ export const theViridianGateArchivesCrimsonAlliance = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-crimson-alliance",
   title: "The Viridian Gate Archives: Crimson Alliance",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

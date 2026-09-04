@@ -5,7 +5,6 @@ export const rcnSeriesLtLearyCommanding = {
   pageTypeSlug: "book",
   slug: "rcn-series-lt-leary-commanding",
   title: "RCN Series: Lt. Leary Commanding",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

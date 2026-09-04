@@ -5,7 +5,6 @@ export const aTimeToChoose = {
   pageTypeSlug: "book",
   slug: "a-time-to-choose",
   title: "A Time to Choose",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Richard Parker",

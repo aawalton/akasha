@@ -5,7 +5,6 @@ export const japaneseFairyTales = {
   pageTypeSlug: "book",
   slug: "japanese-fairy-tales",
   title: "Japanese Fairy Tales",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Yei Theodora Ozaki",

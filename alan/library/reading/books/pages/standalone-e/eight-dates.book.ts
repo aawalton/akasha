@@ -5,7 +5,6 @@ export const eightDates = {
   pageTypeSlug: "book",
   slug: "eight-dates",
   title: "Eight Dates",
-  kind: "read",
   status: "not-started",
   author: "John Mordechai Gottman, Julie Schwartz Gottman, Doug Abrams, Rachel Carlton Abrams M.D.",
   unitSlug: "words",

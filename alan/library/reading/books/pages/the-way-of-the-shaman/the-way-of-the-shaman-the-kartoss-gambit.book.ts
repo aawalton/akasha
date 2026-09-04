@@ -5,7 +5,6 @@ export const theWayOfTheShamanTheKartossGambit = {
   pageTypeSlug: "book",
   slug: "the-way-of-the-shaman-the-kartoss-gambit",
   title: "The Way of the Shaman: The Kartoss Gambit",
-  kind: "read",
   status: "completed",
   author: "Vasily Mahanenko",
   unitSlug: "words",

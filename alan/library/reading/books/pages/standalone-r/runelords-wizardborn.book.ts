@@ -5,7 +5,6 @@ export const runelordsWizardborn = {
   pageTypeSlug: "book",
   slug: "runelords-wizardborn",
   title: "Runelords: Wizardborn",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

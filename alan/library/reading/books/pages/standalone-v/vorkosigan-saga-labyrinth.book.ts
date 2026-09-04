@@ -5,7 +5,6 @@ export const vorkosiganSagaLabyrinth = {
   pageTypeSlug: "book",
   slug: "vorkosigan-saga-labyrinth",
   title: "Vorkosigan Saga: Labyrinth",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

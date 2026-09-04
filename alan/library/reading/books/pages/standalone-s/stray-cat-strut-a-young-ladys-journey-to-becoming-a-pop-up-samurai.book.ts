@@ -5,7 +5,6 @@ export const strayCatStrutAYoungLadysJourneyToBecomingAPopUpSamurai = {
   pageTypeSlug: "book",
   slug: "stray-cat-strut-a-young-ladys-journey-to-becoming-a-pop-up-samurai",
   title: "Stray Cat Strut: A Young Lady's Journey to Becoming a Pop-Up Samurai",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

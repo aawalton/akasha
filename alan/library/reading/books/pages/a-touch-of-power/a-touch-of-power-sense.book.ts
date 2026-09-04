@@ -5,7 +5,6 @@ export const aTouchOfPowerSense = {
   pageTypeSlug: "book",
   slug: "a-touch-of-power-sense",
   title: "A Touch of Power: Sense",
-  kind: "read",
   status: "completed",
   author: "Robert A. Baron",
   unitSlug: "words",

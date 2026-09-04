@@ -5,7 +5,6 @@ export const guardianOfAsterFallWorldSeal = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-world-seal",
   title: "Guardian of Aster Fall: World Seal",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

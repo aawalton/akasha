@@ -5,7 +5,6 @@ export const allTheSkills4 = {
   pageTypeSlug: "book",
   slug: "all-the-skills-4",
   title: "All The Skills 4",
-  kind: "read",
   status: "completed",
   author: "William Shakespeare",
   unitSlug: "words",

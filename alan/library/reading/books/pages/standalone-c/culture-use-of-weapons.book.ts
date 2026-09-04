@@ -5,7 +5,6 @@ export const cultureUseOfWeapons = {
   pageTypeSlug: "book",
   slug: "culture-use-of-weapons",
   title: "Culture: Use of Weapons",
-  kind: "read",
   status: "not-started",
   author: "Iain Banks",
   unitSlug: "words",

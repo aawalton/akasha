@@ -5,7 +5,6 @@ export const theElderEmpireShadowOfDarknessAndDawn = {
   pageTypeSlug: "book",
   slug: "the-elder-empire-shadow-of-darkness-and-dawn",
   title: "The Elder Empire - Shadow: Of Darkness and Dawn",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

@@ -5,7 +5,6 @@ export const autobiographyOfParleyPPratt = {
   pageTypeSlug: "book",
   slug: "autobiography-of-parley-p-pratt",
   title: "Autobiography of Parley P. Pratt",
-  kind: "read",
   status: "not-started",
   author: "Parley P. Pratt",
   unitSlug: "words",

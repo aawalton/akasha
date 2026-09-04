@@ -5,7 +5,6 @@ export const elephantsCanRemember = {
   pageTypeSlug: "book",
   slug: "elephants-can-remember",
   title: "Elephants Can Remember",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

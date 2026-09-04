@@ -5,7 +5,6 @@ export const theExpanseCalibansWar = {
   pageTypeSlug: "book",
   slug: "the-expanse-calibans-war",
   title: "The Expanse: Caliban's War",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

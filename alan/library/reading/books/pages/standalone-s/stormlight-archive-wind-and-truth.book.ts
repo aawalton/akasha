@@ -5,7 +5,6 @@ export const stormlightArchiveWindAndTruth = {
   pageTypeSlug: "book",
   slug: "stormlight-archive-wind-and-truth",
   title: "Stormlight Archive: Wind and Truth",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

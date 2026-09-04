@@ -5,7 +5,6 @@ export const rcnSeriesInTheStormyRedSky = {
   pageTypeSlug: "book",
   slug: "rcn-series-in-the-stormy-red-sky",
   title: "RCN Series: In the Stormy Red Sky",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

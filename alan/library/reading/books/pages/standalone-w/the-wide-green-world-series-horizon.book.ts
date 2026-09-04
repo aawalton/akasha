@@ -5,7 +5,6 @@ export const theWideGreenWorldSeriesHorizon = {
   pageTypeSlug: "book",
   slug: "the-wide-green-world-series-horizon",
   title: "The Wide Green World Series: Horizon",
-  kind: "read",
   status: "not-started",
   author: "Oscar Wilde",
   unitSlug: "words",

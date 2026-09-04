@@ -5,7 +5,6 @@ export const teachingsOfJohnTaylor = {
   pageTypeSlug: "book",
   slug: "teachings-of-john-taylor",
   title: "Teachings of John Taylor",
-  kind: "read",
   status: "not-started",
   author: "Samuel Taylor Coleridge",
   unitSlug: "words",

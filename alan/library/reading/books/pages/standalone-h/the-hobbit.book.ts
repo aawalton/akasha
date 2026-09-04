@@ -5,7 +5,6 @@ export const theHobbit = {
   pageTypeSlug: "book",
   slug: "the-hobbit",
   title: "The Hobbit",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "J.R.R. Tolkien",

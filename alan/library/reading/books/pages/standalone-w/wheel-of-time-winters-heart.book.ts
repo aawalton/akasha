@@ -5,7 +5,6 @@ export const wheelOfTimeWintersHeart = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-winters-heart",
   title: "Wheel of Time: Winter's Heart",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

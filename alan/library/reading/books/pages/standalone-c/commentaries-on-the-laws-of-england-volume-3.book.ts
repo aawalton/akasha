@@ -5,7 +5,6 @@ export const commentariesOnTheLawsOfEnglandVolume3 = {
   pageTypeSlug: "book",
   slug: "commentaries-on-the-laws-of-england-volume-3",
   title: "Commentaries on the Laws of England Volume 3",
-  kind: "read",
   status: "not-started",
   author: "Sir William Blackstone",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const riseOfTheLivingForgeBook1 = {
   pageTypeSlug: "book",
   slug: "rise-of-the-living-forge-book-1",
   title: "Rise of the Living Forge",
-  kind: "read",
   status: "completed",
   author: "Rudi Volti",
   unitSlug: "words",

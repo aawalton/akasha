@@ -5,7 +5,6 @@ export const theSpokenMagePowerOfPenAndVoice = {
   pageTypeSlug: "book",
   slug: "the-spoken-mage-power-of-pen-and-voice",
   title: "The Spoken Mage: Power of Pen and Voice",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

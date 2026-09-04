@@ -5,7 +5,6 @@ export const discworldHogfather = {
   pageTypeSlug: "book",
   slug: "discworld-hogfather",
   title: "Discworld: Hogfather",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

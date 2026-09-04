@@ -5,7 +5,6 @@ export const cardsOnTheTable = {
   pageTypeSlug: "book",
   slug: "cards-on-the-table",
   title: "Cards on the Table",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const annalsOfDrakisBloodOfTheEmperor = {
   pageTypeSlug: "book",
   slug: "annals-of-drakis-blood-of-the-emperor",
   title: "Annals of Drakis: Blood of the Emperor",
-  kind: "read",
   status: "not-started",
   author: "Tracy Hickman",
   unitSlug: "words",

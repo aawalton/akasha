@@ -5,7 +5,6 @@ export const murderInMesopotamia = {
   pageTypeSlug: "book",
   slug: "murder-in-mesopotamia",
   title: "Murder in Mesopotamia",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

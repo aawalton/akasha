@@ -5,7 +5,6 @@ export const sectorGeneralTheGalacticGourmet = {
   pageTypeSlug: "book",
   slug: "sector-general-the-galactic-gourmet",
   title: "Sector General: The Galactic Gourmet",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

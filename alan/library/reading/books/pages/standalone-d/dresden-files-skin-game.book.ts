@@ -5,7 +5,6 @@ export const dresdenFilesSkinGame = {
   pageTypeSlug: "book",
   slug: "dresden-files-skin-game",
   title: "Dresden Files: Skin Game",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher, James Marsters",
   unitSlug: "words",

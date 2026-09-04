@@ -5,7 +5,6 @@ export const leadershipAndSelfDeception = {
   pageTypeSlug: "book",
   slug: "leadership-and-self-deception",
   title: "Leadership and Self-Deception",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Ivan Scott",

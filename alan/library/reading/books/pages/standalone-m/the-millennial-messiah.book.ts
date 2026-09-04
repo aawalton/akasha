@@ -5,7 +5,6 @@ export const theMillennialMessiah = {
   pageTypeSlug: "book",
   slug: "the-millennial-messiah",
   title: "The Millennial Messiah",
-  kind: "read",
   status: "not-started",
   author: "Bruce R. McConkie",
   unitSlug: "words",

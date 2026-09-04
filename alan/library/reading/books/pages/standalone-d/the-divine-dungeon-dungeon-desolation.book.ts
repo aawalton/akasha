@@ -5,7 +5,6 @@ export const theDivineDungeonDungeonDesolation = {
   pageTypeSlug: "book",
   slug: "the-divine-dungeon-dungeon-desolation",
   title: "The Divine Dungeon: Dungeon Desolation",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

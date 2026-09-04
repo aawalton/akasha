@@ -5,7 +5,6 @@ export const wiredToCreate = {
   pageTypeSlug: "book",
   slug: "wired-to-create",
   title: "Wired to Create",
-  kind: "read",
   status: "not-started",
   author: "Scott Barry Kaufman",
   unitSlug: "words",

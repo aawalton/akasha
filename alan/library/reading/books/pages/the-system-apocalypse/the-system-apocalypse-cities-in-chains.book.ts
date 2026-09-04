@@ -5,7 +5,6 @@ export const theSystemApocalypseCitiesInChains = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-cities-in-chains",
   title: "The System Apocalypse: Cities in Chains",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

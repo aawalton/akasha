@@ -5,7 +5,6 @@ export const documentsVolume10 = {
   pageTypeSlug: "book",
   slug: "documents-volume-10",
   title: "Documents Volume 10",
-  kind: "read",
   status: "not-started",
   author: "Saint 1581-1660 Vincent De Paul",
   unitSlug: "words",

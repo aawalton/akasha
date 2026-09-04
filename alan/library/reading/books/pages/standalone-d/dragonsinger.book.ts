@@ -5,7 +5,6 @@ export const dragonsinger = {
   pageTypeSlug: "book",
   slug: "dragonsinger",
   title: "Dragonsinger",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

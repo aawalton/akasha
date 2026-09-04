@@ -5,7 +5,6 @@ export const collectedDiscoursesVolume4 = {
   pageTypeSlug: "book",
   slug: "collected-discourses-volume-4",
   title: "Collected Discourses Volume 4",
-  kind: "read",
   status: "not-started",
   author: "Arthur Conan Doyle",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const perilAtEndHouse = {
   pageTypeSlug: "book",
   slug: "peril-at-end-house",
   title: "Peril at End House",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

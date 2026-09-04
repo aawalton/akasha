@@ -5,7 +5,6 @@ export const somniaOnlineFragments = {
   pageTypeSlug: "book",
   slug: "somnia-online-fragments",
   title: "Somnia Online: Fragments",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

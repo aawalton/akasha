@@ -5,7 +5,6 @@ export const range = {
   pageTypeSlug: "book",
   slug: "range",
   title: "Range",
-  kind: "read",
   status: "not-started",
   author: "David J. Epstein",
   unitSlug: "words",

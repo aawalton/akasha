@@ -5,7 +5,6 @@ export const ultimateLevel1NewFreedoms = {
   pageTypeSlug: "book",
   slug: "ultimate-level-1-new-freedoms",
   title: "Ultimate Level 1: New Freedoms",
-  kind: "read",
   status: "completed",
   author: "Washington Irving",
   unitSlug: "words",

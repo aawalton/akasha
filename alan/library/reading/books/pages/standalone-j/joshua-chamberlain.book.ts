@@ -5,7 +5,6 @@ export const joshuaChamberlain = {
   pageTypeSlug: "book",
   slug: "joshua-chamberlain",
   title: "Joshua Chamberlain",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "John J. Pullen",

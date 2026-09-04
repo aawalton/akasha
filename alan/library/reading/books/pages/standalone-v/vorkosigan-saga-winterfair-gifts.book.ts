@@ -5,7 +5,6 @@ export const vorkosiganSagaWinterfairGifts = {
   pageTypeSlug: "book",
   slug: "vorkosigan-saga-winterfair-gifts",
   title: "Vorkosigan Saga: Winterfair Gifts",
-  kind: "read",
   status: "not-started",
   author: "Lois McMaster Bujold",
   unitSlug: "words",

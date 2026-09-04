@@ -5,7 +5,6 @@ export const discworldJingo = {
   pageTypeSlug: "book",
   slug: "discworld-jingo",
   title: "Discworld: Jingo",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

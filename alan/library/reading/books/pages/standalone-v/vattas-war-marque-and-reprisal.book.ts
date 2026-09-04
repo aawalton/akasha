@@ -5,7 +5,6 @@ export const vattasWarMarqueAndReprisal = {
   pageTypeSlug: "book",
   slug: "vattas-war-marque-and-reprisal",
   title: "Vatta's War: Marque and Reprisal",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

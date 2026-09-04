@@ -5,7 +5,6 @@ export const theWayOfTheShamanClansWar = {
   pageTypeSlug: "book",
   slug: "the-way-of-the-shaman-clans-war",
   title: "The Way of the Shaman: Clans War",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

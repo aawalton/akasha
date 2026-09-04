@@ -5,7 +5,6 @@ export const theFellowshipOfTheRing = {
   pageTypeSlug: "book",
   slug: "the-fellowship-of-the-ring",
   title: "The Fellowship of the Ring",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "J.R.R. Tolkien",

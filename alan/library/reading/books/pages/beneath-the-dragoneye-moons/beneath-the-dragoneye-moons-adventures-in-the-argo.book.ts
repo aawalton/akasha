@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsAdventuresInTheArgo = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-adventures-in-the-argo",
   title: "Beneath the Dragoneye Moons: Adventures in the Argo",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

@@ -5,7 +5,6 @@ export const pyresoulsApocalypseRewind = {
   pageTypeSlug: "book",
   slug: "pyresouls-apocalypse-rewind",
   title: "Pyresouls Apocalypse: Rewind",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

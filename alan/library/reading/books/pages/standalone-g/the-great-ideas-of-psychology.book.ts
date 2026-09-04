@@ -5,7 +5,6 @@ export const theGreatIdeasOfPsychology = {
   pageTypeSlug: "book",
   slug: "the-great-ideas-of-psychology",
   title: "The Great Ideas of Psychology",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

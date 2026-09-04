@@ -5,7 +5,6 @@ export const discworldNightWatch = {
   pageTypeSlug: "book",
   slug: "discworld-night-watch",
   title: "Discworld: Night Watch",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

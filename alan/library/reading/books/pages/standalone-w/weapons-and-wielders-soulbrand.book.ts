@@ -5,7 +5,6 @@ export const weaponsAndWieldersSoulbrand = {
   pageTypeSlug: "book",
   slug: "weapons-and-wielders-soulbrand",
   title: "Weapons and Wielders: Soulbrand",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

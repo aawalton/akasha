@@ -5,7 +5,6 @@ export const theAnxiousGeneration = {
   pageTypeSlug: "book",
   slug: "the-anxious-generation",
   title: "The Anxious Generation",
-  kind: "read",
   status: "not-started",
   author: "Jonathan Haidt",
   unitSlug: "words",

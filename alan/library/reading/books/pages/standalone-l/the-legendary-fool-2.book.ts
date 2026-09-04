@@ -5,7 +5,6 @@ export const theLegendaryFool2 = {
   pageTypeSlug: "book",
   slug: "the-legendary-fool-2",
   title: "The Legendary Fool 2",
-  kind: "read",
   status: "not-started",
   author: "Ali Jamnia",
   unitSlug: "words",

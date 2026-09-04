@@ -5,7 +5,6 @@ export const robertLangdonOrigin = {
   pageTypeSlug: "book",
   slug: "robert-langdon-origin",
   title: "Robert Langdon: Origin",
-  kind: "read",
   status: "not-started",
   author: "Dan Brown",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const beastborneChroniclesVoracious = {
   pageTypeSlug: "book",
   slug: "beastborne-chronicles-voracious",
   title: "Beastborne Chronicles: Voracious",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

@@ -5,7 +5,6 @@ export const infiniteRealmThePriceOfPower = {
   pageTypeSlug: "book",
   slug: "infinite-realm-the-price-of-power",
   title: "Infinite Realm: The Price of Power",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

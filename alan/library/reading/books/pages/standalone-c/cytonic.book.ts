@@ -5,7 +5,6 @@ export const cytonic = {
   pageTypeSlug: "book",
   slug: "cytonic",
   title: "Cytonic",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

@@ -5,7 +5,6 @@ export const theArtOfThinkingClearly = {
   pageTypeSlug: "book",
   slug: "the-art-of-thinking-clearly",
   title: "The Art of Thinking Clearly",
-  kind: "read",
   status: "not-started",
   author: "Rolf Dobelli, Rolf Dobelli",
   unitSlug: "words",

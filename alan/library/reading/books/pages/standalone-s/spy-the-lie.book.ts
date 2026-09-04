@@ -5,7 +5,6 @@ export const spyTheLie = {
   pageTypeSlug: "book",
   slug: "spy-the-lie",
   title: "Spy the Lie",
-  kind: "read",
   status: "not-started",
   author: "Philip Houston",
   unitSlug: "words",

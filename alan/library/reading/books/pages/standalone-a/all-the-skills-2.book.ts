@@ -5,7 +5,6 @@ export const allTheSkills2 = {
   pageTypeSlug: "book",
   slug: "all-the-skills-2",
   title: "All The Skills 2",
-  kind: "read",
   status: "completed",
   author:
     "Jan Hirshberg, Carl Bereiter, Marlene Scardamalia, Ann Brown, Valerie Anderson, Joseph Campione, Walter Kintsch",

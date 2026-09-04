@@ -5,7 +5,6 @@ export const runelordsBrotherhoodOfTheWolf = {
   pageTypeSlug: "book",
   slug: "runelords-brotherhood-of-the-wolf",
   title: "Runelords: Brotherhood of the Wolf",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

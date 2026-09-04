@@ -5,7 +5,6 @@ export const milesVorsokiganFallingFree = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-falling-free",
   title: "Miles Vorsokigan: Falling Free",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

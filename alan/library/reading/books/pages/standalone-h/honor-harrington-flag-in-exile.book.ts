@@ -5,7 +5,6 @@ export const honorHarringtonFlagInExile = {
   pageTypeSlug: "book",
   slug: "honor-harrington-flag-in-exile",
   title: "Honor Harrington: Flag in Exile",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

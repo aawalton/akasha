@@ -5,7 +5,6 @@ export const theSpokenMageVoiceOfLife = {
   pageTypeSlug: "book",
   slug: "the-spoken-mage-voice-of-life",
   title: "The Spoken Mage: Voice of Life",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

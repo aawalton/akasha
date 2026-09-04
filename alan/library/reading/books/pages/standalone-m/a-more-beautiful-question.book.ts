@@ -5,7 +5,6 @@ export const aMoreBeautifulQuestion = {
   pageTypeSlug: "book",
   slug: "a-more-beautiful-question",
   title: "A More Beautiful Question",
-  kind: "read",
   status: "not-started",
   author: "Warren Berger",
   unitSlug: "words",

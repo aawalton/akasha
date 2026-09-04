@@ -5,7 +5,6 @@ export const swordArtOnlineAlternativeGunGaleOnlineOneSummerDay = {
   pageTypeSlug: "book",
   slug: "sword-art-online-alternative-gun-gale-online-one-summer-day",
   title: "Sword Art Online Alternative Gun Gale Online: One Summer Day",
-  kind: "read",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
   unitSlug: "words",

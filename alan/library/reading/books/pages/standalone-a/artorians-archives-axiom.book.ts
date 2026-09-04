@@ -5,7 +5,6 @@ export const artoriansArchivesAxiom = {
   pageTypeSlug: "book",
   slug: "artorians-archives-axiom",
   title: "Artorian's Archives: Axiom",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

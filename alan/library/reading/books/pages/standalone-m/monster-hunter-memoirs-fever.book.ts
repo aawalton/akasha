@@ -5,7 +5,6 @@ export const monsterHunterMemoirsFever = {
   pageTypeSlug: "book",
   slug: "monster-hunter-memoirs-fever",
   title: "Monster Hunter Memoirs: Fever",
-  kind: "read",
   status: "not-started",
   author: "Larry Correia, John Ringo, Oliver Wyman",
   unitSlug: "words",

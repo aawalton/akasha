@@ -5,7 +5,6 @@ export const evenAsIAm = {
   pageTypeSlug: "book",
   slug: "even-as-i-am",
   title: "Even As I Am",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

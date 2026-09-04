@@ -5,7 +5,6 @@ export const ultimateLevel1UltimateTruths = {
   pageTypeSlug: "book",
   slug: "ultimate-level-1-ultimate-truths",
   title: "Ultimate Level 1: Ultimate Truths",
-  kind: "read",
   status: "completed",
   author: "Charles Dickens",
   unitSlug: "words",

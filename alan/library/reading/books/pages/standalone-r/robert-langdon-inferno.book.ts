@@ -5,7 +5,6 @@ export const robertLangdonInferno = {
   pageTypeSlug: "book",
   slug: "robert-langdon-inferno",
   title: "Robert Langdon: Inferno",
-  kind: "read",
   status: "not-started",
   author: "Dan Brown",
   unitSlug: "words",

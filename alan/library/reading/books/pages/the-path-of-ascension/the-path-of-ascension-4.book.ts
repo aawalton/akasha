@@ -5,7 +5,6 @@ export const thePathOfAscension4 = {
   pageTypeSlug: "book",
   slug: "the-path-of-ascension-4",
   title: "The Path of Ascension 4",
-  kind: "read",
   status: "completed",
   author: "C. Mantis",
   unitSlug: "words",

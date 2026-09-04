@@ -5,7 +5,6 @@ export const flourish = {
   pageTypeSlug: "book",
   slug: "flourish",
   title: "Flourish",
-  kind: "read",
   status: "not-started",
   author: "Martin Elias Pete Seligman",
   unitSlug: "words",

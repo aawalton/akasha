@@ -5,7 +5,6 @@ export const margaretHerFirst75Years = {
   pageTypeSlug: "book",
   slug: "margaret-her-first-75-years",
   title: "Margaret: Her First 75 Years",
-  kind: "read",
   status: "not-started",
   author: "William Shakespeare",
   unitSlug: "words",

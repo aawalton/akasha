@@ -5,7 +5,6 @@ export const discworldPyramids = {
   pageTypeSlug: "book",
   slug: "discworld-pyramids",
   title: "Discworld: Pyramids",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

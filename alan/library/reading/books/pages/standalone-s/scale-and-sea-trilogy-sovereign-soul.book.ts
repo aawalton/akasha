@@ -5,7 +5,6 @@ export const scaleAndSeaTrilogySovereignSoul = {
   pageTypeSlug: "book",
   slug: "scale-and-sea-trilogy-sovereign-soul",
   title: "Scale & Sea Trilogy: Sovereign Soul",
-  kind: "read",
   status: "completed",
   rank: "C",
   unitSlug: "words",

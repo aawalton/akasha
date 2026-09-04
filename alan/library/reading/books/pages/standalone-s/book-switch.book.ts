@@ -5,7 +5,6 @@ export const bookSwitch = {
   pageTypeSlug: "book",
   slug: "book-switch",
   title: "Switch",
-  kind: "read",
   status: "not-started",
   author: "Robert Lawrence Stine",
   unitSlug: "words",

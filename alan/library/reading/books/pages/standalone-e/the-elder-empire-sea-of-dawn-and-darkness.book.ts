@@ -5,7 +5,6 @@ export const theElderEmpireSeaOfDawnAndDarkness = {
   pageTypeSlug: "book",
   slug: "the-elder-empire-sea-of-dawn-and-darkness",
   title: "The Elder Empire - Sea: Of Dawn and Darkness",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

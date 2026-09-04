@@ -5,7 +5,6 @@ export const bunnyGirlEvolution3 = {
   pageTypeSlug: "book",
   slug: "bunny-girl-evolution-3",
   title: "Bunny Girl Evolution 3",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

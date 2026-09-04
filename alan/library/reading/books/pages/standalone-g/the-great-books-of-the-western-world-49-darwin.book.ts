@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld49Darwin = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-49-darwin",
   title: "The Great Books of the Western World 49: Darwin",
-  kind: "read",
   status: "not-started",
   author: "Charles Darwin",
   unitSlug: "words",

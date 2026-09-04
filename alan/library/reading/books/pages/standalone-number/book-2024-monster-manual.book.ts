@@ -5,7 +5,6 @@ export const book2024MonsterManual = {
   pageTypeSlug: "book",
   slug: "book-2024-monster-manual",
   title: "2024 Monster Manual",
-  kind: "read",
   status: "not-started",
   author: "Robert Louis Stevenson",
   unitSlug: "words",

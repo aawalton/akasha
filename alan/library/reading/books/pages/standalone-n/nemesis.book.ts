@@ -5,7 +5,6 @@ export const nemesis = {
   pageTypeSlug: "book",
   slug: "nemesis",
   title: "Nemesis",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const learnedOptimism = {
   pageTypeSlug: "book",
   slug: "learned-optimism",
   title: "Learned Optimism",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Martin Elias Pete Seligman",

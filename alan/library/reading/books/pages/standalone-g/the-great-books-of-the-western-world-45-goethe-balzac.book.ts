@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld45GoetheBalzac = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-45-goethe-balzac",
   title: "The Great Books of the Western World 45: Goethe, Balzac",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 45,

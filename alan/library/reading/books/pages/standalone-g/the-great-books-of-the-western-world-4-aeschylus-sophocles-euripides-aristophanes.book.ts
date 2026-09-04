@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld4AeschylusSophoclesEuripidesAristopha
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-4-aeschylus-sophocles-euripides-aristophanes",
   title: "The Great Books of the Western World 4: Aeschylus, Sophocles, Euripides, Aristophanes",
-  kind: "read",
   status: "paused",
   unitSlug: "words",
   position: 4,

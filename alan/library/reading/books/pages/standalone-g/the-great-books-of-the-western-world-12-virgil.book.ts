@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld12Virgil = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-12-virgil",
   title: "The Great Books of the Western World 12: Virgil",
-  kind: "read",
   status: "not-started",
   author: "Όμηρος",
   unitSlug: "words",

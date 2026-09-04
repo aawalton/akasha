@@ -5,7 +5,6 @@ export const dresdenFilesColdDays = {
   pageTypeSlug: "book",
   slug: "dresden-files-cold-days",
   title: "Dresden Files: Cold Days",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher, James Marsters",
   unitSlug: "words",

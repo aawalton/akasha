@@ -5,7 +5,6 @@ export const byThePrickingOfMyThumbs = {
   pageTypeSlug: "book",
   slug: "by-the-pricking-of-my-thumbs",
   title: "By the Pricking of My Thumbs",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

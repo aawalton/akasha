@@ -5,7 +5,6 @@ export const timetablesOfHistory = {
   pageTypeSlug: "book",
   slug: "timetables-of-history",
   title: "Timetables of History",
-  kind: "read",
   status: "not-started",
   author: "Bernard Grun",
   unitSlug: "words",

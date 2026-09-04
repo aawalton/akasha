@@ -5,7 +5,6 @@ export const safeholdThroughFieryTrials = {
   pageTypeSlug: "book",
   slug: "safehold-through-fiery-trials",
   title: "Safehold: Through Fiery Trials",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const nudge = {
   pageTypeSlug: "book",
   slug: "nudge",
   title: "Nudge",
-  kind: "read",
   status: "not-started",
   author: "Richard H. Thaler, Cass R. Sunstein",
   unitSlug: "words",

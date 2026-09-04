@@ -5,7 +5,6 @@ export const salvosThePlaguelands = {
   pageTypeSlug: "book",
   slug: "salvos-the-plaguelands",
   title: "Salvos: The Plaguelands",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

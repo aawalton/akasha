@@ -5,7 +5,6 @@ export const theAlchemicWeaponeerViridianGateOnline = {
   pageTypeSlug: "book",
   slug: "the-alchemic-weaponeer-viridian-gate-online",
   title: "The Alchemic Weaponeer: Viridian Gate Online",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

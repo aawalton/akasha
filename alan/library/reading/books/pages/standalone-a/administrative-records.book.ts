@@ -5,7 +5,6 @@ export const administrativeRecords = {
   pageTypeSlug: "book",
   slug: "administrative-records",
   title: "Administrative Records",
-  kind: "read",
   status: "not-started",
   author: "Asaph Young Chun, Michael D. Larsen",
   unitSlug: "words",

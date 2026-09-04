@@ -5,7 +5,6 @@ export const sagewoodIntoTheCaves = {
   pageTypeSlug: "book",
   slug: "sagewood-into-the-caves",
   title: "Sagewood: Into the Caves",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

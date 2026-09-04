@@ -5,7 +5,6 @@ export const theMovingFinger = {
   pageTypeSlug: "book",
   slug: "the-moving-finger",
   title: "The Moving Finger",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

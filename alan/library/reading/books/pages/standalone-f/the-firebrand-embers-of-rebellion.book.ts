@@ -5,7 +5,6 @@ export const theFirebrandEmbersOfRebellion = {
   pageTypeSlug: "book",
   slug: "the-firebrand-embers-of-rebellion",
   title: "The Firebrand: Embers of Rebellion",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

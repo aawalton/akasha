@@ -5,7 +5,6 @@ export const aNewWitnessForTheArticlesOfFaith = {
   pageTypeSlug: "book",
   slug: "a-new-witness-for-the-articles-of-faith",
   title: "A New Witness for the Articles of Faith",
-  kind: "read",
   status: "not-started",
   author: "Bruce R. McConkie",
   unitSlug: "words",

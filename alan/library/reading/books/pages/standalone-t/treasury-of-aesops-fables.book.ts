@@ -5,7 +5,6 @@ export const treasuryOfAesopsFables = {
   pageTypeSlug: "book",
   slug: "treasury-of-aesops-fables",
   title: "Treasury of Aesop's Fables",
-  kind: "read",
   status: "not-started",
   author: "Val Biro",
   unitSlug: "words",

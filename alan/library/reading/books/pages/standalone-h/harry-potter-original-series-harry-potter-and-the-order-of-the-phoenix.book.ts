@@ -5,7 +5,6 @@ export const harryPotterOriginalSeriesHarryPotterAndTheOrderOfThePhoenix = {
   pageTypeSlug: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-order-of-the-phoenix",
   title: "Harry Potter Original Series: Harry Potter and the Order of the Phoenix",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

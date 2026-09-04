@@ -5,7 +5,6 @@ export const fireflight = {
   pageTypeSlug: "book",
   slug: "fireflight",
   title: "Fireflight",
-  kind: "read",
   status: "not-started",
   author: "Gregory Grayson",
   unitSlug: "words",

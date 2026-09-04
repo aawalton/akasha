@@ -5,7 +5,6 @@ export const bookboundBunnyBooksBookboundBunny1 = {
   pageTypeSlug: "book",
   slug: "bookbound-bunny-books-bookbound-bunny-1",
   title: "Bookbound Bunny Books: Bookbound Bunny 1",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 234750,

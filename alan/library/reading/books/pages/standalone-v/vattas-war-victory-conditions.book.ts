@@ -5,7 +5,6 @@ export const vattasWarVictoryConditions = {
   pageTypeSlug: "book",
   slug: "vattas-war-victory-conditions",
   title: "Vatta's War: Victory Conditions",
-  kind: "read",
   status: "not-started",
   author: "Elizabeth Moon",
   unitSlug: "words",

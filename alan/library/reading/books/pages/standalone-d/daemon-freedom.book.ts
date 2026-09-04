@@ -5,7 +5,6 @@ export const daemonFreedom = {
   pageTypeSlug: "book",
   slug: "daemon-freedom",
   title: "Daemon: Freedom",
-  kind: "read",
   status: "not-started",
   author: "François-René de Chateaubriand",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const book12RulesForLife = {
   pageTypeSlug: "book",
   slug: "book-12-rules-for-life",
   title: "12 Rules for Life",
-  kind: "read",
   status: "not-started",
   author: "Jordan B. Peterson",
   unitSlug: "words",

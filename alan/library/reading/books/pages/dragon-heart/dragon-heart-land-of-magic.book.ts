@@ -5,7 +5,6 @@ export const dragonHeartLandOfMagic = {
   pageTypeSlug: "book",
   slug: "dragon-heart-land-of-magic",
   title: "Dragon Heart: Land of Magic",
-  kind: "read",
   status: "completed",
   author: "Nick Roberts, Greg Kramer",
   unitSlug: "words",

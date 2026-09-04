@@ -5,7 +5,6 @@ export const milesVorsokiganEthanOfAthos = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-ethan-of-athos",
   title: "Miles Vorsokigan: Ethan of Athos",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

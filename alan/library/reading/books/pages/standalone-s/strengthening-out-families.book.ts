@@ -5,7 +5,6 @@ export const strengtheningOutFamilies = {
   pageTypeSlug: "book",
   slug: "strengthening-out-families",
   title: "Strengthening Out Families",
-  kind: "read",
   status: "paused",
   author: "William R. Beardslee",
   unitSlug: "words",

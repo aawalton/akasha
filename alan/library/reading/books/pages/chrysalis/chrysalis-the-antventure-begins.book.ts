@@ -5,7 +5,6 @@ export const chrysalisTheAntventureBegins = {
   pageTypeSlug: "book",
   slug: "chrysalis-the-antventure-begins",
   title: "Chrysalis: The Antventure Begins",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

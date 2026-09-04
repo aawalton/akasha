@@ -5,7 +5,6 @@ export const realityIsBroken = {
   pageTypeSlug: "book",
   slug: "reality-is-broken",
   title: "Reality Is Broken",
-  kind: "read",
   status: "not-started",
   author: "Jane McGonigal",
   unitSlug: "words",

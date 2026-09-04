@@ -5,7 +5,6 @@ export const meekAndLowly = {
   pageTypeSlug: "book",
   slug: "meek-and-lowly",
   title: "Meek and Lowly",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

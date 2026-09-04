@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld31MoliereRacine = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-31-moliere-racine",
   title: "The Great Books of the Western World 31: Moliere, Racine",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 31,

@@ -5,7 +5,6 @@ export const dragonHeartSeaOfSand = {
   pageTypeSlug: "book",
   slug: "dragon-heart-sea-of-sand",
   title: "Dragon Heart: Sea of Sand",
-  kind: "read",
   status: "completed",
   author: "George R. R. Martin",
   unitSlug: "words",

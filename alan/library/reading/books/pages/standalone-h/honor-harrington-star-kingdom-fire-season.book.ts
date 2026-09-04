@@ -5,7 +5,6 @@ export const honorHarringtonStarKingdomFireSeason = {
   pageTypeSlug: "book",
   slug: "honor-harrington-star-kingdom-fire-season",
   title: "Honor Harrington - Star Kingdom: Fire Season",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

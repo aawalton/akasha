@@ -5,7 +5,6 @@ export const atomicHabits = {
   pageTypeSlug: "book",
   slug: "atomic-habits",
   title: "Atomic Habits",
-  kind: "read",
   status: "not-started",
   author: "James Clear",
   unitSlug: "words",

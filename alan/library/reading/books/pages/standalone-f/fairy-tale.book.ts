@@ -5,7 +5,6 @@ export const fairyTale = {
   pageTypeSlug: "book",
   slug: "fairy-tale",
   title: "Fairy Tale",
-  kind: "read",
   status: "completed",
   author: "Stephen King",
   unitSlug: "words",

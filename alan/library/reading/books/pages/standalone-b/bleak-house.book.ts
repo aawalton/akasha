@@ -5,7 +5,6 @@ export const bleakHouse = {
   pageTypeSlug: "book",
   slug: "bleak-house",
   title: "Bleak House",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

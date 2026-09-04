@@ -5,7 +5,6 @@ export const madeToStick = {
   pageTypeSlug: "book",
   slug: "made-to-stick",
   title: "Made to Stick",
-  kind: "read",
   status: "not-started",
   author: "Chip Heath, Dan Heath, ʻAlizah Raʻanan",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld15PtolemyCopernicusKepler = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-15-ptolemy-copernicus-kepler",
   title: "The Great Books of the Western World 15: Ptolemy, Copernicus, Kepler",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 15,

@@ -5,7 +5,6 @@ export const theSystemApocalypseLifeInTheNorth = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-life-in-the-north",
   title: "The System Apocalypse: Life in the North",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

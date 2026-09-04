@@ -5,7 +5,6 @@ export const swordArtOnlineAlternativeCloversRegret3 = {
   pageTypeSlug: "book",
   slug: "sword-art-online-alternative-clovers-regret-3",
   title: "Sword Art Online Alternative Clover's Regret",
-  kind: "read",
   status: "not-started",
   author: "Soichiro Watase, Ginta, Stephen Paul",
   unitSlug: "words",

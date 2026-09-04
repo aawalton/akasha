@@ -5,7 +5,6 @@ export const janeEyre = {
   pageTypeSlug: "book",
   slug: "jane-eyre",
   title: "Jane Eyre",
-  kind: "read",
   status: "not-started",
   author: "Charlotte Brontë",
   unitSlug: "words",

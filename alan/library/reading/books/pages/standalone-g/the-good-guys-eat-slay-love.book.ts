@@ -5,7 +5,6 @@ export const theGoodGuysEatSlayLove = {
   pageTypeSlug: "book",
   slug: "the-good-guys-eat-slay-love",
   title: "The Good Guys: Eat, Slay, Love",
-  kind: "read",
   status: "completed",
   author: "Winsor McCay",
   unitSlug: "words",

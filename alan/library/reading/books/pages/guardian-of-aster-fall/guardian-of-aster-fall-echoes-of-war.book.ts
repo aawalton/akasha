@@ -5,7 +5,6 @@ export const guardianOfAsterFallEchoesOfWar = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-echoes-of-war",
   title: "Guardian of Aster Fall: Echoes of War",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

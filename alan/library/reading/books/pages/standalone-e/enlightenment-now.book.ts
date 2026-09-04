@@ -5,7 +5,6 @@ export const enlightenmentNow = {
   pageTypeSlug: "book",
   slug: "enlightenment-now",
   title: "Enlightenment Now",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "Steven Pinker, Pablo Hermida Lazcano",

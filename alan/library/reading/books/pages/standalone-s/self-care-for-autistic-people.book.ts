@@ -5,7 +5,6 @@ export const selfCareForAutisticPeople = {
   pageTypeSlug: "book",
   slug: "self-care-for-autistic-people",
   title: "Self-Care for Autistic People",
-  kind: "read",
   status: "not-started",
   author: "Megan Anna Neff",
   unitSlug: "words",

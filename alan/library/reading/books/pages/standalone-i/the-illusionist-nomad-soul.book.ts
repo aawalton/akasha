@@ -5,7 +5,6 @@ export const theIllusionistNomadSoul = {
   pageTypeSlug: "book",
   slug: "the-illusionist-nomad-soul",
   title: "The Illusionist: Nomad Soul",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

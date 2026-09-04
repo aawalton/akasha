@@ -5,7 +5,6 @@ export const monsterHunterMemoirsSinners = {
   pageTypeSlug: "book",
   slug: "monster-hunter-memoirs-sinners",
   title: "Monster Hunter Memoirs: Sinners",
-  kind: "read",
   status: "not-started",
   author: "Larry Correia, John Ringo",
   unitSlug: "words",

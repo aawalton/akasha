@@ -5,7 +5,6 @@ export const ultimateLevel1DivineCreation = {
   pageTypeSlug: "book",
   slug: "ultimate-level-1-divine-creation",
   title: "Ultimate Level 1: Divine Creation",
-  kind: "read",
   status: "completed",
   author: "Shawn Wilson",
   unitSlug: "words",

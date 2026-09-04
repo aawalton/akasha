@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsMoonfall = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-moonfall",
   title: "Beneath the Dragoneye Moons: Moonfall",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 13,

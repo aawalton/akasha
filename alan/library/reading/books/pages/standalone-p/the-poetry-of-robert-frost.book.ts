@@ -5,7 +5,6 @@ export const thePoetryOfRobertFrost = {
   pageTypeSlug: "book",
   slug: "the-poetry-of-robert-frost",
   title: "The Poetry of Robert Frost",
-  kind: "read",
   status: "paused",
   author: "Robert Frost",
   unitSlug: "words",

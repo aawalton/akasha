@@ -5,7 +5,6 @@ export const warGodTheWarGodsOwn = {
   pageTypeSlug: "book",
   slug: "war-god-the-war-gods-own",
   title: "War God: The War God's Own",
-  kind: "read",
   status: "not-started",
   author: "David Weber, Nick Sullivan",
   unitSlug: "words",

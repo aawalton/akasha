@@ -5,7 +5,6 @@ export const wheelOfTimeKnifeOfDreams = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-knife-of-dreams",
   title: "Wheel of Time: Knife of Dreams",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

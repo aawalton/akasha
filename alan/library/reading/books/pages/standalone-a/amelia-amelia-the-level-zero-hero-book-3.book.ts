@@ -5,7 +5,6 @@ export const ameliaAmeliaTheLevelZeroHeroBook3 = {
   pageTypeSlug: "book",
   slug: "amelia-amelia-the-level-zero-hero-book-3",
   title: "Amelia: Amelia the Level Zero Hero Book 3",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

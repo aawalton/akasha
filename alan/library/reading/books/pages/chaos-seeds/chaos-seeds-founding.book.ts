@@ -5,7 +5,6 @@ export const chaosSeedsFounding = {
   pageTypeSlug: "book",
   slug: "chaos-seeds-founding",
   title: "Chaos Seeds: Founding",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Aleron Kong",

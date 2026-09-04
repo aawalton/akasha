@@ -5,7 +5,6 @@ export const pernDragonsdawn = {
   pageTypeSlug: "book",
   slug: "pern-dragonsdawn",
   title: "Pern: Dragonsdawn",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

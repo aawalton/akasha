@@ -5,7 +5,6 @@ export const disgardiumWhispersOfTheNether = {
   pageTypeSlug: "book",
   slug: "disgardium-whispers-of-the-nether",
   title: "Disgardium: Whispers of the Nether",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 13,

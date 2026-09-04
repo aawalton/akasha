@@ -5,7 +5,6 @@ export const lordEdgwareDies = {
   pageTypeSlug: "book",
   slug: "lord-edgware-dies",
   title: "Lord Edgware Dies",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

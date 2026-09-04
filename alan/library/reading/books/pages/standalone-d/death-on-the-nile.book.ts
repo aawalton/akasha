@@ -5,7 +5,6 @@ export const deathOnTheNile = {
   pageTypeSlug: "book",
   slug: "death-on-the-nile",
   title: "Death on the Nile",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

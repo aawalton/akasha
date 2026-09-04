@@ -5,7 +5,6 @@ export const runelordsTheWyrmlingHorde = {
   pageTypeSlug: "book",
   slug: "runelords-the-wyrmling-horde",
   title: "Runelords: The Wyrmling Horde",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

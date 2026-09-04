@@ -5,7 +5,6 @@ export const saintsSoundedInEveryEar = {
   pageTypeSlug: "book",
   slug: "saints-sounded-in-every-ear",
   title: "Saints: Sounded in Every Ear",
-  kind: "read",
   status: "not-started",
   author: "The Church of Jesus Christ of Latter-day Saints",
   unitSlug: "words",

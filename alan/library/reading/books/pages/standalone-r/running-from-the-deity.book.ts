@@ -5,7 +5,6 @@ export const runningFromTheDeity = {
   pageTypeSlug: "book",
   slug: "running-from-the-deity",
   title: "Running from the Deity",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

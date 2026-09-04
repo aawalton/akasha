@@ -5,7 +5,6 @@ export const sagewoodRestoreTheBalance = {
   pageTypeSlug: "book",
   slug: "sagewood-restore-the-balance",
   title: "Sagewood: Restore the Balance",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

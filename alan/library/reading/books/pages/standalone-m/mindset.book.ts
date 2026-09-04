@@ -5,7 +5,6 @@ export const mindset = {
   pageTypeSlug: "book",
   slug: "mindset",
   title: "Mindset",
-  kind: "read",
   status: "not-started",
   author: "Carol S. Dweck",
   unitSlug: "words",

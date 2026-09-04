@@ -5,7 +5,6 @@ export const robertLangdonTheDaVinciCode = {
   pageTypeSlug: "book",
   slug: "robert-langdon-the-da-vinci-code",
   title: "Robert Langdon: The Da Vinci Code",
-  kind: "read",
   status: "not-started",
   author: "Dan Brown",
   unitSlug: "words",

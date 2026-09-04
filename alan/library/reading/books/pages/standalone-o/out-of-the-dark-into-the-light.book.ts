@@ -5,7 +5,6 @@ export const outOfTheDarkIntoTheLight = {
   pageTypeSlug: "book",
   slug: "out-of-the-dark-into-the-light",
   title: "Out of the Dark: Into the Light",
-  kind: "read",
   status: "not-started",
   author: "Alessia Stewart",
   unitSlug: "words",

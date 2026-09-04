@@ -5,7 +5,6 @@ export const patrimony = {
   pageTypeSlug: "book",
   slug: "patrimony",
   title: "Patrimony",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

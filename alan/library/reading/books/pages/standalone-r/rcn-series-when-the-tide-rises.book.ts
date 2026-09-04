@@ -5,7 +5,6 @@ export const rcnSeriesWhenTheTideRises = {
   pageTypeSlug: "book",
   slug: "rcn-series-when-the-tide-rises",
   title: "RCN Series: When the Tide Rises",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

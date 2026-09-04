@@ -5,7 +5,6 @@ export const wheelOfTimeLordOfChaos = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-lord-of-chaos",
   title: "Wheel of Time: Lord of Chaos",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

@@ -5,7 +5,6 @@ export const safeholdHellsFoundationsQuiver = {
   pageTypeSlug: "book",
   slug: "safehold-hells-foundations-quiver",
   title: "Safehold: Hell's Foundations Quiver",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

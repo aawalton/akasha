@@ -5,7 +5,6 @@ export const sectorGeneralMindChanger = {
   pageTypeSlug: "book",
   slug: "sector-general-mind-changer",
   title: "Sector General: Mind Changer",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

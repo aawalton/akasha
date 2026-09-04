@@ -6,7 +6,6 @@ export const theRuthlessEliminationOfHurry = {
   slug: "the-ruthless-elimination-of-hurry",
   title:
     "The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World",
-  kind: "read",
   status: "not-started",
   author: "John Mark Comer",
   unitSlug: "words",

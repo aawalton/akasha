@@ -5,7 +5,6 @@ export const oneTwoBuckleMyShoe = {
   pageTypeSlug: "book",
   slug: "one-two-buckle-my-shoe",
   title: "One, Two, Buckle My Shoe",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

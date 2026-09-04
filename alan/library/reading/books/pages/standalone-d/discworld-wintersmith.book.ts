@@ -5,7 +5,6 @@ export const discworldWintersmith = {
   pageTypeSlug: "book",
   slug: "discworld-wintersmith",
   title: "Discworld: Wintersmith",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett, Paul Kidby",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const rwbyOfficialMangaAnthologyTheBeaconArc1 = {
   pageTypeSlug: "book",
   slug: "rwby-official-manga-anthology-the-beacon-arc-1",
   title: "RWBY: Official Manga Anthology: The Beacon Arc 1",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

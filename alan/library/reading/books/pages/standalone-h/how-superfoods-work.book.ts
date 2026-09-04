@@ -5,7 +5,6 @@ export const howSuperfoodsWork = {
   pageTypeSlug: "book",
   slug: "how-superfoods-work",
   title: "How Superfoods Work",
-  kind: "read",
   status: "not-started",
   author: "Julie Neville",
   unitSlug: "words",

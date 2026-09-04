@@ -5,7 +5,6 @@ export const bornInTheApocalypse = {
   pageTypeSlug: "book",
   slug: "born-in-the-apocalypse",
   title: "Born in the Apocalypse",
-  kind: "read",
   status: "not-started",
   author: "Joseph Talluto",
   unitSlug: "words",

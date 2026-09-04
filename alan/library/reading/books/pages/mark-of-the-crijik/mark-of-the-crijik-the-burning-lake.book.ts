@@ -5,7 +5,6 @@ export const markOfTheCrijikTheBurningLake = {
   pageTypeSlug: "book",
   slug: "mark-of-the-crijik-the-burning-lake",
   title: "Mark of the Crijik: The Burning Lake",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

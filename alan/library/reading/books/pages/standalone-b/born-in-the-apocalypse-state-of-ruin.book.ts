@@ -5,7 +5,6 @@ export const bornInTheApocalypseStateOfRuin = {
   pageTypeSlug: "book",
   slug: "born-in-the-apocalypse-state-of-ruin",
   title: "Born in the Apocalypse: State Of Ruin",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

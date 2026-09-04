@@ -5,7 +5,6 @@ export const ramaTheGardenOfRama = {
   pageTypeSlug: "book",
   slug: "rama-the-garden-of-rama",
   title: "Rama: The Garden of Rama",
-  kind: "read",
   status: "not-started",
   author: "Arthur C. Clarke, Gentry Lee",
   unitSlug: "words",

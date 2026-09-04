@@ -5,7 +5,6 @@ export const evilUnderTheSun = {
   pageTypeSlug: "book",
   slug: "evil-under-the-sun",
   title: "Evil Under the Sun",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

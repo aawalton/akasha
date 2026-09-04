@@ -5,7 +5,6 @@ export const theGam3SacrificialPieces = {
   pageTypeSlug: "book",
   slug: "the-gam3-sacrificial-pieces",
   title: "The Gam3: Sacrificial Pieces",
-  kind: "read",
   status: "completed",
   author: "Cosimo Yap",
   unitSlug: "words",

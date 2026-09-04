@@ -5,7 +5,6 @@ export const theSystemApocalypseTheCostOfSurvival = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-the-cost-of-survival",
   title: "The System Apocalypse: The Cost of Survival",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

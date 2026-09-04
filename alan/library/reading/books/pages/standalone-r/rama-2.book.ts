@@ -5,7 +5,6 @@ export const rama2 = {
   pageTypeSlug: "book",
   slug: "rama-2",
   title: "Rama 2",
-  kind: "read",
   status: "not-started",
   author: "Arthur C. Clarke, Lee Clarke",
   unitSlug: "words",

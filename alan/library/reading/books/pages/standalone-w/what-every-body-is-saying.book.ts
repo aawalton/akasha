@@ -5,7 +5,6 @@ export const whatEveryBodyIsSaying = {
   pageTypeSlug: "book",
   slug: "what-every-body-is-saying",
   title: "What Every BODY Is Saying",
-  kind: "read",
   status: "not-started",
   author: "Joe Navarro, Marvin Karlins",
   unitSlug: "words",

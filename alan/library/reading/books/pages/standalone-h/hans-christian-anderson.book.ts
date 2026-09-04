@@ -5,7 +5,6 @@ export const hansChristianAnderson = {
   pageTypeSlug: "book",
   slug: "hans-christian-anderson",
   title: "Hans Christian Anderson",
-  kind: "read",
   status: "paused",
   author: "Hans Christian Andersen",
   unitSlug: "words",

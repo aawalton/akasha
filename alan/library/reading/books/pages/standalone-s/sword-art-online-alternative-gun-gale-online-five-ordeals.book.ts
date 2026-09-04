@@ -5,7 +5,6 @@ export const swordArtOnlineAlternativeGunGaleOnlineFiveOrdeals = {
   pageTypeSlug: "book",
   slug: "sword-art-online-alternative-gun-gale-online-five-ordeals",
   title: "Sword Art Online Alternative Gun Gale Online: Five Ordeals",
-  kind: "read",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
   unitSlug: "words",

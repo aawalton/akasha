@@ -5,7 +5,6 @@ export const sectorGeneralAmbulanceShip = {
   pageTypeSlug: "book",
   slug: "sector-general-ambulance-ship",
   title: "Sector General: Ambulance Ship",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

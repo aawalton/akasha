@@ -5,7 +5,6 @@ export const connected = {
   pageTypeSlug: "book",
   slug: "connected",
   title: "Connected",
-  kind: "read",
   status: "not-started",
   author: "Neil Alexander Campbell, Lawrence G. Mitchell, Jane B. Reece",
   unitSlug: "words",

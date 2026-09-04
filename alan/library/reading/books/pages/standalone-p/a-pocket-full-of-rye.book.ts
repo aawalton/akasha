@@ -5,7 +5,6 @@ export const aPocketFullOfRye = {
   pageTypeSlug: "book",
   slug: "a-pocket-full-of-rye",
   title: "A Pocket Full of Rye",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

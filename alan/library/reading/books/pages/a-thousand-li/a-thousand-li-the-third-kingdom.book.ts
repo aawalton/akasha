@@ -5,7 +5,6 @@ export const aThousandLiTheThirdKingdom = {
   pageTypeSlug: "book",
   slug: "a-thousand-li-the-third-kingdom",
   title: "A Thousand Li: The Third Kingdom",
-  kind: "read",
   status: "completed",
   author: "Bible",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const love20 = {
   pageTypeSlug: "book",
   slug: "love-2-0",
   title: "Love 2.0",
-  kind: "read",
   status: "not-started",
   author: "Barbara Fredrickson",
   unitSlug: "words",

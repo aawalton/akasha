@@ -5,7 +5,6 @@ export const safeholdAMightyFortress = {
   pageTypeSlug: "book",
   slug: "safehold-a-mighty-fortress",
   title: "Safehold: A Mighty Fortress",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

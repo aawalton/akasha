@@ -5,7 +5,6 @@ export const warbreaker = {
   pageTypeSlug: "book",
   slug: "warbreaker",
   title: "Warbreaker",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

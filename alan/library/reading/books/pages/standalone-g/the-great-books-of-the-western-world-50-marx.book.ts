@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld50Marx = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-50-marx",
   title: "The Great Books of the Western World 50: Marx",
-  kind: "read",
   status: "not-started",
   author: "Mark Twain",
   unitSlug: "words",

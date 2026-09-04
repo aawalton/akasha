@@ -5,7 +5,6 @@ export const aHistoryOfTheAmericanPeople = {
   pageTypeSlug: "book",
   slug: "a-history-of-the-american-people",
   title: "A History of the American People",
-  kind: "read",
   status: "not-started",
   author: "Paul S. Boyer",
   unitSlug: "words",

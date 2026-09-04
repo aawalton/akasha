@@ -5,7 +5,6 @@ export const mitosis = {
   pageTypeSlug: "book",
   slug: "mitosis",
   title: "Mitosis",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

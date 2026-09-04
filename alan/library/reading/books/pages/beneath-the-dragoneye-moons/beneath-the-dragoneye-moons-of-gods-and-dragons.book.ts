@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsOfGodsAndDragons = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-of-gods-and-dragons",
   title: "Beneath the Dragoneye Moons: Of Gods and Dragons",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 16,

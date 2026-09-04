@@ -5,7 +5,6 @@ export const theBadGuysWarOfThePosers = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-war-of-the-posers",
   title: "The Bad Guys: War of the Posers",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

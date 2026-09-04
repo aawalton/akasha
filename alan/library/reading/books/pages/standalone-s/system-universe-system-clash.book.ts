@@ -5,7 +5,6 @@ export const systemUniverseSystemClash = {
   pageTypeSlug: "book",
   slug: "system-universe-system-clash",
   title: "System Universe: System Clash",
-  kind: "read",
   status: "completed",
   author: "Douglas A. Irwin",
   unitSlug: "words",

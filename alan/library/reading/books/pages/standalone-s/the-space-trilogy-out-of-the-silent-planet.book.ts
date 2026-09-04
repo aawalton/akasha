@@ -5,7 +5,6 @@ export const theSpaceTrilogyOutOfTheSilentPlanet = {
   pageTypeSlug: "book",
   slug: "the-space-trilogy-out-of-the-silent-planet",
   title: "The Space Trilogy: Out of the Silent Planet",
-  kind: "read",
   status: "not-started",
   author: "C. S. Lewis",
   unitSlug: "words",

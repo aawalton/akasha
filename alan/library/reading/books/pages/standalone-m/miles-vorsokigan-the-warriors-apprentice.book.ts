@@ -5,7 +5,6 @@ export const milesVorsokiganTheWarriorsApprentice = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-the-warriors-apprentice",
   title: "Miles Vorsokigan: The Warrior's Apprentice",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

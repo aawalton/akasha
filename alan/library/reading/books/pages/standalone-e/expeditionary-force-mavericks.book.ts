@@ -5,7 +5,6 @@ export const expeditionaryForceMavericks = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-mavericks",
   title: "Expeditionary Force: Mavericks",
-  kind: "read",
   status: "not-started",
   author: "Craig Alanson",
   unitSlug: "words",

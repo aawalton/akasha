@@ -5,7 +5,6 @@ export const theSystemApocalypseWorldUnbound = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-world-unbound",
   title: "The System Apocalypse: World Unbound",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

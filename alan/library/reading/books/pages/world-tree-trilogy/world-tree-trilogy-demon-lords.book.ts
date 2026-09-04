@@ -5,7 +5,6 @@ export const worldTreeTrilogyDemonLords = {
   pageTypeSlug: "book",
   slug: "world-tree-trilogy-demon-lords",
   title: "World-Tree Trilogy: Demon Lords",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

@@ -5,7 +5,6 @@ export const teachingsOfBrighamYoung = {
   pageTypeSlug: "book",
   slug: "teachings-of-brigham-young",
   title: "Teachings of Brigham Young",
-  kind: "read",
   status: "not-started",
   author: "Brigham Young",
   unitSlug: "words",

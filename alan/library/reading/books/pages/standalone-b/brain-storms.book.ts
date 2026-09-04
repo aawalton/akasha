@@ -5,7 +5,6 @@ export const brainStorms = {
   pageTypeSlug: "book",
   slug: "brain-storms",
   title: "Brain Storms",
-  kind: "read",
   status: "not-started",
   author: "Jon Palfreman",
   unitSlug: "words",

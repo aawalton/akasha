@@ -5,7 +5,6 @@ export const menWomenAndWorthiness = {
   pageTypeSlug: "book",
   slug: "men-women-and-worthiness",
   title: "Men, Women, and Worthiness",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brené Brown",

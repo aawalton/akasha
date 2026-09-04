@@ -5,7 +5,6 @@ export const safeholdBySchismRentAsunder = {
   pageTypeSlug: "book",
   slug: "safehold-by-schism-rent-asunder",
   title: "Safehold: By Schism Rent Asunder",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

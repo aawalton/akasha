@@ -5,7 +5,6 @@ export const disgardiumGloryToTheDominion = {
   pageTypeSlug: "book",
   slug: "disgardium-glory-to-the-dominion",
   title: "Disgardium: Glory to the Dominion!",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 9,

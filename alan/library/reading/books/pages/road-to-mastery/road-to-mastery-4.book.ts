@@ -5,7 +5,6 @@ export const roadToMastery4 = {
   pageTypeSlug: "book",
   slug: "road-to-mastery-4",
   title: "Road to Mastery 4",
-  kind: "read",
   status: "completed",
   author: "Valerios",
   unitSlug: "words",

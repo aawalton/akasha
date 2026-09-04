@@ -5,7 +5,6 @@ export const lordIncreaseOurFaith = {
   pageTypeSlug: "book",
   slug: "lord-increase-our-faith",
   title: "Lord, Increase Our Faith",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

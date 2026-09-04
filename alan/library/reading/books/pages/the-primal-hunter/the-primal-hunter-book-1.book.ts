@@ -5,7 +5,6 @@ export const thePrimalHunterBook1 = {
   pageTypeSlug: "book",
   slug: "the-primal-hunter-book-1",
   title: "The Primal Hunter",
-  kind: "read",
   status: "completed",
   author: "Zogarth",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const iThoughtItWasJustMeButItIsnt = {
   pageTypeSlug: "book",
   slug: "i-thought-it-was-just-me-but-it-isnt",
   title: "I Thought It Was Just Me (but it isn't)",
-  kind: "read",
   status: "not-started",
   author: "Brené Brown, Lauren Fortgang",
   unitSlug: "words",

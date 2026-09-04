@@ -5,7 +5,6 @@ export const theEndOfTheMatter = {
   pageTypeSlug: "book",
   slug: "the-end-of-the-matter",
   title: "The End of the Matter",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

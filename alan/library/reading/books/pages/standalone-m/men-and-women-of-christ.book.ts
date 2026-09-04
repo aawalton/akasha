@@ -5,7 +5,6 @@ export const menAndWomenOfChrist = {
   pageTypeSlug: "book",
   slug: "men-and-women-of-christ",
   title: "Men and Women of Christ",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

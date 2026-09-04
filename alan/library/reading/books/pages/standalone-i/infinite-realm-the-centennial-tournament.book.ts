@@ -5,7 +5,6 @@ export const infiniteRealmTheCentennialTournament = {
   pageTypeSlug: "book",
   slug: "infinite-realm-the-centennial-tournament",
   title: "Infinite Realm: The Centennial Tournament",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

@@ -5,7 +5,6 @@ export const annalsOfAmericaVolume2 = {
   pageTypeSlug: "book",
   slug: "annals-of-america-volume-2",
   title: "Annals of America Volume 2",
-  kind: "read",
   status: "paused",
   author: "Mortimer J. (editor) Adler",
   unitSlug: "words",

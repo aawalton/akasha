@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld19DanteChaucer = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-19-dante-chaucer",
   title: "The Great Books of the Western World 19: Dante, Chaucer",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 19,

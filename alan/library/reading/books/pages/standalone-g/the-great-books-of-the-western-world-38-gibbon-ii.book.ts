@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld38GibbonIi = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-38-gibbon-ii",
   title: "The Great Books of the Western World 38: Gibbon II",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 38,

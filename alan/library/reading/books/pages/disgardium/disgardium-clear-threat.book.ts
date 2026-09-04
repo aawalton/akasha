@@ -5,7 +5,6 @@ export const disgardiumClearThreat = {
   pageTypeSlug: "book",
   slug: "disgardium-clear-threat",
   title: "Disgardium: Clear Threat",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 10,

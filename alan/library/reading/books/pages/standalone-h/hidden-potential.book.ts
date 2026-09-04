@@ -5,7 +5,6 @@ export const hiddenPotential = {
   pageTypeSlug: "book",
   slug: "hidden-potential",
   title: "Hidden Potential",
-  kind: "read",
   status: "not-started",
   author: "Adam Grant",
   unitSlug: "words",

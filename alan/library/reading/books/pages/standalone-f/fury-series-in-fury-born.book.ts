@@ -5,7 +5,6 @@ export const furySeriesInFuryBorn = {
   pageTypeSlug: "book",
   slug: "fury-series-in-fury-born",
   title: "Fury Series: In Fury Born",
-  kind: "read",
   status: "not-started",
   author: "Sherrilyn Kenyon",
   unitSlug: "words",

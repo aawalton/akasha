@@ -5,7 +5,6 @@ export const runelordsWorldbinder = {
   pageTypeSlug: "book",
   slug: "runelords-worldbinder",
   title: "Runelords: Worldbinder",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

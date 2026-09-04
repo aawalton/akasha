@@ -5,7 +5,6 @@ export const theWarOfBrokenMirrorsForgingDivinity = {
   pageTypeSlug: "book",
   slug: "the-war-of-broken-mirrors-forging-divinity",
   title: "The War of Broken Mirrors: Forging Divinity",
-  kind: "read",
   status: "completed",
   author: "Andrew Rowe",
   unitSlug: "words",

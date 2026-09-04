@@ -5,7 +5,6 @@ export const theSoftwareEngineersGuidebook = {
   pageTypeSlug: "book",
   slug: "the-software-engineers-guidebook",
   title: "The Software Engineer's Guidebook",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Gergely Orosz",

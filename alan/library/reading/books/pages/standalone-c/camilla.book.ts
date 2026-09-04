@@ -5,7 +5,6 @@ export const camilla = {
   pageTypeSlug: "book",
   slug: "camilla",
   title: "Camilla",
-  kind: "read",
   status: "not-started",
   author: "Jane Aiken Hodge",
   unitSlug: "words",

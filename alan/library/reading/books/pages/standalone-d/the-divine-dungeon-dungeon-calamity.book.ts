@@ -5,7 +5,6 @@ export const theDivineDungeonDungeonCalamity = {
   pageTypeSlug: "book",
   slug: "the-divine-dungeon-dungeon-calamity",
   title: "The Divine Dungeon: Dungeon Calamity",
-  kind: "read",
   status: "completed",
   author: "Dakota Krout",
   unitSlug: "words",

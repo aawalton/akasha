@@ -5,7 +5,6 @@ export const theStormlightArchiveAPocketCompanion = {
   pageTypeSlug: "book",
   slug: "the-stormlight-archive-a-pocket-companion",
   title: "The Stormlight Archive: A Pocket Companion",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

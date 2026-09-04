@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld30Pascal = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-30-pascal",
   title: "The Great Books of the Western World 30: Pascal",
-  kind: "read",
   status: "not-started",
   author: "Blaise Pascal, Mortimer J. Adler",
   unitSlug: "words",

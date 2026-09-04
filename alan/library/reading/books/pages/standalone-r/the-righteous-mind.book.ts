@@ -5,7 +5,6 @@ export const theRighteousMind = {
   pageTypeSlug: "book",
   slug: "the-righteous-mind",
   title: "The Righteous Mind",
-  kind: "read",
   status: "not-started",
   author: "Jonathan Haidt",
   unitSlug: "words",

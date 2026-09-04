@@ -5,7 +5,6 @@ export const theWayOfTheShamanThePhantomCastle = {
   pageTypeSlug: "book",
   slug: "the-way-of-the-shaman-the-phantom-castle",
   title: "The Way of the Shaman: The Phantom Castle",
-  kind: "read",
   status: "completed",
   author: "Vasily Mahanenko",
   unitSlug: "words",

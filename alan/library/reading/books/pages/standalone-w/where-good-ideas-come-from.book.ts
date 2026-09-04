@@ -5,7 +5,6 @@ export const whereGoodIdeasComeFrom = {
   pageTypeSlug: "book",
   slug: "where-good-ideas-come-from",
   title: "Where Good Ideas Come From",
-  kind: "read",
   status: "not-started",
   author: "Steven Johnson",
   unitSlug: "words",

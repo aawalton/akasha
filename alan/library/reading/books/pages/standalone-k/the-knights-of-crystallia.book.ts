@@ -5,7 +5,6 @@ export const theKnightsOfCrystallia = {
   pageTypeSlug: "book",
   slug: "the-knights-of-crystallia",
   title: "The Knights of Crystallia",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

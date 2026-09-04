@@ -5,7 +5,6 @@ export const systemUniverseSystemChange = {
   pageTypeSlug: "book",
   slug: "system-universe-system-change",
   title: "System Universe: System Change",
-  kind: "read",
   status: "completed",
   author: "Adolf Ka Tat Tsang",
   unitSlug: "words",

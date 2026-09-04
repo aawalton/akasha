@@ -5,7 +5,6 @@ export const annalsOfAmericaVolume14 = {
   pageTypeSlug: "book",
   slug: "annals-of-america-volume-14",
   title: "Annals of America Volume 14",
-  kind: "read",
   status: "not-started",
   author: "Annals",
   unitSlug: "words",

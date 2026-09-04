@@ -5,7 +5,6 @@ export const andThereWasLight = {
   pageTypeSlug: "book",
   slug: "and-there-was-light",
   title: "And There Was Light",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Jon Meacham",

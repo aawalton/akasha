@@ -5,7 +5,6 @@ export const infinityBladeRedemption = {
   pageTypeSlug: "book",
   slug: "infinity-blade-redemption",
   title: "Infinity Blade: Redemption",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

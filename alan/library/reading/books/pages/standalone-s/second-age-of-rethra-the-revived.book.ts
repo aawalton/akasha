@@ -5,7 +5,6 @@ export const secondAgeOfRethraTheRevived = {
   pageTypeSlug: "book",
   slug: "second-age-of-rethra-the-revived",
   title: "Second Age of Rethra: The Revived",
-  kind: "read",
   status: "completed",
   rank: "A",
   unitSlug: "words",

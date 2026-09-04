@@ -5,7 +5,6 @@ export const robertLangdonTheSecretOfSecrets = {
   pageTypeSlug: "book",
   slug: "robert-langdon-the-secret-of-secrets",
   title: "Robert Langdon: The Secret of Secrets",
-  kind: "read",
   status: "not-started",
   author: "Dan Brown",
   unitSlug: "words",

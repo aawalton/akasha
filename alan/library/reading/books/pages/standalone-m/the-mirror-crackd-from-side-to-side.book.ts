@@ -5,7 +5,6 @@ export const theMirrorCrackdFromSideToSide = {
   pageTypeSlug: "book",
   slug: "the-mirror-crackd-from-side-to-side",
   title: "The Mirror Crack'd from Side to Side",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const riseOfTheDevourerVoidborne = {
   pageTypeSlug: "book",
   slug: "rise-of-the-devourer-voidborne",
   title: "Rise of the Devourer: Voidborne",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

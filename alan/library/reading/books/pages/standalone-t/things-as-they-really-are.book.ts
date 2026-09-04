@@ -5,7 +5,6 @@ export const thingsAsTheyReallyAre = {
   pageTypeSlug: "book",
   slug: "things-as-they-really-are",
   title: "Things As They Really Are",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

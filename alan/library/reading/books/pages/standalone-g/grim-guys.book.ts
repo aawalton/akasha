@@ -5,7 +5,6 @@ export const grimGuys = {
   pageTypeSlug: "book",
   slug: "grim-guys",
   title: "Grim Guys",
-  kind: "read",
   status: "not-started",
   author: "Darynda Jones",
   unitSlug: "words",

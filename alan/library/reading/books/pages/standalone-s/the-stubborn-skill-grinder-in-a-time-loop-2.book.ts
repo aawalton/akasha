@@ -5,7 +5,6 @@ export const theStubbornSkillGrinderInATimeLoop2 = {
   pageTypeSlug: "book",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-2",
   title: "The Stubborn Skill-Grinder In A Time Loop 2",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

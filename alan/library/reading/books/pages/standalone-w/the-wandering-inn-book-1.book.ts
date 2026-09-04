@@ -5,7 +5,6 @@ export const theWanderingInnBook1 = {
   pageTypeSlug: "book",
   slug: "the-wandering-inn-book-1",
   title: "The Wandering Inn",
-  kind: "read",
   status: "following",
   unitSlug: "words",
   ownProgress: 10.33,

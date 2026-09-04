@@ -5,7 +5,6 @@ export const expeditionaryForceCriticalMass = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-critical-mass",
   title: "Expeditionary Force: Critical Mass",
-  kind: "read",
   status: "not-started",
   author: "Craig Alanson",
   unitSlug: "words",

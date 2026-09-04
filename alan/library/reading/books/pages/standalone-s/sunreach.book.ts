@@ -5,7 +5,6 @@ export const sunreach = {
   pageTypeSlug: "book",
   slug: "sunreach",
   title: "Sunreach",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",

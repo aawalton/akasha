@@ -5,7 +5,6 @@ export const rwbyNovelSeriesBeforeTheDawnAnAfkBook = {
   pageTypeSlug: "book",
   slug: "rwby-novel-series-before-the-dawn-an-afk-book",
   title: "RWBY Novel Series: Before the Dawn: An AFK Book",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

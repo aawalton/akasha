@@ -5,7 +5,6 @@ export const dare = {
   pageTypeSlug: "book",
   slug: "dare",
   title: "Dare",
-  kind: "read",
   status: "not-started",
   author: "Robert Lawrence Stine",
   unitSlug: "words",

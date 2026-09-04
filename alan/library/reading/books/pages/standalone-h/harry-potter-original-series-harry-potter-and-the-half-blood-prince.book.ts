@@ -5,7 +5,6 @@ export const harryPotterOriginalSeriesHarryPotterAndTheHalfBloodPrince = {
   pageTypeSlug: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-half-blood-prince",
   title: "Harry Potter Original Series: Harry Potter and the Half-Blood Prince",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

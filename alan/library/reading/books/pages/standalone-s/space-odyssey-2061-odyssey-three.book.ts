@@ -5,7 +5,6 @@ export const spaceOdyssey2061OdysseyThree = {
   pageTypeSlug: "book",
   slug: "space-odyssey-2061-odyssey-three",
   title: "Space Odyssey: 2061: Odyssey Three",
-  kind: "read",
   status: "not-started",
   author: "Arthur C. Clarke",
   unitSlug: "words",

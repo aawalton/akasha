@@ -5,7 +5,6 @@ export const theGoodGuysDukesAndLadders = {
   pageTypeSlug: "book",
   slug: "the-good-guys-dukes-and-ladders",
   title: "The Good Guys: Dukes and Ladders",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

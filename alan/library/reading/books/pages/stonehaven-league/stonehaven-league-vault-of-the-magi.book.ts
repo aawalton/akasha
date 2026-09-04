@@ -5,7 +5,6 @@ export const stonehavenLeagueVaultOfTheMagi = {
   pageTypeSlug: "book",
   slug: "stonehaven-league-vault-of-the-magi",
   title: "Stonehaven League: Vault of the Magi",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

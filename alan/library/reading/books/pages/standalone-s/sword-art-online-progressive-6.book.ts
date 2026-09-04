@@ -5,7 +5,6 @@ export const swordArtOnlineProgressive6 = {
   pageTypeSlug: "book",
   slug: "sword-art-online-progressive-6",
   title: "Sword Art Online Progressive 6",
-  kind: "read",
   status: "not-started",
   author: "Reki Kawahara",
   unitSlug: "words",

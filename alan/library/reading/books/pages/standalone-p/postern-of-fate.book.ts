@@ -5,7 +5,6 @@ export const posternOfFate = {
   pageTypeSlug: "book",
   slug: "postern-of-fate",
   title: "Postern of Fate",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

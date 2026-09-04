@@ -5,7 +5,6 @@ export const weTalkOfChristWeRejoiceInChrist = {
   pageTypeSlug: "book",
   slug: "we-talk-of-christ-we-rejoice-in-christ",
   title: "We Talk of Christ, We Rejoice in Christ",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

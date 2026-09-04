@@ -5,7 +5,6 @@ export const honorHarringtonCrownOfSlavesCauldronOfGhosts = {
   pageTypeSlug: "book",
   slug: "honor-harrington-crown-of-slaves-cauldron-of-ghosts",
   title: "Honor Harrington - Crown of Slaves: Cauldron of Ghosts",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

@@ -5,7 +5,6 @@ export const elantris = {
   pageTypeSlug: "book",
   slug: "elantris",
   title: "Elantris",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

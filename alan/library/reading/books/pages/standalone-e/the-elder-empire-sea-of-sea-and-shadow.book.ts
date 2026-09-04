@@ -5,7 +5,6 @@ export const theElderEmpireSeaOfSeaAndShadow = {
   pageTypeSlug: "book",
   slug: "the-elder-empire-sea-of-sea-and-shadow",
   title: "The Elder Empire - Sea: Of Sea and Shadow",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 107000,

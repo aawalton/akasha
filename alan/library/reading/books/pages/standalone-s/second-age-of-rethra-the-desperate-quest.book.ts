@@ -5,7 +5,6 @@ export const secondAgeOfRethraTheDesperateQuest = {
   pageTypeSlug: "book",
   slug: "second-age-of-rethra-the-desperate-quest",
   title: "Second Age of Rethra: The Desperate Quest",
-  kind: "read",
   status: "completed",
   rank: "A",
   unitSlug: "words",

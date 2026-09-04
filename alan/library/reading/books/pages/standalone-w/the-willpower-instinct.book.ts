@@ -5,7 +5,6 @@ export const theWillpowerInstinct = {
   pageTypeSlug: "book",
   slug: "the-willpower-instinct",
   title: "The Willpower Instinct",
-  kind: "read",
   status: "not-started",
   author: "Kelly McGonigal",
   unitSlug: "words",

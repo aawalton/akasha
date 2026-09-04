@@ -5,7 +5,6 @@ export const bobiverseHeavensRiver = {
   pageTypeSlug: "book",
   slug: "bobiverse-heavens-river",
   title: "Bobiverse: Heaven's River",
-  kind: "read",
   status: "not-started",
   author: "Dennis E. Taylor",
   unitSlug: "words",

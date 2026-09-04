@@ -5,7 +5,6 @@ export const thinkLikeAFreak = {
   pageTypeSlug: "book",
   slug: "think-like-a-freak",
   title: "Think Like a Freak",
-  kind: "read",
   status: "not-started",
   author: "Steven D. Levitt, Stephen J. Dubner",
   unitSlug: "words",

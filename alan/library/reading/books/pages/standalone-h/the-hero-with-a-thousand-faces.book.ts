@@ -5,7 +5,6 @@ export const theHeroWithAThousandFaces = {
   pageTypeSlug: "book",
   slug: "the-hero-with-a-thousand-faces",
   title: "The Hero with a Thousand Faces",
-  kind: "read",
   status: "not-started",
   author: "Joseph Campbell",
   unitSlug: "words",

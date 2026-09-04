@@ -5,7 +5,6 @@ export const arcaneAscensionOnTheShouldersOfTitans = {
   pageTypeSlug: "book",
   slug: "arcane-ascension-on-the-shoulders-of-titans",
   title: "Arcane Ascension: On the Shoulders of Titans",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

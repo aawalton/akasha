@@ -5,7 +5,6 @@ export const defendingElysium = {
   pageTypeSlug: "book",
   slug: "defending-elysium",
   title: "Defending Elysium",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

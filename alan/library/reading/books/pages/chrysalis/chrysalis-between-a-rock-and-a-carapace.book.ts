@@ -5,7 +5,6 @@ export const chrysalisBetweenARockAndACarapace = {
   pageTypeSlug: "book",
   slug: "chrysalis-between-a-rock-and-a-carapace",
   title: "Chrysalis: Between a Rock and a Carapace",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

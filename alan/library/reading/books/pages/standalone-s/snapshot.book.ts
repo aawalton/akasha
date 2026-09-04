@@ -5,7 +5,6 @@ export const snapshot = {
   pageTypeSlug: "book",
   slug: "snapshot",
   title: "Snapshot",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

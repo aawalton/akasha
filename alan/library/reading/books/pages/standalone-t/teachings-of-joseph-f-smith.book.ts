@@ -5,7 +5,6 @@ export const teachingsOfJosephFSmith = {
   pageTypeSlug: "book",
   slug: "teachings-of-joseph-f-smith",
   title: "Teachings of Joseph F. Smith",
-  kind: "read",
   status: "not-started",
   author: "Edwin F. Parry",
   unitSlug: "words",

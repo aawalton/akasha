@@ -5,7 +5,6 @@ export const wheelOfTimeTheGreatHunt = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-the-great-hunt",
   title: "Wheel of Time: The Great Hunt",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

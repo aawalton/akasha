@@ -5,7 +5,6 @@ export const theGoodGuysBadToTheThrone = {
   pageTypeSlug: "book",
   slug: "the-good-guys-bad-to-the-throne",
   title: "The Good Guys: Bad to the Throne",
-  kind: "read",
   status: "not-started",
   author: "SuperSummary",
   unitSlug: "words",

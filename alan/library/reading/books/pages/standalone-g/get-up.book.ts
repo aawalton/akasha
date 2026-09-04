@@ -5,7 +5,6 @@ export const getUp = {
   pageTypeSlug: "book",
   slug: "get-up",
   title: "Get Up!",
-  kind: "read",
   status: "not-started",
   author: "Dr. Seuss",
   unitSlug: "words",

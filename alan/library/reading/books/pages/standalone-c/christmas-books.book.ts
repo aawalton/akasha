@@ -5,7 +5,6 @@ export const christmasBooks = {
   pageTypeSlug: "book",
   slug: "christmas-books",
   title: "Christmas Books",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

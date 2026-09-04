@@ -5,7 +5,6 @@ export const theBadGuysTrickOfTheNight = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-trick-of-the-night",
   title: "The Bad Guys: Trick Of The Night",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

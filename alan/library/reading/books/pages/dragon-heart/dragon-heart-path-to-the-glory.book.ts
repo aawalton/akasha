@@ -5,7 +5,6 @@ export const dragonHeartPathToTheGlory = {
   pageTypeSlug: "book",
   slug: "dragon-heart-path-to-the-glory",
   title: "Dragon Heart: Path to the Glory",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 12,

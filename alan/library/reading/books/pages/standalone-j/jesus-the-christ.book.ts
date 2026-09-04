@@ -5,7 +5,6 @@ export const jesusTheChrist = {
   pageTypeSlug: "book",
   slug: "jesus-the-christ",
   title: "Jesus The Christ",
-  kind: "read",
   status: "not-started",
   author: "James Edward Talmage",
   unitSlug: "words",

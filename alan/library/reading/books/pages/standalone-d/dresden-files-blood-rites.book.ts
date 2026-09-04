@@ -5,7 +5,6 @@ export const dresdenFilesBloodRites = {
   pageTypeSlug: "book",
   slug: "dresden-files-blood-rites",
   title: "Dresden Files: Blood Rites",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

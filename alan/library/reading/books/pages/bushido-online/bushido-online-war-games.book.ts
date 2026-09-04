@@ -5,7 +5,6 @@ export const bushidoOnlineWarGames = {
   pageTypeSlug: "book",
   slug: "bushido-online-war-games",
   title: "Bushido Online: War Games",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

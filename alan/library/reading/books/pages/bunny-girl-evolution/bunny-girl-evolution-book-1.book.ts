@@ -5,7 +5,6 @@ export const bunnyGirlEvolutionBook1 = {
   pageTypeSlug: "book",
   slug: "bunny-girl-evolution-book-1",
   title: "Bunny Girl Evolution",
-  kind: "read",
   status: "completed",
   author: "Ann H. Coulter",
   unitSlug: "words",

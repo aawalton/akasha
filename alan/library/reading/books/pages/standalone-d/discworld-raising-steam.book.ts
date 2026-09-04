@@ -5,7 +5,6 @@ export const discworldRaisingSteam = {
   pageTypeSlug: "book",
   slug: "discworld-raising-steam",
   title: "Discworld: Raising Steam",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

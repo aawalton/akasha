@@ -5,7 +5,6 @@ export const doctrinalNewTestamentCommentaryVolume1 = {
   pageTypeSlug: "book",
   slug: "doctrinal-new-testament-commentary-volume-1",
   title: "Doctrinal New Testament Commentary Volume 1",
-  kind: "read",
   status: "paused",
   author: "Bruce R. McConkie",
   unitSlug: "words",

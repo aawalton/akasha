@@ -5,7 +5,6 @@ export const theSystemApocalypseStarsAwoken = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-stars-awoken",
   title: "The System Apocalypse: Stars Awoken",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

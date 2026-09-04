@@ -5,7 +5,6 @@ export const apocalypseHealer = {
   pageTypeSlug: "book",
   slug: "apocalypse-healer",
   title: "Apocalypse Healer",
-  kind: "read",
   status: "not-started",
   author: "Shaun David Hutchinson",
   unitSlug: "words",

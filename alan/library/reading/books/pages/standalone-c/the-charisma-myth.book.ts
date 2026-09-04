@@ -5,7 +5,6 @@ export const theCharismaMyth = {
   pageTypeSlug: "book",
   slug: "the-charisma-myth",
   title: "The Charisma Myth",
-  kind: "read",
   status: "not-started",
   author: "Olivia Fox Cabane, Olivia Cabane, Lisa Cordileone",
   unitSlug: "words",

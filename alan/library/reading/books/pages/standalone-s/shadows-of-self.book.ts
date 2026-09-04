@@ -5,7 +5,6 @@ export const shadowsOfSelf = {
   pageTypeSlug: "book",
   slug: "shadows-of-self",
   title: "Shadows of Self",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

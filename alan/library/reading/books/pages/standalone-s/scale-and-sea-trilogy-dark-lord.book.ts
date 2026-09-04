@@ -5,7 +5,6 @@ export const scaleAndSeaTrilogyDarkLord = {
   pageTypeSlug: "book",
   slug: "scale-and-sea-trilogy-dark-lord",
   title: "Scale & Sea Trilogy: Dark Lord",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

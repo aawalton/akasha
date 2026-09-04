@@ -5,7 +5,6 @@ export const wheelOfTimeTheShadowRising = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-the-shadow-rising",
   title: "Wheel of Time: The Shadow Rising",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

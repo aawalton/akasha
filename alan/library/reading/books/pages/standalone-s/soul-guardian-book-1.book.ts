@@ -5,7 +5,6 @@ export const soulGuardianBook1 = {
   pageTypeSlug: "book",
   slug: "soul-guardian-book-1",
   title: "Soul Guardian",
-  kind: "read",
   status: "completed",
   author: "Alex Karne",
   unitSlug: "words",

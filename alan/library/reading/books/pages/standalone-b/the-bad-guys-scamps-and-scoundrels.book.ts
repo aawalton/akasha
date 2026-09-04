@@ -5,7 +5,6 @@ export const theBadGuysScampsAndScoundrels = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-scamps-and-scoundrels",
   title: "The Bad Guys: Scamps & Scoundrels",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

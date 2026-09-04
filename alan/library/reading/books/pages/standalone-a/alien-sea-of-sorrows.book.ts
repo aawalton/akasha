@@ -5,7 +5,6 @@ export const alienSeaOfSorrows = {
   pageTypeSlug: "book",
   slug: "alien-sea-of-sorrows",
   title: "Alien: Sea of Sorrows",
-  kind: "read",
   status: "not-started",
   author: "James A. Moore",
   unitSlug: "words",

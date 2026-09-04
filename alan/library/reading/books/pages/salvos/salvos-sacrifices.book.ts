@@ -5,7 +5,6 @@ export const salvosSacrifices = {
   pageTypeSlug: "book",
   slug: "salvos-sacrifices",
   title: "Salvos: Sacrifices",
-  kind: "read",
   status: "not-started",
   author: "Keith Jones",
   unitSlug: "words",

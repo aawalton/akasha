@@ -5,7 +5,6 @@ export const theBodyInTheLibrary = {
   pageTypeSlug: "book",
   slug: "the-body-in-the-library",
   title: "The Body in the Library",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

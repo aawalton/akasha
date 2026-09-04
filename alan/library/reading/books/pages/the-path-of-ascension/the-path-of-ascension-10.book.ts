@@ -5,7 +5,6 @@ export const thePathOfAscension10 = {
   pageTypeSlug: "book",
   slug: "the-path-of-ascension-10",
   title: "The Path of Ascension 10",
-  kind: "read",
   status: "completed",
   author: "Joshua D. Stone",
   unitSlug: "words",

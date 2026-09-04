@@ -5,7 +5,6 @@ export const awakenOnlineRetribution = {
   pageTypeSlug: "book",
   slug: "awaken-online-retribution",
   title: "Awaken Online: Retribution",
-  kind: "read",
   status: "completed",
   author: "Travis Bagwell",
   unitSlug: "words",

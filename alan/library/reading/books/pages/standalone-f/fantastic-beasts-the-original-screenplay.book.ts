@@ -5,7 +5,6 @@ export const fantasticBeastsTheOriginalScreenplay = {
   pageTypeSlug: "book",
   slug: "fantastic-beasts-the-original-screenplay",
   title: "Fantastic Beasts: The Original Screenplay",
-  kind: "read",
   status: "not-started",
   author: "J. K. Rowling",
   unitSlug: "words",

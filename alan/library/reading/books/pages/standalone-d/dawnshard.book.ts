@@ -5,7 +5,6 @@ export const dawnshard = {
   pageTypeSlug: "book",
   slug: "dawnshard",
   title: "Dawnshard",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

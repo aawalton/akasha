@@ -5,7 +5,6 @@ export const theNewWorldBook1 = {
   pageTypeSlug: "book",
   slug: "the-new-world-book-1",
   title: "The New World",
-  kind: "read",
   status: "completed",
   author: "Pat Robertson",
   unitSlug: "words",

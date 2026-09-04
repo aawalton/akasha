@@ -5,7 +5,6 @@ export const theExpansePersepolisRising = {
   pageTypeSlug: "book",
   slug: "the-expanse-persepolis-rising",
   title: "The Expanse: Persepolis Rising",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

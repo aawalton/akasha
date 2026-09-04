@@ -5,7 +5,6 @@ export const cultureSurfaceDetail = {
   pageTypeSlug: "book",
   slug: "culture-surface-detail",
   title: "Culture: Surface Detail",
-  kind: "read",
   status: "not-started",
   author: "Iain Banks",
   unitSlug: "words",

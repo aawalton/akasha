@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsOathboundHealer = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-oathbound-healer",
   title: "Beneath the Dragoneye Moons: Oathbound Healer",
-  kind: "read",
   status: "completed",
   author: "Selkie Myth",
   unitSlug: "words",

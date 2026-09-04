@@ -5,7 +5,6 @@ export const rwbyNovelSeriesAfterTheFallAnAfkBook = {
   pageTypeSlug: "book",
   slug: "rwby-novel-series-after-the-fall-an-afk-book",
   title: "RWBY Novel Series: After the Fall: An AFK Book",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

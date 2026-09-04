@@ -5,7 +5,6 @@ export const raisingAnEmotionallyIntelligentChild = {
   pageTypeSlug: "book",
   slug: "raising-an-emotionally-intelligent-child",
   title: "Raising an Emotionally Intelligent Child",
-  kind: "read",
   status: "not-started",
   author: "John Mordechai Gottman",
   unitSlug: "words",

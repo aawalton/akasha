@@ -5,7 +5,6 @@ export const theSpaceTrilogyPerelandra = {
   pageTypeSlug: "book",
   slug: "the-space-trilogy-perelandra",
   title: "The Space Trilogy: Perelandra",
-  kind: "read",
   status: "not-started",
   author: "C. S. Lewis",
   unitSlug: "words",

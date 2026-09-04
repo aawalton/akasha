@@ -5,7 +5,6 @@ export const theEndOfAverage = {
   pageTypeSlug: "book",
   slug: "the-end-of-average",
   title: "The End of Average",
-  kind: "read",
   status: "not-started",
   author: "Todd Rose, Todd Rose",
   unitSlug: "words",

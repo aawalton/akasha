@@ -5,7 +5,6 @@ export const tressOfTheEmeraldSea = {
   pageTypeSlug: "book",
   slug: "tress-of-the-emerald-sea",
   title: "Tress of the Emerald Sea",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

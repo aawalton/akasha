@@ -5,7 +5,6 @@ export const theStoryOfLiberty = {
   pageTypeSlug: "book",
   slug: "the-story-of-liberty",
   title: "The Story of Liberty",
-  kind: "read",
   status: "not-started",
   author: "Charles Carleton Coffin",
   unitSlug: "words",

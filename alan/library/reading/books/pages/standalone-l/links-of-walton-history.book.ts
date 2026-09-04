@@ -5,7 +5,6 @@ export const linksOfWaltonHistory = {
   pageTypeSlug: "book",
   slug: "links-of-walton-history",
   title: "Links of Walton History",
-  kind: "read",
   status: "paused",
   unitSlug: "words",
   position: 2,

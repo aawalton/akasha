@@ -5,7 +5,6 @@ export const steelheart = {
   pageTypeSlug: "book",
   slug: "steelheart",
   title: "Steelheart",
-  kind: "read",
   status: "paused",
   author: "Brandon Sanderson",
   unitSlug: "words",

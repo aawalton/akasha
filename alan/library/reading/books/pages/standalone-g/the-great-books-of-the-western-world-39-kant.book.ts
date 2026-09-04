@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld39Kant = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-39-kant",
   title: "The Great Books of the Western World 39: Kant",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 39,

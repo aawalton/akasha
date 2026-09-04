@@ -5,7 +5,6 @@ export const discworldEric = {
   pageTypeSlug: "book",
   slug: "discworld-eric",
   title: "Discworld: Eric",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsBeyondTheWall = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-beyond-the-wall",
   title: "Beneath the Dragoneye Moons: Beyond the Wall",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

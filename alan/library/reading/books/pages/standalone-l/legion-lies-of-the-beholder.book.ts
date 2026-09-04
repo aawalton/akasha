@@ -5,7 +5,6 @@ export const legionLiesOfTheBeholder = {
   pageTypeSlug: "book",
   slug: "legion-lies-of-the-beholder",
   title: "Legion: Lies of the Beholder",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

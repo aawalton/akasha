@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld46AustenGeorgeElliot = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-46-austen-george-elliot",
   title: "The Great Books of the Western World 46: Austen, George Elliot",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 46,

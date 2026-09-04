@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld42LavoisierFaraday = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-42-lavoisier-faraday",
   title: "The Great Books of the Western World 42: Lavoisier, Faraday",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 42,

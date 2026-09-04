@@ -5,7 +5,6 @@ export const theRobotTheNakedSun = {
   pageTypeSlug: "book",
   slug: "the-robot-the-naked-sun",
   title: "The Robot: The Naked Sun",
-  kind: "read",
   status: "not-started",
   author: "Isaac Asimov",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const marchUpcountry = {
   pageTypeSlug: "book",
   slug: "march-upcountry",
   title: "March Upcountry",
-  kind: "read",
   status: "not-started",
   author: "David Weber, John Ringo",
   unitSlug: "words",

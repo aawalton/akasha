@@ -5,7 +5,6 @@ export const theWhisperingCrystalsUntamedSpirit = {
   pageTypeSlug: "book",
   slug: "the-whispering-crystals-untamed-spirit",
   title: "The Whispering Crystals: Untamed Spirit",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

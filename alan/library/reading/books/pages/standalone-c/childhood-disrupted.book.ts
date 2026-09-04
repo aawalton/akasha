@@ -5,7 +5,6 @@ export const childhoodDisrupted = {
   pageTypeSlug: "book",
   slug: "childhood-disrupted",
   title: "Childhood Disrupted",
-  kind: "read",
   status: "not-started",
   author: "Donna Jackson Nakazawa",
   unitSlug: "words",

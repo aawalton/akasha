@@ -5,7 +5,6 @@ export const beastborneChroniclesMarkOfTheFounder = {
   pageTypeSlug: "book",
   slug: "beastborne-chronicles-mark-of-the-founder",
   title: "Beastborne Chronicles: Mark of the Founder",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

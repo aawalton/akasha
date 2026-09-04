@@ -5,7 +5,6 @@ export const honorHarringtonSaganamiIslandStormFromTheShadows = {
   pageTypeSlug: "book",
   slug: "honor-harrington-saganami-island-storm-from-the-shadows",
   title: "Honor Harrington: Saganami Island: Storm from the Shadows",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

@@ -5,7 +5,6 @@ export const dragonHeartLandOfTheEnemy = {
   pageTypeSlug: "book",
   slug: "dragon-heart-land-of-the-enemy",
   title: "Dragon Heart: Land of The Enemy",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 8,

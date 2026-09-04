@@ -5,7 +5,6 @@ export const teachingsOfLorenzoSnow = {
   pageTypeSlug: "book",
   slug: "teachings-of-lorenzo-snow",
   title: "Teachings of Lorenzo Snow",
-  kind: "read",
   status: "not-started",
   author: "Lorenzo Snow",
   unitSlug: "words",

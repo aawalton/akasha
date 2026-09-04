@@ -5,7 +5,6 @@ export const disgardiumTheDestroyingPlague = {
   pageTypeSlug: "book",
   slug: "disgardium-the-destroying-plague",
   title: "Disgardium: The Destroying Plague",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

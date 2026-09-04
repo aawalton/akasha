@@ -5,7 +5,6 @@ export const theSecondWorldWarVolume1 = {
   pageTypeSlug: "book",
   slug: "the-second-world-war-volume-1",
   title: "The Second World War Volume 1",
-  kind: "read",
   status: "not-started",
   author: "Winston S. Churchill",
   unitSlug: "words",

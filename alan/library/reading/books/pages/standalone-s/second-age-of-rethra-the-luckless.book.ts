@@ -5,7 +5,6 @@ export const secondAgeOfRethraTheLuckless = {
   pageTypeSlug: "book",
   slug: "second-age-of-rethra-the-luckless",
   title: "Second Age of Rethra: The Luckless",
-  kind: "read",
   status: "completed",
   rank: "A",
   unitSlug: "words",

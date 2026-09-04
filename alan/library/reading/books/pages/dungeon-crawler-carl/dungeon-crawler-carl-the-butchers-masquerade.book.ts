@@ -5,7 +5,6 @@ export const dungeonCrawlerCarlTheButchersMasquerade = {
   pageTypeSlug: "book",
   slug: "dungeon-crawler-carl-the-butchers-masquerade",
   title: "Dungeon Crawler Carl: The Butcher's Masquerade",
-  kind: "read",
   status: "not-started",
   author: "Matt Dinniman",
   unitSlug: "words",

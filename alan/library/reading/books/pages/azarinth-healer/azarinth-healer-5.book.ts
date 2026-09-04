@@ -5,7 +5,6 @@ export const azarinthHealer5 = {
   pageTypeSlug: "book",
   slug: "azarinth-healer-5",
   title: "Azarinth Healer 5",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

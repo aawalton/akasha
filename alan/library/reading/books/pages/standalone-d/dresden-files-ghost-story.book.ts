@@ -5,7 +5,6 @@ export const dresdenFilesGhostStory = {
   pageTypeSlug: "book",
   slug: "dresden-files-ghost-story",
   title: "Dresden Files: Ghost Story",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

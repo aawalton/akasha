@@ -5,7 +5,6 @@ export const somniaOnlineAnomaly = {
   pageTypeSlug: "book",
   slug: "somnia-online-anomaly",
   title: "Somnia Online: Anomaly",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

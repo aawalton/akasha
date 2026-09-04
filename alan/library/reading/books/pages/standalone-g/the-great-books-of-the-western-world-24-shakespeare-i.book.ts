@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld24ShakespeareI = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-24-shakespeare-i",
   title: "The Great Books of the Western World 24: Shakespeare I",
-  kind: "read",
   status: "not-started",
   author: "Όμηρος",
   unitSlug: "words",

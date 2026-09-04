@@ -5,7 +5,6 @@ export const theCompletionistChroniclesRegicide = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-regicide",
   title: "The Completionist Chronicles: Regicide",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

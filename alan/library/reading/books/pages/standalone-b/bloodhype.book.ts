@@ -5,7 +5,6 @@ export const bloodhype = {
   pageTypeSlug: "book",
   slug: "bloodhype",
   title: "Bloodhype",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

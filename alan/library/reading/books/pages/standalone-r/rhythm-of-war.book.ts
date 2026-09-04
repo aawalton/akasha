@@ -5,7 +5,6 @@ export const rhythmOfWar = {
   pageTypeSlug: "book",
   slug: "rhythm-of-war",
   title: "Rhythm of War",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

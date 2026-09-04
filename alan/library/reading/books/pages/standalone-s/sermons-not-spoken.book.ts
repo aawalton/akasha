@@ -5,7 +5,6 @@ export const sermonsNotSpoken = {
   pageTypeSlug: "book",
   slug: "sermons-not-spoken",
   title: "Sermons Not Spoken",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

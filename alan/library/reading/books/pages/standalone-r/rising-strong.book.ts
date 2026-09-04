@@ -5,7 +5,6 @@ export const risingStrong = {
   pageTypeSlug: "book",
   slug: "rising-strong",
   title: "Rising Strong",
-  kind: "read",
   status: "not-started",
   author: "Brené Brown",
   unitSlug: "words",

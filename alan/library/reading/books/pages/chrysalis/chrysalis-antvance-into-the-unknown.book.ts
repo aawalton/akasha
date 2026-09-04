@@ -5,7 +5,6 @@ export const chrysalisAntvanceIntoTheUnknown = {
   pageTypeSlug: "book",
   slug: "chrysalis-antvance-into-the-unknown",
   title: "Chrysalis: Antvance into the Unknown",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

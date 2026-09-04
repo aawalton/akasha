@@ -5,7 +5,6 @@ export const theSelfDrivenChild = {
   pageTypeSlug: "book",
   slug: "the-self-driven-child",
   title: "The Self-Driven Child",
-  kind: "read",
   status: "not-started",
   author: "William Stixrud PhD, Ned Johnson",
   unitSlug: "words",

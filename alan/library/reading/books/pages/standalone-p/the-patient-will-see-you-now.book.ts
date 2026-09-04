@@ -5,7 +5,6 @@ export const thePatientWillSeeYouNow = {
   pageTypeSlug: "book",
   slug: "the-patient-will-see-you-now",
   title: "The Patient Will See You Now",
-  kind: "read",
   status: "not-started",
   author: "Eric J. Topol",
   unitSlug: "words",

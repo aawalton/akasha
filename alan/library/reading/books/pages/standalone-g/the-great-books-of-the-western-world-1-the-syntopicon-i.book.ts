@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld1TheSyntopiconI = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-1-the-syntopicon-i",
   title: "The Great Books of the Western World 1: The Syntopicon I",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

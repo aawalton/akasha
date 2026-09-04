@@ -5,7 +5,6 @@ export const alcatrazVsTheEvilLibrarians = {
   pageTypeSlug: "book",
   slug: "alcatraz-vs-the-evil-librarians",
   title: "Alcatraz vs the Evil Librarians",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

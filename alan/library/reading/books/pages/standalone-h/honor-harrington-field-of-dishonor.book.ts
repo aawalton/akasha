@@ -5,7 +5,6 @@ export const honorHarringtonFieldOfDishonor = {
   pageTypeSlug: "book",
   slug: "honor-harrington-field-of-dishonor",
   title: "Honor Harrington: Field of Dishonor",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

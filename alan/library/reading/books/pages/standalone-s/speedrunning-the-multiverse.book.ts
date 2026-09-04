@@ -5,7 +5,6 @@ export const speedrunningTheMultiverse = {
   pageTypeSlug: "book",
   slug: "speedrunning-the-multiverse",
   title: "Speedrunning the Multiverse",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

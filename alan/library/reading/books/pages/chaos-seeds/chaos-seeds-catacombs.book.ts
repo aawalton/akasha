@@ -5,7 +5,6 @@ export const chaosSeedsCatacombs = {
   pageTypeSlug: "book",
   slug: "chaos-seeds-catacombs",
   title: "Chaos Seeds: Catacombs",
-  kind: "read",
   status: "completed",
   rank: "C",
   unitSlug: "words",

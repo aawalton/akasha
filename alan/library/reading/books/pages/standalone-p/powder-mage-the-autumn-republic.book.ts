@@ -5,7 +5,6 @@ export const powderMageTheAutumnRepublic = {
   pageTypeSlug: "book",
   slug: "powder-mage-the-autumn-republic",
   title: "Powder Mage: The Autumn Republic",
-  kind: "read",
   status: "not-started",
   author: "Brian McClellan",
   unitSlug: "words",

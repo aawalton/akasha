@@ -5,7 +5,6 @@ export const littleDorrit = {
   pageTypeSlug: "book",
   slug: "little-dorrit",
   title: "Little Dorrit",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens, Mary Sebag-Montefiore, Adam Leverton",
   unitSlug: "words",

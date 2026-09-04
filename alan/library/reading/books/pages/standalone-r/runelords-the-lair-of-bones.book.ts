@@ -5,7 +5,6 @@ export const runelordsTheLairOfBones = {
   pageTypeSlug: "book",
   slug: "runelords-the-lair-of-bones",
   title: "Runelords: The Lair of Bones",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

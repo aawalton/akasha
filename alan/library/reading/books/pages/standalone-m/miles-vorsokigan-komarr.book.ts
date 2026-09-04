@@ -5,7 +5,6 @@ export const milesVorsokiganKomarr = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-komarr",
   title: "Miles Vorsokigan: Komarr",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 10,

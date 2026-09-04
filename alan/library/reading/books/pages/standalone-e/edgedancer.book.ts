@@ -5,7 +5,6 @@ export const edgedancer = {
   pageTypeSlug: "book",
   slug: "edgedancer",
   title: "Edgedancer",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

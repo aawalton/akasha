@@ -5,7 +5,6 @@ export const honorHarringtonCrownOfSlavesToEndInFire = {
   pageTypeSlug: "book",
   slug: "honor-harrington-crown-of-slaves-to-end-in-fire",
   title: "Honor Harrington - Crown of Slaves: To End in Fire",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

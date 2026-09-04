@@ -5,7 +5,6 @@ export const shatteredLegacyCrystalAwakening = {
   pageTypeSlug: "book",
   slug: "shattered-legacy-crystal-awakening",
   title: "Shattered Legacy: Crystal Awakening",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

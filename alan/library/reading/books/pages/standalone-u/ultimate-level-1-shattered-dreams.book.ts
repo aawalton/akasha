@@ -5,7 +5,6 @@ export const ultimateLevel1ShatteredDreams = {
   pageTypeSlug: "book",
   slug: "ultimate-level-1-shattered-dreams",
   title: "Ultimate Level 1: Shattered Dreams",
-  kind: "read",
   status: "completed",
   author: "Shawn Wilson",
   unitSlug: "words",

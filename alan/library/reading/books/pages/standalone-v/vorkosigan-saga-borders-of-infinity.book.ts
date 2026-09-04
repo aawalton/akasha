@@ -5,7 +5,6 @@ export const vorkosiganSagaBordersOfInfinity = {
   pageTypeSlug: "book",
   slug: "vorkosigan-saga-borders-of-infinity",
   title: "Vorkosigan Saga: Borders of Infinity",
-  kind: "read",
   status: "not-started",
   author: "Lois McMaster Bujold",
   unitSlug: "words",

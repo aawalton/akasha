@@ -5,7 +5,6 @@ export const earthenContendersUnaffiliatedHealer = {
   pageTypeSlug: "book",
   slug: "earthen-contenders-unaffiliated-healer",
   title: "Earthen Contenders: Unaffiliated Healer",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

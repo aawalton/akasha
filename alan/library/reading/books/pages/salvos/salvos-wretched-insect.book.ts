@@ -5,7 +5,6 @@ export const salvosWretchedInsect = {
   pageTypeSlug: "book",
   slug: "salvos-wretched-insect",
   title: "Salvos: Wretched Insect",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 7,

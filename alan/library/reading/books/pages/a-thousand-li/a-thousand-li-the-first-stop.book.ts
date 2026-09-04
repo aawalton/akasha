@@ -5,7 +5,6 @@ export const aThousandLiTheFirstStop = {
   pageTypeSlug: "book",
   slug: "a-thousand-li-the-first-stop",
   title: "A Thousand Li: the First Stop",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

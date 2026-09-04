@@ -5,7 +5,6 @@ export const hyperionCantosHyperion = {
   pageTypeSlug: "book",
   slug: "hyperion-cantos-hyperion",
   title: "Hyperion Cantos: Hyperion",
-  kind: "read",
   status: "not-started",
   author: "Dan Simmons",
   unitSlug: "words",

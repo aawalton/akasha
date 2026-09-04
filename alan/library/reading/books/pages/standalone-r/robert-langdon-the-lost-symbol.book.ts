@@ -5,7 +5,6 @@ export const robertLangdonTheLostSymbol = {
   pageTypeSlug: "book",
   slug: "robert-langdon-the-lost-symbol",
   title: "Robert Langdon: The Lost Symbol",
-  kind: "read",
   status: "not-started",
   author: "Dan Brown",
   unitSlug: "words",

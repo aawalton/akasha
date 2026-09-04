@@ -5,7 +5,6 @@ export const theLegendaryFool = {
   pageTypeSlug: "book",
   slug: "the-legendary-fool",
   title: "The Legendary Fool",
-  kind: "read",
   status: "not-started",
   author: "Daisy Meadows",
   unitSlug: "words",

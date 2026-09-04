@@ -5,7 +5,6 @@ export const redawn = {
   pageTypeSlug: "book",
   slug: "redawn",
   title: "ReDawn",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",

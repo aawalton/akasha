@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld26GilbertGalileoHarvey = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-26-gilbert-galileo-harvey",
   title: "The Great Books of the Western World 26: Gilbert, Galileo, Harvey",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 26,

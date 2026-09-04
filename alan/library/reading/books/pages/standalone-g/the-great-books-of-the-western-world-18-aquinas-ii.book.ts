@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld18AquinasIi = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-18-aquinas-ii",
   title: "The Great Books of the Western World 18: Aquinas II",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 18,

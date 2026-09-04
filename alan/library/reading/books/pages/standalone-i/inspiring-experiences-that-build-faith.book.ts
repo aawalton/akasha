@@ -5,7 +5,6 @@ export const inspiringExperiencesThatBuildFaith = {
   pageTypeSlug: "book",
   slug: "inspiring-experiences-that-build-faith",
   title: "Inspiring Experiences That Build Faith",
-  kind: "read",
   status: "not-started",
   author: "Monson, Thomas S.",
   unitSlug: "words",

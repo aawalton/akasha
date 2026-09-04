@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld54Freud = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-54-freud",
   title: "The Great Books of the Western World 54: Freud",
-  kind: "read",
   status: "not-started",
   author: "Sigmund; Hutchins, Robert Maynard, Series Editor Freud",
   unitSlug: "words",

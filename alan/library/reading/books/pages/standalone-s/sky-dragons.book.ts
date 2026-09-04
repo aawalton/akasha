@@ -5,7 +5,6 @@ export const skyDragons = {
   pageTypeSlug: "book",
   slug: "sky-dragons",
   title: "Sky Dragons",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey, Todd McCaffrey, Emily Durante",
   unitSlug: "words",

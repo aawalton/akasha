@@ -5,7 +5,6 @@ export const galacticEmpireTheStarsLikeDust = {
   pageTypeSlug: "book",
   slug: "galactic-empire-the-stars-like-dust",
   title: "Galactic Empire: The Stars, Like Dust",
-  kind: "read",
   status: "not-started",
   author: "Isaac Asimov",
   unitSlug: "words",

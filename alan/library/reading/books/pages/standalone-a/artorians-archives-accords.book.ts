@@ -5,7 +5,6 @@ export const artoriansArchivesAccords = {
   pageTypeSlug: "book",
   slug: "artorians-archives-accords",
   title: "Artorian's Archives: Accords",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

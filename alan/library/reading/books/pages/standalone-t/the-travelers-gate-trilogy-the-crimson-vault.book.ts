@@ -5,7 +5,6 @@ export const theTravelersGateTrilogyTheCrimsonVault = {
   pageTypeSlug: "book",
   slug: "the-travelers-gate-trilogy-the-crimson-vault",
   title: "The Traveler's Gate Trilogy: The Crimson Vault",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

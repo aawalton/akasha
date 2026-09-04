@@ -5,7 +5,6 @@ export const theFirebrandViridianGateOnlinePathOfTheBloodPhoenix = {
   pageTypeSlug: "book",
   slug: "the-firebrand-viridian-gate-online-path-of-the-blood-phoenix",
   title: "The Firebrand: Viridian Gate Online: Path of the Blood Phoenix",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

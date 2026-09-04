@@ -5,7 +5,6 @@ export const annalsOfDrakisCitadelsOfTheLost = {
   pageTypeSlug: "book",
   slug: "annals-of-drakis-citadels-of-the-lost",
   title: "Annals of Drakis: Citadels of the Lost",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

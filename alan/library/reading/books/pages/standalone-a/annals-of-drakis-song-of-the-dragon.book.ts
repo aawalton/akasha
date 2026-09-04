@@ -5,7 +5,6 @@ export const annalsOfDrakisSongOfTheDragon = {
   pageTypeSlug: "book",
   slug: "annals-of-drakis-song-of-the-dragon",
   title: "Annals of Drakis: Song of the Dragon",
-  kind: "read",
   status: "not-started",
   author: "Tracy Hickman",
   unitSlug: "words",

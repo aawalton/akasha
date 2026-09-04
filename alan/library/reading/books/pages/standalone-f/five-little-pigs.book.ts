@@ -5,7 +5,6 @@ export const fiveLittlePigs = {
   pageTypeSlug: "book",
   slug: "five-little-pigs",
   title: "Five Little Pigs",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

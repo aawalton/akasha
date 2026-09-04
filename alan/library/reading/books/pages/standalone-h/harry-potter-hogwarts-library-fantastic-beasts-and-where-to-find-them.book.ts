@@ -6,7 +6,6 @@ export const harryPotterHogwartsLibraryFantasticBeastsAndWhereToFindThem = {
   slug: "harry-potter-hogwarts-library-fantastic-beasts-and-where-to-find-them",
   title:
     "Harry Potter: Hogwarts Library: Fantastic Beasts and Where to Find Them: A Harry Potter Hogwarts Library Book",
-  kind: "read",
   status: "not-started",
   author: "J. K. Rowling, Olivia Lomenech Gill, Emily Gravett, Lisbeth Zwerger",
   unitSlug: "words",

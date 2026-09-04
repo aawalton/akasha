@@ -5,7 +5,6 @@ export const markOfTheCrijikGestiSky = {
   pageTypeSlug: "book",
   slug: "mark-of-the-crijik-gesti-sky",
   title: "Mark of the Crijik: Gesti Sky",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

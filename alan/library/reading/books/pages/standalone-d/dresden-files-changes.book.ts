@@ -5,7 +5,6 @@ export const dresdenFilesChanges = {
   pageTypeSlug: "book",
   slug: "dresden-files-changes",
   title: "Dresden Files: Changes",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const dungeonCrawlerCarlThisInevitableRuin = {
   pageTypeSlug: "book",
   slug: "dungeon-crawler-carl-this-inevitable-ruin",
   title: "Dungeon Crawler Carl: This Inevitable Ruin",
-  kind: "read",
   status: "not-started",
   author: "Matt Dinniman",
   unitSlug: "words",

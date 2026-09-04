@@ -5,7 +5,6 @@ export const spaceOdyssey3001TheFinalOdyssey = {
   pageTypeSlug: "book",
   slug: "space-odyssey-3001-the-final-odyssey",
   title: "Space Odyssey: 3001: The Final Odyssey",
-  kind: "read",
   status: "not-started",
   author: "Arthur C. Clarke",
   unitSlug: "words",

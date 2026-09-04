@@ -5,7 +5,6 @@ export const discworldTheLastContinent = {
   pageTypeSlug: "book",
   slug: "discworld-the-last-continent",
   title: "Discworld: The Last Continent",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

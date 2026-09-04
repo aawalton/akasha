@@ -5,7 +5,6 @@ export const annalsOfAmericaVolume1 = {
   pageTypeSlug: "book",
   slug: "annals-of-america-volume-1",
   title: "Annals of America Volume 1",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "WILLIAM BENTON",

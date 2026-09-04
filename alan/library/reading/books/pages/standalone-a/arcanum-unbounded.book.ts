@@ -5,7 +5,6 @@ export const arcanumUnbounded = {
   pageTypeSlug: "book",
   slug: "arcanum-unbounded",
   title: "Arcanum Unbounded",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

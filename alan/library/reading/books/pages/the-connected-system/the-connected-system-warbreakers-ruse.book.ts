@@ -5,7 +5,6 @@ export const theConnectedSystemWarbreakersRuse = {
   pageTypeSlug: "book",
   slug: "the-connected-system-warbreakers-ruse",
   title: "The Connected System: Warbreaker's Ruse",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

@@ -5,7 +5,6 @@ export const social = {
   pageTypeSlug: "book",
   slug: "social",
   title: "Social",
-  kind: "read",
   status: "not-started",
   author: "Thelma Lee-Mendoza",
   unitSlug: "words",

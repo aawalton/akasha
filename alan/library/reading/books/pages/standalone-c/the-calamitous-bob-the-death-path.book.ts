@@ -5,7 +5,6 @@ export const theCalamitousBobTheDeathPath = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob-the-death-path",
   title: "The Calamitous Bob: The Death Path",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

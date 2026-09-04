@@ -5,7 +5,6 @@ export const theViridianGateArchivesImperialLegion = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-imperial-legion",
   title: "The Viridian Gate Archives: Imperial Legion",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

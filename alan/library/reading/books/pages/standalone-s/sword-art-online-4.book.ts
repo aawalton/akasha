@@ -5,7 +5,6 @@ export const swordArtOnline4 = {
   pageTypeSlug: "book",
   slug: "sword-art-online-4",
   title: "Sword Art Online 4",
-  kind: "read",
   status: "not-started",
   author: "Reki Kawahara",
   unitSlug: "words",

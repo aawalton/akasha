@@ -5,7 +5,6 @@ export const theBadGuysDarktownFunk = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-darktown-funk",
   title: "The Bad Guys: Darktown Funk",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 9,

@@ -5,7 +5,6 @@ export const disgardiumTheDemonicGames = {
   pageTypeSlug: "book",
   slug: "disgardium-the-demonic-games",
   title: "Disgardium: The Demonic Games",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 7,

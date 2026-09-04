@@ -5,7 +5,6 @@ export const stumblingOnHappiness = {
   pageTypeSlug: "book",
   slug: "stumbling-on-happiness",
   title: "Stumbling on Happiness",
-  kind: "read",
   status: "not-started",
   author: "Daniel Todd Gilbert",
   unitSlug: "words",

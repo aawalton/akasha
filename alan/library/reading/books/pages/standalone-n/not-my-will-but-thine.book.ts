@@ -5,7 +5,6 @@ export const notMyWillButThine = {
   pageTypeSlug: "book",
   slug: "not-my-will-but-thine",
   title: "Not My Will, But Thine",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

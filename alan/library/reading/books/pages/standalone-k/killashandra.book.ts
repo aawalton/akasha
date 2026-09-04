@@ -5,7 +5,6 @@ export const killashandra = {
   pageTypeSlug: "book",
   slug: "killashandra",
   title: "Killashandra",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
 } as const satisfies Book

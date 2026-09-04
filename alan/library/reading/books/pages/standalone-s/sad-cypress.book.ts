@@ -5,7 +5,6 @@ export const sadCypress = {
   pageTypeSlug: "book",
   slug: "sad-cypress",
   title: "Sad Cypress",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

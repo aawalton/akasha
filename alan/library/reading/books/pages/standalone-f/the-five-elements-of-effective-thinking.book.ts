@@ -5,7 +5,6 @@ export const theFiveElementsOfEffectiveThinking = {
   pageTypeSlug: "book",
   slug: "the-five-elements-of-effective-thinking",
   title: "The Five Elements of Effective Thinking",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "Edward B. Burger, Michael Starbird, Brian Troxell",

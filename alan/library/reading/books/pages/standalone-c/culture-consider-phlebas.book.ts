@@ -5,7 +5,6 @@ export const cultureConsiderPhlebas = {
   pageTypeSlug: "book",
   slug: "culture-consider-phlebas",
   title: "Culture: Consider Phlebas",
-  kind: "read",
   status: "not-started",
   author: "Iain Banks",
   unitSlug: "words",

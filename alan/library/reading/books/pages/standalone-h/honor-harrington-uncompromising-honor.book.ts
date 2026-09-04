@@ -5,7 +5,6 @@ export const honorHarringtonUncompromisingHonor = {
   pageTypeSlug: "book",
   slug: "honor-harrington-uncompromising-honor",
   title: "Honor Harrington: Uncompromising Honor",
-  kind: "read",
   status: "not-started",
   author: "David Weber, Allyson Johnson",
   unitSlug: "words",

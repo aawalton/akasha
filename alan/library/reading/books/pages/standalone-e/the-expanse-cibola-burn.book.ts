@@ -5,7 +5,6 @@ export const theExpanseCibolaBurn = {
   pageTypeSlug: "book",
   slug: "the-expanse-cibola-burn",
   title: "The Expanse: Cibola Burn",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

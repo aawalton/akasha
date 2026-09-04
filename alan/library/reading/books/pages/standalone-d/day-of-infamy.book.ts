@@ -5,7 +5,6 @@ export const dayOfInfamy = {
   pageTypeSlug: "book",
   slug: "day-of-infamy",
   title: "Day of Infamy",
-  kind: "read",
   status: "not-started",
   author: "Walter Lord",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const isaiahProphetSeerAndPoet = {
   pageTypeSlug: "book",
   slug: "isaiah-prophet-seer-and-poet",
   title: "Isaiah: Prophet, Seer, and Poet",
-  kind: "read",
   status: "paused",
   author: "Victor L. Ludlow",
   unitSlug: "words",

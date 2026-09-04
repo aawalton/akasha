@@ -5,7 +5,6 @@ export const somniaOnlineInitializing = {
   pageTypeSlug: "book",
   slug: "somnia-online-initializing",
   title: "Somnia Online: Initializing",
-  kind: "read",
   status: "completed",
   author: "K T Hanna",
   unitSlug: "words",

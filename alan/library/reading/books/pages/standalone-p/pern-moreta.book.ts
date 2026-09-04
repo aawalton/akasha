@@ -5,7 +5,6 @@ export const pernMoreta = {
   pageTypeSlug: "book",
   slug: "pern-moreta",
   title: "Pern: Moreta",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theWayOfKingsPrime = {
   pageTypeSlug: "book",
   slug: "the-way-of-kings-prime",
   title: "The Way of Kings Prime",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

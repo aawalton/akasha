@@ -5,7 +5,6 @@ export const heWhoFightsWithMonsters12 = {
   pageTypeSlug: "book",
   slug: "he-who-fights-with-monsters-12",
   title: "He Who Fights with Monsters 12",
-  kind: "read",
   status: "completed",
   author: "Winsor McCay",
   unitSlug: "words",

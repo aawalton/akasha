@@ -5,7 +5,6 @@ export const book2024DungeonMastersGuide = {
   pageTypeSlug: "book",
   slug: "book-2024-dungeon-masters-guide",
   title: "2024 Dungeon Master's Guide",
-  kind: "read",
   status: "not-started",
   author: "Christopher Perkins, James Wyatt, Adrian Ng, Judy Bauer, Janica Carter",
   unitSlug: "words",

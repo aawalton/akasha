@@ -5,7 +5,6 @@ export const thePrimalHunter7 = {
   pageTypeSlug: "book",
   slug: "the-primal-hunter-7",
   title: "The Primal Hunter 7",
-  kind: "read",
   status: "completed",
   author: "Nick Roberts, Greg Kramer",
   unitSlug: "words",

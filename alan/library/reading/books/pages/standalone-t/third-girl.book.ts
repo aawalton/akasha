@@ -5,7 +5,6 @@ export const thirdGirl = {
   pageTypeSlug: "book",
   slug: "third-girl",
   title: "Third Girl",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

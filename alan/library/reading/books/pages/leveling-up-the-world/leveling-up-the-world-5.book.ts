@@ -5,7 +5,6 @@ export const levelingUpTheWorld5 = {
   pageTypeSlug: "book",
   slug: "leveling-up-the-world-5",
   title: "Leveling Up The World 5",
-  kind: "read",
   status: "completed",
   author: "Houghton Mifflin Company Staff",
   unitSlug: "words",

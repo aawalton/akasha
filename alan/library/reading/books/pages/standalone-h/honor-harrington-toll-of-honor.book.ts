@@ -5,7 +5,6 @@ export const honorHarringtonTollOfHonor = {
   pageTypeSlug: "book",
   slug: "honor-harrington-toll-of-honor",
   title: "Honor Harrington: Toll of Honor",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 14,

@@ -5,7 +5,6 @@ export const annalsOfAmericaVolume20 = {
   pageTypeSlug: "book",
   slug: "annals-of-america-volume-20",
   title: "Annals of America Volume 20",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 20,

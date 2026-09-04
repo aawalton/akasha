@@ -5,7 +5,6 @@ export const bornInTheApocalypseJericho = {
   pageTypeSlug: "book",
   slug: "born-in-the-apocalypse-jericho",
   title: "Born in the Apocalypse: Jericho",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

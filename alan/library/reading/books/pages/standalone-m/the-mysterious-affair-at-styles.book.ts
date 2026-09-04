@@ -5,7 +5,6 @@ export const theMysteriousAffairAtStyles = {
   pageTypeSlug: "book",
   slug: "the-mysterious-affair-at-styles",
   title: "The Mysterious Affair at Styles",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

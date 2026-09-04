@@ -5,7 +5,6 @@ export const theFormula = {
   pageTypeSlug: "book",
   slug: "the-formula",
   title: "The Formula",
-  kind: "read",
   status: "not-started",
   author: "Albert-László Barabási",
   unitSlug: "words",

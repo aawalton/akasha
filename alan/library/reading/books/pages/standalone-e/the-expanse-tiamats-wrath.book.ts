@@ -5,7 +5,6 @@ export const theExpanseTiamatsWrath = {
   pageTypeSlug: "book",
   slug: "the-expanse-tiamats-wrath",
   title: "The Expanse: Tiamat's Wrath",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

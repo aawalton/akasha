@@ -5,7 +5,6 @@ export const annalsOfAmericaVolume13 = {
   pageTypeSlug: "book",
   slug: "annals-of-america-volume-13",
   title: "Annals of America Volume 13",
-  kind: "read",
   status: "not-started",
   author: "WILLIAM BENTON",
   unitSlug: "words",

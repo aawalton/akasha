@@ -5,7 +5,6 @@ export const stonehavenLeagueCavernOfSpirits = {
   pageTypeSlug: "book",
   slug: "stonehaven-league-cavern-of-spirits",
   title: "Stonehaven League: Cavern of Spirits",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

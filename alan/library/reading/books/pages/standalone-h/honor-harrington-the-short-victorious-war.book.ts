@@ -5,7 +5,6 @@ export const honorHarringtonTheShortVictoriousWar = {
   pageTypeSlug: "book",
   slug: "honor-harrington-the-short-victorious-war",
   title: "Honor Harrington: The Short Victorious War",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

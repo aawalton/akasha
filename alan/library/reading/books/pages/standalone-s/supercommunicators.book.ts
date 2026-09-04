@@ -5,7 +5,6 @@ export const supercommunicators = {
   pageTypeSlug: "book",
   slug: "supercommunicators",
   title: "Supercommunicators",
-  kind: "read",
   status: "not-started",
   author: "Charles Duhigg",
   unitSlug: "words",

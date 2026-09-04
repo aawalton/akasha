@@ -5,7 +5,6 @@ export const theCalamitousBobWarOfTheAscendedTheCalamitousBobFinalBook = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob-war-of-the-ascended-the-calamitous-bob-final-book",
   title: "The Calamitous Bob: War of the Ascended: The Calamitous Bob Final Book",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 10,

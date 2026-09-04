@@ -5,7 +5,6 @@ export const theAntidote = {
   pageTypeSlug: "book",
   slug: "the-antidote",
   title: "The Antidote",
-  kind: "read",
   status: "not-started",
   author: "Oliver Burkeman, Martín Rodríguez-Courel Ginzo",
   unitSlug: "words",

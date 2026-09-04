@@ -5,7 +5,6 @@ export const dumbWitness = {
   pageTypeSlug: "book",
   slug: "dumb-witness",
   title: "Dumb Witness",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

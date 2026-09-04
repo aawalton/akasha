@@ -5,7 +5,6 @@ export const hardwiringHappiness = {
   pageTypeSlug: "book",
   slug: "hardwiring-happiness",
   title: "Hardwiring Happiness",
-  kind: "read",
   status: "not-started",
   author: "Hanson, Rick (Psychologist)",
   unitSlug: "words",

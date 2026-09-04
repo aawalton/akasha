@@ -5,7 +5,6 @@ export const oldKingdomGoldenhand = {
   pageTypeSlug: "book",
   slug: "old-kingdom-goldenhand",
   title: "Old Kingdom: Goldenhand",
-  kind: "read",
   status: "not-started",
   author: "Garth Nix",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theCalamitousBobBlackManaGambit = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob-black-mana-gambit",
   title: "The Calamitous Bob: Black Mana Gambit",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

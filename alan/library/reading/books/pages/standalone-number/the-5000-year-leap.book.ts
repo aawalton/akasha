@@ -5,7 +5,6 @@ export const the5000YearLeap = {
   pageTypeSlug: "book",
   slug: "the-5000-year-leap",
   title: "The 5000 Year Leap",
-  kind: "read",
   status: "not-started",
   author: "W. Cleon Skousen",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const smartChange = {
   pageTypeSlug: "book",
   slug: "smart-change",
   title: "Smart Change",
-  kind: "read",
   status: "not-started",
   author: "Art Markman  PhD",
   unitSlug: "words",

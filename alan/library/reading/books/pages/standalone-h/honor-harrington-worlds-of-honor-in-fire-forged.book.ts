@@ -5,7 +5,6 @@ export const honorHarringtonWorldsOfHonorInFireForged = {
   pageTypeSlug: "book",
   slug: "honor-harrington-worlds-of-honor-in-fire-forged",
   title: "Honor Harrington - Worlds of Honor: In Fire Forged",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

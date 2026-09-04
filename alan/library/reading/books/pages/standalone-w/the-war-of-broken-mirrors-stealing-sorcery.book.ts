@@ -5,7 +5,6 @@ export const theWarOfBrokenMirrorsStealingSorcery = {
   pageTypeSlug: "book",
   slug: "the-war-of-broken-mirrors-stealing-sorcery",
   title: "The War of Broken Mirrors: Stealing Sorcery",
-  kind: "read",
   status: "completed",
   author: "Andrew Rowe",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const adhdIsAwesome = {
   pageTypeSlug: "book",
   slug: "adhd-is-awesome",
   title: "ADHD Is Awesome",
-  kind: "read",
   status: "not-started",
   author: "Penn Holderness, Kim Holderness",
   unitSlug: "words",

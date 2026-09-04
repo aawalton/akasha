@@ -5,7 +5,6 @@ export const honorHarringtonOnBasiliskStation = {
   pageTypeSlug: "book",
   slug: "honor-harrington-on-basilisk-station",
   title: "Honor Harrington: On Basilisk Station",
-  kind: "read",
   status: "paused",
   author: "David Weber",
   unitSlug: "words",

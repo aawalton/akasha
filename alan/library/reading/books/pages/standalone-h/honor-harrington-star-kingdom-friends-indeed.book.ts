@@ -5,7 +5,6 @@ export const honorHarringtonStarKingdomFriendsIndeed = {
   pageTypeSlug: "book",
   slug: "honor-harrington-star-kingdom-friends-indeed",
   title: "Honor Harrington - Star Kingdom: Friends Indeed",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

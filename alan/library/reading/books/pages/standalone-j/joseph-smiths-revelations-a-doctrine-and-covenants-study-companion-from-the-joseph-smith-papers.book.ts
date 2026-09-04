@@ -6,7 +6,6 @@ export const josephSmithsRevelationsADoctrineAndCovenantsStudyCompanionFromTheJo
   slug: "joseph-smiths-revelations-a-doctrine-and-covenants-study-companion-from-the-joseph-smith-papers",
   title:
     "Joseph Smith’s Revelations: A Doctrine and Covenants Study Companion from the Joseph Smith Papers",
-  kind: "read",
   status: "not-started",
   author: "Bible",
   unitSlug: "words",

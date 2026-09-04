@@ -5,7 +5,6 @@ export const motherOfLearning4 = {
   pageTypeSlug: "book",
   slug: "mother-of-learning-4",
   title: "Mother of Learning 4",
-  kind: "read",
   status: "completed",
   author: "James McBride",
   unitSlug: "words",

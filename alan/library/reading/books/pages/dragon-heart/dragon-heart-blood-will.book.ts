@@ -5,7 +5,6 @@ export const dragonHeartBloodWill = {
   pageTypeSlug: "book",
   slug: "dragon-heart-blood-will",
   title: "Dragon Heart: Blood Will",
-  kind: "read",
   status: "completed",
   author: "SuperSummary",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theBadGuysSkullAndThrones = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-skull-and-thrones",
   title: "The Bad Guys: Skull and Thrones",
-  kind: "read",
   status: "completed",
   author: "Winsor McCay",
   unitSlug: "words",

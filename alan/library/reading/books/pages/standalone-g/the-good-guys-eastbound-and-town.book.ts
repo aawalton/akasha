@@ -5,7 +5,6 @@ export const theGoodGuysEastboundAndTown = {
   pageTypeSlug: "book",
   slug: "the-good-guys-eastbound-and-town",
   title: "The Good Guys: Eastbound and Town",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 8,

@@ -5,7 +5,6 @@ export const factfulness = {
   pageTypeSlug: "book",
   slug: "factfulness",
   title: "Factfulness",
-  kind: "read",
   status: "not-started",
   author: "Hans Rosling, Ola Rosling, Anna Rosling Rönnlund",
   unitSlug: "words",

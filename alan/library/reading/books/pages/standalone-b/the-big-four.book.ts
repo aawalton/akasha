@@ -5,7 +5,6 @@ export const theBigFour = {
   pageTypeSlug: "book",
   slug: "the-big-four",
   title: "The Big Four",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

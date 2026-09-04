@@ -5,7 +5,6 @@ export const skyward = {
   pageTypeSlug: "book",
   slug: "skyward",
   title: "Skyward",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

@@ -5,7 +5,6 @@ export const theFoundersConstitutionVolume5 = {
   pageTypeSlug: "book",
   slug: "the-founders-constitution-volume-5",
   title: "The Founders Constitution Volume 5",
-  kind: "read",
   status: "not-started",
   author: "Philip B. Kurland, Ralph Lerner",
   unitSlug: "words",

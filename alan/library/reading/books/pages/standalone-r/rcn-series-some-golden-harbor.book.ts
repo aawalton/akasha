@@ -5,7 +5,6 @@ export const rcnSeriesSomeGoldenHarbor = {
   pageTypeSlug: "book",
   slug: "rcn-series-some-golden-harbor",
   title: "RCN Series: Some Golden Harbor",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

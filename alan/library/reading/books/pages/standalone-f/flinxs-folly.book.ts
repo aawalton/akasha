@@ -5,7 +5,6 @@ export const flinxsFolly = {
   pageTypeSlug: "book",
   slug: "flinxs-folly",
   title: "Flinx's Folly",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

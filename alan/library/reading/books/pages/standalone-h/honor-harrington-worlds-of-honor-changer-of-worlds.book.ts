@@ -5,7 +5,6 @@ export const honorHarringtonWorldsOfHonorChangerOfWorlds = {
   pageTypeSlug: "book",
   slug: "honor-harrington-worlds-of-honor-changer-of-worlds",
   title: "Honor Harrington - Worlds of Honor: Changer of Worlds",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

@@ -5,7 +5,6 @@ export const davidAndGoliath = {
   pageTypeSlug: "book",
   slug: "david-and-goliath",
   title: "David and Goliath",
-  kind: "read",
   status: "not-started",
   author: "Malcolm Gladwell",
   unitSlug: "words",

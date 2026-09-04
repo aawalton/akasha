@@ -5,7 +5,6 @@ export const discworldSourcery = {
   pageTypeSlug: "book",
   slug: "discworld-sourcery",
   title: "Discworld: Sourcery",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

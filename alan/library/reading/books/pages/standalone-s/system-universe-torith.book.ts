@@ -5,7 +5,6 @@ export const systemUniverseTorith = {
   pageTypeSlug: "book",
   slug: "system-universe-torith",
   title: "System Universe: Torith",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

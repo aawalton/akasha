@@ -5,7 +5,6 @@ export const alexaThymeMakingAName = {
   pageTypeSlug: "book",
   slug: "alexa-thyme-making-a-name",
   title: "Alexa Thyme: Making A Name",
-  kind: "read",
   status: "completed",
   author: "Lykanthropy",
   unitSlug: "words",

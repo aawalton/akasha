@@ -5,7 +5,6 @@ export const aMurderIsAnnounced = {
   pageTypeSlug: "book",
   slug: "a-murder-is-announced",
   title: "A Murder is Announced",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const dresdenFilesProvenGuilty = {
   pageTypeSlug: "book",
   slug: "dresden-files-proven-guilty",
   title: "Dresden Files: Proven Guilty",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

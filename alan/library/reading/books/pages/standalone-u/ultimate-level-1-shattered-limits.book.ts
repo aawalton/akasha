@@ -5,7 +5,6 @@ export const ultimateLevel1ShatteredLimits = {
   pageTypeSlug: "book",
   slug: "ultimate-level-1-shattered-limits",
   title: "Ultimate Level 1: Shattered Limits",
-  kind: "read",
   status: "completed",
   author: "Shawn Wilson",
   unitSlug: "words",

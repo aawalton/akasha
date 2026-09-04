@@ -5,7 +5,6 @@ export const saintsTheStandardOfTruth = {
   pageTypeSlug: "book",
   slug: "saints-the-standard-of-truth",
   title: "Saints: The Standard of Truth",
-  kind: "read",
   status: "not-started",
   author: "The Church of Jesus Christ of Latter Day Saints",
   unitSlug: "words",

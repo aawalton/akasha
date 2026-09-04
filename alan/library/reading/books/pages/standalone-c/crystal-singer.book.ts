@@ -5,7 +5,6 @@ export const crystalSinger = {
   pageTypeSlug: "book",
   slug: "crystal-singer",
   title: "Crystal Singer",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

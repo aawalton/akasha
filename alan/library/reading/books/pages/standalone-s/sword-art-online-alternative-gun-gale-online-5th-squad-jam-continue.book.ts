@@ -5,7 +5,6 @@ export const swordArtOnlineAlternativeGunGaleOnline5thSquadJamContinue = {
   pageTypeSlug: "book",
   slug: "sword-art-online-alternative-gun-gale-online-5th-squad-jam-continue",
   title: "Sword Art Online Alternative Gun Gale Online: 5th Squad Jam: Continue",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

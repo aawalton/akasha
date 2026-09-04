@@ -5,7 +5,6 @@ export const emilyDickinson = {
   pageTypeSlug: "book",
   slug: "emily-dickinson",
   title: "Emily Dickinson",
-  kind: "read",
   status: "paused",
   author: "Thomas Herbert Johnson",
   unitSlug: "words",

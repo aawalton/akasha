@@ -5,7 +5,6 @@ export const endsOfMagicAdventurer = {
   pageTypeSlug: "book",
   slug: "ends-of-magic-adventurer",
   title: "Ends of Magic: Adventurer",
-  kind: "read",
   status: "completed",
   author: "Mark Twain",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const oathbringer = {
   pageTypeSlug: "book",
   slug: "oathbringer",
   title: "Oathbringer",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

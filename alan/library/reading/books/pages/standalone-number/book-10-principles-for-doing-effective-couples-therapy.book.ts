@@ -5,7 +5,6 @@ export const book10PrinciplesForDoingEffectiveCouplesTherapy = {
   pageTypeSlug: "book",
   slug: "book-10-principles-for-doing-effective-couples-therapy",
   title: "10 Principles for Doing Effective Couples Therapy",
-  kind: "read",
   status: "not-started",
   author: "Julie Schwartz Gottman, John Mordechai Gottman",
   unitSlug: "words",

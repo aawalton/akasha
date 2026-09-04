@@ -5,7 +5,6 @@ export const sectorGeneralCodeBlueEmergency = {
   pageTypeSlug: "book",
   slug: "sector-general-code-blue-emergency",
   title: "Sector General: Code Blue - Emergency",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

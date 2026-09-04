@@ -5,7 +5,6 @@ export const discworldFeetOfClay = {
   pageTypeSlug: "book",
   slug: "discworld-feet-of-clay",
   title: "Discworld: Feet of Clay",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

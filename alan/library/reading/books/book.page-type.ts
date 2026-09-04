@@ -1,7 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
 import type { Title } from "../../../../pages/pages/properties/title.text-property.ts"
-import type { BookKind } from "./properties/book-kind.select-property.ts"
 import type { Isbn } from "./properties/isbn.text-property.ts"
 import type { Isbn13 } from "./properties/isbn13.text-property.ts"
 import type { OriginalPublicationYear } from "./properties/original-publication-year.number-property.ts"
@@ -11,7 +10,6 @@ import type { Rating } from "./properties/rating.number-property.ts"
 
 export type Book = CollectionExternal & {
   title: Title
-  kind: BookKind
   isbn?: Isbn
   isbn13?: Isbn13
   publisher?: Publisher
@@ -24,21 +22,19 @@ export const book = {
   id: "01a06598-222b-7002-9769-8ec160210422",
   pageTypeSlug: "page-type",
   slug: "book",
-  definition: "one book Alan reads or writes",
+  definition: "one book Alan reads",
   pluralSlug: "books",
   extendsSlug: "page-type/collection-external",
   partSlugs: [
     "number-property/original-publication-year",
     "number-property/page-count",
     "number-property/rating",
-    "select-property/book-kind",
     "text-property/isbn",
     "text-property/isbn13",
     "text-property/publisher",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "book-kind", required: true, many: false },
     { pagePropertySlug: "isbn", required: false, many: false },
     { pagePropertySlug: "isbn13", required: false, many: false },
     { pagePropertySlug: "publisher", required: false, many: false },

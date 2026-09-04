@@ -5,7 +5,6 @@ export const theDiscipleAsScholar = {
   pageTypeSlug: "book",
   slug: "the-disciple-as-scholar",
   title: "The Disciple as Scholar",
-  kind: "read",
   status: "paused",
   author: "Richard Lloyd Anderson, Stephen David Ricks, Donald W. Parry, Andrew H. Hedges",
   unitSlug: "words",

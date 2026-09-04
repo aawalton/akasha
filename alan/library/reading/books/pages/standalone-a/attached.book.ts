@@ -5,7 +5,6 @@ export const attached = {
   pageTypeSlug: "book",
   slug: "attached",
   title: "Attached",
-  kind: "read",
   status: "not-started",
   author: "Amir Levine",
   unitSlug: "words",

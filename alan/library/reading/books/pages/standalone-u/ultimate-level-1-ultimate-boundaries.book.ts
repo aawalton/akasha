@@ -5,7 +5,6 @@ export const ultimateLevel1UltimateBoundaries = {
   pageTypeSlug: "book",
   slug: "ultimate-level-1-ultimate-boundaries",
   title: "Ultimate Level 1: Ultimate Boundaries",
-  kind: "read",
   status: "completed",
   author: "Shawn Wilson",
   unitSlug: "words",

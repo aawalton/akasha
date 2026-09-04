@@ -5,7 +5,6 @@ export const theTravelersGateTrilogyCityOfLight = {
   pageTypeSlug: "book",
   slug: "the-travelers-gate-trilogy-city-of-light",
   title: "The Traveler's Gate Trilogy: City of Light",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

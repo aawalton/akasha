@@ -5,7 +5,6 @@ export const articlesOfFaith = {
   pageTypeSlug: "book",
   slug: "articles-of-faith",
   title: "Articles of Faith",
-  kind: "read",
   status: "not-started",
   author: "Ronald Harwood",
   unitSlug: "words",

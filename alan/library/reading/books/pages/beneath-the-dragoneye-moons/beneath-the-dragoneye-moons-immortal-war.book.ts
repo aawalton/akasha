@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsImmortalWar = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-immortal-war",
   title: "Beneath the Dragoneye Moons: Immortal War",
-  kind: "read",
   status: "completed",
   author: "Selkie Myth",
   unitSlug: "words",

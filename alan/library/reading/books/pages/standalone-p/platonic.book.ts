@@ -5,7 +5,6 @@ export const platonic = {
   pageTypeSlug: "book",
   slug: "platonic",
   title: "Platonic",
-  kind: "read",
   status: "not-started",
   author: "Walter Pater",
   unitSlug: "words",

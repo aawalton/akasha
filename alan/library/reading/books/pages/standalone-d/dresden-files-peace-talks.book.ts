@@ -5,7 +5,6 @@ export const dresdenFilesPeaceTalks = {
   pageTypeSlug: "book",
   slug: "dresden-files-peace-talks",
   title: "Dresden Files: Peace Talks",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

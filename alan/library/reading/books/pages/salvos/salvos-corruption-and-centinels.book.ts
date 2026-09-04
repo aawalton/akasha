@@ -5,7 +5,6 @@ export const salvosCorruptionAndCentinels = {
   pageTypeSlug: "book",
   slug: "salvos-corruption-and-centinels",
   title: "Salvos: Corruption and Centinels",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

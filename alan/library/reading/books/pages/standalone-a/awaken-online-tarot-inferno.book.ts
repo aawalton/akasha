@@ -5,7 +5,6 @@ export const awakenOnlineTarotInferno = {
   pageTypeSlug: "book",
   slug: "awaken-online-tarot-inferno",
   title: "Awaken Online: Tarot: Inferno",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

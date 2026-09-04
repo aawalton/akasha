@@ -5,7 +5,6 @@ export const robertLangdonAngelsAndDemons = {
   pageTypeSlug: "book",
   slug: "robert-langdon-angels-and-demons",
   title: "Robert Langdon: Angels & Demons",
-  kind: "read",
   status: "not-started",
   author: "Dan Brown",
   unitSlug: "words",

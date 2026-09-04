@@ -5,7 +5,6 @@ export const theSystemApocalypseRebelStar = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-rebel-star",
   title: "The System Apocalypse: Rebel Star",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 8,

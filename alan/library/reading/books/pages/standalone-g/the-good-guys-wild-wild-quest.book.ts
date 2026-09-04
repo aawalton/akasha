@@ -5,7 +5,6 @@ export const theGoodGuysWildWildQuest = {
   pageTypeSlug: "book",
   slug: "the-good-guys-wild-wild-quest",
   title: "The Good Guys: Wild Wild Quest",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

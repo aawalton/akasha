@@ -5,7 +5,6 @@ export const alienOutOfTheShadows = {
   pageTypeSlug: "book",
   slug: "alien-out-of-the-shadows",
   title: "Alien: Out of the Shadows",
-  kind: "read",
   status: "not-started",
   author: "Tim Lebbon",
   unitSlug: "words",

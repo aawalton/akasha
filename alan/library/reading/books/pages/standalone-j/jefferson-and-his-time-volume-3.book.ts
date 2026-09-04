@@ -5,7 +5,6 @@ export const jeffersonAndHisTimeVolume3 = {
   pageTypeSlug: "book",
   slug: "jefferson-and-his-time-volume-3",
   title: "Jefferson & His Time Volume 3",
-  kind: "read",
   status: "not-started",
   author: "Dumas Malone",
   unitSlug: "words",

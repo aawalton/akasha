@@ -5,7 +5,6 @@ export const yourBestBrainTheScienceOfBrainImprovement = {
   pageTypeSlug: "book",
   slug: "your-best-brain-the-science-of-brain-improvement",
   title: "Your Best Brain: The Science of Brain Improvement",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 189750,

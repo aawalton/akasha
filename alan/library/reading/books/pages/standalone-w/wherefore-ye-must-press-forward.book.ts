@@ -5,7 +5,6 @@ export const whereforeYeMustPressForward = {
   pageTypeSlug: "book",
   slug: "wherefore-ye-must-press-forward",
   title: "Wherefore, Ye Must Press Forward",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

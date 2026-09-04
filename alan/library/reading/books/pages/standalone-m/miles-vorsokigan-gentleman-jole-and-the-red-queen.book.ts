@@ -5,7 +5,6 @@ export const milesVorsokiganGentlemanJoleAndTheRedQueen = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-gentleman-jole-and-the-red-queen",
   title: "Miles Vorsokigan: Gentleman Jole and the Red Queen",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 15,

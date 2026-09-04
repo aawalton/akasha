@@ -5,7 +5,6 @@ export const noDramaDiscipline = {
   pageTypeSlug: "book",
   slug: "no-drama-discipline",
   title: "No-Drama Discipline",
-  kind: "read",
   status: "not-started",
   author: "Daniel J. Siegel",
   unitSlug: "words",

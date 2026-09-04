@@ -5,7 +5,6 @@ export const theRelationshipCure = {
   pageTypeSlug: "book",
   slug: "the-relationship-cure",
   title: "The Relationship Cure",
-  kind: "read",
   status: "completed",
   author: "John Mordechai Gottman, Joan Declaire",
   unitSlug: "words",

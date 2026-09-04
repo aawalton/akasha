@@ -5,7 +5,6 @@ export const dragonHeartStoneWill = {
   pageTypeSlug: "book",
   slug: "dragon-heart-stone-will",
   title: "Dragon Heart: Stone Will",
-  kind: "read",
   status: "completed",
   author: "Kirill Klevanski",
   unitSlug: "words",

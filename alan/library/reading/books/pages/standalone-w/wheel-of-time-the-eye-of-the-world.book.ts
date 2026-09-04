@@ -5,7 +5,6 @@ export const wheelOfTimeTheEyeOfTheWorld = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-the-eye-of-the-world",
   title: "Wheel of Time: The Eye of the World",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

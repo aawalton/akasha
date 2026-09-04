@@ -5,7 +5,6 @@ export const deadMansFolly = {
   pageTypeSlug: "book",
   slug: "dead-mans-folly",
   title: "Dead Man's Folly",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

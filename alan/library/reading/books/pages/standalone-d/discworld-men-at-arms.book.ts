@@ -5,7 +5,6 @@ export const discworldMenAtArms = {
   pageTypeSlug: "book",
   slug: "discworld-men-at-arms",
   title: "Discworld: Men at Arms",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

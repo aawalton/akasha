@@ -5,7 +5,6 @@ export const theScienceOfLove = {
   pageTypeSlug: "book",
   slug: "the-science-of-love",
   title: "The Science of Love",
-  kind: "read",
   status: "not-started",
   author: "John Baines",
   unitSlug: "words",

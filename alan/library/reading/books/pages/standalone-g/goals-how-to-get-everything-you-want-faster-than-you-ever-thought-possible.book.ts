@@ -5,7 +5,6 @@ export const goalsHowToGetEverythingYouWantFasterThanYouEverThoughtPossible = {
   pageTypeSlug: "book",
   slug: "goals-how-to-get-everything-you-want-faster-than-you-ever-thought-possible",
   title: "Goals! How to Get Everything You Want Faster Than You Ever Thought Possible",
-  kind: "read",
   status: "not-started",
   author: "Brian Tracy",
   unitSlug: "words",

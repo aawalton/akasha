@@ -5,7 +5,6 @@ export const dungeonCrawlerCarlCarlsDoomsdayScenario = {
   pageTypeSlug: "book",
   slug: "dungeon-crawler-carl-carls-doomsday-scenario",
   title: "Dungeon Crawler Carl: Carl's Doomsday Scenario",
-  kind: "read",
   status: "not-started",
   author: "Matt Dinniman",
   unitSlug: "words",

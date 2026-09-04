@@ -5,7 +5,6 @@ export const oliverTwist = {
   pageTypeSlug: "book",
   slug: "oliver-twist",
   title: "Oliver Twist",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

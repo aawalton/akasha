@@ -5,7 +5,6 @@ export const endsOfMagicAntimage = {
   pageTypeSlug: "book",
   slug: "ends-of-magic-antimage",
   title: "Ends of Magic: Antimage",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

@@ -5,7 +5,6 @@ export const theExpanseNemesisGames = {
   pageTypeSlug: "book",
   slug: "the-expanse-nemesis-games",
   title: "The Expanse: Nemesis Games",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

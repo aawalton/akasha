@@ -5,7 +5,6 @@ export const theSevenPrinciplesForMakingMarriageWork = {
   pageTypeSlug: "book",
   slug: "the-seven-principles-for-making-marriage-work",
   title: "The Seven Principles for Making Marriage Work",
-  kind: "read",
   status: "not-started",
   author: "John Mordechai Gottman, Nan Silver",
   unitSlug: "words",

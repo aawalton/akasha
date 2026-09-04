@@ -5,7 +5,6 @@ export const librarySystemResetLimiter = {
   pageTypeSlug: "book",
   slug: "library-system-reset-limiter",
   title: "Library System Reset: Limiter",
-  kind: "read",
   status: "not-started",
   author: "Paul J. Deitel, Harvey M. Deitel",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const infiniteRealmTheEmpire = {
   pageTypeSlug: "book",
   slug: "infinite-realm-the-empire",
   title: "Infinite Realm: The Empire",
-  kind: "read",
   status: "not-started",
   author: "Edmund Husserl, Dorion Cairns",
   unitSlug: "words",

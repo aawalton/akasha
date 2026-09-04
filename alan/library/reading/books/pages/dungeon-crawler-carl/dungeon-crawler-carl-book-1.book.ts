@@ -5,7 +5,6 @@ export const dungeonCrawlerCarlBook1 = {
   pageTypeSlug: "book",
   slug: "dungeon-crawler-carl-book-1",
   title: "Dungeon Crawler Carl",
-  kind: "read",
   status: "not-started",
   author: "Matt Dinniman",
   unitSlug: "words",

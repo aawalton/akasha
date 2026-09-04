@@ -5,7 +5,6 @@ export const beastborneChroniclesDunesOfMidnight = {
   pageTypeSlug: "book",
   slug: "beastborne-chronicles-dunes-of-midnight",
   title: "Beastborne Chronicles: Dunes of Midnight",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

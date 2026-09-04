@@ -5,7 +5,6 @@ export const beastborneChroniclesExiledLands = {
   pageTypeSlug: "book",
   slug: "beastborne-chronicles-exiled-lands",
   title: "Beastborne Chronicles: Exiled Lands",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

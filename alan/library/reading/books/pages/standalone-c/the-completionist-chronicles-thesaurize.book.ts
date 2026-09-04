@@ -5,7 +5,6 @@ export const theCompletionistChroniclesThesaurize = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-thesaurize",
   title: "The Completionist Chronicles: Thesaurize",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 10,

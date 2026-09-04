@@ -5,7 +5,6 @@ export const guardianOfAsterFallMoonlightRelic = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-moonlight-relic",
   title: "Guardian of Aster Fall: Moonlight Relic",
-  kind: "read",
   status: "completed",
   author: "David North",
   unitSlug: "words",

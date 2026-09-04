@@ -5,7 +5,6 @@ export const theFrugalWizardsHandbookForSurvivingMedievalEngland = {
   pageTypeSlug: "book",
   slug: "the-frugal-wizards-handbook-for-surviving-medieval-england",
   title: "The Frugal Wizard's Handbook for Surviving Medieval England",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

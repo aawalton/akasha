@@ -5,7 +5,6 @@ export const mistbornTheFinalEmpire = {
   pageTypeSlug: "book",
   slug: "mistborn-the-final-empire",
   title: "Mistborn: The Final Empire",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

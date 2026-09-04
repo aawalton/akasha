@@ -5,7 +5,6 @@ export const documentsVolume5 = {
   pageTypeSlug: "book",
   slug: "documents-volume-5",
   title: "Documents Volume 5",
-  kind: "read",
   status: "not-started",
   author: "Kentucky. General Assembly",
   unitSlug: "words",

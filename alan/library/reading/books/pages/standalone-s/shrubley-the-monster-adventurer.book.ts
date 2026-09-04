@@ -5,7 +5,6 @@ export const shrubleyTheMonsterAdventurer = {
   pageTypeSlug: "book",
   slug: "shrubley-the-monster-adventurer",
   title: "Shrubley, The Monster Adventurer",
-  kind: "read",
   status: "completed",
   rank: "C",
   unitSlug: "words",

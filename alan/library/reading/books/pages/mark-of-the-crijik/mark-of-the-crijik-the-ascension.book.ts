@@ -5,7 +5,6 @@ export const markOfTheCrijikTheAscension = {
   pageTypeSlug: "book",
   slug: "mark-of-the-crijik-the-ascension",
   title: "Mark of the Crijik: The Ascension",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

@@ -5,7 +5,6 @@ export const sectorGeneralStarHealer = {
   pageTypeSlug: "book",
   slug: "sector-general-star-healer",
   title: "Sector General: Star Healer",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

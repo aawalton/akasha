@@ -5,7 +5,6 @@ export const levelingUpTheWorld8 = {
   pageTypeSlug: "book",
   slug: "leveling-up-the-world-8",
   title: "Leveling Up The World 8",
-  kind: "read",
   status: "completed",
   author: "Jonathan Swift",
   unitSlug: "words",

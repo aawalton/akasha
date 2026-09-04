@@ -5,7 +5,6 @@ export const discworldIShallWearMidnight = {
   pageTypeSlug: "book",
   slug: "discworld-i-shall-wear-midnight",
   title: "Discworld: I Shall Wear Midnight",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

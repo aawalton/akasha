@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld28BaconDescartesSpinoza = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-28-bacon-descartes-spinoza",
   title: "The Great Books of the Western World 28: Bacon, Descartes, Spinoza",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 28,

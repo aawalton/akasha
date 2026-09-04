@@ -5,7 +5,6 @@ export const unmaskingAutism = {
   pageTypeSlug: "book",
   slug: "unmasking-autism",
   title: "Unmasking Autism",
-  kind: "read",
   status: "not-started",
   author: "Devon Price",
   unitSlug: "words",

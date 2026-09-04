@@ -5,7 +5,6 @@ export const play = {
   pageTypeSlug: "book",
   slug: "play",
   title: "Play",
-  kind: "read",
   status: "not-started",
   author: "Eric Berne",
   unitSlug: "words",

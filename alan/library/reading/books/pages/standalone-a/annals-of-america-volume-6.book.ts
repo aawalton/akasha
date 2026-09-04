@@ -5,7 +5,6 @@ export const annalsOfAmericaVolume6 = {
   pageTypeSlug: "book",
   slug: "annals-of-america-volume-6",
   title: "Annals of America Volume 6",
-  kind: "read",
   status: "not-started",
   author: "Editors",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const dragonHeartDragonCity = {
   pageTypeSlug: "book",
   slug: "dragon-heart-dragon-city",
   title: "Dragon Heart: Dragon City",
-  kind: "read",
   status: "completed",
   author: "Edgar Allan Poe",
   unitSlug: "words",

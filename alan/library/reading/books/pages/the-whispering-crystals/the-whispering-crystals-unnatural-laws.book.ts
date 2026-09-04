@@ -5,7 +5,6 @@ export const theWhisperingCrystalsUnnaturalLaws = {
   pageTypeSlug: "book",
   slug: "the-whispering-crystals-unnatural-laws",
   title: "The Whispering Crystals: Unnatural Laws",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

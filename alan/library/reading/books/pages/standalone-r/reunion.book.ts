@@ -5,7 +5,6 @@ export const reunion = {
   pageTypeSlug: "book",
   slug: "reunion",
   title: "Reunion",
-  kind: "read",
   status: "not-started",
   author: "Fred Uhlman",
   unitSlug: "words",

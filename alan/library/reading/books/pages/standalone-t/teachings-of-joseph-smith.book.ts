@@ -5,7 +5,6 @@ export const teachingsOfJosephSmith = {
   pageTypeSlug: "book",
   slug: "teachings-of-joseph-smith",
   title: "Teachings of Joseph Smith",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Joseph Smith, Jr.",

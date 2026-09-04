@@ -5,7 +5,6 @@ export const theBadGuysSeasTheDay = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-seas-the-day",
   title: "The Bad Guys: Seas the Day",
-  kind: "read",
   status: "completed",
   author: "SuperSummary",
   unitSlug: "words",

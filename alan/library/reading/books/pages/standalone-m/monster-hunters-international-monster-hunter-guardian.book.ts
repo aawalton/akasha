@@ -5,7 +5,6 @@ export const monsterHuntersInternationalMonsterHunterGuardian = {
   pageTypeSlug: "book",
   slug: "monster-hunters-international-monster-hunter-guardian",
   title: "Monster Hunters International: Monster Hunter Guardian",
-  kind: "read",
   status: "not-started",
   author: "Nick Roberts, Greg Kramer",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const aMoreExcellentWay = {
   pageTypeSlug: "book",
   slug: "a-more-excellent-way",
   title: '"...A More Excellent Way"',
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Henry Wright",

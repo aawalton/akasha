@@ -5,7 +5,6 @@ export const theBadGuysOnAThroneOfLies = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-on-a-throne-of-lies",
   title: "The Bad Guys: On a Throne of Lies",
-  kind: "read",
   status: "not-started",
   author: "SuperSummary",
   unitSlug: "words",

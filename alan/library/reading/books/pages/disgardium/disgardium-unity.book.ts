@@ -5,7 +5,6 @@ export const disgardiumUnity = {
   pageTypeSlug: "book",
   slug: "disgardium-unity",
   title: "Disgardium: Unity",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

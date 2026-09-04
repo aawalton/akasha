@@ -5,7 +5,6 @@ export const systemUniverseRequirements = {
   pageTypeSlug: "book",
   slug: "system-universe-requirements",
   title: "System Universe: Requirements",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

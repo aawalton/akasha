@@ -5,7 +5,6 @@ export const twentyThousandLeaguesUnderTheSea = {
   pageTypeSlug: "book",
   slug: "twenty-thousand-leagues-under-the-sea",
   title: "Twenty Thousand Leagues Under the Sea",
-  kind: "read",
   status: "not-started",
   author: "ColorLab ColorLab Series (bogus 'author'), Jules Verne",
   unitSlug: "words",

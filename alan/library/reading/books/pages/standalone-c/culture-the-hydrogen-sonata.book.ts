@@ -5,7 +5,6 @@ export const cultureTheHydrogenSonata = {
   pageTypeSlug: "book",
   slug: "culture-the-hydrogen-sonata",
   title: "Culture: The Hydrogen Sonata",
-  kind: "read",
   status: "not-started",
   author: "Iain Banks",
   unitSlug: "words",

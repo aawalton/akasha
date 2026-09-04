@@ -5,7 +5,6 @@ export const oneMoreStrainOfPraise = {
   pageTypeSlug: "book",
   slug: "one-more-strain-of-praise",
   title: "One More Strain of Praise",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

@@ -5,7 +5,6 @@ export const whiteSand1 = {
   pageTypeSlug: "book",
   slug: "white-sand-1",
   title: "White Sand 1",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson, Rik Hoskin, Julius M. Gopez",
   unitSlug: "words",

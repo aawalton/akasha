@@ -5,7 +5,6 @@ export const understandingTheMysteriesOfHumanBehavior = {
   pageTypeSlug: "book",
   slug: "understanding-the-mysteries-of-human-behavior",
   title: "Understanding the Mysteries of Human Behavior",
-  kind: "read",
   status: "not-started",
   author: "Professor Mark Leary Ph.D.",
   unitSlug: "words",

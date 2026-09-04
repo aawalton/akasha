@@ -5,7 +5,6 @@ export const unfair = {
   pageTypeSlug: "book",
   slug: "unfair",
   title: "Unfair",
-  kind: "read",
   status: "not-started",
   author: "Adam Benforado",
   unitSlug: "words",

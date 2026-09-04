@@ -5,7 +5,6 @@ export const galacticEmpireTheCurrentsOfSpace = {
   pageTypeSlug: "book",
   slug: "galactic-empire-the-currents-of-space",
   title: "Galactic Empire: The Currents of Space",
-  kind: "read",
   status: "not-started",
   author: "Isaac Asimov",
   unitSlug: "words",

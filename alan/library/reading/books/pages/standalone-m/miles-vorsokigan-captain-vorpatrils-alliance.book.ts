@@ -5,7 +5,6 @@ export const milesVorsokiganCaptainVorpatrilsAlliance = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-captain-vorpatrils-alliance",
   title: "Miles Vorsokigan: Captain Vorpatril's Alliance",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 14,

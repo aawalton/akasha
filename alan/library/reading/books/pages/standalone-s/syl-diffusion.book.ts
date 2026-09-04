@@ -5,7 +5,6 @@ export const sylDiffusion = {
   pageTypeSlug: "book",
   slug: "syl-diffusion",
   title: "Syl: Diffusion",
-  kind: "read",
   status: "completed",
   author: "Robert Combas",
   unitSlug: "words",

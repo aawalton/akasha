@@ -5,7 +5,6 @@ export const theGoodGuysFlexInTheCity = {
   pageTypeSlug: "book",
   slug: "the-good-guys-flex-in-the-city",
   title: "The Good Guys: Flex in the City",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 13,

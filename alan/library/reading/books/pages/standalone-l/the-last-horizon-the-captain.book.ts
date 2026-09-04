@@ -5,7 +5,6 @@ export const theLastHorizonTheCaptain = {
   pageTypeSlug: "book",
   slug: "the-last-horizon-the-captain",
   title: "The Last Horizon: The Captain",
-  kind: "read",
   status: "not-started",
   author: "Will Wight",
   unitSlug: "words",

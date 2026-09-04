@@ -5,7 +5,6 @@ export const markOfTheFoolBook1 = {
   pageTypeSlug: "book",
   slug: "mark-of-the-fool-book-1",
   title: "Mark of the Fool",
-  kind: "read",
   status: "completed",
   author: "J.M. Clarke",
   unitSlug: "words",

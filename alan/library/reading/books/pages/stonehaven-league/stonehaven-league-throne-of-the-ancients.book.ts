@@ -5,7 +5,6 @@ export const stonehavenLeagueThroneOfTheAncients = {
   pageTypeSlug: "book",
   slug: "stonehaven-league-throne-of-the-ancients",
   title: "Stonehaven League: Throne of the Ancients",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

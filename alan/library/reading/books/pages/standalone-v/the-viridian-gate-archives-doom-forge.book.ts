@@ -5,7 +5,6 @@ export const theViridianGateArchivesDoomForge = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-doom-forge",
   title: "The Viridian Gate Archives: Doom Forge",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

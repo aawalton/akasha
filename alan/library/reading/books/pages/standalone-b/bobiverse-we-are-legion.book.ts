@@ -5,7 +5,6 @@ export const bobiverseWeAreLegion = {
   pageTypeSlug: "book",
   slug: "bobiverse-we-are-legion",
   title: "Bobiverse: We Are Legion",
-  kind: "read",
   status: "not-started",
   author: "Dennis E. Taylor",
   unitSlug: "words",

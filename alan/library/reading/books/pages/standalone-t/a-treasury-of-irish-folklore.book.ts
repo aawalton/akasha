@@ -5,7 +5,6 @@ export const aTreasuryOfIrishFolklore = {
   pageTypeSlug: "book",
   slug: "a-treasury-of-irish-folklore",
   title: "A Treasury of Irish Folklore",
-  kind: "read",
   status: "paused",
   unitSlug: "words",
   position: 2,

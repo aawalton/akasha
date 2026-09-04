@@ -5,7 +5,6 @@ export const forLoveOfMotherNot = {
   pageTypeSlug: "book",
   slug: "for-love-of-mother-not",
   title: "For Love of Mother-Not",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

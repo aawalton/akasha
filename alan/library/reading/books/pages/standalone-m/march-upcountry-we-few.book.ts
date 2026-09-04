@@ -5,7 +5,6 @@ export const marchUpcountryWeFew = {
   pageTypeSlug: "book",
   slug: "march-upcountry-we-few",
   title: "March Upcountry: We Few",
-  kind: "read",
   status: "not-started",
   author: "John Ringo",
   unitSlug: "words",

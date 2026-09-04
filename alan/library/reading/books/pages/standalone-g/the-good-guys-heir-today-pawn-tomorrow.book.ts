@@ -5,7 +5,6 @@ export const theGoodGuysHeirTodayPawnTomorrow = {
   pageTypeSlug: "book",
   slug: "the-good-guys-heir-today-pawn-tomorrow",
   title: "The Good Guys: Heir Today, Pawn Tomorrow",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

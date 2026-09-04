@@ -5,7 +5,6 @@ export const thePromiseOfDiscipleship = {
   pageTypeSlug: "book",
   slug: "the-promise-of-discipleship",
   title: "The Promise of Discipleship",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

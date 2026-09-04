@@ -5,7 +5,6 @@ export const milesVorsokiganMemory = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-memory",
   title: "Miles Vorsokigan: Memory",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 9,

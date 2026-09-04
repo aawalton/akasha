@@ -5,7 +5,6 @@ export const ramaRamaRevealed = {
   pageTypeSlug: "book",
   slug: "rama-rama-revealed",
   title: "Rama: Rama Revealed",
-  kind: "read",
   status: "not-started",
   author: "Arthur C. Clarke",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const murderOnTheOrientExpress = {
   pageTypeSlug: "book",
   slug: "murder-on-the-orient-express",
   title: "Murder on the Orient Express",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

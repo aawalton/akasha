@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld16Augustine = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-16-augustine",
   title: "The Great Books of the Western World 16: Augustine",
-  kind: "read",
   status: "not-started",
   author: "Blaise Pascal, Mortimer J. Adler",
   unitSlug: "words",

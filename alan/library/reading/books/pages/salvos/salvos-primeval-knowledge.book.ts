@@ -5,7 +5,6 @@ export const salvosPrimevalKnowledge = {
   pageTypeSlug: "book",
   slug: "salvos-primeval-knowledge",
   title: "Salvos: Primeval Knowledge",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

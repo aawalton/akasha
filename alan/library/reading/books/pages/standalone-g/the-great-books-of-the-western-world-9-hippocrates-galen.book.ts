@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld9HippocratesGalen = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-9-hippocrates-galen",
   title: "The Great Books of the Western World 9: Hippocrates, Galen",
-  kind: "read",
   status: "completed",
   rank: "C",
   unitSlug: "words",

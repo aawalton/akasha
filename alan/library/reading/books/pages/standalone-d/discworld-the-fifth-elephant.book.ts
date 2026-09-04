@@ -5,7 +5,6 @@ export const discworldTheFifthElephant = {
   pageTypeSlug: "book",
   slug: "discworld-the-fifth-elephant",
   title: "Discworld: The Fifth Elephant",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

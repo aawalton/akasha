@@ -5,7 +5,6 @@ export const theMurderOnTheLinks = {
   pageTypeSlug: "book",
   slug: "the-murder-on-the-links",
   title: "The Murder on the Links",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

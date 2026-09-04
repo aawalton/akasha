@@ -5,7 +5,6 @@ export const awakenOnlineHellion = {
   pageTypeSlug: "book",
   slug: "awaken-online-hellion",
   title: "Awaken Online: Hellion",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 8,

@@ -5,7 +5,6 @@ export const honorHarringtonInEnemyHands = {
   pageTypeSlug: "book",
   slug: "honor-harrington-in-enemy-hands",
   title: "Honor Harrington: In Enemy Hands",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

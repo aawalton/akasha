@@ -5,7 +5,6 @@ export const millennialMageVoidbound = {
   pageTypeSlug: "book",
   slug: "millennial-mage-voidbound",
   title: "Millennial Mage: Voidbound",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 10,

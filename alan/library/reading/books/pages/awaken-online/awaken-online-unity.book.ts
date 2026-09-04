@@ -5,7 +5,6 @@ export const awakenOnlineUnity = {
   pageTypeSlug: "book",
   slug: "awaken-online-unity",
   title: "Awaken Online: Unity",
-  kind: "read",
   status: "completed",
   author: "Travis Bagwell",
   unitSlug: "words",

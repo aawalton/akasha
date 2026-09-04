@@ -5,7 +5,6 @@ export const catAmongThePigeons = {
   pageTypeSlug: "book",
   slug: "cat-among-the-pigeons",
   title: "Cat Among the Pigeons",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

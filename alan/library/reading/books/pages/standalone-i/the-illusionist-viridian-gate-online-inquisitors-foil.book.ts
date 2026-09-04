@@ -5,7 +5,6 @@ export const theIllusionistViridianGateOnlineInquisitorsFoil = {
   pageTypeSlug: "book",
   slug: "the-illusionist-viridian-gate-online-inquisitors-foil",
   title: "The Illusionist: Viridian Gate Online: Inquisitor's Foil",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

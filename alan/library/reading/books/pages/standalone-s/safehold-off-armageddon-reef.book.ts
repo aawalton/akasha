@@ -5,7 +5,6 @@ export const safeholdOffArmageddonReef = {
   pageTypeSlug: "book",
   slug: "safehold-off-armageddon-reef",
   title: "Safehold: Off Armageddon Reef",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld13Plutarch = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-13-plutarch",
   title: "The Great Books of the Western World 13: Plutarch",
-  kind: "read",
   status: "not-started",
   author: "Όμηρος",
   unitSlug: "words",

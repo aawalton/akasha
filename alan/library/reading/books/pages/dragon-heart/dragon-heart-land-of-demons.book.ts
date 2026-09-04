@@ -5,7 +5,6 @@ export const dragonHeartLandOfDemons = {
   pageTypeSlug: "book",
   slug: "dragon-heart-land-of-demons",
   title: "Dragon Heart: Land of Demons",
-  kind: "read",
   status: "completed",
   author: "Robert Baker Girdlestone",
   unitSlug: "words",

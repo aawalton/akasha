@@ -5,7 +5,6 @@ export const theSecretLifeOfTheGrownUpBrain = {
   pageTypeSlug: "book",
   slug: "the-secret-life-of-the-grown-up-brain",
   title: "The Secret Life of the Grown-Up Brain",
-  kind: "read",
   status: "not-started",
   author: "Barbara Strauch",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const chalionTheHallowedHunt = {
   pageTypeSlug: "book",
   slug: "chalion-the-hallowed-hunt",
   title: "Chalion: The Hallowed Hunt",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

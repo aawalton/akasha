@@ -5,7 +5,6 @@ export const monsterHuntersInternationalMonsterHunterVendetta = {
   pageTypeSlug: "book",
   slug: "monster-hunters-international-monster-hunter-vendetta",
   title: "Monster Hunters International: Monster Hunter Vendetta",
-  kind: "read",
   status: "not-started",
   author: "Matt Fox",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const mrPenumbras24HourBookstore = {
   pageTypeSlug: "book",
   slug: "mr-penumbras-24-hour-bookstore",
   title: "Mr. Penumbra's 24-Hour Bookstore",
-  kind: "read",
   status: "not-started",
   author: "Robin Sloan, Robin Sloan, Ari Fliakos, Robin Sloane",
   unitSlug: "words",

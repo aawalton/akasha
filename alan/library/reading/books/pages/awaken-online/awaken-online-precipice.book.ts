@@ -5,7 +5,6 @@ export const awakenOnlinePrecipice = {
   pageTypeSlug: "book",
   slug: "awaken-online-precipice",
   title: "Awaken Online: Precipice",
-  kind: "read",
   status: "completed",
   author: "Travis Bagwell",
   unitSlug: "words",

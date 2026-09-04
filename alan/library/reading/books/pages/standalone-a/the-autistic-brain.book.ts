@@ -5,7 +5,6 @@ export const theAutisticBrain = {
   pageTypeSlug: "book",
   slug: "the-autistic-brain",
   title: "The Autistic Brain",
-  kind: "read",
   status: "not-started",
   author: "Temple Grandin, Richard Panek",
   unitSlug: "words",

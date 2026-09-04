@@ -5,7 +5,6 @@ export const mrsMcgintysDead = {
   pageTypeSlug: "book",
   slug: "mrs-mcgintys-dead",
   title: "Mrs McGinty's Dead",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

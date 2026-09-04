@@ -5,7 +5,6 @@ export const awakenOnlineTimeless = {
   pageTypeSlug: "book",
   slug: "awaken-online-timeless",
   title: "Awaken Online: Timeless",
-  kind: "read",
   status: "completed",
   author: "Travis Bagwell",
   unitSlug: "words",

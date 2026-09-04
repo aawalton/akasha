@@ -5,7 +5,6 @@ export const dragonHeartSeaOfSorrow = {
   pageTypeSlug: "book",
   slug: "dragon-heart-sea-of-sorrow",
   title: "Dragon Heart: Sea of Sorrow",
-  kind: "read",
   status: "completed",
   author: "Christopher Paolini",
   unitSlug: "words",

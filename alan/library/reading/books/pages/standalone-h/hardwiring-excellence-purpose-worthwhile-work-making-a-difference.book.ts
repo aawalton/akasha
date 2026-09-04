@@ -5,7 +5,6 @@ export const hardwiringExcellencePurposeWorthwhileWorkMakingADifference = {
   pageTypeSlug: "book",
   slug: "hardwiring-excellence-purpose-worthwhile-work-making-a-difference",
   title: "Hardwiring Excellence: Purpose, Worthwhile Work, Making a Difference",
-  kind: "read",
   status: "not-started",
   author: "Quint Studer",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const verbalJudoUpdatedEdition = {
   pageTypeSlug: "book",
   slug: "verbal-judo-updated-edition",
   title: "Verbal Judo, Updated Edition",
-  kind: "read",
   status: "not-started",
   author: "Jerry B. Jenkins",
   unitSlug: "words",

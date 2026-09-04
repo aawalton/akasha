@@ -5,7 +5,6 @@ export const theChecklistManifesto = {
   pageTypeSlug: "book",
   slug: "the-checklist-manifesto",
   title: "The Checklist Manifesto",
-  kind: "read",
   status: "not-started",
   author: "Atul Gawande",
   unitSlug: "words",

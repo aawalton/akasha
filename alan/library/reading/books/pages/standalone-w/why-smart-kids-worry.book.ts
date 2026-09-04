@@ -5,7 +5,6 @@ export const whySmartKidsWorry = {
   pageTypeSlug: "book",
   slug: "why-smart-kids-worry",
   title: "Why Smart Kids Worry",
-  kind: "read",
   status: "not-started",
   author: "Allison Edwards",
   unitSlug: "words",

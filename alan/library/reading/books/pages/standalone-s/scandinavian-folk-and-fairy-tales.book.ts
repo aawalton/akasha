@@ -5,7 +5,6 @@ export const scandinavianFolkAndFairyTales = {
   pageTypeSlug: "book",
   slug: "scandinavian-folk-and-fairy-tales",
   title: "Scandinavian Folk & Fairy Tales",
-  kind: "read",
   status: "not-started",
   author: "Claire Booss",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const abundance = {
   pageTypeSlug: "book",
   slug: "abundance",
   title: "Abundance",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "John Green",

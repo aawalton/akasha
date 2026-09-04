@@ -5,7 +5,6 @@ export const theCompleteGuideToFasting = {
   pageTypeSlug: "book",
   slug: "the-complete-guide-to-fasting",
   title: "The Complete Guide to Fasting",
-  kind: "read",
   status: "not-started",
   author: "Jason Fung",
   unitSlug: "words",

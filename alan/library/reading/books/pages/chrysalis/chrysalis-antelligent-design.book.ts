@@ -5,7 +5,6 @@ export const chrysalisAntelligentDesign = {
   pageTypeSlug: "book",
   slug: "chrysalis-antelligent-design",
   title: "Chrysalis: Antelligent Design",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

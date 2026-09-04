@@ -5,7 +5,6 @@ export const theMortalMessiahVolume3 = {
   pageTypeSlug: "book",
   slug: "the-mortal-messiah-volume-3",
   title: "The Mortal Messiah Volume 3",
-  kind: "read",
   status: "not-started",
   author: "Silas Farmer",
   unitSlug: "words",

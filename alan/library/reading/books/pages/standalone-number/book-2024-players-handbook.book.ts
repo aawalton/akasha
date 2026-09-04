@@ -5,7 +5,6 @@ export const book2024PlayersHandbook = {
   pageTypeSlug: "book",
   slug: "book-2024-players-handbook",
   title: "2024 Player's Handbook",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

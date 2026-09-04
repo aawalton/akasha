@@ -5,7 +5,6 @@ export const aTaleOfTwoCities = {
   pageTypeSlug: "book",
   slug: "a-tale-of-two-cities",
   title: "A Tale of Two Cities",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

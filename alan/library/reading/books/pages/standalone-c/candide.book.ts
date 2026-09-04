@@ -5,7 +5,6 @@ export const candide = {
   pageTypeSlug: "book",
   slug: "candide",
   title: "Candide",
-  kind: "read",
   status: "not-started",
   author: "Voltaire",
   unitSlug: "words",

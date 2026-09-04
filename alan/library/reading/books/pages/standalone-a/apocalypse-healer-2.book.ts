@@ -5,7 +5,6 @@ export const apocalypseHealer2 = {
   pageTypeSlug: "book",
   slug: "apocalypse-healer-2",
   title: "Apocalypse Healer 2",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

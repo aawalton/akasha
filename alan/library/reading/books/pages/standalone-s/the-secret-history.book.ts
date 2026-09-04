@@ -5,7 +5,6 @@ export const theSecretHistory = {
   pageTypeSlug: "book",
   slug: "the-secret-history",
   title: "The Secret History",
-  kind: "read",
   status: "not-started",
   author: "Donna Tartt",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const manticoreAscendantSeriesACallToDuty = {
   pageTypeSlug: "book",
   slug: "manticore-ascendant-series-a-call-to-duty",
   title: "Manticore Ascendant Series: A Call to Duty",
-  kind: "read",
   status: "not-started",
   author: "Timothy Zahn, David Weber, Eric Michael Summerer",
   unitSlug: "words",

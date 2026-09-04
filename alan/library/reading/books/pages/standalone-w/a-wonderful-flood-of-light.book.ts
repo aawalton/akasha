@@ -5,7 +5,6 @@ export const aWonderfulFloodOfLight = {
   pageTypeSlug: "book",
   slug: "a-wonderful-flood-of-light",
   title: "A Wonderful Flood of Light",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

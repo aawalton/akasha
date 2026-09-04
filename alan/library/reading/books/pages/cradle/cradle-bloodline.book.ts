@@ -5,7 +5,6 @@ export const cradleBloodline = {
   pageTypeSlug: "book",
   slug: "cradle-bloodline",
   title: "Cradle: Bloodline",
-  kind: "read",
   status: "completed",
   author: "Will Wight",
   unitSlug: "words",

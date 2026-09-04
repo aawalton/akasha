@@ -5,7 +5,6 @@ export const thePromisedMessiah = {
   pageTypeSlug: "book",
   slug: "the-promised-messiah",
   title: "The Promised Messiah",
-  kind: "read",
   status: "paused",
   author: "Bruce R. McConkie",
   unitSlug: "words",

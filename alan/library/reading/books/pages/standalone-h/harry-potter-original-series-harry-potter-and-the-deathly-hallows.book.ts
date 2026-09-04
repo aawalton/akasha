@@ -5,7 +5,6 @@ export const harryPotterOriginalSeriesHarryPotterAndTheDeathlyHallows = {
   pageTypeSlug: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-deathly-hallows",
   title: "Harry Potter Original Series: Harry Potter and the Deathly Hallows",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

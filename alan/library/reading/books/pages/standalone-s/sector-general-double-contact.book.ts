@@ -5,7 +5,6 @@ export const sectorGeneralDoubleContact = {
   pageTypeSlug: "book",
   slug: "sector-general-double-contact",
   title: "Sector General: Double Contact",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const honorHarringtonAshesOfVictory = {
   pageTypeSlug: "book",
   slug: "honor-harrington-ashes-of-victory",
   title: "Honor Harrington: Ashes of Victory",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

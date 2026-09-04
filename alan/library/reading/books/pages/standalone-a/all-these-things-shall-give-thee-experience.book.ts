@@ -5,7 +5,6 @@ export const allTheseThingsShallGiveTheeExperience = {
   pageTypeSlug: "book",
   slug: "all-these-things-shall-give-thee-experience",
   title: "All These Things Shall Give Thee Experience",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

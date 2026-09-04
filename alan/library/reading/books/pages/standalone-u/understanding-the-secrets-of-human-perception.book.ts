@@ -5,7 +5,6 @@ export const understandingTheSecretsOfHumanPerception = {
   pageTypeSlug: "book",
   slug: "understanding-the-secrets-of-human-perception",
   title: "Understanding the Secrets of Human Perception",
-  kind: "read",
   status: "not-started",
   author: "Frans Viljoen, Jehoshaphat Njau",
   unitSlug: "words",

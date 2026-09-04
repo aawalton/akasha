@@ -5,7 +5,6 @@ export const theBandsOfMourning = {
   pageTypeSlug: "book",
   slug: "the-bands-of-mourning",
   title: "The Bands of Mourning",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

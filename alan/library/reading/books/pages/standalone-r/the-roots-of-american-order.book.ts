@@ -5,7 +5,6 @@ export const theRootsOfAmericanOrder = {
   pageTypeSlug: "book",
   slug: "the-roots-of-american-order",
   title: "The Roots of American Order",
-  kind: "read",
   status: "not-started",
   author: "Russell Kirk",
   unitSlug: "words",

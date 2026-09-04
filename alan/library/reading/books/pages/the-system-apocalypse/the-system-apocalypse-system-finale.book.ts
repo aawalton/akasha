@@ -5,7 +5,6 @@ export const theSystemApocalypseSystemFinale = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-system-finale",
   title: "The System Apocalypse: System Finale",
-  kind: "read",
   status: "completed",
   author: "Ernst Bloch, J. T. Swann, Thompson, Peter",
   unitSlug: "words",

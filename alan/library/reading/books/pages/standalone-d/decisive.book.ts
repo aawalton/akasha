@@ -5,7 +5,6 @@ export const decisive = {
   pageTypeSlug: "book",
   slug: "decisive",
   title: "Decisive",
-  kind: "read",
   status: "not-started",
   author: "Janet Dailey",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const dresdenFilesWhiteNight = {
   pageTypeSlug: "book",
   slug: "dresden-files-white-night",
   title: "Dresden Files: White Night",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

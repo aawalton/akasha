@@ -5,7 +5,6 @@ export const chrysalisUppingTheAnte = {
   pageTypeSlug: "book",
   slug: "chrysalis-upping-the-ante",
   title: "Chrysalis: Upping the Ante",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

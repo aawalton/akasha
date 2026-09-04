@@ -5,7 +5,6 @@ export const theExpanseAbaddonsGate = {
   pageTypeSlug: "book",
   slug: "the-expanse-abaddons-gate",
   title: "The Expanse: Abaddon's Gate",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

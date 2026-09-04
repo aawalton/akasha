@@ -5,7 +5,6 @@ export const theWideGreenWorldSeriesPassage = {
   pageTypeSlug: "book",
   slug: "the-wide-green-world-series-passage",
   title: "The Wide Green World Series: Passage",
-  kind: "read",
   status: "not-started",
   author: "William Shakespeare",
   unitSlug: "words",

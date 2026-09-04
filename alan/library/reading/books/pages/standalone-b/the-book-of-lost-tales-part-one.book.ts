@@ -5,7 +5,6 @@ export const theBookOfLostTalesPartOne = {
   pageTypeSlug: "book",
   slug: "the-book-of-lost-tales-part-one",
   title: "The Book of Lost Tales, Part One",
-  kind: "read",
   status: "not-started",
   author: "J.R.R. Tolkien",
   unitSlug: "words",

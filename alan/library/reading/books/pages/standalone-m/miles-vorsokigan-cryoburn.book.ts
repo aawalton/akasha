@@ -5,7 +5,6 @@ export const milesVorsokiganCryoburn = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-cryoburn",
   title: "Miles Vorsokigan: CryoBurn",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 13,

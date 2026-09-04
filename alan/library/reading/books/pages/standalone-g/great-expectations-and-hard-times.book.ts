@@ -5,7 +5,6 @@ export const greatExpectationsAndHardTimes = {
   pageTypeSlug: "book",
   slug: "great-expectations-and-hard-times",
   title: "Great Expectations & Hard Times",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",

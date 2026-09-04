@@ -5,7 +5,6 @@ export const pearlHarborGhosts = {
   pageTypeSlug: "book",
   slug: "pearl-harbor-ghosts",
   title: "Pearl Harbor Ghosts",
-  kind: "read",
   status: "not-started",
   author: "Thurston Clarke",
   unitSlug: "words",

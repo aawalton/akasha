@@ -5,7 +5,6 @@ export const theCompletionistChroniclesUntapped = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-untapped",
   title: "The Completionist Chronicles: Untapped",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 12,

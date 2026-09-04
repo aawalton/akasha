@@ -5,7 +5,6 @@ export const ifThoughEndureItWell = {
   pageTypeSlug: "book",
   slug: "if-though-endure-it-well",
   title: "If Though Endure It Well",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Edmund Husserl, Dorion Cairns",

@@ -5,7 +5,6 @@ export const theFabricOfReality2 = {
   pageTypeSlug: "book",
   slug: "the-fabric-of-reality-2",
   title: "The Fabric of Reality",
-  kind: "read",
   status: "completed",
   rank: "S",
   author: "David Deutsch",

@@ -5,7 +5,6 @@ export const accidentalGenius = {
   pageTypeSlug: "book",
   slug: "accidental-genius",
   title: "Accidental Genius",
-  kind: "read",
   status: "not-started",
   author: "Marshall Fine",
   unitSlug: "words",

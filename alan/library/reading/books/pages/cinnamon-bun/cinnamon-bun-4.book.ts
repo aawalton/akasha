@@ -5,7 +5,6 @@ export const cinnamonBun4 = {
   pageTypeSlug: "book",
   slug: "cinnamon-bun-4",
   title: "Cinnamon Bun 4",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

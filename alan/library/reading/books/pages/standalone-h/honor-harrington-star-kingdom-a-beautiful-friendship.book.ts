@@ -5,7 +5,6 @@ export const honorHarringtonStarKingdomABeautifulFriendship = {
   pageTypeSlug: "book",
   slug: "honor-harrington-star-kingdom-a-beautiful-friendship",
   title: "Honor Harrington - Star Kingdom: A Beautiful Friendship",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 69250,

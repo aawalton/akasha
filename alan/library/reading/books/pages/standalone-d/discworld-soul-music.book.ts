@@ -5,7 +5,6 @@ export const discworldSoulMusic = {
   pageTypeSlug: "book",
   slug: "discworld-soul-music",
   title: "Discworld: Soul Music",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

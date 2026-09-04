@@ -5,7 +5,6 @@ export const teachingsOfHowardWHunter = {
   pageTypeSlug: "book",
   slug: "teachings-of-howard-w-hunter",
   title: "Teachings of Howard W. Hunter",
-  kind: "read",
   status: "not-started",
   author: "Howard W. Hunter",
   unitSlug: "words",

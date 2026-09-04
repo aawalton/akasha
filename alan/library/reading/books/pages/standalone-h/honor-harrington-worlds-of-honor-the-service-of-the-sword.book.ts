@@ -5,7 +5,6 @@ export const honorHarringtonWorldsOfHonorTheServiceOfTheSword = {
   pageTypeSlug: "book",
   slug: "honor-harrington-worlds-of-honor-the-service-of-the-sword",
   title: "Honor Harrington - Worlds of Honor: The Service of the Sword",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

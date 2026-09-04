@@ -5,7 +5,6 @@ export const grit = {
   pageTypeSlug: "book",
   slug: "grit",
   title: "Grit",
-  kind: "read",
   status: "not-started",
   author: "Angela Duckworth",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsImmortalMoments = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-immortal-moments",
   title: "Beneath the Dragoneye Moons: Immortal Moments",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

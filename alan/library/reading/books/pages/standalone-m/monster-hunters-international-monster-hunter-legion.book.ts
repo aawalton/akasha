@@ -5,7 +5,6 @@ export const monsterHuntersInternationalMonsterHunterLegion = {
   pageTypeSlug: "book",
   slug: "monster-hunters-international-monster-hunter-legion",
   title: "Monster Hunters International: Monster Hunter Legion",
-  kind: "read",
   status: "not-started",
   author: "Matt Fox",
   unitSlug: "words",

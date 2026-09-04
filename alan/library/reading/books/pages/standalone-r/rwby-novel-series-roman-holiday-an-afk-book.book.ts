@@ -5,7 +5,6 @@ export const rwbyNovelSeriesRomanHolidayAnAfkBook = {
   pageTypeSlug: "book",
   slug: "rwby-novel-series-roman-holiday-an-afk-book",
   title: "RWBY Novel Series: Roman Holiday: An AFK Book",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

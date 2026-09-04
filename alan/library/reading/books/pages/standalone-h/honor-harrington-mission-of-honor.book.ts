@@ -5,7 +5,6 @@ export const honorHarringtonMissionOfHonor = {
   pageTypeSlug: "book",
   slug: "honor-harrington-mission-of-honor",
   title: "Honor Harrington: Mission of Honor",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

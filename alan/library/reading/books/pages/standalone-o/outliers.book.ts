@@ -5,7 +5,6 @@ export const outliers = {
   pageTypeSlug: "book",
   slug: "outliers",
   title: "Outliers",
-  kind: "read",
   status: "not-started",
   author: "Malcolm Gladwell",
   unitSlug: "words",

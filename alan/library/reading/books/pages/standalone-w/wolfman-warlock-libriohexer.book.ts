@@ -5,7 +5,6 @@ export const wolfmanWarlockLibriohexer = {
   pageTypeSlug: "book",
   slug: "wolfman-warlock-libriohexer",
   title: "Wolfman Warlock: Libriohexer",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

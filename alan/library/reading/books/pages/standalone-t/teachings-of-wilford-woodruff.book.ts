@@ -5,7 +5,6 @@ export const teachingsOfWilfordWoodruff = {
   pageTypeSlug: "book",
   slug: "teachings-of-wilford-woodruff",
   title: "Teachings of Wilford Woodruff",
-  kind: "read",
   status: "not-started",
   author: "Wilford Woodruff",
   unitSlug: "words",

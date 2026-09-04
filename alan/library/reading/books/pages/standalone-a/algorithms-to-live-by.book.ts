@@ -5,7 +5,6 @@ export const algorithmsToLiveBy = {
   pageTypeSlug: "book",
   slug: "algorithms-to-live-by",
   title: "Algorithms to Live By",
-  kind: "read",
   status: "not-started",
   author: "Brian Christian, Tom Griffiths, Brian Christian",
   unitSlug: "words",

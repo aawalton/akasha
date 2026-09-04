@@ -5,7 +5,6 @@ export const powderMagePromiseOfBlood = {
   pageTypeSlug: "book",
   slug: "powder-mage-promise-of-blood",
   title: "Powder Mage: Promise of Blood",
-  kind: "read",
   status: "not-started",
   author: "Brian McClellan",
   unitSlug: "words",

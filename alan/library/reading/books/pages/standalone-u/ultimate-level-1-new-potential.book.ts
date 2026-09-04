@@ -5,7 +5,6 @@ export const ultimateLevel1NewPotential = {
   pageTypeSlug: "book",
   slug: "ultimate-level-1-new-potential",
   title: "Ultimate Level 1: New Potential",
-  kind: "read",
   status: "completed",
   author: "Ontario Educational Research Council. Conference",
   unitSlug: "words",

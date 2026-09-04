@@ -5,7 +5,6 @@ export const infiniteRealmMonstersAndLegends = {
   pageTypeSlug: "book",
   slug: "infinite-realm-monsters-and-legends",
   title: "Infinite Realm: Monsters and Legends",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

@@ -5,7 +5,6 @@ export const chaosSeedsAlliances = {
   pageTypeSlug: "book",
   slug: "chaos-seeds-alliances",
   title: "Chaos Seeds: Alliances",
-  kind: "read",
   status: "completed",
   rank: "C",
   unitSlug: "words",

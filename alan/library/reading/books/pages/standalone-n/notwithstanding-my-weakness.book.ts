@@ -5,7 +5,6 @@ export const notwithstandingMyWeakness = {
   pageTypeSlug: "book",
   slug: "notwithstanding-my-weakness",
   title: "Notwithstanding My Weakness",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

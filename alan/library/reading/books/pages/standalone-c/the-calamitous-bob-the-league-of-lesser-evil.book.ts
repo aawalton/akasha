@@ -5,7 +5,6 @@ export const theCalamitousBobTheLeagueOfLesserEvil = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob-the-league-of-lesser-evil",
   title: "The Calamitous Bob: The League of Lesser Evil",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

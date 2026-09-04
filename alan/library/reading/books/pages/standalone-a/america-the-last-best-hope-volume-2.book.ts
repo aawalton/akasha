@@ -5,7 +5,6 @@ export const americaTheLastBestHopeVolume2 = {
   pageTypeSlug: "book",
   slug: "america-the-last-best-hope-volume-2",
   title: "America: The Last Best Hope Volume 2",
-  kind: "read",
   status: "not-started",
   author: "William J. Bennett",
   unitSlug: "words",

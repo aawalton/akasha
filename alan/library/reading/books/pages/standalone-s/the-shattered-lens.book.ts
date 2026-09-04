@@ -5,7 +5,6 @@ export const theShatteredLens = {
   pageTypeSlug: "book",
   slug: "the-shattered-lens",
   title: "The Shattered Lens",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Jonathan Alpeyrie",

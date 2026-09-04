@@ -5,7 +5,6 @@ export const theWayOfTheShamanTheKarmadontChessSet = {
   pageTypeSlug: "book",
   slug: "the-way-of-the-shaman-the-karmadont-chess-set",
   title: "The Way of the Shaman: The Karmadont Chess Set",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

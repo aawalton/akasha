@@ -5,7 +5,6 @@ export const thatMyFamilyShouldPartake = {
   pageTypeSlug: "book",
   slug: "that-my-family-should-partake",
   title: "That My Family Should Partake",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

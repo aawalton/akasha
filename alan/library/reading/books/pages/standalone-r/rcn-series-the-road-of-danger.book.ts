@@ -5,7 +5,6 @@ export const rcnSeriesTheRoadOfDanger = {
   pageTypeSlug: "book",
   slug: "rcn-series-the-road-of-danger",
   title: "RCN Series: The Road of Danger",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

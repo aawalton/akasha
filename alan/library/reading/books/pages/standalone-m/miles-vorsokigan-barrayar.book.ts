@@ -5,7 +5,6 @@ export const milesVorsokiganBarrayar = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-barrayar",
   title: "Miles Vorsokigan: Barrayar",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

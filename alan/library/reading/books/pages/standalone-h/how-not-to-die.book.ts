@@ -5,7 +5,6 @@ export const howNotToDie = {
   pageTypeSlug: "book",
   slug: "how-not-to-die",
   title: "How Not to Die",
-  kind: "read",
   status: "not-started",
   author: "Michael Greger, Gene Stone",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const discworldTheColorOfMagic = {
   pageTypeSlug: "book",
   slug: "discworld-the-color-of-magic",
   title: "Discworld: The Color of Magic",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

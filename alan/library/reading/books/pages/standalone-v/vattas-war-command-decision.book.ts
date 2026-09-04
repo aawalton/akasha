@@ -5,7 +5,6 @@ export const vattasWarCommandDecision = {
   pageTypeSlug: "book",
   slug: "vattas-war-command-decision",
   title: "Vatta's War: Command Decision",
-  kind: "read",
   status: "not-started",
   author: "Elizabeth Moon",
   unitSlug: "words",

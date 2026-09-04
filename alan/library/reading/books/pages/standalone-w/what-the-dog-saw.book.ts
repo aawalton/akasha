@@ -5,7 +5,6 @@ export const whatTheDogSaw = {
   pageTypeSlug: "book",
   slug: "what-the-dog-saw",
   title: "What the Dog Saw",
-  kind: "read",
   status: "not-started",
   author: "Malcolm Gladwell",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theLastHorizonTheEngineer = {
   pageTypeSlug: "book",
   slug: "the-last-horizon-the-engineer",
   title: "The Last Horizon: The Engineer",
-  kind: "read",
   status: "not-started",
   author: "William Shakespeare",
   unitSlug: "words",

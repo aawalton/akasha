@@ -5,7 +5,6 @@ export const discworldThiefOfTime = {
   pageTypeSlug: "book",
   slug: "discworld-thief-of-time",
   title: "Discworld: Thief of Time",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

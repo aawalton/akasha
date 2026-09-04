@@ -5,7 +5,6 @@ export const journalOfDiscourses = {
   pageTypeSlug: "book",
   slug: "journal-of-discourses",
   title: "Journal of Discourses",
-  kind: "read",
   status: "not-started",
   author: "Brigham Young",
   unitSlug: "words",

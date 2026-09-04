@@ -5,7 +5,6 @@ export const mindsight = {
   pageTypeSlug: "book",
   slug: "mindsight",
   title: "Mindsight",
-  kind: "read",
   status: "not-started",
   author: "Daniel J. Siegel",
   unitSlug: "words",

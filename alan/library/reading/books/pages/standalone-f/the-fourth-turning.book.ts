@@ -5,7 +5,6 @@ export const theFourthTurning = {
   pageTypeSlug: "book",
   slug: "the-fourth-turning",
   title: "The Fourth Turning",
-  kind: "read",
   status: "not-started",
   author: "William Strauss, Neil Howe",
   unitSlug: "words",

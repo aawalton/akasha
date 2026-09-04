@@ -5,7 +5,6 @@ export const theCultureCode = {
   pageTypeSlug: "book",
   slug: "the-culture-code",
   title: "The Culture Code",
-  kind: "read",
   status: "not-started",
   author: "Daniel Coyle",
   unitSlug: "words",

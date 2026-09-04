@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld5920thCenturyImaginativeLiteratureI =
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-59-20th-century-imaginative-literature-i",
   title: "The Great Books of the Western World 59: 20th Century Imaginative Literature I",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 59,

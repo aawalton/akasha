@@ -5,7 +5,6 @@ export const sylSynthesis = {
   pageTypeSlug: "book",
   slug: "syl-synthesis",
   title: "Syl: Synthesis",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

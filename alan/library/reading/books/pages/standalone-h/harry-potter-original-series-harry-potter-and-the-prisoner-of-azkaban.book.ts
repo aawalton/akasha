@@ -5,7 +5,6 @@ export const harryPotterOriginalSeriesHarryPotterAndThePrisonerOfAzkaban = {
   pageTypeSlug: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-prisoner-of-azkaban",
   title: "Harry Potter Original Series: Harry Potter and the Prisoner of Azkaban",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

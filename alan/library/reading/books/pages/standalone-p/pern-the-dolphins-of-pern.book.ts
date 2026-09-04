@@ -5,7 +5,6 @@ export const pernTheDolphinsOfPern = {
   pageTypeSlug: "book",
   slug: "pern-the-dolphins-of-pern",
   title: "Pern: The Dolphins of Pern",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

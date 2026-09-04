@@ -5,7 +5,6 @@ export const systemUniverseSystemInterference = {
   pageTypeSlug: "book",
   slug: "system-universe-system-interference",
   title: "System Universe: System Interference",
-  kind: "read",
   status: "completed",
   author: "C. F. Lo",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const infiniteRealmTheRunesmith = {
   pageTypeSlug: "book",
   slug: "infinite-realm-the-runesmith",
   title: "Infinite Realm: The Runesmith",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

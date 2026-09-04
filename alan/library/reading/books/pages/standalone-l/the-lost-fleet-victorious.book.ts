@@ -5,7 +5,6 @@ export const theLostFleetVictorious = {
   pageTypeSlug: "book",
   slug: "the-lost-fleet-victorious",
   title: "The Lost Fleet: Victorious",
-  kind: "read",
   status: "not-started",
   author: "Jack Campbell",
   unitSlug: "words",

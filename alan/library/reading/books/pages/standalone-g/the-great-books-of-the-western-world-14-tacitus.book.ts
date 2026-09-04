@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld14Tacitus = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-14-tacitus",
   title: "The Great Books of the Western World 14: Tacitus",
-  kind: "read",
   status: "not-started",
   author: "P. Cornelius Tacitus",
   unitSlug: "words",

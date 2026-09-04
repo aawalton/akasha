@@ -5,7 +5,6 @@ export const marchUpcountryMarchToTheSea = {
   pageTypeSlug: "book",
   slug: "march-upcountry-march-to-the-sea",
   title: "March Upcountry: March to the Sea",
-  kind: "read",
   status: "not-started",
   author: "John Ringo, David Weber",
   unitSlug: "words",

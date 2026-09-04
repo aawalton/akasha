@@ -5,7 +5,6 @@ export const grimmsTales = {
   pageTypeSlug: "book",
   slug: "grimms-tales",
   title: "Grimm's Tales",
-  kind: "read",
   status: "paused",
   author: "Gebrüder Grimm [Brothers Grimm]",
   unitSlug: "words",

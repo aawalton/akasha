@@ -5,7 +5,6 @@ export const milesVorsokiganMirrorDance = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-mirror-dance",
   title: "Miles Vorsokigan: Mirror Dance",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 7,

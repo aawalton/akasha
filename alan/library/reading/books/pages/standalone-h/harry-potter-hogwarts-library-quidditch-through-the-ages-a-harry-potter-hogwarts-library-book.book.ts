@@ -6,7 +6,6 @@ export const harryPotterHogwartsLibraryQuidditchThroughTheAgesAHarryPotterHogwar
   slug: "harry-potter-hogwarts-library-quidditch-through-the-ages-a-harry-potter-hogwarts-library-book",
   title:
     "Harry Potter: Hogwarts Library: Quidditch Through the Ages: A Harry Potter Hogwarts Library Book",
-  kind: "read",
   status: "not-started",
   author: "J. K. Rowling",
   unitSlug: "words",

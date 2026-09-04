@@ -5,7 +5,6 @@ export const theOtherEminentMenOfWilfordWoodruff = {
   pageTypeSlug: "book",
   slug: "the-other-eminent-men-of-wilford-woodruff",
   title: "The Other Eminent Men of Wilford Woodruff",
-  kind: "read",
   status: "paused",
   author: "Vicki Jo Anderson",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const runelordsTheRunelords = {
   pageTypeSlug: "book",
   slug: "runelords-the-runelords",
   title: "Runelords: The Runelords",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

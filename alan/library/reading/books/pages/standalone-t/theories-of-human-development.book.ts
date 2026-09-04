@@ -5,7 +5,6 @@ export const theoriesOfHumanDevelopment = {
   pageTypeSlug: "book",
   slug: "theories-of-human-development",
   title: "Theories of Human Development",
-  kind: "read",
   status: "not-started",
   author: "Barbara M. Newman, Philip R. Newman",
   unitSlug: "words",

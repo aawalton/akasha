@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsReturnToRemus = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-return-to-remus",
   title: "Beneath the Dragoneye Moons: Return to Remus",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

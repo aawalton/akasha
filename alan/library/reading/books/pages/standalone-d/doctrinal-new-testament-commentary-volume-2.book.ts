@@ -5,7 +5,6 @@ export const doctrinalNewTestamentCommentaryVolume2 = {
   pageTypeSlug: "book",
   slug: "doctrinal-new-testament-commentary-volume-2",
   title: "Doctrinal New Testament Commentary Volume 2",
-  kind: "read",
   status: "not-started",
   author: "Bible",
   unitSlug: "words",

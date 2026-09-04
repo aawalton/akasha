@@ -5,7 +5,6 @@ export const warGodWindRidersOath = {
   pageTypeSlug: "book",
   slug: "war-god-wind-riders-oath",
   title: "War God: Wind Rider's Oath",
-  kind: "read",
   status: "not-started",
   author: "Winsor McCay",
   unitSlug: "words",

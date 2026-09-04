@@ -5,7 +5,6 @@ export const theHollow = {
   pageTypeSlug: "book",
   slug: "the-hollow",
   title: "The Hollow",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

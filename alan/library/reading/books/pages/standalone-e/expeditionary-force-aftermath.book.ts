@@ -5,7 +5,6 @@ export const expeditionaryForceAftermath = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-aftermath",
   title: "Expeditionary Force: Aftermath",
-  kind: "read",
   status: "not-started",
   author: "David Bonk",
   unitSlug: "words",

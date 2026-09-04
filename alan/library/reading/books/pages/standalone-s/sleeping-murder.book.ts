@@ -5,7 +5,6 @@ export const sleepingMurder = {
   pageTypeSlug: "book",
   slug: "sleeping-murder",
   title: "Sleeping Murder",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

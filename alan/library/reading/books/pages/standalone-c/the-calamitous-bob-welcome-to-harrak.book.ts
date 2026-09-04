@@ -5,7 +5,6 @@ export const theCalamitousBobWelcomeToHarrak = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob-welcome-to-harrak",
   title: "The Calamitous Bob: Welcome to Harrak",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

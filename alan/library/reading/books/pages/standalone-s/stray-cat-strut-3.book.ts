@@ -5,7 +5,6 @@ export const strayCatStrut3 = {
   pageTypeSlug: "book",
   slug: "stray-cat-strut-3",
   title: "Stray Cat Strut 3",
-  kind: "read",
   status: "not-started",
   author: "RavensDagger",
   unitSlug: "words",

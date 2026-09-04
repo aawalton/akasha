@@ -5,7 +5,6 @@ export const oldKingdomSabriel = {
   pageTypeSlug: "book",
   slug: "old-kingdom-sabriel",
   title: "Old Kingdom: Sabriel",
-  kind: "read",
   status: "not-started",
   author: "Garth Nix",
   unitSlug: "words",

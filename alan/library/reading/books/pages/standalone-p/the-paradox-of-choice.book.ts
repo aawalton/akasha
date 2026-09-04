@@ -5,7 +5,6 @@ export const theParadoxOfChoice = {
   pageTypeSlug: "book",
   slug: "the-paradox-of-choice",
   title: "The Paradox of Choice",
-  kind: "read",
   status: "not-started",
   author: "Barry Schwartz, Ken Kliban",
   unitSlug: "words",

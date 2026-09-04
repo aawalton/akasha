@@ -5,7 +5,6 @@ export const dresdenFilesSmallFavor = {
   pageTypeSlug: "book",
   slug: "dresden-files-small-favor",
   title: "Dresden Files: Small Favor",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

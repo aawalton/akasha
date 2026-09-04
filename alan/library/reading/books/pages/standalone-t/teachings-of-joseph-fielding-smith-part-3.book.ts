@@ -5,7 +5,6 @@ export const teachingsOfJosephFieldingSmithPart3 = {
   pageTypeSlug: "book",
   slug: "teachings-of-joseph-fielding-smith-part-3",
   title: "Teachings of Joseph Fielding Smith Part 3",
-  kind: "read",
   status: "not-started",
   author: "William Shakespeare",
   unitSlug: "words",

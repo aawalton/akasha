@@ -5,7 +5,6 @@ export const historiesVolume1 = {
   pageTypeSlug: "book",
   slug: "histories-volume-1",
   title: "Histories Volume 1",
-  kind: "read",
   status: "not-started",
   author: "Yuval Noah Harari",
   unitSlug: "words",

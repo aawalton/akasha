@@ -5,7 +5,6 @@ export const troubleMagnet = {
   pageTypeSlug: "book",
   slug: "trouble-magnet",
   title: "Trouble Magnet",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

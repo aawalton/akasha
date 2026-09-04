@@ -5,7 +5,6 @@ export const wheelOfTimeNewSpring = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-new-spring",
   title: "Wheel of Time: New Spring",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

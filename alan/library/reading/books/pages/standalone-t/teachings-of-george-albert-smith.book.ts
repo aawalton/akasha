@@ -5,7 +5,6 @@ export const teachingsOfGeorgeAlbertSmith = {
   pageTypeSlug: "book",
   slug: "teachings-of-george-albert-smith",
   title: "Teachings of George Albert Smith",
-  kind: "read",
   status: "not-started",
   author: "Smith, George Albert",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const bobiverseNotTillWeAreLost = {
   pageTypeSlug: "book",
   slug: "bobiverse-not-till-we-are-lost",
   title: "Bobiverse: Not Till We Are Lost",
-  kind: "read",
   status: "not-started",
   author: "Dennis E. Taylor",
   unitSlug: "words",

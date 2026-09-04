@@ -5,7 +5,6 @@ export const theBetterAngelsOfOurNature = {
   pageTypeSlug: "book",
   slug: "the-better-angels-of-our-nature",
   title: "The Better Angels of Our Nature",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "Steven Pinker",

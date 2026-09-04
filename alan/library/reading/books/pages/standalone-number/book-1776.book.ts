@@ -5,7 +5,6 @@ export const book1776 = {
   pageTypeSlug: "book",
   slug: "book-1776",
   title: "1776",
-  kind: "read",
   status: "not-started",
   author: "David McCullough",
   unitSlug: "words",

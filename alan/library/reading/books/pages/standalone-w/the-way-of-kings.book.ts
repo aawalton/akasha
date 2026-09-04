@@ -5,7 +5,6 @@ export const theWayOfKings = {
   pageTypeSlug: "book",
   slug: "the-way-of-kings",
   title: "The Way of Kings",
-  kind: "read",
   status: "paused",
   author: "Brandon Sanderson",
   unitSlug: "words",

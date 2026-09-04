@@ -5,7 +5,6 @@ export const weWillProveThemHerewith = {
   pageTypeSlug: "book",
   slug: "we-will-prove-them-herewith",
   title: "We Will Prove Them Herewith",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell, Deseret Book Company",

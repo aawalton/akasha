@@ -5,7 +5,6 @@ export const thinkingFastAndSlow = {
   pageTypeSlug: "book",
   slug: "thinking-fast-and-slow",
   title: "Thinking, Fast and Slow",
-  kind: "read",
   status: "completed",
   rank: "S",
   author: "Daniel Kahneman, Daniel Kahneman",

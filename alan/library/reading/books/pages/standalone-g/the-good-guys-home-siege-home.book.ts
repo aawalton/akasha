@@ -5,7 +5,6 @@ export const theGoodGuysHomeSiegeHome = {
   pageTypeSlug: "book",
   slug: "the-good-guys-home-siege-home",
   title: "The Good Guys: Home, Siege Home",
-  kind: "read",
   status: "completed",
   author: "Rodolfo Acuña, Rodolfo Acuna",
   unitSlug: "words",

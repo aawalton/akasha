@@ -5,7 +5,6 @@ export const milesVorsokiganTheVorGame = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-the-vor-game",
   title: "Miles Vorsokigan: The Vor Game",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

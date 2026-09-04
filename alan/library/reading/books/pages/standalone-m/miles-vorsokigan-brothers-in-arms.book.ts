@@ -5,7 +5,6 @@ export const milesVorsokiganBrothersInArms = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-brothers-in-arms",
   title: "Miles Vorsokigan: Brothers in Arms",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 4,

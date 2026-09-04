@@ -5,7 +5,6 @@ export const infiniteRealmTheAspects = {
   pageTypeSlug: "book",
   slug: "infinite-realm-the-aspects",
   title: "Infinite Realm: The Aspects",
-  kind: "read",
   status: "not-started",
   author: "James P. Carse, James Carse",
   unitSlug: "words",

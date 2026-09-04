@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld34SwiftVoltaireDiderot = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-34-swift-voltaire-diderot",
   title: "The Great Books of the Western World 34: Swift, Voltaire, Diderot",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 34,

@@ -5,7 +5,6 @@ export const brainRules = {
   pageTypeSlug: "book",
   slug: "brain-rules",
   title: "Brain Rules",
-  kind: "read",
   status: "not-started",
   author: "John Medina",
   unitSlug: "words",

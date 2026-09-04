@@ -5,7 +5,6 @@ export const theCoddlingOfTheAmericanMind = {
   pageTypeSlug: "book",
   slug: "the-coddling-of-the-american-mind",
   title: "The Coddling of the American Mind",
-  kind: "read",
   status: "not-started",
   author: "Greg Lukianoff, Jonathan Haidt",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const howWeLearn = {
   pageTypeSlug: "book",
   slug: "how-we-learn",
   title: "How We Learn",
-  kind: "read",
   status: "not-started",
   author: "Benedict Carey",
   unitSlug: "words",

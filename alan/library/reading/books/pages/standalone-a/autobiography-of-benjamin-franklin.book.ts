@@ -5,7 +5,6 @@ export const autobiographyOfBenjaminFranklin = {
   pageTypeSlug: "book",
   slug: "autobiography-of-benjamin-franklin",
   title: "Autobiography of Benjamin Franklin",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "Benjamin Franklin, D. Brown",

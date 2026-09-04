@@ -5,7 +5,6 @@ export const happierAtHome = {
   pageTypeSlug: "book",
   slug: "happier-at-home",
   title: "Happier at Home",
-  kind: "read",
   status: "not-started",
   author: "Gretchen Rubin",
   unitSlug: "words",

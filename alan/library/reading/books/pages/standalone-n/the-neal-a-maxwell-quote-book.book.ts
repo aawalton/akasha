@@ -5,7 +5,6 @@ export const theNealAMaxwellQuoteBook = {
   pageTypeSlug: "book",
   slug: "the-neal-a-maxwell-quote-book",
   title: "The Neal A. Maxwell Quote Book",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",

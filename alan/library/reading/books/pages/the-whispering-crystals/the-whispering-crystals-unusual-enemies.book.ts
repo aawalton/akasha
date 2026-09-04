@@ -5,7 +5,6 @@ export const theWhisperingCrystalsUnusualEnemies = {
   pageTypeSlug: "book",
   slug: "the-whispering-crystals-unusual-enemies",
   title: "The Whispering Crystals: Unusual Enemies",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

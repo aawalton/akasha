@@ -5,7 +5,6 @@ export const sylOsmosis = {
   pageTypeSlug: "book",
   slug: "syl-osmosis",
   title: "Syl: Osmosis",
-  kind: "read",
   status: "completed",
   author: "Lunadea",
   unitSlug: "words",

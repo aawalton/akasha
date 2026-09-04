@@ -5,7 +5,6 @@ export const doctrinalCommentaryOnTheBookOfMormonVolume1 = {
   pageTypeSlug: "book",
   slug: "doctrinal-commentary-on-the-book-of-mormon-volume-1",
   title: "Doctrinal Commentary on the Book of Mormon Volume 1",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Bible",

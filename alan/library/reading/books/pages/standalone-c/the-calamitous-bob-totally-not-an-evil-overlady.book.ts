@@ -5,7 +5,6 @@ export const theCalamitousBobTotallyNotAnEvilOverlady = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob-totally-not-an-evil-overlady",
   title: "The Calamitous Bob: (Totally not an) EVIL OVERLADY",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 8,

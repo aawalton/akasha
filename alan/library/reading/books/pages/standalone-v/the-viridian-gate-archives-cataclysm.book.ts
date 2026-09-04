@@ -5,7 +5,6 @@ export const theViridianGateArchivesCataclysm = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-cataclysm",
   title: "The Viridian Gate Archives: Cataclysm",
-  kind: "read",
   status: "completed",
   author: "J. A. Hunter",
   unitSlug: "words",

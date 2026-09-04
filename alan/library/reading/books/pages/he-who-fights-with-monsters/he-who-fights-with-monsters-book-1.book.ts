@@ -5,7 +5,6 @@ export const heWhoFightsWithMonstersBook1 = {
   pageTypeSlug: "book",
   slug: "he-who-fights-with-monsters-book-1",
   title: "He Who Fights with Monsters",
-  kind: "read",
   status: "completed",
   author: "Shirtaloon",
   unitSlug: "words",

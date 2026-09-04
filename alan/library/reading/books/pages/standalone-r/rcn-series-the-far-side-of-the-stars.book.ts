@@ -5,7 +5,6 @@ export const rcnSeriesTheFarSideOfTheStars = {
   pageTypeSlug: "book",
   slug: "rcn-series-the-far-side-of-the-stars",
   title: "RCN Series: The Far Side of the Stars",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

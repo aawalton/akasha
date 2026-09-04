@@ -5,7 +5,6 @@ export const bobiverseForWeAreMany = {
   pageTypeSlug: "book",
   slug: "bobiverse-for-we-are-many",
   title: "Bobiverse: For We Are Many",
-  kind: "read",
   status: "not-started",
   author: "Dennis E. Taylor",
   unitSlug: "words",

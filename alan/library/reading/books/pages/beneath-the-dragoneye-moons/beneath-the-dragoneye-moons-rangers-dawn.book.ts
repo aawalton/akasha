@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsRangersDawn = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-rangers-dawn",
   title: "Beneath the Dragoneye Moons: Ranger's Dawn",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

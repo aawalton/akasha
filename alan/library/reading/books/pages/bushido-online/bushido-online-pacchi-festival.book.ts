@@ -5,7 +5,6 @@ export const bushidoOnlinePacchiFestival = {
   pageTypeSlug: "book",
   slug: "bushido-online-pacchi-festival",
   title: "Bushido Online: Pacchi Festival",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

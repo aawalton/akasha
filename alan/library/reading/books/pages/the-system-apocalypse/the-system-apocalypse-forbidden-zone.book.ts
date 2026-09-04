@@ -5,7 +5,6 @@ export const theSystemApocalypseForbiddenZone = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-forbidden-zone",
   title: "The System Apocalypse: Forbidden Zone",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 11,

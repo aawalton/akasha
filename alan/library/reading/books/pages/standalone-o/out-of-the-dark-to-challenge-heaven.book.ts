@@ -5,7 +5,6 @@ export const outOfTheDarkToChallengeHeaven = {
   pageTypeSlug: "book",
   slug: "out-of-the-dark-to-challenge-heaven",
   title: "Out of the Dark: To Challenge Heaven",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

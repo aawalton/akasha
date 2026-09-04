@@ -5,7 +5,6 @@ export const dresdenFilesDeathMasks = {
   pageTypeSlug: "book",
   slug: "dresden-files-death-masks",
   title: "Dresden Files: Death Masks",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

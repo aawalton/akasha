@@ -5,7 +5,6 @@ export const theAlloyOfLaw = {
   pageTypeSlug: "book",
   slug: "the-alloy-of-law",
   title: "The Alloy of Law",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const truman = {
   pageTypeSlug: "book",
   slug: "truman",
   title: "Truman",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "David McCullough",

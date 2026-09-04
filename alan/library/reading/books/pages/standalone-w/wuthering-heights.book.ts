@@ -5,7 +5,6 @@ export const wutheringHeights = {
   pageTypeSlug: "book",
   slug: "wuthering-heights",
   title: "Wuthering Heights",
-  kind: "read",
   status: "not-started",
   author: "Emily Brontë",
   unitSlug: "words",

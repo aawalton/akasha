@@ -5,7 +5,6 @@ export const theLostMetal = {
   pageTypeSlug: "book",
   slug: "the-lost-metal",
   title: "The Lost Metal",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

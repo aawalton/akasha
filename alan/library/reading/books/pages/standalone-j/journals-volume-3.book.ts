@@ -5,7 +5,6 @@ export const journalsVolume3 = {
   pageTypeSlug: "book",
   slug: "journals-volume-3",
   title: "Journals Volume 3",
-  kind: "read",
   status: "not-started",
   author: "Abraham John Valpy, Edmund Henry Barker",
   unitSlug: "words",

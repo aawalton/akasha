@@ -5,7 +5,6 @@ export const harryPotterOriginalSeriesHarryPotterAndTheSorcerersStone = {
   pageTypeSlug: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-sorcerers-stone",
   title: "Harry Potter Original Series: Harry Potter and the Sorcerer's Stone",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

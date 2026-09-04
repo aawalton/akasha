@@ -5,7 +5,6 @@ export const swordArtOnlineAlternativeGunGaleOnline3rdSquadJamBetrayersChoiceFin
   pageTypeSlug: "book",
   slug: "sword-art-online-alternative-gun-gale-online-3rd-squad-jam-betrayers-choice-finish",
   title: "Sword Art Online Alternative Gun Gale Online: 3rd Squad Jam: Betrayers' Choice: Finish",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

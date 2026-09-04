@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld32NewtonHuygens = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-32-newton-huygens",
   title: "The Great Books of the Western World 32: Newton, Huygens",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 32,

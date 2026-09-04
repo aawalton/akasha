@@ -5,7 +5,6 @@ export const theLegendOfRandidlyGhosthound4 = {
   pageTypeSlug: "book",
   slug: "the-legend-of-randidly-ghosthound-4",
   title: "The Legend of Randidly Ghosthound 4",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

@@ -5,7 +5,6 @@ export const aGiftOfDragons = {
   pageTypeSlug: "book",
   slug: "a-gift-of-dragons",
   title: "A Gift of Dragons",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

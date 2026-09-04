@@ -5,7 +5,6 @@ export const rewire = {
   pageTypeSlug: "book",
   slug: "rewire",
   title: "Rewire",
-  kind: "read",
   status: "not-started",
   author: "O'Connor, Richard (Psychotherapist), Richard O'Connor",
   unitSlug: "words",

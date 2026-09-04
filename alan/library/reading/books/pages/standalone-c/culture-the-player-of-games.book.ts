@@ -5,7 +5,6 @@ export const cultureThePlayerOfGames = {
   pageTypeSlug: "book",
   slug: "culture-the-player-of-games",
   title: "Culture: The Player of Games",
-  kind: "read",
   status: "not-started",
   author: "Iain Banks",
   unitSlug: "words",

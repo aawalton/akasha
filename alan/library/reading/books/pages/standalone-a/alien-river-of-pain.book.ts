@@ -5,7 +5,6 @@ export const alienRiverOfPain = {
   pageTypeSlug: "book",
   slug: "alien-river-of-pain",
   title: "Alien: River of Pain",
-  kind: "read",
   status: "not-started",
   author: "Christopher Golden",
   unitSlug: "words",

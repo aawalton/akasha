@@ -5,7 +5,6 @@ export const hellDifficultyTutorial5 = {
   pageTypeSlug: "book",
   slug: "hell-difficulty-tutorial-5",
   title: "Hell Difficulty Tutorial 5",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 5,

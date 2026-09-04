@@ -5,7 +5,6 @@ export const emotionalSuccess = {
   pageTypeSlug: "book",
   slug: "emotional-success",
   title: "Emotional Success",
-  kind: "read",
   status: "not-started",
   author: "David DeSteno",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const safeholdMidstToilAndTribulation = {
   pageTypeSlug: "book",
   slug: "safehold-midst-toil-and-tribulation",
   title: "Safehold: Midst Toil and Tribulation",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const threeActTragedy = {
   pageTypeSlug: "book",
   slug: "three-act-tragedy",
   title: "Three Act Tragedy",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

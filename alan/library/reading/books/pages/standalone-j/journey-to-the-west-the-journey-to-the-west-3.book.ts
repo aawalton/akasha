@@ -5,7 +5,6 @@ export const journeyToTheWestTheJourneyToTheWest3 = {
   pageTypeSlug: "book",
   slug: "journey-to-the-west-the-journey-to-the-west-3",
   title: "Journey to The West: The Journey to the West",
-  kind: "read",
   status: "not-started",
   author: "Wu Cheng'en, Eleanor Hazard, Chʻeng-en Wu, Darwin L. Teilhet, Anthony C. Yu",
   unitSlug: "words",

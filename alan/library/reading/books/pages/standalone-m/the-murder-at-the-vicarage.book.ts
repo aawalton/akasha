@@ -5,7 +5,6 @@ export const theMurderAtTheVicarage = {
   pageTypeSlug: "book",
   slug: "the-murder-at-the-vicarage",
   title: "The Murder at the Vicarage",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

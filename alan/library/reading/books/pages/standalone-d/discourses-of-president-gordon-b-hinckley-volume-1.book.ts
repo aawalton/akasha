@@ -5,7 +5,6 @@ export const discoursesOfPresidentGordonBHinckleyVolume1 = {
   pageTypeSlug: "book",
   slug: "discourses-of-president-gordon-b-hinckley-volume-1",
   title: "Discourses of President Gordon B. Hinckley Volume 1",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

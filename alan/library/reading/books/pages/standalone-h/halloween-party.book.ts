@@ -5,7 +5,6 @@ export const halloweenParty = {
   pageTypeSlug: "book",
   slug: "halloween-party",
   title: "Hallowe'en Party",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

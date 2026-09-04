@@ -5,7 +5,6 @@ export const pyresoulsApocalypseFuturesGrave = {
   pageTypeSlug: "book",
   slug: "pyresouls-apocalypse-futures-grave",
   title: "Pyresouls Apocalypse: Futures Grave",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld53WilliamJames = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-53-william-james",
   title: "The Great Books of the Western World 53: William James",
-  kind: "read",
   status: "not-started",
   author: "Όμηρος",
   unitSlug: "words",

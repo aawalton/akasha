@@ -5,7 +5,6 @@ export const ikigai = {
   pageTypeSlug: "book",
   slug: "ikigai",
   title: "Ikigai",
-  kind: "read",
   status: "not-started",
   author: "Héctor García, Francesc Miralles",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const whiteSandBrandonSandersonsWhiteSandVol3 = {
   pageTypeSlug: "book",
   slug: "white-sand-brandon-sandersons-white-sand-vol-3",
   title: "White Sand: Brandon Sanderson's White Sand Vol. 3",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

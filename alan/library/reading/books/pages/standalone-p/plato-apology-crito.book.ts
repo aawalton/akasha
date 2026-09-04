@@ -5,7 +5,6 @@ export const platoApologyCrito = {
   pageTypeSlug: "book",
   slug: "plato-apology-crito",
   title: "Plato: Apology, Crito",
-  kind: "read",
   description:
     "Plato's Apology and Crito, in Benjamin Jowett's translation — Socrates' defense before the Athenian court, and his refusal to escape his sentence.",
   unitSlug: "words",

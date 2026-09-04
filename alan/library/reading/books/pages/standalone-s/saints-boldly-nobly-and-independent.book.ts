@@ -5,7 +5,6 @@ export const saintsBoldlyNoblyAndIndependent = {
   pageTypeSlug: "book",
   slug: "saints-boldly-nobly-and-independent",
   title: "Saints: Boldly, Nobly, and Independent",
-  kind: "read",
   status: "not-started",
   author: "The Church of Jesus Christ of Latter-day Saints",
   unitSlug: "words",

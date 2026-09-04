@@ -5,7 +5,6 @@ export const fantasticBeastsFantasticBeastsAndWhereToFindThemTheOriginalScreenpl
   pageTypeSlug: "book",
   slug: "fantastic-beasts-fantastic-beasts-and-where-to-find-them-the-original-screenplay",
   title: "Fantastic Beasts: Fantastic Beasts and Where to Find Them: The Original Screenplay",
-  kind: "read",
   status: "not-started",
   author: "J. K. Rowling",
   unitSlug: "words",

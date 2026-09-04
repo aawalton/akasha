@@ -5,7 +5,6 @@ export const chrysalisFatedAntagonist = {
   pageTypeSlug: "book",
   slug: "chrysalis-fated-antagonist",
   title: "Chrysalis: Fated Antagonist",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

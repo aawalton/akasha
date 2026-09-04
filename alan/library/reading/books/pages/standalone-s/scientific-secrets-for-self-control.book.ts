@@ -5,7 +5,6 @@ export const scientificSecretsForSelfControl = {
   pageTypeSlug: "book",
   slug: "scientific-secrets-for-self-control",
   title: "Scientific Secrets for Self-Control",
-  kind: "read",
   status: "completed",
   rank: "B",
   unitSlug: "words",

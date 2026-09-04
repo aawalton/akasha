@@ -5,7 +5,6 @@ export const milesVorsokiganCetaganda = {
   pageTypeSlug: "book",
   slug: "miles-vorsokigan-cetaganda",
   title: "Miles Vorsokigan: Cetaganda",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

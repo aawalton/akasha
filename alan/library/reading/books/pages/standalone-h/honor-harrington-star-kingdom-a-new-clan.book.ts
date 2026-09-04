@@ -5,7 +5,6 @@ export const honorHarringtonStarKingdomANewClan = {
   pageTypeSlug: "book",
   slug: "honor-harrington-star-kingdom-a-new-clan",
   title: "Honor Harrington - Star Kingdom: A New Clan",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

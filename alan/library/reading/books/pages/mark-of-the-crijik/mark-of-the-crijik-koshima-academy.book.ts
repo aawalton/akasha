@@ -5,7 +5,6 @@ export const markOfTheCrijikKoshimaAcademy = {
   pageTypeSlug: "book",
   slug: "mark-of-the-crijik-koshima-academy",
   title: "Mark of the Crijik: Koshima Academy",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

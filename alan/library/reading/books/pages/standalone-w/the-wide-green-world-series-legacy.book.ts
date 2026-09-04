@@ -5,7 +5,6 @@ export const theWideGreenWorldSeriesLegacy = {
   pageTypeSlug: "book",
   slug: "the-wide-green-world-series-legacy",
   title: "The Wide Green World Series: Legacy",
-  kind: "read",
   status: "not-started",
   author: "Bible",
   unitSlug: "words",

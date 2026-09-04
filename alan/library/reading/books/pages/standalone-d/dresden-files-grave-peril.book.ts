@@ -5,7 +5,6 @@ export const dresdenFilesGravePeril = {
   pageTypeSlug: "book",
   slug: "dresden-files-grave-peril",
   title: "Dresden Files: Grave Peril",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher, James Marsters",
   unitSlug: "words",

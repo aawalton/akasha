@@ -5,7 +5,6 @@ export const everythingIsTuberculosis = {
   pageTypeSlug: "book",
   slug: "everything-is-tuberculosis",
   title: "Everything is Tuberculosis",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "John Green",

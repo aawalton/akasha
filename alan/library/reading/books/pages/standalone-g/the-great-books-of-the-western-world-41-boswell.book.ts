@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld41Boswell = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-41-boswell",
   title: "The Great Books of the Western World 41: Boswell",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 41,

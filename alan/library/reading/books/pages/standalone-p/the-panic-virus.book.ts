@@ -5,7 +5,6 @@ export const thePanicVirus = {
   pageTypeSlug: "book",
   slug: "the-panic-virus",
   title: "The Panic Virus",
-  kind: "read",
   status: "not-started",
   author: "Seth Mnookin",
   unitSlug: "words",

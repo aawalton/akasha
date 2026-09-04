@@ -5,7 +5,6 @@ export const theyDoItWithMirrors = {
   pageTypeSlug: "book",
   slug: "they-do-it-with-mirrors",
   title: "They Do It with Mirrors",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theCompletionistChroniclesThunderplump = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-thunderplump",
   title: "The Completionist Chronicles: Thunderplump",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

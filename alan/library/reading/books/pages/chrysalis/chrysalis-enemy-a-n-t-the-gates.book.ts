@@ -5,7 +5,6 @@ export const chrysalisEnemyANTTheGates = {
   pageTypeSlug: "book",
   slug: "chrysalis-enemy-a-n-t-the-gates",
   title: "Chrysalis: Enemy A(n)t the Gates",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

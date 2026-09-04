@@ -5,7 +5,6 @@ export const theClocks = {
   pageTypeSlug: "book",
   slug: "the-clocks",
   title: "The Clocks",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

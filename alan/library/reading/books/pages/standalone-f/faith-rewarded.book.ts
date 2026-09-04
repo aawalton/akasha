@@ -5,7 +5,6 @@ export const faithRewarded = {
   pageTypeSlug: "book",
   slug: "faith-rewarded",
   title: "Faith Rewarded",
-  kind: "read",
   status: "not-started",
   author: "Monson, Thomas S.",
   unitSlug: "words",

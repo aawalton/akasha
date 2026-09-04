@@ -5,7 +5,6 @@ export const discworldTheLightFantastic = {
   pageTypeSlug: "book",
   slug: "discworld-the-light-fantastic",
   title: "Discworld: The Light Fantastic",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

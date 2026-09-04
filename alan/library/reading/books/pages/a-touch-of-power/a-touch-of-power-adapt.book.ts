@@ -5,7 +5,6 @@ export const aTouchOfPowerAdapt = {
   pageTypeSlug: "book",
   slug: "a-touch-of-power-adapt",
   title: "A Touch of Power: Adapt",
-  kind: "read",
   status: "completed",
   author: "Bible",
   unitSlug: "words",

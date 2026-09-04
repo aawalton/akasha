@@ -5,7 +5,6 @@ export const teachingsOfEzraTaftBenson = {
   pageTypeSlug: "book",
   slug: "teachings-of-ezra-taft-benson",
   title: "Teachings of Ezra Taft Benson",
-  kind: "read",
   status: "not-started",
   author: "Ezra Taft Benson",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const stonehavenLeagueFortressOfShadows = {
   pageTypeSlug: "book",
   slug: "stonehaven-league-fortress-of-shadows",
   title: "Stonehaven League: Fortress of Shadows",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

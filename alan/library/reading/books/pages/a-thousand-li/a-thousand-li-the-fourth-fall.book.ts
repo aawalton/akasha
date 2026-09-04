@@ -5,7 +5,6 @@ export const aThousandLiTheFourthFall = {
   pageTypeSlug: "book",
   slug: "a-thousand-li-the-fourth-fall",
   title: "A Thousand Li: the Fourth Fall",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

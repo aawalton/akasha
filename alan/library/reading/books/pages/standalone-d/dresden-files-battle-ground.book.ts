@@ -5,7 +5,6 @@ export const dresdenFilesBattleGround = {
   pageTypeSlug: "book",
   slug: "dresden-files-battle-ground",
   title: "Dresden Files: Battle Ground",
-  kind: "read",
   status: "not-started",
   author: "Jim Butcher",
   unitSlug: "words",

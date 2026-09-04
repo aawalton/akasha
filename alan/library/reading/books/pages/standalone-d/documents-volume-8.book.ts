@@ -5,7 +5,6 @@ export const documentsVolume8 = {
   pageTypeSlug: "book",
   slug: "documents-volume-8",
   title: "Documents Volume 8",
-  kind: "read",
   status: "not-started",
   author: "Ronald K. Esplin",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theSpaceTrilogyThatHideousStrength = {
   pageTypeSlug: "book",
   slug: "the-space-trilogy-that-hideous-strength",
   title: "The Space Trilogy: That Hideous Strength",
-  kind: "read",
   status: "not-started",
   author: "C. S. Lewis",
   unitSlug: "words",

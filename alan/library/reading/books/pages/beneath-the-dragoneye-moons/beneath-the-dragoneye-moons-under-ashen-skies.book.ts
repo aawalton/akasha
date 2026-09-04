@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsUnderAshenSkies = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-under-ashen-skies",
   title: "Beneath the Dragoneye Moons: Under Ashen Skies",
-  kind: "read",
   status: "completed",
   author: "Selkie Myth",
   unitSlug: "words",

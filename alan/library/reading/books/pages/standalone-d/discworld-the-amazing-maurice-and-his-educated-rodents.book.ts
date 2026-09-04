@@ -5,7 +5,6 @@ export const discworldTheAmazingMauriceAndHisEducatedRodents = {
   pageTypeSlug: "book",
   slug: "discworld-the-amazing-maurice-and-his-educated-rodents",
   title: "Discworld: The Amazing Maurice and His Educated Rodents",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

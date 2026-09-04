@@ -5,7 +5,6 @@ export const theIllusionistViridianGateOnlineDeadMansTide = {
   pageTypeSlug: "book",
   slug: "the-illusionist-viridian-gate-online-dead-mans-tide",
   title: "The Illusionist: Viridian Gate Online: Dead Man's Tide",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

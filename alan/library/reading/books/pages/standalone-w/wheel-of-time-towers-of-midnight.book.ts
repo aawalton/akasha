@@ -5,7 +5,6 @@ export const wheelOfTimeTowersOfMidnight = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-towers-of-midnight",
   title: "Wheel of Time: Towers of Midnight",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan, Brandon Sanderson",

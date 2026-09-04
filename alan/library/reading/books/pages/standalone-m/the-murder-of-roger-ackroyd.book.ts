@@ -5,7 +5,6 @@ export const theMurderOfRogerAckroyd = {
   pageTypeSlug: "book",
   slug: "the-murder-of-roger-ackroyd",
   title: "The Murder of Roger Ackroyd",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

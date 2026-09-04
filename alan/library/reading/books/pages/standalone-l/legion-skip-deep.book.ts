@@ -5,7 +5,6 @@ export const legionSkipDeep = {
   pageTypeSlug: "book",
   slug: "legion-skip-deep",
   title: "Legion: Skip Deep",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

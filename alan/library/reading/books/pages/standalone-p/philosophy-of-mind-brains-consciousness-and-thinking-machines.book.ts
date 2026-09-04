@@ -5,7 +5,6 @@ export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   pageTypeSlug: "book",
   slug: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
   title: "Philosophy of Mind: Brains, Consciousness, and Thinking Machines",
-  kind: "read",
   status: "not-started",
   author: "Patrick Grim",
   unitSlug: "words",

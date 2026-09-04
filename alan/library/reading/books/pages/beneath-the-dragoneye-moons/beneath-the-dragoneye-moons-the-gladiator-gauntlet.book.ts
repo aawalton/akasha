@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsTheGladiatorGauntlet = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-the-gladiator-gauntlet",
   title: "Beneath the Dragoneye Moons: The Gladiator Gauntlet",
-  kind: "read",
   status: "completed",
   author: "Selkie Myth",
   unitSlug: "words",

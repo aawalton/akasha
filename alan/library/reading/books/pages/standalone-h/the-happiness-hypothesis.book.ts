@@ -5,7 +5,6 @@ export const theHappinessHypothesis = {
   pageTypeSlug: "book",
   slug: "the-happiness-hypothesis",
   title: "The Happiness Hypothesis",
-  kind: "read",
   status: "not-started",
   author: "Jonathan Haidt",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theBadGuysSecondStoryMan = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-second-story-man",
   title: "The Bad Guys: Second Story Man",
-  kind: "read",
   status: "completed",
   author: "R. V. Cassill, Margaret Atwood, R Cassill",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const crystalLine = {
   pageTypeSlug: "book",
   slug: "crystal-line",
   title: "Crystal Line",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

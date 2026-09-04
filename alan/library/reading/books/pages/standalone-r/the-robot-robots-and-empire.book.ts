@@ -5,7 +5,6 @@ export const theRobotRobotsAndEmpire = {
   pageTypeSlug: "book",
   slug: "the-robot-robots-and-empire",
   title: "The Robot: Robots and Empire",
-  kind: "read",
   status: "not-started",
   author: "Isaac Asimov",
   unitSlug: "words",

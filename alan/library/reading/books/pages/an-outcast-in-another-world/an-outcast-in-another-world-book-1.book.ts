@@ -5,7 +5,6 @@ export const anOutcastInAnotherWorldBook1 = {
   pageTypeSlug: "book",
   slug: "an-outcast-in-another-world-book-1",
   title: "An Outcast In Another World",
-  kind: "read",
   status: "completed",
   author: "KamikazePotato ",
   unitSlug: "words",

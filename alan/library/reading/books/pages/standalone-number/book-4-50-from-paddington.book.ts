@@ -5,7 +5,6 @@ export const book450FromPaddington = {
   pageTypeSlug: "book",
   slug: "book-4-50-from-paddington",
   title: "4.50 from Paddington",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

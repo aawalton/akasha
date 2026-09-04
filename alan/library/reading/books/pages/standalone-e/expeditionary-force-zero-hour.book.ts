@@ -5,7 +5,6 @@ export const expeditionaryForceZeroHour = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-zero-hour",
   title: "Expeditionary Force: Zero Hour",
-  kind: "read",
   status: "not-started",
   author: "Craig Alanson",
   unitSlug: "words",

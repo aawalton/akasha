@@ -5,7 +5,6 @@ export const theDivineDungeonDungeonBorn = {
   pageTypeSlug: "book",
   slug: "the-divine-dungeon-dungeon-born",
   title: "The Divine Dungeon: Dungeon Born",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

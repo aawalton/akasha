@@ -5,7 +5,6 @@ export const wheelOfTimeThePathOfDaggers = {
   pageTypeSlug: "book",
   slug: "wheel-of-time-the-path-of-daggers",
   title: "Wheel of Time: The Path of Daggers",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Robert Jordan",

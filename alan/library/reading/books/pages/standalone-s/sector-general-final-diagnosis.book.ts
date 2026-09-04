@@ -5,7 +5,6 @@ export const sectorGeneralFinalDiagnosis = {
   pageTypeSlug: "book",
   slug: "sector-general-final-diagnosis",
   title: "Sector General: Final Diagnosis",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

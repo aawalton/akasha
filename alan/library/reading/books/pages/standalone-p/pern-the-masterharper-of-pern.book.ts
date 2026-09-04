@@ -5,7 +5,6 @@ export const pernTheMasterharperOfPern = {
   pageTypeSlug: "book",
   slug: "pern-the-masterharper-of-pern",
   title: "Pern: The Masterharper of Pern",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

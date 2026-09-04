@@ -5,7 +5,6 @@ export const lux = {
   pageTypeSlug: "book",
   slug: "lux",
   title: "Lux",
-  kind: "read",
   status: "not-started",
   author: "Jennifer L. Armentrout",
   unitSlug: "words",

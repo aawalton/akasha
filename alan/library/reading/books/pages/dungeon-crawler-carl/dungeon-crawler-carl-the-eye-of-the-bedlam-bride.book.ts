@@ -5,7 +5,6 @@ export const dungeonCrawlerCarlTheEyeOfTheBedlamBride = {
   pageTypeSlug: "book",
   slug: "dungeon-crawler-carl-the-eye-of-the-bedlam-bride",
   title: "Dungeon Crawler Carl: The Eye of the Bedlam Bride",
-  kind: "read",
   status: "not-started",
   author: "Matt Dinniman",
   unitSlug: "words",

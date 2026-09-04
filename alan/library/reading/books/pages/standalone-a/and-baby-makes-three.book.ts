@@ -5,7 +5,6 @@ export const andBabyMakesThree = {
   pageTypeSlug: "book",
   slug: "and-baby-makes-three",
   title: "And Baby Makes Three",
-  kind: "read",
   status: "not-started",
   author: "Rebecca Winters, Christine Sparks",
   unitSlug: "words",

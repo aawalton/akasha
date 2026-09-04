@@ -5,7 +5,6 @@ export const expeditionaryForceGateway = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-gateway",
   title: "Expeditionary Force: Gateway",
-  kind: "read",
   status: "not-started",
   author: "Stefano Fusi",
   unitSlug: "words",

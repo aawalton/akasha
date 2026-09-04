@@ -5,7 +5,6 @@ export const theAmericanRepublicPrimarySources = {
   pageTypeSlug: "book",
   slug: "the-american-republic-primary-sources",
   title: "The American Republic: Primary Sources",
-  kind: "read",
   status: "paused",
   author: "Bruce Frohnen",
   unitSlug: "words",

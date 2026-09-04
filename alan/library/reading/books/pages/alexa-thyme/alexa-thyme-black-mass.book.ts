@@ -5,7 +5,6 @@ export const alexaThymeBlackMass = {
   pageTypeSlug: "book",
   slug: "alexa-thyme-black-mass",
   title: "Alexa Thyme: Black Mass",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

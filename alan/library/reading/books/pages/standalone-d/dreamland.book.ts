@@ -5,7 +5,6 @@ export const dreamland = {
   pageTypeSlug: "book",
   slug: "dreamland",
   title: "Dreamland",
-  kind: "read",
   status: "completed",
   author: "Sarah Dessen",
   unitSlug: "words",

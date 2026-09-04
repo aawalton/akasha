@@ -5,7 +5,6 @@ export const meMyselfAndUs = {
   pageTypeSlug: "book",
   slug: "me-myself-and-us",
   title: "Me, Myself, and Us",
-  kind: "read",
   status: "not-started",
   author: "Brian R. Little Ph.D.",
   unitSlug: "words",

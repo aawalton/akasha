@@ -5,7 +5,6 @@ export const stonehavenLeagueTempleOfSorrow = {
   pageTypeSlug: "book",
   slug: "stonehaven-league-temple-of-sorrow",
   title: "Stonehaven League: Temple of Sorrow",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

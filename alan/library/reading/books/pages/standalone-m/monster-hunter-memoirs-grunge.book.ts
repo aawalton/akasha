@@ -5,7 +5,6 @@ export const monsterHunterMemoirsGrunge = {
   pageTypeSlug: "book",
   slug: "monster-hunter-memoirs-grunge",
   title: "Monster Hunter Memoirs: Grunge",
-  kind: "read",
   status: "not-started",
   author: "Larry Correia, John Ringo, Oliver Wyman",
   unitSlug: "words",

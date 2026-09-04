@@ -5,7 +5,6 @@ export const theMansGuideToWomen = {
   pageTypeSlug: "book",
   slug: "the-mans-guide-to-women",
   title: "The Man's Guide to Women",
-  kind: "read",
   status: "not-started",
   author:
     "John Mordechai Gottman, Julie Schwartz Gottman, Douglas Abrams, Rachel Carlton Abrams M.D., Eric Michael Summerer",

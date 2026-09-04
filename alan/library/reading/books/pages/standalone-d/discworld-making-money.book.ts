@@ -5,7 +5,6 @@ export const discworldMakingMoney = {
   pageTypeSlug: "book",
   slug: "discworld-making-money",
   title: "Discworld: Making Money",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

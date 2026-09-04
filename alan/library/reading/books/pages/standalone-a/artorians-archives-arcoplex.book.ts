@@ -5,7 +5,6 @@ export const artoriansArchivesArcoplex = {
   pageTypeSlug: "book",
   slug: "artorians-archives-arcoplex",
   title: "Artorian's Archives: Arcoplex",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 14,

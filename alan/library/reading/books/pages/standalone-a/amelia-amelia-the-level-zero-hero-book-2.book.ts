@@ -5,7 +5,6 @@ export const ameliaAmeliaTheLevelZeroHeroBook2 = {
   pageTypeSlug: "book",
   slug: "amelia-amelia-the-level-zero-hero-book-2",
   title: "Amelia: Amelia The Level Zero Hero Book 2",
-  kind: "read",
   status: "not-started",
   author: "V.A Lewis",
   unitSlug: "words",

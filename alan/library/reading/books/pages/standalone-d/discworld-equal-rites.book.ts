@@ -5,7 +5,6 @@ export const discworldEqualRites = {
   pageTypeSlug: "book",
   slug: "discworld-equal-rites",
   title: "Discworld: Equal Rites",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

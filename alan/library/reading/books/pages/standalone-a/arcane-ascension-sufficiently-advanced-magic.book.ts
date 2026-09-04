@@ -5,7 +5,6 @@ export const arcaneAscensionSufficientlyAdvancedMagic = {
   pageTypeSlug: "book",
   slug: "arcane-ascension-sufficiently-advanced-magic",
   title: "Arcane Ascension: Sufficiently Advanced Magic",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

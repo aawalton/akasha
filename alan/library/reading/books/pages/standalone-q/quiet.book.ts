@@ -5,7 +5,6 @@ export const quiet = {
   pageTypeSlug: "book",
   slug: "quiet",
   title: "Quiet",
-  kind: "read",
   status: "not-started",
   author: "Susan Cain",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const theScienceOfTrust = {
   pageTypeSlug: "book",
   slug: "the-science-of-trust",
   title: "The Science of Trust",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "John Mordechai Gottman",

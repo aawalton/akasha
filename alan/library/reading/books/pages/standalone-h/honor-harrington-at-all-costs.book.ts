@@ -5,7 +5,6 @@ export const honorHarringtonAtAllCosts = {
   pageTypeSlug: "book",
   slug: "honor-harrington-at-all-costs",
   title: "Honor Harrington: At All Costs",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

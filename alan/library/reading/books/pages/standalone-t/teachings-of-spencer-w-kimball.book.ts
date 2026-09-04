@@ -5,7 +5,6 @@ export const teachingsOfSpencerWKimball = {
   pageTypeSlug: "book",
   slug: "teachings-of-spencer-w-kimball",
   title: "Teachings of Spencer W. Kimball",
-  kind: "read",
   status: "not-started",
   author: "Spencer W. Kimball",
   unitSlug: "words",

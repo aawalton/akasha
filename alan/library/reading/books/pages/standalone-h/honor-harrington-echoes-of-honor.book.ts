@@ -5,7 +5,6 @@ export const honorHarringtonEchoesOfHonor = {
   pageTypeSlug: "book",
   slug: "honor-harrington-echoes-of-honor",
   title: "Honor Harrington: Echoes of Honor",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

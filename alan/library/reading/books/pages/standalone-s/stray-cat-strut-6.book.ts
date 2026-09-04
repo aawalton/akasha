@@ -5,7 +5,6 @@ export const strayCatStrut6 = {
   pageTypeSlug: "book",
   slug: "stray-cat-strut-6",
   title: "Stray Cat Strut 6",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

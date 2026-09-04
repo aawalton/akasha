@@ -5,7 +5,6 @@ export const sectorGeneralMajorOperation = {
   pageTypeSlug: "book",
   slug: "sector-general-major-operation",
   title: "Sector General: Major Operation",
-  kind: "read",
   status: "not-started",
   author: "James White",
   unitSlug: "words",

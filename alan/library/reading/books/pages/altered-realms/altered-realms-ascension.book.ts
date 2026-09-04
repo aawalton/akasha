@@ -5,7 +5,6 @@ export const alteredRealmsAscension = {
   pageTypeSlug: "book",
   slug: "altered-realms-ascension",
   title: "Altered Realms: Ascension",
-  kind: "read",
   status: "not-started",
   author: "B. F. Rockriver",
   unitSlug: "words",

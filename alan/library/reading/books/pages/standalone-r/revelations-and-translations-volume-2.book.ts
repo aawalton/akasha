@@ -5,7 +5,6 @@ export const revelationsAndTranslationsVolume2 = {
   pageTypeSlug: "book",
   slug: "revelations-and-translations-volume-2",
   title: "Revelations and Translations Volume 2",
-  kind: "read",
   status: "not-started",
   author: "Bible",
   unitSlug: "words",

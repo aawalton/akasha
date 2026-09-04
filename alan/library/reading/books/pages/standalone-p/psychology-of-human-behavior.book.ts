@@ -5,7 +5,6 @@ export const psychologyOfHumanBehavior = {
   pageTypeSlug: "book",
   slug: "psychology-of-human-behavior",
   title: "Psychology of Human Behavior",
-  kind: "read",
   status: "completed",
   author: "Nancy Lui",
   unitSlug: "words",

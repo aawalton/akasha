@@ -5,7 +5,6 @@ export const theLittleBookOfTalent = {
   pageTypeSlug: "book",
   slug: "the-little-book-of-talent",
   title: "The Little Book of Talent",
-  kind: "read",
   status: "completed",
   rank: "A",
   author: "Daniel Coyle",

@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld35MontesquieuRousseau = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-35-montesquieu-rousseau",
   title: "The Great Books of the Western World 35: Montesquieu, Rousseau",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 35,

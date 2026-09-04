@@ -5,7 +5,6 @@ export const stonehavenLeagueEchoesOfTheSystem = {
   pageTypeSlug: "book",
   slug: "stonehaven-league-echoes-of-the-system",
   title: "Stonehaven League: Echoes of the System",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

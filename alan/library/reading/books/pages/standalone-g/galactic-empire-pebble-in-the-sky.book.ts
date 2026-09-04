@@ -5,7 +5,6 @@ export const galacticEmpirePebbleInTheSky = {
   pageTypeSlug: "book",
   slug: "galactic-empire-pebble-in-the-sky",
   title: "Galactic Empire: Pebble in the Sky",
-  kind: "read",
   status: "not-started",
   author: "Isaac Asimov",
   unitSlug: "words",

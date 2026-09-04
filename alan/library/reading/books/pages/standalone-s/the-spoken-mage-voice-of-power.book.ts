@@ -5,7 +5,6 @@ export const theSpokenMageVoiceOfPower = {
   pageTypeSlug: "book",
   slug: "the-spoken-mage-voice-of-power",
   title: "The Spoken Mage: Voice of Power",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 78500,

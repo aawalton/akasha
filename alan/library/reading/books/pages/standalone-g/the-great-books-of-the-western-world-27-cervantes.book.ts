@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld27Cervantes = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-27-cervantes",
   title: "The Great Books of the Western World 27: Cervantes",
-  kind: "read",
   status: "not-started",
   author: "Miguel de Cervantes Saavedra",
   unitSlug: "words",

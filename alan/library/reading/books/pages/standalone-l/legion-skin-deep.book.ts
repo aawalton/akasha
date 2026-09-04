@@ -5,7 +5,6 @@ export const legionSkinDeep = {
   pageTypeSlug: "book",
   slug: "legion-skin-deep",
   title: "Legion: Skin Deep",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

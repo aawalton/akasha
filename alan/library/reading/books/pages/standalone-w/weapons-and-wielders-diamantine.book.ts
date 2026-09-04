@@ -5,7 +5,6 @@ export const weaponsAndWieldersDiamantine = {
   pageTypeSlug: "book",
   slug: "weapons-and-wielders-diamantine",
   title: "Weapons and Wielders: Diamantine",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

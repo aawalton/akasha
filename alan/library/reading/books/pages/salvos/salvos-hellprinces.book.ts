@@ -5,7 +5,6 @@ export const salvosHellprinces = {
   pageTypeSlug: "book",
   slug: "salvos-hellprinces",
   title: "Salvos: Hellprinces",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 9,

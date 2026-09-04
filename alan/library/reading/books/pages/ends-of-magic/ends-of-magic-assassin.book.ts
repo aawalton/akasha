@@ -5,7 +5,6 @@ export const endsOfMagicAssassin = {
   pageTypeSlug: "book",
   slug: "ends-of-magic-assassin",
   title: "Ends of Magic: Assassin",
-  kind: "read",
   status: "completed",
   author: "L. Fletcher Prouty",
   unitSlug: "words",

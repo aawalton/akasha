@@ -5,7 +5,6 @@ export const awakenOnlineArmageddon = {
   pageTypeSlug: "book",
   slug: "awaken-online-armageddon",
   title: "Awaken Online: Armageddon",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 10,

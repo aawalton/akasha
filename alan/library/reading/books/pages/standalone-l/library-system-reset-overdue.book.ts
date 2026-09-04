@@ -5,7 +5,6 @@ export const librarySystemResetOverdue = {
   pageTypeSlug: "book",
   slug: "library-system-reset-overdue",
   title: "Library System Reset: Overdue",
-  kind: "read",
   status: "not-started",
   author: "K. T. Hanna",
   unitSlug: "words",

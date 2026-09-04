@@ -5,7 +5,6 @@ export const theBadGuys2Lies2Thrones = {
   pageTypeSlug: "book",
   slug: "the-bad-guys-2-lies-2-thrones",
   title: "The Bad Guys: 2 Lies, 2 Thrones",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 11,

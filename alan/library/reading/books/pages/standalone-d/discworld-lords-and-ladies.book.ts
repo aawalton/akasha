@@ -5,7 +5,6 @@ export const discworldLordsAndLadies = {
   pageTypeSlug: "book",
   slug: "discworld-lords-and-ladies",
   title: "Discworld: Lords and Ladies",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

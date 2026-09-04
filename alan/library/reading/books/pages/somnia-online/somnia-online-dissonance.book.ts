@@ -5,7 +5,6 @@ export const somniaOnlineDissonance = {
   pageTypeSlug: "book",
   slug: "somnia-online-dissonance",
   title: "Somnia Online: Dissonance",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

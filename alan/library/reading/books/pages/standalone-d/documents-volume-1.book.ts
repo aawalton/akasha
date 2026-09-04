@@ -5,7 +5,6 @@ export const documentsVolume1 = {
   pageTypeSlug: "book",
   slug: "documents-volume-1",
   title: "Documents Volume 1",
-  kind: "read",
   status: "not-started",
   author: "James Whitford Bashford",
   unitSlug: "words",

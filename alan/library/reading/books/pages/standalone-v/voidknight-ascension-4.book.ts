@@ -5,7 +5,6 @@ export const voidknightAscension4 = {
   pageTypeSlug: "book",
   slug: "voidknight-ascension-4",
   title: "Voidknight Ascension 4",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

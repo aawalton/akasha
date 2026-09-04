@@ -5,7 +5,6 @@ export const theGoodGuysDungeonMauling = {
   pageTypeSlug: "book",
   slug: "the-good-guys-dungeon-mauling",
   title: "The Good Guys: Dungeon Mauling",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

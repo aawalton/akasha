@@ -5,7 +5,6 @@ export const swordArtOnlineAlternativeCloversRegret2 = {
   pageTypeSlug: "book",
   slug: "sword-art-online-alternative-clovers-regret-2",
   title: "Sword Art Online Alternative Clover's Regret 2",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

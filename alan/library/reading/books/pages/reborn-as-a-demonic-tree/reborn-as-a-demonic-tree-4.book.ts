@@ -5,7 +5,6 @@ export const rebornAsADemonicTree4 = {
   pageTypeSlug: "book",
   slug: "reborn-as-a-demonic-tree-4",
   title: "Reborn as a Demonic Tree 4",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

@@ -5,7 +5,6 @@ export const sagewoodAWayHome = {
   pageTypeSlug: "book",
   slug: "sagewood-a-way-home",
   title: "Sagewood: A Way Home",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

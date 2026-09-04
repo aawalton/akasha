@@ -5,7 +5,6 @@ export const runelordsChaosbound = {
   pageTypeSlug: "book",
   slug: "runelords-chaosbound",
   title: "Runelords: Chaosbound",
-  kind: "read",
   status: "not-started",
   author: "David Farland",
   unitSlug: "words",

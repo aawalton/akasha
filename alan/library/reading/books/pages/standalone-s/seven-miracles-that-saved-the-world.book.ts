@@ -5,7 +5,6 @@ export const sevenMiraclesThatSavedTheWorld = {
   pageTypeSlug: "book",
   slug: "seven-miracles-that-saved-the-world",
   title: "Seven Miracles that Saved the World",
-  kind: "read",
   status: "not-started",
   author: "Chris Stewart, Ted Stewart",
   unitSlug: "words",

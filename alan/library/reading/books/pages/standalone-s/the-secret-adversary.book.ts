@@ -5,7 +5,6 @@ export const theSecretAdversary = {
   pageTypeSlug: "book",
   slug: "the-secret-adversary",
   title: "The Secret Adversary",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

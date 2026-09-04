@@ -5,7 +5,6 @@ export const discworldTheTruth = {
   pageTypeSlug: "book",
   slug: "discworld-the-truth",
   title: "Discworld: The Truth",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett, Stephen Briggs",
   unitSlug: "words",

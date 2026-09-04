@@ -5,7 +5,6 @@ export const theSunlitMan = {
   pageTypeSlug: "book",
   slug: "the-sunlit-man",
   title: "The Sunlit Man",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

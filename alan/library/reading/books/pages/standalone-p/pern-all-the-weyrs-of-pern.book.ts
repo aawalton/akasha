@@ -5,7 +5,6 @@ export const pernAllTheWeyrsOfPern = {
   pageTypeSlug: "book",
   slug: "pern-all-the-weyrs-of-pern",
   title: "Pern: All the Weyrs of Pern",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey, Mel Foster",
   unitSlug: "words",

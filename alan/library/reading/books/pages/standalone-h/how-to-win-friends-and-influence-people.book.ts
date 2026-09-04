@@ -5,7 +5,6 @@ export const howToWinFriendsAndInfluencePeople = {
   pageTypeSlug: "book",
   slug: "how-to-win-friends-and-influence-people",
   title: "How to Win Friends & Influence People",
-  kind: "read",
   status: "not-started",
   author: "Dale Carnegie",
   unitSlug: "words",

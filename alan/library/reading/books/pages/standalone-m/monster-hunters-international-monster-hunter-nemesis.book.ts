@@ -5,7 +5,6 @@ export const monsterHuntersInternationalMonsterHunterNemesis = {
   pageTypeSlug: "book",
   slug: "monster-hunters-international-monster-hunter-nemesis",
   title: "Monster Hunters International: Monster Hunter Nemesis",
-  kind: "read",
   status: "not-started",
   author: "Matt Fox",
   unitSlug: "words",

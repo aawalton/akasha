@@ -6,7 +6,6 @@ export const harryPotterHogwartsLibraryTheTalesOfBeedleTheBardAHarryPotterHogwar
   slug: "harry-potter-hogwarts-library-the-tales-of-beedle-the-bard-a-harry-potter-hogwarts-library-book",
   title:
     "Harry Potter: Hogwarts Library: The Tales of Beedle the Bard: A Harry Potter Hogwarts Library Book",
-  kind: "read",
   status: "not-started",
   author: "J. K. Rowling",
   unitSlug: "words",

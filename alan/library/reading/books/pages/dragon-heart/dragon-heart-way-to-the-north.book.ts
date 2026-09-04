@@ -5,7 +5,6 @@ export const dragonHeartWayToTheNorth = {
   pageTypeSlug: "book",
   slug: "dragon-heart-way-to-the-north",
   title: "Dragon Heart: Way To The North",
-  kind: "read",
   status: "not-started",
   author: "Bible",
   unitSlug: "words",

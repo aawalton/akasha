@@ -5,7 +5,6 @@ export const journalsVolume2 = {
   pageTypeSlug: "book",
   slug: "journals-volume-2",
   title: "Journals Volume 2",
-  kind: "read",
   status: "not-started",
   author: "WrightGroup/McGraw-Hill",
   unitSlug: "words",

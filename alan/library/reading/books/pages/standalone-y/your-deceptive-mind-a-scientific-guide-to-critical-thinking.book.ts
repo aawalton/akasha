@@ -5,7 +5,6 @@ export const yourDeceptiveMindAScientificGuideToCriticalThinking = {
   pageTypeSlug: "book",
   slug: "your-deceptive-mind-a-scientific-guide-to-critical-thinking",
   title: "Your Deceptive Mind: A Scientific Guide to Critical Thinking",
-  kind: "read",
   status: "not-started",
   author: "Professor Steven Novella; The Great Courses",
   unitSlug: "words",

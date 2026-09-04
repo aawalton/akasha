@@ -5,7 +5,6 @@ export const mapsOfMeaning = {
   pageTypeSlug: "book",
   slug: "maps-of-meaning",
   title: "Maps of Meaning",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "Jordan B. Peterson",

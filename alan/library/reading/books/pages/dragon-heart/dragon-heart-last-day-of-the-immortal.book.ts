@@ -5,7 +5,6 @@ export const dragonHeartLastDayOfTheImmortal = {
   pageTypeSlug: "book",
   slug: "dragon-heart-last-day-of-the-immortal",
   title: "Dragon Heart: Last Day Of The Immortal",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 21,

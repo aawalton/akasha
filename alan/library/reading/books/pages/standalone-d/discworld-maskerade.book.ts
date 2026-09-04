@@ -5,7 +5,6 @@ export const discworldMaskerade = {
   pageTypeSlug: "book",
   slug: "discworld-maskerade",
   title: "Discworld: Maskerade",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

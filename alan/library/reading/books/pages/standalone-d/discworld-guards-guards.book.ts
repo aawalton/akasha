@@ -5,7 +5,6 @@ export const discworldGuardsGuards = {
   pageTypeSlug: "book",
   slug: "discworld-guards-guards",
   title: "Discworld: Guards! Guards!",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

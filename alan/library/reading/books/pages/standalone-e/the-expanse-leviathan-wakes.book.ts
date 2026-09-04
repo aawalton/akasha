@@ -5,7 +5,6 @@ export const theExpanseLeviathanWakes = {
   pageTypeSlug: "book",
   slug: "the-expanse-leviathan-wakes",
   title: "The Expanse: Leviathan Wakes",
-  kind: "read",
   status: "not-started",
   author: "James S. A. Corey",
   unitSlug: "words",

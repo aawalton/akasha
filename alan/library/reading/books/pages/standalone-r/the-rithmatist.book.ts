@@ -5,7 +5,6 @@ export const theRithmatist = {
   pageTypeSlug: "book",
   slug: "the-rithmatist",
   title: "The Rithmatist",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

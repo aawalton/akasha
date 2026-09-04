@@ -5,7 +5,6 @@ export const powderMageTheCrimsonCampaign = {
   pageTypeSlug: "book",
   slug: "powder-mage-the-crimson-campaign",
   title: "Powder Mage: The Crimson Campaign",
-  kind: "read",
   status: "not-started",
   author: "Brian McClellan",
   unitSlug: "words",

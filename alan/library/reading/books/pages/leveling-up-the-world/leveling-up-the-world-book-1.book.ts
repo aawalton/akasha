@@ -5,7 +5,6 @@ export const levelingUpTheWorldBook1 = {
   pageTypeSlug: "book",
   slug: "leveling-up-the-world-book-1",
   title: "Leveling Up The World",
-  kind: "read",
   status: "completed",
   author: "Booker T. Washington",
   unitSlug: "words",

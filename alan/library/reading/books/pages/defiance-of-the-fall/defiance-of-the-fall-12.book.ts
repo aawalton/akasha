@@ -5,7 +5,6 @@ export const defianceOfTheFall12 = {
   pageTypeSlug: "book",
   slug: "defiance-of-the-fall-12",
   title: "Defiance of the Fall 12",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 12,

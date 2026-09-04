@@ -5,7 +5,6 @@ export const wolfmanWarlockBibliomancer = {
   pageTypeSlug: "book",
   slug: "wolfman-warlock-bibliomancer",
   title: "Wolfman Warlock: Bibliomancer",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

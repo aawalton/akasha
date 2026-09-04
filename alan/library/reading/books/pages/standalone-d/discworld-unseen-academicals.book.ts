@@ -5,7 +5,6 @@ export const discworldUnseenAcademicals = {
   pageTypeSlug: "book",
   slug: "discworld-unseen-academicals",
   title: "Discworld: Unseen Academicals",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const documentsVolume14 = {
   pageTypeSlug: "book",
   slug: "documents-volume-14",
   title: "Documents Volume 14",
-  kind: "read",
   status: "not-started",
   author: "Alex D. Smith, Adam H. Petty, Jessica M. Nelson, Spencer W. McBride",
   unitSlug: "words",

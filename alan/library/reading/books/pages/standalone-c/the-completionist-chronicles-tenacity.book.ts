@@ -5,7 +5,6 @@ export const theCompletionistChroniclesTenacity = {
   pageTypeSlug: "book",
   slug: "the-completionist-chronicles-tenacity",
   title: "The Completionist Chronicles: Tenacity",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 9,

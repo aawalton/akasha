@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld51Tolstoy = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-51-tolstoy",
   title: "The Great Books of the Western World 51: Tolstoy",
-  kind: "read",
   status: "not-started",
   author: "Лев Толстой",
   unitSlug: "words",

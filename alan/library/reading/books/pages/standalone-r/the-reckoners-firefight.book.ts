@@ -5,7 +5,6 @@ export const theReckonersFirefight = {
   pageTypeSlug: "book",
   slug: "the-reckoners-firefight",
   title: "The Reckoners: Firefight",
-  kind: "read",
   status: "not-started",
   author: "Brandon Sanderson",
   unitSlug: "words",

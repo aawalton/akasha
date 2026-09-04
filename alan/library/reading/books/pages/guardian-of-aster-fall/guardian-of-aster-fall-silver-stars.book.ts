@@ -5,7 +5,6 @@ export const guardianOfAsterFallSilverStars = {
   pageTypeSlug: "book",
   slug: "guardian-of-aster-fall-silver-stars",
   title: "Guardian of Aster Fall: Silver Stars",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 8,

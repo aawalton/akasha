@@ -5,7 +5,6 @@ export const whole = {
   pageTypeSlug: "book",
   slug: "whole",
   title: "Whole",
-  kind: "read",
   status: "not-started",
   author: "Sandra Brown",
   unitSlug: "words",

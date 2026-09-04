@@ -5,7 +5,6 @@ export const pernTheWhiteDragon = {
   pageTypeSlug: "book",
   slug: "pern-the-white-dragon",
   title: "Pern: The White Dragon",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

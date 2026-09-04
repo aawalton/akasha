@@ -5,7 +5,6 @@ export const swordArtOnlineAlternativeGunGaleOnlineSquadJam = {
   pageTypeSlug: "book",
   slug: "sword-art-online-alternative-gun-gale-online-squad-jam",
   title: "Sword Art Online Alternative Gun Gale Online: Squad Jam",
-  kind: "read",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
   unitSlug: "words",

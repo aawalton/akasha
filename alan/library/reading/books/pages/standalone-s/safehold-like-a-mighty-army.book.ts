@@ -5,7 +5,6 @@ export const safeholdLikeAMightyArmy = {
   pageTypeSlug: "book",
   slug: "safehold-like-a-mighty-army",
   title: "Safehold: Like a Mighty Army",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

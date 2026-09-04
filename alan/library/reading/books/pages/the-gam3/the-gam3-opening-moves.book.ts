@@ -5,7 +5,6 @@ export const theGam3OpeningMoves = {
   pageTypeSlug: "book",
   slug: "the-gam3-opening-moves",
   title: "The Gam3: Opening Moves",
-  kind: "read",
   status: "completed",
   author: "Cosimo Yap",
   unitSlug: "words",

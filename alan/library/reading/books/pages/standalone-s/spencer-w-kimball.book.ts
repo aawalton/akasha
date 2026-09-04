@@ -5,7 +5,6 @@ export const spencerWKimball = {
   pageTypeSlug: "book",
   slug: "spencer-w-kimball",
   title: "Spencer W. Kimball",
-  kind: "read",
   status: "not-started",
   author: "Spencer W. Kimball",
   unitSlug: "words",

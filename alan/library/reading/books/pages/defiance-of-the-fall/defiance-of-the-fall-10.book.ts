@@ -5,7 +5,6 @@ export const defianceOfTheFall10 = {
   pageTypeSlug: "book",
   slug: "defiance-of-the-fall-10",
   title: "Defiance of the Fall 10",
-  kind: "read",
   status: "completed",
   author: "J. F. Brink",
   unitSlug: "words",

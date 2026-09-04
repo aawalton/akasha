@@ -5,7 +5,6 @@ export const shatteredLegacyPhantomChamber = {
   pageTypeSlug: "book",
   slug: "shattered-legacy-phantom-chamber",
   title: "Shattered Legacy: Phantom Chamber",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

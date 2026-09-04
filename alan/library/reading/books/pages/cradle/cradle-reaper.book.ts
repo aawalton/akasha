@@ -5,7 +5,6 @@ export const cradleReaper = {
   pageTypeSlug: "book",
   slug: "cradle-reaper",
   title: "Cradle: Reaper",
-  kind: "read",
   status: "completed",
   author: "Will Wight",
   unitSlug: "words",

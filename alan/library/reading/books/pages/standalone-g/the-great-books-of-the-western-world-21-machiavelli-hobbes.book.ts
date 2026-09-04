@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld21MachiavelliHobbes = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-21-machiavelli-hobbes",
   title: "The Great Books of the Western World 21: Machiavelli, Hobbes",
-  kind: "read",
   status: "not-started",
   author: "Ed Mortimer J. Adler",
   unitSlug: "words",

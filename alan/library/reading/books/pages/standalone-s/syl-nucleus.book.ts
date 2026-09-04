@@ -5,7 +5,6 @@ export const sylNucleus = {
   pageTypeSlug: "book",
   slug: "syl-nucleus",
   title: "Syl: Nucleus",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

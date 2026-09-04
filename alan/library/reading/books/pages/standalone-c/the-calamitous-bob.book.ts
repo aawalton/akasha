@@ -5,7 +5,6 @@ export const theCalamitousBob = {
   pageTypeSlug: "book",
   slug: "the-calamitous-bob",
   title: "The Calamitous Bob",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 1,

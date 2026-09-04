@@ -5,7 +5,6 @@ export const whyMarriagesSucceedOrFail = {
   pageTypeSlug: "book",
   slug: "why-marriages-succeed-or-fail",
   title: "Why Marriages Succeed or Fail",
-  kind: "read",
   status: "completed",
   author: "John Mordechai Gottman",
   unitSlug: "words",

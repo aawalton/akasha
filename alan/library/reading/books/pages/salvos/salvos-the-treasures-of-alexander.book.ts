@@ -5,7 +5,6 @@ export const salvosTheTreasuresOfAlexander = {
   pageTypeSlug: "book",
   slug: "salvos-the-treasures-of-alexander",
   title: "Salvos: The Treasures of Alexander",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 8,

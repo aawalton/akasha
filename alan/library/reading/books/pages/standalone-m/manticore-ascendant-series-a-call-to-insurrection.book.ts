@@ -5,7 +5,6 @@ export const manticoreAscendantSeriesACallToInsurrection = {
   pageTypeSlug: "book",
   slug: "manticore-ascendant-series-a-call-to-insurrection",
   title: "Manticore Ascendant Series: A Call to Insurrection",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

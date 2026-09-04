@@ -5,7 +5,6 @@ export const discworldTheWeeFreeMen = {
   pageTypeSlug: "book",
   slug: "discworld-the-wee-free-men",
   title: "Discworld: The Wee Free Men",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett, Paul Kidby",
   unitSlug: "words",

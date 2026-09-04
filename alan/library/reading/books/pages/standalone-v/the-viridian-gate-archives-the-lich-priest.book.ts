@@ -5,7 +5,6 @@ export const theViridianGateArchivesTheLichPriest = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-the-lich-priest",
   title: "The Viridian Gate Archives: The Lich Priest",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 5,

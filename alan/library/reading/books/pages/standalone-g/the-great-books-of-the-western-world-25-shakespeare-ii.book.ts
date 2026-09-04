@@ -5,7 +5,6 @@ export const theGreatBooksOfTheWesternWorld25ShakespeareIi = {
   pageTypeSlug: "book",
   slug: "the-great-books-of-the-western-world-25-shakespeare-ii",
   title: "The Great Books of the Western World 25: Shakespeare II",
-  kind: "read",
   status: "not-started",
   author: "William Shakespeare",
   unitSlug: "words",

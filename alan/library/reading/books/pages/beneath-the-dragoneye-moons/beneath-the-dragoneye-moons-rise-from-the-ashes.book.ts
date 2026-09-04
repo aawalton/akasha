@@ -5,7 +5,6 @@ export const beneathTheDragoneyeMoonsRiseFromTheAshes = {
   pageTypeSlug: "book",
   slug: "beneath-the-dragoneye-moons-rise-from-the-ashes",
   title: "Beneath the Dragoneye Moons: Rise from the Ashes",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 15,

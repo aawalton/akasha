@@ -5,7 +5,6 @@ export const honorHarringtonStarKingdomTreecatWars = {
   pageTypeSlug: "book",
   slug: "honor-harrington-star-kingdom-treecat-wars",
   title: "Honor Harrington - Star Kingdom: Treecat Wars",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 2,

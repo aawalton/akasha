@@ -5,7 +5,6 @@ export const sagewoodRestoreTheFarm = {
   pageTypeSlug: "book",
   slug: "sagewood-restore-the-farm",
   title: "Sagewood: Restore the Farm",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 1,

@@ -5,7 +5,6 @@ export const midFlinx = {
   pageTypeSlug: "book",
   slug: "mid-flinx",
   title: "Mid-Flinx",
-  kind: "read",
   status: "not-started",
   author: "Alan Dean Foster",
   unitSlug: "words",

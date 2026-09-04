@@ -5,7 +5,6 @@ export const riseOfTheLivingForge3 = {
   pageTypeSlug: "book",
   slug: "rise-of-the-living-forge-3",
   title: "Rise of the Living Forge 3",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 3,

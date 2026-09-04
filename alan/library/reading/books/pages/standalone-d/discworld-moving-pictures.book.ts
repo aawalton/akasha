@@ -5,7 +5,6 @@ export const discworldMovingPictures = {
   pageTypeSlug: "book",
   slug: "discworld-moving-pictures",
   title: "Discworld: Moving Pictures",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

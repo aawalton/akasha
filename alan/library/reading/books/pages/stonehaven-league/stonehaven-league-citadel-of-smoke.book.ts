@@ -5,7 +5,6 @@ export const stonehavenLeagueCitadelOfSmoke = {
   pageTypeSlug: "book",
   slug: "stonehaven-league-citadel-of-smoke",
   title: "Stonehaven League: Citadel of Smoke",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

@@ -5,7 +5,6 @@ export const expeditionaryForceColumbusDay = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-columbus-day",
   title: "Expeditionary Force: Columbus Day",
-  kind: "read",
   status: "not-started",
   author: "Craig Alanson",
   unitSlug: "words",

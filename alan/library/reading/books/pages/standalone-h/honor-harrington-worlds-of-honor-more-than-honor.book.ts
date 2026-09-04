@@ -5,7 +5,6 @@ export const honorHarringtonWorldsOfHonorMoreThanHonor = {
   pageTypeSlug: "book",
   slug: "honor-harrington-worlds-of-honor-more-than-honor",
   title: "Honor Harrington - Worlds of Honor: More Than Honor",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 97000,

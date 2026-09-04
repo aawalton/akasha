@@ -5,7 +5,6 @@ export const theSystemApocalypseRedeemerOfTheDead = {
   pageTypeSlug: "book",
   slug: "the-system-apocalypse-redeemer-of-the-dead",
   title: "The System Apocalypse: Redeemer of the Dead",
-  kind: "read",
   status: "completed",
   author: "Tao Wong",
   unitSlug: "words",

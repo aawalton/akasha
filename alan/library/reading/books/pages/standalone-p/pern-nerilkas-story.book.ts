@@ -5,7 +5,6 @@ export const pernNerilkasStory = {
   pageTypeSlug: "book",
   slug: "pern-nerilkas-story",
   title: "Pern: Nerilka's Story",
-  kind: "read",
   status: "not-started",
   author: "Anne McCaffrey",
   unitSlug: "words",

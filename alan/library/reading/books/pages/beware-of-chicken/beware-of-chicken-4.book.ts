@@ -5,7 +5,6 @@ export const bewareOfChicken4 = {
   pageTypeSlug: "book",
   slug: "beware-of-chicken-4",
   title: "Beware of Chicken 4",
-  kind: "read",
   status: "completed",
   author: "Casualfarmer",
   unitSlug: "words",

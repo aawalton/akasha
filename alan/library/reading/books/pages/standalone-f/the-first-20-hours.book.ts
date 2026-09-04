@@ -5,7 +5,6 @@ export const theFirst20Hours = {
   pageTypeSlug: "book",
   slug: "the-first-20-hours",
   title: "The First 20 Hours",
-  kind: "read",
   status: "not-started",
   author: "Josh Kaufman",
   unitSlug: "words",

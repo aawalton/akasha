@@ -5,7 +5,6 @@ export const mobyDick = {
   pageTypeSlug: "book",
   slug: "moby-dick",
   title: "Moby Dick",
-  kind: "read",
   status: "not-started",
   author: "Herman Melville",
   unitSlug: "words",

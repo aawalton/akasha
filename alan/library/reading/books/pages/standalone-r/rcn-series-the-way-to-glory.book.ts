@@ -5,7 +5,6 @@ export const rcnSeriesTheWayToGlory = {
   pageTypeSlug: "book",
   slug: "rcn-series-the-way-to-glory",
   title: "RCN Series: The Way to Glory",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 3,

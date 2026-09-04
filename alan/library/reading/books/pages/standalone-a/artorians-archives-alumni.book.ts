@@ -5,7 +5,6 @@ export const artoriansArchivesAlumni = {
   pageTypeSlug: "book",
   slug: "artorians-archives-alumni",
   title: "Artorian's Archives: Alumni",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 2,

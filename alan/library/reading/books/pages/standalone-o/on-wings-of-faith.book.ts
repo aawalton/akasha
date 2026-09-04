@@ -5,7 +5,6 @@ export const onWingsOfFaith = {
   pageTypeSlug: "book",
   slug: "on-wings-of-faith",
   title: "On Wings of Faith",
-  kind: "read",
   status: "not-started",
   author: "Frederick W. Babbel",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const childrenOfTheNameless = {
   pageTypeSlug: "book",
   slug: "children-of-the-nameless",
   title: "Children of the Nameless",
-  kind: "read",
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",

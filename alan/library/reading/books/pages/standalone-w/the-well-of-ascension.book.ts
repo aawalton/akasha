@@ -5,7 +5,6 @@ export const theWellOfAscension = {
   pageTypeSlug: "book",
   slug: "the-well-of-ascension",
   title: "The Well of Ascension",
-  kind: "read",
   status: "paused",
   author: "Brandon Sanderson",
   unitSlug: "words",

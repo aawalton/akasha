@@ -5,7 +5,6 @@ export const fantasticBeastsTheSecretsOfDumbledoreTheCompleteScreenplay = {
   pageTypeSlug: "book",
   slug: "fantastic-beasts-the-secrets-of-dumbledore-the-complete-screenplay",
   title: "Fantastic Beasts: The Secrets of Dumbledore – The Complete Screenplay",
-  kind: "read",
   status: "not-started",
   author: "J. K. Rowling, Steve Kloves",
   unitSlug: "words",

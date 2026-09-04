@@ -5,7 +5,6 @@ export const theWhisperingCrystalsUnchainedPotential = {
   pageTypeSlug: "book",
   slug: "the-whispering-crystals-unchained-potential",
   title: "The Whispering Crystals: Unchained Potential",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

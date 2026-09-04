@@ -5,7 +5,6 @@ export const safeholdAtTheSignOfTriumph = {
   pageTypeSlug: "book",
   slug: "safehold-at-the-sign-of-triumph",
   title: "Safehold: At the Sign of Triumph",
-  kind: "read",
   status: "not-started",
   author: "David Weber",
   unitSlug: "words",

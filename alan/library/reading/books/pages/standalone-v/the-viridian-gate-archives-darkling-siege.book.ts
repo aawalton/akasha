@@ -5,7 +5,6 @@ export const theViridianGateArchivesDarklingSiege = {
   pageTypeSlug: "book",
   slug: "the-viridian-gate-archives-darkling-siege",
   title: "The Viridian Gate Archives: Darkling Siege",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 7,

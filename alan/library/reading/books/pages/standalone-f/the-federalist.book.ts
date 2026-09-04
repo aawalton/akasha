@@ -5,7 +5,6 @@ export const theFederalist = {
   pageTypeSlug: "book",
   slug: "the-federalist",
   title: "The Federalist",
-  kind: "read",
   status: "not-started",
   author: "Alexander Hamilton, James Madison, John Jay",
   unitSlug: "words",

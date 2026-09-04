@@ -5,7 +5,6 @@ export const peak = {
   pageTypeSlug: "book",
   slug: "peak",
   title: "Peak",
-  kind: "read",
   status: "not-started",
   author: "Roland Smith",
   unitSlug: "words",

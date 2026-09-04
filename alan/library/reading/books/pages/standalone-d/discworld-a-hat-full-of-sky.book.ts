@@ -5,7 +5,6 @@ export const discworldAHatFullOfSky = {
   pageTypeSlug: "book",
   slug: "discworld-a-hat-full-of-sky",
   title: "Discworld: A Hat Full of Sky",
-  kind: "read",
   status: "not-started",
   author: "Terry Pratchett",
   unitSlug: "words",

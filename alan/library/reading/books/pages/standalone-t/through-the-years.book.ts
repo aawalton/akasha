@@ -5,7 +5,6 @@ export const throughTheYears = {
   pageTypeSlug: "book",
   slug: "through-the-years",
   title: "Through The Years",
-  kind: "read",
   status: "paused",
   author: "Linda Howard, Fern Michaels, Debbie Macomber",
   unitSlug: "words",

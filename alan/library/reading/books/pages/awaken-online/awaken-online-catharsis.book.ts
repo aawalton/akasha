@@ -5,7 +5,6 @@ export const awakenOnlineCatharsis = {
   pageTypeSlug: "book",
   slug: "awaken-online-catharsis",
   title: "Awaken Online: Catharsis",
-  kind: "read",
   status: "completed",
   author: "Travis Bagwell",
   unitSlug: "words",

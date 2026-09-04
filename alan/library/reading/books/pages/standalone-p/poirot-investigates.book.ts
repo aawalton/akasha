@@ -5,7 +5,6 @@ export const poirotInvestigates = {
   pageTypeSlug: "book",
   slug: "poirot-investigates",
   title: "Poirot Investigates",
-  kind: "read",
   status: "not-started",
   author: "Agatha Christie",
   unitSlug: "words",

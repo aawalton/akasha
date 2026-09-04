@@ -5,7 +5,6 @@ export const theWayOfTheShamanShamansRevenge = {
   pageTypeSlug: "book",
   slug: "the-way-of-the-shaman-shamans-revenge",
   title: "The Way of the Shaman: Shaman's Revenge",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 6,

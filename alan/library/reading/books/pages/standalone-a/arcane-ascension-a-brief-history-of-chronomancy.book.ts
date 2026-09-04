@@ -5,7 +5,6 @@ export const arcaneAscensionABriefHistoryOfChronomancy = {
   pageTypeSlug: "book",
   slug: "arcane-ascension-a-brief-history-of-chronomancy",
   title: "Arcane Ascension: A Brief History of Chronomancy",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   position: 6,

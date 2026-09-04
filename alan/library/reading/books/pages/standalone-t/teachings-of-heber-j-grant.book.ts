@@ -5,7 +5,6 @@ export const teachingsOfHeberJGrant = {
   pageTypeSlug: "book",
   slug: "teachings-of-heber-j-grant",
   title: "Teachings of Heber J. Grant",
-  kind: "read",
   status: "not-started",
   author: "Staff of Publisher",
   unitSlug: "words",

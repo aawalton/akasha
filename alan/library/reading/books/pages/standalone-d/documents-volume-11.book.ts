@@ -5,7 +5,6 @@ export const documentsVolume11 = {
   pageTypeSlug: "book",
   slug: "documents-volume-11",
   title: "Documents Volume 11",
-  kind: "read",
   status: "not-started",
   author: "Martin Gilbert, Winston Churchill - undifferentiated",
   unitSlug: "words",

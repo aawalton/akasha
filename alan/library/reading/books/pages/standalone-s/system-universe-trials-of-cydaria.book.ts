@@ -5,7 +5,6 @@ export const systemUniverseTrialsOfCydaria = {
   pageTypeSlug: "book",
   slug: "system-universe-trials-of-cydaria",
   title: "System Universe: Trials of Cydaria",
-  kind: "read",
   status: "completed",
   unitSlug: "words",
   position: 4,

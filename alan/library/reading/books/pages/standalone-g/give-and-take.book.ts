@@ -5,7 +5,6 @@ export const giveAndTake = {
   pageTypeSlug: "book",
   slug: "give-and-take",
   title: "Give and Take",
-  kind: "read",
   status: "not-started",
   author: "Adam Grant, Adam M. Grant",
   unitSlug: "words",

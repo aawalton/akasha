@@ -5,7 +5,6 @@ export const thePoemsOfRobertBrowning = {
   pageTypeSlug: "book",
   slug: "the-poems-of-robert-browning",
   title: "The Poems of Robert Browning",
-  kind: "read",
   status: "not-started",
   author: "Robert Browning, Daniel Karlin, John Woolford",
   unitSlug: "words",

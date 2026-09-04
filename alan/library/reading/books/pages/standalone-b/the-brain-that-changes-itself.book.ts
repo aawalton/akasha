@@ -5,7 +5,6 @@ export const theBrainThatChangesItself = {
   pageTypeSlug: "book",
   slug: "the-brain-that-changes-itself",
   title: "The Brain That Changes Itself",
-  kind: "read",
   status: "not-started",
   author: "Norman Doidge",
   unitSlug: "words",

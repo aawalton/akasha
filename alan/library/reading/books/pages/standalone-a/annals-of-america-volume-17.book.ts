@@ -5,7 +5,6 @@ export const annalsOfAmericaVolume17 = {
   pageTypeSlug: "book",
   slug: "annals-of-america-volume-17",
   title: "Annals of America Volume 17",
-  kind: "read",
   status: "not-started",
   author: "Encyclopedia Britannica",
   unitSlug: "words",

@@ -5,7 +5,6 @@ export const hellDifficultyTutorialBook1 = {
   pageTypeSlug: "book",
   slug: "hell-difficulty-tutorial-book-1",
   title: "Hell Difficulty Tutorial",
-  kind: "read",
   status: "not-started",
   author: "Cerim, Karassawa, Der-Shing Helmer",
   unitSlug: "words",

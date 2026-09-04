@@ -5,7 +5,6 @@ export const readyPlayerOneReadyPlayerTwo = {
   pageTypeSlug: "book",
   slug: "ready-player-one-ready-player-two",
   title: "Ready Player One: Ready Player Two",
-  kind: "read",
   status: "not-started",
   author: "Ernest Cline",
   unitSlug: "words",

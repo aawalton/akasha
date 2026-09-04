@@ -5,7 +5,6 @@ export const thatYeMayBelieve = {
   pageTypeSlug: "book",
   slug: "that-ye-may-believe",
   title: "That Ye May Believe",
-  kind: "read",
   status: "completed",
   rank: "C",
   author: "David Keppel",

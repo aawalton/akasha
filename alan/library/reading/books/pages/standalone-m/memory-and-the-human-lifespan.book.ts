@@ -5,7 +5,6 @@ export const memoryAndTheHumanLifespan = {
   pageTypeSlug: "book",
   slug: "memory-and-the-human-lifespan",
   title: "Memory and the Human Lifespan",
-  kind: "read",
   status: "not-started",
   unitSlug: "words",
   ownLength: 180450,

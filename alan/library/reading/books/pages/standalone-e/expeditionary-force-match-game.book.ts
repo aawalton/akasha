@@ -5,7 +5,6 @@ export const expeditionaryForceMatchGame = {
   pageTypeSlug: "book",
   slug: "expeditionary-force-match-game",
   title: "Expeditionary Force: Match Game",
-  kind: "read",
   status: "not-started",
   author: "Craig Alanson",
   unitSlug: "words",

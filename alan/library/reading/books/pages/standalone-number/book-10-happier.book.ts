@@ -5,7 +5,6 @@ export const book10Happier = {
   pageTypeSlug: "book",
   slug: "book-10-happier",
   title: "10% Happier",
-  kind: "read",
   status: "not-started",
   author: "Dan Harris",
   unitSlug: "words",

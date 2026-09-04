@@ -5,7 +5,6 @@ export const greatExpectations = {
   pageTypeSlug: "book",
   slug: "great-expectations",
   title: "Great Expectations",
-  kind: "read",
   status: "not-started",
   author: "Charles Dickens",
   unitSlug: "words",
