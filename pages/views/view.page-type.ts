@@ -79,7 +79,6 @@ export const view = {
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "nav-slug", required: true, many: false },
-    { pagePropertySlug: "draws-slug", required: false, many: false },
     { pagePropertySlug: "view-predicate", required: false, many: false },
     { pagePropertySlug: "view-place", required: false, many: false },
     { pagePropertySlug: "layout", required: false, many: false },
