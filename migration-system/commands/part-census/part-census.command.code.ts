@@ -4,12 +4,13 @@ import {
   censusOver,
   censusSaid,
   countedIn,
+  faultedIn,
   pathsIn,
 } from "../../part-census/part-census.module.code.ts"
 
 const INPUT = 1
 
-const UNNAMED = 2
+const FAULTED = 2
 
 const PATHS = "--paths"
 
@@ -44,5 +45,5 @@ export function partCensus(argv: readonly string[], given: Given): Answer {
   const report = asked.paths
     ? [...pathsIn(census)]
     : [...censusSaid(census), ...(asked.counts ? countedIn(census) : [])]
-  return { report, refusals: [], code: census.unnamed.length === 0 ? 0 : UNNAMED }
+  return { report, refusals: [], code: faultedIn(census) ? FAULTED : 0 }
 }

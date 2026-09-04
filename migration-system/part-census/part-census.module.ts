@@ -4,7 +4,7 @@ export const partCensus = {
   id: "01a06980-1555-7648-8777-3035d5b2736d",
   pageTypeSlug: "module",
   slug: "part-census",
-  definition: "which pages under the akasha domain no page above them names among its parts",
+  definition: "which pages under the akasha domain no page names among its parts, and which two do",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,11 +18,23 @@ export const partCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is judged on whether any page names its id among the `part-slugs`.",
+      statement: "A page is judged on how many pages name its id among the `part-slugs`.",
     },
     {
       invariantKind: "departure",
-      statement: "That predicate is the one `domain-is-named-by-a-parent` reads.",
+      statement: "Exactly one page naming a page is the parts of every page being a spanning tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page no page names is answered apart from a page more than one page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pages name a page more than one page names is answered beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page no page names is the fault `domain-is-named-by-a-parent` reads.",
     },
     {
       invariantKind: "departure",
@@ -43,6 +55,11 @@ export const partCensus = {
     {
       invariantKind: "absence",
       statement: "Nothing here says which page above an unnamed page ought to name that page.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Nothing here says which of the pages naming a page ought to go on naming that page.",
     },
   ],
 } as const satisfies Module
