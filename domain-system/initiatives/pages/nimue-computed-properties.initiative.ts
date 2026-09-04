@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A page type takes its properties from more than one type.",
       workingMemory:
-        "Expand is done. Every reader takes one parent or a list: descent, slugsIn, reaching, page-type-inheritance, declared-properties, index-entries, file-page-type-config, page-asking, the part check, and the three trees. property-carrying and pages-access/page-type needed none. Next is migrate: one mechanical batch flipping many to true on page-type.page-type.ts and reshaping all 442 declaration sites to lists, which lands whole or not at all. Then contract: narrow to a list alone and drop the string branches.",
+        "Expand and migrate are done, migrate as one commit of 443 files. Every reader takes one parent or a list, extends-slug is declared many with max null, and every page type states a list, the root an empty one. Next is contract: narrow to a list alone, drop the string branches in descent, slugsIn, page-type-inheritance and the two fixture writers, and add invariants that the last parent wins and that reordering changes what the type declares.",
     },
     {
       statement: "A property states the calculation that fills it.",
@@ -54,7 +54,7 @@ export const nimueComputedProperties = {
     "Where two parents declare one property, the last one named decides.",
     "A page type with two parents shows under each, so a tree shows that type twice.",
     "A property two parents declare is taken from the nearer, and from the last named where both are equally near.",
-    "`many: true` and the 441 values a page type states land in one batch or not at all.",
+    "A shape change is carried by a second property rather than by one batch, because a property declares `many` for every page at once.",
     "A calculation is a function exported from the computed property's own code file.",
     "One computed property type carries every calculation rather than one type for each shape.",
     "A calculation reaches only what its shape hands it.",
