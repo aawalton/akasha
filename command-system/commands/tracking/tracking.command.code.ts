@@ -3,7 +3,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { inputIn } from "../../piping/piping.module.code.ts"
 import {
   FILE_PATH,
-  pathInside,
+  pathAt,
   REMOVE,
   VALUED,
   valuesOf,
@@ -42,7 +42,7 @@ export function strayIn(root: string, argv: readonly string[]): readonly string[
   for (const flag of [FILE_PATH, REMOVE]) {
     for (const one of valuesOf(argv, flag, VALUED)) {
       if (one === null) continue
-      if (!trackedIn(pathInside(root, one))) said.push(outsideTracked(one))
+      if (!trackedIn(pathAt(root, one))) said.push(outsideTracked(one))
     }
   }
   return said
