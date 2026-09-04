@@ -1,0 +1,23 @@
+diff --git a/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts b/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts
+index 38a16323ca900278f66d34f3f1851581ab2d8782..b1303666dc17f1355536d655d05c14857f06ba96 100644
+--- a/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts
++++ b/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts
+@@ -5,5 +5,6 @@ export const idle = {
+   pageTypeSlug: "seat-turn-state",
+   slug: "idle",
+   definition: "an agent between turns",
++  partSlugs: ["seat-turn-state/idle-pending"],
+   colorSlug: "yellow",
+ } as const satisfies SeatTurnState
+diff --git a/seat-system/seat-turn-states/seat-turn-state.page-type.ts b/seat-system/seat-turn-states/seat-turn-state.page-type.ts
+index 2f191843cb70863f793707bb9cce90b3d076b69b..bb5a2c879200164712117049cfc190c1fdaff664 100644
+--- a/seat-system/seat-turn-states/seat-turn-state.page-type.ts
++++ b/seat-system/seat-turn-states/seat-turn-state.page-type.ts
+@@ -16,7 +16,6 @@ export const seatTurnState = {
+   partSlugs: [
+     "relation-property/turn-state-color-slug",
+     "seat-turn-state/idle",
+-    "seat-turn-state/idle-pending",
+     "seat-turn-state/stopped",
+     "seat-turn-state/working",
+   ],
