@@ -1,20 +1,11 @@
 import { resolve } from "node:path"
-import { ciRoleRules } from "@akasha/cluster-manifests/rbac-ci-role-rules"
 import { clusterRoleRules } from "@akasha/cluster-manifests/rbac-cluster-role-rules"
-import {
-  CI_ROLE_NAME,
-  LABELS,
-  SA_NAME,
-  SA_NAMESPACE,
-  SUBJECTS,
-} from "@akasha/cluster-manifests/rbac-identity"
+import { LABELS, SA_NAME, SA_NAMESPACE, SUBJECTS } from "@akasha/cluster-manifests/rbac-identity"
 import { tupleOf, tupleSet } from "@akasha/cluster-manifests/rbac-permissions"
 import { profileSources } from "@akasha/cluster-manifests/rbac-profiles"
 import {
   clusterRoleBinding,
   clusterRoleWithRules,
-  namespacedRole,
-  namespacedRoleBinding,
   serviceAccount,
 } from "@akasha/cluster-manifests/rbac-yaml"
 import type { Answer, Given } from "@akasha/command-system/calling"
@@ -73,8 +64,6 @@ export function documentIn(): string {
     serviceAccount(SA_NAME, SA_NAMESPACE, LABELS),
     clusterRoleWithRules(CLUSTER_ROLE_NAME, LABELS, clusterRoleRules),
     clusterRoleBinding(CLUSTER_ROLE_NAME, LABELS, SUBJECTS),
-    namespacedRole(CI_ROLE_NAME, SA_NAMESPACE, LABELS, ciRoleRules),
-    namespacedRoleBinding(CI_ROLE_NAME, SA_NAMESPACE, LABELS, CI_ROLE_NAME, SUBJECTS),
   ]
   return HEADER + sections.join("\n---\n") + "\n"
 }

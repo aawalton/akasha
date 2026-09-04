@@ -12,5 +12,3 @@ export const SA_NAMESPACE = "ci"
 export const SUBJECTS = `  - kind: ServiceAccount
     name: ${SA_NAME}
     namespace: ${SA_NAMESPACE}`
-
-export const CI_ROLE_NAME = "pipeline-engine"
