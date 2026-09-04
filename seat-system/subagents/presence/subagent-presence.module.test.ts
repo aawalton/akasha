@@ -145,11 +145,11 @@ test("a page that is no seat names no seat", () => {
   }
 })
 
-test("a page is landed by a program, its commit saying no check ran", () => {
+test("a page is landed by a program, its commit saying no check ran", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    expect(wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
     const at = join(root, pathOf(slugOf("akasha", OWN)))
     expect(readFileSync(at, "utf8")).toContain('dispatchedAs: "Explore"')
     expect(messageIn(root)).toContain(MECHANICAL)
@@ -158,11 +158,11 @@ test("a page is landed by a program, its commit saying no check ran", () => {
   }
 })
 
-test("a page that landed states the agent id the subagent acts under", () => {
+test("a page that landed states the agent id the subagent acts under", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    expect(wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
     const at = join(root, pathOf(slugOf("akasha", OWN)))
     expect(readFileSync(at, "utf8")).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
   } finally {
@@ -170,36 +170,36 @@ test("a page that landed states the agent id the subagent acts under", () => {
   }
 })
 
-test("a page already there is left as it is", () => {
+test("a page already there is left as it is", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    expect(wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
     const held = gitIn(root, ["rev-parse", "HEAD"])
-    expect(wrote(root, "akasha", SEAT_ID, OWN, "Task")).toBe(true)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toBe(true)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
   } finally {
     world.sweep()
   }
 })
 
-test("a seat stating no assignment writes nothing", () => {
+test("a seat stating no assignment writes nothing", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    expect(wrote(root, "thea", SEAT_ID, OWN, "Explore")).toBe(false)
+    expect(await wrote(root, "thea", SEAT_ID, OWN, "Explore")).toBe(false)
     expect(existsSync(join(root, pathOf(slugOf("thea", OWN))))).toBe(false)
   } finally {
     world.sweep()
   }
 })
 
-test("a page taken away goes, and the commit says a program took it", () => {
+test("a page taken away goes, and the commit says a program took it", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    wrote(root, "akasha", SEAT_ID, OWN, "Explore")
-    expect(took(root, "akasha", OWN)).toBe(true)
+    await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
+    expect(await took(root, "akasha", OWN)).toBe(true)
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
     expect(messageIn(root)).toContain(MECHANICAL)
   } finally {
@@ -207,28 +207,28 @@ test("a page taken away goes, and the commit says a program took it", () => {
   }
 })
 
-test("a page taken away is forgotten by whoever read it", () => {
+test("a page taken away is forgotten by whoever read it", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    wrote(root, "akasha", SEAT_ID, OWN, "Explore")
+    await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
     const at = pathOf(slugOf("akasha", OWN))
     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
     recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
     expect(readingIn(root, AGENT, at)).not.toBe(null)
-    expect(took(root, "akasha", OWN)).toBe(true)
+    expect(await took(root, "akasha", OWN)).toBe(true)
     expect(readingIn(root, AGENT, at)).toBe(null)
   } finally {
     world.sweep()
   }
 })
 
-test("a page that is not there is taken away by doing nothing", () => {
+test("a page that is not there is taken away by doing nothing", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
     const held = gitIn(root, ["rev-parse", "HEAD"])
-    expect(took(root, "akasha", OWN)).toBe(true)
+    expect(await took(root, "akasha", OWN)).toBe(true)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
   } finally {
     world.sweep()
