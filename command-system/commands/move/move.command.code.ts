@@ -3,7 +3,7 @@ import { basename, dirname, join, resolve } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
 import { everyPath } from "@akasha/indexes"
 import { besideOf } from "@akasha/pages-system/page-beside"
-import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
+import { uncommittedHeld } from "@akasha/pages-system/page-file-name"
 import { valuesOver } from "@akasha/pages-system/page-value"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
@@ -141,7 +141,7 @@ function sidedIn(
         from: held,
         to: there,
         named: false,
-        committed: !uncommittedNamed(held),
+        committed: !uncommittedHeld(held),
         renaming,
       })
     }
