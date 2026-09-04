@@ -9,60 +9,83 @@ export const pendingMaintaining = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every turn end writes all five pending components from its own reads, so a seat that has just finished a turn is already right.",
+      statement: "A turn end writes every pending component from the reads that turn end takes.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is kept true here is the stretch after a turn end, where the seat itself is not running to notice a change.",
+      statement: "What is kept true here is the stretch after a turn end.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Three of the five components are maintained here, because the other two change only inside a turn and both clear by starting the seat.",
+      statement: "A seat in that stretch is not running to notice a change of its own.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "One roster pass answers the live-child component for every seat at once and one scan of the message store answers the send-in-flight component for every seat at once.",
+      statement: "Three of the four components are maintained here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A pass over the whole fleet is cheap enough to take on every change, which is what lets a tab recolour promptly.",
+      statement: "The compacting component changes inside a turn and clears by starting the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run over the whole fleet is cheap enough to take on every change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file changing is the only thing that moves this.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The store watched is the store the run it triggers reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn starts in a transcript rather than in a store this writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder holding every seat's transcript is watched alongside those stores.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript folder is followed no deeper than the transcripts themselves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is written is one component.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading is taken from every component when somebody asks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking the run twice changes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run stopped part way leaves every seat it reached correct.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run stopped part way leaves every seat it did not reach as that seat was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Loading this code declares its value and takes no run.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here is read on a tick.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "Every component left is backed by a file, so a file changing is the only thing that moves this.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The store watched is the store the pass it triggers reads.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here decides whether a seat is pending.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "What is written is one component, and the reading is taken from all five when somebody asks.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Taking a pass twice changes nothing, and a pass stopped part-way leaves every seat it reached correct and every seat it did not reach as it was.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Loading this code declares its value and takes no pass, because a page's file declares its value and does nothing else.",
+      invariantKind: "gap",
+      statement: "A transcript folder appearing after this starts is followed by nothing here.",
     },
   ],
 } as const satisfies Module

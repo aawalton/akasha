@@ -1,7 +1,9 @@
 import { watch } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { messagesDirRelPath } from "../../messaging/message-file/message-file.module.code.ts"
+import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaObservedOf } from "../../seat-akasha-read/seat-akasha-read.module.code.ts"
 import { akashaSeatsDirIn } from "../../seat-page-akasha/seat-page-akasha.module.code.ts"
 import { setPending } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
 import {
@@ -11,33 +13,59 @@ import {
 
 const SETTLE_MS = 250
 
-function stamp(found: readonly SeatPending[]): void {
-  for (const one of found) setPending(one.seat, one.values)
+const TRANSCRIPT_KEY = "transcript-path"
+
+function stamp(found: readonly SeatPending[]): number {
+  let written = 0
+  for (const one of found) {
+    if (setPending(one.seat, one.values)) written += 1
+  }
+  return written
 }
 
-// THE STORE WATCHED IS THE STORE READ. This watched the old seat directory while the pass it
-// triggers reads akasha, so a seat's values could change without anything here noticing: the watch
-// fired only when a store nothing writes was touched, which is never.
 function storesWatched(): readonly string[] {
   return [akashaSeatsDirIn(akashaRoot()), join(akashaRoot(), messagesDirRelPath())]
 }
 
-function fromFiles(): void {
+function transcriptsWatched(): readonly string[] {
+  const found = new Set<string>()
+  for (const [id] of akashaSeatsThatExist()) {
+    const path = akashaObservedOf(id)?.[TRANSCRIPT_KEY]
+    if (typeof path === "string" && path !== "") found.add(dirname(path))
+  }
+  return [...found]
+}
+
+function fromFiles(): number {
   try {
-    stamp(pendingFromFiles())
+    return stamp(pendingFromFiles())
   } catch (err) {
-    process.stderr.write(`maintain-seat-pending: the file pass failed — ${String(err)}\n`)
+    process.stderr.write(`maintain-seat-pending: the file run failed — ${String(err)}\n`)
+    return 0
   }
 }
 
 let settling: ReturnType<typeof setTimeout> | null = null
 
-function nudge(): void {
+function nudge(): boolean {
   if (settling !== null) clearTimeout(settling)
   settling = setTimeout(() => {
     settling = null
     fromFiles()
   }, SETTLE_MS)
+  return true
+}
+
+function follow(dir: string, deep: boolean): boolean {
+  try {
+    watch(dir, { recursive: deep }, () => {
+      nudge()
+    })
+    return true
+  } catch {
+    process.stderr.write(`maintain-seat-pending: nothing is at ${dir}, so it is not followed\n`)
+    return false
+  }
 }
 
 function main(argv: readonly string[]): number {
@@ -45,16 +73,10 @@ function main(argv: readonly string[]): number {
   if (argv.includes("--once")) return 0
   let standing = 0
   for (const dir of storesWatched()) {
-    try {
-      watch(dir, { recursive: true }, () => {
-        nudge()
-      })
-      standing += 1
-    } catch {
-      process.stderr.write(
-        `maintain-seat-pending: nothing stands at ${dir}, so it is not followed\n`
-      )
-    }
+    if (follow(dir, true)) standing += 1
+  }
+  for (const dir of transcriptsWatched()) {
+    if (follow(dir, false)) standing += 1
   }
   if (standing === 0) {
     process.stderr.write(
