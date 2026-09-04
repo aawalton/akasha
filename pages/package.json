@@ -68,7 +68,7 @@
     "./page-type-descent": "./page-types/descent/page-type-descent.module.code.ts",
     "./page-type-properties": "./page-types/declared-properties/declared-properties.module.code.ts",
     "./page-uncommitted": "./uncommitted/page-uncommitted.module.code.ts",
-    "./page-value-key": "./page-value-key/page-value-key.module.code.ts",
+    "./page-value-key": "./value-key/page-value-key.module.code.ts",
     "./page-value": "./value/page-value.module.code.ts",
     "./page/id": "./properties/id.text-property.ts",
     "./page/slug": "./properties/slug.text-property.ts",
