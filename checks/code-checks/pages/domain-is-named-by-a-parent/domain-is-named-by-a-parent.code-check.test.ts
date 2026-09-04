@@ -80,6 +80,59 @@ test("a page no page names is refused, and the refusal names the address", () =>
   expect(said[0]?.reason).toContain("`domain/held`")
 })
 
+test("two pages naming one page refuse it for being shared rather than for having no parent", () => {
+  const root = rooted()
+  filing(root, "domain", "held", ONE)
+  edging(root, ONE, "part-slugs", TWO, UP_AT)
+  edging(root, ONE, "part-slugs", UP, pathFor("domain", "over"))
+  const said = judged(landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("2 pages name `domain/held`")
+  expect(said[0]?.reason).not.toContain("no page names")
+})
+
+test("pages naming each other in a ring are refused for looping, though each has one parent", () => {
+  const root = rooted()
+  filing(root, "domain", "under", ONE)
+  filing(root, "domain", "over", TWO)
+  edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
+  const at = pathFor("domain", "under")
+  const said = judged(landing(root, { [at]: body("domain", "under", ONE, ["domain/over"]) }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(at)
+  expect(said[0]?.reason).toContain("loop rather than reaching `domain/akasha`")
+})
+
+test("a sound tree three deep is refused by neither the shared reason nor the loop one", () => {
+  const root = rooted()
+  filing(root, "domain", "akasha", UP)
+  filing(root, "domain", "over", TWO)
+  filing(root, "domain", "under", ONE)
+  edging(root, TWO, "part-slugs", UP, pathFor("domain", "akasha"))
+  const said = judged(
+    landing(root, {
+      [pathFor("domain", "under")]: body("domain", "under", ONE),
+      [pathFor("domain", "over")]: body("domain", "over", TWO, ["domain/under"]),
+    })
+  )
+  expect(said).toEqual([])
+})
+
+test("a page adrift under a parent no page names is refused once, for the parent alone", () => {
+  const root = rooted()
+  filing(root, "domain", "under", ONE)
+  filing(root, "domain", "over", TWO)
+  const said = judged(
+    landing(root, {
+      [pathFor("domain", "under")]: body("domain", "under", ONE),
+      [pathFor("domain", "over")]: body("domain", "over", TWO, ["domain/under"]),
+    })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("domain", "over"))
+  expect(said[0]?.reason).toContain("no page names `domain/over`")
+})
+
 test("a page and the parent naming it landing together is let through", () => {
   const root = rooted()
   filing(root, "domain", "under", ONE)
