@@ -7,4 +7,8 @@ export const wakeDay20260904 = {
   title: "@date:2026-09-04",
   date: "2026-09-04",
   version: "3.0",
+  inboxTasks: 25,
+  inboxTasksClearedToday: false,
+  inboxTemperTasks: 22,
+  inboxTemperTasksClearedToday: false,
 } as const satisfies WakeDay
