@@ -6,6 +6,5 @@ export const connectionList = {
   slug: "connection-list",
   title: "List",
   navSlug: "connection",
-  drawsSlug: "relationship",
   viewPlace: 0,
 } as const satisfies View

@@ -6,7 +6,6 @@ export const temperTasksToday = {
   slug: "temper-tasks-today",
   title: "Today",
   navSlug: "temper-tasks",
-  drawsSlug: "temper-task",
   viewPlace: 0,
   narrows: [
     { key: "completed-at", comparison: "empty", values: ["true"] },

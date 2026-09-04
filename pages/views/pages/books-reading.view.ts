@@ -6,7 +6,6 @@ export const booksReading = {
   slug: "books-reading",
   title: "Reading",
   navSlug: "books",
-  drawsSlug: "ki-book",
   viewPlace: 0,
   layout: "cards",
   narrows: [{ key: "status", comparison: "in", values: ["In Progress", "Following"] }],

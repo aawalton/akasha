@@ -6,7 +6,6 @@ export const seriesAll = {
   slug: "series-all",
   title: "All",
   navSlug: "series",
-  drawsSlug: "ki-book-series",
   viewPlace: 0,
   layout: "cards",
   viewSorts: [{ key: "title", descending: false }],

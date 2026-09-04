@@ -6,7 +6,6 @@ export const idleLineupTeam = {
   slug: "idle-lineup-team",
   title: "Team",
   navSlug: "idle-lineup",
-  drawsSlug: "idle-persona-card",
   viewPlace: 0,
   layout: "gallery",
   narrows: [{ key: "seat-index", comparison: "empty", values: ["false"] }],

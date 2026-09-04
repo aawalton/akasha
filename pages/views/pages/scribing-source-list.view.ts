@@ -6,7 +6,6 @@ export const scribingSourceList = {
   slug: "scribing-source-list",
   title: "List",
   navSlug: "scribing-source",
-  drawsSlug: "temper-scribing-source",
   viewPlace: 0,
   visibleProperties: ["page-type-id", "script-type"],
   hiddenPropertiesOrder: ["display-order", "tier-achievements", "seq"],

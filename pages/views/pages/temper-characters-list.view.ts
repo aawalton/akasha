@@ -6,7 +6,6 @@ export const temperCharactersList = {
   slug: "temper-characters-list",
   title: "List",
   navSlug: "temper-characters",
-  drawsSlug: "temper-account-character",
   viewPlace: 0,
   viewSorts: [{ key: "sort-order", descending: false }],
   pageSize: 12,

@@ -6,7 +6,6 @@ export const computersList = {
   slug: "computers-list",
   title: "List",
   navSlug: "computers",
-  drawsSlug: "computer",
   viewPlace: 0,
   layout: "table",
   viewSorts: [{ key: "title", descending: false }],

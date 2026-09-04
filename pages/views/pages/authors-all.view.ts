@@ -6,7 +6,6 @@ export const authorsAll = {
   slug: "authors-all",
   title: "All",
   navSlug: "authors",
-  drawsSlug: "ki-author",
   viewPlace: 0,
   layout: "cards",
   viewSorts: [

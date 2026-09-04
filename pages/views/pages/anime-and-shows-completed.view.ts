@@ -6,7 +6,6 @@ export const animeAndShowsCompleted = {
   slug: "anime-and-shows-completed",
   title: "Completed",
   navSlug: "anime-and-shows",
-  drawsSlug: "ki-show",
   viewPlace: 2,
   layout: "cards",
   narrows: [{ key: "status", comparison: "is", values: ["Completed"] }],

@@ -6,7 +6,6 @@ export const temperDungeonsList = {
   slug: "temper-dungeons-list",
   title: "List",
   navSlug: "temper-dungeons",
-  drawsSlug: "temper-dungeon",
   viewPlace: 0,
   viewSorts: [{ key: "title", descending: false }],
   pageSize: 12,

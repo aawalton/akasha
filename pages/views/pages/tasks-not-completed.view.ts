@@ -6,7 +6,6 @@ export const tasksNotCompleted = {
   slug: "tasks-not-completed",
   title: "Not Completed",
   navSlug: "tasks",
-  drawsSlug: "to-do",
   viewPlace: 2,
   layout: "cards",
   narrows: [{ key: "completed-at", comparison: "empty", values: ["true"] }],

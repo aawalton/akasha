@@ -6,7 +6,6 @@ export const tasksToday = {
   slug: "tasks-today",
   title: "Today",
   navSlug: "tasks",
-  drawsSlug: "to-do",
   viewPlace: 0,
   layout: "cards",
   narrows: [{ key: "due-date", comparison: "before", values: ["eso-day-next"] }],

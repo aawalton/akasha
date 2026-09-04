@@ -6,7 +6,6 @@ export const storiesGreatBooks = {
   slug: "stories-great-books",
   title: "Great Books",
   navSlug: "stories",
-  drawsSlug: "book-chapter",
   viewPlace: 3,
   layout: "list",
   narrows: [{ key: "partOf", comparison: "is", values: ["plato-apology-crito"] }],

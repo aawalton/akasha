@@ -6,7 +6,6 @@ export const alanwaltonIdentityValues = {
   slug: "alanwalton-identity-values",
   title: "Values",
   navSlug: "alanwalton-identity",
-  drawsSlug: "value",
   viewPlace: 0,
   layout: "cards",
   visibleProperties: ["color"],

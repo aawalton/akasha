@@ -6,7 +6,6 @@ export const claudeAccountsClaudeAccounts = {
   slug: "claude-accounts-claude-accounts",
   title: "Claude Accounts",
   navSlug: "claude-accounts",
-  drawsSlug: "claude-account",
   viewPlace: 0,
   viewSorts: [{ key: "seven-day-started-at", descending: false }],
   visibleProperties: [
