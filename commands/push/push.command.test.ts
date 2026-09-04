@@ -2,8 +2,8 @@ import { afterAll, test as check, expect } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "@akasha/utils-run/running"
-import type { Given } from "../../calling/calling.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import type { Given } from "../../command-system/calling/calling.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { push } from "./push.command.code.ts"
 
 const scratch = scratchWorld()

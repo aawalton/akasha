@@ -1,6 +1,6 @@
 import { git } from "@akasha/git/git-capping"
 import { pushBranch, remoteOf } from "@akasha/git/git-pushing"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 
 const DRY_RUN = "--dry-run"
 
