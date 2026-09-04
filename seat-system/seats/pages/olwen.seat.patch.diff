@@ -12,3 +12,16 @@ index bb9f4e614d19675bdba6eb5c5ce66874c32a2714..75e43c219ec1b84dab7e27eeb6b274e0
      },
      {
        invariantKind: "departure",
+diff --git a/pages/indexes/indexes.workspace-package.ts b/pages/indexes/indexes.workspace-package.ts
+index aec47e8b3f6edd049265339994d631de16f476dd..fd96b12ab4d58840c7f9c9818d184a86ad6abdc7 100644
+--- a/pages/indexes/indexes.workspace-package.ts
++++ b/pages/indexes/indexes.workspace-package.ts
+@@ -116,7 +116,7 @@ export const indexes = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Only what imports a file is refused when the index does not describe HEAD.",
++      statement: "Only what imports a file is refused, and only for a path that makes an edge.",
+     },
+     {
+       invariantKind: "gap",
