@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { changedSince } from "@akasha/indexes/stamp"
 import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
 
-export const INSIDE = "akasha"
+const HERE = "."
 
 export function movedOnDisk(root: string, asRead: readonly Reading[]): readonly string[] {
   const moved: string[] = []
@@ -19,6 +19,6 @@ export function movedOnDisk(root: string, asRead: readonly Reading[]): readonly 
 
 export function reachedSince(root: string, base: string, now: string): readonly string[] | null {
   if (now === base) return []
-  const found = changedSince(root, base, now, INSIDE)
+  const found = changedSince(root, base, now, HERE)
   return found === null ? null : [...found].sort()
 }
