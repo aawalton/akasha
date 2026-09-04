@@ -73,6 +73,24 @@ test("an expletive is passed over", () => {
   expect(lonePronoun(said)).toEqual([])
 })
 
+test("a demonstrative is left to the lone determiner shape", () => {
+  const said = sentenceOf([
+    ["This", "PRON", 3, "nsubj"],
+    ["is", "AUX", 3, "cop"],
+    ["refused", "ADJ", 0, "root"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})
+
+test("a quantifier is left to the lone quantifier shape", () => {
+  const said = sentenceOf([
+    ["Many", "PRON", 3, "nsubj"],
+    ["are", "AUX", 3, "cop"],
+    ["refused", "ADJ", 0, "root"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})
+
 test("a sentence naming the thing holds no match", () => {
   const said = sentenceOf([
     ["A", "DET", 2, "det"],
