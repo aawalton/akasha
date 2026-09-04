@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:
-        "Met so far: temper-task narrowed on `account`; `userId` set on four temper page types; `sortOrder` where temper states `display-order`; `itemName` where temper-sale states `name`. Open: settings-equipment reads `targetBuildId` off temper-companion-progress, and export-tasks reads `pgId` and `dueTime` off temper-task. A query naming an undeclared key throws, and a property access on one reads undefined, so half of this class is silent.",
+        "Met: temper-task narrowed on `account`; `userId` set on four temper page types; `sortOrder` where temper states `display-order`; `itemName` where temper-sale states `name`. Open: settings-equipment reads `targetBuildId` off temper-companion-progress, export-tasks reads `pgId` and `dueTime` off temper-task, settings-consumables orders by `dataTimestamp`. None of the four is declared. A query naming one throws, a property access on one reads undefined, so half the class is silent.",
     },
     {
       statement: "A task the web holds reaches the characters config the game reads.",
@@ -25,12 +25,12 @@ export const emberRepairTemperTasks = {
     {
       statement: "Reading one page costs bytes in proportion to that page.",
       workingMemory:
-        "Asking the whole population of temper-inventory-snapshot answers 429,204,036 bytes for 162 rows, because every row carries its stacks. In process the parse fails, page-calling swallows the failure, and the caller reads `null is not an object`. Delegated.",
+        "The narrow is pushed and honoured, and saves 656 bytes of 429,204,036, because 161 of the 162 snapshots are one account's. A projection saves the rest: the same ask carrying keys answers 22,528 bytes. The whole-population fetch is deliberate, since a cursor pages over one sorted snapshot, so leave that alone. The body parses at 2,388 MB resident and is killed outright under a 900M cap, so the field failure was allocation rather than syntax.",
     },
     {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
-        "Two instances so far: the ENAMETOOLONG refusal names no path, and page-calling turns a body it cannot parse into a successful answer of null.",
+        "page-calling now answers a body it cannot read as a refusal naming the status, the byte count and the parser's own message, and it no longer retries such a body. The ENAMETOOLONG refusal still names no path.",
     },
     {
       statement: "The watcher proves who it is by its enrolment token alone.",
