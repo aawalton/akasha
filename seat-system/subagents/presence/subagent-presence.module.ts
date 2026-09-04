@@ -64,5 +64,29 @@ export const subagentPresence = {
       invariantKind: "departure",
       statement: "A page that is not there is taken away by doing nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A patch a subagent drafted into goes to the seat that dispatched that subagent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch is taken in before the page beside that patch goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep finds a patch by the patch file rather than by the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch whose page went before this sweep is taken in like any other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat with no page of its own takes in nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take-in that throws leaves that patch alone and reaps the page still.",
+    },
   ],
 } as const satisfies Module

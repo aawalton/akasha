@@ -115,6 +115,34 @@ export const drafting = {
       statement: "A path the patch holds is answered whether or not the draft names that path.",
     },
     {
+      invariantKind: "departure",
+      statement: "One agent's patch is folded into another's by the merge a draft is folded by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch coming in is rebased onto the commit at HEAD before it is folded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path both patches hold is merged rather than written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch taken in goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ref keeping the blobs of a patch taken in goes with that patch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The patch taking a blob in keeps that blob before the ref goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take-in from an agent keeping no patch leaves the patch as it was.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes into the worktree.",
     },
