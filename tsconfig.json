@@ -13,9 +13,6 @@
       "path": "./akasha/audhdalan/audhdalan-web"
     },
     {
-      "path": "./readouts"
-    },
-    {
       "path": "./tools"
     }
   ],

@@ -3061,18 +3061,6 @@
         "zod": "^4.3.6",
       },
     },
-    "readouts": {
-      "name": "readouts",
-      "dependencies": {
-        "@akasha/day": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
-        "@akasha/readout-system": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-      },
-    },
     "tools/lib": {
       "name": "@tools/lib",
       "version": "0.1.0",
@@ -5008,8 +4996,6 @@
     "readable-stream": ["readable-stream@3.6.2", "", { "dependencies": { "inherits": "^2.0.3", "string_decoder": "^1.1.1", "util-deprecate": "^1.0.1" } }, "sha512-9u/sniCrY3D5WdsERHzHE4G2YCXqoG5FTHUiCC4SIbr6XcLZBY05ya9EKjYek9O5xOAwjGq+1JdGBAS7Q9ScoA=="],
 
     "readdirp": ["readdirp@4.1.2", "", {}, "sha512-GDhwkLfywWL2s6vEjyhri+eXmfH6j1L7JE27WhqLeYzoh/A3DBaYGEj2H/HFZCn/kMfim73FXxEJTw06WtxQwg=="],
-
-    "readouts": ["readouts@workspace:readouts"],
 
     "remark-gfm": ["remark-gfm@4.0.1", "", { "dependencies": { "@types/mdast": "^4.0.0", "mdast-util-gfm": "^3.0.0", "micromark-extension-gfm": "^3.0.0", "remark-parse": "^11.0.0", "remark-stringify": "^11.0.0", "unified": "^11.0.0" } }, "sha512-1quofZ2RQ9EWdeN34S79+KExV1764+wCUGop5CPL1WGdD0ocPpu91lzPGbwWMECpEpd42kJGQwzRfyov9j4yNg=="],
 
