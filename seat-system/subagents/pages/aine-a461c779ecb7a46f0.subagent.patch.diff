@@ -303,10 +303,10 @@ index 90a13597c96ab79561cffbb4e8f545d32801a43c..0797185c09b37666976cddb9866fa9af
    const absent = await hashFileSet(["/nowhere/one"])
    const other = await hashFileSet(["/nowhere/two"])
 diff --git a/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts b/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
-index f6a45d6bbbc79dc47a1ff4262ded68b308b0732d..a218ca5f0bc16ba1fe8b5cb9a6587c10f18c4085 100644
+index f6a45d6bbbc79dc47a1ff4262ded68b308b0732d..114797b99ed172b5691b8a930144d1589c7379a3 100644
 --- a/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
 +++ b/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
-@@ -6,10 +6,25 @@ export const supervisorFileVersion = {
+@@ -6,10 +6,33 @@ export const supervisorFileVersion = {
    slug: "supervisor-file-version",
    definition: "the hash of every file a running supervisor was built from",
    code: "ts",
@@ -320,7 +320,11 @@ index f6a45d6bbbc79dc47a1ff4262ded68b308b0732d..a218ca5f0bc16ba1fe8b5cb9a6587c10
 +    {
 +      invariantKind: "departure",
 +      statement:
++<<<<<<< what this change would leave
 +        "A specifier naming a package is walked to the file that package's manifest exports it as.",
++=======
++        "A specifier naming a package is walked to the file the package's manifest exports.",
++>>>>>>> what HEAD holds
 +    },
 +    {
 +      invariantKind: "departure",
@@ -329,7 +333,30 @@ index f6a45d6bbbc79dc47a1ff4262ded68b308b0732d..a218ca5f0bc16ba1fe8b5cb9a6587c10
 +    },
 +    {
 +      invariantKind: "departure",
++<<<<<<< what this change would leave
 +      statement: "A specifier nothing here can place is passed over rather than thrown on.",
++=======
++      statement: "A specifier landing on no file is passed over rather than thrown on.",
++>>>>>>> what HEAD holds
      },
      {
        invariantKind: "departure",
+@@ -17,11 +40,16 @@ export const supervisorFileVersion = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A version is delivered once it has held still, or once it is overdue.",
++      statement: "A version is delivered once the version has held still.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A version that keeps changing is delivered once the change is overdue.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The agent settings the supervisor reads are part of the version it reports.",
++      statement:
++        "The agent settings the supervisor reads are part of the version the supervisor reports.",
+     },
+   ],
+ } as const satisfies Module
