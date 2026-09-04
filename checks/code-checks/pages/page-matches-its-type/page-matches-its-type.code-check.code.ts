@@ -16,8 +16,6 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const INSIDE = "akasha/"
-
 const PAGE_TYPE = "page-type"
 
 const FORMAT = "nameFormatSlug"
@@ -290,7 +288,6 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const formatting = matchingIn(change.root, shadow.index, shadow.codeAt)
   const judged: Judged[] = []
   for (const path of change.changed) {
-    if (!path.startsWith(INSIDE)) continue
     if (!pageNamed(path, pageTypes)) continue
     const bytes = change.after(path)
     if (bytes === null) continue
