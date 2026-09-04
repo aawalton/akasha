@@ -1,3 +1,5 @@
+import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
+import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
 import {
   type TurnRecord,
   turnEndReadingOf,
@@ -26,6 +28,7 @@ export const SEAT_TURN_STATES = ["working", "idle-pending", "idle", "stopped"] a
 export type SeatTurnState = (typeof SEAT_TURN_STATES)[number]
 
 export interface SeatTurnRecords {
+  readonly presence: SeatPresence
   readonly stamped: TurnRecord | null
   readonly source: TurnRecord | null
   readonly pending: TurnPending
@@ -43,6 +46,8 @@ const NOTHING_ARRANGED = "none"
 const UNSTAMPED: SeatTurnStamp = "idle"
 
 const NO_TURN_TAKEN: SeatTurnState = "stopped"
+
+const GONE: SeatPresence = "absent"
 
 function idleIn(): SeatTurnReading {
   return { state: "idle", waitingOn: null }
@@ -66,6 +71,7 @@ export function tookATurn(kept: SeatTurnRecords): boolean {
 
 export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
   if (!tookATurn(kept)) return { state: NO_TURN_TAKEN, waitingOn: null }
+  if (kept.presence === GONE) return { state: "stopped", waitingOn: null }
   if (stampIn(kept.stamped) === "stopped") return { state: "stopped", waitingOn: null }
   if (anyWorking(kept.working)) return { state: "working", waitingOn: null }
   if (anyPendingRead(kept.pending)) {
@@ -82,6 +88,7 @@ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
 
 export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
   return {
+    presence: agentPresence(agent),
     stamped: turnStateOf(agent),
     source: turnPendingSourceOf(agent),
     pending: pendingOf(agent),
