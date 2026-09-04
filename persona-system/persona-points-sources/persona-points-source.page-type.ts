@@ -38,7 +38,7 @@ export const personaPointsSource = {
     "text-property/points-source-readings",
   ],
   properties: [
-    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "source-persona-slug", required: true, many: false },
     { pagePropertySlug: "points-source-kind", required: true, many: false },
     { pagePropertySlug: "points-source-marker", required: false, many: false },
     { pagePropertySlug: "points-source-aggregate", required: false, many: false },
