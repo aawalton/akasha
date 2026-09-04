@@ -5,14 +5,14 @@ import { blobIdOf, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { idTakenFrom, pathFiled } from "@akasha/indexes/testing"
+import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import {
   domainListed,
   type Listed,
   namesPart,
   pathsOf,
-} from "../../warrant-scratch/warrant-scratch.module.code.ts"
-import { unreadIn } from "../../warranting/warranting.module.code.ts"
-import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
+  warrantsSeeded,
+} from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileDomain, WHOLE } from "./file-domain.context-warrant.code.ts"
 
 const scratch = scratchWorld()

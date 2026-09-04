@@ -7,9 +7,8 @@ import { writing as wrote } from "@akasha/command-system/scratching/testing"
 import { importIn } from "@akasha/indexes/import"
 import { entriesFiled, importsTakenFrom, pathFiled, schemaFiled } from "@akasha/indexes/testing"
 import { mintedId } from "@akasha/testing-system/minting"
-import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
-import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
+import { pathsOf, warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileImport, IMPORTED, importedIn } from "./file-import.context-warrant.code.ts"
 
 const scratch = scratchWorld()

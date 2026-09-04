@@ -6,8 +6,8 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { mintedId } from "@akasha/testing-system/minting"
-import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { blobAt, knowingIn, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { pathsOf } from "../../warranting/warranting.module.test-fixtures.ts"
 import { filePropertyFile, PAGE, PROPERTY } from "./file-property-file.context-warrant.code.ts"
 
 const scratch = scratchWorld()
