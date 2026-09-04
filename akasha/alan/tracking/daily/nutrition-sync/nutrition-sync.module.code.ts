@@ -1,11 +1,9 @@
-export const summary =
-  "Recompute a day's taskPoints from completed health tasks (difficulty-tier points)"
+export const summary = "Recompute a day's nutritionPoints from logged food rows (1pt/gram)"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { inputError } from "../../lib/exit.ts"
-import { taskPoints } from "../../lib/tracking-pillars.ts"
+import { inputError } from "@tools/lib/exit"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
 
@@ -20,13 +18,13 @@ export const help: CommandHelp = {
     { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
   ],
   exits: [
-    { code: 0, meaning: "taskPoints recomputed and written" },
+    { code: 0, meaning: "nutritionPoints recomputed and written" },
     { code: 1, meaning: "bad --date" },
   ],
-  examples: ["ops tracking task-sync", "ops tracking task-sync --date 2026-06-18"],
+  examples: ["ops tracking nutrition-sync", "ops tracking nutrition-sync --date 2026-06-18"],
 }
 
-export default async function trackingTaskSync(args: readonly string[]): Promise<void> {
+export default async function trackingNutritionSync(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const json = parsed.boolean("--json")
 
@@ -36,14 +34,16 @@ export default async function trackingTaskSync(args: readonly string[]): Promise
   }
   const dayStr = dateRaw ?? getEsoDayStr(new Date())
 
-  const { rollupHealthTaskPointsForDay } = await taskPoints()
+  const { rollupNutritionForDay } = await import(
+    "../nutrition-points/nutrition-points.module.code.ts"
+  )
 
-  console.error(`Recomputing taskPoints for ${dayStr} from completed health tasks…`)
-  const { taskPoints: points, outcome } = await rollupHealthTaskPointsForDay(dayStr)
+  console.error(`Recomputing nutritionPoints for ${dayStr} from food rows…`)
+  const { nutritionPoints: points, outcome } = await rollupNutritionForDay(dayStr)
 
   if (json) {
-    process.stdout.write(`${JSON.stringify({ day: dayStr, taskPoints: points, outcome })}\n`)
+    process.stdout.write(`${JSON.stringify({ day: dayStr, nutritionPoints: points, outcome })}\n`)
     return
   }
-  process.stdout.write(`day\t${dayStr}\ntaskPoints\t${points}\noutcome\t${outcome}\n`)
+  process.stdout.write(`day\t${dayStr}\nnutritionPoints\t${points}\noutcome\t${outcome}\n`)
 }

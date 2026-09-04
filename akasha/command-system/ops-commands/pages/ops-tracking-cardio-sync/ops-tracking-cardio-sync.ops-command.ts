@@ -7,7 +7,7 @@ export const opsTrackingCardioSync = {
   definition:
     "rewriting one day's active calories from the health samples standing against its waking hours.",
   opsPath: "tracking cardio-sync",
-  opsEntryFile: "tools/commands/tracking/cardio-sync.ts",
+  opsEntryFile: "akasha/alan/tracking/daily/cardio-sync/cardio-sync.module.code.ts",
   opsHelp: "txt",
   invariants: [
     {

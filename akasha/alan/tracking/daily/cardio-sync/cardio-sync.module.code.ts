@@ -3,8 +3,8 @@ export const summary = "Recompute a day's activeCalories from the health samples
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { rollupActiveCaloriesForDay } from "../../../akasha/alan/tracking/daily/day-active-calories/day-active-calories.module.code.ts"
-import { inputError } from "../../lib/exit.ts"
+import { inputError } from "@tools/lib/exit"
+import { rollupActiveCaloriesForDay } from "../day-active-calories/day-active-calories.module.code.ts"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
 

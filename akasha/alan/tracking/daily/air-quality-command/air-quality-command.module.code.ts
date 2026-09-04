@@ -3,13 +3,13 @@ export const summary =
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
+import { inputError } from "@tools/lib/exit"
 import {
   assessOutdoor,
   LOCATION_PRESETS,
   type ResolvedLocation,
-} from "../../../akasha/alan/tracking/daily/air-quality/air-quality.module.code.ts"
-import { fetchAirQuality } from "../../../akasha/alan/tracking/daily/air-quality-fetch/air-quality-fetch.module.code.ts"
-import { inputError } from "../../lib/exit.ts"
+} from "../air-quality/air-quality.module.code.ts"
+import { fetchAirQuality } from "../air-quality-fetch/air-quality-fetch.module.code.ts"
 
 export const help: CommandHelp = {
   flags: [

@@ -1,11 +1,10 @@
 export const summary =
-  "Recompute a day's strengthVolume from workout-session volume (total lb lifted)"
+  "Recompute a day's taskPoints from completed health tasks (difficulty-tier points)"
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { inputError } from "../../lib/exit.ts"
-import { strengthPoints } from "../../lib/tracking-pillars.ts"
+import { inputError } from "@tools/lib/exit"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
 
@@ -20,13 +19,13 @@ export const help: CommandHelp = {
     { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
   ],
   exits: [
-    { code: 0, meaning: "strengthVolume recomputed and written" },
+    { code: 0, meaning: "taskPoints recomputed and written" },
     { code: 1, meaning: "bad --date" },
   ],
-  examples: ["ops tracking strength-sync", "ops tracking strength-sync --date 2026-06-18"],
+  examples: ["ops tracking task-sync", "ops tracking task-sync --date 2026-06-18"],
 }
 
-export default async function trackingStrengthSync(args: readonly string[]): Promise<void> {
+export default async function trackingTaskSync(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const json = parsed.boolean("--json")
 
@@ -36,14 +35,14 @@ export default async function trackingStrengthSync(args: readonly string[]): Pro
   }
   const dayStr = dateRaw ?? getEsoDayStr(new Date())
 
-  const { rollupStrengthForDay } = await strengthPoints()
+  const { rollupHealthTaskPointsForDay } = await import("../task-points/task-points.module.code.ts")
 
-  console.error(`Recomputing strengthVolume for ${dayStr} from workout-session volume…`)
-  const { strengthVolume, outcome } = await rollupStrengthForDay(dayStr)
+  console.error(`Recomputing taskPoints for ${dayStr} from completed health tasks…`)
+  const { taskPoints: points, outcome } = await rollupHealthTaskPointsForDay(dayStr)
 
   if (json) {
-    process.stdout.write(`${JSON.stringify({ day: dayStr, strengthVolume, outcome })}\n`)
+    process.stdout.write(`${JSON.stringify({ day: dayStr, taskPoints: points, outcome })}\n`)
     return
   }
-  process.stdout.write(`day\t${dayStr}\nstrengthVolume\t${strengthVolume}\noutcome\t${outcome}\n`)
+  process.stdout.write(`day\t${dayStr}\ntaskPoints\t${points}\noutcome\t${outcome}\n`)
 }

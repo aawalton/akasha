@@ -3,8 +3,7 @@ export const summary = "Recompute a day's wisdomWords and intelligenceWords from
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { inputError } from "../../lib/exit.ts"
-import { topicWords } from "../../lib/tracking-pillars.ts"
+import { inputError } from "@tools/lib/exit"
 
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
 
@@ -35,7 +34,9 @@ export default async function trackingWordsSync(args: readonly string[]): Promis
   }
   const dayStr = dateRaw ?? getEsoDayStr(new Date())
 
-  const { rollupWisdomWordsForDay, rollupIntelligenceWordsForDay } = await topicWords()
+  const { rollupWisdomWordsForDay, rollupIntelligenceWordsForDay } = await import(
+    "../topic-words/topic-words.module.code.ts"
+  )
 
   console.error(`Recomputing wisdomWords and intelligenceWords for ${dayStr} from git…`)
   const wisdom = await rollupWisdomWordsForDay(dayStr)

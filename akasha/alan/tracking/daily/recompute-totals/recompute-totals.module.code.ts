@@ -3,8 +3,7 @@ export const summary =
 
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
-import { dataError } from "../../lib/exit.ts"
-import { healthTotalPoints } from "../../lib/tracking-pillars.ts"
+import { dataError } from "@tools/lib/exit"
 
 export const help: CommandHelp = {
   flags: [
@@ -47,7 +46,9 @@ export default async function trackingRecomputeTotals(args: readonly string[]): 
   const json = parsed.boolean("--json")
   const slugs = parsed.repeated("--slug")
 
-  const { writeHealthTotalPoints } = await healthTotalPoints()
+  const { writeHealthTotalPoints } = await import(
+    "../health-total-points/health-total-points.module.code.ts"
+  )
 
   const scope = slugs.length === 0 ? "every Health persona" : slugs.join(", ")
   console.error(

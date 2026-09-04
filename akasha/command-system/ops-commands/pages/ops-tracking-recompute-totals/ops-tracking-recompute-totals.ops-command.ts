@@ -6,6 +6,6 @@ export const opsTrackingRecomputeTotals = {
   slug: "ops-tracking-recompute-totals",
   definition: "rewriting each Health persona's lifetime total, forward-only unless forced.",
   opsPath: "tracking recompute-totals",
-  opsEntryFile: "tools/commands/tracking/recompute-totals.ts",
+  opsEntryFile: "akasha/alan/tracking/daily/recompute-totals/recompute-totals.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

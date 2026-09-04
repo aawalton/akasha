@@ -6,6 +6,6 @@ export const opsTrackingWordsSync = {
   slug: "ops-tracking-words-sync",
   definition: "rewriting one day's wisdom and intelligence word counts from that day's commits.",
   opsPath: "tracking words-sync",
-  opsEntryFile: "tools/commands/tracking/words-sync.ts",
+  opsEntryFile: "akasha/alan/tracking/daily/words-sync/words-sync.module.code.ts",
   opsHelp: "txt",
 } as const satisfies OpsCommand

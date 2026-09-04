@@ -7,7 +7,7 @@ export const opsTrackingAirQuality = {
   definition:
     "the current air reading for a location, and the outdoor-exertion verdict drawn from it.",
   opsPath: "tracking air-quality",
-  opsEntryFile: "tools/commands/tracking/air-quality.ts",
+  opsEntryFile: "akasha/alan/tracking/daily/air-quality-command/air-quality-command.module.code.ts",
   opsHelp: "txt",
   flags: [
     {
