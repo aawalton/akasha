@@ -105,7 +105,6 @@ export const game = {
     "text-property/premise",
     "text-property/reader-framing",
     "text-property/themes",
-    "text-property/title",
     "text-property/tone",
   ],
   properties: [

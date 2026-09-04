@@ -34,7 +34,6 @@ export const mobilityReading = {
     "select-property/mobility-reading-metric",
     "select-property/side",
     "text-property/mobility-reading-value-text",
-    "text-property/note",
   ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
