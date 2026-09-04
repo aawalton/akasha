@@ -4,7 +4,7 @@ export const aPagesPathspecCommitsWhatAnotherSeatRemoved = {
   id: "01a0673c-4ed9-719f-84dc-ffa781b39428",
   pageTypeSlug: "finding",
   slug: "a-pages-pathspec-commits-what-another-seat-removed",
-  domainSlug: "domain/ablation",
+  domainSlug: "workspace-package/command-system",
   claim:
     "Commit 7de8fdacd5 is messaged `ablate the book and book-series markdown` and carries 2,221 deletions: 1,738 the message is about, and 483 another seat had removed seconds earlier from `pages/learn-everything-topic` and `pages/gbww-reading`. `git commit -m <why> -- pages` stages by path rather than by what the committing agent touched, so while a swarm runs it collects whatever else is mid-ablation under that path, and the message answers for part of what it commits.",
   evidence:
