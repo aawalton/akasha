@@ -52,7 +52,7 @@ function saidShort(thrown: unknown): string {
   return saidBy(thrown).replace(/\s+/g, " ").trim()
 }
 
-export async function esoGenerateTypings(argv: readonly string[] = []): Promise<Answer> {
+export async function temperEsoGenerateTypings(argv: readonly string[] = []): Promise<Answer> {
   const named = valueOf(argv, CODE_ROOT_FLAG)
 
   let root: string

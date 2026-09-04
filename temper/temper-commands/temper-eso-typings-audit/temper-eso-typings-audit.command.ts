@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const auditEsoTypingsFresh = {
+export const temperEsoTypingsAudit = {
   id: "01a0685d-f8fa-7053-bb0f-5165c5bbb41a",
   pageTypeSlug: "command",
-  slug: "audit-eso-typings-fresh",
+  slug: "temper-eso-typings-audit",
   definition:
     "the command reading which committed game artifacts are stamped behind the clone they came from",
   code: "ts",

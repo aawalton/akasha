@@ -44,7 +44,7 @@ function realOrGiven(path: string): string {
   }
 }
 
-export function auditEsoTypingsFresh(argv: readonly string[] = []): Answer {
+export function temperEsoTypingsAudit(argv: readonly string[] = []): Answer {
   const namedRepo = valueOf(argv, REPO_ROOT_FLAG)
   const repoRoot = realOrGiven(namedRepo === undefined ? codeRoot() : resolve(namedRepo))
 

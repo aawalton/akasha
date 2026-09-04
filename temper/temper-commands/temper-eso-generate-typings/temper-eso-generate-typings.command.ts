@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const esoGenerateTypings = {
+export const temperEsoGenerateTypings = {
   id: "01a0685d-f8fa-7755-9f01-412ee9b28025",
   pageTypeSlug: "command",
-  slug: "eso-generate-typings",
+  slug: "temper-eso-generate-typings",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",
   changeKindSlug: "change-mechanical",

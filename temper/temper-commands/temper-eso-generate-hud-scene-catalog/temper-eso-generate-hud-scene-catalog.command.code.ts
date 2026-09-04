@@ -91,7 +91,9 @@ ${records.map(renderRecord).join("\n")}
 `
 }
 
-export async function esoGenerateHudSceneCatalog(argv: readonly string[] = []): Promise<Answer> {
+export async function temperEsoGenerateHudSceneCatalog(
+  argv: readonly string[] = []
+): Promise<Answer> {
   const named = valueOf(argv, CODE_ROOT_FLAG)
 
   let root: string

@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const esoGenerateChatterNames = {
+export const temperEsoGenerateChatterNames = {
   id: "01a0685d-f8fa-7c84-afa7-42c2af785557",
   pageTypeSlug: "command",
-  slug: "eso-generate-chatter-names",
+  slug: "temper-eso-generate-chatter-names",
   definition:
     "the command writing the chatter and interaction name registry the quests addon reads",
   code: "ts",

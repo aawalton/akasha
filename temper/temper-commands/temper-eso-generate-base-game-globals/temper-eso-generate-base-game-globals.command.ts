@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const esoGenerateBaseGameGlobals = {
+export const temperEsoGenerateBaseGameGlobals = {
   id: "01a0685d-f8fa-7913-8b39-8d1f9f835d34",
   pageTypeSlug: "command",
-  slug: "eso-generate-base-game-globals",
+  slug: "temper-eso-generate-base-game-globals",
   definition: "the command staging the census of the string ids the base game provides",
   code: "ts",
   changeKindSlug: "change-none",

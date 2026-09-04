@@ -86,7 +86,7 @@ export function askedOf(argv: readonly string[], at: number, salt: number): Aske
   }
 }
 
-export async function gatewayStart(argv: readonly string[], given: Given): Promise<Answer> {
+export async function modelGatewayStart(argv: readonly string[], given: Given): Promise<Answer> {
   const asked = askedOf(argv, Date.now(), Math.floor(Math.random() * 1_000_000))
   if (typeof asked === "string") return { report: [], refusals: [asked], code: INPUT }
   const started = await startedOn(given.root, asked, RUN_SEAMS)
