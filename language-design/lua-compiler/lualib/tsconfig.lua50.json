@@ -13,6 +13,13 @@
     "luaLibImport": "none",
     "luaTarget": "5.0"
   },
-  "include": ["src/*.ts", "src/*.d.ts", "src/5.0/**/*.ts"],
+  "include": [
+    "src/*.ts",
+    "src/5.0/**/*.ts",
+    "../eso-sandbox/eso-sandbox.type-declaration.d.ts",
+    "../language-extensions/language-extensions.type-declaration.d.ts",
+    "../performance-global/performance-global.type-declaration.d.ts",
+    "../sparse-array/sparse-array.type-declaration.d.ts"
+  ],
   "exclude": ["src/**/*.test.ts", "src/eso-sandbox.manifest.ts"]
 }
