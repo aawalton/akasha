@@ -23,6 +23,14 @@ export const watcherSettingsConsumables = {
     },
     {
       invariantKind: "departure",
+      statement: "The latest snapshot is the one captured last.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the keys a read uses are asked of a snapshot row.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An inventory that cannot be read is answered as a failure rather than raised.",
     },
     {

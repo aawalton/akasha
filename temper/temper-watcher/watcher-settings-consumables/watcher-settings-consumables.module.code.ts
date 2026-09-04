@@ -19,6 +19,8 @@ const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
 const CHUNK_PAGE_SIZE = 1000
 
+const SNAPSHOT_KEYS = ["id", "chunkCount"]
+
 export interface TargetBuildCharacter {
   esoCharacterId: string
   targetBuildHash?: string
@@ -40,7 +42,8 @@ const PAGE_INVENTORY_ROWS: InventoryRowReader = {
     const { rows } = await getPages({
       pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
       where: [{ key: "userId", eq: userId }],
-      order: [{ by: "dataTimestamp", dir: "desc" }],
+      order: [{ by: "capturedAt", dir: "desc" }],
+      select: SNAPSHOT_KEYS,
       limit: 1,
     })
     return rows[0]
