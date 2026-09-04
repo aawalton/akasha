@@ -22,7 +22,6 @@
         "@akasha/k8s-types": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/pipeline-orchestration": "workspace:*",
         "@akasha/spotify": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
@@ -492,22 +491,6 @@
         "zod": "^4.3.6",
       },
     },
-    "changes/pipeline-orchestration": {
-      "name": "@akasha/pipeline-orchestration",
-      "dependencies": {
-        "@akasha/pages-system": "workspace:*",
-        "@akasha/workflow-selection": "workspace:*",
-      },
-    },
-    "changes/pipeline-sweep": {
-      "name": "@akasha/pipeline-sweep",
-      "dependencies": {
-        "@akasha/ci-containers": "workspace:*",
-        "@akasha/file-system": "workspace:*",
-        "@akasha/markdown-pages": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
-      },
-    },
     "changes/test-fanout": {
       "name": "@akasha/test-fanout",
       "dependencies": {
@@ -525,15 +508,6 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "changes/workflow-selection": {
-      "name": "@akasha/workflow-selection",
-      "dependencies": {
-        "@akasha/git": "workspace:*",
-        "@akasha/old-graph": "workspace:*",
-        "@akasha/utils-run": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
       },
     },
     "checks": {
@@ -1013,21 +987,6 @@
     },
     "infrastructure/comfy": {
       "name": "@akasha/comfy",
-    },
-    "infrastructure/commands": {
-      "name": "@akasha/pipeline-commands",
-      "dependencies": {
-        "@akasha/ci-benchmark": "workspace:*",
-        "@akasha/cluster-api": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/git": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
-        "@akasha/pipeline-sweep": "workspace:*",
-        "@akasha/service-system": "workspace:*",
-        "@akasha/test-fanout": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
-      },
     },
     "infrastructure/dockerfiles": {
       "name": "@akasha/dockerfiles",
@@ -3261,12 +3220,6 @@
 
     "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
 
-    "@akasha/pipeline-commands": ["@akasha/pipeline-commands@workspace:infrastructure/commands"],
-
-    "@akasha/pipeline-orchestration": ["@akasha/pipeline-orchestration@workspace:changes/pipeline-orchestration"],
-
-    "@akasha/pipeline-sweep": ["@akasha/pipeline-sweep@workspace:changes/pipeline-sweep"],
-
     "@akasha/plain-language": ["@akasha/plain-language@workspace:domain-system/plain-language"],
 
     "@akasha/postgres-annual-dump": ["@akasha/postgres-annual-dump@workspace:infrastructure/postgres-annual-dump"],
@@ -3654,8 +3607,6 @@
     "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:web-static-assets"],
 
     "@akasha/workflow-language": ["@akasha/workflow-language@workspace:changes/workflow-language"],
-
-    "@akasha/workflow-selection": ["@akasha/workflow-selection@workspace:changes/workflow-selection"],
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:workspace-paths"],
 
