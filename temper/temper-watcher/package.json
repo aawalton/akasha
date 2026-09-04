@@ -54,7 +54,7 @@
     "./watcher-export-settings": "./watcher-export-settings/watcher-export-settings.module.code.ts",
     "./watcher-export-tasks": "./watcher-export-tasks/watcher-export-tasks.module.code.ts",
     "./watcher-updating": "./watcher-updating/watcher-updating.module.code.ts",
-    "./watcher-auth": "./watcher-server-url/watcher-server-url.module.code.ts",
+    "./watcher-server-url": "./watcher-server-url/watcher-server-url.module.code.ts",
     "./watcher-dispatch-handling": "./watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts",
     "./watcher-dispatch": "./watcher-dispatch/watcher-dispatch.module.code.ts",
     "./watcher-main": "./watcher-main/watcher-main.module.code.ts"
