@@ -12,7 +12,6 @@ export const story = {
     "domain/ui",
     "domain/wandering-inn",
     "domain/world-mechanics",
-    "workspace-package/story-engine-core",
     "page-type/game",
     "page-type/gm-doctrine-pack",
     "page-type/named-event",
