@@ -24,7 +24,7 @@ if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh" 
   echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh not found — the App binary could not be stamped, and an unstamped binary is refused at the upload gate." >&2
   exit 1
 fi
-# shellcheck source=akasha/code-system/ios-apps/scripts/build-stamp/build-stamp.shell-script.shell.sh
+# shellcheck source=code-system/ios-apps/scripts/build-stamp/build-stamp.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh"
 
 LOCATION_ALWAYS_DESC="Atlas records your location in the background to map the streets and sidewalks you have walked, so you can see how much of an area you have covered."
