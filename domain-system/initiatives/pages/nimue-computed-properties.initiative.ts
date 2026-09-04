@@ -10,12 +10,18 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "`pages/formula-properties/formula-property.page-type.ts` already does the formula case, so this generalises rather than starts. It states `holds` and a `formula` string. What is missing is rollup and aggregate, and a calculation that is a function rather than text. Start from `pages/page-properties/page-property.page-type.ts` and `code-system/modules/module.page-type.ts`, which the new type extends both of.",
+        "`pages/formula-properties/formula-property.page-type.ts` already does the formula case, so this generalises rather than starts. It states `holds` and a `formula` string and extends page-property alone. `code-system/modules/module.page-type.ts` carries exactly code, test and test-fixtures, so extending it hands over the three file properties rather than declaring them. Start from `pages/page-properties/page-property.page-type.ts`.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
       workingMemory:
-        "The point of the sub-types is control of inputs. A rollup, an aggregate and a formula each hand their function a different shape, and the function reaches only what its shape hands it. Unsettled: whether the shape is enforced by the type alone or by a check as well.",
+        "The point of the sub-types is control of inputs. A rollup, an aggregate and a formula each hand their function a different shape, and the function reaches only what its shape hands it.",
+    },
+    {
+      statement:
+        "A check refuses a calculation reaching outside its shape or answering twice over.",
+      workingMemory:
+        "Two guarantees the expression language gave for nothing. formula-property carries `A formula answers the same over one page however often the formula is asked`, which an expression cannot break and a function can by reading a clock or a network. And a signature settles what is handed in rather than what a code file imports. This check judges both the imports of a computed property's code file and its purity. Whether one type with three signatures is enough depends on this check.",
     },
     {
       statement: "No calculation is written as an expression the system parses.",
@@ -25,7 +31,7 @@ export const nimueComputedProperties = {
     {
       statement: "Sleep hours and surplus hours answer from a calculation.",
       workingMemory:
-        "`wake-day` declares no sleep-hours, spend-hours or surplus-hours and no formula property for them, while every other key of the sixteen has one. `surplusIn` short-circuits on `heldNothing` before it reads surplus-hours, so the reading is null rather than 0. Settle first whether a day answers the same through the store's page-asking, which applies formulas, as through day-place's local asking, which shows no formula step.",
+        "`wake-day` declares no sleep-hours, spend-hours or surplus-hours and no formula property for them, while every other key of the sixteen has one. `surplusIn` short-circuits on `heldNothing` before it reads surplus-hours, so the reading is null rather than 0. Dispatch is settled: page-asking imports workingOver, works formulas per pageTypeSlug through declaredFor, and unworked refuses by name at line 263.",
     },
     {
       statement: "No page query sums a key no page type declares.",
