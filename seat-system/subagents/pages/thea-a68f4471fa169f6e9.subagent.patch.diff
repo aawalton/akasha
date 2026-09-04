@@ -1,0 +1,36 @@
+diff --git a/temper/temper-crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts b/temper/temper-crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts
+index 670c7f70a67e4f84426028ef534552c2cac06baa..8b1f2a64ad9a75b23a78a69b55cacffd16112633 100644
+--- a/temper/temper-crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts
++++ b/temper/temper-crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts
+@@ -228,8 +228,6 @@ interface TemperCraftingButton extends ButtonControl {
+ }
+ 
+ interface ButtonControl {
+-  SetNormalFontColor: (r: number, g: number, b: number, a: number) => undefined
+-  SetMouseOverFontColor: (r: number, g: number, b: number, a: number) => undefined
+   SetHorizontalAlignment: (alignment: number) => undefined
+   SetVerticalAlignment: (alignment: number) => undefined
+ }
+diff --git a/temper/temper-lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts b/temper/temper-lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts
+index b861b606d79b361b35ee7cd0d6bf0491f4e97363..a386cc039b18e64386402461965b23b652b0c283 100644
+--- a/temper/temper-lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts
++++ b/temper/temper-lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts
+@@ -45,18 +45,9 @@ interface Control {
+   GetDrawLayer: () => number
+   GetDrawTier: () => number
+   GetDrawLevel: () => number
+-  GetOwningWindow: () => Control
+   SetClampedToScreen: (clamped: boolean) => void
+ }
+ 
+-interface LabelControl {
+-  SetMaxLineCount: (count: number) => void
+-}
+-
+-interface TextureControl {
+-  SetAddressMode: (mode: number) => void
+-}
+-
+ interface TooltipControl {
+   GetOwner: () => Control | undefined
+ }
