@@ -10,7 +10,7 @@ export const amySeatTurnReading = {
     {
       statement: "Every value written beside a seat is read by something.",
       workingMemory:
-        "21 keys and record fields sit beside a seat and 17 are read. `context-replaced` and `turn-pending`'s per-field `at` are dead and are being cut. Two are held for Alan, each removing a feature rather than duplication: `rotated-session-uuid`, whose removal takes session rotation with it, `watchSeatRotation` having polled every second since it was written and never once able to fire; and `reexec-asked`, whose only writer has no caller.",
+        "Cut at 74bda7f0: `context-replaced`, which nothing wrote and nothing read, and `turn-pending`'s per-field `at`, which `bare()` dropped on write, so a reader saw the sidecar mtime rather than the moment the component changed. Five uncalled functions went with them. One decision is held: `rotated-session-uuid` is carried by akasha after all, its writer `keepRotated` simply having no caller, so a cleared seat keeps a stale transcript path and stops being read at all.",
     },
     {
       statement: "A turn state is drawn within the time the code-editor domain allows.",
