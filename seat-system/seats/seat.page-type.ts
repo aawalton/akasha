@@ -75,6 +75,8 @@ export const seat = {
     "text-property/context-replaced-source",
     "text-property/interrupt-message",
     "text-property/model",
+    "text-property/open-agents",
+    "text-property/open-shells",
     "text-property/proxy-version",
     "text-property/re-exec-ask",
     "text-property/registration-account",
