@@ -165,6 +165,23 @@ index d31adb8c87570057f1769f463b9f1b898c4e53e0..8c6b20eee0204288dd02cca9d088097a
 +export const invariantStatementIsPlain = judgingEachAsync(TEXTS, (given, shadow) =>
 +  found(given.root, given.path, given.text, shadow.index)
  )
+diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
+index 46b1a349d8becb0147a8e29a32840c02147d38a0..6964061672ac9cf139f22d826e970c300b6fe126 100644
+--- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
++++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.test.ts
+@@ -3,11 +3,10 @@ import { readFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { rootOf } from "@akasha/command-system/rooting"
+ import { shadowAt } from "@akasha/pages-system/shadow"
+-import { grammarsIn } from "@akasha/plain-language"
+ import { bodiesAt } from "@akasha/testing-system/bodying"
+ import {
+   reasonsIn,
+-  reasonsWith,
++  reasonsShaped,
+   splitAt,
+   statementsIn,
+ } from "./invariant-statement-is-plain.code-check.code.ts"
 diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
 index c847416af9e5ff4e9c9ecd82e1c55ff89dd85f5b..68f0684863f2d5920eb4ea2d9cf4ed49db7cb8c7 100644
 --- a/checks/modules/change-walking/change-walking.module.code.ts
