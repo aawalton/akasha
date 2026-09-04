@@ -11,6 +11,9 @@ import type { Asked } from "../../command-system/asking/asking.module.code.ts"
 import { BREAK_GLASS, landingAsked } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import { answering } from "../../command-system/calling/calling.module.code.ts"
+import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
+import { baseOf } from "../../command-system/landing/landing.module.code.ts"
+import { dropReadings } from "../../command-system/reading/reading.module.code.ts"
 import {
   barredIn,
   FILE_PATH,
@@ -21,10 +24,7 @@ import {
   messageIn,
   offRepo,
   pathAt,
-} from "../../command-system/commands/write/write.command.code.ts"
-import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
-import { baseOf } from "../../command-system/landing/landing.module.code.ts"
-import { dropReadings } from "../../command-system/reading/reading.module.code.ts"
+} from "../write/write.command.code.ts"
 import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifesting.module.code.ts"
 import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {

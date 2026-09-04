@@ -5,7 +5,7 @@ import { said as git } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { MECHANICAL } from "../../asking/asking.module.code.ts"
+import { MECHANICAL } from "../../command-system/asking/asking.module.code.ts"
 import {
   applied,
   bodyIn,
@@ -14,8 +14,8 @@ import {
   givenIn,
   treeHolds,
   wroteWith,
-} from "../../asking/asking.module.test-fixtures.ts"
-import { baseOf as headOf } from "../../landing/landing.module.code.ts"
+} from "../../command-system/asking/asking.module.test-fixtures.ts"
+import { baseOf as headOf } from "../../command-system/landing/landing.module.code.ts"
 import { filing, write, writing } from "./write.command.code.ts"
 import {
   alsoCommitted,

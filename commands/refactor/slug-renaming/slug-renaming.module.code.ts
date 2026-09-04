@@ -2,7 +2,7 @@ import { basename, dirname, join } from "node:path"
 import type { Listed } from "@akasha/indexes"
 import { addressIn } from "@akasha/pages-system/page-address"
 import { besideRenamed } from "../../../command-system/commands/move/renaming/move-renaming.module.code.ts"
-import { MESSAGE, MESSAGE_FILE } from "../../../command-system/commands/write/write.command.code.ts"
+import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
 import { FROM, TO } from "../arguing/refactor-arguing.module.code.ts"
 
 const PAGE_TYPE = "page-type"

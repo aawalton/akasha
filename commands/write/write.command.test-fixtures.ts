@@ -1,10 +1,15 @@
 import { said as gitIn } from "@akasha/git/git-running"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { put } from "@akasha/testing-system/putting"
-import { applied, bodyIn, givenIn, repoAt } from "../../asking/asking.module.test-fixtures.ts"
-import type { Answer } from "../../calling/calling.module.code.ts"
-import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import {
+  applied,
+  bodyIn,
+  givenIn,
+  repoAt,
+} from "../../command-system/asking/asking.module.test-fixtures.ts"
+import type { Answer } from "../../command-system/calling/calling.module.code.ts"
+import { blobIdOf, recordRead } from "../../command-system/reading/reading.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { write } from "./write.command.code.ts"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"

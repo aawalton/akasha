@@ -11,6 +11,17 @@ import {
   troubling,
 } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
+import type { Piping } from "../../command-system/piping/piping.module.code.ts"
+import {
+  inputIn,
+  MARK_NEW,
+  MARK_OLD,
+  MARK_SPLIT,
+  PIPED,
+  passagesIn,
+  pipedIn,
+} from "../../command-system/piping/piping.module.code.ts"
 import {
   barredIn,
   defaultMessage,
@@ -23,18 +34,7 @@ import {
   unknownIn,
   unwarrantedIn,
   valuesOf,
-} from "../../command-system/commands/write/write.command.code.ts"
-import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
-import type { Piping } from "../../command-system/piping/piping.module.code.ts"
-import {
-  inputIn,
-  MARK_NEW,
-  MARK_OLD,
-  MARK_SPLIT,
-  PIPED,
-  passagesIn,
-  pipedIn,
-} from "../../command-system/piping/piping.module.code.ts"
+} from "../write/write.command.code.ts"
 
 const OLD_FILE = "--old-file"
 

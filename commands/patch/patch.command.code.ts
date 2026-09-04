@@ -15,18 +15,6 @@ import {
 } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import {
-  CONTENT_FILE,
-  FILE_PATH,
-  glassIn,
-  MESSAGE,
-  MESSAGE_FILE,
-  messageIn,
-  offRepo,
-  pathAt,
-  unknownIn,
-  valuesOf,
-} from "../../command-system/commands/write/write.command.code.ts"
-import {
   DROPPED,
   droppedPatch,
   rebasedOnto,
@@ -49,6 +37,18 @@ import {
   pipedIn,
   RUNS_SAID,
 } from "../../command-system/piping/piping.module.code.ts"
+import {
+  CONTENT_FILE,
+  FILE_PATH,
+  glassIn,
+  MESSAGE,
+  MESSAGE_FILE,
+  messageIn,
+  offRepo,
+  pathAt,
+  unknownIn,
+  valuesOf,
+} from "../write/write.command.code.ts"
 
 export const APPLY = "apply"
 

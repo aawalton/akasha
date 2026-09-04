@@ -12,13 +12,18 @@ import {
   textOf,
   troubling,
   wroteAndTook,
-} from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
-import type { FileEdit } from "../../landing/landing.module.code.ts"
-import { baseOf } from "../../landing/landing.module.code.ts"
-import type { Piping } from "../../piping/piping.module.code.ts"
-import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
+} from "../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { bodyAt } from "../../command-system/commit-reading/commit-reading.module.code.ts"
+import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
+import { baseOf } from "../../command-system/landing/landing.module.code.ts"
+import type { Piping } from "../../command-system/piping/piping.module.code.ts"
+import {
+  inputIn,
+  markingIn,
+  pipedIn,
+  RUNS_SAID,
+} from "../../command-system/piping/piping.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 

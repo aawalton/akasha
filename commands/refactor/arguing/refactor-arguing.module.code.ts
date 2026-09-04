@@ -1,5 +1,5 @@
 import { BREAK_GLASS, DRY_RUN } from "../../../command-system/asking/asking.module.code.ts"
-import { MESSAGE, MESSAGE_FILE } from "../../../command-system/commands/write/write.command.code.ts"
+import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
 import { LINE } from "../token-renaming/token-renaming.module.code.ts"
 
 export const FROM = "--from"
