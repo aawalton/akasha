@@ -1,0 +1,44 @@
+diff --git a/temper/temper-character/players/properties/handle.text-property.ts b/temper/temper-character/players/properties/handle.text-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d024f134c4eea2102d4b9bc35410b45a5590d411
+--- /dev/null
++++ b/temper/temper-character/players/properties/handle.text-property.ts
+@@ -0,0 +1,13 @@
++import type { TextProperty } from "@akasha/pages-system/text-property"
++
++export type Handle = string
++
++export const handle = {
++  id: "01a06e45-6e74-725b-ba6d-c6a1ff226629",
++  pageTypeSlug: "text-property",
++  slug: "handle",
++  propertySlug: "handle",
++  definition: "the name a player is shown under to other players",
++  max: 100,
++  nameFormatSlug: null,
++} as const satisfies TextProperty
+diff --git a/temper/temper-character/players/temper-player.page-type.ts b/temper/temper-character/players/temper-player.page-type.ts
+index 5dcc54d2cfab4d9d878620489f1c097f94852537..2ba057308eff7709fc43db29ad80567d8b284d80 100644
+--- a/temper/temper-character/players/temper-player.page-type.ts
++++ b/temper/temper-character/players/temper-player.page-type.ts
+@@ -1,10 +1,12 @@
+ import type { PageType } from "@akasha/pages-system/page-type"
+ import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
+ import type { CompletionVisibility } from "./properties/completion-visibility.text-property.ts"
++import type { Handle } from "./properties/handle.text-property.ts"
+ import type { Settings } from "./properties/settings.file-property.ts"
+ 
+ export type TemperPlayer = TemperCharacterThing & {
+   completionVisibility: CompletionVisibility
++  handle?: Handle
+   settings?: Settings
+ }
+ 
+@@ -22,6 +24,7 @@ export const temperPlayer = {
+   ],
+   properties: [
+     { pagePropertySlug: "completion-visibility", required: true, many: false },
++    { pagePropertySlug: "handle", required: false, many: false },
+     { pagePropertySlug: "settings", required: false, many: false },
+   ],
+ } as const satisfies PageType
