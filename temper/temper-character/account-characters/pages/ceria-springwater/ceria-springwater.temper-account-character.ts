@@ -5,9 +5,9 @@ export const ceriaSpringwater = {
   pageTypeSlug: "temper-account-character",
   slug: "ceria-springwater",
   title: "Ceria Springwater",
-  firstName: "Ceria",
-  esoCharacterId: "8796093045974297",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 14,
   completion: "json",
+  esoCharacterId: "8796093045974297",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Ceria",
 } as const satisfies TemperAccountCharacter
