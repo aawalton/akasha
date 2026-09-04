@@ -5,9 +5,9 @@ export const threeColorStalker = {
   pageTypeSlug: "temper-account-character",
   slug: "three-color-stalker",
   title: "Three-Color Stalker",
-  firstName: "Three-Color",
-  esoCharacterId: "8796093022613905",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayOrder: 4,
   completion: "json",
+  esoCharacterId: "8796093022613905",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Three-Color",
 } as const satisfies TemperAccountCharacter
