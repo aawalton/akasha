@@ -15,7 +15,7 @@ import { baseOf } from "../../landing/landing.module.code.ts"
 import { linkingsIn, reachedOver } from "../../package-linking/package-linking.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
-import { glassIn, messageIn, pathInside } from "../write/write.command.code.ts"
+import { glassIn, messageIn, pathAt } from "../write/write.command.code.ts"
 import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts"
 import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
 import { importingOf, namingOf, spellingOf } from "./naming/move-naming.module.code.ts"
@@ -35,10 +35,6 @@ import { repointed } from "./repointing/move-repointing.module.code.ts"
 import { resettlingSaid } from "./resettling/move-resettling.module.code.ts"
 import type { Pair, Spread } from "./spreading/move-spreading.module.code.ts"
 import { expandedIn, spreadSaid } from "./spreading/move-spreading.module.code.ts"
-
-const AKASHA = "akasha"
-
-const INSIDE = `${AKASHA}/`
 
 const NOTHING_SAID: ReadonlyMap<string, string> = new Map()
 
@@ -67,13 +63,13 @@ function sidedIn(
   const seen = new Set<string>()
   const taken = new Set<string>()
   for (const one of pairs) {
-    const from = pathInside(root, one.from)
-    const to = pathInside(root, one.to)
+    const from = pathAt(root, one.from)
+    const to = pathAt(root, one.to)
     if (from === null || to === null) {
       const outside = from === null ? one.from : one.to
       refusals.push(
-        `\`${outside}\` is not under \`${INSIDE}\` — a path is read against the repository root, ` +
-          "and this carries nothing in or out of that folder"
+        `\`${outside}\` is no path inside the repository — a path is read against the repository ` +
+          "root, and this carries nothing in or out of the repository"
       )
       continue
     }
