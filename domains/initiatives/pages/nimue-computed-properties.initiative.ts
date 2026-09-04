@@ -8,14 +8,9 @@ export const nimueComputedProperties = {
   personaSlug: "nimue",
   intents: [
     {
-      statement: "A page type takes its properties from more than one type.",
-      workingMemory:
-        "Expand, migrate and contract are all done. extends-slug is declared many with max null, every page type states a list and the root an empty one, and every reader and fixture takes a list alone. How two parents settle a property is on the extends-slug page: the nearer decides, and the last named where both are equally near. Next is the computed-property type itself, which is what a second parent was wanted for.",
-    },
-    {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "The surface is settled. One export named `work`, typed `Work<Page, Held>`, taking `(page, reach)`. The page hands over stored and computed reads alike, `page.faithPoints` and `page.faithLevel` written the same way, the computed ones lazy getters over the synchronous index. `pages/formula-properties/formula-property.page-type.ts` is what this generalises, and `code-system/modules/module.page-type.ts` hands over code, test and test-fixtures.",
+        "`pages/computed-properties/computed-property.page-type.ts` is landed, extending module and page-property both. The type carries 19 properties: code, test and test-fixtures from module, property-slug, generator and unique from page-property, holds of its own, the rest from domain and page. `Work<Page, Held>` and `Reach` are exported from that file. `holds` is still imported from formula-properties and moves here when that type goes. Next is the evaluator and the first calculation.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
