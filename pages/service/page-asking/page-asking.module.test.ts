@@ -6,10 +6,60 @@ import {
   asking,
   keysOf,
   meets,
+  ownerFor,
   type Query,
 } from "./page-asking.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..")
+
+function typesHeld(
+  types: Readonly<Record<string, Record<string, unknown>>>
+): Map<string, ReadonlyMap<string, Record<string, unknown>>> {
+  const made = new Map<string, ReadonlyMap<string, Record<string, unknown>>>()
+  made.set("page-type", new Map(Object.entries(types)))
+  return made
+}
+
+test("a page type naming one above it reads the owner that climb carries", () => {
+  expect(ownerFor(root, new Map(), "temper-catalog-thing")).toBe("account-page")
+  expect(ownerFor(root, new Map(), "invariant-kind")).toBeNull()
+})
+
+test("the owner is read from the second page type above where the first states none", () => {
+  const held = typesHeld({
+    under: { extendsSlug: ["page-type/one", "page-type/two"] },
+    one: {},
+    two: { ownerSlug: "account-page" },
+  })
+  expect(ownerFor(root, held, "under")).toBe("account-page")
+})
+
+test("the owner is taken from the nearer of the page types above", () => {
+  const held = typesHeld({
+    under: { extendsSlug: ["page-type/close", "page-type/apart"] },
+    close: { extendsSlug: "page-type/distant" },
+    apart: { ownerSlug: "apart-owner" },
+    distant: { ownerSlug: "distant-owner" },
+  })
+  expect(ownerFor(root, held, "under")).toBe("apart-owner")
+})
+
+test("where two page types above are equally near, the owner is the last one named", () => {
+  const held = typesHeld({
+    under: { extendsSlug: ["page-type/first", "page-type/second"] },
+    first: { ownerSlug: "first-owner" },
+    second: { ownerSlug: "second-owner" },
+  })
+  expect(ownerFor(root, held, "under")).toBe("second-owner")
+})
+
+test("a page type above that nothing holds stops no other climb", () => {
+  const held = typesHeld({
+    under: { extendsSlug: ["page-type/there", "page-type/nothing-holds-this"] },
+    there: { ownerSlug: "there-owner" },
+  })
+  expect(ownerFor(root, held, "under")).toBe("there-owner")
+})
 
 function rowsOf(asked: Asked): readonly Record<string, unknown>[] {
   if ("refused" in asked) throw new Error(`refused: ${asked.refused}`)

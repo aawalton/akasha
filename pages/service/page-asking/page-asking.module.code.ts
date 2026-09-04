@@ -15,7 +15,7 @@ import {
   sourceIn,
 } from "@akasha/pages-system/page-type-properties"
 import { wholeValue } from "@akasha/pages-system/page-uncommitted"
-import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
+import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 import { matches, weigh } from "../where-testing/where-testing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -156,16 +156,17 @@ function lastSegment(said: string): string {
 }
 
 export function ownerFor(root: string, held: Held, pageTypeSlug: string): string | null {
-  const seen = new Set<string>()
-  let at: string | null = pageTypeSlug
-  while (at !== null && at !== "" && !seen.has(at)) {
-    seen.add(at)
-    const page = pagesOfType(root, held, PAGE_TYPE).get(at)
-    if (page === undefined) return null
+  const walked = new Set<string>()
+  const waiting: string[] = [pageTypeSlug]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const own = waiting[at]
+    if (own === undefined || own === "" || walked.has(own)) continue
+    walked.add(own)
+    const page = pagesOfType(root, held, PAGE_TYPE).get(own)
+    if (page === undefined) continue
     const owner = textAt(page, "ownerSlug")
     if (owner !== null && owner !== "") return lastSegment(owner)
-    const above = textAt(page, "extendsSlug")
-    at = above === null || above === "" ? null : lastSegment(above)
+    for (const above of [...slugsIn(page["extendsSlug"])].reverse()) waiting.push(above)
   }
   return null
 }
