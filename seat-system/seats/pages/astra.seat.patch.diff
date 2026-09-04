@@ -18,3 +18,13 @@ index 101b2bda68280cdbe9402bad163d2dc47c4ecb0a..9174f8ce096f8fdf3f162121903206ff
  import type { PageQuery } from "../page-query-shape/page-query-shape.module.code.ts"
  
  const NUMBER = "number"
+diff --git a/pages/query-shape/page-query-shape.module.code.ts b/pages/query-shape/page-query-shape.module.code.ts
+index bbc7afba040111d40fbd4784b0eaec3592f7e503..c79a77abb048c7270a60c5df1bc7dc7bb2e73fc9 100644
+--- a/pages/query-shape/page-query-shape.module.code.ts
++++ b/pages/query-shape/page-query-shape.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { Row } from "../page-derive-shape/page-derive-shape.module.code.ts"
++import type { Row } from "../derive-shape/page-derive-shape.module.code.ts"
+ 
+ export const UNREACHED = "names no page type whose pages are files"
+ 
