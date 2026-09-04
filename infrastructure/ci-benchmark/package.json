@@ -5,9 +5,6 @@
   "exports": {
     "./benchmark-aggregate": "./benchmark-aggregate/benchmark-aggregate.module.code.ts",
     "./benchmark-job": "./benchmark-job/benchmark-job.module.code.ts",
-    "./benchmark-margin-sweep": "./benchmark-margin-sweep/benchmark-margin-sweep.module.code.ts",
-    "./benchmark-outer-core": "./benchmark-outer-core/benchmark-outer-core.module.code.ts",
-    "./benchmark-outer-render": "./benchmark-outer-render/benchmark-outer-render.module.code.ts",
     "./benchmark-provision": "./benchmark-provision/benchmark-provision.module.code.ts",
     "./benchmark-phases": "./benchmark-phases/benchmark-phases.module.code.ts",
     "./benchmark-report-assembly": "./benchmark-report-assembly/benchmark-report-assembly.module.code.ts",
