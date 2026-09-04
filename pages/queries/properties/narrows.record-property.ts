@@ -1,4 +1,4 @@
-import type { List } from "../../page-properties/page-property.page-type.ts"
+import type { List } from "../../page-types/page-properties/page-property.page-type.ts"
 import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
 import type { NarrowComparison } from "./narrow-comparison.text-property.ts"
 import type { NarrowKey } from "./narrow-key.text-property.ts"
