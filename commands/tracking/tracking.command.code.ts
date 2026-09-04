@@ -1,7 +1,14 @@
-import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { inputIn } from "../../piping/piping.module.code.ts"
-import { FILE_PATH, filing, pathAt, REMOVE, VALUED, valuesOf } from "../write/write.command.code.ts"
+import { BREAK_GLASS, mistaking } from "../../command-system/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import {
+  FILE_PATH,
+  filing,
+  pathAt,
+  REMOVE,
+  VALUED,
+  valuesOf,
+} from "../../command-system/commands/write/write.command.code.ts"
+import { inputIn } from "../../command-system/piping/piping.module.code.ts"
 
 export const DAYS_AT = "alan/tracking/daily/wake-days/pages/"
 
