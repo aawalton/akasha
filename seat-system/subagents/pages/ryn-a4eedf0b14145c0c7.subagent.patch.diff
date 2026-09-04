@@ -25,10 +25,10 @@ index 4806cd87bc5636f8b97b6548899a6eca1c008be5..35891768ff9834779b79164ad4d67983
      {
        invariantKind: "departure",
 diff --git a/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts b/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
-index f314d187ed464ec76145363203abd9732ed76705..306fa9b0cf7915af917509e2215dcde796cc972c 100644
+index f314d187ed464ec76145363203abd9732ed76705..c2dd301384d7cf9b2ec0aabdecaad52c03945dbc 100644
 --- a/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
 +++ b/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
-@@ -9,7 +9,7 @@ export const operatorClassification = {
+@@ -9,11 +9,11 @@ export const operatorClassification = {
    invariants: [
      {
        invariantKind: "departure",
@@ -37,6 +37,11 @@ index f314d187ed464ec76145363203abd9732ed76705..306fa9b0cf7915af917509e2215dcde7
      },
      {
        invariantKind: "departure",
+-      statement: "Trivia and the end of a file are counted as neither.",
++      statement: "Trivia and the end of a file are counted as neither an operator nor an operand.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
 index 60146063f084a225f72b0b1d1e436ac8944f69ed..830968b42921da1b6dba0eaf9fa59e016632b1be 100644
 --- a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
