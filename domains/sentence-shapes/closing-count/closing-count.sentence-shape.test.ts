@@ -33,7 +33,21 @@ test("a count closing a sentence over the list it gave is found", () => {
     ["both", "PRON", 4, "conj"],
     [".", "PUNCT", 4, "punct"],
   ])
-  expect(closingCount(said)).toEqual([{ at: [6, 9] }])
+  expect(closingCount(said)).toEqual([{ at: [9] }])
+})
+
+test("a count coordinated with what it sums is found", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["stop", "NOUN", 3, "nsubj"],
+    ["names", "VERB", 0, "root"],
+    ["every", "DET", 5, "det"],
+    ["server", "NOUN", 3, "obj"],
+    ["never", "ADV", 7, "advmod"],
+    ["both", "CCONJ", 5, "conj"],
+    [".", "PUNCT", 3, "punct"],
+  ])
+  expect(closingCount(said)).toEqual([{ at: [7] }])
 })
 
 test("a count anywhere but the close is passed over", () => {
@@ -45,13 +59,26 @@ test("a count anywhere but the close is passed over", () => {
   expect(closingCount(said)).toEqual([])
 })
 
-test("a count closing a sentence that gave no list is passed over", () => {
+test("an `either` saying also not counts nothing and is passed over", () => {
   const said = sentenceOf([
     ["A", "DET", 2, "det"],
-    ["pass", "NOUN", 3, "nsubj"],
-    ["writes", "VERB", 0, "root"],
-    ["both", "PRON", 3, "obj"],
+    ["specifier", "NOUN", 3, "nsubj"],
+    ["makes", "VERB", 0, "root"],
+    ["none", "PRON", 3, "obj"],
+    ["either", "ADV", 3, "advmod"],
     [".", "PUNCT", 3, "punct"],
+  ])
+  expect(closingCount(said)).toEqual([])
+})
+
+test("a count carrying a noun of its own is passed over", () => {
+  const said = sentenceOf([
+    ["A", "DET", 3, "det"],
+    ["pool", "NOUN", 3, "compound"],
+    ["service", "NOUN", 5, "nsubj"],
+    ["is", "AUX", 5, "cop"],
+    ["neither", "PRON", 0, "root"],
+    [".", "PUNCT", 5, "punct"],
   ])
   expect(closingCount(said)).toEqual([])
 })
