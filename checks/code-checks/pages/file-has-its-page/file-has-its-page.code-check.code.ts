@@ -2,13 +2,10 @@ import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
 
-const INSIDE = "akasha/"
-
 export const UNCLAIMED =
   "no page claims this file — a file no page claims is enumerated by nothing and audited by nothing"
 
 function unclaimedAt(path: string, shadow: Shadow): readonly string[] {
-  if (!path.startsWith(INSIDE)) return []
   if (shadow.index.listedByPath(path).length > 0) return []
   return [UNCLAIMED]
 }
