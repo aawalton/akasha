@@ -4,8 +4,8 @@ import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
 import { DRIVE_SCOPES } from "@akasha/google-drive/env"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
 import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
 
 export const AUTH = "auth"
 
