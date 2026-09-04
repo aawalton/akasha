@@ -4,6 +4,7 @@ import { typed } from "@akasha/code-system/code-typing"
 import { everyPath } from "@akasha/indexes"
 import { besideOf } from "@akasha/pages-system/page-beside"
 import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
+import { valuesOver } from "@akasha/pages-system/page-value"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -20,6 +21,8 @@ import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts
 import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
 import { importingOf, namingOf, spellingOf } from "./naming/move-naming.module.code.ts"
 import { outsideIn, outsideSaid } from "./outside/move-outside.module.code.ts"
+import type { Parenting } from "./parenting/move-parenting.module.code.ts"
+import { editedFor, parentingOver, parentingSaid } from "./parenting/move-parenting.module.code.ts"
 import type { Renaming, Unrepointed } from "./renaming/move-renaming.module.code.ts"
 import {
   addressingOver,
@@ -52,6 +55,8 @@ type Reached = {
   readonly outside: readonly string[]
   readonly reaching: readonly string[]
   readonly left: readonly Unrepointed[]
+  readonly parented: readonly Parenting[]
+  readonly unparented: string | null
 }
 
 function sidedIn(
@@ -182,6 +187,8 @@ function carrying(
   report.push(...unrepointedSaid(reached.left, dry))
   if (reached.unread !== null) report.push(reached.unread)
   report.push(...outsideSaid(reached.outside, reached.reaching, dry))
+  report.push(...parentingSaid(reached.parented, dry))
+  if (reached.unparented !== null) report.push(reached.unparented)
   return report
 }
 
@@ -305,6 +312,26 @@ export function move(argv: readonly string[], given: Given): Answer {
     carries.push({ was: path, now: path, from: blobIdOf(held) })
     changes.push({ path, body: new TextEncoder().encode(next), carried: true })
   }
+  const parented = parentingOver(root, sided.sides, moved, valuesOver(bodyText))
+  if ("refusals" in parented) return answering([], parented.refusals, 1)
+  const staged = new Map<string, string>()
+  for (const one of changes) {
+    const held = one.body === null ? null : textOf(one.body)
+    if (held !== null) staged.set(one.path, held)
+  }
+  const edited = editedFor(parented.parentings, (at, was) => staged.get(at) ?? bodyText(was))
+  if ("refusals" in edited) return answering([], edited.refusals, 1)
+  for (const one of edited.edits) {
+    const body = new TextEncoder().encode(one.text)
+    const at = changes.findIndex((held) => held.path === one.path)
+    if (at !== -1) {
+      changes[at] = { path: one.path, body, carried: true }
+      continue
+    }
+    const held = bodyAt(root, base, one.was)
+    if (held !== null) carries.push({ was: one.path, now: one.path, from: blobIdOf(held) })
+    changes.push({ path: one.path, body, carried: true })
+  }
   const left = unrepointedIn(renamings, moved, () => everyPath(root), changes, bodyText)
   const named = new Map([...spread.folders.map((one) => [one.from, one.to] as const), ...moved])
   const outside = outsideIn(root, base, named, new Set(changes.map((one) => one.path)))
@@ -317,6 +344,8 @@ export function move(argv: readonly string[], given: Given): Answer {
     outside: outside.paths,
     reaching: outside.reaching,
     left,
+    parented: parented.parentings,
+    unparented: parented.unread,
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
