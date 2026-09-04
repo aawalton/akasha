@@ -27,6 +27,11 @@ export const dallaDraftIntoAPatch = {
     },
     { statement: "A rename landing under an open patch leaves that patch coherent." },
     { statement: "A seat and its subagents draft against one worktree of their own." },
+    {
+      statement: "A mechanical change goes through a patch and applies it in the same call.",
+      workingMemory:
+        "Alan settled this shape: mechanical commands work through patches as authored ones do, applying rather than drafting. Change kinds are live: `calling` reads `changeKindSlug` off the command page and hands a `Kind` carrying `runsChecks` and `runsWarrants` read off the kind page. A mechanical command gets NO_GATE and stamps `Checks-bypassed:` on the commit. 50 commands name that kind, among them `move`, `refactor` and `remove`, which agents type. None goes through a patch.",
+    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
