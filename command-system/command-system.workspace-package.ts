@@ -26,7 +26,6 @@ export const commandSystem = {
     "module/argument-narrowing",
     "module/landing",
     "module/cli",
-    "module/ops-calling",
     "module/asking",
     "module/commit-reading",
     "module/committing",
