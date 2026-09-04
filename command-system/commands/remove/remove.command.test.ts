@@ -124,7 +124,7 @@ test("a top folder holding nothing goes, and one inside `.git` never does", asyn
   const root = repoWith({ [HELD]: BODY })
   emptyIn(root, "husk")
   emptyIn(root, ".git/empty")
-  expect(await removing(root, naming("husk")).code).toBe(0)
+  expect((await removing(root, naming("husk"))).code).toBe(0)
   expect(there(root, "husk")).toBe(false)
   expect(await removing(root, naming(".git/empty")).refusals[0]).toContain(
     "holds the repository itself"
@@ -199,7 +199,7 @@ test("a path named twice is refused", async () => {
 
 test("a directory named opens onto every file git holds under it", async () => {
   const root = repoWith({ [OUTSIDE]: BODY, "temper/one/deep/under.ts": BODY, [HELD]: BODY })
-  expect(await removing(root, naming("temper/one")).refusals).toEqual([])
+  expect((await removing(root, naming("temper/one"))).refusals).toEqual([])
   expect(git(root, ["ls-files"]).trim()).toBe(HELD)
   expect(there(root, "temper/one")).toBe(false)
   expect(there(root, "temper")).toBe(true)
@@ -208,7 +208,7 @@ test("a directory named opens onto every file git holds under it", async () => {
 test("a folder at the top of the repository is refused, and so is a path inside .git", async () => {
   const root = repoWith({ [HELD]: BODY, [OUTSIDE]: BODY })
   expect(await removing(root, naming("temper")).refusals[0]).toContain("at the top of the")
-  expect(await removing(root, naming("akasha")).code).toBe(1)
+  expect((await removing(root, naming("akasha"))).code).toBe(1)
   expect(await removing(root, naming(".git/config")).refusals[0]).toContain("`.git/`")
   expect(git(root, ["ls-files"]).trim()).toBe(`${HELD}\n${OUTSIDE}`)
 })
@@ -360,7 +360,7 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
 
 test("the root manifest loses a row only where nothing else moved the manifest meanwhile", async () => {
   const clean = manifested()
-  expect(await removing(clean, naming(WORKSPACE)).refusals).toEqual([])
+  expect((await removing(clean, naming(WORKSPACE))).refusals).toEqual([])
   expect(manifestIn(clean)).not.toContain(WORKSPACE)
 
   const root = manifested()

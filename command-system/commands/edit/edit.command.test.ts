@@ -156,7 +156,7 @@ test("a body is overwritten only where what is on disk is the body its writer re
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
   const on = [{ path: "akasha/one.ts", was: bytes("alpha\n") }]
-  expect(await landingAsked(givenIn(root), { ...asked, unmoved: on }).code).toBe(0)
+  expect((await landingAsked(givenIn(root), { ...asked, unmoved: on })).code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("worked out\n")
 })
 
