@@ -4,7 +4,7 @@ export const theCloudflareApiTokenNowStandsEncryptedTwiceInsideAkasha = {
   id: "01a0683c-3c7f-7b8e-8125-a4ac2c6176ec",
   pageTypeSlug: "finding",
   slug: "the-cloudflare-api-token-now-stands-encrypted-twice-inside-akasha",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "workspace-package/service-system",
   claim:
     "Two encrypted copies of one credential now stand inside akasha. The page at akasha/service-system/secrets/pages/cloudflare-api-token.secret.ts places a value in the cluster secret `cloudflare-api-token` under `api-token`, and cluster-secrets/cloudflare-api-token.k8s-secret.sops.yaml is a whole Secret manifest of that name carrying that key. Whether they hold the same value cannot be settled without decrypting both, which Alan's ruling forbids, so neither was removed.",
   evidence:

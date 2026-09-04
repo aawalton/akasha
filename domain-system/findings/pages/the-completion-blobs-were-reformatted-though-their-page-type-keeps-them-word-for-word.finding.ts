@@ -4,7 +4,7 @@ export const theCompletionBlobsWereReformattedThoughTheirPageTypeKeepsThemWordFo
   id: "01a0658a-ca87-75b8-ada1-bc331a0c67fa",
   pageTypeSlug: "finding",
   slug: "the-completion-blobs-were-reformatted-though-their-page-type-keeps-them-word-for-word",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/temper",
   claim:
     "The temper-character-thing page type says a completion file is kept word for word as the game handed the file over, and 20 of the 24 completion blobs carried in were pretty-printed on the way, so that is false of them. No data was lost: every difference is whitespace, and the one player settings blob differs the same way.",
   evidence:

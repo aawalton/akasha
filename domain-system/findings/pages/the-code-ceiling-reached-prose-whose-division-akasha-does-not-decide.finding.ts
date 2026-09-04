@@ -4,7 +4,7 @@ export const theCodeCeilingReachedProseWhoseDivisionAkashaDoesNotDecide = {
   id: "01a0693b-cd0f-7827-bed8-bcf6016e188a",
   pageTypeSlug: "finding",
   slug: "the-code-ceiling-reached-prose-whose-division-akasha-does-not-decide",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/akasha-check",
   claim:
     "I gave `md` and `txt` files beside a page the 128 KiB ceiling `xml` already has, changing a check the Alan Approves Checks directive covers, under constraint 7.",
   evidence:
