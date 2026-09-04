@@ -38,10 +38,7 @@ function aliases(): string {
     "alias gc='git commit -m'",
     `alias gca='git add . && git commit -m'`,
     `alias gcc='git add . && git commit -m "checkpoint"'`,
-    // MIGRATION ONLY, added 2026-09-03. This read `alias gp='git push'`. A hook is given the
-    // words of a tool call and reads no git call out of `gp`, so the only place `gp` can be
-    // refused is here at the alias. Put `alias gp='git push'` back when the migration is done.
-    `alias gp='echo "gp is off for the akasha migration: commits stay local and nothing is pushed to the remote. Your commit is already durable in this checkout."'`,
+    "alias gp='git push'",
     "alias gl='git pull'",
     "alias gg='git log'",
     "alias gcb='git checkout -b'",
