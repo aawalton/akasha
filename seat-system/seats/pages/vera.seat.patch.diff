@@ -44,3 +44,41 @@ index 34bf3b55e05584e6de9448cf1aafc138aeed7c7c..5f67bf3cb6656b1e962c9df5041d527e
      outside: outside.paths,
      reaching: outside.reaching,
      left,
+diff --git a/commands/move/move.command.test.ts b/commands/move/move.command.test.ts
+index 5017cb1b78ec3360ff14f0bdb1f2d6a9c1837cf6..77cef65313457e32140636ac99cdc331504d422b 100644
+--- a/commands/move/move.command.test.ts
++++ b/commands/move/move.command.test.ts
+@@ -171,13 +171,15 @@ test("a file moving in the same act is repointed from its body, not as an import
+   expect(told(said)).toContain("no file naming what moved needed repointing")
+ })
+ 
+-test("an unanswerable index leaves the importers as they stand and says so", async () => {
++test("an unanswerable index refuses the move rather than leaving what imports it dangling", async () => {
+   const root = codeWorld()
++  const was = head(root)
+   const said = await move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
+-  expect(said.refusals).toEqual([])
++  expect(why(said)).toContain("could not be answered")
++  expect(why(said)).toContain("akasha index refresh")
++  expect(there(root, TARGET)).toBe(true)
+   expect(bodyIn(root, HOLDER)).toBe(CODE)
+-  expect(told(said)).toContain("could not be answered")
+-  expect(told(said)).toContain("none were repointed")
++  expect(head(root)).toBe(was)
+ })
+ 
+ test("a rename restates its slug, repoints what names it, and names what it left", async () => {
+diff --git a/commands/move/move.command.ts b/commands/move/move.command.ts
+index e7d1034a9e1e8b201758cd6e617404cebcce86f8..d4dc1cf82df81f842b8723559c29dd4e6d93a2dd 100644
+--- a/commands/move/move.command.ts
++++ b/commands/move/move.command.ts
+@@ -248,8 +248,7 @@ export const move = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An index that cannot answer what imports a path leaves those files unchanged and says so.",
++      statement: "An index that cannot answer what imports a path refuses the move.",
+     },
+     {
+       invariantKind: "constraint",
