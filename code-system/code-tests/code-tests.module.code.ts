@@ -214,11 +214,23 @@ function reaching<Held>(root: string, named: string, act: () => Held): Held {
   }
 }
 
-function rootMade(): string {
+const ROOT_NAME = "akasha"
+
+function heldMade(): string {
   try {
     return mkdtempSync(join(HOLD, PREFIX))
   } catch (thrown) {
     throw new Error(`no world could be made under ${HOLD} — ${saidOf(thrown)}`)
+  }
+}
+
+function rootMade(held: string): string {
+  const root = join(held, ROOT_NAME)
+  try {
+    mkdirSync(root, { recursive: true })
+    return root
+  } catch (thrown) {
+    throw new Error(`no world could be made under ${held} — ${saidOf(thrown)}`)
   }
 }
 
@@ -228,7 +240,8 @@ export function worldOf(
   at: (path: string) => Uint8Array | null,
   filed: readonly Filing[] | null
 ): World {
-  const root = rootMade()
+  const held = heldMade()
+  const root = rootMade(held)
   try {
     for (const one of paths) {
       const bytes = reaching(root, `the body handed in for \`${one}\` would not be read`, () =>
@@ -258,13 +271,13 @@ export function worldOf(
     }
     reaching(root, `the modules under ${from} would not be linked`, () => modulesInto(from, root))
   } catch (thrown) {
-    rmSync(root, { recursive: true, force: true })
+    rmSync(held, { recursive: true, force: true })
     throw thrown
   }
   return {
     root,
     sweep: (): undefined => {
-      rmSync(root, { recursive: true, force: true })
+      rmSync(held, { recursive: true, force: true })
     },
   }
 }
