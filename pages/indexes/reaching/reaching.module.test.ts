@@ -36,6 +36,39 @@ test("a page type admits a target every page type it extends up to also admits",
   expect(known.admitting("page-property")).toEqual([])
 })
 
+function twoParents(): { readonly root: string; readonly repo: string } {
+  const repo = scratch.rootFor("akasha-reaching-repo-")
+  const root = scratch.rootFor("akasha-reaching-root-")
+  const typed = (slug: string, above: readonly string[], id: string): undefined => {
+    const value = { id, pageTypeSlug: "page-type", slug, extendsSlug: above }
+    writeFileSync(
+      join(repo, `${slug}.page-type.ts`),
+      `export const it = ${JSON.stringify(value)}\n`
+    )
+    mkdirSync(join(root, "identity/page-type/slug"), { recursive: true })
+    writeFileSync(
+      join(root, `identity/page-type/slug/${slug}.jsonl`),
+      `${JSON.stringify({ path: `${slug}.page-type.ts`, id })}\n`
+    )
+  }
+  typed("module", ["domain"], "1")
+  typed("page-property", ["page"], "2")
+  typed("computed-property", ["module", "page-property"], "3")
+  return { root, repo }
+}
+
+test("a page type naming two parents admits what either of the two admits", () => {
+  const { root, repo } = twoParents()
+  const known = knownAt(root, repo)
+
+  expect([...known.admitting("domain")].sort()).toEqual(["computed-property", "domain", "module"])
+  expect([...known.admitting("page")].sort()).toEqual([
+    "computed-property",
+    "page",
+    "page-property",
+  ])
+})
+
 test("a name carrying no page type reaches the one page admitting its property's target", () => {
   expect(reaches("c", "domain", shaped({ "module/c": C }))).toEqual({ id: C })
 })

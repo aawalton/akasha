@@ -1,7 +1,7 @@
 import { addressIn } from "@akasha/pages-system/page-address"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { propertiesIfNamedOf } from "@akasha/pages-system/page-type-properties"
-import { slugOf, textAt, type Value } from "@akasha/pages-system/page-value"
+import { slugOf, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
@@ -84,15 +84,15 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     return made
   }
 
-  const above = new Map<string, string>()
+  const above = new Map<string, readonly string[]>()
   for (const one of everyOfType(reading, "page-type")) {
     const value = pageOf(one.path)
     if (value === null) continue
     const slug = textAt(value, "slug")
-    const extendsSlug = textAt(value, "extendsSlug")
-    if (slug !== null && extendsSlug !== null) above.set(slug, slugOf(extendsSlug))
+    const named = slugsIn(value["extendsSlug"])
+    if (slug !== null && named.length > 0) above.set(slug, named)
   }
-  const everyType = new Set<string>([...above.keys(), ...above.values()])
+  const everyType = new Set<string>([...above.keys(), ...[...above.values()].flat()])
 
   const fields = new Map<string, readonly string[]>()
   for (const one of everyOfType(reading, RECORD)) {
@@ -125,14 +125,16 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     const found: string[] = []
     for (const one of everyType) {
       const walked = new Set<string>()
-      let here: string | undefined = one
-      while (here !== undefined && !walked.has(here)) {
+      const waiting: string[] = [one]
+      for (let at = 0; at < waiting.length; at += 1) {
+        const here = waiting[at]
+        if (here === undefined || walked.has(here)) continue
         if (here === wanted) {
           found.push(one)
           break
         }
         walked.add(here)
-        here = above.get(here)
+        for (const up of above.get(here) ?? []) waiting.push(up)
       }
     }
     return found
