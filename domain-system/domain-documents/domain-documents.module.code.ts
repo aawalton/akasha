@@ -7,15 +7,11 @@ export const DOMAIN_SLUG_KEY = "slug"
 
 export const DOMAIN_PARENTS_KEY = "domain-parent-slug"
 
-export const PERSONA_CHAMPION_KEY = "persona-champion-slug"
-
 export const FILE_KIND_EXTENSION_KEY = "extension"
 
 export const PAGE_BODY_SECTION_HEADING_KEY = "heading"
 
 export const FILE_PURPOSE_ENDING_KEY = "ending"
-
-export const CHAMPIONED_DOMAIN_KEY = "championed-domain-slug"
 
 export interface Documents {
   frontmatterOf: (relPath: string) => Frontmatter | null
