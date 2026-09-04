@@ -166,12 +166,11 @@ export type Parting = {
 
 export type Parented = Parting | { readonly refusals: readonly string[] }
 
-function unheldSaid(path: string, address: string, crossed: string, side: string): string {
+function unheldSaid(path: string, address: string, crossed: string): string {
   return (
-    `${path} ${side} a folder no page holds — ${PARENT_SPELLING}, and no page's own file is in ` +
-    `${crossed} or in any folder above them up to the repository root, so nothing here could ` +
-    `name \`${address}\` among its parts. Carry the page that is to hold that folder there first, ` +
-    "or name a destination a page already holds"
+    `${path} was in a folder no page holds — ${PARENT_SPELLING}, and no page's own file is in ` +
+    `${crossed} or in any folder above them up to the repository root, so which page would stop ` +
+    `naming \`${address}\` among its parts cannot be told, and nothing here is repointed`
   )
 }
 
@@ -206,7 +205,7 @@ export function partedFor(
   }
   if (target.holders.some((one) => holdsPart(placing, one, named))) return NOTHING
   const before = holdersFor({ ...placing, moved: EMPTY }, dirname(from), from)
-  if ("unheld" in before) return { refusals: [unheldSaid(from, address, before.unheld, "was in")] }
+  if ("unheld" in before) return { refusals: [unheldSaid(from, address, before.unheld)] }
   const leaving = before.holders.find((one) => holdsPart(placing, one, named))
   if (leaving === undefined) return { refusals: [outOf(from, address, before.holders)] }
   if (target.holders.some((one) => one.was === leaving.was)) return NOTHING
