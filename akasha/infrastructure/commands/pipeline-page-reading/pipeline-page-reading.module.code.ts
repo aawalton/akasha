@@ -1,14 +1,13 @@
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { type PageQuery, UNREACHED } from "@akasha/pages-system/page-query-shape"
-import { answer } from "@tools/lib/page-query"
+import { asking, type Query, type Test } from "@akasha/pages-system-service/asking"
 import {
   pipelineNotFoundMessage,
   pipelineSubjectOf,
-  type Row,
 } from "../pipeline-subject/pipeline-subject.module.code.ts"
 
-export type { Row }
+export type Row = Record<string, unknown>
 
 const PIPELINE = "pipeline"
 
@@ -18,16 +17,14 @@ const STEP = "step"
 
 const STEP_PAGE_LIMIT = 2000
 
+type Where = Readonly<Record<string, Test>>
+
 function asString(value: unknown): string | undefined {
   return typeof value === "string" ? value : undefined
 }
 
 function asNumber(value: unknown): number | undefined {
   return typeof value === "number" ? value : undefined
-}
-
-function camelKey(key: string): string {
-  return key.replace(/-([a-z0-9])/g, (_, c: string) => c.toUpperCase())
 }
 
 function nativeScalar(value: unknown): unknown {
@@ -40,7 +37,7 @@ function nativeScalar(value: unknown): unknown {
 
 function rowFromValues(values: Readonly<Record<string, unknown>>): Row {
   const out: Row = {}
-  for (const [key, value] of Object.entries(values)) out[camelKey(key)] = nativeScalar(value)
+  for (const [key, value] of Object.entries(values)) out[key] = nativeScalar(value)
   return out
 }
 
@@ -76,20 +73,24 @@ export function optionalSeqRef(row: Row, key: string): number | undefined {
   return Number.isInteger(parsed) ? parsed : undefined
 }
 
-function askRows(roots: Roots, query: PageQuery, context: string): readonly Row[] {
-  const found = answer(roots, query)
-  if (found === null) throw new OperationalError(`${context}: \`${query.pageType}\` ${UNREACHED}`)
-  return found.rows.map((row) => rowFromValues(row.values))
+function askRows(roots: Roots, query: Query, context: string): readonly Row[] {
+  const asked = asking(rootFor(roots, AKASHA), query)
+  if ("refused" in asked) {
+    throw new OperationalError(
+      `${context}: \`${query.pageTypeSlug}\` went unread — ${asked.refused}`
+    )
+  }
+  return asked.rows.map(rowFromValues)
 }
 
-function askRow(roots: Roots, query: PageQuery, context: string): Row | null {
+function askRow(roots: Roots, query: Query, context: string): Row | null {
   return askRows(roots, query, context)[0] ?? null
 }
 
 export function getPipelineBySeq(roots: Roots, seq: number): Row {
   const row = askRow(
     roots,
-    { pageType: PIPELINE, where: [{ key: "seq", is: String(seq) }], limit: 1 },
+    { pageTypeSlug: PIPELINE, where: { seq: { is: String(seq) } }, limit: 1 },
     "pipeline lookup"
   )
   if (row === null) throw new DataError(pipelineNotFoundMessage(seq))
@@ -107,15 +108,15 @@ export interface ListPipelinesArgs {
 }
 
 export function listPipelines(roots: Roots, args: ListPipelinesArgs): readonly Row[] {
-  const where = [
-    ...(args.branch === undefined ? [] : [{ key: "branch", is: args.branch }]),
-    ...(args.status === undefined ? [] : [{ key: "status", is: args.status }]),
-  ]
+  const where: Where = {
+    ...(args.branch === undefined ? {} : { branch: { is: args.branch } }),
+    ...(args.status === undefined ? {} : { status: { is: args.status } }),
+  }
   return askRows(
     roots,
     {
-      pageType: PIPELINE,
-      ...(where.length === 0 ? {} : { where }),
+      pageTypeSlug: PIPELINE,
+      ...(Object.keys(where).length === 0 ? {} : { where }),
       sortBy: "seq",
       descending: true,
       limit: args.limit,
@@ -130,11 +131,11 @@ export interface ListWorkflowsArgs {
 }
 
 export function listWorkflowsForPipeline(roots: Roots, args: ListWorkflowsArgs): readonly Row[] {
-  const where = [
-    { key: "pipeline-seq", is: String(args.pipelineSeq) },
-    ...(args.status === undefined ? [] : [{ key: "status", is: args.status }]),
-  ]
-  return askRows(roots, { pageType: WORKFLOW, where, limit: 500 }, "workflow list")
+  const where: Where = {
+    pipelineSeq: { is: String(args.pipelineSeq) },
+    ...(args.status === undefined ? {} : { status: { is: args.status } }),
+  }
+  return askRows(roots, { pageTypeSlug: WORKFLOW, where, limit: 500 }, "workflow list")
 }
 
 export interface ListStepsArgs {
@@ -165,11 +166,11 @@ export function listStepsForPipeline(
     ])
   )
 
-  const where = [
-    { key: "pipeline-seq", is: String(pipelineSeq) },
-    ...(args.status === undefined ? [] : [{ key: "status", is: args.status }]),
-  ]
-  const rows = askRows(roots, { pageType: STEP, where, limit: STEP_PAGE_LIMIT }, "step list")
+  const where: Where = {
+    pipelineSeq: { is: String(pipelineSeq) },
+    ...(args.status === undefined ? {} : { status: { is: args.status } }),
+  }
+  const rows = askRows(roots, { pageTypeSlug: STEP, where, limit: STEP_PAGE_LIMIT }, "step list")
 
   return rows.flatMap((row) => {
     const workflowSeq = optionalSeqRef(row, "workflowSeq")
@@ -199,8 +200,8 @@ export function listStepRunsByName(
   const stepRows = askRows(
     roots,
     {
-      pageType: STEP,
-      where: [{ key: "title", is: args.stepName }],
+      pageTypeSlug: STEP,
+      where: { title: { is: args.stepName } },
       sortBy: "seq",
       descending: true,
       limit: args.limit,
@@ -248,17 +249,17 @@ function uniqueSeqRefs(rows: readonly Row[], key: string): readonly number[] {
 
 function pagesBySeq(
   roots: Roots,
-  pageType: string,
+  pageTypeSlug: string,
   seqs: readonly number[],
   context: string
 ): ReadonlyMap<number, Row> {
   if (seqs.length === 0) return new Map()
   const rows = askRows(
     roots,
-    { pageType, where: [{ key: "seq", in: seqs.map(String) }], limit: seqs.length },
+    { pageTypeSlug, where: { seq: { in: seqs.map(String) } }, limit: seqs.length },
     context
   )
-  return new Map(rows.map((row) => [requireNumber(row, "seq", `${pageType} row`), row]))
+  return new Map(rows.map((row) => [requireNumber(row, "seq", `${pageTypeSlug} row`), row]))
 }
 
 export function resolveStepPodName(
@@ -271,11 +272,11 @@ export function resolveStepPodName(
   const workflow = askRow(
     roots,
     {
-      pageType: WORKFLOW,
-      where: [
-        { key: "pipeline-seq", is: String(pipelineSeq) },
-        { key: "slug", is: workflowName },
-      ],
+      pageTypeSlug: WORKFLOW,
+      where: {
+        pipelineSeq: { is: String(pipelineSeq) },
+        slug: { is: workflowName },
+      },
       limit: 1,
     },
     "workflow lookup"
@@ -287,11 +288,11 @@ export function resolveStepPodName(
   const step = askRow(
     roots,
     {
-      pageType: STEP,
-      where: [
-        { key: "workflow-seq", is: String(workflowSeq) },
-        { key: "title", is: stepName },
-      ],
+      pageTypeSlug: STEP,
+      where: {
+        workflowSeq: { is: String(workflowSeq) },
+        title: { is: stepName },
+      },
       limit: 1,
     },
     "step lookup"
