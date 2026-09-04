@@ -1,7 +1,7 @@
 import type { Seat } from "../seat.page-type.ts"
 
 export const astra = {
-  id: "01a06cc1-b678-7000-8e58-08f45fcc4f22",
+  id: "01a06cc1-b8b6-7000-9b5b-981f71892744",
   pageTypeSlug: "seat",
   slug: "astra",
   personaSlug: "astra",
