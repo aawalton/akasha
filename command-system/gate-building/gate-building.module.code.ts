@@ -49,7 +49,7 @@ export const CHECKING_AT = pathOf(CHECKING_IN)
 
 export const INDEXING_AT = pathOf(INDEXING_IN)
 
-export const NO_GATE: Judging = { named: [], checksFor: () => [], over: () => [] }
+export const NO_GATE: Judging = { named: [], checksFor: () => [], over: async () => [] }
 
 export type Built = { readonly gate: Judging } | { readonly broken: string }
 

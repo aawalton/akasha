@@ -34,10 +34,10 @@ afterAll(scratch.sweep)
 
 const CHECKED = { slug: "change-checked", runsChecks: true, runsWarrants: false }
 
-test("a report that could not be built leaves the landing standing, and says so", () => {
+test("a report that could not be built leaves the landing standing, and says so", async () => {
   const root = repoWith()
   const was = headOf(root)
-  const said = landingAsked(givenIn(root), asking({}))
+  const said = await landingAsked(givenIn(root), asking({}))
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
   expect(headOf(root)).not.toBe(was)
@@ -48,10 +48,10 @@ test("a report that could not be built leaves the landing standing, and says so"
   )
 })
 
-test("a report that could not be built over a removal leaves the removal standing", () => {
+test("a report that could not be built over a removal leaves the removal standing", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   const was = headOf(root)
-  const said = landingAsked(
+  const said = await landingAsked(
     givenIn(root),
     asking({ changes: [{ path: "akasha/two.ts", body: null }] })
   )
@@ -61,10 +61,13 @@ test("a report that could not be built over a removal leaves the removal standin
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
 })
 
-test("a report that could not be built over a broken glass leaves the stamp on the commit", () => {
+test("a report that could not be built over a broken glass leaves the stamp on the commit", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const said = landingAsked(givenIn(root), asking({ glass: "the checks are themselves broken" }))
+  const said = await landingAsked(
+    givenIn(root),
+    asking({ glass: "the checks are themselves broken" })
+  )
   expect(said.code).toBe(0)
   expect(said.report).toContain(`committed as ${headOf(root)}`)
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
@@ -72,10 +75,10 @@ test("a report that could not be built over a broken glass leaves the stamp on t
   )
 })
 
-test("a landing that threw before its commit is operational rather than unclassified", () => {
+test("a landing that threw before its commit is operational rather than unclassified", async () => {
   const root = repoWith()
   const was = headOf(root)
-  const said = landingAsked(givenIn(root), blocked(root))
+  const said = await landingAsked(givenIn(root), blocked(root))
   expect(said.code).toBe(3)
   expect(said.report).toEqual([])
   expect(said.refusals.join("\n")).toContain("nothing was committed")
@@ -83,9 +86,9 @@ test("a landing that threw before its commit is operational rather than unclassi
   expect(headOf(root)).toBe(was)
 })
 
-test("a landing that threw before its commit puts back what it wrote", () => {
+test("a landing that threw before its commit puts back what it wrote", async () => {
   const root = repoWith()
-  const said = landingAsked(givenIn(root), blocked(root))
+  const said = await landingAsked(givenIn(root), blocked(root))
   expect(said.refusals.join("\n")).toContain("what was written was put back")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(git(root, ["ls-tree", "--name-only", "HEAD", "akasha/two.ts"]).trim()).toBe("")

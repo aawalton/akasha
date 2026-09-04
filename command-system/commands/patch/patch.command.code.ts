@@ -1,5 +1,5 @@
 import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
-import { agentPathOf } from "@akasha/context/warranting"
+import { agentPathOf } from "@akasha/context-system/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { applied } from "../../applying/applying.module.code.ts"
 import {
@@ -205,12 +205,12 @@ function bodyIn(
   return { body }
 }
 
-export function resolving(
+export async function resolving(
   given: Given,
   page: string,
   argv: readonly string[],
   piping: Piping
-): Answer {
+): Promise<Answer> {
   const unknown = unknownIn(argv, RESOLVING, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const named = onePathIn(given.root, argv, RESOLVING)
@@ -227,7 +227,7 @@ export function resolving(
     base: baseOf(given.root),
     edits: formatting.changes,
   })
-  const judged = built.gate.over(change)
+  const judged = await built.gate.over(change)
   if (judged.length > 0) {
     return {
       report: [],
@@ -255,7 +255,11 @@ export function resolving(
   }
 }
 
-export function applying(given: Given, page: string, argv: readonly string[]): Answer {
+export async function applying(
+  given: Given,
+  page: string,
+  argv: readonly string[]
+): Promise<Answer> {
   const unknown = unknownIn(argv, APPLYING, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const message = messageIn(argv, APPLYING)
@@ -272,7 +276,7 @@ export function applying(given: Given, page: string, argv: readonly string[]): A
   const said0 = message.message ?? WHY
   const why = broken === null ? said0 : bypassedIn(said0, broken)
   try {
-    const said = applied(given.root, page, given.agentId, why, gate, given.writer)
+    const said = await applied(given.root, page, given.agentId, why, gate, given.writer)
     if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
     return {
       report: [
@@ -291,7 +295,11 @@ export function applying(given: Given, page: string, argv: readonly string[]): A
   }
 }
 
-export function patching(argv: readonly string[], given: Given, piping: Piping): Answer {
+export async function patching(
+  argv: readonly string[],
+  given: Given,
+  piping: Piping
+): Promise<Answer> {
   const act = argv[0]
   if (act !== undefined && !ACTS.includes(act)) {
     return mistaking([
@@ -304,10 +312,10 @@ export function patching(argv: readonly string[], given: Given, piping: Piping):
   if (act === undefined) return showing(given.root, page)
   if (act === DROP) return dropping(given.root, page)
   if (act === SHOW) return showingBody(given.root, page, rest)
-  if (act === RESOLVE) return resolving(given, page, rest, piping)
-  return applying(given, page, rest)
+  if (act === RESOLVE) return await resolving(given, page, rest, piping)
+  return await applying(given, page, rest)
 }
 
-export function patch(argv: readonly string[], given: Given): Answer {
+export function patch(argv: readonly string[], given: Given): Promise<Answer> {
   return patching(argv, given, inputIn)
 }

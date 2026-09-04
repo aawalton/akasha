@@ -223,7 +223,11 @@ function reporting(counting: readonly Counting[]): Answer {
   }
 }
 
-export function replacing(argv: readonly string[], given: Given, piping: Piping): Answer {
+export async function replacing(
+  argv: readonly string[],
+  given: Given,
+  piping: Piping
+): Promise<Answer> {
   const unknown = unknownIn(argv, VALUED, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const named = pathsIn(argv)
@@ -259,7 +263,7 @@ export function replacing(argv: readonly string[], given: Given, piping: Piping)
     unmoved: held.unmoved,
     saying: () => held.counting.map((one) => `${one.path} — ${counted(one.found, "replacement")}`),
   }
-  return landingAsked(given, asked)
+  return await landingAsked(given, asked)
 }
 
 export function replace(argv: readonly string[], given: Given): Answer {

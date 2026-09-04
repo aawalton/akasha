@@ -21,6 +21,7 @@ import {
   BROKEN,
   bytes,
   CARRIED,
+  committedAgain,
   DRAFT,
   filedFor,
   git,
@@ -29,6 +30,7 @@ import {
   identityAmong,
   judgingThat,
   LINE,
+  landedMoving,
   NUL,
   PAGE,
   pageRepo,
@@ -84,7 +86,7 @@ test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for 
   readingEnded()
 })
 
-test("no git outlives a landing, nor one a check throws through", () => {
+test("no git outlives a landing, nor one a check throws through", async () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   const reading = judgingThat("reading", (change) => {
     expect(change.after("one.txt")).not.toBeNull()
@@ -96,56 +98,61 @@ test("no git outlives a landing, nor one a check throws through", () => {
     expect(gitOver(root).length).toBe(1)
     throw new Error("thrown for the test")
   })
-  landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", reading)
+  await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", reading)
   expect(gitOver(root)).toEqual([])
-  expect(() => landing(root, [{ path: "two.txt", body: null }], "held", throwing)).toThrow(
+  await expect(landing(root, [{ path: "two.txt", body: null }], "held", throwing)).rejects.toThrow(
     "thrown for the test"
   )
   expect(gitOver(root)).toEqual([])
   expect(existsSync(join(root, "two.txt"))).toBe(true)
 })
 
-test("a landing files the index entries its page implies, with no rebuild run by hand", () => {
+test("a landing files the index entries its page implies, with no rebuild run by hand", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  landing(root, CARRIED, "held", ADMITS)
-  const said = landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  await landing(root, CARRIED, "held", ADMITS)
+  const said = await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   const filed = everythingFiled(root)
   for (const at of filedFor(ID)) expect(filed).toContain(`/${at} ${LINE}\n`)
 })
 
-test("a landing that takes a page away takes its index entries with it", () => {
+test("a landing that takes a page away takes its index entries with it", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  landing(root, CARRIED, "held", ADMITS)
-  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   expect(idFiledIn(root, ID)).toBe(true)
-  landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
+  await landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
   expect(idFiledIn(root, ID)).toBe(false)
   expect(listedFiledIn(root, "domain", "a")).toBe(false)
   expect(identitiesListedIn(root, "domain")).toBe(false)
 })
 
-test("a landing no check judged keeps the index all the same", () => {
+test("a landing no check judged keeps the index all the same", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  landing(root, CARRIED, "held", ADMITS)
-  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
+  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
   expect(idFiledIn(root, ID)).toBe(true)
 })
 
-test("a refused change leaves the index as it found it, as it leaves the worktree", () => {
+test("a refused change leaves the index as it found it, as it leaves the worktree", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  landing(root, CARRIED, "held", ADMITS)
-  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const was = everythingFiled(root)
-  const said = landing(root, [{ path: "akasha/b.domain.ts", body: bytes(A) }], "held", REFUSES)
+  const said = await landing(
+    root,
+    [{ path: "akasha/b.domain.ts", body: bytes(A) }],
+    "held",
+    REFUSES
+  )
   expect("refusals" in said).toBe(true)
   expect(everythingFiled(root)).toEqual(was)
 })
 
-test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", () => {
+test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  landing(root, CARRIED, "held", ADMITS)
-  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const rebuilt = scratch.rootFor("akasha-rebuilt-")
   rebuiltFrom(join(root, "akasha"), rebuilt, root)
   expect(identityAmong(everythingFiled(root)).length).toBeGreaterThan(0)
@@ -153,26 +160,26 @@ test("the index two landings leave is the index a rebuild from those pages build
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everythingFiled(root)))
 })
 
-test("a refused change leaves nothing behind", () => {
+test("a refused change leaves nothing behind", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
-  const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", REFUSES)
+  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", REFUSES)
   expect("refusals" in said).toBe(true)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
 })
 
-test("a refusal says nothing was written and how many changes were asked for", () => {
+test("a refusal says nothing was written and how many changes were asked for", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", REFUSES)
+  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", REFUSES)
   const refusals = "refusals" in said ? said.refusals : []
   expect(refusals[refusals.length - 1]).toContain("nothing was written")
   expect(refusals[refusals.length - 1]).toContain("land together or not at all")
 })
 
-test("a change that passes is written and committed onto the base it was judged against", () => {
+test("a change that passes is written and committed onto the base it was judged against", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   if ("refusals" in said) return
   expect(readFileSync(join(root, "new.txt"), "utf8")).toBe("proposed")
@@ -181,9 +188,9 @@ test("a change that passes is written and committed onto the base it was judged 
   expect(git(root, ["rev-parse", "HEAD^"]).trim()).toBe(said.base)
 })
 
-test("a change that takes a file away removes it and commits the removal", () => {
+test("a change that takes a file away removes it and commits the removal", async () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
-  const said = landing(root, [{ path: "two.txt", body: null }], "held", ADMITS)
+  const said = await landing(root, [{ path: "two.txt", body: null }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   if ("refusals" in said) return
   expect(existsSync(join(root, "two.txt"))).toBe(false)
@@ -191,32 +198,32 @@ test("a change that takes a file away removes it and commits the removal", () =>
   expect(git(root, ["ls-files"]).trim()).toBe("one.txt")
 })
 
-test("asking for nothing is refused rather than committed empty", () => {
+test("asking for nothing is refused rather than committed empty", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
-  const said = landing(root, [], "held", ADMITS)
+  const said = await landing(root, [], "held", ADMITS)
   expect("refusals" in said).toBe(true)
   expect(baseOf(root)).toBe(was)
 })
 
-test("a change asking for what already stands commits nothing", () => {
+test("a change asking for what already stands commits nothing", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
-  const said = landing(root, [{ path: "one.txt", body: bytes("committed") }], "held", ADMITS)
+  const said = await landing(root, [{ path: "one.txt", body: bytes("committed") }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   if ("refusals" in said) return
   expect(said.commit).toBeNull()
   expect(baseOf(root)).toBe(was)
 })
 
-test("the checks are shown every path the change touches", () => {
+test("the checks are shown every path the change touches", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const seen: string[] = []
   const watching = judgingThat("watching", (change) => {
     seen.push(...change.changed)
     return []
   })
-  landing(
+  await landing(
     root,
     [
       { path: "b.txt", body: bytes("one") },
@@ -228,47 +235,29 @@ test("the checks are shown every path the change touches", () => {
   expect(seen).toEqual(["a.txt", "b.txt"])
 })
 
-test("a change read against a commit that moved a path it carries is refused unwritten", () => {
+test("a change read against a commit that moved a path it carries is refused unwritten", async () => {
   const root = pagesRepo()
   const read = baseOf(root)
-  writeFileSync(join(root, "akasha/a.domain.ts"), `${A}\n`)
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "second"])
-  const said = landing(
-    root,
-    [{ path: "akasha/a.domain.ts", body: bytes("moved") }],
-    "m",
-    ADMITS,
-    null,
-    read
-  )
+  committedAgain(root, "akasha/a.domain.ts", `${A}\n`)
+  const said = await landedMoving(root, read)
   expect("refusals" in said).toBe(true)
   expect("refusals" in said ? said.refusals.join("\n") : "").toContain("moved in between")
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(`${A}\n`)
 })
 
-test("a change read against a commit that moved nothing it carries is landed", () => {
+test("a change read against a commit that moved nothing it carries is landed", async () => {
   const root = pagesRepo()
   const read = baseOf(root)
-  writeFileSync(join(root, "later.txt"), "later")
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "second"])
-  const said = landing(
-    root,
-    [{ path: "akasha/a.domain.ts", body: bytes("moved") }],
-    "m",
-    ADMITS,
-    null,
-    read
-  )
+  committedAgain(root, "later.txt", "later")
+  const said = await landedMoving(root, read)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
 })
 
-test("a change read against the commit that stands is landed", () => {
+test("a change read against the commit that stands is landed", async () => {
   const root = pagesRepo()
-  landing(root, CARRIED, "held", ADMITS)
-  const said = landing(
+  await landing(root, CARRIED, "held", ADMITS)
+  const said = await landing(
     root,
     [
       { path: "akasha/a.domain.ts", body: bytes(A) },
@@ -283,33 +272,31 @@ test("a change read against the commit that stands is landed", () => {
   expect(readFileSync(join(root, "akasha/b.txt"), "utf8")).toBe("new")
 })
 
-test("a change read against an abbreviated commit is read against the commit it names", () => {
+test("a change read against an abbreviated commit is read against the commit it names", async () => {
   const root = pagesRepo()
   const read = git(root, ["rev-parse", "--short=10", "HEAD"]).trim()
-  writeFileSync(join(root, "later.txt"), "later")
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "second"])
+  committedAgain(root, "later.txt", "later")
   const change = [{ path: "akasha/a.domain.ts", body: bytes("moved") }]
-  const said = landing(root, change, "m", ADMITS, null, read)
+  const said = await landing(root, change, "m", ADMITS, null, read)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
 })
 
-test("a change read against a name standing for no commit is refused unwritten", () => {
+test("a change read against a name standing for no commit is refused unwritten", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
   const change = [{ path: "new.txt", body: bytes("proposed") }]
-  const said = landing(root, change, "m", ADMITS, null, "yesterday")
+  const said = await landing(root, change, "m", ADMITS, null, "yesterday")
   expect("refusals" in said ? said.refusals.join("\n") : "").toContain("names no commit")
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
 })
 
-test("what was written is put back when the landing throws after writing", () => {
+test("what was written is put back when the landing throws after writing", async () => {
   const root = pagesRepo()
   fileWhereTheIndexIs(root, "no directory stands here")
   const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
-  expect(() =>
+  await expect(
     landing(
       root,
       [
@@ -319,24 +306,24 @@ test("what was written is put back when the landing throws after writing", () =>
       "m",
       ADMITS
     )
-  ).toThrow()
+  ).rejects.toThrow()
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
   expect(existsSync(join(root, "akasha/b.domain.ts"))).toBe(false)
 })
 
-test("a path a change carries moves on disk and goes into no commit", () => {
+test("a path a change carries moves on disk and goes into no commit", async () => {
   const root = repoWith({ "one.txt": "committed" })
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
   const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
   const change = [{ path: "new.txt", body: bytes("proposed") }]
-  const said = landing(root, change, "held", ADMITS, null, null, [], carries)
+  const said = await landing(root, change, "held", ADMITS, null, null, [], carries)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
   expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual(["new.txt", "one.txt"])
 })
 
-test("a carry that will not go puts back the ones that went and commits nothing", () => {
+test("a carry that will not go puts back the ones that went and commits nothing", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
   writeFileSync(join(root, "one.uncommitted.ts"), "one")
@@ -348,7 +335,7 @@ test("a carry that will not go puts back the ones that went and commits nothing"
     { from: "two.uncommitted.ts", to: "deep/two.uncommitted.ts" },
   ]
   const change = [{ path: "new.txt", body: bytes("proposed") }]
-  expect(() => landing(root, change, "held", ADMITS, null, null, [], carries)).toThrow()
+  await expect(landing(root, change, "held", ADMITS, null, null, [], carries)).rejects.toThrow()
   expect(readFileSync(join(root, "one.uncommitted.ts"), "utf8")).toBe("one")
   expect(readFileSync(join(root, "two.uncommitted.ts"), "utf8")).toBe("two")
   expect(existsSync(join(root, "deep/one.uncommitted.ts"))).toBe(false)
@@ -356,23 +343,23 @@ test("a carry that will not go puts back the ones that went and commits nothing"
   expect(baseOf(root)).toBe(was)
 })
 
-test("a change drafted is kept in the patch and reaches no file and no commit", () => {
+test("a change drafted is kept in the patch and reaches no file and no commit", async () => {
   const root = pageRepo()
   const was = baseOf(root)
   const change = [{ path: "new.txt", body: bytes("proposed") }]
-  const said = landing(root, change, "held", ADMITS, null, null, [], [], DRAFT)
+  const said = await landing(root, change, "held", ADMITS, null, null, [], [], DRAFT)
   expect("refusals" in said ? [] : said.drafted).toEqual(["new.txt"])
   expect(patchIn(root, PAGE) ?? "").toContain("+proposed")
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
 })
 
-test("a check refusing a draft says so over the whole patch and refuses nothing", () => {
+test("a check refusing a draft says so over the whole patch and refuses nothing", async () => {
   const root = pageRepo()
   const a = [{ path: "one.txt", body: bytes("first") }]
-  landing(root, a, "held", ADMITS, null, null, [], [], DRAFT)
+  await landing(root, a, "held", ADMITS, null, null, [], [], DRAFT)
   const b = [{ path: "two.txt", body: bytes("second") }]
-  const said = landing(root, b, "held", REFUSES, null, null, [], [], DRAFT)
+  const said = await landing(root, b, "held", REFUSES, null, null, [], [], DRAFT)
   const refused = "refusals" in said ? [] : said.refused.map((one) => one.path)
   expect(refused).toEqual(["one.txt", "two.txt"])
   expect(patchIn(root, PAGE) ?? "").toContain("+second")

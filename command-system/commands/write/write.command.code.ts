@@ -413,11 +413,15 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   }
 }
 
-export function writing(argv: readonly string[], given: Given, piping: Piping): Answer {
+export async function writing(
+  argv: readonly string[],
+  given: Given,
+  piping: Piping
+): Promise<Answer> {
   const built = builtIn(argv, given, piping)
   if ("code" in built) return built
   const draft = argv.includes(DRAFT)
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes: built.changes,
     message: built.message,
     dryRun: false,
@@ -435,10 +439,14 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
   return answer
 }
 
-export function filing(argv: readonly string[], given: Given, piping: Piping): Answer {
+export async function filing(
+  argv: readonly string[],
+  given: Given,
+  piping: Piping
+): Promise<Answer> {
   const built = builtIn(argv, given, piping)
   if ("code" in built) return built
-  return landedMechanically(given.root, given.calledAs, built.changes, built.message)
+  return await landedMechanically(given.root, given.calledAs, built.changes, built.message)
 }
 
 export function write(argv: readonly string[], given: Given): Answer {

@@ -163,7 +163,7 @@ export function saidOf(held: Taken): string {
     : `Recorded ${held.target} ${held.slug}`
 }
 
-export function musicRate(argv: readonly string[], given: Given): Answer {
+export async function musicRate(argv: readonly string[], given: Given): Promise<Answer> {
   const held = taken(argv)
   if ("refused" in held) return refused(held.refused, INPUT)
   const found = listedAt(given.root, held.target, held.slug)
@@ -189,7 +189,7 @@ export function musicRate(argv: readonly string[], given: Given): Answer {
     }
     changes.push({ path: beside, body: new TextEncoder().encode(text) })
   }
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes,
     message: `record ${held.target} ${held.slug}`,
     dryRun: false,

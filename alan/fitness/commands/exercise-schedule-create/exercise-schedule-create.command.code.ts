@@ -163,7 +163,7 @@ export async function exerciseScheduleCreate(
     days.push({ day, focus, slug: daySlug })
   }
 
-  const landed = landingAsked(given, {
+  const landed = await landingAsked(given, {
     changes,
     message: `raise the schedule ${scheduleSlug}`,
     dryRun: false,

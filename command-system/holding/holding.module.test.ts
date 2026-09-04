@@ -37,7 +37,11 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
-const ADMITS: Judging = { named: ["admits"], checksFor: () => ["admits"], over: () => [] }
+const ADMITS: Judging = {
+  named: ["admits"],
+  checksFor: () => ["admits"],
+  over: async () => [],
+}
 
 const AT_ONCE = Array.from(
   { length: 40 },
@@ -73,7 +77,7 @@ function landsOn(root: string, path: string, body: string, ready: string, go: st
 import { existsSync, writeFileSync } from "node:fs"
 writeFileSync(${JSON.stringify(ready)}, "ready")
 while (!existsSync(${JSON.stringify(go)})) Bun.sleepSync(1)
-const said = landing(
+const said = await landing(
   ${JSON.stringify(root)},
   [{ path: ${JSON.stringify(path)}, body: new TextEncoder().encode(${JSON.stringify(body)}) }],
   "held",
@@ -108,7 +112,7 @@ test("callers asking at once take the hold one at a time, and none overlaps anot
 
 test("landings at once each land, and none takes another back", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  landing(root, CARRIED, "held", ADMITS)
+  await landing(root, CARRIED, "held", ADMITS)
   const was = baseOf(root)
   const go = join(root, "go")
   const ready = (one: string): string => join(root, `ready-${one}`)
@@ -141,7 +145,7 @@ test("a hold whose holder is gone is taken rather than waited on", async () => {
 test("a landing after a holder was killed outright still lands", async () => {
   const root = repoWith({ "one.txt": "committed" })
   await killed(await heldBy(root))
-  const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "new.txt"), "utf8")).toBe("proposed")
   expect(existsSync(join(root, LOCK_AT))).toBe(false)
@@ -154,11 +158,11 @@ test("a caller that waits out the hold is refused, and the landing it would have
   let ran = false
   let why = ""
   try {
-    holding(
+    await holding(
       root,
-      () => {
+      async () => {
         ran = true
-        return landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+        return await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
       },
       200
     )
@@ -172,7 +176,7 @@ test("a caller that waits out the hold is refused, and the landing it would have
   await killed(kid)
 })
 
-test("a hold is released however the act inside it ends, so one failure wedges nothing after it", () => {
+test("a hold is released however the act inside it ends, so one failure wedges nothing after it", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const at = join(root, LOCK_AT)
   let heldInside = false
@@ -187,15 +191,15 @@ test("a hold is released however the act inside it ends, so one failure wedges n
   const throwing: Judging = {
     named: ["throwing"],
     checksFor: () => ["throwing"],
-    over: () => {
+    over: async () => {
       throw new Error("thrown for the test")
     },
   }
-  expect(() =>
+  await expect(
     landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", throwing)
-  ).toThrow("thrown for the test")
+  ).rejects.toThrow("thrown for the test")
   expect(existsSync(at)).toBe(false)
-  const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(existsSync(at)).toBe(false)
 })

@@ -79,8 +79,12 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named.slug
 }
 
-function handed(root: string, changes: readonly FileEdit[], message: string): boolean {
-  return landedMechanically(root, CALLED_AS, changes, message).code === 0
+async function handed(
+  root: string,
+  changes: readonly FileEdit[],
+  message: string
+): Promise<boolean> {
+  return (await landedMechanically(root, CALLED_AS, changes, message).code) === 0
 }
 
 export function wrote(

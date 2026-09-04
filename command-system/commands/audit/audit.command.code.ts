@@ -148,13 +148,17 @@ export function heldTo(said: readonly string[], ceiling: number): readonly strin
   return held
 }
 
-export function judgedOver(judging: Judging, change: Change, also: readonly string[]): Answer {
+export async function judgedOver(
+  judging: Judging,
+  change: Change,
+  also: readonly string[]
+): Promise<Answer> {
   if (judging.named.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
   let takenBy: readonly string[]
   let said: readonly Judged[]
   try {
     takenBy = judging.checksFor(change)
-    said = judging.over(change)
+    said = await judging.over(change)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
@@ -177,7 +181,7 @@ export function judgedOver(judging: Judging, change: Change, also: readonly stri
   }
 }
 
-export function audit(argv: readonly string[], given: Given): Answer {
+export async function audit(argv: readonly string[], given: Given): Promise<Answer> {
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const root = resolve(given.root)
@@ -199,5 +203,5 @@ export function audit(argv: readonly string[], given: Given): Answer {
     over.change.changed.length,
     change.changed.length
   )
-  return judgedOver(judgingBy(narrowed.checks), over.change, also)
+  return await judgedOver(judgingBy(narrowed.checks), over.change, also)
 }

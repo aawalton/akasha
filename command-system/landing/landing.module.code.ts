@@ -102,9 +102,9 @@ export function changeOf(root: string, proposed: Proposed): Change {
   }
 }
 
-function judged(judging: Judging, change: Change): readonly Judged[] {
+async function judged(judging: Judging, change: Change): Promise<readonly Judged[]> {
   try {
-    return judging.over(change)
+    return await judging.over(change)
   } finally {
     readingEnded()
   }
@@ -342,7 +342,7 @@ export function landing(
   read?: string | null,
   asRead?: readonly AsRead[],
   carries?: readonly FileCarry[]
-): Landed | Refused
+): Promise<Landed | Refused>
 export function landing(
   root: string,
   changes: readonly FileEdit[],
@@ -353,8 +353,8 @@ export function landing(
   asRead: readonly AsRead[],
   carries: readonly FileCarry[],
   drafting: Drafting
-): Drafted | Refused
-export function landing(
+): Promise<Drafted | Refused>
+export async function landing(
   root: string,
   changes: readonly FileEdit[],
   message: string,
@@ -364,7 +364,7 @@ export function landing(
   asRead: readonly AsRead[] = [],
   carries: readonly FileCarry[] = [],
   drafting: Drafting | null = null
-): Landed | Refused | Drafted {
+): Promise<Landed | Refused | Drafted> {
   if (changes.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
   }
@@ -386,7 +386,7 @@ export function landing(
     if ("why" in held) return { refusals: [held.why, KEPT_AS_IT_WAS] }
     edits = editsOf(held.held)
   }
-  const said = judged(judging, changeOf(root, { base: judgedAt, edits }))
+  const said = await judged(judging, changeOf(root, { base: judgedAt, edits }))
   if (drafting !== null) {
     return draftedBy(
       root,

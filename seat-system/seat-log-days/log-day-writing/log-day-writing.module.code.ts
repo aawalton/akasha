@@ -83,9 +83,9 @@ export function dayBodyOf(slug: string, source: string, seatName: string, date: 
   ].join("\n")
 }
 
-function stood(root: string, path: string, body: string, message: string): boolean {
+async function stood(root: string, path: string, body: string, message: string): Promise<boolean> {
   if (existsSync(join(root, path))) return true
-  const answer = landedMechanically(
+  const answer = await landedMechanically(
     root,
     CALLED_AS,
     [{ path, body: new TextEncoder().encode(body) }],

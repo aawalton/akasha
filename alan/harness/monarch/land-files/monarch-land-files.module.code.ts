@@ -305,9 +305,9 @@ export const WRITER = "monarch-writer"
  * by a program rather than authored, which is what landing mechanically below says, and a
  * composed body owes no reading.
  */
-export function through(items: readonly WriteItem[], message: string): Promise<void> {
+export async function through(items: readonly WriteItem[], message: string): Promise<void> {
   const encoder = new TextEncoder()
-  const said = landedMechanically(
+  const said = await landedMechanically(
     AKASHA,
     WRITER,
     items.map((item) => ({ path: item.file_path, body: encoder.encode(item.content) })),

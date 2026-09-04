@@ -126,7 +126,7 @@ export async function exerciseLogActivity(argv: readonly string[], given: Given)
   const changes: FileEdit[] = [
     { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
   ]
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes,
     message: `record ${named} ${activityType.chosen} ${setNumber}`,
     dryRun: false,

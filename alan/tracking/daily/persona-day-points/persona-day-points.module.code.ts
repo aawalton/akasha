@@ -112,7 +112,7 @@ async function patchPersonaDayFields(
     )
   }
   refuseALiveTestWrite(root, `write ${PERSONA_DAY_PAGE_TYPE_SLUG}/${named}`, "`patchPersonaDay`")
-  const landed = landedMechanically(
+  const landed = await landedMechanically(
     root,
     WRITER,
     [{ path: composed.put.path, body: new TextEncoder().encode(composed.put.content) }],

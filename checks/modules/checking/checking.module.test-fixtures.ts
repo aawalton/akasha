@@ -176,6 +176,11 @@ export function taking(root: string, gone: readonly string[]): Change {
   }
 }
 
+export function over(changed: readonly string[]): Change {
+  const held = onDisk(ROOT)
+  return { root: ROOT, changed, after: held, before: held }
+}
+
 export const INPUT_THROWS_CHECKS = [
   { slug: "input-throws", runsOn: ["patch"], body: INPUT_THROWS },
   { slug: "input-ts", runsOn: ["patch"], body: INPUT_TS },

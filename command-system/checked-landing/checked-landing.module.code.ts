@@ -8,14 +8,14 @@ export const CHECKED: Kind = {
   runsWarrants: false,
 }
 
-export function landedChecked(
+export async function landedChecked(
   root: string,
   calledAs: string,
   changes: readonly FileEdit[],
   message: string,
   unmoved: readonly Held[] = []
-): Answer {
-  return landingAsked(
+): Promise<Answer> {
+  return await landingAsked(
     { root, calledAs, from: root, writer: null, agentId: null, changeKind: CHECKED },
     { changes, message, dryRun: false, glass: null, unmoved, saying: wroteAndTook }
   )

@@ -97,7 +97,7 @@ function bytesOf(said: string): Uint8Array {
   return new TextEncoder().encode(said)
 }
 
-export function aliFold(argv: readonly string[], given: Given): Answer {
+export async function aliFold(argv: readonly string[], given: Given): Promise<Answer> {
   const stray = argv.find((one) => one !== DRY_RUN && one !== JSON_SAID)
   if (stray !== undefined) return refused(`\`${stray}\` is nothing this takes`, INPUT)
   const json = argv.includes(JSON_SAID)
@@ -148,7 +148,7 @@ export function aliFold(argv: readonly string[], given: Given): Answer {
 
   if (changes.length === 0) return { report: [said], refusals: [], code: 0 }
 
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes,
     message: "fold the Book of Everything's coverage",
     dryRun,

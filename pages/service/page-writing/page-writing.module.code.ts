@@ -53,7 +53,7 @@ const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 const NOTHING_JUDGES: Judging = {
   named: [],
   checksFor: () => [],
-  over: () => [],
+  over: async () => [],
 }
 
 export function pathsIn(asked: Asked): readonly string[] {

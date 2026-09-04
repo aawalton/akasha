@@ -136,7 +136,7 @@ test("a body that is not text is refused", () => {
   expect(said.refusals[0]).toContain("is not text")
 })
 
-test("a body is overwritten only where what is on disk is the body its writer read", () => {
+test("a body is overwritten only where what is on disk is the body its writer read", async () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
   const was = headOf(root)
   const asked = {
@@ -147,13 +147,13 @@ test("a body is overwritten only where what is on disk is the body its writer re
     saying: () => [],
   }
   const off = [{ path: "akasha/one.ts", was: bytes("what this call read\n") }]
-  const said = landingAsked(givenIn(root), { ...asked, unmoved: off })
+  const said = await landingAsked(givenIn(root), { ...asked, unmoved: off })
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("changed after this call read it")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
   const on = [{ path: "akasha/one.ts", was: bytes("alpha\n") }]
-  expect(landingAsked(givenIn(root), { ...asked, unmoved: on }).code).toBe(0)
+  expect(await landingAsked(givenIn(root), { ...asked, unmoved: on }).code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("worked out\n")
 })
 

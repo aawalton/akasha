@@ -41,9 +41,9 @@ export function shaIn(output: string): string | null {
 // pages service or through a command line. A body of null is how a landing is told to take a path
 // away, so one call carries both what is written and what goes. A path is read against the root,
 // so it is named relative to the root rather than absolute.
-function landing(act: GatedAct, changes: readonly Change[]): Landed {
+async function landing(act: GatedAct, changes: readonly Change[]): Promise<Landed> {
   if (changes.length === 0) return { ok: true, sha: null, unpushed: null }
-  const said = landedMechanically(rootOf(act), act.writer, changes, act.message)
+  const said = await landedMechanically(rootOf(act), act.writer, changes, act.message)
   if (said.code !== 0) {
     return { ok: false, why: said.refusals.join("\n") || said.report.join("\n") }
   }

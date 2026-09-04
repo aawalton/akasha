@@ -7,7 +7,7 @@ import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Shadow, shadowAsked } from "@akasha/pages-system/shadow"
 import type { Input } from "../change-walking/change-walking.module.code.ts"
-import type { Judged, Judging, Running } from "../judging/judging.module.code.ts"
+import type { AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"
 import { modelChecksIn } from "../model-running/model-running.module.code.ts"
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
@@ -17,7 +17,7 @@ export type Gathered = {
   readonly page: string
   readonly runsOn: readonly Phase[]
   readonly isInput: Input | null
-  readonly run: Running
+  readonly run: AnyRunning
 }
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
@@ -58,7 +58,7 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   return held
 }
 
-function inputIn(run: Running): Input | null {
+function inputIn(run: AnyRunning): Input | null {
   const said = (run as { readonly isInput?: unknown }).isInput
   return typeof said === "function" ? (said as Input) : null
 }
@@ -75,7 +75,7 @@ function statedIn(at: string, slug: string, page: string): Record<string, unknow
   return named as Record<string, unknown>
 }
 
-function runningIn(at: string, slug: string, beside: string): Running | null {
+function runningIn(at: string, slug: string, beside: string): AnyRunning | null {
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(at) as Record<string, unknown>
@@ -83,9 +83,9 @@ function runningIn(at: string, slug: string, beside: string): Running | null {
     throw new Error(`${beside} is a check's code, and would not load — ${saidBy(thrown)}`)
   }
   const named = mod[exportedAs(slug)]
-  if (typeof named === "function") return named as Running
+  if (typeof named === "function") return named as AnyRunning
   const every = Object.values(mod).filter((one) => typeof one === "function")
-  return every.length === 1 && every[0] !== undefined ? (every[0] as Running) : null
+  return every.length === 1 && every[0] !== undefined ? (every[0] as AnyRunning) : null
 }
 
 export function checksIn(root: string): readonly Gathered[] {
@@ -198,7 +198,7 @@ export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
     checksFor: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
-    over: (change) => {
+    over: async (change) => {
       const left = checksLeftBy(every, change)
       const first = every[0]
       if (left.length === 0 && first !== undefined) {
@@ -208,7 +208,7 @@ export function judgingBy(every: readonly Gathered[]): Judging {
       const said: Judged[] = []
       for (const one of checksFor(left, change, shadow)) {
         try {
-          said.push(...one.run(change, shadow))
+          said.push(...(await one.run(change, shadow)))
         } catch (thrown) {
           said.push(threw(one, thrown))
         }

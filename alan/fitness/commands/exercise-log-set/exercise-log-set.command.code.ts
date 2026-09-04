@@ -61,8 +61,8 @@ export async function exerciseLogSet(argv: readonly string[], given: Given): Pro
   if ("refused" in rpe) return refused(rpe.refused, INPUT)
   const note = proseIn(said, NOTE)
   if ("refused" in note) return refused(note.refused, INPUT)
-  const given_ = countIn(SET_NUMBER, said.held.get(SET_NUMBER))
-  if ("refused" in given_) return refused(given_.refused, INPUT)
+  const setNumber = countIn(SET_NUMBER, said.held.get(SET_NUMBER))
+  if ("refused" in setNumber) return refused(setNumber.refused, INPUT)
   const warmup = said.bare.has(WARMUP)
   const json = said.bare.has(JSON_SAID)
 
@@ -86,7 +86,7 @@ export async function exerciseLogSet(argv: readonly string[], given: Given): Pro
   })
   if ("unread" in already) return refused(already.unread, DATA)
   const setNumber =
-    given_.number ??
+    setNumber.number ??
     nextSetNumber(
       already.rows.map((row) => numberIn(row, "setNumber")).filter((one) => one !== undefined)
     )
@@ -111,7 +111,7 @@ export async function exerciseLogSet(argv: readonly string[], given: Given): Pro
   const changes: FileEdit[] = [
     { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
   ]
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes,
     message: `record ${named} set ${setNumber}`,
     dryRun: false,

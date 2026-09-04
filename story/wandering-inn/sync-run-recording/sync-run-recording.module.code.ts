@@ -53,7 +53,12 @@ function filedFor(root: string, source: string): Filed | null {
   return { page, runs: read.entries }
 }
 
-function landed(root: string, page: string, runs: readonly Value[], message: string): undefined {
+async function landed(
+  root: string,
+  page: string,
+  runs: readonly Value[],
+  message: string
+): Promise<undefined> {
   const at = besideAt(page, SYNC_RUNS, JSONL)
   if (at === null) {
     said(`'${page}' is no page file, so its ${SYNC_RUNS} have no name beside it`)
@@ -62,7 +67,7 @@ function landed(root: string, page: string, runs: readonly Value[], message: str
   let text = ""
   for (const one of runs) text += `${JSON.stringify(one)}${NEWLINE}`
   const changes: readonly FileEdit[] = [{ path: at, body: BYTES.encode(text) }]
-  const answer = landedMechanically(root, CALLED_AS, changes, message)
+  const answer = await landedMechanically(root, CALLED_AS, changes, message)
   if (answer.code !== 0) said(`the run record did not land: ${answer.refusals.join("; ")}`)
 }
 

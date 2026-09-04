@@ -25,10 +25,15 @@ test("the gate reaches the checks late, and a root carrying no check index will 
   expect(why).not.toContain("a gate is built from")
 })
 
-test("a gate that could not be built judges nothing rather than passing everything", () => {
+test("a gate that could not be built judges nothing rather than passing everything", async () => {
   expect(NO_GATE.named).toEqual([])
   expect(
-    NO_GATE.over({ root: "/nowhere", changed: ["one.txt"], after: () => null, before: () => null })
+    await NO_GATE.over({
+      root: "/nowhere",
+      changed: ["one.txt"],
+      after: () => null,
+      before: () => null,
+    })
   ).toEqual([])
 })
 

@@ -69,14 +69,14 @@ function recordedAsLanded(root: string, agentId: string, changes: readonly FileE
   }
 }
 
-export function applied(
+export async function applied(
   root: string,
   page: string,
   agentId: string | null,
   message: string,
   judging: Judging,
   writer: string | null = null
-): Applied | Refused {
+): Promise<Applied | Refused> {
   const at = patchAt(page)
   if (at === null) return { refusals: [NO_PAGE] }
   const patch = patchIn(root, page)
@@ -95,7 +95,7 @@ export function applied(
   const formatting = formattingIn(root, editsOf(said.held))
   if (agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
-  const done = landing(root, formatting.changes, message, judging, writer, head, asRead, [])
+  const done = await landing(root, formatting.changes, message, judging, writer, head, asRead, [])
   if ("refusals" in done) return done
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
   dropPatch(root, page)

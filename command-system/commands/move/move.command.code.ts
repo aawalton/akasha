@@ -192,7 +192,7 @@ function carrying(
   return report
 }
 
-export function move(argv: readonly string[], given: Given): Answer {
+export async function move(argv: readonly string[], given: Given): Promise<Answer> {
   const read = pairsIn(argv)
   if ("refused" in read) return answering([], [read.refused], 1)
   if (read.pairs.length === 0) {
@@ -364,7 +364,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
   let landed: Answer
   try {
-    landed = landingAsked({ ...given, root }, asked)
+    landed = await landingAsked({ ...given, root }, asked)
   } catch (thrown) {
     relink()
     throw thrown

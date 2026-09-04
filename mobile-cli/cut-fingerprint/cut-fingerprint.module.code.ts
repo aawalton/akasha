@@ -179,7 +179,7 @@ export async function recordCutFingerprint(appSlug: string, fp: CutFingerprint):
   const slug = cutPageNameFor(appSlug, fp.buildNumber)
   const path = cutPagePath(slug)
   const root = akashaRoot()
-  const said = landedMechanically(
+  const said = await landedMechanically(
     root,
     CUT_WRITER,
     [{ path, body: new TextEncoder().encode(cutPageBody(appSlug, fp)) }],

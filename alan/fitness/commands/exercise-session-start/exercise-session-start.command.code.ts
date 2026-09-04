@@ -126,7 +126,7 @@ export async function exerciseSessionStart(argv: readonly string[], given: Given
     ...closing.changes,
     { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
   ]
-  const landed = landingAsked(given, {
+  const landed = await landingAsked(given, {
     changes,
     message: `open the session ${slug}`,
     dryRun: false,

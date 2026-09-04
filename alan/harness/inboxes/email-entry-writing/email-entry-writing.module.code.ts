@@ -89,11 +89,11 @@ function pageAt(root: string, slug: string): string {
   return join(dirname(pageTypeAt(root)), PAGES_UNDER, `${slug}.${EMAIL_ENTRY_PAGE_TYPE_SLUG}.ts`)
 }
 
-function landPage(
+async function landPage(
   root: string,
   slug: string,
   values: Readonly<Record<string, unknown>>
-): undefined {
+): Promise<undefined> {
   const fault = nameFaultIn(slug)
   if (fault !== null) throw new Error(`\`${slug}\` is no slug an entry is filed under: ${fault}`)
   const dropped = unnamedIn(PAGE_KEYS, values as never)
@@ -116,7 +116,7 @@ function landPage(
   const message =
     `Alan's mail on ${String(values.date)} reached ` +
     `${String(values[LOWEST_INBOX_COUNT])} at its lowest`
-  const answer = landedMechanically(
+  const answer = await landedMechanically(
     root,
     INBOX_WRITER,
     [{ path: at, body: encoded(body) }],

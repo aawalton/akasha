@@ -70,8 +70,12 @@ export function armFor(root: string, path: string, ms: number): undefined {
   mergeUncommitted(root, path, { [NEXT_AT]: new Date(ms).toISOString() })
 }
 
-export function tookReminder(root: string, path: string, why: string): string | null {
-  const landed = landedMechanically(root, CALLED_AS, [{ path, body: null }], why)
+export async function tookReminder(
+  root: string,
+  path: string,
+  why: string
+): Promise<string | null> {
+  const landed = await landedMechanically(root, CALLED_AS, [{ path, body: null }], why)
   if (landed.code !== 0) return landed.refusals.join("; ")
   removeUncommitted(root, path)
   return null

@@ -123,7 +123,11 @@ export function addressFor(
   return onPage ?? assignmentStatedIn(assignment, domain)
 }
 
-export function statedSeat(root: string, stated: SeatStated, seatName: string): Stating {
+export async function statedSeat(
+  root: string,
+  stated: SeatStated,
+  seatName: string
+): Promise<Stating> {
   const page = seatPathForName(seatName)
   const there = existsSync(join(root, page))
   const addressed = addressFor(stated, page, root, there)
@@ -132,7 +136,7 @@ export function statedSeat(root: string, stated: SeatStated, seatName: string): 
   if (there && readFileSync(join(root, page), "utf8") === body) {
     return { kind: "unchanged" }
   }
-  const landed = landedMechanically(
+  const landed = await landedMechanically(
     root,
     CALLED_AS,
     [{ path: page, body: new TextEncoder().encode(body) }],
@@ -142,10 +146,10 @@ export function statedSeat(root: string, stated: SeatStated, seatName: string): 
   return { kind: "wrote" }
 }
 
-export function tookSeat(root: string, seatName: string, why: string): Stating {
+export async function tookSeat(root: string, seatName: string, why: string): Promise<Stating> {
   const page = seatPathForName(seatName)
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
-  const landed = landedMechanically(
+  const landed = await landedMechanically(
     root,
     CALLED_AS,
     [{ path: page, body: null }],

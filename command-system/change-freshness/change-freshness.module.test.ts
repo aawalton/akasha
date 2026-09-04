@@ -72,9 +72,9 @@ test("a path no reading was recorded for is held to nothing", () => {
   expect(movedOnDisk(root, [])).toEqual([])
 })
 
-test("a body standing as its writer read it is written rather than refused", () => {
+test("a body standing as its writer read it is written rather than refused", async () => {
   const root = repoWith(PAGES)
-  const said = landing(
+  const said = await landing(
     root,
     [{ path: AT, body: bytes("written over") }],
     "held",
@@ -87,11 +87,11 @@ test("a body standing as its writer read it is written rather than refused", () 
   expect(readFileSync(join(root, AT), "utf8")).toBe("written over")
 })
 
-test("a body that moved on disk since its writer read it is refused unwritten", () => {
+test("a body that moved on disk since its writer read it is refused unwritten", async () => {
   const root = repoWith(PAGES)
   const held = readA()
   writeFileSync(join(root, AT), `${A}\n`)
-  const said = landing(
+  const said = await landing(
     root,
     [{ path: AT, body: bytes("written over") }],
     "held",
@@ -122,11 +122,11 @@ while (!existsSync(${JSON.stringify(go)})) {
   if (Date.now() > deadline) process.exit(1)
   Bun.sleepSync(1)
 }
-const said = landing(
+const said = await landing(
   ${JSON.stringify(root)},
   [{ path: ${JSON.stringify(AT)}, body: new TextEncoder().encode("written over") }],
   "held",
-  { named: ["admits"], over: () => [] },
+  { named: ["admits"], over: async () => [] },
   null,
   null,
   [{ path: ${JSON.stringify(AT)}, oid: ${JSON.stringify(oid)}, seenAt: 0, mechanicalOid: null }]
@@ -137,7 +137,12 @@ console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
   )
   try {
     expect(await until(() => existsSync(ready))).toBe(true)
-    const held = landing(root, [{ path: AT, body: bytes("moved by the other") }], "held", ADMITS)
+    const held = await landing(
+      root,
+      [{ path: AT, body: bytes("moved by the other") }],
+      "held",
+      ADMITS
+    )
     expect("refusals" in held).toBe(false)
     writeFileSync(go, "go")
     const said = await new Response(kid.stdout).text()
@@ -153,7 +158,7 @@ function landedMeanwhile(root: string, path: string, body: string): Judging {
   return {
     named: ["landed-meanwhile"],
     checksFor: () => ["landed-meanwhile"],
-    over: () => {
+    over: async () => {
       const at = join(root, path)
       mkdirSync(join(at, ".."), { recursive: true })
       writeFileSync(at, body)
@@ -176,9 +181,9 @@ test("a commit reaching the tree is named, and a base that is already head names
   expect(reachedSince(root, base, headOf(root))).toEqual(["akasha/inside.txt"])
 })
 
-test("a commit reaching `akasha/` while the change was judged refuses nothing", () => {
+test("a commit reaching `akasha/` while the change was judged refuses nothing", async () => {
   const root = repoWith(PAGES)
-  const said = landing(
+  const said = await landing(
     root,
     [{ path: AT, body: bytes("written over") }],
     "held",
@@ -189,9 +194,9 @@ test("a commit reaching `akasha/` while the change was judged refuses nothing", 
   expect(readFileSync(join(root, "akasha/meanwhile.txt"), "utf8")).toBe("landed inside")
 })
 
-test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", () => {
+test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", async () => {
   const root = repoWith(PAGES)
-  const said = landing(
+  const said = await landing(
     root,
     [{ path: AT, body: bytes("written over") }],
     "held",

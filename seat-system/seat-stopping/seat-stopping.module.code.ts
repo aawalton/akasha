@@ -119,16 +119,20 @@ export async function endedSession(name: string): Promise<boolean> {
   return !(await sessionHeld(name))
 }
 
-function handed(given: Given, changes: readonly FileEdit[], message: string): boolean {
+async function handed(
+  given: Given,
+  changes: readonly FileEdit[],
+  message: string
+): Promise<boolean> {
   return (
-    landingAsked(given, {
+    (await landingAsked(given, {
       changes,
       message,
       dryRun: false,
       glass: null,
       unmoved: [],
       saying: wroteAndTook,
-    }).code === 0
+    }).code) === 0
   )
 }
 

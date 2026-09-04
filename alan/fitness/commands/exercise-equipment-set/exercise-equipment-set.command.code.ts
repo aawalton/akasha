@@ -95,7 +95,7 @@ export async function exerciseEquipmentSet(argv: readonly string[], given: Given
   const changes: FileEdit[] = [
     { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
   ]
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes,
     message: `record the equipment item ${slug}`,
     dryRun: false,
@@ -105,7 +105,7 @@ export async function exerciseEquipmentSet(argv: readonly string[], given: Given
   })
   if (answer.code !== 0) return answer
 
-  const said_ = said.bare.has(JSON_SAID)
+  const saidJson = said.bare.has(JSON_SAID)
     ? JSON.stringify({
         path: composed.put.path,
         title,
@@ -114,7 +114,7 @@ export async function exerciseEquipmentSet(argv: readonly string[], given: Given
       })
     : `path\t${composed.put.path}\ntitle\t${title}\ncategory\t${values.equipmentItemCategory ?? NOTHING}`
   return {
-    report: said.bare.has(JSON_SAID) ? [said_] : [said_, ...answer.report],
+    report: said.bare.has(JSON_SAID) ? [saidJson] : [saidJson, ...answer.report],
     refusals: [],
     code: 0,
   }

@@ -354,7 +354,7 @@ function bareSaid(cleared: readonly string[]): readonly string[] {
   )
 }
 
-export function remove(argv: readonly string[], given: Given): Answer {
+export async function remove(argv: readonly string[], given: Given): Promise<Answer> {
   const read = namedIn(argv)
   if ("refused" in read) return answering([], [read.refused], 1)
   if (read.named.length === 0) {
@@ -413,7 +413,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...manifestingSaid(ways),
     ],
   }
-  const said = landingAsked({ ...given, root }, asked)
+  const said = await landingAsked({ ...given, root }, asked)
   if (said.code !== 0) return said
   dropReadings(root, [...paths, ...gone])
   const swept = sweeping(root, held.bare)

@@ -136,13 +136,13 @@ function unread(path: string, why: string): Answer {
   return answering([], [`${path} ${why}`], 2)
 }
 
-export function landed(
+export async function landed(
   given: Given,
   root: string,
   one: Renaming,
   dryRun: boolean,
   argv: readonly string[]
-): Answer {
+): Promise<Answer> {
   const base = baseOf(root)
   const bodyText = bodyTextOf(root, base)
   const onDisk = (path: string): boolean => existsSync(join(root, path))
@@ -228,7 +228,7 @@ export function landed(
     carries: moving,
     saying: () => saying(one, carries, repointing, pages, left, false),
   }
-  const landing = landingAsked({ ...given, root }, asked)
+  const landing = await landingAsked({ ...given, root }, asked)
   if (!dryRun) {
     if (landing.code === 0) carryReadings(root, readings)
     return landing

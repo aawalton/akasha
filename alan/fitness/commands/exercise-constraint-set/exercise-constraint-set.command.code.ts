@@ -108,7 +108,7 @@ export async function exerciseConstraintSet(
     changes.push({ path: beside, body: new TextEncoder().encode(body.text) })
   }
 
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes,
     message: `record the coaching constraint ${slug}`,
     dryRun: false,

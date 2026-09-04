@@ -396,7 +396,7 @@ export async function musicImportArtist(argv: readonly string[], given: Given): 
     return refused(saidBy(thrown), OPERATIONAL)
   }
   if ("refused" in found) return refused(found.refused, DATA)
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes: found.changes,
     message: `import ${found.said.artistName} and ${found.said.songsWritten} songs from MusicBrainz`,
     dryRun: false,

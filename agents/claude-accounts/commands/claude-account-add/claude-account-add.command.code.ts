@@ -95,7 +95,7 @@ export function slotFrom(held: ReadonlyMap<string, number>, asked: number | null
   return asked
 }
 
-export function claudeAccountAdd(argv: readonly string[], given: Given): Answer {
+export async function claudeAccountAdd(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {
@@ -111,7 +111,7 @@ export function claudeAccountAdd(argv: readonly string[], given: Given): Answer 
     if (typeof slot === "string") return { report: [], refusals: [slot], code: 1 }
     const at = `${PAGES_AT}/${read.account}/${read.account}.claude-account.ts`
     const body = pageTextFor(read.account, read.email, slot, Bun.randomUUIDv7())
-    const said = landedMechanically(
+    const said = await landedMechanically(
       given.root,
       "claude-account-add",
       [{ path: at, body: new TextEncoder().encode(body) }],

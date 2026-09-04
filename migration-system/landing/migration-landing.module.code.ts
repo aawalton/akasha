@@ -28,7 +28,7 @@ export type Landing = (
   changes: readonly FileEdit[],
   message: string,
   unmoved?: readonly Held[]
-) => Answer
+) => Promise<Answer>
 
 export type Saying = (line: string) => undefined
 

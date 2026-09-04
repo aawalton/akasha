@@ -312,10 +312,14 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
   return askedWith(argv, given, inputIn)
 }
 
-export function editing(argv: readonly string[], given: Given, piping: Piping): Answer {
+export async function editing(
+  argv: readonly string[],
+  given: Given,
+  piping: Piping
+): Promise<Answer> {
   const asked = askedWith(argv, given, piping)
   if (!("changes" in asked)) return asked
-  const answer = landingAsked(given, asked)
+  const answer = await landingAsked(given, asked)
   if (answer.code === 0 && asked.draft !== true) {
     dropReadings(
       given.root,

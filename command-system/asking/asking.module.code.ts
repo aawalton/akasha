@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
-import { agentPathOf } from "@akasha/context/warranting"
+import { agentPathOf } from "@akasha/context-system/warranting"
 import { nameFaultIn } from "@akasha/pages-system/page-export-name"
 import { isMissing } from "@akasha/utils-fs/missing"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
@@ -177,7 +177,7 @@ function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
   return {
     named: judging.named,
     checksFor: judging.checksFor,
-    over: (change) => {
+    over: async (change) => {
       const moved: Judged[] = []
       for (const one of held) {
         const now = bytesAt(join(change.root, one.path))
@@ -188,7 +188,7 @@ function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
             "changed after this call read it, so the body worked out for it is not the body on disk — run it again",
         })
       }
-      return moved.length > 0 ? moved : judging.over(change)
+      return moved.length > 0 ? moved : await judging.over(change)
     },
   }
 }
@@ -299,10 +299,15 @@ function reported(
   }
 }
 
-function reporting(root: string, asked: Asked, gate: Judging, aside: readonly string[]): Answer {
+async function reporting(
+  root: string,
+  asked: Asked,
+  gate: Judging,
+  aside: readonly string[]
+): Promise<Answer> {
   const paths = pathsOf(asked.changes)
   const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
-  const held = { said: gate.over(change), woke: gate.checksFor(change).length }
+  const held = { said: await gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
     return {
       report: [],
@@ -363,14 +368,14 @@ function draftedSaid(
   ]
 }
 
-function draftingAsked(
+async function draftingAsked(
   given: Given,
   asked: Asked,
   gate: Judging,
   message: string,
   asRead: readonly Reading[],
   aside: readonly string[]
-): Answer {
+): Promise<Answer> {
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null) {
     return mistaking([
@@ -379,7 +384,7 @@ function draftingAsked(
   }
   let said: Drafted | Refused
   try {
-    said = landing(
+    said = await landing(
       given.root,
       asked.changes,
       message,
@@ -401,7 +406,7 @@ function draftingAsked(
   }
 }
 
-export function landingAsked(given: Given, asked: Asked): Answer {
+export async function landingAsked(given: Given, asked: Asked): Promise<Answer> {
   if (asked.dryRun && asked.glass !== null) {
     return mistaking([
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
@@ -428,13 +433,13 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   if ("broken" in built && bypass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
   const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
-  if (held.dryRun) return reporting(given.root, held, gate, aside)
+  if (held.dryRun) return await reporting(given.root, held, gate, aside)
   const message = messageWith(held, bypass, broken)
   const asRead = asReadIn(given, formatting.changes)
-  if (held.draft === true) return draftingAsked(given, held, gate, message, asRead, aside)
+  if (held.draft === true) return await draftingAsked(given, held, gate, message, asRead, aside)
   let said: Landed | Refused
   try {
-    said = landing(
+    said = await landing(
       given.root,
       held.changes,
       message,
@@ -467,14 +472,14 @@ export const MECHANICAL: Kind = {
   runsWarrants: false,
 }
 
-export function landedMechanically(
+export async function landedMechanically(
   root: string,
   calledAs: string,
   changes: readonly FileEdit[],
   message: string,
   unmoved: readonly Held[] = []
-): Answer {
-  return landingAsked(
+): Promise<Answer> {
+  return await landingAsked(
     { root, calledAs, from: root, writer: null, agentId: null, changeKind: MECHANICAL },
     { changes, message, dryRun: false, glass: null, unmoved, saying: wroteAndTook }
   )

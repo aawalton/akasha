@@ -84,7 +84,7 @@ export async function exerciseSessionFinish(
   const changes: FileEdit[] = [
     { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
   ]
-  const landed = landingAsked(given, {
+  const landed = await landingAsked(given, {
     changes,
     message: `finish the session ${session.slug}`,
     dryRun: false,

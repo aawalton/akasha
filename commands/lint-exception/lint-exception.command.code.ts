@@ -261,7 +261,7 @@ export function working(
   return { text, added, carried }
 }
 
-export function lintException(argv: readonly string[], given: Given): Answer {
+export async function lintException(argv: readonly string[], given: Given): Promise<Answer> {
   const unknown = unknownIn(argv, VALUED, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const said = valuesOf(argv, RULE, VALUED)
@@ -320,7 +320,7 @@ export function lintException(argv: readonly string[], given: Given): Answer {
       code: 0,
     }
   }
-  return landingAsked(given, {
+  return await landingAsked(given, {
     changes: [{ path: CONFIG, body: new TextEncoder().encode(worked.text) }],
     message:
       message.message ??

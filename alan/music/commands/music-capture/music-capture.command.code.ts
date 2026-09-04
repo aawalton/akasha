@@ -420,7 +420,7 @@ export async function capturing(
   }
   const changes = changesFor(given.root, filed.heardPage, planned)
   if ("refused" in changes) return refused(changes.refused, DATA)
-  const answer = landingAsked(given, {
+  const answer = await landingAsked(given, {
     changes,
     message: messageFor(planned),
     dryRun: held.dryRun,

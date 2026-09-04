@@ -52,7 +52,7 @@ export type Landing = (
   calledAs: string,
   changes: readonly FileEdit[],
   message: string
-) => Answer
+) => Promise<Answer>
 
 export type Doors = {
   readonly secretsRead: SecretsRead

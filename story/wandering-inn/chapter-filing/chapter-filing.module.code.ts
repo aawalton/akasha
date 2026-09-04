@@ -78,7 +78,7 @@ export interface Filing {
   readonly text: string
 }
 
-export function fileChapter(chapter: Filing): string {
+export async function fileChapter(chapter: Filing): Promise<string> {
   const root = akashaRoot()
   const slug = chapterPageSlug(chapter.position, chapterSlugOf(chapter.title))
   const values: Value = {
@@ -111,7 +111,12 @@ export function fileChapter(chapter: Filing): string {
     { path: composed.put.path, body: BYTES.encode(composed.put.content) },
     { path: beside, body: BYTES.encode(chapter.text) },
   ]
-  const answer = landedMechanically(root, CALLED_AS, changes, `file ${CHAPTER_PAGE_TYPE}/${slug}`)
+  const answer = await landedMechanically(
+    root,
+    CALLED_AS,
+    changes,
+    `file ${CHAPTER_PAGE_TYPE}/${slug}`
+  )
   if (answer.code !== 0) {
     throw new FilingRefused(
       `${CHAPTER_PAGE_TYPE}/${slug} did not land: ${answer.refusals.join("; ")}`

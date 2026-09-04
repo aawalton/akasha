@@ -147,16 +147,16 @@ export function messageFor(said: Said, target: Target, act: string): string {
   return `page secret ${act} ${named}`
 }
 
-export function landedWith(
+export async function landedWith(
   given: Given,
   said: Said,
   target: Target,
   act: string,
   values: Secrets
-): Answer {
+): Promise<Answer> {
   const message = messageFor(said, target, act)
   if (values.size === 0) {
-    return landingAsked(given, {
+    return await landingAsked(given, {
       changes: [{ path: target.sidecar, body: null }],
       message,
       dryRun: false,
@@ -169,7 +169,7 @@ export function landedWith(
   if (composed.text === null) {
     return { report: [], refusals: [composed.why, "nothing was written"], code: 2 }
   }
-  return landingAsked(given, {
+  return await landingAsked(given, {
     changes: [{ path: target.sidecar, body: new TextEncoder().encode(composed.text) }],
     message,
     dryRun: false,

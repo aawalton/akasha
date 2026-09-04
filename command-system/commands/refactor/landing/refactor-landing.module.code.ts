@@ -24,7 +24,7 @@ export function bodyTextOf(root: string, stood: string): (path: string) => strin
   }
 }
 
-export function respelledLanded(
+export async function respelledLanded(
   given: Given,
   root: string,
   said: ReadonlyMap<string, string>,
@@ -33,7 +33,7 @@ export function respelledLanded(
   dryRun: boolean,
   argv: readonly string[],
   flags: readonly string[]
-): Answer {
+): Promise<Answer> {
   const glass = glassIn(argv, flags)
   if ("refusals" in glass) return answering([], glass.refusals, 1)
   const asked = messageIn(argv, flags)
@@ -60,7 +60,7 @@ export function respelledLanded(
     read: base,
     saying: () => saying(false),
   }
-  const landing = landingAsked({ ...given, root }, asking)
+  const landing = await landingAsked({ ...given, root }, asking)
   if (!dryRun) {
     if (landing.code === 0) carryReadings(root, readings)
     return landing
