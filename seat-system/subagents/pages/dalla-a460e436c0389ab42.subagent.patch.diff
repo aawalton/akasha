@@ -1,0 +1,67 @@
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index b757ea06d60ccec6515bde8a2751b2c1ae1f2f84..ab4e77dfb2848ba8e585d69ca4934855786dbd4d 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -23,6 +23,12 @@ const NO_PAGE = "a path that is no page keeps no patch"
+ 
+ const NOT_HELD = "the patch carries no body at"
+ 
++const RENAMED = /^R\d+\t(.+)\t(.+)$/
++
++const FOLLOWED_AT_MOST = 32
++
++const TWO_SIDES = "was renamed onto a path this patch already carries a body at:"
++
+ const DRAFTED = "is drafted into; the change it draws is not landed"
+ 
+ export const APPLIED = "goes; the patch it held is applied"
+@@ -113,15 +119,47 @@ function heldIn(root: string, patch: string | null): Held {
+   return held
+ }
+ 
++function wentTo(root: string, head: string, path: string): string | null {
++  const at = gitSaid(root, ["log", "--format=%H", "--diff-filter=D", "-1", head, "--", path]).trim()
++  if (at === "") return null
++  const said = gitSaid(root, ["diff-tree", "-r", "-M", "--no-commit-id", "--name-status", at])
++  for (const line of said.split("\n")) {
++    const found = RENAMED.exec(line)
++    if (found?.[1] === path) return found[2] ?? null
++  }
++  return null
++}
++
++function followed(root: string, head: string, path: string): string {
++  let at = path
++  for (let spun = 0; spun < FOLLOWED_AT_MOST; spun++) {
++    const next = wentTo(root, head, at)
++    if (next === null) return at
++    at = next
++    if (bodyAt(root, head, at) !== null) return at
++  }
++  return at
++}
++
+ export function rebasedOnto(
+   root: string,
+   head: string,
+   patch: string | null
+ ): Rebased | { readonly why: string } {
++  const carried = heldIn(root, patch)
+   const next: Held = new Map()
+   const moved: string[] = []
+-  for (const [path, one] of heldIn(root, patch)) {
+-    const now = textOf(bodyAt(root, head, path))
++  for (const [where, one] of carried) {
++    let path = where
++    let body = bodyAt(root, head, where)
++    if (body === null && one.was !== null) {
++      path = followed(root, head, where)
++      if (path !== where) {
++        if (carried.has(path)) return { why: `${where} ${TWO_SIDES} ${path}` }
++        body = bodyAt(root, head, path)
++      }
++    }
++    const now = textOf(body)
+     if (now !== one.was) moved.push(path)
+     const said = merged(one.was, one.body, now)
+     if ("why" in said) return { why: `${path} — ${said.why}` }
