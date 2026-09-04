@@ -15,7 +15,7 @@ export const astraPagesCleanup = {
     {
       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        'With `pages/` named `["page","pages"]`, stage one refuses every child opening with `page-` or `pages-` — 30 folders today. `namingOver` strips the prefix: `page-types` becomes `types`, `pages-ui` becomes `ui`. Folder names only; slugs and npm names remain. One collision: `page-properties` strips to `properties`, which `page` fills with id, slug and cover. Alan settled it: `page-property` becomes a part of `page-type`, at `pages/types/page-properties/`.',
+        "Baselined at `26895c4a`: `pages/` itself passes, and 65 children refuse. 30 open with `page-` or `pages-` and want the prefix stripped from the folder name alone. 31 hold no page of their own, all inside `pages-core`, `pages-ui` and `pages-ui-store`, which is a want of pages rather than of names. The remaining 4 are `indexes/index`, `pages-ui/components`, `service` and `service/workstation-services`. `page-properties` strips to `properties`, which `page` fills, so `page-property` becomes a part of `page-type`.",
     },
   ],
 } as const satisfies Initiative
