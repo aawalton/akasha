@@ -87,6 +87,10 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "A write that throws is refused naming the paths that write carried.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write carrying only values kept outside the commit lands no commit.",
     },
     {

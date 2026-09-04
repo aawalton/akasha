@@ -10,7 +10,9 @@ import {
   latestIn,
   messageIn,
   pathsIn,
+  pathsOver,
   refusalIn,
+  thrownWhy,
   writerFor,
 } from "./page-writing.module.code.ts"
 
@@ -43,9 +45,9 @@ test("a write carrying no path is refused", () => {
   expect(refusalIn(asking({}))).toContain("at least one path")
 })
 
-test("a path outside akasha is refused", () => {
-  const said = refusalIn(asking({ puts: [{ path: "tools/a.ts", content: "" }] }))
-  expect(said).toContain("outside")
+test("a path that is no path inside the repository is refused", () => {
+  const said = refusalIn(asking({ puts: [{ path: "/tools/a.ts", content: "" }] }))
+  expect(said).toContain("no path inside the repository")
 })
 
 test("a path reaching above the root is refused", () => {
@@ -96,8 +98,8 @@ test("two writes in one batch reaching one path leave the later one standing", (
 
 test("a write refused is answered without reaching the repository", async () => {
   const writer = writerFor({ root: "/var/tmp/no-such-root-stands-here" })
-  const said = await writer.writing(asking({ puts: [{ path: "tools/a.ts", content: "" }] }))
-  expect("refused" in said && said.refused).toContain("outside")
+  const said = await writer.writing(asking({ puts: [{ path: "/tools/a.ts", content: "" }] }))
+  expect("refused" in said && said.refused).toContain("no path inside the repository")
 })
 
 test("a write stating the commit it read is taken", () => {
@@ -146,9 +148,9 @@ test("a page a value is kept for is a path of the write", () => {
   expect(pathsIn(held)).toEqual(["akasha/a.thing.ts"])
 })
 
-test("a page kept for outside akasha is refused", () => {
-  const held = asking({ kept: [{ path: "pages/a.thing.ts", values: { one: 1 } }] })
-  expect(refusalIn(held)).toContain("outside")
+test("a page kept at no path inside the repository is refused", () => {
+  const held = asking({ kept: [{ path: "/pages/a.thing.ts", values: { one: 1 } }] })
+  expect(refusalIn(held)).toContain("no path inside the repository")
 })
 
 test("a write carrying only a kept value is taken", () => {
@@ -189,6 +191,30 @@ test("a write carrying only kept values lands no commit and writes beside the pa
   const beside = join(root, "akasha/a.thing.uncommitted.ts")
   expect(existsSync(beside)).toBe(true)
   expect(readFileSync(beside, "utf8")).toContain("2026-09-01T00:00:00.000Z")
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("the paths a batch carries are gathered once each", () => {
+  const held = [
+    asking({ puts: [{ path: "akasha/a.ts", content: "" }] }),
+    asking({ puts: [{ path: "akasha/a.ts", content: "" }], removes: ["akasha/b.ts"] }),
+  ]
+  expect(pathsOver(held)).toEqual(["akasha/a.ts", "akasha/b.ts"])
+})
+
+test("a throw carrying no path is answered naming the paths the write carried", () => {
+  const held = [asking({ puts: [{ path: "akasha/a.ts", content: "" }] })]
+  const said = thrownWhy(held, new Error("ENAMETOOLONG: name too long, open"))
+  expect(said).toContain("ENAMETOOLONG")
+  expect(said).toContain("the write carried akasha/a.ts")
+})
+
+test("a write that throws is refused naming what the write carried", () => {
+  const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
+  const said = landedIn(root, [
+    asking({ puts: [{ path: "akasha/a.thing.ts", content: "export const a = 1\n" }] }),
+  ])
+  expect("refused" in said && said.refused).toContain("the write carried akasha/a.thing.ts")
   rmSync(root, { recursive: true, force: true })
 })
 

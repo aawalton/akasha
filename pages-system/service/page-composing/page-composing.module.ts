@@ -106,6 +106,15 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A value under a property held in a file names that file's ending rather than that file's body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value that cannot name a file's ending is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A merge into a page the index does not hold composes that page as a new one.",
     },
     {

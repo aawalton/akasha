@@ -64,6 +64,17 @@ export function pathsIn(asked: Asked): readonly string[] {
   ]
 }
 
+export function pathsOver(batch: readonly Asked[]): readonly string[] {
+  return [...new Set(batch.flatMap((one) => pathsIn(one)))]
+}
+
+export function thrownWhy(batch: readonly Asked[], thrown: unknown): string {
+  const said = thrown instanceof Error ? thrown.message : String(thrown)
+  const paths = pathsOver(batch)
+  if (paths.length === 0) return said
+  return `${said} — the write carried ${paths.join(", ")}`
+}
+
 export function refusalIn(asked: Asked): string | null {
   if (!AUTHORED.test(asked.writer)) {
     return "a write names its writer as a name and an address, as `Amy <amy@alanwalton.com>`"
@@ -144,7 +155,7 @@ export function landedIn(root: string, batch: readonly Asked[]): Wrote {
     if ("refusals" in said) return { refused: said.refusals.join(" — ") }
     return { commit: said.commit, wrote: [...said.wrote, ...beside(root, kept)], took: said.took }
   } catch (thrown) {
-    return { refused: String(thrown) }
+    return { refused: thrownWhy(batch, thrown) }
   }
 }
 

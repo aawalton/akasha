@@ -1,6 +1,7 @@
 import { listedAt } from "@akasha/indexes"
-import { fileKeysAt } from "@akasha/indexes/entries"
+import { fileKeysAt, filePropertiesAt } from "@akasha/indexes/entries"
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 import { type Carried, propertiesFrom, sourceIn } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 
@@ -43,6 +44,18 @@ export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
 
 const PAGES = "pages"
 
+const PARTED_BY = "/"
+
+const NAME_HOLDS = 255
+
+const NAME_TAKES = 0x20
+
+const SHOWN = 40
+
+const RUN_OF_SPACE = /\s+/g
+
+const BYTES = new TextEncoder()
+
 export function besideItsPage(root: string, carried: readonly Carried[]): boolean {
   const filed = fileKeysAt(root)
   return carried.some((one) => filed.has(one.propertySlug))
@@ -75,6 +88,47 @@ export function pathFor(
 
 function saying(keys: readonly string[]): string {
   return keys.map((one) => `\`${one}\``).join(", ")
+}
+
+function shownAs(held: string): string {
+  if (held.length <= SHOWN) return `\`${held}\``
+  return `${held.length} characters opening \`${held.slice(0, SHOWN).replace(RUN_OF_SPACE, " ")}\``
+}
+
+function offAName(held: string): boolean {
+  for (let at = 0; at < held.length; at += 1) {
+    if ((held.codePointAt(at) ?? NAME_TAKES) < NAME_TAKES) return true
+  }
+  return false
+}
+
+export function endingWhy(held: string, name: string): string | null {
+  if (held === "") return "names nothing"
+  if (held.includes(PARTED_BY)) return "names a folder rather than an ending"
+  if (offAName(held)) return "holds a character no file name takes"
+  const made = BYTES.encode(name).length
+  if (made > NAME_HOLDS) {
+    return `makes a name of ${made} bytes, past the ${NAME_HOLDS} a file name holds`
+  }
+  return null
+}
+
+export function endingRefused(
+  key: string,
+  propertySlug: string,
+  at: string,
+  held: unknown
+): string | null {
+  const names = `\`${key}\` is held in a file beside the page, so what a page states under it names that file's ending`
+  const instead = `Write that file at a path of its own and leave \`${key}\` naming the ending.`
+  if (typeof held !== "string") {
+    return `${names}, and this write hands over a ${typeof held} rather than an ending. ${instead}`
+  }
+  const beside = besideAt(at, propertySlug, held)
+  if (beside === null) return null
+  const why = endingWhy(held, beside.slice(beside.lastIndexOf(PARTED_BY) + 1))
+  if (why === null) return null
+  return `${names}, and this write hands over ${shownAs(held)}, which ${why}. ${instead}`
 }
 
 export function composedFor(root: string, named: Naming): Composed {
@@ -115,12 +169,20 @@ export function composedFor(root: string, named: Naming): Composed {
   const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}
   const inside: Value = {}
+  const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
   for (const one of carried) {
     const stated = one.key in named.values
     if (!stated && !(one.key in already)) continue
     const value = stated ? named.values[one.key] : already[one.key]
-    if (one.uncommitted) outside[one.key] = value
-    else inside[one.key] = value
+    if (one.uncommitted) {
+      outside[one.key] = value
+      continue
+    }
+    if (filedBy !== undefined && filedBy.get(one.propertySlug) === null) {
+      const refused = endingRefused(one.key, one.propertySlug, at, value)
+      if (refused !== null) return { refused }
+    }
+    inside[one.key] = value
   }
   const wasId = was === null ? undefined : was[ID]
   if (inside[ID] === undefined && wasId !== undefined) inside[ID] = wasId

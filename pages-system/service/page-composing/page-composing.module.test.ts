@@ -3,13 +3,15 @@ import { join } from "node:path"
 import type { Carried } from "@akasha/pages-system/page-type-properties"
 import {
   besideItsPage,
+  endingRefused,
+  endingWhy,
   foldedFor,
   folderFor,
   orderedIn,
   pathFor,
 } from "./page-composing.module.code.ts"
 
-const ROOT = join(import.meta.dir, "..", "..", "..", "..")
+const ROOT = join(import.meta.dir, "..", "..", "..")
 
 const AN_INSTANT = "2026-09-01T12:00:00.000Z"
 
@@ -115,7 +117,7 @@ test("a type declaring no property held in a file carries none", () => {
 test("a new day is placed in a folder of its own under the plural", () => {
   const said = foldedFor(ROOT, [A_DAY])
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/alan/tracking/daily/wake-days/pages/1970-01-01/wake-day-1970-01-01.wake-day.ts"
+    "alan/tracking/daily/wake-days/pages/1970-01-01/wake-day-1970-01-01.wake-day.ts"
   )
 })
 
@@ -123,7 +125,7 @@ test("several pages compose into what one write puts and what it keeps", () => {
   const said = foldedFor(ROOT, [A_DEVICE_TOKEN])
   expect("puts" in said && said.puts.length).toBe(1)
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/person-system/device-tokens/pages/held-one.device-token.ts"
+    "person-system/device-tokens/pages/held-one.device-token.ts"
   )
   expect("kept" in said && said.kept[0]?.values.lastSeenAt).toBe(AN_INSTANT)
 })
@@ -166,9 +168,7 @@ test("a page the index already holds keeps the identity it has", () => {
 
 test("a page the index does not hold is composed carrying no identity", () => {
   const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one" }])
-  expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/role-system/roles/pages/held-one.role.ts"
-  )
+  expect("puts" in said && said.puts[0]?.path).toBe("role-system/roles/pages/held-one.role.ts")
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
 })
 
@@ -185,7 +185,7 @@ test("a slug the name above it does not open is the folder whole", () => {
 const A_HELD_DAY = "wake-day-2026-03-06"
 
 const A_HELD_DAY_AT =
-  "akasha/alan/tracking/daily/wake-days/pages/2026-03-06/wake-day-2026-03-06.wake-day.ts"
+  "alan/tracking/daily/wake-days/pages/2026-03-06/wake-day-2026-03-06.wake-day.ts"
 
 test("a merge keeps every key the caller does not name", () => {
   const said = foldedFor(ROOT, [
@@ -203,6 +203,55 @@ test("a merge keeps every key the caller does not name", () => {
 test("a merge keeps a value held in a file beside the page as the extension it states", () => {
   const said = foldedFor(ROOT, [
     { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" }, merge: true },
+  ])
+  expect("puts" in said && said.puts[0]?.content).toContain('completedTasks: "jsonl"')
+})
+
+test("an ending naming a file is no refusal", () => {
+  expect(endingWhy("jsonl", "a.wake-day.completed-tasks.jsonl")).toBeNull()
+})
+
+test("an ending naming nothing is refused", () => {
+  expect(endingWhy("", "a.wake-day.completed-tasks.")).toBe("names nothing")
+})
+
+test("an ending naming a folder is refused", () => {
+  expect(endingWhy("held/one", "a.b.held/one")).toBe("names a folder rather than an ending")
+})
+
+test("an ending holding a line break is refused", () => {
+  expect(endingWhy('{\n"a": 1}', 'a.b.{\n"a": 1}')).toBe("holds a character no file name takes")
+})
+
+test("an ending making a name past what a file name holds is refused", () => {
+  const long = "j".repeat(300)
+  expect(endingWhy(long, `a.b.${long}`)).toBe(
+    "makes a name of 304 bytes, past the 255 a file name holds"
+  )
+})
+
+test("a value that is no string under a key held in a file is refused", () => {
+  const said = endingRefused("completedTasks", "completed-tasks", "a/b.wake-day.ts", 7)
+  expect(said).toContain("hands over a number rather than an ending")
+})
+
+test("a body handed over under a key held in a file is refused rather than written", () => {
+  const body = JSON.stringify({ achievements: Array.from({ length: 400 }, (_, at) => at) })
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { completedTasks: body }, merge: true },
+  ])
+  expect("refused" in said && said.refused).toContain("`completedTasks` is held in a file")
+  expect("refused" in said && said.refused).toContain("Write that file at a path of its own")
+})
+
+test("a key held in a file naming an ending is written into the page", () => {
+  const said = foldedFor(ROOT, [
+    {
+      pageTypeSlug: "wake-day",
+      slug: A_HELD_DAY,
+      values: { completedTasks: "jsonl" },
+      merge: true,
+    },
   ])
   expect("puts" in said && said.puts[0]?.content).toContain('completedTasks: "jsonl"')
 })
@@ -238,9 +287,7 @@ test("a merge keeps a value held outside the commit beside the page rather than 
 
 test("a merge into a page the index does not hold composes that page as a new one", () => {
   const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one", merge: true }])
-  expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/role-system/roles/pages/held-one.role.ts"
-  )
+  expect("puts" in said && said.puts[0]?.path).toBe("role-system/roles/pages/held-one.role.ts")
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
 })
 
