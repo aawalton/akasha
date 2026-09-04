@@ -1,11 +1,11 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Date as TrackedDate } from "../../alan/tracking/daily/wake-days/properties/date.text-property.ts"
-import type { PersonaSlug } from "../../domain-system/initiatives/properties/persona-slug.relation-property.ts"
 import type { Title } from "../../pages/pages/properties/title.text-property.ts"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
 import type { ValueSlug } from "../personas/properties/value-slug.text-property.ts"
 import type { AdvanceCount } from "./properties/advance-count.number-property.ts"
+import type { CraftDayPersonaSlug } from "./properties/craft-day-persona-slug.relation-property.ts"
 import type { GreenDay } from "./properties/green-day.number-property.ts"
 import type { ImprovementCount } from "./properties/improvement-count.number-property.ts"
 import type { NewPersonaCount } from "./properties/new-persona-count.number-property.ts"
@@ -13,7 +13,7 @@ import type { PersonasCraftedSlugs } from "./properties/personas-crafted-slugs.r
 
 export type PersonaCraftDay = Page & {
   title: Title
-  personaSlug: PersonaSlug
+  personaSlug: CraftDayPersonaSlug
   date: TrackedDate
   valueSlug: ValueSlug
   icon?: Icon
@@ -36,6 +36,7 @@ export const personaCraftDay = {
     "number-property/green-day",
     "number-property/improvement-count",
     "number-property/new-persona-count",
+    "relation-property/craft-day-persona-slug",
     "relation-property/personas-crafted-slugs",
   ],
   properties: [
