@@ -84,11 +84,10 @@ export function usePlayer() {
         set: {
           title: userId,
           handle: newHandle,
-          profileMetadata: JSON.stringify(profileMetadataToJson(profileMetadata)),
         },
       })
     },
-    [runUpsert, userId, profileMetadata]
+    [runUpsert, userId]
   )
 
   const updateProfileMeta = useCallback(
