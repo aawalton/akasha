@@ -30,6 +30,7 @@ export type Standing = {
   readonly holds: (folder: string) => string | null
   readonly declared: (folder: string) => ReadonlySet<string>
   readonly parts: (page: Held) => readonly string[]
+  readonly partOf: (page: Held) => readonly string[]
 }
 
 export type Judging = (standing: Standing) => readonly string[]
@@ -42,6 +43,7 @@ export const folderShape = {
   pluralSlug: "folder-shapes",
   partSlugs: [
     "boolean-property/folder-shape-enabled",
+    "folder-shape/chapters-of-the-book-above",
     "folder-shape/folders-only",
     "folder-shape/modules-only",
     "folder-shape/one-page-with-its-properties",
@@ -175,6 +177,10 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "Which files those are is read off the page rather than worked out from its name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page answers with the collections that page names as holding it.",
     },
     {
       invariantKind: "departure",

@@ -42,6 +42,8 @@ const PLURAL_SLUG = "pluralSlug"
 
 const PART_SLUGS = "partSlugs"
 
+const PART_OF_SLUGS = "partOfSlugs"
+
 export function folderOf(path: string): string {
   const cut = path.lastIndexOf("/")
   return cut === -1 ? "" : path.slice(0, cut)
@@ -345,6 +347,15 @@ export function partsOver(
   }
 }
 
+export function partOfOver(index: Answering): (page: Held) => readonly string[] {
+  return (page) => {
+    if (page.slug === null || page.pageTypeSlug === null) return []
+    const value = index.pageAt(page.pageTypeSlug, page.slug)
+    if (value === null) return []
+    return textsAt(value, PART_OF_SLUGS) ?? []
+  }
+}
+
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
   const pageTypes = shadow.index.pageTypesIn()
@@ -373,6 +384,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     shadow.index.filePropertiesAt(),
     shadow.index.sidecarsAt()
   )
+  const partOf = partOfOver(shadow.index)
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
@@ -406,6 +418,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       holds: (at) => holds(at).holds,
       declared: (at) => holds(at).declared,
       parts,
+      partOf,
     }
     const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(described) }))
     if (said.some((one) => one.reasons.length === 0)) continue
