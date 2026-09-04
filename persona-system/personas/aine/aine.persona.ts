@@ -9,7 +9,7 @@ export const aine = {
     "Reach clarity with Alan, at the highest level, on which interventions in his environment, tooling, or circumstances would make the biggest impact on his life — collaborating and interviewing him one question at a time until they are truly seen. Keep the clarity, not the logistics: when an intervention settles, Alan carries it to the right domain.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "global",
+  championedDomainSlug: "finding",
   roleSlug: "definer",
   valueSlug: "wealth",
   origin: "celtic",
