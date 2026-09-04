@@ -90,10 +90,6 @@ interface ErrorFrameSingleton {
 
 declare const ZO_ERROR_FRAME: ErrorFrameSingleton
 
-interface MailInbox {
-  mailId?: Id64
-}
-
 declare const ZO_LeaderboardScoreProvider: object
 declare const ZO_GuildMotDProvider: object
 declare const ZO_CraftBagAutoTransferProvider: object

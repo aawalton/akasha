@@ -103,7 +103,6 @@ interface TopLevelWindow extends Control {
   GetTop: () => number
   StartMoving: () => void
   StopMovingOrResizing: () => void
-  BringWindowToTop: () => void
 }
 
 type CtControl = number & { readonly __ct: "CT_CONTROL" }

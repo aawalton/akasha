@@ -219,10 +219,6 @@ declare const zo_iconTextFormatNoSpace: (
   inheritColor?: boolean
 ) => string
 
-interface EndInWorldInteractionsFragment {
-  OnShown: (this: EndInWorldInteractionsFragment) => undefined
-}
-
 declare const TREASURE_MAP_INVENTORY_SCENE: Scene
 
 declare const FRAME_TARGET_CENTERED_FRAGMENT: SceneFragment
