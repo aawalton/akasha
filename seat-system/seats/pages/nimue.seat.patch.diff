@@ -1,3 +1,295 @@
+diff --git a/alan/web/media-page/media-page.module.test.ts b/alan/web/media-page/media-page.module.test.ts
+index 1eff82652ac08f22d993bfc20b7c4890ccd9e3f0..c78f31d4f454d16bcfbcfaf0a171c4d22ef91f4e 100644
+--- a/alan/web/media-page/media-page.module.test.ts
++++ b/alan/web/media-page/media-page.module.test.ts
+@@ -4,14 +4,14 @@ const PAGE_ID = "019db5f4-063c-710f-a432-4c822d31915a"
+ 
+ const MEDIA_ROW = {
+   slug: "story-chapter",
+-  extendsSlug: "page-type/page",
++  extendsSlug: ["page-type/page"],
+   mediaConfig: {
+     audio: { sourcePropertyId: "body", renderer: "tts", variantAxis: "narrator" },
+     image: { renderer: "z-image-turbo" },
+   },
+ }
+-const HEIR_ROW = { slug: "story-chapter-written", extendsSlug: "page-type/story-chapter" }
+-const PLAIN_ROW = { slug: "page", extendsSlug: null }
++const HEIR_ROW = { slug: "story-chapter-written", extendsSlug: ["page-type/story-chapter"] }
++const PLAIN_ROW = { slug: "page", extendsSlug: [] }
+ 
+ let storeAnswers = true
+ 
+diff --git a/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.test.ts b/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.test.ts
+index 8b4e40bc8fe372f1cb0d8baaa3f09be88ac3b4e9..8303a3b07732ce69ed605e835ad7697adef131c8 100644
+--- a/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.test.ts
++++ b/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.test.ts
+@@ -273,7 +273,7 @@ test("a page of a page type the change itself adds is judged too", () => {
+     landing(root, {
+       "akasha/module.page-type.ts": new TextEncoder().encode(
+         `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
+-          `slug: "module", extendsSlug: "page-type/domain" }\n`
++          `slug: "module", extendsSlug: ["page-type/domain"] }\n`
+       ),
+       [pathFor("module", "held")]: body("module", "held", ONE),
+     })
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
+index d60c065cdf34735b25b45478c96ece5efb49ab36..7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
+@@ -217,7 +217,7 @@ function rooted(): string {
+     "page-type",
+     "page",
+     `export const it = { id: "${idFor(5)}", slug: "page", pageTypeSlug: "page-type",` +
+-      ` extendsSlug: null, properties: ${declares} }\n`
++      ` extendsSlug: [], properties: ${declares} }\n`
+   )
+   for (const [n, slug] of [
+     [2, "page-type"],
+@@ -231,7 +231,7 @@ function rooted(): string {
+       "page-type",
+       slug,
+       `export const it = { id: "${idFor(n)}", slug: "${slug}", pageTypeSlug: "page-type",` +
+-        ' extendsSlug: "page-type/page" }\n'
++        ' extendsSlug: ["page-type/page"] }\n'
+     )
+   }
+   return root
+@@ -260,7 +260,7 @@ test("a page of a page type the change itself adds is a page, not a stray", () =
+   const root = rooted()
+   const said = judged(
+     arriving(root, {
+-      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(10)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: null }\n`,
++      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(10)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
+       "akasha/b/x.probe.ts": `export const x = { id: "${idFor(11)}", slug: "x", pageTypeSlug: "probe" }\n`,
+     })
+   )
+@@ -272,7 +272,7 @@ test("a file standing beside a page through a file property the change adds is n
+   const said = judged(
+     arriving(root, {
+       "akasha/b/notes.file-property.ts": `export const notes = { id: "${idFor(20)}", slug: "notes", pageTypeSlug: "file-property", propertySlug: "notes" }\n`,
+-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(21)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, notes: "ts" }\n`,
++      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(21)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [], notes: "ts" }\n`,
+       "akasha/b/one.page-type.notes.ts": "export const held = 1\n",
+     })
+   )
+@@ -287,7 +287,7 @@ test("a file a page claims under the name its property states is no stray", () =
+   carrying(root, "page-type", ["manifest"], "page")
+   const said = judged(
+     arriving(root, {
+-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(30)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, manifest: "json" }\n`,
++      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(30)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [], manifest: "json" }\n`,
+       "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
+     })
+   )
+@@ -299,7 +299,7 @@ test("a file no page claims is a stray still, though its name is one a property
+   declaring(root, "manifest", MANIFEST)
+   const said = judged(
+     arriving(root, {
+-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(31)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null }\n`,
++      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(31)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
+       "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
+     })
+   )
+@@ -315,7 +315,7 @@ test("a name no property states is a stray though a page claims the path", () =>
+   pathFiled(root, path, [{ path: page, id: idFor(32) }])
+   const said = judged(
+     arriving(root, {
+-      [page]: `export const one = { id: "${idFor(32)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null }\n`,
++      [page]: `export const one = { id: "${idFor(32)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
+       [path]: "read me\n",
+     })
+   )
+@@ -352,7 +352,7 @@ test("a shape judging no folder is never loaded", () => {
+   pathFiled(root, beside, [{ path: shape, id: idFor(40) }])
+   const said = judged(
+     arriving(root, {
+-      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(41)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: null }\n`,
++      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(41)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
+     })
+   )
+   expect(said).toEqual([])
+diff --git a/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.test.ts b/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.test.ts
+index 5f39a341f4ebce9807aae6cb855b1b1f7b792565..505cf69a80804ef3f8fb978681b372700f12e0b0 100644
+--- a/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.test.ts
++++ b/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.test.ts
+@@ -200,7 +200,7 @@ test("two pages of a page type the change itself adds carrying one slug are refu
+     landing(root, {
+       [pathFor("page-type", "widget")]: bytesOf(
+         `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: "page-type", ` +
+-          'slug: "widget", extendsSlug: "page-type/page" }\n'
++          'slug: "widget", extendsSlug: ["page-type/page"] }\n'
+       ),
+       [pathFor("widget", "one")]: body("widget", "held", ONE),
+       [pathFor("widget", "two")]: body("widget", "held", TWO),
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
+index cf4c5153e0d01e536036274bb9ee20c37db90f72..01d803d8023106352de085a8cf17b66939e7c77d 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
+@@ -18,7 +18,7 @@ const TYPES: readonly Value[] = [
+     id: "01a0540d-0000-7000-8000-000000000001",
+     pageTypeSlug: "page-type",
+     slug: "page",
+-    extendsSlug: null,
++    extendsSlug: [],
+     properties: [
+       { pagePropertySlug: "id", required: true, many: false },
+       { pagePropertySlug: "slug", required: true, many: false },
+@@ -28,14 +28,14 @@ const TYPES: readonly Value[] = [
+     id: "01a0540d-0000-7000-8000-000000000002",
+     pageTypeSlug: "page-type",
+     slug: "module",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+     properties: [{ pagePropertySlug: "test", required: false, many: false }],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000003",
+     pageTypeSlug: "page-type",
+     slug: "check",
+-    extendsSlug: "page-type/module",
++    extendsSlug: ["page-type/module"],
+     properties: [
+       { pagePropertySlug: "test", required: true, many: false },
+       { pagePropertySlug: "aids", required: false, many: true, max: 2, total: 6 },
+@@ -45,7 +45,7 @@ const TYPES: readonly Value[] = [
+     id: "01a0540d-0000-7000-8000-000000000004",
+     pageTypeSlug: "page-type",
+     slug: "told",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+     properties: [
+       { pagePropertySlug: "directives", required: false, many: true, max: null },
+       { pagePropertySlug: "aids", required: false, many: true, max: null },
+@@ -56,14 +56,14 @@ const TYPES: readonly Value[] = [
+     id: "01a0540d-0000-7000-8000-000000000005",
+     pageTypeSlug: "page-type",
+     slug: "looping",
+-    extendsSlug: "page-type/looping",
++    extendsSlug: ["page-type/looping"],
+     properties: [{ pagePropertySlug: "id", required: false, many: false }],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000010",
+     pageTypeSlug: "page-type",
+     slug: "held",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+     properties: [
+       { pagePropertySlug: "page-type-slug", required: true, many: false },
+       { pagePropertySlug: "test", required: true, many: false },
+@@ -76,7 +76,7 @@ const SHAPES: readonly Value[] = [
+     id: "01a0540d-0000-7000-8000-000000000017",
+     pageTypeSlug: "page-type",
+     slug: "page-type",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+     properties: [
+       { pagePropertySlug: "extends-slug", required: false, many: false },
+       { pagePropertySlug: "page-type-slug", required: false, many: false },
+@@ -87,43 +87,43 @@ const SHAPES: readonly Value[] = [
+     id: "01a0540d-0000-7000-8000-000000000018",
+     pageTypeSlug: "page-type",
+     slug: "boolean-property",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000006",
+     pageTypeSlug: "page-type",
+     slug: "text-property",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000007",
+     pageTypeSlug: "page-type",
+     slug: "record-property",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000008",
+     pageTypeSlug: "page-type",
+     slug: "number-property",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-00000000000f",
+     pageTypeSlug: "page-type",
+     slug: "relation-property",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000012",
+     pageTypeSlug: "page-type",
+     slug: "name-format",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000015",
+     pageTypeSlug: "page-type",
+     slug: "worded-property",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   },
+   {
+     id: "01a0540d-0000-7000-8000-000000000013",
+diff --git a/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.test.ts b/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.test.ts
+index 22683275e9dbf15e3446a871b5028e23ccb4d369..405fb6aaeee8c461dffeecdff5ff767798a49db2 100644
+--- a/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.test.ts
++++ b/checks/code-checks/pages/phone-number-is-e164/phone-number-is-e164.code-check.test.ts
+@@ -149,7 +149,7 @@ test("a page type the change itself puts under `phone-number-property` is judged
+   const root = rooted()
+   const above = bytesOf(
+     `export const held = { id: ${JSON.stringify(MOBILE)}, pageTypeSlug: "page-type", ` +
+-      `slug: "mobile-number-property", extendsSlug: "page-type/phone-number-property" }\n`
++      `slug: "mobile-number-property", extendsSlug: ["page-type/phone-number-property"] }\n`
+   )
+   const said = judged(root, { [MOBILE_AT]: above, [AT]: person('mobile: "6085122510"') })
+   expect(said.map((one) => one.path)).toEqual([AT])
+diff --git a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.test.ts b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.test.ts
+index 654a3fed4abca5cc4602bb1b39743c208585a623..02454a2d0bd535ffa7190bd4bcb4a7ee673e4991 100644
+--- a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.test.ts
++++ b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.test.ts
+@@ -257,7 +257,7 @@ test("a property of a page type the change itself adds is judged too", () => {
+     landing(root, {
+       "akasha/measure-property.page-type.ts": new TextEncoder().encode(
+         `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
+-          `slug: "measure-property", extendsSlug: "page-type/page-property" }\n`
++          `slug: "measure-property", extendsSlug: ["page-type/page-property"] }\n`
+       ),
+       [pathFor("measure-property", "held")]: body("measure-property", "held", ONE),
+     })
+diff --git a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts
+index 80a5101616be5295fb6cb3bf79dd3ec149099ce2..411e0e2d47a30ab0d70cd8689065e58bbc7ef13d 100644
+--- a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts
+@@ -104,7 +104,7 @@ export function naming(
+ const PAGE_ID = "01a04d99-71ca-7e06-9000-000000000000"
+ 
+ const PAGE_DECLARES =
+-  ', extendsSlug: null, properties: [{ pagePropertySlug: "id", required: true, many: false }' +
++  ', extendsSlug: [], properties: [{ pagePropertySlug: "id", required: true, many: false }' +
+   ', { pagePropertySlug: "slug", required: true, many: false }]'
+ 
+ export function rooted(carrying: boolean = true): string {
+diff --git a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts
+index b5fe3a54dad422bc5b6ea6c8943fa6fe7c4f68dc..c241eecd207928c0279b1729a0c3095c6629f21e 100644
+--- a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts
++++ b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts
+@@ -367,7 +367,7 @@ const R_ID = "01a04d99-71ca-7e06-8000-00000000000d"
+ test("a page type the change introduces admits a page named through it", () => {
+   const root = rooted()
+   const bodies = {
+-    [P]: stating(P_ID, "probe", "page-type", ', extendsSlug: "page-type/domain"'),
++    [P]: stating(P_ID, "probe", "page-type", ', extendsSlug: ["page-type/domain"]'),
+     [X]: stating(X_ID, "x", "probe"),
+     [A]: stating(A_ID, "a", "note", ', domainSlug: "probe/x"'),
+   }
 diff --git a/checks/modules/check-scratch/check-scratch.module.code.ts b/checks/modules/check-scratch/check-scratch.module.code.ts
 index 63491ff779b633042959a0614012d753f6997a23..4597a0e7b26f2fc220f8307ae620978d595238b2 100644
 --- a/checks/modules/check-scratch/check-scratch.module.code.ts
@@ -55,6 +347,299 @@ index b332607e44a95b14b5475b8a607076c27c853e73..62b29ee347a52c1b423265613cd7a542
      {
        invariantKind: "absence",
        statement: "What stands here is stood up by the check tests that reach for what is here.",
+diff --git a/command-system/commands/index/index.command.test.ts b/command-system/commands/index/index.command.test.ts
+index 666a931e9a5493a9b7a8375b90a79160819fc18e..bcd51a8dd7ffa287b7e0df6f44e4eb349f2afdc9 100644
+--- a/command-system/commands/index/index.command.test.ts
++++ b/command-system/commands/index/index.command.test.ts
+@@ -74,7 +74,7 @@ const PAGES: Readonly<Record<string, string>> = {
+     id: TYPE_ID,
+     pageTypeSlug: "page-type",
+     slug: "domain",
+-    extendsSlug: "page-type/page",
++    extendsSlug: ["page-type/page"],
+   }),
+   "text-property.page-type.ts": bodyOf(textProperty),
+   "id.text-property.ts": bodyOf(idPage),
+diff --git a/command-system/commands/move/parenting/move-parenting.module.test.ts b/command-system/commands/move/parenting/move-parenting.module.test.ts
+index 6354acac1fb6c1981a7f163f1fa1f05de805e1a6..65d4f567769fe010f8e3eca5b7f82af134350456 100644
+--- a/command-system/commands/move/parenting/move-parenting.module.test.ts
++++ b/command-system/commands/move/parenting/move-parenting.module.test.ts
+@@ -56,15 +56,15 @@ function built(): string {
+     repoWith({
+       "akasha/domain.page-type.ts": paged("domain", "page-type", {
+         pluralSlug: "domains",
+-        extendsSlug: null,
++        extendsSlug: [],
+       }),
+       "akasha/module.page-type.ts": paged("module", "page-type", {
+         pluralSlug: "modules",
+-        extendsSlug: "page-type/domain",
++        extendsSlug: ["page-type/domain"],
+       }),
+       "akasha/workspace-package.page-type.ts": paged("workspace-package", "page-type", {
+         pluralSlug: "workspace-packages",
+-        extendsSlug: "page-type/domain",
++        extendsSlug: ["page-type/domain"],
+       }),
+       [AT]: paged("one", "workspace-package", { partSlugs: ["module/held"] }),
+       [HELD]: paged("held", "module"),
+diff --git a/command-system/commands/page-tree/page-tree.command.test.ts b/command-system/commands/page-tree/page-tree.command.test.ts
+index b6f2fc911505c2079bf41cd0910b07ee9d4c6f58..e95aeef7dcb1c14a2b682fc91366a078e6d59c2a 100644
+--- a/command-system/commands/page-tree/page-tree.command.test.ts
++++ b/command-system/commands/page-tree/page-tree.command.test.ts
+@@ -20,14 +20,14 @@ const TYPES: readonly Valued[] = [
+     path: "one/thing.page-type.ts",
+     value: {
+       slug: "thing",
+-      extendsSlug: "page-type/page",
++      extendsSlug: ["page-type/page"],
+       properties: [
+         { pagePropertySlug: "title", required: true, many: false },
+         { pagePropertySlug: "note", required: false, many: true, max: 3 },
+       ],
+     },
+   },
+-  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: null } },
++  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: [] } },
+ ]
+ 
+ const PROPERTIES = new Map<string, readonly Valued[]>([
+@@ -157,7 +157,7 @@ test("a property pointing at a page type is drawn as pointing at it", () => {
+       path: "one/held.page-type.ts",
+       value: {
+         slug: "held",
+-        extendsSlug: null,
++        extendsSlug: [],
+         properties: [{ pagePropertySlug: "title", required: true, many: false }],
+       },
+     },
+@@ -205,8 +205,8 @@ const ABOVE_TWO: readonly Valued[] = [
+     path: "one/held.page-type.ts",
+     value: { slug: "held", extendsSlug: ["page-type/module", "page-type/page-property"] },
+   },
+-  { path: "one/module.page-type.ts", value: { slug: "module", extendsSlug: "page-type/page" } },
+-  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: null } },
++  { path: "one/module.page-type.ts", value: { slug: "module", extendsSlug: ["page-type/page"] } },
++  { path: "one/page.page-type.ts", value: { slug: "page", extendsSlug: [] } },
+ ]
+ 
+ test("a page type naming two types above it is answered on one row for each", () => {
+@@ -230,13 +230,13 @@ test("a page type naming one type above it is answered on the one row it always
+ 
+ test("a kind of property is reached through any of the types above it", () => {
+   const types = new Map<string, Record<string, unknown>>([
+-    ["module", { slug: "module", extendsSlug: "page-type/page" }],
+-    ["page-property", { slug: "page-property", extendsSlug: "page-type/page" }],
++    ["module", { slug: "module", extendsSlug: ["page-type/page"] }],
++    ["page-property", { slug: "page-property", extendsSlug: ["page-type/page"] }],
+     [
+       "computed-property",
+       { slug: "computed-property", extendsSlug: ["page-type/module", "page-type/page-property"] },
+     ],
+-    ["faith-points", { slug: "faith-points", extendsSlug: "page-type/computed-property" }],
++    ["faith-points", { slug: "faith-points", extendsSlug: ["page-type/computed-property"] }],
+   ])
+ 
+   expect([...propertyKindsIn(types)].sort()).toEqual(["computed-property", "faith-points"])
+diff --git a/command-system/value-minting/value-minting.module.test.ts b/command-system/value-minting/value-minting.module.test.ts
+index 554b384f76cd7d2fccd70efe1d244dde09463e7f..c3c3ff932ecf47a2a9df42f61b0ee0cd559bb0bb 100644
+--- a/command-system/value-minting/value-minting.module.test.ts
++++ b/command-system/value-minting/value-minting.module.test.ts
+@@ -45,7 +45,7 @@ const PAGE_TYPE_AT = "akasha/page-type.page-type.ts"
+ 
+ const PAGE_TYPE_BODY =
+   `export const held = { id: "${TYPE_ID}", pageTypeSlug: "page-type", slug: "page-type",` +
+-  ' extendsSlug: null, properties: [{ pagePropertySlug: "id", required: true, many: false },' +
++  ' extendsSlug: [], properties: [{ pagePropertySlug: "id", required: true, many: false },' +
+   ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
+ 
+ function property(
+diff --git a/commands/read/read.command.test-fixtures.ts b/commands/read/read.command.test-fixtures.ts
+index b221810c03bbfb5ac5d0bfc4232812fc8a976406..43c2d8f73095745a45e87e6ec3d2f9a661f6928b 100644
+--- a/commands/read/read.command.test-fixtures.ts
++++ b/commands/read/read.command.test-fixtures.ts
+@@ -198,9 +198,10 @@ export type Planted = {
+   readonly code: string
+ }
+ 
+-export const THING_BODY = 'export const thing = { slug: "thing", extendsSlug: "page-type/page" }\n'
++export const THING_BODY =
++  'export const thing = { slug: "thing", extendsSlug: ["page-type/page"] }\n'
+ 
+-export const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: null }\n'
++export const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: [] }\n'
+ 
+ const TYPES: readonly { readonly slug: string; readonly at: string; readonly body: string }[] = [
+   { slug: "thing", at: THING_TYPE, body: THING_BODY },
+diff --git a/commands/refactor/type-respelling/type-respelling.module.test.ts b/commands/refactor/type-respelling/type-respelling.module.test.ts
+index dd03174ce87276b6eac5bcb6b84bd3fae0322e89..2c99a75d217c6c2d29a8e15f2aa28d588f3133d6 100644
+--- a/commands/refactor/type-respelling/type-respelling.module.test.ts
++++ b/commands/refactor/type-respelling/type-respelling.module.test.ts
+@@ -61,7 +61,7 @@ const ONE: Renaming = {
+ 
+ const KEYS: Record<string, string> = {
+   partSlugs: "part-slugs",
+-  extendsSlug: "extends-slug",
++  extendsSlug: ["extends-slug"],
+   principalSeatName: "principal-seat-name",
+   properties: "properties",
+ }
+@@ -91,7 +91,7 @@ const KNOWN: Shaped = {
+ }
+ 
+ test("an address is found under the key stating it", () => {
+-  const value = { partSlugs: ["page-type/seat"], extendsSlug: "seat" }
++  const value = { partSlugs: ["page-type/seat"], extendsSlug: ["seat"] }
+   expect(addressedIn(value, KNOWN, SEAT_ID)).toEqual([
+     { key: "partSlugs", named: "page-type/seat" },
+     { key: "extendsSlug", named: "seat" },
+@@ -110,7 +110,7 @@ test("the page type a page is states no address, a rename restating it by its ke
+ })
+ 
+ test("an address naming a page reaching somebody else is not this rename's", () => {
+-  expect(addressedIn({ extendsSlug: "page-type/seat" }, KNOWN, VERA_ID)).toEqual([])
++  expect(addressedIn({ extendsSlug: ["page-type/seat"] }, KNOWN, VERA_ID)).toEqual([])
+ })
+ 
+ test("an address to the page type is rewritten in the form it was written in", () => {
+diff --git a/context/modules/warranting/warranting.module.test-fixtures.ts b/context/modules/warranting/warranting.module.test-fixtures.ts
+index e745197dbafdef979d9162024d7f721541acd673..449abb5b20ccc09c9fedc7e9929e9ebb542c3694 100644
+--- a/context/modules/warranting/warranting.module.test-fixtures.ts
++++ b/context/modules/warranting/warranting.module.test-fixtures.ts
+@@ -236,7 +236,7 @@ export function roleListed(root: string, slug: string): Listed {
+ export function pageTypeListed(root: string, slug: string, above: string | null): string {
+   const id = mintedId(`type-${slug}`)
+   const path = `akasha/${slug}/${slug}.page-type.ts`
+-  const said = above === null ? "" : `, extendsSlug: "page-type/${above}"`
++  const said = above === null ? "" : `, extendsSlug: ["page-type/${above}"]`
+   writing(
+     root,
+     path,
+diff --git a/editor-extension/panel-domains/panel-domains.module.test.ts b/editor-extension/panel-domains/panel-domains.module.test.ts
+index 49f930cebcc242ac244764e1a71dc1d3b1c0b4ba..1697fbd0fff232f68c1887c2771a7372140748cf 100644
+--- a/editor-extension/panel-domains/panel-domains.module.test.ts
++++ b/editor-extension/panel-domains/panel-domains.module.test.ts
+@@ -51,7 +51,7 @@ test("a page type standing under domain is a kind that is drawn", () => {
+     "page-type",
+     "module",
+     KIND,
+-    'export const held = { slug: "module", extendsSlug: "page-type/domain" }\n'
++    'export const held = { slug: "module", extendsSlug: ["page-type/domain"] }\n'
+   )
+   const kinds = kindsUnderDomain(root)
+   expect(kinds.has("domain")).toBe(true)
+@@ -65,14 +65,14 @@ test("a page type standing under one that stands under domain is drawn too", ()
+     "page-type",
+     "module",
+     KIND,
+-    'export const held = { slug: "module", extendsSlug: "page-type/domain" }\n'
++    'export const held = { slug: "module", extendsSlug: ["page-type/domain"] }\n'
+   )
+   filing(
+     root,
+     "page-type",
+     "check",
+     TWO,
+-    'export const held = { slug: "check", extendsSlug: "page-type/module" }\n'
++    'export const held = { slug: "check", extendsSlug: ["page-type/module"] }\n'
+   )
+   expect(kindsUnderDomain(root).has("check")).toBe(true)
+ })
+@@ -84,7 +84,7 @@ test("a page type standing outside domain is no kind of this panel", () => {
+     "page-type",
+     "finding",
+     KIND,
+-    'export const held = { slug: "finding", extendsSlug: "page-type/page" }\n'
++    'export const held = { slug: "finding", extendsSlug: ["page-type/page"] }\n'
+   )
+   expect(kindsUnderDomain(root).has("finding")).toBe(false)
+ })
+diff --git a/pages/indexes/generated-properties/generated-properties.module.test.ts b/pages/indexes/generated-properties/generated-properties.module.test.ts
+index a9655e563c154d6c7e1f7421d156613d4fa5aa50..0c29f277ceac4702deacddcda522c79d415ff8dd 100644
+--- a/pages/indexes/generated-properties/generated-properties.module.test.ts
++++ b/pages/indexes/generated-properties/generated-properties.module.test.ts
+@@ -55,7 +55,7 @@ function typed(root: string, slug: string, declares: readonly string[]): undefin
+     root,
+     at,
+     `export const held = { id: "${ID}", pageTypeSlug: "page-type", slug: "${slug}",` +
+-      ` extendsSlug: null, properties: [${carried}] }\n`
++      ` extendsSlug: [], properties: [${carried}] }\n`
+   )
+   filed(root, `identity/page-type/slug/${slug}.jsonl`, { path: at, id: ID })
+ }
+diff --git a/pages/indexes/index-answering/index-answering.module.test.ts b/pages/indexes/index-answering/index-answering.module.test.ts
+index daac8100d71a51fde608dd8610829fec1ab61a77..590536e80b55d403d6cb10bd543c44f224fb0cc9 100644
+--- a/pages/indexes/index-answering/index-answering.module.test.ts
++++ b/pages/indexes/index-answering/index-answering.module.test.ts
+@@ -82,7 +82,7 @@ const TYPE_VALUE: Value = {
+   id: TYPE_ID,
+   pageTypeSlug: PAGE_TYPE,
+   slug: MODULE,
+-  extendsSlug: "page-type/domain",
++  extendsSlug: ["page-type/domain"],
+   properties: [{ pagePropertySlug: SLUG, required: true, many: false }],
+ }
+ 
+diff --git a/pages/indexes/index-entries/index-entries.module.test-fixtures.ts b/pages/indexes/index-entries/index-entries.module.test-fixtures.ts
+index e29ee3a7e67ae6b399a7504ee8e8a50298ceba67..fb91146ea588425c7a84300f243179efd2049229 100644
+--- a/pages/indexes/index-entries/index-entries.module.test-fixtures.ts
++++ b/pages/indexes/index-entries/index-entries.module.test-fixtures.ts
+@@ -60,13 +60,13 @@ export function grounded(): { readonly root: string; readonly repo: string } {
+     id: "1",
+     pageTypeSlug: "page-type",
+     slug: "domain",
+-    extendsSlug: "page",
++    extendsSlug: ["page"],
+   })
+   page("module.page-type.ts", {
+     id: "2",
+     pageTypeSlug: "page-type",
+     slug: "module",
+-    extendsSlug: "domain",
++    extendsSlug: ["domain"],
+   })
+   page("parts.record-property.ts", {
+     id: "3",
+diff --git a/pages/indexes/index-entries/index-entries.module.test.ts b/pages/indexes/index-entries/index-entries.module.test.ts
+index 6a94c314ea7b4b910ceb8ab5b1ec8828c31394ae..4fe7f5256c88f84c404e2eb3dfad131c11f805ea 100644
+--- a/pages/indexes/index-entries/index-entries.module.test.ts
++++ b/pages/indexes/index-entries/index-entries.module.test.ts
+@@ -278,11 +278,11 @@ test("a page type carries what every page type above it declares", () => {
+       id: "2",
+       pageTypeSlug: "page-type",
+       slug: "module",
+-      extendsSlug: "page-type/domain",
++      extendsSlug: ["page-type/domain"],
+       properties: [{ pagePropertySlug: "code" }],
+     },
+     { id: "3", pageTypeSlug: "page-type", slug: "domain", properties: [] },
+-    { id: "4", pageTypeSlug: "page-type", slug: "index", extendsSlug: "page-type/module" },
++    { id: "4", pageTypeSlug: "page-type", slug: "index", extendsSlug: ["page-type/module"] },
+   ]
+ 
+   const said = filePropertiesIn(values)
+@@ -395,7 +395,7 @@ test("a property two page types above declare is taken from the nearer of them",
+       slug: "near",
+       properties: [{ pagePropertySlug: "named-file-property/near-manifest" }],
+     },
+-    { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: "page-type/far" },
++    { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: ["page-type/far"] },
+     {
+       id: "d",
+       pageTypeSlug: "page-type",
+diff --git a/pages/indexes/index-stamp/index-stamp.module.test.ts b/pages/indexes/index-stamp/index-stamp.module.test.ts
+index 5d823c5d6a8e18e9351b4ab19716b6b7dd41be18..ba69c3244f51dfdce111275ddc53232a1734afb9 100644
+--- a/pages/indexes/index-stamp/index-stamp.module.test.ts
++++ b/pages/indexes/index-stamp/index-stamp.module.test.ts
+@@ -17,7 +17,7 @@ import {
+ const NOWHERE = "0000000000000000000000000000000000000000"
+ 
+ const A_PAGE =
+-  'export const it = { id: "01a04de3-0000-7000-8000-00000000000a", pageTypeSlug: "page-type", slug: "a", extendsSlug: null } as const\n'
++  'export const it = { id: "01a04de3-0000-7000-8000-00000000000a", pageTypeSlug: "page-type", slug: "a", extendsSlug: [] } as const\n'
+ 
+ const scratch = scratchWorld()
+ 
 diff --git a/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts b/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
 index 159ab844a0cfa0e226f15766b7dc9eafc10e5914..f2913d59194a1029411ddf8e7c677db6a55f3f34 100644
 --- a/pages/pages-core/schema/page-type-inheritance/page-type-inheritance.module.code.ts
@@ -68,6 +653,32 @@ index 159ab844a0cfa0e226f15766b7dc9eafc10e5914..f2913d59194a1029411ddf8e7c677db6
    const found: string[] = []
    for (const one of named) {
      if (typeof one !== "string" || one === "") continue
+diff --git a/pages/service/page-asking/page-asking.module.test.ts b/pages/service/page-asking/page-asking.module.test.ts
+index c9ba6c357c28e780649cd7b1d8a3373283eb35b2..ba8a3cf678c0b78abcb35a8bf9143517c448e31b 100644
+--- a/pages/service/page-asking/page-asking.module.test.ts
++++ b/pages/service/page-asking/page-asking.module.test.ts
+@@ -37,7 +37,7 @@ test("the owner is read from the second page type above where the first states n
+ test("the owner is taken from the nearer of the page types above", () => {
+   const held = typesHeld({
+     under: { extendsSlug: ["page-type/close", "page-type/apart"] },
+-    close: { extendsSlug: "page-type/distant" },
++    close: { extendsSlug: ["page-type/distant"] },
+     apart: { ownerSlug: "apart-owner" },
+     distant: { ownerSlug: "distant-owner" },
+   })
+diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
+index ab97df9dd66828f4e16caf3a897a3a21ac6e676e..f551eb6241504bd77854d211bce8756d8bffe3b2 100644
+--- a/pages/shadow/shadow.module.test.ts
++++ b/pages/shadow/shadow.module.test.ts
+@@ -88,7 +88,7 @@ const CHANGES: readonly FileEdit[] = [
+     id: idOf("t"),
+     pageTypeSlug: "page-type",
+     slug: "tag",
+-    extendsSlug: "page-type/domain",
++    extendsSlug: ["page-type/domain"],
+   }),
+   aChange("h.tag.ts", { id: idOf("h"), pageTypeSlug: "tag", slug: "h", note: "domain/b" }),
+ ]
 diff --git a/pages/value/page-value.module.code.ts b/pages/value/page-value.module.code.ts
 index 72e7287ccc024837e8cc987890f5c3b43aad1d91..9dbb493f6d57041c99dbea284a1a5694bb711cc2 100644
 --- a/pages/value/page-value.module.code.ts
