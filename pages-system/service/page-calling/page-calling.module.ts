@@ -59,6 +59,22 @@ export const pageCalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A body that will not read as JSON is refused rather than answered as nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal over a body that will not read carries what the parser said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal over a body that will not read names how many bytes came back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that will not read as JSON is not tried again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type's shape is asked for through this module.",
     },
     {
