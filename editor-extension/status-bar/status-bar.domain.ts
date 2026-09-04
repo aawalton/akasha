@@ -5,6 +5,7 @@ export const statusBar = {
   pageTypeSlug: "domain",
   slug: "status-bar",
   definition: "a strip of readings Alan keeps in view while he works",
+  partSlugs: ["module/status-bar-drawing"],
   invariants: [
     {
       invariantKind: "departure",
