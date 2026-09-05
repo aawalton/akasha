@@ -14,7 +14,7 @@ export const nextBossSavedVariables = {
     {
       invariantKind: "departure",
       statement:
-        "The timers kept are read back only where the campaign is the one they were kept under.",
+        "The timers kept are read back only where the campaign is the one those timers were kept under.",
     },
   ],
 } as const satisfies Module
