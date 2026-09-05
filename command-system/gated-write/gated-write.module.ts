@@ -9,7 +9,7 @@ export const gatedWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run is its exit code together with what that run printed.",
+      statement: "A run is its exit code together with the report that run printed.",
     },
     {
       invariantKind: "departure",
