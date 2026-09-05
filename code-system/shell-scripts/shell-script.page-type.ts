@@ -33,7 +33,7 @@ export const shellScript = {
     },
     {
       invariantKind: "departure",
-      statement: "What runs it names it rather than importing it.",
+      statement: "What runs a shell script names that script rather than importing that script.",
     },
     {
       invariantKind: "departure",
