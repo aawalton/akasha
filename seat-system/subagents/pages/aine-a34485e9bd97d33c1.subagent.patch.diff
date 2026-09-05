@@ -1,0 +1,117 @@
+diff --git a/alan/fitness/exercise-access/coaching-context/coaching-context.module.test.ts b/alan/fitness/exercise-access/coaching-context/coaching-context.module.test.ts
+index 16cd316c03d73848cddf89be53bbcf7a39e208ae..e95bfd44ff8279ce933cafd0a14ff54985c36585 100644
+--- a/alan/fitness/exercise-access/coaching-context/coaching-context.module.test.ts
++++ b/alan/fitness/exercise-access/coaching-context/coaching-context.module.test.ts
+@@ -68,7 +68,7 @@ describe("which constraints bind a focus", () => {
+   })
+ })
+ 
+-describe("what kit stands", () => {
++describe("what kit is there", () => {
+   test("a piece of kit saying nothing about whether it is there is there", () => {
+     const [held] = equipmentIn([rowOf({ id: "1", slug: "db", title: "Dumbbells" })])
+     expect(held?.available).toBe(true)
+diff --git a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
+index 723ace50dff17420a6d71c93c064d9f6ccc03b4b..0c602343418d9bc224e4d953ec6d7aba331d0118 100644
+--- a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
++++ b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
+@@ -38,7 +38,7 @@ export const coachingContext = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "No equipment item page stands, so nothing states the kit a session is loaded with.",
++        "No equipment item page exists, so nothing states the kit a session is loaded with.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
+index 5f10598b09025beb4b7011bdf8c5397d8f4cf9b7..9fe87f695156f2d39ee3ca2bbff5b75d9bf6041b 100644
+--- a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
++++ b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
+@@ -33,7 +33,7 @@ export const exerciseFinding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The schedule a day is read against is whichever one stands active.",
++      statement: "The schedule a day is read against is whichever one is active.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
+index 14e97cd85ae09d278d216d42077930352e32cd50..879e4eeb53ff0eb9539dc0a654c2c2f89c8d95a5 100644
+--- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
++++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
+@@ -41,7 +41,7 @@ export function checkoutRoot(): string {
+   const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
+   const root = roots[AKASHA]
+   if (root === undefined || root === "") {
+-    throw new Error("no akasha checkout stands here, so no fitness page can be read")
++    throw new Error("no akasha checkout exists here, so no fitness page can be read")
+   }
+   return root
+ }
+diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts
+index 0ba0b646fba2416050818351426df819d84df9a0..ca7d7b6e39243a20a6674304554ed3c4f468f467 100644
+--- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts
++++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts
+@@ -41,7 +41,7 @@ const SESSIONS: readonly Row[] = [
+ ]
+ 
+ describe("what a row states", () => {
+-  test("a page's own fields stand on the row under the names the page file gives them", () => {
++  test("a page's own fields are on the row under the names the page file gives them", () => {
+     const row = rowFrom({
+       id: "019ee093-e069-754e-bacc-b646edcd0357",
+       slug: "a-set",
+diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
+index b5c5c8e19f127ef6da651def9151c62ac5e710d5..ac2cd4cd447b1b5622d9de65d2c6c3f0d82269b1 100644
+--- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
++++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
+@@ -4,7 +4,7 @@ export const exerciseRows = {
+   id: "01a0685c-7d80-71d9-9b6b-dfe5a1891ec2",
+   pageTypeSlug: "module",
+   slug: "exercise-rows",
+-  definition: "the rows a fitness page type stands as in this checkout, and the fields on one row",
++  definition: "the rows a fitness page type has in this checkout, and the fields on one row",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.test.ts b/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.test.ts
+index 01e95ef67ceec30b1bf85334a6fb4e47d10a4a8c..99c5a3f07af2da6f077c462128c254ae4599de34 100644
+--- a/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.test.ts
++++ b/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.test.ts
+@@ -27,7 +27,7 @@ describe("what a rotation trains", () => {
+     expect(focusIn(sunday as Row)).toBeNull()
+   })
+ 
+-  test("a day that does not stand names no focus", () => {
++  test("a day that is not there names no focus", () => {
+     expect(focusIn(null)).toBeNull()
+   })
+ 
+diff --git a/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts b/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts
+index 6487958c43dfd55c04f54c5d134c49840a4d62d8..f8ff1361572c07bcb8a839beb6ae838fd2fcc4da 100644
+--- a/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts
++++ b/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts
+@@ -28,7 +28,7 @@ describe("what a session's sets come to", () => {
+     expect(exerciseSlugsIn(SET_LOGS).length).toBe(3)
+   })
+ 
+-  test("a movement is named once however many of its sets stand", () => {
++  test("a movement is named once however many sets it has", () => {
+     expect(exerciseSlugsIn(SET_LOGS)).toEqual(["goblet-squat", "push-up", "bike"])
+   })
+ 
+diff --git a/alan/fitness/exercise-access/session-volume/session-volume.module.ts b/alan/fitness/exercise-access/session-volume/session-volume.module.ts
+index 853b6a4957a7f0044b6b9e4e7c29940454910968..a81c12b85ef76707a46f7dc276a6b08a07716af6 100644
+--- a/alan/fitness/exercise-access/session-volume/session-volume.module.ts
++++ b/alan/fitness/exercise-access/session-volume/session-volume.module.ts
+@@ -34,7 +34,7 @@ export const sessionVolume = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "No client profile page stands, so nothing states the weight volume is counted against.",
++        "No client profile page exists, so nothing states the weight volume is counted against.",
+     },
+   ],
+ } as const satisfies Module
