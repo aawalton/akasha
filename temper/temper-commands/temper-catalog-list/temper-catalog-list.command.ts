@@ -15,7 +15,7 @@ export const temperCatalogList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The domains are read from what the catalog addon registers.",
+      statement: "The domains are read from the keys the catalog addon registers.",
     },
     {
       invariantKind: "departure",
