@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/categorize/monarch-categorize.module.ts b/alan/harness/monarch/categorize/monarch-categorize.module.ts
+index 8dabe658bbbbc01a675d535e24ca4ffe6653ec21..01cd25a66fb5bd7181c84f025500c460e99b1bb1 100644
+--- a/alan/harness/monarch/categorize/monarch-categorize.module.ts
++++ b/alan/harness/monarch/categorize/monarch-categorize.module.ts
+@@ -29,7 +29,8 @@ export const monarchCategorize = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What decided is recorded beside the category rather than left to be inferred.",
++      statement:
++        "The rule that decided is recorded beside the category rather than left to be inferred.",
+     },
+     {
+       invariantKind: "departure",
