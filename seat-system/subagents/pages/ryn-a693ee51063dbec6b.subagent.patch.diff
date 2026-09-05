@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/object-store/object-store.workspace-package.ts b/object-store/object-store.workspace-package.ts
+index 0f35b528bd40b9f01bffe1685cd4764a49046229..28e0a579e73b9a3d2f66f59fb20da09fbcbc72c0 100644
+--- a/object-store/object-store.workspace-package.ts
++++ b/object-store/object-store.workspace-package.ts
+@@ -24,7 +24,7 @@ export const objectStore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What cannot be remade is copied where nothing deletes.",
++      statement: "Bytes that cannot be remade are copied where nothing deletes.",
+     },
+     {
+       invariantKind: "departure",
