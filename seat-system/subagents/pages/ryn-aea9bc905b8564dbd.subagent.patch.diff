@@ -47,3 +47,18 @@ index 43d23fcdd24d596fa110e95379deeec2dd6e9794..3c0f2ba89d6a8bcb8f0310ced641c967
 -    },
 -  ],
  } as const satisfies Module
+diff --git a/temper/temper-dungeon-champions/dungeon-champion-places-01/dungeon-champion-places-01.module.ts b/temper/temper-dungeon-champions/dungeon-champion-places-01/dungeon-champion-places-01.module.ts
+index 38c68ebae418fd320223ea297bbad6b5061bc117..0cffbc66946eea0ad9b19870976dec43a4a9a633 100644
+--- a/temper/temper-dungeon-champions/dungeon-champion-places-01/dungeon-champion-places-01.module.ts
++++ b/temper/temper-dungeon-champions/dungeon-champion-places-01/dungeon-champion-places-01.module.ts
+@@ -6,10 +6,4 @@ export const dungeonChampionPlaces01 = {
+   slug: "dungeon-champion-places-01",
+   definition: "where the champions of the last sixteen zones are found",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "A zone belongs to one group of places alone.",
+-    },
+-  ],
+ } as const satisfies Module
