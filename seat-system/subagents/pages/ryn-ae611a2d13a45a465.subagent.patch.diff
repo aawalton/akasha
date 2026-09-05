@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts b/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts
+index a376e647fdfc608eb5d7874357e03af06759b869..d801325d97fe47cefdad4941190bee07c46ebc2c 100644
+--- a/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts
++++ b/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts
+@@ -14,7 +14,7 @@ export const codeEditorTerminal = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A terminal moves only where Alan's own layout moves it.",
++      statement: "A terminal moves only where Alan's own layout moves that terminal.",
+     },
+     {
+       invariantKind: "departure",
