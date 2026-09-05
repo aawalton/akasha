@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/command-system/commands/test/test.command.ts b/command-system/commands/test/test.command.ts
-index afff995a88d3ee3d26cace504b5a64755dedd8c1..dff0a810a8b66672d85fe5fc7f0d9f32020403ea 100644
+index afff995a88d3ee3d26cace504b5a64755dedd8c1..52233b67ef9fd7d06e735615093aa6793d1aabdf 100644
 --- a/command-system/commands/test/test.command.ts
 +++ b/command-system/commands/test/test.command.ts
-@@ -77,19 +77,20 @@ export const test = {
+@@ -77,23 +77,25 @@ export const test = {
      },
      {
        invariantKind: "departure",
@@ -28,3 +28,9 @@ index afff995a88d3ee3d26cace504b5a64755dedd8c1..dff0a810a8b66672d85fe5fc7f0d9f32
      },
      {
        invariantKind: "departure",
+-      statement: "The runner says what an assertion expected on the stream its markers are not on.",
++      statement:
++        "The runner prints an assertion's expectation on the stream its markers are not on.",
+     },
+   ],
+ } as const satisfies Command
