@@ -26,7 +26,7 @@ export const addonDataProof = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a section throws, the throw is what is reported about that section.",
+      statement: "Where a section throws, the throw is that section's report.",
     },
     {
       invariantKind: "departure",
