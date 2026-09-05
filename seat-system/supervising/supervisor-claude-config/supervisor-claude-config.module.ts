@@ -10,11 +10,12 @@ export const supervisorClaudeConfig = {
     {
       invariantKind: "departure",
       statement:
-        "A declared project entry is merged into the existing one rather than replacing it.",
+        "A declared project entry is merged into the existing entry rather than replacing that entry.",
     },
     {
       invariantKind: "departure",
-      statement: "A project path is expanded against the home directory before it is keyed on.",
+      statement:
+        "A project path is expanded against the home directory before that path is keyed on.",
     },
     {
       invariantKind: "departure",
