@@ -27,7 +27,7 @@ export const directives = {
     { pagePropertySlug: "name", required: true, many: false },
     { pagePropertySlug: "act", required: true, many: false },
     { pagePropertySlug: "warrant", required: true, many: false },
-    { pagePropertySlug: "aids", required: true, many: true, max: 5 },
+    { pagePropertySlug: "aids", required: true, many: true, max: 10 },
   ],
   invariants: [
     {
