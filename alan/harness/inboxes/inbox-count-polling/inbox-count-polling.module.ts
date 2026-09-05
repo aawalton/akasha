@@ -25,7 +25,7 @@ export const inboxCountPolling = {
     },
     {
       invariantKind: "constraint",
-      statement: "The last finish a to-do keeps for good says nothing about what is owed now.",
+      statement: "The last finish a to-do keeps for good says nothing about the round owed now.",
     },
     {
       invariantKind: "departure",
