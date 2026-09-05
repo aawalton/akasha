@@ -27,7 +27,7 @@ export const monarchRuleDescribe = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what a rule decides, only what it narrows on.",
+      statement: "Nothing here says what a rule decides, only what that rule narrows on.",
     },
   ],
 } as const satisfies Module
