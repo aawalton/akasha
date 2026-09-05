@@ -12,7 +12,7 @@ export const equipmentLoads = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The loads are in the order they are climbed, lightest first.",
+      statement: "The loads are in the order the loads are climbed, lightest first.",
     },
     {
       invariantKind: "departure",
