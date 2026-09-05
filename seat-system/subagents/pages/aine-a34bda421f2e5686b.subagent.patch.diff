@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index caeef3c40502bb5a864f2c2b06208c2dfde299d1..15655b0b035c201ccedec3f2e0aef9c94f1eb43a 100644
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..66cd2035b118b5d211e794b4d27f33d4778e3cb1 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
@@ -35,8 +35,17 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..15655b0b035c201ccedec3f2e0aef9c9
    expect(RUNNING).toBe("AKASHA_TESTS_RUNNING")
    const was = process.env[RUNNING]
    process.env[RUNNING] = "1"
+@@ -181,7 +181,7 @@ check("the mark a run carries is read back by whoever stands inside it", () => {
+ })
+ 
+ check("a world is written out of the bodies handed in, not off the tree it is made from", () => {
+-  const from = repo({ "one.ts": "what stands on disk\n" })
++  const from = repo({ "one.ts": "what is on disk\n" })
+   const world = worldOf(
+     from,
+     ["akasha/one.ts"],
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..7ee14a3c9b8b3910328c3b9d2697657873a2f831 100644
+index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..675b9113b34c53aabe4cf144191ed6bfa4038ffa 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -5,7 +5,7 @@ export const codeTests = {
@@ -75,3 +84,12 @@ index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..7ee14a3c9b8b3910328c3b9d26976578
      },
      {
        invariantKind: "departure",
+@@ -180,7 +180,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A package the folder of installed modules holds stands outside that folder.",
++      statement: "A package the folder of installed modules holds is outside that folder.",
+     },
+     {
+       invariantKind: "gap",
