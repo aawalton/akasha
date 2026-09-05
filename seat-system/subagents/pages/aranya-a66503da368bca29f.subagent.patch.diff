@@ -9,3 +9,23 @@ index bfb85951176f663b1c1a2203951ef38fd25ab1ac..70495becbcda075a5502dcb4e1a6c585
 -  manifestCode: "temper/temper-web/temper-web.cluster-service.code.attachment.ts",
 +  manifestSlug: "temper-web-manifests",
  } as const satisfies ClusterService
+diff --git a/temper/temper-web/tsconfig.json b/temper/temper-web/tsconfig.json
+index 6821b0850fcceaa7144a5bf5ee8cde6b96677ef2..566ae812a669139dc86acf2dbd16549de1ddad05 100644
+--- a/temper/temper-web/tsconfig.json
++++ b/temper/temper-web/tsconfig.json
+@@ -26,13 +26,14 @@
+     ".server/*/*.module.ts",
+     ".server/*/*.module.code.ts",
+     "deploy/*.ts",
++    "*/*.manifest.ts",
++    "*/*.manifest.code.ts",
+     ".react-router/types/**/*.ts",
+     ".react-router/types/**/*.tsx",
+     ".react-router/types/**/+types/*.ts",
+     "server.ts",
+     "vite.config.ts",
+     "react-router.config.ts",
+-    "*.cluster-service.code.attachment.ts",
+     "tunnel-routes.ts"
+   ],
+   "exclude": ["node_modules", "dist", "build"]
