@@ -76,7 +76,7 @@ export const patching = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch is text whatever the bodies it draws hold.",
+      statement: "A patch is text whatever the bodies that patch draws hold.",
     },
     {
       invariantKind: "departure",
