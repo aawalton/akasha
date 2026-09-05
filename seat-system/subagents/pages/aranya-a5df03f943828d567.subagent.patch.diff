@@ -187,17 +187,22 @@ index 0000000000000000000000000000000000000000..7d697749a4b259a0e0dca871eb3fb639
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index 97debf5bd821c4a6c3437c215c87f5a1bac430f8..46bab259a7c8db4b6c209340f6b4a5b9283fc496 100644
+index d552772b1624b1223e3b11788e26f0690e7a7e88..4b7719298bfd1b7dd69b440e02389edc10b8b229 100644
 --- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 691401e862a32bcf7dae83a92203008254817c5f..b595d4abbf35cd01e3a4003947922146
+@@ -395,8 +395,12 @@ index 691401e862a32bcf7dae83a92203008254817c5f..12ee6bf5000b49c22320badedaca7444
     image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
     schedule: "0 */6 * * *",
  -  manifestCode:
---    "service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/job/pod-janitor/pod-janitor.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "pod-janitor",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/job/pod-janitor/pod-janitor.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 7d697749a4b259a0e0dca871eb3fb639e7eb21a9..0000000000000000000000000000000000000000
@@ -387,18 +392,14 @@ index 7d697749a4b259a0e0dca871eb3fb639e7eb21a9..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.ts b/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.ts
-index 691401e862a32bcf7dae83a92203008254817c5f..12ee6bf5000b49c22320badedaca74445f7c51c4 100644
+index 691401e862a32bcf7dae83a92203008254817c5f..b595d4abbf35cd01e3a4003947922146fcd48d8c 100644
 --- a/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.ts
 +++ b/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.ts
-@@ -10,6 +10,9 @@ export const podJanitor = {
+@@ -10,6 +10,5 @@ export const podJanitor = {
    resourceName: "pod-janitor",
    image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
    schedule: "0 */6 * * *",
 -  manifestCode:
 -    "service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "pod-janitor",
-+=======
-+  manifestCode: "infrastructure/job/pod-janitor/pod-janitor.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
