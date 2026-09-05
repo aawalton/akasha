@@ -141,3 +141,18 @@ index 7da0d67ead37cab6775680109117085b3d1480d7..4c7e3a0ff30b6e3eaafb1304a7086a0b
  
      {
        invariantKind: "departure",
+diff --git a/temper/temper-character/companion-builds/companion-build.page-type.ts b/temper/temper-character/companion-builds/companion-build.page-type.ts
+index 3a07686661e170aaba171c7034d4ef5c3c192749..61ac5f7725f1d6a423f99cc1f5d62f76659b642a 100644
+--- a/temper/temper-character/companion-builds/companion-build.page-type.ts
++++ b/temper/temper-character/companion-builds/companion-build.page-type.ts
+@@ -42,10 +42,6 @@ export const companionBuild = {
+       invariantKind: "departure",
+       statement: "Two builds arranged alike carry one hash.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name is author-given, so several builds answer to the same name.",
+-    },
+ 
+     {
+       invariantKind: "departure",
