@@ -1,5 +1,23 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index 7f1e5d20b1c17a9166ee9176bcdc440517eac586..3fa103fe20538a26352f64bfca44adb07d1b1074 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -379,10 +379,11 @@ export async function landedMechanically(
+   calledAs: string,
+   changes: readonly FileEdit[],
+   message: string,
+-  unmoved: readonly Held[] = []
++  unmoved: readonly Held[] = [],
++  agentId: string | null = null
+ ): Promise<Answer> {
+   return await landingAsked(
+-    { root, calledAs, from: root, writer: null, agentId: null, changeKind: MECHANICAL },
++    { root, calledAs, from: root, writer: null, agentId, changeKind: MECHANICAL },
+     { changes, message, dryRun: false, glass: null, unmoved, saying: wroteAndTook }
+   )
+ }
 diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
-index 36a860645d6fe3dd4059ccea0b5c088ff6d4f379..4b8e6d80531c17e05843202a83c689bdd631f1e9 100644
+index b5de8b88ad7131d009721a8f1d0a0d1331f9ef5e..997c659006dea17ce5172d82bceee6b816d7d546 100644
 --- a/command-system/asking/asking.module.test-fixtures.ts
 +++ b/command-system/asking/asking.module.test-fixtures.ts
 @@ -46,7 +46,7 @@ export const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
