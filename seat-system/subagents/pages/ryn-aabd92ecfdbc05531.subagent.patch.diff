@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/commands/properties/help-notes.text-property.ts b/command-system/commands/properties/help-notes.text-property.ts
+index ea81180558dcc53100216996f65c9a602723f1d0..377c0a277039e2b78ef1bcb9f45dc42ce6d177fc 100644
+--- a/command-system/commands/properties/help-notes.text-property.ts
++++ b/command-system/commands/properties/help-notes.text-property.ts
+@@ -21,7 +21,8 @@ export const helpNotes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What one thing a command takes is for sits beside that thing rather than here.",
++      statement:
++        "The purpose of one thing a command takes sits beside that thing rather than here.",
+     },
+     {
+       invariantKind: "absence",
