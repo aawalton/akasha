@@ -1,0 +1,14 @@
+diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
+index d6531e3efd8ff343be0d9e256965cd37479d607a..7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946 100644
+--- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
++++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
+@@ -65,7 +65,8 @@ export const invariantStatementIsPlain = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "Every phase but patch is off until the invariants akasha holds are rewritten.",
++      statement:
++        "Every phase is off until the shapes are settled and the invariants are rewritten.",
+     },
+     {
+       invariantKind: "gap",
