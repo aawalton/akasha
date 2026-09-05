@@ -28,3 +28,18 @@ index e2855edbd9704cccabe052af68b8052a12f8e9ec..84edcbc735255b1de9a274de2befded3
      {
        invariantKind: "departure",
        statement: "A row holding a match is drawn open while a filter is there.",
+diff --git a/temper/temper-character/temper-character.domain.ts b/temper/temper-character/temper-character.domain.ts
+index b465cf83a015c15e1bc1b364c983bff6dd40c74b..a4497e553c24af4633c3895fec43ef440839369c 100644
+--- a/temper/temper-character/temper-character.domain.ts
++++ b/temper/temper-character/temper-character.domain.ts
+@@ -22,4 +22,10 @@ export const temperCharacter = {
+     "page-type/temper-skill-point",
+     "page-type/temper-weapon-bar",
+   ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A name is author-given, so several builds answer to the same name.",
++    },
++  ],
+ } as const satisfies Domain
