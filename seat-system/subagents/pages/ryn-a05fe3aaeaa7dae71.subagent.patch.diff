@@ -1,0 +1,13 @@
+diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
+index 21c314d00fe6e00e38dfecb1bc77d3e007e9f514..d88e747d6a13f64ed58e69360a1fe9db02d73375 100644
+--- a/checks/modules/check-scratch/check-scratch.module.ts
++++ b/checks/modules/check-scratch/check-scratch.module.ts
+@@ -51,7 +51,7 @@ export const checkScratch = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "This module only writes into it.",
++      statement: "This module only writes into the scratch.",
+     },
+     {
+       invariantKind: "absence",
