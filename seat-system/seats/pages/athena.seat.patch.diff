@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/story/games/pages/partners-ii/partners-ii.game.gm-context.json b/story/games/pages/partners-ii/partners-ii.game.gm-context.json
-index a1bc4f2d9382d9687d57f97c6e3b23731b55275f..07cba793b4c47583a52b2b690f3c19bcb185126a 100644
+index a1bc4f2d9382d9687d57f97c6e3b23731b55275f..7f7bd9b712e88c389fd37e31397d9c75594fc8ca 100644
 --- a/story/games/pages/partners-ii/partners-ii.game.gm-context.json
 +++ b/story/games/pages/partners-ii/partners-ii.game.gm-context.json
-@@ -365,16 +365,12 @@
+@@ -365,15 +365,11 @@
        },
        {
          "id": "narrate-turn",
@@ -12,12 +12,12 @@ index a1bc4f2d9382d9687d57f97c6e3b23731b55275f..07cba793b4c47583a52b2b690f3c19bc
        },
        {
          "id": "update-state",
-         "requirement": "Update display state (commit-state, litrpg shape) — HUD pools, sheet, beat log with system windows for mechanical events."
-       },
+-        "requirement": "Update display state (commit-state, litrpg shape) — HUD pools, sheet, beat log with system windows for mechanical events."
+-      },
 -      {
 -        "id": "update-entities",
 -        "requirement": "If any canonical sheet changed, ALSO commit-entity for each changed entity — commit-state sets only the relation, never the sheet."
--      },
++        "requirement": "Update display state (litrpg shape) — HUD pools, sheet, beat log with system windows for mechanical events."
+       },
        {
          "id": "update-continuity",
-         "requirement": "Update narrativeContinuity when canon moved: new facts, promises, named NPCs, world state."
