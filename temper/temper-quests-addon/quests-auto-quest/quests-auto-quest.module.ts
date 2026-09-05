@@ -27,7 +27,7 @@ export const questsAutoQuest = {
     },
     {
       invariantKind: "departure",
-      statement: "Turning the addon off forgets what the addon remembered.",
+      statement: "Turning the addon off forgets the state the addon remembered.",
     },
     {
       invariantKind: "constraint",
