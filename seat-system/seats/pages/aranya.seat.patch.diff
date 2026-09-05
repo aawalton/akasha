@@ -49,3 +49,28 @@ index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..4a304d55534d63cafa573045afe93b34
      },
    ],
  } as const satisfies PageType
+diff --git a/service-system/cluster-services/properties/cluster-service-manifest-code.text-property.ts b/service-system/cluster-services/properties/cluster-service-manifest-code.text-property.ts
+deleted file mode 100644
+index e1f0f891b0907b9089857d1d078da79b1098db67..0000000000000000000000000000000000000000
+--- a/service-system/cluster-services/properties/cluster-service-manifest-code.text-property.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type ManifestCode = string
+-
+-export const clusterServiceManifestCode = {
+-  id: "01a05b26-f8b6-7d7a-b580-8d91b5a2207a",
+-  pageTypeSlug: "text-property",
+-  slug: "cluster-service-manifest-code",
+-  propertySlug: "manifest-code",
+-  definition: "the file emitting a cluster service's manifests",
+-  max: 200,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The file is named from the repository root.",
+-    },
+-  ],
+-} as const satisfies TextProperty
