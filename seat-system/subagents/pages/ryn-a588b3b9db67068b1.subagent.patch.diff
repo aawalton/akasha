@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/indexes/generated-properties/generated-properties.module.ts b/pages/indexes/generated-properties/generated-properties.module.ts
+index b3a57039b34384b98cf1a9132b71151d4731dacc..c33b7e2967df5f85a6c8d53ee2c064453b504307 100644
+--- a/pages/indexes/generated-properties/generated-properties.module.ts
++++ b/pages/indexes/generated-properties/generated-properties.module.ts
+@@ -38,7 +38,7 @@ export const generatedProperties = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "That key is read from what the property states rather than camelised from a slug.",
++        "That key is read from the property slug that property states rather than camelised from a slug.",
+     },
+     {
+       invariantKind: "departure",
