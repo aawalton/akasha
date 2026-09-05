@@ -22,7 +22,7 @@ test("a JSON file beside a code file leaves only the code file waited on", () =>
   expect(unparsedIn([`${ROOT}/a.json`, `${ROOT}/b.ts`])).toEqual([`${ROOT}/b.ts`])
 })
 
-test("the command is what stands after the first double dash", () => {
+test("the command is what comes after the first double dash", () => {
   expect(commandIn(["--also", "x", "--", "bun", "a.ts"])).toEqual(["bun", "a.ts"])
 })
 

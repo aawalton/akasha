@@ -91,7 +91,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
   }
   if (service.stopped) {
     process.stderr.write(
-      `${says} stopped at ${REACHED_CEILING} file(s), which is the ceiling; what stands past it is not followed\n`
+      `${says} stopped at ${REACHED_CEILING} file(s), which is the ceiling; what is past it is not followed\n`
     )
   }
 
@@ -113,7 +113,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
       if (restarting) return
       restarting = true
       process.stderr.write(
-        `${says} ${namedIn(moved, root)} moved; restarting so it runs on what stands\n`
+        `${says} ${namedIn(moved, root)} moved; restarting so it runs on what is there now\n`
       )
       following.stop()
       child.kill("SIGTERM")
@@ -125,7 +125,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
 
   for (const at of following.unfollowed) {
     process.stderr.write(
-      `${says} ${under(at)} could not be watched, so what stands in it is not followed\n`
+      `${says} ${under(at)} could not be watched, so what is in it is not followed\n`
     )
   }
 

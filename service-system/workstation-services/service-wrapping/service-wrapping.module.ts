@@ -36,7 +36,7 @@ export const serviceWrapping = {
     },
     {
       invariantKind: "departure",
-      statement: "The command is what stands after the first double dash.",
+      statement: "The command is what comes after the first double dash.",
     },
     {
       invariantKind: "departure",

@@ -20,13 +20,13 @@ function fileAt(rel: string, text: string): string {
   return at
 }
 
-test("a file standing under the root is reached and one standing outside it is not", () => {
+test("a file under the root is reached and one outside it is not", () => {
   expect(insideRepo("/a/b", "/a/b/c.ts")).toBe(true)
   expect(insideRepo("/a/b", "/a/c.ts")).toBe(false)
   expect(insideRepo("/a/b", "/a/bc/d.ts")).toBe(false)
 })
 
-test("a file standing in a vendor folder is reached by nothing", () => {
+test("a file in a vendor folder is reached by nothing", () => {
   expect(insideRepo("/a/b", "/a/b/node_modules/x/i.ts")).toBe(false)
   expect(insideRepo("/a/b", "/a/b/src/node_modules_of_ours/i.ts")).toBe(true)
 })

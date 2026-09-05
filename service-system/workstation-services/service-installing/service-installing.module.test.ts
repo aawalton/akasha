@@ -61,7 +61,7 @@ test("only the timer of a scheduled service is enabled", () => {
   expect([...plan.write.keys()].length).toBe(2)
 })
 
-test("a unit standing that no service accounts for is removed", () => {
+test("a unit there that no service accounts for is removed", () => {
   const plan = planFor([pageOf({})], ["held-service.service", "gone-away.service"])
   expect(plan.remove).toEqual(["gone-away.service"])
 })
@@ -98,7 +98,7 @@ test("linking a unit already linked leaves it alone", () => {
   expect(existsSync(join(systemdDir(HOME), "z.service"))).toBe(true)
 })
 
-test("a link standing where a unit belongs is replaced rather than refused", () => {
+test("a link sitting where a unit belongs is replaced rather than refused", () => {
   writeUnit(HOME, "w.service", "body")
   writeFileSync(join(systemdDir(HOME), "w.service"), "someone else wrote this")
   linkUnit(HOME, "w.service")
@@ -121,6 +121,6 @@ test("unlinking a unit takes away both the link and the file it named", () => {
   expect(existsSync(join(stagingDir(HOME), "bye.service"))).toBe(false)
 })
 
-test("nothing is owned where no unit folder stands", () => {
+test("nothing is owned where there is no unit folder", () => {
   expect(ourInstalled(join(HOME, "nowhere"))).toEqual([])
 })

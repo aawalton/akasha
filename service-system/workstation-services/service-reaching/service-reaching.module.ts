@@ -14,11 +14,11 @@ export const serviceReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is reached at the path it really stands at rather than the one naming it.",
+      statement: "A file is reached at the path it really is at rather than the one naming it.",
     },
     {
       invariantKind: "departure",
-      statement: "A file that will not scan stops what stands behind the file and not the rest.",
+      statement: "A file that will not scan stops what is behind the file and not the rest.",
     },
     {
       invariantKind: "departure",

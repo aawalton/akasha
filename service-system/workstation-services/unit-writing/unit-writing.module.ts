@@ -10,7 +10,7 @@ export const unitWriting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A unit is written from a page's value and the path that page stands at.",
+      statement: "A unit is written from a page's value and the path that page is at.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const unitWriting = {
     },
     {
       invariantKind: "gap",
-      statement: "Eleven of the seventeen options the services standing today state are written.",
+      statement: "Eleven of the seventeen options the services there today state are written.",
     },
   ],
 } as const satisfies Module

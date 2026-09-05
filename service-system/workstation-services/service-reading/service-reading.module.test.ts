@@ -13,7 +13,7 @@ const WHOLE = {
   id: "01a05a51-0000-7000-8000-00000000000c",
   pageTypeSlug: "workstation-service",
   slug: "a-service",
-  definition: "a service standing for a test",
+  definition: "a service representing a test",
   runs: ["bun a.ts"],
   enabled: true,
 }
@@ -84,7 +84,7 @@ test("a slug no service is filed under is refused by name", () => {
   expect("refused" in read).toBe(true)
 })
 
-test("the service standing today is read from its page", () => {
+test("the service there today is read from its page", () => {
   const read = readFor(ROOT, "pages-system-service")
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
@@ -94,7 +94,7 @@ test("the service standing today is read from its page", () => {
   expect(read.services[0]?.pagePath).toContain("pages-system-service.workstation-service.ts")
 })
 
-test("every service standing is read, and the one standing today is among them", () => {
+test("every service there is read, and the one there today is among them", () => {
   const read = everyService(ROOT)
   expect("refused" in read).toBe(false)
   if ("refused" in read) return

@@ -4,7 +4,7 @@ export const serviceInstalling = {
   id: "01a05a62-6da2-7e4f-9186-137486a0d1e2",
   pageTypeSlug: "module",
   slug: "service-installing",
-  definition: "the units a workstation service stands installed as",
+  definition: "the units a workstation service is installed as",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,7 +18,7 @@ export const serviceInstalling = {
     },
     {
       invariantKind: "departure",
-      statement: "Anything else standing beside a unit of ours is left alone.",
+      statement: "Anything else sitting beside a unit of ours is left alone.",
     },
     {
       invariantKind: "departure",

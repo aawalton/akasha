@@ -97,11 +97,11 @@ export function textFor(given: Service): ReadonlyMap<string, string> {
   return held
 }
 
-export function planFor(standing: readonly Service[], owned: readonly string[]): Plan {
+export function planFor(services: readonly Service[], owned: readonly string[]): Plan {
   const write = new Map<string, string>()
   const enable: string[] = []
   const stop: string[] = []
-  for (const one of standing) {
+  for (const one of services) {
     for (const [name, text] of textFor(one)) write.set(name, text)
     const named = installedUnitName(one)
     if (one.service.enabled) enable.push(named)
