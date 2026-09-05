@@ -13,7 +13,7 @@ export const extensionEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "Every panel is named here with the start that brings it up.",
+      statement: "Every panel is named here with the start that brings that panel up.",
     },
     {
       invariantKind: "departure",
@@ -29,11 +29,11 @@ export const extensionEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "A window closing while starting takes its command server with it.",
+      statement: "A window closing while starting takes its command server with that window.",
     },
     {
       invariantKind: "departure",
-      statement: "The server's own stdin closing reaps it where this host is killed.",
+      statement: "The server's own stdin closing reaps that server where this host is killed.",
     },
     {
       invariantKind: "departure",
