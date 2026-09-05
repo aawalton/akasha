@@ -30,8 +30,8 @@ export const terminalEntryPoints = {
       statement: "A seat begins in the folder holding the checkouts rather than in the checkout.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The old ops entry point is spelled here while its acts are still carried there.",
+      invariantKind: "departure",
+      statement: "The akasha command is spelled here as what a terminal reaches a command through.",
     },
     {
       invariantKind: "absence",

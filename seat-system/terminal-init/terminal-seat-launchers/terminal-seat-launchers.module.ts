@@ -61,8 +61,8 @@ export const terminalSeatLaunchers = {
       statement: "A seat's attributes are stated before its client comes up.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "Starting a seat is still asked of the old ops entry point.",
+      invariantKind: "departure",
+      statement: "Starting a seat is asked of the akasha command by name.",
     },
   ],
 } as const satisfies Module

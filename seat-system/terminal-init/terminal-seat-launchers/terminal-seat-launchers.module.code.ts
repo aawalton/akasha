@@ -202,7 +202,7 @@ export function seatNewFn(name: string): string {
     `  [ -n "$_${name}_typed_role" ] && _${name}_stated+=(--role "$_${name}_typed_role")`,
     `  [ -n "$_${name}_typed_domain" ] && ` +
       `_${name}_stated+=(--domain "$_${name}_typed_domain")`,
-    `  full_aid=$(ops seat start "\${_${name}_stated[@]}") || {`,
+    `  full_aid=$(${AKASHA} seat start "\${_${name}_stated[@]}") || {`,
     `    echo "${name}: '$_${name}_seat' was not bound, so nothing was launched." >&2`,
     "    return 1",
     "  }",
