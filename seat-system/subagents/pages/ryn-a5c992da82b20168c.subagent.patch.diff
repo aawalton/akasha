@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
-index bfd4a3da5c45bd59fe6db9bf842b7d00d977d40d..d512b35a0657bc743c655b5fac4e248fdce242b9 100644
+index bfd4a3da5c45bd59fe6db9bf842b7d00d977d40d..4aa2f1c45d265958d8c525ebba6401d595142b77 100644
 --- a/agents/claude-accounts/claude-account.page-type.ts
 +++ b/agents/claude-accounts/claude-account.page-type.ts
-@@ -169,7 +169,7 @@ export const claudeAccount = {
+@@ -169,11 +169,11 @@ export const claudeAccount = {
      {
        invariantKind: "departure",
        statement:
 -        "The rest of what an account states is answered by the upstream probe at its first sign-in.",
 +        "The rest of the values an account states is answered by the upstream probe at its first sign-in.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is observed of an account sits beside its page rather than in that page.",
++      statement: "The marks observed of an account sit beside its page rather than in that page.",
      },
      {
        invariantKind: "departure",
