@@ -447,3 +447,11 @@ index 5cc56a1737615847e63f3d7292c0b8f91d064f53..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/url
 \ No newline at end of file
+diff --git a/smilingjenny/smilingjenny-web/smilingjenny-web b/smilingjenny/smilingjenny-web/smilingjenny-web
+deleted file mode 120000
+index 316d2485005b620b9de2f5009ab55c7d55b919a2..0000000000000000000000000000000000000000
+--- a/smilingjenny/smilingjenny-web/smilingjenny-web
++++ /dev/null
+@@ -1 +0,0 @@
+-../../smilingjenny/smilingjenny-web
+\ No newline at end of file
