@@ -43,11 +43,12 @@ export const watching = {
     },
     {
       invariantKind: "departure",
-      statement: "What the provider answers with and what Alan records sit on the one page.",
+      statement: "The provider's answers and Alan's records sit on the one page.",
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here records that Alan watched any of what this domain holds.",
+      statement:
+        "Nothing here records that Alan watched any of the shows and films this domain holds.",
     },
   ],
 } as const satisfies Domain
