@@ -34,7 +34,7 @@ index e3de877888b5c110e81a5b8f1b7a5548059b2ae9..dde3c3bec2af76de4d21cbdfa2eca1b1
    if (!DEGREE.includes(lower(token))) return false
    if (!childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "at")) return false
 diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
-index 111178965a8b26a36561d75fed14572455e49be4..efd14d00fb5b2788eaf1948b91034d1ab1b8f064 100644
+index 111178965a8b26a36561d75fed14572455e49be4..d681f9d77dfdd66d9fe25d5a567c60caca56de76 100644
 --- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
 +++ b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
 @@ -2,6 +2,7 @@ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predica
@@ -45,6 +45,14 @@ index 111178965a8b26a36561d75fed14572455e49be4..efd14d00fb5b2788eaf1948b91034d1a
    isPronoun,
    isQuantifier,
    isReflexive,
+@@ -17,6 +18,7 @@ export const lonePronoun: ShapePredicate = (sentence) => {
+     if (isRelative(sentence, token)) continue
+     if (isDemonstrative(token)) continue
+     if (isQuantifier(token)) continue
++    if (isIndefinite(token)) continue
+     if (isReflexive(token)) continue
+     found.push({ at: [token.id] })
+   }
 diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts
 index 05cb6a796ef1d8cd05caa3a2b8edb7bd3e9730a8..b16befc20899b7dc94342687c8e9bd128822cad2 100644
 --- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts
