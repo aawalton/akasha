@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
-index 373ae8af558010699c02f3dbb285179288c8d71e..6edaa85ba9fe6b6d4e9f5d49d73372fc7882879a 100644
+index 373ae8af558010699c02f3dbb285179288c8d71e..24180ad4d7fdf1fb57116d368ff56223f934535a 100644
 --- a/pages/indexes/indexing/indexing.module.ts
 +++ b/pages/indexes/indexing/indexing.module.ts
 @@ -57,7 +57,7 @@ export const indexing = {
@@ -18,6 +18,16 @@ index 373ae8af558010699c02f3dbb285179288c8d71e..6edaa85ba9fe6b6d4e9f5d49d73372fc
 -      statement: "A rebuild and a settle hand in the pages naming each page they file.",
 +      statement:
 +        "A rebuild and a settle hand in the pages naming each page that rebuild and that settle file.",
+     },
+     {
+       invariantKind: "departure",
+@@ -116,7 +117,8 @@ export const indexing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A settle reads off the relation index what the change it carries does not say.",
++      statement:
++        "A settle reads off the relation index what the change that settle carries does not say.",
      },
      {
        invariantKind: "departure",
