@@ -42,10 +42,7 @@ export const inboxesTemperTasks = {
       invariantKind: "departure",
       statement: "A tracking day carrying no count is no reading rather than a count of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading.",

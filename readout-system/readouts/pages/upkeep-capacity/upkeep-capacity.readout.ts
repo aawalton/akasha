@@ -57,10 +57,7 @@ export const upkeepCapacity = {
       invariantKind: "departure",
       statement: "That bound is the one the reach taking the reading carries.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

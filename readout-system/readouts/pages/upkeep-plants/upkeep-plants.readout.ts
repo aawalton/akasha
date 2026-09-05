@@ -39,10 +39,7 @@ export const upkeepPlants = {
       invariantKind: "departure",
       statement: "A day holding no food entry is a reading of zero rather than no reading.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

@@ -35,10 +35,7 @@ export const attributeWisdom = {
       invariantKind: "departure",
       statement: "A day carrying no words is no reading rather than a wisdom of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "stopgap",
       statement: "Nothing writes those words onto a day yet.",

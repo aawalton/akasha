@@ -50,10 +50,7 @@ export const upkeepSafety = {
       invariantKind: "departure",
       statement: "An open session carrying no level is no reading rather than a level of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

@@ -39,10 +39,7 @@ export const upkeepSleep = {
       invariantKind: "departure",
       statement: "A day holding no sleep stretch carries no sleep rather than a sleep of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

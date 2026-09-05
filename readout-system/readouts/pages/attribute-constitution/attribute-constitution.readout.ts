@@ -36,10 +36,7 @@ export const attributeConstitution = {
       invariantKind: "departure",
       statement: "A day holding no food entry is a reading of zero rather than no reading.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here reads a figure the tracking day carries.",

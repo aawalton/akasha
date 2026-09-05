@@ -39,10 +39,7 @@ export const attributeStrength = {
       invariantKind: "departure",
       statement: "A day carrying no pounds moved is no reading rather than a strength of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

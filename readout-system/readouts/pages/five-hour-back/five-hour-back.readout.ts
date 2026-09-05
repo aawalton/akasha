@@ -32,10 +32,7 @@ export const fiveHourBack = {
       invariantKind: "departure",
       statement: "No account with a window ahead is no reading rather than a wait of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

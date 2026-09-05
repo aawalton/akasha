@@ -46,10 +46,7 @@ export const upkeepActivity = {
       invariantKind: "departure",
       statement: "A day carrying neither half is no reading rather than an activity of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

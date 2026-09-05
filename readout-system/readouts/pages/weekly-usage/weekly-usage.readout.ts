@@ -37,10 +37,7 @@ export const weeklyUsage = {
       statement:
         "The figure is how much of the allowance is spent and the color is how long the allowance has left.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

@@ -36,10 +36,7 @@ export const weeklyEnds = {
       invariantKind: "departure",
       statement: "The color this reading takes is the color the weekly usage reading is shown in.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

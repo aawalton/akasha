@@ -36,10 +36,7 @@ export const attributeEndurance = {
       statement:
         "A day carrying no active calories is no reading rather than an endurance of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

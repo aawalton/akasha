@@ -44,10 +44,7 @@ export const upkeepSurplus = {
       statement:
         "A day holding neither sleep nor spend is no reading rather than a surplus of zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A store that refuses is a fault rather than a reading of nothing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
