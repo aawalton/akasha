@@ -6,7 +6,12 @@ export const database = {
   slug: "database",
   definition: "the queryable store",
   pluralSlug: "databases",
-  partSlugs: ["manifest/pgbouncer", "manifest/postgrest", "manifest/supabase-realtime"],
+  partSlugs: [
+    "manifest/pgbouncer",
+    "manifest/postgrest",
+    "manifest/supabase-realtime",
+    "manifest/supabase-studio",
+  ],
   invariants: [
     {
       invariantKind: "departure",
