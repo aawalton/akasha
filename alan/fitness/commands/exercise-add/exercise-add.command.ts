@@ -38,7 +38,8 @@ export const exerciseAdd = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A movement made here says it is Alan's own rather than the database's.",
+      statement:
+        "A movement made here says that movement is Alan's own rather than the database's.",
     },
     {
       invariantKind: "departure",
