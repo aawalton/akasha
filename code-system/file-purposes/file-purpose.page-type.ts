@@ -19,7 +19,8 @@ export const filePurpose = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind says what a file is written in and a purpose says what it is written for.",
+      statement:
+        "A kind says what a file is written in and a purpose says what that file is written for.",
     },
     {
       invariantKind: "departure",
