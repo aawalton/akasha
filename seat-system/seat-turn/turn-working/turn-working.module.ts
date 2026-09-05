@@ -15,7 +15,7 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
-      statement: "A prompt with nothing answering it yet is a turn still to finish.",
+      statement: "A prompt with nothing answering that prompt yet is a turn still to finish.",
     },
     {
       invariantKind: "departure",
@@ -35,11 +35,13 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
-      statement: "A transcript no longer than when it was last read is not read again.",
+      statement:
+        "A transcript no longer than when that transcript was last read is not read again.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript shorter than when it was last read is read from its first byte.",
+      statement:
+        "A transcript shorter than when that transcript was last read is read from its first byte.",
     },
     {
       invariantKind: "departure",
