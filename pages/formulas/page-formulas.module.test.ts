@@ -138,6 +138,47 @@ describe("the figures a page type works out", () => {
     expect(one.barred).toContain("a cycle among the formulas")
   })
 
+  test("a formula reads a computed property as a formula reads a stored one", () => {
+    const worked: Declared = {
+      slug: "strength-calories",
+      key: "strengthCalories",
+      sort: "computed-property",
+      many: false,
+      formula: null,
+      holds: "number",
+    }
+    const one = working([
+      ...DAY,
+      worked,
+      figure("activity-calories", "({faith-points} ?? 0) + ({strength-calories} ?? 0)", "number"),
+    ])
+    if ("barred" in one) throw new Error(one.barred)
+    expect(one.reads.map((each) => each.slug)).toContain("strength-calories")
+    const filled = workedInto(one, { faithPoints: 2, strengthCalories: 100 }, AT)
+    expect(filled["activityCalories"]).toBe(102)
+  })
+
+  test("a computed property stating no kind bars every figure", () => {
+    const odd: Declared = {
+      slug: "odd-one",
+      key: "oddOne",
+      sort: "computed-property",
+      many: false,
+      formula: null,
+      holds: null,
+    }
+    const one = working([...DAY, odd])
+    if (!("barred" in one)) throw new Error("nothing was barred")
+    expect(one.barred).toContain("states no kind its calculation answers")
+    expect([...one.keys].sort()).toEqual([
+      "faithLevel",
+      "faithStoplight",
+      "loveLevel",
+      "stoplights",
+      "totalLevel",
+    ])
+  })
+
   test("an entry property and a formula property are left out of what a formula reads", () => {
     const one = working(DAY)
     if ("barred" in one) throw new Error(one.barred)

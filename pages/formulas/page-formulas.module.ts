@@ -38,6 +38,22 @@ export const pageFormulas = {
     },
     {
       invariantKind: "departure",
+      statement: "A computed property is read as a value the page carries rather than as a figure.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation is worked out before any formula reading that calculation's key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A computed property stating no kind bars every figure the page type declares.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No calculation is run here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing is built for a page type declaring no formula.",
     },
     {

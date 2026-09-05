@@ -11,6 +11,8 @@ import { valuedAs } from "@akasha/pages-formula/held"
 
 export const FORMULA = "formula-property"
 
+export const COMPUTED = "computed-property"
+
 export const KIND_OF: Readonly<Record<string, DeclaredType["kind"]>> = {
   "boolean-property": "boolean",
   "calendar-date-property": "date",
@@ -120,6 +122,18 @@ export function workingOver(
         }
       }
       shaped[one.slug] = { type: holds, formula: one.formula }
+      continue
+    }
+    if (one.sort === COMPUTED) {
+      const holds = one.holds === null ? undefined : HOLDS[one.holds]
+      if (holds === undefined) {
+        return {
+          barred: `\`${one.slug}\` states no kind its calculation answers, so nothing can judge what \`${pageTypeSlug}\` carries under that key`,
+          keys: every,
+        }
+      }
+      shaped[one.slug] = { type: holds }
+      reads.push({ slug: one.slug, key: one.key, type: holds })
       continue
     }
     if (UNREAD.has(one.sort)) continue

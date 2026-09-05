@@ -2,6 +2,7 @@ import { listedAt, type Valued, valuesOfType } from "@akasha/indexes"
 import { entriedValue } from "@akasha/pages-system/page-entries"
 import {
   type Barred,
+  COMPUTED,
   type Declared as Declaring,
   FORMULA,
   type Working,
@@ -236,8 +237,8 @@ export function declaredFor(
 ): readonly Declaring[] {
   return carried.map((one) => {
     const page =
-      one.pageTypeSlug === FORMULA
-        ? pagesOfType(root, held, FORMULA).get(one.pagePropertySlug)
+      one.pageTypeSlug === FORMULA || one.pageTypeSlug === COMPUTED
+        ? pagesOfType(root, held, one.pageTypeSlug).get(one.pagePropertySlug)
         : undefined
     return {
       slug: one.propertySlug,
