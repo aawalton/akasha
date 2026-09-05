@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+index df2147458831d542c5e160b7631f0a0d860dcebe..910f682ee48b2b6498cda7941614276606e78993 100644
+--- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
++++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+@@ -57,7 +57,7 @@ export const temperInventoryRule = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A rule adopted from a template and since edited says what it changed.",
++      statement: "A rule adopted from a template and since edited says the changes that rule made.",
+     },
+   ],
+ } as const satisfies PageType
