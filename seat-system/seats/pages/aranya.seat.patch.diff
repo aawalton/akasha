@@ -287,3 +287,11 @@ index 4c7d1c9fd855072c21e4c99b4d2ea26e1bc2fdf3..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../icloud-photos
 \ No newline at end of file
+diff --git a/id-minting/id-minting b/id-minting/id-minting
+deleted file mode 120000
+index d67f7004b9a95787541eff10651ff275cab2f4e8..0000000000000000000000000000000000000000
+--- a/id-minting/id-minting
++++ /dev/null
+@@ -1 +0,0 @@
+-../../id-minting
+\ No newline at end of file
