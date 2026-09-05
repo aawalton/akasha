@@ -116,7 +116,7 @@ index e4e03f8b10002166fa4016dc54dd5f3255db1a2d..00939307ac7963870c44c178c8bbfcd8
    }
    return { sender: apnsSender(pem), why: null }
 diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
-index cd727f340c2458c2bccc40103e3b00db20d3ac90..15a19143d094b6bbded309e9087ef24181cc5bb1 100644
+index cd727f340c2458c2bccc40103e3b00db20d3ac90..79fe7ae31b81aa099aebafc3d13307ffc7264910 100644
 --- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
 +++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
 @@ -18,12 +18,12 @@ export const pushNotifying = {
@@ -134,6 +134,15 @@ index cd727f340c2458c2bccc40103e3b00db20d3ac90..15a19143d094b6bbded309e9087ef241
      },
      {
        invariantKind: "departure",
+@@ -52,7 +52,7 @@ export const pushNotifying = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "Notifications are read and the feed written from the pages data directly rather than through the pages system service, as code standing on the workstation must.",
++        "Notifications are read and the feed written from the pages data directly rather than through the pages system service, as code on the workstation must.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 index fc2d988325d08e87d1b29de05a6936c5448bf564..b5dd8d597083ab1e5ef43d1f8df4ac8a598ebddd 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
