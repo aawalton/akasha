@@ -161,7 +161,7 @@ index 28ffd619df397839bc783d7257392a97858ca2a4..d5b8ecbfa3be8d82d60578db8e49ceeb
    if (act === RESOLVE) return await resolving(given, page, rest, piping)
    return await applying(given, page, rest)
 diff --git a/commands/patch/patch.command.test.ts b/commands/patch/patch.command.test.ts
-index 3b78496f64cfa5166574e37019bb177cdb80eb0c..07f3751a9aad97aa0a887eecf1eff9d67553f201 100644
+index 3b78496f64cfa5166574e37019bb177cdb80eb0c..e9d6b34c99496cb885e124b3ad9bc9619efb0224 100644
 --- a/commands/patch/patch.command.test.ts
 +++ b/commands/patch/patch.command.test.ts
 @@ -2,7 +2,11 @@ import { afterAll, expect, test } from "bun:test"
@@ -177,3 +177,77 @@ index 3b78496f64cfa5166574e37019bb177cdb80eb0c..07f3751a9aad97aa0a887eecf1eff9d6
  import type { Piping } from "../../command-system/piping/piping.module.code.ts"
  import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
  import { writing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
+@@ -213,18 +217,71 @@ test("a body piped in to a resolve that is not text is refused", async () => {
+ test("a drop takes the patch and the ref keeping its blobs away", async () => {
+   const root = await repo()
+   drafting(root)
+-  const said = dropping(root, PAGE)
++  const said = dropping(root, PAGE, [])
+   expect(said.code).toBe(0)
+   expect(patchIn(root, PAGE)).toBeNull()
+   expect(refs(root)).toBe("")
+ })
+ 
+ test("a drop where no patch is kept is no fault", async () => {
+-  const said = dropping(await repo(), PAGE)
++  const said = dropping(await repo(), PAGE, [])
+   expect(said.code).toBe(0)
+   expect(said.report.join("\n")).toContain("nothing is drafted")
+ })
+ 
++test("a drop naming a path takes that path out and leaves every other path", async () => {
++  const root = await repo()
++  await landingAt(root, TWO, WAS)
++  draftingBoth(root)
++  const said = dropping(root, PAGE, ["--file-path", ONE])
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain(`${ONE} is taken out of the patch`)
++  const shown = showing(root, PAGE)
++  expect(shown.report.join("\n")).toContain(`changed ${TWO}`)
++  expect(shown.report.join("\n")).not.toContain(`changed ${ONE}`)
++})
++
++test("a drop naming the last path the patch carries takes the patch away", async () => {
++  const root = await repo()
++  drafting(root)
++  const said = dropping(root, PAGE, ["--file-path", ONE])
++  expect(said.code).toBe(0)
++  expect(patchIn(root, PAGE)).toBeNull()
++  expect(refs(root)).toBe("")
++})
++
++test("a drop naming a path the patch carries no body at is refused", async () => {
++  const root = await repo()
++  drafting(root)
++  const said = dropping(root, PAGE, ["--file-path", TWO])
++  expect(said.code).toBe(2)
++  expect(said.refusals.join("\n")).toContain("carries no body at")
++})
++
++test("a path HEAD took away is taken out and every other path is left", async () => {
++  const root = await repo()
++  await landingAt(root, TWO, WAS)
++  draftingBoth(root)
++  taking(root, ONE)
++  expect(dropping(root, PAGE, ["--file-path", ONE]).code).toBe(0)
++  const said = showing(root, PAGE)
++  expect(said.report.join("\n")).not.toContain("carries a conflict")
++  expect(said.report.join("\n")).toContain(`changed ${TWO}`)
++})
++
++test("a path taken out leaves a mechanical patch mechanical", async () => {
++  const root = await repo()
++  await landingAt(root, TWO, WAS)
++  const draft = [
++    { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
++    { path: TWO, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
++  ]
++  expect("why" in drafted(root, PAGE, draft, true)).toBe(false)
++  expect(mechanicalIn(patchIn(root, PAGE))).toBe(true)
++  expect(dropping(root, PAGE, ["--file-path", ONE]).code).toBe(0)
++  expect(mechanicalIn(patchIn(root, PAGE))).toBe(true)
++})
++
+ test("a path a rename left the body at is the path named", async () => {
+   const root = await repo()
+   drafting(root)
