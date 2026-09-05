@@ -9,7 +9,7 @@ export const treasurePinsData00 = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "These rows are what upstream LibTreasure v24 states.",
+      statement: "These rows are stated by upstream LibTreasure v24.",
     },
   ],
 } as const satisfies Module
