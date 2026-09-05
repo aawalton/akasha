@@ -20,7 +20,7 @@ export const emailAction = {
     {
       invariantKind: "departure",
       statement:
-        "Every action taken on a piece of mail is recorded with whatever took it and when.",
+        "Every action taken on a piece of mail is recorded with whatever took that action and when.",
     },
     {
       invariantKind: "departure",
