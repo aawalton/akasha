@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readout-groups/pages/surplus.readout-group.ts b/readout-system/readout-groups/pages/surplus.readout-group.ts
+index ca39cd6498f871a43254fafb30c5e1c3c6cb9e4c..317b04b2f7798351867d652215f3bb6fd182e7cb 100644
+--- a/readout-system/readout-groups/pages/surplus.readout-group.ts
++++ b/readout-system/readout-groups/pages/surplus.readout-group.ts
+@@ -8,7 +8,7 @@ export const surplus = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The reading is what the night held less what the day spent.",
++      statement: "The reading is the hours the night held less the hours the day spent.",
+     },
+   ],
+ } as const satisfies ReadoutGroup
