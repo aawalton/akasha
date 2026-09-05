@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/naming/naming.domain.ts b/pages/naming/naming.domain.ts
+index ceceddd65e898b2db5473a76e99e494fbdb7b55d..0c98469948f603f149f70db5c4bd0e0452c8fd9c 100644
+--- a/pages/naming/naming.domain.ts
++++ b/pages/naming/naming.domain.ts
+@@ -9,7 +9,8 @@ export const naming = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A folder's word is true of everything under it and of nothing outside it.",
++      statement:
++        "A folder's word is true of everything under that folder and of nothing outside that folder.",
+     },
+     {
+       invariantKind: "departure",
