@@ -15,7 +15,7 @@ export const codeSource = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a node can be asked what holds the node is named rather than passed as a bare flag.",
+        "Whether a node can be asked for its parent is named rather than passed as a bare flag.",
     },
     {
       invariantKind: "departure",
