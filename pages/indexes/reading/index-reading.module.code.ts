@@ -1,7 +1,7 @@
 import { join } from "node:path"
-import { addressIn, addressedIn, type PageAddress } from "@akasha/pages/page-address"
+import { addressedIn, addressIn, type PageAddress } from "@akasha/pages/page-address"
 import { partedIn } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
+import { textAt, type Value } from "@akasha/pages/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
 import { indexPath } from "../path/index-path.index.ts"
@@ -247,19 +247,15 @@ function byPath(one: Listed, two: Listed): number {
   return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
 }
 
-function gatheredIn(reading: Reading, dir: string): readonly Listed[] {
-  const found: Listed[] = []
-  for (const one of reading.listing(dir)) {
-    if (!one.name.endsWith(ENDING)) continue
-    found.push(...listedIn(reading, join(dir, one.name)))
-  }
-  return [...found].sort(byPath)
-}
-
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {
-  return answered(given, ROOT, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
-    gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
-  )
+  return answered(given, ROOT, `which pages are of \`${pageTypeSlug}\``, (reading) => {
+    const found: Listed[] = []
+    for (const one of valuesIn(reading, join(VALUE, `${pageTypeSlug}${ENDING}`))) {
+      const id = textAt(one.value, "id")
+      if (id !== null) found.push({ path: one.path, id })
+    }
+    return found.sort(byPath)
+  })
 }
 
 export type Valued = {
@@ -307,9 +303,14 @@ export function valuesOfType(given: string | Reading, pageTypeSlug: string): rea
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return answered(given, ROOT, `which \`${pageTypeSlug}\` slugs stand`, (reading) =>
-    endingIn(reading.listing(join(IDENTITY, pageTypeSlug, SLUG)))
-  )
+  return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) => {
+    const found = new Set<string>()
+    for (const one of valuesIn(reading, join(VALUE, `${pageTypeSlug}${ENDING}`))) {
+      const slug = textAt(one.value, "slug")
+      if (slug !== null) found.add(slug)
+    }
+    return [...found].sort()
+  })
 }
 
 export function idsNaming(
