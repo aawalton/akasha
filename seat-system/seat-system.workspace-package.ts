@@ -401,7 +401,7 @@ export const seatSystem = {
     {
       invariantKind: "departure",
       statement:
-        "A supervisor restarts onto current code without interrupting the session it holds.",
+        "A supervisor restarts onto current code without interrupting the session that supervisor holds.",
     },
     {
       invariantKind: "departure",
