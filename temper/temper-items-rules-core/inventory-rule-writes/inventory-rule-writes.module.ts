@@ -1,0 +1,41 @@
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
+
+export const inventoryRuleWrites = {
+  id: "01a072dd-5d04-75d2-8bb2-1d5b8ac04825",
+  pageTypeSlug: "module",
+  slug: "inventory-rule-writes",
+  definition: "the rule pages a browser writes and takes away to make the pages say what it holds",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A rule the pages already say is written again by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule page no rule wants any more is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule whose place among the rules moved is written again.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An entry key is named where the rule carries rows or where the page carries rows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry key named carrying no row empties the file beside the page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches the pages.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A key a rule drops is kept by the page, because a write merges onto the page.",
+    },
+  ],
+} as const satisfies Module
