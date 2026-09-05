@@ -2,13 +2,17 @@ import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { ActiveCalories } from "./properties/active-calories.number-property.ts"
+import type { ActivityCalories } from "./properties/activity-calories.computed-property.ts"
 import type { BreathingPoints } from "./properties/breathing-points.number-property.ts"
 import type { CardioPoints } from "./properties/cardio-points.number-property.ts"
 import type { CompletedTasks } from "./properties/completed-tasks.page-property-entry.ts"
 import type { CompletionSnapshot } from "./properties/completion-snapshot.number-property.ts"
 import type { Date as TrackedDate } from "./properties/date.text-property.ts"
+import type { FaithLevel } from "./properties/faith-level.computed-property.ts"
 import type { FaithPoints } from "./properties/faith-points.number-property.ts"
+import type { FunLevel } from "./properties/fun-level.computed-property.ts"
 import type { FunPoints } from "./properties/fun-points.number-property.ts"
+import type { HealthLevel } from "./properties/health-level.computed-property.ts"
 import type { HealthPoints } from "./properties/health-points.number-property.ts"
 import type { InboxCalendar } from "./properties/inbox-calendar.number-property.ts"
 import type { InboxCalendarClearedToday } from "./properties/inbox-calendar-cleared-today.boolean-property.ts"
@@ -20,7 +24,9 @@ import type { InboxTexts } from "./properties/inbox-texts.number-property.ts"
 import type { InboxTextsClearedToday } from "./properties/inbox-texts-cleared-today.boolean-property.ts"
 import type { IntelligenceWords } from "./properties/intelligence-words.number-property.ts"
 import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.ts"
+import type { LearnLevel } from "./properties/learn-level.computed-property.ts"
 import type { LearnPoints } from "./properties/learn-points.number-property.ts"
+import type { LoveLevel } from "./properties/love-level.computed-property.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
 import type { Meals } from "./properties/meals.text-property.ts"
 import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
@@ -29,10 +35,12 @@ import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
 import type { Sessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
 import type { SpannedFromDayBoundary } from "./properties/spanned-from-day-boundary.boolean-property.ts"
+import type { StrengthCalories } from "./properties/strength-calories.computed-property.ts"
 import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
 import type { StrengthVolume } from "./properties/strength-volume.number-property.ts"
 import type { TaskPoints } from "./properties/task-points.number-property.ts"
 import type { Version } from "./properties/version.text-property.ts"
+import type { WealthLevel } from "./properties/wealth-level.computed-property.ts"
 import type { WealthPoints } from "./properties/wealth-points.number-property.ts"
 import type { WisdomWords } from "./properties/wisdom-words.number-property.ts"
 import type { WordsReadPoints } from "./properties/words-read-points.number-property.ts"
@@ -76,6 +84,17 @@ export type WakeDay = Page & {
   inboxCalendarClearedToday?: InboxCalendarClearedToday
   sessions?: Sessions
   completedTasks?: CompletedTasks
+}
+
+export type WorkedWakeDay = WakeDay & {
+  strengthCalories?: StrengthCalories
+  activityCalories?: ActivityCalories
+  faithLevel?: FaithLevel
+  loveLevel?: LoveLevel
+  healthLevel?: HealthLevel
+  learnLevel?: LearnLevel
+  funLevel?: FunLevel
+  wealthLevel?: WealthLevel
 }
 
 export const wakeDay = {
