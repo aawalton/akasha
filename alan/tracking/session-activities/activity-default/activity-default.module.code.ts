@@ -1,6 +1,3 @@
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
-import { join } from "node:path"
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { pageStem } from "@akasha/named-for/page-stem"
@@ -8,6 +5,7 @@ import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import { readDifficulty } from "../../../../commands/track/session-leveling/session-leveling.module.code.ts"
 import { composedFor } from "../../../../pages/system-service/page-composing/page-composing.module.code.ts"
+import { landTracking } from "../../tracking-landing/tracking-landing.module.code.ts"
 
 export const summary =
   "Set an activity's default difficulty, which is what a session whose title names it rates at"
@@ -15,8 +13,6 @@ export const summary =
 const PAGE_TYPE = "session-activity"
 
 const WRITER = "ops-tracking"
-
-const TRACKING = "tracking"
 
 export const help: CommandHelp = {
   flags: [
@@ -84,24 +80,15 @@ export function activityNamed(standing: readonly Standing[], title: string): Sta
   return standing.find((one) => pageStem(one.title) === wanted || one.slug === wanted)
 }
 
-async function written(path: string, content: string, message: string): Promise<void> {
-  const scratch = mkdtempSync(join(tmpdir(), "activity-default-"))
-  try {
-    const body = join(scratch, "body")
-    writeFileSync(body, content)
-    const ran = Bun.spawn(
-      ["akasha", TRACKING, "--file-path", path, "--content-file", body, "--message", message],
-      { cwd: akashaRoot(), stdout: "pipe", stderr: "pipe" }
-    )
-    const [out, err, code] = await Promise.all([
-      new Response(ran.stdout).text(),
-      new Response(ran.stderr).text(),
-      ran.exited,
-    ])
-    if (code !== 0) throw new Error(`\`akasha ${TRACKING}\` refused: ${(err + out).trim()}`)
-  } finally {
-    rmSync(scratch, { recursive: true, force: true })
-  }
+/** The composed page landed, with no scratch file between the body and the landing. */
+async function written(
+  root: string,
+  path: string,
+  content: string,
+  message: string
+): Promise<void> {
+  const said = await landTracking({ root, changes: [{ path, body: content }], message })
+  if ("refused" in said) throw new Error(`the tracking landing refused: ${said.refused}`)
 }
 
 export default async function trackingActivitySet(args: readonly string[]): Promise<void> {
@@ -136,7 +123,7 @@ export default async function trackingActivitySet(args: readonly string[]): Prom
   })
   if ("refused" in composed) throw new Error(`the activity did not compose: ${composed.refused}`)
 
-  await written(composed.put.path, composed.put.content, `${WRITER}: the activity ${slug}`)
+  await written(root, composed.put.path, composed.put.content, `${WRITER}: the activity ${slug}`)
 
   const envelope = { id, at: composed.put.path, created: held === undefined, title, difficulty }
   if (json) {

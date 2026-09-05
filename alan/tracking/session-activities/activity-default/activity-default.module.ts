@@ -21,7 +21,8 @@ export const activityDefault = {
     },
     {
       invariantKind: "departure",
-      statement: "The composed page is handed to akasha's own verb to land.",
+      statement:
+        "The composed page is handed to the tracking landing as a value rather than a file.",
     },
   ],
 } as const satisfies Module

@@ -10,7 +10,7 @@
  * pages system service composes every akasha write from. What a row file beside a page is named is
  * `besideAt`. What that file holds is `entriesIn`. What a page declares is `valueAt`. This file is
  * the four of them put in a row, plus the one thing none of them does: hand the composed bodies to
- * `akasha tracking`, because nothing writes under `akasha/` but akasha's own verb.
+ * `landTracking`, because nothing writes under `akasha/` but akasha's own gate.
  *
  * A page body states its keys camel, because a page is a TypeScript object literal, and a row beside
  * an akasha page states them camel too, because a row is judged against the fields its entry
@@ -19,8 +19,7 @@
  * akasha is camelised once, in this file, and nothing above it has to know.
  */
 
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listedAt } from "@akasha/indexes"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
@@ -28,6 +27,7 @@ import { entriesIn } from "@akasha/pages-system/page-entries"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { valueAt } from "@akasha/pages-system/page-value"
 import { composedFor, type Put } from "@akasha/pages-system-service/composing"
+import { landTracking } from "../../tracking-landing/tracking-landing.module.code.ts"
 import type { Landed } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 import {
@@ -44,8 +44,6 @@ type Row = Record<string, unknown>
 const ID = "id"
 
 const AKASHA_REPO = "akasha"
-
-const TRACKING = "tracking"
 
 /** The property each kind of row beside a day is declared under. */
 export const ROW_PROPERTIES: Readonly<Record<string, string>> = {
@@ -157,38 +155,20 @@ function namedIn(row: Row): string {
 }
 
 /**
- * Every composed body handed to `akasha write` as one call, so they land together or not at all.
+ * Every composed body landed as one call, so they land together or not at all.
  *
- * The bodies go to a scratch directory rather than onto the command line because the verb takes a
- * file and never text said in an argument, and the scratch is cleared whether the write landed or
- * refused.
+ * The bodies are handed to `landTracking` as the values they already are: a scratch file bought
+ * nothing but a way to spell a body on a command line, and nothing here spells a command line.
  */
 export async function written(puts: readonly Put[], message: string): Promise<Landed> {
   if (puts.length === 0) return refused("nothing was composed to write")
-  const scratch = mkdtempSync(join(tmpdir(), "akasha-day-"))
-  try {
-    const args: string[] = []
-    puts.forEach((one, at) => {
-      const body = join(scratch, `body-${String(at)}`)
-      writeFileSync(body, one.content)
-      args.push("--file-path", one.path, "--content-file", body)
-    })
-    args.push("--message", message)
-    const ran = Bun.spawn(["akasha", TRACKING, ...args], {
-      cwd: rootOf(),
-      stdout: "pipe",
-      stderr: "pipe",
-    })
-    const [out, err, code] = await Promise.all([
-      new Response(ran.stdout).text(),
-      new Response(ran.stderr).text(),
-      ran.exited,
-    ])
-    if (code !== 0) return refused(`\`akasha ${TRACKING}\` refused: ${(err + out).trim()}`)
-    return { ok: true, at: puts[0]?.path ?? "" }
-  } finally {
-    rmSync(scratch, { recursive: true, force: true })
-  }
+  const said = await landTracking({
+    root: rootOf(),
+    changes: puts.map((one) => ({ path: one.path, body: one.content })),
+    message,
+  })
+  if ("refused" in said) return refused(`the tracking landing refused: ${said.refused}`)
+  return { ok: true, at: puts[0]?.path ?? "" }
 }
 
 /**

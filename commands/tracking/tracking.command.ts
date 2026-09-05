@@ -33,7 +33,11 @@ export const tracking = {
     },
     {
       invariantKind: "departure",
-      statement: "What a call asks for is read and landed by `write`.",
+      statement: "What a call asks for is read by `write` and landed by `tracking-landing`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This reads the arguments, and the function it calls knows no command line.",
     },
     {
       invariantKind: "departure",

@@ -2,18 +2,16 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
+import {
+  DAYS_AT,
+  FOOD_ENTRIES_AT,
+  outsideTracked,
+} from "../../alan/tracking/tracking-landing/tracking-landing.module.code.ts"
 import { MECHANICAL } from "../../command-system/asking/asking.module.code.ts"
 import type { Given } from "../../command-system/calling/calling.module.code.ts"
 import { baseOf } from "../../command-system/landing/landing.module.code.ts"
 import { repoWith, scratch } from "../../command-system/landing/landing.module.test-fixtures.ts"
-import {
-  DAYS_AT,
-  FOOD_ENTRIES_AT,
-  NO_GLASS,
-  outsideTracked,
-  strayIn,
-  tracking,
-} from "./tracking.command.code.ts"
+import { NO_GLASS, strayIn, tracking } from "./tracking.command.code.ts"
 
 const ROOT = "/nowhere"
 
@@ -76,12 +74,6 @@ test("a path outside akasha altogether is a stray", () => {
 
 test("a value belonging to another flag is not read as a path", () => {
   expect(strayIn(ROOT, ["--message", "--file-path", "--file-path", AT])).toEqual([])
-})
-
-test("the refusal names every tree this lands under", () => {
-  const said = outsideTracked("akasha/alan/alan.person.ts")
-  expect(said).toContain(DAYS_AT)
-  expect(said).toContain(FOOD_ENTRIES_AT)
 })
 
 test("the glass is no flag this takes", async () => {
