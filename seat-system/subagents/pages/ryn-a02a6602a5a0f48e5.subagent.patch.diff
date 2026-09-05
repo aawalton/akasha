@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/mobile-cli/ios-program-components/ios-program-components.module.ts b/mobile-cli/ios-program-components/ios-program-components.module.ts
-index 0f9636e8961b653cadbccadd748a302897409d0c..d32513ac48276c735f64e41c4c5db1b89e6aebf2 100644
+index 0f9636e8961b653cadbccadd748a302897409d0c..1ea0fa7d503523428fafd342a8b6e2fd2a74e054 100644
 --- a/mobile-cli/ios-program-components/ios-program-components.module.ts
 +++ b/mobile-cli/ios-program-components/ios-program-components.module.ts
-@@ -9,7 +9,7 @@ export const iosProgramComponents = {
+@@ -9,11 +9,11 @@ export const iosProgramComponents = {
    invariants: [
      {
        invariantKind: "absence",
@@ -12,3 +12,8 @@ index 0f9636e8961b653cadbccadd748a302897409d0c..d32513ac48276c735f64e41c4c5db1b8
      },
      {
        invariantKind: "departure",
+-      statement: "What a program compiles is stated on its akasha ios-program page.",
++      statement: "The components a program compiles are stated on its akasha ios-program page.",
+     },
+     {
+       invariantKind: "constraint",
