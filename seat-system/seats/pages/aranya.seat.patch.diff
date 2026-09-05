@@ -1,0 +1,9 @@
+runsWarrants: false
+diff --git a/alan/chess/chess-core b/alan/chess/chess-core
+deleted file mode 120000
+index 6f7654361d69a3566b57415ecd679d41da46238b..0000000000000000000000000000000000000000
+--- a/alan/chess/chess-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/chess
+\ No newline at end of file
