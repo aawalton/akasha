@@ -72,10 +72,10 @@ index 7ba10fbbb630d62eee293308dc54363b62806ef6..befb69b455102e76b173fe804aad0a09
      {
        invariantKind: "departure",
 diff --git a/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts b/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts
-index a7307805da74949bc39f25c7ab90453ba0733898..5058787cd6e99b7922e9cb4d3349fcaf9d1bf610 100644
+index a7307805da74949bc39f25c7ab90453ba0733898..66106a979d15aa7f2e49e10e1add2c81ea723a39 100644
 --- a/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts
 +++ b/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts
-@@ -13,7 +13,8 @@ export const messagesConsoleStdoutGuard = {
+@@ -13,11 +13,12 @@ export const messagesConsoleStdoutGuard = {
      },
      {
        invariantKind: "departure",
@@ -85,3 +85,8 @@ index a7307805da74949bc39f25c7ab90453ba0733898..5058787cd6e99b7922e9cb4d3349fcaf
      },
      {
        invariantKind: "departure",
+-      statement: "This is loaded before anything that might log.",
++      statement: "This module is loaded before anything that might log.",
+     },
+   ],
+ } as const satisfies Module
