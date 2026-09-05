@@ -4,6 +4,8 @@ const OPENS = "workspace:"
 
 const EVERY = "@*"
 
+const DEPENDS = `"dependencies"`
+
 export type Phase = "expand" | "migrate" | "done"
 
 export type Phasing = { readonly phase: Phase; readonly at: string } | { readonly refused: string }
@@ -56,6 +58,25 @@ export function phaseOf(
   if (atWas !== null) return { phase: "expand", at: atWas }
   if (atNow === null) return { refused: `no manifest calls its package \`${was}\`` }
   return aliasedIn(root, was) ? { phase: "migrate", at: atNow } : { phase: "done", at: atNow }
+}
+
+export function aliasAddedIn(text: string, was: string, now: string): string | null {
+  if (aliasedIn(text, was)) return text
+  const at = text.indexOf(DEPENDS)
+  if (at < 0) return null
+  const opens = text.indexOf("{", at)
+  if (opens < 0) return null
+  const ends = text.indexOf("\n", opens)
+  if (ends < 0) return null
+  return `${text.slice(0, ends + 1)}    "${was}": "${aliasFor(now)}",\n${text.slice(ends + 1)}`
+}
+
+export function aliasDroppedIn(text: string, was: string): string | null {
+  const at = text.indexOf(`"${was}": "${OPENS}`)
+  if (at < 0) return null
+  const ends = text.indexOf("\n", at)
+  if (ends < 0) return null
+  return `${text.slice(0, text.lastIndexOf("\n", at) + 1)}${text.slice(ends + 1)}`
 }
 
 export function batchIn(paths: readonly string[], width: number): readonly string[] {

@@ -1,5 +1,13 @@
 import { expect, test } from "bun:test"
-import { aliasedIn, aliasFor, batchIn, namesIn, phaseOf } from "./package-phasing.module.code.ts"
+import {
+  aliasAddedIn,
+  aliasDroppedIn,
+  aliasedIn,
+  aliasFor,
+  batchIn,
+  namesIn,
+  phaseOf,
+} from "./package-phasing.module.code.ts"
 
 const WAS = "@akasha/pages-system"
 
@@ -82,6 +90,35 @@ test("a root naming the old name nowhere carries no alias", () => {
 
 test("a root that will not parse carries no alias", () => {
   expect(aliasedIn("{", WAS)).toBe(false)
+})
+
+test("an alias is added among the root's dependencies", () => {
+  const text = `{\n  "dependencies": {\n    "@akasha/other": "workspace:*"\n  }\n}\n`
+  const said = aliasAddedIn(text, WAS, NOW)
+  expect(said).not.toBeNull()
+  expect(aliasedIn(String(said), WAS)).toBe(true)
+  expect(JSON.parse(String(said))).toEqual({
+    dependencies: { [WAS]: "workspace:@akasha/pages@*", "@akasha/other": "workspace:*" },
+  })
+})
+
+test("a root already carrying the alias is left as that root is", () => {
+  expect(aliasAddedIn(ALIASED, WAS, NOW)).toBe(ALIASED)
+})
+
+test("a root naming no dependencies takes no alias", () => {
+  expect(aliasAddedIn(`{ "name": "root" }`, WAS, NOW)).toBeNull()
+})
+
+test("an alias is dropped and the rest is left alone", () => {
+  const text = `{\n  "dependencies": {\n    "${WAS}": "workspace:${NOW}@*",\n    "@akasha/other": "workspace:*"\n  }\n}\n`
+  const said = aliasDroppedIn(text, WAS)
+  expect(said).not.toBeNull()
+  expect(JSON.parse(String(said))).toEqual({ dependencies: { "@akasha/other": "workspace:*" } })
+})
+
+test("a root carrying no alias drops none", () => {
+  expect(aliasDroppedIn(`{ "dependencies": {} }`, WAS)).toBeNull()
 })
 
 test("a batch is no wider than the width asked for", () => {
