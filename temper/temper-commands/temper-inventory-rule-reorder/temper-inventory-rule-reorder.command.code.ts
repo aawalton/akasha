@@ -46,9 +46,9 @@ async function moved(id: string, held: ReadonlyMap<string, string>): Promise<Ans
   const force = held.has(FORCE)
   const settingsAccess = await settingsOf()
   const settings = await settingsAccess.read()
-  const standing = settings.rules.find((one) => one.id === id)
-  if (standing === undefined) return unfound("category", id)
-  if (standing.locked === true && !force) return lockedOff("category", id)
+  const rule = settings.rules.find((one) => one.id === id)
+  if (rule === undefined) return unfound("category", id)
+  if (rule.locked === true && !force) return lockedOff("category", id)
 
   const to = wholeOf(held, TO)
   let toIndex: number

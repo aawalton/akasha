@@ -36,9 +36,9 @@ const COLUMNS = [
   "id",
 ]
 
-type Standing = { readonly currentTotal: number | null; readonly shortfall: number | null }
+type Reading = { readonly currentTotal: number | null; readonly shortfall: number | null }
 
-const UNREAD: Standing = { currentTotal: null, shortfall: null }
+const UNREAD: Reading = { currentTotal: null, shortfall: null }
 
 async function latestInventory(): Promise<InventoryDatabase | null> {
   const header = await latestSnapshot(USER_ID)
@@ -50,14 +50,14 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
   const settings = await (await settingsOf()).read()
   const rules = settings.buyRules ?? []
   const inventory = await latestInventory()
-  const standing = new Map<string, Standing>()
+  const reading = new Map<string, Reading>()
   if (inventory === null) {
-    for (const rule of rules) standing.set(rule.id, UNREAD)
+    for (const rule of rules) reading.set(rule.id, UNREAD)
   } else {
     const stock = computeItemStock(inventory, new Set(rules.map((rule) => rule.itemId)))
     for (const rule of rules) {
       const currentTotal = stock.get(rule.itemId)?.total ?? 0
-      standing.set(rule.id, {
+      reading.set(rule.id, {
         currentTotal,
         shortfall: computeBuyShortfall(rule.targetQuantity, currentTotal),
       })
@@ -66,14 +66,14 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
   if (held.has(JSON_FLAG)) {
     return toldOf(
       rules.map((rule) => {
-        const read = standing.get(rule.id) ?? UNREAD
+        const read = reading.get(rule.id) ?? UNREAD
         return { ...rule, currentTotal: read.currentTotal, shortfall: read.shortfall }
       })
     )
   }
   return toldRows(
     rules.map((rule) => {
-      const read = standing.get(rule.id) ?? UNREAD
+      const read = reading.get(rule.id) ?? UNREAD
       return {
         itemName: rule.itemName,
         itemId: rule.itemId,

@@ -75,12 +75,12 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   const force = held.has(FORCE)
   const settingsAccess = await settingsOf()
   const settings = await settingsAccess.read()
-  const standing = (settings.itemRules ?? []).find((one) => one.id === id)
-  if (standing === undefined) return unfound("item", id)
-  if (standing.locked === true && !force) return lockedOff("item", id)
+  const rule = (settings.itemRules ?? []).find((one) => one.id === id)
+  if (rule === undefined) return unfound("item", id)
+  if (rule.locked === true && !force) return lockedOff("item", id)
   const next = bulkUpdateItemRules(settings, [id], patch, { force })
   await settingsAccess.write(next)
-  return toldOf((next.itemRules ?? []).find((one) => one.id === id) ?? standing)
+  return toldOf((next.itemRules ?? []).find((one) => one.id === id) ?? rule)
 }
 
 export async function temperInventoryItemRuleUpdate(argv: readonly string[] = []): Promise<Answer> {
