@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
+index b38f576e982880c14b50332a98fa51377984df3e..93a75e45b6afbbe1b1f1350165d2df9e2bfaa851 100644
+--- a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
++++ b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
+@@ -23,8 +23,7 @@ export const monarchAmazonRefunds = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The order confirmations are read through the same reader the notes path uses, so one order is read one way.",
++      statement: "The order confirmations are read through the same reader the notes path uses.",
+     },
+     {
+       invariantKind: "departure",
