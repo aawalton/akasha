@@ -13,7 +13,7 @@ export const environmentVariable = {
     },
     {
       invariantKind: "departure",
-      statement: "A name akasha reads opens with the name of what set that name.",
+      statement: "A name akasha reads opens with the name of the system that set that name.",
     },
   ],
 } as const satisfies NamePlace
