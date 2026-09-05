@@ -140,17 +140,22 @@ index 0000000000000000000000000000000000000000..41650c20516d93b34e23f31f0f16ca24
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index 0a782126519383a12dc990e13e3188651b85232f..66f93e346a5c789b2079130e7ffb20394c1a55a8 100644
+index 802b268d1482fdf98004ddf13124aaf7eb18cea0..53b5b738412bd15d6cbadde83d87794b0bd5876f 100644
 --- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 24807f3bf5dc88c8d24565c5d2781bf5b59501f2..391af58a4ca708bb6eb47fbeb48c799a
+@@ -301,8 +301,12 @@ index 24807f3bf5dc88c8d24565c5d2781bf5b59501f2..e1d175fe136e9636df7a50fdd570ca0d
     replicas: 2,
     containerPort: 2000,
  -  manifestCode:
---    "service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/networks/cloudflared/cloudflared.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "cloudflared",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/networks/cloudflared/cloudflared.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 41650c20516d93b34e23f31f0f16ca24660b6b8b..0000000000000000000000000000000000000000
@@ -293,18 +298,14 @@ index 41650c20516d93b34e23f31f0f16ca24660b6b8b..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts b/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts
-index 24807f3bf5dc88c8d24565c5d2781bf5b59501f2..e1d175fe136e9636df7a50fdd570ca0db1710349 100644
+index 24807f3bf5dc88c8d24565c5d2781bf5b59501f2..391af58a4ca708bb6eb47fbeb48c799a54fb4283 100644
 --- a/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts
 +++ b/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts
-@@ -11,6 +11,9 @@ export const cloudflared = {
+@@ -11,6 +11,5 @@ export const cloudflared = {
    image: "cloudflare/cloudflared:2026.3.0",
    replicas: 2,
    containerPort: 2000,
 -  manifestCode:
 -    "service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "cloudflared",
-+=======
-+  manifestCode: "infrastructure/networks/cloudflared/cloudflared.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
