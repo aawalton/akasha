@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index 72bb80e645408dff0f58f8bb11e0b6f56569fc79..5bd6a24a1b4526a8b4773f95b41cbb5b45b9e5f3 100644
+index 72bb80e645408dff0f58f8bb11e0b6f56569fc79..bb5819898ec17f3b50cefbc6a06373215e1d286b 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
 @@ -27,7 +27,7 @@ export const panelJudging = {
@@ -20,3 +20,12 @@ index 72bb80e645408dff0f58f8bb11e0b6f56569fc79..5bd6a24a1b4526a8b4773f95b41cbb5b
      },
      {
        invariantKind: "departure",
+@@ -91,7 +91,7 @@ export const panelJudging = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Features start together, so the wall is the slowest of them rather than their sum.",
++        "Features start together, so the wall is the slowest of those features rather than their sum.",
+     },
+     {
+       invariantKind: "absence",
