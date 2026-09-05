@@ -12,7 +12,7 @@ export const codeTests = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run's answer carries what the run exited.",
+      statement: "A run's answer carries the code the run exited.",
     },
     {
       invariantKind: "departure",
@@ -20,11 +20,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries what the run printed.",
+      statement: "A run's answer carries the output the run printed.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the summary read out of what the run printed.",
+      statement: "A run's answer carries the summary read out of the output the run printed.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "What that file preloads is handed to the run of that group alone.",
+      statement: "The preloads that file names are handed to the run of that group alone.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "The bunfig.toml at the root is left out of what is handed over.",
+      statement: "The bunfig.toml at the root is left out of the preloads handed over.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "What every run printed is read as one answer.",
+      statement: "The output every run printed is read as one answer.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +101,7 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A run reaching fewer files than are under what was named is short rather than a pass.",
+        "A run reaching fewer files than are under the paths named is short rather than a pass.",
     },
     {
       invariantKind: "departure",
@@ -134,7 +134,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "Which test does sit beside the file is settled by whoever asked.",
+      statement: "Which test does sit beside the file is settled by the caller that asked.",
     },
     {
       invariantKind: "departure",
@@ -151,11 +151,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "What the change files is written over that copy.",
+      statement: "The filings the change files are written over that copy.",
     },
     {
       invariantKind: "departure",
-      statement: "What the change files is written by the rule a landing files by.",
+      statement: "The filings the change files are written by the rule a landing files by.",
     },
     {
       invariantKind: "departure",
@@ -175,7 +175,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "What is borrowed is skipped where what is borrowed is not there.",
+      statement: "A borrowed path is skipped where that path is not there.",
     },
     {
       invariantKind: "departure",
@@ -238,11 +238,12 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world is swept by whoever asked for the world.",
+      statement: "A world is swept by the caller that asked for the world.",
     },
     {
       invariantKind: "departure",
-      statement: "A world that could not be made says which reach failed and what that reach said.",
+      statement:
+        "A world that could not be made says which reach failed and the fault that reach threw.",
     },
     {
       invariantKind: "departure",
@@ -278,16 +279,16 @@ export const codeTests = {
     },
     {
       invariantKind: "absence",
-      statement: "What is printed belongs to whoever asked for the run.",
+      statement: "The output printed belongs to the caller that asked for the run.",
     },
     {
       invariantKind: "absence",
       statement:
-        "How much of what is printed a caller may hold belongs to whoever asked for the run.",
+        "How much of the output printed a caller may hold belongs to the caller that asked for the run.",
     },
     {
       invariantKind: "absence",
-      statement: "What a refusal says belongs to whoever asked for the run.",
+      statement: "The words a refusal says belong to the caller that asked for the run.",
     },
     {
       invariantKind: "absence",
@@ -299,7 +300,7 @@ export const codeTests = {
     },
     {
       invariantKind: "absence",
-      statement: "A world is only what is made of the paths and the bodies.",
+      statement: "A world is made of the paths and the bodies alone.",
     },
     {
       invariantKind: "absence",
