@@ -32,7 +32,7 @@ export const monarchEval = {
     {
       invariantKind: "departure",
       statement:
-        "What is delivered is the partition, and within each part coverage and reliability together.",
+        "The report delivered is the partition, and within each part coverage and reliability together.",
     },
     {
       invariantKind: "departure",
