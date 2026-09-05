@@ -52,7 +52,11 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit names akasha as the author rather than the caller of the command.",
+      statement: "A commit names the persona of the seat that wrote it as the author.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A writer named in the environment is the author over the persona.",
     },
   ],
 } as const satisfies Module
