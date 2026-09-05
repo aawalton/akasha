@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-housing-addon/housing-dropdowns/housing-dropdowns.module.ts b/temper/temper-housing-addon/housing-dropdowns/housing-dropdowns.module.ts
+index 7bc815a6a5d8ff0f1204b98e2c34b21bb2212168..7c261e72408dcad9732768884ff09b1bf10a40d8 100644
+--- a/temper/temper-housing-addon/housing-dropdowns/housing-dropdowns.module.ts
++++ b/temper/temper-housing-addon/housing-dropdowns/housing-dropdowns.module.ts
+@@ -9,7 +9,7 @@ export const housingDropdowns = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What a player last chose is kept in saved variables.",
++      statement: "The drop-down choices a player last made are kept in saved variables.",
+     },
+   ],
+ } as const satisfies Module
