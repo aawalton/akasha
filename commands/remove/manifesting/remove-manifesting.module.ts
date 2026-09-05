@@ -18,7 +18,7 @@ export const removeManifesting = {
     },
     {
       invariantKind: "departure",
-      statement: "Every manifest above what goes is read.",
+      statement: "Every manifest above the files the removal takes is read.",
     },
     {
       invariantKind: "departure",
