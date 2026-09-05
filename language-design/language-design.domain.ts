@@ -10,7 +10,7 @@ export const languageDesign = {
     {
       invariantKind: "departure",
       statement:
-        "A program is found wrong at reading it or at checking its names or at running it.",
+        "A program is found wrong at reading the program or at checking its names or at running the program.",
     },
     {
       invariantKind: "constraint",
