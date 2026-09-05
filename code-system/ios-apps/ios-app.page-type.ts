@@ -147,10 +147,6 @@ export const iosApp = {
       statement: "Every program an app builds is signed for the one team the app names.",
     },
     {
-      invariantKind: "constraint",
-      statement: "An app's icon is a picture rather than text.",
-    },
-    {
       invariantKind: "departure",
       statement: "An app's icon is made from its drawing by the change to that drawing.",
     },
