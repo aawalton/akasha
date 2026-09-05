@@ -1,0 +1,12 @@
+diff --git a/domains/domains.workspace-package.ts b/domains/domains.workspace-package.ts
+index c3b81937c737eb37802a21656d83ea89c58891b0..e34c957b390232d24419456e179ef2474b88d720 100644
+--- a/domains/domains.workspace-package.ts
++++ b/domains/domains.workspace-package.ts
+@@ -20,7 +20,6 @@ export const domains = {
+     "domain/domain-purpose",
+     "domain/domain-champions",
+     "domain/domain-parent",
+-    "command/domain",
+     "module/domain-documents",
+     "module/domain-reading",
+   ],
