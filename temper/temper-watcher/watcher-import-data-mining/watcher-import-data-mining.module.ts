@@ -31,7 +31,7 @@ export const watcherImportDataMining = {
     },
     {
       invariantKind: "constraint",
-      statement: "The capture file is the only copy of what a block holds.",
+      statement: "The capture file is the only copy of the entries a block holds.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const watcherImportDataMining = {
     },
     {
       invariantKind: "departure",
-      statement: "What is worth telling the reader is handed back as notes rather than printed.",
+      statement: "The notes worth telling the reader are handed back rather than printed.",
     },
     {
       invariantKind: "absence",
