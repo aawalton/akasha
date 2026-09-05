@@ -12,7 +12,7 @@ index f9837ae899445abfeff99d1d52d87a94e94bc26e..41166242696de3b393cbb8e87392c870
        continue
      }
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
-index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..a5176feb2c1310b5bad087df3efedbaa1071c88d 100644
+index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..32f880698c576f5f2dc2eb165d1d4deb5d4d81a1 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 +++ b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 @@ -121,7 +121,7 @@ test("the package built is the one a container's working directory names", () =>
@@ -33,8 +33,17 @@ index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..a5176feb2c1310b5bad087df3efedbaa
    expect(headOf(WORLD.root)).toBe(null)
  })
  
+@@ -155,7 +155,7 @@ test("the pod is checked out to the sha before the build runs", () => {
+   expect(syncScript(SHA)).toContain(`git reset --hard ${SHA}`)
+ })
+ 
+-test("a checkout takes what origin carries rather than what stands in the pod", () => {
++test("a checkout takes what origin carries rather than what is in the pod", () => {
+   expect(syncScript(SHA)).toContain("git fetch origin main")
+ })
+ 
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
-index 391eb6261fe7093fb477d515b7305ea89e071041..492878fc0092ae9d5d42927745e756d311e37ea3 100644
+index 391eb6261fe7093fb477d515b7305ea89e071041..b978021374caf50d78df43a4d501579fd5f61174 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
 +++ b/service-system/cluster-services/web-app-building/web-app-building.module.ts
 @@ -18,7 +18,7 @@ export const webAppBuilding = {
@@ -55,6 +64,15 @@ index 391eb6261fe7093fb477d515b7305ea89e071041..492878fc0092ae9d5d42927745e756d3
      },
      {
        invariantKind: "absence",
+@@ -101,7 +101,7 @@ export const webAppBuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whether a build already stands is asked of the pod holding it.",
++      statement: "Whether a build already exists is asked of the pod holding it.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
 index c3fdc7dec5aeea7a0179bc3ca5d008afec73d1ba..7f8ca7a240c8059947f0a6b460e01aa5b0446c6d 100644
 --- a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
@@ -92,7 +110,7 @@ index ff0711dd854a8c3b6114fee5b35b6c934958e009..665e7baf3cc9fca8296ef095d27c3496
 +  expect("refused" in read && read.refused).toContain("no file is there")
  })
 diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
-index b92d40026096d53d0ec202023a990477fe646740..47b8a7703b981597f1b3ed29bd043d0e970cef7b 100644
+index b92d40026096d53d0ec202023a990477fe646740..a5dab41bd5b5a5ea249fdca7ffdec789a8551ff8 100644
 --- a/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
 +++ b/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
 @@ -4,7 +4,7 @@ export const webAppReading = {
@@ -104,12 +122,17 @@ index b92d40026096d53d0ec202023a990477fe646740..47b8a7703b981597f1b3ed29bd043d0e
    code: "ts",
    test: "ts",
    testFixtures: "ts",
-@@ -40,7 +40,7 @@ export const webAppReading = {
+@@ -40,11 +40,11 @@ export const webAppReading = {
      },
      {
        invariantKind: "departure",
 -      statement: "A cluster service page naming manifest code no file stands at is refused.",
 +      statement: "A cluster service page naming manifest code no file holds is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A web app's page states where its own source stands.",
++      statement: "A web app's page states where its own source sits.",
      },
      {
        invariantKind: "departure",
