@@ -95,3 +95,11 @@ index c07811f3ef1940c309fed839055f3b27fbe91d26..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../design/badges
 \ No newline at end of file
+diff --git a/design/forms/design-forms b/design/forms/design-forms
+deleted file mode 120000
+index c15253be37411442a4144c8ae2682c5ed1080dab..0000000000000000000000000000000000000000
+--- a/design/forms/design-forms
++++ /dev/null
+@@ -1 +0,0 @@
+-../../design/forms
+\ No newline at end of file
