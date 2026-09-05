@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/sequence.record-property.ts b/pages/types/properties/sequence.record-property.ts
+index 3bbd8345d0fd85ba5f1c2646d764dbfebfe419b3..9b54a87456a75f8309df8b5b942c0840678c617a 100644
+--- a/pages/types/properties/sequence.record-property.ts
++++ b/pages/types/properties/sequence.record-property.ts
+@@ -31,7 +31,7 @@ export const sequence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type with none above it and none of its own stands in no run.",
++      statement: "A page type with none above that page type and none of its own stands in no run.",
+     },
+     {
+       invariantKind: "departure",
