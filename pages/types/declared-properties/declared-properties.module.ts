@@ -25,7 +25,7 @@ export const declaredProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A property is keyed by what its own page states rather than by the slug the declaration names.",
+        "A property is keyed by the slug its own page states rather than by the slug the declaration names.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +80,7 @@ export const declaredProperties = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what this module gathers.",
+      statement: "Nothing here judges the properties this module gathers.",
     },
     {
       invariantKind: "absence",
