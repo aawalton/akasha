@@ -48,12 +48,12 @@ export const accountUpkeepRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "It runs until stopped, and a stop ends the loop at its next boundary.",
+      statement: "Upkeep runs until stopped, and a stop ends the loop at its next boundary.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Whether upkeep is still running is ruled on elsewhere, from the stamps it leaves on each page.",
+        "Whether upkeep is still running is ruled on elsewhere, from the stamps upkeep leaves on each page.",
     },
   ],
 } as const satisfies Module
