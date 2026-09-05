@@ -1,0 +1,816 @@
+diff --git a/temper/temper-progress/condition-fields/pages/all-stocked.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/all-stocked.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..80686763bcb3b6a77e55de56b81ea1b3dccc7656
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/all-stocked.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const allStocked = {
++  id: "01a07209-6b4e-7e7e-ab26-44d84361ab3e",
++  pageTypeSlug: "temper-condition-field",
++  slug: "all-stocked",
++  title: "All Stocked",
++  key: "allStocked",
++  description:
++    "Every character wanting the item's stock group must already hold at least the stock threshold where the value is `all-stocked`, and one character must fall short where the value is `not-all-stocked`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/bop-tradeable.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/bop-tradeable.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6dcd905bc58cbdfdcb56aea55b102048e5820692
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/bop-tradeable.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const bopTradeable = {
++  id: "01a07209-6b4f-7d66-92c5-c4baca31c3f7",
++  pageTypeSlug: "temper-condition-field",
++  slug: "bop-tradeable",
++  title: "Bind-on-Pickup Tradeable",
++  key: "bopTradeable",
++  description:
++    "An item's bind-on-pickup tradeable flag must be true where the value is `bop-tradeable` and false where the value is `not-bop-tradeable`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/bound.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/bound.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cfdc5adc56ec4138ee5e8556478d124fd04e2ffe
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/bound.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const bound = {
++  id: "01a07209-6b4f-744d-b9df-baed60794cad",
++  pageTypeSlug: "temper-condition-field",
++  slug: "bound",
++  title: "Bound",
++  key: "bound",
++  description:
++    "An item's bound flag must be true where the value is `bound` and false where the value is `not-bound`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-companion-equip.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-companion-equip.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..267e6745ebd23caf4ab49ced6d9537e4151f99b8
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-companion-equip.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canCompanionEquip = {
++  id: "01a07209-6b4f-74b1-9165-e9b395509920",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-companion-equip",
++  title: "Can Companion Equip",
++  key: "canCompanionEquip",
++  description:
++    "An item's trait number must fall in the range 34 through 60 where the value is `can-companion-equip`, and outside that range where the value is `cannot-companion-equip`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-give-max-rewards.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-give-max-rewards.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ce37d40680ed52a6a7f01bcb88ff121d6166991
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-give-max-rewards.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canGiveMaxRewards = {
++  id: "01a07209-6b50-7e30-b768-87e61fc9590e",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-give-max-rewards",
++  title: "Can Give Max Rewards",
++  key: "canGiveMaxRewards",
++  description:
++    "A container fails where one character already knows every script and another character does not, so only containers still worth opening for every character match.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-inspire.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-inspire.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9df46980809b04f42d879be5976cfd05479df0c7
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-inspire.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canInspire = {
++  id: "01a07209-6b50-7b62-878d-1019c1380dd7",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-inspire",
++  title: "Can Inspire",
++  key: "canInspire",
++  description:
++    "At least one character must sit below the crafting rank cap for the crafting type the item implies where the value is `can-inspire`, and no character may where the value is `cannot-inspire`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-level-morphs.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-level-morphs.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..369e19d604124e3c5e3446ca124d2d265a0587e2
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-level-morphs.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canLevelMorphs = {
++  id: "01a07209-6b50-714b-a5c1-cce39abe7406",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-level-morphs",
++  title: "Can Level Morphs",
++  key: "canLevelMorphs",
++  description:
++    "A character suits the rule only where the account reports that character can still level a morph, the condition carrying the single mode `can-level`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-list-at-guild-trader.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-list-at-guild-trader.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cbdb82cf2e6b6ea6e92adaa8bd211ab1a106520c
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-list-at-guild-trader.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canListAtGuildTrader = {
++  id: "01a07209-6b50-741e-bf48-d5097bae1d03",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-list-at-guild-trader",
++  title: "Can List At Guild Trader",
++  key: "canListAtGuildTrader",
++  description:
++    "A rule marks the matching item as listable at a guild trader, offered only for the `list` action, and no checker in this checkout tests the value.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-open.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-open.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d0a81bb7d81f0f37cd6dff8f528df05263075889
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-open.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canOpen = {
++  id: "01a07209-6b50-72dd-a9b2-44554e1af2e7",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-open",
++  title: "Can Open",
++  key: "canOpen",
++  description:
++    "The item must be a container whose cooldown group has expired, and a transmute crystal container fails once the held crystal count reaches the cap.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-research.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-research.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ac0ae4d7e59d2ce59e3a55ff3b0fc24b9e77da5e
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-research.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canResearch = {
++  id: "01a07209-6b50-7646-9a92-24244b55870e",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-research",
++  title: "Can Research",
++  key: "canResearch",
++  description:
++    "At least one character must have the item's trait unresearched for the item's crafting type where the value is `can-research`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-sell.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-sell.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..85d451750ebe0110f1afcdd1667e7a9c5f0b8bb6
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-sell.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canSell = {
++  id: "01a07209-6b50-705b-bf33-d3a3361db568",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-sell",
++  title: "Can Sell",
++  key: "canSell",
++  description:
++    "An item's merchant sell price must be above zero, so an item worth nothing to a merchant fails, and the test is offered only for sell and fence-sell rules.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/can-unlock.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/can-unlock.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..48a3a4c867e41257efa317eb59a71b726f897209
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/can-unlock.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const canUnlock = {
++  id: "01a07209-6b50-75e6-813e-65439000ea7d",
++  pageTypeSlug: "temper-condition-field",
++  slug: "can-unlock",
++  title: "Can Unlock",
++  key: "canUnlock",
++  description:
++    "The item must be unknown to at least one character where the value is `can-unlock`, which is the negation of every character already knowing the item.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/crafted.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/crafted.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..66e94331499f0597026f2c96bac1b83429997479
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/crafted.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const crafted = {
++  id: "01a07209-6b50-780b-b032-058e683cef20",
++  pageTypeSlug: "temper-condition-field",
++  slug: "crafted",
++  title: "Crafted",
++  key: "crafted",
++  description:
++    "An item's crafted flag must be true where the value is `crafted` and false where the value is `not-crafted`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/is-target-companion-equip.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/is-target-companion-equip.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0aaf183d02a943b80f9e9cdcf4a58f6a71720843
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/is-target-companion-equip.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const isTargetCompanionEquip = {
++  id: "01a07209-6b51-7ed7-b1f4-bf281d0c584d",
++  pageTypeSlug: "temper-condition-field",
++  slug: "is-target-companion-equip",
++  title: "Target Companion Equipment",
++  key: "isTargetCompanionEquip",
++  description:
++    "An item's equip type, trait type and quality together must match a signature the target companion build asks for, looked up apart from the character build.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/is-target-equip.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/is-target-equip.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8dd340af8fc9bd676db09b1b07a3d65941e1bc26
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/is-target-equip.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const isTargetEquip = {
++  id: "01a07209-6b51-7771-9690-c8e62b7b363f",
++  pageTypeSlug: "temper-condition-field",
++  slug: "is-target-equip",
++  title: "Target Build Equipment",
++  key: "isTargetEquip",
++  description:
++    "An item's equip type, trait type and quality together must match a signature the target character build asks for where the value is `is-target-equip`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/item-name-pattern.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/item-name-pattern.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4977e969552766ce179d1cf5ebfdb72b04b3b8ea
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/item-name-pattern.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const itemNamePattern = {
++  id: "01a07209-6b51-7d01-9520-ca4b308156ea",
++  pageTypeSlug: "temper-condition-field",
++  slug: "item-name-pattern",
++  title: "Item Name Pattern",
++  key: "itemNamePattern",
++  description:
++    "An item's name, lowercased, must hold every unnegated token of the pattern and none of the tokens prefixed with `-`, where a quoted run counts as one token.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/keep-floor.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/keep-floor.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..727a5dfb1262ef425c42d492f3b841649b662efd
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/keep-floor.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const keepFloor = {
++  id: "01a07209-6b51-793a-af55-2d7be0fc2b64",
++  pageTypeSlug: "temper-condition-field",
++  slug: "keep-floor",
++  title: "Keep Floor",
++  key: "keepFloor",
++  description:
++    "A currency rule names the amount to leave behind, turning the compiled action into `keep-floor` where the destination is not a character, and no item condition reads the amount.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/keep-quantity.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/keep-quantity.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc9785f8dd7a781f916b018bbd3dc1098e57faaf
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/keep-quantity.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const keepQuantity = {
++  id: "01a07209-6b51-795a-b1ac-3a82ccdac7c2",
++  pageTypeSlug: "temper-condition-field",
++  slug: "keep-quantity",
++  title: "Keep Quantity",
++  key: "keepQuantity",
++  description:
++    "A rule names how many of the matching item to hold back from an outbound action such as sell or deconstruct, and no condition checker in this checkout reads the number.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/known.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/known.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b943d86b2fa8fd0ce2633b3c67cc4fd2695cabeb
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/known.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const known = {
++  id: "01a07209-6b51-796e-839e-eb3726bce05d",
++  pageTypeSlug: "temper-condition-field",
++  slug: "known",
++  title: "Known",
++  key: "known",
++  description:
++    "Every character on the account must already know the item where the value is `known`, and at least one character must not know the item where the value is `not-known`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/level-op.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/level-op.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6bd16d488891e04b74d63d162a91b531c3d0042f
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/level-op.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const levelOp = {
++  id: "01a07209-6b51-7d3a-8a59-0486cf4064e2",
++  pageTypeSlug: "temper-condition-field",
++  slug: "level-op",
++  title: "Level Comparison",
++  key: "levelOp",
++  description:
++    "The operator named here replaces the default `<=` when an item's required level is compared against `maxLevel`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/location.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/location.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..74f5b66372d66dba67cab94901f8e90669d70d0d
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/location.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const location = {
++  id: "01a07209-6b51-7e18-bdfa-5b44a01a5e32",
++  pageTypeSlug: "temper-condition-field",
++  slug: "location",
++  title: "Location",
++  key: "location",
++  description:
++    "An item's inventory location must appear in the list of location ids stated, covering worn, backpack, bank, craft bag, housing storage, house, companion and guild bank.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/locked.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/locked.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f243db4d7004ae907c07686e23f7d265be841470
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/locked.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const locked = {
++  id: "01a07209-6b51-7d08-96a3-0a7e0f11b81a",
++  pageTypeSlug: "temper-condition-field",
++  slug: "locked",
++  title: "Locked",
++  key: "locked",
++  description:
++    "An item's locked flag must be true where the value is `locked` and false where the value is `not-locked`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/market-value-op.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/market-value-op.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..befceaa5ac50da1820b057e0d64c16373be4b57f
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/market-value-op.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const marketValueOp = {
++  id: "01a07209-6b51-7df7-a7e0-14b4a13b61a3",
++  pageTypeSlug: "temper-condition-field",
++  slug: "market-value-op",
++  title: "Market Value Comparison",
++  key: "marketValueOp",
++  description:
++    "The operator named here replaces the default `<=` when an item's estimated market value is compared against `marketValue`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/market-value.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/market-value.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7bba996ec3b2d5603b2dc8584fa574ff36836fdc
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/market-value.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const marketValue = {
++  id: "01a07209-6b51-7fca-8a11-730a4bc2f40d",
++  pageTypeSlug: "temper-condition-field",
++  slug: "market-value",
++  title: "Market Value",
++  key: "marketValue",
++  description:
++    "An item's estimated market value is compared against the number or named constant stated, under `<=` by default, and this field overrides `maxValue` and `minValue` entirely.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/max-level.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/max-level.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4e53441375592d9a8eafebdd24c6529b573219ae
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/max-level.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const maxLevel = {
++  id: "01a07209-6b52-747e-9f9e-06ca8c60eb3a",
++  pageTypeSlug: "temper-condition-field",
++  slug: "max-level",
++  title: "Max Level",
++  key: "maxLevel",
++  description:
++    "An item's required level, raised to 50 plus a tenth of the item's champion points where those are above zero, is compared against the number stated, under `<=` by default.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/max-quality.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/max-quality.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e4ac385442638e68930f19e5925a062d783afe17
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/max-quality.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const maxQuality = {
++  id: "01a07209-6b52-7d21-881a-8dfea4e1e1ac",
++  pageTypeSlug: "temper-condition-field",
++  slug: "max-quality",
++  title: "Max Quality",
++  key: "maxQuality",
++  description:
++    "An item's quality number is compared against the number stated, under `<=` unless `qualityOp` names another operator.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/max-value.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/max-value.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4eac75eaacb128f875221d0f43802306409d12e7
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/max-value.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const maxValue = {
++  id: "01a07209-6b52-733e-bd26-b8536d049bb5",
++  pageTypeSlug: "temper-condition-field",
++  slug: "max-value",
++  title: "Max Value",
++  key: "maxValue",
++  description:
++    "An item's estimated market value must be no greater than the number stated, and this field is read only where the rule sets no `marketValue`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/merchant-value-op.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/merchant-value-op.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eccfc2d2c037dae81dd92ab9713d73a445850d5e
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/merchant-value-op.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const merchantValueOp = {
++  id: "01a07209-6b52-7581-b013-23e4163221ab",
++  pageTypeSlug: "temper-condition-field",
++  slug: "merchant-value-op",
++  title: "Merchant Value Comparison",
++  key: "merchantValueOp",
++  description:
++    "The operator named here replaces the default `<=` when an item's merchant sell price is compared against `merchantValue`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/merchant-value.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/merchant-value.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..574f709a3d04822d7a7653cfa92ff84fc95ec29f
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/merchant-value.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const merchantValue = {
++  id: "01a07209-6b52-7464-a508-0f1d30c57d14",
++  pageTypeSlug: "temper-condition-field",
++  slug: "merchant-value",
++  title: "Merchant Value",
++  key: "merchantValue",
++  description:
++    "An item's merchant sell price, read as zero where absent, is compared against the number or named constant stated, under `<=` by default.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/min-value.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/min-value.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..06d4c5dac11b9e49416dee1dbf21f1d1482be361
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/min-value.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const minValue = {
++  id: "01a07209-6b52-7b71-b676-74e1a6ecc1f3",
++  pageTypeSlug: "temper-condition-field",
++  slug: "min-value",
++  title: "Min Value",
++  key: "minValue",
++  description:
++    "An item's estimated market value must be no less than the number stated, and this field is read only where the rule sets no `marketValue`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/potion-effects-mode.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/potion-effects-mode.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..08c60116481c788b6b5c9209132f6b414254287a
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/potion-effects-mode.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const potionEffectsMode = {
++  id: "01a07209-6b52-7535-a7df-730149f628d5",
++  pageTypeSlug: "temper-condition-field",
++  slug: "potion-effects-mode",
++  title: "Potion Effects Mode",
++  key: "potionEffectsMode",
++  description:
++    "This modifier chooses whether `potionEffects` asks for every listed effect under `all` or any one listed effect under `any`, defaulting to `any`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/potion-effects.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/potion-effects.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..20dfd15c186a86086acab3989a97461b74a19df7
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/potion-effects.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const potionEffects = {
++  id: "01a07209-6b52-7fc6-bb71-edad7d1fc8e9",
++  pageTypeSlug: "temper-condition-field",
++  slug: "potion-effects",
++  title: "Potion Effects",
++  key: "potionEffects",
++  description:
++    "An item's granted potion effect metric ids must cover the list of effect ids stated, under whichever quantifier `potionEffectsMode` names.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/quality-op.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/quality-op.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b7e5feef5fd37c80c4046c233ba46d68471c962
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/quality-op.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const qualityOp = {
++  id: "01a07209-6b52-73e1-8146-199bac987c98",
++  pageTypeSlug: "temper-condition-field",
++  slug: "quality-op",
++  title: "Quality Comparison",
++  key: "qualityOp",
++  description:
++    "The operator named here replaces the default `<=` when an item's quality is compared against `maxQuality`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/quest-relevant.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/quest-relevant.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4b0f79f414ccfa3a82c5964aa4df85b4f8ae0d1d
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/quest-relevant.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const questRelevant = {
++  id: "01a07209-6b52-7d14-ae71-270876892ccc",
++  pageTypeSlug: "temper-condition-field",
++  slug: "quest-relevant",
++  title: "Quest Relevant",
++  key: "questRelevant",
++  description:
++    "An item's quest-relevant flag must be true where the value is `quest-relevant` and false where the value is `not-quest-relevant`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/reconstructed.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/reconstructed.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b139b2507e985ff53b55449bdccbedf1a38138b3
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/reconstructed.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const reconstructed = {
++  id: "01a07209-6b52-762e-b29d-4e544f4a7836",
++  pageTypeSlug: "temper-condition-field",
++  slug: "reconstructed",
++  title: "Reconstructed",
++  key: "reconstructed",
++  description:
++    "An item's reconstructed flag must be true where the value is `reconstructed` and false where the value is `not-reconstructed`, and the test suits equipment alone.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/replacement-value-op.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/replacement-value-op.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e0eb23e821ce0d4ce3cc1ff8bba6a3984c8d9010
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/replacement-value-op.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const replacementValueOp = {
++  id: "01a07209-6b53-7500-9b2f-edeb04ef31ad",
++  pageTypeSlug: "temper-condition-field",
++  slug: "replacement-value-op",
++  title: "Replacement Value Comparison",
++  key: "replacementValueOp",
++  description:
++    "The operator named here replaces the default `<=` when an item's replacement cost is compared against `replacementValue`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/replacement-value.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/replacement-value.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ab011213fddccf2bba6821812a76a1c98df6e02
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/replacement-value.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const replacementValue = {
++  id: "01a07209-6b53-7c76-ac1d-e3beb5bc0786",
++  pageTypeSlug: "temper-condition-field",
++  slug: "replacement-value",
++  title: "Replacement Value",
++  key: "replacementValue",
++  description:
++    "An item's replacement cost, read as zero where absent, is compared against the number or named constant stated, under `<=` by default.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/required-curse-state.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/required-curse-state.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..188b698f9378244e38838ab4e5b6e06e2c35b876
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/required-curse-state.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const requiredCurseState = {
++  id: "01a07209-6b53-7d1e-90db-963d1b258cd6",
++  pageTypeSlug: "temper-condition-field",
++  slug: "required-curse-state",
++  title: "Required Curse State",
++  key: "requiredCurseState",
++  description:
++    "A character suits the rule only where that character's curse state is exactly the one named, being either vampire or werewolf.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/required-skill-lines.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/required-skill-lines.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6cf087e145616af46b10060728c4f614dccf4a6f
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/required-skill-lines.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const requiredSkillLines = {
++  id: "01a07209-6b53-7de9-aa98-47c3e31b5c4e",
++  pageTypeSlug: "temper-condition-field",
++  slug: "required-skill-lines",
++  title: "Required Skill Lines",
++  key: "requiredSkillLines",
++  description:
++    "A character suits the rule only where every named skill line is at max rank under mode `all-maxed`, or at least one named line is below max under `any-not-maxed`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/set-source-types.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/set-source-types.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8aeb1bfb0658fd7f8f628eda9f3e6f227d094f4a
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/set-source-types.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const setSourceTypes = {
++  id: "01a07209-6b53-796a-b671-0a4f92c2dd86",
++  pageTypeSlug: "temper-condition-field",
++  slug: "set-source-types",
++  title: "Set Source Types",
++  key: "setSourceTypes",
++  description:
++    "An item's set number is mapped to a set source category, which must appear in the list stated, and an item carrying no set number skips this check.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/stack-fullness.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/stack-fullness.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2dd8b843f8bba3e33b0dd108113a06b2f689d21f
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/stack-fullness.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const stackFullness = {
++  id: "01a07209-6b53-718d-9f85-b9e62d85b39d",
++  pageTypeSlug: "temper-condition-field",
++  slug: "stack-fullness",
++  title: "Stack Fullness",
++  key: "stackFullness",
++  description:
++    "An item's stack count must reach the item's maximum stack size where the value is `full`, and fall below that size where the value is `partial`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/stock-threshold.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/stock-threshold.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0dff3c64a32e1c913df06f34446a616095c43a5b
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/stock-threshold.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const stockThreshold = {
++  id: "01a07209-6b53-7b82-a04a-06279f6e58f0",
++  pageTypeSlug: "temper-condition-field",
++  slug: "stock-threshold",
++  title: "Stock Threshold",
++  key: "stockThreshold",
++  description:
++    "The per-character unit count `allStocked` compares stock against is named here, defaulting to 200 where a rule sets none.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/stolen.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/stolen.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7776a9e87872d97c13e3a8065e8ec5e74ba1b13d
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/stolen.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const stolen = {
++  id: "01a07209-6b53-79c6-bc43-1fb7b950c67c",
++  pageTypeSlug: "temper-condition-field",
++  slug: "stolen",
++  title: "Stolen",
++  key: "stolen",
++  description:
++    "An item's stolen flag must be true where the value is `stolen` and false where the value is `not-stolen`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/target-quantity.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/target-quantity.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..28da95fc803714867c80acc785e2b039709a1d1a
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/target-quantity.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const targetQuantity = {
++  id: "01a07209-6b53-7bed-b627-6f26254a2793",
++  pageTypeSlug: "temper-condition-field",
++  slug: "target-quantity",
++  title: "Target Quantity",
++  key: "targetQuantity",
++  description:
++    "The bank stock summed across the item's whole stock group must fall below the number stated, so an item already banked to target fails.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/traits.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/traits.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..82a247e297f9a06f49808aebe325bccb446e3beb
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/traits.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const traits = {
++  id: "01a07209-6b53-7da4-a5c6-20b6d00133c6",
++  pageTypeSlug: "temper-condition-field",
++  slug: "traits",
++  title: "Traits",
++  key: "traits",
++  description:
++    "An item's trait number is turned into a temper trait id, which must appear in the list of trait ids stated.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/transmuted.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/transmuted.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..62b0c856fceda8731a8f620539488c5a6a907e4c
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/transmuted.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const transmuted = {
++  id: "01a07209-6b53-75c2-b772-5772cebcdd26",
++  pageTypeSlug: "temper-condition-field",
++  slug: "transmuted",
++  title: "Transmuted",
++  key: "transmuted",
++  description:
++    "An item's transmuted flag must be true where the value is `transmuted` and false where the value is `not-transmuted`, and the test suits equipment alone.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/value-op.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/value-op.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d33b4b32f0e07ced61c27a0973b827aabf707794
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/value-op.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const valueOp = {
++  id: "01a07209-6b53-7d35-9a37-3f29156126d1",
++  pageTypeSlug: "temper-condition-field",
++  slug: "value-op",
++  title: "Value Comparison",
++  key: "valueOp",
++  description:
++    "The operator named here replaces the default `<=` when an item's greatest value figure is compared against `value`.",
++} as const satisfies TemperConditionField
+diff --git a/temper/temper-progress/condition-fields/pages/value.temper-condition-field.ts b/temper/temper-progress/condition-fields/pages/value.temper-condition-field.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2cef59c7b0b0bd8ba09f5de1afc044e09feb215c
+--- /dev/null
++++ b/temper/temper-progress/condition-fields/pages/value.temper-condition-field.ts
+@@ -0,0 +1,11 @@
++import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
++
++export const value = {
++  id: "01a07209-6b53-7b81-b228-d512eb706d55",
++  pageTypeSlug: "temper-condition-field",
++  slug: "value",
++  title: "Value",
++  key: "value",
++  description:
++    "The greatest of an item's estimated value, merchant value and replacement cost is compared against the number or named constant stated, under `<=` by default.",
++} as const satisfies TemperConditionField
