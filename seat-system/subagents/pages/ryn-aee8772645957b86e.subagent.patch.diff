@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/editor-extension/champions-tree/champions-tree.module.ts b/editor-extension/champions-tree/champions-tree.module.ts
+index 7aa49e21d42bf054e08006d8344e2bcf2ffc6eb1..eb0efe661d5bacd72ee61c8d3aa7cf19cd50663b 100644
+--- a/editor-extension/champions-tree/champions-tree.module.ts
++++ b/editor-extension/champions-tree/champions-tree.module.ts
+@@ -17,7 +17,8 @@ export const championsTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A parent's sequence places the children it names ahead of the ones it does not.",
++      statement:
++        "A parent's sequence places the children that sequence names ahead of the ones the sequence does not.",
+     },
+     {
+       invariantKind: "departure",
