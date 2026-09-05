@@ -12,3 +12,16 @@ index 7afc539b7e98eec2834b153fd248aa5f47e26720..a0487d251049608dffef8bb228d61d54
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/agreement/monarch-agreement.module.ts b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+index bd60fcc2dbf5756fdbbc52e7b17ab23f8d1491b4..e5a206886a26fa6fc6c1a09c6ad75d2cd16890e6 100644
+--- a/alan/harness/monarch/agreement/monarch-agreement.module.ts
++++ b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+@@ -24,7 +24,7 @@ export const monarchAgreement = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transaction naming no category counts as uncategorized alongside one naming the uncategorized page.",
++        "A transaction naming no category or naming the uncategorized page counts as uncategorized.",
+     },
+     {
+       invariantKind: "absence",
