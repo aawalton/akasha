@@ -29,6 +29,19 @@ index ef5daffe5d3eddcf39e5b50d4ec711999b41ac6d..81b823fc256a7a420c273b8b95b10051
  import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
  
  const ROOT = resolve(import.meta.dir, "../..")
+diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
+index 5a1d7faae1f625cd5555213da6b5c0c85b8b16e4..299893f718438e045f3135dd9bfe1d67c74125a6 100644
+--- a/editor-extension/seat-acts/seat-acts.module.code.ts
++++ b/editor-extension/seat-acts/seat-acts.module.code.ts
+@@ -49,7 +49,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
+       await runSeat(["supervisor", "stop", seat.name])
+       return undefined
+     case "revive": {
+-      const prompt = await resumePrompt()
++      const prompt = resumePrompt()
+       await runSeat(["resume", seat.name, "--prompt", prompt])
+       return undefined
+     }
 diff --git a/editor-extension/seat-toggles/seat-toggles.module.code.ts b/editor-extension/seat-toggles/seat-toggles.module.code.ts
 index c069f4d89ebeb004b1199e0b59307571fa4bcf10..34fea6f2bea447fb9787784868e06dadf7f18e0a 100644
 --- a/editor-extension/seat-toggles/seat-toggles.module.code.ts
