@@ -1,0 +1,13 @@
+diff --git a/infrastructure/inference-clients/ace-step-client/ace-step-client.module.ts b/infrastructure/inference-clients/ace-step-client/ace-step-client.module.ts
+index 66f63f52a7ffdf67baa5fdbe3d41ab4fcfa64bec..145f164101507dc9948cbe0ab1d525ef94dfcef4 100644
+--- a/infrastructure/inference-clients/ace-step-client/ace-step-client.module.ts
++++ b/infrastructure/inference-clients/ace-step-client/ace-step-client.module.ts
+@@ -9,7 +9,7 @@ export const aceStepClient = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A song is asked for once and then polled for until it is done.",
++      statement: "A song is asked for once and then polled for until that song is done.",
+     },
+     {
+       invariantKind: "departure",
