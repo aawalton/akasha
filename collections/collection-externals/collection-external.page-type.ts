@@ -38,7 +38,7 @@ export const collectionExternal = {
     },
     {
       invariantKind: "departure",
-      statement: "What a person records about a collection outlives every sync.",
+      statement: "The values a person records about a collection outlive every sync.",
     },
     {
       invariantKind: "departure",
