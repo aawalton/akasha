@@ -246,8 +246,10 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
 }
 
 export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
+  const reached = rootsOf(change, shadow.index)
+  if (reached.length === 0) return []
   const claimed = claimedIn(change, shadow.index)
-  const roots = rootsOf(change, shadow.index).filter((one) => !claimed(one))
+  const roots = reached.filter((one) => !claimed(one))
   if (roots.length === 0) return []
   const root = resolve(change.root)
   const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
