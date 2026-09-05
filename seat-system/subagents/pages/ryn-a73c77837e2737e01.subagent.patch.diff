@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
-index e3b4c6f49c419d8c0cec6f6d3e434a7d2f765c3d..273b4a4fbefb1d9359d5d800b7191eef9fe543fa 100644
+index e3b4c6f49c419d8c0cec6f6d3e434a7d2f765c3d..35cf9367b8007ca19c96c76019f3f5e6ef54bd21 100644
 --- a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
 +++ b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
 @@ -10,7 +10,7 @@ export const movementStanding = {
@@ -8,6 +8,15 @@ index e3b4c6f49c419d8c0cec6f6d3e434a7d2f765c3d..273b4a4fbefb1d9359d5d800b7191eef
        invariantKind: "departure",
 -      statement: "A movement is named once however many sets it has.",
 +      statement: "A movement is named once however many sets that movement has.",
+     },
+     {
+       invariantKind: "departure",
+@@ -19,7 +19,7 @@ export const movementStanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A movement with no exercise page behind it is named by its slug.",
++      statement: "A movement with no exercise page behind that movement is named by its slug.",
      },
      {
        invariantKind: "departure",
