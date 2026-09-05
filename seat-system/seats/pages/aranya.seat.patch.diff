@@ -380,6 +380,21 @@ index 0000000000000000000000000000000000000000..90b7ffb07fdefc0d9a5c2a6c0314c468
 +  definition: "the daily backup the database operator takes",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/exporter-daemonsets/exporter-daemonsets.module.ts b/infrastructure/cluster-manifests/exporter-daemonsets/exporter-daemonsets.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d396ec95e9ac1876cadea3a629d6d86dd29475b1
+--- /dev/null
++++ b/infrastructure/cluster-manifests/exporter-daemonsets/exporter-daemonsets.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const exporterDaemonsets = {
++  id: "01a073ae-7e8e-76d1-895f-c3358a86c953",
++  pageTypeSlug: "module",
++  slug: "exporter-daemonsets",
++  definition: "the node and graphics card exporters that run one copy per node",
++  code: "ts",
++} as const satisfies Module
 diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
 index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d33760694a558 100644
 --- a/infrastructure/cluster-manifests/package.json
