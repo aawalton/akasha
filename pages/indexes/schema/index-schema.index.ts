@@ -60,7 +60,8 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating a property slug is a page property whatever page type it is.",
+      statement:
+        "A page stating a property slug is a page property whatever page type that page is.",
     },
     {
       invariantKind: "departure",
