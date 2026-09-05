@@ -55,7 +55,7 @@ export const claudeAccountCosting = {
     },
     {
       invariantKind: "departure",
-      statement: "A price is what the api charges rather than what a subscription cost.",
+      statement: "A price is the api's charge rather than a subscription's cost.",
     },
     {
       invariantKind: "absence",
