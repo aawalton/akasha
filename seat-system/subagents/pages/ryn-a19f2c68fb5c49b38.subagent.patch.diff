@@ -29,3 +29,29 @@ index ec103a1165be62160681dc20d261680343a30cc1..a13a9a19c3ecd289fd4a8663b1bc36bd
      },
    ],
  } as const satisfies Module
+diff --git a/commands/complexity/complexity.command.ts b/commands/complexity/complexity.command.ts
+index a2712da3448f340be2bbee8bb422ba637ab71d59..4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d 100644
+--- a/commands/complexity/complexity.command.ts
++++ b/commands/complexity/complexity.command.ts
+@@ -43,7 +43,7 @@ export const complexity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An act this does not carry is refused rather than answered as nothing.",
++      statement: "An act this command does not carry is refused rather than answered as nothing.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/refactor/landing/refactor-landing.module.ts b/commands/refactor/landing/refactor-landing.module.ts
+index d5caef3cd86c4bf2bfcd3b148fd175d6c0d8c30b..b0251a07e029bc022351840990adf6cfcff05ee9 100644
+--- a/commands/refactor/landing/refactor-landing.module.ts
++++ b/commands/refactor/landing/refactor-landing.module.ts
+@@ -9,7 +9,7 @@ export const refactorLanding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every act respelling bodies lands them through this.",
++      statement: "Every act respelling bodies lands them through this module.",
+     },
+     {
+       invariantKind: "departure",
