@@ -13,7 +13,7 @@ export const seatActConfirm = {
     },
     {
       invariantKind: "departure",
-      statement: "A stopped seat is asked nothing, because it has no turn to lose.",
+      statement: "A stopped seat is asked nothing, because that seat has no turn to lose.",
     },
     {
       invariantKind: "departure",
