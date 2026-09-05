@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts b/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
-index 06810659e78032f44ef2a8bc9ffa58d832fbbc02..d5a2c445c5bbb22b1b060214e43a302b322dda3a 100644
+index 06810659e78032f44ef2a8bc9ffa58d832fbbc02..8636fdedb64bf6f4b71fa98e23327285ad9d69f1 100644
 --- a/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
 +++ b/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
 @@ -14,8 +14,7 @@ export const terminalReload = {
@@ -13,3 +13,12 @@ index 06810659e78032f44ef2a8bc9ffa58d832fbbc02..d5a2c445c5bbb22b1b060214e43a302b
      },
      {
        invariantKind: "departure",
+@@ -39,7 +38,7 @@ export const terminalReload = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here says what any one launcher does.",
++      statement: "Nothing here says any one launcher's body.",
+     },
+   ],
+ } as const satisfies Module
