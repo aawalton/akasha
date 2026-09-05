@@ -114,3 +114,21 @@ index effd0270caf542c079c90fa4994fbdbeae7efc7c..5e56f10b81d3147d63eced502dd5dc9f
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+index ffc485f4a8a71ba3be7ff4dfae0126b93d7fe57c..aa9354bfc855f8f869711e1ff66b9e64253610c7 100644
+--- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
++++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+@@ -27,8 +27,11 @@ export const logDaySweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The removal is composed by a daemon rather than authored, so it lands mechanically, in process, owing no read record.",
++      statement: "The removal is composed by a daemon rather than authored.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The removal lands mechanically, in process, owing no read record.",
+     },
+     {
+       invariantKind: "departure",
