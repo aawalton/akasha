@@ -31,7 +31,7 @@ export const esoInterface = {
     },
     {
       invariantKind: "departure",
-      statement: "The game reads the XML rather than running it.",
+      statement: "The game reads the XML rather than running that XML.",
     },
     {
       invariantKind: "departure",
