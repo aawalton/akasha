@@ -1,0 +1,11 @@
+diff --git a/infrastructure/dirty.domain.ts b/infrastructure/dirty.domain.ts
+index 11a2e568e3e44969a7f624b3cf986d6876f8ae48..78d13622c5d130caa1cbafb74febde6ad6a313db 100644
+--- a/infrastructure/dirty.domain.ts
++++ b/infrastructure/dirty.domain.ts
+@@ -5,5 +5,5 @@ export const dirty = {
+   pageTypeSlug: "domain",
+   slug: "dirty",
+   definition: "content a repository holds that nothing yet owns",
+-  partSlugs: ["page-type/partslug-probe"],
++  partSlugs: ["page-type/partslug-probe", "page-type/partslug-probe-two"],
+ } as const satisfies Domain
