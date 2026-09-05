@@ -14,7 +14,8 @@ export const inventoryParityCapabilities = {
     },
     {
       invariantKind: "departure",
-      statement: "What a trace and a route are is stated here for the run to read them by.",
+      statement:
+        "What a trace and a route are is stated here for the run to read a trace and a route by.",
     },
     {
       invariantKind: "absence",
