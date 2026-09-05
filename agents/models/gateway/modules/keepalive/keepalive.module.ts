@@ -27,11 +27,11 @@ export const keepalive = {
     {
       invariantKind: "constraint",
       statement:
-        "Whoever opens an emitter closes that emitter on every path the stream can end by.",
+        "A caller that opens an emitter closes that emitter on every path the stream can end by.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a stream carries.",
+      statement: "Nothing here knows the frames a stream carries.",
     },
     {
       invariantKind: "departure",
