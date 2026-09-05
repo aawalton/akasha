@@ -10,3 +10,15 @@ index ec4c84cd375ce42d81b38a4b8e3a6809d621c5ea..9cb3a6db8a51db34d4cfdf7bf5aae6a0
      "domain/mathematics",
      "domain/technology",
      "domain/all-about-alan",
+diff --git a/infrastructure/infrastructure.domain.ts b/infrastructure/infrastructure.domain.ts
+index 19a917d45e6669853d46b92cd82cbdf2b44492b3..f69339b64b38500588f7ab586c867a1d9b69f8a6 100644
+--- a/infrastructure/infrastructure.domain.ts
++++ b/infrastructure/infrastructure.domain.ts
+@@ -10,7 +10,6 @@ export const infrastructure = {
+     "domain/network",
+     "domain/secret",
+     "domain/telemetry",
+-    "domain/inference",
+     "workspace-package/cluster-api",
+     "workspace-package/k8s-types",
+     "workspace-package/cluster-manifests",
