@@ -1,3 +1,15 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+index 80eb10580f75e9182d431f92ee01038af01cf003..b8c5b75ba553072a4c0651221fd19e3c8ec97753 100644
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -14,6 +14,7 @@ export const atomicChange = {
+     "atomic-change/rename-property-signature",
+     "atomic-change/rename-local-variable",
+     "atomic-change/rename-path",
++    "atomic-change/rename-slug",
+   ],
+   extendsSlug: ["page-type/module"],
+   invariants: [
 diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f27dfd20877333351cfaf8aee9e4cb1b20dcdeb2
