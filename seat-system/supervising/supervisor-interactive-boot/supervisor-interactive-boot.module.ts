@@ -35,7 +35,8 @@ export const supervisorInteractiveBoot = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here spawns a Claude child; this module readies what a child will need.",
+      statement:
+        "Nothing here spawns a Claude child; this module readies the setup a child will need.",
     },
     {
       invariantKind: "departure",
