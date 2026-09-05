@@ -1,6 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Service } from "../services/service.page-type.ts"
-import type { ManifestCode } from "./properties/cluster-service-manifest-code.text-property.ts"
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
@@ -18,8 +17,7 @@ export type ClusterService = Service & {
   replicas?: Replicas
   containerPort?: ContainerPort
   schedule?: ClusterServiceSchedule
-  manifestCode?: ManifestCode
-  manifestSlug?: ManifestSlug
+  manifestSlug: ManifestSlug
 }
 
 export const clusterService = {
@@ -86,7 +84,6 @@ export const clusterService = {
     "number-property/replicas",
     "relation-property/manifest-slug",
     "text-property/image",
-    "text-property/cluster-service-manifest-code",
     "text-property/namespace",
     "text-property/resource-kind",
     "text-property/resource-name",
@@ -100,8 +97,7 @@ export const clusterService = {
     { pagePropertySlug: "replicas", required: false, many: false },
     { pagePropertySlug: "container-port", required: false, many: false },
     { pagePropertySlug: "cluster-service-schedule", required: false, many: false },
-    { pagePropertySlug: "cluster-service-manifest-code", required: false, many: false },
-    { pagePropertySlug: "manifest-slug", required: false, many: false },
+    { pagePropertySlug: "manifest-slug", required: true, many: false },
   ],
   invariants: [
     {
@@ -144,9 +140,8 @@ export const clusterService = {
       statement: "The manifests a cluster service is applied as are emitted from its own page.",
     },
     {
-      invariantKind: "stopgap",
-      statement:
-        "A cluster service names the file emitting its manifests until that service names a manifest page.",
+      invariantKind: "departure",
+      statement: "A cluster service names the manifest page emitting its resources.",
     },
   ],
 } as const satisfies PageType
