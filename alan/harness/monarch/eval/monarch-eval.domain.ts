@@ -121,8 +121,11 @@ export const monarchEval = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "Nothing on a transaction records who set its category, so a row Monarch's own categorizer set reads identically to one Jenny chose.",
+      statement: "Nothing on a transaction records who set its category.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A row Monarch's own categorizer set reads identically to a row Jenny chose.",
     },
     {
       invariantKind: "departure",
