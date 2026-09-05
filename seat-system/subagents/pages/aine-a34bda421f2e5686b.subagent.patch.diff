@@ -1,8 +1,8 @@
 diff --git a/agents/claude-accounts/modules/making/claude-account-making.module.code.ts b/agents/claude-accounts/modules/making/claude-account-making.module.code.ts
-index 410af03c8645872ebf76adcc1e2614c088819908..636704d4f4da28637646bb8e89333a1ed6dbb201 100644
+index 410af03c8645872ebf76adcc1e2614c088819908..47368377442175cebb236ebb40fba9d74dfe914b 100644
 --- a/agents/claude-accounts/modules/making/claude-account-making.module.code.ts
 +++ b/agents/claude-accounts/modules/making/claude-account-making.module.code.ts
-@@ -31,9 +31,9 @@ export type Landing = (
+@@ -31,15 +31,15 @@ export type Landing = (
  
  export const LANDING: Landing = landedMechanically
  
@@ -14,8 +14,15 @@ index 410af03c8645872ebf76adcc1e2614c088819908..636704d4f4da28637646bb8e89333a1e
  export function accountsAtIn(given: string | Reading): string {
    const first = everyAccountIn(given)[0]
    if (first === undefined) {
+     throw new Error(
+       `no page is filed under \`${PAGE_TYPE_SLUG}\`, and where a new one is written is read off ` +
+-        `the pages already standing, so this root says nothing about where to write one`
++        `the pages already there, so this root says nothing about where to write one`
+     )
+   }
+   const cut = first.path.lastIndexOf("/")
 diff --git a/agents/claude-accounts/modules/making/claude-account-making.module.ts b/agents/claude-accounts/modules/making/claude-account-making.module.ts
-index 5b7666756a79e2885d1511374b4b7cf7a23d9ee2..3dacd09d0ae5566f18334560f4130f3a9155dda9 100644
+index 5b7666756a79e2885d1511374b4b7cf7a23d9ee2..9bed7ba971db221c8d1c3d5d0acf6ee098e5212a 100644
 --- a/agents/claude-accounts/modules/making/claude-account-making.module.ts
 +++ b/agents/claude-accounts/modules/making/claude-account-making.module.ts
 @@ -10,11 +10,11 @@ export const claudeAccountMaking = {
@@ -29,6 +36,15 @@ index 5b7666756a79e2885d1511374b4b7cf7a23d9ee2..3dacd09d0ae5566f18334560f4130f3a
        invariantKind: "departure",
 -      statement: "A root standing no account throws rather than guessing that folder.",
 +      statement: "A root holding no account throws rather than guessing that folder.",
+     },
+     {
+       invariantKind: "departure",
+@@ -59,7 +59,7 @@ export const claudeAccountMaking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An account a page already stands for is answered as standing rather than made.",
++      statement: "An account a page already exists for is answered as standing rather than made.",
      },
      {
        invariantKind: "departure",
