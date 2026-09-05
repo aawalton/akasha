@@ -10,7 +10,7 @@ export const itemCategoryActions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A category no rule reaches is left as it was.",
+      statement: "A category no rule reaches is left as that category was.",
     },
   ],
 } as const satisfies Module
