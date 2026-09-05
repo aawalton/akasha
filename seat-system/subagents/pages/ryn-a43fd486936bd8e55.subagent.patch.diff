@@ -12,3 +12,16 @@ index 4baf3df147c49f02d56a774d8437058abcd8679e..7afc539b7e98eec2834b153fd248aa5f
      },
      {
        invariantKind: "constraint",
+diff --git a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+index 0412d6b76afaf6ac2ce94f0935b80c158e613cf3..d63f5e54249530e4b745c8d64388b6470ee474c5 100644
+--- a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
++++ b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+@@ -10,7 +10,7 @@ export const monarchNotesWrite = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A note is written only where the transaction carries none, read live at the moment of writing rather than from our copy.",
++        "A note is written only where a live read at the moment of writing, not our copy, shows no note.",
+     },
+     {
+       invariantKind: "departure",
