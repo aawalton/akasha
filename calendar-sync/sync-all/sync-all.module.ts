@@ -13,7 +13,7 @@ export const syncAll = {
     },
     {
       invariantKind: "departure",
-      statement: "A source missing any of what it is reached by is passed over.",
+      statement: "A source missing any of what that source is reached by is passed over.",
     },
     {
       invariantKind: "departure",
