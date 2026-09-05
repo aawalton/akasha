@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
-index 495467450507bb01971fe05365c54c965466a4d5..6dbbce60b5352b6d2e4043438a35f599b902610f 100644
+index 495467450507bb01971fe05365c54c965466a4d5..d0a1165defc4b97a54fc0f7bb1874da839d6d0ba 100644
 --- a/command-system/asking/asking.module.ts
 +++ b/command-system/asking/asking.module.ts
 @@ -55,7 +55,8 @@ export const asking = {
@@ -45,6 +45,15 @@ index 495467450507bb01971fe05365c54c965466a4d5..6dbbce60b5352b6d2e4043438a35f599
 -      statement: "A body the caller asked for is recorded as read by whoever landed that body.",
 +      statement:
 +        "A body the caller asked for is recorded as read by the agent that landed that body.",
+     },
+     {
+       invariantKind: "departure",
+@@ -144,7 +147,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A reading is taken of what this repository holds alone.",
++      statement: "A reading is taken of the paths this repository holds alone.",
      },
      {
        invariantKind: "departure",
