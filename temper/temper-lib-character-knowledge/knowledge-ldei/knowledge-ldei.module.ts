@@ -9,7 +9,7 @@ export const knowledgeLdei = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A share is held to what one edit box carries.",
+      statement: "A share is held to the characters one edit box carries.",
     },
   ],
 } as const satisfies Module
