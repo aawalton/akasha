@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/agent-settings/agent-settings.page-type.ts b/seat-system/agent-settings/agent-settings.page-type.ts
+index c2662a01835b379bf94a0f996c97de203a93e3fc..8b2defd443125c90c0a58722f71abd3e9a86321a 100644
+--- a/seat-system/agent-settings/agent-settings.page-type.ts
++++ b/seat-system/agent-settings/agent-settings.page-type.ts
+@@ -26,7 +26,8 @@ export const agentSettings = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A settings document declares what a harness is told rather than deriving that.",
++      statement:
++        "A settings document declares the settings a harness is told rather than deriving that.",
+     },
+     {
+       invariantKind: "departure",
