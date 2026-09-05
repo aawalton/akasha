@@ -1,0 +1,13 @@
+diff --git a/alan/library/studying/studying.domain.ts b/alan/library/studying/studying.domain.ts
+index 01e9655faacd4bf3c3289c2b95580f28a3bd1c68..e5d64f0a007fc722a884f4c63737b410ac1c9451 100644
+--- a/alan/library/studying/studying.domain.ts
++++ b/alan/library/studying/studying.domain.ts
+@@ -13,7 +13,7 @@ export const studying = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A course is counted in the minutes it runs to.",
++      statement: "A course is counted in the minutes that course runs to.",
+     },
+     {
+       invariantKind: "departure",
