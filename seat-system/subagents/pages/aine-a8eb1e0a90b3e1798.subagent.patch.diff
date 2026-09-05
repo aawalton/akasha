@@ -1,0 +1,54 @@
+diff --git a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
+index 218744a43920c2ce3fa3c11aa3ce74ce983b30a8..ea79cce8d3404f41354c385bde44c1f77a4582f0 100644
+--- a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
++++ b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
+@@ -5,7 +5,7 @@ export const seatRefreshSettings = {
+   pageTypeSlug: "command",
+   slug: "seat-refresh-settings",
+   definition:
+-    "the command rewriting each running seat's settings file from the document standing now",
++    "the command rewriting each running seat's settings file from the document as it now is",
+   code: "ts",
+   changeKindSlug: "change-mechanical",
+   taking: [{ said: "--json", takes: "give the rows as JSON rather than as tab-separated lines" }],
+diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
+index 5947f0b6832c624149925529d3b90ba58d0df37d..300ba5e29daa7b8f00974ffad4e3c717be59be92 100644
+--- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
++++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
+@@ -99,8 +99,8 @@ async function main(argv: readonly string[]): Promise<number> {
+   const root = rootFor(resolveRoots(), AKASHA)
+   const cutoff = cutoffFrom(Date.now(), keepDays)
+ 
+-  const standing = daysIn(root)
+-  const rotate = standing.filter((one) => decideDay(one.date, cutoff) === "rotate")
++  const days = daysIn(root)
++  const rotate = days.filter((one) => decideDay(one.date, cutoff) === "rotate")
+ 
+   for (const one of rotate) process.stdout.write(`${one.name}\t${one.date}\n`)
+ 
+diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+index 60a8bb4422362620ac5ef04fa078d61f60c08663..ec12f113ff70969bdc4effe83f0e0324d435c361 100644
+--- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
++++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+@@ -18,7 +18,7 @@ export const logDaySweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page whose date cannot be read from its text is left standing.",
++      statement: "A page whose date cannot be read from its text is left as it is.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts b/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts
+index 315a6201f6cfb2645e8c2f1bb8e2f0f55eba0479..a7a9e9d01f1c130f6a2db0b4816e9025f3bb4c6c 100644
+--- a/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts
++++ b/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts
+@@ -83,7 +83,7 @@ export function dayBodyOf(slug: string, source: string, seatName: string, date:
+   ].join("\n")
+ }
+ 
+-async function stood(root: string, path: string, body: string, message: string): Promise<boolean> {
++async function putUp(root: string, path: string, body: string, message: string): Promise<boolean> {
+   if (existsSync(join(root, path))) return true
+   const answer = await landedMechanically(
+     root,
