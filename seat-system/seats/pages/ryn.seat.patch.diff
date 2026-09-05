@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-reading/shape-reading.module.code.ts b/domains/plain-language/shape-reading/shape-reading.module.code.ts
-index 205166ce0f4cf26ca85c2fb9e1663a21571acc91..93291e221738e969529ee1a83f8d3c3fde6dc246 100644
+index 205166ce0f4cf26ca85c2fb9e1663a21571acc91..e032c5e6872309fc19a076aeb52af8f6027f22ff 100644
 --- a/domains/plain-language/shape-reading/shape-reading.module.code.ts
 +++ b/domains/plain-language/shape-reading/shape-reading.module.code.ts
 @@ -9,8 +9,6 @@ export type Shape = {
@@ -11,7 +11,20 @@ index 205166ce0f4cf26ca85c2fb9e1663a21571acc91..93291e221738e969529ee1a83f8d3c3f
  }
  
  function textIn(held: Record<string, unknown>, key: string): string | null {
-@@ -40,8 +38,6 @@ function shapeIn(index: Answering, pageTypeSlug: string, path: string): Shape {
+@@ -18,12 +16,6 @@ function textIn(held: Record<string, unknown>, key: string): string | null {
+   return typeof said === "string" ? said : null
+ }
+ 
+-function rulesIn(held: Record<string, unknown>): readonly string[] {
+-  const said = held.rules
+-  if (!Array.isArray(said)) return []
+-  return said.filter((one): one is string => typeof one === "string")
+-}
+-
+ function shapeIn(index: Answering, pageTypeSlug: string, path: string): Shape {
+   const said = partedIn(path)
+   if (said === null) {
+@@ -40,8 +32,6 @@ function shapeIn(index: Answering, pageTypeSlug: string, path: string): Shape {
      definition: textIn(value, "definition") ?? "",
      allowed: typeof allowed === "boolean" ? allowed : null,
      reason: textIn(value, "reason"),
