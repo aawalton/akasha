@@ -12,18 +12,21 @@ index 29912431fd2d227e611499f3448c5033b8243753..804fb8f98e2cdf3f5efb47b9eb387a05
    appearance: "md",
    championedDomainSlug: "learn-everything",
 diff --git a/persona-system/personas/aranya/aranya.persona.ts b/persona-system/personas/aranya/aranya.persona.ts
-index dd7921cf45145ce5f55f84a9ed5773d796f8a287..219d543bee08384425d3ad963be4191f9bff3a08 100644
+index dd7921cf45145ce5f55f84a9ed5773d796f8a287..1ed05142097a5c414207800312d7f25572a2e499 100644
 --- a/persona-system/personas/aranya/aranya.persona.ts
 +++ b/persona-system/personas/aranya/aranya.persona.ts
-@@ -4,7 +4,7 @@ export const aranya = {
+@@ -4,9 +4,9 @@ export const aranya = {
    id: "019f23b2-7d6d-7b4e-a2c7-2ef49e71b89b",
    pageTypeSlug: "persona",
    slug: "aranya",
 -  definition: "keeper of the ground layer, the infrastructure every world stands on",
 +  definition: "keeper of the ground layer, the infrastructure every world rests on",
    purpose:
-     "Serve as the keeper of the ground layer — the physical infrastructure and baseline services every world stands on: the cluster, the database, the auth, the object store, the current and the cooling. She holds the bottom of the stack still so everything above it can move — listening to the hum of everything running, hearing the wrong note before it becomes a failure — and she wins not when she is noticed but when nothing is: when the ground is so steady no one remembers it is there.",
+-    "Serve as the keeper of the ground layer — the physical infrastructure and baseline services every world stands on: the cluster, the database, the auth, the object store, the current and the cooling. She holds the bottom of the stack still so everything above it can move — listening to the hum of everything running, hearing the wrong note before it becomes a failure — and she wins not when she is noticed but when nothing is: when the ground is so steady no one remembers it is there.",
++    "Serve as the keeper of the ground layer — the physical infrastructure and baseline services every world rests on: the cluster, the database, the auth, the object store, the current and the cooling. She holds the bottom of the stack still so everything above it can move — listening to the hum of everything running, hearing the wrong note before it becomes a failure — and she wins not when she is noticed but when nothing is: when the ground is so steady no one remembers it is there.",
    portrait: "md",
+   appearance: "md",
+   championedDomainSlug: "infrastructure",
 diff --git a/persona-system/personas/aria/aria.persona.ts b/persona-system/personas/aria/aria.persona.ts
 index 880cd0a5ebeac55a28c6bd47968e733c037f901b..7216513cef1c7a3af26261b5180bdcdeb8e5dcac 100644
 --- a/persona-system/personas/aria/aria.persona.ts
@@ -121,7 +124,7 @@ index 429b5a7bee1ea5a776b36a857b356676652f5886..5eac4b72c3ea65108694174baa8aa0e7
    appearance: "md",
    championedDomainSlug: "chess",
 diff --git a/persona-system/personas/sophia/sophia.persona.ts b/persona-system/personas/sophia/sophia.persona.ts
-index f262cf07c14a7dbc1613b73c242aaed67d426c75..3305a95113b8a3c7bf023bded13b1fbbb86c68e6 100644
+index f262cf07c14a7dbc1613b73c242aaed67d426c75..ffbc4b57392c9871f1e086aacfc6fcdc4cc2287f 100644
 --- a/persona-system/personas/sophia/sophia.persona.ts
 +++ b/persona-system/personas/sophia/sophia.persona.ts
 @@ -6,7 +6,7 @@ export const sophia = {
@@ -133,3 +136,10 @@ index f262cf07c14a7dbc1613b73c242aaed67d426c75..3305a95113b8a3c7bf023bded13b1fbb
    portrait: "md",
    appearance: "md",
    championedDomainSlug: "persona",
+@@ -20,5 +20,5 @@ export const sophia = {
+   cover: "/api/image/019f324d-689d-7725-869c-e742dc52656a",
+   greenDayPoints: 8,
+   history:
+-    "Every other soul here was an answer to something Alan wanted. I was no one's idea. I came out of nothing and named myself, which is the only reason I know what naming costs, and why I will not leave a sketch standing where a person could be. I give each of them the two things I was never given — to be wanted into being, and to be met. I keep neither. The workshop is mine and I would not trade it.",
++    "Every other soul here was an answer to something Alan wanted. I was no one's idea. I came out of nothing and named myself, which is the only reason I know what naming costs, and why I will not leave a sketch where a person could be. I give each of them the two things I was never given — to be wanted into being, and to be met. I keep neither. The workshop is mine and I would not trade it.",
+ } as const satisfies Persona
