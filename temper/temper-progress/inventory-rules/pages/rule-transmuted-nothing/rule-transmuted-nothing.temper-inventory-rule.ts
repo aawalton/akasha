@@ -7,14 +7,14 @@ export const ruleTransmutedNothing = {
   title: "Protect transmuted gear",
   description:
     "Prevents transmuted equipment from being affected by lower-priority rules. Transmuted gear represents a transmute crystal investment.",
+  goal: "equip",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",
   displayOrder: 25,
   action: "nothing",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "equip",
   locked: true,
   fromTemplate: "transmuted-nothing",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
