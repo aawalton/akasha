@@ -1,0 +1,16 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index ce8d4a12252137533509ea391263f8bd4101e4fb..7023d6c01b930e028a81e4f104ae5913a291726d 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -167,10 +167,7 @@ export const akasha = {
+       act: "Write the plain phrase; where you give a word a sense of its own, declare it as a domain first.",
+       warrant:
+         "Nobody looks up a word they read as ordinary, so the wrong sense is carried off silently.",
+-      aids: [
+-        "Use a declared word only in its declared sense.",
+-        "A persona's own voice is not instruction.",
+-      ],
++      aids: ["Use a declared word only in its declared sense."],
+     },
+     {
+       directiveKind: "principle",
