@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts b/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts
+index 633a1aff2caa7111238bddea612e776d3717219b..2e97f8df9407810d9c9db068c84bd89b7d2946f1 100644
+--- a/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts
++++ b/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts
+@@ -11,6 +11,5 @@ export const prometheus = {
+   image: "prom/prometheus:v2.54.1",
+   replicas: 1,
+   containerPort: 9090,
+-  manifestCode:
+-    "service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts",
++  manifestSlug: "prometheus",
+ } as const satisfies ClusterService
