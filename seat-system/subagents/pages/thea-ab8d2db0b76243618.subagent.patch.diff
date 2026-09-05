@@ -1,5 +1,5 @@
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index 7d8f4c63f21f7cbd6eafc3b9b65db081d58f547a..d6993c22276d2c7b4a5c2c8d46406b4d1dc55843 100644
+index 7d8f4c63f21f7cbd6eafc3b9b65db081d58f547a..625e8c1aca45f08d45f9842815bc225ee9c233ad 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -106,6 +106,12 @@ const NONE: Summary = { files: 0, failed: 0, passed: 0 }
@@ -15,8 +15,38 @@ index 7d8f4c63f21f7cbd6eafc3b9b65db081d58f547a..d6993c22276d2c7b4a5c2c8d46406b4d
  type Read = {
    readonly failing: ReadonlyMap<string, number>
    readonly unloadable: ReadonlyMap<string, string>
+@@ -162,7 +168,28 @@ function byPath(one: readonly [string, unknown], two: readonly [string, unknown]
+   return one[0] < two[0] ? -1 : 1
+ }
+ 
+-function reportOf(said: Summary, output: string): readonly string[] {
++export function tailOf(output: string): readonly string[] {
++  const lines = plain(output).split("\n")
++  while (lines.length > 0 && lines[lines.length - 1] === "") lines.pop()
++  if (lines.length === 0) return [`${NO_SUMMARY}, and printed nothing at all.`]
++  const kept: string[] = []
++  let bytes = 0
++  for (let at = lines.length - 1; at >= 0; at -= 1) {
++    const line = lines[at] ?? ""
++    const size = new TextEncoder().encode(line).length + 1
++    if (kept.length >= TAIL_LINES || bytes + size > TAIL_BYTES) break
++    kept.unshift(line)
++    bytes += size
++  }
++  if (kept.length === 0) return [`${NO_SUMMARY}, and its last line runs past what this holds.`]
++  const said =
++    kept.length === lines.length
++      ? `${NO_SUMMARY} — all ${many(kept.length, "line")} of what it printed:`
++      : `${NO_SUMMARY} — its last ${many(kept.length, "line")}:`
++  return [said, ...kept.map((one) => `  ${one}`)]
++}
++
++function reportOf(verdict: Verdict, said: Summary, output: string): readonly string[] {
+   const read = readingOf(output)
+   const passed = said.passed ?? 0
+   const failed = said.failed ?? 0
 diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
-index 776d7ab63b7371cdf00fe78ca862bcdb9f73c500..6679683aa331ea6af7c1c8e46f596915f5dfb2c6 100644
+index 776d7ab63b7371cdf00fe78ca862bcdb9f73c500..bac4b68ca9db78bbf98077ec175e2392d3d891ea 100644
 --- a/commands/test/test.command.test.ts
 +++ b/commands/test/test.command.test.ts
 @@ -3,7 +3,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
@@ -28,6 +58,34 @@ index 776d7ab63b7371cdf00fe78ca862bcdb9f73c500..6679683aa331ea6af7c1c8e46f596915
  
  const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
  
+@@ -145,6 +145,27 @@ check("one named file runs alone, and its neighbour does not", () => {
+   expect(said.code).toBe(0)
+ })
+ 
++check("a run printing no summary carries what the runner printed rather than a pointer", () => {
++  const root = repo({ "web/one.test.ts": PASSES })
++  writeFileSync(join(root, "akasha/web/bunfig.toml"), '[test]\npreload = ["./nowhere.ts"]\n')
++  const said = test([], given(root))
++  expect(said.code).toBe(3)
++  expect(said.report[0]).toBe("0 tests ran: 0 passed, 0 failed.")
++  expect(said.report[1]).toContain("of what it printed")
++  expect(said.report.join("\n")).toContain("preload not found")
++  expect(said.report.join("\n")).not.toContain("--named")
++})
++
++check("the tail a crash carries is bounded in lines and in bytes alike", () => {
++  const counted = Array.from({ length: 40 }, (one, at) => `line ${at}`).join("\n")
++  expect(tailOf(counted).length).toBe(21)
++  expect(tailOf(counted)[0]).toContain("its last 20 lines")
++  expect(tailOf(counted)[1]).toBe("  line 20")
++  const wide = Array.from({ length: 40 }, () => "x".repeat(300)).join("\n")
++  expect(tailOf(wide).length).toBe(7)
++  expect(tailOf("held\nthere\n")[0]).toContain("all 2 lines of what it printed")
++})
++
+ check("a run naming a test runs that one, and no test whose name it opens", () => {
+   const root = repo({ "one.test.ts": PAIR })
+   const said = test(["--named", "held (one)"], given(root))
 diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
 index 288c01610e81c2b9f94e327a9c51fa7c6304bc47..86b539e110763141df03445c26cce6c015c2ba4b 100644
 --- a/commands/test/test.command.ts
