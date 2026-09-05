@@ -30,7 +30,7 @@ export const watcherAccountPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what does the upsert.",
+      statement: "A caller may hand in the function that does the upsert.",
     },
     {
       invariantKind: "absence",
