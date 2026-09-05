@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-plan/inference-plan.command.ts b/infrastructure/inference-commands/inference-plan/inference-plan.command.ts
+index 5ed3d6f928737bc80c7dee03267e0c64eb4cd701..8864e21a06ed949b63dae6dd09114f6e10a5d55d 100644
+--- a/infrastructure/inference-commands/inference-plan/inference-plan.command.ts
++++ b/infrastructure/inference-commands/inference-plan/inference-plan.command.ts
+@@ -15,7 +15,7 @@ export const inferencePlan = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The counts are what an apply would do.",
++      statement: "The counts are the work an apply would do.",
+     },
+     {
+       invariantKind: "departure",
