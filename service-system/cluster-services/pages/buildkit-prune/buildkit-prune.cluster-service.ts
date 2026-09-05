@@ -10,6 +10,5 @@ export const buildkitPrune = {
   resourceName: "buildkit-prune",
   image: "moby/buildkit:v0.28.0",
   schedule: "0 4 * * 0",
-  manifestCode:
-    "service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.code.attachment.ts",
+  manifestSlug: "buildkit-prune",
 } as const satisfies ClusterService
