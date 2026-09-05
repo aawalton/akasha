@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts b/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
+index b32affe8f86bbb662f8e105be9858cc40d5e56a2..d94d47c0723c1f5739612b9ecf23b86f32b99770 100644
+--- a/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
++++ b/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
+@@ -13,7 +13,7 @@ export const supervisorIdleRule = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The safe answer for cmdlines is that none of them are ignored.",
++      statement: "The safe answer for cmdlines is that none of those cmdlines are ignored.",
+     },
+     {
+       invariantKind: "departure",
