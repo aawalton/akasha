@@ -22,10 +22,7 @@ export const temperCommunityAddons = {
       invariantKind: "departure",
       statement: "A folder the deploy owns is never replaced by an upstream archive.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A download is proved against the checksum ESOUI states before use.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An installed addon states its version in the manifest the game reads.",
