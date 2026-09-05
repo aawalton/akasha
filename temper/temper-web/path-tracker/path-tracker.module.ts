@@ -13,7 +13,7 @@ export const pathTracker = {
     },
     {
       invariantKind: "departure",
-      statement: "What tracks the path is a hook rather than a component.",
+      statement: "The path is tracked by a hook rather than by a component.",
     },
   ],
 } as const satisfies Module
