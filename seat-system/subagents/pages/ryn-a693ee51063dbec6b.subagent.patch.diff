@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts b/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts
-index 3f8b12d474ab18afa788ff2f94de2166c78847fa..48e2d0e97fbe4237052a2247961483a7d2785fa0 100644
+index 3f8b12d474ab18afa788ff2f94de2166c78847fa..c60d043aef0457c6309c27ecf92e37d5ed7cc528 100644
 --- a/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts
 +++ b/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts
 @@ -13,7 +13,7 @@ export const clusterApiReaching = {
@@ -21,3 +21,12 @@ index 3f8b12d474ab18afa788ff2f94de2166c78847fa..48e2d0e97fbe4237052a2247961483a7
      },
      {
        invariantKind: "departure",
+@@ -29,7 +29,7 @@ export const clusterApiReaching = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads what a reach answered.",
++      statement: "Nothing here reads the answer a reach gave.",
+     },
+   ],
+ } as const satisfies Module
