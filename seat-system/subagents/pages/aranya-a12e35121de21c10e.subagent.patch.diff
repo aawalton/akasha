@@ -1,0 +1,16 @@
+diff --git a/infrastructure/networks/headscale/headscale.manifest.ts b/infrastructure/networks/headscale/headscale.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5306809af85982580b1e92dfd271368b66ca545f
+--- /dev/null
++++ b/infrastructure/networks/headscale/headscale.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const headscale = {
++  id: "01a0738c-9157-7c4c-906c-8ff65da0976d",
++  pageTypeSlug: "manifest",
++  slug: "headscale",
++  definition:
++    "the workload, service and policies running the server that admits machines to the private network",
++  code: "ts",
++} as const satisfies Manifest
