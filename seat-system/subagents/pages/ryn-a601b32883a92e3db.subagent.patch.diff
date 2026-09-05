@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/header-fields.text-property.ts b/pages/types/properties/header-fields.text-property.ts
+index 27f70cd67f3e1b8596bbccdeff2b009bed15613f..3d2561bb4ee5c0c862cf5bcd3127daff144fd3ab 100644
+--- a/pages/types/properties/header-fields.text-property.ts
++++ b/pages/types/properties/header-fields.text-property.ts
+@@ -13,7 +13,7 @@ export const headerFields = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A header naming keys states them in the order they stand in.",
++      statement: "A header naming keys states those keys in the order those keys stand in.",
+     },
+   ],
+ } as const satisfies TextProperty
