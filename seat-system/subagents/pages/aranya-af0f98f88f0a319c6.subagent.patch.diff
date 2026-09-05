@@ -1,0 +1,16 @@
+diff --git a/infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.manifest.ts b/infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd89b8107fbcbc745d4d5879e487963992a08506
+--- /dev/null
++++ b/infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const seaweedfsBackupCnpg = {
++  id: "01a07386-60c1-7d78-b901-14160ffce256",
++  pageTypeSlug: "manifest",
++  slug: "seaweedfs-backup-cnpg",
++  definition:
++    "the namespace, the disk and the cron job copying the Postgres backups off to separate storage",
++  code: "ts",
++} as const satisfies Manifest
