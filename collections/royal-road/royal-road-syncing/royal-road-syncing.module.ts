@@ -67,7 +67,7 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "What is composed is shown rather than landed unless the run was asked to commit what is composed.",
+        "The pages composed are shown rather than landed unless the run was asked to commit those pages.",
     },
     {
       invariantKind: "departure",
