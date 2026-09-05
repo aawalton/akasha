@@ -7,6 +7,6 @@ export const jennysTravel = {
   title: "Jenny's Travel",
   definition: "money Jenny spent travelling on her own",
   monarchId: "148839020943514580",
-  categoryGroup: "Personal Spending",
+  categoryGroup: "Archive",
   categoryGroupType: "expense",
 } as const satisfies MonarchCategory
