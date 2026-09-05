@@ -9,8 +9,7 @@ export const monarchCategorizeRecent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The window is the unattended one rather than the trusted one, because this module runs without asking.",
+      statement: "The window is the unattended one rather than the trusted one.",
     },
     {
       invariantKind: "departure",
