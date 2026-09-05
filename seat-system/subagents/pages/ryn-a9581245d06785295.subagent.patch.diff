@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/day/mountain-wall/mountain-wall.module.ts b/day/mountain-wall/mountain-wall.module.ts
+index a8e89aa7c3d1baae3d69fddb381e9cfb36635b15..aac5c32fa4a7f9552588b1b8ec73bc92f74d2af3 100644
+--- a/day/mountain-wall/mountain-wall.module.ts
++++ b/day/mountain-wall/mountain-wall.module.ts
+@@ -19,7 +19,7 @@ export const mountainWall = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A timestamp closing in Z or in an offset is the instant it states.",
++      statement: "A timestamp closing in Z or in an offset is the instant that timestamp states.",
+     },
+     {
+       invariantKind: "departure",
