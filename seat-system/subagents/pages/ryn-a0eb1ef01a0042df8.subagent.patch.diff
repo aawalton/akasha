@@ -1,8 +1,8 @@
 diff --git a/persona-system/questions/question.page-type.ts b/persona-system/questions/question.page-type.ts
-index a70db8b203424e288cd99377c7e93a247fc4a449..cf047e03da8a1af1b885ba6510c1ee70d0fa8ced 100644
+index a70db8b203424e288cd99377c7e93a247fc4a449..cdae8d94fb68b4effb0e2a1c330dc274b4fd96c2 100644
 --- a/persona-system/questions/question.page-type.ts
 +++ b/persona-system/questions/question.page-type.ts
-@@ -61,11 +61,11 @@ export const question = {
+@@ -61,15 +61,15 @@ export const question = {
      },
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index a70db8b203424e288cd99377c7e93a247fc4a449..cf047e03da8a1af1b885ba6510c1ee70
        invariantKind: "departure",
 -      statement: "A question offering answers still takes an answer none of them spells.",
 +      statement: "A question offering answers still takes an answer none of those answers spells.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A question stays once it is closed rather than going.",
++      statement: "A question stays once that question is closed rather than going.",
      },
      {
        invariantKind: "departure",
