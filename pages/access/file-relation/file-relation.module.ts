@@ -23,7 +23,7 @@ export const fileRelation = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties of a page type name other pages is read from what that type declares.",
+        "Which properties of a page type name other pages is read from the properties that type declares.",
     },
     {
       invariantKind: "gap",
@@ -31,7 +31,7 @@ export const fileRelation = {
     },
     {
       invariantKind: "absence",
-      statement: "`@akasha/pages-system-service` holds no index of what names what.",
+      statement: "`@akasha/pages-system-service` holds no index of which pages name which pages.",
     },
     {
       invariantKind: "absence",
