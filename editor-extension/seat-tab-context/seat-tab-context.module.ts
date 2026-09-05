@@ -13,7 +13,7 @@ export const seatTabContext = {
     },
     {
       invariantKind: "departure",
-      statement: "Every key is answered, empty where no tab matches it.",
+      statement: "Every key is answered, empty where no tab matches that key.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const seatTabContext = {
     },
     {
       invariantKind: "departure",
-      statement: "A tab is filed under the place the seat in it holds.",
+      statement: "A tab is filed under the place the seat in that tab holds.",
     },
     {
       invariantKind: "departure",
