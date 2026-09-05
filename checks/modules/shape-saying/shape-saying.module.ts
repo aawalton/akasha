@@ -17,7 +17,7 @@ export const shapeSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "What is left is counted rather than dropped.",
+      statement: "The files left over are counted rather than dropped.",
     },
     {
       invariantKind: "departure",
