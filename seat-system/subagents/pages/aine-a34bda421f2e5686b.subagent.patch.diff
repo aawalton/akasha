@@ -1,0 +1,39 @@
+diff --git a/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts b/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
+index 29a6a713308edba626bb047b1a7e16c030b3301e..edb97115fd4b2e82684cd75ec7d734eb0085489c 100644
+--- a/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
++++ b/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
+@@ -23,7 +23,7 @@ export const bashEnv = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name the shell already carries is left standing.",
++      statement: "A name the shell already carries is left alone.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/code-system/shell-scripts/pages/statusline/statusline.shell-script.shell.sh b/code-system/shell-scripts/pages/statusline/statusline.shell-script.shell.sh
+index 0242b3679436e2c0db77c5252dfb2f7cd80e0b5e..0bacea3d642b318d0b03a96bb76995bea5fdd837 100644
+--- a/code-system/shell-scripts/pages/statusline/statusline.shell-script.shell.sh
++++ b/code-system/shell-scripts/pages/statusline/statusline.shell-script.shell.sh
+@@ -2,7 +2,7 @@
+ 
+ set -euo pipefail
+ 
+-# WHAT A SEAT STATES IS READ FROM AKASHA, BY A MODULE STANDING IN IT. What is still reached outside
++# WHAT A SEAT STATES IS READ FROM AKASHA, BY A MODULE SITTING IN IT. What is still reached outside
+ # is a count of live children and a write of what the payload observed: subagents have no page here
+ # yet, and a writer belongs with the other writers rather than forked off into this one.
+ # Counting the levels up to akasha was wrong twice, because this file moved twice and the count
+diff --git a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
+index 5d07ac7b38bb6b3aebddb64d435e5f456ff2907a..aa69a7d200575d77ef41656c6d6525575107ca01 100644
+--- a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
++++ b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
+@@ -19,7 +19,7 @@ export const statusline = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat is read from the page standing for that seat in akasha.",
++      statement: "A seat is read from the page representing that seat in akasha.",
+     },
+     {
+       invariantKind: "stopgap",
