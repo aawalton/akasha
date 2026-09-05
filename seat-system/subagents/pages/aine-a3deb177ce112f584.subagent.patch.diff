@@ -1,0 +1,78 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index aeec510190d753672adc3727ff48f7b2c2346620..f22ada7842c087b7d42e582df157ded724a988fc 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -183,7 +183,7 @@ export function unloadable(why: string): Answer {
+     report: [],
+     refusals: [
+       `the checks could not be loaded from ${CHECKING_AT}, so no check could run — ${why}`,
+-      `${NOTHING} — say \`${BREAK_GLASS} <reason>\` to land without the checks, and both the reason and this stand in the commit`,
++      `${NOTHING} — say \`${BREAK_GLASS} <reason>\` to land without the checks, and both the reason and this are in the commit`,
+     ],
+     code: 3,
+   }
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index 997c659006dea17ce5172d82bceee6b816d7d546..9f4c61c2e4af807b67c1ef107c403168cacb8afc 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -44,7 +44,7 @@ export const TIDY =
+ export const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
+ 
+ export const REFORMATTED =
+-  "formatted akasha/two.ts as it landed — what stands there is not what was handed in"
++  "formatted akasha/two.ts as it landed — what is there is not what was handed in"
+ 
+ export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+ 
+diff --git a/command-system/ios-widget-emit/ios-widget-emit.module.code.ts b/command-system/ios-widget-emit/ios-widget-emit.module.code.ts
+index 4bf49ea00e412445706516b840aea85b6f99ba16..a25219d33f0830b1e598c08e7e67e5a1498655c3 100644
+--- a/command-system/ios-widget-emit/ios-widget-emit.module.code.ts
++++ b/command-system/ios-widget-emit/ios-widget-emit.module.code.ts
+@@ -76,7 +76,7 @@ function report(
+     return false
+   }
+   if (!existsSync(absolute)) {
+-    process.stdout.write(`${relative} — nothing stands there to compare against\n`)
++    process.stdout.write(`${relative} — nothing is there to compare against\n`)
+     return true
+   }
+   const committed = readFileSync(absolute, "utf8")
+diff --git a/command-system/landing-saying/landing-saying.module.code.ts b/command-system/landing-saying/landing-saying.module.code.ts
+index 851b4939961a56e36f2053e66db9312585d8f2dd..b83d954f034ff0477a940fcf90ba2723acee89d4 100644
+--- a/command-system/landing-saying/landing-saying.module.code.ts
++++ b/command-system/landing-saying/landing-saying.module.code.ts
+@@ -20,7 +20,7 @@ export type Reported = {
+ 
+ export function formattedSaid(paths: readonly string[]): readonly string[] {
+   return paths.map(
+-    (one) => `formatted ${one} as it landed — what stands there is not what was handed in`
++    (one) => `formatted ${one} as it landed — what is there is not what was handed in`
+   )
+ }
+ 
+diff --git a/command-system/landing-saying/landing-saying.module.test.ts b/command-system/landing-saying/landing-saying.module.test.ts
+index f71a16eeb644cfe5e9c7ae63828d973e3984c292..c26246e93895a82eb74188c3f85aaa3c037c701f 100644
+--- a/command-system/landing-saying/landing-saying.module.test.ts
++++ b/command-system/landing-saying/landing-saying.module.test.ts
+@@ -63,7 +63,7 @@ test("a commit that could not be named is told apart from a landing that committ
+   )
+   expect(committedLine({ ...LANDED, commit: "c0ffee" })).toBe("committed as c0ffee")
+   expect(committedLine({ ...LANDED, commit: null })).toBe(
+-    "nothing was committed — what was asked for already stands"
++    "nothing was committed — what was asked for is already there"
+   )
+ })
+ 
+diff --git a/command-system/payload/payload.module.code.ts b/command-system/payload/payload.module.code.ts
+index 443e23fa0d505ec784846a2dd471b53ec02d9933..c7aeac6775d238de7795c25a41b51f26f8f40a03 100644
+--- a/command-system/payload/payload.module.code.ts
++++ b/command-system/payload/payload.module.code.ts
+@@ -136,7 +136,7 @@ export function addressOf(argv: readonly string[], also: readonly string[] = [])
+   }
+   if (where.size > 1) {
+     fail(
+-      "the paths named here stand in more than one repo, and a call addresses one: " +
++      "the paths named here are in more than one repo, and a call addresses one: " +
+         [...where].map(([repo, absolute]) => `${absolute} is inside ${repo}`).join(", ")
+     )
+   }
