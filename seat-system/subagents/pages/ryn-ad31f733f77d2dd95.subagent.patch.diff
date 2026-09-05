@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/shape/monarch-shape.module.ts b/alan/harness/monarch/shape/monarch-shape.module.ts
+index 14ef383cb2476e1b35f1f7cb42952cb67c6f3662..a57ac939d1218adb3ecd86713420f5b153f5df8a 100644
+--- a/alan/harness/monarch/shape/monarch-shape.module.ts
++++ b/alan/harness/monarch/shape/monarch-shape.module.ts
+@@ -10,7 +10,7 @@ export const monarchShape = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A value that is not what was asked for is refused rather than coerced.",
++      statement: "A value that does not match the shape asked for is refused rather than coerced.",
+     },
+     {
+       invariantKind: "departure",
