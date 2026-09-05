@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/temper/temper-hud-addon/hud-addon-visibility-version/hud-addon-visibility-version.module.ts b/temper/temper-hud-addon/hud-addon-visibility-version/hud-addon-visibility-version.module.ts
-index e8cdda615ea326619bf3112a89b33439a6f5ae6e..7c41202d464b73c6bf95adace671be8614873f3f 100644
+index e8cdda615ea326619bf3112a89b33439a6f5ae6e..164d36844330c0afa93f7939095baf0e6716d3ec 100644
 --- a/temper/temper-hud-addon/hud-addon-visibility-version/hud-addon-visibility-version.module.ts
 +++ b/temper/temper-hud-addon/hud-addon-visibility-version/hud-addon-visibility-version.module.ts
-@@ -10,7 +10,7 @@ export const hudAddonVisibilityVersion = {
+@@ -10,11 +10,11 @@ export const hudAddonVisibilityVersion = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "The baseline stored what each part was hidden by.",
 +      statement: "The baseline stored the flag each part was hidden by.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The current version stores what each part is shown by.",
++      statement: "The current version stores the flag each part is shown by.",
      },
      {
        invariantKind: "departure",
