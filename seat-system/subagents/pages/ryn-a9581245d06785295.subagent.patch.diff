@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/types/properties/detail-config.record-property.ts b/pages/types/properties/detail-config.record-property.ts
+index ded8ab595165ec66cca62d549a41255ac14fafd0..113f211ab956420eed8c979401884e528f1b6f4f 100644
+--- a/pages/types/properties/detail-config.record-property.ts
++++ b/pages/types/properties/detail-config.record-property.ts
+@@ -52,7 +52,8 @@ export const detailConfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type with none above it and none of its own is laid out plainly.",
++      statement:
++        "A page type with none above that page type and none of its own is laid out plainly.",
+     },
+     {
+       invariantKind: "departure",
