@@ -14,11 +14,11 @@ export const openAgents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subagent is named by the task the transcript gives it.",
+      statement: "A subagent is named by the task the transcript gives that subagent.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent awaited within the turn that started it is not listed.",
+      statement: "A subagent awaited within the turn that started that subagent is not listed.",
     },
   ],
 } as const satisfies TextProperty
