@@ -121,16 +121,3 @@ index e7b7b97c2d028ce84ae166f1109ceea16fe702e0..a787cb393a9e63308ec5196518619d5f
  //
  // GONE IS SAID OUT LOUD RATHER THAN DRAWN AS EMPTY. A caller reads an empty list exactly as it
  // reads a true nothing, and only one of the two is a fault: a save that went unread is not a
-diff --git a/alan/web/vite.config.ts b/alan/web/vite.config.ts
-index ef3b8953403d360c5eb8a0d78e20990f9c3882bf..e48843b27e53e75533c7f05ba105a7520f581360 100644
---- a/alan/web/vite.config.ts
-+++ b/alan/web/vite.config.ts
-@@ -6,7 +6,7 @@ import { defineConfig } from "vite"
- 
- // A `pages-query-remote-in-client` plugin sat here, aliasing `@shared/pages-query` and its
- // `/ask` onto their remote halves for the browser bundle only. `@shared/pages-query` was a
--// local-first facade whose local half read the checkout standing on this machine through
-+// local-first facade whose local half read the checkout on this machine through
- // `./here.ts` -> `@akasha/pages-system/checkout-roots` and the `tools/lib` query engine. A
- // browser has no checkout, so that half was dead code there, but importing it dragged node
- // builtins in — and vite answers a browser-side `node:fs` with a Proxy that throws on first
