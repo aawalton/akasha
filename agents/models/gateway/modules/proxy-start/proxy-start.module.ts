@@ -64,7 +64,7 @@ export const proxyStart = {
     {
       invariantKind: "constraint",
       statement:
-        "A caller holds what starting a gateway hands back for as long as that gateway runs.",
+        "A caller holds the answer starting a gateway hands back for as long as that gateway runs.",
     },
     {
       invariantKind: "absence",
