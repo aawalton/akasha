@@ -319,3 +319,11 @@ index 259854cedd48553baccc5d61ba58fa94ed75076e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/cluster-provisioning/talos
 \ No newline at end of file
+diff --git a/location-traces-access/location-traces-access b/location-traces-access/location-traces-access
+deleted file mode 120000
+index 5f1f3f9944b13d6f010558bf30cae9d67cd3dfc5..0000000000000000000000000000000000000000
+--- a/location-traces-access/location-traces-access
++++ /dev/null
+@@ -1 +0,0 @@
+-../../location-traces-access
+\ No newline at end of file
