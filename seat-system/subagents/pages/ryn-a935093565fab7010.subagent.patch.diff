@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/move/parenting/move-parenting.module.ts b/commands/move/parenting/move-parenting.module.ts
+index 0f781c438e7894b7e6b432ad1e1246929f7135ab..fa27a4dbe3dccc94cc3ba60f370711595d59ae3b 100644
+--- a/commands/move/parenting/move-parenting.module.ts
++++ b/commands/move/parenting/move-parenting.module.ts
+@@ -82,7 +82,7 @@ export const moveParenting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a folder holds is read as the move leaves that folder rather than as that folder is now.",
++        "The files a folder holds are read as the move leaves that folder rather than as that folder is now.",
+     },
+     {
+       invariantKind: "departure",
