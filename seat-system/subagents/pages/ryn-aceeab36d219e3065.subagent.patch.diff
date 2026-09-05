@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index e9a6e57222a586169987ae6a99bbe2c66825455f..399edea29917594e2b9ffaf9a10ef9a3e7348d8d 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -46,7 +46,7 @@ export const monarchEval = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The held-out split is a hash of the transaction's own id rather than a stored shuffle, because a stored shuffle can be redrawn after a disappointing result with nothing showing it was redrawn.",
++        "The held-out split is a hash of the transaction's own id rather than a stored shuffle.",
+     },
+     {
+       invariantKind: "departure",
