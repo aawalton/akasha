@@ -31,3 +31,38 @@ index 0868ccfe1b82027ebcfdeb5fef26308f846078c1..aafd807cebd5f18969de80247b6c4ee5
      )
    }
  }
+diff --git a/alan/tracking/session-activities/activity-default/activity-default.module.code.ts b/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
+index 606155bb9fc55c4ed0bfcc541916c4873b9e5cfe..228eddd3354175c238847b59d4651c894ab011c7 100644
+--- a/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
++++ b/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
+@@ -12,7 +12,7 @@ export const summary =
+ 
+ const PAGE_TYPE = "session-activity"
+ 
+-const WRITER = "ops-tracking"
++const WRITER = "tracking"
+ 
+ export const help: CommandHelp = {
+   flags: [
+@@ -43,10 +43,6 @@ export const help: CommandHelp = {
+     { code: 1, meaning: "missing title, missing or unreadable --difficulty, or bad input" },
+     { code: 3, meaning: "the page did not land" },
+   ],
+-  examples: [
+-    'ops tracking activity-set "Read" --difficulty 1',
+-    'ops tracking activity-set --title "Piano" --difficulty 3',
+-  ],
+ }
+ 
+ export type Standing = {
+@@ -95,9 +91,7 @@ export default async function trackingActivitySet(args: readonly string[]): Prom
+   const parsed = parseArgs(help, args)
+   const titleRaw = parsed.string("--title")
+   if (titleRaw === undefined || titleRaw.trim() === "") {
+-    throw new Error(
+-      'an activity --title is required (e.g. `ops tracking activity-set "Read" --difficulty 1`)'
+-    )
++    throw new Error("an activity --title is required, and is matched within a session title")
+   }
+   const title = titleRaw.trim()
+   const difficultyRaw = parsed.string("--difficulty")
