@@ -11,7 +11,7 @@ export const charactersAchievements = {
     {
       invariantKind: "constraint",
       statement:
-        "The game says of each achievement whether it is kept per character or per account.",
+        "The game says of each achievement whether that achievement is kept per character or per account.",
     },
   ],
 } as const satisfies Module
