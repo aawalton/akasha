@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/patching/patching.module.ts b/command-system/patching/patching.module.ts
+index edeec332145706b51af1c8597896decbce120396..45708ebc5e00e6e18a0da88c08a66522d986596f 100644
+--- a/command-system/patching/patching.module.ts
++++ b/command-system/patching/patching.module.ts
+@@ -76,7 +76,7 @@ export const patching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A patch is text whatever the bodies it draws hold.",
++      statement: "A patch is text whatever the bodies that patch draws hold.",
+     },
+     {
+       invariantKind: "departure",
