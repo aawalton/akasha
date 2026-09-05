@@ -1,0 +1,19 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/keepalive/keepalive.module.ts b/agents/models/gateway/modules/keepalive/keepalive.module.ts
+index 51d6cc23048ee9a2f5c339163bb448595b34cdcb..8ccb2edda5429f13ad0390e021f4ec8a4876a8d2 100644
+--- a/agents/models/gateway/modules/keepalive/keepalive.module.ts
++++ b/agents/models/gateway/modules/keepalive/keepalive.module.ts
+@@ -27,11 +27,11 @@ export const keepalive = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "Whoever opens an emitter closes that emitter on every path the stream can end by.",
++        "A caller that opens an emitter closes that emitter on every path the stream can end by.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a stream carries.",
++      statement: "Nothing here knows the frames a stream carries.",
+     },
+     {
+       invariantKind: "departure",
