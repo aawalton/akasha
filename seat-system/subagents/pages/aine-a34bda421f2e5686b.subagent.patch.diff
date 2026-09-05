@@ -1,0 +1,78 @@
+diff --git a/code-system/container-recipes/container-recipe.page-type.ts b/code-system/container-recipes/container-recipe.page-type.ts
+index cf7a1f45b43098e2d34642625ee04eb85bd7f6ac..6e3f2545c59ae8af150a3302d08802f6525f9ced 100644
+--- a/code-system/container-recipes/container-recipe.page-type.ts
++++ b/code-system/container-recipes/container-recipe.page-type.ts
+@@ -30,7 +30,7 @@ export const containerRecipe = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder a build is handed is the package the recipe stands in.",
++      statement: "The folder a build is handed is the package the recipe sits in.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/code-system/file-kind-bytes/file-kind-bytes.module.code.ts b/code-system/file-kind-bytes/file-kind-bytes.module.code.ts
+index 0348a3a894548f956f8b2863b990c01fca422fe8..2411eda6f54d272dd715fccf3cc0d323af3bf261 100644
+--- a/code-system/file-kind-bytes/file-kind-bytes.module.code.ts
++++ b/code-system/file-kind-bytes/file-kind-bytes.module.code.ts
+@@ -5,7 +5,7 @@ import { classifyExtension, type FileKind } from "../file-kind/file-kind.module.
+  *
+  * Total over `FileKind` on purpose. A kind added to that union and left out here is refused by the
+  * type checker naming the kind, rather than answered as text by a lookup that finds nothing. What
+- * stood here before read 33 markdown pages off disk for a `binary: true` line and answered `false`
++ * was here before read 33 markdown pages off disk for a `binary: true` line and answered `false`
+  * wherever it found none, so deleting those pages turned the predicate into the constant `false`
+  * and nothing said so.
+  */
+diff --git a/code-system/file-purposes/pages/test-ts.file-purpose.ts b/code-system/file-purposes/pages/test-ts.file-purpose.ts
+index 86dbc45d2f74227d1476121c2a8669989ba913a4..5d812e404deeebc736f089da614527963fa7693c 100644
+--- a/code-system/file-purposes/pages/test-ts.file-purpose.ts
++++ b/code-system/file-purposes/pages/test-ts.file-purpose.ts
+@@ -12,7 +12,7 @@ export const testTs = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The ending stands here as prose until a purpose can state one as a property.",
++      statement: "The ending sits here as prose until a purpose can state one as a property.",
+     },
+   ],
+ } as const satisfies FilePurpose
+diff --git a/code-system/ios-harnesses/ios-harness.page-type.ts b/code-system/ios-harnesses/ios-harness.page-type.ts
+index 83d9de6b394d895188da1940533854ac1f80d5a2..0163e6e8983804cc8743923481d9cfe67f03bdb7 100644
+--- a/code-system/ios-harnesses/ios-harness.page-type.ts
++++ b/code-system/ios-harnesses/ios-harness.page-type.ts
+@@ -38,7 +38,7 @@ export const iosHarness = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A harness's top level statements stand in the file named main.swift.",
++      statement: "A harness's top level statements sit in the file named main.swift.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/code-system/ios-programs/ios-program.page-type.ts b/code-system/ios-programs/ios-program.page-type.ts
+index 83b322ca132c721f4de886d3d80299ac4c35f1c0..70db71bc5ec11540cf75948f58b7f34370876ecd 100644
+--- a/code-system/ios-programs/ios-program.page-type.ts
++++ b/code-system/ios-programs/ios-program.page-type.ts
+@@ -51,7 +51,7 @@ export const iosProgram = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A program's top level statements stand in the file named main.swift.",
++      statement: "A program's top level statements sit in the file named main.swift.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/code-system/python-modules/python-module.page-type.ts b/code-system/python-modules/python-module.page-type.ts
+index bffc95b94ff8fea4fd1a3bd0278e0ebc2fd6550a..63143d95a7b4da455fa334ee3ccc224bcfd08028 100644
+--- a/code-system/python-modules/python-module.page-type.ts
++++ b/code-system/python-modules/python-module.page-type.ts
+@@ -22,7 +22,7 @@ export const pythonModule = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Python runs where a Python runtime stands rather than where TypeScript runs.",
++      statement: "Python runs where a Python runtime sits rather than where TypeScript runs.",
+     },
+     {
+       invariantKind: "departure",
