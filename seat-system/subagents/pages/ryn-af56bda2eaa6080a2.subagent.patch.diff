@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/file-purposes/file-purpose.page-type.ts b/code-system/file-purposes/file-purpose.page-type.ts
+index 9b14890f36d67727c75dc983e2e8b6d06f30b86e..d782640c562f0c3f290f808a04acddf5c02f9a8e 100644
+--- a/code-system/file-purposes/file-purpose.page-type.ts
++++ b/code-system/file-purposes/file-purpose.page-type.ts
+@@ -19,7 +19,8 @@ export const filePurpose = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A kind says what a file is written in and a purpose says what it is written for.",
++      statement:
++        "A kind says what a file is written in and a purpose says what that file is written for.",
+     },
+     {
+       invariantKind: "departure",
