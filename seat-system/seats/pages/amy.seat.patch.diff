@@ -1,0 +1,19 @@
+diff --git a/editor-extension/harness-call/harness-call.module.test.ts b/editor-extension/harness-call/harness-call.module.test.ts
+index 627a4ada7e8ee352df75117ce2666e7311dcf02a..d528d6245fc4df15ebde2890dc9458a650569e68 100644
+--- a/editor-extension/harness-call/harness-call.module.test.ts
++++ b/editor-extension/harness-call/harness-call.module.test.ts
+@@ -21,12 +21,12 @@ function within(named: string): string {
+ describe("the files the harness names", () => {
+   test("the checkout this test sits in is the one the paths are judged against", () => {
+     expect(existsSync(path.join(CHECKOUT, "akasha.domain.ts"))).toBe(true)
+-    expect(existsSync(path.join(CHECKOUT, "commands"))).toBe(true)
++    expect(existsSync(path.join(CHECKOUT, "command-system", "commands"))).toBe(true)
+   })
+ 
+   test("a command's file is the one sitting beside that command's page", () => {
+     expect(within(commandFile("work-tree"))).toBe(
+-      path.join("commands", "work-tree", "work-tree.command.code.ts")
++      path.join("command-system", "commands", "work-tree", "work-tree.command.code.ts")
+     )
+   })
+ 
