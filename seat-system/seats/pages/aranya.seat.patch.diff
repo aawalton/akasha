@@ -1519,3 +1519,11 @@ index fdcda856f1e5ed429cba749d101430a350d4058a..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-settings-panel
 \ No newline at end of file
+diff --git a/temper/temper-shopping/temper-shopping b/temper/temper-shopping/temper-shopping
+deleted file mode 120000
+index 738a239cff3d32950ccdf492dde4ab961acff7a1..0000000000000000000000000000000000000000
+--- a/temper/temper-shopping/temper-shopping
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-shopping
+\ No newline at end of file
