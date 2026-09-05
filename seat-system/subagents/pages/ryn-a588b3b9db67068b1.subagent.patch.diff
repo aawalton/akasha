@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/gate-building/gate-building.module.ts b/command-system/gate-building/gate-building.module.ts
+index d0df97acf7a385791f8760a6bb490a0cf5b6027f..b746d18cc4f6d0c0dcf5bcc5f5206bf91f7ca272 100644
+--- a/command-system/gate-building/gate-building.module.ts
++++ b/command-system/gate-building/gate-building.module.ts
+@@ -52,7 +52,7 @@ export const gateBuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is handed back says only why the gate is missing.",
++      statement: "The broken answer handed back says only why the gate is missing.",
+     },
+     {
+       invariantKind: "departure",
