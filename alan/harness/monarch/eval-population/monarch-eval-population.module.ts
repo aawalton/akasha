@@ -34,7 +34,7 @@ export const monarchEvalPopulation = {
     {
       invariantKind: "departure",
       statement:
-        "A stratum with fewer rows than were asked for gives what it has rather than drawing from another.",
+        "A stratum with fewer rows than were asked for gives those rows rather than drawing from another.",
     },
     {
       invariantKind: "absence",
