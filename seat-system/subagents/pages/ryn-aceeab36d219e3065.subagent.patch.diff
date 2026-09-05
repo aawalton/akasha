@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/apply/monarch-apply.module.ts b/alan/harness/monarch/apply/monarch-apply.module.ts
+index df5c8ffa73afebcbb833b96af6a814827758d5f2..560f45c118d9d9e8fd16c5b22d05fafc3c01fbcf 100644
+--- a/alan/harness/monarch/apply/monarch-apply.module.ts
++++ b/alan/harness/monarch/apply/monarch-apply.module.ts
+@@ -13,8 +13,7 @@ export const monarchApply = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A reservation names no category to set and is refused, because it is answered by somebody saying what the transaction is.",
++      statement: "A reservation names no category to set and is refused.",
+     },
+     {
+       invariantKind: "departure",
