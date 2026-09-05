@@ -62,11 +62,12 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "What a deploy is made of is read from the page rather than said on the call.",
+      statement:
+        "The parts a deploy is made of are read from the page rather than said on the call.",
     },
     {
       invariantKind: "departure",
-      statement: "A commit named on the call settles what an ios app is built at.",
+      statement: "A commit named on the call settles the commit an ios app is built at.",
     },
     {
       invariantKind: "departure",
