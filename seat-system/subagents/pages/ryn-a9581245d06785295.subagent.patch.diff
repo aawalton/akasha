@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.ts b/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.ts
+index 89ef6369462be15d0825151fb7020268717f52fa..8835de9b4df72900b3ba61af1771ff64342e8c4b 100644
+--- a/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.ts
++++ b/temper/temper-commands/temper-community-addon-update/temper-community-addon-update.command.ts
+@@ -47,7 +47,7 @@ export const temperCommunityAddonUpdate = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reports a change without making it.",
++      statement: "Nothing here reports a change without making that change.",
+     },
+   ],
+ } as const satisfies Command
