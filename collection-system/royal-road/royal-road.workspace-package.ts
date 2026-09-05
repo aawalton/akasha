@@ -20,13 +20,5 @@ export const royalRoad = {
       invariantKind: "departure",
       statement: "A chapter is fetched without the account.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A story is synced where a story page names a Royal Road id.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A chapter read here is marked read on Royal Road.",
-    },
   ],
 } as const satisfies WorkspacePackage
