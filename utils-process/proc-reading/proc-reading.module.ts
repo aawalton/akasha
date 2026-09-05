@@ -32,7 +32,8 @@ export const procReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A process state is the first letter alone of what the stat line carries.",
+      statement:
+        "A process state is the first letter alone of the state field the stat line carries.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +42,7 @@ export const procReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what an environment variable means.",
+      statement: "Nothing here knows an environment variable's meaning.",
     },
     {
       invariantKind: "absence",
