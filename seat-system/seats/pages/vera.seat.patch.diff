@@ -1,0 +1,24 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index 97ebad6c29acfeaf9ed614c5fb7e832a66a8466a..aeec510190d753672adc3727ff48f7b2c2346620 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -3,7 +3,7 @@ import { join } from "node:path"
+ import { patchAt } from "@akasha/agents/patch-keeping"
+ import type { Judged, Judging } from "@akasha/checks/judging"
+ import { formattedBody } from "@akasha/code-system/code-format"
+-import { agentPathOf } from "@akasha/context-system/warranting"
++import { agentPathOf } from "@akasha/context/warranting"
+ import { nameFaultIn } from "@akasha/pages-system/page-export-name"
+ import { isMissing } from "@akasha/utils-fs/missing"
+ import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
+diff --git a/commands/patch/patch.command.code.ts b/commands/patch/patch.command.code.ts
+index de7d89ac5cc9690952bd38636c3f5bfc4e85dedc..49883bf72972b875cea0b3139bc2a194f414559b 100644
+--- a/commands/patch/patch.command.code.ts
++++ b/commands/patch/patch.command.code.ts
+@@ -1,5 +1,5 @@
+ import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
+-import { agentPathOf } from "@akasha/context-system/warranting"
++import { agentPathOf } from "@akasha/context/warranting"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import { partedIn } from "@akasha/pages-system/page-file-name"
+ import { textAt as textIn, valueAt } from "@akasha/pages-system/page-value"
