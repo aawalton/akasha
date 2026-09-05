@@ -12,6 +12,19 @@ index 01598286cbcebaf9d33bf01ead9e8d5b0465e132..0256b91c0591cc2802cc154cbf09fa06
      },
      {
        invariantKind: "absence",
+diff --git a/collections/properties/parts-length-in-words.number-property.ts b/collections/properties/parts-length-in-words.number-property.ts
+index 7a420c9ff3f408464a9b3bef886c907244bb5d6b..3af57d2efdeeadbf8542b6c01a69bfbc2680e652 100644
+--- a/collections/properties/parts-length-in-words.number-property.ts
++++ b/collections/properties/parts-length-in-words.number-property.ts
+@@ -17,7 +17,7 @@ export const partsLengthInWords = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is added up is each part's own total length in words.",
++      statement: "Each part's own total length in words is added up.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
 index 759bcb0ff6a6d246f764209b4d022d29b1a525ac..b0472265b556de9c09af366196fb67c547bacfac 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
