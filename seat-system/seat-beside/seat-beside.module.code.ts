@@ -24,7 +24,7 @@ import { akashaSeatRelPath } from "../seat-page-akasha/seat-page-akasha.module.c
 
 export type { Beside, Carried, Kind } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
-function bare(held: unknown): unknown {
+export function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
   const rec = held as Record<string, unknown>
   const keys = Object.keys(rec)

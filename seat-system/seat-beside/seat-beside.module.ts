@@ -6,6 +6,7 @@ export const seatBeside = {
   slug: "seat-beside",
   definition: "what is observed of a seat, carried into akasha under the names declared there",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -22,6 +23,15 @@ export const seatBeside = {
     {
       invariantKind: "departure",
       statement: "A record is written whole, since a partial write takes its other fields away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A record carrying a value and nothing but an optional stamp is written as that value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record carrying anything else is written whole.",
     },
     {
       invariantKind: "departure",
