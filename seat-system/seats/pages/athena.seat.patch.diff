@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/games/pages/date-night-the-reading-room/date-night-the-reading-room.game.gm-context.json b/story/games/pages/date-night-the-reading-room/date-night-the-reading-room.game.gm-context.json
+index 2fa9dcaf9d94657c0aecb2ea86cba2afc0496382..e172b952228e9d9bdae0b4af96c4d85bcfa9525d 100644
+--- a/story/games/pages/date-night-the-reading-room/date-night-the-reading-room.game.gm-context.json
++++ b/story/games/pages/date-night-the-reading-room/date-night-the-reading-room.game.gm-context.json
+@@ -249,7 +249,7 @@
+       },
+       {
+         "id": "author-turn",
+-        "requirement": "Author the next turn whole — second-person narration on Alan, both women on their sheets, Alan's interiority architecture-true — under the narration rule; commit-turn as draft."
++        "requirement": "Author the next turn whole — second-person narration on Alan, both women on their sheets, Alan's interiority architecture-true — under the narration rule."
+       },
+       {
+         "id": "editorial-loop",
