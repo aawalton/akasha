@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/agent.page-type.ts b/agents/agent.page-type.ts
+index 0a074d2be3747fa1e32410dddb3f275d9e875e88..8746c1d09448ab6ba5303fbcd10fe5d026e1a264 100644
+--- a/agents/agent.page-type.ts
++++ b/agents/agent.page-type.ts
+@@ -48,7 +48,7 @@ export const agent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What an agent has read is the agent's own rather than its seat's.",
++      statement: "The pages an agent has read are the agent's own rather than its seat's.",
+     },
+     {
+       invariantKind: "departure",
