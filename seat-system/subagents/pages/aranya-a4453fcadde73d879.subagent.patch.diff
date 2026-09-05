@@ -1,3 +1,15 @@
+diff --git a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
+index a5120965c7a2a7ca47d58b117c0980c46e3b9adc..ec378479c8ed13c30c552656a439d374ba251465 100644
+--- a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
++++ b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
+@@ -12,6 +12,7 @@ export const clusterManifests = {
+     "module/archive-of-worlds-web-rbac",
+     "module/audhdalan-web-rbac",
+     "module/auth-proxy-rbac",
++    "manifest/buildkit-prune",
+     "module/cert-manager-rbac",
+     "module/cert-manager-synth",
+     "module/cgroup-psi-collector",
 diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
 index db526188cd7f2c2d52feec28a096af176c1bd6f7..83c5e879965a2e5dbdafe6dfcbeccfa5eea251f6 100644
 --- a/service-system/cluster-services/cluster-service.page-type.ts
