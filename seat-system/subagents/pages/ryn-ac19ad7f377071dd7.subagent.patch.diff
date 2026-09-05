@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts b/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts
+index 164c47ca4e2e771ddd0c3f900ea6a00a11480f5c..2249f8b8de76f9a2c8c5383b3b4d9b4673833fd5 100644
+--- a/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts
++++ b/temper/temper-commands/temper-inventory-buy-rule-unlock/temper-inventory-buy-rule-unlock.command.ts
+@@ -8,7 +8,6 @@ export const temperInventoryBuyRuleUnlock = {
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [{ said: "<id>", takes: "the id of the buy rule unlocked" }],
+-  helpNotes: ["unlocking a buy rule already unlocked changes nothing."],
+   invariants: [
+     {
+       invariantKind: "departure",
