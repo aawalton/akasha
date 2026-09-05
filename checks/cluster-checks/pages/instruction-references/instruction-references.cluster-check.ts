@@ -30,7 +30,7 @@ export const instructionReferences = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This check outlives the world it names.",
+      statement: "This check outlives the world that check names.",
     },
     {
       invariantKind: "absence",
