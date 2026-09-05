@@ -1,5 +1,5 @@
 diff --git a/commands/replace/replace.command.ts b/commands/replace/replace.command.ts
-index 369e73e237075cafd82dd9163639d075ab6ca422..e81d7dd15c58088b47297176ea013427b0f3c0fa 100644
+index 369e73e237075cafd82dd9163639d075ab6ca422..5acab09a3d2a4ec39771094b32f050d675a158e5 100644
 --- a/commands/replace/replace.command.ts
 +++ b/commands/replace/replace.command.ts
 @@ -46,7 +46,7 @@ export const replace = {
@@ -8,6 +8,15 @@ index 369e73e237075cafd82dd9163639d075ab6ca422..e81d7dd15c58088b47297176ea013427
        invariantKind: "departure",
 -      statement: "The file holding it nowhere is named in that refusal.",
 +      statement: "The file holding the passage nowhere is named in that refusal.",
+     },
+     {
+       invariantKind: "departure",
+@@ -79,7 +79,7 @@ export const replace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A passage carries the trailing newline of the file naming it.",
++      statement: "A passage carries the trailing newline of the file naming that passage.",
      },
      {
        invariantKind: "departure",
