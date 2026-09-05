@@ -10,7 +10,8 @@ export const terminalBash = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The text is composed whole rather than patched onto what a terminal already has.",
+      statement:
+        "The text is composed whole rather than patched onto the bash a terminal already has.",
     },
     {
       invariantKind: "departure",
