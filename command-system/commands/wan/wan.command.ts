@@ -107,10 +107,6 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "The recipe a generate or an extend ran under is kept as an inference run.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A frames act writes one numbered PNG for each frame that act takes.",
     },
     {
