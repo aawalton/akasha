@@ -120,7 +120,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "That landing is how a check states its rule before it binds anyone.",
+      statement: "That landing is how a check states its rule before that check binds anyone.",
     },
     {
       invariantKind: "departure",
@@ -137,7 +137,7 @@ export const codeCheck = {
     {
       invariantKind: "departure",
       statement:
-        "Patch on means a file still carrying a violation is refused the next time it is touched.",
+        "Patch on means a file still carrying a violation is refused the next time that file is touched.",
     },
     {
       invariantKind: "departure",
