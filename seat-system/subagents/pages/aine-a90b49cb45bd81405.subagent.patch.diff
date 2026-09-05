@@ -12,7 +12,7 @@ index a68425e2f7bfce9e682a28ff736f43b596102b32..19255fefc49ab73f447a1256bb2c80a4
  const mod = await import('$AKASHA_ROOT/${rbacFile}');
  const profiles = mod.profiles ?? mod.default;
 diff --git a/changes/workflow-language/workflow-discovery/workflow-discovery.module.code.ts b/changes/workflow-language/workflow-discovery/workflow-discovery.module.code.ts
-index 1396b1deff6bae1dbb70b4e78e863535d6dc9abb..335d5ed881ffa54b6db387f88465f0e6e305c211 100644
+index 1396b1deff6bae1dbb70b4e78e863535d6dc9abb..26aa96b340d48e4d4fba1ba2c1561a23c224d685 100644
 --- a/changes/workflow-language/workflow-discovery/workflow-discovery.module.code.ts
 +++ b/changes/workflow-language/workflow-discovery/workflow-discovery.module.code.ts
 @@ -82,8 +82,8 @@ export function workflowPages(root: string): readonly WorkflowPage[] {
@@ -26,6 +26,17 @@ index 1396b1deff6bae1dbb70b4e78e863535d6dc9abb..335d5ed881ffa54b6db387f88465f0e6
      )
    }
    return asked.rows.map((row) => {
+@@ -91,8 +91,8 @@ export function workflowPages(root: string): readonly WorkflowPage[] {
+     const sourcePath = besideAt(relPath, DECLARATION_KEY, DECLARATION_EXTENSION)
+     if (sourcePath === null) {
+       throw new Error(
+-        `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page stands at \`${relPath}\`, which is no ` +
+-          "TypeScript file, so nothing stands beside it to declare a workflow"
++        `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page is at \`${relPath}\`, which is no ` +
++          "TypeScript file, so nothing sits beside it to declare a workflow"
+       )
+     }
+     return {
 diff --git a/changes/workflow-language/workflow-discovery/workflow-discovery.module.ts b/changes/workflow-language/workflow-discovery/workflow-discovery.module.ts
 index c2e906acd0dd85c9d29ba3da34ae5f164561fcc7..962eb61161144e0d74061d7c3b18ef512b1c6dfe 100644
 --- a/changes/workflow-language/workflow-discovery/workflow-discovery.module.ts
@@ -53,7 +64,7 @@ index a36912717976d02dfbd8e2f771056a492ce0bb59..310a933267d923532c0dcb3dad9283a2
      {
        invariantKind: "departure",
 diff --git a/changes/workflow-templates/workflow-template.page-type.ts b/changes/workflow-templates/workflow-template.page-type.ts
-index cbaf7e47e4391f8c08df031937bdcd819946545c..1a94e6187bd518e0782c641d3acc247cbe9c1d9e 100644
+index cbaf7e47e4391f8c08df031937bdcd819946545c..74f6cd65d20f695bd93882f09707246a5145f897 100644
 --- a/changes/workflow-templates/workflow-template.page-type.ts
 +++ b/changes/workflow-templates/workflow-template.page-type.ts
 @@ -33,7 +33,7 @@ export const workflowTemplate = {
@@ -65,3 +76,12 @@ index cbaf7e47e4391f8c08df031937bdcd819946545c..1a94e6187bd518e0782c641d3acc247c
      },
      {
        invariantKind: "departure",
+@@ -45,7 +45,7 @@ export const workflowTemplate = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The workflow language a declaration is written in stands outside akasha.",
++      statement: "The workflow language a declaration is written in is outside akasha.",
+     },
+   ],
+ } as const satisfies PageType
