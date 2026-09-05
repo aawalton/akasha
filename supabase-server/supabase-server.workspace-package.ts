@@ -10,7 +10,7 @@ export const supabaseServer = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "No key stands here.",
+      statement: "No key is here.",
     },
     {
       invariantKind: "departure",

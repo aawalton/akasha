@@ -25,7 +25,7 @@ export const supabaseRr = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "No key stands here.",
+      statement: "No key is here.",
     },
     {
       invariantKind: "departure",

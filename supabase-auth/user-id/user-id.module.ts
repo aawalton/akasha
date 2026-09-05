@@ -9,7 +9,7 @@ export const userId = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "Alan's own id stands here as the default.",
+      statement: "Alan's own id is here as the default.",
     },
   ],
 } as const satisfies Module
