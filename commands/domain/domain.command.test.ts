@@ -9,11 +9,11 @@ import {
   DECLARATIONS,
   DESCENT,
   domainsIn,
+  type Entry,
   heldBy,
   kindsUnderDomain,
   PATHS,
   readIn,
-  type Standing,
   SUBJECT,
   treeLines,
   UP,
@@ -124,9 +124,7 @@ test("the page says it writes nothing and takes both acts", () => {
   expect(said).toContain(DECLARATIONS)
 })
 
-function standingOf(
-  said: Readonly<Record<string, readonly string[]>>
-): ReadonlyMap<string, Standing> {
+function standingOf(said: Readonly<Record<string, readonly string[]>>): ReadonlyMap<string, Entry> {
   return new Map(
     Object.entries(said).map(([slug, parts]) => [slug, { slug, path: `${slug}.domain.ts`, parts }])
   )

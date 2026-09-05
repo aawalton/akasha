@@ -125,7 +125,7 @@ export function readIn(argv: readonly string[]): Read {
   return { act, rooted, above, paths, descent, subjects }
 }
 
-export interface Standing {
+export interface Entry {
   readonly slug: string
   readonly path: string
   readonly parts: readonly string[]
@@ -153,9 +153,9 @@ function partsOf(value: Record<string, unknown>): readonly string[] {
   )
 }
 
-export function domainsIn(root: string, descent: boolean): ReadonlyMap<string, Standing> {
+export function domainsIn(root: string, descent: boolean): ReadonlyMap<string, Entry> {
   const kinds = descent ? [...kindsUnderDomain(root)].sort() : [DOMAIN_TYPE]
-  const found = new Map<string, Standing>()
+  const found = new Map<string, Entry>()
   for (const kind of kinds) {
     for (const one of valuesOfType(root, kind)) {
       const value = one.value as Record<string, unknown>
@@ -172,7 +172,7 @@ export function domainsIn(root: string, descent: boolean): ReadonlyMap<string, S
 }
 
 export function heldBy(
-  domains: ReadonlyMap<string, Standing>
+  domains: ReadonlyMap<string, Entry>
 ): ReadonlyMap<string, readonly string[]> {
   const holders = new Map<string, string[]>()
   for (const one of domains.values()) {
@@ -185,7 +185,7 @@ export function heldBy(
   return holders
 }
 
-function label(slug: string, domains: ReadonlyMap<string, Standing>, paths: boolean): string {
+function label(slug: string, domains: ReadonlyMap<string, Entry>, paths: boolean): string {
   const at = domains.get(slug)
   if (at === undefined) return `${slug}  ${UNDECLARED}`
   return paths ? `${slug}  ${at.path}` : slug
@@ -195,7 +195,7 @@ function descend(
   slug: string,
   depth: number,
   open: ReadonlySet<string>,
-  domains: ReadonlyMap<string, Standing>,
+  domains: ReadonlyMap<string, Entry>,
   paths: boolean,
   into: string[]
 ): undefined {
@@ -213,7 +213,7 @@ function descend(
 
 export function treeLines(
   from: readonly string[],
-  domains: ReadonlyMap<string, Standing>,
+  domains: ReadonlyMap<string, Entry>,
   paths: boolean
 ): readonly string[] {
   const lines: string[] = []
@@ -223,7 +223,7 @@ export function treeLines(
 
 function ascend(
   slug: string,
-  domains: ReadonlyMap<string, Standing>,
+  domains: ReadonlyMap<string, Entry>,
   holders: ReadonlyMap<string, readonly string[]>,
   paths: boolean
 ): readonly string[] {
