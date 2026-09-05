@@ -80,7 +80,8 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller standing that index up elsewhere writes what the change files.",
+      statement:
+        "A caller standing that index up elsewhere writes the entry files the change files.",
     },
     {
       invariantKind: "departure",
