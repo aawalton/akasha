@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-completed-day-landing/watcher-completed-day-landing.module.ts b/temper/temper-watcher/watcher-completed-day-landing/watcher-completed-day-landing.module.ts
+index 565ad1d747223a7d103d383b99f82dd567e6a858..6e4bbd5af6ede1ac3d38e664703aab8fea6dca27 100644
+--- a/temper/temper-watcher/watcher-completed-day-landing/watcher-completed-day-landing.module.ts
++++ b/temper/temper-watcher/watcher-completed-day-landing/watcher-completed-day-landing.module.ts
+@@ -18,7 +18,7 @@ export const watcherCompletedDayLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A line holds what is true of the completion rather than of the task.",
++      statement: "A line holds the facts true of the completion rather than of the task.",
+     },
+     {
+       invariantKind: "departure",
