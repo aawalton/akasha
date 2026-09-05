@@ -9,11 +9,13 @@ export const pageQueryNarrow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key stated against a bare value is read as a test that the key holds it.",
+      statement:
+        "A key stated against a bare value is read as a test that the key holds that value.",
     },
     {
       invariantKind: "departure",
-      statement: "A number and a boolean are read as the text they are written as.",
+      statement:
+        "A number and a boolean are read as the text that number and that boolean are written as.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +27,8 @@ export const pageQueryNarrow = {
     },
     {
       invariantKind: "departure",
-      statement: "A test that cannot be read is said as unreadable and the tests beside it remain.",
+      statement:
+        "A test that cannot be read is said as unreadable and the tests beside that test remain.",
     },
     {
       invariantKind: "departure",
