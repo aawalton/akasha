@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.ts b/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.ts
+index c596ba6d0695934f032ff9ad988f6d5d98794dc7..37841a88332c20c191cbbded9cde17e2d72cd0e2 100644
+--- a/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.ts
++++ b/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.ts
+@@ -40,7 +40,7 @@ export const exerciseLogActivity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "How long a stretch ran is kept in seconds however it was said.",
++      statement: "How long a stretch ran is kept in seconds however that span was said.",
+     },
+     {
+       invariantKind: "departure",
