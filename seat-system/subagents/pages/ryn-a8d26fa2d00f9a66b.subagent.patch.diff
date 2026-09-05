@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/workspaces/workspace.page-type.ts b/code-system/workspaces/workspace.page-type.ts
+index dcb755d345da773b3aed6a50b276df4d9ab80177..1a5afefdcf5ea06e83147c7b6113ea6a61f374b3 100644
+--- a/code-system/workspaces/workspace.page-type.ts
++++ b/code-system/workspaces/workspace.page-type.ts
+@@ -75,7 +75,7 @@ export const workspace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a workspace manifest names is reached from anywhere in the tree.",
++      statement: "A package a workspace manifest names is reached from anywhere in the tree.",
+     },
+     {
+       invariantKind: "departure",
