@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/checks/modules/run-cost/run-cost.module.ts b/checks/modules/run-cost/run-cost.module.ts
+index 5a19be1d9f77f22432c93953e45938f5de219aa4..bdd0b0808c8b5bafd90dd663b3ba01a89b2a2c9d 100644
+--- a/checks/modules/run-cost/run-cost.module.ts
++++ b/checks/modules/run-cost/run-cost.module.ts
+@@ -21,7 +21,8 @@ export const runCost = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The cpu time counted is this process together with every child it reaped.",
++      statement:
++        "The cpu time counted is this process together with every child this process reaped.",
+     },
+     {
+       invariantKind: "departure",
