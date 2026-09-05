@@ -13,7 +13,7 @@ export const syncSource = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run counts what the run would have written and writes nothing.",
+      statement: "A dry run counts the events the run would have written and writes nothing.",
     },
   ],
 } as const satisfies Module
