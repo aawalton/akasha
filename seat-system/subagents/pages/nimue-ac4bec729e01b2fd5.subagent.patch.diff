@@ -1,3 +1,15 @@
+diff --git a/alan/web/package.json b/alan/web/package.json
+index 6a89899f56544f1f9ef06929ca3484787b0f4e75..9f6e45ccb53bf2dbb7ca3501f42c8bfb93a77d42 100644
+--- a/alan/web/package.json
++++ b/alan/web/package.json
+@@ -70,7 +70,6 @@
+     "@akasha/supabase-rr": "workspace:*",
+     "@akasha/supabase-server": "workspace:*",
+     "@akasha/utils-narrow": "workspace:*",
+-    "@akasha/utils-sync": "workspace:*",
+     "@akasha/voice-core": "workspace:*",
+     "@akasha/web-build-version": "workspace:*",
+     "@akasha/web-security-headers": "workspace:*",
 diff --git a/bun.lock b/bun.lock
 index ad45671521001da5f1cb77cf2df31adfb29d2071..0ea68a06966ba7fae817ceb2010092d9663cc5da 100644
 --- a/bun.lock
@@ -38,6 +50,31 @@ index ad45671521001da5f1cb77cf2df31adfb29d2071..0ea68a06966ba7fae817ceb2010092d9
      "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/query"],
  
      "@akasha/pages-system": ["@akasha/pages-system@workspace:pages"],
+diff --git a/domains/initiatives/pages/nimue-computed-properties.initiative.ts b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+index 8426523717e2c27d1ac1f53fe82bbdbdd5422529..b77908c3d01422ffd2c3559acf26a27c585ddf46 100644
+--- a/domains/initiatives/pages/nimue-computed-properties.initiative.ts
++++ b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+@@ -31,7 +31,7 @@ export const nimueComputedProperties = {
+     {
+       statement: "No calculation is written as an expression the system parses.",
+       workingMemory:
+-        "No formula-property page remains in akasha, the page type itself is gone, and `holds` moved to computed-properties keeping its id. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated because that page type is being rebuilt. Each answered exactly what the formula answered, measured over every page of its type. The parser is reached by nothing: a color rule is a function a property definition carries, and `pages/formula` stays unused.",
++        "No formula-property page remains in akasha, the page type itself is gone, and `holds` moved to computed-properties keeping its id. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated because that page type is being rebuilt. Each answered exactly what the formula answered, measured over every page of its type. The parser is gone: `pages/formula` is deleted whole, a color rule being a function a property definition carries rather than a string.",
+     },
+     {
+       statement: "Sleep hours and surplus hours answer from a calculation.",
+diff --git a/pages/core/package.json b/pages/core/package.json
+index dc15dd5a6fccf0760166ddee17ba95cfbb3b924d..6890f6cbfe99969941a4b5790f36ef92948999fd 100644
+--- a/pages/core/package.json
++++ b/pages/core/package.json
+@@ -71,7 +71,6 @@
+     "@akasha/day": "workspace:*",
+     "@akasha/digit-padding": "workspace:*",
+     "@akasha/id-minting": "workspace:*",
+-    "@akasha/pages-formula": "workspace:*",
+     "@akasha/pages-url": "workspace:*",
+     "@akasha/utils-narrow": "workspace:*",
+     "zod": "^4.3.6"
 diff --git a/pages/formula/formula-check/formula-check.module.code.ts b/pages/formula/formula-check/formula-check.module.code.ts
 deleted file mode 100644
 index 57c15ff4294d4c8e53942be5a61f65b7b8416ae3..0000000000000000000000000000000000000000
@@ -1716,3 +1753,15 @@ index ccbb8bff8d212e526d03e085282f8d5a6d9ff8b0..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies WorkspacePackage
+diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
+index c27b6bead88d2a9f11d6bf0197f43ec4d77de90c..65986e01d042c3cfb6f49ecf3ec2d9de5f6c0352 100644
+--- a/pages/pages.workspace-package.ts
++++ b/pages/pages.workspace-package.ts
+@@ -56,7 +56,6 @@ export const pages = {
+     "workspace-package/pages-query",
+     "workspace-package/pages-system-service",
+     "workspace-package/pages-core",
+-    "workspace-package/pages-formula",
+     "workspace-package/pages-access",
+     "workspace-package/pages-ui-store",
+     "workspace-package/pages-url",
