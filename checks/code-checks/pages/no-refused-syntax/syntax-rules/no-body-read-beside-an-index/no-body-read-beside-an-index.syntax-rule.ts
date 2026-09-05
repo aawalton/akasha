@@ -109,10 +109,7 @@ export const noBodyReadBesideAnIndex = {
       invariantKind: "absence",
       statement: "The path of the file judged is not read.",
     },
-    {
-      invariantKind: "absence",
-      statement: "Only the file handed in is read.",
-    },
+
     {
       invariantKind: "gap",
       statement:

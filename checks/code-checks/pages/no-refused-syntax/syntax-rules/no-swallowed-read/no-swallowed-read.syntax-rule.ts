@@ -78,10 +78,7 @@ export const noSwallowedRead = {
       invariantKind: "departure",
       statement: "The line named is the catch's own.",
     },
-    {
-      invariantKind: "absence",
-      statement: "Only the file handed in is read.",
-    },
+
     {
       invariantKind: "gap",
       statement: "A null answered rather than thrown is followed to the caller reading the null.",
