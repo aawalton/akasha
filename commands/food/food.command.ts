@@ -48,7 +48,7 @@ export const food = {
     {
       invariantKind: "departure",
       statement:
-        "Which day an entry counts to is worked out from the instant it happened at against when Alan woke.",
+        "Which day an entry counts to is worked out from when the entry happened against when Alan woke.",
     },
     {
       invariantKind: "departure",
