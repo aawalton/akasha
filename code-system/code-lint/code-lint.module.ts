@@ -54,7 +54,7 @@ export const codeLint = {
     },
     {
       invariantKind: "constraint",
-      statement: "It is the only shape of its answer a machine can take.",
+      statement: "That reporter is the only shape of Biome's answer a machine can take.",
     },
     {
       invariantKind: "absence",
