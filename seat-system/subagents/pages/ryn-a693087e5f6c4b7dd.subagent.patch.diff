@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
-index aff24f8e303750f13038897d273518acf3912dc0..9e78f11887892dbba438987ad058a11cd741fe85 100644
+index aff24f8e303750f13038897d273518acf3912dc0..01e1439cd7b96d6368eda0e0c6814811a4947d2b 100644
 --- a/command-system/reading/reading.module.ts
 +++ b/command-system/reading/reading.module.ts
 @@ -18,7 +18,7 @@ export const reading = {
@@ -24,6 +24,15 @@ index aff24f8e303750f13038897d273518acf3912dc0..9e78f11887892dbba438987ad058a11c
        statement:
 -        "A mechanical change carries a reading of what changed onto the body and path the change left.",
 +        "A mechanical change carries a reading of the changed file onto the body and path the change left.",
+     },
+     {
+       invariantKind: "departure",
+@@ -85,7 +85,7 @@ export const reading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The body a mechanical change left answers what a warrant asks.",
++      statement: "The body a mechanical change left answers the question a warrant asks.",
      },
      {
        invariantKind: "departure",
