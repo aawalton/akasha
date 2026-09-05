@@ -82,6 +82,7 @@ export const clusterService = {
     "cluster-service/talos-subnet-router",
     "number-property/container-port",
     "number-property/replicas",
+    "relation-property/manifest-slug",
     "text-property/image",
     "text-property/cluster-service-manifest-code",
     "text-property/namespace",
