@@ -1,0 +1,14 @@
+diff --git a/editor-extension/agent-tree-state/agent-tree-state.module.ts b/editor-extension/agent-tree-state/agent-tree-state.module.ts
+index c915de387bfa182c0bdc3788f52a4670cc4e6d3d..7b8e8b4fb36e893b673d431e2fb9720c80b1dbae 100644
+--- a/editor-extension/agent-tree-state/agent-tree-state.module.ts
++++ b/editor-extension/agent-tree-state/agent-tree-state.module.ts
+@@ -14,7 +14,8 @@ export const agentTreeState = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A forest and a set of seat tabs are empty until the first read replaces them.",
++      statement:
++        "A forest and a set of seat tabs are empty until the first read replaces that forest and that set.",
+     },
+     {
+       invariantKind: "absence",
