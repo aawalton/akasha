@@ -28,7 +28,7 @@ export const mediaConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type with none above it and none of its own renders no media.",
+      statement: "A page type with none above that page type and none of its own renders no media.",
     },
     {
       invariantKind: "departure",
