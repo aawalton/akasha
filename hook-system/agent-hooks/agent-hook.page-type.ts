@@ -40,7 +40,7 @@ export const agentHook = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A hook is handed what the harness sends at its event.",
+      statement: "A hook is handed the payload the harness sends at its event.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "What registers a hook is worked out from this page.",
+      statement: "A hook's registration is worked out from this page.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +82,7 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "What a hook's code file does as a program is what `ran` does.",
+      statement: "A hook's code file run as a program does the same as `ran`.",
     },
     {
       invariantKind: "departure",
