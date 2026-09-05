@@ -150,6 +150,19 @@ index 5d004c1c3f97fddf10668ff66ee75a81d362721d..8e2d0f0575f8caf58a7abee5ea4109dc
 +    return Promise.resolve(null)
    }
  }
+diff --git a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts
+index 23049281f68a7f3e83592ebcb56994a6c875ddb0..c79e0592948c4bbd94777e328e645025f6600b96 100644
+--- a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts
++++ b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts
+@@ -13,7 +13,7 @@ export const supervisorBootPrompt = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Composing past its ceiling is abandoned and the seat spawns without a prompt.",
++      statement: "A composing that throws is caught and the seat spawns without a prompt.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts b/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts
 index c82ac345639cfd9adb13f91b274ad6a998d6069f..d471ef7cabe07fb1f4f1f63992ddce506eddd45d 100644
 --- a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts
