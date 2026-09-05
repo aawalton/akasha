@@ -185,23 +185,6 @@ index 0000000000000000000000000000000000000000..46e7214a9dcc1babb06b8b1610218c30
 +    { name: "service", yaml: serviceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index 48f2a10a5a66fa268f983755b04af2a02242cb75..5e8c6d0fa38b2a83ea328c3893444d7793fd0e9a 100644
---- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -393,8 +393,12 @@ index 44376302b12fa70b4d314cd5455bc6353843f4ba..62b3f46ed646ad8a6a28b376087663a4
-    replicas: 1,
-    containerPort: 1234,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/container-image/buildkit/buildkit.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "buildkit",
- +=======
- +  manifestCode: "infrastructure/container-image/buildkit/buildkit.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 46e7214a9dcc1babb06b8b1610218c30263b5553..0000000000000000000000000000000000000000
