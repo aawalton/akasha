@@ -34,7 +34,7 @@ export const preReceiveChangeBranches = {
     },
     {
       invariantKind: "departure",
-      statement: "A branch pushed in the same transaction counts as holding it.",
+      statement: "A branch pushed in the same transaction counts as holding that commit.",
     },
     {
       invariantKind: "departure",
