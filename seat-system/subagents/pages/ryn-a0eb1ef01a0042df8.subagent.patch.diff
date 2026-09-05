@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+index 3afbb329ad801620628ec918d970858203b195f2..07931c636ebdabb048bd7e463c8df535e16ca12a 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+@@ -41,7 +41,7 @@ export const testsPass = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run reaching fewer files than it named has failed.",
++      statement: "A run reaching fewer files than that run named has failed.",
+     },
+     {
+       invariantKind: "departure",
