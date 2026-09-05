@@ -13,11 +13,11 @@ export const rotatedSessionUuid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This stands between a clear and the binding that takes it.",
+      statement: "This property stands between a clear and the binding that takes it.",
     },
     {
       invariantKind: "departure",
-      statement: "This goes once taken.",
+      statement: "This property goes once taken.",
     },
   ],
 } as const satisfies TextProperty

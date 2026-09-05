@@ -11,11 +11,13 @@ export const appearance = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is how she describes herself rather than how an image of her was made.",
+      statement:
+        "This property is how she describes herself rather than how an image of her was made.",
     },
     {
       invariantKind: "departure",
-      statement: "A persona whose portrait already describes her still keeps this apart from it.",
+      statement:
+        "A persona whose portrait already describes her still keeps this property apart from it.",
     },
     {
       invariantKind: "departure",

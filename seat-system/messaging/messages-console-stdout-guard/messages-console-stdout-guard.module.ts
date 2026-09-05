@@ -13,11 +13,12 @@ export const messagesConsoleStdoutGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "This is loaded for what loading it does rather than for anything it exports.",
+      statement:
+        "This module is loaded for what loading it does rather than for anything it exports.",
     },
     {
       invariantKind: "departure",
-      statement: "This is loaded before anything that might log.",
+      statement: "This module is loaded before anything that might log.",
     },
   ],
 } as const satisfies Module

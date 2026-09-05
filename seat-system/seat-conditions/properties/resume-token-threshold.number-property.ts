@@ -12,7 +12,7 @@ export const resumeTokenThreshold = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a headless seat carries this.",
+      statement: "Only a headless seat carries this threshold.",
     },
     {
       invariantKind: "departure",

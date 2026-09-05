@@ -9,7 +9,8 @@ export const seatPageBeat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is run as its own program rather than imported by what writes a seat page.",
+      statement:
+        "This module is run as its own program rather than imported by what writes a seat page.",
     },
     {
       invariantKind: "departure",

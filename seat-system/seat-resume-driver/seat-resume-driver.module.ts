@@ -9,7 +9,7 @@ export const seatResumeDriver = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A resuming seat is driven by exactly one of these and never by none.",
+      statement: "A resuming seat is driven by exactly one of these five things and never by none.",
     },
   ],
 } as const satisfies Module

@@ -13,7 +13,8 @@ export const pageQueryHold = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer held longer than that is asked for again rather than answered.",
+      statement:
+        "An answer held longer than the caller said is asked for again rather than answered.",
     },
     {
       invariantKind: "departure",

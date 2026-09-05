@@ -14,7 +14,7 @@ export const shellSha = {
     {
       invariantKind: "departure",
       statement:
-        "A cut built from no separate shell leaves this off rather than repeating its main sha.",
+        "A cut built from no separate shell leaves this property off rather than repeating its main sha.",
     },
   ],
 } as const satisfies TextProperty

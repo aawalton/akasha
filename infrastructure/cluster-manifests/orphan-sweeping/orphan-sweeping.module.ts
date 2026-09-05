@@ -28,7 +28,7 @@ export const orphanSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A clean sweep says nothing, so every message this sends is drift.",
+      statement: "A clean sweep says nothing, so every message this module sends is drift.",
     },
     {
       invariantKind: "departure",

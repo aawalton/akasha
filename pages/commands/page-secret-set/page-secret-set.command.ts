@@ -52,7 +52,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "absence",
-      statement: "No value this takes is written anywhere in the clear.",
+      statement: "No value this command takes is written anywhere in the clear.",
     },
     {
       invariantKind: "gap",
