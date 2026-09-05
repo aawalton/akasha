@@ -1,5 +1,5 @@
 diff --git a/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts b/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
-index 550cfce3019872b5025227f8a9b0865aeed50bd4..8f9bb642d4fa8ecdb051fffb7bbe633f3472eb9e 100644
+index 550cfce3019872b5025227f8a9b0865aeed50bd4..a37b1ef6719a27b78717c99715e404ed74a63912 100644
 --- a/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
 +++ b/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
 @@ -9,7 +9,8 @@ export const mlxVlmClient = {
@@ -19,6 +19,15 @@ index 550cfce3019872b5025227f8a9b0865aeed50bd4..8f9bb642d4fa8ecdb051fffb7bbe633f
 -      statement: "Asking for more frames than the clip holds answers with all of them.",
 +      statement:
 +        "Asking for more frames than the clip holds answers with all of the frames the clip holds.",
+     },
+     {
+       invariantKind: "departure",
+@@ -25,7 +27,7 @@ export const mlxVlmClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The checklist is said after every frame rather than before them.",
++      statement: "The checklist is said after every frame rather than before those frames.",
      },
      {
        invariantKind: "departure",
