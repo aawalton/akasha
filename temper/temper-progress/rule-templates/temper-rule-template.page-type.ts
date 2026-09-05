@@ -23,12 +23,7 @@ export const temperRuleTemplate = {
   definition: "a ready-made rule for what to do with an item",
   pluralSlug: "temper-rule-templates",
   extendsSlug: ["page-type/temper-progress-thing"],
-  partSlugs: [
-    "text-property/condition-value",
-    "text-property/destination",
-    "relation-property/goal",
-    "select-property/stock-scope",
-  ],
+  partSlugs: ["text-property/destination", "relation-property/goal", "select-property/stock-scope"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "description", required: true, many: false },
