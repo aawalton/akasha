@@ -11,3 +11,30 @@ index b2aef3d20beb97c9b8e417686e2ca69690e27766..9a740ea74dde903833af132f8cafc8a6
      },
      {
        invariantKind: "departure",
+diff --git a/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts b/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts
+index 0016415e04d2b5ec95dab370026959da96d33bd5..0804b2184209140b87c7a7892317d81e2846fdf3 100644
+--- a/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts
++++ b/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts
+@@ -150,7 +150,8 @@ export const serverErrorRetry = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A body already sent upstream is sent again without asking whether that is safe.",
++      statement:
++        "A body already sent upstream is sent again without asking whether sending it again is safe.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/alan/fitness/commands/exercise-said/exercise-said.module.ts b/alan/fitness/commands/exercise-said/exercise-said.module.ts
+index 9abf90caaeedfcd3a2add155517fd1b56ffaeb45..c3bab3e3034916f1eeef41c13b505e02354ad9df 100644
+--- a/alan/fitness/commands/exercise-said/exercise-said.module.ts
++++ b/alan/fitness/commands/exercise-said/exercise-said.module.ts
+@@ -9,7 +9,7 @@ export const exerciseSaid = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A word this does not take is refused rather than passed over.",
++      statement: "A word this module does not take is refused rather than passed over.",
+     },
+     {
+       invariantKind: "departure",
