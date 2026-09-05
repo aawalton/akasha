@@ -13,7 +13,7 @@ export const generatedFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding what would be written is left alone.",
+      statement: "A file already holding the bytes that would be written is left alone.",
     },
   ],
 } as const satisfies Module
