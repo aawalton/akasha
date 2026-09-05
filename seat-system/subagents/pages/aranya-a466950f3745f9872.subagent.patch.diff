@@ -112,7 +112,7 @@ index 0000000000000000000000000000000000000000..b08585095920d78938d73b6c741aec31
 +  }
 +}
 diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
-index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..bda48fd84398474edd5324e03a574a15c4b10b89 100644
+index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..b7f4776a05ff01f9096e814a623aa6e22554b4c4 100644
 --- a/checks/modules/change-walking/change-walking.module.test.ts
 +++ b/checks/modules/change-walking/change-walking.module.test.ts
 @@ -1,14 +1,11 @@
@@ -134,7 +134,7 @@ index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..bda48fd84398474edd5324e03a574a15
  import {
    everyFileIn,
    everythingIn,
-@@ -25,37 +22,31 @@ import {
+@@ -25,37 +22,32 @@ import {
    TEXTS,
    textNamed,
  } from "./change-walking.module.code.ts"
@@ -191,10 +191,11 @@ index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..bda48fd84398474edd5324e03a574a15
  afterAll(scratch.sweep)
  
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
  function bodyAt(root: string, path: string, body: string): undefined {
    const at = join(root, path)
    mkdirSync(dirname(at), { recursive: true })
-@@ -116,13 +107,15 @@ function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
+@@ -116,13 +108,17 @@ function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
      lines: (at) => base.lines(at),
    }
    return {
@@ -206,6 +207,8 @@ index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..bda48fd84398474edd5324e03a574a15
    }
  }
  
++=======
++>>>>>>> what HEAD holds
 +=======
 +>>>>>>> what HEAD holds
  test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
