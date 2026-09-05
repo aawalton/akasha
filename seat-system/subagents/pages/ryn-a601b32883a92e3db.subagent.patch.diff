@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/initiatives/initiative.page-type.ts b/domains/initiatives/initiative.page-type.ts
+index 1e3640560164cc00922519619eaca7790c5582b3..c345d6c01bd509c8fa0b11ab14c1f88d11fca7e1 100644
+--- a/domains/initiatives/initiative.page-type.ts
++++ b/domains/initiatives/initiative.page-type.ts
+@@ -63,7 +63,7 @@ export const initiative = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An initiative's purpose is done once every intent it holds is met.",
++      statement: "An initiative's purpose is done once every intent that initiative holds is met.",
+     },
+     {
+       invariantKind: "departure",
