@@ -1,3 +1,39 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts
+index 2dda512be859f06dccf225cd60c7fd717f05445e..daa810dfba41246d3e66ddfcfa265147f735ad3b 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts
+@@ -28,10 +28,6 @@ const PAGE_TYPE = "page-type"
+ 
+ const PACKAGE = "workspace-package"
+ 
+-const DOMAIN = "domain"
+-
+-const BESIDE = new Set<string>([DOMAIN, PACKAGE])
+-
+ const RECORD_PROPERTY = "record-property"
+ 
+ const PROPERTIES = "properties"
+@@ -277,18 +273,12 @@ function pluralOf(index: Answering, page: Held): string | null {
+   return value === null ? null : textAt(value, PLURAL_SLUG)
+ }
+ 
+-function besideOf(index: Answering, page: Held, beside: Held): boolean {
+-  const plural = pluralOf(index, page)
+-  if (plural === null) return false
+-  return BESIDE.has(String(beside.pageTypeSlug)) && beside.slug === plural
+-}
+-
+ export function pairedIn(index: Answering, pages: readonly Held[]): readonly Held[] {
+   const [one, two] = pages
+   if (one === undefined || pages.length > 2) return []
+   if (two === undefined) return [one]
+-  if (besideOf(index, one, two)) return [one, two]
+-  if (besideOf(index, two, one)) return [two, one]
++  if (two.pageTypeSlug === PACKAGE && two.slug === pluralOf(index, one)) return [one, two]
++  if (one.pageTypeSlug === PACKAGE && one.slug === pluralOf(index, two)) return [two, one]
+   return []
+ }
+ 
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
 index 5e7dad413e9f88e2f4241397a15e8152b1c622ee..c1f7a8db49b98a72246aef48125bdd93edafd24a 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
