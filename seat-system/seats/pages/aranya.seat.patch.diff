@@ -1199,3 +1199,11 @@ index c7174d2e4d22de59296d30de1a0f7286aa0cc2d6..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-chat-message
 \ No newline at end of file
+diff --git a/temper/temper-lib-custom-menu/temper-lib-custom-menu b/temper/temper-lib-custom-menu/temper-lib-custom-menu
+deleted file mode 120000
+index 193033dfda7cae471ea3731c530e0f19884255af..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-custom-menu/temper-lib-custom-menu
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-custom-menu
+\ No newline at end of file
