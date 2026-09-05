@@ -1,0 +1,13 @@
+diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+index 4ce9e9a3253b8a848e51ca88bd7af6e2bc67ca35..a3f97e185c1e1f0c95a9025ef10eee9a9541810b 100644
+--- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
++++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+@@ -12,7 +12,7 @@ export const blockBunTest = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A `bun test` made inside the checkout is refused whatever paths it names.",
++      statement: "A `bun test` made inside the checkout is refused whatever paths that call names.",
+     },
+     {
+       invariantKind: "departure",
