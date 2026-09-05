@@ -1,5 +1,5 @@
 diff --git a/commands/seat-transcripts/seat-transcripts.command.code.ts b/commands/seat-transcripts/seat-transcripts.command.code.ts
-index 3c1fc3d641b7e3f406869359af223d81296f5f34..6d09bb90a71e63d1fac970ff5f31b2b342b35733 100644
+index 3c1fc3d641b7e3f406869359af223d81296f5f34..18f4d9fd24a86837d9a29c8a2812d2cc2364b2d3 100644
 --- a/commands/seat-transcripts/seat-transcripts.command.code.ts
 +++ b/commands/seat-transcripts/seat-transcripts.command.code.ts
 @@ -12,14 +12,14 @@ export interface SeatTranscript {
@@ -19,6 +19,15 @@ index 3c1fc3d641b7e3f406869359af223d81296f5f34..6d09bb90a71e63d1fac970ff5f31b2b3
  // holding an empty one, is left out rather than answered with an empty path: an empty path names
  // a file, and the caller opening it would read the absence as a broken transcript rather than as
  // a seat that has none yet.
+@@ -36,7 +36,7 @@ export function transcriptsOver(
+   return found
+ }
+ 
+-// Every seat akasha holds at the moment of asking, each with where its transcript stands. A seat
++// Every seat akasha holds at the moment of asking, each with where its transcript is. A seat
+ // is named by the index and its transcript is read from the values kept beside its page, so a
+ // seat kept only in akasha is answered here like any other.
+ export function transcriptsNow(): readonly SeatTranscript[] {
 diff --git a/commands/seat-transcripts/seat-transcripts.command.test.ts b/commands/seat-transcripts/seat-transcripts.command.test.ts
 index a00d8438d01e8d9f02b25d0ceba609cf3b273028..b141d0588b48bf9193af90eb07e33541c6e1408c 100644
 --- a/commands/seat-transcripts/seat-transcripts.command.test.ts
@@ -55,7 +64,7 @@ index 44f3e2ed084a0e108008637984ca214d3b53259f..6c4f8eab1ef8516d668c3f84bc146a01
      "a transcript is read from the values kept beside a seat's page rather than from the page itself.",
      "a seat holding no transcript, or holding an empty one, is left out rather than answered with an empty path.",
 diff --git a/commands/zimage/zimage.command.code.ts b/commands/zimage/zimage.command.code.ts
-index ac782f454da194a7abcba83cdd3ab05a2289e12e..16b6bedc0dd929b07ba1b10d2fab2a60b2465d51 100644
+index ac782f454da194a7abcba83cdd3ab05a2289e12e..0bf6f6ea8b9995df92ecb6c43c1da9b3a4bed80d 100644
 --- a/commands/zimage/zimage.command.code.ts
 +++ b/commands/zimage/zimage.command.code.ts
 @@ -203,8 +203,8 @@ async function staged(
@@ -78,6 +87,15 @@ index ac782f454da194a7abcba83cdd3ab05a2289e12e..16b6bedc0dd929b07ba1b10d2fab2a60
    }
  
    const baseUrl = `http://127.0.0.1:${portIn()}`
+@@ -283,7 +283,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
+   const png = await fetchImage(baseUrl, run.image)
+   await mkdir(dirname(outPath), { recursive: true })
+   await writeFile(outPath, png)
+-  report.push(`${png.byteLength} bytes stand at ${outPath}, at seed ${seed}`)
++  report.push(`${png.byteLength} bytes are at ${outPath}, at seed ${seed}`)
+   return { report, refusals: [], code: 0 }
+ }
+ 
 diff --git a/commands/zimage/zimage.command.test.ts b/commands/zimage/zimage.command.test.ts
 index b9f8bbc6071378258e59736a78ec95e1802c007a..1a3655994945ab2bb2550527b2bcc23aeef8f4b3 100644
 --- a/commands/zimage/zimage.command.test.ts
