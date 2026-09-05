@@ -1,0 +1,116 @@
+diff --git a/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts b/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts
+index 9780657c2664ac256f5858900a1a41db8f7edcef..2b6913892e8bf4c18f764f003062feb1d4edbbbd 100644
+--- a/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts
++++ b/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts
+@@ -1,7 +1,10 @@
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { callSeatAt, type SeatCall, seatCallIn } from "@akasha/seat-system/supervisor-seat-defaults"
+-import { SEAT_COMMAND_REL } from "@akasha/seat-system/terminal-seat-stating"
+-import { ASSIGNMENTS, ATTRIBUTES } from "../seat-attributes/seat-attributes.module.code.ts"
++import { akashaRoot } from "@akasha/pages-system/checkout-roots"
++import {
++  ASSIGNMENTS,
++  ATTRIBUTES,
++  type Declaration,
++} from "../seat-attributes/seat-attributes.module.code.ts"
++import { resolveAttributes, scan } from "../seat-resolve/seat-resolve.module.code.ts"
+ 
+ export interface StatedIdentity {
+   readonly persona?: string
+@@ -9,31 +12,36 @@ export interface StatedIdentity {
+   readonly role?: string
+ }
+ 
+-/** The call that checks what was stated, or null where nothing was stated to check. */
+-export function resolveCall(stated: StatedIdentity): SeatCall | null {
++/** The slots a seat named, or null where it named none to check. */
++export function resolveCall(stated: StatedIdentity): Partial<Record<Declaration, string>> | null {
+   const held = stated as Readonly<Record<string, unknown>>
+-  const slots: Record<string, string> = {}
++  const slots: Partial<Record<Declaration, string>> = {}
+   for (const key of [...ATTRIBUTES, ...ASSIGNMENTS]) {
+     const slug = held[key]
+     if (typeof slug === "string") slots[key] = slug
+   }
+   if (Object.keys(slots).length === 0) return null
+-  return { ...slots, resolve: true }
++  return slots
+ }
+ 
+-/** The refusal a stated identity earns, or null where it checks out or states nothing. */
+-export async function resolveStatedIdentity(stated: StatedIdentity): Promise<string | null> {
+-  const call = resolveCall(stated)
+-  if (call === null) return null
+-  const entry = seatCallIn(rootFor(resolveRoots(), AKASHA))
+-  if (entry === null) {
+-    return (
+-      `an identity was stated, and ${SEAT_COMMAND_REL} is what checks a slug against ` +
+-      "the pages. It is not there, so the seat would boot holding none of what was named."
++/** The refusal what a seat named earns, or null where it checks out or names nothing. */
++export function resolveStatedIdentity(stated: StatedIdentity): Promise<string | null> {
++  const slots = resolveCall(stated)
++  if (slots === null) return Promise.resolve(null)
++  const pages = akashaRoot()
++  let resolved: ReturnType<typeof resolveAttributes>
++  try {
++    resolved = resolveAttributes(slots, [], pages, scan(pages))
++  } catch (error) {
++    const said = error instanceof Error ? error.message : String(error)
++    return Promise.resolve(
++      "attributes were named, and checking a slug against the pages is what says whether a " +
++        `page holds it. That could not be done (${said}), so the seat would boot holding none ` +
++        "of what was named."
+     )
+   }
+-  const outcome = await callSeatAt(entry, call)
+-  if (outcome.code === 0) return null
+-  const said = outcome.stderr.trim()
+-  return said === "" ? `${entry} refused the stated identity` : said
++  if (!("refusals" in resolved)) return Promise.resolve(null)
++  return Promise.resolve(
++    ["refused:", ...resolved.refusals.map((one) => `  ${one}`), "nothing was resolved"].join("\n")
++  )
+ }
+diff --git a/seat-system/seat-stated-identity/seat-stated-identity.module.ts b/seat-system/seat-stated-identity/seat-stated-identity.module.ts
+index 738e90cde4f6c3d664bc8d3fee8c7d921e432b3b..ccc66c54e848cc854bb6e08afd7e149caf0cdb4e 100644
+--- a/seat-system/seat-stated-identity/seat-stated-identity.module.ts
++++ b/seat-system/seat-stated-identity/seat-stated-identity.module.ts
+@@ -18,7 +18,7 @@ export const seatStatedIdentity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the checking command said is what the caller is told.",
++      statement: "What the resolving function refused with is what the caller is told.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/seat-system/supervising/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts b/seat-system/supervising/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts
+index 1e77389e7d1ccb6be8220d266ebb090307af188a..b1da2b576352635074408dbe52b7617ed530fd94 100644
+--- a/seat-system/supervising/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts
++++ b/seat-system/supervising/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts
+@@ -66,25 +66,6 @@ export async function callSeatAt(entry: string, call: SeatCall): Promise<SeatCal
+   return { code, stdout, stderr }
+ }
+ 
+-export function parseDefaultLines(stdout: string): Readonly<Record<string, string>> {
+-  const defaults: Record<string, string> = {}
+-  for (const line of stdout.split("\n")) {
+-    const at = line.indexOf("=")
+-    if (at <= 0) continue
+-    const slug = line.slice(at + 1).trim()
+-    if (slug !== "") defaults[line.slice(0, at).trim()] = slug
+-  }
+-  return defaults
+-}
+-
+-export async function declaredDefaults(): Promise<Readonly<Record<string, string>>> {
+-  const entry = seatCallIn(rootFor(resolveRoots(), AKASHA))
+-  if (entry === null) return {}
+-  const outcome = await callSeatAt(entry, { resolve: true, default: true })
+-  if (outcome.code !== 0) return {}
+-  return parseDefaultLines(outcome.stdout)
+-}
+-
+ export function defaultSeatCall(agentId: string, mode: SeatMode): SeatCall {
+   return { agent: agentId, mode, default: true, onCall: mode === "interactive" }
+ }
