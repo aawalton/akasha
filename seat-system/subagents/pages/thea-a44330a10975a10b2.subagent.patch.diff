@@ -57,6 +57,47 @@ index 86e6aa4735f9e796d3067bd11de63c138d3fabd0..57dc81571e5ea72afcafed8573662e53
    }
    return {
      code,
+diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
+index 3af745cffc9caef37f047a4b9f29c26f4487fd39..db32f7706cb0c57d896db2abc51a4cad2429593f 100644
+--- a/code-system/code-tests/code-tests.module.test.ts
++++ b/code-system/code-tests/code-tests.module.test.ts
+@@ -13,6 +13,8 @@ import { readingIn } from "@akasha/indexes"
+ import { linesFiled } from "@akasha/indexes/testing"
+ import {
+   alreadyRunning,
++  BATCH,
++  batchedOf,
+   CARRIED,
+   groupedBy,
+   plain,
+@@ -374,6 +376,27 @@ check("the bunfig.toml at the root is left to the runner rather than handed over
+   expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
+ })
+ 
++check("a list past one batch is parted into batches, and nothing is lost", () => {
++  expect(batchedOf([])).toEqual([[]])
++  const named = Array.from({ length: BATCH * 2 + 1 }, (one, at) => `${at}.test.ts`)
++  const batches = batchedOf(named)
++  expect(batches.length).toBe(3)
++  expect(batches[0]?.length).toBe(BATCH)
++  expect(batches[2]?.length).toBe(1)
++  expect(batches.flat()).toEqual(named)
++})
++
++check("a group past one batch is run as several, and the counts are the sum", () => {
++  const held: Record<string, string> = {}
++  const many = BATCH + 5
++  for (let at = 0; at < many; at += 1) held[`one-${at}.test.ts`] = PASSES
++  const done = ranOver(repo(held), ["akasha"], many)
++  expect(plain(done.output).match(/Ran \d+ tests across \d+ files/g)?.length).toBe(2)
++  expect(done.summary.files).toBe(many)
++  expect(done.summary.passed).toBe(many)
++  expect(done.verdict).toBe("pass")
++})
++
+ check("a path named twice over is run once", () => {
+   const root = repo({ "one.test.ts": PASSES })
+   expect(groupedBy(root, ["akasha", "akasha/one.test.ts"])).toEqual([
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
 index b0d944769afb9f38f8e2a7cf4f80cb7a84671c8f..02faa8922acb7aec9c8f91c48ab4498ca426dfc5 100644
 --- a/code-system/code-tests/code-tests.module.ts
