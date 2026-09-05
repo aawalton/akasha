@@ -1,5 +1,5 @@
 diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
-index daebce705f8eff03365bf44acab96b07526acb76..f67da6ef1aa67b0a579a6f8a37a9c01a7cdc72f3 100644
+index daebce705f8eff03365bf44acab96b07526acb76..fb14630ec25e250c188144dcfff885cc60119a82 100644
 --- a/pages/views/view.page-type.ts
 +++ b/pages/views/view.page-type.ts
 @@ -102,7 +102,7 @@ export const view = {
@@ -8,6 +8,15 @@ index daebce705f8eff03365bf44acab96b07526acb76..f67da6ef1aa67b0a579a6f8a37a9c01a
        invariantKind: "departure",
 -      statement: "A view belongs to the nav item that owns it and is drawn nowhere else.",
 +      statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
+     },
+     {
+       invariantKind: "departure",
+@@ -112,7 +112,7 @@ export const view = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A view carries the order its properties are shown in, the hidden ones among them.",
++        "A view carries the order its properties are shown in, the hidden ones among those properties.",
      },
      {
        invariantKind: "departure",
