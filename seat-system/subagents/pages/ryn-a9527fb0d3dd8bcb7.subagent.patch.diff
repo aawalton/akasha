@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/landing-reading/landing-reading.module.ts b/command-system/landing-reading/landing-reading.module.ts
+index e2d3a2c7f6c347493f1941375f5dce3f9394063f..5908c78c24d03000dabf72e41a37b00be95580c2 100644
+--- a/command-system/landing-reading/landing-reading.module.ts
++++ b/command-system/landing-reading/landing-reading.module.ts
+@@ -21,7 +21,7 @@ export const landingReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body is recorded as it landed rather than as it was handed in.",
++      statement: "A body is recorded as that body landed rather than as that body was handed in.",
+     },
+     {
+       invariantKind: "departure",
