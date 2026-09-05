@@ -17,7 +17,7 @@ export const rulePopulationSweep = {
     {
       invariantKind: "departure",
       statement:
-        "A rule's population is what it weighed, never what it found, the two meeting at zero.",
+        "A rule's population is what that rule weighed, never what that rule found, the two meeting at zero.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,8 @@ export const rulePopulationSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "No graph cache is read, so the population is the checkout as it now is.",
+      statement:
+        "No graph cache is read, so the population is the checkout as that checkout now is.",
     },
   ],
 } as const satisfies WorkstationService
