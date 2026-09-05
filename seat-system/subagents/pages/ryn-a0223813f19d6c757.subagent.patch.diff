@@ -62,3 +62,19 @@ index 4e1776bfa9b59a305c9fff57e77aff1b95326c1a..ff03e912998f9c7ea8de33d9f2ec2ef0
      {
        invariantKind: "absence",
        statement: "Nothing here reads a stoplight or a usage figure.",
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index a933a716cc576c79420072a415a1229c9e33a79e..cfe03623fef7fe3804ab4eb4df1155271fcfa57f 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -37,10 +37,7 @@ export const workTreePanel = {
+       invariantKind: "departure",
+       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No timer starts a drawing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "No watcher on a seat file or an initiative file is registered here.",
