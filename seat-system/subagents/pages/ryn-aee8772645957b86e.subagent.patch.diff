@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/queries/properties/narrows.record-property.ts b/pages/queries/properties/narrows.record-property.ts
+index 8b32445ad0737787808462b9c4951096e6b2737e..5d65e7d38b2335848ed20bf9eb5237a85f9f55cd 100644
+--- a/pages/queries/properties/narrows.record-property.ts
++++ b/pages/queries/properties/narrows.record-property.ts
+@@ -31,7 +31,7 @@ export const narrows = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A query stating no narrow asks of every page of its type and of every type extending it.",
++        "A query stating no narrow asks of every page of its type and of every type extending that type.",
+     },
+     {
+       invariantKind: "departure",
