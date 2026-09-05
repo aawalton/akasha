@@ -1,8 +1,8 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.test.ts
-index 003d3a8d1b4641a9d0570b5e56e7dae4a4027b4c..347d7cefe6bf1230cad436ec0289d15acc1817d0 100644
+index 003d3a8d1b4641a9d0570b5e56e7dae4a4027b4c..cbda5d042ff3a514e7f702b7f07ab6ac8690bab7 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.test.ts
-@@ -34,13 +34,13 @@ test("a read whose failure falls out of the catch is refused", () => {
+@@ -34,19 +34,19 @@ test("a read whose failure falls out of the catch is refused", () => {
    expect(found[0]?.reason).toContain("rounds up to clean")
  })
  
@@ -18,6 +18,13 @@ index 003d3a8d1b4641a9d0570b5e56e7dae4a4027b4c..347d7cefe6bf1230cad436ec0289d15a
    const body =
      "function one(l: Change) { try { return readFileSync(l.root) } catch { process.exit(1) } }\n"
    expect(walking(body)).toEqual([])
+ })
+ 
+-test("a catch calling a function typed `never` stands", () => {
++test("a catch calling a function typed `never` is left", () => {
+   const body =
+     "function gone(why: string): never { throw new Error(why) }\n" +
+     'function one(l: Change) { try { return readFileSync(l.root) } catch { gone("no") } }\n'
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
 index 22bfab963599520f506f780b44a3ea718d834e03..befc0f7430d842d903c438a0498c12493c6fc606 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
