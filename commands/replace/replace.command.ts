@@ -46,7 +46,7 @@ export const replace = {
     },
     {
       invariantKind: "departure",
-      statement: "The file holding it nowhere is named in that refusal.",
+      statement: "The file holding the passage nowhere is named in that refusal.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +79,7 @@ export const replace = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage carries the trailing newline of the file naming it.",
+      statement: "A passage carries the trailing newline of the file naming that passage.",
     },
     {
       invariantKind: "departure",
@@ -115,7 +115,7 @@ export const replace = {
     },
     {
       invariantKind: "gap",
-      statement: "A caller learns which files hold a passage before changing any of them.",
+      statement: "A caller learns which files hold a passage before changing any of those files.",
     },
   ],
 } as const satisfies Command
