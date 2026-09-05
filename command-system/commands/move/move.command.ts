@@ -243,10 +243,7 @@ export const move = {
       invariantKind: "departure",
       statement: "A tracked file spelling a path that moves is repointed in the same commit.",
     },
-    {
-      invariantKind: "absence",
-      statement: "A file a machine writes is left out of that repointing.",
-    },
+
     {
       invariantKind: "departure",
       statement:
