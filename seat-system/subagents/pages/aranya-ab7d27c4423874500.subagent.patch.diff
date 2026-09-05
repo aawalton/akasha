@@ -1,3 +1,18 @@
+diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts
+index dacec26928d409651400b6bd9fad79aac870768d..1cb304032ebe6bd3de7b6b697f9f2df9ded934c7 100644
+--- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts
+@@ -247,8 +247,10 @@ function road(shown: string): readonly string[] {
+     `  akasha read --file-path ${shown}`,
+     `  akasha write --file-path ${shown} --content-file <body> --message "<what this is for>"`,
+     `  akasha remove --file-path ${shown} --message "<why this goes>"`,
++    `  akasha restore --file-path ${shown}`,
+     "",
+     "Write the body anywhere outside `akasha/` first — a shell write there is not refused.",
++    "A restore puts the path back as HEAD holds it, and is the route for undoing drift.",
+   ]
+ }
+ 
 diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
 index 6a98d4ca07dfbc877741d4b3a6f064087242cfec..0889744f0141c3c0bc462d8185be2817bb49bbdd 100644
 --- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
