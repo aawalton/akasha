@@ -285,3 +285,15 @@ index 8119d7e8573e40239258092786c2638f1d603c37..3c9e2001492dedca918733621c8f4767
 +    "./url-property": "./url-properties/url-property.page-type.ts"
    }
  }
+diff --git a/pages/page.workspace-package.ts b/pages/page.workspace-package.ts
+index ff1f079aaa2728b803859ab46ee2c037a48b50d6..8d5c96d86329d922ff95cde788c8650ed6fa21f0 100644
+--- a/pages/page.workspace-package.ts
++++ b/pages/page.workspace-package.ts
+@@ -15,6 +15,7 @@ export const page = {
+     "module/page-beside",
+     "module/page-body",
+     "module/page-entries",
++    "module/page-file-body",
+     "module/page-entry-landing",
+     "module/page-entry-queue",
+     "module/page-entry-writing",
