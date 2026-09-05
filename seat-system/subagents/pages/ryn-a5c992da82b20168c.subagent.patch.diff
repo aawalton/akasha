@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts b/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
+index 8c629df5ebdbe7cba7dd1d0f1638cd1d28f3893a..e576a52755a7399dfc34df356aa9eb2362b9ee00 100644
+--- a/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
++++ b/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
+@@ -61,7 +61,7 @@ export const deployWebPuttingUp = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A value the build needs is reported by its name rather than by what the value holds.",
++        "A value the build needs is reported by its name rather than by the text the value holds.",
+     },
+     {
+       invariantKind: "departure",
