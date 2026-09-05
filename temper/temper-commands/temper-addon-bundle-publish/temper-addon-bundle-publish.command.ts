@@ -38,7 +38,7 @@ export const temperAddonBundlePublish = {
     },
     {
       invariantKind: "departure",
-      statement: "The tag is written after the push rather than before it.",
+      statement: "The tag is written after the push rather than before that push.",
     },
     {
       invariantKind: "departure",
