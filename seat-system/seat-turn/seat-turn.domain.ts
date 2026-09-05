@@ -33,11 +33,11 @@ export const seatTurn = {
     },
     {
       invariantKind: "departure",
-      statement: "What a turn end keeps is observed rather than declared.",
+      statement: "The record a turn end keeps is observed rather than declared.",
     },
     {
       invariantKind: "departure",
-      statement: "What a turn end keeps is there only while its seat is idle.",
+      statement: "The record a turn end keeps is there only while its seat is idle.",
     },
     { invariantKind: "departure", statement: "A turn ending does not itself stop the seat." },
     { invariantKind: "departure", statement: "The halt guard may refuse a headless turn end." },
