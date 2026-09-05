@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/inventory-eval-env/inventory-eval-env.module.ts b/temper/temper-commands/inventory-eval-env/inventory-eval-env.module.ts
+index 0123ce8606f3dd179a173d0b525662688258f7f7..05a0becc4ecba1e87b6dacf6e9db9e451fb86b0d 100644
+--- a/temper/temper-commands/inventory-eval-env/inventory-eval-env.module.ts
++++ b/temper/temper-commands/inventory-eval-env/inventory-eval-env.module.ts
+@@ -10,7 +10,7 @@ export const inventoryEvalEnv = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What only the running game knows is answered unknown rather than guessed.",
++      statement: "A fact only the running game knows is answered unknown rather than guessed.",
+     },
+     {
+       invariantKind: "departure",
