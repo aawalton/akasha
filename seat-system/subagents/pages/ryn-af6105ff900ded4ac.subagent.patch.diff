@@ -1,3 +1,17 @@
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+index a7d6387750d124e93d74d1479cc354a4d15fde02..bf1e5617bada3460773a2553d5f6734fbf7e2964 100644
+--- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+@@ -30,9 +30,5 @@ export const renameExport = {
+       invariantKind: "departure",
+       statement: "A name imported under another name is left as that name is.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
+-    },
+   ],
+ } as const satisfies AtomicChange
 diff --git a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
 index ffad641479427a27b05a0eb325f3e7d4f2c40abf..9e0ff3a664deac48e87e84fdf3a629a879f9e818 100644
 --- a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
