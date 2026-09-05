@@ -29,7 +29,7 @@ export const agentForestReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The reasons are sorted and the first of them is named.",
+      statement: "The reasons are sorted and the first of those reasons is named.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const agentForestReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Dropping the answers drops the seat transcripts with them.",
+      statement: "Dropping the answers drops the seat transcripts with those answers.",
     },
     {
       invariantKind: "absence",
