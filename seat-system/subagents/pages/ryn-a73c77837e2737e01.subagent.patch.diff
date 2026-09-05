@@ -1,5 +1,5 @@
 diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
-index 845b7dd04338a430d0473c1db365ed4e7699ae38..27530b7929cac76ba6dd161b5d0324eb982fe4ad 100644
+index 845b7dd04338a430d0473c1db365ed4e7699ae38..6aca23fe20e6ce1d017d64b7f7ad6e733d55fe11 100644
 --- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
 +++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
 @@ -23,7 +23,7 @@ export const imessageCommandReading = {
@@ -20,7 +20,7 @@ index 845b7dd04338a430d0473c1db365ed4e7699ae38..27530b7929cac76ba6dd161b5d0324eb
      },
      {
        invariantKind: "departure",
-@@ -56,7 +56,7 @@ export const imessageCommandReading = {
+@@ -56,12 +56,12 @@ export const imessageCommandReading = {
      },
      {
        invariantKind: "departure",
@@ -29,3 +29,9 @@ index 845b7dd04338a430d0473c1db365ed4e7699ae38..27530b7929cac76ba6dd161b5d0324eb
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A fault thrown at the mac is answered as operational unless it names its own code.",
++        "A fault thrown at the mac is answered as operational unless that fault names its own code.",
+     },
+     {
+       invariantKind: "absence",
