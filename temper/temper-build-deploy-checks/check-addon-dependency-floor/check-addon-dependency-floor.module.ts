@@ -17,7 +17,8 @@ export const checkAddonDependencyFloor = {
     },
     {
       invariantKind: "constraint",
-      statement: "What the run declined to judge is reported beside what the run judged.",
+      statement:
+        "The add-ons the run declined to judge are reported beside the add-ons the run judged.",
     },
   ],
 } as const satisfies Module
