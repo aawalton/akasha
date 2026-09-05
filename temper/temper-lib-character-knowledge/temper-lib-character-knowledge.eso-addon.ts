@@ -57,7 +57,7 @@ export const temperLibCharacterKnowledge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What one character knows is kept as a bitfield over the whole item table.",
+      statement: "One character's knowledge is kept as a bitfield over the whole item table.",
     },
     {
       invariantKind: "departure",
