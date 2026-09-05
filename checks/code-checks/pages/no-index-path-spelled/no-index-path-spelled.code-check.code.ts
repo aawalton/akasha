@@ -14,7 +14,7 @@ const SEGMENTS = 3
 
 const MOST = 60
 
-const SAID = "where the index stands is said by `index-reading`, and asked of it rather than spelt"
+const SAID = "where the index sits is said by `index-reading`, and asked of it rather than spelt"
 
 function shortened(said: string): string {
   return said.length > MOST ? `${said.slice(0, MOST)}…` : said

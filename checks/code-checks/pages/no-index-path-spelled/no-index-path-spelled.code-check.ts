@@ -15,7 +15,7 @@ export const noIndexPathSpelled = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Where the index stands is asked of `index-reading` rather than spelt here.",
+      statement: "Where the index sits is asked of `index-reading` rather than spelt here.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const noIndexPathSpelled = {
     },
     {
       invariantKind: "departure",
-      statement: "Strings standing next to each other are read joined by a separator.",
+      statement: "Strings next to each other are read joined by a separator.",
     },
     {
       invariantKind: "absence",

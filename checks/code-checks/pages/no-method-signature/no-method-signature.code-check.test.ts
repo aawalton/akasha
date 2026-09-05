@@ -60,7 +60,7 @@ test("an optional method signature is a method signature", () => {
   expect(reasonsIn(given("akasha/held.ts", "type One = {\n  a?(): void\n}\n"))).toHaveLength(1)
 })
 
-test("a method signature in a type literal standing as a parameter type is judged", () => {
+test("a method signature in a type literal that is a parameter type is judged", () => {
   const body = "export function one(two: { a(): void }): void {\n  two.a()\n}\n"
   expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
 })

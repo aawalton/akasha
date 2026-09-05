@@ -34,7 +34,7 @@ test("asking the indexes folder for the path leaves nothing to refuse", () => {
   expect(reasonsIn(given(HELD, body))).toEqual([])
 })
 
-test("the guarded root is not the index, so a guard naming `.git/data` stands", () => {
+test("the guarded root is not the index, so a guard naming `.git/data` is let through", () => {
   const body = 'const INDEX = join(".git", "data")\nconst bound = "`.git/data` is refused here."\n'
   expect(reasonsIn(given(HELD, body))).toEqual([])
 })
@@ -49,7 +49,7 @@ test("each spelling is named on its own", () => {
 })
 
 test("a long string carrying the path is shortened where the refusal names it", () => {
-  const why = `nothing at all stands under ${AT}/identity/page/id, so the index answered nothing`
+  const why = `nothing at all is under ${AT}/identity/page/id, so the index answered nothing`
   const said = reasonsIn(given(HELD, `const why = "${why}"\n`))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("…")

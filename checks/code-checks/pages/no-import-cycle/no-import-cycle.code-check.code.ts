@@ -113,7 +113,7 @@ export function reasonFor(at: string, held: readonly string[]): string {
     .map((one) => `\`${one}\``)
     .join(", ")
   const rest = others.length > SHOWN ? `, and ${others.length - SHOWN} more` : ""
-  return `stands in a cycle reaching ${first}${rest} — ${ITSELF}`
+  return `sits in a cycle reaching ${first}${rest} — ${ITSELF}`
 }
 
 function refusalsIn(change: Change): readonly Judged[] {

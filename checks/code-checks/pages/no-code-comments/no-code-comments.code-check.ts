@@ -18,7 +18,7 @@ export const noCodeComments = {
     },
     {
       invariantKind: "absence",
-      statement: "A form only another language parses stands for nothing here.",
+      statement: "A form only another language parses represents nothing here.",
     },
     {
       invariantKind: "departure",

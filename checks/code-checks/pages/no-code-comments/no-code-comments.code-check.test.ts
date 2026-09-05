@@ -10,7 +10,7 @@ test("a file carrying no comment is let through", () => {
   expect(reasonsIn(given('export const one = "held"\n'))).toEqual([])
 })
 
-test("a line of prose is refused, and names the line it stands on", () => {
+test("a line of prose is refused, and names the line it sits on", () => {
   const body = ["export const one = 1", "// this holds the count", "export const two = 2"].join(
     "\n"
   )
@@ -37,7 +37,7 @@ test("a declared form is let through", () => {
   expect(reasonsIn(given(`${body}\n`))).toEqual([])
 })
 
-test("a form another language parses stands for nothing in a TypeScript folder", () => {
+test("a form another language parses represents nothing in a TypeScript folder", () => {
   const body = ["// shellcheck disable=SC2086", "// @noSelfInFile", "export const one = 1"].join(
     "\n"
   )
@@ -71,7 +71,7 @@ test("a comment trailing code on the same line is found", () => {
   expect(said[0]).toContain("line 1")
 })
 
-test("a comment standing after the last statement is found", () => {
+test("a comment after the last statement is found", () => {
   const said = reasonsIn(given("export const one = 1\n// nothing follows this\n"))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 2")
@@ -83,7 +83,7 @@ test("a shebang on the first line is trivia rather than a comment", () => {
   expect(reasonsIn(given(body))).toEqual([])
 })
 
-test("a form is let through only where it stands alone, never buried in prose", () => {
+test("a form is let through only where it is alone, never buried in prose", () => {
   const body =
     "/*\n * @deprecated use the other one\n * and this line is prose\n */\nexport const one = 1\n"
   expect(reasonsIn(given(body))).toHaveLength(1)
@@ -121,7 +121,7 @@ test("a stylesheet carrying no comment is let through", () => {
   expect(reasonsIn(dressed(".held {\n  color: red;\n}\n"))).toEqual([])
 })
 
-test("prose in a stylesheet is refused, and names the line it stands on", () => {
+test("prose in a stylesheet is refused, and names the line it sits on", () => {
   const body = [".held {", "  /* this holds the color */", "  color: red;", "}"].join("\n")
   const said = reasonsIn(dressed(`${body}\n`))
   expect(said).toHaveLength(1)
@@ -135,7 +135,7 @@ test("a block of prose in a stylesheet is refused once rather than once a line",
   expect(said[0]).toContain("line 1")
 })
 
-test("a comment standing after a stylesheet rule names the line it stands on", () => {
+test("a comment after a stylesheet rule names the line it sits on", () => {
   const said = reasonsIn(dressed(".held {\n  color: red;\n}\n/* nothing follows */\n"))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 4")

@@ -38,7 +38,7 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file standing in a cycle is refused by its own path.",
+      statement: "Every file in a cycle is refused by its own path.",
     },
     {
       invariantKind: "departure",

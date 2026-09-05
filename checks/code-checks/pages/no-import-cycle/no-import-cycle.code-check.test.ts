@@ -120,7 +120,7 @@ test("a cycle of three names the two others it reaches", () => {
   expect(said[0]?.reason).toContain("`akasha/two.ts`")
 })
 
-test("an import written inside a string stands for nothing", () => {
+test("an import written inside a string represents nothing", () => {
   const body = "const said = 'import { one } from \"./one.ts\"'\n\nexport const two = said\n"
   expect(
     pathsRefused({
