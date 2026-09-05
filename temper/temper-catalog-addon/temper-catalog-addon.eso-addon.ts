@@ -35,7 +35,7 @@ export const temperCatalogAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "A game version different from the saved one clears every catalog.",
+      statement: "A game version different from the saved one empties every catalog first.",
     },
     {
       invariantKind: "departure",
