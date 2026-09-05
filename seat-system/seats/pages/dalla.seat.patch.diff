@@ -1,3 +1,15 @@
+diff --git a/changes/change.domain.ts b/changes/change.domain.ts
+index 3d95490f96f550a93c30c6ba028a6d48eb367eb8..15c7a1bb7bf5d384cd5ec1bbc8becd45c4fd2447 100644
+--- a/changes/change.domain.ts
++++ b/changes/change.domain.ts
+@@ -8,6 +8,7 @@ export const change = {
+   pluralSlug: "changes",
+   partSlugs: [
+     "page-type/atomic-change",
++    "page-type/refactor-change",
+     "page-type/workflow-template",
+     "page-type/change-kind",
+     "workspace-package/workflow-language",
 diff --git a/changes/refactor-changes/refactor-change.page-type.ts b/changes/refactor-changes/refactor-change.page-type.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..62597741055923d479176146ad02ad70469e1a61
