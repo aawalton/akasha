@@ -1407,3 +1407,11 @@ index 97b70c302b7f7255b0f16f646c249dbc33746711..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-navigation-addon
 \ No newline at end of file
+diff --git a/temper/temper-player-completion-skills-morphs-ui/temper-player-completion-skills-morphs-ui b/temper/temper-player-completion-skills-morphs-ui/temper-player-completion-skills-morphs-ui
+deleted file mode 120000
+index 57ab9174d8b4bf5a8ffa74ff5caa959cc88c8ba1..0000000000000000000000000000000000000000
+--- a/temper/temper-player-completion-skills-morphs-ui/temper-player-completion-skills-morphs-ui
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-player-completion-skills-morphs-ui
+\ No newline at end of file
