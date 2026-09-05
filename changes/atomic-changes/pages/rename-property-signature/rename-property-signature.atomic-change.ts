@@ -51,8 +51,9 @@ export const renamePropertySignature = {
       statement: "A class member implementing the renamed property is not respelled.",
     },
     {
-      invariantKind: "gap",
-      statement: "A file reaching the type through a re-export is out of reach.",
+      invariantKind: "constraint",
+      statement:
+        "A body reaching the type through a re-export is out of reach, and `no-re-export` bars one.",
     },
   ],
 } as const satisfies AtomicChange
