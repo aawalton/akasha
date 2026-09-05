@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
-index 7146397adbe4fe5b246e172063825e660d61811b..8636966b689f694eef9faaa3415a5960debf6f54 100644
+index 7146397adbe4fe5b246e172063825e660d61811b..147c25dd6d22161aa4e1aaebe7f24386ef1cfc97 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
 @@ -11,6 +11,8 @@ import {
@@ -22,6 +22,15 @@ index 7146397adbe4fe5b246e172063825e660d61811b..8636966b689f694eef9faaa3415a5960
  const CONFIG_NAME = "tsconfig.typecheck.json"
  
  const TYPES_AT = "node_modules/@types"
+@@ -53,7 +59,7 @@ const SETTINGS = {
+   module: "preserve",
+   moduleResolution: "bundler",
+   target: "esnext",
+-  skipLibCheck: true,
++  skipLibCheck: false,
+   jsx: "react-jsx",
+ } as const
+ 
 @@ -214,11 +220,38 @@ export function foundOf(root: string, said: Diagnosed): Found {
    }
  }
