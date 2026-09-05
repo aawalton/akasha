@@ -9,23 +9,6 @@ index 0000000000000000000000000000000000000000..2bcde6688d9e1117926b311ebea81500
 +export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
 +  return [{ name: "cronjob-gc", yaml: cronjobGcYaml() }]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index 96f62d8e6d2c614317288aec14d2933afc48edd2..f27397bd16f4a883b1908feae0da34b15c7c7c4a 100644
---- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -41,8 +41,12 @@ index 61816fe79007f40118ece3ab8b2e3b4b6a7806b9..7d1c42cb4d88871ea17cd4a2bf3e0acd
-    image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
-    schedule: "0 4 * * *",
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/container-registries/registry-gc/registry-gc.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "registry-gc",
- +=======
- +  manifestCode: "infrastructure/container-registries/registry-gc/registry-gc.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 2bcde6688d9e1117926b311ebea815001815610b..0000000000000000000000000000000000000000
