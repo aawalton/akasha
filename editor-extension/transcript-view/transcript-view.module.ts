@@ -61,6 +61,23 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Where the transcript is, is asked for once and then only where it can have moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name moving beside the transcript is what says the transcript may have moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change naming no file at all is taken as a move that may have happened.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change under the subagents folder says nothing about where the transcript is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder that is not there yet is watched once the next read finds it.",
     },
     {

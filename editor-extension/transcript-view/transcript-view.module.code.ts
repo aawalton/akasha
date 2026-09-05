@@ -1,5 +1,5 @@
 import { type FSWatcher, watch } from "node:fs"
-import { dirname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import * as vscode from "vscode"
 import { renderEntries } from "../transcript-drawing/transcript-drawing.module.code.ts"
 import type { Entry } from "../transcript-model/transcript-model.module.code.ts"
@@ -70,11 +70,23 @@ export function openTranscriptPanel(
     return undefined
   }
 
+  // WHERE THE TRANSCRIPT IS COSTS A CHILD PROCESS, SO IT IS ASKED FOR ONLY WHERE IT CAN HAVE
+  // MOVED. An append changes the file already being read and moves nothing, while a rotation
+  // writes a file beside it under a name of its own. So the answer is asked for again only where
+  // the folder holding the transcript raises a name other than the one in hand, and where it
+  // raises no name at all, which some hosts do: a rotation gone unnoticed would freeze this
+  // panel on a file nothing writes to any more.
+  let owedResolve = true
+
   const resolvePath = async (): Promise<string | null> => {
-    if (target.agentId !== undefined) {
-      return (await seatTranscriptOf(target.agentId))?.transcriptPath ?? null
+    if (target.agentId === undefined) {
+      return target.transcriptPath ?? null
     }
-    return target.transcriptPath ?? null
+    if (!owedResolve && state.transcriptPath !== null) {
+      return state.transcriptPath
+    }
+    owedResolve = false
+    return (await seatTranscriptOf(target.agentId))?.transcriptPath ?? null
   }
 
   // THE FOLDERS THIS PANEL IS FED BY. A transcript is appended to rather than replaced, so the
@@ -87,13 +99,26 @@ export function openTranscriptPanel(
   const watching = new Set<string>()
   const watchers: FSWatcher[] = []
 
-  const watchFolder = (folder: string): undefined => {
+  const rotationIn = (name: string | null): undefined => {
+    const held = state.transcriptPath
+    if (name === null || held === null || name !== basename(held)) {
+      owedResolve = true
+    }
+    return undefined
+  }
+
+  const watchFolder = (folder: string, rotates: boolean): undefined => {
     if (watching.has(folder)) {
       return undefined
     }
     let watcher: FSWatcher
     try {
-      watcher = watch(folder, () => void tick())
+      watcher = watch(folder, (_event, name) => {
+        if (rotates) {
+          rotationIn(name)
+        }
+        void tick()
+      })
     } catch {
       return undefined
     }
@@ -121,8 +146,8 @@ export function openTranscriptPanel(
       void panel.webview.postMessage({ kind: "reset" })
     }
 
-    watchFolder(dirname(transcriptPath))
-    watchFolder(join(transcriptPath.replace(/\.jsonl$/, ""), "subagents"))
+    watchFolder(dirname(transcriptPath), true)
+    watchFolder(join(transcriptPath.replace(/\.jsonl$/, ""), "subagents"), false)
 
     const began = Date.now()
     const read = await reader.read(transcriptPath)
