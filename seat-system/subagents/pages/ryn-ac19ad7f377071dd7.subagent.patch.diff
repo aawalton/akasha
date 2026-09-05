@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.ts b/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.ts
+index e897bb9b7785aca58dfbc573d20291ce23787a79..921a63b56e54d9ca21a6719bd7ec3128718f10a4 100644
+--- a/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.ts
++++ b/temper/temper-commands/temper-addon-resolve/temper-addon-resolve.command.ts
+@@ -17,7 +17,6 @@ export const temperAddonResolve = {
+   ],
+   helpNotes: [
+     "a canonical name, a flat directory leaf and a nested parent domain all reach the same addon.",
+-    "a name reaching no addon is refused by name.",
+     "the resolver answers a folder path even for a name no addon carries, so the resolver's answer is checked against the roster first.",
+   ],
+   invariants: [
