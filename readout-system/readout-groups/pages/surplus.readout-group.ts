@@ -8,7 +8,7 @@ export const surplus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is what the night held less what the day spent.",
+      statement: "The reading is the hours the night held less the hours the day spent.",
     },
   ],
 } as const satisfies ReadoutGroup
