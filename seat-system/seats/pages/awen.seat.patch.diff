@@ -36,7 +36,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..296cc88df2a8bc83d598d06b8ee4d19d
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..65a2b9cccea182a1d6d22393e2b2f007f89fe753 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..c1f825e62100418e60f933d6d5233d506bab6655 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -102,3 +102,17 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..65a2b9cccea182a1d6d22393e2b2f007
    const said = await judged(
      change(root, {
        "akasha/a.ts": "export const a = 10\n",
+@@ -261,12 +281,7 @@ test("a folder holding no TypeScript is judged clean without a program being bui
+ })
+ 
+ test("the files compiled are the change and everything importing it, however far", () => {
+-  const root = staged({
+-    "akasha/one.ts": "export const one = 1\n",
+-    "akasha/deep/two.ts": 'import { one } from "../one.ts"\nexport const two = one\n',
+-    "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
+-    "akasha/apart.ts": "export const apart = 1\n",
+-  })
++  const root = deep()
+   expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+     "akasha/deep/three.ts",
+     "akasha/deep/two.ts",
