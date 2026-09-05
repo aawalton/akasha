@@ -3,7 +3,7 @@ import { chmodSync, existsSync, mkdirSync, symlinkSync, writeFileSync } from "no
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { landing } from "../landing/landing.module.code.ts"
-import { ADMITS, bytes } from "../landing/landing.module.test-fixtures.ts"
+import { ADMITS, bytes, edged } from "../landing/landing.module.test-fixtures.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { AUTHOR, committed, whileIndexFrees } from "./committing.module.code.ts"
 
@@ -180,12 +180,12 @@ test("a path that is no plain file keeps the mode HEAD recorded for it", () => {
   expect(landedMode(root, "link")).toBe("120000")
 })
 
-test("a path a change takes away leaves the modes of the paths beside it alone", () => {
-  const root = repoWith({ "a/run.sh": "one", "a/gone.txt": "one" })
+test("a path a change takes away leaves the modes of the paths beside it alone", async () => {
+  const root = await edged({ "a/run.sh": "one", "a/gone.txt": "one" })
   chmodSync(join(root, "a/run.sh"), 0o755)
   tookAnother(root, "a/run.sh")
   expect(landedMode(root, "a/run.sh")).toBe("100755")
-  const said = landing(root, [{ path: "a/gone.txt", body: null }], "held", ADMITS)
+  const said = await landing(root, [{ path: "a/gone.txt", body: null }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "a/run.sh")).toBe("100755")
 })
