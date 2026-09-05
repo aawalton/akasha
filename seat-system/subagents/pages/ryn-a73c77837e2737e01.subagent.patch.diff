@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
+index e3b4c6f49c419d8c0cec6f6d3e434a7d2f765c3d..273b4a4fbefb1d9359d5d800b7191eef9fe543fa 100644
+--- a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
++++ b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
+@@ -10,7 +10,7 @@ export const movementStanding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A movement is named once however many sets it has.",
++      statement: "A movement is named once however many sets that movement has.",
+     },
+     {
+       invariantKind: "departure",
