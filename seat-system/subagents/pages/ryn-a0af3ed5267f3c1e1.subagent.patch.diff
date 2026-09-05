@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-page-akasha/seat-page-akasha.module.ts b/seat-system/seat-page-akasha/seat-page-akasha.module.ts
+index 6a83a276cb22a9f3101ef43d4bfcc8a04e4f0f25..51597a00c1d9201b2ebeb4bf24733ec91b0c48f5 100644
+--- a/seat-system/seat-page-akasha/seat-page-akasha.module.ts
++++ b/seat-system/seat-page-akasha/seat-page-akasha.module.ts
+@@ -30,7 +30,7 @@ export const seatPageAkasha = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A write that was refused carries what was said as its detail.",
++      statement: "A write that was refused carries the refusal's words as its detail.",
+     },
+   ],
+ } as const satisfies Module
