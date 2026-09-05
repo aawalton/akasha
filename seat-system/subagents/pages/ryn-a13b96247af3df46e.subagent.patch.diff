@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-session-rename/seat-session-rename.module.ts b/seat-system/seat-session-rename/seat-session-rename.module.ts
+index 44dc9313369ab840bfc9219b72b15411faf5b16d..ea494d15295f20b4217f5cfd80f0ebeed76a58e3 100644
+--- a/seat-system/seat-session-rename/seat-session-rename.module.ts
++++ b/seat-system/seat-session-rename/seat-session-rename.module.ts
+@@ -26,7 +26,7 @@ export const seatSessionRename = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rename that leaves the seat where it was says nothing.",
++      statement: "A rename that leaves the seat where that seat was says nothing.",
+     },
+   ],
+ } as const satisfies Module
