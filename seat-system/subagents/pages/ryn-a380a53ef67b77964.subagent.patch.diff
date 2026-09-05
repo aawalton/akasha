@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-lint/code-lint.module.ts b/code-system/code-lint/code-lint.module.ts
+index 1b1059a797c9b150392e8e597e7e2c366b85c582..952bec9c9ff25d035056c16cbd3af63f696ef6f4 100644
+--- a/code-system/code-lint/code-lint.module.ts
++++ b/code-system/code-lint/code-lint.module.ts
+@@ -11,7 +11,7 @@ export const codeLint = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A run's answer carries what the run exited.",
++      statement: "A run's answer carries the code the run exited with.",
+     },
+     {
+       invariantKind: "departure",
