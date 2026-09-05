@@ -1,5 +1,5 @@
 diff --git a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
-index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..716960733ef7a324931154c1d20889530ca331e4 100644
+index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..ffe670b6f7faf20c355b2ab4b0eff01b6872fccb 100644
 --- a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 +++ b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 @@ -3,8 +3,7 @@ import { dirname, join } from "node:path"
@@ -23,6 +23,19 @@ index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..716960733ef7a324931154c1d2088953
  export function agentIdFor(at: number, salt: number): string {
    return `${AGENT_PREFIX}${at.toString(36)}-${salt.toString(36)}`
  }
+@@ -86,11 +81,7 @@ export function saidOf(started: Started): readonly string[] {
+   ]
+ }
+ 
+-export async function startedOn(
+-  root: string,
+-  asked: Asked,
+-  seams: RunSeams
+-): Promise<Started | string> {
++export async function startedOn(asked: Asked, seams: RunSeams): Promise<Started | string> {
+   const seat = seams.seatOf(asked.agentId)
+   if (seat !== null) {
+     return (
 diff --git a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts b/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
 index 1cdef3e6e9c483340a7524b8e242263c8a3eac92..3ea51a6ad92a1d987d6547e8dd6248d7deed79d7 100644
 --- a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
