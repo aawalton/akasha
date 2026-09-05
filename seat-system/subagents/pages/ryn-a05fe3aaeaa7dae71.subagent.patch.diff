@@ -1,5 +1,5 @@
 diff --git a/commands/dev-server/dev-server.command.ts b/commands/dev-server/dev-server.command.ts
-index 8087938bcdeaede211370298f7ba46937398f017..0ab369ca577eed09bd7af639cc3c6d0872a99d5b 100644
+index 8087938bcdeaede211370298f7ba46937398f017..53c44c76f84c64d5a7854f7c998c85f98504fd5f 100644
 --- a/commands/dev-server/dev-server.command.ts
 +++ b/commands/dev-server/dev-server.command.ts
 @@ -54,7 +54,7 @@ export const devServer = {
@@ -17,6 +17,16 @@ index 8087938bcdeaede211370298f7ba46937398f017..0ab369ca577eed09bd7af639cc3c6d08
        statement:
 -        "A stop already stopped is answered as stopped and the state file it left is taken.",
 +        "A stop already stopped is answered as stopped and the state file the server left is taken.",
+     },
+     {
+       invariantKind: "departure",
+@@ -96,7 +96,8 @@ export const devServer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The worktree the seq names is the one `WORKTREE_DIR` states where it states one.",
++      statement:
++        "The worktree the seq names is the one `WORKTREE_DIR` states where `WORKTREE_DIR` states one.",
      },
      {
        invariantKind: "departure",
