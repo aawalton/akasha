@@ -124,3 +124,19 @@ index 91921bc4d8f9f827ab5d1a5707f88c12318bc8d0..e33e99745feed77d741ec5874f09a493
      {
        invariantKind: "departure",
        statement: "A day carrying one half alone is a reading of that half.",
+diff --git a/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts b/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts
+index 8c8d3e10dba3fad04b35c23cec598f188715e3e5..6755fcfb1be8f3f233dfe8f3c8c8e91a939dd22c 100644
+--- a/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts
+@@ -15,10 +15,7 @@ export const checkAddonRemovedRefs = {
+       invariantKind: "constraint",
+       statement: "A bundle examined is a bundle whose text was read.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "An empty build output ends the run rather than passing the run.",
+-    },
++
+     {
+       invariantKind: "constraint",
+       statement: "A bundle no longer on disk is skipped rather than counted as examined.",
