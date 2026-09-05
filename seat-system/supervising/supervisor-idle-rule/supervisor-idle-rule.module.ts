@@ -13,7 +13,7 @@ export const supervisorIdleRule = {
     },
     {
       invariantKind: "departure",
-      statement: "The safe answer for cmdlines is that none of them are ignored.",
+      statement: "The safe answer for cmdlines is that none of those cmdlines are ignored.",
     },
     {
       invariantKind: "departure",
