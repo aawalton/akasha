@@ -1,0 +1,14 @@
+diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+index 5ed54840c08d8c89bf7372576ba57b1eecf0a07c..e3c5b1c9c81d713df95c0a524b5e77dbc579e8fc 100644
+--- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
++++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+@@ -45,7 +45,8 @@ export const rynTrainedParser = {
+     "A relative `that` is not a lone pronoun.",
+     "Alan is shown one thing at a time.",
+     "A sentence shape is put to Alan only where it is proposed for acceptance.",
+-    "A remediation change is landed as restated rather than as authored.",
++    "A remediation change that only rewords is landed as restated rather than as authored.",
++    "A remediation change deleting a clause is landed as authored.",
+     "A remediation landing carries one file, so agents contend on the gate rather than on each other.",
+     "Twenty agents remediate at once.",
+     "A statement an agent cannot rewrite is left as it is and handed back to ryn.",
