@@ -58,7 +58,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of a path replaces the one before it.",
+      statement: "A reading of a path replaces the one before that reading.",
     },
     {
       invariantKind: "departure",
@@ -126,7 +126,7 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "Output going to a file the shell that called it did not already have does not reach the agent.",
+        "Output going to a file the shell that called the read did not already have does not reach the agent.",
     },
     {
       invariantKind: "stopgap",
