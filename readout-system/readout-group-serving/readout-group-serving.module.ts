@@ -63,7 +63,8 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller handing in nothing has each reading read from what the relay holds.",
+      statement:
+        "A caller handing in nothing has each reading read from the values the relay holds.",
     },
     {
       invariantKind: "departure",
