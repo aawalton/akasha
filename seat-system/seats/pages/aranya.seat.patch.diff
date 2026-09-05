@@ -639,3 +639,11 @@ index ac471b8530f1f3a702d46a8d10738ae2dfa75004..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../voice-core
 \ No newline at end of file
+diff --git a/web-page-answers/web-page-answers b/web-page-answers/web-page-answers
+deleted file mode 120000
+index 14fb1ae730305d968225c81e86aff78a8b42c29d..0000000000000000000000000000000000000000
+--- a/web-page-answers/web-page-answers
++++ /dev/null
+@@ -1 +0,0 @@
+-../../web-page-answers
+\ No newline at end of file
