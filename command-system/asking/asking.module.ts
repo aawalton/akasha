@@ -118,7 +118,7 @@ export const asking = {
     {
       invariantKind: "departure",
       statement:
-        "A change carrying a package manifest installs the checkout onto the commit it landed.",
+        "A change carrying a package manifest installs the checkout onto the commit that change landed.",
     },
     {
       invariantKind: "departure",
@@ -160,7 +160,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that will not open is answered with why it would not.",
+      statement: "A body that will not open is answered with why that body would not.",
     },
     {
       invariantKind: "departure",
