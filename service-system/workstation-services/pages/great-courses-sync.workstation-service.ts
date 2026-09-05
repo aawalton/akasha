@@ -25,7 +25,8 @@ export const greatCoursesSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A read answering fewer pages than it counted is refused rather than returned.",
+      statement:
+        "A read answering fewer pages than that read counted is refused rather than returned.",
     },
     {
       invariantKind: "departure",
