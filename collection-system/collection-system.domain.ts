@@ -13,7 +13,7 @@ export const collectionSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What a collection holds is collections too.",
+      statement: "The members a collection holds are collections too.",
     },
   ],
 } as const satisfies Domain
