@@ -95,7 +95,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "The text is cut here rather than read for what the text means.",
+      statement: "The text is cut here rather than read for the text's meaning.",
     },
     {
       invariantKind: "absence",
