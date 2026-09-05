@@ -13,7 +13,7 @@ export const seatPageValues = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent with no values of its own is read from the seat above it.",
+      statement: "A subagent with no values of its own is read from the seat above that subagent.",
     },
     {
       invariantKind: "departure",
