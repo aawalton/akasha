@@ -1,0 +1,14 @@
+diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+index 8a6dff0b63fd5c93a261f0f9b0e6eef394d8e60b..2aeb8d18dccfab5c914196ed938e35a3cbf7598a 100644
+--- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -52,8 +52,7 @@ export const accountUpkeepStallReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A page that could not be looked at is a fault, because every page current and no page looked at otherwise read alike.",
++      statement: "A page that could not be looked at is a fault.",
+     },
+     {
+       invariantKind: "departure",
