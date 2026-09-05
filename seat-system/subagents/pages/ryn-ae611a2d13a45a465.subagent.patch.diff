@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+index bfc0b1231407ef966c64ca5c6571bddc212e81d6..db16795290447f9ee9133f91aeea1101dd57ecd7 100644
+--- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
++++ b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+@@ -35,7 +35,7 @@ export const webAppBuilding = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whether a tree installs is asked of the manifests it tracks rather than of the worktree.",
++        "Whether a tree installs is asked of the manifests that tree tracks rather than of the worktree.",
+     },
+     {
+       invariantKind: "departure",
