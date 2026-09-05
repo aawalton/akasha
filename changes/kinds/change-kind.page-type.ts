@@ -35,7 +35,8 @@ export const changeKind = {
     },
     {
       invariantKind: "departure",
-      statement: "What runs on a change of a kind is read off that kind's page.",
+      statement:
+        "Whether the checks and the warrants run on a change of a kind is read off that kind's page.",
     },
     {
       invariantKind: "departure",
