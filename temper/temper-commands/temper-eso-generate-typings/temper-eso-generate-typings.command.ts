@@ -38,7 +38,7 @@ export const temperEsoGenerateTypings = {
     {
       invariantKind: "departure",
       statement:
-        "A written file names the command that wrote it and the API version it was built from.",
+        "A written file names the command that wrote that file and the API version that file was built from.",
     },
     {
       invariantKind: "departure",
