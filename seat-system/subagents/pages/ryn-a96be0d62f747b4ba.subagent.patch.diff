@@ -25,3 +25,16 @@ index 09ced8528387b373fd1d89ce511a6f3aff78b1c4..c284295ddad8ee85cc824080ca60278f
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index 2ef02704723ba810e7e659a1b95cc67e68e795bf..7f3c4530611e3933099d59eedd36430172da30be 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -22,7 +22,7 @@ export const monarchEval = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An agent trusted where it should not be spends Jenny's attention on corrections rather than on questions, which is worse than never having asked her.",
++        "An agent trusted past its reach spends Jenny's attention on corrections rather than on questions.",
+     },
+     {
+       invariantKind: "absence",
