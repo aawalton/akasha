@@ -127,3 +127,31 @@ index 0000000000000000000000000000000000000000..f4838c983917da5e11bc0ddbd20782c6
 +    },
 +  ],
 +} as const satisfies Domain
+diff --git a/infrastructure/dirty.domain.ts b/infrastructure/dirty.domain.ts
+deleted file mode 100644
+index 57716fffcef39a120bfa943207901c446a38bc46..0000000000000000000000000000000000000000
+--- a/infrastructure/dirty.domain.ts
++++ /dev/null
+@@ -1,8 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const dirty = {
+-  id: "01a0675b-16dd-79a1-bc7c-da489f4139a0",
+-  pageTypeSlug: "domain",
+-  slug: "dirty",
+-  definition: "content a repository holds that nothing yet owns",
+-} as const satisfies Domain
+diff --git a/infrastructure/dirty/dirty.domain.ts b/infrastructure/dirty/dirty.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c014abcb81e62e14726135d8e1ee7af237762e1b
+--- /dev/null
++++ b/infrastructure/dirty/dirty.domain.ts
+@@ -0,0 +1,8 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const dirty = {
++  id: "01a0675b-16dd-79a1-bc7c-da489f4139a0",
++  pageTypeSlug: "domain",
++  slug: "dirty",
++  definition: "content a repository holds that nothing yet owns",
++} as const satisfies Domain
