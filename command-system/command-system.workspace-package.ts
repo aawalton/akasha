@@ -77,15 +77,15 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A command may answer later than it was called.",
+      statement: "A command may answer later than that command was called.",
     },
     {
       invariantKind: "departure",
-      statement: "It prints nothing itself.",
+      statement: "A command prints nothing itself.",
     },
     {
       invariantKind: "departure",
-      statement: "A command's answer carries a code saying whose fault it was.",
+      statement: "A command's answer carries a code saying whose fault the refusal was.",
     },
   ],
 } as const satisfies WorkspacePackage
