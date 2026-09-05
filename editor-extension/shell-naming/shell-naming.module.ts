@@ -18,7 +18,7 @@ export const shellNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A number that is no pid answers with no name and is never looked for.",
+      statement: "A number that is no pid answers with no name.",
     },
     {
       invariantKind: "departure",

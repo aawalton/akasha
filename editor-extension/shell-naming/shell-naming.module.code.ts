@@ -6,12 +6,13 @@
 //
 // A pid that is gone answers with an empty name rather than throwing, which is the same answer the
 // process table gave for a pid it did not hold, so a caller tells the two apart no differently
-// than before.
+// than before. A number that is no pid at all reaches that same answer by the same road: there
+// is no such file, so nothing is found. A guard turning those away first read as a check on the
+// input, but it changed no answer and no test could tell it was there.
 
 import { readFileSync } from "node:fs"
 
 export function shellNameOf(pid: number): string {
-  if (!Number.isInteger(pid) || pid <= 0) return ""
   try {
     return readFileSync(`/proc/${pid}/comm`, "utf8").trim()
   } catch {
