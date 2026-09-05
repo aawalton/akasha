@@ -138,6 +138,18 @@ index a328fda576ca0010a6ed93cc51dc21fe539f992a..43ac034dab596f55f1bfb38f54a1968e
 +    "akasha seat resume amy --start-mode interactive",
    ],
  }
+diff --git a/seat-system/seat-resume-help/seat-resume-help.module.ts b/seat-system/seat-resume-help/seat-resume-help.module.ts
+index 9f3a9ec9bade00fb5bf53c530bf2c15166bdba7f..55e9444bb24ffe3fd6ed95ecf8de10c587f0983f 100644
+--- a/seat-system/seat-resume-help/seat-resume-help.module.ts
++++ b/seat-system/seat-resume-help/seat-resume-help.module.ts
+@@ -4,6 +4,6 @@ export const seatResumeHelp = {
+   id: "01a069bd-bdc5-78d0-b6c8-a8a48496a78e",
+   pageTypeSlug: "module",
+   slug: "seat-resume-help",
+-  definition: "the positionals, flags, exits and examples `ops seat resume` declares",
++  definition: "the positionals, flags, exits and examples `akasha seat resume` declares",
+   code: "ts",
+ } as const satisfies Module
 diff --git a/seat-system/seat-resume/seat-resume.module.code.ts b/seat-system/seat-resume/seat-resume.module.code.ts
 index 4d954a0db94677a59d9f2b082ef765aef030444b..6e5af22c2b96de784079a7716936543a0d3f358e 100644
 --- a/seat-system/seat-resume/seat-resume.module.code.ts
