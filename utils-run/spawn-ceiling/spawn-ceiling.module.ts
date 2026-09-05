@@ -13,7 +13,7 @@ export const spawnCeiling = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the process and the ceiling it ran past.",
+      statement: "The refusal names the process and the ceiling that process ran past.",
     },
     {
       invariantKind: "departure",
