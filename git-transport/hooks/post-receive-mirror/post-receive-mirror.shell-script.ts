@@ -55,7 +55,7 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "What the run did is left beside the repository for anything to read.",
+      statement: "The outcome of the run is left beside the repository for anything to read.",
     },
   ],
 } as const satisfies ShellScript
