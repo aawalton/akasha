@@ -30,11 +30,11 @@ export const musicbrainzMap = {
     },
     {
       invariantKind: "departure",
-      statement: "Whoever MusicBrainz names composer of a work wrote the work.",
+      statement: "The person MusicBrainz names composer of a work wrote the work.",
     },
     {
       invariantKind: "departure",
-      statement: "Whoever MusicBrainz names lyricist of a work wrote the work.",
+      statement: "The person MusicBrainz names lyricist of a work wrote the work.",
     },
     {
       invariantKind: "departure",
