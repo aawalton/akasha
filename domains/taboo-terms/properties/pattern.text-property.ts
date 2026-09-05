@@ -26,7 +26,7 @@ export const pattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A pattern narrows only to leave out what the term never means.",
+      statement: "A pattern narrows only to leave out the senses the term never means.",
     },
     {
       invariantKind: "departure",
