@@ -77,3 +77,19 @@ index 543ab37cc8d6105df35543cce47cfd10860a4f3f..e9b94b408d72a38bf14f189476db9c2d
      {
        invariantKind: "departure",
        statement: "The marker carries the digest of the bundle file read from.",
+diff --git a/temper/temper-saved-vars-migration/saved-vars-migration/saved-vars-migration.module.ts b/temper/temper-saved-vars-migration/saved-vars-migration/saved-vars-migration.module.ts
+index 0030951e63770cbac9f529aafe3f7112811d6942..17bfcc83f8c7f703e1c1dd57ced71d3da7750001 100644
+--- a/temper/temper-saved-vars-migration/saved-vars-migration/saved-vars-migration.module.ts
++++ b/temper/temper-saved-vars-migration/saved-vars-migration/saved-vars-migration.module.ts
+@@ -31,10 +31,7 @@ export const savedVarsMigration = {
+       invariantKind: "departure",
+       statement: "An append whose target is absent is skipped rather than made.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A copy aside is made once rather than on every run.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "An outcome that changed nothing is reported to nobody.",
