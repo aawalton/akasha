@@ -17,7 +17,7 @@ export const kiCollectionTemplate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every page type of Ki's stands under this one.",
+      statement: "Every page type of Ki's is under this one.",
     },
     {
       invariantKind: "departure",

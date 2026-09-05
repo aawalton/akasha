@@ -47,7 +47,7 @@ export const dueReminderSending = {
     {
       invariantKind: "departure",
       statement:
-        "A spent reminder still standing after it was to be taken away is reported rather than passed over.",
+        "A spent reminder still there after it was to be taken away is reported rather than passed over.",
     },
     {
       invariantKind: "departure",

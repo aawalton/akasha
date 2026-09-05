@@ -24,8 +24,7 @@ export const webPageAnswers = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The three answers reaching a service-role client stand behind a `.server` folder.",
+      statement: "The three answers reaching a service-role client sit behind a `.server` folder.",
     },
   ],
 } as const satisfies WorkspacePackage

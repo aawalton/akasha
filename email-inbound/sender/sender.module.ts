@@ -9,8 +9,7 @@ export const sender = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An address inside angle brackets wins over the text standing around that address.",
+      statement: "An address inside angle brackets wins over the text around that address.",
     },
     {
       invariantKind: "departure",
