@@ -1,13 +1,19 @@
 diff --git a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
-index 12d84f79e12ebe58ea2ee998348ab979974dadb9..b1bc7377e310a675aa865d29754eca814c9f2c7e 100644
+index 12d84f79e12ebe58ea2ee998348ab979974dadb9..4eb9bc451e763d102fa019de61cc4207d8318b71 100644
 --- a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
 +++ b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
-@@ -14,7 +14,7 @@ export const manifestLandsOnAFile = {
+@@ -14,11 +14,12 @@ export const manifestLandsOnAFile = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A way in names a file the change leaves behind it.",
 +      statement: "A way in names a file the change leaves behind that change.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every manifest the index names is judged whether or not the change carries it.",
++      statement:
++        "Every manifest the index names is judged whether or not the change carries that manifest.",
      },
      {
        invariantKind: "departure",
