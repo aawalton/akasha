@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
-index 356869948a36e071c3313ffc43d30ab91bb53085..391ed52117f38a49a544049c9850f3a6f5b53325 100644
+index 356869948a36e071c3313ffc43d30ab91bb53085..090460e1f463693fe4f13272bdec0be17fa7772d 100644
 --- a/command-system/outside-naming/outside-naming.module.ts
 +++ b/command-system/outside-naming/outside-naming.module.ts
 @@ -26,7 +26,7 @@ export const outsideNaming = {
@@ -12,3 +12,12 @@ index 356869948a36e071c3313ffc43d30ab91bb53085..391ed52117f38a49a544049c9850f3a6
      },
      {
        invariantKind: "departure",
+@@ -43,7 +43,7 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What leads a whole name is left open.",
++      statement: "The characters leading a whole name are left open.",
+     },
+     {
+       invariantKind: "absence",
