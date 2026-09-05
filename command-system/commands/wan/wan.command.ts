@@ -90,11 +90,6 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Two conditioning images carrying one file name are refused rather than staged over each other.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A frames act writes one numbered PNG for each frame that act takes.",
     },
     {
