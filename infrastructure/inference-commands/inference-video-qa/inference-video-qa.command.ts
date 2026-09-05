@@ -24,7 +24,6 @@ export const inferenceVideoQa = {
     "the frames sampled are spread evenly across the ones there are rather than taken from the front.",
     "a rate nothing named leaves every frame in place before sampling.",
     "the answer is what the model said, and it is the run row's output as well.",
-    "a run row is filed whether the reading finished or failed.",
   ],
   invariants: [
     {
