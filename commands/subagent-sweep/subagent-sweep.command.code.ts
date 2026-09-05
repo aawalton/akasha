@@ -76,7 +76,7 @@ export function namedIn(argv: readonly string[]): Read {
 // downstream has to tell an unnamed subagent from a page that states no id of its own.
 function ownIdsInto(held: Set<string>, nodes: readonly SubagentNode[]): undefined {
   for (const node of nodes) {
-    held.add(node.agentId ?? "")
+    if (node.agentId !== null && node.agentId !== "") held.add(node.agentId)
     ownIdsInto(held, node.children)
   }
   return undefined
