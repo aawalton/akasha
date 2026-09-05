@@ -33,7 +33,7 @@ export const coachingContext = {
     {
       invariantKind: "gap",
       statement:
-        "What a piece of kit is, how it is set up and what it loads are no page properties of it yet.",
+        "A piece of kit's kind, its setup and its load are no page properties of that kit yet.",
     },
     {
       invariantKind: "gap",
