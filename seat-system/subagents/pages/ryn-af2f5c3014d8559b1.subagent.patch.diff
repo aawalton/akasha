@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts b/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts
+index 98f391a4cfe67687f23ef0829e47cef5b1617198..c9e28f98121bbc2322e3844af9617fdfe31204a1 100644
+--- a/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts
++++ b/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts
+@@ -27,7 +27,7 @@ export const allAboutAlanExperiment = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An experiment carries the material the experiment is run with rather than what the experiment found.",
++        "An experiment carries the material the experiment is run with rather than any topic or finding.",
+     },
+     {
+       invariantKind: "departure",
