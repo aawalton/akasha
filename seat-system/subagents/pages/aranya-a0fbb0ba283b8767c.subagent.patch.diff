@@ -1,3 +1,33 @@
+diff --git a/changes/workflow-language/workflow-steps/workflow-step.page-type.ts b/changes/workflow-language/workflow-steps/workflow-step.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..92b28033c572ea69b950e808f1740299bd6691de
+--- /dev/null
++++ b/changes/workflow-language/workflow-steps/workflow-step.page-type.ts
+@@ -0,0 +1,24 @@
++import type { Module } from "@akasha/code-system/module"
++import type { PageType } from "@akasha/pages-system/page-type"
++
++export type WorkflowStep = Module
++
++export const workflowStep = {
++  id: "01a07233-714d-712e-974d-02c5b7144850",
++  pageTypeSlug: "page-type",
++  slug: "workflow-step",
++  definition: "a step a workflow runs in a container",
++  pluralSlug: "workflow-steps",
++  extendsSlug: ["page-type/module"],
++  allowsTmpPaths: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A step runs in a container image rather than on this workstation.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "This page type adds no property of its own.",
++    },
++  ],
++} as const satisfies PageType
 diff --git a/changes/workflow-templates/workflow-template.page-type.ts b/changes/workflow-templates/workflow-template.page-type.ts
 index 74f6cd65d20f695bd93882f09707246a5145f897..503c869d44c04806343f83ccca43971698bdf56b 100644
 --- a/changes/workflow-templates/workflow-template.page-type.ts
