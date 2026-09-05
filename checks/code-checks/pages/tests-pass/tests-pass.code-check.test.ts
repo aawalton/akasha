@@ -55,7 +55,7 @@ function withoutGuard<T>(run: () => T): T {
 }
 
 function ranAs(verdict: Ran["verdict"], summary: Ran["summary"], output = ""): Ran {
-  return { code: 1, output, summary, verdict }
+  return { code: 1, signal: null, output, summary, verdict }
 }
 
 test("the tests named are the ones standing beside the files the change carries", () => {

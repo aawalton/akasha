@@ -3,6 +3,7 @@ import { join, relative, resolve } from "node:path"
 import { textIn } from "@akasha/code-system/body-text"
 import type { Summary, Verdict } from "@akasha/code-system/code-tests"
 import { plain, ranOver, testNamed, testsUnder } from "@akasha/code-system/code-tests"
+import { endingOf } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
@@ -216,7 +217,7 @@ function toldOf(
   verdict: Verdict,
   said: Summary,
   expected: number,
-  code: number
+  ended: string
 ): readonly string[] {
   if (verdict === "fail") {
     return [`${said.failed} of ${(said.passed ?? 0) + (said.failed ?? 0)} tests failed.`]
@@ -228,7 +229,7 @@ function toldOf(
     ]
   }
   return [
-    `the run printed no summary, so nothing says the tests ran at all — it exited ${code}. ` +
+    `the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
       "This is the runner failing, not a test.",
   ]
 }
@@ -247,7 +248,7 @@ export function test(argv: readonly string[], given: Given): Answer {
   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
   return {
     report,
-    refusals: [...toldOf(done.verdict, done.summary, expected, done.code)],
+    refusals: [...toldOf(done.verdict, done.summary, expected, endingOf(done.code, done.signal))],
     code: done.verdict === "fail" ? 1 : 3,
   }
 }

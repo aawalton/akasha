@@ -42,6 +42,10 @@ export const test = {
     },
     {
       invariantKind: "departure",
+      statement: "A run the runner died on names the signal that killed the runner.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "That tail is bounded in lines and in bytes alike, and a whole line goes rather than part of one.",
     },

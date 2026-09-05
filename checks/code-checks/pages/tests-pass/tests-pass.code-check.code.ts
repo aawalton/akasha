@@ -8,6 +8,7 @@ import {
 } from "@akasha/code-system/code-tests"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
+import { endingOf } from "@akasha/utils-run/running"
 import {
   everyFileOf,
   input,
@@ -68,8 +69,9 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
       `pass say nothing about the rest. A file that will not load is counted here as not run:\n${tailOf(ran.output)}`
     )
   }
+  const ended = endingOf(ran.code, ran.signal)
   return (
-    `the run printed no summary, so nothing says the tests ran at all — it exited ${ran.code}. ` +
+    `the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
     `This is the runner failing, not a test:\n${tailOf(ran.output)}`
   )
 }

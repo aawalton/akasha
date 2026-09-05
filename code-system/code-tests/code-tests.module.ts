@@ -16,6 +16,10 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A run's answer carries the signal the run died on where a signal ended the run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run's answer carries what the run printed.",
     },
     {
@@ -65,6 +69,10 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement: "A run answers the first non-zero code a group exited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run answers the signal that same group ended on beside that code.",
     },
     {
       invariantKind: "departure",

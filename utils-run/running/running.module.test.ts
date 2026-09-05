@@ -1,20 +1,49 @@
 import { expect, test } from "bun:test"
-import { bytes, ran, said, shown } from "./running.module.code.ts"
+import { bytes, NO_CODE, ran, said, shown } from "./running.module.code.ts"
 
 test("a command exiting zero is answered as zero and what it printed", () => {
-  expect(ran(["sh", "-c", "printf hello"])).toEqual({ code: 0, out: "hello", err: "" })
+  expect(ran(["sh", "-c", "printf hello"])).toEqual({
+    code: 0,
+    signal: null,
+    out: "hello",
+    err: "",
+  })
 })
 
 test("a command exiting other than zero is answered rather than thrown", () => {
-  expect(ran(["false"])).toEqual({ code: 1, out: "", err: "" })
+  expect(ran(["false"])).toEqual({ code: 1, signal: null, out: "", err: "" })
 })
 
 test("what a command says on each stream is kept apart", () => {
   expect(ran(["sh", "-c", "printf out; printf err 1>&2; exit 3"])).toEqual({
     code: 3,
+    signal: null,
     out: "out",
     err: "err",
   })
+})
+
+test("a process ending on a signal is answered as that signal beside no code of its own", () => {
+  const done = ran(["sh", "-c", "kill -SEGV $$"])
+  expect(done.code).toBe(NO_CODE)
+  expect(done.signal).toBe("SIGSEGV")
+})
+
+test("processes dying on different signals are told apart rather than collapsed", () => {
+  expect(ran(["sh", "-c", "kill -KILL $$"]).signal).toBe("SIGKILL")
+  expect(ran(["sh", "-c", "kill -ABRT $$"]).signal).toBe("SIGABRT")
+})
+
+test("a process exiting a code of its own names no signal", () => {
+  expect(ran(["false"]).signal).toBeNull()
+})
+
+test("bytes carries the signal the process died on as text does", () => {
+  expect(bytes(["sh", "-c", "kill -KILL $$"]).signal).toBe("SIGKILL")
+})
+
+test("what a process said is a throw naming the signal where a signal ended it", () => {
+  expect(() => said(["sh", "-c", "kill -KILL $$"])).toThrow(/`sh` died on SIGKILL/)
 })
 
 test("what a process said comes back where it exited zero", () => {
@@ -32,7 +61,7 @@ test("a process runs where the caller says", () => {
 test("a process is given the environment the caller states", () => {
   expect(
     ran(["printenv", "AKASHA_RUNNING_PROBE"], { env: { AKASHA_RUNNING_PROBE: "here" } })
-  ).toEqual({ code: 0, out: "here\n", err: "" })
+  ).toEqual({ code: 0, signal: null, out: "here\n", err: "" })
 })
 
 test("what a caller hands in reaches the process", () => {
@@ -71,4 +100,8 @@ test("a process run to be watched writes to the streams its caller was given", (
 
 test("a process run to be watched throws where it exits other than zero", () => {
   expect(() => shown(["false"])).toThrow(/`false` exited 1/)
+})
+
+test("a process run to be watched throws naming the signal where a signal ended it", () => {
+  expect(() => shown(["sh", "-c", "kill -KILL $$"])).toThrow(/`sh` died on SIGKILL/)
 })

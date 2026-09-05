@@ -91,6 +91,7 @@ export type Summary = {
 
 export type Ran = {
   readonly code: number
+  readonly signal: string | null
   readonly output: string
   readonly summary: Summary
   readonly verdict: Verdict
@@ -366,6 +367,7 @@ export function ranOver(
   const runs = grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
   let code = 0
+  let signal: string | null = null
   let output = ""
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
@@ -374,10 +376,14 @@ export function ranOver(
       env: { ...process.env, [RUNNING]: MARK },
     })
     output += `${done.out}${done.err}`
-    if (code === 0) code = done.code
+    if (code === 0) {
+      code = done.code
+      signal = done.signal
+    }
   }
   return {
     code,
+    signal,
     output,
     summary: summaryIn(output),
     verdict: verdictOf(code, output, expected),

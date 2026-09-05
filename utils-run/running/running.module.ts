@@ -22,7 +22,19 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A process ending on a signal rather than a code of its own is answered as `-1`.",
+      statement: "A process ending on a signal is answered as `-1` and the name of that signal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process ending on a code of its own is answered as naming no signal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How a process ended is spelled once here, as a code or as a signal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A throw says how the process ended rather than a code alone.",
     },
     {
       invariantKind: "departure",
