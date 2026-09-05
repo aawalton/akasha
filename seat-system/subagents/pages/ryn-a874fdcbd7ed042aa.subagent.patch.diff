@@ -1,8 +1,8 @@
 diff --git a/infrastructure/inference-commands/inference-answering/inference-answering.module.ts b/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
-index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..9aa5b22488119723bc4d36703a2b53023a8a8763 100644
+index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..aca2a860f338c5b1b56c71046e9118afb3c378bd 100644
 --- a/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
 +++ b/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
-@@ -10,11 +10,11 @@ export const inferenceAnswering = {
+@@ -10,15 +10,15 @@ export const inferenceAnswering = {
    invariants: [
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..9aa5b22488119723bc4d36703a2b5302
        invariantKind: "departure",
 -      statement: "An alias is read as the flag it represents.",
 +      statement: "An alias is read as the flag that alias represents.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag said more than once holds every value where it repeats.",
++      statement: "A flag said more than once holds every value where that flag repeats.",
      },
      {
        invariantKind: "departure",
