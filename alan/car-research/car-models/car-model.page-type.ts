@@ -49,7 +49,7 @@ export const carModel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A model names the make above it and never the years below.",
+      statement: "A model names the make above that model and never the years below.",
     },
   ],
 } as const satisfies PageType
