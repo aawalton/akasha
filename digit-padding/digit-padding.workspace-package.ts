@@ -16,5 +16,13 @@ export const digitPadding = {
       invariantKind: "departure",
       statement: "The width counts every character a number is written with.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The width is a contract rather than a courtesy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shorter answer breaks a caller that parses back what this writes.",
+    },
   ],
 } as const satisfies WorkspacePackage
