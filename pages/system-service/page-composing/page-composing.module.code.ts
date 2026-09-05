@@ -228,8 +228,7 @@ export function composedFor(root: string, named: Naming): Composed {
       if (beside === null) {
         return { refused: `\`${at}\` is no page file, so no file sits beside it` }
       }
-      inside[one.key] = ending
-      continue
+      parts.push({ path: beside, content: bodies[one.key] ?? "" })
       inside[one.key] = ending
       continue
     }
