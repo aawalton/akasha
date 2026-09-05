@@ -23,11 +23,11 @@ export const chapterFiling = {
     {
       invariantKind: "departure",
       statement:
-        "The chapters already filed are looked for under the address they were filed under.",
+        "The chapters already filed are looked for under the address those chapters were filed under.",
     },
     {
       invariantKind: "departure",
-      statement: "A chapter already filed is known by the link it was filed under.",
+      statement: "A chapter already filed is known by the link that chapter was filed under.",
     },
     {
       invariantKind: "departure",
