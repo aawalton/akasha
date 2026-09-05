@@ -77,3 +77,16 @@ index 509db340acc50250127ab6ce960bddee87c5b178..9bda3581db8d71f0bdcb669a0eab9c73
      },
    ],
  } as const satisfies Module
+diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
+index 5e56f10b81d3147d63eced502dd5dc9f3396384c..d358babf7c44ef5b806cfc0eef4aab657d39b9d8 100644
+--- a/pages/views/view.page-type.ts
++++ b/pages/views/view.page-type.ts
+@@ -121,7 +121,7 @@ export const view = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A cross-type view names a predicate instead of a page type and draws pages of whatever types the predicate matches.",
++        "A cross-type view names a predicate instead of a page type and draws pages of any matching type.",
+     },
+     {
+       invariantKind: "departure",
