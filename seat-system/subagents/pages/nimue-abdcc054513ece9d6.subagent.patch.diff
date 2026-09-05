@@ -9,3 +9,14 @@ index a666f0f0fc83e5719cced75965ccc4e14bc1eadd..a3e1a3b86432d07fa86c927ba001c6ff
 -  targetKey: "sleep-hours",
 +  targetKey: "sleepHours",
  } as const satisfies PageQuery
+diff --git a/pages/queries/pages/surplus-hours-on-day.page-query.ts b/pages/queries/pages/surplus-hours-on-day.page-query.ts
+index e7b71ddd0494f782ef73dbe52de5c6c9c26c0eb8..f2614298b3782c70ad3547a1c0bece80132ca1cb 100644
+--- a/pages/queries/pages/surplus-hours-on-day.page-query.ts
++++ b/pages/queries/pages/surplus-hours-on-day.page-query.ts
+@@ -8,5 +8,5 @@ export const surplusHoursOnDay = {
+   parameters: [{ name: "date", type: "calendar-date" }],
+   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
+   reduction: "sum",
+-  targetKey: "surplus-hours",
++  targetKey: "surplusHours",
+ } as const satisfies PageQuery
