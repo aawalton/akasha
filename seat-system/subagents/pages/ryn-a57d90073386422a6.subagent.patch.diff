@@ -52,7 +52,7 @@ index 9d589bc060bb2af7d4b1a659b2e492e064865afb..ba3c609cbcee863119ff8f7acd210ddb
      {
        invariantKind: "constraint",
 diff --git a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
-index 091210add32e8fa0468741cf9f6b67c90ab98464..65321832fa45a41b4931e54f4160e92fe16a817b 100644
+index 091210add32e8fa0468741cf9f6b67c90ab98464..c8ee4a9597d4d0dd7f66cceb0a9e36dea0d6bede 100644
 --- a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
 +++ b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
 @@ -9,7 +9,7 @@ export const seatFleetRestart = {
@@ -61,6 +61,15 @@ index 091210add32e8fa0468741cf9f6b67c90ab98464..65321832fa45a41b4931e54f4160e92f
        invariantKind: "departure",
 -      statement: "The ops dispatcher imports this and calls the default export it declares.",
 +      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+     },
+     {
+       invariantKind: "departure",
+@@ -17,7 +17,7 @@ export const seatFleetRestart = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A client this cannot read is left alone rather than counted as behind.",
++      statement: "A client this command cannot read is left alone rather than counted as behind.",
      },
      {
        invariantKind: "departure",
