@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
-index e0eda824cbb4b2b5ee7dc2861aa0f7291daa7be6..c4154e1f02f04d59fb4bed87ee06567ff7f562b3 100644
+index e0eda824cbb4b2b5ee7dc2861aa0f7291daa7be6..f5e8c59489a0643b4af94cbcf18301e24e936181 100644
 --- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
 +++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
 @@ -26,7 +26,7 @@ export const pageTreePanel = {
@@ -12,3 +12,12 @@ index e0eda824cbb4b2b5ee7dc2861aa0f7291daa7be6..c4154e1f02f04d59fb4bed87ee06567f
      },
      {
        invariantKind: "departure",
+@@ -47,7 +47,7 @@ export const pageTreePanel = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here decides what a row looks like.",
++      statement: "Nothing here decides a row's appearance.",
+     },
+   ],
+ } as const satisfies Module
