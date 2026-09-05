@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/kinds-gathering/kinds-gathering.module.ts b/pages/system-service/kinds-gathering/kinds-gathering.module.ts
+index 8efe5f33d5b5e3c73f2f7701beb77bbea8dbd420..7717011eafa01759b085c98cdb1449caa7782c86 100644
+--- a/pages/system-service/kinds-gathering/kinds-gathering.module.ts
++++ b/pages/system-service/kinds-gathering/kinds-gathering.module.ts
+@@ -11,7 +11,7 @@ export const kindsGathering = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page type is gathered together with every page type extending it.",
++      statement: "A page type is gathered together with every page type extending that page type.",
+     },
+     {
+       invariantKind: "departure",
