@@ -575,3 +575,11 @@ index d439cfe26bf94e73892a81166feec855929b604b..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-build-hash
 \ No newline at end of file
+diff --git a/temper/temper-build-metadata/temper-build-metadata b/temper/temper-build-metadata/temper-build-metadata
+deleted file mode 120000
+index 7fe6e1dc23879fbf681d8a389b82b39c90bb794c..0000000000000000000000000000000000000000
+--- a/temper/temper-build-metadata/temper-build-metadata
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-build-metadata
+\ No newline at end of file
