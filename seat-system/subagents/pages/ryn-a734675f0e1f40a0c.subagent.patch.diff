@@ -1,0 +1,16 @@
+diff --git a/command-system/commands/wan/wan.command.ts b/command-system/commands/wan/wan.command.ts
+index 3e7d978f9dd237e0ea7d3bccdd7a703d442e7391..33e8103630a1ef16989d2dade179f94ecdbd6798 100644
+--- a/command-system/commands/wan/wan.command.ts
++++ b/command-system/commands/wan/wan.command.ts
+@@ -97,11 +97,6 @@ export const wan = {
+       statement:
+         "Two conditioning images carrying one file name are refused rather than staged over each other.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An extend's context window is fewer frames than the clip that window is pulled from holds.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "An extend's whole length is four times a whole number plus one.",
