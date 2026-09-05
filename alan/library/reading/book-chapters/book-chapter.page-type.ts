@@ -17,6 +17,7 @@ export const bookChapter = {
   extendsSlug: ["page-type/collection"],
   partSlugs: ["file-property/chapter-text"],
   properties: [
+    { pagePropertySlug: "slug", required: true, many: false, unique: "part-of" },
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "chapter-text", required: true, many: false },
   ],
@@ -36,8 +37,12 @@ export const bookChapter = {
     },
     {
       invariantKind: "departure",
+      statement: "A chapter's name is unique within its book rather than across every book.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A chapter sharing a name with another is named for the folders telling those chapters apart.",
+        "A chapter sharing a name inside one book is named for the folders telling those apart.",
     },
     {
       invariantKind: "departure",
