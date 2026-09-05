@@ -15,11 +15,7 @@ export const subagentRole = {
       invariantKind: "departure",
       statement: "A subagent warrants the role page type.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The invariants and directives every role is held to are on the type rather than on any one role.",
-    },
+
     {
       invariantKind: "absence",
       statement: "A subagent states no role, so no role of its own is warranted.",

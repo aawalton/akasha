@@ -31,10 +31,7 @@ export const savedVarsMigration = {
       invariantKind: "departure",
       statement: "An append whose target is absent is skipped rather than made.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A copy aside is made once rather than on every run.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An outcome that changed nothing is reported to nobody.",

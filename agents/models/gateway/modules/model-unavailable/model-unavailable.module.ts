@@ -12,10 +12,7 @@ export const modelUnavailable = {
       invariantKind: "departure",
       statement: "A status other than 404 matches nothing.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A body the JSON parser refuses matches nothing.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A body carrying no Anthropic error envelope matches nothing.",

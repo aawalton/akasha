@@ -26,10 +26,6 @@ export const bundleMemberSavedVars = {
 
     {
       invariantKind: "departure",
-      statement: "A copy aside is made once rather than on every run.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The marker carries the digest of the bundle file read from.",
     },
     {

@@ -12,10 +12,7 @@ export const permissionDenied = {
       invariantKind: "departure",
       statement: "A status other than 403 matches nothing.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A body the JSON parser refuses matches nothing.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A body carrying no Anthropic error envelope matches nothing.",

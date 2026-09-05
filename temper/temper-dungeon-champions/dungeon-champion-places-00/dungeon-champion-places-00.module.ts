@@ -6,10 +6,4 @@ export const dungeonChampionPlaces00 = {
   slug: "dungeon-champion-places-00",
   definition: "where the champions of the first fifteen zones are found",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "constraint",
-      statement: "A zone belongs to one group of places alone.",
-    },
-  ],
 } as const satisfies Module

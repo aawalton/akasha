@@ -19,11 +19,7 @@ export const rolePageType = {
       invariantKind: "absence",
       statement: "A seat warrants no type that the type of the role the seat states extends.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The invariants and directives every role is held to are on the type rather than on any one role.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A seat stating no role warrants no type.",
