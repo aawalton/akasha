@@ -14,7 +14,7 @@ export const preReceiveChangeBranches = {
     },
     {
       invariantKind: "departure",
-      statement: "The number is what tells a merge branch from the merge queue's own ref.",
+      statement: "The number tells a merge branch from the merge queue's own ref.",
     },
     {
       invariantKind: "departure",
