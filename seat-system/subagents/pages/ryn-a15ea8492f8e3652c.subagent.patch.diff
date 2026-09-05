@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-activate/inference-activate.command.ts b/infrastructure/inference-commands/inference-activate/inference-activate.command.ts
+index a26ed0bf757281d311ea87c243becdab830d3b38..b18c3064d1161d3b067b0c67a5717b4664ac37a7 100644
+--- a/infrastructure/inference-commands/inference-activate/inference-activate.command.ts
++++ b/infrastructure/inference-commands/inference-activate/inference-activate.command.ts
+@@ -21,7 +21,7 @@ export const inferenceActivate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name the cop does not carry is refused naming the ones it does.",
++      statement: "A name the cop does not carry is refused naming the ones the cop does.",
+     },
+     {
+       invariantKind: "departure",
