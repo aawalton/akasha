@@ -535,6 +535,14 @@ index c2b5a7bdad62118a9a5c701d17142f5d753f2b8d..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../story/tower/engine
 \ No newline at end of file
+diff --git a/supabase-auth/supabase-auth b/supabase-auth/supabase-auth
+deleted file mode 120000
+index ec38992e1cd99c3c8591c1856e755aef2bf903dc..0000000000000000000000000000000000000000
+--- a/supabase-auth/supabase-auth
++++ /dev/null
+@@ -1 +0,0 @@
+-../../supabase-auth
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
