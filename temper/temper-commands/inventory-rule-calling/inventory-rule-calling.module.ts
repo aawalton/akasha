@@ -17,7 +17,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "What a command takes is read against the list its own page states.",
+      statement: "The flags a command takes are read against the list its own page states.",
     },
     {
       invariantKind: "departure",
@@ -60,15 +60,15 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "What a row says is the columns that rule kind carries.",
+      statement: "A row says the columns that rule kind carries.",
     },
     {
       invariantKind: "departure",
-      statement: "What JSON says is the whole shape the rule carries.",
+      statement: "JSON says the whole shape the rule carries.",
     },
     {
       invariantKind: "departure",
-      statement: "A fault thrown by what this calls is answered with what that fault said.",
+      statement: "A fault thrown by the act this calls is answered with that fault's words.",
     },
     {
       invariantKind: "departure",
