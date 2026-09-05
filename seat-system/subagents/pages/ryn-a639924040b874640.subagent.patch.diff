@@ -73,3 +73,43 @@ index de4447b7f16e04363d72b02df4f65d99d5e58afe..92a6bc17a26a59f531e8946bc7627c55
      },
      {
        invariantKind: "departure",
+diff --git a/alan/library/watching/episodes/properties/episode-type.select-property.ts b/alan/library/watching/episodes/properties/episode-type.select-property.ts
+index 049a01ddcfbfdc2bf95eaf343e01a10e0edd9136..9c4541d637fc4422c67c8d1af34e5d5314c15a58 100644
+--- a/alan/library/watching/episodes/properties/episode-type.select-property.ts
++++ b/alan/library/watching/episodes/properties/episode-type.select-property.ts
+@@ -10,7 +10,8 @@ export const episodeType = {
+   invariants: [
+     {
+       invariantKind: "gap",
+-      statement: "The values are those the record holds rather than all the provider answers with.",
++      statement:
++        "The values are the ones the record holds rather than all the provider answers with.",
+     },
+   ],
+ } as const satisfies SelectProperty
+diff --git a/alan/tracking/daily/air-quality-command/air-quality-command.module.ts b/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
+index 1a3fa811958e0fda9ef62f6c701ed9cb4d25ff7c..94e958bbb1449f352caf6b7fd4c3dbd83fa9c5c8 100644
+--- a/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
++++ b/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
+@@ -9,7 +9,7 @@ export const airQualityCommand = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program by the name its ops-command page states.",
++      statement: "This module is run as its own program by the name its ops-command page states.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/alan/tracking/daily/task-sync/task-sync.module.ts b/alan/tracking/daily/task-sync/task-sync.module.ts
+index d3013a647bc736c55aae41b48e96b641630e3132..e74e6f2b60334628c58904f9c290068f869f80f7 100644
+--- a/alan/tracking/daily/task-sync/task-sync.module.ts
++++ b/alan/tracking/daily/task-sync/task-sync.module.ts
+@@ -9,7 +9,7 @@ export const taskSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program by the name its ops-command page states.",
++      statement: "This module is run as its own program by the name its ops-command page states.",
+     },
+   ],
+ } as const satisfies Module
