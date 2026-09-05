@@ -12,7 +12,7 @@ index 8b65a7af14038da331857f8e4b776b01885905ce..ec32dd64fd0f7f8fbca34617b1004a73
      {
        invariantKind: "departure",
 diff --git a/infrastructure/inference-commands/inference-apply/inference-apply.command.ts b/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
-index c6924ccf9e525e2ca661379a398a853c8cd4257e..f3289f0aa7b1c16bdbe3675f4d79f543abaf316a 100644
+index c6924ccf9e525e2ca661379a398a853c8cd4257e..c0acb30cb6ec0b02b57369e5e008753045cca967 100644
 --- a/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
 +++ b/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
 @@ -11,7 +11,7 @@ export const inferenceApply = {
@@ -24,6 +24,15 @@ index c6924ccf9e525e2ca661379a398a853c8cd4257e..f3289f0aa7b1c16bdbe3675f4d79f543
      "a managed service the registry no longer declares is taken away.",
      "the answer is how many were applied, how many were passed over, and how many were taken away.",
    ],
+@@ -22,7 +22,7 @@ export const inferenceApply = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A service standing at the hash its inputs carry is applied again by nothing.",
++      statement: "A service at the hash its inputs carry is applied again by nothing.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/infrastructure/inference-commands/inference-capabilities/inference-capabilities.command.ts b/infrastructure/inference-commands/inference-capabilities/inference-capabilities.command.ts
 index 028895478c5ddeea7d05f3fcb71abb92d3fdfe0a..ac6d0b400518768776a2e94a207a5d494848cdb6 100644
 --- a/infrastructure/inference-commands/inference-capabilities/inference-capabilities.command.ts
