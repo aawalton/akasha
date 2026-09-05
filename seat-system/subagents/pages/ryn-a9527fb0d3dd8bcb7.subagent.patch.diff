@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/value-key/page-value-key.module.ts b/pages/value-key/page-value-key.module.ts
+index bf4b7c057a3ee433736cfb00b9bcf5df47c63df2..8cc7ba415a196031578f5b7e47f6368a9c6970eb 100644
+--- a/pages/value-key/page-value-key.module.ts
++++ b/pages/value-key/page-value-key.module.ts
+@@ -13,7 +13,8 @@ export const pageValueKey = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An attachment is in a page's values under one name, and it is stated here.",
++      statement:
++        "An attachment is in a page's values under one name, and that name is stated here.",
+     },
+     {
+       invariantKind: "absence",
