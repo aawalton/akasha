@@ -91,30 +91,6 @@ index 1a431298bf026798900e0414ba8154748c73f24a..59936f69a0e963dcdf4f3efba2a24958
      {
        invariantKind: "departure",
        statement: "A filter that reads the same as the one held redraws nothing.",
-diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
-index cfe03623fef7fe3804ab4eb4df1155271fcfa57f..1f3ef05a0654c544b9168c64d30e699c58d74c45 100644
---- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
-+++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
-@@ -33,11 +33,19 @@ export const workTreePanel = {
-       invariantKind: "departure",
-       statement: "A row drawn more than once is said to Alan once and named on the channel.",
-     },
-+<<<<<<< what this change would leave
-+
-+    {
-+      invariantKind: "absence",
-+      statement: "No timer starts a drawing.",
-+    },
-+=======
-     {
-       invariantKind: "departure",
-       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
-     },
- 
-+>>>>>>> what HEAD holds
-     {
-       invariantKind: "absence",
-       statement: "No watcher on a seat file or an initiative file is registered here.",
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
 index 0116ab1322bf80accfffc805c0d3b1d449498439..24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
