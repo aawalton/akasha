@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
+index 403e2dfb46d85d0367aa1e33606949b72bac4f59..a5400494ad7e070ac1e56e03546fbc3db9835188 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
+@@ -32,7 +32,7 @@ export const propertyPagesOnly = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The pages here are of several types and that mix is the shape rather than a fault in it.",
++        "The pages here are of several types and that mix is the shape rather than a fault in that shape.",
+     },
+     {
+       invariantKind: "absence",
