@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/edit/edit.command.ts b/commands/edit/edit.command.ts
+index dac835af06c345da02473198458eb7ec119f5be1..d9ebb748f48254d89a4236036f58a78eb5470138 100644
+--- a/commands/edit/edit.command.ts
++++ b/commands/edit/edit.command.ts
+@@ -69,7 +69,7 @@ export const edit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each substitution is worked against what the earlier substitutions left.",
++      statement: "Each substitution is worked against the body the earlier substitutions left.",
+     },
+     {
+       invariantKind: "departure",
