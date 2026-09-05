@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
-index 1c3ca789da12ec21c75c6edcb29ff1b783bdc003..e3a952e791895fa500fdf1ee9766cc3d00550aac 100644
+index 1c3ca789da12ec21c75c6edcb29ff1b783bdc003..ba3b450cba8feb746e433f45612d773002659935 100644
 --- a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
 +++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
 @@ -30,7 +30,8 @@ export const watcherWorker = {
@@ -13,3 +13,12 @@ index 1c3ca789da12ec21c75c6edcb29ff1b783bdc003..e3a952e791895fa500fdf1ee9766cc3d
      },
      {
        invariantKind: "departure",
+@@ -79,7 +80,7 @@ export const watcherWorker = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here decides what the watcher does with a file it read.",
++      statement: "Nothing here decides what the watcher does with a file that watcher read.",
+     },
+   ],
+ } as const satisfies Module
