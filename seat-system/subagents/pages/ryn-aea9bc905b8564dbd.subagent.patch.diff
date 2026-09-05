@@ -29,3 +29,18 @@ index b59e565ed8684e937f0f8e17f00505f3846d1a1c..51219bad2d5df19676a1836cf4aa8fc7
      {
        invariantKind: "gap",
        statement:
+diff --git a/temper/temper-saved-vars-migration/temper-saved-vars-migration.workspace-package.ts b/temper/temper-saved-vars-migration/temper-saved-vars-migration.workspace-package.ts
+index d0f72e18df3832e82f3ae93e61bf6abcc1f16c6f..7c785129e30a127e8c39613192ab9b5a0e141db5 100644
+--- a/temper/temper-saved-vars-migration/temper-saved-vars-migration.workspace-package.ts
++++ b/temper/temper-saved-vars-migration/temper-saved-vars-migration.workspace-package.ts
+@@ -32,6 +32,10 @@ export const temperSavedVarsMigration = {
+       invariantKind: "departure",
+       statement: "A file about to be overwritten is copied aside first.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A copy aside is made once rather than on every run.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here deletes the file a migration read from.",
