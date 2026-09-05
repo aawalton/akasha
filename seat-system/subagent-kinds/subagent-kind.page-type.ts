@@ -35,11 +35,11 @@ export const subagentKind = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind's prompt is the whole of what a subagent of that kind starts with.",
+      statement: "A kind's prompt is the whole of the context a subagent of that kind starts with.",
     },
     {
       invariantKind: "departure",
-      statement: "A kind's definition is what a seat reads to choose between kinds.",
+      statement: "A kind's definition is the one thing a seat reads to choose between kinds.",
     },
     {
       invariantKind: "departure",
