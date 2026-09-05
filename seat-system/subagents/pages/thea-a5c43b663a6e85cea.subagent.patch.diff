@@ -1,4 +1,16 @@
-runsWarrants: false
+diff --git a/alan/web/routes.ts b/alan/web/routes.ts
+index db5011492f74abfc0f55658ceeb5805f0f2c2771..8dea144e0d21a4f7887956bb5021746ace41e051 100644
+--- a/alan/web/routes.ts
++++ b/alan/web/routes.ts
+@@ -20,7 +20,7 @@ export default [
+   route("sign-out", "routes/sign-out.ts"),
+   route("idle", "routes/idle.ts"),
+   route("api/health", "routes/api.health.ts"),
+-  route("api/pages-ready", "routes/api.pages-ready.ts"),
++  route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
+   route("api/live-version", "routes/api.live-version.ts"),
+   route("api/errors", "routes/api.errors.ts"),
+   route("api/claude-usage", "routes/claude-usage/claude-usage.route.code.ts"),
 diff --git a/alan/web/routes/api.pages-ready.test.ts b/alan/web/routes/api.pages-ready.test.ts
 deleted file mode 100644
 index e355a83570e0c90bedbd1b3549f6ebe12812c454..0000000000000000000000000000000000000000
