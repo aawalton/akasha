@@ -11,7 +11,7 @@ export const kindsGathering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type is gathered together with every page type extending it.",
+      statement: "A page type is gathered together with every page type extending that page type.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const kindsGathering = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here orders, narrows or cuts the rows it gathers.",
+      statement: "Nothing here orders, narrows or cuts the rows this module gathers.",
     },
     {
       invariantKind: "absence",
