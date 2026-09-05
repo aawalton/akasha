@@ -90,3 +90,30 @@ index a7307805da74949bc39f25c7ab90453ba0733898..66106a979d15aa7f2e49e10e1add2c81
      },
    ],
  } as const satisfies Module
+diff --git a/seat-system/seat-conditions/properties/resume-token-threshold.number-property.ts b/seat-system/seat-conditions/properties/resume-token-threshold.number-property.ts
+index 7278dfdafac184e09d57827f6bcd30209f5c9690..170e59d5799943ad324c5be5ab2c6415228132b8 100644
+--- a/seat-system/seat-conditions/properties/resume-token-threshold.number-property.ts
++++ b/seat-system/seat-conditions/properties/resume-token-threshold.number-property.ts
+@@ -12,7 +12,7 @@ export const resumeTokenThreshold = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Only a headless seat carries this.",
++      statement: "Only a headless seat carries this threshold.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
+index ed94fd959b92f7d10e7457fbfc4a0bb5440aa314..79bd22f00c52f38a55ed793620f5d61e8de38f11 100644
+--- a/seat-system/seat-page-beat/seat-page-beat.module.ts
++++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
+@@ -9,7 +9,8 @@ export const seatPageBeat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program rather than imported by what writes a seat page.",
++      statement:
++        "This module is run as its own program rather than imported by what writes a seat page.",
+     },
+     {
+       invariantKind: "departure",
