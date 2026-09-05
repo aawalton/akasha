@@ -117,3 +117,29 @@ index ed94fd959b92f7d10e7457fbfc4a0bb5440aa314..79bd22f00c52f38a55ed793620f5d61e
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/seat-resume-driver/seat-resume-driver.module.ts b/seat-system/seat-resume-driver/seat-resume-driver.module.ts
+index 9ee9f38dc0396d6439c44575093a4f3b568edb60..de31c166b4df5b5118d37d16dc7799ff5c52ec64 100644
+--- a/seat-system/seat-resume-driver/seat-resume-driver.module.ts
++++ b/seat-system/seat-resume-driver/seat-resume-driver.module.ts
+@@ -9,7 +9,7 @@ export const seatResumeDriver = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A resuming seat is driven by exactly one of these and never by none.",
++      statement: "A resuming seat is driven by exactly one of these five things and never by none.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/seat-system/seats/properties/rotated-session-uuid.text-property.ts b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+index 8f391392370b1e35d47318ab294cb11efd28ba71..349885eb1fad0dd689972fcda9f12e7caf56175d 100644
+--- a/seat-system/seats/properties/rotated-session-uuid.text-property.ts
++++ b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+@@ -13,7 +13,7 @@ export const rotatedSessionUuid = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This stands between a clear and the binding that takes it.",
++      statement: "This property stands between a clear and the binding that takes it.",
+     },
+     {
+       invariantKind: "departure",
