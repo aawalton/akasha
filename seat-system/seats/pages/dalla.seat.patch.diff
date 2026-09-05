@@ -1,0 +1,76 @@
+diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
+index fc0b105f42e8004a412de1020bc571cd040d5582..11d3d3af5618ce6a2c360094bb345f6f4f885c8f 100644
+--- a/commands/test/test.command.code.ts
++++ b/commands/test/test.command.code.ts
+@@ -111,6 +111,12 @@ const TAIL_LINES = 20
+ 
+ const TAIL_BYTES = 2000
+ 
++const DETAIL_LINES = 40
++
++const DETAIL_BYTES = 4000
++
++const SAID_NOTHING = "the runner printed nothing about the test that failed"
++
+ const NO_SUMMARY = "the runner printed no summary"
+ 
+ type Read = {
+@@ -190,7 +196,30 @@ export function tailOf(output: string): readonly string[] {
+   return [said, ...kept.map((one) => `  ${one}`)]
+ }
+ 
+-function reportOf(verdict: Verdict, said: Summary, output: string): readonly string[] {
++export function detailOf(output: string): readonly string[] {
++  const lines = plain(output).split("\n")
++  while (lines.length > 0 && lines[lines.length - 1] === "") lines.pop()
++  if (lines.length === 0) return [SAID_NOTHING]
++  const found = lines.findIndex((one) => one.startsWith(FAILED))
++  const kept: string[] = []
++  let bytes = 0
++  for (let at = found === -1 ? 0 : found; at < lines.length; at += 1) {
++    const line = lines[at] ?? ""
++    const size = new TextEncoder().encode(line).length + 1
++    if (kept.length >= DETAIL_LINES || bytes + size > DETAIL_BYTES) break
++    kept.push(line)
++    bytes += size
++  }
++  if (kept.length === 0) return [SAID_NOTHING]
++  return ["what the runner said:", ...kept.map((one) => `  ${one}`)]
++}
++
++function reportOf(
++  verdict: Verdict,
++  said: Summary,
++  output: string,
++  named: boolean
++): readonly string[] {
+   const read = readingOf(output)
+   const passed = said.passed ?? 0
+   const failed = said.failed ?? 0
+@@ -210,7 +239,8 @@ function reportOf(verdict: Verdict, said: Summary, output: string): readonly str
+     ),
+   ]
+   if (verdict === "crash") return [...told, ...tailOf(output)]
+-  return failing.length + unloadable.length === 0 ? told : [...told, DETAIL]
++  if (failing.length + unloadable.length === 0) return told
++  return named ? [...told, ...detailOf(output)] : [...told, DETAIL]
+ }
+ 
+ function toldOf(
+@@ -241,10 +271,12 @@ export function test(argv: readonly string[], given: Given): Answer {
+   const aimed = aiming(meant.paths, given)
+   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
+   const expected = aimed.named.reduce((held, one) => held + testsUnder(join(root, one)), 0)
+-  if (expected === 0) return { report: [...reportOf("pass", NONE, "")], refusals: [], code: 0 }
+-  const weighed = meant.name === null ? expected : 0
+-  const done = ranOver(root, aimed.named, weighed, meant.name)
+-  const report = [...bounded(reportOf(done.verdict, done.summary, done.output).join("\n"))]
++  if (expected === 0) {
++    return { report: [...reportOf("pass", NONE, "", false)], refusals: [], code: 0 }
++  }
++  const named = meant.name !== null
++  const done = ranOver(root, aimed.named, named ? 0 : expected, meant.name)
++  const report = [...bounded(reportOf(done.verdict, done.summary, done.output, named).join("\n"))]
+   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
+   return {
+     report,
