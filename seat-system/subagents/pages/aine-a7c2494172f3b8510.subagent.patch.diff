@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
-index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..fe4f117a9fb1b1485fd0ba461fb883719a6f5c64 100644
+index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..8529056555e8db7bbeab5bd19f0879049c19386e 100644
 --- a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
 +++ b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
 @@ -99,7 +99,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []):
@@ -11,8 +11,17 @@ index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..fe4f117a9fb1b1485fd0ba461fb88371
          `${String(luaFiles.length)} Lua file(s) under ${esoRoot}. An empty census reads to every ` +
          "consumer as a clean answer, so nothing was staged.",
        DATA
+@@ -148,7 +148,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []):
+   const held = pages.find((one) => one.slug === STEM)
+   if (staged.files.some((one) => one.rel === held?.pageRel && one.standing)) {
+     report.push(
+-      `the aggregate's page stands and was not staged again, so what a hand put on ${String(held?.pageRel)} survives`
++      `the aggregate's page is there and was not staged again, so what a hand put on ${String(held?.pageRel)} survives`
+     )
+   }
+ 
 diff --git a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
-index 51afaf906008813863b94d28420c24c7f366431a..0dd706b6143399400d667dede6f6e3ab9235c85d 100644
+index 51afaf906008813863b94d28420c24c7f366431a..9a9fdd50e091c92636b2a779347e746f2ba5813a 100644
 --- a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
 +++ b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
 @@ -14,8 +14,7 @@ export const temperEsoGenerateBaseGameGlobals = {
@@ -25,3 +34,12 @@ index 51afaf906008813863b94d28420c24c7f366431a..0dd706b6143399400d667dede6f6e3ab
      },
      {
        said: "--stage <path>",
+@@ -27,7 +26,7 @@ export const temperEsoGenerateBaseGameGlobals = {
+     "the scan takes every top-level global assignment matching the game's naming convention and unions every `SI_` string id the source mentions.",
+     "a string id is declared rather than assigned, so an assignment scan alone reaches only part of the set and the mention scan is what finds the rest.",
+     "only the string ids cross. The scan sees about twenty-one thousand base-game names and the census keeps the thirteen thousand `SI_` ones, because the one consumer asks the census one question: whether a string id an addon's markup consumes at parse time is provided by the base game.",
+-    "keeping the other names would stand a second, wider name authority beside the curated one, and the two would contradict each other by construction.",
++    "keeping the other names would set up a second, wider name authority beside the curated one, and the two would contradict each other by construction.",
+     "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them, and how many digits a run's ordinal carries follows from how many runs there are.",
+     "nothing lands here. The bodies are staged outside akasha and the writing call that lands them is named, because that call is what judges them against the checks and commits them.",
+     "a run whose body already stands is not staged, so a scan finding the same names stages nothing.",
