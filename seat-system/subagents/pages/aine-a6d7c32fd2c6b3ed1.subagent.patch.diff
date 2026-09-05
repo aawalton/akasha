@@ -1,0 +1,32 @@
+diff --git a/seat-system/seat-stating/seat-stating.module.code.ts b/seat-system/seat-stating/seat-stating.module.code.ts
+index 0153b26a95c49f7163b22450e0eadb4c5cfc3be0..6a79990fb9a4993ad65b5388395d96044ddcd953 100644
+--- a/seat-system/seat-stating/seat-stating.module.code.ts
++++ b/seat-system/seat-stating/seat-stating.module.code.ts
+@@ -1,7 +1,7 @@
+ import { existsSync, readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { landedMechanically } from "@akasha/command-system/asking"
+-import { listedAt, readingIn, slugsOfType } from "@akasha/indexes"
++import { listedAt, readingIn, slugsOfType, typeSlugOf } from "@akasha/indexes"
+ import { exportedAs } from "@akasha/pages-system/page-export-name"
+ import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+ import { valueAt } from "@akasha/pages-system/page-value"
+@@ -11,6 +11,9 @@ const PERSON = "person"
+ 
+ const DOMAIN = "domain"
+ 
++/** The seat page type, reached by the id it keeps rather than by the slug it answers to. */
++const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
++
+ const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative"]
+ 
+ const CALLED_AS = "seat-stating"
+@@ -89,7 +92,7 @@ export function seatBody(
+     "",
+     `export const ${exportedAs(seatName)} = {`,
+     `  id: ${said(stated.agentId)},`,
+-    '  pageTypeSlug: "seat",',
++    `  pageTypeSlug: ${said(typeSlugOf(root, SEAT_TYPE))},`,
+     `  slug: ${said(seatName)},`,
+     `  personaSlug: ${said(persona)},`,
+     `  assignmentSlug: ${said(addressed ?? assignmentAddressOf(domain, root))},`,
