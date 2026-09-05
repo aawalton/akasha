@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
-index 31c67c707f68cb1b98516135c89d594f5fb94b41..440df358a2dab3f21af975fbe9dee5ced9543089 100644
+index 31c67c707f68cb1b98516135c89d594f5fb94b41..f867dd7f1efd6e46568ddbf761deda8330c62918 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
 +++ b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
 @@ -123,7 +123,7 @@ async function existing(slug: string): Promise<readonly TransactionLine[]> {
@@ -54,6 +54,18 @@ index 31c67c707f68cb1b98516135c89d594f5fb94b41..440df358a2dab3f21af975fbe9dee5ce
    const held: string[] = []
    for (const line of arriving) {
      const id = line.monarchId
+@@ -260,9 +260,9 @@ export async function patchTransactionLines(
+   const touched: string[] = []
+   const unfound = new Set(patches.keys())
+   for (const month of await monthSlugs()) {
+-    const standing = await existing(month)
++    const already = await existing(month)
+     let changed = false
+-    const lines = standing.map((line) => {
++    const lines = already.map((line) => {
+       const patch = patches.get(line.monarchId)
+       if (patch === undefined) return line
+       unfound.delete(line.monarchId)
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
 index 3649ed8dc88f0bb2a350087ae2d20e09f5f853a4..bb4d830ae29a8f2154dd87af6dc5da67d2b71a85 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
