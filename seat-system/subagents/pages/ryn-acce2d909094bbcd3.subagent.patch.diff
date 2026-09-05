@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/infrastructure.domain.ts b/infrastructure/infrastructure.domain.ts
+index 0ca2ca900e040c58455f75edfdb2f0aeef2ab84f..cc9993c5bac7063015678010f05c8da5f9b3a33e 100644
+--- a/infrastructure/infrastructure.domain.ts
++++ b/infrastructure/infrastructure.domain.ts
+@@ -36,7 +36,7 @@ export const infrastructure = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A resource is what a host gives a program to use.",
++      statement: "A resource is a thing a host gives a program to use.",
+     },
+     {
+       invariantKind: "departure",
