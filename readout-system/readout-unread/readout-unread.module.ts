@@ -30,11 +30,12 @@ export const readoutUnread = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty figure is what names a light as unread.",
+      statement: "An empty figure names a light as unread.",
     },
     {
       invariantKind: "departure",
-      statement: "A light carrying no figure is named beside what the absence is.",
+      statement:
+        "A light carrying no figure is named beside the kind of absence that light carries.",
     },
     {
       invariantKind: "departure",
