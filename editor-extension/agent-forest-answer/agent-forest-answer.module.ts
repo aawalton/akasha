@@ -25,7 +25,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's color is read from `color` or from `colour`, whichever it carries.",
+      statement: "A row's color is read from `color` or from `colour`, whichever that row carries.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,8 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent page is keyed by the seat that ran it and the id it runs under.",
+      statement:
+        "A subagent page is keyed by the seat that ran that subagent and the id that subagent runs under.",
     },
     {
       invariantKind: "departure",
