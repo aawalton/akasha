@@ -83,7 +83,8 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "absence",
-      statement: "A specifier is what the source says whether or not the file it names is there.",
+      statement:
+        "A specifier is what the source says whether or not the file that specifier names is there.",
     },
     {
       invariantKind: "departure",
