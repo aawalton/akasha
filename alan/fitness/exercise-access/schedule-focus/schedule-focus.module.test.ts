@@ -27,7 +27,7 @@ describe("what a rotation trains", () => {
     expect(focusIn(sunday as Row)).toBeNull()
   })
 
-  test("a day that does not stand names no focus", () => {
+  test("a day that is not there names no focus", () => {
     expect(focusIn(null)).toBeNull()
   })
 

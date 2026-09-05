@@ -41,7 +41,7 @@ export function checkoutRoot(): string {
   const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
   const root = roots[AKASHA]
   if (root === undefined || root === "") {
-    throw new Error("no akasha checkout stands here, so no fitness page can be read")
+    throw new Error("no akasha checkout exists here, so no fitness page can be read")
   }
   return root
 }

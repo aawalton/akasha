@@ -68,7 +68,7 @@ describe("which constraints bind a focus", () => {
   })
 })
 
-describe("what kit stands", () => {
+describe("what kit is there", () => {
   test("a piece of kit saying nothing about whether it is there is there", () => {
     const [held] = equipmentIn([rowOf({ id: "1", slug: "db", title: "Dumbbells" })])
     expect(held?.available).toBe(true)

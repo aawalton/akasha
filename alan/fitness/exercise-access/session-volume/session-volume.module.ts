@@ -34,7 +34,7 @@ export const sessionVolume = {
     {
       invariantKind: "gap",
       statement:
-        "No client profile page stands, so nothing states the weight volume is counted against.",
+        "No client profile page exists, so nothing states the weight volume is counted against.",
     },
   ],
 } as const satisfies Module

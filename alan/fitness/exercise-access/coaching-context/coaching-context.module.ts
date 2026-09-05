@@ -38,7 +38,7 @@ export const coachingContext = {
     {
       invariantKind: "gap",
       statement:
-        "No equipment item page stands, so nothing states the kit a session is loaded with.",
+        "No equipment item page exists, so nothing states the kit a session is loaded with.",
     },
   ],
 } as const satisfies Module

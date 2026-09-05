@@ -4,7 +4,7 @@ export const exerciseRows = {
   id: "01a0685c-7d80-71d9-9b6b-dfe5a1891ec2",
   pageTypeSlug: "module",
   slug: "exercise-rows",
-  definition: "the rows a fitness page type stands as in this checkout, and the fields on one row",
+  definition: "the rows a fitness page type has in this checkout, and the fields on one row",
   code: "ts",
   test: "ts",
   invariants: [

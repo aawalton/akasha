@@ -41,7 +41,7 @@ const SESSIONS: readonly Row[] = [
 ]
 
 describe("what a row states", () => {
-  test("a page's own fields stand on the row under the names the page file gives them", () => {
+  test("a page's own fields are on the row under the names the page file gives them", () => {
     const row = rowFrom({
       id: "019ee093-e069-754e-bacc-b646edcd0357",
       slug: "a-set",
@@ -145,7 +145,7 @@ describe("which rows an asking keeps", () => {
     expect(held.map((row) => row.workoutSessionDate)).toEqual(["2026-06-24"])
   })
 
-  test("a limit past the end takes what stands rather than refusing", () => {
+  test("a limit past the end takes what is there rather than refusing", () => {
     const held = shapedIn(SESSIONS, { pageTypeSlug: "workout-session", limit: 99 })
     expect(held.length).toBe(3)
   })

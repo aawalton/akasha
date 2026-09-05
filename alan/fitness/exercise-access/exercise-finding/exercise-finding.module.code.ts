@@ -90,11 +90,11 @@ export async function openSession(ref: string | undefined, now: Date): Promise<F
     }
   }
   const today = getEsoDayStr(now)
-  const stood = textIn(session, "workoutSessionDate")
-  if (stood !== today) {
+  const filedOn = textIn(session, "workoutSessionDate")
+  if (filedOn !== today) {
     return {
       refused:
-        `the open session is "${session.title ?? session.id}" of ${stood ?? "no day"} rather than of today (${today}), ` +
+        `the open session is "${session.title ?? session.id}" of ${filedOn ?? "no day"} rather than of today (${today}), ` +
         `so start today's session, which closes the one left open, or name that one at \`--session ${session.id}\``,
     }
   }

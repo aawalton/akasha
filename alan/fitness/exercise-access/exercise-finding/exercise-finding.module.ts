@@ -33,11 +33,11 @@ export const exerciseFinding = {
     },
     {
       invariantKind: "departure",
-      statement: "The schedule a day is read against is whichever one stands active.",
+      statement: "The schedule a day is read against is whichever one is active.",
     },
     {
       invariantKind: "departure",
-      statement: "No schedule standing is an empty answer rather than a refusal.",
+      statement: "No schedule existing is an empty answer rather than a refusal.",
     },
   ],
 } as const satisfies Module

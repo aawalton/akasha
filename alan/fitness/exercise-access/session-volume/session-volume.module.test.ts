@@ -28,7 +28,7 @@ describe("what a session's sets come to", () => {
     expect(exerciseSlugsIn(SET_LOGS).length).toBe(3)
   })
 
-  test("a movement is named once however many of its sets stand", () => {
+  test("a movement is named once however many sets it has", () => {
     expect(exerciseSlugsIn(SET_LOGS)).toEqual(["goblet-squat", "push-up", "bike"])
   })
 
@@ -38,7 +38,7 @@ describe("what a session's sets come to", () => {
     expect(loads.get("push-up")?.loadFactor).toBe(0.65)
   })
 
-  test("a movement no exercise page stands for leaves its load absent", () => {
+  test("a movement no exercise page represents leaves its load absent", () => {
     const sets = volumeSetsIn(SET_LOGS, loadsIn(EXERCISES))
     const bike = sets[3]
     expect(bike).toBeDefined()
