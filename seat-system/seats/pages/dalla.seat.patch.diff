@@ -160,3 +160,20 @@ index 28ffd619df397839bc783d7257392a97858ca2a4..d5b8ecbfa3be8d82d60578db8e49ceeb
    if (act === SHOW) return showingBody(given.root, page, rest)
    if (act === RESOLVE) return await resolving(given, page, rest, piping)
    return await applying(given, page, rest)
+diff --git a/commands/patch/patch.command.test.ts b/commands/patch/patch.command.test.ts
+index 3b78496f64cfa5166574e37019bb177cdb80eb0c..07f3751a9aad97aa0a887eecf1eff9d67553f201 100644
+--- a/commands/patch/patch.command.test.ts
++++ b/commands/patch/patch.command.test.ts
+@@ -2,7 +2,11 @@ import { afterAll, expect, test } from "bun:test"
+ import { patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import type { Given } from "../../command-system/calling/calling.module.code.ts"
+-import { drafted, resolved } from "../../command-system/drafting/drafting.module.code.ts"
++import {
++  drafted,
++  mechanicalIn,
++  resolved,
++} from "../../command-system/drafting/drafting.module.code.ts"
+ import type { Piping } from "../../command-system/piping/piping.module.code.ts"
+ import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+ import { writing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
