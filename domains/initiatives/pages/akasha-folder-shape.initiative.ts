@@ -8,6 +8,11 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
+      statement: "Nothing in akasha reads a markdown page.",
+      workingMemory:
+        "No `.page-type.md`, `.uncommitted.yaml` or `.message.md` is there, and `markdown-property-registry` answers `[]`, so every markdown write is a no-op. Of 17 importers four want only `slugNamed`, which `pages/address` answers as `slugIn`. The rest are dead: `editor-arrangement` answers 400 on every write, `selection-policy` throws, `royal-road-syncing` exits 1. Five dead callers hold 48 of 60 modules. `Repo`, `Frontmatter` and `notUtf8` need a home, and the package declares `@akasha/seat-system`.",
+    },
+    {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
         "`akasha audit --check folder-matches-a-shape` answers 961 refusals over 120410 files, and one answer holds what fits in 28000 bytes, so the list is worked lex-ordered in tranches. That narrowed run costs 1.5 GB and 12 seconds, and adding `--file-path` brings it to 0.6 GB and 3 seconds, so a fix is measured where it lands rather than batched. A whole audit is the run that costs 21 GB and eight minutes.",
