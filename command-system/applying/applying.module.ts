@@ -59,7 +59,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A wiped record is what leaves an apply unwarranted.",
+      statement: "A wiped record leaves an apply unwarranted.",
     },
     {
       invariantKind: "departure",
@@ -75,7 +75,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "The warrant refuses a path that moved until the agent reads what moved.",
+      statement: "The warrant refuses a path that moved until the agent reads the body that moved.",
     },
     {
       invariantKind: "departure",
@@ -95,7 +95,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent is never left owing a read of what that agent's own apply landed.",
+      statement: "An agent is never left owing a read of the bodies that agent's own apply landed.",
     },
     {
       invariantKind: "departure",
