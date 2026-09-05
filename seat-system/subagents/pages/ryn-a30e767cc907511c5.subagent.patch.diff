@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-clients/inference-clients.workspace-package.ts b/infrastructure/inference-clients/inference-clients.workspace-package.ts
+index 227c96c2ef9958e91a14486cded2c76f0d91c507..9a50f0955cea66a665de3f1d8e32475a4b7cd865 100644
+--- a/infrastructure/inference-clients/inference-clients.workspace-package.ts
++++ b/infrastructure/inference-clients/inference-clients.workspace-package.ts
+@@ -30,7 +30,7 @@ export const inferenceClients = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here keeps a record of the run it asked for.",
++      statement: "Nothing here keeps a record of the run a client asked for.",
+     },
+     {
+       invariantKind: "absence",
