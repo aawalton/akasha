@@ -60,7 +60,7 @@ export const identifierNamesOnePage = {
     {
       invariantKind: "absence",
       statement:
-        "Working the index out does open the page type and record property pages it names.",
+        "Working the index out does open the page type and record property pages that index names.",
     },
   ],
 } as const satisfies CodeCheck
