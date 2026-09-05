@@ -1,0 +1,65 @@
+diff --git a/infrastructure/audios/audio.page-type.ts b/infrastructure/audios/audio.page-type.ts
+index ae999b99d0f3599570c430ae8370e23067f236b7..f92324960f649f45c877ac0c4d13ed14404d5e9e 100644
+--- a/infrastructure/audios/audio.page-type.ts
++++ b/infrastructure/audios/audio.page-type.ts
+@@ -12,7 +12,7 @@ export const audio = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An audio's bytes stand in the object store under the audio's own id, and on disk where the audio says they were written.",
++        "An audio's bytes sit in the object store under the audio's own id, and on disk where the audio says they were written.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/generation-logs/generation-log.page-type.ts b/infrastructure/generation-logs/generation-log.page-type.ts
+index 505b00d701bf32e0ab5bbc68f40da99559ad3969..458a0ec8d457d481c4826ce28dbdb8028ddcaeed 100644
+--- a/infrastructure/generation-logs/generation-log.page-type.ts
++++ b/infrastructure/generation-logs/generation-log.page-type.ts
+@@ -8,7 +8,7 @@ export const generationLog = {
+   id: "01a01d18-306b-7000-9796-b41f285a1bad",
+   pageTypeSlug: "page-type",
+   slug: "generation-log",
+-  definition: "the standing record of what one set of model services has made",
++  definition: "the record kept of what one set of model services has made",
+   pluralSlug: "generation-logs",
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+diff --git a/infrastructure/generation-logs/properties/generation-audios.file-property.ts b/infrastructure/generation-logs/properties/generation-audios.file-property.ts
+index ca4720588923b357dcb2afc62b3761a4174230d0..ea521fa0965db52bbb7cf96be3786c93edf40a0a 100644
+--- a/infrastructure/generation-logs/properties/generation-audios.file-property.ts
++++ b/infrastructure/generation-logs/properties/generation-audios.file-property.ts
+@@ -15,7 +15,7 @@ export const generationAudios = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An audio row records where its bytes stand, never the bytes.",
++      statement: "An audio row records where its bytes are, never the bytes.",
+     },
+   ],
+ } as const satisfies FileProperty
+diff --git a/infrastructure/generation-logs/properties/generation-images.file-property.ts b/infrastructure/generation-logs/properties/generation-images.file-property.ts
+index 5341535ae5d0adb261ab11829edeca869c90c637..723415fd1bbdc6625cd33e8a9897e5d435727143 100644
+--- a/infrastructure/generation-logs/properties/generation-images.file-property.ts
++++ b/infrastructure/generation-logs/properties/generation-images.file-property.ts
+@@ -15,7 +15,7 @@ export const generationImages = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An image row records where its bytes stand, never the bytes.",
++      statement: "An image row records where its bytes are, never the bytes.",
+     },
+   ],
+ } as const satisfies FileProperty
+diff --git a/infrastructure/images/image.page-type.ts b/infrastructure/images/image.page-type.ts
+index 496fdfad2b744c8ed8795674af68b64a733bac86..8f594ba97294afaaa74cff945fce64c127fe7cce 100644
+--- a/infrastructure/images/image.page-type.ts
++++ b/infrastructure/images/image.page-type.ts
+@@ -15,7 +15,7 @@ export const image = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An image's bytes stand in the object store under the image's own id, and on disk where the image says they were written.",
++        "An image's bytes sit in the object store under the image's own id, and on disk where the image says they were written.",
+     },
+     {
+       invariantKind: "departure",
