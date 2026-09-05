@@ -45,7 +45,7 @@ export const noClass = {
     {
       invariantKind: "departure",
       statement:
-        "What a class extends is judged by the name written rather than by what that name resolves to.",
+        "The name a class extends is judged as written rather than by the type that name resolves to.",
     },
   ],
 } as const satisfies CodeCheck
