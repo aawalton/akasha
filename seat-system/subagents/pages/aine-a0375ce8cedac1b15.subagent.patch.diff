@@ -30,7 +30,7 @@ index f1bedd844599fe99a7aa22c3df0917ff82e54b92..2fac4e17aa4835d0ec1bf5f4e56c2012
      naps
    )
 diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
-index b9b1ca7f39b8c6db265300730feec6a48ffc9503..d1a0e8414a215d78d9dc5ea388fd011cd84512e4 100644
+index b9b1ca7f39b8c6db265300730feec6a48ffc9503..f7e28f855be927eef9bd2e0f0028cbf8e428f17e 100644
 --- a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
 +++ b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
 @@ -107,7 +107,7 @@ test("a slug becomes an export name that opens with a letter", () => {
@@ -64,6 +64,15 @@ index b9b1ca7f39b8c6db265300730feec6a48ffc9503..d1a0e8414a215d78d9dc5ea388fd011c
    const secret = generateDeviceSecret()
    const page = pageFor(secret)
    const read = await deviceSecretPresented(
+@@ -218,7 +218,7 @@ test("pages that went unread are told apart from pages that matched nothing", as
+   expect(held.why).toContain("went unread")
+ })
+ 
+-test("a hash standing on two pages is read to neither", async () => {
++test("a hash on two pages is read to neither", async () => {
+   const secret = generateDeviceSecret()
+   const rows = [pageFor(secret), pageFor(secret, { slug: "alan-another" })]
+   const held = await deviceSecretPresented(
 diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.ts b/person-system/device-secret-keeping/device-secret-keeping.module.ts
 index 9687f40bb4fffb87fba4e42ead7225723ff33d0f..530cc3a96aa49f6dfce44d631498117c582a2a39 100644
 --- a/person-system/device-secret-keeping/device-secret-keeping.module.ts
