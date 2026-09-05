@@ -28,7 +28,7 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "No narrowing makes them one.",
+      statement: "No narrowing makes those two declarations one.",
     },
     {
       invariantKind: "departure",
