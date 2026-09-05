@@ -1,0 +1,17 @@
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 1d0ee1e71cbd54fb992546bd485afd9faee516b3..7a4272136ee4c51f5700bbab41bdb727943db095 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -7,6 +7,12 @@ export const theaChecksSystem = {
+   domainSlug: "workspace-package/checks",
+   personaSlug: "thea",
+   intents: [
++    {
++      statement:
++        "A page type narrows an inherited property's reach to the collection it is part of.",
++      workingMemory:
++        "168 routes across 7 apps share one page type, and `home`, `sign-in`, `page-detail`, `landing` and eight more repeat, so route slugs need this. `part-of` is declared and branched at index-identity.index.code.ts:29 but never written, read back or tested — 0 files carry it against 69 carrying `page-type`. The `scoped` address kind reaches only its two definition sites. Order: seed a test against the PART_OF branch first, since all of it rests on a line that has never run; then the `unique` field on the properties declaration, refused today by page-matches-its-type:104; then the identity map; then twenty-odd consumers passing a page-type slug as the scope, each answering empty rather than erroring, so every failure is silent.",
++    },
+     {
+       statement: "Every check is clean.",
+       workingMemory:
