@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-turn/turn-working/turn-working.module.ts b/seat-system/seat-turn/turn-working/turn-working.module.ts
+index 6a744ef7abcc714e05e89c0f33cffc20abe2f986..bbbb604cfbd0c31c6c1fbcc4094333f61ae16ff0 100644
+--- a/seat-system/seat-turn/turn-working/turn-working.module.ts
++++ b/seat-system/seat-turn/turn-working/turn-working.module.ts
+@@ -15,7 +15,7 @@ export const turnWorking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A prompt with nothing answering it yet is a turn still to finish.",
++      statement: "A prompt with nothing answering that prompt yet is a turn still to finish.",
+     },
+     {
+       invariantKind: "departure",
