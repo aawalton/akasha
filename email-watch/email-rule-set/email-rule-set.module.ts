@@ -22,7 +22,7 @@ export const emailRuleSet = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a page to learn what the fields are.",
+      statement: "Nothing here reads a page to learn the fields.",
     },
   ],
 } as const satisfies Module
