@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-zone/zone-names-ru-04/zone-names-ru-04.module.ts b/temper/temper-lib-zone/zone-names-ru-04/zone-names-ru-04.module.ts
+index edd2b13854ec30aaf9af72e2598033e5abf392e4..80c2116f97e8b05618cff6655cf08465ecdfe084 100644
+--- a/temper/temper-lib-zone/zone-names-ru-04/zone-names-ru-04.module.ts
++++ b/temper/temper-lib-zone/zone-names-ru-04/zone-names-ru-04.module.ts
+@@ -9,7 +9,7 @@ export const zoneNamesRu04 = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "These rows are what upstream LibZone v8.98 states.",
++      statement: "These rows are the rows upstream LibZone v8.98 states.",
+     },
+   ],
+ } as const satisfies Module
