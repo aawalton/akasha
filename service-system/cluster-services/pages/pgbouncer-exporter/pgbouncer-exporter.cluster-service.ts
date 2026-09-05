@@ -11,6 +11,5 @@ export const pgbouncerExporter = {
   image: "prometheuscommunity/pgbouncer-exporter:v0.12.0",
   replicas: 1,
   containerPort: 9127,
-  manifestCode:
-    "service-system/cluster-services/pages/pgbouncer-exporter/pgbouncer-exporter.cluster-service.code.attachment.ts",
+  manifestSlug: "pgbouncer-exporter",
 } as const satisfies ClusterService
