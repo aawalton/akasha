@@ -1,4 +1,5 @@
 import { getPage, getPages } from "@akasha/pages-access/get"
+import { readFiles, readPages } from "@akasha/pages-query"
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import type { BackpackSettings } from "@akasha/temper-items-core/backpack-settings-types"
 import { DEFAULT_BACKPACK_SETTINGS } from "@akasha/temper-items-core/backpack-settings-types"
@@ -16,6 +17,14 @@ import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
+import type {
+  ReadFiles,
+  ReadPages,
+} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+import {
+  besidePathsFor,
+  contentIn,
+} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 import type { PricingTables } from "../watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
 import { computePricingTables } from "../watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
 import {
@@ -54,6 +63,10 @@ const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
 const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
 const TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
+
+const SETTINGS_PROPERTY = "settings"
+
+const SETTINGS_ENDING = "json"
 
 const RULES_AT_MOST = 500
 
@@ -103,6 +116,49 @@ function isAutomationSettings(value: unknown): value is AutomationSettings {
   return isRecord(held.characters) && isRecord(held.companions)
 }
 
+export async function settingsBodyOf(
+  slug: string,
+  pages: ReadPages = readPages,
+  files: ReadFiles = readFiles
+): Promise<string | null> {
+  const beside = await besidePathsFor(
+    pages,
+    TEMPER_PLAYER_PAGE_TYPE_SLUG,
+    [slug],
+    SETTINGS_PROPERTY,
+    SETTINGS_ENDING
+  )
+  const path = beside.get(slug)
+  if (path === undefined) return null
+  const found = await files([path])
+  if (!found.ok) {
+    throw new Error(
+      `the settings file beside ${TEMPER_PLAYER_PAGE_TYPE_SLUG}/${slug} went unread: ${found.why}`
+    )
+  }
+  return contentIn(found.bodies, path)
+}
+
+export function settingsIn(body: string | null, types: readonly string[]): Record<string, unknown> {
+  if (body === null || body.trim() === "") return {}
+  let read: unknown
+  try {
+    read = JSON.parse(body)
+  } catch (err) {
+    const why = err instanceof Error ? err.message : String(err)
+    throw new Error(
+      `the settings beside the ${TEMPER_PLAYER_PAGE_TYPE_SLUG} page hold ${body.length} byte(s) that are not valid JSON: ${why}`
+    )
+  }
+  const settings = asRecord(read)
+  if (!settings) return {}
+  const held: Record<string, unknown> = {}
+  for (const type of types) {
+    if (settings[type] !== undefined) held[type] = settings[type]
+  }
+  return held
+}
+
 async function readSettings(
   userId: string,
   types: readonly string[]
@@ -111,13 +167,9 @@ async function readSettings(
     pageTypeSlug: TEMPER_PLAYER_PAGE_TYPE_SLUG,
     where: [{ key: "title", eq: userId }],
   })
-  const settings = page == null ? undefined : asRecord(page.settings)
-  if (!settings) return {}
-  const held: Record<string, unknown> = {}
-  for (const type of types) {
-    if (settings[type] !== undefined) held[type] = settings[type]
-  }
-  return held
+  const slug = page?.slug
+  if (typeof slug !== "string") return {}
+  return settingsIn(await settingsBodyOf(slug), types)
 }
 
 async function readRules(userId: string): Promise<readonly HeldRule[]> {

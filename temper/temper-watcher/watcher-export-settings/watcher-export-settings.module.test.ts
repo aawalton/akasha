@@ -3,6 +3,7 @@ import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-fr
 import {
   type ExportSettingsSeams,
   runExportSettings,
+  settingsIn,
 } from "./watcher-export-settings.module.code.ts"
 
 type Client = Parameters<typeof runExportSettings>[1]
@@ -292,4 +293,35 @@ test("the rules the settings blob still holds are passed over for the rule pages
   const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
   expect(result.content).not.toContain("currency-alliance-points")
   expect(result.content).toContain("currency-gold")
+})
+
+const A_BODY = JSON.stringify({
+  inventory: { version: 2, rules: [] },
+  logging: { actionReports: "minimal" },
+  nobodyAsked: true,
+})
+
+test("the settings read are the ones the file beside the player page holds", () => {
+  expect(settingsIn(A_BODY, ["inventory", "logging"])).toEqual({
+    inventory: { version: 2, rules: [] },
+    logging: { actionReports: "minimal" },
+  })
+})
+
+test("a settings type nobody asked for is left out", () => {
+  expect(settingsIn(A_BODY, ["logging"])).toEqual({ logging: { actionReports: "minimal" } })
+})
+
+test("no file beside the player page is no settings", () => {
+  expect(settingsIn(null, ["logging"])).toEqual({})
+  expect(settingsIn("", ["logging"])).toEqual({})
+})
+
+test("a settings file that is no JSON is refused by how many bytes would not parse", () => {
+  expect(() => settingsIn("{not json", ["logging"])).toThrow("9 byte(s) that are not valid JSON")
+})
+
+test("a settings file holding something other than a record is no settings", () => {
+  expect(settingsIn("[1,2,3]", ["logging"])).toEqual({})
+  expect(settingsIn('"json"', ["logging"])).toEqual({})
 })
