@@ -57,6 +57,11 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "`carryReadings` is called at four hand-written sites, each behind its own `if (landing.code === 0)`, so the rule that passing `carries` obliges carrying the readings is enforced by nothing. `dropReadings` is called by `remove` alone, so `write --remove` and `edit --remove` take a path away and leave the record naming it.",
     },
+    {
+      statement: "Every mechanical change is an atomic change a refactor command runs.",
+      workingMemory:
+        "`atomic-change` and `refactor-command` are page types. An atomic change changes one thing wherever it reaches, refuses or leaves the tree whole, and asks the index what a thing reaches rather than walking. Two are built: `rename-local-variable` over one file and `rename-export` across every importer. Left: nothing loads either type, since `calling` binds commands by the `command` page type id alone; and `token-renaming` carries three subjects, so it is three atomic changes rather than one.",
+    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
