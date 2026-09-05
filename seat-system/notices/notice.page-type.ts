@@ -53,7 +53,7 @@ export const notice = {
     },
     {
       invariantKind: "gap",
-      statement: "The notices a seat is resumed with stand as pages under this type.",
+      statement: "The notices a seat is resumed with exist as pages under this type.",
     },
   ],
 } as const satisfies PageType

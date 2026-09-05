@@ -17,7 +17,7 @@ export const noticeWarrant = {
     },
     {
       invariantKind: "departure",
-      statement: "What editing a notice's words costs stands on the notice.",
+      statement: "What editing a notice's words costs sits on the notice.",
     },
   ],
 } as const satisfies TextProperty

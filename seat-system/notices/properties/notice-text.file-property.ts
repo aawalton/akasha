@@ -11,7 +11,7 @@ export const noticeText = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A notice's words stand in a file beside the page.",
+      statement: "A notice's words sit in a file beside the page.",
     },
     {
       invariantKind: "departure",

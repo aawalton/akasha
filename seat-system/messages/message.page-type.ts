@@ -77,7 +77,7 @@ export const message = {
     },
     {
       invariantKind: "gap",
-      statement: "The messages waiting stand as pages under this type rather than as markdown.",
+      statement: "The messages waiting exist as pages under this type rather than as markdown.",
     },
   ],
 } as const satisfies PageType
