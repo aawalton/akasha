@@ -1559,3 +1559,11 @@ index 3add7cd8570a6fe9b9316c6ac0cefe618ba99c79..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-skill-morphs
 \ No newline at end of file
+diff --git a/temper/temper-skill-point-finder/temper-skill-point-finder b/temper/temper-skill-point-finder/temper-skill-point-finder
+deleted file mode 120000
+index 68f962bdffee1777e0462b5673d4fe2dd9fbbf39..0000000000000000000000000000000000000000
+--- a/temper/temper-skill-point-finder/temper-skill-point-finder
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-skill-point-finder
+\ No newline at end of file
