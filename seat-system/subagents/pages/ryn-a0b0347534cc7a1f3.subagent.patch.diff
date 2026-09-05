@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/refactor/token-renaming/token-renaming.module.ts b/command-system/commands/refactor/token-renaming/token-renaming.module.ts
-index c1b8fadd6478eb5791a9568718d70fc1cbd0f472..24e2c556249be76d83d507ea24488f176eb04537 100644
+index c1b8fadd6478eb5791a9568718d70fc1cbd0f472..514dddc2f7b4039b761871f0b93a7fe628ccfcd8 100644
 --- a/command-system/commands/refactor/token-renaming/token-renaming.module.ts
 +++ b/command-system/commands/refactor/token-renaming/token-renaming.module.ts
 @@ -114,7 +114,8 @@ export const tokenRenaming = {
@@ -10,6 +10,16 @@ index c1b8fadd6478eb5791a9568718d70fc1cbd0f472..24e2c556249be76d83d507ea24488f17
 -      statement: "What a shorthand names is asked of the checker rather than read off the syntax.",
 +      statement:
 +        "The declaration a shorthand names is asked of the checker rather than read off the syntax.",
+     },
+     {
+       invariantKind: "departure",
+@@ -173,7 +174,8 @@ export const tokenRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What still names the name is looked for after the strings were respelled.",
++      statement:
++        "The places still naming the name are looked for after the strings were respelled.",
      },
      {
        invariantKind: "departure",
