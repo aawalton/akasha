@@ -136,6 +136,53 @@ index 0000000000000000000000000000000000000000..287efef15c4b89aa95bba1f1f1538aa5
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/commands/move/spreading/move-spreading.module.test-fixtures.ts b/commands/move/spreading/move-spreading.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f37a69e62bf49503a8d689c7d84103c0c1bb951f
+--- /dev/null
++++ b/commands/move/spreading/move-spreading.module.test-fixtures.ts
+@@ -0,0 +1,41 @@
++import { mkdirSync } from "node:fs"
++import { join } from "node:path"
++import { put } from "@akasha/testing-system/putting"
++import {
++  CODE,
++  HELD,
++  HOLDER,
++  OTHER,
++  PAGE,
++  rebuilt,
++  repoWith,
++  TARGET,
++  UNSAID,
++  VALUES,
++} from "../move.command.test-fixtures.ts"
++
++export const HELD_AT = "akasha/far/one/held.module.ts"
++
++export const HOLDER_AT = "akasha/far/one/held.module.code.ts"
++
++export const NESTED_HELD = "akasha/one/under/nested.module.code.ts"
++
++export const NESTED_AT = "akasha/far/one/under/nested.module.code.ts"
++
++export const LOOSE = "akasha/one/loose.module.ts"
++
++export const UNSAID_UNDER = "akasha/far/one/held.module.uncommitted.ts"
++
++export function folderWorld(): string {
++  return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [NESTED_HELD]: OTHER, [TARGET]: OTHER }))
++}
++
++export function folderUnsaid(): string {
++  const root = folderWorld()
++  put(root, UNSAID, VALUES)
++  return root
++}
++
++export function bareDir(root: string, path: string): undefined {
++  mkdirSync(join(root, path), { recursive: true })
++}
 diff --git a/commands/track/session-rows/session-rows.module.code.ts b/commands/track/session-rows/session-rows.module.code.ts
 index d29efd47854ccb6b805610bc2c7cf829dab937d4..3bd3121f3c5707831b7166eb4ced84ef038eabc2 100644
 --- a/commands/track/session-rows/session-rows.module.code.ts
