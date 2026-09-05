@@ -1,0 +1,13 @@
+diff --git a/seat-system/seats/properties/open-agents.text-property.ts b/seat-system/seats/properties/open-agents.text-property.ts
+index 95a9f26798b9e1e296ca12cb2341a54f9556bcad..358205e46675c5e418be94b5b6dd8c40827e7c4a 100644
+--- a/seat-system/seats/properties/open-agents.text-property.ts
++++ b/seat-system/seats/properties/open-agents.text-property.ts
+@@ -14,7 +14,7 @@ export const openAgents = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A subagent is named by the task the transcript gives it.",
++      statement: "A subagent is named by the task the transcript gives that subagent.",
+     },
+     {
+       invariantKind: "departure",
