@@ -71,3 +71,11 @@ index d916c8bb1a52c76aa6d4036885efad2052b46013..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../browser/test-harness
 \ No newline at end of file
+diff --git a/changes/workflow-language/workflow-language b/changes/workflow-language/workflow-language
+deleted file mode 120000
+index e612a8745917c99921fa153a6d2e94a073a28186..0000000000000000000000000000000000000000
+--- a/changes/workflow-language/workflow-language
++++ /dev/null
+@@ -1 +0,0 @@
+-../../changes/workflow-language
+\ No newline at end of file
