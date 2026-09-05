@@ -27,7 +27,7 @@ export const noRunOutsideTheRunner = {
     },
     {
       invariantKind: "departure",
-      statement: "A process started to be awaited or held is not what this rule refuses.",
+      statement: "A process started to be awaited or held is not refused by this rule.",
     },
     {
       invariantKind: "departure",
