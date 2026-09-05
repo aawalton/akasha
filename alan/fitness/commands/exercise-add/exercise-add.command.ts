@@ -25,7 +25,7 @@ export const exerciseAdd = {
       takes: "the muscles it works besides those, parted by commas",
     },
     { said: "--load-factor <n>", takes: "how much of Alan's bodyweight each rep moves" },
-    { said: "--implement-count <n>", takes: "how many implements the weight recorded stands for" },
+    { said: "--implement-count <n>", takes: "how many implements the weight recorded counts for" },
     { said: "--json", takes: "answer as JSON rather than as a line meant for a reader" },
   ],
   helpNotes: [

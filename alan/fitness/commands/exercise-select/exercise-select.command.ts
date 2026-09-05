@@ -5,7 +5,7 @@ export const exerciseSelect = {
   pageTypeSlug: "command",
   slug: "exercise-select",
   definition:
-    "the command planning one ordered session for a focus and saying why each pick stands",
+    "the command planning one ordered session for a focus and saying why each pick is there",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [

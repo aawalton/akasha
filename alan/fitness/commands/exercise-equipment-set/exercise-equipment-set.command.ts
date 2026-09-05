@@ -24,7 +24,7 @@ export const exerciseEquipmentSet = {
   ],
   helpNotes: [
     "the piece is named as the first word or at `--title`, and either does the same thing.",
-    "the first call on a name makes the page and every later call changes the one that stands.",
+    "the first call on a name makes the page and every later call changes the one already there.",
     "a field the call does not name is left as it was.",
     "a piece is owned unless `--unavailable` is said, and saying it once does not unsay it later.",
     "the loads are one line rather than a list, so `3,5,8,10` is what is meant.",

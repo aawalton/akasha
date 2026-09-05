@@ -4,7 +4,7 @@ export const exerciseNextSet = {
   id: "01a0685d-b7ab-7c3e-8164-fabcaa2197eb",
   pageTypeSlug: "command",
   slug: "exercise-next-set",
-  definition: "the command naming the one set to perform next in the session that stands open",
+  definition: "the command naming the one set to perform next in the session that is open",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [

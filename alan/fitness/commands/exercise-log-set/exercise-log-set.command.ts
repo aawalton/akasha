@@ -36,7 +36,7 @@ export const exerciseLogSet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A set is written into a session rather than standing on its own.",
+      statement: "A set is written into a session rather than existing on its own.",
     },
     {
       invariantKind: "departure",

@@ -4,7 +4,7 @@ export const exerciseConstraintSet = {
   id: "01a0685c-7d81-7ff4-affa-100ab8f1b263",
   pageTypeSlug: "command",
   slug: "exercise-constraint-set",
-  definition: "the command recording a standing limit or cue the coach programs within",
+  definition: "the command recording an ongoing limit or cue the coach programs within",
   code: "ts",
   changeKindSlug: "change-mechanical",
   taking: [
@@ -17,15 +17,15 @@ export const exerciseConstraintSet = {
     { said: "--body-file <file>", takes: "a file what it asks for is read from" },
     { said: "--kind <kind>", takes: "what sort of limit or cue it is" },
     { said: "--focus <csv>", takes: "the focuses it reaches, parted by commas, or all of them" },
-    { said: "--inactive", takes: "that the constraint is retired rather than standing" },
+    { said: "--inactive", takes: "that the constraint is retired rather than active" },
     { said: "--sort-order <n>", takes: "where it sits when the constraints are read as a list" },
     { said: "--json", takes: "answer as JSON rather than as a line meant for a reader" },
   ],
   helpNotes: [
-    "the first call on a headline makes the page and every later call changes the one that stands.",
+    "the first call on a headline makes the page and every later call changes the one already there.",
     "a field the call does not name is left as it was.",
     "what the constraint asks for lands in a file beside the page rather than in the page.",
-    "a constraint stands unless `--inactive` is said.",
+    "a constraint is active unless `--inactive` is said.",
     "a constraint tagged all reaches every focus, so it needs no other tag.",
   ],
   invariants: [
@@ -35,7 +35,7 @@ export const exerciseConstraintSet = {
     },
     {
       invariantKind: "departure",
-      statement: "What a constraint asks for stands in its own file beside the page.",
+      statement: "What a constraint asks for is in its own file beside the page.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const exerciseConstraintSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A constraint made by this call stands unless the call says otherwise.",
+      statement: "A constraint made by this call is active unless the call says otherwise.",
     },
   ],
 } as const satisfies Command
