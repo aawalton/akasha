@@ -16,6 +16,7 @@ import {
   AKASHA,
   PROXY,
   ROOT_LOCAL,
+  SEAT_RESUME,
   SEAT_START_DIR,
   SUPERVISOR,
 } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
@@ -236,7 +237,8 @@ export function seatResumeFn(name: string): string {
     ...handlerForPersonLines(name, false),
     ...payloadEscapeLines(name),
     "  local full_aid full_sid",
-    "  IFS=$'\\t' read -r full_aid full_sid < <(ops seat resume \"$name\" --start-mode interactive --no-launch)",
+    "  IFS=$'\\t' read -r full_aid full_sid < <(" +
+      `bun run ${SEAT_RESUME} "$name" --start-mode interactive --no-launch)`,
     '  if [ -z "$full_sid" ]; then',
     `    if [ "$(${tmuxServerCountShell()})" -gt 1 ]; then`,
     `      echo "${name}: more than one tmux server is running and this socket reaches only one ` +

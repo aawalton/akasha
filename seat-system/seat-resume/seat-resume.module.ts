@@ -9,7 +9,7 @@ export const seatResume = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ops dispatcher imports this and calls the default export it declares.",
+      statement: "Running this file calls the default export the file declares.",
     },
     {
       invariantKind: "departure",

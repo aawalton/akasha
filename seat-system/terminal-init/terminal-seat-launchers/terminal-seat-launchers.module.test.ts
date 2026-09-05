@@ -114,7 +114,7 @@ describe("a fresh seat", () => {
 describe("a resume", () => {
   test("attaches to a live session without asking anything to start it", () => {
     expect(resuming.indexOf(`${SEAT_LIVE_FN} "$name"`)).toBeLessThan(
-      resuming.indexOf("ops seat resume")
+      resuming.indexOf("seat-resume.module.code.ts")
     )
     expect(resuming).toContain('tmux attach-session -t "=$name"\n    return $?')
   })

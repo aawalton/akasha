@@ -62,7 +62,7 @@ export const terminalSeatLaunchers = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Starting and resuming a seat are still asked of the old ops entry point.",
+      statement: "Starting a seat is still asked of the old ops entry point.",
     },
   ],
 } as const satisfies Module

@@ -1,11 +1,15 @@
 import { describe, expect, test } from "bun:test"
-import { PTY_PROXY_REL, SUPERVISOR_REL } from "../../seat-launching/seat-launching.module.code.ts"
+import {
+  PTY_PROXY_REL,
+  SEAT_RESUME_REL,
+  SUPERVISOR_REL,
+} from "../../seat-launching/seat-launching.module.code.ts"
 import {
   AKASHA,
-  OPS,
   PROXY,
   ROOT,
   ROOT_LOCAL,
+  SEAT_RESUME,
   SEAT_START_DIR,
   SUPERVISOR,
 } from "./terminal-entry-points.module.code.ts"
@@ -39,7 +43,7 @@ describe("the commands a terminal reaches", () => {
     expect(AKASHA).toBe('"${AKASHA_ROOT:-$HOME/repos/akasha}/dotfiles/bin/akasha"')
   })
 
-  test("name the old ops entry point while its acts are still carried there", () => {
-    expect(OPS).toBe("~/repos/akasha/command-system/ops-calling/ops-calling.module.code.ts")
+  test("name the resume module a terminal runs to put a seat back on its session", () => {
+    expect(SEAT_RESUME).toBe(`"$_root/${SEAT_RESUME_REL}"`)
   })
 })

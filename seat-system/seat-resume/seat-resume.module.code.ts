@@ -1,5 +1,10 @@
 import { parseArgs } from "@akasha/command-system/parse-args"
-import { dataError, inputError, operationalError } from "@akasha/errors-core/exit-code"
+import {
+  dataError,
+  exitCodeForThrowable,
+  inputError,
+  operationalError,
+} from "@akasha/errors-core/exit-code"
 import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
 import {
   holdSeatPaneOpen,
@@ -285,3 +290,10 @@ export default async function seatResume(args: readonly string[]): Promise<void>
 }
 
 export const help = HELP
+
+if (import.meta.main) {
+  seatResume(process.argv.slice(2)).catch((err: unknown) => {
+    process.stderr.write(`${err instanceof Error ? err.message : String(err)}\n`)
+    process.exit(exitCodeForThrowable(err))
+  })
+}
