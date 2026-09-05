@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/report/monarch-report.module.ts b/alan/harness/monarch/report/monarch-report.module.ts
+index 5ffc205dd70ec11e05f91e0978e872dbda01772c..41686e33c29ca81f8c026e9e56d6eca4306500fb 100644
+--- a/alan/harness/monarch/report/monarch-report.module.ts
++++ b/alan/harness/monarch/report/monarch-report.module.ts
+@@ -27,7 +27,7 @@ export const monarchReport = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reserving rule is reported by the category already on what it caught, grouped by the bank's words.",
++        "A reserving rule is reported by the standing category on rows caught, grouped by the bank's words.",
+     },
+     {
+       invariantKind: "departure",
