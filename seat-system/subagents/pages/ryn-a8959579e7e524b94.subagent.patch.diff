@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
+index 5989074c1ff39f072687c5cc0ad48b4df9e1b318..806b6eb69e48fa05a41f5493c72f8e9af6f2854a 100644
+--- a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
++++ b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
+@@ -17,7 +17,7 @@ export const attributeIntelligence = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The reading is the words about what Alan is learning turned into points.",
++      statement: "The reading is the words about Alan's learning turned into points.",
+     },
+     {
+       invariantKind: "departure",
