@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/digit-padding/digit-padding.workspace-package.ts b/digit-padding/digit-padding.workspace-package.ts
-index a7fd3a0a59121f888af0c49d6a9b5c970f664a92..2561054ac67dde0e152bcb0dfcfcbfde34b2b1f5 100644
+index a7fd3a0a59121f888af0c49d6a9b5c970f664a92..ded68d5d07da1bff48fc6ab229949631023f7f96 100644
 --- a/digit-padding/digit-padding.workspace-package.ts
 +++ b/digit-padding/digit-padding.workspace-package.ts
 @@ -10,7 +10,7 @@ export const digitPadding = {
@@ -12,3 +12,12 @@ index a7fd3a0a59121f888af0c49d6a9b5c970f664a92..2561054ac67dde0e152bcb0dfcfcbfde
      },
      {
        invariantKind: "departure",
+@@ -22,7 +22,7 @@ export const digitPadding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shorter answer breaks a caller that parses back what this writes.",
++      statement: "A shorter answer breaks a caller that parses back the answer this writes.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
