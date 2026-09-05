@@ -98,7 +98,7 @@ test("a run over one file answers a row for each of its functions", () => {
   expect(said.report[0]).toContain("\t")
 })
 
-test("rows stand worst first, so the highest complexity leads", () => {
+test("rows are ordered worst first, so the highest complexity leads", () => {
   const said = complexity(["cyclomatic", "--file", OWN], given("/repo"))
   const cc = said.report.map((one) => Number(one.split("\t")[3]))
 

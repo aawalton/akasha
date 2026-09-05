@@ -15,7 +15,7 @@ export const modelGateway = {
     },
     {
       said: "swap",
-      takes: "the act, which is a gateway respawned on the bytecode standing here",
+      takes: "the act, which is a gateway respawned on the bytecode here",
     },
     { said: "<target>", takes: "the seat to swap, named as its page is named or by its id" },
     { said: "--fleet", takes: "every live seat in turn rather than one named" },
@@ -24,12 +24,12 @@ export const modelGateway = {
   helpNotes: [
     "the act is the first word, and one call names one act.",
     "auto-swap is disarmed, so a running gateway stays on the version it was spawned at until a swap moves it, and a status reports the lag that leaves.",
-    "the version a status weighs against is the tree standing on disk here, which is what the next spawn would run.",
+    "the version a status weighs against is the tree on disk here, which is what the next spawn would run.",
     "on disk rather than published, because the gateway is spawned from this repository rather than deployed, so nothing publishes a version for it.",
     "a seat is current where the two versions match, lagging where the tree has moved and the seat has not, and unknown where either version will not read.",
     "a swap writes the ask into the seat's uncommitted values, and the supervisor takes it up as it handles and respawns the gateway alone.",
     "the port holds, the address the client is pointed at holds, and the client in the seat is not restarted.",
-    "a seat holding no live gateway is passed over, and its next boot spawns at the version standing then.",
+    "a seat holding no live gateway is passed over, and its next boot spawns at whatever version is there then.",
     "a swap is for rolling out a fix that cannot wait, since an ordinary deploy no longer reaches a running gateway.",
   ],
   invariants: [
@@ -40,7 +40,7 @@ export const modelGateway = {
     {
       invariantKind: "departure",
       statement:
-        "A status weighs the running version against the tree standing here rather than a published one.",
+        "A status weighs the running version against the tree here rather than a published one.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +88,7 @@ export const modelGateway = {
     {
       invariantKind: "departure",
       statement:
-        "A name that could name no seat is answered apart from a name no seat standing answers to.",
+        "A name that could name no seat is answered apart from a name no seat that is there answers to.",
     },
     {
       invariantKind: "absence",

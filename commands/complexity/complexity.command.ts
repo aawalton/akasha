@@ -14,8 +14,8 @@ export const complexity = {
     { said: "maintainability", takes: "the act, which is the maintainability index of each file" },
     { said: "report", takes: "the act, which is every metric by percentile with its outliers" },
     { said: "--file <path>", takes: "the one file to read, said from the repository root" },
-    { said: "--threshold <n>", takes: "the figure a row must reach to stand in the answer" },
-    { said: "--top <n>", takes: "how many rows stand in the answer, worst first" },
+    { said: "--threshold <n>", takes: "the figure a row must reach to be in the answer" },
+    { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
     { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
   ],
   helpNotes: [
@@ -23,7 +23,7 @@ export const complexity = {
     "cyclomatic complexity is one over the decision points: if, case, for, while, do, catch, ternary, each `&&`, `||`, `??`, and each `?.`.",
     "else and finally are no decision point and count for nothing.",
     "halstead counts the distinct and the total operators and operands of a function, and volume, difficulty, effort, time and bugs follow from those four.",
-    "type annotations and comments stand outside the halstead counts.",
+    "type annotations and comments sit outside the halstead counts.",
     "the maintainability index is the Visual Studio variant over halstead volume, the cyclomatic sum and the source lines a file holds.",
     "blank lines and comment-only lines are no source line.",
     "the index rises as a file shortens, so splitting one function in two raises it though neither the decision points nor the vocabulary changed.",
@@ -55,7 +55,7 @@ export const complexity = {
     },
     {
       invariantKind: "departure",
-      statement: "Rows stand worst first.",
+      statement: "Rows are ordered worst first.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,7 @@ export const complexity = {
     {
       invariantKind: "stopgap",
       statement:
-        "The workspace read is the one the process stands in rather than the root the call names.",
+        "The workspace read is the one the process is in rather than the root the call names.",
     },
     {
       invariantKind: "absence",
