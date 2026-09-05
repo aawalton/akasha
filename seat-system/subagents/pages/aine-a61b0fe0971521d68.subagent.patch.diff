@@ -1,8 +1,8 @@
 diff --git a/service-system/workstation-services/service-installing/service-installing.module.code.ts b/service-system/workstation-services/service-installing/service-installing.module.code.ts
-index a42640cfe3d032292c1d5da1a56019923f7402b2..81a72ecee1f69661cbe23f7b3dd6e7fcac0b04cf 100644
+index a42640cfe3d032292c1d5da1a56019923f7402b2..040fdb1de4e333fcd553f1fcc6ee0a84328c115b 100644
 --- a/service-system/workstation-services/service-installing/service-installing.module.code.ts
 +++ b/service-system/workstation-services/service-installing/service-installing.module.code.ts
-@@ -97,7 +97,7 @@ export function textFor(given: Service): ReadonlyMap<string, string> {
+@@ -97,11 +97,11 @@ export function textFor(given: Service): ReadonlyMap<string, string> {
    return held
  }
  
@@ -11,8 +11,13 @@ index a42640cfe3d032292c1d5da1a56019923f7402b2..81a72ecee1f69661cbe23f7b3dd6e7fc
    const write = new Map<string, string>()
    const enable: string[] = []
    const stop: string[] = []
+-  for (const one of standing) {
++  for (const one of services) {
+     for (const [name, text] of textFor(one)) write.set(name, text)
+     const named = installedUnitName(one)
+     if (one.service.enabled) enable.push(named)
 diff --git a/service-system/workstation-services/service-installing/service-installing.module.test.ts b/service-system/workstation-services/service-installing/service-installing.module.test.ts
-index e7c2979ab7102efc11a25e74882ef42e766bacb7..3e4de8cdd8be844a550e56aaf739161d04f5fd53 100644
+index e7c2979ab7102efc11a25e74882ef42e766bacb7..f43f913f49ece31608c118bb90ed95476639e50e 100644
 --- a/service-system/workstation-services/service-installing/service-installing.module.test.ts
 +++ b/service-system/workstation-services/service-installing/service-installing.module.test.ts
 @@ -61,7 +61,7 @@ test("only the timer of a scheduled service is enabled", () => {
@@ -24,8 +29,17 @@ index e7c2979ab7102efc11a25e74882ef42e766bacb7..3e4de8cdd8be844a550e56aaf739161d
    const plan = planFor([pageOf({})], ["held-service.service", "gone-away.service"])
    expect(plan.remove).toEqual(["gone-away.service"])
  })
+@@ -98,7 +98,7 @@ test("linking a unit already linked leaves it alone", () => {
+   expect(existsSync(join(systemdDir(HOME), "z.service"))).toBe(true)
+ })
+ 
+-test("a link standing where a unit belongs is replaced rather than refused", () => {
++test("a link sitting where a unit belongs is replaced rather than refused", () => {
+   writeUnit(HOME, "w.service", "body")
+   writeFileSync(join(systemdDir(HOME), "w.service"), "someone else wrote this")
+   linkUnit(HOME, "w.service")
 diff --git a/service-system/workstation-services/service-installing/service-installing.module.ts b/service-system/workstation-services/service-installing/service-installing.module.ts
-index 08db4517b19b3c6da006353bc2c8b8de76c2b9f7..6337425d0fbf2d8f4dc34d390c2cda79fb817fc4 100644
+index 08db4517b19b3c6da006353bc2c8b8de76c2b9f7..cb66d63a28fad8ba24edd28d86e9e2affd1f41ea 100644
 --- a/service-system/workstation-services/service-installing/service-installing.module.ts
 +++ b/service-system/workstation-services/service-installing/service-installing.module.ts
 @@ -4,7 +4,7 @@ export const serviceInstalling = {
@@ -37,11 +51,20 @@ index 08db4517b19b3c6da006353bc2c8b8de76c2b9f7..6337425d0fbf2d8f4dc34d390c2cda79
    code: "ts",
    test: "ts",
    invariants: [
+@@ -18,7 +18,7 @@ export const serviceInstalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Anything else standing beside a unit of ours is left alone.",
++      statement: "Anything else sitting beside a unit of ours is left alone.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/service-system/workstation-services/service-reaching/service-reaching.module.test.ts b/service-system/workstation-services/service-reaching/service-reaching.module.test.ts
-index 1fee8866f252a8464a69151a4bbe7e923e373be6..828f49cd3921b205c53ec252e02aa0079364e05c 100644
+index 1fee8866f252a8464a69151a4bbe7e923e373be6..3e5a3e7ea66500a44d1b6b092c9ae2c4b69f5d33 100644
 --- a/service-system/workstation-services/service-reaching/service-reaching.module.test.ts
 +++ b/service-system/workstation-services/service-reaching/service-reaching.module.test.ts
-@@ -20,7 +20,7 @@ function fileAt(rel: string, text: string): string {
+@@ -20,13 +20,13 @@ function fileAt(rel: string, text: string): string {
    return at
  }
  
@@ -50,11 +73,18 @@ index 1fee8866f252a8464a69151a4bbe7e923e373be6..828f49cd3921b205c53ec252e02aa007
    expect(insideRepo("/a/b", "/a/b/c.ts")).toBe(true)
    expect(insideRepo("/a/b", "/a/c.ts")).toBe(false)
    expect(insideRepo("/a/b", "/a/bc/d.ts")).toBe(false)
+ })
+ 
+-test("a file standing in a vendor folder is reached by nothing", () => {
++test("a file in a vendor folder is reached by nothing", () => {
+   expect(insideRepo("/a/b", "/a/b/node_modules/x/i.ts")).toBe(false)
+   expect(insideRepo("/a/b", "/a/b/src/node_modules_of_ours/i.ts")).toBe(true)
+ })
 diff --git a/service-system/workstation-services/service-reaching/service-reaching.module.ts b/service-system/workstation-services/service-reaching/service-reaching.module.ts
-index 5d8f495349f979eadcc85edb837b99c1716307bf..60a0a500f15bfc9422556b5e116fb0c4d23a4120 100644
+index 5d8f495349f979eadcc85edb837b99c1716307bf..68b3daae0861c850c759a1c8fd6db85001951f48 100644
 --- a/service-system/workstation-services/service-reaching/service-reaching.module.ts
 +++ b/service-system/workstation-services/service-reaching/service-reaching.module.ts
-@@ -14,7 +14,7 @@ export const serviceReaching = {
+@@ -14,11 +14,11 @@ export const serviceReaching = {
      },
      {
        invariantKind: "departure",
@@ -63,8 +93,13 @@ index 5d8f495349f979eadcc85edb837b99c1716307bf..60a0a500f15bfc9422556b5e116fb0c4
      },
      {
        invariantKind: "departure",
+-      statement: "A file that will not scan stops what stands behind the file and not the rest.",
++      statement: "A file that will not scan stops what is behind the file and not the rest.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/service-system/workstation-services/service-reading/service-reading.module.test.ts b/service-system/workstation-services/service-reading/service-reading.module.test.ts
-index 2166ebb7bb6ef6486742452c67c7c430455672cd..db1eb4b69f9a41ed01b0ed03ca116a4dd8bd017b 100644
+index 2166ebb7bb6ef6486742452c67c7c430455672cd..fd976aec3806ea4d533998c3b8f99ec483ce08d4 100644
 --- a/service-system/workstation-services/service-reading/service-reading.module.test.ts
 +++ b/service-system/workstation-services/service-reading/service-reading.module.test.ts
 @@ -13,7 +13,7 @@ const WHOLE = {
@@ -76,8 +111,17 @@ index 2166ebb7bb6ef6486742452c67c7c430455672cd..db1eb4b69f9a41ed01b0ed03ca116a4d
    runs: ["bun a.ts"],
    enabled: true,
  }
+@@ -84,7 +84,7 @@ test("a slug no service is filed under is refused by name", () => {
+   expect("refused" in read).toBe(true)
+ })
+ 
+-test("the service standing today is read from its page", () => {
++test("the service there today is read from its page", () => {
+   const read = readFor(ROOT, "pages-system-service")
+   expect("refused" in read).toBe(false)
+   if ("refused" in read) return
 diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
-index d1a4e22615c89b21efa51b2dd1f4526a4a464412..6e5c5caf58def6c6cea80d4d6faf7d12f3b7ba4c 100644
+index d1a4e22615c89b21efa51b2dd1f4526a4a464412..a51b3ded811f35f2d0eb2c5b0cdbdee0d14baae0 100644
 --- a/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
 +++ b/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
 @@ -91,7 +91,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
@@ -89,6 +133,15 @@ index d1a4e22615c89b21efa51b2dd1f4526a4a464412..6e5c5caf58def6c6cea80d4d6faf7d12
      )
    }
  
+@@ -113,7 +113,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
+       if (restarting) return
+       restarting = true
+       process.stderr.write(
+-        `${says} ${namedIn(moved, root)} moved; restarting so it runs on what stands\n`
++        `${says} ${namedIn(moved, root)} moved; restarting so it runs on what is there now\n`
+       )
+       following.stop()
+       child.kill("SIGTERM")
 diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts
 index 91ce5b3ce6ad9c2867dcc4f46e4b5c672fd58854..bae89281b541e0fbd4abbdfb82f93ae00d57ab5a 100644
 --- a/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts
@@ -116,7 +169,7 @@ index f36f1d5148df1f858064784bdd522c28315e0b03..6ed5f416ee1ca252ddeb541655ecb89d
      {
        invariantKind: "departure",
 diff --git a/service-system/workstation-services/unit-writing/unit-writing.module.ts b/service-system/workstation-services/unit-writing/unit-writing.module.ts
-index 025c4da1b80088a557bb6ba84d1941733c63a48c..bc2c6e76b0fbba368e5d8cd3cea604a06d67f2b9 100644
+index 025c4da1b80088a557bb6ba84d1941733c63a48c..1926424055fd38a322485b382da9a9a9d1dea8ed 100644
 --- a/service-system/workstation-services/unit-writing/unit-writing.module.ts
 +++ b/service-system/workstation-services/unit-writing/unit-writing.module.ts
 @@ -10,7 +10,7 @@ export const unitWriting = {
@@ -128,3 +181,12 @@ index 025c4da1b80088a557bb6ba84d1941733c63a48c..bc2c6e76b0fbba368e5d8cd3cea604a0
      },
      {
        invariantKind: "departure",
+@@ -62,7 +62,7 @@ export const unitWriting = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Eleven of the seventeen options the services standing today state are written.",
++      statement: "Eleven of the seventeen options the services there today state are written.",
+     },
+   ],
+ } as const satisfies Module
