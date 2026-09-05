@@ -26,3 +26,17 @@ index 85fd3a8d05977a8f74b5ee502e5ffb92cb222bdd..e9ae3adfd69fea8252f0c1aa85c01012
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-game-catalog-capture-host/cadwell-catalog-schema/cadwell-catalog-schema.module.ts b/temper/temper-game-catalog-capture-host/cadwell-catalog-schema/cadwell-catalog-schema.module.ts
+index fd0681e0df490c3b26141b7b467c972af9b63816..e477765692bd2243acdf803cd71746655948d17c 100644
+--- a/temper/temper-game-catalog-capture-host/cadwell-catalog-schema/cadwell-catalog-schema.module.ts
++++ b/temper/temper-game-catalog-capture-host/cadwell-catalog-schema/cadwell-catalog-schema.module.ts
+@@ -19,9 +19,5 @@ export const cadwellCatalogSchema = {
+       invariantKind: "departure",
+       statement: "A point of interest carries an order number.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
+-    },
+   ],
+ } as const satisfies Module
