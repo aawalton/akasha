@@ -32,31 +32,31 @@ test("a getter is refused", () => {
   expect(noVoidReturn(parsed("class One { get two(): void {} }\n"))).toHaveLength(1)
 })
 
-test("a function type stands, being a function written elsewhere", () => {
+test("a function type is left, being a function written elsewhere", () => {
   expect(noVoidReturn(parsed("type One = () => void\n"))).toEqual([])
 })
 
-test("a callback parameter's type stands", () => {
+test("a callback parameter's type is left", () => {
   expect(noVoidReturn(parsed("function one(two: () => void): undefined {}\n"))).toEqual([])
 })
 
-test("a property holding a function type stands", () => {
+test("a property holding a function type is left", () => {
   expect(noVoidReturn(parsed("interface One { two: () => void }\n"))).toEqual([])
 })
 
-test("a method signature stands", () => {
+test("a method signature is left", () => {
   expect(noVoidReturn(parsed("interface One { two(): void }\n"))).toEqual([])
 })
 
-test("a call signature stands", () => {
+test("a call signature is left", () => {
   expect(noVoidReturn(parsed("interface One { (): void }\n"))).toEqual([])
 })
 
-test("a constructor type stands", () => {
+test("a constructor type is left", () => {
   expect(noVoidReturn(parsed("type One = new () => void\n"))).toEqual([])
 })
 
-test("a return annotation that is itself a function type stands", () => {
+test("a return annotation that is itself a function type is left", () => {
   expect(noVoidReturn(parsed("function one(): () => void {\n  return () => {}\n}\n"))).toEqual([])
 })
 
@@ -66,11 +66,11 @@ test("an arrow filling a `void` slot is refused for its own annotation alone", (
   expect(said[0]?.line).toBe(1)
 })
 
-test("`undefined` in the same place stands", () => {
+test("`undefined` in the same place is left", () => {
   expect(noVoidReturn(parsed("function one(): undefined {}\n"))).toEqual([])
 })
 
-test("a type argument stands, so `Promise<void>` is left", () => {
+test("a type argument is left, so `Promise<void>` is left", () => {
   expect(noVoidReturn(parsed("async function one(): Promise<void> {}\n"))).toEqual([])
 })
 

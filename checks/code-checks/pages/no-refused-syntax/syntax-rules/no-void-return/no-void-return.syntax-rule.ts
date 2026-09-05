@@ -10,7 +10,7 @@ export const noVoidReturn = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`undefined` is what stands in its place.",
+      statement: "`undefined` is what takes its place.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "A type describing a function written elsewhere stands.",
+      statement: "A type describing a function written elsewhere is left.",
     },
     {
       invariantKind: "departure",
@@ -86,11 +86,11 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "`void` reached as a type argument stands.",
+      statement: "`void` reached as a type argument is left.",
     },
     {
       invariantKind: "departure",
-      statement: "`Promise<void>` is the case that stands most often.",
+      statement: "`Promise<void>` is the case left most often.",
     },
     {
       invariantKind: "departure",
