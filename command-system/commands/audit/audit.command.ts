@@ -88,7 +88,7 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement: "What an audit finds is answered as the data's fault.",
+      statement: "An audit's findings are answered as the data's fault.",
     },
     {
       invariantKind: "absence",
