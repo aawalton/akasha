@@ -54,7 +54,8 @@ export const noImportCycle = {
     },
     {
       invariantKind: "absence",
-      statement: "A loop closed through one alone is not refused though it may still be one.",
+      statement:
+        "A loop closed through one alone is not refused though that loop may still be one.",
     },
   ],
 } as const satisfies CodeCheck
