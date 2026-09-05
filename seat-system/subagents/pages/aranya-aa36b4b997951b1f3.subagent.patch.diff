@@ -247,30 +247,31 @@ index 0000000000000000000000000000000000000000..5ed09930ad40e8fbdd7175e753f9b4c6
 +  return [{ name: "cronjob", yaml: cronjobYaml() }]
 +}
 diff --git a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-index 11a0ba93d2243c734f5e2c8e45eb55c826bb06dd..bda13e95cc02fbf34ce9ef61806d20f93e3dfe83 100644
+index 40aa75a6cc7f6406a132fac19b2935d03e5f56d2..0270131574027fcdc741d2c697985a70d7019d50 100644
 --- a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 0da3288043614ad2a913167915a04136280f66c7..5471361276a3d7ea16bcdc465670b7c1
+@@ -266,7 +266,12 @@ index 0da3288043614ad2a913167915a04136280f66c7..1a8fcb3787608ddd5a5d978851540483
+    resourceName: "seaweedfs-backup-longtail",
     image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
     schedule: "17 4 * * *",
- -  manifestCode:
---    "infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
++-  manifestCode:
 +-    "infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts",
++=======
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "seaweedfs-backup-longtail",
-  } as const satisfies ClusterService
+ +=======
+    manifestCode:
 diff --git a/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts
-index 0da3288043614ad2a913167915a04136280f66c7..1a8fcb3787608ddd5a5d9788515404830000b23e 100644
+index 0da3288043614ad2a913167915a04136280f66c7..5471361276a3d7ea16bcdc465670b7c13c8127a5 100644
 --- a/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts
 +++ b/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts
-@@ -10,6 +10,10 @@ export const seaweedfsBackupLongtail = {
+@@ -10,6 +10,5 @@ export const seaweedfsBackupLongtail = {
    resourceName: "seaweedfs-backup-longtail",
    image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
    schedule: "17 4 * * *",
-+<<<<<<< what this change would leave
-+  manifestSlug: "seaweedfs-backup-longtail",
-+=======
-   manifestCode:
+-  manifestCode:
 -    "infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.cluster-service.code.attachment.ts",
-+    "infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts",
-+>>>>>>> what HEAD holds
++  manifestSlug: "seaweedfs-backup-longtail",
  } as const satisfies ClusterService
