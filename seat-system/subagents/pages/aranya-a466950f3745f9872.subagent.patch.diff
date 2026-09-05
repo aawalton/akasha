@@ -21,7 +21,7 @@ index 747896cf51a4bcffbd8043dc05e9feb3a77469a4..4672a21ae708d841f432d96b0a651a0e
      knownIn: () => knownIn(reading, pageOf),
      listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
 diff --git a/pages/indexes/index-reading/index-reading.module.code.ts b/pages/indexes/index-reading/index-reading.module.code.ts
-index 58f21e09db9a2844a409ab83ec1512d414878e51..4ef31f9bfee1d7750ba4380598620311f6cdb409 100644
+index da66307fb6d08d23a66361c71a7260c8e9be3c8f..88c7c6b3e3dafa8f9fad20646ac1c75c19ce0857 100644
 --- a/pages/indexes/index-reading/index-reading.module.code.ts
 +++ b/pages/indexes/index-reading/index-reading.module.code.ts
 @@ -1,5 +1,4 @@
@@ -55,7 +55,7 @@ index 58f21e09db9a2844a409ab83ec1512d414878e51..4ef31f9bfee1d7750ba4380598620311
    return answered(reading, under, asked, (held) => importersIn(held, path))
  }
 diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
-index 76d21dab0f56cfc20bd9573be8913ce13af71825..e3591553587b24b98b4042e5bb2bf00e87892a4f 100644
+index 76d21dab0f56cfc20bd9573be8913ce13af71825..ea966ba98ee2011b50b18b7f587dcbc43f09e0ff 100644
 --- a/pages/shadow/shadow.module.code.ts
 +++ b/pages/shadow/shadow.module.code.ts
 @@ -61,10 +61,6 @@ function nothingMoved(change: Change): boolean {
@@ -112,3 +112,12 @@ index 76d21dab0f56cfc20bd9573be8913ce13af71825..e3591553587b24b98b4042e5bb2bf00e
      const filed = (): readonly Filing[] => settled.filings
      return { shadow: { index, filed, pageOf, codeAt: codeOver(change) }, reading }
    } catch (thrown) {
+@@ -150,7 +142,7 @@ export function shadowAsked(change: Change): Shadow {
+   }
+   const pageOf = (path: string): Value | null => worked().shadow.pageOf(path)
+   return {
+-    index: answeringOver(reading, heldToHead(change), pageOf),
++    index: answeringOver(reading, pageOf),
+     filed: () => worked().shadow.filed(),
+     pageOf,
+     codeAt: (path) => worked().shadow.codeAt(path),
