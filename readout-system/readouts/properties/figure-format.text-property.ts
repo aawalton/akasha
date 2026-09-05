@@ -29,7 +29,8 @@ export const figureFormat = {
     },
     {
       invariantKind: "constraint",
-      statement: "A readout stating no format has its reading written as the number it is.",
+      statement:
+        "A readout stating no format has its reading written as the number that reading is.",
     },
   ],
 } as const satisfies TextProperty
