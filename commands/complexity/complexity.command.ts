@@ -64,7 +64,7 @@ export const complexity = {
     {
       invariantKind: "departure",
       statement:
-        "A threshold is a floor for every metric but the maintainability index, where it is a ceiling.",
+        "A threshold is a floor for every metric but the maintainability index, a ceiling for that index.",
     },
     {
       invariantKind: "departure",
