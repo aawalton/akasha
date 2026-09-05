@@ -71,3 +71,21 @@ index 41686e33c29ca81f8c026e9e56d6eca4306500fb..8aea741f6c42d5fa027fe3f35febc121
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/transaction/monarch-transaction.module.ts b/alan/harness/monarch/transaction/monarch-transaction.module.ts
+index db97f59782f001569810e9400333f7851cc0c97f..45f5d6aecfb611ff8768ee41da8bf7416cc078a5 100644
+--- a/alan/harness/monarch/transaction/monarch-transaction.module.ts
++++ b/alan/harness/monarch/transaction/monarch-transaction.module.ts
+@@ -32,8 +32,11 @@ export const monarchTransaction = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An account is known by the last four digits its title ends in, and by its lowered title where it has none.",
++      statement: "An account is known by the last four digits its title ends in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An account whose title ends in no four digits is known by its lowered title.",
+     },
+     {
+       invariantKind: "departure",
