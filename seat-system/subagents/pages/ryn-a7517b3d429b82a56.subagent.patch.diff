@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-build/addon-load-order/addon-load-order.module.ts b/temper/temper-addon-build/addon-load-order/addon-load-order.module.ts
+index 245359d2b8e33c8f2dc703791fc089d1cc1820f9..9895e7124d3a7a74f3d4238ff1e55b31632f4c6e 100644
+--- a/temper/temper-addon-build/addon-load-order/addon-load-order.module.ts
++++ b/temper/temper-addon-build/addon-load-order/addon-load-order.module.ts
+@@ -9,7 +9,7 @@ export const addonLoadOrder = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The manifest is written from what the addon's own manifest declares.",
++      statement: "The manifest is written from the values the addon's own manifest declares.",
+     },
+     {
+       invariantKind: "departure",
