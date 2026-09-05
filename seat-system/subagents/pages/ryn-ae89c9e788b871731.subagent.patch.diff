@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/ios-apps/scripts/build-sim/build-sim.shell-script.ts b/code-system/ios-apps/scripts/build-sim/build-sim.shell-script.ts
+index 24d5138bcca92433b486bcd1e987b81beb2946a1..0b645f56552e7556176b70948c6236f337bc93f7 100644
+--- a/code-system/ios-apps/scripts/build-sim/build-sim.shell-script.ts
++++ b/code-system/ios-apps/scripts/build-sim/build-sim.shell-script.ts
+@@ -15,7 +15,8 @@ export const buildSim = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which app this script is building is read from what this script was handed.",
++      statement:
++        "Which app this script is building is read from the arguments this script was handed.",
+     },
+     {
+       invariantKind: "departure",
