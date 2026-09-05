@@ -471,6 +471,14 @@ index 858c749ed9e5983dc5d71b945ab431b39af97572..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../service-system
 \ No newline at end of file
+diff --git a/shell/shell b/shell/shell
+deleted file mode 120000
+index a7845161f4d7896d57893b58d6bb5b9157827cb4..0000000000000000000000000000000000000000
+--- a/shell/shell
++++ /dev/null
+@@ -1 +0,0 @@
+-../../shell
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
