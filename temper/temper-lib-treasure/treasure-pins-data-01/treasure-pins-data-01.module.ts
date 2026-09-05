@@ -6,10 +6,4 @@ export const treasurePinsData01 = {
   slug: "treasure-pins-data-01",
   definition: "part 01 of the pins each map carries",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "constraint",
-      statement: "These rows are the pin rows upstream LibTreasure v24 states.",
-    },
-  ],
 } as const satisfies Module
