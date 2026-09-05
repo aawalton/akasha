@@ -12,7 +12,7 @@ index abe529e000e4438e7b8d74e191b489e3578b8d85..c82d48188efd7b21753b380175af8af5
    ],
    helpNotes: [
 diff --git a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
-index 7c9671487a59593ea58ccd8918185a945bb642eb..827f31b8e348d5b0f6ccdd08c01ed5e9c4ded6c8 100644
+index 7c9671487a59593ea58ccd8918185a945bb642eb..96993409c36753e498d5682154dab654f3c88e7e 100644
 --- a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
 +++ b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
 @@ -4,7 +4,7 @@ export const exerciseConstraintSet = {
@@ -43,6 +43,15 @@ index 7c9671487a59593ea58ccd8918185a945bb642eb..827f31b8e348d5b0f6ccdd08c01ed5e9
      "a constraint tagged all reaches every focus, so it needs no other tag.",
    ],
    invariants: [
+@@ -35,7 +35,7 @@ export const exerciseConstraintSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a constraint asks for stands in its own file beside the page.",
++      statement: "What a constraint asks for is in its own file beside the page.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts b/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
 index 1804585e9dc553f23b55fc8adb2d3bb186389963..7579c8a6bab5dc7b9111c21449f2ef542d6e3a3e 100644
 --- a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
