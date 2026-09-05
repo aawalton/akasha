@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/library/watching/watching.domain.ts b/alan/library/watching/watching.domain.ts
+index 8b332f6bbf46e4b1b5b436a0ab802bebc9545ff2..22493471dfc1d75de06d2ee0d9ce73664870e4e1 100644
+--- a/alan/library/watching/watching.domain.ts
++++ b/alan/library/watching/watching.domain.ts
+@@ -43,7 +43,7 @@ export const watching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the provider answers with and what Alan records sit on the one page.",
++      statement: "The provider's answers and Alan's records sit on the one page.",
+     },
+     {
+       invariantKind: "gap",
