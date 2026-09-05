@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/properties/systemd.record-property.ts b/service-system/workstation-services/properties/systemd.record-property.ts
+index 01c318008d809bbdf0137577d31808d51c3bb31d..157801e224fec2262efae94d04c942c0344b201f 100644
+--- a/service-system/workstation-services/properties/systemd.record-property.ts
++++ b/service-system/workstation-services/properties/systemd.record-property.ts
+@@ -78,7 +78,7 @@ export const systemd = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a timer states sits here beside what a service states.",
++      statement: "The options a timer states sit here beside the options a service states.",
+     },
+     {
+       invariantKind: "stopgap",
