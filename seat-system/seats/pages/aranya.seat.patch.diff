@@ -11,7 +11,7 @@ index ec4c84cd375ce42d81b38a4b8e3a6809d621c5ea..9cb3a6db8a51db34d4cfdf7bf5aae6a0
      "domain/technology",
      "domain/all-about-alan",
 diff --git a/infrastructure/infrastructure.domain.ts b/infrastructure/infrastructure.domain.ts
-index 19a917d45e6669853d46b92cd82cbdf2b44492b3..3e5e69d057a538425d469dabecc137985cc40780 100644
+index 19a917d45e6669853d46b92cd82cbdf2b44492b3..1ce26029d320d70408bcaf627cb94fef57cc189e 100644
 --- a/infrastructure/infrastructure.domain.ts
 +++ b/infrastructure/infrastructure.domain.ts
 @@ -10,13 +10,11 @@ export const infrastructure = {
@@ -28,3 +28,11 @@ index 19a917d45e6669853d46b92cd82cbdf2b44492b3..3e5e69d057a538425d469dabecc13798
      "workspace-package/k8s-synth",
      "page-type/alert",
      "workspace-package/ci-benchmark",
+@@ -29,7 +27,6 @@ export const infrastructure = {
+     "domain/resource-utilization",
+     "workspace-package/eso-rig",
+     "workspace-package/postgres-annual-dump",
+-    "workspace-package/inference-commands",
+     "workspace-package/infrastructure-commands",
+     "workspace-package/loki-service",
+     "workspace-package/seaweedfs",
