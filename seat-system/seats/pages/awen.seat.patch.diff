@@ -1,5 +1,5 @@
 diff --git a/code-system/code-typing/code-typing.module.test.ts b/code-system/code-typing/code-typing.module.test.ts
-index 03135216336e67a7ad948e1e9ab0a09ebf96ea81..d73ce01ec57a15d4c0281554d23c399dceb57455 100644
+index 03135216336e67a7ad948e1e9ab0a09ebf96ea81..55d2c6eed9eaad60433e32fc750da29f0f524fac 100644
 --- a/code-system/code-typing/code-typing.module.test.ts
 +++ b/code-system/code-typing/code-typing.module.test.ts
 @@ -56,7 +56,7 @@ test("a manifest reached through the packages folder is answered where it links
@@ -20,3 +20,25 @@ index 03135216336e67a7ad948e1e9ab0a09ebf96ea81..d73ce01ec57a15d4c0281554d23c399d
  })
  
  test("a manifest the change carries is read from the change where resolution asks for it", () => {
+@@ -156,17 +156,17 @@ test("a key more than one part of a union declares apart is resolved through non
+   expect(naming).toHaveLength(1)
+ })
+ 
+-test("a path inside the akasha folder compiles and one outside it does not", () => {
++test("a path under the root compiles unless it is no TypeScript or is an installed dependency", () => {
+   expect(compiled("akasha/one/one.module.code.ts")).toBe(true)
+-  expect(compiled("tools/one.ts")).toBe(false)
++  expect(compiled("tools/one.ts")).toBe(true)
+   expect(compiled("akasha/one/one.module.json")).toBe(false)
+   expect(compiled("akasha/node_modules/one/one.ts")).toBe(false)
+ })
+ 
+-test("a path under the root is answered relative and one outside it is not", () => {
++test("a path under the root is answered relative and one outside the root is not", () => {
+   expect(insideOf("/at", "/at/akasha/one.ts")).toBe("akasha/one.ts")
++  expect(insideOf("/at", "/at/tools/one.ts")).toBe("tools/one.ts")
+   expect(insideOf("/at", "/elsewhere/akasha/one.ts")).toBe(null)
+-  expect(insideOf("/at", "/at/tools/one.ts")).toBe(null)
+ })
+ 
+ test("a key is found where it is declared and everywhere the checker resolves to it", () => {
