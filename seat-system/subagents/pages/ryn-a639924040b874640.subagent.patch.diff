@@ -83,7 +83,7 @@ index f113872fb56985b1273972415776fe1911ee0eed..eb43944539056a61523e90cb8965958b
      {
        invariantKind: "departure",
 diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
-index d9c6c0ee20085a468b7eedb6f2b4012fccb28439..55c606f6ebe81d077991b0b715e7233789da317d 100644
+index d9c6c0ee20085a468b7eedb6f2b4012fccb28439..00d99ccd9eee3b44c3d6a924a902efb746153a02 100644
 --- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
 +++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
 @@ -38,7 +38,7 @@ export const nodeCleanliness = {
@@ -92,6 +92,15 @@ index d9c6c0ee20085a468b7eedb6f2b4012fccb28439..55c606f6ebe81d077991b0b715e72337
        invariantKind: "departure",
 -      statement: "That repeats until nothing under the package is left over.",
 +      statement: "That step repeats until nothing under the package is left over.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const nodeCleanliness = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That asks the file rather than the path through it.",
++      statement: "That rule asks the file rather than the path through it.",
      },
      {
        invariantKind: "departure",
