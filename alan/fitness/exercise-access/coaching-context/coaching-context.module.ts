@@ -28,7 +28,7 @@ export const coachingContext = {
     },
     {
       invariantKind: "departure",
-      statement: "A piece of kit saying nothing about whether it is there is there.",
+      statement: "A piece of kit saying nothing about whether that kit is there is there.",
     },
     {
       invariantKind: "gap",
