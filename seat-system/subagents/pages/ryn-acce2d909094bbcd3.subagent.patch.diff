@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
+index dc8d9636a99f24a294cb6fca570188cfd4f0260c..bf3e9c3c3ce2f8ce62bbc45f67d48d0911b21a64 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
+@@ -89,7 +89,7 @@ export const noSwallowedRead = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A catch using what that catch caught is carrying that failure rather than dropping that failure.",
++        "A catch using the caught failure is carrying that failure rather than dropping that failure.",
+     },
+     {
+       invariantKind: "departure",
