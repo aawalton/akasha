@@ -40,7 +40,7 @@ export const logDaySweeping = {
     {
       invariantKind: "departure",
       statement:
-        "The days go in one call so they land in one commit, and where that call refuses each is tried alone.",
+        "The days go in one call to land in one commit, and where that call refuses each is tried alone.",
     },
     {
       invariantKind: "departure",
