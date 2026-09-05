@@ -17,7 +17,8 @@ export const alanwaltonWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "A cached reading is let go once it is older than the age the route refuses.",
+      statement:
+        "A cached reading is let go once that reading is older than the age the route refuses.",
     },
     {
       invariantKind: "departure",
