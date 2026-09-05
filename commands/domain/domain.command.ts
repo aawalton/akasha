@@ -82,15 +82,16 @@ export const domain = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type names any number of types above it.",
+      statement: "A page type names any number of types above that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type is a kind of domain where any type it names above it is.",
+      statement:
+        "A page type is a kind of domain where any type that page type names above that page type is.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here walks the types a page type names above it.",
+      statement: "Nothing here walks the types a page type names above that page type.",
     },
     {
       invariantKind: "departure",
