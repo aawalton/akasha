@@ -24,7 +24,7 @@ export const objectStore = {
     },
     {
       invariantKind: "departure",
-      statement: "What cannot be remade is copied where nothing deletes.",
+      statement: "Bytes that cannot be remade are copied where nothing deletes.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const objectStore = {
     },
     {
       invariantKind: "absence",
-      statement: "No age rule reaches the copy of what cannot be remade.",
+      statement: "No age rule reaches the copy of bytes that cannot be remade.",
     },
   ],
 } as const satisfies WorkspacePackage
