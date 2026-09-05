@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/rings/ring.domain.ts b/readout-system/rings/ring.domain.ts
+index 2f801897371f1448d72219b4cc0ecd7017a78712..447cabda3907e023f27998deea52c255ec8a48ec 100644
+--- a/readout-system/rings/ring.domain.ts
++++ b/readout-system/rings/ring.domain.ts
+@@ -13,7 +13,7 @@ export const ring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The small ring is the size three of them span a small tile at.",
++      statement: "The small ring is the size three small rings span a small tile at.",
+     },
+     {
+       invariantKind: "departure",
