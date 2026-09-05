@@ -60,7 +60,7 @@ export const watcherExportTasks = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a character's priority is.",
+      statement: "Nothing here decides a character's priority.",
     },
     {
       invariantKind: "absence",
