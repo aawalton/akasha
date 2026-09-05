@@ -1,0 +1,39 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
+index 7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f..ba86b5b3b705e2a348cd65172a1f1f962248a734 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
+@@ -58,7 +58,7 @@ test("every folder above a path is an ancestor, nearest first", () => {
+   expect(ancestorsOf("akasha/a/b/one.ts")).toEqual(["akasha/a/b", "akasha/a", "akasha"])
+ })
+ 
+-test("an import reaches the folders holding it, stopping where the importer stands too", () => {
++test("an import reaches the folders holding it, stopping where the importer is too", () => {
+   expect(reachedFolders("akasha/c/two.ts", "akasha/a/one.ts")).toEqual(["akasha/c"])
+ })
+ 
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
+index 568e8d06586ed3422f88edcf9a08275783d362d1..9b7e3c0f2ab8a14c02c720aa24ed53c87855d074 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
+@@ -95,7 +95,7 @@ export const folderMatchesAShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shape reads what stands under a folder as well as what sits in the folder.",
++      statement: "A shape reads what is under a folder as well as what sits in the folder.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts b/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts
+index cd4b4b3c25cdbf0e0a43a3b114fd0469721bfdb7..d0c0630f6bad17ca82bcaf99252695b2d27d0e11 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts
+@@ -42,7 +42,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
+     const beside = besideAt(one.path, CODE, TS)
+     if (beside === null) {
+       throw new Error(
+-        `${one.path} is a folder shape, and no code file can stand beside a name like it`
++        `${one.path} is a folder shape, and no code file can sit beside a name like it`
+       )
+     }
+     const codePath = shadow.codeAt(beside)
