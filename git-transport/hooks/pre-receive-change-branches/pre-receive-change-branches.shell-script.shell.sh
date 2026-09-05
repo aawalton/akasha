@@ -4,10 +4,10 @@
 # Policy 1 — Branch naming:
 #   New branches (refs/heads/*) must match one of the allowed patterns:
 #     - change-NNNN (one or more digits)
-#       A unit of work, minted by `ops branch start`.
+#       A unit of work, minted when a change is opened.
 #     - merge-NNNN (one or more digits)
-#       The fold `ops branch merge` builds when more than one branch is
-#       submitted at once, and pushes so its checks can run on it.
+#       The fold built when more than one branch is submitted at once, and
+#       pushed so its checks can run on it.
 #     - project-NNNN (one or more digits)
 #       The retired project model's branch. Kept because several are still
 #       in flight and must still be able to land; nothing mints new ones.
@@ -96,8 +96,8 @@ while IFS=' ' read -r oldrev newrev refname; do
   echo "[pre-receive] REJECTED: branch \"$branch\" does not match an" >&2
   echo "[pre-receive]           allowed pattern (change-NNNN or merge-NNNN)." >&2
   echo "[pre-receive]" >&2
-  echo "[pre-receive]           Mint a branch with 'ops branch start', which" >&2
-  echo "[pre-receive]           names it and writes its page." >&2
+  echo "[pre-receive]           A branch is minted when a change is opened," >&2
+  echo "[pre-receive]           which names it and writes its page." >&2
   exit 1
 done < "$UPDATES_FILE"
 
@@ -127,8 +127,8 @@ while IFS=' ' read -r oldrev newrev refname; do
     echo "[pre-receive]           that is on a change-NNNN or merge-NNNN branch." >&2
     echo "[pre-receive]           new tip $newrev is not reachable from any" >&2
     echo "[pre-receive]           such branch (existing or in this push)." >&2
-    echo "[pre-receive]           Push your work to its branch first, then use" >&2
-    echo "[pre-receive]           'ops branch merge' to land it." >&2
+    echo "[pre-receive]           Push your work to its branch first; main" >&2
+    echo "[pre-receive]           advances only onto a tip that branch holds." >&2
     exit 1
   fi
 done < "$UPDATES_FILE"
