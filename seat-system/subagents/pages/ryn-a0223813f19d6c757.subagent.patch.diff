@@ -1,3 +1,18 @@
+diff --git a/alan/harness/inboxes/inbox.domain.ts b/alan/harness/inboxes/inbox.domain.ts
+index 6740b0568835560793eb83cfc0ac6a5112e3522d..e4284487cc82408b62fb87af5e086e4960ffe1cc 100644
+--- a/alan/harness/inboxes/inbox.domain.ts
++++ b/alan/harness/inboxes/inbox.domain.ts
+@@ -57,6 +57,10 @@ export const inbox = {
+       invariantKind: "departure",
+       statement: "The folder an email rule is in says whose rule that rule is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A count stated as text is read as the number that count spells.",
++    },
+   ],
+   directives: [
+     {
 diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
 index e2855edbd9704cccabe052af68b8052a12f8e9ec..84edcbc735255b1de9a274de2befded3fccbb396 100644
 --- a/editor-extension/editor-extension.workspace-package.ts
