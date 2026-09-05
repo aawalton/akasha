@@ -60,7 +60,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "The browser reads and writes the file beside a page.",
       workingMemory:
-        "A file property has no read road from a browser: getPage, getPages, /ask and usePagesSupabase all answer that file's ending, so `settings` on temper-player reads as the four characters `json`, and use-temper-import reads `completion` as absent at line 34. The write is refused by name at page-composing.module.code.ts:128. readPages with readFiles is the road the watcher takes, and an entry property already carries a beside-file body to the browser, so only the browser's client lacks the road.",
+        "A browser reaches the store at its own origin under /api, and temper-web serves /api/ask and /api/page-write but nothing at /api/read or /api/write, which is where readFiles and writeFiles land. The store limits no caller, so those routes are the whole authorization boundary, and a road taking a path would hand every signed-in reader the tree. The road wanted is named by page and property, scoped by the shape's owner. Waiting on it: player settings, and `completion` on ten page types.",
     },
   ],
   constraints: [
