@@ -1,0 +1,16 @@
+runsWarrants: false
+diff --git a/story/games/pages/partners-ii/partners-ii.game.gm-context.json b/story/games/pages/partners-ii/partners-ii.game.gm-context.json
+index a1bc4f2d9382d9687d57f97c6e3b23731b55275f..03e8eca1ce825448570b4ad96103355b468c8c21 100644
+--- a/story/games/pages/partners-ii/partners-ii.game.gm-context.json
++++ b/story/games/pages/partners-ii/partners-ii.game.gm-context.json
+@@ -371,10 +371,6 @@
+         "id": "update-state",
+         "requirement": "Update display state (commit-state, litrpg shape) — HUD pools, sheet, beat log with system windows for mechanical events."
+       },
+-      {
+-        "id": "update-entities",
+-        "requirement": "If any canonical sheet changed, ALSO commit-entity for each changed entity — commit-state sets only the relation, never the sheet."
+-      },
+       {
+         "id": "update-continuity",
+         "requirement": "Update narrativeContinuity when canon moved: new facts, promises, named NPCs, world state."
