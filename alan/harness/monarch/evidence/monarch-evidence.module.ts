@@ -33,8 +33,12 @@ export const monarchEvidence = {
     },
     {
       invariantKind: "departure",
+      statement: "A category is called trusted only where the row falls inside the trusted window.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A category is called trusted only where the row falls inside the trusted window, and an untrusted category is a fact about the row rather than an answer about it.",
+        "An untrusted category is a fact about the row rather than an answer about the row.",
     },
     {
       invariantKind: "absence",
