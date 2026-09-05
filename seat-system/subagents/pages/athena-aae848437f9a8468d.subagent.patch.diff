@@ -33,6 +33,61 @@ index 2ca21d9d1556dca3dd9c996b14915877c87691e9..48e7ae34ebd331cdf77c9d81731250e6
    ["akasha/domain.page-type.ts", TYPE],
  ]
  
+diff --git a/commands/domain/domain.command.test.ts b/commands/domain/domain.command.test.ts
+index 1a383ac5a2c2669a0fbf57ae21e14419be0a7ae4..90652ab9e2d7ff7e7517de2860f1e050311405cf 100644
+--- a/commands/domain/domain.command.test.ts
++++ b/commands/domain/domain.command.test.ts
+@@ -166,17 +166,12 @@ test("a domain open above the point being drawn is marked rather than drawn agai
+   ])
+ })
+ 
+-function namedIn(above: string | readonly string[]): string | readonly string[] {
+-  if (typeof above === "string") return `page-type/${above}`
+-  return above.map((one) => `page-type/${one}`)
+-}
+-
+-function typed(root: string, slug: string, above: string | readonly string[] | null): undefined {
++function typed(root: string, slug: string, above: readonly string[]): undefined {
+   const path = `akasha/held/${slug}.page-type.ts`
+   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+   const page = join(root, path)
+   mkdirSync(dirname(page), { recursive: true })
+-  const named = above === null ? null : namedIn(above)
++  const named = above.map((one) => `page-type/${one}`)
+   writeFileSync(
+     page,
+     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
+@@ -186,9 +181,9 @@ function typed(root: string, slug: string, above: string | readonly string[] | n
+ 
+ test("a page type naming one type above it is a kind of domain as it always was", () => {
+   const root = scratch.rootFor("akasha-domain-")
+-  typed(root, "domain", null)
+-  typed(root, "page", null)
+-  typed(root, "module", "domain")
++  typed(root, "domain", [])
++  typed(root, "page", [])
++  typed(root, "module", ["domain"])
+ 
+   const kinds = kindsUnderDomain(root)
+ 
+@@ -197,12 +192,12 @@ test("a page type naming one type above it is a kind of domain as it always was"
+ 
+ test("a page type naming two types above it is a kind of domain where either of them is", () => {
+   const root = scratch.rootFor("akasha-domain-")
+-  typed(root, "domain", null)
+-  typed(root, "page", null)
+-  typed(root, "module", "domain")
+-  typed(root, "page-property", "page")
++  typed(root, "domain", [])
++  typed(root, "page", [])
++  typed(root, "module", ["domain"])
++  typed(root, "page-property", ["page"])
+   typed(root, "computed-property", ["page-property", "module"])
+-  typed(root, "faith-points", "computed-property")
++  typed(root, "faith-points", ["computed-property"])
+ 
+   const kinds = kindsUnderDomain(root)
+ 
 diff --git a/commands/index/index.command.test.ts b/commands/index/index.command.test.ts
 index d738e22293e2feb7c6246e58868035fb12774411..4d0483f2cb95c71886abc63f825ac97e895f565d 100644
 --- a/commands/index/index.command.test.ts
