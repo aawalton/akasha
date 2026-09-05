@@ -31,7 +31,7 @@ import {
   uniquePropertiesAt,
   uniquePropertiesIn,
 } from "../entries/index-entries.module.code.ts"
-import { identityIn } from "../identity/index-identity.index.code.ts"
+import { identityIn, partingIn, partingOver } from "../identity/index-identity.index.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { importIn } from "../import/index-import.index.code.ts"
 import { indexImport } from "../import/index-import.index.ts"
@@ -43,7 +43,7 @@ import {
 import { claimingIn } from "../path/index-path.index.code.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
-import { everyPath, indexThere } from "../reading/index-reading.module.code.ts"
+import { everyPath, indexThere, namersOf } from "../reading/index-reading.module.code.ts"
 import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { schemaIn } from "../schema/index-schema.index.code.ts"
@@ -175,7 +175,10 @@ export function rebuiltFrom(
   const schema = held.flatMap((one) => schemaIn(one.value))
   refusingEmpty(unique, held.length)
   const identifying = identifyingFrom(sourceOver(values))
-  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
+  const parting = partingIn(values)
+  const identity = held.flatMap((one) =>
+    identityIn(one.value, one.path, repo, identifying, null, parting)
+  )
   reconcile(join(root, IDENTITY), identity, root)
   const sidecars = sidecarsIn(values)
   const claim = claimingIn(repo, filedBy, sidecars)
@@ -322,20 +325,31 @@ export function settlingOver(
   const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
   const wasIdentifying = identifyingFrom(sourceAmong(before, sourceIn(reading, wasPageOf)))
   const nowIdentifying = identifyingFrom(sourceAmong(left, sourceIn(overSchema, pageOf)))
-  const elsewhere = turned.size === 0 ? [] : elsewhereIn(reading, new Set(carried.keys()), pageOf)
+  const carriedAt = new Set(carried.keys())
+  const wasParting = partingOver((id) => namersOf(reading, id), before, carriedAt)
+  const nowParting = partingOver((id) => namersOf(reading, id), left, carriedAt)
+  const elsewhere = turned.size === 0 ? [] : elsewhereIn(reading, carriedAt, pageOf)
   const identity = filingOf(
     reading,
     [
       ...held.flatMap((one) =>
-        one.was === null ? [] : identityIn(one.was, one.path, repo, wasIdentifying)
+        one.was === null
+          ? []
+          : identityIn(one.was, one.path, repo, wasIdentifying, null, wasParting)
       ),
-      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying, turned)),
+      ...elsewhere.flatMap((one) =>
+        identityIn(one.value, one.path, repo, wasIdentifying, turned, wasParting)
+      ),
     ],
     [
       ...held.flatMap((one) =>
-        one.now === null ? [] : identityIn(one.now, one.path, repo, nowIdentifying)
+        one.now === null
+          ? []
+          : identityIn(one.now, one.path, repo, nowIdentifying, null, nowParting)
       ),
-      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
+      ...elsewhere.flatMap((one) =>
+        identityIn(one.value, one.path, repo, nowIdentifying, turned, nowParting)
+      ),
     ]
   )
   const claim = claimingIn(repo, filedBy, sidecars, carried)

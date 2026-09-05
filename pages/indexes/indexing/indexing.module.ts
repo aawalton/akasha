@@ -107,8 +107,21 @@ export const indexing = {
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A rebuild and a settle hand in the pages naming each page they file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebuild inverts that edge in memory, holding every page value already.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A settle reads off the relation index what the change it carries does not say.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The edges of a page the change carries are read from the change rather than the index.",
     },
   ],
 } as const satisfies Module
