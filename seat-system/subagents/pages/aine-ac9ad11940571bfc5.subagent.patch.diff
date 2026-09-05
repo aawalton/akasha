@@ -12,7 +12,7 @@ index 72ceb989679f0866afc604957a3f04ff822138e3..6a8e6e0915f268a8b8e96c7a6231f9b0
    lines.push("By part:")
    lines.push("| # | Part | Sections | Topics |")
 diff --git a/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts b/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
-index d4342fc881aa930145d6824e360573a560ba09ae..f4a6e9f21bd475d58f316356e230c9b96ccf382f 100644
+index d4342fc881aa930145d6824e360573a560ba09ae..c44f8715f9a66af5b5e12af65b5e3140feba2b4b 100644
 --- a/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
 +++ b/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
 @@ -11,7 +11,7 @@ export const aliCoverage = {
@@ -24,7 +24,7 @@ index d4342fc881aa930145d6824e360573a560ba09ae..f4a6e9f21bd475d58f316356e230c9b9
      "this says what has been opened; `akasha ali-fold` says how deep what was opened went.",
    ],
    invariants: [
-@@ -21,11 +21,11 @@ export const aliCoverage = {
+@@ -21,15 +21,15 @@ export const aliCoverage = {
      },
      {
        invariantKind: "departure",
@@ -38,6 +38,11 @@ index d4342fc881aa930145d6824e360573a560ba09ae..f4a6e9f21bd475d58f316356e230c9b9
      },
      {
        invariantKind: "departure",
+-      statement: "A part or a division nothing stands under counts nought against its own total.",
++      statement: "A part or a division with nothing under it counts nought against its own total.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/alan/library/book-of-everything/commands/ali-next-unscored/ali-next-unscored.command.code.ts b/alan/library/book-of-everything/commands/ali-next-unscored/ali-next-unscored.command.code.ts
 index 5c653d57601b0b9c57bd1e0bd4184e041defb3ba..ff0bf7c0977fba65f1913cc639e6988c6501198f 100644
 --- a/alan/library/book-of-everything/commands/ali-next-unscored/ali-next-unscored.command.code.ts
