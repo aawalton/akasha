@@ -124,14 +124,34 @@ index 0000000000000000000000000000000000000000..be6dabfe0b16c495cdb4b4eb6a4a7712
 +  ],
 +} as const satisfies PageType
 diff --git a/temper/temper-progress/temper-progress.domain.ts b/temper/temper-progress/temper-progress.domain.ts
-index b5744a4bc969071febf2de8d0a9eb7f21cb5312f..4b3d81be5c5d2aed5e2b7b874fad5194f689aa81 100644
+index b5744a4bc969071febf2de8d0a9eb7f21cb5312f..9b801f9af8a476696f0047493203b9c7fa012e18 100644
 --- a/temper/temper-progress/temper-progress.domain.ts
 +++ b/temper/temper-progress/temper-progress.domain.ts
-@@ -20,6 +20,7 @@ export const temperProgress = {
+@@ -7,8 +7,6 @@ export const temperProgress = {
+   definition: "what has been done in the game and what is left",
+   pluralSlug: "temper-progressions",
+   partSlugs: [
+-    "boolean-property/active",
+-    "page-property-entry/conditions",
+     "page-type/temper-activity-category",
+     "page-type/temper-comparison-op",
+     "page-type/temper-completed-day",
+@@ -19,16 +17,12 @@ export const temperProgress = {
+     "page-type/temper-progress-thing",
      "page-type/temper-rotation-breakdown-row",
      "page-type/temper-item-action",
++    "page-type/temper-rule",
      "page-type/temper-rule-goal",
 +    "page-type/temper-rule",
      "page-type/temper-rule-template",
      "page-type/temper-task",
      "page-type/temper-watcher-enrolment",
+     "readout/inboxes-temper-tasks",
+-    "relation-property/action",
+-    "relation-property/condition-field",
+-    "relation-property/goal",
+-    "select-property/stock-scope",
+-    "text-property/condition-value",
+-    "text-property/destination",
+   ],
+ } as const satisfies Domain
