@@ -1,8 +1,8 @@
 diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.test.ts b/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
-index 20ffbb459170c282bb6a2d3bfb89498ad99f897f..9228e8381d6a43dead168942cbad9855f9e16f13 100644
+index 20ffbb459170c282bb6a2d3bfb89498ad99f897f..1c95fe4ff2478c4f3e9dd189405d5b5bf47eea92 100644
 --- a/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
 +++ b/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
-@@ -82,7 +82,7 @@ test("a guarded bun reach below the top level is carried", () => {
+@@ -82,12 +82,12 @@ test("a guarded bun reach below the top level is carried", () => {
    expect(refusedIn(reachOf({ guarded: false }))).toBe(true)
  })
  
@@ -11,6 +11,12 @@ index 20ffbb459170c282bb6a2d3bfb89498ad99f897f..9228e8381d6a43dead168942cbad9855
    expect(saidAs(reachOf())).toBe("Bun.file in a.ts")
    expect(saidAs(reachOf({ atImport: true }))).toBe("Bun.file in a.ts, at import")
  })
+ 
+-test("a reach is found under the section it stands in", () => {
++test("a reach is found under the section it is in", () => {
+   const bundle = ["// a/one.ts", "  const x = Bun.file(at)"].join("\n")
+   expect(reachesIn(bundle)).toEqual([
+     { global: "Bun.file", file: "a/one.ts", atImport: false, guarded: false },
 diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
 index 00d99ccd9eee3b44c3d6a924a902efb746153a02..6930a1e4cdb2af08e1fede15abb55a5040ab35d1 100644
 --- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
