@@ -29,7 +29,7 @@ export const inferenceActivate = {
     },
     {
       invariantKind: "departure",
-      statement: "The answer is what is resident rather than what was asked for.",
+      statement: "The answer names the resident rather than the service asked for.",
     },
     {
       invariantKind: "absence",
