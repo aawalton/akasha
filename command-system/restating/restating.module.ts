@@ -14,7 +14,7 @@ export const restating = {
     },
     {
       invariantKind: "departure",
-      statement: "What a template holds between its expressions is text inside quotes too.",
+      statement: "The text a template holds between its expressions is text inside quotes too.",
     },
     {
       invariantKind: "departure",
