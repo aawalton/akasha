@@ -1,9 +1,9 @@
 import { type Dirent, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { numberAt, slugAt, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { numberAt, slugAt, textAt, type Value, valueAt } from "@akasha/pages/page-value"
 import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"

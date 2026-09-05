@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const onlyOn = {
   id: "01a06861-49aa-75eb-b571-52f5d1081aa3",

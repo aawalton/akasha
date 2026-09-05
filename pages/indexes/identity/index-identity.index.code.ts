@@ -1,8 +1,8 @@
 import { join } from "node:path"
-import { partedIn } from "@akasha/pages-system/page-file-name"
-import { slugFor } from "@akasha/pages-system/page-property-key"
-import type { Identifying } from "@akasha/pages-system/page-type-properties"
-import { textAt, textsAt, type Value } from "@akasha/pages-system/page-value"
+import { partedIn } from "@akasha/pages/page-file-name"
+import { slugFor } from "@akasha/pages/page-property-key"
+import type { Identifying } from "@akasha/pages/page-type-properties"
+import { textAt, textsAt, type Value } from "@akasha/pages/page-value"
 import { type Entry, under } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "./index-identity.index.ts"
 

@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const cpu = {
   id: "01a0658c-329a-7f4d-8196-79171c58a3a3",

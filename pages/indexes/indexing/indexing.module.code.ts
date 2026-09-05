@@ -1,14 +1,14 @@
 import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
-import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import {
   identifyingFrom,
   sourceAmong,
   sourceIn,
   sourceOver,
-} from "@akasha/pages-system/page-type-properties"
-import { loadedFrom, type Value, valueAt } from "@akasha/pages-system/page-value"
+} from "@akasha/pages/page-type-properties"
+import { loadedFrom, type Value, valueAt } from "@akasha/pages/page-value"
 import {
   type Entry,
   fileKeysAt,

@@ -1,4 +1,4 @@
-import type { Value } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages/page-value"
 import type { Row } from "@akasha/pages-system-service/asking"
 import {
   askingFor,

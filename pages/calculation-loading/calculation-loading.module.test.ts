@@ -3,7 +3,7 @@ import type { Held } from "../computing/page-computing.module.code.ts"
 import { workIn } from "./calculation-loading.module.code.ts"
 
 const CALCULATION = [
-  'import type { Work } from "@akasha/pages-system/computed-property"',
+  'import type { Work } from "@akasha/pages/computed-property"',
   'import type { WakeDay } from "../wake-day.page-type.ts"',
   "",
   "export const work: Work<WakeDay, number> = (page) => {",

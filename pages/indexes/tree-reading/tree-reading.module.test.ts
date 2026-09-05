@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { QUARANTINE_ROOT, VENDOR_ROOT } from "@akasha/pages-system/checkout-roots"
+import { QUARANTINE_ROOT, VENDOR_ROOT } from "@akasha/pages/checkout-roots"
 import { pagesUnder, walkedUnder } from "./tree-reading.module.code.ts"
 
 const scratch = scratchWorld()

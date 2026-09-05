@@ -1,10 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  type Identifying,
-  identifyingFrom,
-  sourceOver,
-} from "@akasha/pages-system/page-type-properties"
-import type { Value } from "@akasha/pages-system/page-value"
+import { type Identifying, identifyingFrom, sourceOver } from "@akasha/pages/page-type-properties"
+import type { Value } from "@akasha/pages/page-value"
 import type { Identifier } from "../entries/index-entries.module.code.ts"
 import { A, B, C } from "../entries/index-entries.module.test-fixtures.ts"
 import {

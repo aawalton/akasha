@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import { listedFiled } from "@akasha/indexes/testing"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { valueAt } from "@akasha/pages/page-value"
 import { kindsUnder, listedAbove } from "./page-type-descent.module.code.ts"
 
 const scratch = scratchWorld()

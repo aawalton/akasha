@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const lockState = {
   id: "01a06596-f0d5-700b-af22-da0e38963974",

@@ -1,8 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { loadedFrom } from "@akasha/pages-system/page-value"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { loadedFrom } from "@akasha/pages/page-value"
 import {
   CUTS_FOLDER,
   type CutFingerprint,

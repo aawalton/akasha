@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const operatingSystem = {
   id: "01a0658c-329a-7dce-bdbd-00b709366c9f",

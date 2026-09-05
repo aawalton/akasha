@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { textAt, type Value } from "@akasha/pages-system/page-value"
+import { textAt, type Value } from "@akasha/pages/page-value"
 import {
   claimsOf,
   type Entry,

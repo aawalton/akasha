@@ -1,8 +1,8 @@
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { id as idPage } from "@akasha/pages-system/page/id"
-import { slug as slugPage } from "@akasha/pages-system/page/slug"
+import { id as idPage } from "@akasha/pages/page/id"
+import { slug as slugPage } from "@akasha/pages/page/slug"
 import { indexingAt } from "./indexing.module.code.ts"
 
 export type Held = Record<string, unknown>

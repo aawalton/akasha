@@ -1,6 +1,6 @@
 import { listedAt, type Valued } from "@akasha/indexes"
-import type { Carried } from "@akasha/pages-system/page-type-properties"
-import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
+import type { Carried } from "@akasha/pages/page-type-properties"
+import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import {
   carriedFor,
   computedInto,

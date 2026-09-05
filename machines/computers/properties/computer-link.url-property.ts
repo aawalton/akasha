@@ -1,4 +1,4 @@
-import type { UrlProperty } from "@akasha/pages-system/url-property"
+import type { UrlProperty } from "@akasha/pages/url-property"
 
 export type ComputerLink = string
 

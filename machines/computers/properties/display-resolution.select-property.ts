@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const displayResolution = {
   id: "01a0658c-329a-7fdf-a7c9-f5d76820e07c",

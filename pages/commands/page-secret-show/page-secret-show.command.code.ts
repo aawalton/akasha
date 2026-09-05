@@ -1,5 +1,5 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { keysBeside } from "@akasha/pages-system/page-secret"
+import { keysBeside } from "@akasha/pages/page-secret"
 import {
   aiming,
   caught,

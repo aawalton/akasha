@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const proofStatus = {
   id: "01a0657f-5da8-72f1-8408-a6f70813c9f3",

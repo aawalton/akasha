@@ -1,8 +1,8 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "@akasha/errors-core/exit-code"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { slugAt, textAt, textsAt, type Value, valueAt } from "@akasha/pages-system/page-value"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { slugAt, textAt, textsAt, type Value, valueAt } from "@akasha/pages/page-value"
 
 export interface MobileApp {
   readonly slug: string

@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { IosAppSlug } from "./properties/device-token-ios-app-slug.relation-property.ts"
 import type { LastSeenAt } from "./properties/device-token-last-seen-at.instant-property.ts"
 import type { PersonSlug } from "./properties/device-token-person-slug.relation-property.ts"

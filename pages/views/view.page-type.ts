@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../properties/title.text-property.ts"
 import type { Narrows } from "../queries/properties/narrows.record-property.ts"
 import type { AlwaysShowProperties } from "./properties/always-show-properties.text-property.ts"

@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Attempt } from "./properties/attempt.number-property.ts"
 import type { Derivation } from "./properties/derivation.file-property.ts"

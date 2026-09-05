@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { KiCollectionTemplate } from "../ki-collection-templates/ki-collection-template.page-type.ts"
 
 export type KiSeason = KiCollectionTemplate

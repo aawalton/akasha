@@ -11,7 +11,7 @@ import {
 } from "@akasha/mobile-cli/git-tree-hash"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 import { shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import {
   APP_SAID,
   answering,

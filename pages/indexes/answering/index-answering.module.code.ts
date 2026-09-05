@@ -1,4 +1,4 @@
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+import { kindsUnder } from "@akasha/pages/page-type-descent"
 import {
   type Carried,
   carriedIn,
@@ -8,8 +8,8 @@ import {
   propertiesOf,
   type Source,
   sourceIn,
-} from "@akasha/pages-system/page-type-properties"
-import type { Value } from "@akasha/pages-system/page-value"
+} from "@akasha/pages/page-type-properties"
+import type { Value } from "@akasha/pages/page-value"
 import {
   entryShapesAt,
   type Schema as Filed,

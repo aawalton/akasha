@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { allProfiles, profileSources } from "./rbac-profiles.module.code.ts"
 
 const root = rootFor(resolveRoots(), AKASHA)

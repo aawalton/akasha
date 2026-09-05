@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const placedBy = {
   id: "01a06861-49aa-7937-b453-af9fc3e9cf70",

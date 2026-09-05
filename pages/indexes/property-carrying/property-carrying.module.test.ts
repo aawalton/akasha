@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import type { Value } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages/page-value"
 import {
   idFiled,
   listedFiled,

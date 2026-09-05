@@ -1,19 +1,19 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
-import { workIn } from "@akasha/pages-system/calculation-loading"
-import { type Computed, computingOver, type Subject } from "@akasha/pages-system/page-computing"
-import { entriedValue } from "@akasha/pages-system/page-entries"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+import { workIn } from "@akasha/pages/calculation-loading"
+import { type Computed, computingOver, type Subject } from "@akasha/pages/page-computing"
+import { entriedValue } from "@akasha/pages/page-entries"
+import { kindsUnder } from "@akasha/pages/page-type-descent"
 import {
   type Carried,
   propertiesFrom,
   type Source,
   sourceAmong,
   sourceIn,
-} from "@akasha/pages-system/page-type-properties"
-import { wholeValue } from "@akasha/pages-system/page-uncommitted"
-import { textAt, type Value } from "@akasha/pages-system/page-value"
+} from "@akasha/pages/page-type-properties"
+import { wholeValue } from "@akasha/pages/page-uncommitted"
+import { textAt, type Value } from "@akasha/pages/page-value"
 
 const PAGE_TYPE = "page-type"
 

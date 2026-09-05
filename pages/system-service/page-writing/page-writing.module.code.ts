@@ -2,8 +2,8 @@ import type { Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
 import { type FileEdit, landing } from "@akasha/command-system/landing"
 import { mintingOnto } from "@akasha/command-system/value-minting"
-import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
-import type { Value } from "@akasha/pages-system/page-value"
+import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
+import type { Value } from "@akasha/pages/page-value"
 
 export type Put = {
   readonly path: string

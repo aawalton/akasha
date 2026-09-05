@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Isbn } from "../../alan/library/reading/books/properties/isbn.text-property.ts"
 import type { Isbn13 } from "../../alan/library/reading/books/properties/isbn13.text-property.ts"
 import type { OriginalPublicationYear } from "../../alan/library/reading/books/properties/original-publication-year.number-property.ts"

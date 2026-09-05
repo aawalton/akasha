@@ -1,4 +1,4 @@
-import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 
 export type Translated =
   | {

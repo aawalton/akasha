@@ -1,5 +1,5 @@
 import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { ALTOOL_MARKERS, testflightFailureError } from "../altool/altool.module.code.ts"
 import {
   createAscJwtSource,

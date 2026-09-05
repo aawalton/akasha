@@ -1,9 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { id as idPage } from "@akasha/pages-system/page/id"
-import { slug as slugPage } from "@akasha/pages-system/page/slug"
-import type { Value } from "@akasha/pages-system/page-value"
+import { id as idPage } from "@akasha/pages/page/id"
+import { slug as slugPage } from "@akasha/pages/page/slug"
+import type { Value } from "@akasha/pages/page-value"
 import type { Shaped } from "../reaching/reaching.module.code.ts"
 import {
   claimsOf,

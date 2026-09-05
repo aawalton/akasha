@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const gpu = {
   id: "01a0658c-329a-75c8-9044-3abbb33f0293",

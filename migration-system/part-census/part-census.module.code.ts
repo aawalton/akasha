@@ -1,6 +1,6 @@
 import { everyOfType } from "@akasha/indexes"
-import { namedUnder } from "@akasha/pages-system/page-file-name"
-import { shadowAt } from "@akasha/pages-system/shadow"
+import { namedUnder } from "@akasha/pages/page-file-name"
+import { shadowAt } from "@akasha/pages/shadow"
 
 const DOMAIN = "domain"
 

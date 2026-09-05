@@ -38,7 +38,7 @@ test("the new name with no alias left is done", () => {
 
 test("a name that is already the name it becomes is refused", () => {
   expect(phaseOf(named([["pages/package.json", WAS]]), PLAIN, WAS, WAS)).toEqual({
-    refused: "`@akasha/pages-system` is the name it already carries",
+    refused: "`@akasha/pages` is the name it already carries",
   })
 })
 
@@ -59,7 +59,7 @@ test("a manifest carrying each name is refused", () => {
 
 test("no manifest calling either name is refused", () => {
   expect(phaseOf(named([["other/package.json", "@akasha/other"]]), PLAIN, WAS, NOW)).toEqual({
-    refused: "no manifest calls its package `@akasha/pages-system`",
+    refused: "no manifest calls its package `@akasha/pages`",
   })
 })
 

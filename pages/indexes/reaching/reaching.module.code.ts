@@ -1,7 +1,7 @@
-import { addressIn } from "@akasha/pages-system/page-address"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { propertiesIfNamedOf } from "@akasha/pages-system/page-type-properties"
-import { slugOf, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
+import { addressIn } from "@akasha/pages/page-address"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
+import { slugOf, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import { schemaAt } from "../entries/index-entries.module.code.ts"
 import {
   everyOfType,

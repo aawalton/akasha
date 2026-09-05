@@ -1,5 +1,5 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
-import { upperUuid } from "@akasha/pages-system/name-format/upper-uuid"
+import { upperUuid } from "@akasha/pages/name-format/upper-uuid"
 import type { Test } from "@akasha/pages-system-service/asking"
 import {
   askingFor,

@@ -1,6 +1,6 @@
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { slugOf, textAt } from "@akasha/pages-system/page-value"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { slugOf, textAt } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 
 const GENERATOR = "generator"
 

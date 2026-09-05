@@ -1,6 +1,6 @@
+import { slugsIn } from "@akasha/pages/page-value"
 import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
-import { slugsIn } from "@akasha/pages-system/page-value"
 import type { Asked, Query } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
 import { z } from "zod"

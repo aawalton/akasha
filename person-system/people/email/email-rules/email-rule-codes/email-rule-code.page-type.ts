@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { EmailRule } from "../email-rule.page-type.ts"
 import type { EmailRuleCodeActions } from "./properties/email-rule-code-actions.select-property.ts"
 import type { EmailRuleCodeDelay } from "./properties/email-rule-code-delay.text-property.ts"

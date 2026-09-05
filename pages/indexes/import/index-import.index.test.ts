@@ -48,7 +48,7 @@ test("a specifier naming a package files an edge at the file the manifest names"
 })
 
 test("a package specifier the naming holds nothing for files no edge", () => {
-  const body = 'import { pagesSystem } from "@akasha/pages-system"\n'
+  const body = 'import { pagesSystem } from "@akasha/pages"\n'
 
   expect(importIn(body, "akasha/a.module.code.ts", "/repo", NAMING)).toEqual([])
 })

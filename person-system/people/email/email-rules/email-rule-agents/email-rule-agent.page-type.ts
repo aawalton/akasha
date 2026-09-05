@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { EmailRule } from "../email-rule.page-type.ts"
 import type { EmailRuleJudgement } from "./properties/email-rule-judgement.text-property.ts"
 
@@ -22,8 +22,7 @@ export const emailRuleAgent = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule of this kind states the judgement to make rather than the actions to take.",
+      statement: "A rule of this kind states what to weigh rather than what to do.",
     },
     {
       invariantKind: "departure",

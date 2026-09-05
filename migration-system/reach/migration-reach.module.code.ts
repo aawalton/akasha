@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { told } from "@akasha/git/git-running"
-import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 
 const NOTHING_TRACKED =
   "git listed no tracked file at all under the root swept, so every path would read as unreached " +

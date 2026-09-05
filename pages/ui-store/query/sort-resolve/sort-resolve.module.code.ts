@@ -1,3 +1,4 @@
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages-access/routing-core"
 import {
   type AggregateConfig,
@@ -14,7 +15,6 @@ import {
   type PageDataJSON,
   type PropertyDefinition,
 } from "@akasha/pages-core/types"
-import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
 import {
   asPageRecord,
   attributesOf,

@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+import { kindsUnder } from "@akasha/pages/page-type-descent"
 import {
   carriedIn,
   declarationsOf,
   pageAt,
   propertiesOf,
   sourceIn,
-} from "@akasha/pages-system/page-type-properties"
-import type { Value } from "@akasha/pages-system/page-value"
+} from "@akasha/pages/page-type-properties"
+import type { Value } from "@akasha/pages/page-value"
 import { fileKeysAt, pageTypesIn, schemaAt } from "../entries/index-entries.module.code.ts"
 import { carryingOf, declaringOf } from "../property-carrying/property-carrying.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"

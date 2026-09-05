@@ -1,6 +1,6 @@
 import { homedir } from "node:os"
 import { resolve } from "node:path"
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 
 const CLUSTER_PAGES_AT = "machines/clusters/pages/"
 

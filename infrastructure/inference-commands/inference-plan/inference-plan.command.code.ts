@@ -1,6 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { reconcile } from "@akasha/inference-pool/inference-reconcile"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import {
   answering,
   keyedLines,

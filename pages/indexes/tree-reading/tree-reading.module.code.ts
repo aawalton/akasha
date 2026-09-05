@@ -1,7 +1,7 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
-import { QUARANTINE_ROOT, VENDOR_ROOT } from "@akasha/pages-system/checkout-roots"
-import { partedIn } from "@akasha/pages-system/page-file-name"
+import { QUARANTINE_ROOT, VENDOR_ROOT } from "@akasha/pages/checkout-roots"
+import { partedIn } from "@akasha/pages/page-file-name"
 
 const PAGE_TYPE = "page-type"
 
