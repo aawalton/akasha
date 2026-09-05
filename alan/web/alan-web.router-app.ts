@@ -142,5 +142,6 @@ export const alanWeb = {
     "module/use-reader-active-marks",
     "module/wallpaper-candidates",
     "route/about",
+    "route/claude-usage",
   ],
 } as const satisfies RouterApp
