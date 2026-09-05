@@ -34,7 +34,7 @@ export const watcherUploadRetry = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what is being uploaded.",
+      statement: "Nothing here names the upload's contents.",
     },
   ],
 } as const satisfies Module
