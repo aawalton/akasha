@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
 index 39fa4358dc6258706bea2c5c711220605a945abc..f10e80291205830053b3a41248ba2f897551ce70 100644
 --- a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
@@ -80,10 +79,10 @@ index fec3f68d7ddc8244121f476ee6db206bd23f4695..00000000000000000000000000000000
 -exec bun "$dispatcher" "$@"
 diff --git a/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh b/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh
 new file mode 100644
-index 0000000000000000000000000000000000000000..fec3f68d7ddc8244121f476ee6db206bd23f4695
+index 0000000000000000000000000000000000000000..05008a286afaac9f8ea39dcbf7e3f2b76430c1d0
 --- /dev/null
 +++ b/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh
-@@ -0,0 +1,29 @@
+@@ -0,0 +1,20 @@
 +#!/usr/bin/env bash
 +#
 +# The `akasha` name on PATH, resolving into the repository the dispatcher stands in.
@@ -92,23 +91,14 @@ index 0000000000000000000000000000000000000000..fec3f68d7ddc8244121f476ee6db206b
 +# itself, so a change to what `akasha` says or refuses is live on the commit that makes it, with
 +# no build and no deploy in between. This file is the only part of the name that lives outside
 +# that folder, and it does nothing but name it: an akasha file imports nothing from out here.
-+#
-+# The akasha folder is becoming the repository root, so the dispatcher stands one directory
-+# higher after that move than before it. Both places are named below and the first that holds the
-+# file wins, so this name keeps working across the move rather than dying in the middle of it.
 +
 +set -euo pipefail
 +
 +root="${AKASHA_ROOT:-$HOME/repos/akasha}"
-+within="$root/akasha/command-system/cli/cli.module.code.ts"
-+reparented="$root/command-system/cli/cli.module.code.ts"
++dispatcher="$root/command-system/cli/cli.module.code.ts"
 +
-+if [[ -f $within ]]; then
-+  dispatcher="$within"
-+elif [[ -f $reparented ]]; then
-+  dispatcher="$reparented"
-+else
-+  echo "akasha: no dispatcher at $within or $reparented — set AKASHA_ROOT to an akasha checkout" >&2
++if [[ ! -f $dispatcher ]]; then
++  echo "akasha: no dispatcher at $dispatcher — set AKASHA_ROOT to an akasha checkout" >&2
 +  exit 70
 +fi
 +
