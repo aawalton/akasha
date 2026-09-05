@@ -10,7 +10,7 @@ export const temperTradingPricingClient = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A listing here is what Tamriel Trade Centre answers right now.",
+      statement: "A listing here is Tamriel Trade Centre's answer right now.",
     },
     {
       invariantKind: "departure",
