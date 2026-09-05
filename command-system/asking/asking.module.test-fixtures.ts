@@ -77,7 +77,7 @@ export function repoWith(
   return repoAt(scratch.rootFor("akasha-asking-"), named)
 }
 
-export function checksBroken(root: string): undefined {
+function checksBroken(root: string): undefined {
   rmSync(join(root, UNLOADABLE_AT))
 }
 

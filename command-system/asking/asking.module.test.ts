@@ -5,19 +5,18 @@ import { listedTakenFrom } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
+import { patch } from "../../commands/patch/patch.command.code.ts"
 import { write } from "../../commands/write/write.command.code.ts"
+import { drafted } from "../drafting/drafting.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
-  applied,
   asking,
   BROKEN,
   blocked,
   bodyIn,
   checking,
-  checksBroken,
   commitIn,
-  drafting,
   git,
   givenIn,
   LOOSE,
@@ -28,6 +27,7 @@ import {
   repoNoCheckLoads,
   repoWith,
   repoWithTheFormatter,
+  SEAT_AT,
   scratch,
   TIDY,
   treeHolds,
@@ -112,19 +112,16 @@ test("checks that will not load refuse the change, and nothing reaches the disk"
   expect(headOf(root)).toBe(was)
 })
 
-test("the glass carries a patch past checks that stopped loading, and the commit says why", async () => {
-  const root = repoWith()
-  const drafted = await drafting(root, ["--message", "held"])
-  expect(drafted.code).toBe(0)
-  checksBroken(root)
-  const said = await applied(root, drafted, [
-    "--message",
-    "held",
-    "--break-the-glass",
-    "mid-refactor",
-  ])
+test("the glass carries a patch past checks that will not load, and the commit says why", async () => {
+  const root = repoNoCheckLoads()
+  const draft = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
+  expect("why" in drafted(root, SEAT_AT, draft)).toBe(false)
+  const said = await patch(
+    ["apply", "--message", "held", "--break-the-glass", "mid-refactor"],
+    givenIn(root)
+  )
   expect(said.code).toBe(0)
-  expect(said.report).toContain("landed akasha/two.ts")
+  expect(said.report).toContain("landed akasha/one.ts")
   const body = commitIn(root, said)
   expect(body).toContain("Checks-bypassed: mid-refactor")
   expect(body).toContain(`Checks-unloadable: ${UNLOADABLE_AT} is a check's code`)
