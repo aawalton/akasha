@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts b/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts
-index 1820e25f81703821849d59512ad4d74a4cacfd56..8ea5bc86794ccf512948f5f3db63aa2dadd9fc81 100644
+index 1820e25f81703821849d59512ad4d74a4cacfd56..6f02c24397ce4296394d9a9b20f572e0441623ee 100644
 --- a/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts
 +++ b/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts
 @@ -136,7 +136,7 @@ function linkSlot(
@@ -11,8 +11,17 @@ index 1820e25f81703821849d59512ad4d74a4cacfd56..8ea5bc86794ccf512948f5f3db63aa2d
      )
    return {
      slot: { slot: "hole", name, value, mark: node.marks[0] ?? null, optional: false },
+@@ -218,7 +218,7 @@ export function lineRule(
+       )
+     if (rest.length > 0)
+       return no(
+-        `${at} bars a mark from the whole line ${fills} fills, and ${fills} stands beside other text on it`
++        `${at} bars a mark from the whole line ${fills} fills, and ${fills} sits beside other text on it`
+       )
+     if (lead.slot === "hole" && lead.mark !== null)
+       return no(
 diff --git a/markdown-pages/markdown-glob/markdown-glob.module.code.ts b/markdown-pages/markdown-glob/markdown-glob.module.code.ts
-index 4d249ccaf7532513a6a7963e7f4158124581d39c..532b6812da84436b634cc56a477793908e7e27ed 100644
+index 4d249ccaf7532513a6a7963e7f4158124581d39c..642b0488365c2b3b00416884f1505b769c5988a2 100644
 --- a/markdown-pages/markdown-glob/markdown-glob.module.code.ts
 +++ b/markdown-pages/markdown-glob/markdown-glob.module.code.ts
 @@ -12,7 +12,7 @@ const held = new Map<string, Minimatch>()
@@ -24,8 +33,19 @@ index 4d249ccaf7532513a6a7963e7f4158124581d39c..532b6812da84436b634cc56a47779390
  // rather than from the root is what keeps a placed pattern cheap.
  const SPECIAL = /[*?[\]{}()!+@]/
  
+@@ -40,8 +40,8 @@ export function globBaseOf(pattern: string): string {
+ // only glob characters are the leading `**/` and a `*` ahead of a literal tail asks nothing of the
+ // path but its ending, so the ending is what gets read.
+ //
+-// `**/` stands for zero or more segments and `*` for zero or more characters within one, so under
+-// `dot: true` the pattern matches exactly those paths ending in the tail, wherever they stand and
++// `**/` represents zero or more segments and `*` zero or more characters within one, so under
++// `dot: true` the pattern matches exactly those paths ending in the tail, wherever they are and
+ // whatever they are named — which is what `endsWith` answers.
+ const TAIL_ONLY = /^\*\*\/\*([A-Za-z0-9._-]+)$/
+ 
 diff --git a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
-index 8131c472b8b657094fad4502a5a512b714c0da60..033af28150e10bffd40b79819718d1c4d7ecb238 100644
+index 8131c472b8b657094fad4502a5a512b714c0da60..d58341dcede26a4dc7bf15f037252caec1958183 100644
 --- a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
 +++ b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
 @@ -84,8 +84,8 @@ async function advance(source: SeqSource, first: number, count: number): Promise
@@ -39,8 +59,17 @@ index 8131c472b8b657094fad4502a5a512b714c0da60..033af28150e10bffd40b79819718d1c4
      }
    }
    const landed = await landBodies(
+@@ -108,7 +108,7 @@ export async function takeSeqsOf(source: SeqSource, count: number): Promise<numb
+   }
+   const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
+   return await exclusively(`${absolute}${ALLOCATING}`, async () => {
+-    const stoodChanged = uncommitted(source.pageTypeRelPath)
++    const wasChanged = uncommitted(source.pageTypeRelPath)
+     const first = readNextSeqOf(source)
+     const run = await advance(source, first, count)
+     if (run.code === 0) return first
 diff --git a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts b/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
-index ff08132a7e89374cae61f9f4608b5f210170cde7..172983743d6ad147d1fa6a6fc8e620b4ae1e1479 100644
+index ff08132a7e89374cae61f9f4608b5f210170cde7..08f8644ee98fbf7b8166407723b2a782010b98e1 100644
 --- a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
 +++ b/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
 @@ -17,7 +17,7 @@ const STRINGIFY_OPTIONS = {
@@ -52,3 +81,12 @@ index ff08132a7e89374cae61f9f4608b5f210170cde7..172983743d6ad147d1fa6a6fc8e620b4
    }
    return `${pagePath.slice(0, -PAGE_SUFFIX.length)}${UNCOMMITTED_SUFFIX}`
  }
+@@ -40,7 +40,7 @@ function readUncommittedNow(pagePath: string): Record<string, unknown> | null {
+     parsed = parse(raw)
+   } catch (thrown) {
+     throw new Error(
+-      `'${path}' stands beside a page but its YAML cannot be parsed, so what it holds is unknown rather than nothing: ${String(thrown)}`
++      `'${path}' sits beside a page but its YAML cannot be parsed, so what it holds is unknown rather than nothing: ${String(thrown)}`
+     )
+   }
+   if (typeof parsed !== "object" || parsed === null || Array.isArray(parsed)) {
