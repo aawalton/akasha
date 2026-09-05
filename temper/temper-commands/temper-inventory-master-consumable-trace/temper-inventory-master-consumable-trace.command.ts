@@ -27,7 +27,7 @@ export const temperInventoryMasterConsumableTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "Each trace carries what the writ came to.",
+      statement: "Each trace carries the writ's outcome.",
     },
   ],
 } as const satisfies Command
