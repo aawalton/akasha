@@ -22,6 +22,8 @@ export const replace = {
     "the passage and what it becomes are files or standard input, never text said on the command line.",
     "a call stating no --old-file reads the passage from standard input.",
     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
+    "a payload names a run of its own on the line it opens with, so a passage may carry a marker line.",
+    "opening at <<<<<<<ZZ old marks that payload with =======ZZ and >>>>>>>ZZ new throughout.",
     "the passage is matched as the bytes it is rather than as a pattern.",
     "a file named that holds the passage nowhere refuses the call, so name only the files that change.",
     "--dry-run is how the files that hold the passage are found.",

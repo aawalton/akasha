@@ -28,6 +28,8 @@ export const edit = {
     "a --file-path stating no --old-file reads its passages from standard input.",
     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
     "the marker blocks repeat, and each is worked in the order stated.",
+    "a payload names a run of its own on the line it opens with, so a passage may carry a marker line.",
+    "opening at <<<<<<<ZZ old marks that payload with =======ZZ and >>>>>>>ZZ new throughout.",
     "the files beside a path given to --remove go with it, and no list naming that page is mended.",
     "a file has to be what this call read it as, wherever in the repository that file is.",
     "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
