@@ -211,3 +211,18 @@ index 0000000000000000000000000000000000000000..7f9a83ee9d6b932df82823821eb286ab
 +    "module/use-webkit-read-aloud-ensure",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/ui/mutators/pages-ui-mutators.domain.ts b/pages/ui/mutators/pages-ui-mutators.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..86bc4e2e398de947572b97155fd401488df0132d
+--- /dev/null
++++ b/pages/ui/mutators/pages-ui-mutators.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiMutators = {
++  id: "01a071d0-fbc9-77b5-bc90-c1df2358997e",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-mutators",
++  definition: "the callbacks a view changes through",
++  partSlugs: ["module/view-callbacks"],
++} as const satisfies Domain
