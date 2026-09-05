@@ -42,10 +42,7 @@ export const exerciseSessionFinish = {
       statement:
         "A session carrying no moment started is answered with no duration rather than zero.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The volume is counted against the bodyweight the client profile states.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here logs a set.",

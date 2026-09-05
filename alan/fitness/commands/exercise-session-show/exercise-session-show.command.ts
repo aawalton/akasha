@@ -40,10 +40,7 @@ export const exerciseSessionShow = {
       invariantKind: "departure",
       statement: "A warmup set is marked as one.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The volume is counted against the bodyweight the client profile states.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here changes the session or its sets.",
