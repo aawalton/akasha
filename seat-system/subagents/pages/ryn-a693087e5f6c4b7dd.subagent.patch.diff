@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/utf8-body/utf8-body.module.ts b/code-system/utf8-body/utf8-body.module.ts
+index b9124cbed8870f9e1a67d23bf4c17511c8c4dc79..6170615eb48655b2460cd271d3854bc0698bd46e 100644
+--- a/code-system/utf8-body/utf8-body.module.ts
++++ b/code-system/utf8-body/utf8-body.module.ts
+@@ -29,7 +29,7 @@ export const utf8Body = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows which file the bytes came from or what the text means.",
++      statement: "Nothing here knows which file the bytes came from or the meaning of the text.",
+     },
+   ],
+ } as const satisfies Module
