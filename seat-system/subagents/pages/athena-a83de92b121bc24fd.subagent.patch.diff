@@ -268,3 +268,32 @@ index 3726a83a80962cbf9fea2f82274c961d491556e5..1c5feadeabffe0813380cc6fbeaafb74
 +  if ("code" in built) return built
 +  return await landingTracked(given.root, built.changes, built.message, given.calledAs)
  }
+diff --git a/commands/tracking/tracking.command.test.ts b/commands/tracking/tracking.command.test.ts
+index 773b1e3341ac24d0e6a8cd3f8fa33abf3bcad196..f798ecb5eb48d55f211bd67f9d7c2e10a6f74f12 100644
+--- a/commands/tracking/tracking.command.test.ts
++++ b/commands/tracking/tracking.command.test.ts
+@@ -2,18 +2,16 @@ import { afterAll, expect, test } from "bun:test"
+ import { readFileSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { said as git } from "@akasha/git/git-running"
+-import { MECHANICAL } from "../../command-system/asking/asking.module.code.ts"
+-import type { Given } from "../../command-system/calling/calling.module.code.ts"
+-import { baseOf } from "../../command-system/landing/landing.module.code.ts"
+-import { repoWith, scratch } from "../../command-system/landing/landing.module.test-fixtures.ts"
+ import {
+   DAYS_AT,
+   FOOD_ENTRIES_AT,
+-  NO_GLASS,
+   outsideTracked,
+-  strayIn,
+-  tracking,
+-} from "./tracking.command.code.ts"
++} from "../../alan/tracking/tracking-landing/tracking-landing.module.code.ts"
++import { MECHANICAL } from "../../command-system/asking/asking.module.code.ts"
++import type { Given } from "../../command-system/calling/calling.module.code.ts"
++import { baseOf } from "../../command-system/landing/landing.module.code.ts"
++import { repoWith, scratch } from "../../command-system/landing/landing.module.test-fixtures.ts"
++import { NO_GLASS, strayIn, tracking } from "./tracking.command.code.ts"
+ 
+ const ROOT = "/nowhere"
+ 
