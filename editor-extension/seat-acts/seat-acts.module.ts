@@ -9,15 +9,16 @@ export const seatActs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat already being acted on ignores a second act rather than queueing it.",
+      statement:
+        "A seat already being acted on ignores a second act rather than queueing that act.",
     },
     {
       invariantKind: "departure",
-      statement: "The steps of one plan run in the order the plan named them.",
+      statement: "The steps of one plan run in the order the plan named those steps.",
     },
     {
       invariantKind: "departure",
-      statement: "A step that fails ends the plan and leaves the steps after it undone.",
+      statement: "A step that fails ends the plan and leaves the steps after that step undone.",
     },
     {
       invariantKind: "departure",
