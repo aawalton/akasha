@@ -1,5 +1,5 @@
 diff --git a/pages/beside/page-beside.module.test.ts b/pages/beside/page-beside.module.test.ts
-index 1fb05a6c6d6fb8567a8906cd0993e53889b2b42b..c7de1a291f386655a0d5f8015616257a8163f320 100644
+index 1fb05a6c6d6fb8567a8906cd0993e53889b2b42b..553bf325336b26a5092e2b407e9bff6bd4dd7850 100644
 --- a/pages/beside/page-beside.module.test.ts
 +++ b/pages/beside/page-beside.module.test.ts
 @@ -27,7 +27,7 @@ function rootWith(paths: readonly string[]): string {
@@ -20,6 +20,15 @@ index 1fb05a6c6d6fb8567a8906cd0993e53889b2b42b..c7de1a291f386655a0d5f8015616257a
    const root = rootWith([
      PAGE,
      "akasha/one/held.module.code.ts",
+@@ -85,7 +85,7 @@ test("what stands beside several paths is answered once, sorted, and holds none
+   ])
+ })
+ 
+-test("a path named among the set is never answered as standing beside another", () => {
++test("a path named among the set is never answered as sitting beside another", () => {
+   const root = rootWith([PAGE, "akasha/one/held.module.code.ts"])
+   expect(besideAll(root, [PAGE, "akasha/one/held.module.code.ts"])).toEqual([])
+ })
 diff --git a/pages/beside/page-beside.module.ts b/pages/beside/page-beside.module.ts
 index a5bb3f6538cec2c615102089c51f9d0be5179cad..49597d75338c0ee077922cdc258dd5d4abd1ecfb 100644
 --- a/pages/beside/page-beside.module.ts
@@ -89,7 +98,7 @@ index 14ac63df14a1b3d0fb133d8d8985f907a29e4a5a..ce28eb5a06ebbc1dd59944b1efa0c02c
      {
        invariantKind: "departure",
 diff --git a/pages/file-name/page-file-name.module.ts b/pages/file-name/page-file-name.module.ts
-index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..67ad069c22980db45ce14bf02edc069486cf9b06 100644
+index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..74c5fb7affad920e3310d39e6367d327b15f8b94 100644
 --- a/pages/file-name/page-file-name.module.ts
 +++ b/pages/file-name/page-file-name.module.ts
 @@ -4,7 +4,7 @@ export const pageFileName = {
@@ -101,7 +110,7 @@ index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..67ad069c22980db45ce14bf02edc0694
    code: "ts",
    test: "ts",
    testFixtures: "ts",
-@@ -57,7 +57,7 @@ export const pageFileName = {
+@@ -57,11 +57,11 @@ export const pageFileName = {
      },
      {
        invariantKind: "departure",
@@ -110,8 +119,13 @@ index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..67ad069c22980db45ce14bf02edc0694
      },
      {
        invariantKind: "departure",
+-      statement: "The name a property's file stands under is built here as well as read here.",
++      statement: "The name a property's file is under is built here as well as read here.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/file-parts/page-file-parts.module.code.ts b/pages/file-parts/page-file-parts.module.code.ts
-index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..18d32d35be000431afe7082abf430225c9e27baf 100644
+index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..561f7fb37dded1d2bd8fdb9fc01de01e0fe61881 100644
 --- a/pages/file-parts/page-file-parts.module.code.ts
 +++ b/pages/file-parts/page-file-parts.module.code.ts
 @@ -28,13 +28,13 @@ export function uncommittedPartAt(
@@ -130,3 +144,15 @@ index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..18d32d35be000431afe7082abf430225
      found.push(at)
    }
    return found
+@@ -44,9 +44,9 @@ export function partsOf(
+   path: string,
+   propertySlug: string,
+   held: string,
+-  standing: (at: string) => boolean
++  existing: (at: string) => boolean
+ ): readonly string[] {
+-  return walking((part) => partAt(path, propertySlug, held, part), standing)
++  return walking((part) => partAt(path, propertySlug, held, part), existing)
+ }
+ 
+ export function uncommittedPartsOf(
