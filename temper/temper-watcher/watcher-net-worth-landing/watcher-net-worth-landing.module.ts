@@ -46,7 +46,8 @@ export const watcherNetWorthLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "What a reading broke its total into is written only where it broke one out.",
+      statement:
+        "What a reading broke its total into is written only where that reading broke one out.",
     },
     {
       invariantKind: "departure",
