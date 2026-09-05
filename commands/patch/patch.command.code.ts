@@ -1,8 +1,8 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { partedIn } from "@akasha/pages-system/page-file-name"
-import { textAt as textIn, valueAt } from "@akasha/pages-system/page-value"
+import { partedIn } from "@akasha/pages/page-file-name"
+import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
 import { applied } from "../../command-system/applying/applying.module.code.ts"
 import {
   BREAK_GLASS,

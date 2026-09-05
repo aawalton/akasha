@@ -1,6 +1,6 @@
 import { markTold, oneRun, untoldClaims } from "@akasha/email-watch/inbox-run"
 import { mailbox } from "@akasha/google-email/gmail-mailbox"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { recordToAgent } from "@akasha/seat-system/agent-record"
 import {
   sleptUntilStopped,

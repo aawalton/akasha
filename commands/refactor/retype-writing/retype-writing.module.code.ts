@@ -1,6 +1,6 @@
 import { parsedAs } from "@akasha/code-system/code-source"
 import { typed } from "@akasha/code-system/code-typing"
-import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
+import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import ts from "typescript"
 import { textOf } from "../../../command-system/asking/asking.module.code.ts"
 import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"

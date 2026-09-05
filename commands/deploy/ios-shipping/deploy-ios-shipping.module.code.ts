@@ -4,7 +4,7 @@ import { resolveRepoRoot } from "@akasha/mobile-cli/git-tree-hash"
 import { acquireLocalCutLock, releaseLocalCutLock } from "@akasha/mobile-cli/local-cut-lock"
 import { type MobileApp, resolveApp, shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
 import { runTestflightCut } from "@akasha/mobile-cli/testflight-cut"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
 import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 

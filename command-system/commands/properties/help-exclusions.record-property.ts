@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages-system/page-property"
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { List } from "@akasha/pages/page-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { HelpExclusionNames } from "./help-exclusion-names.text-property.ts"
 
 export type HelpExclusion = {

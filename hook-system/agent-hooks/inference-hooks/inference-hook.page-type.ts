@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { AgentHook } from "../agent-hook.page-type.ts"
 
 export const inferenceHook = {

@@ -4,7 +4,7 @@ import { readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver, type PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import { readingLaidOver } from "@akasha/indexes/testing"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { valueAt } from "@akasha/pages/page-value"
 import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
 import {
   APART_AT,

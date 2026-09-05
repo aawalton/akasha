@@ -1,5 +1,5 @@
 import type { Answering } from "@akasha/indexes/answering"
-import { partedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages/page-file-name"
 
 const SHAPE_TYPE = "01a05da1-60fc-76ca-8503-b43deb6d5f53"
 

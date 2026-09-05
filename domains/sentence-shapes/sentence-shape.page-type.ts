@@ -1,5 +1,5 @@
 import type { Module } from "@akasha/code-system/module"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Allowed } from "./properties/allowed.boolean-property.ts"
 import type { Reason } from "./properties/reason.text-property.ts"
 import type { Rules } from "./properties/rules.text-property.ts"

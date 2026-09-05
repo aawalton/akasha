@@ -1,5 +1,5 @@
 import { listedAddressed, listedAt } from "@akasha/indexes"
-import { textAt, valueAt } from "@akasha/pages-system/page-value"
+import { textAt, valueAt } from "@akasha/pages/page-value"
 import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 

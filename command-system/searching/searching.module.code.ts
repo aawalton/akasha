@@ -1,9 +1,9 @@
 import { existsSync, statSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { repos } from "@akasha/pages-system/checkout-roots"
-import type { Repo } from "@akasha/pages-system/markdown-document"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { canonicalize } from "@akasha/pages-system/repo-path"
+import { repos } from "@akasha/pages/checkout-roots"
+import type { Repo } from "@akasha/pages/markdown-document"
+import type { Roots } from "@akasha/pages/markdown-page-at"
+import { canonicalize } from "@akasha/pages/repo-path"
 
 export const REPOS_NAMED = repos()
   .map((one) => `\`${one}\``)

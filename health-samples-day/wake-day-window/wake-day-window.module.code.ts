@@ -2,9 +2,9 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 import { listedAt } from "@akasha/indexes"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { entriesIn } from "@akasha/pages-system/page-entries"
-import { besideAt } from "@akasha/pages-system/page-file-name"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { entriesIn } from "@akasha/pages/page-entries"
+import { besideAt } from "@akasha/pages/page-file-name"
 
 export interface DayWindow {
   readonly from: string

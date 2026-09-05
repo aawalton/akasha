@@ -6,8 +6,8 @@ import { whyOf } from "@akasha/command-system/fault-saying"
 import { writerIn } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
-import { AKASHA } from "@akasha/pages-system/checkout-roots"
-import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
+import { AKASHA } from "@akasha/pages/checkout-roots"
+import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 
 const PROPERTY_ROOT = "page-property"
 

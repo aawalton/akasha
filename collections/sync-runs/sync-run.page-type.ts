@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { CreatedCount } from "./properties/created-count.number-property.ts"
 import type { DurationMs } from "./properties/duration-ms.number-property.ts"
 import type { FailedCount } from "./properties/failed-count.number-property.ts"

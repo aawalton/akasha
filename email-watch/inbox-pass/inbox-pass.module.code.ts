@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { mailbox } from "@akasha/google-email/gmail-mailbox"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { oneRun, type RunReport } from "../inbox-run/inbox-run.module.code.ts"
 
 const DRY_RUN = "--dry-run"

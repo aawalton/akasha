@@ -1,4 +1,4 @@
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import { displayNameOf, personaAt } from "@akasha/persona-system/persona-reading"
 import { seat } from "@akasha/seat-system/seat-page-type"
 import { pageTextOf } from "@akasha/seat-system/seat-page-values"

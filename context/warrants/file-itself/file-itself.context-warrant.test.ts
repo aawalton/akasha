@@ -11,7 +11,7 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import type { Value } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages/page-value"
 import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()

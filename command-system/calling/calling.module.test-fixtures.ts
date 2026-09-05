@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { idFiled, listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Surface } from "./calling.module.code.ts"
 

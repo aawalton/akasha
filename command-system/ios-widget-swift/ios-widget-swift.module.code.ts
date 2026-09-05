@@ -1,6 +1,6 @@
 import { dirname } from "node:path"
 import { listedAt, valuesOfType } from "@akasha/indexes"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 
 const WIDGET_PAGE_TYPE = "readout-widget"
 

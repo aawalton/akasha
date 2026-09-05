@@ -1,14 +1,14 @@
 import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
 import { pageTypesIn } from "@akasha/indexes/entries"
-import { besideOf } from "@akasha/pages-system/page-beside"
+import { besideOf } from "@akasha/pages/page-beside"
 import {
   pageNamed,
   pageOf,
   partedIn,
   sectionedIn,
   uncommittedHeld,
-} from "@akasha/pages-system/page-file-name"
+} from "@akasha/pages/page-file-name"
 import { namingOf } from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { pathAt } from "../../write/write.command.code.ts"
 import type { Renaming } from "../renaming/move-renaming.module.code.ts"

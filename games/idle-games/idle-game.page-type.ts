@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { LastViewedAt } from "../../alan/tracking/daily/wake-days/properties/last-viewed-at.instant-property.ts"
 import type { Collection } from "../../collections/collection.page-type.ts"
 import type { GameEngine } from "../../story/games/properties/game-engine.text-property.ts"

@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages-system/page-property"
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { List } from "@akasha/pages/page-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { HelpArgAliases } from "./help-arg-aliases.text-property.ts"
 import type { HelpArgChoices } from "./help-arg-choices.text-property.ts"
 import type { HelpArgDefault } from "./help-arg-default.text-property.ts"

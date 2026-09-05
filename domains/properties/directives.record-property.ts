@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages-system/page-property"
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { List } from "@akasha/pages/page-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { Act } from "./act.text-property.ts"
 import type { Aids } from "./aids.text-property.ts"
 import type { DirectiveKind } from "./directive-kind.relation-property.ts"

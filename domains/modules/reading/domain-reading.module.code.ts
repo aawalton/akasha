@@ -1,6 +1,6 @@
-import { everyOfType, everyPath, readingIn } from "@akasha/pages-system/index-reading"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { everyOfType, everyPath, readingIn } from "@akasha/pages/index-reading"
+import { kindsUnder } from "@akasha/pages/page-type-descent"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 
 const DOMAIN = "domain"
 

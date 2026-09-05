@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
-import { besideAt } from "@akasha/pages-system/page-file-name"
+import { resolveRoots } from "@akasha/pages/checkout-roots"
+import { besideAt } from "@akasha/pages/page-file-name"
 import { instantMs } from "../sample-identity/sample-identity.module.code.ts"
 import { ANCHOR_PAGE_TYPE, ROW_CEILING, recordOf } from "../sample-rows/sample-rows.module.code.ts"
 import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"

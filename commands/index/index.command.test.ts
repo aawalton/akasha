@@ -13,9 +13,9 @@ import {
   rebuiltApart,
   rebuiltIn,
 } from "@akasha/indexes/testing"
-import { id as idPage } from "@akasha/pages-system/page/id"
-import { slug as slugPage } from "@akasha/pages-system/page/slug"
-import { textProperty } from "@akasha/pages-system/text-property"
+import { id as idPage } from "@akasha/pages/page/id"
+import { slug as slugPage } from "@akasha/pages/page/slug"
+import { textProperty } from "@akasha/pages/text-property"
 import type { Given } from "../../command-system/calling/calling.module.code.ts"
 import { calling } from "../../command-system/calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../command-system/cli/cli.module.code.ts"

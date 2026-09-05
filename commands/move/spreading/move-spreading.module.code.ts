@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { besideOf } from "@akasha/pages-system/page-beside"
+import { besideOf } from "@akasha/pages/page-beside"
 import { said as saying } from "@akasha/utils-run/running"
 import { counted } from "../../../command-system/asking/asking.module.code.ts"
 import { trackedUnder } from "../../remove/remove.command.code.ts"

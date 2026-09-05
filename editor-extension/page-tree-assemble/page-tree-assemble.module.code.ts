@@ -1,4 +1,4 @@
-import { slugsIn } from "@akasha/pages-system/page-value"
+import { slugsIn } from "@akasha/pages/page-value"
 
 export interface QueryRow {
   readonly at: string

@@ -1,5 +1,5 @@
 import type { Module } from "@akasha/code-system/module"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { ChangeKindSlug } from "./properties/change-kind-slug.relation-property.ts"
 import type { HelpEnvVars } from "./properties/help-env-vars.record-property.ts"
 import type { HelpExamples } from "./properties/help-examples.text-property.ts"

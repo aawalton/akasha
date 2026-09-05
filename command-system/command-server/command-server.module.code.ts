@@ -39,7 +39,7 @@ Commands: ${COMMANDS_SERVED.join(", ")}
  */
 async function commandFile(command: string): Promise<string> {
   try {
-    const { akashaRoot } = await import("@akasha/pages-system/checkout-roots")
+    const { akashaRoot } = await import("@akasha/pages/checkout-roots")
     const { commandFileIn } = await import("../calling/calling.module.code.ts")
     return commandFileIn(akashaRoot(), command) ?? command
   } catch {
@@ -64,7 +64,7 @@ const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Ran }>>> = {
     const { agentTurnColors } = await import(
       "../../commands/agent-turn-colors/agent-turn-colors.command.code.ts"
     )
-    const { akashaRoot } = await import("@akasha/pages-system/checkout-roots")
+    const { akashaRoot } = await import("@akasha/pages/checkout-roots")
     return {
       main: (argv) => {
         const at = akashaRoot()
@@ -91,7 +91,7 @@ const CALLED: ReadonlySet<string> = new Set([
 
 async function called(command: string, argv: readonly string[]): Promise<number> {
   const { calling } = await import("../calling/calling.module.code.ts")
-  const { akashaRoot } = await import("@akasha/pages-system/checkout-roots")
+  const { akashaRoot } = await import("@akasha/pages/checkout-roots")
   const root = akashaRoot()
   const answer = await calling([command, ...argv], {
     root,

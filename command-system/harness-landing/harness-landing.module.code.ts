@@ -14,7 +14,7 @@ import { commitPaths } from "@akasha/git/git-committing"
 import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
 import { gitAskingPaths, gitIgnoring, heldByRepo } from "@akasha/git/git-pathspec"
 import { handOffPush, pushBehindLines } from "@akasha/git/git-push-handoff"
-import { AKASHA } from "@akasha/pages-system/checkout-roots"
+import { AKASHA } from "@akasha/pages/checkout-roots"
 import { commitAuthor } from "../commit-author/commit-author.module.code.ts"
 
 // The environment variable a run sets to say the checks already ran. `patches/patch.ts` declared it

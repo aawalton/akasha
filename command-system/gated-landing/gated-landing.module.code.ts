@@ -1,4 +1,4 @@
-import { resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { landedMechanically } from "../asking/asking.module.code.ts"
 
 export type GatedRepo = "akasha"

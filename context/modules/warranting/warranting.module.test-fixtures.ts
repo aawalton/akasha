@@ -5,7 +5,7 @@ import { rootOf } from "@akasha/command-system/rooting"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { dataAt } from "@akasha/file-system/data-place"
 import { idFiled, listedFiled, pathFiled, relationFiled } from "@akasha/indexes/testing"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { mintedId } from "@akasha/testing-system/minting"
 import type { Warrant } from "./warranting.module.code.ts"
 

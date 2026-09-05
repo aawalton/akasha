@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { rulesOf } from "@akasha/email-watch/email-rule-reading"
 import { ruleFolderIn, ruleLocation } from "@akasha/email-watch/email-rule-set"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 
 const ROOT = akashaRoot()
 

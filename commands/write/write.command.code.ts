@@ -1,7 +1,7 @@
 import { existsSync, statSync } from "node:fs"
 import { isAbsolute, join, relative, resolve } from "node:path"
 import { changingOf, owedIn } from "@akasha/context/warranting"
-import { besideAll } from "@akasha/pages-system/page-beside"
+import { besideAll } from "@akasha/pages/page-beside"
 import {
   BREAK_GLASS,
   bytesAt,

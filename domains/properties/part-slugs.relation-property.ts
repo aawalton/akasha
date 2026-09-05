@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages-system/page-property"
-import type { RelationProperty } from "@akasha/pages-system/relation-property"
+import type { List } from "@akasha/pages/page-property"
+import type { RelationProperty } from "@akasha/pages/relation-property"
 import type { DomainSlug } from "./domain-slug.relation-property.ts"
 
 export type PartSlugs = List<DomainSlug>

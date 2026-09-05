@@ -16,10 +16,10 @@ import {
   listedById,
   slugsOfType,
 } from "@akasha/indexes"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
-import { listedAbove } from "@akasha/pages-system/page-type-descent"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+import { listedAbove } from "@akasha/pages/page-type-descent"
+import { valueAt } from "@akasha/pages/page-value"
 import { slugOf } from "@akasha/seat-system/subagent-presence"
 
 const READ_CALL = "akasha read --file-path"

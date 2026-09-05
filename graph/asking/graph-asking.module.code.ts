@@ -1,7 +1,7 @@
 import type { Named } from "@akasha/indexes"
 import type { Answering } from "@akasha/indexes/answering"
-import { addressIn } from "@akasha/pages-system/page-address"
-import { slugOf, textAt, type Value } from "@akasha/pages-system/page-value"
+import { addressIn } from "@akasha/pages/page-address"
+import { slugOf, textAt, type Value } from "@akasha/pages/page-value"
 import type { Known } from "../attributes/pages/known.graph-attribute.ts"
 
 const GRAPH_EDGE = "graph-edge"

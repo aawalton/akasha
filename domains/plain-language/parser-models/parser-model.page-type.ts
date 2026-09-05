@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { ModelManifest } from "./properties/model-manifest.file-property.ts"
 import type { ParserWeights } from "./properties/parser-weights.file-property.ts"
 import type { RelationWeights } from "./properties/relation-weights.file-property.ts"

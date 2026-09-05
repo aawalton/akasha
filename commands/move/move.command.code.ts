@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
 import { everyPath } from "@akasha/indexes"
-import { valuesOver } from "@akasha/pages-system/page-value"
+import { valuesOver } from "@akasha/pages/page-value"
 import type { Asked } from "../../command-system/asking/asking.module.code.ts"
 import { counted, landingAsked, textOf } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"

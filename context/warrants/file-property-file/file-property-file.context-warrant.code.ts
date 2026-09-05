@@ -1,12 +1,6 @@
 import { dirname, join } from "node:path"
 import { listedAt, schemaOf } from "@akasha/indexes"
-import {
-  besideAt,
-  type Parted,
-  pageNamed,
-  pageOf,
-  partedIn,
-} from "@akasha/pages-system/page-file-name"
+import { besideAt, type Parted, pageNamed, pageOf, partedIn } from "@akasha/pages/page-file-name"
 import {
   blobAt,
   type Knowing,

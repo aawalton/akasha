@@ -9,9 +9,9 @@ import {
   isAddressable,
   locate,
   resolveRoots,
-} from "@akasha/pages-system/checkout-roots"
-import type { Repo as Addressable, Repo } from "@akasha/pages-system/markdown-document"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+} from "@akasha/pages/checkout-roots"
+import type { Repo as Addressable, Repo } from "@akasha/pages/markdown-document"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 
 const STANDALONE = [
   "--dry-run",

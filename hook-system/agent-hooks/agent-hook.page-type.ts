@@ -1,5 +1,5 @@
 import type { Module } from "@akasha/code-system/module"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { OverTools } from "./properties/over-tools.text-property.ts"
 import type { RunsAt } from "./properties/runs-at.text-property.ts"
 

@@ -4,7 +4,7 @@ import { warrantsSeeded } from "@akasha/context/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedAt, namersOf } from "@akasha/indexes"
 import { importFiled, indexTakenFrom, pathFiled, rebuiltIn } from "@akasha/indexes/testing"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
@@ -15,8 +15,6 @@ import { scratchWorld } from "../../command-system/scratching/scratching.module.
 import { move } from "./move.command.code.ts"
 
 const TREE = "akasha"
-
-type Moved = { readonly root: string; readonly said: Answer }
 
 export const HELD = "akasha/one/held.module.ts"
 
@@ -253,6 +251,18 @@ export const FOLDER_AT = "akasha/far/one"
 
 export const FOLDER_PAIR = ["--from", FOLDER, "--to", FOLDER_AT]
 
+export const HELD_AT = "akasha/far/one/held.module.ts"
+
+export const HOLDER_AT = "akasha/far/one/held.module.code.ts"
+
+export const NESTED_HELD = "akasha/one/under/nested.module.code.ts"
+
+export const NESTED_AT = "akasha/far/one/under/nested.module.code.ts"
+
+export const LOOSE = "akasha/one/loose.module.ts"
+
+export const UNSAID_UNDER = "akasha/far/one/held.module.uncommitted.ts"
+
 export const LOCK = "tools/lock.json"
 
 export const BINARY = "tools/held.bin"
@@ -289,12 +299,9 @@ export function outsideWorld(): string {
   )
 }
 
-async function movedIn(root: string, argv: readonly string[]): Promise<Moved> {
-  return { root, said: await move(argv, givenIn(root)) }
-}
-
-export function outsideMoved(): Promise<Moved> {
-  return movedIn(outsideWorld(), FOLDER_PAIR)
+export async function outsideMoved(): Promise<{ readonly root: string; readonly said: Answer }> {
+  const root = outsideWorld()
+  return { root, said: await move(FOLDER_PAIR, givenIn(root)) }
 }
 
 export const REACHER = "tools/lib/reach.ts"
@@ -315,8 +322,9 @@ export function reachWorld(): string {
   return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [REACHER]: REACHES }))
 }
 
-export function reachMoved(): Promise<Moved> {
-  return movedIn(reachWorld(), FOLDER_PAIR)
+export async function reachMoved(): Promise<{ readonly root: string; readonly said: Answer }> {
+  const root = reachWorld()
+  return { root, said: await move(FOLDER_PAIR, givenIn(root)) }
 }
 
 export const SPELLER = "akasha/one/speller.module.code.ts"
@@ -331,9 +339,24 @@ export const RESPELT = `export const runs = "bun akasha/far/one/held.module.ts"
 export const under = "what akasha/far/one/deep holds"
 `
 
-export function carriedMoved(): Promise<Moved> {
+export async function carriedMoved(): Promise<{ readonly root: string; readonly said: Answer }> {
   const held = { [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [SPELLER]: SPELT }
-  return movedIn(rebuilt(repoWith(held)), FOLDER_PAIR)
+  const root = rebuilt(repoWith(held))
+  return { root, said: await move(FOLDER_PAIR, givenIn(root)) }
+}
+
+export function folderWorld(): string {
+  return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [NESTED_HELD]: OTHER, [TARGET]: OTHER }))
+}
+
+export function folderUnsaid(): string {
+  const root = folderWorld()
+  put(root, UNSAID, VALUES)
+  return root
+}
+
+export function bareDir(root: string, path: string): undefined {
+  mkdirSync(join(root, path), { recursive: true })
 }
 
 const CHECKS_AT = join(import.meta.dir, "../../checks/code-checks/pages")
@@ -475,34 +498,7 @@ export async function linkWatched(): Promise<readonly [string, string]> {
   return [dry, seenIn(root)]
 }
 
-export function renamed(): Promise<Moved> {
-  return movedIn(renaming(), SLUG_RENAME)
-}
-
-export function sidecarMoved(): Promise<Moved> {
-  return movedIn(rebuilt(sidecarWorld()), ["--from", HELD, "--to", DEEP])
-}
-
-export function deeperMoved(): Promise<Moved> {
-  return movedIn(codeWorld(), ["--from", HOLDER, "--to", DEEPER])
-}
-
-export function readingMoved(argv: readonly string[] = []): Promise<Moved> {
-  const root = codeWorld()
-  held(root, HOLDER, CODE)
-  return movedIn(root, ["--from", HOLDER, "--to", DEEPER, ...argv])
-}
-
-export function sameActMoved(): Promise<Moved> {
-  const root = codeWorld()
-  importing(root, TARGET, [HOLDER])
-  return movedIn(root, ["--from", TARGET, "--to", ARRIVES, "--from", HOLDER, "--to", DEEPER])
-}
-
-export function typeMoved(): Promise<Moved> {
-  return movedIn(renaming(), ["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"])
-}
-
-export function sidecarDryMoved(): Promise<Moved> {
-  return movedIn(sidecarWorld(), ["--from", HELD, "--to", DEEP, "--dry-run"])
+export async function renamed(): Promise<{ readonly root: string; readonly said: Answer }> {
+  const root = renaming()
+  return { root, said: await move(SLUG_RENAME, givenIn(root)) }
 }

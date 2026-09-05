@@ -1,6 +1,6 @@
 import { everyOfType } from "@akasha/indexes"
-import { partedIn } from "@akasha/pages-system/page-file-name"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { partedIn } from "@akasha/pages/page-file-name"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   blobAt,
   type Changing,

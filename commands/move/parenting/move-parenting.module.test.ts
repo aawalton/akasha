@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { listedFiled } from "@akasha/indexes/testing"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { valueAt } from "@akasha/pages/page-value"
 import { rebuilt, repoWith, scratch } from "../move.command.test-fixtures.ts"
 import { parentingOver, parentingSaid } from "./move-parenting.module.code.ts"
 

@@ -1,5 +1,5 @@
 import { listedAt } from "@akasha/indexes"
-import { partedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages/page-file-name"
 import {
   blobAt,
   type Knowing,

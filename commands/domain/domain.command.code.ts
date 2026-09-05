@@ -2,8 +2,8 @@ import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { readingIn, valuesOfType } from "@akasha/indexes"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { kindsUnder } from "@akasha/pages/page-type-descent"
+import { valueAt } from "@akasha/pages/page-value"
 
 export const DAG = "dag"
 

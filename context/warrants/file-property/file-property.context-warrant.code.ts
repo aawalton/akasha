@@ -1,9 +1,9 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { listedAt, schemaOf } from "@akasha/indexes"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { partedIn } from "@akasha/pages-system/page-file-name"
-import { slugFor } from "@akasha/pages-system/page-property-key"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { partedIn } from "@akasha/pages/page-file-name"
+import { slugFor } from "@akasha/pages/page-property-key"
 import {
   blobAt,
   type Knowing,

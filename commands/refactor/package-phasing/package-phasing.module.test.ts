@@ -9,7 +9,7 @@ import {
   phaseOf,
 } from "./package-phasing.module.code.ts"
 
-const WAS = "@akasha/pages-system"
+const WAS = "@akasha/pages"
 
 const NOW = "@akasha/pages"
 

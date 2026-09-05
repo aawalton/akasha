@@ -10,7 +10,7 @@ export const astraPagesCleanup = {
     {
       statement: "All pages-specific files are organized in the pages/ folder.",
       workingMemory:
-        "`page.page-type.ts` and `pages.workspace-package.ts` now sit together at the top of `pages/`, so `packageIn` pairs them. Three gaps in `move` were fixed on the way: a bare word respelt anywhere (`18a12c83`), a carried body never respelt (`9bb394be`), and a page losing a part while carried written back where it left, which duplicated its id (`649795d4`). What remains is the npm name: 3398 files spell `@akasha/pages-system`, which `akasha refactor rename package` carries.",
+        "`page.page-type.ts` and `pages.workspace-package.ts` now sit together at the top of `pages/`, so `packageIn` pairs them. Three gaps in `move` were fixed on the way: a bare word respelt anywhere (`18a12c83`), a carried body never respelt (`9bb394be`), and a page losing a part while carried written back where it left, which duplicated its id (`649795d4`). What remains is the npm name: 3398 files spell `@akasha/pages`, which `akasha refactor rename package` carries.",
     },
     {
       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",

@@ -1,4 +1,4 @@
-import { uncommittedHeld } from "@akasha/pages-system/page-file-name"
+import { uncommittedHeld } from "@akasha/pages/page-file-name"
 import type { Asked } from "../../../command-system/asking/asking.module.code.ts"
 import { landingAsked, textOf } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
