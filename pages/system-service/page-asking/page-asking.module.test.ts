@@ -105,8 +105,40 @@ test("the values a page keeps beside it are answered in place of the extension",
   expect(Array.isArray(cases) && cases[0]?.page).toBe("code-lint")
 })
 
-test("a page type no page is filed under is answered empty", () => {
-  expect(rowsOf(asking(root, { pageTypeSlug: "service" }))).toEqual([])
+test("a page type nothing extends and no page is filed under is answered empty", () => {
+  expect(rowsOf(asking(root, { pageTypeSlug: "tracking-field" }))).toEqual([])
+})
+
+test("a page type extending the one named is answered too", () => {
+  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["pageTypeSlug"] }))
+  const said = new Set(rows.map((one) => one.pageTypeSlug))
+  expect(rows.length).toBeGreaterThan(1000)
+  expect(said.has("book")).toBe(true)
+  expect(said.has("song")).toBe(true)
+})
+
+test("a row carries the page type its own page states rather than the one named", () => {
+  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["pageTypeSlug"] }))
+  expect(rows.some((one) => one.pageTypeSlug === "collection")).toBe(false)
+})
+
+test("a page type nothing extends answers its own pages alone", () => {
+  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["pageTypeSlug"] }))
+  expect(rows.length).toBe(6)
+  for (const one of rows) expect(one.pageTypeSlug).toBe("invariant-kind")
+})
+
+test("a formula the page type named declares is worked out over a page of a type under it", () => {
+  const rows = rowsOf(
+    asking(root, {
+      pageTypeSlug: "collection",
+      where: { slug: { is: "a-thousand-li-the-first-step" } },
+      keys: ["pageTypeSlug", "ownLength", "ownProgress", "ownRemaining"],
+    })
+  )
+  expect(rows[0]?.pageTypeSlug).toBe("book")
+  expect(rows[0]?.ownLength).toBe(76750)
+  expect(rows[0]?.ownRemaining).toBe(0)
 })
 
 test("a name that is no page type is refused rather than answered empty", () => {

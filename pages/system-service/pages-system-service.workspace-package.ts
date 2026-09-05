@@ -7,6 +7,7 @@ export const pagesSystemService = {
   definition: "the pages reached over HTTP",
   manifest: "json",
   partSlugs: [
+    "module/kinds-gathering",
     "module/page-asking",
     "module/page-calling",
     "module/page-composing",

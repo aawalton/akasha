@@ -14,11 +14,23 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "The pages of that type are read from the index.",
+      statement: "The pages of that page type and of every page type extending it are answered.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type no page is filed under is answered empty.",
+      statement: "A page type extending it is reached however far below it that page type is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row carries the page type its own page states rather than the one named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those pages are read from the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type nothing extends that no page is filed under is answered empty.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +92,11 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A formula the page type declares is worked out over every page answered.",
+      statement: "A formula is worked out over every page answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A formula over one page is the one that page's own page type declares.",
     },
     {
       invariantKind: "departure",
@@ -100,7 +116,11 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A calculation the page type declares is worked out over every page answered.",
+      statement: "A calculation is worked out over every page answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation over one page is the one that page's own page type declares.",
     },
     {
       invariantKind: "departure",

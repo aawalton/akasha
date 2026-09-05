@@ -71,7 +71,7 @@ export const pageQuery = {
     },
     {
       invariantKind: "departure",
-      statement: "A query asks of one page type rather than of several at once.",
+      statement: "A query names one page type rather than several at once.",
     },
     {
       invariantKind: "departure",

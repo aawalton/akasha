@@ -1,31 +1,14 @@
-import { readFileSync } from "node:fs"
-import { isAbsolute, join } from "node:path"
-import { listedAt, type Valued, valuesOfType } from "@akasha/indexes"
-import { workIn } from "@akasha/pages-system/calculation-loading"
-import {
-  type Computed,
-  computingOver,
-  type Subject,
-  type Unready,
-} from "@akasha/pages-system/page-computing"
-import { entriedValue } from "@akasha/pages-system/page-entries"
-import {
-  type Barred,
-  COMPUTED,
-  type Declared as Declaring,
-  FORMULA,
-  type Working,
-  workedInto,
-  workingOver,
-} from "@akasha/pages-system/page-formulas"
-import {
-  type Carried,
-  propertiesFrom,
-  sourceAmong,
-  sourceIn,
-} from "@akasha/pages-system/page-type-properties"
-import { wholeValue } from "@akasha/pages-system/page-uncommitted"
+import { listedAt, type Valued } from "@akasha/indexes"
+import { type Barred, type Working, workedInto } from "@akasha/pages-system/page-formulas"
+import type { Carried } from "@akasha/pages-system/page-type-properties"
 import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
+import {
+  carriedFor,
+  computedInto,
+  gatheredFor,
+  type Named,
+  pagesOfType,
+} from "../kinds-gathering/kinds-gathering.module.code.ts"
 import { matches, weigh } from "../where-testing/where-testing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -98,14 +81,6 @@ function unrun(where: Readonly<Record<string, Test>> | undefined): string | null
   return null
 }
 
-export function carriedFor(root: string, pageTypeSlug: string): readonly Carried[] {
-  const source = sourceAmong(
-    valuesOfType(root, PAGE_TYPE).map((one) => one.value),
-    sourceIn(root, () => null)
-  )
-  return propertiesFrom(pageTypeSlug, source)
-}
-
 export function keysOf(root: string, pageTypeSlug: string): ReadonlySet<string> {
   return new Set(carriedFor(root, pageTypeSlug).map((one) => one.key))
 }
@@ -131,20 +106,6 @@ export type Shape = {
 
 export type Shaped = { readonly shape: Shape | null } | { readonly refused: string }
 
-type Held = Map<string, ReadonlyMap<string, Value>>
-
-function pagesOfType(root: string, held: Held, pageTypeSlug: string): ReadonlyMap<string, Value> {
-  const found = held.get(pageTypeSlug)
-  if (found !== undefined) return found
-  const made = new Map<string, Value>()
-  for (const one of valuesOfType(root, pageTypeSlug)) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null && !made.has(slug)) made.set(slug, one.value)
-  }
-  held.set(pageTypeSlug, made)
-  return made
-}
-
 export function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
   const said = one.pagePropertySlug
   return {
@@ -165,14 +126,14 @@ function lastSegment(said: string): string {
   return at === -1 ? said : said.slice(at + 1)
 }
 
-export function ownerFor(root: string, held: Held, pageTypeSlug: string): string | null {
+export function ownerFor(root: string, named: Named, pageTypeSlug: string): string | null {
   const walked = new Set<string>()
   const waiting: string[] = [pageTypeSlug]
   for (let at = 0; at < waiting.length; at += 1) {
     const own = waiting[at]
     if (own === undefined || own === "" || walked.has(own)) continue
     walked.add(own)
-    const page = pagesOfType(root, held, PAGE_TYPE).get(own)
+    const page = pagesOfType(root, named, PAGE_TYPE).get(own)
     if (page === undefined) continue
     const owner = textAt(page, "ownerSlug")
     if (owner !== null && owner !== "") return lastSegment(owner)
@@ -184,12 +145,12 @@ export function ownerFor(root: string, held: Held, pageTypeSlug: string): string
 export function shaping(root: string, pageTypeSlug: string): Shaped {
   if (listedAt(root, PAGE_TYPE, pageTypeSlug).length === 0) return { shape: null }
   try {
-    const held: Held = new Map()
-    const own = pagesOfType(root, held, PAGE_TYPE).get(pageTypeSlug)
+    const named: Named = new Map()
+    const own = pagesOfType(root, named, PAGE_TYPE).get(pageTypeSlug)
     const declarations = carriedFor(root, pageTypeSlug).map((one) =>
       declaredOf(
         one,
-        pagesOfType(root, held, one.pageTypeSlug).get(one.pagePropertySlug),
+        pagesOfType(root, named, one.pageTypeSlug).get(one.pagePropertySlug),
         pageTypeSlug
       )
     )
@@ -197,7 +158,7 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
       shape: {
         pageType: pageTypeSlug,
         pageTypeId: own === undefined ? "" : (textAt(own, "id") ?? ""),
-        ownerSlug: ownerFor(root, held, pageTypeSlug),
+        ownerSlug: ownerFor(root, named, pageTypeSlug),
         declarations,
       },
     }
@@ -227,127 +188,6 @@ function unkeyed(query: Query, carried: readonly Carried[]): string | null {
   return null
 }
 
-function valuedFor(
-  root: string,
-  pageTypeSlug: string,
-  carried: readonly Carried[]
-): readonly Valued[] {
-  return valuesOfType(root, pageTypeSlug).map((one) => {
-    const beside = wholeValue(root, one.path, one.value)
-    const whole = entriedValue(root, one.path, beside, carried)
-    return whole === one.value ? one : { path: one.path, value: whole }
-  })
-}
-
-export function declaredFor(
-  root: string,
-  held: Held,
-  carried: readonly Carried[]
-): readonly Declaring[] {
-  return carried.map((one) => {
-    const page =
-      one.pageTypeSlug === FORMULA || one.pageTypeSlug === COMPUTED
-        ? pagesOfType(root, held, one.pageTypeSlug).get(one.pagePropertySlug)
-        : undefined
-    return {
-      slug: one.propertySlug,
-      key: one.key,
-      sort: one.pageTypeSlug,
-      many: one.many,
-      formula: page === undefined ? null : textAt(page, "formula"),
-      holds: page === undefined ? null : textAt(page, "holds"),
-    }
-  })
-}
-
-const CODE = ".code.ts"
-
-function codeAt(root: string, path: string): string | null {
-  const beside = path.replace(/\.ts$/, CODE)
-  const at = isAbsolute(beside) ? beside : join(root, beside)
-  try {
-    return readFileSync(at, "utf8")
-  } catch {
-    return null
-  }
-}
-
-export function computedFor(root: string, carried: readonly Carried[]): readonly Computed[] {
-  const wanted = carried.filter((one) => one.pageTypeSlug === COMPUTED)
-  if (wanted.length === 0) return []
-  const bySlug = new Map<string, Valued>()
-  for (const one of valuesOfType(root, COMPUTED)) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null && !bySlug.has(slug)) bySlug.set(slug, one)
-  }
-  const found: Computed[] = []
-  for (const one of wanted) {
-    const page = bySlug.get(one.pagePropertySlug)
-    const body = page === undefined ? null : codeAt(root, page.path)
-    const loaded =
-      body === null
-        ? { failed: `\`${one.pagePropertySlug}\` names no code file beside its page` }
-        : workIn(body)
-    const held =
-      "failed" in loaded
-        ? () => {
-            throw new Error(loaded.failed)
-          }
-        : loaded.work
-    found.push({
-      slug: one.propertySlug,
-      key: one.key,
-      holds: page === undefined ? "" : (textAt(page.value, "holds") ?? ""),
-      work: held,
-    })
-  }
-  return found
-}
-
-export type Counted = {
-  readonly rows: readonly Valued[]
-  readonly dark: ReadonlyMap<string, string>
-}
-
-export function unreadyIn(carried: readonly Carried[]): readonly Unready[] {
-  return carried
-    .filter((one) => one.pageTypeSlug === FORMULA)
-    .map((one) => ({
-      key: one.key,
-      why: `\`${one.propertySlug}\` is a formula, and every calculation is worked out before any formula, so a calculation reads no formula. carry \`${one.propertySlug}\` to a calculation before the calculation reading it`,
-    }))
-}
-
-export function computedInto(
-  computed: readonly Computed[],
-  read: readonly Valued[],
-  unready: readonly Unready[] = []
-): Counted {
-  if (computed.length === 0) return { rows: read, dark: new Map() }
-  const subjects = new Map<string, Subject>()
-  for (const one of read) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null && !subjects.has(slug)) {
-      subjects.set(slug, {
-        id: textAt(one.value, "id") ?? one.path,
-        value: one.value,
-        computed,
-        unready,
-      })
-    }
-  }
-  const computing = computingOver({ subjectAt: (slug) => subjects.get(slug) ?? null })
-  const dark = new Map<string, string>()
-  const rows = read.map((one) => {
-    const slug = textAt(one.value, "slug")
-    const worked = slug === null ? null : computing.workedAt(slug)
-    if (worked === null) return one
-    for (const [key, why] of worked.dark) if (!dark.has(key)) dark.set(key, why)
-    return { path: one.path, value: worked.value as Value }
-  })
-  return { rows, dark }
-}
-
 function unlit(query: Query, dark: ReadonlyMap<string, string>): string | null {
   if (dark.size === 0) return null
   for (const [key, at] of askedFor(query)) {
@@ -358,22 +198,13 @@ function unlit(query: Query, dark: ReadonlyMap<string, string>): string | null {
   return null
 }
 
-export function workingFor(
-  root: string,
-  pageTypeSlug: string,
-  carried: readonly Carried[]
-): Working | Barred | null {
-  return workingOver(
-    pageTypeSlug,
-    declaredFor(root, new Map<string, ReadonlyMap<string, Value>>(), carried)
-  )
-}
-
-function unworked(query: Query, barred: Barred): string | null {
-  const keys = new Set(barred.keys)
-  for (const [key, at] of askedFor(query)) {
-    if (!keys.has(key)) continue
-    return `\`${at}\` names \`${key}\`, and no formula is worked out for that key here: ${barred.barred}. the keys darkened by the same fault are ${[...barred.keys].sort().join(", ")}`
+function unworked(query: Query, barred: readonly Barred[]): string | null {
+  for (const one of barred) {
+    const keys = new Set(one.keys)
+    for (const [key, at] of askedFor(query)) {
+      if (!keys.has(key)) continue
+      return `\`${at}\` names \`${key}\`, and no formula is worked out for that key here: ${one.barred}. the keys darkened by the same fault are ${[...one.keys].sort().join(", ")}`
+    }
   }
   return null
 }
@@ -389,6 +220,21 @@ function rowOf(value: Value, keys: readonly string[] | undefined): Row {
   const held: Record<string, unknown> = {}
   for (const key of keys) if (key in value) held[key] = value[key]
   return held
+}
+
+function byPath(one: Valued, two: Valued): number {
+  return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
+}
+
+function workedFor(
+  rows: readonly Valued[],
+  working: readonly (Working | null)[],
+  now: number
+): readonly Valued[] {
+  return rows.map((one, at) => {
+    const held = working[at] ?? null
+    return held === null ? one : { path: one.path, value: workedInto(held, one.value, now) }
+  })
 }
 
 export function asking(root: string, query: Query, at: number = Date.now()): Asked {
@@ -409,30 +255,26 @@ export function asking(root: string, query: Query, at: number = Date.now()): Ask
   const carried = carriedFor(root, query.pageTypeSlug)
   const unnamed = unkeyed(query, carried)
   if (unnamed !== null) return { refused: unnamed }
-  const working = workingFor(root, query.pageTypeSlug, carried)
-  if (working !== null && "barred" in working) {
-    const named = unworked(query, working)
-    if (named !== null) return { refused: named }
-  }
   let held: readonly Valued[]
   try {
-    const read = valuedFor(root, query.pageTypeSlug, carried)
-    const counted = computedInto(computedFor(root, carried), read, unreadyIn(carried))
+    const gathered = gatheredFor(root, query.pageTypeSlug, carried)
+    const named = unworked(query, gathered.barred)
+    if (named !== null) return { refused: named }
+    const counted = computedInto(gathered.counting)
     const darkened = unlit(query, counted.dark)
     if (darkened !== null) return { refused: darkened }
-    const worked =
-      working === null || "barred" in working
-        ? counted.rows
-        : counted.rows.map((one) => ({ path: one.path, value: workedInto(working, one.value, at) }))
+    const worked = workedFor(
+      counted.rows,
+      gathered.counting.map((one) => one.working),
+      at
+    )
     held = worked.filter((one) => narrows(one.value, query.where))
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
   }
   const sortBy = query.sortBy
-  const sorted =
-    sortBy === undefined
-      ? [...held]
-      : [...held].sort((one, two) => weigh(one.value[sortBy], two.value[sortBy]))
+  const sorted = [...held].sort(byPath)
+  if (sortBy !== undefined) sorted.sort((one, two) => weigh(one.value[sortBy], two.value[sortBy]))
   if (query.descending === true) sorted.reverse()
   const from = offset ?? 0
   const taken = limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)

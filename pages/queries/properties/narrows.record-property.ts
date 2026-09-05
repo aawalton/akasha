@@ -30,7 +30,8 @@ export const narrows = {
     },
     {
       invariantKind: "departure",
-      statement: "A query stating no narrow asks of every page of its type.",
+      statement:
+        "A query stating no narrow asks of every page of its type and of every type extending it.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const keys = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A query naming no keys answers with every key its page type declares.",
+      statement: "A query naming no keys answers each page with every key that page carries.",
     },
     {
       invariantKind: "departure",

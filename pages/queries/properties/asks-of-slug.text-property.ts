@@ -13,7 +13,7 @@ export const asksOfSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A query asks of one page type.",
+      statement: "A query names one page type and asks of every page type extending it.",
     },
     {
       invariantKind: "departure",
