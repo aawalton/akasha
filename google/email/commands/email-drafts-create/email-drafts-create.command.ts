@@ -43,10 +43,6 @@ export const emailDraftsCreate = {
       invariantKind: "departure",
       statement: "A subject read from a file carries no line ending.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A body read from a file is carried whole.",
-    },
 
     {
       invariantKind: "departure",
