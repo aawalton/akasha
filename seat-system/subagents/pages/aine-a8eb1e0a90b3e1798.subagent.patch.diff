@@ -1,5 +1,5 @@
 diff --git a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
-index 218744a43920c2ce3fa3c11aa3ce74ce983b30a8..118550255d012b0dffbb1dd669f8fbe32f871d03 100644
+index 218744a43920c2ce3fa3c11aa3ce74ce983b30a8..cdb23094060c508dbe5cb1c76aabcde13875c1ab 100644
 --- a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
 +++ b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
 @@ -5,7 +5,7 @@ export const seatRefreshSettings = {
@@ -20,11 +20,20 @@ index 218744a43920c2ce3fa3c11aa3ce74ce983b30a8..118550255d012b0dffbb1dd669f8fbe3
      "a hook's registration is read once, when the client starts, so a registration change needs the client cycled and nothing here cycles one.",
      "finding no running process that names a spawned settings file is the scan failing rather than the fleet being empty.",
    ],
+@@ -36,7 +36,7 @@ export const seatRefreshSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The digest in a file's name is left as it stands.",
++      statement: "The digest in a file's name is left as it is.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
-index 5947f0b6832c624149925529d3b90ba58d0df37d..0fd0035be8bd2c9a4323343930346c35bbeece20 100644
+index 5947f0b6832c624149925529d3b90ba58d0df37d..72594dadd5ea6ec7a64e7d37094f3c80ac970b17 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
-@@ -99,14 +99,14 @@ async function main(argv: readonly string[]): Promise<number> {
+@@ -99,20 +99,20 @@ async function main(argv: readonly string[]): Promise<number> {
    const root = rootFor(resolveRoots(), AKASHA)
    const cutoff = cutoffFrom(Date.now(), keepDays)
  
@@ -42,8 +51,15 @@ index 5947f0b6832c624149925529d3b90ba58d0df37d..0fd0035be8bd2c9a4323343930346c35
          `(${keepDays} day window) — nothing removed without --remove\n`
      )
      return 0
+   }
+   if (rotate.length === 0) {
+-    process.stderr.write(`read ${standing.length} log day(s), none older than ${cutoff}\n`)
++    process.stderr.write(`read ${days.length} log day(s), none older than ${cutoff}\n`)
+     return 0
+   }
+ 
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
-index 60a8bb4422362620ac5ef04fa078d61f60c08663..afee05b51a43bc4c250283e33b06be069d1b20e5 100644
+index 60a8bb4422362620ac5ef04fa078d61f60c08663..4715f1fb1bf818189ecfbac38040986042ef1b1e 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 @@ -18,7 +18,7 @@ export const logDaySweeping = {
@@ -64,8 +80,17 @@ index 60a8bb4422362620ac5ef04fa078d61f60c08663..afee05b51a43bc4c250283e33b06be06
      },
      {
        invariantKind: "departure",
+@@ -40,7 +40,7 @@ export const logDaySweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every day still standing after a refusal is named.",
++      statement: "Every day still there after a refusal is named.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts b/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts
-index 315a6201f6cfb2645e8c2f1bb8e2f0f55eba0479..6b1aa7486eeb258dca65b7ec9d6f951dcb6641a0 100644
+index 315a6201f6cfb2645e8c2f1bb8e2f0f55eba0479..27ca232a7383096d6f3ebc0f6bb5f567d5fa2f5d 100644
 --- a/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts
 +++ b/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts
 @@ -83,7 +83,7 @@ export function dayBodyOf(slug: string, source: string, seatName: string, date:
@@ -86,3 +111,12 @@ index 315a6201f6cfb2645e8c2f1bb8e2f0f55eba0479..6b1aa7486eeb258dca65b7ec9d6f951d
        root,
        sourcePathOf(source),
        sourceBodyOf(source),
+@@ -138,7 +138,7 @@ function appenderFor(
+   const slug = dayNameOf(source, seatName, date)
+   const pagePath = dayPathOf(slug)
+   if (
+-    !stood(
++    !putUp(
+       root,
+       pagePath,
+       dayBodyOf(slug, source, seatName, date),
