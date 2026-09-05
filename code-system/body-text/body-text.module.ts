@@ -14,7 +14,7 @@ export const bodyText = {
     },
     {
       invariantKind: "departure",
-      statement: "A path with nothing at it says nothing rather than empty text.",
+      statement: "A path with nothing at that path says nothing rather than empty text.",
     },
     {
       invariantKind: "constraint",
