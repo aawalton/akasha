@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/refactor/landing/refactor-landing.module.ts b/commands/refactor/landing/refactor-landing.module.ts
-index 412fe6a3459568207762e949609ff57009efaf3a..addf5dcf288e1c77c9cf47434d7017bd5979c95d 100644
+index 412fe6a3459568207762e949609ff57009efaf3a..5cfd5dc7061ab07077c98a11d6ab9ceae09ae5e0 100644
 --- a/commands/refactor/landing/refactor-landing.module.ts
 +++ b/commands/refactor/landing/refactor-landing.module.ts
 @@ -29,11 +29,12 @@ export const refactorLanding = {
@@ -18,3 +18,12 @@ index 412fe6a3459568207762e949609ff57009efaf3a..addf5dcf288e1c77c9cf47434d7017bd
      },
      {
        invariantKind: "departure",
+@@ -55,7 +56,7 @@ export const refactorLanding = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here works out what a rename would change.",
++      statement: "Nothing here works out the bodies a rename would change.",
+     },
+   ],
+ } as const satisfies Module
