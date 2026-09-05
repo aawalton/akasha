@@ -26,3 +26,19 @@ index 67f6b9736b5b8c1580ddf2393ec8a92546b76afd..9e445fe25cb5733c177e45452f3553fb
 -    },
    ],
  } as const satisfies FolderShape
+diff --git a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
+index 7dbfcbfb41a406e6c8eb31e351a1f004d577c2b2..015990e98d745537be83f4085a2bb06d930371be 100644
+--- a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
++++ b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
+@@ -32,10 +32,7 @@ export const pageIconSearchIndexGenerate = {
+       invariantKind: "departure",
+       statement: "A shard holds at least one icon however long that icon's line is.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "One icon whose line alone runs past the budget is refused rather than divided.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A body rendered at or past the size a write refuses stages nothing at all.",
