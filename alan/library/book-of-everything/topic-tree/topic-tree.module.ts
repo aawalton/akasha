@@ -14,11 +14,12 @@ export const topicTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic naming no topic above it is the root.",
+      statement: "A topic naming no topic above that topic is the root.",
     },
     {
       invariantKind: "departure",
-      statement: "Topics without one root between them are refused rather than read as empty.",
+      statement:
+        "Topics without one root between those topics are refused rather than read as empty.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +35,8 @@ export const topicTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic naming several topics above it hangs under the first it names.",
+      statement:
+        "A topic naming several topics above that topic hangs under the first that topic names.",
     },
   ],
 } as const satisfies Module
