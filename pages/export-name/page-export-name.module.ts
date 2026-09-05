@@ -37,7 +37,7 @@ export const pageExportName = {
     },
     {
       invariantKind: "departure",
-      statement: "What is at fault is said as the name the slug makes rather than as the slug.",
+      statement: "The fault is said as the name the slug makes rather than as the slug.",
     },
     {
       invariantKind: "absence",
