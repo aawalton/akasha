@@ -14,7 +14,8 @@ export const zoneUpstreamPort = {
     },
     {
       invariantKind: "departure",
-      statement: "The machine is given the ESO stubs the upstream file calls before it is run.",
+      statement:
+        "The machine is given the ESO stubs the upstream file calls before that file is run.",
     },
     {
       invariantKind: "departure",
