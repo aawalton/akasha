@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
+index 6c4cc5928470ffb5ddd11a7f67b36315056b3e98..b0e0c42159ff905b84dc819bf57060414f36367e 100644
+--- a/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
++++ b/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
+@@ -21,7 +21,7 @@ export const personaPageType = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a page answers to its type for is one rule wherever the rule is asked.",
++      statement: "The readings a page owes its type are one rule wherever the rule is asked.",
+     },
+     {
+       invariantKind: "departure",
