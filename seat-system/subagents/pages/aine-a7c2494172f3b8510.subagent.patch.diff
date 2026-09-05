@@ -1,18 +1,21 @@
 diff --git a/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts b/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts
-index 988c584134a6000859b2f4d6e9876b56cd2b3a9a..e992c4d593ed3f9e4b36d31294c7f0e83c786662 100644
+index 988c584134a6000859b2f4d6e9876b56cd2b3a9a..4f803c87e2c6703ba9f589450522bf81d0acb8fa 100644
 --- a/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts
 +++ b/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts
-@@ -19,7 +19,7 @@ export function isAttachmentExtension(one: string): boolean {
+@@ -19,9 +19,9 @@ export function isAttachmentExtension(one: string): boolean {
  }
  
  /**
 - * The file an attachment stands in, beside the page that names it.
 + * The file an attachment is in, beside the page that names it.
   *
-  * A page is a markdown file under `pages/` or a TypeScript file under `akasha/`, and what stands
+- * A page is a markdown file under `pages/` or a TypeScript file under `akasha/`, and what stands
++ * A page is a markdown file under `pages/` or a TypeScript file under `akasha/`, and what sits
   * beside either one is named by dropping the page's own extension. `besideAt` is where akasha states
+  * that rule, so a `.ts` page is asked of it rather than answered by a second copy of the rule here.
+  */
 diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.test.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.test.ts
-index b24a02fda20ca64d2f6139d11593e70df126b24d..ccb9dd94fba02aa925065d5c709aa02cbe9ef3d4 100644
+index b24a02fda20ca64d2f6139d11593e70df126b24d..972c6427a8d3bc6dc458877bf916f04f89884166 100644
 --- a/markdown-pages/markdown-page-types/markdown-page-types.module.test.ts
 +++ b/markdown-pages/markdown-page-types/markdown-page-types.module.test.ts
 @@ -25,7 +25,7 @@ test("an akasha page's name carries its page type", () => {
@@ -24,6 +27,15 @@ index b24a02fda20ca64d2f6139d11593e70df126b24d..ccb9dd94fba02aa925065d5c709aa02c
    expect(typeSlotOf("akasha/pages-system/pages/beside/page-beside.module.code.ts")).toBeNull()
    expect(typeSlotOf("akasha/pages-system/pages/beside/page-beside.module.test.ts")).toBeNull()
    expect(
+@@ -41,7 +41,7 @@ test("a file naming no page type at all carries none", () => {
+   expect(typeSlotOf("README.md")).toBeNull()
+ })
+ 
+-test("a `.ts` name is claimed only where its page type stands here", () => {
++test("a `.ts` name is claimed only where its page type is here", () => {
+   const types = [typeNamed("daily-tracking")]
+   const claimed = claimant(
+     "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts",
 diff --git a/markdown-pages/markdown-rows-file/markdown-rows-file.module.code.ts b/markdown-pages/markdown-rows-file/markdown-rows-file.module.code.ts
 index 0d125e41119e40b390f25842c90f699dcff0cc3e..0897315bba7e93d9bec1b2f45404dc2041865a7c 100644
 --- a/markdown-pages/markdown-rows-file/markdown-rows-file.module.code.ts
