@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
+index f20160590aa193e6ee4d738479a3829e98a8425c..165109f32bf0f41f35a5159bc1d3501f400814f0 100644
+--- a/pages/views/view.page-type.ts
++++ b/pages/views/view.page-type.ts
+@@ -107,7 +107,7 @@ export const view = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A view names the page type it draws by slug, and its properties by the key each declaration states.",
++        "A view names the page type the view draws by slug, and its properties by each declaration's key.",
+     },
+     {
+       invariantKind: "departure",
