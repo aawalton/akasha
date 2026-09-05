@@ -40,7 +40,11 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "The readout, its scale and the day's reading are read on the tick rather than compiled in, so a threshold Alan moves is honoured on the next tick rather than on a deploy.",
+        "The readout, its scale and the day's reading are read on the tick rather than compiled in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A threshold Alan moves is honoured on the next tick rather than on a deploy.",
     },
     {
       invariantKind: "departure",
