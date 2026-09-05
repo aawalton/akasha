@@ -1,0 +1,13 @@
+diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+index bfc0b1231407ef966c64ca5c6571bddc212e81d6..04892f16409971bb141b74c44752e7e5b4bc9b64 100644
+--- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
++++ b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+@@ -101,7 +101,7 @@ export const webAppBuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whether a build already exists is asked of the pod holding the build.",
++      statement: "Whether a build already " exists is asked of the pod holding the build.",
+     },
+     {
+       invariantKind: "departure",
