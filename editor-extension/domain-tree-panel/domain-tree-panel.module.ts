@@ -65,7 +65,7 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a row looks like.",
+      statement: "Nothing here decides the look of a row.",
     },
   ],
 } as const satisfies Module
