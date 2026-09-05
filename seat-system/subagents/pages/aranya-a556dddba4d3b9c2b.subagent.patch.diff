@@ -67,6 +67,20 @@ index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd
    const under = join(IMPORT, AT_PATH)
    return answered(reading, under, asked, (held) => importersIn(held, path))
  }
+diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
+index 997019cbffe56476c881e884c44d90fe09d7a6b7..9c6a1808549740cb52e5d8bea0dc15a0576abc7c 100644
+--- a/pages/indexes/reading/index-reading.module.test.ts
++++ b/pages/indexes/reading/index-reading.module.test.ts
+@@ -1,9 +1,5 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { mkdirSync, writeFileSync } from "node:fs"
+-import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { said as gitIn } from "@akasha/git/git-running"
+-import { stampKept } from "../stamp/index-stamp.module.code.ts"
+ import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
+ import {
+   everyPath,
 diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
 index 76d21dab0f56cfc20bd9573be8913ce13af71825..ea966ba98ee2011b50b18b7f587dcbc43f09e0ff 100644
 --- a/pages/shadow/shadow.module.code.ts
