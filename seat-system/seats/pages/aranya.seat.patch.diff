@@ -391,6 +391,14 @@ index 9d1c9d92adda30b76db01d7534cbb51509649b14..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/ui/components
 \ No newline at end of file
+diff --git a/person-system/person-system b/person-system/person-system
+deleted file mode 120000
+index b39f0dbf5389548fe342e5b97ab446ba6e27bb7b..0000000000000000000000000000000000000000
+--- a/person-system/person-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../person-system
+\ No newline at end of file
 diff --git a/persona-system/persona-system b/persona-system/persona-system
 deleted file mode 120000
 index b836dc3d226b51ad5ff0d2d93ff1a47abc8480bd..0000000000000000000000000000000000000000
