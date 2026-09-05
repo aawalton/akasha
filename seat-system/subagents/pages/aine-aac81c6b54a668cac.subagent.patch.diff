@@ -1,0 +1,130 @@
+diff --git a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+index d6993b861e66974d92f6e94704b9fbc08e067b90..42e643cce58d582419c307627d334c8d84c60791 100644
+--- a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
++++ b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+@@ -40,7 +40,7 @@ export const monarchCategory = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A category standing without a group is one Alan wrote and Monarch never held.",
++      statement: "A category with no group is one Alan wrote and Monarch never held.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/alan/harness/monarch/monarch-categories/pages/house.monarch-category.ts b/alan/harness/monarch/monarch-categories/pages/house.monarch-category.ts
+index 3cb7f084a583dfc62880bb87c7b857491324e852..0a4b5c6f4355706989e84eea756756763866190f 100644
+--- a/alan/harness/monarch/monarch-categories/pages/house.monarch-category.ts
++++ b/alan/harness/monarch/monarch-categories/pages/house.monarch-category.ts
+@@ -5,7 +5,7 @@ export const house = {
+   pageTypeSlug: "monarch-category",
+   slug: "house",
+   title: "House",
+-  definition: "money spent on the house and what stands in it",
++  definition: "money spent on the house and what is in it",
+   monarchId: "148838860002827209",
+   categoryGroup: "General Spending",
+   categoryGroupType: "expense",
+diff --git a/alan/harness/monarch/monarch-categories/pages/jennys-holding.monarch-category.ts b/alan/harness/monarch/monarch-categories/pages/jennys-holding.monarch-category.ts
+index 73e4710afe8c473747da5e36e0b96c4af44a2d8b..ad6951bddaf128c5b2dbbd93ce788f166a793ced 100644
+--- a/alan/harness/monarch/monarch-categories/pages/jennys-holding.monarch-category.ts
++++ b/alan/harness/monarch/monarch-categories/pages/jennys-holding.monarch-category.ts
+@@ -5,7 +5,7 @@ export const jennysHolding = {
+   pageTypeSlug: "monarch-category",
+   slug: "jennys-holding",
+   title: "Jenny's Holding",
+-  definition: "money standing in Jenny's name rather than spent from it",
++  definition: "money held in Jenny's name rather than spent from it",
+   monarchId: "148839181702797336",
+   categoryGroup: "Personal Spending",
+   categoryGroupType: "expense",
+diff --git a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+index 5d6cb4f17812fd5c72c88c3aa277e7482e65d268..aeedeebe54951511896c08e1743eda042042e639 100644
+--- a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
++++ b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+@@ -46,7 +46,7 @@ export const monarchHolding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A holding is three figures the daily sync rewrites, so it stands in memory.",
++      statement: "A holding is three figures the daily sync rewrites, so it sits in memory.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts b/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
+index cc0f897c43fd7b456e3dcfdc59c8e30b2d2cf5a9..c625118b366cbe3673b4ed098f0ed3d68e93f672 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
+@@ -8,7 +8,7 @@ export const accountSlug = {
+   pageTypeSlug: "relation-property",
+   slug: "account-slug",
+   propertySlug: "account-slug",
+-  definition: "the account a holding or a transaction stands under",
++  definition: "the account a holding or a transaction sits under",
+   targetPageTypeSlug: "page-type/monarch-account",
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+index 7889bbfdc11acc8ada30f95e885731c7dc6088ee..74e85c5832c8739a08d0ca106ce1a22881530c1f 100644
+--- a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
++++ b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+@@ -27,7 +27,7 @@ export const monarchMerchant = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A merchant a rule names is a merchant standing here.",
++      statement: "A merchant a rule names is a merchant here.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts b/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts
+index 7dbfc4e23822c0b6493491a60ba1948b825fdfc6..1ce70090f324790d4be6c7f9e223ea80426d9ef1 100644
+--- a/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts
+@@ -11,7 +11,7 @@ export const transactionDay = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A transaction stands beside the month its day falls in.",
++      statement: "A transaction sits beside the month its day falls in.",
+     },
+   ],
+ } as const satisfies CalendarDateProperty
+diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+index 854b8820562aaefc2566747019842e13f8d3839e..c0cec55fc0b0181431049bb6a0eb150f5280fd78 100644
+--- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
++++ b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+@@ -32,7 +32,7 @@ export const transactions = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transaction stands beside the month its day falls in rather than in a file of its own.",
++        "A transaction sits beside the month its day falls in rather than in a file of its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+index 5f7f2c66c0eb733c97b4023fe740cc853620e2e9..d1cf4641821132cc2e72e25f09f4e0e78be001b0 100644
+--- a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
++++ b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+@@ -21,7 +21,7 @@ export const monarchId = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A Monarch identity is what a sync matches a standing page by.",
++      statement: "A Monarch identity is what a sync matches an existing page by.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch.domain.ts b/alan/harness/monarch/monarch.domain.ts
+index 86f87d6625ea9becb7c39944d21e843213751ec3..1fa51089df3011c8355817e308c24f108fb390d8 100644
+--- a/alan/harness/monarch/monarch.domain.ts
++++ b/alan/harness/monarch/monarch.domain.ts
+@@ -87,7 +87,7 @@ export const monarch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The cookie stands only on the workstation that takes the reading.",
++      statement: "The cookie is only on the workstation that takes the reading.",
+     },
+     {
+       invariantKind: "departure",
