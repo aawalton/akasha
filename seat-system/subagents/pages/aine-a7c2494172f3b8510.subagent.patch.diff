@@ -1,0 +1,54 @@
+diff --git a/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts b/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts
+index 1820e25f81703821849d59512ad4d74a4cacfd56..8ea5bc86794ccf512948f5f3db63aa2dadd9fc81 100644
+--- a/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts
++++ b/markdown-pages/markdown-document-template/markdown-document-template.module.code.ts
+@@ -136,7 +136,7 @@ function linkSlot(
+   if (value === null) return no(why!)
+   if (value.type !== "docref")
+     return no(
+-      `\`{${name}}\` stands as a link, so \`slots.${name}\` states \`to:\` rather than a bound on its text`
++      `\`{${name}}\` is written as a link, so \`slots.${name}\` states \`to:\` rather than a bound on its text`
+     )
+   return {
+     slot: { slot: "hole", name, value, mark: node.marks[0] ?? null, optional: false },
+diff --git a/markdown-pages/markdown-glob/markdown-glob.module.code.ts b/markdown-pages/markdown-glob/markdown-glob.module.code.ts
+index 4d249ccaf7532513a6a7963e7f4158124581d39c..532b6812da84436b634cc56a477793908e7e27ed 100644
+--- a/markdown-pages/markdown-glob/markdown-glob.module.code.ts
++++ b/markdown-pages/markdown-glob/markdown-glob.module.code.ts
+@@ -12,7 +12,7 @@ const held = new Map<string, Minimatch>()
+ // a directory to descend nor a file to match, and nothing here follows one.
+ const UNWALKED: ReadonlySet<string> = new Set(["node_modules", ".git"])
+ 
+-// Everything before the last `/` that stands ahead of the first glob character. Walking from there
++// Everything before the last `/` that sits ahead of the first glob character. Walking from there
+ // rather than from the root is what keeps a placed pattern cheap.
+ const SPECIAL = /[*?[\]{}()!+@]/
+ 
+diff --git a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
+index 8131c472b8b657094fad4502a5a512b714c0da60..033af28150e10bffd40b79819718d1c4d7ecb238 100644
+--- a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
++++ b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
+@@ -84,8 +84,8 @@ async function advance(source: SeqSource, first: number, count: number): Promise
+     return {
+       code: 1,
+       output:
+-        `\`${was}\` stands ${parts.length - 1} time(s) in ${source.pageTypeRelPath}, and the ` +
+-        "counter is advanced only where it stands exactly once",
++        `\`${was}\` is written ${parts.length - 1} time(s) in ${source.pageTypeRelPath}, and the ` +
++        "counter is advanced only where it is written exactly once",
+     }
+   }
+   const landed = await landBodies(
+diff --git a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts b/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
+index ff08132a7e89374cae61f9f4608b5f210170cde7..172983743d6ad147d1fa6a6fc8e620b4ae1e1479 100644
+--- a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
++++ b/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
+@@ -17,7 +17,7 @@ const STRINGIFY_OPTIONS = {
+ 
+ export function uncommittedPathFor(pagePath: string): string {
+   if (!pagePath.endsWith(PAGE_SUFFIX)) {
+-    throw new Error(`an uncommitted file stands beside a page, and '${pagePath}' is not one`)
++    throw new Error(`an uncommitted file sits beside a page, and '${pagePath}' is not one`)
+   }
+   return `${pagePath.slice(0, -PAGE_SUFFIX.length)}${UNCOMMITTED_SUFFIX}`
+ }
