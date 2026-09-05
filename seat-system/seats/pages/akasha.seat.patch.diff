@@ -99,3 +99,18 @@ index 4bef433a80c88a0a630e9f0ac13fd94de4a1b1d2..92620ff1d45c6b862a5eb8b2b1ba6a00
  }
  
  export function listedByPath(given: string | Reading, path: string): readonly Listed[] {
+diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
+index 86602ead247b02bdbf1fc02b0b69614fb88efb7d..be62eb9e49a3dad3fc27c839ef7c4b0ca5ffaff4 100644
+--- a/pages/indexes/reading/index-reading.module.test.ts
++++ b/pages/indexes/reading/index-reading.module.test.ts
+@@ -4,9 +4,9 @@ import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
+ import {
+   everyPath,
+   importersOf,
+-  listedAddressed,
+   listedById,
+   listedByPath,
++  listedFor,
+   readingIn,
+   schemaOf,
+ } from "./index-reading.module.code.ts"
