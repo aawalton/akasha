@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/mobile-cli/mobile-ssh/mobile-ssh.module.ts b/mobile-cli/mobile-ssh/mobile-ssh.module.ts
+index 6e6dc548620fc8b60d9b69f1624bd4b12be1fd00..d6b8f13effc7c12adddf415fb4a48e6f356666e0 100644
+--- a/mobile-cli/mobile-ssh/mobile-ssh.module.ts
++++ b/mobile-cli/mobile-ssh/mobile-ssh.module.ts
+@@ -26,7 +26,7 @@ export const mobileSsh = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller asking to be quiet is given that stderr among what the run said.",
++      statement: "A caller asking to be quiet is given that stderr among the run's own output.",
+     },
+     {
+       invariantKind: "departure",
