@@ -143,3 +143,11 @@ index 07a832c8d229080722eabee372b05b038347eedc..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../digit-padding
 \ No newline at end of file
+diff --git a/domains/domains b/domains/domains
+deleted file mode 120000
+index b4b580d64415b0f41d92ff0cbdf508072c1376b7..0000000000000000000000000000000000000000
+--- a/domains/domains
++++ /dev/null
+@@ -1 +0,0 @@
+-../../domains
+\ No newline at end of file
