@@ -7,11 +7,11 @@ export const ruleD5eaa312 = {
   title: "Destroy unsellable low drinks",
   description:
     "Spine step 6: below-superior drink with no merchant value (event drinks) cannot fall to the sell rules - destroy. Companion to the raised drink sell floor (A5).",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "drink",
   displayOrder: 80,
   action: "destroy",
   active: true,
   updatedAt: "2026-07-05T13:32:43.468Z",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
