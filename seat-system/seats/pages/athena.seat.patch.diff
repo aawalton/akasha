@@ -1,9 +1,16 @@
 runsWarrants: false
 diff --git a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..7bc40d7b6887abaa86ba126a2bee40d2b7d59b04 100644
+index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..e746d1373628255accee9208e63997a3d405fcbf 100644
 --- a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
 +++ b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-@@ -340,11 +340,6 @@
+@@ -334,17 +334,12 @@
+     "catalogVersion": 19
+   },
+   "turnContract": {
+-    "notes": "HALT-ON-FRICTION: on any `bun ops page create` (pole 1), `bun ops awen commit-turn`/`end-session` (pole 2 / session), `game-continuity` parse, or page error — STOP, report, idle; never paper over a failure (the already-written story-chapter twin keeps the campaign safe). NEVER SEND null in an awen payload — awen-core marks optional fields `.optional()`, which rejects `null`; omit any field you do not set. `currentSession` is authoritative — change it only through `end-session`, never by hand. LOOP-DARK: only revealed chapter prose reaches any player surface; never put coordinator material into a published chapter's `text`. SINGLE WRITER: aria alone publishes both twins (the `story-chapter` row and the `game-turn`); the writing passes produce prose but never publish rows themselves — aria is the sole publisher.",
++    "notes": "HALT-ON-FRICTION: on any publish or page error — STOP, report, idle; never paper over a failure (the already-written story-chapter twin keeps the campaign safe). LOOP-DARK: only revealed chapter prose reaches any player surface; never put coordinator material into a published chapter's `text`. SINGLE WRITER: aria alone publishes both twins (the `story-chapter` row and the `game-turn`); the writing passes produce prose but never publish rows themselves — aria is the sole publisher.",
+     "obligations": [
+       {
          "id": "reconcile-on-wake",
          "requirement": "Re-read live state before acting. The NARRATIVE record is row-authoritative: the committed `game-turn` rows (published chapter prose + `status`), read via `bun ops awen gm-load --game dragons-and-dungeons` — on any disagreement the committed rows WIN over an in-session draft or the state a crossed message implied. Never guess from a crossed message."
        },
