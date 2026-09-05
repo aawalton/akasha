@@ -10,10 +10,6 @@ export const zoneUpstreamPort = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The upstream Lua file is read by running the file in a sandboxed Lua machine.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The machine is given the ESO stubs the upstream file calls before that file is run.",
     },
