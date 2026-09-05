@@ -66,10 +66,7 @@ export const complexity = {
       statement:
         "A threshold is a floor for every metric but the maintainability index, a ceiling for that index.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A file named is read against the repository root rather than the calling folder.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A file that will not open is passed over rather than refusing the rest.",
