@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
-index 5212c12bc477ef20d3fb15e236d72b189b77bf08..6aa9782fa6e41a200b29b369218c8edf647e049e 100644
+index 5212c12bc477ef20d3fb15e236d72b189b77bf08..70f39b6792bad1b1735db3f582c2ee023b4635b4 100644
 --- a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
 +++ b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
 @@ -23,12 +23,13 @@ export const monarchRuleClauses = {
@@ -15,6 +15,15 @@ index 5212c12bc477ef20d3fb15e236d72b189b77bf08..6aa9782fa6e41a200b29b369218c8edf
        statement:
 -        "A rule stating no clause is refused, because it would catch every transaction there is.",
 +        "A rule stating no clause is refused, because that rule would catch every transaction there is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -51,7 +52,7 @@ export const monarchRuleClauses = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An empty note is refused, because it writes a blank over nothing.",
++      statement: "An empty note is refused, because that note writes a blank over nothing.",
      },
      {
        invariantKind: "departure",
