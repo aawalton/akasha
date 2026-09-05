@@ -1,0 +1,16 @@
+diff --git a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
+index ffad641479427a27b05a0eb325f3e7d4f2c40abf..9e0ff3a664deac48e87e84fdf3a629a879f9e818 100644
+--- a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
++++ b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
+@@ -23,10 +23,7 @@ export const attributeEndurance = {
+       invariantKind: "departure",
+       statement: "Four hundred calories burned moving is one point.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure given as text is read as the number that text spells.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "No tracking day is no reading rather than an endurance of zero.",
