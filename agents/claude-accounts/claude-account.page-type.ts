@@ -208,6 +208,10 @@ export const claudeAccount = {
     },
     {
       invariantKind: "departure",
+      statement: "The claude-account page type is reached by its id rather than by a spelled slug.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An account is made stating the address the account signs in as and the alias the account answers to.",
     },
