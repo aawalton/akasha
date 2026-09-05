@@ -1,0 +1,63 @@
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.test.ts
+index f8e7098b45919fe22710d86b3b649c8001002d44..ef6896c84b0a0d91f8907f11ae5c92aa943658be 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.test.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.test.ts
+@@ -51,7 +51,7 @@ test("a throw wrapped in a block still ends the dispatch", () => {
+   ).toEqual([])
+ })
+ 
+-test("the line named is the line the switch stands on", () => {
++test("the line named is the line the switch is on", () => {
+   const said = exhaustiveDispatch(parsed(switching("")))
+   expect(said[0]?.line).toBe(2)
+ })
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
+index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..bd519051f235c6a2f27bb5901253c103c72156eb 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
+@@ -32,27 +32,27 @@ test("the dispatcher reached through a bound name and a join is refused", () =>
+   expect(said[0]?.line).toBe(2)
+ })
+ 
+-test("the dispatcher written as data and launched by nothing stands", () => {
++test("the dispatcher written as data and launched by nothing is left", () => {
+   const text = 'const DISPATCHER = "akasha/command-system/cli/cli.module.code.ts"\n'
+   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+ })
+ 
+-test("the dispatcher handed to a path reader stands", () => {
++test("the dispatcher handed to a path reader is left", () => {
+   const text = 'expect(rootOf("/one/akasha/command-system/cli/cli.module.code.ts")).toBe("/one")\n'
+   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+ })
+ 
+-test("the command named in text shown to a reader stands", () => {
++test("the command named in text shown to a reader is left", () => {
+   const text = 'const READ_CALL = "akasha read --file-path"\n'
+   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+ })
+ 
+-test("the command's name argued to another program stands", () => {
++test("the command's name argued to another program is left", () => {
+   const text = 'spawnSync("git", ["clone", "akasha"])\n'
+   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+ })
+ 
+-test("a file standing in the dispatcher's own folder is refused nothing", () => {
++test("a file sitting in the dispatcher's own folder is refused nothing", () => {
+   const at = "akasha/command-system/cli/cli.module.test.ts"
+   const text = 'Bun.spawnSync([process.execPath, "akasha/command-system/cli/cli.module.code.ts"])\n'
+   expect(noAkashaCommandFromCode({ path: at, source: parsedAs(at, text) })).toEqual([])
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+index 6d9831c63b8626df68044b9b0cddbc13ec779032..249ec46fda0cb48f3f762427419f3c9e1ce01349 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+@@ -35,7 +35,7 @@ export const noAkashaCommandFromCode = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file standing in the dispatcher's own folder is judged not.",
++      statement: "A file sitting in the dispatcher's own folder is judged not.",
+     },
+     {
+       invariantKind: "departure",
