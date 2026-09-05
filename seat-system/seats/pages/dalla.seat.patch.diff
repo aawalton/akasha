@@ -1,8 +1,8 @@
 diff --git a/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts b/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts
-index d788899d9a42365a6e84f522f80a45e1c84ee8c4..d0197090b10500ca7b29cef601ce7b82174d5ed7 100644
+index d788899d9a42365a6e84f522f80a45e1c84ee8c4..456b75ed0401a2abaa31d21700aaca9449542500 100644
 --- a/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts
 +++ b/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts
-@@ -6,11 +6,10 @@ export const theShellWriteHookReadsTextThatIsNotShellAsShell = {
+@@ -6,15 +6,14 @@ export const theShellWriteHookReadsTextThatIsNotShellAsShell = {
    slug: "the-shell-write-hook-reads-text-that-is-not-shell-as-shell",
    domainSlug: "workspace-package/hook-system",
    claim:
@@ -17,3 +17,9 @@ index d788899d9a42365a6e84f522f80a45e1c84ee8c4..d0197090b10500ca7b29cef601ce7b82
      '3. A variable in a redirect target is refused unexpanded. `... > "$SP/owed3.txt"` was refused as landing on `$SP/owed3.txt` "inside the akasha folder", where `SP` held a path under `/tmp`. Spelling the same path in full was admitted, so the refusal rests on the text of the target rather than on where it lands.\n\n' +
      "4. A relative path is resolved against the process directory rather than the one the command runs in. `cd /tmp/.../scratchpad && sed -i '...' scan2.mjs` was refused as landing on `scan2.mjs` \"inside the akasha folder\". The file is under `/tmp`; only the process directory made it look otherwise.\n\n" +
      '5. `bun` naming a path in the checkout as an argument is refused, whether or not it writes. `bun -e \'import("<a path in the checkout>")...\'` was refused with "a program\'s own text is not read here, so a write through it is not parted from a read, and naming the path at all is what is refused". This blocks a read-only probe, which is what it blocked: the call was a control proving an import fails, and it had to be dropped.\n\n' +
+     "6. `sed -i` is refused by naming the script rather than the file. `sed -i 's/x/y/' file` is refused on the substitution rather than on `file`, so the refusal names something the call does not write.\n\n" +
+-    "What the five share is that the hook decides from the command's text without the shell's own reading of it: a quoted heredoc body, a variable it does not expand, and an argument that is a path but not a target all read alike to it. Reproduction 4 is apart from the other five and is about which directory a relative path is resolved against.\n\n" +
+-    "This is filed rather than fixed: the hook's code is untouched here, and what to do about any one of the six is a ruling nobody has taken.",
++    "What 3, 5 and 6 share is that the hook decides from the command's text without the shell's own reading of it: a variable it does not expand and an argument that is a path but not a target read alike to it. Reproduction 4 is apart from those three and is about which directory a relative path is resolved against.\n\n" +
++    "What to do about any one of the four left is a ruling nobody has taken. Each is a judgement about what the hook should refuse rather than about how the hook reads, which is why the heredoc defect was fixed and these were not.",
+ } as const satisfies Finding
