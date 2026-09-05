@@ -44,7 +44,7 @@ export const terminalSeatStating = {
     {
       invariantKind: "departure",
       statement:
-        "A seat holding no mode returns decisions it would otherwise put to its principal.",
+        "A seat holding no mode returns decisions that seat would otherwise put to its principal.",
     },
     {
       invariantKind: "departure",
