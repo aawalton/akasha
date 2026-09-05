@@ -17,7 +17,8 @@ export const cardSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A card still locked names the card it would be without naming the persona.",
+      statement:
+        "A card still locked names the card that card would be without naming the persona.",
     },
   ],
 } as const satisfies TextProperty
