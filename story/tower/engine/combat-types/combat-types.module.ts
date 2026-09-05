@@ -17,7 +17,8 @@ export const combatTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A seed is part of what an attack is handed rather than held between attacks.",
+      statement:
+        "A seed is part of the input an attack is handed rather than held between attacks.",
     },
   ],
 } as const satisfies Module
