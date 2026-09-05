@@ -12,6 +12,21 @@ index cea2b26cf3962cad1695d12d352aa8a8064ad0c6..8f8929f40ec41799f6af702a9dfc0d4e
    "  It is landed by a program rather than by an agent, so no writer is named for it.",
    "",
    "WHAT IS LEFT ALONE:",
+diff --git a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
+index 0059389611deba4e373323d22d6a1f5cc00b120d..e8b9053964baaa3a4df766eaca809e8f296c9421 100644
+--- a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
++++ b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
+@@ -17,6 +17,10 @@ export const stateSubagent = {
+       invariantKind: "departure",
+       statement: "A subagent that has stopped has no page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A subagent resuming takes up the page that subagent had.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The seat is named by the page the index carries for the id the call runs under.",
 diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
 index a41cfd14e715fc95c0fa278f9a54138f88bf7fde..da88d4fcf64d7f6d17c9b7d73ef3a7d26bdf51b0 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.code.ts
