@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/service-system/cluster-services/workload-census/workload-census.module.ts b/service-system/cluster-services/workload-census/workload-census.module.ts
+index 22919ee4a372a01bcef4c58df5ae7dbf7b1e278e..db1b4eda5973c214de926afac753e96f62fa1e08 100644
+--- a/service-system/cluster-services/workload-census/workload-census.module.ts
++++ b/service-system/cluster-services/workload-census/workload-census.module.ts
+@@ -9,7 +9,8 @@ export const workloadCensus = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What the cluster runs is asked of the cluster rather than read from a page.",
++      statement:
++        "The workloads the cluster runs are asked of the cluster rather than read from a page.",
+     },
+     {
+       invariantKind: "departure",
