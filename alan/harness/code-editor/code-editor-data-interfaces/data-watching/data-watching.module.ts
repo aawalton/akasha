@@ -53,6 +53,18 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "A picture nothing has read yet answers no line at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No file is written for a picture answering no line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The line left on disk from before the service started is the line kept.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A beat stops when the watching stops.",
     },
     {

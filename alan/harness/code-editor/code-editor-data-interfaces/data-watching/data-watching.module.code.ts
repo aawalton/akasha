@@ -59,7 +59,7 @@ type Picture = {
   readonly cooldownMs: number
   readonly folders: readonly string[]
   readonly holds: (at: string) => boolean
-  readonly line: () => string
+  readonly line: () => string | null
   readonly refresh?: () => Promise<undefined>
   readonly everyMs?: number
   held: Held
@@ -105,14 +105,22 @@ function agentColorsLine(): string {
 
 // What a terminal sits on cannot be watched for: no file changes when a client attaches, so this
 // one picture is taken on a beat. The beat is what costs; the file moves only where the map does.
-let tabsHeld: ReadonlyMap<number, string> = new Map()
+//
+// NOTHING IS HELD UNTIL THE FIRST BEAT HAS RUN. A picture seeded with an empty value is a picture
+// that can be written before it has ever been read: the watching is set up while the first beat is
+// still in flight, so a seat file changing in that window wrote the seed over the last good line
+// and took every tab's color away until the beat landed.
+let tabsHeld: ReadonlyMap<number, string> | null = null
 
 async function refreshTerminalTabs(): Promise<undefined> {
   tabsHeld = seatByShellPid(await tmuxClients(), new Set(akashaSeatsThatExist().values()))
   return undefined
 }
 
-function terminalTabsLine(): string {
+function terminalTabsLine(): string | null {
+  if (tabsHeld === null) {
+    return null
+  }
   const seatByPid: Record<string, string> = {}
   for (const [pid, seat] of tabsHeld) seatByPid[String(pid)] = seat
   const colorBySeat: Record<string, string> = {}
@@ -126,24 +134,14 @@ function terminalTabsLine(): string {
   } satisfies TerminalTabsState)
 }
 
-let fleetHeld = JSON.stringify({
-  roots: [],
-  alanPrincipalCount: 0,
-  runningCount: 0,
-  unreadSeats: 0,
-} satisfies AgentTreeState)
+let fleetHeld: string | null = null
 
 async function refreshAgentTree(): Promise<undefined> {
   fleetHeld = await agentTreeLine()
   return undefined
 }
 
-let statusHeld = JSON.stringify({
-  usage: null,
-  inbox: null,
-  upkeep: null,
-  attributes: null,
-} satisfies StatusBarState)
+let statusHeld: string | null = null
 
 async function refreshStatusBar(): Promise<undefined> {
   statusHeld = await statusBarLine()
@@ -253,6 +251,11 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
 
 function keep(root: string, slug: string, picture: Picture): undefined {
   const line = picture.line()
+  // A PICTURE READ BY NOTHING YET IS WRITTEN BY NOTHING YET. The file already on disk is the last
+  // good line the editor is drawing, and leaving it there is what keeps that line on the screen.
+  if (line === null) {
+    return undefined
+  }
   const now = Date.now()
   const decision = decide(picture.held, line, now, picture.cooldownMs)
   picture.held = heldAfter(picture.held, decision, line, now)
