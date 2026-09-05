@@ -18,16 +18,16 @@ export const catalogueSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A course sits on the All Great Courses shelf and on the shelf of every subject naming it.",
+        "A course sits on the All Great Courses shelf and on the shelf of every subject naming that course.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Nothing is written where the collection's root says it synced inside the last thirty days.",
+        "Nothing is written where the collection's root says that root synced inside the last thirty days.",
     },
     {
       invariantKind: "departure",
-      statement: "The run is a row under the source it synced.",
+      statement: "The run is a row under the source that run synced.",
     },
     {
       invariantKind: "departure",
