@@ -28,7 +28,7 @@ index cfd86772e7c87bc0e691c367f7f6b37231cf073d..131bafeb3d2c06dd0944c62b322e522b
      return refusing(
        `\`${named}\` is a command page, and no code file can sit beside a name like it`
 diff --git a/editor-extension/harness-call/harness-call.module.code.ts b/editor-extension/harness-call/harness-call.module.code.ts
-index 50c93f22b9017f374686df2d635dba1456a8db31..5436bfaecf6d1f185074c9669df76079482a8cad 100644
+index 50c93f22b9017f374686df2d635dba1456a8db31..5bf55268807e0f53f7d8d443fe5338ae516fdd8e 100644
 --- a/editor-extension/harness-call/harness-call.module.code.ts
 +++ b/editor-extension/harness-call/harness-call.module.code.ts
 @@ -4,6 +4,7 @@ import * as os from "node:os"
@@ -54,3 +54,44 @@ index 50c93f22b9017f374686df2d635dba1456a8db31..5436bfaecf6d1f185074c9669df76079
  export function serverPath(): string {
    return path.join(akashaRoot(), SERVER_AT)
  }
+@@ -137,27 +132,31 @@ export function disposeCommandServer(): undefined {
+   return undefined
+ }
+ 
+-const CARRIED = /\.(?:command|module)\.code\.ts$/
+-
+-export function commandNamed(commandFile: string): string {
+-  const named = path.basename(commandFile)
+-  return CARRIED.test(named) ? named.replace(CARRIED, "") : named.replace(/\.ts$/, "")
++export function commandFile(command: string): string {
++  const root = akashaRoot()
++  const beside = commandFileIn(root, command)
++  if (beside === null) {
++    throw new HarnessUnreachableError(
++      `the index at ${root} names no single page for \`${command}\`, ` +
++        `so nothing says which file holds that command`
++    )
++  }
++  return path.join(root, beside)
+ }
+ 
+ export async function runCommand(
+-  commandFile: string,
++  command: string,
+   args: readonly string[],
+   options: HarnessCallOptions
+ ): Promise<string> {
+-  const command = commandNamed(commandFile)
+-  if (isServed(command) && commandFile === commandPath(command)) {
++  if (isServed(command)) {
+     const answer = await askServed(servedClient(), command, args, options.timeout)
+     if (answer.code !== 0) {
+       throw new Error(`${command} exited ${answer.code}: ${answer.stderr.trim()}`)
+     }
+     return whole(command, answer.stdout, answer.stderr)
+   }
+-  return run(command, path.join(bunDirectory(), "bun"), [commandFile, ...args], options)
++  return run(command, path.join(bunDirectory(), "bun"), [commandFile(command), ...args], options)
+ }
+ 
+ export function unreachableMessage(error: unknown): string {
