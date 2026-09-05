@@ -9,10 +9,6 @@ export const catalogAutoCollect = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A game version different from the saved one empties every catalog first.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Nothing missing means the catalog is marked complete without any collector run.",
     },
     {
