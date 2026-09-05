@@ -64,3 +64,16 @@ index afbd09138f89528814889672397849ad673def45..0fc506470fed61b6f9941b1c132e2f8f
      },
      {
        invariantKind: "departure",
+diff --git a/infrastructure/inference-runs/generation-log/generation-log.module.ts b/infrastructure/inference-runs/generation-log/generation-log.module.ts
+index 509db340acc50250127ab6ce960bddee87c5b178..9bda3581db8d71f0bdcb669a0eab9c73d6020cd6 100644
+--- a/infrastructure/inference-runs/generation-log/generation-log.module.ts
++++ b/infrastructure/inference-runs/generation-log/generation-log.module.ts
+@@ -18,7 +18,7 @@ export const generationLog = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The log a run is written to is read from the environment and is `alan` where the environment says nothing.",
++        "A run's log is read from the environment and is `alan` where the environment says nothing.",
+     },
+   ],
+ } as const satisfies Module
