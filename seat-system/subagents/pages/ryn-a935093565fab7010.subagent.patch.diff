@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/collections/properties/parts-progress-in-words.number-property.ts b/collections/properties/parts-progress-in-words.number-property.ts
+index f2f784b8db164215b53e78dea0ed9a989a1ed066..61f876e10d6377ee1577f59ea234b88cdd77d578 100644
+--- a/collections/properties/parts-progress-in-words.number-property.ts
++++ b/collections/properties/parts-progress-in-words.number-property.ts
+@@ -17,7 +17,7 @@ export const partsProgressInWords = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is added up is each part's own total progress in words.",
++      statement: "Each part's own total progress in words is added up.",
+     },
+     {
+       invariantKind: "gap",
