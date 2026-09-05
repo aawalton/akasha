@@ -34,7 +34,7 @@ index ca4cb59ffe2b18258c97b9f7dcba913731c6a5fc..817f2dc9037387ae4858adcbf326e7ab
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index 17a16c16bab031ae4c822df02c990067b0cc34ac..71c0549b0d2621abb673cb1b6aff651a2ee4cdbf 100644
+index 2ef02704723ba810e7e659a1b95cc67e68e795bf..44af0a909e1acf802df22f3576339fea8c212f1e 100644
 --- a/alan/harness/monarch/eval/monarch-eval.domain.ts
 +++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
 @@ -51,10 +51,14 @@ export const monarchEval = {
@@ -125,3 +125,23 @@ index 92b468cff2576378fb5a6e796243ae639e76b31c..e1f4b92445a39b7d122bbc4c61c70724
      },
      {
        invariantKind: "departure",
+diff --git a/mobile-commands/mobile-commands.workspace-package.ts b/mobile-commands/mobile-commands.workspace-package.ts
+index 173b52d0716f1a7f4969def2cde89af92644b18d..96292971e50cfafb023915f2ce8010784cc909e5 100644
+--- a/mobile-commands/mobile-commands.workspace-package.ts
++++ b/mobile-commands/mobile-commands.workspace-package.ts
+@@ -36,10 +36,14 @@ export const mobileCommands = {
+       invariantKind: "absence",
+       statement: "Nothing here reaches the mac except through mobile-cli.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "One simulator session is there at a time.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "One simulator session is there at a time, and a command driving it attaches to that session rather than opening its own.",
++        "A command driving the simulator attaches to the standing session rather than opening its own.",
+     },
+     {
+       invariantKind: "gap",
