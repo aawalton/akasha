@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-months/monarch-month.page-type.ts b/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
+index 4fd291bba85b42f50e4dfad1c79bc6c0520b2d8d..651495bb2c85756e299cfb26e74654409a59818e 100644
+--- a/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
++++ b/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
+@@ -57,7 +57,7 @@ export const monarchMonth = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A month states what that month covers and nothing else.",
++      statement: "A month states the period that month covers and nothing else.",
+     },
+     {
+       invariantKind: "departure",
