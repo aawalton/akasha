@@ -69,7 +69,6 @@ export const workstationService = {
     "workstation-service/rule-population-sweep",
     "workstation-service/send-due-reminders",
     "workstation-service/surplus-fall-notifier",
-    "workstation-service/sweep-editor-pages",
     "workstation-service/sweep-log-days",
     "workstation-service/sweep-page-answers",
     "workstation-service/sweep-supervisor-logs",

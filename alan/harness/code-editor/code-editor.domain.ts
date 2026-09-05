@@ -7,7 +7,6 @@ export const codeEditor = {
   definition: "a workbench of files, groups, panels and terminals",
   partSlugs: [
     "domain/code-editor-group-layout",
-    "module/editor-page-sweeping",
     "page-type/code-editor-window",
     "page-type/code-editor-group",
     "page-type/code-editor-terminal",
