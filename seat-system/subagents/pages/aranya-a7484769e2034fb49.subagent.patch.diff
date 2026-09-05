@@ -1,3 +1,15 @@
+diff --git a/infrastructure/databases/database.domain.ts b/infrastructure/databases/database.domain.ts
+index e09410b23c3ef55c28cbc44305d9bda4b127adeb..828db7b1d64a7e89a231e60493f610d738243afe 100644
+--- a/infrastructure/databases/database.domain.ts
++++ b/infrastructure/databases/database.domain.ts
+@@ -6,6 +6,7 @@ export const database = {
+   slug: "database",
+   definition: "the queryable store",
+   pluralSlug: "databases",
++  partSlugs: ["manifest/postgrest"],
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/infrastructure/databases/postgrest/postgrest.manifest.ts b/infrastructure/databases/postgrest/postgrest.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..3d46e2fc21f4742c9cdd9372c96a2ae96efb1fee
