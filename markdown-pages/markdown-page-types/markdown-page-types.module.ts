@@ -10,7 +10,7 @@ export const markdownPageTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type is read from the file its frontmatter stands in.",
+      statement: "A page type is read from the file its frontmatter is in.",
     },
     { invariantKind: "departure", statement: "A path git ignores is never scanned as a page." },
   ],

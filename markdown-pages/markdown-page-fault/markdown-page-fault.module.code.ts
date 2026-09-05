@@ -9,6 +9,6 @@ export function noteUnreadable(
   if (isAttachmentFile(relPath)) return
   faults.add(
     `\`${repo}:${relPath}\` matches the glob for \`${kind}\` and does not read as a page, ` +
-      `so it stands in no count`
+      `so it is in no count`
   )
 }

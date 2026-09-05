@@ -9,7 +9,7 @@ export const markdownRepoClaim = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A stated path claiming no repository stands in the instructions checkout.",
+      statement: "A stated path claiming no repository is in the instructions checkout.",
     },
   ],
 } as const satisfies Module

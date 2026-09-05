@@ -10,7 +10,7 @@ export const markdownBodyNotUtf8 = {
     {
       invariantKind: "departure",
       statement:
-        "The refusal names the source it read, how many bytes stood there, and the leading bytes themselves.",
+        "The refusal names the source it read, how many bytes were there, and the leading bytes themselves.",
     },
   ],
 } as const satisfies Module
