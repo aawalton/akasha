@@ -7,6 +7,7 @@ export const gitTransport = {
   definition: "the repositories this system keeps, served over the network",
   manifest: "json",
   partSlugs: [
+    "manifest/git-transport-manifests",
     "module/transport-repos",
     "module/transport-auth",
     "module/backend-env",
