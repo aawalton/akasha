@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-inventory-automation/automation-toggle-change/automation-toggle-change.module.ts b/temper/temper-inventory-automation/automation-toggle-change/automation-toggle-change.module.ts
+index e3ec46a257d555bc159950c88bc038116bc6f369..444025649c8b798d756ffa47b87a3b55c0b46321 100644
+--- a/temper/temper-inventory-automation/automation-toggle-change/automation-toggle-change.module.ts
++++ b/temper/temper-inventory-automation/automation-toggle-change/automation-toggle-change.module.ts
+@@ -46,7 +46,7 @@ export const automationToggleChange = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A toggle taken away falls back to what the global scope says.",
++      statement: "A toggle taken away falls back to the value the global scope holds.",
+     },
+     {
+       invariantKind: "departure",
