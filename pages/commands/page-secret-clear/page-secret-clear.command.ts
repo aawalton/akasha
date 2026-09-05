@@ -35,7 +35,7 @@ export const pageSecretClear = {
     },
     {
       invariantKind: "departure",
-      statement: "What is left is enciphered again and landed as one change.",
+      statement: "The rest of the file is enciphered again and landed as one change.",
     },
     {
       invariantKind: "absence",
@@ -43,7 +43,7 @@ export const pageSecretClear = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here puts back what this command dropped.",
+      statement: "Nothing here puts back the secret this command dropped.",
     },
   ],
 } as const satisfies Command
