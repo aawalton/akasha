@@ -27,7 +27,7 @@ export const manifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest is generated into YAML before it is applied.",
+      statement: "A manifest is generated into YAML before that manifest is applied.",
     },
   ],
 } as const satisfies PageType
