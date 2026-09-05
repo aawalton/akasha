@@ -28,7 +28,7 @@ export const monarchPoll = {
     {
       invariantKind: "departure",
       statement:
-        "A row naming an unknown category keeps the category it holds until the daily full run.",
+        "A row naming an unknown category keeps the category that row holds until the daily full run.",
     },
     {
       invariantKind: "departure",
