@@ -1,0 +1,12 @@
+diff --git a/commands/loki/loki.command.ts b/commands/loki/loki.command.ts
+index f6e93c3da4e1398d2ddc3e69af6ed8a7eb7c61dd..1bb1155d44eda58ea400648c0fbf01e34618e276 100644
+--- a/commands/loki/loki.command.ts
++++ b/commands/loki/loki.command.ts
+@@ -47,7 +47,6 @@ export const loki = {
+     "a stamp is read before any query is sent, so a malformed one is refused rather than quietly matching nothing.",
+     "`--all` is bounded by the window and never by a line count, so a window that clipped is reached by widening `--since`.",
+     "a pod prefix matching nothing answers no log line, and the bounding line says whether that absence means anything.",
+-    "nothing here filters a log body.",
+   ],
+   invariants: [
+     {
