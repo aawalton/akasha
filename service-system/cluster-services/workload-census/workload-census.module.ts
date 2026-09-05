@@ -13,7 +13,8 @@ export const workloadCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind kubectl will not list stops the census rather than shortening it.",
+      statement:
+        "A kind kubectl will not list stops the census rather than shortening that census.",
     },
     {
       invariantKind: "absence",
