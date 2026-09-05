@@ -1,5 +1,5 @@
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
-index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..b1b7d6e12b1dd6e599331292ea0b56ec44c289a5 100644
+index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..b9ad9f4ade5e97cef776c6f1f9e5a3e4327f774a 100644
 --- a/commands/calendar/calendar.command.ts
 +++ b/commands/calendar/calendar.command.ts
 @@ -4,7 +4,7 @@ export const calendar = {
@@ -52,6 +52,15 @@ index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..b1b7d6e12b1dd6e599331292ea0b56ec
        invariantKind: "departure",
 -      statement: "An update leaves every field the call does not name standing as it stands.",
 +      statement: "An update leaves every field the call does not name as it is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -128,7 +128,7 @@ export const calendar = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An rsvp turns Alan's own response and leaves every other guest's standing.",
++      statement: "An rsvp turns Alan's own response and leaves every other guest's as it is.",
      },
      {
        invariantKind: "departure",
