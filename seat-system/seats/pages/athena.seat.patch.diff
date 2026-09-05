@@ -1,0 +1,24 @@
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index 2a1ee137fe1d2ec05247e80b2dd175ef7d14609e..be63bd0d2dffbee18664b132114e2fae8d6633e9 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -41,12 +41,17 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "There are no remaining ops cli commands.",
+       workingMemory:
+-        "14 ops pages remain under `command-system/ops-commands/pages`: 7 tracking, 3 seat, 4 loose. `dotfiles/bin/ops` and `command-system/ops-calling` are both gone, so no dispatcher exists and every ops call was already dead rather than pending. seat-inbox went, and a message now reaches a started seat as its boot prompt. compose-boot and compose-subagents are live, spawned by path on every seat launch, so only their ops pages are stale. `block-ops-cli` bars a call nothing could serve.",
++        "9 ops pages remain: 7 tracking, 2 loose, and no seat page left. `dotfiles/bin/ops` and the ops dispatcher are both gone, so every ops call was already dead rather than pending. seat-inbox went, and a message now reaches a started seat as its boot prompt. fleet-restart went superseded twice, `seat supervisor restart --all` holding its reach and `seat refresh-settings` its subject. compose-boot and compose-subagents are functions rather than commands, so their pages went and their code stays.",
+     },
+     {
+       statement: "Nothing names a command by its path.",
+       workingMemory:
+-        "Met for the editor, the shell, the recipient resolver and monarch. The mover repoints a whole path in a literal, but never a prefix assembled at runtime nor a command's name sitting in an argv array: `COMMANDS_AT`, `ENDED_DIR` and every `ops` spawn were each invisible for that reason and none had a test. akasha is spawned by its whole path where no caller arranges a PATH. `REPAIR_AT` in calling is left, naming a file in a message rather than in dispatch.",
++        "Met for the editor, the shell, the recipient resolver and monarch. The mover repoints a whole path in a literal, but never a prefix assembled at runtime nor a command's name sitting in an argv array: `COMMANDS_AT`, `ENDED_DIR` and every `ops` spawn were each invisible for that reason and none had a test. `REPAIR_AT` in calling is left, naming a file in a message rather than in dispatch. A path to a command goes when the spawn does, so importing instead meets this too.",
++    },
++    {
++      statement: "Command pages cannot define domain logic, only command concerns.",
++      workingMemory:
++        "Four callers spawned a command from code. compose-boot and compose-subagents were the plain case, sibling modules wrapped in a child process and a five second kill ceiling; the ceiling goes, because a compose that hangs is a root cause rather than a case each caller handles. The other three are real extractions: seat-start and seat-resume export only `help` and a default taking argv, and the two email commands answer a command `Answer`. None of the four had a domain function to import.",
+     },
+   ],
+   constraints: [
