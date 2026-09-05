@@ -25,7 +25,7 @@ export const checkAddonHookEagerCapture = {
     },
     {
       invariantKind: "constraint",
-      statement: "What the run declined to read is reported beside what the run read.",
+      statement: "The files the run declined to read are reported beside the files the run read.",
     },
   ],
 } as const satisfies Module
