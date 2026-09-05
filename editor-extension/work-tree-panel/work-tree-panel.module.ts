@@ -17,7 +17,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative written drops what was derived before the read that follows.",
+      statement: "An initiative written is re-read from the file rather than from a held answer.",
     },
     {
       invariantKind: "departure",

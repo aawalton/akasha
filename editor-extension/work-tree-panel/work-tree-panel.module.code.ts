@@ -1,4 +1,3 @@
-import { dropDerivers } from "@akasha/markdown-pages/deriver-hold"
 import * as vscode from "vscode"
 import { repositoryPath, unreachableMessage } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
@@ -141,10 +140,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     }
     const repo = repositoryPath(named)
     watched = repo
-    // AN INITIATIVE WRITTEN DROPS WHAT WAS DERIVED FROM THE ONE BEFORE IT, so the read that
-    // follows composes the tree from the files as they now are rather than from a held answer.
     const moved = (why: string) => (): void => {
-      dropDerivers()
       settled.request(why)
     }
     const watcher = vscode.workspace.createFileSystemWatcher(

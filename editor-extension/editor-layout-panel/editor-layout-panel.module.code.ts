@@ -1,12 +1,8 @@
-import { deferCommits } from "@akasha/markdown-pages/page-commit-queue"
-import { rootsHere } from "@akasha/pages-system/checkout-roots"
 import * as vscode from "vscode"
-import { arrangedResponse } from "../editor-arrangement/editor-arrangement.module.code.ts"
-import {
-  arrangementFrom,
-  type LayoutGroup,
-  type LayoutTab,
-  type TabKind,
+import type {
+  LayoutGroup,
+  LayoutTab,
+  TabKind,
 } from "../editor-layout-columns/editor-layout-columns.module.code.ts"
 import {
   recordObservation,
@@ -22,14 +18,11 @@ const SETTLE_MS = 250
 
 let output: vscode.OutputChannel
 let timer: ReturnType<typeof setTimeout> | undefined
-let windowProcess: string
 
-export async function activate(context: vscode.ExtensionContext): Promise<void> {
+export function activate(context: vscode.ExtensionContext): void {
   output = vscode.window.createOutputChannel("Ops Editor Layout")
   context.subscriptions.push(output)
-  windowProcess = await readProcess(process.pid)
-  deferCommits()
-  output.appendLine("activated; projecting the arrangement into the pages")
+  output.appendLine("activated; watching how the editor is arranged")
 
   schedule("activate")
 
@@ -58,7 +51,6 @@ async function write(trigger: string): Promise<undefined> {
     const tabs = groups.reduce((n, g) => n + g.tabs.length, 0)
     const seats = groups.reduce((n, g) => n + g.tabs.filter((t) => t.seat !== undefined).length, 0)
     output.appendLine(`[${trigger}] ${groups.length} group(s), ${tabs} tab(s), ${seats} seat(s)`)
-    await writePages(groups, trigger)
     recordObservation(FEATURE, {
       outcome: "ok",
       counts: { groups: groups.length, tabs, seats },
@@ -68,20 +60,6 @@ async function write(trigger: string): Promise<undefined> {
     recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
   }
   return undefined
-}
-
-async function writePages(groups: readonly LayoutGroup[], trigger: string): Promise<void> {
-  const arrangement = arrangementFrom(groups, windowProcess)
-  try {
-    const { body, status } = await arrangedResponse(
-      rootsHere(),
-      JSON.parse(JSON.stringify(arrangement))
-    )
-    output.appendLine(`[${trigger}] pages: ${status} ${JSON.stringify(body)}`)
-  } catch (err) {
-    output.appendLine(`[${trigger}] pages failed: ${String(err)}`)
-  }
-  return Promise.resolve()
 }
 
 async function readGroups(): Promise<readonly LayoutGroup[]> {
