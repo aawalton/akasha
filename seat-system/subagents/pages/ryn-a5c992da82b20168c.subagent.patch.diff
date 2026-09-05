@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index feaaedba48392afea3425658edbcdd10c830e3f4..00fd0906112c1aa6e0e8203e95f2ccd0c202b6ea 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -70,7 +70,8 @@ export const commandSystem = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A command answers with what to report and what refused the command.",
++      statement:
++        "A command answers with the report to make and the refusals that stopped the command.",
+     },
+     {
+       invariantKind: "departure",
