@@ -1,5 +1,5 @@
 diff --git a/commands/refactor/package-renaming/package-renaming.module.ts b/commands/refactor/package-renaming/package-renaming.module.ts
-index 1aa5064a428bce8ec85cfed4c9926db456edae4c..3bde7b7b22626a2ea1af68e4ec0d2fd09e86df1e 100644
+index 1aa5064a428bce8ec85cfed4c9926db456edae4c..f1320c819275da417c7b96cb2e4a469379786aa1 100644
 --- a/commands/refactor/package-renaming/package-renaming.module.ts
 +++ b/commands/refactor/package-renaming/package-renaming.module.ts
 @@ -42,7 +42,8 @@ export const packageRenaming = {
@@ -12,3 +12,12 @@ index 1aa5064a428bce8ec85cfed4c9926db456edae4c..3bde7b7b22626a2ea1af68e4ec0d2fd0
      },
      {
        invariantKind: "departure",
+@@ -54,7 +55,7 @@ export const packageRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key naming the package is respelled as a value naming it is.",
++      statement: "A key naming the package is respelled as a value naming that package is.",
+     },
+     {
+       invariantKind: "absence",
