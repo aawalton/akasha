@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
+index 915e0b54a7ab31d3ce44bc74e89b422b3721d1f8..3e5bda96006c052efdad91858d91acb8ce62b032 100644
+--- a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
++++ b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
+@@ -30,7 +30,7 @@ export const addonDataProof = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section is reported whether the sections beside it held or fell.",
++      statement: "A section is reported whether the sections beside that section held or fell.",
+     },
+     {
+       invariantKind: "departure",
