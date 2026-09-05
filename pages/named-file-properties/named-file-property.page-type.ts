@@ -26,7 +26,7 @@ export const namedFileProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A page claims a named file by stating the property holding it.",
+      statement: "A page claims a named file by stating the property holding that file.",
     },
     {
       invariantKind: "departure",
