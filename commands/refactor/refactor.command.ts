@@ -15,6 +15,7 @@ export const refactor = {
     "module/page-retyping",
     "module/refactor-arguing",
     "module/refactor-landing",
+    "module/retype-writing",
     "module/slug-renaming",
     "module/token-renaming",
     "module/type-renaming",
