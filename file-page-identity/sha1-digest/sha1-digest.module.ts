@@ -10,7 +10,8 @@ export const sha1Digest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A digest is byte-identical to what `node:crypto` answers for the same bytes.",
+      statement:
+        "A digest is byte-identical to the digest `node:crypto` answers for the same bytes.",
     },
     {
       invariantKind: "departure",
