@@ -35,7 +35,7 @@ export const seatObservations = {
     {
       invariantKind: "departure",
       statement:
-        "A change key sorts an object's keys rather than keeping the order they were set in.",
+        "A change key sorts an object's keys rather than keeping the order those keys were set in.",
     },
     {
       invariantKind: "departure",
