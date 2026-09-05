@@ -167,3 +167,11 @@ index ddc8b417df9bb34638b634a833bd49ffa4ba2c31..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../google/drive
 \ No newline at end of file
+diff --git a/google/email/google-email b/google/email/google-email
+deleted file mode 120000
+index 292af47ee0e7e9c23f808c17194d2473289082c7..0000000000000000000000000000000000000000
+--- a/google/email/google-email
++++ /dev/null
+@@ -1 +0,0 @@
+-../../google/email
+\ No newline at end of file
