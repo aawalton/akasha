@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-apply/inference-apply.command.ts b/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
+index 65107bf013812d8301f7c24622fb00dc11efb558..0305b5acb168ecb7065ebd04d88f82553609d459 100644
+--- a/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
++++ b/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
+@@ -17,7 +17,7 @@ export const inferenceApply = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What is applied is what the registry declares.",
++      statement: "The services applied are the services the registry declares.",
+     },
+     {
+       invariantKind: "departure",
