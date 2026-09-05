@@ -871,3 +871,11 @@ index 91439c4b21445056a68fd29f7e37f07282fc9b63..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-companions-ui
 \ No newline at end of file
+diff --git a/temper/temper-completion-import/temper-completion-import b/temper/temper-completion-import/temper-completion-import
+deleted file mode 120000
+index ec5ab16f7eb4f6822faece11ad751e7971ff86e9..0000000000000000000000000000000000000000
+--- a/temper/temper-completion-import/temper-completion-import
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-completion-import
+\ No newline at end of file
