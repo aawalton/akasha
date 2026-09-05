@@ -11,6 +11,8 @@ export const aranyaClusterCleanup = {
     "The inference family takes a top-level folder of its own rather than a home under cluster/.",
     "A path inside a container is left as it is; only this machine's own scratch paths move to /var/tmp.",
     "What builds Kubernetes resources is named by a page type rather than by a file name suffix.",
+    "Each manifest code file has a page of its own rather than being named by a path.",
+    "A cluster service page sits under the domain it serves, and a folder is made where none is there.",
   ],
   intents: [
     {
