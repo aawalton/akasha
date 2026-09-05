@@ -24,7 +24,7 @@ export const monarchCategory = {
     {
       invariantKind: "departure",
       statement:
-        "A category is partly a choice about which budget the money should land in rather than only a fact about what was bought.",
+        "A category is partly a choice of budget rather than only a fact about the purchase.",
     },
     {
       invariantKind: "departure",
