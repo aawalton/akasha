@@ -28,8 +28,7 @@ export const monarchEvalPopulation = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The draw within a stratum is ordered by a salted hash rather than by chance, so a run can be repeated.",
+      statement: "The draw within a stratum is ordered by a salted hash rather than by chance.",
     },
     {
       invariantKind: "departure",
