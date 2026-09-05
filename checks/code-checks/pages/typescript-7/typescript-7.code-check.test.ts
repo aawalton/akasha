@@ -15,6 +15,14 @@ const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const sa
 
 const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
 
+const MADE_AT = "akasha/made/reader.ts"
+
+const BESIDE_AT = "akasha/made/held.ts"
+
+const READS_BESIDE = 'import { held } from "./held.ts"\n\nexport const reader = held\n'
+
+const BESIDE = "export const held = 1\n"
+
 afterAll(scratch.sweep)
 
 async function judged(one: Change): Promise<readonly Judged[]> {
@@ -72,5 +80,12 @@ describe("what this compiler finds in a change", () => {
 
   test("a body the change leaves whole is refused for nothing", async () => {
     expect(await judged(change(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
+  })
+
+  test("a body reaching one beside it in a folder the change makes is refused for nothing", async () => {
+    const said = await judged(
+      change(generating({}), { [MADE_AT]: READS_BESIDE, [BESIDE_AT]: BESIDE })
+    )
+    expect(said).toEqual([])
   })
 })

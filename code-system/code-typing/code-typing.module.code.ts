@@ -102,7 +102,7 @@ export function servedOf(root: string, at: string): string | null {
   return insideOf(root, real) ?? manifestOf(root, real)
 }
 
-function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
+export function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
   const held = new Set<string>()
   for (const one of every) {
     let at = dirname(join(root, one))

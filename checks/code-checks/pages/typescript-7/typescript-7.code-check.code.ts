@@ -1,6 +1,6 @@
 import { readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { servedOf } from "@akasha/code-system/code-typing"
+import { directoriesIn, servedOf } from "@akasha/code-system/code-typing"
 import { waitingKeys } from "@akasha/indexes/generated-properties"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
@@ -78,6 +78,14 @@ export function existingOf(
   }
 }
 
+export function foldersIn(
+  root: string,
+  named: readonly string[]
+): (name: string) => boolean | undefined {
+  const held = directoriesIn(root, named)
+  return (name) => (held.has(resolve(name)) ? true : undefined)
+}
+
 export function foundOf(root: string, said: Diagnosed): Found {
   const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName))
   const line = (said.startPosition?.line ?? 0) + FIRST_LINE
@@ -105,7 +113,11 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly 
   const readFile = servingOf(root, at, config, read)
   const api = new API({
     cwd: root,
-    fs: { readFile, fileExists: existingOf(readFile) },
+    fs: {
+      readFile,
+      fileExists: existingOf(readFile),
+      directoryExists: foldersIn(root, named),
+    },
   })
   try {
     const snapshot = await api.updateSnapshot({ openProjects: [at] })
