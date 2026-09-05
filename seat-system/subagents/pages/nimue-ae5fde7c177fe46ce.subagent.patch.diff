@@ -47,56 +47,6 @@ index ea004ed027a82ed379653d7dd1772383344b6c11..01f7a84be28c5b0dda2094b70b4396f3
    expect(index.typeSlugById(HELD_ID)).toEqual(typeSlugById(reading, HELD_ID))
    expect(index.typeSlugOf(HELD_ID)).toEqual(typeSlugOf(reading, HELD_ID))
  })
-diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
-index 414d84227e14dcc24f777636bda2444cad086f2a..92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6 100644
---- a/pages/indexes/reading/index-reading.module.code.ts
-+++ b/pages/indexes/reading/index-reading.module.code.ts
-@@ -1,5 +1,5 @@
- import { join } from "node:path"
--import { addressedIn, type PageAddress } from "@akasha/pages/page-address"
-+import { addressIn, type PageAddress } from "@akasha/pages/page-address"
- import { partedIn } from "@akasha/pages/page-file-name"
- import type { Value } from "@akasha/pages/page-value"
- import { indexIdentity } from "../identity/index-identity.index.ts"
-@@ -205,14 +205,32 @@ function carriesNo(slug: string): string {
-   return `no page property carries the slug \`${slug}\``
- }
- 
-+function among(slug: string, named: readonly string[]): string {
-+  return (
-+    `\`${slug}\` narrows to ${named.length} page properties and must name its page type — ` +
-+    [...named].sort().join(", ")
-+  )
-+}
-+
- function shapedIn(reading: Reading, named: string): Schemad {
--  const address = addressedIn(named)
--  if ("refused" in address) return { refused: address.refused }
--  if ("id" in address) {
--    return { refused: `\`${named}\` names a page by id, and a page property is named by its slug` }
-+  const address = addressIn(named)
-+  if (address.kind === "qualified") {
-+    const one = filedAt(reading, address.pageTypeSlug, address.slug)
-+    return one === null ? { refused: carriesNo(address.slug) } : { schema: one }
-+  }
-+  const slug = address.kind === "id" ? address.id : address.slug
-+  const found: Schema[] = []
-+  const qualified: string[] = []
-+  for (const shape of reading.listing(SCHEMA_UNDER)) {
-+    if (!shape.directory) continue
-+    const held = filedAt(reading, shape.name, slug)
-+    if (held === null) continue
-+    found.push(held)
-+    qualified.push(`${shape.name}/${slug}`)
-   }
--  const one = filedAt(reading, address.pageTypeSlug, address.value)
--  return one === null ? { refused: carriesNo(address.value) } : { schema: one }
-+  const one = found[0]
-+  if (found.length === 1 && one !== undefined) return { schema: one }
-+  return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
- }
- 
- export function schemaOf(given: string | Reading, named: string): Schemad {
 diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
 index 93fdfa9bd3e98031a10443415d499ff0cb63c4e7..91006b53e032cae31e5ba55b7b5cc87f2ea59494 100644
 --- a/pages/indexes/reading/index-reading.module.test.ts
