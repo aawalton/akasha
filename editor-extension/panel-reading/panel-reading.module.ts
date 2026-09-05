@@ -10,7 +10,7 @@ export const panelReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is activated is the extension rather than a model of that extension.",
+      statement: "The extension is activated rather than a model of that extension.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const panelReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What is read is the row the editor would draw.",
+      statement: "The reading is the row the editor would draw.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const panelReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what was drawn.",
+      statement: "Nothing here judges the rows drawn.",
     },
   ],
 } as const satisfies Module
