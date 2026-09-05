@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+index 572171cdf4fa94fc995e7d60e31d354d4e4cadb4..5046d1f027c95f67eeb8b3cde3643a279965f9a2 100644
+--- a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
++++ b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+@@ -48,7 +48,7 @@ export const inferenceVideoQa = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The answer is what the model said.",
++      statement: "The answer is the model's words.",
+     },
+     {
+       invariantKind: "departure",
