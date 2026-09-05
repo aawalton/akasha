@@ -43,7 +43,7 @@ export const changeTabooTerms = {
     {
       invariantKind: "departure",
       statement:
-        "What is owed for a term found only in the split copy says the term is inside a camelCase name.",
+        "The text owed for a term found only in the split copy says the term is inside a camelCase name.",
     },
     {
       invariantKind: "absence",
@@ -75,21 +75,21 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
-      statement: "What is owed names every sense the term bars and what is written instead.",
+      statement: "The text owed names every sense the term bars and the wording written instead.",
     },
     {
       invariantKind: "departure",
-      statement: "What is owed names every sense the term keeps as well.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "What is owed says of each list whether the list is what the term keeps or what the term bars.",
+      statement: "The text owed names every sense the term keeps as well.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What is owed for a term naming no kept sense names only the senses the term bars.",
+        "The text owed says of each list whether the list holds kept senses or barred senses.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The text owed for a term naming no kept sense names only the senses the term bars.",
     },
     {
       invariantKind: "departure",
