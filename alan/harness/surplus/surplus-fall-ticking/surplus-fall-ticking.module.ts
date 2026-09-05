@@ -16,7 +16,7 @@ export const surplusFallTicking = {
     },
     {
       invariantKind: "departure",
-      statement: "What was already said today is read off the notifications already sent.",
+      statement: "The rungs already said today are read off the notifications already sent.",
     },
     {
       invariantKind: "departure",
