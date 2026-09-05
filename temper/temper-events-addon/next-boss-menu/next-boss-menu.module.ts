@@ -9,7 +9,8 @@ export const nextBossMenu = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A setting takes effect the moment it changes rather than on the next reload.",
+      statement:
+        "A setting takes effect the moment that setting changes rather than on the next reload.",
     },
     {
       invariantKind: "departure",
