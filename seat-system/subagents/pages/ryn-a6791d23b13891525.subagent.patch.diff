@@ -28,6 +28,38 @@ index ad41983b85646995f4fc6ed70ba68e0b4eca75c9..181c0e5fa5770e932c239b9565d7a51d
      {
        invariantKind: "departure",
        statement: "No account left to choose is answered rather than rebound.",
+diff --git a/alan/harness/monarch/categorize/monarch-categorize.module.ts b/alan/harness/monarch/categorize/monarch-categorize.module.ts
+index 83d7052949cca42f16d70bc35397096c17b5502d..ca4cb59ffe2b18258c97b9f7dcba913731c6a5fc 100644
+--- a/alan/harness/monarch/categorize/monarch-categorize.module.ts
++++ b/alan/harness/monarch/categorize/monarch-categorize.module.ts
+@@ -7,11 +7,6 @@ export const monarchCategorize = {
+   definition: "a category set on one transaction, in Monarch and in our copy alike",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Only a single transaction update is posted back, and Monarch's own rules engine is never written to.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A category Monarch takes and reports nothing back for is refused.",
+diff --git a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+index c4e47a5b0f4a219fa4fdb3d5ebb933ce6ce3e5d0..88c2d0cd5f9e86e99715d8c30cba63d273d0f279 100644
+--- a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
++++ b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+@@ -7,11 +7,6 @@ export const monarchNotesWrite = {
+   definition: "the note and the tags written back onto a Monarch transaction",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Only a single transaction update is posted back, and Monarch's own rules engine is never written to.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
 diff --git a/command-system/commands/edit/edit.command.ts b/command-system/commands/edit/edit.command.ts
 index c27f9c27c7bdd8a56eb66af00c91173b91acdfce..86ebfd0e32d2f07138148e8d50a37d987f697980 100644
 --- a/command-system/commands/edit/edit.command.ts
