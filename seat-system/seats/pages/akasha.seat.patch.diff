@@ -1,0 +1,31 @@
+diff --git a/domains/initiatives/pages/akasha-folder-shape.initiative.ts b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+index d189c839bfe3f6c5a46426f6af10ce763f8c8e10..a954fd6f654e208ea0e6b33c5e699819b36a58ae 100644
+--- a/domains/initiatives/pages/akasha-folder-shape.initiative.ts
++++ b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+@@ -7,6 +7,26 @@ export const akashaFolderShape = {
+   domainSlug: "domain/akasha",
+   personaSlug: "akasha",
+   intents: [
++    {
++      statement: "Each page address kind holds the code that finds its page.",
++      workingMemory:
++        "`page-address-kind` extends `page-type/module`, as `folder-shape`, `name-format`, `syntax-rule`, `code-check`, `command`, `agent-hook` and `index` do. The address module dispatches and holds the union, so a kind missing its resolver fails to compile rather than falling into another kind's else. `reaching.module.code.ts:1` and `index-reading.module.code.ts:2` import `addressIn` today, so the parse leaves the index before the resolver enters the module.",
++    },
++    {
++      statement: "Every relation value in akasha is a page address of one of the three kinds.",
++      workingMemory:
++        "27651 entries over 26133 pages: 21756 bare across 510 values, 5895 qualified, 0 mixed, 0 dangling. Slug alone leaves 107 values ambiguous over 14349 occurrences; the declaring property's target page type settles 106, and `topic-part-of-slugs` settles `profile`. 31 page types carry bare entries, `story-chapter-read` 13607 of them. Parse arrays rather than lines: 2593 occurrences and 16 values are in multi-entry or wrapped arrays, and about 620 page objects are indented four.",
++    },
++    {
++      statement: "A page unique only within its parent declares `unique: part-of`.",
++      workingMemory:
++        "No live property declares the reach. `scopesFor` handles it and `partingIn`/`partingOver` compute a page's parents, but no scope folder is on disk. `a-new-unique-property-costs-the-gate-minutes` measured 578s and 1803s of CPU for one new key, killed unfinished, against 13607 `story-chapter-read` pages. A part-of scope is a parent slug alone, and 81 of those name both a `world` and a `story-read`, so a parent is named by an address rather than a value.",
++    },
++    {
++      statement: "No relation value lands that akasha cannot key to one page.",
++      workingMemory:
++        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. `akasha replace` and `akasha remove` land as `change-mechanical` and are judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
++    },
+     {
+       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
+       workingMemory:
