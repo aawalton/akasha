@@ -1,0 +1,23 @@
+diff --git a/collection-system/sync-runs/sync-run.page-type.ts b/collection-system/sync-runs/sync-run.page-type.ts
+index 664925734f8b84f4f5685bbe05d990e8f023d320..3cf7880a41062c6c702e322ad17463a655e98c68 100644
+--- a/collection-system/sync-runs/sync-run.page-type.ts
++++ b/collection-system/sync-runs/sync-run.page-type.ts
+@@ -9,6 +9,18 @@ export const syncRun = {
+   slug: "sync-run",
+   definition: "one pull from one outside place",
+   pluralSlug: "sync-runs",
++  partSlugs: [
++    "instant-property/run-completed-at",
++    "instant-property/run-started-at",
++    "number-property/created-count",
++    "number-property/duration-ms",
++    "number-property/failed-count",
++    "number-property/run-seq",
++    "number-property/skipped-count",
++    "number-property/updated-count",
++    "select-property/run-status",
++    "text-property/run-error-message",
++  ],
+   extendsSlug: ["page-type/page"],
+   invariants: [
+     {
