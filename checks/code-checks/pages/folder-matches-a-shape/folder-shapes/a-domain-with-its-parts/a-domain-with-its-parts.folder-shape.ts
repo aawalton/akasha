@@ -19,7 +19,7 @@ export const aDomainWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder is named what that page calls its folder.",
+      statement: "The folder takes the name that page gives its folder.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const aDomainWithItsParts = {
     },
     {
       invariantKind: "absence",
-      statement: "What a part holds is judged where that part is judged.",
+      statement: "The files a part holds are judged where that part is judged.",
     },
   ],
 } as const satisfies FolderShape
