@@ -13,7 +13,7 @@ export const imagePath = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path already absolute is read as it is rather than against a root.",
+      statement: "A path already absolute is read as that path is rather than against a root.",
     },
     {
       invariantKind: "departure",
