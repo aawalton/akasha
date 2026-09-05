@@ -65,3 +65,25 @@ index e1482be9a4cba42285a0c40f7366b90a1665f60a..dc3676cfd96dcd8b6e082008b77aee93
 +    expect(SEAT_RESUME).toBe(`"$_root/${SEAT_RESUME_REL}"`)
    })
  })
+diff --git a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.code.ts b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.code.ts
+index 6d905d6b408bbbf4b9bf3a96e1d019c8441d4afa..d5fb3f895a65509392d0135a03ec3eb41b58b2e0 100644
+--- a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.code.ts
++++ b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.code.ts
+@@ -16,6 +16,7 @@ import {
+   AKASHA,
+   PROXY,
+   ROOT_LOCAL,
++  SEAT_RESUME,
+   SEAT_START_DIR,
+   SUPERVISOR,
+ } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
+@@ -236,7 +237,8 @@ export function seatResumeFn(name: string): string {
+     ...handlerForPersonLines(name, false),
+     ...payloadEscapeLines(name),
+     "  local full_aid full_sid",
+-    "  IFS=$'\\t' read -r full_aid full_sid < <(ops seat resume \"$name\" --start-mode interactive --no-launch)",
++    "  IFS=$'\\t' read -r full_aid full_sid < <(" +
++      `bun run ${SEAT_RESUME} "$name" --start-mode interactive --no-launch)`,
+     '  if [ -z "$full_sid" ]; then',
+     `    if [ "$(${tmuxServerCountShell()})" -gt 1 ]; then`,
+     `      echo "${name}: more than one tmux server is running and this socket reaches only one ` +
