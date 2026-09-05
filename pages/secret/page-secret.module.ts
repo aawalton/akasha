@@ -38,7 +38,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "Landing the ciphertext is what parts a secret from an uncommitted value.",
+      statement: "Landing the ciphertext parts a secret from an uncommitted value.",
     },
     {
       invariantKind: "departure",
