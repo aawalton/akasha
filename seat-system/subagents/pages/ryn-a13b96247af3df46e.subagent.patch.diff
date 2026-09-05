@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-sets/lib-sets-debug-debug-set-scan/lib-sets-debug-debug-set-scan.module.ts b/temper/temper-lib-sets/lib-sets-debug-debug-set-scan/lib-sets-debug-debug-set-scan.module.ts
+index f68bb9136e8b15e73567c4ec3217455146c704ae..30f03ed7b11ecc8605cccc7c4d83ae2df6b53c6b 100644
+--- a/temper/temper-lib-sets/lib-sets-debug-debug-set-scan/lib-sets-debug-debug-set-scan.module.ts
++++ b/temper/temper-lib-sets/lib-sets-debug-debug-set-scan/lib-sets-debug-debug-set-scan.module.ts
+@@ -10,7 +10,7 @@ export const libSetsDebugDebugSetScan = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An item id is tried by building a link for it and asking the client for set info.",
++        "An item id is tried by building a link for that id and asking the client for set info.",
+     },
+     { invariantKind: "departure", statement: "Crafted items are skipped." },
+     {
