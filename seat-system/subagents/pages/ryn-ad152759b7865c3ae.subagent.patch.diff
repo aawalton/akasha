@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/import/index-import.index.ts b/pages/indexes/import/index-import.index.ts
+index 5df6231dd8bdc625022ed26c604dee0429e26f55..0cfde92a7f8b363fafea5039358bb298e976beb7 100644
+--- a/pages/indexes/import/index-import.index.ts
++++ b/pages/indexes/import/index-import.index.ts
+@@ -49,7 +49,8 @@ export const indexImport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An edge is filed for what the body says whether or not the file it names stands.",
++      statement:
++        "An edge is filed for what the body says whether or not the file that body names stands.",
+     },
+   ],
+ } as const satisfies Index
