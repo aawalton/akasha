@@ -38,7 +38,7 @@ export const anthropicErrorEnvelope = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a failure means.",
+      statement: "Nothing here decides the meaning of a failure.",
     },
     {
       invariantKind: "absence",
