@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/domains/plain-language/word-classing/word-classing.module.ts b/domains/plain-language/word-classing/word-classing.module.ts
-index 42c3deecddf491bb90fe9f1ba1e85f6a60459cd0..7d243deb35b9965f4c89bc0812506a82b68de650 100644
+index 42c3deecddf491bb90fe9f1ba1e85f6a60459cd0..a079c7c4f901401e7b3b480b5d412685470b0a53 100644
 --- a/domains/plain-language/word-classing/word-classing.module.ts
 +++ b/domains/plain-language/word-classing/word-classing.module.ts
-@@ -22,7 +22,7 @@ export const wordClassing = {
+@@ -22,11 +22,11 @@ export const wordClassing = {
      {
        invariantKind: "departure",
        statement:
 -        "A pronoun naming what sits outside its sentence is classed apart from one naming what sits inside.",
 +        "A pronoun naming a thing outside its sentence is classed apart from one naming a thing inside.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relativizer naming what that relativizer refers to is a noun as well.",
++      statement: "A relativizer naming the thing that relativizer refers to is a noun as well.",
      },
      {
        invariantKind: "departure",
