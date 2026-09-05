@@ -9,7 +9,7 @@ export const emailUnsubscribe = {
   changeKindSlug: "change-none",
   taking: [
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
+    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
   ],
   helpNotes: [
     "the route is the message's own List-Unsubscribe and List-Unsubscribe-Post headers and nothing else.",

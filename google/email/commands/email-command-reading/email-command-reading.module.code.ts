@@ -133,7 +133,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
   const first = words[0]
   if (first !== undefined) {
     if (named === undefined) {
-      refusals.push(`\`${first}\` follows this command, which takes no word standing on its own`)
+      refusals.push(`\`${first}\` follows this command, which takes no word on its own`)
     } else if (one[named] !== undefined) {
       refusals.push(`what \`${named}\` names is said both as \`${first}\` and at \`${named}\``)
     } else {

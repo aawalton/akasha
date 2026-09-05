@@ -9,7 +9,7 @@ export const emailMessagesModifyLabels = {
   changeKindSlug: "change-none",
   taking: [
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
+    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
     { said: "--add <label-id>", takes: "a label id to put on it, said again for each" },
     { said: "--remove <label-id>", takes: "a label id to take off it, said again for each" },
   ],

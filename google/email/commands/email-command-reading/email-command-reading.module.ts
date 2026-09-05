@@ -22,7 +22,7 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A word standing alone fills the flag the command names for it.",
+      statement: "A word alone fills the flag the command names for it.",
     },
     {
       invariantKind: "departure",

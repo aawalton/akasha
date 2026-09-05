@@ -9,7 +9,7 @@ export const emailAttachmentsGet = {
   changeKindSlug: "change-none",
   taking: [
     { said: "<id>", takes: "the message the attachment hangs off, said as Gmail's own id" },
-    { said: "--message <id>", takes: "that message, where no id stands after the command" },
+    { said: "--message <id>", takes: "that message, where no id follows the command" },
     { said: "--attachment-id <id>", takes: "which attachment of that message to fetch" },
   ],
   helpNotes: [

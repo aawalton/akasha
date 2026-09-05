@@ -33,7 +33,7 @@ function givenAt(root: string): Given {
 
 const TTY = () => ({ tty: true }) as const
 
-test("a word standing alone fills the flag the command names for it", () => {
+test("a word alone fills the flag the command names for it", () => {
   expect(readTaking(["18c1f2a3"], NAMING)).toEqual({ one: { [MESSAGE]: "18c1f2a3" }, many: {} })
 })
 
@@ -41,12 +41,12 @@ test("the flag and the word name the same thing, so saying both is refused", () 
   expect(refusedIn(["18c1f2a3", MESSAGE, "other"], NAMING)).toContain("said both as")
 })
 
-test("a second word standing alone is refused rather than passed over", () => {
+test("a second word alone is refused rather than passed over", () => {
   expect(refusedIn(["one", "two"], NAMING)).toContain("one call names one of these")
 })
 
-test("a word standing alone is refused where the command names no flag for one", () => {
-  expect(refusedIn(["one"], COUNTING)).toContain("takes no word standing on its own")
+test("a word alone is refused where the command names no flag for one", () => {
+  expect(refusedIn(["one"], COUNTING)).toContain("takes no word on its own")
 })
 
 test("a flag the command does not take is refused, and the ones it takes are named", () => {

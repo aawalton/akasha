@@ -9,7 +9,7 @@ export const emailAttachmentsList = {
   changeKindSlug: "change-none",
   taking: [
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
+    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
   ],
   helpNotes: [
     "each attachment is named with its filename, its type, its size and the id its bytes are fetched by.",
