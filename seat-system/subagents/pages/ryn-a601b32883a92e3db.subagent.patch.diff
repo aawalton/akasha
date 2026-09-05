@@ -1,5 +1,5 @@
 diff --git a/mobile-commands/mobile-answering/mobile-answering.module.ts b/mobile-commands/mobile-answering/mobile-answering.module.ts
-index 11a90da26d1b8b1083c73cb6cbc02587d5b78b73..de8637323d46dbe9d6a9764d5d41b80510be35d4 100644
+index 11a90da26d1b8b1083c73cb6cbc02587d5b78b73..75ef1929d90bb9af9198b64920ba0e55ac8c7ea1 100644
 --- a/mobile-commands/mobile-answering/mobile-answering.module.ts
 +++ b/mobile-commands/mobile-answering/mobile-answering.module.ts
 @@ -9,7 +9,7 @@ export const mobileAnswering = {
@@ -8,6 +8,15 @@ index 11a90da26d1b8b1083c73cb6cbc02587d5b78b73..de8637323d46dbe9d6a9764d5d41b805
        invariantKind: "departure",
 -      statement: "A flag naming a value takes the word after it.",
 +      statement: "A flag naming a value takes the word after that flag.",
+     },
+     {
+       invariantKind: "departure",
+@@ -25,7 +25,7 @@ export const mobileAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A bare word represents the flag a command says it represents.",
++      statement: "A bare word represents the flag a command says that bare word represents.",
      },
      {
        invariantKind: "departure",
