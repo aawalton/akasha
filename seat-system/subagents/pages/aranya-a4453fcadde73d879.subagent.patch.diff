@@ -161,18 +161,14 @@ index 48132fcf4360e5251219f58e013938e6a7ba5df3..00000000000000000000000000000000
 -  return [{ name: "prune-cronjob", yaml: pruneCronjobYaml() }]
 -}
 diff --git a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
-index 357c9e8b7970020e410e1b5da7758769ae82d43b..8214ef638ddcf911af6c51c761baa9f527c6b146 100644
+index 357c9e8b7970020e410e1b5da7758769ae82d43b..0d66875be0774de8c8bb28041aee049ebfb5fa62 100644
 --- a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
 +++ b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
-@@ -10,6 +10,9 @@ export const buildkitPrune = {
+@@ -10,6 +10,5 @@ export const buildkitPrune = {
    resourceName: "buildkit-prune",
    image: "moby/buildkit:v0.28.0",
    schedule: "0 4 * * 0",
 -  manifestCode:
 -    "service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "buildkit-prune",
-+=======
-+  manifestCode: "infrastructure/container-image/buildkit-prune/buildkit-prune.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
