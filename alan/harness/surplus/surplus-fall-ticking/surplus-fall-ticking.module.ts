@@ -11,7 +11,8 @@ export const surplusFallTicking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rung is said only where it is worse than the worst rung already said today.",
+      statement:
+        "A rung is said only where that rung is worse than the worst rung already said today.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +46,7 @@ export const surplusFallTicking = {
     {
       invariantKind: "departure",
       statement:
-        "A tick still working at the ceiling ends rather than letting a second begin beside it.",
+        "A tick still working at the ceiling ends rather than letting a second begin beside that tick.",
     },
     {
       invariantKind: "constraint",
