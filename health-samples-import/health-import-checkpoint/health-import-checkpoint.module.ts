@@ -9,7 +9,7 @@ export const healthImportCheckpoint = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checkpoint is keyed by what was imported rather than by when.",
+      statement: "A checkpoint is keyed by the readings imported rather than by when.",
     },
     {
       invariantKind: "departure",
