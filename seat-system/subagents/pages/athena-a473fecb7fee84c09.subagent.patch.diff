@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts b/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts
-index b8c7dcb4bff7b2310d5e909a563a39831ce60eff..946871d655f4c3c8ad7cbd26155ba1cacc7f508a 100644
+index b8c7dcb4bff7b2310d5e909a563a39831ce60eff..7173490318bdc763c5144faaaa40d20e5d031cb0 100644
 --- a/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts
 +++ b/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts
 @@ -24,14 +24,20 @@ export const SINGLE_FLIGHT_FLOCK_SH = [
@@ -26,3 +26,11 @@ index b8c7dcb4bff7b2310d5e909a563a39831ce60eff..946871d655f4c3c8ad7cbd26155ba1ca
    "fi",
    ': > "$1"',
  ].join("\n")
+@@ -58,6 +64,7 @@ export const defaultRunInstall: SelfHealRunInstall = async (version) => {
+       SINGLE_FLIGHT_INSTALL_SCRIPT,
+       "bash",
+       sentinelPath,
++      verifyWorkspaceBinsAt(),
+     ],
+     cwd: REPO_ROOT,
+     stdout: "pipe",
