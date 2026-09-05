@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/changes/change.domain.ts b/changes/change.domain.ts
+index 4de1f21f479614454cc5f68daf2a0b6370d89bd3..3d95490f96f550a93c30c6ba028a6d48eb367eb8 100644
+--- a/changes/change.domain.ts
++++ b/changes/change.domain.ts
+@@ -32,7 +32,7 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is handed to a command that lands is its change kind rather than a boolean.",
++      statement: "A command that lands is handed its change kind rather than a boolean.",
+     },
+   ],
+   directives: [
