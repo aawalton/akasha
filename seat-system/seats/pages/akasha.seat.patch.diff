@@ -27,3 +27,15 @@ index 0fbae564832ac2e253fb98de8273d4cf4fe88f95..82376939c24a2de51ec5d78c7205dfdd
      sourceIn: () => sourceIn(reading, pageOf),
      typeSlugById: (id) => typeSlugById(reading, id),
      typeSlugOf: (id) => typeSlugOf(reading, id),
+diff --git a/pages/indexes/answering/index-answering.module.test.ts b/pages/indexes/answering/index-answering.module.test.ts
+index 01f7a84be28c5b0dda2094b70b4396f39f4161c5..317e7429b7348107f9f5669bf03f0c4154a3c37f 100644
+--- a/pages/indexes/answering/index-answering.module.test.ts
++++ b/pages/indexes/answering/index-answering.module.test.ts
+@@ -23,7 +23,6 @@ import {
+   listedNamed,
+   namersOf,
+   readingIn,
+-  schemaOf,
+   typeSlugById,
+   typeSlugOf,
+ } from "../reading/index-reading.module.code.ts"
