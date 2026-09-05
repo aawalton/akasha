@@ -1,0 +1,14 @@
+diff --git a/temper/temper-game-catalog-capture-host/achievement-catalog-schema/achievement-catalog-schema.module.ts b/temper/temper-game-catalog-capture-host/achievement-catalog-schema/achievement-catalog-schema.module.ts
+index f16f7d1008f4d6a6c677ab8a32488f031357c5ea..94a5e74df81d694e6f070bc08eaec67427776963 100644
+--- a/temper/temper-game-catalog-capture-host/achievement-catalog-schema/achievement-catalog-schema.module.ts
++++ b/temper/temper-game-catalog-capture-host/achievement-catalog-schema/achievement-catalog-schema.module.ts
+@@ -19,9 +19,5 @@ export const achievementCatalogSchema = {
+       invariantKind: "departure",
+       statement: "An entry says whether the achievement is earned per character.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
+-    },
+   ],
+ } as const satisfies Module
