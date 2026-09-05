@@ -56,7 +56,7 @@ export const modelRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what makes a statement bad.",
+      statement: "Nothing here says why a statement is bad.",
     },
     {
       invariantKind: "stopgap",
