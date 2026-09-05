@@ -1,0 +1,14 @@
+diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
+index 2300742304975338d50881aa5a82633c1e80e3cb..dac373dd018eced970d91e257793aaefc33f5e31 100644
+--- a/pages/computed-properties/computed-property.page-type.ts
++++ b/pages/computed-properties/computed-property.page-type.ts
+@@ -75,5 +75,9 @@ export const computedProperty = {
+       invariantKind: "departure",
+       statement: "A calculation answering absent puts no key in the row.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "No calculation is written as an expression the system parses.",
++    },
+   ],
+ } as const satisfies PageType
