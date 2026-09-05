@@ -14,11 +14,11 @@ export const openShells = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A background command is named by the task the transcript gives it.",
+      statement: "A background command is named by the task the transcript gives that command.",
     },
     {
       invariantKind: "departure",
-      statement: "A command is listed until the notification naming it is read.",
+      statement: "A command is listed until the notification naming that command is read.",
     },
   ],
 } as const satisfies TextProperty
