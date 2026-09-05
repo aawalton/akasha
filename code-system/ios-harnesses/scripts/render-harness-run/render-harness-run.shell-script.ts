@@ -14,7 +14,7 @@ export const renderHarnessRun = {
     },
     {
       invariantKind: "departure",
-      statement: "The mac leg compiles what was sent to the mac leg rather than reading akasha.",
+      statement: "The mac leg compiles the Swift sent to the mac leg rather than reading akasha.",
     },
   ],
 } as const satisfies ShellScript
