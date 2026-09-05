@@ -1,31 +1,31 @@
 diff --git a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-index 1a3f75452bf998ae1c6becaf6a4a92764e37cc56..5660aefc9a0723d8aabb8136a5f9dbc8db7ded5c 100644
+index bc3ffae662cb4d1133f7e400d823c641b90412ee..65d92f24ef1704dd4f1b88c1a7cab165546815b3 100644
 --- a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-@@ -7,7 +7,7 @@ index 81baa6403000b2d4655ec711dccd4e72a7fa53b4..7ec558871f490b48878b3bbd71830670
+@@ -19,7 +19,12 @@ index 81baa6403000b2d4655ec711dccd4e72a7fa53b4..0fd74e67fd6d81d70fbc9dcaaceb93b3
+    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
     replicas: 1,
     containerPort: 3000,
- -  manifestCode:
---    "smilingjenny/smilingjenny-web/smilingjenny-web.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
++-  manifestCode:
 +-    "smilingjenny/smilingjenny-web/manifests/smilingjenny-web-manifests.manifest.code.ts",
++=======
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "smilingjenny-web-manifests",
-  } as const satisfies ClusterService
- diff --git a/smilingjenny/smilingjenny-web/tsconfig.json b/smilingjenny/smilingjenny-web/tsconfig.json
+ +=======
+    manifestCode:
 diff --git a/service-system/cluster-services/pages/smilingjenny-web.cluster-service.ts b/service-system/cluster-services/pages/smilingjenny-web.cluster-service.ts
-index 81baa6403000b2d4655ec711dccd4e72a7fa53b4..0fd74e67fd6d81d70fbc9dcaaceb93b3c66e7580 100644
+index 81baa6403000b2d4655ec711dccd4e72a7fa53b4..7ec558871f490b48878b3bbd71830670e5683e75 100644
 --- a/service-system/cluster-services/pages/smilingjenny-web.cluster-service.ts
 +++ b/service-system/cluster-services/pages/smilingjenny-web.cluster-service.ts
-@@ -11,6 +11,10 @@ export const smilingjennyWeb = {
+@@ -11,6 +11,5 @@ export const smilingjennyWeb = {
    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
    replicas: 1,
    containerPort: 3000,
-+<<<<<<< what this change would leave
-+  manifestSlug: "smilingjenny-web-manifests",
-+=======
-   manifestCode:
+-  manifestCode:
 -    "smilingjenny/smilingjenny-web/smilingjenny-web.cluster-service.code.attachment.ts",
-+    "smilingjenny/smilingjenny-web/manifests/smilingjenny-web-manifests.manifest.code.ts",
-+>>>>>>> what HEAD holds
++  manifestSlug: "smilingjenny-web-manifests",
  } as const satisfies ClusterService
 diff --git a/smilingjenny/smilingjenny-web/manifests/smilingjenny-web-manifests.manifest.code.ts b/smilingjenny/smilingjenny-web/manifests/smilingjenny-web-manifests.manifest.code.ts
 new file mode 100644
