@@ -44,7 +44,7 @@ export const temperEsoGenerateBaseGameGlobals = {
     },
     {
       invariantKind: "departure",
-      statement: "The census is written as numbered runs with an aggregate composing them.",
+      statement: "The census is written as numbered runs with an aggregate composing those runs.",
     },
     {
       invariantKind: "departure",
