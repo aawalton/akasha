@@ -55,10 +55,6 @@ export const longBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A line the answer has no room for is refused rather than divided.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A refusal for a line too wide names that line and its bytes.",
     },
     {
