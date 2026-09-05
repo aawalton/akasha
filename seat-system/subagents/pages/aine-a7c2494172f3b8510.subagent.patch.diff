@@ -1,0 +1,28 @@
+diff --git a/markdown-pages/markdown-deriver-hold/markdown-deriver-hold.module.code.ts b/markdown-pages/markdown-deriver-hold/markdown-deriver-hold.module.code.ts
+index 45138866f557d409cd6b39163e6c9f720e5aa061..7035d08f5e4d372a1a3faf32dc5412ef3ef8ba8b 100644
+--- a/markdown-pages/markdown-deriver-hold/markdown-deriver-hold.module.code.ts
++++ b/markdown-pages/markdown-deriver-hold/markdown-deriver-hold.module.code.ts
+@@ -24,8 +24,8 @@ function memoRows(derive: Deriver): Deriver {
+   return {
+     ...derive,
+     rows: (pageType: string): Iterable<Row> | null => {
+-      const stood = rowed.get(pageType)
+-      if (stood !== undefined) return stood
++      const kept = rowed.get(pageType)
++      if (kept !== undefined) return kept
+       const got = derive.rows(pageType)
+       rowed.set(pageType, got)
+       return got
+diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
+index dafa98193db444268db4c3a3e614155b7776f99a..ffdb750aa7e6a29089e18bc1ef5acdfc15a7baf7 100644
+--- a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
++++ b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
+@@ -113,7 +113,7 @@ function suffixedIn(root: string): ReadonlyMap<string, readonly string[]> {
+ }
+ 
+ // `_repo` is unread. It named the repository the page index was to be asked for, and there is no
+-// index to ask — every scan now walks the disk under `root`. The argument stands because the caller
++// index to ask — every scan now walks the disk under `root`. The argument remains because the caller
+ // still knows which repository the root is, and the reader that will want it again is being written.
+ export function scanIn(
+   root: string,
