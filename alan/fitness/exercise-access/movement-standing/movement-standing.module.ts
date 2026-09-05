@@ -10,7 +10,7 @@ export const movementStanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A movement is named once however many sets it has.",
+      statement: "A movement is named once however many sets that movement has.",
     },
     {
       invariantKind: "departure",
@@ -19,12 +19,12 @@ export const movementStanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement with no exercise page behind it is named by its slug.",
+      statement: "A movement with no exercise page behind that movement is named by its slug.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A set carries the day of the session it was logged in rather than a day of its own.",
+        "A set carries the day of the session that set was logged in rather than a day of its own.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,8 @@ export const movementStanding = {
     },
     {
       invariantKind: "gap",
-      statement: "A set states no time it was logged, so its sets are ordered by their names.",
+      statement:
+        "A set states no time that set was logged, so its sets are ordered by their names.",
     },
   ],
 } as const satisfies Module
