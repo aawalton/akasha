@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/bun-calls/bun-calls.module.ts b/hook-system/bun-calls/bun-calls.module.ts
+index c7cc2c4792208c09b2c11f862eb28307aa1e0ae4..9351630cc5956f0c3eddd8ff4d7fd308f0ef26f7 100644
+--- a/hook-system/bun-calls/bun-calls.module.ts
++++ b/hook-system/bun-calls/bun-calls.module.ts
+@@ -22,7 +22,7 @@ export const bunCalls = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What follows the act is returned unread.",
++      statement: "The words after the act are returned unread.",
+     },
+     {
+       invariantKind: "departure",
