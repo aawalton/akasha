@@ -1,0 +1,16 @@
+diff --git a/infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.ts b/infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0ddea9369ca2831708d1a12b0e6959be7655088c
+--- /dev/null
++++ b/infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const seaweedfsFiler = {
++  id: "01a0737c-e503-77ed-b17f-c0edbfbb06f4",
++  pageTypeSlug: "manifest",
++  slug: "seaweedfs-filer",
++  definition:
++    "the deployment giving the stored bytes their names and directories, and the way in to it",
++  code: "ts",
++} as const satisfies Manifest
