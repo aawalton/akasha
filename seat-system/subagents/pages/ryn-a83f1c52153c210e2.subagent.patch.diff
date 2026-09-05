@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-eso-typings/eso-token-scope/eso-token-scope.module.ts b/temper/temper-eso-typings/eso-token-scope/eso-token-scope.module.ts
+index 6b6ec9e793856dd6986a5e2ce6c92a5091b6d0d3..38da0f94d88d43dbb42513b18be9d300d7e9c888 100644
+--- a/temper/temper-eso-typings/eso-token-scope/eso-token-scope.module.ts
++++ b/temper/temper-eso-typings/eso-token-scope/eso-token-scope.module.ts
+@@ -30,7 +30,7 @@ export const esoTokenScope = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is taken keeps the order the dump described.",
++      statement: "The tokens taken keep the order the dump described.",
+     },
+   ],
+ } as const satisfies Module
