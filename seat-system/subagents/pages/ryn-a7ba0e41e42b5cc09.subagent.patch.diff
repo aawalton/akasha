@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.ts b/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.ts
+index 219694f16e44dfffc07f5b6caaa848360b81266f..1e727057d983476a288fe0dd755f90325f795327 100644
+--- a/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.ts
++++ b/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.ts
+@@ -35,7 +35,7 @@ export const temperCatalogStatus = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A domain is owed a collection where the request is newer than what the account last saw.",
++        "A domain is owed a collection where the request is newer than the collection the account last saw.",
+     },
+     {
+       invariantKind: "departure",
