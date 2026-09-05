@@ -12,7 +12,7 @@ index 31a86c10f053dbb840084cff342cce7aa534e679..92b6c3291e0e12d2c079821834d080e5
  function sinkNamed(node: ts.CallExpression): string | null {
    const called = node.expression
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
-index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..406d514a3212671ca006794c2db8bdacc0d0243c 100644
+index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..7e2121f9d8b07da41b0447da7f45f8a6cf4edad7 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
 @@ -33,17 +33,17 @@ test("waitForFunction hands text to the browser too", () => {
@@ -53,6 +53,15 @@ index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..406d514a3212671ca006794c2db8bdac
 +test("the line named is the line the call is on", () => {
    const said = noCredentialInScriptText(parsed("const one = 1\npage.evaluate(password)\n"))
    expect(said[0]?.line).toBe(2)
+ })
+@@ -74,7 +74,7 @@ test("two leaking calls are refused once each", () => {
+   expect(noCredentialInScriptText(parsed(text))).toHaveLength(2)
+ })
+ 
+-test("a credential is found however deep in the text it stands", () => {
++test("a credential is found however deep in the text it sits", () => {
+   const source = parsed("const one = [[{ held: passwd }]]\n").source
+   expect(credentialNamedIn(source)).toBe("passwd")
  })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts
 index f86dce4a7ddd9b8aebad714a1ad5c506ad7470e9..238d49f31b2e54aef333422ac0e9ca76c2900f8a 100644
