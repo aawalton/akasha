@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/wan/wan.command.ts b/command-system/commands/wan/wan.command.ts
+index b006924a8144744381ccd9d2bbeff8a4557b579a..04951cb793afffc1e1e9bc01bd56bdddbb728d99 100644
+--- a/command-system/commands/wan/wan.command.ts
++++ b/command-system/commands/wan/wan.command.ts
+@@ -101,10 +101,6 @@ export const wan = {
+       invariantKind: "departure",
+       statement: "An extend's whole length is four times a whole number plus one.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seed nothing named is drawn and recorded with the run.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The recipe a generate or an extend ran under is kept as an inference run.",
