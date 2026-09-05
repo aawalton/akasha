@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..69cf2bcf0ea828de576924f11ea5233fef9e248f 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..a24193238acf575ad907598607b6cfc6ce4cf89e 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -41,6 +41,15 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..69cf2bcf0ea828de576924f11ea5233f
        invariantKind: "departure",
 -      statement: "The bunfig.toml at the root is left out of what is handed over.",
 +      statement: "The bunfig.toml at the root is left out of the preloads handed over.",
+     },
+     {
+       invariantKind: "departure",
+@@ -64,7 +64,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What every run printed is read as one answer.",
++      statement: "The output every run printed is read as one answer.",
      },
      {
        invariantKind: "departure",
