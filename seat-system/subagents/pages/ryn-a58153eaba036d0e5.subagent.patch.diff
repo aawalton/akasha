@@ -140,6 +140,21 @@ index 9a19a2086c8aa3d2be92c819a8c59d5345f43479..793134fe2f0e4c9aecf82c919f7d6144
      {
        invariantKind: "absence",
        statement: "Nothing here cuts the text into pieces.",
+diff --git a/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts b/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts
+index 06f63614991ce7b726b3ee4b42ea6847d12277d0..154a5e3bd5eca812207bddc8667f437276e90a7a 100644
+--- a/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts
++++ b/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts
+@@ -32,10 +32,6 @@ export const attributeConstitution = {
+       statement:
+         "The window the entries are counted over is handed in rather than worked out here.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A day holding no food entry is a reading of zero rather than no reading.",
+-    },
+ 
+     {
+       invariantKind: "absence",
 diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
 index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
 --- a/story/chapters-played/story-chapter-played.page-type.ts
