@@ -1,3 +1,35 @@
+diff --git a/commands/audit/audit.command.test.ts b/commands/audit/audit.command.test.ts
+index 22a6ec4f8ae688fcc67c366e19c60a1b8356ad29..e0653a4e29c71b4e69d76d58e279ea97390664ec 100644
+--- a/commands/audit/audit.command.test.ts
++++ b/commands/audit/audit.command.test.ts
+@@ -61,7 +61,7 @@ test("checks finding nothing answer 0 and say how much was judged", async () =>
+   expect(said.report).toEqual(["2 checks judged 3 files, and none refused"])
+ })
+ 
+-test("what an audit finds is the data's fault, and stands as a refusal per path", async () => {
++test("what an audit finds is the data's fault, and is a refusal per path", async () => {
+   const found = [
+     { path: "akasha/one.ts", reason: "one thing" },
+     { path: "akasha/two.ts", reason: "another" },
+diff --git a/commands/claude-usage/claude-usage.command.test.ts b/commands/claude-usage/claude-usage.command.test.ts
+index 75cf32ee79f595efb3cd0d24565c94a04d0e5038..ac6990aefb56b9c6935dced231405d9555515a24 100644
+--- a/commands/claude-usage/claude-usage.command.test.ts
++++ b/commands/claude-usage/claude-usage.command.test.ts
+@@ -62,12 +62,12 @@ test("a fleet that reads answers one line and no refusal", () => {
+ 
+ test("a fleet that cannot be read is a throw carried out as a refusal", () => {
+   const said = answerFrom(() => {
+-    throw new Error("no claude-account page stands in akasha")
++    throw new Error("no claude-account page sits in akasha")
+   })
+ 
+   expect(said.code).toBe(3)
+   expect(said.report).toEqual([])
+-  expect(said.refusals[0]).toContain("no claude-account page stands in akasha")
++  expect(said.refusals[0]).toContain("no claude-account page sits in akasha")
+ })
+ 
+ test("the happy answer parses as the JSON the status bar reads", () => {
 diff --git a/commands/measure/measure.command.code.ts b/commands/measure/measure.command.code.ts
 index b21a89d06228ee63aff56e092dd648b50249ca33..1bb6c24d2cb1bb3eedcf658caac1994f3ff8e8a5 100644
 --- a/commands/measure/measure.command.code.ts
