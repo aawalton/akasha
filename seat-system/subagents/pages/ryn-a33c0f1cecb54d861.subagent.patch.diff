@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
-index 82e98862240e4008880eca617963c92a76e7a7a2..80c7a66c3dbb1b6aec997fa1f63eb163c43001db 100644
+index 82e98862240e4008880eca617963c92a76e7a7a2..b89af2292e61d8045ea3c46c03e197468c010e09 100644
 --- a/command-system/drafting/drafting.module.ts
 +++ b/command-system/drafting/drafting.module.ts
 @@ -154,11 +154,12 @@ export const drafting = {
@@ -36,13 +36,18 @@ index 82e98862240e4008880eca617963c92a76e7a7a2..80c7a66c3dbb1b6aec997fa1f63eb163
      },
      {
        invariantKind: "departure",
-@@ -239,7 +240,8 @@ export const drafting = {
+@@ -239,11 +240,12 @@ export const drafting = {
      },
      {
        invariantKind: "departure",
 -      statement: "A path taken out leaves the patch running what it ran.",
 +      statement:
 +        "A path taken out leaves the patch running the checks and warrants that patch ran.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A patch taken in runs what it ran and what the patch coming in ran.",
++      statement: "A patch taking another in runs the checks and warrants both patches ran.",
      },
      {
        invariantKind: "departure",
