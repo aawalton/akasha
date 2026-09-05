@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/proxy-serving/proxy-serving.module.ts b/agents/models/gateway/modules/proxy-serving/proxy-serving.module.ts
+index 85649582ffb23078e048cc1dd180dc048b19b6d2..0518b93fbc7511c55db95db18f521ebdf943ca62 100644
+--- a/agents/models/gateway/modules/proxy-serving/proxy-serving.module.ts
++++ b/agents/models/gateway/modules/proxy-serving/proxy-serving.module.ts
+@@ -23,7 +23,7 @@ export const proxyServing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A GET of `/inflight` is answered what the hold registry counts.",
++      statement: "A GET of `/inflight` is answered the hold registry's count.",
+     },
+     {
+       invariantKind: "departure",
