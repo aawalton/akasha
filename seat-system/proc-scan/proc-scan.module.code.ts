@@ -54,6 +54,7 @@ export function scanProcEntries(
     }
     const agentId = extractEnvironVar(environ, "AGENT_ID")
     if (agentId === undefined) continue
+    const actingAgentId = extractEnvironVar(environ, "ACTING_AGENT_ID")
     let cmdline: string
     try {
       cmdline = readFileSync(`/proc/${name}/cmdline`).toString("utf8").split("\0").join(" ")
@@ -64,6 +65,7 @@ export function scanProcEntries(
     const { state, ppid } = readProcStat(name)
     entries.push({
       agentId,
+      actingAgentId,
       cmdline,
       pid: Number(name),
       startMs: st ? st.mtimeMs : undefined,

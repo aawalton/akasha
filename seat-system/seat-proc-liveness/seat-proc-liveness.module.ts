@@ -26,5 +26,13 @@ export const seatProcLiveness = {
       invariantKind: "departure",
       statement: "A process in uninterruptible sleep is not counted as a background task.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A subagent is named on a process by the agent that process acts under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process carrying no acting agent is evidence of nobody rather than of an end.",
+    },
   ],
 } as const satisfies Module

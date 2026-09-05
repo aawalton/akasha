@@ -25,6 +25,7 @@ function isSeatInfrastructureCmdline(cmdline: string): boolean {
 
 export type ProcLivenessEntry = {
   agentId: string
+  actingAgentId?: string
   cmdline: string
   pid: number
   startMs?: number
@@ -91,6 +92,25 @@ export function liveAgentPidsFromProc(
     if (!isAgentProcessCmdline(cmdline)) continue
     const existing = byId.get(agentId)
     if (existing === undefined) byId.set(agentId, [pid])
+    else existing.push(pid)
+  }
+  return byId
+}
+
+// A SUBAGENT'S AGENT ID REACHES NO `AGENT_ID`. A subagent runs inside its seat's own Claude
+// process, so every process beneath it names the seat under `AGENT_ID` rather than the subagent.
+// What names the subagent is `ACTING_AGENT_ID`, which the harness sets on each process a subagent
+// spawns. A process carrying one proves that subagent is at work. Carrying none proves nothing,
+// because a subagent waiting on the model has spawned no process at all, so this answers who is
+// alive and never who is gone.
+export function actingAgentPidsFromProc(
+  entries: readonly ProcLivenessEntry[]
+): Map<string, number[]> {
+  const byId = new Map<string, number[]>()
+  for (const { actingAgentId, pid } of entries) {
+    if (actingAgentId === undefined || actingAgentId === "") continue
+    const existing = byId.get(actingAgentId)
+    if (existing === undefined) byId.set(actingAgentId, [pid])
     else existing.push(pid)
   }
   return byId

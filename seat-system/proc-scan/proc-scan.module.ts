@@ -7,4 +7,14 @@ export const procScan = {
   definition:
     "every process under /proc carrying an AGENT_ID, with its command line, parent and state",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A process names the agent it acts under as well as the agent it runs as.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process naming no acting agent carries none rather than carrying its own.",
+    },
+  ],
 } as const satisfies Module

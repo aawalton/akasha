@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  actingAgentPidsFromProc,
   agentsWithInFlightBackgroundTask,
   backgroundTaskCmdlinesByAgent,
   isAgentProcessCmdline,
@@ -14,6 +15,8 @@ import {
 
 const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 const TWO = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f8"
+
+const ACTING = `${ONE}--a38f63805f9b94edf`
 
 const CHILD = "claude --dangerously-skip-permissions --model opus"
 const SUPERVISOR = "/usr/bin/bun tools/lib/supervisor.ts --seat one"
@@ -110,4 +113,32 @@ test("every pid an agent's own processes stand on is gathered under its id", () 
     entry({ agentId: ONE, cmdline: TASK, pid: 3 }),
   ])
   expect(said.get(ONE)).toEqual([1, 2])
+})
+
+test("a subagent is named by the agent a process acts under rather than by AGENT_ID", () => {
+  const entries = [entry({ agentId: ONE, actingAgentId: ACTING, cmdline: TASK, pid: 7 })]
+  expect(liveAgentPidsFromProc(entries).has(ACTING)).toBe(false)
+  expect(actingAgentPidsFromProc(entries).get(ACTING)).toEqual([7])
+})
+
+test("a process naming no acting agent is gathered under nobody", () => {
+  const said = actingAgentPidsFromProc([entry({ agentId: ONE, cmdline: CHILD, pid: 1 })])
+  expect(said.size).toBe(0)
+})
+
+test("every pid a subagent's processes run on is gathered under its acting id", () => {
+  const said = actingAgentPidsFromProc([
+    entry({ agentId: ONE, actingAgentId: ACTING, cmdline: TASK, pid: 4 }),
+    entry({ agentId: ONE, actingAgentId: ACTING, cmdline: "sleep 5", pid: 5 }),
+    entry({ agentId: ONE, cmdline: CHILD, pid: 6 }),
+  ])
+  expect(said.get(ACTING)).toEqual([4, 5])
+  expect(said.size).toBe(1)
+})
+
+test("a process whose cmdline no test here holds of is gathered all the same", () => {
+  const said = actingAgentPidsFromProc([
+    entry({ agentId: ONE, actingAgentId: ACTING, cmdline: "cat /etc/hosts", pid: 9 }),
+  ])
+  expect(said.get(ACTING)).toEqual([9])
 })
