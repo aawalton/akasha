@@ -70,7 +70,7 @@ export const checks = {
     },
     {
       invariantKind: "upkeep",
-      statement: "Every check says what its input is.",
+      statement: "Every check names its input.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,8 @@ export const checks = {
     },
     {
       invariantKind: "absence",
-      statement: "No check judges what a repository outside akasha imports from inside akasha.",
+      statement:
+        "No check judges the imports a repository outside akasha takes from inside akasha.",
     },
     {
       invariantKind: "gap",
