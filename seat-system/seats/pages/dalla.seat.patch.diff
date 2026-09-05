@@ -74,3 +74,54 @@ index fc0b105f42e8004a412de1020bc571cd040d5582..11d3d3af5618ce6a2c360094bb345f6f
    if (done.verdict === "pass") return { report, refusals: [], code: 0 }
    return {
      report,
+diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
+index bac4b68ca9db78bbf98077ec175e2392d3d891ea..918859a1d8e1c3ed6d19c44e1e677cc835aca22c 100644
+--- a/commands/test/test.command.test.ts
++++ b/commands/test/test.command.test.ts
+@@ -3,7 +3,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import type { Given } from "../../command-system/calling/calling.module.code.ts"
+ import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+-import { ANSWER_CEILING, aiming, bounded, tailOf, test } from "./test.command.code.ts"
++import { ANSWER_CEILING, aiming, bounded, detailOf, tailOf, test } from "./test.command.code.ts"
+ 
+ const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
+ 
+@@ -189,6 +189,37 @@ check("a name flag naming nothing, and a second one, are each refused", () => {
+   expect(twice.refusals[0]).toContain("given more than once")
+ })
+ 
++check("a run naming one test carries why that test failed rather than a pointer", () => {
++  const root = repo({ "one.test.ts": FAILS })
++  const said = test(["--named", "one"], given(root))
++  expect(said.code).toBe(1)
++  const report = said.report.join("\n")
++  expect(report).toContain("what the runner said:")
++  expect(report).toContain("Expected: 2")
++  expect(report).toContain("Received: 1")
++  expect(report).not.toContain('--named "<the test\'s name>"')
++})
++
++check("a run naming one test that passes carries no detail", () => {
++  const root = repo({ "one.test.ts": PASSES })
++  const said = test(["--named", "one"], given(root))
++  expect(said.code).toBe(0)
++  expect(said.report).toEqual(["1 test ran: 1 passed, 0 failed."])
++})
++
++check("what a named run carries is bounded in lines and in bytes alike", () => {
++  const counted = `(fail) one\n${Array.from({ length: 60 }, (one, at) => `line ${at}`).join("\n")}`
++  expect(detailOf(counted).length).toBe(41)
++  expect(detailOf(counted)[1]).toBe("  (fail) one")
++  const wide = `(fail) one\n${Array.from({ length: 40 }, () => "x".repeat(300)).join("\n")}`
++  expect(detailOf(wide).length).toBeLessThan(20)
++  expect(detailOf("")[0]).toContain("printed nothing about the test that failed")
++})
++
++check("a named run carrying no failing line falls back to what was printed", () => {
++  expect(detailOf("held\nthere\n")[1]).toBe("  held")
++})
++
+ check("a path is read against the root rather than the folder the call was made in", () => {
+   const root = repo({ "one.test.ts": PASSES })
+   const said = aiming(["akasha/one.test.ts"], { ...given(root), from: join(root, "akasha") })
