@@ -214,7 +214,7 @@ export const game = {
     {
       invariantKind: "departure",
       statement:
-        "An entry superseding an earlier one names the entry superseded rather than replacing it.",
+        "An entry superseding an earlier one names the entry superseded rather than replacing that entry.",
     },
     {
       invariantKind: "departure",
