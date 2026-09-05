@@ -52,8 +52,7 @@ export const accountUpkeepStallReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page that could not be looked at is a fault, because every page current and no page looked at otherwise read alike.",
+      statement: "A page that could not be looked at is a fault.",
     },
     {
       invariantKind: "departure",
