@@ -12,6 +12,7 @@ export const ruleTreasuresStolenFence = {
   displayOrder: 67,
   action: "fence-sell",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "sell",
   locked: true,
   fromTemplate: "treasures-stolen-fence",

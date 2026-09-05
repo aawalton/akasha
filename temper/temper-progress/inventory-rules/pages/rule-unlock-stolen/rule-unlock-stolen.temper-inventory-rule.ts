@@ -12,6 +12,7 @@ export const ruleUnlockStolen = {
   displayOrder: 26,
   action: "fence-launder",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "unlock",
   locked: true,
   fromTemplate: "unlock-stolen",

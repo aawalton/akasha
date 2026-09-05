@@ -12,6 +12,7 @@ export const ruleInspireStolen = {
   displayOrder: 43,
   action: "fence-launder",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "progress",
   locked: true,
   fromTemplate: "inspire-stolen",

@@ -12,6 +12,7 @@ export const ruleCompanionEpicNothing = {
   displayOrder: 12,
   action: "move-to",
   active: true,
+  updatedAt: "2026-06-01T21:39:51.449Z",
   goal: "equip",
   locked: true,
   fromTemplate: "companion-epic-nothing",

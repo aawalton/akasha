@@ -12,6 +12,7 @@ export const ruleTreasuresEpicStolen = {
   displayOrder: 58,
   action: "fence-launder",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "hoard",
   locked: true,
   fromTemplate: "treasures-epic-stolen",

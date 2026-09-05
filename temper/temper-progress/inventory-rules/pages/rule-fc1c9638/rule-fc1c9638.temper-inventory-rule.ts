@@ -12,6 +12,7 @@ export const ruleFc1c9638 = {
   displayOrder: 69,
   action: "list",
   active: true,
+  updatedAt: "2026-06-02T20:49:37.020Z",
   goal: "sell",
   destination: "character:8796093022338107",
   conditions: "jsonl",

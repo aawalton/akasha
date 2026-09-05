@@ -12,6 +12,7 @@ export const ruleResearchByPriority = {
   displayOrder: 41,
   action: "research",
   active: true,
+  updatedAt: "2026-05-04T16:05:00.238Z",
   goal: "unlock",
   locked: true,
   fromTemplate: "research-by-priority",

@@ -12,6 +12,7 @@ export const ruleHolidayWritsBank = {
   displayOrder: 46,
   action: "move-to",
   active: true,
+  updatedAt: "2026-07-05T12:14:14.074Z",
   goal: "task",
   locked: true,
   fromTemplate: "holiday-writs-bank",

@@ -11,6 +11,7 @@ export const ruleToolsBank = {
   displayOrder: 59,
   action: "stock",
   active: true,
+  updatedAt: "2026-07-05T13:20:53.393Z",
   goal: "hoard",
   locked: true,
   fromTemplate: "tools-bank",

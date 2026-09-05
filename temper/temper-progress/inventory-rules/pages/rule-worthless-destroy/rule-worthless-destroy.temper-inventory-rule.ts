@@ -12,6 +12,7 @@ export const ruleWorthlessDestroy = {
   displayOrder: 75,
   action: "destroy",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "destroy",
   locked: true,
   fromTemplate: "worthless-destroy",

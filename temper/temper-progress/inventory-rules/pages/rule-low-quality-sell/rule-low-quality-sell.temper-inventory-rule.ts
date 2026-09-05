@@ -12,6 +12,7 @@ export const ruleLowQualitySell = {
   displayOrder: 74,
   action: "sell",
   active: true,
+  updatedAt: "2026-06-02T20:49:38.124Z",
   goal: "sell",
   locked: true,
   fromTemplate: "low-quality-sell",

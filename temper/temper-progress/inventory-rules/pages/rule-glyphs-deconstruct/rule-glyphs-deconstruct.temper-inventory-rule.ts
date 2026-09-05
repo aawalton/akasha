@@ -12,6 +12,7 @@ export const ruleGlyphsDeconstruct = {
   displayOrder: 55,
   action: "deconstruct",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "hoard",
   locked: true,
   fromTemplate: "glyphs-deconstruct",

@@ -12,6 +12,7 @@ export const ruleTreasureMapsBank = {
   displayOrder: 50,
   action: "move-to",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "task",
   locked: true,
   fromTemplate: "treasure-maps-bank",

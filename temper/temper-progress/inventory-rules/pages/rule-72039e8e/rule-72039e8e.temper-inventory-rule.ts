@@ -10,5 +10,6 @@ export const rule72039e8e = {
   displayOrder: 32,
   action: "fence-launder",
   active: true,
+  updatedAt: "2026-06-01T22:02:01.494Z",
   conditions: "jsonl",
 } as const satisfies TemperInventoryRule

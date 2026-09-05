@@ -12,6 +12,7 @@ export const ruleMasterWritsBank = {
   displayOrder: 47,
   action: "move-to",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "task",
   locked: true,
   fromTemplate: "master-writs-bank",

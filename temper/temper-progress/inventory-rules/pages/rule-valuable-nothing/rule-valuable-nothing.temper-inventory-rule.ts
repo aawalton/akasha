@@ -12,6 +12,7 @@ export const ruleValuableNothing = {
   displayOrder: 39,
   action: "list",
   active: true,
+  updatedAt: "2026-06-02T20:49:37.762Z",
   goal: "hoard",
   locked: true,
   fromTemplate: "valuable-nothing",

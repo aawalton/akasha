@@ -12,6 +12,7 @@ export const ruleTreasuresSell = {
   displayOrder: 68,
   action: "sell",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "sell",
   locked: true,
   fromTemplate: "treasures-sell",

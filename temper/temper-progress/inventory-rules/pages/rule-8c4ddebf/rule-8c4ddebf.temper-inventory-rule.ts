@@ -10,6 +10,7 @@ export const rule8c4ddebf = {
   displayOrder: 20,
   action: "stock",
   active: true,
+  updatedAt: "2026-06-03T05:11:34.742Z",
   stockScope: "any-character",
   conditions: "jsonl",
   destinationChain: "jsonl",

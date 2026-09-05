@@ -12,6 +12,7 @@ export const ruleGoldStock = {
   displayOrder: 5,
   action: "stock",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "use",
   locked: true,
   fromTemplate: "gold-stock",

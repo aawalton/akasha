@@ -12,6 +12,7 @@ export const rulePotionsNormalSell = {
   displayOrder: 70,
   action: "sell",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "sell",
   locked: true,
   fromTemplate: "potions-normal-sell",

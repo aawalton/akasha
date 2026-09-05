@@ -12,6 +12,7 @@ export const ruleInspireCurrent = {
   displayOrder: 44,
   action: "deconstruct",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "progress",
   locked: true,
   fromTemplate: "inspire-current",

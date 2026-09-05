@@ -12,6 +12,7 @@ export const ruleTransmutedNothing = {
   displayOrder: 25,
   action: "nothing",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "equip",
   locked: true,
   fromTemplate: "transmuted-nothing",

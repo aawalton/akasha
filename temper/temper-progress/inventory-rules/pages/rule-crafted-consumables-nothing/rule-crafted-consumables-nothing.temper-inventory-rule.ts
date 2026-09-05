@@ -12,6 +12,7 @@ export const ruleCraftedConsumablesNothing = {
   displayOrder: 23,
   action: "nothing",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "use",
   locked: true,
   fromTemplate: "crafted-consumables-nothing",

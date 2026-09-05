@@ -10,6 +10,7 @@ export const rule52020b3f = {
   displayOrder: 0,
   action: "move-to",
   active: true,
+  updatedAt: "2026-06-02T17:03:42.209Z",
   destination: "character:8796093022338107",
   conditions: "jsonl",
 } as const satisfies TemperInventoryRule

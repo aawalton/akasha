@@ -12,6 +12,7 @@ export const ruleDf7b2fe2 = {
   displayOrder: 29,
   action: "list",
   active: true,
+  updatedAt: "2026-06-02T20:49:29.157Z",
   goal: "sell",
   destination: "character:8796093022338107",
   conditions: "jsonl",

@@ -12,6 +12,7 @@ export const ruleContainersStackableBank = {
   displayOrder: 9,
   action: "move-to",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "hoard",
   locked: true,
   fromTemplate: "containers-stackable-bank",

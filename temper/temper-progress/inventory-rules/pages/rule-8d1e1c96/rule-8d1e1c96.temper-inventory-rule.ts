@@ -11,5 +11,6 @@ export const rule8d1e1c96 = {
   displayOrder: 79,
   action: "sell",
   active: true,
+  updatedAt: "2026-07-05T13:20:38.496Z",
   conditions: "jsonl",
 } as const satisfies TemperInventoryRule

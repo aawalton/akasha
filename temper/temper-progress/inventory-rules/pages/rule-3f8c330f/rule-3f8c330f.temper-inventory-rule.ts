@@ -12,6 +12,7 @@ export const rule3f8c330f = {
   displayOrder: 7,
   action: "move-to",
   active: true,
+  updatedAt: "2026-06-02T21:31:48.189Z",
   destination: "guild-bank:Walton Mountain",
   conditions: "jsonl",
 } as const satisfies TemperInventoryRule

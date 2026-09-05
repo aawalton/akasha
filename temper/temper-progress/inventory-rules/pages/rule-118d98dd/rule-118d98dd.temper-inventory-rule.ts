@@ -9,5 +9,6 @@ export const rule118d98dd = {
   displayOrder: 8,
   action: "move-to",
   active: true,
+  updatedAt: "2026-06-02T20:27:33.382Z",
   destination: "character:8796093022338107",
 } as const satisfies TemperInventoryRule

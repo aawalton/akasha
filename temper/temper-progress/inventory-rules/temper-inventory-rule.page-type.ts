@@ -3,8 +3,10 @@ import type { TemperRule } from "../rules/temper-rule.page-type.ts"
 import type { DestinationChain } from "./properties/destination-chain.page-property-entry.ts"
 import type { FromTemplate } from "./properties/from-template.relation-property.ts"
 import type { RuleLocked } from "./properties/rule-locked.boolean-property.ts"
+import type { UpdatedAt } from "./properties/updated-at.instant-property.ts"
 
 export type TemperInventoryRule = TemperRule & {
+  updatedAt: UpdatedAt
   locked?: RuleLocked
   fromTemplate?: FromTemplate
   destinationChain?: DestinationChain
@@ -19,6 +21,7 @@ export const temperInventoryRule = {
   extendsSlug: ["page-type/temper-rule"],
   partSlugs: [
     "boolean-property/rule-locked",
+    "instant-property/updated-at",
     "number-property/target-quantity",
     "page-property-entry/destination-chain",
     "relation-property/from-template",
@@ -30,6 +33,7 @@ export const temperInventoryRule = {
     { pagePropertySlug: "display-order", required: true, many: false },
     { pagePropertySlug: "action", required: true, many: false },
     { pagePropertySlug: "active", required: true, many: false },
+    { pagePropertySlug: "updated-at", required: true, many: false },
     { pagePropertySlug: "rule-locked", required: false, many: false },
     { pagePropertySlug: "from-template", required: false, many: false },
     { pagePropertySlug: "destination-chain", required: false, many: false },

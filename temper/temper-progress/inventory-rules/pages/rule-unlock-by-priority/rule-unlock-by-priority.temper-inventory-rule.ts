@@ -12,6 +12,7 @@ export const ruleUnlockByPriority = {
   displayOrder: 31,
   action: "use",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "unlock",
   locked: true,
   fromTemplate: "unlock-by-priority",

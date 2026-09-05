@@ -12,6 +12,7 @@ export const ruleTasksStolen = {
   displayOrder: 45,
   action: "fence-launder",
   active: true,
+  updatedAt: "2026-05-04T16:04:31.132Z",
   goal: "task",
   locked: true,
   fromTemplate: "tasks-stolen",

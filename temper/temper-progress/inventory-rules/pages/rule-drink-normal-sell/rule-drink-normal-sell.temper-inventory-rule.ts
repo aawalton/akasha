@@ -12,6 +12,7 @@ export const ruleDrinkNormalSell = {
   displayOrder: 73,
   action: "sell",
   active: true,
+  updatedAt: "2026-07-05T12:17:47.953Z",
   goal: "sell",
   locked: true,
   fromTemplate: "drink-normal-sell",
