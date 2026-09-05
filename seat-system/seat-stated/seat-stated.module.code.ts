@@ -76,8 +76,8 @@ export function statedOf(agent: string): Stated {
 // WHAT A PAGE NEEDS IS WHAT AKASHA NEEDS, and akasha asks for three more than the old page did. This
 // tested the old page's three and answered that a seat would compose when it would not: the caller
 // took that as nothing to recover, went to write, and got `unstated` back with no way to act on it.
-// A seat short of a persona, a start mode or a registration is one to recover rather than one that
-// stands.
+// A seat short of a persona, a start mode or a registration is one to recover rather than one to
+// leave as it is.
 export function pageWouldCompose(stated: Stated): boolean {
   return (
     stated.attributes.persona !== undefined &&
@@ -93,11 +93,11 @@ function modeIn(said: string | null): declarations.Mode | null {
   return declarations.MODES.find((one) => one === said) ?? null
 }
 
-export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Stated {
-  if (held === null) return standing
+export function mergeHeld(now: Stated, held: StatedFromHistory | null): Stated {
+  if (held === null) return now
   const heldMode = modeIn(held.mode)
   const attributes: { -readonly [K in declarations.AttributeKey]?: declarations.Attribute } = {
-    ...standing.attributes,
+    ...now.attributes,
   }
   for (const slot of declarations.ATTRIBUTES) {
     const slug = held.set[slot]
@@ -105,27 +105,26 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
   }
   const principal: Principal | null = held.principal
   return {
-    ...standing,
+    ...now,
     attributes,
     // What the page said before the stop took it away, which is where the address is read from once
-    // there is no page to read. What stands wins, as it does for every other value here.
-    assignment: standing.assignment ?? held.assignment,
-    principal: standing.principal ?? (principal === null ? null : { value: principal }),
-    onCall: standing.onCall || held.onCall,
-    initiative:
-      standing.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
-    // What stands wins, and history fills what is missing. A seat that still states its own mode is
-    // never told a older one, and a seat that states none takes what it last said rather than
-    // composing to nothing.
-    recordedMode: standing.recordedMode ?? (heldMode === null ? null : { value: heldMode }),
-    mode: standing.recordedMode === null && heldMode !== null ? heldMode : standing.mode,
-    registration: standing.registration ?? (held.account === null ? null : { value: held.account }),
+    // there is no page to read. What the seat says now wins, as it does for every other value here.
+    assignment: now.assignment ?? held.assignment,
+    principal: now.principal ?? (principal === null ? null : { value: principal }),
+    onCall: now.onCall || held.onCall,
+    initiative: now.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
+    // What the seat says now wins, and history fills what is missing. A seat that still states its
+    // own mode is never told a older one, and a seat that states none takes what it last said
+    // rather than composing to nothing.
+    recordedMode: now.recordedMode ?? (heldMode === null ? null : { value: heldMode }),
+    mode: now.recordedMode === null && heldMode !== null ? heldMode : now.mode,
+    registration: now.registration ?? (held.account === null ? null : { value: held.account }),
   }
 }
 
-export function fallBackToHistory(standing: Stated, seatName: string, roots: Roots): Stated {
-  if (pageWouldCompose(standing)) return standing
-  return mergeHeld(standing, statedFromHistory(seatName, roots))
+export function fallBackToHistory(now: Stated, seatName: string, roots: Roots): Stated {
+  if (pageWouldCompose(now)) return now
+  return mergeHeld(now, statedFromHistory(seatName, roots))
 }
 
 export interface Said {
@@ -139,23 +138,23 @@ export interface Said {
 }
 
 export function statedNow(agent: string, attributes: declarations.Attributes, said: Said): Stated {
-  const stood = statedOf(agent)
+  const now = statedOf(agent)
   const gone = new Set(said.clear)
   const kept = <T>(key: string, held: T | null): T | null => (gone.has(key) ? null : held)
   return {
     agent,
     attributes,
-    assignment: stood.assignment,
-    flex: said.flex === null ? kept("flex", stood.flex) : { value: said.flex },
-    mode: said.mode ?? stood.mode,
-    recordedMode: said.mode === null ? stood.recordedMode : { value: said.mode },
-    principal: said.principal === null ? stood.principal : { value: said.principal },
-    onCall: said.onCall || (!gone.has("on-call") && stood.onCall),
+    assignment: now.assignment,
+    flex: said.flex === null ? kept("flex", now.flex) : { value: said.flex },
+    mode: said.mode ?? now.mode,
+    recordedMode: said.mode === null ? now.recordedMode : { value: said.mode },
+    principal: said.principal === null ? now.principal : { value: said.principal },
+    onCall: said.onCall || (!gone.has("on-call") && now.onCall),
     initiative:
-      said.initiative === null ? kept("initiative", stood.initiative) : { value: said.initiative },
-    registration: said.registration === null ? stood.registration : { value: said.registration },
-    session: stood.session,
-    rotated: stood.rotated,
-    transcript: stood.transcript,
+      said.initiative === null ? kept("initiative", now.initiative) : { value: said.initiative },
+    registration: said.registration === null ? now.registration : { value: said.registration },
+    session: now.session,
+    rotated: now.rotated,
+    transcript: now.transcript,
   }
 }
