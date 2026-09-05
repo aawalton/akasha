@@ -1,0 +1,12 @@
+diff --git a/infrastructure/inference-runs/inference-run.workspace-package.ts b/infrastructure/inference-runs/inference-run.workspace-package.ts
+index 8344afe3e50931573af480700dac5b887e35b6e2..4e68393657a14d3b966dd7ce7b77c1cab53db871 100644
+--- a/infrastructure/inference-runs/inference-run.workspace-package.ts
++++ b/infrastructure/inference-runs/inference-run.workspace-package.ts
+@@ -15,6 +15,7 @@ export const inferenceRun = {
+     "module/persist-audio",
+     "module/persist-image",
+     "module/persist-media",
++    "page-type/inference-run",
+   ],
+   invariants: [
+     {
