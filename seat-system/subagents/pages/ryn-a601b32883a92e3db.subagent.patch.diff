@@ -1,0 +1,13 @@
+diff --git a/editor-extension/agent-forest-answer/agent-forest-answer.module.ts b/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
+index f979bf441b477b35effdbfcebe8e99f974133195..6cdb83f0e9c0b110573f002cfdd7f02300da89cf 100644
+--- a/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
++++ b/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
+@@ -25,7 +25,7 @@ export const agentForestAnswer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row's color is read from `color` or from `colour`, whichever it carries.",
++      statement: "A row's color is read from `color` or from `colour`, whichever that row carries.",
+     },
+     {
+       invariantKind: "departure",
