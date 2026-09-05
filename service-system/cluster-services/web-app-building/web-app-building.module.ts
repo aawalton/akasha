@@ -97,7 +97,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "absence",
-      statement: "No value read from a secret is carried into what is reported.",
+      statement: "No value read from a secret is carried into the text reported.",
     },
     {
       invariantKind: "departure",
