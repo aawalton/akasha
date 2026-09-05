@@ -230,7 +230,7 @@ index d69256318f8f3fb588470ac71f8ac64660f49566..9b72f7f90fd8eccd1b5174fec1806f9e
      default: {
        const unreached: never = step
 diff --git a/editor-extension/seat-acts/seat-acts.module.ts b/editor-extension/seat-acts/seat-acts.module.ts
-index 51c6181b585c5236a8397462d9b71267133a2572..9339b2cc1f5035f35cbd3f2ad1c5ce94c6774e27 100644
+index 51c6181b585c5236a8397462d9b71267133a2572..442a653c946130c34da294d24499417200bb4d08 100644
 --- a/editor-extension/seat-acts/seat-acts.module.ts
 +++ b/editor-extension/seat-acts/seat-acts.module.ts
 @@ -4,7 +4,7 @@ export const seatActs = {
@@ -242,6 +242,21 @@ index 51c6181b585c5236a8397462d9b71267133a2572..9339b2cc1f5035f35cbd3f2ad1c5ce94
    code: "ts",
    invariants: [
      {
+@@ -23,6 +23,14 @@ export const seatActs = {
+       invariantKind: "departure",
+       statement: "A step that fails is said to Alan as well as written to the output.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A step names the seat to the command by the seat's name rather than by its id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A stop asks the seat's supervisor without forcing it.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A revive is given the prompt the harness composes rather than one written here.",
 diff --git a/editor-extension/seat-toggles/seat-toggles.module.code.ts b/editor-extension/seat-toggles/seat-toggles.module.code.ts
 index bfea36c32c47cd062e38ed4b880826064a03072d..42718faa2998a8d45ac21271b125d67f53e27045 100644
 --- a/editor-extension/seat-toggles/seat-toggles.module.code.ts
