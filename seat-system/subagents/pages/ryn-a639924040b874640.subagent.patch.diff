@@ -1,0 +1,40 @@
+diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+index 2b0f157a05b337d197dd3001ef25d42f41a652bb..199e20ca2931ca4e26e631cd3962687b160ff02d 100644
+--- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
++++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+@@ -18,7 +18,8 @@ export const imessageCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag whose value is another flag this takes is a flag no value followed.",
++      statement:
++        "A flag whose value is another flag this module takes is a flag no value followed.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/backup-retention/backup-retention.workspace-package.ts b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+index 1b946abc35bf1e2b56388f4e9e4c642716a051b6..4cd8376bce670effbc1f6417771438ea7a5e7d99 100644
+--- a/infrastructure/backup-retention/backup-retention.workspace-package.ts
++++ b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+@@ -51,7 +51,7 @@ export const backupRetention = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The cluster runs both of these on a schedule.",
++      statement: "The cluster runs both of these programs on a schedule.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/markdown-pages/markdown-page-address/markdown-page-address.module.ts b/markdown-pages/markdown-page-address/markdown-page-address.module.ts
+index eb55ba1c2a6667e530f32abbd50337fd2ca9bf59..efb75d1dda9fb951fd220c3c8948b0f45dbe4926 100644
+--- a/markdown-pages/markdown-page-address/markdown-page-address.module.ts
++++ b/markdown-pages/markdown-page-address/markdown-page-address.module.ts
+@@ -9,7 +9,7 @@ export const markdownPageAddress = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This says what form an address takes and looks no page up.",
++      statement: "This module says what form an address takes and looks no page up.",
+     },
+     { invariantKind: "departure", statement: "A page type and a slug are cut at the first `/`." },
+   ],
