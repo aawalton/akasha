@@ -8,5 +8,5 @@ export const activityCaloriesOnDay = {
   parameters: [{ name: "date", type: "calendar-date" }],
   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
   reduction: "sum",
-  targetKey: "activity-calories",
+  targetKey: "activityCalories",
 } as const satisfies PageQuery
