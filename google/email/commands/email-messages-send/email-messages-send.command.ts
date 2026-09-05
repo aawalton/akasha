@@ -47,10 +47,7 @@ export const emailMessagesSend = {
       invariantKind: "departure",
       statement: "A body read from a file is carried whole.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An address list is split on commas as well as on repeated flags.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A sender given in angle brackets carries the name before the brackets.",

@@ -57,10 +57,7 @@ export const modelUnavailableRebind = {
       invariantKind: "departure",
       statement: "An answer carries the body text upstream sent.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An answer carries the status text upstream sent.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An answer carries the headers upstream sent.",

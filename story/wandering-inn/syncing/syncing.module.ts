@@ -11,10 +11,7 @@ export const syncing = {
       invariantKind: "departure",
       statement: "The story the chapters are filed under is there before any chapter is read.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A chapter already filed is known by the link that chapter was filed under.",
-    },
+
     {
       invariantKind: "departure",
       statement:

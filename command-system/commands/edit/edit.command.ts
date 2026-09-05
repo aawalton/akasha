@@ -111,10 +111,7 @@ export const edit = {
       invariantKind: "departure",
       statement: "A path inside `.git` is refused.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder at the top of the repository is refused.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A path no check judged is named in the answer.",

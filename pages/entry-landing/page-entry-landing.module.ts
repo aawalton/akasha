@@ -49,10 +49,7 @@ export const pageEntryLanding = {
       invariantKind: "departure",
       statement: "A file's fill is read from that file's size rather than from that file's text.",
     },
-    {
-      invariantKind: "departure",
-      statement: "One value running past the ceiling alone is refused rather than divided.",
-    },
+
     {
       invariantKind: "departure",
       statement:

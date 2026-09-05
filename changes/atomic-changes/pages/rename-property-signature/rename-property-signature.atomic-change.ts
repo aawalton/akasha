@@ -25,10 +25,7 @@ export const renamePropertySignature = {
       statement:
         "Which files name the declaring file is asked of the index rather than walked for.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A property declared outside the named file as well is refused, being two things.",

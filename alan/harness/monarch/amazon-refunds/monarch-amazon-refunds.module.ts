@@ -35,9 +35,5 @@ export const monarchAmazonRefunds = {
       invariantKind: "departure",
       statement: "The before-picture of every Amazon row is taken before anything is written.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Nothing is written unless writing was asked for.",
-    },
   ],
 } as const satisfies Module

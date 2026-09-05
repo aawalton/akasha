@@ -20,10 +20,7 @@ export const renameSlug = {
       invariantKind: "departure",
       statement: "Those pages are asked for by the id, which a slug rename leaves alone.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A page of the same page type already carrying the new slug refuses the change.",

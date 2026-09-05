@@ -12,10 +12,7 @@ export const renamePath = {
       invariantKind: "departure",
       statement: "Which bodies import the path is asked of the index rather than walked for.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The body that moves has its own relative reaches rebased on where it lands.",

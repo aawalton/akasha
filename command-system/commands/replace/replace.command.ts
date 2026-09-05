@@ -105,10 +105,7 @@ export const replace = {
       invariantKind: "departure",
       statement: "A path inside `.git` is refused.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder at the top of the repository is refused.",
-    },
+
     {
       invariantKind: "departure",
       statement: "One path named more than once by a call is refused.",

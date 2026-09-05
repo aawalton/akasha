@@ -22,10 +22,7 @@ export const renameExport = {
       statement:
         "Which files name the declaring file is asked of the index rather than walked for.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A rename refuses where any file it would change already reaches the new name.",
