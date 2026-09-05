@@ -1,9 +1,9 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Module } from "@akasha/code-system/module"
 
 export const prometheusManifests = {
-  id: "01a06810-1263-7164-a5c1-36cfd6f66645",
-  pageTypeSlug: "manifest",
+  id: "01a073af-1ffc-7f13-af2b-01872be66e05",
+  pageTypeSlug: "module",
   slug: "prometheus-manifests",
   definition: "the metrics server, its storage, its access rules and the way in to it",
   code: "ts",
-} as const satisfies Manifest
+} as const satisfies Module

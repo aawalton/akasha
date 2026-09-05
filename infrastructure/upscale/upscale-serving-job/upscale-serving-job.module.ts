@@ -1,8 +1,8 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Module } from "@akasha/code-system/module"
 
 export const upscaleServingJob = {
-  id: "01a0685d-4b35-7016-92d2-c662f191fc6c",
-  pageTypeSlug: "manifest",
+  id: "01a073af-4669-7130-ac05-5cb2a15a6313",
+  pageTypeSlug: "module",
   slug: "upscale-serving-job",
   definition: "the cluster job one image is upscaled by on a GPU node",
   code: "ts",
@@ -26,4 +26,4 @@ export const upscaleServingJob = {
         "The image comes in and goes out through the object store rather than through the job's arguments.",
     },
   ],
-} as const satisfies Manifest
+} as const satisfies Module

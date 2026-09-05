@@ -1,9 +1,9 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Module } from "@akasha/code-system/module"
 
 export const exporterDaemonsets = {
-  id: "01a06810-1263-787b-9195-38665bcd1e92",
-  pageTypeSlug: "manifest",
+  id: "01a073ae-7e8e-76d1-895f-c3358a86c953",
+  pageTypeSlug: "module",
   slug: "exporter-daemonsets",
   definition: "the node and graphics card exporters that run one copy per node",
   code: "ts",
-} as const satisfies Manifest
+} as const satisfies Module

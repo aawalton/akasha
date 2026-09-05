@@ -1,9 +1,9 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Module } from "@akasha/code-system/module"
 
 export const headscaleConfigmaps = {
-  id: "01a06810-1262-7808-9512-ab1918128820",
-  pageTypeSlug: "manifest",
+  id: "01a073ae-918c-7c1a-9185-5b43e6dc6fb3",
+  pageTypeSlug: "module",
   slug: "headscale-configmaps",
   definition: "the config maps holding the coordination server's settings and access rules",
   code: "ts",
-} as const satisfies Manifest
+} as const satisfies Module
