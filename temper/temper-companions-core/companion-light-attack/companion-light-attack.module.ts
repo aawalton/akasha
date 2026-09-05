@@ -13,7 +13,7 @@ export const companionLightAttack = {
     },
     {
       invariantKind: "departure",
-      statement: "Expired buffs are pruned from the state as a side effect of reading them.",
+      statement: "Expired buffs are pruned from the state as a side effect of reading the buffs.",
     },
     {
       invariantKind: "constraint",
