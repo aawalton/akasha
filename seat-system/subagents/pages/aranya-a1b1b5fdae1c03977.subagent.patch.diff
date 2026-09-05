@@ -188,3 +188,14 @@ index 0000000000000000000000000000000000000000..e8427999ad47cf8fcf83d93abd70e7b2
 +    world.sweep()
 +  }
 +})
+diff --git a/seat-system/subagent-page/subagent-page.module.ts b/seat-system/subagent-page/subagent-page.module.ts
+index 690580a6f0eaf973367dfc936943176337674bef..7bdca52df6ab39fcaeea7e2f293735b3295c0c59 100644
+--- a/seat-system/subagent-page/subagent-page.module.ts
++++ b/seat-system/subagent-page/subagent-page.module.ts
+@@ -6,4 +6,6 @@ export const subagentPage = {
+   slug: "subagent-page",
+   definition: "the subagents standing under a seat, and their pages removed with it",
+   code: "ts",
++  test: "ts",
++  testFixtures: "ts",
+ } as const satisfies Module
