@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.ts b/editor-extension/work-tree-colors/work-tree-colors.module.ts
+index 2ee26d255c77f10f6d22f2d0dde96a2b63169c1f..f0ef46379276a3946876e99c8ab4b082c8fc3916 100644
+--- a/editor-extension/work-tree-colors/work-tree-colors.module.ts
++++ b/editor-extension/work-tree-colors/work-tree-colors.module.ts
+@@ -42,7 +42,7 @@ export const workTreeColors = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a color is drawn as.",
++      statement: "Nothing here knows the look a color is drawn as.",
+     },
+   ],
+ } as const satisfies Module
