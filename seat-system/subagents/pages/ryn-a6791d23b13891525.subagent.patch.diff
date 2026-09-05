@@ -113,3 +113,48 @@ index 7a4c076e535f2bc96a4877619c461b785892ff25..8af637815b76ede068336552f5450392
      {
        invariantKind: "departure",
        statement: "A path is named behind `--file-path` like `write` and `remove` name theirs.",
+diff --git a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts b/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
+index 992a0b584176b02c784b31ad0edb7444e0221016..f447a654843d1f92dea177036bf9fb8d5a3347f9 100644
+--- a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
++++ b/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
+@@ -8,10 +8,6 @@ export const companionMetrics00 = {
+     "the first fifteen companion metric declarations, in the order the metrics table gathers them",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A metric's arithmetic is a tree of nodes rather than a written function.",
+-    },
+     {
+       invariantKind: "constraint",
+       statement: "A run holds a contiguous stretch of the companion metrics table.",
+diff --git a/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts b/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts
+index cef1e5aa13d8aac9fc3a71484ec8367b9aeb755c..a30240c42eddaa2aea68f2a8005b4a0533c6fb95 100644
+--- a/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts
++++ b/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts
+@@ -8,10 +8,6 @@ export const companionMetrics01 = {
+     "the second fifteen companion metric declarations, in the order the metrics table gathers them",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A metric's arithmetic is a tree of nodes rather than a written function.",
+-    },
+     {
+       invariantKind: "constraint",
+       statement: "A run holds a contiguous stretch of the companion metrics table.",
+diff --git a/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts b/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts
+index 85285c84c6eb1fa447d2cf6498ea73566657ed4e..facd405aef879d67c25f3aec4d8e95bcb025adbb 100644
+--- a/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts
++++ b/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts
+@@ -8,10 +8,6 @@ export const companionMetrics02 = {
+     "the last fifteen companion metric declarations, in the order the metrics table gathers them",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A metric's arithmetic is a tree of nodes rather than a written function.",
+-    },
+     {
+       invariantKind: "constraint",
+       statement: "A run holds a contiguous stretch of the companion metrics table.",
