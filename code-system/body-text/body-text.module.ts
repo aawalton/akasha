@@ -31,7 +31,7 @@ export const bodyText = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what the text means or which file the text came from.",
+      statement: "Nothing here knows the meaning of the text or which file the text came from.",
     },
   ],
 } as const satisfies Module
