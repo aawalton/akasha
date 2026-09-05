@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-settings-equipment/watcher-settings-equipment.module.ts b/temper/temper-watcher/watcher-settings-equipment/watcher-settings-equipment.module.ts
+index c8b71572d0ff838a586a1f620fbafed93c741d00..0029343d013f52f14eb73380e2e6d4e07fe5c5f0 100644
+--- a/temper/temper-watcher/watcher-settings-equipment/watcher-settings-equipment.module.ts
++++ b/temper/temper-watcher/watcher-settings-equipment/watcher-settings-equipment.module.ts
+@@ -38,7 +38,7 @@ export const watcherSettingsEquipment = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what reads the pages.",
++      statement: "A caller may hand in the reader that reads the pages.",
+     },
+     {
+       invariantKind: "absence",
