@@ -233,3 +233,26 @@ index 665e7baf3cc9fca8296ef095d27c34967dda033a..91b0a1e3ce14f8c5796bc33283288f42
    const read = deployableNamed(WORLD.root, "bare-web")
    expect("refused" in read && read.refused).toContain("no file is there")
  })
+diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
+index ca6165ff98be0ceea12a5ea5f5b6a655eea8d602..e6abf5615ee5a0ca1529093cb5789239f43ced2f 100644
+--- a/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
++++ b/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
+@@ -36,11 +36,16 @@ export const webAppReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The code emitting a cluster service's manifests is the file its page names.",
++      statement:
++        "The code emitting a cluster service's manifests sits beside the manifest page that service names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A cluster service naming a manifest no page carries is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A cluster service page naming manifest code no file holds is refused.",
++      statement: "A manifest page whose code file is not there is refused.",
+     },
+     {
+       invariantKind: "departure",
