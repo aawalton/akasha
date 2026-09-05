@@ -21,7 +21,7 @@ export const filePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file's stem is what comes before its first dot.",
+      statement: "A file's stem is the part before its first dot.",
     },
   ],
 } as const satisfies Module
