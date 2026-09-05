@@ -44,7 +44,7 @@ export const surplusFallReadout = {
     },
     {
       invariantKind: "departure",
-      statement: "akasha decides what a reading means.",
+      statement: "akasha decides a reading's meaning.",
     },
     {
       invariantKind: "departure",
