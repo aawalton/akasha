@@ -1,0 +1,13 @@
+diff --git a/code-system/code-format/code-format.module.ts b/code-system/code-format/code-format.module.ts
+index 9408175b57d80ae7d1594ada7a97c31da999ef90..c1884f244ae677f7b57b4a752e721bb489ed7c16 100644
+--- a/code-system/code-format/code-format.module.ts
++++ b/code-system/code-format/code-format.module.ts
+@@ -77,7 +77,7 @@ export const codeFormat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Reordering one of them is not changing one.",
++      statement: "Reordering one of those characters is not changing one.",
+     },
+     {
+       invariantKind: "departure",
