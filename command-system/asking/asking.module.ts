@@ -144,11 +144,7 @@ export const asking = {
       statement:
         "A landing the install would not follow is answered as operational with the commit named.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A body the caller asked for is recorded as read by the agent that landed that body.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A lockfile this command made for the change is recorded as read by nobody.",
