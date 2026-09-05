@@ -12,7 +12,7 @@ export const stoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "Green is good and blue a stretch beyond it.",
+      statement: "Green is good and blue a stretch beyond green.",
     },
   ],
 } as const satisfies Domain
