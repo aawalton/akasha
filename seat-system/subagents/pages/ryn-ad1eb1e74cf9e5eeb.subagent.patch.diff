@@ -1,14 +1,20 @@
 diff --git a/commands/zimage/zimage.command.ts b/commands/zimage/zimage.command.ts
-index 07f6f8623b87d19bcddbf3b0784f5fe220208ec9..73fa988ef803b7f0cf9b598e70ec704f5fb55348 100644
+index 07f6f8623b87d19bcddbf3b0784f5fe220208ec9..2fb10a046ccb26631fee59fa0441848a50672d6c 100644
 --- a/commands/zimage/zimage.command.ts
 +++ b/commands/zimage/zimage.command.ts
-@@ -64,7 +64,8 @@ export const zimage = {
+@@ -64,11 +64,13 @@ export const zimage = {
      },
      {
        invariantKind: "departure",
 -      statement: "A checkpoint is staged under a name the path it came from is hashed into.",
 +      statement:
 +        "A checkpoint is staged under a name the path that checkpoint came from is hashed into.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A checkpoint already staged at the size it carries is staged no second time.",
++      statement:
++        "A checkpoint already staged at the size that checkpoint carries is staged no second time.",
      },
      {
        invariantKind: "departure",
