@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/file-length/file-length.code-check.ts b/checks/code-checks/pages/file-length/file-length.code-check.ts
+index c53360f730612912dfed8ca3d375567a7ab6446c..48f540ffc4780d8823fad3300d86d1ac8891acf9 100644
+--- a/checks/code-checks/pages/file-length/file-length.code-check.ts
++++ b/checks/code-checks/pages/file-length/file-length.code-check.ts
+@@ -50,7 +50,7 @@ export const fileLength = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal for a prose file names what dividing prose costs a reader.",
++      statement: "A refusal for a prose file names the cost dividing prose puts on a reader.",
+     },
+     {
+       invariantKind: "departure",
