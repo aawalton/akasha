@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
-index d7066777c8312d0f5b8f369bade7da49d93f8902..9d5ea3a08397d3181e9a4ef90dfdb328c25e0d16 100644
+index d7066777c8312d0f5b8f369bade7da49d93f8902..218189714eb0cc6aef5e6d824d9d7de615c09ef8 100644
 --- a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
 +++ b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
 @@ -39,7 +39,7 @@ export const watcherImportCompletion = {
@@ -12,7 +12,7 @@ index d7066777c8312d0f5b8f369bade7da49d93f8902..9d5ea3a08397d3181e9a4ef90dfdb328
      },
      {
        invariantKind: "departure",
-@@ -73,11 +73,11 @@ export const watcherImportCompletion = {
+@@ -73,15 +73,15 @@ export const watcherImportCompletion = {
      },
      {
        invariantKind: "departure",
@@ -23,6 +23,11 @@ index d7066777c8312d0f5b8f369bade7da49d93f8902..9d5ea3a08397d3181e9a4ef90dfdb328
        invariantKind: "departure",
 -      statement: "A caller may hand in what writes pages.",
 +      statement: "A caller may hand in the write of pages.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what answers a page's path.",
++      statement: "A caller may hand in the answering of a page's path.",
      },
      {
        invariantKind: "departure",
