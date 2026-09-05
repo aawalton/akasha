@@ -12,7 +12,7 @@ index f6b0f198243e7c36e403acb8828233b9e325ed9c..cc90290d53f9c6194b1e12744611ee60
      report: items.map((one) => {
        const tags = one.focusTags.length > 0 ? one.focusTags.join(",") : NOTHING
 diff --git a/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts b/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts
-index cae5fa13d06874cdea118adb337b382645fd5e86..c08a5539386e6772f84a2e2048f184e5199a0734 100644
+index cae5fa13d06874cdea118adb337b382645fd5e86..ef39118c29da9024117165132eddadad4969dc61 100644
 --- a/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts
 +++ b/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts
 @@ -4,7 +4,7 @@ export const exerciseConstraintList = {
@@ -33,6 +33,15 @@ index cae5fa13d06874cdea118adb337b382645fd5e86..c08a5539386e6772f84a2e2048f184e5
      { said: "--json", takes: "answer as JSON rather than as lines meant for a reader" },
    ],
    helpNotes: [
+@@ -28,7 +28,7 @@ export const exerciseConstraintList = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A constraint saying nothing about whether it stands is taken as standing.",
++      statement: "A constraint saying nothing about whether it is active is taken as active.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/alan/fitness/commands/exercise-equipment-list/exercise-equipment-list.command.code.ts b/alan/fitness/commands/exercise-equipment-list/exercise-equipment-list.command.code.ts
 index dacc7ddfbea96c0c9967bc5f8c54030c590a443f..7c4baa1e319be9796c6a6e0ee25906c17de8a276 100644
 --- a/alan/fitness/commands/exercise-equipment-list/exercise-equipment-list.command.code.ts
@@ -47,7 +56,7 @@ index dacc7ddfbea96c0c9967bc5f8c54030c590a443f..7c4baa1e319be9796c6a6e0ee25906c1
      report: items.map(
        (one) =>
 diff --git a/alan/fitness/commands/exercise-mobility-log/exercise-mobility-log.command.ts b/alan/fitness/commands/exercise-mobility-log/exercise-mobility-log.command.ts
-index 6fa5b43cb1cd2cba62987b8fc2daf1373c9a6904..24008ed18a9ac64ae9af75ffa295103f98203f3d 100644
+index 6fa5b43cb1cd2cba62987b8fc2daf1373c9a6904..a1c2ba182c118a42649a18b431b444221ffcb9c8 100644
 --- a/alan/fitness/commands/exercise-mobility-log/exercise-mobility-log.command.ts
 +++ b/alan/fitness/commands/exercise-mobility-log/exercise-mobility-log.command.ts
 @@ -9,7 +9,7 @@ export const exerciseMobilityLog = {
@@ -68,6 +77,15 @@ index 6fa5b43cb1cd2cba62987b8fc2daf1373c9a6904..24008ed18a9ac64ae9af75ffa295103f
      "only the readings carrying a number are read as a trend.",
      "a reading naming no side is filed without one.",
      "the day a reading falls on is the ESO day unless `--date` says otherwise.",
+@@ -39,7 +39,7 @@ export const exerciseMobilityLog = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The human read of a reading always stands.",
++      statement: "The human read of a reading is always required.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/fitness/commands/exercise-mobility-show/exercise-mobility-show.command.code.ts b/alan/fitness/commands/exercise-mobility-show/exercise-mobility-show.command.code.ts
 index f650e065b81a6854be6b4674f39191d62c1b1fa1..7c949b961ce368e447a3d0a552f0321687b3cd69 100644
 --- a/alan/fitness/commands/exercise-mobility-show/exercise-mobility-show.command.code.ts
