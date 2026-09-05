@@ -87,3 +87,11 @@ index 0c1eabc8742658a9cdd94121d4cc5829ece7d698..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/music/spotify
 \ No newline at end of file
+diff --git a/calendar-sync/calendar-sync b/calendar-sync/calendar-sync
+deleted file mode 120000
+index 678bd2b077159e5ed2a1798e94732669d602e9c5..0000000000000000000000000000000000000000
+--- a/calendar-sync/calendar-sync
++++ /dev/null
+@@ -1 +0,0 @@
+-../../calendar-sync
+\ No newline at end of file
