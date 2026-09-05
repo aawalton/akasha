@@ -1,0 +1,577 @@
+diff --git a/commands/read/read.command.code.ts b/commands/read/read.command.code.ts
+index 896066a8cffe01b2b0f71aae2ca9b5dd4b69b0a7..f2755c4785657c9ae1e58ad8348d7a45b20e4d24 100644
+--- a/commands/read/read.command.code.ts
++++ b/commands/read/read.command.code.ts
+@@ -1,6 +1,7 @@
+ import { existsSync, statSync } from "node:fs"
+ import { join, relative, resolve } from "node:path"
+ import { warrantedIn } from "@akasha/context/warranting"
++import { akashaSeatPathForCaller } from "@akasha/seat-system/seat-akasha-beside"
+ import { bytesAt, textOf } from "../../command-system/asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+ import { bodyRead, differenceOf } from "../../command-system/differing/differing.module.code.ts"
+@@ -57,6 +58,25 @@ export const NO_AGENT = [
+   "Say that `AGENT_ID` is unset and stop here, rather than finding a way around it.",
+ ].join("\n")
+ 
++export type SeatAt = (agentId: string) => string | null
++
++// A CALLER IDENTIFIED AND A CALLER SEATED ARE DIFFERENT FAULTS. `NO_AGENT` says nothing named who
++// called; this says who called and that no seat page is filed under that name. Answering the two
++// the same way would send an agent looking for an unset variable that is set.
++export function noSeatFor(agentId: string): string {
++  return [
++    `A read naming no file reads your own seat page, and akasha holds no seat page for \`${agentId}\`,`,
++    "so there is no seat reading here to hand you. You are identified: what is missing is the seat,",
++    "not the agent.",
++    "Name what to read with `--file-path <path>`, and say that your agent id reaches no seat page.",
++  ].join("\n")
++}
++
++function ownSeatIn(agentId: string, seatAt: SeatAt): readonly string[] | null {
++  const at = seatAt(agentId)
++  return at === null ? null : [at]
++}
++
+ export type Target = {
+   readonly named: string
+   readonly absolute: string
+@@ -116,7 +136,6 @@ function meaning(argv: readonly string[]): Meant {
+     }
+     return refused(`\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\``)
+   }
+-  if (paths.length === 0) return refused(`${FILE_PATH} names a file to read, and none was given`)
+   return { paths, full, refusal: null }
+ }
+ 
+@@ -255,7 +274,12 @@ export function reachedTo(run: Run): number | null {
+   return run.through === run.of ? null : run.through
+ }
+ 
+-export function readWith(argv: readonly string[], given: Given, thrown: Discard | null): Answer {
++export function readWith(
++  argv: readonly string[],
++  given: Given,
++  thrown: Discard | null,
++  seatAt: SeatAt = akashaSeatPathForCaller
++): Answer {
+   if (thrown !== null) {
+     return {
+       report: [],
+@@ -271,7 +295,9 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard
+   if (agentId === null) return { report: [], refusals: [NO_AGENT], code: 1 }
+   const meant = meaning(argv)
+   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
+-  const aimed = aiming(meant.paths, given)
++  const named = meant.paths.length > 0 ? meant.paths : ownSeatIn(agentId, seatAt)
++  if (named === null) return { report: [], refusals: [noSeatFor(agentId)], code: 1 }
++  const aimed = aiming(named, given)
+   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
+   const queue = spreading(aimed.targets, given)
+   const report: string[] = []
+diff --git a/commands/read/read.command.test-fixtures.ts b/commands/read/read.command.test-fixtures.ts
+index be0c632a133f8c102d61cb0822bd2a8804ddae45..e56b6ed3c2d1e50231769fa655be7916705e6b31 100644
+--- a/commands/read/read.command.test-fixtures.ts
++++ b/commands/read/read.command.test-fixtures.ts
+@@ -16,6 +16,7 @@ import {
+   linesFor,
+   readWith,
+   restCall,
++  type SeatAt,
+   tellingWith,
+ } from "./read.command.code.ts"
+ import { read as readCommand } from "./read.command.ts"
+@@ -60,8 +61,87 @@ export function givenFor(root: string) {
+ 
+ export const bodyOf = bytesOf
+ 
+-export function read(argv: readonly string[], given: Given): Answer {
+-  return readWith(argv, given, null)
++export const SEAT_PAGE = "seat-system/seats/pages/held.seat.ts"
++
++export const BIN = "akasha/one/held.bin"
++
++// WHICH SEAT PAGE A BARE READ REACHES IS SAID BY THE TEST RATHER THAN BY THE FLEET. The command
++// resolves it against akasha's own index of seats, which no scratch root holds, so a test says what
++// that resolution answers, and the resolution itself is exercised by hand against the checkout.
++const SEATLESS: SeatAt = () => null
++
++export function seatedAt(at: string): SeatAt {
++  return (agentId) => (agentId === AGENT ? at : null)
++}
++
++export function seatRoot(body = "one\ntwo\n"): string {
++  return rootWith([{ at: SEAT_PAGE, body }])
++}
++
++export function read(argv: readonly string[], given: Given, seatAt: SeatAt = SEATLESS): Answer {
++  return readWith(argv, given, null, seatAt)
++}
++
++export type Rooted = { readonly root: string; readonly said: Answer }
++
++export function bareRead(at: string | null): Rooted {
++  const root = seatRoot()
++  return { root, said: read([], givenFor(root), at === null ? SEATLESS : seatedAt(at)) }
++}
++
++export type Besided = Rooted & { readonly asked: () => number }
++
++export function besideSeat(): Besided {
++  const root = rootWith([
++    { at: HELD, body: "one\n" },
++    { at: SEAT_PAGE, body: "seat\n" },
++  ])
++  let asked = 0
++  const said = read(["--file-path", HELD], givenFor(root), () => {
++    asked += 1
++    return SEAT_PAGE
++  })
++  return { root, said, asked: () => asked }
++}
++
++export function binRead(bytes: readonly number[]): Rooted {
++  const root = rootWith([{ at: BIN, body: new Uint8Array(bytes) }])
++  return { root, said: read(["--file-path", BIN], givenFor(root)) }
++}
++
++export function tooWideRead(): Answer {
++  const root = rootWith([{ at: LONG, body: `${"x".repeat(ANSWER_CEILING + 1)}\n` }])
++  return read(["--file-path", LONG], givenFor(root))
++}
++
++export type Overflowed = Rooted & {
++  readonly left: readonly string[]
++  readonly returned: readonly string[]
++}
++
++export function overMany(): Overflowed {
++  const root = rootWith(manyFiles())
++  const said = read(namingAll(), givenFor(root))
++  return { root, said, left: leftIn(said.report), returned: wholeIn(said.report) }
++}
++
++export function restOfMany(): Overflowed {
++  const root = rootWith(manyFiles())
++  const left = leftIn(read(namingAll(), givenFor(root)).report)
++  const said = read(namingEach(left), givenFor(root))
++  return { root, said, left, returned: wholeIn(said.report) }
++}
++
++export type Moved = { readonly said: Answer; readonly held: Reading | null; readonly now: string }
++
++export function movedAfterCommit(): Moved {
++  const root = heldRoot(lettered(80))
++  committed(root, HELD)
++  read(["--file-path", HELD], givenFor(root))
++  const now = lettered(80).replace("line 40 ", "line forty ")
++  writeFileSync(join(root, HELD), now)
++  const said = read(["--file-path", HELD], givenFor(root))
++  return { said, held: readingIn(root, AGENT, HELD), now }
+ }
+ 
+ export function heldRoot(body = "one\n"): string {
+diff --git a/commands/read/read.command.test.ts b/commands/read/read.command.test.ts
+index dbb2292a52e9bd0adb1577ee198c82bfcd22e009..5587ea9a9ac46caae1c41b126c1d2042f96fef2f 100644
+--- a/commands/read/read.command.test.ts
++++ b/commands/read/read.command.test.ts
+@@ -7,14 +7,17 @@ import {
+   readingIn,
+   sameBody,
+ } from "../../command-system/reading/reading.module.code.ts"
+-import { ANSWER_CEILING, costOf, NO_AGENT, readWith } from "./read.command.code.ts"
++import { ANSWER_CEILING, costOf, NO_AGENT, noSeatFor, readWith } from "./read.command.code.ts"
+ import {
+   AGENT,
++  BIN,
++  bareRead,
+   begunAgain,
++  besideSeat,
++  binRead,
+   bodyOf,
+   CALLED_AS,
+   ceilinged,
+-  committed,
+   everyPaged,
+   givenAt,
+   givenFor,
+@@ -30,20 +33,24 @@ import {
+   longFirst,
+   longWhole,
+   MANY,
+-  manyFiles,
+-  namingAll,
+-  namingEach,
++  movedAfterCommit,
++  overMany,
+   priced,
+   read,
++  restOfMany,
+   rootWith,
++  SEAT_PAGE,
+   STRAY,
+   scratch,
++  seatedAt,
++  seatRoot,
+   strayRoot,
+   TAKING,
+   THING,
+   THING_TYPE,
+   telling,
+   thingRoot,
++  tooWideRead,
+   WARRANTED,
+   wholeIn,
+   wholeNumbered,
+@@ -60,12 +67,34 @@ test("a file inside akasha comes back whole and line-numbered", () => {
+   expect(said.report[1]).toBe("     1\tone\n     2\ttwo\n     3\tthree")
+ })
+ 
+-test("naming no file is a caller mistake and nothing is read", () => {
+-  const root = rootWith([])
+-  const said = read([], givenFor(root))
++test("naming no file reads the calling agent's own seat page", () => {
++  const { root, said } = bareRead(SEAT_PAGE)
++  expect(said.code).toBe(0)
++  expect(said.refusals).toEqual([])
++  expect(said.report[0]).toBe(`${SEAT_PAGE} — the whole file follows, 2 lines`)
++  expect(readingIn(root, AGENT, SEAT_PAGE)).not.toBeNull()
++})
++
++test("naming no file where the agent holds no seat page says the seat is what is missing", () => {
++  const { said } = bareRead(null)
+   expect(said.code).toBe(1)
+   expect(said.report).toEqual([])
+-  expect(said.refusals[0]).toContain("--file-path names a file to read")
++  expect(said.refusals).toEqual([noSeatFor(AGENT)])
++  expect(said.refusals[0]).toContain("You are identified")
++})
++
++test("naming no file where nothing identifies the agent is refused as no agent", () => {
++  const said = read([], givenAt(seatRoot()), seatedAt(SEAT_PAGE))
++  expect(said.code).toBe(1)
++  expect(said.report).toEqual([])
++  expect(said.refusals).toEqual([NO_AGENT])
++})
++
++test("a file named alongside is read, and the seat page is never reached for", () => {
++  const { root, said, asked } = besideSeat()
++  expect(asked()).toBe(0)
++  expect(said.report[0]).toContain(HELD)
++  expect(readingIn(root, AGENT, SEAT_PAGE)).toBeNull()
+ })
+ 
+ test("a path outside the repository is refused rather than read", () => {
+@@ -108,18 +137,14 @@ test("naming one file twice is refused before anything is read", () => {
+ })
+ 
+ test("a body that is not UTF-8 text says what it is instead of the body", () => {
+-  const root = rootWith([
+-    { at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00, 0x41]) },
+-  ])
+-  const said = read(["--file-path", "akasha/one/held.bin"], givenFor(root))
++  const { said } = binRead([0xff, 0xfe, 0x00, 0x41])
+   expect(said.code).toBe(0)
+   expect(said.report.length).toBe(1)
+   expect(said.report[0]).toContain("4 bytes that are not UTF-8 text, beginning `fffe0041`")
+ })
+ 
+ test("a line no answer has room for is refused rather than divided", () => {
+-  const root = rootWith([{ at: LONG, body: `${"x".repeat(ANSWER_CEILING + 1)}\n` }])
+-  const said = read(["--file-path", LONG], givenFor(root))
++  const said = tooWideRead()
+   expect(said.code).toBe(3)
+   expect(said.report).toEqual([])
+   expect(said.refusals[0]).toContain(`line 1 is ${ANSWER_CEILING + 8} bytes on its own`)
+@@ -141,13 +166,10 @@ test("an argument this does not take is a caller mistake", () => {
+ })
+ 
+ test("more than one answer holds comes back as fewer files and a call for the rest", () => {
+-  const root = rootWith(manyFiles())
+-  const said = read(namingAll(), givenFor(root))
++  const { said, left, returned } = overMany()
+   expect(said.code).toBe(0)
+   expect(said.refusals).toEqual([])
+-  const left = leftIn(said.report)
+   expect(left.length).toBeGreaterThan(0)
+-  const returned = said.report.filter((one) => one.includes("the whole file follows"))
+   expect(returned.length).toBeGreaterThan(0)
+   expect(returned.length + left.length).toBe(MANY)
+   for (const one of left) {
+@@ -156,20 +178,14 @@ test("more than one answer holds comes back as fewer files and a call for the re
+ })
+ 
+ test("the answer holding a call for the rest is itself under the ceiling", () => {
+-  const root = rootWith(manyFiles())
+-  const said = read(namingAll(), givenFor(root))
+-  expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
++  expect(costOf(overMany().said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
+ })
+ 
+ test("the call for the rest reads exactly what was left, and then the set is done", () => {
+-  const root = rootWith(manyFiles())
+-  const first = read(namingAll(), givenFor(root))
+-  const left = leftIn(first.report)
+-  const second = read(namingEach(left), givenFor(root))
+-  expect(second.code).toBe(0)
+-  const returned = second.report.filter((one) => one.includes("the whole file follows"))
++  const { said, left, returned } = restOfMany()
++  expect(said.code).toBe(0)
+   expect(returned.length).toBe(left.length)
+-  expect(costOf(second.report)).toBeLessThanOrEqual(ANSWER_CEILING)
++  expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
+ })
+ 
+ test("every argument the page shows is an argument this takes", () => {
+@@ -210,10 +226,9 @@ test("a read whose output is thrown away returns nothing and records nothing", (
+ })
+ 
+ test("a body that is not text reaches nobody, so nothing is recorded", () => {
+-  const root = rootWith([{ at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00]) }])
+-  const said = read(["--file-path", "akasha/one/held.bin"], givenFor(root))
++  const { root, said } = binRead([0xff, 0xfe, 0x00])
+   expect(said.code).toBe(0)
+-  expect(readingIn(root, AGENT, "akasha/one/held.bin")).toBeNull()
++  expect(readingIn(root, AGENT, BIN)).toBeNull()
+ })
+ 
+ test("an empty body reached the agent whole, so it is recorded", () => {
+@@ -294,14 +309,9 @@ test("a file past what one answer holds comes back as its difference", () => {
+ })
+ 
+ test("a committed body is found again, so a moved body is what changed", () => {
+-  const root = heldRoot(lettered(80))
+-  committed(root, HELD)
+-  read(["--file-path", HELD], givenFor(root))
+-  const now = lettered(80).replace("line 40 ", "line forty ")
+-  writeFileSync(join(root, HELD), now)
+-  const said = read(["--file-path", HELD], givenFor(root))
++  const { said, held, now } = movedAfterCommit()
+   expect(said.report[0]).toContain("80 lines now, and what changed follows")
+-  expect(readingIn(root, AGENT, HELD)?.oid).toBe(blobIdOf(bodyOf(now)))
++  expect(held?.oid).toBe(blobIdOf(bodyOf(now)))
+ })
+ 
+ test("an agent whose record holds nothing gets the body whole", () => {
+diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
+index 169f1022f6d878a1ae99db34c06e61e0499896b7..cb4000454fd7c993da8893fbba3282b9e6f19356 100644
+--- a/commands/read/read.command.ts
++++ b/commands/read/read.command.ts
+@@ -12,10 +12,14 @@ export const read = {
+   changeKindSlug: "change-none",
+   partSlugs: ["module/long-body"],
+   taking: [
+-    { said: "--file-path <path>", takes: "a file in the repository to read" },
++    {
++      said: "--file-path <path>",
++      takes: "a file in the repository to read, in place of your own seat page",
++    },
+     { said: "--full", takes: "the whole body, whatever your record holds" },
+   ],
+   helpNotes: [
++    "a read naming no file reads your own seat page, which warrants the whole of your seat reading.",
+     "--file-path repeats, so several files come back from one call.",
+     "a read also hands back what the files you name warrant, so one call answers the gate.",
+     "a body your record already holds comes back as one line rather than the file.",
+@@ -138,6 +142,22 @@ export const read = {
+       invariantKind: "departure",
+       statement: "A read for an agent nothing identifies is refused.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A read naming no file reads the calling agent's own seat page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent's own seat page is the page of the seat above it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An agent that holds no seat page is refused with that as the reason.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That refusal says the agent was identified and the seat was not found.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A read hands back what the file the read names warrants.",
+diff --git a/seat-system/compose-boot/compose-boot.module.code.ts b/seat-system/compose-boot/compose-boot.module.code.ts
+index 7c53cd045afd545aeaf84344a65e3a7e62122868..8923bdc53df1f2347b08b5e71b00ce0ebe84bdb0 100644
+--- a/seat-system/compose-boot/compose-boot.module.code.ts
++++ b/seat-system/compose-boot/compose-boot.module.code.ts
+@@ -5,24 +5,24 @@ import {
+   type Attributes,
+   attributesOf,
+ } from "../seat-attributes/seat-attributes.module.code.ts"
+-import { akashaSeatRelPath } from "../seat-page-akasha/seat-page-akasha.module.code.ts"
+-import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
+ 
+ const HELP = `compose-boot — compose a seat's system prompt: who it is, and the read that loads the rest
+ 
+ WHAT A SEAT IS BOUND TO IS NOT IN ITS PROMPT. This composes who the seat is, from its stated
+-persona, domain and role, and the one call that names every page those bind it to.
++persona, domain and role, and the one call that reaches every page those bind it to.
+ 
+ The pages themselves are read, never handed over: text in a prompt is credited as read without
+ anybody reading it, and it remains after the file under it has moved. So nothing here is
+ credited, and a seat begins owing every page it is bound to.
+ 
+-The call names the seat's own page. What that page warrants is what the seat must read, and the
+-warrants answer it: the persona and the role and the domain it states, the type of each, and every
+-domain the one it states is a part of.
++The call carries no path. A bare \`akasha read\` reads the caller's own seat page, and what that page
++warrants is what the seat must read, and the warrants answer it: the persona and the role and the
++domain it states, the type of each, and every domain the one it states is a part of. A path spelled
++into a prompt is the one thing a mover cannot repoint, so none is spelled.
+ 
+-A seat stating nothing composes to nothing and exits 0. Nothing here refuses: this
+-feeds a spawn, and a seat that does not start is worse than one carrying less.
++A seat stating nothing is told so and is told to run the call all the same: a seat that does not
++know who it is is the one that most needs the read. Nothing here refuses: this feeds a spawn, and a
++seat that does not start is worse than one carrying less.
+ 
+ Usage:
+   bun seat-system/compose-boot/compose-boot.module.code.ts --agent <id> [--out <path>]
+@@ -64,29 +64,29 @@ function claim(attributes: Attributes): string {
+   return named.length === 0 ? "" : named.join(", ")
+ }
+ 
+-export const SEAT_READ = "akasha read --file-path"
++export const SEAT_READ = "akasha read"
+ 
+ const READING =
+   "What that means is in pages, and none of them is here. They are read rather than handed " +
+   "over, so that what you act on is the text on disk now rather than the text that was composed when " +
+-  "you started. This one call names every one of them and hands back as many as one answer carries:"
++  "you started. This one call reaches every one of them and hands back as many as one answer carries:"
+ 
+-export function compose(seat: string, at: string | null, sent = ""): string {
+-  if (seat === "" && sent === "") return ""
++// A SEAT WHOSE ATTRIBUTES REACHED NOTHING STILL GETS A PROMPT. What composed to nothing was exactly
++// the seat that most needed the read, and the instruction to read went with the emptiness.
++const UNKNOWN =
++  "Nothing here states who you are: no persona, no domain and no role reached this prompt. Where " +
++  "that is stated is behind the read below, so run it before you take yourself for nobody."
++
++export function compose(seat: string, sent = ""): string {
+   return (
+-    (seat === "" ? "" : `You are ${seat}.\n`) +
++    (seat === "" ? `${UNKNOWN}\n` : `You are ${seat}.\n`) +
+     (sent === "" ? "" : `\n${sent}\n`) +
+-    (at === null ? "" : `\n${READING}\n\n    ${SEAT_READ} ${at}\n\nRun it before you act.\n`)
++    `\n${READING}\n\n    ${SEAT_READ}\n\nRun it before you act.\n`
+   )
+ }
+ 
+-export function seatReadPath(agent: string): string | null {
+-  const seatName = seatNameForAgent(agent)
+-  return seatName === null ? null : akashaSeatRelPath(seatName)
+-}
+-
+ export function compositionFor(agent: string): string {
+-  return compose(claim(attributesOf(agent)), seatReadPath(agent))
++  return compose(claim(attributesOf(agent)))
+ }
+ 
+ function main(): undefined {
+diff --git a/seat-system/compose-boot/compose-boot.module.ts b/seat-system/compose-boot/compose-boot.module.ts
+index 755e056247bbb0cbe50d15be3f54c7bbbefddda0..9f97966e7029d056cea7edf312d744eb32178caa 100644
+--- a/seat-system/compose-boot/compose-boot.module.ts
++++ b/seat-system/compose-boot/compose-boot.module.ts
+@@ -7,4 +7,18 @@ export const composeBoot = {
+   definition:
+     "a seat's system prompt: who it is, and the one read that loads everything it is bound to",
+   code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A composition states who the seat is and instructs the read that loads the rest.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat whose attributes state nothing is told so and is told to read.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A composition carries no path.",
++    },
++  ],
+ } as const satisfies Module
+diff --git a/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts b/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts
+index 0587ba678075a9c2ac806ff939dd028d85f9255d..3e0b9c191b1b84cf056f25263acecbcd947708df 100644
+--- a/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts
++++ b/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts
+@@ -5,6 +5,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
+ import { everyOfType, listedById } from "@akasha/pages-system/index-reading"
+ import { uncommittedAt } from "@akasha/pages-system/page-file-name"
+ import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
++import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
+ 
+ export type Beside = Record<string, unknown>
+ 
+@@ -62,6 +63,16 @@ export function akashaSeatPathForAgent(agentId: string): string | null {
+   return one?.path.startsWith(SEAT_DIR) === true ? one.path : null
+ }
+ 
++// THE SEAT PAGE A CALLER READS FOR ITS OWN SEAT READING. A subagent holds no page of its own here,
++// so it is answered the page of the seat it was spawned under, found by splitting its id the way
++// its values already are.
++export function akashaSeatPathForCaller(agentId: string): string | null {
++  const own = akashaSeatPathForAgent(agentId)
++  if (own !== null) return own
++  const above = seatAbove(agentId)
++  return above === null ? null : akashaSeatPathForAgent(above)
++}
++
+ const SEAT_SUFFIX = ".seat.ts"
+ 
+ export function akashaSeatSlugOf(agentId: string): string | null {
+diff --git a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+index 31107fd6b165e8b7ac3e1156d5ab2a722c7d05de..76d0c537f8786cc38f941f7c3915d5343cfd65e6 100644
+--- a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
++++ b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+@@ -19,6 +19,10 @@ export const seatAkashaBeside = {
+       invariantKind: "departure",
+       statement: "A seat's slug is read off its page file name rather than out of the page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A subagent is answered the page of the seat above it.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A value asked for under a key the table does not name comes back as nothing.",
+diff --git a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts
+index 8e2d0f0575f8caf58a7abee5ea4109dcefa261a5..391d865c6358550274e813724966132f66dd8293 100644
+--- a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts
++++ b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts
+@@ -18,9 +18,12 @@ export function materializeBootPrompt(
+   const target = `${opts?.tmpDir ?? "/var/tmp"}/agent-boot-prompt-${agentId}.md`
+   const tmp = `${target}.tmp-${process.pid}`
+   try {
++    // A COMPOSITION IS NEVER EMPTY: it always states who the seat is and always instructs the read.
++    // This stays as the guard on that rather than as an ordinary case, because handing a spawn an
++    // empty prompt file is worse than handing it none, and an empty one now means something broke.
+     const body = compositionFor(agentId)
+     if (body === "") {
+-      console.log(`${LOG} ${agentId} composed to nothing; spawning with no authored prompt`)
++      console.log(`${LOG} ${agentId} composed to nothing, which cannot happen; spawning with none`)
+       return Promise.resolve(null)
+     }
+     writeFileSync(tmp, body)
+diff --git a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts
+index c79e0592948c4bbd94777e328e645025f6600b96..3b64c38c8a0ef2915c965dd81aa1fad9c48aacfb 100644
+--- a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts
++++ b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.ts
+@@ -15,6 +15,10 @@ export const supervisorBootPrompt = {
+       invariantKind: "departure",
+       statement: "A composing that throws is caught and the seat spawns without a prompt.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A composition that came back empty spawns with no authored prompt.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A prompt is renamed into place so no half-written file is ever handed over.",
