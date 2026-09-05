@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/modules/model-running/model-running.module.ts b/checks/modules/model-running/model-running.module.ts
+index 1d60b78ba14dd139aba3ef3a965e46175f19bafb..380c6fc2302c3e6ec40c5f55bfe55f24bc21cdda 100644
+--- a/checks/modules/model-running/model-running.module.ts
++++ b/checks/modules/model-running/model-running.module.ts
+@@ -56,7 +56,7 @@ export const modelRunning = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here says what makes a statement bad.",
++      statement: "Nothing here says why a statement is bad.",
+     },
+     {
+       invariantKind: "stopgap",
