@@ -84,8 +84,7 @@ export const monarchEval = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Uncategorized is not offered, because it splits declining across a confidence level and a category choice, and neither figure then means what it says.",
+      statement: "Uncategorized is not offered.",
     },
     {
       invariantKind: "departure",
