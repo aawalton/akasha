@@ -1,25 +1,3 @@
-diff --git a/commands/move/outside/move-outside.module.code.ts b/commands/move/outside/move-outside.module.code.ts
-index 808a11f8bf9006e9d7a3e88d5adc708b21dbf6bf..5d0e9fd4b8c4e1ee501b2f4c575aff22e5dc34b5 100644
---- a/commands/move/outside/move-outside.module.code.ts
-+++ b/commands/move/outside/move-outside.module.code.ts
-@@ -85,7 +85,8 @@ export function outsideIn(
-   root: string,
-   base: string,
-   moved: ReadonlyMap<string, string>,
--  already: ReadonlySet<string>
-+  already: ReadonlySet<string>,
-+  machineWrites: (path: string) => boolean
- ): Outside | { readonly refusal: string } {
-   const found = spelledRespelt(
-     root,
-@@ -100,6 +101,7 @@ export function outsideIn(
-   const changes: FileEdit[] = []
-   const carries: Carry[] = []
-   for (const one of found.respelt) {
-+    if (machineWrites(one.path)) continue
-     paths.push(one.path)
-     if (reachesIn(one.path, one.was, moved).length > 0) reaching.push(one.path)
-     carries.push({ was: one.path, now: one.path, from: blobIdOf(one.held) })
 diff --git a/context/warrants/file-itself/file-itself.context-warrant.code.ts b/context/warrants/file-itself/file-itself.context-warrant.code.ts
 index 5730340ca2d5c650e810196903e3f2b2f580d2fa..5644c1c214cf5dc1a008795e35c1f50f5b9b1799 100644
 --- a/context/warrants/file-itself/file-itself.context-warrant.code.ts
