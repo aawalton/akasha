@@ -1,0 +1,15 @@
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index af9a5bd215a2378aef9fab2fa525cd3cbae58c09..feaaedba48392afea3425658edbcdd10c830e3f4 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -88,5 +88,10 @@ export const commandSystem = {
+       invariantKind: "absence",
+       statement: "No command of the old ops CLI remains, and nothing dispatches one.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A command is reached by importing it or by naming it rather than by spelling its path.",
++    },
+   ],
+ } as const satisfies WorkspacePackage
