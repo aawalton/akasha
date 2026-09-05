@@ -30,7 +30,7 @@ export const watcherConfig = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a directory to learn what the directory holds.",
+      statement: "Nothing here reads a directory to learn the directory's entries.",
     },
     {
       invariantKind: "absence",
