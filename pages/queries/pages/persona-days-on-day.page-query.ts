@@ -7,6 +7,6 @@ export const personaDaysOnDay = {
   asksOfSlug: "persona-day",
   parameters: [{ name: "date", type: "calendar-date" }],
   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
-  keys: ["persona-slug", "date", "points"],
+  keys: ["persona-slug", "date"],
   limit: 1000,
 } as const satisfies PageQuery

@@ -13,7 +13,6 @@ export const love = {
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",
   groupSlugs: ["readout-group/values"],
-  querySlug: "value-green-day-units-on-day",
   queryArgument: "value",
   queryKey: "love",
 } as const satisfies Value
