@@ -1259,6 +1259,27 @@ index 0000000000000000000000000000000000000000..e73c21e466a0c9cea8358f29e23fae43
 +  definition: "the stretches of Alan's day, read as rows beside the day each is part of",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/alan/tracking/daily/session-points-totals/session-points-totals.module.code.ts b/alan/tracking/daily/session-points-totals/session-points-totals.module.code.ts
+index 693b85059780762995c8e308e1432260e32d28b8..1dbb7d9333adb5156bd5fcb49c05e55d7a10598c 100644
+--- a/alan/tracking/daily/session-points-totals/session-points-totals.module.code.ts
++++ b/alan/tracking/daily/session-points-totals/session-points-totals.module.code.ts
+@@ -1,12 +1,15 @@
+ import { getEsoDayWindow } from "@akasha/day/eso-day"
+ import { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
+ import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
+-import { allSessions, sessionPropertyUndeclared } from "../day-place/day-place.module.code.ts"
+ import {
+   numberOf,
+   SOURCE_POINTS_FIELD,
+   textOf,
+ } from "../day-scan-window/day-scan-window.module.code.ts"
++import {
++  allSessions,
++  sessionPropertyUndeclared,
++} from "../day-stretches/day-stretches.module.code.ts"
+ import {
+   type PersonaDayTarget,
+   patchPersonaDayField,
 diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
 index 68c9270c699a96eb8ad4bde4698183df5afa27cb..b4302b2164080726c620561f813debf45c566e56 100644
 --- a/alan/tracking/daily/tracking-daily.domain.ts
