@@ -1,5 +1,5 @@
 diff --git a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
-index 30c24c8c54c2d71a6c84f972fc746351f789c342..092973acc4a96cd7daaa712ab58236000aba4e19 100644
+index 30c24c8c54c2d71a6c84f972fc746351f789c342..d1d49ba4f6f8445429df9d44fbc0e872e7bf7b03 100644
 --- a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
 +++ b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
 @@ -32,8 +32,8 @@ function numberOf(value: unknown): number | null {
@@ -13,6 +13,18 @@ index 30c24c8c54c2d71a6c84f972fc746351f789c342..092973acc4a96cd7daaa712ab5823600
    return held === null || count < held ? count : null
  }
  
+@@ -136,9 +136,9 @@ function encoded(body: string): Uint8Array {
+ }
+ 
+ function stoodAs(root: string, at: string, body: string, slug: string): undefined {
+-  let stood: string
++  let onDisk: string
+   try {
+-    stood = readFileSync(join(root, at), "utf8")
++    onDisk = readFileSync(join(root, at), "utf8")
+   } catch (thrown) {
+     throw new Error(
+       `the landing of \`${slug}\` reported no fault and ${at} cannot be read back, so nothing says ` +
 diff --git a/alan/harness/inboxes/email-rules/email-rule-agents/pages/ki-invitations.email-rule-agent.ts b/alan/harness/inboxes/email-rules/email-rule-agents/pages/ki-invitations.email-rule-agent.ts
 index 70711102fb397064f4431ae84fea6c327fc37e47..0a22601929bd8bbd8a24b7de66e0a5a5296b2db5 100644
 --- a/alan/harness/inboxes/email-rules/email-rule-agents/pages/ki-invitations.email-rule-agent.ts
@@ -25,7 +37,7 @@ index 70711102fb397064f4431ae84fea6c327fc37e47..0a22601929bd8bbd8a24b7de66e0a5a5
 +    "**Accept every invitation Ki Goff sends Alan, then archive it.**\n\nAccepting is reversible, so a yes given in advance commits the default and never the outcome. Jen is invited on her own address and answers for herself. A clash with his calendar goes to him.",
  } as const satisfies EmailRuleAgent
 diff --git a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
-index d0c77c2be80899f343c9fdfb4f3d102ad7153201..27e52f68ead6378d1c0e7bef07f39d757e933cca 100644
+index d0c77c2be80899f343c9fdfb4f3d102ad7153201..d6f37889d2f4e3a5b081354c1accca7feae36f21 100644
 --- a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
 +++ b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
 @@ -14,7 +14,7 @@ export const inboxTrackingPolling = {
@@ -34,6 +46,15 @@ index d0c77c2be80899f343c9fdfb4f3d102ad7153201..27e52f68ead6378d1c0e7bef07f39d75
        statement:
 -        "What is written is the count standing now, together with whether that inbox was cleared to zero today.",
 +        "What is written is the count now, together with whether that inbox was cleared to zero today.",
+     },
+     {
+       invariantKind: "departure",
+@@ -27,7 +27,7 @@ export const inboxTrackingPolling = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The email count is kept on the wake day only where it is lower than the count already standing there.",
++        "The email count is kept on the wake day only where it is lower than the count already there.",
      },
      {
        invariantKind: "departure",
