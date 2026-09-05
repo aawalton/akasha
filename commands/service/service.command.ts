@@ -33,7 +33,7 @@ export const service = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The act is first and what the act acts on is after the act.",
+      statement: "The act is first and the service acted on is after the act.",
     },
     {
       invariantKind: "departure",
