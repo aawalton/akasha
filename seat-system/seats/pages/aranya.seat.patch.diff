@@ -151,3 +151,11 @@ index 725112661fcc00860e1a37836e5668a74105316e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../domains/plain-language
 \ No newline at end of file
+diff --git a/google/calendar/google-calendar b/google/calendar/google-calendar
+deleted file mode 120000
+index fcf94f68fa48e5ed1f7526e92735f9871d3a82b3..0000000000000000000000000000000000000000
+--- a/google/calendar/google-calendar
++++ /dev/null
+@@ -1 +0,0 @@
+-../../google/calendar
+\ No newline at end of file
