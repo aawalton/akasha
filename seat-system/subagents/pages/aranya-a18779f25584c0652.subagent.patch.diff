@@ -1,0 +1,13 @@
+diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
+index b51c76b0b97b597229befb88fa9cf65a05f30555..5dda3982470f3c56f781d1b606fd8986bb8e0989 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.code.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.code.ts
+@@ -321,7 +321,7 @@ export function stampedAt(when: Date): string {
+ }
+ 
+ function saying(why: string): number {
+-  process.stderr.write(`${stampedAt(new Date())} ${CALLED_AS}: ${why}\n`)
++  process.stderr.write(`${CALLED_AS}: ${why}\n`)
+   return 1
+ }
+ 
