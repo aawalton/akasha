@@ -145,6 +145,40 @@ describe("the values a page type's calculations work out", () => {
     expect(working?.dark.get("here")).toContain("comes back to where that chain started")
   })
 
+  test("a calculation reading a key no calculation has worked yet is refused by name", () => {
+    const source = sourceOf({
+      day: {
+        id: "1",
+        value: { faithPoints: 2 },
+        computed: [held("faith-stoplight", "text", (one) => (one["faithLevel"] === 3 ? "A" : "B"))],
+        unready: [
+          {
+            key: "faithLevel",
+            why: "`faith-level` is a formula, and a calculation reads no formula",
+          },
+        ],
+      },
+    })
+    const working = computingOver(source).workedAt("day")
+    expect(working?.dark.get("faith-stoplight")).toContain("a calculation reads no formula")
+    expect("faith-stoplight" in (working?.value ?? {})).toBe(false)
+  })
+
+  test("a key no calculation has worked yet is left out of what a page carries", () => {
+    const source = sourceOf({
+      day: {
+        id: "1",
+        value: { faithPoints: 2 },
+        computed: [held("doubled", "number", (one) => (one["faithPoints"] as number) * 2)],
+        unready: [{ key: "faithLevel", why: "not yet" }],
+      },
+    })
+    const working = computingOver(source).workedAt("day")
+    expect(working?.value["doubled"]).toBe(4)
+    expect("faithLevel" in (working?.value ?? {})).toBe(false)
+    expect(working?.dark.size).toBe(0)
+  })
+
   test("a page no slug names is answered as nothing", () => {
     expect(computingOver(sourceOf({})).workedAt("gone")).toBe(null)
   })

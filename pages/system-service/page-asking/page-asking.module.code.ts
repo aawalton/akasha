@@ -2,7 +2,12 @@ import { readFileSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import { listedAt, type Valued, valuesOfType } from "@akasha/indexes"
 import { workIn } from "@akasha/pages-system/calculation-loading"
-import { type Computed, computingOver, type Subject } from "@akasha/pages-system/page-computing"
+import {
+  type Computed,
+  computingOver,
+  type Subject,
+  type Unready,
+} from "@akasha/pages-system/page-computing"
 import { entriedValue } from "@akasha/pages-system/page-entries"
 import {
   type Barred,
@@ -304,13 +309,31 @@ export type Counted = {
   readonly dark: ReadonlyMap<string, string>
 }
 
-export function computedInto(computed: readonly Computed[], read: readonly Valued[]): Counted {
+export function unreadyIn(carried: readonly Carried[]): readonly Unready[] {
+  return carried
+    .filter((one) => one.pageTypeSlug === FORMULA)
+    .map((one) => ({
+      key: one.key,
+      why: `\`${one.propertySlug}\` is a formula, and every calculation is worked out before any formula, so a calculation reads no formula. carry \`${one.propertySlug}\` to a calculation before the calculation reading it`,
+    }))
+}
+
+export function computedInto(
+  computed: readonly Computed[],
+  read: readonly Valued[],
+  unready: readonly Unready[] = []
+): Counted {
   if (computed.length === 0) return { rows: read, dark: new Map() }
   const subjects = new Map<string, Subject>()
   for (const one of read) {
     const slug = textAt(one.value, "slug")
     if (slug !== null && !subjects.has(slug)) {
-      subjects.set(slug, { id: textAt(one.value, "id") ?? one.path, value: one.value, computed })
+      subjects.set(slug, {
+        id: textAt(one.value, "id") ?? one.path,
+        value: one.value,
+        computed,
+        unready,
+      })
     }
   }
   const computing = computingOver({ subjectAt: (slug) => subjects.get(slug) ?? null })
@@ -394,7 +417,7 @@ export function asking(root: string, query: Query, at: number = Date.now()): Ask
   let held: readonly Valued[]
   try {
     const read = valuedFor(root, query.pageTypeSlug, carried)
-    const counted = computedInto(computedFor(root, carried), read)
+    const counted = computedInto(computedFor(root, carried), read, unreadyIn(carried))
     const darkened = unlit(query, counted.dark)
     if (darkened !== null) return { refused: darkened }
     const worked =

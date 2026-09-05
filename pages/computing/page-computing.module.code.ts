@@ -13,10 +13,16 @@ export type Computed = {
   readonly work: Work<Held, unknown>
 }
 
+export type Unready = {
+  readonly key: string
+  readonly why: string
+}
+
 export type Subject = {
   readonly id: string
   readonly value: Held
   readonly computed: readonly Computed[]
+  readonly unready?: readonly Unready[]
 }
 
 export type Source = {
@@ -110,6 +116,16 @@ export function computingOver(source: Source): Computing {
         enumerable: true,
         configurable: true,
         get: () => heldBy(subject, one, view),
+      })
+    }
+    for (const one of subject.unready ?? []) {
+      if (Object.hasOwn(view, one.key)) continue
+      Object.defineProperty(view, one.key, {
+        enumerable: false,
+        configurable: true,
+        get: () => {
+          throw new Error(one.why)
+        },
       })
     }
     views.set(slug, view)
