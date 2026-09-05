@@ -33,5 +33,20 @@ export const aranyaClusterCleanup = {
       workingMemory:
         "`inference.domain.ts` says inference runs on machines outside the cluster, so 244 files leave `infrastructure/`: 12 folders and the `inference` and `generation` domain pages. `domain/inference` declares 6 of them and wants the rest added. The same prefix rule renames `inference-clients`, `inference-pool`, `inference-runs` and `inference-commands` to `clients`, `pool`, `runs` and `commands`. `upscale`, `voice-inference` and `alerts` are mixed and split rather than moved.",
     },
+    {
+      statement: "A subagent resuming takes up the page it had rather than a new one.",
+      workingMemory:
+        "`state-subagent.agent-hook.code.ts:65` mints a fresh page at every SubagentStart, so a resumed subagent carries a new page id for one agent id. Seats already answer this: `seat-page-history.module.code.ts` exports `frontmatterFromHistory` and `nameFromHistory`, and `seatWhoami` reads the page that is there or falls back to history. That fall-back also drops the blocker that `agent_type` reaches no event but SubagentStart and SubagentStop, because history holds `dispatchedAs`, `assignmentSlug` and `principalSeatName`.",
+    },
+    {
+      statement: "Every working subagent has a page, and every stopped one has none.",
+      workingMemory:
+        "The page is the restart interlock rather than bookkeeping: `standingSubagentsOf` reads the pages on disk and gates `seat-resume.module.code.ts:265` and `stop-seat.module.code.ts:56`, so a wrong answer restarts a seat under a live subagent or refuses to restart an idle one. Both directions are live. `aranya-a5d85bfbd911ddb09` was reaped at 10:07:05 and worked on to 10:19, unlandable and unseen. 105 pages are there over 12 seats, 24 of them aine's, and all 3 aranya ones are stale.",
+    },
+    {
+      statement: "A subagent whose page did not land does not work unseen.",
+      workingMemory:
+        "13 landings were refused in `.supervisors/<seat id>/subagent-presence.log`, each one because another landing held `.git/akasha-landing.lock` past 120s: 4 put-ups, whose subagents held no page from their first moment, and 9 take-downs, which are among the 105. `state-subagent.agent-hook.ts` already carries the gap as `Nothing reads that log to put up a page the refusal left unwritten.` The lock contention is a throughput question of its own at ~20 agents, which a self-heal would mask.",
+    },
   ],
 } as const satisfies Initiative
