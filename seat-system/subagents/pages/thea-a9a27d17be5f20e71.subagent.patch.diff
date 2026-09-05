@@ -1,0 +1,109 @@
+runsWarrants: false
+diff --git a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.tsx b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.tsx
+new file mode 100644
+index 0000000000000000000000000000000000000000..22ec3f2d016cf2ba25f40802535c893576542f81
+--- /dev/null
++++ b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.tsx
+@@ -0,0 +1,19 @@
++import { existsSync, readFileSync } from "node:fs"
++import { join } from "node:path"
++import { ADDONS_BUNDLE_DIR } from "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
++import type { Route } from "../+types/api.addons.version"
++
++const VERSION_FILE = join(ADDONS_BUNDLE_DIR, "version.txt")
++
++export function loader(_: Route.LoaderArgs): Response {
++  if (!existsSync(VERSION_FILE)) {
++    return Response.json({ error: "Addon bundle version not available" }, { status: 404 })
++  }
++
++  const version = readFileSync(VERSION_FILE, "utf-8").trim()
++
++  return Response.json({
++    version,
++    downloadUrl: "/api/addons/download",
++  })
++}
+diff --git a/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx b/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx
+new file mode 100644
+index 0000000000000000000000000000000000000000..e1b26b4e2a554dcfa826901eabdb32dea6c6dd53
+--- /dev/null
++++ b/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx
+@@ -0,0 +1,23 @@
++import { existsSync, statSync } from "node:fs"
++import { join } from "node:path"
++import { ADDONS_BUNDLE_DIR } from "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
++import type { Route } from "../+types/api.addons.download"
++
++const BUNDLE_FILE = join(ADDONS_BUNDLE_DIR, "temper-addons.zip")
++
++export function loader(_: Route.LoaderArgs): Response {
++  if (!existsSync(BUNDLE_FILE)) {
++    return Response.json({ error: "Addon bundle not available" }, { status: 404 })
++  }
++
++  const stat = statSync(BUNDLE_FILE)
++  const file = Bun.file(BUNDLE_FILE)
++
++  return new Response(file, {
++    headers: {
++      "Content-Type": "application/zip",
++      "Content-Disposition": 'attachment; filename="temper-addons.zip"',
++      "Content-Length": String(stat.size),
++    },
++  })
++}
+diff --git a/temper/temper-web/routes/api.addons.download.tsx b/temper/temper-web/routes/api.addons.download.tsx
+deleted file mode 100644
+index 360c0e2ace354d7c1c75b7bbf5fbb7ec58ea9d69..0000000000000000000000000000000000000000
+--- a/temper/temper-web/routes/api.addons.download.tsx
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import { existsSync, statSync } from "node:fs"
+-import { join } from "node:path"
+-import { ADDONS_BUNDLE_DIR } from "../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
+-import type { Route } from "./+types/api.addons.download"
+-
+-const BUNDLE_FILE = join(ADDONS_BUNDLE_DIR, "temper-addons.zip")
+-
+-export function loader(_: Route.LoaderArgs): Response {
+-  if (!existsSync(BUNDLE_FILE)) {
+-    return Response.json({ error: "Addon bundle not available" }, { status: 404 })
+-  }
+-
+-  const stat = statSync(BUNDLE_FILE)
+-  const file = Bun.file(BUNDLE_FILE)
+-
+-  return new Response(file, {
+-    headers: {
+-      "Content-Type": "application/zip",
+-      "Content-Disposition": 'attachment; filename="temper-addons.zip"',
+-      "Content-Length": String(stat.size),
+-    },
+-  })
+-}
+diff --git a/temper/temper-web/routes/api.addons.version.tsx b/temper/temper-web/routes/api.addons.version.tsx
+deleted file mode 100644
+index 987955dbeb0d1d88b773c4cbff7bd7072d85af24..0000000000000000000000000000000000000000
+--- a/temper/temper-web/routes/api.addons.version.tsx
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import { existsSync, readFileSync } from "node:fs"
+-import { join } from "node:path"
+-import { ADDONS_BUNDLE_DIR } from "../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
+-import type { Route } from "./+types/api.addons.version"
+-
+-const VERSION_FILE = join(ADDONS_BUNDLE_DIR, "version.txt")
+-
+-export function loader(_: Route.LoaderArgs): Response {
+-  if (!existsSync(VERSION_FILE)) {
+-    return Response.json({ error: "Addon bundle version not available" }, { status: 404 })
+-  }
+-
+-  const version = readFileSync(VERSION_FILE, "utf-8").trim()
+-
+-  return Response.json({
+-    version,
+-    downloadUrl: "/api/addons/download",
+-  })
+-}
