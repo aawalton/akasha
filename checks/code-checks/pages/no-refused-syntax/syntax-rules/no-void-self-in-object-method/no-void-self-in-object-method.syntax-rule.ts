@@ -45,7 +45,7 @@ export const noVoidSelfInObjectMethod = {
     {
       invariantKind: "gap",
       statement:
-        "A method put onto an object after the literal is written stands outside the object literal.",
+        "A method put onto an object after the literal is written sits outside the object literal.",
     },
   ],
 } as const satisfies SyntaxRule

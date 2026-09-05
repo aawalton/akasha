@@ -24,7 +24,7 @@ test("one reached through an optional chain is refused as a bare one is", () => 
   expect(noNonNullAssertion(parsed("const one = foo?.bar!\n"))).toHaveLength(1)
 })
 
-test("one standing on another is refused once for each", () => {
+test("one sitting on another is refused once for each", () => {
   expect(noNonNullAssertion(parsed("const one = a!!\n"))).toHaveLength(2)
 })
 
@@ -48,7 +48,7 @@ test("one nested inside a call is judged too", () => {
   expect(noNonNullAssertion(parsed("report(foo!)\n"))).toHaveLength(1)
 })
 
-test("the line named is the line the operator stands on", () => {
+test("the line named is the line the operator is on", () => {
   const said = noNonNullAssertion(parsed("const one = 1\nconst two = foo!.bar\n"))
   expect(said[0]?.line).toBe(2)
 })

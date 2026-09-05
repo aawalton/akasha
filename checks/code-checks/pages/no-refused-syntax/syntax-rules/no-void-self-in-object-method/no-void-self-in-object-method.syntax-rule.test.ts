@@ -39,7 +39,7 @@ test("a method taking nothing at all is left", () => {
   expect(noVoidSelfInObjectMethod(parsed("const one = { held() {} }\n"))).toEqual([])
 })
 
-test("the line named is the line the method stands on", () => {
+test("the line named is the line the method is on", () => {
   const said = noVoidSelfInObjectMethod(parsed("const one = {\n  held(this: void) {},\n}\n"))
   expect(said[0]?.line).toBe(2)
 })

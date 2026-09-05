@@ -15,7 +15,7 @@ export const noNonNullAssertion = {
     },
     {
       invariantKind: "departure",
-      statement: "The operator is refused wherever an expression may stand.",
+      statement: "The operator is refused wherever an expression may sit.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const noNonNullAssertion = {
     },
     {
       invariantKind: "departure",
-      statement: "An operator standing on another operator is refused once for each operator.",
+      statement: "An operator sitting on another operator is refused once for each operator.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const noNonNullAssertion = {
     },
     {
       invariantKind: "gap",
-      statement: "A cast asserting the same absence away some other way stands.",
+      statement: "A cast asserting the same absence away some other way is left.",
     },
   ],
 } as const satisfies SyntaxRule
