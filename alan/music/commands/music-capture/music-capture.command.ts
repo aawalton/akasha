@@ -22,7 +22,7 @@ export const musicCapture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Capture adds to what is filed and rewrites none of what is filed.",
+      statement: "Capture adds to the rows filed and rewrites none of the rows filed.",
     },
     {
       invariantKind: "departure",
