@@ -20,7 +20,8 @@ export const webPageAnswers = {
     },
     {
       invariantKind: "departure",
-      statement: "What differs between two sites is passed in rather than written into a copy.",
+      statement:
+        "The values that differ between two sites are passed in rather than written into a copy.",
     },
     {
       invariantKind: "departure",
