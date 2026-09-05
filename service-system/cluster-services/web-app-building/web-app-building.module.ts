@@ -101,7 +101,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a build already exists is asked of the pod holding it.",
+      statement: "Whether a build already exists is asked of the pod holding the build.",
     },
     {
       invariantKind: "departure",
