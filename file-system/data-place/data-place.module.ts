@@ -14,7 +14,7 @@ export const dataPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "What is under it is named by whatever owns that.",
+      statement: "A path under the place is named by the owner of that path.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +38,11 @@ export const dataPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "Whether anything is there is asked of the disk by whoever asks.",
+      statement: "Whether anything is there is asked of the disk by the caller.",
     },
     {
       invariantKind: "absence",
-      statement: "What the place holds is not said here.",
+      statement: "The files the place holds are not said here.",
     },
     {
       invariantKind: "absence",
