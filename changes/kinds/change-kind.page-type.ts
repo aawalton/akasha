@@ -18,6 +18,7 @@ export const changeKind = {
     "change-kind/change-authored",
     "change-kind/change-mechanical",
     "change-kind/change-none",
+    "change-kind/change-restated",
     "boolean-property/runs-checks",
     "boolean-property/runs-warrants",
   ],
