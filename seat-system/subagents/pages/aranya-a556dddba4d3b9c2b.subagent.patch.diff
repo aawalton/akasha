@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
-index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..e7526b40859cf5b19039405036a345eecd5ab2ac 100644
+index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
 +++ b/pages/indexes/reading/index-reading.module.code.ts
 @@ -1,5 +1,4 @@
@@ -16,3 +16,19 @@ index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..e7526b40859cf5b19039405036a345ee
  import {
    beneath,
    INDEX_AT,
+@@ -172,14 +170,8 @@ export function importersIn(given: string | Reading, path: string): readonly str
+   return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
+ }
+ 
+-export function importersOf(
+-  root: string | null,
+-  path: string,
+-  reading: Reading
+-): readonly string[] {
++export function importersOf(path: string, reading: Reading): readonly string[] {
+   const asked = `which files import \`${path}\``
+-  const why = root === null ? null : staleFor(root, indexIn(root), typed)
+-  if (why !== null) throw new Error(`${asked} could not be answered — ${why}`)
+   const under = join(IMPORT, AT_PATH)
+   return answered(reading, under, asked, (held) => importersIn(held, path))
+ }
