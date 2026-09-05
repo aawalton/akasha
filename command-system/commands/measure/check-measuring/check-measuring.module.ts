@@ -19,7 +19,8 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A run's memory is what that run added over the memory resident when it opened.",
+      statement:
+        "A run's memory is the bytes that run added over the memory resident when it opened.",
     },
     {
       invariantKind: "departure",
@@ -43,8 +44,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An average is what a phase's runs took together shared out over how many there were.",
+      statement: "An average is the total a phase's runs took shared out over how many there were.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,8 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "Checks are ordered by what their patch runs took on average, the longest first.",
+      statement:
+        "Checks are ordered by the processor time their patch runs took on average, the longest first.",
     },
     {
       invariantKind: "departure",
