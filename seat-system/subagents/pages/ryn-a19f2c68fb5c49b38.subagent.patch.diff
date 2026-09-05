@@ -90,3 +90,42 @@ index a43e699b1bbb2b9004bd9fe77e208fa6b750556f..ea453c9de6a10a07d91151249b9ea214
      },
      {
        invariantKind: "absence",
+diff --git a/temper/temper-lib-character-knowledge/knowledge-main/knowledge-main.module.ts b/temper/temper-lib-character-knowledge/knowledge-main/knowledge-main.module.ts
+index 8db9dcc7e11afa54080c63b7bc669a641e8e34e5..b022d7a5541929e0ea48ec3be0797656b47e4e41 100644
+--- a/temper/temper-lib-character-knowledge/knowledge-main/knowledge-main.module.ts
++++ b/temper/temper-lib-character-knowledge/knowledge-main/knowledge-main.module.ts
+@@ -9,7 +9,7 @@ export const knowledgeMain = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The order these are loaded in is the order upstream loads them.",
++      statement: "The order these modules are loaded in is the order upstream loads them.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts b/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
+index 77ca9c9bcabb7091a29d930652b815c467a7b02c..b7eb4d9dd8bcb258c1d5939f2d24c28a16695e46 100644
+--- a/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
++++ b/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
+@@ -23,7 +23,7 @@ export const treasureUpstreamPort = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "This keeps its own serializer because the shared one writes every table as an object.",
++        "This module keeps its own serializer because the shared one writes every table as an object.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/verdict/verdict-exit/verdict-exit.module.ts b/verdict/verdict-exit/verdict-exit.module.ts
+index cc051cb910a731f0755d628e692828d3d8cfe28e..d674e5783cb125f80610632acf9c86539d734131 100644
+--- a/verdict/verdict-exit/verdict-exit.module.ts
++++ b/verdict/verdict-exit/verdict-exit.module.ts
+@@ -9,7 +9,7 @@ export const verdictExit = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A kind this build cannot read exits 2.",
++      statement: "A kind the build cannot read exits 2.",
+     },
+   ],
+ } as const satisfies Module
