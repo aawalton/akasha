@@ -305,5 +305,7 @@ export const temperWeb = {
     "module/editor-tab-panels",
     "module/general-panel",
     "module/version-history-dialog",
+    "route/addon-bundle",
+    "route/addon-bundle-version",
   ],
 } as const satisfies RouterApp
