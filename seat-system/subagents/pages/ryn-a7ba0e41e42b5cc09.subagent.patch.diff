@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts b/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
+index 03b42fe29d8b8c8d466f1e3914b6723f9482d4b6..d1e7283a2ac03c3a76a947a9cc29c3efeb5b3152 100644
+--- a/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
++++ b/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
+@@ -61,7 +61,7 @@ export const browserTestVerifyRender = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The verdict is read from what was observed rather than from the HTTP status alone.",
++        "The verdict is read from the render observed rather than from the HTTP status alone.",
+     },
+     {
+       invariantKind: "departure",
