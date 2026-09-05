@@ -7,15 +7,15 @@ export const ruleSoulGemsEmptyBank = {
   title: "Bank empty soul gems",
   description:
     "Deposits empty (white quality) soul gems in the bank. Filled and crown soul gems are kept.",
+  goal: "task",
+  conditions: "jsonl",
+  destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "soul-gems",
   displayOrder: 51,
   action: "move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "task",
   locked: true,
   fromTemplate: "soul-gems-empty-bank",
-  destination: "bank",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
