@@ -1,5 +1,5 @@
 diff --git a/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts b/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
-index d2265159b1b4109aba663ac6f3118f84f1566eee..58dfe46bbbe3bc2b0090d65f5848eb50ebe90fcd 100644
+index d2265159b1b4109aba663ac6f3118f84f1566eee..9351662f06504649e00a21d7e1975b90b477874b 100644
 --- a/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
 +++ b/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
 @@ -49,7 +49,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
@@ -40,3 +40,12 @@ index d2265159b1b4109aba663ac6f3118f84f1566eee..58dfe46bbbe3bc2b0090d65f5848eb50
      return { report, refusals: [], code: 0 }
    }
  
+@@ -160,7 +158,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
+   }
+ 
+   report.push(
+-    `up\t${workload.kind} ${workload.namespace}/${workload.name} stands as its page describes`
++    `up\t${workload.kind} ${workload.namespace}/${workload.name} is as its page describes`
+   )
+   return { report, refusals: [], code: 0 }
+ }
