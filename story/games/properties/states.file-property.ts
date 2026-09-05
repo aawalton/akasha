@@ -8,10 +8,4 @@ export const states = {
   slug: "states",
   propertySlug: "states",
   definition: "what a game's world has been at, sitting by sitting",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "One row is one json object on one line.",
-    },
-  ],
 } as const satisfies FileProperty
