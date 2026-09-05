@@ -44,3 +44,48 @@ index ed482781f595c2a441b9b152b715d8d2582f3cff..263ed0f540923ea49dacf2ec9c5e81b1
      for (const part of partsOf(sentence, token)) {
        found.push({ at: [token.id, part.id] })
      }
+diff --git a/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.test.ts b/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.test.ts
+index a5b5611f44b168b46981ee5b52931d398132ec19..4e8da57cb1a3ce9e6c13b730d2895957d8a2ee01 100644
+--- a/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.test.ts
++++ b/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.test.ts
+@@ -59,3 +59,40 @@ test("a noun followed by an of phrase is passed over", () => {
+   ])
+   expect(partitiveQuantifier(said)).toEqual([])
+ })
++
++test("how much of a thing is passed over", () => {
++  const said = sentenceOf([
++    ["How", "ADV", 2, "advmod"],
++    ["much", "PRON", 5, "nsubj"],
++    ["of", "ADP", 4, "case"],
++    ["output", "NOUN", 2, "nmod"],
++    ["printed", "VERB", 0, "root"],
++  ])
++  expect(partitiveQuantifier(said)).toEqual([])
++})
++
++test("a quantifier whose phrase carries a count is passed over", () => {
++  const said = sentenceOf([
++    ["An", "DET", 2, "det"],
++    ["entry", "NOUN", 3, "nsubj"],
++    ["takes", "VERB", 0, "root"],
++    ["one", "PRON", 3, "obj"],
++    ["of", "ADP", 7, "case"],
++    ["three", "NUM", 7, "nummod"],
++    ["shapes", "NOUN", 4, "nmod"],
++  ])
++  expect(partitiveQuantifier(said)).toEqual([])
++})
++
++test("a quantifier whose phrase carries no count is found", () => {
++  const said = sentenceOf([
++    ["The", "DET", 2, "det"],
++    ["resolver", "NOUN", 3, "nsubj"],
++    ["holds", "VERB", 0, "root"],
++    ["none", "PRON", 3, "obj"],
++    ["of", "ADP", 7, "case"],
++    ["the", "DET", 7, "det"],
++    ["pages", "NOUN", 4, "nmod"],
++  ])
++  expect(partitiveQuantifier(said)).toEqual([{ at: [4, 7] }])
++})
