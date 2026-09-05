@@ -64,7 +64,7 @@ index eb348bbe722298a74269e93848bed2bc63cf6941..428d08f94fa707fc697a192b24578638
      {
        invariantKind: "departure",
 diff --git a/service-system/web-apps/properties/source-directory.text-property.ts b/service-system/web-apps/properties/source-directory.text-property.ts
-index 222b5a23f5aa9b6086461d395f5ef800c76f6359..2964c2da8aa84dba2fd21d9f58c0db0cbc1133b2 100644
+index 222b5a23f5aa9b6086461d395f5ef800c76f6359..f9c3c47bbc4cb59d0db718d68dc136d87baa450a 100644
 --- a/service-system/web-apps/properties/source-directory.text-property.ts
 +++ b/service-system/web-apps/properties/source-directory.text-property.ts
 @@ -7,7 +7,7 @@ export const sourceDirectory = {
@@ -76,6 +76,15 @@ index 222b5a23f5aa9b6086461d395f5ef800c76f6359..2964c2da8aa84dba2fd21d9f58c0db0c
    max: 200,
    nameFormatSlug: null,
    invariants: [
+@@ -17,7 +17,7 @@ export const sourceDirectory = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No slash opens or closes what stands here.",
++      statement: "No slash opens or closes what is here.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/service-system/web-apps/web-app.page-type.ts b/service-system/web-apps/web-app.page-type.ts
 index 7feb08a094310d2c86e37e0e983127f3e876c879..ce5bfabcde535708083b107e9172eed8da44851a 100644
 --- a/service-system/web-apps/web-app.page-type.ts
