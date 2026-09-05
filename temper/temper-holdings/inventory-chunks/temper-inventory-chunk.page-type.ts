@@ -47,7 +47,7 @@ export const temperInventoryChunk = {
     },
     {
       invariantKind: "departure",
-      statement: "The bytes a page here counts stand in the reading's own data file.",
+      statement: "The bytes a page here counts are in the reading's own data file.",
     },
   ],
 } as const satisfies PageType

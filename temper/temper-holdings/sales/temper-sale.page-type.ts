@@ -58,7 +58,7 @@ export const temperSale = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A sale stands under the account the seller signed in as.",
+      statement: "A sale is under the account the seller signed in as.",
     },
     {
       invariantKind: "departure",

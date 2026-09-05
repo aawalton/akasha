@@ -29,8 +29,7 @@ export const housingUpstreamPort = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every generated file already standing is removed before the new ones are written.",
+      statement: "Every generated file already there is removed before the new ones are written.",
     },
     {
       invariantKind: "departure",

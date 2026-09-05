@@ -18,7 +18,7 @@ export const buildVisibility = {
     },
     {
       invariantKind: "departure",
-      statement: "A private build is neither, and stands only for its author.",
+      statement: "A private build is neither, and is there only for its author.",
     },
   ],
 } as const satisfies SelectProperty

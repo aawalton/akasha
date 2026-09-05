@@ -4,7 +4,7 @@ export const charactersHirelingMailSubscriber = {
   id: "01a062ed-3979-7008-b38a-d2d8bc3af92b",
   pageTypeSlug: "module",
   slug: "characters-hireling-mail-subscriber",
-  definition: "the standing answer to a hireling mail being looted",
+  definition: "the answer always given to a hireling mail being looted",
   code: "ts",
   invariants: [
     {
