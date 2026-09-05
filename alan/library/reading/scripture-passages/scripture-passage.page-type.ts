@@ -36,7 +36,7 @@ export const scripturePassage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A passage names the book of scripture the passage stands in.",
+      statement: "A passage names the book of scripture the passage is in.",
     },
     {
       invariantKind: "departure",
@@ -53,8 +53,7 @@ export const scripturePassage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A passage sits in the folder named for the book of scripture the passage stands in.",
+      statement: "A passage sits in the folder named for the book of scripture the passage is in.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +66,7 @@ export const scripturePassage = {
     },
     {
       invariantKind: "gap",
-      statement: "The collection a passage is part of stands as no page.",
+      statement: "The collection a passage is part of is no page.",
     },
   ],
 } as const satisfies PageType

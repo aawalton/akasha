@@ -43,7 +43,7 @@ export const watching = {
     },
     {
       invariantKind: "departure",
-      statement: "What the provider answers with and what Alan records stand on the one page.",
+      statement: "What the provider answers with and what Alan records sit on the one page.",
     },
     {
       invariantKind: "gap",

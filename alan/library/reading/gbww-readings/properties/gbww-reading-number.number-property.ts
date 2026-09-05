@@ -7,6 +7,6 @@ export const gbwwReadingNumber = {
   pageTypeSlug: "number-property",
   slug: "gbww-reading-number",
   propertySlug: "reading-number",
-  definition: "where a reading stands in its year",
+  definition: "where a reading sits in its year",
   max: null,
 } as const satisfies NumberProperty

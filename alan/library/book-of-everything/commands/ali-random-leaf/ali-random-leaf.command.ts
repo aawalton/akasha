@@ -24,7 +24,7 @@ export const aliRandomLeaf = {
     "a leaf is a topic no other topic names as the topic it sits under.",
     "the draw is from the machine's own entropy, and no leaf is drawn twice in one call.",
     "`--part` and `--subtree` each say where to draw from, so one call says one of the two.",
-    "asking for more leaves than stand in scope gives back all of them rather than refusing.",
+    "asking for more leaves than there are in scope gives back all of them rather than refusing.",
     "every call here draws afresh; `akasha ali-next-unscored` hands back a sweep that can be resumed.",
   ],
   invariants: [

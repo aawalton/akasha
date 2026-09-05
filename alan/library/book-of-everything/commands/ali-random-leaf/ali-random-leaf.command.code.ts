@@ -112,7 +112,7 @@ function scopeIn(tree: Topic, held: Taken): Topic | { readonly refused: string }
   }
   if (held.part === null) return tree
   const found = tree.children[held.part - 1]
-  return found ?? { refused: `no part ${held.part} stands under the book` }
+  return found ?? { refused: `no part ${held.part} is under the book` }
 }
 
 export function aliRandomLeaf(argv: readonly string[], given: Given): Answer {
@@ -131,7 +131,7 @@ export function aliRandomLeaf(argv: readonly string[], given: Given): Answer {
   if (candidates.length === 0) {
     const where = held.subtree ?? (held.part === null ? "the whole book" : `part ${held.part}`)
     return refused(
-      `nothing ${held.status} stands under ${where}, of ${leaves.length} leaves there`,
+      `nothing ${held.status} is under ${where}, of ${leaves.length} leaves there`,
       DATA
     )
   }

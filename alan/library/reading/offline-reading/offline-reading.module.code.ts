@@ -107,6 +107,6 @@ export async function writeChapterCompletion(
 export async function writeChapterPosition(pageId: string, progress: number): Promise<void> {
   throw new Error(
     `writeChapterPosition(${pageId}): position ${progress} was not kept — ${NO_KEYED_WRITE}, ` +
-      `so this chapter still reads at whatever progress stood before the writes died`
+      `so this chapter still reads at whatever progress it was at before the writes died`
   )
 }

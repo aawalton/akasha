@@ -94,7 +94,7 @@ export const learnEverythingTopic = {
     },
     {
       invariantKind: "absence",
-      statement: "A reading nothing has been written into stands as no file.",
+      statement: "A reading nothing has been written into is no file.",
     },
     {
       invariantKind: "departure",

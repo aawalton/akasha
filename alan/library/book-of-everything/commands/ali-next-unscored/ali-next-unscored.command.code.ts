@@ -79,7 +79,7 @@ export function aliNextUnscored(argv: readonly string[], given: Given): Answer {
     : unopened[0]
   if (picked === undefined) {
     const where = held.under ?? "the whole book"
-    return refused(`nothing unopened stands under ${where}, of ${leaves.length} leaves there`, DATA)
+    return refused(`nothing unopened is under ${where}, of ${leaves.length} leaves there`, DATA)
   }
   return {
     report: [

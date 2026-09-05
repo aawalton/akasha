@@ -54,7 +54,7 @@ export const gbwwReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading stands where the plan puts the reading.",
+      statement: "A reading is where the plan puts the reading.",
     },
     {
       invariantKind: "departure",

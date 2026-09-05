@@ -13,7 +13,7 @@ export const imdbId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An IMDb id stands beside the id of the provider the page was read from.",
+      statement: "An IMDb id sits beside the id of the provider the page was read from.",
     },
   ],
 } as const satisfies TextProperty

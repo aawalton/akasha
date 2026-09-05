@@ -33,7 +33,7 @@ export function saidOf(report: CoverageReport): readonly string[] {
   lines.push(
     `Topics (live):     ${frac(report.materializedDetail)} opened = ${pct(report.materializedDetail)}`
   )
-  lines.push("  held against every topic that stands, so opening a topic up can drop this.")
+  lines.push("  held against every topic there is, so opening a topic up can drop this.")
   lines.push("")
   lines.push("By part:")
   lines.push("| # | Part | Sections | Topics |")
