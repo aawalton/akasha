@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/provenance/monarch-provenance.module.ts b/alan/harness/monarch/provenance/monarch-provenance.module.ts
+index 5c3fcea3c81dd3b0f142432831bf7c414e6ef02e..389f2ad0783345a4e7f06920e9ac5f4a69f59420 100644
+--- a/alan/harness/monarch/provenance/monarch-provenance.module.ts
++++ b/alan/harness/monarch/provenance/monarch-provenance.module.ts
+@@ -27,7 +27,7 @@ export const monarchProvenance = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes; it composes what a writer writes.",
++      statement: "Nothing here writes; this module composes what a writer writes.",
+     },
+   ],
+ } as const satisfies Module
