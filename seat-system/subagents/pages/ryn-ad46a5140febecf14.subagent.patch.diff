@@ -1,5 +1,5 @@
 diff --git a/alan/relating/connection-activities/connection-activity.page-type.ts b/alan/relating/connection-activities/connection-activity.page-type.ts
-index 03c08ddf11df5b13df40dc38077fc85424eb7e9a..c5e5bf9b1762c977927173aab2a79067008d0b69 100644
+index 03c08ddf11df5b13df40dc38077fc85424eb7e9a..b8ec56070467293e5029bbf80447e8ca24a2f9cc 100644
 --- a/alan/relating/connection-activities/connection-activity.page-type.ts
 +++ b/alan/relating/connection-activities/connection-activity.page-type.ts
 @@ -106,7 +106,8 @@ export const connectionActivity = {
@@ -9,6 +9,16 @@ index 03c08ddf11df5b13df40dc38077fc85424eb7e9a..c5e5bf9b1762c977927173aab2a79067
 -      statement: "Two activities differing only in how they reach him are rated apart.",
 +      statement:
 +        "Two activities differing only in how those activities reach Alan are rated apart.",
+     },
+     {
+       invariantKind: "departure",
+@@ -136,7 +137,8 @@ export const connectionActivity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An hour of it meets the multiplier over thirty-two of his connection need.",
++      statement:
++        "An hour of an activity meets the multiplier over thirty-two of his connection need.",
      },
      {
        invariantKind: "departure",
