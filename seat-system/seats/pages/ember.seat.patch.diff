@@ -285,6 +285,18 @@ index 8119d7e8573e40239258092786c2638f1d603c37..3c9e2001492dedca918733621c8f4767
 +    "./url-property": "./url-properties/url-property.page-type.ts"
    }
  }
+diff --git a/pages/page.workspace-package.ts b/pages/page.workspace-package.ts
+index ff1f079aaa2728b803859ab46ee2c037a48b50d6..a5655e61cc76b694c99f5417068337922b248661 100644
+--- a/pages/page.workspace-package.ts
++++ b/pages/page.workspace-package.ts
+@@ -19,6 +19,7 @@ export const page = {
+     "module/page-entry-queue",
+     "module/page-entry-writing",
+     "module/page-export-name",
++    "module/page-file-body",
+     "module/page-file-name",
+     "module/page-file-parts",
+     "module/page-secret",
 diff --git a/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts b/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
 index a2919455849441fe32a26ac8fe2ba47389ed8bf3..93e94ab55aba8ba8f6e5ce2ba19fdd4c5a226c88 100644
 --- a/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
