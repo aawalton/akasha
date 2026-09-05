@@ -38,7 +38,19 @@ export const moveSiding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file beside what a pair names is carried without being named.",
+      statement: "A file no page claims is carried under whatever name a pair gives it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file a page claims beside it is refused a new name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for such a file names the page claiming it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside a page is carried only where a pair names that page's own file.",
     },
     {
       invariantKind: "departure",

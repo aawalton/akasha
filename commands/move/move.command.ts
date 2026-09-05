@@ -34,8 +34,9 @@ export const move = {
   helpNotes: [
     "--from and --to repeat in pairs, so several bodies move in one commit.",
     "a page's own file arriving called something else renames the slug the page states.",
+    "a file no page claims arrives under whatever name you give it, and renames nothing.",
     "what addresses a renamed page by its slug is repointed in the same commit.",
-    "the files standing beside what you name go with it.",
+    "the files beside a page you name go with it, and a file no page claims carries none.",
     "a folder you name carries every file git holds under it, each keeping its place beneath it.",
     "a file git is told to ignore goes as a sidecar rather than as folder contents.",
     "the files naming what moves are repointed in the same commit.",
@@ -155,10 +156,6 @@ export const move = {
       invariantKind: "departure",
       statement:
         "The bodies a move carries and repoints are read from the base commit rather than the working tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file that is no page's own arrives under the name that file already has.",
     },
     {
       invariantKind: "departure",

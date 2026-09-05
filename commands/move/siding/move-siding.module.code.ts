@@ -53,25 +53,29 @@ export function sidedIn(
       refusals.push(`${to} already stands, and a move writes over nothing`)
       continue
     }
+    const naming = namingOf(root, from)
+    if ("unread" in naming) {
+      refusals.push(naming.unread)
+      continue
+    }
+    const claimed = naming.held
+    const own = claimed !== null && claimed.path === from
     let renaming: Renaming | null = null
     if (basename(from) !== basename(to)) {
-      const naming = namingOf(root, from)
-      if ("unread" in naming) {
-        refusals.push(naming.unread)
-        continue
-      }
-      if (naming.held === null || naming.held.path !== from) {
+      if (claimed !== null && !own) {
         refusals.push(
-          `${from} is no page's own file, and the one name a move changes is a page's own slug`
+          `${from} is a file \`${claimed.path}\` claims beside it, and its name is what makes that claim`
         )
         continue
       }
-      const asked = renamingFor(from, to, naming.held.id)
-      if ("refused" in asked) {
-        refusals.push(asked.refused)
-        continue
+      if (claimed !== null) {
+        const asked = renamingFor(from, to, claimed.id)
+        if ("refused" in asked) {
+          refusals.push(asked.refused)
+          continue
+        }
+        renaming = asked.renaming
       }
-      renaming = asked.renaming
     }
     if (seen.has(from)) {
       refusals.push(`${from} is named as the source of more than one pair`)
@@ -84,6 +88,7 @@ export function sidedIn(
     seen.add(from)
     taken.add(to)
     sides.push({ from, to, named: true, committed: true, renaming })
+    if (!own) continue
     for (const held of besideOf(root, from)) {
       if (seen.has(held)) continue
       seen.add(held)
