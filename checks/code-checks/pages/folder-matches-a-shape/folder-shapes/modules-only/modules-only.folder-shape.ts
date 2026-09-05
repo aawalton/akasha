@@ -32,7 +32,7 @@ export const modulesOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "Every module in it is a part the page above declares.",
+      statement: "Every module in that folder is a part the page above declares.",
     },
     {
       invariantKind: "departure",
