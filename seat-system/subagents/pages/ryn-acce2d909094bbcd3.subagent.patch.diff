@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/folder-clearing/folder-clearing.module.ts b/command-system/folder-clearing/folder-clearing.module.ts
+index 37973eae92d3cea323b85209af014e0009bb181c..5786c337d65911c79d901cf2a13814073112e728 100644
+--- a/command-system/folder-clearing/folder-clearing.module.ts
++++ b/command-system/folder-clearing/folder-clearing.module.ts
+@@ -47,7 +47,8 @@ export const folderClearing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One rule answers what a change would empty and what a change did empty.",
++      statement:
++        "One rule answers the folders a change would empty and the folders a change did empty.",
+     },
+     {
+       invariantKind: "departure",
