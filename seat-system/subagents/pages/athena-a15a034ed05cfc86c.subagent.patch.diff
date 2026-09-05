@@ -27,3 +27,39 @@ index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..50c93f22b9017f374686df2d635dba14
  export function repositoryPath(repo: string): string {
    try {
      return fs.realpathSync(repo)
+diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
+index d69256318f8f3fb588470ac71f8ac64660f49566..d50c52669b0f183537669445685f5f2fa33c638e 100644
+--- a/editor-extension/seat-acts/seat-acts.module.code.ts
++++ b/editor-extension/seat-acts/seat-acts.module.code.ts
+@@ -1,7 +1,7 @@
+ import * as vscode from "vscode"
+ import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
+ import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
+-import { runOps } from "../harness-call/harness-call.module.code.ts"
++import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+ import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
+ import { columnForSeat, terminalForSeat } from "../seat-showing/seat-showing.module.code.ts"
+ import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
+@@ -11,12 +11,19 @@ import {
+   type SeatStep,
+ } from "../seat-toggles/seat-toggles.module.code.ts"
+ 
+-const OPS_TIMEOUT_MS = 120_000
++const SEAT_COMMAND = "seat"
++
++const SEAT_TIMEOUT_MS = 120_000
++
++const MAX_BUFFER = 1024 * 1024
+ 
+ const inFlight = new Set<string>()
+ 
+-async function runSeatOps(args: readonly string[]): Promise<undefined> {
+-  await runOps(args, { timeout: OPS_TIMEOUT_MS, maxBuffer: 1024 * 1024 })
++async function runSeat(args: readonly string[]): Promise<undefined> {
++  await runCommand(commandPath(SEAT_COMMAND), args, {
++    timeout: SEAT_TIMEOUT_MS,
++    maxBuffer: MAX_BUFFER,
++  })
+   return undefined
+ }
+ 
