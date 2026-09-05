@@ -36,6 +36,19 @@ index daf567565ddec2cc53a22ff146cffc8a5dd592b0..5256592c77739042ee6d1d065c82257e
    )
    return refusals
  }
+diff --git a/seat-system/seat-help/seat-help.module.code.ts b/seat-system/seat-help/seat-help.module.code.ts
+index 7e860cdcaf5c79855a3f1e6feabb66a29c9e6ae1..37f6a7690acb5da57356a3995202a0fabf506d6e 100644
+--- a/seat-system/seat-help/seat-help.module.code.ts
++++ b/seat-system/seat-help/seat-help.module.code.ts
+@@ -86,7 +86,7 @@ Flags:
+                     second seat be minted on the spot.
+                     ONLY A SPAWNED SEAT CARRIES ONE AND ONLY ITS SPAWNER ASSIGNS IT, so this is
+                     refused twice over: where --agent names your own seat, and where the row it
+-                    names does not say that seat was spawned. \`ops seat start --flex\` is the
++                    names does not say that seat was spawned. \`akasha seat start --flex\` is the
+                     command that assigns one.
+   --principal <who> Who this seat's output is produced for: agent where it answers to the
+                     fleet, or the slug of the person it answers to, matched against the file
 diff --git a/seat-system/seat-reset/seat-reset.module.code.ts b/seat-system/seat-reset/seat-reset.module.code.ts
 index 3505b650558240c72295a3abaee81bf5a1a92d9a..0dd1ad1e5a024fcfc0f31d34346de4f2d29bfaf5 100644
 --- a/seat-system/seat-reset/seat-reset.module.code.ts
