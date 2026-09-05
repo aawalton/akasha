@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/file-name/page-file-name.module.ts b/pages/file-name/page-file-name.module.ts
-index 76ce2d57d49dcdd73c49ceae4411ad21620374d1..70fa80237fcad63f10b5ef161dd081864497c65d 100644
+index 76ce2d57d49dcdd73c49ceae4411ad21620374d1..309e8ea15fdefe79ca1bb15e6ab99a4d576675c9 100644
 --- a/pages/file-name/page-file-name.module.ts
 +++ b/pages/file-name/page-file-name.module.ts
 @@ -23,11 +23,11 @@ export const pageFileName = {
@@ -33,6 +33,15 @@ index 76ce2d57d49dcdd73c49ceae4411ad21620374d1..70fa80237fcad63f10b5ef161dd08186
 -      statement: "What `heldIn` takes apart and what the builders here put together stay one rule.",
 +      statement:
 +        "The name `heldIn` takes apart and the name the builders here put together stay one rule.",
+     },
+     {
+       invariantKind: "departure",
+@@ -116,7 +117,7 @@ export const pageFileName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's sops file is what the sops file is already under.",
++      statement: "A page's sops file is the name that sops file is already under.",
      },
      {
        invariantKind: "departure",
