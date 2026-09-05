@@ -120,7 +120,7 @@ index ffb1165535391cecd964171121f8d56ed7b4d21b..4ce9e9a3253b8a848e51ca88bd7af6e2
      {
        invariantKind: "absence",
 diff --git a/hook-system/shell-calls/shell-calls.module.ts b/hook-system/shell-calls/shell-calls.module.ts
-index f627571d14c5c2879098115678925b8a1539b975..0319f10ad0a859186adabcbc610b7e7cd76d3d03 100644
+index f627571d14c5c2879098115678925b8a1539b975..d182799698cb31862c6863333621d7450bf7a9ac 100644
 --- a/hook-system/shell-calls/shell-calls.module.ts
 +++ b/hook-system/shell-calls/shell-calls.module.ts
 @@ -78,7 +78,7 @@ export const shellCalls = {
@@ -132,3 +132,12 @@ index f627571d14c5c2879098115678925b8a1539b975..0319f10ad0a859186adabcbc610b7e7c
      },
      {
        invariantKind: "constraint",
+@@ -90,7 +90,7 @@ export const shellCalls = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A prefix this does not name hides the call behind it from every hook.",
++      statement: "A prefix this module does not name hides the call behind it from every hook.",
+     },
+   ],
+ } as const satisfies Module
