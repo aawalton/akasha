@@ -1,5 +1,5 @@
 diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
-index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..989633f51a6a1cb1068018b04a39f7e9c4165b2a 100644
+index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..7968570d780d02845cd6e994f34915b1197315f3 100644
 --- a/pages/shadow/shadow.module.test.ts
 +++ b/pages/shadow/shadow.module.test.ts
 @@ -229,7 +229,7 @@ test("a relation through a property the same change declares is filed, as a land
@@ -20,8 +20,17 @@ index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..989633f51a6a1cb1068018b04a39f7e9
    const repo = seeded()
    let asked = 0
    const held = onDisk(repo)
+@@ -260,7 +260,7 @@ test("an audit leaves everything as it stands, so nothing is worked out and no b
+   expect(everythingRead(cast.reading)).toEqual(everythingRead(readingIn(repo)))
+ })
+ 
+-test("a shadow that could not be worked out is refused, never stood in for by the committed index", () => {
++test("a shadow that could not be worked out is refused, and the committed index never takes its place", () => {
+   const repo = scratch.rootFor("akasha-broken-")
+   schemaFiled(repo, "text-property", "held", [
+     {
 diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
-index ada2250113ab8235184088d4185d9cc6bdcb8896..3b0ff4fa6d4d911ac74e98552d5e68682cb1b977 100644
+index ada2250113ab8235184088d4185d9cc6bdcb8896..9ecda318f9ef193805913fdc66662535e0f009a8 100644
 --- a/pages/shadow/shadow.module.ts
 +++ b/pages/shadow/shadow.module.ts
 @@ -78,7 +78,7 @@ export const shadow = {
@@ -33,7 +42,7 @@ index ada2250113ab8235184088d4185d9cc6bdcb8896..3b0ff4fa6d4d911ac74e98552d5e6868
      },
      {
        invariantKind: "departure",
-@@ -91,7 +91,7 @@ export const shadow = {
+@@ -91,11 +91,11 @@ export const shadow = {
      },
      {
        invariantKind: "departure",
@@ -42,8 +51,13 @@ index ada2250113ab8235184088d4185d9cc6bdcb8896..3b0ff4fa6d4d911ac74e98552d5e6868
      },
      {
        invariantKind: "departure",
+-      statement: "A body the change writes anew stands at no path and is answered as nothing.",
++      statement: "A body the change writes anew is at no path and is answered as nothing.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/uncommitted/page-uncommitted.module.code.ts b/pages/uncommitted/page-uncommitted.module.code.ts
-index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..b76b9beb1d016f4f92d039c49811a106fc3b78c5 100644
+index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..0676e6633505f941d5ddf2f2d058e38e25aae3dd 100644
 --- a/pages/uncommitted/page-uncommitted.module.code.ts
 +++ b/pages/uncommitted/page-uncommitted.module.code.ts
 @@ -93,12 +93,12 @@ function valuesIn(full: string, at: string): Value | null {
@@ -61,11 +75,20 @@ index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..b76b9beb1d016f4f92d039c49811a106
      )
    }
    return held.value
+@@ -136,7 +136,7 @@ export function wholeValue(root: string, page: string, value: Value): Value {
+ function besideOr(page: string): string {
+   const at = uncommittedAt(page)
+   if (at === null) {
+-    throw new Error(`'${page}' is no TypeScript file, so nothing stands beside it to hold values`)
++    throw new Error(`'${page}' is no TypeScript file, so nothing sits beside it to hold values`)
+   }
+   return at
+ }
 diff --git a/pages/uncommitted/page-uncommitted.module.test.ts b/pages/uncommitted/page-uncommitted.module.test.ts
-index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..a6e4a6a16b6e1f26dc59e8f15daf478b67a339fe 100644
+index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..9677c53a8c7f5bc54e2f6c34a97a87958c4ab63d 100644
 --- a/pages/uncommitted/page-uncommitted.module.test.ts
 +++ b/pages/uncommitted/page-uncommitted.module.test.ts
-@@ -98,13 +98,13 @@ test("what is kept beside a page is read back from it", () => {
+@@ -98,20 +98,20 @@ test("what is kept beside a page is read back from it", () => {
    expect(uncommittedIn(root, PAGE)).toEqual({ claudeCodeSessionUuid: "one", beats: 3 })
  })
  
@@ -81,8 +104,16 @@ index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..a6e4a6a16b6e1f26dc59e8f15daf478b
    const root = rooted()
    keepUncommitted(root, PAGE, { held: "one" })
    keepUncommitted(root, PAGE, { held: "two" })
+   expect(uncommittedIn(root, PAGE)).toEqual({ held: "two" })
+ })
+ 
+-test("a file that stands but will not load is refused rather than read as empty", () => {
++test("a file that is there but will not load is refused rather than read as empty", () => {
+   const root = rooted()
+   writtenBeside(root, "export const amySeatUncommitted = (\n")
+   expect(() => uncommittedIn(root, PAGE)).toThrow(/could not be loaded/)
 diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
-index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..0f01fd6fe94c3212a140eb4c010d1338193229b4 100644
+index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..14883fe8f659d50aa30224b643fd38d51787a81b 100644
 --- a/pages/uncommitted/page-uncommitted.module.ts
 +++ b/pages/uncommitted/page-uncommitted.module.ts
 @@ -64,7 +64,7 @@ export const pageUncommitted = {
@@ -94,12 +125,17 @@ index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..0f01fd6fe94c3212a140eb4c010d1338
      },
      {
        invariantKind: "departure",
-@@ -86,7 +86,7 @@ export const pageUncommitted = {
+@@ -86,11 +86,11 @@ export const pageUncommitted = {
      {
        invariantKind: "departure",
        statement:
 -        "A lock naming no holder that can be read is taken once that lock has stood too long.",
 +        "A lock naming no holder that can be read is taken once that lock has been there too long.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Values merge key by key into what stands.",
++      statement: "Values merge key by key into what is there.",
      },
      {
        invariantKind: "departure",
