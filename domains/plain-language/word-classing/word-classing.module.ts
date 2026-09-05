@@ -22,11 +22,11 @@ export const wordClassing = {
     {
       invariantKind: "departure",
       statement:
-        "A pronoun naming what sits outside its sentence is classed apart from one naming what sits inside.",
+        "A pronoun naming a thing outside its sentence is classed apart from one naming a thing inside.",
     },
     {
       invariantKind: "departure",
-      statement: "A relativizer naming what that relativizer refers to is a noun as well.",
+      statement: "A relativizer naming the thing that relativizer refers to is a noun as well.",
     },
     {
       invariantKind: "departure",
