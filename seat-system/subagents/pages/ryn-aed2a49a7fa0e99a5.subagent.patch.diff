@@ -1,0 +1,13 @@
+diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+index 5578617d9089a97fd5ff5b17e42fa034c25cfe5f..d399ce423f1ec86aa16e50312616bfe1137a9fe5 100644
+--- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -15,7 +15,7 @@ export const accountUpkeepStallReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Upkeep says nothing when it dies, because the thing that would report it is upkeep itself, so this says it from outside.",
++        "Upkeep says nothing when it dies, because the thing that would report it is upkeep itself, so this module says it from outside.",
+     },
+     {
+       invariantKind: "departure",
