@@ -10,3 +10,119 @@ index 2e620210c167623723855ca5bac0bc4f468fb732..632d667e9d34d6bfc647caeb2ad1852b
      "./calendar-date-property": "./calendar-date-properties/calendar-date-property.page-type.ts",
      "./calendar-time-property": "./calendar-time-properties/calendar-time-property.page-type.ts",
      "./change": "./change/change.module.code.ts",
+diff --git a/pages/system-service/page-asking/page-asking.module.code.ts b/pages/system-service/page-asking/page-asking.module.code.ts
+index a5dc288f346701df23db524edb7a9b509392944b..78e199bba97f27d25674d4b871631dd81503d906 100644
+--- a/pages/system-service/page-asking/page-asking.module.code.ts
++++ b/pages/system-service/page-asking/page-asking.module.code.ts
+@@ -1,4 +1,8 @@
++import { readFileSync } from "node:fs"
++import { isAbsolute, join } from "node:path"
+ import { listedAt, type Valued, valuesOfType } from "@akasha/indexes"
++import { workIn } from "@akasha/pages-system/calculation-loading"
++import { type Computed, computingOver, type Subject } from "@akasha/pages-system/page-computing"
+ import { entriedValue } from "@akasha/pages-system/page-entries"
+ import {
+   type Barred,
+@@ -251,6 +255,86 @@ export function declaredFor(
+   })
+ }
+ 
++const CODE = ".code.ts"
++
++function codeAt(root: string, path: string): string | null {
++  const beside = path.replace(/\.ts$/, CODE)
++  const at = isAbsolute(beside) ? beside : join(root, beside)
++  try {
++    return readFileSync(at, "utf8")
++  } catch {
++    return null
++  }
++}
++
++export function computedFor(root: string, carried: readonly Carried[]): readonly Computed[] {
++  const wanted = carried.filter((one) => one.pageTypeSlug === COMPUTED)
++  if (wanted.length === 0) return []
++  const bySlug = new Map<string, Valued>()
++  for (const one of valuesOfType(root, COMPUTED)) {
++    const slug = textAt(one.value, "slug")
++    if (slug !== null && !bySlug.has(slug)) bySlug.set(slug, one)
++  }
++  const found: Computed[] = []
++  for (const one of wanted) {
++    const page = bySlug.get(one.pagePropertySlug)
++    const body = page === undefined ? null : codeAt(root, page.path)
++    const loaded =
++      body === null
++        ? { failed: `\`${one.pagePropertySlug}\` names no code file beside its page` }
++        : workIn(body)
++    const held =
++      "failed" in loaded
++        ? () => {
++            throw new Error(loaded.failed)
++          }
++        : loaded.work
++    found.push({
++      slug: one.propertySlug,
++      key: one.key,
++      holds: page === undefined ? "" : (textAt(page.value, "holds") ?? ""),
++      work: held,
++    })
++  }
++  return found
++}
++
++export type Counted = {
++  readonly rows: readonly Valued[]
++  readonly dark: ReadonlyMap<string, string>
++}
++
++export function computedInto(computed: readonly Computed[], read: readonly Valued[]): Counted {
++  if (computed.length === 0) return { rows: read, dark: new Map() }
++  const subjects = new Map<string, Subject>()
++  for (const one of read) {
++    const slug = textAt(one.value, "slug")
++    if (slug !== null && !subjects.has(slug)) {
++      subjects.set(slug, { id: textAt(one.value, "id") ?? one.path, value: one.value, computed })
++    }
++  }
++  const computing = computingOver({ subjectAt: (slug) => subjects.get(slug) ?? null })
++  const dark = new Map<string, string>()
++  const rows = read.map((one) => {
++    const slug = textAt(one.value, "slug")
++    const worked = slug === null ? null : computing.workedAt(slug)
++    if (worked === null) return one
++    for (const [key, why] of worked.dark) if (!dark.has(key)) dark.set(key, why)
++    return { path: one.path, value: worked.value as Value }
++  })
++  return { rows, dark }
++}
++
++function unlit(query: Query, dark: ReadonlyMap<string, string>): string | null {
++  if (dark.size === 0) return null
++  for (const [key, at] of askedFor(query)) {
++    const why = dark.get(key)
++    if (why === undefined) continue
++    return `\`${at}\` names \`${key}\`, and no calculation is worked out for that key here: ${why}. the keys darkened are ${[...dark.keys()].sort().join(", ")}`
++  }
++  return null
++}
++
+ export function workingFor(
+   root: string,
+   pageTypeSlug: string,
+@@ -310,10 +394,13 @@ export function asking(root: string, query: Query, at: number = Date.now()): Ask
+   let held: readonly Valued[]
+   try {
+     const read = valuedFor(root, query.pageTypeSlug, carried)
++    const counted = computedInto(computedFor(root, carried), read)
++    const darkened = unlit(query, counted.dark)
++    if (darkened !== null) return { refused: darkened }
+     const worked =
+       working === null || "barred" in working
+-        ? read
+-        : read.map((one) => ({ path: one.path, value: workedInto(working, one.value, at) }))
++        ? counted.rows
++        : counted.rows.map((one) => ({ path: one.path, value: workedInto(working, one.value, at) }))
+     held = worked.filter((one) => narrows(one.value, query.where))
+   } catch (thrown) {
+     return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
