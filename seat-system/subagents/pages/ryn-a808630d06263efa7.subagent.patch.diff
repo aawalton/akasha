@@ -1,0 +1,13 @@
+diff --git a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
+index 4c93f2c382cafbc6b3abb4b3998edb6ea219c007..86c1abbd43ada751a11b37b5ed4cec16b4dcbf59 100644
+--- a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
++++ b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
+@@ -29,7 +29,7 @@ export const mobileSimLongPressDrag = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A gesture names where the finger goes down and where it ends.",
++      statement: "A gesture names where the finger goes down and where that finger ends.",
+     },
+     {
+       invariantKind: "departure",
