@@ -1,0 +1,13 @@
+diff --git a/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts b/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
+index edb97115fd4b2e82684cd75ec7d734eb0085489c..1a20e455c4ee13c736f42cb40c9f47837ecf7f92 100644
+--- a/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
++++ b/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
+@@ -27,7 +27,7 @@ export const bashEnv = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pipeline fails on the first command in it that fails.",
++      statement: "A pipeline fails on the first command in that pipeline that fails.",
+     },
+     {
+       invariantKind: "departure",
