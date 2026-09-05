@@ -1,0 +1,89 @@
+diff --git a/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts b/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
+index 56a75b71362d1cafa90395e195ec1d55d8c72fc5..d6924e0e80372c25cf8931ef954b3c9cf07c7f76 100644
+--- a/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
++++ b/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
+@@ -4,7 +4,7 @@ export const walkFunctions = {
+   id: "01a0680f-d1b7-72c6-a3b9-0ccb673e665d",
+   pageTypeSlug: "module",
+   slug: "walk-functions",
+-  definition: "every function a source file holds, with the name and line each one stands at",
++  definition: "every function a source file holds, with the name and line each one is at",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.ts b/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.ts
+index 671569efdab50a7a7c9904f32638f2b4462ff91f..3e57407ec3a31686c8c936db8768439dd6d04a11 100644
+--- a/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.ts
++++ b/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.ts
+@@ -4,6 +4,6 @@ export const talosRegistryCa = {
+   id: "01a06813-7b0f-77e9-b7be-7c10f95506c1",
+   pageTypeSlug: "module",
+   slug: "talos-registry-ca",
+-  definition: "the registry CA certificate's path and the bytes standing at it",
++  definition: "the registry CA certificate's path and the bytes at it",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/infrastructure/k8s-synth/generated-file/generated-file.module.ts b/infrastructure/k8s-synth/generated-file/generated-file.module.ts
+index 1bf995dfcb68ef57bf16caec7dff581638a96b13..6b9bd364811641c4cc7ec7b72446067a2d4b9254 100644
+--- a/infrastructure/k8s-synth/generated-file/generated-file.module.ts
++++ b/infrastructure/k8s-synth/generated-file/generated-file.module.ts
+@@ -4,7 +4,7 @@ export const generatedFile = {
+   id: "01a06810-0b68-7fc5-b1b3-8bd0a620be5a",
+   pageTypeSlug: "module",
+   slug: "generated-file",
+-  definition: "the generated file a synth's output stands in",
++  definition: "the generated file a synth's output is in",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.code.ts b/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.code.ts
+index e96c89732752cf8b812a900b7c6112797a13d50e..82c927ae7f994039376a9ab19aa8a203144cb0bc 100644
+--- a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.code.ts
++++ b/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.code.ts
+@@ -14,7 +14,7 @@ export function checkoutRoot(from: string = import.meta.dir): string {
+     const parent = dirname(dir)
+     if (parent === dir) {
+       throw new Error(
+-        `no \`${CHECKOUT_MARKER}\` stands above ${from}, so the code checkout holding it cannot be named`
++        `no \`${CHECKOUT_MARKER}\` is above ${from}, so the code checkout holding it cannot be named`
+       )
+     }
+     dir = parent
+diff --git a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts b/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts
+index 27bc1a1f0b6e3e2855b32fbd6042f3720fac6ada..f9f709627c756cc46115758c8e12e9d392c01f71 100644
+--- a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts
++++ b/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.ts
+@@ -9,7 +9,7 @@ export const synthManifests = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A checkout root is the folder the lockfile stands in.",
++      statement: "A checkout root is the folder the lockfile is in.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/seaweedfs/seaweedfs-namespace/seaweedfs-namespace.module.ts b/infrastructure/seaweedfs/seaweedfs-namespace/seaweedfs-namespace.module.ts
+index 8899b21629d4fe4ecfde5c1e738aeb78b9bd374b..176d8351c0ad12645642d959c7a14ff8a0fc3501 100644
+--- a/infrastructure/seaweedfs/seaweedfs-namespace/seaweedfs-namespace.module.ts
++++ b/infrastructure/seaweedfs/seaweedfs-namespace/seaweedfs-namespace.module.ts
+@@ -4,6 +4,6 @@ export const seaweedfsNamespace = {
+   id: "01a06816-68b0-7eee-bf75-7911f92939d0",
+   pageTypeSlug: "module",
+   slug: "seaweedfs-namespace",
+-  definition: "the namespace manifest a SeaweedFS component stands in",
++  definition: "the namespace manifest a SeaweedFS component is in",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts b/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
+index b1e09457e0db04fd78ea430204e9e29ee3a7ac1c..03227ab1db9e56fbdfdcd7772f361b036273b188 100644
+--- a/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
++++ b/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
+@@ -10,7 +10,7 @@ export const upscaleWorkstation = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The scripts are reached at the path their pages stand at rather than at the path they were once installed to.",
++        "The scripts are reached at the path their pages are at rather than at the path they were once installed to.",
+     },
+     {
+       invariantKind: "departure",
