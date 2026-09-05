@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/client/monarch-client.module.ts b/alan/harness/monarch/client/monarch-client.module.ts
+index aead01225e14ce5963cb809906fa306a55a197dc..e39fb1e88a157eecf59b368985c6eb80625c6729 100644
+--- a/alan/harness/monarch/client/monarch-client.module.ts
++++ b/alan/harness/monarch/client/monarch-client.module.ts
+@@ -15,7 +15,7 @@ export const monarchClient = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reply carrying a GraphQL error is refused with what that error said, however the status read.",
++        "A reply carrying a GraphQL error is refused with that error's words, however the status read.",
+     },
+     {
+       invariantKind: "departure",
