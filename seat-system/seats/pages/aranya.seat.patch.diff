@@ -327,3 +327,11 @@ index 183eb4f1b82d77cd2da4f72be6a166059006492e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/postgres-annual-dump
 \ No newline at end of file
+diff --git a/infrastructure/seaweedfs/seaweedfs b/infrastructure/seaweedfs/seaweedfs
+deleted file mode 120000
+index 66e6771aa9f6caba4900063c1e74ed2e7dda0591..0000000000000000000000000000000000000000
+--- a/infrastructure/seaweedfs/seaweedfs
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/seaweedfs
+\ No newline at end of file
