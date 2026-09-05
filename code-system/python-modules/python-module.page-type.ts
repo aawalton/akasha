@@ -26,11 +26,13 @@ export const pythonModule = {
     },
     {
       invariantKind: "departure",
-      statement: "A Python module reaches its siblings by the name each carries where it runs.",
+      statement:
+        "A Python module reaches its siblings by the name each carries where that module runs.",
     },
     {
       invariantKind: "departure",
-      statement: "What carries a Python module to where it runs states the name it lands under.",
+      statement:
+        "What carries a Python module to where that module runs states the name that module lands under.",
     },
     {
       invariantKind: "absence",
