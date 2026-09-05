@@ -62,6 +62,10 @@ export const story = {
     },
     {
       invariantKind: "departure",
+      statement: "A story names the world the story is of.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A truth in a world that no story has told is a sketch.",
     },
     {
