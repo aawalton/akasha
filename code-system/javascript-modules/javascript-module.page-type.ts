@@ -22,20 +22,23 @@ export const javascriptModule = {
     },
     {
       invariantKind: "departure",
-      statement: "JavaScript runs under whatever runtime loads it rather than under TypeScript's.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A JavaScript module is written as the runtime loading it reads it.",
+      statement:
+        "JavaScript runs under whatever runtime loads that JavaScript rather than under TypeScript's.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What carries a JavaScript module to where it runs states the name it lands under.",
+        "A JavaScript module is written as the runtime loading that module reads that module.",
     },
     {
       invariantKind: "departure",
-      statement: "A JavaScript module reaches its siblings by the name each carries where it runs.",
+      statement:
+        "What carries a JavaScript module to where that module runs states the name that module lands under.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A JavaScript module reaches its siblings by the name each carries where that sibling runs.",
     },
     {
       invariantKind: "absence",
