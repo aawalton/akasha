@@ -1,3 +1,162 @@
+diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b44a061b1834e856dc2ed09c96842f7b12e8f05
+--- /dev/null
++++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
+@@ -0,0 +1,45 @@
++import { repointed } from "@akasha/code-system/path-repointing"
++import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++
++export type Asked = {
++  readonly from: string
++  readonly to: string
++}
++
++export type Moved = {
++  readonly from: string
++  readonly to: string
++}
++
++export type Renamed = {
++  readonly moved: Moved | null
++  readonly bodies: ReadonlyMap<string, string> | null
++  readonly refused: string | null
++}
++
++function refusing(why: string): Renamed {
++  return { moved: null, bodies: null, refused: why }
++}
++
++export function renamePath(
++  root: string,
++  given: Asked,
++  textOf: (path: string) => string | null
++): Renamed {
++  if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
++  const text = textOf(given.from)
++  if (text === null) return refusing(`\`${given.from}\` could not be read`)
++  if (textOf(given.to) !== null) return refusing(`\`${given.to}\` is a body already`)
++  const moved = new Map([[given.from, given.to]])
++  const reading = importingOf(root, moved)
++  if ("unread" in reading) return refusing(reading.unread)
++  const bodies = new Map<string, string>()
++  bodies.set(given.to, repointed(given.from, given.to, text, moved))
++  for (const path of reading.importers) {
++    const held = textOf(path)
++    if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
++    const next = repointed(path, path, held, moved)
++    if (next !== held) bodies.set(path, next)
++  }
++  return { moved: { from: given.from, to: given.to }, bodies, refused: null }
++}
+diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.test.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5910325cdbf6d49c0b77c4fff211902bffdc62c9
+--- /dev/null
++++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.test.ts
+@@ -0,0 +1,48 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  HELD_CODE,
++  indexedRepo,
++  NAMER_CODE,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import { renamePath } from "./rename-path.atomic-change.code.ts"
++
++afterAll(scratch.sweep)
++
++const KEPT = "akasha/one/kept.module.code.ts"
++
++const NOTHING = (): null => null
++
++test("the path it already sits at is refused", () => {
++  const said = renamePath(scratch.rootFor("rename-path-"), { from: KEPT, to: KEPT }, NOTHING)
++  expect(said.refused).toBe("`akasha/one/kept.module.code.ts` is the path it already sits at")
++})
++
++test("a body that could not be read is refused", () => {
++  const said = renamePath(scratch.rootFor("rename-path-"), { from: HELD_CODE, to: KEPT }, NOTHING)
++  expect(said.refused).toBe(`\`${HELD_CODE}\` could not be read`)
++})
++
++test("a body already at the path it would move to is refused", () => {
++  const root = indexedRepo()
++  const said = renamePath(root, { from: HELD_CODE, to: NAMER_CODE }, textIn(root))
++  expect(said.refused).toBe(`\`${NAMER_CODE}\` is a body already`)
++})
++
++test("an index that cannot answer refuses rather than narrowing the reach", () => {
++  const held = (path: string): string | null =>
++    path === HELD_CODE ? "export const kept = 1\n" : null
++  const said = renamePath(scratch.rootFor("rename-path-"), { from: HELD_CODE, to: KEPT }, held)
++  expect(said.bodies).toBe(null)
++  expect(said.refused).toContain("so none were repointed")
++})
++
++test("a path that moves carries its importer with it", () => {
++  const root = indexedRepo()
++  const said = renamePath(root, { from: HELD_CODE, to: KEPT }, textIn(root))
++  expect(said.refused).toBe(null)
++  expect(said.moved).toEqual({ from: HELD_CODE, to: KEPT })
++  expect([...(said.bodies ?? new Map()).keys()].sort()).toEqual([KEPT, NAMER_CODE].sort())
++  expect(said.bodies?.get(NAMER_CODE)).toContain("../one/kept.module.code.ts")
++})
+diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..158fa0c360f2497ed6451a873b62a8dc5e2c2fdd
+--- /dev/null
++++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
+@@ -0,0 +1,48 @@
++import type { AtomicChange } from "../../atomic-change.page-type.ts"
++
++export const renamePath = {
++  id: "01a07336-8c34-71a8-bf0e-101c4053880d",
++  pageTypeSlug: "atomic-change",
++  slug: "rename-path",
++  definition: "one file's path changed, with every body importing it repointed",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Which bodies import the path is asked of the index rather than walked for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body that moves has its own relative reaches rebased on where it lands.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body that moves is answered under the path it lands at, changed or not.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An importer no edge changes is left out of the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body already at the path this would move to refuses the change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The path taken away is answered beside the bodies, since no body says it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Keeping a page's slug in step with its file name is the refactor's concern.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A body naming the path in a string rather than in an import is left as it is.",
++    },
++  ],
++} as const satisfies AtomicChange
 diff --git a/code-system/package.json b/code-system/package.json
 index 428a2f46ff909d20d6fdbd1070345ccf3c26e136..43b0cc27e7e2d7cf17a44fbb0aff6de6bb604536 100644
 --- a/code-system/package.json
