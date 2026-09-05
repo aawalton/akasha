@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-index 3faf5b5baa37379eb2ecbfae3d3eb15d69566683..f2ac6157d923fdf9b7956b6867db4492c8bf4cc1 100644
+index 3faf5b5baa37379eb2ecbfae3d3eb15d69566683..b03be547c58c1619190daa6cacb43a0f4fa3ee97 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 +++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 @@ -15,7 +15,7 @@ export const surplusFallNotifying = {
@@ -9,6 +9,15 @@ index 3faf5b5baa37379eb2ecbfae3d3eb15d69566683..f2ac6157d923fdf9b7956b6867db4492
        statement:
 -        "Where the day opened is what Alan slept, placed on the readout's own scale, before anything the day costs has come off it.",
 +        "Where the day opened is Alan's sleep on the readout's own scale, before the day's costs come off.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const surplusFallNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What was already said today is read back off the notifications already sent, each of which names its rung in its own source.",
++        "Rungs said today are read back off the notifications sent, each naming its rung in its own source.",
      },
      {
        invariantKind: "departure",
