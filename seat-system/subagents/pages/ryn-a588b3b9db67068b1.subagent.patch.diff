@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
-index 3b48c105d09c06ca066cf8485ca76e47f886ae75..9515a3be10ad4223c94f941a2f1efdd5dec2b54d 100644
+index 3b48c105d09c06ca066cf8485ca76e47f886ae75..f8b95cc349fb4d1abc8fd3af266c9c235eac4b78 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
 @@ -40,7 +40,7 @@ export const aPageTypeWithItsParts = {
@@ -12,3 +12,12 @@ index 3b48c105d09c06ca066cf8485ca76e47f886ae75..9515a3be10ad4223c94f941a2f1efdd5
      },
      {
        invariantKind: "departure",
+@@ -84,7 +84,7 @@ export const aPageTypeWithItsParts = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What a part holds is judged where that part is judged.",
++      statement: "The files a part holds are judged where that part is judged.",
+     },
+   ],
+ } as const satisfies FolderShape
