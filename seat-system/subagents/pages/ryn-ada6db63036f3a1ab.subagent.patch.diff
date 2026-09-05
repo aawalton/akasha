@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+index 195eb43775f96285df19e636d87a10fa96213e83..e2336291ed0a0c9514945a6eeff928f806197187 100644
+--- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
++++ b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+@@ -37,7 +37,7 @@ export const pendingMaintaining = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The store watched is the store the run it triggers reads.",
++      statement: "The store watched is the store the run that store triggers reads.",
+     },
+     {
+       invariantKind: "departure",
