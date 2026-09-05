@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/commands/deploy/deploy.command.ts b/commands/deploy/deploy.command.ts
+index 6899ae60ccb16b8b1b80abcff6567a46899b8e34..81e099a82adbdf3ed0a453e6223582b88a492c7e 100644
+--- a/commands/deploy/deploy.command.ts
++++ b/commands/deploy/deploy.command.ts
+@@ -62,7 +62,8 @@ export const deploy = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a deploy is made of is read from the page rather than said on the call.",
++      statement:
++        "The parts a deploy is made of are read from the page rather than said on the call.",
+     },
+     {
+       invariantKind: "departure",
