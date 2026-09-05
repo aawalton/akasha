@@ -289,7 +289,7 @@ index 863648dbcf1cd2f170b6ae89e5e442b7fa9dbbd6..4e3333607f68c1a695bfd7a1aec7ba14
    ],
  } as const satisfies Module
 diff --git a/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts b/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
-index 5c5bae1376fd90cc40973548ce44f203dec370c5..4622f9aa99271e3d7f385aa74332e27d2b4c8ba6 100644
+index 5c5bae1376fd90cc40973548ce44f203dec370c5..17052176491618abeb600bdf87c802b498d5d5af 100644
 --- a/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
 +++ b/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts
 @@ -11,7 +11,7 @@ import {
@@ -301,6 +301,15 @@ index 5c5bae1376fd90cc40973548ce44f203dec370c5..4622f9aa99271e3d7f385aa74332e27d
  import type {
    RecipientResolverAgentRow,
    RecipientResolverTickDeps,
+@@ -43,7 +43,7 @@ export async function defaultRecipientResolverDeps(
+       }
+       return presence !== "absent"
+     },
+-    revive: async (agentId, bootPrompt) => reviveViaAkasha(agentId, bootPrompt, config),
++    revive: async (agentId, bootPrompt) => reviveSeat(agentId, bootPrompt, config),
+     reportUnrevivable: async (name, agentId, tellSeat): Promise<void> => {
+       if (unrevivableReported.has(agentId)) return
+       const told = tellSeat === null ? "Alan" : `\`${tellSeat}\``
 diff --git a/seat-system/recipient-resolving/recipient-resolver-revive/recipient-resolver-revive.module.code.ts b/seat-system/recipient-resolving/recipient-resolver-revive/recipient-resolver-revive.module.code.ts
 index ff82aa9752d77fe8388c6286dc6dc4eaa345581f..a1f883260dd942552dcc002fd2b3ea37ab8ea51d 100644
 --- a/seat-system/recipient-resolving/recipient-resolver-revive/recipient-resolver-revive.module.code.ts
