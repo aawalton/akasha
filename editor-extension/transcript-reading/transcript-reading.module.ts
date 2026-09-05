@@ -26,11 +26,11 @@ export const transcriptReading = {
     {
       invariantKind: "departure",
       statement:
-        "A file no longer reading as it did where the fold stopped is folded from its first byte.",
+        "A file no longer reading as that file did where the fold stopped is folded from its first byte.",
     },
     {
       invariantKind: "departure",
-      statement: "A read says which files it folded from their first byte.",
+      statement: "A read says which files that read folded from their first byte.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const transcriptReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A read says how many bytes it folded and how many remain.",
+      statement: "A read says how many bytes that read folded and how many remain.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const transcriptReading = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller reads an answered array before it asks for the next read.",
+      statement: "A caller reads an answered array before that caller asks for the next read.",
     },
     {
       invariantKind: "absence",
