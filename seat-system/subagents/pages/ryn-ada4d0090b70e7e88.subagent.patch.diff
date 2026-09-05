@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/mobile-cli/mobile-cuts/mobile-cut.page-type.ts b/mobile-cli/mobile-cuts/mobile-cut.page-type.ts
+index 55aab3cef6d7afbbd27c9cd3fe99fa7776dd62dd..84ba9d2d76c2255434b8234482c703a202fa410f 100644
+--- a/mobile-cli/mobile-cuts/mobile-cut.page-type.ts
++++ b/mobile-cli/mobile-cuts/mobile-cut.page-type.ts
+@@ -58,7 +58,7 @@ export const mobileCut = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A cut names the app that cut is of rather than repeating what that app is.",
++      statement: "A cut names the app that cut is of rather than repeating that app's values.",
+     },
+   ],
+ } as const satisfies PageType
