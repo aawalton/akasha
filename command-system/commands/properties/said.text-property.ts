@@ -13,7 +13,7 @@ export const said = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is here is typed as that text is.",
+      statement: "The text here is typed as that text is.",
     },
     {
       invariantKind: "departure",
