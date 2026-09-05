@@ -21,7 +21,8 @@ export const rolePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "What every role is held to is on the type rather than on any one role.",
+      statement:
+        "The invariants and directives every role is held to are on the type rather than on any one role.",
     },
     {
       invariantKind: "departure",
