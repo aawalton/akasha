@@ -98,7 +98,7 @@ index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..414d84227e14dcc24f777636bda2444c
  
  export function schemaOf(given: string | Reading, named: string): Schemad {
 diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
-index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..c5c16fc9e76cd56410654a277a9b78ffa2fb2fcf 100644
+index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..ab70aa81314ba78f101c5d2e10f7a2dc0d3e6706 100644
 --- a/pages/indexes/reading/index-reading.module.test.ts
 +++ b/pages/indexes/reading/index-reading.module.test.ts
 @@ -151,7 +151,7 @@ test("every reader is refused where the index stands nowhere, whatever it was as
@@ -146,3 +146,12 @@ index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..c5c16fc9e76cd56410654a277a9b78ff
      refused: "no page property carries the slug `nowhere`",
    })
  })
+@@ -243,7 +243,7 @@ test("a page type carrying no property of the slug is refused as well", () => {
+   })
+ })
+ 
+-test("a bare slug two page types carry is refused and must name its page type", () => {
++test("a name stating no page type is refused rather than searched for across types", () => {
+   const root = rootAt()
+   schemaFiled(root, "text-property", "foo", [
+     { pageTypeSlug: "text-property", targetPageTypeSlug: null },
