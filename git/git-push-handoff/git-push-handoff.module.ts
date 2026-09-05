@@ -15,7 +15,7 @@ export const gitPushHandoff = {
     {
       invariantKind: "departure",
       statement:
-        "One push runs per checkout at a time, held by a lock file naming the process that took it.",
+        "One push runs per checkout at a time, held by a lock file naming the process that took that lock.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,8 @@ export const gitPushHandoff = {
     },
     {
       invariantKind: "departure",
-      statement: "The state file records what the last push did, so a later landing can report it.",
+      statement:
+        "The state file records what the last push did, so a later landing can report what that push did.",
     },
   ],
 } as const satisfies Module
