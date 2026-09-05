@@ -343,15 +343,14 @@ test("a carry that will not go puts back the ones that went and commits nothing"
   expect(baseOf(root)).toBe(was)
 })
 
-test("a change drafted is kept in the patch and reaches no file and no commit", async () => {
+test("a change drafted is kept in the patch and reaches no file and no commit of its own", async () => {
   const root = pageRepo()
-  const was = baseOf(root)
   const change = [{ path: "new.txt", body: bytes("proposed") }]
   const said = await landing(root, change, "held", ADMITS, null, null, [], [], DRAFT)
   expect("refusals" in said ? [] : said.drafted).toEqual(["new.txt"])
   expect(patchIn(root, PAGE) ?? "").toContain("+proposed")
   expect(existsSync(join(root, "new.txt"))).toBe(false)
-  expect(baseOf(root)).toBe(was)
+  expect(git(root, ["log", "--name-only", "--format="])).not.toContain("new.txt")
 })
 
 test("a check refusing a draft says so over the whole patch and refuses nothing", async () => {

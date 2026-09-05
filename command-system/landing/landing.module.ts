@@ -250,11 +250,11 @@ export const landing = {
     },
     {
       invariantKind: "absence",
-      statement: "A draft writes no file in the worktree.",
+      statement: "A draft writes no body the change carries into the worktree.",
     },
     {
-      invariantKind: "absence",
-      statement: "A draft makes no commit.",
+      invariantKind: "departure",
+      statement: "A draft commits the patch rather than the bodies the change carries.",
     },
     {
       invariantKind: "departure",
