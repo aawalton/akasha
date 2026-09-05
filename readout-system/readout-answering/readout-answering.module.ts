@@ -17,7 +17,7 @@ export const readoutAnswering = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what was asked for.",
+      statement: "Nothing here reads the request handed in.",
     },
   ],
 } as const satisfies Module
