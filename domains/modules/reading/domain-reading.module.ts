@@ -4,8 +4,7 @@ export const domainReading = {
   id: "01a06949-b280-73e9-9ded-65530eee9efa",
   pageTypeSlug: "module",
   slug: "domain-reading",
-  definition:
-    "every domain page in a repo read back as frontmatter fields, with parents from part slugs",
+  definition: "the path, slug and address of every domain page in a repo",
   code: "ts",
   invariants: [
     {
@@ -22,11 +21,7 @@ export const domainReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A field key written in camel case comes back in kebab case.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page's parents are the pages whose part slugs name it.",
+      statement: "A page's address is its page type slug and its slug.",
     },
     {
       invariantKind: "departure",
