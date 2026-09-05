@@ -115,6 +115,14 @@ export const akasha = {
     },
     {
       directiveKind: "rule",
+      name: "Neither Clock Nor Meter",
+      act: "Never estimate, report or act on the time, effort, context or usage work will take; Alan holds them.",
+      warrant:
+        "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
+      aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
+    },
+    {
+      directiveKind: "rule",
       name: "Alan Over Invariants",
       act: "Change the invariants Alan's instructions contradict.",
       warrant: "An invariant is past thinking, which is updated by current thinking.",
@@ -153,37 +161,6 @@ export const akasha = {
     },
     {
       directiveKind: "principle",
-      name: "Ubiquitous Naming",
-      act: "Use the same name for a concept in code, data and text.",
-      warrant: "A second spelling reads as a second thing, and each layer looks right by itself.",
-      aids: [
-        "A rename lands in every layer at once.",
-        "Never swap in a synonym to avoid repeating.",
-      ],
-    },
-    {
-      directiveKind: "principle",
-      name: "Plain Or Declared",
-      act: "Write the plain phrase; give a word its own sense by declaring it a domain.",
-      warrant:
-        "Nobody looks up a word they read as ordinary, so the wrong sense is carried off silently.",
-      aids: ["Use a declared word only in its declared sense."],
-    },
-    {
-      directiveKind: "principle",
-      name: "Cheap To Read (CTR)",
-      act: "Make every sentence cheaper to read, where nothing true and clear is lost.",
-      warrant:
-        "An agent holds one budget for a turn, and what the agent spends reading is gone from the work.",
-      aids: [
-        "Naming a thing costs less than pointing at the thing.",
-        "Repeating a noun is free.",
-        "A narrower claim is better where the claim is truer.",
-        "Shorter is not always cheaper.",
-      ],
-    },
-    {
-      directiveKind: "principle",
       name: "Cut The Obvious",
       act: "Keep an instruction only where Opus 5 consistently goes wrong without that instruction.",
       warrant: "A line the model would have obeyed anyway reads exactly like one the model needs.",
@@ -203,12 +180,35 @@ export const akasha = {
       ],
     },
     {
-      directiveKind: "rule",
-      name: "Neither Clock Nor Meter",
-      act: "Never estimate, report or act on the time, effort, context or usage work will take; Alan holds them.",
+      directiveKind: "principle",
+      name: "Cheap To Read (CTR)",
+      act: "Make every sentence cheaper to read, where nothing true and clear is lost.",
       warrant:
-        "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
-      aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
+        "An agent holds one budget for a turn, and what the agent spends reading is gone from the work.",
+      aids: [
+        "Naming a thing costs less than pointing at the thing.",
+        "Repeating a noun is free.",
+        "A narrower claim is better where the claim is truer.",
+        "Shorter is not always cheaper.",
+      ],
+    },
+    {
+      directiveKind: "principle",
+      name: "Plain Or Declared",
+      act: "Write the plain phrase; give a word its own sense by declaring it a domain.",
+      warrant:
+        "Nobody looks up a word they read as ordinary, so the wrong sense is carried off silently.",
+      aids: ["Use a declared word only in its declared sense."],
+    },
+    {
+      directiveKind: "principle",
+      name: "Ubiquitous Naming",
+      act: "Use the same name for a concept in code, data and text.",
+      warrant: "A second spelling reads as a second thing, and each layer looks right by itself.",
+      aids: [
+        "A rename lands in every layer at once.",
+        "Never swap in a synonym to avoid repeating.",
+      ],
     },
     {
       directiveKind: "rule",
