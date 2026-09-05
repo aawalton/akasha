@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/command-system/commands/test/test.command.ts b/command-system/commands/test/test.command.ts
-index afff995a88d3ee3d26cace504b5a64755dedd8c1..1eed505f79247a9cf4fe076d37792a971a016ce0 100644
+index afff995a88d3ee3d26cace504b5a64755dedd8c1..02c9ee8e5e349db131ae30c9b7de59bf081d081d 100644
 --- a/command-system/commands/test/test.command.ts
 +++ b/command-system/commands/test/test.command.ts
-@@ -77,11 +77,12 @@ export const test = {
+@@ -77,15 +77,16 @@ export const test = {
      },
      {
        invariantKind: "departure",
@@ -15,6 +15,11 @@ index afff995a88d3ee3d26cace504b5a64755dedd8c1..1eed505f79247a9cf4fe076d37792a97
 -      statement: "A run naming no test points at naming one rather than carrying what was printed.",
 +      statement:
 +        "A run naming no test points at naming one rather than carrying the output the runner printed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a named run carries is bounded in lines and in bytes alike.",
++      statement: "The output a named run carries is bounded in lines and in bytes alike.",
      },
      {
        invariantKind: "departure",
