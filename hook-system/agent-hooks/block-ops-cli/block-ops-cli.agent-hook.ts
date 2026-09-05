@@ -12,7 +12,7 @@ export const blockOpsCli = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every call that runs the ops CLI is refused whatever it asks of it.",
+      statement: "Every call that runs the ops CLI is refused whatever that call asks of that CLI.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,8 @@ export const blockOpsCli = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it does not hide this one from it.",
+      statement:
+        "A prefix that only runs the call behind that prefix does not hide this one from this hook.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +41,7 @@ export const blockOpsCli = {
     },
     {
       invariantKind: "absence",
-      statement: "A word only holding the name inside it is no call to the CLI.",
+      statement: "A word only holding the name inside that word is no call to the CLI.",
     },
     {
       invariantKind: "gap",
