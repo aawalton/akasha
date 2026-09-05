@@ -1,0 +1,70 @@
+diff --git a/editor-extension/subagent-reading/subagent-reading.module.code.ts b/editor-extension/subagent-reading/subagent-reading.module.code.ts
+index 026d2e3822f6d638e12ad6af8e2c6792ab159ef9..257d033b5bc2baf6028c990560eb57b9494833eb 100644
+--- a/editor-extension/subagent-reading/subagent-reading.module.code.ts
++++ b/editor-extension/subagent-reading/subagent-reading.module.code.ts
+@@ -92,18 +92,34 @@ export function createSubagentReader(): SubagentReader {
+     return cursor.state
+   }
+ 
++  // AN AGENT ALREADY READ ON THIS PATH IS NOT READ AGAIN ON IT. A resumed agent nothing the fold
++  // holds is filed under the resumed id as a row of its own, and that id can name an agent already
++  // above the row — which is what a lane resuming the agent that ran it leaves behind. Reading that
++  // agent's transcript again lists every lane a second time, under one of themselves, so the panel
++  // drew a subtree of its own ancestor. The depth limit cut that off rather than preventing it, and
++  // what it cut off was still drawn: 19 of 67 rows were one of the other 48 over again.
+   const descend = async (
+     running: readonly RunningSubagent[],
+     subagentsDir: string,
+-    depth: number
++    depth: number,
++    entered: ReadonlySet<string>
+   ): Promise<readonly SubagentNode[]> => {
+     const nodes: SubagentNode[] = []
+     for (const subagent of running) {
+       let children: readonly SubagentNode[] = []
+-      if (subagent.agentId !== null && depth < MAX_SUBAGENT_DEPTH) {
++      if (
++        subagent.agentId !== null &&
++        !entered.has(subagent.agentId) &&
++        depth < MAX_SUBAGENT_DEPTH
++      ) {
+         const childPath = path.join(subagentsDir, `agent-${subagent.agentId}.jsonl`)
+         const state = await advance(childPath, childPath)
+-        children = await descend(runningSubagents(state), subagentsDir, depth + 1)
++        children = await descend(
++          runningSubagents(state),
++          subagentsDir,
++          depth + 1,
++          new Set(entered).add(subagent.agentId)
++        )
+       }
+       nodes.push({
+         key: subagent.key,
+@@ -140,7 +156,7 @@ export function createSubagentReader(): SubagentReader {
+     forSeat: async (agentId: string, transcriptPath: string) => {
+       const state = await advance(agentId, transcriptPath)
+       const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
+-      return descend(runningSubagents(state), subagentsDir, 1)
++      return descend(runningSubagents(state), subagentsDir, 1, new Set())
+     },
+     dropUntouched: async () => {
+       for (const key of [...cursors.keys()]) {
+diff --git a/editor-extension/subagent-reading/subagent-reading.module.ts b/editor-extension/subagent-reading/subagent-reading.module.ts
+index ddea6c256bd46db4b0e2f721278546c558c268db..846777054e39d4c1c1b1a1f74c0d8ec644b81ace 100644
+--- a/editor-extension/subagent-reading/subagent-reading.module.ts
++++ b/editor-extension/subagent-reading/subagent-reading.module.ts
+@@ -31,6 +31,14 @@ export const subagentReading = {
+       invariantKind: "departure",
+       statement: "The banked offset, the anchor and the state are taken together or not at all.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An agent already read on one path is not read again anywhere below itself.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row naming an agent already above that row is drawn holding nothing.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A subagent is descended into five deep and no deeper.",
