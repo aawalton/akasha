@@ -1,0 +1,13 @@
+diff --git a/google/email/email-command-help/email-command-help.module.code.ts b/google/email/email-command-help/email-command-help.module.code.ts
+index 25dbd6d36aa61e5728913446378c47e83b8c66b1..7b0bbbeddd51746d9c64d42d0775c5f2c2118c0d 100644
+--- a/google/email/email-command-help/email-command-help.module.code.ts
++++ b/google/email/email-command-help/email-command-help.module.code.ts
+@@ -14,7 +14,7 @@ export const GMAIL_ENV_VARS: readonly HelpEnvVar[] = [
+   {
+     name: "GOOGLE_GMAIL_OAUTH_REFRESH_TOKEN",
+     required: true,
+-    description: "Refresh token minted by `ops email auth login`",
++    description: "Refresh token minted by `akasha email-auth-login`",
+   },
+ ]
+ 
