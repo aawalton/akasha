@@ -97,7 +97,7 @@ index 2736394b876c6ec11bcb471981ee7ffaf00159ee..45f0ada41eee74a1b5e43aa11b173324
        invariantKind: "departure",
        statement: "A group is answered in the order of the first path the group holds.",
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index 66762ab758ed6527576b2bac39eac095ec7f7a67..ddd597e3b7588ede0e101109f6d5140e0cad5d03 100644
+index 66762ab758ed6527576b2bac39eac095ec7f7a67..29403514669531ca3574f5888923f3f3f87fcd97 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -3,6 +3,7 @@ import { join, relative, resolve } from "node:path"
@@ -117,6 +117,15 @@ index 66762ab758ed6527576b2bac39eac095ec7f7a67..ddd597e3b7588ede0e101109f6d5140e
  ): readonly string[] {
    if (verdict === "fail") {
      return [`${said.failed} of ${(said.passed ?? 0) + (said.failed ?? 0)} tests failed.`]
+@@ -228,7 +229,7 @@ function toldOf(
+     ]
+   }
+   return [
+-    `the run printed no summary, so nothing says the tests ran at all — it exited ${code}. ` +
++    `the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
+       "This is the runner failing, not a test.",
+   ]
+ }
 diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
 index 86b539e110763141df03445c26cce6c015c2ba4b..3d9f456d331aa75d0a0733926b2bd07a7d737887 100644
 --- a/commands/test/test.command.ts
@@ -133,7 +142,7 @@ index 86b539e110763141df03445c26cce6c015c2ba4b..3d9f456d331aa75d0a0733926b2bd07a
        invariantKind: "departure",
        statement:
 diff --git a/utils-run/running/running.module.code.ts b/utils-run/running/running.module.code.ts
-index 081c65fe3e7464e6c98f6553ad6fd85ad865322c..b8b65b765a085f39d9ea8ab8851a92f3b5cb8756 100644
+index 081c65fe3e7464e6c98f6553ad6fd85ad865322c..fe8847d26d295b6a5644ce8e32534f357459f2b8 100644
 --- a/utils-run/running/running.module.code.ts
 +++ b/utils-run/running/running.module.code.ts
 @@ -2,12 +2,14 @@ export const NO_CODE = -1
@@ -184,8 +193,15 @@ index 081c65fe3e7464e6c98f6553ad6fd85ad865322c..b8b65b765a085f39d9ea8ab8851a92f3
  }
  
  export function shown(argv: readonly string[], asked: Asked = {}): undefined {
+@@ -56,5 +68,5 @@ export function shown(argv: readonly string[], asked: Asked = {}): undefined {
+     ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
+   })
+   const code = done.exitCode ?? NO_CODE
+-  if (code !== 0) throw new Error(`\`${argv[0] ?? ""}\` exited ${String(code)}`)
++  if (code !== 0) throw new Error(`\`${argv[0] ?? ""}\` ${endingOf(code, done.signalCode ?? null)}`)
+ }
 diff --git a/utils-run/running/running.module.test.ts b/utils-run/running/running.module.test.ts
-index cb13c959dd57cba159ab4b276012664e90e00c6a..d28aa1aba24ff48a7d06b2277cd53e5cc30dc5b4 100644
+index cb13c959dd57cba159ab4b276012664e90e00c6a..a6474926c2f23fe03984c1c1d4777d465b1c126a 100644
 --- a/utils-run/running/running.module.test.ts
 +++ b/utils-run/running/running.module.test.ts
 @@ -1,22 +1,51 @@
@@ -252,6 +268,14 @@ index cb13c959dd57cba159ab4b276012664e90e00c6a..d28aa1aba24ff48a7d06b2277cd53e5c
  })
  
  test("what a caller hands in reaches the process", () => {
+@@ -72,3 +101,7 @@ test("a process run to be watched writes to the streams its caller was given", (
+ test("a process run to be watched throws where it exits other than zero", () => {
+   expect(() => shown(["false"])).toThrow(/`false` exited 1/)
+ })
++
++test("a process run to be watched throws naming the signal where a signal ended it", () => {
++  expect(() => shown(["sh", "-c", "kill -KILL $$"])).toThrow(/`sh` died on SIGKILL/)
++})
 diff --git a/utils-run/running/running.module.ts b/utils-run/running/running.module.ts
 index 3687b918b8eb621d9dc189c724ab22679622c915..5755ae59c46dfb7089c069bf80d74c3c52fd555e 100644
 --- a/utils-run/running/running.module.ts
