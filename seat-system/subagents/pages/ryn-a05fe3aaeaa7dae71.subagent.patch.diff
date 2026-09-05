@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readout-relay/readout-relay.module.ts b/readout-system/readout-relay/readout-relay.module.ts
+index d984bbb8540b07ec795b3717cfa43981177e4ad0..06843e95dff5d34d6686f96e1716b6b2c15fa2cb 100644
+--- a/readout-system/readout-relay/readout-relay.module.ts
++++ b/readout-system/readout-relay/readout-relay.module.ts
+@@ -64,7 +64,7 @@ export const readoutRelay = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Running this file carries the reading beside the readout it names.",
++      statement: "Running this file carries the reading beside the readout that run names.",
+     },
+     {
+       invariantKind: "departure",
