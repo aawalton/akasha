@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/seat-system/seat-log-days/seat-log-day.page-type.ts b/seat-system/seat-log-days/seat-log-day.page-type.ts
-index ccb59d505b3b6d397a21fc58a30189bd2e4fae77..289e9887c95ddcdb8bc13539699a3978a8ff6c41 100644
+index ccb59d505b3b6d397a21fc58a30189bd2e4fae77..3684883c24eb72c80f9b1048f2c63f0e60458f44 100644
 --- a/seat-system/seat-log-days/seat-log-day.page-type.ts
 +++ b/seat-system/seat-log-days/seat-log-day.page-type.ts
-@@ -60,7 +60,7 @@ export const seatLogDay = {
+@@ -60,11 +60,11 @@ export const seatLogDay = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index ccb59d505b3b6d397a21fc58a30189bd2e4fae77..289e9887c95ddcdb8bc13539699a3978
      },
      {
        invariantKind: "absence",
+-      statement: "No line here records what the agent did.",
++      statement: "No line here records the work the agent did.",
+     },
+     {
+       invariantKind: "departure",
