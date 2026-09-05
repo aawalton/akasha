@@ -50,7 +50,7 @@ export const whereTesting = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a query is made of.",
+      statement: "Nothing here knows a query's parts.",
     },
   ],
 } as const satisfies Module
