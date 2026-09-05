@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts b/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts
+index 7f24c50ab9de4eb25d0b771e6d6a604d8c64293b..2e806b6c5ae7446b0f30bf9c86999e728a95fae1 100644
+--- a/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts
++++ b/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts
+@@ -37,7 +37,7 @@ export const luaRuntimeLibrary = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which of the two a build reaches is what that build's config overlays.",
++      statement: "A build's config overlays which of the two files that build reaches.",
+     },
+     {
+       invariantKind: "departure",
