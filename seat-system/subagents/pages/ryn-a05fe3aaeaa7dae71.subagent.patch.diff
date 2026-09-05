@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-generators/temper-addon-generators.workspace-package.ts b/temper/temper-addon-generators/temper-addon-generators.workspace-package.ts
+index 046956a62c8c5973cf5a93d7c6dca43a6c692d50..67596b2cde9b5f609870338397e69641f91e5bf9 100644
+--- a/temper/temper-addon-generators/temper-addon-generators.workspace-package.ts
++++ b/temper/temper-addon-generators/temper-addon-generators.workspace-package.ts
+@@ -133,7 +133,7 @@ export const temperAddonGenerators = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rendered file landing outside akasha carries a line telling a reader not to edit it.",
++        "A rendered file landing outside akasha carries a line telling a reader not to edit that file.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
