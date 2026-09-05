@@ -1,0 +1,16 @@
+diff --git a/temper/temper-completion-import/temper-completion-import.workspace-package.ts b/temper/temper-completion-import/temper-completion-import.workspace-package.ts
+index e2bded1610d45a0c68a84ad39d2831be01d91865..7445a60277e1a13f59524cf8803f6835bfd2cd1c 100644
+--- a/temper/temper-completion-import/temper-completion-import.workspace-package.ts
++++ b/temper/temper-completion-import/temper-completion-import.workspace-package.ts
+@@ -16,10 +16,7 @@ export const temperCompletionImport = {
+       invariantKind: "departure",
+       statement: "A record read here keeps every key the reading does not name.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Which companion a saved definition id names is asked of the caller.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "No page is written here.",
