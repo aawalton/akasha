@@ -1,0 +1,13 @@
+diff --git a/commands/agent-forest/agent-forest.command.ts b/commands/agent-forest/agent-forest.command.ts
+index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..32f8a482d074e3a0465dc89f4a3a9bc1d13db3a3 100644
+--- a/commands/agent-forest/agent-forest.command.ts
++++ b/commands/agent-forest/agent-forest.command.ts
+@@ -48,7 +48,7 @@ export const agentForest = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "It takes no word, and a word it is given is refused.",
++      statement: "This command takes no word, and a word this command is given is refused.",
+     },
+     {
+       invariantKind: "departure",
