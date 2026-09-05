@@ -1,5 +1,5 @@
 diff --git a/commands/write/write.command.code.ts b/commands/write/write.command.code.ts
-index ff2fe35280d05875da7fa327da0c98efc791fee7..6b8c05ac7675a7325db450908081767d7663601d 100644
+index ff2fe35280d05875da7fa327da0c98efc791fee7..aaf9ff99fdc823990a5cc2163097b69079350715 100644
 --- a/commands/write/write.command.code.ts
 +++ b/commands/write/write.command.code.ts
 @@ -13,7 +13,11 @@ import {
@@ -57,3 +57,17 @@ index ff2fe35280d05875da7fa327da0c98efc791fee7..6b8c05ac7675a7325db450908081767d
  export function pathAt(root: string, said: string): string | null {
    const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
    const rel = relative(resolve(root), full)
+@@ -419,9 +443,11 @@ export async function writing(
+   given: Given,
+   piping: Piping
+ ): Promise<Answer> {
+-  const built = builtIn(argv, given, piping)
++  const kind = restatedIn(argv, given)
++  if ("refusals" in kind) return mistaking(kind.refusals)
++  const built = builtIn(argv, kind.given, piping)
+   if ("code" in built) return built
+-  return await landingAsked(given, {
++  return await landingAsked(kind.given, {
+     changes: built.changes,
+     message: built.message,
+     dryRun: false,
