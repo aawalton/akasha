@@ -13,7 +13,7 @@ export const tickSleeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A wait says whether it ran out or was cut short, so a loop knows to stop.",
+      statement: "A wait says whether that wait ran out or was cut short, so a loop knows to stop.",
     },
     {
       invariantKind: "departure",
