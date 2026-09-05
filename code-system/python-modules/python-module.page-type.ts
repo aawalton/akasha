@@ -32,7 +32,7 @@ export const pythonModule = {
     {
       invariantKind: "departure",
       statement:
-        "What carries a Python module to where that module runs states the name that module lands under.",
+        "A carry taking a Python module to where that module runs states the name that module lands under.",
     },
     {
       invariantKind: "absence",
