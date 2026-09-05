@@ -34,7 +34,7 @@ export const exerciseConstraintSet = {
     },
     {
       invariantKind: "departure",
-      statement: "What a constraint asks for is in its own file beside the page.",
+      statement: "A constraint's body is in its own file beside the page.",
     },
     {
       invariantKind: "departure",
