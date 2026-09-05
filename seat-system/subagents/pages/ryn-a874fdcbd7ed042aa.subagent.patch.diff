@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-debug-logger/debug-logger-log-handler/debug-logger-log-handler.module.ts b/temper/temper-lib-debug-logger/debug-logger-log-handler/debug-logger-log-handler.module.ts
+index 85d04ff0ce6ffc2d6d43cba3e26197c25edd58fe..fcd91276fa3349fe35f4e9f1adc023391af56820 100644
+--- a/temper/temper-lib-debug-logger/debug-logger-log-handler/debug-logger-log-handler.module.ts
++++ b/temper/temper-lib-debug-logger/debug-logger-log-handler/debug-logger-log-handler.module.ts
+@@ -10,7 +10,7 @@ export const debugLoggerLogHandler = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A message repeating the one before it raises a count rather than adding an entry.",
++        "A message repeating the one before that message raises a count rather than adding an entry.",
+     },
+     {
+       invariantKind: "departure",
