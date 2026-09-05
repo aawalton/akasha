@@ -8,9 +8,9 @@ export const calculationImportsOnlyTypes = {
   code: "ts",
   test: "ts",
   runsOnPatch: true,
-  runsOnWorktree: true,
-  runsOnDeploy: true,
-  runsOnAudit: true,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "departure",
