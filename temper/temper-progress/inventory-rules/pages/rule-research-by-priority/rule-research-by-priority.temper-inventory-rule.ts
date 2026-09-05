@@ -7,15 +7,15 @@ export const ruleResearchByPriority = {
   title: "Research traits",
   description:
     "Routes equipment with researchable traits to the character that needs them most. Characters are checked in priority order using TemperCharacters saved variable data for cross-character trait knowledge. The current character is checked first via the ESO API; others are checked via saved data.",
+  goal: "unlock",
+  conditions: "jsonl",
+  destination: "character:by-priority",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",
   displayOrder: 41,
   action: "research",
   active: true,
   updatedAt: "2026-05-04T16:05:00.238Z",
-  goal: "unlock",
   locked: true,
   fromTemplate: "research-by-priority",
-  destination: "character:by-priority",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
