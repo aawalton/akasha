@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/utils-process/proc-reading/proc-reading.module.ts b/utils-process/proc-reading/proc-reading.module.ts
-index 599dada64ce0eac427cc4710bc29200ca301303f..5980cfb49f7c7c126269c4e61fbd0a31c5e6ccd8 100644
+index 599dada64ce0eac427cc4710bc29200ca301303f..6417433108e61b06e1ba732c49ec38bc95bfd4b3 100644
 --- a/utils-process/proc-reading/proc-reading.module.ts
 +++ b/utils-process/proc-reading/proc-reading.module.ts
 @@ -32,7 +32,8 @@ export const procReading = {
@@ -13,3 +13,12 @@ index 599dada64ce0eac427cc4710bc29200ca301303f..5980cfb49f7c7c126269c4e61fbd0a31
      },
      {
        invariantKind: "departure",
+@@ -41,7 +42,7 @@ export const procReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what an environment variable means.",
++      statement: "Nothing here knows an environment variable's meaning.",
+     },
+     {
+       invariantKind: "absence",
