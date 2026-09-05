@@ -105,10 +105,7 @@ export const measure = {
       statement:
         "An account that was not refreshed is answered from the usage already beside its page.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A call's cost is the api's charge rather than a subscription's cost.",
-    },
+
     {
       invariantKind: "absence",
       statement: "A run renews no token.",
