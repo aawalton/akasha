@@ -15,7 +15,7 @@ export const zoneQuests = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A quest here is one the game counts against the zone it is given in.",
+      statement: "A quest here is one the game counts against the zone that quest is given in.",
     },
   ],
 } as const satisfies PagePropertyEntry
