@@ -3147,6 +3147,164 @@ index 0000000000000000000000000000000000000000..f7925fbe5666b3c03696ab9fef414204
 +  definition: "the job that drops an image layer and tag nothing refers to",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/upscale/package.json b/infrastructure/upscale/package.json
+index ef54cefd36a2809d224240e132fd4e3b3a704228..87586864927d0d48e77da5ba1ec98a21eca34e2e 100644
+--- a/infrastructure/upscale/package.json
++++ b/infrastructure/upscale/package.json
+@@ -4,7 +4,6 @@
+   "type": "module",
+   "exports": {
+     "./upscale-cluster": "./upscale-cluster/upscale-cluster.module.code.ts",
+-    "./upscale-serving-job": "./upscale-serving-job/upscale-serving-job.manifest.code.ts",
+     "./upscale-workstation": "./upscale-workstation/upscale-workstation.module.code.ts"
+   },
+   "dependencies": {
+diff --git a/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.code.ts b/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.code.ts
+deleted file mode 100644
+index 59f1d26d9cff84f5d1d62120382a461ea459cd7a..0000000000000000000000000000000000000000
+--- a/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.code.ts
++++ /dev/null
+@@ -1,105 +0,0 @@
+-import { gpuVramUsableMinSelector } from "@akasha/k8s-types/hostnames"
+-
+-export const UPSCALE_SERVING_IMAGE =
+-  "registry.registry.svc.cluster.local:5000/cluster/upscale-cu121:serving"
+-
+-export const UPSCALE_SERVING_NAMESPACE = "seaweedfs"
+-
+-export const UPSCALE_SERVING_BUCKET = "upscale"
+-
+-const S3_ENDPOINT = "http://s3-gateway.seaweedfs.svc.cluster.local:8333"
+-
+-const GPU_VRAM_TIER = "8gi" as const
+-
+-export const UPSCALE_WEIGHT_CACHE_HOSTPATH = "/var/lib/upscale-weights"
+-export const UPSCALE_WEIGHT_CACHE_MOUNT = "/app/ComfyUI/models/SEEDVR2"
+-
+-const TTL_SECONDS_AFTER_FINISHED = 3600
+-const ACTIVE_DEADLINE_SECONDS = 1800
+-const DEFAULT_BLOCKS_TO_SWAP = 24
+-
+-export const UPSCALE_JOB_MEMORY = "16Gi"
+-
+-interface SecretKeyRef {
+-  readonly secretKeyRef: { readonly name: string; readonly key: string }
+-}
+-interface EnvVar {
+-  readonly name: string
+-  readonly value?: string
+-  readonly valueFrom?: SecretKeyRef
+-}
+-
+-export interface UpscaleServingJobParams {
+-  readonly jobName: string
+-  readonly inName: string
+-  readonly outName: string
+-  readonly resolution: number
+-  readonly seed: number
+-  readonly bucket?: string
+-  readonly image?: string
+-  readonly blocksToSwap?: number
+-}
+-
+-export function buildUpscaleServingJob(params: UpscaleServingJobParams) {
+-  const bucket = params.bucket ?? UPSCALE_SERVING_BUCKET
+-  const image = params.image ?? UPSCALE_SERVING_IMAGE
+-  const blocksToSwap = params.blocksToSwap ?? DEFAULT_BLOCKS_TO_SWAP
+-
+-  const env: readonly EnvVar[] = [
+-    { name: "HOME", value: "/tmp" },
+-    { name: "SEAWEEDFS_S3_ENDPOINT", value: S3_ENDPOINT },
+-    {
+-      name: "SEAWEEDFS_ACCESS_KEY",
+-      valueFrom: { secretKeyRef: { name: "seaweedfs-creds", key: "access_key" } },
+-    },
+-    {
+-      name: "SEAWEEDFS_SECRET_KEY",
+-      valueFrom: { secretKeyRef: { name: "seaweedfs-creds", key: "secret_key" } },
+-    },
+-    { name: "S3_BUCKET", value: bucket },
+-    { name: "UPSCALE_BLOCKS_TO_SWAP", value: String(blocksToSwap) },
+-    { name: "UPSCALE_RES", value: String(params.resolution) },
+-    { name: "UPSCALE_SEED", value: String(params.seed) },
+-    { name: "UPSCALE_IN", value: params.inName },
+-    { name: "UPSCALE_OUT", value: params.outName },
+-  ]
+-
+-  return {
+-    apiVersion: "batch/v1",
+-    kind: "Job",
+-    metadata: { name: params.jobName, namespace: UPSCALE_SERVING_NAMESPACE },
+-    spec: {
+-      backoffLimit: 0,
+-      ttlSecondsAfterFinished: TTL_SECONDS_AFTER_FINISHED,
+-      activeDeadlineSeconds: ACTIVE_DEADLINE_SECONDS,
+-      template: {
+-        spec: {
+-          restartPolicy: "Never",
+-          runtimeClassName: "nvidia",
+-          nodeSelector: gpuVramUsableMinSelector(GPU_VRAM_TIER),
+-          securityContext: { seccompProfile: { type: "RuntimeDefault" } },
+-          containers: [
+-            {
+-              name: "upscale",
+-              image,
+-              imagePullPolicy: "Always",
+-              command: ["bash", "/runner/bench-runner.sh"],
+-              env,
+-              resources: {
+-                requests: { cpu: "4", memory: UPSCALE_JOB_MEMORY, "nvidia.com/gpu": "1" },
+-                limits: { cpu: "8", memory: UPSCALE_JOB_MEMORY, "nvidia.com/gpu": "1" },
+-              },
+-              volumeMounts: [{ name: "weight-cache", mountPath: UPSCALE_WEIGHT_CACHE_MOUNT }],
+-            },
+-          ],
+-          volumes: [
+-            {
+-              name: "weight-cache",
+-              hostPath: { path: UPSCALE_WEIGHT_CACHE_HOSTPATH, type: "DirectoryOrCreate" },
+-            },
+-          ],
+-        },
+-      },
+-    },
+-  }
+-}
+diff --git a/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.ts b/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.ts
+deleted file mode 100644
+index 4c989c55ccd674b10c8f20cbf00e4a39556de2f5..0000000000000000000000000000000000000000
+--- a/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.ts
++++ /dev/null
+@@ -1,29 +0,0 @@
+-import type { Manifest } from "@akasha/k8s-types/manifest"
+-
+-export const upscaleServingJob = {
+-  id: "01a0685d-4b35-7016-92d2-c662f191fc6c",
+-  pageTypeSlug: "manifest",
+-  slug: "upscale-serving-job",
+-  definition: "the cluster job one image is upscaled by on a GPU node",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The job runs on a node holding at least the stated usable video memory.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The job is never retried, so a failure is read rather than hidden by a second attempt.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The weights are cached on the node rather than fetched for each job.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The image comes in and goes out through the object store rather than through the job's arguments.",
+-    },
+-  ],
+-} as const satisfies Manifest
 diff --git a/infrastructure/upscale/upscale-serving-job/upscale-serving-job.module.code.ts b/infrastructure/upscale/upscale-serving-job/upscale-serving-job.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..59f1d26d9cff84f5d1d62120382a461ea459cd7a
@@ -3293,3 +3451,15 @@ index 0000000000000000000000000000000000000000..c381f5fccd2ca3f0db809ef7c3efe24a
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/infrastructure/upscale/upscale.workspace-package.ts b/infrastructure/upscale/upscale.workspace-package.ts
+index 043337108d1d1217a68fbfa8ba66348b305e24b4..53c637c864649e214fd9c6bb21f7c6b55384dc89 100644
+--- a/infrastructure/upscale/upscale.workspace-package.ts
++++ b/infrastructure/upscale/upscale.workspace-package.ts
+@@ -11,7 +11,6 @@ export const upscale = {
+     "container-recipe/upscale-image",
+     "module/upscale-bench-synth",
+     "module/upscale-cluster",
+-    "manifest/upscale-serving-job",
+     "module/upscale-workstation",
+     "python-module/upscale-srpo-graph",
+     "shell-script/upscale-bench-runner",
