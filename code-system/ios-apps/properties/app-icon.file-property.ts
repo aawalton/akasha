@@ -23,7 +23,7 @@ export const appIcon = {
     },
     {
       invariantKind: "departure",
-      statement: "The seam building the app writes the picture where Xcode reads it.",
+      statement: "The seam building the app writes the picture where Xcode reads that picture.",
     },
   ],
 } as const satisfies FileProperty
