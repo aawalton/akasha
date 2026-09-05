@@ -12,7 +12,7 @@ index 1f74d7e1c76195f0c5cb258401e0ec9d869c3cd8..5ebbbb1b52349dae14ef00243daf75bd
        }
      }
 diff --git a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
-index 4201c858dc0d39976271f49dcd77be925c24be21..fc8e9ae014aa286d490caf0802ac3060a88248b5 100644
+index 4201c858dc0d39976271f49dcd77be925c24be21..4f09f0f4015b194a91c01251928f8fbecf733dc0 100644
 --- a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
 +++ b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
 @@ -15,7 +15,7 @@ export const claudeAccountAdd = {
@@ -24,6 +24,15 @@ index 4201c858dc0d39976271f49dcd77be925c24be21..fc8e9ae014aa286d490caf0802ac3060
      "only the name, the address and the slot are written: the uuid, the plan, the band, the renewal day and the scopes are all answered by the first sign-in.",
      "the tokens are held beside the page rather than in it, so a page written here signs in nowhere until /login is run in the launching session.",
      "the shell composes a `c<N>` launcher for each account page, so a page written here reaches a terminal that composes its set again.",
+@@ -27,7 +27,7 @@ export const claudeAccountAdd = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An account whose page stands is refused rather than written over.",
++      statement: "An account whose page exists is refused rather than written over.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/agents/claude-accounts/properties/access-token.text-property.ts b/agents/claude-accounts/properties/access-token.text-property.ts
 index 928485c0d48c76d0ba2ca85f26216f9b92389a75..04aa3c441d7cdb9930387bec35f7ccc403a12d61 100644
 --- a/agents/claude-accounts/properties/access-token.text-property.ts
