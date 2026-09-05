@@ -30,7 +30,7 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A bare address is refused, what it names being read off whoever asked.",
+      statement: "A bare address is refused, the page reached being read off the caller.",
     },
     {
       invariantKind: "departure",
