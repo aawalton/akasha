@@ -30,7 +30,7 @@ index 218744a43920c2ce3fa3c11aa3ce74ce983b30a8..cdb23094060c508dbe5cb1c76aabcde1
      {
        invariantKind: "departure",
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
-index 5947f0b6832c624149925529d3b90ba58d0df37d..59f1998fe4cc1cf805bcf21c565d6059afa4e7a0 100644
+index 5947f0b6832c624149925529d3b90ba58d0df37d..5fc834dba72c581cc11528b112f4eb74fce26cad 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
 @@ -99,20 +99,20 @@ async function main(argv: readonly string[]): Promise<number> {
@@ -67,6 +67,15 @@ index 5947f0b6832c624149925529d3b90ba58d0df37d..59f1998fe4cc1cf805bcf21c565d6059
    if (taken.length > 0)
      dropReadings(
        root,
+@@ -142,7 +142,7 @@ async function main(argv: readonly string[]): Promise<number> {
+ 
+   process.stderr.write(
+     `removed ${taken.length} of ${rotate.length} log day(s) older than ${cutoff}; ` +
+-      `${standing.length - rotate.length} kept\n`
++      `${days.length - rotate.length} kept\n`
+   )
+   for (const one of held) process.stderr.write(`refused: ${one}\n`)
+   return held.length === 0 ? 0 : 1
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 index 60a8bb4422362620ac5ef04fa078d61f60c08663..4715f1fb1bf818189ecfbac38040986042ef1b1e 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
