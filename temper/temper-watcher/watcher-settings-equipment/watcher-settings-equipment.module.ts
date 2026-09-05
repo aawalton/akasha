@@ -38,7 +38,7 @@ export const watcherSettingsEquipment = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what reads the pages.",
+      statement: "A caller may hand in the reader that reads the pages.",
     },
     {
       invariantKind: "absence",
