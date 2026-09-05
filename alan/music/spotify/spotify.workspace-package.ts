@@ -44,7 +44,7 @@ export const spotify = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what is done with what the Web API answers.",
+      statement: "Nothing here decides the use made of the Web API's answers.",
     },
   ],
   directives: [
