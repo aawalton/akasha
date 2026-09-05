@@ -20,7 +20,6 @@ export const temperInventoryRules = {
   ],
   helpNotes: [
     "the configuration read is what the addon compiled rather than what the rules were written as.",
-    "naming no section gives back every one.",
   ],
   invariants: [
     {
