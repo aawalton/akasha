@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-import-catalog/watcher-import-catalog.module.ts b/temper/temper-watcher/watcher-import-catalog/watcher-import-catalog.module.ts
+index 17a830b24b9a14b7c37bcab5f1e3f555ec1c3f88..223c5e0786080100dbe2889cae4a04f54eadaa63 100644
+--- a/temper/temper-watcher/watcher-import-catalog/watcher-import-catalog.module.ts
++++ b/temper/temper-watcher/watcher-import-catalog/watcher-import-catalog.module.ts
+@@ -51,7 +51,7 @@ export const watcherImportCatalog = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what changes a page.",
++      statement: "A caller may hand in the patch that changes a page.",
+     },
+     {
+       invariantKind: "departure",
