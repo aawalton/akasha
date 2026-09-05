@@ -37,6 +37,7 @@ export const contextWarrant = {
     "context-warrant/persona-page-type",
     "context-warrant/role-itself",
     "context-warrant/role-page-type",
+    "context-warrant/seat-akasha",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/warranting",
