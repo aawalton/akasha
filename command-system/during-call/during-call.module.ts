@@ -17,7 +17,7 @@ export const duringCall = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what is worth holding.",
+      statement: "Nothing here names the values worth holding.",
     },
     {
       invariantKind: "absence",
