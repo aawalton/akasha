@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/commands/refactor/key-respelling/key-respelling.module.ts b/commands/refactor/key-respelling/key-respelling.module.ts
+index f30706d4a9238844b5c0330bb1b2afd1f23c2b38..8ecdaf65125583a253d3c380b4afb0e35b54674e 100644
+--- a/commands/refactor/key-respelling/key-respelling.module.ts
++++ b/commands/refactor/key-respelling/key-respelling.module.ts
+@@ -53,7 +53,8 @@ export const keyRespelling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the index answers and what the checker finds hold each other to account.",
++      statement:
++        "The pages the index answers and the places the checker finds hold each other to account.",
+     },
+     {
+       invariantKind: "departure",
