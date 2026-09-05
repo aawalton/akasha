@@ -4,7 +4,7 @@ export const addonDataWritesCodec = {
   id: "01a06837-d6c9-7fd4-9904-6563858424cb",
   pageTypeSlug: "module",
   slug: "addon-data-writes-codec",
-  definition: "the codec section of a run's output, as the writes the section stands for",
+  definition: "the codec section of a run's output, as the writes the section represents",
   code: "ts",
   invariants: [
     {
@@ -14,7 +14,7 @@ export const addonDataWritesCodec = {
     {
       invariantKind: "departure",
       statement:
-        "The codec section reads no page, the constants standing in the codec's own widths.",
+        "The codec section reads no page, the constants sitting in the codec's own widths.",
     },
   ],
 } as const satisfies Module

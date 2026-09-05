@@ -4,7 +4,7 @@ export const addonDataWritesSkills = {
   id: "01a06837-d6c9-7413-83bc-e8a4d54c8fa5",
   pageTypeSlug: "module",
   slug: "addon-data-writes-skills",
-  definition: "the skills section of a run's output, as the writes the section stands for",
+  definition: "the skills section of a run's output, as the writes the section represents",
   code: "ts",
   invariants: [
     {

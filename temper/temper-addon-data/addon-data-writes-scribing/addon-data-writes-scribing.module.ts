@@ -4,7 +4,7 @@ export const addonDataWritesScribing = {
   id: "01a06837-d6c9-715c-b373-e4fc2572aa1c",
   pageTypeSlug: "module",
   slug: "addon-data-writes-scribing",
-  definition: "the scribing section of a run's output, as the writes the section stands for",
+  definition: "the scribing section of a run's output, as the writes the section represents",
   code: "ts",
   invariants: [
     {

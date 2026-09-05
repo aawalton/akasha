@@ -4,7 +4,7 @@ export const addonDataWritesEquipment = {
   id: "01a06837-d6c9-74ca-91b9-4e771dc5a29b",
   pageTypeSlug: "module",
   slug: "addon-data-writes-equipment",
-  definition: "the equipment section of a run's output, as the writes the section stands for",
+  definition: "the equipment section of a run's output, as the writes the section represents",
   code: "ts",
   invariants: [
     {

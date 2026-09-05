@@ -14,7 +14,7 @@ export const addonDataProof = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the run would emit is judged against the file standing on disk.",
+      statement: "A file the run would emit is judged against the file on disk.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const addonDataProof = {
     },
     {
       invariantKind: "departure",
-      statement: "A section is reported whether the sections beside it stood or fell.",
+      statement: "A section is reported whether the sections beside it held or fell.",
     },
     {
       invariantKind: "departure",

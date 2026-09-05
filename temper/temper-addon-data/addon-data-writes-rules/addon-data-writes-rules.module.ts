@@ -4,7 +4,7 @@ export const addonDataWritesRules = {
   id: "01a06837-d6c9-7e56-9671-72f53be73b25",
   pageTypeSlug: "module",
   slug: "addon-data-writes-rules",
-  definition: "the rules section of a run's output, as the writes the section stands for",
+  definition: "the rules section of a run's output, as the writes the section represents",
   code: "ts",
   invariants: [
     {

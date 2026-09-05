@@ -13,7 +13,7 @@ export const mappingTotals = {
     },
     {
       invariantKind: "departure",
-      statement: "A row whose id stands at zero is no row the game knows and is not counted.",
+      statement: "A row whose id is zero is no row the game knows and is not counted.",
     },
     {
       invariantKind: "departure",

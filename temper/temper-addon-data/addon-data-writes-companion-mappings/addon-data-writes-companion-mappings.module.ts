@@ -5,7 +5,7 @@ export const addonDataWritesCompanionMappings = {
   pageTypeSlug: "module",
   slug: "addon-data-writes-companion-mappings",
   definition:
-    "the companion mapping section of a run's output, as the writes the section stands for",
+    "the companion mapping section of a run's output, as the writes the section represents",
   code: "ts",
   invariants: [
     {

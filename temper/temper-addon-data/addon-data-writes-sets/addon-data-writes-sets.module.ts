@@ -4,7 +4,7 @@ export const addonDataWritesSets = {
   id: "01a06837-d6c9-7314-9d59-027ee56c58e8",
   pageTypeSlug: "module",
   slug: "addon-data-writes-sets",
-  definition: "the sets section of a run's output, as the writes the section stands for",
+  definition: "the sets section of a run's output, as the writes the section represents",
   code: "ts",
   invariants: [
     {

@@ -13,7 +13,7 @@ export const inventoryOutputSummary = {
     },
     {
       invariantKind: "departure",
-      statement: "A set whose game id stands at zero is no set the game knows and is not counted.",
+      statement: "A set whose game id is zero is no set the game knows and is not counted.",
     },
   ],
 } as const satisfies Module

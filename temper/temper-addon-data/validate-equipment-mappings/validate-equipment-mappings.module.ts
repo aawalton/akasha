@@ -18,7 +18,7 @@ export const validateEquipmentMappings = {
     },
     {
       invariantKind: "departure",
-      statement: "The file compared against stands under the checkout the run walks.",
+      statement: "The file compared against is under the checkout the run walks.",
     },
     {
       invariantKind: "departure",
