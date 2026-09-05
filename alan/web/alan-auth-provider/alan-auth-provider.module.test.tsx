@@ -53,7 +53,9 @@ mock.module("@akasha/supabase-rr/supabase-provider", () => ({
   SupabaseProvider: ({ children }: { children: unknown }) => children,
 }))
 
+const appVersionCheck = await import("@akasha/pages-ui/app-version/use-app-version-check")
 mock.module("@akasha/pages-ui/app-version/use-app-version-check", () => ({
+  ...appVersionCheck,
   useAppVersionCheck: () => undefined,
 }))
 mock.module("@akasha/pages-ui-store/diagnostics", () => ({
@@ -63,7 +65,9 @@ mock.module("@akasha/pages-ui-store/diagnostics", () => ({
 mock.module("@akasha/pages-ui-store/report-stall", () => ({
   reportPagesStoreStall: () => Promise.resolve(),
 }))
+const pagesStoreSingleton = await import("@akasha/pages-ui-store/singleton")
 mock.module("@akasha/pages-ui-store/singleton", () => ({
+  ...pagesStoreSingleton,
   configurePagesStoreAuth: () => Promise.resolve(),
   getPagesStore: () =>
     Promise.resolve({
@@ -71,7 +75,11 @@ mock.module("@akasha/pages-ui-store/singleton", () => ({
       whenSlugReady: () => Promise.resolve(),
     }),
 }))
+const offlineCacheNamespace = await import(
+  "../offline-cache-namespace/offline-cache-namespace.module.code.ts"
+)
 mock.module("../offline-cache-namespace/offline-cache-namespace.module.code.ts", () => ({
+  ...offlineCacheNamespace,
   setOfflineCacheUserKey: () => undefined,
 }))
 
