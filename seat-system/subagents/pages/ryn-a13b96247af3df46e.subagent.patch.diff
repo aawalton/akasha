@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/shell/shell.workspace-package.ts b/shell/shell.workspace-package.ts
+index fca7b97519f2b22fc1a8a55b429d38c9c3ef158f..e3ce31d55c78cc185b07b2f55d5c42c29579e528 100644
+--- a/shell/shell.workspace-package.ts
++++ b/shell/shell.workspace-package.ts
+@@ -14,7 +14,8 @@ export const shell = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A value written into a command is written so the shell reads it as one word.",
++      statement:
++        "A value written into a command is written so the shell reads that value as one word.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
