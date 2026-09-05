@@ -16,3 +16,19 @@ index 0000000000000000000000000000000000000000..58728782077a14c7dbce087ddd926c98
 +  evidence:
 +    'addon-data-target names `temper-rule-template.generated.ts` as `moduleSlug: "rule-template-table"` with `parts: 1`. `partSlugsOf` answers `[moduleSlug]` for one part, so a run lands the whole table as `rule-template-table`, whose file today imports `TEMPER_RULE_TEMPLATES_01` and `_02` and concatenates them. The two parts on disk are `rule-template-table-01` and `rule-template-table-02`, and both module pages say the code is written out from the rule-template pages rather than by hand. For more than one part the code pads from zero, so `parts: 2` would name `rule-template-table-00` and `rule-template-table-01`; neither count names what is there. The sibling series shows the convention: `scribed-skills` declares `parts: 5` and the disk carries `scribed-skills` beside `scribed-skills-00` through `-04`, the composer hand-written and the parts generated. So the rule template split is one off, and a run has not landed this target since the split was made.',
 +} as const satisfies Finding
+diff --git a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+index 241fd8bc3fe43fa7f7a0f826ab76eb00494f05a9..e968b72f416f4e730566b8a9ef52ccc5e88c70a3 100644
+--- a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
++++ b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+@@ -47,6 +47,11 @@ export const emberRepairTemperTasks = {
+       workingMemory:
+         "The served target is b8f20f229df857590e8c51accd468fcd3f52be79, which is in neither this checkout nor the 2026-09-02 backup, so the flatten orphaned it and no fetch brings it. The watcher reads its own HEAD right, logging ve3eda7280a at 19:06:36Z. That target is version.txt baked into the watcher image at /build and copied in by temper-web's init container, so it names the commit that image was built at. The run carries on either way, so this is noise rather than an outage.",
+     },
++    {
++      statement: "The rules a player automates are pages rather than one JSON blob.",
++      workingMemory:
++        "The shared vocabulary is pages now: 18 temper-item-action, 8 temper-rule-goal carrying the priority that was hardcoded, stock-scope as a select, and 48 temper-condition-field, each holding the engine's camel key beside a kebab slug and what the test reads. The 48 templates reach all four by relation. The generated rule table is unchanged, proved by rebuilding every conditions map from the pages and diffing against rule-template-table-01 and -02. Left: the 82 live rules still sit in the blob.",
++    },
+   ],
+   constraints: [
+     "The watcher and the addons count as off-workstation, so they reach pages through pages-system-service rather than by reading the repository.",
