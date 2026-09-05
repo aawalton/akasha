@@ -97,7 +97,7 @@ index 2736394b876c6ec11bcb471981ee7ffaf00159ee..45f0ada41eee74a1b5e43aa11b173324
        invariantKind: "departure",
        statement: "A group is answered in the order of the first path the group holds.",
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index 66762ab758ed6527576b2bac39eac095ec7f7a67..29403514669531ca3574f5888923f3f3f87fcd97 100644
+index 66762ab758ed6527576b2bac39eac095ec7f7a67..fc0b105f42e8004a412de1020bc571cd040d5582 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -3,6 +3,7 @@ import { join, relative, resolve } from "node:path"
@@ -125,6 +125,15 @@ index 66762ab758ed6527576b2bac39eac095ec7f7a67..29403514669531ca3574f5888923f3f3
 +    `the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
        "This is the runner failing, not a test.",
    ]
+ }
+@@ -247,7 +248,7 @@ export function test(argv: readonly string[], given: Given): Answer {
+   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
+   return {
+     report,
+-    refusals: [...toldOf(done.verdict, done.summary, expected, done.code)],
++    refusals: [...toldOf(done.verdict, done.summary, expected, endingOf(done.code, done.signal))],
+     code: done.verdict === "fail" ? 1 : 3,
+   }
  }
 diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
 index 86b539e110763141df03445c26cce6c015c2ba4b..3d9f456d331aa75d0a0733926b2bd07a7d737887 100644
