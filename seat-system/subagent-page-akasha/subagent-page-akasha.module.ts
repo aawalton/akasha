@@ -9,7 +9,8 @@ export const subagentPageAkasha = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A sweep of the pages under a seat that was refused answers why they did not go.",
+      statement:
+        "A sweep of the pages under a seat that was refused answers why those pages did not go.",
     },
   ],
 } as const satisfies Module
