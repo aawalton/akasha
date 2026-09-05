@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/readout-system/readouts/properties/figure-format.text-property.ts b/readout-system/readouts/properties/figure-format.text-property.ts
+index 4243a01237fc733be8113059dbf3d0ab82d72509..a551d66d618a363632c5d2ffc4a28a502235e1bd 100644
+--- a/readout-system/readouts/properties/figure-format.text-property.ts
++++ b/readout-system/readouts/properties/figure-format.text-property.ts
+@@ -29,7 +29,8 @@ export const figureFormat = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A readout stating no format has its reading written as the number it is.",
++      statement:
++        "A readout stating no format has its reading written as the number that reading is.",
+     },
+   ],
+ } as const satisfies TextProperty
