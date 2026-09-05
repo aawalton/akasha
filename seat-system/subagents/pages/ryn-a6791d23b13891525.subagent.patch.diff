@@ -1,8 +1,20 @@
 diff --git a/command-system/commands/edit/edit.command.ts b/command-system/commands/edit/edit.command.ts
-index c27f9c27c7bdd8a56eb66af00c91173b91acdfce..c4f393629fc8d90e461a65be59fd8fb7a5aa2e10 100644
+index c27f9c27c7bdd8a56eb66af00c91173b91acdfce..86ebfd0e32d2f07138148e8d50a37d987f697980 100644
 --- a/command-system/commands/edit/edit.command.ts
 +++ b/command-system/commands/edit/edit.command.ts
-@@ -107,10 +107,6 @@ export const edit = {
+@@ -85,10 +85,7 @@ export const edit = {
+       statement:
+         "A passage is the bytes of the file or block naming that passage with its trailing newline included.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
+@@ -107,10 +104,6 @@ export const edit = {
        invariantKind: "departure",
        statement: "A path anywhere in the repository is changed.",
      },
