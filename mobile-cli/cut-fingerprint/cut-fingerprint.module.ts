@@ -49,7 +49,7 @@ export const cutFingerprint = {
     },
     {
       invariantKind: "departure",
-      statement: "A filed cut mints its own id rather than deriving one from where it is.",
+      statement: "A filed cut mints its own id rather than deriving one from where that cut is.",
     },
     {
       invariantKind: "departure",
