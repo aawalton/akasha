@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts b/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts
+index d4c09063ba24f8c6675c1edfabf6552910bd1964..47fffe4694d809fae1b8609e45717799950605a5 100644
+--- a/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts
++++ b/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts
+@@ -9,6 +9,5 @@ export const nvidiaDevicePlugin = {
+   namespace: "kube-system",
+   resourceName: "nvidia-device-plugin-daemonset",
+   image: "nvcr.io/nvidia/k8s-device-plugin:v0.14.5",
+-  manifestCode:
+-    "service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts",
++  manifestSlug: "nvidia-device-plugin",
+ } as const satisfies ClusterService
