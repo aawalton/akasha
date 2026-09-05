@@ -7,6 +7,7 @@ export const temperProgress = {
   definition: "what has been done in the game and what is left",
   pluralSlug: "temper-progressions",
   partSlugs: [
+    "boolean-property/active",
     "page-type/temper-activity-category",
     "page-type/temper-comparison-op",
     "page-type/temper-completed-day",
