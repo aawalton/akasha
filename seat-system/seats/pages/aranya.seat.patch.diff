@@ -239,3 +239,11 @@ index 7352f2123083cb3818a3ceffba92facbea0f5ea6..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../graph
 \ No newline at end of file
+diff --git a/great-courses/great-courses b/great-courses/great-courses
+deleted file mode 120000
+index 0330ede66bb5681130341c0a3d922e84bd1a3cdb..0000000000000000000000000000000000000000
+--- a/great-courses/great-courses
++++ /dev/null
+@@ -1 +0,0 @@
+-../../great-courses
+\ No newline at end of file
