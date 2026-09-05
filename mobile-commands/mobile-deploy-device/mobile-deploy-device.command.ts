@@ -44,7 +44,7 @@ export const mobileDeployDevice = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit built is origin/main rather than what this checkout is at.",
+      statement: "The commit built is origin/main rather than the commit this checkout is at.",
     },
     {
       invariantKind: "departure",
