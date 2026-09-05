@@ -15,7 +15,7 @@ export const moveRepointing = {
     },
     {
       invariantKind: "departure",
-      statement: "A name is written back quoted matching the way the body spells it.",
+      statement: "A name is written back quoted matching the way the body spells that name.",
     },
     {
       invariantKind: "departure",
