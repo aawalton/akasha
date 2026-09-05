@@ -86,7 +86,7 @@ export const locationTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "A trace is kept as the device reported it.",
+      statement: "A trace is kept as the device reported that trace.",
     },
     {
       invariantKind: "absence",
