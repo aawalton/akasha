@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
-index 78ef253e3364a681cb7897aa1e351c94e437979d..e0b85aa505105732b26c14216243021c78a47fd5 100644
+index 78ef253e3364a681cb7897aa1e351c94e437979d..689820848a95b8bbe96516e958d53ccec94ad609 100644
 --- a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 +++ b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 @@ -31,7 +31,7 @@ export const STALL_ATTEMPTS = 6
@@ -29,6 +29,15 @@ index 78ef253e3364a681cb7897aa1e351c94e437979d..e0b85aa505105732b26c14216243021c
    let pending = 0
    for (const one of waiting.values()) pending += one.entries.size
    let unlanded = 0
+@@ -81,7 +81,7 @@ export function standing(): Standing {
+   }
+ }
+ 
+-export function landingsHealthy(one: Standing): boolean {
++export function landingsHealthy(one: Health): boolean {
+   if (one.stalled.length > 0) return false
+   return one.oldestUnlandedMs === null || one.oldestUnlandedMs < UNLANDED_GRACE_MS
+ }
 diff --git a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts b/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
 index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe8f367411 100644
 --- a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
@@ -51,7 +60,7 @@ index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe
    const front = frontOf(tree, pageType, withId(merged as Record<string, Rendered>, text, at))
    return `${front}${split.body ?? bodyIn(text)}`
 diff --git a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
-index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..dc58459c8fae0aa6ac6973f77a8a1c9e18b3d262 100644
+index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..0f88d7fc15570a1faf4f8295ab59a01706ed72fd 100644
 --- a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
 +++ b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
 @@ -32,9 +32,9 @@ export interface Where {
@@ -75,8 +84,17 @@ index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..dc58459c8fae0aa6ac6973f77a8a1c9e
   */
  export function whereFor(
    roots: Roots,
+@@ -58,7 +58,7 @@ export function whereFor(
+   if (repo === null || !isAddressable(repo)) return null
+   const root = roots[repo]
+   if (root === undefined) return null
+-  const stands = (one: string): boolean => {
++  const named = (one: string): boolean => {
+     const last = one.split("/").at(-1) ?? one
+     if (typeSlotOf(last) !== type.slug) return false
+     return last === `${name}${MARKDOWN}` || slugOf(last) === name
 diff --git a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
-index e12a646ab72c39d45358e4e945d2c20d50a2e293..755518d392fd6da51ba82c052acfe7b962eb6466 100644
+index e12a646ab72c39d45358e4e945d2c20d50a2e293..0281b1755941bf70ac7e48ab59e2408ee66dde6a 100644
 --- a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
 +++ b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
 @@ -106,9 +106,9 @@ function clearRows(tree: FileTree, pageType: string, at: Where): readonly Taken[
@@ -111,3 +129,12 @@ index e12a646ab72c39d45358e4e945d2c20d50a2e293..755518d392fd6da51ba82c052acfe7b9
        },
      ],
      alongside,
+@@ -193,7 +193,7 @@ export async function patchPage(
+ // 250ms settle from inside the extension host, where every walk is a synchronous stall of the node
+ // event loop. Counted by a line printed from `scannedGlob`, one write was 3 walks and 1990ms and
+ // is now 2 walks and 897ms; the scanning alone, timed apart from the write, was 922ms and is
+-// 205ms. Both were measured with the shape mark unavailable, which is how this worktree stands
++// 205ms. Both were measured with the shape mark unavailable, which is how this worktree is
+ // whenever `page/` is dirty — with the mark in hand the registry answers from its own file, does
+ // not scan, and the one walk left is `whereFor`'s, which this does not remove.
+ //
