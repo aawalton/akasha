@@ -10,7 +10,7 @@ export const personaPoints = {
     {
       invariantKind: "departure",
       statement:
-        "Attention counts where it made that part of Alan's life better, whoever did the work.",
+        "Attention counts where that attention made that part of Alan's life better, whoever did the work.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const personaPoints = {
     {
       invariantKind: "departure",
       statement:
-        "A persona's running total only ever rises, unless a rebuild rewrites it downward.",
+        "A persona's running total only ever rises, unless a rebuild rewrites that total downward.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const personaPoints = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing tells Alan a persona has no figure while something else shows him one.",
+      statement: "Nothing tells Alan a persona has no figure while something else shows Alan one.",
     },
     {
       invariantKind: "gap",
