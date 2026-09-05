@@ -57,7 +57,7 @@ test("an act naming no event where one is needed is refused", () => {
   expect(refusedBy(["events", "get"])[0]).toContain("--event")
 })
 
-test("the event is read from the word standing after the act", () => {
+test("the event is read from the word after the act", () => {
   const read = readIn(["events", "get", "abc123"])
   if ("refused" in read) throw new Error("this was refused")
   expect(read.said.get("--event")).toBe("abc123")
@@ -71,7 +71,7 @@ test("a second word after the event is refused", () => {
   expect(refusedBy(["events", "get", "abc123", "def456"])[0]).toContain("one event")
 })
 
-test("a word standing after an act that names nothing in place is refused", () => {
+test("a word after an act that names nothing in place is refused", () => {
   expect(refusedBy(["events", "list", "abc123"])[0]).toContain("names nothing in place")
 })
 

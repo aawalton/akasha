@@ -204,7 +204,7 @@ async function fetching(
     if (files.isNativeGoogleDoc(metadata.mimeType)) {
       return refusing(
         `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
-          "bytes to download, and exporting one stands outside what this reaches",
+          "bytes to download, and exporting one sits outside what this reaches",
         1
       )
     }

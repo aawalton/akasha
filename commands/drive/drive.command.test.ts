@@ -49,7 +49,7 @@ test("a flag with no value after it is refused", () => {
   expect(refusedBy(["fetch", "--source"])[0]).toContain("takes a value")
 })
 
-test("the file is read from the word standing after the act", () => {
+test("the file is read from the word after the act", () => {
   const read = readIn(["fetch", "1AbC"])
   if ("refused" in read) throw new Error("this was refused")
   expect(read.said.get("--source")).toBe("1AbC")
@@ -63,7 +63,7 @@ test("a second file is refused", () => {
   expect(refusedBy(["fetch", "1AbC", "2DeF"])[0]).toContain("one file")
 })
 
-test("a word standing after the consent act is refused", () => {
+test("a word after the consent act is refused", () => {
   expect(refusedBy(["auth", "login", "extra"])[0]).toContain("names nothing in place")
 })
 
@@ -71,7 +71,7 @@ test("a folder named as a relative path is read against the repository root", ()
   expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
 })
 
-test("a folder named as an absolute path stands as it is", () => {
+test("a folder named as an absolute path is taken as it is", () => {
   expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
 })
 

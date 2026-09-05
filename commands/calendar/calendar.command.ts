@@ -4,7 +4,7 @@ export const calendar = {
   id: "01a06809-e6ee-7c9b-8778-5da992d3080f",
   pageTypeSlug: "command",
   slug: "calendar",
-  definition: "the command acting on Alan's Google calendar and the events standing on it",
+  definition: "the command acting on Alan's Google calendar and the events on it",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
@@ -23,7 +23,7 @@ export const calendar = {
         "the callback URL pasted from the browser, where the loopback listener cannot be reached",
     },
     { said: "events", takes: "what to act on, which is the events a calendar holds" },
-    { said: "list", takes: "the act, which is to answer the events standing in a window" },
+    { said: "list", takes: "the act, which is to answer the events in a window" },
     { said: "get", takes: "the act, which is to answer one event named by its id" },
     {
       said: "create",
@@ -49,7 +49,7 @@ export const calendar = {
     { said: "--location <text>", takes: "the event's location" },
     {
       said: "--attendees <emails>",
-      takes: "who attends, parted by commas, standing in place of whoever attends now",
+      takes: "who attends, parted by commas, taking the place of whoever attends now",
     },
     {
       said: "--timezone <iana>",
@@ -69,14 +69,14 @@ export const calendar = {
     },
   ],
   helpNotes: [
-    "the words stand in order, and one call names one act.",
+    "the words are in order, and one call names one act.",
     "an event is named in place after the act or as a flag, and naming it both ways over is refused.",
     "create, update and rsvp reach the calendar as Alan, so the invites and the responses carry his name.",
     "get, list and delete reach the calendar as the account akasha runs under rather than as Alan.",
     "the consent create, update and rsvp lean on is granted once by the login act.",
     "a date alone at both ends is a whole-day event, and its end is the day after the last day it covers.",
     "a zone is an IANA name rather than an offset, and a whole-day event carries none.",
-    "an update changes the fields the call names and leaves every other field standing.",
+    "an update changes the fields the call names and leaves every other field as it is.",
     "an rsvp writes the whole guest list back with Alan's response alone turned.",
     "an event an act answered with is reported as JSON.",
     "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
@@ -120,7 +120,7 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "An update leaves every field the call does not name standing as it stands.",
+      statement: "An update leaves every field the call does not name as it is.",
     },
     {
       invariantKind: "departure",
@@ -128,7 +128,7 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "An rsvp turns Alan's own response and leaves every other guest's standing.",
+      statement: "An rsvp turns Alan's own response and leaves every other guest's as it is.",
     },
     {
       invariantKind: "departure",
@@ -140,7 +140,7 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag standing under an act that does not take it is refused.",
+      statement: "A flag under an act that does not take it is refused.",
     },
     {
       invariantKind: "absence",

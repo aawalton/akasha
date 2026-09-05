@@ -4,7 +4,7 @@ export const drive = {
   id: "01a06809-e6ee-78ea-b3d7-34282c2848ae",
   pageTypeSlug: "command",
   slug: "drive",
-  definition: "the command acting on the files standing in Alan's Google Drive",
+  definition: "the command acting on the files in Alan's Google Drive",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
@@ -28,12 +28,12 @@ export const drive = {
       said: "--source <url-or-id>",
       takes: "the file to fetch, said as a flag rather than in place",
     },
-    { said: "--out <dir>", takes: "the folder to write into, made where it stands at nothing" },
+    { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
   ],
   helpNotes: [
-    "the words stand in order, and one call names one act.",
+    "the words are in order, and one call names one act.",
     "the file is named in place after the act or as a flag, and naming it both ways over is refused.",
-    "every Drive URL shape is read for the id it carries, and a bare id is taken as it stands.",
+    "every Drive URL shape is read for the id it carries, and a bare id is taken as it is.",
     "the name the file lands under on disk is the name Drive holds for it.",
     "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
     "a Docs, Sheets or Slides file holds no bytes to download and is refused rather than exported.",
@@ -67,7 +67,7 @@ export const drive = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder standing at nothing is made before the file is written.",
+      statement: "A folder that is not there is made before the file is written.",
     },
     {
       invariantKind: "departure",
