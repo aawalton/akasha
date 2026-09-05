@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/stylesheets/stylesheet.page-type.ts b/code-system/stylesheets/stylesheet.page-type.ts
+index b29731c2546d21ca5222edede1b63b0863b31063..928c5e8f7544cfa9e3fc739b505c9d4616114da5 100644
+--- a/code-system/stylesheets/stylesheet.page-type.ts
++++ b/code-system/stylesheets/stylesheet.page-type.ts
+@@ -23,7 +23,7 @@ export const stylesheet = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A stylesheet is its own page rather than a property of what the stylesheet dresses.",
++        "A stylesheet is its own page rather than a property of the components the stylesheet dresses.",
+     },
+     {
+       invariantKind: "departure",
