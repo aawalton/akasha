@@ -1,3 +1,19 @@
+diff --git a/pages/query/store-writing/store-writing.module.ts b/pages/query/store-writing/store-writing.module.ts
+index df2589204f347e1c410bfb0ec51577e3c9ee2d8e..55a3c066551572710c38479a5a52b3cb1bfdb5e0 100644
+--- a/pages/query/store-writing/store-writing.module.ts
++++ b/pages/query/store-writing/store-writing.module.ts
+@@ -61,10 +61,7 @@ export const storeWriting = {
+       statement:
+         "A write naming a row inside a page is refused for want of a way to address a row.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A query asked for by name is refused.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here renders a page's body.",
 diff --git a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts b/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
 index 20c26bd9f62e047c577d9e0de4bb6d96d81edb7f..6a9d6d28fe67eb461e8d707744d20c8d5d6d2c17 100644
 --- a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
