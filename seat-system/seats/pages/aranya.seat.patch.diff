@@ -1,0 +1,13 @@
+diff --git a/command-system/commands/remove/remove.command.code.ts b/command-system/commands/remove/remove.command.code.ts
+index c2a7d63771b45e4e2c8b7cfb7b40e8e80c18fc32..8a1671c1a3770c95a008a89b5929715851f59ad3 100644
+--- a/command-system/commands/remove/remove.command.code.ts
++++ b/command-system/commands/remove/remove.command.code.ts
+@@ -142,7 +142,7 @@ function openedIn(
+       gone.push(path)
+       continue
+     }
+-    if (!existsSync(at) || statSync(at).isFile()) {
++    if (!existsSync(at) || lstatSync(at).isSymbolicLink() || statSync(at).isFile()) {
+       opened.push(path)
+       continue
+     }
