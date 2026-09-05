@@ -12,7 +12,8 @@ export const costBasis = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A holding reports nothing paid where the account never told Monarch what was.",
+      statement:
+        "A holding reports nothing paid where the account never told Monarch the cost basis.",
     },
   ],
 } as const satisfies NumberProperty
