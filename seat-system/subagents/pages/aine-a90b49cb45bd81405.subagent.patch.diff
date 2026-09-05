@@ -1,0 +1,91 @@
+diff --git a/google/email/commands/email-attachments-get/email-attachments-get.command.ts b/google/email/commands/email-attachments-get/email-attachments-get.command.ts
+index 89f35aba3d460bb1089cde0e21023b4f3f53a3fc..f33e23da1d9a8f5f715c1b9acdcbcd3320ab299f 100644
+--- a/google/email/commands/email-attachments-get/email-attachments-get.command.ts
++++ b/google/email/commands/email-attachments-get/email-attachments-get.command.ts
+@@ -9,7 +9,7 @@ export const emailAttachmentsGet = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "<id>", takes: "the message the attachment hangs off, said as Gmail's own id" },
+-    { said: "--message <id>", takes: "that message, where no id stands after the command" },
++    { said: "--message <id>", takes: "that message, where no id follows the command" },
+     { said: "--attachment-id <id>", takes: "which attachment of that message to fetch" },
+   ],
+   helpNotes: [
+diff --git a/google/email/commands/email-attachments-list/email-attachments-list.command.ts b/google/email/commands/email-attachments-list/email-attachments-list.command.ts
+index 2cb69b937de030032513a73af138d6a2f65e04d5..50a10a405158e0c201ed1aa5730d84a93db74866 100644
+--- a/google/email/commands/email-attachments-list/email-attachments-list.command.ts
++++ b/google/email/commands/email-attachments-list/email-attachments-list.command.ts
+@@ -9,7 +9,7 @@ export const emailAttachmentsList = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
+-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
++    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
+   ],
+   helpNotes: [
+     "each attachment is named with its filename, its type, its size and the id its bytes are fetched by.",
+diff --git a/google/email/commands/email-messages-archive/email-messages-archive.command.ts b/google/email/commands/email-messages-archive/email-messages-archive.command.ts
+index 4beb519ff3fc0bff46d35a9fb211d97661a14a5c..91ba01cc99e2e7bc4cff4bed7b68e58f92285d84 100644
+--- a/google/email/commands/email-messages-archive/email-messages-archive.command.ts
++++ b/google/email/commands/email-messages-archive/email-messages-archive.command.ts
+@@ -9,7 +9,7 @@ export const emailMessagesArchive = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
+-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
++    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
+   ],
+   helpNotes: [
+     "archiving is the INBOX label taken off, so the message stays in the mailbox and leaves the inbox.",
+diff --git a/google/email/commands/email-messages-get/email-messages-get.command.ts b/google/email/commands/email-messages-get/email-messages-get.command.ts
+index 50dcc2306e9432a95f809013def016624a30a267..556b4cf05da70da6315316b8063101de3702dc9c 100644
+--- a/google/email/commands/email-messages-get/email-messages-get.command.ts
++++ b/google/email/commands/email-messages-get/email-messages-get.command.ts
+@@ -9,7 +9,7 @@ export const emailMessagesGet = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
+-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
++    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
+   ],
+   helpNotes: [
+     "the message comes back with its full headers and the first plain-text part decoded as its body.",
+diff --git a/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts b/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts
+index 83ac5e5cab90fd7111e363f76a6afc9b6710b1b2..4a00f1f999f78f3db1c990b4805cc9f05d38efba 100644
+--- a/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts
++++ b/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts
+@@ -9,7 +9,7 @@ export const emailMessagesModifyLabels = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
+-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
++    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
+     { said: "--add <label-id>", takes: "a label id to put on it, said again for each" },
+     { said: "--remove <label-id>", takes: "a label id to take off it, said again for each" },
+   ],
+diff --git a/google/email/commands/email-messages-trash/email-messages-trash.command.ts b/google/email/commands/email-messages-trash/email-messages-trash.command.ts
+index c03b738c689a9c7e48ec8e090fe876635f26bf88..257747b19923e000b1a31d1044d30dc1dfef72a9 100644
+--- a/google/email/commands/email-messages-trash/email-messages-trash.command.ts
++++ b/google/email/commands/email-messages-trash/email-messages-trash.command.ts
+@@ -9,7 +9,7 @@ export const emailMessagesTrash = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
+-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
++    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
+   ],
+   helpNotes: [
+     "trashing is a label rather than a delete, so taking the TRASH label off brings the message back.",
+diff --git a/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts b/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts
+index 3d86059e85e2bfb82a654876ac9a0d095257a637..d437183d68d57b0884e66c82f9d9737d8e1846d5 100644
+--- a/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts
++++ b/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts
+@@ -9,7 +9,7 @@ export const emailUnsubscribe = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
+-    { said: "--message <id>", takes: "the message acted on, where no id stands after the command" },
++    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
+   ],
+   helpNotes: [
+     "the route is the message's own List-Unsubscribe and List-Unsubscribe-Post headers and nothing else.",
