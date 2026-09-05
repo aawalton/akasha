@@ -104,10 +104,6 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file a rename touches lands in one commit or none of them does.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every page of the renamed type states the slug that type becomes.",
     },
     {
@@ -247,6 +243,42 @@ export const refactor = {
     {
       invariantKind: "absence",
       statement: "A package rename changes no page's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package rename wider than one batch lands as expand, migrate and contract.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which phase a package rename is in is read from the manifests.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package rename run again carries on from the phase the manifests name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Expand renames the package and writes a compat package carrying the old name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The compat package names every way in the renamed package names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every commit from expand to contract resolves under the old name and the new.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Migrate respells the files naming the old name, a batch to a commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that moved under a batch is left to a later batch rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Contract takes the compat package away once no file names the old name.",
     },
     {
       invariantKind: "departure",
