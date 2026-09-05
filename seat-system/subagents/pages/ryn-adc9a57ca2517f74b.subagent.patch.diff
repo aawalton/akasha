@@ -12,3 +12,16 @@ index d44556db478f17b05c099d43684c3078b84075a6..20d5ee41c727cbf9975b8d8460083310
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+index 43a85a86f97f3578c92daf46475be207a33d90ab..b5600efca30897ad27e8bc65665590df79d3456f 100644
+--- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
++++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+@@ -43,7 +43,7 @@ export const monarchAccount = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row against it.",
++        "An account with no transaction is still an account, a retirement or brokerage balance that moves.",
+     },
+     {
+       invariantKind: "departure",
