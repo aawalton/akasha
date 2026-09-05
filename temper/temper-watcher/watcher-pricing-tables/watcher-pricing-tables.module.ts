@@ -19,11 +19,11 @@ export const watcherPricingTables = {
     },
     {
       invariantKind: "departure",
-      statement: "What is said goes to the watcher log rather than to the console.",
+      statement: "The words said go to the watcher log rather than to the console.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what is said to.",
+      statement: "A caller may hand in the log the words go to.",
     },
     {
       invariantKind: "gap",
