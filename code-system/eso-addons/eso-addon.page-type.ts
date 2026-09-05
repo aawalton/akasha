@@ -78,7 +78,8 @@ export const esoAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "A second addon shipped inside one is versioned with the addon shipping it.",
+      statement:
+        "A second addon shipped inside one is versioned with the addon shipping that second addon.",
     },
     {
       invariantKind: "constraint",
