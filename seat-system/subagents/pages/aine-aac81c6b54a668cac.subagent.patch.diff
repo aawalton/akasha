@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
-index e62910d2b1a34a6dd6264dfd1b07b14ca20a0fe8..85c182068f25f7cd97b1d1feb437911435c73fcc 100644
+index e62910d2b1a34a6dd6264dfd1b07b14ca20a0fe8..8f439056cbad4dd957c7c4cc1f430f1b102eb773 100644
 --- a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
 +++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
 @@ -62,7 +62,7 @@ function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
@@ -11,6 +11,22 @@ index e62910d2b1a34a6dd6264dfd1b07b14ca20a0fe8..85c182068f25f7cd97b1d1feb4379114
  function stated(key: string, value: unknown): readonly string[] {
    const said = written(value)
    const one = `  ${key}: ${said},`
+@@ -116,13 +116,13 @@ function namedForType(pageTypeSlug: string, slug: string): string {
+ export async function landing(
+   pageTypeSlug: string,
+   folder: string,
+-  standing: readonly PageFile[],
++  already: readonly PageFile[],
+   wanted: readonly Wanted[],
+   defined: boolean = true
+ ): Promise<Landing> {
+   const byMonarchId = new Map<string, PageFile>()
+   const taken = new Set<string>()
+-  for (const page of standing) {
++  for (const page of already) {
+     taken.add(page.slug)
+     const id = keyOf(page, "monarchId")
+     if (id !== null && id !== "") byMonarchId.set(id, page)
 diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
 index 68721cbe82c87a1edd2aa5880eeee258a859d7b8..32b9ffbb7443dacb10c76c6c12fd39b556e4746d 100644
 --- a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
@@ -25,7 +41,7 @@ index 68721cbe82c87a1edd2aa5880eeee258a859d7b8..32b9ffbb7443dacb10c76c6c12fd39b5
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/files/monarch-files.module.code.ts b/alan/harness/monarch/files/monarch-files.module.code.ts
-index e6ff375324061d9410d8f8ed8bb2aa4ee4ce64e4..9c1d464bab67b4a445335203ae46f9eb677010ab 100644
+index e6ff375324061d9410d8f8ed8bb2aa4ee4ce64e4..ee008863086ee46427ba977027ba6671dcfcacb7 100644
 --- a/alan/harness/monarch/files/monarch-files.module.code.ts
 +++ b/alan/harness/monarch/files/monarch-files.module.code.ts
 @@ -9,7 +9,7 @@ export const AKASHA = rootFor(roots, AKASHA_REPO)
@@ -37,16 +53,31 @@ index e6ff375324061d9410d8f8ed8bb2aa4ee4ce64e4..9c1d464bab67b4a445335203ae46f9eb
  const MONARCH = "alan/harness/monarch"
  
  export const MONTHS_FOLDER = `${MONARCH}/monarch-months/pages`
+@@ -21,7 +21,7 @@ export const DIRECTION_FOLDER = `${MONARCH}/monarch-directions/pages`
+ export const MERCHANT_FOLDER = `${MONARCH}/monarch-merchants/pages`
+ 
+ /**
+- * One line of the `transactions` entry file standing beside a month page.
++ * One line of the `transactions` entry file beside a month page.
+  *
+  * The keys are the entry shape's own, declared at
+  * `alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
 diff --git a/alan/harness/monarch/files/monarch-files.module.ts b/alan/harness/monarch/files/monarch-files.module.ts
-index 24c6c2df8768ba6b862b0d229e7d72e4fe639a3f..fa78533779b9ff1b4ef315a1db87350a84324b95 100644
+index 24c6c2df8768ba6b862b0d229e7d72e4fe639a3f..74798c864bc081a57ed2893aae44f3fa8b267edc 100644
 --- a/alan/harness/monarch/files/monarch-files.module.ts
 +++ b/alan/harness/monarch/files/monarch-files.module.ts
-@@ -9,7 +9,7 @@ export const monarchFiles = {
+@@ -9,12 +9,12 @@ export const monarchFiles = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "Every Monarch page family stands under one folder inside akasha.",
 +      statement: "Every Monarch page family sits under one folder inside akasha.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The checkout is read directly, because the categorization ring runs under a workstation timer where no service stands.",
++        "The checkout is read directly, because the categorization ring runs under a workstation timer where there is no service.",
      },
      {
        invariantKind: "departure",
