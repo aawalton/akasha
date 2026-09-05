@@ -215,7 +215,7 @@ export const temperCraftingAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "What a character knows is asked of LibCharacterKnowledge.",
+      statement: "A character's knowledge is asked of LibCharacterKnowledge.",
     },
     {
       invariantKind: "departure",
