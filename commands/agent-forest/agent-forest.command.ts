@@ -48,7 +48,7 @@ export const agentForest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "It takes no word, and a word it is given is refused.",
+      statement: "This command takes no word, and a word this command is given is refused.",
     },
     {
       invariantKind: "departure",
@@ -58,21 +58,22 @@ export const agentForest = {
     {
       invariantKind: "departure",
       statement:
-        "A seat with an agent present in it reads `live` true, and every other seat false.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An ancestor is fetched back so a live branch keeps the root it belongs under.",
+        "A seat with an agent present in that seat reads `live` true, and every other seat false.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A seat the working tree no longer holds is read from the newest commit that held it.",
+        "An ancestor is fetched back so a live branch keeps the root that branch belongs under.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`principal` names a person, or `agent` where the page names a seat above it instead.",
+        "A seat the working tree no longer holds is read from the newest commit that held that seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`principal` names a person, or `agent` where the page names a seat above that page instead.",
     },
     {
       invariantKind: "departure",
@@ -126,7 +127,8 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent page is keyed by the seat that ran it and the id it runs under.",
+      statement:
+        "A subagent page is keyed by the seat that ran that subagent and the id that subagent runs under.",
     },
     {
       invariantKind: "departure",
