@@ -93,8 +93,7 @@ export const relationship = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Four ratings sit apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
+      statement: "Four ratings sit apart: impact, interest, connection, and commitment.",
     },
     {
       invariantKind: "departure",
