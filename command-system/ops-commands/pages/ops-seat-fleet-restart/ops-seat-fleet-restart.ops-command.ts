@@ -4,7 +4,8 @@ export const opsSeatFleetRestart = {
   id: "01a06904-5247-7505-8762-42f025024634",
   pageTypeSlug: "ops-command",
   slug: "ops-seat-fleet-restart",
-  definition: "every seat whose client started before the settings standing now, cycled onto them.",
+  definition:
+    "every seat whose client started before the settings as they are now, cycled onto them.",
   opsPath: "seat fleet restart",
   opsEntryFile: "seat-system/seat-fleet-restart/seat-fleet-restart.module.code.ts",
   opsHelp: "txt",

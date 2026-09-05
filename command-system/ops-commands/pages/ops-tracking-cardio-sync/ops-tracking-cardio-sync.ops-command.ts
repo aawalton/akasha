@@ -5,7 +5,7 @@ export const opsTrackingCardioSync = {
   pageTypeSlug: "ops-command",
   slug: "ops-tracking-cardio-sync",
   definition:
-    "rewriting one day's active calories from the health samples standing against its waking hours.",
+    "rewriting one day's active calories from the health samples set against its waking hours.",
   opsPath: "tracking cardio-sync",
   opsEntryFile: "alan/tracking/daily/cardio-sync/cardio-sync.module.code.ts",
   opsHelp: "txt",
