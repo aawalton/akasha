@@ -42,3 +42,18 @@ index 7dbfcbfb41a406e6c8eb31e351a1f004d577c2b2..015990e98d745537be83f4085a2bb06d
      {
        invariantKind: "departure",
        statement: "A body rendered at or past the size a write refuses stages nothing at all.",
+diff --git a/temper/temper-character-build/temper-character-build.workspace-package.ts b/temper/temper-character-build/temper-character-build.workspace-package.ts
+index 0afa3283915a73bda6a9fe955d508136433d0742..4f370fe29c1327d3250a76790b39dd51a234168f 100644
+--- a/temper/temper-character-build/temper-character-build.workspace-package.ts
++++ b/temper/temper-character-build/temper-character-build.workspace-package.ts
+@@ -12,10 +12,4 @@ export const temperCharacterBuild = {
+     "module/build-factory",
+     "module/character-state-schema",
+   ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The generated table of gear sets is outside akasha.",
+-    },
+-  ],
+ } as const satisfies WorkspacePackage
