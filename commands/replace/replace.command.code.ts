@@ -268,6 +268,7 @@ export async function replacing(
     glass: glass.glass,
     unmoved: held.unmoved,
     saying: () => held.counting.map((one) => `${one.path} — ${counted(one.found, "replacement")}`),
+    draft: given.agentId !== null,
   }
   return await landingAsked(given, asked)
 }

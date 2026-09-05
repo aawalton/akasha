@@ -422,6 +422,7 @@ export async function remove(argv: readonly string[], given: Given): Promise<Ans
       ...workspacingSaid(spread),
       ...manifestingSaid(ways),
     ],
+    draft: given.agentId !== null,
   }
   const said = await landingAsked({ ...given, root }, asked)
   if (said.code !== 0) return said

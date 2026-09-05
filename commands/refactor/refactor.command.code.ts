@@ -229,6 +229,7 @@ export async function landed(
     read: base,
     carries: moving,
     saying: () => saying(one, carries, repointing, pages, left, false),
+    draft: given.agentId !== null,
   }
   const landing = await landingAsked({ ...given, root }, asked)
   if (!dryRun) {

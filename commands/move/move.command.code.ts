@@ -260,6 +260,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
       ...carrying(sided.sides, reached, false, spread, landed.cleared),
       ...resettlingSaid(root, named, true),
     ],
+    draft: given.agentId !== null,
   }
   const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
   let landed: Answer
