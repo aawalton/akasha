@@ -7,14 +7,14 @@ export const ruleContainersStackableBank = {
   title: "Bank stackable containers",
   description:
     "Deposits stackable containers (reward coffers, event boxes, etc.) in the bank. Open them later in bulk or save for events.",
+  goal: "hoard",
+  destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "container-stackable",
   displayOrder: 9,
   action: "move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "hoard",
   locked: true,
   fromTemplate: "containers-stackable-bank",
-  destination: "bank",
 } as const satisfies TemperInventoryRule
