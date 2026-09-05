@@ -68,7 +68,11 @@ export const surplusFallNotifying = {
     {
       invariantKind: "gap",
       statement:
-        "The readout and its scale are asked of the pages system service and the day's reading of the page query service, while code running on the workstation reaches pages data directly.",
+        "The readout and its scale are asked of the pages system service and the day's reading of the page query service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Code running on the workstation reaches pages data directly.",
     },
   ],
 } as const satisfies Module

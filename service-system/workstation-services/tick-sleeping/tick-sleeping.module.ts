@@ -29,8 +29,7 @@ export const tickSleeping = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No service that keeps running writes this wait for itself, so no two of them drift on how a stop is honoured.",
+      statement: "No service that keeps running writes this wait for itself.",
     },
   ],
 } as const satisfies Module

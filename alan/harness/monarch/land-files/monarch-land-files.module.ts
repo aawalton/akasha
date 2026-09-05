@@ -19,8 +19,7 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Lines are sorted by day and then by Monarch's id, so the file's order does not depend on the order rows arrived.",
+      statement: "Lines are sorted by day and then by Monarch's id.",
     },
     {
       invariantKind: "departure",

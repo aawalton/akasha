@@ -39,7 +39,7 @@ export const monarchRules = {
     {
       invariantKind: "departure",
       statement:
-        "A row bears on a subject where the amounts agree in size and the days are within twice the window, which is wider than the pairing itself so a contest is seen.",
+        "A row bears on a subject where the amounts agree in size and the days are within twice the window.",
     },
     {
       invariantKind: "departure",

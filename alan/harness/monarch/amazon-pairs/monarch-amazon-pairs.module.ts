@@ -25,8 +25,12 @@ export const monarchAmazonPairs = {
     },
     {
       invariantKind: "departure",
+      statement: "A fully refunded order nets to zero.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A fully refunded order nets to zero, so a pair that does not is either missing a transaction or holding one twice.",
+        "A pair that does not net to zero is either missing a transaction or holding a transaction twice.",
     },
     {
       invariantKind: "departure",

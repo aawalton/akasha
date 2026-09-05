@@ -28,8 +28,11 @@ export const orphanResourceListing = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The credentials are read here rather than at cluster-api-reaching, which holds the same three environment variables: that module sits in service-system, service-system already depends on this package, and it fixes one timeout where the sweep needs a shared deadline.",
+      statement: "The credentials are read here rather than at cluster-api-reaching.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Cluster-api-reaching holds the same three environment variables.",
     },
   ],
 } as const satisfies Module

@@ -23,8 +23,7 @@ export const monarchEvalPopulation = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which pool a row falls in is decided by a hash of its own id, so the split is the same every run and does not move as rows arrive.",
+      statement: "Which pool a row falls in is decided by a hash of its own id.",
     },
     {
       invariantKind: "departure",

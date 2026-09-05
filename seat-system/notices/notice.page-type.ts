@@ -39,8 +39,12 @@ export const notice = {
     },
     {
       invariantKind: "departure",
+      statement: "A notice the supervisor hands to a respawned seat opens with `[supervisor]`.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A notice the supervisor hands to a respawned seat opens with `[supervisor]`, which is how the fleet's hooks tell a composed prompt from Alan at the keyboard.",
+        "The fleet's hooks tell a composed prompt from Alan at the keyboard by that opening marker.",
     },
     {
       invariantKind: "departure",
