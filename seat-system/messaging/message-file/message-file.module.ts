@@ -25,18 +25,6 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The old markdown store is read still and written never.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A message waiting in the old markdown store is delivered as it always was.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The old markdown store goes once the old markdown store holds no message.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A message addressed to no seat the seat index knows is refused.",
     },
     {
