@@ -14,6 +14,21 @@ index df2589204f347e1c410bfb0ec51577e3c9ee2d8e..55a3c066551572710c38479a5a52b3cb
      {
        invariantKind: "absence",
        statement: "Nothing here renders a page's body.",
+diff --git a/temper/temper-equipment/set-ids-a-to-o/set-ids-a-to-o.module.ts b/temper/temper-equipment/set-ids-a-to-o/set-ids-a-to-o.module.ts
+index 159b98dccc0008d1bd1de93f3a6c1139799591e3..0208b3b9df02cc2474f3149fa1603150d8578938 100644
+--- a/temper/temper-equipment/set-ids-a-to-o/set-ids-a-to-o.module.ts
++++ b/temper/temper-equipment/set-ids-a-to-o/set-ids-a-to-o.module.ts
+@@ -6,10 +6,4 @@ export const setIdsAToO = {
+   slug: "set-ids-a-to-o",
+   definition: "the gear sets from the no-set sentinel through the ones keyed under the letter o",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "One module holding all 707 set ids would pass the byte ceiling.",
+-    },
+-  ],
+ } as const satisfies Module
 diff --git a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts b/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
 index 20c26bd9f62e047c577d9e0de4bb6d96d81edb7f..6a9d6d28fe67eb461e8d707744d20c8d5d6d2c17 100644
 --- a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
