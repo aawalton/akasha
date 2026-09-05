@@ -19,7 +19,7 @@ export const mobilityStanding = {
     {
       invariantKind: "departure",
       statement:
-        "A reading stating no number counts toward how many readings there are and not toward the way it moved.",
+        "A reading stating no number counts toward the reading count and not toward the way the metric moved.",
     },
     {
       invariantKind: "departure",

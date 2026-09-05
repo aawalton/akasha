@@ -32,7 +32,7 @@ export const cli = {
     {
       invariantKind: "departure",
       statement:
-        "A destination refusing bytes for the moment is written to again rather than dropping the bytes left over.",
+        "A destination refusing bytes for now is written to again rather than dropping the bytes left over.",
     },
     {
       invariantKind: "absence",

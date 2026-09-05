@@ -20,7 +20,7 @@ export const seatProcLiveness = {
     {
       invariantKind: "departure",
       statement:
-        "A background task is a process of a live agent that is neither the agent itself nor the infrastructure its seat leans on.",
+        "A background task is a live agent's process that is neither the agent nor its seat's infrastructure.",
     },
     {
       invariantKind: "departure",

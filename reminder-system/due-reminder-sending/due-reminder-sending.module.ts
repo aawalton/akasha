@@ -23,7 +23,7 @@ export const dueReminderSending = {
     {
       invariantKind: "departure",
       statement:
-        "A run finding many windows have passed since the last sending sends once rather than once per window.",
+        "A run finding many windows passed since the last sending sends once rather than once per window.",
     },
     {
       invariantKind: "departure",

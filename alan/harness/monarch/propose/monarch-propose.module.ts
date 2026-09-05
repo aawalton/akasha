@@ -14,7 +14,7 @@ export const monarchPropose = {
     {
       invariantKind: "departure",
       statement:
-        "A rule stated on the command line is weighed alongside the standing ones rather than instead of being checked.",
+        "A command-line rule is weighed alongside the standing rules rather than in place of those rules.",
     },
     {
       invariantKind: "departure",

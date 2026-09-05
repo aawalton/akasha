@@ -11,7 +11,7 @@ export const monarchAudibleCredits = {
     {
       invariantKind: "departure",
       statement:
-        "A credit spent is two rows against one cash account, one out of the category that paid and one into Audible.",
+        "A credit spent is two rows on one cash account, out of the category that paid and into Audible.",
     },
     {
       invariantKind: "departure",

@@ -61,7 +61,7 @@ export const supervisorLogSweeping = {
     {
       invariantKind: "gap",
       statement:
-        "A seat store that has stopped being written is refused rather than read as every seat having departed at once.",
+        "A seat store that stopped being written is refused rather than read as every seat departing at once.",
     },
   ],
 } as const satisfies Module
