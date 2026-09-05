@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
-index 836724ae82ad3349ffcac9c5f33aa9dd64138d17..e0c03438ba835e923f4be0a9fd4892013797c201 100644
+index 836724ae82ad3349ffcac9c5f33aa9dd64138d17..a47dd44a7541c7b16b15c8212fce06b19794d04f 100644
 --- a/hook-system/agent-hooks/agent-hook.page-type.ts
 +++ b/hook-system/agent-hooks/agent-hook.page-type.ts
 @@ -40,7 +40,7 @@ export const agentHook = {
@@ -9,6 +9,15 @@ index 836724ae82ad3349ffcac9c5f33aa9dd64138d17..e0c03438ba835e923f4be0a9fd489201
        invariantKind: "departure",
 -      statement: "A hook is handed what the harness sends at its event.",
 +      statement: "A hook is handed the payload the harness sends at its event.",
+     },
+     {
+       invariantKind: "departure",
+@@ -65,7 +65,7 @@ export const agentHook = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What registers a hook is worked out from this page.",
++      statement: "A hook's registration is worked out from this page.",
      },
      {
        invariantKind: "departure",
