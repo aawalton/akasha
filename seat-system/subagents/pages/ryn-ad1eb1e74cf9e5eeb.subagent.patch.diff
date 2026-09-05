@@ -1,5 +1,5 @@
 diff --git a/editor-extension/agent-tree-state/agent-tree-state.module.ts b/editor-extension/agent-tree-state/agent-tree-state.module.ts
-index c915de387bfa182c0bdc3788f52a4670cc4e6d3d..7b8e8b4fb36e893b673d431e2fb9720c80b1dbae 100644
+index c915de387bfa182c0bdc3788f52a4670cc4e6d3d..b3fbfae8f95df40c6f984a787f5a3bdc55a6e1f5 100644
 --- a/editor-extension/agent-tree-state/agent-tree-state.module.ts
 +++ b/editor-extension/agent-tree-state/agent-tree-state.module.ts
 @@ -14,7 +14,8 @@ export const agentTreeState = {
@@ -12,3 +12,13 @@ index c915de387bfa182c0bdc3788f52a4670cc4e6d3d..7b8e8b4fb36e893b673d431e2fb9720c
      },
      {
        invariantKind: "absence",
+@@ -26,7 +27,8 @@ export const agentTreeState = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The state is held here rather than passed between the pieces that share it.",
++      statement:
++        "The state is held here rather than passed between the pieces that share that state.",
+     },
+   ],
+ } as const satisfies Module
