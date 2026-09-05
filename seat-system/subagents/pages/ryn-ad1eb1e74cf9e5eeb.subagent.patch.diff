@@ -1,5 +1,5 @@
 diff --git a/commands/move/parenting/move-parenting.module.ts b/commands/move/parenting/move-parenting.module.ts
-index 4be1260b0b67ffc45221f927c8f739715d8e806e..ad47e2c4cb471b73bc68e6056465a020e7d31c41 100644
+index 4be1260b0b67ffc45221f927c8f739715d8e806e..b823e3eb8d198fb0bb4448f1e15de3b90e660be4 100644
 --- a/commands/move/parenting/move-parenting.module.ts
 +++ b/commands/move/parenting/move-parenting.module.ts
 @@ -34,7 +34,7 @@ export const moveParenting = {
@@ -17,6 +17,16 @@ index 4be1260b0b67ffc45221f927c8f739715d8e806e..ad47e2c4cb471b73bc68e6056465a020
        statement:
 -        "A page left under the parent it has is asked nothing of the page holding where it was.",
 +        "A page left under the parent that page has is asked nothing of the page holding where that page was.",
+     },
+     {
+       invariantKind: "departure",
+@@ -59,7 +59,8 @@ export const moveParenting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page arriving under the page that already named it changes no parts.",
++      statement:
++        "A page arriving under the page that already named that arriving page changes no parts.",
      },
      {
        invariantKind: "departure",
