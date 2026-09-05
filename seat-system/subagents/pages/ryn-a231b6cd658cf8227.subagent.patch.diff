@@ -1,5 +1,5 @@
 diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
-index f070fa577d38e8704a8d19761b05d6fd2296173f..627098676d47c7781b1a3ff719a0e7a66e688eaf 100644
+index f070fa577d38e8704a8d19761b05d6fd2296173f..6902f8d18a722a9a097842814a1cc672a7eaffd0 100644
 --- a/code-system/code-typing/code-typing.module.ts
 +++ b/code-system/code-typing/code-typing.module.ts
 @@ -55,7 +55,7 @@ export const codeTyping = {
@@ -17,6 +17,15 @@ index f070fa577d38e8704a8d19761b05d6fd2296173f..627098676d47c7781b1a3ff719a0e7a6
        invariantKind: "departure",
 -      statement: "Respelling a shorthand states the value it represented.",
 +      statement: "Respelling a shorthand states the value that shorthand represented.",
+     },
+     {
+       invariantKind: "departure",
+@@ -90,7 +90,7 @@ export const codeTyping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name imported under another is found where it is imported rather than where it is used.",
++        "A name imported under another name is found where that name is imported rather than where used.",
      },
      {
        invariantKind: "departure",
