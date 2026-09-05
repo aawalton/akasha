@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.ts b/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.ts
+index 21d6229235d63d0aa723effcd749d82bef3458b0..25fbb0707e3dfe74d76c8de353123115c59369f1 100644
+--- a/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.ts
++++ b/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.ts
+@@ -14,7 +14,8 @@ export const supervisorAgentActionClear = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A proxy swap happens only after the request that asked for it is consumed.",
++      statement:
++        "A proxy swap happens only after the request that asked for that swap is consumed.",
+     },
+   ],
+ } as const satisfies Module
