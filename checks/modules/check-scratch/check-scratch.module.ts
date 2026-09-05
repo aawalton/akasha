@@ -15,11 +15,11 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry is one line of JSON in a file named for what the entry answers to.",
+      statement: "An entry is one line of JSON in a file named for the question the entry answers.",
     },
     {
       invariantKind: "departure",
-      statement: "What a relation points at is handed in rather than assumed.",
+      statement: "The path a relation points at is handed in rather than assumed.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "A change falls back to what is on disk.",
+      statement: "A change falls back to the body on disk.",
     },
     {
       invariantKind: "absence",
@@ -60,7 +60,7 @@ export const checkScratch = {
     {
       invariantKind: "departure",
       statement:
-        "What a page type declares is read from its value, so typing one files that value.",
+        "The properties a page type declares are read from its value, so typing one files that value.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "What is here is set up by the check tests that reach for what is here.",
+      statement: "The scratch here is set up by the check tests that reach for the scratch.",
     },
   ],
 } as const satisfies Module
