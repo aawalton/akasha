@@ -103,7 +103,7 @@ export const manifestNamesWhatIsReached = {
     {
       invariantKind: "departure",
       statement:
-        "A package reached is named by its own name or by the `@types` package standing for it.",
+        "A package reached is named by its own name or by the `@types` package standing for that package.",
     },
     {
       invariantKind: "absence",
