@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+index 1c04f0bc4278e89b9f0be46c1dab1e2606548418..dd8ee837932061544dfe4d8e686139f7484b9825 100644
+--- a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
++++ b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+@@ -55,7 +55,7 @@ export const calculationImportsOnlyTypes = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here judges what a calculation exports.",
++      statement: "Nothing here judges a calculation's exports.",
+     },
+   ],
+ } as const satisfies CodeCheck
