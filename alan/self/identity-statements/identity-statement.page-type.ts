@@ -74,7 +74,7 @@ export const identityStatement = {
     {
       invariantKind: "departure",
       statement:
-        "A statement that supersedes another names it, and the superseded one names it back.",
+        "A superseding statement names the superseded one, and the superseded one names the superseding one.",
     },
   ],
 } as const satisfies PageType
