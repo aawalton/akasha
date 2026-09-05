@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index da1037cf343ab90d97a14fc3659be1f796d23ee1..aecff038361aaa8d789b41713abcc390af91fec0 100644
+index da1037cf343ab90d97a14fc3659be1f796d23ee1..e3de877888b5c110e81a5b8f1b7a5548059b2ae9 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -16,6 +16,90 @@ const SLOT_FAMILIES = ["nsubj", "obj", "iobj", "obl", "conj", "appos"]
@@ -93,3 +93,18 @@ index da1037cf343ab90d97a14fc3659be1f796d23ee1..aecff038361aaa8d789b41713abcc390
  const SUMMING = ["both", "each", "either", "neither"]
  const DEGREE = ["all", "least", "most"]
  const MARKERS = ["advmod", "case", "cc", "det", "fixed", "punct"]
+@@ -69,6 +153,14 @@ export function isDemonstrative(token: DepToken): boolean {
+   return DEMONSTRATIVE.includes(lower(token))
+ }
+ 
++export function isReflexive(token: DepToken): boolean {
++  return REFLEXIVE.includes(lower(token))
++}
++
++export function isPronoun(token: DepToken): boolean {
++  return PRONOUN.includes(lower(token))
++}
++
+ export function isSummingCount(token: DepToken): boolean {
+   return SUMMING.includes(lower(token))
+ }
