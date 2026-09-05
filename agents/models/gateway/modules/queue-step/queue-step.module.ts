@@ -26,7 +26,7 @@ export const queueStep = {
     },
     {
       invariantKind: "departure",
-      statement: "A wait never runs past what is left of the silent budget.",
+      statement: "A wait never runs past the remainder of the silent budget.",
     },
     {
       invariantKind: "departure",
