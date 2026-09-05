@@ -51,6 +51,7 @@ export const page = {
     "page-type/name-place",
     "page-type/generator-kind",
     "page-type/unique-kind",
+    "page-type/page-address-kind",
     "page-type/page-query",
     "workspace-package/index",
     "workspace-package/pages-query",
