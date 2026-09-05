@@ -1,0 +1,130 @@
+diff --git a/seat-system/seats/properties/on-call.boolean-property.ts b/seat-system/seats/properties/on-call.boolean-property.ts
+index b63df47baec4b3ae1f5a1ca0617b875f853d8000..1e3a3a3dcb5d975aa52eabb07f10595b182673af 100644
+--- a/seat-system/seats/properties/on-call.boolean-property.ts
++++ b/seat-system/seats/properties/on-call.boolean-property.ts
+@@ -7,7 +7,7 @@ export const onCall = {
+   pageTypeSlug: "boolean-property",
+   slug: "on-call",
+   propertySlug: "on-call",
+-  definition: "whether this stands ready for work sent to it",
++  definition: "whether this is ready for work sent to it",
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seats/properties/re-exec-ask.text-property.ts b/seat-system/seats/properties/re-exec-ask.text-property.ts
+index e06c9077930273e95547639e5c647a98d975f604..96068c5ea2c0b61e0bb048927beb6c166483ee97 100644
+--- a/seat-system/seats/properties/re-exec-ask.text-property.ts
++++ b/seat-system/seats/properties/re-exec-ask.text-property.ts
+@@ -21,7 +21,7 @@ export const reExecAsk = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "The standings an ask can be in do not stand as pages.",
++      statement: "The standings an ask can be in are no pages.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/seat-system/seats/properties/registration-account.text-property.ts b/seat-system/seats/properties/registration-account.text-property.ts
+index fa0fcd9c9cb953950ccceebce886bebadec98455..425406b20ad87bd2de08a55d20c38f50062ababc 100644
+--- a/seat-system/seats/properties/registration-account.text-property.ts
++++ b/seat-system/seats/properties/registration-account.text-property.ts
+@@ -13,7 +13,7 @@ export const registrationAccount = {
+   invariants: [
+     {
+       invariantKind: "stopgap",
+-      statement: "No account stands as a page.",
++      statement: "No account is a page.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/seat-system/seats/properties/request.record-property.ts b/seat-system/seats/properties/request.record-property.ts
+index f27ea39fbda3ca1b7053cb842520f0750f9f559c..20533e5ae4c46d5d255ce852004ca36c12956fb1 100644
+--- a/seat-system/seats/properties/request.record-property.ts
++++ b/seat-system/seats/properties/request.record-property.ts
+@@ -27,7 +27,7 @@ export const request = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A new request takes the place of what stood.",
++      statement: "A new request takes the place of what was there.",
+     },
+   ],
+ } as const satisfies RecordProperty
+diff --git a/seat-system/seats/properties/rotated-session-uuid.text-property.ts b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+index 80c44ccc715de40d8fa85427888630fcd0dae9e5..6bed50a3821b609b0b3225a7f45bf64f29fc7ff2 100644
+--- a/seat-system/seats/properties/rotated-session-uuid.text-property.ts
++++ b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+@@ -13,7 +13,7 @@ export const rotatedSessionUuid = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This property stands between a clear and the binding that takes it.",
++      statement: "This property sits between a clear and the binding that takes it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seats/properties/start-mode.text-property.ts b/seat-system/seats/properties/start-mode.text-property.ts
+index f88435023aadbbf9a254ea1ad6f3829c4ed4ef21..b4265602fcb37aada17d416e9a76c4c899adfa1f 100644
+--- a/seat-system/seats/properties/start-mode.text-property.ts
++++ b/seat-system/seats/properties/start-mode.text-property.ts
+@@ -13,7 +13,7 @@ export const startMode = {
+   invariants: [
+     {
+       invariantKind: "stopgap",
+-      statement: "The modes a seat can start in do not stand as pages.",
++      statement: "The modes a seat can start in are no pages.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/seat-system/seats/properties/transcript-path.text-property.ts b/seat-system/seats/properties/transcript-path.text-property.ts
+index 555e71e8aa4e639d50cbe0c8cb499200601e2333..5c30e2442438a1125aa4a842c4147d3676249ae0 100644
+--- a/seat-system/seats/properties/transcript-path.text-property.ts
++++ b/seat-system/seats/properties/transcript-path.text-property.ts
+@@ -13,7 +13,7 @@ export const transcriptPath = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A transcript stands on the machine its seat does.",
++      statement: "A transcript sits on the machine its seat sits on.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/seat-system/subagent-kinds/pages/explore/explore.subagent-kind.ts b/seat-system/subagent-kinds/pages/explore/explore.subagent-kind.ts
+index 6038f47d9e9f72284845f21be2f20689e43ff8e5..414b7dbcab6d5ce1b31cb8efbdc749072b64b8fe 100644
+--- a/seat-system/subagent-kinds/pages/explore/explore.subagent-kind.ts
++++ b/seat-system/subagent-kinds/pages/explore/explore.subagent-kind.ts
+@@ -4,7 +4,7 @@ export const explore = {
+   id: "01a06861-f664-7abd-b503-d89b310876ae",
+   pageTypeSlug: "subagent-kind",
+   slug: "explore",
+-  definition: "a subagent that searches a tree and reports what stands in it",
++  definition: "a subagent that searches a tree and reports what is in it",
+   dispatchedAs: "Explore",
+   model: "opus",
+   subagentPrompt: "md",
+diff --git a/seat-system/subagent-kinds/properties/subagent-prompt.file-property.ts b/seat-system/subagent-kinds/properties/subagent-prompt.file-property.ts
+index e9e4a69a12d9995abcee6b2652c03551d132b18e..e40ca2fcaedb95fb4903e390233a3dd01c8a03ba 100644
+--- a/seat-system/subagent-kinds/properties/subagent-prompt.file-property.ts
++++ b/seat-system/subagent-kinds/properties/subagent-prompt.file-property.ts
+@@ -11,7 +11,7 @@ export const subagentPrompt = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A prompt stands in its own file rather than in a value beside the page.",
++      statement: "A prompt sits in its own file rather than in a value beside the page.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/seat-system/subagent-kinds/subagent-kind.page-type.ts b/seat-system/subagent-kinds/subagent-kind.page-type.ts
+index 5516df8477fefcbd4cae21ae9ef1dced1f895958..c5d7c296498484e18bbed4ed1f7eaec7cb102a0d 100644
+--- a/seat-system/subagent-kinds/subagent-kind.page-type.ts
++++ b/seat-system/subagent-kinds/subagent-kind.page-type.ts
+@@ -52,7 +52,7 @@ export const subagentKind = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A subagent's dispatched-as reaches a kind page rather than standing as text.",
++      statement: "A subagent's dispatched-as reaches a kind page rather than being text.",
+     },
+   ],
+ } as const satisfies PageType
