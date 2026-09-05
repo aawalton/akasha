@@ -35,7 +35,7 @@ export const monarchAmazonNotes = {
     {
       invariantKind: "departure",
       statement:
-        "What was written, what was declined and what order numbers were owed are all tallied at the end.",
+        "The rows written, the rows declined and the order numbers owed are all tallied at the end.",
     },
   ],
 } as const satisfies Module
