@@ -1,0 +1,49 @@
+diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
+index b100045bc3a9d2b643748f39529feaffa9fb3991..7b5d021a1244b31bb6be61a8d9e10d7bb3eff614 100644
+--- a/code-system/code-tests/code-tests.module.code.ts
++++ b/code-system/code-tests/code-tests.module.code.ts
+@@ -50,6 +50,10 @@ const INDEX = indexNamed()
+ 
+ const MODULES = "node_modules"
+ 
++const GIT_DIR = ".git"
++
++const SKIPPED: readonly string[] = [MODULES, GIT_DIR]
++
+ const SCOPE = "@"
+ 
+ const OUT = ".."
+diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
+index b564f0be29632f94762da540603b0cf440f9e087..65780586f3908ffcf7ea4b1f531dfd5733bca552 100644
+--- a/code-system/code-tests/code-tests.module.test.ts
++++ b/code-system/code-tests/code-tests.module.test.ts
+@@ -83,8 +83,12 @@ check("a test written with JSX is counted as readily as one written without", ()
+   expect(testsUnder(join(root, "akasha/one.test.tsx"))).toBe(1)
+ })
+ 
+-check("a test inside the installed modules folder is not counted", () => {
+-  const root = repo({ "node_modules/held/one.test.ts": PASSES, "two.test.ts": PASSES })
++check("a test the installed modules folder or the git folder holds is not counted", () => {
++  const root = repo({
++    "node_modules/one.test.ts": PASSES,
++    ".git/two.test.ts": PASSES,
++    "three.test.ts": PASSES,
++  })
+   expect(testsUnder(join(root, "akasha"))).toBe(1)
+ })
+ 
+diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
+index f7bbcac95def49da9206ef8248c9536bd267fb78..7e429c3af80b55f4f24a769608e70b946d7ca1d5 100644
+--- a/code-system/code-tests/code-tests.module.ts
++++ b/code-system/code-tests/code-tests.module.ts
+@@ -94,6 +94,10 @@ export const codeTests = {
+       invariantKind: "departure",
+       statement: "The folder of installed modules holds no test of this repository's.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The git folder holds no test of this repository's.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Color is taken out before the summary is read.",
