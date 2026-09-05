@@ -1,0 +1,13 @@
+diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
+index b71aa7fd0e81c03782421670beb70cac15b2288b..a1902588f5c027a3052d6d72303b16a9096099fe 100644
+--- a/editor-extension/panel-reading/panel-reading.module.ts
++++ b/editor-extension/panel-reading/panel-reading.module.ts
+@@ -10,7 +10,7 @@ export const panelReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What is activated is the extension rather than a model of it.",
++      statement: "What is activated is the extension rather than a model of that extension.",
+     },
+     {
+       invariantKind: "departure",
