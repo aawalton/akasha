@@ -85,12 +85,12 @@ export const watcherExportSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "What is said goes to the watcher log rather than to the console.",
+      statement: "Every line said goes to the watcher log rather than to the console.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A caller may hand in what settings are read, what rules are read, and what writes the side file.",
+        "A caller may hand in what settings are read, what rules are read, and the write of the side file.",
     },
     {
       invariantKind: "absence",
