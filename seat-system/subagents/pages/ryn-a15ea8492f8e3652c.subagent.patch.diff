@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/seat-observations/seat-observations.module.ts b/editor-extension/seat-observations/seat-observations.module.ts
+index d5f052c7612a62aa284351b6b85f246c9d76e356..cd20623a26bbe30aff7022f490413657931edaa7 100644
+--- a/editor-extension/seat-observations/seat-observations.module.ts
++++ b/editor-extension/seat-observations/seat-observations.module.ts
+@@ -35,7 +35,7 @@ export const seatObservations = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A change key sorts an object's keys rather than keeping the order they were set in.",
++        "A change key sorts an object's keys rather than keeping the order those keys were set in.",
+     },
+     {
+       invariantKind: "departure",
