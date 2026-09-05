@@ -1,0 +1,26 @@
+diff --git a/verdict/verdict-exit/verdict-exit.module.ts b/verdict/verdict-exit/verdict-exit.module.ts
+index d674e5783cb125f80610632acf9c86539d734131..0c1547d4a766e32895212d19c46ff8f4927cedbd 100644
+--- a/verdict/verdict-exit/verdict-exit.module.ts
++++ b/verdict/verdict-exit/verdict-exit.module.ts
+@@ -4,7 +4,7 @@ export const verdictExit = {
+   id: "01a05c87-a161-7870-a94a-5b4c8861bdc2",
+   pageTypeSlug: "module",
+   slug: "verdict-exit",
+-  definition: "the exit code a judgement's kind stands for",
++  definition: "the exit code a judgement's kind represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/verdict/verdict-shape/verdict-shape.module.ts b/verdict/verdict-shape/verdict-shape.module.ts
+index 921d2dd3adb9eaab7961ad6ba278ebdb069cef8c..0f3281a5416d61289d6e257c3428f6d5e54cb61b 100644
+--- a/verdict/verdict-shape/verdict-shape.module.ts
++++ b/verdict/verdict-shape/verdict-shape.module.ts
+@@ -9,7 +9,7 @@ export const verdictShape = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here stands at runtime.",
++      statement: "Nothing here exists at runtime.",
+     },
+   ],
+ } as const satisfies Module
