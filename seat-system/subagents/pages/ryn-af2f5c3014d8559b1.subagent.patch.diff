@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/tests/pages/restatement/restatement.model-test.ts b/agents/models/tests/pages/restatement/restatement.model-test.ts
+index f45c637b1038158ff7447d57e349a0c4ab7d4873..d0e0e4669363fb5a44c43313eb263bcfe86d7c74 100644
+--- a/agents/models/tests/pages/restatement/restatement.model-test.ts
++++ b/agents/models/tests/pages/restatement/restatement.model-test.ts
+@@ -34,7 +34,7 @@ export const restatement = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "What this test reads is the words rather than what a reader would build from the words.",
++        "This test reads the words rather than the meaning a reader would build from the words.",
+     },
+   ],
+ } as const satisfies ModelTest
