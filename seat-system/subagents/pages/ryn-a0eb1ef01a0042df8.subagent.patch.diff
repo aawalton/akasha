@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/move/spreading/move-spreading.module.ts b/commands/move/spreading/move-spreading.module.ts
+index 49f05824d151156f436b1dfd41d0bee3cb028a32..a4f7c9a53f233f19a50fa4e108c3d598637d1700 100644
+--- a/commands/move/spreading/move-spreading.module.ts
++++ b/commands/move/spreading/move-spreading.module.ts
+@@ -31,7 +31,7 @@ export const moveSpreading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The move pulls that file in by the page it is beside.",
++      statement: "The move pulls that file in by the page that file is beside.",
+     },
+     {
+       invariantKind: "departure",
