@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
+index 602aa3d63c9a79c39aa22d5e1340fb1ee6056363..6a58737bb5af5e90c4e0659b32d7fec25f0a6a1c 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
+@@ -63,7 +63,8 @@ export const readoutGroupServing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller handing in nothing has each reading read from what the relay holds.",
++      statement:
++        "A caller handing in nothing has each reading read from the values the relay holds.",
+     },
+     {
+       invariantKind: "departure",
