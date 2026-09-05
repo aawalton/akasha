@@ -59,14 +59,6 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild stamps the commit the pages were read at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A settle names on the stamp the paths that settle covered.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The repository root is given to the index rather than derived from where the index sits.",
     },

@@ -91,10 +91,6 @@ export const index = {
       statement: "A path in the index is relative to the repository root.",
     },
     {
-      invariantKind: "departure",
-      statement: "The index names the commit the index describes.",
-    },
-    {
       invariantKind: "stopgap",
       statement: "The index holds every page.",
     },

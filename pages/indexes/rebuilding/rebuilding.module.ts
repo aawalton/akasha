@@ -4,38 +4,33 @@ export const rebuilding = {
   id: "01a0584f-30ed-7000-bd17-95f4f41ac634",
   pageTypeSlug: "module",
   slug: "rebuilding",
-  definition: "the index built whole beside the one standing, and put in its place",
+  definition: "the index reconciled against what the pages say, file by file",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index is built into a scratch directory standing beside the index.",
+      statement: "The index is repaired in place rather than built beside it and swapped in.",
     },
     {
       invariantKind: "departure",
-      statement: "The scratch directory is taken away however the build ends.",
+      statement: "A file the build writes is put in place by renaming rather than by copying.",
     },
     {
       invariantKind: "departure",
-      statement: "The index that was built is put in place by renaming rather than by copying.",
+      statement: "A file already holding what the pages say is left alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The index being replaced is moved aside before the new one is renamed over that index.",
+      statement: "A file the pages no longer imply is found by walking the index, and taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder left empty by that goes with the file.",
     },
     {
       invariantKind: "departure",
       statement: "A build putting nothing in place is answered for as fully as one that does.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The difference between two indexes is read by walking the two indexes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The stamp the build wrote is handed back rather than read again by the caller.",
     },
     {
       invariantKind: "departure",
