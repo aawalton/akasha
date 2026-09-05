@@ -40,3 +40,17 @@ index fd0681e0df490c3b26141b7b467c972af9b63816..e477765692bd2243acdf803cd7174665
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-game-catalog-capture-host/collectibles-catalog-schema/collectibles-catalog-schema.module.ts b/temper/temper-game-catalog-capture-host/collectibles-catalog-schema/collectibles-catalog-schema.module.ts
+index ffb707f25748cf562ea6e43312f81d8629ba4a6b..e7844ded267a947b8b9a6474077be906a90cee47 100644
+--- a/temper/temper-game-catalog-capture-host/collectibles-catalog-schema/collectibles-catalog-schema.module.ts
++++ b/temper/temper-game-catalog-capture-host/collectibles-catalog-schema/collectibles-catalog-schema.module.ts
+@@ -19,9 +19,5 @@ export const collectiblesCatalogSchema = {
+       invariantKind: "departure",
+       statement: "A catalog key arrives as text and is coerced to a number.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
+-    },
+   ],
+ } as const satisfies Module
