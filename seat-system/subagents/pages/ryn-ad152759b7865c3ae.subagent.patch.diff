@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
+index 77eb2c6fbc70c4497392389b1c46e0fe5a9f5bd0..602aa3d63c9a79c39aa22d5e1340fb1ee6056363 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
+@@ -101,7 +101,7 @@ export const readoutGroupServing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A stoplight carrying no figure carries the figure as empty text rather than leaving it out.",
++        "A stoplight carrying no figure carries the figure as empty text rather than leaving that figure out.",
+     },
+     {
+       invariantKind: "departure",
