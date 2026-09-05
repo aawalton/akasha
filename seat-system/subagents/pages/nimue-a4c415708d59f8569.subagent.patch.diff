@@ -1,0 +1,120 @@
+diff --git a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts
+index 03b8f9aa33199589efcf86b32700aa2721451a2e..ff60b0ef93d80a09ed9af6e8fbbf9e852fc7422b 100644
+--- a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts
++++ b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts
+@@ -1,38 +1,27 @@
+-import { type Asking, rowFor } from "../../../readout-asking/readout-asking.module.code.ts"
+ import { statedAt } from "../../../readout-tier/readout-tier.module.code.ts"
+ 
+-const DAY = "daily-tracking"
+-
+ const SURPLUS_HOURS = "surplus-hours"
+ 
+ const SLEEP_HOURS = "sleep-hours"
+ 
+ const SPEND_HOURS = "spend-hours"
+ 
+-const DATE = "date"
+-
+-const SURPLUS_UNKNOWN =
+-  "the tracking day could not be read, so the surplus is unknown rather than nothing"
+-
+-export function trackingOn(day: string): Readonly<Record<string, unknown>> {
+-  return {
+-    "page-type": DAY,
+-    where: { [DATE]: { is: day } },
+-    keys: [SURPLUS_HOURS, SLEEP_HOURS, SPEND_HOURS],
+-    limit: 1,
+-  }
+-}
+-
+ export function heldNothing(values: Readonly<Record<string, unknown>>): boolean {
+   return statedAt(values[SLEEP_HOURS]) === null && statedAt(values[SPEND_HOURS]) === null
+ }
+ 
++/**
++ * The surplus a day carries, read off that day's own values.
++ *
++ * `alan/harness/surplus/reading` takes the reading. It asks for the day through `askDayByDate`,
++ * which names the `wake-day` page type and camelizes the keys on the way in, and hands the row
++ * here. The question is composed there and no question is composed here.
++ *
++ * The keys are spelled kebab because `dayAnswered` kebabises a row on the way out. A row still
++ * spelled camel answers null through all three lookups rather than refusing, so a caller handing
++ * over an unkebabised row darkens the tile and says nothing about why.
++ */
+ export function surplusIn(values: Readonly<Record<string, unknown>>): number | null {
+   if (heldNothing(values)) return null
+   return statedAt(values[SURPLUS_HOURS])
+ }
+-
+-export async function fetchSurplusHours(ask: Asking, day: string): Promise<number | null> {
+-  const row = await rowFor(ask, trackingOn(day), SURPLUS_UNKNOWN)
+-  return row === null ? null : surplusIn(row.values)
+-}
+diff --git a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.test.ts b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.test.ts
+index c3b4869b3f596038a97899a876ef8269e3d42b65..fbdd323e7d256eaa913cdb77aa4787e80c009288 100644
+--- a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.test.ts
++++ b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.test.ts
+@@ -1,13 +1,5 @@
+ import { expect, test } from "bun:test"
+-import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
+-import {
+-  fetchSurplusHours,
+-  heldNothing,
+-  surplusIn,
+-  trackingOn,
+-} from "./upkeep-surplus.readout.code.ts"
+-
+-const DAY = "2026-09-01"
++import { heldNothing, surplusIn } from "./upkeep-surplus.readout.code.ts"
+ 
+ const held = (surplus: unknown, sleep: unknown = "8", spend: unknown = "8") => ({
+   "surplus-hours": surplus,
+@@ -15,21 +7,6 @@ const held = (surplus: unknown, sleep: unknown = "8", spend: unknown = "8") => (
+   "spend-hours": spend,
+ })
+ 
+-test("the day asked for is the tracking day the caller named", () => {
+-  const query = trackingOn(DAY) as Record<string, unknown>
+-  expect(query["page-type"]).toBe("daily-tracking")
+-  expect(query.where).toEqual({ date: { is: DAY } })
+-  expect(query.limit).toBe(1)
+-})
+-
+-test("the two halves of the subtraction are asked for beside the surplus", () => {
+-  expect((trackingOn(DAY) as Record<string, unknown>).keys).toEqual([
+-    "surplus-hours",
+-    "sleep-hours",
+-    "spend-hours",
+-  ])
+-})
+-
+ test("a surplus given as text is read as the number it spells", () => {
+   expect(surplusIn(held("1.5"))).toBe(1.5)
+   expect(surplusIn(held("-3.25"))).toBe(-3.25)
+@@ -65,21 +42,7 @@ test("a day that spent everything it slept is a reading of zero rather than noth
+   expect(surplusIn({ "surplus-hours": "0", "sleep-hours": "8", "spend-hours": "8" })).toBe(0)
+ })
+ 
+-test("no tracking day is no reading rather than a surplus of zero", async () => {
+-  expect(await fetchSurplusHours(answering([]), DAY)).toBeNull()
+-})
+-
+-test("the surplus of the day asked for is the reading", async () => {
+-  expect(await fetchSurplusHours(answering([{ values: held("-3.5") }]), DAY)).toBe(-3.5)
+-})
+-
+-test("a tracking day holding no stretch is no reading over the whole reach", async () => {
+-  const sessionless = [{ values: { "surplus-hours": "0", "sleep-hours": null } }]
+-  expect(await fetchSurplusHours(answering(sessionless), DAY)).toBeNull()
+-})
+-
+-test("a store that refuses is a fault rather than a reading of nothing", async () => {
+-  await expect(
+-    fetchSurplusHours(refusing("the index holds no such page type"), DAY)
+-  ).rejects.toThrow("unknown rather than nothing")
++test("a row spelled as the day page spells it is no reading rather than the surplus it holds", () => {
++  expect(surplusIn({ surplusHours: -5.5, sleepHours: 7.5, spendHours: 13 })).toBeNull()
++  expect(surplusIn({ "surplus-hours": -5.5, "sleep-hours": 7.5, "spend-hours": 13 })).toBe(-5.5)
+ })
