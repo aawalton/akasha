@@ -120,3 +120,16 @@ index 175fefc88bb56b1858b87191030ae08bc611e404..a79c7cb21f055cad2834e5f17375ae79
      refusals: [],
      code: 0,
    }
+diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
+index cc9c9d4efb115dc860153a4fccd6df5d7e89f2c5..c97954efa01281f6656d33bbd38435c99c91de95 100644
+--- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
++++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
+@@ -14,7 +14,7 @@ export const temperInventorySnapshot = {
+     { said: "--json", takes: "give the record on one line rather than indented" },
+   ],
+   helpNotes: [
+-    "the record stands whole in a data file beside the snapshot page, so nothing here rejoins pieces.",
++    "the record sits whole in a data file beside the snapshot page, so nothing here rejoins pieces.",
+     "the pieces a reading arrived in were rejoined before the snapshot landed.",
+     "a snapshot is named or `--latest` is said, never both.",
+     "`--latest` reads the newest reading on the account, ordered by when the reading was taken.",
