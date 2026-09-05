@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/modules-only/modules-only.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/modules-only/modules-only.folder-shape.ts
+index 2a48ddf335ff17ddc31bc4a5803c5efae209c10d..a30bd9b8cb481458f3a30c430c274dda8b8428e4 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/modules-only/modules-only.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/modules-only/modules-only.folder-shape.ts
+@@ -32,7 +32,7 @@ export const modulesOnly = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every module in it is a part the page above declares.",
++      statement: "Every module in that folder is a part the page above declares.",
+     },
+     {
+       invariantKind: "departure",
