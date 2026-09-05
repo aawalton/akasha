@@ -13,7 +13,8 @@ export const noticeWarrant = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A notice states which seat it goes to rather than leaving that to its sender.",
+      statement:
+        "A notice states which seat that notice goes to rather than leaving that to its sender.",
     },
     {
       invariantKind: "departure",
