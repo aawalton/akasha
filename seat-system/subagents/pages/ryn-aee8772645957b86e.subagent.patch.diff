@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts b/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts
+index 0b98cea09f27dfd9b5c5331db2ee68c025aef831..03e58d3688c11d4ca7aca06503945966cac7930c 100644
+--- a/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts
++++ b/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts
+@@ -14,7 +14,8 @@ export const terminalBash = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name that was once an alias is unaliased before it is defined as a function.",
++      statement:
++        "A name that was once an alias is unaliased before that name is defined as a function.",
+     },
+     {
+       invariantKind: "departure",
