@@ -1,7 +1,7 @@
-// The domains panel. A domain a sequence names carries the place it takes in that sequence.
+// The domains panel, assembled whole. A row is a domain, and the tree is the part-of edge read
+// downward. The champion each domain carries is not here: the tree the panel draws never read it.
 
 declare type DomainTreeRow = TreeRow & {
-  readonly persona: string | null
   readonly position: number | null
   readonly children: readonly DomainTreeRow[]
 }

@@ -23,6 +23,7 @@ export const codeEditorDataInterface = {
     "module/state-cooldown",
     "type-declaration/tree-row",
     "module/terminal-seat-mapping",
+    "module/tree-drawing",
     "number-property/cooldown-milliseconds",
     "code-editor-data-interface/agent-colors",
     "code-editor-data-interface/agent-tree",

@@ -26,10 +26,20 @@ import {
   seatByShellPid,
   tmuxClients,
 } from "../terminal-seat-mapping/terminal-seat-mapping.module.code.ts"
+import {
+  domainTreeLine,
+  pageTreeLine,
+  workTreeLine,
+} from "../tree-drawing/tree-drawing.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
 const SEATS_AT = "seat-system/seats/pages"
 const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
+// Every tree is read out of the akasha index, and the index says it moved by one small file.
+// Watching that beats watching every source file: the editor watched `**/*.ts`, 42 writes a
+// minute of which 11 in 318 could move a row.
+const INDEX_AT = ".git/data/index"
+const INDEX_STAMP = "stamp.jsonl"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SETTLE_MS = 25
@@ -112,6 +122,7 @@ function terminalTabsLine(): string {
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
+  const index = join(root, INDEX_AT)
   return new Map<string, Picture>([
     [
       "agent-colors",
@@ -123,6 +134,43 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
           within(turnStates, ".seat-turn-state.ts")
         ),
         line: agentColorsLine,
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "work-tree",
+      {
+        cooldownMs: 1_000,
+        folders: [index, seats, turnStates],
+        holds: either(
+          within(index, INDEX_STAMP),
+          within(seats, SIDECAR, ".seat.ts"),
+          within(turnStates, ".seat-turn-state.ts")
+        ),
+        line: () => workTreeLine(root),
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "domain-tree",
+      {
+        cooldownMs: 1_000,
+        folders: [index],
+        holds: within(index, INDEX_STAMP),
+        line: () => domainTreeLine(root),
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "page-tree",
+      {
+        cooldownMs: 1_000,
+        folders: [index],
+        holds: within(index, INDEX_STAMP),
+        line: () => pageTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },
