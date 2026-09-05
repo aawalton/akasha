@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
-index bb4d830ae29a8f2154dd87af6dc5da67d2b71a85..fd97e68f566fab7dc418fb93c74fd8467339a126 100644
+index bb4d830ae29a8f2154dd87af6dc5da67d2b71a85..af81f75627815832b7738f9b849addf7c8af807f 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
 +++ b/alan/harness/monarch/land-files/monarch-land-files.module.ts
 @@ -11,7 +11,7 @@ export const monarchLandFiles = {
@@ -20,3 +20,13 @@ index bb4d830ae29a8f2154dd87af6dc5da67d2b71a85..fd97e68f566fab7dc418fb93c74fd846
      },
      {
        invariantKind: "departure",
+@@ -56,7 +56,8 @@ export const monarchLandFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The landing is made from inside akasha rather than through anything outside it.",
++      statement:
++        "The landing is made from inside akasha rather than through anything outside akasha.",
+     },
+   ],
+ } as const satisfies Module
