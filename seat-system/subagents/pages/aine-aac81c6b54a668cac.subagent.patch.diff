@@ -96,7 +96,7 @@ index 7dbfc4e23822c0b6493491a60ba1948b825fdfc6..1ce70090f324790d4be6c7f9e223ea80
    ],
  } as const satisfies CalendarDateProperty
 diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
-index 854b8820562aaefc2566747019842e13f8d3839e..e0f9f26a97cfccb562dc4182aff3b31731a7f2fe 100644
+index 854b8820562aaefc2566747019842e13f8d3839e..c89c1778689315855227d15d2b9e24fa1f459912 100644
 --- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
 +++ b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
 @@ -32,7 +32,7 @@ export const transactions = {
@@ -108,12 +108,18 @@ index 854b8820562aaefc2566747019842e13f8d3839e..e0f9f26a97cfccb562dc4182aff3b317
      },
      {
        invariantKind: "departure",
-@@ -44,7 +44,7 @@ export const transactions = {
+@@ -44,12 +44,12 @@ export const transactions = {
      },
      {
        invariantKind: "departure",
 -      statement: "Entries stand in the order of the day they fell on, then of their Monarch id.",
 +      statement: "Entries sit in the order of the day they fell on, then of their Monarch id.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transaction that has been split leaves the list Monarch serves and its parts stand there in its place.",
++        "A transaction that has been split leaves the list Monarch serves and its parts are there in its place.",
      },
      {
        invariantKind: "departure",
