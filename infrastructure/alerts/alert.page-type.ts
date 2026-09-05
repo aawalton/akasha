@@ -47,11 +47,11 @@ export const alert = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An alert says what is wrong rather than what raised the alert.",
+      statement: "An alert says the condition rather than the rule that raised the alert.",
     },
     {
       invariantKind: "departure",
-      statement: "What raises an alert is a rule the deployment carries.",
+      statement: "A rule the deployment carries raises an alert.",
     },
     {
       invariantKind: "departure",
@@ -99,7 +99,8 @@ export const alert = {
     },
     {
       invariantKind: "gap",
-      statement: "Every alert reaches whoever answers for the condition the alert names.",
+      statement:
+        "Every alert reaches the person or area answering for the condition the alert names.",
     },
     {
       invariantKind: "gap",
