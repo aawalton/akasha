@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-media-provider/media-types/media-types.module.ts b/temper/temper-lib-media-provider/media-types/media-types.module.ts
+index e9f1028c9f70ff0186a9c0b2970b669a56c72cb6..995bb1159c7a8a4b3573d612d237c8aa67ff8d2b 100644
+--- a/temper/temper-lib-media-provider/media-types/media-types.module.ts
++++ b/temper/temper-lib-media-provider/media-types/media-types.module.ts
+@@ -13,7 +13,7 @@ export const mediaTypes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key on the shared table is what another addon reads.",
++      statement: "A key on the shared table is the name another addon reads.",
+     },
+   ],
+ } as const satisfies Module
