@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts b/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts
+index 0804b2184209140b87c7a7892317d81e2846fdf3..1322269fa6eb7848a4e8a7ef2936f2ece0463f5a 100644
+--- a/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts
++++ b/agents/models/gateway/modules/server-error-retry/server-error-retry.module.ts
+@@ -151,7 +151,7 @@ export const serverErrorRetry = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A body already sent upstream is sent again without asking whether sending it again is safe.",
++        "A body already sent upstream is sent again without asking whether sending that body again is safe.",
+     },
+   ],
+ } as const satisfies Module
