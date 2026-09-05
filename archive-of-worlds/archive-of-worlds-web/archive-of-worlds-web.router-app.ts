@@ -12,6 +12,7 @@ export const archiveOfWorldsWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   partSlugs: [
+    "manifest/archive-of-worlds-web-manifests",
     "stylesheet/archive-of-worlds-web-look",
     "module/archive-of-worlds-app-id",
     "module/archive-of-worlds-app-shell",
