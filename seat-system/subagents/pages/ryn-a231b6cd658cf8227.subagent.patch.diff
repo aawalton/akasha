@@ -1,0 +1,13 @@
+diff --git a/pages/navs/nav.page-type.ts b/pages/navs/nav.page-type.ts
+index 28aebaaeb097d216c7b20f15879de4645434d87d..99f5947641b43ba577e68cb05d2abd143ac5314c 100644
+--- a/pages/navs/nav.page-type.ts
++++ b/pages/navs/nav.page-type.ts
+@@ -53,7 +53,7 @@ export const nav = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A nav item belongs to one app, and an app's navigation is every nav item naming it.",
++        "A nav item belongs to one app, and an app's navigation is every nav item naming that app.",
+     },
+     {
+       invariantKind: "departure",
