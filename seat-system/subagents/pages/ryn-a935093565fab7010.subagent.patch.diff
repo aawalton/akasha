@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
+index 796e3bf65eaec49542a5b90117d8b7043172ef16..d79bb1ff2900057753ac344a612b1fadd932f67f 100644
+--- a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
++++ b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
+@@ -34,7 +34,7 @@ export const exerciseConstraintSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a constraint asks for is in its own file beside the page.",
++      statement: "A constraint's body is in its own file beside the page.",
+     },
+     {
+       invariantKind: "departure",
