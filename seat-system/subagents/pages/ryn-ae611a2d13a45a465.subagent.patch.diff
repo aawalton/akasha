@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
+index 473ffb491233258ab62d78eb25bf2ea92918ddf0..af9eb0eb1d25623c3495d1cd37f0c7fec2d68196 100644
+--- a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
++++ b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
+@@ -53,7 +53,7 @@ export const packageReachedWhereNamed = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The package a file belongs to is the only one answering for reaching it.",
++      statement: "The package a file belongs to is the only one answering for reaching that file.",
+     },
+     {
+       invariantKind: "departure",
