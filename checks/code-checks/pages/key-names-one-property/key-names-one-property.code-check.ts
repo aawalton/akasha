@@ -76,7 +76,7 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "What declares a property is read from the index rather than composed here.",
+      statement: "The declarers of a property are read from the index rather than composed here.",
     },
     {
       invariantKind: "departure",
