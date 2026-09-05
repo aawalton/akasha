@@ -1,0 +1,59 @@
+diff --git a/agents/models/gateway/model-gateway.domain.ts b/agents/models/gateway/model-gateway.domain.ts
+index 0b6fc3c7ebfda763657e9995215322415304ed53..effef230de1d947b893d6e153784d4c2d0b2e591 100644
+--- a/agents/models/gateway/model-gateway.domain.ts
++++ b/agents/models/gateway/model-gateway.domain.ts
+@@ -75,5 +75,9 @@ export const modelGateway = {
+       invariantKind: "departure",
+       statement: "Work a gateway does between two frames is work no stream is being served during.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "No account left to choose is written about as `no-viable-account`.",
++    },
+   ],
+ } as const satisfies Domain
+diff --git a/alan/harness/monarch/monarch.domain.ts b/alan/harness/monarch/monarch.domain.ts
+index 3de766f29468311ddb63f2b6fe944e26d0f87cd8..a8ee11b857479f78b2472a01c65be09c2ed0c733 100644
+--- a/alan/harness/monarch/monarch.domain.ts
++++ b/alan/harness/monarch/monarch.domain.ts
+@@ -128,6 +128,10 @@ export const monarch = {
+       statement:
+         "A monarch page holds the fields its readers name rather than a copy of Monarch's reply.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An errors field in a two-hundred answer is a refusal.",
++    },
+   ],
+   directives: [
+     {
+diff --git a/command-system/judged-saying/judged-saying.module.ts b/command-system/judged-saying/judged-saying.module.ts
+index 3869de270acd470e13cb15581b9fea0be4ebbad8..80ba20383d5df17d859f455d552c4ff128a21f99 100644
+--- a/command-system/judged-saying/judged-saying.module.ts
++++ b/command-system/judged-saying/judged-saying.module.ts
+@@ -54,6 +54,10 @@ export const judgedSaying = {
+       statement:
+         "The line counting the paths judged and the line naming the rest are built from one rule.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A path no check judged is named in the answer.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The counting is handed in rather than reached for.",
+diff --git a/temper/temper-companions-core/companion-metrics/companion-metrics.module.ts b/temper/temper-companions-core/companion-metrics/companion-metrics.module.ts
+index cb37dcbe6d6a3044614dd7a1e298df69a6e16dca..ef34ad500308f22b3b5e2ea933807b64cc8a51e7 100644
+--- a/temper/temper-companions-core/companion-metrics/companion-metrics.module.ts
++++ b/temper/temper-companions-core/companion-metrics/companion-metrics.module.ts
+@@ -11,6 +11,10 @@ export const companionMetrics = {
+       invariantKind: "departure",
+       statement: "The table is assembled from three runs rather than declared in one place.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run holds a contiguous stretch of the companion metrics table.",
++    },
+     {
+       invariantKind: "constraint",
+       statement: "A metric carrying a formula is worked out after every metric the formula reads.",
