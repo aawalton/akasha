@@ -32,7 +32,7 @@ export const monarchApply = {
     },
     {
       invariantKind: "departure",
-      statement: "What decided is recorded as the rule's own name.",
+      statement: "The rule that decided is recorded as the rule's own name.",
     },
     {
       invariantKind: "departure",
