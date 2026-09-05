@@ -1,5 +1,5 @@
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
-index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..180c44364abb8dc6a2b0f65ab17076397bbeb945 100644
+index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..f14c914f848ce0a4b63e3d3e84b3bd58a7255b60 100644
 --- a/commands/calendar/calendar.command.ts
 +++ b/commands/calendar/calendar.command.ts
 @@ -4,7 +4,7 @@ export const calendar = {
@@ -29,6 +29,15 @@ index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..180c44364abb8dc6a2b0f65ab1707639
      },
      {
        said: "--timezone <iana>",
+@@ -69,7 +69,7 @@ export const calendar = {
+     },
+   ],
+   helpNotes: [
+-    "the words stand in order, and one call names one act.",
++    "the words are in order, and one call names one act.",
+     "an event is named in place after the act or as a flag, and naming it both ways over is refused.",
+     "create, update and rsvp reach the calendar as Alan, so the invites and the responses carry his name.",
+     "get, list and delete reach the calendar as the account akasha runs under rather than as Alan.",
 diff --git a/commands/drive/drive.command.code.ts b/commands/drive/drive.command.code.ts
 index b1b797bdcf9516fd7ff3d6033685bbd6896227aa..7333bbb4378d653d3cfec957b2f9681e7265293c 100644
 --- a/commands/drive/drive.command.code.ts
