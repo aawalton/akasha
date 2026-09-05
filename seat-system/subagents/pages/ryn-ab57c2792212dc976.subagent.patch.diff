@@ -1,0 +1,14 @@
+diff --git a/command-system/prose-routing/prose-routing.module.ts b/command-system/prose-routing/prose-routing.module.ts
+index 6ce7e8b4e5af501e08e3402f62dc3960be7426ab..43bb24c2dd757cb566b390d71376bbee44c2ce69 100644
+--- a/command-system/prose-routing/prose-routing.module.ts
++++ b/command-system/prose-routing/prose-routing.module.ts
+@@ -28,8 +28,7 @@ export const proseRouting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A hand-declared route beside a flag shaped as a line is refused, because its handler would read the file itself and bypass the single-line parse.",
++      statement: "A hand-declared route beside a flag shaped as a line is refused.",
+     },
+     {
+       invariantKind: "departure",
