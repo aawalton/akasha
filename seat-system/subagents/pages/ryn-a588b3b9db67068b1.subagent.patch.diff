@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/generated-properties/generated-properties.module.ts b/pages/indexes/generated-properties/generated-properties.module.ts
-index b3a57039b34384b98cf1a9132b71151d4731dacc..314d03affed07b00c3fd6ded1325f1076cbf9bd0 100644
+index b3a57039b34384b98cf1a9132b71151d4731dacc..09d029adeed9f778f6d90faefc1ee68c75e334b1 100644
 --- a/pages/indexes/generated-properties/generated-properties.module.ts
 +++ b/pages/indexes/generated-properties/generated-properties.module.ts
 @@ -38,7 +38,7 @@ export const generatedProperties = {
@@ -21,3 +21,12 @@ index b3a57039b34384b98cf1a9132b71151d4731dacc..314d03affed07b00c3fd6ded1325f107
      },
      {
        invariantKind: "departure",
+@@ -59,7 +59,7 @@ export const generatedProperties = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The shadow is what is asked rather than a root.",
++      statement: "The shadow is asked rather than a root.",
+     },
+     {
+       invariantKind: "absence",
