@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/provenance/monarch-provenance.module.ts b/alan/harness/monarch/provenance/monarch-provenance.module.ts
+index 389f2ad0783345a4e7f06920e9ac5f4a69f59420..3498ef8783fc2141d1597c90db63d13fb4471844 100644
+--- a/alan/harness/monarch/provenance/monarch-provenance.module.ts
++++ b/alan/harness/monarch/provenance/monarch-provenance.module.ts
+@@ -23,7 +23,7 @@ export const monarchProvenance = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is named is trimmed, so blank space names nothing.",
++      statement: "A name is trimmed, so blank space names nothing.",
+     },
+     {
+       invariantKind: "absence",
