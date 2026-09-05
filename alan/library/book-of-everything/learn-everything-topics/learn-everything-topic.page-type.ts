@@ -85,10 +85,7 @@ export const learnEverythingTopic = {
       statement:
         "A topic's depth is judged by hand and its coverage worked out from beneath that topic.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A topic names the topic above and sits in that topic's folder.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Each of a topic's five readings is a file beside the topic's page.",
