@@ -1,13 +1,18 @@
 diff --git a/infrastructure/inference-commands/inference-answering/inference-answering.module.ts b/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
-index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..572b852f707fb596d199d7d18591602f9705cd9f 100644
+index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..9aa5b22488119723bc4d36703a2b53023a8a8763 100644
 --- a/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
 +++ b/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
-@@ -10,7 +10,7 @@ export const inferenceAnswering = {
+@@ -10,11 +10,11 @@ export const inferenceAnswering = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A flag naming a value takes the word after it.",
 +      statement: "A flag naming a value takes the word after that flag.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An alias is read as the flag it represents.",
++      statement: "An alias is read as the flag that alias represents.",
      },
      {
        invariantKind: "departure",
