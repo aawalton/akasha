@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-with-its-parts/a-page-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-with-its-parts/a-page-with-its-parts.folder-shape.ts
+index 78388e4edf06e2b259f878aaf5462b927b534b5f..a4bc6a33ea3abb92c74e5baaa6d2a4b9e0c8cd80 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-with-its-parts/a-page-with-its-parts.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-with-its-parts/a-page-with-its-parts.folder-shape.ts
+@@ -15,7 +15,7 @@ export const aPageWithItsParts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder is named what that page calls its folder.",
++      statement: "The folder's name is the name that page gives its folder.",
+     },
+     {
+       invariantKind: "departure",
