@@ -260,11 +260,20 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "Expand renames the package and writes a compat package carrying the old name.",
+      statement: "Expand renames the package and aliases the old name to the renamed package.",
     },
     {
       invariantKind: "departure",
-      statement: "The compat package names every way in the renamed package names.",
+      statement: "That alias stands among the root manifest's dependencies.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every manifest depending on the renamed package is respelled as expand renames it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file is written to carry the old name.",
     },
     {
       invariantKind: "departure",
@@ -280,7 +289,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "Contract takes the compat package away once no file names the old name.",
+      statement: "Contract takes the alias away once no file names the old name.",
     },
     {
       invariantKind: "departure",
