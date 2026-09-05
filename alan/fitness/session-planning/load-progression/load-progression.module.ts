@@ -39,7 +39,7 @@ export const loadProgression = {
     },
     {
       invariantKind: "departure",
-      statement: "Every decision states in words why it was reached.",
+      statement: "Every decision states in words why that decision was reached.",
     },
   ],
 } as const satisfies Module
