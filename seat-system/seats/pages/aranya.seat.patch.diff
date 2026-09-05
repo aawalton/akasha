@@ -583,3 +583,11 @@ index 7fe6e1dc23879fbf681d8a389b82b39c90bb794c..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-build-metadata
 \ No newline at end of file
+diff --git a/temper/temper-build-support/temper-build-support b/temper/temper-build-support/temper-build-support
+deleted file mode 120000
+index 6debdae7cf5f2fb44056494d99fcd91e5ec8d7f4..0000000000000000000000000000000000000000
+--- a/temper/temper-build-support/temper-build-support
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-build-support
+\ No newline at end of file
