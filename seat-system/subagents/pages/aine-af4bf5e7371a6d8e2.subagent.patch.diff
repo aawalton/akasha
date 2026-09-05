@@ -12,7 +12,7 @@ index 3925580b249947a6eb2db6c703e3c495bae31373..ca94aecf34bc59a362669b46cfcbea14
    expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "personaSlug")).toBe(null)
  })
 diff --git a/context/modules/warranting/warranting.module.test.ts b/context/modules/warranting/warranting.module.test.ts
-index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..fee6dd7dfabede9e2abbf77d98abde7782930e14 100644
+index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..ec9d8596b939b021ffc2e23a0af185a7d0829077 100644
 --- a/context/modules/warranting/warranting.module.test.ts
 +++ b/context/modules/warranting/warranting.module.test.ts
 @@ -106,7 +106,7 @@ test("a path the record holds no reading of is refused", () => {
@@ -95,6 +95,15 @@ index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..fee6dd7dfabede9e2abbf77d98abde77
    const root = rootWith()
    pageFiled(root, AGENT, SEAT_AT)
    expect(subagentPathOf(root, UNDER)).toBe(null)
+@@ -351,7 +351,7 @@ test("a subagent owes what its own page names rather than what its seat's does",
+   expect(said[0]).toContain(Y)
+ })
+ 
+-test("a subagent standing at no page owes nothing", () => {
++test("a subagent sitting at no page owes nothing", () => {
+   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
+   pageFiled(root, AGENT, SEAT_AT)
+   expect(unheldIn(root, UNDER)).toEqual([])
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
 index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..ed7abd8cabe148d76a579ad766dd95e1905b26d0 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
