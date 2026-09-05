@@ -10,11 +10,11 @@ export const noDoubleCast = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An assertion standing on a widening is refused.",
+      statement: "An assertion sitting on a widening is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "One assertion on its own stands.",
+      statement: "One assertion on its own is left.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const noDoubleCast = {
     },
     {
       invariantKind: "departure",
-      statement: "A widening standing alone is left.",
+      statement: "A widening on its own is left.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const noDoubleCast = {
     },
     {
       invariantKind: "gap",
-      statement: "The two stand apart.",
+      statement: "The two sit apart.",
     },
   ],
 } as const satisfies SyntaxRule

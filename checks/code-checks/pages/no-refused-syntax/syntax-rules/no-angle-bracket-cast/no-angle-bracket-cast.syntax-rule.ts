@@ -35,7 +35,7 @@ export const noAngleBracketCast = {
     },
     {
       invariantKind: "gap",
-      statement: "The same assertion written with `as` stands.",
+      statement: "The same assertion written with `as` is left.",
     },
   ],
 } as const satisfies SyntaxRule

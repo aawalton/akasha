@@ -12,11 +12,11 @@ test("an assertion written that way is refused", () => {
   expect(said[0]?.reason).toContain("`as`")
 })
 
-test("the same assertion written with `as` stands", () => {
+test("the same assertion written with `as` is left", () => {
   expect(noAngleBracketCast(parsed("const one = held as Held\n"))).toEqual([])
 })
 
-test("a const assertion stands", () => {
+test("a const assertion is left", () => {
   expect(noAngleBracketCast(parsed("const one = [1, 2] as const\n"))).toEqual([])
 })
 
@@ -44,7 +44,7 @@ test("one nested inside a call is judged too", () => {
   expect(noAngleBracketCast(parsed("report(<Held>held)\n"))).toHaveLength(1)
 })
 
-test("the line named is the line the assertion stands on", () => {
+test("the line named is the line the assertion is on", () => {
   const said = noAngleBracketCast(parsed("const one = 1\nconst two = <Held>held\n"))
   expect(said[0]?.line).toBe(2)
 })

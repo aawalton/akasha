@@ -20,11 +20,11 @@ test("an assertion reaching through any is refused", () => {
   expect(said[0]?.reason).toContain("`any`")
 })
 
-test("one assertion on its own stands", () => {
+test("one assertion on its own is left", () => {
   expect(noDoubleCast(parsed("const one = held as Held\n"))).toEqual([])
 })
 
-test("a widening standing alone is left", () => {
+test("a widening on its own is left", () => {
   expect(noDoubleCast(parsed("const one = held as unknown\n"))).toEqual([])
 })
 
@@ -44,7 +44,7 @@ test("the angle-bracket spelling is read as `as` is", () => {
   expect(noDoubleCast(parsed("const one = <Held><unknown>held\n"))).toHaveLength(1)
 })
 
-test("the line named is the line the assertion stands on", () => {
+test("the line named is the line the assertion is on", () => {
   const said = noDoubleCast(parsed("const one = 1\nconst two = held as unknown as Held\n"))
   expect(said[0]?.line).toBe(2)
 })
