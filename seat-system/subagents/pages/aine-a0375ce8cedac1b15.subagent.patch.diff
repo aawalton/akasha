@@ -1,0 +1,169 @@
+diff --git a/editor-extension/agent-forest/agent-forest.module.test.ts b/editor-extension/agent-forest/agent-forest.module.test.ts
+index 7cd7b70bbf323ad7eb0fe3d929df4ee832100eeb..c0a51768be884c1c8f91ee2f6be290936e661eab 100644
+--- a/editor-extension/agent-forest/agent-forest.module.test.ts
++++ b/editor-extension/agent-forest/agent-forest.module.test.ts
+@@ -54,7 +54,7 @@ describe("the seats a forest hangs together", () => {
+     expect(roots).toEqual([])
+   })
+ 
+-  test("a stopped seat stands where something under it still runs", () => {
++  test("a stopped seat remains where something under it still runs", () => {
+     const roots = assembleForest(
+       [row("p", "parent", null), row("c", "child", "p")],
+       LIVE("c"),
+diff --git a/editor-extension/agent-row/agent-row.module.ts b/editor-extension/agent-row/agent-row.module.ts
+index ce6fc0c13f7cc6efa4be041f037ce3487ff8eee2..d99a8b1e725a0aed11c930937b3e5e7cf9bbf837 100644
+--- a/editor-extension/agent-row/agent-row.module.ts
++++ b/editor-extension/agent-row/agent-row.module.ts
+@@ -37,7 +37,7 @@ export const agentRow = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The shape stands apart from its composer so either can land first.",
++      statement: "The shape sits apart from its composer so either can land first.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/editor-extension/agent-tree-state/agent-tree-state.module.ts b/editor-extension/agent-tree-state/agent-tree-state.module.ts
+index 36a8dda09c09205e5a6325cdacb43101d9ac19f0..c915de387bfa182c0bdc3788f52a4670cc4e6d3d 100644
+--- a/editor-extension/agent-tree-state/agent-tree-state.module.ts
++++ b/editor-extension/agent-tree-state/agent-tree-state.module.ts
+@@ -14,7 +14,7 @@ export const agentTreeState = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A forest and a set of seat tabs stand empty until the first read replaces them.",
++      statement: "A forest and a set of seat tabs are empty until the first read replaces them.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/editor-extension/column-memory/column-memory.module.ts b/editor-extension/column-memory/column-memory.module.ts
+index 407bd3fc712efb52a51b35384470db7e442d269c..bbd7b1a96a5ba9e6e6dfacaaea60489006b3a738 100644
+--- a/editor-extension/column-memory/column-memory.module.ts
++++ b/editor-extension/column-memory/column-memory.module.ts
+@@ -9,7 +9,7 @@ export const columnMemory = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat seen in no column leaves what was remembered for it standing.",
++      statement: "A seat seen in no column leaves what was remembered for it as it was.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/column-sampling/column-sampling.module.ts b/editor-extension/column-sampling/column-sampling.module.ts
+index e01fd29f37dc80eea2a4a1993eee0635c3b1fc63..b5ca53d852dc3d7feb76d5844854554dd363b73c 100644
+--- a/editor-extension/column-sampling/column-sampling.module.ts
++++ b/editor-extension/column-sampling/column-sampling.module.ts
+@@ -21,7 +21,7 @@ export const columnSampling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "How many seat terminals stand here and how many sit in a group are recorded.",
++      statement: "How many seat terminals are here and how many sit in a group are recorded.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+index e34751385dfc15ccc289b43f4353941978a11dbd..bc47df096b8bf737d27611b38cdf50dfd2cbdbf9 100644
+--- a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
++++ b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+@@ -17,7 +17,7 @@ export const editorLayoutPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A terminal tab names the seat standing in it and the process running in it.",
++      statement: "A terminal tab names the seat in it and the process running in it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/invoked-seat/invoked-seat.module.ts b/editor-extension/invoked-seat/invoked-seat.module.ts
+index 8d718d8f7d9e6cc3d7a80812ca26c01631ddb0b7..42d1d9fdb958dc6be78918286ec742ca64734bb6 100644
+--- a/editor-extension/invoked-seat/invoked-seat.module.ts
++++ b/editor-extension/invoked-seat/invoked-seat.module.ts
+@@ -9,7 +9,7 @@ export const invokedSeat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A command invoked from a terminal tab reaches the seat standing in that tab.",
++      statement: "A command invoked from a terminal tab reaches the seat in that tab.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/seat-plan-running/seat-plan-running.module.ts b/editor-extension/seat-plan-running/seat-plan-running.module.ts
+index 12b03a3c0bdd94a36d32cbd2e4c2cc4bddf3505c..2616a58fe263dc36fbb5e9f9babf13c3ab7788cc 100644
+--- a/editor-extension/seat-plan-running/seat-plan-running.module.ts
++++ b/editor-extension/seat-plan-running/seat-plan-running.module.ts
+@@ -17,7 +17,7 @@ export const seatPlanRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A prompt is shown as a modal, so nothing runs while it stands.",
++      statement: "A prompt is shown as a modal, so nothing runs while it is open.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/seat-tab-context/seat-tab-context.module.ts b/editor-extension/seat-tab-context/seat-tab-context.module.ts
+index 27b061927c3b37b603882903839e86772e0a7d67..446440288fe4185e7376144e1c1d1a326971c99d 100644
+--- a/editor-extension/seat-tab-context/seat-tab-context.module.ts
++++ b/editor-extension/seat-tab-context/seat-tab-context.module.ts
+@@ -4,7 +4,7 @@ export const seatTabContext = {
+   id: "01a0686b-bfe9-74a9-988e-2d1c89ebe36f",
+   pageTypeSlug: "module",
+   slug: "seat-tab-context",
+-  definition: "the terminal tabs a seat stands in, published as the contexts a menu reads",
++  definition: "the terminal tabs a seat is in, published as the contexts a menu reads",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.test.ts b/editor-extension/seat-toggles/seat-toggles.module.test.ts
+index 030da25ea1f53e8238edb9524bd10eff43bc803f..422a600b57776398905c377635f11073f65ef941 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.test.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.test.ts
+@@ -64,7 +64,7 @@ describe("the menus the manifest hangs on a row", () => {
+     ])
+   })
+ 
+-  test("a context value names whether the seat runs and where it stands", () => {
++  test("a context value names whether the seat runs and where it is", () => {
+     expect(seatContextValue(true, "interactive")).toBe("seat.running.interactive")
+     expect(seatContextValue(false, "headless")).toBe("seat.stopped.headless")
+   })
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.ts b/editor-extension/seat-toggles/seat-toggles.module.ts
+index 2d93fffdca2d6f40d83e1a50ecfb6fbb56121587..6211defc6cdd59d8fd66a34f9b47fe645d49adec 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.ts
+@@ -35,7 +35,7 @@ export const seatToggles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row's context value names whether the seat runs and where it stands.",
++      statement: "A row's context value names whether the seat runs and where it is.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts b/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts
+index 52df55fc8e65f95096850026cddcb4b8dd47edaf..1e86a9eae7d8a39db59317a27bcce98f1f31be5e 100644
+--- a/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts
++++ b/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts
+@@ -34,7 +34,7 @@ export const subagentCheckpoints = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The book stands under the ops cache in the home directory.",
++      statement: "The book sits under the ops cache in the home directory.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/editor-extension/terminal-sync/terminal-sync.module.ts b/editor-extension/terminal-sync/terminal-sync.module.ts
+index f62729e80322588fcdee4fd7dc893da06b1bef66..43df2537d3c094151e9a2d0e4b5354281410cdf1 100644
+--- a/editor-extension/terminal-sync/terminal-sync.module.ts
++++ b/editor-extension/terminal-sync/terminal-sync.module.ts
+@@ -4,7 +4,7 @@ export const terminalSync = {
+   id: "01a06811-01d3-7007-b8c1-0a170c1070e7",
+   pageTypeSlug: "module",
+   slug: "terminal-sync",
+-  definition: "the name and the color a terminal is given for the seat standing in it",
++  definition: "the name and the color a terminal is given for the seat in it",
+   code: "ts",
+   invariants: [
+     {
