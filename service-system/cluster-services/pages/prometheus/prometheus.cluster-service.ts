@@ -11,6 +11,5 @@ export const prometheus = {
   image: "prom/prometheus:v2.54.1",
   replicas: 1,
   containerPort: 9090,
-  manifestCode:
-    "service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts",
+  manifestSlug: "prometheus",
 } as const satisfies ClusterService
