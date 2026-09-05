@@ -25,7 +25,7 @@ export const graphClosure = {
     },
     {
       invariantKind: "departure",
-      statement: "Points come back in the order they were first seen.",
+      statement: "Points come back in the order those points were first seen.",
     },
   ],
 } as const satisfies Module
