@@ -1,15 +1,14 @@
 import { readFileSync } from "node:fs"
-import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
-import { inputError } from "@akasha/errors-core/exit-code"
-import { expandTilde } from "@akasha/utils-fs/expand-tilde"
-import "../command-entry/command-entry.module.code.ts"
 import type { CommandHelp, HelpFlag } from "@akasha/command-system/command-declaring"
 import {
   expandProseRoutes,
   normalizeRouteValue,
   planProseRouteReads,
 } from "@akasha/command-system/prose-routing"
+import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
+import { inputError } from "@akasha/errors-core/exit-code"
 import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
+import { expandTilde } from "@akasha/utils-fs/expand-tilde"
 
 export interface ParsedArgs {
   string: (name: string) => string | undefined
