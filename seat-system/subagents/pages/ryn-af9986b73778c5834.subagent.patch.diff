@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-updating/watcher-updating.module.ts b/temper/temper-watcher/watcher-updating/watcher-updating.module.ts
-index 2b97d66f2c88333d91c9d4eda82e53e26005540a..e620dba8daca4a2f261df3e0f7a3a5f00e057bb6 100644
+index 2b97d66f2c88333d91c9d4eda82e53e26005540a..c2e4589393ad09dc12cd9170f6b3f28176e3e858 100644
 --- a/temper/temper-watcher/watcher-updating/watcher-updating.module.ts
 +++ b/temper/temper-watcher/watcher-updating/watcher-updating.module.ts
 @@ -90,11 +90,11 @@ export const watcherUpdating = {
@@ -14,6 +14,15 @@ index 2b97d66f2c88333d91c9d4eda82e53e26005540a..e620dba8daca4a2f261df3e0f7a3a5f0
        invariantKind: "departure",
 -      statement: "A caller may hand in what fetches the executable.",
 +      statement: "A caller may hand in the fetch answering the executable.",
+     },
+     {
+       invariantKind: "departure",
+@@ -102,7 +102,7 @@ export const watcherUpdating = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what exits the worker.",
++      statement: "A caller may hand in the act exiting the worker.",
      },
      {
        invariantKind: "departure",
