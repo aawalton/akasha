@@ -28,3 +28,19 @@ index ba1f0efbc971a399f556cc4c91ddf94c8a787046..5b7f6e160388c34c2769c09958bc68b3
      {
        invariantKind: "departure",
        statement: "A story names the source the story was read from.",
+diff --git a/story/stories-written/story-written.page-type.ts b/story/stories-written/story-written.page-type.ts
+index cff37e60a98ce0e85e792511913ca1ac8c5908dd..6f51f6a09c7a546eee3db5bf1d41afe0812413d6 100644
+--- a/story/stories-written/story-written.page-type.ts
++++ b/story/stories-written/story-written.page-type.ts
+@@ -28,10 +28,7 @@ export const storyWritten = {
+       invariantKind: "departure",
+       statement: "A story written was set down chapter by chapter rather than played or read.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A story names the world the story is of.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "More than one story written may be of the one world.",
