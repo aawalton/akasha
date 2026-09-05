@@ -27,7 +27,7 @@ export const mobileSimTeardown = {
     },
     {
       invariantKind: "departure",
-      statement: "What is written down is cleared whether or not the session was still there.",
+      statement: "The session record is cleared whether or not the session was still there.",
     },
     {
       invariantKind: "absence",
