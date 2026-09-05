@@ -9,7 +9,7 @@ export const browserCommandArguing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag naming a value takes the word after it.",
+      statement: "A flag naming a value takes the word after that flag.",
     },
     {
       invariantKind: "departure",
