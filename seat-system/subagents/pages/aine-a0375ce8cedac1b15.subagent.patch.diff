@@ -21,7 +21,7 @@ index c0b0b58987d2e6e7f88703660df1069e0501749a..8dfd64fa31ea26a0acec3b7220505b78
      {
        invariantKind: "absence",
 diff --git a/person-system/person-reading/person-reading.module.code.ts b/person-system/person-reading/person-reading.module.code.ts
-index 796dfbf2f0a8d8670438b4ab0056a214977090d7..814984dd2f528f8deffa3463fd76a0ecb7ee93fd 100644
+index 796dfbf2f0a8d8670438b4ab0056a214977090d7..ec038ac2e57f97d4b89b07ce53d32a71c9ee5d00 100644
 --- a/person-system/person-reading/person-reading.module.code.ts
 +++ b/person-system/person-reading/person-reading.module.code.ts
 @@ -30,16 +30,16 @@ function valueOf(root: string, path: string): Value {
@@ -59,7 +59,7 @@ index 796dfbf2f0a8d8670438b4ab0056a214977090d7..814984dd2f528f8deffa3463fd76a0ec
          "names nobody is not a household of nobody"
      )
    }
-@@ -60,8 +60,8 @@ export function peopleStanding(root: string): readonly Person[] {
+@@ -60,14 +60,14 @@ export function peopleStanding(root: string): readonly Person[] {
  }
  
  export function personAt(root: string, slug: string): Person | null {
@@ -70,6 +70,13 @@ index 796dfbf2f0a8d8670438b4ab0056a214977090d7..814984dd2f528f8deffa3463fd76a0ec
  }
  
  export function personOr(root: string, slug: string): Person {
+   const held = personAt(root, slug)
+   if (held === null) {
+-    throw new Error(`\`${slug}\` names no person, so nobody stands there`)
++    throw new Error(`\`${slug}\` names no person, so nobody is there`)
+   }
+   return held
+ }
 diff --git a/person-system/push-apps/push-apps.module.ts b/person-system/push-apps/push-apps.module.ts
 index 68d50808cd6376c1de3b60c8d0953e59e3f269b3..4dcf138208a36a9a34a487122bc3b115afe5b5c4 100644
 --- a/person-system/push-apps/push-apps.module.ts
