@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commit-reading/commit-reading.module.ts b/command-system/commit-reading/commit-reading.module.ts
-index 82e6e3e9ca3ba294d60c4142b33b03a8c7702183..e439581dd47cea6f901e153d7bae4f80e2807dd0 100644
+index 82e6e3e9ca3ba294d60c4142b33b03a8c7702183..b1f1c6dcec70991ba7ce66fc93299115f6c2f649 100644
 --- a/command-system/commit-reading/commit-reading.module.ts
 +++ b/command-system/commit-reading/commit-reading.module.ts
 @@ -42,7 +42,7 @@ export const commitReading = {
@@ -12,3 +12,12 @@ index 82e6e3e9ca3ba294d60c4142b33b03a8c7702183..e439581dd47cea6f901e153d7bae4f80
      },
      {
        invariantKind: "absence",
+@@ -58,7 +58,7 @@ export const commitReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The commit is named by whoever asks.",
++      statement: "The commit is named by the caller asking.",
+     },
+   ],
+ } as const satisfies Module
