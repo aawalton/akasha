@@ -1,0 +1,11 @@
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts
+index 85b3e23d578c359ce883b15a45b5f60894473a47..1d2ae7a527b84ccc3a72578a4e748c27104574fc 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts
+@@ -12,6 +12,5 @@ export const rule90d1aa3b = {
+   action: "sell",
+   active: true,
+   updatedAt: "2026-06-02T18:57:41.940Z",
+-  goal: "sell",
+   conditions: "jsonl",
+ } as const satisfies TemperInventoryRule
