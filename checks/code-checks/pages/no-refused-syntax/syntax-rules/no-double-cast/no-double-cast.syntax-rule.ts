@@ -30,7 +30,7 @@ export const noDoubleCast = {
     },
     {
       invariantKind: "departure",
-      statement: "The pair is one assertion on another however it is written.",
+      statement: "The pair is one assertion on another however that pair is written.",
     },
     {
       invariantKind: "departure",
