@@ -133,11 +133,13 @@ export const readout = {
     },
     {
       invariantKind: "departure",
-      statement: "The place a readout carries is where it sits rather than how wide its figure is.",
+      statement:
+        "The place a readout carries is where that readout sits rather than how wide its figure is.",
     },
     {
       invariantKind: "departure",
-      statement: "A readout names the query answering it rather than holding the question.",
+      statement:
+        "A readout names the query answering that readout rather than holding the question.",
     },
     {
       invariantKind: "departure",
