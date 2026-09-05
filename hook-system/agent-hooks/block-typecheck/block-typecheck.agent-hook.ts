@@ -12,7 +12,7 @@ export const blockTypecheck = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every `tsc` call is refused whether it names a file or none.",
+      statement: "Every `tsc` call is refused whether that call names a file or none.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,8 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it does not hide a `tsc` from this hook.",
+      statement:
+        "A prefix that only runs the call behind that prefix does not hide a `tsc` from this hook.",
     },
     {
       invariantKind: "departure",
