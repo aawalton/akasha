@@ -103,7 +103,7 @@ index e7151f04e76019ee0c93eb6ae9186bbc39a8d779..f99983daee8f7e45541097af6731332d
      {
        invariantKind: "departure",
 diff --git a/seat-system/supervisor-decide/supervisor-decide.module.ts b/seat-system/supervisor-decide/supervisor-decide.module.ts
-index cacaa3bfc6978e5936ac32c8308c73b376d80e7a..e93f33850c4f6f8570544635a4ee9f64a6c4cbf6 100644
+index cacaa3bfc6978e5936ac32c8308c73b376d80e7a..32ea61ff118b0132d3063814407bdeb0a61eee35 100644
 --- a/seat-system/supervisor-decide/supervisor-decide.module.ts
 +++ b/seat-system/supervisor-decide/supervisor-decide.module.ts
 @@ -9,7 +9,7 @@ export const supervisorDecide = {
@@ -112,6 +112,16 @@ index cacaa3bfc6978e5936ac32c8308c73b376d80e7a..e93f33850c4f6f8570544635a4ee9f64
        invariantKind: "departure",
 -      statement: "This is run as its own program so a supervisor can kill it at a ceiling.",
 +      statement: "This module is run as its own program so a supervisor can kill it at a ceiling.",
+     },
+     {
+       invariantKind: "departure",
+@@ -17,7 +17,8 @@ export const supervisorDecide = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A payload asking nothing, or naming a decision this does not make, is refused.",
++      statement:
++        "A payload asking nothing, or naming a decision this module does not make, is refused.",
      },
      {
        invariantKind: "departure",
