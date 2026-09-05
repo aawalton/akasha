@@ -86,7 +86,7 @@ export const readoutSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "What a readout's reader wants from that readout costs one glance.",
+      statement: "The reading a readout's reader wants from that readout costs one glance.",
     },
     {
       invariantKind: "gap",
