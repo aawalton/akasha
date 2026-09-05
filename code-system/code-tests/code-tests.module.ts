@@ -175,7 +175,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world borrows what a run is configured by from that tree.",
+      statement: "A world borrows the files a run is configured by from that tree.",
     },
     {
       invariantKind: "departure",
