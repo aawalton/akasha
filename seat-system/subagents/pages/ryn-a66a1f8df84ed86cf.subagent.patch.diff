@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.ts b/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.ts
+index 8d5cea3f754d210687c4e62dc877eeb902459a21..65b04e5b4c5d9d35f1b9cbf9bbc578957e83e50c 100644
+--- a/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.ts
++++ b/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.ts
+@@ -19,7 +19,7 @@ export const supervisorRestartNoticeDecide = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An interrupt message stated with the restart is what the seat is told.",
++      statement: "An interrupt message stated with the restart is the notice the seat is told.",
+     },
+     {
+       invariantKind: "departure",
