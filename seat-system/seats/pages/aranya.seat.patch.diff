@@ -1279,3 +1279,11 @@ index 3e7d363caadc1f521024f28e1ee53d0e96d0bb4f..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-map-pins
 \ No newline at end of file
+diff --git a/temper/temper-lib-media-provider/temper-lib-media-provider b/temper/temper-lib-media-provider/temper-lib-media-provider
+deleted file mode 120000
+index 3ab99f0e2a9acb2376147360bb1e05f1a570e068..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-media-provider/temper-lib-media-provider
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-media-provider
+\ No newline at end of file
