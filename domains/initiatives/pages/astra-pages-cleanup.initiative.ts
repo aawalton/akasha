@@ -4,7 +4,7 @@ export const astraPagesCleanup = {
   id: "01a06cd9-a5d8-7ceb-980a-d9e77ebb0437",
   pageTypeSlug: "initiative",
   slug: "astra-pages-cleanup",
-  domainSlug: "workspace-package/pages",
+  domainSlug: "workspace-package/page",
   personaSlug: "astra",
   intents: [
     {
