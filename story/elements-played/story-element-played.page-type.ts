@@ -59,7 +59,7 @@ export const storyElementPlayed = {
     },
     {
       invariantKind: "departure",
-      statement: "What changes turn by turn sits beside the element's page.",
+      statement: "The faculties that change turn by turn sit beside the element's page.",
     },
     {
       invariantKind: "departure",
