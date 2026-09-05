@@ -13,7 +13,7 @@ export const kiMovie = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A movie of Ki's names the franchise it belongs to.",
+      statement: "A movie of Ki's names the franchise that movie belongs to.",
     },
     {
       invariantKind: "departure",
