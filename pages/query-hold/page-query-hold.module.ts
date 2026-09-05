@@ -9,7 +9,7 @@ export const pageQueryHold = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing is held until a caller says how long to hold it for.",
+      statement: "Nothing is held until a caller says how long to hold the answer for.",
     },
     {
       invariantKind: "departure",
