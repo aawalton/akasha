@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/service-system/services/service.page-type.ts b/service-system/services/service.page-type.ts
-index cf16ef6bd41b8d553bd75bd2ba14bcffe11a4b71..f00afe4fb3faad82954979bc27dc127ae1280982 100644
+index cf16ef6bd41b8d553bd75bd2ba14bcffe11a4b71..b9fe25aa46a863ef700984a16567f45ddde76535 100644
 --- a/service-system/services/service.page-type.ts
 +++ b/service-system/services/service.page-type.ts
-@@ -13,11 +13,11 @@ export const service = {
+@@ -13,15 +13,15 @@ export const service = {
    invariants: [
      {
        invariantKind: "departure",
@@ -14,6 +14,11 @@ index cf16ef6bd41b8d553bd75bd2ba14bcffe11a4b71..f00afe4fb3faad82954979bc27dc127a
        invariantKind: "departure",
 -      statement: "What runs a service settles which kind of service that service is.",
 +      statement: "A service's runner settles which kind of service that service is.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A service states what the service runs.",
++      statement: "A service states the program the service runs.",
      },
      {
        invariantKind: "departure",
