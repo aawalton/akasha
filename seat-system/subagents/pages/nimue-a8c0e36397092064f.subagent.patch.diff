@@ -344,6 +344,51 @@ index 9f4da887b18e838707b3a2ba2b1d78bd27451ddf..5a0e745436b59709550c38deaf5a362c
      views.set(slug, view)
      return view
    }
+diff --git a/pages/computing/page-computing.module.test.ts b/pages/computing/page-computing.module.test.ts
+index a9f5598ae1f39642e13b00e9dd75afb5f60ffbba..88309561632c5c021f6d3c35c925b2fee1758efc 100644
+--- a/pages/computing/page-computing.module.test.ts
++++ b/pages/computing/page-computing.module.test.ts
+@@ -145,40 +145,6 @@ describe("the values a page type's calculations work out", () => {
+     expect(working?.dark.get("here")).toContain("comes back to where that chain started")
+   })
+ 
+-  test("a calculation reading a key no calculation has worked yet is refused by name", () => {
+-    const source = sourceOf({
+-      day: {
+-        id: "1",
+-        value: { faithPoints: 2 },
+-        computed: [held("faith-stoplight", "text", (one) => (one["faithLevel"] === 3 ? "A" : "B"))],
+-        unready: [
+-          {
+-            key: "faithLevel",
+-            why: "`faith-level` is a formula, and a calculation reads no formula",
+-          },
+-        ],
+-      },
+-    })
+-    const working = computingOver(source).workedAt("day")
+-    expect(working?.dark.get("faithStoplight")).toContain("a calculation reads no formula")
+-    expect("faithStoplight" in (working?.value ?? {})).toBe(false)
+-  })
+-
+-  test("a key no calculation has worked yet is left out of what a page carries", () => {
+-    const source = sourceOf({
+-      day: {
+-        id: "1",
+-        value: { faithPoints: 2 },
+-        computed: [held("doubled", "number", (one) => (one["faithPoints"] as number) * 2)],
+-        unready: [{ key: "faithLevel", why: "not yet" }],
+-      },
+-    })
+-    const working = computingOver(source).workedAt("day")
+-    expect(working?.value["doubled"]).toBe(4)
+-    expect("faithLevel" in (working?.value ?? {})).toBe(false)
+-    expect(working?.dark.size).toBe(0)
+-  })
+-
+   test("a number that is not finite is absent on the page handed to a calculation", () => {
+     for (const odd of [Infinity, -Infinity, NaN]) {
+       const source = sourceOf({
 diff --git a/pages/formula-properties/formula-property.page-type.ts b/pages/formula-properties/formula-property.page-type.ts
 deleted file mode 100644
 index 5baba743503dd2b2aeda57ad8c1d69ae69b5893c..0000000000000000000000000000000000000000
