@@ -1,5 +1,5 @@
 diff --git a/commands/icloud/icloud.command.test.ts b/commands/icloud/icloud.command.test.ts
-index f394bde723ced693a95f6cc2798fe5f39b7a06ff..8b584928b04138c0e063f47c64e074b646a0c8aa 100644
+index f394bde723ced693a95f6cc2798fe5f39b7a06ff..8146e847dc239071f32f006daa8b5a901d0cabdd 100644
 --- a/commands/icloud/icloud.command.test.ts
 +++ b/commands/icloud/icloud.command.test.ts
 @@ -42,7 +42,7 @@ test("a flag with no value after it is refused", () => {
@@ -20,6 +20,15 @@ index f394bde723ced693a95f6cc2798fe5f39b7a06ff..8b584928b04138c0e063f47c64e074b6
    const read = readIn(["fetch", ALBUM, "--json"])
    if ("refused" in read) throw new Error("this was refused")
    expect(read.json).toBe(true)
+@@ -76,7 +76,7 @@ test("a folder named as a relative path is read against the repository root", ()
+   expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
+ })
+ 
+-test("a folder named as an absolute path stands as it is", () => {
++test("a folder named as an absolute path is taken as it is", () => {
+   expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
+ })
+ 
 diff --git a/commands/icloud/icloud.command.ts b/commands/icloud/icloud.command.ts
 index 3dfd3a535b62bb45f4a5288e04bf8627d1deb65d..a2836b7dddecdf9f160e2eb1ff6b29d6f5937285 100644
 --- a/commands/icloud/icloud.command.ts
@@ -56,7 +65,7 @@ index 04c2449d72668c433727103ac606ecf1737fd6f6..4298f6aa978f7f232e6adade518d7935
        code: 3,
      }
 diff --git a/commands/lint/lint.command.test.ts b/commands/lint/lint.command.test.ts
-index 5f6dfacfb89cbeef25c49ce5945878482109b2fa..fd3461883511e8ae5ca059d98e380a64d6574a09 100644
+index 5f6dfacfb89cbeef25c49ce5945878482109b2fa..391256baee9613e2a3ba9f84b0dba0137d5a55e0 100644
 --- a/commands/lint/lint.command.test.ts
 +++ b/commands/lint/lint.command.test.ts
 @@ -86,7 +86,7 @@ check("a tree the linter finds nothing in answers 0 and says so", () => {
@@ -77,3 +86,12 @@ index 5f6dfacfb89cbeef25c49ce5945878482109b2fa..fd3461883511e8ae5ca059d98e380a64
    const said = reportOf([
      finding("akasha/one.ts", 1),
      finding("akasha/one.ts", 12),
+@@ -122,7 +122,7 @@ check("findings are grouped by the file they stand in", () => {
+   expect(said[3]).toBe(`akasha/two.ts:3:1  ${RULE}  This variable is unused.`)
+ })
+ 
+-check("what is counted is the findings and the files they stand in", () => {
++check("what is counted is the findings and the files they are in", () => {
+   expect(many(1, "finding")).toBe("1 finding")
+   expect(many(0, "file")).toBe("0 files")
+   const said = sayingOf([finding("akasha/one.ts", 1), finding("akasha/two.ts", 3)])
