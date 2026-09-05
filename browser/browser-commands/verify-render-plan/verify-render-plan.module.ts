@@ -11,7 +11,7 @@ export const verifyRenderPlan = {
     {
       invariantKind: "departure",
       statement:
-        "A session is anonymous, throwaway or the real user, and each names the environment it needs.",
+        "A session is anonymous, throwaway or the real user, each naming the environment that session needs.",
     },
     {
       invariantKind: "departure",
