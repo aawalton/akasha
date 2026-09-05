@@ -9,7 +9,8 @@ export const wsBridge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What the caller sends before the target answers is held and sent on after.",
+      statement:
+        "The messages the caller sends before the target answers are held and sent on after.",
     },
     {
       invariantKind: "departure",
