@@ -1,5 +1,5 @@
 diff --git a/commands/drive/drive.command.ts b/commands/drive/drive.command.ts
-index f1ba2aeea59b446a0585a3994cf570611fd9e24e..599f2b858626d0f5fe97543b8fe5aafafde4ee26 100644
+index f1ba2aeea59b446a0585a3994cf570611fd9e24e..9a7e8ca2a70a6094d9c39dca2292833746a999a9 100644
 --- a/commands/drive/drive.command.ts
 +++ b/commands/drive/drive.command.ts
 @@ -4,7 +4,7 @@ export const drive = {
@@ -11,7 +11,7 @@ index f1ba2aeea59b446a0585a3994cf570611fd9e24e..599f2b858626d0f5fe97543b8fe5aafa
    code: "ts",
    test: "ts",
    changeKindSlug: "change-mechanical",
-@@ -28,10 +28,10 @@ export const drive = {
+@@ -28,12 +28,12 @@ export const drive = {
        said: "--source <url-or-id>",
        takes: "the file to fetch, said as a flag rather than in place",
      },
@@ -22,5 +22,8 @@ index f1ba2aeea59b446a0585a3994cf570611fd9e24e..599f2b858626d0f5fe97543b8fe5aafa
 -    "the words stand in order, and one call names one act.",
 +    "the words are in order, and one call names one act.",
      "the file is named in place after the act or as a flag, and naming it both ways over is refused.",
-     "every Drive URL shape is read for the id it carries, and a bare id is taken as it stands.",
+-    "every Drive URL shape is read for the id it carries, and a bare id is taken as it stands.",
++    "every Drive URL shape is read for the id it carries, and a bare id is taken as it is.",
      "the name the file lands under on disk is the name Drive holds for it.",
+     "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
+     "a Docs, Sheets or Slides file holds no bytes to download and is refused rather than exported.",
