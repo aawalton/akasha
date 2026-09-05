@@ -186,23 +186,6 @@ index 0000000000000000000000000000000000000000..7d697749a4b259a0e0dca871eb3fb639
 +    { name: "cronjob", yaml: cronjobYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index d552772b1624b1223e3b11788e26f0690e7a7e88..4b7719298bfd1b7dd69b440e02389edc10b8b229 100644
---- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -395,8 +395,12 @@ index 691401e862a32bcf7dae83a92203008254817c5f..12ee6bf5000b49c22320badedaca7444
-    image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
-    schedule: "0 */6 * * *",
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/job/pod-janitor/pod-janitor.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "pod-janitor",
- +=======
- +  manifestCode: "infrastructure/job/pod-janitor/pod-janitor.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 7d697749a4b259a0e0dca871eb3fb639e7eb21a9..0000000000000000000000000000000000000000
