@@ -1,7 +1,13 @@
 diff --git a/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts b/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
-index 4012c58d0c94eebdf127f017cde9c52ef988856b..c33b99b754023ee1b7d5f38134dbe5a89b9ab4cb 100644
+index 4012c58d0c94eebdf127f017cde9c52ef988856b..c755d164d12f03daefb32eaf0a6765fa7bea6d47 100644
 --- a/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
 +++ b/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
+@@ -1,4 +1,4 @@
+-import type { Answer, Given } from "@akasha/command-system/calling"
++import type { Answer } from "@akasha/command-system/calling"
+ import {
+   type Asked,
+   agentIdFor,
 @@ -86,10 +86,10 @@ export function askedOf(argv: readonly string[], at: number, salt: number): Aske
    }
  }
