@@ -38,7 +38,7 @@ export const noLocalMidnightParse = {
     },
     {
       invariantKind: "departure",
-      statement: "An hour that is not midnight stands.",
+      statement: "An hour that is not midnight is left.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,7 @@ export const noLocalMidnightParse = {
     },
     {
       invariantKind: "gap",
-      statement: "The two stand apart.",
+      statement: "The two sit apart.",
     },
   ],
 } as const satisfies SyntaxRule

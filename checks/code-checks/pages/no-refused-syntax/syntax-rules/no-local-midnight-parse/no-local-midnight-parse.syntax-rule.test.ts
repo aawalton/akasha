@@ -40,39 +40,39 @@ test("a midnight pinned at the end of a longer sum is refused", () => {
   expect(noLocalMidnightParse(parsed(text))).toHaveLength(1)
 })
 
-test("an hour that is not midnight stands", () => {
+test("an hour that is not midnight is left", () => {
   expect(noLocalMidnightParse(parsed('const at = new Date(day + "T12:30")\n'))).toEqual([])
 })
 
-test("a date built from nothing stands", () => {
+test("a date built from nothing is left", () => {
   expect(noLocalMidnightParse(parsed("const at = new Date()\n"))).toEqual([])
 })
 
-test("a date built from milliseconds stands", () => {
+test("a date built from milliseconds is left", () => {
   expect(noLocalMidnightParse(parsed("const at = new Date(Date.now() - 60000)\n"))).toEqual([])
 })
 
-test("a whole-day duration stands, holding no date at all", () => {
+test("a whole-day duration is left, holding no date at all", () => {
   expect(noLocalMidnightParse(parsed("const day = 24 * 60 * 60 * 1000\n"))).toEqual([])
 })
 
-test("an hour counted in milliseconds stands, this rule not being about arithmetic", () => {
+test("an hour counted in milliseconds is left, this rule not being about arithmetic", () => {
   expect(noLocalMidnightParse(parsed("const hour = 60 * 60 * 1000\n"))).toEqual([])
 })
 
-test("a midnight named in prose stands, nothing reading it as a date", () => {
+test("a midnight named in prose is left, nothing reading it as a date", () => {
   expect(noLocalMidnightParse(parsed('const said = "the run starts at T00:00"\n'))).toEqual([])
 })
 
-test("a midnight joined onto something no Date reads stands", () => {
+test("a midnight joined onto something no Date reads is left", () => {
   expect(noLocalMidnightParse(parsed('const said = day + "T00:00"\n'))).toEqual([])
 })
 
-test("a builder other than Date stands", () => {
+test("a builder other than Date is left", () => {
   expect(noLocalMidnightParse(parsed('const at = new Stamp(day + "T00:00")\n'))).toEqual([])
 })
 
-test("the line named is the line the date stands on", () => {
+test("the line named is the line the date is on", () => {
   const text = 'const one = 1\nconst at = new Date(day + "T00:00")\n'
   expect(noLocalMidnightParse(parsed(text))[0]?.line).toBe(2)
 })

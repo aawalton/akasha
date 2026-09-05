@@ -7,7 +7,7 @@ const MIDNIGHT = /^T00:00(:00(\.\d+)?)?/
 const DATE = "Date"
 
 const READ_WHERE =
-  "so what comes back is midnight where the machine stands rather than midnight where the day is"
+  "so what comes back is midnight where the machine is rather than midnight where the day is"
 
 function joinedOn(node: ts.Expression): boolean {
   if (!ts.isBinaryExpression(node)) return false
