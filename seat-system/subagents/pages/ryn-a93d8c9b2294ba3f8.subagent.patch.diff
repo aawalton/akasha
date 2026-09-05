@@ -1,3 +1,17 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+index bc2880f44717b793050a60b7c68ee40c03f9a907..0da14997c2834686fee0ce1143c92268b2661d04 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+@@ -199,5 +199,9 @@ export const folderShape = {
+       invariantKind: "departure",
+       statement: "A shape judging no folder keeps its page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page is declared a part by its page type and slug together.",
++    },
+   ],
+ } as const satisfies PageType
 diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
 index e2855edbd9704cccabe052af68b8052a12f8e9ec..c21a0911634f971313ead9e6b65fdc6b115ca67a 100644
 --- a/editor-extension/editor-extension.workspace-package.ts
