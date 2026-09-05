@@ -25,7 +25,7 @@ export const assignmentItself = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a seat warrants an assignment of what the seat states.",
+      statement: "Only a seat warrants an assignment of the page that seat states.",
     },
     {
       invariantKind: "departure",
