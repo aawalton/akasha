@@ -29,11 +29,12 @@ export const refactorLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run says what the dry run would land and writes nothing.",
+      statement: "A dry run says the files the dry run would land and writes nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "What an act says about its own rename is handed in rather than worked out here.",
+      statement:
+        "The words an act says about its own rename are handed in rather than worked out here.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +56,7 @@ export const refactorLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out what a rename would change.",
+      statement: "Nothing here works out the bodies a rename would change.",
     },
   ],
 } as const satisfies Module
