@@ -38,3 +38,55 @@ index 0c9b70add0497db696f6d1358ec571605f199c44..c2967aaefc3f19e1d9d28c00c2105143
      },
      {
        invariantKind: "departure",
+diff --git a/service-system/workstation-services/properties/jitter-seconds.number-property.ts b/service-system/workstation-services/properties/jitter-seconds.number-property.ts
+index bae3a72dd9da83a35e9f12dc13b96bda2ce2698e..a247c53208d0b72c4b82c9ccb97b82b5ce3a997f 100644
+--- a/service-system/workstation-services/properties/jitter-seconds.number-property.ts
++++ b/service-system/workstation-services/properties/jitter-seconds.number-property.ts
+@@ -12,7 +12,7 @@ export const jitterSeconds = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Each timer stating this starts at its own moment.",
++      statement: "Each timer stating this property starts at its own moment.",
+     },
+   ],
+ } as const satisfies NumberProperty
+diff --git a/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts b/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts
+index c9fe924f7e76b537fe76640ef48eb2a5358811fb..23a02ae828d4da1247fdcd51f601857b2d309a8a 100644
+--- a/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts
+@@ -9,7 +9,7 @@ export const checkAddonDependencyFloor = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "The population this run states is the add-ons on the roster.",
++      statement: "The population the run states is the add-ons on the roster.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts b/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts
+index 66de75b113ce933752cb32d236d87a0e5b1e9161..8d1f55f3b20a4a4e3baca7b43df115fe77d91038 100644
+--- a/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts
+@@ -10,7 +10,7 @@ export const checkAddonSandboxLoad = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "The population this run states is the emitted bundles under the build output.",
++      statement: "The population the run states is the emitted bundles under the build output.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+index a43e699b1bbb2b9004bd9fe77e208fa6b750556f..ea453c9de6a10a07d91151249b9ea2143e8003c4 100644
+--- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
++++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+@@ -80,7 +80,7 @@ export const inventoryRuleCalling = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The rule store this reads through is in akasha.",
++      statement: "The rule store this module reads through is in akasha.",
+     },
+     {
+       invariantKind: "absence",
