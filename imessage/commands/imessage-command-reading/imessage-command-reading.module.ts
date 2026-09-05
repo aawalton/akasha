@@ -23,7 +23,7 @@ export const imessageCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A word alone fills the flag the command names for it.",
+      statement: "A word alone fills the flag the command names for that word.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const imessageCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag that does not repeat is refused where it is said twice.",
+      statement: "A flag that does not repeat is refused where that flag is said twice.",
     },
     {
       invariantKind: "departure",
@@ -56,12 +56,12 @@ export const imessageCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A message Alan sent carries an arrow away from him.",
+      statement: "A message Alan sent carries an arrow away from Alan.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A fault thrown at the mac is answered as operational unless it names its own code.",
+        "A fault thrown at the mac is answered as operational unless that fault names its own code.",
     },
     {
       invariantKind: "absence",
