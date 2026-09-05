@@ -11,16 +11,3 @@ index b21a89d06228ee63aff56e092dd648b50249ca33..1bb6c24d2cb1bb3eedcf658caac1994f
            `is answered, so a fleet of none is the pages being wrong rather than a fleet`,
        ],
        code: 2,
-diff --git a/commands/track/session-rows/session-rows.module.code.ts b/commands/track/session-rows/session-rows.module.code.ts
-index d29efd47854ccb6b805610bc2c7cf829dab937d4..42fd6a864d8db19592f8ea148703472bb44ec60e 100644
---- a/commands/track/session-rows/session-rows.module.code.ts
-+++ b/commands/track/session-rows/session-rows.module.code.ts
-@@ -306,7 +306,7 @@ export function heldFor(root: string, day: string): Held | string {
-   try {
-     pageSaid = readFileSync(page, "utf8")
-   } catch {
--    return `no day page stands for ${day}, so there is nothing here to act on`
-+    return `no day page exists for ${day}, so there is nothing here to act on`
-   }
-   const id = idIn(pageSaid)
-   if (id === null) return `the day page for ${day} carries no id, so no row can name it`
