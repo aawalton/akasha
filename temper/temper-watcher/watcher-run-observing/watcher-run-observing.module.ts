@@ -18,7 +18,7 @@ export const watcherRunObserving = {
     },
     {
       invariantKind: "departure",
-      statement: "An operation that throws is an upload failure carrying what was thrown.",
+      statement: "An operation that throws is an upload failure carrying the error thrown.",
     },
     {
       invariantKind: "departure",
