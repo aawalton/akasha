@@ -1399,3 +1399,11 @@ index d8b4d11e4504dba3047f1d94a24abbaa5f4306af..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-narrow
 \ No newline at end of file
+diff --git a/temper/temper-navigation-addon/temper-navigation-addon b/temper/temper-navigation-addon/temper-navigation-addon
+deleted file mode 120000
+index 97b70c302b7f7255b0f16f646c249dbc33746711..0000000000000000000000000000000000000000
+--- a/temper/temper-navigation-addon/temper-navigation-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-navigation-addon
+\ No newline at end of file
