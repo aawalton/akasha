@@ -17,7 +17,7 @@ export const blockGitWrites = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal names the akasha command that does what was asked with its flags filled in.",
+        "A refusal names the akasha command that does the git write asked for with its flags filled in.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "constraint",
-      statement: "What a commit would carry is in the index rather than on the command line.",
+      statement: "The paths a commit would carry are in the index rather than on the command line.",
     },
     {
       invariantKind: "constraint",
