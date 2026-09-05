@@ -1,0 +1,494 @@
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.code.ts b/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e3c36fffa906180f5969735ad9306f402d653fa9
+--- /dev/null
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
+@@ -0,0 +1,160 @@
++import { readdirSync, readFileSync } from "node:fs"
++import { join } from "node:path"
++import { columnsOf } from "../checkout-counting/checkout-counting.module.code.ts"
++
++const PAGES_AT = "checks/code-checks/pages"
++
++const ENTRIES_NAMED = /\.code-check\.entries\.uncommitted\.jsonl$/
++
++const PATCH = "patch"
++
++const AUDIT = "audit"
++
++const ABSENT = "-"
++
++const HEADING: readonly string[] = ["check", "patch cpu", "patch mem", "full cpu", "full mem"]
++
++const UNREAD = "these were not read, and count no runs:"
++
++const OTHER = "these runs name a phase this does not split by:"
++
++const KIB = 1024
++
++const MIB = 1024 * 1024
++
++const GIB = 1024 * 1024 * 1024
++
++export interface Run {
++  readonly phase: string
++  readonly cpu: number
++  readonly mem: number | null
++}
++
++export interface CheckCost {
++  readonly check: string
++  readonly patchCpu: number | null
++  readonly patchMem: number | null
++  readonly auditCpu: number | null
++  readonly auditMem: number | null
++}
++
++export interface Costs {
++  readonly checks: readonly CheckCost[]
++  readonly unread: readonly string[]
++  readonly other: readonly string[]
++}
++
++export function medianOf(found: readonly number[]): number | null {
++  if (found.length === 0) return null
++  const sorted = [...found].sort((a, b) => a - b)
++  if (sorted.length % 2 === 1) return sorted[(sorted.length - 1) / 2] ?? null
++  const half = sorted.length / 2
++  return ((sorted[half - 1] ?? 0) + (sorted[half] ?? 0)) / 2
++}
++
++export function runsIn(body: string): readonly Run[] {
++  const found: Run[] = []
++  for (const line of body.split("\n")) {
++    if (line.trim() === "") continue
++    const one = JSON.parse(line) as Record<string, unknown>
++    found.push({
++      phase: String(one["phase"] ?? ""),
++      cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
++      mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
++    })
++  }
++  return found
++}
++
++function memoryOf(some: readonly Run[]): readonly number[] {
++  return some.flatMap((one) => (one.mem === null ? [] : [one.mem]))
++}
++
++export function costOf(check: string, runs: readonly Run[]): CheckCost {
++  const patch = runs.filter((one) => one.phase === PATCH)
++  const audit = runs.filter((one) => one.phase === AUDIT)
++  return {
++    check,
++    patchCpu: medianOf(patch.map((one) => one.cpu)),
++    patchMem: medianOf(memoryOf(patch)),
++    auditCpu: medianOf(audit.map((one) => one.cpu)),
++    auditMem: medianOf(memoryOf(audit)),
++  }
++}
++
++export function byPatchCpu(a: CheckCost, b: CheckCost): number {
++  if (a.patchCpu === null && b.patchCpu === null) return a.check.localeCompare(b.check)
++  if (a.patchCpu === null) return 1
++  if (b.patchCpu === null) return -1
++  return b.patchCpu - a.patchCpu || a.check.localeCompare(b.check)
++}
++
++function namedIn(root: string, folder: string): string | undefined {
++  try {
++    return readdirSync(join(root, PAGES_AT, folder)).find((one) => ENTRIES_NAMED.test(one))
++  } catch {
++    return undefined
++  }
++}
++
++export function costsIn(root: string): Costs {
++  let folders: readonly string[]
++  try {
++    folders = readdirSync(join(root, PAGES_AT))
++  } catch {
++    return { checks: [], unread: [], other: [] }
++  }
++  const checks: CheckCost[] = []
++  const unread: string[] = []
++  const other = new Map<string, number>()
++  for (const folder of [...folders].sort()) {
++    const name = namedIn(root, folder)
++    if (name === undefined) continue
++    const path = join(PAGES_AT, folder, name)
++    let runs: readonly Run[]
++    try {
++      runs = runsIn(readFileSync(join(root, path), "utf8"))
++    } catch {
++      unread.push(path)
++      continue
++    }
++    for (const one of runs) {
++      if (one.phase === PATCH || one.phase === AUDIT) continue
++      other.set(one.phase, (other.get(one.phase) ?? 0) + 1)
++    }
++    if (runs.length > 0) checks.push(costOf(folder, runs))
++  }
++  return {
++    checks: [...checks].sort(byPatchCpu),
++    unread,
++    other: [...other].map(([phase, count]) => `${phase}: ${count}`),
++  }
++}
++
++export function bytesAs(count: number): string {
++  if (count >= GIB) return `${(count / GIB).toFixed(1)} GiB`
++  if (count >= MIB) return `${(count / MIB).toFixed(1)} MiB`
++  if (count >= KIB) return `${(count / KIB).toFixed(1)} KiB`
++  return `${count} B`
++}
++
++export function secondsAs(count: number): string {
++  return `${count.toFixed(3)}s`
++}
++
++function rowOf(one: CheckCost): readonly string[] {
++  return [
++    one.check,
++    one.patchCpu === null ? ABSENT : secondsAs(one.patchCpu),
++    one.patchMem === null ? ABSENT : bytesAs(one.patchMem),
++    one.auditCpu === null ? ABSENT : secondsAs(one.auditCpu),
++    one.auditMem === null ? ABSENT : bytesAs(one.auditMem),
++  ]
++}
++
++export function linesOf(costs: Costs): readonly string[] {
++  const said = [...columnsOf([HEADING, ...costs.checks.map(rowOf)])]
++  if (costs.other.length > 0) said.push("", OTHER, ...costs.other)
++  if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
++  return said
++}
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.test.ts b/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..315ff2b50d380da7e8c80f138c4735a6725bdf1b
+--- /dev/null
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
+@@ -0,0 +1,154 @@
++import { afterAll, expect, test } from "bun:test"
++import { put } from "@akasha/testing-system/putting"
++import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
++import {
++  bytesAs,
++  costOf,
++  costsIn,
++  linesOf,
++  medianOf,
++  runsIn,
++  secondsAs,
++} from "./check-measuring.module.code.ts"
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++function lineOf(one: Record<string, unknown>): string {
++  return JSON.stringify({
++    ranAt: "2026-09-05T00:00:00.000Z",
++    wallMs: 0,
++    cpuSeconds: 0,
++    childCpuSeconds: 0,
++    peakBytes: 0,
++    residentBeforeBytes: 0,
++    peakAddedBytes: 0,
++    peakMeasured: true,
++    pathsJudged: 1,
++    refusals: 0,
++    ...one,
++  })
++}
++
++function rootWith(held: Record<string, readonly Record<string, unknown>[]>): string {
++  const root = scratch.rootFor("check-measuring-")
++  for (const [check, rows] of Object.entries(held)) {
++    put(
++      root,
++      `checks/code-checks/pages/${check}/${check}.code-check.entries.uncommitted.jsonl`,
++      `${rows.map(lineOf).join("\n")}\n`
++    )
++  }
++  return root
++}
++
++test("a median of an even count of runs is the mean of the two middle runs", () => {
++  expect(medianOf([1, 2, 3])).toBe(2)
++  expect(medianOf([1, 2, 3, 4])).toBe(2.5)
++  expect(medianOf([])).toBe(null)
++})
++
++test("a run's processor time is its own together with the children it reaped", () => {
++  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 1.5, childCpuSeconds: 2.25 }))
++
++  expect(runs[0]?.cpu).toBe(3.75)
++})
++
++test("a run that forgot no high-water mark is left out of memory but kept in processor time", () => {
++  const runs = runsIn(
++    [
++      lineOf({ phase: "patch", cpuSeconds: 4, peakAddedBytes: 999, peakMeasured: false }),
++      lineOf({ phase: "patch", cpuSeconds: 2, peakAddedBytes: 100 }),
++    ].join("\n")
++  )
++  const cost = costOf("one", runs)
++
++  expect(cost.patchCpu).toBe(3)
++  expect(cost.patchMem).toBe(100)
++})
++
++test("a phase no run was judged at carries no median rather than a median of zero", () => {
++  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
++
++  expect(cost.patchCpu).toBe(0)
++  expect(cost.auditCpu).toBe(null)
++  const said = linesOf({ checks: [cost], unread: [], other: [] })[1] ?? ""
++
++  expect(said).toContain("0.000s")
++  expect(said.endsWith("-")).toBe(true)
++})
++
++test("checks are ordered by what their patch runs took, and no patch run comes last", () => {
++  const root = rootWith({
++    fast: [{ phase: "patch", cpuSeconds: 1 }],
++    slow: [{ phase: "patch", cpuSeconds: 9 }],
++    "audit-only": [{ phase: "audit", cpuSeconds: 50 }],
++    "b-tie": [{ phase: "patch", cpuSeconds: 1 }],
++  })
++
++  expect(costsIn(root).checks.map((one) => one.check)).toEqual([
++    "slow",
++    "b-tie",
++    "fast",
++    "audit-only",
++  ])
++})
++
++test("a patch run and an audit run are split apart", () => {
++  const root = rootWith({
++    one: [
++      { phase: "patch", cpuSeconds: 2, peakAddedBytes: 2048 },
++      { phase: "audit", cpuSeconds: 8, peakAddedBytes: 1048576 },
++    ],
++  })
++  const cost = costsIn(root).checks[0]
++
++  expect(cost?.patchCpu).toBe(2)
++  expect(cost?.patchMem).toBe(2048)
++  expect(cost?.auditCpu).toBe(8)
++  expect(cost?.auditMem).toBe(1048576)
++})
++
++test("a run naming a phase this does not split by is counted beneath the table", () => {
++  const root = rootWith({
++    one: [
++      { phase: "patch", cpuSeconds: 1 },
++      { phase: "worktree", cpuSeconds: 3 },
++      { phase: "deploy", cpuSeconds: 4 },
++      { phase: "worktree", cpuSeconds: 5 },
++    ],
++  })
++  const costs = costsIn(root)
++
++  expect(costs.checks[0]?.patchCpu).toBe(1)
++  expect(costs.other).toEqual(["worktree: 2", "deploy: 1"])
++  expect(linesOf(costs)).toContain("these runs name a phase this does not split by:")
++})
++
++test("entries that could not be read are named beneath the table", () => {
++  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] })
++  put(root, "checks/code-checks/pages/bad/bad.code-check.entries.uncommitted.jsonl", "{not json\n")
++  const costs = costsIn(root)
++
++  expect(costs.checks.map((one) => one.check)).toEqual(["one"])
++  expect(costs.unread).toEqual([
++    "checks/code-checks/pages/bad/bad.code-check.entries.uncommitted.jsonl",
++  ])
++})
++
++test("memory is scaled to the unit that fits and processor time runs to three decimals", () => {
++  expect(bytesAs(0)).toBe("0 B")
++  expect(bytesAs(8192)).toBe("8.0 KiB")
++  expect(bytesAs(29546496)).toBe("28.2 MiB")
++  expect(bytesAs(4559089664)).toBe("4.2 GiB")
++  expect(secondsAs(3.939)).toBe("3.939s")
++})
++
++test("a root holding no checks answers no check rather than throwing", () => {
++  expect(costsIn(scratch.rootFor("check-measuring-empty-"))).toEqual({
++    checks: [],
++    unread: [],
++    other: [],
++  })
++})
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4d9feaa11aad2c8aabe4ec0f80ff48a0136c6a17
+--- /dev/null
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+@@ -0,0 +1,77 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const checkMeasuring = {
++  id: "01a0735c-1733-7951-92bb-c79e18a063a2",
++  pageTypeSlug: "module",
++  slug: "check-measuring",
++  definition:
++    "how much processor time and memory each check's runs took, split by the phase judged at",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A check's runs are read from the entries beside that check's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run's processor time is that run's own together with the children it reaped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run's memory is what that run added over the memory resident when it opened.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run that forgot no high-water mark is left out of a memory median.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That run is counted in a processor median all the same.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A patch run judges the paths a change carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An audit run judges every page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A median of an even count of runs is the mean of the two middle runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A phase no run was judged at carries no median rather than a median of zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Checks are ordered by what their patch runs took, the longest first.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A check carrying no patch run is ordered after every check carrying one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Checks taking equal processor time are ordered by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run naming a phase this does not split by is counted beneath the table.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Entries that could not be read are named beneath the table.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A check whose page holds no entries is not answered.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/command-system/commands/measure/measure.command.code.ts b/command-system/commands/measure/measure.command.code.ts
+index 9af979c72218cbd149e55ceb3e9590edc587646b..6775f87dbf6b07beac1cbb86c68a49fc61b8578a 100644
+--- a/command-system/commands/measure/measure.command.code.ts
++++ b/command-system/commands/measure/measure.command.code.ts
+@@ -1,6 +1,7 @@
+ import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
+ import { notesOf, refreshAll } from "@akasha/agents/claude-account-refreshing"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { linesOf as checkLinesOf, costsIn } from "./check-measuring/check-measuring.module.code.ts"
+ import {
+   linesOf as costLinesOf,
+   countedIn,
+@@ -19,11 +20,13 @@ const REPO = "repo"
+ 
+ const PAGES = "pages"
+ 
++const CHECKS = "checks"
++
+ const COST = "cost"
+ 
+ const DAYS = 30
+ 
+-const SUBJECTS: readonly string[] = [CLAUDE_ACCOUNTS, REPO, PAGES]
++const SUBJECTS: readonly string[] = [CLAUDE_ACCOUNTS, REPO, PAGES, CHECKS]
+ 
+ const ACTS: readonly string[] = [COST]
+ 
+@@ -64,6 +67,10 @@ function measurePages(given: Given): Answer {
+   return { report: [...pageLinesOf(pageCountsIn(given.root))], refusals: [], code: 0 }
+ }
+ 
++function measureChecks(given: Given): Answer {
++  return { report: [...checkLinesOf(costsIn(given.root))], refusals: [], code: 0 }
++}
++
+ function measureCost(): Answer {
+   const until = Date.now()
+   const counted = countedIn(storeHere(), sinceOf(until, DAYS), until)
+@@ -83,7 +90,8 @@ export function measure(argv: readonly string[], given: Given): Answer | Promise
+   const act = argv[1]
+   if (act === undefined) {
+     if (subject === CLAUDE_ACCOUNTS) return measureClaudeAccounts(given)
+-    return subject === REPO ? measureRepo(given) : measurePages(given)
++    if (subject === REPO) return measureRepo(given)
++    return subject === PAGES ? measurePages(given) : measureChecks(given)
+   }
+   if (argv.length > 2) {
+     return refusing(
+diff --git a/command-system/commands/measure/measure.command.ts b/command-system/commands/measure/measure.command.ts
+index d4cbba5d1624deecf79f2fa9dc16ed1d255196fc..59bafa62764571c5fc989107372ba7519b3ae260 100644
+--- a/command-system/commands/measure/measure.command.ts
++++ b/command-system/commands/measure/measure.command.ts
+@@ -9,13 +9,17 @@ export const measure = {
+   test: "ts",
+   changeKindSlug: "change-mechanical",
+   partSlugs: [
++    "module/check-measuring",
+     "module/checkout-counting",
+     "module/claude-account-costing",
+     "module/page-measuring",
+     "module/repo-measuring",
+   ],
+   taking: [
+-    { said: "<subject>", takes: "what to measure, which is `claude-accounts`, `repo` or `pages`" },
++    {
++      said: "<subject>",
++      takes: "what to measure, which is `claude-accounts`, `repo`, `pages` or `checks`",
++    },
+     { said: "cost", takes: "the act, which is to price the calls the transcripts here hold" },
+   ],
+   helpNotes: [
+@@ -46,6 +50,13 @@ export const measure = {
+     "how many files are no page at all is said beneath the total.",
+     "`repo` counts what git counts: tracked files, and untracked files the repository keeps.",
+     "what the repository ignores is not counted, so built output is no file waiting to arrive.",
++    "`checks` says what each check's runs cost in processor time and memory, split by phase.",
++    "a patch run judges the paths a change carries, and an audit run judges every page.",
++    "a run's processor time is that run's own together with the children that run reaped.",
++    "a run's memory is what that run added over the memory resident when the run opened.",
++    "a run that forgot no high-water mark is left out of the memory it would otherwise report.",
++    "a phase no run was judged at is drawn as `-`, which is not a median of zero.",
++    "checks are ordered by what their patch runs took, and a check with no patch run comes last.",
+   ],
+   invariants: [
+     {
