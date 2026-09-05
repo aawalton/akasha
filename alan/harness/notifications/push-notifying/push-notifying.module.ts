@@ -47,7 +47,7 @@ export const pushNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "The loop runs until it is asked to stop, and a stop ends it at the next boundary.",
+        "The loop runs until that loop is asked to stop, and a stop ends that loop at the next boundary.",
     },
     {
       invariantKind: "gap",
