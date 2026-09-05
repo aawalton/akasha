@@ -1,5 +1,5 @@
 diff --git a/commands/agent-forest/agent-forest.command.ts b/commands/agent-forest/agent-forest.command.ts
-index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..24fa241b2f87bc94fa417a69737c0d94aaa3bd85 100644
+index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..4326ffe0e8b50283cac4c2b58adb3c86d20d543f 100644
 --- a/commands/agent-forest/agent-forest.command.ts
 +++ b/commands/agent-forest/agent-forest.command.ts
 @@ -48,7 +48,7 @@ export const agentForest = {
@@ -11,7 +11,7 @@ index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..24fa241b2f87bc94fa417a69737c0d94
      },
      {
        invariantKind: "departure",
-@@ -58,16 +58,17 @@ export const agentForest = {
+@@ -58,21 +58,22 @@ export const agentForest = {
      {
        invariantKind: "departure",
        statement:
@@ -29,6 +29,12 @@ index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..24fa241b2f87bc94fa417a69737c0d94
        statement:
 -        "A seat the working tree no longer holds is read from the newest commit that held it.",
 +        "A seat the working tree no longer holds is read from the newest commit that held that seat.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "`principal` names a person, or `agent` where the page names a seat above it instead.",
++        "`principal` names a person, or `agent` where the page names a seat above that page instead.",
      },
      {
        invariantKind: "departure",
