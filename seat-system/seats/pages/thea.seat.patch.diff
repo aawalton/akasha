@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
+index d9a5e92d10cb0a63f7701f1a48730ec2319e72e8..35d4f4823964d7e6e5ddd761e2d00279028bab4d 100644
+--- a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
++++ b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
+@@ -78,7 +78,7 @@ test("a path no page claims is refused, and the refusal says why it matters", ()
+   const root = rooted()
+   const said = judged(arriving(root, ["akasha/a/stray.ts"]))
+   expect(said).toEqual([{ path: "akasha/a/stray.ts", reason: UNCLAIMED }])
+-  expect(UNCLAIMED).toContain("enumerated by nothing and audited by nothing")
++  expect(UNCLAIMED).toContain("no page claims this file")
+ })
+ 
+ test("a file beside a page that no page property names is refused", () => {
