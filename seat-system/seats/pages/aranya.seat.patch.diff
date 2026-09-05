@@ -839,3 +839,11 @@ index 6b03272bfdac089574e7116cc3ea5cd6f207641d..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-community-addons
 \ No newline at end of file
+diff --git a/temper/temper-companion-codec/temper-companion-codec b/temper/temper-companion-codec/temper-companion-codec
+deleted file mode 120000
+index 2e1bc18735bc571ac41b8c9d988424805a55aa1f..0000000000000000000000000000000000000000
+--- a/temper/temper-companion-codec/temper-companion-codec
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-companion-codec
+\ No newline at end of file
