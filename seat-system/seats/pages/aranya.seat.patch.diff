@@ -231,3 +231,11 @@ index ade747d295ae937f3f1773581e48139a928f95a1..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/cluster-manifests
 \ No newline at end of file
+diff --git a/infrastructure/comfy/comfy b/infrastructure/comfy/comfy
+deleted file mode 120000
+index a5cd2a57708bcd3bd0e6b25b2e1f9c7b0c28d874..0000000000000000000000000000000000000000
+--- a/infrastructure/comfy/comfy
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/comfy
+\ No newline at end of file
