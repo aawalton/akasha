@@ -1,5 +1,5 @@
 diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
-index 341ff687bbf17b39865425b473beeb08c3079905..aa693ad86d2e2e70b7bed559e04f0eddbcd107d8 100644
+index 341ff687bbf17b39865425b473beeb08c3079905..e0b7ba217155aab40de3a0b63c00eeb5152e7888 100644
 --- a/command-system/asking/asking.module.test.ts
 +++ b/command-system/asking/asking.module.test.ts
 @@ -42,7 +42,7 @@ import {
@@ -11,6 +11,15 @@ index 341ff687bbf17b39865425b473beeb08c3079905..aa693ad86d2e2e70b7bed559e04f0edd
    const root = repoWith()
    const was = headOf(root)
    const said = await landingAsked(givenIn(root), asking({}))
+@@ -56,7 +56,7 @@ test("a report that could not be built leaves the landing standing, and says so"
+   )
+ })
+ 
+-test("a report that could not be built over a removal leaves the removal standing", async () => {
++test("a report that could not be built over a removal leaves the removal in place", async () => {
+   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
+   const was = headOf(root)
+   const said = await landingAsked(
 diff --git a/command-system/calling/calling.module.test.ts b/command-system/calling/calling.module.test.ts
 index d9569af5ebc5ec3b3fac78b21fab807bc8198d7e..34845be26f60b7795c23fa72dde84c201249958d 100644
 --- a/command-system/calling/calling.module.test.ts
@@ -25,7 +34,7 @@ index d9569af5ebc5ec3b3fac78b21fab807bc8198d7e..34845be26f60b7795c23fa72dde84c20
    const said = await calling(["held", "one"], { ...OUTSIDE, root })
    expect(said.code).toBe(0)
 diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
-index fcd3cf932790e7ce0d14de2a5172db5246ba80e7..079cf3cbdb462644acf3f6d14e3a665334e978cf 100644
+index fcd3cf932790e7ce0d14de2a5172db5246ba80e7..85b946df467a52dd0ce57bc5ef38ccde28d9b5fc 100644
 --- a/command-system/change-freshness/change-freshness.module.test.ts
 +++ b/command-system/change-freshness/change-freshness.module.test.ts
 @@ -21,7 +21,7 @@ const AT = "akasha/a.domain.ts"
@@ -37,6 +46,36 @@ index fcd3cf932790e7ce0d14de2a5172db5246ba80e7..079cf3cbdb462644acf3f6d14e3a6653
    git(root, ["init", "--quiet"])
    git(root, ["config", "user.email", "held@nowhere"])
    git(root, ["config", "user.name", "Held"])
+@@ -41,25 +41,25 @@ function asRead(path: string, oid: string, mechanicalOid: string | null = null):
+ 
+ const readA = (): Reading => asRead(AT, blobIdOf(bytes(A)))
+ 
+-test("a body standing at the object id it was read at has moved nothing", () => {
++test("a body at the object id it was read at has moved nothing", () => {
+   const root = repoWith(PAGES)
+   expect(movedOnDisk(root, [readA()])).toEqual([])
+ })
+ 
+-test("a body standing at another object id has moved", () => {
++test("a body at another object id has moved", () => {
+   const root = repoWith(PAGES)
+   writeFileSync(join(root, AT), `${A}\n`)
+   expect(movedOnDisk(root, [readA()])).toEqual([AT])
+ })
+ 
+-test("a body carried mechanically since it was read still stands for its reader", () => {
++test("a body carried mechanically since it was read still holds for its reader", () => {
+   const root = repoWith(PAGES)
+   writeFileSync(join(root, AT), `${A}\n`)
+   const held = asRead(AT, blobIdOf(bytes(A)), blobIdOf(bytes(`${A}\n`)))
+   expect(movedOnDisk(root, [held])).toEqual([])
+ })
+ 
+-test("a path that will not read at all counts as moved rather than as standing", () => {
++test("a path that will not read at all counts as moved rather than as unmoved", () => {
+   const root = repoWith(PAGES)
+   expect(movedOnDisk(root, [asRead("akasha/nowhere.ts", blobIdOf(bytes(A)))])).toEqual([
+     "akasha/nowhere.ts",
 diff --git a/command-system/cli/cli.module.test.ts b/command-system/cli/cli.module.test.ts
 index 8d13555eb54c4d8057ae05f08b4dae16f1fd1e91..120890e9604a339e793dd37cfda985a59ce20dae 100644
 --- a/command-system/cli/cli.module.test.ts
