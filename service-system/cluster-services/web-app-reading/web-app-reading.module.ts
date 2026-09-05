@@ -36,11 +36,16 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The code emitting a cluster service's manifests is the file its page names.",
+      statement:
+        "The code emitting a cluster service's manifests sits beside the manifest page that service names.",
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service page naming manifest code no file holds is refused.",
+      statement: "A cluster service naming a manifest no page carries is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest page whose code file is not there is refused.",
     },
     {
       invariantKind: "departure",

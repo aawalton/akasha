@@ -1,12 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  codeBeside,
   deployableNamed,
   namedAmong,
   pagesUnder,
   wantingIn,
   workloadIn,
 } from "./web-app-reading.module.code.ts"
-import { SYNTH_AT, seededWorld } from "./web-app-reading.module.test-fixtures.ts"
+import { MANIFEST_AT, SYNTH_AT, seededWorld } from "./web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
 
@@ -35,17 +36,25 @@ test("a page is named among the pages by its file's name alone", () => {
   expect(namedAmong(among, "web", ".web-app.ts")).toEqual(["a/web.web-app.ts"])
 })
 
+test("a manifest page's code is the file of that name beside it", () => {
+  expect(codeBeside("a/b/one-web.manifest.ts")).toBe("a/b/one-web.manifest.code.ts")
+})
+
 test("the web app pages a tree holds are listed", () => {
-  expect(pagesUnder(WORLD.root, ".web-app.ts")?.length).toBe(6)
+  expect(pagesUnder(WORLD.root, ".web-app.ts")?.length).toBe(7)
+})
+
+test("the manifest pages a tree holds are listed apart from their code", () => {
+  expect(pagesUnder(WORLD.root, ".manifest.ts")?.length).toBe(2)
 })
 
 test("a tree that is no repository lists nothing rather than throwing", () => {
-  expect(pagesUnder("/var/tmp/no-such-tree-stands-here", ".web-app.ts")).toBe(null)
+  expect(pagesUnder("/var/tmp/no-such-tree-is-here", ".web-app.ts")).toBe(null)
 })
 
 test("a slug no web app page carries is refused by name", () => {
-  const read = deployableNamed(WORLD.root, "no-such-web-app-stands-here")
-  expect("refused" in read && read.refused).toContain("no-such-web-app-stands-here")
+  const read = deployableNamed(WORLD.root, "no-such-web-app-is-here")
+  expect("refused" in read && read.refused).toContain("no-such-web-app-is-here")
 })
 
 test("a web app that is named reads through to the workload the cluster runs", () => {
@@ -54,6 +63,7 @@ test("a web app that is named reads through to the workload the cluster runs", (
   if (!("deployable" in read)) return
   expect(read.deployable.clusterServiceSlug).toBe("one-web")
   expect(read.deployable.workload).toEqual({ kind: "Deployment", name: "web", namespace: "one" })
+  expect(read.deployable.manifestPath).toBe(MANIFEST_AT)
   expect(read.deployable.synthPath).toBe(SYNTH_AT)
 })
 
@@ -95,7 +105,12 @@ test("a web app stating nothing of its own source is refused", () => {
   expect("refused" in read && read.refused).toContain("sourceDirectory")
 })
 
-test("a cluster service naming manifest code no file holds is refused", () => {
+test("a cluster service naming a manifest no page carries is refused", () => {
+  const read = deployableNamed(WORLD.root, "orphan-web")
+  expect("refused" in read && read.refused).toContain("no-such-manifest")
+})
+
+test("a manifest page whose code file is not there is refused", () => {
   const read = deployableNamed(WORLD.root, "bare-web")
   expect("refused" in read && read.refused).toContain("no file is there")
 })
