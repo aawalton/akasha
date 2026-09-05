@@ -7,14 +7,14 @@ export const ruleFurnishingsHouseStorage = {
   title: "Store furniture in housing",
   description:
     "Moves furnishings to the furniture vault (house storage) when visiting the bank. Keeps your backpack clear of bulky furniture items.",
+  goal: "hoard",
+  destination: "furniture-vault",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "furnishings",
   displayOrder: 37,
   action: "move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "hoard",
   locked: true,
   fromTemplate: "furnishings-house-storage",
-  destination: "furniture-vault",
 } as const satisfies TemperInventoryRule
