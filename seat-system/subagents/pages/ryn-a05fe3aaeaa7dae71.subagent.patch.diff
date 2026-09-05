@@ -1,5 +1,5 @@
 diff --git a/commands/dev-server/dev-server.command.ts b/commands/dev-server/dev-server.command.ts
-index 8087938bcdeaede211370298f7ba46937398f017..53c44c76f84c64d5a7854f7c998c85f98504fd5f 100644
+index 8087938bcdeaede211370298f7ba46937398f017..620ed4eb9742dd854712af45d1905873d6bebb04 100644
 --- a/commands/dev-server/dev-server.command.ts
 +++ b/commands/dev-server/dev-server.command.ts
 @@ -54,7 +54,7 @@ export const devServer = {
@@ -30,3 +30,13 @@ index 8087938bcdeaede211370298f7ba46937398f017..53c44c76f84c64d5a7854f7c998c85f9
      },
      {
        invariantKind: "departure",
+@@ -108,7 +109,8 @@ export const devServer = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes over an `.env.local` that stands unless it is told to.",
++      statement:
++        "Nothing here writes over an `.env.local` that stands unless the command is told to.",
+     },
+   ],
+ } as const satisfies Command
