@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts b/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts
+index 93aa346c901e9f3adc41820d5ead13f451bf1f46..83edcc19f24665c57c8884b03658192b06c3bf42 100644
+--- a/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts
++++ b/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts
+@@ -11,6 +11,5 @@ export const kubeStateMetrics = {
+   image: "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0",
+   replicas: 1,
+   containerPort: 8080,
+-  manifestCode:
+-    "service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts",
++  manifestSlug: "kube-state-metrics",
+ } as const satisfies ClusterService
