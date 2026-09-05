@@ -1,0 +1,15 @@
+diff --git a/infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.manifest.ts b/infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..435c57f8a5d1abb8679f1908c1245336e6a67d99
+--- /dev/null
++++ b/infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const seaweedfsPruneSessions = {
++  id: "01a07387-c98a-74f1-a661-245678c39ae4",
++  pageTypeSlug: "manifest",
++  slug: "seaweedfs-prune-sessions",
++  definition: "the namespace and the cron job removing stored agent sessions past their age",
++  code: "ts",
++} as const satisfies Manifest
