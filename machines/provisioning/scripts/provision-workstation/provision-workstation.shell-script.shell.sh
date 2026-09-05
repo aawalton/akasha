@@ -162,11 +162,6 @@ else
 fi
 echo "    swap: $(swapon --show=NAME,SIZE,PRIO --noheadings | tr '\n' ' ')"
 
-echo "==> Materializing Claude account alias snapshot (best-effort)..."
-if ! (cd "$AKASHA" && bun ops claude-account sync-aliases) 2>/dev/null; then
-  echo "    WARN: alias snapshot not written — run 'bun ops claude-account sync-aliases' once the akasha repo is in place." >&2
-fi
-
 echo
 echo "Done. Manual follow-up:"
 echo "  - Ensure the kubeconfig, ~/.secrets.env, tailscale enrollment, and home symlinks"
@@ -176,5 +171,3 @@ echo "    account page, which is their tracked source:"
 echo "      akasha page-secret-reveal --file-path sms-core/telnyx-accounts/pages/outbound/outbound.telnyx-account.ts --key api-key"
 echo "    and the from-number is stated on that page. Add each as"
 echo "    'export KEY=value' (edit specific lines; never overwrite the file)."
-echo "  - Once the akasha repo is in place, run 'bun ops claude-account sync-aliases' to"
-echo "    rebuild ~/.claude/account-aliases.json (the cN shell aliases) from the account pages."
