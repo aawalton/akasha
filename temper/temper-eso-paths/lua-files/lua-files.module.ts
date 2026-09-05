@@ -17,7 +17,7 @@ export const luaFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is answered as the path it was found at.",
+      statement: "A file is answered as the path that file was found at.",
     },
   ],
 } as const satisfies Module
