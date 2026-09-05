@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.ts b/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.ts
+index bc2d823fc8014fda2188c2d240cbe5e574b3be2d..7402891331868ee139e17ba15cbba9fcef8a9c5d 100644
+--- a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.ts
++++ b/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.ts
+@@ -54,7 +54,7 @@ export const browserTestStorageState = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads what the state it wrote carries.",
++      statement: "Nothing here reads what the state this command wrote carries.",
+     },
+   ],
+ } as const satisfies Command
