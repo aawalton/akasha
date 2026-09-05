@@ -63,7 +63,7 @@ index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..61d4be2dbde44b3deed9a2919afff427
    const pid = proc.pid
    if (pid === undefined) {
 diff --git a/agents/models/gateway/modules/proxy-run/proxy-run.module.test.ts b/agents/models/gateway/modules/proxy-run/proxy-run.module.test.ts
-index ac9288adb9b1743f038995683b9dcf853b59fac5..97fd7c0ffd38a75fd96cb706c855a2b68d1cb174 100644
+index ac9288adb9b1743f038995683b9dcf853b59fac5..12282b4fdc635e965c8a569e0468d797fc3d6610 100644
 --- a/agents/models/gateway/modules/proxy-run/proxy-run.module.test.ts
 +++ b/agents/models/gateway/modules/proxy-run/proxy-run.module.test.ts
 @@ -1,10 +1,9 @@
@@ -78,6 +78,15 @@ index ac9288adb9b1743f038995683b9dcf853b59fac5..97fd7c0ffd38a75fd96cb706c855a2b6
    envFor,
    type RunSeams,
    STDERR_LOG,
+@@ -12,7 +11,7 @@ import {
+   startedOn,
+ } from "./proxy-run.module.code.ts"
+ 
+-const ROOT = "/var/home/walton/repos/akasha"
++const ENTRY_TAIL = "agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
+ 
+ const ASKED: Asked = {
+   agentId: "model-gateway-start-test",
 diff --git a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts b/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
 index 1cdef3e6e9c483340a7524b8e242263c8a3eac92..3ea51a6ad92a1d987d6547e8dd6248d7deed79d7 100644
 --- a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
