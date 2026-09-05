@@ -10,7 +10,8 @@ export const seatUsage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is taken from what the statusline payload states and nothing else.",
+      statement:
+        "A reading is taken from the values the statusline payload states and nothing else.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +19,7 @@ export const seatUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "A value the payload does not state is not written over what stands.",
+      statement: "A value the payload does not state is not written over the value that stands.",
     },
     {
       invariantKind: "departure",
