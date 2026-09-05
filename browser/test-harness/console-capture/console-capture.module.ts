@@ -10,7 +10,8 @@ export const consoleCapture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A capture holds a bounded number of entries and counts what the capture dropped.",
+      statement:
+        "A capture holds a bounded number of entries and counts the entries the capture dropped.",
     },
   ],
 } as const satisfies Module
