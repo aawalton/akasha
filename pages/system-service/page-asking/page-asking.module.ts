@@ -100,6 +100,28 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A calculation the page type declares is worked out over every page answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A calculation is worked out before any formula reading what that calculation answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A calculation is read from the code file beside the page declaring that property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property whose code file is not there darkens that property's key alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question naming a key a calculation refused is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A question naming a key no figure works out is refused.",
     },
     {
