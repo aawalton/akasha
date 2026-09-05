@@ -40,7 +40,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..a7994b716ae3e461cf9874c0d07dfb4a
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..ee9385c58bc4f78a42152a40a5bbb3efdcd2e9fb 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..81d4da50286878e60611bd52d1aad4b2a524d750 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -81,7 +81,37 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..ee9385c58bc4f78a42152a40a5bbb3ef
    THING_AT,
    TWO_BREAKS,
    WHOLE,
-@@ -165,7 +172,7 @@ test("a proposed body that breaks what stands clean on disk is refused, so the c
+@@ -88,6 +95,29 @@ test("a declaration file akasha holds names a global for a change no import reac
+   expect(await over(root, "akasha/one.ts", "export const one = HELD_ONE\n")).toEqual([])
+ })
+ 
++test("a declaration file the change carries is judged, so a fault inside it is refused", async () => {
++  const root = declared({})
++  const said = await over(root, DECLARED_AT, "declare const HELD_ONE: number = 1\n")
++  expect(said.map((one) => one.path)).toEqual([DECLARED_AT])
++  expect(said[0]?.reason).toContain("TS1039")
++})
++
++test("what a config's include names is read as a pattern rather than as plain text", () => {
++  expect(matching("a/src/*.ts").test("a/src/one.ts")).toBe(true)
++  expect(matching("a/src/*.ts").test("a/src/deep/one.ts")).toBe(false)
++  expect(matching("a/src/**/*.ts").test("a/src/deep/one.ts")).toBe(true)
++  expect(matching("a/one.d.ts").test("a/oneXd.ts")).toBe(false)
++})
++
++test("a file a lua runtime library's config names is compiled by that config rather than here", () => {
++  const held = change(HERE, {})
++  const claimed = claimedIn(held, shadowAsked(held).index)
++  const lua = "language-design/lua-compiler"
++  expect(claimed(`${lua}/performance-global/performance-global.type-declaration.d.ts`)).toBe(true)
++  expect(claimed(`${lua}/lualib/src/whatever.ts`)).toBe(true)
++  expect(claimed("checks/code-checks/pages/typecheck/typecheck.code-check.code.ts")).toBe(false)
++})
++
+ test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
+   const said = omittingIn(THING_AT, WITHOUT, ["held", "other"])
+   expect(said).toContain('satisfies Omit<Thing, "held" | "other">')
+@@ -165,7 +195,7 @@ test("a proposed body that breaks what stands clean on disk is refused, so the c
  })
  
  test("a type is judged across files, so a caller is refused for a callee it no longer fits", async () => {
@@ -90,7 +120,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..ee9385c58bc4f78a42152a40a5bbb3ef
    const said = await over(
      root,
      "akasha/calls.ts",
-@@ -176,7 +183,7 @@ test("a type is judged across files, so a caller is refused for a callee it no l
+@@ -176,7 +206,7 @@ test("a type is judged across files, so a caller is refused for a callee it no l
  })
  
  test("a change that would break a file it does not touch is refused, and answers at that file", async () => {
@@ -99,7 +129,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..ee9385c58bc4f78a42152a40a5bbb3ef
    const said = await over(
      root,
      "akasha/held.ts",
-@@ -188,7 +195,7 @@ test("a change that would break a file it does not touch is refused, and answers
+@@ -188,7 +218,7 @@ test("a change that would break a file it does not touch is refused, and answers
  })
  
  test("a file the change takes away is gone for the compiler, so a file still importing it is refused", async () => {
@@ -108,7 +138,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..ee9385c58bc4f78a42152a40a5bbb3ef
    const said = await over(root, "akasha/held.ts", null)
    expect(said).toHaveLength(1)
    expect(said[0]?.path).toBe("akasha/calls.ts")
-@@ -237,18 +244,13 @@ test("a diagnostic against a file the change did not touch is reported once, how
+@@ -237,18 +267,13 @@ test("a diagnostic against a file the change did not touch is reported once, how
  })
  
  test("an index read without a guard is refused, so the settings are the strict ones", async () => {
@@ -129,7 +159,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..ee9385c58bc4f78a42152a40a5bbb3ef
    expect(await over(root, "akasha/notes.txt", "nothing to compile\n")).toEqual([])
    const said = await over(root, "shared/one.ts", "export const one: string = 1\n")
    expect(said).toHaveLength(1)
-@@ -318,7 +320,7 @@ test("an index standing and naming no importer is an answer, so the change alone
+@@ -318,7 +343,7 @@ test("an index standing and naming no importer is an answer, so the change alone
  })
  
  test("a change naming no TypeScript under the akasha folder asks the index nothing", async () => {
@@ -138,7 +168,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..ee9385c58bc4f78a42152a40a5bbb3ef
    rmSync(join(root, ".git"), { recursive: true })
    expect(await judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
  })
-@@ -339,12 +341,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
+@@ -339,12 +364,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
  })
  
  test("a diagnostic carried in a chain is one reason", async () => {
