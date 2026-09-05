@@ -17,7 +17,8 @@ export const stageScript = {
     },
     {
       invariantKind: "departure",
-      statement: "What stages an app's site is read from its page rather than walked to.",
+      statement:
+        "The script that stages an app's site is read from its page rather than walked to.",
     },
   ],
 } as const satisfies RelationProperty
