@@ -14,7 +14,8 @@ export const supervisorDeferredRestartLog = {
     },
     {
       invariantKind: "departure",
-      statement: "A fire while busy says the whole history of busy signals that preceded it.",
+      statement:
+        "A fire while busy says the whole history of busy signals that preceded that fire.",
     },
     {
       invariantKind: "departure",
