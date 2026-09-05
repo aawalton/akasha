@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/body-merging/body-merging.module.ts b/command-system/body-merging/body-merging.module.ts
-index 87bcad8f9b60c710eb76ec7c0f7428fe14bc256d..785c8532ed48aa034dceec29037b7337028882b4 100644
+index 87bcad8f9b60c710eb76ec7c0f7428fe14bc256d..c7251fc79d77ad6ba1b11a013a619d240bef8aad 100644
 --- a/command-system/body-merging/body-merging.module.ts
 +++ b/command-system/body-merging/body-merging.module.ts
 @@ -11,15 +11,15 @@ export const bodyMerging = {
@@ -37,6 +37,16 @@ index 87bcad8f9b60c710eb76ec7c0f7428fe14bc256d..785c8532ed48aa034dceec29037b7337
        statement:
 -        "A body marked as taken away is that body under the label for what a change would leave.",
 +        "A body marked as taken away is that body under the label for the body a change would leave.",
+     },
+     {
+       invariantKind: "departure",
+@@ -68,7 +68,8 @@ export const bodyMerging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body carrying the label for what a change would leave is carrying a conflict.",
++      statement:
++        "A body carrying the label for the body a change would leave is carrying a conflict.",
      },
      {
        invariantKind: "departure",
