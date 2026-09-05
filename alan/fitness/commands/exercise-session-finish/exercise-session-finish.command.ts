@@ -32,7 +32,7 @@ export const exerciseSessionFinish = {
     },
     {
       invariantKind: "departure",
-      statement: "The session carries the moment it was completed.",
+      statement: "The session carries the moment that session was completed.",
     },
     {
       invariantKind: "departure",
