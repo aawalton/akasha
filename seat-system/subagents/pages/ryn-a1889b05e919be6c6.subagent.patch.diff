@@ -51,3 +51,16 @@ index 8ef2e89a89d5fcfb22b7bdc654866c7e5f0a6fa4..6554dbd16bd28143164fbcc186618edf
      },
      {
        invariantKind: "departure",
+diff --git a/command-system/commands/elaine/elaine.command.ts b/command-system/commands/elaine/elaine.command.ts
+index 8c2fd0474918f855e8d73cc5df5f199f38de2f03..2b20f0abb75a4a15f98cdeb1e7b65a613e34c089 100644
+--- a/command-system/commands/elaine/elaine.command.ts
++++ b/command-system/commands/elaine/elaine.command.ts
+@@ -54,7 +54,7 @@ export const elaine = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A macbook holding no export is answered as the data being missing rather than as the call being wrong.",
++        "A macbook holding no export is answered as missing data rather than as a wrong call.",
+     },
+     {
+       invariantKind: "departure",
