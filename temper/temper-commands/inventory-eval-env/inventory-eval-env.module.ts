@@ -18,7 +18,8 @@ export const inventoryEvalEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A motif with no chapter named is known where every chapter of it is known.",
+      statement:
+        "A motif with no chapter named is known where every chapter of that motif is known.",
     },
     {
       invariantKind: "departure",
