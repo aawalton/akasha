@@ -9,8 +9,8 @@ export const royalRoad = {
   partSlugs: ["module/royal-road-pages", "module/royal-road-syncing"],
   invariants: [
     {
-      invariantKind: "absence",
-      statement: "Nothing here writes a page.",
+      invariantKind: "departure",
+      statement: "A page written from Royal Road is written by the syncing module.",
     },
     {
       invariantKind: "departure",
