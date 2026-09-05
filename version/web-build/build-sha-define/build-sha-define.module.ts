@@ -9,7 +9,7 @@ export const buildShaDefine = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What the environment states wins over what the checkout's head says.",
+      statement: "The commit the environment states wins over the commit the checkout's head says.",
     },
     {
       invariantKind: "departure",
