@@ -103,3 +103,16 @@ index 5d63553b2602b7154dbe814ab33856720a83cd63..dc57e0744e2c323b243e8c3b88d2a0f4
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts b/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
+index 011476f6e622d93765c42002ffd602bf2377cf27..70e80d6dea865ba9678d9f2f7e2b0a1048feddf0 100644
+--- a/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
++++ b/seat-system/supervising/supervisor-file-version/supervisor-file-version.module.ts
+@@ -20,7 +20,7 @@ export const supervisorFileVersion = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The repository a package is looked for in is the nearest folder above the entry whose manifest names workspaces.",
++        "The repository for a package is the nearest folder above the entry whose manifest names workspaces.",
+     },
+     {
+       invariantKind: "departure",
