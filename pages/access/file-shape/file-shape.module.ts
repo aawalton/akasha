@@ -30,7 +30,7 @@ export const fileShape = {
     },
     {
       invariantKind: "absence",
-      statement: "What a page type declares goes unread here.",
+      statement: "A page type's declarations go unread here.",
     },
   ],
 } as const satisfies Module
