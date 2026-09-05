@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
-index b15dcd3dc2c7847665a5203df7d80a05486a46e6..a324ad70009392fb596f90326e1bfa9c6d825441 100644
+index b15dcd3dc2c7847665a5203df7d80a05486a46e6..d908b6df367bdca9e05eea506c4442179c13d1c4 100644
 --- a/code-system/code-typing/code-typing.module.ts
 +++ b/code-system/code-typing/code-typing.module.ts
 @@ -59,7 +59,7 @@ export const codeTyping = {
@@ -28,6 +28,15 @@ index b15dcd3dc2c7847665a5203df7d80a05486a46e6..a324ad70009392fb596f90326e1bfa9c
 -      statement: "What a name reaches from a place is answered from the scopes over that place.",
 +      statement:
 +        "The declarations a name reaches from a place are answered from the scopes over that place.",
+     },
+     {
+       invariantKind: "departure",
+@@ -134,7 +135,7 @@ export const codeTyping = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here judges what this module finds.",
++      statement: "Nothing here judges the answers this module finds.",
      },
      {
        invariantKind: "departure",
