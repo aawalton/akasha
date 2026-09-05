@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-declaration/seat-declaration.domain.ts b/seat-system/seat-declaration/seat-declaration.domain.ts
+index 555fd375901d09044c5eb3bc6fc0ff5d0411a8ce..10acc04c226b48bb1d8ce86b1acb49d786a25d12 100644
+--- a/seat-system/seat-declaration/seat-declaration.domain.ts
++++ b/seat-system/seat-declaration/seat-declaration.domain.ts
+@@ -66,7 +66,7 @@ export const seatDeclaration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An assignment ends when whoever acts next has been told.",
++      statement: "An assignment ends when the next to act has been told.",
+     },
+     { invariantKind: "departure", statement: "Every assignment is stated on the seat." },
+     {
