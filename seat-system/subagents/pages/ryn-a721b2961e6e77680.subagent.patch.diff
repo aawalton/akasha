@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-specifier/code-specifier.module.ts b/code-system/code-specifier/code-specifier.module.ts
-index 5cf3d8cf6c51fa885e87b254575a71c066d87a63..487701f9c1bf68fc3e68049a95c34df92e0e1fe8 100644
+index 5cf3d8cf6c51fa885e87b254575a71c066d87a63..3e775c977ebcb6169f2f70f3fb7ae9f540b0893c 100644
 --- a/code-system/code-specifier/code-specifier.module.ts
 +++ b/code-system/code-specifier/code-specifier.module.ts
 @@ -18,7 +18,7 @@ export const codeSpecifier = {
@@ -18,6 +18,15 @@ index 5cf3d8cf6c51fa885e87b254575a71c066d87a63..487701f9c1bf68fc3e68049a95c34df9
        invariantKind: "absence",
 -      statement: "Nothing else can be written over without reading what fills it.",
 +      statement: "Nothing else can be written over without reading its contents.",
+     },
+     {
+       invariantKind: "departure",
+@@ -84,7 +84,7 @@ export const codeSpecifier = {
+     {
+       invariantKind: "absence",
+       statement:
+-        "A specifier is what the source says whether or not the file that specifier names is there.",
++        "A specifier is the string the source says whether or not the file that specifier names is there.",
      },
      {
        invariantKind: "departure",
