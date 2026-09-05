@@ -1,0 +1,90 @@
+diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
+index bf448681c40ce24336f4d0a573545c45e7ed1da3..9cf4190ca7dd2a56a1480a5bbbdd37f2c245c1d9 100644
+--- a/code-system/code-tests/code-tests.module.code.ts
++++ b/code-system/code-tests/code-tests.module.code.ts
+@@ -60,6 +60,12 @@ const CONFIG = "bunfig.toml"
+ 
+ const PRELOADING = "--preload"
+ 
++const NAMING = "--test-name-pattern"
++
++const SPECIAL = /[.*+?^${}()|[\]\\]/g
++
++const NONE_NAMED = /\bmatched 0 tests\b/
++
+ export const RUNNING = "AKASHA_TESTS_RUNNING"
+ 
+ export const CARRIED: readonly string[] = [
+diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
+index 0f78bf6450179b6de2396723a61da27263a15a72..f7bbcac95def49da9206ef8248c9536bd267fb78 100644
+--- a/code-system/code-tests/code-tests.module.ts
++++ b/code-system/code-tests/code-tests.module.ts
+@@ -240,12 +240,16 @@ export const codeTests = {
+       statement: "A world that could not be made was given to no one else to sweep.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "Nothing here says which tests inside a file run.",
++      invariantKind: "departure",
++      statement: "A run is named by path and, where a name is given, by one test's whole name.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "A run is named by path.",
++      invariantKind: "departure",
++      statement: "A name reaches the runner escaped and anchored, so the name matches whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run whose name matched no test is read as no tests rather than as a crash.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
+index 427dbdddea2f1be62027e43741876cee9c195b95..925bf7cc4a4edcd3b103498ee374e1fbeb4bd48f 100644
+--- a/commands/test/test.command.code.ts
++++ b/commands/test/test.command.code.ts
+@@ -7,6 +7,8 @@ import type { Answer, Given } from "../../command-system/calling/calling.module.
+ 
+ const FILE_PATH = "--file-path"
+ 
++const NAMED = "--named"
++
+ const WHOLE = "."
+ 
+ export const ANSWER_CEILING = 28000
+diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
+index 45b4ecabb0f594da3f70162a577fb29dbaf85d29..55a8984a0853f8e28bb27275efa5255292d2a9d3 100644
+--- a/commands/test/test.command.test.ts
++++ b/commands/test/test.command.test.ts
+@@ -16,6 +16,11 @@ const TWICE =
+ 
+ const LOADS = 'import { nope } from "./nowhere.ts"\nconsole.log(nope)\n'
+ 
++const PAIR =
++  'import { expect, test } from "bun:test"\n' +
++  'test("held (one)", () => { expect(1).toBe(1) })\n' +
++  'test("held (one) and more", () => { expect(1).toBe(2) })\n'
++
+ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
+index 7ba438689aab2f1b542d9cfd1cf5eb9857b93d2d..a1987dfb9f9d02346127bc2a4188c3a80d4ffd1a 100644
+--- a/commands/test/test.command.ts
++++ b/commands/test/test.command.ts
+@@ -10,11 +10,13 @@ export const test = {
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "--file-path <path>", takes: "a file or folder in the repository whose tests run" },
++    { said: "--named <text>", takes: "the whole name of the one test that runs" },
+   ],
+   helpNotes: [
+     "--file-path repeats, so several paths run in one call.",
+     "named nothing, it runs every test in the repository.",
+-    "a run takes no filter for which tests inside a file run.",
++    "--named matches a whole test name rather than a pattern or a part of one.",
++    "--named naming no test runs nothing rather than refusing.",
+   ],
+   invariants: [
+     {
