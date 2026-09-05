@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/checks/modules/model-running/model-running.module.ts b/checks/modules/model-running/model-running.module.ts
+index 6bb7e850dc8a5f120c1a2df7c528f876fa0097c4..1d60b78ba14dd139aba3ef3a965e46175f19bafb 100644
+--- a/checks/modules/model-running/model-running.module.ts
++++ b/checks/modules/model-running/model-running.module.ts
+@@ -34,7 +34,8 @@ export const modelRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A model reached by no call leaves the change unjudged rather than refusing it.",
++      statement:
++        "A model reached by no call leaves the change unjudged rather than refusing that change.",
+     },
+     {
+       invariantKind: "departure",
