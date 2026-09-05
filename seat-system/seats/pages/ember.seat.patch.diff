@@ -215,3 +215,15 @@ index 0000000000000000000000000000000000000000..f521b67436b1d37a3d2c4088c6a55330
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/temper/temper-progress/temper-progress.domain.ts b/temper/temper-progress/temper-progress.domain.ts
+index d10e1b0667617852960306e19cd2302b861e6ce4..939e4b992babe5235e240759b28a6287cca4bfa3 100644
+--- a/temper/temper-progress/temper-progress.domain.ts
++++ b/temper/temper-progress/temper-progress.domain.ts
+@@ -16,6 +16,7 @@ export const temperProgress = {
+     "page-type/temper-metric-tree",
+     "page-type/temper-progress-thing",
+     "page-type/temper-rotation-breakdown-row",
++    "page-type/temper-inventory-rule",
+     "page-type/temper-item-action",
+     "page-type/temper-rule",
+     "page-type/temper-rule-goal",
