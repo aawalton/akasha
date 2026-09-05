@@ -23,11 +23,15 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A run that forgot no high-water mark is left out of a memory median.",
+      statement: "A run that forgot no high-water mark is left out of a memory average.",
     },
     {
       invariantKind: "departure",
-      statement: "That run is counted in a processor median all the same.",
+      statement: "That run is counted in a processor average all the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That run is counted among the runs its phase holds all the same.",
     },
     {
       invariantKind: "departure",
@@ -39,15 +43,28 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A median of an even count of runs is the mean of the two middle runs.",
+      statement:
+        "An average is what a phase's runs took together shared out over how many there were.",
     },
     {
       invariantKind: "departure",
-      statement: "A phase no run was judged at carries no median rather than a median of zero.",
+      statement: "How many runs a phase holds is said beside that phase's averages.",
     },
     {
       invariantKind: "departure",
-      statement: "Checks are ordered by what their patch runs took, the longest first.",
+      statement: "A phase no run was judged at carries no average rather than an average of zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A phase no run was judged at holds a count of zero rather than no count.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count of bytes is rounded to the whole byte before that count is scaled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Checks are ordered by what their patch runs took on average, the longest first.",
     },
     {
       invariantKind: "departure",

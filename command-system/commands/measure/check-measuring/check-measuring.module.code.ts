@@ -12,7 +12,15 @@ const AUDIT = "audit"
 
 const ABSENT = "-"
 
-const HEADING: readonly string[] = ["check", "patch cpu", "patch mem", "full cpu", "full mem"]
+const HEADING: readonly string[] = [
+  "check",
+  "patch runs",
+  "patch cpu",
+  "patch mem",
+  "full runs",
+  "full cpu",
+  "full mem",
+]
 
 const UNREAD = "these were not read, and count no runs:"
 
@@ -32,8 +40,10 @@ export interface Run {
 
 export interface CheckCost {
   readonly check: string
+  readonly patchRuns: number
   readonly patchCpu: number | null
   readonly patchMem: number | null
+  readonly auditRuns: number
   readonly auditCpu: number | null
   readonly auditMem: number | null
 }
@@ -44,12 +54,9 @@ export interface Costs {
   readonly other: readonly string[]
 }
 
-export function medianOf(found: readonly number[]): number | null {
+export function meanOf(found: readonly number[]): number | null {
   if (found.length === 0) return null
-  const sorted = [...found].sort((a, b) => a - b)
-  if (sorted.length % 2 === 1) return sorted[(sorted.length - 1) / 2] ?? null
-  const half = sorted.length / 2
-  return ((sorted[half - 1] ?? 0) + (sorted[half] ?? 0)) / 2
+  return found.reduce((total, one) => total + one, 0) / found.length
 }
 
 export function runsIn(body: string): readonly Run[] {
@@ -75,10 +82,12 @@ export function costOf(check: string, runs: readonly Run[]): CheckCost {
   const audit = runs.filter((one) => one.phase === AUDIT)
   return {
     check,
-    patchCpu: medianOf(patch.map((one) => one.cpu)),
-    patchMem: medianOf(memoryOf(patch)),
-    auditCpu: medianOf(audit.map((one) => one.cpu)),
-    auditMem: medianOf(memoryOf(audit)),
+    patchRuns: patch.length,
+    patchCpu: meanOf(patch.map((one) => one.cpu)),
+    patchMem: meanOf(memoryOf(patch)),
+    auditRuns: audit.length,
+    auditCpu: meanOf(audit.map((one) => one.cpu)),
+    auditMem: meanOf(memoryOf(audit)),
   }
 }
 
@@ -132,10 +141,11 @@ export function costsIn(root: string): Costs {
 }
 
 export function bytesAs(count: number): string {
-  if (count >= GIB) return `${(count / GIB).toFixed(1)} GiB`
-  if (count >= MIB) return `${(count / MIB).toFixed(1)} MiB`
-  if (count >= KIB) return `${(count / KIB).toFixed(1)} KiB`
-  return `${count} B`
+  const whole = Math.round(count)
+  if (whole >= GIB) return `${(whole / GIB).toFixed(1)} GiB`
+  if (whole >= MIB) return `${(whole / MIB).toFixed(1)} MiB`
+  if (whole >= KIB) return `${(whole / KIB).toFixed(1)} KiB`
+  return `${whole} B`
 }
 
 export function secondsAs(count: number): string {
@@ -145,8 +155,10 @@ export function secondsAs(count: number): string {
 function rowOf(one: CheckCost): readonly string[] {
   return [
     one.check,
+    String(one.patchRuns),
     one.patchCpu === null ? ABSENT : secondsAs(one.patchCpu),
     one.patchMem === null ? ABSENT : bytesAs(one.patchMem),
+    String(one.auditRuns),
     one.auditCpu === null ? ABSENT : secondsAs(one.auditCpu),
     one.auditMem === null ? ABSENT : bytesAs(one.auditMem),
   ]

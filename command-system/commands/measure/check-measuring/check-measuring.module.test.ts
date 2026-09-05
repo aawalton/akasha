@@ -6,7 +6,7 @@ import {
   costOf,
   costsIn,
   linesOf,
-  medianOf,
+  meanOf,
   runsIn,
   secondsAs,
 } from "./check-measuring.module.code.ts"
@@ -43,10 +43,14 @@ function rootWith(held: Record<string, readonly Record<string, unknown>[]>): str
   return root
 }
 
-test("a median of an even count of runs is the mean of the two middle runs", () => {
-  expect(medianOf([1, 2, 3])).toBe(2)
-  expect(medianOf([1, 2, 3, 4])).toBe(2.5)
-  expect(medianOf([])).toBe(null)
+function spacedOnce(said: string | undefined): string {
+  return (said ?? "").replace(/\s+/g, " ")
+}
+
+test("an average is what the runs took together shared out over how many there were", () => {
+  expect(meanOf([1, 2, 9])).toBe(4)
+  expect(meanOf([1, 2, 3, 10])).toBe(4)
+  expect(meanOf([])).toBe(null)
 })
 
 test("a run's processor time is its own together with the children it reaped", () => {
@@ -55,20 +59,41 @@ test("a run's processor time is its own together with the children it reaped", (
   expect(runs[0]?.cpu).toBe(3.75)
 })
 
-test("a run that forgot no high-water mark is left out of memory but kept in processor time", () => {
+test("a run that forgot no high-water mark is left out of memory but counted everywhere else", () => {
   const runs = runsIn(
     [
-      lineOf({ phase: "patch", cpuSeconds: 4, peakAddedBytes: 999, peakMeasured: false }),
+      lineOf({ phase: "patch", cpuSeconds: 9, peakAddedBytes: 999, peakMeasured: false }),
       lineOf({ phase: "patch", cpuSeconds: 2, peakAddedBytes: 100 }),
+      lineOf({ phase: "patch", cpuSeconds: 1, peakAddedBytes: 200 }),
+      lineOf({ phase: "patch", cpuSeconds: 4, peakAddedBytes: 900 }),
     ].join("\n")
   )
   const cost = costOf("one", runs)
 
-  expect(cost.patchCpu).toBe(3)
-  expect(cost.patchMem).toBe(100)
+  expect(cost.patchCpu).toBe(4)
+  expect(cost.patchMem).toBe(400)
+  expect(cost.patchRuns).toBe(4)
 })
 
-test("a phase no run was judged at carries no median rather than a median of zero", () => {
+test("how many runs a phase holds is counted beside that phase's averages", () => {
+  const root = rootWith({
+    one: [
+      { phase: "patch", cpuSeconds: 1 },
+      { phase: "patch", cpuSeconds: 3 },
+      { phase: "patch", cpuSeconds: 8 },
+      { phase: "audit", cpuSeconds: 8 },
+      { phase: "worktree", cpuSeconds: 9 },
+    ],
+  })
+  const cost = costsIn(root).checks[0]
+
+  expect(cost?.patchRuns).toBe(3)
+  expect(cost?.patchCpu).toBe(4)
+  expect(cost?.auditRuns).toBe(1)
+  expect(cost?.auditCpu).toBe(8)
+})
+
+test("a phase no run was judged at carries no average rather than an average of zero", () => {
   const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
 
   expect(cost.patchCpu).toBe(0)
@@ -79,16 +104,34 @@ test("a phase no run was judged at carries no median rather than a median of zer
   expect(said.endsWith("-")).toBe(true)
 })
 
+test("a phase no run was judged at counts zero runs rather than drawing them absent", () => {
+  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
+
+  expect(cost.auditRuns).toBe(0)
+  const said = linesOf({ checks: [cost], unread: [], other: [] })
+
+  expect(spacedOnce(said[0])).toBe(
+    "check patch runs patch cpu patch mem full runs full cpu full mem"
+  )
+  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0 B 0 - -")
+})
+
 test("checks are ordered by what their patch runs took, and no patch run comes last", () => {
   const root = rootWith({
     fast: [{ phase: "patch", cpuSeconds: 1 }],
     slow: [{ phase: "patch", cpuSeconds: 9 }],
     "audit-only": [{ phase: "audit", cpuSeconds: 50 }],
     "b-tie": [{ phase: "patch", cpuSeconds: 1 }],
+    skewed: [
+      { phase: "patch", cpuSeconds: 1 },
+      { phase: "patch", cpuSeconds: 1 },
+      { phase: "patch", cpuSeconds: 10 },
+    ],
   })
 
   expect(costsIn(root).checks.map((one) => one.check)).toEqual([
     "slow",
+    "skewed",
     "b-tie",
     "fast",
     "audit-only",
@@ -104,8 +147,10 @@ test("a patch run and an audit run are split apart", () => {
   })
   const cost = costsIn(root).checks[0]
 
+  expect(cost?.patchRuns).toBe(1)
   expect(cost?.patchCpu).toBe(2)
   expect(cost?.patchMem).toBe(2048)
+  expect(cost?.auditRuns).toBe(1)
   expect(cost?.auditCpu).toBe(8)
   expect(cost?.auditMem).toBe(1048576)
 })
@@ -121,6 +166,7 @@ test("a run naming a phase this does not split by is counted beneath the table",
   })
   const costs = costsIn(root)
 
+  expect(costs.checks[0]?.patchRuns).toBe(1)
   expect(costs.checks[0]?.patchCpu).toBe(1)
   expect(costs.other).toEqual(["worktree: 2", "deploy: 1"])
   expect(linesOf(costs)).toContain("these runs name a phase this does not split by:")
@@ -143,6 +189,11 @@ test("memory is scaled to the unit that fits and processor time runs to three de
   expect(bytesAs(29546496)).toBe("28.2 MiB")
   expect(bytesAs(4559089664)).toBe("4.2 GiB")
   expect(secondsAs(3.939)).toBe("3.939s")
+})
+
+test("a count of bytes is rounded to the whole byte before it is scaled", () => {
+  expect(bytesAs(512.4)).toBe("512 B")
+  expect(bytesAs(1023.6)).toBe("1.0 KiB")
 })
 
 test("a root holding no checks answers no check rather than throwing", () => {
