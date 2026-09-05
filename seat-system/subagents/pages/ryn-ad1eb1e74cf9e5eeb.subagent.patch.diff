@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/changes/workflow-templates/properties/declaration.file-property.ts b/changes/workflow-templates/properties/declaration.file-property.ts
+index 194d340fc13a0dc2dc3264f832cbecac8f5052ca..7462dd92d6a646380892c06e4f33957cc82a01d3 100644
+--- a/changes/workflow-templates/properties/declaration.file-property.ts
++++ b/changes/workflow-templates/properties/declaration.file-property.ts
+@@ -15,7 +15,7 @@ export const declaration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A declaration states the steps, and the page states what they are for.",
++      statement: "A declaration states the steps, and the page states what those steps are for.",
+     },
+     {
+       invariantKind: "departure",
