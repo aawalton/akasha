@@ -16,7 +16,6 @@ export const imessageContacts = {
     "the address book is read off the mac, every source of it merged into one contact for a person.",
     "the run of letters is matched against a first name, a last name and an organization alike, whatever the case.",
     "a row carries the name, then the phone numbers parted by commas, then the addresses.",
-    "matching nothing is an empty answer rather than a refusal.",
   ],
   invariants: [
     {
