@@ -39,11 +39,6 @@ export const athenaCommandsAtTheRoot = {
         "Reading a term's page clears it for every later change, for any file, because `owingOf` owes nothing while the record holds that page at its current blob. Alan ruled this intended: answering a warrant by when something was read is barred, so a re-owed warrant would have no escape. The refusal text contradicted itself and was fixed at 2356754c61. What is left is telling the writer without refusing, and no such channel exists: `troubling` turns any non-empty array into refusals.",
     },
     {
-      statement: "There are no remaining ops cli commands.",
-      workingMemory:
-        "9 ops pages remain: 7 tracking, 2 loose, and no seat page left. `dotfiles/bin/ops` and the ops dispatcher are both gone, so every ops call was already dead rather than pending. seat-inbox went, and a message now reaches a started seat as its boot prompt. fleet-restart went superseded twice, `seat supervisor restart --all` holding its reach and `seat refresh-settings` its subject. compose-boot and compose-subagents are functions rather than commands, so their pages went and their code stays.",
-    },
-    {
       statement: "Nothing names a command by its path.",
       workingMemory:
         "Met for the editor, the shell, the recipient resolver and monarch. The mover repoints a whole path in a literal, but never a prefix assembled at runtime nor a command's name sitting in an argv array: `COMMANDS_AT`, `ENDED_DIR` and every `ops` spawn were each invisible for that reason and none had a test. `REPAIR_AT` in calling is left, naming a file in a message rather than in dispatch. A path to a command goes when the spawn does, so importing instead meets this too.",

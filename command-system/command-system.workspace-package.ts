@@ -83,5 +83,9 @@ export const commandSystem = {
       invariantKind: "departure",
       statement: "A command's answer carries a code saying whose fault the refusal was.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No command of the old ops CLI remains, and nothing dispatches one.",
+    },
   ],
 } as const satisfies WorkspacePackage
