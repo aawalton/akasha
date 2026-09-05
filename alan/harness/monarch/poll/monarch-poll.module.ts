@@ -22,8 +22,7 @@ export const monarchPoll = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A row naming an account this copy has not landed is left alone, because this path fetches no accounts and an unknown one would otherwise fail every run after this one.",
+      statement: "A row naming an account this copy has not landed is left alone.",
     },
     {
       invariantKind: "departure",
