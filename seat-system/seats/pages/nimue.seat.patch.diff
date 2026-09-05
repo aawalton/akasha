@@ -1,3 +1,16 @@
+diff --git a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts b/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts
+index a739c6e9b2dd19ed8ac077f9abf6e1140c4018c2..036110c1a965832096ff8f1ffecee7b5fd88fd0b 100644
+--- a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts
++++ b/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts
+@@ -55,7 +55,7 @@ test("a ring among page types is answered rather than followed round", () => {
+ })
+ 
+ test("a page type naming a parent no page type here holds descends from nothing", () => {
+-  const types = [typed("1", "target", null), typed("2", ["orphan", "page-type/gone"])]
++  const types = [typed("1", "target", null), typed("2", "orphan", ["page-type/gone"])]
+ 
+   expect([...resolveDescendantPageTypeIds(types, "1")]).toEqual(["1"])
+ })
 diff --git a/pages/package.json b/pages/package.json
 index 368d21108357e06dd9ee068ff00cf9c6d07d4877..2e620210c167623723855ca5bac0bc4f468fb732 100644
 --- a/pages/package.json
