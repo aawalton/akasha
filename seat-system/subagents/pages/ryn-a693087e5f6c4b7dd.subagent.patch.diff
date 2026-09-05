@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
-index aff24f8e303750f13038897d273518acf3912dc0..01e1439cd7b96d6368eda0e0c6814811a4947d2b 100644
+index aff24f8e303750f13038897d273518acf3912dc0..5e953bfcdbbd63293615d53e977a01f372efc773 100644
 --- a/command-system/reading/reading.module.ts
 +++ b/command-system/reading/reading.module.ts
 @@ -18,7 +18,7 @@ export const reading = {
@@ -33,6 +33,15 @@ index aff24f8e303750f13038897d273518acf3912dc0..01e1439cd7b96d6368eda0e0c6814811
        invariantKind: "departure",
 -      statement: "The body a mechanical change left answers what a warrant asks.",
 +      statement: "The body a mechanical change left answers the question a warrant asks.",
+     },
+     {
+       invariantKind: "departure",
+@@ -113,7 +113,7 @@ export const reading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A removal forgets the reading of what went for every agent.",
++      statement: "A removal forgets the reading of the path that went for every agent.",
      },
      {
        invariantKind: "departure",
