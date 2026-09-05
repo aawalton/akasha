@@ -1,8 +1,8 @@
 diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
-index 1d0ee1e71cbd54fb992546bd485afd9faee516b3..7a4272136ee4c51f5700bbab41bdb727943db095 100644
+index 1d0ee1e71cbd54fb992546bd485afd9faee516b3..80c4a0955e7e1f7490730335177a9454b4632863 100644
 --- a/domains/initiatives/pages/thea-checks-system.initiative.ts
 +++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
-@@ -7,6 +7,12 @@ export const theaChecksSystem = {
+@@ -7,10 +7,16 @@ export const theaChecksSystem = {
    domainSlug: "workspace-package/checks",
    personaSlug: "thea",
    intents: [
@@ -15,3 +15,8 @@ index 1d0ee1e71cbd54fb992546bd485afd9faee516b3..7a4272136ee4c51f5700bbab41bdb727
      {
        statement: "Every check is clean.",
        workingMemory:
+-        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. Turn a green check on at patch early: live landings measure better than probes. Figures go in the check's `measured` property; the entries jsonl holds every run. 42 checks, alphabetical. Done: domain-is-named-by-a-parent. Now: email-address-is-well-formed, green, on at patch.",
++        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. Turn a green check on at patch early: live landings measure better than probes. The entries jsonl holds every run. 42 checks, alphabetical. Done: domain-is-named-by-a-parent. Now: email-address-is-well-formed, green, on at patch.",
+     },
+     {
+       statement: "The new system carries every check of the old system that still applies.",
