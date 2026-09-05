@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-player-completion/completion-catalogs/completion-catalogs.module.ts b/temper/temper-player-completion/completion-catalogs/completion-catalogs.module.ts
+index 4f45d82c881977cfce40471fa4fdb4d8c06c2799..1f5bd341ed026ce43ae9ebda4792b91351fec5e4 100644
+--- a/temper/temper-player-completion/completion-catalogs/completion-catalogs.module.ts
++++ b/temper/temper-player-completion/completion-catalogs/completion-catalogs.module.ts
+@@ -17,7 +17,7 @@ export const completionCatalogs = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A catalog is named for what the catalog holds rather than for its reader.",
++      statement: "A catalog is named for the entries the catalog holds rather than for its reader.",
+     },
+     {
+       invariantKind: "departure",
