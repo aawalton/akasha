@@ -1,0 +1,80 @@
+diff --git a/alan/atlas-web/tsconfig.json b/alan/atlas-web/tsconfig.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..13aeec0814c5a7a7e8a32366477391b1a654ec01
+--- /dev/null
++++ b/alan/atlas-web/tsconfig.json
+@@ -0,0 +1,38 @@
++{
++  "extends": "../../tsconfig.base.json",
++  "compilerOptions": {
++    "jsx": "react-jsx",
++    "lib": ["dom", "dom.iterable", "esnext"],
++    "types": ["@types/bun", "node", "vite/client"],
++    "rootDirs": [".", "./.react-router/types"],
++    "paths": {
++      "@/*": ["./*"]
++    },
++    "composite": true,
++    "noEmit": false,
++    "emitDeclarationOnly": true,
++    "declarationDir": "dist",
++    "rootDir": "../.."
++  },
++  "include": [
++    "*.ts",
++    "*.tsx",
++    "routes/**/*.ts",
++    "routes/**/*.tsx",
++    "*/*.module.ts",
++    "*/*.module.code.ts",
++    "*/*.module.code.tsx",
++    "*/*.stylesheet.ts",
++    ".server/*/*.module.ts",
++    ".server/*/*.module.code.ts",
++    ".react-router/types/**/*.ts",
++    ".react-router/types/**/*.tsx",
++    ".react-router/types/**/+types/*.ts",
++    "server.ts",
++    "vite.config.ts",
++    "react-router.config.ts",
++    "*.cluster-service.code.attachment.ts",
++    "tunnel-routes.ts"
++  ],
++  "exclude": ["node_modules", "dist", "build"]
++}
+diff --git a/alan/web-capacitor/tsconfig.json b/alan/web-capacitor/tsconfig.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..1c72c8264d948f368b2ca1918ca3fcf212349651
+--- /dev/null
++++ b/alan/web-capacitor/tsconfig.json
+@@ -0,0 +1,30 @@
++{
++  "extends": "../../tsconfig.base.json",
++  "compilerOptions": {
++    "jsx": "react-jsx",
++    "lib": ["dom", "dom.iterable", "esnext"],
++    "types": ["@types/bun", "node", "vite/client"],
++    "rootDirs": [".", "./.react-router/types"],
++    "paths": {
++      "@/*": ["./*"]
++    },
++    "composite": true,
++    "noEmit": false,
++    "emitDeclarationOnly": true,
++    "declarationDir": "dist",
++    "rootDir": "../.."
++  },
++  "include": [
++    "*.ts",
++    "*.tsx",
++    "routes/**/*.ts",
++    "routes/**/*.tsx",
++    "*/*.stylesheet.ts",
++    ".react-router/types/**/*.ts",
++    ".react-router/types/**/*.tsx",
++    ".react-router/types/**/+types/*.ts",
++    "vite.config.ts",
++    "react-router.config.ts"
++  ],
++  "exclude": ["node_modules", "dist", "build"]
++}
