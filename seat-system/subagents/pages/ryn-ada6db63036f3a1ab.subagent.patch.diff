@@ -1,5 +1,5 @@
 diff --git a/editor-extension/terminal-sync/terminal-sync.module.ts b/editor-extension/terminal-sync/terminal-sync.module.ts
-index 43df2537d3c094151e9a2d0e4b5354281410cdf1..9ac44ebfd5368f364ea3296fdc5b0b808d53f550 100644
+index 43df2537d3c094151e9a2d0e4b5354281410cdf1..6fc4501f6d0301a5fff89d36b9fc28d3b8369765 100644
 --- a/editor-extension/terminal-sync/terminal-sync.module.ts
 +++ b/editor-extension/terminal-sync/terminal-sync.module.ts
 @@ -9,7 +9,7 @@ export const terminalSync = {
@@ -22,6 +22,15 @@ index 43df2537d3c094151e9a2d0e4b5354281410cdf1..9ac44ebfd5368f364ea3296fdc5b0b80
        invariantKind: "departure",
 -      statement: "A terminal is recolored only where the color it carries differs.",
 +      statement: "A terminal is recolored only where the color that terminal carries differs.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const terminalSync = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A terminal whose seat is gone is renamed for the shell running in it.",
++      statement: "A terminal whose seat is gone is renamed for the shell running in that terminal.",
      },
      {
        invariantKind: "departure",
