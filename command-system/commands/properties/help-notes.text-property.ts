@@ -13,7 +13,7 @@ export const helpNotes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The lines stand in the order the lines are written.",
+      statement: "The lines are in the order the lines are written.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const helpNotes = {
     },
     {
       invariantKind: "departure",
-      statement: "What one thing a command takes is for stands beside that thing rather than here.",
+      statement: "What one thing a command takes is for sits beside that thing rather than here.",
     },
     {
       invariantKind: "absence",

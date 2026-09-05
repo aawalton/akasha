@@ -26,7 +26,7 @@ export const faultSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "Shaping a line stands apart from reading a thrown thing.",
+      statement: "Shaping a line is separate from reading a thrown thing.",
     },
     {
       invariantKind: "departure",

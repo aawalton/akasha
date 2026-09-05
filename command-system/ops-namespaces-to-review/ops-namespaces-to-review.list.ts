@@ -21,7 +21,7 @@ export const opsNamespacesToReview = {
     },
     {
       invariantKind: "departure",
-      statement: "A command standing under no namespace is not on this list.",
+      statement: "A command under no namespace is not on this list.",
     },
   ],
 } as const satisfies List

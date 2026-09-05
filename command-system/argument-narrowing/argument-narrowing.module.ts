@@ -13,7 +13,7 @@ export const argumentNarrowing = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the place the value stands in.",
+      statement: "A refusal names the place the value is in.",
     },
   ],
 } as const satisfies Module

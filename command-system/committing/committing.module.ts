@@ -75,12 +75,12 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change asking for what already stands commits nothing.",
+      statement: "A change asking for what is already there commits nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change asking for what already stands answers as nothing rather than as a commit.",
+        "A change asking for what is already there answers as nothing rather than as a commit.",
     },
     {
       invariantKind: "departure",
