@@ -10,7 +10,7 @@ export const seatTerminals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A terminal is matched to a seat through the process running in it.",
+      statement: "A terminal is matched to a seat through the process running in that terminal.",
     },
     {
       invariantKind: "departure",
