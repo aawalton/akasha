@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/fitness/session-planning/weekly-coverage/weekly-coverage.module.ts b/alan/fitness/session-planning/weekly-coverage/weekly-coverage.module.ts
+index aa7ff07a91a31ba74857b40c7226df08176f0fa4..1cde0346bd8c40c4e0320ab0dcfd8604ecc18c2b 100644
+--- a/alan/fitness/session-planning/weekly-coverage/weekly-coverage.module.ts
++++ b/alan/fitness/session-planning/weekly-coverage/weekly-coverage.module.ts
+@@ -10,7 +10,8 @@ export const weeklyCoverage = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Coverage is read from what was performed rather than from what was planned.",
++      statement:
++        "Coverage is read from the movements performed rather than from the movements planned.",
+     },
+     {
+       invariantKind: "departure",
