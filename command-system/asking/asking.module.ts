@@ -55,7 +55,8 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal names what puts a subagent's page up and what to run to put one up.",
+      statement:
+        "That refusal names the hook that puts a subagent's page up and the command to run to put one up.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +64,8 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "What the refusal names is filled in from the agent id as far as that id says.",
+      statement:
+        "The names that refusal gives are filled in from the agent id as far as that id says.",
     },
     {
       invariantKind: "departure",
@@ -83,12 +85,12 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "What a draft was judged over is the patch rather than the call's own paths.",
+      statement: "A draft was judged over the patch rather than the call's own paths.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A dry run judges what is there as the dry run runs rather than what a later landing will judge.",
+        "A dry run judges the tree as the dry run runs rather than the tree a later landing will judge.",
     },
     {
       invariantKind: "departure",
@@ -131,7 +133,8 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the caller asked for is recorded as read by whoever landed that body.",
+      statement:
+        "A body the caller asked for is recorded as read by the agent that landed that body.",
     },
     {
       invariantKind: "departure",
@@ -144,7 +147,7 @@ export const asking = {
     },
     {
       invariantKind: "constraint",
-      statement: "A reading is taken of what this repository holds alone.",
+      statement: "A reading is taken of the paths this repository holds alone.",
     },
     {
       invariantKind: "departure",
