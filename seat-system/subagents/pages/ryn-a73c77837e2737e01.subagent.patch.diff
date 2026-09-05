@@ -1,5 +1,5 @@
 diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
-index 845b7dd04338a430d0473c1db365ed4e7699ae38..f3de7a54ed904854eb09e55294afdbd2878abb8a 100644
+index 845b7dd04338a430d0473c1db365ed4e7699ae38..a2b88c62ca50b2d9d9bb0788dc05265ac339c59b 100644
 --- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
 +++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
 @@ -23,7 +23,7 @@ export const imessageCommandReading = {
@@ -8,6 +8,15 @@ index 845b7dd04338a430d0473c1db365ed4e7699ae38..f3de7a54ed904854eb09e55294afdbd2
        invariantKind: "departure",
 -      statement: "A word alone fills the flag the command names for it.",
 +      statement: "A word alone fills the flag the command names for that word.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +31,7 @@ export const imessageCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag that does not repeat is refused where it is said twice.",
++      statement: "A flag that does not repeat is refused where that flag is said twice.",
      },
      {
        invariantKind: "departure",
