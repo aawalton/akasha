@@ -14,7 +14,7 @@ export const blockSubagentAudit = {
     {
       invariantKind: "departure",
       statement:
-        "An audit is refused for the memory a run holds rather than for what a run writes.",
+        "An audit is refused for the memory a run holds rather than for the changes a run writes.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const blockSubagentAudit = {
     {
       invariantKind: "departure",
       statement:
-        "The refusal says what a run costs, the command's own help saying only what that command writes.",
+        "The refusal says a run's cost, the command's own help saying only the changes that command writes.",
     },
     {
       invariantKind: "departure",
