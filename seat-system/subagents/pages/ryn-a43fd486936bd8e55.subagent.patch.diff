@@ -90,3 +90,16 @@ index 70659b3dba59cf4d616c27e1290f0f7a7810652d..faa0ab14408a699b11314c0a8967a834
      },
      { invariantKind: "departure", statement: "The input is stored before the job is created." },
      {
+diff --git a/person-system/people/email/email-messages/email-message.page-type.ts b/person-system/people/email/email-messages/email-message.page-type.ts
+index 885ad521048871c33ea4e3c7e123b8342255afbc..0bb48309409c2885f494952cd35e1ee96da8e433 100644
+--- a/person-system/people/email/email-messages/email-message.page-type.ts
++++ b/person-system/people/email/email-messages/email-message.page-type.ts
+@@ -26,7 +26,7 @@ export const emailMessage = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "Who a message is from and to, its subject and the list it came through are yet to exist as properties.",
++        "A message's sender, recipients, subject and mailing list are yet to exist as properties.",
+     },
+   ],
+ } as const satisfies PageType
