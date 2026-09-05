@@ -50,8 +50,11 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "These bodies are composed by a program rather than authored, so the landing owes no reading and reads nothing first.",
+      statement: "These bodies are composed by a program rather than authored.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing owes no reading and reads nothing first.",
     },
     {
       invariantKind: "departure",
