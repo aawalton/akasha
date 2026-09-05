@@ -30,7 +30,8 @@ export const watcherWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "The queue running uploads in turn runs each upload after the one before it ends.",
+      statement:
+        "The queue running uploads in turn runs each upload after the one before that upload ends.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +80,7 @@ export const watcherWorker = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what the watcher does with a file it read.",
+      statement: "Nothing here decides what the watcher does with a file that watcher read.",
     },
   ],
 } as const satisfies Module
