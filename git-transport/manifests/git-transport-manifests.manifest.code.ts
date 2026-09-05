@@ -1,12 +1,12 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
-import { deploymentYaml } from "./transport-deployment/transport-deployment.module.code.ts"
+import { deploymentYaml } from "../transport-deployment/transport-deployment.module.code.ts"
 import {
   APP_NAME,
   NAMESPACE,
   RESOURCE_LABELS,
   SELECTOR_LABELS,
-} from "./transport-naming/transport-naming.module.code.ts"
+} from "../transport-naming/transport-naming.module.code.ts"
 
 function namespaceYaml(): string {
   return synthOne(NAMESPACE, "namespace", {
