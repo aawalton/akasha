@@ -1,14 +1,19 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts
-index 69c1901c9d86cf099720867f1df1733bae3a5fc1..8f0d2c2f2a639ecd5c4a559d81ca8d852fb46049 100644
+index 69c1901c9d86cf099720867f1df1733bae3a5fc1..0c5a83485d0098fd0b3fee4576416e5bc4942892 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts
-@@ -12,7 +12,7 @@ test("an assertion written that way is refused", () => {
+@@ -12,11 +12,11 @@ test("an assertion written that way is refused", () => {
    expect(said[0]?.reason).toContain("`as`")
  })
  
 -test("the same assertion written with `as` stands", () => {
 +test("the same assertion written with `as` is left", () => {
    expect(noAngleBracketCast(parsed("const one = held as Held\n"))).toEqual([])
+ })
+ 
+-test("a const assertion stands", () => {
++test("a const assertion is left", () => {
+   expect(noAngleBracketCast(parsed("const one = [1, 2] as const\n"))).toEqual([])
  })
  
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
@@ -25,10 +30,10 @@ index 9d5ebc056a2f9205c09cc3c5d87bdbe963540a2b..d572f29bcbd64f3c601e9e6114e53ead
    ],
  } as const satisfies SyntaxRule
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts
-index 8d0084ae1cb168354b35e05f3807d51ab04fa4a5..fd661fff9f07680f99cae3d639ddb797e4a91a71 100644
+index 8d0084ae1cb168354b35e05f3807d51ab04fa4a5..886d5ed350d76b890bda10eb1408e9ca84f57b67 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts
-@@ -20,7 +20,7 @@ test("an assertion reaching through any is refused", () => {
+@@ -20,11 +20,11 @@ test("an assertion reaching through any is refused", () => {
    expect(said[0]?.reason).toContain("`any`")
  })
  
@@ -37,16 +42,26 @@ index 8d0084ae1cb168354b35e05f3807d51ab04fa4a5..fd661fff9f07680f99cae3d639ddb797
    expect(noDoubleCast(parsed("const one = held as Held\n"))).toEqual([])
  })
  
+-test("a widening standing alone is left", () => {
++test("a widening on its own is left", () => {
+   expect(noDoubleCast(parsed("const one = held as unknown\n"))).toEqual([])
+ })
+ 
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
-index 808ca3261f486777f017708462272213489ce067..c7ff5c42ec19a96b99dc6076c5aab3278a22936e 100644
+index 808ca3261f486777f017708462272213489ce067..6b4b2d6da81a9a2dbe979196f20f9ad6d119e657 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
-@@ -10,7 +10,7 @@ export const noDoubleCast = {
+@@ -10,11 +10,11 @@ export const noDoubleCast = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "An assertion standing on a widening is refused.",
 +      statement: "An assertion sitting on a widening is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One assertion on its own stands.",
++      statement: "One assertion on its own is left.",
      },
      {
        invariantKind: "departure",
