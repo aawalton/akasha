@@ -142,3 +142,19 @@ index 28f148b80f6be897e83506798aa5193bea487030..73ab44e2762024fa1643f23131a83392
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts b/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
+index 3bf111acf7dec2dab3c39b219cefbd4113513634..91921bc4d8f9f827ab5d1a5707f88c12318bc8d0 100644
+--- a/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
++++ b/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
+@@ -46,10 +46,7 @@ export const upkeepActivity = {
+       invariantKind: "departure",
+       statement: "A day carrying neither half is no reading rather than an activity of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
