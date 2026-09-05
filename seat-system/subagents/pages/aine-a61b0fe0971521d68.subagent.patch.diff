@@ -47,7 +47,7 @@ index b5cc73dc1c04d1f9181ac904740043a6b03392c0..a91f1edb25eedb6c42d324f8dd440a12
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
 diff --git a/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts b/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts
-index 0e638b89a985e864f19855a92ad7edff13c23999..2fefc898494659d3b97bab457fb36317442b9b21 100644
+index 0e638b89a985e864f19855a92ad7edff13c23999..506ddb61f49ae6caba53bad62d2b659627ecd28d 100644
 --- a/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts
 +++ b/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts
 @@ -53,7 +53,7 @@ test("a manifest names the resource its own top-level metadata states", () => {
@@ -68,6 +68,15 @@ index 0e638b89a985e864f19855a92ad7edff13c23999..2fefc898494659d3b97bab457fb36317
    const opening = manifest({ kind: "Namespace", resourceName: "one", namespace: null })
    const between = manifest({ kind: "Service", resourceName: "web" })
    const ordered = inApplyOrder([manifest({}), between, opening], WEB)
+@@ -88,7 +88,7 @@ test("the namespace stands first and the workload last", () => {
+   expect(ordered[2]?.kind).toBe("Deployment")
+ })
+ 
+-test("a checksum nothing filled in is a stand-in", () => {
++test("a checksum nothing filled in is a placeholder", () => {
+   const held = manifest({ yaml: "      checksum/s3-creds: PENDING\n" })
+   expect(unfilledIn(held)[0]).toContain("checksum/s3-creds")
+ })
 diff --git a/service-system/cluster-services/workload-deploying/workload-deploying.module.ts b/service-system/cluster-services/workload-deploying/workload-deploying.module.ts
 index efdbf7203b096ea3b848c73da6b9da225c5a0c89..5ab6265462056c6f9aeb6c381b4eccebbb3ca28f 100644
 --- a/service-system/cluster-services/workload-deploying/workload-deploying.module.ts
