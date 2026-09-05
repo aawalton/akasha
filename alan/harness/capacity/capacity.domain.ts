@@ -21,11 +21,7 @@ export const capacity = {
       statement:
         "The capacity is summed over the stretches of the day rather than read off the day.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every site showing the capacity is carried the capacity rather than taking one.",

@@ -16,11 +16,7 @@ export const safety = {
       invariantKind: "departure",
       statement: "The level is read from the tracking the workstation's checkout carries.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every site showing the level is carried the level rather than taking one.",

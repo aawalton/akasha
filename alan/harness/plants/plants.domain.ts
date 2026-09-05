@@ -16,11 +16,7 @@ export const plants = {
       invariantKind: "departure",
       statement: "The grams are read from the food entries the workstation's checkout carries.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement:

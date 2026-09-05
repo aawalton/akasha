@@ -16,11 +16,7 @@ export const sleep = {
       invariantKind: "departure",
       statement: "The sleep is read from the tracking the workstation's checkout carries.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every site showing the sleep is carried the sleep rather than taking one.",

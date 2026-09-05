@@ -20,11 +20,7 @@ export const surplus = {
       invariantKind: "departure",
       statement: "The surplus is read from the tracking the workstation's checkout carries.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every site showing the surplus is carried the surplus rather than taking one.",

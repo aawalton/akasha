@@ -31,11 +31,7 @@ export const attributes = {
       invariantKind: "departure",
       statement: "The constitution counts food entries rather than reading a figure off the day.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "One timer takes every attribute reading.",

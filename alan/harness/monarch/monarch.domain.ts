@@ -80,11 +80,7 @@ export const monarch = {
       invariantKind: "constraint",
       statement: "A Monarch session cookie comes only from Alan at a signed-in browser.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The cookie is only on the workstation that takes the reading.",

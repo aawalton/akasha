@@ -24,11 +24,7 @@ export const inbox = {
       invariantKind: "departure",
       statement: "A count is read from the pages the workstation's checkout carries.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every site showing an inbox is carried the count rather than taking one.",

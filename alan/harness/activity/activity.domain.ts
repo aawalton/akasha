@@ -20,11 +20,7 @@ export const activity = {
       invariantKind: "departure",
       statement: "The calories a day's health readings came to are rolled onto that day first.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every site showing the activity is carried the activity rather than taking one.",
