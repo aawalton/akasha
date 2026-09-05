@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+index bc47df096b8bf737d27611b38cdf50dfd2cbdbf9..6b5d74795a8d09edf2fee3259ec92fc824e70349 100644
+--- a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
++++ b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+@@ -17,7 +17,7 @@ export const editorLayoutPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A terminal tab names the seat in it and the process running in it.",
++      statement: "A terminal tab names the seat in that tab and the process running in that tab.",
+     },
+     {
+       invariantKind: "departure",
