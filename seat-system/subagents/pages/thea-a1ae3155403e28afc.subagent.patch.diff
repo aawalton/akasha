@@ -120,3 +120,71 @@ index 8244bcde31b9824db5204f0677647a90e3abb9ac..e28ccb6453ce702d8e872eb255b39865
        held.push({ scope, propertySlug, said })
      }
    }
+diff --git a/pages/indexes/identity/index-identity.index.ts b/pages/indexes/identity/index-identity.index.ts
+index db6c948606c4efb911797bd8116a24b1451f9fac..2efacae860bfe7efea018223a8698ba17c5a695d 100644
+--- a/pages/indexes/identity/index-identity.index.ts
++++ b/pages/indexes/identity/index-identity.index.ts
+@@ -15,7 +15,12 @@ export const indexIdentity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The scope is what an identifier is unique within, a page type or a collection.",
++      statement:
++        "The scope is what an identifier is unique within, a page type or a page's parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page's parents are handed in rather than worked out from that page alone.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
+index 382d94f4ec89abae9a72fea656e6987c42c13776..cc81cdfbc1e5d36e61d77fc219942362ed3fcfb2 100644
+--- a/pages/indexes/indexing/indexing.module.ts
++++ b/pages/indexes/indexing/indexing.module.ts
+@@ -110,5 +110,9 @@ export const indexing = {
+       invariantKind: "gap",
+       statement: "A page the index cannot read is reported rather than answered as empty.",
+     },
++    {
++      invariantKind: "gap",
++      statement: "A rebuild and a settle hand in the pages naming each page they file.",
++    },
+   ],
+ } as const satisfies Module
+diff --git a/pages/unique-kinds/pages/part-of.unique-kind.ts b/pages/unique-kinds/pages/part-of.unique-kind.ts
+index 7321036f5a74611e25e0f220a633f00d7252e1b2..2a0588ec112598d0876d3bf191c3b0c24bc41060 100644
+--- a/pages/unique-kinds/pages/part-of.unique-kind.ts
++++ b/pages/unique-kinds/pages/part-of.unique-kind.ts
+@@ -4,19 +4,27 @@ export const partOf = {
+   id: "01a06e67-b235-7f0c-bf4b-da0ea1868950",
+   pageTypeSlug: "unique-kind",
+   slug: "part-of",
+-  definition: "the value is unique among the pages part of one collection",
++  definition: "the value is unique among the pages one page is made of",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page part of more than one collection is filed under each of them.",
++      statement: "A page is part of what names it under `part-slugs`.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The scope a page is filed under is the slug of the collection it is part of.",
++      statement: "A collection is part of what it names under `part-of-slugs`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page part of more than one page is filed under each of them.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The scope a page is filed under is the slug of the page it is part of.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A page part of no collection is filed under no scope of this reach.",
++      statement: "A page part of nothing is filed under no scope of this reach.",
+     },
+   ],
+ } as const satisfies UniqueKind
