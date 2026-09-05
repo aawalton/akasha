@@ -1,0 +1,14 @@
+diff --git a/temper/temper-lib-sets/temper-lib-sets.eso-addon.ts b/temper/temper-lib-sets/temper-lib-sets.eso-addon.ts
+index e2f8c752eb6bc56378465dc9228d74a749e16d6e..9bd13a1d412ee33a0b1f16dbd72041fdeac66c0b 100644
+--- a/temper/temper-lib-sets/temper-lib-sets.eso-addon.ts
++++ b/temper/temper-lib-sets/temper-lib-sets.eso-addon.ts
+@@ -267,5 +267,9 @@ export const temperLibSets = {
+       invariantKind: "departure",
+       statement: "A set is looked up by its numeric set id.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Japanese is not among the languages the library counts as supported.",
++    },
+   ],
+ } as const satisfies EsoAddon
