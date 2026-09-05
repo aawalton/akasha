@@ -33,7 +33,8 @@ export const sessionPlanning = {
     },
     {
       invariantKind: "departure",
-      statement: "A value a movement carries is named by the exercise property that declares it.",
+      statement:
+        "A value a movement carries is named by the exercise property that declares that value.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +42,7 @@ export const sessionPlanning = {
     },
     {
       invariantKind: "departure",
-      statement: "A plan states why each movement is where it is.",
+      statement: "A plan states why each movement is where that movement is.",
     },
     {
       invariantKind: "departure",
