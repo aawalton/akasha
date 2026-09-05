@@ -56,10 +56,10 @@ index 95fc9bda56140a4121cd14176e4783c53eda85f2..49915e49b33c7072df602c11ba01bbb0
      }
    }
 diff --git a/seat-system/messaging/message-to/message-to.module.test.ts b/seat-system/messaging/message-to/message-to.module.test.ts
-index 225e4e42e6b1d51f89c1aa359e8286485bb6212b..18878244c9ace35b14915b131bce115209e0f4bc 100644
+index 225e4e42e6b1d51f89c1aa359e8286485bb6212b..cc144dc399ac4708bbfe1e58c077b9895c754b54 100644
 --- a/seat-system/messaging/message-to/message-to.module.test.ts
 +++ b/seat-system/messaging/message-to/message-to.module.test.ts
-@@ -24,7 +24,7 @@ describe("readStated", () => {
+@@ -24,16 +24,16 @@ describe("readStated", () => {
      expect(readStated("  ", " ")).toEqual({ kind: "none" })
    })
  
@@ -68,3 +68,14 @@ index 225e4e42e6b1d51f89c1aa359e8286485bb6212b..18878244c9ace35b14915b131bce1152
      const stated = readStated("akasha-migration", undefined)
      expect(stated.kind).toBe("refuse")
      expect(stated.kind === "refuse" && stated.reason).toContain("Add --role")
+   })
+ 
+-  test("refuses a role standing without a domain", () => {
++  test("refuses a role stated without a domain", () => {
+     const stated = readStated(undefined, "worker")
+     expect(stated.kind).toBe("refuse")
+-    expect(stated.kind === "refuse" && stated.reason).toContain("stands alone")
++    expect(stated.kind === "refuse" && stated.reason).toContain("is alone")
+   })
+ 
+   test("trims what it is handed", () => {
