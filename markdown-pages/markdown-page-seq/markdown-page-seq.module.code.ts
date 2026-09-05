@@ -84,8 +84,8 @@ async function advance(source: SeqSource, first: number, count: number): Promise
     return {
       code: 1,
       output:
-        `\`${was}\` stands ${parts.length - 1} time(s) in ${source.pageTypeRelPath}, and the ` +
-        "counter is advanced only where it stands exactly once",
+        `\`${was}\` is written ${parts.length - 1} time(s) in ${source.pageTypeRelPath}, and the ` +
+        "counter is advanced only where it is written exactly once",
     }
   }
   const landed = await landBodies(
@@ -108,22 +108,22 @@ export async function takeSeqsOf(source: SeqSource, count: number): Promise<numb
   }
   const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
   return await exclusively(`${absolute}${ALLOCATING}`, async () => {
-    const stoodChanged = uncommitted(source.pageTypeRelPath)
+    const wasChanged = uncommitted(source.pageTypeRelPath)
     const first = readNextSeqOf(source)
     const run = await advance(source, first, count)
     if (run.code === 0) return first
-    if (!stoodChanged && uncommitted(source.pageTypeRelPath)) {
+    if (!wasChanged && uncommitted(source.pageTypeRelPath)) {
       throw new Error(
         `nothing was created and ${count === 1 ? "seq" : "seqs"} ${runOf(first, count)} cannot be ` +
           `given back: the edit advancing \`${NEXT_SEQ_KEY}\` in ${source.pageTypeRelPath} ` +
-          "reached disk and the commit that should have carried it did not, so that file stands " +
+          "reached disk and the commit that should have carried it did not, so that file is " +
           "changed and uncommitted. Land or undo the change before asking again. What the attempt " +
           `said:\n${run.output}`
       )
     }
     throw new Error(
       `no ${source.noun} seq was taken: advancing \`${NEXT_SEQ_KEY}\` in ` +
-        `${source.pageTypeRelPath} by ${count} was refused with the counter left where it stood, ` +
+        `${source.pageTypeRelPath} by ${count} was refused with the counter left where it was, ` +
         "and nothing was created. Asking again reads the same number and meets the same refusal, " +
         `so read what it said and fix that:\n${run.output}`
     )

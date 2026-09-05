@@ -17,7 +17,7 @@ const STRINGIFY_OPTIONS = {
 
 export function uncommittedPathFor(pagePath: string): string {
   if (!pagePath.endsWith(PAGE_SUFFIX)) {
-    throw new Error(`an uncommitted file stands beside a page, and '${pagePath}' is not one`)
+    throw new Error(`an uncommitted file sits beside a page, and '${pagePath}' is not one`)
   }
   return `${pagePath.slice(0, -PAGE_SUFFIX.length)}${UNCOMMITTED_SUFFIX}`
 }
@@ -40,7 +40,7 @@ function readUncommittedNow(pagePath: string): Record<string, unknown> | null {
     parsed = parse(raw)
   } catch (thrown) {
     throw new Error(
-      `'${path}' stands beside a page but its YAML cannot be parsed, so what it holds is unknown rather than nothing: ${String(thrown)}`
+      `'${path}' sits beside a page but its YAML cannot be parsed, so what it holds is unknown rather than nothing: ${String(thrown)}`
     )
   }
   if (typeof parsed !== "object" || parsed === null || Array.isArray(parsed)) {
@@ -77,10 +77,10 @@ export function patchUncommittedUnder(
 ): void {
   exclusively(uncommittedPathFor(pagePath), () => {
     const held = readUncommittedNow(pagePath) ?? {}
-    const standing = held[key]
+    const inside = held[key]
     const under =
-      typeof standing === "object" && standing !== null && !Array.isArray(standing)
-        ? (standing as Record<string, unknown>)
+      typeof inside === "object" && inside !== null && !Array.isArray(inside)
+        ? (inside as Record<string, unknown>)
         : {}
     writeUncommitted(pagePath, { ...held, [key]: { ...under, ...values } })
   })

@@ -12,7 +12,7 @@ const held = new Map<string, Minimatch>()
 // a directory to descend nor a file to match, and nothing here follows one.
 const UNWALKED: ReadonlySet<string> = new Set(["node_modules", ".git"])
 
-// Everything before the last `/` that stands ahead of the first glob character. Walking from there
+// Everything before the last `/` that sits ahead of the first glob character. Walking from there
 // rather than from the root is what keeps a placed pattern cheap.
 const SPECIAL = /[*?[\]{}()!+@]/
 
@@ -40,8 +40,8 @@ export function globBaseOf(pattern: string): string {
 // only glob characters are the leading `**/` and a `*` ahead of a literal tail asks nothing of the
 // path but its ending, so the ending is what gets read.
 //
-// `**/` stands for zero or more segments and `*` for zero or more characters within one, so under
-// `dot: true` the pattern matches exactly those paths ending in the tail, wherever they stand and
+// `**/` represents zero or more segments and `*` zero or more characters within one, so under
+// `dot: true` the pattern matches exactly those paths ending in the tail, wherever they are and
 // whatever they are named — which is what `endsWith` answers.
 const TAIL_ONLY = /^\*\*\/\*([A-Za-z0-9._-]+)$/
 
@@ -78,9 +78,9 @@ function scannedGlob(pattern: string, root: string): readonly string[] {
 // times: six saved queries, each scanning for the query pages, for the pages of its type, and for
 // the page-type registry under those. Held for the length of a `duringOneCall` scope the 22 walks
 // are one, and the answer is the same answer — measured byte for byte against what the 22 walks
-// composed. A reader outside such a scope memoizes nothing and walks the disk as it stands.
+// composed. A reader outside such a scope memoizes nothing and walks the disk as it is.
 //
-// What a call gets is therefore the tree as it stood when that call first asked. `page-type-files`
+// What a call gets is therefore the tree as it was when that call first asked. `page-type-files`
 // and `documents` already hold a scan on those terms, so a writer landing a file and scanning
 // again inside one call was reading past its own write before this.
 export function scanGlob(pattern: string, root: string): readonly string[] {

@@ -136,7 +136,7 @@ function linkSlot(
   if (value === null) return no(why!)
   if (value.type !== "docref")
     return no(
-      `\`{${name}}\` stands as a link, so \`slots.${name}\` states \`to:\` rather than a bound on its text`
+      `\`{${name}}\` is written as a link, so \`slots.${name}\` states \`to:\` rather than a bound on its text`
     )
   return {
     slot: { slot: "hole", name, value, mark: node.marks[0] ?? null, optional: false },
@@ -218,7 +218,7 @@ export function lineRule(
       )
     if (rest.length > 0)
       return no(
-        `${at} bars a mark from the whole line ${fills} fills, and ${fills} stands beside other text on it`
+        `${at} bars a mark from the whole line ${fills} fills, and ${fills} sits beside other text on it`
       )
     if (lead.slot === "hole" && lead.mark !== null)
       return no(
