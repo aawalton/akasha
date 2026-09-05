@@ -90,7 +90,7 @@ index 0a5cb1ff71f21815e8bb18b913455ed5ae4e19d7..e7c1b51bac6b43c5de397b538c75ed3d
      {
        invariantKind: "departure",
 diff --git a/persona-system/persona-reading/persona-reading.module.code.ts b/persona-system/persona-reading/persona-reading.module.code.ts
-index 04a3d2414a07c2b3379b737306f0117f4a179883..7865d6a691efd24f8acf022cf67f13996db7966a 100644
+index 04a3d2414a07c2b3379b737306f0117f4a179883..ae8160fef2ad04c2a1b32f07ed3436128156fc6e 100644
 --- a/persona-system/persona-reading/persona-reading.module.code.ts
 +++ b/persona-system/persona-reading/persona-reading.module.code.ts
 @@ -49,24 +49,24 @@ function portraitIn(path: string, value: Value): string | null {
@@ -125,7 +125,7 @@ index 04a3d2414a07c2b3379b737306f0117f4a179883..7865d6a691efd24f8acf022cf67f1399
      roleSlug: textAt(value, "roleSlug"),
      valueSlug: textAt(value, "valueSlug"),
      origin: textAt(value, "origin"),
-@@ -81,7 +81,7 @@ function personaFrom(root: string, standing: Listed): Persona {
+@@ -81,10 +81,10 @@ function personaFrom(root: string, standing: Listed): Persona {
  }
  
  export function personasStanding(root: string): readonly Persona[] {
@@ -133,7 +133,11 @@ index 04a3d2414a07c2b3379b737306f0117f4a179883..7865d6a691efd24f8acf022cf67f1399
 +  const found = everyOfType(root, PAGE_TYPE).map((listed) => personaFrom(root, listed))
    if (found.length === 0) {
      throw new Error(
-       "no persona stands, so the cast would read as empty rather than as unread — an index that " +
+-      "no persona stands, so the cast would read as empty rather than as unread — an index that " +
++      "no persona is there, so the cast would read as empty rather than as unread — an index that " +
+         "names nobody is not a cast of nobody"
+     )
+   }
 diff --git a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts b/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
 index 3f24664cb5f441e6cce5270b7287193a0a9a9db2..146df8cc5a0a8c55313fe6f331e4ffbef3a1c2d2 100644
 --- a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
