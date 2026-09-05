@@ -20,8 +20,6 @@ export const domain = {
   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
   partSlugs: [
     "boolean-property/expands",
-    "domain/domain-championing",
-    "domain/domain-parent",
     "record-property/directives",
     "record-property/invariants",
     "relation-property/directive-kind",

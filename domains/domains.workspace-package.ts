@@ -18,6 +18,8 @@ export const domains = {
     "page-type/sentence-shape",
     "workspace-package/plain-language",
     "domain/domain-purpose",
+    "domain/domain-championing",
+    "domain/domain-parent",
     "command/domain",
     "module/domain-documents",
     "module/domain-reading",
