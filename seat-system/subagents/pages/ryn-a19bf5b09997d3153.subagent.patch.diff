@@ -13,3 +13,18 @@ index 90688aadd83e30efe8c276975e8e72e947370f36..48ef60b698aa11afce5b91dc76f05101
 -    },
 -  ],
  } as const satisfies Module
+diff --git a/temper/temper-lib-sets/lib-sets-drop-tip-tooltips-jp/lib-sets-drop-tip-tooltips-jp.module.ts b/temper/temper-lib-sets/lib-sets-drop-tip-tooltips-jp/lib-sets-drop-tip-tooltips-jp.module.ts
+index 39e76919292d5fc0c3e05a5299a2f952dd1609ba..9c85b0db2100dc60c49b39ffab62ec74b4a4512d 100644
+--- a/temper/temper-lib-sets/lib-sets-drop-tip-tooltips-jp/lib-sets-drop-tip-tooltips-jp.module.ts
++++ b/temper/temper-lib-sets/lib-sets-drop-tip-tooltips-jp/lib-sets-drop-tip-tooltips-jp.module.ts
+@@ -6,10 +6,4 @@ export const libSetsDropTipTooltipsJp = {
+   slug: "lib-sets-drop-tip-tooltips-jp",
+   definition: "the Japanese explanation of each way a gear set drops",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Japanese is not among the languages the library counts as supported.",
+-    },
+-  ],
+ } as const satisfies Module
