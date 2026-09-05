@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts
-index 9f5d87f4ddae11790b25b9ca85da336413d4bd34..3f09f2d35a8300a4397ac66f8ad157db6942b8f6 100644
+index 9f5d87f4ddae11790b25b9ca85da336413d4bd34..b5a7e923d9f33c20d67742b3dce3df60de893d5c 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts
 @@ -32,31 +32,31 @@ test("a getter is refused", () => {
@@ -41,7 +41,7 @@ index 9f5d87f4ddae11790b25b9ca85da336413d4bd34..3f09f2d35a8300a4397ac66f8ad157db
    expect(noVoidReturn(parsed("function one(): () => void {\n  return () => {}\n}\n"))).toEqual([])
  })
  
-@@ -66,7 +66,7 @@ test("an arrow filling a `void` slot is refused for its own annotation alone", (
+@@ -66,11 +66,11 @@ test("an arrow filling a `void` slot is refused for its own annotation alone", (
    expect(said[0]?.line).toBe(1)
  })
  
@@ -50,8 +50,13 @@ index 9f5d87f4ddae11790b25b9ca85da336413d4bd34..3f09f2d35a8300a4397ac66f8ad157db
    expect(noVoidReturn(parsed("function one(): undefined {}\n"))).toEqual([])
  })
  
+-test("a type argument stands, so `Promise<void>` is left", () => {
++test("a type argument is left, so `Promise<void>` is left", () => {
+   expect(noVoidReturn(parsed("async function one(): Promise<void> {}\n"))).toEqual([])
+ })
+ 
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
-index 022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c..eb9e157af50a51800c7a9662291bed2dc79601c7 100644
+index 022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c..ccb2c4115a8ee0e5741a53135fc4fc879f639a7b 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
 @@ -10,7 +10,7 @@ export const noVoidReturn = {
@@ -69,6 +74,20 @@ index 022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c..eb9e157af50a51800c7a9662291bed2d
        invariantKind: "departure",
 -      statement: "A type describing a function written elsewhere stands.",
 +      statement: "A type describing a function written elsewhere is left.",
+     },
+     {
+       invariantKind: "departure",
+@@ -86,11 +86,11 @@ export const noVoidReturn = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`void` reached as a type argument stands.",
++      statement: "`void` reached as a type argument is left.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`Promise<void>` is the case that stands most often.",
++      statement: "`Promise<void>` is the case left most often.",
      },
      {
        invariantKind: "departure",
