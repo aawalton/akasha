@@ -15,7 +15,8 @@ export const verifySignature = {
     },
     {
       invariantKind: "departure",
-      statement: "A signature older than the tolerance is refused however well it verifies.",
+      statement:
+        "A signature older than the tolerance is refused however well that signature verifies.",
     },
     {
       invariantKind: "departure",
