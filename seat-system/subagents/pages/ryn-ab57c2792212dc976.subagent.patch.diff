@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index 656fba0aff34ae26bb9da11e7b13cdbdef045e85..1ffe24bf8941135655eeb524294a940f108e2e27 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -26,8 +26,7 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "absence",
+-      statement:
+-        "No single accuracy figure is reported, because one rate over everything is equally consistent with an agent flawless on half the history and hopeless on the other and with one mediocre everywhere.",
++      statement: "No single accuracy figure is reported.",
+     },
+     {
+       invariantKind: "departure",
