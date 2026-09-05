@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/rule-describe/monarch-rule-describe.module.ts b/alan/harness/monarch/rule-describe/monarch-rule-describe.module.ts
+index 0ff054f3c4c99d05c7d2b5beb50dc047f4b60e9d..e1865df4c6ce49be94dc4820ffe01056c252fd0b 100644
+--- a/alan/harness/monarch/rule-describe/monarch-rule-describe.module.ts
++++ b/alan/harness/monarch/rule-describe/monarch-rule-describe.module.ts
+@@ -18,8 +18,7 @@ export const monarchRuleDescribe = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A clause excluding several values is joined with `and`, because excluding several excludes every one.",
++      statement: "A clause excluding several values is joined with `and`.",
+     },
+     {
+       invariantKind: "departure",
