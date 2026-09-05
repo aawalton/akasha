@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index e3de877888b5c110e81a5b8f1b7a5548059b2ae9..7c913a415fb5f667fbac1e1bbe163f0feb57233c 100644
+index e3de877888b5c110e81a5b8f1b7a5548059b2ae9..dde3c3bec2af76de4d21cbdfa2eca1b1d1f481c6 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -16,6 +16,19 @@ const SLOT_FAMILIES = ["nsubj", "obj", "iobj", "obl", "conj", "appos"]
@@ -22,6 +22,17 @@ index e3de877888b5c110e81a5b8f1b7a5548059b2ae9..7c913a415fb5f667fbac1e1bbe163f0f
  const REFLEXIVE = [
    "herself",
    "himself",
+@@ -169,6 +182,10 @@ export function isQuantifier(token: DepToken): boolean {
+   return QUANTIFIER.includes(lower(token))
+ }
+ 
++export function isIndefinite(token: DepToken): boolean {
++  return INDEFINITE.includes(lower(token))
++}
++
+ export function marksADegree(sentence: DepSentence, token: DepToken): boolean {
+   if (!DEGREE.includes(lower(token))) return false
+   if (!childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "at")) return false
 diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
 index 111178965a8b26a36561d75fed14572455e49be4..efd14d00fb5b2788eaf1948b91034d1ab1b8f064 100644
 --- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
