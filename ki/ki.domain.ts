@@ -23,7 +23,7 @@ export const ki = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type here serves Ki what the matching page type of Alan's serves him.",
+      statement: "A page type here serves Ki what the matching page type of Alan's serves Alan.",
     },
   ],
 } as const satisfies Domain
