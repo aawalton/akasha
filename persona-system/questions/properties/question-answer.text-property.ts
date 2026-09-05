@@ -13,7 +13,7 @@ export const questionAnswer = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An answer is Alan's words rather than a pointer into what was offered.",
+      statement: "An answer is Alan's words rather than a pointer into the answers offered.",
     },
     {
       invariantKind: "departure",
