@@ -33,7 +33,8 @@ export const seatAkashaBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "The moment beside a seat is the modification time of the file holding it.",
+      statement:
+        "The moment beside a seat is the modification time of the file holding what sits beside that seat.",
     },
   ],
 } as const satisfies Module
