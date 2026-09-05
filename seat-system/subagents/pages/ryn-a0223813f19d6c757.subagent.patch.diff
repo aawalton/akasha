@@ -13,21 +13,6 @@ index 6740b0568835560793eb83cfc0ac6a5112e3522d..e4284487cc82408b62fb87af5e086e49
    ],
    directives: [
      {
-diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
-index e2855edbd9704cccabe052af68b8052a12f8e9ec..84edcbc735255b1de9a274de2befded3fccbb396 100644
---- a/editor-extension/editor-extension.workspace-package.ts
-+++ b/editor-extension/editor-extension.workspace-package.ts
-@@ -113,6 +113,10 @@ export const editorExtension = {
-       invariantKind: "departure",
-       statement: "A panel row that represents a page names that page.",
-     },
-+    {
-+      invariantKind: "absence",
-+      statement: "No timer starts a drawing.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "A row holding a match is drawn open while a filter is there.",
 diff --git a/temper/temper-character/temper-character.domain.ts b/temper/temper-character/temper-character.domain.ts
 index b465cf83a015c15e1bc1b364c983bff6dd40c74b..a4497e553c24af4633c3895fec43ef440839369c 100644
 --- a/temper/temper-character/temper-character.domain.ts
