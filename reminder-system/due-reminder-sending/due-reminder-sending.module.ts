@@ -9,7 +9,7 @@ export const dueReminderSending = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a reminder that has come due becomes is a message file, and nothing else.",
+      statement: "A reminder that has come due becomes a message file, and nothing else.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const dueReminderSending = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing in the sending knows what a seat is.",
+      statement: "Nothing in the sending reads a seat.",
     },
     {
       invariantKind: "departure",
