@@ -10,7 +10,8 @@ export const generateAddonData = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The output directories are made before any file is written into them.",
+      statement:
+        "The output directories are made before any file is written into those directories.",
     },
     {
       invariantKind: "departure",
