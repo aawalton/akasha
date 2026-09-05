@@ -103,3 +103,31 @@ index 0000000000000000000000000000000000000000..05008a286afaac9f8ea39dcbf7e3f2b7
 +fi
 +
 +exec bun "$dispatcher" "$@"
+diff --git a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
+old mode 100755
+new mode 100644
+index 110c749779d581fa6ad0666452d5454ddc6670ce..9514195d0834c7550e221f70d7035a3b878aade1
+--- a/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
++++ b/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh
+@@ -28,7 +28,7 @@ link "$FILES/git-global-ignore.provisioned-file.content.conf"  "$HOME/.config/gi
+ link "$FILES/repos-editor-settings.provisioned-file.content.json" "$REPOS/.vscode/settings.json"
+ 
+ echo "Setting up the launchers on PATH..."
+-link "$AKASHA_ROOT/dotfiles/bin/akasha" "$HOME/.local/bin/akasha"
++link "$SCRIPTS/akasha-launcher/akasha-launcher.shell-script.shell.sh" "$HOME/.local/bin/akasha"
+ link "$SCRIPTS/rg/rg.shell-script.shell.sh"                         "$HOME/.local/bin/rg"
+ link "$SCRIPTS/find-session/find-session.shell-script.shell.sh"     "$HOME/.local/bin/find-session"
+ link "$SCRIPTS/ci-cost-snapshot/ci-cost-snapshot.shell-script.shell.sh" "$HOME/.local/bin/ci-cost-snapshot"
+diff --git a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.code.ts b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.code.ts
+index d4f4ae3c994e9b92d06cad3a8c42cfc67758f81b..eec5b90dfaf3a0cf2d37f8206554033bb02989a6 100644
+--- a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.code.ts
++++ b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.code.ts
+@@ -16,4 +16,7 @@ export const SEAT_START_DIR = "$HOME/repos"
+ 
+ export const SEAT_RESUME = `"$_root/${SEAT_RESUME_REL}"`
+ 
+-export const AKASHA = `"${ROOT}/dotfiles/bin/akasha"`
++const AKASHA_REL =
++  "machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"
++
++export const AKASHA = `"${ROOT}/${AKASHA_REL}"`
