@@ -40,7 +40,8 @@ export const processEnding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a process was running or what the process belonged to.",
+      statement:
+        "Nothing here knows the command a process was running or the owner of that process.",
     },
     {
       invariantKind: "absence",
