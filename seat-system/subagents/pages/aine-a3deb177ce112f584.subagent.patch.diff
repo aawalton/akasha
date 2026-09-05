@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
-index eac319141ba75c230e6403dbc341fb883e2a6308..f848f3d403579afe2a3c75c44e9d56f8a4637707 100644
+index eac319141ba75c230e6403dbc341fb883e2a6308..c68f7b906645c1c9d791f1f2875fec39f0258f9f 100644
 --- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
 @@ -51,19 +51,19 @@ test("a path spelled through a parent still lands inside", () => {
@@ -25,6 +25,15 @@ index eac319141ba75c230e6403dbc341fb883e2a6308..f848f3d403579afe2a3c75c44e9d56f8
    const root = worldAt()
    symlinkSync(join(root, "outside", "held.ts"), join(root, "akasha", "pointer.ts"))
    expect(refusalIn(join(root, "akasha", "pointer.ts"), root, root)).toBeNull()
+@@ -75,7 +75,7 @@ test("a link outside akasha pointing into it is refused", () => {
+   expect(refusalIn(join(root, "outside", "pointer.ts"), root, root)).not.toBeNull()
+ })
+ 
+-test("a call naming no path stands", () => {
++test("a call naming no path is let through", () => {
+   const root = worldAt()
+   expect(refusalIn("", root, root)).toBeNull()
+   expect(refusalIn("   ", root, root)).toBeNull()
 diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
 index c5a83597e843954f4b76ca76429bd36998a3c8c3..6a98d4ca07dfbc877741d4b3a6f064087242cfec 100644
 --- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
