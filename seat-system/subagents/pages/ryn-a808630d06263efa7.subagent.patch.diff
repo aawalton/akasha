@@ -1,5 +1,5 @@
 diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
-index 43e695aaaf00fd357de4034f53617088630bba7c..a4ef6b0ba1c0d4dff5ced6d75ea0735f6155a77e 100644
+index 43e695aaaf00fd357de4034f53617088630bba7c..5e92c563f83757891f83f08bdff76e4f141c3980 100644
 --- a/commands/refactor/refactor.command.ts
 +++ b/commands/refactor/refactor.command.ts
 @@ -80,7 +80,7 @@ export const refactor = {
@@ -37,6 +37,16 @@ index 43e695aaaf00fd357de4034f53617088630bba7c..a4ef6b0ba1c0d4dff5ced6d75ea0735f
        invariantKind: "departure",
 -      statement: "A retyped page's own body states the page type it becomes.",
 +      statement: "A retyped page's own body states the page type that page becomes.",
+     },
+     {
+       invariantKind: "departure",
+@@ -311,7 +313,8 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key the page type it becomes reads no property by refuses the retype.",
++      statement:
++        "A key the page type the retyped page becomes reads no property by refuses the retype.",
      },
      {
        invariantKind: "departure",
