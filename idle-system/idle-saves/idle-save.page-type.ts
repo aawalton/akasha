@@ -17,7 +17,7 @@ export const idleSave = {
     },
     {
       invariantKind: "departure",
-      statement: "A write replaces the whole save rather than amending part of it.",
+      statement: "A write replaces the whole save rather than amending part of that save.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const idleSave = {
     {
       invariantKind: "gap",
       statement:
-        "The state a save holds and the player it belongs to are properties this type does not yet declare.",
+        "The state a save holds and that save's player are properties this type does not yet declare.",
     },
   ],
 } as const satisfies PageType
