@@ -25,7 +25,7 @@ index b52153eddd78e7e470df10d77f5ea776ed7a4032..db50f1c3e05fc2c34a14f8b79165c77c
    ],
  } as const satisfies Module
 diff --git a/health-samples-import/verdict-reading/verdict-reading.module.ts b/health-samples-import/verdict-reading/verdict-reading.module.ts
-index 94ebaaa048ee473a4528f14598b98be4f031d943..aaf079320bca7afdc805a2c575b3ca8a62a4fde8 100644
+index 94ebaaa048ee473a4528f14598b98be4f031d943..13e555b3351e556aa488c44357eee9328506717d 100644
 --- a/health-samples-import/verdict-reading/verdict-reading.module.ts
 +++ b/health-samples-import/verdict-reading/verdict-reading.module.ts
 @@ -4,7 +4,7 @@ export const verdictReading = {
@@ -37,6 +37,15 @@ index 94ebaaa048ee473a4528f14598b98be4f031d943..aaf079320bca7afdc805a2c575b3ca8a
    code: "ts",
    invariants: [
      {
+@@ -18,7 +18,7 @@ export const verdictReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A coverage whose denominator was not worked out says so rather than standing at zero.",
++        "A coverage whose denominator was not worked out says so rather than sitting at zero.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/migration-system/landing/migration-landing.module.ts b/migration-system/landing/migration-landing.module.ts
 index d2f9a5e35748dd0e99b6b8ae3daa11cce719ae13..40d075ac0cdd53d46ff944fc5fc1986b610d8b81 100644
 --- a/migration-system/landing/migration-landing.module.ts
