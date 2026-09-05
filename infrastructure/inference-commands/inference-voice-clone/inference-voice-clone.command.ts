@@ -31,7 +31,6 @@ export const inferenceVoiceClone = {
     "the high lane drains ahead of queued batch work without cutting into what is already running.",
     "the text is not cut into pieces, so a few sentences is what this is for.",
     "the timeout absorbs a cold load of about nine minutes as well as the queue wait.",
-    "a run row is filed whether the speaking finished or failed.",
   ],
   invariants: [
     {
