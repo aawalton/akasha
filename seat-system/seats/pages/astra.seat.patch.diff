@@ -1,0 +1,15 @@
+diff --git a/pages/core/filter/pages-core-filter.domain.ts b/pages/core/filter/pages-core-filter.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be81bd6d035fa92ea755b72f8852ea12e3522882
+--- /dev/null
++++ b/pages/core/filter/pages-core-filter.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesCoreFilter = {
++  id: "01a071c6-08d9-7da0-83a9-8cc992a2b7ea",
++  pageTypeSlug: "domain",
++  slug: "pages-core-filter",
++  definition: "a filter read as a condition",
++  partSlugs: ["module/filter-to-condition"],
++} as const satisfies Domain
