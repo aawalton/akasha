@@ -114,7 +114,7 @@ export const clusterService = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service stands under the domain the cluster service serves.",
+      statement: "A cluster service sits under the domain the cluster service serves.",
     },
     {
       invariantKind: "departure",

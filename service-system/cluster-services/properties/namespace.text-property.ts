@@ -7,7 +7,7 @@ export const namespace = {
   pageTypeSlug: "text-property",
   slug: "namespace",
   propertySlug: "namespace",
-  definition: "the part of the cluster a resource stands in",
+  definition: "the part of the cluster a resource sits in",
   max: 63,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -53,7 +53,7 @@ test("a manifest names the resource its own top-level metadata states", () => {
   expect(namedIn(YAML)).toEqual({ kind: "Deployment", name: "web", namespace: "one" })
 })
 
-test("metadata standing inside a pod template names nothing", () => {
+test("metadata inside a pod template names nothing", () => {
   expect(namedIn(YAML)?.name).not.toBe("not-this-one")
 })
 
@@ -80,7 +80,7 @@ test("a manifest opening the namespace is the one named for it", () => {
   expect(opensTheNamespace(opening, WEB)).toBe(true)
 })
 
-test("the namespace stands first and the workload last", () => {
+test("the namespace comes first and the workload last", () => {
   const opening = manifest({ kind: "Namespace", resourceName: "one", namespace: null })
   const between = manifest({ kind: "Service", resourceName: "web" })
   const ordered = inApplyOrder([manifest({}), between, opening], WEB)
@@ -88,17 +88,17 @@ test("the namespace stands first and the workload last", () => {
   expect(ordered[2]?.kind).toBe("Deployment")
 })
 
-test("a checksum nothing filled in is a stand-in", () => {
+test("a checksum nothing filled in is a placeholder", () => {
   const held = manifest({ yaml: "      checksum/s3-creds: PENDING\n" })
   expect(unfilledIn(held)[0]).toContain("checksum/s3-creds")
 })
 
-test("a checksum that is a digest is no stand-in", () => {
+test("a checksum that is a digest is no placeholder", () => {
   const digest = "a".repeat(64)
   expect(unfilledIn(manifest({ yaml: `      checksum/s3-creds: ${digest}\n` }))).toEqual([])
 })
 
-test("an image nothing filled in is a stand-in", () => {
+test("an image nothing filled in is a placeholder", () => {
   expect(unfilledIn(manifest({ yaml: "      image: MUST_BE_SET\n" }))[0]).toContain("image")
 })
 

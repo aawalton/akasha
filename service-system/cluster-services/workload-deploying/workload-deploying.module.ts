@@ -37,7 +37,7 @@ export const workloadDeploying = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a manifest already stands is asked of the cluster rather than remembered.",
+        "Whether a manifest already exists is asked of the cluster rather than remembered.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const workloadDeploying = {
     },
     {
       invariantKind: "departure",
-      statement: "A kubectl that refuses stops the apply where the apply stands.",
+      statement: "A kubectl that refuses stops the apply where the apply is.",
     },
     {
       invariantKind: "absence",

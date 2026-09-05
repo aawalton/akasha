@@ -41,7 +41,7 @@ export const pageStore = {
     },
     {
       invariantKind: "departure",
-      statement: "The carrying goes through the tailnet egress that already stands.",
+      statement: "The carrying goes through the tailnet egress that already exists.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const pageStore = {
     {
       invariantKind: "departure",
       statement:
-        "A pod that is reached is one the whole path stands for rather than one that has bound a socket.",
+        "A pod that is reached is one the whole path represents rather than one that has bound a socket.",
     },
   ],
 } as const satisfies ClusterService
