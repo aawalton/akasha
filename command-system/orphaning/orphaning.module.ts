@@ -10,7 +10,8 @@ export const orphaning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path taken away is weighed by what imports it as the change leaves the tree.",
+      statement:
+        "A path taken away is weighed by the importers of that path as the change leaves the tree.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +40,7 @@ export const orphaning = {
     },
     {
       invariantKind: "departure",
-      statement: "What is said names the first few importers and counts the rest.",
+      statement: "The answer names the first few importers and counts the rest.",
     },
     {
       invariantKind: "gap",
