@@ -4,24 +4,23 @@ export const olwenCommandCleanup = {
   id: "01a06d80-f837-7845-8ef8-bfccd653aab4",
   pageTypeSlug: "initiative",
   slug: "olwen-command-cleanup",
-  domainSlug: "workspace-package/domain",
+  domainSlug: "workspace-package/command-system",
   personaSlug: "olwen",
   constraints: [
-    "The folder is named `domains/`, the plural, as `pages/` is named for `page`. Alan settled this against `domain/`.",
+    "The folder is named `commands/` and the package `@akasha/commands`, while the workspace package page beside the command page type is slugged `command`, as `domains/` is.",
     "A page keeps the qualifier its slug carries and sits in a folder named without it, as `purpose/` holds `domain-purpose`. Alan settled this.",
-    "`domain-championing` is re-slugged `domain-champions`. Alan settled this.",
-    "A domain beside the domain page type is a part of the package holding its folder, as the move reads a parent from the folder alone.",
+    "A page beside the command page type is a part of the package holding its folder, as the move reads a parent from the folder alone.",
   ],
   intents: [
     {
-      statement: "All domain files are organized in the domains/ folder.",
+      statement: "All command files are organized in the commands/ folder.",
       workingMemory:
-        "`domains/` holds all of it at fc05dced9d and `domain-system/` holds nothing. The domain page type sits at the root beside the package at 96b98dfe and c62a9c52, pairing as `page` does with `pages`. 83 spellings of `@akasha/domain-system` became `@akasha/domains` at ba41d858. A resolver probe answers for the live names and refuses the retired one and a nonsense one, and a stale node_modules link had been masking the retired name.",
+        "`command-system/` holds 162 files and `commands/` holds 244, and neither folder holds a page naming itself. 609 files carry 882 spellings of `@akasha/command-system`, and 152 files outside reach in by a relative path. Nothing claims `workspace-package/command`, and the command page type already states `commands` as its plural.",
     },
     {
-      statement: "The domains/ folder passes the folder-matches-a-shape check.",
+      statement: "The commands/ folder passes the folder-matches-a-shape check.",
       workingMemory:
-        "7 refusals stand. 5 are `openingWith` on the `domain-*` folders, which Alan took over renaming them. The root and `domains/commands` clear together once the `domain` command reaches `commands/domain`, which another agent is landing command by command. Typecheck cannot judge any of this: `importersOf` throws whenever the index is behind HEAD, and under this many agents it always is.",
+        "The check refuses once: `commands/` matches no shape because it holds no page of its own. That clears when `command.page-type.ts` and `command.workspace-package.ts` sit at that folder's root as a pair, the shape `domains/` took. `command-system/` refuses nothing across its 162 files.",
     },
   ],
 } as const satisfies Initiative
