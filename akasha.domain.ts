@@ -115,6 +115,13 @@ export const akasha = {
     },
     {
       directiveKind: "rule",
+      name: "Alan Over Invariants",
+      act: "Change the invariants Alan's instructions contradict.",
+      warrant: "An invariant is past thinking, which is updated by current thinking.",
+      aids: ["Any invariant can change.", "Changing one needs no approval."],
+    },
+    {
+      directiveKind: "rule",
       name: "Champions Not Owners",
       act: "Change what needs changing in any domain, where you hold what the change takes.",
       warrant: "Every agent has the same base expertise and can access the same context.",
