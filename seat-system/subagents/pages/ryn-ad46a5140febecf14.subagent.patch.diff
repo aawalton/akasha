@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/utils-process/proc-environ/proc-environ.module.ts b/utils-process/proc-environ/proc-environ.module.ts
+index 32f2cfe8fd52e7a143dccc024f02dbcfd8c19e7c..d78d5460affa74b8dae77a9adc35beb0e6f055e5 100644
+--- a/utils-process/proc-environ/proc-environ.module.ts
++++ b/utils-process/proc-environ/proc-environ.module.ts
+@@ -13,7 +13,7 @@ export const procEnviron = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The value is split off the environ the way proc-reading splits it.",
++      statement: "The value is split off the environ the way proc-reading splits that environ.",
+     },
+     {
+       invariantKind: "absence",
