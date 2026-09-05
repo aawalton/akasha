@@ -15,7 +15,6 @@ export const emailMessagesList = {
   ],
   helpNotes: [
     "the search is Gmail's own syntax, so `from:`, `subject:`, `newer_than:7d` and `has:attachment` all hold.",
-    "a listing naming no search matches every message.",
     "a summary carries the id, the thread, from, to, subject, date and the snippet.",
     "a search too awkward to say in a shell is read from a file, or from standard input at `-`.",
   ],
