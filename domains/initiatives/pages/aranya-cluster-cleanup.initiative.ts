@@ -28,7 +28,7 @@ export const aranyaClusterCleanup = {
     {
       statement: "The inference family sits in a top-level inference/ folder.",
       workingMemory:
-        "243 files leave `infrastructure/`: 12 folders and the `inference` and `generation` domain pages. `comfy` and `inference-commands` are named by `domain/infrastructure` and want adding to `domain/inference`. The prefix rule renames the folders `inference-clients`, `inference-pool`, `inference-runs` and `inference-commands` to `clients`, `pool`, `runs` and `commands`, leaving their slugs. `upscale` and `voice-inference` move whole; `alerts` splits, 4 of 132. 8 files outside name what moves.",
+        "243 files leave `infrastructure/`: 12 folders and the `inference` and `generation` domain pages. `comfy` and `inference-commands` are named by `domain/infrastructure` and want adding to `domain/inference`. The prefix rule renames the folders `inference-clients`, `-pool`, `-runs` and `-commands` to `clients`, `pool`, `runs` and `commands`, leaving their slugs. `upscale` and `voice-inference` move whole. `alerts` stays: `domain` names a subject rather than a home.",
     },
     {
       statement: "Every working subagent has a page, and every stopped one has none.",
