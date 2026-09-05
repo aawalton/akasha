@@ -74,9 +74,18 @@ index 0000000000000000000000000000000000000000..5ae6ea1becf948bcd6be74cf4589a605
 +  partSlugs: ["module/apply", "module/jsonb-ops"],
 +} as const satisfies Domain
 diff --git a/pages/core/pages-core.workspace-package.ts b/pages/core/pages-core.workspace-package.ts
-index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..3f1a28a72a1f4e3049d173e833274cb4e15b5c73 100644
+index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..80f9e781759258d841b877705a7054f6f4c39b4c 100644
 --- a/pages/core/pages-core.workspace-package.ts
 +++ b/pages/core/pages-core.workspace-package.ts
+@@ -11,7 +11,7 @@ export const pagesCore = {
+     "module/action-button-config",
+     "module/aggregate",
+     "module/aggregate-filter",
+-    "module/apply",
++    "domain/pages-core-json-patch",
+     "module/apply-filters",
+     "module/apply-grouping",
+     "module/apply-grouping-shared",
 @@ -36,44 +36,7 @@ export const pagesCore = {
      "module/date",
      "module/date-sentinels",
@@ -123,15 +132,18 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..3f1a28a72a1f4e3049d173e833274cb4
      "module/expand-date-mentions",
      "domain/pages-core-filter",
      "module/filter-utils",
-@@ -85,7 +48,6 @@ export const pagesCore = {
+@@ -85,10 +48,8 @@ export const pagesCore = {
      "module/group-granularity",
      "module/group-key-to-value",
      "module/icon",
 -    "module/icon-search-index",
      "module/instant",
      "module/json",
-     "module/jsonb-ops",
-@@ -105,11 +67,6 @@ export const pagesCore = {
+-    "module/jsonb-ops",
+     "module/listing-config",
+     "module/markdown",
+     "module/markdown-shorthand",
+@@ -105,11 +66,6 @@ export const pagesCore = {
      "module/page-type-inheritance",
      "module/page-types",
      "module/pages",
