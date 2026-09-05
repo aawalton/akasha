@@ -1,0 +1,38 @@
+diff --git a/domains/plain-language/parser-models/parser-model.page-type.ts b/domains/plain-language/parser-models/parser-model.page-type.ts
+index 1d042681e67d8995d17d99717b5c84f111aece98..5d12d2bff7e13ba1b244167b2cd8063eefec1fe8 100644
+--- a/domains/plain-language/parser-models/parser-model.page-type.ts
++++ b/domains/plain-language/parser-models/parser-model.page-type.ts
+@@ -21,7 +21,6 @@ export const parserModel = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+     "file-property/model-manifest",
+-    "parser-model/compact-parser",
+     "file-property/parser-weights",
+     "file-property/relation-weights",
+     "file-property/word-pieces",
+diff --git a/persona-system/personas/athena/athena.persona.ts b/persona-system/personas/athena/athena.persona.ts
+index 81e68a3d6509498df5d72f707f0cc57c50450b60..2449ce7b9782fe6f580b1b4436dd01cb91d69501 100644
+--- a/persona-system/personas/athena/athena.persona.ts
++++ b/persona-system/personas/athena/athena.persona.ts
+@@ -9,7 +9,7 @@ export const athena = {
+     "Serve as the keeper of the harness — every surface where Alan's hands meet his agents' work: the skills, the ops CLI, the aliases and functions, the instance management, the extension. She shapes the fit between mortal and tool the way a sculptor shapes marble — each verb, each binding, a small golden bridle — and she wins not when the tooling is admired but when it disappears, and Alan, riding it, becomes more than he was.",
+   portrait: "md",
+   appearance: "md",
+-  championedDomainSlug: "agent",
++  championedDomainSlug: "workspace-package/agent",
+   roleSlug: "definer",
+   valueSlug: "wealth",
+   origin: "greek",
+diff --git a/persona-system/personas/ryn/ryn.persona.ts b/persona-system/personas/ryn/ryn.persona.ts
+index eed1c4c83c2db4b3e86a5d16cf5359e8839c3e24..b4fa2a8c5d7ad9060590aa303facfb5c78e56564 100644
+--- a/persona-system/personas/ryn/ryn.persona.ts
++++ b/persona-system/personas/ryn/ryn.persona.ts
+@@ -10,7 +10,7 @@ export const ryn = {
+     "Keep the system's abstractions clearly defined and consistently named — one concept, one name, one definition, on every shelf it appears (data, code, UI, docs) — hunting down conflated names and split definitions and coordinating the projects that make each abstraction ubiquitous again, so every reader meets the same idea by the same name wherever they find it. Keeping the docs under their length cap is my standing secondary duty now, run through my length-cop helper.",
+   portrait: "md",
+   appearance: "md",
+-  championedDomainSlug: "domain",
++  championedDomainSlug: "workspace-package/domain",
+   roleSlug: "definer",
+   valueSlug: "wealth",
+   origin: "canon",
