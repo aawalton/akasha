@@ -27,7 +27,7 @@ export const inboxTrackingPolling = {
     {
       invariantKind: "departure",
       statement:
-        "The email count is kept on the wake day only where it is lower than the count already there.",
+        "The email count is kept on the wake day only where that count is lower than the count already there.",
     },
     {
       invariantKind: "departure",
