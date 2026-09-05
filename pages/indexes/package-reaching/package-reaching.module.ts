@@ -30,7 +30,8 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is read through what the caller hands in rather than off the disk here.",
+      statement:
+        "A body is read through the reader the caller hands in rather than off the disk here.",
     },
     {
       invariantKind: "departure",
