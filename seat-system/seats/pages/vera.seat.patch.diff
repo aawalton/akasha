@@ -1,3 +1,21 @@
+diff --git a/commands/move/outside/move-outside.module.code.ts b/commands/move/outside/move-outside.module.code.ts
+index 808a11f8bf9006e9d7a3e88d5adc708b21dbf6bf..0ad35e5728271783521310f1a5dfde8798cca737 100644
+--- a/commands/move/outside/move-outside.module.code.ts
++++ b/commands/move/outside/move-outside.module.code.ts
+@@ -1,4 +1,5 @@
+ import { dirname, join, relative } from "node:path"
++import { machineWrittenAt } from "@akasha/indexes/property-carrying"
+ import { counted } from "../../../command-system/asking/asking.module.code.ts"
+ import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+ import type { Placed } from "../../../command-system/outside-naming/outside-naming.module.code.ts"
+@@ -100,6 +101,7 @@ export function outsideIn(
+   const changes: FileEdit[] = []
+   const carries: Carry[] = []
+   for (const one of found.respelt) {
++    if (machineWrittenAt(root, one.path)) continue
+     paths.push(one.path)
+     if (reachesIn(one.path, one.was, moved).length > 0) reaching.push(one.path)
+     carries.push({ was: one.path, now: one.path, from: blobIdOf(one.held) })
 diff --git a/context/warrants/file-itself/file-itself.context-warrant.code.ts b/context/warrants/file-itself/file-itself.context-warrant.code.ts
 index 5730340ca2d5c650e810196903e3f2b2f580d2fa..5644c1c214cf5dc1a008795e35c1f50f5b9b1799 100644
 --- a/context/warrants/file-itself/file-itself.context-warrant.code.ts
