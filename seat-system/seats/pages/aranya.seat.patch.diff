@@ -337,6 +337,21 @@ index 0000000000000000000000000000000000000000..f6851e34b8f3bf06746937b194e0bc87
 +  definition: "the bucket the database's backups are written to",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..90b7ffb07fdefc0d9a5c2a6c0314c4689cc8544f
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const cnpgScheduledBackup = {
++  id: "01a073ae-5d71-78e1-a154-bc5ad7798436",
++  pageTypeSlug: "module",
++  slug: "cnpg-scheduled-backup",
++  definition: "the daily backup the database operator takes",
++  code: "ts",
++} as const satisfies Module
 diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
 index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d33760694a558 100644
 --- a/infrastructure/cluster-manifests/package.json
