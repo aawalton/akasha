@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/sms-core/verify-signature/verify-signature.module.ts b/sms-core/verify-signature/verify-signature.module.ts
+index b9200ea87a023a86690b66f034a3bf4d40198099..1b47d992703d46644c775f6ee2e5b55a03e6a395 100644
+--- a/sms-core/verify-signature/verify-signature.module.ts
++++ b/sms-core/verify-signature/verify-signature.module.ts
+@@ -15,7 +15,8 @@ export const verifySignature = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A signature older than the tolerance is refused however well it verifies.",
++      statement:
++        "A signature older than the tolerance is refused however well that signature verifies.",
+     },
+     {
+       invariantKind: "departure",
