@@ -12,7 +12,7 @@ index 27ed47328c6011b04e2b776438583d9acff5a9a2..ca1d148c9c00f899b3d5c72218b1b345
      process.exit(2)
    }
 diff --git a/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts b/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts
-index 7cdd74f9e3a63db395e217660e578d8b4a412dab..18adad2515ce8c24c3e8d088ab1d037c2851ae46 100644
+index 7cdd74f9e3a63db395e217660e578d8b4a412dab..a201314846d936b638a03db4ea4432ab38eacd3e 100644
 --- a/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts
 +++ b/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts
 @@ -70,7 +70,7 @@ const TEMPLATE_PATTERNS = [`${TEMPLATE_DIR}/**/*.ts`] as const
@@ -24,6 +24,15 @@ index 7cdd74f9e3a63db395e217660e578d8b4a412dab..18adad2515ce8c24c3e8d088ab1d037c
    "half of every pair moved there with the workflows, so a template this check does not read " +
    "makes it LOUDER — a stamped annotation is reported as unstamped — and a substitution site " +
    "anchored to the wrong manifest makes it QUIETER, pairing an emit that nothing stamps. The " +
+@@ -135,7 +135,7 @@ function instructionsRootFrom(named: string | undefined): string {
+   if (!existsSync(resolve(root, TEMPLATE_DIR))) {
+     throw new Error(
+       `instructionsRootFrom: ${root} holds no ${TEMPLATE_DIR}, so it is not a checkout of the ` +
+-        "instructions repo. Every substitution site this check pairs against now stands there: " +
++        "instructions repo. Every substitution site this check pairs against now sits there: " +
+         "pass --instructions-root, or set AKASHA_ROOT."
+     )
+   }
 diff --git a/checks/cluster-checks/pages/codegen-type-identity-drift/codegen-type-identity-drift.cluster-check.code.ts b/checks/cluster-checks/pages/codegen-type-identity-drift/codegen-type-identity-drift.cluster-check.code.ts
 index 12515641dca2e947acda490102efeaa63efaa710..6e843c637631d11901b092e590b05a567019faf9 100644
 --- a/checks/cluster-checks/pages/codegen-type-identity-drift/codegen-type-identity-drift.cluster-check.code.ts
