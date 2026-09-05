@@ -13,7 +13,7 @@ export const monarchEvalAgent = {
     },
     {
       invariantKind: "departure",
-      statement: "Uncategorized is not offered, because it is no answer.",
+      statement: "Uncategorized is not offered, because Uncategorized is no answer.",
     },
     {
       invariantKind: "departure",
@@ -31,15 +31,15 @@ export const monarchEvalAgent = {
     {
       invariantKind: "departure",
       statement:
-        "A reply is read out of the first array it holds, so a model that says something before its JSON is still read.",
+        "A reply is read out of its first array, so a model saying something before its JSON is still read.",
     },
     {
       invariantKind: "departure",
-      statement: "A reply that holds no array is refused with what it did say.",
+      statement: "A reply that holds no array is refused with what that reply did say.",
     },
     {
       invariantKind: "departure",
-      statement: "What the batch cost is reported alongside what it proposed.",
+      statement: "What the batch cost is reported alongside what that batch proposed.",
     },
     {
       invariantKind: "absence",
