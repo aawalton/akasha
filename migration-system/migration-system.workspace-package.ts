@@ -151,10 +151,7 @@ export const migrationSystem = {
       invariantKind: "absence",
       statement: "Nothing here knows what page type an old page becomes.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "Every body goes through the formatter as that body lands.",
-    },
+
     {
       invariantKind: "constraint",
       statement: "A folder of a thousand files costs a thousand formatter runs.",
