@@ -26,11 +26,7 @@ export const sessionPlanning = {
       invariantKind: "departure",
       statement: "One module reads pages and every other module takes values already narrowed.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The pages are read from the checkout this code runs in rather than over the service.",
-    },
+
     {
       invariantKind: "departure",
       statement:
