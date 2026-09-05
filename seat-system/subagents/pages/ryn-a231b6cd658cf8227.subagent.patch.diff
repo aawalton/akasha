@@ -1,0 +1,13 @@
+diff --git a/commands/track/session-rows/session-rows.module.ts b/commands/track/session-rows/session-rows.module.ts
+index 02b98a089ce0efab13a3b33f3931fd598cf5e3c5..17b0b049ade9e5d79c6635362e5ab273274ff611 100644
+--- a/commands/track/session-rows/session-rows.module.ts
++++ b/commands/track/session-rows/session-rows.module.ts
+@@ -17,7 +17,7 @@ export const sessionRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stretch is addressed by one of the four ways a caller names it.",
++      statement: "A stretch is addressed by one of the four ways a caller names that stretch.",
+     },
+     {
+       invariantKind: "departure",
