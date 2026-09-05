@@ -90,7 +90,7 @@ export const location = {
     {
       invariantKind: "departure",
       statement:
-        "Where a place came from is what its source says rather than what page type that place is.",
+        "Where a place came from is stated by its source rather than by the page type that place is.",
     },
     {
       invariantKind: "departure",
