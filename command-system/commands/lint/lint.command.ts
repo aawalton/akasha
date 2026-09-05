@@ -36,7 +36,7 @@ export const lint = {
     },
     {
       invariantKind: "absence",
-      statement: "What is checked is what the linter is configured by.",
+      statement: "The rules checked are the rules the linter is configured by.",
     },
   ],
 } as const satisfies Command
