@@ -9,7 +9,7 @@ export const performanceGlobal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is declared here is implemented by the compiler's own runtime library.",
+      statement: "The global declared here is implemented by the compiler's own runtime library.",
     },
   ],
 } as const satisfies TypeDeclaration
