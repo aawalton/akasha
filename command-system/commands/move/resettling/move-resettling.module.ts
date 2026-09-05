@@ -120,7 +120,8 @@ export const moveResettling = {
     },
     {
       invariantKind: "departure",
-      statement: "What a seat left on the old paths needs is said beside that seat's own document.",
+      statement:
+        "The relaunch a seat left on the old paths needs is said beside that seat's own document.",
     },
     {
       invariantKind: "absence",
