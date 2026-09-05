@@ -17,7 +17,7 @@ export const agentRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A row names the page akasha holds for it or names none at all.",
+      statement: "A row names the page akasha holds for that row or names none at all.",
     },
     {
       invariantKind: "departure",
