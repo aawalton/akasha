@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { patchAt } from "@akasha/agents/patch-keeping"
 import { listedTakenFrom } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
@@ -11,6 +12,7 @@ import { drafted } from "../drafting/drafting.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
+  AGENT,
   asking,
   BROKEN,
   blocked,
@@ -204,6 +206,41 @@ test("a landing made by a program is told apart from a glass that was broken", a
   expect(said.code).toBe(0)
   expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
+})
+
+const THREE = [{ path: "akasha/three.ts", body: bytes(PROPOSED) }]
+
+const PATCH_AT = patchAt(SEAT_AT) as string
+
+test("a mechanical change goes through the patch beside the agent's page", async () => {
+  const root = repoWith()
+  const said = await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/three.ts"), "utf8")).toBe(PROPOSED)
+  expect(git(root, ["log", "--format=%s"])).toContain(PATCH_AT)
+})
+
+test("a mechanical change applies the patch in the same call, so none is left kept", async () => {
+  const root = repoWith()
+  const from = put(root, "body.txt", PROPOSED)
+  const drafting = await write(
+    ["--file-path", "akasha/two.ts", "--content-file", from],
+    givenIn(root)
+  )
+  expect(drafting.code).toBe(0)
+  const said = await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
+  expect(existsSync(join(root, PATCH_AT))).toBe(false)
+})
+
+test("a mechanical change through a patch runs no check and says so in the commit", async () => {
+  const root = repoWith()
+  checking(root, "refuses", REFUSES_CODE)
+  const said = await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/three.ts"), "utf8")).toBe(PROPOSED)
+  expect(commitIn(root, said)).toContain("Checks-bypassed: a `change-mechanical` change")
 })
 
 test("a loose body lands formatted and sorted, and the report says it did", async () => {

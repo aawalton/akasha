@@ -46,7 +46,7 @@ export const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
 export const REFORMATTED =
   "formatted akasha/two.ts as it landed — what stands there is not what was handed in"
 
-const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
 
