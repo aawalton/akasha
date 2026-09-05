@@ -25,7 +25,7 @@ index 58f4b89a931c6b0433cfa87ca24a0f36fd53f29d..47d2afef47ce623711d78e61d0170602
    return !personPrincipals(root).includes(name)
  }
 diff --git a/seat-system/compose-subagents/compose-subagents.module.code.ts b/seat-system/compose-subagents/compose-subagents.module.code.ts
-index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..a6a516f612a928f92b58acbc9e9bfd8a1ec5533c 100644
+index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..5711da61305b7b024314078dd6f3b9ad63e06dac 100644
 --- a/seat-system/compose-subagents/compose-subagents.module.code.ts
 +++ b/seat-system/compose-subagents/compose-subagents.module.code.ts
 @@ -17,7 +17,7 @@ const PAGE_TYPE = "subagent-kind"
@@ -75,7 +75,7 @@ index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..a6a516f612a928f92b58acbc9e9bfd8a
      const value = valueOf(root, one.path)
      const name = textAt(value, DISPATCHED_AS)
      if (name === null || name === "") {
-@@ -137,9 +137,9 @@ export function kindsIn(
+@@ -137,15 +137,15 @@ export function kindsIn(
  function main(): void {
    const { out } = parse(process.argv.slice(2))
    const root = rootFor(resolveRoots(), AKASHA)
@@ -87,6 +87,13 @@ index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..a6a516f612a928f92b58acbc9e9bfd8a
    } catch (error) {
      fail(error instanceof Error ? error.message : String(error))
    }
+   // An index naming none is not a cast of none: a seat that renders an empty map is told
+   // delegation is off, so refuse rather than answer with nothing.
+-  if (standing.length === 0) fail(`no \`${PAGE_TYPE}\` page stands, so there is no kind to render`)
++  if (listed.length === 0) fail(`no \`${PAGE_TYPE}\` page is there, so there is no kind to render`)
+   let definitions: Readonly<Record<string, Definition>>
+   try {
+     definitions = kindsIn(
 diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
 index a7eb4bd34d9996d9d453e78c400cee5c4aefd31e..eca5a9033764dfa328805032fce3341dec4b15aa 100644
 --- a/seat-system/compose-subagents/compose-subagents.module.ts
