@@ -41,7 +41,7 @@ export const temperHudAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "What the player has shown and hidden is kept across the whole account.",
+      statement: "The parts the player has shown and hidden are kept across the whole account.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const temperHudAddon = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what any other add-on's field means.",
+      statement: "Nothing here knows the meaning of any other add-on's field.",
     },
   ],
 } as const satisfies EsoAddon
