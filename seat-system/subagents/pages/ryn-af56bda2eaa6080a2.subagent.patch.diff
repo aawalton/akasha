@@ -1,8 +1,8 @@
 diff --git a/google/email/commands/email-attachments-get/email-attachments-get.command.ts b/google/email/commands/email-attachments-get/email-attachments-get.command.ts
-index f33e23da1d9a8f5f715c1b9acdcbcd3320ab299f..6fd708b4c180c08fa7ce537e1adc291f57bbd363 100644
+index f33e23da1d9a8f5f715c1b9acdcbcd3320ab299f..6fb35fca2ad9563fa4a82568246f98bd04b4c39d 100644
 --- a/google/email/commands/email-attachments-get/email-attachments-get.command.ts
 +++ b/google/email/commands/email-attachments-get/email-attachments-get.command.ts
-@@ -19,7 +19,8 @@ export const emailAttachmentsGet = {
+@@ -19,11 +19,12 @@ export const emailAttachmentsGet = {
    invariants: [
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index f33e23da1d9a8f5f715c1b9acdcbcd3320ab299f..6fd708b4c180c08fa7ce537e1adc291f
      },
      {
        invariantKind: "departure",
+-      statement: "The bytes are answered base64url-encoded with their size beside them.",
++      statement: "The bytes are answered base64url-encoded with their size beside those bytes.",
+     },
+     {
+       invariantKind: "absence",
