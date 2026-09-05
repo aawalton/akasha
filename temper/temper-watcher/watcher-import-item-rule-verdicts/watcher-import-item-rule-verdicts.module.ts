@@ -48,7 +48,7 @@ export const watcherImportItemRuleVerdicts = {
     {
       invariantKind: "departure",
       statement:
-        "An empty rule set is what unreadable settings read as, so writing one loses those settings.",
+        "Unreadable settings read as an empty rule set, so writing one loses those settings.",
     },
     {
       invariantKind: "departure",
