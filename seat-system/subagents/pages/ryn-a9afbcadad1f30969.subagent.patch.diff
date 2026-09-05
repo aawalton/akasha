@@ -77,3 +77,16 @@ index d91cf1a1e17e5f07edd0fee34c5b8c1a6440e631..d95e43b82ebbd020b3c0b3ffa3337e67
      },
      {
        invariantKind: "departure",
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+index ec53e80dbd93fd8acc7315ba63d3a332090873ca..b709195f241d6427982442c35f3aa311a6922c0e 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -23,7 +23,7 @@ export const dueReminderSending = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A run finding many windows have passed since the last sending sends once rather than once per window.",
++        "A run finding many windows passed since the last sending sends once rather than once per window.",
+     },
+     {
+       invariantKind: "departure",
