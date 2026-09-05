@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
-index 794422a02c4fbecda7a54055dc051f0080647c68..4817c5177226fa07594b9c0219dc47a09593d9d2 100644
+index 794422a02c4fbecda7a54055dc051f0080647c68..05e7d027f51412663669f941b7869aac550e3ff0 100644
 --- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 @@ -109,7 +109,7 @@ test("a resumed session keeps its readings", () => {
@@ -11,8 +11,17 @@ index 794422a02c4fbecda7a54055dc051f0080647c68..4817c5177226fa07594b9c0219dc47a0
    for (const one of KEEPING) {
      const root = rooted()
      expect(cleared(root, ONE, one)).toBe(false)
+@@ -165,7 +165,7 @@ test("a subagent starting takes its own record and no sibling's", () => {
+   }
+ })
+ 
+-test("another seat's records stand while one seat's is cleared", () => {
++test("another seat's records remain while one seat's is cleared", () => {
+   const root = seated()
+   cleared(root, ONE, "startup")
+   expect(readFileSync(readingAt(root, TWO), "utf8")).toContain(TWO)
 diff --git a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
-index 228333f1bbf8824ad0318039c1aa724a3258ea42..153c91565bcf69915d9f85619ee6cbb902c1b410 100644
+index 228333f1bbf8824ad0318039c1aa724a3258ea42..d820cc649bdb760d2d2e71649c915fc402a30d73 100644
 --- a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
 @@ -41,8 +41,8 @@ function ranWith(
@@ -26,3 +35,12 @@ index 228333f1bbf8824ad0318039c1aa724a3258ea42..153c91565bcf69915d9f85619ee6cbb9
    }
    return ran(["bun", SCRIPT], { stdin: Buffer.from(raw), env: held })
  }
+@@ -103,7 +103,7 @@ test("a name that comes out as the seat itself changes nothing", () => {
+   expect(calledWith(SEATED, payloadOf({}))).toBeNull()
+ })
+ 
+-test("with no seat named the call is left as it stands", () => {
++test("with no seat named the call is left as it is", () => {
+   expect(calledWith({}, payloadOf({ agent_id: SUB }))).toBeNull()
+ })
+ 
