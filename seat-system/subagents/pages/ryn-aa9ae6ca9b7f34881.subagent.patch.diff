@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
-index de0b5cbe29b5aa7ae00a447ee433537c0c21b86c..c67d7d6cd60e32704df39dd8a9592201ad0a37ef 100644
+index de0b5cbe29b5aa7ae00a447ee433537c0c21b86c..c45f9b39ddfb0f32c9da0947d21b385cc28234ca 100644
 --- a/command-system/piping/piping.module.ts
 +++ b/command-system/piping/piping.module.ts
 @@ -89,7 +89,7 @@ export const piping = {
@@ -21,3 +21,12 @@ index de0b5cbe29b5aa7ae00a447ee433537c0c21b86c..c67d7d6cd60e32704df39dd8a9592201
      },
      {
        invariantKind: "absence",
+@@ -125,7 +125,7 @@ export const piping = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What a caller is told to say instead is handed in by that caller.",
++      statement: "The wording a caller is told to say instead is handed in by that caller.",
+     },
+     {
+       invariantKind: "gap",
