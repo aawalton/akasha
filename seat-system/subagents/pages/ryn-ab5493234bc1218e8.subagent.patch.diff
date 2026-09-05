@@ -1,0 +1,16 @@
+diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+index 52c7245533d2781e82923f637c55e0ad624d9a91..d46b5520305c7527a21be788e295c4f1b9ba59cf 100644
+--- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
++++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+@@ -28,10 +28,7 @@ export const agentTreePanel = {
+       invariantKind: "departure",
+       statement: "An act on a seat asks for the file again rather than waiting to be told.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file the service has not written leaves the rows on the screen as they are.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A row is spelled for the panel from the row the file carries.",
