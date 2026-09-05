@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
-index 27098e34c65334da5ea1ecfd36cc754e28bf8203..801f681b0f4d23551b79266fcee09e41b37810e0 100644
+index 27098e34c65334da5ea1ecfd36cc754e28bf8203..94932244eb5cf1cccb3f63c4d870bc744847ffc9 100644
 --- a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 +++ b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 @@ -9,14 +9,14 @@ const VERSION = 3
@@ -20,6 +20,15 @@ index 27098e34c65334da5ea1ecfd36cc754e28bf8203..801f681b0f4d23551b79266fcee09e41
  const BUDGET = 128 * 1024 * 1024
  
  interface Answer {
+@@ -52,7 +52,7 @@ function heldAt(path: string, mark: string): { readonly data: unknown } | null {
+   return { data: held.data }
+ }
+ 
+-// An answer is served without being written, so how long it has stood since it was written says
++// An answer is served without being written, so how long it has been since it was written says
+ // when it was worked out and not whether anybody still wants it. The two run opposite: the answer
+ // every read hits is the one that goes longest without being rewritten, so an age read off the
+ // write is at its oldest exactly where the cache is working. Marking it used on the way out is
 diff --git a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
 index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae3731fc2d7f8 100644
 --- a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
@@ -47,7 +56,7 @@ index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae373
    return { bySlug, fault }
  }
 diff --git a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
-index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..b853fb87d0b95f2c7fc0e57a2d3d0688a2cc396c 100644
+index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..d838ff077c0d4c8c6fae48faa94e956005488589 100644
 --- a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 +++ b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 @@ -85,8 +85,8 @@ const fromData = (one: VocabularyData): Vocabulary => ({
@@ -72,8 +81,19 @@ index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..b853fb87d0b95f2c7fc0e57a2d3d0688
    const bySlug = new Map<string, string>()
    for (const one of registryOf(tree)) if (!bySlug.has(one.slug)) bySlug.set(one.slug, one.relPath)
    indexes.set(tree, bySlug)
+@@ -196,8 +196,8 @@ interface Ground {
+ const grounds = new WeakMap<FileTree, Ground>()
+ 
+ function groundOf(tree: FileTree): Ground {
+-  const standing = grounds.get(tree)
+-  if (standing !== undefined) return standing
++  const held = grounds.get(tree)
++  if (held !== undefined) return held
+   const made: Ground = { tree, rules: new Map(), held: new Map() }
+   grounds.set(tree, made)
+   return made
 diff --git a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
-index e3bd64d3175b722b9e7dec401322c27c5220e59f..3ba06dd9d4dc4719d2a2bc8fa18ec00305c851af 100644
+index e3bd64d3175b722b9e7dec401322c27c5220e59f..4f4ef97590b446c7bb61e2cf240d1add5ecb0ab9 100644
 --- a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
 +++ b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
 @@ -45,7 +45,7 @@ export function judgeRow(
@@ -85,7 +105,7 @@ index e3bd64d3175b722b9e7dec401322c27c5220e59f..3ba06dd9d4dc4719d2a2bc8fa18ec003
  ): RowJudgment {
    const declared = new Set(properties.map((one) => one.name))
    const keys = Object.keys(values)
-@@ -54,7 +54,7 @@ export function judgeRow(
+@@ -54,11 +54,11 @@ export function judgeRow(
      if (declared.has(key)) continue
      refusals.push(undeclaredKey(key, slug, (name) => declared.has(name)))
    }
@@ -94,6 +114,11 @@ index e3bd64d3175b722b9e7dec401322c27c5220e59f..3ba06dd9d4dc4719d2a2bc8fa18ec003
      const owed = new Set<string>()
      for (const property of properties) {
        const key = property.name
+-      if (!owedKey(property) || owed.has(key) || key in values || !(key in standing)) continue
++      if (!owedKey(property) || owed.has(key) || key in values || !(key in before)) continue
+       owed.add(key)
+       refusals.push(refusalText("page-row-required-dropped", { key, on: property.on }))
+     }
 diff --git a/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts b/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts
 index 078cfe1d3b204abd720ed9f64f09da241facd887..6fcc1bb876035b9db75d7365e7253098ccaaf43c 100644
 --- a/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts
