@@ -39,3 +39,11 @@ index 7d7ea366e709cdcb20da082e5c7a046f557e31f7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/fitness/session-planning
 \ No newline at end of file
+diff --git a/alan/library/book-of-everything/book-of-everything b/alan/library/book-of-everything/book-of-everything
+deleted file mode 120000
+index b87b56cc4950a49b400b981c08b27f9b22f342e6..0000000000000000000000000000000000000000
+--- a/alan/library/book-of-everything/book-of-everything
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/library/book-of-everything
+\ No newline at end of file
