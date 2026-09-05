@@ -303,3 +303,11 @@ index 6bc26a917565e5564b9191be5260a074538cb677..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/k8s-synth
 \ No newline at end of file
+diff --git a/infrastructure/k8s-types/k8s-types b/infrastructure/k8s-types/k8s-types
+deleted file mode 120000
+index 47fbc9da833235bf9058d6d9242df5005a41c449..0000000000000000000000000000000000000000
+--- a/infrastructure/k8s-types/k8s-types
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/k8s-types
+\ No newline at end of file
