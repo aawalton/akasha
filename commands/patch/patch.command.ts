@@ -44,7 +44,7 @@ export const patch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call naming no act says what the patch holds.",
+      statement: "A call naming no act says the paths the patch holds.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,8 @@ export const patch = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop naming no path takes the patch away without judging what the patch holds.",
+      statement:
+        "A drop naming no path takes the patch away without judging the paths the patch holds.",
     },
     {
       invariantKind: "departure",
@@ -105,7 +106,7 @@ export const patch = {
     },
     {
       invariantKind: "departure",
-      statement: "That answer names the seat holding what this subagent drafted before.",
+      statement: "That answer names the seat holding the patch this subagent drafted before.",
     },
     {
       invariantKind: "departure",
