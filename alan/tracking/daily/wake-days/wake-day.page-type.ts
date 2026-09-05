@@ -42,6 +42,7 @@ import type { StrengthCalories } from "./properties/strength-calories.computed-p
 import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
 import type { StrengthVolume } from "./properties/strength-volume.number-property.ts"
 import type { TaskPoints } from "./properties/task-points.number-property.ts"
+import type { TotalLevel } from "./properties/total-level.computed-property.ts"
 import type { Version } from "./properties/version.text-property.ts"
 import type { WealthLevel } from "./properties/wealth-level.computed-property.ts"
 import type { WealthPoints } from "./properties/wealth-points.number-property.ts"
@@ -101,6 +102,7 @@ export type WorkedWakeDay = WakeDay & {
   faithStoplight?: FaithStoplight
   loveStoplight?: LoveStoplight
   healthStoplight?: HealthStoplight
+  totalLevel?: TotalLevel
 }
 
 export const wakeDay = {
@@ -127,11 +129,11 @@ export const wakeDay = {
     "computed-property/love-level",
     "computed-property/love-stoplight",
     "computed-property/strength-calories",
+    "computed-property/total-level",
     "computed-property/wealth-level",
     "formula-property/fun-stoplight",
     "formula-property/learn-stoplight",
     "formula-property/stoplights",
-    "formula-property/total-level",
     "formula-property/wealth-stoplight",
     "instant-property/asserted-at",
     "instant-property/last-viewed-at",
