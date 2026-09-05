@@ -66,6 +66,7 @@ export const command = {
     "command/refactor",
     "command/remove",
     "command/replace",
+    "command/restore",
     "command/seat",
     "command/seat-transcripts",
     "command/service",
