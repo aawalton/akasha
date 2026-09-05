@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-page-values/seat-page-values.module.ts b/seat-system/seat-page-values/seat-page-values.module.ts
+index 178f55caa1b565598632b8b76705fcbe5e5298ed..508f1e219c903b8939403daaee977f60173da32d 100644
+--- a/seat-system/seat-page-values/seat-page-values.module.ts
++++ b/seat-system/seat-page-values/seat-page-values.module.ts
+@@ -13,7 +13,7 @@ export const seatPageValues = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A subagent with no values of its own is read from the seat above it.",
++      statement: "A subagent with no values of its own is read from the seat above that subagent.",
+     },
+     {
+       invariantKind: "departure",
