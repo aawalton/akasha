@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
-index b827a3112351951747453ec6d85be94a7213f2a2..f9c4d8214fdca5ecb44c1ae6dc9afbeb415cd9f6 100644
+index b827a3112351951747453ec6d85be94a7213f2a2..61085188ec0319f5acc47f4a041d25031c651214 100644
 --- a/checks/checks.workspace-package.ts
 +++ b/checks/checks.workspace-package.ts
 @@ -70,7 +70,7 @@ export const checks = {
@@ -12,3 +12,13 @@ index b827a3112351951747453ec6d85be94a7213f2a2..f9c4d8214fdca5ecb44c1ae6dc9afbeb
      },
      {
        invariantKind: "departure",
+@@ -90,7 +90,8 @@ export const checks = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No check judges what a repository outside akasha imports from inside akasha.",
++      statement:
++        "No check judges the imports a repository outside akasha takes from inside akasha.",
+     },
+     {
+       invariantKind: "gap",
