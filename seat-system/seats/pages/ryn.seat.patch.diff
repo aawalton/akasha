@@ -125,3 +125,22 @@ index e04993e7d6976ba13d3c306a874ebbd1ab11dfae..9edf816fcc25dcc9ad8a0a71103c8998
 +  ])
 +  expect(lonePronoun(said)).toEqual([])
 +})
+diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
+index 76b40a18a401d48969d7111cac15e0762975d54a..7753c5c82b2856327e7ad5eeb1ee2233763aab17 100644
+--- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
++++ b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
+@@ -26,5 +26,14 @@ export const lonePronoun = {
+       invariantKind: "departure",
+       statement: "The tree shapes `whatever` alike whether that word names a thing or not.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A free relative is a lone pronoun whether the parser tags that word a pronoun or a determiner.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "`What` before the noun that word determines is passed over.",
++    },
+   ],
+ } as const satisfies SentenceShape
