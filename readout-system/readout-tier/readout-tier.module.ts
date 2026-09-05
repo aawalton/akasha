@@ -18,6 +18,10 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
+      statement: "A figure given as text is read as the number that text spells.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rung a scale states nothing for is no rung.",
     },
     {

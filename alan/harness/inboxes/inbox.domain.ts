@@ -24,6 +24,10 @@ export const inbox = {
       invariantKind: "departure",
       statement: "A count is read from the pages the workstation's checkout carries.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A count of zero is a count.",
+    },
 
     {
       invariantKind: "departure",

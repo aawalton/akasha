@@ -32,6 +32,10 @@ export const atomicChange = {
     },
     {
       invariantKind: "departure",
+      statement: "The bodies are answered rather than written, so the caller lands them as one.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An atomic change asks the index for the files a thing reaches rather than walking the tree.",
     },

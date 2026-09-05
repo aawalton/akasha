@@ -21,7 +21,7 @@ export const exerciseFinding = {
     },
     {
       invariantKind: "departure",
-      statement: "The session a call falls to is the open one when the caller names none.",
+      statement: "The session left unsaid is the most recent one still open.",
     },
     {
       invariantKind: "departure",
