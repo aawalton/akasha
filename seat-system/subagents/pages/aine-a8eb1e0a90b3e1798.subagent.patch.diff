@@ -18,19 +18,6 @@ index e9efc5056a61552a9745e89547063b56f2fe3e8b..785717146aba71bb341bd04e1e1477c4
      },
      {
        invariantKind: "departure",
-diff --git a/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts b/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts
-index 6b280053c06bf7c8d91d32c24d0db1b594a900ef..9413787c716d02c6afc7091901157a0a5e74e2c3 100644
---- a/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts
-+++ b/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts
-@@ -32,7 +32,7 @@ test("a declared project entry is merged into the existing one", () => {
-   expect(held.projects).toEqual({ "/home/walton/repo": { kept: true, shared: "new" } })
- })
- 
--test("a project the declaration does not name is left standing", () => {
-+test("a project the declaration does not name is left as it is", () => {
-   const held = reconcileClaudeConfig(
-     { projects: { "/other": { kept: true } } },
-     { projects: { "$HOME/repo": { fresh: true } } },
 diff --git a/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts b/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts
 index 003d610b11660a89f0aa972e3056294d4671b860..623c1fcc28971e84e9ffc887e163b988e15dd6c4 100644
 --- a/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts
