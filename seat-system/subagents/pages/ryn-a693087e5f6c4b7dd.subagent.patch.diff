@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-args/supervisor-args.module.ts b/seat-system/supervising/supervisor-args/supervisor-args.module.ts
+index b6f4fb308f01e7edd3ad956fff3334f191625904..5ca6cfc5605513873b540a4ed30d6670ad65640a 100644
+--- a/seat-system/supervising/supervisor-args/supervisor-args.module.ts
++++ b/seat-system/supervising/supervisor-args/supervisor-args.module.ts
+@@ -19,7 +19,8 @@ export const supervisorArgs = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A resume with a prompt is driven by the prompt rather than by what is inbound.",
++      statement:
++        "A resume with a prompt is driven by the prompt rather than by the inbound messages.",
+     },
+   ],
+ } as const satisfies Module
