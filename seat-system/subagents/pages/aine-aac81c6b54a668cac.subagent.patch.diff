@@ -1,0 +1,403 @@
+diff --git a/alan/harness/monarch/monarch-accounts/pages/account-0981.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/account-0981.monarch-account.ts
+index 4d8b5e63c7505e916bbba36d5a3b8b2a15840642..fb53fafc9045f1862acd2218ed0c6d065133339b 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/account-0981.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/account-0981.monarch-account.ts
+@@ -5,7 +5,7 @@ export const account0981 = {
+   pageTypeSlug: "monarch-account",
+   slug: "account-0981",
+   title: "0981",
+-  definition: "money the family holds, standing in a cash management account",
++  definition: "money the family holds, sitting in a cash management account",
+   monarchId: "148836114853927080",
+   accountDisplayName: "***0981 (...0981)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/account-1350-e-apple-ave-provo-ut-84604.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/account-1350-e-apple-ave-provo-ut-84604.monarch-account.ts
+index 8c328897dcadd56817874fbf7a0ca8211a6262ac..cc23a788928cf2383cd7191c9656466df1d8e4e1 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/account-1350-e-apple-ave-provo-ut-84604.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/account-1350-e-apple-ave-provo-ut-84604.monarch-account.ts
+@@ -5,7 +5,7 @@ export const account1350EAppleAveProvoUt84604 = {
+   pageTypeSlug: "monarch-account",
+   slug: "account-1350-e-apple-ave-provo-ut-84604",
+   title: "1350 E Apple Ave Provo UT 84604",
+-  definition: "money the family holds, standing in a home account",
++  definition: "money the family holds, sitting in a home account",
+   monarchId: "148843443217373542",
+   accountDisplayName: "1350 E Apple Ave Provo UT 84604",
+   currentBalance: 1133800,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/account-3055.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/account-3055.monarch-account.ts
+index 752aa0e203c9dfe8de2f159de7cfc03939677cef..2af361c3b2143f02197f284b41870e48989f63e0 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/account-3055.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/account-3055.monarch-account.ts
+@@ -5,7 +5,7 @@ export const account3055 = {
+   pageTypeSlug: "monarch-account",
+   slug: "account-3055",
+   title: "3055",
+-  definition: "money the family holds, standing in a brokerage account",
++  definition: "money the family holds, sitting in a brokerage account",
+   monarchId: "148836114919987369",
+   accountDisplayName: "**3055 (...3055)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/account-3240.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/account-3240.monarch-account.ts
+index 956fe2dc31fa193ac1712454cc36edf2216bdead..54297c8a924d4054eb3e21d969f67f0d03b5d39b 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/account-3240.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/account-3240.monarch-account.ts
+@@ -5,7 +5,7 @@ export const account3240 = {
+   pageTypeSlug: "monarch-account",
+   slug: "account-3240",
+   title: "3240",
+-  definition: "money the family holds, standing in a checking account",
++  definition: "money the family holds, sitting in a checking account",
+   monarchId: "148836114967173290",
+   accountDisplayName: "****3240 (...3240)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/account-6060.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/account-6060.monarch-account.ts
+index 4d094e86f7f83ae65cba39743d55dfc040a8c9fb..944e7e459d41273e2b8d1a43e6397efc886252e3 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/account-6060.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/account-6060.monarch-account.ts
+@@ -5,7 +5,7 @@ export const account6060 = {
+   pageTypeSlug: "monarch-account",
+   slug: "account-6060",
+   title: "6060",
+-  definition: "money the family holds, standing in a brokerage account",
++  definition: "money the family holds, sitting in a brokerage account",
+   monarchId: "148836115057350828",
+   accountDisplayName: "***6060 (...6060)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-445936.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-445936.monarch-account.ts
+index 2eaa32f2ab51a3bef8c3e9efae570807b04c7465..f05fddd4bd763810ce5a9c8696b3f05730495d26 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-445936.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-445936.monarch-account.ts
+@@ -5,7 +5,7 @@ export const alanWaltonJenniferWaltonBrokerageAccount8993445936 = {
+   pageTypeSlug: "monarch-account",
+   slug: "alan-walton-jennifer-walton-brokerage-account-8993-445936",
+   title: "Brokerage Account - 8993",
+-  definition: "money the family holds, standing in a brokerage account",
++  definition: "money the family holds, sitting in a brokerage account",
+   monarchId: "231274616895445936",
+   accountDisplayName: "Alan Walton, Jennifer Walton - Brokerage Account - ****8993 (...8993)",
+   currentBalance: 1746285.56,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-737982.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-737982.monarch-account.ts
+index 28fb07a59ef122b60d52fbbf8b7c2eef03aaf03a..2914a15168a6e9ff41fd119ca69c5cce47b0fc08 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-737982.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-brokerage-account-8993-737982.monarch-account.ts
+@@ -5,7 +5,7 @@ export const alanWaltonJenniferWaltonBrokerageAccount8993737982 = {
+   pageTypeSlug: "monarch-account",
+   slug: "alan-walton-jennifer-walton-brokerage-account-8993-737982",
+   title: "Brokerage Account - 8993",
+-  definition: "money the family holds, standing in a brokerage account",
++  definition: "money the family holds, sitting in a brokerage account",
+   monarchId: "231274905553737982",
+   accountDisplayName: "Alan Walton, Jennifer Walton - Brokerage Account - ****8993 (...8993)",
+   currentBalance: 1746285.56,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-362810.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-362810.monarch-account.ts
+index 176a2a69543113133185409b9f1fc8b404a1d5f6..cad42b76d1522d59d68478898809182a8b5f1264 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-362810.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-362810.monarch-account.ts
+@@ -5,7 +5,7 @@ export const alanWaltonJenniferWaltonCashPlusAccount2749362810 = {
+   pageTypeSlug: "monarch-account",
+   slug: "alan-walton-jennifer-walton-cash-plus-account-2749-362810",
+   title: "Cash Plus Account - 2749",
+-  definition: "money the family holds, standing in a cash management account",
++  definition: "money the family holds, sitting in a cash management account",
+   monarchId: "231274905351362810",
+   accountDisplayName: "Alan Walton, Jennifer Walton - Cash Plus Account - ****2749 (...2749)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-871407.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-871407.monarch-account.ts
+index a15194fab0e9e31daaa3dab718d23ad741bd9a9c..a1e3208d83e5c980f6497279f94f9e8d3395449c 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-871407.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/alan-walton-jennifer-walton-cash-plus-account-2749-871407.monarch-account.ts
+@@ -5,7 +5,7 @@ export const alanWaltonJenniferWaltonCashPlusAccount2749871407 = {
+   pageTypeSlug: "monarch-account",
+   slug: "alan-walton-jennifer-walton-cash-plus-account-2749-871407",
+   title: "Cash Plus Account - 2749",
+-  definition: "money the family holds, standing in a cash management account",
++  definition: "money the family holds, sitting in a cash management account",
+   monarchId: "231274616839871407",
+   accountDisplayName: "Alan Walton, Jennifer Walton - Cash Plus Account - ****2749 (...2749)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/alan-walton-roth-ira-brokerage-account-0790.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/alan-walton-roth-ira-brokerage-account-0790.monarch-account.ts
+index a8320aaefa2f2ce7ddee6d1f235ae17ebd7d461e..5bbffb2eaec02b75fd69d1f5f667b364a92e8598 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/alan-walton-roth-ira-brokerage-account-0790.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/alan-walton-roth-ira-brokerage-account-0790.monarch-account.ts
+@@ -5,7 +5,7 @@ export const alanWaltonRothIraBrokerageAccount0790 = {
+   pageTypeSlug: "monarch-account",
+   slug: "alan-walton-roth-ira-brokerage-account-0790",
+   title: "Alan Walton - Roth IRA Brokerage Account - 0790",
+-  definition: "money the family holds, standing in a Roth IRA account",
++  definition: "money the family holds, sitting in a Roth IRA account",
+   monarchId: "231274616693070766",
+   accountDisplayName: "Alan Walton - Roth IRA Brokerage Account - ****0790 (...0790)",
+   currentBalance: 24495.5,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/amazon-store-card-6952.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/amazon-store-card-6952.monarch-account.ts
+index 5aab56a2da17fab2157aebc0a2820086856de237..382c095024e92b368772e4221a13878e701b69b4 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/amazon-store-card-6952.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/amazon-store-card-6952.monarch-account.ts
+@@ -5,7 +5,7 @@ export const amazonStoreCard6952 = {
+   pageTypeSlug: "monarch-account",
+   slug: "amazon-store-card-6952",
+   title: "Amazon Store Card 6952",
+-  definition: "money the family owes, standing in a credit card account",
++  definition: "money the family owes, sitting in a credit card account",
+   monarchId: "148836979301030089",
+   accountDisplayName: "Amazon Store Card (...6952)",
+   currentBalance: -614.71,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/auxiliary-savings-4202.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/auxiliary-savings-4202.monarch-account.ts
+index 96733fb641372e56bd76dfb10191dc2e5f166ed3..85794f1ad3ed8fb07cf8908c71720e8dfea788c0 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/auxiliary-savings-4202.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/auxiliary-savings-4202.monarch-account.ts
+@@ -5,7 +5,7 @@ export const auxiliarySavings4202 = {
+   pageTypeSlug: "monarch-account",
+   slug: "auxiliary-savings-4202",
+   title: "Auxiliary Savings 4202",
+-  definition: "money the family holds, standing in a savings account",
++  definition: "money the family holds, sitting in a savings account",
+   monarchId: "148836208282048689",
+   accountDisplayName: "Auxiliary Savings (...4202)",
+   currentBalance: 1500.99,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/cash.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/cash.monarch-account.ts
+index 835ef76f67c19ee3ccf060bdb5839ba0dc2a10b0..d511045d002c1be4f917cb4ed000d75423e6af0d 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/cash.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/cash.monarch-account.ts
+@@ -5,7 +5,7 @@ export const cash = {
+   pageTypeSlug: "monarch-account",
+   slug: "cash",
+   title: "Cash",
+-  definition: "money the family holds, standing in a cash management account",
++  definition: "money the family holds, sitting in a cash management account",
+   monarchId: "151732808422660966",
+   accountDisplayName: "Cash",
+   currentBalance: 12388.43,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/checking-4042.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/checking-4042.monarch-account.ts
+index 62cb8554b61e98a0d0e8873f9d9b9e9dc5c4fb4b..8bcd10afa4352165a738725c79fdeed55ff350b2 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/checking-4042.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/checking-4042.monarch-account.ts
+@@ -5,7 +5,7 @@ export const checking4042 = {
+   pageTypeSlug: "monarch-account",
+   slug: "checking-4042",
+   title: "Checking 4042",
+-  definition: "money the family holds, standing in a checking account",
++  definition: "money the family holds, sitting in a checking account",
+   monarchId: "148836208128956590",
+   accountDisplayName: "Checking (...4042)",
+   currentBalance: 2406.96,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/checking-7151-339290.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/checking-7151-339290.monarch-account.ts
+index b613279494946c93dfd7e4c088c2227a6a65f51c..ee6eba94f221b5f8c70726a598b7237b3d18c438 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/checking-7151-339290.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/checking-7151-339290.monarch-account.ts
+@@ -5,7 +5,7 @@ export const checking7151339290 = {
+   pageTypeSlug: "monarch-account",
+   slug: "checking-7151-339290",
+   title: "Checking 7151",
+-  definition: "money the family holds, standing in a checking account",
++  definition: "money the family holds, sitting in a checking account",
+   monarchId: "193792761164339290",
+   accountDisplayName: "Checking (...7151)",
+   currentBalance: 22562.26,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/checking-7151-419796.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/checking-7151-419796.monarch-account.ts
+index b1dd8b15a1ccce9fe1292b12a6db6bf32dd77e5d..00205e030cd0e9c9a3afe82e39786596b8d51e1f 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/checking-7151-419796.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/checking-7151-419796.monarch-account.ts
+@@ -5,7 +5,7 @@ export const checking7151419796 = {
+   pageTypeSlug: "monarch-account",
+   slug: "checking-7151-419796",
+   title: "Checking-7151",
+-  definition: "money the family holds, standing in a checking account",
++  definition: "money the family holds, sitting in a checking account",
+   monarchId: "172979644894419796",
+   accountDisplayName: "Checking-7151 (...7151)",
+   currentBalance: 28961.33,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/checking-protection-4299.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/checking-protection-4299.monarch-account.ts
+index b23849d79b8fb8d08189f2db275048b394b79f73..3453f42c6049d0195126e4279d4e12f5d53f3c05 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/checking-protection-4299.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/checking-protection-4299.monarch-account.ts
+@@ -5,7 +5,7 @@ export const checkingProtection4299 = {
+   pageTypeSlug: "monarch-account",
+   slug: "checking-protection-4299",
+   title: "Checking Protection 4299",
+-  definition: "money the family owes, standing in a loan account",
++  definition: "money the family owes, sitting in a loan account",
+   monarchId: "148836208322943154",
+   accountDisplayName: "Checking Protection (...4299)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-501659.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-501659.monarch-account.ts
+index 10f08ac2cbd958d332e119a4fb6eecd20ec3e767..9dccc52361bd41e858a719ef646d6be1bcc8c3a7 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-501659.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-501659.monarch-account.ts
+@@ -5,7 +5,7 @@ export const costcoAnywhereVisaCardByCiti1425501659 = {
+   pageTypeSlug: "monarch-account",
+   slug: "costco-anywhere-visa-card-by-citi-1425-501659",
+   title: "Costco Anywhere Visa Card by Citi 1425",
+-  definition: "money the family owes, standing in a credit card account",
++  definition: "money the family owes, sitting in a credit card account",
+   monarchId: "193792761707501659",
+   accountDisplayName: "Costco Anywhere Visa Card by Citi (...1425)",
+   currentBalance: -3068.07,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-562484.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-562484.monarch-account.ts
+index 9c7c0ff0e094e743da2e05a10f5f86269a0fc0df..2eb94a7a0eda4e87e35fdf90a68e381814146bbd 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-562484.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-1425-562484.monarch-account.ts
+@@ -5,7 +5,7 @@ export const costcoAnywhereVisaCardByCiti1425562484 = {
+   pageTypeSlug: "monarch-account",
+   slug: "costco-anywhere-visa-card-by-citi-1425-562484",
+   title: "Costco Anywhere Visa® Card by Citi-1425",
+-  definition: "money the family owes, standing in a credit account",
++  definition: "money the family owes, sitting in a credit account",
+   monarchId: "169775899167562484",
+   accountDisplayName: "Costco Anywhere Visa® Card by Citi-1425 (...1425)",
+   currentBalance: 3684.3,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-4898.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-4898.monarch-account.ts
+index c3b251f25106b37f56a6e2abd37f1b9b51a4850a..8d8d18e785a3ce1e675c71690e15f9d97427cab8 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-4898.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/costco-anywhere-visa-card-by-citi-4898.monarch-account.ts
+@@ -5,7 +5,7 @@ export const costcoAnywhereVisaCardByCiti4898 = {
+   pageTypeSlug: "monarch-account",
+   slug: "costco-anywhere-visa-card-by-citi-4898",
+   title: "Costco Anywhere Visa Card by Citi 4898",
+-  definition: "money the family owes, standing in a credit card account",
++  definition: "money the family owes, sitting in a credit card account",
+   monarchId: "148836655312017606",
+   accountDisplayName: "Costco Anywhere Visa Card by Citi (...4898)",
+   currentBalance: -1901.99,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/credit-card-7882.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/credit-card-7882.monarch-account.ts
+index e0dff3c64df805bf66cbae5fe22566791711cca3..9cab6ea053e03a522d3971237be061539cf6b1e1 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/credit-card-7882.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/credit-card-7882.monarch-account.ts
+@@ -5,7 +5,7 @@ export const creditCard7882 = {
+   pageTypeSlug: "monarch-account",
+   slug: "credit-card-7882",
+   title: "CREDIT CARD 7882",
+-  definition: "money the family owes, standing in a credit card account",
++  definition: "money the family owes, sitting in a credit card account",
+   monarchId: "148837582402099406",
+   accountDisplayName: "CREDIT CARD (...7882)",
+   currentBalance: -17733.06,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/jennifer-walton-roth-ira-brokerage-account-0417.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/jennifer-walton-roth-ira-brokerage-account-0417.monarch-account.ts
+index b604e23f519783842b11fd72699d792654b7ea5b..5c0cf6673143d43144353b9af236c4c32317ccbb 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/jennifer-walton-roth-ira-brokerage-account-0417.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/jennifer-walton-roth-ira-brokerage-account-0417.monarch-account.ts
+@@ -5,7 +5,7 @@ export const jenniferWaltonRothIraBrokerageAccount0417 = {
+   pageTypeSlug: "monarch-account",
+   slug: "jennifer-walton-roth-ira-brokerage-account-0417",
+   title: "Roth IRA Brokerage Account - 0417",
+-  definition: "money the family holds, standing in a Roth IRA account",
++  definition: "money the family holds, sitting in a Roth IRA account",
+   monarchId: "231274904511453425",
+   accountDisplayName: "Jennifer Walton - Roth IRA Brokerage Account - ****0417 (...0417)",
+   currentBalance: 7919.3,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/money-market-4201.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/money-market-4201.monarch-account.ts
+index a42cefb351efe2cae42a53900be881902f497801..3fc366c2b1cec3cfabc80d05b7d85abd8ee6cab6 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/money-market-4201.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/money-market-4201.monarch-account.ts
+@@ -5,7 +5,7 @@ export const moneyMarket4201 = {
+   pageTypeSlug: "monarch-account",
+   slug: "money-market-4201",
+   title: "Money Market 4201",
+-  definition: "money the family holds, standing in a savings account",
++  definition: "money the family holds, sitting in a savings account",
+   monarchId: "148836208203405488",
+   accountDisplayName: "Money Market (...4201)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/money-market-9490.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/money-market-9490.monarch-account.ts
+index a86258cda4021752f6f0c839fea306521159e638..3e0095d0d6cc9cc734506f96d7e48dd5f3f08a18 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/money-market-9490.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/money-market-9490.monarch-account.ts
+@@ -5,7 +5,7 @@ export const moneyMarket9490 = {
+   pageTypeSlug: "monarch-account",
+   slug: "money-market-9490",
+   title: "Money Market 9490",
+-  definition: "money the family holds, standing in a savings account",
++  definition: "money the family holds, sitting in a savings account",
+   monarchId: "148836208546289846",
+   accountDisplayName: "Money Market (...9490)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/mortgage-9756.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/mortgage-9756.monarch-account.ts
+index f7268dd384edae908284a4e42c02c75d5ebde82c..b066e3c8391ba353d35831f48eb90f52c33e3c24 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/mortgage-9756.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/mortgage-9756.monarch-account.ts
+@@ -5,7 +5,7 @@ export const mortgage9756 = {
+   pageTypeSlug: "monarch-account",
+   slug: "mortgage-9756",
+   title: "Mortgage 9756",
+-  definition: "money the family owes, standing in a loan account",
++  definition: "money the family owes, sitting in a loan account",
+   monarchId: "148851207159290324",
+   accountDisplayName: "Mortgage 9756 (...9756)",
+   currentBalance: -475875.4,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/personal-profile.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/personal-profile.monarch-account.ts
+index 66513143202421cd6afc645cc80e590429663f61..89c436d335aecf71a72e72f2c0005053baa4c7eb 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/personal-profile.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/personal-profile.monarch-account.ts
+@@ -5,7 +5,7 @@ export const personalProfile = {
+   pageTypeSlug: "monarch-account",
+   slug: "personal-profile",
+   title: "Personal Profile",
+-  definition: "money the family holds, standing in a checking account",
++  definition: "money the family holds, sitting in a checking account",
+   monarchId: "148836305531181242",
+   accountDisplayName: "Personal Profile",
+   currentBalance: 10.15,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/retirement-roth-ira-4056.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/retirement-roth-ira-4056.monarch-account.ts
+index d17a8ef46010d020db3806b90b28a71090b993ad..180035027d4e043c42020d88e7abb6a1a78aab02 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/retirement-roth-ira-4056.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/retirement-roth-ira-4056.monarch-account.ts
+@@ -5,7 +5,7 @@ export const retirementRothIra4056 = {
+   pageTypeSlug: "monarch-account",
+   slug: "retirement-roth-ira-4056",
+   title: "Retirement - Roth IRA 4056",
+-  definition: "money the family holds, standing in a Roth IRA account",
++  definition: "money the family holds, sitting in a Roth IRA account",
+   monarchId: "148836115017504939",
+   accountDisplayName: "Retirement - Roth IRA (...4056)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/sams-club-mastercard-6666.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/sams-club-mastercard-6666.monarch-account.ts
+index 9a5542acddf399cef2cd69c9f0ade4b49401a431..846946abdf76c9e5ffdce33b3dba0800ad64412a 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/sams-club-mastercard-6666.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/sams-club-mastercard-6666.monarch-account.ts
+@@ -5,7 +5,7 @@ export const samsClubMastercard6666 = {
+   pageTypeSlug: "monarch-account",
+   slug: "sams-club-mastercard-6666",
+   title: "Sam's Club® Mastercard® 6666",
+-  definition: "money the family owes, standing in a credit card account",
++  definition: "money the family owes, sitting in a credit card account",
+   monarchId: "148836999150573770",
+   accountDisplayName: "Sam's Club® Mastercard® (...6666)",
+   currentBalance: 0,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/share-savings-1400.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/share-savings-1400.monarch-account.ts
+index ce30bc633c9004153a852a39db84052f172d405a..0ea419b70e823895f627add1d7eace8436f0e490 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/share-savings-1400.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/share-savings-1400.monarch-account.ts
+@@ -5,7 +5,7 @@ export const shareSavings1400 = {
+   pageTypeSlug: "monarch-account",
+   slug: "share-savings-1400",
+   title: "Share Savings 1400",
+-  definition: "money the family holds, standing in a savings account",
++  definition: "money the family holds, sitting in a savings account",
+   monarchId: "148836208058701997",
+   accountDisplayName: "Share Savings (...1400)",
+   currentBalance: 5,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/share-savings-4200.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/share-savings-4200.monarch-account.ts
+index 15188769eecca9e998b1240bab2622190b20ca73..89e1115d23f7ec028fedaf084355210e510db7e1 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/share-savings-4200.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/share-savings-4200.monarch-account.ts
+@@ -5,7 +5,7 @@ export const shareSavings4200 = {
+   pageTypeSlug: "monarch-account",
+   slug: "share-savings-4200",
+   title: "Share Savings 4200",
+-  definition: "money the family holds, standing in a savings account",
++  definition: "money the family holds, sitting in a savings account",
+   monarchId: "148836208168802479",
+   accountDisplayName: "Share Savings (...4200)",
+   currentBalance: 5,
+diff --git a/alan/harness/monarch/monarch-accounts/pages/share-savings-4300.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/share-savings-4300.monarch-account.ts
+index aff6f432c5d0ff44c3c38c144c5430c726439f94..7a79037bf0a4b03194a837540beeb6d1297c3a2f 100644
+--- a/alan/harness/monarch/monarch-accounts/pages/share-savings-4300.monarch-account.ts
++++ b/alan/harness/monarch/monarch-accounts/pages/share-savings-4300.monarch-account.ts
+@@ -5,7 +5,7 @@ export const shareSavings4300 = {
+   pageTypeSlug: "monarch-account",
+   slug: "share-savings-4300",
+   title: "Share Savings 4300",
+-  definition: "money the family holds, standing in a savings account",
++  definition: "money the family holds, sitting in a savings account",
+   monarchId: "148836208373274803",
+   accountDisplayName: "Share Savings (...4300)",
+   currentBalance: 18043.93,
