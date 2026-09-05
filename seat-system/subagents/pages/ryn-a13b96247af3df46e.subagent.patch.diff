@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/monarch.domain.ts b/alan/harness/monarch/monarch.domain.ts
+index 1fa51089df3011c8355817e308c24f108fb390d8..f4b3683653b9c69336d747dc6ec1159ef41a6646 100644
+--- a/alan/harness/monarch/monarch.domain.ts
++++ b/alan/harness/monarch/monarch.domain.ts
+@@ -91,7 +91,7 @@ export const monarch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every site showing the reading is carried it rather than taking one.",
++      statement: "Every site showing the reading is carried that reading rather than taking one.",
+     },
+     {
+       invariantKind: "departure",
