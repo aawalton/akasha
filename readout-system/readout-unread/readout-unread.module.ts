@@ -51,7 +51,7 @@ export const readoutUnread = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal says what each absence is.",
+      statement: "A refusal names each absence's kind.",
     },
     {
       invariantKind: "departure",
