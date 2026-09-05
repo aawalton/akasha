@@ -51,3 +51,16 @@ index d560d0327ff9aa9052e09ccc26af6babc766aae5..7ebdf39591dc133d5f1c7492cc37ec30
      },
    ],
  } as const satisfies Module
+diff --git a/command-system/commands/model-gateway/model-gateway.command.ts b/command-system/commands/model-gateway/model-gateway.command.ts
+index eb3af1d0a05cb9430b72f40afd6ad25015304773..0e8f5c851da79155ace01d450c782533c5be3e6a 100644
+--- a/command-system/commands/model-gateway/model-gateway.command.ts
++++ b/command-system/commands/model-gateway/model-gateway.command.ts
+@@ -78,7 +78,7 @@ export const modelGateway = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every seat a fleet swap reaches is acted on rather than the run stopping at the first that does not answer.",
++        "Every seat a fleet swap reaches is acted on rather than a stop at the first seat not answering.",
+     },
+     {
+       invariantKind: "departure",
