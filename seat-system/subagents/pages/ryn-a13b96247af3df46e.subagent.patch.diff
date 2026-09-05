@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/tracking/tracking-fields/tracking-field.page-type.ts b/alan/tracking/tracking-fields/tracking-field.page-type.ts
+index 59279730e4833d9d83d361afa4fe62dc348341e3..98f11a468225677c406e6e6343905ca446d11ffb 100644
+--- a/alan/tracking/tracking-fields/tracking-field.page-type.ts
++++ b/alan/tracking/tracking-fields/tracking-field.page-type.ts
+@@ -13,7 +13,8 @@ export const trackingField = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A field is observed rather than set, so each value it holds is one observation.",
++      statement:
++        "A field is observed rather than set, so each value that field holds is one observation.",
+     },
+     {
+       invariantKind: "gap",
