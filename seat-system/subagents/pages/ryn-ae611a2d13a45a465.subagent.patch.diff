@@ -1,0 +1,13 @@
+diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+index 77e1b267d83c565dc2ff3886105e34447a73ff1e..ebb34688ecc91b41fed76678950bd26578bded99 100644
+--- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
++++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+@@ -17,7 +17,7 @@ export const rulePopulationSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a rule weighed is counted rather than what it found.",
++      statement: "What a rule weighed is counted rather than what that rule found.",
+     },
+     {
+       invariantKind: "departure",
