@@ -1,3 +1,116 @@
+diff --git a/checks/modules/change-walking/change-walking.module.test-fixtures.ts b/checks/modules/change-walking/change-walking.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b08585095920d78938d73b6c741aec310acb2e40
+--- /dev/null
++++ b/checks/modules/change-walking/change-walking.module.test-fixtures.ts
+@@ -0,0 +1,107 @@
++import { execFileSync } from "node:child_process"
++import { mkdirSync, writeFileSync } from "node:fs"
++import { dirname, join } from "node:path"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { readingIn } from "@akasha/indexes"
++import { answeringOver } from "@akasha/indexes/answering"
++import type { Reading } from "@akasha/indexes/shape"
++import { listedFiled, pathFiled } from "@akasha/indexes/testing"
++import type { Change } from "@akasha/pages-system/change"
++import type { Shadow } from "@akasha/pages-system/shadow"
++import { onDisk } from "./change-walking.module.code.ts"
++
++export const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
++
++export const CODE_AT = "akasha/checks-system/change-walking/held/held.module.code.ts"
++
++export const NOTE_AT = "akasha/checks-system/change-walking/held/held.module.note.md"
++
++export const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
++
++export const TYPE_AT = "akasha/checks-system/change-walking/held/held.page-type.ts"
++
++export const STRAY_AT = "akasha/checks-system/change-walking/held/stray.ts"
++
++export const KEPT_AT =
++  "akasha/checks-system/change-walking/held/held.module.entries.uncommitted.jsonl"
++
++export const BUILT_AT = "akasha/checks-system/change-walking/held/held.module.code.d.ts"
++
++export const VENDORED_AT = "node_modules/held/held.module.uncommitted.ts"
++
++const IGNORING = "*.uncommitted.*\n*.d.ts\nnode_modules/\n"
++
++export const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
++
++export const PAGE_TYPE = "page-type"
++
++export const MODULE = "module"
++
++export const scratch = scratchWorld()
++
++function bodyAt(root: string, path: string, body: string): undefined {
++  const at = join(root, path)
++  mkdirSync(dirname(at), { recursive: true })
++  writeFileSync(at, body)
++  return undefined
++}
++
++export function worldOf(paths: readonly string[]): string {
++  const root = scratch.rootFor("akasha-change-walking-")
++  for (const path of paths) {
++    bodyAt(root, path, `export const held = "${path}"\n`)
++    pathFiled(root, path, [{ path: PAGE_AT, id: HELD_ID }])
++  }
++  return root
++}
++
++export function treeWorld(): string {
++  const root = worldOf([PAGE_AT, CODE_AT])
++  bodyAt(root, ".gitignore", IGNORING)
++  for (const path of [STRAY_AT, KEPT_AT, BUILT_AT, VENDORED_AT]) bodyAt(root, path, "held\n")
++  execFileSync("git", ["-C", root, "init", "-q"], { stdio: "ignore" })
++  execFileSync("git", ["-C", root, "add", "-A"], { stdio: "ignore" })
++  return root
++}
++
++export function mixedWorld(): Change {
++  const root = scratch.rootFor("akasha-selecting-")
++  writeFileSync(join(root, "here.ts"), "here")
++  writeFileSync(join(root, "note.md"), "note")
++  const held = onDisk(root)
++  return { root, changed: ["gone.ts", "here.ts", "note.md"], after: held, before: held }
++}
++
++export function pagedWorld(): Change {
++  const root = scratch.rootFor("akasha-paging-")
++  mkdirSync(join(root, PAGE_AT.slice(0, PAGE_AT.lastIndexOf("/"))), { recursive: true })
++  writeFileSync(join(root, PAGE_AT), `export const held = { slug: "held" }\n`)
++  writeFileSync(join(root, CODE_AT), `export const HELD = "held"\n`)
++  listedFiled(root, PAGE_TYPE, MODULE, [{ path: PAGE_AT, id: HELD_ID }])
++  const held = onDisk(root)
++  return { root, changed: [CODE_AT, GONE_AT, PAGE_AT], after: held, before: held }
++}
++
++export function tailedWorld(): Change {
++  const held = pagedWorld()
++  writeFileSync(join(held.root, TYPE_AT), `export const held = { slug: "held" }\n`)
++  return { ...held, changed: [...held.changed, TYPE_AT] }
++}
++
++export function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
++  const base = readingIn(root)
++  const reading: Reading = {
++    holds: (at) => base.holds(at),
++    listing: (at) => {
++      asked()
++      return base.listing(at)
++    },
++    lines: (at) => base.lines(at),
++  }
++  return {
++    index: answeringOver(reading, (path) => held.pageOf(path)),
++    filed: () => held.filed(),
++    pageOf: (path) => held.pageOf(path),
++    codeAt: (path) => held.codeAt(path),
++  }
++}
 diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
 index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..a15c2b35c1de557fefbae742b7fe7b2d37d9a2f0 100644
 --- a/checks/modules/change-walking/change-walking.module.test.ts
@@ -11,6 +124,18 @@ index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..a15c2b35c1de557fefbae742b7fe7b2d
      filed: () => held.filed(),
      pageOf: (path) => held.pageOf(path),
      codeAt: (path) => held.codeAt(path),
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index 8330360b1d34e6e5b770df87a572a43486a61ecf..59bf3b24552778bbdfeb5b786db372443bec747d 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -7,6 +7,7 @@ export const changeWalking = {
+   definition: "how a check reaches the text it judges",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "absence",
 diff --git a/commands/move/naming/move-naming.module.code.ts b/commands/move/naming/move-naming.module.code.ts
 index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d81a21f1c 100644
 --- a/commands/move/naming/move-naming.module.code.ts
@@ -47,7 +172,7 @@ index 747896cf51a4bcffbd8043dc05e9feb3a77469a4..4672a21ae708d841f432d96b0a651a0e
      knownIn: () => knownIn(reading, pageOf),
      listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
 diff --git a/pages/indexes/index-reading/index-reading.module.code.ts b/pages/indexes/index-reading/index-reading.module.code.ts
-index da66307fb6d08d23a66361c71a7260c8e9be3c8f..88c7c6b3e3dafa8f9fad20646ac1c75c19ce0857 100644
+index 42c90012956dce7133d062807211c992047c1a46..0474f46cd3cbbf1e49cebe613f4b4fa81dcd174a 100644
 --- a/pages/indexes/index-reading/index-reading.module.code.ts
 +++ b/pages/indexes/index-reading/index-reading.module.code.ts
 @@ -1,5 +1,4 @@
@@ -56,7 +181,7 @@ index da66307fb6d08d23a66361c71a7260c8e9be3c8f..88c7c6b3e3dafa8f9fad20646ac1c75c
  import { addressIn } from "@akasha/pages-system/page-address"
  import { partedIn } from "@akasha/pages-system/page-file-name"
  import type { Value } from "@akasha/pages-system/page-value"
-@@ -10,7 +9,6 @@ import { indexRelation } from "../index/relation/index-relation.index.ts"
+@@ -9,7 +8,6 @@ import { indexRelation } from "../index/relation/index-relation.index.ts"
  import { indexSchema } from "../index/schema/index-schema.index.ts"
  import { indexValue } from "../index/value/index-value.index.ts"
  import type { Reading } from "../index-shape/index-shape.module.code.ts"
