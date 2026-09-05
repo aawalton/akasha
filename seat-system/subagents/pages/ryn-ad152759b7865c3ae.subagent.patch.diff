@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/collection-system/sync-runs/sync-run.page-type.ts b/collection-system/sync-runs/sync-run.page-type.ts
+index 3cf7880a41062c6c702e322ad17463a655e98c68..732ca9a67d2382316b37a75c77f4eee5fae2eb38 100644
+--- a/collection-system/sync-runs/sync-run.page-type.ts
++++ b/collection-system/sync-runs/sync-run.page-type.ts
+@@ -25,7 +25,8 @@ export const syncRun = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A run sits beside the sync it was a pull of rather than in a file of its own.",
++      statement:
++        "A run sits beside the sync that run was a pull of rather than in a file of its own.",
+     },
+     {
+       invariantKind: "departure",
