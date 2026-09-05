@@ -2143,3 +2143,319 @@ index 0000000000000000000000000000000000000000..ddad32c43bb2ae22f7f122a4582225f4
 +  fromTemplate: "trash-sell",
 +  conditions: "jsonl",
 +} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da78681f11658441842391581ba2f6b19097e951
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTreasureMapsBank = {
++  id: "01a0728b-8ebf-7ddd-8ba9-20cfde237207",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-treasure-maps-bank",
++  title: "Bank treasure maps",
++  description:
++    "Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "treasure-maps",
++  displayOrder: 50,
++  action: "move-to",
++  active: true,
++  goal: "task",
++  locked: true,
++  fromTemplate: "treasure-maps-bank",
++  destination: "bank",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..d30b0c45e40079e9c2ef67203952dabb4c237e5f
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a0728b-8ea5-74f9-844a-24693f2f984d","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a0728b-8ea5-7400-8ccc-0d0b53e837b4","conditionField":"max-quality","conditionValue":"4"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..856c71c1ff0342b633537a320026ed7407a268a2
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTreasuresEpicBank = {
++  id: "01a0728b-8ec0-751b-8b72-78d2913de4d2",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-treasures-epic-bank",
++  title: "Bank epic+ treasures",
++  description: "Banks epic quality or higher treasures for safekeeping or later sale.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "treasures",
++  displayOrder: 60,
++  action: "move-to",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "treasures-epic-bank",
++  destination: "bank",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..e7f046bb491e7c6afd4fa667da6f44eacde8f1dc
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,3 @@
++{"id":"01a0728b-8ea5-721b-b926-163d674ae6c5","conditionField":"stolen","conditionValue":"stolen"}
++{"id":"01a0728b-8ea5-7da3-8d84-1e7ed0afbedd","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a0728b-8ea5-7c14-b910-fa032789bc37","conditionField":"max-quality","conditionValue":"4"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ab8b2f74bc928237348544292d8a7adee696dff
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTreasuresEpicStolen = {
++  id: "01a0728b-8ec0-725b-bf83-228a199a5876",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-treasures-epic-stolen",
++  title: "Launder epic+ treasures",
++  description:
++    "Launders stolen treasures of epic quality or higher. These are worth keeping — sell them legitimately or bank for later.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "treasures",
++  displayOrder: 58,
++  action: "fence-launder",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "treasures-epic-stolen",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..3cbc7fa92e853d71db28924246be77b1cc6ebcb9
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a0728b-8ea5-7e09-94c4-25333bacdbd4","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a0728b-8ea5-74c7-80ff-9f53d77cd9a1","conditionField":"max-quality","conditionValue":"3"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e8953059e0de63007c35724f8f4d6ef70c0afcd
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTreasuresSell = {
++  id: "01a0728b-8ec1-76a0-b421-1147ce64b46f",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-treasures-sell",
++  title: "Sell common treasures",
++  description:
++    "Sells treasures up to superior (blue) quality at a merchant. Higher-quality treasures are preserved for banking or guild store listing.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "treasures",
++  displayOrder: 68,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  locked: true,
++  fromTemplate: "treasures-sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..3e6446660586b7e35c3fb0e5df32ffcf6b72ac0e
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-8ea5-7109-b804-8e661e0cd12c","conditionField":"stolen","conditionValue":"stolen"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bf08e827ea0ba4a5dd85106c4ac432e92de6d868
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTreasuresStolenFence = {
++  id: "01a0728b-8ec1-7536-8fc5-234be5e73ba0",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-treasures-stolen-fence",
++  title: "Fence stolen treasures",
++  description:
++    "Sells stolen treasures at a fence. Stolen treasures can't be sold to normal merchants.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "treasures",
++  displayOrder: 67,
++  action: "fence-sell",
++  active: true,
++  goal: "sell",
++  locked: true,
++  fromTemplate: "treasures-stolen-fence",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b82471f7fe180d5394eafc4af5e443b9e6d6238
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTrophiesBank = {
++  id: "01a0728b-8ec1-75fa-80ed-81a19e273ed8",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-trophies-bank",
++  title: "Bank trophies",
++  description:
++    "Deposits miscellaneous trophies (keys, key fragments, toys, dungeon buff ingredients, material upgraders) in the bank for safekeeping.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "trophies",
++  displayOrder: 62,
++  action: "move-to",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "trophies-bank",
++  destination: "bank",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..a94aa42cc44161ee96407b5a8d24f7e9a03f7b3f
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-8ea5-74cf-950a-e33f08022eb4","conditionField":"can-unlock","conditionValue":"can-unlock"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3863c737113e8f8fe28162e0e2f61c904ebe23e2
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.ts
+@@ -0,0 +1,20 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleUnlockByPriority = {
++  id: "01a0728b-8ec1-746f-bd66-65142a6da18b",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-unlock-by-priority",
++  title: "Use unlockables",
++  description:
++    "Uses items that teach something new — motifs, recipes, style pages, furnishing plans, etc. If the current character can learn the item, it's used immediately. For recipes (character-specific knowledge), the addon checks the current character only (ESO API limitation).",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "knowledge",
++  displayOrder: 31,
++  action: "use",
++  active: true,
++  goal: "unlock",
++  locked: true,
++  fromTemplate: "unlock-by-priority",
++  destination: "character:by-priority",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..af2c037d04edfc96157d29acad9a23c41a9876f3
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a0728b-8ea5-74c7-b43c-11061d906b9b","conditionField":"stolen","conditionValue":"stolen"}
++{"id":"01a0728b-8ea5-72ed-99d0-c8c23168528f","conditionField":"can-unlock","conditionValue":"can-unlock"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..20242906bae9cdeeb95120fcf24098e9a68ffa66
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleUnlockStolen = {
++  id: "01a0728b-8ec2-7808-9e1b-362739c2b586",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-unlock-stolen",
++  title: "Launder stolen unlockables",
++  description:
++    "Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "knowledge",
++  displayOrder: 26,
++  action: "fence-launder",
++  active: true,
++  goal: "unlock",
++  locked: true,
++  fromTemplate: "unlock-stolen",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..ff3243c7a9f2fe10d4a84957951d7df77a14491b
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,3 @@
++{"id":"01a0728b-8ea5-7772-a16b-7f738a779e80","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
++{"id":"01a0728b-8ea5-7f5d-ab83-1a4589986278","conditionField":"market-value-op","conditionValue":">="}
++{"id":"01a0728b-8ea5-7dc1-b711-ac66dda1a4c6","conditionField":"can-list-at-guild-trader","conditionValue":"can-list-at-guild-trader"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ec7fb2dbbeef3b4adfd1b337ff7d09ae5f3b4fa5
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts
+@@ -0,0 +1,20 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleValuableNothing = {
++  id: "01a0728b-8ec3-7bb7-8f8c-3624870fbdf0",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-valuable-nothing",
++  title: "List items worth >=5000g at guild store",
++  description:
++    "Lists any item with guild-store value (marketValue) >= 5000g that can be listed at a guild trader. Single guild-value gate (no vendor-value constraint). Pairs with low-quality-sell: >=5000 list, <5000 vendor-sell.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "all",
++  displayOrder: 39,
++  action: "list",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "valuable-nothing",
++  destination: "character:8796093022338107",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..20552a34421df747d26c21e02f670b3e57845dbd
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a0728b-8ea5-7d81-a01b-679780a98ba6","conditionField":"max-quality","conditionValue":"1"}
++{"id":"01a0728b-8ea5-791d-97b5-bcdfa264a52c","conditionField":"market-value","conditionValue":"0"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c20ccb9e1bf4cbf2a6a10f8893f406a3d98fc583
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleWorthlessDestroy = {
++  id: "01a0728b-8ec3-7fdb-ad57-ed1a0510afb2",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-worthless-destroy",
++  title: "Destroy worthless items",
++  description:
++    "Destroys normal (white) quality items that have no guild store value and no merchant value. Place at the very bottom — only items not caught by any higher-priority rule are destroyed.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "all",
++  displayOrder: 75,
++  action: "destroy",
++  active: true,
++  goal: "destroy",
++  locked: true,
++  fromTemplate: "worthless-destroy",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
