@@ -94,5 +94,13 @@ export const commandSystem = {
       statement:
         "A command is reached by importing it or by naming it rather than by spelling its path.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A command holds command concerns rather than domain logic.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The logic a command runs is importable without the command.",
+    },
   ],
 } as const satisfies WorkspacePackage
