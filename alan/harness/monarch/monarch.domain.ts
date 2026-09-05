@@ -124,7 +124,8 @@ export const monarch = {
     { invariantKind: "departure", statement: "Every monarch page is in a file." },
     {
       invariantKind: "departure",
-      statement: "What a schedule writes is in memory; what names it is in the instructions.",
+      statement:
+        "The pages a schedule writes are in memory; that schedule is named in the instructions.",
     },
     {
       invariantKind: "departure",
