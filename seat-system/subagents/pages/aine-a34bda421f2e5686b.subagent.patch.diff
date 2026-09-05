@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index caeef3c40502bb5a864f2c2b06208c2dfde299d1..66cd2035b118b5d211e794b4d27f33d4778e3cb1 100644
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..b70dc016d64c84f0065d86c18f89bfda1e48c8f3 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
@@ -44,8 +44,17 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..66cd2035b118b5d211e794b4d27f33d4
    const world = worldOf(
      from,
      ["akasha/one.ts"],
+@@ -233,7 +233,7 @@ function installed(from: string, named: string, at: string | null): undefined {
+   symlinkSync(join(from, at), to)
+ }
+ 
+-check("a package standing outside the tree is answered from the tree it was made from", () => {
++check("a package outside the tree is answered from the tree it was made from", () => {
+   const from = repo({})
+   installed(from, "third", null)
+   const world = worldOf(from, [], handing({}), null)
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..675b9113b34c53aabe4cf144191ed6bfa4038ffa 100644
+index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..32c81af638e28c6fb20eea1b440a7fb5ea7c6724 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -5,7 +5,7 @@ export const codeTests = {
@@ -84,7 +93,7 @@ index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..675b9113b34c53aabe4cf144191ed6bf
      },
      {
        invariantKind: "departure",
-@@ -180,7 +180,7 @@ export const codeTests = {
+@@ -180,12 +180,11 @@ export const codeTests = {
      },
      {
        invariantKind: "departure",
@@ -93,3 +102,9 @@ index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..675b9113b34c53aabe4cf144191ed6bf
      },
      {
        invariantKind: "gap",
+-      statement:
+-        "A package outside the akasha folder is judged against the copy standing in the tree.",
++      statement: "A package outside the akasha folder is judged against the copy in the tree.",
+     },
+     {
+       invariantKind: "departure",
