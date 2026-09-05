@@ -98,7 +98,7 @@ export function filingOf(
 function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | null>): boolean {
   const said = partedIn(path)
   if (said === null || said.sections.length > 0) return false
-  return !fileProperties.has(said.pageType)
+  return fileProperties.get(said.pageType) !== null
 }
 
 export type Indexing = {

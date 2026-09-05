@@ -41,6 +41,11 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A property whose file carries a fixed name claims no file named for a slug and a page type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that will not load is reported only for a page.",
     },
     {
