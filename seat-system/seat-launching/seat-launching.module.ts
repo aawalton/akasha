@@ -28,6 +28,22 @@ export const seatLaunching = {
     },
     {
       invariantKind: "departure",
+      statement: "A seat's scope is capped at eight of the machine's cores.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's scope bounds how many tasks the seat may make.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cap on the scope holds over every process and thread the seat begins.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat takes the default share of a core it contends for.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The server options are given only on the launch that begins the server.",
     },
     {

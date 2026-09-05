@@ -24,7 +24,24 @@ const HEADLESS_FLAG = "--headless"
 
 const SCOPE_COMMAND = "systemd-run"
 
-const SCOPE_FLAGS: readonly string[] = ["--user", "--scope", "--collect", "--quiet"]
+const SEAT_CORES = 8
+
+const SEAT_SHARE = 100
+
+const SEAT_TASKS = 2000
+
+const SCOPE_FLAGS: readonly string[] = [
+  "--user",
+  "--scope",
+  "--collect",
+  "--quiet",
+  "-p",
+  `CPUQuota=${String(SEAT_CORES * 100)}%`,
+  "-p",
+  `CPUWeight=${String(SEAT_SHARE)}`,
+  "-p",
+  `TasksMax=${String(SEAT_TASKS)}`,
+]
 
 const ENV_SCRUB: readonly string[] = ["env", "-u", "TMUX", "-u", "TMUX_PANE"]
 
