@@ -1,3 +1,15 @@
+diff --git a/calendar-sync/calendar-sync.workspace-package.ts b/calendar-sync/calendar-sync.workspace-package.ts
+index 2a1dab578439162b658c5a912b47e98d41876254..da86334f33dd6f02c92ad57ef5f430e1da1f7a45 100644
+--- a/calendar-sync/calendar-sync.workspace-package.ts
++++ b/calendar-sync/calendar-sync.workspace-package.ts
+@@ -7,6 +7,7 @@ export const calendarSync = {
+   definition: "the events a public library publishes, brought into the page store each day",
+   manifest: "json",
+   partSlugs: [
++    "manifest/calendar-sync-manifests",
+     "module/caldata-schema",
+     "module/zoned-time",
+     "module/caldata-client",
 diff --git a/calendar-sync/manifests/calendar-sync-manifests.manifest.ts b/calendar-sync/manifests/calendar-sync-manifests.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..0d3325f2d5a4abb984156eefa6e0324c6429d651
