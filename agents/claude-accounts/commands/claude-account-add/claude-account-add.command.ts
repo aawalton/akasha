@@ -15,7 +15,7 @@ export const claudeAccountAdd = {
   ],
   helpNotes: [
     "the slot is the highest one any account page states, and one more, so the slots stay in the order the accounts were added.",
-    "an account whose page already stands is refused rather than written over.",
+    "an account whose page already exists is refused rather than written over.",
     "only the name, the address and the slot are written: the uuid, the plan, the band, the renewal day and the scopes are all answered by the first sign-in.",
     "the tokens are held beside the page rather than in it, so a page written here signs in nowhere until /login is run in the launching session.",
     "the shell composes a `c<N>` launcher for each account page, so a page written here reaches a terminal that composes its set again.",
@@ -27,7 +27,7 @@ export const claudeAccountAdd = {
     },
     {
       invariantKind: "departure",
-      statement: "An account whose page stands is refused rather than written over.",
+      statement: "An account whose page exists is refused rather than written over.",
     },
     {
       invariantKind: "departure",

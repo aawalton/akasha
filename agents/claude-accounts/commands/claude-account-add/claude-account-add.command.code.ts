@@ -103,7 +103,7 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
     if (held.has(read.account)) {
       return {
         report: [],
-        refusals: [`a page already stands for \`${read.account}\`, and this writes over none`],
+        refusals: [`a page already exists for \`${read.account}\`, and this writes over none`],
         code: 1,
       }
     }

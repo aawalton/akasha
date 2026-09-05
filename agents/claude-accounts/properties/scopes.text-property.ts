@@ -19,7 +19,7 @@ export const scopes = {
     },
     {
       invariantKind: "departure",
-      statement: "The scopes stand in the order the grant returned.",
+      statement: "The scopes sit in the order the grant returned.",
     },
   ],
 } as const satisfies TextProperty
