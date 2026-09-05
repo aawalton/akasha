@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
+index f656c7d7de71eaf8566dcfaa2b6720a430ede8e8..b39d3882d8b6bab1a9fc582ba6c9ad49d49e43de 100644
+--- a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
+@@ -44,7 +44,7 @@ export const accountUpkeepRunning = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A restart waits out the rest of the period where a window was triggered on any account inside it.",
++        "A restart waits out the rest of the period in which a window was triggered on any account.",
+     },
+     {
+       invariantKind: "departure",
