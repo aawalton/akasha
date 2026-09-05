@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/seat-page-history/seat-page-history.module.ts b/seat-system/seat-page-history/seat-page-history.module.ts
+index 1e826c17dc62e6f2ef37bbfe3e34f6a5c0bac7e7..a64debdf3e799c12fc4f922a41cb567cc8555588 100644
+--- a/seat-system/seat-page-history/seat-page-history.module.ts
++++ b/seat-system/seat-page-history/seat-page-history.module.ts
+@@ -9,7 +9,8 @@ export const seatPageHistory = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What a seat said before is read from akasha's history and from no older store.",
++      statement:
++        "The values a seat said before are read from akasha's history and from no older store.",
+     },
+     {
+       invariantKind: "departure",
