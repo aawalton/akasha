@@ -14,7 +14,8 @@ export const automationToggles = {
     },
     {
       invariantKind: "departure",
-      statement: "The type of a set of toggles follows from that list rather than restating it.",
+      statement:
+        "The type of a set of toggles follows from that list rather than restating that list.",
     },
     {
       invariantKind: "departure",
