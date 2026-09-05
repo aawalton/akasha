@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
-index cc9d65c4e76a3dbaa980aae2938026cbfd3ccfc6..bf451e650616fc0c322049bb3fbc92e5cc3471a4 100644
+index cc9d65c4e76a3dbaa980aae2938026cbfd3ccfc6..3b27c207c6543ea3749c73e27249d5fec37af85c 100644
 --- a/domains/domain.page-type.ts
 +++ b/domains/domain.page-type.ts
-@@ -68,7 +68,7 @@ export const domain = {
+@@ -68,11 +68,11 @@ export const domain = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index cc9d65c4e76a3dbaa980aae2938026cbfd3ccfc6..bf451e650616fc0c322049bb3fbc92e5
      },
      {
        invariantKind: "departure",
+-      statement: "A domain goes only when it no longer fits the structure.",
++      statement: "A domain goes only when that domain no longer fits the structure.",
+     },
+   ],
+   directives: [
