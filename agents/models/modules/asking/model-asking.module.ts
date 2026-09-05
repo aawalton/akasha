@@ -25,7 +25,7 @@ export const modelAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A prompt asked more than once stands more than once in the job.",
+      statement: "A prompt asked more than once sits more than once in the job.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,7 @@ export const modelAsking = {
     {
       invariantKind: "constraint",
       statement:
-        "The gateway named by the environment is what stands between this module and Anthropic.",
+        "The gateway named by the environment is what sits between this module and Anthropic.",
     },
     {
       invariantKind: "absence",

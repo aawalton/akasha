@@ -54,7 +54,7 @@ export const transportLog = {
     },
     {
       invariantKind: "departure",
-      statement: "A chunk holding no `event:` line leaves the event type as that type stood.",
+      statement: "A chunk holding no `event:` line leaves the event type as that type was.",
     },
     {
       invariantKind: "departure",

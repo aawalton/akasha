@@ -131,7 +131,7 @@ test("the last event: line over every chunk names the event type", async () => {
   expect(row["lastEventType"]).toBe("content_block_delta")
 })
 
-test("a chunk holding no event: line leaves the event type as that type stood", async () => {
+test("a chunk holding no event: line leaves the event type as that type was", async () => {
   const row = await rowOver(["event: ping\n\n", "data: {}\n\n"])
   expect(row["lastEventType"]).toBe("ping")
 })

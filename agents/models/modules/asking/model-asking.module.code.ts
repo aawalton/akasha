@@ -28,7 +28,7 @@ function tokenIn(held: unknown): string | null {
 
 async function credential(): Promise<string> {
   const at = process.env["CLAUDE_CODE_HOST_CREDS_FILE"]
-  if (at === undefined) throw new Error("no CLAUDE_CODE_HOST_CREDS_FILE stands in the environment")
+  if (at === undefined) throw new Error("no CLAUDE_CODE_HOST_CREDS_FILE is in the environment")
   const held: unknown = JSON.parse(await Bun.file(at).text())
   const token = tokenIn(held)
   if (token === null) throw new Error("the credentials file names no access token")
@@ -37,7 +37,7 @@ async function credential(): Promise<string> {
 
 function endpoint(): string {
   const at = process.env["ANTHROPIC_BASE_URL"]
-  if (at === undefined) throw new Error("no ANTHROPIC_BASE_URL stands in the environment")
+  if (at === undefined) throw new Error("no ANTHROPIC_BASE_URL is in the environment")
   return `${at.replace(/\/+$/, "")}/v1/messages`
 }
 
