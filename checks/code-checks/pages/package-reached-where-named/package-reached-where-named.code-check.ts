@@ -53,7 +53,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "The package a file belongs to is the only one answering for reaching it.",
+      statement: "The package a file belongs to is the only one answering for reaching that file.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +78,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A package whose manifest calls it nothing is named by its folder.",
+      statement: "A package whose manifest calls that package nothing is named by its folder.",
     },
     {
       invariantKind: "departure",
