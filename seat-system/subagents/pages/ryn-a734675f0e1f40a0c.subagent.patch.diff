@@ -1,0 +1,15 @@
+diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
+index 588415cfa762c9a1670a2c5d17d3aae6523541e6..effd0270caf542c079c90fa4994fbdbeae7efc7c 100644
+--- a/pages/views/view.page-type.ts
++++ b/pages/views/view.page-type.ts
+@@ -100,10 +100,6 @@ export const view = {
+     { pagePropertySlug: "locked-page-type", required: false, many: false },
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
