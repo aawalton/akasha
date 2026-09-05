@@ -1,3 +1,23 @@
+diff --git a/story/story.domain.ts b/story/story.domain.ts
+index 6722c558731c2e1c858353aa93990294fb864d53..bf0d3535b8df51c8a832b13f0f298f099a98d09c 100644
+--- a/story/story.domain.ts
++++ b/story/story.domain.ts
+@@ -11,7 +11,6 @@ export const story = {
+     "domain/tower",
+     "domain/ui",
+     "domain/wandering-inn",
+-    "domain/world-mechanics",
+     "page-type/game",
+     "page-type/gm-doctrine-pack",
+     "page-type/named-event",
+@@ -30,6 +29,7 @@ export const story = {
+     "page-type/story-written",
+     "page-type/world",
+     "page-type/world-character",
++    "page-type/world-mechanic",
+   ],
+   invariants: [
+     {
 diff --git a/story/world-mechanics/world-mechanic.page-type.ts b/story/world-mechanics/world-mechanic.page-type.ts
 index 48c964c908c58dae69577d004b77fe07db68dc26..861259e1a73183ec95e0ede6225097b9eea27e9f 100644
 --- a/story/world-mechanics/world-mechanic.page-type.ts
