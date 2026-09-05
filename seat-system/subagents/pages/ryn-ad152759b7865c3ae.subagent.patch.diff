@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/context/warrants/file-itself/file-itself.context-warrant.ts b/context/warrants/file-itself/file-itself.context-warrant.ts
+index 64462d43e1af7c45d14b6d03823cb72ffac3cae4..2ce25352b14044f0fc67213300bf8e24c5e789c5 100644
+--- a/context/warrants/file-itself/file-itself.context-warrant.ts
++++ b/context/warrants/file-itself/file-itself.context-warrant.ts
+@@ -25,7 +25,7 @@ export const fileItself = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which files a machine writes is read from the properties naming them.",
++      statement: "Which files a machine writes is read from the properties naming those files.",
+     },
+     {
+       invariantKind: "departure",
