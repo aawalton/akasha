@@ -1,0 +1,13 @@
+diff --git a/commands/refactor/landing/refactor-landing.module.ts b/commands/refactor/landing/refactor-landing.module.ts
+index dc59bc47a0763e5c0bb5d4f68aeba9b8cefff9af..412fe6a3459568207762e949609ff57009efaf3a 100644
+--- a/commands/refactor/landing/refactor-landing.module.ts
++++ b/commands/refactor/landing/refactor-landing.module.ts
+@@ -9,7 +9,7 @@ export const refactorLanding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every act respelling bodies lands them through this module.",
++      statement: "Every act respelling bodies lands those bodies through this module.",
+     },
+     {
+       invariantKind: "departure",
