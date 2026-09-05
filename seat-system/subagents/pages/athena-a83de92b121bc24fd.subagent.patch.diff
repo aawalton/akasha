@@ -87,6 +87,44 @@ index 5da9378f6a7adf761327247dd3699d4650bfd417..e843a842c821dc5e3f14ee135b60b8b5
  }
  
  /**
+diff --git a/alan/tracking/session-activities/activity-default/activity-default.module.code.ts b/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
+index 6dc5ac21d93d4d4177f2ecaaa0a0e4beab5923c4..1a503161aca05d283deb173dce1865b5fd53f32f 100644
+--- a/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
++++ b/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
+@@ -84,24 +84,15 @@ export function activityNamed(standing: readonly Standing[], title: string): Sta
+   return standing.find((one) => pageStem(one.title) === wanted || one.slug === wanted)
+ }
+ 
+-async function written(path: string, content: string, message: string): Promise<void> {
+-  const scratch = mkdtempSync(join(tmpdir(), "activity-default-"))
+-  try {
+-    const body = join(scratch, "body")
+-    writeFileSync(body, content)
+-    const ran = Bun.spawn(
+-      ["akasha", TRACKING, "--file-path", path, "--content-file", body, "--message", message],
+-      { cwd: akashaRoot(), stdout: "pipe", stderr: "pipe" }
+-    )
+-    const [out, err, code] = await Promise.all([
+-      new Response(ran.stdout).text(),
+-      new Response(ran.stderr).text(),
+-      ran.exited,
+-    ])
+-    if (code !== 0) throw new Error(`\`akasha ${TRACKING}\` refused: ${(err + out).trim()}`)
+-  } finally {
+-    rmSync(scratch, { recursive: true, force: true })
+-  }
++/** The composed page landed, with no scratch file between the body and the landing. */
++async function written(
++  root: string,
++  path: string,
++  content: string,
++  message: string
++): Promise<void> {
++  const said = await landTracking({ root, changes: [{ path, body: content }], message })
++  if ("refused" in said) throw new Error(`the tracking landing refused: ${said.refused}`)
+ }
+ 
+ export default async function trackingActivitySet(args: readonly string[]): Promise<void> {
 diff --git a/alan/tracking/tracking-landing/tracking-landing.module.code.ts b/alan/tracking/tracking-landing/tracking-landing.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..d4f1dd1d2e016c892cd38dfe645bc726f47d8fe0
