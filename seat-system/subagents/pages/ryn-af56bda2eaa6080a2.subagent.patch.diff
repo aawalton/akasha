@@ -1,5 +1,5 @@
 diff --git a/pages/export-name/page-export-name.module.ts b/pages/export-name/page-export-name.module.ts
-index 5c25a8f3040a834cba1dbb9e58de56d9834cd859..94e05066f6339bca1910937a37358cb4c54ec09b 100644
+index 5c25a8f3040a834cba1dbb9e58de56d9834cd859..4abae0ef13181952c478839fed4d0996173023d1 100644
 --- a/pages/export-name/page-export-name.module.ts
 +++ b/pages/export-name/page-export-name.module.ts
 @@ -11,7 +11,7 @@ export const pageExportName = {
@@ -8,6 +8,16 @@ index 5c25a8f3040a834cba1dbb9e58de56d9834cd859..94e05066f6339bca1910937a37358cb4
        statement:
 -        "A slug becomes a name by dropping each `-` and raising the character following it.",
 +        "A slug becomes a name by dropping each `-` and raising the character following that `-`.",
+     },
+     {
+       invariantKind: "departure",
+@@ -23,7 +23,8 @@ export const pageExportName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name opening with a digit is no identifier, so the slug making it is at fault.",
++      statement:
++        "A name opening with a digit is no identifier, so the slug making that name is at fault.",
      },
      {
        invariantKind: "departure",
