@@ -10,7 +10,8 @@ export const claudeAccountCredentialFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A credential file is named `.credentials.json` inside the directory it is given.",
+      statement:
+        "A credential file is named `.credentials.json` inside the directory that file is given.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +21,7 @@ export const claudeAccountCredentialFile = {
     {
       invariantKind: "departure",
       statement:
-        "A write of an empty access token or an empty refresh token leaves the file as it is.",
+        "A write of an empty access token or an empty refresh token leaves the file as that file is.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +38,7 @@ export const claudeAccountCredentialFile = {
     {
       invariantKind: "departure",
       statement:
-        "A refresh whose page credential expires no later than the file's leaves the file as it is.",
+        "A refresh whose page credential expires no later than the file's leaves the file as that file is.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +60,7 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A push that is refused throws rather than answering that it pushed.",
+      statement: "A push that is refused throws rather than answering that the push happened.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +68,7 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A run of writes settles for two seconds before one push is made of it.",
+      statement: "A run of writes settles for two seconds before one push is made of that run.",
     },
     {
       invariantKind: "departure",
