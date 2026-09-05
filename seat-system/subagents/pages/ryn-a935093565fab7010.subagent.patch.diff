@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts b/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts
-index 246b9f88a6c762cad2830ff0c586fca05ad39845..af5a8337e7f2dbb74149b87ceed1a52a00065e97 100644
+index 246b9f88a6c762cad2830ff0c586fca05ad39845..5debf02b8addb52ed41ce6756992536a1401e64a 100644
 --- a/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts
 +++ b/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts
 @@ -22,7 +22,7 @@ export const watcherSideFile = {
@@ -9,6 +9,16 @@ index 246b9f88a6c762cad2830ff0c586fca05ad39845..af5a8337e7f2dbb74149b87ceed1a52a
        invariantKind: "departure",
 -      statement: "A file already holding what is wanted is left alone.",
 +      statement: "A file already holding the content wanted is left alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +30,8 @@ export const watcherSideFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The hash answered is of what was wanted rather than of what the file holds.",
++      statement:
++        "The hash answered is of the content wanted rather than of the content the file holds.",
      },
      {
        invariantKind: "departure",
