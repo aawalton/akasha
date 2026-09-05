@@ -1,5 +1,5 @@
 diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
-index 5d27b2a74e6e501b9902a15e42ccbe85aad56210..cb96dcbf09f50c6ffe18f9bd690a17780773baa3 100644
+index 5d27b2a74e6e501b9902a15e42ccbe85aad56210..66372f9c25d0ac55dc7e273b98656b94bf6f7f21 100644
 --- a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
 +++ b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
 @@ -1,6 +1,6 @@
@@ -10,7 +10,16 @@ index 5d27b2a74e6e501b9902a15e42ccbe85aad56210..cb96dcbf09f50c6ffe18f9bd690a1778
  import {
    assemblePageTree,
    type PageAnswers,
-@@ -76,7 +76,7 @@ export function readPageAnswers(answered: unknown): PageAnswers {
+@@ -11,8 +11,6 @@ import {
+ 
+ const COMMAND = "page-tree"
+ 
+-const COMMAND_AT = "commands/page-tree/page-tree.command.code.ts"
+-
+ const CALL_TIMEOUT_MS = 60_000
+ 
+ const MAX_BUFFER = 16 * 1024 * 1024
+@@ -76,7 +74,7 @@ export function readPageAnswers(answered: unknown): PageAnswers {
  }
  
  export async function readPageTree(): Promise<PageTree> {
