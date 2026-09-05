@@ -12,7 +12,7 @@ index abe529e000e4438e7b8d74e191b489e3578b8d85..c82d48188efd7b21753b380175af8af5
    ],
    helpNotes: [
 diff --git a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
-index 7c9671487a59593ea58ccd8918185a945bb642eb..227a5f9749f8103314f2e362570568c2e205626c 100644
+index 7c9671487a59593ea58ccd8918185a945bb642eb..827f31b8e348d5b0f6ccdd08c01ed5e9c4ded6c8 100644
 --- a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
 +++ b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
 @@ -4,7 +4,7 @@ export const exerciseConstraintSet = {
@@ -24,7 +24,7 @@ index 7c9671487a59593ea58ccd8918185a945bb642eb..227a5f9749f8103314f2e362570568c2
    code: "ts",
    changeKindSlug: "change-mechanical",
    taking: [
-@@ -17,12 +17,12 @@ export const exerciseConstraintSet = {
+@@ -17,15 +17,15 @@ export const exerciseConstraintSet = {
      { said: "--body-file <file>", takes: "a file what it asks for is read from" },
      { said: "--kind <kind>", takes: "what sort of limit or cue it is" },
      { said: "--focus <csv>", takes: "the focuses it reaches, parted by commas, or all of them" },
@@ -38,7 +38,11 @@ index 7c9671487a59593ea58ccd8918185a945bb642eb..227a5f9749f8103314f2e362570568c2
 +    "the first call on a headline makes the page and every later call changes the one already there.",
      "a field the call does not name is left as it was.",
      "what the constraint asks for lands in a file beside the page rather than in the page.",
-     "a constraint stands unless `--inactive` is said.",
+-    "a constraint stands unless `--inactive` is said.",
++    "a constraint is active unless `--inactive` is said.",
+     "a constraint tagged all reaches every focus, so it needs no other tag.",
+   ],
+   invariants: [
 diff --git a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts b/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
 index 1804585e9dc553f23b55fc8adb2d3bb186389963..7579c8a6bab5dc7b9111c21449f2ef542d6e3a3e 100644
 --- a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
