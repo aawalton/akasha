@@ -263,3 +263,11 @@ index 570a2b29fd8c1b096b16ab61ce43bfbd84e13537..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../health-samples-day
 \ No newline at end of file
+diff --git a/health-samples-import/health-samples-import b/health-samples-import/health-samples-import
+deleted file mode 120000
+index 8803e6b155e43ea0f1e1b94f222118f25350fe64..0000000000000000000000000000000000000000
+--- a/health-samples-import/health-samples-import
++++ /dev/null
+@@ -1 +0,0 @@
+-../../health-samples-import
+\ No newline at end of file
