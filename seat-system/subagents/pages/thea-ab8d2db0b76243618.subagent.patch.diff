@@ -44,7 +44,7 @@ index 0000000000000000000000000000000000000000..a42cf98e02e2ae552780287c32b51131
 +  symlinkSync(join(from, at), to)
 +}
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index 65780586f3908ffcf7ea4b1f531dfd5733bca552..23bf8d7a0df6de09eea20c5277923f8190e07532 100644
+index 65780586f3908ffcf7ea4b1f531dfd5733bca552..de07a632b433c952f36ebf0885b5c8c7a04f668a 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -5,7 +5,6 @@ import {
@@ -88,6 +88,20 @@ index 65780586f3908ffcf7ea4b1f531dfd5733bca552..23bf8d7a0df6de09eea20c5277923f81
  
  const scratch = scratchWorld()
  
+@@ -58,13 +51,6 @@ function repo(files: Record<string, string>): string {
+   return root
+ }
+ 
+-function handing(held: Record<string, string>): (path: string) => Uint8Array | null {
+-  return (path: string): Uint8Array | null => {
+-    const body = held[path]
+-    return body === undefined ? null : new TextEncoder().encode(body)
+-  }
+-}
+-
+ check("the test files under a path are counted, and other files are not", () => {
+   const root = repo({
+     "one.test.ts": PASSES,
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
 index 7e429c3af80b55f4f24a769608e70b946d7ca1d5..2736394b876c6ec11bcb471981ee7ffaf00159ee 100644
 --- a/code-system/code-tests/code-tests.module.ts
