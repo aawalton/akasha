@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/transcript-view/transcript-view.module.ts b/editor-extension/transcript-view/transcript-view.module.ts
-index ff6dc501f69cc97a8be301196b9edf6fedb83d29..d38bcc941a6cfee9c700fdb534451bdcf219549d 100644
+index ff6dc501f69cc97a8be301196b9edf6fedb83d29..af0d2c40daa64c0dddf67e981e59e32230ac5584 100644
 --- a/editor-extension/transcript-view/transcript-view.module.ts
 +++ b/editor-extension/transcript-view/transcript-view.module.ts
 @@ -25,7 +25,7 @@ export const transcriptView = {
@@ -9,6 +9,15 @@ index ff6dc501f69cc97a8be301196b9edf6fedb83d29..d38bcc941a6cfee9c700fdb534451bdc
        invariantKind: "departure",
 -      statement: "A poll that folded nothing anywhere leaves the panel as it is.",
 +      statement: "A poll that folded nothing anywhere leaves the panel as that panel is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -49,7 +49,7 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A disclosure is matched again by the id of the call it draws.",
++      statement: "A disclosure is matched again by the id of the call that disclosure draws.",
      },
      {
        invariantKind: "departure",
