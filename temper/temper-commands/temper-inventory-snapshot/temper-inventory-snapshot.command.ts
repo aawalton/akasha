@@ -14,7 +14,7 @@ export const temperInventorySnapshot = {
     { said: "--json", takes: "give the record on one line rather than indented" },
   ],
   helpNotes: [
-    "the record stands whole in a data file beside the snapshot page, so nothing here rejoins pieces.",
+    "the record sits whole in a data file beside the snapshot page, so nothing here rejoins pieces.",
     "the pieces a reading arrived in were rejoined before the snapshot landed.",
     "a snapshot is named or `--latest` is said, never both.",
     "`--latest` reads the newest reading on the account, ordered by when the reading was taken.",
@@ -23,7 +23,7 @@ export const temperInventorySnapshot = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A snapshot's whole record stands in one data file beside its page.",
+      statement: "A snapshot's whole record sits in one data file beside its page.",
     },
     {
       invariantKind: "departure",

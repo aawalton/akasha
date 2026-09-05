@@ -314,7 +314,7 @@ export async function temperInventoryParity(
   const resolved = resolveItemFromInventory(caps, db, read.itemId)
   if (resolved === undefined) {
     return refused(
-      `item ${String(read.itemId)} stands in the stored trace and in no bag scan of ` +
+      `item ${String(read.itemId)} is in the stored trace and in no bag scan of ` +
         `${inventoryPath}, so there is nothing fresh to compare it against`,
       DATA
     )

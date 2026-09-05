@@ -68,7 +68,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
   return {
     report: [
       ...answer.report,
-      `this buy rule stands inactive — say \`akasha temper-inventory-buy-rule-update ${created.id} ${ACTIVE} true\` to start it`,
+      `this buy rule is inactive — say \`akasha temper-inventory-buy-rule-update ${created.id} ${ACTIVE} true\` to start it`,
     ],
     refusals: [],
     code: 0,

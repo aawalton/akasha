@@ -184,7 +184,7 @@ type Held = { readonly traces: readonly MasterConsumableTrace[] } | { readonly w
 
 async function tracesIn(at: string): Promise<Held> {
   const file = Bun.file(at)
-  if (!(await file.exists())) return { why: `${INVENTORY_LUA}: nothing stands at ${at}` }
+  if (!(await file.exists())) return { why: `${INVENTORY_LUA}: nothing is at ${at}` }
   const content = await file.text()
   const rootSchema = savedVariablesRootSchema(
     z

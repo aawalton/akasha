@@ -31,7 +31,7 @@ const HELD = "json"
 
 const ACCOUNT_PAGE = "accountPage"
 
-type Standing = { readonly path: string; readonly id: string }
+type Page = { readonly path: string; readonly id: string }
 
 export type Read =
   | {
@@ -93,7 +93,7 @@ export function readIn(argv: readonly string[]): Read {
   return { named, latest, outPath, json }
 }
 
-function standingNamed(root: string, said: string): Standing | null {
+function pageNamed(root: string, said: string): Page | null {
   const byId = listedById(root, said)
   if (byId !== null) return { path: byId.path, id: byId.id }
   const bySlug = listedAt(root, PAGE_TYPE, said)[0]
@@ -103,7 +103,7 @@ function standingNamed(root: string, said: string): Standing | null {
 // A snugly ordered slug does the sorting: the page type holds that a slug opens
 // with `at-` ahead of the moment the reading was taken, so the widest slug is
 // the newest reading and no page body is read to find it.
-function standingLatest(root: string): Standing | null {
+function pageLatest(root: string): Page | null {
   const slugs = [...slugsOfType(root, PAGE_TYPE)].sort().reverse()
   for (const slug of slugs) {
     const found = listedAt(root, PAGE_TYPE, slug)[0]
@@ -115,8 +115,8 @@ function standingLatest(root: string): Standing | null {
   return null
 }
 
-function dataFileFor(root: string, standing: Standing): string | null {
-  const beside = besideAt(standing.path, DATA_PROPERTY, HELD)
+function dataFileFor(root: string, page: Page): string | null {
+  const beside = besideAt(page.path, DATA_PROPERTY, HELD)
   if (beside === null) return null
   const at = join(root, beside)
   return existsSync(at) ? at : null
@@ -130,13 +130,13 @@ export async function temperInventorySnapshot(
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
   const root = given === undefined ? process.cwd() : resolve(given.root)
 
-  let standing: Standing | null
+  let page: Page | null
   try {
-    standing = read.latest ? standingLatest(root) : standingNamed(root, read.named ?? "")
+    page = read.latest ? pageLatest(root) : pageNamed(root, read.named ?? "")
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
-  if (standing === null) {
+  if (page === null) {
     return refused(
       read.latest
         ? `the account ${USER_ID} carries no ${PAGE_TYPE} page, so there is none to read`
@@ -145,11 +145,11 @@ export async function temperInventorySnapshot(
     )
   }
 
-  const dataFile = dataFileFor(root, standing)
+  const dataFile = dataFileFor(root, page)
   if (dataFile === null) {
     return refused(
-      `snapshot ${standing.id} carries no data file, which is how a reading whose pieces ` +
-        "rejoined to no JSON document stands",
+      `snapshot ${page.id} carries no data file, which is how a reading whose pieces ` +
+        "rejoined to no JSON document remains",
       DATA
     )
   }
@@ -171,7 +171,7 @@ export async function temperInventorySnapshot(
     return refused(`the record was not written to ${at} — ${whyOf(thrown)}`, OPERATIONAL)
   }
   return {
-    report: [`wrote snapshot ${standing.id} into ${at}, read whole from ${dataFile}`],
+    report: [`wrote snapshot ${page.id} into ${at}, read whole from ${dataFile}`],
     refusals: [],
     code: 0,
   }
