@@ -18,8 +18,7 @@ export const monarchCredential = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A cookie carrying no csrftoken is refused, because Monarch matches the header against the cookie and refuses the pair when they disagree.",
+      statement: "A cookie carrying no csrftoken is refused.",
     },
     {
       invariantKind: "departure",
