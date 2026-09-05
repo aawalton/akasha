@@ -247,3 +247,11 @@ index 0330ede66bb5681130341c0a3d922e84bd1a3cdb..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../great-courses
 \ No newline at end of file
+diff --git a/health-samples-access/health-samples-access b/health-samples-access/health-samples-access
+deleted file mode 120000
+index d9724a5416c43ff454cbce93679088afd741a603..0000000000000000000000000000000000000000
+--- a/health-samples-access/health-samples-access
++++ /dev/null
+@@ -1 +0,0 @@
+-../../health-samples-access
+\ No newline at end of file
