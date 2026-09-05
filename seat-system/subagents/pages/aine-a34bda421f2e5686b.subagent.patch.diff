@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index caeef3c40502bb5a864f2c2b06208c2dfde299d1..a101ea1e65230e521ed77da2ccd538c8a928ca3a 100644
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..eb00f255a113b5d73719e01e03cf160109c01915 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
@@ -62,6 +62,15 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..a101ea1e65230e521ed77da2ccd538c8
    const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
    installed(from, "@akasha/held", "akasha/held")
    const named = ["akasha/held/package.json"]
+@@ -259,7 +259,7 @@ check("a package standing inside the tree is answered from the world holding it"
+   }
+ })
+ 
+-check("a package standing inside the tree the world does not hold is answered by nothing", () => {
++check("a package inside the tree the world does not hold is answered by nothing", () => {
+   const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
+   installed(from, "@akasha/held", "akasha/held")
+   const world = worldOf(from, [], handing({}), null)
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
 index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..b48c1d1b1fe246bd4139a4c63556297e2119c52a 100644
 --- a/code-system/code-tests/code-tests.module.ts
