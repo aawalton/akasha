@@ -11,7 +11,7 @@ export const appBuilding = {
     {
       invariantKind: "departure",
       statement:
-        "What a build needs is read from the app's page and the pages the app's page names.",
+        "The values a build needs are read from the app's page and the pages the app's page names.",
     },
     {
       invariantKind: "departure",
