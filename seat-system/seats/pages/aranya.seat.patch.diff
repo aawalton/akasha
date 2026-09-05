@@ -335,3 +335,11 @@ index ad582b3709f7a5bd61494934af1444d438377b68..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../migration-system
 \ No newline at end of file
+diff --git a/mobile-cli/mobile-cli b/mobile-cli/mobile-cli
+deleted file mode 120000
+index f05cf92974a6a2d3856beab672b7fcd6b6c0a695..0000000000000000000000000000000000000000
+--- a/mobile-cli/mobile-cli
++++ /dev/null
+@@ -1 +0,0 @@
+-../../mobile-cli
+\ No newline at end of file
