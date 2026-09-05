@@ -25,7 +25,8 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is identified apart while a filter is there, so the editor redraws it.",
+      statement:
+        "A row is identified apart while a filter is there, so the editor redraws that row.",
     },
     {
       invariantKind: "departure",
