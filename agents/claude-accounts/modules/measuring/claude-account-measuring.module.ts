@@ -24,7 +24,7 @@ export const claudeAccountMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "What an account has spent is read from what sits beside its page.",
+      statement: "An account's spending is read from the values beside its page.",
     },
     {
       invariantKind: "departure",
