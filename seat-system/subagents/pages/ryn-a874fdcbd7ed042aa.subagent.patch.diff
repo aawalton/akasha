@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/package-linking/package-linking.module.ts b/command-system/package-linking/package-linking.module.ts
+index 845988d5d82a84f29cd1c0003b3b61ba91368cad..7a573c4aba6d2b7e6fbeae6760e3c1708b7d0664 100644
+--- a/command-system/package-linking/package-linking.module.ts
++++ b/command-system/package-linking/package-linking.module.ts
+@@ -23,7 +23,7 @@ export const packageLinking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A link already pointing at that folder is left as it is.",
++      statement: "A link already pointing at that folder is left as that link is.",
+     },
+     {
+       invariantKind: "departure",
