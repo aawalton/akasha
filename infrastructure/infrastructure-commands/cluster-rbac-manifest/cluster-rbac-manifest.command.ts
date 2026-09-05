@@ -24,7 +24,8 @@ export const clusterRbacManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A gap in that cover refuses the whole document rather than part of it.",
+      statement:
+        "A gap in that cover refuses the whole document rather than part of that document.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +41,7 @@ export const clusterRbacManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "The document says it is generated and where its rules are declared.",
+      statement: "The document says the document is generated and where its rules are declared.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +49,8 @@ export const clusterRbacManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "That role is admitted because the account applying it already holds that verb.",
+      statement:
+        "That role is admitted because the account applying that role already holds that verb.",
     },
     {
       invariantKind: "absence",
