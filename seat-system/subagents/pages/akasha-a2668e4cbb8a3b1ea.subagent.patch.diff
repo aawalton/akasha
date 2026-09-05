@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index 2c02f979ad26095d847fb65a5fdc26032353283b..0b576f9df223069ebca2d77d1ab6be88ed3747ff 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -555,7 +555,6 @@
+     "collection-system/royal-road": {
+       "name": "@akasha/royal-road",
+       "dependencies": {
+-        "@akasha/markdown-pages": "workspace:*",
+         "@akasha/story-engine-core": "workspace:*",
+       },
+     },
+diff --git a/collection-system/royal-road/package.json b/collection-system/royal-road/package.json
+index fb6eb1262811f539941f94b7e9cb4c60ba546ff3..69714284f1204a58e38d961ab4a8b7c68d4d12db 100644
+--- a/collection-system/royal-road/package.json
++++ b/collection-system/royal-road/package.json
+@@ -6,7 +6,6 @@
+     "./royal-road-pages": "./royal-road-pages/royal-road-pages.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/markdown-pages": "workspace:*",
+     "@akasha/story-engine-core": "workspace:*"
+   }
+ }
