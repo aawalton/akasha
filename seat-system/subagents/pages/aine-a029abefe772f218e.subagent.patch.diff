@@ -1,0 +1,57 @@
+diff --git a/great-courses/catalogue-syncing/catalogue-syncing.module.ts b/great-courses/catalogue-syncing/catalogue-syncing.module.ts
+index b97da6d827fe3796e32b422e32595d03d0765260..5d147a21715eb3df267ecae332f7329e202a2cb3 100644
+--- a/great-courses/catalogue-syncing/catalogue-syncing.module.ts
++++ b/great-courses/catalogue-syncing/catalogue-syncing.module.ts
+@@ -27,7 +27,7 @@ export const catalogueSyncing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The run stands as a row under the source it synced.",
++      statement: "The run is a row under the source it synced.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/rule-population/rule-population-reading/rule-population-reading.module.ts b/rule-population/rule-population-reading/rule-population-reading.module.ts
+index 84ebcff1b277fb5c7febc1c23b53657ed6e32604..e815949654efe558d8fc233585a8e959d123a8d9 100644
+--- a/rule-population/rule-population-reading/rule-population-reading.module.ts
++++ b/rule-population/rule-population-reading/rule-population-reading.module.ts
+@@ -22,7 +22,7 @@ export const rulePopulationReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The population is the checkout as it now stands, with no graph cache read.",
++      statement: "The population is the checkout as it now is, with no graph cache read.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+index 1b0a8c65720ebe49755c5f98cfb5480176d95676..77e1b267d83c565dc2ff3886105e34447a73ff1e 100644
+--- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
++++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+@@ -44,7 +44,7 @@ export const rulePopulationSweeping = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No graph cache is read, so the population is the repository as it now stands.",
++      statement: "No graph cache is read, so the population is the repository as it now is.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/rules-engine/rules-engine-rule-sets/rules-engine-rule-set.page-type.ts b/rules-engine/rules-engine-rule-sets/rules-engine-rule-set.page-type.ts
+index 19962452c421b3951e7ee55e584bdbb76759f1c6..300a003006951353d11c603e124d83dc3c19ad2c 100644
+--- a/rules-engine/rules-engine-rule-sets/rules-engine-rule-set.page-type.ts
++++ b/rules-engine/rules-engine-rule-sets/rules-engine-rule-set.page-type.ts
+@@ -23,11 +23,11 @@ export const rulesEngineRuleSet = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The page type a rule set applies to stands as a property of this page type.",
++      statement: "The page type a rule set applies to is a property of this page type.",
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The paths a rule set's rules stand at stand as a property of this page type.",
++      statement: "The paths a rule set's rules sit at are a property of this page type.",
+     },
+   ],
+ } as const satisfies PageType
