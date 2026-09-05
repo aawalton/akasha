@@ -108,6 +108,37 @@ index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..a15c2b35c1de557fefbae742b7fe7b2d
      filed: () => held.filed(),
      pageOf: (path) => held.pageOf(path),
      codeAt: (path) => held.codeAt(path),
+diff --git a/command-system/change-freshness/change-freshness.module.code.ts b/command-system/change-freshness/change-freshness.module.code.ts
+index beeebef80ed8eb98b751eee84e8ab73d2488a7c2..38d7dceae2a78984d98be2fd3f618d9899268705 100644
+--- a/command-system/change-freshness/change-freshness.module.code.ts
++++ b/command-system/change-freshness/change-freshness.module.code.ts
+@@ -1,10 +1,25 @@
+ import { readFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { changedSince } from "@akasha/indexes/stamp"
++import { told } from "@akasha/git/git-running"
+ import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
+ 
+ const HERE = "."
+ 
++function pathsIn(said: string | null): readonly string[] | null {
++  return said === null ? null : said.split("\0").filter((one) => one !== "")
++}
++
++function changedSince(
++  repo: string,
++  commit: string,
++  head: string,
++  tree: string
++): readonly string[] | null {
++  return pathsIn(
++    told(repo, ["diff", "--name-only", "--no-renames", "-z", commit, head, "--", tree])
++  )
++}
++
+ export function movedOnDisk(root: string, asRead: readonly Reading[]): readonly string[] {
+   const moved: string[] = []
+   for (const one of asRead) {
 diff --git a/commands/index/index.command.code.ts b/commands/index/index.command.code.ts
 index a3c7dcf25c50c44fc276053ed28866f02e1ece3e..c42eacef20278a5c15da10e555ab989abdf2af31 100644
 --- a/commands/index/index.command.code.ts
