@@ -10,7 +10,7 @@ export const debugLoggerLogHandler = {
     {
       invariantKind: "departure",
       statement:
-        "A message repeating the one before it raises a count rather than adding an entry.",
+        "A message repeating the one before that message raises a count rather than adding an entry.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const debugLoggerLogHandler = {
     },
     {
       invariantKind: "departure",
-      statement: "The log is pruned once it runs past the threshold.",
+      statement: "The log is pruned once that log runs past the threshold.",
     },
     {
       invariantKind: "departure",
