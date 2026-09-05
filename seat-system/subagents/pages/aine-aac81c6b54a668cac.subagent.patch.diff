@@ -1,3 +1,16 @@
+diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+index e643f642d7b4af13b864042f78a674a717b76285..c1bcef256ae185d58d3479e9f86c7ab9f544b8f6 100644
+--- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
++++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+@@ -43,7 +43,7 @@ export const monarchAccount = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row standing against it.",
++        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row against it.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/harness/monarch/monarch-accounts/pages/account-0981.monarch-account.ts b/alan/harness/monarch/monarch-accounts/pages/account-0981.monarch-account.ts
 index 4d8b5e63c7505e916bbba36d5a3b8b2a15840642..fb53fafc9045f1862acd2218ed0c6d065133339b 100644
 --- a/alan/harness/monarch/monarch-accounts/pages/account-0981.monarch-account.ts
@@ -401,3 +414,16 @@ index aff6f432c5d0ff44c3c38c144c5430c726439f94..7a79037bf0a4b03194a837540beeb6d1
    monarchId: "148836208373274803",
    accountDisplayName: "Share Savings (...4300)",
    currentBalance: 18043.93,
+diff --git a/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts b/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
+index cf3c62d085c8829343ca8bc4fa85991257e804c6..c8692b0b9b20c2b4230a63921915683cfa188b85 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
+@@ -7,7 +7,7 @@ export const currentBalance = {
+   pageTypeSlug: "number-property",
+   slug: "current-balance",
+   propertySlug: "current-balance",
+-  definition: "what an account stood at when the sync last read it",
++  definition: "the figure an account was at when the sync last read it",
+   max: null,
+   invariants: [
+     {
