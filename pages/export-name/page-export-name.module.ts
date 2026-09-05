@@ -11,7 +11,7 @@ export const pageExportName = {
     {
       invariantKind: "departure",
       statement:
-        "A slug becomes a name by dropping each `-` and raising the character following it.",
+        "A slug becomes a name by dropping each `-` and raising the character following that `-`.",
     },
     {
       invariantKind: "departure",
@@ -23,11 +23,13 @@ export const pageExportName = {
     },
     {
       invariantKind: "departure",
-      statement: "A name opening with a digit is no identifier, so the slug making it is at fault.",
+      statement:
+        "A name opening with a digit is no identifier, so the slug making that name is at fault.",
     },
     {
       invariantKind: "departure",
-      statement: "A name TypeScript keeps for itself is at fault though it is an identifier.",
+      statement:
+        "A name TypeScript keeps for itself is at fault though that name is an identifier.",
     },
     {
       invariantKind: "departure",
