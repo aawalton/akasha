@@ -567,3 +567,11 @@ index 53ff776f7a9a5fff489307b1f3fedf68275f8cd5..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-build-deploy-checks
 \ No newline at end of file
+diff --git a/temper/temper-build-hash/temper-build-hash b/temper/temper-build-hash/temper-build-hash
+deleted file mode 120000
+index d439cfe26bf94e73892a81166feec855929b604b..0000000000000000000000000000000000000000
+--- a/temper/temper-build-hash/temper-build-hash
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-build-hash
+\ No newline at end of file
