@@ -1,0 +1,52 @@
+diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
+index ed9ad9bdab45d8e2d46368c34d55380bfec900d5..d2a57a6a7cccc89fa89d7a099fa9e0e920071b70 100644
+--- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
++++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
+@@ -39,7 +39,7 @@ const READINGS: readonly Row[] = [
+   }),
+ ]
+ 
+-describe("where a mobility metric stands", () => {
++describe("a mobility metric's standing", () => {
+   test("the fixture holds four readings over three standings, so an empty one cannot read clean", () => {
+     expect(READINGS.length).toBe(4)
+     expect(gatheredIn(READINGS).length).toBe(3)
+diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
+index cd544e4bd3516f4a9ca9576921182eef965b9981..ed0a53e4cb014eadb87bc27496ee5905b2127022 100644
+--- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
++++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
+@@ -4,7 +4,7 @@ export const mobilityStanding = {
+   id: "01a0685d-cca7-77f0-a19b-11e24ae9f69e",
+   pageTypeSlug: "module",
+   slug: "mobility-standing",
+-  definition: "where each mobility metric stands now and which way it has moved",
++  definition: "the standing of each mobility metric now and which way it has moved",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts b/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts
+index 53fa239fe354282800b2cfaf5e6c3227b5ff2da5..6e880ac6ae09ea25ccd8f86cecca9c7702dda22e 100644
+--- a/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts
++++ b/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts
+@@ -56,7 +56,7 @@ const SESSIONS: readonly Row[] = [
+   rowOf({ id: "b", slug: "s2", workoutSessionDate: "2026-06-22" }),
+ ]
+ 
+-describe("which movements stand and where", () => {
++describe("which movements there are and each one's standing", () => {
+   test("the fixture holds four sets over two movements and two sessions", () => {
+     expect(LOGS.length).toBe(4)
+     expect(movementSlugsIn(LOGS).length).toBe(2)
+diff --git a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
+index 40ff28608e62d501c5794bdf56834283aec03ec1..f0b9a47e05f1a60aa068dbe45584b27fb0f80bc3 100644
+--- a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
++++ b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
+@@ -4,7 +4,7 @@ export const movementStanding = {
+   id: "01a0685d-cca7-717c-9288-578ad8f3bbb4",
+   pageTypeSlug: "module",
+   slug: "movement-standing",
+-  definition: "which movements the recent sessions held, and where each one stands across its sets",
++  definition: "which movements the recent sessions held, and each one's standing across its sets",
+   code: "ts",
+   test: "ts",
+   invariants: [
