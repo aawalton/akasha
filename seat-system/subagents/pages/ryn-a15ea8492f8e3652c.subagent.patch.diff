@@ -1,0 +1,14 @@
+diff --git a/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.ts b/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.ts
+index 80a4e420ba7fddee4d6bb3a3e5a94f8dd50d3ffd..a902a6ec467b9fe8c8dc24676456e0d6f7bcbc57 100644
+--- a/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.ts
++++ b/temper/temper-commands/temper-addon-global-name-dependents/temper-addon-global-name-dependents.command.ts
+@@ -22,7 +22,8 @@ export const temperAddonGlobalNameDependents = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A dependent is found by reading the sources rather than by running them.",
++      statement:
++        "A dependent is found by reading the sources rather than by running those sources.",
+     },
+     {
+       invariantKind: "departure",
