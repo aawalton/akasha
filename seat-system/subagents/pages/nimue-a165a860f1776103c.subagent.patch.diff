@@ -1,0 +1,171 @@
+diff --git a/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d97dc1657ab61533be7957991a3acee86a8b1837
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++
++export const work: Work<WorkedWakeDay, string> = (page) => {
++  const level = page.faithLevel
++  if (level === 4) return "🔵"
++  if (level === 3) return "🟢"
++  if (level === 2) return "🟡"
++  if (level === 1) return "🔴"
++  return "⚫"
++}
+diff --git a/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.ts b/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d9360da9eb1e74bcf75d75c108f64ef06edf6fd7
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type FaithStoplight = string
++
++export const faithStoplight = {
++  id: "01a0721c-6314-7ada-aa29-58838a715a52",
++  pageTypeSlug: "computed-property",
++  slug: "faith-stoplight",
++  propertySlug: "faith-stoplight",
++  definition: "the rung the day's faith reached, as one colored light",
++  holds: "text",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/alan/tracking/daily/wake-days/properties/faith-stoplight.formula-property.ts b/alan/tracking/daily/wake-days/properties/faith-stoplight.formula-property.ts
+deleted file mode 100644
+index ff40b2fe4102187a8b77506782856c3d5ea5ad24..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/wake-days/properties/faith-stoplight.formula-property.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type FaithStoplight = string
+-
+-export const faithStoplight = {
+-  id: "01a06945-72cd-7009-b2fa-9da06ad12b46",
+-  pageTypeSlug: "formula-property",
+-  slug: "faith-stoplight",
+-  propertySlug: "faith-stoplight",
+-  definition: "the rung the day's faith reached, as one colored light",
+-  holds: "text",
+-  formula:
+-    'case({faith-level} == 4 -> "🔵", {faith-level} == 3 -> "🟢", {faith-level} == 2 -> "🟡", ' +
+-    '{faith-level} == 1 -> "🔴", otherwise -> "⚫")',
+-} as const satisfies FormulaProperty
+diff --git a/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..37c36f7cb17087d1df47dced4850fc49553b740a
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++
++export const work: Work<WorkedWakeDay, string> = (page) => {
++  const level = page.healthLevel
++  if (level === 4) return "🔵"
++  if (level === 3) return "🟢"
++  if (level === 2) return "🟡"
++  if (level === 1) return "🔴"
++  return "⚫"
++}
+diff --git a/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.ts b/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..41fff9564565533c296406851063c51f3d2bcff9
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type HealthStoplight = string
++
++export const healthStoplight = {
++  id: "01a0721c-6315-7fbb-9c8e-b512bd9aceb7",
++  pageTypeSlug: "computed-property",
++  slug: "health-stoplight",
++  propertySlug: "health-stoplight",
++  definition: "the rung the day's health reached, as one colored light",
++  holds: "text",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/alan/tracking/daily/wake-days/properties/health-stoplight.formula-property.ts b/alan/tracking/daily/wake-days/properties/health-stoplight.formula-property.ts
+deleted file mode 100644
+index 893f75f45f3504bc24ee57a4d2bf6c26ecc5d750..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/wake-days/properties/health-stoplight.formula-property.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type HealthStoplight = string
+-
+-export const healthStoplight = {
+-  id: "01a06945-72cd-700b-b644-c33ae8356e7f",
+-  pageTypeSlug: "formula-property",
+-  slug: "health-stoplight",
+-  propertySlug: "health-stoplight",
+-  definition: "the rung the day's health reached, as one colored light",
+-  holds: "text",
+-  formula:
+-    'case({health-level} == 4 -> "🔵", {health-level} == 3 -> "🟢", {health-level} == 2 -> ' +
+-    '"🟡", {health-level} == 1 -> "🔴", otherwise -> "⚫")',
+-} as const satisfies FormulaProperty
+diff --git a/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b5def582ece30aa0c0e07a492530accced504f4d
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++
++export const work: Work<WorkedWakeDay, string> = (page) => {
++  const level = page.loveLevel
++  if (level === 4) return "🔵"
++  if (level === 3) return "🟢"
++  if (level === 2) return "🟡"
++  if (level === 1) return "🔴"
++  return "⚫"
++}
+diff --git a/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.ts b/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e16ead1afbfed5fecb7b0bcbc22c48fa8028bbe8
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type LoveStoplight = string
++
++export const loveStoplight = {
++  id: "01a0721c-6315-7eef-bca5-ab5e1c8de12e",
++  pageTypeSlug: "computed-property",
++  slug: "love-stoplight",
++  propertySlug: "love-stoplight",
++  definition: "the rung the day's love reached, as one colored light",
++  holds: "text",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/alan/tracking/daily/wake-days/properties/love-stoplight.formula-property.ts b/alan/tracking/daily/wake-days/properties/love-stoplight.formula-property.ts
+deleted file mode 100644
+index 4baa4bcdaf11ea5616adfe3a812e69b20c92022a..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/wake-days/properties/love-stoplight.formula-property.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type LoveStoplight = string
+-
+-export const loveStoplight = {
+-  id: "01a06945-72cd-700a-b401-f56a6322dca2",
+-  pageTypeSlug: "formula-property",
+-  slug: "love-stoplight",
+-  propertySlug: "love-stoplight",
+-  definition: "the rung the day's love reached, as one colored light",
+-  holds: "text",
+-  formula:
+-    'case({love-level} == 4 -> "🔵", {love-level} == 3 -> "🟢", {love-level} == 2 -> "🟡", ' +
+-    '{love-level} == 1 -> "🔴", otherwise -> "⚫")',
+-} as const satisfies FormulaProperty
