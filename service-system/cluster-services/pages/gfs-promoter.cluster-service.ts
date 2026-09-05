@@ -10,6 +10,5 @@ export const gfsPromoter = {
   resourceName: "postgres-gfs-promoter",
   image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
   schedule: "17 2 * * *",
-  manifestCode:
-    "infrastructure/backup-retention/gfs-promoter/gfs-promoter.cluster-service.code.attachment.ts",
+  manifestSlug: "gfs-promoter",
 } as const satisfies ClusterService
