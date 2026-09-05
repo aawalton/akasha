@@ -15,7 +15,7 @@ export const gitRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "`git` is spelled here rather than by a caller naming it again.",
+      statement: "`git` is spelled here rather than by a caller naming `git` again.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const gitRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "No command is run here without a repository to run it in.",
+      statement: "No command is run here without a repository to run that command in.",
     },
     {
       invariantKind: "absence",
