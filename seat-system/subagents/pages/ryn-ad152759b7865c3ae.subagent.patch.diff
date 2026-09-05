@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
+index 7b5dbc83f830c43ccb7c9a2ad94c2d94911bc4a4..dbc0fa792839c7490648bd9aae419667ecec28c7 100644
+--- a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
++++ b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
+@@ -18,7 +18,8 @@ export const terminalEntryPoints = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A function expands the checkout once into a local and spells the rest from it.",
++      statement:
++        "A function expands the checkout once into a local and spells the rest from that local.",
+     },
+     {
+       invariantKind: "departure",
