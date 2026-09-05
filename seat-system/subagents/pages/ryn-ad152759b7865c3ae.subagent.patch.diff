@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-inventory-automation/automation-toggles/automation-toggles.module.ts b/temper/temper-inventory-automation/automation-toggles/automation-toggles.module.ts
+index a0baf4be3e72ea0ecb6f9ca5f5e210ea4535fb56..055d7f291dde6d0b7437b139b572a674c3f8502c 100644
+--- a/temper/temper-inventory-automation/automation-toggles/automation-toggles.module.ts
++++ b/temper/temper-inventory-automation/automation-toggles/automation-toggles.module.ts
+@@ -14,7 +14,8 @@ export const automationToggles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The type of a set of toggles follows from that list rather than restating it.",
++      statement:
++        "The type of a set of toggles follows from that list rather than restating that list.",
+     },
+     {
+       invariantKind: "departure",
