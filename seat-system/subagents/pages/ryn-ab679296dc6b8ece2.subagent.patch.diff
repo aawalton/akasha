@@ -1,8 +1,8 @@
 diff --git a/places/locations/location.page-type.ts b/places/locations/location.page-type.ts
-index 5066b0aa2c07351f38a44e4cff769f6103749ea7..d3802310ea0ed1bd2d2754cbcc6308172bea368b 100644
+index 5066b0aa2c07351f38a44e4cff769f6103749ea7..9a5c767c57bf6bd6a3bae65d84a915f16504f245 100644
 --- a/places/locations/location.page-type.ts
 +++ b/places/locations/location.page-type.ts
-@@ -90,11 +90,11 @@ export const location = {
+@@ -90,15 +90,15 @@ export const location = {
      {
        invariantKind: "departure",
        statement:
@@ -16,3 +16,8 @@ index 5066b0aa2c07351f38a44e4cff769f6103749ea7..d3802310ea0ed1bd2d2754cbcc630817
      },
      {
        invariantKind: "departure",
+-      statement: "A place on an itinerary carries the hours it is scheduled between.",
++      statement: "A place on an itinerary carries the hours that place is scheduled between.",
+     },
+   ],
+ } as const satisfies PageType
