@@ -28,11 +28,12 @@ export const monarchAgreement = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here files a record of a disagreement or keeps what it last said.",
+      statement:
+        "Nothing here files a record of a disagreement or keeps what this module last said.",
     },
     {
       invariantKind: "gap",
-      statement: "A disagreement reaches somebody who can act on it.",
+      statement: "A disagreement reaches somebody who can act on that disagreement.",
     },
     {
       invariantKind: "departure",
