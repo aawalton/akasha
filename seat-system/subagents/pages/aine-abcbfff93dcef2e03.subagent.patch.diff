@@ -12,7 +12,7 @@ index 21cbb034f039d544e06d215e54d85f1f02488871..361e7ef5de3b80bb2ecbf004b554ea70
      )
    }
 diff --git a/readout-system/readout-reading/readout-reading.module.test.ts b/readout-system/readout-reading/readout-reading.module.test.ts
-index fe9ab999878aae6bb4d6f60029f29b0de2bbeee5..e7d4ab8a43c800d7803288c3992c41dd2f9ae33c 100644
+index fe9ab999878aae6bb4d6f60029f29b0de2bbeee5..8d4bd01dbb753a8aaac2d2ed425d4dbd1e2af79d 100644
 --- a/readout-system/readout-reading/readout-reading.module.test.ts
 +++ b/readout-system/readout-reading/readout-reading.module.test.ts
 @@ -11,7 +11,7 @@ const scratch = scratchWorld()
@@ -24,8 +24,17 @@ index fe9ab999878aae6bb4d6f60029f29b0de2bbeee5..e7d4ab8a43c800d7803288c3992c41dd
    expect(readingKept(scratch.rootFor("readout-reading-"), PAGE)).toBeNull()
  })
  
+@@ -21,7 +21,7 @@ test("a reading kept is the reading read back", () => {
+   expect(readingKept(root, PAGE)).toEqual({ value: 19, at: TAKEN })
+ })
+ 
+-test("a reading replaces the one before it rather than standing beside it", () => {
++test("a reading replaces the one before it rather than sitting beside it", () => {
+   const root = scratch.rootFor("readout-reading-")
+   keepReading(root, PAGE, 19, new Date(TAKEN))
+   keepReading(root, PAGE, 4, new Date("2026-08-31T12:05:00.000Z"))
 diff --git a/readout-system/readout-reading/readout-reading.module.ts b/readout-system/readout-reading/readout-reading.module.ts
-index 8a4dd629683432c9efce025b9b2dc2d0824cf264..531a53bf342ef657cc26f26ca20b034f55cb0e34 100644
+index 8a4dd629683432c9efce025b9b2dc2d0824cf264..2edf37e66e852fb832599ee0abc83c3dd04fa74d 100644
 --- a/readout-system/readout-reading/readout-reading.module.ts
 +++ b/readout-system/readout-reading/readout-reading.module.ts
 @@ -10,8 +10,7 @@ export const readoutReading = {
@@ -38,8 +47,17 @@ index 8a4dd629683432c9efce025b9b2dc2d0824cf264..531a53bf342ef657cc26f26ca20b034f
      },
      {
        invariantKind: "departure",
+@@ -40,7 +39,7 @@ export const readoutReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A readout with nothing standing beside it has taken no reading.",
++      statement: "A readout with nothing beside it has taken no reading.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/readout-system/readout-relay/readout-relay.module.code.ts b/readout-system/readout-relay/readout-relay.module.code.ts
-index 65517ec06f0e894c1280b10db4cd54b62d03c7fe..f63fe5d16dbe0e2d0509b62aeb29ef97f7871897 100644
+index 65517ec06f0e894c1280b10db4cd54b62d03c7fe..bfccd7e84cfe65b3e77ed617f37ba481afd8ce73 100644
 --- a/readout-system/readout-relay/readout-relay.module.code.ts
 +++ b/readout-system/readout-relay/readout-relay.module.code.ts
 @@ -10,7 +10,7 @@ export const RELAY_PATH = "/api/readout-relay"
@@ -51,6 +69,15 @@ index 65517ec06f0e894c1280b10db4cd54b62d03c7fe..f63fe5d16dbe0e2d0509b62aeb29ef97
    "is the first of the two arguments this takes."
  
  export const NOWHERE_TO_CARRY_TO =
+@@ -123,7 +123,7 @@ if (import.meta.main) {
+   }
+   const kept = readingKept(root, page)
+   if (kept === null) {
+-    process.stderr.write(`${page} stands beside no reading, so there is none to carry\n`)
++    process.stderr.write(`${page} has no reading beside it, so there is none to carry\n`)
+     process.exit(2)
+   }
+   try {
 diff --git a/readout-system/readout-relay/readout-relay.module.test.ts b/readout-system/readout-relay/readout-relay.module.test.ts
 index c056b4d6bac6911125c47ad1e5ebe3222bf13a88..a684fc94c4aa81ece52acae1337263c3366cab81 100644
 --- a/readout-system/readout-relay/readout-relay.module.test.ts
