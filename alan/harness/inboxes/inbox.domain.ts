@@ -55,7 +55,7 @@ export const inbox = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder an email rule is in says whose rule it is.",
+      statement: "The folder an email rule is in says whose rule that rule is.",
     },
   ],
   directives: [
