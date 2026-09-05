@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
+index 795a8888bc8b5f8654f339c180ccbefc51265d18..5c3ba4f285a47527b4725d402975bde6032b1025 100644
+--- a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
++++ b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
+@@ -20,7 +20,7 @@ export const monarchEvalRun = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The Monarch pages are marked before and after, so a run says whether anything moved under it.",
++        "The Monarch pages are marked before and after, so a run says whether anything moved under that run.",
+     },
+     {
+       invariantKind: "departure",
