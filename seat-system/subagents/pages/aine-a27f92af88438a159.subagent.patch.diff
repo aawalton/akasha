@@ -1,0 +1,65 @@
+diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
+index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..3afab5db888c1f9173ac2e190cd7808b64794d29 100644
+--- a/pages/shadow/shadow.module.test.ts
++++ b/pages/shadow/shadow.module.test.ts
+@@ -229,7 +229,7 @@ test("a relation through a property the same change declares is filed, as a land
+   expect(reading.lines(at)).toEqual(readingIn(landedInto(repo, CHANGES)).lines(at))
+ })
+ 
+-test("a page of a page type the same change declares stands in the shadow as it stands in a landing", () => {
++test("a page of a page type the same change declares is in the shadow as it is in a landing", () => {
+   const repo = seeded()
+   const twin = landedInto(repo, CHANGES)
+   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
+diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
+index ada2250113ab8235184088d4185d9cc6bdcb8896..721d54094ecd356f46e6ee73aaba774087d84075 100644
+--- a/pages/shadow/shadow.module.ts
++++ b/pages/shadow/shadow.module.ts
+@@ -78,7 +78,7 @@ export const shadow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller standing that index up elsewhere writes what the change files.",
++      statement: "A caller setting that index up elsewhere writes what the change files.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/uncommitted/page-uncommitted.module.code.ts b/pages/uncommitted/page-uncommitted.module.code.ts
+index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..e4ec629edd6a51a281df81dd62612500a275b67a 100644
+--- a/pages/uncommitted/page-uncommitted.module.code.ts
++++ b/pages/uncommitted/page-uncommitted.module.code.ts
+@@ -93,7 +93,7 @@ function valuesIn(full: string, at: string): Value | null {
+   const held = loadedFrom(readFileSync(full, "utf8"))
+   if (held.failed !== null) {
+     throw new Error(
+-      `'${at}' stands beside a page and could not be loaded, so what it holds is unknown rather than nothing: ${held.failed}`
++      `'${at}' sits beside a page and could not be loaded, so what it holds is unknown rather than nothing: ${held.failed}`
+     )
+   }
+   if (held.value === null) {
+diff --git a/pages/uncommitted/page-uncommitted.module.test.ts b/pages/uncommitted/page-uncommitted.module.test.ts
+index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..83158f9f88a967d72d439042f4d0f6a4decaff5b 100644
+--- a/pages/uncommitted/page-uncommitted.module.test.ts
++++ b/pages/uncommitted/page-uncommitted.module.test.ts
+@@ -98,7 +98,7 @@ test("what is kept beside a page is read back from it", () => {
+   expect(uncommittedIn(root, PAGE)).toEqual({ claudeCodeSessionUuid: "one", beats: 3 })
+ })
+ 
+-test("what is kept stands beside the page under the reserved tail", () => {
++test("what is kept sits beside the page under the reserved tail", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one" })
+   expect(existsSync(join(root, BESIDE))).toBe(true)
+diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
+index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..94e2e6da389fe7a5c5859bf8e6fff280aef84a96 100644
+--- a/pages/uncommitted/page-uncommitted.module.ts
++++ b/pages/uncommitted/page-uncommitted.module.ts
+@@ -64,7 +64,7 @@ export const pageUncommitted = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lock is taken by one create that fails where the lock already stands.",
++      statement: "The lock is taken by one create that fails where the lock is already there.",
+     },
+     {
+       invariantKind: "departure",
