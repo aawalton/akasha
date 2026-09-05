@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/day/us-zone-offset/us-zone-offset.module.ts b/day/us-zone-offset/us-zone-offset.module.ts
+index a3fa571ef5db04a8dbb117b7570a13aad7186cde..de6fa659379dc6b9de0bbddc3088e7d69634a73b 100644
+--- a/day/us-zone-offset/us-zone-offset.module.ts
++++ b/day/us-zone-offset/us-zone-offset.module.ts
+@@ -35,7 +35,7 @@ export const usZoneOffset = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The rule as it is today is applied to every year.",
++      statement: "The rule as the rule is today is applied to every year.",
+     },
+     {
+       invariantKind: "departure",
