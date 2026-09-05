@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/access/file-page-type-config/file-page-type-config.module.ts b/pages/access/file-page-type-config/file-page-type-config.module.ts
+index 3601a3f52fe4c1b4cb122537569c7ca6e179e212..867647fcdccaa78eca852d812bdfb85d32c24348 100644
+--- a/pages/access/file-page-type-config/file-page-type-config.module.ts
++++ b/pages/access/file-page-type-config/file-page-type-config.module.ts
+@@ -11,7 +11,7 @@ export const filePageTypeConfig = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a page type states under a key is asked of the pages by that page type's slug.",
++        "The value a page type states under a key is asked of the pages by that page type's slug.",
+     },
+     {
+       invariantKind: "departure",
