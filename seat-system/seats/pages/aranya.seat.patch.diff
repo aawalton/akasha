@@ -1647,3 +1647,11 @@ index 30b046d6656bf6ae74821edfa906703447192de2..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../version/checkout
 \ No newline at end of file
+diff --git a/version/web-build/web-build-version b/version/web-build/web-build-version
+deleted file mode 120000
+index 6d18202e3ab64de0ae9c55d315a165fab12270d6..0000000000000000000000000000000000000000
+--- a/version/web-build/web-build-version
++++ /dev/null
+@@ -1 +0,0 @@
+-../../version/web-build
+\ No newline at end of file
