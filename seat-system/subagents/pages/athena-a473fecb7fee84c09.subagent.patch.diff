@@ -1,0 +1,13 @@
+diff --git a/seat-system/compose-notices/compose-notices.module.code.ts b/seat-system/compose-notices/compose-notices.module.code.ts
+index 836eae0959420f9c8f3a913b422863282988e844..0ecb6dc8eb26f8a2577d912d873560e2323721a0 100644
+--- a/seat-system/compose-notices/compose-notices.module.code.ts
++++ b/seat-system/compose-notices/compose-notices.module.code.ts
+@@ -2,7 +2,7 @@ import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+ import { fail } from "@akasha/command-system/command-failing"
+ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+ 
+-const NOTICES = "seat-system/notices/pages"
++export const NOTICES = "seat-system/notices/pages"
+ 
+ const TAIL = ".notice.text.md"
+ 
