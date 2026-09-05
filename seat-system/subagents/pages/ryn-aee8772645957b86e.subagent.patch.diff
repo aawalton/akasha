@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+index ef0bf19f67e88337133c84d8d5e2b65b87ef9e38..0d1bc23475dc3cc3e2929562ce7813bd541a5bcf 100644
+--- a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
++++ b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+@@ -43,7 +43,7 @@ export const calendarEvent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An event sits beside the source publishing it rather than in a row.",
++      statement: "An event sits beside the source publishing that event rather than in a row.",
+     },
+   ],
+ } as const satisfies PageType
