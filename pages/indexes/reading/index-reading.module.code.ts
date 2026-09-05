@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { addressedIn, type PageAddress } from "@akasha/pages/page-address"
+import { addressIn, addressedIn, type PageAddress } from "@akasha/pages/page-address"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
@@ -205,7 +205,31 @@ function carriesNo(slug: string): string {
   return `no page property carries the slug \`${slug}\``
 }
 
+function among(slug: string, named: readonly string[]): string {
+  return (
+    `\`${slug}\` narrows to ${named.length} page properties and must name its page type — ` +
+    [...named].sort().join(", ")
+  )
+}
+
+function searchedIn(reading: Reading, slug: string): Schemad {
+  const found: Schema[] = []
+  const qualified: string[] = []
+  for (const shape of reading.listing(SCHEMA_UNDER)) {
+    if (!shape.directory) continue
+    const held = filedAt(reading, shape.name, slug)
+    if (held === null) continue
+    found.push(held)
+    qualified.push(`${shape.name}/${slug}`)
+  }
+  const one = found[0]
+  if (found.length === 1 && one !== undefined) return { schema: one }
+  return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
+}
+
 function shapedIn(reading: Reading, named: string): Schemad {
+  const bare = addressIn(named)
+  if (bare.kind === "bare") return searchedIn(reading, bare.slug)
   const address = addressedIn(named)
   if ("refused" in address) return { refused: address.refused }
   if ("id" in address) {

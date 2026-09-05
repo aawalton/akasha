@@ -243,7 +243,22 @@ test("a page type carrying no property of the slug is refused as well", () => {
   })
 })
 
-test("a name stating no page type is refused rather than searched for across types", () => {
+test("a bare slug one page type carries is searched for and answered with that shape", () => {
+  const root = rootAt()
+  const held = {
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+    unique: null,
+    slug: "foo",
+    propertySlug: "foo",
+    fileName: null,
+  }
+  schemaFiled(root, "text-property", "foo", [held])
+
+  expect(schemaOf(root, "foo")).toEqual({ schema: held })
+})
+
+test("a bare slug two page types carry is refused and must name its page type", () => {
   const root = rootAt()
   schemaFiled(root, "text-property", "foo", [
     { pageTypeSlug: "text-property", targetPageTypeSlug: null },
@@ -253,7 +268,9 @@ test("a name stating no page type is refused rather than searched for across typ
   ])
 
   expect(schemaOf(root, "foo")).toEqual({
-    refused: "`foo` names no page type, so which page it reaches is read off whoever asked",
+    refused:
+      "`foo` narrows to 2 page properties and must name its page type — " +
+      "number-property/foo, text-property/foo",
   })
 })
 
