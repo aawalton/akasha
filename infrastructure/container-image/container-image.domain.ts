@@ -8,6 +8,7 @@ export const containerImage = {
   partSlugs: [
     "workspace-package/dockerfiles",
     "container-recipe/postgres-cnpg-image",
+    "manifest/buildkit",
     "manifest/buildkit-prune",
   ],
   invariants: [
