@@ -1,8 +1,8 @@
 diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
-index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..bd4cc6e74265dd32fefe46c732117b492b5930ca 100644
+index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..e72befbfcb3b367896dfd147786ae90139537ecd 100644
 --- a/checks/modules/check-scratch/check-scratch.module.ts
 +++ b/checks/modules/check-scratch/check-scratch.module.ts
-@@ -5,7 +5,7 @@ export const checkScratch = {
+@@ -5,13 +5,13 @@ export const checkScratch = {
    pageTypeSlug: "module",
    slug: "check-scratch",
    definition:
@@ -11,6 +11,13 @@ index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..bd4cc6e74265dd32fefe46c732117b49
    code: "ts",
    invariants: [
      {
+       invariantKind: "departure",
+       statement:
+-        "Where an index stands is reached through the composer that says where the index is.",
++        "Where an index sits is reached through the composer that says where the index is.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/checks/modules/checking/checking.module.code.ts b/checks/modules/checking/checking.module.code.ts
 index 4316f96e9352b57e9629d5666e3149430cc8c39b..e7ee6359949590f20bbdf10a70ee8fe34871149b 100644
 --- a/checks/modules/checking/checking.module.code.ts
