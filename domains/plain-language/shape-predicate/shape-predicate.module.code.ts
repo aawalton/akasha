@@ -1,5 +1,10 @@
 import type { DepSentence, DepToken } from "../dependency-graph/dependency-graph.module.code.ts"
-import { byId, childrenByRel, lower } from "../dependency-graph/dependency-graph.module.code.ts"
+import {
+  byId,
+  childrenByRel,
+  childrenOf,
+  lower,
+} from "../dependency-graph/dependency-graph.module.code.ts"
 
 export type Match = {
   readonly at: readonly number[]
@@ -12,6 +17,8 @@ const SLOTS = ["nmod", "root"]
 const RELATIVE = ["which", "who", "whom", "whose"]
 const DEMONSTRATIVE = ["this", "that", "these", "those"]
 const SUMMING = ["both", "each", "either", "neither"]
+const DEGREE = ["all", "least", "most"]
+const MARKERS = ["advmod", "case", "cc", "det", "fixed", "punct"]
 const OPENERS = ["SCONJ", "CCONJ"]
 const QUANTIFIER = [
   "all",
@@ -68,6 +75,12 @@ export function isSummingCount(token: DepToken): boolean {
 
 export function isQuantifier(token: DepToken): boolean {
   return QUANTIFIER.includes(lower(token))
+}
+
+export function marksADegree(sentence: DepSentence, token: DepToken): boolean {
+  if (!DEGREE.includes(lower(token))) return false
+  if (!childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "at")) return false
+  return childrenOf(sentence, token.id).every((one) => MARKERS.includes(one.deprel))
 }
 
 export function partsOf(sentence: DepSentence, token: DepToken): DepToken[] {

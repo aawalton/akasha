@@ -67,3 +67,35 @@ test("a counted noun phrase holds no match", () => {
   ])
   expect(loneQuantifier(said)).toEqual([])
 })
+
+test("at all marks a degree and is passed over", () => {
+  const said = sentenceOf([
+    ["Nothing", "PRON", 2, "nsubj"],
+    ["waits", "VERB", 0, "root"],
+    ["at", "ADP", 4, "case"],
+    ["all", "DET", 2, "obl"],
+  ])
+  expect(loneQuantifier(said)).toEqual([])
+})
+
+test("at most marks a degree and is passed over", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["batch", "NOUN", 3, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["ten", "NUM", 5, "nummod"],
+    ["files", "NOUN", 3, "obj"],
+    ["at", "ADP", 7, "case"],
+    ["most", "ADJ", 3, "obl"],
+  ])
+  expect(loneQuantifier(said)).toEqual([])
+})
+
+test("most naming what it counts is found", () => {
+  const said = sentenceOf([
+    ["Most", "ADJ", 3, "nsubj"],
+    ["are", "AUX", 3, "cop"],
+    ["refused", "ADJ", 0, "root"],
+  ])
+  expect(loneQuantifier(said)).toEqual([{ at: [1] }])
+})

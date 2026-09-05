@@ -1,7 +1,12 @@
 import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
 import { childrenByRel, lower } from "@akasha/plain-language/dependency-graph"
 import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
-import { fillsNounSlot, isQuantifier, partsOf } from "@akasha/plain-language/shape-predicate"
+import {
+  fillsNounSlot,
+  isQuantifier,
+  marksADegree,
+  partsOf,
+} from "@akasha/plain-language/shape-predicate"
 
 function marksBy(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "by")
@@ -23,6 +28,7 @@ export const loneQuantifier: ShapePredicate = (sentence) => {
     if (!isQuantifier(token)) continue
     if (!fillsNounSlot(token)) continue
     if (partsOf(sentence, token).length > 0) continue
+    if (marksADegree(sentence, token)) continue
     if (oneByOne(sentence, token)) continue
     found.push({ at: [token.id] })
   }
