@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index 010b31502e93a1b281b3561e59e7184289842a1a..379d87ebbde9e3ee1045319406a326d1bc89160f 100644
+index 010b31502e93a1b281b3561e59e7184289842a1a..285a652d3e69546778394201a214a490363d94f9 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -30,6 +30,7 @@ const INDEFINITE = [
@@ -10,3 +10,23 @@ index 010b31502e93a1b281b3561e59e7184289842a1a..379d87ebbde9e3ee1045319406a326d1
  const REFLEXIVE = [
    "herself",
    "himself",
+@@ -191,6 +192,19 @@ export function isFreeChoice(token: DepToken): boolean {
+   return FREE_CHOICE.includes(lower(token))
+ }
+ 
++export function isFreeRelative(token: DepToken): boolean {
++  return FREE_RELATIVE.includes(lower(token))
++}
++
++export function fillsNounSlotAsFreeRelative(sentence: DepSentence, token: DepToken): boolean {
++  if (!isFreeRelative(token)) return false
++  if (token.deprel === "ccomp" || token.deprel.startsWith("ccomp:")) return true
++  if (token.deprel === "acl:relcl") return true
++  if (token.deprel !== "det" && !token.deprel.startsWith("det:")) return false
++  const next = byId(sentence, token.id + 1)
++  return next === undefined || next.id !== token.head
++}
++
+ export function marksADegree(sentence: DepSentence, token: DepToken): boolean {
+   if (!DEGREE.includes(lower(token))) return false
+   if (!childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "at")) return false
