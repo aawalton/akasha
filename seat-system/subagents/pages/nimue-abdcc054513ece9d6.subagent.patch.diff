@@ -1,0 +1,11 @@
+diff --git a/pages/queries/pages/sleep-hours-on-day.page-query.ts b/pages/queries/pages/sleep-hours-on-day.page-query.ts
+index a666f0f0fc83e5719cced75965ccc4e14bc1eadd..a3e1a3b86432d07fa86c927ba001c6ff6f01fda1 100644
+--- a/pages/queries/pages/sleep-hours-on-day.page-query.ts
++++ b/pages/queries/pages/sleep-hours-on-day.page-query.ts
+@@ -8,5 +8,5 @@ export const sleepHoursOnDay = {
+   parameters: [{ name: "date", type: "calendar-date" }],
+   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
+   reduction: "sum",
+-  targetKey: "sleep-hours",
++  targetKey: "sleepHours",
+ } as const satisfies PageQuery
