@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
+index 2dc67a6a004ca395d8f00b2786b0369e19efe74d..fea317ea4d89012470556d9c01a001e7161e5a15 100644
+--- a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
++++ b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
+@@ -68,7 +68,8 @@ export const provisionedFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A machine that the file is not for is said by what the file is only on.",
++      statement:
++        "A machine that the file is not for is said by the kind of machine the file is only on.",
+     },
+     {
+       invariantKind: "departure",
