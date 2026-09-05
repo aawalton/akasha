@@ -9,8 +9,7 @@ export const monarchApply = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A rule that did not match the transaction is refused, because applying it would record a decision as the rule's that the rule did not make.",
+      statement: "A rule that did not match the transaction is refused.",
     },
     {
       invariantKind: "departure",
