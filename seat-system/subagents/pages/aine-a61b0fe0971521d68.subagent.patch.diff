@@ -12,7 +12,7 @@ index f9837ae899445abfeff99d1d52d87a94e94bc26e..41166242696de3b393cbb8e87392c870
        continue
      }
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
-index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..32f880698c576f5f2dc2eb165d1d4deb5d4d81a1 100644
+index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..c2db3257f2bfc76576b3c6bd730ea5a1f07dcfea 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 +++ b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 @@ -121,7 +121,7 @@ test("the package built is the one a container's working directory names", () =>
@@ -42,8 +42,17 @@ index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..32f880698c576f5f2dc2eb165d1d4deb
    expect(syncScript(SHA)).toContain("git fetch origin main")
  })
  
+@@ -175,7 +175,7 @@ test("a build runs its install from the checkout rather than from the package",
+ 
+ const HANDED: BuildEnv = [{ name: "ONE", value: "first" }]
+ 
+-test("the values a build needs stand before the build it runs", () => {
++test("the values a build needs come before the build it runs", () => {
+   const target = buildTargetOf(plan(pod(SERVING)))
+   expect(buildScript(target as NonNullable<typeof target>, SHA, HANDED)).toStartWith(
+     "env ONE='first' sh -c "
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
-index 391eb6261fe7093fb477d515b7305ea89e071041..b978021374caf50d78df43a4d501579fd5f61174 100644
+index 391eb6261fe7093fb477d515b7305ea89e071041..e09e4e34c7f75069faccbee2c7c66731c933815c 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
 +++ b/service-system/cluster-services/web-app-building/web-app-building.module.ts
 @@ -18,7 +18,7 @@ export const webAppBuilding = {
@@ -73,6 +82,15 @@ index 391eb6261fe7093fb477d515b7305ea89e071041..b978021374caf50d78df43a4d501579f
      },
      {
        invariantKind: "departure",
+@@ -118,7 +118,7 @@ export const webAppBuilding = {
+     {
+       invariantKind: "stopgap",
+       statement:
+-        "Every web app's build stands in a host path on the one node that serves that web app.",
++        "Every web app's build sits in a host path on the one node that serves that web app.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
 index c3fdc7dec5aeea7a0179bc3ca5d008afec73d1ba..7f8ca7a240c8059947f0a6b460e01aa5b0446c6d 100644
 --- a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
