@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+index 7afc539b7e98eec2834b153fd248aa5f47e26720..a0487d251049608dffef8bb228d61d5412d32764 100644
+--- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
++++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+@@ -16,7 +16,7 @@ export const claudeAccountUpkeepStall = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The floor a token's remaining life is judged against is computed from the upkeep's own margin and period.",
++        "A token's remaining life is judged against a floor computed from the upkeep's own margin and period.",
+     },
+     {
+       invariantKind: "departure",
