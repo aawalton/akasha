@@ -29,7 +29,8 @@ export const monarchCategorize = {
     },
     {
       invariantKind: "departure",
-      statement: "What decided is recorded beside the category rather than left to be inferred.",
+      statement:
+        "The rule that decided is recorded beside the category rather than left to be inferred.",
     },
     {
       invariantKind: "departure",
