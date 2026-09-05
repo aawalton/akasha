@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/agreement/monarch-agreement.module.ts b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+index b7e6a65a9300bcecf92efe71c63495ac4635d779..ebd12a11365454990c2e2fa6c48d1f4c28a64edc 100644
+--- a/alan/harness/monarch/agreement/monarch-agreement.module.ts
++++ b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+@@ -28,7 +28,8 @@ export const monarchAgreement = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here files a record of a disagreement or keeps what it last said.",
++      statement:
++        "Nothing here files a record of a disagreement or keeps what this module last said.",
+     },
+     {
+       invariantKind: "gap",
