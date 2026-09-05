@@ -8,6 +8,7 @@ export const seaweedfs = {
   manifest: "json",
   partSlugs: [
     "manifest/seaweedfs-backup-assets",
+    "manifest/seaweedfs-backup-bulk",
     "manifest/seaweedfs-etcd-snapshot",
     "manifest/seaweedfs-filer",
     "manifest/seaweedfs-maintenance",
