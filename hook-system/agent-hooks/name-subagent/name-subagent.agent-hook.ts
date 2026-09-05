@@ -34,7 +34,7 @@ export const nameSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "This hook changes what a call runs rather than judging it.",
+      statement: "This hook changes what a call runs rather than judging that call.",
     },
     {
       invariantKind: "departure",
