@@ -1,0 +1,13 @@
+diff --git a/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts b/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
+index d2265159b1b4109aba663ac6f3118f84f1566eee..e9664d1900dde018dc43e2502a53820ebac6efaf 100644
+--- a/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
++++ b/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
+@@ -49,7 +49,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
+     return {
+       report,
+       refusals: left.map(
+-        (one) => `${one}, and applying it would write the stand-in itself into the cluster`
++        (one) => `${one}, and applying it would write the placeholder itself into the cluster`
+       ),
+       code: DATA,
+     }
