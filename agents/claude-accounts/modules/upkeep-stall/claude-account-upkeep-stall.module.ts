@@ -74,7 +74,7 @@ export const claudeAccountUpkeepStall = {
     {
       invariantKind: "constraint",
       statement:
-        "The two keys read here are spelled as the claude-account page type declares them.",
+        "The two keys read here are spelled as the claude-account page type declares those keys.",
     },
     {
       invariantKind: "absence",
@@ -95,7 +95,7 @@ export const claudeAccountUpkeepStall = {
     {
       invariantKind: "gap",
       statement:
-        "A page with nothing beside it has never been reached rather than reading as unread.",
+        "A page with nothing beside that page has never been reached rather than reading as unread.",
     },
   ],
 } as const satisfies Module
