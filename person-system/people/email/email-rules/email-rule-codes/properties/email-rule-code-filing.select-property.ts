@@ -10,7 +10,8 @@ export const emailRuleCodeFiling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Archiving and skipping exclude each other, so a rule states one of them.",
+      statement:
+        "Archiving and skipping exclude each other, so a rule states one of archiving and skipping.",
     },
     {
       invariantKind: "departure",
