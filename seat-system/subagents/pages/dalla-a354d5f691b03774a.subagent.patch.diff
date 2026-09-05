@@ -179,6 +179,79 @@ index 20ae9471210086cabf221fae96d8d85a1e802792..aa2795e6e0532c6252b478f595e699cc
      if (!held.has(path)) return { why: `${NOT_HELD} ${path}` }
      const next: Held = new Map(held)
      next.delete(path)
+diff --git a/command-system/drafting/drafting.module.test.ts b/command-system/drafting/drafting.module.test.ts
+index 716b1ce0d050bcf1196dbb3564c5bdbe93b6090c..da9eaa61155f7627897c3d2ada1c0efb81e0f92a 100644
+--- a/command-system/drafting/drafting.module.test.ts
++++ b/command-system/drafting/drafting.module.test.ts
+@@ -9,7 +9,15 @@ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
+ import { blobsIn, bodyOf } from "../patching/patching.module.code.ts"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
+ import { writing } from "../scratching/scratching.module.test-fixtures.ts"
+-import { type Draft, drafted, resolved, tookIn, wouldHold } from "./drafting.module.code.ts"
++import {
++  type Draft,
++  drafted,
++  type Running,
++  resolved,
++  runningIn,
++  tookIn,
++  wouldHold,
++} from "./drafting.module.code.ts"
+ 
+ const PAGE = "akasha/seat-system/seat/seats/tester.seat.ts"
+ const THEIRS = "akasha/seat-system/subagents/pages/tester-a1.subagent.ts"
+@@ -24,6 +32,12 @@ const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
+ const THEN_NOT_TEXT = new Uint8Array([0xc0, 0xaf, 0x07])
+ const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
+ 
++const NOTHING_RUNS: Running = { checks: false, warrants: false }
++
++const AUTHORED: Running = { checks: true, warrants: true }
++
++const CHECKED: Running = { checks: true, warrants: false }
++
+ const scratch = scratchWorld()
+ 
+ afterAll(() => {
+@@ -339,3 +353,38 @@ test("a path that is no page keeps no patch", () => {
+   const said = drafted(root, "akasha/not-a-page.txt", [draft(ONE, TEN, "x\n")])
+   expect(said).toEqual({ why: "a path that is no page keeps no patch" })
+ })
++
++test("a patch a change running nothing opened runs nothing", () => {
++  const root = repoAt()
++  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], NOTHING_RUNS)
++  expect(runningIn(patchIn(root, PAGE))).toEqual(NOTHING_RUNS)
++})
++
++test("a change running the checks leaves the whole patch running them", () => {
++  const root = repoAt()
++  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], NOTHING_RUNS)
++  drafted(root, PAGE, [draft(TWO, null, "fresh\n")], AUTHORED)
++  expect(runningIn(patchIn(root, PAGE))).toEqual(AUTHORED)
++})
++
++test("a patch already running the checks is left running them by a change running none", () => {
++  const root = repoAt()
++  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], AUTHORED)
++  drafted(root, PAGE, [draft(TWO, null, "fresh\n")], NOTHING_RUNS)
++  expect(runningIn(patchIn(root, PAGE))).toEqual(AUTHORED)
++})
++
++test("what a patch runs is folded one field at a time", () => {
++  const root = repoAt()
++  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], CHECKED)
++  drafted(root, PAGE, [draft(TWO, null, "fresh\n")], NOTHING_RUNS)
++  expect(runningIn(patchIn(root, PAGE))).toEqual(CHECKED)
++})
++
++test("a patch carrying the line a mechanical patch once carried runs nothing", () => {
++  expect(runningIn(`Akasha-mechanical: true\ndiff --git a/${ONE} b/${ONE}\n`)).toEqual(NOTHING_RUNS)
++})
++
++test("a patch carrying no line before the first diff header runs both", () => {
++  expect(runningIn(`diff --git a/${ONE} b/${ONE}\n`)).toEqual(AUTHORED)
++})
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 510a10f9e117f0c79b3b6fd62547785423d89fc3..389c880f306cd2e81babadf5d9ec5046c7801707 100644
 --- a/command-system/landing/landing.module.code.ts
