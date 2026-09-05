@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts b/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts
+index c22ed0d6bb7eb1496a6477f69a2f6374efa8c3f2..d60e5ddadc343d1763754dc52ab07d68f2051784 100644
+--- a/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts
++++ b/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts
+@@ -12,7 +12,7 @@ export const spannedFromDayBoundary = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "This property says how the day was spanned rather than that a figure on it is wrong.",
++        "This property says how the day was spanned rather than that a figure on that day is wrong.",
+     },
+     {
+       invariantKind: "departure",
