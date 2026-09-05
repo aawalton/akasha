@@ -120,6 +120,12 @@ check("a run that printed no summary is read as a crash, whatever it exited", ()
   expect(verdictOf(1, "bun: command not found", 3)).toBe("crash")
 })
 
+check("a name matching no test is read as no tests rather than as a crash", () => {
+  const said = 'error: regex "^held$" matched 0 tests. Searched 2 files'
+  expect(summaryIn(said)).toEqual({ files: 0, failed: 0, passed: 0 })
+  expect(verdictOf(1, said, 0)).toBe("pass")
+})
+
 check("a run reaching fewer files than are under it is short, not a pass", () => {
   const output = " 1 pass\n 0 fail\nRan 1 tests across 1 files."
   expect(verdictOf(0, output, 4)).toBe("short")
