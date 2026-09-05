@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/transcript-model/transcript-model.module.ts b/editor-extension/transcript-model/transcript-model.module.ts
+index 3c1e8666f59fafce2082cab862c3128eb9871555..78695a68c3c2829f541c82cfa0ed525d178b147a 100644
+--- a/editor-extension/transcript-model/transcript-model.module.ts
++++ b/editor-extension/transcript-model/transcript-model.module.ts
+@@ -21,7 +21,7 @@ export const transcriptModel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call emitted after its result reads that result off what the fold holds.",
++      statement: "A call emitted after its result reads that result off the state the fold holds.",
+     },
+     {
+       invariantKind: "departure",
