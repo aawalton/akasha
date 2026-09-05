@@ -1,0 +1,13 @@
+diff --git a/commands/remove/workspacing/remove-workspacing.module.ts b/commands/remove/workspacing/remove-workspacing.module.ts
+index 02d33618fe6ecb43060049bbc0924ddc977da576..8cfb40b70676a5b2aba166bed258caf79146b85e 100644
+--- a/commands/remove/workspacing/remove-workspacing.module.ts
++++ b/commands/remove/workspacing/remove-workspacing.module.ts
+@@ -50,7 +50,7 @@ export const removeWorkspacing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A manifest that will not parse is left as it is.",
++      statement: "A manifest that will not parse is left as that manifest is.",
+     },
+     {
+       invariantKind: "absence",
