@@ -27,6 +27,18 @@ index cfd86772e7c87bc0e691c367f7f6b37231cf073d..131bafeb3d2c06dd0944c62b322e522b
    if (beside === null) {
      return refusing(
        `\`${named}\` is a command page, and no code file can sit beside a name like it`
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
+index 26518bea2e63ceae883695e6cd14ddd3ab5abb1b..251e088492a19479c3c831a6323e50eced483262 100644
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
++++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
+@@ -1,6 +1,6 @@
+ import * as path from "node:path"
+ import type { ChampionTree, DomainNode } from "../champions-tree/champions-tree.module.code.ts"
+-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
++import { runCommand } from "../harness-call/harness-call.module.code.ts"
+ 
+ const COMMAND = "domain-tree"
+ 
 diff --git a/editor-extension/harness-call/harness-call.module.code.ts b/editor-extension/harness-call/harness-call.module.code.ts
 index 50c93f22b9017f374686df2d635dba1456a8db31..5bf55268807e0f53f7d8d443fe5338ae516fdd8e 100644
 --- a/editor-extension/harness-call/harness-call.module.code.ts
@@ -95,3 +107,88 @@ index 50c93f22b9017f374686df2d635dba1456a8db31..5bf55268807e0f53f7d8d443fe5338ae
  }
  
  export function unreachableMessage(error: unknown): string {
+diff --git a/editor-extension/harness-json/harness-json.module.code.ts b/editor-extension/harness-json/harness-json.module.code.ts
+index 12512f73d42aa1749b4a48ee4c1f359d75ff3c90..f94cbac7a67a224d194eb843a31439d24c9b90e0 100644
+--- a/editor-extension/harness-json/harness-json.module.code.ts
++++ b/editor-extension/harness-json/harness-json.module.code.ts
+@@ -1,4 +1,4 @@
+-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
++import { runCommand } from "../harness-call/harness-call.module.code.ts"
+ 
+ const COMMAND_TIMEOUT_MS = 30_000
+ 
+diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
+index 65f03363f85be0fde57d1499605a55be001f73a7..2f700800a57b48bf8d70252149f18db0663c5852 100644
+--- a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
++++ b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
+@@ -1,6 +1,6 @@
+ import * as path from "node:path"
+ import { z } from "zod"
+-import { akashaRoot, commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
++import { akashaRoot, runCommand } from "../harness-call/harness-call.module.code.ts"
+ import {
+   assemblePageTree,
+   type PageAnswers,
+diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
+index 299893f718438e045f3135dd9bfe1d67c74125a6..6805d06d8fa9ebb917d0f159266a0de78497d480 100644
+--- a/editor-extension/seat-acts/seat-acts.module.code.ts
++++ b/editor-extension/seat-acts/seat-acts.module.code.ts
+@@ -1,7 +1,7 @@
+ import * as vscode from "vscode"
+ import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
+ import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
+-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
++import { runCommand } from "../harness-call/harness-call.module.code.ts"
+ import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
+ import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
+ import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
+diff --git a/editor-extension/seat-turn-colors/seat-turn-colors.module.code.ts b/editor-extension/seat-turn-colors/seat-turn-colors.module.code.ts
+index 6abec96f43e2c368ce1c623b858790888bad3ea1..57242738d80b54244484ae57cf84f1a4dfb4c7fe 100644
+--- a/editor-extension/seat-turn-colors/seat-turn-colors.module.code.ts
++++ b/editor-extension/seat-turn-colors/seat-turn-colors.module.code.ts
+@@ -1,10 +1,5 @@
+ import * as path from "node:path"
+-import {
+-  akashaRoot,
+-  commandPath,
+-  repositoryPath,
+-  runCommand,
+-} from "../harness-call/harness-call.module.code.ts"
++import { akashaRoot, repositoryPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+ import { colorNamed } from "../palette/palette.module.code.ts"
+ 
+ const CALL_TIMEOUT_MS = 30_000
+diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
+index a09a39c5b1cc30e85018e9713463346f0fa87228..ddbac0a2d6685c6eb966cb65cf3b1a2e15440139 100644
+--- a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
++++ b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
+@@ -1,4 +1,4 @@
+-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
++import { runCommand } from "../harness-call/harness-call.module.code.ts"
+ 
+ const CALL_TIMEOUT_MS = 30_000
+ 
+diff --git a/editor-extension/transcript-sources/transcript-sources.module.code.ts b/editor-extension/transcript-sources/transcript-sources.module.code.ts
+index 43e9f24d9f728e1b9dadf4c007f67445fea1a4b2..5fe45252073ef28bb82166c9b383d90e191322cd 100644
+--- a/editor-extension/transcript-sources/transcript-sources.module.code.ts
++++ b/editor-extension/transcript-sources/transcript-sources.module.code.ts
+@@ -1,7 +1,7 @@
+ import { readdir, readFile, stat } from "node:fs/promises"
+ import * as path from "node:path"
+ import { z } from "zod"
+-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
++import { runCommand } from "../harness-call/harness-call.module.code.ts"
+ 
+ export interface SeatTranscript {
+   readonly agentId: string
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+index c430caf4281fcfba02489cb31bc48cb20b1c88a2..34ae6a41a5ffc47bf413ec1d29f9bef154cd6281 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+@@ -1,5 +1,5 @@
+ import * as path from "node:path"
+-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
++import { runCommand } from "../harness-call/harness-call.module.code.ts"
+ import { rollUp } from "../work-tree-colors/work-tree-colors.module.code.ts"
+ import type {
+   WorkColors,
