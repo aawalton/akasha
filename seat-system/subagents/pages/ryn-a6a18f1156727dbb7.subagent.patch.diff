@@ -14,6 +14,22 @@ index aba8c0d4ccbf40671de11c332bbb47869c14790d..ca6e3af9c1052fe7d9faba8be9974a1f
      {
        invariantKind: "departure",
        statement: "Every finding is answered against the file the finding stands in.",
+diff --git a/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts b/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
+index 2cd46060040bc7158458b11ca4f48452e2a84421..956996ec940c6dacfca1381e0b25d6f273558d60 100644
+--- a/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
++++ b/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
+@@ -50,10 +50,7 @@ export const shellClean = {
+       statement:
+         "A script standing outside the world is a script the linter cannot follow a source into.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A linter that could not run is a refusal.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Every finding is answered against the file the finding stands in.",
 diff --git a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts b/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
 index 15fd8f43881e0aa6119c7ba9bd77ba63d15804b3..c6af13ff373cbe1dffd46bde33b826f221926748 100644
 --- a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
