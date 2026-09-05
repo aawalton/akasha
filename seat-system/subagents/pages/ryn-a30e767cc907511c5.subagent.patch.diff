@@ -1,5 +1,5 @@
 diff --git a/editor-extension/agent-forest-reading/agent-forest-reading.module.ts b/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
-index e20348d3727e038536f7fb443edb118a11a0271e..ba0867faa4c197929cbe06134f72078ddd005529 100644
+index e20348d3727e038536f7fb443edb118a11a0271e..fc9ca4e1ac0cb452cc818dffc0ecf545202ca11f 100644
 --- a/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
 +++ b/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
 @@ -29,7 +29,7 @@ export const agentForestReading = {
@@ -11,3 +11,12 @@ index e20348d3727e038536f7fb443edb118a11a0271e..ba0867faa4c197929cbe06134f72078d
      },
      {
        invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const agentForestReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Dropping the answers drops the seat transcripts with them.",
++      statement: "Dropping the answers drops the seat transcripts with those answers.",
+     },
+     {
+       invariantKind: "absence",
