@@ -6,6 +6,7 @@ export const harnessCall = {
   slug: "harness-call",
   definition: "the harness command run under bun and the whole answer that command gives",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",
