@@ -374,7 +374,7 @@
     "catalogVersion": 20
   },
   "turnContract": {
-    "notes": "Non-interactive author-seat loop for a sleep-audio game with no player surface: kick (Ione messages) -> draft -> request-reviews (--no-action) -> incorporate (advisory) -> publish. No turn ever waits on a player, and no scene is authored on a timer. Founding canon: Experiment 2 (Natalie's Table) is published turn 1 and carries into every author boot via the narrative record. Experiment 1 is ANTI-CORPUS — the failed direct-address form (see gmReference anti-exemplar) — and must NEVER become a turn. TTS mirroring of published turns onto Violet Hour story-chapters is Ione's side, deliberately deferred engine-side until exp 3 proves the loop; do not build it.",
+    "notes": "Non-interactive author-seat loop for a sleep-audio game with no player surface: kick (Ione messages) -> draft -> request reviews -> incorporate (advisory) -> publish. No turn ever waits on a player, and no scene is authored on a timer. Founding canon: Experiment 2 (Natalie's Table) is published turn 1 and carries into every author boot via the narrative record. Experiment 1 is ANTI-CORPUS — the failed direct-address form (see gmReference anti-exemplar) — and must NEVER become a turn. TTS mirroring of published turns onto Violet Hour story-chapters is Ione's side, deliberately deferred engine-side until exp 3 proves the loop; do not build it.",
     "obligations": [
       {
         "id": "kick",
@@ -384,12 +384,12 @@
       {
         "id": "draft",
         "detail": "A draft is invisible everywhere until published.",
-        "requirement": "Draft the scene as the next game-turn via `bun ops awen commit-turn` with status draft: about 1000 words, plain prose paragraphs — single-viewpoint narrator, no slug markers, dialogue only as tagged quoted speech carried inside the narration — window-pane, TTS-speakable, holding the whole hard dial (policy game:violet-hour-dial)."
+        "requirement": "Draft the scene as the next game-turn with status draft: about 1000 words, plain prose paragraphs — single-viewpoint narrator, no slug markers, dialogue only as tagged quoted speech carried inside the narration — window-pane, TTS-speakable, holding the whole hard dial (policy game:violet-hour-dial)."
       },
       {
         "id": "request-reviews",
         "detail": "--no-action explicitly marks the actionless turn so the facts seat distinguishes 'no action this turn' from 'author forgot'.",
-        "requirement": "Fan the draft out to all six advisory editor seats in one call: `bun ops awen request-reviews --game the-violet-hour --turn <draft-ref> --no-action` (non-interactive: there is no player action). Await their findings."
+        "requirement": "Fan the draft out to all six advisory editor seats (non-interactive: there is no player action). Await their findings."
       },
       {
         "id": "incorporate",
@@ -399,7 +399,7 @@
       {
         "id": "publish",
         "detail": "requiresPerTurnGate is OFF for this game.",
-        "requirement": "Publish the drafted turn with `bun ops awen publish-turn`. There is NO player action, NO per-turn gate, and NO recorded verdict — the scene goes live directly once the author is satisfied."
+        "requirement": "Publish the drafted turn. There is NO player action, NO per-turn gate, and NO recorded verdict — the scene goes live directly once the author is satisfied."
       }
     ]
   },
