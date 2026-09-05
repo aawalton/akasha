@@ -10,7 +10,7 @@ import {
 import { dirname, join } from "node:path"
 import { everyFileUnder } from "@akasha/testing-system/walking"
 import { indexIdentity } from "../identity/index-identity.index.ts"
-import { indexImport } from "../index/import/index-import.index.ts"
+import { indexImport } from "../import/index-import.index.ts"
 import { indexPath } from "../index/path/index-path.index.ts"
 import { indexRelation } from "../index/relation/index-relation.index.ts"
 import { indexSchema } from "../index/schema/index-schema.index.ts"

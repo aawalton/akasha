@@ -6,7 +6,7 @@ import {
   specifiersIn,
 } from "@akasha/code-system/code-specifier"
 import { typed } from "@akasha/code-system/code-typing"
-import { type Entry, under } from "../../index-entries/index-entries.module.code.ts"
+import { type Entry, under } from "../index-entries/index-entries.module.code.ts"
 import { indexImport } from "./index-import.index.ts"
 
 const IMPORT = indexImport.name
