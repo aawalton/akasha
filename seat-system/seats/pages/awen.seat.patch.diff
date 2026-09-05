@@ -1,0 +1,901 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent-dreams.world-condition.ts b/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent-dreams.world-condition.ts
+deleted file mode 100644
+index d2d6a6c55ab99e4f2b6bae6a82d1f0be9825147f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent-dreams.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const battlefieldOfTheSilentDreams = {
+-  id: "01a0655a-7b79-7342-b212-af247578d425",
+-  pageTypeSlug: "world-condition",
+-  slug: "battlefield-of-the-silent-dreams",
+-  title: "Battlefield of the Silent (Dreams)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent-dreams/battlefield-of-the-silent-dreams.world-condition.ts b/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent-dreams/battlefield-of-the-silent-dreams.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ffbc7a87890d91b103e0c4d90e1b02a324269138
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent-dreams/battlefield-of-the-silent-dreams.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const battlefieldOfTheSilentDreams = {
++  id: "01a0655a-7b79-7342-b212-af247578d425",
++  pageTypeSlug: "world-condition",
++  slug: "battlefield-of-the-silent-dreams",
++  title: "Battlefield of the Silent (Dreams)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent.world-condition.ts b/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent.world-condition.ts
+deleted file mode 100644
+index 68ed480d56337f1e3f8a9cf8020903cf1dbb2d7f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const battlefieldOfTheSilent = {
+-  id: "01a0655a-7b7a-7cb5-8d04-ffd16c662bb4",
+-  pageTypeSlug: "world-condition",
+-  slug: "battlefield-of-the-silent",
+-  title: "Battlefield of the Silent",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent/battlefield-of-the-silent.world-condition.ts b/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent/battlefield-of-the-silent.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..393ef5eb166773f4f95cc9b936b85c35d3ac5ea1
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/battlefield-of-the-silent/battlefield-of-the-silent.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const battlefieldOfTheSilent = {
++  id: "01a0655a-7b7a-7cb5-8d04-ffd16c662bb4",
++  pageTypeSlug: "world-condition",
++  slug: "battlefield-of-the-silent",
++  title: "Battlefield of the Silent",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/bearer-of-my-vengeance.world-condition.ts b/story/world-mechanics/world-conditions/pages/bearer-of-my-vengeance.world-condition.ts
+deleted file mode 100644
+index 7f4898c31bf8f91330b081d1ea23fe68b1be52e9..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/bearer-of-my-vengeance.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const bearerOfMyVengeance = {
+-  id: "01a0655a-7b7a-7210-a80a-b7962e5e9e30",
+-  pageTypeSlug: "world-condition",
+-  slug: "bearer-of-my-vengeance",
+-  title: "Bearer of My Vengeance",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/bearer-of-my-vengeance/bearer-of-my-vengeance.world-condition.ts b/story/world-mechanics/world-conditions/pages/bearer-of-my-vengeance/bearer-of-my-vengeance.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d54fb8626cca99000584516b34332ddc50308a3f
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/bearer-of-my-vengeance/bearer-of-my-vengeance.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const bearerOfMyVengeance = {
++  id: "01a0655a-7b7a-7210-a80a-b7962e5e9e30",
++  pageTypeSlug: "world-condition",
++  slug: "bearer-of-my-vengeance",
++  title: "Bearer of My Vengeance",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-breath-of-jewels.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-breath-of-jewels.world-condition.ts
+deleted file mode 100644
+index 370a1e497a6a0450e1c352d8238e8702a206a98f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/body-breath-of-jewels.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const bodyBreathOfJewels = {
+-  id: "01a0655a-7b7a-7ae9-b3dc-fa92670fb9d0",
+-  pageTypeSlug: "world-condition",
+-  slug: "body-breath-of-jewels",
+-  title: "Body – Breath of Jewels",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-breath-of-jewels/body-breath-of-jewels.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-breath-of-jewels/body-breath-of-jewels.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5d27fcd461a79bdf60295647f08883b04cef3370
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/body-breath-of-jewels/body-breath-of-jewels.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const bodyBreathOfJewels = {
++  id: "01a0655a-7b7a-7ae9-b3dc-fa92670fb9d0",
++  pageTypeSlug: "world-condition",
++  slug: "body-breath-of-jewels",
++  title: "Body – Breath of Jewels",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-fortune-s-scent.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-fortune-s-scent.world-condition.ts
+deleted file mode 100644
+index f556a99d82e34a4e68682bc89918043018cbce8e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/body-fortune-s-scent.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const bodyFortuneSScent = {
+-  id: "01a0655a-7b7a-78ae-8c8a-7377a684be4b",
+-  pageTypeSlug: "world-condition",
+-  slug: "body-fortune-s-scent",
+-  title: "Body – Fortune’s Scent",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-fortune-s-scent/body-fortune-s-scent.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-fortune-s-scent/body-fortune-s-scent.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3dd83e5989740eb0d401a4fd70dcfa8413922bfd
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/body-fortune-s-scent/body-fortune-s-scent.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const bodyFortuneSScent = {
++  id: "01a0655a-7b7a-78ae-8c8a-7377a684be4b",
++  pageTypeSlug: "world-condition",
++  slug: "body-fortune-s-scent",
++  title: "Body – Fortune’s Scent",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-greater-resistance-sickness.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-greater-resistance-sickness.world-condition.ts
+deleted file mode 100644
+index ff31df95053d8077afa836aa4f1ca32c2fcbd5bd..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/body-greater-resistance-sickness.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const bodyGreaterResistanceSickness = {
+-  id: "01a0655a-7b7a-7995-892e-dc99d4bbfb96",
+-  pageTypeSlug: "world-condition",
+-  slug: "body-greater-resistance-sickness",
+-  title: "Body – Greater Resistance: Sickness",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-greater-resistance-sickness/body-greater-resistance-sickness.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-greater-resistance-sickness/body-greater-resistance-sickness.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5a735253dde7744b8eea38672f5b000e9473c0fb
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/body-greater-resistance-sickness/body-greater-resistance-sickness.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const bodyGreaterResistanceSickness = {
++  id: "01a0655a-7b7a-7995-892e-dc99d4bbfb96",
++  pageTypeSlug: "world-condition",
++  slug: "body-greater-resistance-sickness",
++  title: "Body – Greater Resistance: Sickness",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-icy-flesh.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-icy-flesh.world-condition.ts
+deleted file mode 100644
+index 006e6a49ef97b193884492a4db46777d402266d3..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/body-icy-flesh.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const bodyIcyFlesh = {
+-  id: "01a0655a-7b7a-74bd-954a-d6468b2bc9f9",
+-  pageTypeSlug: "world-condition",
+-  slug: "body-icy-flesh",
+-  title: "Body – Icy Flesh",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-icy-flesh/body-icy-flesh.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-icy-flesh/body-icy-flesh.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d6007aa810524890cba84db5b50dc791f2d40283
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/body-icy-flesh/body-icy-flesh.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const bodyIcyFlesh = {
++  id: "01a0655a-7b7a-74bd-954a-d6468b2bc9f9",
++  pageTypeSlug: "world-condition",
++  slug: "body-icy-flesh",
++  title: "Body – Icy Flesh",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-oldblood-wings.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-oldblood-wings.world-condition.ts
+deleted file mode 100644
+index 026c00b1244174b5715c4f47035d6c2fa41b2daf..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/body-oldblood-wings.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const bodyOldbloodWings = {
+-  id: "01a0655a-7b7a-75dd-8d49-b53e2eb1f320",
+-  pageTypeSlug: "world-condition",
+-  slug: "body-oldblood-wings",
+-  title: "Body – Oldblood Wings",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-oldblood-wings/body-oldblood-wings.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-oldblood-wings/body-oldblood-wings.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..265ef6c2ddead2c904fecd8a417c85e12f4ef90a
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/body-oldblood-wings/body-oldblood-wings.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const bodyOldbloodWings = {
++  id: "01a0655a-7b7a-75dd-8d49-b53e2eb1f320",
++  pageTypeSlug: "world-condition",
++  slug: "body-oldblood-wings",
++  title: "Body – Oldblood Wings",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-scales-of-opulence.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-scales-of-opulence.world-condition.ts
+deleted file mode 100644
+index 3ff8296960bafe45ac1896ab71f2fda2158ba4ee..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/body-scales-of-opulence.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const bodyScalesOfOpulence = {
+-  id: "01a0655a-7b7a-7e24-9feb-fb9d5e8db19a",
+-  pageTypeSlug: "world-condition",
+-  slug: "body-scales-of-opulence",
+-  title: "Body – Scales of Opulence",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/body-scales-of-opulence/body-scales-of-opulence.world-condition.ts b/story/world-mechanics/world-conditions/pages/body-scales-of-opulence/body-scales-of-opulence.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c7752f3bf816bdc09308cb478e71200bf3e744f4
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/body-scales-of-opulence/body-scales-of-opulence.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const bodyScalesOfOpulence = {
++  id: "01a0655a-7b7a-7e24-9feb-fb9d5e8db19a",
++  pageTypeSlug: "world-condition",
++  slug: "body-scales-of-opulence",
++  title: "Body – Scales of Opulence",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/corruption-s-accomplice.world-condition.ts b/story/world-mechanics/world-conditions/pages/corruption-s-accomplice.world-condition.ts
+deleted file mode 100644
+index 46a780fdd450445604d94c2fe1e87e9eeb65aefb..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/corruption-s-accomplice.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const corruptionSAccomplice = {
+-  id: "01a0655a-7b7a-72dd-8c97-01c108866d9b",
+-  pageTypeSlug: "world-condition",
+-  slug: "corruption-s-accomplice",
+-  title: "Corruption’s Accomplice",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/corruption-s-accomplice/corruption-s-accomplice.world-condition.ts b/story/world-mechanics/world-conditions/pages/corruption-s-accomplice/corruption-s-accomplice.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..51f0981a93747d703c91e8c2ab125dc0387f0895
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/corruption-s-accomplice/corruption-s-accomplice.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const corruptionSAccomplice = {
++  id: "01a0655a-7b7a-72dd-8c97-01c108866d9b",
++  pageTypeSlug: "world-condition",
++  slug: "corruption-s-accomplice",
++  title: "Corruption’s Accomplice",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/emberbody.world-condition.ts b/story/world-mechanics/world-conditions/pages/emberbody.world-condition.ts
+deleted file mode 100644
+index e38e6f1f4cf671a88516b458e8f51b5bb82230af..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/emberbody.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const emberbody = {
+-  id: "01a0655a-7b7a-7735-b9e0-0807c595874c",
+-  pageTypeSlug: "world-condition",
+-  slug: "emberbody",
+-  title: "Emberbody",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/emberbody/emberbody.world-condition.ts b/story/world-mechanics/world-conditions/pages/emberbody/emberbody.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..94012c263273477a0efa638f258a6d1811ea3746
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/emberbody/emberbody.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const emberbody = {
++  id: "01a0655a-7b7a-7735-b9e0-0807c595874c",
++  pageTypeSlug: "world-condition",
++  slug: "emberbody",
++  title: "Emberbody",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/eyes-of-conviction.world-condition.ts b/story/world-mechanics/world-conditions/pages/eyes-of-conviction.world-condition.ts
+deleted file mode 100644
+index 64bbf440d4689e9dae3385a35474b10cd706c9fb..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/eyes-of-conviction.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const eyesOfConviction = {
+-  id: "01a0655a-7b7a-7cd7-8125-87d4f987bb54",
+-  pageTypeSlug: "world-condition",
+-  slug: "eyes-of-conviction",
+-  title: "Eyes of Conviction",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/eyes-of-conviction/eyes-of-conviction.world-condition.ts b/story/world-mechanics/world-conditions/pages/eyes-of-conviction/eyes-of-conviction.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bb1c26d687a531369210f465cdf199f306635816
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/eyes-of-conviction/eyes-of-conviction.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const eyesOfConviction = {
++  id: "01a0655a-7b7a-7cd7-8125-87d4f987bb54",
++  pageTypeSlug: "world-condition",
++  slug: "eyes-of-conviction",
++  title: "Eyes of Conviction",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/feet-nature-s-passage-snow.world-condition.ts b/story/world-mechanics/world-conditions/pages/feet-nature-s-passage-snow.world-condition.ts
+deleted file mode 100644
+index beee3a9e62397583e5f9fe793bcf0151245221b8..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/feet-nature-s-passage-snow.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const feetNatureSPassageSnow = {
+-  id: "01a0655a-7b7b-7ef0-bd6e-b26f07060b51",
+-  pageTypeSlug: "world-condition",
+-  slug: "feet-nature-s-passage-snow",
+-  title: "Feet – Nature’s Passage (Snow)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/feet-nature-s-passage-snow/feet-nature-s-passage-snow.world-condition.ts b/story/world-mechanics/world-conditions/pages/feet-nature-s-passage-snow/feet-nature-s-passage-snow.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..44d46bfd40d895c100e2b23e85cf7e60878b8a15
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/feet-nature-s-passage-snow/feet-nature-s-passage-snow.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const feetNatureSPassageSnow = {
++  id: "01a0655a-7b7b-7ef0-bd6e-b26f07060b51",
++  pageTypeSlug: "world-condition",
++  slug: "feet-nature-s-passage-snow",
++  title: "Feet – Nature’s Passage (Snow)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/haze-of-delirium.world-condition.ts b/story/world-mechanics/world-conditions/pages/haze-of-delirium.world-condition.ts
+deleted file mode 100644
+index b05f1322a48136db4ec61b56536674121cc22f24..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/haze-of-delirium.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const hazeOfDelirium = {
+-  id: "01a0655a-7b7b-7949-a902-260526117bd5",
+-  pageTypeSlug: "world-condition",
+-  slug: "haze-of-delirium",
+-  title: "Haze of Delirium",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/haze-of-delirium/haze-of-delirium.world-condition.ts b/story/world-mechanics/world-conditions/pages/haze-of-delirium/haze-of-delirium.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aaf0e98310d6d30c60f14272c0a70cbe18386c28
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/haze-of-delirium/haze-of-delirium.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const hazeOfDelirium = {
++  id: "01a0655a-7b7b-7949-a902-260526117bd5",
++  pageTypeSlug: "world-condition",
++  slug: "haze-of-delirium",
++  title: "Haze of Delirium",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/heart-heroic-lionheart.world-condition.ts b/story/world-mechanics/world-conditions/pages/heart-heroic-lionheart.world-condition.ts
+deleted file mode 100644
+index 8f5b49572d2aa2b574b798e35a0b49f4ebf9847c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/heart-heroic-lionheart.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const heartHeroicLionheart = {
+-  id: "01a0655a-7b7b-79af-b7b6-5d7e0e2723ed",
+-  pageTypeSlug: "world-condition",
+-  slug: "heart-heroic-lionheart",
+-  title: "Heart: Heroic Lionheart",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/heart-heroic-lionheart/heart-heroic-lionheart.world-condition.ts b/story/world-mechanics/world-conditions/pages/heart-heroic-lionheart/heart-heroic-lionheart.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6dd4032bccf8f2942af9693e23de4e2dbfe61677
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/heart-heroic-lionheart/heart-heroic-lionheart.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const heartHeroicLionheart = {
++  id: "01a0655a-7b7b-79af-b7b6-5d7e0e2723ed",
++  pageTypeSlug: "world-condition",
++  slug: "heart-heroic-lionheart",
++  title: "Heart: Heroic Lionheart",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/impaired-sight.world-condition.ts b/story/world-mechanics/world-conditions/pages/impaired-sight.world-condition.ts
+deleted file mode 100644
+index e77151ca6791f7edb6d076429b16d1b8a0eb8937..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/impaired-sight.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const impairedSight = {
+-  id: "01a0655a-7b7b-78e2-98df-8f192903995e",
+-  pageTypeSlug: "world-condition",
+-  slug: "impaired-sight",
+-  title: "Impaired Sight",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/impaired-sight/impaired-sight.world-condition.ts b/story/world-mechanics/world-conditions/pages/impaired-sight/impaired-sight.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e7a4c72ffbf05ed628a14475519c7ab3c9422f5c
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/impaired-sight/impaired-sight.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const impairedSight = {
++  id: "01a0655a-7b7b-78e2-98df-8f192903995e",
++  pageTypeSlug: "world-condition",
++  slug: "impaired-sight",
++  title: "Impaired Sight",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/manaburn-heart.world-condition.ts b/story/world-mechanics/world-conditions/pages/manaburn-heart.world-condition.ts
+deleted file mode 100644
+index 4ad2bfb57595526706879a92754c77c29e1f0abd..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/manaburn-heart.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const manaburnHeart = {
+-  id: "01a0655a-7b7b-758b-b7b4-76bdd715fe1c",
+-  pageTypeSlug: "world-condition",
+-  slug: "manaburn-heart",
+-  title: "Manaburn Heart",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/manaburn-heart/manaburn-heart.world-condition.ts b/story/world-mechanics/world-conditions/pages/manaburn-heart/manaburn-heart.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8da010cd7f5673f9ed4c2924166883d3e4bef737
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/manaburn-heart/manaburn-heart.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const manaburnHeart = {
++  id: "01a0655a-7b7b-758b-b7b4-76bdd715fe1c",
++  pageTypeSlug: "world-condition",
++  slug: "manaburn-heart",
++  title: "Manaburn Heart",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/manalaced-fur.world-condition.ts b/story/world-mechanics/world-conditions/pages/manalaced-fur.world-condition.ts
+deleted file mode 100644
+index 61dca349722786ee620f435fd76faf86df83f50b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/manalaced-fur.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const manalacedFur = {
+-  id: "01a0655a-7b7b-79c8-bdea-7785145560c6",
+-  pageTypeSlug: "world-condition",
+-  slug: "manalaced-fur",
+-  title: "Manalaced Fur",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/manalaced-fur/manalaced-fur.world-condition.ts b/story/world-mechanics/world-conditions/pages/manalaced-fur/manalaced-fur.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..98c38f489d89664e08e38f8faec2f3fa6d04310f
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/manalaced-fur/manalaced-fur.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const manalacedFur = {
++  id: "01a0655a-7b7b-79c8-bdea-7785145560c6",
++  pageTypeSlug: "world-condition",
++  slug: "manalaced-fur",
++  title: "Manalaced Fur",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/manaweave-muscles.world-condition.ts b/story/world-mechanics/world-conditions/pages/manaweave-muscles.world-condition.ts
+deleted file mode 100644
+index ec7bfb4925a0b4c8e7d9505f618f86d65cd58bc9..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/manaweave-muscles.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const manaweaveMuscles = {
+-  id: "01a0655a-7b7b-7253-a2e5-3c1039778f79",
+-  pageTypeSlug: "world-condition",
+-  slug: "manaweave-muscles",
+-  title: "Manaweave Muscles",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/manaweave-muscles/manaweave-muscles.world-condition.ts b/story/world-mechanics/world-conditions/pages/manaweave-muscles/manaweave-muscles.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2bc5f8e8cb3874464808a25f34dde38d28652b87
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/manaweave-muscles/manaweave-muscles.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const manaweaveMuscles = {
++  id: "01a0655a-7b7b-7253-a2e5-3c1039778f79",
++  pageTypeSlug: "world-condition",
++  slug: "manaweave-muscles",
++  title: "Manaweave Muscles",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/miracle.world-condition.ts b/story/world-mechanics/world-conditions/pages/miracle.world-condition.ts
+deleted file mode 100644
+index 78e80ca39310a06f628328237d5dd83ae176cd17..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/miracle.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const miracle = {
+-  id: "01a0655a-7b7b-7232-808c-b4ba9a71e42a",
+-  pageTypeSlug: "world-condition",
+-  slug: "miracle",
+-  title: "Miracle",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/miracle/miracle.world-condition.ts b/story/world-mechanics/world-conditions/pages/miracle/miracle.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4833f4f14b7f5080150ef7b3b6f793aff6b829eb
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/miracle/miracle.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const miracle = {
++  id: "01a0655a-7b7b-7232-808c-b4ba9a71e42a",
++  pageTypeSlug: "world-condition",
++  slug: "miracle",
++  title: "Miracle",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/outcast-humanity.world-condition.ts b/story/world-mechanics/world-conditions/pages/outcast-humanity.world-condition.ts
+deleted file mode 100644
+index cdf0dfdee4672bb23ac439cb8fefd2efe7efcf11..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/outcast-humanity.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const outcastHumanity = {
+-  id: "01a0655a-7b7b-706b-aafc-2a6e660fb6ab",
+-  pageTypeSlug: "world-condition",
+-  slug: "outcast-humanity",
+-  title: "Outcast Humanity",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/outcast-humanity/outcast-humanity.world-condition.ts b/story/world-mechanics/world-conditions/pages/outcast-humanity/outcast-humanity.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..967bf92dec62050a10eea2f515814f373f7ae99a
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/outcast-humanity/outcast-humanity.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const outcastHumanity = {
++  id: "01a0655a-7b7b-706b-aafc-2a6e660fb6ab",
++  pageTypeSlug: "world-condition",
++  slug: "outcast-humanity",
++  title: "Outcast Humanity",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/pained-nerves.world-condition.ts b/story/world-mechanics/world-conditions/pages/pained-nerves.world-condition.ts
+deleted file mode 100644
+index 9a79388c33ebc79449cfb6809ab84aed18eb834d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/pained-nerves.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const painedNerves = {
+-  id: "01a0655a-7b7b-7d4d-9764-8ef29d1ddca1",
+-  pageTypeSlug: "world-condition",
+-  slug: "pained-nerves",
+-  title: "Pained Nerves",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/pained-nerves/pained-nerves.world-condition.ts b/story/world-mechanics/world-conditions/pages/pained-nerves/pained-nerves.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f4648e36856b1708aacdc90e1930a247fb4c0027
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/pained-nerves/pained-nerves.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const painedNerves = {
++  id: "01a0655a-7b7b-7d4d-9764-8ef29d1ddca1",
++  pageTypeSlug: "world-condition",
++  slug: "pained-nerves",
++  title: "Pained Nerves",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/plaguesteel-minor.world-condition.ts b/story/world-mechanics/world-conditions/pages/plaguesteel-minor.world-condition.ts
+deleted file mode 100644
+index 06fb3ba37d903cf250e152e2424a52b88d3b6b71..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/plaguesteel-minor.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const plaguesteelMinor = {
+-  id: "01a0655a-7b7b-7230-b8df-99be589c45ad",
+-  pageTypeSlug: "world-condition",
+-  slug: "plaguesteel-minor",
+-  title: "Plaguesteel (Minor)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/plaguesteel-minor/plaguesteel-minor.world-condition.ts b/story/world-mechanics/world-conditions/pages/plaguesteel-minor/plaguesteel-minor.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ba44f478e04343db68cf32d26fa325a410b23ae
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/plaguesteel-minor/plaguesteel-minor.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const plaguesteelMinor = {
++  id: "01a0655a-7b7b-7230-b8df-99be589c45ad",
++  pageTypeSlug: "world-condition",
++  slug: "plaguesteel-minor",
++  title: "Plaguesteel (Minor)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/plaguesteel.world-condition.ts b/story/world-mechanics/world-conditions/pages/plaguesteel.world-condition.ts
+deleted file mode 100644
+index e513df0fcdfa7925a83e09439017849c24a10a87..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/plaguesteel.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const plaguesteel = {
+-  id: "01a0655a-7b7b-70a5-883e-db5d21301a16",
+-  pageTypeSlug: "world-condition",
+-  slug: "plaguesteel",
+-  title: "Plaguesteel",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/plaguesteel/plaguesteel.world-condition.ts b/story/world-mechanics/world-conditions/pages/plaguesteel/plaguesteel.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..904a4d0a8ec1edeaff074cbea9abca43d4875b62
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/plaguesteel/plaguesteel.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const plaguesteel = {
++  id: "01a0655a-7b7b-70a5-883e-db5d21301a16",
++  pageTypeSlug: "world-condition",
++  slug: "plaguesteel",
++  title: "Plaguesteel",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/rulebreaker-s-thoughts.world-condition.ts b/story/world-mechanics/world-conditions/pages/rulebreaker-s-thoughts.world-condition.ts
+deleted file mode 100644
+index 0cc1d0aa620c19dc43e218fe96f40049663be4ae..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/rulebreaker-s-thoughts.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const rulebreakerSThoughts = {
+-  id: "01a0655a-7b7b-7575-b552-afc2e174fa19",
+-  pageTypeSlug: "world-condition",
+-  slug: "rulebreaker-s-thoughts",
+-  title: "Rulebreaker’s Thoughts",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/rulebreaker-s-thoughts/rulebreaker-s-thoughts.world-condition.ts b/story/world-mechanics/world-conditions/pages/rulebreaker-s-thoughts/rulebreaker-s-thoughts.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..43518d6041e581f56800d611f386e148dde60cf3
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/rulebreaker-s-thoughts/rulebreaker-s-thoughts.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const rulebreakerSThoughts = {
++  id: "01a0655a-7b7b-7575-b552-afc2e174fa19",
++  pageTypeSlug: "world-condition",
++  slug: "rulebreaker-s-thoughts",
++  title: "Rulebreaker’s Thoughts",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/soul-s-crack.world-condition.ts b/story/world-mechanics/world-conditions/pages/soul-s-crack.world-condition.ts
+deleted file mode 100644
+index 66d0534055e175aee3557ffcef5b8c8ba2ed3aa6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/soul-s-crack.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const soulSCrack = {
+-  id: "01a0655a-7b7b-793a-9cc1-d3568f4fd743",
+-  pageTypeSlug: "world-condition",
+-  slug: "soul-s-crack",
+-  title: "Soul’s Crack",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/soul-s-crack/soul-s-crack.world-condition.ts b/story/world-mechanics/world-conditions/pages/soul-s-crack/soul-s-crack.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a901854e03b9b7d96b247c9e370682b6a8ae34ec
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/soul-s-crack/soul-s-crack.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const soulSCrack = {
++  id: "01a0655a-7b7b-793a-9cc1-d3568f4fd743",
++  pageTypeSlug: "world-condition",
++  slug: "soul-s-crack",
++  title: "Soul’s Crack",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/terrible-hunger.world-condition.ts b/story/world-mechanics/world-conditions/pages/terrible-hunger.world-condition.ts
+deleted file mode 100644
+index 5eb97fc79a3839f92f917be715af6049dd0c5c71..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/terrible-hunger.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const terribleHunger = {
+-  id: "01a0655a-7b7b-72c1-b627-3c608ccc6bec",
+-  pageTypeSlug: "world-condition",
+-  slug: "terrible-hunger",
+-  title: "Terrible Hunger",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/terrible-hunger/terrible-hunger.world-condition.ts b/story/world-mechanics/world-conditions/pages/terrible-hunger/terrible-hunger.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..252e91806e0bb9f4a6b6d88a55deafe09e66ab6c
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/terrible-hunger/terrible-hunger.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const terribleHunger = {
++  id: "01a0655a-7b7b-72c1-b627-3c608ccc6bec",
++  pageTypeSlug: "world-condition",
++  slug: "terrible-hunger",
++  title: "Terrible Hunger",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/thickbone-body.world-condition.ts b/story/world-mechanics/world-conditions/pages/thickbone-body.world-condition.ts
+deleted file mode 100644
+index 7ed18efe8db92b108179e8328e5e2d6c2c6fcbb9..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/thickbone-body.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const thickboneBody = {
+-  id: "01a0655a-7b7b-7964-b265-399593dfbe7d",
+-  pageTypeSlug: "world-condition",
+-  slug: "thickbone-body",
+-  title: "Thickbone Body",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/thickbone-body/thickbone-body.world-condition.ts b/story/world-mechanics/world-conditions/pages/thickbone-body/thickbone-body.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..64d5b338469e89e19d2bc92dd2c3ca0bacdd8b22
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/thickbone-body/thickbone-body.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const thickboneBody = {
++  id: "01a0655a-7b7b-7964-b265-399593dfbe7d",
++  pageTypeSlug: "world-condition",
++  slug: "thickbone-body",
++  title: "Thickbone Body",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/wordless-thing.world-condition.ts b/story/world-mechanics/world-conditions/pages/wordless-thing.world-condition.ts
+deleted file mode 100644
+index 95d4eb0439c8438d9d493ec8eeb5079a31f0da82..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/wordless-thing.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const wordlessThing = {
+-  id: "01a0655a-7b7b-782a-a0a0-4c34419adae7",
+-  pageTypeSlug: "world-condition",
+-  slug: "wordless-thing",
+-  title: "Wordless Thing",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/wordless-thing/wordless-thing.world-condition.ts b/story/world-mechanics/world-conditions/pages/wordless-thing/wordless-thing.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fb7c49f9826b434ee329c439f3b3cb5f8589bc04
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/wordless-thing/wordless-thing.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const wordlessThing = {
++  id: "01a0655a-7b7b-782a-a0a0-4c34419adae7",
++  pageTypeSlug: "world-condition",
++  slug: "wordless-thing",
++  title: "Wordless Thing",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/words-of-disgrace.world-condition.ts b/story/world-mechanics/world-conditions/pages/words-of-disgrace.world-condition.ts
+deleted file mode 100644
+index d63191753b5ef108dca1aa44ce638c50ff9fd07f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-conditions/pages/words-of-disgrace.world-condition.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCondition } from "../world-condition.page-type.ts"
+-
+-export const wordsOfDisgrace = {
+-  id: "01a0655a-7b7b-77c9-af25-098b54cc8f33",
+-  pageTypeSlug: "world-condition",
+-  slug: "words-of-disgrace",
+-  title: "Words of Disgrace",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCondition
+diff --git a/story/world-mechanics/world-conditions/pages/words-of-disgrace/words-of-disgrace.world-condition.ts b/story/world-mechanics/world-conditions/pages/words-of-disgrace/words-of-disgrace.world-condition.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a639bce0a14aee6c5be00c67b042de4c9bd5722e
+--- /dev/null
++++ b/story/world-mechanics/world-conditions/pages/words-of-disgrace/words-of-disgrace.world-condition.ts
+@@ -0,0 +1,9 @@
++import type { WorldCondition } from "../../world-condition.page-type.ts"
++
++export const wordsOfDisgrace = {
++  id: "01a0655a-7b7b-77c9-af25-098b54cc8f33",
++  pageTypeSlug: "world-condition",
++  slug: "words-of-disgrace",
++  title: "Words of Disgrace",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCondition
