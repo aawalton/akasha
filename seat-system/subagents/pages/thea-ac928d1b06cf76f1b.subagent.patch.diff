@@ -1,0 +1,97 @@
+diff --git a/agents/properties/patch.file-property.ts b/agents/properties/patch.file-property.ts
+index 247b0c15e4fe43d009c4fcb43da52f4fd778422c..9313838b314caadf8a7ba73e63f6f4d2c7d191f8 100644
+--- a/agents/properties/patch.file-property.ts
++++ b/agents/properties/patch.file-property.ts
+@@ -8,6 +8,7 @@ export const patch = {
+   slug: "patch",
+   propertySlug: "patch",
+   definition: "the change an agent has drafted and not yet landed",
++  runsFileLength: false,
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/checks/code-checks/pages/file-length/file-length.code-check.code.ts b/checks/code-checks/pages/file-length/file-length.code-check.code.ts
+index 4effc4684a7c52d7a62a28810f59fd1b58f1a1fa..8d3114c4fe92a22d9abf9050eafbf74884091b70 100644
+--- a/checks/code-checks/pages/file-length/file-length.code-check.code.ts
++++ b/checks/code-checks/pages/file-length/file-length.code-check.code.ts
+@@ -45,8 +45,16 @@ const MARKUP_RELIEF =
+ const PROSE_RELIEF =
+   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
+ 
++const FILE_PROPERTY = "file-property"
++
++const FILE_NAME = "fileName"
++
++const PROPERTY_SLUG = "propertySlug"
++
+ const NAMING = new WeakMap<Shadow, readonly Naming[]>()
+ 
++const HELD_OFF = new WeakMap<Shadow, ReadonlySet<string>>()
++
+ export function heldOff(value: Value): boolean {
+   return value[RUNS] === false
+ }
+@@ -61,7 +69,32 @@ function namingIn(shadow: Shadow): readonly Naming[] {
+   return made
+ }
+ 
++function sectionsOff(shadow: Shadow): ReadonlySet<string> {
++  const found = HELD_OFF.get(shadow)
++  if (found !== undefined) return found
++  const made = new Set<string>()
++  for (const kind of shadow.index.kindsUnder(FILE_PROPERTY)) {
++    for (const listed of shadow.index.everyOfType(kind)) {
++      const value = shadow.pageOf(listed.path)
++      if (value === null || !heldOff(value)) continue
++      if (typeof value[FILE_NAME] === "string") continue
++      const slug = value[PROPERTY_SLUG]
++      if (typeof slug === "string") made.add(slug)
++    }
++  }
++  HELD_OFF.set(shadow, made)
++  return made
++}
++
++function sectionOff(path: string, shadow: Shadow): boolean {
++  const said = partedIn(path)
++  if (said === null) return false
++  const held = sectionedIn(said)
++  return held !== null && sectionsOff(shadow).has(held.propertySlug)
++}
++
+ export function exemptIn(path: string, shadow: Shadow): boolean {
++  if (sectionOff(path, shadow)) return true
+   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
+   return heldBeside(path, namingIn(shadow), heldOff, carrying)
+ }
+diff --git a/checks/code-checks/pages/file-length/file-length.code-check.ts b/checks/code-checks/pages/file-length/file-length.code-check.ts
+index eb4c996e686cd7062ab1a2b8e0b37930bf19bcfb..cf0401006f50f37ba6d801368fcee2d7fddae247 100644
+--- a/checks/code-checks/pages/file-length/file-length.code-check.ts
++++ b/checks/code-checks/pages/file-length/file-length.code-check.ts
+@@ -67,13 +67,24 @@ export const fileLength = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A property lets a file off only where a page carrying that property sits in the file's folder.",
++      statement: "A property naming its file is read from the file's own name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That file is let off only where a page carrying the property sits in its folder.",
+     },
+     {
+       invariantKind: "departure",
+       statement: "A file of that name in another folder is held to the ceiling.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A property naming no file is read from the section its files carry.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every file that section names is let off wherever that file sits.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Which files a machine writes is a question of its own, asked elsewhere.",
