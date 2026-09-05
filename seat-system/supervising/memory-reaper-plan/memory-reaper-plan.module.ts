@@ -35,7 +35,7 @@ export const memoryReaperPlan = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal is carried in the plan rather than dropped out of it.",
+      statement: "A refusal is carried in the plan rather than dropped out of that plan.",
     },
   ],
 } as const satisfies Module
