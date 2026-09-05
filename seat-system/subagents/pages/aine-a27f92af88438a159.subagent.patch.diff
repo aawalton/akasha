@@ -86,7 +86,7 @@ index b05fd3b9d2c19b54e109bb2d060dd438939d3f7d..725cf90076c0d8aa8167cba4ad31d15a
      {
        invariantKind: "departure",
 diff --git a/pages/landing-journal/page-landing-journal.module.ts b/pages/landing-journal/page-landing-journal.module.ts
-index 38880aee255c5db4cf3d7a5250a59eaf07a42140..a855d9de8ff45a08fc80bf556fca1aad5ab510f1 100644
+index 38880aee255c5db4cf3d7a5250a59eaf07a42140..85929ca2e4a9fe805cd4c9ac4b17cf728eda6e08 100644
 --- a/pages/landing-journal/page-landing-journal.module.ts
 +++ b/pages/landing-journal/page-landing-journal.module.ts
 @@ -10,7 +10,7 @@ export const pageLandingJournal = {
@@ -98,8 +98,17 @@ index 38880aee255c5db4cf3d7a5250a59eaf07a42140..a855d9de8ff45a08fc80bf556fca1aad
      },
      {
        invariantKind: "departure",
+@@ -27,7 +27,7 @@ export const pageLandingJournal = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Where the journals stand is said by `PAGE_LANDING_JOURNAL_DIR` and falls back to the user's state directory.",
++        "Where the journals are is said by `PAGE_LANDING_JOURNAL_DIR` and falls back to the user's state directory.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/markdown-page-at/markdown-page-at.module.ts b/pages/markdown-page-at/markdown-page-at.module.ts
-index 9f029a9ee0af4b1c70199803a37897e2c6b3e49b..816b31e96a0e0ff41a2504fe12d5282fc4e5ffec 100644
+index 9f029a9ee0af4b1c70199803a37897e2c6b3e49b..983583396320daebc659559c089f9d0c128c6fbf 100644
 --- a/pages/markdown-page-at/markdown-page-at.module.ts
 +++ b/pages/markdown-page-at/markdown-page-at.module.ts
 @@ -4,7 +4,7 @@ export const markdownPageAt = {
@@ -111,6 +120,16 @@ index 9f029a9ee0af4b1c70199803a37897e2c6b3e49b..816b31e96a0e0ff41a2504fe12d5282f
    code: "ts",
    invariants: [
      {
+@@ -13,8 +13,7 @@ export const markdownPageAt = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A set of roots may name a repository the set of roots stands under as its target.",
++      statement: "A set of roots may name a repository the set of roots is under as its target.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/pages/named-file-properties/named-file-property.page-type.ts b/pages/named-file-properties/named-file-property.page-type.ts
 index 7ef4e36b938379701ee634a28b4f9457880ad8f5..c81a8a3f8feaf40686981b5a9819614638f43913 100644
 --- a/pages/named-file-properties/named-file-property.page-type.ts
@@ -215,10 +234,10 @@ index 70477a469dc1ea4c889986d8a57e222c7b686bd0..b73894e061c317cb8992e2c8a29fc4e5
      {
        invariantKind: "departure",
 diff --git a/pages/repo-path/repo-path.module.ts b/pages/repo-path/repo-path.module.ts
-index 53ae6a95ed5e47ebd7b3683b5c5e0a6455f902fc..ae40a439eeffddd59fa72730bfa06331316d3d09 100644
+index 53ae6a95ed5e47ebd7b3683b5c5e0a6455f902fc..5a65398ccfc8f6e40c9ecaf2e4b8cd5488701bbb 100644
 --- a/pages/repo-path/repo-path.module.ts
 +++ b/pages/repo-path/repo-path.module.ts
-@@ -4,7 +4,7 @@ export const repoPath = {
+@@ -4,13 +4,13 @@ export const repoPath = {
    id: "01a05cc6-2a1c-751d-8813-33c04d9c2005",
    pageTypeSlug: "module",
    slug: "repo-path",
@@ -227,3 +246,10 @@ index 53ae6a95ed5e47ebd7b3683b5c5e0a6455f902fc..ae40a439eeffddd59fa72730bfa06331
    code: "ts",
    invariants: [
      {
+       invariantKind: "departure",
+       statement:
+-        "A path is spelled out as far as anything stands on disk and left alone after that point.",
++        "A path is spelled out as far as anything exists on disk and left alone after that point.",
+     },
+     {
+       invariantKind: "departure",
