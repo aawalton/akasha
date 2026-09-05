@@ -8,6 +8,6 @@ export const myStrategyOverview = {
   definition: "what is settled and what is open in My Strategy",
   bookSlug: "my-strategy",
   brief:
-    "Standing orientation for My Strategy — what the book is, what Alan has settled, and what is still open. Read this before an interview session on strategy so nothing already settled gets re-derived and nothing still open gets treated as decided. The numbered pages carry the detail and the quotations; this page carries the map.",
+    "Continuing orientation for My Strategy — what the book is, what Alan has settled, and what is still open. Read this before an interview session on strategy so nothing already settled gets re-derived and nothing still open gets treated as decided. The numbered pages carry the detail and the quotations; this page carries the map.",
   writing: "md",
 } as const satisfies BookRecord
