@@ -17,7 +17,8 @@ export const clusterJobs = {
     },
     {
       invariantKind: "departure",
-      statement: "A job's log is read from the first pod it made, and is empty where it made none.",
+      statement:
+        "A job's log is read from the first pod that job made, and is empty where that job made none.",
     },
     {
       invariantKind: "departure",
