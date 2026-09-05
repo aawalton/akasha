@@ -18,7 +18,7 @@ export const seatAttributes = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent's own attributes are empty where no seat is named for it.",
+      statement: "An agent's own attributes are empty where no seat is named for that agent.",
     },
     {
       invariantKind: "departure",
