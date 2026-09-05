@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts b/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
+index 72ee07b9de3d0be83295b4d82c25dc7f4a8bbf50..81a5157f5900cf5a66cdb8db8fd118bb33072fe8 100644
+--- a/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
++++ b/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
+@@ -16,7 +16,7 @@ export const surplusFallTicking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What was already said today is read off the notifications already sent.",
++      statement: "The rungs already said today are read off the notifications already sent.",
+     },
+     {
+       invariantKind: "departure",
