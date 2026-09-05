@@ -13,11 +13,11 @@ export const kiFranchise = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A franchise of Ki's names the shows it takes in.",
+      statement: "A franchise of Ki's names the shows that franchise takes in.",
     },
     {
       invariantKind: "departure",
-      statement: "A franchise of Ki's names the movies it takes in.",
+      statement: "A franchise of Ki's names the movies that franchise takes in.",
     },
     {
       invariantKind: "departure",
