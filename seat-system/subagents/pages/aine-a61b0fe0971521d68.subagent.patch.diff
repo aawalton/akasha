@@ -37,6 +37,19 @@ index 3338680e4a3d28a3e3a76967f2cbf7d9c8c87f0c..43e5422673cefd7708831208c386daf5
      },
      {
        invariantKind: "departure",
+diff --git a/service-system/workstation-services/properties/systemd.record-property.ts b/service-system/workstation-services/properties/systemd.record-property.ts
+index ff3666ac658da94b92319488db6a36f9844d47d8..27f72a5a5f19bfbeb0b214b29b6845f82a365f69 100644
+--- a/service-system/workstation-services/properties/systemd.record-property.ts
++++ b/service-system/workstation-services/properties/systemd.record-property.ts
+@@ -78,7 +78,7 @@ export const systemd = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a timer states stands here beside what a service states.",
++      statement: "What a timer states sits here beside what a service states.",
+     },
+     {
+       invariantKind: "stopgap",
 diff --git a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts b/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
 index 6b088c05574895549c475a1e33f502eb46f8300d..19521034e108e90ae15fbfae2487eb70dbe78400 100644
 --- a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
