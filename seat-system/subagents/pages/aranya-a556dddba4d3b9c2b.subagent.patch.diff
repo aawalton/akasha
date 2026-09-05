@@ -1,3 +1,51 @@
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
+index f36ec6087b63a8cdb35a6c42aa1d0e7d6124048c..6ac086e8c55b316e198529f41b5682f116cd7cb0 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
+@@ -1,18 +1,15 @@
+ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { said as gitIn } from "@akasha/git/git-running"
+ import { importEdge } from "@akasha/graph/import-edge"
+ import { importIn } from "@akasha/indexes/import"
+ import { indexImport } from "@akasha/indexes/import/page"
+-import { headOf } from "@akasha/indexes/stamp"
+ import {
+   entriesFiled,
+   listedFiled,
+   noImportersFiled,
+   pathFiled,
+   schemaFiled,
+-  stampedIn,
+ } from "@akasha/indexes/testing"
+ import type { Change } from "@akasha/pages-system/change"
+ import { put, there } from "@akasha/testing-system/putting"
+@@ -103,16 +100,6 @@ function graphed(root: string): undefined {
+   pathFiled(root, INDEX_PAGE_AT, [{ path: INDEX_PAGE_AT, id: indexImport.id }])
+ }
+ 
+-function stamped(root: string): undefined {
+-  gitIn(root, ["init", "--quiet"])
+-  gitIn(root, ["config", "user.email", "held@akasha"])
+-  gitIn(root, ["config", "user.name", "held"])
+-  writeFileSync(join(root, "seed"), "held\n")
+-  gitIn(root, ["add", "--", "seed"])
+-  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "seed"])
+-  stampedIn(root, { commit: headOf(root) ?? "", tree: "akasha", settled: [] })
+-}
+-
+ export function staged(files: Readonly<Record<string, string>>): string {
+   const root = scratch.rootFor("akasha-typecheck-")
+   mkdirSync(join(root, "akasha"))
+@@ -122,7 +109,6 @@ export function staged(files: Readonly<Record<string, string>>): string {
+   }
+   reaching(root, files)
+   graphed(root)
+-  stamped(root)
+   return root
+ }
+ 
 diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
 index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..a15c2b35c1de557fefbae742b7fe7b2d37d9a2f0 100644
 --- a/checks/modules/change-walking/change-walking.module.test.ts
