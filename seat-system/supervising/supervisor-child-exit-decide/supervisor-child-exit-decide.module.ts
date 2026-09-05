@@ -6,6 +6,7 @@ export const supervisorChildExitDecide = {
   slug: "supervisor-child-exit-decide",
   definition: "what a child's wait status says about how the child stopped",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

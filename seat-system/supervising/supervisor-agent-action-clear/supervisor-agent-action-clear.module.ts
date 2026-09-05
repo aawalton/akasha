@@ -6,6 +6,7 @@ export const supervisorAgentActionClear = {
   slug: "supervisor-agent-action-clear",
   definition: "the requested action taken off a seat before the supervisor signals its child",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

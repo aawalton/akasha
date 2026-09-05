@@ -6,6 +6,7 @@ export const supervisorDeferredRestartDecide = {
   slug: "supervisor-deferred-restart-decide",
   definition: "whether a deferred restart fires on this tick",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

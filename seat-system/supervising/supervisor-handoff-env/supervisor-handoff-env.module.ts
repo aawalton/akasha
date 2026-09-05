@@ -6,6 +6,7 @@ export const supervisorHandoffEnv = {
   slug: "supervisor-handoff-env",
   definition: "what a re-executing supervisor passes to itself through the environment",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,6 +6,7 @@ export const supervisorAdoptedClaudePort = {
   slug: "supervisor-adopted-claude-port",
   definition: "the proxy port an adopted Claude child was launched against",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

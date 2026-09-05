@@ -6,6 +6,7 @@ export const supervisorArgs = {
   slug: "supervisor-args",
   definition: "the command line a supervisor is started with and restarts itself with",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

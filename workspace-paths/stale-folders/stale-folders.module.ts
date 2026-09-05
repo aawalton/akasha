@@ -7,6 +7,7 @@ export const staleFolders = {
   definition:
     "the folders of a repository that no tracked or untracked file accounts for, and what they cost on disk",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

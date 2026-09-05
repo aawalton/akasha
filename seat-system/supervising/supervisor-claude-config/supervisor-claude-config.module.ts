@@ -6,6 +6,7 @@ export const supervisorClaudeConfig = {
   slug: "supervisor-claude-config",
   definition: "the declared Claude configuration reconciled into an account's config file",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

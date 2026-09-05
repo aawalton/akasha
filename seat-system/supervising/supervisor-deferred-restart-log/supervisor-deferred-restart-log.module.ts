@@ -6,6 +6,7 @@ export const supervisorDeferredRestartLog = {
   slug: "supervisor-deferred-restart-log",
   definition: "what a deferred restart says while it waits and when it fires",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

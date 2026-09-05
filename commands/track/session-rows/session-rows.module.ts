@@ -6,6 +6,7 @@ export const sessionRows = {
   slug: "session-rows",
   definition: "the rows one of Alan's days is made of, read off the checkout and judged",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,6 +6,7 @@ export const supervisorDeferredRestartProbe = {
   slug: "supervisor-deferred-restart-probe",
   definition: "an idle reading bounded by the tick it is taken in",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,4 +6,5 @@ export const akashaDay = {
   slug: "akasha-day",
   definition: "how a day page and the rows beside it are landed into the akasha page store",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

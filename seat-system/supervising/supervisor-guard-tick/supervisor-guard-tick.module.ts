@@ -6,6 +6,7 @@ export const supervisorGuardTick = {
   slug: "supervisor-guard-tick",
   definition: "a timer tick whose fault is handed to a handler rather than thrown",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,4 +6,5 @@ export const mountainTimes = {
   slug: "mountain-times",
   definition: "mountain wall time, and the instant a wall reading names",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

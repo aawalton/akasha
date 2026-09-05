@@ -6,6 +6,7 @@ export const supervisorEnv = {
   slug: "supervisor-env",
   definition: "the environment a supervisor hands its Claude child",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

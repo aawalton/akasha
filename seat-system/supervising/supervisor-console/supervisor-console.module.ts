@@ -6,6 +6,7 @@ export const supervisorConsole = {
   slug: "supervisor-console",
   definition: "a supervisor's console lines sent to its seat's log page and its log file",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
