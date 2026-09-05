@@ -99,3 +99,31 @@ index d69256318f8f3fb588470ac71f8ac64660f49566..9b72f7f90fd8eccd1b5174fec1806f9e
        return undefined
      default: {
        const unreached: never = step
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.code.ts b/editor-extension/seat-toggles/seat-toggles.module.code.ts
+index bfea36c32c47cd062e38ed4b880826064a03072d..42718faa2998a8d45ac21271b125d67f53e27045 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.code.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.code.ts
+@@ -16,7 +16,6 @@ export type SeatStep =
+   | { readonly kind: "stop" }
+   | { readonly kind: "revive" }
+   | { readonly kind: "resume-interactive" }
+-  | { readonly kind: "state-place"; readonly place: SeatMode }
+   | { readonly kind: "attach" }
+   | { readonly kind: "detach" }
+   | { readonly kind: "reset" }
+@@ -28,15 +27,6 @@ export function planRunToggle(state: SeatToggleState): readonly SeatStep[] {
+   return state.place === "interactive" ? [{ kind: "resume-interactive" }] : [{ kind: "revive" }]
+ }
+ 
+-export function planPlaceToggle(state: SeatToggleState): readonly SeatStep[] {
+-  const place: SeatMode = state.place === "interactive" ? "headless" : "interactive"
+-  const stated: SeatStep = { kind: "state-place", place }
+-  if (!state.running) {
+-    return [stated]
+-  }
+-  return place === "interactive" ? [stated, { kind: "attach" }] : [stated, { kind: "detach" }]
+-}
+-
+ export function planReset(state: SeatToggleState): readonly SeatStep[] {
+   const reset: SeatStep = { kind: "reset" }
+   return state.place === "interactive" ? [reset, { kind: "attach" }] : [reset]
