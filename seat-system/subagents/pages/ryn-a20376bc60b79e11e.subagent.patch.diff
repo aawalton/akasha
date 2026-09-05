@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/health-samples-import/health-import-run/health-import-run.module.ts b/health-samples-import/health-import-run/health-import-run.module.ts
+index 80f03b09686aa60b5aad9deb9f0fd8a2ea09174c..448276a520cb41dcd29e004d34ae61d45ce15db9 100644
+--- a/health-samples-import/health-import-run/health-import-run.module.ts
++++ b/health-samples-import/health-import-run/health-import-run.module.ts
+@@ -10,7 +10,7 @@ export const healthImportRun = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Samples are written in batches so a run that stops has still landed what came before.",
++        "Samples are written in batches so a run that stops has still landed the batches that came before.",
+     },
+     {
+       invariantKind: "departure",
