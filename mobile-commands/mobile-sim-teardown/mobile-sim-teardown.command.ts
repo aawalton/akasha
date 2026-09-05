@@ -19,7 +19,7 @@ export const mobileSimTeardown = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The Appium server is left running unless stopping it is asked for.",
+      statement: "The Appium server is left running unless stopping that server is asked for.",
     },
     {
       invariantKind: "departure",
