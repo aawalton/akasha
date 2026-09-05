@@ -35,6 +35,7 @@
     "./module/test": "./modules/properties/test.file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
     "./python-module": "./python-modules/python-module.page-type.ts",
+    "./route": "./routes/route.page-type.ts",
     "./router-app/root-route": "./router-apps/properties/root-route.named-file-property.ts",
     "./shape-progress": "./shape-progress/shape-progress.module.code.ts",
     "./shell-script": "./shell-scripts/shell-script.page-type.ts",

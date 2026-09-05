@@ -141,5 +141,6 @@ export const alanWeb = {
     "module/use-next-unread",
     "module/use-reader-active-marks",
     "module/wallpaper-candidates",
+    "route/about",
   ],
 } as const satisfies RouterApp

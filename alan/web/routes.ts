@@ -9,7 +9,7 @@ export default [
     route(":pageTypeSlug", "routes/page-listing.tsx"),
   ]),
   index("routes/landing.tsx"),
-  route("about", "routes/about.tsx"),
+  route("about", "routes/about/about.route.code.tsx"),
   route("services", "routes/services.tsx"),
   route("contact", "routes/contact.tsx"),
   route("terms", "routes/terms.tsx"),
