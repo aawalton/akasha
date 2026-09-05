@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
-index 27098e34c65334da5ea1ecfd36cc754e28bf8203..8dcb1ca9923bd47482889aedbc961b0edbd0ac4c 100644
+index 27098e34c65334da5ea1ecfd36cc754e28bf8203..3a2f2a2274ea73bc13fc792d6250908a1f9ccbd6 100644
 --- a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 +++ b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 @@ -9,14 +9,14 @@ const VERSION = 3
@@ -45,15 +45,21 @@ index 27098e34c65334da5ea1ecfd36cc754e28bf8203..8dcb1ca9923bd47482889aedbc961b0e
    try {
      const one = statSync(`${dir}/${name}`)
      return one.isFile() ? { at: `${dir}/${name}`, bytes: one.size, used: one.mtimeMs } : null
-@@ -82,7 +82,7 @@ function standingAt(dir: string, name: string): Standing | null {
+@@ -82,12 +82,9 @@ function standingAt(dir: string, name: string): Standing | null {
  }
  
  // Only a finished answer is ever weighed or taken away. `writeFileAtomicSync` renames from
 -// `<path>.tmp-<pid>-<random>`, and another checkout's write may be standing at one of those while
 +// `<path>.tmp-<pid>-<random>`, and another checkout's write may be sitting at one of those while
  // this runs, so a name that is not an answer is left alone rather than pulled out from under it.
- function looseIn(
-   dir: string,
+-function looseIn(
+-  dir: string,
+-  held: string
+-): { readonly total: number; readonly loose: Standing[] } {
++function looseIn(dir: string, held: string): { readonly total: number; readonly loose: Entry[] } {
+   let names: readonly string[]
+   try {
+     names = readdirSync(dir)
 diff --git a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
 index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae3731fc2d7f8 100644
 --- a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
