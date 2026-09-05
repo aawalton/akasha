@@ -1,7 +1,18 @@
 diff --git a/seat-system/seat-stated/seat-stated.module.code.ts b/seat-system/seat-stated/seat-stated.module.code.ts
-index 485f090baa475e8323158a08eed3cb36260b5e74..76a9962ec37bfcc98bbb47c587cc625ba882d594 100644
+index 485f090baa475e8323158a08eed3cb36260b5e74..829c4ad8f3b2b03f23487bfb6a3c14524ad9a32b 100644
 --- a/seat-system/seat-stated/seat-stated.module.code.ts
 +++ b/seat-system/seat-stated/seat-stated.module.code.ts
+@@ -76,8 +76,8 @@ export function statedOf(agent: string): Stated {
+ // WHAT A PAGE NEEDS IS WHAT AKASHA NEEDS, and akasha asks for three more than the old page did. This
+ // tested the old page's three and answered that a seat would compose when it would not: the caller
+ // took that as nothing to recover, went to write, and got `unstated` back with no way to act on it.
+-// A seat short of a persona, a start mode or a registration is one to recover rather than one that
+-// stands.
++// A seat short of a persona, a start mode or a registration is one to recover rather than one to
++// leave as it is.
+ export function pageWouldCompose(stated: Stated): boolean {
+   return (
+     stated.attributes.persona !== undefined &&
 @@ -93,11 +93,11 @@ function modeIn(said: string | null): declarations.Mode | null {
    return declarations.MODES.find((one) => one === said) ?? null
  }
