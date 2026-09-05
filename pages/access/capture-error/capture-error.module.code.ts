@@ -23,7 +23,7 @@ export type Captured = {
   readonly commit: string | null
 }
 
-export const PAGE_TYPE = "error"
+export const PAGE_TYPE = "runtime-error"
 
 export const ERROR_CAPTURE_WRITER = "error capture <errors@alanwalton.com>"
 
