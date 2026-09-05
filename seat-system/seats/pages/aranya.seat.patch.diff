@@ -255,3 +255,11 @@ index 2533f1f2163c5462c4ace809680d9f5371be9285..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/eso-rig
 \ No newline at end of file
+diff --git a/infrastructure/inference-clients/inference-clients b/infrastructure/inference-clients/inference-clients
+deleted file mode 120000
+index 401039e941236822b0984bea4e4dc174b053dade..0000000000000000000000000000000000000000
+--- a/infrastructure/inference-clients/inference-clients
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/inference-clients
+\ No newline at end of file
