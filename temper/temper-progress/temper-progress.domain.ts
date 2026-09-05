@@ -27,6 +27,7 @@ export const temperProgress = {
     "relation-property/action",
     "relation-property/condition-field",
     "relation-property/goal",
+    "select-property/stock-scope",
     "text-property/condition-value",
     "text-property/destination",
   ],

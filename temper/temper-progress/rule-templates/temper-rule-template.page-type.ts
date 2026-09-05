@@ -5,7 +5,7 @@ import type { Active } from "../rules/properties/active.boolean-property.ts"
 import type { Conditions } from "../rules/properties/conditions.page-property-entry.ts"
 import type { Destination } from "../rules/properties/destination.text-property.ts"
 import type { Goal } from "../rules/properties/goal.relation-property.ts"
-import type { StockScope } from "./properties/stock-scope.select-property.ts"
+import type { StockScope } from "../rules/properties/stock-scope.select-property.ts"
 
 export type TemperRuleTemplate = TemperProgressThing & {
   action: Action
@@ -23,7 +23,7 @@ export const temperRuleTemplate = {
   definition: "a ready-made rule for what to do with an item",
   pluralSlug: "temper-rule-templates",
   extendsSlug: ["page-type/temper-progress-thing"],
-  partSlugs: ["select-property/stock-scope"],
+  partSlugs: [],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "description", required: true, many: false },
