@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/migration-system/migration-system.workspace-package.ts b/migration-system/migration-system.workspace-package.ts
+index c5d4697082d8bd4f935729a3ceb05f1b1e555219..bd11a3e16f31a29a378c1c00984c8d51f3b8507b 100644
+--- a/migration-system/migration-system.workspace-package.ts
++++ b/migration-system/migration-system.workspace-package.ts
+@@ -66,7 +66,7 @@ export const migrationSystem = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What came back is read against the disk with `readBack(root, composed)`.",
++      statement: "The landing's answer is read against the disk with `readBack(root, composed)`.",
+     },
+     {
+       invariantKind: "departure",
