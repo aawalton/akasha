@@ -37,3 +37,20 @@ index dde08bd84652cf842fe80dd6eaf021a5dc08bc19..8c1dc093a4a72cd26f1e7769025b3f45
    }
  }
  
+diff --git a/pages/address/page-address.module.ts b/pages/address/page-address.module.ts
+index a4c99cf00174e3e53fc922e934b353f9353b40fb..ba5631c3b3f0d720caae300972ead16b39859eeb 100644
+--- a/pages/address/page-address.module.ts
++++ b/pages/address/page-address.module.ts
+@@ -18,7 +18,11 @@ export const pageAddress = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A slug may carry later slashes.",
++      statement: "A slug carries no slash, because a slug is lower kebab case.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A third part names the collection a slug is unique within.",
+     },
+     {
+       invariantKind: "departure",
