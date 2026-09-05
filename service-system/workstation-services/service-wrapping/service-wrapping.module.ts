@@ -61,7 +61,7 @@ export const serviceWrapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A code file still not parsing past that minute is run on as it is.",
+      statement: "A code file still not parsing past that minute is run on as that file is.",
     },
     {
       invariantKind: "departure",
