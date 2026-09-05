@@ -99,3 +99,67 @@ index 0000000000000000000000000000000000000000..8dab4ab761420de5432fc35e366a8787
 +    },
 +  ],
 +} as const satisfies Domain
+diff --git a/infrastructure/storage.domain.ts b/infrastructure/storage.domain.ts
+deleted file mode 100644
+index 1d8f0c9d741930670424ab9d785fe5ed6fab1868..0000000000000000000000000000000000000000
+--- a/infrastructure/storage.domain.ts
++++ /dev/null
+@@ -1,26 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const storage = {
+-  id: "01a0658b-0f02-7644-863a-eb9b17536f55",
+-  pageTypeSlug: "domain",
+-  slug: "storage",
+-  definition: "where bytes live",
+-  partSlugs: [
+-    "domain/disk-store",
+-    "domain/backup",
+-    "domain/git-repos",
+-    "domain/container-registry",
+-    "domain/database",
+-    "workspace-package/object-store",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Durability is off by default in every store.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Durability is asked for one thing at a time.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/infrastructure/storage/storage.domain.ts b/infrastructure/storage/storage.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..db2076dcda4edcdcacfa228bc680630df3e614a9
+--- /dev/null
++++ b/infrastructure/storage/storage.domain.ts
+@@ -0,0 +1,26 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const storage = {
++  id: "01a0658b-0f02-7644-863a-eb9b17536f55",
++  pageTypeSlug: "domain",
++  slug: "storage",
++  definition: "where bytes live",
++  partSlugs: [
++    "domain/disk-store",
++    "domain/backup",
++    "domain/git-repos",
++    "domain/container-registry",
++    "domain/database",
++    "workspace-package/object-store",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Durability is off by default in every store.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Durability is asked for one thing at a time.",
++    },
++  ],
++} as const satisfies Domain
