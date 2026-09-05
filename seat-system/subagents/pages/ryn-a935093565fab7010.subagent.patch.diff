@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/commands/page-secret-set/page-secret-set.command.ts b/pages/commands/page-secret-set/page-secret-set.command.ts
+index e6e639b44ac773022ecb9f4404f2731a33e9bf37..9f658e4e1ea162ce1095ae0330a2a6ff96beeb4d 100644
+--- a/pages/commands/page-secret-set/page-secret-set.command.ts
++++ b/pages/commands/page-secret-set/page-secret-set.command.ts
+@@ -44,7 +44,7 @@ export const pageSecretSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the sops file already holds is carried into what is written.",
++      statement: "The secrets the sops file already holds are carried into the file written.",
+     },
+     {
+       invariantKind: "departure",
