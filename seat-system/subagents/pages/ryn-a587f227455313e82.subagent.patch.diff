@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
+index 02faa8922acb7aec9c8f91c48ab4498ca426dfc5..b021b6cbdde91ee5c6797452cae7554ada89bcef 100644
+--- a/code-system/code-tests/code-tests.module.ts
++++ b/code-system/code-tests/code-tests.module.ts
+@@ -175,7 +175,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A world borrows what a run is configured by from that tree.",
++      statement: "A world borrows the files a run is configured by from that tree.",
+     },
+     {
+       invariantKind: "departure",
