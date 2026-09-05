@@ -23,7 +23,7 @@ export const terminalReload = {
     },
     {
       invariantKind: "departure",
-      statement: "The set is parsed before it is loaded.",
+      statement: "The set is parsed before that set is loaded.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const terminalReload = {
     },
     {
       invariantKind: "departure",
-      statement: "A reload that could not be done says which step of it failed.",
+      statement: "A reload that could not be done says which step of that reload failed.",
     },
     {
       invariantKind: "departure",
