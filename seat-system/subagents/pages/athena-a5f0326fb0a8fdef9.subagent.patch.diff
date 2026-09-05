@@ -1,5 +1,5 @@
 diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
-index cde07aaa5a42d767002716606e98faba4f76ab64..ea90de8b7ea475f867247ad9dff27ffd49fc468a 100644
+index cde07aaa5a42d767002716606e98faba4f76ab64..b2ec4daa71e6d5ada0339438db58679708f50cba 100644
 --- a/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
 +++ b/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
 @@ -1,5 +1,8 @@
@@ -11,6 +11,43 @@ index cde07aaa5a42d767002716606e98faba4f76ab64..ea90de8b7ea475f867247ad9dff27ffd
  import { readIn, shellInitBash } from "./shell-init-bash.command.code.ts"
  
  const given: Given = {
+@@ -63,11 +66,32 @@ describe("the set composed", () => {
+   })
+ })
+ 
++const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
++
++const ACCOUNT_TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
++
++const ACCOUNT_TYPE_BODY =
++  `export const claudeAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
++  `slug: "claude-account", pluralSlug: "claude-accounts", extendsSlug: [] } as const\n`
++
++function accountlessRoot(root: string): string {
++  writing(root, ACCOUNT_TYPE_AT, ACCOUNT_TYPE_BODY)
++  pageFiled(root, ACCOUNT_TYPE, ACCOUNT_TYPE_AT)
++  listedFiled(root, "page-type", "claude-account", [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
++  return root
++}
++
+ describe("a root holding no account page", () => {
+   test("is a data refusal rather than a set with no launcher", () => {
+-    const answer = shellInitBash([], { ...given, root: "/var/tmp" })
+-    expect(answer.code).toBe(2)
+-    expect(answer.report).toEqual([])
+-    expect(answer.refusals[0]).toContain("no claude account page was read")
++    const world = scratchWorld()
++    try {
++      const root = accountlessRoot(world.rootFor("shell-init-bash-"))
++      const answer = shellInitBash([], { ...given, root })
++      expect(answer.code).toBe(2)
++      expect(answer.report).toEqual([])
++      expect(answer.refusals[0]).toContain("no claude account page was read")
++    } finally {
++      world.sweep()
++    }
+   })
+ })
 diff --git a/seat-system/seat-stopping/seat-stopping.module.test.ts b/seat-system/seat-stopping/seat-stopping.module.test.ts
 index a70658b06024eb0a760c185ff73c816e8d7aca5b..9bf756672e942354b56da1976078646f8dab28f7 100644
 --- a/seat-system/seat-stopping/seat-stopping.module.test.ts
