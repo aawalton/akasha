@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/world-mechanics/world-mechanic.page-type.ts b/story/world-mechanics/world-mechanic.page-type.ts
-index acb9d7fd28ff67db13cf3421202aa4f1661a5f90..0b1edcc81ddc16769efdd1ddf0d9f2067a578203 100644
+index acb9d7fd28ff67db13cf3421202aa4f1661a5f90..9e9d642779e596d992064dacb5a5a168bdefbeff 100644
 --- a/story/world-mechanics/world-mechanic.page-type.ts
 +++ b/story/world-mechanics/world-mechanic.page-type.ts
 @@ -87,8 +87,7 @@ export const worldMechanic = {
@@ -10,6 +10,15 @@ index acb9d7fd28ff67db13cf3421202aa4f1661a5f90..0b1edcc81ddc16769efdd1ddf0d9f206
 -      statement:
 -        "A mechanic is what the story says that mechanic is rather than what a rulebook says.",
 +      statement: "A mechanic is as the story says that mechanic is rather than as a rulebook says.",
+     },
+     {
+       invariantKind: "departure",
+@@ -109,7 +108,7 @@ export const worldMechanic = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every kind of mechanic carries what the base carries and adds nothing.",
++      statement: "Every kind of mechanic carries the properties the base carries and adds nothing.",
      },
      {
        invariantKind: "departure",
