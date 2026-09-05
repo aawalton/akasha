@@ -19,6 +19,10 @@ export const refactorChange = {
     },
     {
       invariantKind: "departure",
+      statement: "A change running an atomic change is a refactor change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refactor change lands everything it runs or none of it.",
     },
     {

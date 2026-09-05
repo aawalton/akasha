@@ -23,6 +23,10 @@ export const atomicChange = {
     },
     {
       invariantKind: "departure",
+      statement: "An atomic change runs no atomic change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An atomic change lands every file the thing reaches, or none of them.",
     },
     {
