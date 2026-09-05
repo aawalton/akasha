@@ -36,7 +36,7 @@ export const monarchReconcile = {
     {
       invariantKind: "departure",
       statement:
-        "The scope reconciled against is named in the refusal, so a run says what it was weighing.",
+        "The scope reconciled against is named in the refusal, so a run says what that run was weighing.",
     },
   ],
 } as const satisfies Module
