@@ -23,5 +23,9 @@ export const shalidorLibraryCollections = {
       invariantKind: "constraint",
       statement: "A reader of this table carries no other lore category.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A collection moved between runs breaks every build hash saved.",
+    },
   ],
 } as const satisfies Module
