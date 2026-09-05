@@ -42,7 +42,7 @@ export const coachingConstraint = {
     {
       invariantKind: "departure",
       statement:
-        "What a constraint asks for is in its own file rather than in a value beside that constraint.",
+        "A constraint's asks are in a file of their own rather than in a value beside that constraint.",
     },
   ],
 } as const satisfies PageType
