@@ -31,7 +31,8 @@ export const calculationLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "The pages package reaches a calculation without naming the domain holding it.",
+      statement:
+        "The pages package reaches a calculation without naming the domain holding that calculation.",
     },
     {
       invariantKind: "absence",
@@ -39,7 +40,7 @@ export const calculationLoading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here runs the calculation it answers.",
+      statement: "Nothing here runs the calculation this module answers.",
     },
   ],
 } as const satisfies Module
