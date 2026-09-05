@@ -38,7 +38,36 @@ import {
 } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { defaultFor } from "../seat-resolve/seat-resolve.module.code.ts"
 
-async function readFlexFlag(raw: string | undefined): Promise<string | null> {
+// WHAT A START IS MADE OF IS STATED RATHER THAN SPELLED. A caller already holds the domain, the role
+// and the prompt as values, so nothing has to write them out as a command line for a second process
+// to read them back in.
+export interface StartSeatInput {
+  readonly startMode: string
+  readonly persona?: string
+  readonly role?: string
+  readonly domain?: string
+  readonly principal?: string
+  readonly flex?: string
+  readonly initiative?: string | null
+  readonly account?: string
+  readonly prompt?: string
+  readonly modelOverride?: string
+  readonly anthropicBaseUrl?: string
+  readonly anthropicAuthToken?: string
+  // A PARENT STATED AS NOTHING IS A SEAT WITH NO PARENT, AND A PARENT LEFT OUT IS THIS PROCESS'S OWN.
+  // The two cases are told apart so that a caller reaching in from somewhere else can say a seat has
+  // no parent without the environment answering for it.
+  readonly parent?: string | null
+}
+
+export interface StartedSeat {
+  readonly agentId: string
+  readonly name: string
+  readonly startMode: string
+  readonly pid?: number
+}
+
+function readFlexValue(raw: string | undefined): string | null {
   if (raw === undefined) return null
   if (!FLEX.test(raw)) {
     throw inputError(
@@ -48,14 +77,8 @@ async function readFlexFlag(raw: string | undefined): Promise<string | null> {
   return raw
 }
 
-export default async function seatStart(args: readonly string[]): Promise<void> {
-  const statedParent = refuseStatedParent(args)
-  if (statedParent !== null) throw inputError(statedParent)
-  const statedName = refuseStatedName(args)
-  if (statedName !== null) throw inputError(statedName)
-  const parsed = parseArgs(help, args)
-
-  const startMode = parsed.string("--start-mode") ?? SEAT_MODE_INTERACTIVE
+export async function startSeat(input: StartSeatInput): Promise<StartedSeat> {
+  const startMode = input.startMode
   if (!isSeatMode(startMode)) {
     throw inputError(
       `invalid --start-mode '${startMode}' (expected ${SEAT_MODES.map((one) => `'${one}'`).join(" or ")})`
@@ -66,14 +89,14 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   const root = rootFor(resolveRoots(), AKASHA)
   const stated: { -readonly [K in keyof StatedAgentSlots]: StatedAgentSlots[K] } = {}
   for (const slot of ["persona", "role", "domain"] as const) {
-    const value = parsed.string(`--${slot}`)?.trim()
+    const value = input[slot]?.trim()
     if (value !== undefined && value !== "") stated[slot] = value
   }
 
   const derived = handlerDerives(root, stated.role ?? null, stated.domain ?? null)
   if (stated.persona === undefined && derived.persona !== null) stated.persona = derived.persona
 
-  const askedPrincipal = parsed.string("--principal")?.trim()
+  const askedPrincipal = input.principal?.trim()
   if (askedPrincipal !== undefined && !principals(root).includes(askedPrincipal)) {
     throw inputError(
       `invalid --principal '${askedPrincipal}': a seat's output is produced for one of ${principals(root).join(", ")}`
@@ -88,7 +111,7 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   if (answering.length > 0) throw inputError(answering.join(" "))
   if (principal !== undefined) stated.principal = principal
 
-  const parent = await resolveOptionalSeatId(undefined)
+  const parent = input.parent === undefined ? await resolveOptionalSeatId(undefined) : input.parent
   const orphaned = refuseParentless(parent, !principalIsPerson(root, principal ?? null))
   if (orphaned !== null) throw inputError(orphaned)
 
@@ -109,7 +132,7 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
     }
   }
 
-  const flex = await readFlexFlag(parsed.string("--flex"))
+  const flex = readFlexValue(input.flex)
 
   const statedIdentity: StatedIdentity = {
     persona: stated.persona,
@@ -141,16 +164,13 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
     )
   }
 
-  const account = parsed.string("--account") ?? DEFAULT_ACCOUNT
-  const json = parsed.boolean("--json")
+  const account = input.account ?? DEFAULT_ACCOUNT
 
   if (headless) {
-    const promptFile = parsed.string("--prompt-file")
-    const prompt =
-      promptFile === undefined
-        ? parsed.requireString("--prompt")
-        : await readStdinOrFile(promptFile)
-    if (prompt.length === 0) throw inputError("--prompt / --prompt-file payload is empty")
+    const prompt = input.prompt
+    if (prompt === undefined || prompt.length === 0) {
+      throw inputError("--prompt / --prompt-file payload is empty")
+    }
     const handle = await spawnSeat({
       name,
       prompt,
@@ -159,19 +179,12 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
       statedIdentity,
       principal: principal ?? null,
       flex,
-      initiative: parsed.string("--initiative") ?? null,
-      modelOverride: parsed.string("--model"),
-      anthropicBaseUrl: parsed.string("--anthropic-base-url"),
-      anthropicAuthToken: parsed.string("--anthropic-auth-token"),
+      initiative: input.initiative ?? null,
+      modelOverride: input.modelOverride,
+      anthropicBaseUrl: input.anthropicBaseUrl,
+      anthropicAuthToken: input.anthropicAuthToken,
     })
-    if (json) {
-      process.stdout.write(
-        `${JSON.stringify({ agent_id: handle.agentId, name: handle.name, start_mode: startMode, pid: handle.pid })}\n`
-      )
-      return
-    }
-    process.stdout.write(`${handle.agentId}\t${handle.name}\t${startMode}\n`)
-    return
+    return { agentId: handle.agentId, name: handle.name, startMode, pid: handle.pid }
   }
 
   const held = refuseHeldName(seatByName(name))
@@ -187,7 +200,7 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
     domain: stated.domain,
     role: stated.role,
     flex,
-    initiative: parsed.string("--initiative") ?? null,
+    initiative: input.initiative ?? null,
     parentName: parent === null ? null : composedNameOf(parent),
     account,
   })
@@ -200,11 +213,61 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   }
   await launchSeatUnderTmux({ name, agentId, account, prompt: "", mode: startMode })
 
-  if (json) {
-    process.stdout.write(`${JSON.stringify({ agent_id: agentId, name, start_mode: startMode })}\n`)
+  return { agentId, name, startMode }
+}
+
+export default async function seatStart(args: readonly string[]): Promise<void> {
+  const statedParent = refuseStatedParent(args)
+  if (statedParent !== null) throw inputError(statedParent)
+  const statedName = refuseStatedName(args)
+  if (statedName !== null) throw inputError(statedName)
+  const parsed = parseArgs(help, args)
+
+  const startMode = parsed.string("--start-mode") ?? SEAT_MODE_INTERACTIVE
+  const json = parsed.boolean("--json")
+
+  let prompt: string | undefined
+  if (startMode === SEAT_MODE_HEADLESS) {
+    const promptFile = parsed.string("--prompt-file")
+    prompt =
+      promptFile === undefined
+        ? parsed.requireString("--prompt")
+        : await readStdinOrFile(promptFile)
+  }
+
+  const started = await startSeat({
+    startMode,
+    persona: parsed.string("--persona"),
+    role: parsed.string("--role"),
+    domain: parsed.string("--domain"),
+    principal: parsed.string("--principal"),
+    flex: parsed.string("--flex"),
+    initiative: parsed.string("--initiative") ?? null,
+    account: parsed.string("--account"),
+    prompt,
+    modelOverride: parsed.string("--model"),
+    anthropicBaseUrl: parsed.string("--anthropic-base-url"),
+    anthropicAuthToken: parsed.string("--anthropic-auth-token"),
+  })
+
+  if (started.pid !== undefined) {
+    if (json) {
+      process.stdout.write(
+        `${JSON.stringify({ agent_id: started.agentId, name: started.name, start_mode: started.startMode, pid: started.pid })}\n`
+      )
+      return
+    }
+    process.stdout.write(`${started.agentId}\t${started.name}\t${started.startMode}\n`)
     return
   }
-  process.stdout.write(`${agentId}\n`)
+
+  if (json) {
+    process.stdout.write(
+      `${JSON.stringify({ agent_id: started.agentId, name: started.name, start_mode: started.startMode })}\n`
+    )
+    return
+  }
+  process.stdout.write(`${started.agentId}\n`)
 }
 
 export const help = HELP

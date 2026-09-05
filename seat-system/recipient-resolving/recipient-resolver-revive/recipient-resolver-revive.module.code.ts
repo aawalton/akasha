@@ -1,11 +1,6 @@
-import {
-  classifyReviveVerifyExit,
-  type ReviveVerifySignal,
-} from "@akasha/seat-system/seat-revive-verify-signal"
-import {
-  LOG,
-  REPO_ROOT,
-} from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
+import { resumeSeat } from "@akasha/seat-system/seat-resume"
+import type { ReviveVerifySignal } from "@akasha/seat-system/seat-revive-verify-signal"
+import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { RecipientResolverConfig } from "../recipient-resolver-config/recipient-resolver-config.module.code.ts"
 
 function assertNever(value: never): never {
@@ -13,80 +8,83 @@ function assertNever(value: never): never {
   throw new Error(`assertNever: unhandled variant ${rendered}`)
 }
 
-const REVIVE_TIMED_OUT = Symbol("revive-timed-out")
+const REVIVE_OUTRAN = Symbol("revive-outran-the-timeout")
 
-const AKASHA = `${REPO_ROOT}/dotfiles/bin/akasha`
+type Came =
+  | { readonly kind: "back" }
+  | { readonly kind: "wedged"; readonly detail: string }
+  | { readonly kind: "failed"; readonly detail: string }
 
-export function reviveArgv(agentId: string, bootPrompt: string | undefined): string[] {
-  const argv = [AKASHA, "seat", "resume", agentId, "--verify", "--json"]
-  if (bootPrompt !== undefined && bootPrompt.length > 0) {
-    argv.push("--boot-prompt", bootPrompt)
-  }
-  return argv
-}
-
-export async function reviveViaAkasha(
+export async function reviveSeat(
   agentId: string,
   bootPrompt: string | undefined,
   config: RecipientResolverConfig
 ): Promise<ReviveVerifySignal> {
   if (config.dryRun) {
-    console.log(`${LOG} recipient-resolver: [dry-run] would revive ${agentId} (spawn skipped)`)
+    console.log(`${LOG} recipient-resolver: [dry-run] would revive ${agentId} (nothing is called)`)
     return "benign"
   }
-  const proc = Bun.spawn(reviveArgv(agentId, bootPrompt), {
-    cwd: REPO_ROOT,
-    stdin: "ignore",
-    stdout: "pipe",
-    stderr: "pipe",
-    env: process.env,
-  })
-  const collect = Promise.all([
-    new Response(proc.stdout).text(),
-    new Response(proc.stderr).text(),
-    proc.exited,
-  ])
-  const settled = await Promise.race([
-    collect,
-    new Promise<typeof REVIVE_TIMED_OUT>((resolve) =>
-      setTimeout(() => resolve(REVIVE_TIMED_OUT), config.reviveTimeoutMs)
-    ),
-  ])
-  if (settled === REVIVE_TIMED_OUT) {
-    proc.kill()
-    void collect.catch(() => {})
+
+  const came: Promise<Came> = resumeSeat({
+    agentId,
+    verify: true,
+    bootPrompt: bootPrompt !== undefined && bootPrompt.length > 0 ? bootPrompt : undefined,
+  }).then(
+    (back): Came =>
+      back.kind === "wedged"
+        ? {
+            kind: "wedged",
+            detail: `io did not advance past the revive within ${back.graceMs}ms`,
+          }
+        : { kind: "back" },
+    (err: unknown): Came => ({
+      kind: "failed",
+      detail: err instanceof Error ? err.message : String(err),
+    })
+  )
+
+  // NOTHING HERE CAN BE KILLED, SO A REVIVE THAT OUTRUNS THE TIMEOUT IS LEFT RATHER THAN ENDED. The
+  // seat was already launched before the verifying wait began, so letting go of the wait costs the
+  // tick nothing the next tick cannot pick up.
+  let timer: ReturnType<typeof setTimeout> | undefined
+  let settled: Came | typeof REVIVE_OUTRAN
+  try {
+    settled = await Promise.race([
+      came,
+      new Promise<typeof REVIVE_OUTRAN>((resolve) => {
+        timer = setTimeout(() => resolve(REVIVE_OUTRAN), config.reviveTimeoutMs)
+      }),
+    ])
+  } finally {
+    if (timer !== undefined) clearTimeout(timer)
+  }
+
+  if (settled === REVIVE_OUTRAN) {
     console.log(
-      `${LOG} recipient-resolver: revive ${agentId} exceeded ${config.reviveTimeoutMs}ms — killed (retry next tick)`
+      `${LOG} recipient-resolver: revive ${agentId} exceeded ${config.reviveTimeoutMs}ms — left running (retry next tick)`
     )
     return "benign"
   }
-  const [stdout, stderr, code] = settled
-  const signal = classifyReviveVerifyExit(code)
-  switch (signal) {
-    case "revived":
+
+  switch (settled.kind) {
+    case "back":
       console.log(
         `${LOG} recipient-resolver: revived ${agentId} (io advanced past revive — verified)`
       )
       return "revived"
-    case "unverified": {
-      const detail = (stderr.trim() !== "" ? stderr : stdout).trim()
+    case "wedged":
       console.log(
-        `${LOG} recipient-resolver: revive ${agentId} did NOT verify (exit ${code}: io did not advance ` +
-          `past revive / boot failed) — NOT revived, surfacing: ${detail}`
+        `${LOG} recipient-resolver: revive ${agentId} did NOT verify (io did not advance ` +
+          `past revive / boot failed) — NOT revived, surfacing: ${settled.detail}`
       )
       return "unverified"
-    }
-    case "failed": {
-      const detail = (stderr.trim() !== "" ? stderr : stdout).trim()
+    case "failed":
       console.error(
-        `${LOG} recipient-resolver: revive ${agentId} FAILED (exit ${code}) — the seat was NOT ` +
-          `revived and the inbound work that matched it is still waiting: ${detail}`
+        `${LOG} recipient-resolver: revive ${agentId} FAILED — the seat was NOT ` +
+          `revived and the inbound work that matched it is still waiting: ${settled.detail}`
       )
       return "failed"
-    }
-    case "benign":
-      return "benign"
     default:
-      return assertNever(signal)
+      return assertNever(settled)
   }
 }

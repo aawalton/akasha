@@ -14,6 +14,16 @@ export const seatResume = {
     {
       invariantKind: "departure",
       statement:
+        "The command reads the arguments and writes the answer, and the functions it calls do neither.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A revive whose io did not advance is a verdict to the caller and exit three from the command.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A gated restart clears when the restart is armed rather than when a supervisor is up.",
     },
     {
@@ -36,6 +46,11 @@ export const seatResume = {
     {
       invariantKind: "departure",
       statement: "A launch flag handed to a live seat is refused rather than quietly ignored.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The seat this process itself sits in is read from its own environment where the caller states none.",
     },
   ],
 } as const satisfies Module

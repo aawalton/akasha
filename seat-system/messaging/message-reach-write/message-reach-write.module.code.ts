@@ -78,10 +78,9 @@ export async function reaching(
 export async function revived(reached: Reaching, relPath: string): Promise<string | null> {
   if (reached.kind !== "reached" || reached.at.reviveId === null) return null
   const woke = await resumeSeat(reached.at.reviveId)
-  if (woke.code === 0) return null
-  const detail = (woke.stderr.trim() !== "" ? woke.stderr : woke.stdout).trim()
+  if (woke.kind === "woke") return null
   return (
-    `the message is at ${relPath} and reviving ${reached.at.reviveId} to read it exited ` +
-    `${woke.code}: ${detail.slice(0, DETAIL)}`
+    `the message is at ${relPath} and reviving ${reached.at.reviveId} to read it did not ` +
+    `land: ${woke.reason.slice(0, DETAIL)}`
   )
 }

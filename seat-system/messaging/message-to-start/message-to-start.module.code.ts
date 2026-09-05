@@ -1,10 +1,8 @@
-import { type ChildProcess, spawn } from "node:child_process"
-import { writeFile } from "node:fs/promises"
-import type { Readable } from "node:stream"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { handlerDerives } from "../../seat-answering/seat-answering.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "../../seat-modes/seat-modes.module.code.ts"
-import { REPO_ROOT } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
+import { resumeSeat as putTheSeatBack } from "../../seat-resume/seat-resume.module.code.ts"
+import { startSeat as startTheSeat } from "../../seat-start/seat-start.module.code.ts"
 import {
   decideRecipient,
   names,
@@ -16,66 +14,39 @@ import {
 
 const PATIENCE_MS = 120_000
 
-const AKASHA_BIN = "dotfiles/bin"
+const DETAIL = 400
 
-const AKASHA_COMMAND = "akasha"
+type Ended<T> =
+  | { readonly kind: "done"; readonly value: T }
+  | { readonly kind: "failed"; readonly why: string }
+  | { readonly kind: "outran" }
 
-function reachingAkasha(
-  env: Record<string, string | undefined>
-): Record<string, string | undefined> {
-  const dir = `${rootFor(resolveRoots(), AKASHA)}/${AKASHA_BIN}`
-  const path = env.PATH ?? ""
-  return path.split(":").includes(dir) ? env : { ...env, PATH: `${dir}:${path}` }
-}
-
-export interface Ran {
-  readonly code: number
-  readonly stdout: string
-  readonly stderr: string
-}
-
-function textOf(stream: Readable | null): Promise<string> {
-  if (stream === null) return Promise.resolve("")
-  return new Promise((resolve) => {
-    let held = ""
-    stream.setEncoding("utf8")
-    stream.on("data", (chunk: string) => {
-      held += chunk
+// NOTHING HERE CAN BE KILLED, SO WHAT OUTRUNS ITS PATIENCE IS LEFT RATHER THAN ENDED. The work goes
+// on in this process; what the patience bounds is how long a delivery waits on it before refusing.
+async function inTime<T>(work: () => Promise<T>): Promise<Ended<T>> {
+  let timer: ReturnType<typeof setTimeout> | undefined
+  const settled = work().then(
+    (value): Ended<T> => ({ kind: "done", value }),
+    (err: unknown): Ended<T> => ({
+      kind: "failed",
+      why: err instanceof Error ? err.message : String(err),
     })
-    stream.on("end", () => resolve(held))
-    stream.on("error", () => resolve(held))
-  })
-}
-
-function exitOf(proc: ChildProcess): Promise<number> {
-  return new Promise((resolve) => {
-    proc.on("close", (code) => resolve(code ?? -1))
-    proc.on("error", () => resolve(-1))
-  })
-}
-
-async function run(
-  argv: readonly string[],
-  env: Record<string, string | undefined> = process.env
-): Promise<Ran> {
-  const [command, ...rest] = argv
-  const proc = spawn(command ?? "", rest, {
-    cwd: REPO_ROOT,
-    stdio: ["ignore", "pipe", "pipe"],
-    env: reachingAkasha(env),
-  })
-  const collect = Promise.all([textOf(proc.stdout), textOf(proc.stderr), exitOf(proc)])
-  const settled = await Promise.race([
-    collect,
-    new Promise<null>((resolve) => setTimeout(() => resolve(null), PATIENCE_MS)),
-  ])
-  if (settled === null) {
-    proc.kill()
-    void collect.catch(() => {})
-    return { code: -1, stdout: "", stderr: `no answer inside ${PATIENCE_MS}ms` }
+  )
+  try {
+    return await Promise.race([
+      settled,
+      new Promise<Ended<T>>((resolve) => {
+        timer = setTimeout(() => resolve({ kind: "outran" }), PATIENCE_MS)
+      }),
+    ])
+  } finally {
+    if (timer !== undefined) clearTimeout(timer)
   }
-  const [stdout, stderr, code] = settled
-  return { code, stdout, stderr }
+}
+
+function whyItDidNot<T>(ended: Ended<T>): string {
+  if (ended.kind === "failed") return ended.why
+  return `no answer inside ${PATIENCE_MS}ms`
 }
 
 export function bootPromptFor(domain: string, role: string, body: string): string {
@@ -91,22 +62,6 @@ export function bootPromptFor(domain: string, role: string, body: string): strin
 export type Started =
   | { readonly kind: "started"; readonly id: string }
   | { readonly kind: "refuse"; readonly reason: string }
-
-export interface StartedSeat {
-  readonly id: string
-  readonly name: string
-}
-
-export function readStartedSeat(stdout: string): StartedSeat | null {
-  for (const line of stdout.split("\n")) {
-    const [id, name, startMode] = line.split("\t")
-    if (startMode?.trim() !== SEAT_MODE_HEADLESS) continue
-    const named = (id ?? "").trim()
-    if (named === "") continue
-    return { id: named, name: (name ?? "").trim() }
-  }
-  return null
-}
 
 export function answersToAPerson(domain: string, role: string): boolean {
   return handlerDerives(rootFor(resolveRoots(), AKASHA), role, domain).principal !== null
@@ -127,42 +82,41 @@ export async function startSeat(
         "work done states an agent it is done for, or the work waits for one.",
     }
   }
-  const prompt = `/var/tmp/message-to-boot-${process.pid}-${Date.now()}.md`
-  await writeFile(prompt, bootPromptFor(domain, role, body), "utf8")
 
-  const ran = await run(
-    [
-      AKASHA_COMMAND,
-      "seat",
-      "start",
-      "--start-mode",
-      SEAT_MODE_HEADLESS,
-      "--domain",
+  const ended = await inTime(() =>
+    startTheSeat({
+      startMode: SEAT_MODE_HEADLESS,
       domain,
-      "--role",
       role,
-      "--prompt-file",
-      prompt,
-    ],
-    { ...process.env, AGENT_ID: senderAgentId ?? "" }
+      parent: senderAgentId,
+      prompt: bootPromptFor(domain, role, body),
+    })
   )
+  if (ended.kind === "done") return { kind: "started", id: ended.value.agentId }
 
-  const started = ran.code === 0 ? readStartedSeat(ran.stdout) : null
-  if (started === null) {
-    const detail = (ran.stderr.trim() !== "" ? ran.stderr : ran.stdout).trim()
+  return {
+    kind: "refuse",
+    reason:
+      `nothing live states domain '${domain}' and role '${role}', and starting a seat for it ` +
+      `failed: ${whyItDidNot(ended).slice(0, DETAIL)}`,
+  }
+}
+
+export type Woke = { readonly kind: "woke" } | { readonly kind: "refuse"; readonly reason: string }
+
+export async function resumeSeat(agentId: string): Promise<Woke> {
+  const ended = await inTime(() => putTheSeatBack({ agentId, verify: true }))
+  if (ended.kind === "done") {
+    const back = ended.value
+    if (back.kind !== "wedged") return { kind: "woke" }
     return {
       kind: "refuse",
       reason:
-        `nothing live states domain '${domain}' and role '${role}', and starting a seat for it ` +
-        `failed (exit ${ran.code}): ${detail.slice(0, 400)}`,
+        `it came back as a process and its io did not advance past the revive within ` +
+        `${back.graceMs}ms`,
     }
   }
-
-  return { kind: "started", id: started.id }
-}
-
-export async function resumeSeat(agentId: string): Promise<Ran> {
-  return await run([AKASHA_COMMAND, "seat", "resume", agentId, "--verify", "--json"])
+  return { kind: "refuse", reason: whyItDidNot(ended).slice(0, DETAIL) }
 }
 
 const READBACK_MS = 15_000

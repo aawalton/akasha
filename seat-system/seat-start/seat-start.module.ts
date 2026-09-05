@@ -14,7 +14,15 @@ export const seatStart = {
     {
       invariantKind: "departure",
       statement:
-        "The parent is read from this process's own environment rather than from an argument.",
+        "The command reads the arguments and writes the answer, and the function it calls does neither.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The parent a caller states is the parent the seat is given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start stating no parent reads the parent from this process's own environment.",
     },
     {
       invariantKind: "departure",
@@ -24,6 +32,11 @@ export const seatStart = {
     {
       invariantKind: "departure",
       statement: "A seat no page was written for is refused rather than launched blank.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A headless start answers the pid it launched and an interactive one answers none.",
     },
   ],
 } as const satisfies Module

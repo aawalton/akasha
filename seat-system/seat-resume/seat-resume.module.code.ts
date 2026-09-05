@@ -12,7 +12,7 @@ import {
   launchSeatUnderTmux,
   respawnSeatUnderTmux,
 } from "@akasha/seat-system/launch-seat-tmux"
-import { resumeSeat } from "@akasha/seat-system/resume-seat"
+import { resumeSeat as relaunchStoppedSeat } from "@akasha/seat-system/resume-seat"
 import { liveResumeVerifySleep, resumeAndVerify } from "@akasha/seat-system/resume-verify"
 import {
   describeAckTimeout,
@@ -30,9 +30,14 @@ import {
 } from "@akasha/seat-system/seat-modes"
 import { sweepSupersededAgentTrees } from "@akasha/seat-system/seat-recovery"
 import { HELP } from "@akasha/seat-system/seat-resume-help"
+import type { ReviveIoVerdict } from "@akasha/seat-system/seat-revive-io-verify-decide"
 import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
 import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
-import { resolveTakeoverTarget, takeoverSeat } from "@akasha/seat-system/takeover-seat"
+import {
+  resolveTakeoverTarget,
+  type TakenSeat,
+  takeoverSeat,
+} from "@akasha/seat-system/takeover-seat"
 import { readStdinOrFile } from "@akasha/utils-fs/read-stdin-or-file"
 import { shape } from "@akasha/utils-narrow/shape"
 import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
@@ -49,6 +54,7 @@ const LAUNCH_ONLY = [
 ] as const
 
 const SELF_ACTION = "restart" as const
+
 const SELF_STATUS = "queued-on-idle" as const
 
 async function readPromptFile(path: string): Promise<string> {
@@ -93,6 +99,207 @@ interface Launched {
   readonly status: string
 }
 
+// WHAT A RESUME IS ASKED FOR IS STATED RATHER THAN SPELLED. A caller reaching in holds an agent id
+// and a boot prompt as values already, so nothing has to write them out as a command line for a
+// second process to read them back in.
+export interface ResumeSeatRequest {
+  readonly agentId: string
+  readonly verify?: boolean
+  readonly graceMs?: number
+  readonly force?: boolean
+  readonly now?: boolean
+  readonly prompt?: string
+  readonly bootPrompt?: string
+  // THE SEAT THIS PROCESS ITSELF SITS IN IS READ FROM ITS OWN ENVIRONMENT WHERE THE CALLER STATES
+  // NONE. A seat asked to resume itself queues the restart instead of launching a second supervisor
+  // over the session it is holding open.
+  readonly selfAgentId?: string | null
+}
+
+// A WEDGED REVIVE IS A VERDICT HERE AND AN EXIT CODE AT THE COMMAND. The seat did come back as a
+// process, so this is an answer about the seat rather than a failure to act on it.
+export type ResumedSeat =
+  | { readonly kind: "queued"; readonly agentId: string; readonly status: string }
+  | {
+      readonly kind: "cycled"
+      readonly agentId: string
+      readonly name: string
+      readonly status: string
+    }
+  | {
+      readonly kind: "relaunched"
+      readonly agentId: string
+      readonly name: string
+      readonly pid: number
+      readonly sessionId: string | undefined
+      readonly status: string
+      readonly verify: ReviveIoVerdict | undefined
+    }
+  | {
+      readonly kind: "wedged"
+      readonly agentId: string
+      readonly name: string
+      readonly graceMs: number
+    }
+
+export interface ResumeSeatInteractivelyRequest {
+  readonly named: string
+  readonly force?: boolean
+  readonly launch?: boolean
+}
+
+interface RelaunchInput {
+  readonly agentId: string
+  readonly verify: boolean
+  readonly graceMs: number
+  readonly prompt: string | undefined
+  readonly bootPrompt: string | undefined
+}
+
+// A LAUNCH-ONLY VALUE IS NAMED BY THE FLAG THAT SPELLS IT SO THE REFUSAL READS THE SAME FROM A
+// COMMAND LINE AND FROM A CALL. What is refused is the value being stated at all, not how it arrived.
+function launchOnlyStated(request: ResumeSeatRequest): readonly string[] {
+  const named: string[] = []
+  if (request.prompt !== undefined) named.push("--prompt")
+  if (request.bootPrompt !== undefined) named.push("--boot-prompt")
+  if (request.verify === true) named.push("--verify")
+  if (request.graceMs !== undefined) named.push("--grace")
+  return named
+}
+
+async function relaunch(input: RelaunchInput): Promise<ResumedSeat> {
+  const { agentId, verify, graceMs, prompt, bootPrompt } = input
+
+  if (verify) {
+    const { handle, verdict } = await resumeAndVerify(
+      { agentId, graceMs, prompt, bootPrompt },
+      {
+        revive: relaunchStoppedSeat,
+        sampleTranscriptMtimeMs: readTranscriptMtimeMs,
+        sampleOwnedRowUpdatedAtMs: () => null,
+        now: Date.now,
+        sleep: liveResumeVerifySleep,
+      }
+    )
+    if (verdict === "wedged") {
+      return { kind: "wedged", agentId: handle.agentId, name: handle.name, graceMs }
+    }
+    await sweepSupersededAgentTrees(agentId, handle.pid)
+    return {
+      kind: "relaunched",
+      agentId: handle.agentId,
+      name: handle.name,
+      pid: handle.pid,
+      sessionId: handle.sessionId,
+      status: handle.status,
+      verify: verdict,
+    }
+  }
+
+  const handle = await relaunchStoppedSeat({ agentId, prompt, bootPrompt })
+  await sweepSupersededAgentTrees(agentId, handle.pid)
+  return {
+    kind: "relaunched",
+    agentId: handle.agentId,
+    name: handle.name,
+    pid: handle.pid,
+    sessionId: handle.sessionId,
+    status: handle.status,
+    verify: undefined,
+  }
+}
+
+async function cycleInPlace(
+  agentId: string,
+  now: boolean,
+  relaunchInput: RelaunchInput
+): Promise<ResumedSeat> {
+  await setRequestedAction(agentId, { action: now ? "restart-now" : "restart" })
+  const outcome = await waitForActionCleared(agentId)
+  if (outcome.ok) {
+    const status = now ? "restarted" : SELF_STATUS
+    if (now) {
+      await sweepSupersededAgentTrees(agentId, seatRecord(agentId)?.supervisorPid ?? undefined)
+    }
+    const name = seatRecord(agentId)?.name ?? agentId
+    return { kind: "cycled", agentId, name, status }
+  }
+
+  if (!holdsLive(agentId)) return await relaunch(relaunchInput)
+  throw operationalError(describeAckTimeout("restart", outcome.reason))
+}
+
+export async function resumeSeat(request: ResumeSeatRequest): Promise<ResumedSeat> {
+  const { agentId } = request
+  const verify = request.verify === true
+  const graceMs = request.graceMs ?? DEFAULT_VERIFY_GRACE_MS
+  const self = request.selfAgentId === undefined ? readSelfAgentId() : request.selfAgentId
+
+  if (self === agentId) {
+    await setRequestedAction(agentId, { action: SELF_ACTION })
+    return { kind: "queued", agentId, status: SELF_STATUS }
+  }
+
+  const seat = seatRecord(agentId)
+  if (seat === null) throw dataError(`No seat found matching '${agentId}'`)
+
+  const relaunchInput: RelaunchInput = {
+    agentId,
+    verify,
+    graceMs,
+    prompt: request.prompt,
+    bootPrompt: request.bootPrompt,
+  }
+
+  if (holdsLive(agentId)) {
+    const launching = launchOnlyStated(request)
+    if (launching.length > 0) {
+      throw inputError(
+        `agent '${seat.name ?? agentId}' is live, and ${launching.join(", ")} ` +
+          `${launching.length === 1 ? "speaks" : "speak"} to a LAUNCH. A running seat already has a ` +
+          "turn, so there is no first turn to give it and no transcript to hydrate: it is cycled " +
+          "in place instead. Hand it work with `ops seat send`, which reaches a live seat and " +
+          `revives a stopped one, or stop it first with \`akasha seat supervisor stop ${seat.name ?? agentId}\`.`
+      )
+    }
+    refuseWhereSubagentsWork(agentId, request.force === true)
+    return await cycleInPlace(agentId, request.now === true, relaunchInput)
+  }
+
+  return await relaunch(relaunchInput)
+}
+
+export async function resumeSeatInteractively(
+  request: ResumeSeatInteractivelyRequest
+): Promise<TakenSeat> {
+  const target = await resolveTakeoverTarget(request.named)
+  refuseWhereSubagentsWork(target, request.force === true)
+  const standing = seatRecord(target)?.name ?? null
+  if (standing !== null) await holdSeatPaneOpen(standing)
+  const taken = await takeoverSeat(target)
+  if (request.launch !== false) {
+    if (taken.name === null) {
+      throw dataError(
+        `seat '${taken.agentId}' spells no name, so there is no session for a terminal to ` +
+          "attach to. Bring it back with `--start-mode headless`, which needs none."
+      )
+    }
+    const seatLaunch = {
+      name: taken.name,
+      agentId: taken.agentId,
+      account: DEFAULT_ACCOUNT,
+      prompt: "",
+      mode: SEAT_MODE_INTERACTIVE,
+      resumeSessionId: taken.sessionId,
+    }
+    if (!(await respawnSeatUnderTmux(seatLaunch))) {
+      await killSeatSession(taken.name)
+      await launchSeatUnderTmux(seatLaunch)
+    }
+  }
+  return taken
+}
+
 function emitLaunched(handle: Launched, json: boolean, verify?: string): undefined {
   if (json) {
     process.stdout.write(
@@ -104,73 +311,35 @@ function emitLaunched(handle: Launched, json: boolean, verify?: string): undefin
   process.stdout.write(`${handle.agentId}\t${handle.name}\t${handle.status}${tail}\n`)
 }
 
-interface RelaunchInput {
-  readonly agentId: string
-  readonly json: boolean
-  readonly verify: boolean
-  readonly graceMs: number
-  readonly prompt: string | undefined
-  readonly bootPrompt: string | undefined
-}
-
-async function relaunch(input: RelaunchInput): Promise<void> {
-  const { agentId, json, verify, graceMs, prompt, bootPrompt } = input
-
-  if (verify) {
-    const { handle, verdict } = await resumeAndVerify(
-      { agentId, graceMs, prompt, bootPrompt },
-      {
-        revive: resumeSeat,
-        sampleTranscriptMtimeMs: readTranscriptMtimeMs,
-        sampleOwnedRowUpdatedAtMs: () => null,
-        now: Date.now,
-        sleep: liveResumeVerifySleep,
-      }
+function emitResumed(resumed: ResumedSeat, json: boolean): undefined {
+  if (resumed.kind === "wedged") {
+    throw operationalError(
+      `agent '${resumed.name}' revived process-alive but io did NOT advance past the revive ` +
+        `within ${resumed.graceMs}ms — a revive-into-menu-wedge: the resumed session is parked at the ` +
+        "compaction resume menu, not progressing. Report it (do NOT re-revive — that only re-parks)."
     )
-    if (verdict === "wedged") {
-      throw operationalError(
-        `agent '${handle.name}' revived process-alive but io did NOT advance past the revive ` +
-          `within ${graceMs}ms — a revive-into-menu-wedge: the resumed session is parked at the ` +
-          "compaction resume menu, not progressing. Report it (do NOT re-revive — that only re-parks)."
-      )
-    }
-    await sweepSupersededAgentTrees(agentId, handle.pid)
-    emitLaunched(handle, json, verdict)
-    return
   }
-
-  const handle = await resumeSeat({ agentId, prompt, bootPrompt })
-  await sweepSupersededAgentTrees(agentId, handle.pid)
-  emitLaunched(handle, json)
-}
-
-async function cycleInPlace(
-  agentId: string,
-  json: boolean,
-  now: boolean,
-  relaunchInput: RelaunchInput
-): Promise<void> {
-  await setRequestedAction(agentId, { action: now ? "restart-now" : "restart" })
-  const outcome = await waitForActionCleared(agentId)
-  if (outcome.ok) {
-    const status = now ? "restarted" : SELF_STATUS
-    if (now) {
-      await sweepSupersededAgentTrees(agentId, seatRecord(agentId)?.supervisorPid ?? undefined)
-    }
-    const name = seatRecord(agentId)?.name ?? agentId
+  if (resumed.kind === "queued") {
     if (json) {
-      process.stdout.write(`${JSON.stringify({ agent_id: agentId, name, status })}\n`)
-    } else {
-      process.stdout.write(`${agentId}\t${name}\t${status}\n`)
+      process.stdout.write(
+        `${JSON.stringify({ agent_id: resumed.agentId, status: resumed.status })}\n`
+      )
+      return
     }
+    process.stdout.write(`${resumed.agentId}\t${resumed.status}\n`)
     return
   }
-
-  if (!holdsLive(agentId)) {
-    await relaunch(relaunchInput)
+  if (resumed.kind === "cycled") {
+    if (json) {
+      process.stdout.write(
+        `${JSON.stringify({ agent_id: resumed.agentId, name: resumed.name, status: resumed.status })}\n`
+      )
+      return
+    }
+    process.stdout.write(`${resumed.agentId}\t${resumed.name}\t${resumed.status}\n`)
     return
   }
-  throw operationalError(describeAckTimeout("restart", outcome.reason))
+  emitLaunched(resumed, json, resumed.verify)
 }
 
 export default async function seatResume(args: readonly string[]): Promise<void> {
@@ -193,7 +362,7 @@ export default async function seatResume(args: readonly string[]): Promise<void>
     throw inputError("--boot-prompt payload is empty")
   }
   const graceArg = parsed.string("--grace")
-  const graceMs = graceArg != null ? await graceWindowMs(graceArg) : DEFAULT_VERIFY_GRACE_MS
+  const graceMs = graceArg != null ? await graceWindowMs(graceArg) : undefined
 
   const startMode = parsed.string("--start-mode") ?? SEAT_MODE_HEADLESS
   if (!isSeatMode(startMode)) {
@@ -219,31 +388,11 @@ export default async function seatResume(args: readonly string[]): Promise<void>
         "[ops] seat not named — pass --agent-id <uuid|prefix|name> or set the AGENT_ID env var"
       )
     }
-    const target = await resolveTakeoverTarget(named)
-    refuseWhereSubagentsWork(target, force)
-    const standing = seatRecord(target)?.name ?? null
-    if (standing !== null) await holdSeatPaneOpen(standing)
-    const taken = await takeoverSeat(target)
-    if (!parsed.boolean("--no-launch")) {
-      if (taken.name === null) {
-        throw dataError(
-          `seat '${taken.agentId}' spells no name, so there is no session for a terminal to ` +
-            "attach to. Bring it back with `--start-mode headless`, which needs none."
-        )
-      }
-      const seatLaunch = {
-        name: taken.name,
-        agentId: taken.agentId,
-        account: DEFAULT_ACCOUNT,
-        prompt: "",
-        mode: startMode,
-        resumeSessionId: taken.sessionId,
-      }
-      if (!(await respawnSeatUnderTmux(seatLaunch))) {
-        await killSeatSession(taken.name)
-        await launchSeatUnderTmux(seatLaunch)
-      }
-    }
+    const taken = await resumeSeatInteractively({
+      named,
+      force,
+      launch: !parsed.boolean("--no-launch"),
+    })
     if (json) {
       process.stdout.write(
         `${JSON.stringify({ agent_id: taken.agentId, name: taken.name, session_id: taken.sessionId, took_over: taken.tookOver })}\n`
@@ -256,37 +405,16 @@ export default async function seatResume(args: readonly string[]): Promise<void>
 
   const agentId = await resolveSeatTargetFromFlagOrEnv(parsed.string("--agent-id"))
 
-  if (readSelfAgentId() === agentId) {
-    await setRequestedAction(agentId, { action: SELF_ACTION })
-    if (json) {
-      process.stdout.write(`${JSON.stringify({ agent_id: agentId, status: SELF_STATUS })}\n`)
-    } else {
-      process.stdout.write(`${agentId}\t${SELF_STATUS}\n`)
-    }
-    return
-  }
-
-  const seat = seatRecord(agentId)
-  if (seat === null) throw dataError(`No seat found matching '${agentId}'`)
-
-  const relaunchInput: RelaunchInput = { agentId, json, verify, graceMs, prompt, bootPrompt }
-
-  if (holdsLive(agentId)) {
-    if (launching.length > 0) {
-      throw inputError(
-        `agent '${seat.name ?? agentId}' is live, and ${launching.join(", ")} ` +
-          `${launching.length === 1 ? "speaks" : "speak"} to a LAUNCH. A running seat already has a ` +
-          "turn, so there is no first turn to give it and no transcript to hydrate: it is cycled " +
-          "in place instead. Hand it work with `ops seat send`, which reaches a live seat and " +
-          `revives a stopped one, or stop it first with \`akasha seat supervisor stop ${seat.name ?? agentId}\`.`
-      )
-    }
-    refuseWhereSubagentsWork(agentId, force)
-    await cycleInPlace(agentId, json, parsed.boolean("--now"), relaunchInput)
-    return
-  }
-
-  await relaunch(relaunchInput)
+  const resumed = await resumeSeat({
+    agentId,
+    verify,
+    graceMs,
+    force,
+    now: parsed.boolean("--now"),
+    prompt,
+    bootPrompt,
+  })
+  emitResumed(resumed, json)
 }
 
 export const help = HELP
