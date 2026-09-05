@@ -10,7 +10,7 @@ export const monarchEvalRun = {
     {
       invariantKind: "departure",
       statement:
-        "The held-out pool is read once: a run over a file that already stands is refused unless it is said that a figure had already been seen.",
+        "A run over a file that is already there is refused unless a figure is said to have been seen.",
     },
     {
       invariantKind: "departure",

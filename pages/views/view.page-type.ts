@@ -112,8 +112,11 @@ export const view = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A person edits a view from the interface that draws it, so its values are written by the browser rather than authored.",
+      statement: "A person edits a view from the interface that draws that view.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A view's values are written by the browser rather than authored.",
     },
     {
       invariantKind: "departure",

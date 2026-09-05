@@ -27,8 +27,7 @@ export const pushNotifying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The cursor moves past each notification and only ever forward, so nothing it has passed is offered a second time.",
+      statement: "The cursor moves past each notification and only ever forward.",
     },
     {
       invariantKind: "absence",

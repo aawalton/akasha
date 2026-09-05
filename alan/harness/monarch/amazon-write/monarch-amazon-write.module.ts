@@ -18,7 +18,7 @@ export const monarchAmazonWrite = {
     {
       invariantKind: "departure",
       statement:
-        "A row whose note already ends in the order number has its order number recorded even though nothing was written, so a half-done write repairs itself.",
+        "A row whose note ends in the order number has that number recorded though nothing was written.",
     },
     {
       invariantKind: "departure",

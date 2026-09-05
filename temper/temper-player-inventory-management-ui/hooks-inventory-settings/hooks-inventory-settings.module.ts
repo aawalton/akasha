@@ -25,8 +25,11 @@ export const hooksInventorySettings = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The item rules and the buy rules are still read from the settings blob, which answers with the ending of its file rather than its body.",
+      statement: "The item rules and the buy rules are still read from the settings blob.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The settings blob answers with the ending of its file rather than its body.",
     },
   ],
 } as const satisfies Module

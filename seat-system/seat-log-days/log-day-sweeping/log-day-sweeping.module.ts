@@ -27,8 +27,11 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The removal is composed by a daemon rather than authored, so it lands mechanically, in process, owing no read record.",
+      statement: "The removal is composed by a daemon rather than authored.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The removal lands mechanically, in process, owing no read record.",
     },
     {
       invariantKind: "departure",

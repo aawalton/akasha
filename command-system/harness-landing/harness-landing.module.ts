@@ -9,8 +9,7 @@ export const harnessLanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Bodies land, removals unlink and carries rename before anything commits, so a failed commit is no no-op.",
+      statement: "Bodies land, removals unlink and carries rename before anything commits.",
     },
     {
       invariantKind: "departure",

@@ -32,8 +32,11 @@ export const accountUpkeepStallReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Eligibility is judged from the usage numbers alone with no regard for their age, so upkeep stopping freezes the pool at whatever it last read.",
+      statement: "Eligibility is judged from the usage numbers alone with no regard for their age.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Upkeep stopping freezes the pool at whatever upkeep last read.",
     },
     {
       invariantKind: "departure",

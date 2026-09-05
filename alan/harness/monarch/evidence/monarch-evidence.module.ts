@@ -20,7 +20,7 @@ export const monarchEvidence = {
     {
       invariantKind: "departure",
       statement:
-        "The rows around a transaction are drawn from every account rather than only its own, which is how the other leg of a movement between accounts is found.",
+        "The rows around a transaction are drawn from every account rather than only its own.",
     },
     {
       invariantKind: "departure",

@@ -48,7 +48,7 @@ export const monarchAccount = {
     {
       invariantKind: "departure",
       statement:
-        "Monarch reopens a closed account under a second id rather than reviving the first, so two accounts carry the same last four digits.",
+        "Monarch reopens a closed account under a second id rather than reviving the first.",
     },
     {
       invariantKind: "departure",
