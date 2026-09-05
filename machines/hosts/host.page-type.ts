@@ -39,7 +39,7 @@ export const host = {
     },
     {
       invariantKind: "departure",
-      statement: "A host's definition and its title alike say what the host is.",
+      statement: "A host's definition and its title alike name the host.",
     },
   ],
 } as const satisfies PageType
