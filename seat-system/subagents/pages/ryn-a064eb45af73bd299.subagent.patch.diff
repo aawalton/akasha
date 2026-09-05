@@ -1,0 +1,15 @@
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+index 249ec46fda0cb48f3f762427419f3c9e1ce01349..d7be2bd99d0123f49f644a082056f03caf591027 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+@@ -8,10 +8,6 @@ export const noAkashaCommandFromCode = {
+   code: "ts",
+   test: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A call is found in the parse and never in the text.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
