@@ -14,7 +14,7 @@ export const supabaseClient = {
     },
     {
       invariantKind: "departure",
-      statement: "What is made here reaches only what the signed-in person may reach.",
+      statement: "The client made here reaches only as far as the signed-in person may.",
     },
   ],
 } as const satisfies WorkspacePackage
