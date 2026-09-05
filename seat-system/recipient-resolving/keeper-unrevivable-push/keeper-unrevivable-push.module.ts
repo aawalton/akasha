@@ -13,7 +13,8 @@ export const keeperUnrevivablePush = {
     },
     {
       invariantKind: "departure",
-      statement: "What is said states that nothing was restarted and the work is still waiting.",
+      statement:
+        "The notification and the message state that nothing was restarted and the work is still waiting.",
     },
   ],
 } as const satisfies Module
