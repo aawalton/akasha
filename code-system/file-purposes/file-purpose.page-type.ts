@@ -15,12 +15,12 @@ export const filePurpose = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A purpose is told from a file's name rather than from what the file holds.",
+      statement: "A purpose is told from a file's name rather than from the file's body.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A kind says what a file is written in and a purpose says what that file is written for.",
+        "A kind says the format a file is written in and a purpose says the use that file is written for.",
     },
     {
       invariantKind: "departure",
