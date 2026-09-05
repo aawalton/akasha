@@ -20,7 +20,8 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal says what the call would destroy rather than that it looks unusual.",
+      statement:
+        "A refusal says what the call would destroy rather than that the call looks unusual.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +31,7 @@ export const blockDestructiveGit = {
     {
       invariantKind: "departure",
       statement:
-        "A prefix that only runs the call behind it does not hide a git act from this hook.",
+        "A prefix that only runs the call behind that prefix does not hide a git act from this hook.",
     },
     {
       invariantKind: "absence",
