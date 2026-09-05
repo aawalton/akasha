@@ -30,6 +30,17 @@ const THIRD = "akasha/three/held.module.ts"
 
 const RENAMED = "akasha/one/renamed.module.code.ts"
 
+const MODULE_TYPE = "akasha/module.page-type.ts"
+
+const MODULE_BODY = `export const it = {
+  id: "01a0721d-c28b-76d2-b22f-a96dd24101de",
+  pageTypeSlug: "page-type",
+  slug: "module",
+  extendsSlug: [],
+  properties: [],
+} as const
+`
+
 const PAGE_BODY = `export const held = {
   id: "01a07208-15e6-7d2c-8eaf-f75a94c6b98a",
   pageTypeSlug: "module",
@@ -54,7 +65,8 @@ function worldWith(
 ): string {
   const root = scratch.rootFor("akasha-siding-")
   gitIn(root, ["init", "--quiet"])
-  for (const [path, body] of Object.entries({ ...declaringUnder(TREE), ...named })) {
+  const vocabulary = { ...declaringUnder(TREE), [MODULE_TYPE]: MODULE_BODY }
+  for (const [path, body] of Object.entries({ ...vocabulary, ...named })) {
     const at = join(root, path)
     mkdirSync(join(at, ".."), { recursive: true })
     writeFileSync(at, body)
