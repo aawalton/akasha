@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+index 0b76d3809b2f23bc5411bbe09faed6672d6930b1..dc35378623dfdf2a691d45cb5dd54405f8648653 100644
+--- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
++++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+@@ -20,7 +20,7 @@ export const rynTrainedParser = {
+     {
+       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
+       workingMemory:
+-        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. lone-pronoun missed 46% of free relatives until a101cff357, on two counts: the parser tags `what` a determiner about half the time, and a free relative's head-word lands on ccomp, acl:relcl or a det label. Recall came from an ensemble of narrow rules, 514 matches to 613, no false positive found. The other three shapes have not been measured this way and should be assumed to have holes of their own.",
++        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. A census over 24,642 invariant statements finds lone-pronoun matching 186, and no free relative among them: that family is finished. All 186 are pronouns whose noun sits in the same sentence, and whether the shape goes on refusing those is Alan's. The other three shapes have never been measured over the tree.",
+     },
+     {
+       statement: "Whether akasha writes in the passive is decided.",
