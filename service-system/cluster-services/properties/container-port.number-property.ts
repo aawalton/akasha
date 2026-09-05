@@ -12,7 +12,7 @@ export const containerPort = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What reaches the container from inside the cluster arrives here.",
+      statement: "Traffic reaching the container from inside the cluster arrives here.",
     },
   ],
 } as const satisfies NumberProperty
