@@ -13,7 +13,7 @@ export const addonRemovedRefsManifest = {
     },
     {
       invariantKind: "constraint",
-      statement: "Every global named here states what took the removed add-on's place.",
+      statement: "Every global named here states the remedy that took the removed add-on's place.",
     },
   ],
 } as const satisfies Module
