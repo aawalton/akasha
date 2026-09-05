@@ -55,7 +55,7 @@ index 58f21e09db9a2844a409ab83ec1512d414878e51..4ef31f9bfee1d7750ba4380598620311
    return answered(reading, under, asked, (held) => importersIn(held, path))
  }
 diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
-index 76d21dab0f56cfc20bd9573be8913ce13af71825..cf12d8e36bd5a5d35272f1d46d37daf8d2923cfb 100644
+index 76d21dab0f56cfc20bd9573be8913ce13af71825..e3591553587b24b98b4042e5bb2bf00e87892a4f 100644
 --- a/pages/shadow/shadow.module.code.ts
 +++ b/pages/shadow/shadow.module.code.ts
 @@ -61,10 +61,6 @@ function nothingMoved(change: Change): boolean {
@@ -103,3 +103,12 @@ index 76d21dab0f56cfc20bd9573be8913ce13af71825..cf12d8e36bd5a5d35272f1d46d37daf8
    }
    const carried = new Set(change.changed)
    const filed = filedOver(readingIn(change.root), body)
+@@ -125,7 +117,7 @@ function castOver(change: Change): Cast {
+     }))
+     const settled = settlingOver(readingIn(change.root), change.root, moving, pageOf)
+     const reading = settled.reading
+-    const index = answeringOver(reading, heldToHead(change), pageOf)
++    const index = answeringOver(reading, pageOf)
+     const filed = (): readonly Filing[] => settled.filings
+     return { shadow: { index, filed, pageOf, codeAt: codeOver(change) }, reading }
+   } catch (thrown) {
