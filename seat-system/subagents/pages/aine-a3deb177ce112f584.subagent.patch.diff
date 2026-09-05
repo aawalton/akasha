@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
-index 85998ba42875bff2b35030b405db658bb566b2cc..8c67bba476f6a50555497486d51d1fa9220107b6 100644
+index 85998ba42875bff2b35030b405db658bb566b2cc..20980728eb6fcfcb5e41683a1805264d496b8b73 100644
 --- a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
 @@ -47,10 +47,10 @@ export const SCOPE: readonly string[] = [
@@ -15,6 +15,15 @@ index 85998ba42875bff2b35030b405db658bb566b2cc..8c67bba476f6a50555497486d51d1fa9
    "the program says about itself, held as the text it prints rather than as a comment.",
  ]
  
+@@ -108,7 +108,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
+   }
+   const commands = "The akasha commands write this checkout — they check the change and commit it."
+   const why = '--message "<what this change is for>"'
+-  const bound = `nothing outside this checkout is refused here, and \`${HOLD}\` stands outside it.`
++  const bound = `nothing outside this checkout is refused here, and \`${HOLD}\` is outside it.`
+   if (toolName === EDIT) {
+     const was = join(held, `${HOOK_NAME}-${name}.old`)
+     const now = join(held, `${HOOK_NAME}-${name}.new`)
 diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
 index 01580ca1e185f95171575a8f889d0fcb73c2c1ec..48393ee6cdeb107303c200ac9681b2c347fa390d 100644
 --- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
@@ -32,7 +41,7 @@ index 01580ca1e185f95171575a8f889d0fcb73c2c1ec..48393ee6cdeb107303c200ac9681b2c3
  ]
  
 diff --git a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
-index c06570075eac577c0dbb679565a2c8f59e1d73e9..30982f8ef6fc4205ccea9596b5ff0e003c75e894 100644
+index c06570075eac577c0dbb679565a2c8f59e1d73e9..ba109d6856c52b80d17f3f864ccaa8882225e675 100644
 --- a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
 @@ -43,8 +43,8 @@ export const SCOPE: readonly string[] = [
@@ -46,8 +55,21 @@ index c06570075eac577c0dbb679565a2c8f59e1d73e9..30982f8ef6fc4205ccea9596b5ff0e00
    "    checked as usual. A second worktree of this repository is not guarded from here either.",
    "  A call stating no working directory is judged as though it ran here.",
    "",
+@@ -60,10 +60,10 @@ export const SCOPE: readonly string[] = [
+   "NOT REACHED. Each measured against this hook, not supposed:",
+   "  a package script reaching biome. A script carries no `biome` word for this to read, so it",
+   "    runs. The one script whose reach included akasha was the root `lint`, and it was taken",
+-  "    away rather than guessed at here. Every `lint` and `lint:fix` still standing runs inside",
++  "    away rather than guessed at here. Every `lint` and `lint:fix` still there runs inside",
+   "    its own package, and akasha is not a workspace, so none of them reach it. A script named",
+   "    afresh tomorrow would reach it again, and this would not see that either.",
+-  "  `prettier`, which stands in node_modules and writes the same files under a different name",
++  "  `prettier`, which sits in node_modules and writes the same files under a different name",
+   "  every other writer of a tracked file — `sed -i`, `cp`, a redirect, an editor, a script",
+   "  a call another program builds — `sh -c`, `xargs`, `make`, a script file",
+   "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
 diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
-index 909c140961484feabe4cdd30e8f6c98ede2d4834..6d7e14ad9f1bad8d9da0e207970bc898d5f736b9 100644
+index 909c140961484feabe4cdd30e8f6c98ede2d4834..965aaa78d5d391c0065ed6971be7fb80e20f2b92 100644
 --- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
 @@ -42,7 +42,7 @@ export const SCOPE: readonly string[] = [
@@ -59,8 +81,17 @@ index 909c140961484feabe4cdd30e8f6c98ede2d4834..6d7e14ad9f1bad8d9da0e207970bc898
    "    akasha folder is tested as usual. A second worktree of this repository is not guarded",
    "    from here either, which is the same bound `block-akasha-edits` carries.",
    "  A call stating no working directory is judged as though it ran here.",
+@@ -72,7 +72,7 @@ export const SCOPE: readonly string[] = [
+   "not name, and a longer list is a longer search prompt. A gap found here is evidence that",
+   "this guard cannot close its class, not an invitation to extend it.",
+   "",
+-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
++  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
+   "it is what the program says about itself, held as text it prints rather than as a comment.",
+ ]
+ 
 diff --git a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
-index 0e4a65dc74fdada58628df15023d38aa0f370d1c..3b6411d07740c787db8f548037e5201b5998d838 100644
+index 0e4a65dc74fdada58628df15023d38aa0f370d1c..6880ea5605412d2c596b44033a51f976abadc708 100644
 --- a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
 @@ -71,8 +71,8 @@ export const SCOPE: readonly string[] = [
@@ -74,11 +105,20 @@ index 0e4a65dc74fdada58628df15023d38aa0f370d1c..3b6411d07740c787db8f548037e5201b
    "    checked as usual. A second worktree of this repository is not guarded from here either.",
    "  A call stating no working directory is judged as though it ran here.",
    "",
+@@ -101,7 +101,7 @@ export const SCOPE: readonly string[] = [
+   "did not name, and a longer list is a longer search prompt. A gap found here is evidence that",
+   "this guard cannot close its class, not an invitation to extend it.",
+   "",
+-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
++  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
+   "it is what the program says about itself, held as text it prints rather than as a comment.",
+ ]
+ 
 diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts
-index c93f3a9ec9645ba6f40be095b8f9577f8e145054..d8c847c224457c0d28d2e4e77109ffb2d8d28766 100644
+index c93f3a9ec9645ba6f40be095b8f9577f8e145054..71a467dbc1724bb41d3fc21375baeff8ba0f8b09 100644
 --- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts
-@@ -37,7 +37,7 @@ export const SCOPE: readonly string[] = [
+@@ -37,16 +37,16 @@ export const SCOPE: readonly string[] = [
    "NOT REACHED. Each measured against this hook, not supposed:",
    "  a source this does not name, which leaves the record in place rather than guessing at it",
    "  a compaction seen at PreCompact or PostCompact, which this is not registered at",
@@ -87,3 +127,14 @@ index c93f3a9ec9645ba6f40be095b8f9577f8e145054..d8c847c224457c0d28d2e4e77109ffb2
    "  a sibling subagent's record, which belongs to a context this event says nothing about",
    "  a seat's subagents' records when the seat's own context goes, which nothing here takes",
    "  every other record an agent keeps, none of which this reads or writes",
+   "",
+   "The absence of a record from this list is NOT a finding that it survives a replacement. It is",
+   "unexamined. A record that turns out to describe held context belongs beside this one, cleared",
+-  "by the same act, not left standing because this hook did not name it.",
++  "by the same act, not left in place because this hook did not name it.",
+   "",
+-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
++  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
+   "it is what the program says about itself, held as text it prints rather than as a comment.",
+ ]
+ 
