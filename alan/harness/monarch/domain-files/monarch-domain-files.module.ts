@@ -34,10 +34,7 @@ export const monarchDomainFiles = {
       statement:
         "Two rows slugging alike are told apart by Monarch's own id rather than by a number.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A page holds the fields its readers name rather than a copy of Monarch's reply.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every page landed is landed from inside akasha.",
