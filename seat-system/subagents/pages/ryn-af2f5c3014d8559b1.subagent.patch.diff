@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
-index 5925ef690a4dc19a2a2e643f46d0ab80f14216b0..749942a7d09f2892c412e6bb91d53a07e4690cce 100644
+index 5925ef690a4dc19a2a2e643f46d0ab80f14216b0..5f06d1e85dc95105dc56bfa35234101cce58bff6 100644
 --- a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
 +++ b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
-@@ -85,7 +85,7 @@ export const watcherExportSettings = {
+@@ -85,12 +85,12 @@ export const watcherExportSettings = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,9 @@ index 5925ef690a4dc19a2a2e643f46d0ab80f14216b0..749942a7d09f2892c412e6bb91d53a07
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A caller may hand in what settings are read, what rules are read, and what writes the side file.",
++        "A caller may hand in what settings are read, what rules are read, and the write of the side file.",
+     },
+     {
+       invariantKind: "absence",
