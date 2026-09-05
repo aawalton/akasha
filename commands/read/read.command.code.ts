@@ -1,6 +1,7 @@
 import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { warrantedIn } from "@akasha/context/warranting"
+import { akashaSeatPathForCaller } from "@akasha/seat-system/seat-akasha-beside"
 import { bytesAt, textOf } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "../../command-system/differing/differing.module.code.ts"
@@ -56,6 +57,25 @@ export const NO_AGENT = [
   "recorded under nobody is work thrown away.",
   "Say that `AGENT_ID` is unset and stop here, rather than finding a way around it.",
 ].join("\n")
+
+export type SeatAt = (agentId: string) => string | null
+
+// A CALLER IDENTIFIED AND A CALLER SEATED ARE DIFFERENT FAULTS. `NO_AGENT` says nothing named who
+// called; this says who called and that no seat page is filed under that name. Answering the two
+// the same way would send an agent looking for an unset variable that is set.
+export function noSeatFor(agentId: string): string {
+  return [
+    `A read naming no file reads your own seat page, and akasha holds no seat page for \`${agentId}\`,`,
+    "so there is no seat reading here to hand you. You are identified: what is missing is the seat,",
+    "not the agent.",
+    "Name what to read with `--file-path <path>`, and say that your agent id reaches no seat page.",
+  ].join("\n")
+}
+
+function ownSeatIn(agentId: string, seatAt: SeatAt): readonly string[] | null {
+  const at = seatAt(agentId)
+  return at === null ? null : [at]
+}
 
 export type Target = {
   readonly named: string
@@ -116,7 +136,6 @@ function meaning(argv: readonly string[]): Meant {
     }
     return refused(`\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\``)
   }
-  if (paths.length === 0) return refused(`${FILE_PATH} names a file to read, and none was given`)
   return { paths, full, refusal: null }
 }
 
@@ -255,7 +274,12 @@ export function reachedTo(run: Run): number | null {
   return run.through === run.of ? null : run.through
 }
 
-export function readWith(argv: readonly string[], given: Given, thrown: Discard | null): Answer {
+export function readWith(
+  argv: readonly string[],
+  given: Given,
+  thrown: Discard | null,
+  seatAt: SeatAt = akashaSeatPathForCaller
+): Answer {
   if (thrown !== null) {
     return {
       report: [],
@@ -271,7 +295,9 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
   if (agentId === null) return { report: [], refusals: [NO_AGENT], code: 1 }
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
-  const aimed = aiming(meant.paths, given)
+  const named = meant.paths.length > 0 ? meant.paths : ownSeatIn(agentId, seatAt)
+  if (named === null) return { report: [], refusals: [noSeatFor(agentId)], code: 1 }
+  const aimed = aiming(named, given)
   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
   const queue = spreading(aimed.targets, given)
   const report: string[] = []

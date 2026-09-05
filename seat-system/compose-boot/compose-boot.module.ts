@@ -7,4 +7,18 @@ export const composeBoot = {
   definition:
     "a seat's system prompt: who it is, and the one read that loads everything it is bound to",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A composition states who the seat is and instructs the read that loads the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat whose attributes state nothing is told so and is told to read.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A composition carries no path.",
+    },
+  ],
 } as const satisfies Module

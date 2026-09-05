@@ -12,10 +12,14 @@ export const read = {
   changeKindSlug: "change-none",
   partSlugs: ["module/long-body"],
   taking: [
-    { said: "--file-path <path>", takes: "a file in the repository to read" },
+    {
+      said: "--file-path <path>",
+      takes: "a file in the repository to read, in place of your own seat page",
+    },
     { said: "--full", takes: "the whole body, whatever your record holds" },
   ],
   helpNotes: [
+    "a read naming no file reads your own seat page, which warrants the whole of your seat reading.",
     "--file-path repeats, so several files come back from one call.",
     "a read also hands back what the files you name warrant, so one call answers the gate.",
     "a body your record already holds comes back as one line rather than the file.",
@@ -137,6 +141,22 @@ export const read = {
     {
       invariantKind: "departure",
       statement: "A read for an agent nothing identifies is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read naming no file reads the calling agent's own seat page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent's own seat page is the page of the seat above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent that holds no seat page is refused with that as the reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the agent was identified and the seat was not found.",
     },
     {
       invariantKind: "departure",

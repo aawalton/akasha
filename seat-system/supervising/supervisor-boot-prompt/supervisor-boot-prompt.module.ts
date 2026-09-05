@@ -17,6 +17,10 @@ export const supervisorBootPrompt = {
     },
     {
       invariantKind: "departure",
+      statement: "A composition that came back empty spawns with no authored prompt.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A prompt is renamed into place so no half-written file is ever handed over.",
     },
   ],

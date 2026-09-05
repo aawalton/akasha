@@ -5,6 +5,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 import { everyOfType, listedById } from "@akasha/pages-system/index-reading"
 import { uncommittedAt } from "@akasha/pages-system/page-file-name"
 import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
+import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
 
 export type Beside = Record<string, unknown>
 
@@ -60,6 +61,16 @@ export function akashaSeatPathForAgent(agentId: string): string | null {
   if (held !== undefined) return held
   const one = listedById(akashaRoot(), agentId)
   return one?.path.startsWith(SEAT_DIR) === true ? one.path : null
+}
+
+// THE SEAT PAGE A CALLER READS FOR ITS OWN SEAT READING. A subagent holds no page of its own here,
+// so it is answered the page of the seat it was spawned under, found by splitting its id the way
+// its values already are.
+export function akashaSeatPathForCaller(agentId: string): string | null {
+  const own = akashaSeatPathForAgent(agentId)
+  if (own !== null) return own
+  const above = seatAbove(agentId)
+  return above === null ? null : akashaSeatPathForAgent(above)
 }
 
 const SEAT_SUFFIX = ".seat.ts"

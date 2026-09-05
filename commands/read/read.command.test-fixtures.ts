@@ -16,6 +16,7 @@ import {
   linesFor,
   readWith,
   restCall,
+  type SeatAt,
   tellingWith,
 } from "./read.command.code.ts"
 import { read as readCommand } from "./read.command.ts"
@@ -60,8 +61,87 @@ export function givenFor(root: string) {
 
 export const bodyOf = bytesOf
 
-export function read(argv: readonly string[], given: Given): Answer {
-  return readWith(argv, given, null)
+export const SEAT_PAGE = "seat-system/seats/pages/held.seat.ts"
+
+export const BIN = "akasha/one/held.bin"
+
+// WHICH SEAT PAGE A BARE READ REACHES IS SAID BY THE TEST RATHER THAN BY THE FLEET. The command
+// resolves it against akasha's own index of seats, which no scratch root holds, so a test says what
+// that resolution answers, and the resolution itself is exercised by hand against the checkout.
+const SEATLESS: SeatAt = () => null
+
+export function seatedAt(at: string): SeatAt {
+  return (agentId) => (agentId === AGENT ? at : null)
+}
+
+export function seatRoot(body = "one\ntwo\n"): string {
+  return rootWith([{ at: SEAT_PAGE, body }])
+}
+
+export function read(argv: readonly string[], given: Given, seatAt: SeatAt = SEATLESS): Answer {
+  return readWith(argv, given, null, seatAt)
+}
+
+export type Rooted = { readonly root: string; readonly said: Answer }
+
+export function bareRead(at: string | null): Rooted {
+  const root = seatRoot()
+  return { root, said: read([], givenFor(root), at === null ? SEATLESS : seatedAt(at)) }
+}
+
+export type Besided = Rooted & { readonly asked: () => number }
+
+export function besideSeat(): Besided {
+  const root = rootWith([
+    { at: HELD, body: "one\n" },
+    { at: SEAT_PAGE, body: "seat\n" },
+  ])
+  let asked = 0
+  const said = read(["--file-path", HELD], givenFor(root), () => {
+    asked += 1
+    return SEAT_PAGE
+  })
+  return { root, said, asked: () => asked }
+}
+
+export function binRead(bytes: readonly number[]): Rooted {
+  const root = rootWith([{ at: BIN, body: new Uint8Array(bytes) }])
+  return { root, said: read(["--file-path", BIN], givenFor(root)) }
+}
+
+export function tooWideRead(): Answer {
+  const root = rootWith([{ at: LONG, body: `${"x".repeat(ANSWER_CEILING + 1)}\n` }])
+  return read(["--file-path", LONG], givenFor(root))
+}
+
+export type Overflowed = Rooted & {
+  readonly left: readonly string[]
+  readonly returned: readonly string[]
+}
+
+export function overMany(): Overflowed {
+  const root = rootWith(manyFiles())
+  const said = read(namingAll(), givenFor(root))
+  return { root, said, left: leftIn(said.report), returned: wholeIn(said.report) }
+}
+
+export function restOfMany(): Overflowed {
+  const root = rootWith(manyFiles())
+  const left = leftIn(read(namingAll(), givenFor(root)).report)
+  const said = read(namingEach(left), givenFor(root))
+  return { root, said, left, returned: wholeIn(said.report) }
+}
+
+export type Moved = { readonly said: Answer; readonly held: Reading | null; readonly now: string }
+
+export function movedAfterCommit(): Moved {
+  const root = heldRoot(lettered(80))
+  committed(root, HELD)
+  read(["--file-path", HELD], givenFor(root))
+  const now = lettered(80).replace("line 40 ", "line forty ")
+  writeFileSync(join(root, HELD), now)
+  const said = read(["--file-path", HELD], givenFor(root))
+  return { said, held: readingIn(root, AGENT, HELD), now }
 }
 
 export function heldRoot(body = "one\n"): string {

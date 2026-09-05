@@ -5,24 +5,24 @@ import {
   type Attributes,
   attributesOf,
 } from "../seat-attributes/seat-attributes.module.code.ts"
-import { akashaSeatRelPath } from "../seat-page-akasha/seat-page-akasha.module.code.ts"
-import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 
 const HELP = `compose-boot — compose a seat's system prompt: who it is, and the read that loads the rest
 
 WHAT A SEAT IS BOUND TO IS NOT IN ITS PROMPT. This composes who the seat is, from its stated
-persona, domain and role, and the one call that names every page those bind it to.
+persona, domain and role, and the one call that reaches every page those bind it to.
 
 The pages themselves are read, never handed over: text in a prompt is credited as read without
 anybody reading it, and it remains after the file under it has moved. So nothing here is
 credited, and a seat begins owing every page it is bound to.
 
-The call names the seat's own page. What that page warrants is what the seat must read, and the
-warrants answer it: the persona and the role and the domain it states, the type of each, and every
-domain the one it states is a part of.
+The call carries no path. A bare \`akasha read\` reads the caller's own seat page, and what that page
+warrants is what the seat must read, and the warrants answer it: the persona and the role and the
+domain it states, the type of each, and every domain the one it states is a part of. A path spelled
+into a prompt is the one thing a mover cannot repoint, so none is spelled.
 
-A seat stating nothing composes to nothing and exits 0. Nothing here refuses: this
-feeds a spawn, and a seat that does not start is worse than one carrying less.
+A seat stating nothing is told so and is told to run the call all the same: a seat that does not
+know who it is is the one that most needs the read. Nothing here refuses: this feeds a spawn, and a
+seat that does not start is worse than one carrying less.
 
 Usage:
   bun seat-system/compose-boot/compose-boot.module.code.ts --agent <id> [--out <path>]
@@ -64,29 +64,29 @@ function claim(attributes: Attributes): string {
   return named.length === 0 ? "" : named.join(", ")
 }
 
-export const SEAT_READ = "akasha read --file-path"
+export const SEAT_READ = "akasha read"
 
 const READING =
   "What that means is in pages, and none of them is here. They are read rather than handed " +
   "over, so that what you act on is the text on disk now rather than the text that was composed when " +
-  "you started. This one call names every one of them and hands back as many as one answer carries:"
+  "you started. This one call reaches every one of them and hands back as many as one answer carries:"
 
-export function compose(seat: string, at: string | null, sent = ""): string {
-  if (seat === "" && sent === "") return ""
+// A SEAT WHOSE ATTRIBUTES REACHED NOTHING STILL GETS A PROMPT. What composed to nothing was exactly
+// the seat that most needed the read, and the instruction to read went with the emptiness.
+const UNKNOWN =
+  "Nothing here states who you are: no persona, no domain and no role reached this prompt. Where " +
+  "that is stated is behind the read below, so run it before you take yourself for nobody."
+
+export function compose(seat: string, sent = ""): string {
   return (
-    (seat === "" ? "" : `You are ${seat}.\n`) +
+    (seat === "" ? `${UNKNOWN}\n` : `You are ${seat}.\n`) +
     (sent === "" ? "" : `\n${sent}\n`) +
-    (at === null ? "" : `\n${READING}\n\n    ${SEAT_READ} ${at}\n\nRun it before you act.\n`)
+    `\n${READING}\n\n    ${SEAT_READ}\n\nRun it before you act.\n`
   )
 }
 
-export function seatReadPath(agent: string): string | null {
-  const seatName = seatNameForAgent(agent)
-  return seatName === null ? null : akashaSeatRelPath(seatName)
-}
-
 export function compositionFor(agent: string): string {
-  return compose(claim(attributesOf(agent)), seatReadPath(agent))
+  return compose(claim(attributesOf(agent)))
 }
 
 function main(): undefined {

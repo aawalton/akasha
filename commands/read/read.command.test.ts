@@ -7,14 +7,17 @@ import {
   readingIn,
   sameBody,
 } from "../../command-system/reading/reading.module.code.ts"
-import { ANSWER_CEILING, costOf, NO_AGENT, readWith } from "./read.command.code.ts"
+import { ANSWER_CEILING, costOf, NO_AGENT, noSeatFor, readWith } from "./read.command.code.ts"
 import {
   AGENT,
+  BIN,
+  bareRead,
   begunAgain,
+  besideSeat,
+  binRead,
   bodyOf,
   CALLED_AS,
   ceilinged,
-  committed,
   everyPaged,
   givenAt,
   givenFor,
@@ -30,20 +33,24 @@ import {
   longFirst,
   longWhole,
   MANY,
-  manyFiles,
-  namingAll,
-  namingEach,
+  movedAfterCommit,
+  overMany,
   priced,
   read,
+  restOfMany,
   rootWith,
+  SEAT_PAGE,
   STRAY,
   scratch,
+  seatedAt,
+  seatRoot,
   strayRoot,
   TAKING,
   THING,
   THING_TYPE,
   telling,
   thingRoot,
+  tooWideRead,
   WARRANTED,
   wholeIn,
   wholeNumbered,
@@ -60,12 +67,34 @@ test("a file inside akasha comes back whole and line-numbered", () => {
   expect(said.report[1]).toBe("     1\tone\n     2\ttwo\n     3\tthree")
 })
 
-test("naming no file is a caller mistake and nothing is read", () => {
-  const root = rootWith([])
-  const said = read([], givenFor(root))
+test("naming no file reads the calling agent's own seat page", () => {
+  const { root, said } = bareRead(SEAT_PAGE)
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe(`${SEAT_PAGE} — the whole file follows, 2 lines`)
+  expect(readingIn(root, AGENT, SEAT_PAGE)).not.toBeNull()
+})
+
+test("naming no file where the agent holds no seat page says the seat is what is missing", () => {
+  const { said } = bareRead(null)
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("--file-path names a file to read")
+  expect(said.refusals).toEqual([noSeatFor(AGENT)])
+  expect(said.refusals[0]).toContain("You are identified")
+})
+
+test("naming no file where nothing identifies the agent is refused as no agent", () => {
+  const said = read([], givenAt(seatRoot()), seatedAt(SEAT_PAGE))
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals).toEqual([NO_AGENT])
+})
+
+test("a file named alongside is read, and the seat page is never reached for", () => {
+  const { root, said, asked } = besideSeat()
+  expect(asked()).toBe(0)
+  expect(said.report[0]).toContain(HELD)
+  expect(readingIn(root, AGENT, SEAT_PAGE)).toBeNull()
 })
 
 test("a path outside the repository is refused rather than read", () => {
@@ -108,18 +137,14 @@ test("naming one file twice is refused before anything is read", () => {
 })
 
 test("a body that is not UTF-8 text says what it is instead of the body", () => {
-  const root = rootWith([
-    { at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00, 0x41]) },
-  ])
-  const said = read(["--file-path", "akasha/one/held.bin"], givenFor(root))
+  const { said } = binRead([0xff, 0xfe, 0x00, 0x41])
   expect(said.code).toBe(0)
   expect(said.report.length).toBe(1)
   expect(said.report[0]).toContain("4 bytes that are not UTF-8 text, beginning `fffe0041`")
 })
 
 test("a line no answer has room for is refused rather than divided", () => {
-  const root = rootWith([{ at: LONG, body: `${"x".repeat(ANSWER_CEILING + 1)}\n` }])
-  const said = read(["--file-path", LONG], givenFor(root))
+  const said = tooWideRead()
   expect(said.code).toBe(3)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain(`line 1 is ${ANSWER_CEILING + 8} bytes on its own`)
@@ -141,13 +166,10 @@ test("an argument this does not take is a caller mistake", () => {
 })
 
 test("more than one answer holds comes back as fewer files and a call for the rest", () => {
-  const root = rootWith(manyFiles())
-  const said = read(namingAll(), givenFor(root))
+  const { said, left, returned } = overMany()
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
-  const left = leftIn(said.report)
   expect(left.length).toBeGreaterThan(0)
-  const returned = said.report.filter((one) => one.includes("the whole file follows"))
   expect(returned.length).toBeGreaterThan(0)
   expect(returned.length + left.length).toBe(MANY)
   for (const one of left) {
@@ -156,20 +178,14 @@ test("more than one answer holds comes back as fewer files and a call for the re
 })
 
 test("the answer holding a call for the rest is itself under the ceiling", () => {
-  const root = rootWith(manyFiles())
-  const said = read(namingAll(), givenFor(root))
-  expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
+  expect(costOf(overMany().said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
 })
 
 test("the call for the rest reads exactly what was left, and then the set is done", () => {
-  const root = rootWith(manyFiles())
-  const first = read(namingAll(), givenFor(root))
-  const left = leftIn(first.report)
-  const second = read(namingEach(left), givenFor(root))
-  expect(second.code).toBe(0)
-  const returned = second.report.filter((one) => one.includes("the whole file follows"))
+  const { said, left, returned } = restOfMany()
+  expect(said.code).toBe(0)
   expect(returned.length).toBe(left.length)
-  expect(costOf(second.report)).toBeLessThanOrEqual(ANSWER_CEILING)
+  expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
 })
 
 test("every argument the page shows is an argument this takes", () => {
@@ -210,10 +226,9 @@ test("a read whose output is thrown away returns nothing and records nothing", (
 })
 
 test("a body that is not text reaches nobody, so nothing is recorded", () => {
-  const root = rootWith([{ at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00]) }])
-  const said = read(["--file-path", "akasha/one/held.bin"], givenFor(root))
+  const { root, said } = binRead([0xff, 0xfe, 0x00])
   expect(said.code).toBe(0)
-  expect(readingIn(root, AGENT, "akasha/one/held.bin")).toBeNull()
+  expect(readingIn(root, AGENT, BIN)).toBeNull()
 })
 
 test("an empty body reached the agent whole, so it is recorded", () => {
@@ -294,14 +309,9 @@ test("a file past what one answer holds comes back as its difference", () => {
 })
 
 test("a committed body is found again, so a moved body is what changed", () => {
-  const root = heldRoot(lettered(80))
-  committed(root, HELD)
-  read(["--file-path", HELD], givenFor(root))
-  const now = lettered(80).replace("line 40 ", "line forty ")
-  writeFileSync(join(root, HELD), now)
-  const said = read(["--file-path", HELD], givenFor(root))
+  const { said, held, now } = movedAfterCommit()
   expect(said.report[0]).toContain("80 lines now, and what changed follows")
-  expect(readingIn(root, AGENT, HELD)?.oid).toBe(blobIdOf(bodyOf(now)))
+  expect(held?.oid).toBe(blobIdOf(bodyOf(now)))
 })
 
 test("an agent whose record holds nothing gets the body whole", () => {

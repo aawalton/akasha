@@ -21,6 +21,10 @@ export const seatAkashaBeside = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent is answered the page of the seat above it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value asked for under a key the table does not name comes back as nothing.",
     },
     {
