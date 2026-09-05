@@ -1,5 +1,5 @@
 diff --git a/commands/edit/edit.command.code.ts b/commands/edit/edit.command.code.ts
-index a57e51fecee09d9367f4dcef70a1426fbdc8392e..c7e1b83ff52a0bacfd91f3ba6fe2ca33299e1449 100644
+index a57e51fecee09d9367f4dcef70a1426fbdc8392e..e1120044e5f9cb4de9f0ce219589db4578d7a85b 100644
 --- a/commands/edit/edit.command.code.ts
 +++ b/commands/edit/edit.command.code.ts
 @@ -37,6 +37,7 @@ import {
@@ -10,6 +10,14 @@ index a57e51fecee09d9367f4dcef70a1426fbdc8392e..c7e1b83ff52a0bacfd91f3ba6fe2ca33
    unwarrantedIn,
  } from "../write/write.command.code.ts"
  
+@@ -284,6 +285,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
+   mistaken.push(...removing.mistaken)
+   wrong.push(...removing.wrong)
+   wrong.push(...unwarrantedIn(given, glass.glass, changes))
++  wrong.push(...unrestatedFor(given, changes))
+   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
+   const troubled = troubling({ mistaken, wrong })
+   if (troubled !== null) return troubled
 diff --git a/commands/write/write.command.code.ts b/commands/write/write.command.code.ts
 index aaf9ff99fdc823990a5cc2163097b69079350715..29a103c15189fd4754138a89f2da939ca8135d43 100644
 --- a/commands/write/write.command.code.ts
