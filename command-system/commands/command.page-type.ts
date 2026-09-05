@@ -43,6 +43,7 @@ export const command = {
     "command/compose-notices",
     "command/deploy",
     "command/dev-server",
+    "command/domain",
     "command/domain-tree",
     "command/drive",
     "command/edit",
