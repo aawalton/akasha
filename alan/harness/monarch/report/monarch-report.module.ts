@@ -18,13 +18,11 @@ export const monarchReport = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule is scored only inside the trusted window, because categories older than that window were not maintained and neither figure would measure the rule.",
+      statement: "A rule is scored only inside the trusted window.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A disagreement inside the window is shown in full, because those disagreements are the ones worth arguing about.",
+      statement: "A disagreement inside the window is shown in full.",
     },
     {
       invariantKind: "departure",
