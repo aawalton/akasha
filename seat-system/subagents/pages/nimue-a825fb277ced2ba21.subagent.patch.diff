@@ -1,0 +1,11 @@
+diff --git a/pages/queries/pages/domain-all.page-query.ts b/pages/queries/pages/domain-all.page-query.ts
+index 71ca403376e36b41af0bf4805b55933357a76619..ce25c44b5ddb418ef34be3ac4a0b7f7aa2a12ab3 100644
+--- a/pages/queries/pages/domain-all.page-query.ts
++++ b/pages/queries/pages/domain-all.page-query.ts
+@@ -5,5 +5,6 @@ export const domainAll = {
+   pageTypeSlug: "page-query",
+   slug: "domain-all",
+   asksOfSlug: "domain",
++  narrows: [{ key: "pageTypeSlug", comparison: "is", values: ["domain"] }],
+   keys: ["slug"],
+ } as const satisfies PageQuery
