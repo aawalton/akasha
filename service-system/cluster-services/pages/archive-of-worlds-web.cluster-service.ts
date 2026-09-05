@@ -11,6 +11,5 @@ export const archiveOfWorldsWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifestCode:
-    "archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.cluster-service.code.attachment.ts",
+  manifestSlug: "archive-of-worlds-web-manifests",
 } as const satisfies ClusterService
