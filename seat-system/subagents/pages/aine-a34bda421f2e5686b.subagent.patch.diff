@@ -25,10 +25,10 @@ index 0242b3679436e2c0db77c5252dfb2f7cd80e0b5e..0bacea3d642b318d0b03a96bb76995be
  # yet, and a writer belongs with the other writers rather than forked off into this one.
  # Counting the levels up to akasha was wrong twice, because this file moved twice and the count
 diff --git a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
-index 5d07ac7b38bb6b3aebddb64d435e5f456ff2907a..e30d01d11ceca115647a4489275645dca8dbf62d 100644
+index 5d07ac7b38bb6b3aebddb64d435e5f456ff2907a..e73cbff8e856f3bbc3a6405f02eae0ecc543f3ec 100644
 --- a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
 +++ b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
-@@ -19,11 +19,11 @@ export const statusline = {
+@@ -19,15 +19,15 @@ export const statusline = {
      },
      {
        invariantKind: "departure",
@@ -42,3 +42,8 @@ index 5d07ac7b38bb6b3aebddb64d435e5f456ff2907a..e30d01d11ceca115647a4489275645dc
      },
      {
        invariantKind: "stopgap",
+-      statement: "What the payload observed is kept by code standing outside akasha.",
++      statement: "What the payload observed is kept by code outside akasha.",
+     },
+   ],
+ } as const satisfies ShellScript
