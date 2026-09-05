@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/query/store-page-asking/store-page-asking.module.ts b/pages/query/store-page-asking/store-page-asking.module.ts
+index 3fa68e5391d7b65af59f2d2fd7bc55b09c24933b..20b7e8fa04ed5e40504834569de2ed94e9c65818 100644
+--- a/pages/query/store-page-asking/store-page-asking.module.ts
++++ b/pages/query/store-page-asking/store-page-asking.module.ts
+@@ -28,7 +28,7 @@ export const storePageAsking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A declaration takes what the declaration says from the property page the page type names.",
++        "A declaration takes the details that declaration says from the property page the page type names.",
+     },
+     {
+       invariantKind: "departure",
