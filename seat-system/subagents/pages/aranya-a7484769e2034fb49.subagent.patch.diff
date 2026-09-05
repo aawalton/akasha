@@ -171,17 +171,22 @@ index 0000000000000000000000000000000000000000..31dd405e96b63c6d20f497421cf983b8
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-index bd1a932d3c516d419aa7e22fc009a9aa524e0abb..b4555af9798ed23e2f0804abfed3c6287566f9cb 100644
+index d41e887d7719fc324b5123f0bc9b8970c96102b9..7ef22b3fdafad3a0708f5525423e6f9fd505a9d2 100644
 --- a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 9c3db2bff09384e0d17664e7d13885a889c6f96b..d52d6f002a4e5e9c916d84f0ae171688
+@@ -363,8 +363,12 @@ index 9c3db2bff09384e0d17664e7d13885a889c6f96b..79a27dc89e5ec0576fb82f4d3c78cd17
     replicas: 2,
     containerPort: 3000,
  -  manifestCode:
---    "service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/databases/postgrest/postgrest.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "postgrest",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/databases/postgrest/postgrest.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 31dd405e96b63c6d20f497421cf983b801630232..0000000000000000000000000000000000000000
@@ -355,18 +360,14 @@ index 31dd405e96b63c6d20f497421cf983b801630232..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts b/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts
-index 9c3db2bff09384e0d17664e7d13885a889c6f96b..79a27dc89e5ec0576fb82f4d3c78cd17740bc4ac 100644
+index 9c3db2bff09384e0d17664e7d13885a889c6f96b..d52d6f002a4e5e9c916d84f0ae171688480f17cc 100644
 --- a/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts
 +++ b/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts
-@@ -11,6 +11,9 @@ export const postgrest = {
+@@ -11,6 +11,5 @@ export const postgrest = {
    image: "postgrest/postgrest:v12.2.3",
    replicas: 2,
    containerPort: 3000,
 -  manifestCode:
 -    "service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "postgrest",
-+=======
-+  manifestCode: "infrastructure/databases/postgrest/postgrest.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
