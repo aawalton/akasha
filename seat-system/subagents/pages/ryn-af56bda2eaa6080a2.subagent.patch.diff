@@ -1,5 +1,5 @@
 diff --git a/commands/refactor/page-retyping/page-retyping.module.ts b/commands/refactor/page-retyping/page-retyping.module.ts
-index 4152d271224c021518503a5a19ac4f0ccc674bbb..dc23549ee436f12931e2bc3ccb7d09643191b86d 100644
+index 4152d271224c021518503a5a19ac4f0ccc674bbb..8776ce40e296ff500ace8def63f2c00ce4d3ca7c 100644
 --- a/commands/refactor/page-retyping/page-retyping.module.ts
 +++ b/commands/refactor/page-retyping/page-retyping.module.ts
 @@ -31,7 +31,7 @@ export const pageRetyping = {
@@ -11,13 +11,18 @@ index 4152d271224c021518503a5a19ac4f0ccc674bbb..dc23549ee436f12931e2bc3ccb7d0964
      },
      {
        invariantKind: "departure",
-@@ -43,7 +43,8 @@ export const pageRetyping = {
+@@ -43,11 +43,12 @@ export const pageRetyping = {
      },
      {
        invariantKind: "constraint",
 -      statement: "A key is worked out from the property it reads rather than from the page type.",
 +      statement:
 +        "A key is worked out from the property that key reads rather than from the page type.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's own file arrives under the tail of the page type it becomes.",
++      statement: "A page's own file arrives under the tail of the page type that page becomes.",
      },
      {
        invariantKind: "departure",
