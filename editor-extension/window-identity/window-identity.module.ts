@@ -57,7 +57,7 @@ export const windowIdentity = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a window record holds.",
+      statement: "Nothing here knows the fields a window record holds.",
     },
   ],
 } as const satisfies Module
