@@ -164,3 +164,44 @@ export function reportOf(said: Answer): string {
 export function refusalOf(said: Answer): string {
   return said.refusals.join("\n")
 }
+
+export function heldWorld(): string {
+  return repoWith({ [HELD]: BODY })
+}
+
+export function deepWorld(): string {
+  return repoWith({ [DEEP]: BODY, [KEPT]: BODY })
+}
+
+export function outsideWorld(): string {
+  return repoWith({ [OUTSIDE]: BODY, "temper/one/deep/under.ts": BODY, [HELD]: BODY })
+}
+
+export function sidecarWorld(): string {
+  return repoWith({
+    [HELD]: BODY,
+    [BESIDE]: BODY,
+    "akasha/one/held.module.test.ts": BODY,
+    "akasha/one/kept.module.ts": BODY,
+  })
+}
+
+export function waysWorld(): string {
+  return repoWith({
+    [HELD]: BODY,
+    [WAYS_IN]: PACKAGE_WITH_WAYS,
+    [KEPT_WAY]: BODY,
+    [GONE_WAY]: BODY,
+  })
+}
+
+export const MANY_HELD: Readonly<Record<string, string>> = {
+  [DEEP]: BODY,
+  "akasha/one/deep/held.module.code.ts": BODY,
+  "akasha/one/deep/under.module.ts": BODY,
+  [KEPT]: BODY,
+}
+
+export const SAYING = [...naming(HELD), "--message", "held goes"]
+
+export const GLASSED = [...SAYING, "--break-the-glass", "  the check is wrong  "]
