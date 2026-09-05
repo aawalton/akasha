@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-watcher-status/temper-watcher-status.command.ts b/temper/temper-commands/temper-watcher-status/temper-watcher-status.command.ts
+index 470fbadac2aedfda8dcbf3fb58356be213898955..ee877e2224f41dc34c76c3c6d5412d96c613744f 100644
+--- a/temper/temper-commands/temper-watcher-status/temper-watcher-status.command.ts
++++ b/temper/temper-commands/temper-watcher-status/temper-watcher-status.command.ts
+@@ -20,7 +20,7 @@ export const temperWatcherStatus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whether it is running is read from systemd.",
++      statement: "Whether the watcher is running is read from systemd.",
+     },
+     {
+       invariantKind: "departure",
