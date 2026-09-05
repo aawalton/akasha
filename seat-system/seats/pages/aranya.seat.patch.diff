@@ -1191,3 +1191,11 @@ index c7095034859f764b98c3d70e6e02f13e4f643157..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-character-knowledge
 \ No newline at end of file
+diff --git a/temper/temper-lib-chat-message/temper-lib-chat-message b/temper/temper-lib-chat-message/temper-lib-chat-message
+deleted file mode 120000
+index c7174d2e4d22de59296d30de1a0f7286aa0cc2d6..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-chat-message/temper-lib-chat-message
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-chat-message
+\ No newline at end of file
