@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/remove/remove.command.ts b/commands/remove/remove.command.ts
-index 6df6abe454eb69ce67cc4a29545723031636e8a4..987dae88a8928ea7f713165e59b919935b565fda 100644
+index 6df6abe454eb69ce67cc4a29545723031636e8a4..a49e83d7dcddb439345d83bbc119b3b6badccb2e 100644
 --- a/commands/remove/remove.command.ts
 +++ b/commands/remove/remove.command.ts
 @@ -45,7 +45,7 @@ export const remove = {
@@ -19,6 +19,16 @@ index 6df6abe454eb69ce67cc4a29545723031636e8a4..987dae88a8928ea7f713165e59b91993
 -      statement: "A file other than the root manifest naming what goes is left as that file is.",
 +      statement:
 +        "A file other than the root manifest naming the path that goes is left as that file is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -189,7 +190,8 @@ export const remove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An index that cannot say what named a page lets the removal go on and says so.",
++      statement:
++        "An index that cannot say which pages named a page lets the removal go on and says so.",
      },
      {
        invariantKind: "departure",
