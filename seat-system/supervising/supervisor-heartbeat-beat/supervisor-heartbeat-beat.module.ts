@@ -26,7 +26,7 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A beat that throws or never ran is a refusal naming what happened, not a throw.",
+      statement: "A beat that throws or never ran is a refusal naming the fault, not a throw.",
     },
     {
       invariantKind: "departure",
