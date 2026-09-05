@@ -47,7 +47,7 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "gap",
-      statement: "Only a whole literal standing in the call is read.",
+      statement: "Only a whole literal sitting in the call is read.",
     },
   ],
 } as const satisfies SyntaxRule

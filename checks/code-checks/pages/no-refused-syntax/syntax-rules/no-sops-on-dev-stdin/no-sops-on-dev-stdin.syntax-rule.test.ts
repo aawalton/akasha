@@ -29,11 +29,11 @@ test("the override flag marks the call as sops's, the binary being named elsewhe
   expect(noSopsOnDevStdin(parsed(text))).toHaveLength(1)
 })
 
-test("the pipe without a sops marker stands", () => {
+test("the pipe without a sops marker is left", () => {
   expect(noSopsOnDevStdin(parsed('run("cat", "/dev/stdin")\n'))).toEqual([])
 })
 
-test("sops on a real file stands, being what this asks for", () => {
+test("sops on a real file is left, being what this asks for", () => {
   expect(noSopsOnDevStdin(parsed('run("sops", "-e", "held.yaml")\n'))).toEqual([])
 })
 
@@ -42,7 +42,7 @@ test("a template spelling of the pipe is read as a plain one", () => {
   expect(noSopsOnDevStdin(parsed(text))).toHaveLength(1)
 })
 
-test("the line named is the line the call stands on", () => {
+test("the line named is the line the call is on", () => {
   const text = 'const one = 1\nconst two = 2\nrun("sops", "/dev/stdin")\n'
   expect(noSopsOnDevStdin(parsed(text))[0]?.line).toBe(3)
 })
