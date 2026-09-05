@@ -79,7 +79,7 @@ export const alert = {
     {
       invariantKind: "departure",
       statement:
-        "A composer that cannot reach the words stops rather than composing an alert without them.",
+        "A composer that cannot reach the words stops rather than composing an alert without those words.",
     },
     {
       invariantKind: "departure",
