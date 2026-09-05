@@ -120,7 +120,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A start prints on the output stream what a caller reads back as the agent's id.",
+      statement: "A start prints the agent's id on the output stream.",
     },
     {
       invariantKind: "departure",
