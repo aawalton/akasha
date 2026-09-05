@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/seat-page-akasha/seat-page-akasha.module.ts b/seat-system/seat-page-akasha/seat-page-akasha.module.ts
+index 5bcc7d272fd6209e2ea1078390b351c721b4e432..6a83a276cb22a9f3101ef43d4bfcc8a04e4f0f25 100644
+--- a/seat-system/seat-page-akasha/seat-page-akasha.module.ts
++++ b/seat-system/seat-page-akasha/seat-page-akasha.module.ts
+@@ -17,7 +17,8 @@ export const seatPageAkasha = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The values written are the bare ones rather than the records they came in.",
++      statement:
++        "The values written are the bare ones rather than the records those values came in.",
+     },
+     {
+       invariantKind: "departure",
