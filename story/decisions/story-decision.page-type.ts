@@ -57,7 +57,7 @@ export const storyDecision = {
     {
       invariantKind: "departure",
       statement:
-        "What a decision changed is stated rather than worked out from the chapters after the decision.",
+        "The effect a decision had is stated rather than worked out from the chapters after the decision.",
     },
     {
       invariantKind: "departure",
