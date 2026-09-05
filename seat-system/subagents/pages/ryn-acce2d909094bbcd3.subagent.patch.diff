@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/test-fixture/test-fixture.domain.ts b/testing-system/test-fixture/test-fixture.domain.ts
+index 50a704da738e4fec4e46af9006377d606d0706ab..33f1e1a898c28d01596737d6fe91e2c492656e95 100644
+--- a/testing-system/test-fixture/test-fixture.domain.ts
++++ b/testing-system/test-fixture/test-fixture.domain.ts
+@@ -12,7 +12,7 @@ export const testFixture = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A fixture invents a page only where no page represents what the test needs.",
++      statement: "A fixture invents a page only where no page represents the thing the test needs.",
+     },
+     {
+       invariantKind: "departure",
