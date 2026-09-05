@@ -163,6 +163,25 @@ index c66f2d1c7aaaff677a36ab84d6bd5e1060c2438a..b4554656fd2093c6537aa24818cef2aa
    if ("reason" in checked) {
      console.log(`${LOG} ${checked.reason}`)
      return unavailable(checked.reason)
+diff --git a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
+index 04c63fbb5d6454e399515dcec629a60755d08a9d..d53c4bc3d1c73be88631b6aaa28d782dbb4a86a8 100644
+--- a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
++++ b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
+@@ -9,12 +9,11 @@ export const supervisorResumeNotices = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The notices are composed by a child, killed at a ceiling, rather than in here.",
++      statement: "The notices are composed by the compose module rather than in here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The compose module is reached beside this one rather than by a path from the root.",
++      statement: "The compose module is imported from beside this one and its function called.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/supervisor-decide/supervisor-decide.module.code.ts b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
 index 4fb7310eb9b013b9138f9335b5ba908d2b3cc6a4..6bc3af4ffb155915eba8e203505a85473931b967 100644
 --- a/seat-system/supervisor-decide/supervisor-decide.module.code.ts
