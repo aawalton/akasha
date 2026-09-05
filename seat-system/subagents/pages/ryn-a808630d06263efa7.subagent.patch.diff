@@ -1,0 +1,13 @@
+diff --git a/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts b/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts
+index 146be24065352ba0c038647dd270ed2fab728a0a..384c73f43d3f3e82d4ba850f11c547b7152b7bb8 100644
+--- a/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts
++++ b/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts
+@@ -18,7 +18,7 @@ export const agentTreeDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A filtered row takes an id of its own so the editor draws it again.",
++      statement: "A filtered row takes an id of its own so the editor draws that row again.",
+     },
+     {
+       invariantKind: "departure",
