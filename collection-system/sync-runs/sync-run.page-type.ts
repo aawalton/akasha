@@ -25,7 +25,8 @@ export const syncRun = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run sits beside the sync it was a pull of rather than in a file of its own.",
+      statement:
+        "A run sits beside the sync that run was a pull of rather than in a file of its own.",
     },
     {
       invariantKind: "departure",
