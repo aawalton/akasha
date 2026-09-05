@@ -30,7 +30,7 @@ export const addonDataProof = {
     },
     {
       invariantKind: "departure",
-      statement: "A section is reported whether the sections beside it held or fell.",
+      statement: "A section is reported whether the sections beside that section held or fell.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,8 @@ export const addonDataProof = {
     },
     {
       invariantKind: "departure",
-      statement: "A population that fails leaves the sections that do not read it judged.",
+      statement:
+        "A population that fails leaves the sections that do not read that population judged.",
     },
     {
       invariantKind: "absence",
