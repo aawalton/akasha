@@ -68,3 +68,17 @@ index b5600efca30897ad27e8bc65665590df79d3456f..85786b70738165c22c0c831b3cdd2ab8
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+index 18feda1897bafa93203a3a7b668652ac72b64e1b..d825095ce16eeebfabfb6aa48b5c66ec8bd3f2ab 100644
+--- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
++++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+@@ -27,8 +27,7 @@ export const pushNotifying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The cursor moves past each notification and only ever forward, so nothing it has passed is offered a second time.",
++      statement: "The cursor moves past each notification and only ever forward.",
+     },
+     {
+       invariantKind: "absence",
