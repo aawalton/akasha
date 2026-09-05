@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/health-samples-access/sample-identity/sample-identity.module.ts b/health-samples-access/sample-identity/sample-identity.module.ts
-index 8a9f9e818f6116c551d9de728088bb3d513aa006..0f470acaf4dbb6fbe7848ae4d37aa96b83424737 100644
+index 8a9f9e818f6116c551d9de728088bb3d513aa006..4cda2052a7d28532baf7ff66fd4e93ec5573d84c 100644
 --- a/health-samples-access/sample-identity/sample-identity.module.ts
 +++ b/health-samples-access/sample-identity/sample-identity.module.ts
 @@ -10,7 +10,7 @@ export const sampleIdentity = {
@@ -12,3 +12,12 @@ index 8a9f9e818f6116c551d9de728088bb3d513aa006..0f470acaf4dbb6fbe7848ae4d37aa96b
      },
      {
        invariantKind: "departure",
+@@ -22,7 +22,7 @@ export const sampleIdentity = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The value read is no part of what names a reading.",
++      statement: "The value read is no part of a reading's identity.",
+     },
+   ],
+ } as const satisfies Module
