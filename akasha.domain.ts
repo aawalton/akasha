@@ -134,7 +134,7 @@ export const akasha = {
     {
       directiveKind: "principle",
       name: "Ubiquitous Naming",
-      act: "Use the same name for a concept in code, data, interface and prose alike.",
+      act: "Use the same name for a concept in code, data and text.",
       warrant: "A second spelling reads as a second thing, and each layer looks right by itself.",
       aids: [
         "A rename lands in every layer at once.",
