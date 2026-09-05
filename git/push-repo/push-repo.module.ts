@@ -19,7 +19,7 @@ export const pushRepo = {
     },
     {
       invariantKind: "departure",
-      statement: "What a push did is left in a state file rather than said to a caller.",
+      statement: "A push's outcome is left in a state file rather than said to a caller.",
     },
     {
       invariantKind: "absence",
