@@ -10,6 +10,7 @@ export const alanWebCapacitor = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  compileConfig: "json",
   partSlugs: ["stylesheet/alan-web-capacitor-look"],
   invariants: [
     {

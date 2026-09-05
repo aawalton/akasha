@@ -10,6 +10,7 @@ export const alanAtlasWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  compileConfig: "json",
   partSlugs: [
     "stylesheet/alan-atlas-web-look",
     "module/atlas-answer-page-types",
