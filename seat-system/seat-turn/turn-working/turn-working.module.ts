@@ -94,7 +94,7 @@ export const turnWorking = {
     },
     {
       invariantKind: "absence",
-      statement: "No hook is asked what a seat is doing.",
+      statement: "No hook is asked for a seat's turn state or live tasks.",
     },
     {
       invariantKind: "absence",
