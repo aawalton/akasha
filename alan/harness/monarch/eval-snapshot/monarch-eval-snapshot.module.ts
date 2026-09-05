@@ -14,7 +14,7 @@ export const monarchEvalSnapshot = {
     {
       invariantKind: "departure",
       statement:
-        "Pages are hashed in path order, so the mark does not depend on the order they were read.",
+        "Pages are hashed in path order, so the mark does not depend on the order those pages were read.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,8 @@ export const monarchEvalSnapshot = {
     },
     {
       invariantKind: "departure",
-      statement: "What moved is said as what the mark was and what it became, family by family.",
+      statement:
+        "What moved is said as what the mark was and what that mark became, family by family.",
     },
     {
       invariantKind: "departure",
