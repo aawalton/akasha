@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git-transport/backend-env/backend-env.module.ts b/git-transport/backend-env/backend-env.module.ts
+index 77ac82cf49c2dabd61535396a6a71a9c58528144..481d0c06983ef30b4096024a31d1ea78b0437c28 100644
+--- a/git-transport/backend-env/backend-env.module.ts
++++ b/git-transport/backend-env/backend-env.module.ts
+@@ -21,7 +21,7 @@ export const backendEnv = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name the environment does not carry falls back to what is spelled here.",
++      statement: "A name the environment does not carry falls back to the value spelled here.",
+     },
+     {
+       invariantKind: "absence",
