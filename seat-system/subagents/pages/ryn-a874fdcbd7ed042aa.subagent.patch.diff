@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/session-planning/session-selection/session-selection.module.ts b/alan/fitness/session-planning/session-selection/session-selection.module.ts
-index 43f8c78b329775be97714c7aa06287016347ea30..025d0bf01ddaaaffcd598ead4efca75d32df087d 100644
+index 43f8c78b329775be97714c7aa06287016347ea30..3d422d7e56f71d23fe4d72f38bdef2d3237ec256 100644
 --- a/alan/fitness/session-planning/session-selection/session-selection.module.ts
 +++ b/alan/fitness/session-planning/session-selection/session-selection.module.ts
 @@ -11,7 +11,7 @@ export const sessionSelection = {
@@ -17,6 +17,15 @@ index 43f8c78b329775be97714c7aa06287016347ea30..025d0bf01ddaaaffcd598ead4efca75d
        invariantKind: "departure",
 -      statement: "A movement already performed today holds the slot it fits.",
 +      statement: "A movement already performed today holds the slot that movement fits.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +31,7 @@ export const sessionSelection = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A slot that cannot be filled is reported with the reason it could not.",
++      statement: "A slot that cannot be filled is reported with the reason that slot could not.",
      },
      {
        invariantKind: "departure",
