@@ -19,7 +19,7 @@ export const poolConfigBuild = {
     {
       invariantKind: "departure",
       statement:
-        "The pool file folds into the traffic cop's hash, so changing it re-provisions the cop.",
+        "The pool file folds into the traffic cop's hash, so changing that file re-provisions the cop.",
     },
   ],
 } as const satisfies Module
