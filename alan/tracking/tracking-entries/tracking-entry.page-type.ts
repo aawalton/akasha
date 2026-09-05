@@ -18,7 +18,7 @@ export const trackingEntry = {
     {
       invariantKind: "departure",
       statement:
-        "Which shape an entry takes is the page type it is rather than a value the entry states.",
+        "Which shape an entry takes is the page type that entry is rather than a value the entry states.",
     },
     {
       invariantKind: "absence",
