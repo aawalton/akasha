@@ -18,11 +18,11 @@ export const inferenceRunRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carries the versions the service ran at the moment it ran.",
+      statement: "A record carries the versions the service ran at the moment the run ran.",
     },
     {
       invariantKind: "departure",
-      statement: "A record carries the command line that asked for it.",
+      statement: "A record carries the command line that asked for the run.",
     },
   ],
 } as const satisfies Module
