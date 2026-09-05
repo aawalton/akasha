@@ -35,7 +35,7 @@ export const watcherSettingsConsumables = {
     },
     {
       invariantKind: "departure",
-      statement: "A failure names the snapshot at fault and what was wrong with that snapshot.",
+      statement: "A failure names the snapshot at fault and the reason that snapshot is at fault.",
     },
     {
       invariantKind: "departure",
