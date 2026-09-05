@@ -197,6 +197,34 @@ index 449abb5b20ccc09c9fedc7e9929e9ebb542c3694..b68fa3672f94da342900cb9da02d7c6f
    writing(
      root,
      path,
+diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+index 94f3d13eb7205653152d0e5a541546da4a1f7be2..0e7298ac816fa78c6819a4ad48b3905fb04c312b 100644
+--- a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
++++ b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+@@ -26,9 +26,9 @@ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+ const PATH = "akasha/thing/thing.module.ts"
+ 
+ function typeWorld(root: string): readonly string[] {
+-  const page = pageTypeListed(root, "page", null)
+-  const domain = pageTypeListed(root, "domain", "page")
+-  const module = pageTypeListed(root, "module", "domain")
++  const page = pageTypeListed(root, "page", [])
++  const domain = pageTypeListed(root, "domain", ["page"])
++  const module = pageTypeListed(root, "module", ["domain"])
+   return [module, domain, page]
+ }
+ 
+@@ -83,8 +83,8 @@ test("a file naming no page type in its name answers to no type", () => {
+ 
+ test("a chain that turns back on itself is walked once", () => {
+   const root = scratch.rootFor("akasha-file-page-type-")
+-  const one = pageTypeListed(root, "one", "two")
+-  const two = pageTypeListed(root, "two", "one")
++  const one = pageTypeListed(root, "one", ["two"])
++  const two = pageTypeListed(root, "two", ["one"])
+   const at = "akasha/thing/thing.one.ts"
+   writing(root, at, "body\n")
+   expect(pathsOf(warrantsAt(root, at))).toEqual([one, two])
 diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
 index 9bd06f555a760448993eaba392e46341e877bdab..1d49b6347797f51c27d01c6833dde9f009e32230 100644
 --- a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
