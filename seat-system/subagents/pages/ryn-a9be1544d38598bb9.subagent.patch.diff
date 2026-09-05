@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-main/watcher-main.module.ts b/temper/temper-watcher/watcher-main/watcher-main.module.ts
-index 94837a7ce57d2bbc8be0a22d47855223171feea5..a5576501becb9bae0bc27b77c34b9caac416b2fc 100644
+index 94837a7ce57d2bbc8be0a22d47855223171feea5..936b82dfa8d4d24b905c2eeaf6c4f35bb9f76cb8 100644
 --- a/temper/temper-watcher/watcher-main/watcher-main.module.ts
 +++ b/temper/temper-watcher/watcher-main/watcher-main.module.ts
 @@ -24,7 +24,7 @@ export const watcherMain = {
@@ -12,12 +12,17 @@ index 94837a7ce57d2bbc8be0a22d47855223171feea5..a5576501becb9bae0bc27b77c34b9caa
      },
      {
        invariantKind: "departure",
-@@ -69,7 +69,7 @@ export const watcherMain = {
+@@ -69,11 +69,11 @@ export const watcherMain = {
      },
      {
        invariantKind: "departure",
 -      statement: "What watches a file for changes is handed in.",
 +      statement: "The call that watches a file for changes is handed in.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What repeats the hourly update check is handed in.",
++      statement: "The call that repeats the hourly update check is handed in.",
      },
      {
        invariantKind: "departure",
