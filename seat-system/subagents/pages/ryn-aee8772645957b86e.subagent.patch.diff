@@ -1,5 +1,5 @@
 diff --git a/command-system/gated-write/gated-write.module.ts b/command-system/gated-write/gated-write.module.ts
-index 253183a95ab7bcc0bbbbaebfa824a5f023cb3f3e..1a32c85f71241f7b2ff3125de302d94ceb7392d0 100644
+index 253183a95ab7bcc0bbbbaebfa824a5f023cb3f3e..cff15275a918ee345a3b53b1aff2bcbd6d038916 100644
 --- a/command-system/gated-write/gated-write.module.ts
 +++ b/command-system/gated-write/gated-write.module.ts
 @@ -9,11 +9,11 @@ export const gatedWrite = {
@@ -13,6 +13,16 @@ index 253183a95ab7bcc0bbbbaebfa824a5f023cb3f3e..1a32c85f71241f7b2ff3125de302d94c
        invariantKind: "departure",
 -      statement: "Only a refusal carries a reason with it.",
 +      statement: "Only a refusal carries a reason with that refusal.",
+     },
+     {
+       invariantKind: "departure",
+@@ -21,7 +21,8 @@ export const gatedWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A line is a failure where it opens with a bracketed name followed by fail.",
++      statement:
++        "A line is a failure where that line opens with a bracketed name followed by fail.",
      },
      {
        invariantKind: "departure",
