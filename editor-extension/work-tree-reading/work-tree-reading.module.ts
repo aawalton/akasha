@@ -4,59 +4,28 @@ export const workTreeReading = {
   id: "01a06867-dbcb-78e4-a9b3-4a59f26c06ca",
   pageTypeSlug: "module",
   slug: "work-tree-reading",
-  definition: "the work tree asked of the harness and the answer read back into rows",
+  definition: "what is counted, keyed and opened from work tree rows already in hand",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Composing the tree opens page bodies, which only bun loads, so the tree is asked as a child process.",
+      statement: "A count of the rows counts every row beneath a root as well as that root.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The colors are asked apart from the tree, since reading those colors opens no page.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An answer that is no JSON object is refused as naming no initiative at all.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
-        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A row carrying no key is refused rather than drawn as a keyless initiative.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal names the place in the answer the bad row was at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row carrying no label is labelled by its key.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A color is read under either spelling the command answers with.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A color that is no text or is empty is read as no color.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The colors are raised through the tree as the answer is read rather than after.",
+      statement: "The keys are answered with a row before every row beneath that row.",
     },
     {
       invariantKind: "departure",
       statement: "A row's document is the checkout joined to the path that row carries.",
     },
     {
+      invariantKind: "departure",
+      statement: "A row carrying no path opens no document.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here composes the tree the command answers with.",
+      statement: "Nothing here composes a tree or reads an answer.",
     },
     {
       invariantKind: "absence",

@@ -4,46 +4,12 @@ export const domainTreeReading = {
   id: "01a06867-dbcb-7956-a5a6-01ace3eca2d4",
   pageTypeSlug: "module",
   slug: "domain-tree-reading",
-  definition: "the domain tree asked of the harness and the answer read back into rows",
+  definition: "the checkout a domain tree was composed beside, and the document each row opens",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Composing the tree opens page bodies, which only bun loads, so the tree is asked as a child process.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What the command said is handed back as bytes before anything is parsed.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An answer that is no JSON object is refused as naming no domain at all.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
-        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A row carrying no slug is refused rather than drawn as a nameless domain.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A row carrying no path is refused, since nothing could be opened for that row.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal names the place in the answer the bad row was at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A persona or a position that is no string or number is read as none.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An answer naming no unreached domain is read as reaching every domain.",
+      statement: "A tree carries the checkout that tree was composed beside.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +17,7 @@ export const domainTreeReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here composes the tree the command answers with.",
+      statement: "Nothing here composes a tree or reads an answer.",
     },
     {
       invariantKind: "absence",

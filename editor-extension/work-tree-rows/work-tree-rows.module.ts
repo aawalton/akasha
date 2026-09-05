@@ -4,7 +4,7 @@ export const workTreeRows = {
   id: "01a06867-dbcb-7799-8db6-bc35df7360fc",
   pageTypeSlug: "module",
   slug: "work-tree-rows",
-  definition: "the shape of a work tree row, held apart from the reading that fills it",
+  definition: "the shape of a work tree row, held apart from both sides that handle it",
   code: "ts",
   invariants: [
     {
@@ -25,12 +25,7 @@ export const workTreeRows = {
     },
     {
       invariantKind: "departure",
-      statement: "The colors are answered keyed the way a row is keyed.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The shape sits here so the parser and the coloring share one edge rather than two.",
+      statement: "The shape sits here so the panel and the view share one edge rather than two.",
     },
     {
       invariantKind: "absence",

@@ -41,7 +41,6 @@
     "./seat-tab-context": "./seat-tab-context/seat-tab-context.module.code.ts",
     "./seat-terminals": "./seat-terminals/seat-terminals.module.code.ts",
     "./seat-toggles": "./seat-toggles/seat-toggles.module.code.ts",
-    "./settled-refresh": "./settled-refresh/settled-refresh.module.code.ts",
     "./status-bar-legends": "./status-bar-legends/status-bar-legends.module.code.ts",
     "./status-bar-panel": "./status-bar-panel/status-bar-panel.module.code.ts",
     "./status-bar-slot-types": "./status-bar-slot-types/status-bar-slot-types.module.code.ts",
