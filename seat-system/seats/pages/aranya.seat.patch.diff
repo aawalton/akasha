@@ -1,3 +1,15 @@
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index 1cb37b6156c8bbcf0f1373c92d06b022c491e820..87e17cb3d0ca6c088957e8dab0bb50ff8c72837a 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -11,6 +11,7 @@ import {
+ } from "../drafting/drafting.module.code.ts"
+ import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
+ import {
++  editsOf,
+   type FileCarry,
+   type FileEdit,
+   landing,
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 3e79fda62c024d6f42de233b752efe6c1bb8c0c7..90fc7cb550cd66feb17a1956ad8bf3d39d4f77eb 100644
 --- a/command-system/landing/landing.module.code.ts
