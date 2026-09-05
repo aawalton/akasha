@@ -11,15 +11,15 @@ export const bodyMerging = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The body a change was built from is what a merge reads as its base.",
+      statement: "A merge reads the body a change was built from as its base.",
     },
     {
       invariantKind: "departure",
-      statement: "The body a change would leave is what a merge reads as the change's own.",
+      statement: "A merge reads the body a change would leave as the change's own.",
     },
     {
       invariantKind: "departure",
-      statement: "The body HEAD holds is what a merge reads as what moved under the change.",
+      statement: "A merge reads the body HEAD holds as the body that moved under the change.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A body already holding what a change would leave is landed whole.",
+      statement: "A body already holding the body a change would leave is landed whole.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const bodyMerging = {
     {
       invariantKind: "departure",
       statement:
-        "A body marked as taken away is that body under the label for what a change would leave.",
+        "A body marked as taken away is that body under the label for the body a change would leave.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +68,8 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying the label for what a change would leave is carrying a conflict.",
+      statement:
+        "A body carrying the label for the body a change would leave is carrying a conflict.",
     },
     {
       invariantKind: "departure",
