@@ -1,5 +1,5 @@
 diff --git a/commands/wan/wan.command.ts b/commands/wan/wan.command.ts
-index 6356978f04d0be3b90f2cc5fb42520c777bf4030..6e4a40751b37aa13b676f6527ea6393fa3aa6fda 100644
+index 6356978f04d0be3b90f2cc5fb42520c777bf4030..d9b170b3e4003b588e98251ff3444317cf3a9196 100644
 --- a/commands/wan/wan.command.ts
 +++ b/commands/wan/wan.command.ts
 @@ -88,7 +88,8 @@ export const wan = {
@@ -9,6 +9,15 @@ index 6356978f04d0be3b90f2cc5fb42520c777bf4030..6e4a40751b37aa13b676f6527ea6393f
 -      statement: "A generate naming the last frame alone has the model make the lead-in to it.",
 +      statement:
 +        "A generate naming the last frame alone has the model make the lead-in to that frame.",
+     },
+     {
+       invariantKind: "departure",
+@@ -98,7 +99,7 @@ export const wan = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An extend's context window is fewer frames than the clip it is pulled from holds.",
++        "An extend's context window is fewer frames than the clip that window is pulled from holds.",
      },
      {
        invariantKind: "departure",
