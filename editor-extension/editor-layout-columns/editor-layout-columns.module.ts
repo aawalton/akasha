@@ -10,11 +10,11 @@ export const editorLayoutColumns = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A group is placed by the column it is in.",
+      statement: "A group is placed by the column that group is in.",
     },
     {
       invariantKind: "departure",
-      statement: "An arrangement names the window it was taken from.",
+      statement: "An arrangement names the window that arrangement was taken from.",
     },
     {
       invariantKind: "departure",
