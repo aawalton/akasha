@@ -1,8 +1,8 @@
 diff --git a/infrastructure/inference-runs/inference-run-record/inference-run-record.module.ts b/infrastructure/inference-runs/inference-run-record/inference-run-record.module.ts
-index 2d4dd7527184c05255d2ae76af51157ae59ef37d..3ea83839225c114ad20a0fefabb090a2289614b2 100644
+index 2d4dd7527184c05255d2ae76af51157ae59ef37d..5f86d5f1f0b91b443af753b8f2757ad6d9685e06 100644
 --- a/infrastructure/inference-runs/inference-run-record/inference-run-record.module.ts
 +++ b/infrastructure/inference-runs/inference-run-record/inference-run-record.module.ts
-@@ -18,7 +18,7 @@ export const inferenceRunRecord = {
+@@ -18,11 +18,11 @@ export const inferenceRunRecord = {
      },
      {
        invariantKind: "departure",
@@ -11,3 +11,8 @@ index 2d4dd7527184c05255d2ae76af51157ae59ef37d..3ea83839225c114ad20a0fefabb090a2
      },
      {
        invariantKind: "departure",
+-      statement: "A record carries the command line that asked for it.",
++      statement: "A record carries the command line that asked for the run.",
+     },
+   ],
+ } as const satisfies Module
