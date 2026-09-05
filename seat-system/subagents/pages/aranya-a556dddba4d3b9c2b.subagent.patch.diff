@@ -176,6 +176,19 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c8
    expect(listedAt(root, MODULE, "held")).toHaveLength(1)
    expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
    expect(() => index.everyPath()).toThrow(NOT_THERE)
+diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
+index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..5a69b82a46b3cf288178e949e8b3178c2281dff7 100644
+--- a/pages/indexes/indexing/indexing.module.code.ts
++++ b/pages/indexes/indexing/indexing.module.code.ts
+@@ -7,7 +7,7 @@ import {
+   rmSync,
+   writeFileSync,
+ } from "node:fs"
+-import { dirname, isAbsolute, join, relative } from "node:path"
++import { dirname, join } from "node:path"
+ import { typed } from "@akasha/code-system/code-typing"
+ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+ import {
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
