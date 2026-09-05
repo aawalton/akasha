@@ -4,7 +4,7 @@ import { resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { chatterNamesModule } from "../eso-chatter-names/eso-chatter-names.module.code.ts"
 
 const DATA = 2

@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { ran } from "@akasha/utils-run/running"

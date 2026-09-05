@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const buildVisibility = {
   id: "01a06862-c4ee-7a6d-886a-f9af2859fd5f",

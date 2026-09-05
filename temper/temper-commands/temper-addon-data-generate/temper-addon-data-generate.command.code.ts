@@ -1,7 +1,7 @@
 import { realpathSync } from "node:fs"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 
 const DATA = 2
 

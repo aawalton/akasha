@@ -5,8 +5,8 @@ import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { listedAt, listedById, slugsOfType } from "@akasha/indexes"
-import { besideAt } from "@akasha/pages-system/page-file-name"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { besideAt } from "@akasha/pages/page-file-name"
+import { valueAt } from "@akasha/pages/page-value"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
 
 const INPUT = 1

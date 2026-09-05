@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { BuildHash } from "../build-versions/properties/build-hash.text-property.ts"
 import type { BuildCorrelationId } from "../character-builds/properties/build-correlation-id.text-property.ts"
 import type { BuildTargetCount } from "../character-builds/properties/build-target-count.number-property.ts"

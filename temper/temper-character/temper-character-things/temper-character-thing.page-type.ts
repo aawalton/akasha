@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { Completion } from "./properties/completion.file-property.ts"
 import type { TargetBuildId } from "./properties/target-build-id.text-property.ts"

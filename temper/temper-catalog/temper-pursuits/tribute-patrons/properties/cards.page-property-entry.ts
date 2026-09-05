@@ -1,4 +1,4 @@
-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
+import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
 
 export type Cards = "jsonl"
 

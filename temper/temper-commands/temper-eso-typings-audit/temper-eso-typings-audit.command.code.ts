@@ -4,7 +4,7 @@ import { renderAuditReading, summarizeAudit } from "@akasha/checks/audit-reading
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import {
   buildEsoClonePopulation,
   WALK_ROOT,

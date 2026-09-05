@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperScript } from "../scripts/temper-script.page-type.ts"
 
 export type TemperFocusScript = TemperScript

@@ -1,7 +1,7 @@
 import { realpathSync } from "node:fs"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { port as portHousing } from "@akasha/temper-upstream-data/housing-upstream-port"
 import { port as portMapData } from "@akasha/temper-upstream-data/map-data-upstream-port"
 import { port as portTreasure } from "@akasha/temper-upstream-data/treasure-upstream-port"

@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const server = {
   id: "01a06e4f-b738-785a-b942-ef91c66319dc",

@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { join, relative, resolve, sep } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"

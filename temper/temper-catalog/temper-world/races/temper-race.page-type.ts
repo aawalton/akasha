@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { AltName } from "../properties/alt-name.text-property.ts"
 import type { EsoRaceId } from "../properties/eso-race-id.number-property.ts"

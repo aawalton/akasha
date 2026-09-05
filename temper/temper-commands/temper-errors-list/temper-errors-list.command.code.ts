@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
 import { collectEntries, SAVED_VARIABLES_NAME } from "@akasha/temper-errors-triage/errors-collect"

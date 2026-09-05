@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { FocusScriptId } from "../properties/focus-script-id.text-property.ts"
 import type { GrimoireId } from "../properties/grimoire-id.text-property.ts"
 import type { TemperSkill } from "../skills/temper-skill.page-type.ts"

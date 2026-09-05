@@ -5,7 +5,7 @@ import { byteLength, renderSeries, stageSeries } from "@akasha/code-system/name-
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { esoDocPathForLuaRoot } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
 import {
   esoCloneHeaderLines,

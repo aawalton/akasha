@@ -1,4 +1,4 @@
-import type { RelationProperty } from "@akasha/pages-system/relation-property"
+import type { RelationProperty } from "@akasha/pages/relation-property"
 
 export type QuestGiver = string
 

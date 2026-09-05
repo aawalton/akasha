@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { temperAddonTypecheck } from "./temper-addon-typecheck.command.code.ts"
 
 const scratch = scratchWorld()

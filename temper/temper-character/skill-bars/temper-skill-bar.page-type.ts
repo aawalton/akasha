@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 
 export type TemperSkillBar = TemperCharacterThing

@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { writeLoadOrder } from "@akasha/temper-addon-build/addon-load-order"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
 

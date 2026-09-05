@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { FirstName } from "./properties/first-name.text-property.ts"
 import type { LiveBuildId } from "./properties/live-build-id.text-property.ts"

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { SlotType } from "../properties/slot-type.text-property.ts"
 import type { TemperScribingThing } from "../scribing-things/temper-scribing-thing.page-type.ts"
 

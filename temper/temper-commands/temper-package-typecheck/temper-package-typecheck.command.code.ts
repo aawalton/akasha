@@ -2,7 +2,7 @@ import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { ran } from "@akasha/utils-run/running"
 
 const DATA = 2

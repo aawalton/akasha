@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const baseRoles = {
   id: "01a06862-c4ee-780f-ab05-93eb2cdb2991",
