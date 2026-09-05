@@ -26,7 +26,7 @@ export const watcherVersion = {
     },
     {
       invariantKind: "constraint",
-      statement: "Moving this file does not change what the bundler puts in.",
+      statement: "Moving this file does not change the commit the bundler puts in.",
     },
     {
       invariantKind: "absence",
