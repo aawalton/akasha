@@ -122,7 +122,7 @@ index 8703a77a4105f4cc8ca0c4a88f3df711261fc356..13fbf90584beaaa40ab1ad91286b432c
  function shortened(said: string): string {
    return said.length > MOST ? `${said.slice(0, MOST)}…` : said
 diff --git a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts
-index db11d49d4cd98cd87807c9c44c843f8780742d23..cdb2ee6b984c01ab877503979e6eb5b687d92293 100644
+index db11d49d4cd98cd87807c9c44c843f8780742d23..6ec9c209a1716353710d3fc3299757c9cb5eb018 100644
 --- a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts
 +++ b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts
 @@ -34,7 +34,7 @@ test("asking the indexes folder for the path leaves nothing to refuse", () => {
@@ -134,6 +134,15 @@ index db11d49d4cd98cd87807c9c44c843f8780742d23..cdb2ee6b984c01ab877503979e6eb5b6
    const body = 'const INDEX = join(".git", "data")\nconst bound = "`.git/data` is refused here."\n'
    expect(reasonsIn(given(HELD, body))).toEqual([])
  })
+@@ -49,7 +49,7 @@ test("each spelling is named on its own", () => {
+ })
+ 
+ test("a long string carrying the path is shortened where the refusal names it", () => {
+-  const why = `nothing at all stands under ${AT}/identity/page/id, so the index answered nothing`
++  const why = `nothing at all is under ${AT}/identity/page/id, so the index answered nothing`
+   const said = reasonsIn(given(HELD, `const why = "${why}"\n`))
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("…")
 diff --git a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
 index 817d162ab63b4fbd672109f7107fb575445ba550..6a26808662b2aba10ad6f51c08b7687a13150a8c 100644
 --- a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
