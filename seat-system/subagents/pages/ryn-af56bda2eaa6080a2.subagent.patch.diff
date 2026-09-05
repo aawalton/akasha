@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/observation-merging/observation-merging.module.ts b/editor-extension/observation-merging/observation-merging.module.ts
+index 4c5c315bd20e4bcc48a2309691080dec10a54a81..0f9f971fa3728e8c79e7a080c4ba59a4e6f139f1 100644
+--- a/editor-extension/observation-merging/observation-merging.module.ts
++++ b/editor-extension/observation-merging/observation-merging.module.ts
+@@ -30,7 +30,7 @@ export const observationMerging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A first observation is the patch with a time on it.",
++      statement: "A first observation is the patch with a time on that patch.",
+     },
+     {
+       invariantKind: "departure",
