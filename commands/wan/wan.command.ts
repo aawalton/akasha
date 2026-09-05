@@ -88,7 +88,8 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "A generate naming the last frame alone has the model make the lead-in to it.",
+      statement:
+        "A generate naming the last frame alone has the model make the lead-in to that frame.",
     },
     {
       invariantKind: "departure",
@@ -98,7 +99,7 @@ export const wan = {
     {
       invariantKind: "departure",
       statement:
-        "An extend's context window is fewer frames than the clip it is pulled from holds.",
+        "An extend's context window is fewer frames than the clip that window is pulled from holds.",
     },
     {
       invariantKind: "departure",
@@ -118,11 +119,11 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "A frames act writes one numbered PNG for each frame it takes.",
+      statement: "A frames act writes one numbered PNG for each frame that act takes.",
     },
     {
       invariantKind: "departure",
-      statement: "A score answers one row for each frame and nothing beside them.",
+      statement: "A score answers one row for each frame and nothing beside those rows.",
     },
     {
       invariantKind: "departure",
