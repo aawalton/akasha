@@ -30,8 +30,7 @@ export const monarchReconcile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A pending row Monarch no longer lists is cleared, because a pending row is replaced rather than amended.",
+      statement: "A pending row Monarch no longer lists is cleared.",
     },
     {
       invariantKind: "departure",
