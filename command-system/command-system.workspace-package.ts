@@ -88,5 +88,10 @@ export const commandSystem = {
       invariantKind: "absence",
       statement: "No command of the old ops CLI remains, and nothing dispatches one.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command is reached by importing it or by naming it rather than by spelling its path.",
+    },
   ],
 } as const satisfies WorkspacePackage

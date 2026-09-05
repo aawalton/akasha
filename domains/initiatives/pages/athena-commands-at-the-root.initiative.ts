@@ -39,11 +39,6 @@ export const athenaCommandsAtTheRoot = {
         "Reading a term's page clears it for every later change, for any file, because `owingOf` owes nothing while the record holds that page at its current blob. Alan ruled this intended: answering a warrant by when something was read is barred, so a re-owed warrant would have no escape. The refusal text contradicted itself and was fixed at 2356754c61. What is left is telling the writer without refusing, and no such channel exists: `troubling` turns any non-empty array into refusals.",
     },
     {
-      statement: "Nothing names a command by its path.",
-      workingMemory:
-        "Met for the shell, the recipient resolver and monarch, and not for the editor: `harness-call` assembles `root/commands/<c>/<c>.command.code.ts` for eleven callers, and its own page claims a command's file is named beside its page rather than assembled. The guard is blind to that by its declared gap, a name built as the code runs is not seen, so it reads the two `akasha tracking` spawns in `alan/tracking` and nothing else. `SEAT_COMMAND_REL` is generated shell only, and `REPAIR_AT` is a message.",
-    },
-    {
       statement: "Command pages cannot define domain logic, only command concerns.",
       workingMemory:
         "Four callers spawned a command from code. compose-boot and compose-subagents were the plain case, sibling modules wrapped in a child process and a five second kill ceiling; the ceiling goes, because a compose that hangs is a root cause rather than a case each caller handles. The other three are real extractions: seat-start and seat-resume export only `help` and a default taking argv, and the two email commands answer a command `Answer`. None of the four had a domain function to import.",
