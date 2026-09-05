@@ -85,10 +85,6 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "A generate naming neither a first frame nor a last frame is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A generate naming the last frame alone has the model make the lead-in to that frame.",
     },
