@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
+index 34080342808cb9db6f16a402e585c55d31968d07..18e67c6f12b8e6b9664665b7e2fa0610df379eb7 100644
+--- a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
++++ b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
+@@ -67,7 +67,7 @@ export const exerciseNextSet = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here answers the whole plan; that is what exercise-select is for.",
++      statement: "Nothing here answers the whole plan; exercise-select is for the whole plan.",
+     },
+   ],
+ } as const satisfies Command
