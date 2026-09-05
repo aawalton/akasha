@@ -29,7 +29,8 @@ export const temperInventoryCapacityAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "An overflowing destination names what the capacity filter dropped.",
+      statement:
+        "An overflowing destination names the rules and items the capacity filter dropped.",
     },
     {
       invariantKind: "departure",
