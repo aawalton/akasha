@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/infrastructure/inference-clients/comfy-client/comfy-client.module.ts b/infrastructure/inference-clients/comfy-client/comfy-client.module.ts
-index 2f449fc6ae92799a979647af4cd4c8791e85eb04..40b0ea0c1bb84cff1c9c3ad83f5177c3bb299a0d 100644
+index 2f449fc6ae92799a979647af4cd4c8791e85eb04..2814c7c481fa4e1e08f4c5c0b7fd9d66a1029fc9 100644
 --- a/infrastructure/inference-clients/comfy-client/comfy-client.module.ts
 +++ b/infrastructure/inference-clients/comfy-client/comfy-client.module.ts
-@@ -13,7 +13,7 @@ export const comfyClient = {
+@@ -13,11 +13,11 @@ export const comfyClient = {
      },
      {
        invariantKind: "departure",
 -      statement: "An input image is uploaded before the graph naming it is queued.",
 +      statement: "An input image is uploaded before the graph naming that image is queued.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An upload overwrites the name it lands under.",
++      statement: "An upload overwrites the name that upload lands under.",
      },
      {
        invariantKind: "departure",
