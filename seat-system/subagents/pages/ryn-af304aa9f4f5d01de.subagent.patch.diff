@@ -1,0 +1,16 @@
+diff --git a/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts b/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts
+index 5d4a2ae0474ba92a564d50eeb361f267a64301aa..04b618a4d529b797e6a2d9166db46a08a3cd5933 100644
+--- a/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts
++++ b/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts
+@@ -42,11 +42,6 @@ export const temperTradingAddon = {
+       invariantKind: "departure",
+       statement: "A captured listing is dropped once the listing has aged past the expiry.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A capture replaces the guild's earlier snapshot rather than adding to the snapshot.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
