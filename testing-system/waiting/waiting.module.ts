@@ -9,7 +9,7 @@ export const waiting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is waited for is asked again rather than told.",
+      statement: "The condition waited for is asked again rather than told.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const waiting = {
     },
     {
       invariantKind: "departure",
-      statement: "What is waited for is asked once more after time is up.",
+      statement: "The condition waited for is asked once more after time is up.",
     },
   ],
 } as const satisfies Module
