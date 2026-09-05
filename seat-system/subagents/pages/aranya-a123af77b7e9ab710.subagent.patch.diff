@@ -72,58 +72,6 @@ index 36616e65a0a0e44f60df44fe6c06dc42d1786e87..87f9fca64ae58b03b136eeeb21818945
 +  }
 +  return byId
 +}
-diff --git a/seat-system/seat-proc-liveness/seat-proc-liveness.module.test.ts b/seat-system/seat-proc-liveness/seat-proc-liveness.module.test.ts
-index 0ed8a9fb856ef91f7bc05ef5e045c8dd885b043e..4d85dc241c8a50dae52d8b4a6a4fae2496bb3acc 100644
---- a/seat-system/seat-proc-liveness/seat-proc-liveness.module.test.ts
-+++ b/seat-system/seat-proc-liveness/seat-proc-liveness.module.test.ts
-@@ -1,5 +1,6 @@
- import { expect, test } from "bun:test"
- import {
-+  actingAgentPidsFromProc,
-   agentsWithInFlightBackgroundTask,
-   backgroundTaskCmdlinesByAgent,
-   isAgentProcessCmdline,
-@@ -12,6 +13,8 @@ import {
-   type ProcLivenessEntry,
- } from "./seat-proc-liveness.module.code.ts"
- 
-+const ACTING = `${ONE}--a38f63805f9b94edf`
-+
- const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
- const TWO = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f8"
- 
-@@ -111,3 +114,31 @@ test("every pid an agent's own processes stand on is gathered under its id", ()
-   ])
-   expect(said.get(ONE)).toEqual([1, 2])
- })
-+
-+test("a subagent is named by the agent a process acts under rather than by AGENT_ID", () => {
-+  const entries = [entry({ agentId: ONE, actingAgentId: ACTING, cmdline: TASK, pid: 7 })]
-+  expect(liveAgentPidsFromProc(entries).has(ACTING)).toBe(false)
-+  expect(actingAgentPidsFromProc(entries).get(ACTING)).toEqual([7])
-+})
-+
-+test("a process naming no acting agent is gathered under nobody", () => {
-+  const said = actingAgentPidsFromProc([entry({ agentId: ONE, cmdline: CHILD, pid: 1 })])
-+  expect(said.size).toBe(0)
-+})
-+
-+test("every pid a subagent's processes run on is gathered under its acting id", () => {
-+  const said = actingAgentPidsFromProc([
-+    entry({ agentId: ONE, actingAgentId: ACTING, cmdline: TASK, pid: 4 }),
-+    entry({ agentId: ONE, actingAgentId: ACTING, cmdline: "sleep 5", pid: 5 }),
-+    entry({ agentId: ONE, cmdline: CHILD, pid: 6 }),
-+  ])
-+  expect(said.get(ACTING)).toEqual([4, 5])
-+  expect(said.size).toBe(1)
-+})
-+
-+test("a process this reads no cmdline test over is gathered all the same", () => {
-+  const said = actingAgentPidsFromProc([
-+    entry({ agentId: ONE, actingAgentId: ACTING, cmdline: "cat /etc/hosts", pid: 9 }),
-+  ])
-+  expect(said.get(ACTING)).toEqual([9])
-+})
 diff --git a/seat-system/seat-proc-liveness/seat-proc-liveness.module.ts b/seat-system/seat-proc-liveness/seat-proc-liveness.module.ts
 index f5e639a9b6ea3b4d1ccb04745fc60e3ea4f8947a..fc27d4fd2d598fbb261cfa6e74fba3c8bb1a6d1e 100644
 --- a/seat-system/seat-proc-liveness/seat-proc-liveness.module.ts
