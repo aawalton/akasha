@@ -20,7 +20,7 @@ export const monarchAgree = {
     },
     {
       invariantKind: "departure",
-      statement: "Every claim is said as it is weighed rather than only at the end.",
+      statement: "Every claim is said as that claim is weighed rather than only at the end.",
     },
     {
       invariantKind: "departure",
