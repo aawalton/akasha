@@ -20,7 +20,7 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "Where the day stands is the readout's reading now, and a stand below the open is a fall.",
+        "Where the day sits is the readout's reading now, and a reading below the open is a fall.",
     },
     {
       invariantKind: "departure",

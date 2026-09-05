@@ -195,7 +195,7 @@ export function apnsSenderFromEnv(): SenderRead {
   if (pem === "") {
     return {
       sender: null,
-      why: `${APNS_AUTH_KEY_ENV} is unset, so no provider token can be signed — every push is a logged no-op until it stands in ~/.secrets.env`,
+      why: `${APNS_AUTH_KEY_ENV} is unset, so no provider token can be signed — every push is a logged no-op until it is in ~/.secrets.env`,
     }
   }
   return { sender: apnsSender(pem), why: null }

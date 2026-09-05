@@ -87,7 +87,7 @@ async function constitutionOf(now: Date): Promise<number> {
   const checkout = here[AKASHA]
   if (checkout === undefined || checkout === "") {
     throw new Error(
-      "no akasha checkout stands here, so the plants Alan ate are unknown rather than none"
+      "no akasha checkout exists here, so the plants Alan ate are unknown rather than none"
     )
   }
   return fetchConstitutionPoints(askingIn(checkout), window.from, window.to)

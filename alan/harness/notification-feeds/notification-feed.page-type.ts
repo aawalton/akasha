@@ -31,7 +31,7 @@ export const notificationFeed = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A feed stands in a place of its own rather than beside the person's page.",
+      statement: "A feed sits in a place of its own rather than beside the person's page.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const notificationFeed = {
     },
     {
       invariantKind: "gap",
-      statement: "The feeds stand as pages under this type rather than as markdown.",
+      statement: "The feeds are pages under this type rather than markdown.",
     },
   ],
 } as const satisfies PageType

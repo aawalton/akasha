@@ -7,6 +7,6 @@ export const calendarEventExternalLink = {
   pageTypeSlug: "url-property",
   slug: "calendar-event-external-link",
   propertySlug: "external-link",
-  definition: "the address an event stands at on its source",
+  definition: "the address an event is at on its source",
   max: 200,
 } as const satisfies UrlProperty

@@ -43,7 +43,7 @@ export const calendarEvent = {
     },
     {
       invariantKind: "departure",
-      statement: "An event stands beside the source publishing it rather than in a row.",
+      statement: "An event sits beside the source publishing it rather than in a row.",
     },
   ],
 } as const satisfies PageType

@@ -18,12 +18,12 @@ export const pushNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "A notification stands as a row in the feed of the person it was pushed at, so the feed is what is watched.",
+        "A notification is a row in the feed of the person it was pushed at, so the feed is what is watched.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The first tick after a start begins at the newest row already standing, so a start is no flood.",
+        "The first tick after a start begins at the newest row already there, so a start is no flood.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const pushNotifying = {
     {
       invariantKind: "gap",
       statement:
-        "Notifications are read and the feed written from the pages data directly rather than through the pages system service, as code standing on the workstation must.",
+        "Notifications are read and the feed written from the pages data directly rather than through the pages system service, as code on the workstation must.",
     },
   ],
 } as const satisfies Module
