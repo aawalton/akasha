@@ -132,7 +132,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "An app's web directory holds what a build put there.",
+      statement: "An app's web directory holds the site a build put there.",
     },
     {
       invariantKind: "departure",
@@ -152,7 +152,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "An app's icon is made from its drawing by whoever changes the drawing.",
+      statement: "An app's icon is made from its drawing by the change to that drawing.",
     },
     {
       invariantKind: "departure",
