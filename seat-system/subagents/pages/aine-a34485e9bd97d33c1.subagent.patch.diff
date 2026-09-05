@@ -1,0 +1,110 @@
+diff --git a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.code.ts b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.code.ts
+index 9ac2367764cde2a531f6e13cfa859c6bfb97857a..90d07643675982e659f7f63315b3bc3b25b1fcd3 100644
+--- a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.code.ts
++++ b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.code.ts
+@@ -104,8 +104,8 @@ export async function exerciseScheduleCreate(
+   const focuses = focusByDay(said.named)
+   if ("refused" in focuses) return refusedBy(focuses.refused)
+ 
+-  const standing = await rowsFor({ pageTypeSlug: WORKOUT_SCHEDULE, select: ["id", "slug"] })
+-  if ("unread" in standing) return refusedBy([standing.unread], DATA)
++  const schedules = await rowsFor({ pageTypeSlug: WORKOUT_SCHEDULE, select: ["id", "slug"] })
++  if ("unread" in schedules) return refusedBy([schedules.unread], DATA)
+   const active = await rowsFor({
+     pageTypeSlug: WORKOUT_SCHEDULE,
+     where: [{ key: "workoutScheduleActive", eq: true }],
+@@ -120,7 +120,7 @@ export async function exerciseScheduleCreate(
+   if ("refused" in stood) return refusedBy([stood.refused], DATA)
+ 
+   const taken = new Set(
+-    standing.rows.map((row) => row.slug).filter((slug): slug is string => slug !== null)
++    schedules.rows.map((row) => row.slug).filter((slug): slug is string => slug !== null)
+   )
+   const scheduleSlug = freeSlug(pageStem(title), taken)
+ 
+diff --git a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
+index cc51cd883c7378b9f09b0efea268ae92ab2893c8..4cfd36738b88231696d3c73ddd8be47ad731b3f6 100644
+--- a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
++++ b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
+@@ -4,7 +4,7 @@ export const exerciseScheduleCreate = {
+   id: "01a0685d-b7ab-7644-9eae-33ce30094126",
+   pageTypeSlug: "command",
+   slug: "exercise-schedule-create",
+-  definition: "the command standing up a weekly schedule and the seven days it is made of",
++  definition: "the command setting up a weekly schedule and the seven days it is made of",
+   code: "ts",
+   changeKindSlug: "change-mechanical",
+   taking: [
+@@ -27,7 +27,7 @@ export const exerciseScheduleCreate = {
+   ],
+   helpNotes: [
+     "every day takes a focus, and rest is one of them.",
+-    "the schedule already active is stood down before this one is stood up.",
++    "the schedule already active is stood down before this one is set up.",
+     "a day's slug is derived from the schedule's slug and the weekday.",
+   ],
+   invariants: [
+diff --git a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.code.ts b/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.code.ts
+index fe6c3cf9fa7f651713d1112c841b050ee4ba728f..73f345037bd1d67fd266c23ef6d36e479ed2aca4 100644
+--- a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.code.ts
++++ b/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.code.ts
+@@ -35,12 +35,12 @@ export function durationOf(startedAt: string | undefined, completedAt: string):
+ }
+ 
+ export function notesUnder(
+-  standing: string | undefined,
++  held: string | undefined,
+   added: string | undefined
+ ): string | undefined {
+   if (added === undefined) return undefined
+-  if (standing === undefined || standing === "") return added
+-  return `${standing}\n\n${added}`
++  if (held === undefined || held === "") return added
++  return `${held}\n\n${added}`
+ }
+ 
+ export async function exerciseSessionFinish(
+diff --git a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts b/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts
+index 09e91dcbcf2144566116a30e0f0aa8fe45f0e2bc..228985cbb66aa7ea23245adcb54378f7c4e2f1a7 100644
+--- a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts
++++ b/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts
+@@ -17,7 +17,7 @@ export const exerciseSessionFinish = {
+   ],
+   helpNotes: [
+     "the session left unsaid is the most recent one still open.",
+-    "notes given are added under the notes already standing rather than written over them.",
++    "notes given are added under the notes already there rather than written over them.",
+     "the duration is the minutes between the moment started and the moment closed.",
+     "the volume counts the bodyweight the client profile states.",
+   ],
+@@ -28,7 +28,7 @@ export const exerciseSessionFinish = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Notes given are added under the notes already standing.",
++      statement: "Notes given are added under the notes already there.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/fitness/commands/exercise-today/exercise-today.command.ts b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+index 96eddfd35ae4eeb671173f8e1609565dc454fde9..c77690f37d15a426f7d9acdba3dc517aed52552f 100644
+--- a/alan/fitness/commands/exercise-today/exercise-today.command.ts
++++ b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+@@ -4,7 +4,7 @@ export const exerciseToday = {
+   id: "01a0685d-b7ab-71db-86ab-5d91f00a25e6",
+   pageTypeSlug: "command",
+   slug: "exercise-today",
+-  definition: "the command naming one day's scheduled focus and whether a session stands for it",
++  definition: "the command naming one day's scheduled focus and whether a session exists for it",
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [
+@@ -16,7 +16,7 @@ export const exerciseToday = {
+   ],
+   helpNotes: [
+     "the focus comes from the active schedule's day for the weekday the date falls on.",
+-    "a day with no schedule day standing is answered with an empty focus rather than refused.",
++    "a day no schedule day exists for is answered with an empty focus rather than refused.",
+     "the session answered is the newest one started on that date.",
+   ],
+   invariants: [
