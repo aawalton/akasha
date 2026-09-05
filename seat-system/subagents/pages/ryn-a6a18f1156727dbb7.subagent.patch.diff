@@ -1,8 +1,8 @@
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
-index aba8c0d4ccbf40671de11c332bbb47869c14790d..ca6e3af9c1052fe7d9faba8be9974a1f265f332d 100644
+index 3f202d4a0f03e7195fbc3f37bb6aaf49f275f6a6..73acc90eae0b2d44aaaecf1b669214a5f6305d96 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
 +++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
-@@ -49,10 +49,7 @@ export const lintClean = {
+@@ -46,10 +46,7 @@ export const lintClean = {
        invariantKind: "departure",
        statement: "The linter reads each file on its own and follows no import out of that file.",
      },
@@ -30,6 +30,22 @@ index 2cd46060040bc7158458b11ca4f48452e2a84421..956996ec940c6dacfca1381e0b25d6f2
      {
        invariantKind: "departure",
        statement: "Every finding is answered against the file the finding stands in.",
+diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
+index dac373dd018eced970d91e257793aaefc33f5e31..72d6e01909559de26868daa11c13f6b529913af9 100644
+--- a/pages/computed-properties/computed-property.page-type.ts
++++ b/pages/computed-properties/computed-property.page-type.ts
+@@ -63,10 +63,7 @@ export const computedProperty = {
+       invariantKind: "departure",
+       statement: "A query may answer with a computed property's key.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A calculation reading a refused calculation is refused too.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A chain of reads coming back to where that chain started is refused.",
 diff --git a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts b/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
 index 15fd8f43881e0aa6119c7ba9bd77ba63d15804b3..c6af13ff373cbe1dffd46bde33b826f221926748 100644
 --- a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
