@@ -7,14 +7,14 @@ export const ruleEquipmentDeconstruct = {
   title: "Deconstruct leftover equipment",
   description:
     "Deconstructs non-crafted equipment that wasn't caught by higher-priority rules. Place below equip, research, and inspire rules to only deconstruct what's left over.",
+  goal: "hoard",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",
   displayOrder: 54,
   action: "deconstruct",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "hoard",
   locked: true,
   fromTemplate: "equipment-deconstruct",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
