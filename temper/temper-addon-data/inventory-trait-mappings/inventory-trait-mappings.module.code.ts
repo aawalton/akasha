@@ -35,7 +35,7 @@ export function generateInventoryTraitMappings(): string {
  * Used by checkTraitOverride() to match items against trait-conditioned rules.
  * Source: engine/equipment/ trait data files
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 ${sections.join("\n\n")}

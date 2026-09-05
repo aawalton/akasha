@@ -17,7 +17,7 @@ export function generateChampionPointMappings(): string {
  * Maps ESO champion skill IDs to temper indices and string IDs.
  * Source: engine/champion-points/champion-points-source.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const CP_ESO_SKILL_ID_TO_INDEX: Record<number, number> = {

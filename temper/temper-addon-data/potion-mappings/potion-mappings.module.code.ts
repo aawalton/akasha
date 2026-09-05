@@ -115,7 +115,7 @@ export function generatePotionMappings(): string {
  *
  * Source: engine/alchemy/potions-source.ts, engine/alchemy/potion-encoded-traits.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 /** Crown/dropped potion itemId → codec index */

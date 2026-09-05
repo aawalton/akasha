@@ -61,7 +61,7 @@ export function generateTemperArmorSlot(rows: readonly Page[]): string {
  * The 7 body positions where armor can be equipped, sourced from the
  * universal pages table (page type: temper-armor-slot).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ArmorSlotTemplate } from "../armor-slots-data"

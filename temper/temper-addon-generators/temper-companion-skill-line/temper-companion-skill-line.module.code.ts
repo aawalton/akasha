@@ -70,7 +70,7 @@ export function generateTemperCompanionSkillLine(rows: readonly Page[]): string 
  * shared weapon, guild, and armor lines — sourced from the universal pages
  * table (page type: temper-companion-skill-line).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"

@@ -124,7 +124,7 @@ ${effectLines}
  * temper-potion-crown). Shape mirrors the legacy POTIONS_CROWN record so
  * the alchemy package can spread it into the combined POTIONS map.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { PotionsTemplate } from "../potions-source"

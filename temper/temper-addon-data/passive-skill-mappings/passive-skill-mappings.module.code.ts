@@ -18,7 +18,7 @@ export function generatePassiveSkillMappings(): string {
  * Maps ESO passive skill base ability IDs to bitmask indices for the character codec.
  * Source: engine/character/codec/build-codec-indices.ts (passiveSkillIds)
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const CHARACTER_PASSIVE_SKILL_COUNT = ${PASSIVE_SKILL_COUNT}

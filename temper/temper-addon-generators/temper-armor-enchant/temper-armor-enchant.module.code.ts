@@ -119,7 +119,7 @@ export function generateTemperArmorEnchant(rows: readonly Page[]): string {
  * \`prismatic-resource\`. \`no-enchant\` is omitted because it has no
  * quality scaling.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type {

@@ -97,7 +97,7 @@ export function ${table.temperIdHelperName}(name: string): string {
  * Maps ESO display names to temper indices and string IDs for scribing components.
  * Source: engine/skills/scribing/ data files
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 ${sections.join("\n\n")}

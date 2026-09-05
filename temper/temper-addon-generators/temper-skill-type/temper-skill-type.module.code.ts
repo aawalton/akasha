@@ -61,7 +61,7 @@ export function generateTemperSkillType(rows: readonly Page[]): string {
  * so \`TEMPER_SKILL_TYPES["active"]\` is well-typed and feeds the
  * \`SkillTypeId\` union exported by @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { SkillTypeTemplate } from "../skill-types-data"

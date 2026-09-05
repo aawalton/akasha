@@ -87,7 +87,7 @@ export function generateTemperBuffMinor(rows: readonly Page[]): string {
  * ESO Minor buff data sourced from the universal pages table (page
  * type: temper-buff-minor). 21 entries, one per Minor buff effect.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface BuffMinorEffect {

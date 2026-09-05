@@ -149,7 +149,7 @@ ${fields.join(",\n")},
  * legacy source file was already alphabetical, so existing build hashes
  * round-trip unchanged through this snapshot.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ScribedSkillTemplate } from "../scribing/scribed-skills-data"

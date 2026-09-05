@@ -67,7 +67,7 @@ export function generateTemperReagents(reagentRows: readonly Page[]): string {
  * path, and the 4-tuple of poison-effect ids that drive the crafting
  * combination logic.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { Reagent } from "../reagents-data"

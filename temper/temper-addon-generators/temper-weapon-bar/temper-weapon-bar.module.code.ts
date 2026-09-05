@@ -57,7 +57,7 @@ export function generateTemperWeaponBar(rows: readonly Page[]): string {
  * is well-typed and feeds the \`WeaponBar\` union and the
  * \`weaponBars.data\` lookup in @temper/game-characters-equipment.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { WeaponBarTemplate } from "../weapon-bars-data"

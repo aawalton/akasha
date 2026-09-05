@@ -87,7 +87,7 @@ export function generateTemperBuffMajor(rows: readonly Page[]): string {
  * ESO Major buff data sourced from the universal pages table (page
  * type: temper-buff-major). 20 entries, one per Major buff effect.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface BuffMajorEffect {

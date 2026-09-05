@@ -201,7 +201,7 @@ export function generateTemperItemCategoryTree(rows: readonly Page[]): string {
  * ESO item category hierarchy used by the inventory classifier, sourced
  * from the universal pages table (page type: temper-item-category-tree).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ItemCategoryTree } from "../item-category-tree-types"

@@ -50,7 +50,7 @@ export function generateTemperCompanionPassiveMetric(rows: readonly Page[]): str
  * and feeds the \`companionPassiveMetrics\` lookup in
  * @temper/game-companions-core.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CompanionPassiveMetricTemplate } from "../stats/companion-passive-metric-data"

@@ -58,7 +58,7 @@ export function generateTemperTargetScope(rows: readonly Page[]): string {
  * \`TEMPER_TARGET_SCOPES["single"]\` is well-typed and feeds the
  * \`targetScopes\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { TargetScopeTemplate } from "../target-scope-data"

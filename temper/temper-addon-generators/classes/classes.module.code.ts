@@ -57,7 +57,7 @@ export function generateTemperClass(rows: readonly Page[]): string {
  * and feeds the \`ClassId\` union and the \`classes.data\` lookup
  * in @temper/game-characters-classes.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ClassId } from "@temper/shared-formula-framework/class-id"

@@ -66,7 +66,7 @@ export function generateTemperFocusScript(rows: readonly Page[]): string {
  * Note: UESP IDs 11 and 21 do not exist in the source database, so this
  * dataset has 21 entries (UESP IDs 1–10, 12–20, 22–23).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { FocusScriptTemplate } from "../scribing/focus-scripts-data"

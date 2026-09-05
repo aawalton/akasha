@@ -16,7 +16,7 @@ export function generateSetCategoryMappings(): string {
  * Maps ESO set IDs to set source category IDs.
  * Source: engine/equipment/sets/sets-all-data.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const SET_ESO_ID_TO_CATEGORY: Record<number, string> = {

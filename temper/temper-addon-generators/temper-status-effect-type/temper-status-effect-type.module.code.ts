@@ -68,7 +68,7 @@ export function generateTemperStatusEffectType(rows: readonly Page[]): string {
  * \`TEMPER_STATUS_EFFECT_TYPES["stun"]\` is well-typed and feeds the
  * \`statusEffectTypes\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { StatusEffectTypeTemplate } from "../status-effect-type-data"

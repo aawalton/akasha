@@ -80,7 +80,7 @@ export function generateTemperCompanionWeaponRole(rows: readonly Page[]): string
  * \`TEMPER_COMPANION_WEAPON_ROLES["dual-wield"]\` is well-typed and
  * feeds the \`companionWeaponRoles\` lookup in @temper/game-companions-core.
  *
- * DO NOT EDIT -- regenerate with: ops temper addon-data generate
+ * DO NOT EDIT -- regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CompanionWeaponRoleTemplate } from "@akasha/temper-companions-core/companion-weapon-roles"

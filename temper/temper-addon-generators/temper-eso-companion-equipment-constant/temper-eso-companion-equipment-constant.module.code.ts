@@ -83,7 +83,7 @@ export function generateTemperEsoCompanionEquipmentConstant(rows: readonly Page[
  * universal pages table (page type:
  * temper-eso-companion-equipment-constant).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"

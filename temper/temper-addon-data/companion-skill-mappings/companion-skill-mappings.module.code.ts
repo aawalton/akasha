@@ -19,7 +19,7 @@ export function generateSkillMappings(): string {
  * Maps ESO ability IDs to temper skill indices.
  * Source: engine/companions/skills/companion-skills-data.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const SKILL_ABILITY_ID_TO_INDEX: Record<number, number> = {

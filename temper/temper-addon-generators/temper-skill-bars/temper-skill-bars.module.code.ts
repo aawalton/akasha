@@ -57,7 +57,7 @@ export function generateTemperSkillBar(rows: readonly Page[]): string {
  * is well-typed and feeds the \`SkillBarId\` union and the
  * \`skillBars.data\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { SkillBarTemplate } from "../skill-bars-data"

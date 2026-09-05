@@ -57,7 +57,7 @@ export function generateTemperArmorWeight(rows: readonly Page[]): string {
  * medium / heavy) plus Shield, sourced from the universal pages table
  * (page type: temper-armor-weight).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ArmorWeightTemplate } from "../armor-weights-data"

@@ -67,7 +67,7 @@ export function generateTemperCompanionJewelrySlot(rows: readonly Page[]): strin
  * (page type: temper-companion-jewelry-slot). Companions have the same
  * jewelry slots as player characters.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"

@@ -66,7 +66,7 @@ export function generateTemperSpecialEffectType(rows: readonly Page[]): string {
  * \`TEMPER_SPECIAL_EFFECT_TYPES["block-all"]\` is well-typed and feeds the
  * \`specialEffectTypes\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { SpecialEffectTypeTemplate } from "../special-effect-type-data"

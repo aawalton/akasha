@@ -21,7 +21,7 @@ export function generateCompanionMappings(): string {
  * Maps ESO companion IDs to temper indices.
  * Source: engine/companions/companions-data.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const COMPANION_ID_TO_INDEX: Record<number, number> = {

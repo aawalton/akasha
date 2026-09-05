@@ -77,7 +77,7 @@ export function generateTemperRotationBreakdownRow(rows: readonly Page[]): strin
  * \`TEMPER_ROTATION_BREAKDOWN_ROWS["damage"]\` is well-typed and feeds the
  * \`rotationBreakdownRows\` lookup in @temper/game-companions-core.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { RotationBreakdownRowTemplate } from "../rotation-breakdown-row-data"

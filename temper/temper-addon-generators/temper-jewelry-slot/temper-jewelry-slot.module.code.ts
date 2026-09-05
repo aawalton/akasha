@@ -65,7 +65,7 @@ export function generateTemperJewelrySlot(rows: readonly Page[]): string {
  * The 3 jewelry-equipment slot positions (necklace, ring-1, ring-2),
  * sourced from the universal pages table (page type: temper-jewelry-slot).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { JewelrySlotTemplate } from "../jewelry-slots-data"

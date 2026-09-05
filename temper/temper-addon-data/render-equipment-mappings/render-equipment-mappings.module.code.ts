@@ -129,7 +129,7 @@ export function ${table.temperIdHelperName}(esoId: number): string {
  * Keys are ESO Lua global constants that resolve to numbers at runtime.
  * Source: engine/equipment/ data files
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 ${sections.join("\n\n")}

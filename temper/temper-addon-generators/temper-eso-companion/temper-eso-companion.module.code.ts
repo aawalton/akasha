@@ -121,7 +121,7 @@ ${fields.join(",\n")},
  * \`companionsFromPages.data["bastian"]\` is well-typed and feeds the
  * \`companions\` lookup in @temper/game-companions-core.
  *
- * DO NOT EDIT -- regenerate with: ops temper addon-data generate
+ * DO NOT EDIT -- regenerate with: akasha temper-addon-data-generate
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"

@@ -67,7 +67,7 @@ export function generateCodecConstants(): string {
  *         engine/character/codec/build-codec-v48.ts
  *         engine/character/codec/build-codec-indices.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 // =========================================================================

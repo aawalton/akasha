@@ -69,7 +69,7 @@ export function generateTemperCompanionArmorSlot(rows: readonly Page[]): string 
  * from the universal pages table (page type:
  * temper-companion-armor-slot).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CompanionArmorSlotTemplate } from "@akasha/temper-companions-core/companion-armor-slots"

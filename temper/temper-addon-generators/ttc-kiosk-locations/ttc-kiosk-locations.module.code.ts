@@ -39,7 +39,7 @@ export function generateTemperTtcKioskLocation(rows: readonly Page[]): string {
  * ${sorted.length} kiosk location names (kioskID -> "Zone: City"), sourced
  * from the universal pages table (page type: temper-guild-trader).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 /** Display names for TTC guild kiosk locations (kioskID -> "Zone: City"). */

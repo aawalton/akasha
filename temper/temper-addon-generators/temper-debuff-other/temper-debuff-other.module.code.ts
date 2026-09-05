@@ -93,7 +93,7 @@ export function generateTemperDebuffOther(rows: readonly Page[]): string {
  * are permitted (e.g. \`stun\`, \`fear\`, \`silence\` are purely
  * crowd-control flags).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface DebuffOtherEffect {

@@ -98,7 +98,7 @@ export function generateTemperMotifStyle(
  * the consumer in scribing-sources.ts can do label-only fallback matching
  * without a hardcoded alias→label bridge.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { MotifStyleEntry } from "../motif-style-lookup"

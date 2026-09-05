@@ -65,7 +65,7 @@ export function generateTemperCurse(curseRows: readonly Page[]): string {
  * ESO character curse states (vampire, werewolf, no-curse), sourced from
  * the universal pages table (page type: temper-curse).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface CurseTemplate {

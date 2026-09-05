@@ -175,7 +175,7 @@ export function generateTemperMetricTree(rows: readonly Page[]): string {
  * subcategories, and metric leaf nodes — sourced from the universal
  * pages table (page type: temper-metric-tree).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { MetricTree } from "../metrics/metric-tree-types"

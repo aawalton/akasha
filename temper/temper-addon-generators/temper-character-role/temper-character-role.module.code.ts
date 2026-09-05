@@ -50,7 +50,7 @@ export function generateTemperCharacterRole(roleRows: readonly Page[]): string {
  * ESO build roles (playstyles) sourced from the universal pages table
  * (page type: temper-character-role).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"

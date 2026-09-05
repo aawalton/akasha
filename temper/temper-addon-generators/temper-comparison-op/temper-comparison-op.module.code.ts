@@ -61,7 +61,7 @@ export function generateTemperComparisonOp(rows: readonly Page[]): string {
  * the \`comparisonOps\` lookup in
  * @temper/game-items-rules-core/filters/comparison-op-data.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ComparisonOpTemplate } from "../filters/comparison-op-data"

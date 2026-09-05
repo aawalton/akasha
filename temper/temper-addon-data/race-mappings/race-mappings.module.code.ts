@@ -17,7 +17,7 @@ export function generateRaceMappings(): string {
  * Maps ESO race IDs to temper indices and string IDs.
  * Source: engine/character/races-data.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const RACE_ESO_ID_TO_INDEX: Record<number, number> = {

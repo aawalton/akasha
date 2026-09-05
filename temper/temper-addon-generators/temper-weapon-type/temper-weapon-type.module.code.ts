@@ -69,7 +69,7 @@ export function generateTemperWeaponType(rows: readonly Page[]): string {
  * empty-state sentinel. Sourced from the universal pages table
  * (page type: temper-weapon-type).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { WeaponTypeTemplate } from "../weapon-types-data"

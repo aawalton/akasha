@@ -62,7 +62,7 @@ export function generateTemperCompanionSkillSlot(rows: readonly Page[]): string 
  * \`TEMPER_COMPANION_SKILL_SLOTS["active-1"]\` is well-typed and feeds
  * the \`companionSkillSlots\` lookup in @temper/game-companions-core.
  *
- * DO NOT EDIT -- regenerate with: ops temper addon-data generate
+ * DO NOT EDIT -- regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CompanionSkillSlotTemplate } from "@akasha/temper-companions-core/companion-skill-slots"

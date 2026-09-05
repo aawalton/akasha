@@ -100,7 +100,7 @@ export function generateTemperEsoTraitMap(rows: readonly Page[]): string {
  * Reverse maps (ESO number → temper trait id) are reconstructed at
  * module load by the facade via the typed-ids \`invertViaIds\` helper.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ArmorTraitId } from "../armor-traits-data"

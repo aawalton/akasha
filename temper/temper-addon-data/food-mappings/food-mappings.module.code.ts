@@ -17,7 +17,7 @@ export function generateFoodMappings(): string {
  * Maps ESO food/drink buff ability IDs to temper indices and string IDs.
  * Source: engine/food-and-drink/food-or-drink-source.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const FOOD_ABILITY_ID_TO_INDEX: Record<number, number> = {

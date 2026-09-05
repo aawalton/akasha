@@ -62,7 +62,7 @@ export function generateTemperTargetType(rows: readonly Page[]): string {
  * \`TEMPER_TARGET_TYPES["self"]\` is well-typed and feeds the
  * \`targetTypes\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { TargetTypeTemplate } from "../target-type-data"

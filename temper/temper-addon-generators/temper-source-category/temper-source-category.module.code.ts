@@ -50,7 +50,7 @@ export function generateTemperSourceCategory(rows: readonly Page[]): string {
  * companion-skills), sourced from the universal pages table (page type:
  * temper-source-category).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface SourceCategoryTemplate {

@@ -45,7 +45,7 @@ export function generateTemperAlliance(allianceRows: readonly Page[]): string {
  * ESO character alliances, sourced from the universal pages table
  * (page type: temper-alliance).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { Alliance } from "../alliances-data"

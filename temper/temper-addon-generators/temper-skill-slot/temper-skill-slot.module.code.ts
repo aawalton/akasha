@@ -61,7 +61,7 @@ export function generateTemperSkillSlot(rows: readonly Page[]): string {
  * feeds the \`SkillSlotId\` union and the \`skillSlots.data\` lookup in
  * @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { SkillSlotTemplate } from "../skill-slots-data"

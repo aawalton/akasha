@@ -56,7 +56,7 @@ export function generateTemperSetCategory(rows: readonly Page[]): string {
  * ESO equipment set categories / sources (Trial, Dungeon, Arena, ...)
  * sourced from the universal pages table (page type: temper-set-category).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { SetCategoryTemplate } from "../set-categories-data"

@@ -59,7 +59,7 @@ export function generateTemperVampireStage(stageRows: readonly Page[]): string {
  * ESO vampire stages sourced from the universal pages table (page type:
  * temper-vampire-stage).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { VampireStage } from "../vampire-stages-data"

@@ -46,7 +46,7 @@ export function generateTemperInventoryCurrency(currencyRows: readonly Page[]): 
  * ESO inventory currencies sourced from the universal pages table
  * (page type: temper-inventory-currency).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CurrencyTemplate } from "../inventory-currency-data"

@@ -55,7 +55,7 @@ export function generateTemperArmorType(rows: readonly Page[]): string {
  * armor pieces plus Shield, sourced from the universal pages table
  * (page type: temper-armor-type).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ArmorTypeTemplate } from "../armor-types-data"

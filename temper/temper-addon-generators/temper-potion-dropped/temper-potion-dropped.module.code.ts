@@ -118,7 +118,7 @@ ${effectLines}
  * ESO world-drop potions, sourced from the universal pages table
  * (page type: temper-potion-dropped).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { PotionsTemplate } from "../potions-source"

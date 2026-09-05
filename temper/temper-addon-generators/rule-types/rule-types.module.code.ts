@@ -9,7 +9,7 @@ export function generateRuleTypes(): string {
  *         engine/inventory/filters/comparison-op-data.ts,
  *         engine/inventory/filters/comparison-op.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 // \`destinationChain\` is the SINGLE source-of-truth type from rules-core — both

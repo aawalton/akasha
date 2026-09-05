@@ -120,7 +120,7 @@ export function generateTemperWeaponTrait(rows: readonly Page[]): string {
  * floor(rawValue) * 2); the facade derives the raw constants from
  * \`qualityValues.normal\` and \`qualityValues.legendary\`.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { WeaponTraitTemplate, WeaponTraitQualityValues } from "../weapon-traits-data"

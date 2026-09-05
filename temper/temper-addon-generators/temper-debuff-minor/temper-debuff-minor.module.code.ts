@@ -93,7 +93,7 @@ export function generateTemperDebuffMinor(rows: readonly Page[]): string {
  * permitted (e.g. \`minor-lifesteal\`, \`minor-magickasteal\` are
  * attacker-targeted reactions outside the metric-effects framework).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface DebuffMinorEffect {

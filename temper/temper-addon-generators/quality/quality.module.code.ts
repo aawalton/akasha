@@ -60,7 +60,7 @@ export function generateTemperQuality(rows: readonly Page[]): string {
  * legendary, mythic), sourced from the universal pages table (page type:
  * temper-quality).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface EquipmentQualityTemplate {

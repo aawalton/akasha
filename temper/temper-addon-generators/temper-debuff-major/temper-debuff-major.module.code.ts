@@ -87,7 +87,7 @@ export function generateTemperDebuffMajor(rows: readonly Page[]): string {
  * ESO Major debuff data sourced from the universal pages table (page
  * type: temper-debuff-major). 7 entries, one per Major debuff effect.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface DebuffMajorEffect {

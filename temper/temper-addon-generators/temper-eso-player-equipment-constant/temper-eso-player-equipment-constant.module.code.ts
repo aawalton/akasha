@@ -111,7 +111,7 @@ export function generateTemperEsoPlayerEquipmentConstant(rows: readonly Page[]):
  * sourced from the universal pages table (page type:
  * temper-eso-player-equipment-constant).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ArmorWeightId } from "@temper/game-characters-equipment/armor/armor-weights-data"

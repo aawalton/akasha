@@ -62,7 +62,7 @@ export function generateTemperAffixScript(rows: readonly Page[]): string {
  * \`AffixScriptId\` union and the \`affixScripts.data\` lookup in
  * @temper/game-characters-skills/scribing.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { AffixScriptTemplate } from "../scribing/affix-scripts-data"

@@ -36,7 +36,7 @@ export function generateCurseMappings(): string {
  * Maps ESO buff ability IDs to temper curse state and vampire stage IDs.
  * Source: engine/character/curse-data.ts, engine/character/vampire-stages-data.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const CURSE_ABILITY_ID_TO_TEMPER_ID: Record<number, string> = {

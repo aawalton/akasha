@@ -130,7 +130,7 @@ ${fields.join(",\n")},
  * in \`skills-data.ts\` continue to distinguish e.g. passive skills
  * with implemented effects from those without.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"

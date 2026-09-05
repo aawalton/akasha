@@ -92,7 +92,7 @@ export function generateTemperBuffOther(rows: readonly Page[]): string {
  * (page type: temper-buff-other). Entries with empty \`effects\` arrays
  * are permitted (e.g. \`vanish\` is purely cosmetic).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 interface BuffOtherEffect {

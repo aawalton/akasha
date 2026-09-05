@@ -149,7 +149,7 @@ ${fields.join(",\n")},
  * \`setsAll.ids\` keeps the sentinel at the position the character
  * codec's \`getSetId(index)\` expects.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"

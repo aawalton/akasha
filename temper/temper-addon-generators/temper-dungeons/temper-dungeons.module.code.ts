@@ -144,7 +144,7 @@ export function generateTemperDungeons(
  * ESO group dungeons + quest givers + rotation slots, sourced from the
  * universal pages table (page types: temper-dungeon, temper-quest-giver).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { Dungeon } from "../dungeon-registry"

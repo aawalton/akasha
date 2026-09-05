@@ -109,7 +109,7 @@ export function generateTemperCompanionTrait(rows: readonly Page[]): string {
  * \`TEMPER_COMPANION_TRAITS["aggressive"]\` is well-typed and feeds the
  * \`companionTraits\` lookup in @temper/game-companions-core.
  *
- * DO NOT EDIT -- regenerate with: ops temper addon-data generate
+ * DO NOT EDIT -- regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CompanionTraitTemplate } from "@akasha/temper-companions-core/companion-traits"

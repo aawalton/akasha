@@ -87,7 +87,7 @@ export function generateTemperCompanionBaseRole(rows: readonly Page[]): string {
  * The four companion base roles (dps, tank, healer, support) sourced
  * from the universal pages table (page type: temper-companion-base-role).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { CompanionArmorWeight } from "../companion-types"

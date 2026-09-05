@@ -48,7 +48,7 @@ export function generateTemperLocationType(rows: readonly Page[]): string {
  * ESO inventory location categories sourced from the universal pages table
  * (page type: temper-location-type).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"

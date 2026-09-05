@@ -51,7 +51,7 @@ export function generateTemperTargetArmor(rows: readonly Page[]): string {
  * \`TargetArmorId\` union and the \`targetArmor.data\` lookup in
  * @temper/game-characters-character.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { TargetArmorTemplate } from "../target-armor-data"

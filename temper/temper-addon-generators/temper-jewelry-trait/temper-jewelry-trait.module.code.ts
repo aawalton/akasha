@@ -137,7 +137,7 @@ export function generateTemperJewelryTrait(rows: readonly Page[]): string {
  * synthetic \`"triune-health"\` / \`"triune-resource"\` keys the legacy
  * consumer expects.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { JewelryTraitQualityValues, JewelryTraitTemplate } from "../jewelry-traits-data"

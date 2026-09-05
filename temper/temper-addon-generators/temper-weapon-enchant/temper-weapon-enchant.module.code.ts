@@ -120,7 +120,7 @@ export function generateTemperWeaponEnchant(rows: readonly Page[]): string {
  * \`no-enchant\` are omitted because they have no metric-system
  * quality scaling.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type {

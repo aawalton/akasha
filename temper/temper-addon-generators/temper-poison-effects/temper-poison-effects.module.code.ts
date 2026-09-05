@@ -114,7 +114,7 @@ export function generateTemperPoisonEffects(rows: readonly Page[]): string {
  * ESO alchemy poison/potion effects sourced from the universal pages
  * table (page type: temper-poison-effect).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { PoisonEffect } from "../poison-effect-registry"

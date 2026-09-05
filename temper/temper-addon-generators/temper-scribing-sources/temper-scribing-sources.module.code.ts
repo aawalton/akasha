@@ -135,7 +135,7 @@ ${achievementLines}
  * ESO scribing script sources + tier achievements, sourced from the universal
  * pages table (page type: temper-scribing-source).
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ScribingSource } from "../scribing-sources"

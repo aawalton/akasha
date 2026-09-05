@@ -161,7 +161,7 @@ export function generateTemperGrimoire(rows: readonly Page[]): string {
  * arrays are the projections used by the build-state UI to filter the
  * script picker.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { GrimoireTemplate } from "../scribing/grimoires-data"

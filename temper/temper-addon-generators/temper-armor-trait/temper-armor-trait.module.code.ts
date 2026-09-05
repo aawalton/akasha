@@ -113,7 +113,7 @@ export function generateTemperArmorTrait(rows: readonly Page[]): string {
  * the character codec uses as an append-only index map. Reordering rows
  * would invalidate every existing shared build URL.
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 import type { ArmorTraitTemplate, ArmorTraitQualityValues } from "../armor-traits-data"

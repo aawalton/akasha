@@ -18,7 +18,7 @@ export function generateAllianceMappings(): string {
  * Maps ESO alliance IDs to temper indices and string IDs.
  * Source: engine/character/alliances-data.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 export const ALLIANCE_ESO_ID_TO_INDEX: Record<number, number> = {

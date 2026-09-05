@@ -8,7 +8,7 @@ import { CategoryNode } from "../category-tree"
  * Source: engine/inventory/classify-item.ts,
  *         engine/inventory/item-name-pattern.ts
  *
- * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
 
 // =========================================================================
