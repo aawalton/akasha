@@ -1,0 +1,13 @@
+diff --git a/pages/access/file-page-type-config/file-page-type-config.module.ts b/pages/access/file-page-type-config/file-page-type-config.module.ts
+index f94161a9aad3b64893ae1c3bcb6ac17c28ca142f..4649e26f101168f446650dcde8f8c683f894fa0d 100644
+--- a/pages/access/file-page-type-config/file-page-type-config.module.ts
++++ b/pages/access/file-page-type-config/file-page-type-config.module.ts
+@@ -19,7 +19,7 @@ export const filePageTypeConfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type names one page type above it or several.",
++      statement: "A page type names one page type above that page type or several.",
+     },
+     {
+       invariantKind: "departure",
