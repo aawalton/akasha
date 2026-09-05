@@ -9,7 +9,9 @@ import {
   actingIn,
   agentIn,
   cleared,
+  clearingsAt,
   NAMED,
+  noted,
   recordAt,
   replacing,
   SCOPE,
@@ -194,10 +196,42 @@ test("with no agent named, nothing is cleared", () => {
   }
 })
 
-test("a record that is not there is no error, and nothing is put in its place", () => {
+test("a record that is not there is no clearing, and nothing is put in its place", () => {
   const root = bare()
-  expect(cleared(root, ONE, "startup")).toBe(true)
+  expect(cleared(root, ONE, "startup")).toBe(false)
   expect(existsSync(join(root, READS_AT))).toBe(false)
+})
+
+test("a clearing is written down where the records are", () => {
+  const root = rooted()
+  const took = cleared(root, ONE, "startup")
+  noted(root, ONE, "startup", took)
+  const said = JSON.parse(readFileSync(clearingsAt(root), "utf8").trim()) as Record<string, unknown>
+  expect(said.agentId).toBe(ONE)
+  expect(said.source).toBe("startup")
+  expect(said.took).toBe(true)
+})
+
+test("a clearing that took no record is written down saying so", () => {
+  const root = rooted()
+  noted(root, NOBODY, "compact", cleared(root, NOBODY, "compact"))
+  expect(readFileSync(clearingsAt(root), "utf8")).toContain('"took":false')
+})
+
+test("nothing is written down in a tree holding no record folder", () => {
+  const root = bare()
+  noted(root, ONE, "startup", false)
+  expect(existsSync(clearingsAt(root))).toBe(false)
+  expect(existsSync(join(root, READS_AT))).toBe(false)
+})
+
+test("a clearing is added to what is written down rather than replacing it", () => {
+  const root = rooted()
+  noted(root, ONE, "startup", true)
+  noted(root, TWO, "compact", false)
+  const lines = readFileSync(clearingsAt(root), "utf8").trim().split("\n")
+  expect(lines).toHaveLength(2)
+  expect(lines[1]).toContain(TWO)
 })
 
 test("a record that cannot be reached is left as it is", () => {
@@ -248,6 +282,7 @@ test("the scope says what this reaches and what it does not", () => {
   expect(said).toContain("NOT REACHED")
   expect(said).toContain("is NOT a finding")
   expect(said).toContain("acts rather than judges")
+  expect(said).toContain("WHAT IS WRITTEN DOWN")
 })
 
 test("the session begins at every source, and the hook says nothing", () => {

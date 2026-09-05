@@ -71,6 +71,23 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
+      statement: "A record that was not there is no clearing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every source that replaces the context is written down, whether or not a record went.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is written down sits beside the records it is written about.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is written down in a tree holding no record folder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The session begins either way.",
     },
     {

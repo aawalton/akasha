@@ -1,5 +1,5 @@
-import { rmSync } from "node:fs"
-import { join } from "node:path"
+import { appendFileSync, existsSync, rmSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { READS_AT, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { ASIDE, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
@@ -9,6 +9,8 @@ const HOOK = "clear-reads-on-context-replaced"
 export const NAMED = "AGENT_ID"
 
 const ACTING = "agent_id"
+
+const CLEARINGS_AT = `${READS_AT}/clearings.jsonl`
 
 const REPLACING: readonly string[] = ["startup", "clear", "compact"]
 
@@ -30,6 +32,13 @@ export const SCOPE: readonly string[] = [
   `    \`${NAMED}\`, so the payload is the only thing that tells the two apart.`,
   "  With none named, nothing is cleared.",
   "  No other folder is reached, because the agent's own id opens the path.",
+  "  A record that was not there is no clearing, and this says so rather than claiming one.",
+  "",
+  "WHAT IS WRITTEN DOWN:",
+  `  one line in \`${CLEARINGS_AT}\` for each source that replaces, naming the agent, the source,`,
+  "    and whether a record was there to take. This is the only trace a clearing leaves, because",
+  "    a wrong agent, a right agent and no agent at all take the same path through this code.",
+  "  Nothing is written where the record folder is not there already.",
   "",
   "This hook acts rather than judges, and it is why the folder it removes and the mark that opens",
   "a subagent's name are spelled from constants the reading module owns rather than written again.",
@@ -61,12 +70,32 @@ export function recordAt(root: string, agentId: string): string {
 export function cleared(root: string, agentId: string | null, source: string): boolean {
   if (agentId === null || agentId === "") return false
   if (!replacing(source)) return false
+  const at = recordAt(root, agentId)
+  if (!existsSync(at)) return false
   try {
-    rmSync(recordAt(root, agentId), { recursive: true, force: true })
+    rmSync(at, { recursive: true, force: true })
   } catch {
     return false
   }
-  return true
+  return !existsSync(at)
+}
+
+export function clearingsAt(root: string): string {
+  return join(root, CLEARINGS_AT)
+}
+
+export function noted(
+  root: string,
+  agentId: string | null,
+  source: string,
+  took: boolean
+): undefined {
+  const at = clearingsAt(root)
+  if (!existsSync(dirname(at))) return
+  const said = { at: new Date().toISOString(), agentId, source, took }
+  try {
+    appendFileSync(at, `${JSON.stringify(said)}\n`)
+  } catch {}
 }
 
 export function seatIn(env: Readonly<Record<string, string | undefined>>): string | null {
@@ -112,7 +141,11 @@ export async function ranAsClearing(
     return ASIDE
   }
   const raw = await Bun.stdin.text()
-  cleared(rootOf(at), agentIn(env, raw), sourceIn(raw))
+  const root = rootOf(at)
+  const agentId = agentIn(env, raw)
+  const source = sourceIn(raw)
+  const took = cleared(root, agentId, source)
+  if (replacing(source)) noted(root, agentId, source, took)
   return ASIDE
 }
 
