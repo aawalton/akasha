@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index b796a34aa60a06ba7c3c8c8514d016ee3f198384..a2851d2470547ed09e21df420c8caec4f1c0d720 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -57,7 +57,7 @@ export const codeEditorDataInterface = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A part of the editor reads the one file named for what that part draws.",
++      statement: "A part of the editor reads the one file named for the data that part draws.",
+     },
+     {
+       invariantKind: "departure",
