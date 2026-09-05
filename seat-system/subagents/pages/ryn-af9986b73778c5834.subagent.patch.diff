@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
-index f6bea9d6e937d5a4ef3d5a293c7f63df40dc5b54..7465042ac3d8e173fa709075b70a71cfc20c0633 100644
+index f6bea9d6e937d5a4ef3d5a293c7f63df40dc5b54..66b80a580b663443ff2a6f3ce8d8f9dbd37e0fc1 100644
 --- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 +++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 @@ -17,7 +17,7 @@ export const inventoryRuleCalling = {
@@ -9,6 +9,15 @@ index f6bea9d6e937d5a4ef3d5a293c7f63df40dc5b54..7465042ac3d8e173fa709075b70a71cf
        invariantKind: "departure",
 -      statement: "What a command takes is read against the list its own page states.",
 +      statement: "The flags a command takes are read against the list its own page states.",
+     },
+     {
+       invariantKind: "departure",
+@@ -60,7 +60,7 @@ export const inventoryRuleCalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a row says is the columns that rule kind carries.",
++      statement: "A row says the columns that rule kind carries.",
      },
      {
        invariantKind: "departure",
