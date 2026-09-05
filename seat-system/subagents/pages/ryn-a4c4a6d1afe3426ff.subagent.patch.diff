@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
-index ec03d573a863d770161dbea15bb02e733cb1487b..20b1a9ea8536a843ef0774dc24047a3219944c4d 100644
+index ec03d573a863d770161dbea15bb02e733cb1487b..f27a0639694105de5636d55e6e0ea973cba33eba 100644
 --- a/editor-extension/panel-reading/panel-reading.module.ts
 +++ b/editor-extension/panel-reading/panel-reading.module.ts
 @@ -10,7 +10,7 @@ export const panelReading = {
@@ -21,3 +21,12 @@ index ec03d573a863d770161dbea15bb02e733cb1487b..20b1a9ea8536a843ef0774dc24047a32
      },
      {
        invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const panelReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here judges what was drawn.",
++      statement: "Nothing here judges the rows drawn.",
+     },
+   ],
+ } as const satisfies Module
