@@ -33,7 +33,7 @@ export const sessionLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A set log carries no day, so the day comes from the session it belongs to.",
+      statement: "A set log carries no day, so the day comes from the session that log belongs to.",
     },
     {
       invariantKind: "departure",
