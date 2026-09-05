@@ -1,0 +1,65 @@
+diff --git a/code-system/ios-apps/app-building/app-building.module.code.ts b/code-system/ios-apps/app-building/app-building.module.code.ts
+index b7de7c9d1fbe60b1762c96533f2bab2d6743ed9e..a3d2ce5bff8684b765b89d918a3559fd9384436e 100644
+--- a/code-system/ios-apps/app-building/app-building.module.code.ts
++++ b/code-system/ios-apps/app-building/app-building.module.code.ts
+@@ -108,7 +108,7 @@ type Found = { readonly at: string } | { readonly why: string }
+ function shellOf(root: string, named: string, appSlug: string, kind: string): Found {
+   const page = pathOf(root, "shell-script", slugOf(named))
+   if (page === null) {
+-    return { why: `${appSlug} names the ${kind} ${named}, and no such page stands` }
++    return { why: `${appSlug} names the ${kind} ${named}, and no such page exists` }
+   }
+   const at = besideAt(page, "shell", "sh")
+   return at === null ? { why: `no shell file can stand beside ${page}` } : { at }
+diff --git a/code-system/ios-apps/app-building/app-building.module.test.ts b/code-system/ios-apps/app-building/app-building.module.test.ts
+index 666b606356d0d6eda32d2404a4c2962766540de2..cd8d29eda93ce667de550ee56a5f30c0348b4c2d 100644
+--- a/code-system/ios-apps/app-building/app-building.module.test.ts
++++ b/code-system/ios-apps/app-building/app-building.module.test.ts
+@@ -66,7 +66,7 @@ test("an app naming one half of its staging and not the other is refused", () =>
+   expect("refused" in held ? held.refused.join(" ") : "").toContain("stage-script")
+ })
+ 
+-test("both apps are built by the one script standing above them", () => {
++test("both apps are built by the one script sitting above them", () => {
+   expect(planned("smilingjenny").buildScriptPath).toBe(planned("alanwalton").buildScriptPath)
+ })
+ 
+diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
+index fe34777f04412e1aaf43991a23bf73458ff0fb0c..81edf39a6722889d6f344f9dcadb1086d2dfb4ec 100644
+--- a/code-system/ios-apps/ios-app.page-type.ts
++++ b/code-system/ios-apps/ios-app.page-type.ts
+@@ -120,7 +120,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The programs an app builds stand among its parts.",
++      statement: "The programs an app builds are among its parts.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/code-system/ios-apps/properties/display-name.text-property.ts b/code-system/ios-apps/properties/display-name.text-property.ts
+index f63ee7d5fa73b0e72e9415e59ef90a2c4f9759cf..67be59e047284226535e85e5a01aed54b64cef68 100644
+--- a/code-system/ios-apps/properties/display-name.text-property.ts
++++ b/code-system/ios-apps/properties/display-name.text-property.ts
+@@ -7,7 +7,7 @@ export const displayName = {
+   pageTypeSlug: "text-property",
+   slug: "display-name",
+   propertySlug: "display-name",
+-  definition: "the name standing under an app's icon",
++  definition: "the name under an app's icon",
+   max: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/spa-source-path.text-property.ts b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+index a1498d3958101058b638f6e0d7f0b15e559e5d31..ee9acd95adf408515b4c37656985eed48363c844 100644
+--- a/code-system/ios-apps/properties/spa-source-path.text-property.ts
++++ b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+@@ -17,7 +17,7 @@ export const spaSourcePath = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An app whose site stands beside its page states no path here.",
++      statement: "An app whose site sits beside its page states no path here.",
+     },
+   ],
+ } as const satisfies TextProperty
