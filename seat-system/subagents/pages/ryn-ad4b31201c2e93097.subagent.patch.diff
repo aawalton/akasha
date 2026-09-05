@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/values/value.page-type.ts b/readout-system/values/value.page-type.ts
+index 5cd3c0b21cea77879bf8485483f0a8c4504c57fc..946e32220ab257170835974b0e9c9a94c3ac35b6 100644
+--- a/readout-system/values/value.page-type.ts
++++ b/readout-system/values/value.page-type.ts
+@@ -59,7 +59,7 @@ export const value = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A value states in one line what the person becomes by serving the value.",
++      statement: "A value states in one line the person a life serving that value makes.",
+     },
+     {
+       invariantKind: "departure",
