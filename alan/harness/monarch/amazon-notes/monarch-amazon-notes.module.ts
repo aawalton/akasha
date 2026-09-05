@@ -22,8 +22,12 @@ export const monarchAmazonNotes = {
 
     {
       invariantKind: "departure",
+      statement: "A single row may be named.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A single row may be named, and where it is not among the matched ones its live note is reported rather than a match invented.",
+        "A named row outside the matched ones has its live note reported rather than a match invented.",
     },
     {
       invariantKind: "departure",
