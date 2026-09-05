@@ -9,10 +9,6 @@ export const workTreeView = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The tree the editor draws is replaced whole rather than patched row by row.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A filter that reads the same as the one held redraws nothing.",
     },
     {

@@ -70,10 +70,7 @@ export const aPageTypeWithItsParts = {
       invariantKind: "departure",
       statement: "A subfolder holding a page that workspace package declares a part is a part too.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A page is declared a part by its page type and slug together.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A subfolder holding no page the page type declares is refused.",

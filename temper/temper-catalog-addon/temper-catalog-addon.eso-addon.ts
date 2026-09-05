@@ -49,9 +49,5 @@ export const temperCatalogAddon = {
       invariantKind: "departure",
       statement: "A collector that fails is skipped with its reason kept beside the catalog.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "The game reloads an addon only when the whole client reloads.",
-    },
   ],
 } as const satisfies EsoAddon

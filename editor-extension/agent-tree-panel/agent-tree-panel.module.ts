@@ -68,10 +68,7 @@ export const agentTreePanel = {
       statement:
         "A read that lost seats says how many rather than drawing a short tree in silence.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
-    },
+
     {
       invariantKind: "departure",
       statement:

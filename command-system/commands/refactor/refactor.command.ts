@@ -221,10 +221,6 @@ export const refactor = {
       invariantKind: "departure",
       statement: "Every manifest and every body spelling the renamed package is respelled.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "The index carries the pages rather than every file git tracks.",
-    },
 
     {
       invariantKind: "departure",

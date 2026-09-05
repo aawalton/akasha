@@ -30,11 +30,6 @@ export const pageIconSearchIndexGenerate = {
 
     {
       invariantKind: "departure",
-      statement: "A shard holds at least one icon however long that icon's line is.",
-    },
-
-    {
-      invariantKind: "departure",
       statement: "A body rendered at or past the size a write refuses stages nothing at all.",
     },
     {

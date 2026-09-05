@@ -51,10 +51,6 @@ export const statusBarPanel = {
       invariantKind: "departure",
       statement: "A drawing says which readings the file carried nothing for.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Every drawing's outcome is recorded as an observation.",
-    },
 
     {
       invariantKind: "absence",

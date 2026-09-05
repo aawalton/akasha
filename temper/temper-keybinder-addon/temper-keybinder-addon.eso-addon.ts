@@ -51,9 +51,5 @@ export const temperKeybinderAddon = {
       invariantKind: "constraint",
       statement: "The game protects rebinding.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "The game reloads an addon only when the whole client reloads.",
-    },
   ],
 } as const satisfies EsoAddon

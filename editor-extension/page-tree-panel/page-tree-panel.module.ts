@@ -46,10 +46,6 @@ export const pageTreePanel = {
       invariantKind: "departure",
       statement: "A page type no root reaches is said to Alan once and named on the channel.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
-    },
 
     {
       invariantKind: "absence",

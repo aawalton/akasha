@@ -19,10 +19,7 @@ export const latestArrival = {
       invariantKind: "departure",
       statement: "A metric no reading arrived under is answered absent.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A reading is read off the rows kept beside the ESO day the reading began in.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here asks the pages system service.",

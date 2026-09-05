@@ -231,10 +231,7 @@ export const move = {
       invariantKind: "departure",
       statement: "An index that cannot name the files importing a path refuses the move.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "The index carries the pages rather than every file git tracks.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A tracked file spelling a path that moves is repointed in the same commit.",
