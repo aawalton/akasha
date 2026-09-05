@@ -1,0 +1,2063 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/story/decisions/properties/decision-effect.text-property.ts b/story/decisions/properties/decision-effect.text-property.ts
+index ae319a6ac056a02e63d7a25203f2afc963d22e8b..a0d2f691dc62b56e2aea707f098db4c5347cb462 100644
+--- a/story/decisions/properties/decision-effect.text-property.ts
++++ b/story/decisions/properties/decision-effect.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DecisionEffect = string
+ 
+diff --git a/story/decisions/properties/decision-options.text-property.ts b/story/decisions/properties/decision-options.text-property.ts
+index 36e9a74163c5ebe8c71fcc454dbc1b562ba30489..261a382d0c230f13b444f7c53fc97f9a239313b0 100644
+--- a/story/decisions/properties/decision-options.text-property.ts
++++ b/story/decisions/properties/decision-options.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DecisionOptions = string
+ 
+diff --git a/story/decisions/properties/decision-type.select-property.ts b/story/decisions/properties/decision-type.select-property.ts
+index f1e1b9831563f6b1ff0bf36e3bbc5fd991f4f2aa..c78a7127017994e135c6a0086411a397af27f56e 100644
+--- a/story/decisions/properties/decision-type.select-property.ts
++++ b/story/decisions/properties/decision-type.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const decisionType = {
+   id: "01a06577-f385-717f-8a5c-553d37a77bab",
+diff --git a/story/decisions/story-decision.page-type.ts b/story/decisions/story-decision.page-type.ts
+index c3b5f9631ee75a67e849a04cbe9f6cbd2c888fdb..b821b7fcbf51c01b95fd8afe57a834ab7a6fbce3 100644
+--- a/story/decisions/story-decision.page-type.ts
++++ b/story/decisions/story-decision.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+diff --git a/story/design-notes/properties/note-subject.text-property.ts b/story/design-notes/properties/note-subject.text-property.ts
+index 783a8abe2ddd525928eb6fb2e1b573b7b012c18f..fbde5519c4e29aa47d0914cc7c9ade5a4dcf1df1 100644
+--- a/story/design-notes/properties/note-subject.text-property.ts
++++ b/story/design-notes/properties/note-subject.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NoteSubject = string
+ 
+diff --git a/story/design-notes/story-design-note.page-type.ts b/story/design-notes/story-design-note.page-type.ts
+index 3d40e8445ae920237dcc7effa89c52c1b356bfb9..4e96485a17ffe8c048f1c4991ba1e059267a9cf6 100644
+--- a/story/design-notes/story-design-note.page-type.ts
++++ b/story/design-notes/story-design-note.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+diff --git a/story/designs/properties/arc-structure.text-property.ts b/story/designs/properties/arc-structure.text-property.ts
+index 6dd0866178673137a75e5e4d8b18d69351da7612..fa2b13646a0ed2054ff90f7eb36849f0995e60ab 100644
+--- a/story/designs/properties/arc-structure.text-property.ts
++++ b/story/designs/properties/arc-structure.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ArcStructure = string
+ 
+diff --git a/story/designs/properties/book-title.text-property.ts b/story/designs/properties/book-title.text-property.ts
+index 817cc18fb25fe95804e35913ca46e600c03181fc..fee7a3fc967bffd5d7df208431eb2d4a8658ee37 100644
+--- a/story/designs/properties/book-title.text-property.ts
++++ b/story/designs/properties/book-title.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BookTitle = string
+ 
+diff --git a/story/designs/properties/chapter-numbering.text-property.ts b/story/designs/properties/chapter-numbering.text-property.ts
+index 91d80e8314c8aab4791a7c6b757d55e3c13b8b24..6c9624964db29c2a7dc654fb62f96128d0f25970 100644
+--- a/story/designs/properties/chapter-numbering.text-property.ts
++++ b/story/designs/properties/chapter-numbering.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ChapterNumbering = string
+ 
+diff --git a/story/designs/properties/continuity.text-property.ts b/story/designs/properties/continuity.text-property.ts
+index 5ecc00853139209fd31f23671d2e103685830a8b..61d7c93744f49f7fed67a337a4a4ca0ed8d39c5e 100644
+--- a/story/designs/properties/continuity.text-property.ts
++++ b/story/designs/properties/continuity.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Continuity = string
+ 
+diff --git a/story/designs/properties/design-author.text-property.ts b/story/designs/properties/design-author.text-property.ts
+index d74298cfb0157900942d6e88639375d65ec4878e..30611ac0551c3d83b7ae19d559f7fbf66b6ce716 100644
+--- a/story/designs/properties/design-author.text-property.ts
++++ b/story/designs/properties/design-author.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DesignAuthor = string
+ 
+diff --git a/story/designs/properties/design-source.text-property.ts b/story/designs/properties/design-source.text-property.ts
+index 7fd78d288024d352ade9ffe0253367967460c501..77d49c40e1bc422096076c07c63e85702d92240c 100644
+--- a/story/designs/properties/design-source.text-property.ts
++++ b/story/designs/properties/design-source.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DesignSource = string
+ 
+diff --git a/story/designs/properties/design-system.text-property.ts b/story/designs/properties/design-system.text-property.ts
+index 703c0a47253d8f32a36edcf439cd337eb9f09029..368f277d156ed4d9f7aa3cb745f929d937fb9ac2 100644
+--- a/story/designs/properties/design-system.text-property.ts
++++ b/story/designs/properties/design-system.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DesignSystem = string
+ 
+diff --git a/story/designs/properties/design-version.text-property.ts b/story/designs/properties/design-version.text-property.ts
+index c6a09d426043d9afb006dc370c1225f0c2285de9..e5f55e44c92c0cefaf4e34592b357265e47a73fc 100644
+--- a/story/designs/properties/design-version.text-property.ts
++++ b/story/designs/properties/design-version.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DesignVersion = string
+ 
+diff --git a/story/designs/properties/dungeon-nature.text-property.ts b/story/designs/properties/dungeon-nature.text-property.ts
+index 33eac28e47e5a5fb8a88170420d281be79d8d595..3a87d177befa193df38bce9df9242be75039dbfa 100644
+--- a/story/designs/properties/dungeon-nature.text-property.ts
++++ b/story/designs/properties/dungeon-nature.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DungeonNature = string
+ 
+diff --git a/story/designs/properties/gbww-readings.text-property.ts b/story/designs/properties/gbww-readings.text-property.ts
+index 2d7c442c73edcc116d016c8649065c3178657e3f..d629e806b207b6b4cd0bb3aec3b96efb019add45 100644
+--- a/story/designs/properties/gbww-readings.text-property.ts
++++ b/story/designs/properties/gbww-readings.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type GbwwReadings = string
+ 
+diff --git a/story/designs/properties/memory-distribution.text-property.ts b/story/designs/properties/memory-distribution.text-property.ts
+index 3031b9e652ed7c465375b78aa4782062e08e497e..33fb7f31e7b7a644e4db00a8343765a7dee69dc1 100644
+--- a/story/designs/properties/memory-distribution.text-property.ts
++++ b/story/designs/properties/memory-distribution.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MemoryDistribution = string
+ 
+diff --git a/story/designs/properties/narrator.text-property.ts b/story/designs/properties/narrator.text-property.ts
+index 980f5c587f2b8bc6d8c3853d2e022747cd8887b1..46a195932e088885ff403de873db1d1d132e9d1b 100644
+--- a/story/designs/properties/narrator.text-property.ts
++++ b/story/designs/properties/narrator.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Narrator = string
+ 
+diff --git a/story/designs/properties/series-name.text-property.ts b/story/designs/properties/series-name.text-property.ts
+index eae3a8a13a25de86aedb7a92cad9ee40f5002020..4402da6a0c735ccaa81219b0f0170350cb38b356 100644
+--- a/story/designs/properties/series-name.text-property.ts
++++ b/story/designs/properties/series-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SeriesName = string
+ 
+diff --git a/story/designs/properties/series-status.text-property.ts b/story/designs/properties/series-status.text-property.ts
+index 80f24bb0a1136765287e915842f0c07068232b6d..57259f9da541434a89ed2e5a66c890156690462b 100644
+--- a/story/designs/properties/series-status.text-property.ts
++++ b/story/designs/properties/series-status.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SeriesStatus = string
+ 
+diff --git a/story/designs/properties/story-genre.text-property.ts b/story/designs/properties/story-genre.text-property.ts
+index db56e4ad25acaf04008e72c5d293cc86bf83e6be..89b380892f60bb5dfb4a73eda8906dc96223be5d 100644
+--- a/story/designs/properties/story-genre.text-property.ts
++++ b/story/designs/properties/story-genre.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type StoryGenre = string
+ 
+diff --git a/story/designs/properties/story-premise.text-property.ts b/story/designs/properties/story-premise.text-property.ts
+index 6c4a7cd58d8b062e30c4a84538d14bf64e63ba1d..f813d6ed9e847a45130afe09e6f0879ddbb0de17 100644
+--- a/story/designs/properties/story-premise.text-property.ts
++++ b/story/designs/properties/story-premise.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type StoryPremise = string
+ 
+diff --git a/story/designs/properties/story-reader-framing.text-property.ts b/story/designs/properties/story-reader-framing.text-property.ts
+index 3ff90d549f516dbf3358ebd8e15a73eaec6cc3fc..50a6c8d141341bd2f4e2ed7772fe45657548031a 100644
+--- a/story/designs/properties/story-reader-framing.text-property.ts
++++ b/story/designs/properties/story-reader-framing.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type StoryReaderFraming = string
+ 
+diff --git a/story/designs/properties/story-themes.text-property.ts b/story/designs/properties/story-themes.text-property.ts
+index 883a88bf070aa953181b533efedc54fbae3b15f3..687e503548b8f9b7bbbda58ea8b919654e27955c 100644
+--- a/story/designs/properties/story-themes.text-property.ts
++++ b/story/designs/properties/story-themes.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type StoryThemes = string
+ 
+diff --git a/story/designs/properties/story-tone.text-property.ts b/story/designs/properties/story-tone.text-property.ts
+index c31ce80e6af305030bf8a295b8e6581d918b6cb5..074fd68d066281e0d78a8230cf9c07303986edb6 100644
+--- a/story/designs/properties/story-tone.text-property.ts
++++ b/story/designs/properties/story-tone.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type StoryTone = string
+ 
+diff --git a/story/designs/properties/structure.text-property.ts b/story/designs/properties/structure.text-property.ts
+index a051c24f78dece8757bdda363d642e9ed833ddf6..0be335c0067681b7b84c6f4ab7388f0d4a542f8e 100644
+--- a/story/designs/properties/structure.text-property.ts
++++ b/story/designs/properties/structure.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Structure = string
+ 
+diff --git a/story/designs/properties/timeline-distribution.text-property.ts b/story/designs/properties/timeline-distribution.text-property.ts
+index 9e4b81e4b0928c0b85031e1e1d1581fa8b81e3e2..209356e66eab1cb686a9729fffe6abba249ca243 100644
+--- a/story/designs/properties/timeline-distribution.text-property.ts
++++ b/story/designs/properties/timeline-distribution.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TimelineDistribution = string
+ 
+diff --git a/story/designs/properties/visual-style.text-property.ts b/story/designs/properties/visual-style.text-property.ts
+index 739fac58de1f50f9f200fba5a200100bdbc110f8..53344235fbf1c7c8bfe241c321db70df16d84b1b 100644
+--- a/story/designs/properties/visual-style.text-property.ts
++++ b/story/designs/properties/visual-style.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type VisualStyle = string
+ 
+diff --git a/story/designs/properties/writing-philosophy.text-property.ts b/story/designs/properties/writing-philosophy.text-property.ts
+index 9aa687f29c44658a5261ad1a614910bb7967de0c..7222681e2872bb70ee57220988fd647b1b270307 100644
+--- a/story/designs/properties/writing-philosophy.text-property.ts
++++ b/story/designs/properties/writing-philosophy.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type WritingPhilosophy = string
+ 
+diff --git a/story/designs/story-design.page-type.ts b/story/designs/story-design.page-type.ts
+index 263ac5e259537891e9c42d7b9c1af4d590aea95d..360037076a776a45e9ba7e441a57f70e521c09a9 100644
+--- a/story/designs/story-design.page-type.ts
++++ b/story/designs/story-design.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+diff --git a/story/elements-played/properties/doing.text-property.ts b/story/elements-played/properties/doing.text-property.ts
+index ef3de83dead813f5bb7e728b6bd77c7070f5145f..c31e143c2fbec90ca8de831e8c3f6d3e3c25a014 100644
+--- a/story/elements-played/properties/doing.text-property.ts
++++ b/story/elements-played/properties/doing.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Doing = string
+ 
+diff --git a/story/elements-played/properties/element-kind.select-property.ts b/story/elements-played/properties/element-kind.select-property.ts
+index 4f4fd07b5ace8f008f946d27ac0dca23e0daec92..138dd272e1840686769961e9c7965a21f898a926 100644
+--- a/story/elements-played/properties/element-kind.select-property.ts
++++ b/story/elements-played/properties/element-kind.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const elementKind = {
+   id: "01a06828-cb97-7ee3-9578-4a81ad1884a6",
+diff --git a/story/elements-played/properties/feeling.text-property.ts b/story/elements-played/properties/feeling.text-property.ts
+index 7cf3250ea725a5a61d894706af4aa1b83983ecd9..6974beb146807eb16c17dbacff303f02984290a9 100644
+--- a/story/elements-played/properties/feeling.text-property.ts
++++ b/story/elements-played/properties/feeling.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Feeling = string
+ 
+diff --git a/story/elements-played/properties/knowing.text-property.ts b/story/elements-played/properties/knowing.text-property.ts
+index 1e6ab081d544096e05230d6a25c1a51611c7cd38..e638d014bd1f410d07c849a15fb8ccfdc326e3d5 100644
+--- a/story/elements-played/properties/knowing.text-property.ts
++++ b/story/elements-played/properties/knowing.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Knowing = string
+ 
+diff --git a/story/elements-played/properties/perceiving.text-property.ts b/story/elements-played/properties/perceiving.text-property.ts
+index 442f75c0861ef35f6ef09ab2f0a2833bab30000e..75d0692ae2e5ac1108223127758e3815e5d1d559 100644
+--- a/story/elements-played/properties/perceiving.text-property.ts
++++ b/story/elements-played/properties/perceiving.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Perceiving = string
+ 
+diff --git a/story/elements-played/properties/played-story-slug.relation-property.ts b/story/elements-played/properties/played-story-slug.relation-property.ts
+index 63e4d9efd42dd8bb6651992e59f9dc4d1645ccde..9d76df819f3a75386bd372a30e04564453e78d72 100644
+--- a/story/elements-played/properties/played-story-slug.relation-property.ts
++++ b/story/elements-played/properties/played-story-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type PlayedStorySlug = Slug
+ 
+diff --git a/story/elements-played/properties/turn-states.file-property.ts b/story/elements-played/properties/turn-states.file-property.ts
+index 7fc2218bce63ad19f3a50e0b8ad8a89d54c06753..30e757ae686da8265977b39fed727c4542c2fb88 100644
+--- a/story/elements-played/properties/turn-states.file-property.ts
++++ b/story/elements-played/properties/turn-states.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type TurnStates = "jsonl"
+ 
+diff --git a/story/elements-played/properties/wanting.text-property.ts b/story/elements-played/properties/wanting.text-property.ts
+index 17f00a6c5c31cdcebe90786209ded6cc1f4aa553..6e0cdcf45cf04f55636a6e45f1b5c051ba90dd7b 100644
+--- a/story/elements-played/properties/wanting.text-property.ts
++++ b/story/elements-played/properties/wanting.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Wanting = string
+ 
+diff --git a/story/elements-played/story-element-played.page-type.ts b/story/elements-played/story-element-played.page-type.ts
+index 1fc303035b5e0e00bfe58884e8c47124fe1caafe..60178cacfe9023eecf3e904bfd57450ae00ec21f 100644
+--- a/story/elements-played/story-element-played.page-type.ts
++++ b/story/elements-played/story-element-played.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Doing } from "./properties/doing.text-property.ts"
+ import type { ElementKind } from "./properties/element-kind.select-property.ts"
+ import type { Feeling } from "./properties/feeling.text-property.ts"
+diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
+index d68ce767b73da8e08b8e9f98b5f1793092c0f508..ffb42f51634037be807360a175291ddd606c71f5 100644
+--- a/story/games/game.page-type.ts
++++ b/story/games/game.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../collections/collection.page-type.ts"
+ import type { ExternalId } from "../../collections/collection-externals/properties/external-id.text-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+diff --git a/story/games/properties/config.file-property.ts b/story/games/properties/config.file-property.ts
+index 7217494edb4211fdfa98f0fa552ea8b047f71887..9f3d31c34ef543b862e8a39c48a9611c07dab6bb 100644
+--- a/story/games/properties/config.file-property.ts
++++ b/story/games/properties/config.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Config = "json"
+ 
+diff --git a/story/games/properties/controlled-entity-kind.select-property.ts b/story/games/properties/controlled-entity-kind.select-property.ts
+index b30567141d6595426792431d57345fbed3ff4162..5f83d336b76ac53e023e12ecda4f35a2350a5e65 100644
+--- a/story/games/properties/controlled-entity-kind.select-property.ts
++++ b/story/games/properties/controlled-entity-kind.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const controlledEntityKind = {
+   id: "01a0673c-8e0e-7007-846b-f52757583f80",
+diff --git a/story/games/properties/coordinator-agent.text-property.ts b/story/games/properties/coordinator-agent.text-property.ts
+index 38269d237a6359ad39870ccaccc1dd6bebd346e1..d164df2ed597582bccb3fa80ed4eab54ede42b4f 100644
+--- a/story/games/properties/coordinator-agent.text-property.ts
++++ b/story/games/properties/coordinator-agent.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CoordinatorAgent = string
+ 
+diff --git a/story/games/properties/current-session.number-property.ts b/story/games/properties/current-session.number-property.ts
+index 5c0026e2bb0af672556ba268c9c3682ae44f3429..c8213fde90a9464027c7c97090c73991452b5df6 100644
+--- a/story/games/properties/current-session.number-property.ts
++++ b/story/games/properties/current-session.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CurrentSession = number
+ 
+diff --git a/story/games/properties/design-entries.file-property.ts b/story/games/properties/design-entries.file-property.ts
+index 20708e8c9ae4f38f962ce8378a432c9797929620..58d6128551b0cb4dfb5bdee189440b8ecaef5d38 100644
+--- a/story/games/properties/design-entries.file-property.ts
++++ b/story/games/properties/design-entries.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type DesignEntries = "jsonl"
+ 
+diff --git a/story/games/properties/display-config.file-property.ts b/story/games/properties/display-config.file-property.ts
+index cd823b72219b47cfc571627bd6d701d2f1f4bacd..70e8748086163172e714678bfe51ae3d2c7b9e79 100644
+--- a/story/games/properties/display-config.file-property.ts
++++ b/story/games/properties/display-config.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type DisplayConfig = "json"
+ 
+diff --git a/story/games/properties/entities.file-property.ts b/story/games/properties/entities.file-property.ts
+index c05da0e632a35e053723c4f00cf96d8e91694c5c..d2e02e0b0d6acd12faf4baf8cfc264ac30921055 100644
+--- a/story/games/properties/entities.file-property.ts
++++ b/story/games/properties/entities.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Entities = "jsonl"
+ 
+diff --git a/story/games/properties/game-characters.file-property.ts b/story/games/properties/game-characters.file-property.ts
+index 0c3af72e5b163bc437bdde7cee455325cf4979fa..5bf0ce25e41b9f5de170acab9b87bb941ef68e0e 100644
+--- a/story/games/properties/game-characters.file-property.ts
++++ b/story/games/properties/game-characters.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type GameCharacters = "jsonl"
+ 
+diff --git a/story/games/properties/game-engine.text-property.ts b/story/games/properties/game-engine.text-property.ts
+index bf4fb84ecdef175e226812736c83ab200480b225..d19df31b3fd61e5c9b30ebb75400e46e904dab82 100644
+--- a/story/games/properties/game-engine.text-property.ts
++++ b/story/games/properties/game-engine.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type GameEngine = string
+ 
+diff --git a/story/games/properties/genre.text-property.ts b/story/games/properties/genre.text-property.ts
+index ccbeec2066bb64ac7301d7934d656e1234735efe..2b79cfecdc6bc72eeb069597766f844ed92cd886 100644
+--- a/story/games/properties/genre.text-property.ts
++++ b/story/games/properties/genre.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Genre = string
+ 
+diff --git a/story/games/properties/gm-context.file-property.ts b/story/games/properties/gm-context.file-property.ts
+index f7b8566f3e6a0150460e1655cd83aaec5e86ac98..0fb4fd6486dc94b0317bf7b4809d529307b244db 100644
+--- a/story/games/properties/gm-context.file-property.ts
++++ b/story/games/properties/gm-context.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type GmContext = "json"
+ 
+diff --git a/story/games/properties/lore-entries.file-property.ts b/story/games/properties/lore-entries.file-property.ts
+index 7f1c8ffe0870095cb77c755c6aacf24522c0b84b..2396f2f913f67d72832a34af35a73c22368ffa1b 100644
+--- a/story/games/properties/lore-entries.file-property.ts
++++ b/story/games/properties/lore-entries.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type LoreEntries = "jsonl"
+ 
+diff --git a/story/games/properties/maintains-design.boolean-property.ts b/story/games/properties/maintains-design.boolean-property.ts
+index 746cfb22e77ade228243c2c9f8d1229043051376..7f725bc76213f85bd8261002f049e05e6cc52346 100644
+--- a/story/games/properties/maintains-design.boolean-property.ts
++++ b/story/games/properties/maintains-design.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type MaintainsDesign = boolean
+ 
+diff --git a/story/games/properties/maintains-lore.boolean-property.ts b/story/games/properties/maintains-lore.boolean-property.ts
+index 88be1670ebdcaa7973d68254c7ab7b7a4ab5ff43..3b91ed959e0594d18249f757cef580ab816b0c0e 100644
+--- a/story/games/properties/maintains-lore.boolean-property.ts
++++ b/story/games/properties/maintains-lore.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type MaintainsLore = boolean
+ 
+diff --git a/story/games/properties/mechanics-weight.select-property.ts b/story/games/properties/mechanics-weight.select-property.ts
+index 4b9dbbe280d6e25b39adc5055970bde485632cd7..352061c1fb79684ec178a1e93e0e10c69c01ea5d 100644
+--- a/story/games/properties/mechanics-weight.select-property.ts
++++ b/story/games/properties/mechanics-weight.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const mechanicsWeight = {
+   id: "01a0673c-8e0e-7008-975c-8cd78b5fcf4f",
+diff --git a/story/games/properties/narrative-continuity.file-property.ts b/story/games/properties/narrative-continuity.file-property.ts
+index 2844ce93908ccd3580c113783920fb890a567d3d..c01132db095f193ddf2a14fdf5be879080ad8046 100644
+--- a/story/games/properties/narrative-continuity.file-property.ts
++++ b/story/games/properties/narrative-continuity.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type NarrativeContinuity = "json"
+ 
+diff --git a/story/games/properties/premise.text-property.ts b/story/games/properties/premise.text-property.ts
+index 7305152e7cc8d16ac5eccf57730cfb461b255269..c0d2ba08bbbc3679127287ea0b981544aff0ef8b 100644
+--- a/story/games/properties/premise.text-property.ts
++++ b/story/games/properties/premise.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Premise = string
+ 
+diff --git a/story/games/properties/reader-framing.text-property.ts b/story/games/properties/reader-framing.text-property.ts
+index b005ebc98ab0d00c93248e2031c022772bb06ef1..20874f0dbefda8b5ad5578b6255f5a1ce1274486 100644
+--- a/story/games/properties/reader-framing.text-property.ts
++++ b/story/games/properties/reader-framing.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ReaderFraming = string
+ 
+diff --git a/story/games/properties/requires-per-turn-gate.boolean-property.ts b/story/games/properties/requires-per-turn-gate.boolean-property.ts
+index 14bc7a34bfcd097f7ac63ffaf5a111c3585477e8..c0e49a51c7654e190dbc61eef9b1f6c7145b1dc7 100644
+--- a/story/games/properties/requires-per-turn-gate.boolean-property.ts
++++ b/story/games/properties/requires-per-turn-gate.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type RequiresPerTurnGate = boolean
+ 
+diff --git a/story/games/properties/resolution-mechanism.file-property.ts b/story/games/properties/resolution-mechanism.file-property.ts
+index 76e4d6a9c57a9b5bbf2d3725afca5d4406dd0c39..79786d417546405b62a3300dc979651c03e93906 100644
+--- a/story/games/properties/resolution-mechanism.file-property.ts
++++ b/story/games/properties/resolution-mechanism.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type ResolutionMechanism = "json"
+ 
+diff --git a/story/games/properties/resolution.select-property.ts b/story/games/properties/resolution.select-property.ts
+index de2f681184a2983dd929c62f5263cc7493c30b86..5641e8cbb1fadf71febc9be35570dceb5d8c9b9a 100644
+--- a/story/games/properties/resolution.select-property.ts
++++ b/story/games/properties/resolution.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const resolution = {
+   id: "01a0673c-8e0e-7009-834e-edf6c52bf5fb",
+diff --git a/story/games/properties/rolls.file-property.ts b/story/games/properties/rolls.file-property.ts
+index d6fbcf39c5dc806d14b72ebe26edc92992e80cf3..397714717d2a64b5c5d831e05111e0815cd32e34 100644
+--- a/story/games/properties/rolls.file-property.ts
++++ b/story/games/properties/rolls.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Rolls = "jsonl"
+ 
+diff --git a/story/games/properties/rulebook.file-property.ts b/story/games/properties/rulebook.file-property.ts
+index 18b004a13d8e2bfa1d52f2786518938eb060a9b1..9ba8fedcff6db8de5f8ff4152d6a1686ccf0dfa6 100644
+--- a/story/games/properties/rulebook.file-property.ts
++++ b/story/games/properties/rulebook.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Rulebook = "json"
+ 
+diff --git a/story/games/properties/states.file-property.ts b/story/games/properties/states.file-property.ts
+index be322aa60586627a821f6defab43559871fd751c..ed79051f0c1b3087b73e2267689e88e99e109ebe 100644
+--- a/story/games/properties/states.file-property.ts
++++ b/story/games/properties/states.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type States = "jsonl"
+ 
+diff --git a/story/games/properties/themes.text-property.ts b/story/games/properties/themes.text-property.ts
+index b3d517ee0650796ad963c371daf2f7298b53472a..8371141216ebc3f1cc82c2cc061d3002e5701d7c 100644
+--- a/story/games/properties/themes.text-property.ts
++++ b/story/games/properties/themes.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Themes = string
+ 
+diff --git a/story/games/properties/tone.text-property.ts b/story/games/properties/tone.text-property.ts
+index a50d55e38c64f69bdbe7c2ca5115081188b1c2fa..3f6ae85129b41370730be5f7d1f9e30b937f870d 100644
+--- a/story/games/properties/tone.text-property.ts
++++ b/story/games/properties/tone.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Tone = string
+ 
+diff --git a/story/games/properties/tower-floors.file-property.ts b/story/games/properties/tower-floors.file-property.ts
+index 98c6df3695aabbf946aa6bacb80d04126b485744..5c2646cf510b6ed0b8eb4f0cc61d98145a62c967 100644
+--- a/story/games/properties/tower-floors.file-property.ts
++++ b/story/games/properties/tower-floors.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type TowerFloors = "jsonl"
+ 
+diff --git a/story/games/properties/tower-sessions.file-property.ts b/story/games/properties/tower-sessions.file-property.ts
+index 39897589af92a3416775d0cc3dfeb6513b4ccd13..50d82f5dcbc0c01498a7e1287c315f63e96b736d 100644
+--- a/story/games/properties/tower-sessions.file-property.ts
++++ b/story/games/properties/tower-sessions.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type TowerSessions = "jsonl"
+ 
+diff --git a/story/games/properties/turns.file-property.ts b/story/games/properties/turns.file-property.ts
+index 6b4a864414dbe51ec245c873eeaa3568bf3d6180..45b5b5bdcb5b557b90bf6c0e5213d8bd03dd3791 100644
+--- a/story/games/properties/turns.file-property.ts
++++ b/story/games/properties/turns.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Turns = "jsonl"
+ 
+diff --git a/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts b/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts
+index 5aa9c234ded8c9ee18ab17b4dae3e3bacd062394..9fad75066fdc945ca11f73f579f0a86d4f756981 100644
+--- a/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts
++++ b/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { DoctrineVersion } from "./properties/doctrine-version.number-property.ts"
+ import type { GateDimensions } from "./properties/gate-dimensions.file-property.ts"
+ import type { Policies } from "./properties/policies.file-property.ts"
+diff --git a/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts b/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts
+index 0e7268514cb793f318310ae8240f98df8e3572e1..81b639f172eb955fb928b3bb82e6d8a0cdb06749 100644
+--- a/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts
++++ b/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type DoctrineVersion = number
+ 
+diff --git a/story/gm-doctrine-packs/properties/gate-dimensions.file-property.ts b/story/gm-doctrine-packs/properties/gate-dimensions.file-property.ts
+index 754a376c616168e58f824afc20d759f52202110a..3b8b3efc2b0ddebaace6e976c969764e2960d890 100644
+--- a/story/gm-doctrine-packs/properties/gate-dimensions.file-property.ts
++++ b/story/gm-doctrine-packs/properties/gate-dimensions.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type GateDimensions = "json"
+ 
+diff --git a/story/gm-doctrine-packs/properties/policies.file-property.ts b/story/gm-doctrine-packs/properties/policies.file-property.ts
+index 19e8a4daa8e0c3b5fdd0d8f86d51890ac4db924b..0d1b3d74df577f010775569c4ee72d1f5dc5bb57 100644
+--- a/story/gm-doctrine-packs/properties/policies.file-property.ts
++++ b/story/gm-doctrine-packs/properties/policies.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Policies = "json"
+ 
+diff --git a/story/gm-doctrine-packs/properties/sheet-template.file-property.ts b/story/gm-doctrine-packs/properties/sheet-template.file-property.ts
+index 770e701d398de5896c83bedc18bcc075ba7ba8a3..4e452e0abd821eb11cbb72c7a5c42f98f2a3c91e 100644
+--- a/story/gm-doctrine-packs/properties/sheet-template.file-property.ts
++++ b/story/gm-doctrine-packs/properties/sheet-template.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type SheetTemplate = "json"
+ 
+diff --git a/story/gm-doctrine-packs/properties/tally-catalog.file-property.ts b/story/gm-doctrine-packs/properties/tally-catalog.file-property.ts
+index 57c2dfcadb5afe1a07f4b96322628668ab1e7ff2..8dc6579f044375ae7cded129f07e4e8a3c0a9994 100644
+--- a/story/gm-doctrine-packs/properties/tally-catalog.file-property.ts
++++ b/story/gm-doctrine-packs/properties/tally-catalog.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type TallyCatalog = "json"
+ 
+diff --git a/story/named-events/named-event.page-type.ts b/story/named-events/named-event.page-type.ts
+index 917dfefe0dcecd6aaa14503b5305daef9de70411..68c074a602b10012ce6d7de926ad606642276db6 100644
+--- a/story/named-events/named-event.page-type.ts
++++ b/story/named-events/named-event.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Seq } from "../../alan/tracking/daily/wake-days/properties/seq.number-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+diff --git a/story/named-events/properties/event-aliases.text-property.ts b/story/named-events/properties/event-aliases.text-property.ts
+index 6f7ea70ebc7bbf34f10fa9930285cc58b592719f..b8c07fbb4fda7b8585927136c94ef009164a8aec 100644
+--- a/story/named-events/properties/event-aliases.text-property.ts
++++ b/story/named-events/properties/event-aliases.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EventAliases = string
+ 
+diff --git a/story/named-events/properties/event-first-chapter.number-property.ts b/story/named-events/properties/event-first-chapter.number-property.ts
+index a420f3449879e117da58f131b139bf30d18d7823..f783ecb0fbe5a12215332f7d5dbd90cd32a37c0c 100644
+--- a/story/named-events/properties/event-first-chapter.number-property.ts
++++ b/story/named-events/properties/event-first-chapter.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EventFirstChapter = number
+ 
+diff --git a/story/named-events/properties/event-last-chapter.number-property.ts b/story/named-events/properties/event-last-chapter.number-property.ts
+index 44d3edbf3c93ee6bc65c1d1fe90836f4fcf91b98..08912a4b8b4910334f54151f6a9158ad1725051d 100644
+--- a/story/named-events/properties/event-last-chapter.number-property.ts
++++ b/story/named-events/properties/event-last-chapter.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EventLastChapter = number
+ 
+diff --git a/story/named-events/properties/evidence-beat.number-property.ts b/story/named-events/properties/evidence-beat.number-property.ts
+index 6ef75c53a2e0626ad66bd494562682998499b777..27c848c109c9148fc99b24dc20cf543b88340fa8 100644
+--- a/story/named-events/properties/evidence-beat.number-property.ts
++++ b/story/named-events/properties/evidence-beat.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EvidenceBeat = number
+ 
+diff --git a/story/named-events/properties/evidence-chapter.text-property.ts b/story/named-events/properties/evidence-chapter.text-property.ts
+index 254f2367e4c5f7f225cd226ecdd42f9b69d3e1d3..ec156dde382d77bcae1be66a4dfd9a29be43126f 100644
+--- a/story/named-events/properties/evidence-chapter.text-property.ts
++++ b/story/named-events/properties/evidence-chapter.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EvidenceChapter = string
+ 
+diff --git a/story/named-events/properties/evidence-note.text-property.ts b/story/named-events/properties/evidence-note.text-property.ts
+index e2ac1bdac7233f78fb485ca60b2a267d1598b0c2..0592585271d195d24305459427b101d3b9abdaca 100644
+--- a/story/named-events/properties/evidence-note.text-property.ts
++++ b/story/named-events/properties/evidence-note.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EvidenceNote = string
+ 
+diff --git a/story/named-events/properties/named-event-kind.select-property.ts b/story/named-events/properties/named-event-kind.select-property.ts
+index f28d01a9080100b75d7ad7208fe3917238fb2643..d814a1b4fa5a52a9855a04e0555e781fff048d68 100644
+--- a/story/named-events/properties/named-event-kind.select-property.ts
++++ b/story/named-events/properties/named-event-kind.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const namedEventKind = {
+   id: "01a0658b-9f41-7310-9c24-db088c2b42b4",
+diff --git a/story/stories-played/properties/prose.file-property.ts b/story/stories-played/properties/prose.file-property.ts
+index c541ad000184953e8d2ca28a86999e9e3dce7240..10e19a008ef3ba1ec7c0c43399e2b36d3f2d80a6 100644
+--- a/story/stories-played/properties/prose.file-property.ts
++++ b/story/stories-played/properties/prose.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Prose = "txt"
+ 
+diff --git a/story/stories-played/properties/world-slug.relation-property.ts b/story/stories-played/properties/world-slug.relation-property.ts
+index b2d307478e9bda7dfddb6126c6e397ec5a275518..28b98078509f0f0c09053a44e1fee92cfa620770 100644
+--- a/story/stories-played/properties/world-slug.relation-property.ts
++++ b/story/stories-played/properties/world-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type WorldSlug = Slug
+ 
+diff --git a/story/stories-played/story-played.page-type.ts b/story/stories-played/story-played.page-type.ts
+index 86a7a50e8fb8d6dbcfedb3fa7f79cab35dd42c92..c9541f3519d59e677f8e73c86fdeb1ba73f32b88 100644
+--- a/story/stories-played/story-played.page-type.ts
++++ b/story/stories-played/story-played.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../collections/collection.page-type.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "./properties/prose.file-property.ts"
+diff --git a/story/stories-read/properties/external-tags.text-property.ts b/story/stories-read/properties/external-tags.text-property.ts
+index a30630386b7b0009adb6f2ff259bc6b063cc3d6b..d5d7a52b80345c0f34e536064624352541ac66c1 100644
+--- a/story/stories-read/properties/external-tags.text-property.ts
++++ b/story/stories-read/properties/external-tags.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ExternalTags = string
+ 
+diff --git a/story/stories-read/properties/publication-status.select-property.ts b/story/stories-read/properties/publication-status.select-property.ts
+index b7a4301ccc788b2ddaf1cf888004ccaf35a26f8f..db0b4bb2c4207a61b52e27c50974055e746bcff8 100644
+--- a/story/stories-read/properties/publication-status.select-property.ts
++++ b/story/stories-read/properties/publication-status.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const publicationStatus = {
+   id: "01a06554-d8bd-750b-95f4-3b810f2c4875",
+diff --git a/story/stories-read/story-read.page-type.ts b/story/stories-read/story-read.page-type.ts
+index cd5c2982995c527cd34228c1b9846b45648f7dd5..ba1f0efbc971a399f556cc4c91ddf94c8a787046 100644
+--- a/story/stories-read/story-read.page-type.ts
++++ b/story/stories-read/story-read.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
+ import type { Source } from "../../collections/collection-externals/properties/source.text-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+diff --git a/story/stories-written/story-written.page-type.ts b/story/stories-written/story-written.page-type.ts
+index 7a1d739919e96509f33079201febaa8df0df9e89..cff37e60a98ce0e85e792511913ca1ac8c5908dd 100644
+--- a/story/stories-written/story-written.page-type.ts
++++ b/story/stories-written/story-written.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../collections/collection.page-type.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+diff --git a/story/story-chapters-read/properties/anchor-beat.number-property.ts b/story/story-chapters-read/properties/anchor-beat.number-property.ts
+index 723503ae734b0a143d103c86aeb07c255935e166..fb54955c69d3f5a3bdb48246b83610377434191e 100644
+--- a/story/story-chapters-read/properties/anchor-beat.number-property.ts
++++ b/story/story-chapters-read/properties/anchor-beat.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AnchorBeat = number
+ 
+diff --git a/story/story-chapters-read/properties/anchor-chapter.text-property.ts b/story/story-chapters-read/properties/anchor-chapter.text-property.ts
+index d4ca9aa297af1a0a4ff29dcbc929353cf7f71578..00e1c3b5682c20a0c42f7b7d83940471e43a3035 100644
+--- a/story/story-chapters-read/properties/anchor-chapter.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-chapter.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AnchorChapter = string
+ 
+diff --git a/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts b/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts
+index dcf558d2dbd51ea388384dca5db37ccef2bfc01f..2e271c695c1a6728acfadf8f20e91ed71ea7cc0c 100644
+--- a/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AnchorClaimedBy = string
+ 
+diff --git a/story/story-chapters-read/properties/anchor-direction.select-property.ts b/story/story-chapters-read/properties/anchor-direction.select-property.ts
+index cc48aef7b3ce1be7b6f39f3a617e60ed2bba354f..fefc83cc4a7ebfe82f96dbdef8b3e0a8d06a4844 100644
+--- a/story/story-chapters-read/properties/anchor-direction.select-property.ts
++++ b/story/story-chapters-read/properties/anchor-direction.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const anchorDirection = {
+   id: "01a0685e-ef8a-7e52-9e45-460c839b0933",
+diff --git a/story/story-chapters-read/properties/anchor-kind.select-property.ts b/story/story-chapters-read/properties/anchor-kind.select-property.ts
+index 025bcbcfaf48a4f2b544e61208d9eaf3caa02dc4..025698e7418ef78ca3dd9db2a3fdcaa636603249 100644
+--- a/story/story-chapters-read/properties/anchor-kind.select-property.ts
++++ b/story/story-chapters-read/properties/anchor-kind.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const anchorKind = {
+   id: "01a0685e-ef8a-7ceb-bfd2-7d9fbc7e3246",
+diff --git a/story/story-chapters-read/properties/anchor-lexeme.text-property.ts b/story/story-chapters-read/properties/anchor-lexeme.text-property.ts
+index 1b66dbe88a30b051bcf05c4876b96688ff7a07d8..15796e48e8590742308ecb014c0e2219614825a1 100644
+--- a/story/story-chapters-read/properties/anchor-lexeme.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-lexeme.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AnchorLexeme = string
+ 
+diff --git a/story/story-chapters-read/properties/anchor-reference.text-property.ts b/story/story-chapters-read/properties/anchor-reference.text-property.ts
+index b349e53157b4d0d869bbf9d34203f7161d6ecaca..eef8db3721ccfa1fa89e2339eabc5ee963e00e49 100644
+--- a/story/story-chapters-read/properties/anchor-reference.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-reference.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AnchorReference = string
+ 
+diff --git a/story/story-chapters-read/properties/anchor-standing.select-property.ts b/story/story-chapters-read/properties/anchor-standing.select-property.ts
+index 7211b883265d9ea4ac47e4317727a4164859d0f5..4385e6ff4df3b6fedd1782ab8563d5e5016b2054 100644
+--- a/story/story-chapters-read/properties/anchor-standing.select-property.ts
++++ b/story/story-chapters-read/properties/anchor-standing.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const anchorStanding = {
+   id: "01a0685e-ef8a-7fef-b999-aae06d585ffb",
+diff --git a/story/story-chapters-read/properties/anchor-tier.select-property.ts b/story/story-chapters-read/properties/anchor-tier.select-property.ts
+index b3f191749edeb21f6df7cbc5a1d0112e2708666e..8a20ccf82c8beefaecb7d7d10f7b8bed97ff436e 100644
+--- a/story/story-chapters-read/properties/anchor-tier.select-property.ts
++++ b/story/story-chapters-read/properties/anchor-tier.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const anchorTier = {
+   id: "01a0685e-ef8a-7c8d-8b8c-de6047bf0040",
+diff --git a/story/story-chapters-read/properties/anchor-volume.number-property.ts b/story/story-chapters-read/properties/anchor-volume.number-property.ts
+index b21e637f3d006d9e2f9f840af24c151192886988..0bf33c414fcb8b93960114fb5e493c499b2b5d90 100644
+--- a/story/story-chapters-read/properties/anchor-volume.number-property.ts
++++ b/story/story-chapters-read/properties/anchor-volume.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AnchorVolume = number
+ 
+diff --git a/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts b/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts
+index ed886d8a9157fc875c7495f61d4ad34d1fab7a7c..9311a786bcef392ecf41a137ed21ff7c33b66ac6 100644
+--- a/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts
++++ b/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type ChronologyAnchors = "jsonl"
+ 
+diff --git a/story/story-chapters-read/properties/marked-read-at.instant-property.ts b/story/story-chapters-read/properties/marked-read-at.instant-property.ts
+index f5aaf1d02f3b1cb0f09cc13e8b60b9b83e071781..3951e5edd6cc7d70554add621cc188434f76f7a7 100644
+--- a/story/story-chapters-read/properties/marked-read-at.instant-property.ts
++++ b/story/story-chapters-read/properties/marked-read-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type MarkedReadAt = string
+ 
+diff --git a/story/story-chapters-read/properties/removed-at.instant-property.ts b/story/story-chapters-read/properties/removed-at.instant-property.ts
+index c56f058ca3ffdf3c0c4ebe62ff081fdece4b89b1..b79b85a26346efb61f51362a6bcc6fffc908dd69 100644
+--- a/story/story-chapters-read/properties/removed-at.instant-property.ts
++++ b/story/story-chapters-read/properties/removed-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type RemovedAt = string
+ 
+diff --git a/story/story-chapters-read/story-chapter-read.page-type.ts b/story/story-chapters-read/story-chapter-read.page-type.ts
+index 9fd0ddc92516e9bcd34d0019f9fcd635388c2488..3e7b20b4d93a7461d0bc36a8931a4d52b6ea9a7b 100644
+--- a/story/story-chapters-read/story-chapter-read.page-type.ts
++++ b/story/story-chapters-read/story-chapter-read.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
+ import type { ExternalLink } from "../../collections/collection-externals/properties/external-link.url-property.ts"
+ import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
+diff --git a/story/turns-played/story-turn-played.page-type.ts b/story/turns-played/story-turn-played.page-type.ts
+index 9dbe488ccefdc49441a20ed19edcbdc724e4b464..b4c1ede4cd3a599d1d0da1289af84811572e45e0 100644
+--- a/story/turns-played/story-turn-played.page-type.ts
++++ b/story/turns-played/story-turn-played.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../collections/collection.page-type.ts"
+ import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+diff --git a/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts b/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
+index a0bd57638e109e31f656c98b2027f956b8bd9667..a488beef4a4622b28c46ad55c9525114f8ce64f6 100644
+--- a/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
++++ b/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
+@@ -1,8 +1,8 @@
+ import { landedMechanically } from "@akasha/command-system/asking"
+ import type { FileEdit } from "@akasha/command-system/landing"
+-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+-import { besideAt } from "@akasha/pages-system/page-file-name"
+-import type { Value } from "@akasha/pages-system/page-value"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
++import { besideAt } from "@akasha/pages/page-file-name"
++import type { Value } from "@akasha/pages/page-value"
+ import { asking } from "@akasha/pages-system-service/asking"
+ import { composedFor } from "@akasha/pages-system-service/composing"
+ import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
+diff --git a/story/wandering-inn/sync-run-recording/sync-run-recording.module.code.ts b/story/wandering-inn/sync-run-recording/sync-run-recording.module.code.ts
+index 63884f89b28c02fb1127d6b825d7ef218a2c990c..747fe54d5a54f9702e3eec4fcea9e8c91e468648 100644
+--- a/story/wandering-inn/sync-run-recording/sync-run-recording.module.code.ts
++++ b/story/wandering-inn/sync-run-recording/sync-run-recording.module.code.ts
+@@ -1,10 +1,10 @@
+ import { landedMechanically } from "@akasha/command-system/asking"
+ import type { FileEdit } from "@akasha/command-system/landing"
+ import { listedAt } from "@akasha/indexes"
+-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+-import { entriesAt } from "@akasha/pages-system/page-entries"
+-import { besideAt } from "@akasha/pages-system/page-file-name"
+-import type { Value } from "@akasha/pages-system/page-value"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
++import { entriesAt } from "@akasha/pages/page-entries"
++import { besideAt } from "@akasha/pages/page-file-name"
++import type { Value } from "@akasha/pages/page-value"
+ 
+ const SYNC_PAGE_TYPE = "sync"
+ const SYNC_RUNS = "sync-runs"
+diff --git a/story/wiki-entries/properties/chapter-number.number-property.ts b/story/wiki-entries/properties/chapter-number.number-property.ts
+index 2b3df61c6cf3fcc8707115ceaae5756de0d6ae9b..9214c2d0d6fa0842f80051318e321fd0d58f6869 100644
+--- a/story/wiki-entries/properties/chapter-number.number-property.ts
++++ b/story/wiki-entries/properties/chapter-number.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ChapterNumber = number
+ 
+diff --git a/story/wiki-entries/properties/wiki-kind.select-property.ts b/story/wiki-entries/properties/wiki-kind.select-property.ts
+index 7839f049a77cc206770245cf1863045af2eaaf19..e51068e660d824e164e75f6b54281c2a31793316 100644
+--- a/story/wiki-entries/properties/wiki-kind.select-property.ts
++++ b/story/wiki-entries/properties/wiki-kind.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const wikiKind = {
+   id: "01a06577-f385-7cda-a112-1e8887344a93",
+diff --git a/story/wiki-entries/story-wiki-entry.page-type.ts b/story/wiki-entries/story-wiki-entry.page-type.ts
+index dda91f8879015494b0022263accdab97950fff0d..301bb67d57e0cc4da0411b95d8158ee82e2852d9 100644
+--- a/story/wiki-entries/story-wiki-entry.page-type.ts
++++ b/story/wiki-entries/story-wiki-entry.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+diff --git a/story/world-characters/properties/event-count.number-property.ts b/story/world-characters/properties/event-count.number-property.ts
+index 208c8454a177927a5c1d4fbc1764468a324e3359..573513e3788e73114817c5d1df64b0c0bb516cb3 100644
+--- a/story/world-characters/properties/event-count.number-property.ts
++++ b/story/world-characters/properties/event-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EventCount = number
+ 
+diff --git a/story/world-characters/properties/first-chapter.number-property.ts b/story/world-characters/properties/first-chapter.number-property.ts
+index ffd2285eeb5e4c5d8080290ea7fd4be7721d34a0..d4c131cb2da0d2867f13abbadc6c6a0a41ebefe9 100644
+--- a/story/world-characters/properties/first-chapter.number-property.ts
++++ b/story/world-characters/properties/first-chapter.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FirstChapter = number
+ 
+diff --git a/story/world-characters/properties/last-chapter.number-property.ts b/story/world-characters/properties/last-chapter.number-property.ts
+index af3721451672cd75ff41095846d6e91a7c8aa6ba..97a11c303261bc8370a4d50a3e4f15878e5d3513 100644
+--- a/story/world-characters/properties/last-chapter.number-property.ts
++++ b/story/world-characters/properties/last-chapter.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type LastChapter = number
+ 
+diff --git a/story/world-characters/properties/max-level.number-property.ts b/story/world-characters/properties/max-level.number-property.ts
+index 644495805d07d215856ea6e96f7181f1cfb7b0a9..3dc11a60f8ea43e158f0b3200b801e70e6e053ca 100644
+--- a/story/world-characters/properties/max-level.number-property.ts
++++ b/story/world-characters/properties/max-level.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type MaxLevel = number
+ 
+diff --git a/story/world-characters/world-character.page-type.ts b/story/world-characters/world-character.page-type.ts
+index 7311ef2f871a67e1f7c4da9bb1890fb7eae2f203..978d5eebe7d312f3a7914b41f695bfcd0c689f06 100644
+--- a/story/world-characters/world-character.page-type.ts
++++ b/story/world-characters/world-character.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+ import type { EventCount } from "./properties/event-count.number-property.ts"
+diff --git a/story/world-mechanics/properties/aliases.text-property.ts b/story/world-mechanics/properties/aliases.text-property.ts
+index df0a855b14c3f01721cdfa0ec28096d297991562..eecafefb84fd83c7b5a3fdf51c72719d1ead5a62 100644
+--- a/story/world-mechanics/properties/aliases.text-property.ts
++++ b/story/world-mechanics/properties/aliases.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Aliases = List<string>
+ 
+diff --git a/story/world-mechanics/properties/chapter-slug.text-property.ts b/story/world-mechanics/properties/chapter-slug.text-property.ts
+index 8ef48b80a5f53e89ce2587cfdf18be79ada94ce4..a3bd9dd896a1d093bd79b46748beab3ef47b8ce4 100644
+--- a/story/world-mechanics/properties/chapter-slug.text-property.ts
++++ b/story/world-mechanics/properties/chapter-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ChapterSlug = string
+ 
+diff --git a/story/world-mechanics/properties/claimed-by-slug.text-property.ts b/story/world-mechanics/properties/claimed-by-slug.text-property.ts
+index c4f6451303269a8dfa04f89e227321848da9a66b..ef1d1e082ec0774d084fc1eeda5f33f4cf2f52d6 100644
+--- a/story/world-mechanics/properties/claimed-by-slug.text-property.ts
++++ b/story/world-mechanics/properties/claimed-by-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ClaimedBySlug = string
+ 
+diff --git a/story/world-mechanics/properties/claimed.boolean-property.ts b/story/world-mechanics/properties/claimed.boolean-property.ts
+index 72540b5db47509fc0d0cf816b411437412761413..043752a7cf79c3ca1c56aac7ad6451b79a686aab 100644
+--- a/story/world-mechanics/properties/claimed.boolean-property.ts
++++ b/story/world-mechanics/properties/claimed.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Claimed = boolean
+ 
+diff --git a/story/world-mechanics/properties/effect-claimed.boolean-property.ts b/story/world-mechanics/properties/effect-claimed.boolean-property.ts
+index 326d68b887d4095a7fdb7ace2ce58f7be16a505b..528eefd1f63eb35a75ee56a14db94881147d39cb 100644
+--- a/story/world-mechanics/properties/effect-claimed.boolean-property.ts
++++ b/story/world-mechanics/properties/effect-claimed.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type EffectClaimed = boolean
+ 
+diff --git a/story/world-mechanics/properties/effect-quote.text-property.ts b/story/world-mechanics/properties/effect-quote.text-property.ts
+index 886c18b91909e6db95189cc8658a575a47bcd7d1..b76e37428a2a5facfa302aead5dc72aad7552e66 100644
+--- a/story/world-mechanics/properties/effect-quote.text-property.ts
++++ b/story/world-mechanics/properties/effect-quote.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EffectQuote = string
+ 
+diff --git a/story/world-mechanics/properties/evolves-from-slugs.text-property.ts b/story/world-mechanics/properties/evolves-from-slugs.text-property.ts
+index f0759a62f38d071572de6bb9018de27b601f0537..fdce9269b7301179f02b831565e34628a8dc863d 100644
+--- a/story/world-mechanics/properties/evolves-from-slugs.text-property.ts
++++ b/story/world-mechanics/properties/evolves-from-slugs.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EvolvesFromSlugs = List<string>
+ 
+diff --git a/story/world-mechanics/properties/evolves-to-slugs.text-property.ts b/story/world-mechanics/properties/evolves-to-slugs.text-property.ts
+index ad3f9f9ca71bda653424c09745de7208a9816318..3f73963c0a638ec11c7d84e3404c2f7ebb7de031 100644
+--- a/story/world-mechanics/properties/evolves-to-slugs.text-property.ts
++++ b/story/world-mechanics/properties/evolves-to-slugs.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EvolvesToSlugs = List<string>
+ 
+diff --git a/story/world-mechanics/properties/from-slug.text-property.ts b/story/world-mechanics/properties/from-slug.text-property.ts
+index 99dd67ec38ada39cb97bd00eb7d7f8a2e7c1006e..74a89e342016978a4419edae30f13574de3efb53 100644
+--- a/story/world-mechanics/properties/from-slug.text-property.ts
++++ b/story/world-mechanics/properties/from-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type FromSlug = string
+ 
+diff --git a/story/world-mechanics/properties/holder-quote.text-property.ts b/story/world-mechanics/properties/holder-quote.text-property.ts
+index 6d1ee96096d868d5bfc9659d4a76313964d63dcd..bbf8d0dbf26bef1dccb29253166eeff1d4badc71 100644
+--- a/story/world-mechanics/properties/holder-quote.text-property.ts
++++ b/story/world-mechanics/properties/holder-quote.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type HolderQuote = string
+ 
+diff --git a/story/world-mechanics/properties/holder-slug.text-property.ts b/story/world-mechanics/properties/holder-slug.text-property.ts
+index 0a6184dc6021c2f4617b3504aa0953e7869c381d..ca6b51335cf9d6a0f1cbee5fbdbab65c458fbc73 100644
+--- a/story/world-mechanics/properties/holder-slug.text-property.ts
++++ b/story/world-mechanics/properties/holder-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type HolderSlug = string
+ 
+diff --git a/story/world-mechanics/properties/paragraph.number-property.ts b/story/world-mechanics/properties/paragraph.number-property.ts
+index dc2c8f59717988302e9bf49aed66f8d6809b3e0f..bb0f4072d0b73ce4ab21df96265ca8fa8dd421c1 100644
+--- a/story/world-mechanics/properties/paragraph.number-property.ts
++++ b/story/world-mechanics/properties/paragraph.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Paragraph = number
+ 
+diff --git a/story/world-mechanics/properties/reference-event.text-property.ts b/story/world-mechanics/properties/reference-event.text-property.ts
+index d318b5373a5fe54829fd1111e9342fc8719329ff..b3826ebb4cea44a7966dc2dd2e565017f6367a5f 100644
+--- a/story/world-mechanics/properties/reference-event.text-property.ts
++++ b/story/world-mechanics/properties/reference-event.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ReferenceEvent = string
+ 
+diff --git a/story/world-mechanics/properties/reference-kind.text-property.ts b/story/world-mechanics/properties/reference-kind.text-property.ts
+index 5887f0def6645dd85f96ad20291a9134d9c68d06..0889477dcc5887b3a1b1227fa6dbe67c83ba5700 100644
+--- a/story/world-mechanics/properties/reference-kind.text-property.ts
++++ b/story/world-mechanics/properties/reference-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ReferenceKind = string
+ 
+diff --git a/story/world-mechanics/properties/reference-level.number-property.ts b/story/world-mechanics/properties/reference-level.number-property.ts
+index 5bd403a04ea4c8674556d70de227ba477fdfdad9..4bc9a3cae0df3f6b6dbbfa301031357ff325c33f 100644
+--- a/story/world-mechanics/properties/reference-level.number-property.ts
++++ b/story/world-mechanics/properties/reference-level.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ReferenceLevel = number
+ 
+diff --git a/story/world-mechanics/properties/references.page-property-entry.ts b/story/world-mechanics/properties/references.page-property-entry.ts
+index c13419f660019870978541174f428f6947f9c796..4cb7a18db809743701c39f739d31cff65cfed326 100644
+--- a/story/world-mechanics/properties/references.page-property-entry.ts
++++ b/story/world-mechanics/properties/references.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type References = "jsonl"
+ 
+diff --git a/story/world-mechanics/properties/to-slug.text-property.ts b/story/world-mechanics/properties/to-slug.text-property.ts
+index c5c7fce2327d38d31d74c6cee8824646b6b4f748..c1dd85a20661e25288e0422ff5c2752f7b020c82 100644
+--- a/story/world-mechanics/properties/to-slug.text-property.ts
++++ b/story/world-mechanics/properties/to-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ToSlug = string
+ 
+diff --git a/story/world-mechanics/properties/wording.text-property.ts b/story/world-mechanics/properties/wording.text-property.ts
+index 6a3d119afaa9c175f9af68ad68c42532f2e2f984..140489265385027a72ad22e7310fc8e93c02fe11 100644
+--- a/story/world-mechanics/properties/wording.text-property.ts
++++ b/story/world-mechanics/properties/wording.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Wording = string
+ 
+diff --git a/story/world-mechanics/world-aspects/world-aspect.page-type.ts b/story/world-mechanics/world-aspects/world-aspect.page-type.ts
+index 551921e10b6bbb02aba066cc2c144e9b82a71c5d..33d8e08f094c513291d461c0de34122ad3361a9a 100644
+--- a/story/world-mechanics/world-aspects/world-aspect.page-type.ts
++++ b/story/world-mechanics/world-aspects/world-aspect.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldAspect = WorldMechanic
+diff --git a/story/world-mechanics/world-boons/world-boon.page-type.ts b/story/world-mechanics/world-boons/world-boon.page-type.ts
+index af72de110a9c1f4c8d542631228a27075aef2c13..65a21c85b24d953b5ccf74a6835060445cac6d66 100644
+--- a/story/world-mechanics/world-boons/world-boon.page-type.ts
++++ b/story/world-mechanics/world-boons/world-boon.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldBoon = WorldMechanic
+diff --git a/story/world-mechanics/world-carried-memories/world-carried-memory.page-type.ts b/story/world-mechanics/world-carried-memories/world-carried-memory.page-type.ts
+index 70e5b7f5a62c3999d9a3fe40e46adc7799f63d90..3b448314a7869d22c8c229013ba0a691ea61b8d6 100644
+--- a/story/world-mechanics/world-carried-memories/world-carried-memory.page-type.ts
++++ b/story/world-mechanics/world-carried-memories/world-carried-memory.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldCarriedMemory = WorldMechanic
+diff --git a/story/world-mechanics/world-classes/world-class.page-type.ts b/story/world-mechanics/world-classes/world-class.page-type.ts
+index 8019bfcf3f491d9abe74c788c4996c495678f12e..515808a996c1eb0ba2aca64cff4b8c27558fe160 100644
+--- a/story/world-mechanics/world-classes/world-class.page-type.ts
++++ b/story/world-mechanics/world-classes/world-class.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldClass = WorldMechanic
+diff --git a/story/world-mechanics/world-conditions/world-condition.page-type.ts b/story/world-mechanics/world-conditions/world-condition.page-type.ts
+index bbedef9d58c95da5022711cae709f9b31ea1a9d8..545cd921b6f535184230f2dcc0fd8d313354853c 100644
+--- a/story/world-mechanics/world-conditions/world-condition.page-type.ts
++++ b/story/world-mechanics/world-conditions/world-condition.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldCondition = WorldMechanic
+diff --git a/story/world-mechanics/world-curses/world-curse.page-type.ts b/story/world-mechanics/world-curses/world-curse.page-type.ts
+index 04f167ba659ebaafc74052d314196f99ca4189b0..d2f46701c8027f2ab7f3d36983e4a41a3a4faf7e 100644
+--- a/story/world-mechanics/world-curses/world-curse.page-type.ts
++++ b/story/world-mechanics/world-curses/world-curse.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldCurse = WorldMechanic
+diff --git a/story/world-mechanics/world-enchantments/world-enchantment.page-type.ts b/story/world-mechanics/world-enchantments/world-enchantment.page-type.ts
+index 4629ef7e3c5c1868bf8ec627898c83e8bf010e73..498bff371730c9893da526092cf42a07b6c029ea 100644
+--- a/story/world-mechanics/world-enchantments/world-enchantment.page-type.ts
++++ b/story/world-mechanics/world-enchantments/world-enchantment.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldEnchantment = WorldMechanic
+diff --git a/story/world-mechanics/world-items/world-item.page-type.ts b/story/world-mechanics/world-items/world-item.page-type.ts
+index acf7077c19079a6ddd61673e0a77531808bdfa94..cb09ab7720598408f2b627322075e40679b72506 100644
+--- a/story/world-mechanics/world-items/world-item.page-type.ts
++++ b/story/world-mechanics/world-items/world-item.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldItem = WorldMechanic
+diff --git a/story/world-mechanics/world-legacies/world-legacy.page-type.ts b/story/world-mechanics/world-legacies/world-legacy.page-type.ts
+index b60b3182472ccd474916953af265a6ee9f5ffa05..cd49b52d2654b82adc0472a09d716858251023aa 100644
+--- a/story/world-mechanics/world-legacies/world-legacy.page-type.ts
++++ b/story/world-mechanics/world-legacies/world-legacy.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldLegacy = WorldMechanic
+diff --git a/story/world-mechanics/world-mechanic.page-type.ts b/story/world-mechanics/world-mechanic.page-type.ts
+index 9e9d642779e596d992064dacb5a5a168bdefbeff..197bdf1a8b1c3e9bb68165cb9d1800ab4b0ba01d 100644
+--- a/story/world-mechanics/world-mechanic.page-type.ts
++++ b/story/world-mechanics/world-mechanic.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+ import type { Aliases } from "./properties/aliases.text-property.ts"
+diff --git a/story/world-mechanics/world-miracles/world-miracle.page-type.ts b/story/world-mechanics/world-miracles/world-miracle.page-type.ts
+index 15b6db02d0ee330e2b483d6969945fb755a48f37..d248ccb1867c744023c98838abfeba452a5ffe2b 100644
+--- a/story/world-mechanics/world-miracles/world-miracle.page-type.ts
++++ b/story/world-mechanics/world-miracles/world-miracle.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldMiracle = WorldMechanic
+diff --git a/story/world-mechanics/world-quests/world-quest.page-type.ts b/story/world-mechanics/world-quests/world-quest.page-type.ts
+index 340e97e45887296f5eceee0ebc629871af1e2664..4225a4317109fd570a7ebe25aad003c3238c8458 100644
+--- a/story/world-mechanics/world-quests/world-quest.page-type.ts
++++ b/story/world-mechanics/world-quests/world-quest.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldQuest = WorldMechanic
+diff --git a/story/world-mechanics/world-recipes/world-recipe.page-type.ts b/story/world-mechanics/world-recipes/world-recipe.page-type.ts
+index 34fa62a5473e5b5cae058af8740c10292319755d..3c6b4d6c33ab28a5831eebfa4633ce46e9f65da7 100644
+--- a/story/world-mechanics/world-recipes/world-recipe.page-type.ts
++++ b/story/world-mechanics/world-recipes/world-recipe.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldRecipe = WorldMechanic
+diff --git a/story/world-mechanics/world-religions/world-religion.page-type.ts b/story/world-mechanics/world-religions/world-religion.page-type.ts
+index 740e265d21f2ed56d2f73757d86081dc3c4fac10..089479e0c23505df63297bce48302493cd012340 100644
+--- a/story/world-mechanics/world-religions/world-religion.page-type.ts
++++ b/story/world-mechanics/world-religions/world-religion.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldReligion = WorldMechanic
+diff --git a/story/world-mechanics/world-reputations/world-reputation.page-type.ts b/story/world-mechanics/world-reputations/world-reputation.page-type.ts
+index a1a57e93302603fad39dc2fd4826680950eb5164..60831afb23ae687138081672fd61d70e9b876132 100644
+--- a/story/world-mechanics/world-reputations/world-reputation.page-type.ts
++++ b/story/world-mechanics/world-reputations/world-reputation.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldReputation = WorldMechanic
+diff --git a/story/world-mechanics/world-skills/world-skill.page-type.ts b/story/world-mechanics/world-skills/world-skill.page-type.ts
+index 38cd2d35a704976d9843c3555301ec98052e6885..ff1a36c473ac5b377f2b246e5964decb568de1a3 100644
+--- a/story/world-mechanics/world-skills/world-skill.page-type.ts
++++ b/story/world-mechanics/world-skills/world-skill.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldSkill = WorldMechanic
+diff --git a/story/world-mechanics/world-songs/world-song.page-type.ts b/story/world-mechanics/world-songs/world-song.page-type.ts
+index 919234ee8d1300591fad82b13367268f5633df9f..f58e008b0c03ce82d1593463f043f263ad021246 100644
+--- a/story/world-mechanics/world-songs/world-song.page-type.ts
++++ b/story/world-mechanics/world-songs/world-song.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldSong = WorldMechanic
+diff --git a/story/world-mechanics/world-species/world-species.page-type.ts b/story/world-mechanics/world-species/world-species.page-type.ts
+index 1b627ae107d6c5e92957567f3e45a9c0248e0fa7..1655f037dc11ec106d3d021111bda4c3e76a1fee 100644
+--- a/story/world-mechanics/world-species/world-species.page-type.ts
++++ b/story/world-mechanics/world-species/world-species.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldSpecies = WorldMechanic
+diff --git a/story/world-mechanics/world-spells/world-spell.page-type.ts b/story/world-mechanics/world-spells/world-spell.page-type.ts
+index 457452b25ea0ef929f5bcad9c97ff1d00db2237d..bdb39a23f5e66db6b25a6e67b71e59e1ad85b235 100644
+--- a/story/world-mechanics/world-spells/world-spell.page-type.ts
++++ b/story/world-mechanics/world-spells/world-spell.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldSpell = WorldMechanic
+diff --git a/story/world-mechanics/world-titles/world-title.page-type.ts b/story/world-mechanics/world-titles/world-title.page-type.ts
+index bb66c29e1aab092b060ad4b0ee860e3b0d42fb05..6787b72653ec17e1fec272c5ae54b7904bc43bc7 100644
+--- a/story/world-mechanics/world-titles/world-title.page-type.ts
++++ b/story/world-mechanics/world-titles/world-title.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorldMechanic } from "../world-mechanic.page-type.ts"
+ 
+ export type WorldTitle = WorldMechanic
+diff --git a/story/worlds/properties/character-readings.page-property-entry.ts b/story/worlds/properties/character-readings.page-property-entry.ts
+index 8f1d1c6f0c7252d2324611d08bff88049f2b30a6..ead8b5037f9c7afc7557b574b9817b7e74ee055a 100644
+--- a/story/worlds/properties/character-readings.page-property-entry.ts
++++ b/story/worlds/properties/character-readings.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type CharacterReadings = "jsonl"
+ 
+diff --git a/story/worlds/properties/character-slug.text-property.ts b/story/worlds/properties/character-slug.text-property.ts
+index d6bec8def787730d73f65350dee9e9acf7d24836..bc98c9f841ad41d95269531b19caf4bde303cb63 100644
+--- a/story/worlds/properties/character-slug.text-property.ts
++++ b/story/worlds/properties/character-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CharacterSlug = string
+ 
+diff --git a/story/worlds/properties/mechanic-readings.page-property-entry.ts b/story/worlds/properties/mechanic-readings.page-property-entry.ts
+index f1dc8d2ffd30952e3b24295dbd386cafbf9d23b4..7166b2123ce4520c8355b6a89a61cc89b5c6e79b 100644
+--- a/story/worlds/properties/mechanic-readings.page-property-entry.ts
++++ b/story/worlds/properties/mechanic-readings.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type MechanicReadings = "jsonl"
+ 
+diff --git a/story/worlds/properties/mechanic-slug.text-property.ts b/story/worlds/properties/mechanic-slug.text-property.ts
+index 96d64ee10333324bd882dbb318e09509b5c5ce02..094418811c217f90c0686d940ebfd0ab0ec75a60 100644
+--- a/story/worlds/properties/mechanic-slug.text-property.ts
++++ b/story/worlds/properties/mechanic-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MechanicSlug = string
+ 
+diff --git a/story/worlds/properties/reading-kind.text-property.ts b/story/worlds/properties/reading-kind.text-property.ts
+index 82a7b6cbbb993006b34df5e128b5dfee2b392830..4101c2a000ee2203cbbf085003568a4fa3ecc583 100644
+--- a/story/worlds/properties/reading-kind.text-property.ts
++++ b/story/worlds/properties/reading-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ReadingKind =
+   | "aspect"
+diff --git a/story/worlds/properties/reading-name.text-property.ts b/story/worlds/properties/reading-name.text-property.ts
+index d6b6c29e93b8cabecf87d480708c89d6c5cb600c..17f77a401aa6d5371b579066713eb9bb4519139d 100644
+--- a/story/worlds/properties/reading-name.text-property.ts
++++ b/story/worlds/properties/reading-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ReadingName = string
+ 
+diff --git a/story/worlds/properties/reading-slug.text-property.ts b/story/worlds/properties/reading-slug.text-property.ts
+index 98ac0bcb260bd9667ad5a25afa6408f79d9c3e65..619c69163f517d7b39b8a88cf979bfc1ab17b486 100644
+--- a/story/worlds/properties/reading-slug.text-property.ts
++++ b/story/worlds/properties/reading-slug.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ReadingSlug = string
+ 
+diff --git a/story/worlds/world.page-type.ts b/story/worlds/world.page-type.ts
+index ea98c371cf3abea0c21be36d62377d658cd9d22b..78399a69bc2e85b05e1e730a185edec2710a4de7 100644
+--- a/story/worlds/world.page-type.ts
++++ b/story/worlds/world.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Description } from "../../pages/properties/description.text-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { CharacterReadings } from "./properties/character-readings.page-property-entry.ts"
+diff --git a/temper/temper-addon-build/addon-load-order/addon-load-order.module.code.ts b/temper/temper-addon-build/addon-load-order/addon-load-order.module.code.ts
+index 1e1f67daeb03bcef9decdb2a7d50ae561e37aab8..4c877661ae944933d845693918b1dbccd053a2da 100644
+--- a/temper/temper-addon-build/addon-load-order/addon-load-order.module.code.ts
++++ b/temper/temper-addon-build/addon-load-order/addon-load-order.module.code.ts
+@@ -1,7 +1,7 @@
+ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { valuesOfType } from "@akasha/indexes"
+-import { numberAt, textAt } from "@akasha/pages-system/page-value"
++import { numberAt, textAt } from "@akasha/pages/page-value"
+ import type { AddonManifest } from "@akasha/temper-addons-resolve/addon-json"
+ import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
+ import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
+diff --git a/temper/temper-addon-build/lua-build-command/lua-build-command.module.code.ts b/temper/temper-addon-build/lua-build-command/lua-build-command.module.code.ts
+index 9fcfaaa6099ab9e465dcdf90a3aecb47254c3793..9ec4df15eb1a80bab59d781da57025ae2c57bc22 100644
+--- a/temper/temper-addon-build/lua-build-command/lua-build-command.module.code.ts
++++ b/temper/temper-addon-build/lua-build-command/lua-build-command.module.code.ts
+@@ -1,5 +1,5 @@
+ import { join } from "node:path"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
++import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+ 
+ const COMPILER_PACKAGE = "language-design/lua-compiler"
+ 
+diff --git a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts
+index 84956484607be96ffbae285fdeff16f83f298b2d..b4b93a95764ea32ea179051a01fcf2452e1a0d73 100644
+--- a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts
++++ b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts
+@@ -1,6 +1,6 @@
+ import { existsSync, mkdirSync } from "node:fs"
+ import { dirname, resolve } from "node:path"
+-import { codeRoot } from "@akasha/pages-system/code-root"
++import { codeRoot } from "@akasha/pages/code-root"
+ 
+ function temperFile(rel: string): string {
+   return resolve(codeRoot(), "temper", rel)
+diff --git a/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.code.ts b/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.code.ts
+index 41a8d2086aac98f40c8addd27ab8b5bf30d8ce32..8821611d9b2a640cdf3983352208b416c31afa57 100644
+--- a/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.code.ts
++++ b/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.code.ts
+@@ -1,7 +1,7 @@
+ import { existsSync, readFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { partAt } from "@akasha/pages-system/page-file-parts"
++import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
++import { partAt } from "@akasha/pages/page-file-parts"
+ import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
+ import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
+ 
+diff --git a/temper/temper-addon-data/mined-restore-potions/mined-restore-potions.module.code.ts b/temper/temper-addon-data/mined-restore-potions/mined-restore-potions.module.code.ts
+index 66b48975806b8d719dd6ec3b5e65356eb35320ad..2e4709e547df2f418d32fe15db54693895c29a7f 100644
+--- a/temper/temper-addon-data/mined-restore-potions/mined-restore-potions.module.code.ts
++++ b/temper/temper-addon-data/mined-restore-potions/mined-restore-potions.module.code.ts
+@@ -1,7 +1,7 @@
+ import { existsSync, readFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { partAt } from "@akasha/pages-system/page-file-parts"
++import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
++import { partAt } from "@akasha/pages/page-file-parts"
+ import type { MinedRestorePotion } from "../potion-restore-metrics/potion-restore-metrics.module.code.ts"
+ 
+ const MINE_PAGES: readonly string[] = [
+diff --git a/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.code.ts b/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.code.ts
+index 093ee81187328ebcaa389366b35089cf39d942cd..3008b41b2a136758bafa1a20f4ede988b1ef3b1f 100644
+--- a/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.code.ts
++++ b/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.code.ts
+@@ -1,6 +1,6 @@
+ import { existsSync, readFileSync } from "node:fs"
+ import { resolve } from "node:path"
+-import { codeRoot } from "@akasha/pages-system/code-root"
++import { codeRoot } from "@akasha/pages/code-root"
+ import {
+   COMPANION_ARMOR_WEIGHT_IDS,
+   companionTraitIds,
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts
+index b09b770a0cb27876ef0eb6c342875f9f95c31a34..4de0bebd769c63e2127f4b63ce5f9ba7bb64313e 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AchievementName = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts
+index 9ea0d5c05282750a1e8f50f7cf356440ca0af025..bbbff34433640d3f0223dfefb2551bc01380539c 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ArmorWeight = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/available.boolean-property.ts b/temper/temper-catalog/temper-catalog-things/properties/available.boolean-property.ts
+index 357a80c2550ab68d58f4281630afe0c3126b70e1..9ba919c0d75073da02fb8321993183e999f0542f 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/available.boolean-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/available.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Available = boolean
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts
+index 2f5bce276614578b03dea5c378265b6b3ee49b2e..469056899044aed3fe467c89cc3d876427e42401 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BuffId = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts
+index 6cb0dd51ad9235ec86047a2775699998d52650dc..508e2e049c1bd039c117d08660103e779980cbcc 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DebuffId = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts
+index f45d8f4694fcbe9eded3087811f4dd6379c81082..feac0a45952c21c27b1c3d2dc796df032ff3d4b2 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EffectSeconds = number
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts
+index ee7ac8d7eb3b1d77df86bcf7b142ed2d1793905c..757c17733f304a4a76ce3ba4a4025ddb6399d4e3 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EffectType = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect-value.number-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect-value.number-property.ts
+index 679dc5fcb7d6fa31711069d47168fb792fc55607..21441b12cefbb6b5f6bd0d87e22d5c4fa94a0f26 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect-value.number-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EffectValue = number
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts
+index 80fee21a00062580162242fa524a88e7ede58fdd..de4b128095946cd0507b8f84957b121f17cdeb3b 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EffectWeaponTypes = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts
+index 4a85f901dac2450b3b5f55ff3ae1fa2c94cea041..6bc83a782d6196f1e462643bfcfa94cc6475a265 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Effect = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts b/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts
+index 13cd4b10f40b280c5fe7cedb105b0473d20ac383..b082660237ad51005354a1653216e1914c765993 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Effects = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
+index ac85e2612063cabaa5bb8c111e4b51a4ee915c8e..bd2af8ccf0d188fe044209724a7fffe9c606c4d1 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EsoTraitConstantName = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/is-two-handed.boolean-property.ts b/temper/temper-catalog/temper-catalog-things/properties/is-two-handed.boolean-property.ts
+index a1a28c7f10fc894a23efabae9bbf225ae2f76313..89b85526bd7f2786a79192fdc7162c74a038b523 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/is-two-handed.boolean-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/is-two-handed.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsTwoHanded = boolean
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/item-id.number-property.ts b/temper/temper-catalog/temper-catalog-things/properties/item-id.number-property.ts
+index eed4354f054232819b32d09ab9b70821ffdab2a8..87214b256ab71f0b027600a44906c25fa341deb9 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/item-id.number-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/item-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ItemId = number
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts
+index 963bdcbe20e6191ed732df6437fd61a4e16139a3..6b4ea878e9f935b48e7b2263dc1990e4ec0ae1d9 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Material = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts
+index b6887d069246ace0e1e2a2532f2711b8eede47a3..c076a033c6a14e40935d4920e993d6ba32c5ba97 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MetricId = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/per-weapon.boolean-property.ts b/temper/temper-catalog/temper-catalog-things/properties/per-weapon.boolean-property.ts
+index b33904227fc359806669767344fe13486d8350f0..fe9721f75594bd9157b8889aa0d6b9155d98af7e 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/per-weapon.boolean-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/per-weapon.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type PerWeapon = boolean
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts
+index 1cc6afad307ba25f5f87cc5186d868805e82625a..fe44214ca81fb6ddc3744d6be4a663bbd6bddaa5 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type PoiName = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/quality-value.number-property.ts b/temper/temper-catalog/temper-catalog-things/properties/quality-value.number-property.ts
+index f1de4e6a3e2c291f54b37438b8b332ea2974f26b..424cd753208102aa7bfb6e7156c6aed61460d4a9 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/quality-value.number-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/quality-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type QualityValue = number
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/quality-values.page-property-entry.ts b/temper/temper-catalog/temper-catalog-things/properties/quality-values.page-property-entry.ts
+index c3b2dd718800283b379c99dca460caf3146169da..5505e0c1561c5d7bd661f0a6e17a4d2de63203bd 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/quality-values.page-property-entry.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/quality-values.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type QualityValues = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts
+index e815a7c8830e2952855838f5e452b2eaa29f4d4f..c581482a98b78c47d2addc9fd675fd3b491e15c9 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Quality = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts
+index 0b63550c4de91b4623aed89132344de1cf66f4b7..ecaa959cf251c7d2bf1b4c543768d206e755bbb0 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SkillLineId = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts
+index 2b5931b1e81655c5053926d62fe5dd7629f2c3f3..1a0779bdcef438c10c95dc65b3c1e2e250b45968 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SkillType = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts
+index 9eae386b40baa12b11cb8f02f347a404b558b0b3..b7b676ea5870bf4bce7e965cd95ff44da6aee2ca 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SlottedBehavior = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts
+index 3e799ef790e78b30731eddfa96390ab225e13603..0195697a043a0536f213065194075f0e52c47b03 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SubcategoryId = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/value-per-ability.number-property.ts b/temper/temper-catalog/temper-catalog-things/properties/value-per-ability.number-property.ts
+index 93d531f3062e6edb31b549984f3677fcc4614269..a3b9534037283974e373aa392300e1702de7a759 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/value-per-ability.number-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/value-per-ability.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ValuePerAbility = number
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/value-per-piece.number-property.ts b/temper/temper-catalog/temper-catalog-things/properties/value-per-piece.number-property.ts
+index 5d6220ffe346dc00675b3c665351c04b0c7cddb1..006a34600bb99ae3c1afbd248fe319e7864bce7a 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/value-per-piece.number-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/value-per-piece.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ValuePerPiece = number
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts
+index e0a09f381c85b499845b009dcfb9fbc5049204a2..ef5224a1616fa27ececa29333d8f093ea21a5618 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValueType = string
+ 
+diff --git a/temper/temper-catalog/temper-catalog-things/temper-catalog-thing.page-type.ts b/temper/temper-catalog/temper-catalog-things/temper-catalog-thing.page-type.ts
+index d550573ecbfdf1c343eda312035fc4d20fb5590d..08c0e0803337fb60354b9170779ba2d5d9e1bfd8 100644
+--- a/temper/temper-catalog/temper-catalog-things/temper-catalog-thing.page-type.ts
++++ b/temper/temper-catalog/temper-catalog-things/temper-catalog-thing.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+ import type { Available } from "./properties/available.boolean-property.ts"
+ import type { Effect } from "./properties/effect.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-activation-buffs/temper-companion-activation-buff.page-type.ts b/temper/temper-catalog/temper-companions/companion-activation-buffs/temper-companion-activation-buff.page-type.ts
+index fde85055d6fa29ce8523a3d269de9b0c3dffa7b3..2f2132c6ce8cea37e6eba53857cd484bb2ae8f40 100644
+--- a/temper/temper-catalog/temper-companions/companion-activation-buffs/temper-companion-activation-buff.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-activation-buffs/temper-companion-activation-buff.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionActivationBuff = TemperCompanionThing
+diff --git a/temper/temper-catalog/temper-companions/companion-armor-slots/temper-companion-armor-slot.page-type.ts b/temper/temper-catalog/temper-companions/companion-armor-slots/temper-companion-armor-slot.page-type.ts
+index debe118f2b1f2f88fb3f9a9fccba20fa64b9914c..4aab635b15afa7587f5623655d114054c5eba523 100644
+--- a/temper/temper-catalog/temper-companions/companion-armor-slots/temper-companion-armor-slot.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-armor-slots/temper-companion-armor-slot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionArmorSlot = TemperCompanionThing
+diff --git a/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts b/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts
+index ae7fd6e576c66ded89406215597ac234f6448a83..b595a192fbd063519a67c1c8ea392e9f9a4eb2d8 100644
+--- a/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Abbreviation } from "../temper-companion-things/properties/abbreviation.text-property.ts"
+ import type { ValidArmorWeights } from "../temper-companion-things/properties/valid-armor-weights.text-property.ts"
+ import type { ValidTraitIds } from "../temper-companion-things/properties/valid-trait-ids.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-equipment-qualities/temper-companion-equipment-quality.page-type.ts b/temper/temper-catalog/temper-companions/companion-equipment-qualities/temper-companion-equipment-quality.page-type.ts
+index b3a1abb528876e4a24dda26a3d5c951cacfee7e3..8ac94dc789a4a2d6e3907802496dbdc1b9c81b52 100644
+--- a/temper/temper-catalog/temper-companions/companion-equipment-qualities/temper-companion-equipment-quality.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-equipment-qualities/temper-companion-equipment-quality.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionEquipmentQuality = TemperCompanionThing
