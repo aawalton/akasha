@@ -33,7 +33,7 @@ export const attribute = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What earns one point never changes.",
+      statement: "An attribute's point unit never changes.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const attribute = {
     },
     {
       invariantKind: "departure",
-      statement: "Recalibrating the daily target leaves what earns a point unchanged.",
+      statement: "Recalibrating the daily target leaves an attribute's point unit unchanged.",
     },
     {
       invariantKind: "departure",
