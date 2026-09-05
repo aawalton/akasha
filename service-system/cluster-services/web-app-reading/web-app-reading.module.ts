@@ -48,7 +48,8 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A page short of what a deploy rests on is refused by naming what the page wants.",
+      statement:
+        "A page short of the values a deploy rests on is refused by naming the values the page wants.",
     },
     {
       invariantKind: "absence",
