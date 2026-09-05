@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-name-claim/seat-name-claim.module.ts b/seat-system/seat-name-claim/seat-name-claim.module.ts
+index 7b621d5505c560219a31d73b2eb4abf3f5100bec..0c35a833adaccb7d0ac067697d54f1514afaf0bf 100644
+--- a/seat-system/seat-name-claim/seat-name-claim.module.ts
++++ b/seat-system/seat-name-claim/seat-name-claim.module.ts
+@@ -36,7 +36,7 @@ export const seatNameClaim = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes what a seat states.",
++      statement: "Nothing here writes the values a seat states.",
+     },
+   ],
+ } as const satisfies Module
