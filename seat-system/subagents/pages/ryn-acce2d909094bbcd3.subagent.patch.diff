@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/email-watch/inbox-pass/inbox-pass.module.ts b/email-watch/inbox-pass/inbox-pass.module.ts
+index 870b1d3e73c46e021a9fdaf1b7805dd65617c341..70628969f915a51e3fd510481ada8384e8ac6c9b 100644
+--- a/email-watch/inbox-pass/inbox-pass.module.ts
++++ b/email-watch/inbox-pass/inbox-pass.module.ts
+@@ -35,7 +35,7 @@ export const inboxPass = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A tally counts what was examined, what was acted on, what waits on an agent, and what no rule claimed.",
++        "A tally counts the messages examined, acted on, waiting on an agent, and claimed by no rule.",
+     },
+     {
+       invariantKind: "absence",
