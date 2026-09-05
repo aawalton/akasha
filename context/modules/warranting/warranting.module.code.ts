@@ -26,12 +26,6 @@ const READ_CALL = "akasha read --file-path"
 
 const ANSWER_CEILING = 28000
 
-const SHORTER =
-  "A body that moved since your record holds it comes back as what changed, where that is shorter."
-
-const A_RUN =
-  "A body longer than one answer holds comes back a run of lines at a time, and answers a write once the whole body has reached you."
-
 const DECIDING =
   "NAMING DECISION — reading the term's page clears this, and it may mean renaming what your change writes."
 
@@ -170,8 +164,6 @@ export function movedOf(warrant: Warrant, held: string): string {
     "It is read again here:",
     "",
     `  ${READ_CALL} ${warrant.path}`,
-    "",
-    SHORTER,
   ].join("\n")
 }
 
@@ -183,43 +175,30 @@ export function partlyOf(warrant: Warrant, reach: number): string {
     "The run after it is read here:",
     "",
     `  ${READ_CALL} ${warrant.path}`,
-    "",
-    A_RUN,
   ].join("\n")
 }
 
-function tabooSaid(owing: Owing): {
-  readonly said: readonly string[]
-  readonly note: string | null
-} {
+function tabooSaid(owing: Owing): readonly string[] {
   const warrant = owing.warrant
   const reach = reachOf(owing.reach)
   if (reach !== null) {
-    return {
-      said: [`${warrant.path} states the term, and part of it has reached you.`, farSaid(reach)],
-      note: A_RUN,
-    }
+    return [`${warrant.path} states the term, and part of it has reached you.`, farSaid(reach)]
   }
-  if (owing.held === null) return { said: [`${warrant.path} states the term.`], note: null }
-  return {
-    said: [
-      `${warrant.path} states the term, and it has changed since you read it.`,
-      movedSaid(warrant, owing.held),
-    ],
-    note: SHORTER,
-  }
+  if (owing.held === null) return [`${warrant.path} states the term.`]
+  return [
+    `${warrant.path} states the term, and it has changed since you read it.`,
+    movedSaid(warrant, owing.held),
+  ]
 }
 
 export function tabooOf(owing: Owing): string {
-  const { said, note } = tabooSaid(owing)
   return [
     DECIDING,
-    ...said,
+    ...tabooSaid(owing),
     owing.warrant.owed,
     DECIDE,
     "",
     `  ${READ_CALL} ${owing.warrant.path}`,
-    ...(note === null ? [] : ["", note]),
   ].join("\n")
 }
 
