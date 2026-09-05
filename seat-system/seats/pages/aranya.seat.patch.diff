@@ -807,3 +807,11 @@ index f5a9069df60cd45735368fe6032c739a3257f230..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-classes
 \ No newline at end of file
+diff --git a/temper/temper-collections-addon/temper-collections-addon b/temper/temper-collections-addon/temper-collections-addon
+deleted file mode 120000
+index 08abe8f9f8b3b21351b03929ba83c371ec069763..0000000000000000000000000000000000000000
+--- a/temper/temper-collections-addon/temper-collections-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-collections-addon
+\ No newline at end of file
