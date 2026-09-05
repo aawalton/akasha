@@ -1,15 +1,21 @@
 runsWarrants: false
 diff --git a/persona-system/review-sessions/review-session.page-type.ts b/persona-system/review-sessions/review-session.page-type.ts
-index 575d5d45d7f318f089aaa01a394d5418b4baaea1..69b321ee0db8e594ca41c98b2359b1bec53a6dfe 100644
+index 575d5d45d7f318f089aaa01a394d5418b4baaea1..874be3e90bb33ca50fb681158dc8cfd7f404c178 100644
 --- a/persona-system/review-sessions/review-session.page-type.ts
 +++ b/persona-system/review-sessions/review-session.page-type.ts
-@@ -36,7 +36,8 @@ export const reviewSession = {
+@@ -36,11 +36,13 @@ export const reviewSession = {
      },
      {
        invariantKind: "departure",
 -      statement: "A session names the persona who looked rather than what that persona looked at.",
 +      statement:
 +        "A session names the persona who looked rather than the part of Alan's life that persona looked at.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A session's slug joins what was looked over to the day of the looking.",
++      statement:
++        "A session's slug joins the part of Alan's life looked over to the day of the looking.",
      },
      {
        invariantKind: "departure",
