@@ -62,7 +62,7 @@ export const watcherTaskLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a completion changes about a task.",
+      statement: "Nothing here decides the keys a completion changes on a task.",
     },
   ],
 } as const satisfies Module
