@@ -1351,3 +1351,11 @@ index b59c8dcd16f5b56c5d916dbc1aa32ae2205ea445..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-table-functions
 \ No newline at end of file
+diff --git a/temper/temper-lib-treasure/temper-lib-treasure b/temper/temper-lib-treasure/temper-lib-treasure
+deleted file mode 120000
+index 7e00fccda3fab762bf6a3b03edee7304300c4ae3..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-treasure/temper-lib-treasure
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-treasure
+\ No newline at end of file
