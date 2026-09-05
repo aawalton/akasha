@@ -1,3 +1,38 @@
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
+index be442d64e442e9f74000dcd47b4eec1781c4c0b4..f39c5006bbe391098f1b8a4d208d36e3c851e9c9 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
+@@ -1,4 +1,5 @@
+ import type { Change } from "@akasha/pages-system/change"
++import type { Carried } from "@akasha/pages-system/page-type-properties"
+ import { bytesOf } from "@akasha/testing-system/bodying"
+ import {
+   filing,
+@@ -70,6 +71,24 @@ export function propertied(root: string, kind: string, slug: string, id: string)
+   )
+ }
+ 
++export function holding(one: Partial<Carried>): Carried {
++  return {
++    pagePropertySlug: "held",
++    pageTypeSlug: TEXT,
++    propertySlug: "held",
++    key: "held",
++    unique: null,
++    declaredBy: "over",
++    required: true,
++    many: false,
++    max: null,
++    total: null,
++    uncommitted: false,
++    secret: false,
++    ...one,
++  }
++}
++
+ export function restating(
+   root: string,
+   judging: (change: Change) => readonly Judged[],
 diff --git a/pages/indexes/identity/index-identity.index.test.ts b/pages/indexes/identity/index-identity.index.test.ts
 index 77d9a07053140450e63d54dfc777a014b23080d6..77eedd60b90c811e9d594c8ca066dfba76261bda 100644
 --- a/pages/indexes/identity/index-identity.index.test.ts
