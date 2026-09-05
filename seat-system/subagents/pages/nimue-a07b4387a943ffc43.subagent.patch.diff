@@ -1,0 +1,392 @@
+diff --git a/pages/queries/pages/appearance-experiments-all.page-query.ts b/pages/queries/pages/appearance-experiments-all.page-query.ts
+index 68ba174245de1e3e131484663ad7981ce09264bb..c126ba3bddd78349c5a10f4ec3b71be033e5210c 100644
+--- a/pages/queries/pages/appearance-experiments-all.page-query.ts
++++ b/pages/queries/pages/appearance-experiments-all.page-query.ts
+@@ -5,5 +5,5 @@ export const appearanceExperimentsAll = {
+   pageTypeSlug: "page-query",
+   slug: "appearance-experiments-all",
+   asksOfSlug: "appearance-experiment",
+-  keys: ["persona-slug", "date", "verdict"],
++  keys: ["personaSlug", "date", "verdict"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/artists-all.page-query.ts b/pages/queries/pages/artists-all.page-query.ts
+index f8b995b7c7ea5780c6d0fc8d54a45a01f2bee324..4dedd540855e2521410ffc1a37ca5cd30e68d608 100644
+--- a/pages/queries/pages/artists-all.page-query.ts
++++ b/pages/queries/pages/artists-all.page-query.ts
+@@ -5,5 +5,5 @@ export const artistsAll = {
+   pageTypeSlug: "page-query",
+   slug: "artists-all",
+   asksOfSlug: "artist",
+-  keys: ["id", "slug", "title", "genre", "rating", "external-id"],
++  keys: ["id", "slug", "title", "genre", "rating", "externalId"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/calendar-event-sources-all.page-query.ts b/pages/queries/pages/calendar-event-sources-all.page-query.ts
+index 835027add21f50b7ce967a11f91f854c541a6a4c..11372308a4d25f3eb1f488497ac11925e65730ba 100644
+--- a/pages/queries/pages/calendar-event-sources-all.page-query.ts
++++ b/pages/queries/pages/calendar-event-sources-all.page-query.ts
+@@ -7,12 +7,12 @@ export const calendarEventSourcesAll = {
+   asksOfSlug: "calendar-event-source",
+   keys: [
+     "slug",
+-    "external-id",
++    "externalId",
+     "kind",
+-    "base-url",
+-    "feed-url",
++    "baseUrl",
++    "feedUrl",
+     "timezone",
+-    "provider-client",
+-    "sync-status",
++    "providerClient",
++    "syncStatus",
+   ],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/character-build-all.page-query.ts b/pages/queries/pages/character-build-all.page-query.ts
+index 615fe572ab3c75acc22fc20aefacad98add28848..295fd5eee28f919ffa9df74569ff4c7db6cacbcb 100644
+--- a/pages/queries/pages/character-build-all.page-query.ts
++++ b/pages/queries/pages/character-build-all.page-query.ts
+@@ -5,5 +5,5 @@ export const characterBuildAll = {
+   pageTypeSlug: "page-query",
+   slug: "character-build-all",
+   asksOfSlug: "character-build",
+-  keys: ["slug", "title", "build-hash", "visibility", "correlation-id", "target-count"],
++  keys: ["slug", "title", "buildHash", "visibility", "correlationId", "targetCount"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/companion-build-all.page-query.ts b/pages/queries/pages/companion-build-all.page-query.ts
+index fb3168b64abf2ede666ee8c4078d80a332317f30..d507cf2dd47f7c3458e7a1f7895fd1bee9bb9545 100644
+--- a/pages/queries/pages/companion-build-all.page-query.ts
++++ b/pages/queries/pages/companion-build-all.page-query.ts
+@@ -5,5 +5,5 @@ export const companionBuildAll = {
+   pageTypeSlug: "page-query",
+   slug: "companion-build-all",
+   asksOfSlug: "companion-build",
+-  keys: ["slug", "title", "build-hash", "visibility", "correlation-id", "target-count"],
++  keys: ["slug", "title", "buildHash", "visibility", "correlationId", "targetCount"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/inbox-readings-on-day.page-query.ts b/pages/queries/pages/inbox-readings-on-day.page-query.ts
+index e7b245f48dd030fd7c6b49196a6caa7411a4fd91..f6f6ee739b67738ff898071361e116a55ca66b82 100644
+--- a/pages/queries/pages/inbox-readings-on-day.page-query.ts
++++ b/pages/queries/pages/inbox-readings-on-day.page-query.ts
+@@ -9,10 +9,10 @@ export const inboxReadingsOnDay = {
+   narrows: [{ key: "date", comparison: "is", values: ["$day"] }],
+   keys: [
+     "date",
+-    "inbox-tasks",
+-    "inbox-tasks-cleared-today",
+-    "inbox-temper-tasks",
+-    "inbox-temper-tasks-cleared-today",
++    "inboxTasks",
++    "inboxTasksClearedToday",
++    "inboxTemperTasks",
++    "inboxTemperTasksClearedToday",
+   ],
+   limit: 1,
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/messages-claimed-before.page-query.ts b/pages/queries/pages/messages-claimed-before.page-query.ts
+index e26f4ba993ae4a78f5870e730b4105df9e789eb2..df135a55e6bcaa898903b79adfea49441261c6a9 100644
+--- a/pages/queries/pages/messages-claimed-before.page-query.ts
++++ b/pages/queries/pages/messages-claimed-before.page-query.ts
+@@ -11,7 +11,7 @@ export const messagesClaimedBefore = {
+   ],
+   narrows: [
+     { key: "to", comparison: "is", values: ["$to"] },
+-    { key: "claimed-at", comparison: "before", values: ["$before"] },
++    { key: "claimedAt", comparison: "before", values: ["$before"] },
+   ],
+-  keys: ["to", "from", "warrant", "claimed-at", "body"],
++  keys: ["to", "from", "warrant", "claimedAt", "body"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/messages-to.page-query.ts b/pages/queries/pages/messages-to.page-query.ts
+index 31d8931e4725e5b8a65f043cd0f07501182347c5..5c3da7279cae753a7a1896dcc143e116dd73267b 100644
+--- a/pages/queries/pages/messages-to.page-query.ts
++++ b/pages/queries/pages/messages-to.page-query.ts
+@@ -7,5 +7,5 @@ export const messagesTo = {
+   asksOfSlug: "message",
+   parameters: [{ name: "to", type: "text" }],
+   narrows: [{ key: "to", comparison: "is", values: ["$to"] }],
+-  keys: ["to", "from", "warrant", "claimed-at", "body"],
++  keys: ["to", "from", "warrant", "claimedAt", "body"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/music-songs-all.page-query.ts b/pages/queries/pages/music-songs-all.page-query.ts
+index 818bacd6bc34dbf326bd13cede6ee9c8eb2f7781..1d1b1397f065c74b0a8193eaf98bac4084793972 100644
+--- a/pages/queries/pages/music-songs-all.page-query.ts
++++ b/pages/queries/pages/music-songs-all.page-query.ts
+@@ -5,5 +5,5 @@ export const musicSongsAll = {
+   pageTypeSlug: "page-query",
+   slug: "music-songs-all",
+   asksOfSlug: "song",
+-  keys: ["id", "slug", "title", "artist-slug", "song-type", "written", "performed", "rating"],
++  keys: ["id", "slug", "title", "artistSlug", "songType", "written", "performed", "rating"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/page-type-all.page-query.ts b/pages/queries/pages/page-type-all.page-query.ts
+index 67e7e44530a7f4babb5f9b19650e90c4eb2533fb..34253bcb39fb906b6fadcaa1bf016185544702d7 100644
+--- a/pages/queries/pages/page-type-all.page-query.ts
++++ b/pages/queries/pages/page-type-all.page-query.ts
+@@ -5,5 +5,5 @@ export const pageTypeAll = {
+   pageTypeSlug: "page-query",
+   slug: "page-type-all",
+   asksOfSlug: "page-type",
+-  keys: ["slug", "extends-slug"],
++  keys: ["slug", "extendsSlug"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-all.page-query.ts b/pages/queries/pages/persona-all.page-query.ts
+index f89c454686a197e993597eff7524d0be08e56b55..58b3a450217930f08ed832c83eced29dc5610ec7 100644
+--- a/pages/queries/pages/persona-all.page-query.ts
++++ b/pages/queries/pages/persona-all.page-query.ts
+@@ -11,10 +11,10 @@ export const personaAll = {
+     "seq",
+     "title",
+     "cover",
+-    "value-slug",
+-    "green-day-points",
+-    "last-messaged-at",
++    "valueSlug",
++    "greenDayPoints",
++    "lastMessagedAt",
+     "email",
+-    "voice-reference-sha256",
++    "voiceReferenceSha256",
+   ],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-anchor-images-all.page-query.ts b/pages/queries/pages/persona-anchor-images-all.page-query.ts
+index 5dc29548f13730eca6a3345f7fa8070aa90570a0..88e258b3b0e18b04398d9999650ea6504ad7442b 100644
+--- a/pages/queries/pages/persona-anchor-images-all.page-query.ts
++++ b/pages/queries/pages/persona-anchor-images-all.page-query.ts
+@@ -5,5 +5,5 @@ export const personaAnchorImagesAll = {
+   pageTypeSlug: "page-query",
+   slug: "persona-anchor-images-all",
+   asksOfSlug: "persona-anchor-image",
+-  keys: ["persona-slug", "image-path", "image-root"],
++  keys: ["personaSlug", "imagePath", "imageRoot"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-cover-images-all.page-query.ts b/pages/queries/pages/persona-cover-images-all.page-query.ts
+index eaca5eef14cb2a67989d23fd6aeedb4334fd3412..96b5dd6ce68678182b51b612b6f1a7ee627e5ce9 100644
+--- a/pages/queries/pages/persona-cover-images-all.page-query.ts
++++ b/pages/queries/pages/persona-cover-images-all.page-query.ts
+@@ -5,5 +5,5 @@ export const personaCoverImagesAll = {
+   pageTypeSlug: "page-query",
+   slug: "persona-cover-images-all",
+   asksOfSlug: "persona-cover-image",
+-  keys: ["persona-slug", "relationship-level", "image-path"],
++  keys: ["personaSlug", "relationshipLevel", "imagePath"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-craft-days-all.page-query.ts b/pages/queries/pages/persona-craft-days-all.page-query.ts
+index 268c0f4bd60cdadfc8a0168344c16391b0799219..18b7cd95f138fcfaf7ebb460cbc31b68707db520 100644
+--- a/pages/queries/pages/persona-craft-days-all.page-query.ts
++++ b/pages/queries/pages/persona-craft-days-all.page-query.ts
+@@ -5,12 +5,5 @@ export const personaCraftDaysAll = {
+   pageTypeSlug: "page-query",
+   slug: "persona-craft-days-all",
+   asksOfSlug: "persona-craft-day",
+-  keys: [
+-    "persona-slug",
+-    "date",
+-    "value-slug",
+-    "advance-count",
+-    "new-persona-count",
+-    "improvement-count",
+-  ],
++  keys: ["personaSlug", "date", "valueSlug", "advanceCount", "newPersonaCount", "improvementCount"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-days-all.page-query.ts b/pages/queries/pages/persona-days-all.page-query.ts
+index 6405462b46cc28dd8706a634213a0d38eaba313e..0ca79d7b932cbeb1b3c67f8226008915f19a7009 100644
+--- a/pages/queries/pages/persona-days-all.page-query.ts
++++ b/pages/queries/pages/persona-days-all.page-query.ts
+@@ -5,5 +5,5 @@ export const personaDaysAll = {
+   pageTypeSlug: "page-query",
+   slug: "persona-days-all",
+   asksOfSlug: "persona-day",
+-  keys: ["persona-slug", "date", "value-slug", "source-points", "green-day-points"],
++  keys: ["personaSlug", "date", "valueSlug", "sourcePoints", "greenDayPoints"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-days-on-day.page-query.ts b/pages/queries/pages/persona-days-on-day.page-query.ts
+index 875e630897cad84972cad0ae8e0bafa412ea56a0..3f5d4f5ac6e4b09a4e0a1567dac12bdefd755274 100644
+--- a/pages/queries/pages/persona-days-on-day.page-query.ts
++++ b/pages/queries/pages/persona-days-on-day.page-query.ts
+@@ -7,6 +7,6 @@ export const personaDaysOnDay = {
+   asksOfSlug: "persona-day",
+   parameters: [{ name: "date", type: "calendar-date" }],
+   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
+-  keys: ["persona-slug", "date"],
++  keys: ["personaSlug", "date"],
+   limit: 1000,
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-wallpaper-notifications-all.page-query.ts b/pages/queries/pages/persona-wallpaper-notifications-all.page-query.ts
+index 373ea7de207defcda683e77cee7241f60164c202..ed364614803d6a0124f518d21e9aba87d54749e8 100644
+--- a/pages/queries/pages/persona-wallpaper-notifications-all.page-query.ts
++++ b/pages/queries/pages/persona-wallpaper-notifications-all.page-query.ts
+@@ -5,5 +5,5 @@ export const personaWallpaperNotificationsAll = {
+   pageTypeSlug: "page-query",
+   slug: "persona-wallpaper-notifications-all",
+   asksOfSlug: "persona-wallpaper-notification",
+-  keys: ["persona-slug", "relationship-level"],
++  keys: ["personaSlug", "relationshipLevel"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-wallpapers-all.page-query.ts b/pages/queries/pages/persona-wallpapers-all.page-query.ts
+index b5772330de7e279b2ad021abbe1b3591f5f1fa31..80a22ca8116528a9243469ad19b05421ca51e7e1 100644
+--- a/pages/queries/pages/persona-wallpapers-all.page-query.ts
++++ b/pages/queries/pages/persona-wallpapers-all.page-query.ts
+@@ -5,5 +5,5 @@ export const personaWallpapersAll = {
+   pageTypeSlug: "page-query",
+   slug: "persona-wallpapers-all",
+   asksOfSlug: "persona-wallpaper",
+-  keys: ["persona-slug", "image-path", "image-root", "relationship-level", "eso-day", "stage"],
++  keys: ["personaSlug", "imagePath", "imageRoot", "relationshipLevel", "esoDay", "stage"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/readout-scales-all.page-query.ts b/pages/queries/pages/readout-scales-all.page-query.ts
+index dab870be26e1cbc9a4412b0c61e00e7a6d919c88..05aaebef1ad1401db8ddbaa0807c282cba7ecd8c 100644
+--- a/pages/queries/pages/readout-scales-all.page-query.ts
++++ b/pages/queries/pages/readout-scales-all.page-query.ts
+@@ -5,5 +5,5 @@ export const readoutScalesAll = {
+   pageTypeSlug: "page-query",
+   slug: "readout-scales-all",
+   asksOfSlug: "readout-scale",
+-  keys: ["slug", "yellow-at", "orange-at", "red-at", "black-at"],
++  keys: ["slug", "yellowAt", "orangeAt", "redAt", "blackAt"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/readouts-all.page-query.ts b/pages/queries/pages/readouts-all.page-query.ts
+index 9f206fa5963bc5795935d94ff37059eef055168e..d4ecca2c699d9579f131930f59e14c8dac26e4e7 100644
+--- a/pages/queries/pages/readouts-all.page-query.ts
++++ b/pages/queries/pages/readouts-all.page-query.ts
+@@ -5,5 +5,5 @@ export const readoutsAll = {
+   pageTypeSlug: "page-query",
+   slug: "readouts-all",
+   asksOfSlug: "readout",
+-  keys: ["slug", "none-left-words", "none-left-emoji"],
++  keys: ["slug", "noneLeftWords", "noneLeftEmoji"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/relationships-all.page-query.ts b/pages/queries/pages/relationships-all.page-query.ts
+index 8832887180178393e8e82296776bc7a2dc2057fb..dc6ad44aa2e06afff731df8b4f6e2004dad5040d 100644
+--- a/pages/queries/pages/relationships-all.page-query.ts
++++ b/pages/queries/pages/relationships-all.page-query.ts
+@@ -7,12 +7,12 @@ export const relationshipsAll = {
+   asksOfSlug: "relationship",
+   keys: [
+     "title",
+-    "relationship-current-circle",
+-    "relationship-commitment",
+-    "relationship-connection",
+-    "relationship-impact",
+-    "relationship-interest",
++    "relationshipCurrentCircle",
++    "relationshipCommitment",
++    "relationshipConnection",
++    "relationshipImpact",
++    "relationshipInterest",
+     "relationship-email",
+-    "relationship-phone",
++    "relationshipPhone",
+   ],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/review-sessions-all.page-query.ts b/pages/queries/pages/review-sessions-all.page-query.ts
+index 4e881309581f10a5743bd84ed044288a75322733..023c54981cb464aad2336e51c2c2c5bf23fa821a 100644
+--- a/pages/queries/pages/review-sessions-all.page-query.ts
++++ b/pages/queries/pages/review-sessions-all.page-query.ts
+@@ -5,5 +5,5 @@ export const reviewSessionsAll = {
+   pageTypeSlug: "page-query",
+   slug: "review-sessions-all",
+   asksOfSlug: "review-session",
+-  keys: ["persona-slug", "date"],
++  keys: ["personaSlug", "date"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/rules-engine-rule-set-all.page-query.ts b/pages/queries/pages/rules-engine-rule-set-all.page-query.ts
+index b32b11ea2eea28c7e6029cd565de6e8369072a7d..7f2ae484c69f36d6bf1fe89ab7b54257804f5e5e 100644
+--- a/pages/queries/pages/rules-engine-rule-set-all.page-query.ts
++++ b/pages/queries/pages/rules-engine-rule-set-all.page-query.ts
+@@ -5,5 +5,5 @@ export const rulesEngineRuleSetAll = {
+   pageTypeSlug: "page-query",
+   slug: "rules-engine-rule-set-all",
+   asksOfSlug: "rules-engine-rule-set",
+-  keys: ["slug", "extends-slug"],
++  keys: ["slug", "extendsSlug"],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/session-activities-all.page-query.ts b/pages/queries/pages/session-activities-all.page-query.ts
+index 69ef0cd92e316784582a25abe2b1b7cf588fff13..2c8b507afd6e791d03862d298c84bdcf018010f0 100644
+--- a/pages/queries/pages/session-activities-all.page-query.ts
++++ b/pages/queries/pages/session-activities-all.page-query.ts
+@@ -5,6 +5,6 @@ export const sessionActivitiesAll = {
+   pageTypeSlug: "page-query",
+   slug: "session-activities-all",
+   asksOfSlug: "session-activity",
+-  keys: ["title", "default-difficulty"],
++  keys: ["title", "defaultDifficulty"],
+   sortBy: "title",
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/to-dos-due.page-query.ts b/pages/queries/pages/to-dos-due.page-query.ts
+index 22c003d960e4128def1d026e94a328576ca13cd2..da8374cb135ee9eb65b461c5149366bacb8e8766 100644
+--- a/pages/queries/pages/to-dos-due.page-query.ts
++++ b/pages/queries/pages/to-dos-due.page-query.ts
+@@ -5,5 +5,5 @@ export const toDosDue = {
+   pageTypeSlug: "page-query",
+   slug: "to-dos-due",
+   asksOfSlug: "to-do",
+-  keys: ["slug", "title", "due-date", "due-time", "priority", "value-slug", "recurrence"],
++  keys: ["slug", "title", "due-date", "dueTime", "priority", "value-slug", "recurrence"],
+ } as const satisfies PageQuery
+diff --git a/readout-system/values/pages/faith.value.ts b/readout-system/values/pages/faith.value.ts
+index 9d3eaa05e85bc1684d680c65af7f2afc8142af01..d30ea6127c7d4e32e9626109f8b81b90bd9196a5 100644
+--- a/readout-system/values/pages/faith.value.ts
++++ b/readout-system/values/pages/faith.value.ts
+@@ -13,6 +13,4 @@ export const faith = {
+   unit: "green day units",
+   scaleSlug: "readout-scale/green-day-units",
+   groupSlugs: ["readout-group/values"],
+-  queryArgument: "value",
+-  queryKey: "faith",
+ } as const satisfies Value
+diff --git a/readout-system/values/pages/fun.value.ts b/readout-system/values/pages/fun.value.ts
+index 79eca15b7f0c751089ad82d059caf7dd1b088a51..020c3f4b486ffc427ba5796ca01336077bab61c1 100644
+--- a/readout-system/values/pages/fun.value.ts
++++ b/readout-system/values/pages/fun.value.ts
+@@ -13,6 +13,4 @@ export const fun = {
+   unit: "green day units",
+   scaleSlug: "readout-scale/green-day-units",
+   groupSlugs: ["readout-group/values"],
+-  queryArgument: "value",
+-  queryKey: "fun",
+ } as const satisfies Value
+diff --git a/readout-system/values/pages/health.value.ts b/readout-system/values/pages/health.value.ts
+index 3340b5b9dbac9142a7fd36a80c10af6cd983426f..9a0fbb12d3ce0a9ab8e07436f02ab166a3475c3f 100644
+--- a/readout-system/values/pages/health.value.ts
++++ b/readout-system/values/pages/health.value.ts
+@@ -13,6 +13,4 @@ export const health = {
+   unit: "green day units",
+   scaleSlug: "readout-scale/green-day-units",
+   groupSlugs: ["readout-group/values"],
+-  queryArgument: "value",
+-  queryKey: "health",
+ } as const satisfies Value
+diff --git a/readout-system/values/pages/learn.value.ts b/readout-system/values/pages/learn.value.ts
+index 1a8bc300ce9cf7335021027b4e44c84c21cbd630..fa65573018a48f10d92912a26c203c278f168057 100644
+--- a/readout-system/values/pages/learn.value.ts
++++ b/readout-system/values/pages/learn.value.ts
+@@ -13,6 +13,4 @@ export const learn = {
+   unit: "green day units",
+   scaleSlug: "readout-scale/green-day-units",
+   groupSlugs: ["readout-group/values"],
+-  queryArgument: "value",
+-  queryKey: "learn",
+ } as const satisfies Value
+diff --git a/readout-system/values/pages/love.value.ts b/readout-system/values/pages/love.value.ts
+index d1b1146fb325eb262cfc1e41c566977ecb1bffa5..15ef2aebfe465211679a3a27caa2fbb5e065331a 100644
+--- a/readout-system/values/pages/love.value.ts
++++ b/readout-system/values/pages/love.value.ts
+@@ -13,6 +13,4 @@ export const love = {
+   unit: "green day units",
+   scaleSlug: "readout-scale/green-day-units",
+   groupSlugs: ["readout-group/values"],
+-  queryArgument: "value",
+-  queryKey: "love",
+ } as const satisfies Value
+diff --git a/readout-system/values/pages/wealth.value.ts b/readout-system/values/pages/wealth.value.ts
+index eca228ea25747450a6b7415df8635b7f8a695782..d778a06e8dc2306b9ff06ab73bfcf1ebbb93b1e5 100644
+--- a/readout-system/values/pages/wealth.value.ts
++++ b/readout-system/values/pages/wealth.value.ts
+@@ -13,6 +13,4 @@ export const wealth = {
+   unit: "green day units",
+   scaleSlug: "readout-scale/green-day-units",
+   groupSlugs: ["readout-group/values"],
+-  queryArgument: "value",
+-  queryKey: "wealth",
+ } as const satisfies Value
