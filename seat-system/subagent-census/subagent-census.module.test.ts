@@ -21,10 +21,25 @@ import {
   OWN,
   pagePut,
   SEAT_ID,
+  STAMPED,
   TASK,
   takeLine,
   writeLine,
 } from "./subagent-census.module.test-fixtures.ts"
+
+test("a take-down is read whether or not its line opens with the time it was written", () => {
+  const base = world.rootFor("subagent-census-logs-")
+  logPut(base, SEAT_ID, [takeLine("akasha", OWN), `${STAMPED} ${takeLine("akasha", AGAIN)}`])
+  expect([...takenDownIn(base)].sort()).toEqual([`akasha ${AGAIN}`, `akasha ${OWN}`])
+  world.sweep()
+})
+
+test("a put-up is no take-down whether or not its line opens with a time", () => {
+  const base = world.rootFor("subagent-census-logs-")
+  logPut(base, SEAT_ID, [writeLine("akasha", OWN), `${STAMPED} ${writeLine("akasha", AGAIN)}`])
+  expect(takenDownIn(base).size).toBe(0)
+  world.sweep()
+})
 
 const ACTING = agentIdOf(SEAT_ID, OWN)
 

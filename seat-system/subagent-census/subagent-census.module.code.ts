@@ -29,7 +29,10 @@ const AGENT = "agentId"
 
 const SUFFIX = ".subagent.ts"
 
-const TAKEN = /^subagent-presence: take (\S+) (\S+) — /
+// A LINE MAY OPEN WITH THE TIME IT WAS WRITTEN. The presence log stamps every line it writes, and
+// the lines written before it did carry none, so both are read. Anchoring on the stamp alone would
+// have read the whole log as holding no take-down at all the moment the stamp went on.
+const TAKEN = /^(?:\S+ )?subagent-presence: take (\S+) (\S+) — /
 
 export const WORKING = "WORKING"
 

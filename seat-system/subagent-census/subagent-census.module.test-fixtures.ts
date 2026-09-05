@@ -47,6 +47,8 @@ export function takeLine(seatName: string, own: string): string {
   return `subagent-presence: take ${seatName} ${own} — ${REFUSED}`
 }
 
+export const STAMPED = "2026-09-05T12:17:44.031-06:00"
+
 export function writeLine(seatName: string, own: string): string {
   return `subagent-presence: write ${seatName} ${own} — ${REFUSED}`
 }

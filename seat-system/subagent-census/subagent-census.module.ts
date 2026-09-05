@@ -35,6 +35,10 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
+      statement: "A take-down is read whether or not its line opens with the time it was written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page whose seat's agent id is carried by no process at all reads as stale.",
     },
     {
