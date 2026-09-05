@@ -64,11 +64,11 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "The tolerant reading answers nothing for a page type it cannot read.",
+      statement: "The tolerant reading answers nothing for a page type that reading cannot read.",
     },
     {
       invariantKind: "departure",
-      statement: "The reading beside it refuses over that same page type.",
+      statement: "The reading beside the tolerant reading refuses over that same page type.",
     },
     {
       invariantKind: "absence",
