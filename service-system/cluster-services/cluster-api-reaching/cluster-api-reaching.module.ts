@@ -13,7 +13,7 @@ export const clusterApiReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "An environment missing what a reach needs is a caller's mistake.",
+      statement: "An environment missing a value a reach needs is a caller's mistake.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const clusterApiReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "What the environment gave is held for the life of the process.",
+      statement: "The values the environment gave are held for the life of the process.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const clusterApiReaching = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what a reach answered.",
+      statement: "Nothing here reads the answer a reach gave.",
     },
   ],
 } as const satisfies Module
