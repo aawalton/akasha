@@ -78,12 +78,12 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal carries what each shape said rather than ranking them.",
+      statement: "The refusal carries what each shape said rather than ranking those shapes.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reach written as the name a manifest states counts as one into the folder it lands in.",
+        "A reach written as the name a manifest states counts as one into the folder that reach lands in.",
     },
     {
       invariantKind: "departure",
