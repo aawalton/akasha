@@ -13,3 +13,18 @@ index a8c14b01bcbf12d4ef3d22c57522ea65449df534..bc2880f44717b793050a60b7c68ee40c
      {
        invariantKind: "departure",
        statement: "A shape reads the folders sitting directly under the folder that shape judges.",
+diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+index 7bfc58a606344ca4920195edaacc06ea0ec24fae..2e872b00ac36287a52108cfb5e873e76a34ab5b0 100644
+--- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
++++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+@@ -27,6 +27,10 @@ export const inventoryRuleCalling = {
+       invariantKind: "departure",
+       statement: "A flag said twice is refused rather than read as the last of the two sayings.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A field the call names nothing for is left as that field was.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A rule is named by its id rather than by its place in the list.",
