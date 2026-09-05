@@ -83,11 +83,13 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A marker carrying `mid-line` ends the passage before it without that newline.",
+      statement:
+        "A marker carrying `mid-line` ends the passage before that marker without that newline.",
     },
     {
       invariantKind: "departure",
-      statement: "The split marker ends the passage and the closing marker ends what it becomes.",
+      statement:
+        "The split marker ends the passage and the closing marker ends what that passage becomes.",
     },
     {
       invariantKind: "departure",
@@ -95,7 +97,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage carrying no trailing newline is left as it is.",
+      statement: "A passage carrying no trailing newline is left as that passage is.",
     },
     {
       invariantKind: "departure",
