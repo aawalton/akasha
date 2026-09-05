@@ -12,3 +12,42 @@ index d3dfff502487d7a68eb33756b416a3b9b9e0b5af..dd09316285bd29fe732c7aca822fb9e6
      const named = basename(at)
      const grouping = HELD_FOLDERS.has(named) && !namesOf(placing, holding).includes(named)
      if (!grouping && holding.length > 0) return { holders: holding }
+diff --git a/command-system/commands/move/parenting/move-parenting.module.test.ts b/command-system/commands/move/parenting/move-parenting.module.test.ts
+index 5e8b1c43c38a41daef41104028dad5cf161c4a30..2f7baa969c9b507a0283e76cc69d75e0512ff16c 100644
+--- a/command-system/commands/move/parenting/move-parenting.module.test.ts
++++ b/command-system/commands/move/parenting/move-parenting.module.test.ts
+@@ -30,6 +30,12 @@ const ORPHAN = "akasha/nowhere/orphan/orphan.module.ts"
+ 
+ const ORPHAN_AT = "akasha/two/orphan/orphan.module.ts"
+ 
++const NEST = "akasha/nest/nest.domain.ts"
++
++const DEEP = "akasha/nest/deep/deep.workspace-package.ts"
++
++const DEEP_AT = "akasha/two/deep.workspace-package.ts"
++
+ function idFor(slug: string): string {
+   const held = [...slug].reduce((sum, one) => (sum * 31 + one.charCodeAt(0)) % 0xffffffff, 7)
+   return `01a04bed-1450-7000-8000-${held.toString(16).padStart(12, "0")}`
+@@ -74,6 +80,9 @@ function built(): string {
+         partSlugs: ["module/other", "module/stray"],
+       }),
+       "akasha/two/other/other.module.ts": paged("other", "module"),
++      [NEST]: paged("nest", "domain", { partSlugs: ["workspace-package/deep"] }),
++      [DEEP]: paged("deep", "workspace-package", { partSlugs: ["module/leaf"] }),
++      "akasha/nest/deep/leaf.module.ts": paged("leaf", "module"),
+     })
+   )
+ }
+@@ -165,3 +174,11 @@ test("a file that is no page's own file changes no parts", () => {
+   const from = "akasha/one/held/held.module.code.ts"
+   expect(partedIn(parenting(root, from, "akasha/two/held/held.module.code.ts"))).toEqual([])
+ })
++
++test("a page a carried page holds is not the page holding that carried page", () => {
++  const said = parenting(world(), DEEP, DEEP_AT)
++  expect(refusedIn(said)).toBe("")
++  expect(partedIn(said)).toEqual([
++    ["workspace-package/deep", NEST, "akasha/two/two.workspace-package.ts"],
++  ])
++})
