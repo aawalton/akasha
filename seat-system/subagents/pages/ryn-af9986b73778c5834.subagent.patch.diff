@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lua-runner/persistent-vm/persistent-vm.module.ts b/temper/temper-lua-runner/persistent-vm/persistent-vm.module.ts
+index 8cf194235c5ac5cb545f268fc233c0c0c7a7cb9f..aab6131f3b398937db85b1e52e6f7e77427ef794 100644
+--- a/temper/temper-lua-runner/persistent-vm/persistent-vm.module.ts
++++ b/temper/temper-lua-runner/persistent-vm/persistent-vm.module.ts
+@@ -25,7 +25,7 @@ export const persistentVm = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A failure names the subprocess and what the subprocess did before failing.",
++      statement: "A failure names the subprocess and the work the subprocess did before failing.",
+     },
+     {
+       invariantKind: "departure",
