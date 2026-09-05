@@ -1,5 +1,5 @@
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index 47ae8a257c7b819c9112fca205523b494069f504..052ac8110762b5d14fefcba5d9f81446f69716c1 100644
+index 47ae8a257c7b819c9112fca205523b494069f504..484c87685e164e98853e7ca8634a3f475457524c 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
@@ -11,8 +11,106 @@ index 47ae8a257c7b819c9112fca205523b494069f504..052ac8110762b5d14fefcba5d9f81446
  import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
  
  const FILE_PATH = "--file-path"
+@@ -76,6 +76,97 @@ export function bounded(output: string): readonly string[] {
+   ]
+ }
+ 
++const LISTED = 20
++
++const FAILED = "(fail) "
++
++const UNLOADED = "# Unhandled error between tests"
++
++const SAID = /^error:\s*(.*)$/
++
++const NONE: Summary = { files: 0, failed: 0, passed: 0 }
++
++const DETAIL =
++  'name one test to see why: akasha test --file-path <path> --named "<the test\'s name>"'
++
++type Read = {
++  readonly failing: ReadonlyMap<string, number>
++  readonly unloadable: ReadonlyMap<string, string>
++}
++
++function headed(line: string): string | null {
++  const at = line.endsWith(":") ? line.slice(0, -1) : ""
++  return testNamed(at) ? at : null
++}
++
++function readingOf(output: string): Read {
++  const failing = new Map<string, number>()
++  const unloadable = new Map<string, string>()
++  let at = ""
++  let awaiting = false
++  for (const line of plain(output).split("\n")) {
++    const header = headed(line)
++    if (header !== null) {
++      at = header
++      awaiting = false
++      continue
++    }
++    if (at === "") continue
++    if (line.startsWith(FAILED)) {
++      failing.set(at, (failing.get(at) ?? 0) + 1)
++      continue
++    }
++    if (line === UNLOADED) {
++      unloadable.set(at, "")
++      awaiting = true
++      continue
++    }
++    if (!awaiting) continue
++    const said = SAID.exec(line)
++    if (said === null) continue
++    unloadable.set(at, said[1] ?? "")
++    awaiting = false
++  }
++  return { failing, unloadable }
++}
++
++function many(count: number, one: string): string {
++  return `${count} ${one}${count === 1 ? "" : "s"}`
++}
++
++function listed(head: string, lines: readonly string[]): readonly string[] {
++  if (lines.length === 0) return []
++  const kept = lines.slice(0, LISTED)
++  const rest = lines.length - kept.length
++  return [head, ...kept, ...(rest === 0 ? [] : [`  and ${rest} more`])]
++}
++
++function byPath(one: readonly [string, unknown], two: readonly [string, unknown]): number {
++  return one[0] < two[0] ? -1 : 1
++}
++
++function reportOf(said: Summary, output: string): readonly string[] {
++  const read = readingOf(output)
++  const passed = said.passed ?? 0
++  const failed = said.failed ?? 0
++  const loads = read.unloadable.size
++  const failing = [...read.failing].sort(byPath)
++  const unloadable = [...read.unloadable].sort(byPath)
++  const told = [
++    `${many(passed + failed, "test")} ran: ${passed} passed, ${failed} failed.` +
++      (loads === 0 ? "" : ` ${many(loads, "file")} would not load.`),
++    ...listed(
++      `${many(failing.length, "test file")} failed:`,
++      failing.map(([at, count]) => `  ${at} — ${count} failed`)
++    ),
++    ...listed(
++      `${many(unloadable.length, "file")} would not load:`,
++      unloadable.map(([at, why]) => `  ${at} — ${why}`)
++    ),
++  ]
++  return failing.length + unloadable.length === 0 ? told : [...told, DETAIL]
++}
++
+ function toldOf(
+   verdict: Verdict,
+   said: Summary,
 diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
-index d74e6602287fbde106231b91174e8a77f0359f4b..2431847c715f5f5bc3f2a60f6bc98cef1eefcc3d 100644
+index d74e6602287fbde106231b91174e8a77f0359f4b..73a293ce7e6317d36378f2634783a12e12cc2666 100644
 --- a/commands/test/test.command.test.ts
 +++ b/commands/test/test.command.test.ts
 @@ -9,6 +9,13 @@ const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { exp
@@ -29,3 +127,19 @@ index d74e6602287fbde106231b91174e8a77f0359f4b..2431847c715f5f5bc3f2a60f6bc98cef
  const scratch = scratchWorld()
  
  afterAll(scratch.sweep)
+@@ -72,11 +79,12 @@ check("a flag naming no path is refused", () => {
+   expect(test(["--file-path"], given(root)).refusals[0]).toContain("nothing followed it")
+ })
+ 
+-check("a folder holding no test is refused rather than reported as a pass", () => {
++check("a folder holding no test is an empty run rather than a refusal", () => {
+   const root = repo({ "held.ts": "export const held = 1\n" })
+   const said = test([], given(root))
+-  expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("no file under `.` is a test")
++  expect(said.code).toBe(0)
++  expect(said.refusals).toEqual([])
++  expect(said.report).toEqual(["0 tests ran: 0 passed, 0 failed."])
+ })
+ 
+ check("an output past what one answer holds keeps its end, where the summary is", () => {
