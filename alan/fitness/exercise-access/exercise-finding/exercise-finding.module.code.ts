@@ -3,7 +3,7 @@ import { type Row, rowFor, rowsFor, textIn } from "../exercise-rows/exercise-row
 
 export type Found = { readonly row: Row } | { readonly refused: string }
 
-export type Standing = { readonly row: Row | null } | { readonly refused: string }
+export type Sought = { readonly row: Row | null } | { readonly refused: string }
 
 const EXERCISE = "exercise"
 
@@ -101,7 +101,7 @@ export async function openSession(ref: string | undefined, now: Date): Promise<F
   return { row: session }
 }
 
-export async function activeSchedule(): Promise<Standing> {
+export async function activeSchedule(): Promise<Sought> {
   const found = await rowFor({
     pageTypeSlug: WORKOUT_SCHEDULE,
     where: [{ key: "workoutScheduleActive", eq: true }],
@@ -110,7 +110,7 @@ export async function activeSchedule(): Promise<Standing> {
   return { row: found.row }
 }
 
-export async function scheduleDayFor(scheduleSlug: string, dayOfWeek: string): Promise<Standing> {
+export async function scheduleDayFor(scheduleSlug: string, dayOfWeek: string): Promise<Sought> {
   const found = await rowFor({
     pageTypeSlug: SCHEDULE_DAY,
     where: [
