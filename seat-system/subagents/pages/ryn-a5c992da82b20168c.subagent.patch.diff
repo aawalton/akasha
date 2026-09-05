@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/track/track.command.ts b/commands/track/track.command.ts
-index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..80a68aac81ce0a5c928f9961fa69f99e5531f46f 100644
+index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..8b03a26e62111d53efdee034df2cf3be878999b1 100644
 --- a/commands/track/track.command.ts
 +++ b/commands/track/track.command.ts
 @@ -75,7 +75,7 @@ export const track = {
@@ -9,6 +9,15 @@ index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..80a68aac81ce0a5c928f9961fa69f99e
        invariantKind: "departure",
 -      statement: "What to act on is the first word and the act is the second.",
 +      statement: "The thing to act on is the first word and the act is the second.",
+     },
+     {
+       invariantKind: "departure",
+@@ -115,7 +115,7 @@ export const track = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What `show` says to a reader carries each stretch's own id.",
++      statement: "The answer `show` says to a reader carries each stretch's own id.",
      },
      {
        invariantKind: "departure",
