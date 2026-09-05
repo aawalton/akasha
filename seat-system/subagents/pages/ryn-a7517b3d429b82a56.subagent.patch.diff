@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-upstream-data/zone-eso-stubs/zone-eso-stubs.module.ts b/temper/temper-upstream-data/zone-eso-stubs/zone-eso-stubs.module.ts
+index 73da2513cd3d98bae41f85a795f1bdb36d4a9ff9..c316d1f67b83edc7cafd38aebff0684fbcbdbedb 100644
+--- a/temper/temper-upstream-data/zone-eso-stubs/zone-eso-stubs.module.ts
++++ b/temper/temper-upstream-data/zone-eso-stubs/zone-eso-stubs.module.ts
+@@ -13,7 +13,7 @@ export const zoneEsoStubs = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a stub answers is never read as game data.",
++      statement: "A stub's answer is never read as game data.",
+     },
+   ],
+ } as const satisfies Module
