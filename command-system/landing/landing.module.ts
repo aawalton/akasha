@@ -268,5 +268,25 @@ export const landing = {
       invariantKind: "departure",
       statement: "A draft says whether the change drafted into the patch was mechanical.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away that something still imports refuses the change unwritten.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path carried away that something still imports refuses the change unwritten.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away beside the edits dropping its imports is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away is weighed against its importers whatever the change kind.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A draft is weighed against no importers.",
+    },
   ],
 } as const satisfies Module

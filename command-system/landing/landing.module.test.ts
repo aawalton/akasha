@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { patchIn } from "@akasha/agents/patch-keeping"
 import { rebuiltFrom } from "@akasha/indexes/indexing"
@@ -19,11 +19,15 @@ import {
   A,
   ADMITS,
   BROKEN,
+  besides,
+  blockedCarries,
   bytes,
   CARRIED,
   committedAgain,
   DRAFT,
+  edged,
   filedFor,
+  filesIn,
   git,
   gitOver,
   ID,
@@ -117,7 +121,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
 })
 
 test("a landing that takes a page away takes its index entries with it", async () => {
-  const root = repoWith({ "seed.txt": "held" })
+  const root = await edged({ "seed.txt": "held" })
   await landing(root, CARRIED, "held", ADMITS)
   await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   expect(idFiledIn(root, ID)).toBe(true)
@@ -189,13 +193,13 @@ test("a change that passes is written and committed onto the base it was judged 
 })
 
 test("a change that takes a file away removes it and commits the removal", async () => {
-  const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
+  const root = await edged({ "one.txt": "committed", "two.txt": "committed" })
   const said = await landing(root, [{ path: "two.txt", body: null }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   if ("refusals" in said) return
   expect(existsSync(join(root, "two.txt"))).toBe(false)
   expect(said.took).toEqual(["two.txt"])
-  expect(git(root, ["ls-files"]).trim()).toBe("one.txt")
+  expect(filesIn(root)).toEqual(besides("one.txt"))
 })
 
 test("asking for nothing is refused rather than committed empty", async () => {
@@ -312,7 +316,7 @@ test("what was written is put back when the landing throws after writing", async
 })
 
 test("a path a change carries moves on disk and goes into no commit", async () => {
-  const root = repoWith({ "one.txt": "committed" })
+  const root = await edged({ "one.txt": "committed" })
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
   const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
   const change = [{ path: "new.txt", body: bytes("proposed") }]
@@ -320,20 +324,13 @@ test("a path a change carries moves on disk and goes into no commit", async () =
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
-  expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual(["new.txt", "one.txt"])
+  expect(filesIn(root)).toEqual(besides("new.txt", "one.txt"))
 })
 
 test("a carry that will not go puts back the ones that went and commits nothing", async () => {
-  const root = repoWith({ "one.txt": "committed" })
+  const root = await edged({ "one.txt": "committed" })
   const was = baseOf(root)
-  writeFileSync(join(root, "one.uncommitted.ts"), "one")
-  writeFileSync(join(root, "two.uncommitted.ts"), "two")
-  mkdirSync(join(root, "deep/two.uncommitted.ts"), { recursive: true })
-  writeFileSync(join(root, "deep/two.uncommitted.ts/in-the-way.txt"), "standing here")
-  const carries = [
-    { from: "one.uncommitted.ts", to: "deep/one.uncommitted.ts" },
-    { from: "two.uncommitted.ts", to: "deep/two.uncommitted.ts" },
-  ]
+  const carries = blockedCarries(root)
   const change = [{ path: "new.txt", body: bytes("proposed") }]
   await expect(landing(root, change, "held", ADMITS, null, null, [], carries)).rejects.toThrow()
   expect(readFileSync(join(root, "one.uncommitted.ts"), "utf8")).toBe("one")

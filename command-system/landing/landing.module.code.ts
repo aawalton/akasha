@@ -14,6 +14,7 @@ import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
+import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 
 export type FileEdit = {
@@ -389,7 +390,8 @@ export async function landing(
     if ("why" in held) return { refusals: [held.why, KEPT_AS_IT_WAS] }
     edits = editsOf(held.held)
   }
-  const said = await judged(judging, changeOf(root, { base: judgedAt, edits }))
+  const change = changeOf(root, { base: judgedAt, edits })
+  const said = await judged(judging, change)
   if (drafting !== null) {
     return draftedBy(
       root,
@@ -402,6 +404,15 @@ export async function landing(
       said,
       runningFor(drafting)
     )
+  }
+  const orphaned = orphaningIn(change, absentAfter(edits, carries))
+  if (orphaned.length > 0) {
+    return {
+      refusals: [
+        ...orphaned.map(orphaningSaid),
+        `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
+      ],
+    }
   }
   if (said.length > 0) {
     return {

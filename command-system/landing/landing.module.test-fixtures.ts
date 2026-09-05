@@ -11,7 +11,7 @@ import { textProperty } from "@akasha/pages-system/text-property"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils-run/running"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { FileEdit, Landed, Refused } from "./landing.module.code.ts"
+import type { FileCarry, FileEdit, Landed, Refused } from "./landing.module.code.ts"
 import { landing } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
@@ -65,6 +65,45 @@ export function gitOver(root: string): readonly string[] {
 export const ID = "01a04e11-0000-7000-8000-000000000001"
 
 export const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
+
+const IMPORTED = "akasha/held.ts"
+
+const IMPORTING = "akasha/holding.ts"
+
+export async function edged(named: Readonly<Record<string, string | Uint8Array>>): Promise<string> {
+  const root = repoWith(named)
+  const said = await landing(
+    root,
+    [
+      { path: IMPORTED, body: bytesOf("export const held = 1\n") },
+      {
+        path: IMPORTING,
+        body: bytesOf('import { held } from "./held.ts"\n\nexport const holding = held\n'),
+      },
+    ],
+    "the index holds an import edge",
+    ADMITS
+  )
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  return root
+}
+
+export const besides = (...paths: readonly string[]): readonly string[] =>
+  [IMPORTED, IMPORTING, ...paths].sort()
+
+export const filesIn = (root: string): readonly string[] =>
+  git(root, ["ls-files"]).trim().split("\n").sort()
+
+export function blockedCarries(root: string): readonly FileCarry[] {
+  writeFileSync(join(root, "one.uncommitted.ts"), "one")
+  writeFileSync(join(root, "two.uncommitted.ts"), "two")
+  mkdirSync(join(root, "deep/two.uncommitted.ts"), { recursive: true })
+  writeFileSync(join(root, "deep/two.uncommitted.ts/in-the-way.txt"), "in the way")
+  return [
+    { from: "one.uncommitted.ts", to: "deep/one.uncommitted.ts" },
+    { from: "two.uncommitted.ts", to: "deep/two.uncommitted.ts" },
+  ]
+}
 
 export function pageRepo(): string {
   return repoWith({ [PAGE]: A })

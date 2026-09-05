@@ -60,6 +60,7 @@ export const commandSystem = {
     "module/harness-landing",
     "module/commands-served",
     "module/command-server",
+    "module/orphaning",
   ],
   invariants: [
     {
