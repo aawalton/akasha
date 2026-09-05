@@ -519,3 +519,11 @@ index e890d7ca88b5840db5967296c0c3b4951858d6a2..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-addon-library-types
 \ No newline at end of file
+diff --git a/temper/temper-addons-resolve/temper-addons-resolve b/temper/temper-addons-resolve/temper-addons-resolve
+deleted file mode 120000
+index 95a09d805466d678550220112b03ee9dee371084..0000000000000000000000000000000000000000
+--- a/temper/temper-addons-resolve/temper-addons-resolve
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-addons-resolve
+\ No newline at end of file
