@@ -46,7 +46,7 @@ export const emailEntryWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "What the landing reports is checked against what the disk holds.",
+      statement: "The landing's report is checked against the file on disk.",
     },
     {
       invariantKind: "constraint",
