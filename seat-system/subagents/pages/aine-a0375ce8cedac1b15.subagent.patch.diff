@@ -43,7 +43,7 @@ index 430532c9e8378c88c7e505c9cda44852c9a48562..4b3490c40db58bac1c4bef1cc4832b98
 +  definition: "what a domain states of itself and of what is beneath it",
  } as const satisfies AuthorityKind
 diff --git a/person-system/person-accesses/properties/person-access-serves.text-property.ts b/person-system/person-accesses/properties/person-access-serves.text-property.ts
-index 56734a7d4b092beb6cf2d2c92ae75349e82b3d1b..733142c35ed57c58c7efbf1d0584e35fff83dc2b 100644
+index 56734a7d4b092beb6cf2d2c92ae75349e82b3d1b..470f889b0b49046f4e725a90aed64aff006e9228 100644
 --- a/person-system/person-accesses/properties/person-access-serves.text-property.ts
 +++ b/person-system/person-accesses/properties/person-access-serves.text-property.ts
 @@ -7,7 +7,7 @@ export const personAccessServes = {
@@ -55,6 +55,15 @@ index 56734a7d4b092beb6cf2d2c92ae75349e82b3d1b..733142c35ed57c58c7efbf1d0584e35f
    max: 100,
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
+@@ -17,7 +17,7 @@ export const personAccessServes = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "No page type served by a target stands as a page.",
++      statement: "No page type served by a target exists as a page.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/person-system/person-authorities/properties/person-authority-target.text-property.ts b/person-system/person-authorities/properties/person-authority-target.text-property.ts
 index a691c8acfc22134e16d14726feb7b6bfdd4a92c8..70b0005cec2f0232bc6ff08b93a8c8f03b0cca1c 100644
 --- a/person-system/person-authorities/properties/person-authority-target.text-property.ts
@@ -69,7 +78,7 @@ index a691c8acfc22134e16d14726feb7b6bfdd4a92c8..70b0005cec2f0232bc6ff08b93a8c8f0
    ],
  } as const satisfies TextProperty
 diff --git a/person-system/sms-consents/sms-consent.page-type.ts b/person-system/sms-consents/sms-consent.page-type.ts
-index 004bbc409380c3ed1eb644220615e070502e833b..bcb2c0a995f6df750f182a2f3397f99a3a674e2d 100644
+index 004bbc409380c3ed1eb644220615e070502e833b..52e6dab1d01aafad7be3c8cf6b2a58c5b11d9522 100644
 --- a/person-system/sms-consents/sms-consent.page-type.ts
 +++ b/person-system/sms-consents/sms-consent.page-type.ts
 @@ -54,7 +54,7 @@ export const smsConsent = {
@@ -81,3 +90,12 @@ index 004bbc409380c3ed1eb644220615e070502e833b..bcb2c0a995f6df750f182a2f3397f99a
      },
      {
        invariantKind: "departure",
+@@ -62,7 +62,7 @@ export const smsConsent = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The consents stand as pages under this type rather than as markdown.",
++      statement: "The consents exist as pages under this type rather than as markdown.",
+     },
+   ],
+ } as const satisfies PageType
